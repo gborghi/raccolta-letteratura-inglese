@@ -20,54 +20,54 @@ by
 
 G. K. Chesterton
 
- First Published 1950
- By Sheed And Ward, Inc.
- [[New York]]
+First Published 1950
+By Sheed And Ward, Inc.
+[[New York]]
 
-  THE [[Common Man|COMMON MAN]]
-  A MIDSUMMER [[Night|NIGHT]]'S DREAM
-  ON READING
-  MONSTERS AND THE MIDDLE AGES
-  WHAT NOVELISTS ARE FOR
-  THE [[Song|SONG]] OF ROLAND
-  THE SUPERSTITION OF SCHOOL
-  THE [[Romance|ROMANCE]] OF A RASCAL
-  PAYING FOR PATRIOTISM
-  THE PANTOMIME
-  READING THE [[Riddle|RIDDLE]]
-  A TALE OF TWO CITIES
-  GOD AND GOODS
-  FROM MEREDITH TO RUPERT BROOKE
-  THE DANGERS OF NECROMANCY
-  GIOTTO AND ST. FRANCIS
-  THE NEW GROOVE
-  THE REAL DR. JOHNSON
-  RABELAISIAN REGRETS
-  THE HOUND OF HEAVEN
-  THE FRIVOLOUS MAN
-  TWO STUBBORN PIECES OF IRON
-  HENRY JAMES
-  THE STRANGE TALK OF TWO VICTORIANS
-  LAUGHTER
-  TALES FROM TOLSTOI
-  THE NEW CASE FOR CATHOLIC SCHOOLS
-  VULGARITY
-  THE REVIVAL OF [[philosophy|PHILOSOPHY]]--WHY?
-  VANDALISM
-  ELIZABETH BARRETT BROWNING
-  THE ERASTIAN ON THE ESTABLISHMENT
-  THE END OF THE MODERNS
-  WALTER DE LA MARE
-  THE MEANING OF METRE
-  CONCERNING A STRANGE [[City|CITY]]
-  THE EPITAPH OF PIERPONT MORGAN
-  THE NEW BIGOTRY
-  BOOKS FOR BOYS
-  THE OUTLINE OF LIBERTY
-  A NOTE ON NUDISM
-  CONSULTING THE ENCYCLOPAEDIA
-  IF I HAD ONLY ONE SERMON TO PREACH
-  IF [[Don John of Austria|DON JOHN OF AUSTRIA]] HAD MARRIED MARY [[Queen|QUEEN]] OF SCOTS
+THE [[Common Man|COMMON MAN]]
+A MIDSUMMER [[Night|NIGHT]]'S DREAM
+ON READING
+MONSTERS AND THE MIDDLE AGES
+WHAT NOVELISTS ARE FOR
+THE [[Song|SONG]] OF ROLAND
+THE SUPERSTITION OF SCHOOL
+THE [[Romance|ROMANCE]] OF A RASCAL
+PAYING FOR PATRIOTISM
+THE PANTOMIME
+READING THE [[Riddle|RIDDLE]]
+A TALE OF TWO CITIES
+GOD AND GOODS
+FROM MEREDITH TO RUPERT BROOKE
+THE DANGERS OF NECROMANCY
+GIOTTO AND ST. FRANCIS
+THE NEW GROOVE
+THE REAL DR. JOHNSON
+RABELAISIAN REGRETS
+THE HOUND OF HEAVEN
+THE FRIVOLOUS MAN
+TWO STUBBORN PIECES OF IRON
+HENRY JAMES
+THE STRANGE TALK OF TWO VICTORIANS
+LAUGHTER
+TALES FROM TOLSTOI
+THE NEW CASE FOR CATHOLIC SCHOOLS
+VULGARITY
+THE REVIVAL OF [[philosophy|PHILOSOPHY]]--WHY?
+VANDALISM
+ELIZABETH BARRETT BROWNING
+THE ERASTIAN ON THE ESTABLISHMENT
+THE END OF THE MODERNS
+WALTER DE LA MARE
+THE MEANING OF METRE
+CONCERNING A STRANGE [[City|CITY]]
+THE EPITAPH OF PIERPONT MORGAN
+THE NEW BIGOTRY
+BOOKS FOR BOYS
+THE OUTLINE OF LIBERTY
+A NOTE ON NUDISM
+CONSULTING THE ENCYCLOPAEDIA
+IF I HAD ONLY ONE SERMON TO PREACH
+IF [[Don John of Austria|DON JOHN OF AUSTRIA]] HAD MARRIED MARY [[Queen|QUEEN]] OF SCOTS
 
 THE [[Common Man|COMMON MAN]]
 
@@ -781,8 +781,8 @@ find not only all that Nietzsche had to say put into two lines,
 but you will find it put in the very words of Nietzsche.
 [[Richard]] Crookback says to his nobles:
 
-  [[Conscience]] is but a word that cowards use,
-  Devised at first to keep the strong in awe.
+[[Conscience]] is but a word that cowards use,
+Devised at first to keep the strong in awe.
 
 As I have said, the fact is plain.  Shakespeare had thought of Nietzsche
 and the Master [[morality|Morality]]; but he weighed it at its proper value
@@ -892,10 +892,10 @@ The [[Monster|monster]] of the pagan fables was always, so far as I can see, an 
 of evil.  That is to say, he was really a [[Monster|monster]]; he was abnormal;
 or as Kingsley put it in those fine and highly heathen hexameters:
 
-  Twi-formed strange, without like, who obey not the
-   golden-haired rulers.
-  Vainly rebelling, they rage till they die by the swords of
-   the heroes.
+Twi-formed strange, without like, who obey not the
+golden-haired rulers.
+Vainly rebelling, they rage till they die by the swords of
+the heroes.
 
 Sometimes the [[Monster|monster]], once killed, could be used to kill other monsters;
 as Perseus used the Gorgon to kill the dragons of the sea.
@@ -4511,10 +4511,10 @@ men agreed, it seems, was that the decision would be unpopular.
 ... One of Belloc's Ballades had a refrain chiefly remembered
 by the Envoi, which ran:
 
-  Prince, is it true that when you met the Czar
-  You said that English people think it low
-  To coax to life a half-extinct cigar?
-  Good Lord, how little wealthy people know!
+Prince, is it true that when you met the Czar
+You said that English people think it low
+To coax to life a half-extinct cigar?
+Good Lord, how little wealthy people know!
 
 Anyhow, the one assumption shared by these admirable public men seems
 to have been wrong somewhere.  Apple-women did not rush madly out
@@ -4723,10 +4723,10 @@ Indeed, a great deal of the pomp and sumptuousness of the world's
 babyish receptiveness; it was the work of men who had eyes to [[Wonder|wonder]]
 and men who had ears to hear.
 
-  [[King]] Solomon brought merchant men
-  Because of his [[Desire|desire]]
-  With peacocks, apes and ivory,
-  From Tarshish unto Tyre.
+[[King]] Solomon brought merchant men
+Because of his [[Desire|desire]]
+With peacocks, apes and ivory,
+From Tarshish unto Tyre.
 
 But this proceeding was not a part of the wisdom of Solomon;
 it was a part of his folly--I had almost said of his [[innocence]].
@@ -5402,8 +5402,8 @@ the poetry of [[Self|self]]-abandonment she really abandoned herself with
 the valour and decision of an anchorite abandoning the world.
 Such a couplet as--
 
-  Our Euripides, the human,
-  With his dropping of warm [[Tears|tears]].
+Our Euripides, the human,
+With his dropping of warm [[Tears|tears]].
 
 gives to most of us a sickly and nauseous sensation.
 Nothing can be [[Well|well]] conceived more ridiculous than Euripides going
@@ -5434,13 +5434,13 @@ as much talent.  The great curse of the Elizabethans is upon her,
 that she cannot leave anything [[Alone|alone]], she cannot write a single
 line without a conceit:
 
-  And the eyes of the peacock fans
-  Winked at the alien glory,
+And the eyes of the peacock fans
+Winked at the alien glory,
 
 she said of the Papal fans in the presence of the Italian tricolour.
 
-  And a royal [[Blood|blood]] sends glances up her princely eye to trouble.
-  And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,
+And a royal [[Blood|blood]] sends glances up her princely eye to trouble.
+And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,
 
 is her description of a beautiful and aristocratic lady.
 The notion of peacock feathers winking like so many [[London]] urchins is
@@ -5728,8 +5728,8 @@ is enough to show how insecure is the future of revolutionary poetry)
 and while I drink to the [[Memory|memory]] of Lawrence or the health of Huxley,
 murmur the words:
 
-  All thine the last wine that I pour is
-  The last in the chalice I drain.
+All thine the last wine that I pour is
+The last in the chalice I drain.
 
 That will suggest the same idea in less offensive language.
 In short, it is doubtless true, in the words of Mr. Jefferson Brick
@@ -6162,10 +6162,10 @@ William Morris, one of the most large and humane of these later
 Victorians, admitted it in acknowledging the purely decorative
 vision in his own work:
 
-  So with this earthly Paradise it is,
-  If you will read aright and pardon me
-  Who strive to build a shadowy isle of bliss
-  Midmost the beating of the steely sea.
+So with this earthly Paradise it is,
+If you will read aright and pardon me
+Who strive to build a shadowy isle of bliss
+Midmost the beating of the steely sea.
 
 And it is the irony of the case that these men, who were rationalists
 and realists about the real world, were for that very reason resolved
@@ -6253,19 +6253,19 @@ There is no space here to weave the whole of the two narratives together;
 but a verse or two will show that they move with the same melody
 in the same metre.
 
-  0 would that with feet
-  Unsandaled, unshod,
-  Over-bold, over-fleet,
-  I had swum not nor trod
-  From Arcadia to Calydon northward a blast of the envy
-  of God.
+0 would that with feet
+Unsandaled, unshod,
+Over-bold, over-fleet,
+I had swum not nor trod
+From Arcadia to Calydon northward a blast of the envy
+of God.
 
-  Which expressions are strong,
-  Yet would feebly imply
-  Some account of a wrong
-  Not to call it a lie
-  That was worked upon William my pardner, and the same
-  being W. Nye.
+Which expressions are strong,
+Yet would feebly imply
+Some account of a wrong
+Not to call it a lie
+That was worked upon William my pardner, and the same
+being W. Nye.
 
 It may be urged maliciously, by the unmelodious, that the [[Identity|identity]]
 is a mere accident of arrangement on the page; since the long line
@@ -6598,8 +6598,8 @@ or the more critical classicism of the eighteenth century.
 A young idealistic poet would write a copy of verses; mostly verses
 somewhat in this style:
 
-  O'er rushing waterfall and verdant grove
-  The languid moonlight throws a light of [[Love|love]].
+O'er rushing waterfall and verdant grove
+The languid moonlight throws a light of [[Love|love]].
 
 The poet was considered quite respectable; perhaps the poem was even
 a prize poem.  Then it was discovered that the poet, when slightly drunk,
@@ -6616,8 +6616,8 @@ Today it is just the opposite; only equally bigoted.
 A young idealistic poet, full of the new visions of [[Beauty|beauty]],
 writes verses appropriate to such vision; as, for instance:
 
-  Bug-[[house]] underbogies belch daybreak back-firing.
-  Daylight's a void-vomit; steadying legs to stump.
+Bug-[[house]] underbogies belch daybreak back-firing.
+Daylight's a void-vomit; steadying legs to stump.
 
 And all the young critics know he is all right; he has got cosmic rhythm;
 he is a regular guy.
@@ -7974,12 +7974,12 @@ insularity have often quoted the great lines in which Shakespeare
 praised England, as something separate and cut-off by the sea.
 They rather tend to forget what he really praised her for.
 
-  This [[Nurse|nurse]], this teeming womb of royal kings,
-  Feared by their breed and famous by their birth,
-  Renowned for their deeds as far from [[Home|home]],
-  For Christian service and true chivalry,
-  As is the sepulchre in stubborn Jewry
-  Of the world's ransom, blessed Mary's Son.
+This [[Nurse|nurse]], this teeming womb of royal kings,
+Feared by their breed and famous by their birth,
+Renowned for their deeds as far from [[Home|home]],
+For Christian service and true chivalry,
+As is the sepulchre in stubborn Jewry
+Of the world's ransom, blessed Mary's Son.
 
 I really think that the man who wrote those lines would have welcomed
 the victor of [[lepanto|Lepanto]] almost as warmly as he must have welcomed
@@ -8210,7 +8210,7 @@ the very sky is not large enough for [[lovers]].
 
 
 
-<span class="atom-split" data-atom="story_01_on_reading" data-title="Common Man — On Reading" data-chapter="Story 01 On Reading" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_reading" data-title="Common Man — On Reading" data-chapter="On Reading" data-kind="story"></span>
 
 
 ON READING
@@ -8278,8 +8278,8 @@ find not only all that Nietzsche had to say put into two lines,
 but you will find it put in the very words of Nietzsche.
 [[Richard]] Crookback says to his nobles:
 
-  [[Conscience]] is but a word that cowards use,
-  Devised at first to keep the strong in awe.
+[[Conscience]] is but a word that cowards use,
+Devised at first to keep the strong in awe.
 
 As I have said, the fact is plain.  Shakespeare had thought of Nietzsche
 and the Master [[morality|Morality]]; but he weighed it at its proper value
@@ -8337,8 +8337,8 @@ Talvolta questi innovatori sono di una tetra sincerità come Tolstoj, talvolta d
 
 Nel caso questo punto non fosse chiaro, prenderò due esempi, entrambi in riferimento a nozioni di moda tra alcuni dei teorici più fantasiosi e più giovani. Nietzsche, come ognuno sa, predicò una dottrina che egli e i suoi seguaci considerano a quanto pare molto rivoluzionaria; sosteneva che l'ordinaria [[morality|morale]] altruistica fosse stata l'invenzione di una classe di schiavi per impedire l'emergere di tipi superiori che li combattessero e li governassero. Ora, i moderni, siano essi d'accordo con ciò o no, ne parlano sempre come di un'idea nuova e inaudita. Si suppone con calma e con ostinazione che i grandi scrittori del passato, poniamo Shakespeare per esempio, non abbiano condiviso questa veduta, perché non l'avevano mai immaginata; perché non era mai passata loro per la testa. Aprite l'ultimo atto del [[Richard III]] di Shakespeare e troverete non solo tutto ciò che Nietzsche aveva da dire condensato in due versi, ma lo troverete espresso con le parole stesse di Nietzsche. [[Richard]] il Gobbo dice ai suoi nobili:
 
-  La [[Conscience|coscienza]] non è che una parola usata dai codardi,
-  Escogitata da principio per tenere a freno i forti.
+La [[Conscience|coscienza]] non è che una parola usata dai codardi,
+Escogitata da principio per tenere a freno i forti.
 
 Come ho detto, il fatto è lampante. Shakespeare aveva pensato a Nietzsche e alla [[morality|Morale]] del Signore; ma la soppesò secondo il suo giusto valore e la collocò al suo giusto posto. Il suo giusto posto è la bocca di un gobbo mezzo folle alla vigilia della disfatta. Questa rabbia contro i deboli è possibile soltanto in un uomo morbosamente coraggioso ma nel fondo malato; un uomo come [[Richard]], un uomo come Nietzsche. Questo caso da [[Alone|solo]] dovrebbe distruggere l'assurda fantasia che queste filosofie moderne siano moderne nel senso che i grandi uomini del passato non vi avessero pensato. Vi pensarono; solo che non ne fecero gran conto. Non è che Shakespeare non vedesse l'idea di Nietzsche; la vide, e vide oltre di essa.
 
@@ -8346,7 +8346,7 @@ Prenderò un altro esempio: il signor Bernard [[Shaw]] nel suo dramma sorprenden
 
 
 
-<span class="atom-split" data-atom="story_02_monsters_and_the_middle_ages" data-title="Common Man — Monsters And The Middle Ages" data-chapter="Story 02 Monsters And The Middle Ages" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_monsters_and_the_middle_ages" data-title="Common Man — Monsters And The Middle Ages" data-chapter="Monsters And The Middle Ages" data-kind="story"></span>
 
 
 MONSTERS AND THE MIDDLE AGES
@@ -8414,10 +8414,10 @@ The [[Monster|monster]] of the pagan fables was always, so far as I can see, an 
 of evil.  That is to say, he was really a [[Monster|monster]]; he was abnormal;
 or as Kingsley put it in those fine and highly heathen hexameters:
 
-  Twi-formed strange, without like, who obey not the
-   golden-haired rulers.
-  Vainly rebelling, they rage till they die by the swords of
-   the heroes.
+Twi-formed strange, without like, who obey not the
+golden-haired rulers.
+Vainly rebelling, they rage till they die by the swords of
+the heroes.
 
 Sometimes the [[Monster|monster]], once killed, could be used to kill other monsters;
 as Perseus used the Gorgon to kill the dragons of the sea.
@@ -8502,10 +8502,10 @@ Cinque o sei altri errori simili non ci tratterranno ora. Poiché su questi due 
 
 Il [[Monster|mostro]] delle favole pagane era sempre, per quanto io possa vedere, un emblema del male. Vale a dire che era realmente un [[Monster|mostro]]; era abnorme; o, come lo pose Kingsley in quei bei esametri sommamente pagani:
 
-  Biformi, strani, senza simili, che non obbediscono ai
-   sovrani dalle chiome d'oro.
-  Ribellandosi invano, infuriano finché non muoiono per le spade
-   degli eroi.
+Biformi, strani, senza simili, che non obbediscono ai
+sovrani dalle chiome d'oro.
+Ribellandosi invano, infuriano finché non muoiono per le spade
+degli eroi.
 
 Talora il [[Monster|mostro]], una volta ucciso, poteva servire a uccidere altri mostri; come Perseo si servì della Gorgone per uccidere i draghi del mare. Ma questo è un mero accidente della materia. Posso immaginare, allo stesso modo, che se potessi infilzare la testa di un professore di folclore sulla punta di un bastone, alla maniera della Rivoluzione francese, essa potrebbe servire eccellentemente come pesante clava di legno per sfondare le teste di altri professori di folclore, meno induriti. O, ancora, l'idra, che faceva crescere due teste per ognuna che le veniva tagliata, avrebbe potuto essere lodata come emblema dell'evoluzione ramificata e del vantaggio di una popolazione crescente. Ma, di fatto, l'idra non fu lodata. Fu uccisa, tra il sollievo generale. Il minotauro avrebbe potuto essere ammirato dai moderni come luogo d'incontro tra uomini e [[Animals|animali]]; la chimera avrebbe potuto essere ammirata dai moderni come esempio del principio che tre teste sono meglio di una. Dico che l'idra e la chimera avrebbero potuto essere ammirate dai moderni. Ma non furono ammirate dagli antichi. Presso i pagani, l'animale [[Grotesque|grottesco]] e favoloso era concepito soltanto come qualcosa che si aveva il dovere di uccidere. Talora esso uccideva te, come [[The Sphinx|la sfinge]]; ma anche quando l'aveva fatto, tu non l'[[Love|amavi]] davvero.
 
@@ -8517,7 +8517,7 @@ Quando avremo compreso questo fatto, comprenderemo molte altre cose, ma soprattu
 
 
 
-<span class="atom-split" data-atom="story_03_what_novelists_are_for" data-title="Common Man — What Novelists Are For" data-chapter="Story 03 What Novelists Are For" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_what_novelists_are_for" data-title="Common Man — What Novelists Are For" data-chapter="What Novelists Are For" data-kind="story"></span>
 
 
 WHAT NOVELISTS ARE FOR
@@ -8844,7 +8844,7 @@ cresciuta sulle tombe dei nostri stessi amici che vi sono caduti.
 
 
 
-<span class="atom-split" data-atom="story_05_paying_for_patriotism" data-title="Common Man — Paying For Patriotism" data-chapter="Story 05 Paying For Patriotism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_paying_for_patriotism" data-title="Common Man — Paying For Patriotism" data-chapter="Paying For Patriotism" data-kind="story"></span>
 
 
 PAYING FOR PATRIOTISM
@@ -8934,7 +8934,7 @@ Eppure intendo continuare a essere fiero di Chaucer, di Shakespeare e di Nelson;
 
 
 
-<span class="atom-split" data-atom="story_08_god_and_goods" data-title="Common Man — God And Goods" data-chapter="Story 08 God And Goods" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_god_and_goods" data-title="Common Man — God And Goods" data-chapter="God And Goods" data-kind="story"></span>
 
 
 GOD AND GOODS
@@ -9022,7 +9022,7 @@ Due Paradisi Terrestri erano crollati. Il primo era il paradiso naturale di Rous
 
 
 
-<span class="atom-split" data-atom="story_10_the_dangers_of_necromancy" data-title="Common Man — The Dangers Of Necromancy" data-chapter="Story 10 The Dangers Of Necromancy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_dangers_of_necromancy" data-title="Common Man — The Dangers Of Necromancy" data-chapter="The Dangers Of Necromancy" data-kind="story"></span>
 
 
 THE DANGERS OF NECROMANCY
@@ -9138,7 +9138,7 @@ Ora, un cattolico parte da tutta questa esperienza realistica dell'umanità e de
 
 
 
-<span class="atom-split" data-atom="story_13_the_real_dr_johnson" data-title="Common Man — The Real Dr.  Johnson" data-chapter="Story 13 The Real Dr Johnson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_real_dr_johnson" data-title="Common Man — The Real Dr.  Johnson" data-chapter="The Real Dr Johnson" data-kind="story"></span>
 
 
 THE REAL DR.  JOHNSON
@@ -9267,7 +9267,7 @@ Ma Johnson era tutt'altro che attento a chi lo applaudiva. Johnson era furiosame
 
 
 
-<span class="atom-split" data-atom="story_15_the_hound_of_heaven" data-title="Common Man — The Hound Of Heaven" data-chapter="Story 15 The Hound Of Heaven" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_hound_of_heaven" data-title="Common Man — The Hound Of Heaven" data-chapter="The Hound Of Heaven" data-kind="story"></span>
 
 
 THE HOUND OF HEAVEN
@@ -9433,7 +9433,7 @@ Questo è il punto primario riguardo all'opera di Francis Thompson; ancor prima 
 
 
 
-<span class="atom-split" data-atom="story_16_the_frivolous_man" data-title="Common Man — The Frivolous Man" data-chapter="Story 16 The Frivolous Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_frivolous_man" data-title="Common Man — The Frivolous Man" data-chapter="The Frivolous Man" data-kind="story"></span>
 
 
 THE FRIVOLOUS MAN
@@ -9563,7 +9563,7 @@ Così torniamo alla conclusione che la vera serietà è tenuta in poco conto tan
 
 
 
-<span class="atom-split" data-atom="story_17_two_stubborn_pieces_of_iron" data-title="Common Man — Two Stubborn Pieces Of Iron" data-chapter="Story 17 Two Stubborn Pieces Of Iron" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_two_stubborn_pieces_of_iron" data-title="Common Man — Two Stubborn Pieces Of Iron" data-chapter="Two Stubborn Pieces Of Iron" data-kind="story"></span>
 
 
 TWO STUBBORN PIECES OF IRON
@@ -9668,7 +9668,7 @@ Si tratta dunque di stabilire quali siano realmente gli scopi dei co-educatori. 
 
 
 
-<span class="atom-split" data-atom="story_18_henry_james" data-title="Common Man — Henry James" data-chapter="Story 18 Henry James" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_henry_james" data-title="Common Man — Henry James" data-chapter="Henry James" data-kind="story"></span>
 
 
 HENRY JAMES
@@ -9852,7 +9852,7 @@ I libri di Henry James saranno sempre belli; e credo che siano abbastanza giovan
 
 
 
-<span class="atom-split" data-atom="story_19_the_strange_talk_of_two_victorians" data-title="Common Man — The Strange Talk Of Two Victorians" data-chapter="Story 19 The Strange Talk Of Two Victorians" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_strange_talk_of_two_victorians" data-title="Common Man — The Strange Talk Of Two Victorians" data-chapter="The Strange Talk Of Two Victorians" data-kind="story"></span>
 
 
 THE STRANGE TALK OF TWO VICTORIANS
@@ -10005,10 +10005,10 @@ men agreed, it seems, was that the decision would be unpopular.
 ... One of Belloc's Ballades had a refrain chiefly remembered
 by the Envoi, which ran:
 
-  Prince, is it true that when you met the Czar
-  You said that English people think it low
-  To coax to life a half-extinct cigar?
-  Good Lord, how little wealthy people know!
+Prince, is it true that when you met the Czar
+You said that English people think it low
+To coax to life a half-extinct cigar?
+Good Lord, how little wealthy people know!
 
 Anyhow, the one assumption shared by these admirable public men seems
 to have been wrong somewhere.  Apple-women did not rush madly out
@@ -10177,10 +10177,10 @@ concordavano, a quanto pare, era che la decisione sarebbe stata impopolare.
 ... Una delle Ballate di Belloc aveva un ritornello ricordato soprattutto
 per l'Envoi, che diceva:
 
-  Principe, è vero che quando incontrasti lo Zar
-  dicesti che gli inglesi trovano volgare
-  ravvivare a nuova vita un sigaro semispento?
-  Buon Dio, quanto poco sanno i ricchi!
+Principe, è vero che quando incontrasti lo Zar
+dicesti che gli inglesi trovano volgare
+ravvivare a nuova vita un sigaro semispento?
+Buon Dio, quanto poco sanno i ricchi!
 
 Comunque sia, l'unico assunto condiviso da questi ammirevoli uomini pubblici pare
 sia stato errato in qualche punto.  Le venditrici di mele non si precipitarono all'impazzata
@@ -10198,7 +10198,7 @@ risuonare di una voce che gridava: «Io sono l'Immacolata Concezione...».
 
 
 
-<span class="atom-split" data-atom="story_20_laughter" data-title="Common Man — Laughter" data-chapter="Story 20 Laughter" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_laughter" data-title="Common Man — Laughter" data-chapter="Laughter" data-kind="story"></span>
 
 
 LAUGHTER
@@ -10342,7 +10342,7 @@ Non sorprende che un'epoca la quale offre questo mostruoso spettacolo di uomini 
 
 
 
-<span class="atom-split" data-atom="story_21_tales_from_tolstoi" data-title="Common Man — Tales From Tolstoi" data-chapter="Story 21 Tales From Tolstoi" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_tales_from_tolstoi" data-title="Common Man — Tales From Tolstoi" data-chapter="Tales From Tolstoi" data-kind="story"></span>
 
 
 TALES FROM TOLSTOI
@@ -10412,10 +10412,10 @@ Indeed, a great deal of the pomp and sumptuousness of the world's
 babyish receptiveness; it was the work of men who had eyes to [[Wonder|wonder]]
 and men who had ears to hear.
 
-  [[King]] Solomon brought merchant men
-  Because of his [[Desire|desire]]
-  With peacocks, apes and ivory,
-  From Tarshish unto Tyre.
+[[King]] Solomon brought merchant men
+Because of his [[Desire|desire]]
+With peacocks, apes and ivory,
+From Tarshish unto Tyre.
 
 But this proceeding was not a part of the wisdom of Solomon;
 it was a part of his folly--I had almost said of his [[innocence]].
@@ -10494,10 +10494,10 @@ Ora, questo eroico [[Desire|desiderio]] di ritornare alla [[Nature|natura]] è, 
 
 È questa considerazione che presta un certo che di futile perfino a tutte le ispirate semplicità e alle tuonanti veracità di Tolstoj. Sentiamo che un uomo non può rendersi semplice semplicemente muovendo guerra alla complessità; sentiamo, anzi, nei nostri momenti più assennati, che un uomo non può affatto rendersi semplice. Una semplicità cosciente di [[Self|sé]] può [[Well|ben]] essere assai più intrinsecamente ornata del lusso medesimo. Anzi, gran parte della pompa e della sontuosità della [[history|storia]] del mondo fu semplice nel senso più vero. Nacque da una ricettività quasi puerile; fu opera di uomini che avevano occhi per [[Wonder|meravigliarsi]] e uomini che avevano orecchi per udire.
 
-  Il [[King|re]] Salomone fece venire i mercanti
-  per il suo [[Desire|desiderio]],
-  con pavoni, scimmie e avorio,
-  da Tarsis fino a Tiro.
+Il [[King|re]] Salomone fece venire i mercanti
+per il suo [[Desire|desiderio]],
+con pavoni, scimmie e avorio,
+da Tarsis fino a Tiro.
 
 Ma questo procedere non faceva parte della saggezza di Salomone; faceva parte della sua follia—avrei quasi detto della sua [[innocence|innocenza]]. Tolstoj, lo sentiamo, non si contenterebbe di scagliare [[Satire|satira]] e denuncia contro «Salomone in tutta la sua gloria». Con feroce e inoppugnabile [[logic|logica]] andrebbe un passo oltre. Trascorrerebbe giorni e notti nei prati a strappare gli spudorati diademi cremisi dai gigli del campo.
 
@@ -10507,7 +10507,7 @@ Qualsiasi raccolta di Racconti da Tolstoj è fatta apposta per richiamare partic
 
 
 
-<span class="atom-split" data-atom="story_22_the_new_case_for_catholic_schools" data-title="Common Man — The New Case For Catholic Schools" data-chapter="Story 22 The New Case For Catholic Schools" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_new_case_for_catholic_schools" data-title="Common Man — The New Case For Catholic Schools" data-chapter="The New Case For Catholic Schools" data-kind="story"></span>
 
 
 THE NEW CASE FOR CATHOLIC SCHOOLS
@@ -10718,7 +10718,7 @@ I nostri maestri di scuola dichiarano di far emergere ogni lato dell'allievo: il
 
 
 
-<span class="atom-split" data-atom="story_24_vandalism" data-title="Common Man — Vandalism" data-chapter="Story 24 Vandalism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_vandalism" data-title="Common Man — Vandalism" data-chapter="Vandalism" data-kind="story"></span>
 
 
 VANDALISM
@@ -10847,7 +10847,7 @@ Ma la nuova specie di Vandalo è assai più indifendibile. Il rozzo Vandalo crea
 
 
 
-<span class="atom-split" data-atom="story_25_elizabeth_barrett_browning" data-title="Common Man — Elizabeth Barrett Browning" data-chapter="Story 25 Elizabeth Barrett Browning" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_elizabeth_barrett_browning" data-title="Common Man — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
 
 
 ELIZABETH BARRETT BROWNING
@@ -10872,8 +10872,8 @@ the poetry of [[Self|self]]-abandonment she really abandoned herself with
 the valour and decision of an anchorite abandoning the world.
 Such a couplet as--
 
-  Our Euripides, the human,
-  With his dropping of warm [[Tears|tears]].
+Our Euripides, the human,
+With his dropping of warm [[Tears|tears]].
 
 gives to most of us a sickly and nauseous sensation.
 Nothing can be [[Well|well]] conceived more ridiculous than Euripides going
@@ -10904,13 +10904,13 @@ as much talent.  The great curse of the Elizabethans is upon her,
 that she cannot leave anything [[Alone|alone]], she cannot write a single
 line without a conceit:
 
-  And the eyes of the peacock fans
-  Winked at the alien glory,
+And the eyes of the peacock fans
+Winked at the alien glory,
 
 she said of the Papal fans in the presence of the Italian tricolour.
 
-  And a royal [[Blood|blood]] sends glances up her princely eye to trouble.
-  And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,
+And a royal [[Blood|blood]] sends glances up her princely eye to trouble.
+And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,
 
 is her description of a beautiful and aristocratic lady.
 The notion of peacock feathers winking like so many [[London]] urchins is
@@ -10999,20 +10999,20 @@ La signora Browning fu una grande poeta, e non, come oziosamente e volgarmente s
 
 La signora Browning appare spesso più lussureggiante e sentimentale di molte altre donne di lettere, ma ciò accadeva perché era più forte. Occorre una certa dose di forza interiore per crollare. Una completa [[Self|autoumiliazione]] richiede una forza enorme, più forza di quanta la maggior parte di noi ne possieda. Quando scriveva la poesia dell'[[Self|abbandono di sé]], ella davvero si abbandonava con il valore e la decisione di un anacoreta che rinuncia al mondo. Un distico come questo—
 
-  Il nostro Euripide, l'umano,
-  Con il suo stillare di calde [[Tears|lacrime]].
+Il nostro Euripide, l'umano,
+Con il suo stillare di calde [[Tears|lacrime]].
 
 suscita nella maggior parte di noi una sensazione stucchevole e nauseante. Nulla si può [[Well|bene]] concepire di più ridicolo di Euripide che se ne va in giro lasciando cadere [[Tears|lacrime]] con un rumoroso tonfo, e la signora Browning che gli tien dietro con un termometro. Ma il punto emblematico di questo distico idiota è che la signora Hemans non l'avrebbe mai scritto. Ella avrebbe scritto qualcosa di perfettamente dignitoso, perfettamente innocuo, perfettamente trascurabile. La signora Browning si trovava in una difficoltà grande e seria. Voleva davvero dire qualcosa. Mirava a un'immagine viva e curiosa, e la mancò. Ebbe quella catastrofica e pubblica sconfitta che vale quanto una medaglia o un attestato, il distintivo dei coraggiosi.
 
 Malgrado la noiosa mezza [[Truth|verità]] che l'arte sia amorale, le arti richiedono un certo considerevole numero di qualità morali, e più d'ogni altra cosa tutte le arti richiedono [[Courage|coraggio]]. L'arte del disegno, per esempio, richiede persino una specie di [[Courage|coraggio]] fisico. Chiunque abbia tentato di tracciare una linea retta e vi abbia fallito sa che fallisce soprattutto nel nervo, come potrebbe fallire nel gettarsi da una rupe. E similmente ogni grande arte letteraria implica l'elemento del rischio, e i più grandi artisti della parola sono stati comunemente coloro che hanno corso il maggior rischio di dire sciocchezze. Quasi tutti i grandi poeti sragionano, da Shakespeare in giù. La signora Browning era elisabettiana nella sua lussureggiante esuberanza e nella sua audacia, e nella scala gigantesca del suo ingegno. Con lei proviamo spesso ciò che proviamo con Shakespeare, che avrebbe fatto meglio con la metà del talento. La grande maledizione degli elisabettiani grava su di lei: che non sa lasciare nulla [[Alone|in pace]], non sa scrivere un solo verso senza un concettismo:
 
-  E gli occhi dei ventagli di pavone
-  Ammiccavano all'estranea gloria,
+E gli occhi dei ventagli di pavone
+Ammiccavano all'estranea gloria,
 
 diceva ella dei ventagli papali al cospetto del tricolore italiano.
 
-  E un [[Blood|sangue]] regale manda lampi su per il suo occhio principesco a turbare.
-  E l'[[Shadow|ombra]] di una [[Crown|corona]] di monarca s'addolcisce nei suoi capelli,
+E un [[Blood|sangue]] regale manda lampi su per il suo occhio principesco a turbare.
+E l'[[Shadow|ombra]] di una [[Crown|corona]] di monarca s'addolcisce nei suoi capelli,
 
 è la sua descrizione di una dama bella e aristocratica. L'idea delle piume di pavone che ammiccano come tanti monelli di [[London|Londra]] è forse una delle sue figure retoriche piuttosto aggressive e oltraggiose. L'immagine dei capelli di una donna come l'[[Shadow|ombra]] addolcita di una [[Crown|corona]] è singolarmente viva e perfetta. Ma entrambe hanno la medesima qualità di fantasia intellettuale e di concentrazione intellettuale. Sono entrambe esempi di una sorta di [[Epigram|epigramma]] etereo. Questa è la grande e dominante caratteristica della signora Browning: che ella era significativa tanto nella sconfitta quanto nel [[success|successo]]. Come ogni [[Marriage|matrimonio]] al mondo, buono o cattivo, è un [[Marriage|matrimonio]], drammatico, irrevocabile e gravido di eventi futuri, così ciascuna delle sue selvagge nozze fra idee estranee è un fatto compiuto che produce un certo effetto sull'[[Imagination|immaginazione]], che nel bene o nel male è divenuto parte integrante della nostra visione mentale per sempre. Ella dà al lettore l'impressione di non aver mai declinato una fantasia, così come certi gentiluomini del Settecento non declinavano mai un duello. Quando cadeva era sempre perché aveva mancato l'appiglio, mai perché avesse temuto il salto.
 
@@ -11022,7 +11022,7 @@ La signora Browning e suo marito erano più liberali della maggior parte dei lib
 
 
 
-<span class="atom-split" data-atom="story_28_the_epitaph_of_pierpont_morgan" data-title="Common Man — The Epitaph Of Pierpont Morgan" data-chapter="Story 28 The Epitaph Of Pierpont Morgan" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_epitaph_of_pierpont_morgan" data-title="Common Man — The Epitaph Of Pierpont Morgan" data-chapter="The Epitaph Of Pierpont Morgan" data-kind="story"></span>
 
 
 THE EPITAPH OF PIERPONT MORGAN
@@ -11183,7 +11183,7 @@ Il fatto finale è che chiunque sottoscriva questo epitaffio deve allearsi con l
 
 
 
-<span class="atom-split" data-atom="story_29_the_new_bigotry" data-title="Common Man — The New Bigotry" data-chapter="Story 29 The New Bigotry" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_new_bigotry" data-title="Common Man — The New Bigotry" data-chapter="The New Bigotry" data-kind="story"></span>
 
 
 THE NEW BIGOTRY
@@ -11203,8 +11203,8 @@ or the more critical classicism of the eighteenth century.
 A young idealistic poet would write a copy of verses; mostly verses
 somewhat in this style:
 
-  O'er rushing waterfall and verdant grove
-  The languid moonlight throws a light of [[Love|love]].
+O'er rushing waterfall and verdant grove
+The languid moonlight throws a light of [[Love|love]].
 
 The poet was considered quite respectable; perhaps the poem was even
 a prize poem.  Then it was discovered that the poet, when slightly drunk,
@@ -11221,8 +11221,8 @@ Today it is just the opposite; only equally bigoted.
 A young idealistic poet, full of the new visions of [[Beauty|beauty]],
 writes verses appropriate to such vision; as, for instance:
 
-  Bug-[[house]] underbogies belch daybreak back-firing.
-  Daylight's a void-vomit; steadying legs to stump.
+Bug-[[house]] underbogies belch daybreak back-firing.
+Daylight's a void-vomit; steadying legs to stump.
 
 And all the young critics know he is all right; he has got cosmic rhythm;
 he is a regular guy.
@@ -11262,15 +11262,15 @@ Noto con un certo divertimento, tanto nella letteratura [[America|americana]] qu
 
 Sappiamo tutti che cosa accadeva talvolta nell'età puritana; o nel classicismo più rigoroso del Settecento. Un giovane poeta idealista scriveva una serie di versi; per lo più versi press'a poco di questa foggia:
 
-  Su cascata spumeggiante e verdeggiante boschetto
-  la languida luna versa una luce d'[[Love|amore]].
+Su cascata spumeggiante e verdeggiante boschetto
+la languida luna versa una luce d'[[Love|amore]].
 
 Il poeta era ritenuto assai rispettabile; forse quei versi vincevano perfino un premio. Poi si scopriva che il poeta, quando era un po' alticcio, aveva espresso dubbi sulla data esatta del Libro di Abacuc. Ne nasceva uno scandalo terribile; il giovane veniva scacciato dal suo collegio come ateo; e allora i dotti critici tornavano a rileggere la sua poesia con occhio nuovo, cupo e sospettoso. La «cascata spumeggiante», dopotutto, aveva un suono assai rivoluzionario e adombrava un'anarchia panteistica. L'espressione «languida luna» era un appello a tutte le passioni più dissolute. «Luce d'[[Love|amore]]» era una locuzione notoriamente di significato equivoco.
 
 Oggi è esattamente l'opposto; ma ugualmente bigotto. Un giovane poeta idealista, colmo delle nuove visioni della [[Beauty|bellezza]], scrive versi consoni a tale visione; come, per esempio:
 
-  Manicomio-[[house]] sotto-babau ruttano l'alba a scoppio ritardato.
-  La luce del giorno è un vuoto-vomito; gambe che si drizzano per arrancare.
+Manicomio-[[house]] sotto-babau ruttano l'alba a scoppio ritardato.
+La luce del giorno è un vuoto-vomito; gambe che si drizzano per arrancare.
 
 E tutti i giovani critici sanno che è a posto; ha colto il ritmo cosmico; è un tipo in gamba.
 
@@ -11282,7 +11282,7 @@ Ma tutto ciò lo rende ancora più buffo. Un critico inglese lo ha accusato real
 
 
 
-<span class="atom-split" data-atom="story_30_books_for_boys" data-title="Common Man — Books For Boys" data-chapter="Story 30 Books For Boys" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_books_for_boys" data-title="Common Man — Books For Boys" data-chapter="Books For Boys" data-kind="story"></span>
 
 
 BOOKS FOR BOYS
@@ -11442,7 +11442,7 @@ Se dunque siamo d'accordo che il primo bisogno del problema è comprendere una v
 
 
 
-<span class="atom-split" data-atom="story_31_the_outline_of_liberty" data-title="Common Man — The Outline Of Liberty" data-chapter="Story 31 The Outline Of Liberty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_outline_of_liberty" data-title="Common Man — The Outline Of Liberty" data-chapter="The Outline Of Liberty" data-kind="story"></span>
 
 
 THE OUTLINE OF LIBERTY
@@ -11654,7 +11654,7 @@ Lo maggior don che Dio per sua larghezza Fesse creando, e a la sua bontate Più 
 
 
 
-<span class="atom-split" data-atom="story_32_a_note_on_nudism" data-title="Common Man — A Note On Nudism" data-chapter="Story 32 A Note On Nudism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_a_note_on_nudism" data-title="Common Man — A Note On Nudism" data-chapter="A Note On Nudism" data-kind="story"></span>
 
 
 A NOTE ON NUDISM
@@ -11727,7 +11727,7 @@ Infine, non sono affatto sicuro che sceglierei la svampita tedesca, quand'anche 
 
 
 
-<span class="atom-split" data-atom="story_33_consulting_the_encyclopaedia" data-title="Common Man — Consulting The Encyclopaedia" data-chapter="Story 33 Consulting The Encyclopaedia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_consulting_the_encyclopaedia" data-title="Common Man — Consulting The Encyclopaedia" data-chapter="Consulting The Encyclopaedia" data-kind="story"></span>
 
 
 CONSULTING THE ENCYCLOPAEDIA
@@ -11948,7 +11948,7 @@ E allora mi parve che si dispiegasse dinanzi a me, come un vasto e abbagliante d
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_01" data-title="Common Man — The Superstition Of School (part 1)" data-chapter="Story 04 The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_01" data-title="Common Man — The Superstition Of School (part 1)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
 
 
 THE SUPERSTITION OF SCHOOL
@@ -12064,7 +12064,7 @@ Lo scoglio è questo: che gli [[Self|autodidatti]] pensano fin troppo all'[[Educ
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_02" data-title="Common Man — The Superstition Of School (part 2)" data-chapter="Story 04 The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_02" data-title="Common Man — The Superstition Of School (part 2)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
 
 
 I use the casual phrase casually; for I do not concern myself
@@ -12214,7 +12214,7 @@ La [[Truth|verità]] è che gli elementi erano troppo mescolati, e, soprattutto,
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_03" data-title="Common Man — The Superstition Of School (part 3)" data-chapter="Story 04 The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_03" data-title="Common Man — The Superstition Of School (part 3)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
 
 
 When Thackeray called [[Vanity]] Fair "a [[Novel|novel]] without a [[Hero|hero]]",
@@ -12321,7 +12321,7 @@ Tutti i romanzi come il Peregrine Pickle, tutti i romanzi fino al [[Time|tempo]]
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_04" data-title="Common Man — The Superstition Of School (part 4)" data-chapter="Story 04 The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_04" data-title="Common Man — The Superstition Of School (part 4)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
 
 
 Considered as a series of chapters, Peregrine Pickle is simply a chapter
@@ -12369,7 +12369,7 @@ Considerato come una serie di capitoli, il Peregrine Pickle è semplicemente un 
 
 
 
-<span class="atom-split" data-atom="story_06_the_pantomime--part_01" data-title="Common Man — The Pantomime (part 1)" data-chapter="Story 06 The Pantomime" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_pantomime--part_01" data-title="Common Man — The Pantomime (part 1)" data-chapter="The Pantomime" data-kind="excerpt"></span>
 
 
 THE PANTOMIME
@@ -12531,7 +12531,7 @@ Ora, il mio interesse per la faccenda è questo: so che molti diranno che questo
 
 
 
-<span class="atom-split" data-atom="story_06_the_pantomime--part_02" data-title="Common Man — The Pantomime (part 2)" data-chapter="Story 06 The Pantomime" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_pantomime--part_02" data-title="Common Man — The Pantomime (part 2)" data-chapter="The Pantomime" data-kind="excerpt"></span>
 
 
 This is the beginning of all sane art criticism:  [[Wonder|wonder]] combined
@@ -12653,7 +12653,7 @@ Dopo qualche po' di [[Time|tempo]], tuttavia, quando ebbero esaminato "The Great
 
 
 
-<span class="atom-split" data-atom="story_06_the_pantomime--part_03" data-title="Common Man — The Pantomime (part 3)" data-chapter="Story 06 The Pantomime" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_pantomime--part_03" data-title="Common Man — The Pantomime (part 3)" data-chapter="The Pantomime" data-kind="excerpt"></span>
 
 
 But this little incident has always stuck to me as a symbol of
@@ -12777,7 +12777,7 @@ Non è nella sorte vostra né nella mia vivere in un'epoca grande o estatica. Si
 
 
 
-<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_01" data-title="Common Man — A Tale Of Two Cities (part 1)" data-chapter="Story 07 A Tale Of Two Cities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_01" data-title="Common Man — A Tale Of Two Cities (part 1)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
 
 
 A TALE OF TWO CITIES
@@ -12958,7 +12958,7 @@ La vita privata di Dickens, però, è di scarsa importanza per il profilo critic
 
 
 
-<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_02" data-title="Common Man — A Tale Of Two Cities (part 2)" data-chapter="Story 07 A Tale Of Two Cities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_02" data-title="Common Man — A Tale Of Two Cities (part 2)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
 
 
 This compact and competent, and some would say conceited, sense of
@@ -13058,7 +13058,7 @@ Forse è davvero impossibile per un buon cittadino scrivere *Racconto di due cit
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_01" data-title="Common Man — From Meredith To Rupert Brooke (part 1)" data-chapter="Story 09 From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_01" data-title="Common Man — From Meredith To Rupert Brooke (part 1)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
 
 
 FROM MEREDITH TO RUPERT BROOKE
@@ -13207,7 +13207,7 @@ Sarà [[Well|bene]] segnare in che modo queste colossali nubi d'[[Imagination|im
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_02" data-title="Common Man — From Meredith To Rupert Brooke (part 2)" data-chapter="Story 09 From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_02" data-title="Common Man — From Meredith To Rupert Brooke (part 2)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
 
 
 Only, as I have said, the way in which this racial [[Romance|romance]] penetrated the
@@ -13347,7 +13347,7 @@ Tanto basti per un lato di questo mutamento tardo-vittoriano. Ma la sola menzion
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_03" data-title="Common Man — From Meredith To Rupert Brooke (part 3)" data-chapter="Story 09 From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_03" data-title="Common Man — From Meredith To Rupert Brooke (part 3)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
 
 
 Ruskin was the heir and representative of Carlyle in this later
@@ -13489,7 +13489,7 @@ Ma già nuovi gruppi facevano apparire vecchio questo. Uno fu quello che si può
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_04" data-title="Common Man — From Meredith To Rupert Brooke (part 4)" data-chapter="Story 09 From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_04" data-title="Common Man — From Meredith To Rupert Brooke (part 4)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
 
 
 Fortunately, from the same Stevenson and Henley stock of ideas,
@@ -13598,7 +13598,7 @@ La necessità di segnare il periodo per mezzo di umori ci ha portati qui a segna
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_01" data-title="Common Man — Giotto And St.  Francis (part 1)" data-chapter="Story 11 Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_01" data-title="Common Man — Giotto And St.  Francis (part 1)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
 
 
 GIOTTO AND ST.  FRANCIS
@@ -13720,7 +13720,7 @@ Un viaggiatore anche solo un poco esperto nelle abitudini dei viaggiatori, per n
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_02" data-title="Common Man — Giotto And St.  Francis (part 2)" data-chapter="Story 11 Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_02" data-title="Common Man — Giotto And St.  Francis (part 2)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
 
 
 The [[City|city]] is founded upon a rock; the [[City|city]] is a rock; and it is too
@@ -13828,7 +13828,7 @@ Il riflettore si è spostato più indietro, e ora illumina ciò che persino Rusk
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_03" data-title="Common Man — Giotto And St.  Francis (part 3)" data-chapter="Story 11 Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_03" data-title="Common Man — Giotto And St.  Francis (part 3)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
 
 
 But in [[Truth|truth]] this [[Double|double]] light may make for a better enlightenment,
@@ -13948,7 +13948,7 @@ E qui di nuovo cogliamo il parallelo tra l'[[Artist|artista]] e il santo. I segu
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_04" data-title="Common Man — Giotto And St.  Francis (part 4)" data-chapter="Story 11 Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_04" data-title="Common Man — Giotto And St.  Francis (part 4)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
 
 
 In another sense, however, the spirit illuminating these great
@@ -14004,7 +14004,7 @@ In un altro senso, tuttavia, lo spirito che illumina questi grandi disegni medie
 
 
 
-<span class="atom-split" data-atom="story_12_the_new_groove--part_01" data-title="Common Man — The New Groove (part 1)" data-chapter="Story 12 The New Groove" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_new_groove--part_01" data-title="Common Man — The New Groove (part 1)" data-chapter="The New Groove" data-kind="excerpt"></span>
 
 
 THE NEW GROOVE
@@ -14206,7 +14206,7 @@ elefante o una polena come una [[Ship|nave]].
 
 
 
-<span class="atom-split" data-atom="story_12_the_new_groove--part_02" data-title="Common Man — The New Groove (part 2)" data-chapter="Story 12 The New Groove" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_new_groove--part_02" data-title="Common Man — The New Groove (part 2)" data-chapter="The New Groove" data-kind="excerpt"></span>
 
 
 Now, in spite of the wildest claims to independence,
@@ -14456,7 +14456,7 @@ di un [[Child|bambino]]».
 
 
 
-<span class="atom-split" data-atom="story_12_the_new_groove--part_03" data-title="Common Man — The New Groove (part 3)" data-chapter="Story 12 The New Groove" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_new_groove--part_03" data-title="Common Man — The New Groove (part 3)" data-chapter="The New Groove" data-kind="excerpt"></span>
 
 
 It is the same with all the cant phrases already in circulation,
@@ -14602,7 +14602,7 @@ e vagabondare fuori dai binari nelle antiche pianure della libertà.
 
 
 
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_01" data-title="Common Man — Rabelaisian Regrets (part 1)" data-chapter="Story 14 Rabelaisian Regrets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_01" data-title="Common Man — Rabelaisian Regrets (part 1)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
 
 
 RABELAISIAN REGRETS
@@ -14750,7 +14750,7 @@ Non c'è in realtà molta differenza di opinione, tra gli uomini normali, sui pr
 
 
 
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_02" data-title="Common Man — Rabelaisian Regrets (part 2)" data-chapter="Story 14 Rabelaisian Regrets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_02" data-title="Common Man — Rabelaisian Regrets (part 2)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
 
 
 And if men have never doubted that there should be a decorum
@@ -14873,7 +14873,7 @@ Ma quando veniamo ai due moventi dell'enfasi e dell'analisi, è essenziale osser
 
 
 
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_03" data-title="Common Man — Rabelaisian Regrets (part 3)" data-chapter="Story 14 Rabelaisian Regrets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_03" data-title="Common Man — Rabelaisian Regrets (part 3)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
 
 
 But though he can find it in the street outside, he cannot
@@ -14962,7 +14962,7 @@ Non mi propongo qui di negare che la moda moderna di analizzare il sesso sia in 
 
 
 
-<span class="atom-split" data-atom="story_23_vulgarity--part_01" data-title="Common Man — Vulgarity (part 1)" data-chapter="Story 23 Vulgarity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_vulgarity--part_01" data-title="Common Man — Vulgarity (part 1)" data-chapter="Vulgarity" data-kind="excerpt"></span>
 
 
 VULGARITY
@@ -15104,7 +15104,7 @@ La miglior ragione per un ritorno della [[philosophy|filosofia]] è che, a meno 
 
 
 
-<span class="atom-split" data-atom="story_23_vulgarity--part_02" data-title="Common Man — Vulgarity (part 2)" data-chapter="Story 23 Vulgarity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_vulgarity--part_02" data-title="Common Man — Vulgarity (part 2)" data-chapter="Vulgarity" data-kind="excerpt"></span>
 
 
 Some people [[Fear|fear]] that [[philosophy]] will bore or bewilder them;
@@ -15238,7 +15238,7 @@ Prenderò un esempio fra i mille che si potrebbero prendere. Qual è l'atteggiam
 
 
 
-<span class="atom-split" data-atom="story_23_vulgarity--part_03" data-title="Common Man — Vulgarity (part 3)" data-chapter="Story 23 Vulgarity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_vulgarity--part_03" data-title="Common Man — Vulgarity (part 3)" data-chapter="Vulgarity" data-kind="excerpt"></span>
 
 
 But I have only taken that first superficial repartee because
@@ -15338,7 +15338,7 @@ Così, quando un uomo brillante come il signor H. G. Wells dice che tali idee [[
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_01" data-title="Common Man — The Erastian On The Establishment (part 1)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_01" data-title="Common Man — The Erastian On The Establishment (part 1)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 THE ERASTIAN ON THE ESTABLISHMENT
@@ -15568,7 +15568,7 @@ e la prima è già accaduta.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_02" data-title="Common Man — The Erastian On The Establishment (part 2)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_02" data-title="Common Man — The Erastian On The Establishment (part 2)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 Of course it is possible to play an endless game with the word "Christian"
@@ -15668,8 +15668,8 @@ is enough to show how insecure is the future of revolutionary poetry)
 and while I drink to the [[Memory|memory]] of Lawrence or the health of Huxley,
 murmur the words:
 
-  All thine the last wine that I pour is
-  The last in the chalice I drain.
+All thine the last wine that I pour is
+The last in the chalice I drain.
 
 That will suggest the same idea in less offensive language.
 In short, it is doubtless true, in the words of Mr. Jefferson Brick
@@ -15777,8 +15777,8 @@ basta a mostrare quanto sia insicuro il futuro della poesia rivoluzionaria)
 e, mentre bevo alla [[Memory|memoria]] di Lawrence o alla salute di Huxley,
 mormorare le parole:
 
-  Tuo è l'ultimo vino che verso
-  L'ultimo che vuoto nel calice.
+Tuo è l'ultimo vino che verso
+L'ultimo che vuoto nel calice.
 
 Ciò suggerirà la stessa idea in un linguaggio meno offensivo.
 In breve, è indubbiamente vero, con le parole del signor Jefferson Brick
@@ -15788,7 +15788,7 @@ quella coppa è ormai quasi vuota.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_03" data-title="Common Man — The Erastian On The Establishment (part 3)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_03" data-title="Common Man — The Erastian On The Establishment (part 3)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 My reason for thinking this has nothing to do with likes or dislikes
@@ -15998,7 +15998,7 @@ mente istruita non è bianca; è soltanto pallida.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_04" data-title="Common Man — The Erastian On The Establishment (part 4)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_04" data-title="Common Man — The Erastian On The Establishment (part 4)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 The point is that from every point of view, ancient or modern,
@@ -16210,7 +16210,7 @@ che i ribelli respingerebbero.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_05" data-title="Common Man — The Erastian On The Establishment (part 5)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_05" data-title="Common Man — The Erastian On The Establishment (part 5)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 Along with those who accept the thing as a label, or [[Hope|hope]]
@@ -16496,7 +16496,7 @@ come la [[Grave|tomba]].
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_06" data-title="Common Man — The Erastian On The Establishment (part 6)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_06" data-title="Common Man — The Erastian On The Establishment (part 6)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 Many who remember the apparently nonsensical nursery rhymes which
@@ -16582,10 +16582,10 @@ William Morris, one of the most large and humane of these later
 Victorians, admitted it in acknowledging the purely decorative
 vision in his own work:
 
-  So with this earthly Paradise it is,
-  If you will read aright and pardon me
-  Who strive to build a shadowy isle of bliss
-  Midmost the beating of the steely sea.
+So with this earthly Paradise it is,
+If you will read aright and pardon me
+Who strive to build a shadowy isle of bliss
+Midmost the beating of the steely sea.
 
 And it is the irony of the case that these men, who were rationalists
 and realists about the real world, were for that very reason resolved
@@ -16683,10 +16683,10 @@ William Morris, uno dei più larghi e umani di questi ultimi
 vittoriani, lo ammise riconoscendo la visione puramente decorativa
 nella propria opera:
 
-  Così è di questo Paradiso terreno,
-  Se leggerete a dovere e mi perdonerete
-  Che mi sforzo di edificare un'ombrosa isola di beatitudine
-  In mezzo al battito del mare d'acciaio.
+Così è di questo Paradiso terreno,
+Se leggerete a dovere e mi perdonerete
+Che mi sforzo di edificare un'ombrosa isola di beatitudine
+In mezzo al battito del mare d'acciaio.
 
 Ed è l'ironia del caso che questi uomini, che erano razionalisti
 e realisti riguardo al mondo reale, fossero proprio per quella ragione risoluti
@@ -16700,7 +16700,7 @@ da qualsiasi oppiaceo che lenisce i vivi.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_07" data-title="Common Man — The Erastian On The Establishment (part 7)" data-chapter="Story 26 The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_07" data-title="Common Man — The Erastian On The Establishment (part 7)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
 
 
 In short, we may say that the early twentieth century presented two
@@ -16810,7 +16810,7 @@ e l'Albero potesse essere una delusione. Ma l'Albero non è una delusione.
 
 
 
-<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_01" data-title="Common Man — The Meaning Of Metre (part 1)" data-chapter="Story 27 The Meaning Of Metre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_01" data-title="Common Man — The Meaning Of Metre (part 1)" data-chapter="The Meaning Of Metre" data-kind="excerpt"></span>
 
 
 THE MEANING OF METRE
@@ -16838,19 +16838,19 @@ There is no space here to weave the whole of the two narratives together;
 but a verse or two will show that they move with the same melody
 in the same metre.
 
-  0 would that with feet
-  Unsandaled, unshod,
-  Over-bold, over-fleet,
-  I had swum not nor trod
-  From Arcadia to Calydon northward a blast of the envy
-  of God.
+0 would that with feet
+Unsandaled, unshod,
+Over-bold, over-fleet,
+I had swum not nor trod
+From Arcadia to Calydon northward a blast of the envy
+of God.
 
-  Which expressions are strong,
-  Yet would feebly imply
-  Some account of a wrong
-  Not to call it a lie
-  That was worked upon William my pardner, and the same
-  being W. Nye.
+Which expressions are strong,
+Yet would feebly imply
+Some account of a wrong
+Not to call it a lie
+That was worked upon William my pardner, and the same
+being W. Nye.
 
 It may be urged maliciously, by the unmelodious, that the [[Identity|identity]]
 is a mere accident of arrangement on the page; since the long line
@@ -16935,19 +16935,19 @@ IL SENSO DEL METRO
 
 Bret Harte imitò forse Swinburne? Oppure (pensiero assai più piacevole) fu Swinburne a imitare Bret Harte? Lottò forse Swinburne, nello spirito, con quell'ammirevole poema intitolato «The Heathen Chinee», per poi levarsi dalla lettura ispirato e infiammato a comporre la grande [[Greek Tragedy|tragedia greca]] di «Atalanta in Calydon»? So bene che a certe menti accademiche e pedanti tutto ciò non parrà un esatto raffronto letterario; eppure esso tocca un piccolo punto che si potrebbe dire una curiosità della letteratura. A costoro suonerà come se io insinuassi che John Ruskin non fu che un plagiario di Josh Billings. Comunque sia, è una coincidenza piuttosto singolare che esista un particolare metro poetico, composto di una quartina e di un unico lungo verso finale, il quale non si ritrova in nessun altro luogo di tutta la letteratura, per quanto io sappia, se non nel più bello e più tragico [[Chorus|coro]] dell'Atalanta di Swinburne e nel poema del Heathen Chinee. Sarebbe possibile ricavare un effetto poetico assai gradevole intrecciando i versi dell'uno con i versi dell'altro, e produrre così un poema compiuto e continuo, tutto sulla medesima bella melodia, che combini (come solo i più grandi capolavori sanno fare) le qualità dell'umanista e dell'umorista; gli elementi del [[Grave|grave]] e del gaio. Non v'è qui spazio per intrecciare per intero le due narrazioni; ma un verso o due basteranno a mostrare che esse si muovono con la stessa melodia nel medesimo metro.
 
-  Oh, avessi io con piedi
-  senza sandali, scalzi,
-  troppo arditi, troppo veloci,
-  non nuotato né mai calcato
-  dall'Arcadia a Calidone verso settentrione una raffica dell'invidia
-  di Dio.
+Oh, avessi io con piedi
+senza sandali, scalzi,
+troppo arditi, troppo veloci,
+non nuotato né mai calcato
+dall'Arcadia a Calidone verso settentrione una raffica dell'invidia
+di Dio.
 
-  Le quali espressioni sono forti,
-  eppur fiaccamente lascerebbero intendere
-  qualche resoconto di un torto,
-  per non dirlo una menzogna,
-  che fu perpetrato ai danni di William mio socio, il quale medesimo
-  essendo W. Nye.
+Le quali espressioni sono forti,
+eppur fiaccamente lascerebbero intendere
+qualche resoconto di un torto,
+per non dirlo una menzogna,
+che fu perpetrato ai danni di William mio socio, il quale medesimo
+essendo W. Nye.
 
 Si potrà obiettare con malizia, da parte dei privi di orecchio, che l'[[Identity|identità]] non è che un accidente della disposizione sulla pagina; giacché il verso lungo potrebbe essere diviso, o i versi brevi collegati insieme. Ma ciò non è vero. Quell'ultimo lungo verso che [[rolling|rotola]] è davvero unico, come un'onda che spazza via tutto ciò che l'ha preceduto. E la morale è che il metro non è artificiale ma elementale; è liscio come il Niagara. Quel lungo verso impetuoso esprime davvero il culto del mare di Swinburne; quel lungo verso serpeggiante esprime davvero la distaccata lucidità di Truthful James. Da allora, gli scrittori hanno frantumato la scrittura in pezzi per renderla esplosiva. L'altro Truthful James — alludo a Henry James — cominciò l'impresa con una gragnuola di virgole; i poeti più moderni sono ben capaci di conservare le virgole e di tralasciare le parole. Altri vorrebbero produrre un'esplosione, o almeno un fracasso, con qualche verso del tipo: «Scoppia. Deflagra. Scoppia-Deflagra retro-deflagrato. Bang!». Ma in verità non è nemmeno così fragoroso come un verso quale: «Dove il tonante Bosforo risponde al tuono dei mari Pontici»; perché in qualche modo suggerisce, non un rumore naturale che non si può fermare, ma un rumore artificiale che effettivamente si ferma, non foss'altro che a colpi di punti fermi. Il metro è più naturale del [[Free Verse|verso libero]]; perché ha in sé più del movimento della [[Nature|natura]], e delle curve del [[Wind|vento]] e dell'onda.
 
@@ -16959,7 +16959,7 @@ L'[[Soul|anima]] di tutto questo, s'intende, sfugge all'analisi; e nondimeno un 
 
 
 
-<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_02" data-title="Common Man — The Meaning Of Metre (part 2)" data-chapter="Story 27 The Meaning Of Metre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_02" data-title="Common Man — The Meaning Of Metre (part 2)" data-chapter="The Meaning Of Metre" data-kind="excerpt"></span>
 
 
 I wish there were a real [[philosophy]] of comparative religion,
@@ -17072,7 +17072,7 @@ Tanto vitalmente quanto verbalmente, questo infinito è il nemico di tutto ciò 
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_01" data-title="Common Man — If I Had Only One Sermon To Preach (part 1)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_01" data-title="Common Man — If I Had Only One Sermon To Preach (part 1)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 IF I HAD ONLY ONE SERMON TO PREACH
@@ -17211,7 +17211,7 @@ Men hate priggishness because it is the driest form of [[Pride|pride]].
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_02" data-title="Common Man — If I Had Only One Sermon To Preach (part 2)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_02" data-title="Common Man — If I Had Only One Sermon To Preach (part 2)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 Thus there is a [[Paradox|paradox]] in the whole position.  The spiritual idea
@@ -17497,7 +17497,7 @@ nel senso più completo ed esatto, in nulla.
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_03" data-title="Common Man — If I Had Only One Sermon To Preach (part 3)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_03" data-title="Common Man — If I Had Only One Sermon To Preach (part 3)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 If I had only one sermon to preach, I certainly could not end it
@@ -17644,7 +17644,7 @@ Ora, questa [[Shadow|ombra]] di fallimento su ogni fama e su ogni civiltà, che 
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_04" data-title="Common Man — If I Had Only One Sermon To Preach (part 4)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_04" data-title="Common Man — If I Had Only One Sermon To Preach (part 4)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 I have here dared to call up out of the [[Dust|dust]] another warrior,
@@ -17775,7 +17775,7 @@ L'inverso è del pari vero. Se mai vi fu una donna manifestamente pensata, desti
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_05" data-title="Common Man — If I Had Only One Sermon To Preach (part 5)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_05" data-title="Common Man — If I Had Only One Sermon To Preach (part 5)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 We know why Mary Stuart was killed.  She was not killed for having
@@ -17923,7 +17923,7 @@ Ma non dobbiamo essere romantici; vale a dire, non dobbiamo occuparci dei sentim
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_06" data-title="Common Man — If I Had Only One Sermon To Preach (part 6)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_06" data-title="Common Man — If I Had Only One Sermon To Preach (part 6)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 [[Don John]] died trying to keep his temper with Dutch Calvinists,
@@ -18045,7 +18045,7 @@ Ho un grande rispetto per le virtù reali e per la sana, se pur sopita, virilit�
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_07" data-title="Common Man — If I Had Only One Sermon To Preach (part 7)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_07" data-title="Common Man — If I Had Only One Sermon To Preach (part 7)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 Historians quarrel about whether the English under Elizabeth
@@ -18084,12 +18084,12 @@ insularity have often quoted the great lines in which Shakespeare
 praised England, as something separate and cut-off by the sea.
 They rather tend to forget what he really praised her for.
 
-  This [[Nurse|nurse]], this teeming womb of royal kings,
-  Feared by their breed and famous by their birth,
-  Renowned for their deeds as far from [[Home|home]],
-  For Christian service and true chivalry,
-  As is the sepulchre in stubborn Jewry
-  Of the world's ransom, blessed Mary's Son.
+This [[Nurse|nurse]], this teeming womb of royal kings,
+Feared by their breed and famous by their birth,
+Renowned for their deeds as far from [[Home|home]],
+For Christian service and true chivalry,
+As is the sepulchre in stubborn Jewry
+Of the world's ransom, blessed Mary's Son.
 
 I really think that the man who wrote those lines would have welcomed
 the victor of [[lepanto|Lepanto]] almost as warmly as he must have welcomed
@@ -18205,12 +18205,12 @@ spirituale hanno spesso citato i grandi versi in cui Shakespeare
 lodò l'Inghilterra, come qualcosa di separato e reciso dal mare.
 Piuttosto sogliono dimenticare ciò per cui davvero la lodò.
 
-  Questa [[Nurse|nutrice]], questo grembo fecondo di re regali,
-  Temuti per la loro stirpe e famosi per la loro nascita,
-  Rinomati per le loro gesta tanto lontano da [[Home|casa]],
-  Per servizio cristiano e vera cavalleria,
-  Quanto il sepolcro, nell'ostinata Giudea,
-  Del riscatto del mondo, il Figlio della beata Maria.
+Questa [[Nurse|nutrice]], questo grembo fecondo di re regali,
+Temuti per la loro stirpe e famosi per la loro nascita,
+Rinomati per le loro gesta tanto lontano da [[Home|casa]],
+Per servizio cristiano e vera cavalleria,
+Quanto il sepolcro, nell'ostinata Giudea,
+Del riscatto del mondo, il Figlio della beata Maria.
 
 Credo davvero che l'uomo che scrisse quei versi avrebbe accolto
 il vincitore di [[lepanto|Lepanto]] quasi con lo stesso calore con cui dovette accogliere
@@ -18289,7 +18289,7 @@ sua profondità, uno spirituale Tunnel della Manica.
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_08" data-title="Common Man — If I Had Only One Sermon To Preach (part 8)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_08" data-title="Common Man — If I Had Only One Sermon To Preach (part 8)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 But this linking up of Europe in the [[Renaissance]] would
@@ -18411,7 +18411,7 @@ Non accadde mai. Era troppo naturale perché accadesse. Avrei quasi detto che er
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_09" data-title="Common Man — If I Had Only One Sermon To Preach (part 9)" data-chapter="Story 34 If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_09" data-title="Common Man — If I Had Only One Sermon To Preach (part 9)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
 
 
 And so, after that one wild glimpse of the possibility of the impossible,

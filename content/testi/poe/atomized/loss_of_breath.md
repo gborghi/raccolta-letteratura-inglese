@@ -16,773 +16,773 @@ tags:
 
 O breathe not, etc.
 
-                    —Moore’s _Melodies_
+—Moore’s _Melodies_
 
 
 
-      The most notorious ill-fortune must in the end yield to the
+The most notorious ill-fortune must in the end yield to the
 
-      untiring [[Courage|courage]] of [[philosophy]]—as the most stubborn [[City|city]] to the
+untiring [[Courage|courage]] of [[philosophy]]—as the most stubborn [[City|city]] to the
 
-      ceaseless vigilance of an enemy. Shalmanezer, as we have it in
+ceaseless vigilance of an enemy. Shalmanezer, as we have it in
 
-      holy writings, lay three years before Samaria; yet it fell.
+holy writings, lay three years before Samaria; yet it fell.
 
-      Sardanapalus—see Diodorus—maintained himself seven in Nineveh;
+Sardanapalus—see Diodorus—maintained himself seven in Nineveh;
 
-      but to no purpose. Troy expired at the close of the second
+but to no purpose. Troy expired at the close of the second
 
-      lustrum; and Azoth, as Aristaeus declares upon his [[Honour|honour]] as a
+lustrum; and Azoth, as Aristaeus declares upon his [[Honour|honour]] as a
 
-      gentleman, opened at last her gates to Psammetichus, after having
+gentleman, opened at last her gates to Psammetichus, after having
 
-      barred them for the fifth part of a century....
+barred them for the fifth part of a century....
 
 
 
-      “Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the
+“Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the
 
-      morning after our wedding; “thou [[Witch|witch]]!—thou hag!—thou
+morning after our wedding; “thou [[Witch|witch]]!—thou hag!—thou
 
-      whippersnapper—thou sink of iniquity!—thou fiery-faced
+whippersnapper—thou sink of iniquity!—thou fiery-faced
 
-      quintessence of all that is abominable!—thou—thou—” here standing
+quintessence of all that is abominable!—thou—thou—” here standing
 
-      upon tiptoe, seizing her by the throat, and placing my mouth
+upon tiptoe, seizing her by the throat, and placing my mouth
 
-      close to her ear, I was preparing to launch forth a new and more
+close to her ear, I was preparing to launch forth a new and more
 
-      decided epithet of opprobrium, which should not fail, if
+decided epithet of opprobrium, which should not fail, if
 
-      ejaculated, to convince her of her insignificance, when to my
+ejaculated, to convince her of her insignificance, when to my
 
-      extreme horror and astonishment I discovered that I had lost my
+extreme horror and astonishment I discovered that I had lost my
 
-      breath.
+breath.
 
 
 
-      The phrases “I am out of breath,” “I have lost my breath,” etc.,
+The phrases “I am out of breath,” “I have lost my breath,” etc.,
 
-      are often enough repeated in common conversation; but it had
+are often enough repeated in common conversation; but it had
 
-      never occurred to me that the terrible accident of which I speak
+never occurred to me that the terrible accident of which I speak
 
-      could _bona fide_ and actually happen! Imagine—that is if you
+could _bona fide_ and actually happen! Imagine—that is if you
 
-      have a fanciful turn—imagine, I say, my [[Wonder|wonder]]—my
+have a fanciful turn—imagine, I say, my [[Wonder|wonder]]—my
 
-      consternation—my [[Despair|despair]]!
+consternation—my [[Despair|despair]]!
 
 
 
-      There is a good genius, however, which has never entirely
+There is a good genius, however, which has never entirely
 
-      deserted me. In my most ungovernable moods I still retain a sense
+deserted me. In my most ungovernable moods I still retain a sense
 
-      of propriety, _et le chemin des passions me conduit_—as Lord
+of propriety, _et le chemin des passions me conduit_—as Lord
 
-      Edouard in the “Julie” says it did him—_à la philosophie
+Edouard in the “Julie” says it did him—_à la philosophie
 
-      véritable_.
+véritable_.
 
 
 
-      Although I could not at first precisely ascertain to what degree
+Although I could not at first precisely ascertain to what degree
 
-      the occurrence had affected me, I determined at all events to
+the occurrence had affected me, I determined at all events to
 
-      conceal the matter from my wife, until further experience should
+conceal the matter from my wife, until further experience should
 
-      discover to me the extent of this my unheard of calamity.
+discover to me the extent of this my unheard of calamity.
 
-      Altering my countenance, therefore, in a moment, from its
+Altering my countenance, therefore, in a moment, from its
 
-      bepuffed and distorted appearance, to an expression of arch and
+bepuffed and distorted appearance, to an expression of arch and
 
-      coquettish benignity, I gave my lady a pat on the one cheek, and
+coquettish benignity, I gave my lady a pat on the one cheek, and
 
-      a kiss on the other, and without saying one syllable (Furies! I
+a kiss on the other, and without saying one syllable (Furies! I
 
-      could not), left her astonished at my drollery, as I pirouetted
+could not), left her astonished at my drollery, as I pirouetted
 
-      out of the room in a _pas de zephyr_.
+out of the room in a _pas de zephyr_.
 
 
 
-      Behold me then safely ensconced in my private boudoir, a fearful
+Behold me then safely ensconced in my private boudoir, a fearful
 
-      instance of the ill consequences attending upon
+instance of the ill consequences attending upon
 
-      irascibility—alive, with the qualifications of the dead—dead,
+irascibility—alive, with the qualifications of the dead—dead,
 
-      with the propensities of the living—an anomaly on the face of the
+with the propensities of the living—an anomaly on the face of the
 
-      earth—being very calm, yet breathless.
+earth—being very calm, yet breathless.
 
 
 
-      Yes! breathless. I am serious in asserting that my breath was
+Yes! breathless. I am serious in asserting that my breath was
 
-      entirely gone. I could not have stirred with it a feather if my
+entirely gone. I could not have stirred with it a feather if my
 
-      life had been at issue, or sullied even the delicacy of a [[Mirror|mirror]].
+life had been at issue, or sullied even the delicacy of a [[Mirror|mirror]].
 
-      Hard fate!—yet there was some alleviation to the first
+Hard fate!—yet there was some alleviation to the first
 
-      overwhelming paroxysm of my sorrow. I found, upon trial, that the
+overwhelming paroxysm of my sorrow. I found, upon trial, that the
 
-      powers of utterance which, upon my inability to proceed in the
+powers of utterance which, upon my inability to proceed in the
 
-      conversation with my wife, I then concluded to be totally
+conversation with my wife, I then concluded to be totally
 
-      destroyed, were in fact only partially impeded, and I discovered
+destroyed, were in fact only partially impeded, and I discovered
 
-      that had I, at that interesting crisis, dropped my voice to a
+that had I, at that interesting crisis, dropped my voice to a
 
-      singularly deep guttural, I might still have continued to her the
+singularly deep guttural, I might still have continued to her the
 
-      communication of my sentiments; this pitch of voice (the
+communication of my sentiments; this pitch of voice (the
 
-      guttural) depending, I find, not upon the current of the breath,
+guttural) depending, I find, not upon the current of the breath,
 
-      but upon a certain spasmodic action of the muscles of the throat.
+but upon a certain spasmodic action of the muscles of the throat.
 
 
 
-      Throwing myself upon a chair, I remained for some [[Time|time]] absorbed
+Throwing myself upon a chair, I remained for some [[Time|time]] absorbed
 
-      in meditation. My reflections, be sure, were of no consolatory
+in meditation. My reflections, be sure, were of no consolatory
 
-      kind. A thousand vague and lachrymatory fancies took possession
+kind. A thousand vague and lachrymatory fancies took possession
 
-      of my [[Soul|soul]]—and even the idea of [[suicide]] flitted across my brain;
+of my [[Soul|soul]]—and even the idea of [[suicide]] flitted across my brain;
 
-      but it is a trait in the perversity of human [[Nature|nature]] to reject the
+but it is a trait in the perversity of human [[Nature|nature]] to reject the
 
-      obvious and the ready, for the far-distant and equivocal. Thus I
+obvious and the ready, for the far-distant and equivocal. Thus I
 
-      shuddered at [[Self|self]]-murder as the most decided of atrocities while
+shuddered at [[Self|self]]-murder as the most decided of atrocities while
 
-      the tabby cat purred strenuously upon the rug, and the very
+the tabby cat purred strenuously upon the rug, and the very
 
-      [[Water|water]]-dog wheezed assiduously under the table, each taking to
+[[Water|water]]-dog wheezed assiduously under the table, each taking to
 
-      itself much merit for the strength of its lungs, and all
+itself much merit for the strength of its lungs, and all
 
-      obviously done in derision of my own pulmonary incapacity.
+obviously done in derision of my own pulmonary incapacity.
 
 
 
-      Oppressed with a tumult of vague hopes and fears, I at length
+Oppressed with a tumult of vague hopes and fears, I at length
 
-      heard the footsteps of my wife descending the staircase. Being
+heard the footsteps of my wife descending the staircase. Being
 
-      now assured of her absence, I returned with a palpitating heart
+now assured of her absence, I returned with a palpitating heart
 
-      to the scene of my disaster.
+to the scene of my disaster.
 
 
 
-      Carefully locking the door on the inside, I commenced a vigorous
+Carefully locking the door on the inside, I commenced a vigorous
 
-      search. It was possible, I thought, that, concealed in some
+search. It was possible, I thought, that, concealed in some
 
-      obscure corner, or lurking in some closet or drawer, might be
+obscure corner, or lurking in some closet or drawer, might be
 
-      found the lost object of my inquiry. It might have a vapory—it
+found the lost object of my inquiry. It might have a vapory—it
 
-      might even have a tangible form. Most philosophers, upon many
+might even have a tangible form. Most philosophers, upon many
 
-      points of [[philosophy]], are still very unphilosophical. William
+points of [[philosophy]], are still very unphilosophical. William
 
-      Godwin, however, says in his “Mandeville,” that “invisible things
+Godwin, however, says in his “Mandeville,” that “invisible things
 
-      are the only realities,” and this, all will allow, is a case in
+are the only realities,” and this, all will allow, is a case in
 
-      point. I would have the judicious reader pause before accusing
+point. I would have the judicious reader pause before accusing
 
-      such asseverations of an undue quantum of absurdity. Anaxagoras,
+such asseverations of an undue quantum of absurdity. Anaxagoras,
 
-      it will be remembered, maintained that [[Snow|snow]] is black, and this I
+it will be remembered, maintained that [[Snow|snow]] is black, and this I
 
-      have since found to be the case.
+have since found to be the case.
 
 
 
-      Long and earnestly did I continue the investigation: but the
+Long and earnestly did I continue the investigation: but the
 
-      contemptible reward of my industry and perseverance proved to be
+contemptible reward of my industry and perseverance proved to be
 
-      only a set of false teeth, two pair of hips, an eye, and a bundle
+only a set of false teeth, two pair of hips, an eye, and a bundle
 
-      of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
+of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
 
-      here observe that this confirmation of my lady’s partiality for
+here observe that this confirmation of my lady’s partiality for
 
-      Mr. W. occasioned me little uneasiness. That Mrs. Lackobreath
+Mr. W. occasioned me little uneasiness. That Mrs. Lackobreath
 
-      should admire anything so dissimilar to myself was a natural and
+should admire anything so dissimilar to myself was a natural and
 
-      necessary evil. I am, it is [[Well|well]] known, of a robust and corpulent
+necessary evil. I am, it is [[Well|well]] known, of a robust and corpulent
 
-      appearance, and at the same [[Time|time]] somewhat diminutive in stature.
+appearance, and at the same [[Time|time]] somewhat diminutive in stature.
 
-      What [[Wonder|wonder]], then, that the lath-like tenuity of my acquaintance,
+What [[Wonder|wonder]], then, that the lath-like tenuity of my acquaintance,
 
-      and his altitude, which has grown into a proverb, should have met
+and his altitude, which has grown into a proverb, should have met
 
-      with all due estimation in the eyes of Mrs. Lackobreath. But to
+with all due estimation in the eyes of Mrs. Lackobreath. But to
 
-      return.
+return.
 
 
 
-      My exertions, as I have before said, proved fruitless. Closet
+My exertions, as I have before said, proved fruitless. Closet
 
-      after closet—drawer after drawer—corner after corner—were
+after closet—drawer after drawer—corner after corner—were
 
-      scrutinized to no purpose. At one [[Time|time]], however, I thought myself
+scrutinized to no purpose. At one [[Time|time]], however, I thought myself
 
-      sure of my prize, having, in rummaging a dressing-case,
+sure of my prize, having, in rummaging a dressing-case,
 
-      accidentally demolished a bottle of Grandjean’s Oil of
+accidentally demolished a bottle of Grandjean’s Oil of
 
-      Archangels—which, as an agreeable perfume, I here take the
+Archangels—which, as an agreeable perfume, I here take the
 
-      liberty of recommending.
+liberty of recommending.
 
 
 
-      With a heavy heart I returned to my boudoir—there to ponder upon
+With a heavy heart I returned to my boudoir—there to ponder upon
 
-      some method of eluding my wife’s penetration, until I could make
+some method of eluding my wife’s penetration, until I could make
 
-      arrangements prior to my leaving the country, for to this I had
+arrangements prior to my leaving the country, for to this I had
 
-      already made up my mind. In a foreign climate, being unknown, I
+already made up my mind. In a foreign climate, being unknown, I
 
-      might, with some probability of [[success]], endeavor to conceal my
+might, with some probability of [[success]], endeavor to conceal my
 
-      unhappy calamity—a calamity calculated, even more than beggary,
+unhappy calamity—a calamity calculated, even more than beggary,
 
-      to estrange the affections of the multitude, and to draw down
+to estrange the affections of the multitude, and to draw down
 
-      upon the wretch the [[Well|well]]-merited indignation of the virtuous and
+upon the wretch the [[Well|well]]-merited indignation of the virtuous and
 
-      the happy. I was not long in hesitation. Being naturally quick, I
+the happy. I was not long in hesitation. Being naturally quick, I
 
-      committed to [[Memory|memory]] the entire [[Tragedy|tragedy]] of “Metamora.” I had the
+committed to [[Memory|memory]] the entire [[Tragedy|tragedy]] of “Metamora.” I had the
 
-      good fortune to recollect that in the accentuation of this drama,
+good fortune to recollect that in the accentuation of this drama,
 
-      or at least of such portion of it as is allotted to the [[Hero|hero]], the
+or at least of such portion of it as is allotted to the [[Hero|hero]], the
 
-      tones of voice in which I found myself deficient were altogether
+tones of voice in which I found myself deficient were altogether
 
-      unnecessary, and the deep guttural was expected to reign
+unnecessary, and the deep guttural was expected to reign
 
-      monotonously throughout.
+monotonously throughout.
 
 
 
-      I practised for some [[Time|time]] by the borders of a [[Well|well]] frequented
+I practised for some [[Time|time]] by the borders of a [[Well|well]] frequented
 
-      marsh;—herein, however, having no reference to a similar
+marsh;—herein, however, having no reference to a similar
 
-      proceeding of Demosthenes, but from a design peculiarly and
+proceeding of Demosthenes, but from a design peculiarly and
 
-      conscientiously my own. Thus armed at all points, I determined to
+conscientiously my own. Thus armed at all points, I determined to
 
-      make my wife believe that I was suddenly smitten with a passion
+make my wife believe that I was suddenly smitten with a passion
 
-      for the stage. In this, I succeeded to a miracle; and to every
+for the stage. In this, I succeeded to a miracle; and to every
 
-      question or suggestion found myself at liberty to reply in my
+question or suggestion found myself at liberty to reply in my
 
-      most frog-like and sepulchral tones with some passage from the
+most frog-like and sepulchral tones with some passage from the
 
-      [[Tragedy|tragedy]]—any portion of which, as I soon took great pleasure in
+[[Tragedy|tragedy]]—any portion of which, as I soon took great pleasure in
 
-      observing, would apply equally [[Well|well]] to any particular subject. It
+observing, would apply equally [[Well|well]] to any particular subject. It
 
-      is not to be supposed, however, that in the delivery of such
+is not to be supposed, however, that in the delivery of such
 
-      passages I was found at all deficient in the looking asquint—the
+passages I was found at all deficient in the looking asquint—the
 
-      showing my teeth—the working my knees—the shuffling my feet—or in
+showing my teeth—the working my knees—the shuffling my feet—or in
 
-      any of those unmentionable graces which are now justly considered
+any of those unmentionable graces which are now justly considered
 
-      the characteristics of a popular performer. To be sure they spoke
+the characteristics of a popular performer. To be sure they spoke
 
-      of confining me in a strait-jacket—but, good God! they never
+of confining me in a strait-jacket—but, good God! they never
 
-      suspected me of having lost my breath.
+suspected me of having lost my breath.
 
 
 
-      Having at length put my affairs in order, I took my seat very
+Having at length put my affairs in order, I took my seat very
 
-      early one morning in the mail stage for ——, giving it to be
+early one morning in the mail stage for ——, giving it to be
 
-      understood, among my acquaintances, that business of the last
+understood, among my acquaintances, that business of the last
 
-      importance required my immediate personal attendance in that
+importance required my immediate personal attendance in that
 
-      [[City|city]].
+[[City|city]].
 
 
 
-      The coach was crammed to repletion; but in the uncertain twilight
+The coach was crammed to repletion; but in the uncertain twilight
 
-      the features of my companions could not be distinguished. Without
+the features of my companions could not be distinguished. Without
 
-      making any effectual resistance, I suffered myself to be placed
+making any effectual resistance, I suffered myself to be placed
 
-      between two gentlemen of colossal dimensions; while a third, of a
+between two gentlemen of colossal dimensions; while a third, of a
 
-      size larger, requesting pardon for the liberty he was about to
+size larger, requesting pardon for the liberty he was about to
 
-      take, threw himself upon my [[Body|body]] at full length, and falling
+take, threw himself upon my [[Body|body]] at full length, and falling
 
-      asleep in an instant, drowned all my guttural ejaculations for
+asleep in an instant, drowned all my guttural ejaculations for
 
-      relief, in a snore which would have put to blush the roarings of
+relief, in a snore which would have put to blush the roarings of
 
-      the bull of Phalaris. Happily the state of my respiratory
+the bull of Phalaris. Happily the state of my respiratory
 
-      faculties rendered suffocation an accident entirely out of the
+faculties rendered suffocation an accident entirely out of the
 
-      question.
+question.
 
 
 
-      As, however, the day broke more distinctly in our approach to the
+As, however, the day broke more distinctly in our approach to the
 
-      outskirts of the [[City|city]], my tormentor, arising and adjusting his
+outskirts of the [[City|city]], my tormentor, arising and adjusting his
 
-      shirt-collar, thanked me in a very friendly manner for my
+shirt-collar, thanked me in a very friendly manner for my
 
-      civility. Seeing that I remained motionless (all my limbs were
+civility. Seeing that I remained motionless (all my limbs were
 
-      dislocated and my head twisted on one side), his apprehensions
+dislocated and my head twisted on one side), his apprehensions
 
-      began to be excited; and arousing the rest of the passengers, he
+began to be excited; and arousing the rest of the passengers, he
 
-      communicated, in a very decided manner, his opinion that a dead
+communicated, in a very decided manner, his opinion that a dead
 
-      man had been palmed upon them during the [[Night|night]] for a living and
+man had been palmed upon them during the [[Night|night]] for a living and
 
-      responsible fellow-traveller; here giving me a thump on the right
+responsible fellow-traveller; here giving me a thump on the right
 
-      eye, by way of demonstrating the [[Truth|truth]] of his suggestion.
+eye, by way of demonstrating the [[Truth|truth]] of his suggestion.
 
 
 
-      Hereupon all, one after another (there were nine in company),
+Hereupon all, one after another (there were nine in company),
 
-      believed it their duty to pull me by the ear. A young practising
+believed it their duty to pull me by the ear. A young practising
 
-      physician, too, having applied a pocket-[[Mirror|mirror]] to my mouth, and
+physician, too, having applied a pocket-[[Mirror|mirror]] to my mouth, and
 
-      found me without breath, the assertion of my persecutor was
+found me without breath, the assertion of my persecutor was
 
-      pronounced a true bill; and the whole party expressed a
+pronounced a true bill; and the whole party expressed a
 
-      determination to endure tamely no such impositions for the
+determination to endure tamely no such impositions for the
 
-      future, and to proceed no farther with any such carcasses for the
+future, and to proceed no farther with any such carcasses for the
 
-      present.
+present.
 
 
 
-      I was here, accordingly, thrown out at the sign of the “Crow” (by
+I was here, accordingly, thrown out at the sign of the “Crow” (by
 
-      which tavern the coach happened to be passing), without meeting
+which tavern the coach happened to be passing), without meeting
 
-      with any farther accident than the breaking of both my arms,
+with any farther accident than the breaking of both my arms,
 
-      under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
+under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
 
-      driver the justice to state that he did not forget to throw after
+driver the justice to state that he did not forget to throw after
 
-      me the largest of my trunks, which, unfortunately falling on my
+me the largest of my trunks, which, unfortunately falling on my
 
-      head, fractured my skull in a manner at once interesting and
+head, fractured my skull in a manner at once interesting and
 
-      extraordinary.
+extraordinary.
 
 
 
-      The landlord of the “Crow,” who is a hospitable man, finding that
+The landlord of the “Crow,” who is a hospitable man, finding that
 
-      my trunk contained sufficient to indemnify him for any little
+my trunk contained sufficient to indemnify him for any little
 
-      trouble he might take in my behalf, sent forthwith for a surgeon
+trouble he might take in my behalf, sent forthwith for a surgeon
 
-      of his acquaintance, and delivered me to his care with a bill and
+of his acquaintance, and delivered me to his care with a bill and
 
-      receipt for ten dollars.
+receipt for ten dollars.
 
 
 
-      The purchaser took me to his apartments and commenced operations
+The purchaser took me to his apartments and commenced operations
 
-      immediately. Having cut off my ears, however, he discovered signs
+immediately. Having cut off my ears, however, he discovered signs
 
-      of animation. He now rang the bell, and sent for a neighboring
+of animation. He now rang the bell, and sent for a neighboring
 
-      apothecary with whom to consult in the emergency. In case of his
+apothecary with whom to consult in the emergency. In case of his
 
-      suspicions with regard to my existence proving ultimately
+suspicions with regard to my existence proving ultimately
 
-      correct, he, in the meantime, made an incision in my stomach, and
+correct, he, in the meantime, made an incision in my stomach, and
 
-      removed several of my viscera for private dissection.
+removed several of my viscera for private dissection.
 
 
 
-      The apothecary had an idea that I was actually dead. This idea I
+The apothecary had an idea that I was actually dead. This idea I
 
-      endeavored to confute, kicking and plunging with all my might,
+endeavored to confute, kicking and plunging with all my might,
 
-      and making the most furious contortions—for the operations of the
+and making the most furious contortions—for the operations of the
 
-      surgeon had, in a measure, restored me to the possession of my
+surgeon had, in a measure, restored me to the possession of my
 
-      faculties. All, however, was attributed to the effects of a new
+faculties. All, however, was attributed to the effects of a new
 
-      galvanic battery, wherewith the apothecary, who is really a man
+galvanic battery, wherewith the apothecary, who is really a man
 
-      of information, performed several curious experiments, in which,
+of information, performed several curious experiments, in which,
 
-      from my personal share in their fulfillment, I could not help
+from my personal share in their fulfillment, I could not help
 
-      feeling deeply interested. It was a course of mortification to
+feeling deeply interested. It was a course of mortification to
 
-      me, nevertheless, that although I made several attempts at
+me, nevertheless, that although I made several attempts at
 
-      conversation, my powers of speech were so entirely in abeyance,
+conversation, my powers of speech were so entirely in abeyance,
 
-      that I could not even open my mouth; much less, then, make reply
+that I could not even open my mouth; much less, then, make reply
 
-      to some ingenious but fanciful theories of which, under other
+to some ingenious but fanciful theories of which, under other
 
-      circumstances, my minute acquaintance with the Hippocratian
+circumstances, my minute acquaintance with the Hippocratian
 
-      pathology would have afforded me a ready confutation.
+pathology would have afforded me a ready confutation.
 
 
 
-      Not being able to arrive at a conclusion, the practitioners
+Not being able to arrive at a conclusion, the practitioners
 
-      remanded me for farther examination. I was taken up into a
+remanded me for farther examination. I was taken up into a
 
-      garret; and the surgeon’s lady having accommodated me with
+garret; and the surgeon’s lady having accommodated me with
 
-      drawers and stockings, the surgeon himself fastened my hands, and
+drawers and stockings, the surgeon himself fastened my hands, and
 
-      tied up my jaws with a pocket-handkerchief—then bolted the door
+tied up my jaws with a pocket-handkerchief—then bolted the door
 
-      on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
+on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
 
-      [[Silence|silence]] and to meditation.
+[[Silence|silence]] and to meditation.
 
 
 
-      I now discovered to my extreme delight that I could have spoken
+I now discovered to my extreme delight that I could have spoken
 
-      had not my mouth been tied up with the pocket-handkerchief.
+had not my mouth been tied up with the pocket-handkerchief.
 
-      Consoling myself with this reflection, I was mentally repeating
+Consoling myself with this reflection, I was mentally repeating
 
-      some passages of the “Omnipresence of the Deity,” as is my custom
+some passages of the “Omnipresence of the Deity,” as is my custom
 
-      before resigning myself to [[Sleep|sleep]], when two cats, of a greedy and
+before resigning myself to [[Sleep|sleep]], when two cats, of a greedy and
 
-      vituperative turn, entering at a hole in the wall, leaped up with
+vituperative turn, entering at a hole in the wall, leaped up with
 
-      a flourish a la Catalani, and alighting opposite one another on
+a flourish a la Catalani, and alighting opposite one another on
 
-      my visage, betook themselves to indecorous contention for the
+my visage, betook themselves to indecorous contention for the
 
-      paltry consideration of my nose.
+paltry consideration of my nose.
 
 
 
-      But, as the loss of his ears proved the means of elevating to the
+But, as the loss of his ears proved the means of elevating to the
 
-      throne of Cyrus, the Magian or Mige-Gush of Persia, and as the
+throne of Cyrus, the Magian or Mige-Gush of Persia, and as the
 
-      cutting off his nose gave Zopyrus possession of Babylon, so the
+cutting off his nose gave Zopyrus possession of Babylon, so the
 
-      loss of a few ounces of my countenance proved the salvation of my
+loss of a few ounces of my countenance proved the salvation of my
 
-      [[Body|body]]. Aroused by the [[Pain|pain]], and burning with indignation, I burst,
+[[Body|body]]. Aroused by the [[Pain|pain]], and burning with indignation, I burst,
 
-      at a single effort, the fastenings and the bandage. Stalking
+at a single effort, the fastenings and the bandage. Stalking
 
-      across the room I cast a glance of contempt at the belligerents,
+across the room I cast a glance of contempt at the belligerents,
 
-      and throwing open the sash to their extreme horror and
+and throwing open the sash to their extreme horror and
 
-      disappointment, precipitated myself, very dexterously, from the
+disappointment, precipitated myself, very dexterously, from the
 
-      [[Window|window]].
+[[Window|window]].
 
 
 
-      The mail-robber W——, to whom I bore a singular resemblance, was
+The mail-robber W——, to whom I bore a singular resemblance, was
 
-      at this moment passing from the [[City|city]] jail to the scaffold erected
+at this moment passing from the [[City|city]] jail to the scaffold erected
 
-      for his execution in the suburbs. His extreme infirmity and long
+for his execution in the suburbs. His extreme infirmity and long
 
-      continued ill health had obtained him the privilege of remaining
+continued ill health had obtained him the privilege of remaining
 
-      unmanacled; and habited in his gallows costume—one very similar
+unmanacled; and habited in his gallows costume—one very similar
 
-      to my own,—he lay at full length in the [[Bottom|bottom]] of the hangman’s
+to my own,—he lay at full length in the [[Bottom|bottom]] of the hangman’s
 
-      cart (which happened to be under the windows of the surgeon at
+cart (which happened to be under the windows of the surgeon at
 
-      the moment of my precipitation) without any other guard than the
+the moment of my precipitation) without any other guard than the
 
-      driver, who was asleep, and two recruits of the sixth infantry,
+driver, who was asleep, and two recruits of the sixth infantry,
 
-      who were drunk.
+who were drunk.
 
 
 
-      As ill-luck would have it, I alit upon my feet within the
+As ill-luck would have it, I alit upon my feet within the
 
-      vehicle. W——, who was an acute fellow, perceived his opportunity.
+vehicle. W——, who was an acute fellow, perceived his opportunity.
 
-      Leaping up immediately, he bolted out behind, and turning down an
+Leaping up immediately, he bolted out behind, and turning down an
 
-      alley, was out of sight in the twinkling of an eye. The recruits,
+alley, was out of sight in the twinkling of an eye. The recruits,
 
-      aroused by the bustle, could not exactly comprehend the merits of
+aroused by the bustle, could not exactly comprehend the merits of
 
-      the transaction. Seeing, however, a man, the precise counterpart
+the transaction. Seeing, however, a man, the precise counterpart
 
-      of the felon, standing upright in the cart before their eyes,
+of the felon, standing upright in the cart before their eyes,
 
-      they were of the opinion that the rascal (meaning W——) was after
+they were of the opinion that the rascal (meaning W——) was after
 
-      making his escape, (so they expressed themselves), and, having
+making his escape, (so they expressed themselves), and, having
 
-      communicated this opinion to one another, they took each a dram,
+communicated this opinion to one another, they took each a dram,
 
-      and then knocked me down with the butt-ends of their muskets.
+and then knocked me down with the butt-ends of their muskets.
 
 
 
-      It was not long ere we arrived at the place of destination. Of
+It was not long ere we arrived at the place of destination. Of
 
-      course nothing could be said in my defence. Hanging was my
+course nothing could be said in my defence. Hanging was my
 
-      inevitable fate. I resigned myself thereto with a feeling half
+inevitable fate. I resigned myself thereto with a feeling half
 
-      stupid, half acrimonious. Being little of a cynic, I had all the
+stupid, half acrimonious. Being little of a cynic, I had all the
 
-      sentiments of a dog. The hangman, however, adjusted the noose
+sentiments of a dog. The hangman, however, adjusted the noose
 
-      about my neck. The drop fell.
+about my neck. The drop fell.
 
 
 
-      I forbear to depict my sensations upon the gallows; although
+I forbear to depict my sensations upon the gallows; although
 
-      here, undoubtedly, I could speak to the point, and it is a topic
+here, undoubtedly, I could speak to the point, and it is a topic
 
-      upon which nothing has been [[Well|well]] said. In fact, to write upon
+upon which nothing has been [[Well|well]] said. In fact, to write upon
 
-      such a theme it is necessary to have been hanged. Every author
+such a theme it is necessary to have been hanged. Every author
 
-      should confine himself to matters of experience. Thus [[Mark Antony]]
+should confine himself to matters of experience. Thus [[Mark Antony]]
 
-      composed a treatise upon getting drunk.
+composed a treatise upon getting drunk.
 
 
 
-      I may just mention, however, that die I did not. My [[Body|body]] was, but
+I may just mention, however, that die I did not. My [[Body|body]] was, but
 
-      I had no breath to be, suspended; and but for the knot under my
+I had no breath to be, suspended; and but for the knot under my
 
-      left ear (which had the feel of a military stock) I dare say that
+left ear (which had the feel of a military stock) I dare say that
 
-      I should have experienced very little inconvenience. As for the
+I should have experienced very little inconvenience. As for the
 
-      jerk given to my neck upon the falling of the drop, it merely
+jerk given to my neck upon the falling of the drop, it merely
 
-      proved a corrective to the twist afforded me by the fat gentleman
+proved a corrective to the twist afforded me by the fat gentleman
 
-      in the coach.
+in the coach.
 
 
 
-      For good reasons, however, I did my best to give the crowd the
+For good reasons, however, I did my best to give the crowd the
 
-      worth of their trouble. My convulsions were said to be
+worth of their trouble. My convulsions were said to be
 
-      extraordinary. My spasms it would have been difficult to beat.
+extraordinary. My spasms it would have been difficult to beat.
 
-      The populace encored. Several gentlemen swooned; and a multitude
+The populace encored. Several gentlemen swooned; and a multitude
 
-      of ladies were carried [[Home|home]] in hysterics. Pinxit availed himself
+of ladies were carried [[Home|home]] in hysterics. Pinxit availed himself
 
-      of the opportunity to retouch, from a [[Sketch|sketch]] taken upon the spot,
+of the opportunity to retouch, from a [[Sketch|sketch]] taken upon the spot,
 
-      his admirable painting of the “Marsyas flayed alive.”
+his admirable painting of the “Marsyas flayed alive.”
 
 
 
-      When I had afforded sufficient amusement, it was thought proper
+When I had afforded sufficient amusement, it was thought proper
 
-      to remove my [[Body|body]] from the gallows;—this the more especially as
+to remove my [[Body|body]] from the gallows;—this the more especially as
 
-      the real culprit had in the meantime been retaken and recognized,
+the real culprit had in the meantime been retaken and recognized,
 
-      a fact which I was so unlucky as not to know.
+a fact which I was so unlucky as not to know.
 
 
 
-      Much sympathy was, of course, exercised in my behalf, and as no
+Much sympathy was, of course, exercised in my behalf, and as no
 
-      one made claim to my corpse, it was ordered that I should be
+one made claim to my corpse, it was ordered that I should be
 
-      interred in a public vault.
+interred in a public vault.
 
 
 
-      Here, after due interval, I was deposited. The sexton departed,
+Here, after due interval, I was deposited. The sexton departed,
 
-      and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
+and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
 
 
 
-      [[Death]]’s a good fellow and keeps open [[house]]—
+[[Death]]’s a good fellow and keeps open [[house]]—
 
 
 
-      struck me at that moment as a palpable lie.
+struck me at that moment as a palpable lie.
 
 
 
-      I knocked off, however, the lid of my coffin, and stepped out.
+I knocked off, however, the lid of my coffin, and stepped out.
 
-      The place was dreadfully dreary and damp, and I became troubled
+The place was dreadfully dreary and damp, and I became troubled
 
-      with ennui. By way of amusement, I felt my way among the numerous
+with ennui. By way of amusement, I felt my way among the numerous
 
-      coffins ranged in order around. I lifted them down, one by one,
+coffins ranged in order around. I lifted them down, one by one,
 
-      and breaking open their lids, busied myself in speculations about
+and breaking open their lids, busied myself in speculations about
 
-      the [[Mortality|mortality]] within.
+the [[Mortality|mortality]] within.
 
 
 
-      “This,” I soliloquized, tumbling over a carcass, puffy, bloated,
+“This,” I soliloquized, tumbling over a carcass, puffy, bloated,
 
-      and rotund—“this has been, no [[Doubt|doubt]], in every sense of the word,
+and rotund—“this has been, no [[Doubt|doubt]], in every sense of the word,
 
-      an unhappy—an unfortunate man. It has been his terrible lot not
+an unhappy—an unfortunate man. It has been his terrible lot not
 
-      to walk but to waddle—to pass through life not like a human
+to walk but to waddle—to pass through life not like a human
 
-      being, but like an elephant—not like a man, but like a
+being, but like an elephant—not like a man, but like a
 
-      rhinoceros.
+rhinoceros.
 
 
 
-      “His attempts at getting on have been mere abortions, and his
+“His attempts at getting on have been mere abortions, and his
 
-      circumgyratory proceedings a palpable failure. Taking a step
+circumgyratory proceedings a palpable failure. Taking a step
 
-      forward, it has been his misfortune to take two toward the right,
+forward, it has been his misfortune to take two toward the right,
 
-      and three toward the left. His studies have been confined to the
+and three toward the left. His studies have been confined to the
 
-      poetry of Crabbe. He can have no idea of the [[Wonder|wonder]] of a
+poetry of Crabbe. He can have no idea of the [[Wonder|wonder]] of a
 
-      pirouette. To him a pas de papillon has been an abstract
+pirouette. To him a pas de papillon has been an abstract
 
-      conception. He has never ascended the summit of a [[Hill|hill]]. He has
+conception. He has never ascended the summit of a [[Hill|hill]]. He has
 
-      never viewed from any steeple the glories of a metropolis. Heat
+never viewed from any steeple the glories of a metropolis. Heat
 
-      has been his mortal enemy. In the dog-days his days have been the
+has been his mortal enemy. In the dog-days his days have been the
 
-      days of a dog. Therein, he has dreamed of flames and
+days of a dog. Therein, he has dreamed of flames and
 
-      suffocation—of [[Mountains|mountains]] upon [[Mountains|mountains]]—of Pelion upon Ossa. He
+suffocation—of [[Mountains|mountains]] upon [[Mountains|mountains]]—of Pelion upon Ossa. He
 
-      was short of breath—to say all in a word, he was short of breath.
+was short of breath—to say all in a word, he was short of breath.
 
-      He thought it extravagant to play upon [[Wind|wind]] instruments. He was
+He thought it extravagant to play upon [[Wind|wind]] instruments. He was
 
-      the inventor of [[Self|self]]-moving fans, [[Wind|wind]]-sails, and ventilators. He
+the inventor of [[Self|self]]-moving fans, [[Wind|wind]]-sails, and ventilators. He
 
-      patronized Du Pont the bellows-maker, and he died miserably in
+patronized Du Pont the bellows-maker, and he died miserably in
 
-      attempting to smoke a cigar. His was a case in which I feel a
+attempting to smoke a cigar. His was a case in which I feel a
 
-      deep interest—a lot in which I sincerely sympathize.
+deep interest—a lot in which I sincerely sympathize.
 
 
 
-      “But here,”—said I—“here”—and I dragged spitefully from its
+“But here,”—said I—“here”—and I dragged spitefully from its
 
-      receptacle a gaunt, tall and peculiar-looking form, whose
+receptacle a gaunt, tall and peculiar-looking form, whose
 
-      remarkable appearance struck me with a sense of unwelcome
+remarkable appearance struck me with a sense of unwelcome
 
-      familiarity—“here is a wretch entitled to no earthly
+familiarity—“here is a wretch entitled to no earthly
 
-      commiseration.” Thus saying, in order to obtain a more distinct
+commiseration.” Thus saying, in order to obtain a more distinct
 
-      view of my subject, I applied my thumb and forefinger to its
+view of my subject, I applied my thumb and forefinger to its
 
-      nose, and causing it to assume a sitting position upon the
+nose, and causing it to assume a sitting position upon the
 
-      ground, held it thus, at the length of my arm, while I continued
+ground, held it thus, at the length of my arm, while I continued
 
-      my soliloquy.
+my soliloquy.
 
 
 
-      “Entitled,” I repeated, “to no earthly commiseration. Who indeed
+“Entitled,” I repeated, “to no earthly commiseration. Who indeed
 
-      would think of compassioning a [[Shadow|shadow]]? Besides, has he not had
+would think of compassioning a [[Shadow|shadow]]? Besides, has he not had
 
-      his full share of the blessings of [[Mortality|mortality]]? He was the
+his full share of the blessings of [[Mortality|mortality]]? He was the
 
-      originator of tall monuments—shot-towers—[[Lightning|lightning]]-rods—Lombardy
+originator of tall monuments—shot-towers—[[Lightning|lightning]]-rods—Lombardy
 
-      poplars. His treatise upon “Shades and Shadows” has immortalized
+poplars. His treatise upon “Shades and Shadows” has immortalized
 
-      him. He edited with distinguished ability the last edition of
+him. He edited with distinguished ability the last edition of
 
-      “South on the Bones.” He went early to college and studied
+“South on the Bones.” He went early to college and studied
 
-      pneumatics. He then came [[Home|home]], talked eternally, and played upon
+pneumatics. He then came [[Home|home]], talked eternally, and played upon
 
-      the French-horn. He patronized the bagpipes. Captain Barclay, who
+the French-horn. He patronized the bagpipes. Captain Barclay, who
 
-      walked against [[Time]], would not walk against him. Windham and
+walked against [[Time]], would not walk against him. Windham and
 
-      Allbreath were his favorite writers,—his favorite [[artist]], Phiz.
+Allbreath were his favorite writers,—his favorite [[artist]], Phiz.
 
-      He died gloriously while inhaling gas—levique flatu corrupitur,
+He died gloriously while inhaling gas—levique flatu corrupitur,
 
-      like the fama pudicitae in Hieronymus. {*1} He was indubitably
+like the fama pudicitae in Hieronymus. {*1} He was indubitably
 
-      a—”
+a—”
 
 
 
@@ -840,193 +840,193 @@ cetera—et cetera—et cetera—et cetera—”
 
 
 
-      It is impossible to conceive my astonishment at so unexpected a
+It is impossible to conceive my astonishment at so unexpected a
 
-      discourse, or the joy with which I became gradually convinced
+discourse, or the joy with which I became gradually convinced
 
-      that the breath so fortunately caught by the gentleman (whom I
+that the breath so fortunately caught by the gentleman (whom I
 
-      soon recognized as my neighbor Windenough) was, in fact, the
+soon recognized as my neighbor Windenough) was, in fact, the
 
-      identical expiration mislaid by myself in the conversation with
+identical expiration mislaid by myself in the conversation with
 
-      my wife. [[Time]], place, and circumstances rendered it a matter
+my wife. [[Time]], place, and circumstances rendered it a matter
 
-      beyond question. I did not, however, immediately release my hold
+beyond question. I did not, however, immediately release my hold
 
-      upon Mr. W.’s proboscis—not at least during the long period in
+upon Mr. W.’s proboscis—not at least during the long period in
 
-      which the inventor of Lombardy poplars continued to favor me with
+which the inventor of Lombardy poplars continued to favor me with
 
-      his explanations.
+his explanations.
 
 
 
-      In this respect I was actuated by that habitual prudence which
+In this respect I was actuated by that habitual prudence which
 
-      has ever been my predominating trait. I reflected that many
+has ever been my predominating trait. I reflected that many
 
-      difficulties might still lie in the path of my preservation which
+difficulties might still lie in the path of my preservation which
 
-      only extreme exertion on my part would be able to surmount. Many
+only extreme exertion on my part would be able to surmount. Many
 
-      persons, I considered, are prone to estimate commodities in their
+persons, I considered, are prone to estimate commodities in their
 
-      possession—however valueless to the then proprietor—however
+possession—however valueless to the then proprietor—however
 
-      troublesome, or distressing—in direct ratio with the advantages
+troublesome, or distressing—in direct ratio with the advantages
 
-      to be derived by others from their attainment, or by themselves
+to be derived by others from their attainment, or by themselves
 
-      from their abandonment. Might not this be the case with Mr.
+from their abandonment. Might not this be the case with Mr.
 
-      Windenough? In displaying anxiety for the breath of which he was
+Windenough? In displaying anxiety for the breath of which he was
 
-      at present so willing to get rid, might I not lay myself open to
+at present so willing to get rid, might I not lay myself open to
 
-      the exactions of his avarice? There are scoundrels in this world,
+the exactions of his avarice? There are scoundrels in this world,
 
-      I remembered with a sigh, who will not scruple to take unfair
+I remembered with a sigh, who will not scruple to take unfair
 
-      opportunities with even a next door neighbor, and (this remark is
+opportunities with even a next door neighbor, and (this remark is
 
-      from Epictetus) it is precisely at that [[Time|time]] when men are most
+from Epictetus) it is precisely at that [[Time|time]] when men are most
 
-      anxious to throw off the burden of their own calamities that they
+anxious to throw off the burden of their own calamities that they
 
-      feel the least desirous of relieving them in others.
+feel the least desirous of relieving them in others.
 
 
 
-      Upon considerations similar to these, and still retaining my
+Upon considerations similar to these, and still retaining my
 
-      grasp upon the nose of Mr. W., I accordingly thought proper to
+grasp upon the nose of Mr. W., I accordingly thought proper to
 
-      model my reply.
+model my reply.
 
 
 
-      “[[Monster]]!” I began in a tone of the deepest indignation—“[[Monster|monster]]
+“[[Monster]]!” I began in a tone of the deepest indignation—“[[Monster|monster]]
 
-      and [[Double|double]]-winded idiot!—dost thou, whom for thine iniquities it
+and [[Double|double]]-winded idiot!—dost thou, whom for thine iniquities it
 
-      has pleased heaven to accurse with a two-fold respimtion—dost
+has pleased heaven to accurse with a two-fold respimtion—dost
 
-      thou, I say, presume to address me in the familiar language of an
+thou, I say, presume to address me in the familiar language of an
 
-      old acquaintance?—‘I lie,’ forsooth! and ‘hold my tongue,’ to be
+old acquaintance?—‘I lie,’ forsooth! and ‘hold my tongue,’ to be
 
-      sure!—pretty conversation indeed, to a gentleman with a single
+sure!—pretty conversation indeed, to a gentleman with a single
 
-      breath!—all this, too, when I have it in my power to relieve the
+breath!—all this, too, when I have it in my power to relieve the
 
-      calamity under which thou dost so justly suffer—to curtail the
+calamity under which thou dost so justly suffer—to curtail the
 
-      superfluities of thine unhappy respiration.”
+superfluities of thine unhappy respiration.”
 
 
 
-      Like [[Brutus]], I paused for a reply—with which, like a tornado, Mr.
+Like [[Brutus]], I paused for a reply—with which, like a tornado, Mr.
 
-      Windenough immediately overwhelmed me. Protestation followed upon
+Windenough immediately overwhelmed me. Protestation followed upon
 
-      protestation, and apology upon apology. There were no terms with
+protestation, and apology upon apology. There were no terms with
 
-      which he was unwilling to comply, and there were none of which I
+which he was unwilling to comply, and there were none of which I
 
-      failed to take the fullest advantage.
+failed to take the fullest advantage.
 
 
 
-      Preliminaries being at length arranged, my acquaintance delivered
+Preliminaries being at length arranged, my acquaintance delivered
 
-      me the respiration; for which (having carefully examined it) I
+me the respiration; for which (having carefully examined it) I
 
-      gave him afterward a receipt.
+gave him afterward a receipt.
 
 
 
-      I am aware that by many I shall be held to blame for speaking in
+I am aware that by many I shall be held to blame for speaking in
 
-      a manner so cursory, of a transaction so impalpable. It will be
+a manner so cursory, of a transaction so impalpable. It will be
 
-      thought that I should have entered more minutely, into the
+thought that I should have entered more minutely, into the
 
-      details of an occurrence by which—and this is very true—much new
+details of an occurrence by which—and this is very true—much new
 
-      light might be thrown upon a highly interesting branch of
+light might be thrown upon a highly interesting branch of
 
-      physical [[philosophy]].
+physical [[philosophy]].
 
 
 
-      To all this I am sorry that I cannot reply. A hint is the only
+To all this I am sorry that I cannot reply. A hint is the only
 
-      answer which I am permitted to make. There were circumstances—but
+answer which I am permitted to make. There were circumstances—but
 
-      I think it much safer upon consideration to say as little as
+I think it much safer upon consideration to say as little as
 
-      possible about an affair so delicate—so delicate, I repeat, and
+possible about an affair so delicate—so delicate, I repeat, and
 
-      at the [[Time|time]] involving the interests of a third party whose
+at the [[Time|time]] involving the interests of a third party whose
 
-      sulphurous resentment I have not the least [[Desire|desire]], at this
+sulphurous resentment I have not the least [[Desire|desire]], at this
 
-      moment, of incurring.
+moment, of incurring.
 
 
 
-      We were not long after this necessary arrangement in effecting an
+We were not long after this necessary arrangement in effecting an
 
-      escape from the dungeons of the sepulchre. The united strength of
+escape from the dungeons of the sepulchre. The united strength of
 
-      our resuscitated voices was soon sufficiently apparent. Scissors,
+our resuscitated voices was soon sufficiently apparent. Scissors,
 
-      the Whig editor, republished a treatise upon “the [[Nature|nature]] and
+the Whig editor, republished a treatise upon “the [[Nature|nature]] and
 
-      origin of subterranean noises.” A reply—rejoinder—confutation—and
+origin of subterranean noises.” A reply—rejoinder—confutation—and
 
-      justification—followed in the columns of a Democratic gazette. It
+justification—followed in the columns of a Democratic gazette. It
 
-      was not until the opening of the vault to decide the controversy,
+was not until the opening of the vault to decide the controversy,
 
-      that the appearance of Mr. Windenough and myself proved both
+that the appearance of Mr. Windenough and myself proved both
 
-      parties to have been decidedly in the wrong.
+parties to have been decidedly in the wrong.
 
 
 
-      I cannot conclude these details of some very singular passages in
+I cannot conclude these details of some very singular passages in
 
-      a life at all times sufficiently eventful, without again
+a life at all times sufficiently eventful, without again
 
-      recalling to the attention of the reader the merits of that
+recalling to the attention of the reader the merits of that
 
-      indiscriminate [[philosophy]] which is a sure and ready shield
+indiscriminate [[philosophy]] which is a sure and ready shield
 
-      against those shafts of calamity which can neither be seen, felt
+against those shafts of calamity which can neither be seen, felt
 
-      nor fully understood. It was in the spirit of this wisdom that,
+nor fully understood. It was in the spirit of this wisdom that,
 
-      among the ancient Hebrews, it was believed the gates of Heaven
+among the ancient Hebrews, it was believed the gates of Heaven
 
-      would be inevitably opened to that sinner, or saint, who, with
+would be inevitably opened to that sinner, or saint, who, with
 
-      good lungs and implicit confidence, should vociferate the word
+good lungs and implicit confidence, should vociferate the word
 
-      “Amen!” It was in the spirit of this wisdom that, when a great
+“Amen!” It was in the spirit of this wisdom that, when a great
 
-      plague raged at Athens, and every means had been in vain
+plague raged at Athens, and every means had been in vain
 
-      attempted for its removal, Epimenides, as Laërtius relates, in
+attempted for its removal, Epimenides, as Laërtius relates, in
 
-      his second book, of that philosopher, advised the erection of a
+his second book, of that philosopher, advised the erection of a
 
-      shrine and temple “to the proper God.”
+shrine and temple “to the proper God.”
 
 
 
-      LYTTLETON BARRY.
+LYTTLETON BARRY.
 
 
 
@@ -1036,205 +1036,205 @@ cetera—et cetera—et cetera—et cetera—”
 
 O breathe not, etc.
 
-                    —Moore’s _Melodies_
+—Moore’s _Melodies_
 
 
 
-      The most notorious ill-fortune must in the end yield to the
+The most notorious ill-fortune must in the end yield to the
 
-      untiring [[Courage|courage]] of [[philosophy]]—as the most stubborn [[City|city]] to the
+untiring [[Courage|courage]] of [[philosophy]]—as the most stubborn [[City|city]] to the
 
-      ceaseless vigilance of an enemy. Shalmanezer, as we have it in
+ceaseless vigilance of an enemy. Shalmanezer, as we have it in
 
-      holy writings, lay three years before Samaria; yet it fell.
+holy writings, lay three years before Samaria; yet it fell.
 
-      Sardanapalus—see Diodorus—maintained himself seven in Nineveh;
+Sardanapalus—see Diodorus—maintained himself seven in Nineveh;
 
-      but to no purpose. Troy expired at the close of the second
+but to no purpose. Troy expired at the close of the second
 
-      lustrum; and Azoth, as Aristaeus declares upon his [[Honour|honour]] as a
+lustrum; and Azoth, as Aristaeus declares upon his [[Honour|honour]] as a
 
-      gentleman, opened at last her gates to Psammetichus, after having
+gentleman, opened at last her gates to Psammetichus, after having
 
-      barred them for the fifth part of a century....
+barred them for the fifth part of a century....
 
 
 
-      “Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the
+“Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the
 
-      morning after our wedding; “thou [[Witch|witch]]!—thou hag!—thou
+morning after our wedding; “thou [[Witch|witch]]!—thou hag!—thou
 
-      whippersnapper—thou sink of iniquity!—thou fiery-faced
+whippersnapper—thou sink of iniquity!—thou fiery-faced
 
-      quintessence of all that is abominable!—thou—thou—” here standing
+quintessence of all that is abominable!—thou—thou—” here standing
 
-      upon tiptoe, seizing her by the throat, and placing my mouth
+upon tiptoe, seizing her by the throat, and placing my mouth
 
-      close to her ear, I was preparing to launch forth a new and more
+close to her ear, I was preparing to launch forth a new and more
 
-      decided epithet of opprobrium, which should not fail, if
+decided epithet of opprobrium, which should not fail, if
 
-      ejaculated, to convince her of her insignificance, when to my
+ejaculated, to convince her of her insignificance, when to my
 
-      extreme horror and astonishment I discovered that I had lost my
+extreme horror and astonishment I discovered that I had lost my
 
-      breath.
+breath.
 
 
 
-      The phrases “I am out of breath,” “I have lost my breath,” etc.,
+The phrases “I am out of breath,” “I have lost my breath,” etc.,
 
-      are often enough repeated in common conversation; but it had
+are often enough repeated in common conversation; but it had
 
-      never occurred to me that the terrible accident of which I speak
+never occurred to me that the terrible accident of which I speak
 
-      could _bona fide_ and actually happen! Imagine—that is if you
+could _bona fide_ and actually happen! Imagine—that is if you
 
-      have a fanciful turn—imagine, I say, my [[Wonder|wonder]]—my
+have a fanciful turn—imagine, I say, my [[Wonder|wonder]]—my
 
-      consternation—my [[Despair|despair]]!
+consternation—my [[Despair|despair]]!
 
 
 
-      There is a good genius, however, which has never entirely
+There is a good genius, however, which has never entirely
 
-      deserted me. In my most ungovernable moods I still retain a sense
+deserted me. In my most ungovernable moods I still retain a sense
 
-      of propriety, _et le chemin des passions me conduit_—as Lord
+of propriety, _et le chemin des passions me conduit_—as Lord
 
-      Edouard in the “Julie” says it did him—_à la philosophie
+Edouard in the “Julie” says it did him—_à la philosophie
 
-      véritable_.
+véritable_.
 
 
 
-      Although I could not at first precisely ascertain to what degree
+Although I could not at first precisely ascertain to what degree
 
-      the occurrence had affected me, I determined at all events to
+the occurrence had affected me, I determined at all events to
 
-      conceal the matter from my wife, until further experience should
+conceal the matter from my wife, until further experience should
 
-      discover to me the extent of this my unheard of calamity.
+discover to me the extent of this my unheard of calamity.
 
-      Altering my countenance, therefore, in a moment, from its
+Altering my countenance, therefore, in a moment, from its
 
-      bepuffed and distorted appearance, to an expression of arch and
+bepuffed and distorted appearance, to an expression of arch and
 
-      coquettish benignity, I gave my lady a pat on the one cheek, and
+coquettish benignity, I gave my lady a pat on the one cheek, and
 
-      a kiss on the other, and without saying one syllable (Furies! I
+a kiss on the other, and without saying one syllable (Furies! I
 
-      could not), left her astonished at my drollery, as I pirouetted
+could not), left her astonished at my drollery, as I pirouetted
 
-      out of the room in a _pas de zephyr_.
+out of the room in a _pas de zephyr_.
 
 
 
-      Behold me then safely ensconced in my private boudoir, a fearful
+Behold me then safely ensconced in my private boudoir, a fearful
 
-      instance of the ill consequences attending upon
+instance of the ill consequences attending upon
 
-      irascibility—alive, with the qualifications of the dead—dead,
+irascibility—alive, with the qualifications of the dead—dead,
 
-      with the propensities of the living—an anomaly on the face of the
+with the propensities of the living—an anomaly on the face of the
 
-      earth—being very calm, yet breathless.
+earth—being very calm, yet breathless.
 
 
 
-      Yes! breathless. I am serious in asserting that my breath was
+Yes! breathless. I am serious in asserting that my breath was
 
-      entirely gone. I could not have stirred with it a feather if my
+entirely gone. I could not have stirred with it a feather if my
 
-      life had been at issue, or sullied even the delicacy of a [[Mirror|mirror]].
+life had been at issue, or sullied even the delicacy of a [[Mirror|mirror]].
 
-      Hard fate!—yet there was some alleviation to the first
+Hard fate!—yet there was some alleviation to the first
 
-      overwhelming paroxysm of my sorrow. I found, upon trial, that the
+overwhelming paroxysm of my sorrow. I found, upon trial, that the
 
-      powers of utterance which, upon my inability to proceed in the
+powers of utterance which, upon my inability to proceed in the
 
-      conversation with my wife, I then concluded to be totally
+conversation with my wife, I then concluded to be totally
 
-      destroyed, were in fact only partially impeded, and I discovered
+destroyed, were in fact only partially impeded, and I discovered
 
-      that had I, at that interesting crisis, dropped my voice to a
+that had I, at that interesting crisis, dropped my voice to a
 
-      singularly deep guttural, I might still have continued to her the
+singularly deep guttural, I might still have continued to her the
 
-      communication of my sentiments; this pitch of voice (the
+communication of my sentiments; this pitch of voice (the
 
-      guttural) depending, I find, not upon the current of the breath,
+guttural) depending, I find, not upon the current of the breath,
 
-      but upon a certain spasmodic action of the muscles of the throat.
+but upon a certain spasmodic action of the muscles of the throat.
 
 
 
-      Throwing myself upon a chair, I remained for some [[Time|time]] absorbed
+Throwing myself upon a chair, I remained for some [[Time|time]] absorbed
 
-      in meditation. My reflections, be sure, were of no consolatory
+in meditation. My reflections, be sure, were of no consolatory
 
-      kind. A thousand vague and lachrymatory fancies took possession
+kind. A thousand vague and lachrymatory fancies took possession
 
-      of my [[Soul|soul]]—and even the idea of [[suicide]] flitted across my brain;
+of my [[Soul|soul]]—and even the idea of [[suicide]] flitted across my brain;
 
-      but it is a trait in the perversity of human [[Nature|nature]] to reject the
+but it is a trait in the perversity of human [[Nature|nature]] to reject the
 
-      obvious and the ready, for the far-distant and equivocal. Thus I
+obvious and the ready, for the far-distant and equivocal. Thus I
 
-      shuddered at [[Self|self]]-murder as the most decided of atrocities while
+shuddered at [[Self|self]]-murder as the most decided of atrocities while
 
-      the tabby cat purred strenuously upon the rug, and the very
+the tabby cat purred strenuously upon the rug, and the very
 
-      [[Water|water]]-dog wheezed assiduously under the table, each taking to
+[[Water|water]]-dog wheezed assiduously under the table, each taking to
 
-      itself much merit for the strength of its lungs, and all
+itself much merit for the strength of its lungs, and all
 
-      obviously done in derision of my own pulmonary incapacity.
+obviously done in derision of my own pulmonary incapacity.
 
 
 
-      Oppressed with a tumult of vague hopes and fears, I at length
+Oppressed with a tumult of vague hopes and fears, I at length
 
-      heard the footsteps of my wife descending the staircase. Being
+heard the footsteps of my wife descending the staircase. Being
 
-      now assured of her absence, I returned with a palpitating heart
+now assured of her absence, I returned with a palpitating heart
 
-      to the scene of my disaster.
+to the scene of my disaster.
 
 
 
-      Carefully locking the door on the inside, I commenced a vigorous
+Carefully locking the door on the inside, I commenced a vigorous
 
-      search. It was possible, I thought, that, concealed in some
+search. It was possible, I thought, that, concealed in some
 
-      obscure corner, or lurking in some closet or drawer, might be
+obscure corner, or lurking in some closet or drawer, might be
 
-      found the lost object of my inquiry. It might have a vapory—it
+found the lost object of my inquiry. It might have a vapory—it
 
-      might even have a tangible form. Most philosophers, upon many
+might even have a tangible form. Most philosophers, upon many
 
-      points of [[philosophy]], are still very unphilosophical. William
+points of [[philosophy]], are still very unphilosophical. William
 
-      Godwin, however, says in his “Mandeville,” that “invisible things
+Godwin, however, says in his “Mandeville,” that “invisible things
 
-      are the only realities,” and this, all will allow, is a case in
+are the only realities,” and this, all will allow, is a case in
 
-      point. I would have the judicious reader pause before accusing
+point. I would have the judicious reader pause before accusing
 
-      such asseverations of an undue quantum of absurdity. Anaxagoras,
+such asseverations of an undue quantum of absurdity. Anaxagoras,
 
-      it will be remembered, maintained that [[Snow|snow]] is black, and this I
+it will be remembered, maintained that [[Snow|snow]] is black, and this I
 
-      have since found to be the case.
+have since found to be the case.
 
 
 
-      Long and earnestly did I continue the investigation: but the
+Long and earnestly did I continue the investigation: but the
 
-      contemptible reward of my industry and perseverance proved to be
+contemptible reward of my industry and perseverance proved to be
 
-      only a set of false teeth, two pair of hips, an eye, and a bundle
+only a set of false teeth, two pair of hips, an eye, and a bundle
 
 
 
@@ -1242,197 +1242,197 @@ O breathe not, etc.
 <span class="atom-split" data-atom="part--part_02" data-title="Loss of Breath (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
+of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
 
-      here observe that this confirmation of my lady’s partiality for
+here observe that this confirmation of my lady’s partiality for
 
-      Mr. W. occasioned me little uneasiness. That Mrs. Lackobreath
+Mr. W. occasioned me little uneasiness. That Mrs. Lackobreath
 
-      should admire anything so dissimilar to myself was a natural and
+should admire anything so dissimilar to myself was a natural and
 
-      necessary evil. I am, it is [[Well|well]] known, of a robust and corpulent
+necessary evil. I am, it is [[Well|well]] known, of a robust and corpulent
 
-      appearance, and at the same [[Time|time]] somewhat diminutive in stature.
+appearance, and at the same [[Time|time]] somewhat diminutive in stature.
 
-      What [[Wonder|wonder]], then, that the lath-like tenuity of my acquaintance,
+What [[Wonder|wonder]], then, that the lath-like tenuity of my acquaintance,
 
-      and his altitude, which has grown into a proverb, should have met
+and his altitude, which has grown into a proverb, should have met
 
-      with all due estimation in the eyes of Mrs. Lackobreath. But to
+with all due estimation in the eyes of Mrs. Lackobreath. But to
 
-      return.
+return.
 
 
 
-      My exertions, as I have before said, proved fruitless. Closet
+My exertions, as I have before said, proved fruitless. Closet
 
-      after closet—drawer after drawer—corner after corner—were
+after closet—drawer after drawer—corner after corner—were
 
-      scrutinized to no purpose. At one [[Time|time]], however, I thought myself
+scrutinized to no purpose. At one [[Time|time]], however, I thought myself
 
-      sure of my prize, having, in rummaging a dressing-case,
+sure of my prize, having, in rummaging a dressing-case,
 
-      accidentally demolished a bottle of Grandjean’s Oil of
+accidentally demolished a bottle of Grandjean’s Oil of
 
-      Archangels—which, as an agreeable perfume, I here take the
+Archangels—which, as an agreeable perfume, I here take the
 
-      liberty of recommending.
+liberty of recommending.
 
 
 
-      With a heavy heart I returned to my boudoir—there to ponder upon
+With a heavy heart I returned to my boudoir—there to ponder upon
 
-      some method of eluding my wife’s penetration, until I could make
+some method of eluding my wife’s penetration, until I could make
 
-      arrangements prior to my leaving the country, for to this I had
+arrangements prior to my leaving the country, for to this I had
 
-      already made up my mind. In a foreign climate, being unknown, I
+already made up my mind. In a foreign climate, being unknown, I
 
-      might, with some probability of [[success]], endeavor to conceal my
+might, with some probability of [[success]], endeavor to conceal my
 
-      unhappy calamity—a calamity calculated, even more than beggary,
+unhappy calamity—a calamity calculated, even more than beggary,
 
-      to estrange the affections of the multitude, and to draw down
+to estrange the affections of the multitude, and to draw down
 
-      upon the wretch the [[Well|well]]-merited indignation of the virtuous and
+upon the wretch the [[Well|well]]-merited indignation of the virtuous and
 
-      the happy. I was not long in hesitation. Being naturally quick, I
+the happy. I was not long in hesitation. Being naturally quick, I
 
-      committed to [[Memory|memory]] the entire [[Tragedy|tragedy]] of “Metamora.” I had the
+committed to [[Memory|memory]] the entire [[Tragedy|tragedy]] of “Metamora.” I had the
 
-      good fortune to recollect that in the accentuation of this drama,
+good fortune to recollect that in the accentuation of this drama,
 
-      or at least of such portion of it as is allotted to the [[Hero|hero]], the
+or at least of such portion of it as is allotted to the [[Hero|hero]], the
 
-      tones of voice in which I found myself deficient were altogether
+tones of voice in which I found myself deficient were altogether
 
-      unnecessary, and the deep guttural was expected to reign
+unnecessary, and the deep guttural was expected to reign
 
-      monotonously throughout.
+monotonously throughout.
 
 
 
-      I practised for some [[Time|time]] by the borders of a [[Well|well]] frequented
+I practised for some [[Time|time]] by the borders of a [[Well|well]] frequented
 
-      marsh;—herein, however, having no reference to a similar
+marsh;—herein, however, having no reference to a similar
 
-      proceeding of Demosthenes, but from a design peculiarly and
+proceeding of Demosthenes, but from a design peculiarly and
 
-      conscientiously my own. Thus armed at all points, I determined to
+conscientiously my own. Thus armed at all points, I determined to
 
-      make my wife believe that I was suddenly smitten with a passion
+make my wife believe that I was suddenly smitten with a passion
 
-      for the stage. In this, I succeeded to a miracle; and to every
+for the stage. In this, I succeeded to a miracle; and to every
 
-      question or suggestion found myself at liberty to reply in my
+question or suggestion found myself at liberty to reply in my
 
-      most frog-like and sepulchral tones with some passage from the
+most frog-like and sepulchral tones with some passage from the
 
-      [[Tragedy|tragedy]]—any portion of which, as I soon took great pleasure in
+[[Tragedy|tragedy]]—any portion of which, as I soon took great pleasure in
 
-      observing, would apply equally [[Well|well]] to any particular subject. It
+observing, would apply equally [[Well|well]] to any particular subject. It
 
-      is not to be supposed, however, that in the delivery of such
+is not to be supposed, however, that in the delivery of such
 
-      passages I was found at all deficient in the looking asquint—the
+passages I was found at all deficient in the looking asquint—the
 
-      showing my teeth—the working my knees—the shuffling my feet—or in
+showing my teeth—the working my knees—the shuffling my feet—or in
 
-      any of those unmentionable graces which are now justly considered
+any of those unmentionable graces which are now justly considered
 
-      the characteristics of a popular performer. To be sure they spoke
+the characteristics of a popular performer. To be sure they spoke
 
-      of confining me in a strait-jacket—but, good God! they never
+of confining me in a strait-jacket—but, good God! they never
 
-      suspected me of having lost my breath.
+suspected me of having lost my breath.
 
 
 
-      Having at length put my affairs in order, I took my seat very
+Having at length put my affairs in order, I took my seat very
 
-      early one morning in the mail stage for ——, giving it to be
+early one morning in the mail stage for ——, giving it to be
 
-      understood, among my acquaintances, that business of the last
+understood, among my acquaintances, that business of the last
 
-      importance required my immediate personal attendance in that
+importance required my immediate personal attendance in that
 
-      [[City|city]].
+[[City|city]].
 
 
 
-      The coach was crammed to repletion; but in the uncertain twilight
+The coach was crammed to repletion; but in the uncertain twilight
 
-      the features of my companions could not be distinguished. Without
+the features of my companions could not be distinguished. Without
 
-      making any effectual resistance, I suffered myself to be placed
+making any effectual resistance, I suffered myself to be placed
 
-      between two gentlemen of colossal dimensions; while a third, of a
+between two gentlemen of colossal dimensions; while a third, of a
 
-      size larger, requesting pardon for the liberty he was about to
+size larger, requesting pardon for the liberty he was about to
 
-      take, threw himself upon my [[Body|body]] at full length, and falling
+take, threw himself upon my [[Body|body]] at full length, and falling
 
-      asleep in an instant, drowned all my guttural ejaculations for
+asleep in an instant, drowned all my guttural ejaculations for
 
-      relief, in a snore which would have put to blush the roarings of
+relief, in a snore which would have put to blush the roarings of
 
-      the bull of Phalaris. Happily the state of my respiratory
+the bull of Phalaris. Happily the state of my respiratory
 
-      faculties rendered suffocation an accident entirely out of the
+faculties rendered suffocation an accident entirely out of the
 
-      question.
+question.
 
 
 
-      As, however, the day broke more distinctly in our approach to the
+As, however, the day broke more distinctly in our approach to the
 
-      outskirts of the [[City|city]], my tormentor, arising and adjusting his
+outskirts of the [[City|city]], my tormentor, arising and adjusting his
 
-      shirt-collar, thanked me in a very friendly manner for my
+shirt-collar, thanked me in a very friendly manner for my
 
-      civility. Seeing that I remained motionless (all my limbs were
+civility. Seeing that I remained motionless (all my limbs were
 
-      dislocated and my head twisted on one side), his apprehensions
+dislocated and my head twisted on one side), his apprehensions
 
-      began to be excited; and arousing the rest of the passengers, he
+began to be excited; and arousing the rest of the passengers, he
 
-      communicated, in a very decided manner, his opinion that a dead
+communicated, in a very decided manner, his opinion that a dead
 
-      man had been palmed upon them during the [[Night|night]] for a living and
+man had been palmed upon them during the [[Night|night]] for a living and
 
-      responsible fellow-traveller; here giving me a thump on the right
+responsible fellow-traveller; here giving me a thump on the right
 
-      eye, by way of demonstrating the [[Truth|truth]] of his suggestion.
+eye, by way of demonstrating the [[Truth|truth]] of his suggestion.
 
 
 
-      Hereupon all, one after another (there were nine in company),
+Hereupon all, one after another (there were nine in company),
 
-      believed it their duty to pull me by the ear. A young practising
+believed it their duty to pull me by the ear. A young practising
 
-      physician, too, having applied a pocket-[[Mirror|mirror]] to my mouth, and
+physician, too, having applied a pocket-[[Mirror|mirror]] to my mouth, and
 
-      found me without breath, the assertion of my persecutor was
+found me without breath, the assertion of my persecutor was
 
-      pronounced a true bill; and the whole party expressed a
+pronounced a true bill; and the whole party expressed a
 
-      determination to endure tamely no such impositions for the
+determination to endure tamely no such impositions for the
 
-      future, and to proceed no farther with any such carcasses for the
+future, and to proceed no farther with any such carcasses for the
 
-      present.
+present.
 
 
 
-      I was here, accordingly, thrown out at the sign of the “Crow” (by
+I was here, accordingly, thrown out at the sign of the “Crow” (by
 
-      which tavern the coach happened to be passing), without meeting
+which tavern the coach happened to be passing), without meeting
 
-      with any farther accident than the breaking of both my arms,
+with any farther accident than the breaking of both my arms,
 
-      under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
+under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
 
-      driver the justice to state that he did not forget to throw after
+driver the justice to state that he did not forget to throw after
 
 
 
@@ -1440,201 +1440,201 @@ O breathe not, etc.
 <span class="atom-split" data-atom="part--part_03" data-title="Loss of Breath (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      me the largest of my trunks, which, unfortunately falling on my
+me the largest of my trunks, which, unfortunately falling on my
 
-      head, fractured my skull in a manner at once interesting and
+head, fractured my skull in a manner at once interesting and
 
-      extraordinary.
+extraordinary.
 
 
 
-      The landlord of the “Crow,” who is a hospitable man, finding that
+The landlord of the “Crow,” who is a hospitable man, finding that
 
-      my trunk contained sufficient to indemnify him for any little
+my trunk contained sufficient to indemnify him for any little
 
-      trouble he might take in my behalf, sent forthwith for a surgeon
+trouble he might take in my behalf, sent forthwith for a surgeon
 
-      of his acquaintance, and delivered me to his care with a bill and
+of his acquaintance, and delivered me to his care with a bill and
 
-      receipt for ten dollars.
+receipt for ten dollars.
 
 
 
-      The purchaser took me to his apartments and commenced operations
+The purchaser took me to his apartments and commenced operations
 
-      immediately. Having cut off my ears, however, he discovered signs
+immediately. Having cut off my ears, however, he discovered signs
 
-      of animation. He now rang the bell, and sent for a neighboring
+of animation. He now rang the bell, and sent for a neighboring
 
-      apothecary with whom to consult in the emergency. In case of his
+apothecary with whom to consult in the emergency. In case of his
 
-      suspicions with regard to my existence proving ultimately
+suspicions with regard to my existence proving ultimately
 
-      correct, he, in the meantime, made an incision in my stomach, and
+correct, he, in the meantime, made an incision in my stomach, and
 
-      removed several of my viscera for private dissection.
+removed several of my viscera for private dissection.
 
 
 
-      The apothecary had an idea that I was actually dead. This idea I
+The apothecary had an idea that I was actually dead. This idea I
 
-      endeavored to confute, kicking and plunging with all my might,
+endeavored to confute, kicking and plunging with all my might,
 
-      and making the most furious contortions—for the operations of the
+and making the most furious contortions—for the operations of the
 
-      surgeon had, in a measure, restored me to the possession of my
+surgeon had, in a measure, restored me to the possession of my
 
-      faculties. All, however, was attributed to the effects of a new
+faculties. All, however, was attributed to the effects of a new
 
-      galvanic battery, wherewith the apothecary, who is really a man
+galvanic battery, wherewith the apothecary, who is really a man
 
-      of information, performed several curious experiments, in which,
+of information, performed several curious experiments, in which,
 
-      from my personal share in their fulfillment, I could not help
+from my personal share in their fulfillment, I could not help
 
-      feeling deeply interested. It was a course of mortification to
+feeling deeply interested. It was a course of mortification to
 
-      me, nevertheless, that although I made several attempts at
+me, nevertheless, that although I made several attempts at
 
-      conversation, my powers of speech were so entirely in abeyance,
+conversation, my powers of speech were so entirely in abeyance,
 
-      that I could not even open my mouth; much less, then, make reply
+that I could not even open my mouth; much less, then, make reply
 
-      to some ingenious but fanciful theories of which, under other
+to some ingenious but fanciful theories of which, under other
 
-      circumstances, my minute acquaintance with the Hippocratian
+circumstances, my minute acquaintance with the Hippocratian
 
-      pathology would have afforded me a ready confutation.
+pathology would have afforded me a ready confutation.
 
 
 
-      Not being able to arrive at a conclusion, the practitioners
+Not being able to arrive at a conclusion, the practitioners
 
-      remanded me for farther examination. I was taken up into a
+remanded me for farther examination. I was taken up into a
 
-      garret; and the surgeon’s lady having accommodated me with
+garret; and the surgeon’s lady having accommodated me with
 
-      drawers and stockings, the surgeon himself fastened my hands, and
+drawers and stockings, the surgeon himself fastened my hands, and
 
-      tied up my jaws with a pocket-handkerchief—then bolted the door
+tied up my jaws with a pocket-handkerchief—then bolted the door
 
-      on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
+on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
 
-      [[Silence|silence]] and to meditation.
+[[Silence|silence]] and to meditation.
 
 
 
-      I now discovered to my extreme delight that I could have spoken
+I now discovered to my extreme delight that I could have spoken
 
-      had not my mouth been tied up with the pocket-handkerchief.
+had not my mouth been tied up with the pocket-handkerchief.
 
-      Consoling myself with this reflection, I was mentally repeating
+Consoling myself with this reflection, I was mentally repeating
 
-      some passages of the “Omnipresence of the Deity,” as is my custom
+some passages of the “Omnipresence of the Deity,” as is my custom
 
-      before resigning myself to [[Sleep|sleep]], when two cats, of a greedy and
+before resigning myself to [[Sleep|sleep]], when two cats, of a greedy and
 
-      vituperative turn, entering at a hole in the wall, leaped up with
+vituperative turn, entering at a hole in the wall, leaped up with
 
-      a flourish a la Catalani, and alighting opposite one another on
+a flourish a la Catalani, and alighting opposite one another on
 
-      my visage, betook themselves to indecorous contention for the
+my visage, betook themselves to indecorous contention for the
 
-      paltry consideration of my nose.
+paltry consideration of my nose.
 
 
 
-      But, as the loss of his ears proved the means of elevating to the
+But, as the loss of his ears proved the means of elevating to the
 
-      throne of Cyrus, the Magian or Mige-Gush of Persia, and as the
+throne of Cyrus, the Magian or Mige-Gush of Persia, and as the
 
-      cutting off his nose gave Zopyrus possession of Babylon, so the
+cutting off his nose gave Zopyrus possession of Babylon, so the
 
-      loss of a few ounces of my countenance proved the salvation of my
+loss of a few ounces of my countenance proved the salvation of my
 
-      [[Body|body]]. Aroused by the [[Pain|pain]], and burning with indignation, I burst,
+[[Body|body]]. Aroused by the [[Pain|pain]], and burning with indignation, I burst,
 
-      at a single effort, the fastenings and the bandage. Stalking
+at a single effort, the fastenings and the bandage. Stalking
 
-      across the room I cast a glance of contempt at the belligerents,
+across the room I cast a glance of contempt at the belligerents,
 
-      and throwing open the sash to their extreme horror and
+and throwing open the sash to their extreme horror and
 
-      disappointment, precipitated myself, very dexterously, from the
+disappointment, precipitated myself, very dexterously, from the
 
-      [[Window|window]].
+[[Window|window]].
 
 
 
-      The mail-robber W——, to whom I bore a singular resemblance, was
+The mail-robber W——, to whom I bore a singular resemblance, was
 
-      at this moment passing from the [[City|city]] jail to the scaffold erected
+at this moment passing from the [[City|city]] jail to the scaffold erected
 
-      for his execution in the suburbs. His extreme infirmity and long
+for his execution in the suburbs. His extreme infirmity and long
 
-      continued ill health had obtained him the privilege of remaining
+continued ill health had obtained him the privilege of remaining
 
-      unmanacled; and habited in his gallows costume—one very similar
+unmanacled; and habited in his gallows costume—one very similar
 
-      to my own,—he lay at full length in the [[Bottom|bottom]] of the hangman’s
+to my own,—he lay at full length in the [[Bottom|bottom]] of the hangman’s
 
-      cart (which happened to be under the windows of the surgeon at
+cart (which happened to be under the windows of the surgeon at
 
-      the moment of my precipitation) without any other guard than the
+the moment of my precipitation) without any other guard than the
 
-      driver, who was asleep, and two recruits of the sixth infantry,
+driver, who was asleep, and two recruits of the sixth infantry,
 
-      who were drunk.
+who were drunk.
 
 
 
-      As ill-luck would have it, I alit upon my feet within the
+As ill-luck would have it, I alit upon my feet within the
 
-      vehicle. W——, who was an acute fellow, perceived his opportunity.
+vehicle. W——, who was an acute fellow, perceived his opportunity.
 
-      Leaping up immediately, he bolted out behind, and turning down an
+Leaping up immediately, he bolted out behind, and turning down an
 
-      alley, was out of sight in the twinkling of an eye. The recruits,
+alley, was out of sight in the twinkling of an eye. The recruits,
 
-      aroused by the bustle, could not exactly comprehend the merits of
+aroused by the bustle, could not exactly comprehend the merits of
 
-      the transaction. Seeing, however, a man, the precise counterpart
+the transaction. Seeing, however, a man, the precise counterpart
 
-      of the felon, standing upright in the cart before their eyes,
+of the felon, standing upright in the cart before their eyes,
 
-      they were of the opinion that the rascal (meaning W——) was after
+they were of the opinion that the rascal (meaning W——) was after
 
-      making his escape, (so they expressed themselves), and, having
+making his escape, (so they expressed themselves), and, having
 
-      communicated this opinion to one another, they took each a dram,
+communicated this opinion to one another, they took each a dram,
 
-      and then knocked me down with the butt-ends of their muskets.
+and then knocked me down with the butt-ends of their muskets.
 
 
 
-      It was not long ere we arrived at the place of destination. Of
+It was not long ere we arrived at the place of destination. Of
 
-      course nothing could be said in my defence. Hanging was my
+course nothing could be said in my defence. Hanging was my
 
-      inevitable fate. I resigned myself thereto with a feeling half
+inevitable fate. I resigned myself thereto with a feeling half
 
-      stupid, half acrimonious. Being little of a cynic, I had all the
+stupid, half acrimonious. Being little of a cynic, I had all the
 
-      sentiments of a dog. The hangman, however, adjusted the noose
+sentiments of a dog. The hangman, however, adjusted the noose
 
-      about my neck. The drop fell.
+about my neck. The drop fell.
 
 
 
-      I forbear to depict my sensations upon the gallows; although
+I forbear to depict my sensations upon the gallows; although
 
-      here, undoubtedly, I could speak to the point, and it is a topic
+here, undoubtedly, I could speak to the point, and it is a topic
 
-      upon which nothing has been [[Well|well]] said. In fact, to write upon
+upon which nothing has been [[Well|well]] said. In fact, to write upon
 
-      such a theme it is necessary to have been hanged. Every author
+such a theme it is necessary to have been hanged. Every author
 
-      should confine himself to matters of experience. Thus [[Mark Antony]]
+should confine himself to matters of experience. Thus [[Mark Antony]]
 
 
 
@@ -1642,185 +1642,185 @@ O breathe not, etc.
 <span class="atom-split" data-atom="part--part_04" data-title="Loss of Breath (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      composed a treatise upon getting drunk.
+composed a treatise upon getting drunk.
 
 
 
-      I may just mention, however, that die I did not. My [[Body|body]] was, but
+I may just mention, however, that die I did not. My [[Body|body]] was, but
 
-      I had no breath to be, suspended; and but for the knot under my
+I had no breath to be, suspended; and but for the knot under my
 
-      left ear (which had the feel of a military stock) I dare say that
+left ear (which had the feel of a military stock) I dare say that
 
-      I should have experienced very little inconvenience. As for the
+I should have experienced very little inconvenience. As for the
 
-      jerk given to my neck upon the falling of the drop, it merely
+jerk given to my neck upon the falling of the drop, it merely
 
-      proved a corrective to the twist afforded me by the fat gentleman
+proved a corrective to the twist afforded me by the fat gentleman
 
-      in the coach.
+in the coach.
 
 
 
-      For good reasons, however, I did my best to give the crowd the
+For good reasons, however, I did my best to give the crowd the
 
-      worth of their trouble. My convulsions were said to be
+worth of their trouble. My convulsions were said to be
 
-      extraordinary. My spasms it would have been difficult to beat.
+extraordinary. My spasms it would have been difficult to beat.
 
-      The populace encored. Several gentlemen swooned; and a multitude
+The populace encored. Several gentlemen swooned; and a multitude
 
-      of ladies were carried [[Home|home]] in hysterics. Pinxit availed himself
+of ladies were carried [[Home|home]] in hysterics. Pinxit availed himself
 
-      of the opportunity to retouch, from a [[Sketch|sketch]] taken upon the spot,
+of the opportunity to retouch, from a [[Sketch|sketch]] taken upon the spot,
 
-      his admirable painting of the “Marsyas flayed alive.”
+his admirable painting of the “Marsyas flayed alive.”
 
 
 
-      When I had afforded sufficient amusement, it was thought proper
+When I had afforded sufficient amusement, it was thought proper
 
-      to remove my [[Body|body]] from the gallows;—this the more especially as
+to remove my [[Body|body]] from the gallows;—this the more especially as
 
-      the real culprit had in the meantime been retaken and recognized,
+the real culprit had in the meantime been retaken and recognized,
 
-      a fact which I was so unlucky as not to know.
+a fact which I was so unlucky as not to know.
 
 
 
-      Much sympathy was, of course, exercised in my behalf, and as no
+Much sympathy was, of course, exercised in my behalf, and as no
 
-      one made claim to my corpse, it was ordered that I should be
+one made claim to my corpse, it was ordered that I should be
 
-      interred in a public vault.
+interred in a public vault.
 
 
 
-      Here, after due interval, I was deposited. The sexton departed,
+Here, after due interval, I was deposited. The sexton departed,
 
-      and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
+and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
 
 
 
-      [[Death]]’s a good fellow and keeps open [[house]]—
+[[Death]]’s a good fellow and keeps open [[house]]—
 
 
 
-      struck me at that moment as a palpable lie.
+struck me at that moment as a palpable lie.
 
 
 
-      I knocked off, however, the lid of my coffin, and stepped out.
+I knocked off, however, the lid of my coffin, and stepped out.
 
-      The place was dreadfully dreary and damp, and I became troubled
+The place was dreadfully dreary and damp, and I became troubled
 
-      with ennui. By way of amusement, I felt my way among the numerous
+with ennui. By way of amusement, I felt my way among the numerous
 
-      coffins ranged in order around. I lifted them down, one by one,
+coffins ranged in order around. I lifted them down, one by one,
 
-      and breaking open their lids, busied myself in speculations about
+and breaking open their lids, busied myself in speculations about
 
-      the [[Mortality|mortality]] within.
+the [[Mortality|mortality]] within.
 
 
 
-      “This,” I soliloquized, tumbling over a carcass, puffy, bloated,
+“This,” I soliloquized, tumbling over a carcass, puffy, bloated,
 
-      and rotund—“this has been, no [[Doubt|doubt]], in every sense of the word,
+and rotund—“this has been, no [[Doubt|doubt]], in every sense of the word,
 
-      an unhappy—an unfortunate man. It has been his terrible lot not
+an unhappy—an unfortunate man. It has been his terrible lot not
 
-      to walk but to waddle—to pass through life not like a human
+to walk but to waddle—to pass through life not like a human
 
-      being, but like an elephant—not like a man, but like a
+being, but like an elephant—not like a man, but like a
 
-      rhinoceros.
+rhinoceros.
 
 
 
-      “His attempts at getting on have been mere abortions, and his
+“His attempts at getting on have been mere abortions, and his
 
-      circumgyratory proceedings a palpable failure. Taking a step
+circumgyratory proceedings a palpable failure. Taking a step
 
-      forward, it has been his misfortune to take two toward the right,
+forward, it has been his misfortune to take two toward the right,
 
-      and three toward the left. His studies have been confined to the
+and three toward the left. His studies have been confined to the
 
-      poetry of Crabbe. He can have no idea of the [[Wonder|wonder]] of a
+poetry of Crabbe. He can have no idea of the [[Wonder|wonder]] of a
 
-      pirouette. To him a pas de papillon has been an abstract
+pirouette. To him a pas de papillon has been an abstract
 
-      conception. He has never ascended the summit of a [[Hill|hill]]. He has
+conception. He has never ascended the summit of a [[Hill|hill]]. He has
 
-      never viewed from any steeple the glories of a metropolis. Heat
+never viewed from any steeple the glories of a metropolis. Heat
 
-      has been his mortal enemy. In the dog-days his days have been the
+has been his mortal enemy. In the dog-days his days have been the
 
-      days of a dog. Therein, he has dreamed of flames and
+days of a dog. Therein, he has dreamed of flames and
 
-      suffocation—of [[Mountains|mountains]] upon [[Mountains|mountains]]—of Pelion upon Ossa. He
+suffocation—of [[Mountains|mountains]] upon [[Mountains|mountains]]—of Pelion upon Ossa. He
 
-      was short of breath—to say all in a word, he was short of breath.
+was short of breath—to say all in a word, he was short of breath.
 
-      He thought it extravagant to play upon [[Wind|wind]] instruments. He was
+He thought it extravagant to play upon [[Wind|wind]] instruments. He was
 
-      the inventor of [[Self|self]]-moving fans, [[Wind|wind]]-sails, and ventilators. He
+the inventor of [[Self|self]]-moving fans, [[Wind|wind]]-sails, and ventilators. He
 
-      patronized Du Pont the bellows-maker, and he died miserably in
+patronized Du Pont the bellows-maker, and he died miserably in
 
-      attempting to smoke a cigar. His was a case in which I feel a
+attempting to smoke a cigar. His was a case in which I feel a
 
-      deep interest—a lot in which I sincerely sympathize.
+deep interest—a lot in which I sincerely sympathize.
 
 
 
-      “But here,”—said I—“here”—and I dragged spitefully from its
+“But here,”—said I—“here”—and I dragged spitefully from its
 
-      receptacle a gaunt, tall and peculiar-looking form, whose
+receptacle a gaunt, tall and peculiar-looking form, whose
 
-      remarkable appearance struck me with a sense of unwelcome
+remarkable appearance struck me with a sense of unwelcome
 
-      familiarity—“here is a wretch entitled to no earthly
+familiarity—“here is a wretch entitled to no earthly
 
-      commiseration.” Thus saying, in order to obtain a more distinct
+commiseration.” Thus saying, in order to obtain a more distinct
 
-      view of my subject, I applied my thumb and forefinger to its
+view of my subject, I applied my thumb and forefinger to its
 
-      nose, and causing it to assume a sitting position upon the
+nose, and causing it to assume a sitting position upon the
 
-      ground, held it thus, at the length of my arm, while I continued
+ground, held it thus, at the length of my arm, while I continued
 
-      my soliloquy.
+my soliloquy.
 
 
 
-      “Entitled,” I repeated, “to no earthly commiseration. Who indeed
+“Entitled,” I repeated, “to no earthly commiseration. Who indeed
 
-      would think of compassioning a [[Shadow|shadow]]? Besides, has he not had
+would think of compassioning a [[Shadow|shadow]]? Besides, has he not had
 
-      his full share of the blessings of [[Mortality|mortality]]? He was the
+his full share of the blessings of [[Mortality|mortality]]? He was the
 
-      originator of tall monuments—shot-towers—[[Lightning|lightning]]-rods—Lombardy
+originator of tall monuments—shot-towers—[[Lightning|lightning]]-rods—Lombardy
 
-      poplars. His treatise upon “Shades and Shadows” has immortalized
+poplars. His treatise upon “Shades and Shadows” has immortalized
 
-      him. He edited with distinguished ability the last edition of
+him. He edited with distinguished ability the last edition of
 
-      “South on the Bones.” He went early to college and studied
+“South on the Bones.” He went early to college and studied
 
-      pneumatics. He then came [[Home|home]], talked eternally, and played upon
+pneumatics. He then came [[Home|home]], talked eternally, and played upon
 
-      the French-horn. He patronized the bagpipes. Captain Barclay, who
+the French-horn. He patronized the bagpipes. Captain Barclay, who
 
-      walked against [[Time]], would not walk against him. Windham and
+walked against [[Time]], would not walk against him. Windham and
 
-      Allbreath were his favorite writers,—his favorite [[artist]], Phiz.
+Allbreath were his favorite writers,—his favorite [[artist]], Phiz.
 
-      He died gloriously while inhaling gas—levique flatu corrupitur,
+He died gloriously while inhaling gas—levique flatu corrupitur,
 
-      like the fama pudicitae in Hieronymus. {*1} He was indubitably
+like the fama pudicitae in Hieronymus. {*1} He was indubitably
 
-      a—”
+a—”
 
 
 
@@ -1884,190 +1884,190 @@ cetera—et cetera—et cetera—et cetera—”
 
 
 
-      It is impossible to conceive my astonishment at so unexpected a
+It is impossible to conceive my astonishment at so unexpected a
 
-      discourse, or the joy with which I became gradually convinced
+discourse, or the joy with which I became gradually convinced
 
-      that the breath so fortunately caught by the gentleman (whom I
+that the breath so fortunately caught by the gentleman (whom I
 
-      soon recognized as my neighbor Windenough) was, in fact, the
+soon recognized as my neighbor Windenough) was, in fact, the
 
-      identical expiration mislaid by myself in the conversation with
+identical expiration mislaid by myself in the conversation with
 
-      my wife. [[Time]], place, and circumstances rendered it a matter
+my wife. [[Time]], place, and circumstances rendered it a matter
 
-      beyond question. I did not, however, immediately release my hold
+beyond question. I did not, however, immediately release my hold
 
-      upon Mr. W.’s proboscis—not at least during the long period in
+upon Mr. W.’s proboscis—not at least during the long period in
 
-      which the inventor of Lombardy poplars continued to favor me with
+which the inventor of Lombardy poplars continued to favor me with
 
-      his explanations.
+his explanations.
 
 
 
-      In this respect I was actuated by that habitual prudence which
+In this respect I was actuated by that habitual prudence which
 
-      has ever been my predominating trait. I reflected that many
+has ever been my predominating trait. I reflected that many
 
-      difficulties might still lie in the path of my preservation which
+difficulties might still lie in the path of my preservation which
 
-      only extreme exertion on my part would be able to surmount. Many
+only extreme exertion on my part would be able to surmount. Many
 
-      persons, I considered, are prone to estimate commodities in their
+persons, I considered, are prone to estimate commodities in their
 
-      possession—however valueless to the then proprietor—however
+possession—however valueless to the then proprietor—however
 
-      troublesome, or distressing—in direct ratio with the advantages
+troublesome, or distressing—in direct ratio with the advantages
 
-      to be derived by others from their attainment, or by themselves
+to be derived by others from their attainment, or by themselves
 
-      from their abandonment. Might not this be the case with Mr.
+from their abandonment. Might not this be the case with Mr.
 
-      Windenough? In displaying anxiety for the breath of which he was
+Windenough? In displaying anxiety for the breath of which he was
 
-      at present so willing to get rid, might I not lay myself open to
+at present so willing to get rid, might I not lay myself open to
 
-      the exactions of his avarice? There are scoundrels in this world,
+the exactions of his avarice? There are scoundrels in this world,
 
-      I remembered with a sigh, who will not scruple to take unfair
+I remembered with a sigh, who will not scruple to take unfair
 
-      opportunities with even a next door neighbor, and (this remark is
+opportunities with even a next door neighbor, and (this remark is
 
-      from Epictetus) it is precisely at that [[Time|time]] when men are most
+from Epictetus) it is precisely at that [[Time|time]] when men are most
 
-      anxious to throw off the burden of their own calamities that they
+anxious to throw off the burden of their own calamities that they
 
-      feel the least desirous of relieving them in others.
+feel the least desirous of relieving them in others.
 
 
 
-      Upon considerations similar to these, and still retaining my
+Upon considerations similar to these, and still retaining my
 
-      grasp upon the nose of Mr. W., I accordingly thought proper to
+grasp upon the nose of Mr. W., I accordingly thought proper to
 
-      model my reply.
+model my reply.
 
 
 
-      “[[Monster]]!” I began in a tone of the deepest indignation—“[[Monster|monster]]
+“[[Monster]]!” I began in a tone of the deepest indignation—“[[Monster|monster]]
 
-      and [[Double|double]]-winded idiot!—dost thou, whom for thine iniquities it
+and [[Double|double]]-winded idiot!—dost thou, whom for thine iniquities it
 
-      has pleased heaven to accurse with a two-fold respimtion—dost
+has pleased heaven to accurse with a two-fold respimtion—dost
 
-      thou, I say, presume to address me in the familiar language of an
+thou, I say, presume to address me in the familiar language of an
 
-      old acquaintance?—‘I lie,’ forsooth! and ‘hold my tongue,’ to be
+old acquaintance?—‘I lie,’ forsooth! and ‘hold my tongue,’ to be
 
-      sure!—pretty conversation indeed, to a gentleman with a single
+sure!—pretty conversation indeed, to a gentleman with a single
 
-      breath!—all this, too, when I have it in my power to relieve the
+breath!—all this, too, when I have it in my power to relieve the
 
-      calamity under which thou dost so justly suffer—to curtail the
+calamity under which thou dost so justly suffer—to curtail the
 
-      superfluities of thine unhappy respiration.”
+superfluities of thine unhappy respiration.”
 
 
 
-      Like [[Brutus]], I paused for a reply—with which, like a tornado, Mr.
+Like [[Brutus]], I paused for a reply—with which, like a tornado, Mr.
 
-      Windenough immediately overwhelmed me. Protestation followed upon
+Windenough immediately overwhelmed me. Protestation followed upon
 
-      protestation, and apology upon apology. There were no terms with
+protestation, and apology upon apology. There were no terms with
 
-      which he was unwilling to comply, and there were none of which I
+which he was unwilling to comply, and there were none of which I
 
-      failed to take the fullest advantage.
+failed to take the fullest advantage.
 
 
 
-      Preliminaries being at length arranged, my acquaintance delivered
+Preliminaries being at length arranged, my acquaintance delivered
 
-      me the respiration; for which (having carefully examined it) I
+me the respiration; for which (having carefully examined it) I
 
-      gave him afterward a receipt.
+gave him afterward a receipt.
 
 
 
-      I am aware that by many I shall be held to blame for speaking in
+I am aware that by many I shall be held to blame for speaking in
 
-      a manner so cursory, of a transaction so impalpable. It will be
+a manner so cursory, of a transaction so impalpable. It will be
 
-      thought that I should have entered more minutely, into the
+thought that I should have entered more minutely, into the
 
-      details of an occurrence by which—and this is very true—much new
+details of an occurrence by which—and this is very true—much new
 
-      light might be thrown upon a highly interesting branch of
+light might be thrown upon a highly interesting branch of
 
-      physical [[philosophy]].
+physical [[philosophy]].
 
 
 
-      To all this I am sorry that I cannot reply. A hint is the only
+To all this I am sorry that I cannot reply. A hint is the only
 
-      answer which I am permitted to make. There were circumstances—but
+answer which I am permitted to make. There were circumstances—but
 
-      I think it much safer upon consideration to say as little as
+I think it much safer upon consideration to say as little as
 
-      possible about an affair so delicate—so delicate, I repeat, and
+possible about an affair so delicate—so delicate, I repeat, and
 
-      at the [[Time|time]] involving the interests of a third party whose
+at the [[Time|time]] involving the interests of a third party whose
 
-      sulphurous resentment I have not the least [[Desire|desire]], at this
+sulphurous resentment I have not the least [[Desire|desire]], at this
 
-      moment, of incurring.
+moment, of incurring.
 
 
 
-      We were not long after this necessary arrangement in effecting an
+We were not long after this necessary arrangement in effecting an
 
-      escape from the dungeons of the sepulchre. The united strength of
+escape from the dungeons of the sepulchre. The united strength of
 
-      our resuscitated voices was soon sufficiently apparent. Scissors,
+our resuscitated voices was soon sufficiently apparent. Scissors,
 
-      the Whig editor, republished a treatise upon “the [[Nature|nature]] and
+the Whig editor, republished a treatise upon “the [[Nature|nature]] and
 
-      origin of subterranean noises.” A reply—rejoinder—confutation—and
+origin of subterranean noises.” A reply—rejoinder—confutation—and
 
-      justification—followed in the columns of a Democratic gazette. It
+justification—followed in the columns of a Democratic gazette. It
 
-      was not until the opening of the vault to decide the controversy,
+was not until the opening of the vault to decide the controversy,
 
-      that the appearance of Mr. Windenough and myself proved both
+that the appearance of Mr. Windenough and myself proved both
 
-      parties to have been decidedly in the wrong.
+parties to have been decidedly in the wrong.
 
 
 
-      I cannot conclude these details of some very singular passages in
+I cannot conclude these details of some very singular passages in
 
-      a life at all times sufficiently eventful, without again
+a life at all times sufficiently eventful, without again
 
-      recalling to the attention of the reader the merits of that
+recalling to the attention of the reader the merits of that
 
-      indiscriminate [[philosophy]] which is a sure and ready shield
+indiscriminate [[philosophy]] which is a sure and ready shield
 
-      against those shafts of calamity which can neither be seen, felt
+against those shafts of calamity which can neither be seen, felt
 
-      nor fully understood. It was in the spirit of this wisdom that,
+nor fully understood. It was in the spirit of this wisdom that,
 
-      among the ancient Hebrews, it was believed the gates of Heaven
+among the ancient Hebrews, it was believed the gates of Heaven
 
-      would be inevitably opened to that sinner, or saint, who, with
+would be inevitably opened to that sinner, or saint, who, with
 
-      good lungs and implicit confidence, should vociferate the word
+good lungs and implicit confidence, should vociferate the word
 
-      “Amen!” It was in the spirit of this wisdom that, when a great
+“Amen!” It was in the spirit of this wisdom that, when a great
 
-      plague raged at Athens, and every means had been in vain
+plague raged at Athens, and every means had been in vain
 
-      attempted for its removal, Epimenides, as Laërtius relates, in
+attempted for its removal, Epimenides, as Laërtius relates, in
 
-      his second book, of that philosopher, advised the erection of a
+his second book, of that philosopher, advised the erection of a
 
-      shrine and temple “to the proper God.”
+shrine and temple “to the proper God.”
 
 
 
-      LYTTLETON BARRY.
+LYTTLETON BARRY.

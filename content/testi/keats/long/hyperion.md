@@ -925,7 +925,7 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="section_01_book_i" data-title="Hyperion — Book I" data-chapter="Section 01 book i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_book_i" data-title="Hyperion — Book I" data-chapter="book i" data-kind="section"></span>
 
 
 ## [[Hyperion|HYPERION]] BOOK I
@@ -1298,7 +1298,7 @@ And plung’d all noiseless into the deep [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="section_02_book_ii" data-title="Hyperion — Book II" data-chapter="Section 02 book ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_book_ii" data-title="Hyperion — Book II" data-chapter="book II" data-kind="section"></span>
 
 
 ## [[Hyperion|HYPERION]] BOOK II
@@ -1703,7 +1703,7 @@ Gave from their hollow throats the name of “[[Saturn]]!”
 
 
 
-<span class="atom-split" data-atom="section_03_book_iii" data-title="Hyperion — Book III" data-chapter="Section 03 book iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_book_iii" data-title="Hyperion — Book III" data-chapter="book III" data-kind="section"></span>
 
 
 ## [[Hyperion|HYPERION]] BOOK III

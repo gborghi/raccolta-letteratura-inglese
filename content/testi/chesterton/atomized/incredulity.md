@@ -89,8 +89,8 @@ In his opinion it was the deleterious influence of priests that had
 made them so miserably poor and so hopelessly oppressed that they
 were able to sit in the shade and smoke and do nothing.
 
-`And a mighty soft crowd you must be at that,' he said,
-`to be bullied by these stuck--up josses because they walk
+‘And a mighty soft crowd you must be at that,' he said,
+‘to be bullied by these stuck--up josses because they walk
 about in their mitres and their tiaras and their gold copes
 and other glad rags, looking down on everybody else like dirt--
 being bamboozled by crowns and canopies and sacred umbrellas
@@ -98,7 +98,7 @@ like a kid at a pantomime; just because a pompous old High Priest
 of Mumbo--Jumbo looks as if he was the lord of the earth.
 What about you?  What do you look like, you poor simps?
 I tell you, that's why you're way--back in barbarism and can't
-read or write and--`
+read or write and--‘
 
 At this point the High Priest of Mumbo--Jumbo came in an undignified
 hurry out of the door of the mission--house, not looking very like
@@ -110,7 +110,7 @@ and it was thrust to the back of his head with a gesture of botheration.
 He seemed just about to speak to the motionless natives when he caught
 sight of the stranger and said quickly:
 
-`Oh, can I be of any assistance?  Would you like to come inside?'
+‘Oh, can I be of any assistance?  Would you like to come inside?'
 
 Mr Paul Snaith came inside; and it was the beginning of a considerable
 increase of that journalist's information on many things.
@@ -162,29 +162,29 @@ laymen who are much more ecclesiastical than ecclesiastics.
 It embarrassed [[Father Brown]] a good deal, especially when carried
 thus into private life.
 
-`I think I am an anti--clerical,' Father Brown would say with
+‘I think I am an anti--clerical,' Father Brown would say with
 a faint smile; 'but there wouldn't be half so much clericalism
 if they would only leave things to the clerics.'
 
-`Why Mr Mendoza,' exclaimed the journalist with a new animation,'
+‘Why Mr Mendoza,' exclaimed the journalist with a new animation,'
 I think we have met before.  Weren't you at the Trade Congress
 in Mexico last year?'
 
 The heavy eyelids of Mr Mendoza showed a flutter of recognition,
-and he smiled in his slow way.  `I remember.'
+and he smiled in his slow way.  ‘I remember.'
 
-`Pretty big business done there in an hour or two,'
+‘Pretty big business done there in an hour or two,'
 said Snaith with relish.'  Made a good deal of difference
 to you, too, I guess.'
 
-`I have been very fortunate,' said Mendoza modestly.
+‘I have been very fortunate,' said Mendoza modestly.
 
-`Don't you believe it!' cried the enthusiastic Snaith.'
+‘Don't you believe it!' cried the enthusiastic Snaith.'
 Good fortune comes to the people who know when to catch hold;
 and you caught hold good and sure.  But I [[Hope|hope]] I'm not
 interrupting your business?'
 
-`Not at all,' said the other.  `I often have the [[Honour|honour]] of calling
+‘Not at all,' said the other.  ‘I often have the [[Honour|honour]] of calling
 on the padre for a little talk.  Merely for a little talk.'
 
 It seemed as if this familiarity between [[Father Brown]]
@@ -209,7 +209,7 @@ of the unfortunate cleric in the most commonplace occupations,
 and exhibited them in gigantic photographs in the gigantic
 [[Sunday]] papers of the United States.  He turned his sayings
 into slogans, and was continually presenting the world with
-`A message' from the reverend gentleman in South America.
+‘A message' from the reverend gentleman in South America.
 Any stock less strong and strenuously receptive than the American
 race would have become very much bored with Father Brown.
 As it was, he received handsome and eager offers to go
@@ -327,7 +327,7 @@ still his religion.  Amid all the dazzling lights of the latest
 and even wildest discoveries, when he was at the very edge
 and extreme of experiment, working miracles of light
 and sound like a god creating new stars and solar systems,
-he never for a moment doubted that the things `back [[Home|home]]'
+he never for a moment doubted that the things ‘back [[Home|home]]'
 were the best things in the world; his mother and the
 Family [[Bible]] and the quiet and quaint [[morality]] of his village.
 He had as serious and noble a sense of the sacredness
@@ -398,7 +398,7 @@ And then the dark archway resounded with a new voice, this [[Time|time]]
 intelligible to him and falling with the note of doom, as someone
 shouted through the gateway:
 
-`Father Brown is dead!'
+‘Father Brown is dead!'
 
 He never knew what prop gave way in his mind, or why something
 on which he had been counting suddenly failed him; but he ran
@@ -406,8 +406,8 @@ towards the gateway and was just in time to meet his countryman,
 the journalist Snaith, coming out of the dark entrance,
 deadly pale and snapping his fingers nervously.
 
-`It's quite true,' said Snaith, with something which for him
-approached to reverence.  `He's a goner.  The doctor's been
+‘It's quite true,' said Snaith, with something which for him
+approached to reverence.  ‘He's a goner.  The doctor's been
 looking at him, and there's no hope.  Some of these damned
 Dagos clubbed him as he came through the gate--God knows why.
 It'll be a great loss to the place.'
@@ -433,23 +433,23 @@ he explained, for Father Brown at the cafe when he had heard
 a rustle and a fall and, coming out, had found the corpse lying
 on the flagstones.
 
-`I know what some of you are thinking,' he said, looking round proudly,
-`and if you are afraid of me--as you are--I will say it for you.
+‘I know what some of you are thinking,' he said, looking round proudly,
+‘and if you are afraid of me--as you are--I will say it for you.
 I am an atheist; I have no god to call on for those who will not
 take my word.  But I tell you in the name of every root of honour
 that may be left to a soldier and a man, that I had no part in this.
 If I had the men here that did it, I would rejoice to hang them
 on that tree.'
 
-`Naturally we are glad to hear you say so,' said old Mendoza stiffly
+‘Naturally we are glad to hear you say so,' said old Mendoza stiffly
 and solemnly, standing by the [[Body|body]] of his fallen coadjutor.
-`This blow has been too appalling for us to say what else we feel
+‘This blow has been too appalling for us to say what else we feel
 at present.  I suggest that it will be more decent and proper if we
 remove my friend's body and break up this irregular meeting.
-I understand,' he added gravely to the doctor, `that there is
+I understand,' he added gravely to the doctor, ‘that there is
 unfortunately no [[Doubt|doubt]].'
 
-`There is no doubt,' said Dr Calderon.
+‘There is no doubt,' said Dr Calderon.
 
 John Race went back to his lodgings sad and with a singular sense
 of emptiness.  It seemed impossible that he should miss a man whom
@@ -505,28 +505,28 @@ to start reproaching and even taunting his political opponents.
 In three minutes he had succeeded in making a scene,
 and a very extraordinary scene it was.
 
-`We may [[Well|well]] ask,' he said, looking around him pompously;
-`we may well ask where such virtues can be found among
+‘We may [[Well|well]] ask,' he said, looking around him pompously;
+‘we may well ask where such virtues can be found among
 those who have madly abandoned the creed of their fathers.
 It is when we have atheists among us, atheist leaders,
 nay sometimes even atheist rulers, that we find their
 infamous philosophy bearing fruit in crimes like this.
-If we ask who murdered this holy man, we shall assuredly find--`
+If we ask who murdered this holy man, we shall assuredly find--‘
 
 Africa of the forests looked out of the eyes of Alvarez
 the hybrid adventurer; and Race fancied he could see suddenly
 that the man was after all a barbarian, who could not control
-himself to the end; one might guess that all his `illuminated'
+himself to the end; one might guess that all his ‘illuminated'
 transcendentalism had a touch of Voodoo.  Anyhow, Mendoza could
 not continue, for Alvarez had sprung up and was shouting back
 at him and shouting him down, with infinitely superior lungs.
 
-`Who murdered him?' he roared.  `Your God murdered him!
+‘Who murdered him?' he roared.  ‘Your God murdered him!
 His own God murdered him!  According to you, he murders all his
 faithful and foolish servants--as he murdered that one,' and he made
 a violent gesture, not towards the coffin but the crucifix.
 Seeming to control himself a little, he went on in a tone still
-angry but more argumentative:  `I don't believe it, but you do.
+angry but more argumentative:  ‘I don't believe it, but you do.
 Isn't it better to have no God than one that robs you in
 this fashion?  I, at least, am not afraid to say that there
 is none.  There is no power in all this blind and brainless
@@ -538,13 +538,13 @@ not there to waken the man who sleeps for ever.'
 
 There was a shock of [[Silence|silence]], and the demagogue had made his sensation.
 
-`We might have known,' cried Mendoza in a thick gobbling voice,
-`when we allowed such men as you--`
+‘We might have known,' cried Mendoza in a thick gobbling voice,
+‘when we allowed such men as you--‘
 
 A new voice cut into his speech; a high and shrill voice
 with a Yankee accent.
 
-`Stop!  Stop!' cried Snaith the journalist; `something's up!
+‘Stop!  Stop!' cried Snaith the journalist; ‘something's up!
 I swear I saw him move.'
 
 He went racing up the steps and rushed to the coffin,
@@ -583,34 +583,34 @@ There was something a little more like a lull in the noise;
 and then Father Brown for the first time reached the utmost stretch
 of the indignation that he could launch against his children.
 
-`Oh, you silly people,' he said in a high and quavering voice;
-`Oh, you silly, silly people.'
+‘Oh, you silly people,' he said in a high and quavering voice;
+‘Oh, you silly, silly people.'
 
 Then he suddenly seemed to pull himself together, made a bolt for
 the steps with his more normal gait, and began hurriedly to descend.
 
-`Where are you going, Father?' said Mendoza, with more than
+‘Where are you going, Father?' said Mendoza, with more than
 his usual veneration.
 
-`To the telegraph office,' said Father Brown hastily.  `What?  No; of
+‘To the telegraph office,' said Father Brown hastily.  ‘What?  No; of
 course it's not a miracle.  Why should there be a miracle?
 Miracles are not so cheap as all that.'
 
 And he came tumbling down the steps, the people flinging themselves
 before him to implore his blessing.
 
-`Bless you, bless you,' said Father Brown hastily.
-`God bless you all and give you more sense.'
+‘Bless you, bless you,' said Father Brown hastily.
+‘God bless you all and give you more sense.'
 
 And he scuttled away with extraordinary rapidity to the telegraph office,
-where he wired to his Bishop's secretary:  `There is some mad
+where he wired to his Bishop's secretary:  ‘There is some mad
 story about a miracle here; hope his lordship not give authority.
 Nothing in it.'
 
 As he turned away from his effort, he tottered a little with the reaction,
 and John Race caught him by the arm.
 
-`Let me see you [[Home|home]],' he said; `you deserve more than these people
+‘Let me see you [[Home|home]],' he said; ‘you deserve more than these people
 are giving you.'
 
 John Race and the priest were seated in the presbytery; the table
@@ -618,36 +618,36 @@ was still piled up with the papers with which the latter had been
 wrestling the day before; the bottle of wine and the emptied wine--
 glass still stood where he had left them.
 
-`And now,' said [[Father Brown]] almost grimly, `I can begin to think.'
+‘And now,' said [[Father Brown]] almost grimly, ‘I can begin to think.'
 
-`I shouldn't think too hard just yet,' said the American.
-`You must be wanting a rest.  Besides, what are you going
+‘I shouldn't think too hard just yet,' said the American.
+‘You must be wanting a rest.  Besides, what are you going
 to think about?'
 
-`I have pretty often had the task of investigating murders,
-as it happens,' said [[Father Brown]].  `Now I have got to investigate
+‘I have pretty often had the task of investigating murders,
+as it happens,' said [[Father Brown]].  ‘Now I have got to investigate
 my own murder.'
 
-`If I were you,' said Race, `I should take a little wine first.'
+‘If I were you,' said Race, ‘I should take a little wine first.'
 
 Father Brown stood up and filled himself another glass, lifted it,
 looked thoughtfully into vacancy, and put it down again.
 Then he sat down once more and said:
 
-`Do you know what I felt like when I died?  You may not believe it,
+‘Do you know what I felt like when I died?  You may not believe it,
 but my feeling was one of overwhelming astonishment.'
 
-`Well,' answered Race, `I suppose you were astonished at being
+‘Well,' answered Race, ‘I suppose you were astonished at being
 knocked on the head.'
 
 [[Father Brown]] leaned over to him and said in a low voice,
-`I was astonished at not being knocked on the head.'
+‘I was astonished at not being knocked on the head.'
 
 Race looked at him for a moment as if he thought the knock
 on the head had been only too effective; but he only said:
-`What do you mean?'
+‘What do you mean?'
 
-`I mean that when that man brought his bludgeon down with a great swipe,
+‘I mean that when that man brought his bludgeon down with a great swipe,
 it stopped at my head and did not even touch it.  In the same way,
 the other fellow made as if to strike me with a knife, but he never
 gave me a scratch.  It was just like play--acting.  I think it was.
@@ -656,7 +656,7 @@ But then followed the extraordinary thing.'
 He looked thoughtfully at the papers on the table for a moment
 and then went on:
 
-`Though I had not even been touched with knife or stick, I began
+‘Though I had not even been touched with knife or stick, I began
 to feel my legs doubling up under me and my very life failing.
 I knew I was being struck down by something, but it was
 not by those weapons.  Do you know what I think it was?'
@@ -664,56 +664,56 @@ And he pointed to the wine on the table.
 
 Race picked up the wine--glass and looked at it and smelt it.
 
-`I think you are right,' he said.  `I began as a druggist and
+‘I think you are right,' he said.  ‘I began as a druggist and
 studied chemistry.  I couldn't say for certain without an analysis;
 but I think there's something very unusual in this stuff.
 There are drugs by which the Asiatics produce a temporary [[Sleep|sleep]]
 that looks like [[Death|death]].'
 
-`Quite so,' said the priest calmly.'  The whole of this miracle was faked,
+‘Quite so,' said the priest calmly.'  The whole of this miracle was faked,
 for some reason or other.  That funeral scene was staged--and timed.
 I think it is part of that raving madness of publicity that has got
 hold of Snaith; but I can hardly believe he would go quite so far,
 merely for that.  After all, it's one thing to make copy out of me
-and run me as a sort of sham Sherlock Holmes, and--`
+and run me as a sort of sham Sherlock Holmes, and--‘
 
 Even as the priest spoke his face altered.  His blinking
 eyelids shut suddenly and he stood up as if he were choking.
 Then he put one wavering hand as if groping his way
 towards the door.
 
-`Where are you going?' asked the other in some wonder.
+‘Where are you going?' asked the other in some wonder.
 
-`If you ask me,' said [[Father Brown]], who was quite white,
-`I was going to pray.  Or rather, to praise.'
+‘If you ask me,' said [[Father Brown]], who was quite white,
+‘I was going to pray.  Or rather, to praise.'
 
-`I'm not sure I understand.  What is the matter with you?'
+‘I'm not sure I understand.  What is the matter with you?'
 
-`I was going to praise God for having so strangely and so incredibly
+‘I was going to praise God for having so strangely and so incredibly
 saved me--saved me by an inch.'
 
-`Of course,' said Race, `I am not of your religion;
+‘Of course,' said Race, ‘I am not of your religion;
 but believe me, I have religion enough to understand that.
 Of course, you would thank God for saving you from death.'
 
-`No,' said the priest.  `Not from death.  From disgrace.'
+‘No,' said the priest.  ‘Not from death.  From disgrace.'
 
 The other sat staring; and the priest's next words broke out of
-him with a sort of cry.  `And if it had only been my disgrace!
+him with a sort of cry.  ‘And if it had only been my disgrace!
 But it was the disgrace of all I stand for; the disgrace of the [[Faith]]
 that they went about to encompass.  What it might have been!
 The most huge and horrible scandal ever launched against us
 since the last lie was choked in the throat of Titus Oates.'
 
-`What on earth are you talking about?' demanded his companion.
+‘What on earth are you talking about?' demanded his companion.
 
-`[[Well]], I had better tell you at once,' said the priest;
-and sitting down, he went on more composedly:  `It came to me
+‘[[Well]], I had better tell you at once,' said the priest;
+and sitting down, he went on more composedly:  ‘It came to me
 in a flash when I happened to mention Snaith and Sherlock Holmes.
 Now I happen to remember what I wrote about his absurd scheme;
 it was the natural thing to write, and yet I think they had
 ingeniously manoeuvred me into writing just those words.
-They were something like `I am ready to die and come to life
+They were something like ‘I am ready to die and come to life
 again like Sherlock Holmes, if that is the best way.'
 And the moment I thought of that, I realized that I
 had been made to write all sorts of things of that kind,
@@ -721,32 +721,32 @@ all pointing to the same idea.  I wrote, as if to an accomplice,
 saying that I would drink the drugged wine at a particular [[Time|time]].
 Now, don't you see?'
 
-Race sprang to his feet still staring:  `Yes,' he said,
-`I think I began to see.'
+Race sprang to his feet still staring:  ‘Yes,' he said,
+‘I think I began to see.'
 
-`They would have boomed the miracle.  Then they would have bust up
+‘They would have boomed the miracle.  Then they would have bust up
 the miracle.  And what is the worst, they would have proved that I
 was in the conspiracy.  It would have been our sham miracle.
 That's all there is to it; and about as near hell as you and I
 will ever be, I hope.'
 
 Then he said, after a pause, in quite a mild voice:
-`They certainly would have got quite a lot of good copy
+‘They certainly would have got quite a lot of good copy
 out of me.'
 
-Race looked at the table and said darkly:  `How many of these brutes
+Race looked at the table and said darkly:  ‘How many of these brutes
 were in it?'
 
-Father Brown shook his head.  `More than I like to think of,'
-he said; `but I hope some of them were only tools.  Alvarez might
+Father Brown shook his head.  ‘More than I like to think of,'
+he said; ‘but I hope some of them were only tools.  Alvarez might
 think that all's fair in war, perhaps; he has a queer mind.
 I'm very much afraid that Mendoza is an old hypocrite; I never
 trusted him, and he hated my action in an industrial matter.
 But all that will wait; I have only got to thank God for the escape.
 And especially that I wired at once to the Bishop.'
 
-John Race appeared to be very thoughtful.  `You've told
-me a lot I didn't know,' he said at last, `and I feel
+John Race appeared to be very thoughtful.  ‘You've told
+me a lot I didn't know,' he said at last, ‘and I feel
 inclined to tell you the only thing you don't know.
 I can imagine how those fellows calculated well enough.
 They thought any man alive, waking up in a coffin to find
@@ -759,11 +759,11 @@ and I tell you frankly I don't believe there's one man
 in a thousand who could wake up like that with all his wits
 about him; and while he was still almost talking in his sleep,
 would have the sanity and the simplicity and the humility
-to--` He was much surprised to find himself moved, and his
+to--‘ He was much surprised to find himself moved, and his
 level voice wavering.
 
 [[Father Brown]] was gazing abstractedly, and in a rather cockeyed fashion,
-at the bottle on the table.  `Look here,' he said, ` what about a bottle
+at the bottle on the table.  ‘Look here,' he said, ‘ what about a bottle
 of real wine?'
 
 TWO:  The Arrow of Heaven
@@ -818,7 +818,7 @@ apart from it, equally black against the burning white daylight
 of that brilliant place and season, but entirely solitary;
 a tall, rather yellow--faced man in great goggles, who arrested
 him with a gesture when the journalists had finished and said:
-`Excuse me, but maybe you are looking for Captain Wain.'
+‘Excuse me, but maybe you are looking for Captain Wain.'
 
 Some apology may be made for Father Brown; for he himself
 would have been sincerely apologetic.  It must be remembered
@@ -836,11 +836,11 @@ friends of his own in France, was indeed one of a long list
 of people he had some hope of seeing during his American visit;
 but he had never expected to hear of him so soon.
 
-`I beg your pardon,' he said doubtfully, `are you Captain Wain?  Do you--
+‘I beg your pardon,' he said doubtfully, ‘are you Captain Wain?  Do you--
 do you know him?'
 
-`[[Well]], I'm pretty confident I'm not Captain Wain,' said the man
-in goggles, with a face of wood.  `I was pretty clear about
+‘[[Well]], I'm pretty confident I'm not Captain Wain,' said the man
+in goggles, with a face of wood.  ‘I was pretty clear about
 that when I saw him waiting for you over there in the car.
 But the other question's a bit more problematical.
 I reckon I know Wain and his uncle, and old man Merton, too.
@@ -857,7 +857,7 @@ and his conversation seemed to consist of stratified layers of irony.
 He was a type to be found here and there in that hearty
 and sociable population; he was the inscrutable American.
 
-`My name's Drage,' he said, `Norman Drage, and I'm an American citizen,
+‘My name's Drage,' he said, ‘Norman Drage, and I'm an American citizen,
 which explains everything.  At least I imagine your friend Wain
 would like to explain the rest; so we'll postpone The Fourth of July
 till another date.'
@@ -898,21 +898,21 @@ For though the cup apparently again escaped, enough bonds
 and securities were stolen to leave Horder's financial
 affairs in confusion.
 
-`Brian Horder's widow,' explained Wain, `had to sell most of
+‘Brian Horder's widow,' explained Wain, ‘had to sell most of
 his valuables, I believe, and Brander Merton must have purchased
 the cup at that time, for he had it when I first knew him.
 But you can guess for yourself that it's not a very comfortable
 thing to have.'
 
-`Has Mr Merton ever had any of the threatening letters?'
+‘Has Mr Merton ever had any of the threatening letters?'
 asked [[Father Brown]], after a pause.
 
-`I imagine he has,' said Mr Drage; and something in his voice made
+‘I imagine he has,' said Mr Drage; and something in his voice made
 the priest look at him curiously, until he realized that the man
 in goggles was laughing silently, in a fashion that gave the newcomer
 something of a chill.
 
-`I'm pretty sure he has,' said Peter Wain, frowning.  `I've not
+‘I'm pretty sure he has,' said Peter Wain, frowning.  ‘I've not
 seen the letters, only his secretary sees any of his letters,
 for he is pretty reticent about business matters, as big business men
 have to be.  But I've seen him real upset and annoyed with letters;
@@ -924,18 +924,18 @@ Everybody knows your great reputation.  Father Brown, and the secretary
 asked me to see if you'd mind coming straight out to the Merton
 house at once.'
 
-`Oh, I see,' said [[Father Brown]], on whom the meaning
+‘Oh, I see,' said [[Father Brown]], on whom the meaning
 of this apparent kidnapping began to [[Dawn|dawn]] at last.
-`But, really, I don't see that I can do any more than you can.
+‘But, really, I don't see that I can do any more than you can.
 You're on the spot, and must have a hundred times more data
 for a scientific conclusion than a chance visitor.'
 
-`Yes,' said Mr Drage dryly; `our conclusions are much too scientific
+‘Yes,' said Mr Drage dryly; ‘our conclusions are much too scientific
 to be true.  I reckon if anything hit a man like Titus P. Trant, it just
 came out of the sky without waiting for any scientific explanation.
 What they call a bolt from the blue.'
 
-`You can't possibly mean,' cried Wain, `that it was supernatural!'
+‘You can't possibly mean,' cried Wain, ‘that it was supernatural!'
 
 But it was by no means easy at any time to discover what
 Mr Drage could possibly mean; except that if he said somebody
@@ -956,7 +956,7 @@ the opening of a safe.  But, much to Father Brown's surprise,
 the man called Norman Drage showed no disposition to enter,
 but took leave of them with sinister gaiety.
 
-`I won't come in,' he said.  `It `ud be too much pleasurable
+‘I won't come in,' he said.  ‘It ‘ud be too much pleasurable
 excitement for old man Merton, I reckon.  He loves the sight
 of me so much that he'd die of joy.'
 
@@ -976,8 +976,8 @@ Nothing but a single shaft for a lift went up the centre between
 the solid walls, and the approach to it was guarded by heavy,
 powerful men like plain--clothes policemen.
 
-`Pretty elaborate protection, I know,' said Wain.
-`Maybe it makes you smile a little, [[Father Brown]], to find
+‘Pretty elaborate protection, I know,' said Wain.
+‘Maybe it makes you smile a little, [[Father Brown]], to find
 Merton has to live in a fortress like this without even a tree
 in the [[Garden|garden]] for anyone to hide behind.  But you don't know
 what sort of proposition we're up against in this country.
@@ -995,13 +995,13 @@ just means that power like that is always interesting.
 And I [[Hope|hope]] it's not against your principles to visit a modern
 sort of emperor like Merton.'
 
-`Not at all,' said Father Brown, quietly.  `It is my duty to visit
+‘Not at all,' said Father Brown, quietly.  ‘It is my duty to visit
 prisoners and all miserable men in captivity.'
 
 There was a [[Silence|silence]], and the young man frowned with a strange and almost
 shifty look on his lean face.  Then he said, abruptly:
 
-`Well, you've got to remember it isn't only common crooks or
+‘Well, you've got to remember it isn't only common crooks or
 the Black Hand that's against him.  This Daniel Doom is pretty
 much like the devil.  Look how he dropped Trant in his own
 gardens and Horder outside his house, and got away with it.'
@@ -1033,37 +1033,37 @@ and his enemies a bravo.
 This man never moved or stirred to greet anybody; but the sight of him
 in the outer room seemed to move Peter Wain to his first nervous query.
 
-`Is anybody with the chief?' he asked.
+‘Is anybody with the chief?' he asked.
 
-`Don't get rattled, Peter,' chuckled his uncle.  `Wilton the
+‘Don't get rattled, Peter,' chuckled his uncle.  ‘Wilton the
 secretary is with him, and I [[Hope|hope]] that's enough for anybody.
 I don't believe Wilton ever sleeps for watching Merton.
 He is better than twenty bodyguards.  And he's quick and quiet
 as an Indian.'
 
-`Well, you ought to know,' said his nephew, laughing.
-`I remember the Red Indian tricks you used to teach me
+‘Well, you ought to know,' said his nephew, laughing.
+‘I remember the Red Indian tricks you used to teach me
 when I was a boy and liked to read Red Indian stories.
 But in my Red Indian stories Red Indians seemed always to have
 the worst of it.'
 
-`They didn't in real life,' said the old frontiersman grimly.
+‘They didn't in real life,' said the old frontiersman grimly.
 
-`Indeed?' inquired the bland Mr Blake.  `I should have thought
+‘Indeed?' inquired the bland Mr Blake.  ‘I should have thought
 they could do very little against our firearms.'
 
-`I've seen an Indian stand under a hundred guns with nothing
+‘I've seen an Indian stand under a hundred guns with nothing
 but a little scalping--knife and kill a white man standing
 on the top of a fort,' said Crake.
 
-`Why, what did he do with it?' asked the other.
+‘Why, what did he do with it?' asked the other.
 
-`Threw it,' replied Crake, `threw it in a flash before a shot
+‘Threw it,' replied Crake, ‘threw it in a flash before a shot
 could be fired.  I don't know where he learnt the trick.'
 
-`[[Well]], I [[Hope|hope]] you didn't learn it,' said his nephew, laughing.
+‘[[Well]], I [[Hope|hope]] you didn't learn it,' said his nephew, laughing.
 
-`It seems to me,' said Father Brown, thoughtfully, `that the story
+‘It seems to me,' said Father Brown, thoughtfully, ‘that the story
 might have a moral.'
 
 While they were speaking Mr Wilton, the secretary, had come out
@@ -1072,7 +1072,7 @@ with a square chin and steady eyes with a look like a dog's;
 it was not difficult to believe that he had the single--
 eye of a watchdog.
 
-He only said, `Mr Merton can see you in about ten minutes,'
+He only said, ‘Mr Merton can see you in about ten minutes,'
 but it served for a signal to break up the gossiping group.
 Old Crake said he must be off, and his nephew went out with him
 and his legal companion, leaving Father Brown for the moment
@@ -1081,22 +1081,22 @@ of the room could hardly be felt as if he were human or alive;
 he sat so motionless with his broad back to them, staring towards
 the inner room.
 
-`Arrangements rather elaborate here, I'm afraid,' said the secretary.
-`You've probably heard all about this Daniel Doom, and why it isn't safe
+‘Arrangements rather elaborate here, I'm afraid,' said the secretary.
+‘You've probably heard all about this Daniel Doom, and why it isn't safe
 to leave the boss very much alone.'
 
-`But he is [[Alone|alone]] just now, isn't he?' said [[Father Brown]].
+‘But he is [[Alone|alone]] just now, isn't he?' said [[Father Brown]].
 
-The secretary looked at him with [[Grave|grave]], grey eyes.  `For fifteen minutes,'
-he said.  `For fifteen minutes out of the twenty--four hours.
+The secretary looked at him with [[Grave|grave]], grey eyes.  ‘For fifteen minutes,'
+he said.  ‘For fifteen minutes out of the twenty--four hours.
 That is all the real [[Solitude|solitude]] he has; and that he insists on,
 for a pretty remarkable reason.'
 
-`And what is the reason?' inquired the visitor.
+‘And what is the reason?' inquired the visitor.
 Wilton, the secretary, continued his steady gaze, but his mouth,
 that had been merely grave, became grim.
 
-`The Coptic Cup,' he said.  `Perhaps you've forgotten
+‘The Coptic Cup,' he said.  ‘Perhaps you've forgotten
 the Coptic Cup; but he hasn't forgotten that or anything else.
 He doesn't trust any of us about the Coptic Cup.  It's locked up
 somewhere and somehow in that room so that only he can find it;
@@ -1110,7 +1110,7 @@ pays us a visit, he'll stay to dinner and a good bit later,
 by God!  I sit here on hot bricks for the fifteen minutes,
 and the instant I heard a shot or a sound of struggle I'd press
 this button and an electrocuting current would run in a ring round
-that garden wall, so that it `ud be [[Death|death]] to [[Cross|cross]] or climb it.
+that garden wall, so that it ‘ud be [[Death|death]] to [[Cross|cross]] or climb it.
 Of course, there couldn't be a shot, for this is the only way in;
 and the only [[Window|window]] he sits at is away up on the top of a tower
 as smooth as a greasy pole.  But, anyhow, we're all armed here,
@@ -1119,22 +1119,22 @@ before he got out.'
 
 [[Father Brown]] was blinking at the carpet in a brown study.
 Then he said suddenly, with something like a jerk:
-`I hope you won't mind my mentioning it, but a kind of a notion
+‘I hope you won't mind my mentioning it, but a kind of a notion
 came into my head just this minute.  It's about you.'
 
-`Indeed,' remarked Wilton, `and what about me?'
+‘Indeed,' remarked Wilton, ‘and what about me?'
 
-`I think you are a man of one idea,' said [[Father Brown]], `and you
+‘I think you are a man of one idea,' said [[Father Brown]], ‘and you
 will forgive me for saying that it seems to be even more the idea
 of catching Daniel Doom than of defending Brander Merton.'
 
 Wilton started a little and continued to stare at his companion;
 then very slowly his grim mouth took on a rather curious smile.
-`How did you--what makes you think that?' he asked.
+‘How did you--what makes you think that?' he asked.
 
-`You said that if you heard a shot you could instantly
+‘You said that if you heard a shot you could instantly
 electrocute the escaping enemy,' remarked the priest.
-`I suppose it occurred to you that the shot might be fatal
+‘I suppose it occurred to you that the shot might be fatal
 to your employer before the shock was fatal to his foe.
 I don't mean that you wouldn't protect Mr Merton if you could,
 but it seems to come rather second in your thoughts.
@@ -1142,8 +1142,8 @@ The arrangements are very elaborate, as you say, and you seem
 to have elaborated them.  But they seem even more designed
 to catch a murderer than to save a man.'
 
-`Father Brown,' said the secretary, who had recovered his quiet tone,
-`you're very smart, but there's something more to you than smartness.
+‘Father Brown,' said the secretary, who had recovered his quiet tone,
+‘you're very smart, but there's something more to you than smartness.
 Somehow you're the sort of man to whom one wants to tell the [[Truth|truth]];
 and besides, you'll probably hear it, anyhow, for in one way it's
 a joke against me already.  They all say I'm a monomaniac about running
@@ -1152,16 +1152,16 @@ that none of them know.  My full name is John Wilton Border.'
 [[Father Brown]] nodded as if he were completely enlightened,
 but the other went on.
 
-`This fellow who calls himself Doom killed my father and uncle and ruined
+‘This fellow who calls himself Doom killed my father and uncle and ruined
 my mother.  When Merton wanted a secretary I took the job, because I
 thought that where the cup was the criminal might sooner or later be.
 But I didn't know who the criminal was and could only wait for him;
 and I meant to serve Merton faithfully.'
 
-`I understand,' said [[Father Brown]] gently; `and, by the way,
+‘I understand,' said [[Father Brown]] gently; ‘and, by the way,
 isn't it time that we attended on him?'
 
-`Why, yes,' answered Wilton, again starting a little
+‘Why, yes,' answered Wilton, again starting a little
 out of his brooding so that the priest concluded that his
 vindictive mania had again absorbed him for a moment.'
 Go in now by all means.'
@@ -1176,14 +1176,14 @@ It seemed as though something in the very attitude of the priest
 had been a signal; for his head was against the light from the inner
 [[Window|window]] and his face was in [[Shadow|shadow]].
 
-`I suppose you will press that button,' he said with a sort of sigh.
+‘I suppose you will press that button,' he said with a sort of sigh.
 
 Wilton seemed to awake from his savage brooding with a bound
 and leapt up with a catch in his voice.
 
-`There was no shot,' he cried.
+‘There was no shot,' he cried.
 
-`Well,' said Father Brown, `it depends what you mean by a shot.'
+‘Well,' said Father Brown, ‘it depends what you mean by a shot.'
 
 Wilton rushed forward, and they plunged into the inner room together.
 It was a comparatively small room and simply though elegantly furnished.
@@ -1204,23 +1204,23 @@ spike of grizzled beard thrust up towards the ceiling,
 and out of his throat stood a long, brown--painted arrow
 with red leathers at the other end.
 
-`A silent shot,' said Father Brown, in a low voice; `I was just
+‘A silent shot,' said Father Brown, in a low voice; ‘I was just
 wondering about those new inventions for silencing firearms.
 But this is a very old invention, and quite as silent.'
 
-Then, after a moment, he added:  `I'm afraid he is dead.
+Then, after a moment, he added:  ‘I'm afraid he is dead.
 What are you going to do?'
 
 The pale secretary roused himself with abrupt resolution.
-`I'm going to press that button, of course,' he said,
-`and if that doesn't do for Daniel Doom, I'm going to hunt
+‘I'm going to press that button, of course,' he said,
+‘and if that doesn't do for Daniel Doom, I'm going to hunt
 him through the world till I find him.'
 
-`Take care it doesn't do for any of our friends,' observed [[Father Brown]];
-`they can hardly be far off; we'd better call them.'
+‘Take care it doesn't do for any of our friends,' observed [[Father Brown]];
+‘they can hardly be far off; we'd better call them.'
 
-`That lot know all about the wall,' answered Wilton.
-`None of them will try to climb it, unless one of them ...
+‘That lot know all about the wall,' answered Wilton.
+‘None of them will try to climb it, unless one of them ...
 is in a great hurry.'
 
 Father Brown went to the window by which the arrow had evidently
@@ -1230,28 +1230,28 @@ The whole vista seemed so vast and empty, the tower seemed set
 so far up in the sky that as he stared out a strange phrase came
 back to his memory.
 
-`A bolt from the blue,' he said.  `What was that somebody said
+‘A bolt from the blue,' he said.  ‘What was that somebody said
 about a bolt from the blue and death coming out of the sky?
 Look how far away everything looks; it seems extraordinary that
 an arrow could come so far, unless it were an arrow from heaven.'
 
 Wilton had returned, but did not reply, and the priest
-went on as in soliloquy.  `One thinks of aviation.
+went on as in soliloquy.  ‘One thinks of aviation.
 We must ask young Wain ... about aviation.'
 
-`There's a lot of it round here,' said the secretary.
+‘There's a lot of it round here,' said the secretary.
 
-`Case of very old or very new weapons,' observed [[Father Brown]].
-`Some would be quite familiar to his old uncle, I suppose; we must
+‘Case of very old or very new weapons,' observed [[Father Brown]].
+‘Some would be quite familiar to his old uncle, I suppose; we must
 ask him about arrows.  This looks rather like a Red Indian arrow.
 I don't know where the Red Indian shot it from; but you remember
 the story the old man told.  I said it had a moral.'
 
-`If it had a moral,' said Wilton warmly, `it was only that a real
-`Red Indian might shoot a thing farther than you'd fancy.
+‘If it had a moral,' said Wilton warmly, ‘it was only that a real
+‘Red Indian might shoot a thing farther than you'd fancy.
 It's nonsense your suggesting a parallel.'
 
-`I don't think you've got the moral quite right,' said Father Brown.
+‘I don't think you've got the moral quite right,' said Father Brown.
 
 Although the little priest appeared to melt into the millions
 of New York next day, without any apparent attempt to be
@@ -1268,8 +1268,8 @@ with his bony hands and hatchet face resting on the oddly--
 shaped head of a walking--stick of dark red wood, possibly modelled
 on a tomahawk.
 
-`[[Well]], it may be a long shot,' he said, wagging his head,
-`but I wouldn't advise you to be too positive about how far
+‘[[Well]], it may be a long shot,' he said, wagging his head,
+‘but I wouldn't advise you to be too positive about how far
 an Indian arrow could go.  I've known some bow--shots that
 seemed to go straighter than any bullets, and hit the mark
 to amazement, considering how long they had been travelling.
@@ -1283,29 +1283,29 @@ over the wall and into the top window of Merton's house;
 no, nor into Merton, either.  I've seen things quite as wonderful
 as that done in the old days.'
 
-`No [[Doubt|doubt]],' said the priest, `you have done things quite as wonderful,
+‘No [[Doubt|doubt]],' said the priest, ‘you have done things quite as wonderful,
 as well as seen them.'
 
-Old Crake chuckled, and then said gruffly:  `Oh, that's
+Old Crake chuckled, and then said gruffly:  ‘Oh, that's
 all ancient [[history]].'
 
-`Some people have a way of studying ancient history,' the priest said.
+‘Some people have a way of studying ancient history,' the priest said.
 'I suppose we may take it there is nothing in your old record In make
 people talk unpleasantly about this affair.'
 
-`What do you mean?' demanded Crake, his eyes shifting sharply
+‘What do you mean?' demanded Crake, his eyes shifting sharply
 for the first [[Time|time]], in his red, wooden face, that was rather
 like I he head of a tomahawk.
 
-`Well, since you were so well acquainted with all the arts and crafts
-of the Redskin--` began [[Father Brown]] slowly.
+‘Well, since you were so well acquainted with all the arts and crafts
+of the Redskin--‘ began [[Father Brown]] slowly.
 
 Crake had had a hunched and almost shrunken appearance
 as he sat with his chin propped on its queer--shaped crutch.
 But the next instant he stood erect in the path like a fighting
 bravo with the crutch clutched like a cudgel.
 
-`What?' he cried--in something like a raucous screech--`what the hell!
+‘What?' he cried--in something like a raucous screech--‘what the hell!
 Are you standing up to me to tell me I might happen to have murdered
 my own brother--in--law?'
 
@@ -1322,7 +1322,7 @@ heaving up in the distance and bearing down on the group.
 But the priest only said, quite placidly, like one answering
 an ordinary query:
 
-`I have formed certain conclusions about it, but I do not think
+‘I have formed certain conclusions about it, but I do not think
 I will mention them till I make my report.'
 
 Whether under the influence of the footsteps of the policeman or of
@@ -1340,8 +1340,8 @@ For Father Brown had asked, in an idle and conversational fashion,
 whether much flying was done in that district, and had told how he had
 at first mistaken Mr Merton's circular wall for an aerodrome.
 
-`It's a [[Wonder|wonder]] you didn't see any while we were there,'
-answered Captain Wain.  `Sometimes they're as thick as flies;
+‘It's a [[Wonder|wonder]] you didn't see any while we were there,'
+answered Captain Wain.  ‘Sometimes they're as thick as flies;
 that open plain is a great place for them, and I shouldn't
 wonder if it were the chief breeding--ground, so to speak,
 for my sort of birds in the future.  I've flown a good deal
@@ -1351,37 +1351,37 @@ taking to it out there now whom I never heard of in my life.
 I suppose it will be like motoring soon, and every man
 in the States will have one.'
 
-`Being endowed by his Creator,' said [[Father Brown]] with a smile,
+‘Being endowed by his Creator,' said [[Father Brown]] with a smile,
 'with the right to life, liberty, and the pursuit of motoring--
 not to mention aviation.  So I suppose we may take it that one
 strange aeroplane passing over that [[house]], at certain times,
 wouldn't be noticed much.'
 
-`No,' replied the young man; `I don't suppose it would.'
+‘No,' replied the young man; ‘I don't suppose it would.'
 
-`Or even if the man were known,' went on the other, `I suppose
+‘Or even if the man were known,' went on the other, ‘I suppose
 he might get hold of a [[Machine|machine]] that wouldn't be recognized as his.
 If you, for instance, flew in the ordinary way, Mr Merton and his friends
 might recognize the rig--out, perhaps; but you might pass pretty near
 that [[Window|window]] on a different pattern of plane, or whatever you call it;
 near enough for practical purposes.'
 
-`Well, yes,' began the young man, almost automatically, and then ceased,
+‘Well, yes,' began the young man, almost automatically, and then ceased,
 and remained staring at the cleric with an open mouth and eyes standing
 out of his head.
 
-`My God!' he said, in a low voice;' my God!'
+‘My God!' he said, in a low voice;' my God!'
 
 Then he [[Rose|rose]] from the lounge seat, pale and shaking from head
 to foot and still staring at the priest.
 
-`Are you mad?' he said;' are you raving mad?'
+‘Are you mad?' he said;' are you raving mad?'
 
 There was a silence and then he spoke again in a swift hissing fashion.
-`You positively come here to suggest--`
+‘You positively come here to suggest--‘
 
-`No; only to collect suggestions,' said [[Father Brown]], rising.
-`I may have formed some conclusions provisionally, but I had better
+‘No; only to collect suggestions,' said [[Father Brown]], rising.
+‘I may have formed some conclusions provisionally, but I had better
 reserve them for the present.'
 
 And then saluting the other with the same stiff civility, he passed
@@ -1411,7 +1411,7 @@ had met yesterday, and made no demur to silting down with him
 on a bench in the cheap eating--house whither he was bound.
 It was not he, however, who began the conversation.
 
-`[[Well]]?' growled Drage, `and have you succeeded in avenging your holy
+‘[[Well]]?' growled Drage, ‘and have you succeeded in avenging your holy
 and sainted millionaire?  We know all millionaires are holy and sainted;
 you can find it all in the papers next day, about how they lived
 by the light of the Family Bible they read at their mother's knee.
@@ -1429,11 +1429,11 @@ delicate to walk at all.  But the shaft of the Lord found him out,
 as it might have done in the old Book, and struck him dead on
 the top of his tower to be a spectacle to the people.
 
-`The shaft was material, at least,' said his companion.
+‘The shaft was material, at least,' said his companion.
 
-`The Pyramids are mighty material, and they hold down
+‘The Pyramids are mighty material, and they hold down
 the dead kings all right,' grinned the man in the goggles.
-`I think there's a lot to be said for these old material religions.
+‘I think there's a lot to be said for these old material religions.
 There's old carvings that have lasted for thousands of years,
 showing their gods and emperors with bended bows; with hands
 that look as if they could really bend bows of stone.
@@ -1442,26 +1442,26 @@ stand staring at those old Eastern patterns and things,
 till you have a hunch that old Lord God is still driving
 like a dark [[Apollo]], and shooting black rays of [[Death|death]]?'
 
-`If he is,' replied Father Brown, `I might call him by another name.
+‘If he is,' replied Father Brown, ‘I might call him by another name.
 But I [[Doubt|doubt]] whether Merton died by a dark ray or even a stone arrow.'
 
-`I guess you think he's St Sebastian,' sneered Drage,
-`killed with an arrow.  A millionaire must be a martyr.
+‘I guess you think he's St Sebastian,' sneered Drage,
+‘killed with an arrow.  A millionaire must be a martyr.
 How do you know he didn't deserve it?  You don't know much
 about your millionaire, I fancy.  [[Well]], let me tell you
 he deserved it a hundred times over.'
 
-`Well,' asked Father Brown gently, `why didn't you murder him?'
+‘Well,' asked Father Brown gently, ‘why didn't you murder him?'
 
-`You want to know why I didn't?' said the other, staring.
-`[[Well]], you're a nice sort of clergyman.'
+‘You want to know why I didn't?' said the other, staring.
+‘[[Well]], you're a nice sort of clergyman.'
 
-`Not at all,' said the other, as if waving away a compliment.
+‘Not at all,' said the other, as if waving away a compliment.
 
-`I suppose it's your way of saying I did,' snarled Drage.
-`Well, prove it, that's all.  As for him, I reckon he was no loss.'
+‘I suppose it's your way of saying I did,' snarled Drage.
+‘Well, prove it, that's all.  As for him, I reckon he was no loss.'
 
-`Yes, he was,' said [[Father Brown]], sharply.  `He was a loss to you.
+‘Yes, he was,' said [[Father Brown]], sharply.  ‘He was a loss to you.
 That's why you didn't kill him.'
 
 And he walked out of the room, leaving the man in goggles
@@ -1496,20 +1496,20 @@ by a word out of the sky.
 
 Peter Wain leaned forward, the eyes bright in his haggard face, and said:
 
-`I'll bet on that, anyhow.  Norman Drage.'
+‘I'll bet on that, anyhow.  Norman Drage.'
 
-`And who in the world is Norman Drage?' asked his uncle.
+‘And who in the world is Norman Drage?' asked his uncle.
 
-`That's what I want to know,' replied the young man.
-`I practically asked him, but he has got a wonderful trick of twisting
+‘That's what I want to know,' replied the young man.
+‘I practically asked him, but he has got a wonderful trick of twisting
 every straight question crooked; it's like lunging at a fencer.
 He hooked on to me with hints about the flying--ship of the future;
 but I never trusted him much.'
 
-`But what sort of a man is he?' asked Crake.
+‘But what sort of a man is he?' asked Crake.
 
-`He's a mystagogue,' said Father Brown, with innocent promptitude.
-`There are quite a lot of them about; the sort of men about
+‘He's a mystagogue,' said Father Brown, with innocent promptitude.
+‘There are quite a lot of them about; the sort of men about
 town who hint to you in [[Paris]] cafes and cabarets that they've
 lifted the veil of Isis or know the secret of Stonehenge.
 In a case like this they're sure to have some sort
@@ -1518,11 +1518,11 @@ of mystical explanations.'
 The smooth, dark head of Mr Barnard Blake, the lawyer, was inclined
 politely towards the speaker, but his smile was faintly hostile.
 
-`I should hardly have thought, sir,' he said, `that you had any quarrel
+‘I should hardly have thought, sir,' he said, ‘that you had any quarrel
 with mystical explanations.'
 
-`On the contrary,' replied Father Brown, blinking amiably at him.
-`That's just why I can quarrel with `em. Any sham lawyer could bamboozle
+‘On the contrary,' replied Father Brown, blinking amiably at him.
+‘That's just why I can quarrel with ‘em. Any sham lawyer could bamboozle
 me, but he couldn't bamboozle you; because you're a lawyer yourself.
 Any fool could dress up as a Red Indian and I'd swallow him whole as
 the only original Hiawatha; but Mr Crake would see through him at once.
@@ -1536,22 +1536,22 @@ in darkness and secrecy, and when you find it, it's a platitude.
 But in the case of Drage, I admit he had also another and more practical
 notion in talking about fire from heaven or bolts from the blue.'
 
-`And what was his notion?' asked Wain.  `I think it wants watching
+‘And what was his notion?' asked Wain.  ‘I think it wants watching
 whatever it is.'
 
-`[[Well]],' replied the priest, slowly, `he wanted us to think the murders
+‘[[Well]],' replied the priest, slowly, ‘he wanted us to think the murders
 were miracles because . . . well, because he knew they weren't.'
 
-`Ah,' said Wain, with a sort of hiss, `I was waiting for that.
+‘Ah,' said Wain, with a sort of hiss, ‘I was waiting for that.
 In plain words, he is the criminal.'
 
-`In plain words, he is the criminal who didn't commit the crime,'
+‘In plain words, he is the criminal who didn't commit the crime,'
 answered [[Father Brown]] calmly.
 
-`Is that your conception of plain words?' inquired Blake politely.
+‘Is that your conception of plain words?' inquired Blake politely.
 
-`You'll be saying I'm the mystagogue now,' said [[Father Brown]]
-somewhat abashed, but with a broad smile, `but it was really
+‘You'll be saying I'm the mystagogue now,' said [[Father Brown]]
+somewhat abashed, but with a broad smile, ‘but it was really
 quite accidental.  Drage didn't commit the crime--I mean this crime.
 His only crime was blackmailing somebody, and he hung about here
 to do it; but he wasn't likely to want the secret to be public
@@ -1559,45 +1559,45 @@ property or the whole business to be cut short by death.
 We can talk about him afterwards.  Just at the moment,
 I only want him cleared out of the way.'
 
-`Out of the way of what?' asked the other.
+‘Out of the way of what?' asked the other.
 
-`Out of the way of the truth,' replied the priest, looking at
+‘Out of the way of the truth,' replied the priest, looking at
 him tranquilly, with level eyelids.
 
-`Do you mean,' faltered the other, `that you know the truth?'
+‘Do you mean,' faltered the other, ‘that you know the truth?'
 
-`I rather think so,' said [[Father Brown]] modestly.
+‘I rather think so,' said [[Father Brown]] modestly.
 
 There was an abrupt [[Silence|silence]], after which Crake cried out suddenly
 and irrelevantly in a rasping voice:
 
-`Why, where is that secretary fellow?  Wilton!  He ought to be here.'
+‘Why, where is that secretary fellow?  Wilton!  He ought to be here.'
 
-`I am in communication with Mr Wilton,' said [[Father Brown]] gravely;
-`in fact, I asked him to ring me up here in a few minutes from now.
+‘I am in communication with Mr Wilton,' said [[Father Brown]] gravely;
+‘in fact, I asked him to ring me up here in a few minutes from now.
 I may say that we've worked the thing out together, in a
 manner of speaking.'
 
-`If you're working together, I suppose it's all right,' grumbled Crake.
-`I know he was always a sort of bloodhound on the trail of his
+‘If you're working together, I suppose it's all right,' grumbled Crake.
+‘I know he was always a sort of bloodhound on the trail of his
 vanishing crook, so perhaps it was well to hunt in couples with him.
 But if you know the truth about this, where the devil did you
 get it from?'
 
-`I got it from you,' answered the priest, quietly, and continued
+‘I got it from you,' answered the priest, quietly, and continued
 to gaze mildly at the glaring veteran.'  I mean I made the first
 guess from a hint in a story of yours about an Indian who threw
 a knife and hit a man on the top of a fortress.'
 
-`You've said that several times,' said Wain, with a puzzled air;
-`but I can't see any inference, except that this murderer threw
+‘You've said that several times,' said Wain, with a puzzled air;
+‘but I can't see any inference, except that this murderer threw
 an arrow and hit a man on the top of a [[house]] very like a fortress.
 But of course the arrow wasn't thrown but shot, and would go
 much further.  Certainly it went uncommonly far; but I don't see
 how it brings us any farther.'
 
-`I'm afraid you missed the point of the story,' said Father Brown.
-`It isn't that if one thing cap go far another can go farther.
+‘I'm afraid you missed the point of the story,' said Father Brown.
+‘It isn't that if one thing cap go far another can go farther.
 It is that the wrong use of a tool can cut both ways.
 The men on Crake's fort thought of a knife as a thing for a hand--to--
 hand fight and forgot that it could be a missile like a javelin.
@@ -1607,63 +1607,63 @@ In short, the moral of the story is that since a dagger can be turned
 into an arrow, so can an arrow be turned into a dagger.'
 
 They were all looking at him now; but he continued in the
-same casual and unconscious tone:  `Naturally we wondered
+same casual and unconscious tone:  ‘Naturally we wondered
 and worried a good deal about who shot that arrow through
 the window and whether it came from far away, and so on.
 But the truth is that nobody shot the arrow at all.
 It never came in at the window at all.'
 
-`Then how did it come there?' asked the swarthy lawyer,
+‘Then how did it come there?' asked the swarthy lawyer,
 with a rather lowering face.
 
-`Somebody brought it with him, I suppose,' said Father Brown;
-`it wouldn't be hard to carry or conceal.  Somebody had it
+‘Somebody brought it with him, I suppose,' said Father Brown;
+‘it wouldn't be hard to carry or conceal.  Somebody had it
 in his hand as he stood with Merton in Merton's own room.
 Somebody thrust it into Merton's throat like a poignard,
 and then had the highly intelligent idea of placing the whole
 thing at such a place and angle that we all assumed in a flash
 that it had flown in at the [[Window|window]] like a bird.'
 
-`Somebody,' said old Crake, in a voice as heavy as stone.
+‘Somebody,' said old Crake, in a voice as heavy as stone.
 
 The telephone bell rang with a strident and horrible clamour
 of insistence.  It was in the adjoining room, and Father Brown
 had darted there before anybody else could move.
 
-`What the devil is it all about?' cried Peter Wain, who seemed
+‘What the devil is it all about?' cried Peter Wain, who seemed
 all shaken and distracted.
 
-`He said he expected to be rung up by Wilton, the secretary,'
+‘He said he expected to be rung up by Wilton, the secretary,'
 replied his uncle in the same dead voice.
 
-`I suppose it is Wilton?' observed the lawyer, like one speaking
+‘I suppose it is Wilton?' observed the lawyer, like one speaking
 to fill up a [[Silence|silence]].  But nobody answered the question until
 [[Father Brown]] reappeared suddenly and silently in the room,
 bringing the answer.
 
-`Gentlemen,' he said, when he had resumed his seat,' it was you who asked
+‘Gentlemen,' he said, when he had resumed his seat,' it was you who asked
 me to look into the truth about this puzzle; and having found the truth,
 I must tell it, without any pretence of softening the shock.
 I'm afraid anybody who pokes his nose into things like this can't afford
 to be a respecter of persons.'
 
-`I suppose,' said Crake, breaking the [[Silence|silence]] that followed,
-`that means that some of us are accused, or suspected.'
+‘I suppose,' said Crake, breaking the [[Silence|silence]] that followed,
+‘that means that some of us are accused, or suspected.'
 
-`All of us are suspected,' answered [[Father Brown]].
-`I may be suspected myself, for I found the body.'
+‘All of us are suspected,' answered [[Father Brown]].
+‘I may be suspected myself, for I found the body.'
 
-`Of course we're suspected,' snapped Wain.  `Father Brown
+‘Of course we're suspected,' snapped Wain.  ‘Father Brown
 kindly explained to me how I could have besieged the tower
 in a flying--machine.'
 
-`No,' replied the priest, with a smile; `you described to me how you
+‘No,' replied the priest, with a smile; ‘you described to me how you
 could have done it.  That was just the interesting part of it.'
 
-`He seemed to think it likely,' growled Crake, `that I killed
+‘He seemed to think it likely,' growled Crake, ‘that I killed
 him myself with a Red Indian arrow.'
 
-`I thought it most unlikely,' said [[Father Brown]], making rather
+‘I thought it most unlikely,' said [[Father Brown]], making rather
 a wry face.  I'm sorry if I did wrong, but I couldn't think
 of any other way of testing the matter.  I can hardly think
 of anything more improbable than the notion that Captain Wain went
@@ -1675,16 +1675,16 @@ somebody he could have killed in twenty much simpler ways.
 But I had to find out if they had had anything to do with it;
 and so I had to accuse them in order to prove their [[innocence]].'
 
-`And how have you proved their innocence?' asked Blake the lawyer,
+‘And how have you proved their innocence?' asked Blake the lawyer,
 leaning forward eagerly.
 
-`Only by the agitation they showed when they were accused,'
+‘Only by the agitation they showed when they were accused,'
 answered the other.
 
-`What do you mean, exactly?'
+‘What do you mean, exactly?'
 
-`If you will permit me to say so,' remarked [[Father Brown]],
-composedly enough, `I did undoubtedly think it my duty to suspect
+‘If you will permit me to say so,' remarked [[Father Brown]],
+composedly enough, ‘I did undoubtedly think it my duty to suspect
 them and everybody else.  I did suspect Mr Crake and I did suspect
 Captain Wain, in the sense that I considered the possibility or
 probability of their guilt.  I told them I had formed conclusions
@@ -1710,42 +1710,42 @@ with the thing and then remembering to deny it.  So I ruled you
 both out and others for other reasons I needn't discuss now.
 For instance, there was the secretary--
 
-`But I'm not talking about that just now.  Look here,
+‘But I'm not talking about that just now.  Look here,
 I've just heard from Wilton on the phone, and he's given
 me permission to tell you some rather serious news.
 Now I suppose you all know by this [[Time|time]] who Wilton was,
 and what he was after.'
 
-`I know he was after Daniel Doom and wouldn't be happy till he got him,'
-answered Peter Wain; `and I've heard the story that he's the son
+‘I know he was after Daniel Doom and wouldn't be happy till he got him,'
+answered Peter Wain; ‘and I've heard the story that he's the son
 of old Horder, and that's why he's the [[Avenger|avenger]] of [[Blood|blood]].
 Anyhow, he's certainly looking for the man called Doom.'
 
-`Well,' said Father Brown, `he has found him.'
+‘Well,' said Father Brown, ‘he has found him.'
 
 Peter Wain sprang to his feet in excitement.
 
-`The murderer!' he cried.  `Is the murderer in the lock--up already?'
+‘The murderer!' he cried.  ‘Is the murderer in the lock--up already?'
 
-`No,' said Father Brown, gravely; `I said the news
+‘No,' said Father Brown, gravely; ‘I said the news
 was serious, and it's more serious than that.
 I'm afraid poor Wilton has taken a terrible responsibility.
 I'm afraid he's going to put a terrible responsibility on us.
 He hunted the criminal down, and just when he had him cornered
 at last--[[Well|well]], he has taken the law into his own hands.'
 
-`You mean that Daniel Doom--` began the lawyer.
+‘You mean that Daniel Doom--‘ began the lawyer.
 
-`I mean that Daniel Doom is dead,' said the priest.
-`There was some sort of wild struggle, and Wilton killed him.'
+‘I mean that Daniel Doom is dead,' said the priest.
+‘There was some sort of wild struggle, and Wilton killed him.'
 
-`Serve him right,' growled Mr Hickory Crake.
+‘Serve him right,' growled Mr Hickory Crake.
 
-`Can't blame Wilton for downing a crook like that, especially considering
-the feud,' assented Wain; `it was like stepping on a viper.'
+‘Can't blame Wilton for downing a crook like that, especially considering
+the feud,' assented Wain; ‘it was like stepping on a viper.'
 
-`I don't agree with you,' said [[Father Brown]].
-`I suppose we all talk romantic stuff at random in defence
+‘I don't agree with you,' said [[Father Brown]].
+‘I suppose we all talk romantic stuff at random in defence
 of lynching and lawlessness; but I have a suspicion that
 if we lose our laws and liberties we shall regret it.
 Besides, it seems to me illogical to say there is something
@@ -1758,15 +1758,15 @@ both victims were thrown down just outside their houses.
 The objection to Wilton's way of doing it is that we shall
 never hear Doom's side of the case.'
 
-`Oh, I've no patience with all this sentimental whitewashing
+‘Oh, I've no patience with all this sentimental whitewashing
 of worthless, murderous blackguards,' cried Wain, heatedly.
-`If Wilton croaked the criminal he did a jolly good day's work,
+‘If Wilton croaked the criminal he did a jolly good day's work,
 and there's an end of it.'
 
-`Quite so, quite so,' said his uncle, nodding vigorously.
+‘Quite so, quite so,' said his uncle, nodding vigorously.
 
 [[Father Brown]]'s face had a yet heavier gravity as he looked slowly round
-the semicircle effaces.  `Is that really what you all think?' he asked.
+the semicircle effaces.  ‘Is that really what you all think?' he asked.
 Even as he did so he realized that he was an Englishman and an exile.
 He realized that he was among foreigners, even if he was among friends.
 Around that ring of foreigners ran a restless fire that was not
@@ -1774,7 +1774,7 @@ native to his own breed; the fiercer spirit of the western nation
 that can rebel and lynch, and above all, combine.  He knew that they
 had already combined.
 
-`[[Well]],' said [[Father Brown]], with a sigh, `I am to understand, then,
+‘[[Well]],' said [[Father Brown]], with a sigh, ‘I am to understand, then,
 that you do definitely condone this unfortunate man's crime,
 or act of private justice, or whatever you call it.
 In that case it will not hurt him if I tell you a little
@@ -1784,11 +1784,11 @@ He rose suddenly to his feet; and though they saw no meaning
 in his movement, it seemed in some way to change or chill
 the very air in the room.
 
-`Wilton killed Doom in a rather curious way,' he began.
+‘Wilton killed Doom in a rather curious way,' he began.
 
-`How did Wilton kill him?' asked Crake, abruptly.
+‘How did Wilton kill him?' asked Crake, abruptly.
 
-`With an arrow,' said [[Father Brown]].
+‘With an arrow,' said [[Father Brown]].
 
 Twilight was gathering in the long room, and daylight dwindling
 to a gleam from the great [[Window|window]] in the inner room, where the great
@@ -1797,15 +1797,15 @@ turned slowly towards it, but as yet there was no sound.
 Then the voice of Crake came cracked and high and senile in a sort
 of crowing gabble.
 
-`What you mean?  What you mean?  Brander Merton killed by an arrow.
-This crook killed by an arrow--`
+‘What you mean?  What you mean?  Brander Merton killed by an arrow.
+This crook killed by an arrow--‘
 
-`By the same arrow,' said the priest, `and at the same moment.'
+‘By the same arrow,' said the priest, ‘and at the same moment.'
 
 Again there was a sort of strangled and yet swollen and bursting [[Silence|silence]],
-and young Wain began:  `You mean--`
+and young Wain began:  ‘You mean--‘
 
-`I mean that your friend Merton was Daniel Doom,'
+‘I mean that your friend Merton was Daniel Doom,'
 said Father Brown firmly;' and the only Daniel Doom you'll
 ever find.  Your friend Merton was always crazy after that
 Coptic Cup that he used to worship like an idol every day;
@@ -1821,21 +1821,21 @@ hunt ended, and he slew the slayer of his father.'
 For a long time nobody answered.  Then old Crake could be heard
 drumming with his fingers on the table and muttering:
 
-`Brander must have been mad.  He must have been mad.'
+‘Brander must have been mad.  He must have been mad.'
 
-`But, good Lord!' burst out Peter Wain;' what are we to do?
+‘But, good Lord!' burst out Peter Wain;' what are we to do?
 What are we to say?  Oh, it's all quite different!
 What about the papers and the big business people?
 Brander Merton is a thing like the President or the Pope of Rome.'
 
-`I certainly think it is rather different,' began Barnard Blake,
-the lawyer, in a low voice.  `The difference involves a whole--`
+‘I certainly think it is rather different,' began Barnard Blake,
+the lawyer, in a low voice.  ‘The difference involves a whole--‘
 
 [[Father Brown]] struck the table so that the glasses on it rang;
 and they could almost fancy a ghostly echo from the mysterious
 chalice that still stood in the room beyond.
 
-`No!' he cried, in a voice like a pistol--shot.  `There shall
+‘No!' he cried, in a voice like a pistol--shot.  ‘There shall
 be no difference.  I gave you your chance of pitying
 the poor devil when you thought he was a common criminal.
 You wouldn't listen then; you were all for private vengeance then.
@@ -1848,11 +1848,11 @@ Take your wild justice or our dull legality; but in the name of
 Almighty God, let there be an equal lawlessness or an equal law.'
 
 Nobody answered except the lawyer, and he answered with something
-like a snarl:  `What will the police say if we tell them we mean
+like a snarl:  ‘What will the police say if we tell them we mean
 to condone a crime?'
 
-`What will they say if I tell them you did condone it?'
-replied [[Father Brown]].  `Your respect for the law comes rather late,
+‘What will they say if I tell them you did condone it?'
+replied [[Father Brown]].  ‘Your respect for the law comes rather late,
 Mr Barnard Blake.'
 
 After a pause he resumed in a milder tone:  'I, for one,
@@ -1870,7 +1870,7 @@ of the rainbow, and beyond it into a blue abyss of sky.
 
 THREE:  The Oracle of the Dog
 
-`YES,' said [[Father Brown]], `I always like a dog, so long
+‘YES,' said [[Father Brown]], ‘I always like a dog, so long
 as he isn't spelt backwards.'
 
 Those who are quick in talking are not always quick in listening.
@@ -1882,25 +1882,25 @@ brush but with the wind of the world as be rushed through it.
 But he stopped in the torrent of his talk in a momentary bewilderment
 before he saw the priest's very simple meaning.
 
-`You mean that people make too much of them?' he said.
-`Well, I don't know.  They're marvellous creatures.
+‘You mean that people make too much of them?' he said.
+‘Well, I don't know.  They're marvellous creatures.
 Sometimes I think they know a lot more than we do.'
 
 Father Brown said nothing, but continued to stroke the head of the big
 retriever in a half--abstracted but apparently soothing fashion.
 
-`Why,' said Fiennes, warming again to his monologue,
-`there was a dog in the case I've come to see you about:
-what they call the `Invisible Murder Case', you know.
+‘Why,' said Fiennes, warming again to his monologue,
+‘there was a dog in the case I've come to see you about:
+what they call the ‘Invisible Murder Case', you know.
 It's a strange story, but from my point of view the dog is about
 the strangest thing in it.  Of course, there's the mystery
 of the crime itself, and how old Druce can have been killed
-by somebody else when he was all [[Alone|alone]] in the [[Summer|summer]]--[[house]]--`
+by somebody else when he was all [[Alone|alone]] in the [[Summer|summer]]--[[house]]--‘
 
 The hand stroking the dog stopped for a moment in its rhythmic movement,
-and Father Brown said calmly:  `Oh, it was a [[Summer|summer]]--[[house]], was it?'
+and Father Brown said calmly:  ‘Oh, it was a [[Summer|summer]]--[[house]], was it?'
 
-`I thought you'd read all about it in the papers,' answered Fiennes.'
+‘I thought you'd read all about it in the papers,' answered Fiennes.'
 Stop a minute; I believe I've got a cutting that will give you
 all the particulars.'  He produced a strip of newspaper from
 his pocket and handed it to the priest, who began to read it,
@@ -1985,11 +1985,11 @@ entering under the shoulder--blade and piercing the heart.
 The police have searched the neighbourhood for such a weapon,
 but no trace of it can be found.
 
-`So Colonel Druce wore a white coat, did he?' said [[Father Brown]]
+‘So Colonel Druce wore a white coat, did he?' said [[Father Brown]]
 as he put down the paper.
 
-`Trick he learnt in the tropics,' replied Fiennes, with some wonder.
-`He'd had some queer adventures there, by his own account;
+‘Trick he learnt in the tropics,' replied Fiennes, with some wonder.
+‘He'd had some queer adventures there, by his own account;
 and I fancy his dislike of [[Valentine]] was connected with the doctor
 coming from the tropics, too.  But it's all an infernal puzzle.
 The account there is pretty accurate.  I didn't see the [[Tragedy|tragedy]],
@@ -2008,11 +2008,11 @@ This red--haired secretary, Floyd, is quite a character;
 a breathless bounding sort of fellow, always doing everybody's
 work as he was doing the gardener's. I think he is an American;
 he's certainly got the American view of life--what they call
-the view--point, bless `em.'
+the view--point, bless ‘em.'
 
-`What about the lawyer?' asked [[Father Brown]].  There was
+‘What about the lawyer?' asked [[Father Brown]].  There was
 a [[Silence|silence]] and then Fiennes spoke quite slowly for him.
-`Traill struck me as a singular man.  In his fine black clothes
+‘Traill struck me as a singular man.  In his fine black clothes
 he was almost foppish, yet you can hardly call him fashionable.
 For he wore a pair of long, luxuriant black whiskers
 such as haven't been seen since Victorian times.
@@ -2029,10 +2029,10 @@ At least there's only one exception I'd make, and that's why
 I really mentioned the whole thing.  The dog knows.'
 
 Father Brown sighed and then said absently:
-`You were there as a friend of young Donald, weren't you?
+‘You were there as a friend of young Donald, weren't you?
 He didn't go on your walk with you?'
 
-`No,' replied Fiennes smiling.  `The young scoundrel
+‘No,' replied Fiennes smiling.  ‘The young scoundrel
 had gone to bed that morning and got up that afternoon.
 I went with his cousins, two young officers from India,
 and our conversation was trivial enough.  I remember the elder,
@@ -2044,9 +2044,9 @@ I only mention it to show you, in the light of what happened
 on our walk, that there was nothing psychic about us.
 The dog was the only mystic in our company.'
 
-`What sort of a dog was he?' asked the priest.
+‘What sort of a dog was he?' asked the priest.
 
-`Same breed as that one,' answered Fiennes.  `That's what
+‘Same breed as that one,' answered Fiennes.  ‘That's what
 started me off on the story, your saying you didn't believe
 in believing in a dog.  He's a big black retriever, named Nox,
 and a suggestive name, too; for I think what he did
@@ -2076,7 +2076,7 @@ of the clock were really very ominous things that afternoon.
 According to Dr Valentine's testimony, poor Druce had actually
 died just about half past four.
 
-`[[Well]], they said we needn't go [[Home|home]] for ten minutes, and we walked
+‘[[Well]], they said we needn't go [[Home|home]] for ten minutes, and we walked
 a little farther along the sands, doing nothing in particular--
 throwing stones for the dog and throwing sticks into the sea for,
 him to swim after.  But to me the twilight seemed to grow
@@ -2090,7 +2090,7 @@ He came back again on to the shore and stood in front of us.
 Then he suddenly threw up his head and sent up a howl or wail
 of woe--if ever I heard one in the world.
 
-``What the devil's the matter with the dog?` asked Herbert;
+‘‘What the devil's the matter with the dog?‘ asked Herbert;
 but none of us could answer.  There was a long silence
 after the brute's wailing and whining died away on
 the desolate shore; and then the silence was broken.
@@ -2100,11 +2100,11 @@ We didn't know what it was then; but we knew afterwards.
 It was the cry the girl gave when she first saw the body
 of her father.'
 
-`You went back, I suppose,' said [[Father Brown]] patiently.
-`What happened then?'
+‘You went back, I suppose,' said [[Father Brown]] patiently.
+‘What happened then?'
 
-`I'll tell you what happened then,' said Fiennes with a grim emphasis.
-`When we got back into that garden the first thing we saw
+‘I'll tell you what happened then,' said Fiennes with a grim emphasis.
+‘When we got back into that garden the first thing we saw
 was Traill, the lawyer; I can see him now with his black hat
 and black whiskers relieved against the perspective of the blue
 flowers stretching down to the summer--house, with the sunset
@@ -2117,7 +2117,7 @@ that were almost verbal in their dreadful distinctness of hatred.
 And the man doubled up and fled, along the path between the flowers.'
 
 Father Brown sprang to his feet with a startling impatience.
-`So the dog denounced him, did he?' he cried.  `The oracle
+‘So the dog denounced him, did he?' he cried.  ‘The oracle
 of the dog condemned him.  Did you see what birds were flying,
 and are you sure whether they were on the right hand or the left?
 Did you consult the augurs about the sacrifices?  Surely you
@@ -2127,17 +2127,17 @@ seem to trust when you are thinking of taking away the life
 and honour of a man.'
 
 Fiennes sat gaping for an instant before he found breath to say:
-`Why, what's the matter with you?  What have I done now?'
+‘Why, what's the matter with you?  What have I done now?'
 A sort of anxiety came back into the priest's eyes--the anxiety
 of a man who has run against a post in the dark and wonders
 for a moment whether he has hurt it.
 
-`I'm most awfully sorry,' he said with sincere distress.
-`I beg your pardon for being so rude; pray forgive me.'
+‘I'm most awfully sorry,' he said with sincere distress.
+‘I beg your pardon for being so rude; pray forgive me.'
 
-Fiennes looked at him curiously.  `I sometimes think you
+Fiennes looked at him curiously.  ‘I sometimes think you
 are more of a mystery than any of the mysteries,' he said.
-`But anyhow, if you don't believe in the mystery of the dog,
+‘But anyhow, if you don't believe in the mystery of the dog,
 at least you can't get over the mystery of the man.
 You can't deny that at the very moment when the beast came
 back from the sea and bellowed, his master's [[Soul|soul]] was driven
@@ -2156,10 +2156,10 @@ The whole [[house]], [[Garden|garden]], and shore were combed for a weapon.
 The disappearance of the dagger is almost as crazy as the
 disappearance of the man.'
 
-`The disappearance of the dagger,' said Father Brown, nodding.
+‘The disappearance of the dagger,' said Father Brown, nodding.
 He seemed to have become suddenly attentive.
 
-`[[Well]],' continued Fiennes, `I told you that man Traill had a trick
+‘[[Well]],' continued Fiennes, ‘I told you that man Traill had a trick
 of fidgeting with his tie and tie--pin--especially his tie--pin.
 His pin, like himself, was at once showy and old--fashioned.
 It had one of those stones with concentric coloured rings that look
@@ -2169,11 +2169,11 @@ But the pin was not only large but long; and it occurred to me
 that his anxiety about its adjustment was because it was even longer
 than it looked; as long as a stiletto in fact.'
 
-Father Brown nodded thoughtfully.  `Was any other instrument
+Father Brown nodded thoughtfully.  ‘Was any other instrument
 ever suggested?' he asked.
 
-`There was another suggestion,' answered Fiennes,
-`from one of the young Druces--the cousins, I mean.
+‘There was another suggestion,' answered Fiennes,
+‘from one of the young Druces--the cousins, I mean.
 Neither Herbert nor Harry Druce would have struck one at
 first as likely to be of assistance in scientific detection;
 but while Herbert was really the traditional type of heavy Dragoon,
@@ -2191,9 +2191,9 @@ an argument that led--to something new.  It began by his
 countering my description of the dog barking at Traill;
 and he said that a dog at his worst didn't bark, but growled.'
 
-`He was quite right there,' observed the priest.
+‘He was quite right there,' observed the priest.
 
-`This young fellow went on to say that, if it came to that, he'd heard
+‘This young fellow went on to say that, if it came to that, he'd heard
 Nox growling at other people before then; and among others at Floyd,
 the secretary.  I retorted that his own argument answered itself;
 for the crime couldn't be brought [[Home|home]] to two or three people, and least
@@ -2201,8 +2201,8 @@ of all to Floyd, who was as [[Innocent|innocent]] as a harum--scarum schoolboy,
 and had been seen by everybody all the [[Time|time]] perched above the [[Garden|garden]]
 hedge with his fan of red hair as conspicuous as a scarlet cockatoo.
 
-`I know there's difficulties anyhow,' said my colleague,
-`but I wish you'd come with me down the [[Garden|garden]] a minute.
+‘I know there's difficulties anyhow,' said my colleague,
+‘but I wish you'd come with me down the [[Garden|garden]] a minute.
 I want to show you something I don't think any one else has seen.'
 This was on the very day of the discovery, and the [[Garden|garden]]
 was just as it had been.  The step--ladder was still
@@ -2212,24 +2212,24 @@ It was the sheers used for clipping the hedge, and on the point
 of one of them was a smear of [[Blood|blood]].'
 
 There was a short [[Silence|silence]], and then [[Father Brown]] said suddenly;
-`What was the lawyer there for?'
+‘What was the lawyer there for?'
 
-`He fold us the Colonel sent for him to alter his will,'
-answered Fiennes.  `And, by the way, there was another thing
+‘He fold us the Colonel sent for him to alter his will,'
+answered Fiennes.  ‘And, by the way, there was another thing
 about the business of the will that I ought to mention.
 You see, the will wasn't actually signed in the summer--
 house that afternoon.'
 
-`I suppose not,' said [[Father Brown]]; `there would have to
+‘I suppose not,' said [[Father Brown]]; ‘there would have to
 be two witnesses.'
 
-`The lawyer actually came down the day before and it was signed then;
+‘The lawyer actually came down the day before and it was signed then;
 but he was sent for again next day because the old man had a [[Doubt|doubt]]
 about one of the witnesses and had to be reassured.'
 
-`Who were the witnesses?' asked Father Brown.
+‘Who were the witnesses?' asked Father Brown.
 
-`That's just the point,' replied his informant eagerly, `the witnesses
+‘That's just the point,' replied his informant eagerly, ‘the witnesses
 were Floyd, the secretary, and this Dr Valentine, the foreign
 sort of surgeon or whatever he is; and the two had a quarrel.
 Now I'm bound to say that the secretary is something of a busybody.
@@ -2248,13 +2248,13 @@ He said it would invalidate the will; of course he was kind
 enough to explain to the lawyer what the law was on that point.
 They were both in a frightful wax.'
 
-Father Brown laughed.  `People often are when they are to witness a will,'
-he said; `for one thing, it means that they can't have any legacy
+Father Brown laughed.  ‘People often are when they are to witness a will,'
+he said; ‘for one thing, it means that they can't have any legacy
 under it.  But what did Dr Valentine say?  No doubt the universal
 secretary knew more about the doctor's name than the doctor did.
 But even the doctor might have some information about his own name.'
 
-Fiennes paused a moment before he replied.  `Dr [[Valentine]] took it in a
+Fiennes paused a moment before he replied.  ‘Dr [[Valentine]] took it in a
 curious way.  Dr [[Valentine]] is a curious man.  His appearance is rather
 striking but very foreign.  He is young but wears a beard cut square;
 and his face is very pale, dreadfully pale--and dreadfully serious.
@@ -2286,47 +2286,47 @@ or saying that no provocation could justify killing anybody;
 which seems an unusual sort of talk to address to a gentleman who has
 dropped in to tea.'
 
-`Do you know,' asked the priest, `whether Dr [[Valentine]] seemed to be
+‘Do you know,' asked the priest, ‘whether Dr [[Valentine]] seemed to be
 very angry after the scene with the secretary and the Colonel--I mean
 about witnessing the will?'
 
-`By all accounts,' replied the other, `he wasn't half so angry
+‘By all accounts,' replied the other, ‘he wasn't half so angry
 as the secretary was.  It was the secretary who went away raging
 after witnessing the will.'
 
-`And now,' said Father Brown,' what about the will itself?'
+‘And now,' said Father Brown,' what about the will itself?'
 
-`The Colonel was a very wealthy man, and his will was important.
+‘The Colonel was a very wealthy man, and his will was important.
 Traill wouldn't tell us the alteration at that stage,
 but I have since heard only this morning in fact--that most
 of the money was transferred from the son to the daughter.
 I told you that Druce was wild with my friend Donald over
 his dissipated hours.'
 
-`The question of motive has been rather over--shadowed by
+‘The question of motive has been rather over--shadowed by
 the question of method,' observed Father Brown thoughtfully.
-`At that moment, apparently, Miss Druce was the immediate
+‘At that moment, apparently, Miss Druce was the immediate
 gainer by the [[Death|death]].'
 
-`Good God!  What a cold--blooded way of talking,' cried Fiennes,
-staring at him.  `You don't really mean to hint that she--`
+‘Good God!  What a cold--blooded way of talking,' cried Fiennes,
+staring at him.  ‘You don't really mean to hint that she--‘
 
-`Is she going to marry that Dr [[Valentine]]?' asked the other.
+‘Is she going to marry that Dr [[Valentine]]?' asked the other.
 
-`Some people are against it,' answered his friend.
-`But he is liked and respected in the place and is a skilled
+‘Some people are against it,' answered his friend.
+‘But he is liked and respected in the place and is a skilled
 and devoted surgeon.'
 
-`So devoted a surgeon,' said Father Brown, `that he had surgical
+‘So devoted a surgeon,' said Father Brown, ‘that he had surgical
 instruments with him when he went to call on the young lady at teatime.
 For he must have used a lancet or something, and he never seems
 to have gone [[Home|home]].'
 
 Fiennes sprang to his feet and looked at him in a heat of inquiry.
-'You suggest he might have used the very same lancet--`
+'You suggest he might have used the very same lancet--‘
 
-Father Brown shook his head.  `All these suggestions are fancies
-just now,' he said.  `The problem is not who did it or what did it,
+Father Brown shook his head.  ‘All these suggestions are fancies
+just now,' he said.  ‘The problem is not who did it or what did it,
 but how it was done.  We might find many men and even many tools--
 pins and shears and lancets.  But how did a man get into the room?
 How did even a pin get into it?'
@@ -2335,11 +2335,11 @@ He was staring reflectively at the ceiling as he spoke,
 but as he said the last words his eye cocked in an alert fashion
 as if he had suddenly seen a curious fly on the ceiling.
 
-`[[Well]], what would you do about it?' asked the young man.
-`You have a lot of experience; what would you advise now?'
+‘[[Well]], what would you do about it?' asked the young man.
+‘You have a lot of experience; what would you advise now?'
 
-`I'm afraid I'm not much use,' said [[Father Brown]] with a sigh.
-`I can't suggest very much without having ever been near
+‘I'm afraid I'm not much use,' said [[Father Brown]] with a sigh.
+‘I can't suggest very much without having ever been near
 the place or the people.  For the moment you can only go
 on with local inquiries.  I gather that your friend from
 the Indian Police is more or less in charge of your inquiry
@@ -2359,7 +2359,7 @@ the enthusiasm.  He had been excited in a less pleasant fashion,
 for his blue eyes seemed to start from his head and his eager
 face was even a little pale.
 
-`You told me,' he said abruptly and without preface, `to find
+‘You told me,' he said abruptly and without preface, ‘to find
 out what Harry Druce was doing.  Do you know what he's done?'
 The priest did not reply, and the young man went on in jerky tones:
 I'll tell you what he's done.  He's killed himself.'
@@ -2368,14 +2368,14 @@ Father Brown's lips moved only faintly, and there was nothing
 practical about what he was saying--nothing that has anything
 to do with this story or this world.
 
-`You give me the creeps sometimes,' said Fiennes.  `Did you--
+‘You give me the creeps sometimes,' said Fiennes.  ‘Did you--
 did you expect this?'
 
-`I thought it possible,' said [[Father Brown]]; `that was why I asked you
+‘I thought it possible,' said [[Father Brown]]; ‘that was why I asked you
 to go and see what he was doing.  I hoped you might not be too late.'
 
-`It was I who found him,' said Fiennes rather huskily.
-`It was the ugliest and most uncanny thing fever knew.
+‘It was I who found him,' said Fiennes rather huskily.
+‘It was the ugliest and most uncanny thing fever knew.
 I went down that old garden again, and I knew there was
 something new and unnatural about it besides the murder.
 The flowers still tossed about in blue masses on each side
@@ -2390,7 +2390,7 @@ The Rock of Fortune was gone.'
 
 Father Brown had lifted his head and was listening intently.
 
-`It was as if a mountain had walked away out of a landscape
+‘It was as if a mountain had walked away out of a landscape
 or a [[Moon|moon]] fallen from the sky; though I knew, of course,
 that a touch at any [[Time|time]] would have tipped the thing over.
 Something possessed me and I rushed down that [[Garden|garden]] path
@@ -2402,31 +2402,31 @@ and poor Harry Druce lay like a wreck underneath it.
 One arm was thrown round it in a sort of embrace as if he had
 pulled it down on himself; and on the broad brown sands beside it,
 in large crazy lettering, he had scrawled the words:
-`The Rock of Fortune falls on the Fool'.'--
+‘The Rock of Fortune falls on the Fool'.'--
 
-`It was the Colonel's will that did that,' observed [[Father Brown]].
-`The young man had staked everything on profiting himself
+‘It was the Colonel's will that did that,' observed [[Father Brown]].
+‘The young man had staked everything on profiting himself
 by Donald's disgrace, especially when his uncle sent for him on
 the same day as the lawyer, and welcomed him with so much warmth.
 Otherwise he was done; he'd lost his police job; he was beggared
 at Monte Carlo.  And he killed himself when he found he'd killed
 his kinsman for nothing.'
 
-`Here, stop a minute!' cried the staring Fiennes.
-`You're going too fast for me.'
+‘Here, stop a minute!' cried the staring Fiennes.
+‘You're going too fast for me.'
 
-`Talking about the will, by the way,' continued [[Father Brown]] calmly,'
+‘Talking about the will, by the way,' continued [[Father Brown]] calmly,'
 before I forget it, or we go on to bigger things, there was a simple
 explanation, I think, of all that business about the doctor's name.
 I rather fancy I have heard both names before somewhere.
 The doctor is really a French nobleman with the title of the Marquis
 de Villon.  But he is also an ardent Republican and has abandoned
 his title and fallen back on the forgotten family surname.
-`With your Citizen Riquetti you have puzzled Europe for ten days.'
+‘With your Citizen Riquetti you have puzzled Europe for ten days.'
 
-`What is that?' asked the young man blankly.
+‘What is that?' asked the young man blankly.
 
-`Never mind,' said the priest.  `Nine times out of ten it
+‘Never mind,' said the priest.  ‘Nine times out of ten it
 is a rascally thing to change one's name; but this was a piece
 of fine [[Fanaticism|fanaticism]].  That's the point of his sarcasm about
 Americans having no names--that is, no titles.  Now in England
@@ -2437,11 +2437,11 @@ about killing, I fancy that also was a point of French etiquette.
 The doctor was talking about challenging Floyd to a duel,
 and the girl was trying to dissuade him.'
 
-`Oh, I see,' cried Fiennes slowly.  `Now I understand what she meant.'
+‘Oh, I see,' cried Fiennes slowly.  ‘Now I understand what she meant.'
 
-`And what is that about?' asked his companion, smiling.
+‘And what is that about?' asked his companion, smiling.
 
-`[[Well]],' said the young man, `it was something that happened to me
+‘[[Well]],' said the young man, ‘it was something that happened to me
 just before I found that poor fellow's body; only the catastrophe
 drove it out of my head.  I suppose it's hard to remember a little
 romantic idyll when you've just come on top of a tragedy.
@@ -2457,7 +2457,7 @@ continuing his practice.  This rather surprised me, because I
 knew that her old father's will had left her his property;
 and I hinted at it delicately by saying I was going along to her
 father's old place and had half expected to meet her there.
-But she only laughed and said:  `Oh, we've given up all that.
+But she only laughed and said:  ‘Oh, we've given up all that.
 My husband doesn't like heiresses.'  And I discovered with some
 astonishment they really had insisted on restoring the property
 to poor Donald; so I [[Hope|hope]] he's had a healthy shock and will treat
@@ -2468,19 +2468,19 @@ understand at the [[Time|time]]; but now I'm sure it must be as you say.
 She said with a sort of sudden and splendid arrogance that
 was entirely altruistic:
 
-``I [[Hope|hope]] it'll stop that red--haired [[Fool|fool]] from fussing any more
+‘‘I [[Hope|hope]] it'll stop that red--haired [[Fool|fool]] from fussing any more
 about the will.  Does he think my husband, who has given up
 a crest and a coronet as old as the [[Crusades]] for his principles,
 would kill an old man in a [[Summer|summer]]--[[house]] for a legacy like that?'
-Then she laughed again and said, `My husband isn't killing
+Then she laughed again and said, ‘My husband isn't killing
 anybody except in the way of business.  Why, he didn't even
 ask his friends to call on the secretary.'  Now, of course,
 I see what she meant.'
 
-`I see part of what she meant, of course,' said [[Father Brown]].
-`What did she mean exactly by the secretary fussing about the will?'
+‘I see part of what she meant, of course,' said [[Father Brown]].
+‘What did she mean exactly by the secretary fussing about the will?'
 
-Fiennes smiled as he answered, `I wish you knew the secretary,
+Fiennes smiled as he answered, ‘I wish you knew the secretary,
 [[Father Brown]].  It would be a joy to you to watch him make things hum,
 as he calls it.  He made the [[house]] of mourning hum.  He filled
 the funeral with all the snap and zip of the brightest sporting event.
@@ -2505,19 +2505,19 @@ It's just the sort of theory a man would have in a book;
 and Floyd is the sort of man who ought to be in a book.
 He'd be better fun and less bother in a book.'
 
-`What was his theory?' asked the other.
+‘What was his theory?' asked the other.
 
-`Oh, it was full of pep,' replied Fiennes gloomily.  `It would have been
+‘Oh, it was full of pep,' replied Fiennes gloomily.  ‘It would have been
 glorious copy if it could have held together for ten minutes longer.
 He said the Colonel was still alive when they found him in the summer--
 house, and the doctor killed him with the surgical instrument on pretence
 of cutting the clothes.'
 
-`I see,' said the priest.  `I suppose he was lying flat on his face
+‘I see,' said the priest.  ‘I suppose he was lying flat on his face
 on the mud floor as a form of siesta.'
 
-`It's wonderful what hustle will do,' continued his informant.
-` I believe Floyd would have got his great theory into the papers at
+‘It's wonderful what hustle will do,' continued his informant.
+‘ I believe Floyd would have got his great theory into the papers at
 any rate, and perhaps had the doctor attested, when all these things
 were blown sky high as if by dynamite by the discovery of that dead
 body lying under the Rock of Fortune.  And that's what we come
@@ -2525,9 +2525,9 @@ back to after all.  I suppose the suicide is almost a confession.
 But nobody will ever know the whole story.'
 
 There was a silence, and then the priest said modestly:
-`I rather think I know the whole story.'
+‘I rather think I know the whole story.'
 
-Fiennes stared.  `But look here,' he cried; `how do you come
+Fiennes stared.  ‘But look here,' he cried; ‘how do you come
 to know the whole story, or to be sure it's the true story?
 You've been sitting here a hundred miles away writing a sermon;
 do you mean to tell me you really know what happened already?
@@ -2537,19 +2537,19 @@ What started you off with your own story?'
 [[Father Brown]] jumped up with a very unusual excitement and his
 first exclamation was like an explosion.
 
-`The dog!' he cried.  `The dog, of course!  You had the whole
+‘The dog!' he cried.  ‘The dog, of course!  You had the whole
 story in your hands in the business of the dog on the beach,
 if you'd only noticed the dog properly.'
 
-Fiennes stared still more.  `But you told me before that my feelings
+Fiennes stared still more.  ‘But you told me before that my feelings
 about the dog were all nonsense, and the dog had nothing to do with it.'
 
-`The dog had everything to do with it,' said [[Father Brown]],
-`as you'd have found out if you'd only treated the dog as a dog,
+‘The dog had everything to do with it,' said [[Father Brown]],
+‘as you'd have found out if you'd only treated the dog as a dog,
 and not as God Almighty judging the souls of men.'
 
 He paused in an embarrassed way for a moment, and then said,
-with a rather pathetic air of apology:  `The [[Truth|truth]] is, I happen
+with a rather pathetic air of apology:  ‘The [[Truth|truth]] is, I happen
 to be awfully fond of [[dogs]].  And it seemed to me that in all
 this lurid halo of dog superstitions nobody was really thinking
 about the poor dog at all.  To begin with a small point,
@@ -2564,7 +2564,7 @@ is nervy and jumpy, too; those Yankee hustlers often are.
 Otherwise he wouldn't have cut his fingers on the shears
 and dropped them when he heard Janet Druce scream.
 
-`Now dogs hate nervous people.  I don't know whether they make
+‘Now dogs hate nervous people.  I don't know whether they make
 the dog nervous, too; or whether, being after all a brute,
 he is a bit of a bully; or whether his canine vanity
 (which is colossal) is simply offended at not being liked.
@@ -2602,7 +2602,7 @@ People have a panic like that when they are frightened,
 not of tragic ironies, but of teeth.  The whole thing is simpler
 than you can understand.
 
-`But when we come to that business by the seashore, things are much
+‘But when we come to that business by the seashore, things are much
 more interesting.  As you stated them, they were much more puzzling.
 I didn't understand that tale of the dog going in and out
 of the [[Water|water]]; it didn't seem to me a doggy thing to do.
@@ -2615,11 +2615,11 @@ but the most peremptory command, and not always for that.
 That he should turn round because his mood changed seems
 to me unthinkable.'
 
-`But he did turn round,' insisted Fiennes; `and came back
+‘But he did turn round,' insisted Fiennes; ‘and came back
 without the stick.'
 
-`He came back without the stick for the best reason in the world,'
-replied the priest.  `He came back because he couldn't find it.
+‘He came back without the stick for the best reason in the world,'
+replied the priest.  ‘He came back because he couldn't find it.
 He whined because be couldn't find it.  That's the sort of thing
 a dog really does whine about.  A dog is a devil of a ritualist.
 He is as particular about the precise routine of a game as a [[Child|child]]
@@ -2629,21 +2629,21 @@ of the conduct of the stick.  Never had such a thing happened before.
 Never had an eminent and distinguished dog been so treated by a rotten
 old walking--stick.'
 
-`Why, what had the walking--stick done?' inquired the young man.
+‘Why, what had the walking--stick done?' inquired the young man.
 
-`It had sunk,' said [[Father Brown]].
+‘It had sunk,' said [[Father Brown]].
 
 Fiennes said nothing, but continued to stare; and it was the priest
-who continued:  `It had sunk because it was not really a stick,
+who continued:  ‘It had sunk because it was not really a stick,
 but a rod of steel with a very thin shell of cane and a sharp point.
 In other words, it was a sword stick.  I suppose a murderer never gets
 rid of a bloody weapon so oddly and yet so naturally as by throwing
 it into the sea for a retriever.'
 
-`I begin to see what you mean,' admitted Fiennes;' but even if a [[Sword|sword]]--
+‘I begin to see what you mean,' admitted Fiennes;' but even if a [[Sword|sword]]--
 stick was used, I have no guess of how it was used.'
 
-`I had a sort of guess,' said Father Brown, `right at the beginning when
+‘I had a sort of guess,' said Father Brown, ‘right at the beginning when
 you said the word [[Summer|summer]]--[[house]].  And another when you said that Druce
 wore a white coat.  As long as everybody was looking for a short dagger,
 nobody thought of it; but if we admit a rather long blade like a rapier,
@@ -2652,7 +2652,7 @@ it's not so impossible.'
 He was leaning back, looking at the ceiling, and began like one going
 back to his own first thoughts and fundamentals.
 
-`All that discussion about detective stories like the Yellow Room,
+‘All that discussion about detective stories like the Yellow Room,
 about a man found dead in sealed chambers which no one
 could enter, does not apply to the present case, because it
 is a summer--house.  When we talk of a Yellow Room, or any room,
@@ -2669,7 +2669,7 @@ A man standing outside it could easily see, amid a network
 of twigs and branches and canes, one white spot of the Colonel's
 coat as plain as the white of a target.
 
-`Now, you left the geography a little vague; but it was possible to put
+‘Now, you left the geography a little vague; but it was possible to put
 two and two together.  You said the Rock of Fortune was not really high;
 but you also said it could be seen dominating the [[Garden|garden]] like
 a mountain--peak.  In other words, it was very near the end of the [[Garden|garden]],
@@ -2680,28 +2680,28 @@ And among other interesting things that you told me, may I remind
 you that you said Harry Druce had fallen behind to light his pipe
 under a hedge.'
 
-Fiennes shuddered slightly.  `You mean he drew his blade
+Fiennes shuddered slightly.  ‘You mean he drew his blade
 there and sent it through the hedge at the white spot.
 But surely it was a very odd chance and a very sudden choice.
 Besides, he couldn't be certain the old man's money had passed
 to him, and as a fact it hadn't.'
 
-Father Brown's face became animated.  `You misunderstand
+Father Brown's face became animated.  ‘You misunderstand
 the man's character,' he said, as if he himself had known the man
-all his life.  `A curious but not unknown type of character.
+all his life.  ‘A curious but not unknown type of character.
 If he had really known the money would come to him, I seriously
 believe he wouldn't have done it.  He would have seen it
 as the dirty thing it was.'
 
-`Isn't that rather paradoxical?' asked the other.
+‘Isn't that rather paradoxical?' asked the other.
 
-`This man was a gambler,' said the priest, `and a man
+‘This man was a gambler,' said the priest, ‘and a man
 in disgrace for having taken risks and anticipated orders.
 It was probably for something pretty unscrupulous, for every imperial
 police is more like a Russian secret police than we like to think.
 But he had gone beyond the line and failed.  Now, the [[Temptation|temptation]]
 of that type of man is to do a mad thing precisely because the risk
-will be wonderful in retrospect.  He wants to say, `Nobody but I
+will be wonderful in retrospect.  He wants to say, ‘Nobody but I
 could have seized that chance or seen that it was then or never.
 What a wild and wonderful guess it was, when I put all those
 things together; Donald in disgrace; and the lawyer being sent for;
@@ -2723,7 +2723,7 @@ It would be too respectable.'
 
 He paused a moment, and then went on with a certain quiet emphasis.
 
-`And now try to call up the scene, even as you saw it yourself.
+‘And now try to call up the scene, even as you saw it yourself.
 As he stood there, dizzy with his diabolical opportunity,
 he looked up and saw that strange outline that might have
 been the image of his own tottering [[Soul|soul]]; the one great crag
@@ -2749,10 +2749,10 @@ Fiennes nodded, gazing thoughtfully into space.
 His mind seemed to have drifted back to a less practical part
 of the narrative.
 
-`It's queer,' he said, `that the dog really was in the story after all.'
+‘It's queer,' he said, ‘that the dog really was in the story after all.'
 
-`The dog could almost have told you the story, if he could talk,'
-said the priest.  `All I complain of is that because he couldn't
+‘The dog could almost have told you the story, if he could talk,'
+said the priest.  ‘All I complain of is that because he couldn't
 talk you made up his story for him, and made him talk with
 the tongues of men and angels.  It's part of something I've
 noticed more and more in the modern world, appearing in all
@@ -2763,7 +2763,7 @@ It's drowning all your old rationalism and scepticism,
 it's coming in like a sea; and the name of it is superstition.'
 He stood up abruptly, his face heavy with a sort of frown,
 and went on talking almost as if he were [[Alone|alone]].
-`It's the first effect of not believing in God that you
+‘It's the first effect of not believing in God that you
 lose your common sense and can't see things as they are.
 Anything that anybody talks about, and says there's a good deal
 in it, extends itself indefinitely like a vista in a nightmare.
@@ -2775,7 +2775,7 @@ to the bestial gods of the beginning, escaping into elephants
 and snakes and crocodiles; and all because you are frightened
 of four words:
 
-`He was made Man'.'
+‘He was made Man'.'
 
 The young man got up with a little embarrassment, almost as if he had
 overheard a soliloquy.  He called to the dog and left the room
@@ -2802,7 +2802,7 @@ At one extremity or horn of the crescent its last windows
 looked over an enclosure like a strip of a gentleman's park,
 with trees and hedges as formal as a [[Queen]] Anne [[Garden|garden]].
 But immediately round the corner, the other windows, even of
-the same rooms, or rather `apartments', looked out on the blank,
+the same rooms, or rather ‘apartments', looked out on the blank,
 unsightly wall of a huge warehouse attached to some ugly industry.
 The apartments of Moon Crescent itself were at that end remodelled
 on the monotonous pattern of an American hotel, and rose to
@@ -2871,9 +2871,9 @@ for Wynd, with characteristic thoroughness, had rented the whole
 floor above, and turned it into a loft or storeroom, where all his
 other papers and possessions were stacked in boxes and corded bales.
 
-`Give these to the floor--clerk, Wilson,' said Wynd to the servant
-holding the letters, `and then get me the pamphlet on the
-Minneapolis Night Clubs; you'll find it in the bundle marked `G'.
+‘Give these to the floor--clerk, Wilson,' said Wynd to the servant
+holding the letters, ‘and then get me the pamphlet on the
+Minneapolis Night Clubs; you'll find it in the bundle marked ‘G'.
 I shall want it in half an hour, but don't disturb me till then.
 [[Well]], Mr Vandam, I think your proposition sounds very promising;
 but I can't give a final answer till I've seen the report.
@@ -2884,10 +2884,10 @@ Mr Vandam seemed to feel that this was something like a polite dismissal;
 and his sallow, saturnine face suggested that he found a certain irony
 in the fact.
 
-`Well, I suppose I must be going,' he said.
+‘Well, I suppose I must be going,' he said.
 
-`Very good of you to call, Mr Vandam,' said Wynd, politely;
-`you will excuse my not coming out, as I've something here I
+‘Very good of you to call, Mr Vandam,' said Wynd, politely;
+‘you will excuse my not coming out, as I've something here I
 must fix at once.  Fenner,' he added to the secretary,'
 show Mr Vandam to his car, and don't come back again for half
 an hour.  I've something here I want to work out by myself;
@@ -2907,37 +2907,37 @@ almost equally wide fringe or halo of almost equally white hair.
 Set in this aureole his face was strong and handsome, like that of
 a Roman emperor, save that there was something more than boyish,
 something a little childish, about the brightness of his eyes
-and the beatitude of his smile.  `Mr Warren Wynd in?' he asked,
+and the beatitude of his smile.  ‘Mr Warren Wynd in?' he asked,
 in hearty tones.
 
-`Mr Warren Wynd is engaged,' said Fenner; `he must not be disturbed on
+‘Mr Warren Wynd is engaged,' said Fenner; ‘he must not be disturbed on
 any account.  I may say I am his secretary and can take any message.'
 
-`Mr Warren Wynd is not at home to the Pope or the Crowned Heads,'
-said Vandam, the oil magnate, with sour satire.  `Mr Warren Wynd
+‘Mr Warren Wynd is not at home to the Pope or the Crowned Heads,'
+said Vandam, the oil magnate, with sour satire.  ‘Mr Warren Wynd
 is mighty particular.  I went in there to hand him over a trifle
 of twenty thousand dollars on certain conditions, and, he told me
 to call again like as if I was a call--boy.'
 
-`It's a fine thing to be a boy,' said the stranger, `and a finer
+‘It's a fine thing to be a boy,' said the stranger, ‘and a finer
 to have a call; and I've got a call he's just got to listen to.
 It's a call of the great good country out West, where the real
 American is being made while you're all snoring.  Just tell him
 that Art Alboin of Oklahoma [[City]] has come to [[convert]] him.'
 
-`I tell you nobody can see him,' said the red--haired secretary sharply.
-`He has given orders that he is not to be disturbed for half an hour.'
+‘I tell you nobody can see him,' said the red--haired secretary sharply.
+‘He has given orders that he is not to be disturbed for half an hour.'
 
-`You folks down East are all against being disturbed,'
-said the breezy Mr Alboin, `but I calculate there's a big
+‘You folks down East are all against being disturbed,'
+said the breezy Mr Alboin, ‘but I calculate there's a big
 breeze getting up in the West that will have to disturb you.
 He's been figuring out how much money must go to this and that
 stuffy old religion; but I tell you any scheme that [[Leaves|leaves]]
 out the new Great Spirit movement in Texas and Oklahoma,
 is leaving out the religion of the future.'
 
-`Oh; I've sized up those religions of the future,' said the
-millionaire, contemptuously.  `I've been through them with a tooth--
+‘Oh; I've sized up those religions of the future,' said the
+millionaire, contemptuously.  ‘I've been through them with a tooth--
 comb and they're as mangy as yellow [[dogs]].  There was that woman called
 herself Sophia:  ought to have called herself Sapphira, I reckon.
 Just a plum fraud.  Strings tied to all the tables and tambourines.
@@ -2949,8 +2949,8 @@ So was the Patagonian [[Prophet]]; you bet he's made a bolt for Patagonia.
 No, I'm through with all that; from now on I only believe what I see.
 I believe they call it being an atheist.'
 
-`I guess you got me wrong,' said the man from Oklahoma,
-almost eagerly.  `I guess I'm as much of an atheist as you are.
+‘I guess you got me wrong,' said the man from Oklahoma,
+almost eagerly.  ‘I guess I'm as much of an atheist as you are.
 No [[Supernatural|supernatural]] or superstitious stuff in our movement;
 just plain science.  The only real right science is just health,
 and the only real right health is just breathing.
@@ -2960,26 +2960,26 @@ You could just puff away their biggest men like thistledown.
 That's what we do in the new movement out [[Home|home]]:  we breathe.
 We don't pray; we breathe.'
 
-`Well, I suppose you do,' said the secretary, wearily.  He had a keen,
+‘Well, I suppose you do,' said the secretary, wearily.  He had a keen,
 intelligent face which could hardly conceal the weariness; but he had
 listened to the two monologues with the admirable patience and politeness
 (so much in contrast with the legends of impatience and insolence)
 with which such monologues are listened to in America.
 
-`Nothing [[Supernatural|supernatural]],' continued Alboin, `just the great natural
+‘Nothing [[Supernatural|supernatural]],' continued Alboin, ‘just the great natural
 fact behind all the supernatural fancies.  What did the Jews want
 with a God except to breathe into man's nostrils the breath of life?
 We do the breathing into our own nostrils out in Oklahoma.
 What's the meaning of the very word Spirit?  It's just the Greek
 for breathing exercises.  Life, progress, prophecy; it's all breath.'
 
-`Some would allow it's all [[Wind|wind]],' said Vandam; `but I'm glad
+‘Some would allow it's all [[Wind|wind]],' said Vandam; ‘but I'm glad
 you've got rid of the divinity stunt, anyhow.'
 
 The keen face of the secretary, rather pale against his red hair,
 showed a flicker of some odd feeling suggestive of a secret bitterness.
 
-`I'm not glad,' he said, `I'm just sure.  You seem to like being atheists;
+‘I'm not glad,' he said, ‘I'm just sure.  You seem to like being atheists;
 so you may be just believing what you like to believe.  But.  I wish
 to God there were a God; and there ain't. It's just my luck.'
 
@@ -3003,59 +3003,59 @@ a round face under the round hat and innocently asked for Mr Warren Wynd,
 he gave the regular negative answer rather more curtly than before.
 But the priest stood his ground.
 
-`I do really want to see Mr Wynd,' he said.
-`It seems odd, but that's exactly what I do want to do.
+‘I do really want to see Mr Wynd,' he said.
+‘It seems odd, but that's exactly what I do want to do.
 I don't want to speak to him.  I just want to see him.
 I just want to see if he's there to be seen.'
 
-`[[Well]], I tell you he's there and can't be seen,' said Fenner,
-with increasing annoyance.  `What do you mean by saying you
+‘[[Well]], I tell you he's there and can't be seen,' said Fenner,
+with increasing annoyance.  ‘What do you mean by saying you
 want to see if he's there to be seen?  Of course he's there.
 We all left him there five minutes ago, and we've stood outside
 this door ever since.'
 
-`[[Well]], I want to see if he's all right,' said the priest.
+‘[[Well]], I want to see if he's all right,' said the priest.
 
-`Why?' demanded the secretary, in exasperation.  `Because I
+‘Why?' demanded the secretary, in exasperation.  ‘Because I
 have a serious, I might say solemn, reason,' said the cleric,
 gravely, 'for doubting whether he is all right.'
 
-`Oh, Lord!' cried Vandam, in a sort of fury; `not more superstitions.'
+‘Oh, Lord!' cried Vandam, in a sort of fury; ‘not more superstitions.'
 
-`I see I shall have to give my reasons,' observed the little
-cleric, gravely.  `I suppose I can't expect you even to let me look
+‘I see I shall have to give my reasons,' observed the little
+cleric, gravely.  ‘I suppose I can't expect you even to let me look
 through the crack of a door till I tell you the whole story.'
 He was silent a moment as in reflection, and then went
 on without noticing the wondering faces around him.
-`I was walking outside along the front of the colonnade when I
+‘I was walking outside along the front of the colonnade when I
 saw a very ragged man running hard round the corner at the end
 of the crescent.  He came pounding along the pavement towards me,
 revealing a great raw--boned figure and a face I knew.
 It was the face of a wild Irish fellow I once helped a little;
 I will not tell you his name.  When he saw me he staggered,
-calling me by mine and saying, `Saints alive, it's [[Father Brown]];
+calling me by mine and saying, ‘Saints alive, it's [[Father Brown]];
 you're the only man whose face could frighten me to--day.'
 
-`I knew he meant he'd been doing some wild thing or other, and I don't
+‘I knew he meant he'd been doing some wild thing or other, and I don't
 think my face frightened him much, for he was soon telling me about it.
 And a very strange thing it was.  He asked me if I knew Warren Wynd,
 and I said no, though I knew he lived near the top of these flats.
-He said, `That's a man who thinks he's a saint of God; but if he knew
+He said, ‘That's a man who thinks he's a saint of God; but if he knew
 what I was saying of him he should be ready to hang himself.'
-And he repeated hysterically more than once, `Yes, ready to
+And he repeated hysterically more than once, ‘Yes, ready to
 hang himself.'  I asked him if he'd done any harm to Wynd,
-and his answer was rather a queer one.  He said:  `I took a [[Pistol|pistol]]
+and his answer was rather a queer one.  He said:  ‘I took a [[Pistol|pistol]]
 and I loaded it with neither shot nor slug, but only with a curse.'
 As far as I could make out, all he had done was to go down
 that little alley between this building and the big warehouse,
 with an old [[Pistol|pistol]] loaded with a blank charge, and merely [[Fire|fire]]
 it against the wall, as if that would bring down the building.
-`But as I did it,' he said, `I cursed him with the great curse,
+‘But as I did it,' he said, ‘I cursed him with the great curse,
 that the justice of God should take him by the hair and the vengeance
 of hell by the heels, and he should be torn asunder like Judas
 and the world know him no more.'
 
-`Well, it doesn't matter now what else I said to the poor, crazy fellow;
+‘Well, it doesn't matter now what else I said to the poor, crazy fellow;
 he went away quieted down a little, and I went round to the back
 of the building to inspect.  And sure enough, in the little alley
 at the foot of this wall there lay a rusty antiquated pistol;
@@ -3067,7 +3067,7 @@ except those black marks and that black curse he had hurled into heaven.
 So I came back here to ask for this Warren Wynd and find out if
 he's all right.'
 
-Penner the secretary laughed.  `I can soon settle that difficulty
+Penner the secretary laughed.  ‘I can soon settle that difficulty
 for you.  I assure you he's quite all right; we left him writing
 at his desk only a few minutes ago.  He was [[Alone|alone]] in his flat;
 it's a hundred feet up from the street, and so placed that no shot
@@ -3075,21 +3075,21 @@ could have reached him, even if your friend hadn't fired blank.
 There's no other entrance to this place but this door, and we've
 been standing outside it ever since.'
 
-`All the same,' said Father Brown, gravely, `I should like to look
+‘All the same,' said Father Brown, gravely, ‘I should like to look
 in and see.'
 
-`Well, you can't,' retorted the other.  `Good Lord, you don't
+‘Well, you can't,' retorted the other.  ‘Good Lord, you don't
 tell me you think anything of the curse.'
 
-`You forget,' said the millionaire, with a slight sneer,
-`the reverend gentleman's whole business is blessings and cursings.
+‘You forget,' said the millionaire, with a slight sneer,
+‘the reverend gentleman's whole business is blessings and cursings.
 Come, sir, if he's been cursed to hell, why don't you bless him
 back again?  What's the good of your blessings if they can't
 beat an Irish larrykin's curse?'
 
-`Does anybody believe such things now?' protested the Westerner.
+‘Does anybody believe such things now?' protested the Westerner.
 
-`[[Father Brown]] believes a good number of things, I take it,'
+‘[[Father Brown]] believes a good number of things, I take it,'
 said Vandam, whose temper was [[Suffering|suffering]] from the past snub
 and the present bickering.  '[[Father Brown]] believes a hermit
 crossed a [[River|river]] on a crocodile conjured out of nowhere,
@@ -3106,35 +3106,35 @@ all day long.  It's nothing to him to believe that a man might
 escape through the keyhole or vanish out of a locked room.
 I reckon he doesn't take much stock of the laws of [[Nature|nature]].'
 
-`Anyhow, I have to take stock in the laws of Warren Wynd,'
-said the secretary, wearily, `and it's his rule that he's to be
+‘Anyhow, I have to take stock in the laws of Warren Wynd,'
+said the secretary, wearily, ‘and it's his rule that he's to be
 left [[Alone|alone]] when he says so.  Wilson will tell you just the same,'
 for the large servant who had been sent for the pamphlet,
 passed placidly down the corridor even as he spoke,
 carrying the pamphlet, but serenely passing the door.
-`He'll go and sit on the bench by the floor--clerk and twiddle
+‘He'll go and sit on the bench by the floor--clerk and twiddle
 his thumbs till he's wanted; but he won't go in before then;
 and nor will I. I reckon we both know which side our bread
 is buttered, and it'd take a good many of Father Brown's saint
 and angels to make us forget it.'
 
-`As for saints and angels--` began the priest.
+‘As for saints and angels--‘ began the priest.
 
-`It's all nonsense,' repeated Fenner.  `I don't want to say
+‘It's all nonsense,' repeated Fenner.  ‘I don't want to say
 anything offensive, but that sort of thing may be very well
 for crypts and cloisters and all sorts of moonshiny places.
 But ghosts can't get through a closed door in an American hotel.'
 
-`But men can open a door, even in an American hotel,'
-replied [[Father Brown]], patiently.  `And it seems to me the simplest
+‘But men can open a door, even in an American hotel,'
+replied [[Father Brown]], patiently.  ‘And it seems to me the simplest
 thing would be to open it.'
 
-`It would be simple enough to lose me my job,' answered the secretary,
-`and Warren Wynd doesn't like his secretaries so simple as that.
+‘It would be simple enough to lose me my job,' answered the secretary,
+‘and Warren Wynd doesn't like his secretaries so simple as that.
 Not simple enough to believe in the sort of fairy tales you seem
 to believe in.'
 
-`[[Well]],' said the priest gravely, `it is true enough that I
+‘[[Well]],' said the priest gravely, ‘it is true enough that I
 believe in a good many things that you probably don't. But it
 would take a considerable time to explain all the things I
 believe in, and all the reasons I have for thinking I'm right.
@@ -3144,8 +3144,8 @@ I am wrong.'
 Something in the phrase seemed to please the more wild and restless
 spirit of the man from the West.
 
-`I'll allow I'd [[Love|love]] to prove you wrong,' said Alboin,
-striding suddenly past them, `and I will.'
+‘I'll allow I'd [[Love|love]] to prove you wrong,' said Alboin,
+striding suddenly past them, ‘and I will.'
 
 He threw open the door of the flat and looked in.
 The first glimpse showed that Warren Wynd's chair was empty.
@@ -3154,7 +3154,7 @@ The second glance showed that his room was empty also.
 Fenner, electrified with energy in his turn, dashed past the other
 into the apartment.
 
-`He's in his bedroom,' be said curtly, `he must be.'
+‘He's in his bedroom,' be said curtly, ‘he must be.'
 
 As he disappeared into the inner chamber the other men
 stood in the empty outer room staring about them.
@@ -3169,7 +3169,7 @@ backed skeletons.  A moment after the secretary reappeared
 at the inner door, having searched the two inner rooms.
 A staring negation stood in his eyes, and his mouth seemed
 to move in a mechanical detachment from it as he said sharply:
-`He didn't come out through here?'
+‘He didn't come out through here?'
 
 Somehow the others did not even think it necessary to answer
 that negation in the negative.  Their minds had come up against
@@ -3199,21 +3199,21 @@ As if the twilight itself irritated him, Fenner touched
 the switch and the scene sprang into the startling distinctness
 of electric light.
 
-`As you said just now,' said Vandam grimly, `there's no shot from
+‘As you said just now,' said Vandam grimly, ‘there's no shot from
 down there could bit him, even if there was a shot in the gun.
 But even if he was hit with a bullet he wouldn't have just burst
 like a bubble.'
 
 The secretary, who was paler than ever, glanced irritably at
-the bilious visage of the millionaire.  `What's got you started
+the bilious visage of the millionaire.  ‘What's got you started
 on those morbid notions?  Who's talking about bullets and bubbles?
 Why shouldn't he be alive?'
 
-`Why not indeed?' replied Vandam smoothly.  `If you'll tell me
+‘Why not indeed?' replied Vandam smoothly.  ‘If you'll tell me
 where he is, I'll tell you how he got there.'
 
 After a pause the secretary muttered, rather sulkily:
-`I suppose you're right.  We're right up against the very
+‘I suppose you're right.  We're right up against the very
 thing we were talking about.  It'd be a queer thing if you
 or I ever came to think there was anything in cursing.
 But who could have harmed Wynd shut up in here?'
@@ -3222,22 +3222,22 @@ Mr Alboin, of Oklahoma, had been standing rather astraddle in the middle
 of the room, his white, hairy halo as [[Well|well]] as his round eyes seeming
 to radiate astonishment.  At this point he said, abstractedly,
 with something of the irrelevant impudence of an enfant terrible:
-`You didn't cotton to him much, did you, Mr Vandam?'
+‘You didn't cotton to him much, did you, Mr Vandam?'
 
 Mr Vandam's long yellow face seemed to grow longer as it
 grew more sinister, while he smiled and answered quietly:
-`If it comes to these coincidences, it was you, I think,
+‘If it comes to these coincidences, it was you, I think,
 who said that a [[Wind|wind]] from the West would blow away out big
 men like thistledown.'
 
-`I know I said it would,' said the Westerner, with candour;
+‘I know I said it would,' said the Westerner, with candour;
 'but all the same, how the devil could it?'
 
 The silence was broken by Fenner saying with an abruptness amounting
-to violence:  `There's only one thing to say about this affair.
+to violence:  ‘There's only one thing to say about this affair.
 It simply hasn't happened.  It can't have happened.'
 
-`Oh, yes,' said Father Brown out of the corner; `it has
+‘Oh, yes,' said Father Brown out of the corner; ‘it has
 happened all right.'
 
 They all jumped; for the [[Truth|truth]] was they had all forgotten
@@ -3247,20 +3247,20 @@ reversal of mood; it came back to them with a rush that they
 had all dismissed him as a superstitious dreamer for even hinting
 at the very thing that had since happened before their eyes.
 
-`Snakes!' cried the impetuous Westerner, like one speaking
+‘Snakes!' cried the impetuous Westerner, like one speaking
 before he could stop himself; 'suppose there were something
 in it, after all!'
 
-`I must confess,' said Fenner, frowning at the table, `that his
+‘I must confess,' said Fenner, frowning at the table, ‘that his
 reverence's anticipations were apparently well founded.
 I don't know whether he has anything else to tell us.'
 
-`He might possibly tell us,' said Vandam, sardonically, `what the devil
+‘He might possibly tell us,' said Vandam, sardonically, ‘what the devil
 we are to do now.'
 
 The little priest seemed to accept the position in a modest,
-but matter--of--fact manner.  `The only thing I can think of,'
-he said, `is first to tell the authorities of this place,
+but matter--of--fact manner.  ‘The only thing I can think of,'
+he said, ‘is first to tell the authorities of this place,
 and then to see if there were any more traces of my man who let
 off the pistol.  He vanished round the other end of the Crescent
 where the little garden is.  There are seats there, and it's
@@ -3279,7 +3279,7 @@ feeling of having suddenly travelled many hundred miles from their homes.
 When they had walked in silence for a little, Alboin, who had something
 elemental about him, suddenly exploded.
 
-`I give up,' he cried; `I hand in my checks.  I never thought I should
+‘I give up,' he cried; ‘I hand in my checks.  I never thought I should
 come to such things; but what happens when the things come to you?
 I beg your pardon, Father Brown; I reckon I'll just come across,
 so far as you and your fairy--tales are concerned.  After this, it's me
@@ -3287,16 +3287,16 @@ for the fairy--tales.  Why, you said yourself, Mr Vandam, that you're
 an atheist and only believe what you see.  Well, what was it you did see?
 Or rather, what was it you didn't see?'
 
-`I know,' said Vandam and nodded in a gloomy fashion.
+‘I know,' said Vandam and nodded in a gloomy fashion.
 
-`Oh, it's partly all this moon and trees that get on one's nerves,'
-said Fenner obstinately.  `Trees always look queer by moonlight,
-with their branches crawling about.  Look at that--`
+‘Oh, it's partly all this moon and trees that get on one's nerves,'
+said Fenner obstinately.  ‘Trees always look queer by moonlight,
+with their branches crawling about.  Look at that--‘
 
-`Yes,' said [[Father Brown]], standing still and peering at the [[Moon|moon]]
-through a tangle of trees.  `That's a very queer branch up there.'
+‘Yes,' said [[Father Brown]], standing still and peering at the [[Moon|moon]]
+through a tangle of trees.  ‘That's a very queer branch up there.'
 
-When he spoke again he only said:  `I thought it was a broken branch.'
+When he spoke again he only said:  ‘I thought it was a broken branch.'
 
 But this [[Time|time]] there was a catch in his voice that unaccountably
 turned his hearers cold.  Something that looked rather
@@ -3313,14 +3313,14 @@ length of it hung from the fork of the branch to the [[Body|body]].
 A long [[Garden|garden]] tub was rolled a yard or so from under the feet,
 like the stool kicked away from the feet of a [[suicide]].
 
-`Oh, my God!' said Alboin, so that it seemed as much
+‘Oh, my God!' said Alboin, so that it seemed as much
 a prayer as an oath.'  What was it that man said about
-him?--`If he knew, he would be ready to hang himself.'
+him?--‘If he knew, he would be ready to hang himself.'
 Wasn't that what he said, [[Father Brown]]?'
 
-`Yes,' said Father Brown.
+‘Yes,' said Father Brown.
 
-`[[Well]],' said Vandam in a hollow voice, `I never thought to see or say
+‘[[Well]],' said Vandam in a hollow voice, ‘I never thought to see or say
 such a thing.  But what can one say except that the curse has worked?'
 
 Fenner was standing with hands covering his face; and the priest laid
@@ -3329,12 +3329,12 @@ a hand on his arm and said, gently, 'Were you very fond of him?'
 The secretary dropped his hands and his white face was ghastly
 under the moon.
 
-`I hated him like hell,' he said; `and if he died by a curse
+‘I hated him like hell,' he said; ‘and if he died by a curse
 it might have been mine.'
 
 The pressure of the priest's hand on his arm tightened;
 and the priest said, with an earnestness he had hardly yet shown:
-`It wasn't your curse; pray be comforted.'
+‘It wasn't your curse; pray be comforted.'
 
 The police of the district had considerable difficulty in dealing
 with the four witnesses who were involved in the case.  All of them
@@ -3344,11 +3344,11 @@ Silas Vandam of the Oil Trust.  The first police--officer who tried
 to express scepticism about his story struck sparks from the steel
 of that magnate's mind very rapidly indeed.
 
-`Don't you talk to me about sticking to the facts,' said the
-millionaire with asperity.  `I've stuck to a good many facts
+‘Don't you talk to me about sticking to the facts,' said the
+millionaire with asperity.  ‘I've stuck to a good many facts
 before you were born and a few of the facts have stuck to me.
 I'll give you the facts all right if you've got the sense
-to take `em down correctly.'
+to take ‘em down correctly.'
 
 The policeman in question was youthful and subordinate,
 and had a hazy idea that the millionaire was too political
@@ -3357,8 +3357,8 @@ companions on to a more stolid superior, one Inspector Collins,
 a grizzled man with a grimly comfortable way of talking;
 as one who was genial but would stand no nonsense.
 
-`[[Well]], [[Well|well]],' he said, looking at the three figures before him
-with twinkling eyes, `this seems to be a funny sort of a tale.'
+‘[[Well]], [[Well|well]],' he said, looking at the three figures before him
+with twinkling eyes, ‘this seems to be a funny sort of a tale.'
 
 Father Brown had already gone about his daily business;
 but Silas Vandam had suspended even the gigantic business of the
@@ -3371,8 +3371,8 @@ to draw him away at the moment from the immediate affair.
 So they stood in a row in the inspector's office, prepared to
 corroborate each other.
 
-`Now I'd better tell you to start with,' said the inspector cheerfully,
-`that it's no good for anybody to come to me with any miraculous stuff.
+‘Now I'd better tell you to start with,' said the inspector cheerfully,
+‘that it's no good for anybody to come to me with any miraculous stuff.
 I'm a practical man and a policeman, and that sort of thing is all very
 well for priests and parsons.  This priest of yours seems to have got
 you all worked up about some story of a dreadful death and judgement;
@@ -3380,11 +3380,11 @@ but I'm going to leave him and his religion out of it altogether.
 If Wynd came out of that room, somebody let him out.  And if Wynd was
 found hanging on that tree, somebody hung him there.'
 
-`Quite so,' said Fenner; `but as out evidence is that nobody let him out,
+‘Quite so,' said Fenner; ‘but as out evidence is that nobody let him out,
 the question is how could anybody have hung him there?'
 
-`How could anybody have a nose on his face?' asked the inspector.
-`He had a nose on his face, and he had a noose round his neck.
+‘How could anybody have a nose on his face?' asked the inspector.
+‘He had a nose on his face, and he had a noose round his neck.
 Those are facts; and, as I say, I'm a practical man and go by the facts.
 It can't have been done by a miracle, so it must have been done
 by a man.'
@@ -3403,8 +3403,8 @@ was in him a certain depth of lungs and life, like a west
 wind stored up in its strength, which might some day puff
 lighter things away.
 
-`So you're a practical man, [[Mr Collins]],' he said, in a voice
-at once soft and heavy.  `It must be the second or third
+‘So you're a practical man, [[Mr Collins]],' he said, in a voice
+at once soft and heavy.  ‘It must be the second or third
 time you've mentioned in this little conversation that you
 are a practical man; so I can't be mistaken about that.
 And a very interesting little fact it is for anybody engaged
@@ -3424,8 +3424,8 @@ With a characteristic sense of drama he went sailing towards
 the door before the astonished inspector could reply; and no after--
 recriminations could rob him of a certain appearance of triumph.
 
-`I think you were perfectly right,' said Fenner.
-`If those are practical men, give me priests.'
+‘I think you were perfectly right,' said Fenner.
+‘If those are practical men, give me priests.'
 
 Another attempt was made to reach an official version
 of the event when the authorities fully realized who were
@@ -3451,17 +3451,17 @@ pointed beard; he looked more like a landscape painter
 to anyone not acquainted with a certain special type of don.
 He had an air not only of courtesy, but of frankness.
 
-`Yes, yes, I know,' he said smiling; `I can guess what you
+‘Yes, yes, I know,' he said smiling; ‘I can guess what you
 must have gone through.  The police do not shine in inquiries
 of a psychic sort, do they?  Of course, dear old Collins
 said he only wanted the facts.  What an absurd blunder!
 In a case of this kind we emphatically do not only want the facts.
 It is even more essential to have the fancies.'
 
-`Do you mean,' asked Vandam gravely, `that all that we thought
+‘Do you mean,' asked Vandam gravely, ‘that all that we thought
 facts were merely fancies?'
 
-`Not at all,' said [[The Professor|the professor]]; `I only mean that
+‘Not at all,' said [[The Professor|the professor]]; ‘I only mean that
 the police are stupid in thinking they can leave out
 the psychological element in these things.  Well, of course,
 the psychological element is everything in everything,
@@ -3479,18 +3479,18 @@ dress on a platform in a public hall.  Father Brown's religion
 has always understood the psychology of atmospheres, and knows
 bow to appeal to everything simultaneously; even, for instance,
 to the sense of smell.  It understands those curious effects
-produced by music on animals and human beings; it can--`
+produced by music on animals and human beings; it can--‘
 
-`Hang it,' protested Fenner, `you don't think he walked down the corridor
+‘Hang it,' protested Fenner, ‘you don't think he walked down the corridor
 carrying a church organ?'
 
-`He knows better than to do that,' said Professor Vair laughing.
-`He knows how to concentrate the essence of all these spiritual
+‘He knows better than to do that,' said Professor Vair laughing.
+‘He knows how to concentrate the essence of all these spiritual
 sounds and sights, and even smells, in a few restrained gestures;
 in an art or school of manners.  He could contrive so to concentrate
 your minds on the [[Supernatural|supernatural]] by his mere presence, that natural things
 slipped off your minds to left and right unnoticed.  Now you know,'
-he proceeded with a return to cheerful good sense, `that the more we
+he proceeded with a return to cheerful good sense, ‘that the more we
 study it the more queer the whole question of human evidence becomes.
 There is not one man in twenty who really observes things at all.
 There is not one man in a hundred who observes them with real precision;
@@ -3506,10 +3506,10 @@ fixing only one picture on your minds; the picture of the wild Irish
 rebel shaking his pistol at the sky and firing that vain volley,
 whose echoes were the thunders of heaven.'
 
-`Professor,' cried Fenner, `I'd swear on my deathbed that
+‘Professor,' cried Fenner, ‘I'd swear on my deathbed that
 door never opened.'
 
-`Recent experiments,' went on [[The Professor|the professor]], quietly, `have suggested
+‘Recent experiments,' went on [[The Professor|the professor]], quietly, ‘have suggested
 that our consciousness is not continuous, but is a succession of
 very rapid impressions like a cinema; it is possible that somebody
 or something may, so to speak, slip in or out between the scenes.
@@ -3524,10 +3524,10 @@ pointing your eyes and minds in the direction of the unknown
 destroyer below.  Or perhaps something else happened, or somebody
 else passed by.'
 
-`Wilson, the servant,' grunted Alboin, `went down the hallway to wait
+‘Wilson, the servant,' grunted Alboin, ‘went down the hallway to wait
 on the bench, but I guess he didn't distract us much.'
 
-`You never know how much,' replied Vair; `it might have been
+‘You never know how much,' replied Vair; ‘it might have been
 that or more likely your eyes following some gesture of the priest
 as he told his tale of magic.  It was in one of those black flashes
 that Mr Warren Wynd slipped out of his door and went to his death.
@@ -3535,14 +3535,14 @@ That is the most probable explanation.  It is an illustration
 of the new discovery.  The mind is not a continuous line,
 but rather a dotted line.'
 
-`Very dotted,' said Fenner feebly.  `Not to say dotty.'
+‘Very dotted,' said Fenner feebly.  ‘Not to say dotty.'
 
-`You don't really believe,' asked Vair, 'that your employer was shut
+‘You don't really believe,' asked Vair, 'that your employer was shut
 up in a room like a box?'
 
-`It's better than believing that I ought to be shut
+‘It's better than believing that I ought to be shut
 up in a room like a padded cell,' answered Fenner.
-`That's what I complain of in your suggestions, professor.
+‘That's what I complain of in your suggestions, professor.
 I'd as soon believe in a priest who believes in a miracle,
 as disbelieve in any man having any right to believe in a fact.
 The priest tells me that a man can appeal to a God I know
@@ -3559,18 +3559,18 @@ on the blind spots in our minds.  Miracles of the monkish sort,
 like materializing a crocodile or hanging a cloak on a sunbeam,
 seem quite sane compared to you.'
 
-`Oh, well,' said Professor Vair, rather curtly, `if you are resolved
+‘Oh, well,' said Professor Vair, rather curtly, ‘if you are resolved
 to believe in your priest and his miraculous Irishman I can say no more.
 I'm afraid you have not had an opportunity of studying psychology.'
 
-`No,' said Fenner dryly; `but I've had an opportunity
+‘No,' said Fenner dryly; ‘but I've had an opportunity
 of studying psychologists.'
 
 And, bowing politely, he led his deputation out of the room
 and did not speak till he got into the street; then he addressed
 them rather explosively.
 
-`Raving lunatics!' cried Fenner in a fume.  `What the devil do
+‘Raving lunatics!' cried Fenner in a fume.  ‘What the devil do
 they think is to happen to the world if nobody knows whether he's
 seen anything or not?  I wish I'd blown his silly head off with a
 blank charge, and then explained that I did it in a blind flash.
@@ -3582,7 +3582,7 @@ We're all sane, solid men who never believed in anything.
 We weren't drunk.  We weren't devout.  It simply happened just
 as he said it would.'
 
-`I quite agree,' said the millionaire.  `It may be the beginning
+‘I quite agree,' said the millionaire.  ‘It may be the beginning
 of mighty big things in the spiritual line; but anyhow,
 the man who's in the spiritual line himself, [[Father Brown]],
 has certainly scored over this business.'
@@ -3593,8 +3593,8 @@ at the apartment which was the scene of the disappearance, in order
 to take steps for the establishment of that marvellous occurrence.
 The occurrence itself had already begun to break out in the newspapers,
 and was being taken up everywhere by the enthusiasts of occultism.
-[[Father Brown]] saw the flaring posters inscribed `Suicide of Vanishing Man',
-and `Man's Curse Hangs Philanthropist', as he passed towards
+[[Father Brown]] saw the flaring posters inscribed ‘Suicide of Vanishing Man',
+and ‘Man's Curse Hangs Philanthropist', as he passed towards
 [[Moon]] Crescent and mounted the steps on the way to the elevator.
 He found the little group much as he left it, Vandam, Alboin,
 and the secretary; but there was an entirely new respectfulness
@@ -3602,8 +3602,8 @@ and even reverence in their tone towards himself.  They were standing
 by Wynd's desk, on which lay a large paper and writing materials;
 they turned to greet him.
 
-`Father Brown,' said the spokesman, who was the white--haired Westerner,
-somewhat sobered with his responsibility, `we asked you here in the first
+‘Father Brown,' said the spokesman, who was the white--haired Westerner,
+somewhat sobered with his responsibility, ‘we asked you here in the first
 place to offer our apologies and our thanks.  We recognize that it
 was you that spotted the spiritual manifestation from the first.
 We were hard--shell sceptics, all of us; but we realize now that a man
@@ -3621,18 +3621,18 @@ but all that we know, and have seen with our own eyes.  And as you
 were the first to believe in the miracle, we all feel that you ought
 to be the first to sign.'
 
-`No, really,' said Father Brown, in embarrassment.
-`I don't think I should like to do that.'
+‘No, really,' said Father Brown, in embarrassment.
+‘I don't think I should like to do that.'
 
-`You mean you'd rather not sign first?'
+‘You mean you'd rather not sign first?'
 
-`I mean I'd rather not sign at all,' said [[Father Brown]], modestly.
-`You see, it doesn't quite do for a man in my position to
+‘I mean I'd rather not sign at all,' said [[Father Brown]], modestly.
+‘You see, it doesn't quite do for a man in my position to
 joke about miracles.'
 
-`But it was you who said it was a miracle,' said Alboin, staring.
+‘But it was you who said it was a miracle,' said Alboin, staring.
 
-`I'm so sorry,' said Father Brown; `I'm afraid there's
+‘I'm so sorry,' said Father Brown; ‘I'm afraid there's
 some mistake.  I don't think I ever said it was a miracle.
 All I said was that it might happen.  What you said was that it
 couldn't happen, because it would be a miracle if it did.
@@ -3640,14 +3640,14 @@ And then it did.  And so you said it was a miracle.
 But I never said a word about miracles or [[Magic|magic]], or anything
 of the sort from beginning to end.'
 
-`But I thought you believed in miracles,' broke out the secretary.
+‘But I thought you believed in miracles,' broke out the secretary.
 
-`Yes,' answered [[Father Brown]], `I believe in miracles.  I believe in man--
+‘Yes,' answered [[Father Brown]], ‘I believe in miracles.  I believe in man--
 eating tigers, but I don't see them running about everywhere.
 If I want any miracles, I know where to get them.'
 
-`I can't understand your taking this line, [[Father Brown]],'
-said Vandam, earnestly.  `It seems so narrow; and you don't
+‘I can't understand your taking this line, [[Father Brown]],'
+said Vandam, earnestly.  ‘It seems so narrow; and you don't
 look narrow to me, though you are a parson.  Don't you see,
 a miracle like this will knock all materialism endways?
 It will just tell the whole world in big print that spiritual
@@ -3656,17 +3656,17 @@ as no parson ever served it yet.'
 
 The priest had stiffened a little and seemed in some strange way
 clothed with unconscious and impersonal dignity, for all his
-stumpy figure.  `[[Well]],' he said, `you wouldn't suggest I should serve
+stumpy figure.  ‘[[Well]],' he said, ‘you wouldn't suggest I should serve
 religion by what I know to be a lie?  I don't know precisely what you
 mean by the phrase; and, to be quite candid, I'm not sure you do.
 Lying may be serving religion; I'm sure it's not serving God.
 And since you are harping so insistently on what I believe,
 wouldn't it be as well if you had some sort of notion of what it is?'
 
-`I don't think I quite understand,' observed the millionaire, curiously.
+‘I don't think I quite understand,' observed the millionaire, curiously.
 
-`I don't think you do,' said Father Brown, with simplicity.
-`You say this thing was done by spiritual powers.
+‘I don't think you do,' said Father Brown, with simplicity.
+‘You say this thing was done by spiritual powers.
 What spiritual powers?  You don't think the holy angels
 took him and hung him on a [[Garden|garden]] tree, do you?  And as for
 the unholy angels--no, no, no.  The men who did this did a
@@ -3681,7 +3681,7 @@ and initiations and secret societies and all the rest of it.
 Its eyes are turned inwards, and however grand and [[Grave|grave]]
 it may look, it's always hiding a small, mad smile.'
 He shuddered suddenly, as if caught in an icy draught of air.
-`Never mind about them; they've got nothing to do with this,
+‘Never mind about them; they've got nothing to do with this,
 believe me.  Do you think that poor, wild Irishman of mine,
 who ran raving down the street, who blurted out half of it
 when he first saw my face, and ran away for fear he should blurt
@@ -3691,19 +3691,19 @@ other men worse than himself; but for all that, he was just
 in an everlasting rage when he rushed down the lane and let
 off his pistol and his curse.'
 
-`But what on earth does all this mean?' demanded Vandam.
-`Letting off a toy pistol and a twopenny curse wouldn't do what was done,
+‘But what on earth does all this mean?' demanded Vandam.
+‘Letting off a toy pistol and a twopenny curse wouldn't do what was done,
 except by a miracle.  It wouldn't make Wynd disappear like a fairy.
 It wouldn't make him reappear a quarter of a mile away with a rope
 round his neck.'
 
-`No,' said [[Father Brown]] sharply; `but what would it do?'
+‘No,' said [[Father Brown]] sharply; ‘but what would it do?'
 
-`And still I don't follow you,' said the millionaire gravely.
+‘And still I don't follow you,' said the millionaire gravely.
 
-`I say, what would it do?' repeated the priest; showing, for the
+‘I say, what would it do?' repeated the priest; showing, for the
 first time, a sort of animation verging on annoyance.
-`You keep on repeating that a blank [[Pistol|pistol]]--shot wouldn't
+‘You keep on repeating that a blank [[Pistol|pistol]]--shot wouldn't
 do this and wouldn't do that; that if that was all,
 the murder wouldn't happen or the miracle wouldn't happen.
 It doesn't seem to occur to you to ask what would happen.
@@ -3711,20 +3711,20 @@ What would happen to you if a lunatic let off a firearm
 without rhyme or reason right under your [[Window|window]]?
 What's the very first thing that would happen?'
 
-Vandam looked thoughtful.  `I guess I should look out of
+Vandam looked thoughtful.  ‘I guess I should look out of
 the window,' he said.
 
-`Yes,' said [[Father Brown]], `you'd look out of the window.
+‘Yes,' said [[Father Brown]], ‘you'd look out of the window.
 That's the whole story.  It's a sad story, but it's finished now;
 and there were extenuating circumstances.'
 
-`Why should looking out of the [[Window|window]] hurt him?' asked Alboin.
-`He didn't fall out, or he'd have been found in the lane.'
+‘Why should looking out of the [[Window|window]] hurt him?' asked Alboin.
+‘He didn't fall out, or he'd have been found in the lane.'
 
-`No,' said [[Father Brown]], in a low voice.  `He didn't fall.  He rose.'
+‘No,' said [[Father Brown]], in a low voice.  ‘He didn't fall.  He rose.'
 
 There was something in his voice like the groan of a gong,
-a note of doom, but otherwise he went on steadily:  `He [[Rose|rose]],
+a note of doom, but otherwise he went on steadily:  ‘He [[Rose|rose]],
 but not on wings; not on the wings of any holy or unholy angels.
 He [[Rose|rose]] at the end of a rope, exactly as you saw him in the [[Garden|garden]];
 a noose dropped over his head the moment it was poked out of the [[Window|window]].
@@ -3734,10 +3734,10 @@ Didn't Wilson go to the floor above to get a pamphlet,
 to a room full of luggage corded in coils and coils of rope?
 Has Wilson been seen since that day?  I fancy not.'
 
-`Do you mean,' asked the secretary, `that Wilson whisked him
+‘Do you mean,' asked the secretary, ‘that Wilson whisked him
 clean out of his own [[Window|window]] like a trout on a line?'
 
-`Yes,' said the other, `and let him down again out of the other [[Window|window]]
+‘Yes,' said the other, ‘and let him down again out of the other [[Window|window]]
 into the park, where the third accomplice hooked him on to a tree.
 Remember the lane was always empty; remember the wall
 opposite was quite blank; remember it was all over in five
@@ -3748,7 +3748,7 @@ you can all guess who they were.'
 They were all three staring at the plain, square [[Window|window]] and the blank,
 white wall beyond; and nobody answered.
 
-`By the way,' went on Father Brown, `don't think I blame you for jumping
+‘By the way,' went on Father Brown, ‘don't think I blame you for jumping
 to preternatural conclusions.  The reason's very simple, really.
 You all swore you were hard--shelled materialists; and as a matter
 of fact you were all balanced on the very edge of belief--
@@ -3765,8 +3765,8 @@ about these things, these things really were only natural things.
 They were not only natural, they were almost unnaturally simple.
 I suppose there never was quite so simple a story as this.'
 
-Fenner laughed and then looked puzzled.  `I don't understand
-one thing,' he said.  `If it was Wilson, how did Wynd come
+Fenner laughed and then looked puzzled.  ‘I don't understand
+one thing,' he said.  ‘If it was Wilson, how did Wynd come
 to have a man like that on such intimate terms?  How did
 he come to be killed by a man he'd seen every day for years?
 He was famous as being a judge of men.'
@@ -3774,34 +3774,34 @@ He was famous as being a judge of men.'
 [[Father Brown]] thumped his umbrella on the ground with an emphasis
 he rarely showed.
 
-`Yes,' he said, almost fiercely; `that was how he came to be killed.
+‘Yes,' he said, almost fiercely; ‘that was how he came to be killed.
 He was killed for just that.  He was killed for being a judge of men.'
 
 They all stared at him, but he went on, almost as if they
 were not there.
 
-`What is any man that he should be a judge of men?' he demanded.
-`These three were the tramps that once stood before him and
+‘What is any man that he should be a judge of men?' he demanded.
+‘These three were the tramps that once stood before him and
 were dismissed rapidly right and left to one place or another;
 as if for them there were no cloak of courtesy, no stages of intimacy,
 no free--will in [[Friendship|friendship]].  And twenty years has not exhausted
 the indignation born of that unfathomable insult in that moment
 when he dared to know them at a glance.'
 
-`Yes,' said the secretary; `I understand ... and I understand
+‘Yes,' said the secretary; ‘I understand ... and I understand
 how it is that you understand--all sorts of things.'
 
-`Well, I'm blamed if I understand,' cried the breezy Western
-gentleman boisterously.  `Your Wilson and your Irishman seem to be
+‘Well, I'm blamed if I understand,' cried the breezy Western
+gentleman boisterously.  ‘Your Wilson and your Irishman seem to be
 just a couple of cut--throat murderers who killed their benefactor.
 I've no use for a black and bloody assassin of that sort,
 in my [[morality]], whether it's religion or not.'
 
-`He was a black and bloody assassin, no doubt,' said Fenner quietly.
-`I'm not defending him; but I suppose it's [[Father Brown]]'s business
-to pray for all men, even for a man like--`
+‘He was a black and bloody assassin, no doubt,' said Fenner quietly.
+‘I'm not defending him; but I suppose it's [[Father Brown]]'s business
+to pray for all men, even for a man like--‘
 
-`Yes,' assented [[Father Brown]], `it's my business to pray for all men,
+‘Yes,' assented [[Father Brown]], ‘it's my business to pray for all men,
 even for a man like Warren Wynd.'
 
 FIVE:  The Curse of the Golden Cross
@@ -3882,52 +3882,52 @@ He listened to the conversation with respectful attention, and he was
 at that moment forming the impression that there was one rather curious
 thing about it.
 
-`I suppose those Byzantine studies of yours, Professor,' Leonard Smyth
-was saying, `would throw some light on this story of a tomb
+‘I suppose those Byzantine studies of yours, Professor,' Leonard Smyth
+was saying, ‘would throw some light on this story of a tomb
 found somewhere on the south coast; near Brighton, isn't it?
 Brighton's a long way from Byzantium, of course.
 But I read something about the style of burying or embalming
 or something being supposed to be Byzantine.'
 
-`Byzantine studies certainly have to reach a long way,'
-replied [[The Professor|the Professor]] dryly.  `They talk about specialists;
+‘Byzantine studies certainly have to reach a long way,'
+replied [[The Professor|the Professor]] dryly.  ‘They talk about specialists;
 but I think the hardest thing on earth is to specialize.
 In this case, for instance:  how can a man know anything about
 Byzantium till he knows everything about Rome before it and
 about Islam after it?  Most Arab arts were old Byzantine arts.
-Why, take algebra--`
+Why, take algebra--‘
 
-`But I won't take algebra,' cried the lady decisively.
-`I never did, and I never do.  But I'm awfully interested in embalming.
+‘But I won't take algebra,' cried the lady decisively.
+‘I never did, and I never do.  But I'm awfully interested in embalming.
 I was with Gatton, you know, when he opened the Babylonian tombs.
 Ever since then I found mummies and preserved bodies and all
 that perfectly thrilling.  Do tell us about this one.'
 
-`Gatton was an interesting man,' said the Professor.
-`They were an interesting family.  That brother of his who went
+‘Gatton was an interesting man,' said the Professor.
+‘They were an interesting family.  That brother of his who went
 into Parliament was much more than an ordinary politician.
 I never understood the Fascisti till he made that speech about [[Italy]].'
 
-`Well, we're not going to Italy on this trip,'
-said Lady Diana persistently, `and I believe you're going
+‘Well, we're not going to Italy on this trip,'
+said Lady Diana persistently, ‘and I believe you're going
 to that little place where they've found the tomb.
 In Sussex, isn't it?'
 
-`Sussex is pretty large, as these little English sections go,'
-replied the Professor.  `One might wander about in it
+‘Sussex is pretty large, as these little English sections go,'
+replied the Professor.  ‘One might wander about in it
 for a goodish [[Time|time]]; and it's a good place to wander in.
 It's wonderful how large those low hills seem when you're on them.'
 
 There was an abrupt accidental [[Silence|silence]]; and then the lady said,
-`Oh, I'm going on deck,' and rose, the men rising with her.
+‘Oh, I'm going on deck,' and rose, the men rising with her.
 But the Professor lingered and the little priest was the last
 to leave the table, carefully folding up his napkin.
 And as they were thus left alone together the Professor said
 suddenly to his companion:
 
-`What would you say was the point of that little talk?'
+‘What would you say was the point of that little talk?'
 
-`Well,' said Father Brown, smiling, `since you ask me,
+‘Well,' said Father Brown, smiling, ‘since you ask me,
 there was something that amused me a little.  I may be wrong;
 but it seemed to me that the company made three attempts to get
 you to talk about an embalmed [[Body|body]] said to be found in Sussex.
@@ -3935,14 +3935,14 @@ And you, on your side, very courteously offered to talk--
 first about algebra, and then about the Fascisti, and then
 about the landscape of the Downs.'
 
-`In short,' replied the Professor, `you thought I was ready to talk
+‘In short,' replied the Professor, ‘you thought I was ready to talk
 about any subject but that one.  You were quite right.'
 
 [[The Professor]] was silent for a little [[Time|time]], looking down at
 the tablecloth; then he looked up and spoke with that swift
 impulsiveness that suggested the [[Lion|lion]]'s leap.
 
-`See here.  Father Brown,' he said, `I consider you about wisest
+‘See here.  Father Brown,' he said, ‘I consider you about wisest
 and whitest man I ever met.'
 
 [[Father Brown]] was very English.  He had all the normal nation
@@ -3950,7 +3950,7 @@ helplessness about what to do with a serious and sincere compliment
 suddenly handed to him to his face in the American manner.
 His reply was a meaningless murmur; and it was [[The Professor|the Professor]]
 who proceeded, with the same staccato earnestness:
-`You see, up to a point it's all simple enough.  A Christian
+‘You see, up to a point it's all simple enough.  A Christian
 tomb of the Dark Ages, apparently that of a bishop, has been
 found under a little church at Dulham on the Sussex coast.
 The Vicar happens to be a good bit of an archaeologist himself
@@ -3965,7 +3965,7 @@ His long grave face seemed to grow even longer and graver as he frowned
 down at the tablecloth.  His long finger seemed to be tracing patterns
 on it like the plans of dead cities and their temples and tombs.
 
-`So I'm going to tell you, and nobody else, why it is I have to be
+‘So I'm going to tell you, and nobody else, why it is I have to be
 careful about mentioning that matter in mixed company; and why,
 the more eager they are to talk about it, the more cautious I have to be.
 It is also stated that in the coffin is a chain with a [[Cross|cross]],
@@ -3978,13 +3978,13 @@ is some story about a curse on it; but I take no notice of that.
 But whether or no there is a curse, there really is, in one sense,
 a conspiracy; though the conspiracy should only consist of one man.'
 
-`Of one man?' repeated Father Brown almost mechanically.
+‘Of one man?' repeated Father Brown almost mechanically.
 
-`Of one madman, for all I know,' said Professor Smaill.
-`It's a long story and in some ways a silly one.'
+‘Of one madman, for all I know,' said Professor Smaill.
+‘It's a long story and in some ways a silly one.'
 
 He paused again, tracing plans like architectural drawings with his
-finger on the cloth, and then resumed:  `Perhaps I had better tell
+finger on the cloth, and then resumed:  ‘Perhaps I had better tell
 you about it from the beginning, in case you see some little point
 in the story that is meaningless to me.  It began years and years ago,
 when I was conducting some investigations on my own account in the
@@ -4004,7 +4004,7 @@ more like a real fish.  It seemed to me that there was a flattening
 towards one end of it that was not like mere mathematical decoration,
 but rather like a sort of rude or even savage zoology.
 
-`In order to explain very briefly why I thought this find important,
+‘In order to explain very briefly why I thought this find important,
 I must tell you the point of the excavation.  For one thing, it had
 something of the nature of an excavation of an excavation.  We were on
 the track not only of antiquities, but of the antiquarians of antiquity.
@@ -4035,7 +4035,7 @@ I looked up at the walls of bare rock that extended endlessly
 along the low passages, and saw scratched in yet ruder outline,
 but if possible more unmistakable, the shape of the Fish.
 
-`Something about it made it seem as if it might be a fossil fish
+‘Something about it made it seem as if it might be a fossil fish
 or some rudimentary organism fixed for ever in a frozen sea.
 I could not analyse this analogy, otherwise unconnected with a mere
 drawing scratched upon the stone, till I realized that I was saying
@@ -4044,7 +4044,7 @@ something like fish, dumb and dwelling in a fallen world of twilight
 and [[Silence|silence]], dropped far below the feet of men and moving in dark
 and twilight and a soundless world.
 
-`Everyone walking along stone passages knows what it is to be followed
+‘Everyone walking along stone passages knows what it is to be followed
 by phantom feet.  The echo follows flapping or clapping behind or
 in front, so that it is almost impossible for the man who is really
 lonely to believe in his loneliness.  I had got used to the effects
@@ -4053,13 +4053,13 @@ caught sight of the symbolical shape scrawled on the wall of rock.
 I stopped, and at the same instant it seemed as if my heart stopped, too;
 for my own feet had halted, but the echo went marching on.
 
-`I ran forward, and it seemed as if the ghostly footsteps ran also,
+‘I ran forward, and it seemed as if the ghostly footsteps ran also,
 but not with that exact [[Imitation|imitation]] which marks the material reverberation
 of a sound.  I stopped again, and the steps stopped also; but I could
 have sworn they stopped an instant too late; I called out a question;
 and my cry was answered; but the voice was not my own.
 
-`It came round the corner of a rock just in front of me;
+‘It came round the corner of a rock just in front of me;
 and throughout that uncanny chase I noticed that it was always
 at some such angle of the crooked path that it paused and spoke.
 The little space in front of me that could be illuminated by my
@@ -4078,7 +4078,7 @@ I looked out on a sea of stainless blue, and the sun shone steadily
 on utter loneliness and silence; and there was not a blade of grass
 stirred with a whisper of flight nor the shadow of a shadow of man.
 
-`It had been a terrible conversation; so intimate and so individual
+‘It had been a terrible conversation; so intimate and so individual
 and in a sense so casual.  This being, bodiless, faceless,
 nameless and yet calling me by my name, had talked to me in those
 crypts and cracks where we were buried alive with no more passion
@@ -4095,7 +4095,7 @@ an Indian embroiderer gives to the artistic work of a life--[[Time|time]].
 Yet he was no Oriental; I am certain be was a white man.
 I suspect that he was a countryman of my own.
 
-`Since then I have received from time to time signs and symbols
+‘Since then I have received from time to time signs and symbols
 and queer impersonal messages that have made me certain,
 at least, that if the man is a maniac he is a monomaniac.
 He is always telling me, in this airy and detached way, that the
@@ -4109,7 +4109,7 @@ collector of curiosities.  That is one of the things that makes
 me feel sure he is a man of the West and not of the East.
 But this particular curiosity seems to have driven him quite crazy.
 
-`And then came this report, as yet unsubstantiated, about the
+‘And then came this report, as yet unsubstantiated, about the
 duplicate relic found on an embalmed [[Body|body]] in a Sussex tomb.
 If he had been a maniac before, this news turned him into a demoniac
 possessed of seven devils.  That there should be one of them belonging
@@ -4120,31 +4120,31 @@ of poisoned arrows, and each cried out more confidently than
 the last that [[Death|death]] would strike me at the moment when I stretched
 out my unworthy hand towards the [[Cross|cross]] in the tomb.
 
-``You will never know me,' he wrote, `you will never say my name; you will
+‘‘You will never know me,' he wrote, ‘you will never say my name; you will
 never see my face; you will die, and never know who has killed you.
 I may be in any form among those about you; but I shall be in that alone
 at which you have forgotten to look.'
 
-`From those threats I deduce that he is quite likely to [[Shadow|shadow]]
+‘From those threats I deduce that he is quite likely to [[Shadow|shadow]]
 me on this expedition; and try to steal the relic or do me
 some mischief for possessing it.  But as I never saw the man
 in my life, he may be almost any man I meet.  Logically speaking,
 he may be any of the waiters who wait on me at table.
 He may be any of the passengers who sit with me at table.'
 
-`He may be me,' said Father Brown, with cheerful contempt for grammar.
+‘He may be me,' said Father Brown, with cheerful contempt for grammar.
 
-`He may be anybody else,' answered Smaill seriously.
-`That is what I meant by what I said just now.
+‘He may be anybody else,' answered Smaill seriously.
+‘That is what I meant by what I said just now.
 You are the only man I feel sure is not the enemy.'
 
 Father Brown again looked embarrassed; then he smiled and said:
-`[[Well]], oddly enough, I'm not.  What we have to consider
+‘[[Well]], oddly enough, I'm not.  What we have to consider
 is any chance of finding out if he really is here before he--
 before he makes himself unpleasant.'
 
-`There is one chance of finding out, I think,' remarked the Professor
-rather grimly.  `When we get to Southampton I shall take a car at
+‘There is one chance of finding out, I think,' remarked the Professor
+rather grimly.  ‘When we get to Southampton I shall take a car at
 once along the coast; I should be glad if you would come with me,
 but in the ordinary sense, of course, our little party will break up.
 If any one of them turns up again in that little churchyard on
@@ -4167,21 +4167,21 @@ He seemed anything but enlivened by his late experiment as a sightseer;
 indeed, he seemed to be striding as fast as possible from the sight,
 when they stopped him with a question.
 
-`It's all about a curse,' he said; `a curse on the place,
+‘It's all about a curse,' he said; ‘a curse on the place,
 according to the guide--book or the parson, or the oldest inhabitant
 or whoever is the authority; and really, it feels jolly like it.
 Curse or curse, I'm glad to have got out of it.'
 
-`Do you believe in curses?' asked Smaill curiously.
+‘Do you believe in curses?' asked Smaill curiously.
 
-`I don't believe in anything; I'm a journalist,'
-answered the [[Melancholy|melancholy]] being--`Boon, of the Daily Wire.
+‘I don't believe in anything; I'm a journalist,'
+answered the [[Melancholy|melancholy]] being--‘Boon, of the Daily Wire.
 But there's a some--thing creepy about that crypt; and I'll
 never deny I felt a chill.'  And he strode on towards the railway
 station with a further accelerated pace.
 
-`Looks like a raven or a crow, that fellow,' observed Smaill
-as they turned towards the churchyard.  `What is it they say
+‘Looks like a raven or a crow, that fellow,' observed Smaill
+as they turned towards the churchyard.  ‘What is it they say
 about a bird of ill omen?'
 
 They entered the churchyard slowly, the eyes of the American
@@ -4201,23 +4201,23 @@ But Father Brown instantly recognized something in the elegant
 stoop of the shoulders and the rather sullen outward thrust
 of the short beard.
 
-`Gee!' exclaimed [[The Professor|the professor]] of archaeology; `it's that man Tarrant,
+‘Gee!' exclaimed [[The Professor|the professor]] of archaeology; ‘it's that man Tarrant,
 if you call him a man.  Did you think, when I spoke on the boat,
 that I should ever get so quick an answer to my question?'
 
-`I thought you might get too many answers to it,' answered [[Father Brown]].
+‘I thought you might get too many answers to it,' answered [[Father Brown]].
 
-`Why, how do you mean?' inquired the Professor, darting a look
+‘Why, how do you mean?' inquired the Professor, darting a look
 at him over his shoulder.
 
-`I mean,' answered the other mildly, `that I thought I heard voices behind
+‘I mean,' answered the other mildly, ‘that I thought I heard voices behind
 the yew--tree.  I don't think Mr Tarrant is so solitary as he looks;
 I might even venture to say, so solitary as he likes to look.'
 
 Even as Tarrant turned slowly round in his moody manner,
 the confirmation came.  Another voice, high and rather hard,
 but none the less feminine, was saying with experienced raillery:
-`And how was I to know he would be here?'  It was borne in upon
+‘And how was I to know he would be here?'  It was borne in upon
 Professor Smaill that this gay observation was not addressed to him;
 so he was forced to conclude in some bewilderment, that yet
 a third person was present.  As Lady [[Diana]] Wales came out,
@@ -4227,7 +4227,7 @@ The lean dapper figure of Leonard Smyth, that insinuating man
 of letters, appeared immediately behind her own flamboyant form,
 smiling, his head a little on one side like a dog's.
 
-`Snakes!' muttered Smaill; `why, they're all here!
+‘Snakes!' muttered Smaill; ‘why, they're all here!
 Or all except that little showman with the walrus whiskers.'
 
 He heard [[Father Brown]] laughing softly beside him; and indeed
@@ -4245,21 +4245,21 @@ man had been the first to find the entrance and had already
 descended a rung or two of the ladder before he put his head
 out again to address his fellow--travellers.  He looked like some
 particularly preposterous [[Grave]]--digger in a burlesque of [[Hamlet]].
-He only said thickly behind his thick moustaches, `It is down here.'
+He only said thickly behind his thick moustaches, ‘It is down here.'
 But it came to the rest of the company with a start of
 realization that, though they had sat opposite him at meal--
 times for a week, they had hardly ever heard him speak before;
 and that though he was supposed to be an English lecturer,
 he spoke with a rather occult foreign accent.
 
-`You see, my dear Professor,' cried Lady [[Diana]] with
-trenchant cheerfulness, `your Byzantine mummy was simply
+‘You see, my dear Professor,' cried Lady [[Diana]] with
+trenchant cheerfulness, ‘your Byzantine mummy was simply
 too exciting to be missed.  I simply had to come along
 and see it; and I'm sure the gentlemen felt just the same.
 Now you must tell us all about it.'
 
-`I do not know all about it,' said [[The Professor|the Professor]] gravely, not to
-say grimly, `In some respects I don't even know what it's all about.
+‘I do not know all about it,' said [[The Professor|the Professor]] gravely, not to
+say grimly, ‘In some respects I don't even know what it's all about.
 It certainly seems odd that we should have all met again so soon,
 but I suppose there are no limits to the modern thirst for information.
 But if we are all to visit the place it must be done in a responsible
@@ -4280,8 +4280,8 @@ relations with the Professor as a fellow--antiquarian, he did
 not seem to regard his rather motley group of companions with
 anything more hostile than amusement.
 
-`I [[Hope|hope]] you are none of you superstitious,' he said pleasantly.
-`I ought to tell you, to start with, that there are supposed
+‘I [[Hope|hope]] you are none of you superstitious,' he said pleasantly.
+‘I ought to tell you, to start with, that there are supposed
 to be all sorts of bad omens and curses hanging over our devoted
 heads in this business.  I have just been deciphering a Latin
 inscription which was found over the entrance to the chapel;
@@ -4290,7 +4290,7 @@ curses involved; a curse for entering the sealed chamber,
 a double curse for opening the coffin, and a triple and most
 terrible curse for touching the gold relic found inside it.
 The two first maledictions I have already incurred myself,'
-he added with a smile; `but I [[Fear|fear]] that even you will have to incur
+he added with a smile; ‘but I [[Fear|fear]] that even you will have to incur
 the first and mildest of them if you are to see anything at all.
 According to the story, the curses descend in a rather
 lingering fashion, at long intervals and on later occasions.
@@ -4298,10 +4298,10 @@ I don't know whether that is any comfort to you.'
 And the Reverend Mr Walters smiled once more in his drooping
 and benevolent manner.
 
-`Story,' repeated Professor Smaill, `why, what story is that?'
+‘Story,' repeated Professor Smaill, ‘why, what story is that?'
 
-`It is rather a long story and varies, like other local legends,'
-answered the Vicar.  `But it is undoubtedly contemporary
+‘It is rather a long story and varies, like other local legends,'
+answered the Vicar.  ‘But it is undoubtedly contemporary
 with the [[Time|time]] of the tomb; and the substance of it is embodied
 in the [[Inscription|inscription]] and is roughly this:  Guy de Gisors,
 a lord of the manor here early in the thirteenth century,
@@ -4335,8 +4335,8 @@ and after these three judgements, it was returned to the bishop's tomb;
 since when no eye has seen and no hand has touched it.'
 
 Lady [[Diana]] Wales seemed to be more impressed than might
-have been expected.  `It really gives one rather a shiver,'
-she said, `to think that we are going to be the first,
+have been expected.  ‘It really gives one rather a shiver,'
+she said, ‘to think that we are going to be the first,
 except the vicar.'
 
 The pioneer with the big moustaches and the broken English did
@@ -4403,7 +4403,7 @@ had told the story of the curse.  But feminine intuition,
 not untouched by feminine hysteria, understood the meaning
 of his brooding immobility better than did the men around him.
 In the [[Silence|silence]] of that candle--lit cavern Lady [[Diana]] cried
-out suddenly:  `Don't touch it, I tell you!'
+out suddenly:  ‘Don't touch it, I tell you!'
 
 But the man had already made one of his swift leonine movements,
 leaning forward over the body.  The next instant they all darted,
@@ -4437,18 +4437,18 @@ beside the fallen figure, trying to test its condition.
 Rather to the general surprise, the Byronic lounger, Paul Tarrant,
 came forward to help him.
 
-`He'd better be carried up into the air,' he said.
-`I suppose there's just a chance for him.'
+‘He'd better be carried up into the air,' he said.
+‘I suppose there's just a chance for him.'
 
-`He isn't dead,' said [[Father Brown]] in a low voice, `but I think
+‘He isn't dead,' said [[Father Brown]] in a low voice, ‘but I think
 it's pretty bad; you aren't a doctor by any chance?'
 
-`No; but I've had to pick up a good many things in my [[Time|time]],'
-said the other.  `But never mind about me just now.
+‘No; but I've had to pick up a good many things in my [[Time|time]],'
+said the other.  ‘But never mind about me just now.
 My real profession would probably surprise you.'
 
-`I don't think so,' replied [[Father Brown]], with a slight smile.
-`I thought of it about halfway through the voyage.
+‘I don't think so,' replied [[Father Brown]], with a slight smile.
+‘I thought of it about halfway through the voyage.
 You are a detective shadowing somebody.  Well, the cross
 is safe from thieves now, anyhow.'
 
@@ -4457,9 +4457,9 @@ figure of the fallen man with easy strength and dexterity,
 and was carefully carrying him towards the exit.
 He answered over his shoulder:
 
-`Yes, the [[Cross|cross]] is safe enough.'
+‘Yes, the [[Cross|cross]] is safe enough.'
 
-`You mean that nobody else is,' replied Brown.  `Are you thinking
+‘You mean that nobody else is,' replied Brown.  ‘Are you thinking
 of the curse, too?'
 
 [[Father Brown]] went about for the next hour or two under a burden
@@ -4501,16 +4501,16 @@ either side of the long drooping nose) fixed on the priest.
 The latter looked twice before he realized that the heavy dark
 moustache hid something like a grin or at least a grim smile.
 
-`I thought you were going away,' said Father Brown a little sharply.
-`I thought you left by that train two hours ago.'
+‘I thought you were going away,' said Father Brown a little sharply.
+‘I thought you left by that train two hours ago.'
 
-`Well, you see I didn't,' said Boon.
+‘Well, you see I didn't,' said Boon.
 
-`Why have you come back?' asked the priest almost sternly.
+‘Why have you come back?' asked the priest almost sternly.
 
-`This is not the sort of little rural paradise for a
+‘This is not the sort of little rural paradise for a
 journalist to leave in a hurry,' replied the other.
-`Things happen too fast here to make it worth while to go
+‘Things happen too fast here to make it worth while to go
 back to a dull place like [[London]].  Besides, they can't
 keep me out of the affair--I mean this second affair.
 It was I that found the [[Body|body]], or at any rate the clothes.
@@ -4521,15 +4521,15 @@ Shouldn't I make a lovely parson?'
 And the lean and long--nosed mountebank suddenly made an extravagant
 gesture in the middle of the market--place, stretching out his arms
 and spreading out his dark--gloved hands in a sort of burlesque
-benediction and saying:  `Oh, my dear brethren and sisters,
+benediction and saying:  ‘Oh, my dear brethren and sisters,
 for I would embrace you all....'
 
-`What on earth are you talking about?' cried [[Father Brown]],
+‘What on earth are you talking about?' cried [[Father Brown]],
 and rapped the stones slightly with his stumpy umbrella,
 for he was a little less patient than usual.
 
-`Oh, you'll find out all about it if you ask that picnic party
-of yours at the inn,' replied Boon scornfully.  `That man
+‘Oh, you'll find out all about it if you ask that picnic party
+of yours at the inn,' replied Boon scornfully.  ‘That man
 Tarrant seems to suspect me merely because I found the clothes;
 though he only came up a minute too late to find them himself.
 But there are all sorts of mysteries in this business.
@@ -4539,19 +4539,19 @@ shouldn't have killed the poor fellow yourself.'
 
 [[Father Brown]] did not seem in the least annoyed at the suggestion,
 but he seemed exceedingly bothered and bewildered by the remark.
-`Do you mean,' he asked with simplicity, `that it was I who tried
+‘Do you mean,' he asked with simplicity, ‘that it was I who tried
 to kill Professor Smaill?'
 
-`Not at all,' said the other, waving his hand with the air of one making
-a handsome concession.  `Plenty of dead people for you to choose among.
+‘Not at all,' said the other, waving his hand with the air of one making
+a handsome concession.  ‘Plenty of dead people for you to choose among.
 Not limited to Professor Smaill.  Why, didn't you know somebody else
 had turned up, a good deal deader than Professor Smaill?  And I
 don't see why you shouldn't have done him in, in a quiet way.
 Religious differences, you know... lamentable disunion of Christendom.
 ... I suppose you've always wanted to get the English parishes back.'
 
-`I'm going back to the inn,' said the priest quietly;
-`you say the people there know what you mean, and perhaps they
+‘I'm going back to the inn,' said the priest quietly;
+‘you say the people there know what you mean, and perhaps they
 may be able to say it.'
 
 In [[Truth|truth]], just afterwards his private perplexities suffered
@@ -4562,56 +4562,56 @@ they were shaken by something yet more recent than the accident
 at the tomb.  Even as he entered, Leonard Smyth was saying:'
 Where is all this going to end?'
 
-`It will never end, I tell you,' repeated Lady Diana, gazing into
-vacancy with glassy eyes; `it will never end till we all end.
+‘It will never end, I tell you,' repeated Lady Diana, gazing into
+vacancy with glassy eyes; ‘it will never end till we all end.
 One after another the curse will take us; perhaps slowly, as the poor
 vicar said; but it will take us all as it has taken him.'
 
-`What in the world has happened now?' asked Father Brown.
+‘What in the world has happened now?' asked Father Brown.
 
 There was a silence, and then Tarrant said in a voice that sounded
-a little hollow:  `Mr Walters, the Vicar, has committed [[suicide]].
+a little hollow:  ‘Mr Walters, the Vicar, has committed [[suicide]].
 I suppose it was the shock unhinged him.  But I [[Fear|fear]] there can be no
 [[Doubt|doubt]] about it.  We've just found his black hat and clothes on a rock
 jutting out from the shore.  He seems to have jumped into the sea.
 I thought he looked as if it had knocked him half--witted, and perhaps
 we ought to have looked after him; but there was so much to look after.'
 
-`You could have done nothing,' said the lady.  `Don't you
+‘You could have done nothing,' said the lady.  ‘Don't you
 see the thing is dealing doom in a sort of dreadful order?
 [[The Professor]] touched the [[Cross|cross]], and he went first; the Vicar
 had opened the tomb, and he went second; we only entered
-the chapel, and we--`
+the chapel, and we--‘
 
-`Hold on,' said [[Father Brown]], in a sharp voice he very seldom used;
-`this has got to stop.'
+‘Hold on,' said [[Father Brown]], in a sharp voice he very seldom used;
+‘this has got to stop.'
 
 He still wore a heavy though unconscious frown, but in his eyes
 was no longer the cloud of mystification, but a light of almost
-terrible understanding.  `What a [[Fool|fool]] I am!' he muttered.
-`I ought to have seen it long ago.  The tale of the curse ought
+terrible understanding.  ‘What a [[Fool|fool]] I am!' he muttered.
+‘I ought to have seen it long ago.  The tale of the curse ought
 to have told me.'
 
-`Do you mean to say,' demanded Tarrant, `that we can really be killed
+‘Do you mean to say,' demanded Tarrant, ‘that we can really be killed
 now by something that happened in the thirteenth century?'
 
 Father Brown shook his head and answered with quiet emphasis:
-`I won't discuss whether we can be killed by something that happened
+‘I won't discuss whether we can be killed by something that happened
 in the thirteenth century; but I'm jolly certain that we can't be
 killed by something that never happened in the thirteenth century,
 something that never happened at all.'
 
-`Well,' said Tarrant, `it's refreshing to find a priest so sceptical
+‘Well,' said Tarrant, ‘it's refreshing to find a priest so sceptical
 of the [[Supernatural|supernatural]] as all that.'
 
-`Not at all,' replied the priest calmly; `it's not
+‘Not at all,' replied the priest calmly; ‘it's not
 the [[Supernatural|supernatural]] part I [[Doubt|doubt]].  It's the natural part.
-I'm exactly in the position of the man who said, `I can believe
-the impossible, but not the improbable.'`
+I'm exactly in the position of the man who said, ‘I can believe
+the impossible, but not the improbable.'‘
 
-`That's what you call a paradox, isn't it?' asked the other.
+‘That's what you call a paradox, isn't it?' asked the other.
 
-`It's what I call common sense, properly understood,'
+‘It's what I call common sense, properly understood,'
 replied [[Father Brown]].  'It really is more natural to believe
 a preternatural story, that deals with things we don't understand,
 than a natural story that contradicts things we do understand.
@@ -4630,21 +4630,21 @@ Lady [[Diana]] had recovered a little from her trance of Cassandra,
 and her perennial curiosity about new things began to peer once
 more out of her bright and prominent eyes.
 
-`What a curious man you are!' she said.  `Why should you
+‘What a curious man you are!' she said.  ‘Why should you
 disbelieve the [[history]]?'
 
-`I disbelieve the history because it isn't history,'
-answered Father Brown.  `To anybody who happens to know
+‘I disbelieve the history because it isn't history,'
+answered Father Brown.  ‘To anybody who happens to know
 a little about the Middle Ages, the whole story was about
 as probable as Gladstone offering [[Queen]] Victoria a cigar.
 But does anybody know anything about the Middle Ages?  Do you know
 what a Guild was?  Have you ever heard of salvo managio suo?
 Do you know what sort of people were Servi Regis?
 
-`No, of course I don't,' said the lady, rather crossly.
-`What a lot of Latin words!'
+‘No, of course I don't,' said the lady, rather crossly.
+‘What a lot of Latin words!'
 
-`No, of course,' said Father Brown.  `If it had been Tutankhamen
+‘No, of course,' said Father Brown.  ‘If it had been Tutankhamen
 and a set of dried--up Africans preserved, Heaven knows why,
 at the other end of the world; if it had been Babylonia or China;
 if it had been some race as remote and mysterious as the Man
@@ -4668,13 +4668,13 @@ The Jews normally had a special position as servants of the [[King]].
 Above all, the Jew couldn't possibly have been burned
 for his religion.'
 
-`The paradoxes are multiplying,' observed Tarrant; 'but surely ,
+‘The paradoxes are multiplying,' observed Tarrant; 'but surely ,
 you won't deny that Jews were persecuted in the Middle Ages?'
 
-`It would be nearer the [[Truth|truth]],' said [[Father Brown]], 'to say they
+‘It would be nearer the [[Truth|truth]],' said [[Father Brown]], 'to say they
 were the only people who weren't persecuted in the Middle Ages.
 If you want to satirize medievalism, you could make a good case
-by saying that some poor Christian might be burned alive for `making
+by saying that some poor Christian might be burned alive for ‘making
 a mistake about the Homoousion, while a rich Jew might walk
 down the street openly sneering at Christ and the Mother of God.
 Well, that's what the story is like.  It was never a story of
@@ -4688,60 +4688,60 @@ it and made it so important a part of the puzzle.
 But Tarrant, whose trade it was to pick the practical detail
 out of many tangles of digression, had suddenly become alert.
 His bearded chin was thrust forward farther than ever,
-out his sullen eyes were wide awake.  `Ah,' he said;
-`made up on the spur of the moment!'
+out his sullen eyes were wide awake.  ‘Ah,' he said;
+‘made up on the spur of the moment!'
 
-`Perhaps that is an exaggeration,' admitted [[Father Brown]] calmly.
-`I should rather say made up more casually and carelessly than
+‘Perhaps that is an exaggeration,' admitted [[Father Brown]] calmly.
+‘I should rather say made up more casually and carelessly than
 the rest of an uncommonly careful plot.  But the plotter did not
 think the details of medieval history would matter much to anybody.
 And his calculation in a general way was pretty nearly right,
 like most of his other calculations.'
 
-`Whose calculations?  Who was right?' demanded the lady with a sudden
-passion of impatience.  `Who is this person you are talking about?
+‘Whose calculations?  Who was right?' demanded the lady with a sudden
+passion of impatience.  ‘Who is this person you are talking about?
 Haven't we gone through enough, without your making our flesh creep
 with your he's and him's?'
 
-`I am talking about the murderer,' said [[Father Brown]].
+‘I am talking about the murderer,' said [[Father Brown]].
 
-`What murderer?' she asked sharply.  `Do you mean that the poor
+‘What murderer?' she asked sharply.  ‘Do you mean that the poor
 Professor was murdered?'
 
-`Well,' said the staring Tarrant gruffly into his beard,
-`we can't say `murdered', for we don't know he's killed.'
+‘Well,' said the staring Tarrant gruffly into his beard,
+‘we can't say ‘murdered', for we don't know he's killed.'
 
-`The murderer killed somebody else, who was not Professor Smaill,'
+‘The murderer killed somebody else, who was not Professor Smaill,'
 said the priest gravely.
 
-`Why, whom else could he kill?' asked the other.
-`He killed the Reverend John Walters, the Vicar of Dulham,'
-replied [[Father Brown]] with precision.  `He only wanted to kill those two,
+‘Why, whom else could he kill?' asked the other.
+‘He killed the Reverend John Walters, the Vicar of Dulham,'
+replied [[Father Brown]] with precision.  ‘He only wanted to kill those two,
 because they both had got hold of relics of one rare pattern.
 The murderer was a sort of monomaniac on the point.'
 
-`It all sounds very strange,' muttered Tarrant.
-`Of course we can't swear that the Vicar's really dead either.
+‘It all sounds very strange,' muttered Tarrant.
+‘Of course we can't swear that the Vicar's really dead either.
 We haven't seen his body.'
 
-`Oh yes, you have,' said [[Father Brown]].
+‘Oh yes, you have,' said [[Father Brown]].
 
 There was a [[Silence|silence]] as sudden as the stroke of a gong;
 a [[Silence|silence]] in which that sub--conscious guesswork that was so
 active and accurate in the woman moved her almost to a shriek.
 
-`That is exactly what you have seen,' went on the priest.
-`You have seen his [[Body|body]].  You haven't seen him--
+‘That is exactly what you have seen,' went on the priest.
+‘You have seen his [[Body|body]].  You haven't seen him--
 the real living man; but you have seen his [[Body|body]] all right.
 You have stared at it hard by the light of four great candles;
 and it was not tossing suicidally in the sea but lying in state
 like a Prince of the Church in a shrine built before the Crusade.'
 
-`In plain words,' said Tarrant, `you actually ask us to believe
+‘In plain words,' said Tarrant, ‘you actually ask us to believe
 that the embalmed [[Body|body]] was really the corpse of a murdered man.'
 
 [[Father Brown]] was silent for a moment; then he said almost with an air
-of irrelevance:  `The first thing I noticed about it was the cross;
+of irrelevance:  ‘The first thing I noticed about it was the cross;
 or rather the string suspending the cross.  Naturally, for most of you,
 it was only a string of beads and nothing else in particular;
 but, naturally also, it was rather more in my line than yours.
@@ -4761,10 +4761,10 @@ So that when poor Smaill merely plucked at the cross it jerked
 the prop out of its place and the lid fell on his skull like a
 club of stone.'
 
-`By George!' said Tarrant; `I'm beginning to think there's something
+‘By George!' said Tarrant; ‘I'm beginning to think there's something
 in what you say.  This is a queer story if it's true.'
 
-`When I realized that,' went on [[Father Brown]], `I could manage
+‘When I realized that,' went on [[Father Brown]], ‘I could manage
 more or less to guess the rest.  Remember, first of all,
 that there never was any responsible archaeological authority
 for anything more than investigation.  Poor old Walters was
@@ -4777,13 +4777,13 @@ Only while he was working there by the light of his lonely
 candle in that sunken chapel, the candlelight threw another
 shadow that was not his own.'
 
-`Ah!' cried Lady [[Diana]] with a catch in her breath; 'and I know
+‘Ah!' cried Lady [[Diana]] with a catch in her breath; 'and I know
 what you mean now.  You mean to tell us we have met the murderer,
 talked and joked with the murderer, let him tell us a romantic tale,
 and let him depart untouched.'
 
-`Leaving his clerical disguise on a rock,' assented Brown.
-`It is all dreadfully simple.  This man got ahead of [[The Professor|the Professor]]
+‘Leaving his clerical disguise on a rock,' assented Brown.
+‘It is all dreadfully simple.  This man got ahead of [[The Professor|the Professor]]
 in the race to the churchyard and chapel, possibly while
 [[The Professor|the Professor]] was talking to that lugubrious journalist.
 He came on the old clergyman beside the empty coffin and killed him.
@@ -4795,38 +4795,38 @@ Then, having thus set the trap for his second enemy, he went
 up into the daylight and greeted us all with the most amiable
 politeness of a country clergyman.'
 
-`He ran a considerable risk,' objected Tarrant, `of somebody
+‘He ran a considerable risk,' objected Tarrant, ‘of somebody
 knowing Walters by sight.'
 
-`I admit he was half--mad,' agreed Father Brown; `and I think
+‘I admit he was half--mad,' agreed Father Brown; ‘and I think
 you will admit that the risk was worth taking, for he has
 got off, after all.'
 
-`I'll admit he was very lucky,' growled Tarrant.
-`And who the devil was he?'
+‘I'll admit he was very lucky,' growled Tarrant.
+‘And who the devil was he?'
 
-`As you say, he was very lucky,' answered Father Brown, `and not least
+‘As you say, he was very lucky,' answered Father Brown, ‘and not least
 in that respect.  For that is the one thing we may never know.'
 He frowned at the table for a moment and then went on:
-`This fellow has been hovering round and threatening for years,
+‘This fellow has been hovering round and threatening for years,
 but the one thing he was careful of was to keep the secret of who
 he was; and he has kept it still.  But if poor Smaill recovers,
 as I think he will, it is pretty safe to say that you will hear
 more of it.'
 
-`Why, what will Professor Smaill do, do you think?' asked Lady [[Diana]].
+‘Why, what will Professor Smaill do, do you think?' asked Lady [[Diana]].
 
-`I should think the first thing he would do,' said Tarrant, `would be
+‘I should think the first thing he would do,' said Tarrant, ‘would be
 to put the detectives on like [[dogs]] after this murdering devil.
 I should like to have a go at him myself.'
 
-`Well,' said Father Brown, smiling suddenly after his long fit
-of frowning perplexity, `I think I know the very first thing
+‘Well,' said Father Brown, smiling suddenly after his long fit
+of frowning perplexity, ‘I think I know the very first thing
 he ought to do.'
 
-`And what is that?' asked Lady Diana with graceful eagerness.
+‘And what is that?' asked Lady Diana with graceful eagerness.
 
-`He ought to apologize to all of you,' said [[Father Brown]].
+‘He ought to apologize to all of you,' said [[Father Brown]].
 
 It was not upon this point, however, that [[Father Brown]] found
 himself talking to Professor Smaill as he sat by the bedside
@@ -4861,7 +4861,7 @@ For that was the sign which he once looked up and saw,
 in the moment when he first heard round the corner of the dark
 passage the voice of his enemy.
 
-`And at last,' he said, `I think I have seen a meaning in the
+‘And at last,' he said, ‘I think I have seen a meaning in the
 picture and the voice; and one that I never understood before.
 Why should I worry because one madman among a million
 of sane men, leagued in a great society against him,
@@ -4887,10 +4887,10 @@ What was it like to deal with murder on that scale?
 The world has forgotten these things, as until a little
 while ago it had forgotten war.'
 
-`Yes,' said Father Brown, `but the war came.  The fish may be driven
+‘Yes,' said Father Brown, ‘but the war came.  The fish may be driven
 underground again, but it will come up into the daylight once more.
-As St Antony of Padua humorously remarked, `It is only fishes
-who survive the Deluge.'`
+As St Antony of Padua humorously remarked, ‘It is only fishes
+who survive the Deluge.'‘
 
 SIX:  The Dagger with Wings
 
@@ -4914,16 +4914,16 @@ with a mass of materialism in between.  Anyhow, when he thought that
 matters of that sort might be involved, he asked [[Father Brown]] to call,
 though he made no pretence of preference for that aspect of them.
 
-`I'm not sure I want you, you know,' was his greeting.
-`I'm not sure about anything yet.  I'm hanged if I can
+‘I'm not sure I want you, you know,' was his greeting.
+‘I'm not sure about anything yet.  I'm hanged if I can
 make out whether it's a case for a doctor, or a policeman,
 or a priest.'
 
-`Well,' said Father Brown with a smile, `as I suppose you're both
+‘Well,' said Father Brown with a smile, ‘as I suppose you're both
 a policeman and a doctor, I seem to be rather in a minority.'
 
-`I admit you're what politicians call an instructed minority,'
-replied the doctor.  `I mean, I know you've had to do a little
+‘I admit you're what politicians call an instructed minority,'
+replied the doctor.  ‘I mean, I know you've had to do a little
 in our line as [[Well|well]] as your own.  But it's precious hard to say
 whether this business is in your line or ours, or merely in
 the line of the Commissioners in Lunacy.  We've just had a message
@@ -4933,7 +4933,7 @@ We've gone into the facts as far as we could, and perhaps I'd
 better tell you the story as it is supposed to have happened,
 from the beginning.
 
-`It seems that a man named Aylmer, who was a wealthy
+‘It seems that a man named Aylmer, who was a wealthy
 landowner in the West Country, married rather late
 in life and had three sons, Philip, Stephen, and Arnold.
 But in his bachelor days, when he thought he would have
@@ -4967,10 +4967,10 @@ and that nothing could hide them from his vengeance.
 It is the third or last of the brothers, Arnold Aylmer,
 who is asking for police protection.'
 
-`Third and last,' said the priest, looking at him gravely.
+‘Third and last,' said the priest, looking at him gravely.
 
-`Yes,' said Boyne.  `The other two are dead.'  There was a [[Silence|silence]]
-before he continued.  `That is where the doubt comes in.
+‘Yes,' said Boyne.  ‘The other two are dead.'  There was a [[Silence|silence]]
+before he continued.  ‘That is where the doubt comes in.
 There is no proof they were murdered, but they might possibly
 have been.  The eldest, who took up his position as squire,
 was supposed to have committed suicide in his garden.
@@ -4987,14 +4987,14 @@ You know what a man with a delusion is like, and how a man looks
 when he is telling the truth.  I want you to be the advance guard,
 before we take the matter up.'
 
-`It seems rather odd,' said [[Father Brown]], `that you haven't had
+‘It seems rather odd,' said [[Father Brown]], ‘that you haven't had
 to take it up before.  If there is anything in this business,
 it seems to have been going on for a good time.  Is there
 any particular reason why he should send for you just now,
 any more than any other time?'
 
-`That had occurred to me, as you may imagine,' answered Dr Boyne.
-`He does give a reason, but I confess it is one of the things that make
+‘That had occurred to me, as you may imagine,' answered Dr Boyne.
+‘He does give a reason, but I confess it is one of the things that make
 me wonder whether the whole thing isn't only the whim of some half--
 witted crank.  He declared that all his servants have suddenly gone on
 strike and left him, so that he is obliged to call on the police to look
@@ -5010,15 +5010,15 @@ Of course that does not prove he is a lunatic; but it seems rather rum
 nowadays for a man to expect his valet or his parlour--maid to act
 as an armed guard.'
 
-`And so,' said the priest with a smile, `he wants a policeman
+‘And so,' said the priest with a smile, ‘he wants a policeman
 to act as his parlour--maid because his parlour--maid won't
 act as a policeman.'
 
-`I thought that rather thick, too,' agreed the doctor; `but I can't take
+‘I thought that rather thick, too,' agreed the doctor; ‘but I can't take
 the responsibility of a flat refusal till I've tried a compromise.
 You are the compromise.'
 
-`Very [[Well|well]],' said [[Father Brown]] simply.  `I'll go and call on him
+‘Very [[Well|well]],' said [[Father Brown]] simply.  ‘I'll go and call on him
 now if you like.'
 
 The rolling country round the little town was sealed and bound with frost,
@@ -5033,7 +5033,7 @@ and colder, as if he were approaching an ice--house or the North Pole.
 But he was a highly practical person, never entertaining such fancies
 except as fancies.  And he merely cocked his eye at the great
 livid cloud crawling up over the house, and remarked cheerfully:
-`It's going to [[Snow|snow]].'
+‘It's going to [[Snow|snow]].'
 
 Through a low ornamental iron gateway of the Italianate pattern
 he entered a [[Garden|garden]] having something of that desolation which only
@@ -5104,10 +5104,10 @@ a plant of the palm variety with very large green [[Leaves|leaves]].
 All this looked so very dusty and Early Victorian that the telephone,
 visible in the curtained alcove, was almost a surprise.
 
-`Who is that?' a voice called out sharply and rather suspiciously
+‘Who is that?' a voice called out sharply and rather suspiciously
 from behind the stained--glass door.
 
-`Could I see Mr Aylmer?' asked the priest apologetically.
+‘Could I see Mr Aylmer?' asked the priest apologetically.
 
 The door opened and a gentleman in a peacock--green dressing--gown came
 out with an inquiring look.  His hair was rather rough and untidy,
@@ -5119,48 +5119,48 @@ He had a fine aquiline face when seen in profile, but when seen full face
 the first impression was that of the untidiness and even the wilderness
 of his loose brown beard.
 
-`I am Mr Aylmer,' he said, `but I've got out of the way
+‘I am Mr Aylmer,' he said, ‘but I've got out of the way
 of expecting visitors.'
 
 Something about Mr Aylmer's unrestful eye prompted the priest to go
 straight to the point.  If the man's persecution was only a monomania,
 he would be the less likely to resent it.
 
-`I was wondering,' said Father Brown softly, `whether it is quite
+‘I was wondering,' said Father Brown softly, ‘whether it is quite
 true that you never expect visitors.'
 
-`You are right,' replied his host steadily.  `I always expect
+‘You are right,' replied his host steadily.  ‘I always expect
 one visitor.  And he may be the last.'
 
-`I hope not,' said Father Brown, `but at least I am relieved
+‘I hope not,' said Father Brown, ‘but at least I am relieved
 to infer that I do not look very like him.'
 
 Mr Aylmer shook himself with a sort of savage laugh.
-`You certainly do not,' he said.
+‘You certainly do not,' he said.
 
-`Mr Aylmer,' said [[Father Brown]] frankly, `I apologize for the liberty,
+‘Mr Aylmer,' said [[Father Brown]] frankly, ‘I apologize for the liberty,
 but some friends of mine have told me about your trouble,
 and asked me to see if I could do anything for you.  The truth is,
 I have some little experience in affairs like this.'
 
-`There are no affairs like this,' said Aylmer.
+‘There are no affairs like this,' said Aylmer.
 
-`You mean,' observed Father Brown, `that the tragedies in your
+‘You mean,' observed Father Brown, ‘that the tragedies in your
 unfortunate family were not normal deaths?'
 
-`I mean they were not even normal murders,' answered the other.
-`The man who is hounding us all to [[Death|death]] is a hell--hound, and his
+‘I mean they were not even normal murders,' answered the other.
+‘The man who is hounding us all to [[Death|death]] is a hell--hound, and his
 power is from hell.'
 
-`All evil has one origin,' said the priest gravely.
-`But how do you know they were not normal murders?'
+‘All evil has one origin,' said the priest gravely.
+‘But how do you know they were not normal murders?'
 
 Aylmer answered with a gesture which offered his guest a chair;
 then he seated himself slowly in another, frowning, with his hands
 on his knees; but when he looked up his expression had grown milder
 and more thoughtful, and his voice was quite cordial and composed.
 
-`Sir,' he said, `I don't want you to imagine that I'm in the least
+‘Sir,' he said, ‘I don't want you to imagine that I'm in the least
 an unreasonable person.  I have come to these conclusions
 by reason, because unfortunately reason really leads there.
 I have read a great deal on these subjects; for I was the only
@@ -5170,7 +5170,7 @@ But what I tell you does not rest on what I have read but on
 what I have seen.'
 
 [[Father Brown]] nodded, and the other proceeded, as if picking his words:
-`In my elder brother's case I was not certain at first.
+‘In my elder brother's case I was not certain at first.
 There were no marks or footprints where he was found shot, and the
 pistol was left beside him.  But he had just received a threatening
 letter certainly from our enemy, for it was marked with a sign like
@@ -5185,7 +5185,7 @@ I scaled the platform a moment after he had fallen under the iron
 hammer that struck him; I did not see anything else strike him,
 but I saw what I saw.
 
-`A great drift of factory smoke was [[rolling]] between me and the
+‘A great drift of factory smoke was [[rolling]] between me and the
 factory tower; but through a rift of it I saw on the top of it
 a dark human figure wrapped in what looked like a black cloak.
 Then the sulphurous smoke drove between us again; and when it
@@ -5194,12 +5194,12 @@ I am a rational man, and I will ask all rational men how he had
 reached that dizzy unapproachable turret, and how he left it.'
 
 He stared across at the priest with a sphinx--like challenge;
-then after a [[Silence|silence]] he said abruptly:  `My brother's brains
+then after a [[Silence|silence]] he said abruptly:  ‘My brother's brains
 were knocked out, but his body was not much damaged.
 And in his pocket we found one of those warning messages dated
 the day before and stamped with the flying dagger.
 
-`I am sure,' he went on gravely, `that the symbol of
+‘I am sure,' he went on gravely, ‘that the symbol of
 the winged dagger is not merely arbitrary or accidental.
 Nothing about that abominable man is accidental.  He is all design;
 though it is indeed a most dark and intricate design.
@@ -5219,20 +5219,20 @@ Is there no connexion between the plumed poignard flying
 like a feathered arrow and that figure which hung on the far
 top of the toppling chimney, clad in a cloak for pinions?'
 
-`You mean,' said [[Father Brown]] thoughtfully, `that he is in a perpetual
+‘You mean,' said [[Father Brown]] thoughtfully, ‘that he is in a perpetual
 state of levitation.'
 
-`Simon Magus did it,' replied Aylmer, `and it was one of the commonest
+‘Simon Magus did it,' replied Aylmer, ‘and it was one of the commonest
 predictions of the Dark Ages that Antichrist would be able to fly.
 Anyhow, there was the flying dagger on the document; and whether
 or no it could fly, it could certainly strike.'
 
-`Did you notice what sort of paper it was on?' asked [[Father Brown]].
+‘Did you notice what sort of paper it was on?' asked [[Father Brown]].
 'Common paper?'
 
 [[The Sphinx|The sphinx]]--like face broke abruptly into a harsh laugh.
 
-`You can see what they're like,' said Aylmer grimly, `for I got
+‘You can see what they're like,' said Aylmer grimly, ‘for I got
 one myself this morning.'
 
 He was leaning back in his chair now, with his long legs thrust
@@ -5249,20 +5249,20 @@ of rousing him.
 presented to him.  It was a singular sort of paper, rough without
 being common, as from an [[Artist|artist]]'s [[Sketch|sketch]]--book; and on it was drawn
 boldly in red ink a dagger decorated with wings like the rod of Hermes,
-with the written words, `Death comes the day after this, as it came
+with the written words, ‘Death comes the day after this, as it came
 to your brothers.'
 
 Father Brown tossed the paper on the floor and sat bolt upright
 in his chair.
 
-`You mustn't let that sort of stuff stupefy you,' he said sharply.
-`These devils always try to make us helpless by making us hopeless.'
+‘You mustn't let that sort of stuff stupefy you,' he said sharply.
+‘These devils always try to make us helpless by making us hopeless.'
 
 Rather to his surprise, an awakening wave went over the prostrate figure,
 which sprang from its chair as if startled out of a dream.
 
-`You're right, you're right!' cried Aylmer with a rather
-[[Uncanny|uncanny]] animation; `and the devils shall find that I'm
+‘You're right, you're right!' cried Aylmer with a rather
+[[Uncanny|uncanny]] animation; ‘and the devils shall find that I'm
 not so hopeless after all, nor so helpless either.
 Perhaps I have more hope and better help than you fancy.'
 
@@ -5271,7 +5271,7 @@ who had a momentary doubt, during that strained silence,
 about whether the man's long peril had not touched his brain.
 But when he spoke it was quite soberly.
 
-`I believe my unfortunate brothers failed because they
+‘I believe my unfortunate brothers failed because they
 used the wrong weapons.  Philip carried a revolver,
 and that was how his [[Death|death]] came to be called [[suicide]].
 Stephen had police protection, but he also had a sense of what made
@@ -5286,11 +5286,11 @@ But my brothers were wrong about the antidote.  The antidote
 to black [[Magic|magic]] is not brute materialism or worldly wisdom.
 The antidote to black [[Magic|magic]] is white [[Magic|magic]].'
 
-`It rather depends,' said Father Brown, `what you mean by white [[Magic|magic]].'
+‘It rather depends,' said Father Brown, ‘what you mean by white [[Magic|magic]].'
 
-`I mean silver magic,' said the other, in a low voice, like one
+‘I mean silver magic,' said the other, in a low voice, like one
 speaking of a secret revelation.  Then after a silence he said:
-`Do you know what I mean by silver [[Magic|magic]]?  Excuse me a moment.'
+‘Do you know what I mean by silver [[Magic|magic]]?  Excuse me a moment.'
 
 He turned and opened the central door with the red glass and went
 into a passage beyond it.  The [[house]] had less depth than Brown
@@ -5320,31 +5320,31 @@ negative whiteness of daylight but the positive whiteness of [[Snow|snow]].
 All round, the sweeping fall of the country was covered with
 that shining pallor that seems at once hoary and [[Innocent|innocent]].
 
-`Here is white magic anyhow,' said Father Brown in his cheerful voice.
-Then, as he turned back into the hall, he murmured, `And silver [[Magic|magic]] too,
+‘Here is white magic anyhow,' said Father Brown in his cheerful voice.
+Then, as he turned back into the hall, he murmured, ‘And silver [[Magic|magic]] too,
 I suppose,' for the white lustre touched the silver with splendour
 and lit up the old steel here and there in the darkling armoury.
 The shaggy head of the brooding Aylmer seemed to have a halo of
 silver [[Fire|fire]], as he turned with his face in [[Shadow|shadow]] and the outlandish
 [[Pistol|pistol]] in his hand.
 
-`Do you know why I chose this sort of old blunderbuss?' he asked.
-`Because I can load it with this sort of bullet.'
+‘Do you know why I chose this sort of old blunderbuss?' he asked.
+‘Because I can load it with this sort of bullet.'
 
 He had picked up a small apostle spoon from the sideboard
 and by sheer violence broke off the small figure at the top.
-`Let us go back into the other room,' he added.
+‘Let us go back into the other room,' he added.
 
-`Did you ever read about the [[Death|death]] of Dundee?' he asked
+‘Did you ever read about the [[Death|death]] of Dundee?' he asked
 when they had reseated themselves.  He had recovered from
 his momentary annoyance at the priest's restlessness.
-`Graham of Claverhouse, you know, who persecuted the Covenanters
+‘Graham of Claverhouse, you know, who persecuted the Covenanters
 and had a black horse that could ride straight up a precipice.
 Don't you know he could only be shot with a silver bullet,
 because he had sold himself to the Devil?  That's one comfort
 about you; at least you know enough to believe in the Devil.'
 
-`Oh, yes,' replied [[Father Brown]], `I believe in the Devil.
+‘Oh, yes,' replied [[Father Brown]], ‘I believe in the Devil.
 What I don't believe in is the Dundee.  I mean the Dundee
 of Covenanting legends, with his nightmare of a horse.
 John Graham was simply a seventeenth--century professional soldier,
@@ -5356,9 +5356,9 @@ Not to mention names, which might cause a social flutter,
 I'll take a man in Dundee's own day.  Have you ever heard
 of Dalrymple of Stair?'
 
-`No,' replied the other gruffly.
+‘No,' replied the other gruffly.
 
-`You've heard of what he did,' said Father Brown, `and it was worse
+‘You've heard of what he did,' said Father Brown, ‘and it was worse
 than anything Dundee ever did; yet he escapes the infamy by oblivion.
 He was the man who made the Massacre of Glencoe.  He was a very learned
 man and lucid lawyer, a statesman with very serious and enlarged ideas
@@ -5367,12 +5367,12 @@ That's the sort of man who sells himself to the Devil.'
 
 Aylmer half started from his chair with an enthusiasm of eager assent.
 
-`By God! you are right,' he cried.  `A refined intellectual face!
+‘By God! you are right,' he cried.  ‘A refined intellectual face!
 That is the face of John Strake.'
 
 Then he raised himself and stood looking at the priest with a
-curious concentration.  `If you will wait here a little while,'
-he said, `I will show you something.'
+curious concentration.  ‘If you will wait here a little while,'
+he said, ‘I will show you something.'
 
 He went back through the central door, closing it after him; going,
 the priest presumed, to the old sideboard or possibly to his bedroom.
@@ -5385,9 +5385,9 @@ in the dim green bowl.  [[Father Brown]] was thinking hard.
 
 A minute or two afterwards he got up and slipped quietly
 to the alcove of the telephone, where he rang up his friend
-Dr Boyne, at the official headquarters.  `I wanted to tell
+Dr Boyne, at the official headquarters.  ‘I wanted to tell
 you about Aylmer and his affairs,' he said quietly.
-`It's a queer story, but I rather think there's something in it.
+‘It's a queer story, but I rather think there's something in it.
 If I were you I'd send some men up here straight away;
 four or five men, I think, and surround the [[house]].
 If anything does happen there'll probably be something startling
@@ -5408,7 +5408,7 @@ torn from his shoulder and the long [[Pistol|pistol]] smoking in his hand.
 He seemed to be shaking in every limb, yet he was shaken in part
 with an unnatural laughter.
 
-`Glory be to the White Magic!' he cried.  `Glory be to the silver bullet!
+‘Glory be to the White Magic!' he cried.  ‘Glory be to the silver bullet!
 The hell--hound had hunted once too often, and my brothers are
 avenged at last.'
 
@@ -5438,33 +5438,33 @@ the priest got a glimpse of the face, which was indeed what his host
 had called refined and intellectual; even sceptical and austere:
 the face of John Strake.
 
-`Well, I'm jiggered,' muttered Father Brown.  `It really does look
+‘Well, I'm jiggered,' muttered Father Brown.  ‘It really does look
 like some vast vampire that has swooped down like a bird.'
 
-`How else could he have come?' came a voice from the doorway,
+‘How else could he have come?' came a voice from the doorway,
 and Father Brown looked up to see Aylmer once more standing there.
 
-`Couldn't he have walked?' replied [[Father Brown]] evasively.
+‘Couldn't he have walked?' replied [[Father Brown]] evasively.
 
 Aylmer stretched out his arm and swept the white landscape
 with a gesture.
 
-`Look at the snow,' he said in a deep voice that had a sort
-of roll and thrill in it.  `Is not the [[Snow|snow]] unspotted--pure as
+‘Look at the snow,' he said in a deep voice that had a sort
+of roll and thrill in it.  ‘Is not the [[Snow|snow]] unspotted--pure as
 the white [[Magic|magic]] you yourself called it?  Is there a speck on it
 for miles, save that one foul black blot that has fallen there?
 There are no footprints, but a few of yours and mine;
 there are none approaching the [[house]] from anywhere.'
 
 Then he looked at the little priest for a moment with a concentrated
-and curious expression, and said:  `I will tell you something else.
+and curious expression, and said:  ‘I will tell you something else.
 That cloak he flies with is too long to walk with.  He was not
 a very tall man, and it would trail behind him like a royal train.
 Stretch it out over his body, if you like, and see.'
 
-`What happened to you both?' asked [[Father Brown]] abruptly.
+‘What happened to you both?' asked [[Father Brown]] abruptly.
 
-`It was too swift to describe,' answered Aylmer.  `I had looked out
+‘It was too swift to describe,' answered Aylmer.  ‘I had looked out
 of the door and was turning back when there came a kind of rushing
 of [[Wind|wind]] all around me, as if I were being buffeted by a [[Wheel|wheel]]
 revolving in mid--air.  I spun round somehow and fired blindly;
@@ -5472,11 +5472,11 @@ and then I saw nothing but what you see now.  But I am morally certain
 that you wouldn't see it if I had not had a silver shot in my gun.
 It would have been a different [[Body|body]] lying there in the [[Snow|snow]].'
 
-`By the way,' remarked Father Brown, `shall we leave it lying
+‘By the way,' remarked Father Brown, ‘shall we leave it lying
 there in the [[Snow|snow]]?  Or would you like it taken into your room--
 I suppose that's your bedroom in the passage?'
 
-`No, no,' replied Aylmer hastily, `we must leave it here till the police
+‘No, no,' replied Aylmer hastily, ‘we must leave it here till the police
 have seen it.  Besides, I've had as much of such things as I can stand
 for the moment.  Whatever else happens, I'm going to have a drink.
 After that, they can hang me if they like.'
@@ -5491,7 +5491,7 @@ but at this moment his distraction must have been extreme.
 He drank with a long gulp and began to talk rather feverishly,
 as if to fill up a [[Silence|silence]].
 
-`I see you are still doubtful,' he said, `though you have seen the thing
+‘I see you are still doubtful,' he said, ‘though you have seen the thing
 with your own eyes.  Believe me, there was something more behind
 the quarrel between the spirit of Strake and the spirit of the [[house]]
 of Aylmer.  Besides, you have no business to be an unbeliever.  You ought
@@ -5500,18 +5500,18 @@ Come now, don't you think there's a lot in those old wives'
 tales about luck and charms and so on, silver bullets included?
 What do you say about them as a Catholic?'
 
-`I say I'm an agnostic,' replied Father Brown, smiling.
+‘I say I'm an agnostic,' replied Father Brown, smiling.
 
-`Nonsense,' said Aylmer impatiently.  `It's your business
+‘Nonsense,' said Aylmer impatiently.  ‘It's your business
 to believe things.'
 
-`[[Well]], I do believe some things, of course,' conceded [[Father Brown]];
-`and therefore, of course, I don't believe other things.'
+‘[[Well]], I do believe some things, of course,' conceded [[Father Brown]];
+‘and therefore, of course, I don't believe other things.'
 
 Aylmer was leaning forward, and looking at him with a strange
 intensity that was almost like that of a mesmerist.
 
-`You do believe it,' he said.  `You do believe everything.
+‘You do believe it,' he said.  ‘You do believe everything.
 We all believe everything, even when we deny everything.
 The denyers believe.  The unbelievers believe.  Don't you feel
 in your heart that these contradictions do not really contradict:
@@ -5526,7 +5526,7 @@ all your beliefs, that there is but one reality and we are
 its shadows; and that all things are but aspects of one thing:
 a centre where men melt into Man and Man into God?'
 
-`No,' said [[Father Brown]].
+‘No,' said [[Father Brown]].
 
 Outside, twilight had begun to fall, in that phase of such a [[Snow|snow]]--
 laden evening when the land looks brighter than the sky.
@@ -5542,22 +5542,22 @@ of evening, but still like grey caricatures of the figures of men.
 Dr Boyne had already obeyed the telephone message.
 The [[house]] was surrounded.
 
-`What is the good of saying no?' insisted his host,
-still with the same hypnotic stare.  `You have seen part
+‘What is the good of saying no?' insisted his host,
+still with the same hypnotic stare.  ‘You have seen part
 of that eternal drama with your own eyes.  You have seen
 the threat of John Strake to slay Arnold Aylmer by black [[Magic|magic]].
 You have seen Arnold Aylmer slay John Strake by white [[Magic|magic]].
 You see Arnold Aylmer alive and talking to you now.
 And yet you don't believe it.'
 
-`No, I do not believe it,' said Father Brown, and rose from his chair
+‘No, I do not believe it,' said Father Brown, and rose from his chair
 like one terminating a visit.
 
-`Why not?' asked the other.
+‘Why not?' asked the other.
 
 The priest only lifted his voice a little, but it sounded in every corner
-of the room like a bell.  `Because you are not Arnold Aylmer,' he said.
-`I know who you are.  Your name is John Strake; and you have murdered
+of the room like a bell.  ‘Because you are not Arnold Aylmer,' he said.
+‘I know who you are.  Your name is John Strake; and you have murdered
 the last of the brothers, who is lying outside in the [[Snow|snow]].'
 
 A ring of white showed round the iris of the other man's eyes;
@@ -5578,7 +5578,7 @@ Compared to the fact that he had rounded off his life's work with
 the last Aylmer lying dead, everything else, including existence itself,
 seemed to be indifferent to him.
 
-`The man is a sort of monomaniac,' said Father Brown.  `He is not
+‘The man is a sort of monomaniac,' said Father Brown.  ‘He is not
 interested in any other matter; not even in any other murder.
 I owe him something for that; for I had to comfort myself with
 the reflection a good many times this afternoon.  As has doubtless
@@ -5587,12 +5587,12 @@ occurred to you, instead of weaving all that wild but ingenious
 an ordinary leaden bullet into me, and walked out of the [[house]].
 I assure you it occurred quite frequently to me.'
 
-`I wonder why he didn't,' observed Boyne.  `I don't understand it;
+‘I wonder why he didn't,' observed Boyne.  ‘I don't understand it;
 but I don't understand anything yet.  How on earth did you discover it,
 and what in the world did you discover?'
 
-`Oh, you provided me with very valuable information,'
-replied Father Brown modestly, `especially the one piece
+‘Oh, you provided me with very valuable information,'
+replied Father Brown modestly, ‘especially the one piece
 of information that really counted.  I mean the statement
 that Strake was a very inventive and imaginative liar,
 with great presence of mind in producing his lies.
@@ -5601,11 +5601,11 @@ Perhaps his only mistake was in choosing a preternatural story;
 he had the notion that because I am a clergyman I should
 believe anything.  Many people have little notions of that kind.'
 
-`But I can't make head or tail of it,' said the doctor.
-`You must really begin at the beginning.'
+‘But I can't make head or tail of it,' said the doctor.
+‘You must really begin at the beginning.'
 
-`The beginning of it was a dressing--gown,' said Father Brown simply.
-`It was the one really good disguise I've ever known.
+‘The beginning of it was a dressing--gown,' said Father Brown simply.
+‘It was the one really good disguise I've ever known.
 When you meet a man in a [[house]] with a dressing--gown on,
 you assume quite automatically that he's in his own [[house]].
 I assumed it myself; but afterwards queer little things began to happen.
@@ -5626,7 +5626,7 @@ obviously deserted; no bed, no anything.  Therefore he had
 not come from inside any room, but from outside the [[house]].
 And when I saw that, I think I saw the whole picture.
 
-`Poor Arnold Aylmer doubtless slept and perhaps lived upstairs, and came
+‘Poor Arnold Aylmer doubtless slept and perhaps lived upstairs, and came
 down in his dressing--gown and passed through the red glass door.
 At the end of the passage, black against the winter daylight,
 he saw the enemy of his house.  He saw a tall bearded man
@@ -5639,7 +5639,7 @@ on the last of his foes heard something he had not expected.
 He heard footsteps in the parlour beyond.  It was myself entering
 by the french windows.
 
-`His masquerade was a miracle of promptitude.  It involved
+‘His masquerade was a miracle of promptitude.  It involved
 not only a disguise but a [[Romance|romance]]--an impromptu [[Romance|romance]].
 He took off his big black hat and cloak and put on the dead
 man's dressing--gown.  Then he did a rather grisly thing;
@@ -5653,13 +5653,13 @@ I myself walked past the hat--stand once without knowing it
 was anything but a hat--stand.  I think that unconsciousness
 of mine will always give me a shiver.
 
-`He might perhaps have left it at that; but I might have
+‘He might perhaps have left it at that; but I might have
 discovered the corpse at any minute; and, hung where it was,
 it was a corpse calling for what you might call an explanation.
 He adopted the bolder stroke of discovering it himself and
 explaining it himself.
 
-`Then there dawned on this strange and frightfully fertile mind
+‘Then there dawned on this strange and frightfully fertile mind
 the conception of a story of substitution; the reversal of the parts.
 He had already assumed the part of Arnold Aylmer.  Why should not his dead
 enemy assume the part of John Strake?  There must have been something
@@ -5673,7 +5673,7 @@ can imagine him smiling.'
 [[Father Brown]] was gazing into vacancy with his large grey eyes, which,
 when not blurred by his trick of blinking, were the one notable
 thing in his face.  He went on speaking simply and seriously:
-`All things are from God; and above all, reason and imagination
+‘All things are from God; and above all, reason and imagination
 and the great gifts of the mind.  They are good in themselves;
 and we must not altogether forget their origin even in their perversion.
 Now this man had in him a very noble power to be perverted;
@@ -5695,7 +5695,7 @@ and with the false yet unfathomable courage of a great liar.  He could
 always produce more Arabian Nights if ever his neck was in danger.
 And today his neck was in danger.
 
-`But I am sure, as I say, that he enjoyed it as a fantasy as [[Well|well]]
+‘But I am sure, as I say, that he enjoyed it as a fantasy as [[Well|well]]
 as a conspiracy.  He set about the task of telling the true story
 the wrong way round:  of treating the dead man as living and the live
 man as dead.  He had already got into Aylmer's dressing--gown;
@@ -5722,14 +5722,14 @@ proved that he never walked on the ground like an ordinary mortal.
 But he looked at me very hard while he said that; and something
 told me that he was at that moment trying a very big bluff.'
 
-Dr Boyne looked thoughtful.  `Had you discovered the truth by then?'
-he asked.  `There is something very queer and close to the nerves,
+Dr Boyne looked thoughtful.  ‘Had you discovered the truth by then?'
+he asked.  ‘There is something very queer and close to the nerves,
 I think, about notions affecting [[Identity|identity]].  I don't know whether it
 would be more weird to get a guess like that swiftly or slowly.
 I [[Wonder|wonder]] when you suspected and when you were sure.'
 
-`I think I really suspected when I telephoned to you,'
-replied his friend.  `And it was nothing more than the red light
+‘I think I really suspected when I telephoned to you,'
+replied his friend.  ‘And it was nothing more than the red light
 from the closed door brightening and darkening on the carpet.
 It looked like a splash of [[Blood|blood]] that grew vivid as it
 cried for vengeance.  Why should it change like that?
@@ -5746,11 +5746,11 @@ That's what he used to do with old Aylmer, no [[Doubt|doubt]].
 But it wasn't only the way he said it, it was what he said.
 It was the religion and [[philosophy]] of it.'
 
-`I'm afraid I'm a practical man,' said the doctor with gruff humour,
-`and I don't bother much about religion and [[philosophy]].'
+‘I'm afraid I'm a practical man,' said the doctor with gruff humour,
+‘and I don't bother much about religion and [[philosophy]].'
 
-`You'll never be a practical man till you do,' said Father Brown.
-`Look here, doctor; you know me pretty [[Well|well]]; I think you
+‘You'll never be a practical man till you do,' said Father Brown.
+‘Look here, doctor; you know me pretty [[Well|well]]; I think you
 know I'm not a bigot.  You know I know there are all sorts
 in all religions; good men in bad ones and bad men in good ones.
 But there's just one little fact I've learned simply as a
@@ -5768,10 +5768,10 @@ It may not be like that in its real religious origins;
 but here in our working world it is the religion of rascals;
 and I knew it was a rascal who was speaking.'
 
-`Why,' said Boyne, `I should have thought that a rascal could
+‘Why,' said Boyne, ‘I should have thought that a rascal could
 pretty [[Well|well]] profess any religion he chose.'
 
-`Yes,' assented the other; `he could profess any religion;
+‘Yes,' assented the other; ‘he could profess any religion;
 that is he could pretend to any religion, if it was all a pretence.
 If it was mere mechanical hypocrisy and nothing else,
 no [[Doubt|doubt]] it could be done by a mere mechanical hypocrite.
@@ -5796,11 +5796,11 @@ quite sincerely that Buddhism is more Christian than [[Christianity]].
 That [[Alone|alone]] is enough to throw a hideous and ghastly ray of light
 on his notion of [[Christianity]].'
 
-`Upon my soul,' said the doctor, laughing, `I can't make out whether
+‘Upon my soul,' said the doctor, laughing, ‘I can't make out whether
 you're denouncing or defending him.'
 
-`It isn't defending a man to say he is a genius,' said Father Brown.
-`Far from it.  And it is simply a psychological fact that
+‘It isn't defending a man to say he is a genius,' said Father Brown.
+‘Far from it.  And it is simply a psychological fact that
 an [[Artist|artist]] will betray himself by some sort of sincerity.
 Leonardo da Vinci cannot draw as if he couldn't draw.
 Even if he tried, it will always be a strong [[Parody|parody]] of a weak thing.
@@ -5829,7 +5829,7 @@ and deeper draughts of that virginal vivacity of the air.
 Some forgotten muddle and morbidity seemed to be left behind, or wiped
 out as the [[Snow|snow]] had painted out the footprints of the man of [[Blood|blood]].
 As he shuffled homewards through the [[Snow|snow]], he muttered to himself:
-`And yet he is right enough about there being a white magic,
+‘And yet he is right enough about there being a white magic,
 if he only knows where to look for it.'
 
 SEVEN:  The Doom of the Darnaways
@@ -5857,13 +5857,13 @@ most of them being blind and bricked up and their outlines only faintly
 traceable in the twilight.  But one window at least was still a window;
 and it seemed strangest of all that it showed a light.
 
-`Who on earth can live in that old shell?' exclaimed the Londoner,
+‘Who on earth can live in that old shell?' exclaimed the Londoner,
 who was a big, bohemian--looking man, young but with a shaggy
 red beard that made him look older; Chelsea knew him familiarly
 as Harry Payne.
 
-`Ghosts, you might suppose,' replied his friend Martin Wood.
-`[[Well]], the people who live there really are rather like [[Ghosts|ghosts]].'
+‘Ghosts, you might suppose,' replied his friend Martin Wood.
+‘[[Well]], the people who live there really are rather like [[Ghosts|ghosts]].'
 
 It was perhaps rather a [[Paradox|paradox]] that the [[London]] [[Artist|artist]] seemed almost
 bucolic in his boisterous freshness and [[Wonder|wonder]], while the local [[Artist|artist]]
@@ -5872,7 +5872,7 @@ and amiable amusement; indeed, the latter was altogether a quieter
 and more conventional figure, wearing darker clothes and with his square
 and stolid face clean shaven.
 
-`It is only a sign of the times, of course,' he went on,'
+‘It is only a sign of the times, of course,' he went on,'
 or of the passing of old times and old families with them.
 The last of the great Darnaways live in that house,
 and not many of the new poor are as poor as they are.
@@ -5885,10 +5885,10 @@ asked for my professional advice in overhauling them.
 There's one of them especially, and one of the earliest,
 but it's so good that it gives you the creeps.'
 
-`The whole place gives you the creeps, I should think by the look
+‘The whole place gives you the creeps, I should think by the look
 of it,' replied Payne.
 
-`Well,' said his friend, `to tell you the [[Truth|truth]], it does.'
+‘Well,' said his friend, ‘to tell you the [[Truth|truth]], it does.'
 
 The [[Silence|silence]] that followed was stirred by a faint rustle among
 the rushes by the moat; and it gave them, rationally enough,
@@ -5898,19 +5898,19 @@ But it was only a man walking briskly with a black bag in his hand:
 a man with a long sallow face and sharp eyes that glanced at
 the [[London]] stranger in a slightly darkling and suspicious manner.
 
-`It's only Dr Barnet,' said Wood with a sort of relief.
+‘It's only Dr Barnet,' said Wood with a sort of relief.
 'Good evening, Doctor.  Are you going up to the house?
 I hope nobody's ill.'
 
-`Everybody's always ill in a place like that,'
-growled the doctor; `only sometimes they're too ill to know it.
+‘Everybody's always ill in a place like that,'
+growled the doctor; ‘only sometimes they're too ill to know it.
 The very air of the place is a blight and a pestilence.
 I don't envy the young man from Australia.'
 
-`And who,' asked Payne abruptly and rather absently, `may the young
+‘And who,' asked Payne abruptly and rather absently, ‘may the young
 man from Australia be?'
 
-`Ah!' snorted the doctor; `hasn't your friend told you about him?
+‘Ah!' snorted the doctor; ‘hasn't your friend told you about him?
 As a matter of fact I believe he is arriving today.  Quite a romance
 in the old style of melodrama:  the heir back from the colonies
 to his ruined castle, all complete even down to an old family
@@ -5919,26 +5919,26 @@ Queer old stuff, isn't it? but it really happens sometimes.
 He's even got a little money, which is the only bright spot there
 ever was in this business.'
 
-`What does Miss Darnaway herself, in her ivied tower,
+‘What does Miss Darnaway herself, in her ivied tower,
 think of the business?' asked Martin Wood dryly.
 
-`What she thinks of everything else by this time,' replied the doctor.
-`They don't think in this weedy old den of superstitions, they only dream
+‘What she thinks of everything else by this time,' replied the doctor.
+‘They don't think in this weedy old den of superstitions, they only dream
 and drift.  I think she accepts the family contract and the colonial
 husband as part of the Doom of the Darnaways, don't you know.
 I really think that if he turned out to be a humpbacked Negro with one
 eye and a homicidal mania, she would only think it added a finishing
 touch and fitted in with the twilight scenery.'
 
-`You're not giving my friend from London a very lively
+‘You're not giving my friend from London a very lively
 picture of my friends in the country,' said Wood, laughing.
-`I had intended taking him there to call; no [[Artist|artist]] ought
+‘I had intended taking him there to call; no [[Artist|artist]] ought
 to miss those Darnaway portraits if he gets the chance.
 But perhaps I'd better postpone it if they're in the middle
 of the Australian invasion.'
 
-`Oh, do go in and see them, for the Lord's sake,' said Dr Barnet warmly.
-`Anything that will brighten their blighted lives will make
+‘Oh, do go in and see them, for the Lord's sake,' said Dr Barnet warmly.
+‘Anything that will brighten their blighted lives will make
 my task easier.  It will need a good many colonial cousins
 to cheer things up, I should think; and the more the merrier.
 Come, I'll take you in myself.'
@@ -5977,9 +5977,9 @@ of Shallot who never saw the world outside except in a [[Mirror|mirror]].
 The lady of this Shallot not only in some sense saw the world
 in a [[Mirror|mirror]], but even saw the world upside--down.
 
-`It's as if the house of Darnaway were falling literally
+‘It's as if the house of Darnaway were falling literally
 as well as metaphorically,' said Wood in a low voice;
-`as if it were sinking slowly into a swamp or a quicksand,
+‘as if it were sinking slowly into a swamp or a quicksand,
 until the sea goes over it like a green roof.'
 
 Even the sturdy Dr Barnet started a little at the silent
@@ -6027,7 +6027,7 @@ bent on showing, not only as a picture but almost as a puzzle.
 The little priest trudged along with them; he seemed to know
 something about old pictures as [[Well|well]] as about old prayers.
 
-`I'm rather proud of having spotted this,' said Wood.'
+‘I'm rather proud of having spotted this,' said Wood.'
 I believe it's a Holbein.  If it isn't, there was somebody
 living in Holbein's time who was as great as Holbein.'
 
@@ -6035,8 +6035,8 @@ It was a portrait in the hard but sincere and living fashion
 of the period, representing a man clad in black trimmed with gold
 and fur, with a heavy, full, rather pale face but watchful eyes.
 
-`What a pity art couldn't have stopped for ever at just that
-transition stage,' cried Wood, `and never transitioned any more.
+‘What a pity art couldn't have stopped for ever at just that
+transition stage,' cried Wood, ‘and never transitioned any more.
 Don't you see it's just realistic enough to be real?
 Don't you see the face speaks all the more because it stands
 out from a rather stiffer framework of less essential things?
@@ -6045,11 +6045,11 @@ On my soul, I think the eyes are too real for the face!
 It's just as if those sly, quick eyeballs were protruding
 out of a great pale mask.'
 
-`The stiffness extends to the figure a little, I think,' said Payne.
-`They hadn't quite mastered anatomy when medievalism ended, at least
+‘The stiffness extends to the figure a little, I think,' said Payne.
+‘They hadn't quite mastered anatomy when medievalism ended, at least
 in the north.  That left leg looks to me a good deal out of drawing.'
 
-`I'm not so sure,' replied Wood quietly.  `Those fellows
+‘I'm not so sure,' replied Wood quietly.  ‘Those fellows
 who painted just when realism began to be done, and before it
 began to be overdone, were often more realistic than we think.
 They put real details of portraiture into things that are thought
@@ -6059,18 +6059,18 @@ that one of his eyebrows did really stick up more than the other.
 And I shouldn't wonder if he was lame or something, and that black
 leg was meant to be crooked.'
 
-`What an old devil he looks!' burst out Payne suddenly.
-`I trust his reverence will excuse my language.'
+‘What an old devil he looks!' burst out Payne suddenly.
+‘I trust his reverence will excuse my language.'
 
-`I believe in the devil, thank you,' said the priest with
-an inscrutable face.  `Curiously enough there was a legend
+‘I believe in the devil, thank you,' said the priest with
+an inscrutable face.  ‘Curiously enough there was a legend
 that the devil was lame.'
 
-`I say,' protested Payne, `you can't really mean that he was the devil;
+‘I say,' protested Payne, ‘you can't really mean that he was the devil;
 but who the devil was he?'
 
-`He was the Lord Darnaway under Henry VII and [[Henry VIII]],'
-replied his companion.  `But there are curious legends about him, too;
+‘He was the Lord Darnaway under Henry VII and [[Henry VIII]],'
+replied his companion.  ‘But there are curious legends about him, too;
 one of them is referred to in that inscription round the frame,
 and further developed in some notes left by somebody in a book I
 found here.  They are both rather curious reading.'
@@ -6082,11 +6082,11 @@ and spelling, it seemed to be a sort of rhyme running somewhat thus:
 In the seventh heir I shall return:  In the seventh hour I shall depart:
 None in that hour shall hold my hand:  And woe to her that holds my heart.
 
-`It sounds creepy somehow,' said Payne, `but that may be partly
+‘It sounds creepy somehow,' said Payne, ‘but that may be partly
 because I don't understand a word of it.'
 
-`It's pretty creepy even when you do,' said Wood in a low voice.
-`The record made at a later date, in the old book I found,
+‘It's pretty creepy even when you do,' said Wood in a low voice.
+‘The record made at a later date, in the old book I found,
 is all about how this beauty deliberately killed himself
 in such a way that his wife was executed for his murder.
 Another note commemorates a later tragedy, seven successions later--
@@ -6097,22 +6097,22 @@ I suppose the inference is that he does really return with every
 seventh inheritor and makes things unpleasant, as the rhyme suggests,
 for any lady unwise enough to marry him.'
 
-`On that argument,' replied Payne, `it would be a trifle uncomfortable
+‘On that argument,' replied Payne, ‘it would be a trifle uncomfortable
 for the next seventh gentleman.'
 
-Wood's voice was lower still as he said:  `The new heir will
+Wood's voice was lower still as he said:  ‘The new heir will
 be the seventh.'
 
 Harry Payne suddenly heaved up his great chest and shoulders
 like a man flinging off a burden.
 
-`What crazy stuff are we all talking?' he cried.
-`We're all educated men in an enlightened age, I suppose.
+‘What crazy stuff are we all talking?' he cried.
+‘We're all educated men in an enlightened age, I suppose.
 Before I came into this damned dank atmosphere I'd never
 have believed I should be talking of such things, except to
 laugh at them.'
 
-`You are right,' said Wood.  `If you lived long enough in this
+‘You are right,' said Wood.  ‘If you lived long enough in this
 underground palace you'd begin to feel differently about things.
 I've begun to feel very curiously about that picture,
 having had so much to do with handling and hanging it.
@@ -6122,7 +6122,7 @@ that it is a sort of talisman or magnet:  that it commands
 the elements and draws out the destinies of men and things.
 I suppose you would call it very fanciful.'
 
-`What is that noise?' cried Payne suddenly.
+‘What is that noise?' cried Payne suddenly.
 
 They all listened, and there seemed to be no noise except the dull boom
 of the distant sea; then they began to have the sense of something
@@ -6147,13 +6147,13 @@ window with an altered face, and he spoke with an altered voice:
 
 'How queerly he's standing!'
 
-`No, no,' said Wood, in a sort of soothing whisper.
-`Things often look like that in reflection.  It's the wavering
+‘No, no,' said Wood, in a sort of soothing whisper.
+‘Things often look like that in reflection.  It's the wavering
 of the water that makes you think that.'
 
-`Think what?' asked the priest shortly.
+‘Think what?' asked the priest shortly.
 
-`That his left leg is crooked,' said Wood.
+‘That his left leg is crooked,' said Wood.
 
 Payne had thought of the oval window as a sort of mystical mirror; and it
 seemed to him that there were in it other inscrutable images of doom.
@@ -6166,7 +6166,7 @@ of the human figure passed out of the picture.
 
 He turned to meet the pale face of old Vine, the steward,
 with his mouth open, eager to speak, and his single tooth showing.
-`He has come,' he said.  `The boat arrived from Australia this morning.'
+‘He has come,' he said.  ‘The boat arrived from Australia this morning.'
 
 Even as they went back out of the library into the central salon they
 heard the footsteps of the newcomer clattering down the entrance steps,
@@ -6204,7 +6204,7 @@ Payne was surprised, when taking his leave a little while after,
 at something which showed that the Australian was already less
 unconscious of his surroundings.  He said in a low voice:
 
-`Don't go ... or come again soon.  You look like a human being.
+‘Don't go ... or come again soon.  You look like a human being.
 This place fairly gives me the jumps.'
 
 When Payne emerged out of those almost subterranean halls
@@ -6219,12 +6219,12 @@ portrait and the new arrival troubled him like a two headed [[Monster|monster]].
 And yet it was not altogether a [[nightmare]]; nor was it that face, perhaps,
 that he saw most vividly.
 
-`Did you say?' he asked of the doctor, as they strode together across
-the striped dark sands by the darkening sea; `did you say that young
+‘Did you say?' he asked of the doctor, as they strode together across
+the striped dark sands by the darkening sea; ‘did you say that young
 man was betrothed to Miss Darnaway by a family compact or something?
 Sounds rather like a [[Novel|novel]].'
 
-`But an historical novel,' answered Dr Barnet.  `The Darnaways
+‘But an historical novel,' answered Dr Barnet.  ‘The Darnaways
 all went to [[Sleep|sleep]] a few centuries ago, when things were really done
 that we only read of in romances.  Yes; I believe there's some family
 tradition by which second or third cousins always marry when they
@@ -6233,17 +6233,17 @@ A damned silly tradition, I should say; and if they often married
 in and in, in that fashion, it may account on principles of heredity
 for their having gone so rotten.'
 
-`I should hardly say,' answered Payne a little stuffily,
-`that they had all gone rotten.'
+‘I should hardly say,' answered Payne a little stuffily,
+‘that they had all gone rotten.'
 
-`Well,' replied the doctor, `the young man doesn't look rotten,
+‘Well,' replied the doctor, ‘the young man doesn't look rotten,
 of course, though he's certainly lame.'
 
-`The young man!' cried Payne, who was suddenly and unreasonably angry.
-`[[Well]], if you think the young lady looks rotten, I think it's you
+‘The young man!' cried Payne, who was suddenly and unreasonably angry.
+‘[[Well]], if you think the young lady looks rotten, I think it's you
 who have rotten taste.'
 
-The doctor's face grew dark and bitter.  `I fancy I know more about it
+The doctor's face grew dark and bitter.  ‘I fancy I know more about it
 than you do,' he snapped.
 
 They completed the walk in silence, each feeling that he had been
@@ -6272,31 +6272,31 @@ Once he attempted to confide in his friend Martin Wood, as he was
 pottering about in his capacity of picture--hanger; but even
 out of him he got very little satisfaction.
 
-`It seems to me you can't butt in,' said Wood shortly,
-`because of the engagement.'
+‘It seems to me you can't butt in,' said Wood shortly,
+‘because of the engagement.'
 
-`Of course I shan't butt in if there is an engagement,'
-retorted his friend; `but is there?  I haven't said a word to
+‘Of course I shan't butt in if there is an engagement,'
+retorted his friend; ‘but is there?  I haven't said a word to
 her of course; but I've seen enough of her to be pretty certain
 she doesn't think there is, even if she thinks there may be.
 He doesn't say there is, or even hint that there ought to be.
 It seems to me this shillyshallying is rather unfair on everybody.'
 
-`Especially on you, I suppose,' said Wood a little harshly.
-`But if you ask me, I'll tell you what I think--I think he's afraid.'
+‘Especially on you, I suppose,' said Wood a little harshly.
+‘But if you ask me, I'll tell you what I think--I think he's afraid.'
 
-`Afraid of being refused?' asked Payne.
+‘Afraid of being refused?' asked Payne.
 
-`No; afraid of being accepted,' answered the other.
-`Don't bite my head off--I don't mean afraid of the lady.
+‘No; afraid of being accepted,' answered the other.
+‘Don't bite my head off--I don't mean afraid of the lady.
 I mean afraid of the picture.'
 
-`Afraid of the picture!' repeated Payne.
+‘Afraid of the picture!' repeated Payne.
 
-`I mean afraid of the curse,' said Wood.  `Don't you remember
+‘I mean afraid of the curse,' said Wood.  ‘Don't you remember
 the rhyme about the Darnaway doom falling on him and her.'
 
-`Yes, but look here,' cried Payne; `even the Darnaway doom can't
+‘Yes, but look here,' cried Payne; ‘even the Darnaway doom can't
 have it both ways.  You tell me first that I mustn't have my own
 way because of the compact, and then that the compact mustn't
 have its own way because of the curse.  But if the curse can
@@ -6306,7 +6306,7 @@ anybody else, and there's an end of it.  Why should I suffer
 for the observance of something they don't propose to observe?
 It seems to me your position is very unreasonable.'
 
-`Of course it's all a tangle,' said Wood rather crossly,
+‘Of course it's all a tangle,' said Wood rather crossly,
 and went on hammering at the frame of a canvas.
 
 Suddenly, one morning, the new heir broke his long and
@@ -6315,7 +6315,7 @@ as was his way, but with an obvious anxiety to do the right thing.
 He asked frankly for advice, not of this or that individual
 as Payne had done, but collectively as of a crowd.
 When he did speak he threw himself on the whole company like a
-statesman going to the country.  He called it `a show--down'.
+statesman going to the country.  He called it ‘a show--down'.
 Fortunately the lady was not included in this large gesture;
 and Payne shuddered when he thought of her feelings.
 But the Australian was quite honest; he thought the natural
@@ -6339,7 +6339,7 @@ himself turned abruptly in his chair and began to talk.
 A moment after the dazed artist knew that he was talking
 about the most tremendous thing in the world.
 
-`Is there anything in it?' he was saying.  'That is
+‘Is there anything in it?' he was saying.  'That is
 what I've come to asking myself till I'm nearly crazy.
 I'd never have believed I should come to thinking of such things;
 but I think of the portrait and the rhyme and the coincidences
@@ -6356,8 +6356,8 @@ the problem of superstition being brought before that supremely
 superstitious tribunal.  He was sitting next to Darnaway
 and struck in before the priest could answer.
 
-`Well, the coincidences are curious, I admit,' he said,
-rather forcing a note of cheerfulness; `but surely we--`
+‘Well, the coincidences are curious, I admit,' he said,
+rather forcing a note of cheerfulness; ‘but surely we--‘
 and then he stopped as if he had been struck by lightning.
 For Darnaway had turned his head sharply over his shoulder at
 the interruption, and with the movement, his left eyebrow jerked up
@@ -6366,16 +6366,16 @@ glared at him with a ghastly exaggeration of exactitude.
 The rest saw it; and all had the air of having been dazzled
 by an instant of light.  The old steward gave a hollow groan.
 
-`It is no good,' he said hoarsely;' we are dealing with
+‘It is no good,' he said hoarsely;' we are dealing with
 something too terrible.'
 
-`Yes,' assented the priest in a low voice, `we are dealing
+‘Yes,' assented the priest in a low voice, ‘we are dealing
 with something terrible; with the most terrible thing I know,
 and the name of it is nonsense.'
 
-`What did you say?' said Darnaway, still looking towards him.
+‘What did you say?' said Darnaway, still looking towards him.
 
-`I said nonsense,' repeated the priest.  `I have not said
+‘I said nonsense,' repeated the priest.  ‘I have not said
 anything in particular up to now, for it was none of my business;
 I was only taking temporary duty in the neighbourhood and
 Miss Darnaway wanted to see me.  But since you're asking me
@@ -6386,42 +6386,42 @@ A man isn't fated to fall into the smallest venial sin,
 let alone into crimes like suicide and murder.  You can't be
 made to do wicked things against your will because your name
 is Darnaway, any more than I can because my name is Brown.
-The Doom of the Browns,' he added with relish--`the Weird
+The Doom of the Browns,' he added with relish--‘the Weird
 of the Browns would sound even better.'
 
-`And you of all people,' repeated the Australian, staring, `tell me
+‘And you of all people,' repeated the Australian, staring, ‘tell me
 to think like that about it.'
 
-`I tell you to think about something else,' replied the
-priest cheerfully.  `What has become of the rising art of photography?
+‘I tell you to think about something else,' replied the
+priest cheerfully.  ‘What has become of the rising art of photography?
 How is the camera getting on?  I know it's rather dark downstairs,
 but those hollow arches on the floor above could easily be turned
 into a first--rate photographic studio.  A few workmen could fit
 it out with a glass roof in no [[Time|time]].'
 
-`Really,' protested Martin Wood, `I do think you should be the last man
+‘Really,' protested Martin Wood, ‘I do think you should be the last man
 in the world to tinker about with those beautiful Gothic arches, which are
 about the best work your own religion has ever done in the world.
 I should have thought you'd have had some feeling for that sort of art;
 but I can't see why you should be so uncommonly keen on photography.'
 
-`I'm uncommonly keen on daylight,' answered Father Brown,
-`especially in this dingy business; and photography has
+‘I'm uncommonly keen on daylight,' answered Father Brown,
+‘especially in this dingy business; and photography has
 the virtue of depending on daylight.  And if you don't know
 that I would grind all the Gothic arches in the world to powder
 to save the [[Sanity|sanity]] of a single human [[Soul|soul]], you don't know
 so much about my religion as you think you do.'
 
 The young Australian had sprung to his feet like a man rejuvenated.
-`By George! that's the talk,' he cried; `though I never thought
+‘By George! that's the talk,' he cried; ‘though I never thought
 to hear it from that quarter.  I'll tell you what, reverend sir,
 I'll do something that will show I haven't lost my [[Courage|courage]] after all.'
 
 The old steward was still looking at him with quaking watchfulness,
 as if he felt something fey about the young man's defiance.
-`Oh,' he cried, `what are you going to do now?'
+‘Oh,' he cried, ‘what are you going to do now?'
 
-`I am going to photograph the portrait,' replied Darnaway.
+‘I am going to photograph the portrait,' replied Darnaway.
 
 Yet it was barely a week afterwards that the storm of the
 catastrophe seemed to stoop out of the sky, darkening that sun
@@ -6478,44 +6478,44 @@ The others were standing in the salon that led into the library,
 just under the great black ebony clock that looked like
 a titanic coffin.
 
-`How was Darnaway getting on,' asked Payne, a little later,
-`when you last went up?'
+‘How was Darnaway getting on,' asked Payne, a little later,
+‘when you last went up?'
 
-The priest passed a hand over his forehead.  `Don't tell
+The priest passed a hand over his forehead.  ‘Don't tell
 me I'm getting psychic,' he said with a sad smile.
-`I believe I'm quite dazzled with daylight up in that room
+‘I believe I'm quite dazzled with daylight up in that room
 and couldn't see things straight.  Honestly, I felt for a flash
 as if there were something uncanny about Darnaway's figure
 standing before that portrait.'
 
-`Oh, that's the lame leg,' said Barnet promptly.
-`We know all about that.'
+‘Oh, that's the lame leg,' said Barnet promptly.
+‘We know all about that.'
 
-`Do you know,' said Payne abruptly, but lowering his voice,
-`l don't think we do know all about it or anything about it.
+‘Do you know,' said Payne abruptly, but lowering his voice,
+‘l don't think we do know all about it or anything about it.
 What's the matter with his leg?  What was the matter with
 his ancestor's leg?'
 
-`Oh, there's something about that in the book I was reading in there,
-in the family archives,' said Wood; `I'll fetch it for you.'
+‘Oh, there's something about that in the book I was reading in there,
+in the family archives,' said Wood; ‘I'll fetch it for you.'
 And he stepped into the library just beyond.
 
-`I think,' said [[Father Brown]] quietly, `Mr Payne must have some particular
+‘I think,' said [[Father Brown]] quietly, ‘Mr Payne must have some particular
 reason for asking that.'
 
-`I may as [[Well|well]] blurt it out once and for all,' said Payne, but in
-a yet lower voice.  `After all, there is a rational explanation.
+‘I may as [[Well|well]] blurt it out once and for all,' said Payne, but in
+a yet lower voice.  ‘After all, there is a rational explanation.
 A man from anywhere might have made up to look like the portrait.
-What do we know about Darnaway?  He is behaving rather oddly--`
+What do we know about Darnaway?  He is behaving rather oddly--‘
 
 The others were staring at him in a rather startled fashion;
 but the priest seemed to take it very calmly.
 
-`I don't think the old portrait's ever been photographed,' he said.
-`That's why he wants to do it.  I don't think there's anything
+‘I don't think the old portrait's ever been photographed,' he said.
+‘That's why he wants to do it.  I don't think there's anything
 odd about that.'
 
-`Quite an ordinary state of things, in fact,' said Wood with a smile;
+‘Quite an ordinary state of things, in fact,' said Wood with a smile;
 he had just returned with the book in his hand.  And even as he spoke
 there was a stir in the clockwork of the great dark clock behind him and
 successive strokes thrilled through the room up to the number of seven.
@@ -6523,10 +6523,10 @@ With the last stroke there came a crash from the floor above that shook
 the house like a thunderbolt; and Father Brown was already two steps up
 the winding staircase before the sound had ceased.
 
-`My God!' cried Payne involuntarily; `he is alone up there.'
+‘My God!' cried Payne involuntarily; ‘he is alone up there.'
 
-`Yes,' said [[Father Brown]] without turning, as he vanished up the stairway.
-`We shall find him alone.'
+‘Yes,' said [[Father Brown]] without turning, as he vanished up the stairway.
+‘We shall find him alone.'
 
 When the rest recovered from their first paralysis and ran helter--
 skelter up the stone steps and found their way to the new studio,
@@ -6551,18 +6551,18 @@ As he was about to say something soothing, the old man
 seemed suddenly to start awake and stiffen into anger;
 his mutterings changed to a fierce cry.
 
-`You!' he cried; `you and your daylight!  Even you won't say
+‘You!' he cried; ‘you and your daylight!  Even you won't say
 now there is no Doom for the Darnaways.'
 
-`My opinion about that is unchanged,' said [[Father Brown]] mildly.
-Then after a pause he added:  `I hope you will observe poor
+‘My opinion about that is unchanged,' said [[Father Brown]] mildly.
+Then after a pause he added:  ‘I hope you will observe poor
 Darnaway's last wish, and see the photograph is sent off.'
 
-`The photograph!' cried the doctor sharply.  `What's the good of that?
+‘The photograph!' cried the doctor sharply.  ‘What's the good of that?
 As a matter of fact, it's rather curious; but there isn't any photograph.
 It seems he never took it after all, after pottering about all day.'
 
-Father Brown swung round sharply.  `Then take it yourselves,' he said.
+Father Brown swung round sharply.  ‘Then take it yourselves,' he said.
 'Poor Darnaway was perfectly right.  It's most important that the
 photograph should be taken.'
 
@@ -6578,26 +6578,26 @@ They might be as rationalistic as they liked; but in broad daylight
 the seventh heir had returned, and in broad daylight at the seventh
 hour he had perished.
 
-`I'm afraid everybody will always believe in the Darnaway
+‘I'm afraid everybody will always believe in the Darnaway
 superstition now,' said Martin Wood.
 
-`I know one who won't,' said the doctor sharply.
-`Why should I indulge in superstition because somebody else
+‘I know one who won't,' said the doctor sharply.
+‘Why should I indulge in superstition because somebody else
 indulges in suicide?'
 
-`You think poor Mr Darnaway committed [[suicide]]?' asked the priest.
+‘You think poor Mr Darnaway committed [[suicide]]?' asked the priest.
 
-`I'm sure he committed suicide,' replied the doctor.
+‘I'm sure he committed suicide,' replied the doctor.
 
-`It is possible,' agreed the other.
+‘It is possible,' agreed the other.
 
-`He was quite alone up there, and he had a whole drug--
+‘He was quite alone up there, and he had a whole drug--
 store of poisons in the dark room.  Besides, it's just the sort
 of thing that Darnaways do.'
 
-`You don't think there's anything in the fulfilment of the family curse?'
+‘You don't think there's anything in the fulfilment of the family curse?'
 
-`Yes,' said the doctor; `I believe in one family curse, and that is
+‘Yes,' said the doctor; ‘I believe in one family curse, and that is
 the family constitution.  I told you it was heredity, and they are all
 half mad.  If you stagnate and breed in and brood in your own swamp
 like that, you're bound to degenerate whether you like it or not.
@@ -6614,13 +6614,13 @@ the Darnaways, a tragic mask pale against an unfathomable blackness,
 but itself of a blinding and more than mortal [[Beauty|beauty]].
 He opened his mouth to speak and found himself speechless.
 
-`I see,' said Father Brown to the doctor; `so you do believe
+‘I see,' said Father Brown to the doctor; ‘so you do believe
 in the superstition after all?'
 
-`What do you mean--believe in the superstition?
+‘What do you mean--believe in the superstition?
 I believe in the suicide as a matter of scientific necessity.'
 
-`[[Well]],' replied the priest, `I don't see a pin to choose between
+‘[[Well]],' replied the priest, ‘I don't see a pin to choose between
 your scientific superstition and the other magical superstition.
 They both seem to end in turning people into paralytics, who can't
 move their own legs or arms or save their own lives or souls.
@@ -6628,18 +6628,18 @@ The rhyme said it was the Doom of the Darnaways to be killed,
 and the scientific textbook says it is the Doom of the Darnaways
 to kill themselves.  Both ways they seem to be slaves.'
 
-`But I thought you said you believed in rational views of these things,'
-said Dr Barnet.  `Don't you believe in heredity?'
+‘But I thought you said you believed in rational views of these things,'
+said Dr Barnet.  ‘Don't you believe in heredity?'
 
-`I said I believed in daylight,' replied the priest in a loud and
-clear voice, `and I won't choose between two tunnels of subterranean
+‘I said I believed in daylight,' replied the priest in a loud and
+clear voice, ‘and I won't choose between two tunnels of subterranean
 superstition that both end in the dark.  And the proof of it is this:
 that you are all entirely in the dark about what really happened
 in that house.'
 
-`Do you mean about the [[suicide]]?' asked Payne.
+‘Do you mean about the [[suicide]]?' asked Payne.
 
-`I mean about the murder,' said Father Brown; and his voice,
+‘I mean about the murder,' said Father Brown; and his voice,
 though only slightly lifted to a louder note, seemed somehow
 to resound over the whole shore.'  It was murder; but murder
 is of the will, which God made free.'
@@ -6665,9 +6665,9 @@ some forgotten saint left behind in the land of death.
 She looked up, and an expression of wonder made her face
 yet more wonderful.
 
-`What is it?' she said.'  Why have you come back?'
+‘What is it?' she said.'  Why have you come back?'
 
-`I have come for the Sleeping Beauty,' he said in a tone that had
+‘I have come for the Sleeping Beauty,' he said in a tone that had
 the resonance of a laugh.  'This old house went to sleep long ago,
 as the doctor said; but it is silly for you to pretend to be old.
 Come up into the daylight and hear the truth.  I have brought you a word;
@@ -6690,10 +6690,10 @@ But now he laid a hand on the bronze triton that was like the hand
 of a giant, and shook it as if he meant to hurl it over like an idol
 or an evil god of the garden.
 
-`What do you mean?' she asked steadily.  `What is this word
+‘What do you mean?' she asked steadily.  ‘What is this word
 that will set us free?'
 
-`The word is murder,' he said, `and the freedom it brings is as fresh
+‘The word is murder,' he said, ‘and the freedom it brings is as fresh
 as the flowers of spring.  No; I do not mean I have murdered anybody.
 But the fact that anybody can be murdered is itself good news,
 after the evil dreams you have been living in.  Don't you understand?
@@ -6707,23 +6707,23 @@ inherited madness.  He was murdered; and for us that murder is simply
 an accident; yes, requiescat in pace:  but a happy accident.
 It is a ray of daylight, because it comes from outside.'
 
-She suddenly smiled.  `Yes, I believe I understand.
+She suddenly smiled.  ‘Yes, I believe I understand.
 I suppose you are talking like a lunatic, but I understand.
 But who murdered him?'
 
-`I do not know,' he answered calmly, `but [[Father Brown]] knows.
+‘I do not know,' he answered calmly, ‘but [[Father Brown]] knows.
 And as [[Father Brown]] says, murder is at least done by the will,
 free as that [[Wind|wind]] from the sea.'
 
-`Father Brown is a wonderful person,' she said after a pause;
-`he was the only person who ever brightened my existence
-in any way at all until--`
+‘Father Brown is a wonderful person,' she said after a pause;
+‘he was the only person who ever brightened my existence
+in any way at all until--‘
 
-`Until what?' asked Payne, and made a movement almost impetuous,
+‘Until what?' asked Payne, and made a movement almost impetuous,
 leaning towards her and thrusting away the bronze [[Monster|monster]] so that it
 seemed to rock on its pedestal.
 
-`Well, until you did,' she said and smiled again.
+‘Well, until you did,' she said and smiled again.
 
 So was the sleeping palace awakened, and it is no part of this story
 to describe the stages of its awakening, though much of it had come
@@ -6736,7 +6736,7 @@ He would have had no difficulty in picturing all that place
 again in flower, and the bronze triton bright as a golden
 god and the fountain flowing with water or with wine.
 But all this brightness and blossoming had been unfolded for him
-by the one word `murder', and it was still a word that he did
+by the one word ‘murder', and it was still a word that he did
 not understand.  He had taken it on trust, and he was not unwise;
 for he was one of those who have a sense of the sound of [[Truth|truth]].
 
@@ -6753,40 +6753,40 @@ that he had managed to photograph it with a magnesium flare.
 Before sending it to the antiquary, as originally arranged,
 he brought it to the priest who had so pressingly demanded it.
 
-`I can't understand your attitude about all this.  Father Brown,'
+‘I can't understand your attitude about all this.  Father Brown,'
 he said.'  You act as if you had already solved the problem in some
 way of your own.'
 
-The priest shook his head mournfully.  `Not a bit of it,'
-he answered.  `I must be very stupid, but I'm quite stuck;
+The priest shook his head mournfully.  ‘Not a bit of it,'
+he answered.  ‘I must be very stupid, but I'm quite stuck;
 stuck about the most practical point of all.
 It's a queer business; so simple up to a point and then--
 Let me have a look at that photograph, will you?'
 
 He held it close to his screwed, short--sighted eyes for a moment,
-and then said:  `Have you got a magnifying glass?'
+and then said:  ‘Have you got a magnifying glass?'
 
 Payne produced one, and the priest looked through it
 intently for some [[Time|time]] and then said:'  Look at the title
 of that book at the edge of the bookshelf beside the frame;
-it's `The History of Pope Joan'.  Now, I wonder ... yes,
+it's ‘The History of Pope Joan'.  Now, I wonder ... yes,
 by George; and the one above is something or other of Iceland.
 Lord! what a queer way to find it out!  What a dolt and donkey
 I was not to notice it when I was there!'
 
-`But what have you found out?' asked Payne impatiently.
+‘But what have you found out?' asked Payne impatiently.
 
-`The last link,' said Father Brown, `and I'm not stuck any longer.
+‘The last link,' said Father Brown, ‘and I'm not stuck any longer.
 Yes; I think I know how that unhappy story went from first to last now.'
 
-`But why?' insisted the other.
+‘But why?' insisted the other.
 
-`Why, because,' said the priest with a smile, `the Darnaway
+‘Why, because,' said the priest with a smile, ‘the Darnaway
 library contained books about Pope Joan and Iceland, not to
-mention another I see with the title beginning `The Religion
+mention another I see with the title beginning ‘The Religion
 of Frederick', which is not so very hard to fill up.'
 Then, seeing the other's annoyance, his smile faded and he said
-more earnestly:  `As a matter of fact, this last point,
+more earnestly:  ‘As a matter of fact, this last point,
 though it is the last link, is not the main business.
 There were much more curious things in the case than that.
 One of them is rather a curiosity of evidence.
@@ -6794,10 +6794,10 @@ Let me begin by saying something that may surprise you.
 Darnaway did not die at seven o'clock that evening.
 He had been already dead for a whole day.'
 
-`Surprise is rather a mild word,' said Payne grimly, `since you
+‘Surprise is rather a mild word,' said Payne grimly, ‘since you
 and I both saw him walking about afterwards.'
 
-`No, we did not,' replied [[Father Brown]] quietly.  `I think we both saw him,
+‘No, we did not,' replied [[Father Brown]] quietly.  ‘I think we both saw him,
 or thought we saw him, fussing about with the focusing of his camera.
 Wasn't his head under that black cloak when you passed through the room?
 It was when I did.  And that's why I felt there was something queer
@@ -6807,28 +6807,28 @@ of dark clothes; but if you see what you believe to be one man standing
 in the way that another man stands, you will think he's in a strange
 and strained attitude.'
 
-`Do you really mean,' cried Payne with something like a shudder,
-`that it was some unknown man?'
+‘Do you really mean,' cried Payne with something like a shudder,
+‘that it was some unknown man?'
 
-`It was the murderer,' said [[Father Brown]].  `He had already
+‘It was the murderer,' said [[Father Brown]].  ‘He had already
 killed Darnaway at daybreak and hid the corpse and himself
 in the dark room--an excellent hiding--place, because nobody
 normally goes into it or can see much if he does.
 But he let it fall out on the floor at seven o'clock, of course,
 that the whole thing might be explained by the curse.'
 
-`But I don't understand' observed Payne.  `Why didn't he kill him
+‘But I don't understand' observed Payne.  ‘Why didn't he kill him
 at seven o'clock then, instead of loading himself with a corpse
 for fourteen hours?'
 
-`Let me ask you another question,' said the priest.
-`Why was there no photograph taken?  Because the murderer made sure
+‘Let me ask you another question,' said the priest.
+‘Why was there no photograph taken?  Because the murderer made sure
 of killing him when he first got up, and before he could take it.
 It was essential to the murderer to prevent that photograph
 reaching the expert on the Darnaway antiquities.'
 
 There was a sudden silence for a moment, and then the priest went on
-in a lower tone:  `Don't you see how simple it is?  Why, you yourself saw
+in a lower tone:  ‘Don't you see how simple it is?  Why, you yourself saw
 one side of the possibility; but it's simpler even than you thought.
 You said a man might be faked to resemble an old picture.
 Surely it's simpler that a picture should be faked to resemble a man.
@@ -6839,7 +6839,7 @@ But there was a very wicked and a very clever man who was willing
 to cause another man's [[Death|death]] in order to rob him of his promised wife.'
 
 The priest suddenly gave Payne a sad smile, as if in reassurance.
-`For the moment I believe you thought I meant you,' he said,'
+‘For the moment I believe you thought I meant you,' he said,'
 but you were not the only person who haunted that house for
 sentimental reasons.  You know the man, or rather you think you do.
 But there were depths in the man called Martin Wood, artist and antiquary,
@@ -6851,13 +6851,13 @@ not be surprised at things turning up they had never noticed before.
 It had to be done well, and it was; perhaps he was right when he said
 that if it wasn't Holbein it was somebody of the same genius.'
 
-`I feel rather stunned,' said Payne; `and there are twenty things
+‘I feel rather stunned,' said Payne; ‘and there are twenty things
 I don't see yet.  How did he know what Darnaway looked like?
 How did he actually kill him?  The doctors seem rather
 puzzled at present.'
 
-`I saw a photograph the lady had which the Australian sent on before him,'
-said the priest, `and there are several ways in which he could
+‘I saw a photograph the lady had which the Australian sent on before him,'
+said the priest, ‘and there are several ways in which he could
 have learned things when the new heir was once recognized.
 We may not know these details; but they are not difficulties.
 You remember he used to help in the dark room; it seems to me
@@ -6871,30 +6871,30 @@ And I was such a fool that I never looked at the books in the library;
 and it was only in this photograph, by very undeserved good luck,
 that I saw the simple fact of a book about Pope Joan.'
 
-`You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly.
-`What on earth can Pope Joan have to do with it?'
+‘You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly.
+‘What on earth can Pope Joan have to do with it?'
 
-`Don't forget the book about the Something of Iceland,'
-advised the priest, `or the religion of somebody called Frederick.
+‘Don't forget the book about the Something of Iceland,'
+advised the priest, ‘or the religion of somebody called Frederick.
 It only remains to ask what sort of man was the late Lord Darnaway.'
 
-`Oh, does it?' observed Payne heavily.
+‘Oh, does it?' observed Payne heavily.
 
-`He was a cultivated, humorous sort of eccentric, I believe,'
-went on Father Brown.  `Being cultivated, he knew there was no
+‘He was a cultivated, humorous sort of eccentric, I believe,'
+went on Father Brown.  ‘Being cultivated, he knew there was no
 such person as Pope Joan.  Being humorous, he was very likely
-to have thought of the title of `The Snakes of Iceland'
+to have thought of the title of ‘The Snakes of Iceland'
 or something else that didn't exist.  I venture to reconstruct
-the third title as `The Religion of Frederick the Great'--
+the third title as ‘The Religion of Frederick the Great'--
 which also doesn't exist.  Now, doesn't it strike you that those would
 be just the titles to put on the backs of books that didn't exist;
 or in other words on a bookcase that wasn't a book--case?'
 
-`Ah!' cried Payne; `I see what you mean now.  There was
-some hidden staircase--`
+‘Ah!' cried Payne; ‘I see what you mean now.  There was
+some hidden staircase--‘
 
-`Up to the room Wood himself selected as a dark room,'
-said the priest nodding.  `I'm sorry.  It couldn't be helped.
+‘Up to the room Wood himself selected as a dark room,'
+said the priest nodding.  ‘I'm sorry.  It couldn't be helped.
 It's dreadfully banal and stupid, as stupid as I have been on this
 pretty banal case.  But we were mixed up in a real musty old
 romance of decayed gentility and a fallen family mansion; and it
@@ -6955,35 +6955,35 @@ he belonged, as we should say in England, to the Manchester School;
 and Gallup was always trying to persuade him to cut out competition
 and pool the resources of the world.
 
-`You'll have to come in, old fellow, sooner or later,'
-Gallup was saying genially as Byrne entered.  `It's the way the world
+‘You'll have to come in, old fellow, sooner or later,'
+Gallup was saying genially as Byrne entered.  ‘It's the way the world
 is going, and we can't go back to the one--man--business now.
 We've all got to stand together.'
 
-`If I might say a word,' said Stein, in his tranquil way, `I would
+‘If I might say a word,' said Stein, in his tranquil way, ‘I would
 say there is something a little more urgent even than standing
 together commercially.  Anyhow, we must stand together politically;
 and that's why I've asked Mr Byrne to meet us here today.
 On the political issue we must combine; for the simple reason
 that all our most dangerous enemies are already combined.'
 
-`Oh, I quite agree about political combination,' grumbled Gideon Wise.
+‘Oh, I quite agree about political combination,' grumbled Gideon Wise.
 
-`See here,' said Stein to the journalist; `I know you have the run
+‘See here,' said Stein to the journalist; ‘I know you have the run
 of these queer places, Mr Byrne, and I want you to do something
 for us unofficially.  You know where these men meet; there are
 only two or three of them that count, John Elias and Jake Halket,
 who does all the spouting, and perhaps that poet fellow [[Home]].'
 
-`Why Home used to be a friend of Gideon,' said the jeering Mr Gallup;
-`used to be in his [[Sunday]] School class or something.'
+‘Why Home used to be a friend of Gideon,' said the jeering Mr Gallup;
+‘used to be in his [[Sunday]] School class or something.'
 
-`He was a Christian, then,' said old Gideon solemnly; `but when a man
+‘He was a Christian, then,' said old Gideon solemnly; ‘but when a man
 takes up with atheists you never know.  I still meet him now and then.
 I was quite ready to back him against war and conscription and all that,
-of course, but when it comes to all the goddam bolshies in creation--`
+of course, but when it comes to all the goddam bolshies in creation--‘
 
-`Excuse me,' interposed Stein, `the matter is rather urgent,
+‘Excuse me,' interposed Stein, ‘the matter is rather urgent,
 so I hope you will excuse me putting it before Mr Byrne at once.
 Mr Byrne, I may tell you in confidence that I hold information,
 or rather evidence that would land at least two of those men in prison
@@ -6992,18 +6992,18 @@ I don't want to use that evidence.  But I want you to go to them
 quietly and tell them that I shall use it, and use it tomorrow,
 unless they alter their attitude.'
 
-`[[Well]],' replied Byrne, `what you propose would certainly
+‘[[Well]],' replied Byrne, ‘what you propose would certainly
 be called compounding a felony and might be called blackmail,
 Don't you think it is rather dangerous?'
 
-`I think it is rather dangerous for them,' said Stein with a snap;
-`and I want you to go and tell them so.'
+‘I think it is rather dangerous for them,' said Stein with a snap;
+‘and I want you to go and tell them so.'
 
-`Oh, very [[Well|well]],' said Byrne standing up, with a half humorous sigh.
-`It's all in the day's work; but if I get into trouble, I warn you I
+‘Oh, very [[Well|well]],' said Byrne standing up, with a half humorous sigh.
+‘It's all in the day's work; but if I get into trouble, I warn you I
 shall try to drag you into it.'
 
-`You will try, boy,' said old Gallup with a hearty laugh.
+‘You will try, boy,' said old Gallup with a hearty laugh.
 
 For so much still lingers of that great dream of Jefferson and,
 the thing that men have called [[democracy|Democracy]] that in his country,
@@ -7051,43 +7051,43 @@ few golden hairs were all he could do.
 
 When the journalist entered, the notorious Jake was talking,
 as he generally was.  [[Home]] had uttered some casual and conventional
-phrase about `Heaven forbid' something or other, and this was quite
+phrase about ‘Heaven forbid' something or other, and this was quite
 enough to set Jake off with a torrent of profanity.
 
-`Heaven forbid! and that's about all it bally [[Well|well]] does do,' he said.
-`Heaven never does anything but forbid this, that and the other;
+‘Heaven forbid! and that's about all it bally [[Well|well]] does do,' he said.
+‘Heaven never does anything but forbid this, that and the other;
 forbids us to strike, and forbids us to fight, and forbids us to shoot
 the damned usurers and blood--suckers where they sit.  Why doesn't
 Heaven forbid them something for a bit?  Why don't the damned priests
 and parsons stand up and tell the truth about those brutes for a change?
-Why doesn't their precious God--`
+Why doesn't their precious God--‘
 
 Elias allowed a gentle sigh, as of faint fatigue, to escape him.
 
-`Priests,' he said, `belonged, as Marx has shown, to the feudal stage
+‘Priests,' he said, ‘belonged, as Marx has shown, to the feudal stage
 of economic development and are therefore no longer really any part
 of the problem.  The part once played by the priest is now played
-by the capitalist expert and--`
+by the capitalist expert and--‘
 
-`Yes,' interrupted the journalist, with his grim and ironic implacability,
-`and it's about time you knew that some of them are jolly expert in
+‘Yes,' interrupted the journalist, with his grim and ironic implacability,
+‘and it's about time you knew that some of them are jolly expert in
 playing it.'  And without moving his own eyes from the bright but dead
 eyes of Elias, he told him of the threat of Stein.
 
-`I was prepared for something of that sort,' said the smiling
-Elias without moving; `I may say quite prepared.'
+‘I was prepared for something of that sort,' said the smiling
+Elias without moving; ‘I may say quite prepared.'
 
-`Dirty [[dogs]]!' exploded Jake.  `If a poor man said a thing
+‘Dirty [[dogs]]!' exploded Jake.  ‘If a poor man said a thing
 like that he'd go to penal servitude.  But I reckon they'll go
 somewhere worse before they guess.  If they don't go to hell,
-I don't know where the hell they'll go to--`
+I don't know where the hell they'll go to--‘
 
 [[Home]] made a movement of protest, perhaps not so much at what the man
 was saying as at what he was going to say, and Elias cut the speech
 short with cold exactitude.
 
-`It is quite unnecessary for us,' he said, looking at Byrne steadily
-through his spectacles, `to bandy threats with the other side.
+‘It is quite unnecessary for us,' he said, looking at Byrne steadily
+through his spectacles, ‘to bandy threats with the other side.
 It is quite sufficient that their threats are quite ineffective so far
 as we are concerned.  We also have made all our own arrangements,
 and some of them will not appear until they appear in motion.
@@ -7112,18 +7112,18 @@ of it blocked by a strange though strangely familiar figure:
 short and sturdy, and looking rather quaint when seen in dark
 outline with its round head and wide hat.
 
-`Father Brown!' cried the astonished journalist.
-`I think you must have come into the wrong door.
+‘Father Brown!' cried the astonished journalist.
+‘I think you must have come into the wrong door.
 You're not likely to be in this little conspiracy.'
 
-`Mine is a rather older conspiracy,' replied Father Brown smiling,'
+‘Mine is a rather older conspiracy,' replied Father Brown smiling,'
 but it is quite a widespread conspiracy.'
 
-`[[Well]],' replied Byrne,' you can't imagine any of the people here being
+‘[[Well]],' replied Byrne,' you can't imagine any of the people here being
 within a thousand miles of your concern.'
 
-`It is not always easy to tell,' replied the priest equably;
-`but as a matter of fact, there is one person here who's within
+‘It is not always easy to tell,' replied the priest equably;
+‘but as a matter of fact, there is one person here who's within
 an inch of it.'
 
 He disappeared into the dark entrance and the journalist went
@@ -7137,21 +7137,21 @@ Down these steps ran an active young man with black hair,
 a snub nose, and a flower in his buttonhole, who seized him
 and drew him aside before he could ascend the stair.
 
-`I say,' whispered the young man, `I'm Potter--old Gid's secretary,
+‘I say,' whispered the young man, ‘I'm Potter--old Gid's secretary,
 you know:  now, between ourselves, there is a sort of a thunderbolt
 being forged, isn't there, now?'
 
-`I came to the conclusion,' replied Byrne cautiously,
-`that the Cyclops had something on the anvil.  But always
+‘I came to the conclusion,' replied Byrne cautiously,
+‘that the Cyclops had something on the anvil.  But always
 remember that the Cyclops is a giant, but he has only one eye.
-I think Bolshevism is--`
+I think Bolshevism is--‘
 
 While he was speaking the secretary listened with a face that had
 a certain almost Mongolian immobility, despite the liveliness of his
-legs and his attire.  But when Byrne said the word `Bolshevism',
+legs and his attire.  But when Byrne said the word ‘Bolshevism',
 the young man's sharp eyes shifted and he said quickly:
 
-`What has that--oh yes, that sort of thunderbolt; so sorry, my mistake.
+‘What has that--oh yes, that sort of thunderbolt; so sorry, my mistake.
 So easy to say anvil when you mean ice--box.'
 
 With which the extraordinary young man disappeared down the steps
@@ -7169,8 +7169,8 @@ Of this, as Byrne knew little, he said less; and the four men
 eventually rose from their seats, the last word being with the man
 who had been most silent.
 
-`Thank you, Mr Byrne,' said Stein, folding up his eyeglasses.
-`It only remains to say that everything is ready; on that point
+‘Thank you, Mr Byrne,' said Stein, folding up his eyeglasses.
+‘It only remains to say that everything is ready; on that point
 I quite agree with Mr Elias.  Tomorrow, before noon, the police
 will have arrested Mr Elias, on evidence I shall by then
 have put before them, and those three at least will be in jail
@@ -7182,7 +7182,7 @@ for a reason that has often interrupted the activities of such
 industrious characters.  He did not do it because he happened to be dead;
 and none of the rest of the programme was carried out, for a reason
 which Byrne found displayed in gigantic letters when he opened his
-morning paper:  `Terrific Triple Murder:  Three Millionaires Slain
+morning paper:  ‘Terrific Triple Murder:  Three Millionaires Slain
 in One [[Night]].'  Other exclamatory phrases followed in smaller letters,
 only about four times the size of normal type, which insisted on
 the special feature of the mystery:  the fact that the three men had been
@@ -7248,21 +7248,21 @@ of a very unofficial obituary notice of the late Gideon Wise.
 Elias sat quite still and apparently indifferent behind those
 spectacles that masked his eyes.
 
-`It would be useless, I suppose,' said Nares coldly,
-`to tell you that your remarks are indecent.
+‘It would be useless, I suppose,' said Nares coldly,
+‘to tell you that your remarks are indecent.
 It may affect you more if I tell you they are imprudent.
 You practically admit that you hated the dead man.'
 
-`Going to put me in quod for that, are you?' jeered the demagogue.
-`All right.  Only you'll have to build a [[Prison|prison]] for a million men if
+‘Going to put me in quod for that, are you?' jeered the demagogue.
+‘All right.  Only you'll have to build a [[Prison|prison]] for a million men if
 you're going to jail all the poor people who had reason to hate Gid Wise.
 And you know it's God [[Truth|truth]] as [[Well|well]] as I do.'
 
 Nares was silent; and nobody spoke until Elias interposed with his clear
 though faintly lisping drawl.
 
-`This appears to me to be a highly unprofitable discussion on both sides,'
-he said.  `You have summoned us here either to ask us for information
+‘This appears to me to be a highly unprofitable discussion on both sides,'
+he said.  ‘You have summoned us here either to ask us for information
 or to subject us to [[Cross|cross]]--examination.  If you trust us, we tell you we
 have no information.  If you distrust us, you must tell us of what we
 are accused, or have the politeness to keep the fact to yourselves.
@@ -7276,16 +7276,16 @@ his example.  As they went towards the door, young [[Home]]
 turned back and faced the investigators for a moment with his
 pale fanatical face.
 
-`I wish to say,' he said, `that I went to a filthy jail during
+‘I wish to say,' he said, ‘that I went to a filthy jail during
 the whole war because I would not consent to kill a man.'
 
 With that they passed out, and the members of the group remaining
 looked grimly at each other.
 
-`I hardly think,' said Father Brown, `that we remain entirely victorious,
+‘I hardly think,' said Father Brown, ‘that we remain entirely victorious,
 in spite of the retreat.'
 
-`I don't mind anything,' said Nares, `except being
+‘I don't mind anything,' said Nares, ‘except being
 bullyragged by that blasphemous blackguard Halket.
 [[Home]] is a gentleman, anyhow.  But whatever they say, I am
 dead certain they know; they are in it, or most of them are.
@@ -7296,27 +7296,27 @@ What do you think, [[Father Brown]]?'
 The person addressed looked across at Nares with a gaze almost
 disconcertingly mild and meditative.
 
-`It is quite true,' he said, `that I have formed an idea
+‘It is quite true,' he said, ‘that I have formed an idea
 that one particular person knows more than he has told us.
 But I think it would be [[Well|well]] if I did not mention his
 name just yet.'
 
 Nares' eyeglass dropped from his eye, and he looked up sharply.
-`This is unofficial so far,' he said.  `I suppose you know
+‘This is unofficial so far,' he said.  ‘I suppose you know
 that at a later stage if you withhold information, your position
 may be serious.'
 
-`My position is simple,' replied the priest.  `I am here
+‘My position is simple,' replied the priest.  ‘I am here
 to look after the legitimate interests of my friend Halket.
 I think it will be in his interest, under the circumstances,
 if I tell you I think he will before long sever his connexion
 with this organization, and cease to be a Socialist in that sense.
 I have every reason to believe he will probably end as a Catholic.'
 
-`Halket!' exploded the other incredulously.  `Why he curses priests
+‘Halket!' exploded the other incredulously.  ‘Why he curses priests
 from morning till [[Night|night]]!'
 
-`I don't think you quite understand that kind of man,'
+‘I don't think you quite understand that kind of man,'
 said Father Brown mildly.  'He curses priests for failing
 (in his opinion) to defy the whole world for justice.
 Why should he expect them to defy the whole world for justice,
@@ -7325,59 +7325,59 @@ But we haven't met here to discuss the psychology of conversion.
 I only mention this because it may simplify your task--
 perhaps narrow your search.'
 
-`If it is true, it would jolly [[Well|well]] narrow it to that narrow--
+‘If it is true, it would jolly [[Well|well]] narrow it to that narrow--
 faced rascal Elias--and I shouldn't [[Wonder|wonder]], for a more creepy,
 coldblooded, sneering devil I never saw.'
 
-[[Father Brown]] sighed.  `He always reminded me of poor Stein,'
+[[Father Brown]] sighed.  ‘He always reminded me of poor Stein,'
 he said, 'in fact I think he was some relation.'
 
-`Oh, I say,' began Nares, when his protest was cut short by the door
+‘Oh, I say,' began Nares, when his protest was cut short by the door
 being flung open, revealing once more the long loose figure and pale
 face of young [[Home]]; but it seemed as if he had not merely his natural,
 but a new and unnatural pallor.
 
-`Hullo,' cried Nares, putting up his single eyeglass, `why have you
+‘Hullo,' cried Nares, putting up his single eyeglass, ‘why have you
 come back again?'
 
 [[Home]] crossed the room rather shakily without a word and sat
 down heavily in a chair.  Then he said, as in a sort of daze:
-`I missed the others ... I lost my way.  I thought I'd
+‘I missed the others ... I lost my way.  I thought I'd
 better come back.'
 
 The remains of evening refreshments were on the table,
 and Henry Home, that lifelong Prohibitionist, poured himself
 out a wine--glassful of liqueur brandy and drank it at a gulp.
-`You seem upset,' said [[Father Brown]].
+‘You seem upset,' said [[Father Brown]].
 
 [[Home]] had put his hands to his forehead and spoke as from under
 the [[Shadow|shadow]] of it:  he seemed to be speaking to the priest only,
 in a low voice.
 
-`I may as well tell you.  I have seen a ghost.'
+‘I may as well tell you.  I have seen a ghost.'
 
-`A [[Ghost|ghost]]!' repeated Nares in astonishment.  `Whose ghost?'
+‘A [[Ghost|ghost]]!' repeated Nares in astonishment.  ‘Whose ghost?'
 
-`The [[Ghost|ghost]] of Gideon Wise, the master of this [[house]],' answered [[Home]]
-more firmly, `standing over the abyss into which he fell.'
+‘The [[Ghost|ghost]] of Gideon Wise, the master of this [[house]],' answered [[Home]]
+more firmly, ‘standing over the abyss into which he fell.'
 
-`Oh, nonsense!' said Nares; `no sensible person believes in ghosts.'
+‘Oh, nonsense!' said Nares; ‘no sensible person believes in ghosts.'
 
-`That is hardly exact,' said [[Father Brown]], smiling a little.
-`There is really quite as good evidence for many ghosts as there
+‘That is hardly exact,' said [[Father Brown]], smiling a little.
+‘There is really quite as good evidence for many ghosts as there
 is for most crimes.'
 
-`[[Well]], it's my business to run after the criminals,' said Nares rather
-roughly, `and I will leave other people to run away from the ghosts.
+‘[[Well]], it's my business to run after the criminals,' said Nares rather
+roughly, ‘and I will leave other people to run away from the ghosts.
 If anybody at this time of day chooses to be frightened of ghosts
 it's his affair.'
 
-`I didn't say I was frightened of them, though I dare say I
-might be,' said [[Father Brown]].  `Nobody knows till he tries.
+‘I didn't say I was frightened of them, though I dare say I
+might be,' said [[Father Brown]].  ‘Nobody knows till he tries.
 I said I believed in them, at any rate, enough to want to hear
 more about this one.  What, exactly, did you see, Mr Home?'
 
-`It was over there on the brink of those crumbling cliffs; you know
+‘It was over there on the brink of those crumbling cliffs; you know
 there is a sort of gap or crevice just about the spot where he was
 thrown over.  The others had gone on ahead, and I was crossing
 the moor towards the path along the cliff.  I often went that way,
@@ -7395,26 +7395,26 @@ For that suspended spray, like unfallen snowflakes, had fitted together
 into a face and a figure, white as the shining leper in a legend,
 and terrible as the fixed [[Lightning|lightning]].'
 
-`And it was Gideon Wise, you say?'
+‘And it was Gideon Wise, you say?'
 
 Home nodded without speech.  There was a silence broken abruptly
 by Nares rising to his feet; so abruptly indeed that he knocked
 a chair over.
 
-`Oh, this is all nonsense,' he said, `but we'd better go out and see.'
+‘Oh, this is all nonsense,' he said, ‘but we'd better go out and see.'
 
-`I won't go,' said [[Home]] with sudden violence.  `I'll never walk
+‘I won't go,' said [[Home]] with sudden violence.  ‘I'll never walk
 by that path again.'
 
-`I think we must all walk by that path tonight,' said the priest gravely;
+‘I think we must all walk by that path tonight,' said the priest gravely;
 'though I will never deny it has been a perilous path ... to more
 people than one.'
 
-`I will not... God, how you all goad me,' cried Home, and his eyes
+‘I will not... God, how you all goad me,' cried Home, and his eyes
 began to roll in a strange fashion.  He had risen with the rest,
 hut he made no motion towards the door.
 
-`Mr [[Home]],' said Nares firmly, `I am a police--officer, and this house,
+‘Mr [[Home]],' said Nares firmly, ‘I am a police--officer, and this house,
 though you may not know it, is surrounded by the police.
 I have tried to investigate in a friendly fashion, but I must
 investigate everything, even anything so silly as a ghost.
@@ -7424,7 +7424,7 @@ There was another silence while Home stood heaving and panting
 as with indescribable fears.  Then he suddenly sat down on his chair
 again and said with an entirely new and much more composed voice:
 
-`I can't do it.  You may just as [[Well|well]] know why.
+‘I can't do it.  You may just as [[Well|well]] know why.
 You will know it sooner or later.  I killed him.'
 
 For an instant there was the stillness of a [[house]] struck by a
@@ -7432,10 +7432,10 @@ thunderbolt and full of corpses.  Then the voice of [[Father Brown]]
 sounded in that enormous [[Silence|silence]] strangely small like the squeak
 of a mouse.
 
-`Did you kill him deliberately?' he asked.
+‘Did you kill him deliberately?' he asked.
 
-`How can one answer such a question?' answered the man in
-the chair, moodily gnawing his finger.  `I was mad, I suppose.
+‘How can one answer such a question?' answered the man in
+the chair, moodily gnawing his finger.  ‘I was mad, I suppose.
 He was intolerable and insolent, I know.  I was on his land and I
 believe he struck me; anyhow, we came to a grapple and he went
 over the cliff.  When I was well away from the scene it burst
@@ -7443,21 +7443,21 @@ upon me that I had done a crime that cut me off from men;
 the brand of Cain throbbed on my brow and my very brain;
 I realized for the first time that I had indeed killed a man.
 I knew I should have to confess it sooner or later.'
-He sat suddenly erect in his chair.  `But I will say nothing
+He sat suddenly erect in his chair.  ‘But I will say nothing
 against anybody else.  It is no use asking me about plots
 or accomplices--I will say nothing.'
 
-`In the light of the other murders,' said Nares, `it is difficult
+‘In the light of the other murders,' said Nares, ‘it is difficult
 to believe that the quarrel was quite so unpremeditated.
 Surely somebody sent you there?'
 
-`I will say nothing against anybody I worked with,' said Home proudly.
-`I am a murderer, but I will not be a traitor.'
+‘I will say nothing against anybody I worked with,' said Home proudly.
+‘I am a murderer, but I will not be a traitor.'
 
 Nares stepped between the man and the door and called out in an official
 fashion to someone outside.
 
-`We will all go to the place, anyhow,' he said in a low voice
+‘We will all go to the place, anyhow,' he said in a low voice
 to the secretary; 'but this man must go in custody.'
 
 The company generally felt that to go spook--hunting on a seacliff
@@ -7471,18 +7471,18 @@ the rest across the moor to the cliff, when he was astonished to see
 young Potter, the secretary, coming back quickly towards them,
 his face in the moonlight looking white as a moon.
 
-`By God, sir,' he said, speaking for the first [[Time|time]] that [[Night|night]],
-`there really is something there.  It--it's just like him.'
+‘By God, sir,' he said, speaking for the first [[Time|time]] that [[Night|night]],
+‘there really is something there.  It--it's just like him.'
 
-`Why, you're raving,' gasped the [[Detective|detective]].  `Everybody's raving.'
+‘Why, you're raving,' gasped the [[Detective|detective]].  ‘Everybody's raving.'
 
-`Do you think I don't know him when I see him?' cried the secretary
-with singular bitterness.  `I have reason to.'
+‘Do you think I don't know him when I see him?' cried the secretary
+with singular bitterness.  ‘I have reason to.'
 
-`Perhaps,' said the [[Detective|detective]] sharply, `you are one of those who had
+‘Perhaps,' said the [[Detective|detective]] sharply, ‘you are one of those who had
 reason to hate him, as Halket said.'
 
-`Perhaps,' said the secretary; `anyhow, I know him, and I tell you I can
+‘Perhaps,' said the secretary; ‘anyhow, I know him, and I tell you I can
 see him standing there stark and staring under this hellish moon.'
 
 And he pointed towards the crack in the cliffs, where they could already
@@ -7501,19 +7501,19 @@ ghost was the man who had said openly that he might be.
 For Father Brown was advancing as steadily, at his stumping pace,
 as if he were going to consult a notice--board.
 
-`It don't seem to bother you much,' said Byrne to the priest;
-`and yet I thought you were the only one who believed in spooks.'
+‘It don't seem to bother you much,' said Byrne to the priest;
+‘and yet I thought you were the only one who believed in spooks.'
 
-`If it comes to that,' replied [[Father Brown]], `I thought you were one
+‘If it comes to that,' replied [[Father Brown]], ‘I thought you were one
 who didn't believe in them.  But believing in ghosts is one thing,
 and believing in a ghost is quite another.'
 
 Byrne looked rather ashamed of himself, and glanced
 almost covertly at the crumbling headlands in the cold
 moonlight which were the haunts of the vision or delusion.
-`I didn't believe in it till I saw it,' he said.
+‘I didn't believe in it till I saw it,' he said.
 
-`And I did believe in it till I saw it,' said Father Brown.
+‘And I did believe in it till I saw it,' said Father Brown.
 The journalist stared after him as he went stumping across
 the great waste ground that rose towards the cloven
 headland like the sloping side of a hill cut in two.
@@ -7529,10 +7529,10 @@ Then the prisoner Home broke suddenly from his captors with a
 piercing cry and ran ahead of the priest, falling on his knees
 before the spectre.
 
-`I have confessed,' they heard him crying.  `Why have you come
+‘I have confessed,' they heard him crying.  ‘Why have you come
 to tell them I killed you?'
 
-`I have come to tell them you did not,' said the [[Ghost|ghost]],
+‘I have come to tell them you did not,' said the [[Ghost|ghost]],
 and stretched forth a hand to him.  Then the kneeling man
 sprang up with quite a new kind of scream; and they knew it
 was the hand of flesh.
@@ -7561,8 +7561,8 @@ the crime.  He declared that [[Home]] had not thrown him over at all;
 that the continually breaking ground had given way under him,
 and that [[Home]] had even made some movement as of attempted rescue.
 
-`On that providential bit of rock down there,' he said solemnly,
-`I promised the Lord to forgive my enemies; and the Lord would think
+‘On that providential bit of rock down there,' he said solemnly,
+‘I promised the Lord to forgive my enemies; and the Lord would think
 it mighty mean if I didn't forgive a little accident like that.'
 
 [[Home]] had to depart under police supervision, of course, but the
@@ -7571,56 +7571,56 @@ would probably be short, and his punishment, if any, trifling.
 It is not every murderer who can put the murdered man in the witness--
 box to give him a testimonial.
 
-`It's a strange case,' said Byrne, as the detective and the others
+‘It's a strange case,' said Byrne, as the detective and the others
 hastened along the cliff path towards the town.
 
-`It is,' said [[Father Brown]].  `It's no business of ours;
+‘It is,' said [[Father Brown]].  ‘It's no business of ours;
 but I wish you'd stop with me and talk it over.'
 
 There was a silence and then Byrne complied by saying suddenly:
-`I suppose you were thinking of [[Home]] already, when you said somebody
+‘I suppose you were thinking of [[Home]] already, when you said somebody
 wasn't telling all he knew.'
 
-`When I said that,' replied his friend, `I was thinking of the exceedingly
+‘When I said that,' replied his friend, ‘I was thinking of the exceedingly
 silent Mr Potter, the secretary of the no longer late or (shall we say)
 lamented Mr Gideon Wise.'
 
-`Well, the only time Potter ever spoke to me I thought he was a lunatic,'
-said Byrne, staring, `but I never thought of his being a criminal.
+‘Well, the only time Potter ever spoke to me I thought he was a lunatic,'
+said Byrne, staring, ‘but I never thought of his being a criminal.
 He said something about it all having to do with an icebox.'
 
-`Yes, I thought he knew something about it,'
-said Father Brown reflectively.  `I never said he had anything
+‘Yes, I thought he knew something about it,'
+said Father Brown reflectively.  ‘I never said he had anything
 to do with it ... I suppose old Wise really is strong enough
 to have climbed out of that chasm.'
 
-`What do you mean?' asked the astonished reporter.  `Why, of course
+‘What do you mean?' asked the astonished reporter.  ‘Why, of course
 he got out of that chasm; for there he is.'
 
 The priest did not answer the question but asked abruptly:
-`What do you think of Home?'
+‘What do you think of Home?'
 
-`[[Well]], one can't call him a criminal exactly,' answered Byrne.
-`He never was at all like any criminal I ever knew, and I've
+‘[[Well]], one can't call him a criminal exactly,' answered Byrne.
+‘He never was at all like any criminal I ever knew, and I've
 had some experience; and, of course, Nares has had much more.
 I don't think we ever quite believed him a criminal.'
 
-`And I never believed in him in another capacity,'
-said the priest quietly.  `You may know more about criminals.
+‘And I never believed in him in another capacity,'
+said the priest quietly.  ‘You may know more about criminals.
 But there's one class of people I probably do know
 more about than you do, or even Nares for that matter.
 I've known quite a lot of them, and I know their little ways.'
 
-`Another class of people,' repeated Byrne, mystified.'  Why, what class
+‘Another class of people,' repeated Byrne, mystified.'  Why, what class
 do you know about?'
 
-`Penitents,' said Father Brown.
+‘Penitents,' said Father Brown.
 
-`I don't quite understand,' objected Byrne.  `Do you mean you
+‘I don't quite understand,' objected Byrne.  ‘Do you mean you
 don't believe in his crime?'
 
-`I don't believe in his confession,' said [[Father Brown]].
-`I've heard a good many confessions, and there was never a genuine
+‘I don't believe in his confession,' said [[Father Brown]].
+‘I've heard a good many confessions, and there was never a genuine
 one like that.  It was romantic; it was all out of books.
 Look how he talked about having the brand of Cain.  That's out of books.
 It's not what anyone would feel who had in his own person done a thing
@@ -7640,26 +7640,26 @@ A nice state of things, if people started getting absolved for
 what they hadn't done.'  And Father Brown, his head turned away,
 looked steadily out to sea.
 
-`But I don't understand what you're driving at,' cried Byrne.
-`What's the good of buzzing round him with suspicions when he's pardoned?
+‘But I don't understand what you're driving at,' cried Byrne.
+‘What's the good of buzzing round him with suspicions when he's pardoned?
 He's out of it anyhow.  He's quite safe.'
 
 Father Brown spun round like a teetotum and caught his friend
 by the coat with unexpected and inexplicable excitement.
 
-`That's it,' he cried emphatically.'  Freeze on to that!
+‘That's it,' he cried emphatically.'  Freeze on to that!
 He's quite safe.  He's out of it.  That's why he's the key
 of the whole puzzle.'
 
-`Oh, help,' said Byrne feebly.
+‘Oh, help,' said Byrne feebly.
 
-`I mean,' persisted the little priest, `he's in it because he's
+‘I mean,' persisted the little priest, ‘he's in it because he's
 out of it.  That's the whole explanation.'
 
-`And a very lucid explanation too,' said the journalist with feeling.
+‘And a very lucid explanation too,' said the journalist with feeling.
 
 They stood looking out to sea for a [[Time|time]] in [[Silence|silence]], and then
-[[Father Brown]] said cheerfully:  `And so we come back to the ice--box.
+[[Father Brown]] said cheerfully:  ‘And so we come back to the ice--box.
 Where you have all gone wrong from the first in this business is
 where a good many of the papers and the public men do go wrong.
 It's because you assumed that there is nothing whatever
@@ -7667,10 +7667,10 @@ in the modern world to fight about except Bolshevism.
 This story has nothing whatever to do with Bolshevism;
 except perhaps as a blind.'
 
-`I don't see how that can be,' remonstrated Byrne.  `Here you
-have the three millionaires in that one business murdered--`
+‘I don't see how that can be,' remonstrated Byrne.  ‘Here you
+have the three millionaires in that one business murdered--‘
 
-`No!' said the priest in a sharp ringing voice.  `You do not.
+‘No!' said the priest in a sharp ringing voice.  ‘You do not.
 That is just the point.  You do not have three millionaires murdered.
 You have two millionaires murdered; and you have the third
 millionaire very much alive and kicking and quite ready to kick.
@@ -7682,7 +7682,7 @@ fashioned and independent old huckster that if he would
 not come into their combine they would freeze him out.
 Hence the ice--box, of course.'
 
-After a pause he went on.  `There is undoubtedly a Bolshevist
+After a pause he went on.  ‘There is undoubtedly a Bolshevist
 movement in the modern world, and it must undoubtedly be resisted,
 though I do not believe very much in your way of resisting it.
 But what nobody notices is that there is another movement equally
@@ -7697,16 +7697,16 @@ Home was one of old Gideon's spies in one of the enemy camps;
 but he was used here against another enemy:  the rivals who were
 ruining him for standing out.'
 
-`I still don't quite see how he was used,' said Byrne,
-`or what was the good of it.'
+‘I still don't quite see how he was used,' said Byrne,
+‘or what was the good of it.'
 
-`Don't you see,' cried [[Father Brown]] sharply, `that they gave
+‘Don't you see,' cried [[Father Brown]] sharply, ‘that they gave
 each other an alibi?'
 
 Byrne still looked at him a little doubtfully, though understanding
 was dawning on his face.
 
-`That's what I mean,' continued the other, `when I say they were
+‘That's what I mean,' continued the other, ‘when I say they were
 in it because they were out of it.  Most people would say they must
 be out of the other two crimes, because they were in this one.
 As a fact, they were in the other two because they were out of this one;
@@ -7722,11 +7722,11 @@ in the Wood, while Wise was strangling that little Jew in his Roman bath.
 That's why I ask whether Wise was really strong enough for
 the climbing adventure.'
 
-`It was quite a good adventure,' said Byrne regretfully.
-`It fitted into the landscape, and was really very convincing.'
+‘It was quite a good adventure,' said Byrne regretfully.
+‘It fitted into the landscape, and was really very convincing.'
 
-`Too convincing to convince,' said [[Father Brown]], shaking his head.
-`How very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]].
+‘Too convincing to convince,' said [[Father Brown]], shaking his head.
+‘How very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]].
 And how very literary!  [[Home]] is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in [[history]],
 he is also a poet.'
@@ -7734,7 +7734,7 @@ he is also a poet.'
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_01" data-title="Incredulity — The Resurrection of Father Brown (part 1)" data-chapter="Story 01 The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_01" data-title="Incredulity — The Resurrection of Father Brown (part 1)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
 
 
 ONE:  The [[Resurrection]] of [[Father Brown]]
@@ -7808,8 +7808,8 @@ In his opinion it was the deleterious influence of priests that had
 made them so miserably poor and so hopelessly oppressed that they
 were able to sit in the shade and smoke and do nothing.
 
-`And a mighty soft crowd you must be at that,' he said,
-`to be bullied by these stuck--up josses because they walk
+‘And a mighty soft crowd you must be at that,' he said,
+‘to be bullied by these stuck--up josses because they walk
 about in their mitres and their tiaras and their gold copes
 and other glad rags, looking down on everybody else like dirt--
 being bamboozled by crowns and canopies and sacred umbrellas
@@ -7817,7 +7817,7 @@ like a kid at a pantomime; just because a pompous old High Priest
 of Mumbo--Jumbo looks as if he was the lord of the earth.
 What about you?  What do you look like, you poor simps?
 I tell you, that's why you're way--back in barbarism and can't
-read or write and--`
+read or write and--‘
 
 At this point the High Priest of Mumbo--Jumbo came in an undignified
 hurry out of the door of the mission--house, not looking very like
@@ -7829,7 +7829,7 @@ and it was thrust to the back of his head with a gesture of botheration.
 He seemed just about to speak to the motionless natives when he caught
 sight of the stranger and said quickly:
 
-`Oh, can I be of any assistance?  Would you like to come inside?'
+‘Oh, can I be of any assistance?  Would you like to come inside?'
 
 Mr Paul Snaith came inside; and it was the beginning of a considerable
 increase of that journalist's information on many things.
@@ -7873,7 +7873,7 @@ Il signor Paul Snaith si accomodò dentro; e fu l'inizio di un notevole accresci
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_02" data-title="Incredulity — The Resurrection of Father Brown (part 2)" data-chapter="Story 01 The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_02" data-title="Incredulity — The Resurrection of Father Brown (part 2)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
 
 
 There had recently swept through that region one of those fevers
@@ -7907,29 +7907,29 @@ laymen who are much more ecclesiastical than ecclesiastics.
 It embarrassed [[Father Brown]] a good deal, especially when carried
 thus into private life.
 
-`I think I am an anti--clerical,' Father Brown would say with
+‘I think I am an anti--clerical,' Father Brown would say with
 a faint smile; 'but there wouldn't be half so much clericalism
 if they would only leave things to the clerics.'
 
-`Why Mr Mendoza,' exclaimed the journalist with a new animation,'
+‘Why Mr Mendoza,' exclaimed the journalist with a new animation,'
 I think we have met before.  Weren't you at the Trade Congress
 in Mexico last year?'
 
 The heavy eyelids of Mr Mendoza showed a flutter of recognition,
-and he smiled in his slow way.  `I remember.'
+and he smiled in his slow way.  ‘I remember.'
 
-`Pretty big business done there in an hour or two,'
+‘Pretty big business done there in an hour or two,'
 said Snaith with relish.'  Made a good deal of difference
 to you, too, I guess.'
 
-`I have been very fortunate,' said Mendoza modestly.
+‘I have been very fortunate,' said Mendoza modestly.
 
-`Don't you believe it!' cried the enthusiastic Snaith.'
+‘Don't you believe it!' cried the enthusiastic Snaith.'
 Good fortune comes to the people who know when to catch hold;
 and you caught hold good and sure.  But I [[Hope|hope]] I'm not
 interrupting your business?'
 
-`Not at all,' said the other.  `I often have the [[Honour|honour]] of calling
+‘Not at all,' said the other.  ‘I often have the [[Honour|honour]] of calling
 on the padre for a little talk.  Merely for a little talk.'
 
 It seemed as if this familiarity between [[Father Brown]]
@@ -7954,7 +7954,7 @@ of the unfortunate cleric in the most commonplace occupations,
 and exhibited them in gigantic photographs in the gigantic
 [[Sunday]] papers of the United States.  He turned his sayings
 into slogans, and was continually presenting the world with
-`A message' from the reverend gentleman in South America.
+‘A message' from the reverend gentleman in South America.
 Any stock less strong and strenuously receptive than the American
 race would have become very much bored with Father Brown.
 As it was, he received handsome and eager offers to go
@@ -8024,7 +8024,7 @@ Inutile dire che questo strano clamore al Nord si ripercosse sul piccolo avampos
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_03" data-title="Incredulity — The Resurrection of Father Brown (part 3)" data-chapter="Story 01 The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_03" data-title="Incredulity — The Resurrection of Father Brown (part 3)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
 
 
 Eckstein was a fussy little man with fuzzy hair and pince--
@@ -8104,7 +8104,7 @@ still his religion.  Amid all the dazzling lights of the latest
 and even wildest discoveries, when he was at the very edge
 and extreme of experiment, working miracles of light
 and sound like a god creating new stars and solar systems,
-he never for a moment doubted that the things `back [[Home|home]]'
+he never for a moment doubted that the things ‘back [[Home|home]]'
 were the best things in the world; his mother and the
 Family [[Bible]] and the quiet and quaint [[morality]] of his village.
 He had as serious and noble a sense of the sacredness
@@ -8145,7 +8145,7 @@ In quella stessa cittadina viveva a quel tempo un altro giovane americano, parti
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_04" data-title="Incredulity — The Resurrection of Father Brown (part 4)" data-chapter="Story 01 The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_04" data-title="Incredulity — The Resurrection of Father Brown (part 4)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
 
 
 He found himself insensibly watching that commonplace and even comic
@@ -8191,7 +8191,7 @@ And then the dark archway resounded with a new voice, this [[Time|time]]
 intelligible to him and falling with the note of doom, as someone
 shouted through the gateway:
 
-`Father Brown is dead!'
+‘Father Brown is dead!'
 
 He never knew what prop gave way in his mind, or why something
 on which he had been counting suddenly failed him; but he ran
@@ -8199,8 +8199,8 @@ towards the gateway and was just in time to meet his countryman,
 the journalist Snaith, coming out of the dark entrance,
 deadly pale and snapping his fingers nervously.
 
-`It's quite true,' said Snaith, with something which for him
-approached to reverence.  `He's a goner.  The doctor's been
+‘It's quite true,' said Snaith, with something which for him
+approached to reverence.  ‘He's a goner.  The doctor's been
 looking at him, and there's no hope.  Some of these damned
 Dagos clubbed him as he came through the gate--God knows why.
 It'll be a great loss to the place.'
@@ -8226,23 +8226,23 @@ he explained, for Father Brown at the cafe when he had heard
 a rustle and a fall and, coming out, had found the corpse lying
 on the flagstones.
 
-`I know what some of you are thinking,' he said, looking round proudly,
-`and if you are afraid of me--as you are--I will say it for you.
+‘I know what some of you are thinking,' he said, looking round proudly,
+‘and if you are afraid of me--as you are--I will say it for you.
 I am an atheist; I have no god to call on for those who will not
 take my word.  But I tell you in the name of every root of honour
 that may be left to a soldier and a man, that I had no part in this.
 If I had the men here that did it, I would rejoice to hang them
 on that tree.'
 
-`Naturally we are glad to hear you say so,' said old Mendoza stiffly
+‘Naturally we are glad to hear you say so,' said old Mendoza stiffly
 and solemnly, standing by the [[Body|body]] of his fallen coadjutor.
-`This blow has been too appalling for us to say what else we feel
+‘This blow has been too appalling for us to say what else we feel
 at present.  I suggest that it will be more decent and proper if we
 remove my friend's body and break up this irregular meeting.
-I understand,' he added gravely to the doctor, `that there is
+I understand,' he added gravely to the doctor, ‘that there is
 unfortunately no [[Doubt|doubt]].'
 
-`There is no doubt,' said Dr Calderon.
+‘There is no doubt,' said Dr Calderon.
 
 John Race went back to his lodgings sad and with a singular sense
 of emptiness.  It seemed impossible that he should miss a man whom
@@ -8298,7 +8298,7 @@ In verità si sarebbero certamente sollevati in rivolta e avrebbero linciato il 
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_05" data-title="Incredulity — The Resurrection of Father Brown (part 5)" data-chapter="Story 01 The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_05" data-title="Incredulity — The Resurrection of Father Brown (part 5)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
 
 
 Behind the veranda a flight of stone steps scaled a very
@@ -8332,28 +8332,28 @@ to start reproaching and even taunting his political opponents.
 In three minutes he had succeeded in making a scene,
 and a very extraordinary scene it was.
 
-`We may [[Well|well]] ask,' he said, looking around him pompously;
-`we may well ask where such virtues can be found among
+‘We may [[Well|well]] ask,' he said, looking around him pompously;
+‘we may well ask where such virtues can be found among
 those who have madly abandoned the creed of their fathers.
 It is when we have atheists among us, atheist leaders,
 nay sometimes even atheist rulers, that we find their
 infamous philosophy bearing fruit in crimes like this.
-If we ask who murdered this holy man, we shall assuredly find--`
+If we ask who murdered this holy man, we shall assuredly find--‘
 
 Africa of the forests looked out of the eyes of Alvarez
 the hybrid adventurer; and Race fancied he could see suddenly
 that the man was after all a barbarian, who could not control
-himself to the end; one might guess that all his `illuminated'
+himself to the end; one might guess that all his ‘illuminated'
 transcendentalism had a touch of Voodoo.  Anyhow, Mendoza could
 not continue, for Alvarez had sprung up and was shouting back
 at him and shouting him down, with infinitely superior lungs.
 
-`Who murdered him?' he roared.  `Your God murdered him!
+‘Who murdered him?' he roared.  ‘Your God murdered him!
 His own God murdered him!  According to you, he murders all his
 faithful and foolish servants--as he murdered that one,' and he made
 a violent gesture, not towards the coffin but the crucifix.
 Seeming to control himself a little, he went on in a tone still
-angry but more argumentative:  `I don't believe it, but you do.
+angry but more argumentative:  ‘I don't believe it, but you do.
 Isn't it better to have no God than one that robs you in
 this fashion?  I, at least, am not afraid to say that there
 is none.  There is no power in all this blind and brainless
@@ -8365,13 +8365,13 @@ not there to waken the man who sleeps for ever.'
 
 There was a shock of [[Silence|silence]], and the demagogue had made his sensation.
 
-`We might have known,' cried Mendoza in a thick gobbling voice,
-`when we allowed such men as you--`
+‘We might have known,' cried Mendoza in a thick gobbling voice,
+‘when we allowed such men as you--‘
 
 A new voice cut into his speech; a high and shrill voice
 with a Yankee accent.
 
-`Stop!  Stop!' cried Snaith the journalist; `something's up!
+‘Stop!  Stop!' cried Snaith the journalist; ‘something's up!
 I swear I saw him move.'
 
 He went racing up the steps and rushed to the coffin,
@@ -8410,16 +8410,16 @@ There was something a little more like a lull in the noise;
 and then Father Brown for the first time reached the utmost stretch
 of the indignation that he could launch against his children.
 
-`Oh, you silly people,' he said in a high and quavering voice;
-`Oh, you silly, silly people.'
+‘Oh, you silly people,' he said in a high and quavering voice;
+‘Oh, you silly, silly people.'
 
 Then he suddenly seemed to pull himself together, made a bolt for
 the steps with his more normal gait, and began hurriedly to descend.
 
-`Where are you going, Father?' said Mendoza, with more than
+‘Where are you going, Father?' said Mendoza, with more than
 his usual veneration.
 
-`To the telegraph office,' said Father Brown hastily.  `What?  No; of
+‘To the telegraph office,' said Father Brown hastily.  ‘What?  No; of
 course it's not a miracle.  Why should there be a miracle?
 Miracles are not so cheap as all that.'
 
@@ -8460,24 +8460,24 @@ Poi d'un tratto parve riprendersi, si slanciò verso i gradini con la sua andatu
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_06" data-title="Incredulity — The Resurrection of Father Brown (part 6)" data-chapter="Story 01 The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_06" data-title="Incredulity — The Resurrection of Father Brown (part 6)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
 
 
 And he came tumbling down the steps, the people flinging themselves
 before him to implore his blessing.
 
-`Bless you, bless you,' said Father Brown hastily.
-`God bless you all and give you more sense.'
+‘Bless you, bless you,' said Father Brown hastily.
+‘God bless you all and give you more sense.'
 
 And he scuttled away with extraordinary rapidity to the telegraph office,
-where he wired to his Bishop's secretary:  `There is some mad
+where he wired to his Bishop's secretary:  ‘There is some mad
 story about a miracle here; hope his lordship not give authority.
 Nothing in it.'
 
 As he turned away from his effort, he tottered a little with the reaction,
 and John Race caught him by the arm.
 
-`Let me see you [[Home|home]],' he said; `you deserve more than these people
+‘Let me see you [[Home|home]],' he said; ‘you deserve more than these people
 are giving you.'
 
 John Race and the priest were seated in the presbytery; the table
@@ -8485,36 +8485,36 @@ was still piled up with the papers with which the latter had been
 wrestling the day before; the bottle of wine and the emptied wine--
 glass still stood where he had left them.
 
-`And now,' said [[Father Brown]] almost grimly, `I can begin to think.'
+‘And now,' said [[Father Brown]] almost grimly, ‘I can begin to think.'
 
-`I shouldn't think too hard just yet,' said the American.
-`You must be wanting a rest.  Besides, what are you going
+‘I shouldn't think too hard just yet,' said the American.
+‘You must be wanting a rest.  Besides, what are you going
 to think about?'
 
-`I have pretty often had the task of investigating murders,
-as it happens,' said [[Father Brown]].  `Now I have got to investigate
+‘I have pretty often had the task of investigating murders,
+as it happens,' said [[Father Brown]].  ‘Now I have got to investigate
 my own murder.'
 
-`If I were you,' said Race, `I should take a little wine first.'
+‘If I were you,' said Race, ‘I should take a little wine first.'
 
 Father Brown stood up and filled himself another glass, lifted it,
 looked thoughtfully into vacancy, and put it down again.
 Then he sat down once more and said:
 
-`Do you know what I felt like when I died?  You may not believe it,
+‘Do you know what I felt like when I died?  You may not believe it,
 but my feeling was one of overwhelming astonishment.'
 
-`Well,' answered Race, `I suppose you were astonished at being
+‘Well,' answered Race, ‘I suppose you were astonished at being
 knocked on the head.'
 
 [[Father Brown]] leaned over to him and said in a low voice,
-`I was astonished at not being knocked on the head.'
+‘I was astonished at not being knocked on the head.'
 
 Race looked at him for a moment as if he thought the knock
 on the head had been only too effective; but he only said:
-`What do you mean?'
+‘What do you mean?'
 
-`I mean that when that man brought his bludgeon down with a great swipe,
+‘I mean that when that man brought his bludgeon down with a great swipe,
 it stopped at my head and did not even touch it.  In the same way,
 the other fellow made as if to strike me with a knife, but he never
 gave me a scratch.  It was just like play--acting.  I think it was.
@@ -8523,7 +8523,7 @@ But then followed the extraordinary thing.'
 He looked thoughtfully at the papers on the table for a moment
 and then went on:
 
-`Though I had not even been touched with knife or stick, I began
+‘Though I had not even been touched with knife or stick, I began
 to feel my legs doubling up under me and my very life failing.
 I knew I was being struck down by something, but it was
 not by those weapons.  Do you know what I think it was?'
@@ -8531,56 +8531,56 @@ And he pointed to the wine on the table.
 
 Race picked up the wine--glass and looked at it and smelt it.
 
-`I think you are right,' he said.  `I began as a druggist and
+‘I think you are right,' he said.  ‘I began as a druggist and
 studied chemistry.  I couldn't say for certain without an analysis;
 but I think there's something very unusual in this stuff.
 There are drugs by which the Asiatics produce a temporary [[Sleep|sleep]]
 that looks like [[Death|death]].'
 
-`Quite so,' said the priest calmly.'  The whole of this miracle was faked,
+‘Quite so,' said the priest calmly.'  The whole of this miracle was faked,
 for some reason or other.  That funeral scene was staged--and timed.
 I think it is part of that raving madness of publicity that has got
 hold of Snaith; but I can hardly believe he would go quite so far,
 merely for that.  After all, it's one thing to make copy out of me
-and run me as a sort of sham Sherlock Holmes, and--`
+and run me as a sort of sham Sherlock Holmes, and--‘
 
 Even as the priest spoke his face altered.  His blinking
 eyelids shut suddenly and he stood up as if he were choking.
 Then he put one wavering hand as if groping his way
 towards the door.
 
-`Where are you going?' asked the other in some wonder.
+‘Where are you going?' asked the other in some wonder.
 
-`If you ask me,' said [[Father Brown]], who was quite white,
-`I was going to pray.  Or rather, to praise.'
+‘If you ask me,' said [[Father Brown]], who was quite white,
+‘I was going to pray.  Or rather, to praise.'
 
-`I'm not sure I understand.  What is the matter with you?'
+‘I'm not sure I understand.  What is the matter with you?'
 
-`I was going to praise God for having so strangely and so incredibly
+‘I was going to praise God for having so strangely and so incredibly
 saved me--saved me by an inch.'
 
-`Of course,' said Race, `I am not of your religion;
+‘Of course,' said Race, ‘I am not of your religion;
 but believe me, I have religion enough to understand that.
 Of course, you would thank God for saving you from death.'
 
-`No,' said the priest.  `Not from death.  From disgrace.'
+‘No,' said the priest.  ‘Not from death.  From disgrace.'
 
 The other sat staring; and the priest's next words broke out of
-him with a sort of cry.  `And if it had only been my disgrace!
+him with a sort of cry.  ‘And if it had only been my disgrace!
 But it was the disgrace of all I stand for; the disgrace of the [[Faith]]
 that they went about to encompass.  What it might have been!
 The most huge and horrible scandal ever launched against us
 since the last lie was choked in the throat of Titus Oates.'
 
-`What on earth are you talking about?' demanded his companion.
+‘What on earth are you talking about?' demanded his companion.
 
-`[[Well]], I had better tell you at once,' said the priest;
-and sitting down, he went on more composedly:  `It came to me
+‘[[Well]], I had better tell you at once,' said the priest;
+and sitting down, he went on more composedly:  ‘It came to me
 in a flash when I happened to mention Snaith and Sherlock Holmes.
 Now I happen to remember what I wrote about his absurd scheme;
 it was the natural thing to write, and yet I think they had
 ingeniously manoeuvred me into writing just those words.
-They were something like `I am ready to die and come to life
+They were something like ‘I am ready to die and come to life
 again like Sherlock Holmes, if that is the best way.'
 And the moment I thought of that, I realized that I
 had been made to write all sorts of things of that kind,
@@ -8588,32 +8588,32 @@ all pointing to the same idea.  I wrote, as if to an accomplice,
 saying that I would drink the drugged wine at a particular [[Time|time]].
 Now, don't you see?'
 
-Race sprang to his feet still staring:  `Yes,' he said,
-`I think I began to see.'
+Race sprang to his feet still staring:  ‘Yes,' he said,
+‘I think I began to see.'
 
-`They would have boomed the miracle.  Then they would have bust up
+‘They would have boomed the miracle.  Then they would have bust up
 the miracle.  And what is the worst, they would have proved that I
 was in the conspiracy.  It would have been our sham miracle.
 That's all there is to it; and about as near hell as you and I
 will ever be, I hope.'
 
 Then he said, after a pause, in quite a mild voice:
-`They certainly would have got quite a lot of good copy
+‘They certainly would have got quite a lot of good copy
 out of me.'
 
-Race looked at the table and said darkly:  `How many of these brutes
+Race looked at the table and said darkly:  ‘How many of these brutes
 were in it?'
 
-Father Brown shook his head.  `More than I like to think of,'
-he said; `but I hope some of them were only tools.  Alvarez might
+Father Brown shook his head.  ‘More than I like to think of,'
+he said; ‘but I hope some of them were only tools.  Alvarez might
 think that all's fair in war, perhaps; he has a queer mind.
 I'm very much afraid that Mendoza is an old hypocrite; I never
 trusted him, and he hated my action in an industrial matter.
 But all that will wait; I have only got to thank God for the escape.
 And especially that I wired at once to the Bishop.'
 
-John Race appeared to be very thoughtful.  `You've told
-me a lot I didn't know,' he said at last, `and I feel
+John Race appeared to be very thoughtful.  ‘You've told
+me a lot I didn't know,' he said at last, ‘and I feel
 inclined to tell you the only thing you don't know.
 I can imagine how those fellows calculated well enough.
 They thought any man alive, waking up in a coffin to find
@@ -8626,11 +8626,11 @@ and I tell you frankly I don't believe there's one man
 in a thousand who could wake up like that with all his wits
 about him; and while he was still almost talking in his sleep,
 would have the sanity and the simplicity and the humility
-to--` He was much surprised to find himself moved, and his
+to--‘ He was much surprised to find himself moved, and his
 level voice wavering.
 
 [[Father Brown]] was gazing abstractedly, and in a rather cockeyed fashion,
-at the bottle on the table.  `Look here,' he said, ` what about a bottle
+at the bottle on the table.  ‘Look here,' he said, ‘ what about a bottle
 of real wine?'
 
 
@@ -8714,7 +8714,7 @@ John Race appariva molto pensieroso. «Mi avete detto molte cose che non sapevo�
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_01" data-title="Incredulity — The Arrow of Heaven (part 1)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_01" data-title="Incredulity — The Arrow of Heaven (part 1)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
 TWO:  The Arrow of Heaven
@@ -8769,7 +8769,7 @@ apart from it, equally black against the burning white daylight
 of that brilliant place and season, but entirely solitary;
 a tall, rather yellow--faced man in great goggles, who arrested
 him with a gesture when the journalists had finished and said:
-`Excuse me, but maybe you are looking for Captain Wain.'
+‘Excuse me, but maybe you are looking for Captain Wain.'
 
 Some apology may be made for Father Brown; for he himself
 would have been sincerely apologetic.  It must be remembered
@@ -8787,11 +8787,11 @@ friends of his own in France, was indeed one of a long list
 of people he had some hope of seeing during his American visit;
 but he had never expected to hear of him so soon.
 
-`I beg your pardon,' he said doubtfully, `are you Captain Wain?  Do you--
+‘I beg your pardon,' he said doubtfully, ‘are you Captain Wain?  Do you--
 do you know him?'
 
-`[[Well]], I'm pretty confident I'm not Captain Wain,' said the man
-in goggles, with a face of wood.  `I was pretty clear about
+‘[[Well]], I'm pretty confident I'm not Captain Wain,' said the man
+in goggles, with a face of wood.  ‘I was pretty clear about
 that when I saw him waiting for you over there in the car.
 But the other question's a bit more problematical.
 I reckon I know Wain and his uncle, and old man Merton, too.
@@ -8808,7 +8808,7 @@ and his conversation seemed to consist of stratified layers of irony.
 He was a type to be found here and there in that hearty
 and sociable population; he was the inscrutable American.
 
-`My name's Drage,' he said, `Norman Drage, and I'm an American citizen,
+‘My name's Drage,' he said, ‘Norman Drage, and I'm an American citizen,
 which explains everything.  At least I imagine your friend Wain
 would like to explain the rest; so we'll postpone The Fourth of July
 till another date.'
@@ -8852,7 +8852,7 @@ Padre Brown fu trascinato, in uno stato alquanto stordito, verso un'automobile a
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_02" data-title="Incredulity — The Arrow of Heaven (part 2)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_02" data-title="Incredulity — The Arrow of Heaven (part 2)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
 It seemed that Wain had an uncle named Crake who had a
@@ -8877,21 +8877,21 @@ For though the cup apparently again escaped, enough bonds
 and securities were stolen to leave Horder's financial
 affairs in confusion.
 
-`Brian Horder's widow,' explained Wain, `had to sell most of
+‘Brian Horder's widow,' explained Wain, ‘had to sell most of
 his valuables, I believe, and Brander Merton must have purchased
 the cup at that time, for he had it when I first knew him.
 But you can guess for yourself that it's not a very comfortable
 thing to have.'
 
-`Has Mr Merton ever had any of the threatening letters?'
+‘Has Mr Merton ever had any of the threatening letters?'
 asked [[Father Brown]], after a pause.
 
-`I imagine he has,' said Mr Drage; and something in his voice made
+‘I imagine he has,' said Mr Drage; and something in his voice made
 the priest look at him curiously, until he realized that the man
 in goggles was laughing silently, in a fashion that gave the newcomer
 something of a chill.
 
-`I'm pretty sure he has,' said Peter Wain, frowning.  `I've not
+‘I'm pretty sure he has,' said Peter Wain, frowning.  ‘I've not
 seen the letters, only his secretary sees any of his letters,
 for he is pretty reticent about business matters, as big business men
 have to be.  But I've seen him real upset and annoyed with letters;
@@ -8903,18 +8903,18 @@ Everybody knows your great reputation.  Father Brown, and the secretary
 asked me to see if you'd mind coming straight out to the Merton
 house at once.'
 
-`Oh, I see,' said [[Father Brown]], on whom the meaning
+‘Oh, I see,' said [[Father Brown]], on whom the meaning
 of this apparent kidnapping began to [[Dawn|dawn]] at last.
-`But, really, I don't see that I can do any more than you can.
+‘But, really, I don't see that I can do any more than you can.
 You're on the spot, and must have a hundred times more data
 for a scientific conclusion than a chance visitor.'
 
-`Yes,' said Mr Drage dryly; `our conclusions are much too scientific
+‘Yes,' said Mr Drage dryly; ‘our conclusions are much too scientific
 to be true.  I reckon if anything hit a man like Titus P. Trant, it just
 came out of the sky without waiting for any scientific explanation.
 What they call a bolt from the blue.'
 
-`You can't possibly mean,' cried Wain, `that it was supernatural!'
+‘You can't possibly mean,' cried Wain, ‘that it was supernatural!'
 
 But it was by no means easy at any time to discover what
 Mr Drage could possibly mean; except that if he said somebody
@@ -8935,7 +8935,7 @@ the opening of a safe.  But, much to Father Brown's surprise,
 the man called Norman Drage showed no disposition to enter,
 but took leave of them with sinister gaiety.
 
-`I won't come in,' he said.  `It `ud be too much pleasurable
+‘I won't come in,' he said.  ‘It ‘ud be too much pleasurable
 excitement for old man Merton, I reckon.  He loves the sight
 of me so much that he'd die of joy.'
 
@@ -8955,8 +8955,8 @@ Nothing but a single shaft for a lift went up the centre between
 the solid walls, and the approach to it was guarded by heavy,
 powerful men like plain--clothes policemen.
 
-`Pretty elaborate protection, I know,' said Wain.
-`Maybe it makes you smile a little, [[Father Brown]], to find
+‘Pretty elaborate protection, I know,' said Wain.
+‘Maybe it makes you smile a little, [[Father Brown]], to find
 Merton has to live in a fortress like this without even a tree
 in the [[Garden|garden]] for anyone to hide behind.  But you don't know
 what sort of proposition we're up against in this country.
@@ -9005,16 +9005,16 @@ E se ne andò a grandi passi, mentre [[Father Brown|Padre Brown]], con crescente
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_03" data-title="Incredulity — The Arrow of Heaven (part 3)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_03" data-title="Incredulity — The Arrow of Heaven (part 3)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
-`Not at all,' said Father Brown, quietly.  `It is my duty to visit
+‘Not at all,' said Father Brown, quietly.  ‘It is my duty to visit
 prisoners and all miserable men in captivity.'
 
 There was a [[Silence|silence]], and the young man frowned with a strange and almost
 shifty look on his lean face.  Then he said, abruptly:
 
-`Well, you've got to remember it isn't only common crooks or
+‘Well, you've got to remember it isn't only common crooks or
 the Black Hand that's against him.  This Daniel Doom is pretty
 much like the devil.  Look how he dropped Trant in his own
 gardens and Horder outside his house, and got away with it.'
@@ -9046,37 +9046,37 @@ and his enemies a bravo.
 This man never moved or stirred to greet anybody; but the sight of him
 in the outer room seemed to move Peter Wain to his first nervous query.
 
-`Is anybody with the chief?' he asked.
+‘Is anybody with the chief?' he asked.
 
-`Don't get rattled, Peter,' chuckled his uncle.  `Wilton the
+‘Don't get rattled, Peter,' chuckled his uncle.  ‘Wilton the
 secretary is with him, and I [[Hope|hope]] that's enough for anybody.
 I don't believe Wilton ever sleeps for watching Merton.
 He is better than twenty bodyguards.  And he's quick and quiet
 as an Indian.'
 
-`Well, you ought to know,' said his nephew, laughing.
-`I remember the Red Indian tricks you used to teach me
+‘Well, you ought to know,' said his nephew, laughing.
+‘I remember the Red Indian tricks you used to teach me
 when I was a boy and liked to read Red Indian stories.
 But in my Red Indian stories Red Indians seemed always to have
 the worst of it.'
 
-`They didn't in real life,' said the old frontiersman grimly.
+‘They didn't in real life,' said the old frontiersman grimly.
 
-`Indeed?' inquired the bland Mr Blake.  `I should have thought
+‘Indeed?' inquired the bland Mr Blake.  ‘I should have thought
 they could do very little against our firearms.'
 
-`I've seen an Indian stand under a hundred guns with nothing
+‘I've seen an Indian stand under a hundred guns with nothing
 but a little scalping--knife and kill a white man standing
 on the top of a fort,' said Crake.
 
-`Why, what did he do with it?' asked the other.
+‘Why, what did he do with it?' asked the other.
 
-`Threw it,' replied Crake, `threw it in a flash before a shot
+‘Threw it,' replied Crake, ‘threw it in a flash before a shot
 could be fired.  I don't know where he learnt the trick.'
 
-`[[Well]], I [[Hope|hope]] you didn't learn it,' said his nephew, laughing.
+‘[[Well]], I [[Hope|hope]] you didn't learn it,' said his nephew, laughing.
 
-`It seems to me,' said Father Brown, thoughtfully, `that the story
+‘It seems to me,' said Father Brown, thoughtfully, ‘that the story
 might have a moral.'
 
 While they were speaking Mr Wilton, the secretary, had come out
@@ -9085,7 +9085,7 @@ with a square chin and steady eyes with a look like a dog's;
 it was not difficult to believe that he had the single--
 eye of a watchdog.
 
-He only said, `Mr Merton can see you in about ten minutes,'
+He only said, ‘Mr Merton can see you in about ten minutes,'
 but it served for a signal to break up the gossiping group.
 Old Crake said he must be off, and his nephew went out with him
 and his legal companion, leaving Father Brown for the moment
@@ -9094,22 +9094,22 @@ of the room could hardly be felt as if he were human or alive;
 he sat so motionless with his broad back to them, staring towards
 the inner room.
 
-`Arrangements rather elaborate here, I'm afraid,' said the secretary.
-`You've probably heard all about this Daniel Doom, and why it isn't safe
+‘Arrangements rather elaborate here, I'm afraid,' said the secretary.
+‘You've probably heard all about this Daniel Doom, and why it isn't safe
 to leave the boss very much alone.'
 
-`But he is [[Alone|alone]] just now, isn't he?' said [[Father Brown]].
+‘But he is [[Alone|alone]] just now, isn't he?' said [[Father Brown]].
 
-The secretary looked at him with [[Grave|grave]], grey eyes.  `For fifteen minutes,'
-he said.  `For fifteen minutes out of the twenty--four hours.
+The secretary looked at him with [[Grave|grave]], grey eyes.  ‘For fifteen minutes,'
+he said.  ‘For fifteen minutes out of the twenty--four hours.
 That is all the real [[Solitude|solitude]] he has; and that he insists on,
 for a pretty remarkable reason.'
 
-`And what is the reason?' inquired the visitor.
+‘And what is the reason?' inquired the visitor.
 Wilton, the secretary, continued his steady gaze, but his mouth,
 that had been merely grave, became grim.
 
-`The Coptic Cup,' he said.  `Perhaps you've forgotten
+‘The Coptic Cup,' he said.  ‘Perhaps you've forgotten
 the Coptic Cup; but he hasn't forgotten that or anything else.
 He doesn't trust any of us about the Coptic Cup.  It's locked up
 somewhere and somehow in that room so that only he can find it;
@@ -9123,7 +9123,7 @@ pays us a visit, he'll stay to dinner and a good bit later,
 by God!  I sit here on hot bricks for the fifteen minutes,
 and the instant I heard a shot or a sound of struggle I'd press
 this button and an electrocuting current would run in a ring round
-that garden wall, so that it `ud be [[Death|death]] to [[Cross|cross]] or climb it.
+that garden wall, so that it ‘ud be [[Death|death]] to [[Cross|cross]] or climb it.
 Of course, there couldn't be a shot, for this is the only way in;
 and the only [[Window|window]] he sits at is away up on the top of a tower
 as smooth as a greasy pole.  But, anyhow, we're all armed here,
@@ -9132,7 +9132,7 @@ before he got out.'
 
 [[Father Brown]] was blinking at the carpet in a brown study.
 Then he said suddenly, with something like a jerk:
-`I hope you won't mind my mentioning it, but a kind of a notion
+‘I hope you won't mind my mentioning it, but a kind of a notion
 came into my head just this minute.  It's about you.'
 
 
@@ -9186,22 +9186,22 @@ Il segretario lo guardò con [[Grave|gravi]] occhi grigi. «Per quindici minuti�
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_04" data-title="Incredulity — The Arrow of Heaven (part 4)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_04" data-title="Incredulity — The Arrow of Heaven (part 4)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
-`Indeed,' remarked Wilton, `and what about me?'
+‘Indeed,' remarked Wilton, ‘and what about me?'
 
-`I think you are a man of one idea,' said [[Father Brown]], `and you
+‘I think you are a man of one idea,' said [[Father Brown]], ‘and you
 will forgive me for saying that it seems to be even more the idea
 of catching Daniel Doom than of defending Brander Merton.'
 
 Wilton started a little and continued to stare at his companion;
 then very slowly his grim mouth took on a rather curious smile.
-`How did you--what makes you think that?' he asked.
+‘How did you--what makes you think that?' he asked.
 
-`You said that if you heard a shot you could instantly
+‘You said that if you heard a shot you could instantly
 electrocute the escaping enemy,' remarked the priest.
-`I suppose it occurred to you that the shot might be fatal
+‘I suppose it occurred to you that the shot might be fatal
 to your employer before the shock was fatal to his foe.
 I don't mean that you wouldn't protect Mr Merton if you could,
 but it seems to come rather second in your thoughts.
@@ -9209,8 +9209,8 @@ The arrangements are very elaborate, as you say, and you seem
 to have elaborated them.  But they seem even more designed
 to catch a murderer than to save a man.'
 
-`Father Brown,' said the secretary, who had recovered his quiet tone,
-`you're very smart, but there's something more to you than smartness.
+‘Father Brown,' said the secretary, who had recovered his quiet tone,
+‘you're very smart, but there's something more to you than smartness.
 Somehow you're the sort of man to whom one wants to tell the [[Truth|truth]];
 and besides, you'll probably hear it, anyhow, for in one way it's
 a joke against me already.  They all say I'm a monomaniac about running
@@ -9219,16 +9219,16 @@ that none of them know.  My full name is John Wilton Border.'
 [[Father Brown]] nodded as if he were completely enlightened,
 but the other went on.
 
-`This fellow who calls himself Doom killed my father and uncle and ruined
+‘This fellow who calls himself Doom killed my father and uncle and ruined
 my mother.  When Merton wanted a secretary I took the job, because I
 thought that where the cup was the criminal might sooner or later be.
 But I didn't know who the criminal was and could only wait for him;
 and I meant to serve Merton faithfully.'
 
-`I understand,' said [[Father Brown]] gently; `and, by the way,
+‘I understand,' said [[Father Brown]] gently; ‘and, by the way,
 isn't it time that we attended on him?'
 
-`Why, yes,' answered Wilton, again starting a little
+‘Why, yes,' answered Wilton, again starting a little
 out of his brooding so that the priest concluded that his
 vindictive mania had again absorbed him for a moment.'
 Go in now by all means.'
@@ -9243,14 +9243,14 @@ It seemed as though something in the very attitude of the priest
 had been a signal; for his head was against the light from the inner
 [[Window|window]] and his face was in [[Shadow|shadow]].
 
-`I suppose you will press that button,' he said with a sort of sigh.
+‘I suppose you will press that button,' he said with a sort of sigh.
 
 Wilton seemed to awake from his savage brooding with a bound
 and leapt up with a catch in his voice.
 
-`There was no shot,' he cried.
+‘There was no shot,' he cried.
 
-`Well,' said Father Brown, `it depends what you mean by a shot.'
+‘Well,' said Father Brown, ‘it depends what you mean by a shot.'
 
 Wilton rushed forward, and they plunged into the inner room together.
 It was a comparatively small room and simply though elegantly furnished.
@@ -9271,23 +9271,23 @@ spike of grizzled beard thrust up towards the ceiling,
 and out of his throat stood a long, brown--painted arrow
 with red leathers at the other end.
 
-`A silent shot,' said Father Brown, in a low voice; `I was just
+‘A silent shot,' said Father Brown, in a low voice; ‘I was just
 wondering about those new inventions for silencing firearms.
 But this is a very old invention, and quite as silent.'
 
-Then, after a moment, he added:  `I'm afraid he is dead.
+Then, after a moment, he added:  ‘I'm afraid he is dead.
 What are you going to do?'
 
 The pale secretary roused himself with abrupt resolution.
-`I'm going to press that button, of course,' he said,
-`and if that doesn't do for Daniel Doom, I'm going to hunt
+‘I'm going to press that button, of course,' he said,
+‘and if that doesn't do for Daniel Doom, I'm going to hunt
 him through the world till I find him.'
 
-`Take care it doesn't do for any of our friends,' observed [[Father Brown]];
-`they can hardly be far off; we'd better call them.'
+‘Take care it doesn't do for any of our friends,' observed [[Father Brown]];
+‘they can hardly be far off; we'd better call them.'
 
-`That lot know all about the wall,' answered Wilton.
-`None of them will try to climb it, unless one of them ...
+‘That lot know all about the wall,' answered Wilton.
+‘None of them will try to climb it, unless one of them ...
 is in a great hurry.'
 
 Father Brown went to the window by which the arrow had evidently
@@ -9297,34 +9297,34 @@ The whole vista seemed so vast and empty, the tower seemed set
 so far up in the sky that as he stared out a strange phrase came
 back to his memory.
 
-`A bolt from the blue,' he said.  `What was that somebody said
+‘A bolt from the blue,' he said.  ‘What was that somebody said
 about a bolt from the blue and death coming out of the sky?
 Look how far away everything looks; it seems extraordinary that
 an arrow could come so far, unless it were an arrow from heaven.'
 
 Wilton had returned, but did not reply, and the priest
-went on as in soliloquy.  `One thinks of aviation.
+went on as in soliloquy.  ‘One thinks of aviation.
 We must ask young Wain ... about aviation.'
 
-`There's a lot of it round here,' said the secretary.
+‘There's a lot of it round here,' said the secretary.
 
-`Case of very old or very new weapons,' observed [[Father Brown]].
-`Some would be quite familiar to his old uncle, I suppose; we must
+‘Case of very old or very new weapons,' observed [[Father Brown]].
+‘Some would be quite familiar to his old uncle, I suppose; we must
 ask him about arrows.  This looks rather like a Red Indian arrow.
 I don't know where the Red Indian shot it from; but you remember
 the story the old man told.  I said it had a moral.'
 
-`If it had a moral,' said Wilton warmly, `it was only that a real
-`Red Indian might shoot a thing farther than you'd fancy.
+‘If it had a moral,' said Wilton warmly, ‘it was only that a real
+‘Red Indian might shoot a thing farther than you'd fancy.
 It's nonsense your suggesting a parallel.'
 
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_05" data-title="Incredulity — The Arrow of Heaven (part 5)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_05" data-title="Incredulity — The Arrow of Heaven (part 5)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
-`I don't think you've got the moral quite right,' said Father Brown.
+‘I don't think you've got the moral quite right,' said Father Brown.
 
 Although the little priest appeared to melt into the millions
 of New York next day, without any apparent attempt to be
@@ -9341,8 +9341,8 @@ with his bony hands and hatchet face resting on the oddly--
 shaped head of a walking--stick of dark red wood, possibly modelled
 on a tomahawk.
 
-`[[Well]], it may be a long shot,' he said, wagging his head,
-`but I wouldn't advise you to be too positive about how far
+‘[[Well]], it may be a long shot,' he said, wagging his head,
+‘but I wouldn't advise you to be too positive about how far
 an Indian arrow could go.  I've known some bow--shots that
 seemed to go straighter than any bullets, and hit the mark
 to amazement, considering how long they had been travelling.
@@ -9356,29 +9356,29 @@ over the wall and into the top window of Merton's house;
 no, nor into Merton, either.  I've seen things quite as wonderful
 as that done in the old days.'
 
-`No [[Doubt|doubt]],' said the priest, `you have done things quite as wonderful,
+‘No [[Doubt|doubt]],' said the priest, ‘you have done things quite as wonderful,
 as well as seen them.'
 
-Old Crake chuckled, and then said gruffly:  `Oh, that's
+Old Crake chuckled, and then said gruffly:  ‘Oh, that's
 all ancient [[history]].'
 
-`Some people have a way of studying ancient history,' the priest said.
+‘Some people have a way of studying ancient history,' the priest said.
 'I suppose we may take it there is nothing in your old record In make
 people talk unpleasantly about this affair.'
 
-`What do you mean?' demanded Crake, his eyes shifting sharply
+‘What do you mean?' demanded Crake, his eyes shifting sharply
 for the first [[Time|time]], in his red, wooden face, that was rather
 like I he head of a tomahawk.
 
-`Well, since you were so well acquainted with all the arts and crafts
-of the Redskin--` began [[Father Brown]] slowly.
+‘Well, since you were so well acquainted with all the arts and crafts
+of the Redskin--‘ began [[Father Brown]] slowly.
 
 Crake had had a hunched and almost shrunken appearance
 as he sat with his chin propped on its queer--shaped crutch.
 But the next instant he stood erect in the path like a fighting
 bravo with the crutch clutched like a cudgel.
 
-`What?' he cried--in something like a raucous screech--`what the hell!
+‘What?' he cried--in something like a raucous screech--‘what the hell!
 Are you standing up to me to tell me I might happen to have murdered
 my own brother--in--law?'
 
@@ -9395,7 +9395,7 @@ heaving up in the distance and bearing down on the group.
 But the priest only said, quite placidly, like one answering
 an ordinary query:
 
-`I have formed certain conclusions about it, but I do not think
+‘I have formed certain conclusions about it, but I do not think
 I will mention them till I make my report.'
 
 Whether under the influence of the footsteps of the policeman or of
@@ -9413,8 +9413,8 @@ For Father Brown had asked, in an idle and conversational fashion,
 whether much flying was done in that district, and had told how he had
 at first mistaken Mr Merton's circular wall for an aerodrome.
 
-`It's a [[Wonder|wonder]] you didn't see any while we were there,'
-answered Captain Wain.  `Sometimes they're as thick as flies;
+‘It's a [[Wonder|wonder]] you didn't see any while we were there,'
+answered Captain Wain.  ‘Sometimes they're as thick as flies;
 that open plain is a great place for them, and I shouldn't
 wonder if it were the chief breeding--ground, so to speak,
 for my sort of birds in the future.  I've flown a good deal
@@ -9424,22 +9424,22 @@ taking to it out there now whom I never heard of in my life.
 I suppose it will be like motoring soon, and every man
 in the States will have one.'
 
-`Being endowed by his Creator,' said [[Father Brown]] with a smile,
+‘Being endowed by his Creator,' said [[Father Brown]] with a smile,
 'with the right to life, liberty, and the pursuit of motoring--
 not to mention aviation.  So I suppose we may take it that one
 strange aeroplane passing over that [[house]], at certain times,
 wouldn't be noticed much.'
 
-`No,' replied the young man; `I don't suppose it would.'
+‘No,' replied the young man; ‘I don't suppose it would.'
 
-`Or even if the man were known,' went on the other, `I suppose
+‘Or even if the man were known,' went on the other, ‘I suppose
 he might get hold of a [[Machine|machine]] that wouldn't be recognized as his.
 If you, for instance, flew in the ordinary way, Mr Merton and his friends
 might recognize the rig--out, perhaps; but you might pass pretty near
 that [[Window|window]] on a different pattern of plane, or whatever you call it;
 near enough for practical purposes.'
 
-`Well, yes,' began the young man, almost automatically, and then ceased,
+‘Well, yes,' began the young man, almost automatically, and then ceased,
 and remained staring at the cleric with an open mouth and eyes standing
 out of his head.
 
@@ -9484,21 +9484,21 @@ Fosse per l'influsso dei passi del poliziotto o per quello degli occhi del prete
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_06" data-title="Incredulity — The Arrow of Heaven (part 6)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_06" data-title="Incredulity — The Arrow of Heaven (part 6)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
-`My God!' he said, in a low voice;' my God!'
+‘My God!' he said, in a low voice;' my God!'
 
 Then he [[Rose|rose]] from the lounge seat, pale and shaking from head
 to foot and still staring at the priest.
 
-`Are you mad?' he said;' are you raving mad?'
+‘Are you mad?' he said;' are you raving mad?'
 
 There was a silence and then he spoke again in a swift hissing fashion.
-`You positively come here to suggest--`
+‘You positively come here to suggest--‘
 
-`No; only to collect suggestions,' said [[Father Brown]], rising.
-`I may have formed some conclusions provisionally, but I had better
+‘No; only to collect suggestions,' said [[Father Brown]], rising.
+‘I may have formed some conclusions provisionally, but I had better
 reserve them for the present.'
 
 And then saluting the other with the same stiff civility, he passed
@@ -9528,7 +9528,7 @@ had met yesterday, and made no demur to silting down with him
 on a bench in the cheap eating--house whither he was bound.
 It was not he, however, who began the conversation.
 
-`[[Well]]?' growled Drage, `and have you succeeded in avenging your holy
+‘[[Well]]?' growled Drage, ‘and have you succeeded in avenging your holy
 and sainted millionaire?  We know all millionaires are holy and sainted;
 you can find it all in the papers next day, about how they lived
 by the light of the Family Bible they read at their mother's knee.
@@ -9546,11 +9546,11 @@ delicate to walk at all.  But the shaft of the Lord found him out,
 as it might have done in the old Book, and struck him dead on
 the top of his tower to be a spectacle to the people.
 
-`The shaft was material, at least,' said his companion.
+‘The shaft was material, at least,' said his companion.
 
-`The Pyramids are mighty material, and they hold down
+‘The Pyramids are mighty material, and they hold down
 the dead kings all right,' grinned the man in the goggles.
-`I think there's a lot to be said for these old material religions.
+‘I think there's a lot to be said for these old material religions.
 There's old carvings that have lasted for thousands of years,
 showing their gods and emperors with bended bows; with hands
 that look as if they could really bend bows of stone.
@@ -9559,26 +9559,26 @@ stand staring at those old Eastern patterns and things,
 till you have a hunch that old Lord God is still driving
 like a dark [[Apollo]], and shooting black rays of [[Death|death]]?'
 
-`If he is,' replied Father Brown, `I might call him by another name.
+‘If he is,' replied Father Brown, ‘I might call him by another name.
 But I [[Doubt|doubt]] whether Merton died by a dark ray or even a stone arrow.'
 
-`I guess you think he's St Sebastian,' sneered Drage,
-`killed with an arrow.  A millionaire must be a martyr.
+‘I guess you think he's St Sebastian,' sneered Drage,
+‘killed with an arrow.  A millionaire must be a martyr.
 How do you know he didn't deserve it?  You don't know much
 about your millionaire, I fancy.  [[Well]], let me tell you
 he deserved it a hundred times over.'
 
-`Well,' asked Father Brown gently, `why didn't you murder him?'
+‘Well,' asked Father Brown gently, ‘why didn't you murder him?'
 
-`You want to know why I didn't?' said the other, staring.
-`[[Well]], you're a nice sort of clergyman.'
+‘You want to know why I didn't?' said the other, staring.
+‘[[Well]], you're a nice sort of clergyman.'
 
-`Not at all,' said the other, as if waving away a compliment.
+‘Not at all,' said the other, as if waving away a compliment.
 
-`I suppose it's your way of saying I did,' snarled Drage.
-`Well, prove it, that's all.  As for him, I reckon he was no loss.'
+‘I suppose it's your way of saying I did,' snarled Drage.
+‘Well, prove it, that's all.  As for him, I reckon he was no loss.'
 
-`Yes, he was,' said [[Father Brown]], sharply.  `He was a loss to you.
+‘Yes, he was,' said [[Father Brown]], sharply.  ‘He was a loss to you.
 That's why you didn't kill him.'
 
 And he walked out of the room, leaving the man in goggles
@@ -9658,25 +9658,25 @@ Ogni giornale del mondo era pieno della catastrofe del colosso della finanza, de
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_07" data-title="Incredulity — The Arrow of Heaven (part 7)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_07" data-title="Incredulity — The Arrow of Heaven (part 7)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
 Peter Wain leaned forward, the eyes bright in his haggard face, and said:
 
-`I'll bet on that, anyhow.  Norman Drage.'
+‘I'll bet on that, anyhow.  Norman Drage.'
 
-`And who in the world is Norman Drage?' asked his uncle.
+‘And who in the world is Norman Drage?' asked his uncle.
 
-`That's what I want to know,' replied the young man.
-`I practically asked him, but he has got a wonderful trick of twisting
+‘That's what I want to know,' replied the young man.
+‘I practically asked him, but he has got a wonderful trick of twisting
 every straight question crooked; it's like lunging at a fencer.
 He hooked on to me with hints about the flying--ship of the future;
 but I never trusted him much.'
 
-`But what sort of a man is he?' asked Crake.
+‘But what sort of a man is he?' asked Crake.
 
-`He's a mystagogue,' said Father Brown, with innocent promptitude.
-`There are quite a lot of them about; the sort of men about
+‘He's a mystagogue,' said Father Brown, with innocent promptitude.
+‘There are quite a lot of them about; the sort of men about
 town who hint to you in [[Paris]] cafes and cabarets that they've
 lifted the veil of Isis or know the secret of Stonehenge.
 In a case like this they're sure to have some sort
@@ -9685,11 +9685,11 @@ of mystical explanations.'
 The smooth, dark head of Mr Barnard Blake, the lawyer, was inclined
 politely towards the speaker, but his smile was faintly hostile.
 
-`I should hardly have thought, sir,' he said, `that you had any quarrel
+‘I should hardly have thought, sir,' he said, ‘that you had any quarrel
 with mystical explanations.'
 
-`On the contrary,' replied Father Brown, blinking amiably at him.
-`That's just why I can quarrel with `em. Any sham lawyer could bamboozle
+‘On the contrary,' replied Father Brown, blinking amiably at him.
+‘That's just why I can quarrel with ‘em. Any sham lawyer could bamboozle
 me, but he couldn't bamboozle you; because you're a lawyer yourself.
 Any fool could dress up as a Red Indian and I'd swallow him whole as
 the only original Hiawatha; but Mr Crake would see through him at once.
@@ -9703,22 +9703,22 @@ in darkness and secrecy, and when you find it, it's a platitude.
 But in the case of Drage, I admit he had also another and more practical
 notion in talking about fire from heaven or bolts from the blue.'
 
-`And what was his notion?' asked Wain.  `I think it wants watching
+‘And what was his notion?' asked Wain.  ‘I think it wants watching
 whatever it is.'
 
-`[[Well]],' replied the priest, slowly, `he wanted us to think the murders
+‘[[Well]],' replied the priest, slowly, ‘he wanted us to think the murders
 were miracles because . . . well, because he knew they weren't.'
 
-`Ah,' said Wain, with a sort of hiss, `I was waiting for that.
+‘Ah,' said Wain, with a sort of hiss, ‘I was waiting for that.
 In plain words, he is the criminal.'
 
-`In plain words, he is the criminal who didn't commit the crime,'
+‘In plain words, he is the criminal who didn't commit the crime,'
 answered [[Father Brown]] calmly.
 
-`Is that your conception of plain words?' inquired Blake politely.
+‘Is that your conception of plain words?' inquired Blake politely.
 
-`You'll be saying I'm the mystagogue now,' said [[Father Brown]]
-somewhat abashed, but with a broad smile, `but it was really
+‘You'll be saying I'm the mystagogue now,' said [[Father Brown]]
+somewhat abashed, but with a broad smile, ‘but it was really
 quite accidental.  Drage didn't commit the crime--I mean this crime.
 His only crime was blackmailing somebody, and he hung about here
 to do it; but he wasn't likely to want the secret to be public
@@ -9726,45 +9726,45 @@ property or the whole business to be cut short by death.
 We can talk about him afterwards.  Just at the moment,
 I only want him cleared out of the way.'
 
-`Out of the way of what?' asked the other.
+‘Out of the way of what?' asked the other.
 
-`Out of the way of the truth,' replied the priest, looking at
+‘Out of the way of the truth,' replied the priest, looking at
 him tranquilly, with level eyelids.
 
-`Do you mean,' faltered the other, `that you know the truth?'
+‘Do you mean,' faltered the other, ‘that you know the truth?'
 
-`I rather think so,' said [[Father Brown]] modestly.
+‘I rather think so,' said [[Father Brown]] modestly.
 
 There was an abrupt [[Silence|silence]], after which Crake cried out suddenly
 and irrelevantly in a rasping voice:
 
-`Why, where is that secretary fellow?  Wilton!  He ought to be here.'
+‘Why, where is that secretary fellow?  Wilton!  He ought to be here.'
 
-`I am in communication with Mr Wilton,' said [[Father Brown]] gravely;
-`in fact, I asked him to ring me up here in a few minutes from now.
+‘I am in communication with Mr Wilton,' said [[Father Brown]] gravely;
+‘in fact, I asked him to ring me up here in a few minutes from now.
 I may say that we've worked the thing out together, in a
 manner of speaking.'
 
-`If you're working together, I suppose it's all right,' grumbled Crake.
-`I know he was always a sort of bloodhound on the trail of his
+‘If you're working together, I suppose it's all right,' grumbled Crake.
+‘I know he was always a sort of bloodhound on the trail of his
 vanishing crook, so perhaps it was well to hunt in couples with him.
 But if you know the truth about this, where the devil did you
 get it from?'
 
-`I got it from you,' answered the priest, quietly, and continued
+‘I got it from you,' answered the priest, quietly, and continued
 to gaze mildly at the glaring veteran.'  I mean I made the first
 guess from a hint in a story of yours about an Indian who threw
 a knife and hit a man on the top of a fortress.'
 
-`You've said that several times,' said Wain, with a puzzled air;
-`but I can't see any inference, except that this murderer threw
+‘You've said that several times,' said Wain, with a puzzled air;
+‘but I can't see any inference, except that this murderer threw
 an arrow and hit a man on the top of a [[house]] very like a fortress.
 But of course the arrow wasn't thrown but shot, and would go
 much further.  Certainly it went uncommonly far; but I don't see
 how it brings us any farther.'
 
-`I'm afraid you missed the point of the story,' said Father Brown.
-`It isn't that if one thing cap go far another can go farther.
+‘I'm afraid you missed the point of the story,' said Father Brown.
+‘It isn't that if one thing cap go far another can go farther.
 It is that the wrong use of a tool can cut both ways.
 The men on Crake's fort thought of a knife as a thing for a hand--to--
 hand fight and forgot that it could be a missile like a javelin.
@@ -9774,24 +9774,24 @@ In short, the moral of the story is that since a dagger can be turned
 into an arrow, so can an arrow be turned into a dagger.'
 
 They were all looking at him now; but he continued in the
-same casual and unconscious tone:  `Naturally we wondered
+same casual and unconscious tone:  ‘Naturally we wondered
 and worried a good deal about who shot that arrow through
 the window and whether it came from far away, and so on.
 But the truth is that nobody shot the arrow at all.
 It never came in at the window at all.'
 
-`Then how did it come there?' asked the swarthy lawyer,
+‘Then how did it come there?' asked the swarthy lawyer,
 with a rather lowering face.
 
-`Somebody brought it with him, I suppose,' said Father Brown;
-`it wouldn't be hard to carry or conceal.  Somebody had it
+‘Somebody brought it with him, I suppose,' said Father Brown;
+‘it wouldn't be hard to carry or conceal.  Somebody had it
 in his hand as he stood with Merton in Merton's own room.
 Somebody thrust it into Merton's throat like a poignard,
 and then had the highly intelligent idea of placing the whole
 thing at such a place and angle that we all assumed in a flash
 that it had flown in at the [[Window|window]] like a bird.'
 
-`Somebody,' said old Crake, in a voice as heavy as stone.
+‘Somebody,' said old Crake, in a voice as heavy as stone.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9858,47 +9858,47 @@ Ora lo guardavano tutti; ma egli proseguì nello stesso tono casuale e distratto
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_08" data-title="Incredulity — The Arrow of Heaven (part 8)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_08" data-title="Incredulity — The Arrow of Heaven (part 8)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
 The telephone bell rang with a strident and horrible clamour
 of insistence.  It was in the adjoining room, and Father Brown
 had darted there before anybody else could move.
 
-`What the devil is it all about?' cried Peter Wain, who seemed
+‘What the devil is it all about?' cried Peter Wain, who seemed
 all shaken and distracted.
 
-`He said he expected to be rung up by Wilton, the secretary,'
+‘He said he expected to be rung up by Wilton, the secretary,'
 replied his uncle in the same dead voice.
 
-`I suppose it is Wilton?' observed the lawyer, like one speaking
+‘I suppose it is Wilton?' observed the lawyer, like one speaking
 to fill up a [[Silence|silence]].  But nobody answered the question until
 [[Father Brown]] reappeared suddenly and silently in the room,
 bringing the answer.
 
-`Gentlemen,' he said, when he had resumed his seat,' it was you who asked
+‘Gentlemen,' he said, when he had resumed his seat,' it was you who asked
 me to look into the truth about this puzzle; and having found the truth,
 I must tell it, without any pretence of softening the shock.
 I'm afraid anybody who pokes his nose into things like this can't afford
 to be a respecter of persons.'
 
-`I suppose,' said Crake, breaking the [[Silence|silence]] that followed,
-`that means that some of us are accused, or suspected.'
+‘I suppose,' said Crake, breaking the [[Silence|silence]] that followed,
+‘that means that some of us are accused, or suspected.'
 
-`All of us are suspected,' answered [[Father Brown]].
-`I may be suspected myself, for I found the body.'
+‘All of us are suspected,' answered [[Father Brown]].
+‘I may be suspected myself, for I found the body.'
 
-`Of course we're suspected,' snapped Wain.  `Father Brown
+‘Of course we're suspected,' snapped Wain.  ‘Father Brown
 kindly explained to me how I could have besieged the tower
 in a flying--machine.'
 
-`No,' replied the priest, with a smile; `you described to me how you
+‘No,' replied the priest, with a smile; ‘you described to me how you
 could have done it.  That was just the interesting part of it.'
 
-`He seemed to think it likely,' growled Crake, `that I killed
+‘He seemed to think it likely,' growled Crake, ‘that I killed
 him myself with a Red Indian arrow.'
 
-`I thought it most unlikely,' said [[Father Brown]], making rather
+‘I thought it most unlikely,' said [[Father Brown]], making rather
 a wry face.  I'm sorry if I did wrong, but I couldn't think
 of any other way of testing the matter.  I can hardly think
 of anything more improbable than the notion that Captain Wain went
@@ -9910,16 +9910,16 @@ somebody he could have killed in twenty much simpler ways.
 But I had to find out if they had had anything to do with it;
 and so I had to accuse them in order to prove their [[innocence]].'
 
-`And how have you proved their innocence?' asked Blake the lawyer,
+‘And how have you proved their innocence?' asked Blake the lawyer,
 leaning forward eagerly.
 
-`Only by the agitation they showed when they were accused,'
+‘Only by the agitation they showed when they were accused,'
 answered the other.
 
-`What do you mean, exactly?'
+‘What do you mean, exactly?'
 
-`If you will permit me to say so,' remarked [[Father Brown]],
-composedly enough, `I did undoubtedly think it my duty to suspect
+‘If you will permit me to say so,' remarked [[Father Brown]],
+composedly enough, ‘I did undoubtedly think it my duty to suspect
 them and everybody else.  I did suspect Mr Crake and I did suspect
 Captain Wain, in the sense that I considered the possibility or
 probability of their guilt.  I told them I had formed conclusions
@@ -9945,42 +9945,42 @@ with the thing and then remembering to deny it.  So I ruled you
 both out and others for other reasons I needn't discuss now.
 For instance, there was the secretary--
 
-`But I'm not talking about that just now.  Look here,
+‘But I'm not talking about that just now.  Look here,
 I've just heard from Wilton on the phone, and he's given
 me permission to tell you some rather serious news.
 Now I suppose you all know by this [[Time|time]] who Wilton was,
 and what he was after.'
 
-`I know he was after Daniel Doom and wouldn't be happy till he got him,'
-answered Peter Wain; `and I've heard the story that he's the son
+‘I know he was after Daniel Doom and wouldn't be happy till he got him,'
+answered Peter Wain; ‘and I've heard the story that he's the son
 of old Horder, and that's why he's the [[Avenger|avenger]] of [[Blood|blood]].
 Anyhow, he's certainly looking for the man called Doom.'
 
-`Well,' said Father Brown, `he has found him.'
+‘Well,' said Father Brown, ‘he has found him.'
 
 Peter Wain sprang to his feet in excitement.
 
-`The murderer!' he cried.  `Is the murderer in the lock--up already?'
+‘The murderer!' he cried.  ‘Is the murderer in the lock--up already?'
 
-`No,' said Father Brown, gravely; `I said the news
+‘No,' said Father Brown, gravely; ‘I said the news
 was serious, and it's more serious than that.
 I'm afraid poor Wilton has taken a terrible responsibility.
 I'm afraid he's going to put a terrible responsibility on us.
 He hunted the criminal down, and just when he had him cornered
 at last--[[Well|well]], he has taken the law into his own hands.'
 
-`You mean that Daniel Doom--` began the lawyer.
+‘You mean that Daniel Doom--‘ began the lawyer.
 
-`I mean that Daniel Doom is dead,' said the priest.
-`There was some sort of wild struggle, and Wilton killed him.'
+‘I mean that Daniel Doom is dead,' said the priest.
+‘There was some sort of wild struggle, and Wilton killed him.'
 
-`Serve him right,' growled Mr Hickory Crake.
+‘Serve him right,' growled Mr Hickory Crake.
 
-`Can't blame Wilton for downing a crook like that, especially considering
-the feud,' assented Wain; `it was like stepping on a viper.'
+‘Can't blame Wilton for downing a crook like that, especially considering
+the feud,' assented Wain; ‘it was like stepping on a viper.'
 
-`I don't agree with you,' said [[Father Brown]].
-`I suppose we all talk romantic stuff at random in defence
+‘I don't agree with you,' said [[Father Brown]].
+‘I suppose we all talk romantic stuff at random in defence
 of lynching and lawlessness; but I have a suspicion that
 if we lose our laws and liberties we shall regret it.
 Besides, it seems to me illogical to say there is something
@@ -10050,18 +10050,18 @@ Peter Wain balzò in piedi per l'eccitazione.
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_09" data-title="Incredulity — The Arrow of Heaven (part 9)" data-chapter="Story 02 The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_09" data-title="Incredulity — The Arrow of Heaven (part 9)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
 
 
-`Oh, I've no patience with all this sentimental whitewashing
+‘Oh, I've no patience with all this sentimental whitewashing
 of worthless, murderous blackguards,' cried Wain, heatedly.
-`If Wilton croaked the criminal he did a jolly good day's work,
+‘If Wilton croaked the criminal he did a jolly good day's work,
 and there's an end of it.'
 
-`Quite so, quite so,' said his uncle, nodding vigorously.
+‘Quite so, quite so,' said his uncle, nodding vigorously.
 
 [[Father Brown]]'s face had a yet heavier gravity as he looked slowly round
-the semicircle effaces.  `Is that really what you all think?' he asked.
+the semicircle effaces.  ‘Is that really what you all think?' he asked.
 Even as he did so he realized that he was an Englishman and an exile.
 He realized that he was among foreigners, even if he was among friends.
 Around that ring of foreigners ran a restless fire that was not
@@ -10069,7 +10069,7 @@ native to his own breed; the fiercer spirit of the western nation
 that can rebel and lynch, and above all, combine.  He knew that they
 had already combined.
 
-`[[Well]],' said [[Father Brown]], with a sigh, `I am to understand, then,
+‘[[Well]],' said [[Father Brown]], with a sigh, ‘I am to understand, then,
 that you do definitely condone this unfortunate man's crime,
 or act of private justice, or whatever you call it.
 In that case it will not hurt him if I tell you a little
@@ -10079,11 +10079,11 @@ He rose suddenly to his feet; and though they saw no meaning
 in his movement, it seemed in some way to change or chill
 the very air in the room.
 
-`Wilton killed Doom in a rather curious way,' he began.
+‘Wilton killed Doom in a rather curious way,' he began.
 
-`How did Wilton kill him?' asked Crake, abruptly.
+‘How did Wilton kill him?' asked Crake, abruptly.
 
-`With an arrow,' said [[Father Brown]].
+‘With an arrow,' said [[Father Brown]].
 
 Twilight was gathering in the long room, and daylight dwindling
 to a gleam from the great [[Window|window]] in the inner room, where the great
@@ -10092,15 +10092,15 @@ turned slowly towards it, but as yet there was no sound.
 Then the voice of Crake came cracked and high and senile in a sort
 of crowing gabble.
 
-`What you mean?  What you mean?  Brander Merton killed by an arrow.
-This crook killed by an arrow--`
+‘What you mean?  What you mean?  Brander Merton killed by an arrow.
+This crook killed by an arrow--‘
 
-`By the same arrow,' said the priest, `and at the same moment.'
+‘By the same arrow,' said the priest, ‘and at the same moment.'
 
 Again there was a sort of strangled and yet swollen and bursting [[Silence|silence]],
-and young Wain began:  `You mean--`
+and young Wain began:  ‘You mean--‘
 
-`I mean that your friend Merton was Daniel Doom,'
+‘I mean that your friend Merton was Daniel Doom,'
 said Father Brown firmly;' and the only Daniel Doom you'll
 ever find.  Your friend Merton was always crazy after that
 Coptic Cup that he used to worship like an idol every day;
@@ -10116,21 +10116,21 @@ hunt ended, and he slew the slayer of his father.'
 For a long time nobody answered.  Then old Crake could be heard
 drumming with his fingers on the table and muttering:
 
-`Brander must have been mad.  He must have been mad.'
+‘Brander must have been mad.  He must have been mad.'
 
-`But, good Lord!' burst out Peter Wain;' what are we to do?
+‘But, good Lord!' burst out Peter Wain;' what are we to do?
 What are we to say?  Oh, it's all quite different!
 What about the papers and the big business people?
 Brander Merton is a thing like the President or the Pope of Rome.'
 
-`I certainly think it is rather different,' began Barnard Blake,
-the lawyer, in a low voice.  `The difference involves a whole--`
+‘I certainly think it is rather different,' began Barnard Blake,
+the lawyer, in a low voice.  ‘The difference involves a whole--‘
 
 [[Father Brown]] struck the table so that the glasses on it rang;
 and they could almost fancy a ghostly echo from the mysterious
 chalice that still stood in the room beyond.
 
-`No!' he cried, in a voice like a pistol--shot.  `There shall
+‘No!' he cried, in a voice like a pistol--shot.  ‘There shall
 be no difference.  I gave you your chance of pitying
 the poor devil when you thought he was a common criminal.
 You wouldn't listen then; you were all for private vengeance then.
@@ -10143,11 +10143,11 @@ Take your wild justice or our dull legality; but in the name of
 Almighty God, let there be an equal lawlessness or an equal law.'
 
 Nobody answered except the lawyer, and he answered with something
-like a snarl:  `What will the police say if we tell them we mean
+like a snarl:  ‘What will the police say if we tell them we mean
 to condone a crime?'
 
-`What will they say if I tell them you did condone it?'
-replied [[Father Brown]].  `Your respect for the law comes rather late,
+‘What will they say if I tell them you did condone it?'
+replied [[Father Brown]].  ‘Your respect for the law comes rather late,
 Mr Barnard Blake.'
 
 After a pause he resumed in a milder tone:  'I, for one,
@@ -10214,12 +10214,12 @@ Si incamminò lentamente verso la stanza interna e vi rimase in piedi accanto al
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_01" data-title="Incredulity — The Oracle of the Dog (part 1)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_01" data-title="Incredulity — The Oracle of the Dog (part 1)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
 THREE:  The Oracle of the Dog
 
-`YES,' said [[Father Brown]], `I always like a dog, so long
+‘YES,' said [[Father Brown]], ‘I always like a dog, so long
 as he isn't spelt backwards.'
 
 Those who are quick in talking are not always quick in listening.
@@ -10231,25 +10231,25 @@ brush but with the wind of the world as be rushed through it.
 But he stopped in the torrent of his talk in a momentary bewilderment
 before he saw the priest's very simple meaning.
 
-`You mean that people make too much of them?' he said.
-`Well, I don't know.  They're marvellous creatures.
+‘You mean that people make too much of them?' he said.
+‘Well, I don't know.  They're marvellous creatures.
 Sometimes I think they know a lot more than we do.'
 
 Father Brown said nothing, but continued to stroke the head of the big
 retriever in a half--abstracted but apparently soothing fashion.
 
-`Why,' said Fiennes, warming again to his monologue,
-`there was a dog in the case I've come to see you about:
-what they call the `Invisible Murder Case', you know.
+‘Why,' said Fiennes, warming again to his monologue,
+‘there was a dog in the case I've come to see you about:
+what they call the ‘Invisible Murder Case', you know.
 It's a strange story, but from my point of view the dog is about
 the strangest thing in it.  Of course, there's the mystery
 of the crime itself, and how old Druce can have been killed
-by somebody else when he was all [[Alone|alone]] in the [[Summer|summer]]--[[house]]--`
+by somebody else when he was all [[Alone|alone]] in the [[Summer|summer]]--[[house]]--‘
 
 The hand stroking the dog stopped for a moment in its rhythmic movement,
-and Father Brown said calmly:  `Oh, it was a [[Summer|summer]]--[[house]], was it?'
+and Father Brown said calmly:  ‘Oh, it was a [[Summer|summer]]--[[house]], was it?'
 
-`I thought you'd read all about it in the papers,' answered Fiennes.'
+‘I thought you'd read all about it in the papers,' answered Fiennes.'
 Stop a minute; I believe I've got a cutting that will give you
 all the particulars.'  He produced a strip of newspaper from
 his pocket and handed it to the priest, who began to read it,
@@ -10367,14 +10367,14 @@ Traill, l'avvocato, dice di aver lasciato il colonnello del tutto solo nel padig
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_02" data-title="Incredulity — The Oracle of the Dog (part 2)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_02" data-title="Incredulity — The Oracle of the Dog (part 2)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
-`So Colonel Druce wore a white coat, did he?' said [[Father Brown]]
+‘So Colonel Druce wore a white coat, did he?' said [[Father Brown]]
 as he put down the paper.
 
-`Trick he learnt in the tropics,' replied Fiennes, with some wonder.
-`He'd had some queer adventures there, by his own account;
+‘Trick he learnt in the tropics,' replied Fiennes, with some wonder.
+‘He'd had some queer adventures there, by his own account;
 and I fancy his dislike of [[Valentine]] was connected with the doctor
 coming from the tropics, too.  But it's all an infernal puzzle.
 The account there is pretty accurate.  I didn't see the [[Tragedy|tragedy]],
@@ -10393,11 +10393,11 @@ This red--haired secretary, Floyd, is quite a character;
 a breathless bounding sort of fellow, always doing everybody's
 work as he was doing the gardener's. I think he is an American;
 he's certainly got the American view of life--what they call
-the view--point, bless `em.'
+the view--point, bless ‘em.'
 
-`What about the lawyer?' asked [[Father Brown]].  There was
+‘What about the lawyer?' asked [[Father Brown]].  There was
 a [[Silence|silence]] and then Fiennes spoke quite slowly for him.
-`Traill struck me as a singular man.  In his fine black clothes
+‘Traill struck me as a singular man.  In his fine black clothes
 he was almost foppish, yet you can hardly call him fashionable.
 For he wore a pair of long, luxuriant black whiskers
 such as haven't been seen since Victorian times.
@@ -10414,10 +10414,10 @@ At least there's only one exception I'd make, and that's why
 I really mentioned the whole thing.  The dog knows.'
 
 Father Brown sighed and then said absently:
-`You were there as a friend of young Donald, weren't you?
+‘You were there as a friend of young Donald, weren't you?
 He didn't go on your walk with you?'
 
-`No,' replied Fiennes smiling.  `The young scoundrel
+‘No,' replied Fiennes smiling.  ‘The young scoundrel
 had gone to bed that morning and got up that afternoon.
 I went with his cousins, two young officers from India,
 and our conversation was trivial enough.  I remember the elder,
@@ -10429,9 +10429,9 @@ I only mention it to show you, in the light of what happened
 on our walk, that there was nothing psychic about us.
 The dog was the only mystic in our company.'
 
-`What sort of a dog was he?' asked the priest.
+‘What sort of a dog was he?' asked the priest.
 
-`Same breed as that one,' answered Fiennes.  `That's what
+‘Same breed as that one,' answered Fiennes.  ‘That's what
 started me off on the story, your saying you didn't believe
 in believing in a dog.  He's a big black retriever, named Nox,
 and a suggestive name, too; for I think what he did
@@ -10461,7 +10461,7 @@ of the clock were really very ominous things that afternoon.
 According to Dr Valentine's testimony, poor Druce had actually
 died just about half past four.
 
-`[[Well]], they said we needn't go [[Home|home]] for ten minutes, and we walked
+‘[[Well]], they said we needn't go [[Home|home]] for ten minutes, and we walked
 a little farther along the sands, doing nothing in particular--
 throwing stones for the dog and throwing sticks into the sea for,
 him to swim after.  But to me the twilight seemed to grow
@@ -10475,7 +10475,7 @@ He came back again on to the shore and stood in front of us.
 Then he suddenly threw up his head and sent up a howl or wail
 of woe--if ever I heard one in the world.
 
-``What the devil's the matter with the dog?` asked Herbert;
+‘‘What the devil's the matter with the dog?‘ asked Herbert;
 but none of us could answer.  There was a long silence
 after the brute's wailing and whining died away on
 the desolate shore; and then the silence was broken.
@@ -10510,14 +10510,14 @@ Padre Brown sospirò e poi disse distrattamente: «Lei era lì come amico del gi
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_03" data-title="Incredulity — The Oracle of the Dog (part 3)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_03" data-title="Incredulity — The Oracle of the Dog (part 3)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
-`You went back, I suppose,' said [[Father Brown]] patiently.
-`What happened then?'
+‘You went back, I suppose,' said [[Father Brown]] patiently.
+‘What happened then?'
 
-`I'll tell you what happened then,' said Fiennes with a grim emphasis.
-`When we got back into that garden the first thing we saw
+‘I'll tell you what happened then,' said Fiennes with a grim emphasis.
+‘When we got back into that garden the first thing we saw
 was Traill, the lawyer; I can see him now with his black hat
 and black whiskers relieved against the perspective of the blue
 flowers stretching down to the summer--house, with the sunset
@@ -10530,7 +10530,7 @@ that were almost verbal in their dreadful distinctness of hatred.
 And the man doubled up and fled, along the path between the flowers.'
 
 Father Brown sprang to his feet with a startling impatience.
-`So the dog denounced him, did he?' he cried.  `The oracle
+‘So the dog denounced him, did he?' he cried.  ‘The oracle
 of the dog condemned him.  Did you see what birds were flying,
 and are you sure whether they were on the right hand or the left?
 Did you consult the augurs about the sacrifices?  Surely you
@@ -10540,17 +10540,17 @@ seem to trust when you are thinking of taking away the life
 and honour of a man.'
 
 Fiennes sat gaping for an instant before he found breath to say:
-`Why, what's the matter with you?  What have I done now?'
+‘Why, what's the matter with you?  What have I done now?'
 A sort of anxiety came back into the priest's eyes--the anxiety
 of a man who has run against a post in the dark and wonders
 for a moment whether he has hurt it.
 
-`I'm most awfully sorry,' he said with sincere distress.
-`I beg your pardon for being so rude; pray forgive me.'
+‘I'm most awfully sorry,' he said with sincere distress.
+‘I beg your pardon for being so rude; pray forgive me.'
 
-Fiennes looked at him curiously.  `I sometimes think you
+Fiennes looked at him curiously.  ‘I sometimes think you
 are more of a mystery than any of the mysteries,' he said.
-`But anyhow, if you don't believe in the mystery of the dog,
+‘But anyhow, if you don't believe in the mystery of the dog,
 at least you can't get over the mystery of the man.
 You can't deny that at the very moment when the beast came
 back from the sea and bellowed, his master's [[Soul|soul]] was driven
@@ -10569,10 +10569,10 @@ The whole [[house]], [[Garden|garden]], and shore were combed for a weapon.
 The disappearance of the dagger is almost as crazy as the
 disappearance of the man.'
 
-`The disappearance of the dagger,' said Father Brown, nodding.
+‘The disappearance of the dagger,' said Father Brown, nodding.
 He seemed to have become suddenly attentive.
 
-`[[Well]],' continued Fiennes, `I told you that man Traill had a trick
+‘[[Well]],' continued Fiennes, ‘I told you that man Traill had a trick
 of fidgeting with his tie and tie--pin--especially his tie--pin.
 His pin, like himself, was at once showy and old--fashioned.
 It had one of those stones with concentric coloured rings that look
@@ -10582,11 +10582,11 @@ But the pin was not only large but long; and it occurred to me
 that his anxiety about its adjustment was because it was even longer
 than it looked; as long as a stiletto in fact.'
 
-Father Brown nodded thoughtfully.  `Was any other instrument
+Father Brown nodded thoughtfully.  ‘Was any other instrument
 ever suggested?' he asked.
 
-`There was another suggestion,' answered Fiennes,
-`from one of the young Druces--the cousins, I mean.
+‘There was another suggestion,' answered Fiennes,
+‘from one of the young Druces--the cousins, I mean.
 Neither Herbert nor Harry Druce would have struck one at
 first as likely to be of assistance in scientific detection;
 but while Herbert was really the traditional type of heavy Dragoon,
@@ -10604,9 +10604,9 @@ an argument that led--to something new.  It began by his
 countering my description of the dog barking at Traill;
 and he said that a dog at his worst didn't bark, but growled.'
 
-`He was quite right there,' observed the priest.
+‘He was quite right there,' observed the priest.
 
-`This young fellow went on to say that, if it came to that, he'd heard
+‘This young fellow went on to say that, if it came to that, he'd heard
 Nox growling at other people before then; and among others at Floyd,
 the secretary.  I retorted that his own argument answered itself;
 for the crime couldn't be brought [[Home|home]] to two or three people, and least
@@ -10614,8 +10614,8 @@ of all to Floyd, who was as [[Innocent|innocent]] as a harum--scarum schoolboy,
 and had been seen by everybody all the [[Time|time]] perched above the [[Garden|garden]]
 hedge with his fan of red hair as conspicuous as a scarlet cockatoo.
 
-`I know there's difficulties anyhow,' said my colleague,
-`but I wish you'd come with me down the [[Garden|garden]] a minute.
+‘I know there's difficulties anyhow,' said my colleague,
+‘but I wish you'd come with me down the [[Garden|garden]] a minute.
 I want to show you something I don't think any one else has seen.'
 This was on the very day of the discovery, and the [[Garden|garden]]
 was just as it had been.  The step--ladder was still
@@ -10625,7 +10625,7 @@ It was the sheers used for clipping the hedge, and on the point
 of one of them was a smear of [[Blood|blood]].'
 
 There was a short [[Silence|silence]], and then [[Father Brown]] said suddenly;
-`What was the lawyer there for?'
+‘What was the lawyer there for?'
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10660,25 +10660,25 @@ Vi fu un breve [[Silence|silenzio]], e poi [[Father Brown|Padre Brown]] disse d'
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_04" data-title="Incredulity — The Oracle of the Dog (part 4)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_04" data-title="Incredulity — The Oracle of the Dog (part 4)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
-`He fold us the Colonel sent for him to alter his will,'
-answered Fiennes.  `And, by the way, there was another thing
+‘He fold us the Colonel sent for him to alter his will,'
+answered Fiennes.  ‘And, by the way, there was another thing
 about the business of the will that I ought to mention.
 You see, the will wasn't actually signed in the summer--
 house that afternoon.'
 
-`I suppose not,' said [[Father Brown]]; `there would have to
+‘I suppose not,' said [[Father Brown]]; ‘there would have to
 be two witnesses.'
 
-`The lawyer actually came down the day before and it was signed then;
+‘The lawyer actually came down the day before and it was signed then;
 but he was sent for again next day because the old man had a [[Doubt|doubt]]
 about one of the witnesses and had to be reassured.'
 
-`Who were the witnesses?' asked Father Brown.
+‘Who were the witnesses?' asked Father Brown.
 
-`That's just the point,' replied his informant eagerly, `the witnesses
+‘That's just the point,' replied his informant eagerly, ‘the witnesses
 were Floyd, the secretary, and this Dr Valentine, the foreign
 sort of surgeon or whatever he is; and the two had a quarrel.
 Now I'm bound to say that the secretary is something of a busybody.
@@ -10697,13 +10697,13 @@ He said it would invalidate the will; of course he was kind
 enough to explain to the lawyer what the law was on that point.
 They were both in a frightful wax.'
 
-Father Brown laughed.  `People often are when they are to witness a will,'
-he said; `for one thing, it means that they can't have any legacy
+Father Brown laughed.  ‘People often are when they are to witness a will,'
+he said; ‘for one thing, it means that they can't have any legacy
 under it.  But what did Dr Valentine say?  No doubt the universal
 secretary knew more about the doctor's name than the doctor did.
 But even the doctor might have some information about his own name.'
 
-Fiennes paused a moment before he replied.  `Dr [[Valentine]] took it in a
+Fiennes paused a moment before he replied.  ‘Dr [[Valentine]] took it in a
 curious way.  Dr [[Valentine]] is a curious man.  His appearance is rather
 striking but very foreign.  He is young but wears a beard cut square;
 and his face is very pale, dreadfully pale--and dreadfully serious.
@@ -10735,47 +10735,47 @@ or saying that no provocation could justify killing anybody;
 which seems an unusual sort of talk to address to a gentleman who has
 dropped in to tea.'
 
-`Do you know,' asked the priest, `whether Dr [[Valentine]] seemed to be
+‘Do you know,' asked the priest, ‘whether Dr [[Valentine]] seemed to be
 very angry after the scene with the secretary and the Colonel--I mean
 about witnessing the will?'
 
-`By all accounts,' replied the other, `he wasn't half so angry
+‘By all accounts,' replied the other, ‘he wasn't half so angry
 as the secretary was.  It was the secretary who went away raging
 after witnessing the will.'
 
-`And now,' said Father Brown,' what about the will itself?'
+‘And now,' said Father Brown,' what about the will itself?'
 
-`The Colonel was a very wealthy man, and his will was important.
+‘The Colonel was a very wealthy man, and his will was important.
 Traill wouldn't tell us the alteration at that stage,
 but I have since heard only this morning in fact--that most
 of the money was transferred from the son to the daughter.
 I told you that Druce was wild with my friend Donald over
 his dissipated hours.'
 
-`The question of motive has been rather over--shadowed by
+‘The question of motive has been rather over--shadowed by
 the question of method,' observed Father Brown thoughtfully.
-`At that moment, apparently, Miss Druce was the immediate
+‘At that moment, apparently, Miss Druce was the immediate
 gainer by the [[Death|death]].'
 
-`Good God!  What a cold--blooded way of talking,' cried Fiennes,
-staring at him.  `You don't really mean to hint that she--`
+‘Good God!  What a cold--blooded way of talking,' cried Fiennes,
+staring at him.  ‘You don't really mean to hint that she--‘
 
-`Is she going to marry that Dr [[Valentine]]?' asked the other.
+‘Is she going to marry that Dr [[Valentine]]?' asked the other.
 
-`Some people are against it,' answered his friend.
-`But he is liked and respected in the place and is a skilled
+‘Some people are against it,' answered his friend.
+‘But he is liked and respected in the place and is a skilled
 and devoted surgeon.'
 
-`So devoted a surgeon,' said Father Brown, `that he had surgical
+‘So devoted a surgeon,' said Father Brown, ‘that he had surgical
 instruments with him when he went to call on the young lady at teatime.
 For he must have used a lancet or something, and he never seems
 to have gone [[Home|home]].'
 
 Fiennes sprang to his feet and looked at him in a heat of inquiry.
-'You suggest he might have used the very same lancet--`
+'You suggest he might have used the very same lancet--‘
 
-Father Brown shook his head.  `All these suggestions are fancies
-just now,' he said.  `The problem is not who did it or what did it,
+Father Brown shook his head.  ‘All these suggestions are fancies
+just now,' he said.  ‘The problem is not who did it or what did it,
 but how it was done.  We might find many men and even many tools--
 pins and shears and lancets.  But how did a man get into the room?
 How did even a pin get into it?'
@@ -10821,18 +10821,18 @@ Padre Brown scosse il capo. «Tutti questi suggerimenti per ora sono fantasie»,
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_05" data-title="Incredulity — The Oracle of the Dog (part 5)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_05" data-title="Incredulity — The Oracle of the Dog (part 5)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
 He was staring reflectively at the ceiling as he spoke,
 but as he said the last words his eye cocked in an alert fashion
 as if he had suddenly seen a curious fly on the ceiling.
 
-`[[Well]], what would you do about it?' asked the young man.
-`You have a lot of experience; what would you advise now?'
+‘[[Well]], what would you do about it?' asked the young man.
+‘You have a lot of experience; what would you advise now?'
 
-`I'm afraid I'm not much use,' said [[Father Brown]] with a sigh.
-`I can't suggest very much without having ever been near
+‘I'm afraid I'm not much use,' said [[Father Brown]] with a sigh.
+‘I can't suggest very much without having ever been near
 the place or the people.  For the moment you can only go
 on with local inquiries.  I gather that your friend from
 the Indian Police is more or less in charge of your inquiry
@@ -10852,7 +10852,7 @@ the enthusiasm.  He had been excited in a less pleasant fashion,
 for his blue eyes seemed to start from his head and his eager
 face was even a little pale.
 
-`You told me,' he said abruptly and without preface, `to find
+‘You told me,' he said abruptly and without preface, ‘to find
 out what Harry Druce was doing.  Do you know what he's done?'
 The priest did not reply, and the young man went on in jerky tones:
 I'll tell you what he's done.  He's killed himself.'
@@ -10861,14 +10861,14 @@ Father Brown's lips moved only faintly, and there was nothing
 practical about what he was saying--nothing that has anything
 to do with this story or this world.
 
-`You give me the creeps sometimes,' said Fiennes.  `Did you--
+‘You give me the creeps sometimes,' said Fiennes.  ‘Did you--
 did you expect this?'
 
-`I thought it possible,' said [[Father Brown]]; `that was why I asked you
+‘I thought it possible,' said [[Father Brown]]; ‘that was why I asked you
 to go and see what he was doing.  I hoped you might not be too late.'
 
-`It was I who found him,' said Fiennes rather huskily.
-`It was the ugliest and most uncanny thing fever knew.
+‘It was I who found him,' said Fiennes rather huskily.
+‘It was the ugliest and most uncanny thing fever knew.
 I went down that old garden again, and I knew there was
 something new and unnatural about it besides the murder.
 The flowers still tossed about in blue masses on each side
@@ -10883,7 +10883,7 @@ The Rock of Fortune was gone.'
 
 Father Brown had lifted his head and was listening intently.
 
-`It was as if a mountain had walked away out of a landscape
+‘It was as if a mountain had walked away out of a landscape
 or a [[Moon|moon]] fallen from the sky; though I knew, of course,
 that a touch at any [[Time|time]] would have tipped the thing over.
 Something possessed me and I rushed down that [[Garden|garden]] path
@@ -10895,31 +10895,31 @@ and poor Harry Druce lay like a wreck underneath it.
 One arm was thrown round it in a sort of embrace as if he had
 pulled it down on himself; and on the broad brown sands beside it,
 in large crazy lettering, he had scrawled the words:
-`The Rock of Fortune falls on the Fool'.'--
+‘The Rock of Fortune falls on the Fool'.'--
 
-`It was the Colonel's will that did that,' observed [[Father Brown]].
-`The young man had staked everything on profiting himself
+‘It was the Colonel's will that did that,' observed [[Father Brown]].
+‘The young man had staked everything on profiting himself
 by Donald's disgrace, especially when his uncle sent for him on
 the same day as the lawyer, and welcomed him with so much warmth.
 Otherwise he was done; he'd lost his police job; he was beggared
 at Monte Carlo.  And he killed himself when he found he'd killed
 his kinsman for nothing.'
 
-`Here, stop a minute!' cried the staring Fiennes.
-`You're going too fast for me.'
+‘Here, stop a minute!' cried the staring Fiennes.
+‘You're going too fast for me.'
 
-`Talking about the will, by the way,' continued [[Father Brown]] calmly,'
+‘Talking about the will, by the way,' continued [[Father Brown]] calmly,'
 before I forget it, or we go on to bigger things, there was a simple
 explanation, I think, of all that business about the doctor's name.
 I rather fancy I have heard both names before somewhere.
 The doctor is really a French nobleman with the title of the Marquis
 de Villon.  But he is also an ardent Republican and has abandoned
 his title and fallen back on the forgotten family surname.
-`With your Citizen Riquetti you have puzzled Europe for ten days.'
+‘With your Citizen Riquetti you have puzzled Europe for ten days.'
 
-`What is that?' asked the young man blankly.
+‘What is that?' asked the young man blankly.
 
-`Never mind,' said the priest.  `Nine times out of ten it
+‘Never mind,' said the priest.  ‘Nine times out of ten it
 is a rascally thing to change one's name; but this was a piece
 of fine [[Fanaticism|fanaticism]].  That's the point of his sarcasm about
 Americans having no names--that is, no titles.  Now in England
@@ -10930,11 +10930,11 @@ about killing, I fancy that also was a point of French etiquette.
 The doctor was talking about challenging Floyd to a duel,
 and the girl was trying to dissuade him.'
 
-`Oh, I see,' cried Fiennes slowly.  `Now I understand what she meant.'
+‘Oh, I see,' cried Fiennes slowly.  ‘Now I understand what she meant.'
 
-`And what is that about?' asked his companion, smiling.
+‘And what is that about?' asked his companion, smiling.
 
-`[[Well]],' said the young man, `it was something that happened to me
+‘[[Well]],' said the young man, ‘it was something that happened to me
 just before I found that poor fellow's body; only the catastrophe
 drove it out of my head.  I suppose it's hard to remember a little
 romantic idyll when you've just come on top of a tragedy.
@@ -10950,7 +10950,7 @@ continuing his practice.  This rather surprised me, because I
 knew that her old father's will had left her his property;
 and I hinted at it delicately by saying I was going along to her
 father's old place and had half expected to meet her there.
-But she only laughed and said:  `Oh, we've given up all that.
+But she only laughed and said:  ‘Oh, we've given up all that.
 My husband doesn't like heiresses.'  And I discovered with some
 astonishment they really had insisted on restoring the property
 to poor Donald; so I [[Hope|hope]] he's had a healthy shock and will treat
@@ -11004,22 +11004,22 @@ Padre Brown aveva alzato il capo e ascoltava intento.
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_06" data-title="Incredulity — The Oracle of the Dog (part 6)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_06" data-title="Incredulity — The Oracle of the Dog (part 6)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
-``I [[Hope|hope]] it'll stop that red--haired [[Fool|fool]] from fussing any more
+‘‘I [[Hope|hope]] it'll stop that red--haired [[Fool|fool]] from fussing any more
 about the will.  Does he think my husband, who has given up
 a crest and a coronet as old as the [[Crusades]] for his principles,
 would kill an old man in a [[Summer|summer]]--[[house]] for a legacy like that?'
-Then she laughed again and said, `My husband isn't killing
+Then she laughed again and said, ‘My husband isn't killing
 anybody except in the way of business.  Why, he didn't even
 ask his friends to call on the secretary.'  Now, of course,
 I see what she meant.'
 
-`I see part of what she meant, of course,' said [[Father Brown]].
-`What did she mean exactly by the secretary fussing about the will?'
+‘I see part of what she meant, of course,' said [[Father Brown]].
+‘What did she mean exactly by the secretary fussing about the will?'
 
-Fiennes smiled as he answered, `I wish you knew the secretary,
+Fiennes smiled as he answered, ‘I wish you knew the secretary,
 [[Father Brown]].  It would be a joy to you to watch him make things hum,
 as he calls it.  He made the [[house]] of mourning hum.  He filled
 the funeral with all the snap and zip of the brightest sporting event.
@@ -11044,19 +11044,19 @@ It's just the sort of theory a man would have in a book;
 and Floyd is the sort of man who ought to be in a book.
 He'd be better fun and less bother in a book.'
 
-`What was his theory?' asked the other.
+‘What was his theory?' asked the other.
 
-`Oh, it was full of pep,' replied Fiennes gloomily.  `It would have been
+‘Oh, it was full of pep,' replied Fiennes gloomily.  ‘It would have been
 glorious copy if it could have held together for ten minutes longer.
 He said the Colonel was still alive when they found him in the summer--
 house, and the doctor killed him with the surgical instrument on pretence
 of cutting the clothes.'
 
-`I see,' said the priest.  `I suppose he was lying flat on his face
+‘I see,' said the priest.  ‘I suppose he was lying flat on his face
 on the mud floor as a form of siesta.'
 
-`It's wonderful what hustle will do,' continued his informant.
-` I believe Floyd would have got his great theory into the papers at
+‘It's wonderful what hustle will do,' continued his informant.
+‘ I believe Floyd would have got his great theory into the papers at
 any rate, and perhaps had the doctor attested, when all these things
 were blown sky high as if by dynamite by the discovery of that dead
 body lying under the Rock of Fortune.  And that's what we come
@@ -11064,9 +11064,9 @@ back to after all.  I suppose the suicide is almost a confession.
 But nobody will ever know the whole story.'
 
 There was a silence, and then the priest said modestly:
-`I rather think I know the whole story.'
+‘I rather think I know the whole story.'
 
-Fiennes stared.  `But look here,' he cried; `how do you come
+Fiennes stared.  ‘But look here,' he cried; ‘how do you come
 to know the whole story, or to be sure it's the true story?
 You've been sitting here a hundred miles away writing a sermon;
 do you mean to tell me you really know what happened already?
@@ -11076,19 +11076,19 @@ What started you off with your own story?'
 [[Father Brown]] jumped up with a very unusual excitement and his
 first exclamation was like an explosion.
 
-`The dog!' he cried.  `The dog, of course!  You had the whole
+‘The dog!' he cried.  ‘The dog, of course!  You had the whole
 story in your hands in the business of the dog on the beach,
 if you'd only noticed the dog properly.'
 
-Fiennes stared still more.  `But you told me before that my feelings
+Fiennes stared still more.  ‘But you told me before that my feelings
 about the dog were all nonsense, and the dog had nothing to do with it.'
 
-`The dog had everything to do with it,' said [[Father Brown]],
-`as you'd have found out if you'd only treated the dog as a dog,
+‘The dog had everything to do with it,' said [[Father Brown]],
+‘as you'd have found out if you'd only treated the dog as a dog,
 and not as God Almighty judging the souls of men.'
 
 He paused in an embarrassed way for a moment, and then said,
-with a rather pathetic air of apology:  `The [[Truth|truth]] is, I happen
+with a rather pathetic air of apology:  ‘The [[Truth|truth]] is, I happen
 to be awfully fond of [[dogs]].  And it seemed to me that in all
 this lurid halo of dog superstitions nobody was really thinking
 about the poor dog at all.  To begin with a small point,
@@ -11103,7 +11103,7 @@ is nervy and jumpy, too; those Yankee hustlers often are.
 Otherwise he wouldn't have cut his fingers on the shears
 and dropped them when he heard Janet Druce scream.
 
-`Now dogs hate nervous people.  I don't know whether they make
+‘Now dogs hate nervous people.  I don't know whether they make
 the dog nervous, too; or whether, being after all a brute,
 he is a bit of a bully; or whether his canine vanity
 (which is colossal) is simply offended at not being liked.
@@ -11176,10 +11176,10 @@ S'interruppe imbarazzato per un momento, e poi disse, con un'aria di scusa piutt
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_07" data-title="Incredulity — The Oracle of the Dog (part 7)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_07" data-title="Incredulity — The Oracle of the Dog (part 7)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
-`But when we come to that business by the seashore, things are much
+‘But when we come to that business by the seashore, things are much
 more interesting.  As you stated them, they were much more puzzling.
 I didn't understand that tale of the dog going in and out
 of the [[Water|water]]; it didn't seem to me a doggy thing to do.
@@ -11192,11 +11192,11 @@ but the most peremptory command, and not always for that.
 That he should turn round because his mood changed seems
 to me unthinkable.'
 
-`But he did turn round,' insisted Fiennes; `and came back
+‘But he did turn round,' insisted Fiennes; ‘and came back
 without the stick.'
 
-`He came back without the stick for the best reason in the world,'
-replied the priest.  `He came back because he couldn't find it.
+‘He came back without the stick for the best reason in the world,'
+replied the priest.  ‘He came back because he couldn't find it.
 He whined because be couldn't find it.  That's the sort of thing
 a dog really does whine about.  A dog is a devil of a ritualist.
 He is as particular about the precise routine of a game as a [[Child|child]]
@@ -11206,21 +11206,21 @@ of the conduct of the stick.  Never had such a thing happened before.
 Never had an eminent and distinguished dog been so treated by a rotten
 old walking--stick.'
 
-`Why, what had the walking--stick done?' inquired the young man.
+‘Why, what had the walking--stick done?' inquired the young man.
 
-`It had sunk,' said [[Father Brown]].
+‘It had sunk,' said [[Father Brown]].
 
 Fiennes said nothing, but continued to stare; and it was the priest
-who continued:  `It had sunk because it was not really a stick,
+who continued:  ‘It had sunk because it was not really a stick,
 but a rod of steel with a very thin shell of cane and a sharp point.
 In other words, it was a sword stick.  I suppose a murderer never gets
 rid of a bloody weapon so oddly and yet so naturally as by throwing
 it into the sea for a retriever.'
 
-`I begin to see what you mean,' admitted Fiennes;' but even if a [[Sword|sword]]--
+‘I begin to see what you mean,' admitted Fiennes;' but even if a [[Sword|sword]]--
 stick was used, I have no guess of how it was used.'
 
-`I had a sort of guess,' said Father Brown, `right at the beginning when
+‘I had a sort of guess,' said Father Brown, ‘right at the beginning when
 you said the word [[Summer|summer]]--[[house]].  And another when you said that Druce
 wore a white coat.  As long as everybody was looking for a short dagger,
 nobody thought of it; but if we admit a rather long blade like a rapier,
@@ -11229,7 +11229,7 @@ it's not so impossible.'
 He was leaning back, looking at the ceiling, and began like one going
 back to his own first thoughts and fundamentals.
 
-`All that discussion about detective stories like the Yellow Room,
+‘All that discussion about detective stories like the Yellow Room,
 about a man found dead in sealed chambers which no one
 could enter, does not apply to the present case, because it
 is a summer--house.  When we talk of a Yellow Room, or any room,
@@ -11246,7 +11246,7 @@ A man standing outside it could easily see, amid a network
 of twigs and branches and canes, one white spot of the Colonel's
 coat as plain as the white of a target.
 
-`Now, you left the geography a little vague; but it was possible to put
+‘Now, you left the geography a little vague; but it was possible to put
 two and two together.  You said the Rock of Fortune was not really high;
 but you also said it could be seen dominating the [[Garden|garden]] like
 a mountain--peak.  In other words, it was very near the end of the [[Garden|garden]],
@@ -11257,28 +11257,28 @@ And among other interesting things that you told me, may I remind
 you that you said Harry Druce had fallen behind to light his pipe
 under a hedge.'
 
-Fiennes shuddered slightly.  `You mean he drew his blade
+Fiennes shuddered slightly.  ‘You mean he drew his blade
 there and sent it through the hedge at the white spot.
 But surely it was a very odd chance and a very sudden choice.
 Besides, he couldn't be certain the old man's money had passed
 to him, and as a fact it hadn't.'
 
-Father Brown's face became animated.  `You misunderstand
+Father Brown's face became animated.  ‘You misunderstand
 the man's character,' he said, as if he himself had known the man
-all his life.  `A curious but not unknown type of character.
+all his life.  ‘A curious but not unknown type of character.
 If he had really known the money would come to him, I seriously
 believe he wouldn't have done it.  He would have seen it
 as the dirty thing it was.'
 
-`Isn't that rather paradoxical?' asked the other.
+‘Isn't that rather paradoxical?' asked the other.
 
-`This man was a gambler,' said the priest, `and a man
+‘This man was a gambler,' said the priest, ‘and a man
 in disgrace for having taken risks and anticipated orders.
 It was probably for something pretty unscrupulous, for every imperial
 police is more like a Russian secret police than we like to think.
 But he had gone beyond the line and failed.  Now, the [[Temptation|temptation]]
 of that type of man is to do a mad thing precisely because the risk
-will be wonderful in retrospect.  He wants to say, `Nobody but I
+will be wonderful in retrospect.  He wants to say, ‘Nobody but I
 could have seized that chance or seen that it was then or never.
 What a wild and wonderful guess it was, when I put all those
 things together; Donald in disgrace; and the lawyer being sent for;
@@ -11333,12 +11333,12 @@ Il volto di Padre Brown si animò. «Lei fraintende il carattere dell'uomo», di
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_08" data-title="Incredulity — The Oracle of the Dog (part 8)" data-chapter="Story 03 The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_08" data-title="Incredulity — The Oracle of the Dog (part 8)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
 
 
 He paused a moment, and then went on with a certain quiet emphasis.
 
-`And now try to call up the scene, even as you saw it yourself.
+‘And now try to call up the scene, even as you saw it yourself.
 As he stood there, dizzy with his diabolical opportunity,
 he looked up and saw that strange outline that might have
 been the image of his own tottering [[Soul|soul]]; the one great crag
@@ -11364,10 +11364,10 @@ Fiennes nodded, gazing thoughtfully into space.
 His mind seemed to have drifted back to a less practical part
 of the narrative.
 
-`It's queer,' he said, `that the dog really was in the story after all.'
+‘It's queer,' he said, ‘that the dog really was in the story after all.'
 
-`The dog could almost have told you the story, if he could talk,'
-said the priest.  `All I complain of is that because he couldn't
+‘The dog could almost have told you the story, if he could talk,'
+said the priest.  ‘All I complain of is that because he couldn't
 talk you made up his story for him, and made him talk with
 the tongues of men and angels.  It's part of something I've
 noticed more and more in the modern world, appearing in all
@@ -11378,7 +11378,7 @@ It's drowning all your old rationalism and scepticism,
 it's coming in like a sea; and the name of it is superstition.'
 He stood up abruptly, his face heavy with a sort of frown,
 and went on talking almost as if he were [[Alone|alone]].
-`It's the first effect of not believing in God that you
+‘It's the first effect of not believing in God that you
 lose your common sense and can't see things as they are.
 Anything that anybody talks about, and says there's a good deal
 in it, extends itself indefinitely like a vista in a nightmare.
@@ -11390,7 +11390,7 @@ to the bestial gods of the beginning, escaping into elephants
 and snakes and crocodiles; and all because you are frightened
 of four words:
 
-`He was made Man'.'
+‘He was made Man'.'
 
 The young man got up with a little embarrassment, almost as if he had
 overheard a soliloquy.  He called to the dog and left the room
@@ -11417,7 +11417,7 @@ Il giovane si alzò con un lieve imbarazzo, quasi avesse origliato un soliloquio
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_01" data-title="Incredulity — The Miracle of Moon Crescent (part 1)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_01" data-title="Incredulity — The Miracle of Moon Crescent (part 1)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
 FOUR:  The Miracle of [[Moon]] Crescent
@@ -11439,7 +11439,7 @@ At one extremity or horn of the crescent its last windows
 looked over an enclosure like a strip of a gentleman's park,
 with trees and hedges as formal as a [[Queen]] Anne [[Garden|garden]].
 But immediately round the corner, the other windows, even of
-the same rooms, or rather `apartments', looked out on the blank,
+the same rooms, or rather ‘apartments', looked out on the blank,
 unsightly wall of a huge warehouse attached to some ugly industry.
 The apartments of Moon Crescent itself were at that end remodelled
 on the monotonous pattern of an American hotel, and rose to
@@ -11508,9 +11508,9 @@ for Wynd, with characteristic thoroughness, had rented the whole
 floor above, and turned it into a loft or storeroom, where all his
 other papers and possessions were stacked in boxes and corded bales.
 
-`Give these to the floor--clerk, Wilson,' said Wynd to the servant
-holding the letters, `and then get me the pamphlet on the
-Minneapolis Night Clubs; you'll find it in the bundle marked `G'.
+‘Give these to the floor--clerk, Wilson,' said Wynd to the servant
+holding the letters, ‘and then get me the pamphlet on the
+Minneapolis Night Clubs; you'll find it in the bundle marked ‘G'.
 I shall want it in half an hour, but don't disturb me till then.
 [[Well]], Mr Vandam, I think your proposition sounds very promising;
 but I can't give a final answer till I've seen the report.
@@ -11521,10 +11521,10 @@ Mr Vandam seemed to feel that this was something like a polite dismissal;
 and his sallow, saturnine face suggested that he found a certain irony
 in the fact.
 
-`Well, I suppose I must be going,' he said.
+‘Well, I suppose I must be going,' he said.
 
-`Very good of you to call, Mr Vandam,' said Wynd, politely;
-`you will excuse my not coming out, as I've something here I
+‘Very good of you to call, Mr Vandam,' said Wynd, politely;
+‘you will excuse my not coming out, as I've something here I
 must fix at once.  Fenner,' he added to the secretary,'
 show Mr Vandam to his car, and don't come back again for half
 an hour.  I've something here I want to work out by myself;
@@ -11644,7 +11644,7 @@ dopo di che avrò bisogno di te.»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_02" data-title="Incredulity — The Miracle of Moon Crescent (part 2)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_02" data-title="Incredulity — The Miracle of Moon Crescent (part 2)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
 The three men went out into the hallway together, closing the door
@@ -11661,37 +11661,37 @@ almost equally wide fringe or halo of almost equally white hair.
 Set in this aureole his face was strong and handsome, like that of
 a Roman emperor, save that there was something more than boyish,
 something a little childish, about the brightness of his eyes
-and the beatitude of his smile.  `Mr Warren Wynd in?' he asked,
+and the beatitude of his smile.  ‘Mr Warren Wynd in?' he asked,
 in hearty tones.
 
-`Mr Warren Wynd is engaged,' said Fenner; `he must not be disturbed on
+‘Mr Warren Wynd is engaged,' said Fenner; ‘he must not be disturbed on
 any account.  I may say I am his secretary and can take any message.'
 
-`Mr Warren Wynd is not at home to the Pope or the Crowned Heads,'
-said Vandam, the oil magnate, with sour satire.  `Mr Warren Wynd
+‘Mr Warren Wynd is not at home to the Pope or the Crowned Heads,'
+said Vandam, the oil magnate, with sour satire.  ‘Mr Warren Wynd
 is mighty particular.  I went in there to hand him over a trifle
 of twenty thousand dollars on certain conditions, and, he told me
 to call again like as if I was a call--boy.'
 
-`It's a fine thing to be a boy,' said the stranger, `and a finer
+‘It's a fine thing to be a boy,' said the stranger, ‘and a finer
 to have a call; and I've got a call he's just got to listen to.
 It's a call of the great good country out West, where the real
 American is being made while you're all snoring.  Just tell him
 that Art Alboin of Oklahoma [[City]] has come to [[convert]] him.'
 
-`I tell you nobody can see him,' said the red--haired secretary sharply.
-`He has given orders that he is not to be disturbed for half an hour.'
+‘I tell you nobody can see him,' said the red--haired secretary sharply.
+‘He has given orders that he is not to be disturbed for half an hour.'
 
-`You folks down East are all against being disturbed,'
-said the breezy Mr Alboin, `but I calculate there's a big
+‘You folks down East are all against being disturbed,'
+said the breezy Mr Alboin, ‘but I calculate there's a big
 breeze getting up in the West that will have to disturb you.
 He's been figuring out how much money must go to this and that
 stuffy old religion; but I tell you any scheme that [[Leaves|leaves]]
 out the new Great Spirit movement in Texas and Oklahoma,
 is leaving out the religion of the future.'
 
-`Oh; I've sized up those religions of the future,' said the
-millionaire, contemptuously.  `I've been through them with a tooth--
+‘Oh; I've sized up those religions of the future,' said the
+millionaire, contemptuously.  ‘I've been through them with a tooth--
 comb and they're as mangy as yellow [[dogs]].  There was that woman called
 herself Sophia:  ought to have called herself Sapphira, I reckon.
 Just a plum fraud.  Strings tied to all the tables and tambourines.
@@ -11703,8 +11703,8 @@ So was the Patagonian [[Prophet]]; you bet he's made a bolt for Patagonia.
 No, I'm through with all that; from now on I only believe what I see.
 I believe they call it being an atheist.'
 
-`I guess you got me wrong,' said the man from Oklahoma,
-almost eagerly.  `I guess I'm as much of an atheist as you are.
+‘I guess you got me wrong,' said the man from Oklahoma,
+almost eagerly.  ‘I guess I'm as much of an atheist as you are.
 No [[Supernatural|supernatural]] or superstitious stuff in our movement;
 just plain science.  The only real right science is just health,
 and the only real right health is just breathing.
@@ -11714,26 +11714,26 @@ You could just puff away their biggest men like thistledown.
 That's what we do in the new movement out [[Home|home]]:  we breathe.
 We don't pray; we breathe.'
 
-`Well, I suppose you do,' said the secretary, wearily.  He had a keen,
+‘Well, I suppose you do,' said the secretary, wearily.  He had a keen,
 intelligent face which could hardly conceal the weariness; but he had
 listened to the two monologues with the admirable patience and politeness
 (so much in contrast with the legends of impatience and insolence)
 with which such monologues are listened to in America.
 
-`Nothing [[Supernatural|supernatural]],' continued Alboin, `just the great natural
+‘Nothing [[Supernatural|supernatural]],' continued Alboin, ‘just the great natural
 fact behind all the supernatural fancies.  What did the Jews want
 with a God except to breathe into man's nostrils the breath of life?
 We do the breathing into our own nostrils out in Oklahoma.
 What's the meaning of the very word Spirit?  It's just the Greek
 for breathing exercises.  Life, progress, prophecy; it's all breath.'
 
-`Some would allow it's all [[Wind|wind]],' said Vandam; `but I'm glad
+‘Some would allow it's all [[Wind|wind]],' said Vandam; ‘but I'm glad
 you've got rid of the divinity stunt, anyhow.'
 
 The keen face of the secretary, rather pale against his red hair,
 showed a flicker of some odd feeling suggestive of a secret bitterness.
 
-`I'm not glad,' he said, `I'm just sure.  You seem to like being atheists;
+‘I'm not glad,' he said, ‘I'm just sure.  You seem to like being atheists;
 so you may be just believing what you like to believe.  But.  I wish
 to God there were a God; and there ain't. It's just my luck.'
 
@@ -11757,8 +11757,8 @@ a round face under the round hat and innocently asked for Mr Warren Wynd,
 he gave the regular negative answer rather more curtly than before.
 But the priest stood his ground.
 
-`I do really want to see Mr Wynd,' he said.
-`It seems odd, but that's exactly what I do want to do.
+‘I do really want to see Mr Wynd,' he said.
+‘It seems odd, but that's exactly what I do want to do.
 I don't want to speak to him.  I just want to see him.
 I just want to see if he's there to be seen.'
 
@@ -11882,57 +11882,57 @@ Voglio soltanto vedere se è là, da poter esser visto.»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_03" data-title="Incredulity — The Miracle of Moon Crescent (part 3)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_03" data-title="Incredulity — The Miracle of Moon Crescent (part 3)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
-`[[Well]], I tell you he's there and can't be seen,' said Fenner,
-with increasing annoyance.  `What do you mean by saying you
+‘[[Well]], I tell you he's there and can't be seen,' said Fenner,
+with increasing annoyance.  ‘What do you mean by saying you
 want to see if he's there to be seen?  Of course he's there.
 We all left him there five minutes ago, and we've stood outside
 this door ever since.'
 
-`[[Well]], I want to see if he's all right,' said the priest.
+‘[[Well]], I want to see if he's all right,' said the priest.
 
-`Why?' demanded the secretary, in exasperation.  `Because I
+‘Why?' demanded the secretary, in exasperation.  ‘Because I
 have a serious, I might say solemn, reason,' said the cleric,
 gravely, 'for doubting whether he is all right.'
 
-`Oh, Lord!' cried Vandam, in a sort of fury; `not more superstitions.'
+‘Oh, Lord!' cried Vandam, in a sort of fury; ‘not more superstitions.'
 
-`I see I shall have to give my reasons,' observed the little
-cleric, gravely.  `I suppose I can't expect you even to let me look
+‘I see I shall have to give my reasons,' observed the little
+cleric, gravely.  ‘I suppose I can't expect you even to let me look
 through the crack of a door till I tell you the whole story.'
 He was silent a moment as in reflection, and then went
 on without noticing the wondering faces around him.
-`I was walking outside along the front of the colonnade when I
+‘I was walking outside along the front of the colonnade when I
 saw a very ragged man running hard round the corner at the end
 of the crescent.  He came pounding along the pavement towards me,
 revealing a great raw--boned figure and a face I knew.
 It was the face of a wild Irish fellow I once helped a little;
 I will not tell you his name.  When he saw me he staggered,
-calling me by mine and saying, `Saints alive, it's [[Father Brown]];
+calling me by mine and saying, ‘Saints alive, it's [[Father Brown]];
 you're the only man whose face could frighten me to--day.'
 
-`I knew he meant he'd been doing some wild thing or other, and I don't
+‘I knew he meant he'd been doing some wild thing or other, and I don't
 think my face frightened him much, for he was soon telling me about it.
 And a very strange thing it was.  He asked me if I knew Warren Wynd,
 and I said no, though I knew he lived near the top of these flats.
-He said, `That's a man who thinks he's a saint of God; but if he knew
+He said, ‘That's a man who thinks he's a saint of God; but if he knew
 what I was saying of him he should be ready to hang himself.'
-And he repeated hysterically more than once, `Yes, ready to
+And he repeated hysterically more than once, ‘Yes, ready to
 hang himself.'  I asked him if he'd done any harm to Wynd,
-and his answer was rather a queer one.  He said:  `I took a [[Pistol|pistol]]
+and his answer was rather a queer one.  He said:  ‘I took a [[Pistol|pistol]]
 and I loaded it with neither shot nor slug, but only with a curse.'
 As far as I could make out, all he had done was to go down
 that little alley between this building and the big warehouse,
 with an old [[Pistol|pistol]] loaded with a blank charge, and merely [[Fire|fire]]
 it against the wall, as if that would bring down the building.
-`But as I did it,' he said, `I cursed him with the great curse,
+‘But as I did it,' he said, ‘I cursed him with the great curse,
 that the justice of God should take him by the hair and the vengeance
 of hell by the heels, and he should be torn asunder like Judas
 and the world know him no more.'
 
-`Well, it doesn't matter now what else I said to the poor, crazy fellow;
+‘Well, it doesn't matter now what else I said to the poor, crazy fellow;
 he went away quieted down a little, and I went round to the back
 of the building to inspect.  And sure enough, in the little alley
 at the foot of this wall there lay a rusty antiquated pistol;
@@ -11944,7 +11944,7 @@ except those black marks and that black curse he had hurled into heaven.
 So I came back here to ask for this Warren Wynd and find out if
 he's all right.'
 
-Penner the secretary laughed.  `I can soon settle that difficulty
+Penner the secretary laughed.  ‘I can soon settle that difficulty
 for you.  I assure you he's quite all right; we left him writing
 at his desk only a few minutes ago.  He was [[Alone|alone]] in his flat;
 it's a hundred feet up from the street, and so placed that no shot
@@ -11952,21 +11952,21 @@ could have reached him, even if your friend hadn't fired blank.
 There's no other entrance to this place but this door, and we've
 been standing outside it ever since.'
 
-`All the same,' said Father Brown, gravely, `I should like to look
+‘All the same,' said Father Brown, gravely, ‘I should like to look
 in and see.'
 
-`Well, you can't,' retorted the other.  `Good Lord, you don't
+‘Well, you can't,' retorted the other.  ‘Good Lord, you don't
 tell me you think anything of the curse.'
 
-`You forget,' said the millionaire, with a slight sneer,
-`the reverend gentleman's whole business is blessings and cursings.
+‘You forget,' said the millionaire, with a slight sneer,
+‘the reverend gentleman's whole business is blessings and cursings.
 Come, sir, if he's been cursed to hell, why don't you bless him
 back again?  What's the good of your blessings if they can't
 beat an Irish larrykin's curse?'
 
-`Does anybody believe such things now?' protested the Westerner.
+‘Does anybody believe such things now?' protested the Westerner.
 
-`[[Father Brown]] believes a good number of things, I take it,'
+‘[[Father Brown]] believes a good number of things, I take it,'
 said Vandam, whose temper was [[Suffering|suffering]] from the past snub
 and the present bickering.  '[[Father Brown]] believes a hermit
 crossed a [[River|river]] on a crocodile conjured out of nowhere,
@@ -11983,21 +11983,21 @@ all day long.  It's nothing to him to believe that a man might
 escape through the keyhole or vanish out of a locked room.
 I reckon he doesn't take much stock of the laws of [[Nature|nature]].'
 
-`Anyhow, I have to take stock in the laws of Warren Wynd,'
-said the secretary, wearily, `and it's his rule that he's to be
+‘Anyhow, I have to take stock in the laws of Warren Wynd,'
+said the secretary, wearily, ‘and it's his rule that he's to be
 left [[Alone|alone]] when he says so.  Wilson will tell you just the same,'
 for the large servant who had been sent for the pamphlet,
 passed placidly down the corridor even as he spoke,
 carrying the pamphlet, but serenely passing the door.
-`He'll go and sit on the bench by the floor--clerk and twiddle
+‘He'll go and sit on the bench by the floor--clerk and twiddle
 his thumbs till he's wanted; but he won't go in before then;
 and nor will I. I reckon we both know which side our bread
 is buttered, and it'd take a good many of Father Brown's saint
 and angels to make us forget it.'
 
-`As for saints and angels--` began the priest.
+‘As for saints and angels--‘ began the priest.
 
-`It's all nonsense,' repeated Fenner.  `I don't want to say
+‘It's all nonsense,' repeated Fenner.  ‘I don't want to say
 anything offensive, but that sort of thing may be very well
 for crypts and cloisters and all sorts of moonshiny places.
 But ghosts can't get through a closed door in an American hotel.'
@@ -12039,19 +12039,19 @@ Penner, il segretario, rise. «Posso risolvervi in un attimo questa difficoltà.
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_04" data-title="Incredulity — The Miracle of Moon Crescent (part 4)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_04" data-title="Incredulity — The Miracle of Moon Crescent (part 4)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
-`But men can open a door, even in an American hotel,'
-replied [[Father Brown]], patiently.  `And it seems to me the simplest
+‘But men can open a door, even in an American hotel,'
+replied [[Father Brown]], patiently.  ‘And it seems to me the simplest
 thing would be to open it.'
 
-`It would be simple enough to lose me my job,' answered the secretary,
-`and Warren Wynd doesn't like his secretaries so simple as that.
+‘It would be simple enough to lose me my job,' answered the secretary,
+‘and Warren Wynd doesn't like his secretaries so simple as that.
 Not simple enough to believe in the sort of fairy tales you seem
 to believe in.'
 
-`[[Well]],' said the priest gravely, `it is true enough that I
+‘[[Well]],' said the priest gravely, ‘it is true enough that I
 believe in a good many things that you probably don't. But it
 would take a considerable time to explain all the things I
 believe in, and all the reasons I have for thinking I'm right.
@@ -12061,8 +12061,8 @@ I am wrong.'
 Something in the phrase seemed to please the more wild and restless
 spirit of the man from the West.
 
-`I'll allow I'd [[Love|love]] to prove you wrong,' said Alboin,
-striding suddenly past them, `and I will.'
+‘I'll allow I'd [[Love|love]] to prove you wrong,' said Alboin,
+striding suddenly past them, ‘and I will.'
 
 He threw open the door of the flat and looked in.
 The first glimpse showed that Warren Wynd's chair was empty.
@@ -12071,7 +12071,7 @@ The second glance showed that his room was empty also.
 Fenner, electrified with energy in his turn, dashed past the other
 into the apartment.
 
-`He's in his bedroom,' be said curtly, `he must be.'
+‘He's in his bedroom,' be said curtly, ‘he must be.'
 
 As he disappeared into the inner chamber the other men
 stood in the empty outer room staring about them.
@@ -12086,7 +12086,7 @@ backed skeletons.  A moment after the secretary reappeared
 at the inner door, having searched the two inner rooms.
 A staring negation stood in his eyes, and his mouth seemed
 to move in a mechanical detachment from it as he said sharply:
-`He didn't come out through here?'
+‘He didn't come out through here?'
 
 Somehow the others did not even think it necessary to answer
 that negation in the negative.  Their minds had come up against
@@ -12116,21 +12116,21 @@ As if the twilight itself irritated him, Fenner touched
 the switch and the scene sprang into the startling distinctness
 of electric light.
 
-`As you said just now,' said Vandam grimly, `there's no shot from
+‘As you said just now,' said Vandam grimly, ‘there's no shot from
 down there could bit him, even if there was a shot in the gun.
 But even if he was hit with a bullet he wouldn't have just burst
 like a bubble.'
 
 The secretary, who was paler than ever, glanced irritably at
-the bilious visage of the millionaire.  `What's got you started
+the bilious visage of the millionaire.  ‘What's got you started
 on those morbid notions?  Who's talking about bullets and bubbles?
 Why shouldn't he be alive?'
 
-`Why not indeed?' replied Vandam smoothly.  `If you'll tell me
+‘Why not indeed?' replied Vandam smoothly.  ‘If you'll tell me
 where he is, I'll tell you how he got there.'
 
 After a pause the secretary muttered, rather sulkily:
-`I suppose you're right.  We're right up against the very
+‘I suppose you're right.  We're right up against the very
 thing we were talking about.  It'd be a queer thing if you
 or I ever came to think there was anything in cursing.
 But who could have harmed Wynd shut up in here?'
@@ -12139,22 +12139,22 @@ Mr Alboin, of Oklahoma, had been standing rather astraddle in the middle
 of the room, his white, hairy halo as [[Well|well]] as his round eyes seeming
 to radiate astonishment.  At this point he said, abstractedly,
 with something of the irrelevant impudence of an enfant terrible:
-`You didn't cotton to him much, did you, Mr Vandam?'
+‘You didn't cotton to him much, did you, Mr Vandam?'
 
 Mr Vandam's long yellow face seemed to grow longer as it
 grew more sinister, while he smiled and answered quietly:
-`If it comes to these coincidences, it was you, I think,
+‘If it comes to these coincidences, it was you, I think,
 who said that a [[Wind|wind]] from the West would blow away out big
 men like thistledown.'
 
-`I know I said it would,' said the Westerner, with candour;
+‘I know I said it would,' said the Westerner, with candour;
 'but all the same, how the devil could it?'
 
 The silence was broken by Fenner saying with an abruptness amounting
-to violence:  `There's only one thing to say about this affair.
+to violence:  ‘There's only one thing to say about this affair.
 It simply hasn't happened.  It can't have happened.'
 
-`Oh, yes,' said Father Brown out of the corner; `it has
+‘Oh, yes,' said Father Brown out of the corner; ‘it has
 happened all right.'
 
 They all jumped; for the [[Truth|truth]] was they had all forgotten
@@ -12164,7 +12164,7 @@ reversal of mood; it came back to them with a rush that they
 had all dismissed him as a superstitious dreamer for even hinting
 at the very thing that had since happened before their eyes.
 
-`Snakes!' cried the impetuous Westerner, like one speaking
+‘Snakes!' cried the impetuous Westerner, like one speaking
 before he could stop himself; 'suppose there were something
 in it, after all!'
 
@@ -12299,19 +12299,19 @@ di vero, dopotutto!»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_05" data-title="Incredulity — The Miracle of Moon Crescent (part 5)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_05" data-title="Incredulity — The Miracle of Moon Crescent (part 5)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
-`I must confess,' said Fenner, frowning at the table, `that his
+‘I must confess,' said Fenner, frowning at the table, ‘that his
 reverence's anticipations were apparently well founded.
 I don't know whether he has anything else to tell us.'
 
-`He might possibly tell us,' said Vandam, sardonically, `what the devil
+‘He might possibly tell us,' said Vandam, sardonically, ‘what the devil
 we are to do now.'
 
 The little priest seemed to accept the position in a modest,
-but matter--of--fact manner.  `The only thing I can think of,'
-he said, `is first to tell the authorities of this place,
+but matter--of--fact manner.  ‘The only thing I can think of,'
+he said, ‘is first to tell the authorities of this place,
 and then to see if there were any more traces of my man who let
 off the pistol.  He vanished round the other end of the Crescent
 where the little garden is.  There are seats there, and it's
@@ -12330,7 +12330,7 @@ feeling of having suddenly travelled many hundred miles from their homes.
 When they had walked in silence for a little, Alboin, who had something
 elemental about him, suddenly exploded.
 
-`I give up,' he cried; `I hand in my checks.  I never thought I should
+‘I give up,' he cried; ‘I hand in my checks.  I never thought I should
 come to such things; but what happens when the things come to you?
 I beg your pardon, Father Brown; I reckon I'll just come across,
 so far as you and your fairy--tales are concerned.  After this, it's me
@@ -12338,16 +12338,16 @@ for the fairy--tales.  Why, you said yourself, Mr Vandam, that you're
 an atheist and only believe what you see.  Well, what was it you did see?
 Or rather, what was it you didn't see?'
 
-`I know,' said Vandam and nodded in a gloomy fashion.
+‘I know,' said Vandam and nodded in a gloomy fashion.
 
-`Oh, it's partly all this moon and trees that get on one's nerves,'
-said Fenner obstinately.  `Trees always look queer by moonlight,
-with their branches crawling about.  Look at that--`
+‘Oh, it's partly all this moon and trees that get on one's nerves,'
+said Fenner obstinately.  ‘Trees always look queer by moonlight,
+with their branches crawling about.  Look at that--‘
 
-`Yes,' said [[Father Brown]], standing still and peering at the [[Moon|moon]]
-through a tangle of trees.  `That's a very queer branch up there.'
+‘Yes,' said [[Father Brown]], standing still and peering at the [[Moon|moon]]
+through a tangle of trees.  ‘That's a very queer branch up there.'
 
-When he spoke again he only said:  `I thought it was a broken branch.'
+When he spoke again he only said:  ‘I thought it was a broken branch.'
 
 But this [[Time|time]] there was a catch in his voice that unaccountably
 turned his hearers cold.  Something that looked rather
@@ -12364,14 +12364,14 @@ length of it hung from the fork of the branch to the [[Body|body]].
 A long [[Garden|garden]] tub was rolled a yard or so from under the feet,
 like the stool kicked away from the feet of a [[suicide]].
 
-`Oh, my God!' said Alboin, so that it seemed as much
+‘Oh, my God!' said Alboin, so that it seemed as much
 a prayer as an oath.'  What was it that man said about
-him?--`If he knew, he would be ready to hang himself.'
+him?--‘If he knew, he would be ready to hang himself.'
 Wasn't that what he said, [[Father Brown]]?'
 
-`Yes,' said Father Brown.
+‘Yes,' said Father Brown.
 
-`[[Well]],' said Vandam in a hollow voice, `I never thought to see or say
+‘[[Well]],' said Vandam in a hollow voice, ‘I never thought to see or say
 such a thing.  But what can one say except that the curse has worked?'
 
 Fenner was standing with hands covering his face; and the priest laid
@@ -12380,12 +12380,12 @@ a hand on his arm and said, gently, 'Were you very fond of him?'
 The secretary dropped his hands and his white face was ghastly
 under the moon.
 
-`I hated him like hell,' he said; `and if he died by a curse
+‘I hated him like hell,' he said; ‘and if he died by a curse
 it might have been mine.'
 
 The pressure of the priest's hand on his arm tightened;
 and the priest said, with an earnestness he had hardly yet shown:
-`It wasn't your curse; pray be comforted.'
+‘It wasn't your curse; pray be comforted.'
 
 The police of the district had considerable difficulty in dealing
 with the four witnesses who were involved in the case.  All of them
@@ -12395,11 +12395,11 @@ Silas Vandam of the Oil Trust.  The first police--officer who tried
 to express scepticism about his story struck sparks from the steel
 of that magnate's mind very rapidly indeed.
 
-`Don't you talk to me about sticking to the facts,' said the
-millionaire with asperity.  `I've stuck to a good many facts
+‘Don't you talk to me about sticking to the facts,' said the
+millionaire with asperity.  ‘I've stuck to a good many facts
 before you were born and a few of the facts have stuck to me.
 I'll give you the facts all right if you've got the sense
-to take `em down correctly.'
+to take ‘em down correctly.'
 
 The policeman in question was youthful and subordinate,
 and had a hazy idea that the millionaire was too political
@@ -12408,8 +12408,8 @@ companions on to a more stolid superior, one Inspector Collins,
 a grizzled man with a grimly comfortable way of talking;
 as one who was genial but would stand no nonsense.
 
-`[[Well]], [[Well|well]],' he said, looking at the three figures before him
-with twinkling eyes, `this seems to be a funny sort of a tale.'
+‘[[Well]], [[Well|well]],' he said, looking at the three figures before him
+with twinkling eyes, ‘this seems to be a funny sort of a tale.'
 
 Father Brown had already gone about his daily business;
 but Silas Vandam had suspended even the gigantic business of the
@@ -12422,8 +12422,8 @@ to draw him away at the moment from the immediate affair.
 So they stood in a row in the inspector's office, prepared to
 corroborate each other.
 
-`Now I'd better tell you to start with,' said the inspector cheerfully,
-`that it's no good for anybody to come to me with any miraculous stuff.
+‘Now I'd better tell you to start with,' said the inspector cheerfully,
+‘that it's no good for anybody to come to me with any miraculous stuff.
 I'm a practical man and a policeman, and that sort of thing is all very
 well for priests and parsons.  This priest of yours seems to have got
 you all worked up about some story of a dreadful death and judgement;
@@ -12482,14 +12482,14 @@ Padre Brown era già andato ad occuparsi delle sue faccende quotidiane; ma Silas
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_06" data-title="Incredulity — The Miracle of Moon Crescent (part 6)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_06" data-title="Incredulity — The Miracle of Moon Crescent (part 6)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
-`Quite so,' said Fenner; `but as out evidence is that nobody let him out,
+‘Quite so,' said Fenner; ‘but as out evidence is that nobody let him out,
 the question is how could anybody have hung him there?'
 
-`How could anybody have a nose on his face?' asked the inspector.
-`He had a nose on his face, and he had a noose round his neck.
+‘How could anybody have a nose on his face?' asked the inspector.
+‘He had a nose on his face, and he had a noose round his neck.
 Those are facts; and, as I say, I'm a practical man and go by the facts.
 It can't have been done by a miracle, so it must have been done
 by a man.'
@@ -12508,8 +12508,8 @@ was in him a certain depth of lungs and life, like a west
 wind stored up in its strength, which might some day puff
 lighter things away.
 
-`So you're a practical man, [[Mr Collins]],' he said, in a voice
-at once soft and heavy.  `It must be the second or third
+‘So you're a practical man, [[Mr Collins]],' he said, in a voice
+at once soft and heavy.  ‘It must be the second or third
 time you've mentioned in this little conversation that you
 are a practical man; so I can't be mistaken about that.
 And a very interesting little fact it is for anybody engaged
@@ -12529,8 +12529,8 @@ With a characteristic sense of drama he went sailing towards
 the door before the astonished inspector could reply; and no after--
 recriminations could rob him of a certain appearance of triumph.
 
-`I think you were perfectly right,' said Fenner.
-`If those are practical men, give me priests.'
+‘I think you were perfectly right,' said Fenner.
+‘If those are practical men, give me priests.'
 
 Another attempt was made to reach an official version
 of the event when the authorities fully realized who were
@@ -12556,17 +12556,17 @@ pointed beard; he looked more like a landscape painter
 to anyone not acquainted with a certain special type of don.
 He had an air not only of courtesy, but of frankness.
 
-`Yes, yes, I know,' he said smiling; `I can guess what you
+‘Yes, yes, I know,' he said smiling; ‘I can guess what you
 must have gone through.  The police do not shine in inquiries
 of a psychic sort, do they?  Of course, dear old Collins
 said he only wanted the facts.  What an absurd blunder!
 In a case of this kind we emphatically do not only want the facts.
 It is even more essential to have the fancies.'
 
-`Do you mean,' asked Vandam gravely, `that all that we thought
+‘Do you mean,' asked Vandam gravely, ‘that all that we thought
 facts were merely fancies?'
 
-`Not at all,' said [[The Professor|the professor]]; `I only mean that
+‘Not at all,' said [[The Professor|the professor]]; ‘I only mean that
 the police are stupid in thinking they can leave out
 the psychological element in these things.  Well, of course,
 the psychological element is everything in everything,
@@ -12584,18 +12584,18 @@ dress on a platform in a public hall.  Father Brown's religion
 has always understood the psychology of atmospheres, and knows
 bow to appeal to everything simultaneously; even, for instance,
 to the sense of smell.  It understands those curious effects
-produced by music on animals and human beings; it can--`
+produced by music on animals and human beings; it can--‘
 
-`Hang it,' protested Fenner, `you don't think he walked down the corridor
+‘Hang it,' protested Fenner, ‘you don't think he walked down the corridor
 carrying a church organ?'
 
-`He knows better than to do that,' said Professor Vair laughing.
-`He knows how to concentrate the essence of all these spiritual
+‘He knows better than to do that,' said Professor Vair laughing.
+‘He knows how to concentrate the essence of all these spiritual
 sounds and sights, and even smells, in a few restrained gestures;
 in an art or school of manners.  He could contrive so to concentrate
 your minds on the [[Supernatural|supernatural]] by his mere presence, that natural things
 slipped off your minds to left and right unnoticed.  Now you know,'
-he proceeded with a return to cheerful good sense, `that the more we
+he proceeded with a return to cheerful good sense, ‘that the more we
 study it the more queer the whole question of human evidence becomes.
 There is not one man in twenty who really observes things at all.
 There is not one man in a hundred who observes them with real precision;
@@ -12642,13 +12642,13 @@ Il professor Vair era un gentiluomo cortese, vestito con sobrietà di grigio pal
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_07" data-title="Incredulity — The Miracle of Moon Crescent (part 7)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_07" data-title="Incredulity — The Miracle of Moon Crescent (part 7)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
-`Professor,' cried Fenner, `I'd swear on my deathbed that
+‘Professor,' cried Fenner, ‘I'd swear on my deathbed that
 door never opened.'
 
-`Recent experiments,' went on [[The Professor|the professor]], quietly, `have suggested
+‘Recent experiments,' went on [[The Professor|the professor]], quietly, ‘have suggested
 that our consciousness is not continuous, but is a succession of
 very rapid impressions like a cinema; it is possible that somebody
 or something may, so to speak, slip in or out between the scenes.
@@ -12663,10 +12663,10 @@ pointing your eyes and minds in the direction of the unknown
 destroyer below.  Or perhaps something else happened, or somebody
 else passed by.'
 
-`Wilson, the servant,' grunted Alboin, `went down the hallway to wait
+‘Wilson, the servant,' grunted Alboin, ‘went down the hallway to wait
 on the bench, but I guess he didn't distract us much.'
 
-`You never know how much,' replied Vair; `it might have been
+‘You never know how much,' replied Vair; ‘it might have been
 that or more likely your eyes following some gesture of the priest
 as he told his tale of magic.  It was in one of those black flashes
 that Mr Warren Wynd slipped out of his door and went to his death.
@@ -12674,14 +12674,14 @@ That is the most probable explanation.  It is an illustration
 of the new discovery.  The mind is not a continuous line,
 but rather a dotted line.'
 
-`Very dotted,' said Fenner feebly.  `Not to say dotty.'
+‘Very dotted,' said Fenner feebly.  ‘Not to say dotty.'
 
-`You don't really believe,' asked Vair, 'that your employer was shut
+‘You don't really believe,' asked Vair, 'that your employer was shut
 up in a room like a box?'
 
-`It's better than believing that I ought to be shut
+‘It's better than believing that I ought to be shut
 up in a room like a padded cell,' answered Fenner.
-`That's what I complain of in your suggestions, professor.
+‘That's what I complain of in your suggestions, professor.
 I'd as soon believe in a priest who believes in a miracle,
 as disbelieve in any man having any right to believe in a fact.
 The priest tells me that a man can appeal to a God I know
@@ -12698,18 +12698,18 @@ on the blind spots in our minds.  Miracles of the monkish sort,
 like materializing a crocodile or hanging a cloak on a sunbeam,
 seem quite sane compared to you.'
 
-`Oh, well,' said Professor Vair, rather curtly, `if you are resolved
+‘Oh, well,' said Professor Vair, rather curtly, ‘if you are resolved
 to believe in your priest and his miraculous Irishman I can say no more.
 I'm afraid you have not had an opportunity of studying psychology.'
 
-`No,' said Fenner dryly; `but I've had an opportunity
+‘No,' said Fenner dryly; ‘but I've had an opportunity
 of studying psychologists.'
 
 And, bowing politely, he led his deputation out of the room
 and did not speak till he got into the street; then he addressed
 them rather explosively.
 
-`Raving lunatics!' cried Fenner in a fume.  `What the devil do
+‘Raving lunatics!' cried Fenner in a fume.  ‘What the devil do
 they think is to happen to the world if nobody knows whether he's
 seen anything or not?  I wish I'd blown his silly head off with a
 blank charge, and then explained that I did it in a blind flash.
@@ -12721,7 +12721,7 @@ We're all sane, solid men who never believed in anything.
 We weren't drunk.  We weren't devout.  It simply happened just
 as he said it would.'
 
-`I quite agree,' said the millionaire.  `It may be the beginning
+‘I quite agree,' said the millionaire.  ‘It may be the beginning
 of mighty big things in the spiritual line; but anyhow,
 the man who's in the spiritual line himself, [[Father Brown]],
 has certainly scored over this business.'
@@ -12732,8 +12732,8 @@ at the apartment which was the scene of the disappearance, in order
 to take steps for the establishment of that marvellous occurrence.
 The occurrence itself had already begun to break out in the newspapers,
 and was being taken up everywhere by the enthusiasts of occultism.
-[[Father Brown]] saw the flaring posters inscribed `Suicide of Vanishing Man',
-and `Man's Curse Hangs Philanthropist', as he passed towards
+[[Father Brown]] saw the flaring posters inscribed ‘Suicide of Vanishing Man',
+and ‘Man's Curse Hangs Philanthropist', as he passed towards
 [[Moon]] Crescent and mounted the steps on the way to the elevator.
 He found the little group much as he left it, Vandam, Alboin,
 and the secretary; but there was an entirely new respectfulness
@@ -12741,8 +12741,8 @@ and even reverence in their tone towards himself.  They were standing
 by Wynd's desk, on which lay a large paper and writing materials;
 they turned to greet him.
 
-`Father Brown,' said the spokesman, who was the white--haired Westerner,
-somewhat sobered with his responsibility, `we asked you here in the first
+‘Father Brown,' said the spokesman, who was the white--haired Westerner,
+somewhat sobered with his responsibility, ‘we asked you here in the first
 place to offer our apologies and our thanks.  We recognize that it
 was you that spotted the spiritual manifestation from the first.
 We were hard--shell sceptics, all of us; but we realize now that a man
@@ -12793,21 +12793,21 @@ Pochi giorni dopo [[Father Brown]] ricevette un biglietto assai cortese firmato 
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_08" data-title="Incredulity — The Miracle of Moon Crescent (part 8)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_08" data-title="Incredulity — The Miracle of Moon Crescent (part 8)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
-`No, really,' said Father Brown, in embarrassment.
-`I don't think I should like to do that.'
+‘No, really,' said Father Brown, in embarrassment.
+‘I don't think I should like to do that.'
 
-`You mean you'd rather not sign first?'
+‘You mean you'd rather not sign first?'
 
-`I mean I'd rather not sign at all,' said [[Father Brown]], modestly.
-`You see, it doesn't quite do for a man in my position to
+‘I mean I'd rather not sign at all,' said [[Father Brown]], modestly.
+‘You see, it doesn't quite do for a man in my position to
 joke about miracles.'
 
-`But it was you who said it was a miracle,' said Alboin, staring.
+‘But it was you who said it was a miracle,' said Alboin, staring.
 
-`I'm so sorry,' said Father Brown; `I'm afraid there's
+‘I'm so sorry,' said Father Brown; ‘I'm afraid there's
 some mistake.  I don't think I ever said it was a miracle.
 All I said was that it might happen.  What you said was that it
 couldn't happen, because it would be a miracle if it did.
@@ -12815,14 +12815,14 @@ And then it did.  And so you said it was a miracle.
 But I never said a word about miracles or [[Magic|magic]], or anything
 of the sort from beginning to end.'
 
-`But I thought you believed in miracles,' broke out the secretary.
+‘But I thought you believed in miracles,' broke out the secretary.
 
-`Yes,' answered [[Father Brown]], `I believe in miracles.  I believe in man--
+‘Yes,' answered [[Father Brown]], ‘I believe in miracles.  I believe in man--
 eating tigers, but I don't see them running about everywhere.
 If I want any miracles, I know where to get them.'
 
-`I can't understand your taking this line, [[Father Brown]],'
-said Vandam, earnestly.  `It seems so narrow; and you don't
+‘I can't understand your taking this line, [[Father Brown]],'
+said Vandam, earnestly.  ‘It seems so narrow; and you don't
 look narrow to me, though you are a parson.  Don't you see,
 a miracle like this will knock all materialism endways?
 It will just tell the whole world in big print that spiritual
@@ -12831,17 +12831,17 @@ as no parson ever served it yet.'
 
 The priest had stiffened a little and seemed in some strange way
 clothed with unconscious and impersonal dignity, for all his
-stumpy figure.  `[[Well]],' he said, `you wouldn't suggest I should serve
+stumpy figure.  ‘[[Well]],' he said, ‘you wouldn't suggest I should serve
 religion by what I know to be a lie?  I don't know precisely what you
 mean by the phrase; and, to be quite candid, I'm not sure you do.
 Lying may be serving religion; I'm sure it's not serving God.
 And since you are harping so insistently on what I believe,
 wouldn't it be as well if you had some sort of notion of what it is?'
 
-`I don't think I quite understand,' observed the millionaire, curiously.
+‘I don't think I quite understand,' observed the millionaire, curiously.
 
-`I don't think you do,' said Father Brown, with simplicity.
-`You say this thing was done by spiritual powers.
+‘I don't think you do,' said Father Brown, with simplicity.
+‘You say this thing was done by spiritual powers.
 What spiritual powers?  You don't think the holy angels
 took him and hung him on a [[Garden|garden]] tree, do you?  And as for
 the unholy angels--no, no, no.  The men who did this did a
@@ -12856,7 +12856,7 @@ and initiations and secret societies and all the rest of it.
 Its eyes are turned inwards, and however grand and [[Grave|grave]]
 it may look, it's always hiding a small, mad smile.'
 He shuddered suddenly, as if caught in an icy draught of air.
-`Never mind about them; they've got nothing to do with this,
+‘Never mind about them; they've got nothing to do with this,
 believe me.  Do you think that poor, wild Irishman of mine,
 who ran raving down the street, who blurted out half of it
 when he first saw my face, and ran away for fear he should blurt
@@ -12866,19 +12866,19 @@ other men worse than himself; but for all that, he was just
 in an everlasting rage when he rushed down the lane and let
 off his pistol and his curse.'
 
-`But what on earth does all this mean?' demanded Vandam.
-`Letting off a toy pistol and a twopenny curse wouldn't do what was done,
+‘But what on earth does all this mean?' demanded Vandam.
+‘Letting off a toy pistol and a twopenny curse wouldn't do what was done,
 except by a miracle.  It wouldn't make Wynd disappear like a fairy.
 It wouldn't make him reappear a quarter of a mile away with a rope
 round his neck.'
 
-`No,' said [[Father Brown]] sharply; `but what would it do?'
+‘No,' said [[Father Brown]] sharply; ‘but what would it do?'
 
-`And still I don't follow you,' said the millionaire gravely.
+‘And still I don't follow you,' said the millionaire gravely.
 
-`I say, what would it do?' repeated the priest; showing, for the
+‘I say, what would it do?' repeated the priest; showing, for the
 first time, a sort of animation verging on annoyance.
-`You keep on repeating that a blank [[Pistol|pistol]]--shot wouldn't
+‘You keep on repeating that a blank [[Pistol|pistol]]--shot wouldn't
 do this and wouldn't do that; that if that was all,
 the murder wouldn't happen or the miracle wouldn't happen.
 It doesn't seem to occur to you to ask what would happen.
@@ -12886,20 +12886,20 @@ What would happen to you if a lunatic let off a firearm
 without rhyme or reason right under your [[Window|window]]?
 What's the very first thing that would happen?'
 
-Vandam looked thoughtful.  `I guess I should look out of
+Vandam looked thoughtful.  ‘I guess I should look out of
 the window,' he said.
 
-`Yes,' said [[Father Brown]], `you'd look out of the window.
+‘Yes,' said [[Father Brown]], ‘you'd look out of the window.
 That's the whole story.  It's a sad story, but it's finished now;
 and there were extenuating circumstances.'
 
-`Why should looking out of the [[Window|window]] hurt him?' asked Alboin.
-`He didn't fall out, or he'd have been found in the lane.'
+‘Why should looking out of the [[Window|window]] hurt him?' asked Alboin.
+‘He didn't fall out, or he'd have been found in the lane.'
 
-`No,' said [[Father Brown]], in a low voice.  `He didn't fall.  He rose.'
+‘No,' said [[Father Brown]], in a low voice.  ‘He didn't fall.  He rose.'
 
 There was something in his voice like the groan of a gong,
-a note of doom, but otherwise he went on steadily:  `He [[Rose|rose]],
+a note of doom, but otherwise he went on steadily:  ‘He [[Rose|rose]],
 but not on wings; not on the wings of any holy or unholy angels.
 He [[Rose|rose]] at the end of a rope, exactly as you saw him in the [[Garden|garden]];
 a noose dropped over his head the moment it was poked out of the [[Window|window]].
@@ -12909,10 +12909,10 @@ Didn't Wilson go to the floor above to get a pamphlet,
 to a room full of luggage corded in coils and coils of rope?
 Has Wilson been seen since that day?  I fancy not.'
 
-`Do you mean,' asked the secretary, `that Wilson whisked him
+‘Do you mean,' asked the secretary, ‘that Wilson whisked him
 clean out of his own [[Window|window]] like a trout on a line?'
 
-`Yes,' said the other, `and let him down again out of the other [[Window|window]]
+‘Yes,' said the other, ‘and let him down again out of the other [[Window|window]]
 into the park, where the third accomplice hooked him on to a tree.
 Remember the lane was always empty; remember the wall
 opposite was quite blank; remember it was all over in five
@@ -13049,13 +13049,13 @@ riuscite tutti a indovinare chi fossero.»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_09" data-title="Incredulity — The Miracle of Moon Crescent (part 9)" data-chapter="Story 04 The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_09" data-title="Incredulity — The Miracle of Moon Crescent (part 9)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
 
 
 They were all three staring at the plain, square [[Window|window]] and the blank,
 white wall beyond; and nobody answered.
 
-`By the way,' went on Father Brown, `don't think I blame you for jumping
+‘By the way,' went on Father Brown, ‘don't think I blame you for jumping
 to preternatural conclusions.  The reason's very simple, really.
 You all swore you were hard--shelled materialists; and as a matter
 of fact you were all balanced on the very edge of belief--
@@ -13072,8 +13072,8 @@ about these things, these things really were only natural things.
 They were not only natural, they were almost unnaturally simple.
 I suppose there never was quite so simple a story as this.'
 
-Fenner laughed and then looked puzzled.  `I don't understand
-one thing,' he said.  `If it was Wilson, how did Wynd come
+Fenner laughed and then looked puzzled.  ‘I don't understand
+one thing,' he said.  ‘If it was Wilson, how did Wynd come
 to have a man like that on such intimate terms?  How did
 he come to be killed by a man he'd seen every day for years?
 He was famous as being a judge of men.'
@@ -13081,34 +13081,34 @@ He was famous as being a judge of men.'
 [[Father Brown]] thumped his umbrella on the ground with an emphasis
 he rarely showed.
 
-`Yes,' he said, almost fiercely; `that was how he came to be killed.
+‘Yes,' he said, almost fiercely; ‘that was how he came to be killed.
 He was killed for just that.  He was killed for being a judge of men.'
 
 They all stared at him, but he went on, almost as if they
 were not there.
 
-`What is any man that he should be a judge of men?' he demanded.
-`These three were the tramps that once stood before him and
+‘What is any man that he should be a judge of men?' he demanded.
+‘These three were the tramps that once stood before him and
 were dismissed rapidly right and left to one place or another;
 as if for them there were no cloak of courtesy, no stages of intimacy,
 no free--will in [[Friendship|friendship]].  And twenty years has not exhausted
 the indignation born of that unfathomable insult in that moment
 when he dared to know them at a glance.'
 
-`Yes,' said the secretary; `I understand ... and I understand
+‘Yes,' said the secretary; ‘I understand ... and I understand
 how it is that you understand--all sorts of things.'
 
-`Well, I'm blamed if I understand,' cried the breezy Western
-gentleman boisterously.  `Your Wilson and your Irishman seem to be
+‘Well, I'm blamed if I understand,' cried the breezy Western
+gentleman boisterously.  ‘Your Wilson and your Irishman seem to be
 just a couple of cut--throat murderers who killed their benefactor.
 I've no use for a black and bloody assassin of that sort,
 in my [[morality]], whether it's religion or not.'
 
-`He was a black and bloody assassin, no doubt,' said Fenner quietly.
-`I'm not defending him; but I suppose it's [[Father Brown]]'s business
-to pray for all men, even for a man like--`
+‘He was a black and bloody assassin, no doubt,' said Fenner quietly.
+‘I'm not defending him; but I suppose it's [[Father Brown]]'s business
+to pray for all men, even for a man like--‘
 
-`Yes,' assented [[Father Brown]], `it's my business to pray for all men,
+‘Yes,' assented [[Father Brown]], ‘it's my business to pray for all men,
 even for a man like Warren Wynd.'
 
 
@@ -13138,7 +13138,7 @@ Lo fissarono tutti, ma egli proseguì, quasi come se non fossero presenti.
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_01" data-title="Incredulity — The Curse of the Golden Cross (part 1)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_01" data-title="Incredulity — The Curse of the Golden Cross (part 1)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
 FIVE:  The Curse of the Golden Cross
@@ -13219,39 +13219,39 @@ He listened to the conversation with respectful attention, and he was
 at that moment forming the impression that there was one rather curious
 thing about it.
 
-`I suppose those Byzantine studies of yours, Professor,' Leonard Smyth
-was saying, `would throw some light on this story of a tomb
+‘I suppose those Byzantine studies of yours, Professor,' Leonard Smyth
+was saying, ‘would throw some light on this story of a tomb
 found somewhere on the south coast; near Brighton, isn't it?
 Brighton's a long way from Byzantium, of course.
 But I read something about the style of burying or embalming
 or something being supposed to be Byzantine.'
 
-`Byzantine studies certainly have to reach a long way,'
-replied [[The Professor|the Professor]] dryly.  `They talk about specialists;
+‘Byzantine studies certainly have to reach a long way,'
+replied [[The Professor|the Professor]] dryly.  ‘They talk about specialists;
 but I think the hardest thing on earth is to specialize.
 In this case, for instance:  how can a man know anything about
 Byzantium till he knows everything about Rome before it and
 about Islam after it?  Most Arab arts were old Byzantine arts.
-Why, take algebra--`
+Why, take algebra--‘
 
-`But I won't take algebra,' cried the lady decisively.
-`I never did, and I never do.  But I'm awfully interested in embalming.
+‘But I won't take algebra,' cried the lady decisively.
+‘I never did, and I never do.  But I'm awfully interested in embalming.
 I was with Gatton, you know, when he opened the Babylonian tombs.
 Ever since then I found mummies and preserved bodies and all
 that perfectly thrilling.  Do tell us about this one.'
 
-`Gatton was an interesting man,' said the Professor.
-`They were an interesting family.  That brother of his who went
+‘Gatton was an interesting man,' said the Professor.
+‘They were an interesting family.  That brother of his who went
 into Parliament was much more than an ordinary politician.
 I never understood the Fascisti till he made that speech about [[Italy]].'
 
-`Well, we're not going to Italy on this trip,'
-said Lady Diana persistently, `and I believe you're going
+‘Well, we're not going to Italy on this trip,'
+said Lady Diana persistently, ‘and I believe you're going
 to that little place where they've found the tomb.
 In Sussex, isn't it?'
 
-`Sussex is pretty large, as these little English sections go,'
-replied the Professor.  `One might wander about in it
+‘Sussex is pretty large, as these little English sections go,'
+replied the Professor.  ‘One might wander about in it
 for a goodish [[Time|time]]; and it's a good place to wander in.
 It's wonderful how large those low hills seem when you're on them.'
 
@@ -13284,19 +13284,19 @@ I due viaggiatori seguenti venivano naturalmente accomunati; e ciò per il solo 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_02" data-title="Incredulity — The Curse of the Golden Cross (part 2)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_02" data-title="Incredulity — The Curse of the Golden Cross (part 2)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
 There was an abrupt accidental [[Silence|silence]]; and then the lady said,
-`Oh, I'm going on deck,' and rose, the men rising with her.
+‘Oh, I'm going on deck,' and rose, the men rising with her.
 But the Professor lingered and the little priest was the last
 to leave the table, carefully folding up his napkin.
 And as they were thus left alone together the Professor said
 suddenly to his companion:
 
-`What would you say was the point of that little talk?'
+‘What would you say was the point of that little talk?'
 
-`Well,' said Father Brown, smiling, `since you ask me,
+‘Well,' said Father Brown, smiling, ‘since you ask me,
 there was something that amused me a little.  I may be wrong;
 but it seemed to me that the company made three attempts to get
 you to talk about an embalmed [[Body|body]] said to be found in Sussex.
@@ -13304,14 +13304,14 @@ And you, on your side, very courteously offered to talk--
 first about algebra, and then about the Fascisti, and then
 about the landscape of the Downs.'
 
-`In short,' replied the Professor, `you thought I was ready to talk
+‘In short,' replied the Professor, ‘you thought I was ready to talk
 about any subject but that one.  You were quite right.'
 
 [[The Professor]] was silent for a little [[Time|time]], looking down at
 the tablecloth; then he looked up and spoke with that swift
 impulsiveness that suggested the [[Lion|lion]]'s leap.
 
-`See here.  Father Brown,' he said, `I consider you about wisest
+‘See here.  Father Brown,' he said, ‘I consider you about wisest
 and whitest man I ever met.'
 
 [[Father Brown]] was very English.  He had all the normal nation
@@ -13319,7 +13319,7 @@ helplessness about what to do with a serious and sincere compliment
 suddenly handed to him to his face in the American manner.
 His reply was a meaningless murmur; and it was [[The Professor|the Professor]]
 who proceeded, with the same staccato earnestness:
-`You see, up to a point it's all simple enough.  A Christian
+‘You see, up to a point it's all simple enough.  A Christian
 tomb of the Dark Ages, apparently that of a bishop, has been
 found under a little church at Dulham on the Sussex coast.
 The Vicar happens to be a good bit of an archaeologist himself
@@ -13334,7 +13334,7 @@ His long grave face seemed to grow even longer and graver as he frowned
 down at the tablecloth.  His long finger seemed to be tracing patterns
 on it like the plans of dead cities and their temples and tombs.
 
-`So I'm going to tell you, and nobody else, why it is I have to be
+‘So I'm going to tell you, and nobody else, why it is I have to be
 careful about mentioning that matter in mixed company; and why,
 the more eager they are to talk about it, the more cautious I have to be.
 It is also stated that in the coffin is a chain with a [[Cross|cross]],
@@ -13347,13 +13347,13 @@ is some story about a curse on it; but I take no notice of that.
 But whether or no there is a curse, there really is, in one sense,
 a conspiracy; though the conspiracy should only consist of one man.'
 
-`Of one man?' repeated Father Brown almost mechanically.
+‘Of one man?' repeated Father Brown almost mechanically.
 
-`Of one madman, for all I know,' said Professor Smaill.
-`It's a long story and in some ways a silly one.'
+‘Of one madman, for all I know,' said Professor Smaill.
+‘It's a long story and in some ways a silly one.'
 
 He paused again, tracing plans like architectural drawings with his
-finger on the cloth, and then resumed:  `Perhaps I had better tell
+finger on the cloth, and then resumed:  ‘Perhaps I had better tell
 you about it from the beginning, in case you see some little point
 in the story that is meaningless to me.  It began years and years ago,
 when I was conducting some investigations on my own account in the
@@ -13373,7 +13373,7 @@ more like a real fish.  It seemed to me that there was a flattening
 towards one end of it that was not like mere mathematical decoration,
 but rather like a sort of rude or even savage zoology.
 
-`In order to explain very briefly why I thought this find important,
+‘In order to explain very briefly why I thought this find important,
 I must tell you the point of the excavation.  For one thing, it had
 something of the nature of an excavation of an excavation.  We were on
 the track not only of antiquities, but of the antiquarians of antiquity.
@@ -13435,10 +13435,10 @@ Tornò a fare una pausa, tracciando piante come disegni architettonici col dito 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_03" data-title="Incredulity — The Curse of the Golden Cross (part 3)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_03" data-title="Incredulity — The Curse of the Golden Cross (part 3)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
-`Something about it made it seem as if it might be a fossil fish
+‘Something about it made it seem as if it might be a fossil fish
 or some rudimentary organism fixed for ever in a frozen sea.
 I could not analyse this analogy, otherwise unconnected with a mere
 drawing scratched upon the stone, till I realized that I was saying
@@ -13447,7 +13447,7 @@ something like fish, dumb and dwelling in a fallen world of twilight
 and [[Silence|silence]], dropped far below the feet of men and moving in dark
 and twilight and a soundless world.
 
-`Everyone walking along stone passages knows what it is to be followed
+‘Everyone walking along stone passages knows what it is to be followed
 by phantom feet.  The echo follows flapping or clapping behind or
 in front, so that it is almost impossible for the man who is really
 lonely to believe in his loneliness.  I had got used to the effects
@@ -13456,13 +13456,13 @@ caught sight of the symbolical shape scrawled on the wall of rock.
 I stopped, and at the same instant it seemed as if my heart stopped, too;
 for my own feet had halted, but the echo went marching on.
 
-`I ran forward, and it seemed as if the ghostly footsteps ran also,
+‘I ran forward, and it seemed as if the ghostly footsteps ran also,
 but not with that exact [[Imitation|imitation]] which marks the material reverberation
 of a sound.  I stopped again, and the steps stopped also; but I could
 have sworn they stopped an instant too late; I called out a question;
 and my cry was answered; but the voice was not my own.
 
-`It came round the corner of a rock just in front of me;
+‘It came round the corner of a rock just in front of me;
 and throughout that uncanny chase I noticed that it was always
 at some such angle of the crooked path that it paused and spoke.
 The little space in front of me that could be illuminated by my
@@ -13481,7 +13481,7 @@ I looked out on a sea of stainless blue, and the sun shone steadily
 on utter loneliness and silence; and there was not a blade of grass
 stirred with a whisper of flight nor the shadow of a shadow of man.
 
-`It had been a terrible conversation; so intimate and so individual
+‘It had been a terrible conversation; so intimate and so individual
 and in a sense so casual.  This being, bodiless, faceless,
 nameless and yet calling me by my name, had talked to me in those
 crypts and cracks where we were buried alive with no more passion
@@ -13498,7 +13498,7 @@ an Indian embroiderer gives to the artistic work of a life--[[Time|time]].
 Yet he was no Oriental; I am certain be was a white man.
 I suspect that he was a countryman of my own.
 
-`Since then I have received from time to time signs and symbols
+‘Since then I have received from time to time signs and symbols
 and queer impersonal messages that have made me certain,
 at least, that if the man is a maniac he is a monomaniac.
 He is always telling me, in this airy and detached way, that the
@@ -13512,7 +13512,7 @@ collector of curiosities.  That is one of the things that makes
 me feel sure he is a man of the West and not of the East.
 But this particular curiosity seems to have driven him quite crazy.
 
-`And then came this report, as yet unsubstantiated, about the
+‘And then came this report, as yet unsubstantiated, about the
 duplicate relic found on an embalmed [[Body|body]] in a Sussex tomb.
 If he had been a maniac before, this news turned him into a demoniac
 possessed of seven devils.  That there should be one of them belonging
@@ -13523,26 +13523,26 @@ of poisoned arrows, and each cried out more confidently than
 the last that [[Death|death]] would strike me at the moment when I stretched
 out my unworthy hand towards the [[Cross|cross]] in the tomb.
 
-``You will never know me,' he wrote, `you will never say my name; you will
+‘‘You will never know me,' he wrote, ‘you will never say my name; you will
 never see my face; you will die, and never know who has killed you.
 I may be in any form among those about you; but I shall be in that alone
 at which you have forgotten to look.'
 
-`From those threats I deduce that he is quite likely to [[Shadow|shadow]]
+‘From those threats I deduce that he is quite likely to [[Shadow|shadow]]
 me on this expedition; and try to steal the relic or do me
 some mischief for possessing it.  But as I never saw the man
 in my life, he may be almost any man I meet.  Logically speaking,
 he may be any of the waiters who wait on me at table.
 He may be any of the passengers who sit with me at table.'
 
-`He may be me,' said Father Brown, with cheerful contempt for grammar.
+‘He may be me,' said Father Brown, with cheerful contempt for grammar.
 
-`He may be anybody else,' answered Smaill seriously.
-`That is what I meant by what I said just now.
+‘He may be anybody else,' answered Smaill seriously.
+‘That is what I meant by what I said just now.
 You are the only man I feel sure is not the enemy.'
 
 Father Brown again looked embarrassed; then he smiled and said:
-`[[Well]], oddly enough, I'm not.  What we have to consider
+‘[[Well]], oddly enough, I'm not.  What we have to consider
 is any chance of finding out if he really is here before he--
 before he makes himself unpleasant.'
 
@@ -13575,11 +13575,11 @@ Padre Brown parve di nuovo imbarazzato; poi sorrise e disse: «[[Well|Ebbene]], 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_04" data-title="Incredulity — The Curse of the Golden Cross (part 4)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_04" data-title="Incredulity — The Curse of the Golden Cross (part 4)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
-`There is one chance of finding out, I think,' remarked the Professor
-rather grimly.  `When we get to Southampton I shall take a car at
+‘There is one chance of finding out, I think,' remarked the Professor
+rather grimly.  ‘When we get to Southampton I shall take a car at
 once along the coast; I should be glad if you would come with me,
 but in the ordinary sense, of course, our little party will break up.
 If any one of them turns up again in that little churchyard on
@@ -13602,21 +13602,21 @@ He seemed anything but enlivened by his late experiment as a sightseer;
 indeed, he seemed to be striding as fast as possible from the sight,
 when they stopped him with a question.
 
-`It's all about a curse,' he said; `a curse on the place,
+‘It's all about a curse,' he said; ‘a curse on the place,
 according to the guide--book or the parson, or the oldest inhabitant
 or whoever is the authority; and really, it feels jolly like it.
 Curse or curse, I'm glad to have got out of it.'
 
-`Do you believe in curses?' asked Smaill curiously.
+‘Do you believe in curses?' asked Smaill curiously.
 
-`I don't believe in anything; I'm a journalist,'
-answered the [[Melancholy|melancholy]] being--`Boon, of the Daily Wire.
+‘I don't believe in anything; I'm a journalist,'
+answered the [[Melancholy|melancholy]] being--‘Boon, of the Daily Wire.
 But there's a some--thing creepy about that crypt; and I'll
 never deny I felt a chill.'  And he strode on towards the railway
 station with a further accelerated pace.
 
-`Looks like a raven or a crow, that fellow,' observed Smaill
-as they turned towards the churchyard.  `What is it they say
+‘Looks like a raven or a crow, that fellow,' observed Smaill
+as they turned towards the churchyard.  ‘What is it they say
 about a bird of ill omen?'
 
 They entered the churchyard slowly, the eyes of the American
@@ -13636,23 +13636,23 @@ But Father Brown instantly recognized something in the elegant
 stoop of the shoulders and the rather sullen outward thrust
 of the short beard.
 
-`Gee!' exclaimed [[The Professor|the professor]] of archaeology; `it's that man Tarrant,
+‘Gee!' exclaimed [[The Professor|the professor]] of archaeology; ‘it's that man Tarrant,
 if you call him a man.  Did you think, when I spoke on the boat,
 that I should ever get so quick an answer to my question?'
 
-`I thought you might get too many answers to it,' answered [[Father Brown]].
+‘I thought you might get too many answers to it,' answered [[Father Brown]].
 
-`Why, how do you mean?' inquired the Professor, darting a look
+‘Why, how do you mean?' inquired the Professor, darting a look
 at him over his shoulder.
 
-`I mean,' answered the other mildly, `that I thought I heard voices behind
+‘I mean,' answered the other mildly, ‘that I thought I heard voices behind
 the yew--tree.  I don't think Mr Tarrant is so solitary as he looks;
 I might even venture to say, so solitary as he likes to look.'
 
 Even as Tarrant turned slowly round in his moody manner,
 the confirmation came.  Another voice, high and rather hard,
 but none the less feminine, was saying with experienced raillery:
-`And how was I to know he would be here?'  It was borne in upon
+‘And how was I to know he would be here?'  It was borne in upon
 Professor Smaill that this gay observation was not addressed to him;
 so he was forced to conclude in some bewilderment, that yet
 a third person was present.  As Lady [[Diana]] Wales came out,
@@ -13662,7 +13662,7 @@ The lean dapper figure of Leonard Smyth, that insinuating man
 of letters, appeared immediately behind her own flamboyant form,
 smiling, his head a little on one side like a dog's.
 
-`Snakes!' muttered Smaill; `why, they're all here!
+‘Snakes!' muttered Smaill; ‘why, they're all here!
 Or all except that little showman with the walrus whiskers.'
 
 He heard [[Father Brown]] laughing softly beside him; and indeed
@@ -13680,15 +13680,15 @@ man had been the first to find the entrance and had already
 descended a rung or two of the ladder before he put his head
 out again to address his fellow--travellers.  He looked like some
 particularly preposterous [[Grave]]--digger in a burlesque of [[Hamlet]].
-He only said thickly behind his thick moustaches, `It is down here.'
+He only said thickly behind his thick moustaches, ‘It is down here.'
 But it came to the rest of the company with a start of
 realization that, though they had sat opposite him at meal--
 times for a week, they had hardly ever heard him speak before;
 and that though he was supposed to be an English lecturer,
 he spoke with a rather occult foreign accent.
 
-`You see, my dear Professor,' cried Lady [[Diana]] with
-trenchant cheerfulness, `your Byzantine mummy was simply
+‘You see, my dear Professor,' cried Lady [[Diana]] with
+trenchant cheerfulness, ‘your Byzantine mummy was simply
 too exciting to be missed.  I simply had to come along
 and see it; and I'm sure the gentlemen felt just the same.
 Now you must tell us all about it.'
@@ -13728,11 +13728,11 @@ Sentì [[Father Brown|Padre Brown]] ridere sommessamente al suo fianco; e in ver
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_05" data-title="Incredulity — The Curse of the Golden Cross (part 5)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_05" data-title="Incredulity — The Curse of the Golden Cross (part 5)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
-`I do not know all about it,' said [[The Professor|the Professor]] gravely, not to
-say grimly, `In some respects I don't even know what it's all about.
+‘I do not know all about it,' said [[The Professor|the Professor]] gravely, not to
+say grimly, ‘In some respects I don't even know what it's all about.
 It certainly seems odd that we should have all met again so soon,
 but I suppose there are no limits to the modern thirst for information.
 But if we are all to visit the place it must be done in a responsible
@@ -13753,8 +13753,8 @@ relations with the Professor as a fellow--antiquarian, he did
 not seem to regard his rather motley group of companions with
 anything more hostile than amusement.
 
-`I [[Hope|hope]] you are none of you superstitious,' he said pleasantly.
-`I ought to tell you, to start with, that there are supposed
+‘I [[Hope|hope]] you are none of you superstitious,' he said pleasantly.
+‘I ought to tell you, to start with, that there are supposed
 to be all sorts of bad omens and curses hanging over our devoted
 heads in this business.  I have just been deciphering a Latin
 inscription which was found over the entrance to the chapel;
@@ -13763,7 +13763,7 @@ curses involved; a curse for entering the sealed chamber,
 a double curse for opening the coffin, and a triple and most
 terrible curse for touching the gold relic found inside it.
 The two first maledictions I have already incurred myself,'
-he added with a smile; `but I [[Fear|fear]] that even you will have to incur
+he added with a smile; ‘but I [[Fear|fear]] that even you will have to incur
 the first and mildest of them if you are to see anything at all.
 According to the story, the curses descend in a rather
 lingering fashion, at long intervals and on later occasions.
@@ -13771,10 +13771,10 @@ I don't know whether that is any comfort to you.'
 And the Reverend Mr Walters smiled once more in his drooping
 and benevolent manner.
 
-`Story,' repeated Professor Smaill, `why, what story is that?'
+‘Story,' repeated Professor Smaill, ‘why, what story is that?'
 
-`It is rather a long story and varies, like other local legends,'
-answered the Vicar.  `But it is undoubtedly contemporary
+‘It is rather a long story and varies, like other local legends,'
+answered the Vicar.  ‘But it is undoubtedly contemporary
 with the [[Time|time]] of the tomb; and the substance of it is embodied
 in the [[Inscription|inscription]] and is roughly this:  Guy de Gisors,
 a lord of the manor here early in the thirteenth century,
@@ -13808,8 +13808,8 @@ and after these three judgements, it was returned to the bishop's tomb;
 since when no eye has seen and no hand has touched it.'
 
 Lady [[Diana]] Wales seemed to be more impressed than might
-have been expected.  `It really gives one rather a shiver,'
-she said, `to think that we are going to be the first,
+have been expected.  ‘It really gives one rather a shiver,'
+she said, ‘to think that we are going to be the first,
 except the vicar.'
 
 The pioneer with the big moustaches and the broken English did
@@ -13861,7 +13861,7 @@ Sbucarono in una camera circolare, simile a una basilica, entro un anello di arc
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_06" data-title="Incredulity — The Curse of the Golden Cross (part 6)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_06" data-title="Incredulity — The Curse of the Golden Cross (part 6)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
 Whether out of the sense of fitness or from the lack of more
@@ -13900,7 +13900,7 @@ had told the story of the curse.  But feminine intuition,
 not untouched by feminine hysteria, understood the meaning
 of his brooding immobility better than did the men around him.
 In the [[Silence|silence]] of that candle--lit cavern Lady [[Diana]] cried
-out suddenly:  `Don't touch it, I tell you!'
+out suddenly:  ‘Don't touch it, I tell you!'
 
 But the man had already made one of his swift leonine movements,
 leaning forward over the body.  The next instant they all darted,
@@ -13934,18 +13934,18 @@ beside the fallen figure, trying to test its condition.
 Rather to the general surprise, the Byronic lounger, Paul Tarrant,
 came forward to help him.
 
-`He'd better be carried up into the air,' he said.
-`I suppose there's just a chance for him.'
+‘He'd better be carried up into the air,' he said.
+‘I suppose there's just a chance for him.'
 
-`He isn't dead,' said [[Father Brown]] in a low voice, `but I think
+‘He isn't dead,' said [[Father Brown]] in a low voice, ‘but I think
 it's pretty bad; you aren't a doctor by any chance?'
 
-`No; but I've had to pick up a good many things in my [[Time|time]],'
-said the other.  `But never mind about me just now.
+‘No; but I've had to pick up a good many things in my [[Time|time]],'
+said the other.  ‘But never mind about me just now.
 My real profession would probably surprise you.'
 
-`I don't think so,' replied [[Father Brown]], with a slight smile.
-`I thought of it about halfway through the voyage.
+‘I don't think so,' replied [[Father Brown]], with a slight smile.
+‘I thought of it about halfway through the voyage.
 You are a detective shadowing somebody.  Well, the cross
 is safe from thieves now, anyhow.'
 
@@ -13954,9 +13954,9 @@ figure of the fallen man with easy strength and dexterity,
 and was carefully carrying him towards the exit.
 He answered over his shoulder:
 
-`Yes, the [[Cross|cross]] is safe enough.'
+‘Yes, the [[Cross|cross]] is safe enough.'
 
-`You mean that nobody else is,' replied Brown.  `Are you thinking
+‘You mean that nobody else is,' replied Brown.  ‘Are you thinking
 of the curse, too?'
 
 [[Father Brown]] went about for the next hour or two under a burden
@@ -14022,7 +14022,7 @@ Mentre parlavano, Tarrant aveva sollevato la fragile figura dell'uomo caduto con
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_07" data-title="Incredulity — The Curse of the Golden Cross (part 7)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_07" data-title="Incredulity — The Curse of the Golden Cross (part 7)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
 As he stood in unusual perplexity in the middle of the
@@ -14036,16 +14036,16 @@ either side of the long drooping nose) fixed on the priest.
 The latter looked twice before he realized that the heavy dark
 moustache hid something like a grin or at least a grim smile.
 
-`I thought you were going away,' said Father Brown a little sharply.
-`I thought you left by that train two hours ago.'
+‘I thought you were going away,' said Father Brown a little sharply.
+‘I thought you left by that train two hours ago.'
 
-`Well, you see I didn't,' said Boon.
+‘Well, you see I didn't,' said Boon.
 
-`Why have you come back?' asked the priest almost sternly.
+‘Why have you come back?' asked the priest almost sternly.
 
-`This is not the sort of little rural paradise for a
+‘This is not the sort of little rural paradise for a
 journalist to leave in a hurry,' replied the other.
-`Things happen too fast here to make it worth while to go
+‘Things happen too fast here to make it worth while to go
 back to a dull place like [[London]].  Besides, they can't
 keep me out of the affair--I mean this second affair.
 It was I that found the [[Body|body]], or at any rate the clothes.
@@ -14056,15 +14056,15 @@ Shouldn't I make a lovely parson?'
 And the lean and long--nosed mountebank suddenly made an extravagant
 gesture in the middle of the market--place, stretching out his arms
 and spreading out his dark--gloved hands in a sort of burlesque
-benediction and saying:  `Oh, my dear brethren and sisters,
+benediction and saying:  ‘Oh, my dear brethren and sisters,
 for I would embrace you all....'
 
-`What on earth are you talking about?' cried [[Father Brown]],
+‘What on earth are you talking about?' cried [[Father Brown]],
 and rapped the stones slightly with his stumpy umbrella,
 for he was a little less patient than usual.
 
-`Oh, you'll find out all about it if you ask that picnic party
-of yours at the inn,' replied Boon scornfully.  `That man
+‘Oh, you'll find out all about it if you ask that picnic party
+of yours at the inn,' replied Boon scornfully.  ‘That man
 Tarrant seems to suspect me merely because I found the clothes;
 though he only came up a minute too late to find them himself.
 But there are all sorts of mysteries in this business.
@@ -14074,19 +14074,19 @@ shouldn't have killed the poor fellow yourself.'
 
 [[Father Brown]] did not seem in the least annoyed at the suggestion,
 but he seemed exceedingly bothered and bewildered by the remark.
-`Do you mean,' he asked with simplicity, `that it was I who tried
+‘Do you mean,' he asked with simplicity, ‘that it was I who tried
 to kill Professor Smaill?'
 
-`Not at all,' said the other, waving his hand with the air of one making
-a handsome concession.  `Plenty of dead people for you to choose among.
+‘Not at all,' said the other, waving his hand with the air of one making
+a handsome concession.  ‘Plenty of dead people for you to choose among.
 Not limited to Professor Smaill.  Why, didn't you know somebody else
 had turned up, a good deal deader than Professor Smaill?  And I
 don't see why you shouldn't have done him in, in a quiet way.
 Religious differences, you know... lamentable disunion of Christendom.
 ... I suppose you've always wanted to get the English parishes back.'
 
-`I'm going back to the inn,' said the priest quietly;
-`you say the people there know what you mean, and perhaps they
+‘I'm going back to the inn,' said the priest quietly;
+‘you say the people there know what you mean, and perhaps they
 may be able to say it.'
 
 In [[Truth|truth]], just afterwards his private perplexities suffered
@@ -14097,56 +14097,56 @@ they were shaken by something yet more recent than the accident
 at the tomb.  Even as he entered, Leonard Smyth was saying:'
 Where is all this going to end?'
 
-`It will never end, I tell you,' repeated Lady Diana, gazing into
-vacancy with glassy eyes; `it will never end till we all end.
+‘It will never end, I tell you,' repeated Lady Diana, gazing into
+vacancy with glassy eyes; ‘it will never end till we all end.
 One after another the curse will take us; perhaps slowly, as the poor
 vicar said; but it will take us all as it has taken him.'
 
-`What in the world has happened now?' asked Father Brown.
+‘What in the world has happened now?' asked Father Brown.
 
 There was a silence, and then Tarrant said in a voice that sounded
-a little hollow:  `Mr Walters, the Vicar, has committed [[suicide]].
+a little hollow:  ‘Mr Walters, the Vicar, has committed [[suicide]].
 I suppose it was the shock unhinged him.  But I [[Fear|fear]] there can be no
 [[Doubt|doubt]] about it.  We've just found his black hat and clothes on a rock
 jutting out from the shore.  He seems to have jumped into the sea.
 I thought he looked as if it had knocked him half--witted, and perhaps
 we ought to have looked after him; but there was so much to look after.'
 
-`You could have done nothing,' said the lady.  `Don't you
+‘You could have done nothing,' said the lady.  ‘Don't you
 see the thing is dealing doom in a sort of dreadful order?
 [[The Professor]] touched the [[Cross|cross]], and he went first; the Vicar
 had opened the tomb, and he went second; we only entered
-the chapel, and we--`
+the chapel, and we--‘
 
-`Hold on,' said [[Father Brown]], in a sharp voice he very seldom used;
-`this has got to stop.'
+‘Hold on,' said [[Father Brown]], in a sharp voice he very seldom used;
+‘this has got to stop.'
 
 He still wore a heavy though unconscious frown, but in his eyes
 was no longer the cloud of mystification, but a light of almost
-terrible understanding.  `What a [[Fool|fool]] I am!' he muttered.
-`I ought to have seen it long ago.  The tale of the curse ought
+terrible understanding.  ‘What a [[Fool|fool]] I am!' he muttered.
+‘I ought to have seen it long ago.  The tale of the curse ought
 to have told me.'
 
-`Do you mean to say,' demanded Tarrant, `that we can really be killed
+‘Do you mean to say,' demanded Tarrant, ‘that we can really be killed
 now by something that happened in the thirteenth century?'
 
 Father Brown shook his head and answered with quiet emphasis:
-`I won't discuss whether we can be killed by something that happened
+‘I won't discuss whether we can be killed by something that happened
 in the thirteenth century; but I'm jolly certain that we can't be
 killed by something that never happened in the thirteenth century,
 something that never happened at all.'
 
-`Well,' said Tarrant, `it's refreshing to find a priest so sceptical
+‘Well,' said Tarrant, ‘it's refreshing to find a priest so sceptical
 of the [[Supernatural|supernatural]] as all that.'
 
-`Not at all,' replied the priest calmly; `it's not
+‘Not at all,' replied the priest calmly; ‘it's not
 the [[Supernatural|supernatural]] part I [[Doubt|doubt]].  It's the natural part.
-I'm exactly in the position of the man who said, `I can believe
-the impossible, but not the improbable.'`
+I'm exactly in the position of the man who said, ‘I can believe
+the impossible, but not the improbable.'‘
 
-`That's what you call a paradox, isn't it?' asked the other.
+‘That's what you call a paradox, isn't it?' asked the other.
 
-`It's what I call common sense, properly understood,'
+‘It's what I call common sense, properly understood,'
 replied [[Father Brown]].  'It really is more natural to believe
 a preternatural story, that deals with things we don't understand,
 than a natural story that contradicts things we do understand.
@@ -14214,28 +14214,28 @@ Padre Brown scosse il capo e rispose con tranquilla enfasi: «Non discuterò se 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_08" data-title="Incredulity — The Curse of the Golden Cross (part 8)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_08" data-title="Incredulity — The Curse of the Golden Cross (part 8)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
 Lady [[Diana]] had recovered a little from her trance of Cassandra,
 and her perennial curiosity about new things began to peer once
 more out of her bright and prominent eyes.
 
-`What a curious man you are!' she said.  `Why should you
+‘What a curious man you are!' she said.  ‘Why should you
 disbelieve the [[history]]?'
 
-`I disbelieve the history because it isn't history,'
-answered Father Brown.  `To anybody who happens to know
+‘I disbelieve the history because it isn't history,'
+answered Father Brown.  ‘To anybody who happens to know
 a little about the Middle Ages, the whole story was about
 as probable as Gladstone offering [[Queen]] Victoria a cigar.
 But does anybody know anything about the Middle Ages?  Do you know
 what a Guild was?  Have you ever heard of salvo managio suo?
 Do you know what sort of people were Servi Regis?
 
-`No, of course I don't,' said the lady, rather crossly.
-`What a lot of Latin words!'
+‘No, of course I don't,' said the lady, rather crossly.
+‘What a lot of Latin words!'
 
-`No, of course,' said Father Brown.  `If it had been Tutankhamen
+‘No, of course,' said Father Brown.  ‘If it had been Tutankhamen
 and a set of dried--up Africans preserved, Heaven knows why,
 at the other end of the world; if it had been Babylonia or China;
 if it had been some race as remote and mysterious as the Man
@@ -14259,13 +14259,13 @@ The Jews normally had a special position as servants of the [[King]].
 Above all, the Jew couldn't possibly have been burned
 for his religion.'
 
-`The paradoxes are multiplying,' observed Tarrant; 'but surely ,
+‘The paradoxes are multiplying,' observed Tarrant; 'but surely ,
 you won't deny that Jews were persecuted in the Middle Ages?'
 
-`It would be nearer the [[Truth|truth]],' said [[Father Brown]], 'to say they
+‘It would be nearer the [[Truth|truth]],' said [[Father Brown]], 'to say they
 were the only people who weren't persecuted in the Middle Ages.
 If you want to satirize medievalism, you could make a good case
-by saying that some poor Christian might be burned alive for `making
+by saying that some poor Christian might be burned alive for ‘making
 a mistake about the Homoousion, while a rich Jew might walk
 down the street openly sneering at Christ and the Mother of God.
 Well, that's what the story is like.  It was never a story of
@@ -14279,60 +14279,60 @@ it and made it so important a part of the puzzle.
 But Tarrant, whose trade it was to pick the practical detail
 out of many tangles of digression, had suddenly become alert.
 His bearded chin was thrust forward farther than ever,
-out his sullen eyes were wide awake.  `Ah,' he said;
-`made up on the spur of the moment!'
+out his sullen eyes were wide awake.  ‘Ah,' he said;
+‘made up on the spur of the moment!'
 
-`Perhaps that is an exaggeration,' admitted [[Father Brown]] calmly.
-`I should rather say made up more casually and carelessly than
+‘Perhaps that is an exaggeration,' admitted [[Father Brown]] calmly.
+‘I should rather say made up more casually and carelessly than
 the rest of an uncommonly careful plot.  But the plotter did not
 think the details of medieval history would matter much to anybody.
 And his calculation in a general way was pretty nearly right,
 like most of his other calculations.'
 
-`Whose calculations?  Who was right?' demanded the lady with a sudden
-passion of impatience.  `Who is this person you are talking about?
+‘Whose calculations?  Who was right?' demanded the lady with a sudden
+passion of impatience.  ‘Who is this person you are talking about?
 Haven't we gone through enough, without your making our flesh creep
 with your he's and him's?'
 
-`I am talking about the murderer,' said [[Father Brown]].
+‘I am talking about the murderer,' said [[Father Brown]].
 
-`What murderer?' she asked sharply.  `Do you mean that the poor
+‘What murderer?' she asked sharply.  ‘Do you mean that the poor
 Professor was murdered?'
 
-`Well,' said the staring Tarrant gruffly into his beard,
-`we can't say `murdered', for we don't know he's killed.'
+‘Well,' said the staring Tarrant gruffly into his beard,
+‘we can't say ‘murdered', for we don't know he's killed.'
 
-`The murderer killed somebody else, who was not Professor Smaill,'
+‘The murderer killed somebody else, who was not Professor Smaill,'
 said the priest gravely.
 
-`Why, whom else could he kill?' asked the other.
-`He killed the Reverend John Walters, the Vicar of Dulham,'
-replied [[Father Brown]] with precision.  `He only wanted to kill those two,
+‘Why, whom else could he kill?' asked the other.
+‘He killed the Reverend John Walters, the Vicar of Dulham,'
+replied [[Father Brown]] with precision.  ‘He only wanted to kill those two,
 because they both had got hold of relics of one rare pattern.
 The murderer was a sort of monomaniac on the point.'
 
-`It all sounds very strange,' muttered Tarrant.
-`Of course we can't swear that the Vicar's really dead either.
+‘It all sounds very strange,' muttered Tarrant.
+‘Of course we can't swear that the Vicar's really dead either.
 We haven't seen his body.'
 
-`Oh yes, you have,' said [[Father Brown]].
+‘Oh yes, you have,' said [[Father Brown]].
 
 There was a [[Silence|silence]] as sudden as the stroke of a gong;
 a [[Silence|silence]] in which that sub--conscious guesswork that was so
 active and accurate in the woman moved her almost to a shriek.
 
-`That is exactly what you have seen,' went on the priest.
-`You have seen his [[Body|body]].  You haven't seen him--
+‘That is exactly what you have seen,' went on the priest.
+‘You have seen his [[Body|body]].  You haven't seen him--
 the real living man; but you have seen his [[Body|body]] all right.
 You have stared at it hard by the light of four great candles;
 and it was not tossing suicidally in the sea but lying in state
 like a Prince of the Church in a shrine built before the Crusade.'
 
-`In plain words,' said Tarrant, `you actually ask us to believe
+‘In plain words,' said Tarrant, ‘you actually ask us to believe
 that the embalmed [[Body|body]] was really the corpse of a murdered man.'
 
 [[Father Brown]] was silent for a moment; then he said almost with an air
-of irrelevance:  `The first thing I noticed about it was the cross;
+of irrelevance:  ‘The first thing I noticed about it was the cross;
 or rather the string suspending the cross.  Naturally, for most of you,
 it was only a string of beads and nothing else in particular;
 but, naturally also, it was rather more in my line than yours.
@@ -14492,13 +14492,13 @@ mazza di pietra.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_09" data-title="Incredulity — The Curse of the Golden Cross (part 9)" data-chapter="Story 05 The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_09" data-title="Incredulity — The Curse of the Golden Cross (part 9)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
 
 
-`By George!' said Tarrant; `I'm beginning to think there's something
+‘By George!' said Tarrant; ‘I'm beginning to think there's something
 in what you say.  This is a queer story if it's true.'
 
-`When I realized that,' went on [[Father Brown]], `I could manage
+‘When I realized that,' went on [[Father Brown]], ‘I could manage
 more or less to guess the rest.  Remember, first of all,
 that there never was any responsible archaeological authority
 for anything more than investigation.  Poor old Walters was
@@ -14511,13 +14511,13 @@ Only while he was working there by the light of his lonely
 candle in that sunken chapel, the candlelight threw another
 shadow that was not his own.'
 
-`Ah!' cried Lady [[Diana]] with a catch in her breath; 'and I know
+‘Ah!' cried Lady [[Diana]] with a catch in her breath; 'and I know
 what you mean now.  You mean to tell us we have met the murderer,
 talked and joked with the murderer, let him tell us a romantic tale,
 and let him depart untouched.'
 
-`Leaving his clerical disguise on a rock,' assented Brown.
-`It is all dreadfully simple.  This man got ahead of [[The Professor|the Professor]]
+‘Leaving his clerical disguise on a rock,' assented Brown.
+‘It is all dreadfully simple.  This man got ahead of [[The Professor|the Professor]]
 in the race to the churchyard and chapel, possibly while
 [[The Professor|the Professor]] was talking to that lugubrious journalist.
 He came on the old clergyman beside the empty coffin and killed him.
@@ -14529,38 +14529,38 @@ Then, having thus set the trap for his second enemy, he went
 up into the daylight and greeted us all with the most amiable
 politeness of a country clergyman.'
 
-`He ran a considerable risk,' objected Tarrant, `of somebody
+‘He ran a considerable risk,' objected Tarrant, ‘of somebody
 knowing Walters by sight.'
 
-`I admit he was half--mad,' agreed Father Brown; `and I think
+‘I admit he was half--mad,' agreed Father Brown; ‘and I think
 you will admit that the risk was worth taking, for he has
 got off, after all.'
 
-`I'll admit he was very lucky,' growled Tarrant.
-`And who the devil was he?'
+‘I'll admit he was very lucky,' growled Tarrant.
+‘And who the devil was he?'
 
-`As you say, he was very lucky,' answered Father Brown, `and not least
+‘As you say, he was very lucky,' answered Father Brown, ‘and not least
 in that respect.  For that is the one thing we may never know.'
 He frowned at the table for a moment and then went on:
-`This fellow has been hovering round and threatening for years,
+‘This fellow has been hovering round and threatening for years,
 but the one thing he was careful of was to keep the secret of who
 he was; and he has kept it still.  But if poor Smaill recovers,
 as I think he will, it is pretty safe to say that you will hear
 more of it.'
 
-`Why, what will Professor Smaill do, do you think?' asked Lady [[Diana]].
+‘Why, what will Professor Smaill do, do you think?' asked Lady [[Diana]].
 
-`I should think the first thing he would do,' said Tarrant, `would be
+‘I should think the first thing he would do,' said Tarrant, ‘would be
 to put the detectives on like [[dogs]] after this murdering devil.
 I should like to have a go at him myself.'
 
-`Well,' said Father Brown, smiling suddenly after his long fit
-of frowning perplexity, `I think I know the very first thing
+‘Well,' said Father Brown, smiling suddenly after his long fit
+of frowning perplexity, ‘I think I know the very first thing
 he ought to do.'
 
-`And what is that?' asked Lady Diana with graceful eagerness.
+‘And what is that?' asked Lady Diana with graceful eagerness.
 
-`He ought to apologize to all of you,' said [[Father Brown]].
+‘He ought to apologize to all of you,' said [[Father Brown]].
 
 It was not upon this point, however, that [[Father Brown]] found
 himself talking to Professor Smaill as he sat by the bedside
@@ -14595,7 +14595,7 @@ For that was the sign which he once looked up and saw,
 in the moment when he first heard round the corner of the dark
 passage the voice of his enemy.
 
-`And at last,' he said, `I think I have seen a meaning in the
+‘And at last,' he said, ‘I think I have seen a meaning in the
 picture and the voice; and one that I never understood before.
 Why should I worry because one madman among a million
 of sane men, leagued in a great society against him,
@@ -14621,10 +14621,10 @@ What was it like to deal with murder on that scale?
 The world has forgotten these things, as until a little
 while ago it had forgotten war.'
 
-`Yes,' said Father Brown, `but the war came.  The fish may be driven
+‘Yes,' said Father Brown, ‘but the war came.  The fish may be driven
 underground again, but it will come up into the daylight once more.
-As St Antony of Padua humorously remarked, `It is only fishes
-who survive the Deluge.'`
+As St Antony of Padua humorously remarked, ‘It is only fishes
+who survive the Deluge.'‘
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -14663,7 +14663,7 @@ Non fu tuttavia su questo punto che [[Father Brown|padre Brown]] si trovò a con
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_01" data-title="Incredulity — The Dagger with Wings (part 1)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_01" data-title="Incredulity — The Dagger with Wings (part 1)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
 SIX:  The Dagger with Wings
@@ -14688,16 +14688,16 @@ with a mass of materialism in between.  Anyhow, when he thought that
 matters of that sort might be involved, he asked [[Father Brown]] to call,
 though he made no pretence of preference for that aspect of them.
 
-`I'm not sure I want you, you know,' was his greeting.
-`I'm not sure about anything yet.  I'm hanged if I can
+‘I'm not sure I want you, you know,' was his greeting.
+‘I'm not sure about anything yet.  I'm hanged if I can
 make out whether it's a case for a doctor, or a policeman,
 or a priest.'
 
-`Well,' said Father Brown with a smile, `as I suppose you're both
+‘Well,' said Father Brown with a smile, ‘as I suppose you're both
 a policeman and a doctor, I seem to be rather in a minority.'
 
-`I admit you're what politicians call an instructed minority,'
-replied the doctor.  `I mean, I know you've had to do a little
+‘I admit you're what politicians call an instructed minority,'
+replied the doctor.  ‘I mean, I know you've had to do a little
 in our line as [[Well|well]] as your own.  But it's precious hard to say
 whether this business is in your line or ours, or merely in
 the line of the Commissioners in Lunacy.  We've just had a message
@@ -14707,7 +14707,7 @@ We've gone into the facts as far as we could, and perhaps I'd
 better tell you the story as it is supposed to have happened,
 from the beginning.
 
-`It seems that a man named Aylmer, who was a wealthy
+‘It seems that a man named Aylmer, who was a wealthy
 landowner in the West Country, married rather late
 in life and had three sons, Philip, Stephen, and Arnold.
 But in his bachelor days, when he thought he would have
@@ -14741,10 +14741,10 @@ and that nothing could hide them from his vengeance.
 It is the third or last of the brothers, Arnold Aylmer,
 who is asking for police protection.'
 
-`Third and last,' said the priest, looking at him gravely.
+‘Third and last,' said the priest, looking at him gravely.
 
-`Yes,' said Boyne.  `The other two are dead.'  There was a [[Silence|silence]]
-before he continued.  `That is where the doubt comes in.
+‘Yes,' said Boyne.  ‘The other two are dead.'  There was a [[Silence|silence]]
+before he continued.  ‘That is where the doubt comes in.
 There is no proof they were murdered, but they might possibly
 have been.  The eldest, who took up his position as squire,
 was supposed to have committed suicide in his garden.
@@ -14761,14 +14761,14 @@ You know what a man with a delusion is like, and how a man looks
 when he is telling the truth.  I want you to be the advance guard,
 before we take the matter up.'
 
-`It seems rather odd,' said [[Father Brown]], `that you haven't had
+‘It seems rather odd,' said [[Father Brown]], ‘that you haven't had
 to take it up before.  If there is anything in this business,
 it seems to have been going on for a good time.  Is there
 any particular reason why he should send for you just now,
 any more than any other time?'
 
-`That had occurred to me, as you may imagine,' answered Dr Boyne.
-`He does give a reason, but I confess it is one of the things that make
+‘That had occurred to me, as you may imagine,' answered Dr Boyne.
+‘He does give a reason, but I confess it is one of the things that make
 me wonder whether the whole thing isn't only the whim of some half--
 witted crank.  He declared that all his servants have suddenly gone on
 strike and left him, so that he is obliged to call on the police to look
@@ -14908,18 +14908,18 @@ da guardia armata.»
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_02" data-title="Incredulity — The Dagger with Wings (part 2)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_02" data-title="Incredulity — The Dagger with Wings (part 2)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
-`And so,' said the priest with a smile, `he wants a policeman
+‘And so,' said the priest with a smile, ‘he wants a policeman
 to act as his parlour--maid because his parlour--maid won't
 act as a policeman.'
 
-`I thought that rather thick, too,' agreed the doctor; `but I can't take
+‘I thought that rather thick, too,' agreed the doctor; ‘but I can't take
 the responsibility of a flat refusal till I've tried a compromise.
 You are the compromise.'
 
-`Very [[Well|well]],' said [[Father Brown]] simply.  `I'll go and call on him
+‘Very [[Well|well]],' said [[Father Brown]] simply.  ‘I'll go and call on him
 now if you like.'
 
 The rolling country round the little town was sealed and bound with frost,
@@ -14934,7 +14934,7 @@ and colder, as if he were approaching an ice--house or the North Pole.
 But he was a highly practical person, never entertaining such fancies
 except as fancies.  And he merely cocked his eye at the great
 livid cloud crawling up over the house, and remarked cheerfully:
-`It's going to [[Snow|snow]].'
+‘It's going to [[Snow|snow]].'
 
 Through a low ornamental iron gateway of the Italianate pattern
 he entered a [[Garden|garden]] having something of that desolation which only
@@ -15005,10 +15005,10 @@ a plant of the palm variety with very large green [[Leaves|leaves]].
 All this looked so very dusty and Early Victorian that the telephone,
 visible in the curtained alcove, was almost a surprise.
 
-`Who is that?' a voice called out sharply and rather suspiciously
+‘Who is that?' a voice called out sharply and rather suspiciously
 from behind the stained--glass door.
 
-`Could I see Mr Aylmer?' asked the priest apologetically.
+‘Could I see Mr Aylmer?' asked the priest apologetically.
 
 The door opened and a gentleman in a peacock--green dressing--gown came
 out with an inquiring look.  His hair was rather rough and untidy,
@@ -15045,51 +15045,51 @@ La porta si aprì e ne uscì un gentiluomo in vestaglia verde pavone, con aria i
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_03" data-title="Incredulity — The Dagger with Wings (part 3)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_03" data-title="Incredulity — The Dagger with Wings (part 3)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
-`I am Mr Aylmer,' he said, `but I've got out of the way
+‘I am Mr Aylmer,' he said, ‘but I've got out of the way
 of expecting visitors.'
 
 Something about Mr Aylmer's unrestful eye prompted the priest to go
 straight to the point.  If the man's persecution was only a monomania,
 he would be the less likely to resent it.
 
-`I was wondering,' said Father Brown softly, `whether it is quite
+‘I was wondering,' said Father Brown softly, ‘whether it is quite
 true that you never expect visitors.'
 
-`You are right,' replied his host steadily.  `I always expect
+‘You are right,' replied his host steadily.  ‘I always expect
 one visitor.  And he may be the last.'
 
-`I hope not,' said Father Brown, `but at least I am relieved
+‘I hope not,' said Father Brown, ‘but at least I am relieved
 to infer that I do not look very like him.'
 
 Mr Aylmer shook himself with a sort of savage laugh.
-`You certainly do not,' he said.
+‘You certainly do not,' he said.
 
-`Mr Aylmer,' said [[Father Brown]] frankly, `I apologize for the liberty,
+‘Mr Aylmer,' said [[Father Brown]] frankly, ‘I apologize for the liberty,
 but some friends of mine have told me about your trouble,
 and asked me to see if I could do anything for you.  The truth is,
 I have some little experience in affairs like this.'
 
-`There are no affairs like this,' said Aylmer.
+‘There are no affairs like this,' said Aylmer.
 
-`You mean,' observed Father Brown, `that the tragedies in your
+‘You mean,' observed Father Brown, ‘that the tragedies in your
 unfortunate family were not normal deaths?'
 
-`I mean they were not even normal murders,' answered the other.
-`The man who is hounding us all to [[Death|death]] is a hell--hound, and his
+‘I mean they were not even normal murders,' answered the other.
+‘The man who is hounding us all to [[Death|death]] is a hell--hound, and his
 power is from hell.'
 
-`All evil has one origin,' said the priest gravely.
-`But how do you know they were not normal murders?'
+‘All evil has one origin,' said the priest gravely.
+‘But how do you know they were not normal murders?'
 
 Aylmer answered with a gesture which offered his guest a chair;
 then he seated himself slowly in another, frowning, with his hands
 on his knees; but when he looked up his expression had grown milder
 and more thoughtful, and his voice was quite cordial and composed.
 
-`Sir,' he said, `I don't want you to imagine that I'm in the least
+‘Sir,' he said, ‘I don't want you to imagine that I'm in the least
 an unreasonable person.  I have come to these conclusions
 by reason, because unfortunately reason really leads there.
 I have read a great deal on these subjects; for I was the only
@@ -15099,7 +15099,7 @@ But what I tell you does not rest on what I have read but on
 what I have seen.'
 
 [[Father Brown]] nodded, and the other proceeded, as if picking his words:
-`In my elder brother's case I was not certain at first.
+‘In my elder brother's case I was not certain at first.
 There were no marks or footprints where he was found shot, and the
 pistol was left beside him.  But he had just received a threatening
 letter certainly from our enemy, for it was marked with a sign like
@@ -15114,7 +15114,7 @@ I scaled the platform a moment after he had fallen under the iron
 hammer that struck him; I did not see anything else strike him,
 but I saw what I saw.
 
-`A great drift of factory smoke was [[rolling]] between me and the
+‘A great drift of factory smoke was [[rolling]] between me and the
 factory tower; but through a rift of it I saw on the top of it
 a dark human figure wrapped in what looked like a black cloak.
 Then the sulphurous smoke drove between us again; and when it
@@ -15123,12 +15123,12 @@ I am a rational man, and I will ask all rational men how he had
 reached that dizzy unapproachable turret, and how he left it.'
 
 He stared across at the priest with a sphinx--like challenge;
-then after a [[Silence|silence]] he said abruptly:  `My brother's brains
+then after a [[Silence|silence]] he said abruptly:  ‘My brother's brains
 were knocked out, but his body was not much damaged.
 And in his pocket we found one of those warning messages dated
 the day before and stamped with the flying dagger.
 
-`I am sure,' he went on gravely, `that the symbol of
+‘I am sure,' he went on gravely, ‘that the symbol of
 the winged dagger is not merely arbitrary or accidental.
 Nothing about that abominable man is accidental.  He is all design;
 though it is indeed a most dark and intricate design.
@@ -15148,20 +15148,20 @@ Is there no connexion between the plumed poignard flying
 like a feathered arrow and that figure which hung on the far
 top of the toppling chimney, clad in a cloak for pinions?'
 
-`You mean,' said [[Father Brown]] thoughtfully, `that he is in a perpetual
+‘You mean,' said [[Father Brown]] thoughtfully, ‘that he is in a perpetual
 state of levitation.'
 
-`Simon Magus did it,' replied Aylmer, `and it was one of the commonest
+‘Simon Magus did it,' replied Aylmer, ‘and it was one of the commonest
 predictions of the Dark Ages that Antichrist would be able to fly.
 Anyhow, there was the flying dagger on the document; and whether
 or no it could fly, it could certainly strike.'
 
-`Did you notice what sort of paper it was on?' asked [[Father Brown]].
+‘Did you notice what sort of paper it was on?' asked [[Father Brown]].
 'Common paper?'
 
 [[The Sphinx|The sphinx]]--like face broke abruptly into a harsh laugh.
 
-`You can see what they're like,' said Aylmer grimly, `for I got
+‘You can see what they're like,' said Aylmer grimly, ‘for I got
 one myself this morning.'
 
 He was leaning back in his chair now, with his long legs thrust
@@ -15178,7 +15178,7 @@ of rousing him.
 presented to him.  It was a singular sort of paper, rough without
 being common, as from an [[Artist|artist]]'s [[Sketch|sketch]]--book; and on it was drawn
 boldly in red ink a dagger decorated with wings like the rod of Hermes,
-with the written words, `Death comes the day after this, as it came
+with the written words, ‘Death comes the day after this, as it came
 to your brothers.'
 
 
@@ -15234,20 +15234,20 @@ Ora si era abbandonato all'indietro sulla sedia, con le lunghe gambe protese fuo
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_04" data-title="Incredulity — The Dagger with Wings (part 4)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_04" data-title="Incredulity — The Dagger with Wings (part 4)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
 Father Brown tossed the paper on the floor and sat bolt upright
 in his chair.
 
-`You mustn't let that sort of stuff stupefy you,' he said sharply.
-`These devils always try to make us helpless by making us hopeless.'
+‘You mustn't let that sort of stuff stupefy you,' he said sharply.
+‘These devils always try to make us helpless by making us hopeless.'
 
 Rather to his surprise, an awakening wave went over the prostrate figure,
 which sprang from its chair as if startled out of a dream.
 
-`You're right, you're right!' cried Aylmer with a rather
-[[Uncanny|uncanny]] animation; `and the devils shall find that I'm
+‘You're right, you're right!' cried Aylmer with a rather
+[[Uncanny|uncanny]] animation; ‘and the devils shall find that I'm
 not so hopeless after all, nor so helpless either.
 Perhaps I have more hope and better help than you fancy.'
 
@@ -15256,7 +15256,7 @@ who had a momentary doubt, during that strained silence,
 about whether the man's long peril had not touched his brain.
 But when he spoke it was quite soberly.
 
-`I believe my unfortunate brothers failed because they
+‘I believe my unfortunate brothers failed because they
 used the wrong weapons.  Philip carried a revolver,
 and that was how his [[Death|death]] came to be called [[suicide]].
 Stephen had police protection, but he also had a sense of what made
@@ -15271,11 +15271,11 @@ But my brothers were wrong about the antidote.  The antidote
 to black [[Magic|magic]] is not brute materialism or worldly wisdom.
 The antidote to black [[Magic|magic]] is white [[Magic|magic]].'
 
-`It rather depends,' said Father Brown, `what you mean by white [[Magic|magic]].'
+‘It rather depends,' said Father Brown, ‘what you mean by white [[Magic|magic]].'
 
-`I mean silver magic,' said the other, in a low voice, like one
+‘I mean silver magic,' said the other, in a low voice, like one
 speaking of a secret revelation.  Then after a silence he said:
-`Do you know what I mean by silver [[Magic|magic]]?  Excuse me a moment.'
+‘Do you know what I mean by silver [[Magic|magic]]?  Excuse me a moment.'
 
 He turned and opened the central door with the red glass and went
 into a passage beyond it.  The [[house]] had less depth than Brown
@@ -15305,31 +15305,31 @@ negative whiteness of daylight but the positive whiteness of [[Snow|snow]].
 All round, the sweeping fall of the country was covered with
 that shining pallor that seems at once hoary and [[Innocent|innocent]].
 
-`Here is white magic anyhow,' said Father Brown in his cheerful voice.
-Then, as he turned back into the hall, he murmured, `And silver [[Magic|magic]] too,
+‘Here is white magic anyhow,' said Father Brown in his cheerful voice.
+Then, as he turned back into the hall, he murmured, ‘And silver [[Magic|magic]] too,
 I suppose,' for the white lustre touched the silver with splendour
 and lit up the old steel here and there in the darkling armoury.
 The shaggy head of the brooding Aylmer seemed to have a halo of
 silver [[Fire|fire]], as he turned with his face in [[Shadow|shadow]] and the outlandish
 [[Pistol|pistol]] in his hand.
 
-`Do you know why I chose this sort of old blunderbuss?' he asked.
-`Because I can load it with this sort of bullet.'
+‘Do you know why I chose this sort of old blunderbuss?' he asked.
+‘Because I can load it with this sort of bullet.'
 
 He had picked up a small apostle spoon from the sideboard
 and by sheer violence broke off the small figure at the top.
-`Let us go back into the other room,' he added.
+‘Let us go back into the other room,' he added.
 
-`Did you ever read about the [[Death|death]] of Dundee?' he asked
+‘Did you ever read about the [[Death|death]] of Dundee?' he asked
 when they had reseated themselves.  He had recovered from
 his momentary annoyance at the priest's restlessness.
-`Graham of Claverhouse, you know, who persecuted the Covenanters
+‘Graham of Claverhouse, you know, who persecuted the Covenanters
 and had a black horse that could ride straight up a precipice.
 Don't you know he could only be shot with a silver bullet,
 because he had sold himself to the Devil?  That's one comfort
 about you; at least you know enough to believe in the Devil.'
 
-`Oh, yes,' replied [[Father Brown]], `I believe in the Devil.
+‘Oh, yes,' replied [[Father Brown]], ‘I believe in the Devil.
 What I don't believe in is the Dundee.  I mean the Dundee
 of Covenanting legends, with his nightmare of a horse.
 John Graham was simply a seventeenth--century professional soldier,
@@ -15341,9 +15341,9 @@ Not to mention names, which might cause a social flutter,
 I'll take a man in Dundee's own day.  Have you ever heard
 of Dalrymple of Stair?'
 
-`No,' replied the other gruffly.
+‘No,' replied the other gruffly.
 
-`You've heard of what he did,' said Father Brown, `and it was worse
+‘You've heard of what he did,' said Father Brown, ‘and it was worse
 than anything Dundee ever did; yet he escapes the infamy by oblivion.
 He was the man who made the Massacre of Glencoe.  He was a very learned
 man and lucid lawyer, a statesman with very serious and enlarged ideas
@@ -15352,7 +15352,7 @@ That's the sort of man who sells himself to the Devil.'
 
 Aylmer half started from his chair with an enthusiasm of eager assent.
 
-`By God! you are right,' he cried.  `A refined intellectual face!
+‘By God! you are right,' he cried.  ‘A refined intellectual face!
 That is the face of John Strake.'
 
 
@@ -15398,12 +15398,12 @@ Aylmer si sollevò a metà dalla poltrona con l'entusiasmo di un fervido assenso
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_05" data-title="Incredulity — The Dagger with Wings (part 5)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_05" data-title="Incredulity — The Dagger with Wings (part 5)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
 Then he raised himself and stood looking at the priest with a
-curious concentration.  `If you will wait here a little while,'
-he said, `I will show you something.'
+curious concentration.  ‘If you will wait here a little while,'
+he said, ‘I will show you something.'
 
 He went back through the central door, closing it after him; going,
 the priest presumed, to the old sideboard or possibly to his bedroom.
@@ -15416,9 +15416,9 @@ in the dim green bowl.  [[Father Brown]] was thinking hard.
 
 A minute or two afterwards he got up and slipped quietly
 to the alcove of the telephone, where he rang up his friend
-Dr Boyne, at the official headquarters.  `I wanted to tell
+Dr Boyne, at the official headquarters.  ‘I wanted to tell
 you about Aylmer and his affairs,' he said quietly.
-`It's a queer story, but I rather think there's something in it.
+‘It's a queer story, but I rather think there's something in it.
 If I were you I'd send some men up here straight away;
 four or five men, I think, and surround the [[house]].
 If anything does happen there'll probably be something startling
@@ -15439,7 +15439,7 @@ torn from his shoulder and the long [[Pistol|pistol]] smoking in his hand.
 He seemed to be shaking in every limb, yet he was shaken in part
 with an unnatural laughter.
 
-`Glory be to the White Magic!' he cried.  `Glory be to the silver bullet!
+‘Glory be to the White Magic!' he cried.  ‘Glory be to the silver bullet!
 The hell--hound had hunted once too often, and my brothers are
 avenged at last.'
 
@@ -15469,33 +15469,33 @@ the priest got a glimpse of the face, which was indeed what his host
 had called refined and intellectual; even sceptical and austere:
 the face of John Strake.
 
-`Well, I'm jiggered,' muttered Father Brown.  `It really does look
+‘Well, I'm jiggered,' muttered Father Brown.  ‘It really does look
 like some vast vampire that has swooped down like a bird.'
 
-`How else could he have come?' came a voice from the doorway,
+‘How else could he have come?' came a voice from the doorway,
 and Father Brown looked up to see Aylmer once more standing there.
 
-`Couldn't he have walked?' replied [[Father Brown]] evasively.
+‘Couldn't he have walked?' replied [[Father Brown]] evasively.
 
 Aylmer stretched out his arm and swept the white landscape
 with a gesture.
 
-`Look at the snow,' he said in a deep voice that had a sort
-of roll and thrill in it.  `Is not the [[Snow|snow]] unspotted--pure as
+‘Look at the snow,' he said in a deep voice that had a sort
+of roll and thrill in it.  ‘Is not the [[Snow|snow]] unspotted--pure as
 the white [[Magic|magic]] you yourself called it?  Is there a speck on it
 for miles, save that one foul black blot that has fallen there?
 There are no footprints, but a few of yours and mine;
 there are none approaching the [[house]] from anywhere.'
 
 Then he looked at the little priest for a moment with a concentrated
-and curious expression, and said:  `I will tell you something else.
+and curious expression, and said:  ‘I will tell you something else.
 That cloak he flies with is too long to walk with.  He was not
 a very tall man, and it would trail behind him like a royal train.
 Stretch it out over his body, if you like, and see.'
 
-`What happened to you both?' asked [[Father Brown]] abruptly.
+‘What happened to you both?' asked [[Father Brown]] abruptly.
 
-`It was too swift to describe,' answered Aylmer.  `I had looked out
+‘It was too swift to describe,' answered Aylmer.  ‘I had looked out
 of the door and was turning back when there came a kind of rushing
 of [[Wind|wind]] all around me, as if I were being buffeted by a [[Wheel|wheel]]
 revolving in mid--air.  I spun round somehow and fired blindly;
@@ -15503,11 +15503,11 @@ and then I saw nothing but what you see now.  But I am morally certain
 that you wouldn't see it if I had not had a silver shot in my gun.
 It would have been a different [[Body|body]] lying there in the [[Snow|snow]].'
 
-`By the way,' remarked Father Brown, `shall we leave it lying
+‘By the way,' remarked Father Brown, ‘shall we leave it lying
 there in the [[Snow|snow]]?  Or would you like it taken into your room--
 I suppose that's your bedroom in the passage?'
 
-`No, no,' replied Aylmer hastily, `we must leave it here till the police
+‘No, no,' replied Aylmer hastily, ‘we must leave it here till the police
 have seen it.  Besides, I've had as much of such things as I can stand
 for the moment.  Whatever else happens, I'm going to have a drink.
 After that, they can hang me if they like.'
@@ -15565,10 +15565,10 @@ Dentro l'appartamento centrale, tra la palma e la boccia dei pesci, Aylmer si la
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_06" data-title="Incredulity — The Dagger with Wings (part 6)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_06" data-title="Incredulity — The Dagger with Wings (part 6)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
-`I see you are still doubtful,' he said, `though you have seen the thing
+‘I see you are still doubtful,' he said, ‘though you have seen the thing
 with your own eyes.  Believe me, there was something more behind
 the quarrel between the spirit of Strake and the spirit of the [[house]]
 of Aylmer.  Besides, you have no business to be an unbeliever.  You ought
@@ -15577,18 +15577,18 @@ Come now, don't you think there's a lot in those old wives'
 tales about luck and charms and so on, silver bullets included?
 What do you say about them as a Catholic?'
 
-`I say I'm an agnostic,' replied Father Brown, smiling.
+‘I say I'm an agnostic,' replied Father Brown, smiling.
 
-`Nonsense,' said Aylmer impatiently.  `It's your business
+‘Nonsense,' said Aylmer impatiently.  ‘It's your business
 to believe things.'
 
-`[[Well]], I do believe some things, of course,' conceded [[Father Brown]];
-`and therefore, of course, I don't believe other things.'
+‘[[Well]], I do believe some things, of course,' conceded [[Father Brown]];
+‘and therefore, of course, I don't believe other things.'
 
 Aylmer was leaning forward, and looking at him with a strange
 intensity that was almost like that of a mesmerist.
 
-`You do believe it,' he said.  `You do believe everything.
+‘You do believe it,' he said.  ‘You do believe everything.
 We all believe everything, even when we deny everything.
 The denyers believe.  The unbelievers believe.  Don't you feel
 in your heart that these contradictions do not really contradict:
@@ -15603,7 +15603,7 @@ all your beliefs, that there is but one reality and we are
 its shadows; and that all things are but aspects of one thing:
 a centre where men melt into Man and Man into God?'
 
-`No,' said [[Father Brown]].
+‘No,' said [[Father Brown]].
 
 Outside, twilight had begun to fall, in that phase of such a [[Snow|snow]]--
 laden evening when the land looks brighter than the sky.
@@ -15619,22 +15619,22 @@ of evening, but still like grey caricatures of the figures of men.
 Dr Boyne had already obeyed the telephone message.
 The [[house]] was surrounded.
 
-`What is the good of saying no?' insisted his host,
-still with the same hypnotic stare.  `You have seen part
+‘What is the good of saying no?' insisted his host,
+still with the same hypnotic stare.  ‘You have seen part
 of that eternal drama with your own eyes.  You have seen
 the threat of John Strake to slay Arnold Aylmer by black [[Magic|magic]].
 You have seen Arnold Aylmer slay John Strake by white [[Magic|magic]].
 You see Arnold Aylmer alive and talking to you now.
 And yet you don't believe it.'
 
-`No, I do not believe it,' said Father Brown, and rose from his chair
+‘No, I do not believe it,' said Father Brown, and rose from his chair
 like one terminating a visit.
 
-`Why not?' asked the other.
+‘Why not?' asked the other.
 
 The priest only lifted his voice a little, but it sounded in every corner
-of the room like a bell.  `Because you are not Arnold Aylmer,' he said.
-`I know who you are.  Your name is John Strake; and you have murdered
+of the room like a bell.  ‘Because you are not Arnold Aylmer,' he said.
+‘I know who you are.  Your name is John Strake; and you have murdered
 the last of the brothers, who is lying outside in the [[Snow|snow]].'
 
 A ring of white showed round the iris of the other man's eyes;
@@ -15655,7 +15655,7 @@ Compared to the fact that he had rounded off his life's work with
 the last Aylmer lying dead, everything else, including existence itself,
 seemed to be indifferent to him.
 
-`The man is a sort of monomaniac,' said Father Brown.  `He is not
+‘The man is a sort of monomaniac,' said Father Brown.  ‘He is not
 interested in any other matter; not even in any other murder.
 I owe him something for that; for I had to comfort myself with
 the reflection a good many times this afternoon.  As has doubtless
@@ -15664,12 +15664,12 @@ occurred to you, instead of weaving all that wild but ingenious
 an ordinary leaden bullet into me, and walked out of the [[house]].
 I assure you it occurred quite frequently to me.'
 
-`I wonder why he didn't,' observed Boyne.  `I don't understand it;
+‘I wonder why he didn't,' observed Boyne.  ‘I don't understand it;
 but I don't understand anything yet.  How on earth did you discover it,
 and what in the world did you discover?'
 
-`Oh, you provided me with very valuable information,'
-replied Father Brown modestly, `especially the one piece
+‘Oh, you provided me with very valuable information,'
+replied Father Brown modestly, ‘especially the one piece
 of information that really counted.  I mean the statement
 that Strake was a very inventive and imaginative liar,
 with great presence of mind in producing his lies.
@@ -15678,11 +15678,11 @@ Perhaps his only mistake was in choosing a preternatural story;
 he had the notion that because I am a clergyman I should
 believe anything.  Many people have little notions of that kind.'
 
-`But I can't make head or tail of it,' said the doctor.
-`You must really begin at the beginning.'
+‘But I can't make head or tail of it,' said the doctor.
+‘You must really begin at the beginning.'
 
-`The beginning of it was a dressing--gown,' said Father Brown simply.
-`It was the one really good disguise I've ever known.
+‘The beginning of it was a dressing--gown,' said Father Brown simply.
+‘It was the one really good disguise I've ever known.
 When you meet a man in a [[house]] with a dressing--gown on,
 you assume quite automatically that he's in his own [[house]].
 I assumed it myself; but afterwards queer little things began to happen.
@@ -15746,10 +15746,10 @@ Quella sera [[Father Brown|Padre Brown]] ebbe un'altra e più lunga conversazion
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_07" data-title="Incredulity — The Dagger with Wings (part 7)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_07" data-title="Incredulity — The Dagger with Wings (part 7)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
-`Poor Arnold Aylmer doubtless slept and perhaps lived upstairs, and came
+‘Poor Arnold Aylmer doubtless slept and perhaps lived upstairs, and came
 down in his dressing--gown and passed through the red glass door.
 At the end of the passage, black against the winter daylight,
 he saw the enemy of his house.  He saw a tall bearded man
@@ -15762,7 +15762,7 @@ on the last of his foes heard something he had not expected.
 He heard footsteps in the parlour beyond.  It was myself entering
 by the french windows.
 
-`His masquerade was a miracle of promptitude.  It involved
+‘His masquerade was a miracle of promptitude.  It involved
 not only a disguise but a [[Romance|romance]]--an impromptu [[Romance|romance]].
 He took off his big black hat and cloak and put on the dead
 man's dressing--gown.  Then he did a rather grisly thing;
@@ -15776,13 +15776,13 @@ I myself walked past the hat--stand once without knowing it
 was anything but a hat--stand.  I think that unconsciousness
 of mine will always give me a shiver.
 
-`He might perhaps have left it at that; but I might have
+‘He might perhaps have left it at that; but I might have
 discovered the corpse at any minute; and, hung where it was,
 it was a corpse calling for what you might call an explanation.
 He adopted the bolder stroke of discovering it himself and
 explaining it himself.
 
-`Then there dawned on this strange and frightfully fertile mind
+‘Then there dawned on this strange and frightfully fertile mind
 the conception of a story of substitution; the reversal of the parts.
 He had already assumed the part of Arnold Aylmer.  Why should not his dead
 enemy assume the part of John Strake?  There must have been something
@@ -15796,7 +15796,7 @@ can imagine him smiling.'
 [[Father Brown]] was gazing into vacancy with his large grey eyes, which,
 when not blurred by his trick of blinking, were the one notable
 thing in his face.  He went on speaking simply and seriously:
-`All things are from God; and above all, reason and imagination
+‘All things are from God; and above all, reason and imagination
 and the great gifts of the mind.  They are good in themselves;
 and we must not altogether forget their origin even in their perversion.
 Now this man had in him a very noble power to be perverted;
@@ -15818,7 +15818,7 @@ and with the false yet unfathomable courage of a great liar.  He could
 always produce more Arabian Nights if ever his neck was in danger.
 And today his neck was in danger.
 
-`But I am sure, as I say, that he enjoyed it as a fantasy as [[Well|well]]
+‘But I am sure, as I say, that he enjoyed it as a fantasy as [[Well|well]]
 as a conspiracy.  He set about the task of telling the true story
 the wrong way round:  of treating the dead man as living and the live
 man as dead.  He had already got into Aylmer's dressing--gown;
@@ -15845,8 +15845,8 @@ proved that he never walked on the ground like an ordinary mortal.
 But he looked at me very hard while he said that; and something
 told me that he was at that moment trying a very big bluff.'
 
-Dr Boyne looked thoughtful.  `Had you discovered the truth by then?'
-he asked.  `There is something very queer and close to the nerves,
+Dr Boyne looked thoughtful.  ‘Had you discovered the truth by then?'
+he asked.  ‘There is something very queer and close to the nerves,
 I think, about notions affecting [[Identity|identity]].  I don't know whether it
 would be more weird to get a guess like that swiftly or slowly.
 I [[Wonder|wonder]] when you suspected and when you were sure.'
@@ -15854,11 +15854,11 @@ I [[Wonder|wonder]] when you suspected and when you were sure.'
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_08" data-title="Incredulity — The Dagger with Wings (part 8)" data-chapter="Story 06 The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_08" data-title="Incredulity — The Dagger with Wings (part 8)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
 
 
-`I think I really suspected when I telephoned to you,'
-replied his friend.  `And it was nothing more than the red light
+‘I think I really suspected when I telephoned to you,'
+replied his friend.  ‘And it was nothing more than the red light
 from the closed door brightening and darkening on the carpet.
 It looked like a splash of [[Blood|blood]] that grew vivid as it
 cried for vengeance.  Why should it change like that?
@@ -15875,11 +15875,11 @@ That's what he used to do with old Aylmer, no [[Doubt|doubt]].
 But it wasn't only the way he said it, it was what he said.
 It was the religion and [[philosophy]] of it.'
 
-`I'm afraid I'm a practical man,' said the doctor with gruff humour,
-`and I don't bother much about religion and [[philosophy]].'
+‘I'm afraid I'm a practical man,' said the doctor with gruff humour,
+‘and I don't bother much about religion and [[philosophy]].'
 
-`You'll never be a practical man till you do,' said Father Brown.
-`Look here, doctor; you know me pretty [[Well|well]]; I think you
+‘You'll never be a practical man till you do,' said Father Brown.
+‘Look here, doctor; you know me pretty [[Well|well]]; I think you
 know I'm not a bigot.  You know I know there are all sorts
 in all religions; good men in bad ones and bad men in good ones.
 But there's just one little fact I've learned simply as a
@@ -15897,10 +15897,10 @@ It may not be like that in its real religious origins;
 but here in our working world it is the religion of rascals;
 and I knew it was a rascal who was speaking.'
 
-`Why,' said Boyne, `I should have thought that a rascal could
+‘Why,' said Boyne, ‘I should have thought that a rascal could
 pretty [[Well|well]] profess any religion he chose.'
 
-`Yes,' assented the other; `he could profess any religion;
+‘Yes,' assented the other; ‘he could profess any religion;
 that is he could pretend to any religion, if it was all a pretence.
 If it was mere mechanical hypocrisy and nothing else,
 no [[Doubt|doubt]] it could be done by a mere mechanical hypocrite.
@@ -15925,11 +15925,11 @@ quite sincerely that Buddhism is more Christian than [[Christianity]].
 That [[Alone|alone]] is enough to throw a hideous and ghastly ray of light
 on his notion of [[Christianity]].'
 
-`Upon my soul,' said the doctor, laughing, `I can't make out whether
+‘Upon my soul,' said the doctor, laughing, ‘I can't make out whether
 you're denouncing or defending him.'
 
-`It isn't defending a man to say he is a genius,' said Father Brown.
-`Far from it.  And it is simply a psychological fact that
+‘It isn't defending a man to say he is a genius,' said Father Brown.
+‘Far from it.  And it is simply a psychological fact that
 an [[Artist|artist]] will betray himself by some sort of sincerity.
 Leonardo da Vinci cannot draw as if he couldn't draw.
 Even if he tried, it will always be a strong [[Parody|parody]] of a weak thing.
@@ -15958,7 +15958,7 @@ and deeper draughts of that virginal vivacity of the air.
 Some forgotten muddle and morbidity seemed to be left behind, or wiped
 out as the [[Snow|snow]] had painted out the footprints of the man of [[Blood|blood]].
 As he shuffled homewards through the [[Snow|snow]], he muttered to himself:
-`And yet he is right enough about there being a white magic,
+‘And yet he is right enough about there being a white magic,
 if he only knows where to look for it.'
 
 
@@ -16070,7 +16070,7 @@ purché sappia dove cercarla.»
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_01" data-title="Incredulity — The Doom of the Darnaways (part 1)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_01" data-title="Incredulity — The Doom of the Darnaways (part 1)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
 SEVEN:  The Doom of the Darnaways
@@ -16098,13 +16098,13 @@ most of them being blind and bricked up and their outlines only faintly
 traceable in the twilight.  But one window at least was still a window;
 and it seemed strangest of all that it showed a light.
 
-`Who on earth can live in that old shell?' exclaimed the Londoner,
+‘Who on earth can live in that old shell?' exclaimed the Londoner,
 who was a big, bohemian--looking man, young but with a shaggy
 red beard that made him look older; Chelsea knew him familiarly
 as Harry Payne.
 
-`Ghosts, you might suppose,' replied his friend Martin Wood.
-`[[Well]], the people who live there really are rather like [[Ghosts|ghosts]].'
+‘Ghosts, you might suppose,' replied his friend Martin Wood.
+‘[[Well]], the people who live there really are rather like [[Ghosts|ghosts]].'
 
 It was perhaps rather a [[Paradox|paradox]] that the [[London]] [[Artist|artist]] seemed almost
 bucolic in his boisterous freshness and [[Wonder|wonder]], while the local [[Artist|artist]]
@@ -16113,7 +16113,7 @@ and amiable amusement; indeed, the latter was altogether a quieter
 and more conventional figure, wearing darker clothes and with his square
 and stolid face clean shaven.
 
-`It is only a sign of the times, of course,' he went on,'
+‘It is only a sign of the times, of course,' he went on,'
 or of the passing of old times and old families with them.
 The last of the great Darnaways live in that house,
 and not many of the new poor are as poor as they are.
@@ -16126,10 +16126,10 @@ asked for my professional advice in overhauling them.
 There's one of them especially, and one of the earliest,
 but it's so good that it gives you the creeps.'
 
-`The whole place gives you the creeps, I should think by the look
+‘The whole place gives you the creeps, I should think by the look
 of it,' replied Payne.
 
-`Well,' said his friend, `to tell you the [[Truth|truth]], it does.'
+‘Well,' said his friend, ‘to tell you the [[Truth|truth]], it does.'
 
 The [[Silence|silence]] that followed was stirred by a faint rustle among
 the rushes by the moat; and it gave them, rationally enough,
@@ -16139,19 +16139,19 @@ But it was only a man walking briskly with a black bag in his hand:
 a man with a long sallow face and sharp eyes that glanced at
 the [[London]] stranger in a slightly darkling and suspicious manner.
 
-`It's only Dr Barnet,' said Wood with a sort of relief.
+‘It's only Dr Barnet,' said Wood with a sort of relief.
 'Good evening, Doctor.  Are you going up to the house?
 I hope nobody's ill.'
 
-`Everybody's always ill in a place like that,'
-growled the doctor; `only sometimes they're too ill to know it.
+‘Everybody's always ill in a place like that,'
+growled the doctor; ‘only sometimes they're too ill to know it.
 The very air of the place is a blight and a pestilence.
 I don't envy the young man from Australia.'
 
-`And who,' asked Payne abruptly and rather absently, `may the young
+‘And who,' asked Payne abruptly and rather absently, ‘may the young
 man from Australia be?'
 
-`Ah!' snorted the doctor; `hasn't your friend told you about him?
+‘Ah!' snorted the doctor; ‘hasn't your friend told you about him?
 As a matter of fact I believe he is arriving today.  Quite a romance
 in the old style of melodrama:  the heir back from the colonies
 to his ruined castle, all complete even down to an old family
@@ -16160,26 +16160,26 @@ Queer old stuff, isn't it? but it really happens sometimes.
 He's even got a little money, which is the only bright spot there
 ever was in this business.'
 
-`What does Miss Darnaway herself, in her ivied tower,
+‘What does Miss Darnaway herself, in her ivied tower,
 think of the business?' asked Martin Wood dryly.
 
-`What she thinks of everything else by this time,' replied the doctor.
-`They don't think in this weedy old den of superstitions, they only dream
+‘What she thinks of everything else by this time,' replied the doctor.
+‘They don't think in this weedy old den of superstitions, they only dream
 and drift.  I think she accepts the family contract and the colonial
 husband as part of the Doom of the Darnaways, don't you know.
 I really think that if he turned out to be a humpbacked Negro with one
 eye and a homicidal mania, she would only think it added a finishing
 touch and fitted in with the twilight scenery.'
 
-`You're not giving my friend from London a very lively
+‘You're not giving my friend from London a very lively
 picture of my friends in the country,' said Wood, laughing.
-`I had intended taking him there to call; no [[Artist|artist]] ought
+‘I had intended taking him there to call; no [[Artist|artist]] ought
 to miss those Darnaway portraits if he gets the chance.
 But perhaps I'd better postpone it if they're in the middle
 of the Australian invasion.'
 
-`Oh, do go in and see them, for the Lord's sake,' said Dr Barnet warmly.
-`Anything that will brighten their blighted lives will make
+‘Oh, do go in and see them, for the Lord's sake,' said Dr Barnet warmly.
+‘Anything that will brighten their blighted lives will make
 my task easier.  It will need a good many colonial cousins
 to cheer things up, I should think; and the more the merrier.
 Come, I'll take you in myself.'
@@ -16239,7 +16239,7 @@ Man mano che si avvicinavano alla [[house|casa]], la si vide isolata come un'iso
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_02" data-title="Incredulity — The Doom of the Darnaways (part 2)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_02" data-title="Incredulity — The Doom of the Darnaways (part 2)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
 When the brisk doctor led them inside without ceremony,
@@ -16264,9 +16264,9 @@ of Shallot who never saw the world outside except in a [[Mirror|mirror]].
 The lady of this Shallot not only in some sense saw the world
 in a [[Mirror|mirror]], but even saw the world upside--down.
 
-`It's as if the house of Darnaway were falling literally
+‘It's as if the house of Darnaway were falling literally
 as well as metaphorically,' said Wood in a low voice;
-`as if it were sinking slowly into a swamp or a quicksand,
+‘as if it were sinking slowly into a swamp or a quicksand,
 until the sea goes over it like a green roof.'
 
 Even the sturdy Dr Barnet started a little at the silent
@@ -16314,7 +16314,7 @@ bent on showing, not only as a picture but almost as a puzzle.
 The little priest trudged along with them; he seemed to know
 something about old pictures as [[Well|well]] as about old prayers.
 
-`I'm rather proud of having spotted this,' said Wood.'
+‘I'm rather proud of having spotted this,' said Wood.'
 I believe it's a Holbein.  If it isn't, there was somebody
 living in Holbein's time who was as great as Holbein.'
 
@@ -16322,8 +16322,8 @@ It was a portrait in the hard but sincere and living fashion
 of the period, representing a man clad in black trimmed with gold
 and fur, with a heavy, full, rather pale face but watchful eyes.
 
-`What a pity art couldn't have stopped for ever at just that
-transition stage,' cried Wood, `and never transitioned any more.
+‘What a pity art couldn't have stopped for ever at just that
+transition stage,' cried Wood, ‘and never transitioned any more.
 Don't you see it's just realistic enough to be real?
 Don't you see the face speaks all the more because it stands
 out from a rather stiffer framework of less essential things?
@@ -16332,11 +16332,11 @@ On my soul, I think the eyes are too real for the face!
 It's just as if those sly, quick eyeballs were protruding
 out of a great pale mask.'
 
-`The stiffness extends to the figure a little, I think,' said Payne.
-`They hadn't quite mastered anatomy when medievalism ended, at least
+‘The stiffness extends to the figure a little, I think,' said Payne.
+‘They hadn't quite mastered anatomy when medievalism ended, at least
 in the north.  That left leg looks to me a good deal out of drawing.'
 
-`I'm not so sure,' replied Wood quietly.  `Those fellows
+‘I'm not so sure,' replied Wood quietly.  ‘Those fellows
 who painted just when realism began to be done, and before it
 began to be overdone, were often more realistic than we think.
 They put real details of portraiture into things that are thought
@@ -16346,8 +16346,8 @@ that one of his eyebrows did really stick up more than the other.
 And I shouldn't wonder if he was lame or something, and that black
 leg was meant to be crooked.'
 
-`What an old devil he looks!' burst out Payne suddenly.
-`I trust his reverence will excuse my language.'
+‘What an old devil he looks!' burst out Payne suddenly.
+‘I trust his reverence will excuse my language.'
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -16374,18 +16374,18 @@ Era un ritratto nella maniera dura ma sincera e viva del periodo, che raffigurav
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_03" data-title="Incredulity — The Doom of the Darnaways (part 3)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_03" data-title="Incredulity — The Doom of the Darnaways (part 3)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
-`I believe in the devil, thank you,' said the priest with
-an inscrutable face.  `Curiously enough there was a legend
+‘I believe in the devil, thank you,' said the priest with
+an inscrutable face.  ‘Curiously enough there was a legend
 that the devil was lame.'
 
-`I say,' protested Payne, `you can't really mean that he was the devil;
+‘I say,' protested Payne, ‘you can't really mean that he was the devil;
 but who the devil was he?'
 
-`He was the Lord Darnaway under Henry VII and [[Henry VIII]],'
-replied his companion.  `But there are curious legends about him, too;
+‘He was the Lord Darnaway under Henry VII and [[Henry VIII]],'
+replied his companion.  ‘But there are curious legends about him, too;
 one of them is referred to in that inscription round the frame,
 and further developed in some notes left by somebody in a book I
 found here.  They are both rather curious reading.'
@@ -16397,11 +16397,11 @@ and spelling, it seemed to be a sort of rhyme running somewhat thus:
 In the seventh heir I shall return:  In the seventh hour I shall depart:
 None in that hour shall hold my hand:  And woe to her that holds my heart.
 
-`It sounds creepy somehow,' said Payne, `but that may be partly
+‘It sounds creepy somehow,' said Payne, ‘but that may be partly
 because I don't understand a word of it.'
 
-`It's pretty creepy even when you do,' said Wood in a low voice.
-`The record made at a later date, in the old book I found,
+‘It's pretty creepy even when you do,' said Wood in a low voice.
+‘The record made at a later date, in the old book I found,
 is all about how this beauty deliberately killed himself
 in such a way that his wife was executed for his murder.
 Another note commemorates a later tragedy, seven successions later--
@@ -16412,22 +16412,22 @@ I suppose the inference is that he does really return with every
 seventh inheritor and makes things unpleasant, as the rhyme suggests,
 for any lady unwise enough to marry him.'
 
-`On that argument,' replied Payne, `it would be a trifle uncomfortable
+‘On that argument,' replied Payne, ‘it would be a trifle uncomfortable
 for the next seventh gentleman.'
 
-Wood's voice was lower still as he said:  `The new heir will
+Wood's voice was lower still as he said:  ‘The new heir will
 be the seventh.'
 
 Harry Payne suddenly heaved up his great chest and shoulders
 like a man flinging off a burden.
 
-`What crazy stuff are we all talking?' he cried.
-`We're all educated men in an enlightened age, I suppose.
+‘What crazy stuff are we all talking?' he cried.
+‘We're all educated men in an enlightened age, I suppose.
 Before I came into this damned dank atmosphere I'd never
 have believed I should be talking of such things, except to
 laugh at them.'
 
-`You are right,' said Wood.  `If you lived long enough in this
+‘You are right,' said Wood.  ‘If you lived long enough in this
 underground palace you'd begin to feel differently about things.
 I've begun to feel very curiously about that picture,
 having had so much to do with handling and hanging it.
@@ -16437,7 +16437,7 @@ that it is a sort of talisman or magnet:  that it commands
 the elements and draws out the destinies of men and things.
 I suppose you would call it very fanciful.'
 
-`What is that noise?' cried Payne suddenly.
+‘What is that noise?' cried Payne suddenly.
 
 They all listened, and there seemed to be no noise except the dull boom
 of the distant sea; then they began to have the sense of something
@@ -16462,13 +16462,13 @@ window with an altered face, and he spoke with an altered voice:
 
 'How queerly he's standing!'
 
-`No, no,' said Wood, in a sort of soothing whisper.
-`Things often look like that in reflection.  It's the wavering
+‘No, no,' said Wood, in a sort of soothing whisper.
+‘Things often look like that in reflection.  It's the wavering
 of the water that makes you think that.'
 
-`Think what?' asked the priest shortly.
+‘Think what?' asked the priest shortly.
 
-`That his left leg is crooked,' said Wood.
+‘That his left leg is crooked,' said Wood.
 
 Payne had thought of the oval window as a sort of mystical mirror; and it
 seemed to him that there were in it other inscrutable images of doom.
@@ -16481,7 +16481,7 @@ of the human figure passed out of the picture.
 
 He turned to meet the pale face of old Vine, the steward,
 with his mouth open, eager to speak, and his single tooth showing.
-`He has come,' he said.  `The boat arrived from Australia this morning.'
+‘He has come,' he said.  ‘The boat arrived from Australia this morning.'
 
 Even as they went back out of the library into the central salon they
 heard the footsteps of the newcomer clattering down the entrance steps,
@@ -16566,14 +16566,14 @@ Egli sentiva evidentemente che c'era qualcosa di curioso e di sgradevole nella s
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_04" data-title="Incredulity — The Doom of the Darnaways (part 4)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_04" data-title="Incredulity — The Doom of the Darnaways (part 4)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
 Payne was surprised, when taking his leave a little while after,
 at something which showed that the Australian was already less
 unconscious of his surroundings.  He said in a low voice:
 
-`Don't go ... or come again soon.  You look like a human being.
+‘Don't go ... or come again soon.  You look like a human being.
 This place fairly gives me the jumps.'
 
 When Payne emerged out of those almost subterranean halls
@@ -16588,12 +16588,12 @@ portrait and the new arrival troubled him like a two headed [[Monster|monster]].
 And yet it was not altogether a [[nightmare]]; nor was it that face, perhaps,
 that he saw most vividly.
 
-`Did you say?' he asked of the doctor, as they strode together across
-the striped dark sands by the darkening sea; `did you say that young
+‘Did you say?' he asked of the doctor, as they strode together across
+the striped dark sands by the darkening sea; ‘did you say that young
 man was betrothed to Miss Darnaway by a family compact or something?
 Sounds rather like a [[Novel|novel]].'
 
-`But an historical novel,' answered Dr Barnet.  `The Darnaways
+‘But an historical novel,' answered Dr Barnet.  ‘The Darnaways
 all went to [[Sleep|sleep]] a few centuries ago, when things were really done
 that we only read of in romances.  Yes; I believe there's some family
 tradition by which second or third cousins always marry when they
@@ -16602,17 +16602,17 @@ A damned silly tradition, I should say; and if they often married
 in and in, in that fashion, it may account on principles of heredity
 for their having gone so rotten.'
 
-`I should hardly say,' answered Payne a little stuffily,
-`that they had all gone rotten.'
+‘I should hardly say,' answered Payne a little stuffily,
+‘that they had all gone rotten.'
 
-`Well,' replied the doctor, `the young man doesn't look rotten,
+‘Well,' replied the doctor, ‘the young man doesn't look rotten,
 of course, though he's certainly lame.'
 
-`The young man!' cried Payne, who was suddenly and unreasonably angry.
-`[[Well]], if you think the young lady looks rotten, I think it's you
+‘The young man!' cried Payne, who was suddenly and unreasonably angry.
+‘[[Well]], if you think the young lady looks rotten, I think it's you
 who have rotten taste.'
 
-The doctor's face grew dark and bitter.  `I fancy I know more about it
+The doctor's face grew dark and bitter.  ‘I fancy I know more about it
 than you do,' he snapped.
 
 They completed the walk in silence, each feeling that he had been
@@ -16641,31 +16641,31 @@ Once he attempted to confide in his friend Martin Wood, as he was
 pottering about in his capacity of picture--hanger; but even
 out of him he got very little satisfaction.
 
-`It seems to me you can't butt in,' said Wood shortly,
-`because of the engagement.'
+‘It seems to me you can't butt in,' said Wood shortly,
+‘because of the engagement.'
 
-`Of course I shan't butt in if there is an engagement,'
-retorted his friend; `but is there?  I haven't said a word to
+‘Of course I shan't butt in if there is an engagement,'
+retorted his friend; ‘but is there?  I haven't said a word to
 her of course; but I've seen enough of her to be pretty certain
 she doesn't think there is, even if she thinks there may be.
 He doesn't say there is, or even hint that there ought to be.
 It seems to me this shillyshallying is rather unfair on everybody.'
 
-`Especially on you, I suppose,' said Wood a little harshly.
-`But if you ask me, I'll tell you what I think--I think he's afraid.'
+‘Especially on you, I suppose,' said Wood a little harshly.
+‘But if you ask me, I'll tell you what I think--I think he's afraid.'
 
-`Afraid of being refused?' asked Payne.
+‘Afraid of being refused?' asked Payne.
 
-`No; afraid of being accepted,' answered the other.
-`Don't bite my head off--I don't mean afraid of the lady.
+‘No; afraid of being accepted,' answered the other.
+‘Don't bite my head off--I don't mean afraid of the lady.
 I mean afraid of the picture.'
 
-`Afraid of the picture!' repeated Payne.
+‘Afraid of the picture!' repeated Payne.
 
-`I mean afraid of the curse,' said Wood.  `Don't you remember
+‘I mean afraid of the curse,' said Wood.  ‘Don't you remember
 the rhyme about the Darnaway doom falling on him and her.'
 
-`Yes, but look here,' cried Payne; `even the Darnaway doom can't
+‘Yes, but look here,' cried Payne; ‘even the Darnaway doom can't
 have it both ways.  You tell me first that I mustn't have my own
 way because of the compact, and then that the compact mustn't
 have its own way because of the curse.  But if the curse can
@@ -16675,7 +16675,7 @@ anybody else, and there's an end of it.  Why should I suffer
 for the observance of something they don't propose to observe?
 It seems to me your position is very unreasonable.'
 
-`Of course it's all a tangle,' said Wood rather crossly,
+‘Of course it's all a tangle,' said Wood rather crossly,
 and went on hammering at the frame of a canvas.
 
 Suddenly, one morning, the new heir broke his long and
@@ -16684,7 +16684,7 @@ as was his way, but with an obvious anxiety to do the right thing.
 He asked frankly for advice, not of this or that individual
 as Payne had done, but collectively as of a crowd.
 When he did speak he threw himself on the whole company like a
-statesman going to the country.  He called it `a show--down'.
+statesman going to the country.  He called it ‘a show--down'.
 Fortunately the lady was not included in this large gesture;
 and Payne shuddered when he thought of her feelings.
 But the Australian was quite honest; he thought the natural
@@ -16746,7 +16746,7 @@ Un mattino, all'improvviso, il nuovo erede ruppe il suo lungo e sconcertante [[S
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_05" data-title="Incredulity — The Doom of the Darnaways (part 5)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_05" data-title="Incredulity — The Doom of the Darnaways (part 5)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
 The five men, including the doctor, were sitting round a table;
@@ -16760,7 +16760,7 @@ himself turned abruptly in his chair and began to talk.
 A moment after the dazed artist knew that he was talking
 about the most tremendous thing in the world.
 
-`Is there anything in it?' he was saying.  'That is
+‘Is there anything in it?' he was saying.  'That is
 what I've come to asking myself till I'm nearly crazy.
 I'd never have believed I should come to thinking of such things;
 but I think of the portrait and the rhyme and the coincidences
@@ -16777,8 +16777,8 @@ the problem of superstition being brought before that supremely
 superstitious tribunal.  He was sitting next to Darnaway
 and struck in before the priest could answer.
 
-`Well, the coincidences are curious, I admit,' he said,
-rather forcing a note of cheerfulness; `but surely we--`
+‘Well, the coincidences are curious, I admit,' he said,
+rather forcing a note of cheerfulness; ‘but surely we--‘
 and then he stopped as if he had been struck by lightning.
 For Darnaway had turned his head sharply over his shoulder at
 the interruption, and with the movement, his left eyebrow jerked up
@@ -16787,16 +16787,16 @@ glared at him with a ghastly exaggeration of exactitude.
 The rest saw it; and all had the air of having been dazzled
 by an instant of light.  The old steward gave a hollow groan.
 
-`It is no good,' he said hoarsely;' we are dealing with
+‘It is no good,' he said hoarsely;' we are dealing with
 something too terrible.'
 
-`Yes,' assented the priest in a low voice, `we are dealing
+‘Yes,' assented the priest in a low voice, ‘we are dealing
 with something terrible; with the most terrible thing I know,
 and the name of it is nonsense.'
 
-`What did you say?' said Darnaway, still looking towards him.
+‘What did you say?' said Darnaway, still looking towards him.
 
-`I said nonsense,' repeated the priest.  `I have not said
+‘I said nonsense,' repeated the priest.  ‘I have not said
 anything in particular up to now, for it was none of my business;
 I was only taking temporary duty in the neighbourhood and
 Miss Darnaway wanted to see me.  But since you're asking me
@@ -16807,42 +16807,42 @@ A man isn't fated to fall into the smallest venial sin,
 let alone into crimes like suicide and murder.  You can't be
 made to do wicked things against your will because your name
 is Darnaway, any more than I can because my name is Brown.
-The Doom of the Browns,' he added with relish--`the Weird
+The Doom of the Browns,' he added with relish--‘the Weird
 of the Browns would sound even better.'
 
-`And you of all people,' repeated the Australian, staring, `tell me
+‘And you of all people,' repeated the Australian, staring, ‘tell me
 to think like that about it.'
 
-`I tell you to think about something else,' replied the
-priest cheerfully.  `What has become of the rising art of photography?
+‘I tell you to think about something else,' replied the
+priest cheerfully.  ‘What has become of the rising art of photography?
 How is the camera getting on?  I know it's rather dark downstairs,
 but those hollow arches on the floor above could easily be turned
 into a first--rate photographic studio.  A few workmen could fit
 it out with a glass roof in no [[Time|time]].'
 
-`Really,' protested Martin Wood, `I do think you should be the last man
+‘Really,' protested Martin Wood, ‘I do think you should be the last man
 in the world to tinker about with those beautiful Gothic arches, which are
 about the best work your own religion has ever done in the world.
 I should have thought you'd have had some feeling for that sort of art;
 but I can't see why you should be so uncommonly keen on photography.'
 
-`I'm uncommonly keen on daylight,' answered Father Brown,
-`especially in this dingy business; and photography has
+‘I'm uncommonly keen on daylight,' answered Father Brown,
+‘especially in this dingy business; and photography has
 the virtue of depending on daylight.  And if you don't know
 that I would grind all the Gothic arches in the world to powder
 to save the [[Sanity|sanity]] of a single human [[Soul|soul]], you don't know
 so much about my religion as you think you do.'
 
 The young Australian had sprung to his feet like a man rejuvenated.
-`By George! that's the talk,' he cried; `though I never thought
+‘By George! that's the talk,' he cried; ‘though I never thought
 to hear it from that quarter.  I'll tell you what, reverend sir,
 I'll do something that will show I haven't lost my [[Courage|courage]] after all.'
 
 The old steward was still looking at him with quaking watchfulness,
 as if he felt something fey about the young man's defiance.
-`Oh,' he cried, `what are you going to do now?'
+‘Oh,' he cried, ‘what are you going to do now?'
 
-`I am going to photograph the portrait,' replied Darnaway.
+‘I am going to photograph the portrait,' replied Darnaway.
 
 Yet it was barely a week afterwards that the storm of the
 catastrophe seemed to stoop out of the sky, darkening that sun
@@ -16915,7 +16915,7 @@ Darnaway si era alzato all'alba il giorno in cui intendeva fotografare il mister
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_06" data-title="Incredulity — The Doom of the Darnaways (part 6)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_06" data-title="Incredulity — The Doom of the Darnaways (part 6)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
 Perhaps this was why he preferred to do it by himself,
@@ -16941,44 +16941,44 @@ The others were standing in the salon that led into the library,
 just under the great black ebony clock that looked like
 a titanic coffin.
 
-`How was Darnaway getting on,' asked Payne, a little later,
-`when you last went up?'
+‘How was Darnaway getting on,' asked Payne, a little later,
+‘when you last went up?'
 
-The priest passed a hand over his forehead.  `Don't tell
+The priest passed a hand over his forehead.  ‘Don't tell
 me I'm getting psychic,' he said with a sad smile.
-`I believe I'm quite dazzled with daylight up in that room
+‘I believe I'm quite dazzled with daylight up in that room
 and couldn't see things straight.  Honestly, I felt for a flash
 as if there were something uncanny about Darnaway's figure
 standing before that portrait.'
 
-`Oh, that's the lame leg,' said Barnet promptly.
-`We know all about that.'
+‘Oh, that's the lame leg,' said Barnet promptly.
+‘We know all about that.'
 
-`Do you know,' said Payne abruptly, but lowering his voice,
-`l don't think we do know all about it or anything about it.
+‘Do you know,' said Payne abruptly, but lowering his voice,
+‘l don't think we do know all about it or anything about it.
 What's the matter with his leg?  What was the matter with
 his ancestor's leg?'
 
-`Oh, there's something about that in the book I was reading in there,
-in the family archives,' said Wood; `I'll fetch it for you.'
+‘Oh, there's something about that in the book I was reading in there,
+in the family archives,' said Wood; ‘I'll fetch it for you.'
 And he stepped into the library just beyond.
 
-`I think,' said [[Father Brown]] quietly, `Mr Payne must have some particular
+‘I think,' said [[Father Brown]] quietly, ‘Mr Payne must have some particular
 reason for asking that.'
 
-`I may as [[Well|well]] blurt it out once and for all,' said Payne, but in
-a yet lower voice.  `After all, there is a rational explanation.
+‘I may as [[Well|well]] blurt it out once and for all,' said Payne, but in
+a yet lower voice.  ‘After all, there is a rational explanation.
 A man from anywhere might have made up to look like the portrait.
-What do we know about Darnaway?  He is behaving rather oddly--`
+What do we know about Darnaway?  He is behaving rather oddly--‘
 
 The others were staring at him in a rather startled fashion;
 but the priest seemed to take it very calmly.
 
-`I don't think the old portrait's ever been photographed,' he said.
-`That's why he wants to do it.  I don't think there's anything
+‘I don't think the old portrait's ever been photographed,' he said.
+‘That's why he wants to do it.  I don't think there's anything
 odd about that.'
 
-`Quite an ordinary state of things, in fact,' said Wood with a smile;
+‘Quite an ordinary state of things, in fact,' said Wood with a smile;
 he had just returned with the book in his hand.  And even as he spoke
 there was a stir in the clockwork of the great dark clock behind him and
 successive strokes thrilled through the room up to the number of seven.
@@ -16986,10 +16986,10 @@ With the last stroke there came a crash from the floor above that shook
 the house like a thunderbolt; and Father Brown was already two steps up
 the winding staircase before the sound had ceased.
 
-`My God!' cried Payne involuntarily; `he is alone up there.'
+‘My God!' cried Payne involuntarily; ‘he is alone up there.'
 
-`Yes,' said [[Father Brown]] without turning, as he vanished up the stairway.
-`We shall find him alone.'
+‘Yes,' said [[Father Brown]] without turning, as he vanished up the stairway.
+‘We shall find him alone.'
 
 When the rest recovered from their first paralysis and ran helter--
 skelter up the stone steps and found their way to the new studio,
@@ -17014,18 +17014,18 @@ As he was about to say something soothing, the old man
 seemed suddenly to start awake and stiffen into anger;
 his mutterings changed to a fierce cry.
 
-`You!' he cried; `you and your daylight!  Even you won't say
+‘You!' he cried; ‘you and your daylight!  Even you won't say
 now there is no Doom for the Darnaways.'
 
-`My opinion about that is unchanged,' said [[Father Brown]] mildly.
-Then after a pause he added:  `I hope you will observe poor
+‘My opinion about that is unchanged,' said [[Father Brown]] mildly.
+Then after a pause he added:  ‘I hope you will observe poor
 Darnaway's last wish, and see the photograph is sent off.'
 
-`The photograph!' cried the doctor sharply.  `What's the good of that?
+‘The photograph!' cried the doctor sharply.  ‘What's the good of that?
 As a matter of fact, it's rather curious; but there isn't any photograph.
 It seems he never took it after all, after pottering about all day.'
 
-Father Brown swung round sharply.  `Then take it yourselves,' he said.
+Father Brown swung round sharply.  ‘Then take it yourselves,' he said.
 'Poor Darnaway was perfectly right.  It's most important that the
 photograph should be taken.'
 
@@ -17090,29 +17090,29 @@ Mentre tutti i visitatori, il dottore, il sacerdote e i due artisti si allontana
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_07" data-title="Incredulity — The Doom of the Darnaways (part 7)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_07" data-title="Incredulity — The Doom of the Darnaways (part 7)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
-`I'm afraid everybody will always believe in the Darnaway
+‘I'm afraid everybody will always believe in the Darnaway
 superstition now,' said Martin Wood.
 
-`I know one who won't,' said the doctor sharply.
-`Why should I indulge in superstition because somebody else
+‘I know one who won't,' said the doctor sharply.
+‘Why should I indulge in superstition because somebody else
 indulges in suicide?'
 
-`You think poor Mr Darnaway committed [[suicide]]?' asked the priest.
+‘You think poor Mr Darnaway committed [[suicide]]?' asked the priest.
 
-`I'm sure he committed suicide,' replied the doctor.
+‘I'm sure he committed suicide,' replied the doctor.
 
-`It is possible,' agreed the other.
+‘It is possible,' agreed the other.
 
-`He was quite alone up there, and he had a whole drug--
+‘He was quite alone up there, and he had a whole drug--
 store of poisons in the dark room.  Besides, it's just the sort
 of thing that Darnaways do.'
 
-`You don't think there's anything in the fulfilment of the family curse?'
+‘You don't think there's anything in the fulfilment of the family curse?'
 
-`Yes,' said the doctor; `I believe in one family curse, and that is
+‘Yes,' said the doctor; ‘I believe in one family curse, and that is
 the family constitution.  I told you it was heredity, and they are all
 half mad.  If you stagnate and breed in and brood in your own swamp
 like that, you're bound to degenerate whether you like it or not.
@@ -17129,13 +17129,13 @@ the Darnaways, a tragic mask pale against an unfathomable blackness,
 but itself of a blinding and more than mortal [[Beauty|beauty]].
 He opened his mouth to speak and found himself speechless.
 
-`I see,' said Father Brown to the doctor; `so you do believe
+‘I see,' said Father Brown to the doctor; ‘so you do believe
 in the superstition after all?'
 
-`What do you mean--believe in the superstition?
+‘What do you mean--believe in the superstition?
 I believe in the suicide as a matter of scientific necessity.'
 
-`[[Well]],' replied the priest, `I don't see a pin to choose between
+‘[[Well]],' replied the priest, ‘I don't see a pin to choose between
 your scientific superstition and the other magical superstition.
 They both seem to end in turning people into paralytics, who can't
 move their own legs or arms or save their own lives or souls.
@@ -17143,18 +17143,18 @@ The rhyme said it was the Doom of the Darnaways to be killed,
 and the scientific textbook says it is the Doom of the Darnaways
 to kill themselves.  Both ways they seem to be slaves.'
 
-`But I thought you said you believed in rational views of these things,'
-said Dr Barnet.  `Don't you believe in heredity?'
+‘But I thought you said you believed in rational views of these things,'
+said Dr Barnet.  ‘Don't you believe in heredity?'
 
-`I said I believed in daylight,' replied the priest in a loud and
-clear voice, `and I won't choose between two tunnels of subterranean
+‘I said I believed in daylight,' replied the priest in a loud and
+clear voice, ‘and I won't choose between two tunnels of subterranean
 superstition that both end in the dark.  And the proof of it is this:
 that you are all entirely in the dark about what really happened
 in that house.'
 
-`Do you mean about the [[suicide]]?' asked Payne.
+‘Do you mean about the [[suicide]]?' asked Payne.
 
-`I mean about the murder,' said Father Brown; and his voice,
+‘I mean about the murder,' said Father Brown; and his voice,
 though only slightly lifted to a louder note, seemed somehow
 to resound over the whole shore.'  It was murder; but murder
 is of the will, which God made free.'
@@ -17180,9 +17180,9 @@ some forgotten saint left behind in the land of death.
 She looked up, and an expression of wonder made her face
 yet more wonderful.
 
-`What is it?' she said.'  Why have you come back?'
+‘What is it?' she said.'  Why have you come back?'
 
-`I have come for the Sleeping Beauty,' he said in a tone that had
+‘I have come for the Sleeping Beauty,' he said in a tone that had
 the resonance of a laugh.  'This old house went to sleep long ago,
 as the doctor said; but it is silly for you to pretend to be old.
 Come up into the daylight and hear the truth.  I have brought you a word;
@@ -17205,10 +17205,10 @@ But now he laid a hand on the bronze triton that was like the hand
 of a giant, and shook it as if he meant to hurl it over like an idol
 or an evil god of the garden.
 
-`What do you mean?' she asked steadily.  `What is this word
+‘What do you mean?' she asked steadily.  ‘What is this word
 that will set us free?'
 
-`The word is murder,' he said, `and the freedom it brings is as fresh
+‘The word is murder,' he said, ‘and the freedom it brings is as fresh
 as the flowers of spring.  No; I do not mean I have murdered anybody.
 But the fact that anybody can be murdered is itself good news,
 after the evil dreams you have been living in.  Don't you understand?
@@ -17273,26 +17273,26 @@ Ella non capì una sola parola di ciò che diceva, ma qualcosa la spinse ad alza
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_08" data-title="Incredulity — The Doom of the Darnaways (part 8)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_08" data-title="Incredulity — The Doom of the Darnaways (part 8)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
-She suddenly smiled.  `Yes, I believe I understand.
+She suddenly smiled.  ‘Yes, I believe I understand.
 I suppose you are talking like a lunatic, but I understand.
 But who murdered him?'
 
-`I do not know,' he answered calmly, `but [[Father Brown]] knows.
+‘I do not know,' he answered calmly, ‘but [[Father Brown]] knows.
 And as [[Father Brown]] says, murder is at least done by the will,
 free as that [[Wind|wind]] from the sea.'
 
-`Father Brown is a wonderful person,' she said after a pause;
-`he was the only person who ever brightened my existence
-in any way at all until--`
+‘Father Brown is a wonderful person,' she said after a pause;
+‘he was the only person who ever brightened my existence
+in any way at all until--‘
 
-`Until what?' asked Payne, and made a movement almost impetuous,
+‘Until what?' asked Payne, and made a movement almost impetuous,
 leaning towards her and thrusting away the bronze [[Monster|monster]] so that it
 seemed to rock on its pedestal.
 
-`Well, until you did,' she said and smiled again.
+‘Well, until you did,' she said and smiled again.
 
 So was the sleeping palace awakened, and it is no part of this story
 to describe the stages of its awakening, though much of it had come
@@ -17305,7 +17305,7 @@ He would have had no difficulty in picturing all that place
 again in flower, and the bronze triton bright as a golden
 god and the fountain flowing with water or with wine.
 But all this brightness and blossoming had been unfolded for him
-by the one word `murder', and it was still a word that he did
+by the one word ‘murder', and it was still a word that he did
 not understand.  He had taken it on trust, and he was not unwise;
 for he was one of those who have a sense of the sound of [[Truth|truth]].
 
@@ -17322,40 +17322,40 @@ that he had managed to photograph it with a magnesium flare.
 Before sending it to the antiquary, as originally arranged,
 he brought it to the priest who had so pressingly demanded it.
 
-`I can't understand your attitude about all this.  Father Brown,'
+‘I can't understand your attitude about all this.  Father Brown,'
 he said.'  You act as if you had already solved the problem in some
 way of your own.'
 
-The priest shook his head mournfully.  `Not a bit of it,'
-he answered.  `I must be very stupid, but I'm quite stuck;
+The priest shook his head mournfully.  ‘Not a bit of it,'
+he answered.  ‘I must be very stupid, but I'm quite stuck;
 stuck about the most practical point of all.
 It's a queer business; so simple up to a point and then--
 Let me have a look at that photograph, will you?'
 
 He held it close to his screwed, short--sighted eyes for a moment,
-and then said:  `Have you got a magnifying glass?'
+and then said:  ‘Have you got a magnifying glass?'
 
 Payne produced one, and the priest looked through it
 intently for some [[Time|time]] and then said:'  Look at the title
 of that book at the edge of the bookshelf beside the frame;
-it's `The History of Pope Joan'.  Now, I wonder ... yes,
+it's ‘The History of Pope Joan'.  Now, I wonder ... yes,
 by George; and the one above is something or other of Iceland.
 Lord! what a queer way to find it out!  What a dolt and donkey
 I was not to notice it when I was there!'
 
-`But what have you found out?' asked Payne impatiently.
+‘But what have you found out?' asked Payne impatiently.
 
-`The last link,' said Father Brown, `and I'm not stuck any longer.
+‘The last link,' said Father Brown, ‘and I'm not stuck any longer.
 Yes; I think I know how that unhappy story went from first to last now.'
 
-`But why?' insisted the other.
+‘But why?' insisted the other.
 
-`Why, because,' said the priest with a smile, `the Darnaway
+‘Why, because,' said the priest with a smile, ‘the Darnaway
 library contained books about Pope Joan and Iceland, not to
-mention another I see with the title beginning `The Religion
+mention another I see with the title beginning ‘The Religion
 of Frederick', which is not so very hard to fill up.'
 Then, seeing the other's annoyance, his smile faded and he said
-more earnestly:  `As a matter of fact, this last point,
+more earnestly:  ‘As a matter of fact, this last point,
 though it is the last link, is not the main business.
 There were much more curious things in the case than that.
 One of them is rather a curiosity of evidence.
@@ -17363,10 +17363,10 @@ Let me begin by saying something that may surprise you.
 Darnaway did not die at seven o'clock that evening.
 He had been already dead for a whole day.'
 
-`Surprise is rather a mild word,' said Payne grimly, `since you
+‘Surprise is rather a mild word,' said Payne grimly, ‘since you
 and I both saw him walking about afterwards.'
 
-`No, we did not,' replied [[Father Brown]] quietly.  `I think we both saw him,
+‘No, we did not,' replied [[Father Brown]] quietly.  ‘I think we both saw him,
 or thought we saw him, fussing about with the focusing of his camera.
 Wasn't his head under that black cloak when you passed through the room?
 It was when I did.  And that's why I felt there was something queer
@@ -17376,28 +17376,28 @@ of dark clothes; but if you see what you believe to be one man standing
 in the way that another man stands, you will think he's in a strange
 and strained attitude.'
 
-`Do you really mean,' cried Payne with something like a shudder,
-`that it was some unknown man?'
+‘Do you really mean,' cried Payne with something like a shudder,
+‘that it was some unknown man?'
 
-`It was the murderer,' said [[Father Brown]].  `He had already
+‘It was the murderer,' said [[Father Brown]].  ‘He had already
 killed Darnaway at daybreak and hid the corpse and himself
 in the dark room--an excellent hiding--place, because nobody
 normally goes into it or can see much if he does.
 But he let it fall out on the floor at seven o'clock, of course,
 that the whole thing might be explained by the curse.'
 
-`But I don't understand' observed Payne.  `Why didn't he kill him
+‘But I don't understand' observed Payne.  ‘Why didn't he kill him
 at seven o'clock then, instead of loading himself with a corpse
 for fourteen hours?'
 
-`Let me ask you another question,' said the priest.
-`Why was there no photograph taken?  Because the murderer made sure
+‘Let me ask you another question,' said the priest.
+‘Why was there no photograph taken?  Because the murderer made sure
 of killing him when he first got up, and before he could take it.
 It was essential to the murderer to prevent that photograph
 reaching the expert on the Darnaway antiquities.'
 
 There was a sudden silence for a moment, and then the priest went on
-in a lower tone:  `Don't you see how simple it is?  Why, you yourself saw
+in a lower tone:  ‘Don't you see how simple it is?  Why, you yourself saw
 one side of the possibility; but it's simpler even than you thought.
 You said a man might be faked to resemble an old picture.
 Surely it's simpler that a picture should be faked to resemble a man.
@@ -17543,11 +17543,11 @@ a causare la [[Death|morte]] di un altro uomo per derubarlo della sposa promessa
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_09" data-title="Incredulity — The Doom of the Darnaways (part 9)" data-chapter="Story 07 The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_09" data-title="Incredulity — The Doom of the Darnaways (part 9)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
 
 
 The priest suddenly gave Payne a sad smile, as if in reassurance.
-`For the moment I believe you thought I meant you,' he said,'
+‘For the moment I believe you thought I meant you,' he said,'
 but you were not the only person who haunted that house for
 sentimental reasons.  You know the man, or rather you think you do.
 But there were depths in the man called Martin Wood, artist and antiquary,
@@ -17559,13 +17559,13 @@ not be surprised at things turning up they had never noticed before.
 It had to be done well, and it was; perhaps he was right when he said
 that if it wasn't Holbein it was somebody of the same genius.'
 
-`I feel rather stunned,' said Payne; `and there are twenty things
+‘I feel rather stunned,' said Payne; ‘and there are twenty things
 I don't see yet.  How did he know what Darnaway looked like?
 How did he actually kill him?  The doctors seem rather
 puzzled at present.'
 
-`I saw a photograph the lady had which the Australian sent on before him,'
-said the priest, `and there are several ways in which he could
+‘I saw a photograph the lady had which the Australian sent on before him,'
+said the priest, ‘and there are several ways in which he could
 have learned things when the new heir was once recognized.
 We may not know these details; but they are not difficulties.
 You remember he used to help in the dark room; it seems to me
@@ -17579,30 +17579,30 @@ And I was such a fool that I never looked at the books in the library;
 and it was only in this photograph, by very undeserved good luck,
 that I saw the simple fact of a book about Pope Joan.'
 
-`You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly.
-`What on earth can Pope Joan have to do with it?'
+‘You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly.
+‘What on earth can Pope Joan have to do with it?'
 
-`Don't forget the book about the Something of Iceland,'
-advised the priest, `or the religion of somebody called Frederick.
+‘Don't forget the book about the Something of Iceland,'
+advised the priest, ‘or the religion of somebody called Frederick.
 It only remains to ask what sort of man was the late Lord Darnaway.'
 
-`Oh, does it?' observed Payne heavily.
+‘Oh, does it?' observed Payne heavily.
 
-`He was a cultivated, humorous sort of eccentric, I believe,'
-went on Father Brown.  `Being cultivated, he knew there was no
+‘He was a cultivated, humorous sort of eccentric, I believe,'
+went on Father Brown.  ‘Being cultivated, he knew there was no
 such person as Pope Joan.  Being humorous, he was very likely
-to have thought of the title of `The Snakes of Iceland'
+to have thought of the title of ‘The Snakes of Iceland'
 or something else that didn't exist.  I venture to reconstruct
-the third title as `The Religion of Frederick the Great'--
+the third title as ‘The Religion of Frederick the Great'--
 which also doesn't exist.  Now, doesn't it strike you that those would
 be just the titles to put on the backs of books that didn't exist;
 or in other words on a bookcase that wasn't a book--case?'
 
-`Ah!' cried Payne; `I see what you mean now.  There was
-some hidden staircase--`
+‘Ah!' cried Payne; ‘I see what you mean now.  There was
+some hidden staircase--‘
 
-`Up to the room Wood himself selected as a dark room,'
-said the priest nodding.  `I'm sorry.  It couldn't be helped.
+‘Up to the room Wood himself selected as a dark room,'
+said the priest nodding.  ‘I'm sorry.  It couldn't be helped.
 It's dreadfully banal and stupid, as stupid as I have been on this
 pretty banal case.  But we were mixed up in a real musty old
 romance of decayed gentility and a fallen family mansion; and it
@@ -17632,7 +17632,7 @@ Il sacerdote rivolse a un tratto a Payne un sorriso mesto, quasi a rassicurarlo.
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_01" data-title="Incredulity — The Ghost of Gideon Wise (part 1)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_01" data-title="Incredulity — The Ghost of Gideon Wise (part 1)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
 EIGHT:  The Ghost of Gideon Wise
@@ -17689,35 +17689,35 @@ he belonged, as we should say in England, to the Manchester School;
 and Gallup was always trying to persuade him to cut out competition
 and pool the resources of the world.
 
-`You'll have to come in, old fellow, sooner or later,'
-Gallup was saying genially as Byrne entered.  `It's the way the world
+‘You'll have to come in, old fellow, sooner or later,'
+Gallup was saying genially as Byrne entered.  ‘It's the way the world
 is going, and we can't go back to the one--man--business now.
 We've all got to stand together.'
 
-`If I might say a word,' said Stein, in his tranquil way, `I would
+‘If I might say a word,' said Stein, in his tranquil way, ‘I would
 say there is something a little more urgent even than standing
 together commercially.  Anyhow, we must stand together politically;
 and that's why I've asked Mr Byrne to meet us here today.
 On the political issue we must combine; for the simple reason
 that all our most dangerous enemies are already combined.'
 
-`Oh, I quite agree about political combination,' grumbled Gideon Wise.
+‘Oh, I quite agree about political combination,' grumbled Gideon Wise.
 
-`See here,' said Stein to the journalist; `I know you have the run
+‘See here,' said Stein to the journalist; ‘I know you have the run
 of these queer places, Mr Byrne, and I want you to do something
 for us unofficially.  You know where these men meet; there are
 only two or three of them that count, John Elias and Jake Halket,
 who does all the spouting, and perhaps that poet fellow [[Home]].'
 
-`Why Home used to be a friend of Gideon,' said the jeering Mr Gallup;
-`used to be in his [[Sunday]] School class or something.'
+‘Why Home used to be a friend of Gideon,' said the jeering Mr Gallup;
+‘used to be in his [[Sunday]] School class or something.'
 
-`He was a Christian, then,' said old Gideon solemnly; `but when a man
+‘He was a Christian, then,' said old Gideon solemnly; ‘but when a man
 takes up with atheists you never know.  I still meet him now and then.
 I was quite ready to back him against war and conscription and all that,
-of course, but when it comes to all the goddam bolshies in creation--`
+of course, but when it comes to all the goddam bolshies in creation--‘
 
-`Excuse me,' interposed Stein, `the matter is rather urgent,
+‘Excuse me,' interposed Stein, ‘the matter is rather urgent,
 so I hope you will excuse me putting it before Mr Byrne at once.
 Mr Byrne, I may tell you in confidence that I hold information,
 or rather evidence that would land at least two of those men in prison
@@ -17726,18 +17726,18 @@ I don't want to use that evidence.  But I want you to go to them
 quietly and tell them that I shall use it, and use it tomorrow,
 unless they alter their attitude.'
 
-`[[Well]],' replied Byrne, `what you propose would certainly
+‘[[Well]],' replied Byrne, ‘what you propose would certainly
 be called compounding a felony and might be called blackmail,
 Don't you think it is rather dangerous?'
 
-`I think it is rather dangerous for them,' said Stein with a snap;
-`and I want you to go and tell them so.'
+‘I think it is rather dangerous for them,' said Stein with a snap;
+‘and I want you to go and tell them so.'
 
-`Oh, very [[Well|well]],' said Byrne standing up, with a half humorous sigh.
-`It's all in the day's work; but if I get into trouble, I warn you I
+‘Oh, very [[Well|well]],' said Byrne standing up, with a half humorous sigh.
+‘It's all in the day's work; but if I get into trouble, I warn you I
 shall try to drag you into it.'
 
-`You will try, boy,' said old Gallup with a hearty laugh.
+‘You will try, boy,' said old Gallup with a hearty laugh.
 
 For so much still lingers of that great dream of Jefferson and,
 the thing that men have called [[democracy|Democracy]] that in his country,
@@ -17805,7 +17805,7 @@ Il luogo d'incontro dei rivoluzionari era uno strano ambiente spoglio e imbianca
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_02" data-title="Incredulity — The Ghost of Gideon Wise (part 2)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_02" data-title="Incredulity — The Ghost of Gideon Wise (part 2)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
 The third man also had a curious taste in drinks, and his drink was
@@ -17827,43 +17827,43 @@ few golden hairs were all he could do.
 
 When the journalist entered, the notorious Jake was talking,
 as he generally was.  [[Home]] had uttered some casual and conventional
-phrase about `Heaven forbid' something or other, and this was quite
+phrase about ‘Heaven forbid' something or other, and this was quite
 enough to set Jake off with a torrent of profanity.
 
-`Heaven forbid! and that's about all it bally [[Well|well]] does do,' he said.
-`Heaven never does anything but forbid this, that and the other;
+‘Heaven forbid! and that's about all it bally [[Well|well]] does do,' he said.
+‘Heaven never does anything but forbid this, that and the other;
 forbids us to strike, and forbids us to fight, and forbids us to shoot
 the damned usurers and blood--suckers where they sit.  Why doesn't
 Heaven forbid them something for a bit?  Why don't the damned priests
 and parsons stand up and tell the truth about those brutes for a change?
-Why doesn't their precious God--`
+Why doesn't their precious God--‘
 
 Elias allowed a gentle sigh, as of faint fatigue, to escape him.
 
-`Priests,' he said, `belonged, as Marx has shown, to the feudal stage
+‘Priests,' he said, ‘belonged, as Marx has shown, to the feudal stage
 of economic development and are therefore no longer really any part
 of the problem.  The part once played by the priest is now played
-by the capitalist expert and--`
+by the capitalist expert and--‘
 
-`Yes,' interrupted the journalist, with his grim and ironic implacability,
-`and it's about time you knew that some of them are jolly expert in
+‘Yes,' interrupted the journalist, with his grim and ironic implacability,
+‘and it's about time you knew that some of them are jolly expert in
 playing it.'  And without moving his own eyes from the bright but dead
 eyes of Elias, he told him of the threat of Stein.
 
-`I was prepared for something of that sort,' said the smiling
-Elias without moving; `I may say quite prepared.'
+‘I was prepared for something of that sort,' said the smiling
+Elias without moving; ‘I may say quite prepared.'
 
-`Dirty [[dogs]]!' exploded Jake.  `If a poor man said a thing
+‘Dirty [[dogs]]!' exploded Jake.  ‘If a poor man said a thing
 like that he'd go to penal servitude.  But I reckon they'll go
 somewhere worse before they guess.  If they don't go to hell,
-I don't know where the hell they'll go to--`
+I don't know where the hell they'll go to--‘
 
 [[Home]] made a movement of protest, perhaps not so much at what the man
 was saying as at what he was going to say, and Elias cut the speech
 short with cold exactitude.
 
-`It is quite unnecessary for us,' he said, looking at Byrne steadily
-through his spectacles, `to bandy threats with the other side.
+‘It is quite unnecessary for us,' he said, looking at Byrne steadily
+through his spectacles, ‘to bandy threats with the other side.
 It is quite sufficient that their threats are quite ineffective so far
 as we are concerned.  We also have made all our own arrangements,
 and some of them will not appear until they appear in motion.
@@ -17888,18 +17888,18 @@ of it blocked by a strange though strangely familiar figure:
 short and sturdy, and looking rather quaint when seen in dark
 outline with its round head and wide hat.
 
-`Father Brown!' cried the astonished journalist.
-`I think you must have come into the wrong door.
+‘Father Brown!' cried the astonished journalist.
+‘I think you must have come into the wrong door.
 You're not likely to be in this little conspiracy.'
 
-`Mine is a rather older conspiracy,' replied Father Brown smiling,'
+‘Mine is a rather older conspiracy,' replied Father Brown smiling,'
 but it is quite a widespread conspiracy.'
 
-`[[Well]],' replied Byrne,' you can't imagine any of the people here being
+‘[[Well]],' replied Byrne,' you can't imagine any of the people here being
 within a thousand miles of your concern.'
 
-`It is not always easy to tell,' replied the priest equably;
-`but as a matter of fact, there is one person here who's within
+‘It is not always easy to tell,' replied the priest equably;
+‘but as a matter of fact, there is one person here who's within
 an inch of it.'
 
 He disappeared into the dark entrance and the journalist went
@@ -17913,18 +17913,18 @@ Down these steps ran an active young man with black hair,
 a snub nose, and a flower in his buttonhole, who seized him
 and drew him aside before he could ascend the stair.
 
-`I say,' whispered the young man, `I'm Potter--old Gid's secretary,
+‘I say,' whispered the young man, ‘I'm Potter--old Gid's secretary,
 you know:  now, between ourselves, there is a sort of a thunderbolt
 being forged, isn't there, now?'
 
-`I came to the conclusion,' replied Byrne cautiously,
-`that the Cyclops had something on the anvil.  But always
+‘I came to the conclusion,' replied Byrne cautiously,
+‘that the Cyclops had something on the anvil.  But always
 remember that the Cyclops is a giant, but he has only one eye.
-I think Bolshevism is--`
+I think Bolshevism is--‘
 
 While he was speaking the secretary listened with a face that had
 a certain almost Mongolian immobility, despite the liveliness of his
-legs and his attire.  But when Byrne said the word `Bolshevism',
+legs and his attire.  But when Byrne said the word ‘Bolshevism',
 the young man's sharp eyes shifted and he said quickly:
 
 
@@ -17972,10 +17972,10 @@ Mentre parlava, il segretario ascoltava con un volto che aveva una certa immobil
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_03" data-title="Incredulity — The Ghost of Gideon Wise (part 3)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_03" data-title="Incredulity — The Ghost of Gideon Wise (part 3)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
-`What has that--oh yes, that sort of thunderbolt; so sorry, my mistake.
+‘What has that--oh yes, that sort of thunderbolt; so sorry, my mistake.
 So easy to say anvil when you mean ice--box.'
 
 With which the extraordinary young man disappeared down the steps
@@ -17993,8 +17993,8 @@ Of this, as Byrne knew little, he said less; and the four men
 eventually rose from their seats, the last word being with the man
 who had been most silent.
 
-`Thank you, Mr Byrne,' said Stein, folding up his eyeglasses.
-`It only remains to say that everything is ready; on that point
+‘Thank you, Mr Byrne,' said Stein, folding up his eyeglasses.
+‘It only remains to say that everything is ready; on that point
 I quite agree with Mr Elias.  Tomorrow, before noon, the police
 will have arrested Mr Elias, on evidence I shall by then
 have put before them, and those three at least will be in jail
@@ -18006,7 +18006,7 @@ for a reason that has often interrupted the activities of such
 industrious characters.  He did not do it because he happened to be dead;
 and none of the rest of the programme was carried out, for a reason
 which Byrne found displayed in gigantic letters when he opened his
-morning paper:  `Terrific Triple Murder:  Three Millionaires Slain
+morning paper:  ‘Terrific Triple Murder:  Three Millionaires Slain
 in One [[Night]].'  Other exclamatory phrases followed in smaller letters,
 only about four times the size of normal type, which insisted on
 the special feature of the mystery:  the fact that the three men had been
@@ -18072,13 +18072,13 @@ of a very unofficial obituary notice of the late Gideon Wise.
 Elias sat quite still and apparently indifferent behind those
 spectacles that masked his eyes.
 
-`It would be useless, I suppose,' said Nares coldly,
-`to tell you that your remarks are indecent.
+‘It would be useless, I suppose,' said Nares coldly,
+‘to tell you that your remarks are indecent.
 It may affect you more if I tell you they are imprudent.
 You practically admit that you hated the dead man.'
 
-`Going to put me in quod for that, are you?' jeered the demagogue.
-`All right.  Only you'll have to build a [[Prison|prison]] for a million men if
+‘Going to put me in quod for that, are you?' jeered the demagogue.
+‘All right.  Only you'll have to build a [[Prison|prison]] for a million men if
 you're going to jail all the poor people who had reason to hate Gid Wise.
 And you know it's God [[Truth|truth]] as [[Well|well]] as I do.'
 
@@ -18107,14 +18107,14 @@ Jake Halket, come al solito, parlava più di tutti; e da un uomo del suo stampo 
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_04" data-title="Incredulity — The Ghost of Gideon Wise (part 4)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_04" data-title="Incredulity — The Ghost of Gideon Wise (part 4)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
 Nares was silent; and nobody spoke until Elias interposed with his clear
 though faintly lisping drawl.
 
-`This appears to me to be a highly unprofitable discussion on both sides,'
-he said.  `You have summoned us here either to ask us for information
+‘This appears to me to be a highly unprofitable discussion on both sides,'
+he said.  ‘You have summoned us here either to ask us for information
 or to subject us to [[Cross|cross]]--examination.  If you trust us, we tell you we
 have no information.  If you distrust us, you must tell us of what we
 are accused, or have the politeness to keep the fact to yourselves.
@@ -18128,16 +18128,16 @@ his example.  As they went towards the door, young [[Home]]
 turned back and faced the investigators for a moment with his
 pale fanatical face.
 
-`I wish to say,' he said, `that I went to a filthy jail during
+‘I wish to say,' he said, ‘that I went to a filthy jail during
 the whole war because I would not consent to kill a man.'
 
 With that they passed out, and the members of the group remaining
 looked grimly at each other.
 
-`I hardly think,' said Father Brown, `that we remain entirely victorious,
+‘I hardly think,' said Father Brown, ‘that we remain entirely victorious,
 in spite of the retreat.'
 
-`I don't mind anything,' said Nares, `except being
+‘I don't mind anything,' said Nares, ‘except being
 bullyragged by that blasphemous blackguard Halket.
 [[Home]] is a gentleman, anyhow.  But whatever they say, I am
 dead certain they know; they are in it, or most of them are.
@@ -18148,27 +18148,27 @@ What do you think, [[Father Brown]]?'
 The person addressed looked across at Nares with a gaze almost
 disconcertingly mild and meditative.
 
-`It is quite true,' he said, `that I have formed an idea
+‘It is quite true,' he said, ‘that I have formed an idea
 that one particular person knows more than he has told us.
 But I think it would be [[Well|well]] if I did not mention his
 name just yet.'
 
 Nares' eyeglass dropped from his eye, and he looked up sharply.
-`This is unofficial so far,' he said.  `I suppose you know
+‘This is unofficial so far,' he said.  ‘I suppose you know
 that at a later stage if you withhold information, your position
 may be serious.'
 
-`My position is simple,' replied the priest.  `I am here
+‘My position is simple,' replied the priest.  ‘I am here
 to look after the legitimate interests of my friend Halket.
 I think it will be in his interest, under the circumstances,
 if I tell you I think he will before long sever his connexion
 with this organization, and cease to be a Socialist in that sense.
 I have every reason to believe he will probably end as a Catholic.'
 
-`Halket!' exploded the other incredulously.  `Why he curses priests
+‘Halket!' exploded the other incredulously.  ‘Why he curses priests
 from morning till [[Night|night]]!'
 
-`I don't think you quite understand that kind of man,'
+‘I don't think you quite understand that kind of man,'
 said Father Brown mildly.  'He curses priests for failing
 (in his opinion) to defy the whole world for justice.
 Why should he expect them to defy the whole world for justice,
@@ -18177,59 +18177,59 @@ But we haven't met here to discuss the psychology of conversion.
 I only mention this because it may simplify your task--
 perhaps narrow your search.'
 
-`If it is true, it would jolly [[Well|well]] narrow it to that narrow--
+‘If it is true, it would jolly [[Well|well]] narrow it to that narrow--
 faced rascal Elias--and I shouldn't [[Wonder|wonder]], for a more creepy,
 coldblooded, sneering devil I never saw.'
 
-[[Father Brown]] sighed.  `He always reminded me of poor Stein,'
+[[Father Brown]] sighed.  ‘He always reminded me of poor Stein,'
 he said, 'in fact I think he was some relation.'
 
-`Oh, I say,' began Nares, when his protest was cut short by the door
+‘Oh, I say,' began Nares, when his protest was cut short by the door
 being flung open, revealing once more the long loose figure and pale
 face of young [[Home]]; but it seemed as if he had not merely his natural,
 but a new and unnatural pallor.
 
-`Hullo,' cried Nares, putting up his single eyeglass, `why have you
+‘Hullo,' cried Nares, putting up his single eyeglass, ‘why have you
 come back again?'
 
 [[Home]] crossed the room rather shakily without a word and sat
 down heavily in a chair.  Then he said, as in a sort of daze:
-`I missed the others ... I lost my way.  I thought I'd
+‘I missed the others ... I lost my way.  I thought I'd
 better come back.'
 
 The remains of evening refreshments were on the table,
 and Henry Home, that lifelong Prohibitionist, poured himself
 out a wine--glassful of liqueur brandy and drank it at a gulp.
-`You seem upset,' said [[Father Brown]].
+‘You seem upset,' said [[Father Brown]].
 
 [[Home]] had put his hands to his forehead and spoke as from under
 the [[Shadow|shadow]] of it:  he seemed to be speaking to the priest only,
 in a low voice.
 
-`I may as well tell you.  I have seen a ghost.'
+‘I may as well tell you.  I have seen a ghost.'
 
-`A [[Ghost|ghost]]!' repeated Nares in astonishment.  `Whose ghost?'
+‘A [[Ghost|ghost]]!' repeated Nares in astonishment.  ‘Whose ghost?'
 
-`The [[Ghost|ghost]] of Gideon Wise, the master of this [[house]],' answered [[Home]]
-more firmly, `standing over the abyss into which he fell.'
+‘The [[Ghost|ghost]] of Gideon Wise, the master of this [[house]],' answered [[Home]]
+more firmly, ‘standing over the abyss into which he fell.'
 
-`Oh, nonsense!' said Nares; `no sensible person believes in ghosts.'
+‘Oh, nonsense!' said Nares; ‘no sensible person believes in ghosts.'
 
-`That is hardly exact,' said [[Father Brown]], smiling a little.
-`There is really quite as good evidence for many ghosts as there
+‘That is hardly exact,' said [[Father Brown]], smiling a little.
+‘There is really quite as good evidence for many ghosts as there
 is for most crimes.'
 
-`[[Well]], it's my business to run after the criminals,' said Nares rather
-roughly, `and I will leave other people to run away from the ghosts.
+‘[[Well]], it's my business to run after the criminals,' said Nares rather
+roughly, ‘and I will leave other people to run away from the ghosts.
 If anybody at this time of day chooses to be frightened of ghosts
 it's his affair.'
 
-`I didn't say I was frightened of them, though I dare say I
-might be,' said [[Father Brown]].  `Nobody knows till he tries.
+‘I didn't say I was frightened of them, though I dare say I
+might be,' said [[Father Brown]].  ‘Nobody knows till he tries.
 I said I believed in them, at any rate, enough to want to hear
 more about this one.  What, exactly, did you see, Mr Home?'
 
-`It was over there on the brink of those crumbling cliffs; you know
+‘It was over there on the brink of those crumbling cliffs; you know
 there is a sort of gap or crevice just about the spot where he was
 thrown over.  The others had gone on ahead, and I was crossing
 the moor towards the path along the cliff.  I often went that way,
@@ -18308,29 +18308,29 @@ Sul tavolo c'erano gli avanzi dei rinfreschi serali, ed Henry Home, quel proibiz
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_05" data-title="Incredulity — The Ghost of Gideon Wise (part 5)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_05" data-title="Incredulity — The Ghost of Gideon Wise (part 5)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
-`And it was Gideon Wise, you say?'
+‘And it was Gideon Wise, you say?'
 
 Home nodded without speech.  There was a silence broken abruptly
 by Nares rising to his feet; so abruptly indeed that he knocked
 a chair over.
 
-`Oh, this is all nonsense,' he said, `but we'd better go out and see.'
+‘Oh, this is all nonsense,' he said, ‘but we'd better go out and see.'
 
-`I won't go,' said [[Home]] with sudden violence.  `I'll never walk
+‘I won't go,' said [[Home]] with sudden violence.  ‘I'll never walk
 by that path again.'
 
-`I think we must all walk by that path tonight,' said the priest gravely;
+‘I think we must all walk by that path tonight,' said the priest gravely;
 'though I will never deny it has been a perilous path ... to more
 people than one.'
 
-`I will not... God, how you all goad me,' cried Home, and his eyes
+‘I will not... God, how you all goad me,' cried Home, and his eyes
 began to roll in a strange fashion.  He had risen with the rest,
 hut he made no motion towards the door.
 
-`Mr [[Home]],' said Nares firmly, `I am a police--officer, and this house,
+‘Mr [[Home]],' said Nares firmly, ‘I am a police--officer, and this house,
 though you may not know it, is surrounded by the police.
 I have tried to investigate in a friendly fashion, but I must
 investigate everything, even anything so silly as a ghost.
@@ -18340,7 +18340,7 @@ There was another silence while Home stood heaving and panting
 as with indescribable fears.  Then he suddenly sat down on his chair
 again and said with an entirely new and much more composed voice:
 
-`I can't do it.  You may just as [[Well|well]] know why.
+‘I can't do it.  You may just as [[Well|well]] know why.
 You will know it sooner or later.  I killed him.'
 
 For an instant there was the stillness of a [[house]] struck by a
@@ -18348,10 +18348,10 @@ thunderbolt and full of corpses.  Then the voice of [[Father Brown]]
 sounded in that enormous [[Silence|silence]] strangely small like the squeak
 of a mouse.
 
-`Did you kill him deliberately?' he asked.
+‘Did you kill him deliberately?' he asked.
 
-`How can one answer such a question?' answered the man in
-the chair, moodily gnawing his finger.  `I was mad, I suppose.
+‘How can one answer such a question?' answered the man in
+the chair, moodily gnawing his finger.  ‘I was mad, I suppose.
 He was intolerable and insolent, I know.  I was on his land and I
 believe he struck me; anyhow, we came to a grapple and he went
 over the cliff.  When I was well away from the scene it burst
@@ -18359,21 +18359,21 @@ upon me that I had done a crime that cut me off from men;
 the brand of Cain throbbed on my brow and my very brain;
 I realized for the first time that I had indeed killed a man.
 I knew I should have to confess it sooner or later.'
-He sat suddenly erect in his chair.  `But I will say nothing
+He sat suddenly erect in his chair.  ‘But I will say nothing
 against anybody else.  It is no use asking me about plots
 or accomplices--I will say nothing.'
 
-`In the light of the other murders,' said Nares, `it is difficult
+‘In the light of the other murders,' said Nares, ‘it is difficult
 to believe that the quarrel was quite so unpremeditated.
 Surely somebody sent you there?'
 
-`I will say nothing against anybody I worked with,' said Home proudly.
-`I am a murderer, but I will not be a traitor.'
+‘I will say nothing against anybody I worked with,' said Home proudly.
+‘I am a murderer, but I will not be a traitor.'
 
 Nares stepped between the man and the door and called out in an official
 fashion to someone outside.
 
-`We will all go to the place, anyhow,' he said in a low voice
+‘We will all go to the place, anyhow,' he said in a low voice
 to the secretary; 'but this man must go in custody.'
 
 The company generally felt that to go spook--hunting on a seacliff
@@ -18387,18 +18387,18 @@ the rest across the moor to the cliff, when he was astonished to see
 young Potter, the secretary, coming back quickly towards them,
 his face in the moonlight looking white as a moon.
 
-`By God, sir,' he said, speaking for the first [[Time|time]] that [[Night|night]],
-`there really is something there.  It--it's just like him.'
+‘By God, sir,' he said, speaking for the first [[Time|time]] that [[Night|night]],
+‘there really is something there.  It--it's just like him.'
 
-`Why, you're raving,' gasped the [[Detective|detective]].  `Everybody's raving.'
+‘Why, you're raving,' gasped the [[Detective|detective]].  ‘Everybody's raving.'
 
-`Do you think I don't know him when I see him?' cried the secretary
-with singular bitterness.  `I have reason to.'
+‘Do you think I don't know him when I see him?' cried the secretary
+with singular bitterness.  ‘I have reason to.'
 
-`Perhaps,' said the [[Detective|detective]] sharply, `you are one of those who had
+‘Perhaps,' said the [[Detective|detective]] sharply, ‘you are one of those who had
 reason to hate him, as Halket said.'
 
-`Perhaps,' said the secretary; `anyhow, I know him, and I tell you I can
+‘Perhaps,' said the secretary; ‘anyhow, I know him, and I tell you I can
 see him standing there stark and staring under this hellish moon.'
 
 And he pointed towards the crack in the cliffs, where they could already
@@ -18417,19 +18417,19 @@ ghost was the man who had said openly that he might be.
 For Father Brown was advancing as steadily, at his stumping pace,
 as if he were going to consult a notice--board.
 
-`It don't seem to bother you much,' said Byrne to the priest;
-`and yet I thought you were the only one who believed in spooks.'
+‘It don't seem to bother you much,' said Byrne to the priest;
+‘and yet I thought you were the only one who believed in spooks.'
 
-`If it comes to that,' replied [[Father Brown]], `I thought you were one
+‘If it comes to that,' replied [[Father Brown]], ‘I thought you were one
 who didn't believe in them.  But believing in ghosts is one thing,
 and believing in a ghost is quite another.'
 
 Byrne looked rather ashamed of himself, and glanced
 almost covertly at the crumbling headlands in the cold
 moonlight which were the haunts of the vision or delusion.
-`I didn't believe in it till I saw it,' he said.
+‘I didn't believe in it till I saw it,' he said.
 
-`And I did believe in it till I saw it,' said Father Brown.
+‘And I did believe in it till I saw it,' said Father Brown.
 The journalist stared after him as he went stumping across
 the great waste ground that rose towards the cloven
 headland like the sloping side of a hill cut in two.
@@ -18506,13 +18506,13 @@ Byrne parve alquanto vergognarsi di sé, e lanciò quasi di soppiatto un'occhiat
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_06" data-title="Incredulity — The Ghost of Gideon Wise (part 6)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_06" data-title="Incredulity — The Ghost of Gideon Wise (part 6)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
-`I have confessed,' they heard him crying.  `Why have you come
+‘I have confessed,' they heard him crying.  ‘Why have you come
 to tell them I killed you?'
 
-`I have come to tell them you did not,' said the [[Ghost|ghost]],
+‘I have come to tell them you did not,' said the [[Ghost|ghost]],
 and stretched forth a hand to him.  Then the kneeling man
 sprang up with quite a new kind of scream; and they knew it
 was the hand of flesh.
@@ -18541,8 +18541,8 @@ the crime.  He declared that [[Home]] had not thrown him over at all;
 that the continually breaking ground had given way under him,
 and that [[Home]] had even made some movement as of attempted rescue.
 
-`On that providential bit of rock down there,' he said solemnly,
-`I promised the Lord to forgive my enemies; and the Lord would think
+‘On that providential bit of rock down there,' he said solemnly,
+‘I promised the Lord to forgive my enemies; and the Lord would think
 it mighty mean if I didn't forgive a little accident like that.'
 
 [[Home]] had to depart under police supervision, of course, but the
@@ -18551,56 +18551,56 @@ would probably be short, and his punishment, if any, trifling.
 It is not every murderer who can put the murdered man in the witness--
 box to give him a testimonial.
 
-`It's a strange case,' said Byrne, as the detective and the others
+‘It's a strange case,' said Byrne, as the detective and the others
 hastened along the cliff path towards the town.
 
-`It is,' said [[Father Brown]].  `It's no business of ours;
+‘It is,' said [[Father Brown]].  ‘It's no business of ours;
 but I wish you'd stop with me and talk it over.'
 
 There was a silence and then Byrne complied by saying suddenly:
-`I suppose you were thinking of [[Home]] already, when you said somebody
+‘I suppose you were thinking of [[Home]] already, when you said somebody
 wasn't telling all he knew.'
 
-`When I said that,' replied his friend, `I was thinking of the exceedingly
+‘When I said that,' replied his friend, ‘I was thinking of the exceedingly
 silent Mr Potter, the secretary of the no longer late or (shall we say)
 lamented Mr Gideon Wise.'
 
-`Well, the only time Potter ever spoke to me I thought he was a lunatic,'
-said Byrne, staring, `but I never thought of his being a criminal.
+‘Well, the only time Potter ever spoke to me I thought he was a lunatic,'
+said Byrne, staring, ‘but I never thought of his being a criminal.
 He said something about it all having to do with an icebox.'
 
-`Yes, I thought he knew something about it,'
-said Father Brown reflectively.  `I never said he had anything
+‘Yes, I thought he knew something about it,'
+said Father Brown reflectively.  ‘I never said he had anything
 to do with it ... I suppose old Wise really is strong enough
 to have climbed out of that chasm.'
 
-`What do you mean?' asked the astonished reporter.  `Why, of course
+‘What do you mean?' asked the astonished reporter.  ‘Why, of course
 he got out of that chasm; for there he is.'
 
 The priest did not answer the question but asked abruptly:
-`What do you think of Home?'
+‘What do you think of Home?'
 
-`[[Well]], one can't call him a criminal exactly,' answered Byrne.
-`He never was at all like any criminal I ever knew, and I've
+‘[[Well]], one can't call him a criminal exactly,' answered Byrne.
+‘He never was at all like any criminal I ever knew, and I've
 had some experience; and, of course, Nares has had much more.
 I don't think we ever quite believed him a criminal.'
 
-`And I never believed in him in another capacity,'
-said the priest quietly.  `You may know more about criminals.
+‘And I never believed in him in another capacity,'
+said the priest quietly.  ‘You may know more about criminals.
 But there's one class of people I probably do know
 more about than you do, or even Nares for that matter.
 I've known quite a lot of them, and I know their little ways.'
 
-`Another class of people,' repeated Byrne, mystified.'  Why, what class
+‘Another class of people,' repeated Byrne, mystified.'  Why, what class
 do you know about?'
 
-`Penitents,' said Father Brown.
+‘Penitents,' said Father Brown.
 
-`I don't quite understand,' objected Byrne.  `Do you mean you
+‘I don't quite understand,' objected Byrne.  ‘Do you mean you
 don't believe in his crime?'
 
-`I don't believe in his confession,' said [[Father Brown]].
-`I've heard a good many confessions, and there was never a genuine
+‘I don't believe in his confession,' said [[Father Brown]].
+‘I've heard a good many confessions, and there was never a genuine
 one like that.  It was romantic; it was all out of books.
 Look how he talked about having the brand of Cain.  That's out of books.
 It's not what anyone would feel who had in his own person done a thing
@@ -18620,20 +18620,20 @@ A nice state of things, if people started getting absolved for
 what they hadn't done.'  And Father Brown, his head turned away,
 looked steadily out to sea.
 
-`But I don't understand what you're driving at,' cried Byrne.
-`What's the good of buzzing round him with suspicions when he's pardoned?
+‘But I don't understand what you're driving at,' cried Byrne.
+‘What's the good of buzzing round him with suspicions when he's pardoned?
 He's out of it anyhow.  He's quite safe.'
 
 Father Brown spun round like a teetotum and caught his friend
 by the coat with unexpected and inexplicable excitement.
 
-`That's it,' he cried emphatically.'  Freeze on to that!
+‘That's it,' he cried emphatically.'  Freeze on to that!
 He's quite safe.  He's out of it.  That's why he's the key
 of the whole puzzle.'
 
-`Oh, help,' said Byrne feebly.
+‘Oh, help,' said Byrne feebly.
 
-`I mean,' persisted the little priest, `he's in it because he's
+‘I mean,' persisted the little priest, ‘he's in it because he's
 out of it.  That's the whole explanation.'
 
 
@@ -18689,13 +18689,13 @@ Padre Brown girò su se stesso come una trottola e afferrò l'amico per la giacc
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_07" data-title="Incredulity — The Ghost of Gideon Wise (part 7)" data-chapter="Story 08 The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_07" data-title="Incredulity — The Ghost of Gideon Wise (part 7)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
 
 
-`And a very lucid explanation too,' said the journalist with feeling.
+‘And a very lucid explanation too,' said the journalist with feeling.
 
 They stood looking out to sea for a [[Time|time]] in [[Silence|silence]], and then
-[[Father Brown]] said cheerfully:  `And so we come back to the ice--box.
+[[Father Brown]] said cheerfully:  ‘And so we come back to the ice--box.
 Where you have all gone wrong from the first in this business is
 where a good many of the papers and the public men do go wrong.
 It's because you assumed that there is nothing whatever
@@ -18703,10 +18703,10 @@ in the modern world to fight about except Bolshevism.
 This story has nothing whatever to do with Bolshevism;
 except perhaps as a blind.'
 
-`I don't see how that can be,' remonstrated Byrne.  `Here you
-have the three millionaires in that one business murdered--`
+‘I don't see how that can be,' remonstrated Byrne.  ‘Here you
+have the three millionaires in that one business murdered--‘
 
-`No!' said the priest in a sharp ringing voice.  `You do not.
+‘No!' said the priest in a sharp ringing voice.  ‘You do not.
 That is just the point.  You do not have three millionaires murdered.
 You have two millionaires murdered; and you have the third
 millionaire very much alive and kicking and quite ready to kick.
@@ -18718,7 +18718,7 @@ fashioned and independent old huckster that if he would
 not come into their combine they would freeze him out.
 Hence the ice--box, of course.'
 
-After a pause he went on.  `There is undoubtedly a Bolshevist
+After a pause he went on.  ‘There is undoubtedly a Bolshevist
 movement in the modern world, and it must undoubtedly be resisted,
 though I do not believe very much in your way of resisting it.
 But what nobody notices is that there is another movement equally
@@ -18733,16 +18733,16 @@ Home was one of old Gideon's spies in one of the enemy camps;
 but he was used here against another enemy:  the rivals who were
 ruining him for standing out.'
 
-`I still don't quite see how he was used,' said Byrne,
-`or what was the good of it.'
+‘I still don't quite see how he was used,' said Byrne,
+‘or what was the good of it.'
 
-`Don't you see,' cried [[Father Brown]] sharply, `that they gave
+‘Don't you see,' cried [[Father Brown]] sharply, ‘that they gave
 each other an alibi?'
 
 Byrne still looked at him a little doubtfully, though understanding
 was dawning on his face.
 
-`That's what I mean,' continued the other, `when I say they were
+‘That's what I mean,' continued the other, ‘when I say they were
 in it because they were out of it.  Most people would say they must
 be out of the other two crimes, because they were in this one.
 As a fact, they were in the other two because they were out of this one;
@@ -18758,11 +18758,11 @@ in the Wood, while Wise was strangling that little Jew in his Roman bath.
 That's why I ask whether Wise was really strong enough for
 the climbing adventure.'
 
-`It was quite a good adventure,' said Byrne regretfully.
-`It fitted into the landscape, and was really very convincing.'
+‘It was quite a good adventure,' said Byrne regretfully.
+‘It fitted into the landscape, and was really very convincing.'
 
-`Too convincing to convince,' said [[Father Brown]], shaking his head.
-`How very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]].
+‘Too convincing to convince,' said [[Father Brown]], shaking his head.
+‘How very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]].
 And how very literary!  [[Home]] is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in [[history]],
 he is also a poet.'

@@ -33,7 +33,7 @@ with the season, or with me.  May it haunt their houses
 pleasantly, and no one wish to lay it.
 
 Their faithful Friend and Servant,
-                                   C. D.
+C. D.
 December, 1843.
 
 
@@ -436,8 +436,8 @@ by the hungry cold as bones are gnawed by [[dogs]],
 stooped down at Scrooge's keyhole to regale him with
 a Christmas [[carol]]: but at the first sound of
 
-        "God bless you, merry gentleman!
-         May nothing you dismay!"
+"God bless you, merry gentleman!
+May nothing you dismay!"
 
 Scrooge seized the ruler with such energy of action,
 that the singer fled in terror, leaving the keyhole to
@@ -3860,7 +3860,7 @@ observed, God bless Us, Every One!
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 1)" data-chapter="Chapter 01 MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 1)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
 
 
 STAVE I:  MARLEY'S [[Ghost|GHOST]]
@@ -4000,7 +4000,7 @@ eyes sparkled, and his breath smoked again.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_02" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 2)" data-chapter="Chapter 01 MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_02" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 2)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
 
 
 "Christmas a humbug, uncle!" said Scrooge's
@@ -4188,7 +4188,7 @@ for?"
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_03" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 3)" data-chapter="Chapter 01 MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_03" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 3)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
 
 
 "Nothing!" Scrooge replied.
@@ -4263,8 +4263,8 @@ by the hungry cold as bones are gnawed by [[dogs]],
 stooped down at Scrooge's keyhole to regale him with
 a Christmas [[carol]]: but at the first sound of
 
-        "God bless you, merry gentleman!
-         May nothing you dismay!"
+"God bless you, merry gentleman!
+May nothing you dismay!"
 
 Scrooge seized the ruler with such energy of action,
 that the singer fled in terror, leaving the keyhole to
@@ -4347,7 +4347,7 @@ process of change--not a knocker, but Marley's face.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 4)" data-chapter="Chapter 01 MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 4)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
 
 
 Marley's face. It was not in impenetrable [[Shadow|shadow]]
@@ -4496,7 +4496,7 @@ the two buttons on his coat behind.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_05" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 5)" data-chapter="Chapter 01 MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_05" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 5)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
 
 
 Scrooge had often heard it said that Marley had no
@@ -4676,7 +4676,7 @@ all the [[Time|time]]!"
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 6)" data-chapter="Chapter 01 MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 6)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
 
 
 "The whole [[Time|time]]," said the [[Ghost]]. "No rest, no
@@ -4841,7 +4841,7 @@ instant.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_01" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 1)" data-chapter="Chapter 02 THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_01" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 1)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
 
 
 STAVE II:  THE FIRST OF THE THREE SPIRITS
@@ -4987,7 +4987,7 @@ to see the Spirit in his cap; and begged him to be covered.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_02" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)" data-chapter="Chapter 02 THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_02" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
 
 
 "What!" exclaimed the [[Ghost]], "would you so soon put out,
@@ -5132,7 +5132,7 @@ leading by the bridle an ass laden with wood.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_03" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 3)" data-chapter="Chapter 02 THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_03" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 3)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
 
 
 "Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
@@ -5270,7 +5270,7 @@ lighted up.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_04" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)" data-chapter="Chapter 02 THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_04" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
 
 
 The [[Ghost]] stopped at a certain warehouse door, and asked
@@ -5407,7 +5407,7 @@ head burnt very clear.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_05" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)" data-chapter="Chapter 02 THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_05" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
 
 
 "A small matter," said the [[Ghost]], "to make these silly
@@ -5590,7 +5590,7 @@ value.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_06" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 6)" data-chapter="Chapter 02 THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_06" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 6)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
 
 
 But now a knocking at the door was heard, and such a
@@ -5676,7 +5676,7 @@ into a heavy [[Sleep|sleep]].
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_01" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 1)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_01" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 1)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 STAVE III:  THE SECOND OF THE THREE SPIRITS
@@ -5821,7 +5821,7 @@ into artificial little [[Snow|snow]]-storms.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_02" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_02" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 The [[house]] fronts looked black enough, and the windows
@@ -5942,7 +5942,7 @@ enjoyment."
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_03" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 3)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_03" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 3)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 "I!" cried the Spirit.
@@ -6086,7 +6086,7 @@ goose, with which they soon returned in high procession.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_04" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 4)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_04" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 4)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 Such a bustle ensued that you might have thought a goose
@@ -6225,7 +6225,7 @@ Nobody knows it better than you do, poor fellow!"
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_05" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 5)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_05" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 5)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 "My dear," was Bob's mild answer, "Christmas Day."
@@ -6346,7 +6346,7 @@ had worn, and fiercely tried to undermine the earth.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_06" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 6)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_06" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 6)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 Built upon a dismal reef of sunken rocks, some league
@@ -6492,7 +6492,7 @@ that's something; and I think I shook him yesterday."
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_07" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 7)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_07" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 7)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 It was their turn to laugh now at the notion of his shaking
@@ -6622,7 +6622,7 @@ Scrooge!"
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_08" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 8)" data-chapter="Chapter 03 THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_08" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 8)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
 
 
 Uncle Scrooge had imperceptibly become so gay and light
@@ -6724,7 +6724,7 @@ a mist along the ground, towards him.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_01" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 1)" data-chapter="Chapter 04 THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_01" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 1)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
 
 
 STAVE IV:  THE LAST OF THE SPIRITS
@@ -6894,7 +6894,7 @@ riddles easy.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_02" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 2)" data-chapter="Chapter 04 THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_02" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 2)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
 
 
 He looked about in that very place for his own image; but
@@ -7037,7 +7037,7 @@ off half-a-[[Crown|crown]]."
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_03" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 3)" data-chapter="Chapter 04 THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_03" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 3)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
 
 
 "And now undo my bundle, Joe," said the first woman.
@@ -7187,7 +7187,7 @@ of which he felt ashamed, and which he struggled to repress.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_04" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 4)" data-chapter="Chapter 04 THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_04" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 4)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
 
 
 He sat down to the dinner that had been hoarding for
@@ -7351,7 +7351,7 @@ quite delightful. It really seemed as if he had known our
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_05" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 5)" data-chapter="Chapter 04 THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_05" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 5)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
 
 
 "I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
@@ -7493,7 +7493,7 @@ It shrunk, collapsed, and dwindled down into a bedpost.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_01" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 1)" data-chapter="Chapter 05 THE END OF IT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_01" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 1)" data-chapter="THE END OF IT" data-kind="excerpt"></span>
 
 
 STAVE V:  THE END OF IT
@@ -7662,7 +7662,7 @@ sounds he had ever heard, those were the blithest in his ears.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_02" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 2)" data-chapter="Chapter 05 THE END OF IT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_02" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 2)" data-chapter="THE END OF IT" data-kind="excerpt"></span>
 
 
 He had not gone far, when coming on towards him he

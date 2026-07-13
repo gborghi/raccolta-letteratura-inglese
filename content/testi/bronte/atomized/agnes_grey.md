@@ -31,31 +31,31 @@ Thornton]
 
 Contents
 
- I. THE PARSONAGE
- II. FIRST LESSONS IN THE ART OF INSTRUCTION
- III. A FEW MORE LESSONS
- IV. THE GRANDMAMMA
- V. THE UNCLE
- VI. THE PARSONAGE AGAIN
- VII. HORTON LODGE
- VIII. THE “COMING OUT”
- IX. THE BALL
- X. THE CHURCH
- XI. THE COTTAGERS
- XII. THE SHOWER
- XIII. THE PRIMROSES
- XIV. THE RECTOR
- XV. THE WALK
- XVI. THE SUBSTITUTION
- XVII. CONFESSIONS
- XVIII. MIRTH AND MOURNING
- XIX. THE LETTER
- XX. THE FAREWELL
- XXI. THE SCHOOL
- XXII. THE VISIT
- XXIII. THE PARK
- XXIV. THE SANDS
- XXV. CONCLUSION
+I. THE PARSONAGE
+II. FIRST LESSONS IN THE ART OF INSTRUCTION
+III. A FEW MORE LESSONS
+IV. THE GRANDMAMMA
+V. THE UNCLE
+VI. THE PARSONAGE AGAIN
+VII. HORTON LODGE
+VIII. THE “COMING OUT”
+IX. THE BALL
+X. THE CHURCH
+XI. THE COTTAGERS
+XII. THE SHOWER
+XIII. THE PRIMROSES
+XIV. THE RECTOR
+XV. THE WALK
+XVI. THE SUBSTITUTION
+XVII. CONFESSIONS
+XVIII. MIRTH AND MOURNING
+XIX. THE LETTER
+XX. THE FAREWELL
+XXI. THE SCHOOL
+XXII. THE VISIT
+XXIII. THE PARK
+XXIV. THE SANDS
+XXV. CONCLUSION
 
 
 
@@ -5184,19 +5184,19 @@ languid as the lines may seem, it was almost a passion of grief to
 which they owed their being:—
 
 Oh, they have robbed me of the [[Hope|hope]]
-    My spirit held so dear;
+My spirit held so dear;
 They will not let me hear that voice
-    My [[Soul|soul]] delights to hear.
+My [[Soul|soul]] delights to hear.
 
 They will not let me see that face
-    I so delight to see;
+I so delight to see;
 And they have taken all thy smiles,
-    And all thy [[Love|love]] from me.
+And all thy [[Love|love]] from me.
 
 [[Well]], let them seize on all they can;—
-    One treasure still is mine,—
+One treasure still is mine,—
 A heart that loves to think on thee,
-    And feels the worth of thine.
+And feels the worth of thine.
 
 
 Yes, at least, they could not deprive me of that: I could think of him
@@ -12150,7 +12150,7 @@ them what you like; I would go with you, but I want to finish this
 
 
 
-<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_01" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 1)" data-chapter="Chapter 15 ll come and meet you when Ive" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_01" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 1)" data-chapter="ll come and meet you when Ive" data-kind="excerpt"></span>
 
 
 volume. I’ll come and meet you when I’ve done it. Be quick, will
@@ -12272,7 +12272,7 @@ you have led me to foster, but I forbear, on condition—’
 
 
 
-<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_02" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 2)" data-chapter="Chapter 15 ll come and meet you when Ive" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_02" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 2)" data-chapter="ll come and meet you when Ive" data-kind="excerpt"></span>
 
 
 “‘No conditions, Mr. Hatfield!’ said I, now truly indignant at his
@@ -13034,9 +13034,9 @@ languid as the lines may seem, it was almost a passion of grief to
 which they owed their being:—
 
 Oh, they have robbed me of the [[Hope|hope]]
-    My spirit held so dear;
+My spirit held so dear;
 They will not let me hear that voice
-    My [[Soul|soul]] delights to hear.
+My [[Soul|soul]] delights to hear.
 
 
 
@@ -13045,14 +13045,14 @@ They will not let me hear that voice
 
 
 They will not let me see that face
-    I so delight to see;
+I so delight to see;
 And they have taken all thy smiles,
-    And all thy [[Love|love]] from me.
+And all thy [[Love|love]] from me.
 
 [[Well]], let them seize on all they can;—
-    One treasure still is mine,—
+One treasure still is mine,—
 A heart that loves to think on thee,
-    And feels the worth of thine.
+And feels the worth of thine.
 
 
 Yes, at least, they could not deprive me of that: I could think of him

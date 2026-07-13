@@ -22,26 +22,26 @@ by G.K. Chesterton
 
 PART ONE:  THE FALSE THEORY
 
-    I What is [[Eugenics]]?
-   II The First Obstacles
-  III The Anarchy from Above
-   IV The Lunatic and the Law
-    V The Flying Authority
-   VI The Unanswered Challenge
-  VII The Established Church of [[Doubt]]
- VIII A Summary of a False Theory
+I What is [[Eugenics]]?
+II The First Obstacles
+III The Anarchy from Above
+IV The Lunatic and the Law
+V The Flying Authority
+VI The Unanswered Challenge
+VII The Established Church of [[Doubt]]
+VIII A Summary of a False Theory
 
 PART TWO:  THE REAL AIM
 
-    I The Impotence of Impenitence
-   II True [[history|History]] of a Tramp
-  III True [[history|History]] of a Eugenist
-   IV The Vengeance of the Flesh
-    V The Meanness of the Motive
-   VI The Eclipse of Liberty
-  VII The Transformation of Socialism
- VIII The End of the Household Gods
-   IX A Short Chapter
+I The Impotence of Impenitence
+II True [[history|History]] of a Tramp
+III True [[history|History]] of a Eugenist
+IV The Vengeance of the Flesh
+V The Meanness of the Motive
+VI The Eclipse of Liberty
+VII The Transformation of Socialism
+VIII The End of the Household Gods
+IX A Short Chapter
 
 + + +
 
@@ -4070,10 +4070,10 @@ beginning to loom up on the horizon.  From the lips of a young
 Scotch engineer, of all people in the world, I heard for the first
 [[Time|time]] these immortal words from a [[London]] music-hall [[Song|song]]:---
 
-    "Father's got the sack from the [[Water|water]]-works
-     For smoking of his old cherry-briar;
-     Father's got the sack from the [[Water|water]]-works
-    'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
+"Father's got the sack from the [[Water|water]]-works
+For smoking of his old cherry-briar;
+Father's got the sack from the [[Water|water]]-works
+'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
 
 As I told my friends in [[America]], I think it no part of a patriot to boast;
 and boasting itself is certainly not a thing to boast of.  I [[Doubt|doubt]]
@@ -4084,10 +4084,10 @@ But when I hear those words about Father and the [[Water|water]]-works,
 when I hear under far-off foreign skies anything so gloriously
 English as that, then indeed (I said to them), then indeed:---
 
-    "I thank the goodness and the grace
-     That on my birth have smiled,
-     And made me, as you see me here,
-     A little English [[Child|child]]."
+"I thank the goodness and the grace
+That on my birth have smiled,
+And made me, as you see me here,
+A little English [[Child|child]]."
 
 But that noble stanza about the [[Water|water]]-works has other elements
 of nobility besides nationality.  It provides a compact and almost
@@ -4427,20 +4427,20 @@ Prussianism stood up and testified against it.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_real_aim" data-title="Eugenics — Part 2: THE REAL AIM" data-chapter="Chapter 01 THE REAL AIM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_real_aim" data-title="Eugenics — Part 2: THE REAL AIM" data-chapter="THE REAL AIM" data-kind="chapter"></span>
 
 
 PART TWO:  THE REAL AIM
 
-    I The Impotence of Impenitence
-   II True [[history|History]] of a Tramp
-  III True [[history|History]] of a Eugenist
-   IV The Vengeance of the Flesh
-    V The Meanness of the Motive
-   VI The Eclipse of Liberty
-  VII The Transformation of Socialism
- VIII The End of the Household Gods
-   IX A Short Chapter
+I The Impotence of Impenitence
+II True [[history|History]] of a Tramp
+III True [[history|History]] of a Eugenist
+IV The Vengeance of the Flesh
+V The Meanness of the Motive
+VI The Eclipse of Liberty
+VII The Transformation of Socialism
+VIII The End of the Household Gods
+IX A Short Chapter
 
 + + +
 
@@ -4501,15 +4501,15 @@ G. K. C.
 
 PARTE SECONDA: IL VERO SCOPO
 
-    I L'impotenza dell'impenitenza
-   II Vera [[history|Storia]] di un Vagabondo
-  III Vera [[history|Storia]] di un Eugenista
-   IV La vendetta della carne
-    V La meschinità del movente
-   VI L'eclissi della libertà
-  VII La trasformazione del socialismo
- VIII La fine degli dèi domestici
-   IX Un breve capitolo
+I L'impotenza dell'impenitenza
+II Vera [[history|Storia]] di un Vagabondo
+III Vera [[history|Storia]] di un Eugenista
+IV La vendetta della carne
+V La meschinità del movente
+VI L'eclissi della libertà
+VII La trasformazione del socialismo
+VIII La fine degli dèi domestici
+IX Un breve capitolo
 
 + + +
 
@@ -9191,10 +9191,10 @@ beginning to loom up on the horizon.  From the lips of a young
 Scotch engineer, of all people in the world, I heard for the first
 [[Time|time]] these immortal words from a [[London]] music-hall [[Song|song]]:---
 
-    "Father's got the sack from the [[Water|water]]-works
-     For smoking of his old cherry-briar;
-     Father's got the sack from the [[Water|water]]-works
-    'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
+"Father's got the sack from the [[Water|water]]-works
+For smoking of his old cherry-briar;
+Father's got the sack from the [[Water|water]]-works
+'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
 
 As I told my friends in [[America]], I think it no part of a patriot to boast;
 and boasting itself is certainly not a thing to boast of.  I [[Doubt|doubt]]
@@ -9205,10 +9205,10 @@ But when I hear those words about Father and the [[Water|water]]-works,
 when I hear under far-off foreign skies anything so gloriously
 English as that, then indeed (I said to them), then indeed:---
 
-    "I thank the goodness and the grace
-     That on my birth have smiled,
-     And made me, as you see me here,
-     A little English [[Child|child]]."
+"I thank the goodness and the grace
+That on my birth have smiled,
+And made me, as you see me here,
+A little English [[Child|child]]."
 
 But that noble stanza about the [[Water|water]]-works has other elements
 of nobility besides nationality.  It provides a compact and almost
@@ -9301,17 +9301,17 @@ In other words, they are quietly going mad.
 
 La prima volta ne udii una durante la mia traversata verso l'[[America]], in mezzo al mare in vista del Nuovo Mondo, con la Statua della Libertà che cominciava a profilarsi all'orizzonte. Dalle labbra di un giovane ingegnere scozzese, la persona più impensata al mondo, udii per la prima [[Time|volta]] queste immortali parole tratte da una [[Song|canzone]] di music-hall di [[London|Londra]]:—
 
-    «Il babbo è stato licenziato dagli impianti dell'[[Water|acqua]]
-     per aver fumato la sua vecchia pipa di radica;
-     il babbo è stato licenziato dagli impianti dell'[[Water|acqua]]
-    perché poteva dar [[Fire|fuoco]] agli impianti dell'[[Water|acqua]].»
+«Il babbo è stato licenziato dagli impianti dell'[[Water|acqua]]
+per aver fumato la sua vecchia pipa di radica;
+il babbo è stato licenziato dagli impianti dell'[[Water|acqua]]
+perché poteva dar [[Fire|fuoco]] agli impianti dell'[[Water|acqua]].»
 
 Come dissi ai miei amici in [[America]], penso non sia da patriota vantarsi; e il vantarsi in sé non è certo cosa di cui vantarsi. [[Doubt|Dubito]] del potere persuasivo dell'inglese quale esemplificato in Kipling, e lo si può facilmente imporre agli stranieri in dose eccessiva, persino quale esemplificato in Dickens. Non sono affatto un imperialista, e solo in rare e opportune occasioni uno sciovinista. Ma quando odo quelle parole sul babbo e sugli impianti dell'[[Water|acqua]], quando odo sotto cieli stranieri lontani qualcosa di così gloriosamente inglese come quello, allora davvero (dissi loro), allora davvero:—
 
-    «Ringrazio la bontà e la grazia
-     che alla mia nascita hanno sorriso,
-     e mi hanno fatto, come qui mi vedete,
-     un piccolo [[Child|bimbo]] inglese.»
+«Ringrazio la bontà e la grazia
+che alla mia nascita hanno sorriso,
+e mi hanno fatto, come qui mi vedete,
+un piccolo [[Child|bimbo]] inglese.»
 
 Ma quella nobile strofa sugli impianti dell'[[Water|acqua]] ha altri elementi di nobiltà oltre alla nazionalità. Fornisce un compatto e quasi perfetto compendio dell'intero problema sociale nei paesi industriali come l'Inghilterra e l'[[America]]. Se volessi esporre sistematicamente gli elementi del problema etico ed economico a Pittsburgh o a Sheffield, non potrei far di meglio che prendere queste poche parole come testo, e suddividerle come i punti di un sermone. Permettetemi di annotare qui i punti in modo un po' sommario.
 

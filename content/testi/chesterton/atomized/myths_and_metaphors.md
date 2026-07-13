@@ -244,7 +244,7 @@ leave out their mythology?
 
 Miti e metafore
 
-			     di G. K. Chesterton
+di G. K. Chesterton
 
 Originariamente pubblicato su The Illustrated [[London]] News, 26 gennaio 1929.
 

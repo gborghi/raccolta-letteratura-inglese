@@ -126,10 +126,10 @@ of merit, again, they have a racial flavour in a far higher sense.
 Mr. Yeats himself might not be ashamed of the expression of the Celtic
 spirit in the lines about "an empty laugh":-
 
-  ".... God
-  Who has within himself the secret springs
-  Of all the lovely, causeless, unclaimed things,
-  And loves them in his very heart of hearts."
+".... God
+Who has within himself the secret springs
+Of all the lovely, causeless, unclaimed things,
+And loves them in his very heart of hearts."
 
 But again, as we have said, there is nothing pallid or frail about
 his Celticism.  It is rather that spirit "brave and gay and faithful"
@@ -142,8 +142,8 @@ but they are pre-eminently things to be read and not criticised.
 They suffer from the poet's fluency, but their [[Truth|truth]] gradually
 tightens its grip:-
 
-  Now the [[Beauty|beauty]] of the thing when children plays is
-  The terrible wonderful length the days is
+Now the [[Beauty|beauty]] of the thing when children plays is
+The terrible wonderful length the days is
 
 is a sentence from all our autobiographies.  Altogether, Mr. T. E. Brown
 may be hailed as one of our recent [[Lyric|lyric]] exponents of what Lord Salisbury
@@ -431,13 +431,13 @@ charge of cavalry.  It interrupts and even unseats the warrior.
 Mr. Conan Doyle's descriptions have the true military rush
 and simplicity like the line of an old war-ballad:-
 
-  "And dark with [[Winter|winter]] was the flow--
-  Of Iser [[rolling]] rapidly."
+"And dark with [[Winter|winter]] was the flow--
+Of Iser [[rolling]] rapidly."
 
 The "descriptive" correspondent would have written it:-
 
-  "And fat with [[Frost|frost]]-mud was the flow
-  Of Iser tottering huskily."
+"And fat with [[Frost|frost]]-mud was the flow
+Of Iser tottering huskily."
 
 If guns "sneeze" at a man no [[Doubt|doubt]] he is struck by the
 artistic comparison.  If they shoot at him, they hit him.
@@ -461,8 +461,8 @@ or the late Mr. Barnato, what can any thinking person say
 of the transfer of influence in that country except the two
 lines of Goldsmith?--
 
-  "Ill fares the land to hastening woes a prey
-  Where wealth accumulates and men [[Decay|decay]]."
+"Ill fares the land to hastening woes a prey
+Where wealth accumulates and men [[Decay|decay]]."
 
 Have we realised that these ragged folk are the real riches
 of the Transvaal?  Can we work the mines of the human gold?
@@ -1173,8 +1173,8 @@ in the opening verses discusses in his vague way the question of
 He describes what happens when "we look behind her lustrous eyes,"
 which would seem a delicate surgical proceeding:-
 
-  "But when we look behind her lustrous eyes
-  We find scant echo to our deepening sighs."
+"But when we look behind her lustrous eyes
+We find scant echo to our deepening sighs."
 
 It would surely be a little unreasonable of us to expect to find
 echoes behind a person's eyes.  We have heard of "cavernous eyes,"
@@ -1182,8 +1182,8 @@ but not so cavernous as all that.
 
 Later on, he writes:-
 
-  "Though factory smoke and noise of whirring looms
-  Obscure his perfect vision for a while."
+"Though factory smoke and noise of whirring looms
+Obscure his perfect vision for a while."
 
 We do not quite understand why noise should obscure his vision,
 but we can understand it, of course, if the echoes get into his eyes.
@@ -1205,9 +1205,9 @@ Lastly, to complete our examples in technique, we should be
 pleased to offer the customary sewing-[[Machine|machine]] for the explanation
 of the following:-
 
-  "O Father give me back my [[Childhood|childhood]]'s [[Faith]],
-  That [[Faith|faith]] that saw Thee in the brightening cloud
-  And deemed it but the [[Mirror|mirror]] of thy breath."
+"O Father give me back my [[Childhood|childhood]]'s [[Faith]],
+That [[Faith|faith]] that saw Thee in the brightening cloud
+And deemed it but the [[Mirror|mirror]] of thy breath."
 
 This would certainly seem to be [[Faith|faith]] of a very high and difficult order.
 
@@ -1237,8 +1237,8 @@ we find him a few verses back offering in a confused way
 an insult to Israel of which M. Drumont would be ashamed.
 He says they have a "shifty trace" in their eyes and that they are--
 
-  "Wanderers upon the face of God's fair earth,
-  And cursed, like [[Cain]], with murder from their birth."
+"Wanderers upon the face of God's fair earth,
+And cursed, like [[Cain]], with murder from their birth."
 
 Whether this means that a Jew is from his birth continually murdering,
 or continually being murdered, we cannot tell; but in either case it
@@ -1255,8 +1255,8 @@ man has made I" and "The atheist argues that the Christian Creed,"
 the difficulty will be easily understood.  But, upon the whole,
 we think the palm must be given to the couplet:-
 
-  "The [[Natural Order|natural order]] of development
-  Is from the unit to the family."
+"The [[Natural Order|natural order]] of development
+Is from the unit to the family."
 
 There are some lines, indeed, which might lay Mr. Wynne
 open to a severer charge than that of being prosaic.
@@ -1291,13 +1291,13 @@ Since the appearance, or appearances, of Ad Astra, Mr. Wynne has
 published a volume of lyrics.  Of these we will quite only one poem,
 and that a short one:-
 
-  "[[Home]] returning in a shower
-  Found that I was smiling,
-  Just the very [[Time|time]] and hour
-  Most men would be riling.
-  Thus, though [[Nature]] prove unkind,
-  Only a poetic mind
-  Can laugh without reviling."
+"[[Home]] returning in a shower
+Found that I was smiling,
+Just the very [[Time|time]] and hour
+Most men would be riling.
+Thus, though [[Nature]] prove unkind,
+Only a poetic mind
+Can laugh without reviling."
 
 That is all.  It will be noticed that Mr. Wynne is not ill
 satisfied with himself, despite the strange modesty which leads
@@ -2848,13 +2848,13 @@ hesitation that they are baser than the foulest [[Epigram|epigram]] of Catullus.
 Most people know Bacon's vigorous pessimistic poem in
 this volume, which begins:-
 
-  "The world's a bubble, and the life of man
-  Less than a span."
+"The world's a bubble, and the life of man
+Less than a span."
 
 and which concludes:-
 
-  "What then remains but that we still should cry
-  For being born; or being born, to die."
+"What then remains but that we still should cry
+For being born; or being born, to die."
 
 The poem is expressed in terms common enough in [[philosophy]] and religion,
 and to many its [[Vanitas]] Vanitatum will have a dignified and pious sound.
@@ -2879,8 +2879,8 @@ in the last lines, like Thackeray, out of [[Satire|satire]] into a healthy
 and humble claim for happiness, in two of the most perfect
 lines in the language:-
 
-  "Only the actions of the just
-  Smell sweet and blossom in the [[Dust|dust]]."
+"Only the actions of the just
+Smell sweet and blossom in the [[Dust|dust]]."
 
 The poem might be a motto for The Newcomes.
 
@@ -3137,15 +3137,15 @@ and rhythm should not be attained by any one in the future.
 There is no reason why a man wishing his neighbour to pass the potatoes
 should not say quite naturally:-
 
-  "Pass me those goblins, in the earth that grew,
-  Those hells whose heaven is a blossom blue,"
+"Pass me those goblins, in the earth that grew,
+Those hells whose heaven is a blossom blue,"
 
 whereupon the most prosaic of his companions would pass
 the potatoes immediately.  A man who suspected another of having
 stolen his umbrella would exclaim with righteous indignation--
 
-  "Methinks thou cowerest in that dusky dome
-  Wherein I also dared the floods to come:"
+"Methinks thou cowerest in that dusky dome
+Wherein I also dared the floods to come:"
 
 whereupon a person of the most impervious moral [[Nature|nature]] would
 immediately return the umbrella.
@@ -3161,8 +3161,8 @@ Sometimes, undoubtedly, the matter is somewhat simpler.
 One poet among those whose books lie before us at present exclaims
 in opening an address to the ocean--
 
-  My feeble powers, O mighty sea,
-  I cannot strain to sing to thee,
+My feeble powers, O mighty sea,
+I cannot strain to sing to thee,
 
 which seems an excellent, manly and lucid excuse for not writing
 a poem to the sea, but not a very good excuse for writing one.
@@ -3907,10 +3907,10 @@ spirit in the lines about "an empty laugh":-
 <span class="atom-split" data-atom="part--part_02" data-title="The Speaker (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-  ".... God
-  Who has within himself the secret springs
-  Of all the lovely, causeless, unclaimed things,
-  And loves them in his very heart of hearts."
+".... God
+Who has within himself the secret springs
+Of all the lovely, causeless, unclaimed things,
+And loves them in his very heart of hearts."
 
 But again, as we have said, there is nothing pallid or frail about
 his Celticism.  It is rather that spirit "brave and gay and faithful"
@@ -3923,8 +3923,8 @@ but they are pre-eminently things to be read and not criticised.
 They suffer from the poet's fluency, but their [[Truth|truth]] gradually
 tightens its grip:-
 
-  Now the [[Beauty|beauty]] of the thing when children plays is
-  The terrible wonderful length the days is
+Now the [[Beauty|beauty]] of the thing when children plays is
+The terrible wonderful length the days is
 
 is a sentence from all our autobiographies.  Altogether, Mr. T. E. Brown
 may be hailed as one of our recent [[Lyric|lyric]] exponents of what Lord Salisbury
@@ -4224,13 +4224,13 @@ and simplicity like the line of an old war-ballad:-
 <span class="atom-split" data-atom="part--part_04" data-title="The Speaker (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-  "And dark with [[Winter|winter]] was the flow--
-  Of Iser [[rolling]] rapidly."
+"And dark with [[Winter|winter]] was the flow--
+Of Iser [[rolling]] rapidly."
 
 The "descriptive" correspondent would have written it:-
 
-  "And fat with [[Frost|frost]]-mud was the flow
-  Of Iser tottering huskily."
+"And fat with [[Frost|frost]]-mud was the flow
+Of Iser tottering huskily."
 
 If guns "sneeze" at a man no [[Doubt|doubt]] he is struck by the
 artistic comparison.  If they shoot at him, they hit him.
@@ -4254,8 +4254,8 @@ or the late Mr. Barnato, what can any thinking person say
 of the transfer of influence in that country except the two
 lines of Goldsmith?--
 
-  "Ill fares the land to hastening woes a prey
-  Where wealth accumulates and men [[Decay|decay]]."
+"Ill fares the land to hastening woes a prey
+Where wealth accumulates and men [[Decay|decay]]."
 
 Have we realised that these ragged folk are the real riches
 of the Transvaal?  Can we work the mines of the human gold?
@@ -5002,8 +5002,8 @@ in the opening verses discusses in his vague way the question of
 He describes what happens when "we look behind her lustrous eyes,"
 which would seem a delicate surgical proceeding:-
 
-  "But when we look behind her lustrous eyes
-  We find scant echo to our deepening sighs."
+"But when we look behind her lustrous eyes
+We find scant echo to our deepening sighs."
 
 It would surely be a little unreasonable of us to expect to find
 echoes behind a person's eyes.  We have heard of "cavernous eyes,"
@@ -5011,8 +5011,8 @@ but not so cavernous as all that.
 
 Later on, he writes:-
 
-  "Though factory smoke and noise of whirring looms
-  Obscure his perfect vision for a while."
+"Though factory smoke and noise of whirring looms
+Obscure his perfect vision for a while."
 
 We do not quite understand why noise should obscure his vision,
 but we can understand it, of course, if the echoes get into his eyes.
@@ -5034,9 +5034,9 @@ Lastly, to complete our examples in technique, we should be
 pleased to offer the customary sewing-[[Machine|machine]] for the explanation
 of the following:-
 
-  "O Father give me back my [[Childhood|childhood]]'s [[Faith]],
-  That [[Faith|faith]] that saw Thee in the brightening cloud
-  And deemed it but the [[Mirror|mirror]] of thy breath."
+"O Father give me back my [[Childhood|childhood]]'s [[Faith]],
+That [[Faith|faith]] that saw Thee in the brightening cloud
+And deemed it but the [[Mirror|mirror]] of thy breath."
 
 This would certainly seem to be [[Faith|faith]] of a very high and difficult order.
 
@@ -5066,8 +5066,8 @@ we find him a few verses back offering in a confused way
 an insult to Israel of which M. Drumont would be ashamed.
 He says they have a "shifty trace" in their eyes and that they are--
 
-  "Wanderers upon the face of God's fair earth,
-  And cursed, like [[Cain]], with murder from their birth."
+"Wanderers upon the face of God's fair earth,
+And cursed, like [[Cain]], with murder from their birth."
 
 Whether this means that a Jew is from his birth continually murdering,
 or continually being murdered, we cannot tell; but in either case it
@@ -5084,8 +5084,8 @@ man has made I" and "The atheist argues that the Christian Creed,"
 the difficulty will be easily understood.  But, upon the whole,
 we think the palm must be given to the couplet:-
 
-  "The [[Natural Order|natural order]] of development
-  Is from the unit to the family."
+"The [[Natural Order|natural order]] of development
+Is from the unit to the family."
 
 There are some lines, indeed, which might lay Mr. Wynne
 open to a severer charge than that of being prosaic.
@@ -5126,13 +5126,13 @@ Since the appearance, or appearances, of Ad Astra, Mr. Wynne has
 published a volume of lyrics.  Of these we will quite only one poem,
 and that a short one:-
 
-  "[[Home]] returning in a shower
-  Found that I was smiling,
-  Just the very [[Time|time]] and hour
-  Most men would be riling.
-  Thus, though [[Nature]] prove unkind,
-  Only a poetic mind
-  Can laugh without reviling."
+"[[Home]] returning in a shower
+Found that I was smiling,
+Just the very [[Time|time]] and hour
+Most men would be riling.
+Thus, though [[Nature]] prove unkind,
+Only a poetic mind
+Can laugh without reviling."
 
 That is all.  It will be noticed that Mr. Wynne is not ill
 satisfied with himself, despite the strange modesty which leads
@@ -6761,13 +6761,13 @@ hesitation that they are baser than the foulest [[Epigram|epigram]] of Catullus.
 Most people know Bacon's vigorous pessimistic poem in
 this volume, which begins:-
 
-  "The world's a bubble, and the life of man
-  Less than a span."
+"The world's a bubble, and the life of man
+Less than a span."
 
 and which concludes:-
 
-  "What then remains but that we still should cry
-  For being born; or being born, to die."
+"What then remains but that we still should cry
+For being born; or being born, to die."
 
 The poem is expressed in terms common enough in [[philosophy]] and religion,
 and to many its [[Vanitas]] Vanitatum will have a dignified and pious sound.
@@ -6792,8 +6792,8 @@ in the last lines, like Thackeray, out of [[Satire|satire]] into a healthy
 and humble claim for happiness, in two of the most perfect
 lines in the language:-
 
-  "Only the actions of the just
-  Smell sweet and blossom in the [[Dust|dust]]."
+"Only the actions of the just
+Smell sweet and blossom in the [[Dust|dust]]."
 
 The poem might be a motto for The Newcomes.
 
@@ -7068,15 +7068,15 @@ should not say quite naturally:-
 <span class="atom-split" data-atom="part--part_27" data-title="The Speaker (part 27)" data-chapter="part 27" data-kind="excerpt"></span>
 
 
-  "Pass me those goblins, in the earth that grew,
-  Those hells whose heaven is a blossom blue,"
+"Pass me those goblins, in the earth that grew,
+Those hells whose heaven is a blossom blue,"
 
 whereupon the most prosaic of his companions would pass
 the potatoes immediately.  A man who suspected another of having
 stolen his umbrella would exclaim with righteous indignation--
 
-  "Methinks thou cowerest in that dusky dome
-  Wherein I also dared the floods to come:"
+"Methinks thou cowerest in that dusky dome
+Wherein I also dared the floods to come:"
 
 whereupon a person of the most impervious moral [[Nature|nature]] would
 immediately return the umbrella.
@@ -7092,8 +7092,8 @@ Sometimes, undoubtedly, the matter is somewhat simpler.
 One poet among those whose books lie before us at present exclaims
 in opening an address to the ocean--
 
-  My feeble powers, O mighty sea,
-  I cannot strain to sing to thee,
+My feeble powers, O mighty sea,
+I cannot strain to sing to thee,
 
 which seems an excellent, manly and lucid excuse for not writing
 a poem to the sea, but not a very good excuse for writing one.

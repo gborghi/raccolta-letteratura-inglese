@@ -24,86 +24,86 @@ By Charles Dickens
 CONTENTS
 
 
-     Preface to the 1857 Edition
+Preface to the 1857 Edition
 
 
-     BOOK THE FIRST: [[Poverty|POVERTY]]
-     1.  Sun and [[Shadow]]
-     2.  Fellow Travellers
-     3.  [[Home]]
-     4.  Mrs Flintwinch has [[A Dream|a Dream]]
-     5.  Family Affairs
-     6.  The Father of the Marshalsea
-     7.  The [[Child]] of the Marshalsea
-     8.  The Lock
-     9.  little Mother
-     10.  Containing the whole Science of [[government|Government]]
-     11.  Let Loose
-     12.  Bleeding Heart Yard
-     13.  Patriarchal
-     14.  Little Dorrit’s Party
-     15.  Mrs Flintwinch has another Dream
-     16.  Nobody’s Weakness
-     17.  Nobody’s Rival
-     18.  Little Dorrit’s [[Lover]]
-     19.  The Father of the Marshalsea in two or three Relations
-     20.  Moving in Society
-     21.  [[Mr Merdle]]’s Complaint
-     22.  A Puzzle
-     23.  Machinery in Motion
-     24.  Fortune-Telling
-     25.  Conspirators and Others
-     26.  Nobody’s State of Mind
-     27.  Five-and-Twenty
-     28.  Nobody’s Disappearance
-     29.  Mrs Flintwinch goes on Dreaming
-     30.  The Word of a Gentleman
-     31.  Spirit
-     32.  More Fortune-Telling
-     33.  Mrs Merdle’s Complaint
-     34.  A Shoal of Barnacles
-     35.  What was behind [[Mr Pancks]] on Little Dorrit’s Hand
-     36.  The Marshalsea becomes an [[Orphan]]
+BOOK THE FIRST: [[Poverty|POVERTY]]
+1.  Sun and [[Shadow]]
+2.  Fellow Travellers
+3.  [[Home]]
+4.  Mrs Flintwinch has [[A Dream|a Dream]]
+5.  Family Affairs
+6.  The Father of the Marshalsea
+7.  The [[Child]] of the Marshalsea
+8.  The Lock
+9.  little Mother
+10.  Containing the whole Science of [[government|Government]]
+11.  Let Loose
+12.  Bleeding Heart Yard
+13.  Patriarchal
+14.  Little Dorrit’s Party
+15.  Mrs Flintwinch has another Dream
+16.  Nobody’s Weakness
+17.  Nobody’s Rival
+18.  Little Dorrit’s [[Lover]]
+19.  The Father of the Marshalsea in two or three Relations
+20.  Moving in Society
+21.  [[Mr Merdle]]’s Complaint
+22.  A Puzzle
+23.  Machinery in Motion
+24.  Fortune-Telling
+25.  Conspirators and Others
+26.  Nobody’s State of Mind
+27.  Five-and-Twenty
+28.  Nobody’s Disappearance
+29.  Mrs Flintwinch goes on Dreaming
+30.  The Word of a Gentleman
+31.  Spirit
+32.  More Fortune-Telling
+33.  Mrs Merdle’s Complaint
+34.  A Shoal of Barnacles
+35.  What was behind [[Mr Pancks]] on Little Dorrit’s Hand
+36.  The Marshalsea becomes an [[Orphan]]
 
 
-     BOOK THE SECOND: RICHES
+BOOK THE SECOND: RICHES
 
-     1.  Fellow Travellers
-     2.  Mrs General
-     3.  On the [[Road]]
-     4.  A Letter from Little Dorrit
-     5.  Something Wrong Somewhere
-     6.  Something Right Somewhere
-     7.  Mostly, Prunes and Prism
-     8.  The Dowager Mrs Gowan is reminded that ‘It Never Does’
-     9.  Appearance and Disappearance
-     10.  The [[Dreams]] of Mrs Flintwinch thicken
-     11.  A Letter from Little Dorrit
-     12.  In which a Great Patriotic Conference is holden
-     13.  The Progress of an Epidemic
-     14.  Taking Advice
-     15.  No just Cause or Impediment why these Two Persons should
-          not be joined together
-     16.  Getting on
-     17.  Missing
-     18.  A [[Castle]] in the Air
-     19.  The Storming of the [[Castle]] in the Air
-     20.  Introduces the next
-     21.  The [[history|History]] of a [[Self]]-Tormentor
-     22.  Who Passes by this [[Road]] so late?
-     23.  Mistress Affery makes a Conditional Promise, respecting her
-          [[Dreams]]
-     24.  The Evening of a Long Day
-     25.  The Chief Butler Resigns the Seals of Office
-     26.  Reaping the Whirlwind
-     27.  The Pupil of the Marshalsea
-     28.  An Appearance in the Marshalsea
-     29.  A Plea in the Marshalsea
-     30.  Closing in
-     31.  Closed
-     32.  Going
-     33.  Going!
-     34.  Gone
+1.  Fellow Travellers
+2.  Mrs General
+3.  On the [[Road]]
+4.  A Letter from Little Dorrit
+5.  Something Wrong Somewhere
+6.  Something Right Somewhere
+7.  Mostly, Prunes and Prism
+8.  The Dowager Mrs Gowan is reminded that ‘It Never Does’
+9.  Appearance and Disappearance
+10.  The [[Dreams]] of Mrs Flintwinch thicken
+11.  A Letter from Little Dorrit
+12.  In which a Great Patriotic Conference is holden
+13.  The Progress of an Epidemic
+14.  Taking Advice
+15.  No just Cause or Impediment why these Two Persons should
+not be joined together
+16.  Getting on
+17.  Missing
+18.  A [[Castle]] in the Air
+19.  The Storming of the [[Castle]] in the Air
+20.  Introduces the next
+21.  The [[history|History]] of a [[Self]]-Tormentor
+22.  Who Passes by this [[Road]] so late?
+23.  Mistress Affery makes a Conditional Promise, respecting her
+[[Dreams]]
+24.  The Evening of a Long Day
+25.  The Chief Butler Resigns the Seals of Office
+26.  Reaping the Whirlwind
+27.  The Pupil of the Marshalsea
+28.  An Appearance in the Marshalsea
+29.  A Plea in the Marshalsea
+30.  Closing in
+31.  Closed
+32.  Going
+33.  Going!
+34.  Gone
 
 
 
@@ -439,18 +439,18 @@ quick an appetite as before.
 Her [[Innocent|innocent]] face looked back so brightly over his shoulder, as he
 walked away with her, singing her the [[Song|song]] of the [[Child|child]]’s game:
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine!
-     Who passes by this [[Road|road]] so late?
-          Always gay!’
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine!
+Who passes by this [[Road|road]] so late?
+Always gay!’
 
 that John Baptist felt it a point of [[Honour|honour]] to reply at the grate, and
 in good [[Time|time]] and tune, though a little hoarsely:
 
-     ‘Of all the [[King|king]]’s knights ‘tis the flower,
-         Compagnon de la Majolaine!
-     Of all the [[King|king]]’s knights ‘tis the flower,
-          Always gay!’
+‘Of all the [[King|king]]’s knights ‘tis the flower,
+Compagnon de la Majolaine!
+Of all the [[King|king]]’s knights ‘tis the flower,
+Always gay!’
 
 Which accompanied them so far down the few steep stairs, that the
 [[Prison|prison]]-keeper had to stop at last for his little daughter to hear the
@@ -953,9 +953,9 @@ show her everything that we think can please her--Mother (my usual name
 for Mrs Meagles) began to cry so, that it was necessary to take her out.
 “What’s the matter, Mother?” said I, when we had brought her a little
 round: “you are frightening Pet, my dear.” “Yes, I know that, Father,”
- says Mother, “but I think it’s through my loving her so much, that it
+says Mother, “but I think it’s through my loving her so much, that it
 ever came into my head.” “That ever what came into your head, Mother?”
- “O dear, dear!” cried Mother, breaking out again, “when I saw all those
+“O dear, dear!” cried Mother, breaking out again, “when I saw all those
 children ranged tier above tier, and appealing from the father none of
 them has ever known on earth, to the great Father of us all in Heaven,
 I thought, does any wretched mother ever come here, and look among those
@@ -1962,7 +1962,7 @@ Affery, I understand that you and Jeremiah are going to be married. I
 am glad of it, and so are you, with reason. It is a very good thing for
 you, and very welcome under the circumstances to me. He is a sensible
 man, and a trustworthy man, and a persevering man, and a pious man.”
- What could I say when it had come to that? Why, if it had been--a
+What could I say when it had come to that? Why, if it had been--a
 smothering instead of a wedding,’ Mrs Flintwinch cast about in her mind
 with great pains for this form of expression, ‘I couldn’t have said a
 word upon it, against them two clever ones.’
@@ -14572,7 +14572,7 @@ have often seen them together. [[Well]]! We presently heard this unfortunate
 Tattycoram loud and angry, and before we could ask what was the matter,
 Pet came back in a tremble, saying she was frightened of her. Close
 after her came Tattycoram in a flaming rage. “I hate you all three,”
- says she, stamping her foot at us. “I am bursting with hate of the whole
+says she, stamping her foot at us. “I am bursting with hate of the whole
 [[house]].”’
 
 ‘Upon which you--?’
@@ -20048,25 +20048,25 @@ it, as if the [[Night|night]]’s names had been registered when he was absent.
 Taking it in his hand, he read these entries.
 
 
-     [[William Dorrit]], Esquire
-     Frederick Dorrit, Esquire
-     Edward Dorrit, Esquire
-     Miss Dorrit
-     Miss [[Amy Dorrit]]
-     Mrs General
-     and Suite.
-     From France to [[Italy]].
+[[William Dorrit]], Esquire
+Frederick Dorrit, Esquire
+Edward Dorrit, Esquire
+Miss Dorrit
+Miss [[Amy Dorrit]]
+Mrs General
+and Suite.
+From France to [[Italy]].
 
-     Mr and Mrs Henry Gowan.
-     From France to [[Italy]].
+Mr and Mrs Henry Gowan.
+From France to [[Italy]].
 
 
 To which he added, in a small complicated hand, ending with a long lean
 flourish, not unlike a lasso thrown at all the rest of the names:
 
 
-     Blandois.  [[Paris]].
-     From France to [[Italy]].
+Blandois.  [[Paris]].
+From France to [[Italy]].
 
 
 And then, with his nose coming down over his moustache and his moustache
@@ -21065,9 +21065,9 @@ That you will think of me (when you think of me at all), and of my true
 affection and devoted gratitude, always without change, as of
 
 
-     Your poor [[Child|child]],
+Your poor [[Child|child]],
 
-     LITTLE DORRIT.
+LITTLE DORRIT.
 
 
 P.S.--Particularly remember that you are not to be uneasy about Mrs
@@ -24289,10 +24289,10 @@ steps too. His friend looked at him with a braggart air, and sang to
 himself.
 
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine;
-    Who passes by this [[Road|road]] so late?
-          Always gay!’
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine;
+Who passes by this [[Road|road]] so late?
+Always gay!’
 
 
 After which he knocked again.
@@ -24768,9 +24768,9 @@ did not remember, at the moment when I wrote last, that you knew them
 both; but I remembered it afterwards, and it helped me on. God bless
 you, dear Mr Clennam. Do not forget
 
-     Your ever grateful and affectionate
+Your ever grateful and affectionate
 
-     LITTLE DORRIT.
+LITTLE DORRIT.
 
 P.S.--Particularly remember that Minnie Gowan deserves the best
 remembrance in which you can hold her. You cannot think too generously
@@ -24952,10 +24952,10 @@ eye-glass on his companion’s shoulder, ‘my learned friend will set me
 right:
 
 
-     “Since laws were made for every degree,
-     To curb vice in others as [[Well|well]] as in me,
-     I [[Wonder|wonder]] we ha’n’t better company
-     Upon Tyburn Tree!”’
+“Since laws were made for every degree,
+To curb vice in others as [[Well|well]] as in me,
+I [[Wonder|wonder]] we ha’n’t better company
+Upon Tyburn Tree!”’
 
 
 These words brought them to the drawing-room, where [[Mr Merdle]] stood
@@ -25198,7 +25198,7 @@ handsome young Barnacle, laughing heartily, ‘You never saw such a lot of
 forms in your life. “Why,” the attorney said to me one day, “if I wanted
 this office to give me two or three thousand pounds instead of take it,
 I couldn’t have more trouble about it.” “You are right, old fellow,”
- I told him, “and in future you’ll know that we have something to do
+I told him, “and in future you’ll know that we have something to do
 here.”’ The pleasant young Barnacle finished by once more laughing
 heartily. He was a very easy, pleasant fellow indeed, and his manners
 were exceedingly winning.
@@ -30119,10 +30119,10 @@ he followed the man and lost him, again he came upon the man in the
 beside him on the door-steps.
 
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine;
-     Who passes by this [[Road|road]] so late?
-          Always gay!’
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine;
+Who passes by this [[Road|road]] so late?
+Always gay!’
 
 
 It was not the first [[Time|time]], by many, that he had recalled the [[Song|song]] of the
@@ -30131,10 +30131,10 @@ side by side; but he was so unconscious of having repeated it audibly,
 that he started to hear the next verse.
 
 
-     ‘Of all the [[King|king]]’s knights ‘tis the flower,
-         Compagnon de la Majolaine;
-     Of all the [[King|king]]’s knights ‘tis the flower,
-          Always gay!’
+‘Of all the [[King|king]]’s knights ‘tis the flower,
+Compagnon de la Majolaine;
+Of all the [[King|king]]’s knights ‘tis the flower,
+Always gay!’
 
 
 Cavalletto had deferentially suggested the words and tune, supposing him
@@ -32844,17 +32844,17 @@ Young John lay wrapt in peaceful slumber, after composing and arranging
 the following monumental [[Inscription|inscription]] on his pillow--
 
 
-                         STRANGER!
-                    RESPECT THE TOMB OF
-                   JOHN CHIVERY, JUNIOR,
-                WHO DIED AT AN ADVANCED AGE
-                 NOT NECESSARY TO MENTION.
-      HE ENCOUNTERED HIS RIVAL IN A DISTRESSED STATE,
-                     AND FELT INCLINED
-                 TO HAVE A ROUND WITH HIM;
-            BUT, FOR THE SAKE OF THE LOVED ONE,
-     CONQUERED THOSE FEELINGS OF BITTERNESS, AND BECAME
-                        MAGNANIMOUS.
+STRANGER!
+RESPECT THE TOMB OF
+JOHN CHIVERY, JUNIOR,
+WHO DIED AT AN ADVANCED AGE
+NOT NECESSARY TO MENTION.
+HE ENCOUNTERED HIS RIVAL IN A DISTRESSED STATE,
+AND FELT INCLINED
+TO HAVE A ROUND WITH HIM;
+BUT, FOR THE SAKE OF THE LOVED ONE,
+CONQUERED THOSE FEELINGS OF BITTERNESS, AND BECAME
+MAGNANIMOUS.
 
 
 
@@ -33480,7 +33480,7 @@ at an hotel shall be paid by you.
 ‘Receive, dear madam, the assurance of my highest and most distinguished
 consideration,
 
-               ‘[[Rigaud|RIGAUD]] BLANDOIS.
+‘[[Rigaud|RIGAUD]] BLANDOIS.
 
 ‘A thousand friendships to that dear Flintwinch.
 
@@ -33613,10 +33613,10 @@ that on which Clennam sat, he sang, smiting himself on the breast as the
 gallant personage of the [[Song|song]].
 
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine!
-     Who passes by this [[Road|road]] so late?
-          Always gay!
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine!
+Who passes by this [[Road|road]] so late?
+Always gay!
 
 
 ‘Sing the Refrain, pig! You could sing it once, in another jail. Sing
@@ -33625,10 +33625,10 @@ compromising; and then some people who are not dead yet, had better have
 been stoned along with them!’
 
 
-     ‘Of all the [[King|king]]’s knights ‘tis the flower,
-          Compagnon de la Majolaine!
-     Of all the [[King|king]]’s knights ‘tis the flower,
-          Always gay!’
+‘Of all the [[King|king]]’s knights ‘tis the flower,
+Compagnon de la Majolaine!
+Of all the [[King|king]]’s knights ‘tis the flower,
+Always gay!’
 
 
 Partly in his old habit of submission, partly because his not doing it
@@ -33711,8 +33711,8 @@ there; you dare not touch him with a finger or an epithet. No. It is his
 character to triumph! Whoof!
 
 
-     ‘Of all the [[King|king]]’s knights he’s the flower,
-          And he’s always gay!’
+‘Of all the [[King|king]]’s knights he’s the flower,
+And he’s always gay!’
 
 
 With this adaptation of the Refrain to himself, he stalked out of the
@@ -34786,7 +34786,7 @@ That done, and your present means, derived from my husband, renounced,
 I charge myself with your support. You may, with your place of retreat
 unknown, then leave, if you please, uncontradicted by me, the lie that
 when you passed out of all knowledge but mine, you merited a good name.”
- That was all. She had to sacrifice her sinful and shameful affections;
+That was all. She had to sacrifice her sinful and shameful affections;
 no more. She was then free to bear her load of [[Guilt|guilt]] in secret, and to
 break her heart in secret; and through such present misery (light enough
 for her, I think!) to purchase her redemption from endless misery, if
@@ -36898,91 +36898,91 @@ the vain, fretted and chafed, and made their usual uproar.
 
 
 
-<span class="atom-split" data-atom="chapter_01_poverty_poverty" data-title="Little Dorrit — Book 1: [[Poverty|POVERTY" data-chapter="Chapter 01 Poverty POVERTY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_poverty_poverty" data-title="Little Dorrit — Book 1: [[Poverty|POVERTY" data-chapter="Poverty POVERTY" data-kind="chapter"></span>
 
 
-     BOOK THE FIRST: [[Poverty|POVERTY]]
-     1.  Sun and [[Shadow]]
-     2.  Fellow Travellers
-     3.  [[Home]]
-     4.  Mrs Flintwinch has [[A Dream|a Dream]]
-     5.  Family Affairs
-     6.  The Father of the Marshalsea
-     7.  The [[Child]] of the Marshalsea
-     8.  The Lock
-     9.  little Mother
-     10.  Containing the whole Science of [[government|Government]]
-     11.  Let Loose
-     12.  Bleeding Heart Yard
-     13.  Patriarchal
-     14.  Little Dorrit’s Party
-     15.  Mrs Flintwinch has another Dream
-     16.  Nobody’s Weakness
-     17.  Nobody’s Rival
-     18.  Little Dorrit’s [[Lover]]
-     19.  The Father of the Marshalsea in two or three Relations
-     20.  Moving in Society
-     21.  [[Mr Merdle]]’s Complaint
-     22.  A Puzzle
-     23.  Machinery in Motion
-     24.  Fortune-Telling
-     25.  Conspirators and Others
-     26.  Nobody’s State of Mind
-     27.  Five-and-Twenty
-     28.  Nobody’s Disappearance
-     29.  Mrs Flintwinch goes on Dreaming
-     30.  The Word of a Gentleman
-     31.  Spirit
-     32.  More Fortune-Telling
-     33.  Mrs Merdle’s Complaint
-     34.  A Shoal of Barnacles
-     35.  What was behind [[Mr Pancks]] on Little Dorrit’s Hand
-     36.  The Marshalsea becomes an [[Orphan]]
+BOOK THE FIRST: [[Poverty|POVERTY]]
+1.  Sun and [[Shadow]]
+2.  Fellow Travellers
+3.  [[Home]]
+4.  Mrs Flintwinch has [[A Dream|a Dream]]
+5.  Family Affairs
+6.  The Father of the Marshalsea
+7.  The [[Child]] of the Marshalsea
+8.  The Lock
+9.  little Mother
+10.  Containing the whole Science of [[government|Government]]
+11.  Let Loose
+12.  Bleeding Heart Yard
+13.  Patriarchal
+14.  Little Dorrit’s Party
+15.  Mrs Flintwinch has another Dream
+16.  Nobody’s Weakness
+17.  Nobody’s Rival
+18.  Little Dorrit’s [[Lover]]
+19.  The Father of the Marshalsea in two or three Relations
+20.  Moving in Society
+21.  [[Mr Merdle]]’s Complaint
+22.  A Puzzle
+23.  Machinery in Motion
+24.  Fortune-Telling
+25.  Conspirators and Others
+26.  Nobody’s State of Mind
+27.  Five-and-Twenty
+28.  Nobody’s Disappearance
+29.  Mrs Flintwinch goes on Dreaming
+30.  The Word of a Gentleman
+31.  Spirit
+32.  More Fortune-Telling
+33.  Mrs Merdle’s Complaint
+34.  A Shoal of Barnacles
+35.  What was behind [[Mr Pancks]] on Little Dorrit’s Hand
+36.  The Marshalsea becomes an [[Orphan]]
 
 
 
 
-<span class="atom-split" data-atom="chapter_02_riches" data-title="Little Dorrit — Book 2: RICHES" data-chapter="Chapter 02 RICHES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_riches" data-title="Little Dorrit — Book 2: RICHES" data-chapter="RICHES" data-kind="chapter"></span>
 
 
-     BOOK THE SECOND: RICHES
+BOOK THE SECOND: RICHES
 
-     1.  Fellow Travellers
-     2.  Mrs General
-     3.  On the [[Road]]
-     4.  A Letter from Little Dorrit
-     5.  Something Wrong Somewhere
-     6.  Something Right Somewhere
-     7.  Mostly, Prunes and Prism
-     8.  The Dowager Mrs Gowan is reminded that ‘It Never Does’
-     9.  Appearance and Disappearance
-     10.  The [[Dreams]] of Mrs Flintwinch thicken
-     11.  A Letter from Little Dorrit
-     12.  In which a Great Patriotic Conference is holden
-     13.  The Progress of an Epidemic
-     14.  Taking Advice
-     15.  No just Cause or Impediment why these Two Persons should
-          not be joined together
-     16.  Getting on
-     17.  Missing
-     18.  A [[Castle]] in the Air
-     19.  The Storming of the [[Castle]] in the Air
-     20.  Introduces the next
-     21.  The [[history|History]] of a [[Self]]-Tormentor
-     22.  Who Passes by this [[Road]] so late?
-     23.  Mistress Affery makes a Conditional Promise, respecting her
-          [[Dreams]]
-     24.  The Evening of a Long Day
-     25.  The Chief Butler Resigns the Seals of Office
-     26.  Reaping the Whirlwind
-     27.  The Pupil of the Marshalsea
-     28.  An Appearance in the Marshalsea
-     29.  A Plea in the Marshalsea
-     30.  Closing in
-     31.  Closed
-     32.  Going
-     33.  Going!
-     34.  Gone
+1.  Fellow Travellers
+2.  Mrs General
+3.  On the [[Road]]
+4.  A Letter from Little Dorrit
+5.  Something Wrong Somewhere
+6.  Something Right Somewhere
+7.  Mostly, Prunes and Prism
+8.  The Dowager Mrs Gowan is reminded that ‘It Never Does’
+9.  Appearance and Disappearance
+10.  The [[Dreams]] of Mrs Flintwinch thicken
+11.  A Letter from Little Dorrit
+12.  In which a Great Patriotic Conference is holden
+13.  The Progress of an Epidemic
+14.  Taking Advice
+15.  No just Cause or Impediment why these Two Persons should
+not be joined together
+16.  Getting on
+17.  Missing
+18.  A [[Castle]] in the Air
+19.  The Storming of the [[Castle]] in the Air
+20.  Introduces the next
+21.  The [[history|History]] of a [[Self]]-Tormentor
+22.  Who Passes by this [[Road]] so late?
+23.  Mistress Affery makes a Conditional Promise, respecting her
+[[Dreams]]
+24.  The Evening of a Long Day
+25.  The Chief Butler Resigns the Seals of Office
+26.  Reaping the Whirlwind
+27.  The Pupil of the Marshalsea
+28.  An Appearance in the Marshalsea
+29.  A Plea in the Marshalsea
+30.  Closing in
+31.  Closed
+32.  Going
+33.  Going!
+34.  Gone
 
 
 
@@ -37057,7 +37057,7 @@ added to that, May we meet again!
 
 
 
-<span class="atom-split" data-atom="chapter_06_mrs_flintwinch_has_a_dream_a_d" data-title="Little Dorrit — Chapter 4: Mrs Flintwinch has [[A Dream|a Dream" data-chapter="Chapter 06 Mrs Flintwinch has A Dream a D" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_mrs_flintwinch_has_a_dream_a_d" data-title="Little Dorrit — Chapter 4: Mrs Flintwinch has [[A Dream|a Dream" data-chapter="Mrs Flintwinch has A Dream a D" data-kind="chapter"></span>
 
 
 CHAPTER 4. Mrs Flintwinch has [[A Dream|a Dream]]
@@ -37204,7 +37204,7 @@ Mrs Flintwinch thanked him and crept into bed.
 
 
 
-<span class="atom-split" data-atom="chapter_40_mrs_general" data-title="Little Dorrit — Chapter 2: Mrs General" data-chapter="Chapter 40 Mrs General" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40_mrs_general" data-title="Little Dorrit — Chapter 2: Mrs General" data-chapter="Mrs General" data-kind="chapter"></span>
 
 
 CHAPTER 2. Mrs General
@@ -37396,7 +37396,7 @@ falling on his [[house]]-top.
 
 
 
-<span class="atom-split" data-atom="chapter_42_a_letter_from_little_dorrit" data-title="Little Dorrit — Chapter 4: A Letter from Little Dorrit" data-chapter="Chapter 42 A Letter from Little Dorrit" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42_a_letter_from_little_dorrit" data-title="Little Dorrit — Chapter 4: A Letter from Little Dorrit" data-chapter="A Letter from Little Dorrit" data-kind="chapter"></span>
 
 
 CHAPTER 4. A Letter from Little Dorrit
@@ -37535,9 +37535,9 @@ That you will think of me (when you think of me at all), and of my true
 affection and devoted gratitude, always without change, as of
 
 
-     Your poor [[Child|child]],
+Your poor [[Child|child]],
 
-     LITTLE DORRIT.
+LITTLE DORRIT.
 
 
 P.S.--Particularly remember that you are not to be uneasy about Mrs
@@ -37547,7 +37547,7 @@ beautiful.
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_01" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 1)" data-chapter="Chapter 03 Sun and Shadow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_01" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 1)" data-chapter="Sun and Shadow" data-kind="excerpt"></span>
 
 
 BOOK THE FIRST: [[Poverty|POVERTY]]
@@ -37663,7 +37663,7 @@ unusually small and plump; would have been unusually white but for the
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_02" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 2)" data-chapter="Chapter 03 Sun and Shadow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_02" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 2)" data-chapter="Sun and Shadow" data-kind="excerpt"></span>
 
 
 The other man was lying on the stone floor, covered with a coarse brown
@@ -37785,7 +37785,7 @@ an hour after mid-day, to-day.’
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_03" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 3)" data-chapter="Chapter 03 Sun and Shadow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_03" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 3)" data-chapter="Sun and Shadow" data-kind="excerpt"></span>
 
 
 ‘To try me, eh?’ said [[Rigaud]], pausing, knife in hand and morsel in
@@ -37819,18 +37819,18 @@ quick an appetite as before.
 Her [[Innocent|innocent]] face looked back so brightly over his shoulder, as he
 walked away with her, singing her the [[Song|song]] of the [[Child|child]]’s game:
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine!
-     Who passes by this [[Road|road]] so late?
-          Always gay!’
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine!
+Who passes by this [[Road|road]] so late?
+Always gay!’
 
 that John Baptist felt it a point of [[Honour|honour]] to reply at the grate, and
 in good [[Time|time]] and tune, though a little hoarsely:
 
-     ‘Of all the [[King|king]]’s knights ‘tis the flower,
-         Compagnon de la Majolaine!
-     Of all the [[King|king]]’s knights ‘tis the flower,
-          Always gay!’
+‘Of all the [[King|king]]’s knights ‘tis the flower,
+Compagnon de la Majolaine!
+Of all the [[King|king]]’s knights ‘tis the flower,
+Always gay!’
 
 Which accompanied them so far down the few steep stairs, that the
 [[Prison|prison]]-keeper had to stop at last for his little daughter to hear the
@@ -37929,7 +37929,7 @@ gentleman?’
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_04" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 4)" data-chapter="Chapter 03 Sun and Shadow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_04" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 4)" data-chapter="Sun and Shadow" data-kind="excerpt"></span>
 
 
 ‘ALTRO!’ returned John Baptist, closing his eyes and giving his head a
@@ -38051,7 +38051,7 @@ seriously.
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_05" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 5)" data-chapter="Chapter 03 Sun and Shadow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_05" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 5)" data-chapter="Sun and Shadow" data-kind="excerpt"></span>
 
 
 ‘I am sensitive and brave. I do not advance it as a merit to be
@@ -38197,7 +38197,7 @@ that it scarcely whispered of the [[Time|time]] when it shall give up its dead.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_01" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 1)" data-chapter="Chapter 04 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_01" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 1)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 CHAPTER 2 Fellow Travellers
@@ -38339,7 +38339,7 @@ gravity of his dark face.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_02" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 2)" data-chapter="Chapter 04 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_02" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 2)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 ‘Practical people. So one day, five or six years ago now, when we took
@@ -38354,9 +38354,9 @@ show her everything that we think can please her--Mother (my usual name
 for Mrs Meagles) began to cry so, that it was necessary to take her out.
 “What’s the matter, Mother?” said I, when we had brought her a little
 round: “you are frightening Pet, my dear.” “Yes, I know that, Father,”
- says Mother, “but I think it’s through my loving her so much, that it
+says Mother, “but I think it’s through my loving her so much, that it
 ever came into my head.” “That ever what came into your head, Mother?”
- “O dear, dear!” cried Mother, breaking out again, “when I saw all those
+“O dear, dear!” cried Mother, breaking out again, “when I saw all those
 children ranged tier above tier, and appealing from the father none of
 them has ever known on earth, to the great Father of us all in Heaven,
 I thought, does any wretched mother ever come here, and look among those
@@ -38461,7 +38461,7 @@ greater traveller in course of [[Time|time]] than Captain Cook.’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_03" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 3)" data-chapter="Chapter 04 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_03" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 3)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 ‘I thank you,’ said the other, ‘very heartily for your confidence.’
@@ -38590,7 +38590,7 @@ isn’t it?’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_04" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 4)" data-chapter="Chapter 04 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_04" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 4)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 ‘That I am not credulous?’ said Miss Wade.
@@ -38728,7 +38728,7 @@ prevent it, from the vilest sweepings of this very town.’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_05" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 5)" data-chapter="Chapter 04 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fellow_travellers--part_05" data-title="Little Dorrit — Chapter 2: Fellow Travellers (part 5)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 With the coldest of farewells, and with a certain worn expression on her
@@ -38831,7 +38831,7 @@ another, move all we restless travellers through the pilgrimage of life.
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_01" data-title="Little Dorrit — Chapter 3: [[Home (part 1)" data-chapter="Chapter 05 Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_01" data-title="Little Dorrit — Chapter 3: [[Home (part 1)" data-chapter="Home" data-kind="excerpt"></span>
 
 
 CHAPTER 3. [[Home]]
@@ -38936,7 +38936,7 @@ bed-room?’
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_02" data-title="Little Dorrit — Chapter 3: [[Home (part 2)" data-chapter="Chapter 05 Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_02" data-title="Little Dorrit — Chapter 3: [[Home (part 2)" data-chapter="Home" data-kind="excerpt"></span>
 
 
 ‘Stay!’ said Clennam, rousing himself. ‘I was not thinking of what I
@@ -39049,7 +39049,7 @@ have been propped up in a similar manner.
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_03" data-title="Little Dorrit — Chapter 3: [[Home (part 3)" data-chapter="Chapter 05 Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_03" data-title="Little Dorrit — Chapter 3: [[Home (part 3)" data-chapter="Home" data-kind="excerpt"></span>
 
 
 ‘How weak am I,’ said [[Arthur Clennam]], when he was gone, ‘that I could
@@ -39175,7 +39175,7 @@ opposing herself to her son’s opinion, was not clearly expressed.
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_04" data-title="Little Dorrit — Chapter 3: [[Home (part 4)" data-chapter="Chapter 05 Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_04" data-title="Little Dorrit — Chapter 3: [[Home (part 4)" data-chapter="Home" data-kind="excerpt"></span>
 
 
 ‘After my father’s [[Death|death]] I opened it myself, thinking there might be,
@@ -39303,7 +39303,7 @@ want yet?’
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_05" data-title="Little Dorrit — Chapter 3: [[Home (part 5)" data-chapter="Chapter 05 Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_05" data-title="Little Dorrit — Chapter 3: [[Home (part 5)" data-chapter="Home" data-kind="excerpt"></span>
 
 
 She had been collecting sheets and blankets from a press, and hastened
@@ -39408,7 +39408,7 @@ Affery, I understand that you and Jeremiah are going to be married. I
 am glad of it, and so are you, with reason. It is a very good thing for
 you, and very welcome under the circumstances to me. He is a sensible
 man, and a trustworthy man, and a persevering man, and a pious man.”
- What could I say when it had come to that? Why, if it had been--a
+What could I say when it had come to that? Why, if it had been--a
 smothering instead of a wedding,’ Mrs Flintwinch cast about in her mind
 with great pains for this form of expression, ‘I couldn’t have said a
 word upon it, against them two clever ones.’
@@ -39463,7 +39463,7 @@ all.
 
 
 
-<span class="atom-split" data-atom="chapter_07_family_affairs--part_01" data-title="Little Dorrit — Chapter 5: Family Affairs (part 1)" data-chapter="Chapter 07 Family Affairs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_family_affairs--part_01" data-title="Little Dorrit — Chapter 5: Family Affairs (part 1)" data-chapter="Family Affairs" data-kind="excerpt"></span>
 
 
 CHAPTER 5. Family Affairs
@@ -39602,7 +39602,7 @@ I have said. That concerned myself; this concerns us all.’
 
 
 
-<span class="atom-split" data-atom="chapter_07_family_affairs--part_02" data-title="Little Dorrit — Chapter 5: Family Affairs (part 2)" data-chapter="Chapter 07 Family Affairs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_family_affairs--part_02" data-title="Little Dorrit — Chapter 5: Family Affairs (part 2)" data-chapter="Family Affairs" data-kind="excerpt"></span>
 
 
 ‘Yourself, myself, my dead father.’
@@ -39727,7 +39727,7 @@ spoke with great distinctness.
 
 
 
-<span class="atom-split" data-atom="chapter_07_family_affairs--part_03" data-title="Little Dorrit — Chapter 5: Family Affairs (part 3)" data-chapter="Chapter 07 Family Affairs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_family_affairs--part_03" data-title="Little Dorrit — Chapter 5: Family Affairs (part 3)" data-chapter="Family Affairs" data-kind="excerpt"></span>
 
 
 ‘Reparation!’ said she. ‘Yes, truly! It is easy for him to talk of
@@ -39852,7 +39852,7 @@ that she had all the manner and much of the appearance of a subdued
 
 
 
-<span class="atom-split" data-atom="chapter_07_family_affairs--part_04" data-title="Little Dorrit — Chapter 5: Family Affairs (part 4)" data-chapter="Chapter 07 Family Affairs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_family_affairs--part_04" data-title="Little Dorrit — Chapter 5: Family Affairs (part 4)" data-chapter="Family Affairs" data-kind="excerpt"></span>
 
 
 In a hard way, and in an uncertain way that fluctuated between patronage
@@ -39998,7 +39998,7 @@ resolved to watch Little Dorrit and know more of her story.
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 1)" data-chapter="Chapter 08 The Father of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 1)" data-chapter="The Father of the Marshalsea" data-kind="excerpt"></span>
 
 
 CHAPTER 6. The Father of the Marshalsea
@@ -40144,7 +40144,7 @@ gave him up as a hopeless job.
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 2)" data-chapter="Chapter 08 The Father of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 2)" data-chapter="The Father of the Marshalsea" data-kind="excerpt"></span>
 
 
 ‘Out?’ said the turnkey, ‘_he_‘ll never get out, unless his creditors take
@@ -40259,7 +40259,7 @@ poorly, sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 3)" data-chapter="Chapter 08 The Father of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 3)" data-chapter="The Father of the Marshalsea" data-kind="excerpt"></span>
 
 
 ‘Mrs Bangham,’ returned the doctor, ‘I am not your business, thank you,
@@ -40372,7 +40372,7 @@ prisonous, of the streets streety.
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 4)" data-chapter="Chapter 08 The Father of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_father_of_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 6: The Father of the Marshalsea (part 4)" data-chapter="The Father of the Marshalsea" data-kind="excerpt"></span>
 
 
 [[Time]] went on, and the turnkey began to fail. His chest swelled, and his
@@ -40495,7 +40495,7 @@ walked so late in the shadows of the yard, and seemed so downcast.
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 1)" data-chapter="Chapter 09 The Child of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 1)" data-chapter="The Child of the Marshalsea" data-kind="excerpt"></span>
 
 
 CHAPTER 7. The [[Child]] of the Marshalsea
@@ -40628,7 +40628,7 @@ and out.
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 2)" data-chapter="Chapter 09 The Child of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 2)" data-chapter="The Child of the Marshalsea" data-kind="excerpt"></span>
 
 
 ‘Supposing,’ he would say, stating the case with his key on the
@@ -40749,7 +40749,7 @@ behalf.
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 3)" data-chapter="Chapter 09 The Child of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 3)" data-chapter="The Child of the Marshalsea" data-kind="excerpt"></span>
 
 
 ‘I beg your pardon, ma’am,’ she said, looking timidly round the door of
@@ -40880,7 +40880,7 @@ again.
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 4)" data-chapter="Chapter 09 The Child of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_child_of_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 7: The Child of the Marshalsea (part 4)" data-chapter="The Child of the Marshalsea" data-kind="excerpt"></span>
 
 
 ‘Not going back again?’ said the poor little anxious [[Child]] of the
@@ -41022,7 +41022,7 @@ Marshalsea.
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_lock--part_01" data-title="Little Dorrit — Chapter 8: The Lock (part 1)" data-chapter="Chapter 10 The Lock" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_lock--part_01" data-title="Little Dorrit — Chapter 8: The Lock (part 1)" data-chapter="The Lock" data-kind="excerpt"></span>
 
 
 CHAPTER 8. The Lock
@@ -41143,7 +41143,7 @@ sir, but you will not find anything in the way.’
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_lock--part_02" data-title="Little Dorrit — Chapter 8: The Lock (part 2)" data-chapter="Chapter 10 The Lock" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_lock--part_02" data-title="Little Dorrit — Chapter 8: The Lock (part 2)" data-chapter="The Lock" data-kind="excerpt"></span>
 
 
 He paused for a moment before opening a door on the second story. He had
@@ -41287,7 +41287,7 @@ with this--ahem--this particular Testimonial.’
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_lock--part_03" data-title="Little Dorrit — Chapter 8: The Lock (part 3)" data-chapter="Chapter 10 The Lock" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_lock--part_03" data-title="Little Dorrit — Chapter 8: The Lock (part 3)" data-chapter="The Lock" data-kind="excerpt"></span>
 
 
 [[arthur|Arthur]] was in the act of saying the little he could say on such a theme,
@@ -41417,7 +41417,7 @@ never know it. I don’t see why, myself.’
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_lock--part_04" data-title="Little Dorrit — Chapter 8: The Lock (part 4)" data-chapter="Chapter 10 The Lock" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_lock--part_04" data-title="Little Dorrit — Chapter 8: The Lock (part 4)" data-chapter="The Lock" data-kind="excerpt"></span>
 
 
 ‘Can I get any shelter?’ asked [[arthur|Arthur]]. ‘What had I better do?’
@@ -41543,7 +41543,7 @@ owe on this score!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_little_mother--part_01" data-title="Little Dorrit — Chapter 9: Little Mother (part 1)" data-chapter="Chapter 11 Little Mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_little_mother--part_01" data-title="Little Dorrit — Chapter 9: Little Mother (part 1)" data-chapter="Little Mother" data-kind="excerpt"></span>
 
 
 CHAPTER 9. Little Mother
@@ -41653,7 +41653,7 @@ repaired with all [[Speed|speed]] to the clarionet-player’s dwelling.
 
 
 
-<span class="atom-split" data-atom="chapter_11_little_mother--part_02" data-title="Little Dorrit — Chapter 9: Little Mother (part 2)" data-chapter="Chapter 11 Little Mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_little_mother--part_02" data-title="Little Dorrit — Chapter 9: Little Mother (part 2)" data-chapter="Little Mother" data-kind="excerpt"></span>
 
 
 There were so many lodgers in this [[house]] that the doorpost seemed to be
@@ -41783,7 +41783,7 @@ probably forgetting them before they had reached the ground floor.
 
 
 
-<span class="atom-split" data-atom="chapter_11_little_mother--part_03" data-title="Little Dorrit — Chapter 9: Little Mother (part 3)" data-chapter="Chapter 11 Little Mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_little_mother--part_03" data-title="Little Dorrit — Chapter 9: Little Mother (part 3)" data-chapter="Little Mother" data-kind="excerpt"></span>
 
 
 Mr Cripples’s pupils, who were by this [[Time|time]] coming to school, desisted
@@ -41914,7 +41914,7 @@ century, and be prosperous!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_little_mother--part_04" data-title="Little Dorrit — Chapter 9: Little Mother (part 4)" data-chapter="Chapter 11 Little Mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_little_mother--part_04" data-title="Little Dorrit — Chapter 9: Little Mother (part 4)" data-chapter="Little Mother" data-kind="excerpt"></span>
 
 
 What affection in her words, what compassion in her repressed [[Tears|tears]],
@@ -42052,7 +42052,7 @@ childish aspect.
 
 
 
-<span class="atom-split" data-atom="chapter_11_little_mother--part_05" data-title="Little Dorrit — Chapter 9: Little Mother (part 5)" data-chapter="Chapter 11 Little Mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_little_mother--part_05" data-title="Little Dorrit — Chapter 9: Little Mother (part 5)" data-chapter="Little Mother" data-kind="excerpt"></span>
 
 
 They were come into the High Street, where the [[Prison|prison]] stood, when a
@@ -42205,7 +42205,7 @@ tamely fluttered in, he saw it shut again; and then he came away.
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_01" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 1)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_01" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 1)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 CHAPTER 10. Containing the whole Science of [[government|Government]]
@@ -42320,7 +42320,7 @@ immaculate by an accommodating majority.
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_02" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 2)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_02" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 2)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 Such a nursery of statesmen had the Department become in virtue of a
@@ -42444,7 +42444,7 @@ he had conceived; ‘that it’s nothing about Tonnage?’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_03" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 3)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_03" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 3)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 ‘Quite sure.’
@@ -42561,7 +42561,7 @@ lofty expression, I shall feel obliged.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_04" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 4)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_04" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 4)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 ‘I have found a debtor in the Marshalsea [[Prison]] of the name of Dorrit,
@@ -42692,7 +42692,7 @@ cleaned out.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_05" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 5)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_05" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 5)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 ‘Mr Wobbler?’ inquired the suitor.
@@ -42831,7 +42831,7 @@ Idol of the Circumlocution Office.
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_06" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 6)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_06" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 6)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 [[Arthur Clennam]] put his forms in his pocket gloomily enough, and went
@@ -42968,7 +42968,7 @@ to get rid of anyhow; a man to be worn out by all possible means.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_07" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 7)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_07" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 7)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 It was not so difficult to believe, after the morning’s experience, as
@@ -43088,7 +43088,7 @@ not discourage and ill-treat?’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_08" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 8)" data-chapter="Chapter 12 Containing the whole Science o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_08" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 8)" data-chapter="Containing the whole Science o" data-kind="excerpt"></span>
 
 
 ‘I cannot say that I ever have.’
@@ -43157,7 +43157,7 @@ if she over-did the Circumlocution Office.
 
 
 
-<span class="atom-split" data-atom="chapter_13_let_loose--part_01" data-title="Little Dorrit — Chapter 11: Let Loose (part 1)" data-chapter="Chapter 13 Let Loose" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_let_loose--part_01" data-title="Little Dorrit — Chapter 11: Let Loose (part 1)" data-chapter="Let Loose" data-kind="excerpt"></span>
 
 
 CHAPTER 11. Let Loose
@@ -43281,7 +43281,7 @@ discussion--especially as the devil was in question.
 
 
 
-<span class="atom-split" data-atom="chapter_13_let_loose--part_02" data-title="Little Dorrit — Chapter 11: Let Loose (part 2)" data-chapter="Chapter 13 Let Loose" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_let_loose--part_02" data-title="Little Dorrit — Chapter 11: Let Loose (part 2)" data-chapter="Let Loose" data-kind="excerpt"></span>
 
 
 The landlady having given her directions for the new guest’s
@@ -43417,7 +43417,7 @@ worse.
 
 
 
-<span class="atom-split" data-atom="chapter_13_let_loose--part_03" data-title="Little Dorrit — Chapter 11: Let Loose (part 3)" data-chapter="Chapter 13 Let Loose" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_let_loose--part_03" data-title="Little Dorrit — Chapter 11: Let Loose (part 3)" data-chapter="Let Loose" data-kind="excerpt"></span>
 
 
 The guest sat looking at her as he smoked out his final cigarette, and
@@ -43549,7 +43549,7 @@ have sometimes had a thought of going to [[Paris]], and perhaps to England.’
 
 
 
-<span class="atom-split" data-atom="chapter_13_let_loose--part_04" data-title="Little Dorrit — Chapter 11: Let Loose (part 4)" data-chapter="Chapter 13 Let Loose" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_let_loose--part_04" data-title="Little Dorrit — Chapter 11: Let Loose (part 4)" data-chapter="Let Loose" data-kind="excerpt"></span>
 
 
 ‘Cavalletto. This is in confidence. I also am going to [[Paris]] and perhaps
@@ -43656,7 +43656,7 @@ patron.
 
 
 
-<span class="atom-split" data-atom="chapter_14_bleeding_heart_yard--part_01" data-title="Little Dorrit — Chapter 12: Bleeding Heart Yard (part 1)" data-chapter="Chapter 14 Bleeding Heart Yard" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_bleeding_heart_yard--part_01" data-title="Little Dorrit — Chapter 12: Bleeding Heart Yard (part 1)" data-chapter="Bleeding Heart Yard" data-kind="excerpt"></span>
 
 
 CHAPTER 12. Bleeding Heart Yard
@@ -43773,7 +43773,7 @@ you?’ asked Mrs Plornish wistfully.
 
 
 
-<span class="atom-split" data-atom="chapter_14_bleeding_heart_yard--part_02" data-title="Little Dorrit — Chapter 12: Bleeding Heart Yard (part 2)" data-chapter="Chapter 14 Bleeding Heart Yard" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_bleeding_heart_yard--part_02" data-title="Little Dorrit — Chapter 12: Bleeding Heart Yard (part 2)" data-chapter="Bleeding Heart Yard" data-kind="excerpt"></span>
 
 
 She asked it so anxiously, that if he had been in possession of any
@@ -43917,7 +43917,7 @@ kissed it.
 
 
 
-<span class="atom-split" data-atom="chapter_14_bleeding_heart_yard--part_03" data-title="Little Dorrit — Chapter 12: Bleeding Heart Yard (part 3)" data-chapter="Chapter 14 Bleeding Heart Yard" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_bleeding_heart_yard--part_03" data-title="Little Dorrit — Chapter 12: Bleeding Heart Yard (part 3)" data-chapter="Bleeding Heart Yard" data-kind="excerpt"></span>
 
 
 ‘The landlord of the Yard,’ said [[Arthur Clennam]], ‘is--’
@@ -44056,7 +44056,7 @@ tune, which were not known by ear in that glorious institution.
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_01" data-title="Little Dorrit — Chapter 13: Patriarchal (part 1)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_01" data-title="Little Dorrit — Chapter 13: Patriarchal (part 1)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 CHAPTER 13. Patriarchal
@@ -44164,7 +44164,7 @@ unreason to expect him to be sitting there without that head.
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_02" data-title="Little Dorrit — Chapter 13: Patriarchal (part 2)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_02" data-title="Little Dorrit — Chapter 13: Patriarchal (part 2)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 [[Arthur Clennam]] moved to attract his attention, and the grey eyebrows
@@ -44328,7 +44328,7 @@ accepted in lieu of the internal character.
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_03" data-title="Little Dorrit — Chapter 13: Patriarchal (part 3)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_03" data-title="Little Dorrit — Chapter 13: Patriarchal (part 3)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 Calling these things to mind, and ranging [[Mr Pancks]] in a row with them,
@@ -44441,7 +44441,7 @@ any lady, Flora.’
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_04" data-title="Little Dorrit — Chapter 13: Patriarchal (part 4)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_04" data-title="Little Dorrit — Chapter 13: Patriarchal (part 4)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 ‘Oh good gracious me I [[Hope|hope]] you never kept yourself a bachelor so long
@@ -44564,7 +44564,7 @@ I do?’
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_05" data-title="Little Dorrit — Chapter 13: Patriarchal (part 5)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_05" data-title="Little Dorrit — Chapter 13: Patriarchal (part 5)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 ‘Nothing whatever,’ said [[arthur|Arthur]], with the cheerfulest readiness, ‘but
@@ -44683,7 +44683,7 @@ she had no name but Mr F.’s Aunt.
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_06" data-title="Little Dorrit — Chapter 13: Patriarchal (part 6)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_06" data-title="Little Dorrit — Chapter 13: Patriarchal (part 6)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 She broke upon the visitor’s view under the following circumstances:
@@ -44805,7 +44805,7 @@ have drifted anywhere.
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_07" data-title="Little Dorrit — Chapter 13: Patriarchal (part 7)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_07" data-title="Little Dorrit — Chapter 13: Patriarchal (part 7)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 When he began to come to himself, in the cooler air and the absence of
@@ -44936,7 +44936,7 @@ you expect from a poor foreigner who don’t know nothing about ‘em!’
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_08" data-title="Little Dorrit — Chapter 13: Patriarchal (part 8)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_08" data-title="Little Dorrit — Chapter 13: Patriarchal (part 8)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 In the midst of such replies as ‘Frenchman, sir,’ ‘Porteghee, sir,’
@@ -45063,7 +45063,7 @@ with waking eyes, but he had not felt it then; and he had now.
 
 
 
-<span class="atom-split" data-atom="chapter_15_patriarchal--part_09" data-title="Little Dorrit — Chapter 13: Patriarchal (part 9)" data-chapter="Chapter 15 Patriarchal" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_patriarchal--part_09" data-title="Little Dorrit — Chapter 13: Patriarchal (part 9)" data-chapter="Patriarchal" data-kind="excerpt"></span>
 
 
 He was a dreamer in such wise, because he was a man who had, deep-rooted
@@ -45113,7 +45113,7 @@ came as if they were an answer:
 
 
 
-<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_01" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 1)" data-chapter="Chapter 16 Little Dorrits Party" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_01" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 1)" data-chapter="Little Dorrits Party" data-kind="excerpt"></span>
 
 
 CHAPTER 14. Little Dorrit’s Party
@@ -45254,7 +45254,7 @@ to give him!’
 
 
 
-<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_02" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 2)" data-chapter="Chapter 16 Little Dorrits Party" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_02" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 2)" data-chapter="Little Dorrits Party" data-kind="excerpt"></span>
 
 
 Little Dorrit had put his hand to her lips, and would have kneeled to
@@ -45383,7 +45383,7 @@ something, perhaps.’
 
 
 
-<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_03" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 3)" data-chapter="Chapter 16 Little Dorrits Party" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_03" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 3)" data-chapter="Little Dorrits Party" data-kind="excerpt"></span>
 
 
 ‘We will make her find pockets presently for all there is here,’ said
@@ -45522,7 +45522,7 @@ Little Dorrit, kissing one of the bars, ‘and does not miss me.’
 
 
 
-<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_04" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 4)" data-chapter="Chapter 16 Little Dorrits Party" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_04" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 4)" data-chapter="Little Dorrits Party" data-kind="excerpt"></span>
 
 
 The gate was so familiar, and so like a companion, that they put down
@@ -45656,7 +45656,7 @@ present herself and her charge before him.
 
 
 
-<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_05" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 5)" data-chapter="Chapter 16 Little Dorrits Party" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_little_dorrits_party--part_05" data-title="Little Dorrit — Chapter 14: Little Dorrit’s Party (part 5)" data-chapter="Little Dorrits Party" data-kind="excerpt"></span>
 
 
 ‘We have often seen each other,’ said Little Dorrit, recognising the
@@ -45720,7 +45720,7 @@ morning.
 
 
 
-<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_01" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 1)" data-chapter="Chapter 17 Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_01" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 1)" data-chapter="Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
 
 
 CHAPTER 15. Mrs Flintwinch has another Dream
@@ -45828,7 +45828,7 @@ liked it or not.’
 
 
 
-<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_02" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 2)" data-chapter="Chapter 17 Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_02" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 2)" data-chapter="Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
 
 
 ‘What have I done, you wrathful man?’ her strong voice asked.
@@ -45961,7 +45961,7 @@ gathered into the barn?’
 
 
 
-<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_03" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 3)" data-chapter="Chapter 17 Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_03" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 3)" data-chapter="Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
 
 
 ‘Ay, ay! But since you have been lying here--not near dead--nothing like
@@ -46102,7 +46102,7 @@ having her apron over her head, lest she should see something.
 
 
 
-<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_04" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 4)" data-chapter="Chapter 17 Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_mrs_flintwinch_has_another_dre--part_04" data-title="Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 4)" data-chapter="Mrs Flintwinch has another Dre" data-kind="excerpt"></span>
 
 
 What with these ghostly apprehensions and her singular [[Dreams|dreams]], Mrs
@@ -46157,7 +46157,7 @@ such a dose! You have been dreaming again!’
 
 
 
-<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_01" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 1)" data-chapter="Chapter 18 Nobodys Weakness" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_01" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 1)" data-chapter="Nobodys Weakness" data-kind="excerpt"></span>
 
 
 CHAPTER 16. Nobody’s Weakness
@@ -46272,7 +46272,7 @@ Stiltstalkings.
 
 
 
-<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_02" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 2)" data-chapter="Chapter 18 Nobodys Weakness" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_02" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 2)" data-chapter="Nobodys Weakness" data-kind="excerpt"></span>
 
 
 ‘It is much to be regretted,’ said Clennam, ‘that you ever turned your
@@ -46388,7 +46388,7 @@ here!’
 
 
 
-<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_03" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 3)" data-chapter="Chapter 18 Nobodys Weakness" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_03" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 3)" data-chapter="Nobodys Weakness" data-kind="excerpt"></span>
 
 
 ‘A different kind of [[Beauty|beauty]], indeed!’ said Clennam, looking about him.
@@ -46502,7 +46502,7 @@ with an angry and contemptuous frown upon her face, that changed its
 
 
 
-<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_04" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 4)" data-chapter="Chapter 18 Nobodys Weakness" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_04" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 4)" data-chapter="Nobodys Weakness" data-kind="excerpt"></span>
 
 
 ‘But come!’ said Mr Meagles. ‘You have had a long walk, and will be glad
@@ -46635,7 +46635,7 @@ Tatty stood for a moment, immovable.
 
 
 
-<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_05" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 5)" data-chapter="Chapter 18 Nobodys Weakness" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_nobodys_weakness--part_05" data-title="Little Dorrit — Chapter 16: Nobody’s Weakness (part 5)" data-chapter="Nobodys Weakness" data-kind="excerpt"></span>
 
 
 She might have counted a dozen, when she bent and put her lips to the
@@ -46799,7 +46799,7 @@ happiness with its insensibility to [[Pain|pain]].
 
 
 
-<span class="atom-split" data-atom="chapter_19_nobodys_rival--part_01" data-title="Little Dorrit — Chapter 17: Nobody’s Rival (part 1)" data-chapter="Chapter 19 Nobodys Rival" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nobodys_rival--part_01" data-title="Little Dorrit — Chapter 17: Nobody’s Rival (part 1)" data-chapter="Nobodys Rival" data-kind="excerpt"></span>
 
 
 CHAPTER 17. Nobody’s Rival
@@ -46927,7 +46927,7 @@ connected, I thought you would not object to my transferring him here.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nobodys_rival--part_02" data-title="Little Dorrit — Chapter 17: Nobody’s Rival (part 2)" data-chapter="Chapter 19 Nobodys Rival" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nobodys_rival--part_02" data-title="Little Dorrit — Chapter 17: Nobody’s Rival (part 2)" data-chapter="Nobodys Rival" data-kind="excerpt"></span>
 
 
 ‘Who _is_ the young fellow?’ asked Mr Meagles with peculiar complacency.
@@ -47080,7 +47080,7 @@ left: jaundiced and jealous as to the other that he couldn’t reach.
 
 
 
-<span class="atom-split" data-atom="chapter_19_nobodys_rival--part_03" data-title="Little Dorrit — Chapter 17: Nobody’s Rival (part 3)" data-chapter="Chapter 19 Nobodys Rival" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nobodys_rival--part_03" data-title="Little Dorrit — Chapter 17: Nobody’s Rival (part 3)" data-chapter="Nobodys Rival" data-kind="excerpt"></span>
 
 
 Such was the substance of Clennam’s discoveries concerning him, made
@@ -47233,7 +47233,7 @@ As it was, the rain fell heavily, drearily.
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_01" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 1)" data-chapter="Chapter 20 Little Dorrits Lover" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_01" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 1)" data-chapter="Little Dorrits Lover" data-kind="excerpt"></span>
 
 
 CHAPTER 18. Little Dorrit’s [[Lover]]
@@ -47336,7 +47336,7 @@ returned excited to the tobacco shop, and flown at the customers.
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_02" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 2)" data-chapter="Chapter 20 Little Dorrits Lover" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_02" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 2)" data-chapter="Little Dorrits Lover" data-kind="excerpt"></span>
 
 
 In this affair, as in every other, Little Dorrit herself was the last
@@ -47445,7 +47445,7 @@ round and round upon his left-hand, like a slowly twirling mouse-cage;
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_03" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 3)" data-chapter="Chapter 20 Little Dorrits Lover" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_03" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 3)" data-chapter="Little Dorrits Lover" data-kind="excerpt"></span>
 
 
 ‘Yes, John, yes; very [[Well|well]]. She is out.’
@@ -47568,7 +47568,7 @@ happy.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_04" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 4)" data-chapter="Chapter 20 Little Dorrits Lover" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_04" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 4)" data-chapter="Little Dorrits Lover" data-kind="excerpt"></span>
 
 
 There really was a genuineness in the poor fellow, and a contrast
@@ -47679,7 +47679,7 @@ accordingly directed to be done, By his afflicted Parents.’
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_01" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 1)" data-chapter="Chapter 21 The Father of the Marshalsea i" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_01" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 1)" data-chapter="The Father of the Marshalsea i" data-kind="excerpt"></span>
 
 
 CHAPTER 19. The Father of the Marshalsea in two or three Relations
@@ -47797,7 +47797,7 @@ strength, to press his fallen brother further.
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_02" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 2)" data-chapter="Chapter 21 The Father of the Marshalsea i" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_02" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 2)" data-chapter="The Father of the Marshalsea i" data-kind="excerpt"></span>
 
 
 There was a great deal of leave-taking going on in corners, as was usual
@@ -47910,7 +47910,7 @@ quite [[Well|well]]?
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_03" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 3)" data-chapter="Chapter 21 The Father of the Marshalsea i" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_03" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 3)" data-chapter="The Father of the Marshalsea i" data-kind="excerpt"></span>
 
 
 As she stood behind him, leaning over his chair so lovingly, he looked
@@ -48033,7 +48033,7 @@ gone, poor castaway, gone?’
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_04" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 4)" data-chapter="Chapter 21 The Father of the Marshalsea i" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_father_of_the_marshalsea_i--part_04" data-title="Little Dorrit — Chapter 19: The Father of the Marshalsea in two or three Relations (part 4)" data-chapter="The Father of the Marshalsea i" data-kind="excerpt"></span>
 
 
 He burst into [[Tears|tears]] of maudlin pity for himself, and at length [[Suffering|suffering]]
@@ -48191,7 +48191,7 @@ life!’
 
 
 
-<span class="atom-split" data-atom="chapter_22_moving_in_society--part_01" data-title="Little Dorrit — Chapter 20: Moving in Society (part 1)" data-chapter="Chapter 22 Moving in Society" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_moving_in_society--part_01" data-title="Little Dorrit — Chapter 20: Moving in Society (part 1)" data-chapter="Moving in Society" data-kind="excerpt"></span>
 
 
 CHAPTER 20. Moving in Society
@@ -48303,7 +48303,7 @@ chattered.
 
 
 
-<span class="atom-split" data-atom="chapter_22_moving_in_society--part_02" data-title="Little Dorrit — Chapter 20: Moving in Society (part 2)" data-chapter="Chapter 22 Moving in Society" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_moving_in_society--part_02" data-title="Little Dorrit — Chapter 20: Moving in Society (part 2)" data-chapter="Moving in Society" data-kind="excerpt"></span>
 
 
 Just as the sisters arrived here, a monotonous boy in a Scotch cap put
@@ -48424,7 +48424,7 @@ as we have. They are all on their own level. Common.’
 
 
 
-<span class="atom-split" data-atom="chapter_22_moving_in_society--part_03" data-title="Little Dorrit — Chapter 20: Moving in Society (part 3)" data-chapter="Chapter 22 Moving in Society" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_moving_in_society--part_03" data-title="Little Dorrit — Chapter 20: Moving in Society (part 3)" data-chapter="Moving in Society" data-kind="excerpt"></span>
 
 
 Little Dorrit mildly looked at the speaker, but did not interrupt her.
@@ -48540,7 +48540,7 @@ expressively that Mrs Merdle was under no necessity to end it.
 
 
 
-<span class="atom-split" data-atom="chapter_22_moving_in_society--part_04" data-title="Little Dorrit — Chapter 20: Moving in Society (part 4)" data-chapter="Chapter 22 Moving in Society" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_moving_in_society--part_04" data-title="Little Dorrit — Chapter 20: Moving in Society (part 4)" data-chapter="Moving in Society" data-kind="excerpt"></span>
 
 
 ‘Since your sister begs that I would terminate our personal
@@ -48669,7 +48669,7 @@ mark or two of my appreciation at my dressmaker’s.’
 
 
 
-<span class="atom-split" data-atom="chapter_22_moving_in_society--part_05" data-title="Little Dorrit — Chapter 20: Moving in Society (part 5)" data-chapter="Chapter 22 Moving in Society" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_moving_in_society--part_05" data-title="Little Dorrit — Chapter 20: Moving in Society (part 5)" data-chapter="Moving in Society" data-kind="excerpt"></span>
 
 
 Little Dorrit looked sorry, and glanced at Fanny with a troubled face.
@@ -48825,7 +48825,7 @@ hand. ‘It was not unreasonable in Fanny.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_mr_merdle_s_complaint--part_01" data-title="Little Dorrit — Chapter 21: Mr Merdle’s Complaint (part 1)" data-chapter="Chapter 23 Mr Merdle s Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_mr_merdle_s_complaint--part_01" data-title="Little Dorrit — Chapter 21: Mr Merdle’s Complaint (part 1)" data-chapter="Mr Merdle s Complaint" data-kind="excerpt"></span>
 
 
 CHAPTER 21. [[Mr Merdle]]’s Complaint
@@ -48928,7 +48928,7 @@ educated too--with no biggodd nonsense about her.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_mr_merdle_s_complaint--part_02" data-title="Little Dorrit — Chapter 21: Mr Merdle’s Complaint (part 2)" data-chapter="Chapter 23 Mr Merdle s Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_mr_merdle_s_complaint--part_02" data-title="Little Dorrit — Chapter 21: Mr Merdle’s Complaint (part 2)" data-chapter="Mr Merdle s Complaint" data-kind="excerpt"></span>
 
 
 A son-in-law with these limited talents, might have been a clog upon
@@ -49050,7 +49050,7 @@ on, and Bar came up.
 
 
 
-<span class="atom-split" data-atom="chapter_23_mr_merdle_s_complaint--part_03" data-title="Little Dorrit — Chapter 21: Mr Merdle’s Complaint (part 3)" data-chapter="Chapter 23 Mr Merdle s Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_mr_merdle_s_complaint--part_03" data-title="Little Dorrit — Chapter 21: Mr Merdle’s Complaint (part 3)" data-chapter="Mr Merdle s Complaint" data-kind="excerpt"></span>
 
 
 Bar, with his little insinuating jury droop, and fingering his
@@ -49203,7 +49203,7 @@ could be seen on the Dorrit Family at any stage of the sun’s course.
 
 
 
-<span class="atom-split" data-atom="chapter_24_a_puzzle--part_01" data-title="Little Dorrit — Chapter 22: A Puzzle (part 1)" data-chapter="Chapter 24 A Puzzle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_a_puzzle--part_01" data-title="Little Dorrit — Chapter 22: A Puzzle (part 1)" data-chapter="A Puzzle" data-kind="excerpt"></span>
 
 
 CHAPTER 22. A Puzzle
@@ -49323,7 +49323,7 @@ shake her head and dry her eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_24_a_puzzle--part_02" data-title="Little Dorrit — Chapter 22: A Puzzle (part 2)" data-chapter="Chapter 24 A Puzzle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_a_puzzle--part_02" data-title="Little Dorrit — Chapter 22: A Puzzle (part 2)" data-chapter="A Puzzle" data-kind="excerpt"></span>
 
 
 ‘Sir,’ said she in continuation, ‘you are acquainted with the family,
@@ -49438,7 +49438,7 @@ come there for air. He had left her in her father’s room within an hour.
 
 
 
-<span class="atom-split" data-atom="chapter_24_a_puzzle--part_03" data-title="Little Dorrit — Chapter 22: A Puzzle (part 3)" data-chapter="Chapter 24 A Puzzle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_a_puzzle--part_03" data-title="Little Dorrit — Chapter 22: A Puzzle (part 3)" data-chapter="A Puzzle" data-kind="excerpt"></span>
 
 
 It was a timely chance, favourable to his wish of observing her face
@@ -49569,7 +49569,7 @@ were nothing. You know what they were. They were nothing.’
 
 
 
-<span class="atom-split" data-atom="chapter_24_a_puzzle--part_04" data-title="Little Dorrit — Chapter 22: A Puzzle (part 4)" data-chapter="Chapter 24 A Puzzle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_a_puzzle--part_04" data-title="Little Dorrit — Chapter 22: A Puzzle (part 4)" data-chapter="A Puzzle" data-kind="excerpt"></span>
 
 
 ‘But I am afraid,’ she returned, ‘to leave him, I am afraid to leave
@@ -49631,7 +49631,7 @@ the Marshalsea wall.
 
 
 
-<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_01" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 1)" data-chapter="Chapter 25 Machinery in Motion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_01" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 1)" data-chapter="Machinery in Motion" data-kind="excerpt"></span>
 
 
 CHAPTER 23. Machinery in Motion
@@ -49769,7 +49769,7 @@ the affairs of the firm in his mind for years.
 
 
 
-<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_02" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 2)" data-chapter="Chapter 25 Machinery in Motion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_02" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 2)" data-chapter="Machinery in Motion" data-kind="excerpt"></span>
 
 
 The little counting-[[house]] reserved for his own occupation, was a room of
@@ -49895,7 +49895,7 @@ Clennam probably more business-like.’
 
 
 
-<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_03" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 3)" data-chapter="Chapter 25 Machinery in Motion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_03" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 3)" data-chapter="Machinery in Motion" data-kind="excerpt"></span>
 
 
 ‘Pray say nothing in the way of apology,’ [[arthur|Arthur]] entreated. ‘You are
@@ -50027,7 +50027,7 @@ and maidenly flutter of her spirits.
 
 
 
-<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_04" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 4)" data-chapter="Chapter 25 Machinery in Motion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_04" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 4)" data-chapter="Machinery in Motion" data-kind="excerpt"></span>
 
 
 The Patriarch, meanwhile, came inanely beaming towards the
@@ -50151,7 +50151,7 @@ books and papers.
 
 
 
-<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_05" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 5)" data-chapter="Chapter 25 Machinery in Motion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_05" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 5)" data-chapter="Machinery in Motion" data-kind="excerpt"></span>
 
 
 [[Mr Pancks]] asked, with a little inquiring twist of his head, if he
@@ -50292,7 +50292,7 @@ account of [[William Dorrit]]’s long [[Imprisonment|imprisonment]].
 
 
 
-<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_06" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 6)" data-chapter="Chapter 25 Machinery in Motion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_machinery_in_motion--part_06" data-title="Little Dorrit — Chapter 23: Machinery in Motion (part 6)" data-chapter="Machinery in Motion" data-kind="excerpt"></span>
 
 
 ‘In conclusion, [[Mr Pancks]],’ said [[arthur|Arthur]], ‘I have but to say this. I have
@@ -50398,7 +50398,7 @@ myself, that you ought to have got much more money, much more money.’
 
 
 
-<span class="atom-split" data-atom="chapter_26_fortune_telling--part_01" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 1)" data-chapter="Chapter 26 Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_fortune_telling--part_01" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 1)" data-chapter="Fortune Telling" data-kind="excerpt"></span>
 
 
 CHAPTER 24. Fortune-Telling
@@ -50514,7 +50514,7 @@ of myself indeed if you could come here upon any other, besides which
 
 
 
-<span class="atom-split" data-atom="chapter_26_fortune_telling--part_02" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 2)" data-chapter="Chapter 26 Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_fortune_telling--part_02" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 2)" data-chapter="Fortune Telling" data-kind="excerpt"></span>
 
 
 ‘No, ma’am.’
@@ -50640,7 +50640,7 @@ late Mr F.’
 
 
 
-<span class="atom-split" data-atom="chapter_26_fortune_telling--part_03" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 3)" data-chapter="Chapter 26 Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_fortune_telling--part_03" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 3)" data-chapter="Fortune Telling" data-kind="excerpt"></span>
 
 
 Flora, uttering these words in a deep voice, enjoyed herself immensely.
@@ -50762,7 +50762,7 @@ each of his louder snorts became a demand for payment.
 
 
 
-<span class="atom-split" data-atom="chapter_26_fortune_telling--part_04" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 4)" data-chapter="Chapter 26 Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_fortune_telling--part_04" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 4)" data-chapter="Fortune Telling" data-kind="excerpt"></span>
 
 
 But here again she was undeceived by anomalous and incongruous conduct
@@ -50914,7 +50914,7 @@ gipsy--fortune-telling.’
 
 
 
-<span class="atom-split" data-atom="chapter_26_fortune_telling--part_05" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 5)" data-chapter="Chapter 26 Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_fortune_telling--part_05" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 5)" data-chapter="Fortune Telling" data-kind="excerpt"></span>
 
 
 Little Dorrit worked and strove as usual, wondering at all this, but
@@ -51047,7 +51047,7 @@ tiny woman, who lived all [[Alone|alone]] by herself.’
 
 
 
-<span class="atom-split" data-atom="chapter_26_fortune_telling--part_06" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 6)" data-chapter="Chapter 26 Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_fortune_telling--part_06" data-title="Little Dorrit — Chapter 24: Fortune-Telling (part 6)" data-chapter="Fortune Telling" data-kind="excerpt"></span>
 
 
 ‘An old woman,’ said Maggy, with an unctuous smack of her lips.
@@ -51171,7 +51171,7 @@ us come away from the [[Window|window]].’
 
 
 
-<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_01" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 1)" data-chapter="Chapter 27 Conspirators and Others" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_01" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 1)" data-chapter="Conspirators and Others" data-kind="excerpt"></span>
 
 
 CHAPTER 25. Conspirators and Others
@@ -51279,7 +51279,7 @@ which it was turned.
 
 
 
-<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_02" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 2)" data-chapter="Chapter 27 Conspirators and Others" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_02" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 2)" data-chapter="Conspirators and Others" data-kind="excerpt"></span>
 
 
 That [[Mr Pancks]] should be moved to invite any one to dinner at
@@ -51407,7 +51407,7 @@ told.’
 
 
 
-<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_03" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 3)" data-chapter="Chapter 27 Conspirators and Others" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_03" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 3)" data-chapter="Conspirators and Others" data-kind="excerpt"></span>
 
 
 When he had thus disposed of his cards, all being done very quietly and
@@ -51525,7 +51525,7 @@ Anglo-Saxon tongue.
 
 
 
-<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_04" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 4)" data-chapter="Chapter 27 Conspirators and Others" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_conspirators_and_others--part_04" data-title="Little Dorrit — Chapter 25: Conspirators and Others (part 4)" data-chapter="Conspirators and Others" data-kind="excerpt"></span>
 
 
 It was in this stage of his progress, and in about the third week of his
@@ -51619,7 +51619,7 @@ appearance of being lightened and refreshed.
 
 
 
-<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_01" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 1)" data-chapter="Chapter 28 Nobodys State of Mind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_01" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 1)" data-chapter="Nobodys State of Mind" data-kind="excerpt"></span>
 
 
 CHAPTER 26. Nobody’s State of Mind
@@ -51772,7 +51772,7 @@ circumstances, doubtless it was nothing--nothing.
 
 
 
-<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_02" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 2)" data-chapter="Chapter 28 Nobodys State of Mind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_02" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 2)" data-chapter="Nobodys State of Mind" data-kind="excerpt"></span>
 
 
 Equally, if his heart had given entertainment to that prohibited guest,
@@ -51899,7 +51899,7 @@ unwelcome day when it came and they went down to Hampton [[Court]] together.
 
 
 
-<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_03" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 3)" data-chapter="Chapter 28 Nobodys State of Mind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_03" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 3)" data-chapter="Nobodys State of Mind" data-kind="excerpt"></span>
 
 
 The venerable inhabitants of that venerable pile seemed, in those times,
@@ -52005,7 +52005,7 @@ preserved.
 
 
 
-<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_04" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 4)" data-chapter="Chapter 28 Nobodys State of Mind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_04" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 4)" data-chapter="Nobodys State of Mind" data-kind="excerpt"></span>
 
 
 The noble Refrigerator assented; but added that if William Barnacle and
@@ -52143,7 +52143,7 @@ feel a little--’
 
 
 
-<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_05" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 5)" data-chapter="Chapter 28 Nobodys State of Mind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_nobodys_state_of_mind--part_05" data-title="Little Dorrit — Chapter 26: Nobody’s State of Mind (part 5)" data-chapter="Nobodys State of Mind" data-kind="excerpt"></span>
 
 
 As Mrs Gowan broke off to heave a sigh, Clennam, however resolute to
@@ -52266,7 +52266,7 @@ my mother must have bored you dreadfully.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_01" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 1)" data-chapter="Chapter 29 Five and Twenty" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_01" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 1)" data-chapter="Five and Twenty" data-kind="excerpt"></span>
 
 
 CHAPTER 27. Five-and-Twenty
@@ -52388,7 +52388,7 @@ been borne by Tattycoram. Now, don’t you think so?’
 
 
 
-<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_02" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 2)" data-chapter="Chapter 29 Five and Twenty" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_02" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 2)" data-chapter="Five and Twenty" data-kind="excerpt"></span>
 
 
 ‘I do indeed think so,’ returned Clennam, in most emphatic recognition
@@ -52435,7 +52435,7 @@ have often seen them together. [[Well]]! We presently heard this unfortunate
 Tattycoram loud and angry, and before we could ask what was the matter,
 Pet came back in a tremble, saying she was frightened of her. Close
 after her came Tattycoram in a flaming rage. “I hate you all three,”
- says she, stamping her foot at us. “I am bursting with hate of the whole
+says she, stamping her foot at us. “I am bursting with hate of the whole
 [[house]].”’
 
 ‘Upon which you--?’
@@ -52509,7 +52509,7 @@ said that day at dinner when you were first with us.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_03" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 3)" data-chapter="Chapter 29 Five and Twenty" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_03" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 3)" data-chapter="Five and Twenty" data-kind="excerpt"></span>
 
 
 ‘Have you any idea where Miss Wade is to be found?’
@@ -52614,7 +52614,7 @@ replied, ‘Lives here.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_04" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 4)" data-chapter="Chapter 29 Five and Twenty" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_04" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 4)" data-chapter="Five and Twenty" data-kind="excerpt"></span>
 
 
 ‘Is she at [[Home|home]]?’
@@ -52741,7 +52741,7 @@ and conscious that you know it--’
 
 
 
-<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_05" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 5)" data-chapter="Chapter 29 Five and Twenty" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_five_and_twenty--part_05" data-title="Little Dorrit — Chapter 27: Five-and-Twenty (part 5)" data-chapter="Five and Twenty" data-kind="excerpt"></span>
 
 
 ‘I don’t!’ said she, looking up again, and almost rending herself with
@@ -52845,7 +52845,7 @@ fortune that awaits her.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_nobodys_disappearance--part_01" data-title="Little Dorrit — Chapter 28: Nobody’s Disappearance (part 1)" data-chapter="Chapter 30 Nobodys Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_nobodys_disappearance--part_01" data-title="Little Dorrit — Chapter 28: Nobody’s Disappearance (part 1)" data-chapter="Nobodys Disappearance" data-kind="excerpt"></span>
 
 
 CHAPTER 28. Nobody’s Disappearance
@@ -52948,7 +52948,7 @@ confident. You always come this way, do you not?’
 
 
 
-<span class="atom-split" data-atom="chapter_30_nobodys_disappearance--part_02" data-title="Little Dorrit — Chapter 28: Nobody’s Disappearance (part 2)" data-chapter="Chapter 30 Nobodys Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_nobodys_disappearance--part_02" data-title="Little Dorrit — Chapter 28: Nobody’s Disappearance (part 2)" data-chapter="Nobodys Disappearance" data-kind="excerpt"></span>
 
 
 As Clennam said that it was his favourite way, he felt her hand falter
@@ -53076,7 +53076,7 @@ say, that it should be done--that he gave her his faithful promise.
 
 
 
-<span class="atom-split" data-atom="chapter_30_nobodys_disappearance--part_03" data-title="Little Dorrit — Chapter 28: Nobody’s Disappearance (part 3)" data-chapter="Chapter 30 Nobodys Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_nobodys_disappearance--part_03" data-title="Little Dorrit — Chapter 28: Nobody’s Disappearance (part 3)" data-chapter="Nobodys Disappearance" data-kind="excerpt"></span>
 
 
 ‘If I do not speak of mama,’ said Pet, more moved by, and more pretty
@@ -53188,7 +53188,7 @@ breasts, and near our hearts, flow from us to the eternal seas.
 
 
 
-<span class="atom-split" data-atom="chapter_31_mrs_flintwinch_goes_on_dreamin--part_01" data-title="Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming (part 1)" data-chapter="Chapter 31 Mrs Flintwinch goes on Dreamin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_mrs_flintwinch_goes_on_dreamin--part_01" data-title="Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming (part 1)" data-chapter="Mrs Flintwinch goes on Dreamin" data-kind="excerpt"></span>
 
 
 CHAPTER 29. Mrs Flintwinch goes on Dreaming
@@ -53306,7 +53306,7 @@ spell-bound.
 
 
 
-<span class="atom-split" data-atom="chapter_31_mrs_flintwinch_goes_on_dreamin--part_02" data-title="Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming (part 2)" data-chapter="Chapter 31 Mrs Flintwinch goes on Dreamin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_mrs_flintwinch_goes_on_dreamin--part_02" data-title="Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming (part 2)" data-chapter="Mrs Flintwinch goes on Dreamin" data-kind="excerpt"></span>
 
 
 Slowly and thoughtfully, [[Mrs Clennam]]’s eyes turned from the door by
@@ -53446,7 +53446,7 @@ and it is what she did.
 
 
 
-<span class="atom-split" data-atom="chapter_31_mrs_flintwinch_goes_on_dreamin--part_03" data-title="Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming (part 3)" data-chapter="Chapter 31 Mrs Flintwinch goes on Dreamin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_mrs_flintwinch_goes_on_dreamin--part_03" data-title="Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming (part 3)" data-chapter="Mrs Flintwinch goes on Dreamin" data-kind="excerpt"></span>
 
 
 From this posture she started up suddenly, with a half scream, feeling
@@ -53580,7 +53580,7 @@ it? What is it? Why does no one answer? Who _is_ that, down there?’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_01" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 1)" data-chapter="Chapter 32 The Word of a Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_01" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 1)" data-chapter="The Word of a Gentleman" data-kind="excerpt"></span>
 
 
 CHAPTER 30. The Word of a Gentleman
@@ -53717,7 +53717,7 @@ extent of, say Fifty Pounds sterling (50_l_.),’ &c. &c.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_02" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 2)" data-chapter="Chapter 32 The Word of a Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_02" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 2)" data-chapter="The Word of a Gentleman" data-kind="excerpt"></span>
 
 
 ‘Very good, sir,’ said Mr Flintwinch. ‘Take a chair. To the extent of
@@ -53834,7 +53834,7 @@ warning were fruitless. She is never to blame in any such instance.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_03" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 3)" data-chapter="Chapter 32 The Word of a Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_03" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 3)" data-chapter="The Word of a Gentleman" data-kind="excerpt"></span>
 
 
 Mr Blandois, having finished his repast and cleaned his fingers, took
@@ -53958,7 +53958,7 @@ a smile, and sat down again.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_04" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 4)" data-chapter="Chapter 32 The Word of a Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_04" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 4)" data-chapter="The Word of a Gentleman" data-kind="excerpt"></span>
 
 
 ‘You’ll excuse her, Mr Blandois,’ said Jeremiah, pouring out the tea
@@ -54086,7 +54086,7 @@ than with millions.’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_05" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 5)" data-chapter="Chapter 32 The Word of a Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_05" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 5)" data-chapter="The Word of a Gentleman" data-kind="excerpt"></span>
 
 
 As she spoke these words, she put her hand upon the watch, and restored
@@ -54220,7 +54220,7 @@ fortitude--great strength of mind.’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_06" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 6)" data-chapter="Chapter 32 The Word of a Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_word_of_a_gentleman--part_06" data-title="Little Dorrit — Chapter 30: The Word of a Gentleman (part 6)" data-chapter="The Word of a Gentleman" data-kind="excerpt"></span>
 
 
 Mr Blandois shook his right forefinger towards the sick room, and his
@@ -54347,7 +54347,7 @@ occasion, and would be seen again.
 
 
 
-<span class="atom-split" data-atom="chapter_33_spirit--part_01" data-title="Little Dorrit — Chapter 31: Spirit (part 1)" data-chapter="Chapter 33 Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_spirit--part_01" data-title="Little Dorrit — Chapter 31: Spirit (part 1)" data-chapter="Spirit" data-kind="excerpt"></span>
 
 
 CHAPTER 31. Spirit
@@ -54447,7 +54447,7 @@ yourself? That’s where it is, I consider.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_spirit--part_02" data-title="Little Dorrit — Chapter 31: Spirit (part 2)" data-chapter="Chapter 33 Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_spirit--part_02" data-title="Little Dorrit — Chapter 31: Spirit (part 2)" data-chapter="Spirit" data-kind="excerpt"></span>
 
 
 Old Nandy had a patron: one patron. He had a patron who in a certain
@@ -54569,7 +54569,7 @@ disgrace us on all occasions, is really infamous. You bad little thing!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_spirit--part_03" data-title="Little Dorrit — Chapter 31: Spirit (part 3)" data-chapter="Chapter 33 Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_spirit--part_03" data-title="Little Dorrit — Chapter 31: Spirit (part 3)" data-chapter="Spirit" data-kind="excerpt"></span>
 
 
 ‘Does it disgrace anybody,’ said Little Dorrit, very gently, ‘to take
@@ -54698,7 +54698,7 @@ smiling!--arm in arm with--O my God, a livery!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_spirit--part_04" data-title="Little Dorrit — Chapter 31: Spirit (part 4)" data-chapter="Chapter 33 Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_spirit--part_04" data-title="Little Dorrit — Chapter 31: Spirit (part 4)" data-chapter="Spirit" data-kind="excerpt"></span>
 
 
 This reference to the coat of no cut and no [[Time|time]], the unfortunate
@@ -54818,7 +54818,7 @@ Amy has mentioned to me that you know poor Plornish?’
 
 
 
-<span class="atom-split" data-atom="chapter_33_spirit--part_05" data-title="Little Dorrit — Chapter 31: Spirit (part 5)" data-chapter="Chapter 33 Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_spirit--part_05" data-title="Little Dorrit — Chapter 31: Spirit (part 5)" data-chapter="Spirit" data-kind="excerpt"></span>
 
 
 ‘O yes!’ said [[Arthur Clennam]].
@@ -54952,7 +54952,7 @@ be excused, I consider that he doesn’t treat me like a gentleman.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_spirit--part_06" data-title="Little Dorrit — Chapter 31: Spirit (part 6)" data-chapter="Chapter 33 Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_spirit--part_06" data-title="Little Dorrit — Chapter 31: Spirit (part 6)" data-chapter="Spirit" data-kind="excerpt"></span>
 
 
 The Father of the Marshalsea, who had surveyed his son in [[Silence|silence]], no
@@ -55070,7 +55070,7 @@ was by.
 
 
 
-<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_01" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 1)" data-chapter="Chapter 34 More Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_01" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 1)" data-chapter="More Fortune Telling" data-kind="excerpt"></span>
 
 
 CHAPTER 32. More Fortune-Telling
@@ -55211,7 +55211,7 @@ top, and was descending quickly.’
 
 
 
-<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_02" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 2)" data-chapter="Chapter 34 More Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_02" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 2)" data-chapter="More Fortune Telling" data-kind="excerpt"></span>
 
 
 If he had known the sharpness of the [[Pain|pain]] he caused the patient heart,
@@ -55340,7 +55340,7 @@ trust in me.’
 
 
 
-<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_03" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 3)" data-chapter="Chapter 34 More Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_03" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 3)" data-chapter="More Fortune Telling" data-kind="excerpt"></span>
 
 
 ‘Can I do less than that, when you are so good!’
@@ -55477,7 +55477,7 @@ over him on the last landing, and rolled him down into the yard.
 
 
 
-<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_04" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 4)" data-chapter="Chapter 34 More Fortune Telling" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_more_fortune_telling--part_04" data-title="Little Dorrit — Chapter 32: More Fortune-Telling (part 4)" data-chapter="More Fortune Telling" data-kind="excerpt"></span>
 
 
 ‘What is it, for Heaven’s sake!’ [[arthur|Arthur]] demanded, when they burst out
@@ -55542,7 +55542,7 @@ have to break to her. That man’s your Father of the Marshalsea!’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_01" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 1)" data-chapter="Chapter 35 Mrs Merdles Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_01" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 1)" data-chapter="Mrs Merdles Complaint" data-kind="excerpt"></span>
 
 
 CHAPTER 33. Mrs Merdle’s Complaint
@@ -55649,7 +55649,7 @@ kind. In such cases--’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_02" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 2)" data-chapter="Chapter 35 Mrs Merdles Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_02" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 2)" data-chapter="Mrs Merdles Complaint" data-kind="excerpt"></span>
 
 
 Mrs Merdle shrugged her snowy shoulders and put her hand upon the
@@ -55781,7 +55781,7 @@ inexcusable weakness?’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_03" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 3)" data-chapter="Chapter 35 Mrs Merdles Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_03" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 3)" data-chapter="Mrs Merdles Complaint" data-kind="excerpt"></span>
 
 
 In answer to this direct appeal, Mrs Merdle assured Mrs Gowan (speaking
@@ -55903,7 +55903,7 @@ tell me I have no right to mix with it after all, is a pretty reward.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_04" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 4)" data-chapter="Chapter 35 Mrs Merdles Complaint" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mrs_merdles_complaint--part_04" data-title="Little Dorrit — Chapter 33: Mrs Merdle’s Complaint (part 4)" data-chapter="Mrs Merdles Complaint" data-kind="excerpt"></span>
 
 
 ‘I say,’ answered Mrs Merdle composedly, ‘that you ought to make
@@ -56032,7 +56032,7 @@ rushlight, by the chief butler, went sighing to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_01" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 1)" data-chapter="Chapter 36 A Shoal of Barnacles" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_01" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 1)" data-chapter="A Shoal of Barnacles" data-kind="excerpt"></span>
 
 
 CHAPTER 34. A Shoal of Barnacles
@@ -56150,7 +56150,7 @@ isn’t it?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_02" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 2)" data-chapter="Chapter 36 A Shoal of Barnacles" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_02" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 2)" data-chapter="A Shoal of Barnacles" data-kind="excerpt"></span>
 
 
 ‘And imposition,’ added Gowan, laughing; ‘we won’t leave out the
@@ -56258,7 +56258,7 @@ Jerusalem.
 
 
 
-<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_03" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 3)" data-chapter="Chapter 36 A Shoal of Barnacles" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_03" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 3)" data-chapter="A Shoal of Barnacles" data-kind="excerpt"></span>
 
 
 But there was greater game than this. There was Lord Decimus Tite
@@ -56355,7 +56355,7 @@ hungry and adhesive Barnacles were down.
 
 
 
-<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_04" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 4)" data-chapter="Chapter 36 A Shoal of Barnacles" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_a_shoal_of_barnacles--part_04" data-title="Little Dorrit — Chapter 34: A Shoal of Barnacles (part 4)" data-chapter="A Shoal of Barnacles" data-kind="excerpt"></span>
 
 
 It was necessarily but a sprinkling of any class of Barnacles that
@@ -56446,7 +56446,7 @@ remark in the course of the evening. ‘Such high company!’
 
 
 
-<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_01" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 1)" data-chapter="Chapter 37 What was behind Mr Pancks on L" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_01" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 1)" data-chapter="What was behind Mr Pancks on L" data-kind="excerpt"></span>
 
 
 CHAPTER 35. What was behind [[Mr Pancks]] on Little Dorrit’s Hand
@@ -56562,7 +56562,7 @@ benevolence bubbling out of him, than out of a ninepin.’
 
 
 
-<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_02" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 2)" data-chapter="Chapter 37 What was behind Mr Pancks on L" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_02" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 2)" data-chapter="What was behind Mr Pancks on L" data-kind="excerpt"></span>
 
 
 ‘Your own recompense for all this, [[Mr Pancks]],’ said Clennam, ‘ought to
@@ -56687,7 +56687,7 @@ must go to him from here, to tell him of it!’
 
 
 
-<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_03" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 3)" data-chapter="Chapter 37 What was behind Mr Pancks on L" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_03" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 3)" data-chapter="What was behind Mr Pancks on L" data-kind="excerpt"></span>
 
 
 That brought her back. Her eyes were closing, but they opened again.
@@ -56805,7 +56805,7 @@ the remotest room in the College.
 
 
 
-<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_04" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 4)" data-chapter="Chapter 37 What was behind Mr Pancks on L" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_04" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 4)" data-chapter="What was behind Mr Pancks on L" data-kind="excerpt"></span>
 
 
 Little Dorrit opened the door from without, and they both entered. He
@@ -56925,7 +56925,7 @@ a sum of money for the purpose.’
 
 
 
-<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_05" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 5)" data-chapter="Chapter 37 What was behind Mr Pancks on L" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_what_was_behind_mr_pancks_on_l--part_05" data-title="Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 5)" data-chapter="What was behind Mr Pancks on L" data-kind="excerpt"></span>
 
 
 ‘Thank you, sir, thank you. I accept with readiness, at the present
@@ -57072,7 +57072,7 @@ softly, opened and closed the door without a sound, and passed from the
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_01" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 1)" data-chapter="Chapter 38 The Marshalsea becomes an Orph" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_01" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 1)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt"></span>
 
 
 CHAPTER 36. The Marshalsea becomes an [[Orphan]]
@@ -57178,7 +57178,7 @@ happiness of all those whom he was about to leave behind.
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_02" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 2)" data-chapter="Chapter 38 The Marshalsea becomes an Orph" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_02" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 2)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt"></span>
 
 
 He did not in person dine at this public repast (it took place at two in
@@ -57327,7 +57327,7 @@ passed.
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_03" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 3)" data-chapter="Chapter 38 The Marshalsea becomes an Orph" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_03" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 3)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt"></span>
 
 
 Through these spectators the little procession, headed by the two
@@ -57396,7 +57396,7 @@ sharp ‘By your leave, sir!’ bundled up the steps, and they drove away.
 
 
 
-<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_01" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 1)" data-chapter="Chapter 39 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_01" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 1)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 BOOK THE SECOND: RICHES
@@ -57512,7 +57512,7 @@ know our name, or one word of our story but the end.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_02" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 2)" data-chapter="Chapter 39 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_02" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 2)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 The living travellers thought little or nothing of the dead just then.
@@ -57635,7 +57635,7 @@ the party of three.
 
 
 
-<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_03" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 3)" data-chapter="Chapter 39 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_03" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 3)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 ‘I suppose not. What d’ye mean?’ he inquired.
@@ -57767,7 +57767,7 @@ Bernard [[Monks|monks]] than he resembled the conventional breed of Saint Bernar
 
 
 
-<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_04" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 4)" data-chapter="Chapter 39 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_04" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 4)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 ‘And I think,’ said the [[Artist|artist]] traveller, ‘I have seen one of them
@@ -57903,7 +57903,7 @@ always the same.
 
 
 
-<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_05" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 5)" data-chapter="Chapter 39 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_05" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 5)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 With a deprecating smile, the host gently raised and gently lowered his
@@ -58039,7 +58039,7 @@ addressed to you? Is it not?’
 
 
 
-<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_06" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 6)" data-chapter="Chapter 39 Fellow Travellers" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_fellow_travellers--part_06" data-title="Little Dorrit — Chapter 1: Fellow Travellers (part 6)" data-chapter="Fellow Travellers" data-kind="excerpt"></span>
 
 
 The lady took it, and said yes, and read it. Her visitor watched her as
@@ -58159,25 +58159,25 @@ it, as if the [[Night|night]]’s names had been registered when he was absent.
 Taking it in his hand, he read these entries.
 
 
-     [[William Dorrit]], Esquire
-     Frederick Dorrit, Esquire
-     Edward Dorrit, Esquire
-     Miss Dorrit
-     Miss [[Amy Dorrit]]
-     Mrs General
-     and Suite.
-     From France to [[Italy]].
+[[William Dorrit]], Esquire
+Frederick Dorrit, Esquire
+Edward Dorrit, Esquire
+Miss Dorrit
+Miss [[Amy Dorrit]]
+Mrs General
+and Suite.
+From France to [[Italy]].
 
-     Mr and Mrs Henry Gowan.
-     From France to [[Italy]].
+Mr and Mrs Henry Gowan.
+From France to [[Italy]].
 
 
 To which he added, in a small complicated hand, ending with a long lean
 flourish, not unlike a lasso thrown at all the rest of the names:
 
 
-     Blandois.  [[Paris]].
-     From France to [[Italy]].
+Blandois.  [[Paris]].
+From France to [[Italy]].
 
 
 And then, with his nose coming down over his moustache and his moustache
@@ -58186,7 +58186,7 @@ going up and under his nose, repaired to his allotted cell.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_01" data-title="Little Dorrit — Chapter 3: On the [[Road (part 1)" data-chapter="Chapter 41 On the Road" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_01" data-title="Little Dorrit — Chapter 3: On the [[Road (part 1)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
 CHAPTER 3. On the [[Road]]
@@ -58318,7 +58318,7 @@ could have conducted himself as he did.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_02" data-title="Little Dorrit — Chapter 3: On the [[Road (part 2)" data-chapter="Chapter 41 On the Road" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_02" data-title="Little Dorrit — Chapter 3: On the [[Road (part 2)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
 ‘And see,’ said Miss Fanny, ‘see what is involved in this! Can we ever
@@ -58436,7 +58436,7 @@ him.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_03" data-title="Little Dorrit — Chapter 3: On the [[Road (part 3)" data-chapter="Chapter 41 On the Road" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_03" data-title="Little Dorrit — Chapter 3: On the [[Road (part 3)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
 More treacherous than [[Snow|snow]], perhaps, colder at heart, and harder to
@@ -58539,7 +58539,7 @@ gentlemen?’
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_04" data-title="Little Dorrit — Chapter 3: On the [[Road (part 4)" data-chapter="Chapter 41 On the Road" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_04" data-title="Little Dorrit — Chapter 3: On the [[Road (part 4)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
 Alas! The host called all the universe to witness that Monseigneur was
@@ -58661,7 +58661,7 @@ lady from head to foot.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_05" data-title="Little Dorrit — Chapter 3: On the [[Road (part 5)" data-chapter="Chapter 41 On the Road" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_05" data-title="Little Dorrit — Chapter 3: On the [[Road (part 5)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
 The lady, recovering herself quickly--for it was Mrs Merdle and she was
@@ -58781,7 +58781,7 @@ narrow unsavoury streets, and jerked out at the town gate.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_06" data-title="Little Dorrit — Chapter 3: On the [[Road (part 6)" data-chapter="Chapter 41 On the Road" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_06" data-title="Little Dorrit — Chapter 3: On the [[Road (part 6)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
 Among the day’s unrealities would be roads where the bright red vines
@@ -58884,7 +58884,7 @@ and the old visitors: all lasting realities that had never changed.
 
 
 
-<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_01" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 1)" data-chapter="Chapter 43 Something Wrong Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_01" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 1)" data-chapter="Something Wrong Somewhere" data-kind="excerpt"></span>
 
 
 CHAPTER 5. Something Wrong Somewhere
@@ -59010,7 +59010,7 @@ wrong in--ha--Amy.’
 
 
 
-<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_02" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 2)" data-chapter="Chapter 43 Something Wrong Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_02" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 2)" data-chapter="Something Wrong Somewhere" data-kind="excerpt"></span>
 
 
 ‘May we incline to the supposition,’ said Mrs General, with a little
@@ -59141,7 +59141,7 @@ station.’
 
 
 
-<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_03" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 3)" data-chapter="Chapter 43 Something Wrong Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_03" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 3)" data-chapter="Something Wrong Somewhere" data-kind="excerpt"></span>
 
 
 Mr Dorrit was even a little more fragmentary than usual, being excited
@@ -59264,7 +59264,7 @@ No!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_04" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 4)" data-chapter="Chapter 43 Something Wrong Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_04" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 4)" data-chapter="Something Wrong Somewhere" data-kind="excerpt"></span>
 
 
 Notwithstanding which, he continued to defend himself, without any
@@ -59371,7 +59371,7 @@ inadvertently lighted upon, or accidentally referred to, be better?’
 
 
 
-<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_05" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 5)" data-chapter="Chapter 43 Something Wrong Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_05" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 5)" data-chapter="Something Wrong Somewhere" data-kind="excerpt"></span>
 
 
 ‘Thank you very much, Mrs General,’ returned the young lady, ‘no, I
@@ -59505,7 +59505,7 @@ and saying, ‘Brother! I protest against it!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_06" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 6)" data-chapter="Chapter 43 Something Wrong Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_something_wrong_somewhere--part_06" data-title="Little Dorrit — Chapter 5: Something Wrong Somewhere (part 6)" data-chapter="Something Wrong Somewhere" data-kind="excerpt"></span>
 
 
 If he had made a proclamation in an unknown tongue, and given up the
@@ -59611,7 +59611,7 @@ alternately giving her brooches, and wishing herself dead.
 
 
 
-<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_01" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 1)" data-chapter="Chapter 44 Something Right Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_01" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 1)" data-chapter="Something Right Somewhere" data-kind="excerpt"></span>
 
 
 CHAPTER 6. Something Right Somewhere
@@ -59719,7 +59719,7 @@ the way,’ and which took them through a complexity of narrow streets of
 
 
 
-<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_02" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 2)" data-chapter="Chapter 44 Something Right Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_02" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 2)" data-chapter="Something Right Somewhere" data-kind="excerpt"></span>
 
 
 The [[house]], on a little [[Desert|desert]] island, looked as if it had broken
@@ -59843,7 +59843,7 @@ painters have none to spare.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_03" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 3)" data-chapter="Chapter 44 Something Right Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_03" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 3)" data-chapter="Something Right Somewhere" data-kind="excerpt"></span>
 
 
 Blandois of [[Paris]] pulled off his slouched hat, and saluted the ladies
@@ -59972,7 +59972,7 @@ very light of it notwithstanding,--laughing at the mention of [[Lion]].
 
 
 
-<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_04" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 4)" data-chapter="Chapter 44 Something Right Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_04" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 4)" data-chapter="Something Right Somewhere" data-kind="excerpt"></span>
 
 
 Leaving the two together under the scrap of vine upon the causeway,
@@ -60104,7 +60104,7 @@ of; so [[Well|well]], that she soon asked her.
 
 
 
-<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_05" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 5)" data-chapter="Chapter 44 Something Right Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_05" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 5)" data-chapter="Something Right Somewhere" data-kind="excerpt"></span>
 
 
 Her reply was, ‘Do you mean to encourage Mr Sparkler, Fanny?’
@@ -60219,7 +60219,7 @@ riveted them.
 
 
 
-<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_06" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 6)" data-chapter="Chapter 44 Something Right Somewhere" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_something_right_somewhere--part_06" data-title="Little Dorrit — Chapter 6: Something Right Somewhere (part 6)" data-chapter="Something Right Somewhere" data-kind="excerpt"></span>
 
 
 ‘I hear you are acquainted, Mr Sparkler,’ said his host at dinner,
@@ -60332,7 +60332,7 @@ Doges!’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_01" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 1)" data-chapter="Chapter 45 Mostly Prunes and Prism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_01" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 1)" data-chapter="Mostly Prunes and Prism" data-kind="excerpt"></span>
 
 
 CHAPTER 7. Mostly, Prunes and Prism
@@ -60466,7 +60466,7 @@ first.’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_02" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 2)" data-chapter="Chapter 45 Mostly Prunes and Prism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_02" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 2)" data-chapter="Mostly Prunes and Prism" data-kind="excerpt"></span>
 
 
 ‘O, you would never marry him, Fanny, under any circumstances.’
@@ -60580,7 +60580,7 @@ a bad picture with a large name to it.’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_03" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 3)" data-chapter="Chapter 45 Mostly Prunes and Prism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_03" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 3)" data-chapter="Mostly Prunes and Prism" data-kind="excerpt"></span>
 
 
 This tone, though not what he had expected, on the whole suited Mr
@@ -60697,7 +60697,7 @@ hand, Mrs Gowan whispered:
 
 
 
-<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_04" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 4)" data-chapter="Chapter 45 Mostly Prunes and Prism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mostly_prunes_and_prism--part_04" data-title="Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 4)" data-chapter="Mostly Prunes and Prism" data-kind="excerpt"></span>
 
 
 ‘He killed the dog.’
@@ -60858,7 +60858,7 @@ shining light of the [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_01" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 1)" data-chapter="Chapter 46 The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_01" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 1)" data-chapter="The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
 
 
 CHAPTER 8. The Dowager Mrs Gowan is reminded that ‘It Never Does’
@@ -60974,7 +60974,7 @@ when I am one of so large a company.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_02" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 2)" data-chapter="Chapter 46 The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_02" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 2)" data-chapter="The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
 
 
 ‘Relinquish it, or begin it all over again?’ mused Clennam.
@@ -61090,7 +61090,7 @@ would have drained her heart of its dearest drop of [[Hope|hope]], and broken it
 
 
 
-<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_03" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 3)" data-chapter="Chapter 46 The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_03" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 3)" data-chapter="The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
 
 
 Everything about him tended to confirm him in the custom of looking on
@@ -61225,7 +61225,7 @@ good.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_04" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 4)" data-chapter="Chapter 46 The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_04" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 4)" data-chapter="The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
 
 
 Truly, having by this [[Time|time]] said everything she could say in maintenance
@@ -61356,7 +61356,7 @@ strenuously opposed to it, both in opinion and action.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_05" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 5)" data-chapter="Chapter 46 The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_the_dowager_mrs_gowan_is_remin--part_05" data-title="Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 5)" data-chapter="The Dowager Mrs Gowan is remin" data-kind="excerpt"></span>
 
 
 ‘You see?’ said Mrs Gowan, turning the palms of her hands towards Mr
@@ -61407,7 +61407,7 @@ the affirmative.
 
 
 
-<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_01" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 1)" data-chapter="Chapter 47 Appearance and Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_01" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 1)" data-chapter="Appearance and Disappearance" data-kind="excerpt"></span>
 
 
 CHAPTER 9. Appearance and Disappearance
@@ -61524,7 +61524,7 @@ among the dry fallen [[Leaves|leaves]] in the [[Garden|garden]] walks.
 
 
 
-<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_02" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 2)" data-chapter="Chapter 47 Appearance and Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_02" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 2)" data-chapter="Appearance and Disappearance" data-kind="excerpt"></span>
 
 
 As he had a liking for the spot, he seldom let a week pass without
@@ -61648,7 +61648,7 @@ particularly resting upon Clennam’s face or any other.
 
 
 
-<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_03" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 3)" data-chapter="Chapter 47 Appearance and Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_03" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 3)" data-chapter="Appearance and Disappearance" data-kind="excerpt"></span>
 
 
 He had scarcely turned his head about again, and it was still bent down,
@@ -61778,7 +61778,7 @@ less steadily, kept them in sight.
 
 
 
-<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_04" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 4)" data-chapter="Chapter 47 Appearance and Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_04" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 4)" data-chapter="Appearance and Disappearance" data-kind="excerpt"></span>
 
 
 They crossed the Strand, and passed through Covent [[Garden]] (under the
@@ -61887,7 +61887,7 @@ have been able to conceive?’
 
 
 
-<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_05" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 5)" data-chapter="Chapter 47 Appearance and Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_05" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 5)" data-chapter="Appearance and Disappearance" data-kind="excerpt"></span>
 
 
 ‘I believe there is no connection, Flora, between the two,’ [[arthur|Arthur]] was
@@ -62022,7 +62022,7 @@ be so good as to give me the address.’
 
 
 
-<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_06" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 6)" data-chapter="Chapter 47 Appearance and Disappearance" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_appearance_and_disappearance--part_06" data-title="Little Dorrit — Chapter 9: Appearance and Disappearance (part 6)" data-chapter="Appearance and Disappearance" data-kind="excerpt"></span>
 
 
 ‘Dear, dear, dear!’ exclaimed the Patriarch in sweet regret. ‘Tut, tut,
@@ -62145,7 +62145,7 @@ times and steamed away.
 
 
 
-<span class="atom-split" data-atom="chapter_48_the_dreams_of_mrs_flintwinch_t--part_01" data-title="Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken (part 1)" data-chapter="Chapter 48 The Dreams of Mrs Flintwinch t" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_the_dreams_of_mrs_flintwinch_t--part_01" data-title="Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken (part 1)" data-chapter="The Dreams of Mrs Flintwinch t" data-kind="excerpt"></span>
 
 
 CHAPTER 10. The [[Dreams]] of Mrs Flintwinch thicken
@@ -62246,10 +62246,10 @@ steps too. His friend looked at him with a braggart air, and sang to
 himself.
 
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine;
-    Who passes by this [[Road|road]] so late?
-          Always gay!’
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine;
+Who passes by this [[Road|road]] so late?
+Always gay!’
 
 
 After which he knocked again.
@@ -62257,7 +62257,7 @@ After which he knocked again.
 
 
 
-<span class="atom-split" data-atom="chapter_48_the_dreams_of_mrs_flintwinch_t--part_02" data-title="Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken (part 2)" data-chapter="Chapter 48 The Dreams of Mrs Flintwinch t" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_the_dreams_of_mrs_flintwinch_t--part_02" data-title="Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken (part 2)" data-chapter="The Dreams of Mrs Flintwinch t" data-kind="excerpt"></span>
 
 
 ‘You are impatient, sir,’ said [[arthur|Arthur]].
@@ -62381,7 +62381,7 @@ it does not much interest me; but I remember to have heard that.’
 
 
 
-<span class="atom-split" data-atom="chapter_48_the_dreams_of_mrs_flintwinch_t--part_03" data-title="Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken (part 3)" data-chapter="Chapter 48 The Dreams of Mrs Flintwinch t" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_the_dreams_of_mrs_flintwinch_t--part_03" data-title="Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken (part 3)" data-chapter="The Dreams of Mrs Flintwinch t" data-kind="excerpt"></span>
 
 
 ‘Right, madame. It is true.’ He laughed again, and whistled the burden
@@ -62513,7 +62513,7 @@ anything. Go away!’
 
 
 
-<span class="atom-split" data-atom="chapter_49_a_letter_from_little_dorrit--part_01" data-title="Little Dorrit — Chapter 11: A Letter from Little Dorrit (part 1)" data-chapter="Chapter 49 A Letter from Little Dorrit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_a_letter_from_little_dorrit--part_01" data-title="Little Dorrit — Chapter 11: A Letter from Little Dorrit (part 1)" data-chapter="A Letter from Little Dorrit" data-kind="excerpt"></span>
 
 
 CHAPTER 11. A Letter from Little Dorrit
@@ -62626,7 +62626,7 @@ everything, far far better than I; but I cannot help telling you what a
 
 
 
-<span class="atom-split" data-atom="chapter_49_a_letter_from_little_dorrit--part_02" data-title="Little Dorrit — Chapter 11: A Letter from Little Dorrit (part 2)" data-chapter="Chapter 49 A Letter from Little Dorrit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_a_letter_from_little_dorrit--part_02" data-title="Little Dorrit — Chapter 11: A Letter from Little Dorrit (part 2)" data-chapter="A Letter from Little Dorrit" data-kind="excerpt"></span>
 
 
 I have not yet called her by her name in this letter, but we are such
@@ -62746,9 +62746,9 @@ did not remember, at the moment when I wrote last, that you knew them
 both; but I remembered it afterwards, and it helped me on. God bless
 you, dear Mr Clennam. Do not forget
 
-     Your ever grateful and affectionate
+Your ever grateful and affectionate
 
-     LITTLE DORRIT.
+LITTLE DORRIT.
 
 P.S.--Particularly remember that Minnie Gowan deserves the best
 remembrance in which you can hold her. You cannot think too generously
@@ -62759,7 +62759,7 @@ good to Little D.
 
 
 
-<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_01" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 1)" data-chapter="Chapter 50 In which a Great Patriotic Con" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_01" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 1)" data-chapter="In which a Great Patriotic Con" data-kind="excerpt"></span>
 
 
 CHAPTER 12. In which a Great Patriotic Conference is holden
@@ -62861,7 +62861,7 @@ be done; and the day of the dinner was now come.
 
 
 
-<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_02" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 2)" data-chapter="Chapter 50 In which a Great Patriotic Con" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_02" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 2)" data-chapter="In which a Great Patriotic Con" data-kind="excerpt"></span>
 
 
 [[Mr Merdle]] stood in one of his drawing-rooms, with his back to the [[Fire|fire]],
@@ -62939,10 +62939,10 @@ eye-glass on his companion’s shoulder, ‘my learned friend will set me
 right:
 
 
-     “Since laws were made for every degree,
-     To curb vice in others as [[Well|well]] as in me,
-     I [[Wonder|wonder]] we ha’n’t better company
-     Upon Tyburn Tree!”’
+“Since laws were made for every degree,
+To curb vice in others as [[Well|well]] as in me,
+I [[Wonder|wonder]] we ha’n’t better company
+Upon Tyburn Tree!”’
 
 
 These words brought them to the drawing-room, where [[Mr Merdle]] stood
@@ -62998,7 +62998,7 @@ Humbug; and now Bar’s mind was relieved.
 
 
 
-<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_03" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 3)" data-chapter="Chapter 50 In which a Great Patriotic Con" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_03" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 3)" data-chapter="In which a Great Patriotic Con" data-kind="excerpt"></span>
 
 
 Mr Tite Barnacle, who, like Dr Johnson’s celebrated acquaintance, had
@@ -63102,7 +63102,7 @@ Sparkler.
 
 
 
-<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_04" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 4)" data-chapter="Chapter 50 In which a Great Patriotic Con" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_04" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 4)" data-chapter="In which a Great Patriotic Con" data-kind="excerpt"></span>
 
 
 [[Ferdinand]] Barnacle laughed, and said oh yes, he believed so. A vote was
@@ -63197,7 +63197,7 @@ handsome young Barnacle, laughing heartily, ‘You never saw such a lot of
 forms in your life. “Why,” the attorney said to me one day, “if I wanted
 this office to give me two or three thousand pounds instead of take it,
 I couldn’t have more trouble about it.” “You are right, old fellow,”
- I told him, “and in future you’ll know that we have something to do
+I told him, “and in future you’ll know that we have something to do
 here.”’ The pleasant young Barnacle finished by once more laughing
 heartily. He was a very easy, pleasant fellow indeed, and his manners
 were exceedingly winning.
@@ -63225,7 +63225,7 @@ Nobody else replying, the host said, ‘He has two daughters, my lord.’
 
 
 
-<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_05" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 5)" data-chapter="Chapter 50 In which a Great Patriotic Con" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_05" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 5)" data-chapter="In which a Great Patriotic Con" data-kind="excerpt"></span>
 
 
 ‘Mrs Merdle is. Mr Sparkler is, too. In fact,’ said [[Mr Merdle]], ‘I rather
@@ -63350,7 +63350,7 @@ side with Lord Decimus, and to it they must go, now or never.)
 
 
 
-<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_06" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 6)" data-chapter="Chapter 50 In which a Great Patriotic Con" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_in_which_a_great_patriotic_con--part_06" data-title="Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden (part 6)" data-chapter="In which a Great Patriotic Con" data-kind="excerpt"></span>
 
 
 And now the rest of the company, highly excited and interested, always
@@ -63412,7 +63412,7 @@ about it, and might have stated the amount with the utmost precision.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_01" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 1)" data-chapter="Chapter 51 The Progress of an Epidemic" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_01" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 1)" data-chapter="The Progress of an Epidemic" data-kind="excerpt"></span>
 
 
 CHAPTER 13. The Progress of an Epidemic
@@ -63533,7 +63533,7 @@ and you’d leave others easier, too, you would, if you were [[Mr Merdle]].’
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_02" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 2)" data-chapter="Chapter 51 The Progress of an Epidemic" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_02" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 2)" data-chapter="The Progress of an Epidemic" data-kind="excerpt"></span>
 
 
 [[Mr Pancks]], in whom these impersonal compliments produced an irresistible
@@ -63643,7 +63643,7 @@ articles in stock went off with the greatest celerity. In short, if the
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_03" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 3)" data-chapter="Chapter 51 The Progress of an Epidemic" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_03" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 3)" data-chapter="The Progress of an Epidemic" data-kind="excerpt"></span>
 
 
 Bleeding Hearts had but paid, the undertaking would have been a complete
@@ -63761,7 +63761,7 @@ another letter from Miss Dorrit.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_04" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 4)" data-chapter="Chapter 51 The Progress of an Epidemic" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_04" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 4)" data-chapter="The Progress of an Epidemic" data-kind="excerpt"></span>
 
 
 The news made a sensation in the cottage which drew off the general
@@ -63892,7 +63892,7 @@ gentleman was perfectly comfortable.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_05" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 5)" data-chapter="Chapter 51 The Progress of an Epidemic" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_05" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 5)" data-chapter="The Progress of an Epidemic" data-kind="excerpt"></span>
 
 
 They puffed for a while in [[Silence|silence]], [[Mr Pancks]] like a steam-vessel
@@ -64044,7 +64044,7 @@ himself. This abandonment of the second topic threw him on the third.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_06" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 6)" data-chapter="Chapter 51 The Progress of an Epidemic" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_progress_of_an_epidemic--part_06" data-title="Little Dorrit — Chapter 13: The Progress of an Epidemic (part 6)" data-chapter="The Progress of an Epidemic" data-kind="excerpt"></span>
 
 
 ‘Young, old, or middle-aged, Pancks,’ he said, when there was a
@@ -64139,7 +64139,7 @@ of sickening.
 
 
 
-<span class="atom-split" data-atom="chapter_52_taking_advice--part_01" data-title="Little Dorrit — Chapter 14: Taking Advice (part 1)" data-chapter="Chapter 52 Taking Advice" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_taking_advice--part_01" data-title="Little Dorrit — Chapter 14: Taking Advice (part 1)" data-chapter="Taking Advice" data-kind="excerpt"></span>
 
 
 CHAPTER 14. Taking Advice
@@ -64248,7 +64248,7 @@ it.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_taking_advice--part_02" data-title="Little Dorrit — Chapter 14: Taking Advice (part 2)" data-chapter="Chapter 52 Taking Advice" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_taking_advice--part_02" data-title="Little Dorrit — Chapter 14: Taking Advice (part 2)" data-chapter="Taking Advice" data-kind="excerpt"></span>
 
 
 Poor Little Dorrit, not seeing her way to the offering of any soothing
@@ -64370,7 +64370,7 @@ the dabbing hand, and was looking at her fixedly.
 
 
 
-<span class="atom-split" data-atom="chapter_52_taking_advice--part_03" data-title="Little Dorrit — Chapter 14: Taking Advice (part 3)" data-chapter="Chapter 52 Taking Advice" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_taking_advice--part_03" data-title="Little Dorrit — Chapter 14: Taking Advice (part 3)" data-chapter="Taking Advice" data-kind="excerpt"></span>
 
 
 ‘O, indeed!’ cried Fanny. ‘Really? Bless me, how much some people know
@@ -64497,7 +64497,7 @@ compulsion.
 
 
 
-<span class="atom-split" data-atom="chapter_52_taking_advice--part_04" data-title="Little Dorrit — Chapter 14: Taking Advice (part 4)" data-chapter="Chapter 52 Taking Advice" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_taking_advice--part_04" data-title="Little Dorrit — Chapter 14: Taking Advice (part 4)" data-chapter="Taking Advice" data-kind="excerpt"></span>
 
 
 Mrs Merdle, during these passages, said little to Fanny, but said
@@ -64651,7 +64651,7 @@ imperious [[Self|self]]-willed step.
 
 
 
-<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_01" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 1)" data-chapter="Chapter 53 No just Cause or Impediment wh" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_01" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 1)" data-chapter="No just Cause or Impediment wh" data-kind="excerpt"></span>
 
 
 CHAPTER 15. No just Cause or Impediment why these Two Persons
@@ -64766,7 +64766,7 @@ almost superstitious in my ideas about business.’
 
 
 
-<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_02" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 2)" data-chapter="Chapter 53 No just Cause or Impediment wh" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_02" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 2)" data-chapter="No just Cause or Impediment wh" data-kind="excerpt"></span>
 
 
 Mr Dorrit threw in another compliment here, to the effect that business,
@@ -64889,7 +64889,7 @@ you, sir? What do you mean?’
 
 
 
-<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_03" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 3)" data-chapter="Chapter 53 No just Cause or Impediment wh" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_03" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 3)" data-chapter="No just Cause or Impediment wh" data-kind="excerpt"></span>
 
 
 ‘I assure you, sir--’ Mr Tinkler began.
@@ -65022,7 +65022,7 @@ was truly grateful for being so openly acknowledged.
 
 
 
-<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_04" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 4)" data-chapter="Chapter 53 No just Cause or Impediment wh" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_04" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 4)" data-chapter="No just Cause or Impediment wh" data-kind="excerpt"></span>
 
 
 The [[Winter|winter]] passing on towards the [[spring]] while this condition of affairs
@@ -65149,7 +65149,7 @@ the necessity of deciding. I have now decided. So let it be.’
 
 
 
-<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_05" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 5)" data-chapter="Chapter 53 No just Cause or Impediment wh" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_05" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 5)" data-chapter="No just Cause or Impediment wh" data-kind="excerpt"></span>
 
 
 After yielding herself up, in this pattern manner, to sisterly advice
@@ -65257,7 +65257,7 @@ denied that he had anything to do with it.
 
 
 
-<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_06" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 6)" data-chapter="Chapter 53 No just Cause or Impediment wh" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_no_just_cause_or_impediment_wh--part_06" data-title="Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 6)" data-chapter="No just Cause or Impediment wh" data-kind="excerpt"></span>
 
 
 But by that [[Time|time]] the Bride was near the end of the first day’s [[Journey|journey]]
@@ -65394,7 +65394,7 @@ whole without any human visitings--like a Ghoule in gloves.
 
 
 
-<span class="atom-split" data-atom="chapter_54_getting_on--part_01" data-title="Little Dorrit — Chapter 16: Getting on (part 1)" data-chapter="Chapter 54 Getting on" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_getting_on--part_01" data-title="Little Dorrit — Chapter 16: Getting on (part 1)" data-chapter="Getting on" data-kind="excerpt"></span>
 
 
 CHAPTER 16. Getting on
@@ -65511,7 +65511,7 @@ had prompted Mr Dorrit’s solicitous inquiries.
 
 
 
-<span class="atom-split" data-atom="chapter_54_getting_on--part_02" data-title="Little Dorrit — Chapter 16: Getting on (part 2)" data-chapter="Chapter 54 Getting on" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_getting_on--part_02" data-title="Little Dorrit — Chapter 16: Getting on (part 2)" data-chapter="Getting on" data-kind="excerpt"></span>
 
 
 ‘Mrs Merdle,’ Mr Dorrit insinuatingly pursued, ‘I left, as you will be
@@ -65648,7 +65648,7 @@ disposal.’
 
 
 
-<span class="atom-split" data-atom="chapter_54_getting_on--part_03" data-title="Little Dorrit — Chapter 16: Getting on (part 3)" data-chapter="Chapter 54 Getting on" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_getting_on--part_03" data-title="Little Dorrit — Chapter 16: Getting on (part 3)" data-chapter="Getting on" data-kind="excerpt"></span>
 
 
 Mr Dorrit bethought himself that he had business at his banker’s. His
@@ -65725,7 +65725,7 @@ slightest liberty.
 
 
 
-<span class="atom-split" data-atom="chapter_55_missing--part_01" data-title="Little Dorrit — Chapter 17: Missing (part 1)" data-chapter="Chapter 55 Missing" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_missing--part_01" data-title="Little Dorrit — Chapter 17: Missing (part 1)" data-chapter="Missing" data-kind="excerpt"></span>
 
 
 CHAPTER 17. Missing
@@ -65853,7 +65853,7 @@ using it as the total of all I have in the world and more.’
 
 
 
-<span class="atom-split" data-atom="chapter_55_missing--part_02" data-title="Little Dorrit — Chapter 17: Missing (part 2)" data-chapter="Chapter 55 Missing" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_missing--part_02" data-title="Little Dorrit — Chapter 17: Missing (part 2)" data-chapter="Missing" data-kind="excerpt"></span>
 
 
 Mr Dorrit, without greatly regarding the earnestness of these latter
@@ -65969,7 +65969,7 @@ himself.
 
 
 
-<span class="atom-split" data-atom="chapter_55_missing--part_03" data-title="Little Dorrit — Chapter 17: Missing (part 3)" data-chapter="Chapter 55 Missing" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_missing--part_03" data-title="Little Dorrit — Chapter 17: Missing (part 3)" data-chapter="Missing" data-kind="excerpt"></span>
 
 
 Having dined as plainly as the establishment and the Courier would let
@@ -66103,7 +66103,7 @@ satisfaction to us.’
 
 
 
-<span class="atom-split" data-atom="chapter_55_missing--part_04" data-title="Little Dorrit — Chapter 17: Missing (part 4)" data-chapter="Chapter 55 Missing" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_missing--part_04" data-title="Little Dorrit — Chapter 17: Missing (part 4)" data-chapter="Missing" data-kind="excerpt"></span>
 
 
 ‘Have you seen him often?’
@@ -66211,7 +66211,7 @@ buried in the cellar, and now bricked up in a wall.
 
 
 
-<span class="atom-split" data-atom="chapter_56_a_castle_in_the_air--part_01" data-title="Little Dorrit — Chapter 18: A Castle in the Air (part 1)" data-chapter="Chapter 56 A Castle in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56_a_castle_in_the_air--part_01" data-title="Little Dorrit — Chapter 18: A Castle in the Air (part 1)" data-chapter="A Castle in the Air" data-kind="excerpt"></span>
 
 
 CHAPTER 18. A [[Castle]] in the Air
@@ -66343,7 +66343,7 @@ hoped you was [[Well|well]], and only to ask if Miss Amy was [[Well]]?’
 
 
 
-<span class="atom-split" data-atom="chapter_56_a_castle_in_the_air--part_02" data-title="Little Dorrit — Chapter 18: A Castle in the Air (part 2)" data-chapter="Chapter 56 A Castle in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56_a_castle_in_the_air--part_02" data-title="Little Dorrit — Chapter 18: A Castle in the Air (part 2)" data-chapter="A Castle in the Air" data-kind="excerpt"></span>
 
 
 ‘What’s that to you, sir?’ retorted Mr Dorrit.
@@ -66486,7 +66486,7 @@ special physiognomical treatise.
 
 
 
-<span class="atom-split" data-atom="chapter_56_a_castle_in_the_air--part_03" data-title="Little Dorrit — Chapter 18: A Castle in the Air (part 3)" data-chapter="Chapter 56 A Castle in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56_a_castle_in_the_air--part_03" data-title="Little Dorrit — Chapter 18: A Castle in the Air (part 3)" data-chapter="A Castle in the Air" data-kind="excerpt"></span>
 
 
 Arrived at [[Paris]], and resting there three days, Mr Dorrit strolled
@@ -66552,7 +66552,7 @@ the filth that festered on the way.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_01" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 1)" data-chapter="Chapter 57 The Storming of the Castle in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_01" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 1)" data-chapter="The Storming of the Castle in" data-kind="excerpt"></span>
 
 
 CHAPTER 19. The Storming of the [[Castle]] in the Air
@@ -66667,7 +66667,7 @@ morning without a [[Night|night]] only can clear away.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_02" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 2)" data-chapter="Chapter 57 The Storming of the Castle in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_02" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 2)" data-chapter="The Storming of the Castle in" data-kind="excerpt"></span>
 
 
 ‘I have been freer with you, you see, my dove,’ said the old man, ‘since
@@ -66809,7 +66809,7 @@ still hovered about the yards on the head of his successor.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_03" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 3)" data-chapter="Chapter 57 The Storming of the Castle in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_03" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 3)" data-chapter="The Storming of the Castle in" data-kind="excerpt"></span>
 
 
 He took very little supper, but was a long [[Time|time]] over it, and often
@@ -66928,7 +66928,7 @@ after heaving a cool sigh for Frederick.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_04" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 4)" data-chapter="Chapter 57 The Storming of the Castle in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_04" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 4)" data-chapter="The Storming of the Castle in" data-kind="excerpt"></span>
 
 
 ‘Surrounded,’ replied Mr Dorrit, ‘by--ha--all that can charm the taste,
@@ -67050,7 +67050,7 @@ come and speak to Mr Dorrit, I [[Doubt|doubt]] if he is [[Well|well]].’
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_05" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 5)" data-chapter="Chapter 57 The Storming of the Castle in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_05" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 5)" data-chapter="The Storming of the Castle in" data-kind="excerpt"></span>
 
 
 She was hurrying to him, unobserved, when he got up out of his chair,
@@ -67171,7 +67171,7 @@ that she was never reproduced after the first failure.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_06" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 6)" data-chapter="Chapter 57 The Storming of the Castle in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_storming_of_the_castle_in--part_06" data-title="Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 6)" data-chapter="The Storming of the Castle in" data-kind="excerpt"></span>
 
 
 Saving that he once asked ‘if Tip had gone outside?’ the remembrance of
@@ -67280,7 +67280,7 @@ obscurities.
 
 
 
-<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_01" data-title="Little Dorrit — Chapter 20: Introduces the next (part 1)" data-chapter="Chapter 58 Introduces the next" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_01" data-title="Little Dorrit — Chapter 20: Introduces the next (part 1)" data-chapter="Introduces the next" data-kind="excerpt"></span>
 
 
 CHAPTER 20. Introduces the next
@@ -67391,7 +67391,7 @@ her glance went round the room in search of some one else.
 
 
 
-<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_02" data-title="Little Dorrit — Chapter 20: Introduces the next (part 2)" data-chapter="Chapter 58 Introduces the next" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_02" data-title="Little Dorrit — Chapter 20: Introduces the next (part 2)" data-chapter="Introduces the next" data-kind="excerpt"></span>
 
 
 ‘It was not your name that was brought to me.’
@@ -67532,7 +67532,7 @@ door--never sat in colloquy with _me_ until midnight.’
 
 
 
-<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_03" data-title="Little Dorrit — Chapter 20: Introduces the next (part 3)" data-chapter="Chapter 58 Introduces the next" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_03" data-title="Little Dorrit — Chapter 20: Introduces the next (part 3)" data-chapter="Introduces the next" data-kind="excerpt"></span>
 
 
 She took her [[Revenge|revenge]] for her old grudge in thus turning his subject
@@ -67661,7 +67661,7 @@ replied, ‘I must seek for intelligence elsewhere.’
 
 
 
-<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_04" data-title="Little Dorrit — Chapter 20: Introduces the next (part 4)" data-chapter="Chapter 58 Introduces the next" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_introduces_the_next--part_04" data-title="Little Dorrit — Chapter 20: Introduces the next (part 4)" data-chapter="Introduces the next" data-kind="excerpt"></span>
 
 
 He was not going in the same breath; but he had risen before the girl
@@ -67770,7 +67770,7 @@ paper, and read in them what is reproduced in the next chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_01" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 1)" data-chapter="Chapter 59 The history History of a Self" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_01" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 1)" data-chapter="The history History of a Self" data-kind="excerpt"></span>
 
 
 CHAPTER 21. The [[history|History]] of a [[Self]]-Tormentor
@@ -67878,7 +67878,7 @@ consideration, or doing me a service.
 
 
 
-<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_02" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 2)" data-chapter="Chapter 59 The history History of a Self" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_02" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 2)" data-chapter="The history History of a Self" data-kind="excerpt"></span>
 
 
 A man of business had a small property in trust for me. I was to be
@@ -68000,7 +68000,7 @@ engaged to be married.
 
 
 
-<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_03" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 3)" data-chapter="Chapter 59 The history History of a Self" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_03" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 3)" data-chapter="The history History of a Self" data-kind="excerpt"></span>
 
 
 He was a year younger than I, and young-looking even when that allowance
@@ -68105,7 +68105,7 @@ terms, and how to anatomise the wretched people around us.
 
 
 
-<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_04" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 4)" data-chapter="Chapter 59 The history History of a Self" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_the_history_history_of_a_self--part_04" data-title="Little Dorrit — Chapter 21: The History of a Self-Tormentor (part 4)" data-chapter="The history History of a Self" data-kind="excerpt"></span>
 
 
 This went on, until the aunt, my Mistress, took it upon herself to speak
@@ -68178,7 +68178,7 @@ We have been together ever since, sharing my small means.
 
 
 
-<span class="atom-split" data-atom="chapter_60_who_passes_by_this_road_so_lat--part_01" data-title="Little Dorrit — Chapter 22: Who passes by this Road so late? (part 1)" data-chapter="Chapter 60 Who passes by this Road so lat" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60_who_passes_by_this_road_so_lat--part_01" data-title="Little Dorrit — Chapter 22: Who passes by this Road so late? (part 1)" data-chapter="Who passes by this Road so lat" data-kind="excerpt"></span>
 
 
 CHAPTER 22. Who passes by this [[Road]] so late?
@@ -68301,7 +68301,7 @@ less elastic than you used to be.’
 
 
 
-<span class="atom-split" data-atom="chapter_60_who_passes_by_this_road_so_lat--part_02" data-title="Little Dorrit — Chapter 22: Who passes by this Road so late? (part 2)" data-chapter="Chapter 60 Who passes by this Road so lat" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60_who_passes_by_this_road_so_lat--part_02" data-title="Little Dorrit — Chapter 22: Who passes by this Road so late? (part 2)" data-chapter="Who passes by this Road so lat" data-kind="excerpt"></span>
 
 
 ‘Private anxieties may have done that for the moment,’ said Clennam,
@@ -68352,10 +68352,10 @@ he followed the man and lost him, again he came upon the man in the
 beside him on the door-steps.
 
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine;
-     Who passes by this [[Road|road]] so late?
-          Always gay!’
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine;
+Who passes by this [[Road|road]] so late?
+Always gay!’
 
 
 It was not the first [[Time|time]], by many, that he had recalled the [[Song|song]] of the
@@ -68364,10 +68364,10 @@ side by side; but he was so unconscious of having repeated it audibly,
 that he started to hear the next verse.
 
 
-     ‘Of all the [[King|king]]’s knights ‘tis the flower,
-         Compagnon de la Majolaine;
-     Of all the [[King|king]]’s knights ‘tis the flower,
-          Always gay!’
+‘Of all the [[King|king]]’s knights ‘tis the flower,
+Compagnon de la Majolaine;
+Of all the [[King|king]]’s knights ‘tis the flower,
+Always gay!’
 
 
 Cavalletto had deferentially suggested the words and tune, supposing him
@@ -68436,7 +68436,7 @@ him!’
 
 
 
-<span class="atom-split" data-atom="chapter_60_who_passes_by_this_road_so_lat--part_03" data-title="Little Dorrit — Chapter 22: Who passes by this Road so late? (part 3)" data-chapter="Chapter 60 Who passes by this Road so lat" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60_who_passes_by_this_road_so_lat--part_03" data-title="Little Dorrit — Chapter 22: Who passes by this Road so late? (part 3)" data-chapter="Who passes by this Road so lat" data-kind="excerpt"></span>
 
 
 ‘This is of far greater moment to me’ said Clennam, in great agitation,
@@ -68517,7 +68517,7 @@ But, [[Courage|courage]]! Enough! It matters not! I go, in this instant of [[Tim
 
 
 
-<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_01" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 1)" data-chapter="Chapter 61 Mistress Affery makes a Condit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_01" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 1)" data-chapter="Mistress Affery makes a Condit" data-kind="excerpt"></span>
 
 
 CHAPTER 23. Mistress Affery makes a Conditional Promise,
@@ -68639,7 +68639,7 @@ association?’
 
 
 
-<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_02" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 2)" data-chapter="Chapter 61 Mistress Affery makes a Condit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_02" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 2)" data-chapter="Mistress Affery makes a Condit" data-kind="excerpt"></span>
 
 
 ‘I don’t see,’ returned Mr Flintwinch, scraping his horny cheek, ‘that
@@ -68783,7 +68783,7 @@ place.’
 
 
 
-<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_03" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 3)" data-chapter="Chapter 61 Mistress Affery makes a Condit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_03" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 3)" data-chapter="Mistress Affery makes a Condit" data-kind="excerpt"></span>
 
 
 Glancing at Jeremiah, Clennam saw in his very gaiters that his attention
@@ -68906,7 +68906,7 @@ those scenes and walk through the [[house]]?’
 
 
 
-<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_04" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 4)" data-chapter="Chapter 61 Mistress Affery makes a Condit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_04" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 4)" data-chapter="Mistress Affery makes a Condit" data-kind="excerpt"></span>
 
 
 [[Mrs Clennam]], who responded with a constrained grace to Mrs Finching’s
@@ -69043,7 +69043,7 @@ an’t far off, and she’s a blabber.’
 
 
 
-<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_05" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 5)" data-chapter="Chapter 61 Mistress Affery makes a Condit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_mistress_affery_makes_a_condit--part_05" data-title="Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 5)" data-chapter="Mistress Affery makes a Condit" data-kind="excerpt"></span>
 
 
 His old sweetheart, being in fact so near at hand that she was then
@@ -69158,7 +69158,7 @@ exemplar of both that one would have liked to have a copy of.
 
 
 
-<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_01" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 1)" data-chapter="Chapter 62 The Evening of a Long Day" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_01" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 1)" data-chapter="The Evening of a Long Day" data-kind="excerpt"></span>
 
 
 CHAPTER 24. The Evening of a Long Day
@@ -69276,7 +69276,7 @@ non--’
 
 
 
-<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_02" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 2)" data-chapter="Chapter 62 The Evening of a Long Day" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_02" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 2)" data-chapter="The Evening of a Long Day" data-kind="excerpt"></span>
 
 
 ‘Good Gracious!’ exclaimed Fanny, starting up again. ‘It’s beyond all
@@ -69416,7 +69416,7 @@ than one.’
 
 
 
-<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_03" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 3)" data-chapter="Chapter 62 The Evening of a Long Day" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_03" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 3)" data-chapter="The Evening of a Long Day" data-kind="excerpt"></span>
 
 
 ‘That’s it,’ said Mr Sparkler. ‘Roused.’
@@ -69542,7 +69542,7 @@ As he was in dinner dress, Fanny asked him where he had been dining?
 
 
 
-<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_04" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 4)" data-chapter="Chapter 62 The Evening of a Long Day" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_the_evening_of_a_long_day--part_04" data-title="Little Dorrit — Chapter 24: The Evening of a Long Day (part 4)" data-chapter="The Evening of a Long Day" data-kind="excerpt"></span>
 
 
 He had passed his hand over his yellow forehead and considered, as if he
@@ -69672,7 +69672,7 @@ and waltz, and gyrate, as if he were possessed of several Devils.
 
 
 
-<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_01" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 1)" data-chapter="Chapter 63 The Chief Butler Resigns the S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_01" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 1)" data-chapter="The Chief Butler Resigns the S" data-kind="excerpt"></span>
 
 
 CHAPTER 25. The Chief Butler Resigns the Seals of Office
@@ -69799,7 +69799,7 @@ You have heard the talk, of course?’
 
 
 
-<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_02" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 2)" data-chapter="Chapter 63 The Chief Butler Resigns the S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_02" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 2)" data-chapter="The Chief Butler Resigns the S" data-kind="excerpt"></span>
 
 
 ‘Of course I have. But you know what [[Mr Merdle]] is; you know how
@@ -69921,7 +69921,7 @@ other’s breast. ‘And so have I! I see it in your face.’
 
 
 
-<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_03" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 3)" data-chapter="Chapter 63 The Chief Butler Resigns the S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_03" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 3)" data-chapter="The Chief Butler Resigns the S" data-kind="excerpt"></span>
 
 
 They went into the nearest room, where Physician gave him the letter to
@@ -70040,7 +70040,7 @@ preserve them, a comfort to their friends, for many years.
 
 
 
-<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_04" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 4)" data-chapter="Chapter 63 The Chief Butler Resigns the S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_the_chief_butler_resigns_the_s--part_04" data-title="Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 4)" data-chapter="The Chief Butler Resigns the S" data-kind="excerpt"></span>
 
 
 But, at about the [[Time|time]] of High ‘Change, Pressure began to wane, and
@@ -70095,7 +70095,7 @@ ever cheated the gallows.
 
 
 
-<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_01" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 1)" data-chapter="Chapter 64 Reaping the Whirlwind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_01" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 1)" data-chapter="Reaping the Whirlwind" data-kind="excerpt"></span>
 
 
 CHAPTER 26. Reaping the Whirlwind
@@ -70228,7 +70228,7 @@ I thought of what I would do; what remains is to do it.’
 
 
 
-<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_02" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 2)" data-chapter="Chapter 64 Reaping the Whirlwind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_02" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 2)" data-chapter="Reaping the Whirlwind" data-kind="excerpt"></span>
 
 
 ‘Not entirely of yourself?’ said Pancks, whose face was as damp as if
@@ -70347,7 +70347,7 @@ serve the business as a faithful clerk.
 
 
 
-<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_03" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 3)" data-chapter="Chapter 64 Reaping the Whirlwind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_03" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 3)" data-chapter="Reaping the Whirlwind" data-kind="excerpt"></span>
 
 
 Though Mr Rugg saw plainly there was no preventing this from being done,
@@ -70469,7 +70469,7 @@ conveyance they found, and drove to the old gates.
 
 
 
-<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_04" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 4)" data-chapter="Chapter 64 Reaping the Whirlwind" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64_reaping_the_whirlwind--part_04" data-title="Little Dorrit — Chapter 26: Reaping the Whirlwind (part 4)" data-chapter="Reaping the Whirlwind" data-kind="excerpt"></span>
 
 
 ‘Where I little thought, Heaven forgive me,’ said Clennam to himself,
@@ -70526,7 +70526,7 @@ Dorrit!’
 
 
 
-<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 1)" data-chapter="Chapter 65 The Pupil of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 1)" data-chapter="The Pupil of the Marshalsea" data-kind="excerpt"></span>
 
 
 CHAPTER 27. The Pupil of the Marshalsea
@@ -70646,7 +70646,7 @@ a Round on the present spot than to anything else I could name.’
 
 
 
-<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 2)" data-chapter="Chapter 65 The Pupil of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 2)" data-chapter="The Pupil of the Marshalsea" data-kind="excerpt"></span>
 
 
 [[arthur|Arthur]] looked at him for a moment in some [[Wonder|wonder]], and some little anger.
@@ -70771,7 +70771,7 @@ the table to his satisfaction, they sat down to tea.
 
 
 
-<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 3)" data-chapter="Chapter 65 The Pupil of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 3)" data-chapter="The Pupil of the Marshalsea" data-kind="excerpt"></span>
 
 
 Clennam tried to do [[Honour|honour]] to the meal, but unavailingly. The ham
@@ -70886,7 +70886,7 @@ yet, when I say I don’t understand it.’
 
 
 
-<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 4)" data-chapter="Chapter 65 The Pupil of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 4)" data-chapter="The Pupil of the Marshalsea" data-kind="excerpt"></span>
 
 
 ‘Sir,’ said Young John, ‘will you have the perfidy to deny that you know
@@ -71029,7 +71029,7 @@ it up again.
 
 
 
-<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_05" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 5)" data-chapter="Chapter 65 The Pupil of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_05" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 5)" data-chapter="The Pupil of the Marshalsea" data-kind="excerpt"></span>
 
 
 The touch was still in its influence so like a blow that [[arthur|Arthur]] could
@@ -71143,7 +71143,7 @@ here to know it.’
 
 
 
-<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_06" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 6)" data-chapter="Chapter 65 The Pupil of the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65_the_pupil_of_the_marshalsea--part_06" data-title="Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 6)" data-chapter="The Pupil of the Marshalsea" data-kind="excerpt"></span>
 
 
 [[arthur|Arthur]] thought she looked at him with particular expression.
@@ -71206,22 +71206,22 @@ Young John lay wrapt in peaceful slumber, after composing and arranging
 the following monumental [[Inscription|inscription]] on his pillow--
 
 
-                         STRANGER!
-                    RESPECT THE TOMB OF
-                   JOHN CHIVERY, JUNIOR,
-                WHO DIED AT AN ADVANCED AGE
-                 NOT NECESSARY TO MENTION.
-      HE ENCOUNTERED HIS RIVAL IN A DISTRESSED STATE,
-                     AND FELT INCLINED
-                 TO HAVE A ROUND WITH HIM;
-            BUT, FOR THE SAKE OF THE LOVED ONE,
-     CONQUERED THOSE FEELINGS OF BITTERNESS, AND BECAME
-                        MAGNANIMOUS.
+STRANGER!
+RESPECT THE TOMB OF
+JOHN CHIVERY, JUNIOR,
+WHO DIED AT AN ADVANCED AGE
+NOT NECESSARY TO MENTION.
+HE ENCOUNTERED HIS RIVAL IN A DISTRESSED STATE,
+AND FELT INCLINED
+TO HAVE A ROUND WITH HIM;
+BUT, FOR THE SAKE OF THE LOVED ONE,
+CONQUERED THOSE FEELINGS OF BITTERNESS, AND BECAME
+MAGNANIMOUS.
 
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_01" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 1)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_01" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 1)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 CHAPTER 28. An Appearance in the Marshalsea
@@ -71359,7 +71359,7 @@ from us.’
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_02" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 2)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_02" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 2)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 ‘And the invention?’ said Clennam.
@@ -71510,7 +71510,7 @@ the lowest ground of argument, and say, Amiable?’
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_03" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 3)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_03" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 3)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 [[arthur|Arthur]]’s thoughts had once more wandered away to Little Dorrit, and the
@@ -71635,7 +71635,7 @@ nothing. But!--’
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_04" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 4)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_04" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 4)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 At this significant Italian rest on the word ‘But,’ his backhanded shake
@@ -71774,7 +71774,7 @@ strongly will you have it?’
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_05" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 5)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_05" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 5)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 He threw out the lees of his glass on the ground, so that they nearly
@@ -71869,7 +71869,7 @@ at an hotel shall be paid by you.
 ‘Receive, dear madam, the assurance of my highest and most distinguished
 consideration,
 
-               ‘[[Rigaud|RIGAUD]] BLANDOIS.
+‘[[Rigaud|RIGAUD]] BLANDOIS.
 
 ‘A thousand friendships to that dear Flintwinch.
 
@@ -71912,7 +71912,7 @@ if he had been looking on at a nest of those creatures.
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_06" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 6)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_06" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 6)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 ‘Hola, Pig!’ cried [[Rigaud]], with a noisy stimulating cry, as if
@@ -72008,10 +72008,10 @@ that on which Clennam sat, he sang, smiting himself on the breast as the
 gallant personage of the [[Song|song]].
 
 
-     ‘Who passes by this [[Road|road]] so late?
-          Compagnon de la Majolaine!
-     Who passes by this [[Road|road]] so late?
-          Always gay!
+‘Who passes by this [[Road|road]] so late?
+Compagnon de la Majolaine!
+Who passes by this [[Road|road]] so late?
+Always gay!
 
 
 ‘Sing the Refrain, pig! You could sing it once, in another jail. Sing
@@ -72020,10 +72020,10 @@ compromising; and then some people who are not dead yet, had better have
 been stoned along with them!’
 
 
-     ‘Of all the [[King|king]]’s knights ‘tis the flower,
-          Compagnon de la Majolaine!
-     Of all the [[King|king]]’s knights ‘tis the flower,
-          Always gay!’
+‘Of all the [[King|king]]’s knights ‘tis the flower,
+Compagnon de la Majolaine!
+Of all the [[King|king]]’s knights ‘tis the flower,
+Always gay!’
 
 
 Partly in his old habit of submission, partly because his not doing it
@@ -72047,7 +72047,7 @@ come true, you see.’
 
 
 
-<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_07" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 7)" data-chapter="Chapter 66 An Appearance in the Marshalse" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66_an_appearance_in_the_marshalse--part_07" data-title="Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 7)" data-chapter="An Appearance in the Marshalse" data-kind="excerpt"></span>
 
 
 He was as imperturbable as ever, to all appearance, and nodded his head
@@ -72112,8 +72112,8 @@ there; you dare not touch him with a finger or an epithet. No. It is his
 character to triumph! Whoof!
 
 
-     ‘Of all the [[King|king]]’s knights he’s the flower,
-          And he’s always gay!’
+‘Of all the [[King|king]]’s knights he’s the flower,
+And he’s always gay!’
 
 
 With this adaptation of the Refrain to himself, he stalked out of the
@@ -72131,7 +72131,7 @@ miserable and fallen than before, was left [[Alone|alone]] again.
 
 
 
-<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 1)" data-chapter="Chapter 67 A Plea in the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_01" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 1)" data-chapter="A Plea in the Marshalsea" data-kind="excerpt"></span>
 
 
 CHAPTER 29. A Plea in the Marshalsea
@@ -72237,7 +72237,7 @@ to burst into [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 2)" data-chapter="Chapter 67 A Plea in the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_02" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 2)" data-chapter="A Plea in the Marshalsea" data-kind="excerpt"></span>
 
 
 He roused himself, and cried out. And then he saw, in the loving,
@@ -72359,7 +72359,7 @@ off from hour to hour, but I must say it.’
 
 
 
-<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 3)" data-chapter="Chapter 67 A Plea in the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_03" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 3)" data-chapter="A Plea in the Marshalsea" data-kind="excerpt"></span>
 
 
 She nervously moved her hand towards his lips as if to stop him; then it
@@ -72481,7 +72481,7 @@ then they can take it out and give it to him, and then all be happy!’
 
 
 
-<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 4)" data-chapter="Chapter 67 A Plea in the Marshalsea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67_a_plea_in_the_marshalsea--part_04" data-title="Little Dorrit — Chapter 29: A Plea in the Marshalsea (part 4)" data-chapter="A Plea in the Marshalsea" data-kind="excerpt"></span>
 
 
 The interruption was seasonable, for the bell had nearly rung itself
@@ -72551,7 +72551,7 @@ devotion, for the same purpose.
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_01" data-title="Little Dorrit — Chapter 30: Closing in (part 1)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_01" data-title="Little Dorrit — Chapter 30: Closing in (part 1)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 CHAPTER 30. Closing in
@@ -72671,7 +72671,7 @@ way, nodded, with a fine display of bright teeth.
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_02" data-title="Little Dorrit — Chapter 30: Closing in (part 2)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_02" data-title="Little Dorrit — Chapter 30: Closing in (part 2)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 At whom Mr Flintwinch had been looking, and to whom he then said:
@@ -72792,7 +72792,7 @@ murder.’
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_03" data-title="Little Dorrit — Chapter 30: Closing in (part 3)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_03" data-title="Little Dorrit — Chapter 30: Closing in (part 3)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 He kissed his hand to her with his exaggerated gallantry.
@@ -72924,7 +72924,7 @@ or how little.’
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_04" data-title="Little Dorrit — Chapter 30: Closing in (part 4)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_04" data-title="Little Dorrit — Chapter 30: Closing in (part 4)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 ‘What the Devil!’ he asked savagely. ‘Not after a week’s grace to
@@ -73050,7 +73050,7 @@ received, let us suppose, by Flintwinch. Hey, old intriguer?’
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_05" data-title="Little Dorrit — Chapter 30: Closing in (part 5)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_05" data-title="Little Dorrit — Chapter 30: Closing in (part 5)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 Jeremiah, with his eyes upon his mistress, made no reply. [[Rigaud]] looked
@@ -73176,7 +73176,7 @@ delivered to me!’
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_06" data-title="Little Dorrit — Chapter 30: Closing in (part 6)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_06" data-title="Little Dorrit — Chapter 30: Closing in (part 6)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 More than forty years had passed over the grey head of this determined
@@ -73241,7 +73241,7 @@ That done, and your present means, derived from my husband, renounced,
 I charge myself with your support. You may, with your place of retreat
 unknown, then leave, if you please, uncontradicted by me, the lie that
 when you passed out of all knowledge but mine, you merited a good name.”
- That was all. She had to sacrifice her sinful and shameful affections;
+That was all. She had to sacrifice her sinful and shameful affections;
 no more. She was then free to bear her load of [[Guilt|guilt]] in secret, and to
 break her heart in secret; and through such present misery (light enough
 for her, I think!) to purchase her redemption from endless misery, if
@@ -73285,7 +73285,7 @@ of your other jargon. Come straight to the stolen money!’
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_07" data-title="Little Dorrit — Chapter 30: Closing in (part 7)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_07" data-title="Little Dorrit — Chapter 30: Closing in (part 7)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 ‘Wretch that you are,’ she answered, and now her hands clasped her head:
@@ -73397,7 +73397,7 @@ it to her at my [[Death|death]]:’ and sat looking at it.
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_08" data-title="Little Dorrit — Chapter 30: Closing in (part 8)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_08" data-title="Little Dorrit — Chapter 30: Closing in (part 8)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 ‘Shall I recall something to you, worthy madame?’ said [[Rigaud]]. ‘The
@@ -73546,7 +73546,7 @@ me.’
 
 
 
-<span class="atom-split" data-atom="chapter_68_closing_in--part_09" data-title="Little Dorrit — Chapter 30: Closing in (part 9)" data-chapter="Chapter 68 Closing in" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68_closing_in--part_09" data-title="Little Dorrit — Chapter 30: Closing in (part 9)" data-chapter="Closing in" data-kind="excerpt"></span>
 
 
 She slowly withdrew them when he had ceased, and dropped her forehead on
@@ -73646,7 +73646,7 @@ satisfaction.
 
 
 
-<span class="atom-split" data-atom="chapter_69_closed--part_01" data-title="Little Dorrit — Chapter 31: Closed (part 1)" data-chapter="Chapter 69 Closed" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69_closed--part_01" data-title="Little Dorrit — Chapter 31: Closed (part 1)" data-chapter="Closed" data-kind="excerpt"></span>
 
 
 CHAPTER 31. Closed
@@ -73783,7 +73783,7 @@ before her.
 
 
 
-<span class="atom-split" data-atom="chapter_69_closed--part_02" data-title="Little Dorrit — Chapter 31: Closed (part 2)" data-chapter="Chapter 69 Closed" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69_closed--part_02" data-title="Little Dorrit — Chapter 31: Closed (part 2)" data-chapter="Closed" data-kind="excerpt"></span>
 
 
 ‘You know, now, what I have done.’
@@ -73902,7 +73902,7 @@ it, in its own plain [[Nature|nature]].
 
 
 
-<span class="atom-split" data-atom="chapter_69_closed--part_03" data-title="Little Dorrit — Chapter 31: Closed (part 3)" data-chapter="Chapter 69 Closed" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69_closed--part_03" data-title="Little Dorrit — Chapter 31: Closed (part 3)" data-chapter="Closed" data-kind="excerpt"></span>
 
 
 ‘I have done,’ said [[Mrs Clennam]], ‘what it was given to me to do. I have
@@ -74010,7 +74010,7 @@ always wrong in the theories she deduced from them.
 
 
 
-<span class="atom-split" data-atom="chapter_69_closed--part_04" data-title="Little Dorrit — Chapter 31: Closed (part 4)" data-chapter="Chapter 69 Closed" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69_closed--part_04" data-title="Little Dorrit — Chapter 31: Closed (part 4)" data-chapter="Closed" data-kind="excerpt"></span>
 
 
 When the [[Storm|storm]] of [[Dust|dust]] had cleared away and the [[Summer|summer]] [[Night|night]] was calm
@@ -74073,7 +74073,7 @@ style and designation of Mynheer von Flyntevynge.
 
 
 
-<span class="atom-split" data-atom="chapter_70_going--part_01" data-title="Little Dorrit — Chapter 32: Going (part 1)" data-chapter="Chapter 70 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70_going--part_01" data-title="Little Dorrit — Chapter 32: Going (part 1)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 CHAPTER 32. Going
@@ -74194,7 +74194,7 @@ at his proprietor in a most hideous manner.
 
 
 
-<span class="atom-split" data-atom="chapter_70_going--part_02" data-title="Little Dorrit — Chapter 32: Going (part 2)" data-chapter="Chapter 70 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70_going--part_02" data-title="Little Dorrit — Chapter 32: Going (part 2)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 ‘You will please to mention to my daughter, [[Mr Pancks]], that I can’t
@@ -74323,7 +74323,7 @@ on Monday?’
 
 
 
-<span class="atom-split" data-atom="chapter_70_going--part_03" data-title="Little Dorrit — Chapter 32: Going (part 3)" data-chapter="Chapter 70 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70_going--part_03" data-title="Little Dorrit — Chapter 32: Going (part 3)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 The reply was given in a murmur of ‘Shame!’ and ‘Shabby!’
@@ -74423,7 +74423,7 @@ again.
 
 
 
-<span class="atom-split" data-atom="chapter_71_going--part_01" data-title="Little Dorrit — Chapter 33: Going! (part 1)" data-chapter="Chapter 71 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71_going--part_01" data-title="Little Dorrit — Chapter 33: Going! (part 1)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 CHAPTER 33. Going!
@@ -74536,7 +74536,7 @@ degrading necessity of knowing whence it came.
 
 
 
-<span class="atom-split" data-atom="chapter_71_going--part_02" data-title="Little Dorrit — Chapter 33: Going! (part 2)" data-chapter="Chapter 71 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71_going--part_02" data-title="Little Dorrit — Chapter 33: Going! (part 2)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 Mr Meagles, at such a period, naturally seized an occupation with great
@@ -74654,7 +74654,7 @@ he?’
 
 
 
-<span class="atom-split" data-atom="chapter_71_going--part_03" data-title="Little Dorrit — Chapter 33: Going! (part 3)" data-chapter="Chapter 71 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71_going--part_03" data-title="Little Dorrit — Chapter 33: Going! (part 3)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 ‘Upon my word,’ she returned, ‘I seem to be a mark for everybody who
@@ -74784,7 +74784,7 @@ hundred, five-and-twenty thousand!’
 
 
 
-<span class="atom-split" data-atom="chapter_71_going--part_04" data-title="Little Dorrit — Chapter 33: Going! (part 4)" data-chapter="Chapter 71 Going" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71_going--part_04" data-title="Little Dorrit — Chapter 33: Going! (part 4)" data-chapter="Going" data-kind="excerpt"></span>
 
 
 Another opening of the door, and Tattycoram subsided, and Little Dorrit
@@ -74898,7 +74898,7 @@ made the most of it, who could blame him?
 
 
 
-<span class="atom-split" data-atom="chapter_72_gone--part_01" data-title="Little Dorrit — Chapter 34: Gone (part 1)" data-chapter="Chapter 72 Gone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72_gone--part_01" data-title="Little Dorrit — Chapter 34: Gone (part 1)" data-chapter="Gone" data-kind="excerpt"></span>
 
 
 CHAPTER 34. Gone
@@ -75051,7 +75051,7 @@ last my heart is, in this room where he suffered for so many years!’
 
 
 
-<span class="atom-split" data-atom="chapter_72_gone--part_02" data-title="Little Dorrit — Chapter 34: Gone (part 2)" data-chapter="Chapter 72 Gone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72_gone--part_02" data-title="Little Dorrit — Chapter 34: Gone (part 2)" data-chapter="Gone" data-kind="excerpt"></span>
 
 
 Maggy had of course been staring from the first, and had of course been
@@ -75156,7 +75156,7 @@ the trust.
 
 
 
-<span class="atom-split" data-atom="chapter_72_gone--part_03" data-title="Little Dorrit — Chapter 34: Gone (part 3)" data-chapter="Chapter 72 Gone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72_gone--part_03" data-title="Little Dorrit — Chapter 34: Gone (part 3)" data-chapter="Gone" data-kind="excerpt"></span>
 
 
 ‘The withered chaplet my dear,’ said Flora, with great enjoyment, ‘is
@@ -75274,7 +75274,7 @@ mustn’t talk about that over here.’
 
 
 
-<span class="atom-split" data-atom="chapter_72_gone--part_04" data-title="Little Dorrit — Chapter 34: Gone (part 4)" data-chapter="Chapter 72 Gone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72_gone--part_04" data-title="Little Dorrit — Chapter 34: Gone (part 4)" data-chapter="Gone" data-kind="excerpt"></span>
 
 
 ‘Why not?’
@@ -75396,7 +75396,7 @@ it, and the paper burned away.
 
 
 
-<span class="atom-split" data-atom="chapter_72_gone--part_05" data-title="Little Dorrit — Chapter 34: Gone (part 5)" data-chapter="Chapter 72 Gone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72_gone--part_05" data-title="Little Dorrit — Chapter 34: Gone (part 5)" data-chapter="Gone" data-kind="excerpt"></span>
 
 
 They passed very quietly along the yard; for no one was there, though

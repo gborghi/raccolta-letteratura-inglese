@@ -17,14 +17,14 @@ tags:
 THE NEW OMAR  
 
 A Book of verses underneath the bough,  
-  Provided that the verses do not scan,  
+Provided that the verses do not scan,  
 A loaf of bread, a jug of wine and Thou,  
-  Short-haired, all angles, looking like a man.  
+Short-haired, all angles, looking like a man.  
 
 But let the wine be unfermented, Pale,  
-  Of chemicals compounded, God knows how--  
+Of chemicals compounded, God knows how--  
 This were indeed the [[Prophet]]'s Paradise,  
-  O Paradise were Wilderness enow.
+O Paradise were Wilderness enow.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -32,14 +32,14 @@ This were indeed the [[Prophet]]'s Paradise,
 IL NUOVO OMAR  
 
 Un libro di versi sotto il ramo,  
-  purché quei versi non abbiano metro,  
+purché quei versi non abbiano metro,  
 una pagnotta di pane, una brocca di vino e Tu,  
-  dai capelli corti, tutta spigoli, con l'aria d'un uomo.
+dai capelli corti, tutta spigoli, con l'aria d'un uomo.
 
 Ma che il vino sia non fermentato, Pallido,  
-  di sostanze chimiche composto, Dio sa come--  
+di sostanze chimiche composto, Dio sa come--  
 questo sarebbe davvero il Paradiso del [[Prophet|Profeta]],  
-  oh, il Paradiso sarebbe Deserto a sufficienza.
+oh, il Paradiso sarebbe Deserto a sufficienza.
 
 
 
@@ -49,14 +49,14 @@ questo sarebbe davvero il Paradiso del [[Prophet|Profeta]],
 THE NEW OMAR  
 
 A Book of verses underneath the bough,  
-  Provided that the verses do not scan,  
+Provided that the verses do not scan,  
 A loaf of bread, a jug of wine and Thou,  
-  Short-haired, all angles, looking like a man.  
+Short-haired, all angles, looking like a man.  
 
 But let the wine be unfermented, Pale,  
-  Of chemicals compounded, God knows how--  
+Of chemicals compounded, God knows how--  
 This were indeed the [[Prophet]]'s Paradise,  
-  O Paradise were Wilderness enow.
+O Paradise were Wilderness enow.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -64,11 +64,11 @@ This were indeed the [[Prophet]]'s Paradise,
 IL NUOVO OMAR  
 
 Un libro di versi sotto il ramo,  
-  purché quei versi non abbiano metro,  
+purché quei versi non abbiano metro,  
 una pagnotta di pane, una brocca di vino e Tu,  
-  dai capelli corti, tutta spigoli, con l'aria d'un uomo.
+dai capelli corti, tutta spigoli, con l'aria d'un uomo.
 
 Ma che il vino sia non fermentato, Pallido,  
-  di sostanze chimiche composto, Dio sa come--  
+di sostanze chimiche composto, Dio sa come--  
 questo sarebbe davvero il Paradiso del [[Prophet|Profeta]],  
-  oh, il Paradiso sarebbe Deserto a sufficienza.
+oh, il Paradiso sarebbe Deserto a sufficienza.

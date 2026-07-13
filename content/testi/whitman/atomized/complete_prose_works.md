@@ -27,254 +27,254 @@ CONTENTS
 
 SPECIMEN DAYS
 
-  A Happy Hour's Command
-  Answer to an Insisting Friend
-  Genealogy--Van Velsor and Whitman
-  The Old Whitman and Van Velsor Cemeteries
-  The Maternal Homestead
-  Two Old Family Interiors
-  Paumanok, and my Life on it as [[Child]] and Young Man
-  My First Reading--Lafayette
-  Printing Office--Old Brooklyn
-  Growth--Health--Work
-  My Passion for Ferries
-  Broadway Sights
-  Omnibus Jaunts and Drivers
-  Plays and Operas too
-  Through Eight Years
-  Sources of Character--Results--1860
-  Opening of the Secession War
-  National Uprising and Volunteering
-  Contemptuous Feeling
-  Battle of Bull Run, July, 1861
-  The Stupor Passes--Something Else Begins
-  Down at the Front
-  After First Fredericksburg
-  Back to Washington
-  Fifty Hours Left Wounded on the Field
-  Hospital Scenes and Persons
-  Patent-Office Hospital
-  The White [[house|House]] by Moonlight
-  An Army Hospital Ward
-  A Connecticut Case
-  Two Brooklyn Boys
-  A Secesh Brave
-  The Wounded from Chancellorsville
-  A [[Night]] Battle over a Week Since
-  Unnamed Remains the Bravest Soldier
-  Some Specimen Cases
-  My Preparations for Visits
-  Ambulance Processions
-  Bad Wounds--the Young
-  The Most Inspiriting of all War's Shows
-  Battle of Gettysburg
-  A Cavalry Camp
-  A [[New York]] Soldier
-  [[Home]]-Made Music
-  [[Abraham Lincoln]]
-  Heated Term
-  Soldiers and Talks
-  [[Death]] of a Wisconsin Officer
-  Hospitals Ensemble
-  A Silent [[Night]] Ramble
-  Spiritual Characters among the Soldiers
-  Cattle Droves about Washington
-  Hospital Perplexity
-  Down at the Front
-  Paying the Bounties
-  Rumors, Changes, Etc.
-  Virginia
-  [[Summer]] of 1864
-  A New Army Organization fit for [[America]]
-  [[Death]] of a [[Hero]]
-  Hospital Scenes--Incidents
-  A Yankee Soldier
-  [[Union]] Prisoners South
-  Deserters
-  A Glimpse of War's Hell-Scenes
-  Gifts--Money--Discrimination
-  Items from My Note Books
-  A Case from Second Bull Run
-  Army Surgeons--Aid Deficiencies
-  The Blue Everywhere
-  A Model Hospital
-  Boys in the Army
-  Burial of a Lady [[Nurse]]
-  Female Nurses for Soldiers
-  Southern Escapees
-  The Capitol by Gas-Light
-  The Inauguration
-  Attitude of Foreign Governments During the War
-  The Weather--Does it Sympathize with These Times?
-  Inauguration Ball
-  Scene at the Capitol
-  A Yankee Antique
-  Wounds and Diseases
-  [[Death]] of President [[Lincoln]]
-  Sherman's Army Jubilation--its Sudden Stoppage
-  No Good Portrait of [[Lincoln]]
-  Releas'd [[Union]] Prisoners from South
-  [[Death]] of a Pennsylvania Soldier
-  The Armies Returning
-  The Grand Review
-  Western Soldiers
-  A Soldier on [[Lincoln]]
-  Two Brothers, one South, one North
-  Some Sad Cases Yet
-  Calhoun's Real Monument
-  Hospitals Closing
-  Typical Soldiers
-  "Convulsiveness"
-  Three Years Summ'd up
-  The Million Dead, too, Summ'd up
-  The Real War will never get in the Books
-  An Interregnum Paragraph
-  New Themes Enter'd Upon
-  Entering a Long Farm-Lane
-  To the [[spring|Spring]] and Brook
-  An Early [[Summer]] Reveille
-  [[Birds]] Migrating at Midnight
-  Bumble-[[Bees]]
-  Cedar-Apples
-  [[Summer]] Sights and Indolences
-  Sundown Perfume--Quail-Notes--the Hermit Thrush
-  A July Afternoon by the Pond
-  Locusts and Katy-Dids
-  The Lesson of a Tree
-  [[Autumn]] Side-Bits
-  The Sky--Days and Nights--Happiness
-  Colors--A Contrast
-  November 8, '76
-  Crows and Crows
-  A [[Winter]]-Day on the Sea-Beach
-  Sea-Shore Fancies
-  In [[Memory]] of Thomas Paine
-  A Two Hours' Ice-Sail
-  [[spring|Spring]] Overtures--Recreations
-  One of the Human Kinks
-  An Afternoon Scene
-  The Gates Opening
-  The Common Earth, the Soil
-  [[Birds]] and [[Birds]] and [[Birds]]
-  Full-Starr'd Nights
-  Mulleins and Mulleins
-  Distant Sounds
-  A Sun-Bath--[[Nakedness]]
-  The Oaks and I
-  A Quintette
-  The First [[Frost]]--Mems
-  Three Young Men's Deaths
-  February Days
-  A Meadow Lark
-  Sundown Lights
-  Thoughts Under an Oak--[[A Dream]]
-  Clover and Hay Perfume
-  An Unknown
-  Bird Whistling
-  [[Horse]]-Mint
-  Three of Us
-  [[Death]] of William Cullen Bryant
-  Jaunt up the Hudson
-  Happiness and Raspberries
-  A Specimen Tramp Family
-  [[Manhattan]] from the Bay
-  Human and Heroic [[New York]]
-  Hours for the [[Soul]]
-  Straw-Color'd and other Psyches
-  A [[Night]] Remembrance
-  Wild [[Flowers]]
-  A Civility Too Long Neglected
-  Delaware [[River]]--Days and Nights
-  Scenes on Ferry and [[River]]--Last [[Winter]]'s Nights
-  The First [[spring|Spring]] Day on Chestnut Street
-  Up the Hudson to Ulster County
-  Days at J.B.'s--Turf Fires--[[spring|Spring]] [[songs|Songs]]
-  Meeting a Hermit
-  An Ulster County Waterfall
-  Walter Dumont and his Medal
-  Hudson [[River]] Sights
-  Two [[City]] Areas Certain Hours
-  Central Park Walks and Talks
-  A Fine Afternoon, 4 to 6
-  Departing of the Big Steamers
-  Two Hours on the Minnesota
-  Mature [[Summer]] Days and [[Night]]
-  Exposition Building--New [[City]] Hall--[[River]]-Trip
-  Swallows on the [[River]]
-  Begin a Long Jaunt West
-  In [[The Sleeper|the Sleeper]]
-  Missouri State
-  Lawrence and Topeka, Kansas
-  The Prairies--(and an Undeliver'd Speech)
-  On to Denver--A Frontier Incident
-  An Hour on Kenosha Summit
-  An Egotistical "Find"
-  New Scenes--New Joys
-  Steam-Power, Telegraphs, Etc.
-  [[America]]'s Back-Bone
-  The Parks
-  Art Features
-  Denver Impressions
-  I Turn South and then East Again
-  Unfulfill'd Wants--the Arkansas [[River]]
-  A Silent Little Follower--the Coreopsis
-  The Prairies and Great Plains in Poetry
-  The Spanish Peaks--Evening on the Plains
-  [[America]]'s Characteristic Landscape
-  Earth's Most Important Stream
-  Prairie Analogies--the Tree Question
-  Mississippi Valley Literature
-  An Interviewer's Item
-  The Women of the West
-  The Silent General
-  President Hayes's Speeches
-  St. Louis Memoranda
-  Nights on the Mississippi
-  Upon our Own Land
-  [[Edgar]] Poe's Significance
-  Beethoven's Septette
-  A Hint of Wild [[Nature]]
-  Loafing in the Woods
-  A Contralto Voice
-  Seeing Niagara to Advantage
-  Jaunting to Canada
-  [[Sunday]] with the Insane
-  Reminiscence of Elias Hicks
-  Grand Native Growth
-  A Zollverein between the U. S. and Canada
-  The St. Lawrence Line
-  The Savage Saguenay
-  Capes [[Eternity]] and Trinity
-  Chicoutimi, and Ha-ha Bay
-  The Inhabitants--Good Living
-  Cedar-Plums Like--Names
-  [[Death]] of Thomas Carlyle
-  Carlyle from American Points of View
-  A Couple of Old Friends--A Coleridge Bit
-  A Week's Visit to Boston
-  The Boston of To-Day
-  My Tribute to Four Poets
-  Millet's Pictures--Last Items
-  [[Birds]]--and a Caution
-  Samples of my Common-Place Book
-  My Native Sand and Salt Once More
-  Hot Weather [[New York]]
-  "Ouster's Last Rally"
-  Some Old Acquaintances--Memories
-  A Discovery of Old Age
-  A Visit, at the Last, to R. W. Emerson
-  Other Concord Notations
-  Boston Common--More of Emerson
-  An Ossianic [[Night]]--Dearest Friends
-  Only a New Ferry Boat
-  [[Death]] of Longfellow
-  Starting Newspapers
-  The Great Unrest of which We are Part
-  By Emerson's [[Grave]]
-  At Present Writing--Personal
-  After Trying a Certain Book
-  Final Confessions--Literary Tests
-  [[Nature]] and [[Democracy]]--[[morality|Morality]]
+A Happy Hour's Command
+Answer to an Insisting Friend
+Genealogy--Van Velsor and Whitman
+The Old Whitman and Van Velsor Cemeteries
+The Maternal Homestead
+Two Old Family Interiors
+Paumanok, and my Life on it as [[Child]] and Young Man
+My First Reading--Lafayette
+Printing Office--Old Brooklyn
+Growth--Health--Work
+My Passion for Ferries
+Broadway Sights
+Omnibus Jaunts and Drivers
+Plays and Operas too
+Through Eight Years
+Sources of Character--Results--1860
+Opening of the Secession War
+National Uprising and Volunteering
+Contemptuous Feeling
+Battle of Bull Run, July, 1861
+The Stupor Passes--Something Else Begins
+Down at the Front
+After First Fredericksburg
+Back to Washington
+Fifty Hours Left Wounded on the Field
+Hospital Scenes and Persons
+Patent-Office Hospital
+The White [[house|House]] by Moonlight
+An Army Hospital Ward
+A Connecticut Case
+Two Brooklyn Boys
+A Secesh Brave
+The Wounded from Chancellorsville
+A [[Night]] Battle over a Week Since
+Unnamed Remains the Bravest Soldier
+Some Specimen Cases
+My Preparations for Visits
+Ambulance Processions
+Bad Wounds--the Young
+The Most Inspiriting of all War's Shows
+Battle of Gettysburg
+A Cavalry Camp
+A [[New York]] Soldier
+[[Home]]-Made Music
+[[Abraham Lincoln]]
+Heated Term
+Soldiers and Talks
+[[Death]] of a Wisconsin Officer
+Hospitals Ensemble
+A Silent [[Night]] Ramble
+Spiritual Characters among the Soldiers
+Cattle Droves about Washington
+Hospital Perplexity
+Down at the Front
+Paying the Bounties
+Rumors, Changes, Etc.
+Virginia
+[[Summer]] of 1864
+A New Army Organization fit for [[America]]
+[[Death]] of a [[Hero]]
+Hospital Scenes--Incidents
+A Yankee Soldier
+[[Union]] Prisoners South
+Deserters
+A Glimpse of War's Hell-Scenes
+Gifts--Money--Discrimination
+Items from My Note Books
+A Case from Second Bull Run
+Army Surgeons--Aid Deficiencies
+The Blue Everywhere
+A Model Hospital
+Boys in the Army
+Burial of a Lady [[Nurse]]
+Female Nurses for Soldiers
+Southern Escapees
+The Capitol by Gas-Light
+The Inauguration
+Attitude of Foreign Governments During the War
+The Weather--Does it Sympathize with These Times?
+Inauguration Ball
+Scene at the Capitol
+A Yankee Antique
+Wounds and Diseases
+[[Death]] of President [[Lincoln]]
+Sherman's Army Jubilation--its Sudden Stoppage
+No Good Portrait of [[Lincoln]]
+Releas'd [[Union]] Prisoners from South
+[[Death]] of a Pennsylvania Soldier
+The Armies Returning
+The Grand Review
+Western Soldiers
+A Soldier on [[Lincoln]]
+Two Brothers, one South, one North
+Some Sad Cases Yet
+Calhoun's Real Monument
+Hospitals Closing
+Typical Soldiers
+"Convulsiveness"
+Three Years Summ'd up
+The Million Dead, too, Summ'd up
+The Real War will never get in the Books
+An Interregnum Paragraph
+New Themes Enter'd Upon
+Entering a Long Farm-Lane
+To the [[spring|Spring]] and Brook
+An Early [[Summer]] Reveille
+[[Birds]] Migrating at Midnight
+Bumble-[[Bees]]
+Cedar-Apples
+[[Summer]] Sights and Indolences
+Sundown Perfume--Quail-Notes--the Hermit Thrush
+A July Afternoon by the Pond
+Locusts and Katy-Dids
+The Lesson of a Tree
+[[Autumn]] Side-Bits
+The Sky--Days and Nights--Happiness
+Colors--A Contrast
+November 8, '76
+Crows and Crows
+A [[Winter]]-Day on the Sea-Beach
+Sea-Shore Fancies
+In [[Memory]] of Thomas Paine
+A Two Hours' Ice-Sail
+[[spring|Spring]] Overtures--Recreations
+One of the Human Kinks
+An Afternoon Scene
+The Gates Opening
+The Common Earth, the Soil
+[[Birds]] and [[Birds]] and [[Birds]]
+Full-Starr'd Nights
+Mulleins and Mulleins
+Distant Sounds
+A Sun-Bath--[[Nakedness]]
+The Oaks and I
+A Quintette
+The First [[Frost]]--Mems
+Three Young Men's Deaths
+February Days
+A Meadow Lark
+Sundown Lights
+Thoughts Under an Oak--[[A Dream]]
+Clover and Hay Perfume
+An Unknown
+Bird Whistling
+[[Horse]]-Mint
+Three of Us
+[[Death]] of William Cullen Bryant
+Jaunt up the Hudson
+Happiness and Raspberries
+A Specimen Tramp Family
+[[Manhattan]] from the Bay
+Human and Heroic [[New York]]
+Hours for the [[Soul]]
+Straw-Color'd and other Psyches
+A [[Night]] Remembrance
+Wild [[Flowers]]
+A Civility Too Long Neglected
+Delaware [[River]]--Days and Nights
+Scenes on Ferry and [[River]]--Last [[Winter]]'s Nights
+The First [[spring|Spring]] Day on Chestnut Street
+Up the Hudson to Ulster County
+Days at J.B.'s--Turf Fires--[[spring|Spring]] [[songs|Songs]]
+Meeting a Hermit
+An Ulster County Waterfall
+Walter Dumont and his Medal
+Hudson [[River]] Sights
+Two [[City]] Areas Certain Hours
+Central Park Walks and Talks
+A Fine Afternoon, 4 to 6
+Departing of the Big Steamers
+Two Hours on the Minnesota
+Mature [[Summer]] Days and [[Night]]
+Exposition Building--New [[City]] Hall--[[River]]-Trip
+Swallows on the [[River]]
+Begin a Long Jaunt West
+In [[The Sleeper|the Sleeper]]
+Missouri State
+Lawrence and Topeka, Kansas
+The Prairies--(and an Undeliver'd Speech)
+On to Denver--A Frontier Incident
+An Hour on Kenosha Summit
+An Egotistical "Find"
+New Scenes--New Joys
+Steam-Power, Telegraphs, Etc.
+[[America]]'s Back-Bone
+The Parks
+Art Features
+Denver Impressions
+I Turn South and then East Again
+Unfulfill'd Wants--the Arkansas [[River]]
+A Silent Little Follower--the Coreopsis
+The Prairies and Great Plains in Poetry
+The Spanish Peaks--Evening on the Plains
+[[America]]'s Characteristic Landscape
+Earth's Most Important Stream
+Prairie Analogies--the Tree Question
+Mississippi Valley Literature
+An Interviewer's Item
+The Women of the West
+The Silent General
+President Hayes's Speeches
+St. Louis Memoranda
+Nights on the Mississippi
+Upon our Own Land
+[[Edgar]] Poe's Significance
+Beethoven's Septette
+A Hint of Wild [[Nature]]
+Loafing in the Woods
+A Contralto Voice
+Seeing Niagara to Advantage
+Jaunting to Canada
+[[Sunday]] with the Insane
+Reminiscence of Elias Hicks
+Grand Native Growth
+A Zollverein between the U. S. and Canada
+The St. Lawrence Line
+The Savage Saguenay
+Capes [[Eternity]] and Trinity
+Chicoutimi, and Ha-ha Bay
+The Inhabitants--Good Living
+Cedar-Plums Like--Names
+[[Death]] of Thomas Carlyle
+Carlyle from American Points of View
+A Couple of Old Friends--A Coleridge Bit
+A Week's Visit to Boston
+The Boston of To-Day
+My Tribute to Four Poets
+Millet's Pictures--Last Items
+[[Birds]]--and a Caution
+Samples of my Common-Place Book
+My Native Sand and Salt Once More
+Hot Weather [[New York]]
+"Ouster's Last Rally"
+Some Old Acquaintances--Memories
+A Discovery of Old Age
+A Visit, at the Last, to R. W. Emerson
+Other Concord Notations
+Boston Common--More of Emerson
+An Ossianic [[Night]]--Dearest Friends
+Only a New Ferry Boat
+[[Death]] of Longfellow
+Starting Newspapers
+The Great Unrest of which We are Part
+By Emerson's [[Grave]]
+At Present Writing--Personal
+After Trying a Certain Book
+Final Confessions--Literary Tests
+[[Nature]] and [[Democracy]]--[[morality|Morality]]
 
 COLLECT
 
@@ -286,9 +286,9 @@ ORIGINS OF ATTEMPTED SECESSION
 
 PREFACES TO "[[Leaves|LEAVES]] OF GRASS"
 
-  Preface, 1855, to first issue of "[[Leaves]] of Grass"
-  Preface, 1872, to "As a Strong Bird on Pinions Free"
-  Preface, 1876, to L. of G. and "Two Rivulets"
+Preface, 1855, to first issue of "[[Leaves]] of Grass"
+Preface, 1872, to "As a Strong Bird on Pinions Free"
+Preface, 1876, to L. of G. and "Two Rivulets"
 
 POETRY TO-DAY IN [[America|AMERICA]]--SHAKESPEARE--THE FUTURE
 
@@ -300,45 +300,45 @@ TWO LETTERS
 
 NOTES LEFT OVER
 
-  Nationality (and Yet)
-  Emerson's Books (the Shadows of Them)
-  Ventures, on an Old Theme
-  British Literature
-  Darwinism (then Furthermore)
-  "Society"
-  The Tramp and Strike Questions
-  [[Democracy]] in the New World
-  Foundation Stages--then Others
-  General Suffrage, Elections, Etc.
-  Who Gets the Plunder?
-  [[Friendship]] (the Real Article)
-  Lacks and Wants Yet
-  Rulers Strictly Out of the Masses
-  Monuments--the Past and Present
-  Little or Nothing New After All
-  A [[Lincoln]] Reminiscence
-  [[Freedom]]
-  Book-Classes-[[America]]'s Literature
-  Our Real Culmination
-  An American Problem
-  The Last Collective Compaction
+Nationality (and Yet)
+Emerson's Books (the Shadows of Them)
+Ventures, on an Old Theme
+British Literature
+Darwinism (then Furthermore)
+"Society"
+The Tramp and Strike Questions
+[[Democracy]] in the New World
+Foundation Stages--then Others
+General Suffrage, Elections, Etc.
+Who Gets the Plunder?
+[[Friendship]] (the Real Article)
+Lacks and Wants Yet
+Rulers Strictly Out of the Masses
+Monuments--the Past and Present
+Little or Nothing New After All
+A [[Lincoln]] Reminiscence
+[[Freedom]]
+Book-Classes-[[America]]'s Literature
+Our Real Culmination
+An American Problem
+The Last Collective Compaction
 
 PIECES IN EARLY YOUTH
 
-  Dough Face [[Song]]
-  [[Death]] in the School-Room
-  One Wicked Impulse
-  The Last Loyalist
-  Wild Frank's Return
-  The Boy [[Lover]]
-  The [[Child]] and the Profligate
-  Lingave's [[Temptation]]
-  Little Jane
-  Dumb Kate
-  Talk to an Art [[Union]]
-  [[Blood]]-Money
-  Wounded in the [[house|House]] of Friends
-  Sailing the Mississippi at Midnight
+Dough Face [[Song]]
+[[Death]] in the School-Room
+One Wicked Impulse
+The Last Loyalist
+Wild Frank's Return
+The Boy [[Lover]]
+The [[Child]] and the Profligate
+Lingave's [[Temptation]]
+Little Jane
+Dumb Kate
+Talk to an Art [[Union]]
+[[Blood]]-Money
+Wounded in the [[house|House]] of Friends
+Sailing the Mississippi at Midnight
 
 NOVEMBER BOUGHS
 
@@ -364,19 +364,19 @@ AN INDIAN BUREAU REMINISCENCE
 
 SOME DIARY NOTES AT RANDOM
 
-  Negro Slaves in [[New York]]
-  Canada Nights
-  Country Days and Nights
-  Central Park Notes
-  Plate Glass Notes
+Negro Slaves in [[New York]]
+Canada Nights
+Country Days and Nights
+Central Park Notes
+Plate Glass Notes
 
 SOME WAR MEMORANDA
 
-  Washington Street Scenes
-  The 195th Pennsylvania
-  Left-hand Writing by Soldiers
-  Central Virginia in '64
-  Paying the First Color'd Troops
+Washington Street Scenes
+The 195th Pennsylvania
+Left-hand Writing by Soldiers
+Central Virginia in '64
+Paying the First Color'd Troops
 
 FIVE THOUSAND [[Poems|POEMS]]
 
@@ -384,9 +384,9 @@ THE OLD BOWERY
 
 NOTES TO LATE ENGLISH BOOKS
 
-  Preface to Reader in British Islands
-  Additional Note, 1887
-  Preface to English Edition "Democratic Vistas"
+Preface to Reader in British Islands
+Additional Note, 1887
+Preface to English Edition "Democratic Vistas"
 
 [[Abraham Lincoln|ABRAHAM LINCOLN]]
 
@@ -394,17 +394,17 @@ NEW ORLEANS IN 1848
 
 SMALL MEMORANDA
 
-  Attorney General's Office, 1865
-  A Glint Inside of [[Abraham Lincoln]]'s Cabinet Appointments
-  Note to a Friend
-  Written Impromptu in an Album
-  The Place Gratitude fills in a Fine Character
+Attorney General's Office, 1865
+A Glint Inside of [[Abraham Lincoln]]'s Cabinet Appointments
+Note to a Friend
+Written Impromptu in an Album
+The Place Gratitude fills in a Fine Character
 
 LAST OF THE WAR CASES
 
 ELIAS HICKS, Notes (such as they are)
 
-  George Fox and Shakspere
+George Fox and Shakspere
 
 GOOD-BYE MY FANCY
 
@@ -412,8 +412,8 @@ AN OLD MAN'S REJOINDER
 
 OLD POETS
 
-  [[Ship]] Ahoy
-  For [[Queen]] Victoria's Birthday
+[[Ship]] Ahoy
+For [[Queen]] Victoria's Birthday
 
 AMERICAN NATIONAL LITERATURE
 
@@ -423,37 +423,37 @@ A [[Death|DEATH]] BOUQUET
 
 SOME LAGGARDS YET
 
-  The Perfect Human Voice
-  Shakspere for [[America]]
-  "Unassailed Renown"
-  [[Inscription]] for a Little Book on Giordano Bruno
-  Splinters
-  Health (Old Style)
-  Gay-heartedness
-  As in a Swoon
-  L. of G.
-  After the Argument
-  For Us Two, Reader Dear
+The Perfect Human Voice
+Shakspere for [[America]]
+"Unassailed Renown"
+[[Inscription]] for a Little Book on Giordano Bruno
+Splinters
+Health (Old Style)
+Gay-heartedness
+As in a Swoon
+L. of G.
+After the Argument
+For Us Two, Reader Dear
 
 MEMORANDA
 
-  A World's Show
-  [[New York]]--the Bay--the Old Name
-  A Sick Spell
-  To be Present Only
-  "Intestinal Agitation"
-  "Walt Whitman's Last 'Public'"
-  Ingersoll's Speech
-  Feeling Fairly
-  Old Brooklyn Days
-  Two Questions
-  Preface to a Volume
-  An Engineer's Obituary
-  Old Actors, Singers, Shows, Etc., in [[New York]]
-  Some Personal and Old Age Jottings
-  Out in the Open Again
-  [[America]]'s Bulk Average
-  Last Saved Items
+A World's Show
+[[New York]]--the Bay--the Old Name
+A Sick Spell
+To be Present Only
+"Intestinal Agitation"
+"Walt Whitman's Last 'Public'"
+Ingersoll's Speech
+Feeling Fairly
+Old Brooklyn Days
+Two Questions
+Preface to a Volume
+An Engineer's Obituary
+Old Actors, Singers, Shows, Etc., in [[New York]]
+Some Personal and Old Age Jottings
+Out in the Open Again
+[[America]]'s Bulk Average
+Last Saved Items
 
 WALT WHITMAN'S LAST
 
@@ -2071,14 +2071,14 @@ and pleasantly the roof sent it all back again. They sang very [[Well|well]],
 mostly quaint old [[songs]] and declamatory hymns, to fitting tunes. Here,
 for instance:
 
-    My days are swiftly gliding by, and I a [[Pilgrim|pilgrim]] stranger,
-    Would not detain them as they fly, those hours of toil and danger;
-    For O we stand on Jordan's strand, our friends are passing over,
-    And just before, the shining shore we may almost discover.
-    We'll gird our loins my brethren dear, our distant [[Home|home]] discerning,
-    Our absent Lord has left us word, let every lamp be burning,
-    For O we stand on Jordan's strand, our friends are passing over,
-    And just before, the shining shore we may almost discover.
+My days are swiftly gliding by, and I a [[Pilgrim|pilgrim]] stranger,
+Would not detain them as they fly, those hours of toil and danger;
+For O we stand on Jordan's strand, our friends are passing over,
+And just before, the shining shore we may almost discover.
+We'll gird our loins my brethren dear, our distant [[Home|home]] discerning,
+Our absent Lord has left us word, let every lamp be burning,
+For O we stand on Jordan's strand, our friends are passing over,
+And just before, the shining shore we may almost discover.
 
 [[Abraham Lincoln|ABRAHAM LINCOLN]]
 
@@ -4014,29 +4014,29 @@ undertone to the whole, and to my mood and the hour. All of which I
 will bring to a close by extracting the following verses from Henry A.
 Beers's little volume:
 
-    As I lay yonder in tall grass
-    A drunken bumble-bee went past
+As I lay yonder in tall grass
+A drunken bumble-bee went past
 
-    Delirious with honey toddy.
-    The golden sash about his [[Body|body]]
-    Scarce kept it in his swollen belly
-    Distent with honeysuckle jelly.
-    [[Rose]] liquor and the sweet-pea wine
-    Had fill' d his [[Soul|soul]] with [[Song|song]] divine;
-    Deep had he drunk the warm [[Night|night]] through,
-    His hairy thighs were wet with dew.
-    Full many an antic he had play'd
-    While the world went round through [[Sleep|sleep]] and shade.
-    Oft had he lit with thirsty lip
-    Some flower-cup's nectar'd sweets to sip,
-    When on smooth petals he would slip,
-    Or over tangled stamens trip,
-    And headlong in the pollen roll'd,
-    Crawl out quite dusted o'er with gold;
-    Or else his heavy feet would stumble
-    Against some bud, and down he'd tumble
-    Amongst the grass; there lie and grumble
-    In low, soft bass--poor maudlin bumble!
+Delirious with honey toddy.
+The golden sash about his [[Body|body]]
+Scarce kept it in his swollen belly
+Distent with honeysuckle jelly.
+[[Rose]] liquor and the sweet-pea wine
+Had fill' d his [[Soul|soul]] with [[Song|song]] divine;
+Deep had he drunk the warm [[Night|night]] through,
+His hairy thighs were wet with dew.
+Full many an antic he had play'd
+While the world went round through [[Sleep|sleep]] and shade.
+Oft had he lit with thirsty lip
+Some flower-cup's nectar'd sweets to sip,
+When on smooth petals he would slip,
+Or over tangled stamens trip,
+And headlong in the pollen roll'd,
+Crawl out quite dusted o'er with gold;
+Or else his heavy feet would stumble
+Against some bud, and down he'd tumble
+Amongst the grass; there lie and grumble
+In low, soft bass--poor maudlin bumble!
 
 CEDAR-APPLES
 
@@ -4210,24 +4210,24 @@ completest, highest [[Beauty|beauty]].
 
 _Trees I am familiar with here_.
 
-   Oaks, (many kinds--one sturdy                       Willows.
-     old fellow, vital, green, bushy,                  Catalpas.
-     five feet thick at the butt, I sit                Persimmons.
-     under every day,)                                 Mountain-ash.
-   Cedars plenty.                                      Hickories.
-   Tulip trees, (_Liriodendron,_) is of                Maples, many kinds.
-     the magnolia family--I have                       Locusts.
-     seen it in Michigan and southern                  Birches.
-     Illinois, 140 feet high and                       Dogwood.
-     8 feet thick at the butt [A]; does                Pine.
-     not transplant [[Well|well]]; best rais'd                  the Elm.
-     from seeds--(the lumbermen                        Chesnut.
-     call it yellow poplar.)                           Linden.
-   Sycamores.                                          Aspen.
-   Gum trees, both sweet and sour.                     Spruce.
-   Beeches.                                            Hornbeam.
-   Black-walnuts.                                      Laurel.
-   Sassafras.                                          Holly.
+Oaks, (many kinds--one sturdy                       Willows.
+old fellow, vital, green, bushy,                  Catalpas.
+five feet thick at the butt, I sit                Persimmons.
+under every day,)                                 Mountain-ash.
+Cedars plenty.                                      Hickories.
+Tulip trees, (_Liriodendron,_) is of                Maples, many kinds.
+the magnolia family--I have                       Locusts.
+seen it in Michigan and southern                  Birches.
+Illinois, 140 feet high and                       Dogwood.
+8 feet thick at the butt [A]; does                Pine.
+not transplant [[Well|well]]; best rais'd                  the Elm.
+from seeds--(the lumbermen                        Chesnut.
+call it yellow poplar.)                           Linden.
+Sycamores.                                          Aspen.
+Gum trees, both sweet and sour.                     Spruce.
+Beeches.                                            Hornbeam.
+Black-walnuts.                                      Laurel.
+Sassafras.                                          Holly.
 
 [[Autumn|AUTUMN]] SIDE-BITS
 
@@ -4330,12 +4330,12 @@ myriads--the great path of the Milky Way, with its branch, only seen
 of very clear nights--Jupiter, setting in the west, looks like a huge
 hap-hazard splash, and has a little star for companion.
 
-    Clothed in his white garments,
-    Into the round and clear arena slowly entered the brahmin,
-    Holding a little [[Child|child]] by the hand,
-    Like the [[Moon|moon]] with the planet Jupiter in a cloudless [[Night|night]]-sky.
+Clothed in his white garments,
+Into the round and clear arena slowly entered the brahmin,
+Holding a little [[Child|child]] by the hand,
+Like the [[Moon|moon]] with the planet Jupiter in a cloudless [[Night|night]]-sky.
 
-    _Old Hindu Poem._
+_Old Hindu Poem._
 
 _Early in November._--At its farther end the lane already described
 opens into a broad grassy upland field of over twenty acres, slightly
@@ -4901,11 +4901,11 @@ While I have been kept by the rain under the shelter of my great oak,
 I have pencill'd off the mood of the hour in a little quintette, which I
 will give you:
 
-    At vacancy with [[Nature]],
-    Acceptive and at ease,
-    Distilling the present hour,
-    Whatever, wherever it is,
-    And over the past, oblivion.
+At vacancy with [[Nature]],
+Acceptive and at ease,
+Distilling the present hour,
+Whatever, wherever it is,
+And over the past, oblivion.
 
 Can you get hold of it, reader dear? and how do you like it anyhow?
 
@@ -5281,15 +5281,15 @@ from the mellow-stain'd windows-the pronounc'd eulogy on the bard who
 loved [[Nature]] so fondly, and sung so [[Well|well]] her shows and [[Seasons|seasons]]--ending
 with these appropriate [[Well|well]]-known lines:
 
-    I gazed upon the glorious sky,
-      And the green [[Mountains|mountains]] round,
-    And thought that when I came to lie
-      At rest within the ground,
-    'Twere pleasant that in flowery June,
-    When brooks send up a joyous tune,
-      And groves a cheerful sound,
-    The sexton's hand, my [[Grave|grave]] to make,
-    The rich green mountain turf should break.
+I gazed upon the glorious sky,
+And the green [[Mountains|mountains]] round,
+And thought that when I came to lie
+At rest within the ground,
+'Twere pleasant that in flowery June,
+When brooks send up a joyous tune,
+And groves a cheerful sound,
+The sexton's hand, my [[Grave|grave]] to make,
+The rich green mountain turf should break.
 
 JAUNT UP THE HUDSON
 
@@ -5560,19 +5560,19 @@ shifting, delicate color-effects of pellucid green and tawny vapor. Let
 me conclude this part with an extract, (some writer in the "Tribune,"
 May 16, 1878):
 
-  No one ever gets tired of the [[Moon|moon]]. Goddess that she is by dower of
-  her eternal [[Beauty|beauty]], she is a true woman by her tact--knows the charm
-  of being seldom seen, of coming by surprise and staying but a little
-  while; never wears the same dress two nights running, nor all [[Night|night]]
-  the same way; commends herself to the matter-of-fact people by her
-  usefulness, and makes her uselessness adored by poets, artists, and
-  all [[lovers]] in all lands; lends herself to every symbolism and to
-  every emblem; is [[Diana]]'s bow and [[Venus]]'s [[Mirror|mirror]] and Mary's throne;
-  is a sickle, a scarf, an eyebrow, his face or her face, and look'd
-  at by her or by him; is the madman's hell, the poet's heaven, the
-  baby's toy, the philosopher's study; and while her admirers follow
-  her footsteps, and hang on her lovely looks, she knows how to keep
-  her woman's secret--her other side--unguess'd and unguessable.
+No one ever gets tired of the [[Moon|moon]]. Goddess that she is by dower of
+her eternal [[Beauty|beauty]], she is a true woman by her tact--knows the charm
+of being seldom seen, of coming by surprise and staying but a little
+while; never wears the same dress two nights running, nor all [[Night|night]]
+the same way; commends herself to the matter-of-fact people by her
+usefulness, and makes her uselessness adored by poets, artists, and
+all [[lovers]] in all lands; lends herself to every symbolism and to
+every emblem; is [[Diana]]'s bow and [[Venus]]'s [[Mirror|mirror]] and Mary's throne;
+is a sickle, a scarf, an eyebrow, his face or her face, and look'd
+at by her or by him; is the madman's hell, the poet's heaven, the
+baby's toy, the philosopher's study; and while her admirers follow
+her footsteps, and hang on her lovely looks, she knows how to keep
+her woman's secret--her other side--unguess'd and unguessable.
 
 _Furthermore. February 19, 1880_.--Just before 10 P.M. cold and entirely
 clear again, the show overhead, bearing southwest, of wonderful and
@@ -5699,17 +5699,17 @@ comfort in half-sickness, (and not by any means sure but they will
 somehow get [[Wind|wind]] of the compliment,) I hereby dedicate the last half of
 these Specimen Days to the
 
-  [[Bees|bees]],                                     glow-worms, (swarming millions
-  black-[[Birds|birds]],                                of them indescribably
-  dragon-flies,                               strange and beautiful at [[Night|night]]
-  pond-turtles,                               over the pond and creek,)
-  mulleins, tansy, peppermint,              [[Water|water]]-snakes,
-  moths, (great and little, some            crows,
-          splendid fellows,)                millers,
-  mosquitoes,                               cedars,
-  butterflies,                              tulip-trees, (and all other trees,)
-  wasps and hornets,                          and to the spots and memories
-  cat-[[Birds|birds]], (and all other [[Birds|birds]],)           of those days, and the creek.
+[[Bees|bees]],                                     glow-worms, (swarming millions
+black-[[Birds|birds]],                                of them indescribably
+dragon-flies,                               strange and beautiful at [[Night|night]]
+pond-turtles,                               over the pond and creek,)
+mulleins, tansy, peppermint,              [[Water|water]]-snakes,
+moths, (great and little, some            crows,
+splendid fellows,)                millers,
+mosquitoes,                               cedars,
+butterflies,                              tulip-trees, (and all other trees,)
+wasps and hornets,                          and to the spots and memories
+cat-[[Birds|birds]], (and all other [[Birds|birds]],)           of those days, and the creek.
 
 DELAWARE [[River|RIVER]]--DAYS AND NIGHTS
 
@@ -5883,13 +5883,13 @@ myself. I am reminded of that [[spring]] preceding [[Abraham Lincoln]]'s murder,
 when I, restlessly haunting the Potomac banks, around Washington [[City|city]],
 watch'd you, off there, aloof, moody as myself:
 
-    As we walk'd up and down in the dark blue so mystic,
-    As we walk'd in [[Silence|silence]] the transparent shadowy [[Night|night]],
-    As I saw you had something to tell, as you bent to me [[Night|night]] after
-      [[Night|night]],
-    As you droop from the sky low down, as if to my side, (while the
-      other [[Stars|stars]] all look'd on,)
-    As we wander'd together the solemn [[Night|night]].
+As we walk'd up and down in the dark blue so mystic,
+As we walk'd in [[Silence|silence]] the transparent shadowy [[Night|night]],
+As I saw you had something to tell, as you bent to me [[Night|night]] after
+[[Night|night]],
+As you droop from the sky low down, as if to my side, (while the
+other [[Stars|stars]] all look'd on,)
+As we wander'd together the solemn [[Night|night]].
 
 With departing [[Venus]], large to the last, and shining even to the edge
 of the horizon, the vast dome presents at this moment, such a spectacle!
@@ -5948,10 +5948,10 @@ to be surpass'd. (Sparkling eyes, human faces, magnetism, [[Well|well]]-dress'd
 women, ambulating to and fro--with lots o fine things in the
 windows--are they not about the same, the civilized world over?)
 
-    How fast the flitting figures come!
-        The mild, the fierce, the stony face;
-    Some bright with thoughtless smiles--and some
-        Where secret [[Tears|tears]] have left their trace.
+How fast the flitting figures come!
+The mild, the fierce, the stony face;
+Some bright with thoughtless smiles--and some
+Where secret [[Tears|tears]] have left their trace.
 
 A few days ago one of the six-story clothing stores along here had
 the space inside its plate-glass show-[[Window|window]] partition'd into a little
@@ -7407,7 +7407,7 @@ were two or three I shall probably never forget. Nothing at all markedly
 repulsive or hideous--strange enough I did not see one such. Our common
 humanity, mine and yours, everywhere:
 
-    "The same old [[Blood|blood]]--the same red, running [[Blood|blood]];"
+"The same old [[Blood|blood]]--the same red, running [[Blood|blood]];"
 
 yet behind most, an inferr'd arriere of such storms, such wrecks, such
 mysteries, fires, [[Love|love]], wrong, [[Greed|greed]] for wealth, religious problems,
@@ -7423,19 +7423,19 @@ unanswerable. A very fair choir, and melodeon accompaniment. They sang
 also He led them with a cloud, and all the [[Night|night]] with a light of fire_.
 Then the words:
 
-    Lead, kindly light, amid the encircling gloom,
-             Lead thou me on.
-    The [[Night|night]] is dark, and I am far from [[Home|home]];
-             Lead thou me on.
-    Keep thou my feet; I do not ask to see
-    The distant scene; one step enough for me.
+Lead, kindly light, amid the encircling gloom,
+Lead thou me on.
+The [[Night|night]] is dark, and I am far from [[Home|home]];
+Lead thou me on.
+Keep thou my feet; I do not ask to see
+The distant scene; one step enough for me.
 
-    I was not ever thus, nor pray'd that thou
-             Should'st lead me on;
-    I lov'd to choose and see my path; but now
-             Lead thou me on.
-    I loved the garish day, and spite of fears
-    [[Pride]] ruled my will; remember not past years.
+I was not ever thus, nor pray'd that thou
+Should'st lead me on;
+I lov'd to choose and see my path; but now
+Lead thou me on.
+I loved the garish day, and spite of fears
+[[Pride]] ruled my will; remember not past years.
 
 A couple of days after, I went to the "Refractory building," under
 special charge of Dr. Beemer, and through the wards pretty thoroughly,
@@ -7457,11 +7457,11 @@ a little post-office roll by a rare old engraved head of Elias Hicks,
 been 60 years or more ago, in [[New York]])--among the rest the following
 excerpt about E. H. in the letter:
 
-  "I have listen'd to his preaching so often when a [[Child|child]], and sat with
-  my mother at social gatherings where he was the centre, and every one
-  so pleas'd and stirr'd by his conversation. I hear that you contemplate
-  writing or speaking about him, and I [[Wonder|wonder]]'d whether you had a picture
-  of him. As I am the owner of two, I send you one."
+"I have listen'd to his preaching so often when a [[Child|child]], and sat with
+my mother at social gatherings where he was the centre, and every one
+so pleas'd and stirr'd by his conversation. I hear that you contemplate
+writing or speaking about him, and I [[Wonder|wonder]]'d whether you had a picture
+of him. As I am the owner of two, I send you one."
 
 GRAND NATIVE GROWTH
 
@@ -7675,30 +7675,30 @@ Note:
 [11] In the pocket of my receptacle-book I find a list of suggested and
 rejected names for this volume, or parts of it--such as the following:
 
-              _As the wild bee hums in May,
-              & August mulleins grow,
-              & [[Winter]] [[Snow|snow]]-flakes fall,
-              & [[Stars|stars]] in the sky roll round._
+_As the wild bee hums in May,
+& August mulleins grow,
+& [[Winter]] [[Snow|snow]]-flakes fall,
+& [[Stars|stars]] in the sky roll round._
 
-             _Away from Books--away from Art,
-             Now for the Day and [[Night]]--the lessons done,
-             Now for the Sun and [[Stars]]._
+_Away from Books--away from Art,
+Now for the Day and [[Night]]--the lessons done,
+Now for the Sun and [[Stars]]._
 
-    _Notes of a Half-Paralytic,         As Voices in the Dusk, from
-    Week in and Week out,               Speakers far or hid,
-    Embers of Ending Days,              Autochthons....Embryons,
-    Ducks and Drakes,                   Wing-and-Wing,
-    Flood Tide and Ebb,                 Notes and Recalles.
-    Gossip at Early Candle-light,       Only Mulleins and Bumble-[[Bees]],
-    Echoes and Escapades,               Pond-Babble....T�te-a-T�tes,
-    Such as I....Evening Dews,          Echoes of a Life in the 19th
-    Notes and Writing a Book,             Century in the New World,
-    Far and Near at 63,                 Flanges of Fifty Years,
-    Drifts and Cumulus,                 Abandons....Hurry Notes,
-    Maize-Tassels....Kindlings,         A Life-Mosaic....Native Moments,
-    Fore and Aft....Vestibules,         Types and Semi-Tones,
-    Scintilla at 60 and after,          Oddments....Sand-Drifts,
-    Sands on the Shores of 64,          Again and Again._
+_Notes of a Half-Paralytic,         As Voices in the Dusk, from
+Week in and Week out,               Speakers far or hid,
+Embers of Ending Days,              Autochthons....Embryons,
+Ducks and Drakes,                   Wing-and-Wing,
+Flood Tide and Ebb,                 Notes and Recalles.
+Gossip at Early Candle-light,       Only Mulleins and Bumble-[[Bees]],
+Echoes and Escapades,               Pond-Babble....T�te-a-T�tes,
+Such as I....Evening Dews,          Echoes of a Life in the 19th
+Notes and Writing a Book,             Century in the New World,
+Far and Near at 63,                 Flanges of Fifty Years,
+Drifts and Cumulus,                 Abandons....Hurry Notes,
+Maize-Tassels....Kindlings,         A Life-Mosaic....Native Moments,
+Fore and Aft....Vestibules,         Types and Semi-Tones,
+Scintilla at 60 and after,          Oddments....Sand-Drifts,
+Sands on the Shores of 64,          Again and Again._
 
 [[Death|DEATH]] OF THOMAS CARLYLE
 
@@ -8201,12 +8201,12 @@ incubation responsibilities. The frolics are deferr'd till [[Summer|summer]]-clo
 I don't know as I can finish to-day's memorandum better than with
 Coleridge's lines, curiously appropriate in more ways than one:
 
-    All [[Nature]] seems at work--slugs leave their lair,
-    The [[Bees|bees]] are stirring--[[Birds|birds]] are on the wing,
-    And [[Winter|winter]], slumbering in the open air,
-    Wears on his smiling face [[A Dream|a dream]] of [[spring]];
-    And I, the while, the sole unbusy thing,
-    Nor honey make, nor pair, nor build, nor sing.
+All [[Nature]] seems at work--slugs leave their lair,
+The [[Bees|bees]] are stirring--[[Birds|birds]] are on the wing,
+And [[Winter|winter]], slumbering in the open air,
+Wears on his smiling face [[A Dream|a dream]] of [[spring]];
+And I, the while, the sole unbusy thing,
+Nor honey make, nor pair, nor build, nor sing.
 
 A WEEK'S VISIT TO BOSTON
 
@@ -8352,9 +8352,9 @@ pressure on the dykes, and the bursting at last--the storming of the
 Bastile--the execution of the [[King|king]] and [[Queen|queen]]--the tempest of massacres
 and [[Blood|blood]]. Yet who can [[Wonder|wonder]]?
 
-    Could we wish humanity different?
-    Could we wish the people made of wood or stone?
-    Or that there be no justice in destiny or [[Time|time]]?
+Could we wish humanity different?
+Could we wish the people made of wood or stone?
+Or that there be no justice in destiny or [[Time|time]]?
 
 The true France, base of all the rest, is certainly in these pictures. I
 comprehend "Field-People Reposing," "the Diggers," and "the Angelus"
@@ -8431,42 +8431,42 @@ The true test of civilization is not the census, nor the size of
 cities, nor the crops--no, but the kind of a man the country turns
 out.--_Emerson_.
 
-    The whole wide ether is the eagle's sway:
-    The whole earth is a brave man's fatherland.--_Euripides_.
+The whole wide ether is the eagle's sway:
+The whole earth is a brave man's fatherland.--_Euripides_.
 
-    Spices crush'd, their pungence yield,
-      Trodden scents their sweets respire;
-    Would you have its strength reveal'd?
-      Cast the incense in the [[Fire|fire]].
+Spices crush'd, their pungence yield,
+Trodden scents their sweets respire;
+Would you have its strength reveal'd?
+Cast the incense in the [[Fire|fire]].
 
 Matthew Arnold speaks of "the huge Mississippi of falsehood called
 [[history|History]]."
 
-    The [[Wind|wind]] blows north, the [[Wind|wind]] blows south,
-        The [[Wind|wind]] blows east and west;
-    No matter how the free [[Wind|wind]] blows,
-         Some [[Ship|ship]] will find it best.
+The [[Wind|wind]] blows north, the [[Wind|wind]] blows south,
+The [[Wind|wind]] blows east and west;
+No matter how the free [[Wind|wind]] blows,
+Some [[Ship|ship]] will find it best.
 
 Preach not to others what they should eat, but eat as becomes you, and
 be silent.--_Epictetus_.
 
 Victor Hugo makes a [[donkey]] meditate and apostrophize thus:
 
-    My brother, man, if you would know the [[Truth|truth]],
-    We both are by the same dull walls shut in;
-    The gate is massive and the dungeon strong.
-    But you look through the key-hole out beyond,
-    And call this knowledge; yet have not at hand
-    The key wherein to turn the fatal lock.
+My brother, man, if you would know the [[Truth|truth]],
+We both are by the same dull walls shut in;
+The gate is massive and the dungeon strong.
+But you look through the key-hole out beyond,
+And call this knowledge; yet have not at hand
+The key wherein to turn the fatal lock.
 
 "William Cullen Bryant surprised me once," relates a writer in a
 [[New York]] paper, "by saying that prose was the natural language of
 composition, and he [[Wonder|wonder]]'d how anybody came to write poetry."
 
-    Farewell! I did not know thy worth;
-        But thou art gone, and now 'tis prized:
-    So angels walk'd unknown on earth,
-        But when they flew were recognized.--_Hood_.
+Farewell! I did not know thy worth;
+But thou art gone, and now 'tis prized:
+So angels walk'd unknown on earth,
+But when they flew were recognized.--_Hood_.
 
 John Burroughs, writing of Thoreau, says: "He improves with age--in fact
 requires age to take off a little of his asperity, and fully ripen him.
@@ -8480,42 +8480,42 @@ noble passions, and commencing as a young man, broke with all that is
 sybaritish in modern civilization. Without the power to sacrifice [[Self|self]],
 great ideas will never bear fruit.
 
-    Out of the leaping furnace flame
-    A mass of molten silver came;
-    Then, beaten into pieces three,
-    Went forth to meet its destiny.
-    The first a crucifix was made,
-    Within a soldier's knapsack laid;
-    The second was a locket fair,
-    Where a mother kept her dead [[Child|child]]'s hair;
-    The third--a bangle, bright and warm,
-    Around a faithless woman's arm.
+Out of the leaping furnace flame
+A mass of molten silver came;
+Then, beaten into pieces three,
+Went forth to meet its destiny.
+The first a crucifix was made,
+Within a soldier's knapsack laid;
+The second was a locket fair,
+Where a mother kept her dead [[Child|child]]'s hair;
+The third--a bangle, bright and warm,
+Around a faithless woman's arm.
 
-    A mighty [[Pain|pain]] to [[Love|love]] it is,
-    And'tis a [[Pain|pain]] that [[Pain|pain]] to miss;
-    But of all [[Pain|pain]] the greatest [[Pain|pain]],
-    It is to [[Love|love]], but [[Love|love]] in vain.
+A mighty [[Pain|pain]] to [[Love|love]] it is,
+And'tis a [[Pain|pain]] that [[Pain|pain]] to miss;
+But of all [[Pain|pain]] the greatest [[Pain|pain]],
+It is to [[Love|love]], but [[Love|love]] in vain.
 
 _Maurice F. Egan on De Guerin._
 
-    A pagan heart, a Christian [[Soul|soul]] had he,
-      He followed [[Christ]], yet for dead Pan he sigh'd,
-      Till earth and heaven met within his breast:
-    As if Theocritus in Sicily
-      Had come upon the Figure crucified,
-      And lost his gods in deep, [[Christ]]-given rest.
+A pagan heart, a Christian [[Soul|soul]] had he,
+He followed [[Christ]], yet for dead Pan he sigh'd,
+Till earth and heaven met within his breast:
+As if Theocritus in Sicily
+Had come upon the Figure crucified,
+And lost his gods in deep, [[Christ]]-given rest.
 
-    And if I pray, the only [[Prayer|prayer]]
-      That moves my lips for me,
-    Is, leave the mind that now I bear,
-      And give me Liberty.--_Emily Bronte._
+And if I pray, the only [[Prayer|prayer]]
+That moves my lips for me,
+Is, leave the mind that now I bear,
+And give me Liberty.--_Emily Bronte._
 
-    I travel on not knowing,
-      I would not if I might;
-    I would rather walk with God in the dark,
-      Than go [[Alone|alone]] in the light;
-    I would rather walk with Him by [[Faith|faith]]
-      Than pick my way by sight
+I travel on not knowing,
+I would not if I might;
+I would rather walk with God in the dark,
+Than go [[Alone|alone]] in the light;
+I would rather walk with Him by [[Faith|faith]]
+Than pick my way by sight
 
 MY NATIVE SAND AND SALT ONCE MORE
 
@@ -8911,10 +8911,10 @@ through his many themes, but there is something almost winning in his
 original verses and renderings on that dread subject--as, closing "the
 Happiest Land" dispute,
 
-    And then the landlord's daughter
-      Up to heaven rais'd her hand,
-    And said, "Ye may no more contend,
-      There lies the happiest land."
+And then the landlord's daughter
+Up to heaven rais'd her hand,
+And said, "Ye may no more contend,
+There lies the happiest land."
 
 To the ungracious complaint-charge of his want of racy nativity and
 special originality, I shall only say that [[America]] and the world may
@@ -9041,7 +9041,7 @@ _May 6, '82._--We stand by Emerson's new-made [[Grave|grave]] without
 sadness--indeed a solemn joy and [[Faith|faith]], almost hauteur--our [[Soul|soul]]-benison
 no mere
 
-    "Warrior, rest, thy task is done,"
+"Warrior, rest, thy task is done,"
 
 for one beyond the warriors of the world lies surely symboll'd here.
 A just man, poised on himself, all-loving, all-inclosing, and sane and
@@ -12774,10 +12774,10 @@ divine, and of the ideal, though mainly latent, are just as absolute in
 humanity and the universe as the world of chemistry, or anything in the
 objective worlds. To me
 
-      The [[Prophet|prophet]] and the bard,
-    Shall yet maintain themselves--in higher circles yet,
-    Shall mediate to the modern, to [[Democracy|democracy]]--interpret yet to them,
-      God and eid�lons.
+The [[Prophet|prophet]] and the bard,
+Shall yet maintain themselves--in higher circles yet,
+Shall mediate to the modern, to [[Democracy|democracy]]--interpret yet to them,
+God and eid�lons.
 
 To me, the [[Crown|crown]] of savantism is to be, that it surely opens the way for
 a more splendid theology, and for ampler and diviner [[songs]]. No year, nor
@@ -15336,90 +15336,90 @@ PIECES IN EARLY YOUTH
 DOUGH-FACE [[Song|SONG]] --Like dough; soft; yielding to pressure;
 pale----_Webster's Dictionary_.
 
-    We are all docile dough-faces,
-      They knead us with the fist,
-    They, the dashing southern lords,
-      We labor as they list;
-    For them we speak--or hold our tongues,
-      For them we turn and twist.
+We are all docile dough-faces,
+They knead us with the fist,
+They, the dashing southern lords,
+We labor as they list;
+For them we speak--or hold our tongues,
+For them we turn and twist.
 
-    We join them in their howl against
-      Free soil and "abolition,"
-    That firebrand--that assassin knife--
-      Which risk our land's condition,
-    And leave no peace of life to any
-      Dough-faced politician.
+We join them in their howl against
+Free soil and "abolition,"
+That firebrand--that assassin knife--
+Which risk our land's condition,
+And leave no peace of life to any
+Dough-faced politician.
 
-    To put down "agitation," now,
-      We think the most judicious;
-    To damn all "northern fanatics,"
-      Those "traitors" black and vicious;
-    The "reg'lar party usages"
-      For us, and no "new issues."
+To put down "agitation," now,
+We think the most judicious;
+To damn all "northern fanatics,"
+Those "traitors" black and vicious;
+The "reg'lar party usages"
+For us, and no "new issues."
 
-    Things have come to a pretty pass,
-      When a trifle small as this,
-    Moving and bartering nigger slaves,
-      Can open an abyss,
-    With jaws a-gape for "the two great parties;"
-      A pretty thought, I wis!
+Things have come to a pretty pass,
+When a trifle small as this,
+Moving and bartering nigger slaves,
+Can open an abyss,
+With jaws a-gape for "the two great parties;"
+A pretty thought, I wis!
 
-    Principle--[[Freedom|freedom]]!--fiddlesticks!
-      We know not where they're found.
-    Rights of the masses--progress!--bah!
-      Words that tickle and sound;
-    But claiming to rule o'er "practical men"
-      Is very different ground.
+Principle--[[Freedom|freedom]]!--fiddlesticks!
+We know not where they're found.
+Rights of the masses--progress!--bah!
+Words that tickle and sound;
+But claiming to rule o'er "practical men"
+Is very different ground.
 
-    Beyond all such we know a term
-      Charming to ears and eyes,
-    With it we'll stab young [[Freedom]],
-      And do it in disguise;
+Beyond all such we know a term
+Charming to ears and eyes,
+With it we'll stab young [[Freedom]],
+And do it in disguise;
 
-    Speak soft, ye wily dough-faces--
-      That term is "compromise."
+Speak soft, ye wily dough-faces--
+That term is "compromise."
 
-    And what if children, growing up,
-      In future [[Seasons|seasons]] read
-    The thing we do? and heart and tongue
-      Accurse us for the deed?
-    The future cannot touch us;
-      The present gain we heed.
+And what if children, growing up,
+In future [[Seasons|seasons]] read
+The thing we do? and heart and tongue
+Accurse us for the deed?
+The future cannot touch us;
+The present gain we heed.
 
-    Then, all together, dough-faces!
-      Let's stop the exciting clatter,
-    And pacify slave-breeding wrath
-      By yielding all the matter;
-    For otherwise, as sure as guns,
-      The [[Union]] it will shatter.
+Then, all together, dough-faces!
+Let's stop the exciting clatter,
+And pacify slave-breeding wrath
+By yielding all the matter;
+For otherwise, as sure as guns,
+The [[Union]] it will shatter.
 
-    Besides, to tell the honest [[Truth|truth]]
-      (For us an innovation,)
-    Keeping in with the slave power
-      Is our personal salvation;
-    We've very little to expect
-      From t' other part of the nation.
+Besides, to tell the honest [[Truth|truth]]
+(For us an innovation,)
+Keeping in with the slave power
+Is our personal salvation;
+We've very little to expect
+From t' other part of the nation.
 
-    Besides it's plain at Washington
-      Who likeliest wins the race,
-    What earthly chance has "free soil"
-      For any good fat place?
-    While many a daw has feather'd his nest,
-      By his creamy and meek dough-face.
+Besides it's plain at Washington
+Who likeliest wins the race,
+What earthly chance has "free soil"
+For any good fat place?
+While many a daw has feather'd his nest,
+By his creamy and meek dough-face.
 
-    Take heart, then, sweet companions,
-      Be steady, Scripture Dick!
-    Webster, Cooper, Walker,
-      To your allegiance stick!
-    With Brooks, and Briggs and Phoenix,
-      Stand up through thin and thick!
+Take heart, then, sweet companions,
+Be steady, Scripture Dick!
+Webster, Cooper, Walker,
+To your allegiance stick!
+With Brooks, and Briggs and Phoenix,
+Stand up through thin and thick!
 
-    We do not ask a bold brave front;
-      We never try that game;
-    'Twould bring the [[Storm|storm]] upon our heads,
-      A huge mad [[Storm|storm]] of shame;
-    Evade it, brothers--"compromise"
-      Will answer just the same.
+We do not ask a bold brave front;
+We never try that game;
+'Twould bring the [[Storm|storm]] upon our heads,
+A huge mad [[Storm|storm]] of shame;
+Evade it, brothers--"compromise"
+Will answer just the same.
 
 PAUMANOK.
 
@@ -17465,49 +17465,49 @@ of daring, and enthusiasm, devotion, and fortitude.
 
 I.
 
-    Of olden [[Time|time]], when it came to pass
-    That the beautiful god, Jesus, should finish his work on earth,
-    Then went Judas, and sold the divine youth,
-    And took pay for his [[Body|body]].
+Of olden [[Time|time]], when it came to pass
+That the beautiful god, Jesus, should finish his work on earth,
+Then went Judas, and sold the divine youth,
+And took pay for his [[Body|body]].
 
-    Curs'd was the deed, even before the sweat of the clutching hand
-      grew dry;
-    And darkness frown'd upon the seller of the like of God,
-    Where, as though earth lifted her breast to throw him from her,
-      and heaven refused him,
-    He hung in the air, [[Self|self]]-slaughter'd.
+Curs'd was the deed, even before the sweat of the clutching hand
+grew dry;
+And darkness frown'd upon the seller of the like of God,
+Where, as though earth lifted her breast to throw him from her,
+and heaven refused him,
+He hung in the air, [[Self|self]]-slaughter'd.
 
-    The cycles, with their long shadows, have stalk'd silently forward,
-    Since those ancient days--many a pouch enwrapping meanwhile
-    Its fee, like that paid for the son of Mary.
+The cycles, with their long shadows, have stalk'd silently forward,
+Since those ancient days--many a pouch enwrapping meanwhile
+Its fee, like that paid for the son of Mary.
 
-    And still goes one, saying,
-    "What will ye give me, and I will deliver this man unto you?"
-    And they make the covenant, and pay the pieces of silver.
+And still goes one, saying,
+"What will ye give me, and I will deliver this man unto you?"
+And they make the covenant, and pay the pieces of silver.
 
 II
 
-    Look forth, deliverer,
-    Look forth, first-born of the dead,
-    Over the tree-tops of Paradise;
-    See thyself in yet continued bonds,
-    Toilsome and poor, thou bear'st man's form again,
-    Thou art reviled, scourged, put into [[Prison|prison]],
-    Hunted from the arrogant equality of the rest;
-    With staves and swords throng the willing servants of authority,
-    Again they surround thee, mad with devilish spite;
-    Toward thee stretch the hands of a multitude, like vultures' talons,
-    The meanest spit in thy face, they smite thee with their palms;
-    Bruised, bloody, and pinion'd is thy [[Body|body]],
-    More sorrowful than [[Death|death]] is thy [[Soul|soul]].
+Look forth, deliverer,
+Look forth, first-born of the dead,
+Over the tree-tops of Paradise;
+See thyself in yet continued bonds,
+Toilsome and poor, thou bear'st man's form again,
+Thou art reviled, scourged, put into [[Prison|prison]],
+Hunted from the arrogant equality of the rest;
+With staves and swords throng the willing servants of authority,
+Again they surround thee, mad with devilish spite;
+Toward thee stretch the hands of a multitude, like vultures' talons,
+The meanest spit in thy face, they smite thee with their palms;
+Bruised, bloody, and pinion'd is thy [[Body|body]],
+More sorrowful than [[Death|death]] is thy [[Soul|soul]].
 
-    Witness of anguish, brother of slaves,
-    Not with thy price closed the price of thine image:
-    And still Iscariot plies his trade.
+Witness of anguish, brother of slaves,
+Not with thy price closed the price of thine image:
+And still Iscariot plies his trade.
 
-    _April, 1843_.
+_April, 1843_.
 
-    PAUMANOK.
+PAUMANOK.
 
 WOUNDED IN THE [[house|HOUSE]] OF FRIENDS
 
@@ -17515,77 +17515,77 @@ _"And one shall say unto him. What are these wounds in thy hands?
 Then he shall answer Those with which I was wounded in the [[house]] of my
 friends."--Zechariah, xiii. 6._
 
-      If thou art balk'd, O [[Freedom]],
-    The victory is not to thy manlier foes;
-    From the [[house]] of friends comes the [[Death|death]] stab.
+If thou art balk'd, O [[Freedom]],
+The victory is not to thy manlier foes;
+From the [[house]] of friends comes the [[Death|death]] stab.
 
-      Virginia, mother of [[Greatness|greatness]],
-    Blush not for being also mother of slaves;
-    You might have borne deeper slaves--
-    Doughfaces, crawlers, lice of humanity--
-    Terrific screamers of [[Freedom|freedom]],
-    Who roar and bawl, and get hot i' the face,
-    But were they not incapable of august crime,
-    Would quench the hopes of ages for a drink--
-    Muck-worms, creeping flat to the ground,
-    A dollar dearer to them than [[Christ]]'s blessing;
-    All loves, all hopes, less than the thought of gain,
-    In life walking in that as in a shroud;
-    Men whom the throes of heroes,
-    Great deeds at which the gods might stand appal'd,
-    The shriek of the drown'd, the appeal of women,
-    The exulting laugh of untied empires,
-    Would touch them never in the heart,
-    But only in the pocket.
+Virginia, mother of [[Greatness|greatness]],
+Blush not for being also mother of slaves;
+You might have borne deeper slaves--
+Doughfaces, crawlers, lice of humanity--
+Terrific screamers of [[Freedom|freedom]],
+Who roar and bawl, and get hot i' the face,
+But were they not incapable of august crime,
+Would quench the hopes of ages for a drink--
+Muck-worms, creeping flat to the ground,
+A dollar dearer to them than [[Christ]]'s blessing;
+All loves, all hopes, less than the thought of gain,
+In life walking in that as in a shroud;
+Men whom the throes of heroes,
+Great deeds at which the gods might stand appal'd,
+The shriek of the drown'd, the appeal of women,
+The exulting laugh of untied empires,
+Would touch them never in the heart,
+But only in the pocket.
 
-      Hot-headed Carolina,
-    [[Well]] may you curl your lip;
-    With all your bondsmen, bless the destiny
-    Which brings you no such breed as this.
+Hot-headed Carolina,
+[[Well]] may you curl your lip;
+With all your bondsmen, bless the destiny
+Which brings you no such breed as this.
 
-      Arise, young North!
-    Our elder [[Blood|blood]] flows in the veins of cowards:
-    The gray-hair'd sneak, the blanch'd poltroon,
-    The feign'd or real shiverer at tongues,
-    That nursing babes need hardly cry the less for--
-    Are they to be our tokens always?
+Arise, young North!
+Our elder [[Blood|blood]] flows in the veins of cowards:
+The gray-hair'd sneak, the blanch'd poltroon,
+The feign'd or real shiverer at tongues,
+That nursing babes need hardly cry the less for--
+Are they to be our tokens always?
 
 SAILING THE MISSISSIPPI AT MIDNIGHT
 
-    Vast and starless, the pall of heaven
-      Laps on the trailing pall below;
-    And forward, forward, in solemn darkness,
-      As if to the sea of the lost we go.
+Vast and starless, the pall of heaven
+Laps on the trailing pall below;
+And forward, forward, in solemn darkness,
+As if to the sea of the lost we go.
 
-    Now drawn nigh the edge of the [[River|river]],
-      Weird-like creatures suddenly rise;
-    Shapes that fade, dissolving outlines
-      Baffle the gazer's straining eyes.
+Now drawn nigh the edge of the [[River|river]],
+Weird-like creatures suddenly rise;
+Shapes that fade, dissolving outlines
+Baffle the gazer's straining eyes.
 
-    Towering upward and bending forward,
-      Wild and wide their arms are thrown,
-    Ready to pierce with forked fingers
-      Him who touches their realm upon.
+Towering upward and bending forward,
+Wild and wide their arms are thrown,
+Ready to pierce with forked fingers
+Him who touches their realm upon.
 
-    Tide of youth, thus thickly planted,
-      While in the eddies onward you swim,
-    Thus on the shore stands a [[Phantom|phantom]] army,
-      Lining forever the channel's rim.
+Tide of youth, thus thickly planted,
+While in the eddies onward you swim,
+Thus on the shore stands a [[Phantom|phantom]] army,
+Lining forever the channel's rim.
 
-    Steady, helmsman! you guide the immortal;
-      Many a wreck is beneath you piled,
-    Many a brave yet unwary sailor
-      Over these waters has been beguiled.
+Steady, helmsman! you guide the immortal;
+Many a wreck is beneath you piled,
+Many a brave yet unwary sailor
+Over these waters has been beguiled.
 
-    Nor is it the [[Storm|storm]] or the scowling midnight,
-      Cold, or sickness, or [[Fire|fire]]'s dismay--
-    Nor is it the reef, or treacherous quicksand,
-      Will peril you most on your twisted way.
+Nor is it the [[Storm|storm]] or the scowling midnight,
+Cold, or sickness, or [[Fire|fire]]'s dismay--
+Nor is it the reef, or treacherous quicksand,
+Will peril you most on your twisted way.
 
-    But when there comes a voluptuous languor,
-      Soft the sunshine, silent the air,
-    Bewitching your craft with safety and sweetness,
-      Then, young pilot of life, beware.
+But when there comes a voluptuous languor,
+Soft the sunshine, silent the air,
+Bewitching your craft with safety and sweetness,
+Then, young pilot of life, beware.
 
 NOVEMBER BOUGHS
 
@@ -17810,10 +17810,10 @@ emotions conquering the gods of heaven, and fate itself. (The episode,
 for instance, toward the close of the "Mahabharata"--the [[Journey|journey]] of the
 wife Savitri with the god of [[Death|death]], Yama,
 
-    "One terrible to see--[[Blood|blood]]-red his garb,
-    His [[Body|body]] huge and dark, bloodshot his eyes,
-    Which flamed like suns beneath his turban cloth,
-    Arm'd was he with a noose,"
+"One terrible to see--[[Blood|blood]]-red his garb,
+His [[Body|body]] huge and dark, bloodshot his eyes,
+Which flamed like suns beneath his turban cloth,
+Arm'd was he with a noose,"
 
 who carries off the [[Soul|soul]] of the dead husband, the wife tenaciously
 following, and--by the resistless charm of perfect poetic
@@ -18127,16 +18127,16 @@ All the foregoing to premise a brief statement of how and where I get my
 new light on Shakspere. Speaking of the special English plays, my friend
 William O'Connor says:
 
-  They seem simply and rudely historical in their motive, as aiming
-  to give in the rough a tableau of warring dynasties,--and carry to
-  me a lurking sense of being in aid of some ulterior design, probably
-  [[Well|well]] enough understood in that age, which perhaps [[Time|time]] and criticism
-  will reveal.... Their atmosphere is one of barbarous and tumultuous
-  gloom,--they do not make us [[Love|love]] the times they limn,... and it is
-  impossible to believe that the greatest of the Elizabethan men could
-  have sought to indoctrinate the age with the [[Love|love]] of feudalism which
-  his own drama in its entirety, if the view taken of it herein be true,
-  certainly and subtly saps and mines.
+They seem simply and rudely historical in their motive, as aiming
+to give in the rough a tableau of warring dynasties,--and carry to
+me a lurking sense of being in aid of some ulterior design, probably
+[[Well|well]] enough understood in that age, which perhaps [[Time|time]] and criticism
+will reveal.... Their atmosphere is one of barbarous and tumultuous
+gloom,--they do not make us [[Love|love]] the times they limn,... and it is
+impossible to believe that the greatest of the Elizabethan men could
+have sought to indoctrinate the age with the [[Love|love]] of feudalism which
+his own drama in its entirety, if the view taken of it herein be true,
+certainly and subtly saps and mines.
 
 Reading the just-specified play in the light of Mr. O'Connor's
 suggestion, I defy any one to escape such new and deep
@@ -18358,10 +18358,10 @@ plough-tail." 1787, to the Earl of Buchan. He has no high ideal of the
 poet or the poet's office; indeed quite a low and contracted notion of
 both:
 
-    "Fortune! if thou'll but gie me still
-    Hale breeks, a scone, and whiskey gill,
-    An' rowth o' rhyme to rave at will,
-    Tak' a' the rest."
+"Fortune! if thou'll but gie me still
+Hale breeks, a scone, and whiskey gill,
+An' rowth o' rhyme to rave at will,
+Tak' a' the rest."
 
 See also his rhym'd letters to Robert Graham invoking patronage; "one
 stronghold," Lord Glencairn, being dead, now these appeals to "Fintra,
@@ -18400,7 +18400,7 @@ noses clean.) Only when he gets at Poosie Nansie's, celebrating the
 "barley bree," or among tramps, or democratic bouts and drinking
 generally,
 
-    ("[[Freedom]] and whiskey gang the gither.")
+("[[Freedom]] and whiskey gang the gither.")
 
 we have, in his own unmistakable color and warmth, those interiors
 of rake-helly life and tavern fun--the cantabile of jolly beggars in
@@ -18510,7 +18510,7 @@ would not stop us if he were here this moment, from classing that
 "to the De'il" among them)--"to Mailie and her Lambs," "to auld Mare
 Maggie," "to a Mouse,"
 
-    "Wee, sleekit, cowrin, tim'rous beastie:"
+"Wee, sleekit, cowrin, tim'rous beastie:"
 
 "to a Mountain Daisy," "to a Haggis," "to a Louse," "to the Toothache,"
 &c.--and occasionally to his brother bards and lady or gentleman
@@ -18538,7 +18538,7 @@ see and feel the man indirectly in his other verses, all of them,
 with more or less life-likeness--but these I have named last call out
 pronouncedly in his own voice,
 
-    "I, Rob, am here."
+"I, Rob, am here."
 
 Finally, in any summing-up of Burns, though so much is to be said in the
 way of fault-finding, drawing black marks, and doubtless severe literary
@@ -18588,11 +18588,11 @@ century ago was essentially morbid, heart-broken, finding fault with
 everything, especially the fact of money's being made (as it ever must
 be, and perhaps should be) the paramount matter in worldly affairs;
 
-    Every door is barr'd with gold, and opens but to golden keys.
+Every door is barr'd with gold, and opens but to golden keys.
 
 First, a father, having fallen in battle, his [[Child|child]] (the singer)
 
-    Was left a trampled [[Orphan|orphan]], and a selfish uncle's ward.
+Was left a trampled [[Orphan|orphan]], and a selfish uncle's ward.
 
 Of course [[Love|love]] ensues. The woman in the chant or monologue proves a
 false one; and as far as appears the ideal of woman, in the poet's
@@ -18600,7 +18600,7 @@ reflections, is a false one--at any rate for [[America]]. Woman is _not_
 "the lesser man." (The heart is not the brain.) The best of the piece of
 fifty years since is its concluding line:
 
-    For the mighty [[Wind|wind]] arises roaring seaward and I go.
+For the mighty [[Wind|wind]] arises roaring seaward and I go.
 
 Then for this current 1886-7, a just-out sequel, which (as an apparently
 authentic summary says) "reviews the life of mankind during the past
@@ -18610,17 +18610,17 @@ cynical vein of denunciation of democratic opinions and aspirations runs
 throughout the poem in mark'd contrast with the spirit of the poet's
 youth." Among the most striking lines of this sequel are the following:
 
-    Envy wears the mask of [[Love|love]], and, laughing sober fact to scorn,
-    Cries to weakest as to strongest, 'Ye are equals, equal born,'
-    Equal-born! Oh yes, if yonder [[Hill|hill]] be level with the flat.
-    Charm us, orator, till the [[Lion|lion]] look no larger than the cat:
-    Till the cat, through that mirage of overheated language, loom
-    Larger than the [[Lion|lion]] Demo--end in working its own doom.
-    Tumble [[Nature]] heel o'er head, and, yelling with the yelling street,
-    Set the feet above the brain, and swear the brain is in the feet,
-    Bring the old dark ages back, without the [[Faith|faith]], without the [[Hope|hope]].
-    Beneath the State, the Church, the Throne, and roll their ruins down
-      the slope.
+Envy wears the mask of [[Love|love]], and, laughing sober fact to scorn,
+Cries to weakest as to strongest, 'Ye are equals, equal born,'
+Equal-born! Oh yes, if yonder [[Hill|hill]] be level with the flat.
+Charm us, orator, till the [[Lion|lion]] look no larger than the cat:
+Till the cat, through that mirage of overheated language, loom
+Larger than the [[Lion|lion]] Demo--end in working its own doom.
+Tumble [[Nature]] heel o'er head, and, yelling with the yelling street,
+Set the feet above the brain, and swear the brain is in the feet,
+Bring the old dark ages back, without the [[Faith|faith]], without the [[Hope|hope]].
+Beneath the State, the Church, the Throne, and roll their ruins down
+the slope.
 
 I should say that all this is a legitimate consequence of the tone
 and convictions of the earlier standards and points of view. Then some
@@ -18665,7 +18665,7 @@ a latent charm in mere words, cunning collocutions, and in the voice
 ringing them, which he has caught and brought out, beyond all others--as
 in the line,
 
-    And hollow, hollow, hollow, all delight,
+And hollow, hollow, hollow, all delight,
 
 in "The Passing of [[arthur|Arthur]]," and evidenced in "The Lady of Shalott," "The
 Deserted [[house|House]]," and many other pieces. Among the best (I often linger
@@ -18677,10 +18677,10 @@ indeed we could spare nothing of Tennyson, however small or however
 peculiar--not "Break, Break," nor "Flower in the Crannied Wall," nor the
 old, eternally-told passion of "Edward Gray:"
 
-    [[Love]] may come and [[Love|love]] may go,
-    And fly like a bird from tree to tree.
-    But I will [[Love|love]] no more, no more
-    Till Ellen Adair come back to me.
+[[Love]] may come and [[Love|love]] may go,
+And fly like a bird from tree to tree.
+But I will [[Love|love]] no more, no more
+Till Ellen Adair come back to me.
 
 Yes, Alfred Tennyson's is a superb character, and will help give
 illustriousness, through the long roll of [[Time|time]], to our Nineteenth
@@ -19469,21 +19469,21 @@ mankind from the loss of those first-class [[Poems|poems]], temples, pictures,
 gone and vanish'd from any record of men, the writer (Fleeming Jenkin)
 continues:
 
-  If this be our feeling as to the more durable works of art, what
-  shall we say of those triumphs which, by their very [[Nature|nature]], la
-  no longer than the action which creates them--the triumphs of the
-  orator, the singer, or the actor? There is an anodyne in the words,
-  "must be so," "inevitable," and there is even some absurdity in
-  [[Longing|longing]] for the impossible. This anodyne and our sense of humor
-  temper the unhappiness we feel when, after hearing some great
-  performance, we leave the theatre and think, "[[Well]], this great thing
-  has been, and all that is now left of it is the feeble print up
-  my brain, the little thrill which [[Memory|memory]] will send along my nerves,
-  mine and my neighbors; as we live longer the print and thrill must
-  be feebler, and when we pass away the impress of the great [[artist]]
-  will vanish from the world." The regret that a great art should in
-  its [[Nature|nature]] be transitory, explains the lively interest which many
-  feel in reading anecdotes or descriptions of a great actor.
+If this be our feeling as to the more durable works of art, what
+shall we say of those triumphs which, by their very [[Nature|nature]], la
+no longer than the action which creates them--the triumphs of the
+orator, the singer, or the actor? There is an anodyne in the words,
+"must be so," "inevitable," and there is even some absurdity in
+[[Longing|longing]] for the impossible. This anodyne and our sense of humor
+temper the unhappiness we feel when, after hearing some great
+performance, we leave the theatre and think, "[[Well]], this great thing
+has been, and all that is now left of it is the feeble print up
+my brain, the little thrill which [[Memory|memory]] will send along my nerves,
+mine and my neighbors; as we live longer the print and thrill must
+be feebler, and when we pass away the impress of the great [[artist]]
+will vanish from the world." The regret that a great art should in
+its [[Nature|nature]] be transitory, explains the lively interest which many
+feel in reading anecdotes or descriptions of a great actor.
 
 All this is emphatically my own feeling and reminiscence about the best
 dramatic and [[Lyric|lyric]] artists I have seen in bygone days--for instance,
@@ -19671,7 +19671,7 @@ or wait, and hold the audience in an indescribable, half-delicious,
 half-irritating suspense.) And so throughout the entire play, all parts,
 voice, atmosphere, magnetism, from
 
-    "Now is the [[Winter|winter]] of our discontent,"
+"Now is the [[Winter|winter]] of our discontent,"
 
 to the closing [[Death|death]] fight with Richmond, were of the finest and
 grandest. The latter character was play'd by a stalwart young fellow
@@ -19945,8 +19945,8 @@ talk goes on, and betraying himself by his emotion and moist eyes--like
 the journeying Ithacan at the banquet of [[King]] Alcinoiis, when the bard
 sings the contending warriors and their battles on the plains of Troy:
 
-    "So from the sluices of [[Ulysses]]' eyes
-    Fast fell the [[Tears|tears]], and sighs succeeded sighs."
+"So from the sluices of [[Ulysses]]' eyes
+Fast fell the [[Tears|tears]], and sighs succeeded sighs."
 
 I have fancied, I say, some such venerable relic of this [[Time|time]] of ours,
 preserv'd to the next or still the next generation of [[America]]. I have
@@ -20837,24 +20837,24 @@ sea--Elias Hicks was fashion'd through boyhood and early manhood, to
 maturity. But a moral and mental and emotional change was imminent.
 Along at this [[Time|time]] he says:
 
-  My apprenticeship being now expir'd, I gradually withdrew from
-  the company of my former associates, became more acquainted with
-  Friends, and was more frequent in my attendance of meetings; and
-  although this was in some degree profitable to me, yet I made but
-  slow progress in my religious improvement. The occupation of part of
-  my [[Time|time]] in fishing and fowling had frequently tended to preser
-  me from falling into hurtful associations; but through the rising
-  intimations and reproofs of divine grace in my heart, I now began to
-  feel that the manner in which I sometimes amus'd myself with my gun
-  was not without sin; for although I mostly preferr'd going [[Alone|alone]],
-  and while waiting in stillness for the coming of the fowl,
-  mind was at times so taken up in divine meditations, that the
-  opportunities were [[Seasons|seasons]] of instruction and comfort to me; yet, on
-  other occasions, when accompanied by some of my acquaintances, and
-  when no fowls appear'd which would be useful to us after being
-  obtain'd, we sometimes, from wantonness or for mere diversion, would
-  destroy the small [[Birds|birds]] which could be of no service to us. This
-  cruel procedure affects my heart while penning these lines.
+My apprenticeship being now expir'd, I gradually withdrew from
+the company of my former associates, became more acquainted with
+Friends, and was more frequent in my attendance of meetings; and
+although this was in some degree profitable to me, yet I made but
+slow progress in my religious improvement. The occupation of part of
+my [[Time|time]] in fishing and fowling had frequently tended to preser
+me from falling into hurtful associations; but through the rising
+intimations and reproofs of divine grace in my heart, I now began to
+feel that the manner in which I sometimes amus'd myself with my gun
+was not without sin; for although I mostly preferr'd going [[Alone|alone]],
+and while waiting in stillness for the coming of the fowl,
+mind was at times so taken up in divine meditations, that the
+opportunities were [[Seasons|seasons]] of instruction and comfort to me; yet, on
+other occasions, when accompanied by some of my acquaintances, and
+when no fowls appear'd which would be useful to us after being
+obtain'd, we sometimes, from wantonness or for mere diversion, would
+destroy the small [[Birds|birds]] which could be of no service to us. This
+cruel procedure affects my heart while penning these lines.
 
 In his 23d year Elias was married, by the Friends' ceremony, to Jemima
 Seaman. His wife was an only [[Child|child]]; the parents were [[Well|well]] off for common
@@ -20864,244 +20864,244 @@ there all his remaining life. Of this matrimonial part of his career,
 (it continued, and with unusual happiness, for 58 years,) he says,
 giving the account of his [[Marriage|marriage]]:
 
-  On this important occasion, we felt the clear and consoling evidence
-  of divine [[Truth|truth]], and it remain'd with us as a seal upon our spirits,
-  strengthening us mutually to bear, with becoming fortitude, the
-  vicissitudes and trials which fell to our lot, and of which we h
-  a large share in passing through this probationary state. My wife,
-  although not of a very strong constitution, liv'd to be the mother
-  of eleven children, four sons and seven daughters. Our second
-  daughter, a very lovely, promising [[Child|child]], died when young, with the
-  small-pox, and the youngest was not living at its birth. The rest
-  all arriv'd to years of discretion, and afforded us considerable
-  comfort, as they prov'd to be in a good degree dutiful children. All
-  our sons, however, were of weak constitutions, and were not able to
-  take care of themselves, being so enfeebl'd as not to be able to
-  walk after the ninth or tenth year of their age. The two eldest died
-  in the fifteenth year of their age, the third in his seventeenth
-  year, and the youngest was nearly nineteen when he died. But,
-  although thus helpless, the innocency of their lives, and the
-  resign'd cheerfulness of their dispositions to their allotments,
-  made the labor and toil of taking care of them agreeable and
-  pleasant; and I trust we were preserv'd from murmuring or repining,
-  believing the dispensation to be in wisdom, and according to the
-  will and gracious disposing of an all-wise [[Providence|providence]], for purposes
-  best known to himself. And when I have observ'd the great anxiety
-  and affliction which many parents have with undutiful children who
-  are favor'd with health, especially their sons, I could perceive
-  very few whose troubles and exercises, on that account, did not far
-  exceed ours. The weakness and bodily infirmity of our sons tended to
-  keep them much out of the way of the troubles and temptations
-  the world; and we believ'd that in their [[Death|death]] they were happy, and
-  admitted into the realms of peace and joy: a reflection, the most
-  comfortable and joyous that parents can have in regard to their
-  tender offspring.
+On this important occasion, we felt the clear and consoling evidence
+of divine [[Truth|truth]], and it remain'd with us as a seal upon our spirits,
+strengthening us mutually to bear, with becoming fortitude, the
+vicissitudes and trials which fell to our lot, and of which we h
+a large share in passing through this probationary state. My wife,
+although not of a very strong constitution, liv'd to be the mother
+of eleven children, four sons and seven daughters. Our second
+daughter, a very lovely, promising [[Child|child]], died when young, with the
+small-pox, and the youngest was not living at its birth. The rest
+all arriv'd to years of discretion, and afforded us considerable
+comfort, as they prov'd to be in a good degree dutiful children. All
+our sons, however, were of weak constitutions, and were not able to
+take care of themselves, being so enfeebl'd as not to be able to
+walk after the ninth or tenth year of their age. The two eldest died
+in the fifteenth year of their age, the third in his seventeenth
+year, and the youngest was nearly nineteen when he died. But,
+although thus helpless, the innocency of their lives, and the
+resign'd cheerfulness of their dispositions to their allotments,
+made the labor and toil of taking care of them agreeable and
+pleasant; and I trust we were preserv'd from murmuring or repining,
+believing the dispensation to be in wisdom, and according to the
+will and gracious disposing of an all-wise [[Providence|providence]], for purposes
+best known to himself. And when I have observ'd the great anxiety
+and affliction which many parents have with undutiful children who
+are favor'd with health, especially their sons, I could perceive
+very few whose troubles and exercises, on that account, did not far
+exceed ours. The weakness and bodily infirmity of our sons tended to
+keep them much out of the way of the troubles and temptations
+the world; and we believ'd that in their [[Death|death]] they were happy, and
+admitted into the realms of peace and joy: a reflection, the most
+comfortable and joyous that parents can have in regard to their
+tender offspring.
 
 Of a serious and reflective turn, by [[Nature|nature]], and from his reading
 and surroundings, Elias had more than once markedly devotional inward
 intimations. These feelings increas'd in frequency and strength, until
 soon the following:
 
-  About the twenty-sixth year of my age I was again brought, by the
-  operative influence of divine grace, under deep concern of mind; and
-  was led, through adorable [[Mercy|mercy]], to see, that although I had ceas'd
-  from many sins and vanities of my youth, yet there were many
-  remaining that I was still guilty of, which were not yet aton'd for,
-  and for which I now felt the judgments of God to rest upon m
-  This caus'd me to cry earnestly to the Most High for pardon and
-  redemption, and he graciously condescended to hear my cry, and to
-  open a way before me, wherein I must walk, in order to experience
-  [[Reconciliation|reconciliation]] with him; and as I abode in watchfulness and deep
-  humiliation before him, light broke forth out of obscurity, and my
-  darkness became as the [[Noon|noon]]-day. I began to have openings leading to
-  the ministry, which brought me under close exercise and deep travail
-  of spirit; for although I had for some [[Time|time]] spoken on subjects of
-  business in monthly and preparative meetings, yet the prospe
-  of opening my mouth in public meetings was a close trial; but I
-  endeavor'd to keep my mind quiet and resign' d to the heavenly call,
-  if it should be made clear to me to be my duty. Nevertheless,
-  I was, soon after, sitting in a meeting, in much weightiness of
-  spirit, a secret, though clear, intimation accompanied me to spe
-  a few words, which were then given to me to utter, yet [[Fear|fear]] so
-  prevail'd, that I did not yield to the intimation. For this
-  omission, I felt close rebuke, and judgment seem'd, for some [[Time|time]],
-  to cover my mind; but as I humbl'd myself under the Lord's mighty
-  hand, he again lifted up the light of his countenance upon me, and
-  enabl'd me to renew covenant with him, that if he would pass by this
-  my offence, I would, in future, be faithful, if he should again
-  require such a service of me.
+About the twenty-sixth year of my age I was again brought, by the
+operative influence of divine grace, under deep concern of mind; and
+was led, through adorable [[Mercy|mercy]], to see, that although I had ceas'd
+from many sins and vanities of my youth, yet there were many
+remaining that I was still guilty of, which were not yet aton'd for,
+and for which I now felt the judgments of God to rest upon m
+This caus'd me to cry earnestly to the Most High for pardon and
+redemption, and he graciously condescended to hear my cry, and to
+open a way before me, wherein I must walk, in order to experience
+[[Reconciliation|reconciliation]] with him; and as I abode in watchfulness and deep
+humiliation before him, light broke forth out of obscurity, and my
+darkness became as the [[Noon|noon]]-day. I began to have openings leading to
+the ministry, which brought me under close exercise and deep travail
+of spirit; for although I had for some [[Time|time]] spoken on subjects of
+business in monthly and preparative meetings, yet the prospe
+of opening my mouth in public meetings was a close trial; but I
+endeavor'd to keep my mind quiet and resign' d to the heavenly call,
+if it should be made clear to me to be my duty. Nevertheless,
+I was, soon after, sitting in a meeting, in much weightiness of
+spirit, a secret, though clear, intimation accompanied me to spe
+a few words, which were then given to me to utter, yet [[Fear|fear]] so
+prevail'd, that I did not yield to the intimation. For this
+omission, I felt close rebuke, and judgment seem'd, for some [[Time|time]],
+to cover my mind; but as I humbl'd myself under the Lord's mighty
+hand, he again lifted up the light of his countenance upon me, and
+enabl'd me to renew covenant with him, that if he would pass by this
+my offence, I would, in future, be faithful, if he should again
+require such a service of me.
 
 The Revolutionary War following, tried the sect of Friends more than
 any. The difficulty was to steer between their convictions as patriots,
 and their pledges of non-warring peace. Here is the way they solv'd the
 problem:
 
-  A war, with all its cruel and destructive effects, having raged for
-  several years between the British Colonies in North [[America]] and the
-  mother country, Friends, as [[Well|well]] as others, were expos' d to many
-  severe trials and sufferings; yet, in the colony of [[New York]],
-  Friends, who stood faithful to their principles, and did not meddle
-  in the controversy, had, after a short period at first, considerable
-  favor allow'd them. The yearly meeting was held steadily, duri
-  the war, on Long Island, where the [[King|king]]'s party had the rule; yet
-  Friends from the Main, where the American army ruled, had free
-  passage through both armies to attend it, and any other meetings
-  they were desirous of attending, except in a few instances. This was
-  a favor which the parties would not grant to their best friends, who
-  were of a war-like disposition; which shows what great advantages
-  would redound to mankind, were they all of this pacific spirit. I
-  pass'd myself through the lines of both armies six times during the
-  war, without molestation, both parties generally receiving me with
-  openness and civility; and although I had to pass over a tract of
-  country, between the two armies, sometimes more than thirty miles in
-  extent, and which was much frequented by robbers, a set, in general,
-  of cruel, unprincipled banditti, issuing out from both partie
-  yet, excepting once, I met with no interruption even from the
-  But although Friends in general experienc'd many favors and
-  deliverances, yet those scenes of war and confusion occasion
-  many trials and provings in various ways to the faithful. One
-  circumstance I am willing to mention, as it caus'd me considerable
-  exercise and concern. There was a large cellar under the new
-  meeting-[[house]] belonging to Friends in [[New York]], which was generally
-  let as a store. When the [[King|king]]'s troops enter'd the [[City|city]], they took
-  possession of it for the purpose of depositing their warlike stores;
-  and ascertaining what Friends had the care of letting it, their
-  commissary came forward and offer'd to pay the rent; and those
-  Friends, for want of due consideration, accepted it. This caus'd
-  great uneasiness to the concern'd part of the Society, who
-  apprehended it not consistent with our peaceable principles to
-  receive payment for the depositing of military stores in our houses.
-  The subject was brought before the yearly meeting in 1779, and
-  engag'd its careful attention; but those Friends, who had been
-  active in the reception of the money, and some few others, were not
-  willing to acknowledge their proceedings to be inconsistent, nor to
-  return the money to those from whom it was receiv'd; and in order to
-  justify themselves therein, they referr'd to the conduct of Friends
-  in Philadelphia in similar cases. Matters thus appearing very
-  difficult and embarrassing, it was unitedly concluded to refer the
-  final determination thereof to the yearly meeting of Pennsylvania;
-  and several Friends were appointed to attend that meeting in
-  relation thereto, among whom I was one of the number. We accordingly
-  set out on the 9th day of the 9th month, 1779, and I was accompanied
-  from [[Home|home]] by my beloved friend John Willis, who was likewise on the
-  appointment. We took a solemn leave of our families, they feeling
-  much anxiety at parting with us, on account of the dangers we were
-  expos'd to, having to pass not only the lines of the two armies, but
-  the deserted and almost uninhabited country that lay between them,
-  in many places the grass being grown up in the streets, and many
-  houses desolate and empty. Believing it, however, my duty to proceed
-  in the service, my mind was so settled and trust-fix'd in the divine
-  arm of power, that [[Faith|faith]] seem'd to banish all [[Fear|fear]], and cheerfulness
-  and quiet [[Resignation|resignation]] were, I believe, my constant companions during
-  the [[Journey|journey]]. We got permission, with but little difficulty, to pass
-  the outguards of the [[King|king]]'s army at Kingsbridge, and proceeded to
-  Westchester. We afterwards attended meetings at Harrison's Purchase,
-  and Oblong, having the concurrence of our monthly meeting to take
-  some meetings in our way, a concern leading thereto having for some
-  [[Time|time]] previously attended my mind. We pass'd from thence to Nine
-  Partners, and attended their monthly meeting, and then turn'd our
-  faces towards Philadelphia, being join'd by several others of the
-  Committee. We attended New Marlborough, Hardwick, and Kingswood
-  meetings on our [[Journey|journey]], and arriv'd at Philadelphia on the 7th day
-  of the week, and 25th of 9th month, on which day we attended the
-  yearly meeting of Ministers and Elders, which began at the eleventh
-  hour. I also attended all the sittings of the yearly meeting until
-  the 4th day of the next week, and was then so indispos'd with a
-  fever, which had been increasing on me for several days, that I was
-  not able to attend after that [[Time|time]]. I was therefore not present when
-  the subject was discuss' d, which came from our yearly meeting but I
-  was inform'd by my companion, that it was a very solemn opportunity,
-  and the matter was resulted in advising that the money should be
-  return'd into the office from whence it was receiv'd, accompanied
-  with our reasons for so doing: and this was accordingly done by the
-  direction of our yearly meeting the next year.
+A war, with all its cruel and destructive effects, having raged for
+several years between the British Colonies in North [[America]] and the
+mother country, Friends, as [[Well|well]] as others, were expos' d to many
+severe trials and sufferings; yet, in the colony of [[New York]],
+Friends, who stood faithful to their principles, and did not meddle
+in the controversy, had, after a short period at first, considerable
+favor allow'd them. The yearly meeting was held steadily, duri
+the war, on Long Island, where the [[King|king]]'s party had the rule; yet
+Friends from the Main, where the American army ruled, had free
+passage through both armies to attend it, and any other meetings
+they were desirous of attending, except in a few instances. This was
+a favor which the parties would not grant to their best friends, who
+were of a war-like disposition; which shows what great advantages
+would redound to mankind, were they all of this pacific spirit. I
+pass'd myself through the lines of both armies six times during the
+war, without molestation, both parties generally receiving me with
+openness and civility; and although I had to pass over a tract of
+country, between the two armies, sometimes more than thirty miles in
+extent, and which was much frequented by robbers, a set, in general,
+of cruel, unprincipled banditti, issuing out from both partie
+yet, excepting once, I met with no interruption even from the
+But although Friends in general experienc'd many favors and
+deliverances, yet those scenes of war and confusion occasion
+many trials and provings in various ways to the faithful. One
+circumstance I am willing to mention, as it caus'd me considerable
+exercise and concern. There was a large cellar under the new
+meeting-[[house]] belonging to Friends in [[New York]], which was generally
+let as a store. When the [[King|king]]'s troops enter'd the [[City|city]], they took
+possession of it for the purpose of depositing their warlike stores;
+and ascertaining what Friends had the care of letting it, their
+commissary came forward and offer'd to pay the rent; and those
+Friends, for want of due consideration, accepted it. This caus'd
+great uneasiness to the concern'd part of the Society, who
+apprehended it not consistent with our peaceable principles to
+receive payment for the depositing of military stores in our houses.
+The subject was brought before the yearly meeting in 1779, and
+engag'd its careful attention; but those Friends, who had been
+active in the reception of the money, and some few others, were not
+willing to acknowledge their proceedings to be inconsistent, nor to
+return the money to those from whom it was receiv'd; and in order to
+justify themselves therein, they referr'd to the conduct of Friends
+in Philadelphia in similar cases. Matters thus appearing very
+difficult and embarrassing, it was unitedly concluded to refer the
+final determination thereof to the yearly meeting of Pennsylvania;
+and several Friends were appointed to attend that meeting in
+relation thereto, among whom I was one of the number. We accordingly
+set out on the 9th day of the 9th month, 1779, and I was accompanied
+from [[Home|home]] by my beloved friend John Willis, who was likewise on the
+appointment. We took a solemn leave of our families, they feeling
+much anxiety at parting with us, on account of the dangers we were
+expos'd to, having to pass not only the lines of the two armies, but
+the deserted and almost uninhabited country that lay between them,
+in many places the grass being grown up in the streets, and many
+houses desolate and empty. Believing it, however, my duty to proceed
+in the service, my mind was so settled and trust-fix'd in the divine
+arm of power, that [[Faith|faith]] seem'd to banish all [[Fear|fear]], and cheerfulness
+and quiet [[Resignation|resignation]] were, I believe, my constant companions during
+the [[Journey|journey]]. We got permission, with but little difficulty, to pass
+the outguards of the [[King|king]]'s army at Kingsbridge, and proceeded to
+Westchester. We afterwards attended meetings at Harrison's Purchase,
+and Oblong, having the concurrence of our monthly meeting to take
+some meetings in our way, a concern leading thereto having for some
+[[Time|time]] previously attended my mind. We pass'd from thence to Nine
+Partners, and attended their monthly meeting, and then turn'd our
+faces towards Philadelphia, being join'd by several others of the
+Committee. We attended New Marlborough, Hardwick, and Kingswood
+meetings on our [[Journey|journey]], and arriv'd at Philadelphia on the 7th day
+of the week, and 25th of 9th month, on which day we attended the
+yearly meeting of Ministers and Elders, which began at the eleventh
+hour. I also attended all the sittings of the yearly meeting until
+the 4th day of the next week, and was then so indispos'd with a
+fever, which had been increasing on me for several days, that I was
+not able to attend after that [[Time|time]]. I was therefore not present when
+the subject was discuss' d, which came from our yearly meeting but I
+was inform'd by my companion, that it was a very solemn opportunity,
+and the matter was resulted in advising that the money should be
+return'd into the office from whence it was receiv'd, accompanied
+with our reasons for so doing: and this was accordingly done by the
+direction of our yearly meeting the next year.
 
 Then, season after season, when peace and Independence reign'd, year
 following year, this remains to be (1791) a specimen of his personal
 labors:
 
-  I was from [[Home|home]] on this [[Journey|journey]] four months and eleven days; rode
-  about one thousand five hundred miles, and attended forty-nine
-  particular meetings among Friends, three quarterly meetings, six
-  monthly meetings, and forty meetings among other people.
+I was from [[Home|home]] on this [[Journey|journey]] four months and eleven days; rode
+about one thousand five hundred miles, and attended forty-nine
+particular meetings among Friends, three quarterly meetings, six
+monthly meetings, and forty meetings among other people.
 
 And again another experience:
 
-  In the forepart of this meeting, my mind was reduc'd into such a
-  state of great weakness and depression, that my [[Faith|faith]] was almost
-  ready to fail, which produc'd great searchings of heart, so that I
-  was led to call in question all that I had ever before experienc'd.
-  In this state of doubting, I was ready to wish myself at [[Home|home]], from
-  an apprehension that I should only expose myself to reproach, and
-  wound the cause I was embark'd in; for the heavens seem'd like
-  brass, and the earth as iron; such coldness and hardness, I thought,
-  could scarcely have ever been experienc'd before by any creature, so
-  great was the depth of my baptism at this [[Time|time]]; nevertheless, as I
-  endeavor'd to quiet my mind, in this conflicting dispensation, and
-  be resign'd to my allotment, however distressing, towards the latter
-  part of the meeting a ray of light broke through the surrounding
-  darkness, in which the Shepherd of Israel was pleas'd to arise, and
-  by the light of his glorious countenance, to scatter those clouds of
-  opposition. Then ability was receiv'd, and utterance given, to speak
-  of his marvellous works in the redemption of souls, and to op
-  the way of life and salvation, and the mysteries of his glorious
-  kingdom, which are hid from the wise and prudent of this world, and
-  reveal'd only unto those who are reduc'd into the state of little
-  children and babes in [[Christ]].
+In the forepart of this meeting, my mind was reduc'd into such a
+state of great weakness and depression, that my [[Faith|faith]] was almost
+ready to fail, which produc'd great searchings of heart, so that I
+was led to call in question all that I had ever before experienc'd.
+In this state of doubting, I was ready to wish myself at [[Home|home]], from
+an apprehension that I should only expose myself to reproach, and
+wound the cause I was embark'd in; for the heavens seem'd like
+brass, and the earth as iron; such coldness and hardness, I thought,
+could scarcely have ever been experienc'd before by any creature, so
+great was the depth of my baptism at this [[Time|time]]; nevertheless, as I
+endeavor'd to quiet my mind, in this conflicting dispensation, and
+be resign'd to my allotment, however distressing, towards the latter
+part of the meeting a ray of light broke through the surrounding
+darkness, in which the Shepherd of Israel was pleas'd to arise, and
+by the light of his glorious countenance, to scatter those clouds of
+opposition. Then ability was receiv'd, and utterance given, to speak
+of his marvellous works in the redemption of souls, and to op
+the way of life and salvation, and the mysteries of his glorious
+kingdom, which are hid from the wise and prudent of this world, and
+reveal'd only unto those who are reduc'd into the state of little
+children and babes in [[Christ]].
 
 And concluding another jaunt in 1794:
 
-  I was from [[Home|home]] in this [[Journey|journey]] about five months, and travell
-  by land and [[Water|water]] about two thousand two hundred and eighty-three
-  miles; having visited all the meetings of Friends in the [[New England]]
-  states, and many meetings amongst those of other professions; and
-  also visited many meetings, among Friends and others, in the upper
-  part of our own yearly meeting; and found real peace in my labors.
+I was from [[Home|home]] in this [[Journey|journey]] about five months, and travell
+by land and [[Water|water]] about two thousand two hundred and eighty-three
+miles; having visited all the meetings of Friends in the [[New England]]
+states, and many meetings amongst those of other professions; and
+also visited many meetings, among Friends and others, in the upper
+part of our own yearly meeting; and found real peace in my labors.
 
 Another 'tramp' in 1798:
 
-  I was absent from [[Home|home]] in this [[Journey|journey]] about five months and two
-  weeks, and rode about sixteen hundred miles, and attended about one
-  hundred and forty-three meetings.
+I was absent from [[Home|home]] in this [[Journey|journey]] about five months and two
+weeks, and rode about sixteen hundred miles, and attended about one
+hundred and forty-three meetings.
 
 Here are some memoranda of 1813, near [[Home|home]]:
 
-  First day. Our meeting this day pass'd in silent labor. The cloud
-  rested on the tabernacle; and, although it was a day of much rain
-  outwardly, yet very little of the dew of Hermon appear'd to distil
-  among us. Nevertheless, a comfortable calm was witness'd towards the
-  close, which we must render to the account of unmerited [[Mercy|mercy]] and
-  [[Love|love]].
+First day. Our meeting this day pass'd in silent labor. The cloud
+rested on the tabernacle; and, although it was a day of much rain
+outwardly, yet very little of the dew of Hermon appear'd to distil
+among us. Nevertheless, a comfortable calm was witness'd towards the
+close, which we must render to the account of unmerited [[Mercy|mercy]] and
+[[Love|love]].
 
-  Second day. Most of this day was occupied in a visit to a sick
-  friend, who appeared comforted therewith. Spent part of the evening
-  in reading part of Paul's Epistle to the Romans.
+Second day. Most of this day was occupied in a visit to a sick
+friend, who appeared comforted therewith. Spent part of the evening
+in reading part of Paul's Epistle to the Romans.
 
-  Third day. I was busied most of this day in my common vocations.
-  Spent the evening principally in reading Paul. Found considerable
-  satisfaction in his first epistle to the Corinthians; in which he
-  shows the danger of some in setting too high a value on those who
-  were instrumental in bringing them to the knowledge of the [[Truth|truth]],
-  without looking through and beyond the instrument, to the great
-  first cause and Author of every blessing, to whom all the praise and
-  honor are due.
+Third day. I was busied most of this day in my common vocations.
+Spent the evening principally in reading Paul. Found considerable
+satisfaction in his first epistle to the Corinthians; in which he
+shows the danger of some in setting too high a value on those who
+were instrumental in bringing them to the knowledge of the [[Truth|truth]],
+without looking through and beyond the instrument, to the great
+first cause and Author of every blessing, to whom all the praise and
+honor are due.
 
-  Fifth day, 1st of 4th month. At our meeting to-day found it, as
-  usual, a very close steady exercise to keep the mind center'
-  where it ought to be. What a multitude of intruding thoughts
-  imperceptibly, as it were, steal into the mind, and turn it from its
-  proper object, whenever it relaxes its vigilance in watching against
-  them. Felt a little strength, just at the close, to remind Friends
-  of the necessity of a steady perseverance, by a recapitulation of
-  the [[Parable|parable]] of the unjust judge, showing how men ought always to
-  pray, and not to faint.
+Fifth day, 1st of 4th month. At our meeting to-day found it, as
+usual, a very close steady exercise to keep the mind center'
+where it ought to be. What a multitude of intruding thoughts
+imperceptibly, as it were, steal into the mind, and turn it from its
+proper object, whenever it relaxes its vigilance in watching against
+them. Felt a little strength, just at the close, to remind Friends
+of the necessity of a steady perseverance, by a recapitulation of
+the [[Parable|parable]] of the unjust judge, showing how men ought always to
+pray, and not to faint.
 
-  Sixth day. Nothing material occurr'd, but a [[Fear|fear]] lest the cares of
-  the world should engross too much of my [[Time|time]].
+Sixth day. Nothing material occurr'd, but a [[Fear|fear]] lest the cares of
+the world should engross too much of my [[Time|time]].
 
-  Seventh day. Had an agreeable visit from two ancient friends, which
-  I have long lov'd. The rest of the day I employ'd in manual labor,
-  mostly in gardening.
+Seventh day. Had an agreeable visit from two ancient friends, which
+I have long lov'd. The rest of the day I employ'd in manual labor,
+mostly in gardening.
 
 But we find if we attend to records and details, we shall lay out an
 endless task. We can briefly say, summarily, that his whole life was
@@ -21237,18 +21237,18 @@ In one of the lives of Ralph Waldo Emerson is a list of lessons or
 instructions, ("seal'd orders" the biographer calls them,) prepar'd by
 the sage himself for his own guidance. Here is one:
 
-    Go forth with thy message among thy fellow-creatures; teach them that
-    they must trust themselves as guided by that inner light which dwells
-    with the pure in heart, to whom it was promis'd of old that they shall
-    see God.
+Go forth with thy message among thy fellow-creatures; teach them that
+they must trust themselves as guided by that inner light which dwells
+with the pure in heart, to whom it was promis'd of old that they shall
+see God.
 
 How thoroughly it fits the life and theory of Elias Hicks. Then in Omar
 Khayyam:
 
-    I sent my [[Soul|soul]] through the Invisible,
-      Some letter of that after-life to spell,
-    And by-and-by my [[Soul|soul]] return'd to me,
-      And answer'd, "I myself am Heaven and Hell."
+I sent my [[Soul|soul]] through the Invisible,
+Some letter of that after-life to spell,
+And by-and-by my [[Soul|soul]] return'd to me,
+And answer'd, "I myself am Heaven and Hell."
 
 Indeed, of this important element of the theory and practice of
 Quakerism, the difficult-to-describe "Light within" or "Inward Law, by
@@ -21265,82 +21265,82 @@ from it (even if presenting you a sheaf of hidden wheat that may need to
 be pick'd and thrash'd out several times before you get the grain,) we
 give the following extract:
 
-  I don't want to express a great many words; but I want you to be
-  call'd [[Home|home]] to the substance. For the Scriptures, and all the
-  books in the world, can do no more; Jesus could do no more than to
-  recommend to this Comforter, which was the light in him. "God is
-  light, and in him is no darkness at all; and if we walk in the
-  light, as he is in the light, we have fellowship one with another."
-  Because the light is one in all, and therefore it binds us together
-  in the bonds of [[Love|love]]; for it is not only light, but [[Love|love]]--that [[Love|love]]
-  which casts out all [[Fear|fear]]. So that they who dwell in God dwell in
-  [[Love|love]], and they are constrain'd to walk in it; and if they "walk in
-  it, they have fellowship one with another, and the [[Blood|blood]] of Jesus
-  [[Christ]] his Son cleanseth us from all sin."
+I don't want to express a great many words; but I want you to be
+call'd [[Home|home]] to the substance. For the Scriptures, and all the
+books in the world, can do no more; Jesus could do no more than to
+recommend to this Comforter, which was the light in him. "God is
+light, and in him is no darkness at all; and if we walk in the
+light, as he is in the light, we have fellowship one with another."
+Because the light is one in all, and therefore it binds us together
+in the bonds of [[Love|love]]; for it is not only light, but [[Love|love]]--that [[Love|love]]
+which casts out all [[Fear|fear]]. So that they who dwell in God dwell in
+[[Love|love]], and they are constrain'd to walk in it; and if they "walk in
+it, they have fellowship one with another, and the [[Blood|blood]] of Jesus
+[[Christ]] his Son cleanseth us from all sin."
 
-  But what [[Blood|blood]], my friends? Did Jesus [[Christ]], the Saviour, ever have
-  any material [[Blood|blood]]? Not a drop of it, my friends--not a drop of it.
-  That [[Blood|blood]] which cleanseth from the life of all sin, was the life of
-  the [[Soul|soul]] of Jesus. The [[Soul|soul]] of man has no material [[Blood|blood]]; but as the
-  outward material [[Blood|blood]], created from the [[Dust|dust]] of the earth, is the
-  life of these bodies of flesh, so with respect to the [[Soul|soul]], the
-  immortal and invisible spirit, its [[Blood|blood]] is that life which God
-  breath'd into it.
+But what [[Blood|blood]], my friends? Did Jesus [[Christ]], the Saviour, ever have
+any material [[Blood|blood]]? Not a drop of it, my friends--not a drop of it.
+That [[Blood|blood]] which cleanseth from the life of all sin, was the life of
+the [[Soul|soul]] of Jesus. The [[Soul|soul]] of man has no material [[Blood|blood]]; but as the
+outward material [[Blood|blood]], created from the [[Dust|dust]] of the earth, is the
+life of these bodies of flesh, so with respect to the [[Soul|soul]], the
+immortal and invisible spirit, its [[Blood|blood]] is that life which God
+breath'd into it.
 
-  As we read, in the beginning, that "God form'd man of the [[Dust|dust]] of
-  the ground, and breath'd into him the breath of life, and man became
-  a living [[Soul|soul]]." He breath'd into that [[Soul|soul]], and it became alive to
-  God.
+As we read, in the beginning, that "God form'd man of the [[Dust|dust]] of
+the ground, and breath'd into him the breath of life, and man became
+a living [[Soul|soul]]." He breath'd into that [[Soul|soul]], and it became alive to
+God.
 
 Then, from one of his many letters, for he seems to have delighted in
 correspondence:
 
-  Some may query, What is the [[Cross|cross]] of [[Christ]]? To these I answer, It
-  is the perfect law of God, written on the tablet of the hear
-  and in the heart of every rational creature, in such indelible
-  characters that all the power of mortals cannot erase nor obliterate
-  it. Neither is there any power or means given or dispens'd to the
-  children of men, but this inward law and light, by which the true
-  and saving knowledge of God can be obtain' d. And by this inward law
-  and light, all will be either justified or condemn'd, and all made
-  to know God for themselves, and be left without excuse, agreeably to
-  the prophecy of Jeremiah, and the corroborating testimony of Jesus
-  in his last counsel and command to his disciples, not to depart from
-  Jerusalem till they should receive power from on high; assuring them
-  that they should receive power, when they had receiv'd the pouring
-  forth of the spirit upon them, which would qualify them to bear
-  witness of him in Judea, Jerusalem, Samaria, and to the uttermost
-  parts of the earth; which was verified in a marvellous manner on the
-  day of Pentecost, when thousands were converted to the Christian
-  [[Faith|faith]] in one day.
+Some may query, What is the [[Cross|cross]] of [[Christ]]? To these I answer, It
+is the perfect law of God, written on the tablet of the hear
+and in the heart of every rational creature, in such indelible
+characters that all the power of mortals cannot erase nor obliterate
+it. Neither is there any power or means given or dispens'd to the
+children of men, but this inward law and light, by which the true
+and saving knowledge of God can be obtain' d. And by this inward law
+and light, all will be either justified or condemn'd, and all made
+to know God for themselves, and be left without excuse, agreeably to
+the prophecy of Jeremiah, and the corroborating testimony of Jesus
+in his last counsel and command to his disciples, not to depart from
+Jerusalem till they should receive power from on high; assuring them
+that they should receive power, when they had receiv'd the pouring
+forth of the spirit upon them, which would qualify them to bear
+witness of him in Judea, Jerusalem, Samaria, and to the uttermost
+parts of the earth; which was verified in a marvellous manner on the
+day of Pentecost, when thousands were converted to the Christian
+[[Faith|faith]] in one day.
 
-  By which it is evident that nothing but this inward light and law,
-  as it is heeded and obey'd, ever did, or ever can, make a true
-  and real Christian and [[Child|child]] of God. And until the professors
-  of [[Christianity]] agree to lay aside all their non-essentials in
-  religion, and rally to this unchangeable foundation and standard of
-  [[Truth|truth]], wars and fightings, confusion and error, will prevail, and
-  the angelic [[Song|song]] cannot be heard in our land--that of "glory to God
-  in the highest, and on earth peace and good will to men."
+By which it is evident that nothing but this inward light and law,
+as it is heeded and obey'd, ever did, or ever can, make a true
+and real Christian and [[Child|child]] of God. And until the professors
+of [[Christianity]] agree to lay aside all their non-essentials in
+religion, and rally to this unchangeable foundation and standard of
+[[Truth|truth]], wars and fightings, confusion and error, will prevail, and
+the angelic [[Song|song]] cannot be heard in our land--that of "glory to God
+in the highest, and on earth peace and good will to men."
 
-  But when all nations are made willing to make this inward law and
-  light the rule and standard of all their [[Faith|faith]] and works, then we
-  shall be brought to know and believe alike, that there is but one
-  Lord, one [[Faith|faith]], and but one baptism; one God and Father, that is
-  above all, through all, and in all.
+But when all nations are made willing to make this inward law and
+light the rule and standard of all their [[Faith|faith]] and works, then we
+shall be brought to know and believe alike, that there is but one
+Lord, one [[Faith|faith]], and but one baptism; one God and Father, that is
+above all, through all, and in all.
 
-  And then will all those glorious and consoling prophecies recorded
-  in the scriptures of [[Truth|truth]] be fulfill'd--"He," the Lord, "shall
-  judge among the nations, and shall rebuke many people; and they
-  shall beat their swords into ploughshares, and their spears into
-  pruning-hooks; nation shall not lift up the [[Sword|sword]] against nation,
-  neither shall they learn war any more. The wolf also shall dwell
-  with the [[Lamb|lamb]]; and the cow and the bear shall feed; and the [[Lion|lion]]
-  shall eat straw like the ox; and the sucking [[Child|child]] shall play
-  the hole of the asp, and the wean'd [[Child|child]] put his hand on the
-  cockatrice's den. They shall not hurt nor destroy in all my holy
-  mountain; for the earth," that is our earthly tabernacle, "shall be
-  full of the knowledge of the Lord, as the waters cover the sea."
+And then will all those glorious and consoling prophecies recorded
+in the scriptures of [[Truth|truth]] be fulfill'd--"He," the Lord, "shall
+judge among the nations, and shall rebuke many people; and they
+shall beat their swords into ploughshares, and their spears into
+pruning-hooks; nation shall not lift up the [[Sword|sword]] against nation,
+neither shall they learn war any more. The wolf also shall dwell
+with the [[Lamb|lamb]]; and the cow and the bear shall feed; and the [[Lion|lion]]
+shall eat straw like the ox; and the sucking [[Child|child]] shall play
+the hole of the asp, and the wean'd [[Child|child]] put his hand on the
+cockatrice's den. They shall not hurt nor destroy in all my holy
+mountain; for the earth," that is our earthly tabernacle, "shall be
+full of the knowledge of the Lord, as the waters cover the sea."
 
 The exposition in the last sentence, that the terms of the texts are not
 to be taken in their literal meaning, but in their spiritual one, and
@@ -21360,17 +21360,17 @@ no rule, no statement has given or can give inherent knowledge,
 intuition--not even the best speech, or best put forth, but launch'd out
 only by powerful human magnetism:
 
-    Unheard by sharpest ear--unformed in clearest eye, or cunningest
-      mind,
-    Nor lore, nor fame, nor happiness, nor wealth,
-    And yet the pulse of every heart and life throughout the world,
-      incessantly,
-    Which you and I, and all, pursuing ever, ever miss;
-    Open, but still a secret--the real of the real--an illusion;
-    Costless, vouchsafed to each, yet never man the owner;
-    Which poets vainly seek to put in rhyme----historians in prose;
-    Which sculptor never chisel'd yet, nor painter painted;
-    Which vocalist never sung, nor orator nor actor ever utter' d.
+Unheard by sharpest ear--unformed in clearest eye, or cunningest
+mind,
+Nor lore, nor fame, nor happiness, nor wealth,
+And yet the pulse of every heart and life throughout the world,
+incessantly,
+Which you and I, and all, pursuing ever, ever miss;
+Open, but still a secret--the real of the real--an illusion;
+Costless, vouchsafed to each, yet never man the owner;
+Which poets vainly seek to put in rhyme----historians in prose;
+Which sculptor never chisel'd yet, nor painter painted;
+Which vocalist never sung, nor orator nor actor ever utter' d.
 
 That remorse, too, for a mere worldly life--that [[Aspiration|aspiration]] towards the
 ideal, which, however overlaid, lies folded latent, hidden, in perhaps
@@ -21383,30 +21383,30 @@ incident.
 
 Soon afterward the old man died:
 
-  On first day morning, the 14th of 2d month (February, 1830,) he was
-  engaged in his room, writing to a friend, until a little after ten
-  o'[[Clock|clock]], when he return'd to that occupied by the family, apparently
-  just attack'd by a paralytic affection, which nearly deprived h
-  of the use of his right side, and of the power of speech. Being
-  assisted to a chair near the [[Fire|fire]], he manifested by signs, that the
-  letter which he had just finish'd, and which had been dropp'd
-  the way, should be taken care of; and on its being brought to him,
-  appear'd satisfied, and manifested a [[Desire|desire]] that all should sit down
-  and be still, seemingly sensible that his labours were brought to a
-  close, and only desirous of quietly waiting the final change. The
-  solemn composure at this [[Time|time]] manifest in his countenance, w
-  very impressive, indicating that he was sensible the [[Time|time]] of his
-  departure was at hand, and that the prospect of [[Death|death]] brought no
-  terrors with it. During his last illness, his mental faculti
-  were occasionally obscured, yet he was at times enabled to give
-  satisfactory evidence to those around him, that all was [[Well|well]], and
-  that he felt nothing in his way.
+On first day morning, the 14th of 2d month (February, 1830,) he was
+engaged in his room, writing to a friend, until a little after ten
+o'[[Clock|clock]], when he return'd to that occupied by the family, apparently
+just attack'd by a paralytic affection, which nearly deprived h
+of the use of his right side, and of the power of speech. Being
+assisted to a chair near the [[Fire|fire]], he manifested by signs, that the
+letter which he had just finish'd, and which had been dropp'd
+the way, should be taken care of; and on its being brought to him,
+appear'd satisfied, and manifested a [[Desire|desire]] that all should sit down
+and be still, seemingly sensible that his labours were brought to a
+close, and only desirous of quietly waiting the final change. The
+solemn composure at this [[Time|time]] manifest in his countenance, w
+very impressive, indicating that he was sensible the [[Time|time]] of his
+departure was at hand, and that the prospect of [[Death|death]] brought no
+terrors with it. During his last illness, his mental faculti
+were occasionally obscured, yet he was at times enabled to give
+satisfactory evidence to those around him, that all was [[Well|well]], and
+that he felt nothing in his way.
 
-  His funeral took place on fourth day, the 3rd of 3rd month. It was
-  attended by a large concourse of Friends and others, and a solid
-  meeting was held on the occasion; after which, his remains were
-  interr'd in Friends' burial-ground at this place (Jericho, Queens
-  county, [[New York]].)
+His funeral took place on fourth day, the 3rd of 3rd month. It was
+attended by a large concourse of Friends and others, and a solid
+meeting was held on the occasion; after which, his remains were
+interr'd in Friends' burial-ground at this place (Jericho, Queens
+county, [[New York]].)
 
 I have thought (even presented so incompletely, with such fearful
 hiatuses, and in my own feebleness and waning life) one might [[Well|well]]
@@ -21483,16 +21483,16 @@ genuine religious fervor. He was like an old Hebrew [[Prophet|prophet]]. He had 
 spirit of one, and in his later years look'd like one. What Carlyle says
 of John Knox will apply to him:
 
-  He is an instance to us how a man, by sincerity itself, becomes
-  heroic; it is the grand gift he has. We find in him a good, honest,
-  intellectual talent, no transcendent one;--a narrow, inconsiderable
-  man, as compared with Luther; but in heartfelt instinctive adherence
-  to [[Truth|truth]], in _sincerity_ as we say, he has no superior; nay, one
-  might ask, What equal he has? The heart of him is of the true
-  [[Prophet]] cast. "He lies there," said the Earl of Morton at Knox's
-  [[Grave|grave]], "who never [[Fear|fear]]'d the face of man." He resembles, more than
-  any of the moderns, an old Hebrew [[Prophet]]. The same inflexibility,
-  intolerance, rigid, narrow-looking adherence to God's [[Truth|truth]].
+He is an instance to us how a man, by sincerity itself, becomes
+heroic; it is the grand gift he has. We find in him a good, honest,
+intellectual talent, no transcendent one;--a narrow, inconsiderable
+man, as compared with Luther; but in heartfelt instinctive adherence
+to [[Truth|truth]], in _sincerity_ as we say, he has no superior; nay, one
+might ask, What equal he has? The heart of him is of the true
+[[Prophet]] cast. "He lies there," said the Earl of Morton at Knox's
+[[Grave|grave]], "who never [[Fear|fear]]'d the face of man." He resembles, more than
+any of the moderns, an old Hebrew [[Prophet]]. The same inflexibility,
+intolerance, rigid, narrow-looking adherence to God's [[Truth|truth]].
 
 _A Note yet. The United States to-day_.--While under all previous
 conditions (even convictions) of society, Oriental, Feudal,
@@ -22051,13 +22051,13 @@ return'd and echoed there again.
 
 [[Ship|SHIP]] AHOY
 
-    In [[Dreams|dreams]] I was a [[Ship|ship]], and sail'd the boundless seas,
-    Sailing and ever sailing--all seas and into every port, or out
-      upon the offing,
-    Saluting, cheerily hailing each mate, met or pass'd, little or big,
-    "[[Ship]] ahoy!" thro' trumpet or by voice--if nothing more, some
-      friendly merry word at least,
-    For companionship and good will for ever to all and each.
+In [[Dreams|dreams]] I was a [[Ship|ship]], and sail'd the boundless seas,
+Sailing and ever sailing--all seas and into every port, or out
+upon the offing,
+Saluting, cheerily hailing each mate, met or pass'd, little or big,
+"[[Ship]] ahoy!" thro' trumpet or by voice--if nothing more, some
+friendly merry word at least,
+For companionship and good will for ever to all and each.
 
 FOR [[Queen|QUEEN]] VICTORIA'S BIRTHDAY
 
@@ -22348,7 +22348,7 @@ eloquence seeming to call out, "You that pretend to give the news, and
 all that's going, why not give us a notice?" Truly, O fields, as for the
 notice,
 
-    "Take, we give it willingly."
+"Take, we give it willingly."
 
 Only we must do it our own way. Leaving the domestic, dietary, and
 commercial parts of the question (which are enormous, in fact, hardly
@@ -22388,7 +22388,7 @@ yellow-back'd, black-spotted lady-bug that has lit on the shirt-sleeve
 of the arm inditing this? Ending our list with the fall-drying grass,
 the [[Autumn]] days themselves,
 
-    Sweet days; so cool, so calm, so bright,
+Sweet days; so cool, so calm, so bright,
 
 (yet not so cool either, about [[Noon|noon]])--the [[Horse|horse]]-mint, the wild carrot,
 the mullein, and the bumble-bee.
@@ -22428,23 +22428,23 @@ suggestions. Certain music from wondrous voices or skilful players--then
 poetic glints still more--put the [[Soul|soul]] in rapport with [[Death|death]], or toward
 it. Hear a strain from Tennyson's late "Crossing the Bar":
 
-    Twilight and evening bell,
-        And after that the dark!
-    And may there be no sadness of farewell,
-        When I embark;
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
 
-    For tho' from out our bourne of [[Time]] and Place
-        The floods may bear me far,
-    I [[Hope|hope]] to see my Pilot face to face
-        When I have crost the bar.
+For tho' from out our bourne of [[Time]] and Place
+The floods may bear me far,
+I [[Hope|hope]] to see my Pilot face to face
+When I have crost the bar.
 
 Am I starting the sail-craft of poets in line? Here then a quatrain of
 Phrynichus long ago to one of old Athens' favorites:
 
-    Thrice-happy Sophocles! in good old age,
-    Bless'd as a man, and as a craftsman bless'd,
-    He died; his many tragedies were fair,
-    And fair his end, nor knew he any sorrow.
+Thrice-happy Sophocles! in good old age,
+Bless'd as a man, and as a craftsman bless'd,
+He died; his many tragedies were fair,
+And fair his end, nor knew he any sorrow.
 
 Certain music, indeed, especially voluntaries by a good player, at
 twilight--or idle rambles [[Alone|alone]] by the shore, or over prairie or
@@ -22460,14 +22460,14 @@ affected, even constituted, (the base stomachic) by every thing from
 that minute till the [[Time|time]] of its occurrence. And yet here is something
 (Whittier's "Burning Driftwood") of an opposite coloring:
 
-    I know the solemn monotone
-        Of waters calling unto me;
-    I know from whence the airs have blown,
-        That whisper of the Eternal Sea;
-    As low my fires of driftwood burn,
-        I hear that sea's deep sounds increase,
-    And, fair in sunset light, discern
-        Its mirage-lifted Isles of Peace.
+I know the solemn monotone
+Of waters calling unto me;
+I know from whence the airs have blown,
+That whisper of the Eternal Sea;
+As low my fires of driftwood burn,
+I hear that sea's deep sounds increase,
+And, fair in sunset light, discern
+Its mirage-lifted Isles of Peace.
 
 Like an invisible breeze after a long and sultry day, [[Death|death]] sometimes
 sets in at last, soothingly and refreshingly, almost vitally. In not
@@ -22483,15 +22483,15 @@ blunted or even gone.)
 Then to give the following, and cease before the thought gets
 threadbare:
 
-    Now, land and life, finale, and farewell!
-    Now Voyager depart! (much, much for thee is yet in store;)
-    Often enough hast thou adventur'd o'er the seas,
-    Cautiously cruising, studying the charts,
-    Duly again to port and hawser's tie returning.
-    --But now obey thy cherish'd, secret wish,
-    Embrace thy friends--leave all in order;
-    To port and hawser's tie no more returning,
-    Depart upon thy endless cruise, old Sailor!
+Now, land and life, finale, and farewell!
+Now Voyager depart! (much, much for thee is yet in store;)
+Often enough hast thou adventur'd o'er the seas,
+Cautiously cruising, studying the charts,
+Duly again to port and hawser's tie returning.
+--But now obey thy cherish'd, secret wish,
+Embrace thy friends--leave all in order;
+To port and hawser's tie no more returning,
+Depart upon thy endless cruise, old Sailor!
 
 SOME LAGGARDS YET
 
@@ -22656,65 +22656,65 @@ What I append--Health, old style--I have long treasur'd--found
 originally in some scrap-book fifty years ago--a favorite of mine (but
 quite a glaring contrast to my present bodily state:)
 
-    On a high rock above the vast abyss,
-      Whose solid base tumultuous waters lave;
-    Whose airy high-top balmy breezes kiss,
-      Fresh from the white foam of the circling wave--
+On a high rock above the vast abyss,
+Whose solid base tumultuous waters lave;
+Whose airy high-top balmy breezes kiss,
+Fresh from the white foam of the circling wave--
 
-    There ruddy HEALTH, in rude majestic state,
-      His clust'ring forelock combatting the winds--
-    Bares to each season's change his breast elate,
-      And still fresh vigor from th' encounter finds;
+There ruddy HEALTH, in rude majestic state,
+His clust'ring forelock combatting the winds--
+Bares to each season's change his breast elate,
+And still fresh vigor from th' encounter finds;
 
-    With mighty mind to every fortune braced,
-      To every climate each corporeal power,
-    And high-proof heart, impenetrably cased,
-      He mocks the quick transitions of the hour.
+With mighty mind to every fortune braced,
+To every climate each corporeal power,
+And high-proof heart, impenetrably cased,
+He mocks the quick transitions of the hour.
 
-    Now could he hug bleak Zembla's bolted [[Snow|snow]],
-      Now to Arabia's heated deserts turn,
-    Yet bids the biting blast more fiercely blow,
-      The scorching sun without abatement burn.
+Now could he hug bleak Zembla's bolted [[Snow|snow]],
+Now to Arabia's heated deserts turn,
+Yet bids the biting blast more fiercely blow,
+The scorching sun without abatement burn.
 
-    There this bold Outlaw, rising with the morn,
-      His sinewy functions fitted for the toil,
-    Pursues, with tireless steps, the rapturous horn,
-      And bears in triumph back the shaggy spoil.
+There this bold Outlaw, rising with the morn,
+His sinewy functions fitted for the toil,
+Pursues, with tireless steps, the rapturous horn,
+And bears in triumph back the shaggy spoil.
 
-    Or, on his rugged range of towering hills,
-      Turns the stiff glebe behind his hardy team;
-    His wide-spread heaths to blithest measures tills,
-      And boasts the joys of life are not [[A Dream|a dream]]!
+Or, on his rugged range of towering hills,
+Turns the stiff glebe behind his hardy team;
+His wide-spread heaths to blithest measures tills,
+And boasts the joys of life are not [[A Dream|a dream]]!
 
-    Then to his airy hut, at eve, retires,
-      Clasps to his open breast his buxom spouse,
-    Basks in his faggot's blaze, his passions fires,
-      And strait supine to rest unbroken bows.
+Then to his airy hut, at eve, retires,
+Clasps to his open breast his buxom spouse,
+Basks in his faggot's blaze, his passions fires,
+And strait supine to rest unbroken bows.
 
-    On his smooth forehead, [[Time]]'s old annual score,
-      Tho' left to furrow, yet disdains to lie;
-    He bids weak sorrow tantalize no more,
-      And puts the cup of care contemptuous by.
+On his smooth forehead, [[Time]]'s old annual score,
+Tho' left to furrow, yet disdains to lie;
+He bids weak sorrow tantalize no more,
+And puts the cup of care contemptuous by.
 
-    If, from some inland height, that, skirting, bears
-      Its rude encroachments far into the vale,
-    He views where poor dishonor'd [[Nature|nature]] wears
-      On her soft cheek [[Alone|alone]] the lily pale;
+If, from some inland height, that, skirting, bears
+Its rude encroachments far into the vale,
+He views where poor dishonor'd [[Nature|nature]] wears
+On her soft cheek [[Alone|alone]] the lily pale;
 
-    How will he scorn alliance with the race,
-      Those aspen shoots that shiver at a breath;
-    Children of sloth, that danger dare not face,
-      And find in life but an extended [[Death|death]]:
+How will he scorn alliance with the race,
+Those aspen shoots that shiver at a breath;
+Children of sloth, that danger dare not face,
+And find in life but an extended [[Death|death]]:
 
-    Then from the silken reptiles will he fly,
-      To the bold cliff in bounding transports run,
-    And stretch'd o'er many a wave his ardent eye,
-      Embrace the enduring Sea-Boy as his son!
+Then from the silken reptiles will he fly,
+To the bold cliff in bounding transports run,
+And stretch'd o'er many a wave his ardent eye,
+Embrace the enduring Sea-Boy as his son!
 
-    Yes! thine [[Alone|alone]]--from [[Pain|pain]], from sorrow free,
-      The lengthen'd life with peerless joys replete;
-    Then let me, Lord of [[Mountains]], share with thee
-      The hard, the early toil--the relaxation sweet.
+Yes! thine [[Alone|alone]]--from [[Pain|pain]], from sorrow free,
+The lengthen'd life with peerless joys replete;
+Then let me, Lord of [[Mountains]], share with thee
+The hard, the early toil--the relaxation sweet.
 
 GAY-HEARTEDNESS
 
@@ -22734,34 +22734,34 @@ silent the whole walk [[Home|home]].
 
 AS IN A SWOON.
 
-    As in a swoon, one instant,
-    Another sun, ineffable, full-dazzles me,
-    And all the orbs I knew--and brighter, unknown orbs;
-    One instant of the future land, Heaven's land.
+As in a swoon, one instant,
+Another sun, ineffable, full-dazzles me,
+And all the orbs I knew--and brighter, unknown orbs;
+One instant of the future land, Heaven's land.
 
 L. OF G.
 
-    Thoughts, suggestions, aspirations, pictures,
-    Cities and farms--by day and [[Night|night]]--book of peace and war,
-    Of platitudes and of the commonplace.
+Thoughts, suggestions, aspirations, pictures,
+Cities and farms--by day and [[Night|night]]--book of peace and war,
+Of platitudes and of the commonplace.
 
-    For out-door health, the land and sea--for good will,
-    For [[America]]--for all the earth, all nations, the common people,
-    (Not of one nation only--not [[America]] only.)
+For out-door health, the land and sea--for good will,
+For [[America]]--for all the earth, all nations, the common people,
+(Not of one nation only--not [[America]] only.)
 
-    In it each claim, ideal, line, by all lines, claims, ideals,
-      temper'd;
-    Each right and wish by other wishes, rights.
+In it each claim, ideal, line, by all lines, claims, ideals,
+temper'd;
+Each right and wish by other wishes, rights.
 
 AFTER THE ARGUMENT.
 
-    A group of little children with their ways and chatter flow in,
-    Like welcome rippling [[Water|water]] o'er my heated nerves and flesh.
+A group of little children with their ways and chatter flow in,
+Like welcome rippling [[Water|water]] o'er my heated nerves and flesh.
 
 FOR US TWO, READER DEAR.
 
-    Simple, spontaneous, curious, two souls interchanging,
-    With the original testimony for us continued to the last.
+Simple, spontaneous, curious, two souls interchanging,
+With the original testimony for us continued to the last.
 
 MEMORANDA
 
@@ -22904,7 +22904,7 @@ The gay and crowded audience at the Art Rooms, Philadelphia, Tuesday
 April 19, might not have thought that W. W. crawl'd out of a sick bed a
 few hours before, crying,
 
-    Dangers retreat when boldly they're confronted,
+Dangers retreat when boldly they're confronted,
 
 and went over, hoarse and half blind, to deliver his memoranda and [[Essay|essay]]
 on the [[Death|death]] of [[Abraham Lincoln]], on the twenty-fifth anniversary of that
@@ -23312,7 +23312,7 @@ give a favorite [[Song|song]] between the acts. "The Sea" at the bijou Olympic,
 (Broadway near Grand,) was always welcome from a little Englishman named
 Edwin, a good balladist. At the Bowery the loves of "Sweet William,"
 
-    "When on the Downs the fleet was moor'd,"
+"When on the Downs the fleet was moor'd,"
 
 always bro't an encore, and sometimes a treble.
 
@@ -23795,7 +23795,7 @@ End of the Project Gutenberg EBook of Complete Prose Works, by Walt Whitman
 
 
 
-<span class="atom-split" data-atom="story_01_specimen_days" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — SPECIMEN DAYS" data-chapter="Story 01 SPECIMEN DAYS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_specimen_days" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — SPECIMEN DAYS" data-chapter="SPECIMEN DAYS" data-kind="story"></span>
 
 
 SPECIMEN DAYS
@@ -23876,7 +23876,7 @@ told in a statement.
 
 
 
-<span class="atom-split" data-atom="story_02_answer_to_an_insisting_friend" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Answer to an Insisting Friend" data-chapter="Story 02 Answer to an Insisting Friend" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_answer_to_an_insisting_friend" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Answer to an Insisting Friend" data-chapter="Answer to an Insisting Friend" data-kind="story"></span>
 
 
 ANSWER TO AN INSISTING FRIEND
@@ -23903,7 +23903,7 @@ but those will be the best versions of what I want to convey.
 
 
 
-<span class="atom-split" data-atom="story_03_genealogy_van_velsor_and_whitman" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Genealogy--Van Velsor and Whitman" data-chapter="Story 03 Genealogy Van Velsor and Whitman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_genealogy_van_velsor_and_whitman" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Genealogy--Van Velsor and Whitman" data-chapter="Genealogy Van Velsor and Whitman" data-kind="story"></span>
 
 
 GENEALOGY--VAN VELSOR AND WHITMAN
@@ -23950,7 +23950,7 @@ folks lived, and where I was born.
 
 
 
-<span class="atom-split" data-atom="story_04_the_old_whitman_and_van_velsor_cemeterie" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Old Whitman and Van Velsor Cemeteries" data-chapter="Story 04 The Old Whitman and Van Velsor Cemeterie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_old_whitman_and_van_velsor_cemeterie" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Old Whitman and Van Velsor Cemeteries" data-chapter="The Old Whitman and Van Velsor Cemeterie" data-kind="story"></span>
 
 
 THE OLD WHITMAN AND VAN VELSOR CEMETERIES
@@ -24005,7 +24005,7 @@ fitting accompaniments.
 
 
 
-<span class="atom-split" data-atom="story_05_the_maternal_homestead" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Maternal Homestead" data-chapter="Story 05 The Maternal Homestead" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_maternal_homestead" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Maternal Homestead" data-chapter="The Maternal Homestead" data-kind="story"></span>
 
 
 THE MATERNAL HOMESTEAD
@@ -24044,7 +24044,7 @@ full Americanized specimen than Major Cornelius Van Velsor.
 
 
 
-<span class="atom-split" data-atom="story_06_old_family_interiors" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Old Family Interiors" data-chapter="Story 06 Old Family Interiors" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_old_family_interiors" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Old Family Interiors" data-chapter="Old Family Interiors" data-kind="story"></span>
 
 
 TWO OLD FAMILY INTERIORS
@@ -24207,7 +24207,7 @@ _Paumanacker_, or _Creole-'Paumanacker_."--_John Burroughs_.
 
 
 
-<span class="atom-split" data-atom="story_07_my_first_reading_lafayette" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My First Reading--Lafayette" data-chapter="Story 07 My First Reading Lafayette" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_my_first_reading_lafayette" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My First Reading--Lafayette" data-chapter="My First Reading Lafayette" data-kind="story"></span>
 
 
 MY FIRST READING--LAFAYETTE
@@ -24247,7 +24247,7 @@ spot in the excavation."--John Burroughs.
 
 
 
-<span class="atom-split" data-atom="story_08_printing_office_old_brooklyn" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Printing Office--Old Brooklyn" data-chapter="Story 08 Printing Office Old Brooklyn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_printing_office_old_brooklyn" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Printing Office--Old Brooklyn" data-chapter="Printing Office Old Brooklyn" data-kind="story"></span>
 
 
 PRINTING OFFICE--OLD BROOKLYN
@@ -24293,7 +24293,7 @@ Udall, and old Mr. Duflon, with his military [[Garden|garden]].
 
 
 
-<span class="atom-split" data-atom="story_09_growth_health_work" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Growth--Health--Work" data-chapter="Story 09 Growth Health Work" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_growth_health_work" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Growth--Health--Work" data-chapter="Growth Health Work" data-kind="story"></span>
 
 
 GROWTH--HEALTH--WORK
@@ -24321,7 +24321,7 @@ printer and writer, mostly prose, but an occasional shy at "poetry".
 
 
 
-<span class="atom-split" data-atom="story_10_my_passion_for_ferries" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Passion for Ferries" data-chapter="Story 10 My Passion for Ferries" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_my_passion_for_ferries" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Passion for Ferries" data-chapter="My Passion for Ferries" data-kind="story"></span>
 
 
 MY PASSION FOR FERRIES
@@ -24351,7 +24351,7 @@ Gere--how [[Well|well]] I remember them all.
 
 
 
-<span class="atom-split" data-atom="story_11_broadway_sights" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Broadway Sights" data-chapter="Story 11 Broadway Sights" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_broadway_sights" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Broadway Sights" data-chapter="Broadway Sights" data-kind="story"></span>
 
 
 BROADWAY SIGHTS
@@ -24399,7 +24399,7 @@ working as writer and printer, having my usual good health, and a good
 
 
 
-<span class="atom-split" data-atom="story_12_omnibus_jaunts_and_drivers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Omnibus Jaunts and Drivers" data-chapter="Story 12 Omnibus Jaunts and Drivers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_omnibus_jaunts_and_drivers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Omnibus Jaunts and Drivers" data-chapter="Omnibus Jaunts and Drivers" data-kind="story"></span>
 
 
 OMNIBUS JAUNTS AND DRIVERS
@@ -24439,7 +24439,7 @@ undoubtedly enter'd into the gestation of "[[Leaves]] of Grass.")
 
 
 
-<span class="atom-split" data-atom="story_13_plays_and_operas_too" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Plays and Operas too" data-chapter="Story 13 Plays and Operas too" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_plays_and_operas_too" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Plays and Operas too" data-chapter="Plays and Operas too" data-kind="story"></span>
 
 
 PLAYS AND OPERAS TOO
@@ -24499,7 +24499,7 @@ sea-walls could tell!)
 
 
 
-<span class="atom-split" data-atom="story_14_through_eight_years" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Through Eight Years" data-chapter="Story 14 Through Eight Years" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_through_eight_years" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Through Eight Years" data-chapter="Through Eight Years" data-kind="story"></span>
 
 
 THROUGH EIGHT YEARS.
@@ -24525,7 +24525,7 @@ touches, but succeeded at last.) I am now (1856-'7) passing through my
 
 
 
-<span class="atom-split" data-atom="story_15_sources_of_character_results_1860" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Sources of Character--Results--1860" data-chapter="Story 15 Sources of Character Results 1860" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_sources_of_character_results_1860" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Sources of Character--Results--1860" data-chapter="Sources of Character Results 1860" data-kind="story"></span>
 
 
 SOURCES OF CHARACTER--RESULTS--1860
@@ -24550,7 +24550,7 @@ field of war in Virginia. But I must go back a little.
 
 
 
-<span class="atom-split" data-atom="story_16_opening_of_the_secession_war" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Opening of the Secession War" data-chapter="Story 16 Opening of the Secession War" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_opening_of_the_secession_war" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Opening of the Secession War" data-chapter="Opening of the Secession War" data-kind="story"></span>
 
 
 OPENING OF THE SECESSION WAR
@@ -24575,7 +24575,7 @@ at midnight again.
 
 
 
-<span class="atom-split" data-atom="story_17_national_uprising_and_volunteering" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — National Uprising and Volunteering" data-chapter="Story 17 National Uprising and Volunteering" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_national_uprising_and_volunteering" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — National Uprising and Volunteering" data-chapter="National Uprising and Volunteering" data-kind="story"></span>
 
 
 NATIONAL UPRISING AND VOLUNTEERING
@@ -24607,7 +24607,7 @@ peaceful and harmonious disbanding of the armies in the [[Summer|summer]] of 186
 
 
 
-<span class="atom-split" data-atom="story_18_contemptuous_feeling" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Contemptuous Feeling" data-chapter="Story 18 Contemptuous Feeling" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_contemptuous_feeling" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Contemptuous Feeling" data-chapter="Contemptuous Feeling" data-kind="story"></span>
 
 
 CONTEMPTUOUS FEELING
@@ -24638,7 +24638,7 @@ return!
 
 
 
-<span class="atom-split" data-atom="story_19_battle_of_bull_run_july_1861" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Bull Run, July, 1861" data-chapter="Story 19 Battle of Bull Run July 1861" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_battle_of_bull_run_july_1861" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Bull Run, July, 1861" data-chapter="Battle of Bull Run July 1861" data-kind="story"></span>
 
 
 BATTLE OF BULL RUN, JULY, 1861
@@ -24750,7 +24750,7 @@ likely to see the last breath of the [[Union]] as to see it continue.)
 
 
 
-<span class="atom-split" data-atom="story_20_the_stupor_passes_something_else_begins" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Stupor Passes--Something Else Begins" data-chapter="Story 20 The Stupor Passes Something Else Begins" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_stupor_passes_something_else_begins" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Stupor Passes--Something Else Begins" data-chapter="The Stupor Passes Something Else Begins" data-kind="story"></span>
 
 
 THE STUPOR PASSES--SOMETHING ELSE BEGINS
@@ -24792,7 +24792,7 @@ extras of that period, and pass'd them silently to each other.)
 
 
 
-<span class="atom-split" data-atom="story_21_down_at_the_front" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Down at the Front" data-chapter="Story 21 Down at the Front" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_down_at_the_front" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Down at the Front" data-chapter="Down at the Front" data-kind="story"></span>
 
 
 DOWN AT THE FRONT
@@ -24824,7 +24824,7 @@ needing it.
 
 
 
-<span class="atom-split" data-atom="story_22_after_first_fredericksburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — After First Fredericksburg" data-chapter="Story 22 After First Fredericksburg" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_after_first_fredericksburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — After First Fredericksburg" data-chapter="After First Fredericksburg" data-kind="story"></span>
 
 
 AFTER FIRST FREDERICKSBURG
@@ -24855,7 +24855,7 @@ have built themselves huts of logs and mud, with [[Fire|fire]]-places.
 
 
 
-<span class="atom-split" data-atom="story_23_back_to_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Back to Washington" data-chapter="Story 23 Back to Washington" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_back_to_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Back to Washington" data-chapter="Back to Washington" data-kind="story"></span>
 
 
 BACK TO WASHINGTON
@@ -24921,7 +24921,7 @@ much in need.
 
 
 
-<span class="atom-split" data-atom="story_24_fifty_hours_left_wounded_on_the_field" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Fifty Hours Left Wounded on the Field" data-chapter="Story 24 Fifty Hours Left Wounded on the Field" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_fifty_hours_left_wounded_on_the_field" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Fifty Hours Left Wounded on the Field" data-chapter="Fifty Hours Left Wounded on the Field" data-kind="story"></span>
 
 
 FIFTY HOURS LEFT WOUNDED ON THE FIELD
@@ -24955,7 +24955,7 @@ field this way, one, two, or even four or five days.)
 
 
 
-<span class="atom-split" data-atom="story_25_hospital_scenes_and_persons" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Scenes and Persons" data-chapter="Story 25 Hospital Scenes and Persons" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_hospital_scenes_and_persons" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Scenes and Persons" data-chapter="Hospital Scenes and Persons" data-kind="story"></span>
 
 
 HOSPITAL SCENES AND PERSONS
@@ -25016,7 +25016,7 @@ of horehound candy I gave him, with one or two other trifles.
 
 
 
-<span class="atom-split" data-atom="story_26_patent_office_hospital" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Patent-Office Hospital" data-chapter="Story 26 Patent Office Hospital" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_patent_office_hospital" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Patent-Office Hospital" data-chapter="Patent Office Hospital" data-kind="story"></span>
 
 
 PATENT-OFFICE HOSPITAL
@@ -25049,7 +25049,7 @@ wounded have since been removed from there, and it is now vacant again.)
 
 
 
-<span class="atom-split" data-atom="story_27_the_white_house_house_by_moonlight" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The White House by Moonlight" data-chapter="Story 27 The White house House by Moonlight" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_white_house_house_by_moonlight" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The White House by Moonlight" data-chapter="The White house House by Moonlight" data-kind="story"></span>
 
 
 THE WHITE [[house|HOUSE]] BY MOONLIGHT
@@ -25075,7 +25075,7 @@ eyes, whichever way you move.
 
 
 
-<span class="atom-split" data-atom="story_28_an_army_hospital_ward" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — An Army Hospital Ward" data-chapter="Story 28 An Army Hospital Ward" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_an_army_hospital_ward" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — An Army Hospital Ward" data-chapter="An Army Hospital Ward" data-kind="story"></span>
 
 
 AN ARMY HOSPITAL WARD
@@ -25110,7 +25110,7 @@ tedious sickness, or the pangs of aggravated wounds.
 
 
 
-<span class="atom-split" data-atom="story_29_a_connecticut_case" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Connecticut Case" data-chapter="Story 29 A Connecticut Case" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_a_connecticut_case" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Connecticut Case" data-chapter="A Connecticut Case" data-kind="story"></span>
 
 
 A CONNECTICUT CASE
@@ -25137,7 +25137,7 @@ I must take dinner with him, which I did, and a very good one it was.
 
 
 
-<span class="atom-split" data-atom="story_30_brooklyn_boys" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Brooklyn Boys" data-chapter="Story 30 Brooklyn Boys" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_brooklyn_boys" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Brooklyn Boys" data-chapter="Brooklyn Boys" data-kind="story"></span>
 
 
 TWO BROOKLYN BOYS
@@ -25154,7 +25154,7 @@ of meeting Johnny Rebs.
 
 
 
-<span class="atom-split" data-atom="story_31_a_secesh_brave" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Secesh Brave" data-chapter="Story 31 A Secesh Brave" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_a_secesh_brave" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Secesh Brave" data-chapter="A Secesh Brave" data-kind="story"></span>
 
 
 A SECESH BRAVE
@@ -25173,7 +25173,7 @@ one of our men.
 
 
 
-<span class="atom-split" data-atom="story_32_the_wounded_from_chancellorsville" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Wounded from Chancellorsville" data-chapter="Story 32 The Wounded from Chancellorsville" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_wounded_from_chancellorsville" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Wounded from Chancellorsville" data-chapter="The Wounded from Chancellorsville" data-kind="story"></span>
 
 
 THE WOUNDED FROM CHANCELLORSVILLE
@@ -25303,7 +25303,7 @@ falls.)
 
 
 
-<span class="atom-split" data-atom="story_33_unnamed_remains_the_bravest_soldier" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Unnamed Remains the Bravest Soldier" data-chapter="Story 33 Unnamed Remains the Bravest Soldier" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_unnamed_remains_the_bravest_soldier" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Unnamed Remains the Bravest Soldier" data-chapter="Unnamed Remains the Bravest Soldier" data-kind="story"></span>
 
 
 UNNAMED REMAINS THE BRAVEST SOLDIER
@@ -25330,7 +25330,7 @@ unburied and unknown.
 
 
 
-<span class="atom-split" data-atom="story_34_some_specimen_cases" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Some Specimen Cases" data-chapter="Story 34 Some Specimen Cases" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_some_specimen_cases" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Some Specimen Cases" data-chapter="Some Specimen Cases" data-kind="story"></span>
 
 
 SOME SPECIMEN CASES
@@ -25419,7 +25419,7 @@ condition.) He died soon after she came.
 
 
 
-<span class="atom-split" data-atom="story_35_my_preparations_for_visits" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Preparations for Visits" data-chapter="Story 35 My Preparations for Visits" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_my_preparations_for_visits" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Preparations for Visits" data-chapter="My Preparations for Visits" data-kind="story"></span>
 
 
 MY PREPARATIONS FOR VISITS
@@ -25437,7 +25437,7 @@ possible.
 
 
 
-<span class="atom-split" data-atom="story_36_ambulance_processions" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Ambulance Processions" data-chapter="Story 36 Ambulance Processions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_ambulance_processions" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Ambulance Processions" data-chapter="Ambulance Processions" data-kind="story"></span>
 
 
 AMBULANCE PROCESSIONS
@@ -25455,7 +25455,7 @@ wharf, with loads from Aquia creek.
 
 
 
-<span class="atom-split" data-atom="story_37_bad_wounds_the_young" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Bad Wounds--the Young" data-chapter="Story 37 Bad Wounds the Young" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_bad_wounds_the_young" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Bad Wounds--the Young" data-chapter="Bad Wounds the Young" data-kind="story"></span>
 
 
 BAD WOUNDS--THE YOUNG
@@ -25476,7 +25476,7 @@ had fainted away and fallen to the floor.
 
 
 
-<span class="atom-split" data-atom="story_38_the_most_inspiriting_of_all_war_s_shows" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Most Inspiriting of all War's Shows" data-chapter="Story 38 The Most Inspiriting of all War s Shows" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_most_inspiriting_of_all_war_s_shows" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Most Inspiriting of all War's Shows" data-chapter="The Most Inspiriting of all War s Shows" data-kind="story"></span>
 
 
 THE MOST INSPIRITING OF ALL WAR'S SHOWS
@@ -25515,7 +25515,7 @@ wending along, bearing a large lot of wounded to the hospitals.
 
 
 
-<span class="atom-split" data-atom="story_39_battle_of_gettysburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Gettysburg" data-chapter="Story 39 Battle of Gettysburg" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_battle_of_gettysburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Gettysburg" data-chapter="Battle of Gettysburg" data-kind="story"></span>
 
 
 BATTLE OF GETTYSBURG
@@ -25548,7 +25548,7 @@ and the usual fusilades of boys' pistols, crackers, and guns.
 
 
 
-<span class="atom-split" data-atom="story_40_a_cavalry_camp" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Cavalry Camp" data-chapter="Story 40 A Cavalry Camp" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_a_cavalry_camp" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Cavalry Camp" data-chapter="A Cavalry Camp" data-kind="story"></span>
 
 
 A CAVALRY CAMP
@@ -25645,14 +25645,14 @@ and pleasantly the roof sent it all back again. They sang very [[Well|well]],
 mostly quaint old [[songs]] and declamatory hymns, to fitting tunes. Here,
 for instance:
 
-    My days are swiftly gliding by, and I a [[Pilgrim|pilgrim]] stranger,
-    Would not detain them as they fly, those hours of toil and danger;
-    For O we stand on Jordan's strand, our friends are passing over,
-    And just before, the shining shore we may almost discover.
-    We'll gird our loins my brethren dear, our distant [[Home|home]] discerning,
-    Our absent Lord has left us word, let every lamp be burning,
-    For O we stand on Jordan's strand, our friends are passing over,
-    And just before, the shining shore we may almost discover.
+My days are swiftly gliding by, and I a [[Pilgrim|pilgrim]] stranger,
+Would not detain them as they fly, those hours of toil and danger;
+For O we stand on Jordan's strand, our friends are passing over,
+And just before, the shining shore we may almost discover.
+We'll gird our loins my brethren dear, our distant [[Home|home]] discerning,
+Our absent Lord has left us word, let every lamp be burning,
+For O we stand on Jordan's strand, our friends are passing over,
+And just before, the shining shore we may almost discover.
 
 [[Abraham Lincoln|ABRAHAM LINCOLN]]
 
@@ -25702,7 +25702,7 @@ centuries ago is needed.
 
 
 
-<span class="atom-split" data-atom="story_41_heated_term" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Heated Term" data-chapter="Story 41 Heated Term" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_heated_term" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Heated Term" data-chapter="Heated Term" data-kind="story"></span>
 
 
 HEATED TERM
@@ -25728,7 +25728,7 @@ prouder.
 
 
 
-<span class="atom-split" data-atom="story_42_soldiers_and_talks" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Soldiers and Talks" data-chapter="Story 42 Soldiers and Talks" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_soldiers_and_talks" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Soldiers and Talks" data-chapter="Soldiers and Talks" data-kind="story"></span>
 
 
 SOLDIERS AND TALKS
@@ -25820,7 +25820,7 @@ went into rebellion?"
 
 
 
-<span class="atom-split" data-atom="story_43_hospitals_ensemble" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospitals Ensemble" data-chapter="Story 43 Hospitals Ensemble" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_hospitals_ensemble" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospitals Ensemble" data-chapter="Hospitals Ensemble" data-kind="story"></span>
 
 
 HOSPITALS ENSEMBLE
@@ -25889,7 +25889,7 @@ after midnight.
 
 
 
-<span class="atom-split" data-atom="story_44_spiritual_characters_among_the_soldiers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Spiritual Characters among the Soldiers" data-chapter="Story 44 Spiritual Characters among the Soldiers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_spiritual_characters_among_the_soldiers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Spiritual Characters among the Soldiers" data-chapter="Spiritual Characters among the Soldiers" data-kind="story"></span>
 
 
 SPIRITUAL CHARACTERS AMONG THE SOLDIERS
@@ -25915,7 +25915,7 @@ understanding that they are different from the rest, more silent,
 
 
 
-<span class="atom-split" data-atom="story_45_cattle_droves_about_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Cattle Droves about Washington" data-chapter="Story 45 Cattle Droves about Washington" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_cattle_droves_about_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Cattle Droves about Washington" data-chapter="Cattle Droves about Washington" data-kind="story"></span>
 
 
 CATTLE DROVES ABOUT WASHINGTON
@@ -25938,7 +25938,7 @@ shouting, hooting, movement, &c.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_01" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 1)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_01" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 1)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 HOSPITAL PERPLEXITY
@@ -26056,7 +26056,7 @@ unhappy State.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_02" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 2)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_02" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 2)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [[Summer|SUMMER]] OF 1864
@@ -26169,7 +26169,7 @@ then moved him to a [[house]], but he died in a few minutes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_03" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 3)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_03" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 3)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _Another_.--After the battles at Columbia, Tennessee, where we repuls'd
@@ -26281,7 +26281,7 @@ surrender'd, most had been thus maim'd or slaughter'd.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_04" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 4)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_04" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 4)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 At this instant a force of our cavalry, who had been following the
@@ -26390,7 +26390,7 @@ favorite. He had quite a funeral ceremony.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_05" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 5)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_05" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 5)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 ARMY SURGEONS--AID DEFICIENCIES
@@ -26495,7 +26495,7 @@ days since.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_06" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 6)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_06" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 6)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 FEMALE NURSES FOR SOLDIERS
@@ -26600,7 +26600,7 @@ accomplish all those wholesome designs.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_07" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 7)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_07" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 7)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _March 1st_.--Plenty more butternut or clay-color'd escapees every
@@ -26710,7 +26710,7 @@ hovering bird, right over him.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_08" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 8)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_08" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 8)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Indeed, the heavens, the elements, all the meteorological influences,
@@ -26823,7 +26823,7 @@ to surrender.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_09" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 9)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_09" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 9)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 WOUNDS AND DISEASES
@@ -26933,7 +26933,7 @@ imbecile, and will never recuperate.[8]
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_10" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 10)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_10" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 10)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Note:
@@ -27058,7 +27058,7 @@ is a text, "God doeth all things [[Well|well]]"--the meaning of which, after due
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_11" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 11)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_11" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 11)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I thought perhaps a few words, though from a stranger, about your son,
@@ -27173,7 +27173,7 @@ for his cause.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_12" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 12)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_12" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 12)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 SOME SAD CASES YET
@@ -27285,7 +27285,7 @@ the [[City|city]], made one useful result, at any rate, out of the war.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_13" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 13)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_13" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 13)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 TYPICAL SOLDIERS
@@ -27402,7 +27402,7 @@ Southerners, crumble to-day in Northern earth.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_14" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 14)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_14" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 14)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 And everywhere among these countless graves--everywhere in the many
@@ -27508,7 +27508,7 @@ skies.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_15" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 15)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_15" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 15)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 NEW THEMES ENTERED UPON
@@ -27629,7 +27629,7 @@ plover.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_16" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 16)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_16" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 16)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 BUMBLE-[[Bees|BEES]]
@@ -27714,34 +27714,34 @@ undertone to the whole, and to my mood and the hour. All of which I
 will bring to a close by extracting the following verses from Henry A.
 Beers's little volume:
 
-    As I lay yonder in tall grass
-    A drunken bumble-bee went past
+As I lay yonder in tall grass
+A drunken bumble-bee went past
 
-    Delirious with honey toddy.
-    The golden sash about his [[Body|body]]
-    Scarce kept it in his swollen belly
-    Distent with honeysuckle jelly.
-    [[Rose]] liquor and the sweet-pea wine
-    Had fill' d his [[Soul|soul]] with [[Song|song]] divine;
-    Deep had he drunk the warm [[Night|night]] through,
-    His hairy thighs were wet with dew.
-    Full many an antic he had play'd
-    While the world went round through [[Sleep|sleep]] and shade.
-    Oft had he lit with thirsty lip
-    Some flower-cup's nectar'd sweets to sip,
-    When on smooth petals he would slip,
-    Or over tangled stamens trip,
-    And headlong in the pollen roll'd,
-    Crawl out quite dusted o'er with gold;
-    Or else his heavy feet would stumble
-    Against some bud, and down he'd tumble
-    Amongst the grass; there lie and grumble
-    In low, soft bass--poor maudlin bumble!
-
-
+Delirious with honey toddy.
+The golden sash about his [[Body|body]]
+Scarce kept it in his swollen belly
+Distent with honeysuckle jelly.
+[[Rose]] liquor and the sweet-pea wine
+Had fill' d his [[Soul|soul]] with [[Song|song]] divine;
+Deep had he drunk the warm [[Night|night]] through,
+His hairy thighs were wet with dew.
+Full many an antic he had play'd
+While the world went round through [[Sleep|sleep]] and shade.
+Oft had he lit with thirsty lip
+Some flower-cup's nectar'd sweets to sip,
+When on smooth petals he would slip,
+Or over tangled stamens trip,
+And headlong in the pollen roll'd,
+Crawl out quite dusted o'er with gold;
+Or else his heavy feet would stumble
+Against some bud, and down he'd tumble
+Amongst the grass; there lie and grumble
+In low, soft bass--poor maudlin bumble!
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_17" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 17)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+
+
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_17" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 17)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 CEDAR-APPLES
@@ -27854,7 +27854,7 @@ not sweet, but far better than sweet.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_18" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 18)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_18" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 18)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But the katydid--how shall I describe its piquant utterances? One sings
@@ -27922,24 +27922,24 @@ completest, highest [[Beauty|beauty]].
 
 _Trees I am familiar with here_.
 
-   Oaks, (many kinds--one sturdy                       Willows.
-     old fellow, vital, green, bushy,                  Catalpas.
-     five feet thick at the butt, I sit                Persimmons.
-     under every day,)                                 Mountain-ash.
-   Cedars plenty.                                      Hickories.
-   Tulip trees, (_Liriodendron,_) is of                Maples, many kinds.
-     the magnolia family--I have                       Locusts.
-     seen it in Michigan and southern                  Birches.
-     Illinois, 140 feet high and                       Dogwood.
-     8 feet thick at the butt [A]; does                Pine.
-     not transplant [[Well|well]]; best rais'd                  the Elm.
-     from seeds--(the lumbermen                        Chesnut.
-     call it yellow poplar.)                           Linden.
-   Sycamores.                                          Aspen.
-   Gum trees, both sweet and sour.                     Spruce.
-   Beeches.                                            Hornbeam.
-   Black-walnuts.                                      Laurel.
-   Sassafras.                                          Holly.
+Oaks, (many kinds--one sturdy                       Willows.
+old fellow, vital, green, bushy,                  Catalpas.
+five feet thick at the butt, I sit                Persimmons.
+under every day,)                                 Mountain-ash.
+Cedars plenty.                                      Hickories.
+Tulip trees, (_Liriodendron,_) is of                Maples, many kinds.
+the magnolia family--I have                       Locusts.
+seen it in Michigan and southern                  Birches.
+Illinois, 140 feet high and                       Dogwood.
+8 feet thick at the butt [A]; does                Pine.
+not transplant [[Well|well]]; best rais'd                  the Elm.
+from seeds--(the lumbermen                        Chesnut.
+call it yellow poplar.)                           Linden.
+Sycamores.                                          Aspen.
+Gum trees, both sweet and sour.                     Spruce.
+Beeches.                                            Hornbeam.
+Black-walnuts.                                      Laurel.
+Sassafras.                                          Holly.
 
 [[Autumn|AUTUMN]] SIDE-BITS
 
@@ -27959,7 +27959,7 @@ September breeze, with pensive cadence through the tree tops.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_19" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 19)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_19" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 19)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _Another Day_.--The ground in all directions strew'd with _d�bris_ from
@@ -28048,12 +28048,12 @@ myriads--the great path of the Milky Way, with its branch, only seen
 of very clear nights--Jupiter, setting in the west, looks like a huge
 hap-hazard splash, and has a little star for companion.
 
-    Clothed in his white garments,
-    Into the round and clear arena slowly entered the brahmin,
-    Holding a little [[Child|child]] by the hand,
-    Like the [[Moon|moon]] with the planet Jupiter in a cloudless [[Night|night]]-sky.
+Clothed in his white garments,
+Into the round and clear arena slowly entered the brahmin,
+Holding a little [[Child|child]] by the hand,
+Like the [[Moon|moon]] with the planet Jupiter in a cloudless [[Night|night]]-sky.
 
-    _Old Hindu Poem._
+_Old Hindu Poem._
 
 _Early in November._--At its farther end the lane already described
 opens into a broad grassy upland field of over twenty acres, slightly
@@ -28071,7 +28071,7 @@ patient horses waiting.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_20" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 20)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_20" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 20)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 COLORS--A CONTRAST
@@ -28183,7 +28183,7 @@ at [[Night|night]] and can hear and see it plainly.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_21" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 21)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_21" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 21)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 IN [[Memory|MEMORY]] OF THOMAS PAINE.
@@ -28291,7 +28291,7 @@ distinctly.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_22" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 22)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_22" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 22)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [[spring|SPRING]] OVERTURES--RECREATIONS
@@ -28399,7 +28399,7 @@ upturn'd.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_23" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 23)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_23" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 23)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [[Birds|BIRDS]] AND [[Birds|BIRDS]] AND [[Birds|BIRDS]]
@@ -28510,7 +28510,7 @@ restlessness conveying a sense of eternal rest.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_24" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 24)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_24" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 24)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _Other adjuncts._--But the sun and the [[Moon|moon]] here and these times. As
@@ -28627,7 +28627,7 @@ than I ever thought.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_25" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 25)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_25" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 25)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But now pleasantly imprison'd here under the big oak--the rain dripping,
@@ -28655,11 +28655,11 @@ While I have been kept by the rain under the shelter of my great oak,
 I have pencill'd off the mood of the hour in a little quintette, which I
 will give you:
 
-    At vacancy with [[Nature]],
-    Acceptive and at ease,
-    Distilling the present hour,
-    Whatever, wherever it is,
-    And over the past, oblivion.
+At vacancy with [[Nature]],
+Acceptive and at ease,
+Distilling the present hour,
+Whatever, wherever it is,
+And over the past, oblivion.
 
 Can you get hold of it, reader dear? and how do you like it anyhow?
 
@@ -28755,7 +28755,7 @@ insensibly, really, liked Billy Alcott.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_26" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 26)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_26" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 26)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I, too, loved him. At last, after being with him quite a good
@@ -28858,7 +28858,7 @@ tug and snort.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_27" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 27)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_27" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 27)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 (Robert Burns says in one of his letters: "There is scarcely any earthly
@@ -28974,7 +28974,7 @@ while.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_28" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 28)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_28" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 28)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [[Horse|HORSE]]-MINT
@@ -29053,15 +29053,15 @@ from the mellow-stain'd windows-the pronounc'd eulogy on the bard who
 loved [[Nature]] so fondly, and sung so [[Well|well]] her shows and [[Seasons|seasons]]--ending
 with these appropriate [[Well|well]]-known lines:
 
-    I gazed upon the glorious sky,
-      And the green [[Mountains|mountains]] round,
-    And thought that when I came to lie
-      At rest within the ground,
-    'Twere pleasant that in flowery June,
-    When brooks send up a joyous tune,
-      And groves a cheerful sound,
-    The sexton's hand, my [[Grave|grave]] to make,
-    The rich green mountain turf should break.
+I gazed upon the glorious sky,
+And the green [[Mountains|mountains]] round,
+And thought that when I came to lie
+At rest within the ground,
+'Twere pleasant that in flowery June,
+When brooks send up a joyous tune,
+And groves a cheerful sound,
+The sexton's hand, my [[Grave|grave]] to make,
+The rich green mountain turf should break.
 
 JAUNT UP THE HUDSON
 
@@ -29083,7 +29083,7 @@ the woods--make up the scene.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_29" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 29)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_29" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 29)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 HAPPINESS AND RASPBERRIES
@@ -29190,7 +29190,7 @@ heaven above, and June haze on the surface below.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_30" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 30)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_30" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 30)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 HUMAN AND HEROIC [[New York|NEW YORK]]
@@ -29285,7 +29285,7 @@ All silently--the indescribable [[Night|night]] and [[Stars|stars]]--far off and
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_31" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 31)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_31" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 31)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE [[Dawn|DAWN]].--_July 23_.--This morning, between one and two hours before
@@ -29350,19 +29350,19 @@ shifting, delicate color-effects of pellucid green and tawny vapor. Let
 me conclude this part with an extract, (some writer in the "Tribune,"
 May 16, 1878):
 
-  No one ever gets tired of the [[Moon|moon]]. Goddess that she is by dower of
-  her eternal [[Beauty|beauty]], she is a true woman by her tact--knows the charm
-  of being seldom seen, of coming by surprise and staying but a little
-  while; never wears the same dress two nights running, nor all [[Night|night]]
-  the same way; commends herself to the matter-of-fact people by her
-  usefulness, and makes her uselessness adored by poets, artists, and
-  all [[lovers]] in all lands; lends herself to every symbolism and to
-  every emblem; is [[Diana]]'s bow and [[Venus]]'s [[Mirror|mirror]] and Mary's throne;
-  is a sickle, a scarf, an eyebrow, his face or her face, and look'd
-  at by her or by him; is the madman's hell, the poet's heaven, the
-  baby's toy, the philosopher's study; and while her admirers follow
-  her footsteps, and hang on her lovely looks, she knows how to keep
-  her woman's secret--her other side--unguess'd and unguessable.
+No one ever gets tired of the [[Moon|moon]]. Goddess that she is by dower of
+her eternal [[Beauty|beauty]], she is a true woman by her tact--knows the charm
+of being seldom seen, of coming by surprise and staying but a little
+while; never wears the same dress two nights running, nor all [[Night|night]]
+the same way; commends herself to the matter-of-fact people by her
+usefulness, and makes her uselessness adored by poets, artists, and
+all [[lovers]] in all lands; lends herself to every symbolism and to
+every emblem; is [[Diana]]'s bow and [[Venus]]'s [[Mirror|mirror]] and Mary's throne;
+is a sickle, a scarf, an eyebrow, his face or her face, and look'd
+at by her or by him; is the madman's hell, the poet's heaven, the
+baby's toy, the philosopher's study; and while her admirers follow
+her footsteps, and hang on her lovely looks, she knows how to keep
+her woman's secret--her other side--unguess'd and unguessable.
 
 _Furthermore. February 19, 1880_.--Just before 10 P.M. cold and entirely
 clear again, the show overhead, bearing southwest, of wonderful and
@@ -29410,7 +29410,7 @@ of the maples and willows.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_32" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 32)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_32" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 32)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _Aug. 20_.--Butterflies and butterflies, (taking the place of the
@@ -29495,17 +29495,17 @@ comfort in half-sickness, (and not by any means sure but they will
 somehow get [[Wind|wind]] of the compliment,) I hereby dedicate the last half of
 these Specimen Days to the
 
-  [[Bees|bees]],                                     glow-worms, (swarming millions
-  black-[[Birds|birds]],                                of them indescribably
-  dragon-flies,                               strange and beautiful at [[Night|night]]
-  pond-turtles,                               over the pond and creek,)
-  mulleins, tansy, peppermint,              [[Water|water]]-snakes,
-  moths, (great and little, some            crows,
-          splendid fellows,)                millers,
-  mosquitoes,                               cedars,
-  butterflies,                              tulip-trees, (and all other trees,)
-  wasps and hornets,                          and to the spots and memories
-  cat-[[Birds|birds]], (and all other [[Birds|birds]],)           of those days, and the creek.
+[[Bees|bees]],                                     glow-worms, (swarming millions
+black-[[Birds|birds]],                                of them indescribably
+dragon-flies,                               strange and beautiful at [[Night|night]]
+pond-turtles,                               over the pond and creek,)
+mulleins, tansy, peppermint,              [[Water|water]]-snakes,
+moths, (great and little, some            crows,
+splendid fellows,)                millers,
+mosquitoes,                               cedars,
+butterflies,                              tulip-trees, (and all other trees,)
+wasps and hornets,                          and to the spots and memories
+cat-[[Birds|birds]], (and all other [[Birds|birds]],)           of those days, and the creek.
 
 DELAWARE [[River|RIVER]]--DAYS AND NIGHTS
 
@@ -29524,7 +29524,7 @@ those saucy little bull-pups of the current, the steamtugs.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_33" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 33)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_33" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 33)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But let me bunch and catalogue the affair--the [[River|river]] itself, all the
@@ -29620,7 +29620,7 @@ replenish the stove, and clearing it with long crow-bar poker.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_34" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 34)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_34" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 34)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Besides all this "[[Comedy|comedy]] human," the [[River|river]] affords nutriment of a
@@ -29691,13 +29691,13 @@ myself. I am reminded of that [[spring]] preceding [[Abraham Lincoln]]'s murder,
 when I, restlessly haunting the Potomac banks, around Washington [[City|city]],
 watch'd you, off there, aloof, moody as myself:
 
-    As we walk'd up and down in the dark blue so mystic,
-    As we walk'd in [[Silence|silence]] the transparent shadowy [[Night|night]],
-    As I saw you had something to tell, as you bent to me [[Night|night]] after
-      [[Night|night]],
-    As you droop from the sky low down, as if to my side, (while the
-      other [[Stars|stars]] all look'd on,)
-    As we wander'd together the solemn [[Night|night]].
+As we walk'd up and down in the dark blue so mystic,
+As we walk'd in [[Silence|silence]] the transparent shadowy [[Night|night]],
+As I saw you had something to tell, as you bent to me [[Night|night]] after
+[[Night|night]],
+As you droop from the sky low down, as if to my side, (while the
+other [[Stars|stars]] all look'd on,)
+As we wander'd together the solemn [[Night|night]].
 
 With departing [[Venus]], large to the last, and shining even to the edge
 of the horizon, the vast dome presents at this moment, such a spectacle!
@@ -29759,13 +29759,13 @@ windows--are they not about the same, the civilized world over?)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_35" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 35)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_35" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 35)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
-    How fast the flitting figures come!
-        The mild, the fierce, the stony face;
-    Some bright with thoughtless smiles--and some
-        Where secret [[Tears|tears]] have left their trace.
+How fast the flitting figures come!
+The mild, the fierce, the stony face;
+Some bright with thoughtless smiles--and some
+Where secret [[Tears|tears]] have left their trace.
 
 A few days ago one of the six-story clothing stores along here had
 the space inside its plate-glass show-[[Window|window]] partition'd into a little
@@ -29864,7 +29864,7 @@ ease and moderate [[Freedom|freedom]], but did not unbosom his life, or story, o
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_36" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 36)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_36" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 36)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 AN ULSTER COUNTY WATERFALL
@@ -29978,7 +29978,7 @@ glitter, magnetism, and happiness.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_37" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 37)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_37" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 37)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Second: also from 5 to 7 P.M. the stretch of Fifth avenue, all the way
@@ -30093,7 +30093,7 @@ steam whistles, kissing of hands and waving of handkerchiefs.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_38" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 38)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_38" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 38)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 This departing of the big steamers, noons or afternoons--there is no
@@ -30196,7 +30196,7 @@ pile impress one as it impress'd me those fifteen minutes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_39" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 39)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_39" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 39)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 To-[[Night|night]], since, I have been long on the [[River|river]]. I watch the C-shaped
@@ -30302,7 +30302,7 @@ eastern eyes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_40" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 40)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_40" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 40)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 LAWRENCE AND TOPEKA, KANSAS
@@ -30411,7 +30411,7 @@ the bright sun in this pure air. But I had better commence with the day.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_41" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 41)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_41" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 41)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The confronting of Platte ca�on just at [[Dawn|dawn]], after a ten miles' ride in
@@ -30516,7 +30516,7 @@ Adirondacks, the Catskills, and the White [[Mountains]], range from 2000 to
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_42" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 42)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_42" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 42)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE PARKS
@@ -30622,7 +30622,7 @@ definite and strong that I must put it on record."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_43" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 43)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_43" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 43)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 So much for my feeling toward the [[Queen]] [[City|city]] of the plains and peaks,
@@ -30733,7 +30733,7 @@ arms slightly raised and swinging as they ride.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_44" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 44)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_44" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 44)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE SPANISH PEAKS--EVENING ON THE PLAINS
@@ -30848,7 +30848,7 @@ country.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_45" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 45)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_45" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 45)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Will the day ever come--no matter how long deferr'd--when those
@@ -30961,7 +30961,7 @@ seem to have concentrated upon him.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_46" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 46)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_46" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 46)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 PRESIDENT HAYES'S SPEECHES
@@ -31082,7 +31082,7 @@ which is next best to fully exemplifying it.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_47" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 47)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_47" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 47)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Almost without the first sign of moral principle, or of the concrete
@@ -31188,7 +31188,7 @@ sea, sky, shore--and then disappearing in the distance.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_48" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 48)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_48" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 48)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 LOAFING IN THE WOODS
@@ -31302,10 +31302,10 @@ humanity, mine and yours, everywhere:
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_49" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 49)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_49" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 49)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
-    "The same old [[Blood|blood]]--the same red, running [[Blood|blood]];"
+"The same old [[Blood|blood]]--the same red, running [[Blood|blood]];"
 
 yet behind most, an inferr'd arriere of such storms, such wrecks, such
 mysteries, fires, [[Love|love]], wrong, [[Greed|greed]] for wealth, religious problems,
@@ -31321,19 +31321,19 @@ unanswerable. A very fair choir, and melodeon accompaniment. They sang
 also He led them with a cloud, and all the [[Night|night]] with a light of fire_.
 Then the words:
 
-    Lead, kindly light, amid the encircling gloom,
-             Lead thou me on.
-    The [[Night|night]] is dark, and I am far from [[Home|home]];
-             Lead thou me on.
-    Keep thou my feet; I do not ask to see
-    The distant scene; one step enough for me.
+Lead, kindly light, amid the encircling gloom,
+Lead thou me on.
+The [[Night|night]] is dark, and I am far from [[Home|home]];
+Lead thou me on.
+Keep thou my feet; I do not ask to see
+The distant scene; one step enough for me.
 
-    I was not ever thus, nor pray'd that thou
-             Should'st lead me on;
-    I lov'd to choose and see my path; but now
-             Lead thou me on.
-    I loved the garish day, and spite of fears
-    [[Pride]] ruled my will; remember not past years.
+I was not ever thus, nor pray'd that thou
+Should'st lead me on;
+I lov'd to choose and see my path; but now
+Lead thou me on.
+I loved the garish day, and spite of fears
+[[Pride]] ruled my will; remember not past years.
 
 A couple of days after, I went to the "Refractory building," under
 special charge of Dr. Beemer, and through the wards pretty thoroughly,
@@ -31355,11 +31355,11 @@ a little post-office roll by a rare old engraved head of Elias Hicks,
 been 60 years or more ago, in [[New York]])--among the rest the following
 excerpt about E. H. in the letter:
 
-  "I have listen'd to his preaching so often when a [[Child|child]], and sat with
-  my mother at social gatherings where he was the centre, and every one
-  so pleas'd and stirr'd by his conversation. I hear that you contemplate
-  writing or speaking about him, and I [[Wonder|wonder]]'d whether you had a picture
-  of him. As I am the owner of two, I send you one."
+"I have listen'd to his preaching so often when a [[Child|child]], and sat with
+my mother at social gatherings where he was the centre, and every one
+so pleas'd and stirr'd by his conversation. I hear that you contemplate
+writing or speaking about him, and I [[Wonder|wonder]]'d whether you had a picture
+of him. As I am the owner of two, I send you one."
 
 GRAND NATIVE GROWTH
 
@@ -31420,7 +31420,7 @@ deck of the steamer.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_50" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 50)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_50" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 50)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE SAVAGE SAGUENAY
@@ -31562,7 +31562,7 @@ latter the nearest, dearest trait affinity of all.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_51" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 51)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_51" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 51)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Then reader dear, in conclusion, as to the point of the name for the
@@ -31585,30 +31585,30 @@ Note:
 [11] In the pocket of my receptacle-book I find a list of suggested and
 rejected names for this volume, or parts of it--such as the following:
 
-              _As the wild bee hums in May,
-              & August mulleins grow,
-              & [[Winter]] [[Snow|snow]]-flakes fall,
-              & [[Stars|stars]] in the sky roll round._
+_As the wild bee hums in May,
+& August mulleins grow,
+& [[Winter]] [[Snow|snow]]-flakes fall,
+& [[Stars|stars]] in the sky roll round._
 
-             _Away from Books--away from Art,
-             Now for the Day and [[Night]]--the lessons done,
-             Now for the Sun and [[Stars]]._
+_Away from Books--away from Art,
+Now for the Day and [[Night]]--the lessons done,
+Now for the Sun and [[Stars]]._
 
-    _Notes of a Half-Paralytic,         As Voices in the Dusk, from
-    Week in and Week out,               Speakers far or hid,
-    Embers of Ending Days,              Autochthons....Embryons,
-    Ducks and Drakes,                   Wing-and-Wing,
-    Flood Tide and Ebb,                 Notes and Recalles.
-    Gossip at Early Candle-light,       Only Mulleins and Bumble-[[Bees]],
-    Echoes and Escapades,               Pond-Babble....T�te-a-T�tes,
-    Such as I....Evening Dews,          Echoes of a Life in the 19th
-    Notes and Writing a Book,             Century in the New World,
-    Far and Near at 63,                 Flanges of Fifty Years,
-    Drifts and Cumulus,                 Abandons....Hurry Notes,
-    Maize-Tassels....Kindlings,         A Life-Mosaic....Native Moments,
-    Fore and Aft....Vestibules,         Types and Semi-Tones,
-    Scintilla at 60 and after,          Oddments....Sand-Drifts,
-    Sands on the Shores of 64,          Again and Again._
+_Notes of a Half-Paralytic,         As Voices in the Dusk, from
+Week in and Week out,               Speakers far or hid,
+Embers of Ending Days,              Autochthons....Embryons,
+Ducks and Drakes,                   Wing-and-Wing,
+Flood Tide and Ebb,                 Notes and Recalles.
+Gossip at Early Candle-light,       Only Mulleins and Bumble-[[Bees]],
+Echoes and Escapades,               Pond-Babble....T�te-a-T�tes,
+Such as I....Evening Dews,          Echoes of a Life in the 19th
+Notes and Writing a Book,             Century in the New World,
+Far and Near at 63,                 Flanges of Fifty Years,
+Drifts and Cumulus,                 Abandons....Hurry Notes,
+Maize-Tassels....Kindlings,         A Life-Mosaic....Native Moments,
+Fore and Aft....Vestibules,         Types and Semi-Tones,
+Scintilla at 60 and after,          Oddments....Sand-Drifts,
+Sands on the Shores of 64,          Again and Again._
 
 [[Death|DEATH]] OF THOMAS CARLYLE
 
@@ -31685,7 +31685,7 @@ salve or defend such stupendous hoggishness.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_52" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 52)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_52" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 52)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The way to test how much he has left his country were to consider,
@@ -31796,7 +31796,7 @@ was no emigration.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_53" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 53)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_53" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 53)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Carlyle's work in the sphere of literature as he commenced and carried
@@ -31899,7 +31899,7 @@ to be had.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_54" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 54)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_54" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 54)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 There is, apart from mere intellect, in the make-up of every superior
@@ -31996,7 +31996,7 @@ certainly destin'd to failures, after causing great [[Suffering|suffering]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_55" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 55)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_55" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 55)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Theology, Hegel translates into science.[16] All apparent contradictions
@@ -32099,7 +32099,7 @@ modern--or rather, I should say, it _is_ [[Democracy|democracy]], and _is_ the m
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_56" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 56)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_56" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 56)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [16] I am much indebted to J. Gostick's abstract.
@@ -32141,12 +32141,12 @@ incubation responsibilities. The frolics are deferr'd till [[Summer|summer]]-clo
 I don't know as I can finish to-day's memorandum better than with
 Coleridge's lines, curiously appropriate in more ways than one:
 
-    All [[Nature]] seems at work--slugs leave their lair,
-    The [[Bees|bees]] are stirring--[[Birds|birds]] are on the wing,
-    And [[Winter|winter]], slumbering in the open air,
-    Wears on his smiling face [[A Dream|a dream]] of [[spring]];
-    And I, the while, the sole unbusy thing,
-    Nor honey make, nor pair, nor build, nor sing.
+All [[Nature]] seems at work--slugs leave their lair,
+The [[Bees|bees]] are stirring--[[Birds|birds]] are on the wing,
+And [[Winter|winter]], slumbering in the open air,
+Wears on his smiling face [[A Dream|a dream]] of [[spring]];
+And I, the while, the sole unbusy thing,
+Nor honey make, nor pair, nor build, nor sing.
 
 A WEEK'S VISIT TO BOSTON
 
@@ -32228,7 +32228,7 @@ ours could show.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_57" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 57)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_57" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 57)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 MY TRIBUTE TO FOUR POETS
@@ -32298,9 +32298,9 @@ pressure on the dykes, and the bursting at last--the storming of the
 Bastile--the execution of the [[King|king]] and [[Queen|queen]]--the tempest of massacres
 and [[Blood|blood]]. Yet who can [[Wonder|wonder]]?
 
-    Could we wish humanity different?
-    Could we wish the people made of wood or stone?
-    Or that there be no justice in destiny or [[Time|time]]?
+Could we wish humanity different?
+Could we wish the people made of wood or stone?
+Or that there be no justice in destiny or [[Time|time]]?
 
 The true France, base of all the rest, is certainly in these pictures. I
 comprehend "Field-People Reposing," "the Diggers," and "the Angelus"
@@ -32350,7 +32350,7 @@ slip in them.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_58" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 58)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_58" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 58)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 SAMPLES OF MY COMMON-PLACE BOOK
@@ -32383,42 +32383,42 @@ The true test of civilization is not the census, nor the size of
 cities, nor the crops--no, but the kind of a man the country turns
 out.--_Emerson_.
 
-    The whole wide ether is the eagle's sway:
-    The whole earth is a brave man's fatherland.--_Euripides_.
+The whole wide ether is the eagle's sway:
+The whole earth is a brave man's fatherland.--_Euripides_.
 
-    Spices crush'd, their pungence yield,
-      Trodden scents their sweets respire;
-    Would you have its strength reveal'd?
-      Cast the incense in the [[Fire|fire]].
+Spices crush'd, their pungence yield,
+Trodden scents their sweets respire;
+Would you have its strength reveal'd?
+Cast the incense in the [[Fire|fire]].
 
 Matthew Arnold speaks of "the huge Mississippi of falsehood called
 [[history|History]]."
 
-    The [[Wind|wind]] blows north, the [[Wind|wind]] blows south,
-        The [[Wind|wind]] blows east and west;
-    No matter how the free [[Wind|wind]] blows,
-         Some [[Ship|ship]] will find it best.
+The [[Wind|wind]] blows north, the [[Wind|wind]] blows south,
+The [[Wind|wind]] blows east and west;
+No matter how the free [[Wind|wind]] blows,
+Some [[Ship|ship]] will find it best.
 
 Preach not to others what they should eat, but eat as becomes you, and
 be silent.--_Epictetus_.
 
 Victor Hugo makes a [[donkey]] meditate and apostrophize thus:
 
-    My brother, man, if you would know the [[Truth|truth]],
-    We both are by the same dull walls shut in;
-    The gate is massive and the dungeon strong.
-    But you look through the key-hole out beyond,
-    And call this knowledge; yet have not at hand
-    The key wherein to turn the fatal lock.
+My brother, man, if you would know the [[Truth|truth]],
+We both are by the same dull walls shut in;
+The gate is massive and the dungeon strong.
+But you look through the key-hole out beyond,
+And call this knowledge; yet have not at hand
+The key wherein to turn the fatal lock.
 
 "William Cullen Bryant surprised me once," relates a writer in a
 [[New York]] paper, "by saying that prose was the natural language of
 composition, and he [[Wonder|wonder]]'d how anybody came to write poetry."
 
-    Farewell! I did not know thy worth;
-        But thou art gone, and now 'tis prized:
-    So angels walk'd unknown on earth,
-        But when they flew were recognized.--_Hood_.
+Farewell! I did not know thy worth;
+But thou art gone, and now 'tis prized:
+So angels walk'd unknown on earth,
+But when they flew were recognized.--_Hood_.
 
 John Burroughs, writing of Thoreau, says: "He improves with age--in fact
 requires age to take off a little of his asperity, and fully ripen him.
@@ -32432,42 +32432,42 @@ noble passions, and commencing as a young man, broke with all that is
 sybaritish in modern civilization. Without the power to sacrifice [[Self|self]],
 great ideas will never bear fruit.
 
-    Out of the leaping furnace flame
-    A mass of molten silver came;
-    Then, beaten into pieces three,
-    Went forth to meet its destiny.
-    The first a crucifix was made,
-    Within a soldier's knapsack laid;
-    The second was a locket fair,
-    Where a mother kept her dead [[Child|child]]'s hair;
-    The third--a bangle, bright and warm,
-    Around a faithless woman's arm.
+Out of the leaping furnace flame
+A mass of molten silver came;
+Then, beaten into pieces three,
+Went forth to meet its destiny.
+The first a crucifix was made,
+Within a soldier's knapsack laid;
+The second was a locket fair,
+Where a mother kept her dead [[Child|child]]'s hair;
+The third--a bangle, bright and warm,
+Around a faithless woman's arm.
 
-    A mighty [[Pain|pain]] to [[Love|love]] it is,
-    And'tis a [[Pain|pain]] that [[Pain|pain]] to miss;
-    But of all [[Pain|pain]] the greatest [[Pain|pain]],
-    It is to [[Love|love]], but [[Love|love]] in vain.
+A mighty [[Pain|pain]] to [[Love|love]] it is,
+And'tis a [[Pain|pain]] that [[Pain|pain]] to miss;
+But of all [[Pain|pain]] the greatest [[Pain|pain]],
+It is to [[Love|love]], but [[Love|love]] in vain.
 
 _Maurice F. Egan on De Guerin._
 
-    A pagan heart, a Christian [[Soul|soul]] had he,
-      He followed [[Christ]], yet for dead Pan he sigh'd,
-      Till earth and heaven met within his breast:
-    As if Theocritus in Sicily
-      Had come upon the Figure crucified,
-      And lost his gods in deep, [[Christ]]-given rest.
+A pagan heart, a Christian [[Soul|soul]] had he,
+He followed [[Christ]], yet for dead Pan he sigh'd,
+Till earth and heaven met within his breast:
+As if Theocritus in Sicily
+Had come upon the Figure crucified,
+And lost his gods in deep, [[Christ]]-given rest.
 
-    And if I pray, the only [[Prayer|prayer]]
-      That moves my lips for me,
-    Is, leave the mind that now I bear,
-      And give me Liberty.--_Emily Bronte._
+And if I pray, the only [[Prayer|prayer]]
+That moves my lips for me,
+Is, leave the mind that now I bear,
+And give me Liberty.--_Emily Bronte._
 
-    I travel on not knowing,
-      I would not if I might;
-    I would rather walk with God in the dark,
-      Than go [[Alone|alone]] in the light;
-    I would rather walk with Him by [[Faith|faith]]
-      Than pick my way by sight
+I travel on not knowing,
+I would not if I might;
+I would rather walk with God in the dark,
+Than go [[Alone|alone]] in the light;
+I would rather walk with Him by [[Faith|faith]]
+Than pick my way by sight
 
 MY NATIVE SAND AND SALT ONCE MORE
 
@@ -32497,7 +32497,7 @@ beyond all worldly wealth.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_59" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 59)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_59" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 59)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 HOT WEATHER [[New York|NEW YORK]]
@@ -32598,7 +32598,7 @@ others.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_60" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 60)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_60" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 60)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 SOME OLD ACQUAINTANCES--MEMORIES
@@ -32703,7 +32703,7 @@ family, by invitation.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_61" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 61)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_61" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 61)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 OTHER CONCORD NOTATIONS
@@ -32812,7 +32812,7 @@ trembling harp."]
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_62" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 62)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_62" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 62)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 How or why I know not, just at the moment, but I too muse and think of
@@ -32887,10 +32887,10 @@ through his many themes, but there is something almost winning in his
 original verses and renderings on that dread subject--as, closing "the
 Happiest Land" dispute,
 
-    And then the landlord's daughter
-      Up to heaven rais'd her hand,
-    And said, "Ye may no more contend,
-      There lies the happiest land."
+And then the landlord's daughter
+Up to heaven rais'd her hand,
+And said, "Ye may no more contend,
+There lies the happiest land."
 
 To the ungracious complaint-charge of his want of racy nativity and
 special originality, I shall only say that [[America]] and the world may
@@ -32921,7 +32921,7 @@ words brought up quite a string of reminiscences.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_63" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 63)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_63" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 63)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I commenced when I was but a boy of eleven or twelve writing sentimental
@@ -33026,10 +33026,10 @@ no mere
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_64" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 64)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_64" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 64)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
-    "Warrior, rest, thy task is done,"
+"Warrior, rest, thy task is done,"
 
 for one beyond the warriors of the world lies surely symboll'd here.
 A just man, poised on himself, all-loving, all-inclosing, and sane and
@@ -33146,7 +33146,7 @@ to look on all fixed-up poetry and art as something almost impertinent.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_65" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 65)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_65" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 65)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Thus I went on, years following, various [[Seasons|seasons]] and areas, spinning
@@ -33260,7 +33260,7 @@ necessitates, and draws after it--let me begin my speculations.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_66" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 66)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_66" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 66)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [[America]], filling the present with greatest deeds and problems,
@@ -33364,7 +33364,7 @@ original literature is surely to become the justification and reliance,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_67" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 67)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_67" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 67)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Few are aware how the great literature penetrates all, gives hue to
@@ -33477,7 +33477,7 @@ spiritual, emotional power.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_68" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 68)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_68" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 68)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 It may be claim'd, (and I admit the weight of the claim,) that common
@@ -33597,7 +33597,7 @@ all this mighty, many-threaded wealth and industry concentrated here.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_69" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 69)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_69" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 69)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But sternly discarding, shutting our eyes to the glow and grandeur of
@@ -33702,7 +33702,7 @@ right of nationality, the [[Union|union]],) that we insist on the [[Identity|ide
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_70" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 70)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_70" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 70)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The purpose of [[Democracy|democracy]]--supplanting old belief in the necessary
@@ -33811,7 +33811,7 @@ sinewy with unconquerable resolution.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_71" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 71)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_71" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 71)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 We have seen this race proved by wholesale by drearier, yet more fearful
@@ -33910,7 +33910,7 @@ imperfections.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_72" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 72)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_72" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 72)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But to become an enfranchised man, and now, impediments removed,
@@ -34007,7 +34007,7 @@ most prudently to democratize.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_73" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 73)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_73" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 73)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The eager and often inconsiderate appeals of reformers and
@@ -34124,7 +34124,7 @@ noticed more and more, the alarming spectacle of parties usurping the
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_74" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 74)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_74" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 74)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Sad, serious, deep truths. Yet are there other, still deeper, amply
@@ -34224,7 +34224,7 @@ see that it is, in itself, the final authority and reliance!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_75" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 75)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_75" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 75)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Did you, too, O friend, suppose [[Democracy|democracy]] was only for elections, for
@@ -34329,7 +34329,7 @@ imperial republican forms.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_76" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 76)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_76" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 76)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Assuming [[Democracy]] to be at present in its embryo condition, and that
@@ -34439,7 +34439,7 @@ conclusive reply?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_77" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 77)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_77" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 77)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I do not so much object to the name, or word, but I should certainly
@@ -34543,7 +34543,7 @@ extricates itself entirely from the churches, and not before.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_78" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 78)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_78" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 78)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Personalism fuses this, and favors it. I should say, indeed, that only
@@ -34651,7 +34651,7 @@ breath, and peculiar personal magnetism.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_79" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 79)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_79" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 79)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The foregoing portraits, I admit, are frightfully out of line from these
@@ -34763,7 +34763,7 @@ blocks in their foundations.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_80" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 80)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_80" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 80)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Approaching thus the momentous spaces, and considering with reference to
@@ -34877,7 +34877,7 @@ spaces of that other heaven, the kosmic intellect, the [[Soul|soul]]?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_81" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 81)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_81" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 81)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Ye powerful and resplendent ones! ye were, in your atmospheres, grown
@@ -35010,7 +35010,7 @@ society.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_82" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 82)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_82" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 82)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 For [[America]], type of progress, and of essential [[Faith|faith]] in man, above
@@ -35128,7 +35128,7 @@ indigenous here, may haply arrive, be grafted, and sprout, in [[Time|time]],
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_83" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 83)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_83" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 83)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I say it were a standing disgrace to these States--I say it were a
@@ -35235,7 +35235,7 @@ can give.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_84" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 84)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_84" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 84)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In the prophetic literature of these States, (the reader of my
@@ -35337,7 +35337,7 @@ and eligibility to free, arouse, dilate.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_85" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 85)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_85" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 85)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 As, within the purposes of the Kosmos, and vivifying all meteorology,
@@ -35432,7 +35432,7 @@ and compellers.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_86" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 86)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_86" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 86)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Our lands, embracing so much, (embracing indeed the whole, rejecting
@@ -35545,7 +35545,7 @@ used to depend on themselves, and not on a few coteries of writers.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_87" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 87)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_87" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 87)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Investigating here, we see, not that it is a little thing we have, in
@@ -35656,7 +35656,7 @@ style, &c.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_88" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 88)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_88" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 88)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [22] Of these rapidly-[[Sketch|sketch]]'d hiatuses, the two which seem to me most
@@ -35758,7 +35758,7 @@ the mythic-materialistic, superstitious, untaught and credulous,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_89" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 89)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_89" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 89)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [29] It is to the development, identification, and general prevalence
@@ -35852,7 +35852,7 @@ religion, sweet and unimpugnable alike to little [[Child|child]] or great savan.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_90" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 90)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_90" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 90)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 ORIGINS OF ATTEMPTED SECESSION
@@ -35952,7 +35952,7 @@ army hospitals--but the wounds and diseases of peace?)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_91" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 91)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_91" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 91)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Out of those generic influences, mainly in [[New York]], Pennsylvania, Ohio,
@@ -36048,7 +36048,7 @@ and overturn, would these States, as they are, exist to-day.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_92" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 92)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_92" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 92)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 It is certain to me that the United States, by virtue of that war and
@@ -36148,7 +36148,7 @@ just as sacred and perfect as the greatest [[artist]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_93" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 93)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_93" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 93)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The power to destroy or remould is freely used by the greatest poet, but
@@ -36242,7 +36242,7 @@ fruition of his [[Love|love]], and of all perfection and [[Beauty|beauty]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_94" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 94)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_94" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 94)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The fruition of [[Beauty|beauty]] is no chance of miss or hit--it is as inevitable
@@ -36343,7 +36343,7 @@ sea, Master of [[Nature|nature]] and passion and [[Death|death]], and of all ter
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_95" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 95)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_95" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 95)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The American bards shall be mark'd for generosity and affection, and
@@ -36446,7 +36446,7 @@ large.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_96" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 96)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_96" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 96)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 These American States, strong and healthy and accomplish'd, shall
@@ -36549,7 +36549,7 @@ deputed atonement.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_97" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 97)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_97" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 97)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The direct trial of him who would be the greatest poet is to-day. If
@@ -36669,7 +36669,7 @@ chances--and would keep on venturing.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_98" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 98)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_98" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 98)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I will therefore not conceal from any persons, known or unknown to me,
@@ -36792,7 +36792,7 @@ nation.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_99" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 99)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_99" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 99)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The Four Years' War is over--and in the peaceful, strong, exciting,
@@ -36897,7 +36897,7 @@ democratic career?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_100" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 100)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_100" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 100)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Of the whole, [[Poems|poems]] and prose, (not attending at all to chronological
@@ -36978,10 +36978,10 @@ divine, and of the ideal, though mainly latent, are just as absolute in
 humanity and the universe as the world of chemistry, or anything in the
 objective worlds. To me
 
-      The [[Prophet|prophet]] and the bard,
-    Shall yet maintain themselves--in higher circles yet,
-    Shall mediate to the modern, to [[Democracy|democracy]]--interpret yet to them,
-      God and eid�lons.
+The [[Prophet|prophet]] and the bard,
+Shall yet maintain themselves--in higher circles yet,
+Shall mediate to the modern, to [[Democracy|democracy]]--interpret yet to them,
+God and eid�lons.
 
 To me, the [[Crown|crown]] of savantism is to be, that it surely opens the way for
 a more splendid theology, and for ampler and diviner [[songs]]. No year, nor
@@ -37005,7 +37005,7 @@ the impalpable odor.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_101" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 101)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_101" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 101)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Finally, as I have lived in fresh lands, inchoate, and in a
@@ -37107,7 +37107,7 @@ to me.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_102" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 102)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_102" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 102)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [As I write these lines, May 31, 1875, it is again early [[Summer|summer]],--again
@@ -37204,7 +37204,7 @@ inevitably to it--begin and necessitate it.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_103" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 103)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_103" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 103)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Then I meant "[[Leaves]] of Grass," as publish'd, to be the Poem of average
@@ -37315,7 +37315,7 @@ to the nation.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_104" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 104)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_104" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 104)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Here our thirty-eight States stand to-day, the children of past
@@ -37425,7 +37425,7 @@ oblivious of them.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_105" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 105)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_105" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 105)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The same of feudalism, its castles, courts, etiquettes, personalities.
@@ -37530,7 +37530,7 @@ with aversion from the sturdy, the universal, and the democratic.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_106" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 106)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_106" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 106)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The poetry of the future, (a phrase open to sharp criticism, and not
@@ -37645,7 +37645,7 @@ war of attempted secession of 1861-'65 to the future esthetics, drama,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_107" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 107)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_107" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 107)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Nor could utility itself provide anything more practically serviceable
@@ -37742,7 +37742,7 @@ penetrate those woes, as shafts of light the darkness?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_108" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 108)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_108" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 108)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 As I write, the last fifth of the nineteenth century is enter'd upon,
@@ -37852,7 +37852,7 @@ uncramp'd [[Nature]] works on every individual without exception.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_109" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 109)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_109" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 109)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [38] Is there not such a thing as the [[philosophy]] of American [[history]] and
@@ -37961,7 +37961,7 @@ bases, its eligibilities."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_110" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 110)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_110" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 110)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Shall the mention of such topics as I have briefly but plainly and
@@ -38068,7 +38068,7 @@ humanity, might not the Creative Power itself deign a smile of approval?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_111" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 111)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_111" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 111)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 To the movement for the eligibility and entrance of women amid new
@@ -38171,7 +38171,7 @@ human race have yet to be develop'd.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_112" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 112)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_112" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 112)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 [[Death|DEATH]] OF [[Abraham Lincoln|ABRAHAM LINCOLN]] LECTURE
@@ -38282,7 +38282,7 @@ breast-pocket there, ready, soon as break and riot came.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_113" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 113)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_113" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 113)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But no break or riot came. The tall figure gave another relieving
@@ -38407,7 +38407,7 @@ murder of [[Abraham Lincoln]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_114" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 114)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_114" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 114)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Great as all its manifold train, circling round it, and stretching into
@@ -38530,7 +38530,7 @@ homogeneous [[Union]], compact, consistent with itself.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_115" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 115)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_115" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 115)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Nor will ever future American Patriots and Unionists, indifferently over
@@ -38640,7 +38640,7 @@ writings for the press.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_116" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 116)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_116" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 116)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 W. W.
@@ -38765,7 +38765,7 @@ either one will indeed be the loss of vitality of the other.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_117" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 117)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_117" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 117)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 EMERSON'S BOOKS, (THE SHADOWS OF THEM)
@@ -38867,7 +38867,7 @@ them--as of our democratic politics.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_118" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 118)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_118" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 118)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 At times it has been doubtful to me if Emerson really knows or feels
@@ -38983,7 +38983,7 @@ rhyming hunks, or lascivious, glib _rou�_?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_119" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 119)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_119" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 119)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In these States, beyond all precedent, poetry will have to do with
@@ -39103,7 +39103,7 @@ arise?)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_120" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 120)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_120" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 120)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Of this old theory, evolution, as broach'd anew, trebled, with indeed
@@ -39206,7 +39206,7 @@ Hugo living, and Byron dead, are samples. Both deserving so [[Well|well]] of
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_121" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 121)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_121" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 121)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Meanwhile I must still offset the like of the foregoing, and all it
@@ -39320,7 +39320,7 @@ whether with [[Freedom|freedom]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_122" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 122)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_122" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 122)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "The ideal form of human society," Canon Kingsley declares, "is
@@ -39429,7 +39429,7 @@ pure compulsion or science, its rule and sovereignty--is, in short, in
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_123" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 123)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_123" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 123)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "[[Friendship]]," said Bonaparte, in one of his [[Lightning|lightning]]-flashes of
@@ -39543,7 +39543,7 @@ States.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_124" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 124)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_124" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 124)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 LITTLE OR NOTHING NEW, AFTER ALL
@@ -39646,7 +39646,7 @@ mainly of value, or worth consideration, only with reference to it.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_125" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 125)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_125" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 125)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 There is a subtle something in the common earth, crops, cattle, air,
@@ -39690,90 +39690,90 @@ PIECES IN EARLY YOUTH
 DOUGH-FACE [[Song|SONG]] --Like dough; soft; yielding to pressure;
 pale----_Webster's Dictionary_.
 
-    We are all docile dough-faces,
-      They knead us with the fist,
-    They, the dashing southern lords,
-      We labor as they list;
-    For them we speak--or hold our tongues,
-      For them we turn and twist.
+We are all docile dough-faces,
+They knead us with the fist,
+They, the dashing southern lords,
+We labor as they list;
+For them we speak--or hold our tongues,
+For them we turn and twist.
 
-    We join them in their howl against
-      Free soil and "abolition,"
-    That firebrand--that assassin knife--
-      Which risk our land's condition,
-    And leave no peace of life to any
-      Dough-faced politician.
+We join them in their howl against
+Free soil and "abolition,"
+That firebrand--that assassin knife--
+Which risk our land's condition,
+And leave no peace of life to any
+Dough-faced politician.
 
-    To put down "agitation," now,
-      We think the most judicious;
-    To damn all "northern fanatics,"
-      Those "traitors" black and vicious;
-    The "reg'lar party usages"
-      For us, and no "new issues."
+To put down "agitation," now,
+We think the most judicious;
+To damn all "northern fanatics,"
+Those "traitors" black and vicious;
+The "reg'lar party usages"
+For us, and no "new issues."
 
-    Things have come to a pretty pass,
-      When a trifle small as this,
-    Moving and bartering nigger slaves,
-      Can open an abyss,
-    With jaws a-gape for "the two great parties;"
-      A pretty thought, I wis!
+Things have come to a pretty pass,
+When a trifle small as this,
+Moving and bartering nigger slaves,
+Can open an abyss,
+With jaws a-gape for "the two great parties;"
+A pretty thought, I wis!
 
-    Principle--[[Freedom|freedom]]!--fiddlesticks!
-      We know not where they're found.
-    Rights of the masses--progress!--bah!
-      Words that tickle and sound;
-    But claiming to rule o'er "practical men"
-      Is very different ground.
+Principle--[[Freedom|freedom]]!--fiddlesticks!
+We know not where they're found.
+Rights of the masses--progress!--bah!
+Words that tickle and sound;
+But claiming to rule o'er "practical men"
+Is very different ground.
 
-    Beyond all such we know a term
-      Charming to ears and eyes,
-    With it we'll stab young [[Freedom]],
-      And do it in disguise;
+Beyond all such we know a term
+Charming to ears and eyes,
+With it we'll stab young [[Freedom]],
+And do it in disguise;
 
-    Speak soft, ye wily dough-faces--
-      That term is "compromise."
+Speak soft, ye wily dough-faces--
+That term is "compromise."
 
-    And what if children, growing up,
-      In future [[Seasons|seasons]] read
-    The thing we do? and heart and tongue
-      Accurse us for the deed?
-    The future cannot touch us;
-      The present gain we heed.
+And what if children, growing up,
+In future [[Seasons|seasons]] read
+The thing we do? and heart and tongue
+Accurse us for the deed?
+The future cannot touch us;
+The present gain we heed.
 
-    Then, all together, dough-faces!
-      Let's stop the exciting clatter,
-    And pacify slave-breeding wrath
-      By yielding all the matter;
-    For otherwise, as sure as guns,
-      The [[Union]] it will shatter.
+Then, all together, dough-faces!
+Let's stop the exciting clatter,
+And pacify slave-breeding wrath
+By yielding all the matter;
+For otherwise, as sure as guns,
+The [[Union]] it will shatter.
 
-    Besides, to tell the honest [[Truth|truth]]
-      (For us an innovation,)
-    Keeping in with the slave power
-      Is our personal salvation;
-    We've very little to expect
-      From t' other part of the nation.
+Besides, to tell the honest [[Truth|truth]]
+(For us an innovation,)
+Keeping in with the slave power
+Is our personal salvation;
+We've very little to expect
+From t' other part of the nation.
 
-    Besides it's plain at Washington
-      Who likeliest wins the race,
-    What earthly chance has "free soil"
-      For any good fat place?
-    While many a daw has feather'd his nest,
-      By his creamy and meek dough-face.
+Besides it's plain at Washington
+Who likeliest wins the race,
+What earthly chance has "free soil"
+For any good fat place?
+While many a daw has feather'd his nest,
+By his creamy and meek dough-face.
 
-    Take heart, then, sweet companions,
-      Be steady, Scripture Dick!
-    Webster, Cooper, Walker,
-      To your allegiance stick!
-    With Brooks, and Briggs and Phoenix,
-      Stand up through thin and thick!
+Take heart, then, sweet companions,
+Be steady, Scripture Dick!
+Webster, Cooper, Walker,
+To your allegiance stick!
+With Brooks, and Briggs and Phoenix,
+Stand up through thin and thick!
 
-    We do not ask a bold brave front;
-      We never try that game;
-    'Twould bring the [[Storm|storm]] upon our heads,
-      A huge mad [[Storm|storm]] of shame;
-    Evade it, brothers--"compromise"
-      Will answer just the same.
+We do not ask a bold brave front;
+We never try that game;
+'Twould bring the [[Storm|storm]] upon our heads,
+A huge mad [[Storm|storm]] of shame;
+Evade it, brothers--"compromise"
+Will answer just the same.
 
 PAUMANOK.
 
@@ -39811,7 +39811,7 @@ propitious gales [[Speed|speed]] that day!)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_126" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 126)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_126" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 126)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "Were you by Mr. Nichols's [[Garden|garden]]-fence last [[Night|night]]?" said Lugare.
@@ -39939,7 +39939,7 @@ in his profession.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_127" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 127)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_127" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 127)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The hour of grace had drawn to its close, and the [[Time|time]] approach'd at
@@ -40052,7 +40052,7 @@ nineteenth year.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_128" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 128)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_128" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 128)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Having such power over his wards, Covert did not scruple openly to use
@@ -40162,7 +40162,7 @@ his guardian.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_129" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 129)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_129" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 129)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Philip Marsh had drank deeply--(let us plead all that may be possible
@@ -40279,7 +40279,7 @@ for himself.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_130" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 130)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_130" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 130)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 That afternoon Philip left [[New York]]. His friendly employer own'd a small
@@ -40392,7 +40392,7 @@ fostering care.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_131" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 131)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_131" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 131)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The period now arrived when the great national convulsion burst
@@ -40505,7 +40505,7 @@ uncharitably.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_132" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 132)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_132" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 132)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "After things had gone on in this way for some [[Time|time]], a countryman,
@@ -40612,7 +40612,7 @@ Battery.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_133" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 133)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_133" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 133)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 As the warning sound of a trumpet called together all who were
@@ -40739,7 +40739,7 @@ leave the parental roof, bent his steps toward the [[City|city]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_134" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 134)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_134" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 134)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 It may [[Well|well]] be imagined that alarm and grief pervaded the whole of the
@@ -40852,7 +40852,7 @@ was now coming on in its fury, he slept like a babe in its cradle.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_135" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 135)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_135" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 135)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Black Nell had ceased grazing, and stood by her sleeping master with
@@ -40957,7 +40957,7 @@ retain' d the most admirable placidity and gentleness.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_136" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 136)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_136" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 136)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 He was cheerful, but never boisterous, and everybody loved him; his mind
@@ -41064,7 +41064,7 @@ sultriness, is the air, and how decently [[Nature|nature]] seems preparing for h
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_137" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 137)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_137" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 137)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Thus it was the last Wednesday we started on our accustomed excursion.
@@ -41185,7 +41185,7 @@ the gate, came through the path, and sat down by his mother in [[Silence|silence
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_138" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 138)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_138" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 138)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "You are sullen to-[[Night|night]], Charley," said the widow, after a moment's
@@ -41293,7 +41293,7 @@ again indiscriminately, and a box of very thick and very long cigars.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_139" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 139)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_139" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 139)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 One of the sailors--and it was he who made the largest share of the
@@ -41402,7 +41402,7 @@ around his legs and prevented his advancing.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_140" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 140)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_140" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 140)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The scene was a strange one, and for the [[Time|time]] quite a silent one. The
@@ -41512,7 +41512,7 @@ his escapes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_141" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 141)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_141" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 141)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 LINGAVE'S [[Temptation|TEMPTATION]]
@@ -41627,7 +41627,7 @@ engagement which he came near breaking.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_142" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 142)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_142" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 142)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Ridman had a smooth tongue. All his ingenuity was needed in the
@@ -41743,7 +41743,7 @@ and I'll be bound she'll stay on earth three years longer."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_143" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 143)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_143" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 143)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 And as he concluded this wicked and most brutal reply, the speaker
@@ -41849,7 +41849,7 @@ pure breast, and the dove of peace fled away forever.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_144" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 144)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_144" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 144)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 One of the persons who had occasion to stop most frequently at the
@@ -41933,55 +41933,55 @@ of daring, and enthusiasm, devotion, and fortitude.
 
 I.
 
-    Of olden [[Time|time]], when it came to pass
-    That the beautiful god, Jesus, should finish his work on earth,
-    Then went Judas, and sold the divine youth,
-    And took pay for his [[Body|body]].
+Of olden [[Time|time]], when it came to pass
+That the beautiful god, Jesus, should finish his work on earth,
+Then went Judas, and sold the divine youth,
+And took pay for his [[Body|body]].
 
-    Curs'd was the deed, even before the sweat of the clutching hand
-      grew dry;
-    And darkness frown'd upon the seller of the like of God,
-    Where, as though earth lifted her breast to throw him from her,
-      and heaven refused him,
-    He hung in the air, [[Self|self]]-slaughter'd.
+Curs'd was the deed, even before the sweat of the clutching hand
+grew dry;
+And darkness frown'd upon the seller of the like of God,
+Where, as though earth lifted her breast to throw him from her,
+and heaven refused him,
+He hung in the air, [[Self|self]]-slaughter'd.
 
-    The cycles, with their long shadows, have stalk'd silently forward,
-    Since those ancient days--many a pouch enwrapping meanwhile
-    Its fee, like that paid for the son of Mary.
+The cycles, with their long shadows, have stalk'd silently forward,
+Since those ancient days--many a pouch enwrapping meanwhile
+Its fee, like that paid for the son of Mary.
 
-    And still goes one, saying,
-    "What will ye give me, and I will deliver this man unto you?"
-    And they make the covenant, and pay the pieces of silver.
+And still goes one, saying,
+"What will ye give me, and I will deliver this man unto you?"
+And they make the covenant, and pay the pieces of silver.
 
 II
 
-    Look forth, deliverer,
-    Look forth, first-born of the dead,
-    Over the tree-tops of Paradise;
-    See thyself in yet continued bonds,
-    Toilsome and poor, thou bear'st man's form again,
-    Thou art reviled, scourged, put into [[Prison|prison]],
-    Hunted from the arrogant equality of the rest;
-    With staves and swords throng the willing servants of authority,
-    Again they surround thee, mad with devilish spite;
-    Toward thee stretch the hands of a multitude, like vultures' talons,
-    The meanest spit in thy face, they smite thee with their palms;
-    Bruised, bloody, and pinion'd is thy [[Body|body]],
-    More sorrowful than [[Death|death]] is thy [[Soul|soul]].
+Look forth, deliverer,
+Look forth, first-born of the dead,
+Over the tree-tops of Paradise;
+See thyself in yet continued bonds,
+Toilsome and poor, thou bear'st man's form again,
+Thou art reviled, scourged, put into [[Prison|prison]],
+Hunted from the arrogant equality of the rest;
+With staves and swords throng the willing servants of authority,
+Again they surround thee, mad with devilish spite;
+Toward thee stretch the hands of a multitude, like vultures' talons,
+The meanest spit in thy face, they smite thee with their palms;
+Bruised, bloody, and pinion'd is thy [[Body|body]],
+More sorrowful than [[Death|death]] is thy [[Soul|soul]].
 
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_145" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 145)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_145" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 145)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
-    Witness of anguish, brother of slaves,
-    Not with thy price closed the price of thine image:
-    And still Iscariot plies his trade.
+Witness of anguish, brother of slaves,
+Not with thy price closed the price of thine image:
+And still Iscariot plies his trade.
 
-    _April, 1843_.
+_April, 1843_.
 
-    PAUMANOK.
+PAUMANOK.
 
 WOUNDED IN THE [[house|HOUSE]] OF FRIENDS
 
@@ -41989,77 +41989,77 @@ _"And one shall say unto him. What are these wounds in thy hands?
 Then he shall answer Those with which I was wounded in the [[house]] of my
 friends."--Zechariah, xiii. 6._
 
-      If thou art balk'd, O [[Freedom]],
-    The victory is not to thy manlier foes;
-    From the [[house]] of friends comes the [[Death|death]] stab.
+If thou art balk'd, O [[Freedom]],
+The victory is not to thy manlier foes;
+From the [[house]] of friends comes the [[Death|death]] stab.
 
-      Virginia, mother of [[Greatness|greatness]],
-    Blush not for being also mother of slaves;
-    You might have borne deeper slaves--
-    Doughfaces, crawlers, lice of humanity--
-    Terrific screamers of [[Freedom|freedom]],
-    Who roar and bawl, and get hot i' the face,
-    But were they not incapable of august crime,
-    Would quench the hopes of ages for a drink--
-    Muck-worms, creeping flat to the ground,
-    A dollar dearer to them than [[Christ]]'s blessing;
-    All loves, all hopes, less than the thought of gain,
-    In life walking in that as in a shroud;
-    Men whom the throes of heroes,
-    Great deeds at which the gods might stand appal'd,
-    The shriek of the drown'd, the appeal of women,
-    The exulting laugh of untied empires,
-    Would touch them never in the heart,
-    But only in the pocket.
+Virginia, mother of [[Greatness|greatness]],
+Blush not for being also mother of slaves;
+You might have borne deeper slaves--
+Doughfaces, crawlers, lice of humanity--
+Terrific screamers of [[Freedom|freedom]],
+Who roar and bawl, and get hot i' the face,
+But were they not incapable of august crime,
+Would quench the hopes of ages for a drink--
+Muck-worms, creeping flat to the ground,
+A dollar dearer to them than [[Christ]]'s blessing;
+All loves, all hopes, less than the thought of gain,
+In life walking in that as in a shroud;
+Men whom the throes of heroes,
+Great deeds at which the gods might stand appal'd,
+The shriek of the drown'd, the appeal of women,
+The exulting laugh of untied empires,
+Would touch them never in the heart,
+But only in the pocket.
 
-      Hot-headed Carolina,
-    [[Well]] may you curl your lip;
-    With all your bondsmen, bless the destiny
-    Which brings you no such breed as this.
+Hot-headed Carolina,
+[[Well]] may you curl your lip;
+With all your bondsmen, bless the destiny
+Which brings you no such breed as this.
 
-      Arise, young North!
-    Our elder [[Blood|blood]] flows in the veins of cowards:
-    The gray-hair'd sneak, the blanch'd poltroon,
-    The feign'd or real shiverer at tongues,
-    That nursing babes need hardly cry the less for--
-    Are they to be our tokens always?
+Arise, young North!
+Our elder [[Blood|blood]] flows in the veins of cowards:
+The gray-hair'd sneak, the blanch'd poltroon,
+The feign'd or real shiverer at tongues,
+That nursing babes need hardly cry the less for--
+Are they to be our tokens always?
 
 SAILING THE MISSISSIPPI AT MIDNIGHT
 
-    Vast and starless, the pall of heaven
-      Laps on the trailing pall below;
-    And forward, forward, in solemn darkness,
-      As if to the sea of the lost we go.
+Vast and starless, the pall of heaven
+Laps on the trailing pall below;
+And forward, forward, in solemn darkness,
+As if to the sea of the lost we go.
 
-    Now drawn nigh the edge of the [[River|river]],
-      Weird-like creatures suddenly rise;
-    Shapes that fade, dissolving outlines
-      Baffle the gazer's straining eyes.
+Now drawn nigh the edge of the [[River|river]],
+Weird-like creatures suddenly rise;
+Shapes that fade, dissolving outlines
+Baffle the gazer's straining eyes.
 
-    Towering upward and bending forward,
-      Wild and wide their arms are thrown,
-    Ready to pierce with forked fingers
-      Him who touches their realm upon.
+Towering upward and bending forward,
+Wild and wide their arms are thrown,
+Ready to pierce with forked fingers
+Him who touches their realm upon.
 
-    Tide of youth, thus thickly planted,
-      While in the eddies onward you swim,
-    Thus on the shore stands a [[Phantom|phantom]] army,
-      Lining forever the channel's rim.
+Tide of youth, thus thickly planted,
+While in the eddies onward you swim,
+Thus on the shore stands a [[Phantom|phantom]] army,
+Lining forever the channel's rim.
 
-    Steady, helmsman! you guide the immortal;
-      Many a wreck is beneath you piled,
-    Many a brave yet unwary sailor
-      Over these waters has been beguiled.
+Steady, helmsman! you guide the immortal;
+Many a wreck is beneath you piled,
+Many a brave yet unwary sailor
+Over these waters has been beguiled.
 
-    Nor is it the [[Storm|storm]] or the scowling midnight,
-      Cold, or sickness, or [[Fire|fire]]'s dismay--
-    Nor is it the reef, or treacherous quicksand,
-      Will peril you most on your twisted way.
+Nor is it the [[Storm|storm]] or the scowling midnight,
+Cold, or sickness, or [[Fire|fire]]'s dismay--
+Nor is it the reef, or treacherous quicksand,
+Will peril you most on your twisted way.
 
-    But when there comes a voluptuous languor,
-      Soft the sunshine, silent the air,
-    Bewitching your craft with safety and sweetness,
-      Then, young pilot of life, beware.
+But when there comes a voluptuous languor,
+Soft the sunshine, silent the air,
+Bewitching your craft with safety and sweetness,
+Then, young pilot of life, beware.
 
 NOVEMBER BOUGHS
 
@@ -42126,7 +42126,7 @@ array of guests:
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_146" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 146)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_146" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 146)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "We read the list," says the _Times_, "of those who assembled to do
@@ -42226,7 +42226,7 @@ it possible but that the right understanding would ensue?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_147" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 147)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_147" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 147)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE [[Bible|BIBLE]] AS POETRY
@@ -42296,10 +42296,10 @@ emotions conquering the gods of heaven, and fate itself. (The episode,
 for instance, toward the close of the "Mahabharata"--the [[Journey|journey]] of the
 wife Savitri with the god of [[Death|death]], Yama,
 
-    "One terrible to see--[[Blood|blood]]-red his garb,
-    His [[Body|body]] huge and dark, bloodshot his eyes,
-    Which flamed like suns beneath his turban cloth,
-    Arm'd was he with a noose,"
+"One terrible to see--[[Blood|blood]]-red his garb,
+His [[Body|body]] huge and dark, bloodshot his eyes,
+Which flamed like suns beneath his turban cloth,
+Arm'd was he with a noose,"
 
 who carries off the [[Soul|soul]] of the dead husband, the wife tenaciously
 following, and--by the resistless charm of perfect poetic
@@ -42347,7 +42347,7 @@ depends--our ancestry, our past.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_148" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 148)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_148" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 148)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Strange, but true, that the principal factor in cohering the nations,
@@ -42452,7 +42452,7 @@ be the Holy [[Ghost]] we read of in the Testament."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_149" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 149)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_149" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 149)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I should be at a loss to make any comparison with other preachers or
@@ -42560,7 +42560,7 @@ autochthonic ones?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_150" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 150)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_150" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 150)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 As to the Spanish stock of our Southwest, it is certain to me that we
@@ -42631,16 +42631,16 @@ All the foregoing to premise a brief statement of how and where I get my
 new light on Shakspere. Speaking of the special English plays, my friend
 William O'Connor says:
 
-  They seem simply and rudely historical in their motive, as aiming
-  to give in the rough a tableau of warring dynasties,--and carry to
-  me a lurking sense of being in aid of some ulterior design, probably
-  [[Well|well]] enough understood in that age, which perhaps [[Time|time]] and criticism
-  will reveal.... Their atmosphere is one of barbarous and tumultuous
-  gloom,--they do not make us [[Love|love]] the times they limn,... and it is
-  impossible to believe that the greatest of the Elizabethan men could
-  have sought to indoctrinate the age with the [[Love|love]] of feudalism which
-  his own drama in its entirety, if the view taken of it herein be true,
-  certainly and subtly saps and mines.
+They seem simply and rudely historical in their motive, as aiming
+to give in the rough a tableau of warring dynasties,--and carry to
+me a lurking sense of being in aid of some ulterior design, probably
+[[Well|well]] enough understood in that age, which perhaps [[Time|time]] and criticism
+will reveal.... Their atmosphere is one of barbarous and tumultuous
+gloom,--they do not make us [[Love|love]] the times they limn,... and it is
+impossible to believe that the greatest of the Elizabethan men could
+have sought to indoctrinate the age with the [[Love|love]] of feudalism which
+his own drama in its entirety, if the view taken of it herein be true,
+certainly and subtly saps and mines.
 
 Reading the just-specified play in the light of Mr. O'Connor's
 suggestion, I defy any one to escape such new and deep
@@ -42671,7 +42671,7 @@ civilized world.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_151" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 151)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_151" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 151)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Whether such was the unconscious, or (as I think likely) the more
@@ -42786,7 +42786,7 @@ life and [[Death|death]] was going on in a country by-place in Scotland!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_152" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 152)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_152" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 152)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Burns's correspondence, generally collected and publish'd since his
@@ -42874,10 +42874,10 @@ plough-tail." 1787, to the Earl of Buchan. He has no high ideal of the
 poet or the poet's office; indeed quite a low and contracted notion of
 both:
 
-    "Fortune! if thou'll but gie me still
-    Hale breeks, a scone, and whiskey gill,
-    An' rowth o' rhyme to rave at will,
-    Tak' a' the rest."
+"Fortune! if thou'll but gie me still
+Hale breeks, a scone, and whiskey gill,
+An' rowth o' rhyme to rave at will,
+Tak' a' the rest."
 
 See also his rhym'd letters to Robert Graham invoking patronage; "one
 stronghold," Lord Glencairn, being dead, now these appeals to "Fintra,
@@ -42891,7 +42891,7 @@ bee of the moment buzzes in my bonnet-lug."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_153" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 153)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_153" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 153)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Consonantly with the customs of the [[Time|time]]--yet markedly inconsistent in
@@ -42922,7 +42922,7 @@ noses clean.) Only when he gets at Poosie Nansie's, celebrating the
 "barley bree," or among tramps, or democratic bouts and drinking
 generally,
 
-    ("[[Freedom]] and whiskey gang the gither.")
+("[[Freedom]] and whiskey gang the gither.")
 
 we have, in his own unmistakable color and warmth, those interiors
 of rake-helly life and tavern fun--the cantabile of jolly beggars in
@@ -43015,7 +43015,7 @@ teething a Heckle," "O lay thy loof in mine, lass," and others.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_154" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 154)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_154" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 154)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The longer and more elaborated [[Poems|poems]] of Burns are just such as would
@@ -43038,7 +43038,7 @@ would not stop us if he were here this moment, from classing that
 "to the De'il" among them)--"to Mailie and her Lambs," "to auld Mare
 Maggie," "to a Mouse,"
 
-    "Wee, sleekit, cowrin, tim'rous beastie:"
+"Wee, sleekit, cowrin, tim'rous beastie:"
 
 "to a Mountain Daisy," "to a Haggis," "to a Louse," "to the Toothache,"
 &c.--and occasionally to his brother bards and lady or gentleman
@@ -43066,7 +43066,7 @@ see and feel the man indirectly in his other verses, all of them,
 with more or less life-likeness--but these I have named last call out
 pronouncedly in his own voice,
 
-    "I, Rob, am here."
+"I, Rob, am here."
 
 Finally, in any summing-up of Burns, though so much is to be said in the
 way of fault-finding, drawing black marks, and doubtless severe literary
@@ -43116,17 +43116,17 @@ century ago was essentially morbid, heart-broken, finding fault with
 everything, especially the fact of money's being made (as it ever must
 be, and perhaps should be) the paramount matter in worldly affairs;
 
-    Every door is barr'd with gold, and opens but to golden keys.
+Every door is barr'd with gold, and opens but to golden keys.
 
 First, a father, having fallen in battle, his [[Child|child]] (the singer)
 
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_155" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 155)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_155" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 155)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
-    Was left a trampled [[Orphan|orphan]], and a selfish uncle's ward.
+Was left a trampled [[Orphan|orphan]], and a selfish uncle's ward.
 
 Of course [[Love|love]] ensues. The woman in the chant or monologue proves a
 false one; and as far as appears the ideal of woman, in the poet's
@@ -43134,7 +43134,7 @@ reflections, is a false one--at any rate for [[America]]. Woman is _not_
 "the lesser man." (The heart is not the brain.) The best of the piece of
 fifty years since is its concluding line:
 
-    For the mighty [[Wind|wind]] arises roaring seaward and I go.
+For the mighty [[Wind|wind]] arises roaring seaward and I go.
 
 Then for this current 1886-7, a just-out sequel, which (as an apparently
 authentic summary says) "reviews the life of mankind during the past
@@ -43144,17 +43144,17 @@ cynical vein of denunciation of democratic opinions and aspirations runs
 throughout the poem in mark'd contrast with the spirit of the poet's
 youth." Among the most striking lines of this sequel are the following:
 
-    Envy wears the mask of [[Love|love]], and, laughing sober fact to scorn,
-    Cries to weakest as to strongest, 'Ye are equals, equal born,'
-    Equal-born! Oh yes, if yonder [[Hill|hill]] be level with the flat.
-    Charm us, orator, till the [[Lion|lion]] look no larger than the cat:
-    Till the cat, through that mirage of overheated language, loom
-    Larger than the [[Lion|lion]] Demo--end in working its own doom.
-    Tumble [[Nature]] heel o'er head, and, yelling with the yelling street,
-    Set the feet above the brain, and swear the brain is in the feet,
-    Bring the old dark ages back, without the [[Faith|faith]], without the [[Hope|hope]].
-    Beneath the State, the Church, the Throne, and roll their ruins down
-      the slope.
+Envy wears the mask of [[Love|love]], and, laughing sober fact to scorn,
+Cries to weakest as to strongest, 'Ye are equals, equal born,'
+Equal-born! Oh yes, if yonder [[Hill|hill]] be level with the flat.
+Charm us, orator, till the [[Lion|lion]] look no larger than the cat:
+Till the cat, through that mirage of overheated language, loom
+Larger than the [[Lion|lion]] Demo--end in working its own doom.
+Tumble [[Nature]] heel o'er head, and, yelling with the yelling street,
+Set the feet above the brain, and swear the brain is in the feet,
+Bring the old dark ages back, without the [[Faith|faith]], without the [[Hope|hope]].
+Beneath the State, the Church, the Throne, and roll their ruins down
+the slope.
 
 I should say that all this is a legitimate consequence of the tone
 and convictions of the earlier standards and points of view. Then some
@@ -43199,7 +43199,7 @@ a latent charm in mere words, cunning collocutions, and in the voice
 ringing them, which he has caught and brought out, beyond all others--as
 in the line,
 
-    And hollow, hollow, hollow, all delight,
+And hollow, hollow, hollow, all delight,
 
 in "The Passing of [[arthur|Arthur]]," and evidenced in "The Lady of Shalott," "The
 Deserted [[house|House]]," and many other pieces. Among the best (I often linger
@@ -43211,10 +43211,10 @@ indeed we could spare nothing of Tennyson, however small or however
 peculiar--not "Break, Break," nor "Flower in the Crannied Wall," nor the
 old, eternally-told passion of "Edward Gray:"
 
-    [[Love]] may come and [[Love|love]] may go,
-    And fly like a bird from tree to tree.
-    But I will [[Love|love]] no more, no more
-    Till Ellen Adair come back to me.
+[[Love]] may come and [[Love|love]] may go,
+And fly like a bird from tree to tree.
+But I will [[Love|love]] no more, no more
+Till Ellen Adair come back to me.
 
 Yes, Alfred Tennyson's is a superb character, and will help give
 illustriousness, through the long roll of [[Time|time]], to our Nineteenth
@@ -43244,7 +43244,7 @@ farmer's [[house]] and miner's cabin.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_156" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 156)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_156" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 156)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Best thanks, anyhow, to Alfred Tennyson--thanks and appreciation in
@@ -43364,7 +43364,7 @@ case in point. "Tippecanoe, and Tyler too," another.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_157" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 157)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_157" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 157)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I find the same rule in the people's conversations everywhere. I heard
@@ -43471,7 +43471,7 @@ own with the best of the said trees or rocks, and outdoing them.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_158" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 158)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_158" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 158)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 There were Omahas, Poncas, Winnebagoes, Cheyennes, Navahos, Apaches,
@@ -43580,7 +43580,7 @@ complexion."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_159" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 159)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_159" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 159)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 SOME DIARY NOTES AT RANDOM
@@ -43690,7 +43690,7 @@ doctor records symptoms.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_160" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 160)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_160" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 160)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 PLATE GLASS NOTES
@@ -43800,7 +43800,7 @@ orderlies.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_161" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 161)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_161" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 161)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE 195TH PENNSYLVANIA
@@ -43928,7 +43928,7 @@ down in the distance.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_162" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 162)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_162" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 162)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Now the paying is to begin. The Major (paymaster) with his clerk seat
@@ -44038,7 +44038,7 @@ even at rare and long intervals, something approximately good.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_163" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 163)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_163" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 163)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 THE OLD BOWERY
@@ -44051,21 +44051,21 @@ mankind from the loss of those first-class [[Poems|poems]], temples, pictures,
 gone and vanish'd from any record of men, the writer (Fleeming Jenkin)
 continues:
 
-  If this be our feeling as to the more durable works of art, what
-  shall we say of those triumphs which, by their very [[Nature|nature]], la
-  no longer than the action which creates them--the triumphs of the
-  orator, the singer, or the actor? There is an anodyne in the words,
-  "must be so," "inevitable," and there is even some absurdity in
-  [[Longing|longing]] for the impossible. This anodyne and our sense of humor
-  temper the unhappiness we feel when, after hearing some great
-  performance, we leave the theatre and think, "[[Well]], this great thing
-  has been, and all that is now left of it is the feeble print up
-  my brain, the little thrill which [[Memory|memory]] will send along my nerves,
-  mine and my neighbors; as we live longer the print and thrill must
-  be feebler, and when we pass away the impress of the great [[artist]]
-  will vanish from the world." The regret that a great art should in
-  its [[Nature|nature]] be transitory, explains the lively interest which many
-  feel in reading anecdotes or descriptions of a great actor.
+If this be our feeling as to the more durable works of art, what
+shall we say of those triumphs which, by their very [[Nature|nature]], la
+no longer than the action which creates them--the triumphs of the
+orator, the singer, or the actor? There is an anodyne in the words,
+"must be so," "inevitable," and there is even some absurdity in
+[[Longing|longing]] for the impossible. This anodyne and our sense of humor
+temper the unhappiness we feel when, after hearing some great
+performance, we leave the theatre and think, "[[Well]], this great thing
+has been, and all that is now left of it is the feeble print up
+my brain, the little thrill which [[Memory|memory]] will send along my nerves,
+mine and my neighbors; as we live longer the print and thrill must
+be feebler, and when we pass away the impress of the great [[artist]]
+will vanish from the world." The regret that a great art should in
+its [[Nature|nature]] be transitory, explains the lively interest which many
+feel in reading anecdotes or descriptions of a great actor.
 
 All this is emphatically my own feeling and reminiscence about the best
 dramatic and [[Lyric|lyric]] artists I have seen in bygone days--for instance,
@@ -44144,7 +44144,7 @@ principal character in "The Iron Chest."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_164" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 164)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_164" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 164)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In any portraiture of Booth, those years, the Bowery Theatre, with its
@@ -44249,7 +44249,7 @@ his appearance in lively condition.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_165" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 165)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_165" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 165)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 After a one-act farce over, as contrast and prelude, the curtain rising
@@ -44265,7 +44265,7 @@ or wait, and hold the audience in an indescribable, half-delicious,
 half-irritating suspense.) And so throughout the entire play, all parts,
 voice, atmosphere, magnetism, from
 
-    "Now is the [[Winter|winter]] of our discontent,"
+"Now is the [[Winter|winter]] of our discontent,"
 
 to the closing [[Death|death]] fight with Richmond, were of the finest and
 grandest. The latter character was play'd by a stalwart young fellow
@@ -44371,7 +44371,7 @@ and season, the aimless and resultless ways of most human lives.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_166" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 166)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_166" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 166)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Thus the last 14 years have pass'd. At present (end-days of March,
@@ -44497,7 +44497,7 @@ summing-up of him yet in existence?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_167" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 167)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_167" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 167)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The best way to estimate the value of [[Lincoln]] is to think what the
@@ -44551,8 +44551,8 @@ talk goes on, and betraying himself by his emotion and moist eyes--like
 the journeying Ithacan at the banquet of [[King]] Alcinoiis, when the bard
 sings the contending warriors and their battles on the plains of Troy:
 
-    "So from the sluices of [[Ulysses]]' eyes
-    Fast fell the [[Tears|tears]], and sighs succeeded sighs."
+"So from the sluices of [[Ulysses]]' eyes
+Fast fell the [[Tears|tears]], and sighs succeeded sighs."
 
 I have fancied, I say, some such venerable relic of this [[Time|time]] of ours,
 preserv'd to the next or still the next generation of [[America]]. I have
@@ -44617,7 +44617,7 @@ returning wounded, and so on.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_168" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 168)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_168" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 168)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I remember very [[Well|well]] seeing Gen. Taylor with his staff and other
@@ -44717,7 +44717,7 @@ villages.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_169" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 169)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_169" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 169)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 It was 10 o'[[Clock|clock]] A.M. when we got in Chicago, too late for the steamer;
@@ -44830,7 +44830,7 @@ signature. He seems to be in no hurry about it, but lets them wait.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_170" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 170)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_170" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 170)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The crowds that come here make a curious study for me. I get along, very
@@ -44952,7 +44952,7 @@ for life, and the universe with its objects and play of action.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_171" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 171)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_171" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 171)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 "We Americans devote an official day to it every year; yet I sometimes
@@ -45056,7 +45056,7 @@ I have not waver'd or had any [[Doubt|doubt]] of the issue, since Gettysburg.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_172" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 172)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_172" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 172)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _8th September, '63_.--Here, now, is a specimen army hospital case:
@@ -45157,7 +45157,7 @@ afterward, without any special agitation, in the course of the [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_173" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 173)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_173" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 173)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _Washington, May 26, '63_.--M., I think something of commencing a series
@@ -45289,7 +45289,7 @@ things for the dying man.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_174" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 174)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_174" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 174)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 _December, '65_.--The only remaining hospital is now "Harewood," out in
@@ -45409,7 +45409,7 @@ Camden, N.J., July, 1888_.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_175" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 175)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_175" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 175)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 To begin with, my theme is comparatively featureless. The great
@@ -45491,29 +45491,29 @@ sea--Elias Hicks was fashion'd through boyhood and early manhood, to
 maturity. But a moral and mental and emotional change was imminent.
 Along at this [[Time|time]] he says:
 
-  My apprenticeship being now expir'd, I gradually withdrew from
-  the company of my former associates, became more acquainted with
-  Friends, and was more frequent in my attendance of meetings; and
-  although this was in some degree profitable to me, yet I made but
-  slow progress in my religious improvement. The occupation of part of
-  my [[Time|time]] in fishing and fowling had frequently tended to preser
-  me from falling into hurtful associations; but through the rising
-  intimations and reproofs of divine grace in my heart, I now began to
-  feel that the manner in which I sometimes amus'd myself with my gun
-  was not without sin; for although I mostly preferr'd going [[Alone|alone]],
-  and while waiting in stillness for the coming of the fowl,
-  mind was at times so taken up in divine meditations, that the
-  opportunities were [[Seasons|seasons]] of instruction and comfort to me; yet, on
-  other occasions, when accompanied by some of my acquaintances, and
-  when no fowls appear'd which would be useful to us after being
-  obtain'd, we sometimes, from wantonness or for mere diversion, would
-  destroy the small [[Birds|birds]] which could be of no service to us. This
-  cruel procedure affects my heart while penning these lines.
+My apprenticeship being now expir'd, I gradually withdrew from
+the company of my former associates, became more acquainted with
+Friends, and was more frequent in my attendance of meetings; and
+although this was in some degree profitable to me, yet I made but
+slow progress in my religious improvement. The occupation of part of
+my [[Time|time]] in fishing and fowling had frequently tended to preser
+me from falling into hurtful associations; but through the rising
+intimations and reproofs of divine grace in my heart, I now began to
+feel that the manner in which I sometimes amus'd myself with my gun
+was not without sin; for although I mostly preferr'd going [[Alone|alone]],
+and while waiting in stillness for the coming of the fowl,
+mind was at times so taken up in divine meditations, that the
+opportunities were [[Seasons|seasons]] of instruction and comfort to me; yet, on
+other occasions, when accompanied by some of my acquaintances, and
+when no fowls appear'd which would be useful to us after being
+obtain'd, we sometimes, from wantonness or for mere diversion, would
+destroy the small [[Birds|birds]] which could be of no service to us. This
+cruel procedure affects my heart while penning these lines.
 
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_176" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 176)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_176" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 176)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In his 23d year Elias was married, by the Friends' ceremony, to Jemima
@@ -45524,250 +45524,250 @@ there all his remaining life. Of this matrimonial part of his career,
 (it continued, and with unusual happiness, for 58 years,) he says,
 giving the account of his [[Marriage|marriage]]:
 
-  On this important occasion, we felt the clear and consoling evidence
-  of divine [[Truth|truth]], and it remain'd with us as a seal upon our spirits,
-  strengthening us mutually to bear, with becoming fortitude, the
-  vicissitudes and trials which fell to our lot, and of which we h
-  a large share in passing through this probationary state. My wife,
-  although not of a very strong constitution, liv'd to be the mother
-  of eleven children, four sons and seven daughters. Our second
-  daughter, a very lovely, promising [[Child|child]], died when young, with the
-  small-pox, and the youngest was not living at its birth. The rest
-  all arriv'd to years of discretion, and afforded us considerable
-  comfort, as they prov'd to be in a good degree dutiful children. All
-  our sons, however, were of weak constitutions, and were not able to
-  take care of themselves, being so enfeebl'd as not to be able to
-  walk after the ninth or tenth year of their age. The two eldest died
-  in the fifteenth year of their age, the third in his seventeenth
-  year, and the youngest was nearly nineteen when he died. But,
-  although thus helpless, the innocency of their lives, and the
-  resign'd cheerfulness of their dispositions to their allotments,
-  made the labor and toil of taking care of them agreeable and
-  pleasant; and I trust we were preserv'd from murmuring or repining,
-  believing the dispensation to be in wisdom, and according to the
-  will and gracious disposing of an all-wise [[Providence|providence]], for purposes
-  best known to himself. And when I have observ'd the great anxiety
-  and affliction which many parents have with undutiful children who
-  are favor'd with health, especially their sons, I could perceive
-  very few whose troubles and exercises, on that account, did not far
-  exceed ours. The weakness and bodily infirmity of our sons tended to
-  keep them much out of the way of the troubles and temptations
-  the world; and we believ'd that in their [[Death|death]] they were happy, and
-  admitted into the realms of peace and joy: a reflection, the most
-  comfortable and joyous that parents can have in regard to their
-  tender offspring.
+On this important occasion, we felt the clear and consoling evidence
+of divine [[Truth|truth]], and it remain'd with us as a seal upon our spirits,
+strengthening us mutually to bear, with becoming fortitude, the
+vicissitudes and trials which fell to our lot, and of which we h
+a large share in passing through this probationary state. My wife,
+although not of a very strong constitution, liv'd to be the mother
+of eleven children, four sons and seven daughters. Our second
+daughter, a very lovely, promising [[Child|child]], died when young, with the
+small-pox, and the youngest was not living at its birth. The rest
+all arriv'd to years of discretion, and afforded us considerable
+comfort, as they prov'd to be in a good degree dutiful children. All
+our sons, however, were of weak constitutions, and were not able to
+take care of themselves, being so enfeebl'd as not to be able to
+walk after the ninth or tenth year of their age. The two eldest died
+in the fifteenth year of their age, the third in his seventeenth
+year, and the youngest was nearly nineteen when he died. But,
+although thus helpless, the innocency of their lives, and the
+resign'd cheerfulness of their dispositions to their allotments,
+made the labor and toil of taking care of them agreeable and
+pleasant; and I trust we were preserv'd from murmuring or repining,
+believing the dispensation to be in wisdom, and according to the
+will and gracious disposing of an all-wise [[Providence|providence]], for purposes
+best known to himself. And when I have observ'd the great anxiety
+and affliction which many parents have with undutiful children who
+are favor'd with health, especially their sons, I could perceive
+very few whose troubles and exercises, on that account, did not far
+exceed ours. The weakness and bodily infirmity of our sons tended to
+keep them much out of the way of the troubles and temptations
+the world; and we believ'd that in their [[Death|death]] they were happy, and
+admitted into the realms of peace and joy: a reflection, the most
+comfortable and joyous that parents can have in regard to their
+tender offspring.
 
 Of a serious and reflective turn, by [[Nature|nature]], and from his reading
 and surroundings, Elias had more than once markedly devotional inward
 intimations. These feelings increas'd in frequency and strength, until
 soon the following:
 
-  About the twenty-sixth year of my age I was again brought, by the
-  operative influence of divine grace, under deep concern of mind; and
-  was led, through adorable [[Mercy|mercy]], to see, that although I had ceas'd
-  from many sins and vanities of my youth, yet there were many
-  remaining that I was still guilty of, which were not yet aton'd for,
-  and for which I now felt the judgments of God to rest upon m
-  This caus'd me to cry earnestly to the Most High for pardon and
-  redemption, and he graciously condescended to hear my cry, and to
-  open a way before me, wherein I must walk, in order to experience
-  [[Reconciliation|reconciliation]] with him; and as I abode in watchfulness and deep
-  humiliation before him, light broke forth out of obscurity, and my
-  darkness became as the [[Noon|noon]]-day. I began to have openings leading to
-  the ministry, which brought me under close exercise and deep travail
-  of spirit; for although I had for some [[Time|time]] spoken on subjects of
-  business in monthly and preparative meetings, yet the prospe
-  of opening my mouth in public meetings was a close trial; but I
-  endeavor'd to keep my mind quiet and resign' d to the heavenly call,
-  if it should be made clear to me to be my duty. Nevertheless,
-  I was, soon after, sitting in a meeting, in much weightiness of
-  spirit, a secret, though clear, intimation accompanied me to spe
-  a few words, which were then given to me to utter, yet [[Fear|fear]] so
-  prevail'd, that I did not yield to the intimation. For this
-  omission, I felt close rebuke, and judgment seem'd, for some [[Time|time]],
-  to cover my mind; but as I humbl'd myself under the Lord's mighty
-  hand, he again lifted up the light of his countenance upon me, and
-  enabl'd me to renew covenant with him, that if he would pass by this
-  my offence, I would, in future, be faithful, if he should again
-  require such a service of me.
+About the twenty-sixth year of my age I was again brought, by the
+operative influence of divine grace, under deep concern of mind; and
+was led, through adorable [[Mercy|mercy]], to see, that although I had ceas'd
+from many sins and vanities of my youth, yet there were many
+remaining that I was still guilty of, which were not yet aton'd for,
+and for which I now felt the judgments of God to rest upon m
+This caus'd me to cry earnestly to the Most High for pardon and
+redemption, and he graciously condescended to hear my cry, and to
+open a way before me, wherein I must walk, in order to experience
+[[Reconciliation|reconciliation]] with him; and as I abode in watchfulness and deep
+humiliation before him, light broke forth out of obscurity, and my
+darkness became as the [[Noon|noon]]-day. I began to have openings leading to
+the ministry, which brought me under close exercise and deep travail
+of spirit; for although I had for some [[Time|time]] spoken on subjects of
+business in monthly and preparative meetings, yet the prospe
+of opening my mouth in public meetings was a close trial; but I
+endeavor'd to keep my mind quiet and resign' d to the heavenly call,
+if it should be made clear to me to be my duty. Nevertheless,
+I was, soon after, sitting in a meeting, in much weightiness of
+spirit, a secret, though clear, intimation accompanied me to spe
+a few words, which were then given to me to utter, yet [[Fear|fear]] so
+prevail'd, that I did not yield to the intimation. For this
+omission, I felt close rebuke, and judgment seem'd, for some [[Time|time]],
+to cover my mind; but as I humbl'd myself under the Lord's mighty
+hand, he again lifted up the light of his countenance upon me, and
+enabl'd me to renew covenant with him, that if he would pass by this
+my offence, I would, in future, be faithful, if he should again
+require such a service of me.
 
 The Revolutionary War following, tried the sect of Friends more than
 any. The difficulty was to steer between their convictions as patriots,
 and their pledges of non-warring peace. Here is the way they solv'd the
 problem:
 
-  A war, with all its cruel and destructive effects, having raged for
-  several years between the British Colonies in North [[America]] and the
-  mother country, Friends, as [[Well|well]] as others, were expos' d to many
-  severe trials and sufferings; yet, in the colony of [[New York]],
-  Friends, who stood faithful to their principles, and did not meddle
-  in the controversy, had, after a short period at first, considerable
-  favor allow'd them. The yearly meeting was held steadily, duri
-  the war, on Long Island, where the [[King|king]]'s party had the rule; yet
-  Friends from the Main, where the American army ruled, had free
-  passage through both armies to attend it, and any other meetings
-  they were desirous of attending, except in a few instances. This was
-  a favor which the parties would not grant to their best friends, who
-  were of a war-like disposition; which shows what great advantages
-  would redound to mankind, were they all of this pacific spirit. I
-  pass'd myself through the lines of both armies six times during the
-  war, without molestation, both parties generally receiving me with
-  openness and civility; and although I had to pass over a tract of
-  country, between the two armies, sometimes more than thirty miles in
-  extent, and which was much frequented by robbers, a set, in general,
-  of cruel, unprincipled banditti, issuing out from both partie
-  yet, excepting once, I met with no interruption even from the
-  But although Friends in general experienc'd many favors and
-  deliverances, yet those scenes of war and confusion occasion
-  many trials and provings in various ways to the faithful. One
-  circumstance I am willing to mention, as it caus'd me considerable
-  exercise and concern. There was a large cellar under the new
-  meeting-[[house]] belonging to Friends in [[New York]], which was generally
-  let as a store. When the [[King|king]]'s troops enter'd the [[City|city]], they took
-  possession of it for the purpose of depositing their warlike stores;
-  and ascertaining what Friends had the care of letting it, their
-  commissary came forward and offer'd to pay the rent; and those
-  Friends, for want of due consideration, accepted it. This caus'd
-  great uneasiness to the concern'd part of the Society, who
-  apprehended it not consistent with our peaceable principles to
-  receive payment for the depositing of military stores in our houses.
-  The subject was brought before the yearly meeting in 1779, and
-  engag'd its careful attention; but those Friends, who had been
-  active in the reception of the money, and some few others, were not
-  willing to acknowledge their proceedings to be inconsistent, nor to
-  return the money to those from whom it was receiv'd; and in order to
-  justify themselves therein, they referr'd to the conduct of Friends
-  in Philadelphia in similar cases. Matters thus appearing very
-  difficult and embarrassing, it was unitedly concluded to refer the
-  final determination thereof to the yearly meeting of Pennsylvania;
-  and several Friends were appointed to attend that meeting in
-  relation thereto, among whom I was one of the number. We accordingly
-  set out on the 9th day of the 9th month, 1779, and I was accompanied
-  from [[Home|home]] by my beloved friend John Willis, who was likewise on the
-  appointment. We took a solemn leave of our families, they feeling
-  much anxiety at parting with us, on account of the dangers we were
-  expos'd to, having to pass not only the lines of the two armies, but
-  the deserted and almost uninhabited country that lay between them,
-  in many places the grass being grown up in the streets, and many
-  houses desolate and empty. Believing it, however, my duty to proceed
-  in the service, my mind was so settled and trust-fix'd in the divine
-  arm of power, that [[Faith|faith]] seem'd to banish all [[Fear|fear]], and cheerfulness
-  and quiet [[Resignation|resignation]] were, I believe, my constant companions during
-  the [[Journey|journey]]. We got permission, with but little difficulty, to pass
-  the outguards of the [[King|king]]'s army at Kingsbridge, and proceeded to
-  Westchester. We afterwards attended meetings at Harrison's Purchase,
-  and Oblong, having the concurrence of our monthly meeting to take
-  some meetings in our way, a concern leading thereto having for some
-  [[Time|time]] previously attended my mind. We pass'd from thence to Nine
-  Partners, and attended their monthly meeting, and then turn'd our
-  faces towards Philadelphia, being join'd by several others of the
-  Committee. We attended New Marlborough, Hardwick, and Kingswood
-  meetings on our [[Journey|journey]], and arriv'd at Philadelphia on the 7th day
-  of the week, and 25th of 9th month, on which day we attended the
-  yearly meeting of Ministers and Elders, which began at the eleventh
-  hour. I also attended all the sittings of the yearly meeting until
-  the 4th day of the next week, and was then so indispos'd with a
-  fever, which had been increasing on me for several days, that I was
-  not able to attend after that [[Time|time]]. I was therefore not present when
-  the subject was discuss' d, which came from our yearly meeting but I
-  was inform'd by my companion, that it was a very solemn opportunity,
-  and the matter was resulted in advising that the money should be
-  return'd into the office from whence it was receiv'd, accompanied
-  with our reasons for so doing: and this was accordingly done by the
-  direction of our yearly meeting the next year.
+A war, with all its cruel and destructive effects, having raged for
+several years between the British Colonies in North [[America]] and the
+mother country, Friends, as [[Well|well]] as others, were expos' d to many
+severe trials and sufferings; yet, in the colony of [[New York]],
+Friends, who stood faithful to their principles, and did not meddle
+in the controversy, had, after a short period at first, considerable
+favor allow'd them. The yearly meeting was held steadily, duri
+the war, on Long Island, where the [[King|king]]'s party had the rule; yet
+Friends from the Main, where the American army ruled, had free
+passage through both armies to attend it, and any other meetings
+they were desirous of attending, except in a few instances. This was
+a favor which the parties would not grant to their best friends, who
+were of a war-like disposition; which shows what great advantages
+would redound to mankind, were they all of this pacific spirit. I
+pass'd myself through the lines of both armies six times during the
+war, without molestation, both parties generally receiving me with
+openness and civility; and although I had to pass over a tract of
+country, between the two armies, sometimes more than thirty miles in
+extent, and which was much frequented by robbers, a set, in general,
+of cruel, unprincipled banditti, issuing out from both partie
+yet, excepting once, I met with no interruption even from the
+But although Friends in general experienc'd many favors and
+deliverances, yet those scenes of war and confusion occasion
+many trials and provings in various ways to the faithful. One
+circumstance I am willing to mention, as it caus'd me considerable
+exercise and concern. There was a large cellar under the new
+meeting-[[house]] belonging to Friends in [[New York]], which was generally
+let as a store. When the [[King|king]]'s troops enter'd the [[City|city]], they took
+possession of it for the purpose of depositing their warlike stores;
+and ascertaining what Friends had the care of letting it, their
+commissary came forward and offer'd to pay the rent; and those
+Friends, for want of due consideration, accepted it. This caus'd
+great uneasiness to the concern'd part of the Society, who
+apprehended it not consistent with our peaceable principles to
+receive payment for the depositing of military stores in our houses.
+The subject was brought before the yearly meeting in 1779, and
+engag'd its careful attention; but those Friends, who had been
+active in the reception of the money, and some few others, were not
+willing to acknowledge their proceedings to be inconsistent, nor to
+return the money to those from whom it was receiv'd; and in order to
+justify themselves therein, they referr'd to the conduct of Friends
+in Philadelphia in similar cases. Matters thus appearing very
+difficult and embarrassing, it was unitedly concluded to refer the
+final determination thereof to the yearly meeting of Pennsylvania;
+and several Friends were appointed to attend that meeting in
+relation thereto, among whom I was one of the number. We accordingly
+set out on the 9th day of the 9th month, 1779, and I was accompanied
+from [[Home|home]] by my beloved friend John Willis, who was likewise on the
+appointment. We took a solemn leave of our families, they feeling
+much anxiety at parting with us, on account of the dangers we were
+expos'd to, having to pass not only the lines of the two armies, but
+the deserted and almost uninhabited country that lay between them,
+in many places the grass being grown up in the streets, and many
+houses desolate and empty. Believing it, however, my duty to proceed
+in the service, my mind was so settled and trust-fix'd in the divine
+arm of power, that [[Faith|faith]] seem'd to banish all [[Fear|fear]], and cheerfulness
+and quiet [[Resignation|resignation]] were, I believe, my constant companions during
+the [[Journey|journey]]. We got permission, with but little difficulty, to pass
+the outguards of the [[King|king]]'s army at Kingsbridge, and proceeded to
+Westchester. We afterwards attended meetings at Harrison's Purchase,
+and Oblong, having the concurrence of our monthly meeting to take
+some meetings in our way, a concern leading thereto having for some
+[[Time|time]] previously attended my mind. We pass'd from thence to Nine
+Partners, and attended their monthly meeting, and then turn'd our
+faces towards Philadelphia, being join'd by several others of the
+Committee. We attended New Marlborough, Hardwick, and Kingswood
+meetings on our [[Journey|journey]], and arriv'd at Philadelphia on the 7th day
+of the week, and 25th of 9th month, on which day we attended the
+yearly meeting of Ministers and Elders, which began at the eleventh
+hour. I also attended all the sittings of the yearly meeting until
+the 4th day of the next week, and was then so indispos'd with a
+fever, which had been increasing on me for several days, that I was
+not able to attend after that [[Time|time]]. I was therefore not present when
+the subject was discuss' d, which came from our yearly meeting but I
+was inform'd by my companion, that it was a very solemn opportunity,
+and the matter was resulted in advising that the money should be
+return'd into the office from whence it was receiv'd, accompanied
+with our reasons for so doing: and this was accordingly done by the
+direction of our yearly meeting the next year.
 
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_177" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 177)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_177" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 177)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Then, season after season, when peace and Independence reign'd, year
 following year, this remains to be (1791) a specimen of his personal
 labors:
 
-  I was from [[Home|home]] on this [[Journey|journey]] four months and eleven days; rode
-  about one thousand five hundred miles, and attended forty-nine
-  particular meetings among Friends, three quarterly meetings, six
-  monthly meetings, and forty meetings among other people.
+I was from [[Home|home]] on this [[Journey|journey]] four months and eleven days; rode
+about one thousand five hundred miles, and attended forty-nine
+particular meetings among Friends, three quarterly meetings, six
+monthly meetings, and forty meetings among other people.
 
 And again another experience:
 
-  In the forepart of this meeting, my mind was reduc'd into such a
-  state of great weakness and depression, that my [[Faith|faith]] was almost
-  ready to fail, which produc'd great searchings of heart, so that I
-  was led to call in question all that I had ever before experienc'd.
-  In this state of doubting, I was ready to wish myself at [[Home|home]], from
-  an apprehension that I should only expose myself to reproach, and
-  wound the cause I was embark'd in; for the heavens seem'd like
-  brass, and the earth as iron; such coldness and hardness, I thought,
-  could scarcely have ever been experienc'd before by any creature, so
-  great was the depth of my baptism at this [[Time|time]]; nevertheless, as I
-  endeavor'd to quiet my mind, in this conflicting dispensation, and
-  be resign'd to my allotment, however distressing, towards the latter
-  part of the meeting a ray of light broke through the surrounding
-  darkness, in which the Shepherd of Israel was pleas'd to arise, and
-  by the light of his glorious countenance, to scatter those clouds of
-  opposition. Then ability was receiv'd, and utterance given, to speak
-  of his marvellous works in the redemption of souls, and to op
-  the way of life and salvation, and the mysteries of his glorious
-  kingdom, which are hid from the wise and prudent of this world, and
-  reveal'd only unto those who are reduc'd into the state of little
-  children and babes in [[Christ]].
+In the forepart of this meeting, my mind was reduc'd into such a
+state of great weakness and depression, that my [[Faith|faith]] was almost
+ready to fail, which produc'd great searchings of heart, so that I
+was led to call in question all that I had ever before experienc'd.
+In this state of doubting, I was ready to wish myself at [[Home|home]], from
+an apprehension that I should only expose myself to reproach, and
+wound the cause I was embark'd in; for the heavens seem'd like
+brass, and the earth as iron; such coldness and hardness, I thought,
+could scarcely have ever been experienc'd before by any creature, so
+great was the depth of my baptism at this [[Time|time]]; nevertheless, as I
+endeavor'd to quiet my mind, in this conflicting dispensation, and
+be resign'd to my allotment, however distressing, towards the latter
+part of the meeting a ray of light broke through the surrounding
+darkness, in which the Shepherd of Israel was pleas'd to arise, and
+by the light of his glorious countenance, to scatter those clouds of
+opposition. Then ability was receiv'd, and utterance given, to speak
+of his marvellous works in the redemption of souls, and to op
+the way of life and salvation, and the mysteries of his glorious
+kingdom, which are hid from the wise and prudent of this world, and
+reveal'd only unto those who are reduc'd into the state of little
+children and babes in [[Christ]].
 
 And concluding another jaunt in 1794:
 
-  I was from [[Home|home]] in this [[Journey|journey]] about five months, and travell
-  by land and [[Water|water]] about two thousand two hundred and eighty-three
-  miles; having visited all the meetings of Friends in the [[New England]]
-  states, and many meetings amongst those of other professions; and
-  also visited many meetings, among Friends and others, in the upper
-  part of our own yearly meeting; and found real peace in my labors.
+I was from [[Home|home]] in this [[Journey|journey]] about five months, and travell
+by land and [[Water|water]] about two thousand two hundred and eighty-three
+miles; having visited all the meetings of Friends in the [[New England]]
+states, and many meetings amongst those of other professions; and
+also visited many meetings, among Friends and others, in the upper
+part of our own yearly meeting; and found real peace in my labors.
 
 Another 'tramp' in 1798:
 
-  I was absent from [[Home|home]] in this [[Journey|journey]] about five months and two
-  weeks, and rode about sixteen hundred miles, and attended about one
-  hundred and forty-three meetings.
+I was absent from [[Home|home]] in this [[Journey|journey]] about five months and two
+weeks, and rode about sixteen hundred miles, and attended about one
+hundred and forty-three meetings.
 
 Here are some memoranda of 1813, near [[Home|home]]:
 
-  First day. Our meeting this day pass'd in silent labor. The cloud
-  rested on the tabernacle; and, although it was a day of much rain
-  outwardly, yet very little of the dew of Hermon appear'd to distil
-  among us. Nevertheless, a comfortable calm was witness'd towards the
-  close, which we must render to the account of unmerited [[Mercy|mercy]] and
-  [[Love|love]].
+First day. Our meeting this day pass'd in silent labor. The cloud
+rested on the tabernacle; and, although it was a day of much rain
+outwardly, yet very little of the dew of Hermon appear'd to distil
+among us. Nevertheless, a comfortable calm was witness'd towards the
+close, which we must render to the account of unmerited [[Mercy|mercy]] and
+[[Love|love]].
 
-  Second day. Most of this day was occupied in a visit to a sick
-  friend, who appeared comforted therewith. Spent part of the evening
-  in reading part of Paul's Epistle to the Romans.
+Second day. Most of this day was occupied in a visit to a sick
+friend, who appeared comforted therewith. Spent part of the evening
+in reading part of Paul's Epistle to the Romans.
 
-  Third day. I was busied most of this day in my common vocations.
-  Spent the evening principally in reading Paul. Found considerable
-  satisfaction in his first epistle to the Corinthians; in which he
-  shows the danger of some in setting too high a value on those who
-  were instrumental in bringing them to the knowledge of the [[Truth|truth]],
-  without looking through and beyond the instrument, to the great
-  first cause and Author of every blessing, to whom all the praise and
-  honor are due.
+Third day. I was busied most of this day in my common vocations.
+Spent the evening principally in reading Paul. Found considerable
+satisfaction in his first epistle to the Corinthians; in which he
+shows the danger of some in setting too high a value on those who
+were instrumental in bringing them to the knowledge of the [[Truth|truth]],
+without looking through and beyond the instrument, to the great
+first cause and Author of every blessing, to whom all the praise and
+honor are due.
 
-  Fifth day, 1st of 4th month. At our meeting to-day found it, as
-  usual, a very close steady exercise to keep the mind center'
-  where it ought to be. What a multitude of intruding thoughts
-  imperceptibly, as it were, steal into the mind, and turn it from its
-  proper object, whenever it relaxes its vigilance in watching against
-  them. Felt a little strength, just at the close, to remind Friends
-  of the necessity of a steady perseverance, by a recapitulation of
-  the [[Parable|parable]] of the unjust judge, showing how men ought always to
-  pray, and not to faint.
+Fifth day, 1st of 4th month. At our meeting to-day found it, as
+usual, a very close steady exercise to keep the mind center'
+where it ought to be. What a multitude of intruding thoughts
+imperceptibly, as it were, steal into the mind, and turn it from its
+proper object, whenever it relaxes its vigilance in watching against
+them. Felt a little strength, just at the close, to remind Friends
+of the necessity of a steady perseverance, by a recapitulation of
+the [[Parable|parable]] of the unjust judge, showing how men ought always to
+pray, and not to faint.
 
-  Sixth day. Nothing material occurr'd, but a [[Fear|fear]] lest the cares of
-  the world should engross too much of my [[Time|time]].
+Sixth day. Nothing material occurr'd, but a [[Fear|fear]] lest the cares of
+the world should engross too much of my [[Time|time]].
 
-  Seventh day. Had an agreeable visit from two ancient friends, which
-  I have long lov'd. The rest of the day I employ'd in manual labor,
-  mostly in gardening.
+Seventh day. Had an agreeable visit from two ancient friends, which
+I have long lov'd. The rest of the day I employ'd in manual labor,
+mostly in gardening.
 
 But we find if we attend to records and details, we shall lay out an
 endless task. We can briefly say, summarily, that his whole life was
@@ -45796,7 +45796,7 @@ described.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_178" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 178)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_178" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 178)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Elias Hicks was at this period in the latter part (November or December)
@@ -45908,25 +45908,25 @@ of Quakerdom show some unseemly and insane acts.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_179" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 179)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_179" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 179)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In one of the lives of Ralph Waldo Emerson is a list of lessons or
 instructions, ("seal'd orders" the biographer calls them,) prepar'd by
 the sage himself for his own guidance. Here is one:
 
-    Go forth with thy message among thy fellow-creatures; teach them that
-    they must trust themselves as guided by that inner light which dwells
-    with the pure in heart, to whom it was promis'd of old that they shall
-    see God.
+Go forth with thy message among thy fellow-creatures; teach them that
+they must trust themselves as guided by that inner light which dwells
+with the pure in heart, to whom it was promis'd of old that they shall
+see God.
 
 How thoroughly it fits the life and theory of Elias Hicks. Then in Omar
 Khayyam:
 
-    I sent my [[Soul|soul]] through the Invisible,
-      Some letter of that after-life to spell,
-    And by-and-by my [[Soul|soul]] return'd to me,
-      And answer'd, "I myself am Heaven and Hell."
+I sent my [[Soul|soul]] through the Invisible,
+Some letter of that after-life to spell,
+And by-and-by my [[Soul|soul]] return'd to me,
+And answer'd, "I myself am Heaven and Hell."
 
 Indeed, of this important element of the theory and practice of
 Quakerism, the difficult-to-describe "Light within" or "Inward Law, by
@@ -45943,87 +45943,87 @@ from it (even if presenting you a sheaf of hidden wheat that may need to
 be pick'd and thrash'd out several times before you get the grain,) we
 give the following extract:
 
-  I don't want to express a great many words; but I want you to be
-  call'd [[Home|home]] to the substance. For the Scriptures, and all the
-  books in the world, can do no more; Jesus could do no more than to
-  recommend to this Comforter, which was the light in him. "God is
-  light, and in him is no darkness at all; and if we walk in the
-  light, as he is in the light, we have fellowship one with another."
-  Because the light is one in all, and therefore it binds us together
-  in the bonds of [[Love|love]]; for it is not only light, but [[Love|love]]--that [[Love|love]]
-  which casts out all [[Fear|fear]]. So that they who dwell in God dwell in
-  [[Love|love]], and they are constrain'd to walk in it; and if they "walk in
-  it, they have fellowship one with another, and the [[Blood|blood]] of Jesus
-  [[Christ]] his Son cleanseth us from all sin."
+I don't want to express a great many words; but I want you to be
+call'd [[Home|home]] to the substance. For the Scriptures, and all the
+books in the world, can do no more; Jesus could do no more than to
+recommend to this Comforter, which was the light in him. "God is
+light, and in him is no darkness at all; and if we walk in the
+light, as he is in the light, we have fellowship one with another."
+Because the light is one in all, and therefore it binds us together
+in the bonds of [[Love|love]]; for it is not only light, but [[Love|love]]--that [[Love|love]]
+which casts out all [[Fear|fear]]. So that they who dwell in God dwell in
+[[Love|love]], and they are constrain'd to walk in it; and if they "walk in
+it, they have fellowship one with another, and the [[Blood|blood]] of Jesus
+[[Christ]] his Son cleanseth us from all sin."
 
-  But what [[Blood|blood]], my friends? Did Jesus [[Christ]], the Saviour, ever have
-  any material [[Blood|blood]]? Not a drop of it, my friends--not a drop of it.
-  That [[Blood|blood]] which cleanseth from the life of all sin, was the life of
-  the [[Soul|soul]] of Jesus. The [[Soul|soul]] of man has no material [[Blood|blood]]; but as the
-  outward material [[Blood|blood]], created from the [[Dust|dust]] of the earth, is the
-  life of these bodies of flesh, so with respect to the [[Soul|soul]], the
-  immortal and invisible spirit, its [[Blood|blood]] is that life which God
-  breath'd into it.
+But what [[Blood|blood]], my friends? Did Jesus [[Christ]], the Saviour, ever have
+any material [[Blood|blood]]? Not a drop of it, my friends--not a drop of it.
+That [[Blood|blood]] which cleanseth from the life of all sin, was the life of
+the [[Soul|soul]] of Jesus. The [[Soul|soul]] of man has no material [[Blood|blood]]; but as the
+outward material [[Blood|blood]], created from the [[Dust|dust]] of the earth, is the
+life of these bodies of flesh, so with respect to the [[Soul|soul]], the
+immortal and invisible spirit, its [[Blood|blood]] is that life which God
+breath'd into it.
 
-  As we read, in the beginning, that "God form'd man of the [[Dust|dust]] of
-  the ground, and breath'd into him the breath of life, and man became
-  a living [[Soul|soul]]." He breath'd into that [[Soul|soul]], and it became alive to
-  God.
+As we read, in the beginning, that "God form'd man of the [[Dust|dust]] of
+the ground, and breath'd into him the breath of life, and man became
+a living [[Soul|soul]]." He breath'd into that [[Soul|soul]], and it became alive to
+God.
 
 Then, from one of his many letters, for he seems to have delighted in
 correspondence:
 
-  Some may query, What is the [[Cross|cross]] of [[Christ]]? To these I answer, It
-  is the perfect law of God, written on the tablet of the hear
-  and in the heart of every rational creature, in such indelible
-  characters that all the power of mortals cannot erase nor obliterate
-  it. Neither is there any power or means given or dispens'd to the
-  children of men, but this inward law and light, by which the true
-  and saving knowledge of God can be obtain' d. And by this inward law
-  and light, all will be either justified or condemn'd, and all made
-  to know God for themselves, and be left without excuse, agreeably to
-  the prophecy of Jeremiah, and the corroborating testimony of Jesus
-  in his last counsel and command to his disciples, not to depart from
-  Jerusalem till they should receive power from on high; assuring them
-  that they should receive power, when they had receiv'd the pouring
-  forth of the spirit upon them, which would qualify them to bear
-  witness of him in Judea, Jerusalem, Samaria, and to the uttermost
-  parts of the earth; which was verified in a marvellous manner on the
-  day of Pentecost, when thousands were converted to the Christian
-  [[Faith|faith]] in one day.
+Some may query, What is the [[Cross|cross]] of [[Christ]]? To these I answer, It
+is the perfect law of God, written on the tablet of the hear
+and in the heart of every rational creature, in such indelible
+characters that all the power of mortals cannot erase nor obliterate
+it. Neither is there any power or means given or dispens'd to the
+children of men, but this inward law and light, by which the true
+and saving knowledge of God can be obtain' d. And by this inward law
+and light, all will be either justified or condemn'd, and all made
+to know God for themselves, and be left without excuse, agreeably to
+the prophecy of Jeremiah, and the corroborating testimony of Jesus
+in his last counsel and command to his disciples, not to depart from
+Jerusalem till they should receive power from on high; assuring them
+that they should receive power, when they had receiv'd the pouring
+forth of the spirit upon them, which would qualify them to bear
+witness of him in Judea, Jerusalem, Samaria, and to the uttermost
+parts of the earth; which was verified in a marvellous manner on the
+day of Pentecost, when thousands were converted to the Christian
+[[Faith|faith]] in one day.
 
-  By which it is evident that nothing but this inward light and law,
-  as it is heeded and obey'd, ever did, or ever can, make a true
-  and real Christian and [[Child|child]] of God. And until the professors
-  of [[Christianity]] agree to lay aside all their non-essentials in
-  religion, and rally to this unchangeable foundation and standard of
-  [[Truth|truth]], wars and fightings, confusion and error, will prevail, and
-  the angelic [[Song|song]] cannot be heard in our land--that of "glory to God
-  in the highest, and on earth peace and good will to men."
+By which it is evident that nothing but this inward light and law,
+as it is heeded and obey'd, ever did, or ever can, make a true
+and real Christian and [[Child|child]] of God. And until the professors
+of [[Christianity]] agree to lay aside all their non-essentials in
+religion, and rally to this unchangeable foundation and standard of
+[[Truth|truth]], wars and fightings, confusion and error, will prevail, and
+the angelic [[Song|song]] cannot be heard in our land--that of "glory to God
+in the highest, and on earth peace and good will to men."
 
-  But when all nations are made willing to make this inward law and
-  light the rule and standard of all their [[Faith|faith]] and works, then we
-  shall be brought to know and believe alike, that there is but one
-  Lord, one [[Faith|faith]], and but one baptism; one God and Father, that is
-  above all, through all, and in all.
+But when all nations are made willing to make this inward law and
+light the rule and standard of all their [[Faith|faith]] and works, then we
+shall be brought to know and believe alike, that there is but one
+Lord, one [[Faith|faith]], and but one baptism; one God and Father, that is
+above all, through all, and in all.
 
-  And then will all those glorious and consoling prophecies recorded
-  in the scriptures of [[Truth|truth]] be fulfill'd--"He," the Lord, "shall
-  judge among the nations, and shall rebuke many people; and they
-  shall beat their swords into ploughshares, and their spears into
-  pruning-hooks; nation shall not lift up the [[Sword|sword]] against nation,
-  neither shall they learn war any more. The wolf also shall dwell
-  with the [[Lamb|lamb]]; and the cow and the bear shall feed; and the [[Lion|lion]]
-  shall eat straw like the ox; and the sucking [[Child|child]] shall play
-  the hole of the asp, and the wean'd [[Child|child]] put his hand on the
-  cockatrice's den. They shall not hurt nor destroy in all my holy
-  mountain; for the earth," that is our earthly tabernacle, "shall be
-  full of the knowledge of the Lord, as the waters cover the sea."
-
-
+And then will all those glorious and consoling prophecies recorded
+in the scriptures of [[Truth|truth]] be fulfill'd--"He," the Lord, "shall
+judge among the nations, and shall rebuke many people; and they
+shall beat their swords into ploughshares, and their spears into
+pruning-hooks; nation shall not lift up the [[Sword|sword]] against nation,
+neither shall they learn war any more. The wolf also shall dwell
+with the [[Lamb|lamb]]; and the cow and the bear shall feed; and the [[Lion|lion]]
+shall eat straw like the ox; and the sucking [[Child|child]] shall play
+the hole of the asp, and the wean'd [[Child|child]] put his hand on the
+cockatrice's den. They shall not hurt nor destroy in all my holy
+mountain; for the earth," that is our earthly tabernacle, "shall be
+full of the knowledge of the Lord, as the waters cover the sea."
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_180" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 180)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+
+
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_180" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 180)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The exposition in the last sentence, that the terms of the texts are not
@@ -46044,17 +46044,17 @@ no rule, no statement has given or can give inherent knowledge,
 intuition--not even the best speech, or best put forth, but launch'd out
 only by powerful human magnetism:
 
-    Unheard by sharpest ear--unformed in clearest eye, or cunningest
-      mind,
-    Nor lore, nor fame, nor happiness, nor wealth,
-    And yet the pulse of every heart and life throughout the world,
-      incessantly,
-    Which you and I, and all, pursuing ever, ever miss;
-    Open, but still a secret--the real of the real--an illusion;
-    Costless, vouchsafed to each, yet never man the owner;
-    Which poets vainly seek to put in rhyme----historians in prose;
-    Which sculptor never chisel'd yet, nor painter painted;
-    Which vocalist never sung, nor orator nor actor ever utter' d.
+Unheard by sharpest ear--unformed in clearest eye, or cunningest
+mind,
+Nor lore, nor fame, nor happiness, nor wealth,
+And yet the pulse of every heart and life throughout the world,
+incessantly,
+Which you and I, and all, pursuing ever, ever miss;
+Open, but still a secret--the real of the real--an illusion;
+Costless, vouchsafed to each, yet never man the owner;
+Which poets vainly seek to put in rhyme----historians in prose;
+Which sculptor never chisel'd yet, nor painter painted;
+Which vocalist never sung, nor orator nor actor ever utter' d.
 
 That remorse, too, for a mere worldly life--that [[Aspiration|aspiration]] towards the
 ideal, which, however overlaid, lies folded latent, hidden, in perhaps
@@ -46067,30 +46067,30 @@ incident.
 
 Soon afterward the old man died:
 
-  On first day morning, the 14th of 2d month (February, 1830,) he was
-  engaged in his room, writing to a friend, until a little after ten
-  o'[[Clock|clock]], when he return'd to that occupied by the family, apparently
-  just attack'd by a paralytic affection, which nearly deprived h
-  of the use of his right side, and of the power of speech. Being
-  assisted to a chair near the [[Fire|fire]], he manifested by signs, that the
-  letter which he had just finish'd, and which had been dropp'd
-  the way, should be taken care of; and on its being brought to him,
-  appear'd satisfied, and manifested a [[Desire|desire]] that all should sit down
-  and be still, seemingly sensible that his labours were brought to a
-  close, and only desirous of quietly waiting the final change. The
-  solemn composure at this [[Time|time]] manifest in his countenance, w
-  very impressive, indicating that he was sensible the [[Time|time]] of his
-  departure was at hand, and that the prospect of [[Death|death]] brought no
-  terrors with it. During his last illness, his mental faculti
-  were occasionally obscured, yet he was at times enabled to give
-  satisfactory evidence to those around him, that all was [[Well|well]], and
-  that he felt nothing in his way.
+On first day morning, the 14th of 2d month (February, 1830,) he was
+engaged in his room, writing to a friend, until a little after ten
+o'[[Clock|clock]], when he return'd to that occupied by the family, apparently
+just attack'd by a paralytic affection, which nearly deprived h
+of the use of his right side, and of the power of speech. Being
+assisted to a chair near the [[Fire|fire]], he manifested by signs, that the
+letter which he had just finish'd, and which had been dropp'd
+the way, should be taken care of; and on its being brought to him,
+appear'd satisfied, and manifested a [[Desire|desire]] that all should sit down
+and be still, seemingly sensible that his labours were brought to a
+close, and only desirous of quietly waiting the final change. The
+solemn composure at this [[Time|time]] manifest in his countenance, w
+very impressive, indicating that he was sensible the [[Time|time]] of his
+departure was at hand, and that the prospect of [[Death|death]] brought no
+terrors with it. During his last illness, his mental faculti
+were occasionally obscured, yet he was at times enabled to give
+satisfactory evidence to those around him, that all was [[Well|well]], and
+that he felt nothing in his way.
 
-  His funeral took place on fourth day, the 3rd of 3rd month. It was
-  attended by a large concourse of Friends and others, and a solid
-  meeting was held on the occasion; after which, his remains were
-  interr'd in Friends' burial-ground at this place (Jericho, Queens
-  county, [[New York]].)
+His funeral took place on fourth day, the 3rd of 3rd month. It was
+attended by a large concourse of Friends and others, and a solid
+meeting was held on the occasion; after which, his remains were
+interr'd in Friends' burial-ground at this place (Jericho, Queens
+county, [[New York]].)
 
 I have thought (even presented so incompletely, with such fearful
 hiatuses, and in my own feebleness and waning life) one might [[Well|well]]
@@ -46128,7 +46128,7 @@ husbands and wives, parents and children, were separated.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_181" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 181)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_181" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 181)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Of course what Elias promulg'd spread a great commotion among the
@@ -46173,16 +46173,16 @@ genuine religious fervor. He was like an old Hebrew [[Prophet|prophet]]. He had 
 spirit of one, and in his later years look'd like one. What Carlyle says
 of John Knox will apply to him:
 
-  He is an instance to us how a man, by sincerity itself, becomes
-  heroic; it is the grand gift he has. We find in him a good, honest,
-  intellectual talent, no transcendent one;--a narrow, inconsiderable
-  man, as compared with Luther; but in heartfelt instinctive adherence
-  to [[Truth|truth]], in _sincerity_ as we say, he has no superior; nay, one
-  might ask, What equal he has? The heart of him is of the true
-  [[Prophet]] cast. "He lies there," said the Earl of Morton at Knox's
-  [[Grave|grave]], "who never [[Fear|fear]]'d the face of man." He resembles, more than
-  any of the moderns, an old Hebrew [[Prophet]]. The same inflexibility,
-  intolerance, rigid, narrow-looking adherence to God's [[Truth|truth]].
+He is an instance to us how a man, by sincerity itself, becomes
+heroic; it is the grand gift he has. We find in him a good, honest,
+intellectual talent, no transcendent one;--a narrow, inconsiderable
+man, as compared with Luther; but in heartfelt instinctive adherence
+to [[Truth|truth]], in _sincerity_ as we say, he has no superior; nay, one
+might ask, What equal he has? The heart of him is of the true
+[[Prophet]] cast. "He lies there," said the Earl of Morton at Knox's
+[[Grave|grave]], "who never [[Fear|fear]]'d the face of man." He resembles, more than
+any of the moderns, an old Hebrew [[Prophet]]. The same inflexibility,
+intolerance, rigid, narrow-looking adherence to God's [[Truth|truth]].
 
 _A Note yet. The United States to-day_.--While under all previous
 conditions (even convictions) of society, Oriental, Feudal,
@@ -46238,7 +46238,7 @@ for the unlearn'd, the common, and the poor.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_182" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 182)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_182" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 182)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 I don't know in what book I once read, (possibly the remark has been
@@ -46343,7 +46343,7 @@ wandering up and down England.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_183" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 183)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_183" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 183)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 George Fox, born 1624, was of decent stock, in ordinary lower life--as
@@ -46449,7 +46449,7 @@ life, and faithful in [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_184" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 184)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_184" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 184)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 GOOD-BYE MY FANCY
@@ -46560,7 +46560,7 @@ will branch or offshoot.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_185" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 185)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_185" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 185)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 So much have I now rattled off (old age's garrulity,) that there is not
@@ -46672,7 +46672,7 @@ Halleck, Mrs. Sigourney, Allston, Willis, Dana,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_186" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 186)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_186" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 186)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 John Pierpont, W. G. Simms, Robert Sands, Drake, Hillhouse, Theodore
@@ -46771,18 +46771,18 @@ return'd and echoed there again.
 
 [[Ship|SHIP]] AHOY
 
-    In [[Dreams|dreams]] I was a [[Ship|ship]], and sail'd the boundless seas,
-    Sailing and ever sailing--all seas and into every port, or out
-      upon the offing,
-    Saluting, cheerily hailing each mate, met or pass'd, little or big,
-    "[[Ship]] ahoy!" thro' trumpet or by voice--if nothing more, some
-      friendly merry word at least,
-    For companionship and good will for ever to all and each.
+In [[Dreams|dreams]] I was a [[Ship|ship]], and sail'd the boundless seas,
+Sailing and ever sailing--all seas and into every port, or out
+upon the offing,
+Saluting, cheerily hailing each mate, met or pass'd, little or big,
+"[[Ship]] ahoy!" thro' trumpet or by voice--if nothing more, some
+friendly merry word at least,
+For companionship and good will for ever to all and each.
 
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_187" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 187)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_187" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 187)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 FOR [[Queen|QUEEN]] VICTORIA'S BIRTHDAY
@@ -46895,7 +46895,7 @@ kings or millionaires or majorities.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_188" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 188)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_188" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 188)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 What the United States are working out and establishing needs
@@ -47000,7 +47000,7 @@ there is a loftier.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_189" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 189)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_189" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 189)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 The great current points are perhaps simple, after all: first, that the
@@ -47086,7 +47086,7 @@ eloquence seeming to call out, "You that pretend to give the news, and
 all that's going, why not give us a notice?" Truly, O fields, as for the
 notice,
 
-    "Take, we give it willingly."
+"Take, we give it willingly."
 
 Only we must do it our own way. Leaving the domestic, dietary, and
 commercial parts of the question (which are enormous, in fact, hardly
@@ -47111,7 +47111,7 @@ the calls, [[songs]], laughter of the young fellows.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_190" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 190)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_190" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 190)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Not to forget, hereabouts, in the Middle States, the old worm fences,
@@ -47132,7 +47132,7 @@ yellow-back'd, black-spotted lady-bug that has lit on the shirt-sleeve
 of the arm inditing this? Ending our list with the fall-drying grass,
 the [[Autumn]] days themselves,
 
-    Sweet days; so cool, so calm, so bright,
+Sweet days; so cool, so calm, so bright,
 
 (yet not so cool either, about [[Noon|noon]])--the [[Horse|horse]]-mint, the wild carrot,
 the mullein, and the bumble-bee.
@@ -47172,23 +47172,23 @@ suggestions. Certain music from wondrous voices or skilful players--then
 poetic glints still more--put the [[Soul|soul]] in rapport with [[Death|death]], or toward
 it. Hear a strain from Tennyson's late "Crossing the Bar":
 
-    Twilight and evening bell,
-        And after that the dark!
-    And may there be no sadness of farewell,
-        When I embark;
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
 
-    For tho' from out our bourne of [[Time]] and Place
-        The floods may bear me far,
-    I [[Hope|hope]] to see my Pilot face to face
-        When I have crost the bar.
+For tho' from out our bourne of [[Time]] and Place
+The floods may bear me far,
+I [[Hope|hope]] to see my Pilot face to face
+When I have crost the bar.
 
 Am I starting the sail-craft of poets in line? Here then a quatrain of
 Phrynichus long ago to one of old Athens' favorites:
 
-    Thrice-happy Sophocles! in good old age,
-    Bless'd as a man, and as a craftsman bless'd,
-    He died; his many tragedies were fair,
-    And fair his end, nor knew he any sorrow.
+Thrice-happy Sophocles! in good old age,
+Bless'd as a man, and as a craftsman bless'd,
+He died; his many tragedies were fair,
+And fair his end, nor knew he any sorrow.
 
 Certain music, indeed, especially voluntaries by a good player, at
 twilight--or idle rambles [[Alone|alone]] by the shore, or over prairie or
@@ -47204,14 +47204,14 @@ affected, even constituted, (the base stomachic) by every thing from
 that minute till the [[Time|time]] of its occurrence. And yet here is something
 (Whittier's "Burning Driftwood") of an opposite coloring:
 
-    I know the solemn monotone
-        Of waters calling unto me;
-    I know from whence the airs have blown,
-        That whisper of the Eternal Sea;
-    As low my fires of driftwood burn,
-        I hear that sea's deep sounds increase,
-    And, fair in sunset light, discern
-        Its mirage-lifted Isles of Peace.
+I know the solemn monotone
+Of waters calling unto me;
+I know from whence the airs have blown,
+That whisper of the Eternal Sea;
+As low my fires of driftwood burn,
+I hear that sea's deep sounds increase,
+And, fair in sunset light, discern
+Its mirage-lifted Isles of Peace.
 
 Like an invisible breeze after a long and sultry day, [[Death|death]] sometimes
 sets in at last, soothingly and refreshingly, almost vitally. In not
@@ -47227,21 +47227,21 @@ blunted or even gone.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_191" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 191)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_191" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 191)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Then to give the following, and cease before the thought gets
 threadbare:
 
-    Now, land and life, finale, and farewell!
-    Now Voyager depart! (much, much for thee is yet in store;)
-    Often enough hast thou adventur'd o'er the seas,
-    Cautiously cruising, studying the charts,
-    Duly again to port and hawser's tie returning.
-    --But now obey thy cherish'd, secret wish,
-    Embrace thy friends--leave all in order;
-    To port and hawser's tie no more returning,
-    Depart upon thy endless cruise, old Sailor!
+Now, land and life, finale, and farewell!
+Now Voyager depart! (much, much for thee is yet in store;)
+Often enough hast thou adventur'd o'er the seas,
+Cautiously cruising, studying the charts,
+Duly again to port and hawser's tie returning.
+--But now obey thy cherish'd, secret wish,
+Embrace thy friends--leave all in order;
+To port and hawser's tie no more returning,
+Depart upon thy endless cruise, old Sailor!
 
 SOME LAGGARDS YET
 
@@ -47347,7 +47347,7 @@ thankfulest heart and [[Memory|memory]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_192" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 192)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_192" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 192)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 W.W. CAMDEN, NEW JERSEY, _February 24th, 1890_.
@@ -47412,65 +47412,65 @@ What I append--Health, old style--I have long treasur'd--found
 originally in some scrap-book fifty years ago--a favorite of mine (but
 quite a glaring contrast to my present bodily state:)
 
-    On a high rock above the vast abyss,
-      Whose solid base tumultuous waters lave;
-    Whose airy high-top balmy breezes kiss,
-      Fresh from the white foam of the circling wave--
+On a high rock above the vast abyss,
+Whose solid base tumultuous waters lave;
+Whose airy high-top balmy breezes kiss,
+Fresh from the white foam of the circling wave--
 
-    There ruddy HEALTH, in rude majestic state,
-      His clust'ring forelock combatting the winds--
-    Bares to each season's change his breast elate,
-      And still fresh vigor from th' encounter finds;
+There ruddy HEALTH, in rude majestic state,
+His clust'ring forelock combatting the winds--
+Bares to each season's change his breast elate,
+And still fresh vigor from th' encounter finds;
 
-    With mighty mind to every fortune braced,
-      To every climate each corporeal power,
-    And high-proof heart, impenetrably cased,
-      He mocks the quick transitions of the hour.
+With mighty mind to every fortune braced,
+To every climate each corporeal power,
+And high-proof heart, impenetrably cased,
+He mocks the quick transitions of the hour.
 
-    Now could he hug bleak Zembla's bolted [[Snow|snow]],
-      Now to Arabia's heated deserts turn,
-    Yet bids the biting blast more fiercely blow,
-      The scorching sun without abatement burn.
+Now could he hug bleak Zembla's bolted [[Snow|snow]],
+Now to Arabia's heated deserts turn,
+Yet bids the biting blast more fiercely blow,
+The scorching sun without abatement burn.
 
-    There this bold Outlaw, rising with the morn,
-      His sinewy functions fitted for the toil,
-    Pursues, with tireless steps, the rapturous horn,
-      And bears in triumph back the shaggy spoil.
+There this bold Outlaw, rising with the morn,
+His sinewy functions fitted for the toil,
+Pursues, with tireless steps, the rapturous horn,
+And bears in triumph back the shaggy spoil.
 
-    Or, on his rugged range of towering hills,
-      Turns the stiff glebe behind his hardy team;
-    His wide-spread heaths to blithest measures tills,
-      And boasts the joys of life are not [[A Dream|a dream]]!
+Or, on his rugged range of towering hills,
+Turns the stiff glebe behind his hardy team;
+His wide-spread heaths to blithest measures tills,
+And boasts the joys of life are not [[A Dream|a dream]]!
 
-    Then to his airy hut, at eve, retires,
-      Clasps to his open breast his buxom spouse,
-    Basks in his faggot's blaze, his passions fires,
-      And strait supine to rest unbroken bows.
+Then to his airy hut, at eve, retires,
+Clasps to his open breast his buxom spouse,
+Basks in his faggot's blaze, his passions fires,
+And strait supine to rest unbroken bows.
 
-    On his smooth forehead, [[Time]]'s old annual score,
-      Tho' left to furrow, yet disdains to lie;
-    He bids weak sorrow tantalize no more,
-      And puts the cup of care contemptuous by.
+On his smooth forehead, [[Time]]'s old annual score,
+Tho' left to furrow, yet disdains to lie;
+He bids weak sorrow tantalize no more,
+And puts the cup of care contemptuous by.
 
-    If, from some inland height, that, skirting, bears
-      Its rude encroachments far into the vale,
-    He views where poor dishonor'd [[Nature|nature]] wears
-      On her soft cheek [[Alone|alone]] the lily pale;
+If, from some inland height, that, skirting, bears
+Its rude encroachments far into the vale,
+He views where poor dishonor'd [[Nature|nature]] wears
+On her soft cheek [[Alone|alone]] the lily pale;
 
-    How will he scorn alliance with the race,
-      Those aspen shoots that shiver at a breath;
-    Children of sloth, that danger dare not face,
-      And find in life but an extended [[Death|death]]:
+How will he scorn alliance with the race,
+Those aspen shoots that shiver at a breath;
+Children of sloth, that danger dare not face,
+And find in life but an extended [[Death|death]]:
 
-    Then from the silken reptiles will he fly,
-      To the bold cliff in bounding transports run,
-    And stretch'd o'er many a wave his ardent eye,
-      Embrace the enduring Sea-Boy as his son!
+Then from the silken reptiles will he fly,
+To the bold cliff in bounding transports run,
+And stretch'd o'er many a wave his ardent eye,
+Embrace the enduring Sea-Boy as his son!
 
-    Yes! thine [[Alone|alone]]--from [[Pain|pain]], from sorrow free,
-      The lengthen'd life with peerless joys replete;
-    Then let me, Lord of [[Mountains]], share with thee
-      The hard, the early toil--the relaxation sweet.
+Yes! thine [[Alone|alone]]--from [[Pain|pain]], from sorrow free,
+The lengthen'd life with peerless joys replete;
+Then let me, Lord of [[Mountains]], share with thee
+The hard, the early toil--the relaxation sweet.
 
 GAY-HEARTEDNESS
 
@@ -47488,7 +47488,7 @@ really GAY-HEARTED MAN."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_193" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 193)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_193" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 193)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 It was a terrible criticism--cut into me like a surgeon's lance. Made me
@@ -47496,34 +47496,34 @@ silent the whole walk [[Home|home]].
 
 AS IN A SWOON.
 
-    As in a swoon, one instant,
-    Another sun, ineffable, full-dazzles me,
-    And all the orbs I knew--and brighter, unknown orbs;
-    One instant of the future land, Heaven's land.
+As in a swoon, one instant,
+Another sun, ineffable, full-dazzles me,
+And all the orbs I knew--and brighter, unknown orbs;
+One instant of the future land, Heaven's land.
 
 L. OF G.
 
-    Thoughts, suggestions, aspirations, pictures,
-    Cities and farms--by day and [[Night|night]]--book of peace and war,
-    Of platitudes and of the commonplace.
+Thoughts, suggestions, aspirations, pictures,
+Cities and farms--by day and [[Night|night]]--book of peace and war,
+Of platitudes and of the commonplace.
 
-    For out-door health, the land and sea--for good will,
-    For [[America]]--for all the earth, all nations, the common people,
-    (Not of one nation only--not [[America]] only.)
+For out-door health, the land and sea--for good will,
+For [[America]]--for all the earth, all nations, the common people,
+(Not of one nation only--not [[America]] only.)
 
-    In it each claim, ideal, line, by all lines, claims, ideals,
-      temper'd;
-    Each right and wish by other wishes, rights.
+In it each claim, ideal, line, by all lines, claims, ideals,
+temper'd;
+Each right and wish by other wishes, rights.
 
 AFTER THE ARGUMENT.
 
-    A group of little children with their ways and chatter flow in,
-    Like welcome rippling [[Water|water]] o'er my heated nerves and flesh.
+A group of little children with their ways and chatter flow in,
+Like welcome rippling [[Water|water]] o'er my heated nerves and flesh.
 
 FOR US TWO, READER DEAR.
 
-    Simple, spontaneous, curious, two souls interchanging,
-    With the original testimony for us continued to the last.
+Simple, spontaneous, curious, two souls interchanging,
+With the original testimony for us continued to the last.
 
 MEMORANDA
 
@@ -47619,7 +47619,7 @@ action!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_194" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 194)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_194" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 194)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 A SICK SPELL
@@ -47672,7 +47672,7 @@ The gay and crowded audience at the Art Rooms, Philadelphia, Tuesday
 April 19, might not have thought that W. W. crawl'd out of a sick bed a
 few hours before, crying,
 
-    Dangers retreat when boldly they're confronted,
+Dangers retreat when boldly they're confronted,
 
 and went over, hoarse and half blind, to deliver his memoranda and [[Essay|essay]]
 on the [[Death|death]] of [[Abraham Lincoln]], on the twenty-fifth anniversary of that
@@ -47738,7 +47738,7 @@ pulsating and swaying like a first-class Andalusian dancer.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_195" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 195)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_195" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 195)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 And such a critical dissection, and flattering summary! The Whitmanites
@@ -47856,7 +47856,7 @@ ever vivified our race.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_196" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 196)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_196" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 196)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In Boston, 1860, I first met William Douglas O'Connor.[48] As I saw
@@ -47959,7 +47959,7 @@ for nearly 20 years.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_197" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 197)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_197" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 197)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Of the last six years he has been largely occupied as consulting
@@ -48070,7 +48070,7 @@ like a cyclone!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_198" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 198)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_198" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 198)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Saw Hackett at the old Park many times, and remember him [[Well|well]]. His
@@ -48104,7 +48104,7 @@ give a favorite [[Song|song]] between the acts. "The Sea" at the bijou Olympic,
 (Broadway near Grand,) was always welcome from a little Englishman named
 Edwin, a good balladist. At the Bowery the loves of "Sweet William,"
 
-    "When on the Downs the fleet was moor'd,"
+"When on the Downs the fleet was moor'd,"
 
 always bro't an encore, and sometimes a treble.
 
@@ -48183,7 +48183,7 @@ not at this moment recall.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_199" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 199)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_199" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 199)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 In another paper I have described the elder Booth, and the Bowery
@@ -48287,7 +48287,7 @@ works.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_200" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 200)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_200" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 200)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 But for a few portraiture or descriptive bits. To-day in the upper story
@@ -48421,7 +48421,7 @@ and young.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_201" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 201)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_201" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 201)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 OUT IN THE OPEN AGAIN
@@ -48539,7 +48539,7 @@ but quite freely and fairly in honest type.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_202" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 202)" data-chapter="Story 46 Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_202" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 202)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
 
 
 Haven't I given specimen clues, if no more? At any rate I have written

@@ -3887,9 +3887,9 @@ portrait, with the beard and ruff, looked down at them from under its
 verdant wreath of holly, as they looked up at it; and, clear and plain
 below, as if a voice had uttered them, were the words.
 
-                * * * * *
+* * * * *
 
-            Lord keep my [[Memory]] green.
+Lord keep my [[Memory]] green.
 
 
 
@@ -7939,6 +7939,6 @@ portrait, with the beard and ruff, looked down at them from under its
 verdant wreath of holly, as they looked up at it; and, clear and plain
 below, as if a voice had uttered them, were the words.
 
-                * * * * *
+* * * * *
 
-            Lord keep my [[Memory]] green.
+Lord keep my [[Memory]] green.

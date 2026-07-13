@@ -2491,7 +2491,7 @@ For, indeed, but a month later, the old man began to fail, and in a few weeks mo
 
 
 
-<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_01" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 1)" data-chapter="Chapter 01 ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_01" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 1)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
 
 
 CHAPTER I. ENTITLED AL-RAFSAT, OR THE KICK
@@ -2529,7 +2529,7 @@ For a moment the ancient Captain of Industry paused with bent head in solemn med
 
 
 
-<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_02" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 2)" data-chapter="Chapter 01 ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_02" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 2)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
 
 
 “Thus was I launched out in the dawn of manhood to try my adventures with the world.
@@ -2567,7 +2567,7 @@ Having so expressed himself the worthy merchant resumed the thread of his tale:
 
 
 
-<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_03" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 3)" data-chapter="Chapter 01 ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_03" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 3)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
 
 
 “It so happened (and here was [[Providence]] again at work) that this merchant had a passion for a particular sort of carpet which is solely made by the inhabitants of El Kzar, for they alone possess the secret, which they very zealously guard. The slave, therefore, brought me back the message that his master would not be at the pains of accompanying me unless such wares were present for his inspection. If my carpets were those of El Kzar he would willingly inspect them, but if they were of any other brand he was indifferent.
@@ -2611,7 +2611,7 @@ Upon hearing these words his seven nephews rose together, and crossed their arms
 
 
 
-<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_04" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 4)" data-chapter="Chapter 01 ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_04" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 4)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
 
 
 “His excitement had now so risen that I fear his judgment was lost. Already he saw before him in his mind’s eye a pile of the noblest Kzaran carpets, all ready for the caravan. Already he saw a rival calmly acquiring them on the distant wharf, the witnesses placing their seals, the words of completion.
@@ -2641,7 +2641,7 @@ Upon hearing these words his seven nephews rose together, and crossed their arms
 
 
 
-<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_05" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 5)" data-chapter="Chapter 01 ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_05" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 5)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt"></span>
 
 
 “At the prospect of much further wealth the fishermen were at once convinced: they sang in the lightness of their hearts, and for three days and three nights we sped down the Gulf, passing bleak mountains and deserted rocky promontories, until upon the fourth day we came to a town the like of which I had never seen.
@@ -2669,7 +2669,7 @@ The Pearls
 
 
 
-<span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_01" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 1)" data-chapter="Chapter 02 ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_01" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 1)" data-chapter="ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt"></span>
 
 
 CHAPTER II. ENTITLED AL-DURAR, OR THE PEARLS
@@ -2709,7 +2709,7 @@ Here the merchant coughed slightly, and addressing his nephews said: “You have
 
 
 
-<span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_02" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 2)" data-chapter="Chapter 02 ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_02" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 2)" data-chapter="ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt"></span>
 
 
 “While the old gentleman so spoke I was rapidly revolving in my mind what motive he could have for such an affection of indifference to wealth, when I recollected that he was the Chief Magistrate of the city, and immediately concluded that these pearls, being the property of local people, and obtained by him for nothing by way of bribes and other legal channels, he would both desire to have them sold at a distance and would let them go cheap.
@@ -2747,7 +2747,7 @@ Here the merchant coughed slightly, and addressing his nephews said: “You have
 
 
 
-<span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_03" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 3)" data-chapter="Chapter 02 ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_03" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 3)" data-chapter="ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt"></span>
 
 
 “He was swaying slowly from side to side, and as he did so moaning a ceaseless plaint, the words of which I caught and which touched me to the heart. Over and over again he recited his irreparable loss. He had but that small sum! It was his patrimony! His sole security! How should he answer for it? who should now support him? or what should he do?
@@ -2801,7 +2801,7 @@ The Pipkins
 
 
 
-<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_01" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 1)" data-chapter="Chapter 03 ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_01" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 1)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
 
 
 CHAPTER III. ENTITLED AL-TAWAJIN, OR THE PIPKINS
@@ -2839,7 +2839,7 @@ Here the eldest of the nephews interrupted Mahmoud to ask, most respectfully, wh
 
 
 
-<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_02" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 2)" data-chapter="Chapter 03 ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_02" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 2)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
 
 
 “This price of mine was still lower than that of all the other pipkin-makers, who had been accustomed from immemorial time to the base idea of profit, and were in a perpetual surmise what secret powers I had to permit me such quotations. But I made no mystery of the affair. I allowed all my friends to visit my simple factory and I explained to their satisfaction how organization and a close attention to costings were sufficient to account for my prosperity.
@@ -2875,7 +2875,7 @@ Here the eldest of the nephews interrupted Mahmoud to ask, most respectfully, wh
 
 
 
-<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_03" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 3)" data-chapter="Chapter 03 ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_03" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 3)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
 
 
 “As I had had to carry on, I had not now left by me my full hoard of 10,000 dinars. I had but 8,000 left. Yet I was in no difficulty. Half 20,000 is 10,000 — but there would be deductions!
@@ -2917,7 +2917,7 @@ There was an awkward pause, during which the old man restored his ruffled temper
 
 
 
-<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_04" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 4)" data-chapter="Chapter 03 ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_04" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 4)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt"></span>
 
 
 “I was popularly known as ‘Melek-al-Tawajin,’ or the Pipkin King, but officially decorated with the local title of ‘Warzan Dahur,’ which was the highest they knew and signifies ‘Leader in battle.’ I was entitled to wear a sword with a silver hilt in a jewelled scabbard, an ornament of which I was justly proud, but the blade of which I very sensibly kept blunt lest my servant should cut himself when he polished it, or even I should inadvertently do myself a mischief when I pulled it out with a flourish to display it to my guests, or saluted with it on parade. I had become a most intimate companion of the Court and was the most trusted counsellor of the King, to whose wives also I often lent small sums of money; nor did I ask to be repaid.
@@ -2953,7 +2953,7 @@ The Bridge
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_01" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 1)" data-chapter="Chapter 04 ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_01" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 1)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
 
 
 CHAPTER IV. ENTITLED AL-KANTARA, OR THE BRIDGE
@@ -2983,7 +2983,7 @@ WHEN THE HOUR of public executions had arrived and the boys were assembled once 
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_02" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 2)" data-chapter="Chapter 04 ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_02" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 2)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
 
 
 “The time which all this took made my retinue ravenously hungry, as I have said, and as the day wore on I was indeed touched by the earnest prayers they made for a little food, but I was too wise to yield, and it was not until the whole of my company was gathered together on the further bank, and I with it, that I permitted the cases to be landed and gave them all a hearty meal.
@@ -3029,7 +3029,7 @@ WHEN THE HOUR of public executions had arrived and the boys were assembled once 
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_03" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 3)" data-chapter="Chapter 04 ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_03" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 3)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
 
 
 “So wedded to custom was the old gentleman that he still hesitated, but remembering how right I had been in my innovation and unable to contest the evidence of his own eyes how from day to day the volume of traffic increased, he at last somewhat reluctantly consented. The fares were doubled, yet the applications of people desiring to cross the river grew no less. There arose a substantial profit, over and above the old ferryman’s original income, to be divided between us, and judged by the cost of the new boats I was making some ten per cent. upon my money, a very reasonable profit under the circumstances....”
@@ -3065,7 +3065,7 @@ Here Mahmoud the great merchant, paused, shut his eyes for a few moments, and co
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_04" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 4)" data-chapter="Chapter 04 ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_04" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 4)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
 
 
 “Meanwhile the fame of my bridge spread throughout all the neighbouring countries, it gathered upon itself the whole volume of commerce.
@@ -3097,7 +3097,7 @@ Here Mahmoud the great merchant, paused, shut his eyes for a few moments, and co
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_05" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 5)" data-chapter="Chapter 04 ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_05" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 5)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
 
 
 “People were also forbidden to swim the river between sunset and sunrise upon the grounds of security and police control, and between sunrise and sunset upon the grounds of decency.
@@ -3123,7 +3123,7 @@ As the aged merchant described the last stage of his adventure his face took on 
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_06" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 6)" data-chapter="Chapter 04 ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_06" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 6)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt"></span>
 
 
 “The head of the opposing party who had done his best to defeat this great and necessary reform now, upon payment, openly admitted that he was converted; whatever sentimental attachment he might still cherish for his old views, he now clearly saw that they were no longer practical politics.
@@ -3179,7 +3179,7 @@ Salt
 
 
 
-<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_01" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 1)" data-chapter="Chapter 05 ENTITLED MILH OR SALT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_01" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 1)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt"></span>
 
 
 CHAPTER V. ENTITLED MILH, OR SALT
@@ -3213,7 +3213,7 @@ Having said this the lad bowed once more in deep obeisance, while, at a signal f
 
 
 
-<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_02" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 2)" data-chapter="Chapter 05 ENTITLED MILH OR SALT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_02" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 2)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt"></span>
 
 
 “Oh, how shocking!” piped a shrill voice, interrupting the merchant in his eloquence. The cry proceeded from the youngest.
@@ -3249,7 +3249,7 @@ Having said this the lad bowed once more in deep obeisance, while, at a signal f
 
 
 
-<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_03" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 3)" data-chapter="Chapter 05 ENTITLED MILH OR SALT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_03" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 3)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt"></span>
 
 
 “All nodded gravely; the King gently complimented me upon my public spirit, for now (as he was good enough to say) he regarded me as a subject.
@@ -3281,7 +3281,7 @@ ran the what is called among the mighty ‘The Operative Clause: the Words of Po
 
 
 
-<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_04" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 4)" data-chapter="Chapter 05 ENTITLED MILH OR SALT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_04" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 4)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt"></span>
 
 
 “He it was who talked most incessantly and before the largest gatherings, thus creating a taste for public discussion. He it was who discussed practical remedies whenever discontent appeared, and he who worked out every detail in the interesting reports upon the condition of the starving. To the thousands whom he addressed his manner never grew stale. His eloquence was sober, his speeches with praise of Izmat and quotations from the Sacred Books, as also with known jests — things which this practical people infinitely preferred to empty theories of the Mainland. So all went well; and I (blind to the future, alas!) went down that path of statesmanship along which my friend led me, little knowing whither it would lead me.
@@ -3309,7 +3309,7 @@ ran the what is called among the mighty ‘The Operative Clause: the Words of Po
 
 
 
-<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_05" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 5)" data-chapter="Chapter 05 ENTITLED MILH OR SALT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_05" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 5)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt"></span>
 
 
 “Used as I was to this style of public eloquence and the expression of opinions universal to this happy people (bound up, as I thought, with the very atmosphere of their race) I naturally expected that when the dying down of the applause should have allowed him to be heard we should have that second part of which his speeches had always consisted — an appeal to the conservative instincts of our race, to their noble patience and to their dogged tenacity in doing nothing which had made them the envy of their less-gifted neighbours.
@@ -3337,7 +3337,7 @@ ran the what is called among the mighty ‘The Operative Clause: the Words of Po
 
 
 
-<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_06" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 6)" data-chapter="Chapter 05 ENTITLED MILH OR SALT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_06" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 6)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt"></span>
 
 
 “For my part I said nothing, but sat mournfully, seeing no issue and attending the pleasure of those who could do what they would with me and mine. I heard their debate: I was asked to sign their conclusions. I did so with a reluctant, unwilling hand; and as I signed my name in its place and affixed my seal I glanced at the wording of the Proclamation and felt some relief to discover that the Salt Tax was not abolished, but only halved, while the loss so occasioned was to be made good by a tax upon revenue of one dinar in each hundred — a very moderate amount.
@@ -3365,7 +3365,7 @@ The Lawyers
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_01" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 1)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_01" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 1)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 CHAPTER VI. ENTITLED AL-WUKALÁ, OR THE LAWYERS
@@ -3405,7 +3405,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_02" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 2)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_02" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 2)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “‘I have brought you, Kazib,’ said he, ‘a client. You will recognize him, I think.’
@@ -3493,7 +3493,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_03" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 3)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_03" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 3)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “‘It is enough!’ said I. ‘The first learned Pleader shall be my guide. I am content to hear from him that I have a good case, which doubtless he will continue for me in court.’
@@ -3563,7 +3563,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_04" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 4)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_04" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 4)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “I took my seat at a place reserved for me immediately opposite the bench. I noted on my right the Pleaders chosen by the Council, and beyond, among the spectators, not a few of my former colleagues.
@@ -3589,7 +3589,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_05" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 5)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_05" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 5)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “‘Note also, Your Holiness,’ continued the Pleader, wagging his arched forefinger (which was long and pointed) very significantly in the air, ‘the contumax in advert to subvert ... and the same regardant.’ He added in a sort of sneering tone: ‘I will not weary the Court with that’ (I could see that the Judge nodded), ‘but even the plaintiff, learned as he is in the law, will admit,’ and here he turned and addressed me with a very contemptuous expression, ‘that plevin would not obtain in the case of recognisance, or at any rate in the defection thereof would be docketed as an endorsement pursuant. An endorsement pursuant would stand void,’ he continued, with a renewed interest in his tone (he now excited a feverish attention in his audience), ‘for that is in the very foundation, I take it, of our law of terce and perinomy and has been upheld by a long succession of your Holiness’s predecessors from the origins of our Sacred Lawyers’ Guild.’
@@ -3661,7 +3661,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_06" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 6)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_06" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 6)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “‘Thank You, your Holiness,’ said the Pleader. ‘And now, sir,’ said he, addressing me in a very firm tone indeed, as though he had caught red-handed some thief creeping in to his household, ‘will you please tell us where is that Charter now? Can you produce it?’
@@ -3745,7 +3745,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_07" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 7)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_07" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 7)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “I then leapt upon the little block of wood and turning to the place I had just occupied, I said:
@@ -3799,7 +3799,7 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 
 
-<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_08" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 8)" data-chapter="Chapter 06 ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_08" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 8)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt"></span>
 
 
 “‘And so long,’ ‘What is the significance of that word “AND”? I take it that it is affirmative, negative, copulative and restrictive; but that is — not all. I think it is also constructive, instructive, and destructive. It is only by using it in all these ways that we can fully appreciate its preponderant significance in the issue before us.’ Once more all heads nodded and even I was constrained to follow the custom, although, in my ignorance, I could make neither head nor tail of the learned argument. The lawyers present bore a look of such intense absorption that one would have thought their lives depended on what was to come.
@@ -3859,7 +3859,7 @@ The Sheep
 
 
 
-<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_01" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 1)" data-chapter="Chapter 07 ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_01" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 1)" data-chapter="ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
 
 
 CHAPTER VII. ENTITLED AL-GHANAMAT, OR THE SHEEP
@@ -3889,7 +3889,7 @@ The aged merchant, a little concerned with their appearance, warned them that wh
 
 
 
-<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_02" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 2)" data-chapter="Chapter 07 ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_02" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 2)" data-chapter="ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
 
 
 “I did so by asking him whether he had never thought, in the course of his long years as a shepherd, how money might be made by the stealing of his master’s sheep, or by some trick with them? Whether he had never had the opportunity to blackmail his master, or in some other way to increase his fortune? For it seemed intolerable to me that a man such as he described his employer to be, should be wealthy while he were poor. He shrugged his shoulders as though in despair and answered simply:
@@ -3923,7 +3923,7 @@ The aged merchant, a little concerned with their appearance, warned them that wh
 
 
 
-<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_03" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 3)" data-chapter="Chapter 07 ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_03" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 3)" data-chapter="ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
 
 
 “We discussed all further details through the night, rehearsed our parts, and had the whole perfect when the first glimmer of dawn showed in the East beyond the edges of the hills beneath a waning moon.
@@ -3961,7 +3961,7 @@ The aged merchant, a little concerned with their appearance, warned them that wh
 
 
 
-<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_04" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 4)" data-chapter="Chapter 07 ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_04" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 4)" data-chapter="ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt"></span>
 
 
 “At our approach he turned an indignant glance upon me, rose to his feet, and addressing the stranger who had captured me, cried in a terrible voice:
@@ -4011,7 +4011,7 @@ The Orchard
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_01" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 1)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_01" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 1)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 CHAPTER VIII. ENTITLED AL-BUSTÁN, OR THE ORCHARD
@@ -4049,7 +4049,7 @@ The old man began in a subdued voice of lamentable recollection:
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_02" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 2)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_02" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 2)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 “‘He was as good as his word, and I received a summons from the magistrate that very evening to attend his court the next day.
@@ -4073,7 +4073,7 @@ The old man began in a subdued voice of lamentable recollection:
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_03" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 3)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_03" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 3)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 “Here, my dear nephews, I was in something of a quandary. This, I am told, is a difficulty we men of affairs come across often enough in the conduct of our negotiations. It is our duty, as I need hardly tell you, to add details of a corroborative kind to the statements we have to make in affairs. To omit any detail is to court suspicion. On the other hand, one never knows where the most necessary fictions may lead one. Here I was confronted by the task of bringing to fruition an orchard ... an orchard of pears ... and I knew nothing whatever of orchards and of pears far less.
@@ -4103,7 +4103,7 @@ The old man began in a subdued voice of lamentable recollection:
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_04" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 4)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_04" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 4)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 “I paused to concoct something new, and the amiable youth filled the gap for me by murmuring: ‘Precisely! Exactly! Now I understand.’
@@ -4131,7 +4131,7 @@ The old man began in a subdued voice of lamentable recollection:
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_05" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 5)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_05" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 5)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 “‘Is that so?’ said my host, transported at the coincidence, ‘Once more I must say it: how small is the world!’
@@ -4163,7 +4163,7 @@ The old man began in a subdued voice of lamentable recollection:
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_06" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 6)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_06" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 6)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 “And so it proved to be; for the main axle, though not snapped, had split; so there we were with the wagon out of service for the moment, the axle unsure, a hind wheel off, and the whole contraption on its side.
@@ -4195,7 +4195,7 @@ The old man began in a subdued voice of lamentable recollection:
 
 
 
-<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_07" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 7)" data-chapter="Chapter 08 ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_07" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 7)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt"></span>
 
 
 “Time still pressed. I might be traced. I knew not what accidents had occurred upon the road behind me, whether indeed those poor fools had managed to mend the wagon again, if not, whether the bailiff would have the courage to tell his master or ride on to find me in the first town. If he had so ridden on he might find evidences of my departure, and even (more doubtfully) of my second horse and its purchase.
@@ -4237,7 +4237,7 @@ Camels and Dates
 
 
 
-<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_01" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 1)" data-chapter="Chapter 09 ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_01" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 1)" data-chapter="ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
 
 
 CHAPTER IX. ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES
@@ -4277,7 +4277,7 @@ Having so spoken the aged merchant bent for a moment in silent prayer and then p
 
 
 
-<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_02" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 2)" data-chapter="Chapter 09 ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_02" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 2)" data-chapter="ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
 
 
 “I would have you remember, my dear nephews,” said Mahmoud at this point, “that nothing is less pleasing in a merchant, especially in one of approved success, than the introduction of profit and loss at a meal; for profit and loss are of such profound importance that their mere mention must distract from the legitimate pleasures of the table.
@@ -4319,7 +4319,7 @@ Having so spoken the aged merchant bent for a moment in silent prayer and then p
 
 
 
-<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_03" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 3)" data-chapter="Chapter 09 ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_03" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 3)" data-chapter="ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
 
 
 “There I found that my panniers had already been removed and their contents conveyed to the purchaser’s warehouse. I admired the promptitude in business which so often accompanies a generous heart.
@@ -4373,7 +4373,7 @@ To my surprise the fruit-seller stared at me and said:
 
 
 
-<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_04" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 4)" data-chapter="Chapter 09 ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_04" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 4)" data-chapter="ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt"></span>
 
 
 ‘I thanked them politely, regretted that I had disturbed them for so little, proceeded with the utmost haste to my caravan, inquired the road for Mawur (the track for which lay plain through the scrub and across the sand), and hastened with the utmost dispatch all that burning day and all the succeeding night without repose, until at dawn I passed with my exhausted train through the gates of the city. I had covered in twenty hours twice as many leagues.
@@ -4421,7 +4421,7 @@ The Horse
 
 
 
-<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_01" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 1)" data-chapter="Chapter 10 ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_01" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 1)" data-chapter="ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
 
 
 CHAPTER X. ENTITLED AL-HISĀN, OR THE HORSE
@@ -4459,7 +4459,7 @@ WHEN THE NEPHEWS of Mahmoud once again attended their uncle at the hour of publi
 
 
 
-<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_02" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 2)" data-chapter="Chapter 10 ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_02" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 2)" data-chapter="ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
 
 
 “I lingered in this pleasant pasture at the edge of the wood, loosening my horse’s girths, unbridling his bit, and letting him graze at large on the delicious herbage.
@@ -4497,7 +4497,7 @@ WHEN THE NEPHEWS of Mahmoud once again attended their uncle at the hour of publi
 
 
 
-<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_03" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 3)" data-chapter="Chapter 10 ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_03" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 3)" data-chapter="ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
 
 
 “My natural love of such sights would have led me to follow him, when one more act of Heaven (I dare not ascribe the inspiration to my poor unaided soul) suddenly put an exceedingly valuable thought into my mind. I addressed the judge in a loud voice, complaining in the matter of my horse. At first he was disturbed and inclined to silence me, not understanding what plea I could have in this particular case; but I made bold to arrest his attention and told him that the evidence I had chanced to hear proved clearly that the horse on which the unfortunate young man had tried to escape was one stolen from me but a few hours before. This I was prepared to prove. The officers of the court were examined and admitted my description to be exact as to the horse, and, what was a clinching piece of evidence, as to the details of the saddle, the workmanship of which they had noted.
@@ -4531,7 +4531,7 @@ WHEN THE NEPHEWS of Mahmoud once again attended their uncle at the hour of publi
 
 
 
-<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_04" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 4)" data-chapter="Chapter 10 ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_04" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 4)" data-chapter="ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt"></span>
 
 
 “But the whole of this propitious day was in the hand of Heaven. For, while yet the sun was high, there came upon me through the pasture a shepherd driving his sheep, and to him I told a tale that I had been sent by my master to sell the horse I was leading, and his saddle, to a certain dealer, who had already seen them and bargained for them. I had been given a writing with the name of the dealer in the neighbouring city, but I had lost the writing and could not remember the name or direction.
@@ -4567,7 +4567,7 @@ The Holy One
 
 
 
-<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_01" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 1)" data-chapter="Chapter 11 ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_01" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 1)" data-chapter="ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
 
 
 CHAPTER XI. ENTITLED AL-WALI, OR THE HOLY ONE
@@ -4605,7 +4605,7 @@ WHEN THE HOUR of public executions had arrived (they were more numerous than usu
 
 
 
-<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_02" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 2)" data-chapter="Chapter 11 ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_02" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 2)" data-chapter="ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
 
 
 “With two such markets before one’s eyes and clamouring for exploitation, all that is required is a little judgment upon which is which, who is who, and what is what. Such a judgment is essential to any commercial success, but especially to success with people in a state of religious exaltation. For whereas this mood often conduces to folly, it sometimes so supernaturally brightens the intellectual faculties of devotees as to procure most cruel rebuffs for him who attempts to take advantage of it.
@@ -4645,7 +4645,7 @@ WHEN THE HOUR of public executions had arrived (they were more numerous than usu
 
 
 
-<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_03" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 3)" data-chapter="Chapter 11 ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_03" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 3)" data-chapter="ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
 
 
 “‘In acquiring money there is profit, but in letting it slip there is none at all.’
@@ -4687,7 +4687,7 @@ WHEN THE HOUR of public executions had arrived (they were more numerous than usu
 
 
 
-<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_04" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 4)" data-chapter="Chapter 11 ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_04" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 4)" data-chapter="ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt"></span>
 
 
 “The Holy One was visited by certain ambassadors from the Grand Something or Other residing in the court of the Caliph, who informed him that his position was duly recognized by the authorities, and that they bore with them an Illuminated Charter confirming it. The temporal advantages of His Holiness’s trade, however, were no less clearly evident to the Caliph than the religious ones, and His Holiness would therefore be good enough in future to hand over one-half of his receipts to the Imperial Treasury.
@@ -4711,7 +4711,7 @@ The New Quarter of the City
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_01" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 1)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_01" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 1)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 CHAPTER XII. ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY
@@ -4745,7 +4745,7 @@ CHAPTER XII. ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_02" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 2)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_02" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 2)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “He led me, followed by the mule, to a shady place where a few trees stood on a drier part of the enclosed plain. There we found excellent meats, and there we reclined for above an hour, during the whole of which he did not cease to overwhelm me with description, praise, and prospect of the great enterprise in which he was wholly absorbed.
@@ -4779,7 +4779,7 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_03" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 3)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_03" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 3)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “He overwhelmed me with thanks, led me to an excellent house of call in the town, and, leaving me there with an appointed hour for our meeting in the evening, he returned to his labours with a lighter heart.
@@ -4811,7 +4811,7 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_04" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 4)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_04" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 4)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “The next morning, in the cool, before the sun had power, our deeds were attested. I warned him to be utterly silent upon the source of this capital. I said I would be responsible for a rumour that a small saving of his own was engaged. He saw my point, and, though still scrupulous, consented. The work went forward.
@@ -4845,7 +4845,7 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_05" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 5)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_05" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 5)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “I was proceeding when he burst out into extravagant gratitude; called me his benefactor, kissed my hand again and again, and irrelevantly alluded again to that little sister of his who really had nothing to do with the case. I checked him and continued:
@@ -4873,7 +4873,7 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_06" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 6)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_06" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 6)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “As the days went by I varied the procedure. Sometimes I regretted the unexpectedly small profit obtained. Once I deliberately announced a loss and sternly gathered reluctant contributions from my associates; but immediately afterwards I did another fine stroke in imaginary wheat and paid a fat dividend to my friends — indeed, that particular affair cost me twenty-five pieces. But it was worth it. I got rid in less than a month of 200 pieces of gold in this fashion. It was a cruel trial, but proved, in the event, most fruitful. For though I would never advise in large investments, yet by this simple method, my reputation for judgment in that which men most value — which is money — was assured.
@@ -4907,7 +4907,7 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_07" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 7)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_07" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 7)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “I, on my side, was not niggardly. I promised 100 gold pieces to the building of a new mosque in the centre of the place, on condition that ninety-nine others should do the same, and I started a hall of public recreation, the price of admission to which barely repaid the expenses of upkeep and cleaning, taxes, heat and light, interest on debentures (which I had myself very handsomely subscribed), service, literature, and secretarial expenses, decoration, approaches, annual depreciation, and at the most a profit of six to eight per cent. I also provided kitchens where the poorer citizens could purchase food at very little more than its value. These were of great service to the police, who had here a central place whence the movements of my less fortunate neighbours could be traced. I presented also public fountains with solid pewter mugs, attached to the stonework by strong chains lest they should be stolen, and I even went so far as to provide, free of all cost, public plans of the new quarter showing where unleased sites still remained and the terms on which they might be acquired.
@@ -4935,7 +4935,7 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_08" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 8)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_08" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 8)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “For my part I was, like the great mass of the taxpayers, indifferent to either argument. All that interested me was the obvious fact that in the competition between these two groups on the Council the value of my property necessarily rose.
@@ -4987,7 +4987,7 @@ The amiable old man opened his mouth and spoke:
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_09" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 9)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_09" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 9)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “It is a model State. All is in perfect order. The palaces of the rulers are the most magnificent in the world: all public office is faithfully and punctually performed. It is the envy of every neighbour, the pride and delight of every citizen however mean; for — what is the basis of the whole affair — every man in Dirak is esteemed by the extent of his possessions alone; writing and music and work in metals and painted tiles are esteemed for the pretty things they are: holiness is revered indeed, but confined to the well-to-do; and a man’s virtue, judgment and wit are rightly gauged by his property.
@@ -5031,7 +5031,7 @@ The amiable old man opened his mouth and spoke:
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_10" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 10)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_10" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 10)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “First I purchased out of my remaining free gold a fine house that happened to be empty. Next I had painted on its front in beautiful and varied colours ‘Mahmoud’s Bank.’ Next I told the Chief what advantage I designed for him and his during my enforced stay, by way of repaying him for their exceptional kindness. Next I sent out written letters to all the wealthier men (and women, my dear nephews, and women), saying that I had begun operations in the buying and selling of market produce and that any capital entrusted to me would earn, for every hundred pieces, one piece a week, payed punctually at a certain hour. To give colour to my scheme I sent my quickest-witted servant (amply rewarded) to watch the markets in the valley, to buy up fruit and grain at magnificent prices and to sell elsewhere as best he could.
@@ -5071,7 +5071,7 @@ As the merchant now puffed at his pipe in silence the fifth nephew begged leave 
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_11" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 11)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_11" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 11)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “Well, uncle,” said the fifth nephew, humbly, “I cannot in the first place see how the 300,000 pieces of which you speak, and which as you say were represented by notes alone, constituted any real wealth.”
@@ -5111,7 +5111,7 @@ The merchant with a benign air replied: “The science of political economy is a
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_12" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 12)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_12" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 12)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “What joy was mine to fall by gentle gradations down the declivities of those noble woods into the warm fields of the Fortunate State! At every hour of my advance new delights met my eye! Great Country Houses standing in magnificent parks with carefully tended lawns all about, poor men who saluted low as I passed and rich men here and there who glanced a moment in haughty ease, fine horses passing at the trot mounted by subservient grooms, and, continually, posts bearing such notices as ‘Any one treading on this Lord’s ground will be bowstrung.’ ‘No spitting.’ ‘One insolent word and to jail with you!’: While at every few hundred yards an armed man, before whom the poorer people cowered, would frown at the slaves at the head of my column, and then, seeing my finely mounted guard and my own immutable face and shining garments coming up behind them, would smile and bow and hint at a few small coins — which I gave.
@@ -5149,7 +5149,7 @@ The merchant with a benign air replied: “The science of political economy is a
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_13" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 13)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_13" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 13)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “When I rose as though to leave, the Vizier, in a state of the utmost excitement, implored me to reconsider so sudden a decision. He was prepared (he swore) to take but an instalment of the whole. Ready money was absolutely necessary. And if, with my profound knowledge of finance, I could devise some way of escape for his master, the most substantial proofs of gratitude would be afforded me.
@@ -5191,7 +5191,7 @@ The merchant with a benign air replied: “The science of political economy is a
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_14" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 14)" data-chapter="Chapter 12 ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_14" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 14)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt"></span>
 
 
 “But, uncle,” said the fourth nephew, who was an athlete and somewhat stupid, and who had heard of this double negotiation with round eyes, “surely they must have both been very angry with you!”
@@ -5219,7 +5219,7 @@ The Peace of the Soul
 
 
 
-<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_01" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 1)" data-chapter="Chapter 13 ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_01" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 1)" data-chapter="ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
 
 
 CHAPTER XIV. ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL
@@ -5259,7 +5259,7 @@ The merchant was silent for a moment, and then began the category of his financi
 
 
 
-<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_02" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 2)" data-chapter="Chapter 13 ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_02" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 2)" data-chapter="ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
 
 
 Mahmoud mused and continued:
@@ -5295,7 +5295,7 @@ Mahmoud stroked his long white beard and looked up sideways towards the highly d
 
 
 
-<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_03" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 3)" data-chapter="Chapter 13 ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_03" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 3)" data-chapter="ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
 
 
 “Meanwhile I devised in my leisure time an amusing instrument of gain called ‘The Cream Separator.’ I paid my wretched Sultan and his Court for a law, to be imposed, compelling all men, under pain of torture, to reveal their revenues from farming or any other reputable trade, but taking no account of gambling and juggling as being unimportant and too difficult to follow. I next paid another sum to the writers and spouters and other starvelings to denounce all who objected. For less than double this sum I brought a new law which swept away all the surplus of the better farmers and other reputable men into a general fund and paid out their cruel loss, partly in little doles to the very poor, but partly also (for fair play’s a jewel) in added stipends to the very rich with posts at Court: the Lord High Conjurer I especially favoured. Thus did I establish a firm friendship with the masses and with their governors and, I am glad to say, destroyed the middle sort who are a very dull, greasy, humdrum lot at the best, rightly detested by their betters as apes and by their inferiors as immediate masters.
@@ -5337,7 +5337,7 @@ His uncle was silent for a space and then replied in slow and measured words:
 
 
 
-<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_04" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 4)" data-chapter="Chapter 13 ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_04" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 4)" data-chapter="ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt"></span>
 
 
 “I have no more to tell you. Work as hard as you possibly can, live soberly and most minutely by rule, and so long as any dregs of strength remain to you struggle to retain some small part of the product of your labour for the support of yourselves and your families. The rest will, in the natural course of things, find its way into the hands of men like myself.... And now depart with my benediction. But, stay,” he said, as though a thought had struck him, “I cannot let you go without a little present for each.”

@@ -8355,10 +8355,10 @@ nearly related to Rule Britannia, and that if Great Britain hadn’t been
 an island, there could have been no Miss Pecksniffs. And being now on a
 nautical tack, it closed with this verse:
 
-     ‘All hail to the vessel of Pecksniff the sire!
-            And favouring breezes to fan;
-     While Tritons flock round it, and proudly admire
-            The architect, [[Artist|artist]], and man!’
+‘All hail to the vessel of Pecksniff the sire!
+And favouring breezes to fan;
+While Tritons flock round it, and proudly admire
+The architect, [[Artist|artist]], and man!’
 
 As they presented this beautiful picture to the [[Imagination|imagination]], the
 gentlemen gradually withdrew to bed to give the music the effect of
@@ -12409,10 +12409,10 @@ woke upon that soil, as many have done since, to blots and stains upon
 its high pretensions, which in the brightness of his distant [[Dreams|dreams]] were
 lost to view, appealed in these words--
 
-     ‘Oh, but for such, Columbia’s days were done;
-     Rank without ripeness, quickened without sun,
-     Crude at the surface, rotten at the core,
-     Her fruits would fall before her [[spring]] were o’er!’
+‘Oh, but for such, Columbia’s days were done;
+Rank without ripeness, quickened without sun,
+Crude at the surface, rotten at the core,
+Her fruits would fall before her [[spring]] were o’er!’
 
 
 
@@ -14033,10 +14033,10 @@ lasting custom. If it wasn’t for the nerve a little sip of liquor gives
 me (I never was able to do more than taste it), I never could go through
 with what I sometimes has to do. “Mrs Harris,” I says, at the very last
 case as ever I acted in, which it was but a young person, “Mrs Harris,”
- I says, “leave the bottle on the chimley-piece, and don’t ask me to take
+I says, “leave the bottle on the chimley-piece, and don’t ask me to take
 none, but let me put my lips to it when I am so dispoged, and then I
 will do what I’m engaged to do, according to the best of my ability.”
- “Mrs Gamp,” she says, in answer, “if ever there was a sober creetur to
+“Mrs Gamp,” she says, in answer, “if ever there was a sober creetur to
 be got at eighteen pence a day for working people, and three and six for
 gentlefolks--[[Night|night]] watching,”’ said Mrs Gamp with emphasis, ‘“being a
 extra charge--you are that inwallable person.” “Mrs Harris,” I says to
@@ -15327,10 +15327,10 @@ being jolly. Why it was one of them inwading conquerors at Pawkins’s, as
 told me. “Am I rightly informed,” he says--not exactly through his nose,
 but as if he’d got a stoppage in it, very high up--“that you’re a-going
 to the Walley of Eden?” “I heard some talk on it,” I told him. “Oh!”
- says he, “if you should ever happen to go to bed there--you MAY, you
+says he, “if you should ever happen to go to bed there--you MAY, you
 know,” he says, “in course of [[Time|time]] as civilisation progresses--don’t
 forget to take a axe with you.” I looks at him tolerable hard. “Fleas?”
- says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
+says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
 “Musquitoes, perhaps?” says I. “And more,” says he. “What more?” says
 I. “Snakes more,” says he; “rattle-snakes. You’re right to a certain
 extent, stranger. There air some catawampous chawers in the small way
@@ -18180,7 +18180,7 @@ Gamp,” she says, “you raly do amaze me!” “Mrs Harris,” I says to her,
 Mrs Harris, “and shaming him as shall be nameless betwixt you and me,
 never did I think till I know’d you, as any woman could sick-[[Nurse|nurse]] and
 monthly likeways, on the little that you takes to drink.” “Mrs Harris,”
- I says to her, “none on us knows what we can do till we tries; and
+I says to her, “none on us knows what we can do till we tries; and
 wunst, when me and Gamp kept ‘ouse, I thought so too. But now,” I says,
 “my half a pint of porter fully satisfies; perwisin’, Mrs Harris, that
 it is brought reg’lar, and draw’d mild. Whether I sicks or monthlies,
@@ -18217,7 +18217,7 @@ reposed the greatest friendliness in me for twenty year, “The soberest
 person going, and the best of blessings in a sick room, is Mrs Gamp.
 Send a boy to Kingsgate Street,” she says, “and snap her up at any
 price, for Mrs Gamp is worth her weight and more in goldian guineas.”
- My landlord brings the message down to me, and says, “bein’ in a light
+My landlord brings the message down to me, and says, “bein’ in a light
 place where you are, and this job promising so [[Well|well]], why not unite the
 two?” “No, sir,” I says, “not unbeknown to Mr Mould, and therefore do
 not think it. But I will go to Mr Mould,” I says, “and ast him, if you
@@ -20220,7 +20220,7 @@ wouldn’t have made a parson of you!”’
 up, dead, sir--but after a minute he said to the Duke, “Here’s Pip.
 Ask Pip. Pip’s our mutual friend. Ask Pip. He knows.” “Damme!” said the
 Duke, “I appeal to Pip then. Come, Pip. Bandy or not bandy? Speak out!”
- “Bandy, your Grace, by the Lord Harry!” said I. “Ha, ha!” laughed the
+“Bandy, your Grace, by the Lord Harry!” said I. “Ha, ha!” laughed the
 Duke. “To be sure she is. Bravo, Pip. [[Well]] said Pip. I wish I may die
 if you’re not a trump, Pip. Pop me down among your fashionable visitors
 whenever I’m in town, Pip.” And so I do, to this day.’
@@ -22157,8 +22157,8 @@ doing anything and everything except the right thing, all through his
 career. From the lofty height on which poor Tom had placed his idol it
 was tumbled down headlong, and
 
-     Not all the [[King|king]]’s horses, nor all the [[King|king]]’s men,
-     Could have set Mr Pecksniff up again.
+Not all the [[King|king]]’s horses, nor all the [[King|king]]’s men,
+Could have set Mr Pecksniff up again.
 
 Legions of Titans couldn’t have got him out of the mud; and serve him
 right! But it was not he who suffered; it was Tom. His compass was
@@ -24524,7 +24524,7 @@ Martin looked at him for farther explanation.
 Mark, ‘the mate he comes and asks me whether I’d engage to take this
 said cook’s place upon the passage [[Home|home]]. “For you’re used to it,” he
 says; “you were always a-cooking for everybody on your passage out.”
- And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
+And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
 oath.’
 
 ‘What did you say?’ demanded Martin.
@@ -27180,7 +27180,7 @@ man, aged thirty-five, from the country, came in when he was invited,
 instead of standing gaping and staring about him on the landing. [[Well]]!
 When he came in, I found he was a stranger; a [[Grave|grave]], business-like,
 sedate-looking, stranger. “Mr Westlock?” said he. “That is my name,”
- said I. “The favour of a few words with you?” said he. “Pray be seated,
+said I. “The favour of a few words with you?” said he. “Pray be seated,
 sir,” said I.’
 
 Here John stopped for an instant, to glance towards the table, where
@@ -28295,7 +28295,7 @@ I ever had to speak) was these: “Sairey,” she says, “is it a public
 wharf?” “Mrs Harris,” I makes answer, “can you [[Doubt|doubt]] it? You have know’d
 me now, ma’am, eight and thirty year; and did you ever know me go, or
 wish to go, where I was not made welcome, say the words.” “No, Sairey,”
- Mrs Harris says, “contrairy quite.” And [[Well|well]] she knows it too. I am but
+Mrs Harris says, “contrairy quite.” And [[Well|well]] she knows it too. I am but
 a poor woman, but I’ve been sought after, sir, though you may not think
 it. I’ve been knocked up at all hours of the [[Night|night]], and warned out by
 a many landlords, in consequence of being mistook for [[Fire]]. I goes out
@@ -29010,12 +29010,12 @@ moment, from the [[Lightning|lightning]] which was flashing, not in any one dire
 but all around them. ‘What of that? It don’t change you, nor me, nor our
 affairs. [[Chorus]], [[Chorus|chorus]],
 
-              It may lighten and [[Storm|storm]],
-              Till it hunt the red worm
-     From the grass where the gibbet is driven;
-              But it can’t hurt the dead,
-              And it won’t save the head
-     That is doom’d to be rifled and riven.
+It may lighten and [[Storm|storm]],
+Till it hunt the red worm
+From the grass where the gibbet is driven;
+But it can’t hurt the dead,
+And it won’t save the head
+That is doom’d to be rifled and riven.
 
 That must be a precious old [[Song|song]],’ he added with an oath, as he stopped
 short in a kind of [[Wonder|wonder]] at himself. ‘I haven’t heard it since I was
@@ -45294,7 +45294,7 @@ the golden calf for eighteen shillings a week! oh pitiful, pitiful!
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_01" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 1)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_01" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 1)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 CHAPTER ELEVEN
@@ -45414,7 +45414,7 @@ know. What a cruel girl you are!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_02" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 2)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_02" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 2)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 ‘[[Well]], perhaps it is,’ said Mr Jonas. ‘I say--Did you think I was lost?
@@ -45562,7 +45562,7 @@ at his own superior wisdom.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_03" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 3)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_03" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 3)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 When they had been out for some hours and were thoroughly fatigued, it
@@ -45681,7 +45681,7 @@ century before, and somebody had just found him in a lumber-closet.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_04" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 4)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_04" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 4)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 Such as he was, he came slowly creeping on towards the table, until at
@@ -45809,7 +45809,7 @@ him!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_05" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 5)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_05" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 5)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 Mr Jonas considered this so particularly childish (perhaps with some
@@ -45924,7 +45924,7 @@ evil, when virtue might have sought to hold him back in vain.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_06" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 6)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_06" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 6)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 By the [[Time|time]] he had unfolded all the peddling schemes he knew upon the
@@ -46042,7 +46042,7 @@ you most.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_07" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 7)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_07" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 7)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 There were several of these concerted pieces; perhaps two or three too
@@ -46072,10 +46072,10 @@ nearly related to Rule Britannia, and that if Great Britain hadn’t been
 an island, there could have been no Miss Pecksniffs. And being now on a
 nautical tack, it closed with this verse:
 
-     ‘All hail to the vessel of Pecksniff the sire!
-            And favouring breezes to fan;
-     While Tritons flock round it, and proudly admire
-            The architect, [[Artist|artist]], and man!’
+‘All hail to the vessel of Pecksniff the sire!
+And favouring breezes to fan;
+While Tritons flock round it, and proudly admire
+The architect, [[Artist|artist]], and man!’
 
 As they presented this beautiful picture to the [[Imagination|imagination]], the
 gentlemen gradually withdrew to bed to give the music the effect of
@@ -46164,7 +46164,7 @@ Pecksniff; but together we are something. Eh?’
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_08" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 8)" data-chapter="Chapter 11 ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_08" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 8)" data-chapter="ELEVEN" data-kind="excerpt"></span>
 
 
 ‘Unanimity, my good sir,’ rejoined Mr Pecksniff, ‘is always delightful.’
@@ -46281,7 +46281,7 @@ hearth, and was a sacrilege upon the altars of his household gods.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_01" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 1)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_01" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 CHAPTER TWELVE
@@ -46419,7 +46419,7 @@ she and I will sit and listen to you, Tom; be sure of that!’
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_02" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 2)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_02" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 2)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 It may have required a stronger effort on [[Tom Pinch]]’s part to leave the
@@ -46538,7 +46538,7 @@ times more fiercely to a man in a gig, wouldn’t it? A fig for gigs!
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_03" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 3)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_03" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 3)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 Better than the gig! When were travellers by wheels and hoofs seen with
@@ -46651,7 +46651,7 @@ didn’t know; and went off into a perfect shout.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_04" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 4)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_04" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 4)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 They were very merry and full of enjoyment the whole [[Time|time]], but not the
@@ -46790,7 +46790,7 @@ again?’
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_05" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 5)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_05" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 5)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 ‘No.’
@@ -46916,7 +46916,7 @@ and the voice of John himself.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_06" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 6)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_06" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 6)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 ‘You’re not asleep yet, are you, Tom?’
@@ -47045,7 +47045,7 @@ to go to bed early.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_07" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 7)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_07" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 7)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 They were not quite so glad to get up again at half-past four o’[[Clock|clock]],
@@ -47171,7 +47171,7 @@ looked at him for the first [[Time|time]], ‘presently.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_08" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 8)" data-chapter="Chapter 12 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_08" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 8)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 ‘You are very obliging,’ returned Martin; ‘presently will not do. I must
@@ -47287,7 +47287,7 @@ cheeks; and they parted hurriedly upon their separate ways.
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_01" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 1)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_01" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 1)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTEEN
@@ -47391,7 +47391,7 @@ distant [[London]], retreating among the fragments of the burning wood.
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_02" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 2)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_02" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 2)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 He had repeated this process in just the same order, many times, as
@@ -47544,7 +47544,7 @@ course they wos very glad to see him in the U-nited States.’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_03" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 3)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_03" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 3)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 ‘What do you mean?’ asked Martin, with some scorn.
@@ -47659,7 +47659,7 @@ Going at two-and-six! For the last [[Time|time]] at two-and-six!’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_04" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 4)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_04" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 4)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 ‘It’ll never be the last [[Time|time]] till it’s quite worn out,’ rejoined the
@@ -47790,7 +47790,7 @@ half-a-[[Crown|crown]].’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_05" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 5)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_05" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 5)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 Martin drew that piece of money from his pocket, and tossed it towards
@@ -47899,7 +47899,7 @@ provisions upon the voyage.
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_06" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 6)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_06" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 6)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 It is an illustration of a very common tendency in the mind of man, that
@@ -48014,7 +48014,7 @@ a man jolly, sir--I see you a-buying that.’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_07" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 7)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_07" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 7)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 Martin reddened as he pointed to the table, and said, somewhat hastily:
@@ -48164,7 +48164,7 @@ enclosed, and fixing his eyes on Mark as he put it in his hands, said:
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_08" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 8)" data-chapter="Chapter 13 THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_08" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 8)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
 
 
 ‘Now tell me the [[Truth|truth]]. Do you know anything about that?’
@@ -48308,7 +48308,7 @@ too strong, sir!’
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_01" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 1)" data-chapter="Chapter 14 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_01" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 1)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER FOURTEEN
@@ -48430,7 +48430,7 @@ thought of all this?’
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_02" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 2)" data-chapter="Chapter 14 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_02" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 2)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 ‘Thought of it!’ cried Martin, abating, in his fondness--and he WAS very
@@ -48564,7 +48564,7 @@ thinks an angel.’
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_03" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 3)" data-chapter="Chapter 14 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_03" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 3)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 ‘Mr Pecksniff again?’ asked Mary.
@@ -48693,7 +48693,7 @@ incredulous and blind.
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_04" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 4)" data-chapter="Chapter 14 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_04" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 4)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 ‘The quarter’s gone!’ cried Mr Tapley, in a voice of admonition.
@@ -48830,7 +48830,7 @@ lips, to release himself of this word:
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_01" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 1)" data-chapter="Chapter 15 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_01" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 1)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTEEN
@@ -48945,7 +48945,7 @@ much of me to swear by. How do you find yourself this morning, sir?’
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_02" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 2)" data-chapter="Chapter 15 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_02" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 2)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 ‘Very miserable,’ said Martin, with a peevish groan. ‘Ugh. This is
@@ -49075,7 +49075,7 @@ commonest in the world.
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_03" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 3)" data-chapter="Chapter 15 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_03" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 3)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 It cannot be said that as his illness wore off, his cheerfulness and
@@ -49193,7 +49193,7 @@ little quieter to-[[Night|night]] than she did last [[Night|night]]; that’s a 
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_04" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 4)" data-chapter="Chapter 15 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_04" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 4)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 Mr Tapley set himself to obey these orders with great alacrity, and
@@ -49257,7 +49257,7 @@ is it? Very [[Well|well]]. I’m agreeable. Any land will do for me, after so mu
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_01" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 1)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_01" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 1)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER SIXTEEN
@@ -49371,7 +49371,7 @@ generally, in this remark.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_02" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 2)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_02" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 2)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 ‘Really,’ said Martin, ‘I don’t know. Yes. I think I was.’
@@ -49519,7 +49519,7 @@ own importation.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_03" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 3)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_03" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 3)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 All this was so extremely kind and hospitable, that Martin, though it
@@ -49636,7 +49636,7 @@ mighty influence upon the cabinets of Europe. Yes?’
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_04" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 4)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_04" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 ‘That’s what I was about to observe, certainly,’ said Martin.
@@ -49777,7 +49777,7 @@ down sociably in the gutter.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_05" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 5)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_05" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 5)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 ‘Is the major indoors?’ inquired the colonel, as he entered.
@@ -49906,7 +49906,7 @@ Pawkins rather ‘loafed’ his [[Time|time]] away than otherwise.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_06" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 6)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_06" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 6)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 ‘You have come to visit our country, sir, at a season of great
@@ -50035,7 +50035,7 @@ But she had one comfort. It was very soon over.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_07" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 7)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_07" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 7)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 When the colonel had finished his dinner, which event took place while
@@ -50175,7 +50175,7 @@ heaven of Fame.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_08" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 8)" data-chapter="Chapter 16 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_08" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 8)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 Once or twice, when there was a pause, Martin asked such questions as
@@ -50314,15 +50314,15 @@ woke upon that soil, as many have done since, to blots and stains upon
 its high pretensions, which in the brightness of his distant [[Dreams|dreams]] were
 lost to view, appealed in these words--
 
-     ‘Oh, but for such, Columbia’s days were done;
-     Rank without ripeness, quickened without sun,
-     Crude at the surface, rotten at the core,
-     Her fruits would fall before her [[spring]] were o’er!’
+‘Oh, but for such, Columbia’s days were done;
+Rank without ripeness, quickened without sun,
+Crude at the surface, rotten at the core,
+Her fruits would fall before her [[spring]] were o’er!’
 
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_01" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 1)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_01" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 1)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER SEVENTEEN
@@ -50445,7 +50445,7 @@ his friend would give him.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_02" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 2)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_02" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 2)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 It would not have been very difficult for any one to see; but it was
@@ -50582,7 +50582,7 @@ ever! Hurrah! Hail, Columbia!’
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_03" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 3)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_03" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 3)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 ‘Hush!’ cried Martin, clapping his hand upon his mouth; ‘and don’t be an
@@ -50701,7 +50701,7 @@ by the whole family.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_04" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 4)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_04" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 4)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 Another delightful circumstance turned up before the first cup of tea
@@ -50803,7 +50803,7 @@ insanity in five minutes.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_05" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 5)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_05" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 5)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 Martin felt his reason going; and as a means of saving himself, besought
@@ -50933,7 +50933,7 @@ almost laid his hand upon his [[Sword|sword]].
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_06" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 6)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_06" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 6)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 A [[Death|death]]-like stillness fell upon the Norisses. If this story should get
@@ -51064,7 +51064,7 @@ friend, turning again to Mrs Brick.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_07" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 7)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_07" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 7)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 ‘On Mondays?’
@@ -51197,7 +51197,7 @@ that agency by the enraptured drinker.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_08" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 8)" data-chapter="Chapter 17 SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_08" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 8)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
 
 
 Martin took the glass with an astonished look; applied his lips to the
@@ -51262,7 +51262,7 @@ ocean to the English shore.
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_01" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 1)" data-chapter="Chapter 18 EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_01" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 1)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER EIGHTEEN
@@ -51396,7 +51396,7 @@ this twenty year.’
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_02" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 2)" data-chapter="Chapter 18 EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_02" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 2)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
 
 
 ‘That’s a good sign!’ cried Chuffey. ‘Ha! ha! The best sign in the
@@ -51522,7 +51522,7 @@ old man.
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_03" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 3)" data-chapter="Chapter 18 EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_03" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 3)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
 
 
 ‘Oh! YOU were? What was it?’
@@ -51650,7 +51650,7 @@ another minute, quite regardless or forgetful of his presence.
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_04" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 4)" data-chapter="Chapter 18 EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_04" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 4)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
 
 
 Uncouth and unsatisfactory as this short interview had been, it had
@@ -51827,7 +51827,7 @@ shall not close on one!
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_01" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 1)" data-chapter="Chapter 19 NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_01" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 1)" data-chapter="NINETEEN" data-kind="excerpt"></span>
 
 
 CHAPTER NINETEEN
@@ -51952,7 +51952,7 @@ off, overwhelmed with popular execration.
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_02" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 2)" data-chapter="Chapter 19 NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_02" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 2)" data-chapter="NINETEEN" data-kind="excerpt"></span>
 
 
 Mrs Gamp had a large bundle with her, a pair of pattens, and a species
@@ -52016,10 +52016,10 @@ lasting custom. If it wasn’t for the nerve a little sip of liquor gives
 me (I never was able to do more than taste it), I never could go through
 with what I sometimes has to do. “Mrs Harris,” I says, at the very last
 case as ever I acted in, which it was but a young person, “Mrs Harris,”
- I says, “leave the bottle on the chimley-piece, and don’t ask me to take
+I says, “leave the bottle on the chimley-piece, and don’t ask me to take
 none, but let me put my lips to it when I am so dispoged, and then I
 will do what I’m engaged to do, according to the best of my ability.”
- “Mrs Gamp,” she says, in answer, “if ever there was a sober creetur to
+“Mrs Gamp,” she says, in answer, “if ever there was a sober creetur to
 be got at eighteen pence a day for working people, and three and six for
 gentlefolks--[[Night|night]] watching,”’ said Mrs Gamp with emphasis, ‘“being a
 extra charge--you are that inwallable person.” “Mrs Harris,” I says to
@@ -52070,7 +52070,7 @@ something absolutely gorgeous.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_03" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 3)" data-chapter="Chapter 19 NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_03" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 3)" data-chapter="NINETEEN" data-kind="excerpt"></span>
 
 
 ‘My friend Mr Jonas is an excellent man,’ said Mr Pecksniff.
@@ -52194,7 +52194,7 @@ names, it’s only done to rouse ‘em.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_04" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 4)" data-chapter="Chapter 19 NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_04" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 4)" data-chapter="NINETEEN" data-kind="excerpt"></span>
 
 
 Whatever epithets she had bestowed on the old clerk, they had not
@@ -52309,7 +52309,7 @@ Mould emphatically said, ‘Everything that money could do was done.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_05" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 5)" data-chapter="Chapter 19 NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_05" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 5)" data-chapter="NINETEEN" data-kind="excerpt"></span>
 
 
 ‘And what can do more, Mrs Gamp?’ exclaimed the undertaker as he emptied
@@ -52435,7 +52435,7 @@ an exchange. Thank you. [[Well]], sir, I was going to tell you--’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_06" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 6)" data-chapter="Chapter 19 NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_06" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 6)" data-chapter="NINETEEN" data-kind="excerpt"></span>
 
 
 ‘Ready, eh?’ said the doctor. ‘Very good, Mr Pecksniff, I’ll take an
@@ -52553,7 +52553,7 @@ throwing up another heap of earth. And that was all.
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_01" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 1)" data-chapter="Chapter 20 TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_01" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 1)" data-chapter="TWENTY" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY
@@ -52692,7 +52692,7 @@ sacrifice.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_02" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 2)" data-chapter="Chapter 20 TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_02" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 2)" data-chapter="TWENTY" data-kind="excerpt"></span>
 
 
 A question of [[philosophy]] arises here, whether Mr Pecksniff had or had
@@ -52800,7 +52800,7 @@ man go [[Melancholy|melancholy]] mad.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_03" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 3)" data-chapter="Chapter 20 TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_03" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 3)" data-chapter="TWENTY" data-kind="excerpt"></span>
 
 
 ‘We shall need ‘em by the [[Time|time]] we get there,’ said Jonas. ‘Why the devil
@@ -52937,7 +52937,7 @@ fright! [[Well]], I’m very thankful that you won’t trouble ME much!’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_04" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 4)" data-chapter="Chapter 20 TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_04" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 4)" data-chapter="TWENTY" data-kind="excerpt"></span>
 
 
 ‘What! you’re as lively as ever, are you?’ said Jonas. ‘Oh! You’re a
@@ -53079,7 +53079,7 @@ were by.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_05" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 5)" data-chapter="Chapter 20 TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_05" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 5)" data-chapter="TWENTY" data-kind="excerpt"></span>
 
 
 ‘There’s no accounting for tastes,’ said Merry; ‘at least I didn’t mean
@@ -53211,7 +53211,7 @@ and never could express my sense of them sufficiently.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_06" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 6)" data-chapter="Chapter 20 TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_06" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 6)" data-chapter="TWENTY" data-kind="excerpt"></span>
 
 
 ‘That,’ said Mr Pecksniff, ‘was very, very wrong. Take your [[Time|time]], Mr
@@ -53264,7 +53264,7 @@ But at that moment a loud knocking was heard at the hall door.
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_01" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 1)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_01" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 1)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-ONE
@@ -53372,10 +53372,10 @@ being jolly. Why it was one of them inwading conquerors at Pawkins’s, as
 told me. “Am I rightly informed,” he says--not exactly through his nose,
 but as if he’d got a stoppage in it, very high up--“that you’re a-going
 to the Walley of Eden?” “I heard some talk on it,” I told him. “Oh!”
- says he, “if you should ever happen to go to bed there--you MAY, you
+says he, “if you should ever happen to go to bed there--you MAY, you
 know,” he says, “in course of [[Time|time]] as civilisation progresses--don’t
 forget to take a axe with you.” I looks at him tolerable hard. “Fleas?”
- says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
+says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
 “Musquitoes, perhaps?” says I. “And more,” says he. “What more?” says
 I. “Snakes more,” says he; “rattle-snakes. You’re right to a certain
 extent, stranger. There air some catawampous chawers in the small way
@@ -53388,7 +53388,7 @@ down, for he means wenom.”’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_02" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 2)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_02" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 2)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 ‘Why didn’t you tell me this before!’ cried Martin, with an expression
@@ -53536,7 +53536,7 @@ the shores of green Co-lumbia!’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_03" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 3)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_03" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 3)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 Here the lank gentleman sat down again, amidst a great sensation; and
@@ -53675,7 +53675,7 @@ brother man?’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_04" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 4)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_04" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 4)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 Martin tried to look convinced, but he thought of [[New York]], and found it
@@ -53799,7 +53799,7 @@ profits, as long as it is carried on, shall be yours.’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_05" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 5)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_05" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 5)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 Poor Martin! For ever building castles in the air. For ever, in his very
@@ -53926,7 +53926,7 @@ selling Eden off too cheap. That’s human natur’! [[Well]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_06" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 6)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_06" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 6)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 ‘Mr Scadder,’ said the General, assuming his oratorical deportment.
@@ -54076,7 +54076,7 @@ pierced the very centre of the main wharf, through and through.
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_07" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 7)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_07" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 7)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 ‘There!’ he said, leaving his knife quivering in the wall; ‘that’s where
@@ -54199,7 +54199,7 @@ written.
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_08" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 8)" data-chapter="Chapter 21 TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_08" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 8)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
 
 
 ‘Thus,’ said the General, ‘thus, my friends and fellow-citizens, it
@@ -54317,7 +54317,7 @@ and you are but sorry fustian!’
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_01" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 1)" data-chapter="Chapter 22 TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_01" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 1)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-TWO
@@ -54485,7 +54485,7 @@ again; winked, and walked out.
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_02" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 2)" data-chapter="Chapter 22 TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_02" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 2)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
 
 
 ‘Upon my life, now!’ said Martin, bringing his hand heavily upon the
@@ -54603,7 +54603,7 @@ p’raps, acquainted, sir, with Mrs Hominy’s writings.’
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_03" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 3)" data-chapter="Chapter 22 TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_03" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 3)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
 
 
 Martin couldn’t say he was.
@@ -54738,7 +54738,7 @@ yet busied with dried beef and a saucer-full of pickled fixings.
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_04" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 4)" data-chapter="Chapter 22 TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_04" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 4)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
 
 
 It would be difficult to give an adequate idea of Mrs Hominy’s freshness
@@ -54836,7 +54836,7 @@ upon the dark [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_01" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 1)" data-chapter="Chapter 23 TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_01" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 1)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-THREE
@@ -54960,7 +54960,7 @@ boat who are bound for Eden?’
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_02" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 2)" data-chapter="Chapter 23 TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_02" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 2)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
 
 
 ‘None at all, sir. Most of ‘em, as you know, have stopped short; and
@@ -55090,7 +55090,7 @@ the most auspicious and cheerful of all imaginable circumstances.
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_03" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 3)" data-chapter="Chapter 23 TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_03" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 3)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
 
 
 But many a man who would have stood within a [[Home|home]] dismantled, strong in
@@ -55202,7 +55202,7 @@ went sadly off upon their several tasks.
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_04" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 4)" data-chapter="Chapter 23 TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_04" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 4)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
 
 
 Martin was by this [[Time|time]] stirring; but he had greatly changed, even in
@@ -55300,7 +55300,7 @@ to come out strong; or Never!’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_01" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 1)" data-chapter="Chapter 24 TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_01" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 1)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-FOUR
@@ -55430,7 +55430,7 @@ dispassionately; ‘and I never expected to be a legatee. I knew better!’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_02" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 2)" data-chapter="Chapter 24 TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_02" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 2)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
 
 
 ‘His son a pattern!’ cried old Martin. ‘How can you tell me that? My
@@ -55562,7 +55562,7 @@ when old Martin, looking at his watch, announced that it was [[Time|time]] to go
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_03" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 3)" data-chapter="Chapter 24 TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_03" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 3)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
 
 
 ‘We have rooms,’ he said, ‘at the Dragon, for the present. I have a
@@ -55702,7 +55702,7 @@ me to pass. The less I say, the better.’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_04" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 4)" data-chapter="Chapter 24 TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_04" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 4)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
 
 
 ‘The less you say!’ retorted Jonas, dangling his legs the more, and
@@ -55834,7 +55834,7 @@ trust, and run away with [[Mary Graham]].
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_05" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 5)" data-chapter="Chapter 24 TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_05" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 5)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
 
 
 It must be acknowledged that, asleep or awake, Tom’s position in
@@ -55961,7 +55961,7 @@ ask by whom; by any one?’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_06" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 6)" data-chapter="Chapter 24 TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_06" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 6)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
 
 
 ‘No,’ said Merry, shrugging her shoulders. ‘I don’t know that I am.’
@@ -56121,7 +56121,7 @@ sun shines. Take your own way as long as it’s in your power, my lady!’
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_01" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 1)" data-chapter="Chapter 25 TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_01" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 1)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-FIVE
@@ -56239,7 +56239,7 @@ here,’ said Mr Mould. ‘Like their impudence to propose it. Who is it?’
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_02" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 2)" data-chapter="Chapter 25 TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_02" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 2)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
 
 
 ‘Why,’ returned Tacker, pausing, ‘that’s where it is, you see. It’s the
@@ -56355,7 +56355,7 @@ Gamp,” she says, “you raly do amaze me!” “Mrs Harris,” I says to her,
 Mrs Harris, “and shaming him as shall be nameless betwixt you and me,
 never did I think till I know’d you, as any woman could sick-[[Nurse|nurse]] and
 monthly likeways, on the little that you takes to drink.” “Mrs Harris,”
- I says to her, “none on us knows what we can do till we tries; and
+I says to her, “none on us knows what we can do till we tries; and
 wunst, when me and Gamp kept ‘ouse, I thought so too. But now,” I says,
 “my half a pint of porter fully satisfies; perwisin’, Mrs Harris, that
 it is brought reg’lar, and draw’d mild. Whether I sicks or monthlies,
@@ -56366,7 +56366,7 @@ brought reg’lar and draw’d mild.”’
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_03" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 3)" data-chapter="Chapter 25 TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_03" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 3)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
 
 
 The precise connection between these observations and the glass of rum,
@@ -56398,7 +56398,7 @@ reposed the greatest friendliness in me for twenty year, “The soberest
 person going, and the best of blessings in a sick room, is Mrs Gamp.
 Send a boy to Kingsgate Street,” she says, “and snap her up at any
 price, for Mrs Gamp is worth her weight and more in goldian guineas.”
- My landlord brings the message down to me, and says, “bein’ in a light
+My landlord brings the message down to me, and says, “bein’ in a light
 place where you are, and this job promising so [[Well|well]], why not unite the
 two?” “No, sir,” I says, “not unbeknown to Mr Mould, and therefore do
 not think it. But I will go to Mr Mould,” I says, “and ast him, if you
@@ -56485,7 +56485,7 @@ in Holborn, which she reached as the clocks were striking eight.
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_04" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 4)" data-chapter="Chapter 25 TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_04" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 4)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
 
 
 As she turned into the yard, she stopped; for the landlord, landlady,
@@ -56627,7 +56627,7 @@ chamber.
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_05" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 5)" data-chapter="Chapter 25 TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_05" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 5)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
 
 
 ‘A little dull, but not so bad as might be,’ Mrs Gamp remarked.
@@ -56739,7 +56739,7 @@ wanderings of [[Cain]], to these!
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_06" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 6)" data-chapter="Chapter 25 TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_06" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 6)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
 
 
 Still, without a moment’s interval, the burning head tossed to and fro.
@@ -56898,7 +56898,7 @@ laying her hand upon her arm--‘try the cowcumbers, God bless you!’
 
 
 
-<span class="atom-split" data-atom="chapter_26_twenty_six--part_01" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 1)" data-chapter="Chapter 26 TWENTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_twenty_six--part_01" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 1)" data-chapter="TWENTY SIX" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-SIX
@@ -57015,7 +57015,7 @@ state of spirits with himself.
 
 
 
-<span class="atom-split" data-atom="chapter_26_twenty_six--part_02" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 2)" data-chapter="Chapter 26 TWENTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_twenty_six--part_02" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 2)" data-chapter="TWENTY SIX" data-kind="excerpt"></span>
 
 
 ‘I wouldn’t have believed it,’ said Poll. ‘What! You’ve left your old
@@ -57152,7 +57152,7 @@ Gamp.
 
 
 
-<span class="atom-split" data-atom="chapter_26_twenty_six--part_03" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 3)" data-chapter="Chapter 26 TWENTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_twenty_six--part_03" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 3)" data-chapter="TWENTY SIX" data-kind="excerpt"></span>
 
 
 Paul knocked at [[Jonas Chuzzlewit]]’s; and, on the door being opened by
@@ -57317,7 +57317,7 @@ It was her welcome--[[Home|HOME]].
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 1)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 1)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-SEVEN
@@ -57425,7 +57425,7 @@ to-day, in my capacity as chairman.’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 2)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 2)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 The secretary smiled again; laughed, indeed, this [[Time|time]]; and said,
@@ -57595,7 +57595,7 @@ the Board of Management for its permanence and stability.
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 3)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 3)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 This gentleman’s name, by the way, had been originally Crimp; but as
@@ -57713,7 +57713,7 @@ this. In Mr Crimple’s leg--’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 4)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 4)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 The resident Director gave an involuntary start, for the doctor, in the
@@ -57831,7 +57831,7 @@ comfortable fellows you ever saw in your life!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_05" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 5)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_05" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 5)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 Jobling was for many reasons, and not last in the list because his
@@ -57951,7 +57951,7 @@ furniture. They had a very decided influence on Jonas.
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_06" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 6)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_06" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 6)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 ‘Now you two gentlemen have business to discuss, I know,’ said the
@@ -58081,7 +58081,7 @@ quite right. Sweet, silly, fluttering little simpletons!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_07" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 7)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_07" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 7)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 ‘[[Well]],’ said Jonas, ‘on that account, you know, and because offence
@@ -58241,7 +58241,7 @@ thoroughbred [[Horse|horse]] he is. Ha, ha, ha!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_08" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 8)" data-chapter="Chapter 27 TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_08" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 8)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
 
 
 Jonas enjoyed this joke very much indeed. It was quite in his peculiar
@@ -58372,7 +58372,7 @@ up, for they flowed in gayly.
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 1)" data-chapter="Chapter 28 TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 1)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-EIGHT
@@ -58485,7 +58485,7 @@ wouldn’t have made a parson of you!”’
 up, dead, sir--but after a minute he said to the Duke, “Here’s Pip.
 Ask Pip. Pip’s our mutual friend. Ask Pip. He knows.” “Damme!” said the
 Duke, “I appeal to Pip then. Come, Pip. Bandy or not bandy? Speak out!”
- “Bandy, your Grace, by the Lord Harry!” said I. “Ha, ha!” laughed the
+“Bandy, your Grace, by the Lord Harry!” said I. “Ha, ha!” laughed the
 Duke. “To be sure she is. Bravo, Pip. [[Well]] said Pip. I wish I may die
 if you’re not a trump, Pip. Pop me down among your fashionable visitors
 whenever I’m in town, Pip.” And so I do, to this day.’
@@ -58500,7 +58500,7 @@ dinner was done full justice to, by all parties.
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 2)" data-chapter="Chapter 28 TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 2)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
 
 
 It was a good a one as money (or credit, no matter which) could produce.
@@ -58640,7 +58640,7 @@ grew talkative.
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 3)" data-chapter="Chapter 28 TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 3)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
 
 
 It does not follow in the case of such a person that the more talkative
@@ -58764,7 +58764,7 @@ us?’
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 4)" data-chapter="Chapter 28 TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 4)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
 
 
 ‘No,’ she said, faintly.
@@ -58902,7 +58902,7 @@ endure, in bearing heavy evidence against us, on the Day of Judgment!
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 1)" data-chapter="Chapter 29 TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 1)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
 
 
 CHAPTER TWENTY-NINE
@@ -59044,7 +59044,7 @@ do assure you, sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 2)" data-chapter="Chapter 29 TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 2)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
 
 
 ‘You’re so full of zeal, you see!’ said Poll. ‘You worrit yourself so.’
@@ -59180,7 +59180,7 @@ wants to be tittivated, you must pay accordin’.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 3)" data-chapter="Chapter 29 TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 3)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
 
 
 ‘Oh dear me!’ cried the patient, ‘oh dear, dear!’
@@ -59308,7 +59308,7 @@ to the [[house|House]] of Commons.
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 4)" data-chapter="Chapter 29 TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 4)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
 
 
 At last, her bundle, and her pattens, and her basket, and everything
@@ -59396,7 +59396,7 @@ a little behind his [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_01" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 1)" data-chapter="Chapter 30 THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_01" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 1)" data-chapter="THIRTY" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY
@@ -59527,7 +59527,7 @@ for her. I know the fate that’s in store for her, with that Wretch.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_02" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 2)" data-chapter="Chapter 30 THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_02" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 2)" data-chapter="THIRTY" data-kind="excerpt"></span>
 
 
 ‘Mr Jonas will survive your calling him a wretch, my [[Child|child]], I dare say,’
@@ -59656,7 +59656,7 @@ process of [[Decay|decay]].
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_03" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 3)" data-chapter="Chapter 30 THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_03" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 3)" data-chapter="THIRTY" data-kind="excerpt"></span>
 
 
 To a gentleman of Mr Pecksniff’s tenderness, this was a very mournful
@@ -59778,7 +59778,7 @@ from being congenial to a delicate mind.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_04" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 4)" data-chapter="Chapter 30 THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_04" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 4)" data-chapter="THIRTY" data-kind="excerpt"></span>
 
 
 ‘It’s an amusement of the vulgar,’ said old Martin, ‘certainly.’
@@ -59907,7 +59907,7 @@ immediately.
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_05" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 5)" data-chapter="Chapter 30 THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_05" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 5)" data-chapter="THIRTY" data-kind="excerpt"></span>
 
 
 She said the morning was so beautiful that she had walked further than
@@ -60037,7 +60037,7 @@ could! How little did she know his heart!’
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_06" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 6)" data-chapter="Chapter 30 THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_06" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 6)" data-chapter="THIRTY" data-kind="excerpt"></span>
 
 
 Little, indeed! Her mind was so strangely constituted that she would
@@ -60182,7 +60182,7 @@ thanksgiving at church next [[Sunday]].
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_01" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 1)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_01" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 1)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-ONE
@@ -60299,7 +60299,7 @@ opportunity.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_02" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 2)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_02" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 2)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 ‘I have sometimes been almost afraid,’ said Mary, ‘that you might
@@ -60438,7 +60438,7 @@ brother but a [[Child|child]], who saw it, he would instinctively have helped me
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_03" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 3)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_03" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 3)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 ‘He is a scoundrel!’ exclaimed Tom. ‘Whoever he may be, he is a
@@ -60512,8 +60512,8 @@ doing anything and everything except the right thing, all through his
 career. From the lofty height on which poor Tom had placed his idol it
 was tumbled down headlong, and
 
-     Not all the [[King|king]]’s horses, nor all the [[King|king]]’s men,
-     Could have set Mr Pecksniff up again.
+Not all the [[King|king]]’s horses, nor all the [[King|king]]’s men,
+Could have set Mr Pecksniff up again.
 
 Legions of Titans couldn’t have got him out of the mud; and serve him
 right! But it was not he who suffered; it was Tom. His compass was
@@ -60547,7 +60547,7 @@ have had you deserve my old opinion of you; nothing!’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_04" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 4)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_04" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 4)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 Mr Pecksniff sat upon the hassock pulling up his shirt-collar, while
@@ -60686,7 +60686,7 @@ vestry-[[Window|window]], Mr Pinch, and then come back to me.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_05" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 5)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_05" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 5)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 No physiognomist that ever dwelt on earth could have construed Tom’s
@@ -60813,7 +60813,7 @@ strangers from this [[Time|time]].’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_06" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 6)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_06" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 6)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 Something without a name; compassion, sorrow, old tenderness, mistaken
@@ -60928,7 +60928,7 @@ hand for Tom to shake.
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_07" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 7)" data-chapter="Chapter 31 THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_07" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 7)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
 
 
 ‘You’re coming to the Dragon, Mr Pinch?’
@@ -61064,7 +61064,7 @@ afterwards, and went to [[Sleep|sleep]], and dreamed about him as he Never Was.
 
 
 
-<span class="atom-split" data-atom="chapter_32_thirty_two--part_01" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 1)" data-chapter="Chapter 32 THIRTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_thirty_two--part_01" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 1)" data-chapter="THIRTY TWO" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-TWO
@@ -61196,7 +61196,7 @@ door, and ardent to shut it again; and she waited at table in a bonnet.
 
 
 
-<span class="atom-split" data-atom="chapter_32_thirty_two--part_02" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 2)" data-chapter="Chapter 32 THIRTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_thirty_two--part_02" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 2)" data-chapter="THIRTY TWO" data-kind="excerpt"></span>
 
 
 This was the only great change over and above the change which had
@@ -61322,7 +61322,7 @@ comes and sits [[Alone|alone]] with me.’
 
 
 
-<span class="atom-split" data-atom="chapter_32_thirty_two--part_03" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 3)" data-chapter="Chapter 32 THIRTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_thirty_two--part_03" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 3)" data-chapter="THIRTY TWO" data-kind="excerpt"></span>
 
 
 ‘Quite right,’ said Mrs Todgers. ‘That’s indispensable, my dear.’
@@ -61383,7 +61383,7 @@ afternoon. Oh, what a trying day this has been! Good Gracious!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_01" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 1)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_01" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 1)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-THREE
@@ -61502,7 +61502,7 @@ looking noble!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_02" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 2)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_02" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 2)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 ‘We are but sickly now,’ said the poor woman, bending over her [[Child|child]].
@@ -61628,7 +61628,7 @@ pipe:
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_03" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 3)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_03" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 3)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 ‘[[Well]], Mr Co.! and how do you git along, sir?’
@@ -61762,7 +61762,7 @@ the present Locofoco Ticket.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_04" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 4)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_04" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 4)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 ‘And what’s that?’ asked Mark.
@@ -61907,7 +61907,7 @@ fell upon them. Mark was taken ill.
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_05" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 5)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_05" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 5)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 Mark fought against it; but the malady fought harder, and his efforts
@@ -62022,7 +62022,7 @@ to get back there, Mark.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_06" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 6)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_06" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 6)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 ‘That’s all, sir,’ returned Mr Tapley, with a significant stress upon
@@ -62152,7 +62152,7 @@ that she has more to bear than ever I had. Upon my [[Soul|soul]] I do!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_07" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 7)" data-chapter="Chapter 33 THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_07" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 7)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
 
 
 Mr Tapley opened his eyes wide in the dark; but did not interrupt.
@@ -62228,7 +62228,7 @@ wake and find them Shadows that had vanished!
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_01" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 1)" data-chapter="Chapter 34 THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_01" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 1)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-FOUR
@@ -62384,7 +62384,7 @@ laborious. He made a mental note of his answer, and went in again.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_02" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 2)" data-chapter="Chapter 34 THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_02" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 2)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
 
 
 ‘You are from Eden, sir? How did you like Eden?’
@@ -62509,7 +62509,7 @@ of the company were decidedly dirty feeders.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_03" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 3)" data-chapter="Chapter 34 THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_03" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 3)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
 
 
 The Honourable Elijah Pogram looked at Martin as if he thought ‘You
@@ -62653,7 +62653,7 @@ forward.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_04" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 4)" data-chapter="Chapter 34 THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_04" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 4)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
 
 
 ‘Mr Pogram! Sir! A handful of your fellow-citizens, sir, hearing of your
@@ -62780,7 +62780,7 @@ her own books, word for word.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_05" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 5)" data-chapter="Chapter 34 THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_05" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 5)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
 
 
 ‘My! what is this!’ cried Mrs Hominy, opening a little note which was
@@ -62907,7 +62907,7 @@ into danger, sir, on my account!’
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_06" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 6)" data-chapter="Chapter 34 THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_06" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 6)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
 
 
 ‘There is not the least danger, I assure you,’ said Martin. So he put
@@ -62993,7 +62993,7 @@ Martin looked at him for farther explanation.
 Mark, ‘the mate he comes and asks me whether I’d engage to take this
 said cook’s place upon the passage [[Home|home]]. “For you’re used to it,” he
 says; “you were always a-cooking for everybody on your passage out.”
- And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
+And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
 oath.’
 
 ‘What did you say?’ demanded Martin.
@@ -63054,7 +63054,7 @@ Mark. Let us [[Hope|hope]] so.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_thirty_five--part_01" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 1)" data-chapter="Chapter 35 THIRTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_thirty_five--part_01" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 1)" data-chapter="THIRTY FIVE" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-FIVE
@@ -63168,7 +63168,7 @@ in a [[Magic|magic]] lantern.
 
 
 
-<span class="atom-split" data-atom="chapter_35_thirty_five--part_02" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 2)" data-chapter="Chapter 35 THIRTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_thirty_five--part_02" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 2)" data-chapter="THIRTY FIVE" data-kind="excerpt"></span>
 
 
 As Mr Pecksniff passed, a person coming in the opposite direction
@@ -63301,7 +63301,7 @@ which periods the assembly became very tender, and were much affected.
 
 
 
-<span class="atom-split" data-atom="chapter_35_thirty_five--part_03" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 3)" data-chapter="Chapter 35 THIRTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_thirty_five--part_03" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 3)" data-chapter="THIRTY FIVE" data-kind="excerpt"></span>
 
 
 And now the stone was lowered down into its place, amidst the shouting
@@ -63403,7 +63403,7 @@ foremost, old fellow!’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_01" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 1)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_01" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 1)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-SIX
@@ -63513,7 +63513,7 @@ guard and his key-bugle on the top of it.
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_02" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 2)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_02" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 2)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 These were all foreshadowings of [[London]], Tom thought, as he sat upon
@@ -63634,7 +63634,7 @@ coachman.
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_03" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 3)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_03" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 3)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 This was a matter of taste, which Tom did not feel himself called upon
@@ -63741,7 +63741,7 @@ go, or what to do with myself.’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_04" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 4)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_04" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 4)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 ‘Don’t they expect you then?’ inquired the driver.
@@ -63874,7 +63874,7 @@ better.’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_05" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 5)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_05" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 5)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 ‘My dear friend,’ said Tom, extending his hand, ‘it is very generous and
@@ -64004,7 +64004,7 @@ said, ‘You are a nice man, YOU are; where did YOU come from?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_06" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 6)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_06" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 6)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 ‘I don’t know, I’m sure,’ rejoined the porter.
@@ -64139,7 +64139,7 @@ engaged upon my [[Education|education]],’ sobbed the pupil.
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_07" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 7)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_07" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 7)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 ‘Sophia! Hold your tongue!’ observed the gentleman. ‘Sit down, if you
@@ -64269,7 +64269,7 @@ not in a tenfold worse position in reference to your daughters?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_08" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 8)" data-chapter="Chapter 36 THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_08" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 8)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
 
 
 ‘Pretty [[Well|well]]! Upon my word,’ exclaimed the gentleman, ‘this is pretty
@@ -64436,7 +64436,7 @@ made meat pies of, or some such horrible thing.’
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 1)" data-chapter="Chapter 37 THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 1)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-SEVEN
@@ -64571,7 +64571,7 @@ been so foolish as to allude to--oh really!--won’t you walk in?’
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 2)" data-chapter="Chapter 37 THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 2)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
 
 
 Tom mentioned, to excuse himself, that he had an appointment in
@@ -64693,7 +64693,7 @@ reproachfully, and he did not understand her.
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 3)" data-chapter="Chapter 37 THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 3)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
 
 
 ‘I seldom showed it--never--I know that. But I had that belief in you,
@@ -64825,7 +64825,7 @@ more, if Miss Pecksniff had not entered with her friend.
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 4)" data-chapter="Chapter 37 THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 4)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
 
 
 ‘Mr Thomas Pinch!’ said [[Charity]], performing the ceremony of introduction
@@ -64944,7 +64944,7 @@ happy in his life.
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 1)" data-chapter="Chapter 38 THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 1)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-EIGHT
@@ -65053,7 +65053,7 @@ way, was in and out of that gentleman’s room a dozen times a day.
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 2)" data-chapter="Chapter 38 THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 2)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
 
 
 As he pursued all these occupations at once; and all steadily; and all
@@ -65187,7 +65187,7 @@ make it known to you.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 3)" data-chapter="Chapter 38 THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 3)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
 
 
 ‘A most invaluable constitution,’ Tigg retorted. ‘A great gift for a
@@ -65336,7 +65336,7 @@ that won’t do.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 4)" data-chapter="Chapter 38 THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 4)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
 
 
 ‘I am unfortunate to find you in this [[Humour|humour]],’ said Tigg, with a
@@ -65431,7 +65431,7 @@ Angel.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 1)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 1)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 CHAPTER THIRTY-NINE
@@ -65555,7 +65555,7 @@ drudgery, they waited on themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 2)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 2)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 ‘What are you writing, Tom?’ inquired his sister, laying her hand upon
@@ -65686,7 +65686,7 @@ the room.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 3)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 3)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 ‘Why, my goodness, John! How did YOU come in?’
@@ -65771,7 +65771,7 @@ man, aged thirty-five, from the country, came in when he was invited,
 instead of standing gaping and staring about him on the landing. [[Well]]!
 When he came in, I found he was a stranger; a [[Grave|grave]], business-like,
 sedate-looking, stranger. “Mr Westlock?” said he. “That is my name,”
- said I. “The favour of a few words with you?” said he. “Pray be seated,
+said I. “The favour of a few words with you?” said he. “Pray be seated,
 sir,” said I.’
 
 Here John stopped for an instant, to glance towards the table, where
@@ -65834,7 +65834,7 @@ don’t know this man from Adam; neither does this man know Tom.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 4)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 4)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 ‘He can’t,’ said Tom, in great perplexity, ‘if he’s a Londoner. I don’t
@@ -65964,7 +65964,7 @@ that it was ‘rather dark.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 5)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 5)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 ‘Dark indeed,’ John whispered in [[Tom Pinch]]’s ear. ‘Not a bad place to
@@ -66108,7 +66108,7 @@ lock go the better, too, I dare say, for a little oil.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 6)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 6)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 Tom thanked him; but was too much occupied with his own speculations,
@@ -66231,7 +66231,7 @@ had any new solution to propose.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_07" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 7)" data-chapter="Chapter 39 THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_07" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 7)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
 
 
 As he had not, Tom drew down the [[Window|window]]-sash, and folded the shutter;
@@ -66329,7 +66329,7 @@ contemptible, [[Tom Pinch]]!
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_01" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 1)" data-chapter="Chapter 40 FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_01" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 1)" data-chapter="FORTY" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY
@@ -66437,7 +66437,7 @@ receive his weekly pay, he said:
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_02" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 2)" data-chapter="Chapter 40 FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_02" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 2)" data-chapter="FORTY" data-kind="excerpt"></span>
 
 
 ‘Oh! by the bye, Mr Pinch, you needn’t mention it, if you please!’
@@ -66562,7 +66562,7 @@ the [[Summer|summer]] light beyond, that made it red.
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_03" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 3)" data-chapter="Chapter 40 FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_03" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 3)" data-chapter="FORTY" data-kind="excerpt"></span>
 
 
 Tom’s [[Ship|ship]], however; or, at least, the packet-boat in which Tom and his
@@ -66680,7 +66680,7 @@ head and groaned.
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_04" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 4)" data-chapter="Chapter 40 FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_04" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 4)" data-chapter="FORTY" data-kind="excerpt"></span>
 
 
 ‘I wouldn’t,’ said Mrs Gamp, ‘I wouldn’t be a man and have such a think
@@ -66808,7 +66808,7 @@ bell ringing already! DO you see the steps?’
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_05" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 5)" data-chapter="Chapter 40 FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_05" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 5)" data-chapter="FORTY" data-kind="excerpt"></span>
 
 
 ‘Stay!’ said Tom, ‘you’re right. Look! there they go now. Is that the
@@ -66931,7 +66931,7 @@ merriment, for she had until now affected to be vastly entertained,
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_06" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 6)" data-chapter="Chapter 40 FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_06" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 6)" data-chapter="FORTY" data-kind="excerpt"></span>
 
 
 ‘YOU are here too, are you?’ muttered Jonas. ‘Ecod, there are enough of
@@ -66944,7 +66944,7 @@ I ever had to speak) was these: “Sairey,” she says, “is it a public
 wharf?” “Mrs Harris,” I makes answer, “can you [[Doubt|doubt]] it? You have know’d
 me now, ma’am, eight and thirty year; and did you ever know me go, or
 wish to go, where I was not made welcome, say the words.” “No, Sairey,”
- Mrs Harris says, “contrairy quite.” And [[Well|well]] she knows it too. I am but
+Mrs Harris says, “contrairy quite.” And [[Well|well]] she knows it too. I am but
 a poor woman, but I’ve been sought after, sir, though you may not think
 it. I’ve been knocked up at all hours of the [[Night|night]], and warned out by
 a many landlords, in consequence of being mistook for [[Fire]]. I goes out
@@ -67034,7 +67034,7 @@ there.
 
 
 
-<span class="atom-split" data-atom="chapter_41_forty_one--part_01" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 1)" data-chapter="Chapter 41 FORTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_forty_one--part_01" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 1)" data-chapter="FORTY ONE" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-ONE
@@ -67179,7 +67179,7 @@ latter--[[Well|well]]! you know best what is likely to happen then.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_forty_one--part_02" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 2)" data-chapter="Chapter 41 FORTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_forty_one--part_02" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 2)" data-chapter="FORTY ONE" data-kind="excerpt"></span>
 
 
 Jonas left the [[Window|window]], and walked up close to him. He did not look
@@ -67322,7 +67322,7 @@ she kept away.
 
 
 
-<span class="atom-split" data-atom="chapter_41_forty_one--part_03" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 3)" data-chapter="Chapter 41 FORTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_forty_one--part_03" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 3)" data-chapter="FORTY ONE" data-kind="excerpt"></span>
 
 
 Mr Montague being much engaged in the course of the day, Jonas bestowed
@@ -67503,7 +67503,7 @@ will be a stormy [[Night|night]]!’ exclaimed the doctor, as they started.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_01" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 1)" data-chapter="Chapter 42 FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_01" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 1)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-TWO
@@ -67616,7 +67616,7 @@ companion.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_02" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 2)" data-chapter="Chapter 42 FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_02" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 2)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
 
 
 He uttered an involuntary exclamation, and called to the driver, who
@@ -67685,12 +67685,12 @@ moment, from the [[Lightning|lightning]] which was flashing, not in any one dire
 but all around them. ‘What of that? It don’t change you, nor me, nor our
 affairs. [[Chorus]], [[Chorus|chorus]],
 
-              It may lighten and [[Storm|storm]],
-              Till it hunt the red worm
-     From the grass where the gibbet is driven;
-              But it can’t hurt the dead,
-              And it won’t save the head
-     That is doom’d to be rifled and riven.
+It may lighten and [[Storm|storm]],
+Till it hunt the red worm
+From the grass where the gibbet is driven;
+But it can’t hurt the dead,
+And it won’t save the head
+That is doom’d to be rifled and riven.
 
 That must be a precious old [[Song|song]],’ he added with an oath, as he stopped
 short in a kind of [[Wonder|wonder]] at himself. ‘I haven’t heard it since I was
@@ -67741,7 +67741,7 @@ than ever.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_03" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 3)" data-chapter="Chapter 42 FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_03" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 3)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
 
 
 As the [[Night|night]] wore on, the thunder died away, but still rolled
@@ -67872,7 +67872,7 @@ you?’ said Jonas.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_04" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 4)" data-chapter="Chapter 42 FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_04" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 4)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
 
 
 ‘I am not afraid of anything,’ replied the other, whose looks and manner
@@ -67993,7 +67993,7 @@ travel [[Home|home]] [[Alone|alone]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_01" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 1)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_01" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 1)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-THREE
@@ -68121,7 +68121,7 @@ out of breath. The pause reminded him of other duties.
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_02" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 2)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_02" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 2)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 ‘Mr [[Martin Chuzzlewit]]’s outside,’ he said. ‘I left him under the
@@ -68247,7 +68247,7 @@ Lupin. ‘I know all about it, you see!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_03" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 3)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_03" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 3)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 ‘My good creature,’ returned Martin, ‘you are exactly the person who
@@ -68365,7 +68365,7 @@ still hesitated, and expressed his reason thus:
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_04" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 4)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_04" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 4)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 ‘That’s all very true, and perfectly correct, Mark; and if it were a
@@ -68493,7 +68493,7 @@ grandfather.
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_05" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 5)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_05" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 5)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 Mr Pecksniff also was in the room; and Mary. In the swift instant of
@@ -68613,7 +68613,7 @@ express it prematurely.’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_06" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 6)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_06" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 6)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 Old Martin raised his eyes to Mr Pecksniff’s face, and appearing to
@@ -68729,7 +68729,7 @@ in such a cause you will find me, my young sir, an Ugly Customer!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_07" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 7)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_07" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 7)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 Still Martin looked steadily and mildly at his grandfather. ‘Will you
@@ -68864,7 +68864,7 @@ known to my grandfather?’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_08" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 8)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_08" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 8)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 ‘Yes.’
@@ -68987,7 +68987,7 @@ stranger, as he passed, had looked very sharply at them.
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_09" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 9)" data-chapter="Chapter 43 FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_09" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 9)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
 
 
 ‘Who may that be, I [[Wonder|wonder]]!’ said Martin. ‘The face seems familiar to
@@ -69042,7 +69042,7 @@ now, and teach me how to earn my bread.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_01" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 1)" data-chapter="Chapter 44 FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_01" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 1)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-FOUR
@@ -69176,7 +69176,7 @@ from the East, from the West, from the South-East, from the Nor’West--’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_02" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 2)" data-chapter="Chapter 44 FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_02" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 2)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
 
 
 During this digression, and indeed during the whole dialogue, Jonas had
@@ -69296,7 +69296,7 @@ fancy.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_03" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 3)" data-chapter="Chapter 44 FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_03" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 3)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
 
 
 ‘Upon my life, Mr Pecksniff,’ cried Montague, ‘I attach the greatest
@@ -69414,7 +69414,7 @@ precious stones; but look up there, with me!’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_04" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 4)" data-chapter="Chapter 44 FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_04" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 4)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
 
 
 With those words, the good man patted Mrs Lupin’s hand between his own,
@@ -69491,7 +69491,7 @@ difficulty. I shall travel [[Home|home]] [[Alone|alone]].’
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_01" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 1)" data-chapter="Chapter 45 FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_01" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 1)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-FIVE
@@ -69614,7 +69614,7 @@ little women.
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_02" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 2)" data-chapter="Chapter 45 FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_02" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 2)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
 
 
 Merrily the fountain plashed and plashed, until the dimples, merging
@@ -69755,7 +69755,7 @@ had never been.
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_03" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 3)" data-chapter="Chapter 45 FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_03" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 3)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
 
 
 ‘Didn’t I say he was a tremendous fellow in his housekeeping?’ cried
@@ -69882,7 +69882,7 @@ could not have held them captive in a stronger chain?
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_04" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 4)" data-chapter="Chapter 45 FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_04" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 4)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
 
 
 The shadows deepened, deepened, and the room became quite dark. Still
@@ -69949,7 +69949,7 @@ portrait--whose?--from [[Memory|memory]].
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_01" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 1)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_01" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 1)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-SIX
@@ -70086,7 +70086,7 @@ speaking of the--’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_02" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 2)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_02" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 2)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 Here she whispered him again.
@@ -70211,7 +70211,7 @@ some degree of certainty, on Mr Moddle’s bosom being unruffled.
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_03" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 3)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_03" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 3)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 ‘I [[Wonder|wonder]],’ said Tom, ‘that in these crowded streets the foot-passengers
@@ -70346,7 +70346,7 @@ dispogician!’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_04" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 4)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_04" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 4)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 With these words the worthy woman, who appeared to have dropped in
@@ -70465,7 +70465,7 @@ upon a sudden, and said:
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_05" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 5)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_05" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 5)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 ‘Who’s lying dead upstairs?’
@@ -70597,7 +70597,7 @@ it to me.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_06" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 6)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_06" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 6)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 Augustus obeyed, and took Mrs Todgers aside to pour his griefs into her
@@ -70729,7 +70729,7 @@ your brains out, if you speak another word.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_07" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 7)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_07" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 7)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 Tom, nevertheless, persisting in his intention, and opening his lips to
@@ -70862,7 +70862,7 @@ frightful.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_08" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 8)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_08" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 8)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 ‘Chuffey, eh?’ said Jonas carelessly, seeing that she went up to the
@@ -70994,7 +70994,7 @@ neighbouring street.
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_09" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 9)" data-chapter="Chapter 46 FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_09" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 9)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
 
 
 The ground on which this chamber stood had, at one [[Time|time]], not within his
@@ -71054,7 +71054,7 @@ All was clear and quiet, as he fled away.
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 1)" data-chapter="Chapter 47 FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 1)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-SEVEN
@@ -71166,7 +71166,7 @@ man looked at him with more than common curiosity.
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 2)" data-chapter="Chapter 47 FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 2)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
 
 
 ‘What are you staring at?’ said Jonas.
@@ -71285,7 +71285,7 @@ near where the path emerged again, came leaping out soon afterwards.
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 3)" data-chapter="Chapter 47 FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 3)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
 
 
 What had he left within the wood, that he sprang out of it as if it were
@@ -71402,7 +71402,7 @@ of Heaven, on its going down last [[Night|night]]!
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 4)" data-chapter="Chapter 47 FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 4)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
 
 
 But here were [[London]] streets again. Hush!
@@ -71506,7 +71506,7 @@ Hush!
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 1)" data-chapter="Chapter 48 FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 1)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-EIGHT
@@ -71624,7 +71624,7 @@ half sufficient to express his joy at their safe return.
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 2)" data-chapter="Chapter 48 FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 2)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
 
 
 Mr Tapley was the first to resume his composure. In a very short space
@@ -71749,7 +71749,7 @@ always being exact to his [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 3)" data-chapter="Chapter 48 FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 3)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
 
 
 John Westlock was at [[Home|home]], but, strange to say, was rather embarrassed
@@ -71890,7 +71890,7 @@ werge, my master deceives me.’
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 4)" data-chapter="Chapter 48 FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 4)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
 
 
 ‘Deceives you!’ cried Tom.
@@ -72013,7 +72013,7 @@ knowing what to say, said that he was glad to hear it.
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_05" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 5)" data-chapter="Chapter 48 FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_05" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 5)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
 
 
 ‘The short statement that I wish you to hear from his own lips, Mr
@@ -72157,7 +72157,7 @@ it.’
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_06" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 6)" data-chapter="Chapter 48 FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_06" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 6)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
 
 
 With that he hung his head, and said no more, wasted and wretched, he
@@ -72304,7 +72304,7 @@ for his dinner.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 1)" data-chapter="Chapter 49 FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 1)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
 
 
 CHAPTER FORTY-NINE
@@ -72413,7 +72413,7 @@ part as I could wish, but bearin’ malice in our arts.”’
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 2)" data-chapter="Chapter 49 FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 2)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
 
 
 Her own preparations were of the best, for they comprehended a delicate
@@ -72537,7 +72537,7 @@ that the sight of pickled salmon might work a softening change.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 3)" data-chapter="Chapter 49 FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 3)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
 
 
 But Betsey Prig expected pickled salmon. It was obvious that she did;
@@ -72674,7 +72674,7 @@ correction with a diabolical laugh.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 4)" data-chapter="Chapter 49 FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 4)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
 
 
 The best among us have their failings, and it must be conceded of Mrs
@@ -72798,7 +72798,7 @@ when she recovered from this wooden shower-bath, Mrs Prig was gone.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 5)" data-chapter="Chapter 49 FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 5)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
 
 
 She had the satisfaction, however, of hearing the deep voice of Betsey,
@@ -72934,7 +72934,7 @@ from Betsey Prig. I little know’d that woman. She’d have let it out!’
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 6)" data-chapter="Chapter 49 FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 6)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
 
 
 ‘Let HIM out, you mean,’ said John.
@@ -72993,7 +72993,7 @@ in good [[Time|time]].’
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_01" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 1)" data-chapter="Chapter 50 FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_01" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 1)" data-chapter="FIFTY" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTY
@@ -73117,7 +73117,7 @@ me--’
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_02" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 2)" data-chapter="Chapter 50 FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_02" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 2)" data-chapter="FIFTY" data-kind="excerpt"></span>
 
 
 ‘Not to her,’ interrupted Tom. ‘Pray, do not appeal to her. She will
@@ -73254,7 +73254,7 @@ before), but because it relieves my mind of a great weight.’
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_03" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 3)" data-chapter="Chapter 50 FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_03" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 3)" data-chapter="FIFTY" data-kind="excerpt"></span>
 
 
 Tom’s eyes glistened when he spoke of her affection; and he kissed her
@@ -73378,7 +73378,7 @@ made it so to Tom.
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_04" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 4)" data-chapter="Chapter 50 FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_04" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 4)" data-chapter="FIFTY" data-kind="excerpt"></span>
 
 
 She was ready with his neat breakfast when he went downstairs, and had
@@ -73509,7 +73509,7 @@ Tom did so; hardly knowing yet whether he was awake or in [[A Dream|a dream]].
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_01" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 1)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_01" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 1)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTY-ONE
@@ -73625,7 +73625,7 @@ woman having made good haste.
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_02" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 2)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_02" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 2)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 [[Well]]! Where was she? Had she come?
@@ -73768,7 +73768,7 @@ found?--because she knew of it?--because she suspected him?
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_03" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 3)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_03" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 3)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 ‘Mr Chuffey is a-lyin’ down,’ said Mrs Gamp, returning, ‘and much good
@@ -73907,7 +73907,7 @@ agreeable to the company.
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_04" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 4)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_04" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 4)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 Old Martin turned to Lewsome:
@@ -74033,7 +74033,7 @@ that Mr Chuffey was ‘the sweetest old creetur goin’.’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_05" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 5)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_05" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 5)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 ‘He bought the stuff,’ said Chuffey, stretching out his arm towards
@@ -74139,7 +74139,7 @@ ha! Do you see the door?’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_06" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 6)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_06" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 6)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 His base triumph, struggling with his cowardice, and shame, and [[Guilt|guilt]],
@@ -74271,7 +74271,7 @@ continued to do while speaking.
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_07" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 7)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_07" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 7)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 ‘Aye,’ he said, with a sulky nod. ‘You may deny your nephews till you
@@ -74386,7 +74386,7 @@ came creeping, creeping, creeping [[Home|home]].’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_08" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 8)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_08" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 8)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 ‘Look sharp!’ interposed Slyme, who had now finished his nuts. ‘This is
@@ -74533,7 +74533,7 @@ street-lamp. ‘Keep your eye upon the back, one of you, for form’s sake.’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_09" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 9)" data-chapter="Chapter 51 FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_09" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 9)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
 
 
 One of the men withdrew into the [[Court|court]]. The other, seating himself [[Self|self]]
@@ -74605,7 +74605,7 @@ could have done no more, and could do nothing now. Dead, dead, dead.
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_01" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 1)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_01" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 1)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTY-TWO
@@ -74728,7 +74728,7 @@ but--’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_02" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 2)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_02" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 2)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 ‘Go on,’ said Martin. ‘Why do you stop?’
@@ -74865,7 +74865,7 @@ him very courteously.
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_03" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 3)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_03" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 3)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 Mark waited at the door for [[Tom Pinch]] and his sister, who were coming up
@@ -74988,7 +74988,7 @@ in your mean, false heart! What! do you know me as I am, at last!’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_04" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 4)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_04" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 4)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 Mr Pecksniff had cause to stare at him, for the triumph in his face and
@@ -75105,7 +75105,7 @@ strengthened, and confirmed, and justified me in my scheme.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_05" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 5)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_05" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 5)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 Mr Pecksniff made a bow; a submissive, not to say a grovelling and an
@@ -75214,7 +75214,7 @@ regrets.
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_06" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 6)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_06" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 6)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 And then he told them how, resolved to probe this Pecksniff, and to
@@ -75344,7 +75344,7 @@ and disgrace are in my family.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_07" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 7)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_07" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 7)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 Here Mr Pecksniff wiped his eyes again, and gave himself two or three
@@ -75463,7 +75463,7 @@ afore me.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_08" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 8)" data-chapter="Chapter 52 FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_08" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 8)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
 
 
 ‘Oh!’ said Mr Chuzzlewit. ‘Is that your business? Was this good person
@@ -75532,7 +75532,7 @@ really, for a gentleman of his habits, in rather a knowing manner.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_01" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 1)" data-chapter="Chapter 53 FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_01" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 1)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTY-THREE
@@ -75660,7 +75660,7 @@ Fresh from her full young heart they came to answer him.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_02" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 2)" data-chapter="Chapter 53 FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_02" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 2)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
 
 
 ‘My dear [[Love|love]]! If this is--I almost dare to [[Hope|hope]] it is, now--not painful
@@ -75790,7 +75790,7 @@ sufficient for the best speech ever spoken.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_03" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 3)" data-chapter="Chapter 53 FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_03" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 3)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
 
 
 ‘I am glad you chose to-day,’ said Mr Chuzzlewit to John; with the same
@@ -75902,7 +75902,7 @@ perfect Trump, did Fips, in all respects.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_04" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 4)" data-chapter="Chapter 53 FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_04" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 4)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
 
 
 But ah! the happiness of strolling [[Home|home]] at [[Night|night]]--obstinate little Ruth,
@@ -75987,7 +75987,7 @@ gentleman, in any case, for one is lost to thee for ever!
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_01" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 1)" data-chapter="Chapter 54 FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_01" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 1)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTY-FOUR
@@ -76116,7 +76116,7 @@ gentleness; but the end would have been the same.’
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_02" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 2)" data-chapter="Chapter 54 FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_02" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 2)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
 
 
 He shook his head in [[Doubt|doubt]], and not without some inward [[Self|self]]-reproach.
@@ -76234,7 +76234,7 @@ must beg your leave, sir, to retire.’
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_03" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 3)" data-chapter="Chapter 54 FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_03" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 3)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
 
 
 After these words the bridal bonnet disappeared; with as much state as
@@ -76365,7 +76365,7 @@ purpose of spoiling the effect.
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_04" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 4)" data-chapter="Chapter 54 FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_04" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 4)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
 
 
 ‘How do you do, ma’am!’ said Spottletoe to the strong-minded woman in a
@@ -76497,7 +76497,7 @@ Pecksniff had fainted away in earnest.
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_05" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 5)" data-chapter="Chapter 54 FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_05" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 5)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
 
 
 What sounds are these that fall so grandly on the ear! What darkening

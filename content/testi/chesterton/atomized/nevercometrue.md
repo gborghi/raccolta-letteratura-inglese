@@ -34,7 +34,7 @@ To the woman that never was you--
 O nothing nearer than all that is,  
 In [[Nevercometrue]] come true.  
 
-        G.K. Chesterton  
+G.K. Chesterton  
 
 [Published in G.K.'s Weekly, 28th March, 1925]
 
@@ -61,7 +61,7 @@ alla donna che tu non fosti mai--
 o nulla di più vicino di tutto ciò che è,  
 in [[Nevercometrue]] fatto vero.  
 
-          G.K. Chesterton
+G.K. Chesterton
 
 [Pubblicato in G.K.'s Weekly, 28 marzo 1925]
 
@@ -90,7 +90,7 @@ To the woman that never was you--
 O nothing nearer than all that is,  
 In [[Nevercometrue]] come true.  
 
-        G.K. Chesterton  
+G.K. Chesterton  
 
 [Published in G.K.'s Weekly, 28th March, 1925]
 
@@ -117,6 +117,6 @@ alla donna che tu non fosti mai--
 o nulla di più vicino di tutto ciò che è,  
 in [[Nevercometrue]] fatto vero.  
 
-          G.K. Chesterton
+G.K. Chesterton
 
 [Pubblicato in G.K.'s Weekly, 28 marzo 1925]

@@ -56,46 +56,46 @@ Let us learn to write essays on a stray cat or a coloured cloud.
 I have attempted some such thing in what follows; but anyone
 else may do it better, if anyone else will only try.
 
-		Contents 
+Contents 
 
 Chapter
-      I	Tremendous Trifles
-     II	A Piece of [[chalk|Chalk]]
-    III	The Secret of a Train
-     IV	The Perfect Game
-      V	The Extraordinary [[cabman|Cabman]]
-     VI	An Accident
-    VII	The Advantages of Having One Leg
-   VIII	The End of the World
-     IX	In the Place de la Bastille
-      X	On Lying in Bed
-     XI	The Twelve Men
-    XII	The [[Wind]] and the Trees
-   XIII	The Dickensian
-    XIV	In Topsy-Turvy Land
-     XV	What I Found in My Pocket
-    XVI	The Dragon's Grandmother
-   XVII	The Red Angel
-  XVIII	The Tower
-    XIX	How I Met the President
-     XX	The Giant
-    XXI	The Great Man
-   XXII	The Orthodox Barber
-  XXIII	The Toy Theatre
-   XXIV	A [[Tragedy]] of Twopence
-    XXV	A Cab Ride Across Country
-   XXVI	The Two Noises
-  XXVII	Some Policemen and a Moral
- XXVIII	The [[Lion]]
-   XXIX	Humanity: An Interlude
-    XXX	The Little [[Birds]] Who Won't Sing
-   XXXI	The [[Riddle]] of the Ivy
-  XXXII	The Travellers in State
- XXXIII	The Prehistoric Railway Station
-  XXXIV	The [[diabolist|Diabolist]]
-   XXXV	A Glimpse of My Country
-  XXXVI	A Somewhat Improbable Story
- XXXVII	The Shop of [[Ghosts]]
+I	Tremendous Trifles
+II	A Piece of [[chalk|Chalk]]
+III	The Secret of a Train
+IV	The Perfect Game
+V	The Extraordinary [[cabman|Cabman]]
+VI	An Accident
+VII	The Advantages of Having One Leg
+VIII	The End of the World
+IX	In the Place de la Bastille
+X	On Lying in Bed
+XI	The Twelve Men
+XII	The [[Wind]] and the Trees
+XIII	The Dickensian
+XIV	In Topsy-Turvy Land
+XV	What I Found in My Pocket
+XVI	The Dragon's Grandmother
+XVII	The Red Angel
+XVIII	The Tower
+XIX	How I Met the President
+XX	The Giant
+XXI	The Great Man
+XXII	The Orthodox Barber
+XXIII	The Toy Theatre
+XXIV	A [[Tragedy]] of Twopence
+XXV	A Cab Ride Across Country
+XXVI	The Two Noises
+XXVII	Some Policemen and a Moral
+XXVIII	The [[Lion]]
+XXIX	Humanity: An Interlude
+XXX	The Little [[Birds]] Who Won't Sing
+XXXI	The [[Riddle]] of the Ivy
+XXXII	The Travellers in State
+XXXIII	The Prehistoric Railway Station
+XXXIV	The [[diabolist|Diabolist]]
+XXXV	A Glimpse of My Country
+XXXVI	A Somewhat Improbable Story
+XXXVII	The Shop of [[Ghosts]]
 XXXVIII The Ballade of a Strange Town XXXIX The Mystery of a Pageant
 
 I
@@ -3125,8 +3125,8 @@ of preparing something very curious to put on a man's chin.
 It would be nice if we could be shaved without troubling anybody.
 It would be nicer still if we could go unshaved without annoying anybody--
 
-       "'But, O wise friend, chief Barber of the Strand,
-	 Brother, nor you nor I have made the world.'
+"'But, O wise friend, chief Barber of the Strand,
+Brother, nor you nor I have made the world.'
 
 Whoever made it, who is wiser, and we [[Hope|hope]] better than we, made it
 under strange limitations, and with painful conditions of pleasure.
@@ -3693,21 +3693,21 @@ again "The German Band."  I would call it "The Two Voices,"
 but that title has been taken for a grossly inferior poem.
 This is how it began--
 
-	"They say the sun is on your knees
-	   A lamp to light your lands from harm,
-	 They say you turn the seven seas
-	   To little brooks about your farm.
-	 I hear the sea and the new [[Song|song]]
-	 that calls you empress all day long.
+"They say the sun is on your knees
+A lamp to light your lands from harm,
+They say you turn the seven seas
+To little brooks about your farm.
+I hear the sea and the new [[Song|song]]
+that calls you empress all day long.
 
-	"(O fallen and fouled! O you that lie
-	 Dying in swamps--you shall not die,
-	 Your rich have [[Secrets|secrets]], and stronge lust,
-	 Your poor are chased about like [[Dust|dust]],
-	 Emptied of anger and surprise--
-	 And God has gone out of their eyes,
-	 Your cohorts break--your captains lie,
-	 I say to you, you shall not die.)"
+"(O fallen and fouled! O you that lie
+Dying in swamps--you shall not die,
+Your rich have [[Secrets|secrets]], and stronge lust,
+Your poor are chased about like [[Dust|dust]],
+Emptied of anger and surprise--
+And God has gone out of their eyes,
+Your cohorts break--your captains lie,
+I say to you, you shall not die.)"
 
 Then I revived a little, remembering that after all there
 is an English country that the Imperialists have never found.
@@ -3715,42 +3715,42 @@ The British Empire may annex what it likes, it will never annex England.
 It has not even discovered the island, let [[Alone|alone]] conquered it.
 I took up the two tunes again with a greater sympathy for the first--
 
-	"I know the bright baptismal rains,
-	   I [[Love|love]] your tender troubled skies,
-	 I know your little climbing lanes,
-	   Are peering into Paradise,
-	 From open hearth to orchard cool,
-	 How bountiful and beautiful.
+"I know the bright baptismal rains,
+I [[Love|love]] your tender troubled skies,
+I know your little climbing lanes,
+Are peering into Paradise,
+From open hearth to orchard cool,
+How bountiful and beautiful.
 
-       "(O throttled and without a cry,
-	O strangled and stabbed, you shall not die,
-	The frightful word is on your walls,
-	The east sea to the west sea calls,
-	The [[Stars|stars]] are dying in the sky,
-	You shall not die; you shall not die.)"
+"(O throttled and without a cry,
+O strangled and stabbed, you shall not die,
+The frightful word is on your walls,
+The east sea to the west sea calls,
+The [[Stars|stars]] are dying in the sky,
+You shall not die; you shall not die.)"
 
 Then the two great noises grew deafening together, the noise of the
 peril of England and the louder noise of the placidity of England.
 It is their fault if the last verse was written a little rudely
 and at random--
 
-	"I see you how you smile in state
-	   Straight from the Peak to Plymouth Bar,
-	 You need not tell me you are great,
-	   I know how more than great you are.
-	 I know what William Shakespeare was,
-	 I have seen Gainsborough and the grass.
+"I see you how you smile in state
+Straight from the Peak to Plymouth Bar,
+You need not tell me you are great,
+I know how more than great you are.
+I know what William Shakespeare was,
+I have seen Gainsborough and the grass.
 
-	(O given to believe a lie,
-	O my mad mother, do do not die,
-	Whose eyes turn all ways but within,
-	Whose sin is [[innocence]] of sin,
-	Whose eyes, blinded with beams at [[Noon|noon]],
-	Can see the motes upon the [[Moon|moon]],
-	You shall your [[Lover|lover]] still pursue.
-	To what last madhouse shelters you
-	I will uphold you, even I.
-	You that are dead.  You shall not die.)"
+(O given to believe a lie,
+O my mad mother, do do not die,
+Whose eyes turn all ways but within,
+Whose sin is [[innocence]] of sin,
+Whose eyes, blinded with beams at [[Noon|noon]],
+Can see the motes upon the [[Moon|moon]],
+You shall your [[Lover|lover]] still pursue.
+To what last madhouse shelters you
+I will uphold you, even I.
+You that are dead.  You shall not die.)"
 
 But the sea would not stop for me any more than for Canute;
 and as for the German band, that would not stop for anybody.
@@ -4279,12 +4279,12 @@ Though we weep and pawn our watches, Two and Two are Four."
 
 "There's a run upon the Bank--Stand away!  For the Manager's
 a crank and the Secretary drank,
- and the Upper Tooting Bank
-	Turns to bay!
+and the Upper Tooting Bank
+Turns to bay!
 Stand close:  there is a run On the Bank.  Of our [[Ship|ship]], our royal one,
 let the ringing legend run,
- that she fired with every gun
-	Ere she sank.
+that she fired with every gun
+Ere she sank.
 
 . . . . .
 
@@ -4312,9 +4312,9 @@ themselves, it is only fair to say that the specimen verse
 of the Post-Office [[Hymn]] ran thus:
 
 "O'er [[London]] our letters are shaken like [[Snow|snow]],
- Our wires o'er the world like the thunderbolts go.
- The news that may marry a maiden in Sark,
- Or kill an old lady in Finsbury Park."
+Our wires o'er the world like the thunderbolts go.
+The news that may marry a maiden in Sark,
+Or kill an old lady in Finsbury Park."
 
 [[Chorus]] (with a swing of joy and energy):
 
@@ -5604,30 +5604,30 @@ the paper, symbolising the rich purple of that romantic hour.
 I began, choosing the form of an old French ballade;
 it is the easiest because it is the most restricted--
 
-	"Can Man to Mount Olympus rise,
-	   And fancy Primrose [[Hill]] the scene?
-	 Can a man walk in Paradise
-	   And think he is in Turnham Green?
-	 And could I take you for Malines,
-	   Not knowing the nobler thing you were?
-	 O Pearl of all the plain, and [[Queen|queen]],
-	The lovely [[City|city]] of Lierre.
+"Can Man to Mount Olympus rise,
+And fancy Primrose [[Hill]] the scene?
+Can a man walk in Paradise
+And think he is in Turnham Green?
+And could I take you for Malines,
+Not knowing the nobler thing you were?
+O Pearl of all the plain, and [[Queen|queen]],
+The lovely [[City|city]] of Lierre.
 
-	"Through [[Memory|memory]]'s mist in glimmering guise
-	   Shall shine your streets of sloppy sheen.
-	 And wet shall grow my dreaming eyes,
-	   To think how wet my boots have been
-	 Now if I die or shoot a Dean----"
+"Through [[Memory|memory]]'s mist in glimmering guise
+Shall shine your streets of sloppy sheen.
+And wet shall grow my dreaming eyes,
+To think how wet my boots have been
+Now if I die or shoot a Dean----"
 
 Here I broke off to ask my friend whether he thought it
 expressed a more wild calamity to shoot a Dean or to be a Dean.
 But he only turned up his coat collar, and I felt that for him
 the muse had folded her wings.  I rewrote--
 
-	"Now if I die a Rural Dean,
-	  Or rob a bank I do not care,
-	 Or turn a Tory.  I have seen
-	  The lovely [[City|city]] of Lierre."
+"Now if I die a Rural Dean,
+Or rob a bank I do not care,
+Or turn a Tory.  I have seen
+The lovely [[City|city]] of Lierre."
 
 "The next line," I resumed, warming to it; but my friend interrupted me.
 
@@ -5658,25 +5658,25 @@ He silently nodded, staring out of the [[Window|window]], but whether I had impr
 or only fatigued him I could not tell.  "This," I added, "is suggested
 in the last verse of a fine poem you have grossly neglected--
 
-	"'Happy is he and more than wise
-	   Who sees with wondering eyes and clean
-	 The world through all the grey disguise
-	   Of [[Sleep|sleep]] and custom in between.
-	 Yes; we may pass the heavenly screen,
-	   But shall we know when we are there?
-	 Who know not what these dead stones mean,
-	   The lovely [[City|city]] of Lierre.'"
+"'Happy is he and more than wise
+Who sees with wondering eyes and clean
+The world through all the grey disguise
+Of [[Sleep|sleep]] and custom in between.
+Yes; we may pass the heavenly screen,
+But shall we know when we are there?
+Who know not what these dead stones mean,
+The lovely [[City|city]] of Lierre.'"
 
 Here the train stopped abruptly.  And from Mechlin church steeple
 we heard the half-chime: and Joris broke [[Silence|silence]] with "No bally
 HORS D'OEUVRES for me:  I shall get on to something solid at once."
 
-                L'Envoy
+L'Envoy
 
-	Prince, wide your Empire spreads, I ween,
-	  Yet happier is that moistened Mayor,
-	Who drinks her cognac far from fine,
-	  The lovely [[City|city]] of Lierre.
+Prince, wide your Empire spreads, I ween,
+Yet happier is that moistened Mayor,
+Who drinks her cognac far from fine,
+The lovely [[City|city]] of Lierre.
 
 XXXIX
 
@@ -5844,86 +5844,86 @@ The End
 
 
 Chapter
-      I	Tremendous Trifles
-     II	A Piece of [[chalk|Chalk]]
-    III	The Secret of a Train
-     IV	The Perfect Game
-      V	The Extraordinary [[cabman|Cabman]]
-     VI	An Accident
-    VII	The Advantages of Having One Leg
-   VIII	The End of the World
-     IX	In the Place de la Bastille
-      X	On Lying in Bed
-     XI	The Twelve Men
-    XII	The [[Wind]] and the Trees
-   XIII	The Dickensian
-    XIV	In Topsy-Turvy Land
-     XV	What I Found in My Pocket
-    XVI	The Dragon's Grandmother
-   XVII	The Red Angel
-  XVIII	The Tower
-    XIX	How I Met the President
-     XX	The Giant
-    XXI	The Great Man
-   XXII	The Orthodox Barber
-  XXIII	The Toy Theatre
-   XXIV	A [[Tragedy]] of Twopence
-    XXV	A Cab Ride Across Country
-   XXVI	The Two Noises
-  XXVII	Some Policemen and a Moral
- XXVIII	The [[Lion]]
-   XXIX	Humanity: An Interlude
-    XXX	The Little [[Birds]] Who Won't Sing
-   XXXI	The [[Riddle]] of the Ivy
-  XXXII	The Travellers in State
- XXXIII	The Prehistoric Railway Station
-  XXXIV	The [[diabolist|Diabolist]]
-   XXXV	A Glimpse of My Country
-  XXXVI	A Somewhat Improbable Story
- XXXVII	The Shop of [[Ghosts]]
+I	Tremendous Trifles
+II	A Piece of [[chalk|Chalk]]
+III	The Secret of a Train
+IV	The Perfect Game
+V	The Extraordinary [[cabman|Cabman]]
+VI	An Accident
+VII	The Advantages of Having One Leg
+VIII	The End of the World
+IX	In the Place de la Bastille
+X	On Lying in Bed
+XI	The Twelve Men
+XII	The [[Wind]] and the Trees
+XIII	The Dickensian
+XIV	In Topsy-Turvy Land
+XV	What I Found in My Pocket
+XVI	The Dragon's Grandmother
+XVII	The Red Angel
+XVIII	The Tower
+XIX	How I Met the President
+XX	The Giant
+XXI	The Great Man
+XXII	The Orthodox Barber
+XXIII	The Toy Theatre
+XXIV	A [[Tragedy]] of Twopence
+XXV	A Cab Ride Across Country
+XXVI	The Two Noises
+XXVII	Some Policemen and a Moral
+XXVIII	The [[Lion]]
+XXIX	Humanity: An Interlude
+XXX	The Little [[Birds]] Who Won't Sing
+XXXI	The [[Riddle]] of the Ivy
+XXXII	The Travellers in State
+XXXIII	The Prehistoric Railway Station
+XXXIV	The [[diabolist|Diabolist]]
+XXXV	A Glimpse of My Country
+XXXVI	A Somewhat Improbable Story
+XXXVII	The Shop of [[Ghosts]]
 XXXVIII The Ballade of a Strange Town XXXIX The Mystery of a Pageant
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Capitolo
-      I	Bazzecole tremende
-     II	Un pezzo di [[chalk|gesso]]
-    III	Il segreto di un treno
-     IV	La partita perfetta
-      V	Lo straordinario [[cabman|vetturino]]
-     VI	Un incidente
-    VII	I vantaggi dell'avere una gamba sola
-   VIII	La fine del mondo
-     IX	In Place de la Bastille
-      X	Dello star coricati a letto
-     XI	I dodici uomini
-    XII	Il [[Wind|vento]] e gli alberi
-   XIII	Il dickensiano
-    XIV	Nel paese alla rovescia
-     XV	Ciò che trovai in tasca
-    XVI	La nonna del drago
-   XVII	L'angelo rosso
-  XVIII	La torre
-    XIX	Come incontrai il Presidente
-     XX	Il gigante
-    XXI	Il grand'uomo
-   XXII	Il barbiere ortodosso
-  XXIII	Il teatrino dei giocattoli
-   XXIV	Una [[Tragedy|tragedia]] da due soldi
-    XXV	Una corsa in carrozza per la campagna
-   XXVI	I due rumori
-  XXVII	Alcuni poliziotti e una morale
- XXVIII	Il [[Lion|leone]]
-   XXIX	Umanità: un interludio
-    XXX	Gli [[Birds|uccellini]] che non vogliono cantare
-   XXXI	L'[[Riddle|enigma]] dell'edera
-  XXXII	I viaggiatori in pompa magna
- XXXIII	La stazione ferroviaria preistorica
-  XXXIV	Il [[diabolist|diabolista]]
-   XXXV	Uno scorcio del mio paese
-  XXXVI	Una storia alquanto improbabile
- XXXVII	La bottega dei [[Ghosts|fantasmi]]
+I	Bazzecole tremende
+II	Un pezzo di [[chalk|gesso]]
+III	Il segreto di un treno
+IV	La partita perfetta
+V	Lo straordinario [[cabman|vetturino]]
+VI	Un incidente
+VII	I vantaggi dell'avere una gamba sola
+VIII	La fine del mondo
+IX	In Place de la Bastille
+X	Dello star coricati a letto
+XI	I dodici uomini
+XII	Il [[Wind|vento]] e gli alberi
+XIII	Il dickensiano
+XIV	Nel paese alla rovescia
+XV	Ciò che trovai in tasca
+XVI	La nonna del drago
+XVII	L'angelo rosso
+XVIII	La torre
+XIX	Come incontrai il Presidente
+XX	Il gigante
+XXI	Il grand'uomo
+XXII	Il barbiere ortodosso
+XXIII	Il teatrino dei giocattoli
+XXIV	Una [[Tragedy|tragedia]] da due soldi
+XXV	Una corsa in carrozza per la campagna
+XXVI	I due rumori
+XXVII	Alcuni poliziotti e una morale
+XXVIII	Il [[Lion|leone]]
+XXIX	Umanità: un interludio
+XXX	Gli [[Birds|uccellini]] che non vogliono cantare
+XXXI	L'[[Riddle|enigma]] dell'edera
+XXXII	I viaggiatori in pompa magna
+XXXIII	La stazione ferroviaria preistorica
+XXXIV	Il [[diabolist|diabolista]]
+XXXV	Uno scorcio del mio paese
+XXXVI	Una storia alquanto improbabile
+XXXVII	La bottega dei [[Ghosts|fantasmi]]
 XXXVIII La ballata di una strana città XXXIX Il mistero di un corteo
 
 
@@ -9084,8 +9084,8 @@ of preparing something very curious to put on a man's chin.
 It would be nice if we could be shaved without troubling anybody.
 It would be nicer still if we could go unshaved without annoying anybody--
 
-       "'But, O wise friend, chief Barber of the Strand,
-	 Brother, nor you nor I have made the world.'
+"'But, O wise friend, chief Barber of the Strand,
+Brother, nor you nor I have made the world.'
 
 Whoever made it, who is wiser, and we [[Hope|hope]] better than we, made it
 under strange limitations, and with painful conditions of pleasure.
@@ -9676,21 +9676,21 @@ again "The German Band."  I would call it "The Two Voices,"
 but that title has been taken for a grossly inferior poem.
 This is how it began--
 
-	"They say the sun is on your knees
-	   A lamp to light your lands from harm,
-	 They say you turn the seven seas
-	   To little brooks about your farm.
-	 I hear the sea and the new [[Song|song]]
-	 that calls you empress all day long.
+"They say the sun is on your knees
+A lamp to light your lands from harm,
+They say you turn the seven seas
+To little brooks about your farm.
+I hear the sea and the new [[Song|song]]
+that calls you empress all day long.
 
-	"(O fallen and fouled! O you that lie
-	 Dying in swamps--you shall not die,
-	 Your rich have [[Secrets|secrets]], and stronge lust,
-	 Your poor are chased about like [[Dust|dust]],
-	 Emptied of anger and surprise--
-	 And God has gone out of their eyes,
-	 Your cohorts break--your captains lie,
-	 I say to you, you shall not die.)"
+"(O fallen and fouled! O you that lie
+Dying in swamps--you shall not die,
+Your rich have [[Secrets|secrets]], and stronge lust,
+Your poor are chased about like [[Dust|dust]],
+Emptied of anger and surprise--
+And God has gone out of their eyes,
+Your cohorts break--your captains lie,
+I say to you, you shall not die.)"
 
 Then I revived a little, remembering that after all there
 is an English country that the Imperialists have never found.
@@ -9698,42 +9698,42 @@ The British Empire may annex what it likes, it will never annex England.
 It has not even discovered the island, let [[Alone|alone]] conquered it.
 I took up the two tunes again with a greater sympathy for the first--
 
-	"I know the bright baptismal rains,
-	   I [[Love|love]] your tender troubled skies,
-	 I know your little climbing lanes,
-	   Are peering into Paradise,
-	 From open hearth to orchard cool,
-	 How bountiful and beautiful.
+"I know the bright baptismal rains,
+I [[Love|love]] your tender troubled skies,
+I know your little climbing lanes,
+Are peering into Paradise,
+From open hearth to orchard cool,
+How bountiful and beautiful.
 
-       "(O throttled and without a cry,
-	O strangled and stabbed, you shall not die,
-	The frightful word is on your walls,
-	The east sea to the west sea calls,
-	The [[Stars|stars]] are dying in the sky,
-	You shall not die; you shall not die.)"
+"(O throttled and without a cry,
+O strangled and stabbed, you shall not die,
+The frightful word is on your walls,
+The east sea to the west sea calls,
+The [[Stars|stars]] are dying in the sky,
+You shall not die; you shall not die.)"
 
 Then the two great noises grew deafening together, the noise of the
 peril of England and the louder noise of the placidity of England.
 It is their fault if the last verse was written a little rudely
 and at random--
 
-	"I see you how you smile in state
-	   Straight from the Peak to Plymouth Bar,
-	 You need not tell me you are great,
-	   I know how more than great you are.
-	 I know what William Shakespeare was,
-	 I have seen Gainsborough and the grass.
+"I see you how you smile in state
+Straight from the Peak to Plymouth Bar,
+You need not tell me you are great,
+I know how more than great you are.
+I know what William Shakespeare was,
+I have seen Gainsborough and the grass.
 
-	(O given to believe a lie,
-	O my mad mother, do do not die,
-	Whose eyes turn all ways but within,
-	Whose sin is [[innocence]] of sin,
-	Whose eyes, blinded with beams at [[Noon|noon]],
-	Can see the motes upon the [[Moon|moon]],
-	You shall your [[Lover|lover]] still pursue.
-	To what last madhouse shelters you
-	I will uphold you, even I.
-	You that are dead.  You shall not die.)"
+(O given to believe a lie,
+O my mad mother, do do not die,
+Whose eyes turn all ways but within,
+Whose sin is [[innocence]] of sin,
+Whose eyes, blinded with beams at [[Noon|noon]],
+Can see the motes upon the [[Moon|moon]],
+You shall your [[Lover|lover]] still pursue.
+To what last madhouse shelters you
+I will uphold you, even I.
+You that are dead.  You shall not die.)"
 
 But the sea would not stop for me any more than for Canute;
 and as for the German band, that would not stop for anybody.
@@ -10286,12 +10286,12 @@ Though we weep and pawn our watches, Two and Two are Four."
 
 "There's a run upon the Bank--Stand away!  For the Manager's
 a crank and the Secretary drank,
- and the Upper Tooting Bank
-	Turns to bay!
+and the Upper Tooting Bank
+Turns to bay!
 Stand close:  there is a run On the Bank.  Of our [[Ship|ship]], our royal one,
 let the ringing legend run,
- that she fired with every gun
-	Ere she sank.
+that she fired with every gun
+Ere she sank.
 
 . . . . .
 
@@ -10319,9 +10319,9 @@ themselves, it is only fair to say that the specimen verse
 of the Post-Office [[Hymn]] ran thus:
 
 "O'er [[London]] our letters are shaken like [[Snow|snow]],
- Our wires o'er the world like the thunderbolts go.
- The news that may marry a maiden in Sark,
- Or kill an old lady in Finsbury Park."
+Our wires o'er the world like the thunderbolts go.
+The news that may marry a maiden in Sark,
+Or kill an old lady in Finsbury Park."
 
 [[Chorus]] (with a swing of joy and energy):
 
@@ -11659,30 +11659,30 @@ the paper, symbolising the rich purple of that romantic hour.
 I began, choosing the form of an old French ballade;
 it is the easiest because it is the most restricted--
 
-	"Can Man to Mount Olympus rise,
-	   And fancy Primrose [[Hill]] the scene?
-	 Can a man walk in Paradise
-	   And think he is in Turnham Green?
-	 And could I take you for Malines,
-	   Not knowing the nobler thing you were?
-	 O Pearl of all the plain, and [[Queen|queen]],
-	The lovely [[City|city]] of Lierre.
+"Can Man to Mount Olympus rise,
+And fancy Primrose [[Hill]] the scene?
+Can a man walk in Paradise
+And think he is in Turnham Green?
+And could I take you for Malines,
+Not knowing the nobler thing you were?
+O Pearl of all the plain, and [[Queen|queen]],
+The lovely [[City|city]] of Lierre.
 
-	"Through [[Memory|memory]]'s mist in glimmering guise
-	   Shall shine your streets of sloppy sheen.
-	 And wet shall grow my dreaming eyes,
-	   To think how wet my boots have been
-	 Now if I die or shoot a Dean----"
+"Through [[Memory|memory]]'s mist in glimmering guise
+Shall shine your streets of sloppy sheen.
+And wet shall grow my dreaming eyes,
+To think how wet my boots have been
+Now if I die or shoot a Dean----"
 
 Here I broke off to ask my friend whether he thought it
 expressed a more wild calamity to shoot a Dean or to be a Dean.
 But he only turned up his coat collar, and I felt that for him
 the muse had folded her wings.  I rewrote--
 
-	"Now if I die a Rural Dean,
-	  Or rob a bank I do not care,
-	 Or turn a Tory.  I have seen
-	  The lovely [[City|city]] of Lierre."
+"Now if I die a Rural Dean,
+Or rob a bank I do not care,
+Or turn a Tory.  I have seen
+The lovely [[City|city]] of Lierre."
 
 "The next line," I resumed, warming to it; but my friend interrupted me.
 
@@ -11713,25 +11713,25 @@ He silently nodded, staring out of the [[Window|window]], but whether I had impr
 or only fatigued him I could not tell.  "This," I added, "is suggested
 in the last verse of a fine poem you have grossly neglected--
 
-	"'Happy is he and more than wise
-	   Who sees with wondering eyes and clean
-	 The world through all the grey disguise
-	   Of [[Sleep|sleep]] and custom in between.
-	 Yes; we may pass the heavenly screen,
-	   But shall we know when we are there?
-	 Who know not what these dead stones mean,
-	   The lovely [[City|city]] of Lierre.'"
+"'Happy is he and more than wise
+Who sees with wondering eyes and clean
+The world through all the grey disguise
+Of [[Sleep|sleep]] and custom in between.
+Yes; we may pass the heavenly screen,
+But shall we know when we are there?
+Who know not what these dead stones mean,
+The lovely [[City|city]] of Lierre.'"
 
 Here the train stopped abruptly.  And from Mechlin church steeple
 we heard the half-chime: and Joris broke [[Silence|silence]] with "No bally
 HORS D'OEUVRES for me:  I shall get on to something solid at once."
 
-                L'Envoy
+L'Envoy
 
-	Prince, wide your Empire spreads, I ween,
-	  Yet happier is that moistened Mayor,
-	Who drinks her cognac far from fine,
-	  The lovely [[City|city]] of Lierre.
+Prince, wide your Empire spreads, I ween,
+Yet happier is that moistened Mayor,
+Who drinks her cognac far from fine,
+The lovely [[City|city]] of Lierre.
 
 
 

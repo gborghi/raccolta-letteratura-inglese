@@ -20,22 +20,22 @@ G.K. Chesterton
 
 CONTENTS
 
-  I Hearsay Evidence
-  II The Man with the Golden Key
-  III How to Be a Dunce
-  IV How to Be a Lunatic
-  V Nationalism and Notting [[Hill]]
-  VI The Fantastic Suburb
-  VII The Crime of Orthodoxy
-  VIII Figures in Fleet Street
-  IX The Case against Corruption
-  X [[Friendship]] and Foolery
-  XI The [[Shadow]] of the [[Sword]]
-  XII Some Political Celebrities
-  XIII Some Literary Celebrities
-  XIV Portrait of a Friend
-  XV The Incomplete Traveller
-  XVI The God with the Golden Key
+I Hearsay Evidence
+II The Man with the Golden Key
+III How to Be a Dunce
+IV How to Be a Lunatic
+V Nationalism and Notting [[Hill]]
+VI The Fantastic Suburb
+VII The Crime of Orthodoxy
+VIII Figures in Fleet Street
+IX The Case against Corruption
+X [[Friendship]] and Foolery
+XI The [[Shadow]] of the [[Sword]]
+XII Some Political Celebrities
+XIII Some Literary Celebrities
+XIV Portrait of a Friend
+XV The Incomplete Traveller
+XVI The God with the Golden Key
 
 -/-
 
@@ -132,16 +132,16 @@ I rather fancy it was better for the tradition of the English
 tongue to hear such rhetorical lines as these, about Wellington
 at the deathbed of William the Fourth,
 
-  For he came on the Angel of Victory's wing
-  But the Angel of [[Death]] was awaiting the [[King]],
+For he came on the Angel of Victory's wing
+But the Angel of [[Death]] was awaiting the [[King]],
 
 than to be entirely satisfied with howling the following lines,
 heard in all music-halls some twenty years afterwards:
 
-  And when we say we've always won
-  And when they ask us how it's done
-  We proudly point to every one
-  Of England's soldiers of the [[Queen]].
+And when we say we've always won
+And when they ask us how it's done
+We proudly point to every one
+Of England's soldiers of the [[Queen]].
 
 I cannot help having a dim suspicion that dignity has something
 to do with style; but anyhow the gestures, like the [[songs]], of my
@@ -238,8 +238,8 @@ But however we may criticise the old middle-class, and however heartily
 we may join in those immortal words of the [[Song]] of the Future,
 which are said to run:
 
-  Class-conscious we are, class-conscious we'll be;
-  Till our foot's on the necks of the bourgeoisie,
+Class-conscious we are, class-conscious we'll be;
+Till our foot's on the necks of the bourgeoisie,
 
 it has a right to historical justice; and there are other points
 to remember.  One point is that it was partly the real "culture conquests"
@@ -267,10 +267,10 @@ which is perhaps the right way to begin to appreciate verse.
 And it is also recorded of me that, at the age of six or seven,
 I tumbled down in the street in the act of excitedly reciting the words,
 
-  Good [[Hamlet]], cast this nighted colour off,
-  And let thine eye look like a friend on [[Denmark]],
-  Do not for ever with thy veiled lids
-  Seek for thy noble father in the [[Dust|dust]],
+Good [[Hamlet]], cast this nighted colour off,
+And let thine eye look like a friend on [[Denmark]],
+Do not for ever with thy veiled lids
+Seek for thy noble father in the [[Dust|dust]],
 
 at which appropriate moment I pitched forward on my nose.
 
@@ -1687,10 +1687,10 @@ bored air and blank sheet of blotting paper before him.
 On this he wrote, inspired by the limpid spirit of [[Song|song]],
 the unadorned lines,
 
-  Sir Humphrey Davy
-  Detested gravy.
-  He incurred the odium
-  Of discovering sodium.
+Sir Humphrey Davy
+Detested gravy.
+He incurred the odium
+Of discovering sodium.
 
 Even in those days I used to draw pictures, or what were
 called pictures, to illustrate these biographical rhymes;
@@ -1827,12 +1827,12 @@ in which the style of Vernède's first choruses, a la Atalanta,
 were rendered by Bentley in the form of a farewell to him when
 he departed from the tea-table:
 
-  Let the milk that was poured
-  Be the draught of the cat,
-  For from under the board
-  From the seat where he sat
-  The feet of his boots are departed;
-  he has widowed the hall of his hat.
+Let the milk that was poured
+Be the draught of the cat,
+For from under the board
+From the seat where he sat
+The feet of his boots are departed;
+he has widowed the hall of his hat.
 
 Vernède and Bentley were very intimate; and had something in common
 in their [[Union|union]] of immobility and activity; but the immobility of Vernède
@@ -2194,14 +2194,14 @@ Bentley, on being requested by a poetical lady to write something
 suitable to Wordsworth's Seat, did not relax his rigid flippancy
 and composed the simple lines that end:
 
-  It seems a pity certainly
-  That two such men as we
-  By such a trifle as the [[Grave]]
-  Should separated be.
-  'Twas ever thus; we might have had
-  A pleasant afternoon,
-  But Man is always born too late
-  Or else he dies too soon.
+It seems a pity certainly
+That two such men as we
+By such a trifle as the [[Grave]]
+Should separated be.
+'Twas ever thus; we might have had
+A pleasant afternoon,
+But Man is always born too late
+Or else he dies too soon.
 
 while Lawrence Solomon, the learned Jewish friend of whom I have spoken,
 wrote about the best of the parodies of FitzGerald's Omar,
@@ -2210,10 +2210,10 @@ or a First:  "For these were not for me; how should they be for you?"
 As a fact, I think he did get a First; but all of them must have
 lived to realise the further moral:
 
-  For them that win and them that lose the game
-  For you, for me, the ending is the same,
-  To climb the stairs to our old College room
-  Look o'er the door; and see another's name.
+For them that win and them that lose the game
+For you, for me, the ending is the same,
+To climb the stairs to our old College room
+Look o'er the door; and see another's name.
 
 There seemed a general tendency of these schoolfellows of mine
 to excel in light verse; Fordham, who went to Cambridge,
@@ -3399,14 +3399,14 @@ to a sailor's roll.  Long afterwards the words found their way into
 verse which expressed a certain consciousness of the combination,
 and of the blend of nations in his [[Blood|blood]].
 
-  Almighty God will surely say,
-  St. [[Michael]], who is this that stands
-  With Ireland in his doubtful eyes
-  And Perigord between his hands,
-  And on his arm the stirrup-thongs
-  And in his gait the narrow seas
-  And on his mouth Burgundian [[songs]]
-  And in his heart the Pyrenees?
+Almighty God will surely say,
+St. [[Michael]], who is this that stands
+With Ireland in his doubtful eyes
+And Perigord between his hands,
+And on his arm the stirrup-thongs
+And in his gait the narrow seas
+And on his mouth Burgundian [[songs]]
+And in his heart the Pyrenees?
 
 He sat down heavily on one of the benches and began to talk at once
 about some controversy or other; I gathered that the question
@@ -3898,15 +3898,15 @@ to refer you to the poem of Scott that we have been discussing."
 And I gravely repeated the answer of Marmion, when [[King]] James says
 that they may meet again in war as far south as Tamworth [[Castle]].
 
-  Much [[Honour|honour]]'d were my humble [[Home|home]],
-  If in its halls [[King]] James should come;
-  But Nottingham has archers good,
-  And Yorkshire men are stern of mood;
-  Northumbrian prickers wild and rude. ...
-  And many a banner will be torn,
-  And many a knight to earth be borne,
-  And many a sheaf of arrows spent,
-  Ere Scotland's [[King]] shall [[Cross|cross]] the Trent.
+Much [[Honour|honour]]'d were my humble [[Home|home]],
+If in its halls [[King]] James should come;
+But Nottingham has archers good,
+And Yorkshire men are stern of mood;
+Northumbrian prickers wild and rude. ...
+And many a banner will be torn,
+And many a knight to earth be borne,
+And many a sheaf of arrows spent,
+Ere Scotland's [[King]] shall [[Cross|cross]] the Trent.
 
 I looked at them and they at me, and I think they understood;
 and there [[Rose|rose]] up like an enormous [[Shadow|shadow]] over that drinking-hall
@@ -4081,9 +4081,9 @@ as we watched the harassed crowds pouring through the passages
 of the Underground to the iron and symbolic Inner Circle, and quoting
 the words of Kipling about the disabled battleship:-
 
-  For it is not meet that English stock
-  Should bide in the heart of an eight-day [[Clock|clock]]
-  The [[Death|death]] they may not see.
+For it is not meet that English stock
+Should bide in the heart of an eight-day [[Clock|clock]]
+The [[Death|death]] they may not see.
 
 But I always retained a dim sense of something sacred
 in English stock, or in human stock, which separated me from
@@ -4149,8 +4149,8 @@ than the rocks which he sat among, or the roofs he sat under;
 and we might [[Well|well]] have murmured another contemporary tag, a little
 vaguely perhaps, from [[Memory|memory]]:-
 
-  Match me this marvel, save where aesthetes are,
-  A [[Rose|rose]]-red suburb half as old as Carr.
+Match me this marvel, save where aesthetes are,
+A [[Rose|rose]]-red suburb half as old as Carr.
 
 But though I think we all felt, if subconsciously, something dreamily
 theatrical about the thing, that it was partly [[A Dream|a dream]] and partly
@@ -4186,9 +4186,9 @@ and analogous to talking of the great Gulliver as "Johnny Swift".
 His own tone and temper, in public as [[Well|well]] as private expression,
 is of a fastidiousness the very reverse of such familiarity.
 
-  There is no [[Fool|fool]] can call me friend
-  And I may drink at the [[Journey|journey]]'s end
-  With Landor and with Donne.
+There is no [[Fool|fool]] can call me friend
+And I may drink at the [[Journey|journey]]'s end
+With Landor and with Donne.
 
 I mention it merely as a point of impersonal description,
 without pronouncing on the problem; it takes all sorts to make a world.
@@ -4988,54 +4988,54 @@ supposed to represent the impressions of a Nottingham tradesman;
 they became something of a jest in our little circle and I quote
 them for the pleasure of recalling those old exhilarating days.
 
-  The Christian Social [[Union]] here
-  Was very much annoyed;
-  It seems there is some duty
-  Which we never should avoid,
-  And so they sing a lot of hymns
-  To help the Unemployed.
+The Christian Social [[Union]] here
+Was very much annoyed;
+It seems there is some duty
+Which we never should avoid,
+And so they sing a lot of hymns
+To help the Unemployed.
 
-  Upon a platform at the end
-  The speakers were displayed
-  And Bishop Hoskins stood in front
-  And hit a bell and said
-  That Mr. Carter was to pray,
-  And Mr. Carter prayed.
+Upon a platform at the end
+The speakers were displayed
+And Bishop Hoskins stood in front
+And hit a bell and said
+That Mr. Carter was to pray,
+And Mr. Carter prayed.
 
-  Then Bishop Gore of Birmingham
-  He stood upon one leg
-  And said he would be happier
-  If beggars didn't beg,
-  And that if they pinched his palace
-  It would take him down a peg.
+Then Bishop Gore of Birmingham
+He stood upon one leg
+And said he would be happier
+If beggars didn't beg,
+And that if they pinched his palace
+It would take him down a peg.
 
-  He said that Unemployment
-  Was a horror and a blight,
-  He said that charities produced
-  Servility and spite,
-  And stood upon the other leg
-  And said it wasn't right.
+He said that Unemployment
+Was a horror and a blight,
+He said that charities produced
+Servility and spite,
+And stood upon the other leg
+And said it wasn't right.
 
-  And then a man named Chesterton
-  Got up and played with [[Water|water]],
-  He seemed to say that principles
-  Were nice and led to slaughter
-  And how we always compromised
-  And how we didn't orter.
+And then a man named Chesterton
+Got up and played with [[Water|water]],
+He seemed to say that principles
+Were nice and led to slaughter
+And how we always compromised
+And how we didn't orter.
 
-  Then Canon Holland fired ahead
-  Like fifty cannons firing,
-  We tried to find out what he meant
-  With infinite enquiring,
-  But the way he made the windows jump
-  We couldn't help admiring.
+Then Canon Holland fired ahead
+Like fifty cannons firing,
+We tried to find out what he meant
+With infinite enquiring,
+But the way he made the windows jump
+We couldn't help admiring.
 
-  He said the human [[Soul|soul]] should be
-  Ashamed of every sham,
-  He said a man should constantly
-  Ejaculate "I am"
-  ...when he had done, I went outside
-  And got into a tram.
+He said the human [[Soul|soul]] should be
+Ashamed of every sham,
+He said a man should constantly
+Ejaculate "I am"
+...when he had done, I went outside
+And got into a tram.
 
 I rather prided myself on these lines, merely because they are,
 in the main, a very accurate report of the speeches;
@@ -5598,9 +5598,9 @@ men of the type of old Crosland, that queer cantankerous man,
 who hated so many things (including me) but had often justified
 his great farewell, in which he said bitterly that he had:
 
-  ... trod the path to hell,
-  But there were many things he might have sold
-  And did not sell.
+... trod the path to hell,
+But there were many things he might have sold
+And did not sell.
 
 For one thing, it was always said of him that he nearly died
 of hunger in Fleet Street with a volume of Shakespeare's Sonnets
@@ -5843,16 +5843,16 @@ of which I remember almost every word; for it was short and simple
 and touching in its appeal to larger and more tolerant ideals.
 It ran, I think, as follows:
 
-  "Sir,
-  May I express my regret that you should continue a  correspondence  which
+"Sir,
+May I express my regret that you should continue a  correspondence  which
 causes considerable [[Pain|pain]] to many [[Innocent|innocent]] persons who, by no fault
 of their own, but by the iron laws of [[Nature|nature]], inherit a complexion
 uncommon among their fellow-creatures and attractive only to the elite.
 Surely we can forget all these differences; and, whatever our
 race or colour, work hand in hand for the broadening of the
 brotherhood of humanity.
-      Yours faithfully,
-            Mauve Man with Green Spots."
+Yours faithfully,
+Mauve Man with Green Spots."
 
 This correspondence then ceased.
 
@@ -5896,12 +5896,12 @@ and could live in good fellowship with absolutely anybody,
 not only the merely dirty but the really vulgar, what was really
 deepest in him was a steep and even staggering obstinacy.
 
-  He kept his word as none but he
-  Could keep it; and as did not we,
-  And round him while he kept his word
-  Today's diseased and faithless herd,
-  A moment loud, a moment strong,
-  But foul for ever, rolled along.
+He kept his word as none but he
+Could keep it; and as did not we,
+And round him while he kept his word
+Today's diseased and faithless herd,
+A moment loud, a moment strong,
+But foul for ever, rolled along.
 
 *****
 
@@ -6193,22 +6193,22 @@ in the National Review, who said things quite as strong.
 I was myself so much amused with the inconsequence of this foreign
 diversion that I published some verses in the New Witness beginning:
 
-  I am so swift to seize affronts
-  My spirit is so high
-  Whoever has insulted me
-  Some foreigner must die.
-  I made a claim for damage
-  (For the Times has called me 'thief')
-  Against a paper in Alsace
-  A paper called Le Juif.
-  And when the Morning Post unearthed
-  Some murders I'd devised
-  A Polish organ of finance
-  At once apologised.
-  ... I know it sounds confusing
-  But, as Mr. Lammle said,
-  The anger of a gentleman
-  Is boiling in my head.
+I am so swift to seize affronts
+My spirit is so high
+Whoever has insulted me
+Some foreigner must die.
+I made a claim for damage
+(For the Times has called me 'thief')
+Against a paper in Alsace
+A paper called Le Juif.
+And when the Morning Post unearthed
+Some murders I'd devised
+A Polish organ of finance
+At once apologised.
+... I know it sounds confusing
+But, as Mr. Lammle said,
+The anger of a gentleman
+Is boiling in my head.
 
 The actual method, of course, is by this [[Time|time]] familiar enough.
 Some [[Fool|fool]] who has got the facts wrong is always prosecuted,
@@ -6532,9 +6532,9 @@ of Dr. Johnson's; and though he has had personal sorrow and in
 later years not a little [[Solitude|solitude]], he was fully entitled to say,
 like the man in his own [[Song|song]],
 
-  For you that took the all in all, the things you left were three,
-  A loud voice for singing and clear eyes to see
-  And a spouting fount of life within that never yet has dried.
+For you that took the all in all, the things you left were three,
+A loud voice for singing and clear eyes to see
+And a spouting fount of life within that never yet has dried.
 
 Bentley or Conrad Noel were characters who could have been put
 into any [[Comedy|comedy]]; and the levities of Maurice Baring were worthy
@@ -6563,10 +6563,10 @@ who has always had a trick of repeating scraps of recently
 discovered verse, which happened to please him, would volley out
 at intervals the lines of Miss Coleridge:
 
-  We were young, we were merry, we were very very wise
-  And the doors stood open at our feast;
-  When there passed us a woman with the west in her eyes
-  And a man with his back to the east.
+We were young, we were merry, we were very very wise
+And the doors stood open at our feast;
+When there passed us a woman with the west in her eyes
+And a man with his back to the east.
 
 There is no [[Doubt|doubt]], so far as we were concerned, that we were young
 and were merry; but I have sometimes doubted since whether we
@@ -6579,10 +6579,10 @@ a frosty starlight) and loudly hallooing to the ladies to come and see
 God making energy.  His wife declined, in terms of not a little [[Humour|humour]];
 to which he retorted cheerfully:
 
-  We were young, we were merry, we were very very wise
-  And the doors stood open at our feast;
-  When there passed us a woman with the west in her eyes
-  And a man with his back to the east.
+We were young, we were merry, we were very very wise
+And the doors stood open at our feast;
+When there passed us a woman with the west in her eyes
+And a man with his back to the east.
 
 Needless to say, however, his hospitality terminated with a magnificent
 feast with wine, and all ended in a glow of gaiety; but there
@@ -6591,10 +6591,10 @@ were so much more interested in the barometer than the telescope.
 The feminine aspect of the story was afterwards embodied in an echo
 of the everlasting refrain:
 
-  We were cold, we were bitter, we were very nearly dead,
-  And the doors stood open by [[Desire|desire]],
-  And there faced us a woman with a cold in her head
-  And a man with his back to the [[Fire|fire]].
+We were cold, we were bitter, we were very nearly dead,
+And the doors stood open by [[Desire|desire]],
+And there faced us a woman with a cold in her head
+And a man with his back to the [[Fire|fire]].
 
 Those are the sort of silly things that come back to me in [[Memory|memory]];
 and a real life of anybody would almost entirely consist of them.
@@ -6694,8 +6694,8 @@ out, "Gilbert!  Gilbert!" and was like only one voice in the world;
 as rousing as that recalled in one of its former phrases,
 of those who
 
-  Heard Ney shouting to the guns to unlimber
-  And hold the Beresina Bridge at [[Night|night]].
+Heard Ney shouting to the guns to unlimber
+And hold the Beresina Bridge at [[Night|night]].
 
 I knew it was Belloc, probably shouting for bacon and beer;
 but even I had no notion of the form or guise under which he
@@ -6710,10 +6710,10 @@ having on occasion lived, and being able to live, the life of the poor.
 One of the Ballades of the Eye-Witness, which was never published,
 described tramping abroad in this fashion:
 
-  To [[Sleep|sleep]] and smell the incense of the tar,
-  To wake and watch Italian dawns aglow
-  And underneath the branch a single star,
-  Good Lord, how little wealthy people know.
+To [[Sleep|sleep]] and smell the incense of the tar,
+To wake and watch Italian dawns aglow
+And underneath the branch a single star,
+Good Lord, how little wealthy people know.
 
 In this spirit they started to get [[Home|home]] practically without money.
 Their clothes collapsed and they managed to get into some
@@ -7011,22 +7011,22 @@ in defence of romantic and revolutionary things; the expression:
 "I like the noise of breaking glass."  I made it the refrain
 of a ballade which began:
 
-  Prince, when I took your goblet tall
-  And smashed it with inebriate care,
-  I knew not how from Rome and Gaul
-  You gained it; I was unaware
-  It stood by Charlemagne's great chair
-  And served St. Peter at High Mass.
-  ... I'm sorry if the thing was rare;
-  I like the noise of breaking glass.
+Prince, when I took your goblet tall
+And smashed it with inebriate care,
+I knew not how from Rome and Gaul
+You gained it; I was unaware
+It stood by Charlemagne's great chair
+And served St. Peter at High Mass.
+... I'm sorry if the thing was rare;
+I like the noise of breaking glass.
 
 It is only just to our happy company to say that we did not confine
 ourselves to saying or singing our own lyrics; though Belloc
 was generally ready to oblige; and the loud and roaring but none
 the less pathetic [[Song|song]] with the [[Chorus|chorus]]:
 
-  And the Gates of Heaven are opening wide
-  To let poor Hilary in
+And the Gates of Heaven are opening wide
+To let poor Hilary in
 
 was first heard, I think, at one of these quiet evenings for
 mutual edification and culture.  But we must have sung a vast
@@ -7874,10 +7874,10 @@ and all the powers of the scientific mergers and newspaper combines,
 that now rule the State, [[Rose|rose]] slowly into their present power and peace.
 As the [[Ancient Mariner]] remarked, in a moment of [[Melancholy|melancholy]] comparison:
 
-  The many men so beautiful
-  And they all dead did lie;
-  And a thousand thousand slimy things
-  Lived on; and so did I.
+The many men so beautiful
+And they all dead did lie;
+And a thousand thousand slimy things
+Lived on; and so did I.
 
 *****
 
@@ -8491,10 +8491,10 @@ that he could enjoy things, including better [[philosophy]] or religion.
 There came back to me four lines, written by an Irish lady in my
 own little paper:
 
-  Who can picture the scene at the starry portals?
-  Truly, [[Imagination|imagination]] fails,
-  When the pitiless President of the Immortals
-  Shows unto Thomas the print of the nails?
+Who can picture the scene at the starry portals?
+Truly, [[Imagination|imagination]] fails,
+When the pitiless President of the Immortals
+Shows unto Thomas the print of the nails?
 
 I [[Hope|hope]] it is not profane to say that this hits the right nail
 on the head.  In such a case, the second Thomas would do exactly
@@ -8608,10 +8608,10 @@ And I, who knew my Swinburne backwards, delighting in the poetry
 and already rather despising the [[philosophy]], thought it was a queer
 metaphor to use about the real and sincere Swinburne:
 
-  It is little enough that a man can save
-  In the reach of life, in the tide of [[Time|time]],
-  Who swims in sight of the great third wave,
-  That never a swimmer shall [[Cross|cross]] or climb.
+It is little enough that a man can save
+In the reach of life, in the tide of [[Time|time]],
+Who swims in sight of the great third wave,
+That never a swimmer shall [[Cross|cross]] or climb.
 
 I did not think it had been crossed or climbed in the monstrously
 muddled pantheism of "Hertha"; in which a later Swinburne absurdly
@@ -8640,8 +8640,8 @@ ticket-collector of the Fabian tram called out, "Next stop, Utopia,"
 at which something in me not merely heathen, was always stirred
 to a sympathy with the words of that high heathen genius:
 
-  The troubles of our proud and angry [[Dust|dust]]
-  Are from [[Eternity|eternity]] and shall not fail.
+The troubles of our proud and angry [[Dust|dust]]
+Are from [[Eternity|eternity]] and shall not fail.
 
 As everyone knows, the poet was also a professor, and one
 of the first authorities on the old Pagan literature.
@@ -8831,15 +8831,15 @@ of which two lines have passed into some popular celebrity:
 of friends;" but in the course of which he also described in more
 detail the ideals of this fastidious fellowship.
 
-  We kept the Rabelaisian plan
-  We dignified the dainty cloisters
-  With Natural Law, the Rights of Man,
-  [[Song]], Stoicism, Wine and Oysters.
+We kept the Rabelaisian plan
+We dignified the dainty cloisters
+With Natural Law, the Rights of Man,
+[[Song]], Stoicism, Wine and Oysters.
 
-  We taught the art of writing things
-  On men we still would like to throttle,
-  And where to get the [[Blood|blood]] of kings
-  At only half-a-[[Crown|crown]] a bottle.
+We taught the art of writing things
+On men we still would like to throttle,
+And where to get the [[Blood|blood]] of kings
+At only half-a-[[Crown|crown]] a bottle.
 
 Of the three other corners of this very Four-Square Gospel of Citizenship,
 that is of Belloc's three constant colleagues in the old Republican club,
@@ -8997,10 +8997,10 @@ of their array."  Whoever heard of the Comrades of the [[Dawn]] having
 so complicated an idea as that of turning the enemy's flank?
 Then comes the encirclement:
 
-  And press them inward from the plains
-  And drive them clamouring down the lanes,
-  And gallop and harry and have them down,
-  And carry the gates and hold the town.
+And press them inward from the plains
+And drive them clamouring down the lanes,
+And gallop and harry and have them down,
+And carry the gates and hold the town.
 
 The Pursuit; and then the Holding of the Bridgehead.
 
@@ -9283,8 +9283,8 @@ presenting Belloc with a golden goblet modelled on certain phrases
 in his heroic poem in praise of wine, which ends by asking that such
 a golden cup should be the stirrup-cup of his farewell to friends:
 
-  And sacramental raise me the divine
-  Strong brother in God and last companion, wine.
+And sacramental raise me the divine
+Strong brother in God and last companion, wine.
 
 I merely said a few words to the effect that such a ceremony
 might have been as fitting thousands of years ago, at the festival
@@ -9368,10 +9368,10 @@ in a merely personal spirit, to the many things that were said
 that [[Night|night]] about Hilaire Belloc; and I should not have been ashamed
 if the words had sounded like a vaunt:
 
-  Nor without [[Honour|honour]] my days ran,
-  Nor yet without a boast shall end;
-  for I was Shakespeare's countryman
-  And were not you my friend.
+Nor without [[Honour|honour]] my days ran,
+Nor yet without a boast shall end;
+for I was Shakespeare's countryman
+And were not you my friend.
 
 *****
 
@@ -10137,10 +10137,10 @@ in my later days; but they are not only both wrong, but both wrong
 because the same thing is right.  The pessimists of my boyhood,
 when confronted with the dandelion, said with Swinburne:
 
-  I am weary of all hours
-  Blown buds and barren [[Flowers|flowers]]
-  Desires and [[Dreams|dreams]] and powers
-  And everything but [[Sleep|sleep]].
+I am weary of all hours
+Blown buds and barren [[Flowers|flowers]]
+Desires and [[Dreams|dreams]] and powers
+And everything but [[Sleep|sleep]].
 
 And at this I cursed them and kicked at them and made an exhibition
 of myself; having made myself the champion of the [[Lion]]'s Tooth,
@@ -10603,16 +10603,16 @@ I rather fancy it was better for the tradition of the English
 tongue to hear such rhetorical lines as these, about Wellington
 at the deathbed of William the Fourth,
 
-  For he came on the Angel of Victory's wing
-  But the Angel of [[Death]] was awaiting the [[King]],
+For he came on the Angel of Victory's wing
+But the Angel of [[Death]] was awaiting the [[King]],
 
 than to be entirely satisfied with howling the following lines,
 heard in all music-halls some twenty years afterwards:
 
-  And when we say we've always won
-  And when they ask us how it's done
-  We proudly point to every one
-  Of England's soldiers of the [[Queen]].
+And when we say we've always won
+And when they ask us how it's done
+We proudly point to every one
+Of England's soldiers of the [[Queen]].
 
 I cannot help having a dim suspicion that dignity has something
 to do with style; but anyhow the gestures, like the [[songs]], of my
@@ -10721,16 +10721,16 @@ Sono piuttosto incline a credere che fosse meglio per la tradizione della lingua
 inglese udire versi retorici come questi, su Wellington
 al letto di morte di Guglielmo Quarto,
 
-  Poiché egli giunse sull'ala dell'Angelo della Vittoria
-  Ma l'Angelo della [[Death|Morte]] attendeva il [[King|Re]],
+Poiché egli giunse sull'ala dell'Angelo della Vittoria
+Ma l'Angelo della [[Death|Morte]] attendeva il [[King|Re]],
 
 che non essere del tutto appagati dall'urlare i versi seguenti,
 uditi in tutti i music-hall una ventina d'anni dopo:
 
-  E quando diciamo d'aver sempre vinto
-  E quando ci chiedono come si sia fatto
-  Indichiamo con fierezza ognuno
-  Dei soldati della [[Queen|Regina]] d'Inghilterra.
+E quando diciamo d'aver sempre vinto
+E quando ci chiedono come si sia fatto
+Indichiamo con fierezza ognuno
+Dei soldati della [[Queen|Regina]] d'Inghilterra.
 
 Non posso fare a meno di avere il vago sospetto che la dignità abbia qualcosa
 a che fare con lo stile; ma comunque i gesti, come le [[songs|canzoni]], del
@@ -10832,8 +10832,8 @@ But however we may criticise the old middle-class, and however heartily
 we may join in those immortal words of the [[Song]] of the Future,
 which are said to run:
 
-  Class-conscious we are, class-conscious we'll be;
-  Till our foot's on the necks of the bourgeoisie,
+Class-conscious we are, class-conscious we'll be;
+Till our foot's on the necks of the bourgeoisie,
 
 it has a right to historical justice; and there are other points
 to remember.  One point is that it was partly the real "culture conquests"
@@ -10938,8 +10938,8 @@ Ma per quanto si possa criticare la vecchia classe media, e per quanto di cuore
 ci si possa unire a quelle immortali parole della [[Song|Canzone]] del Futuro,
 che si dice suonino così:
 
-  Coscienti della classe siamo, coscienti della classe saremo;
-  Finché il nostro piede sarà sul collo della borghesia,
+Coscienti della classe siamo, coscienti della classe saremo;
+Finché il nostro piede sarà sul collo della borghesia,
 
 essa ha diritto alla giustizia storica; e ci sono altri punti
 da ricordare. Un punto è che fu in parte proprio la «conquista culturale»
@@ -10972,10 +10972,10 @@ which is perhaps the right way to begin to appreciate verse.
 And it is also recorded of me that, at the age of six or seven,
 I tumbled down in the street in the act of excitedly reciting the words,
 
-  Good [[Hamlet]], cast this nighted colour off,
-  And let thine eye look like a friend on [[Denmark]],
-  Do not for ever with thy veiled lids
-  Seek for thy noble father in the [[Dust|dust]],
+Good [[Hamlet]], cast this nighted colour off,
+And let thine eye look like a friend on [[Denmark]],
+Do not for ever with thy veiled lids
+Seek for thy noble father in the [[Dust|dust]],
 
 at which appropriate moment I pitched forward on my nose.
 
@@ -11108,10 +11108,10 @@ il che è forse il modo giusto di cominciare ad apprezzare la poesia.
 E si racconta anche di me che, all'età di sei o sette anni,
 caddi lungo disteso per strada nell'atto di recitare eccitatamente le parole,
 
-  Buon [[Hamlet|Amleto]], getta via questo colore notturno,
-  E lascia che il tuo occhio guardi come un amico sulla [[Denmark|Danimarca]],
-  Non cercare per sempre con le tue palpebre velate
-  Il tuo nobile padre nella [[Dust|polvere]],
+Buon [[Hamlet|Amleto]], getta via questo colore notturno,
+E lascia che il tuo occhio guardi come un amico sulla [[Denmark|Danimarca]],
+Non cercare per sempre con le tue palpebre velate
+Il tuo nobile padre nella [[Dust|polvere]],
 
 nel qual momento appropriato piombai in avanti sul naso.
 
@@ -13158,10 +13158,10 @@ bored air and blank sheet of blotting paper before him.
 On this he wrote, inspired by the limpid spirit of [[Song|song]],
 the unadorned lines,
 
-  Sir Humphrey Davy
-  Detested gravy.
-  He incurred the odium
-  Of discovering sodium.
+Sir Humphrey Davy
+Detested gravy.
+He incurred the odium
+Of discovering sodium.
 
 Even in those days I used to draw pictures, or what were
 called pictures, to illustrate these biographical rhymes;
@@ -13279,10 +13279,10 @@ annoiata e un foglio bianco di carta assorbente davanti a sé.
 Su questo scrisse, ispirato dal limpido spirito della [[Song|Canzone]],
 i disadorni versi,
 
-  Sir Humphrey Davy
-  Detestava il sugo grave.
-  Incorse nell'odio universale
-  Per aver scoperto il sodio metallico.
+Sir Humphrey Davy
+Detestava il sugo grave.
+Incorse nell'odio universale
+Per aver scoperto il sodio metallico.
 
 Anche in quei giorni ero solito disegnare figure, o ciò che si
 chiamava figure, per illustrare queste rime biografiche;
@@ -13424,12 +13424,12 @@ in which the style of Vernède's first choruses, a la Atalanta,
 were rendered by Bentley in the form of a farewell to him when
 he departed from the tea-table:
 
-  Let the milk that was poured
-  Be the draught of the cat,
-  For from under the board
-  From the seat where he sat
-  The feet of his boots are departed;
-  he has widowed the hall of his hat.
+Let the milk that was poured
+Be the draught of the cat,
+For from under the board
+From the seat where he sat
+The feet of his boots are departed;
+he has widowed the hall of his hat.
 
 Vernède and Bentley were very intimate; and had something in common
 in their [[Union|union]] of immobility and activity; but the immobility of Vernède
@@ -13531,12 +13531,12 @@ in cui lo stile dei primi cori di Vernède, alla Atalanta,
 fu reso da Bentley nella forma di un addio a lui quando
 si allontanò dal tavolo da tè:
 
-  Che il latte che fu versato
-  Sia la bevanda del gatto,
-  Poiché di sotto l'asse
-  Dal seggio ov'egli sedette
-  I piedi dei suoi stivali sono partiti;
-  ha vedovato l'atrio del suo cappello.
+Che il latte che fu versato
+Sia la bevanda del gatto,
+Poiché di sotto l'asse
+Dal seggio ov'egli sedette
+I piedi dei suoi stivali sono partiti;
+ha vedovato l'atrio del suo cappello.
 
 Vernède e Bentley erano assai intimi; e avevano qualcosa in comune
 nella loro [[Union|unione]] di immobilità e attività; ma l'immobilità di Vernède
@@ -14225,14 +14225,14 @@ Bentley, on being requested by a poetical lady to write something
 suitable to Wordsworth's Seat, did not relax his rigid flippancy
 and composed the simple lines that end:
 
-  It seems a pity certainly
-  That two such men as we
-  By such a trifle as the [[Grave]]
-  Should separated be.
-  'Twas ever thus; we might have had
-  A pleasant afternoon,
-  But Man is always born too late
-  Or else he dies too soon.
+It seems a pity certainly
+That two such men as we
+By such a trifle as the [[Grave]]
+Should separated be.
+'Twas ever thus; we might have had
+A pleasant afternoon,
+But Man is always born too late
+Or else he dies too soon.
 
 while Lawrence Solomon, the learned Jewish friend of whom I have spoken,
 wrote about the best of the parodies of FitzGerald's Omar,
@@ -14241,10 +14241,10 @@ or a First:  "For these were not for me; how should they be for you?"
 As a fact, I think he did get a First; but all of them must have
 lived to realise the further moral:
 
-  For them that win and them that lose the game
-  For you, for me, the ending is the same,
-  To climb the stairs to our old College room
-  Look o'er the door; and see another's name.
+For them that win and them that lose the game
+For you, for me, the ending is the same,
+To climb the stairs to our old College room
+Look o'er the door; and see another's name.
 
 There seemed a general tendency of these schoolfellows of mine
 to excel in light verse; Fordham, who went to Cambridge,
@@ -14296,14 +14296,14 @@ Bentley, essendogli stato richiesto da una signora poetica di scrivere qualcosa
 di adatto al Seggio di Wordsworth, non allentò la sua rigida frivolezza
 e compose i semplici versi che finiscono:
 
-  Sembra davvero un peccato
-  Che due uomini come noi
-  Da un'inezia quale la [[Grave|Tomba]]
-  Debbano essere separati.
-  Fu sempre così; avremmo potuto avere
-  Un piacevole pomeriggio,
-  Ma l'Uomo nasce sempre troppo tardi
-  O altrimenti muore troppo presto.
+Sembra davvero un peccato
+Che due uomini come noi
+Da un'inezia quale la [[Grave|Tomba]]
+Debbano essere separati.
+Fu sempre così; avremmo potuto avere
+Un piacevole pomeriggio,
+Ma l'Uomo nasce sempre troppo tardi
+O altrimenti muore troppo presto.
 
 mentre Lawrence Solomon, il dotto amico ebreo di cui ho parlato,
 scrisse la migliore delle parodie dell'Omar di FitzGerald,
@@ -14312,10 +14312,10 @@ o un First: «Poiché questi non erano per me; come dovrebbero essere per te?»
 In effetti, credo che egli prese davvero un First; ma tutti loro devono
 aver vissuto abbastanza da rendersi conto dell'ulteriore morale:
 
-  Per chi vince e per chi perde la partita
-  Per te, per me, la fine è la stessa,
-  Salire le scale fino alla nostra vecchia stanza del College
-  Guardare sopra la porta; e vedere il nome di un altro.
+Per chi vince e per chi perde la partita
+Per te, per me, la fine è la stessa,
+Salire le scale fino alla nostra vecchia stanza del College
+Guardare sopra la porta; e vedere il nome di un altro.
 
 Sembrava esserci una tendenza generale di questi miei compagni di scuola
 a eccellere nel verso leggero; Fordham, che andò a Cambridge,
@@ -16388,14 +16388,14 @@ to a sailor's roll.  Long afterwards the words found their way into
 verse which expressed a certain consciousness of the combination,
 and of the blend of nations in his [[Blood|blood]].
 
-  Almighty God will surely say,
-  St. [[Michael]], who is this that stands
-  With Ireland in his doubtful eyes
-  And Perigord between his hands,
-  And on his arm the stirrup-thongs
-  And in his gait the narrow seas
-  And on his mouth Burgundian [[songs]]
-  And in his heart the Pyrenees?
+Almighty God will surely say,
+St. [[Michael]], who is this that stands
+With Ireland in his doubtful eyes
+And Perigord between his hands,
+And on his arm the stirrup-thongs
+And in his gait the narrow seas
+And on his mouth Burgundian [[songs]]
+And in his heart the Pyrenees?
 
 He sat down heavily on one of the benches and began to talk at once
 about some controversy or other; I gathered that the question
@@ -16491,14 +16491,14 @@ and I should be the last to defend anything so indefensible.
 
 I miei amici erano appena scesi da [[Oxford]], Bentley da Merton e Oldershaw da «the [[house|House]]», dove avevano figurato in modo cospicuo in un gruppo di giovani Liberali avversi in vario grado all'Imperialismo corrente; un gruppo che conteneva molti nomi divenuti poi abbastanza famosi; John Simon, ora il [[Well|ben]] noto statista e avvocato, e Francis Hirst, l'economista. Poco dopo la nostra riunione a [[London]], andai a incontrare Lucian Oldershaw in un piccolo ristorante di Soho. Erano i giorni prima che tutti avessero scoperto dove si trovava Soho; e queste piccole trattorie francesi erano apprezzate solo da pochi buongustai in ragione del fatto che erano ancora luoghi dove era possibile mangiare. Non sono mai stato nulla di così raffinato come un buongustaio; sicché sono felice di dire che sono ancora del tutto capace di essere un ghiottone. La mia ignoranza in fatto di cucina è tale che posso persino mangiare il cibo negli alberghi più alla moda e più costosi di [[London]]. Talvolta, in quelle sale lussuose, abitate dagli eroi e dalle eroine di Oppenheim e di [[Edgar]] Wallace, il cibo è appena una sfumatura troppo cattivo persino per me. Ma coloro che davvero preferiscono mangiare buone cotolette e frittate al vivere di stucco dorato e camerieri da pantomima avevano già trovato la via verso deliziosi piccoli antri presso Leicester Square, dove a quei tempi si poteva avere una mezza bottiglia di vino rosso perfettamente buono per sei pence. Verso uno di questi mi recai per incontrare il mio amico, che entrò nel locale seguito da un uomo robusto con un rigido cappello di paglia dell'epoca inclinato sugli occhi, il che sottolineava la peculiare lunghezza e forza del suo mento. Aveva un modo di portare la giacca con le spalle alte, sicché sembrava un pesante soprabito, e mi ricordò all'istante i ritratti di Napoleone; e, per qualche vaga ragione, specialmente i ritratti di Napoleone a cavallo. Ma i suoi occhi, non senza ansia, avevano quella curiosa e distante acutezza che si vede negli occhi dei marinai; e c'era qualcosa nella sua andatura che è stata persino paragonata al rollio di un marinaio. Molto tempo dopo le parole trovarono la via del verso che esprimeva una certa consapevolezza della combinazione, e della mescolanza di nazioni nel suo [[Blood|sangue]].
 
-  Onnipotente Iddio dirà di certo,
-  San [[Michael|Michele]], chi è costui che sta
-  Con l'Irlanda nei suoi occhi incerti
-  E il Périgord fra le sue mani,
-  E sul braccio le staffe di cuoio
-  E nel passo i mari angusti
-  E sulla bocca [[songs|canti]] borgognoni
-  E nel cuore i Pirenei?
+Onnipotente Iddio dirà di certo,
+San [[Michael|Michele]], chi è costui che sta
+Con l'Irlanda nei suoi occhi incerti
+E il Périgord fra le sue mani,
+E sul braccio le staffe di cuoio
+E nel passo i mari angusti
+E sulla bocca [[songs|canti]] borgognoni
+E nel cuore i Pirenei?
 
 Si sedette pesantemente su una delle panche e cominciò subito a parlare di una controversia o dell'altra; capii che la questione era se si potesse ragionevolmente sostenere che [[King John|Giovanni]] fosse stato il miglior [[King|re]] inglese. Egli decise giudizialmente per il no; ma, secondo i criteri della [[history|Storia]] d'Inghilterra della signora Markham (alla quale era molto affezionato), lasciò andar via il Plantageneto con lieve pena. Dopotutto, Giovanni era stato un Reggente, e nessun Reggente medievale fu un [[success|successo]]. Continuò a parlare, come ha continuato a parlare, con mio grande piacere e stimolo, da allora in poi. Poiché costui era Hilaire Belloc, già famoso come oratore a [[Oxford]], dove veniva sempre contrapposto a un altro brillante conferenziere, di nome F. E. [[smith|Smith]], che più tardi divenne Lord Birkenhead. Si supponeva che Belloc rappresentasse il Radicalismo e [[smith|Smith]] il Torismo; ma il contrasto fra loro era più vitale, e sarebbe sopravvissuto al rovesciamento delle etichette. Invero i due caratteri e le due carriere potrebbero valere come studio e problema sul significato del fallimento e del [[success|successo]].
 
@@ -16970,15 +16970,15 @@ to refer you to the poem of Scott that we have been discussing."
 And I gravely repeated the answer of Marmion, when [[King]] James says
 that they may meet again in war as far south as Tamworth [[Castle]].
 
-  Much [[Honour|honour]]'d were my humble [[Home|home]],
-  If in its halls [[King]] James should come;
-  But Nottingham has archers good,
-  And Yorkshire men are stern of mood;
-  Northumbrian prickers wild and rude. ...
-  And many a banner will be torn,
-  And many a knight to earth be borne,
-  And many a sheaf of arrows spent,
-  Ere Scotland's [[King]] shall [[Cross|cross]] the Trent.
+Much [[Honour|honour]]'d were my humble [[Home|home]],
+If in its halls [[King]] James should come;
+But Nottingham has archers good,
+And Yorkshire men are stern of mood;
+Northumbrian prickers wild and rude. ...
+And many a banner will be torn,
+And many a knight to earth be borne,
+And many a sheaf of arrows spent,
+Ere Scotland's [[King]] shall [[Cross|cross]] the Trent.
 
 I looked at them and they at me, and I think they understood;
 and there [[Rose|rose]] up like an enormous [[Shadow|shadow]] over that drinking-hall
@@ -16993,15 +16993,15 @@ Ne faccio menzione qui soltanto perché vi sarà qualche fraintendimento perfino
 
 Curiosamente, tuttavia, il mio più acuto [[Memory|ricordo]] dell'enigma di questo [[Paradox|paradosso]] patriottico, e della difficoltà di far vedere agli altri ciò che a me pareva tanto ovvio, non è legato all'Irlanda o all'Inghilterra; bensì, fra tutti i luoghi del mondo, alla [[Germany|Germania]]. Qualche [[Time|tempo]] dopo tutti questi avvenimenti, mi trovai a dover visitare Francoforte, dove assunsi con una certa disinvoltura l'incarico di tenere conferenze sulla letteratura inglese a un congresso di maestri di scuola tedeschi. Discutemmo del Marmion di Walter Scott e di altri romanzi in versi; cantammo [[songs|canzoni]] inglesi davanti alla birra tedesca, e trascorremmo un [[Time|tempo]] assai piacevole. Ma già si agitava, perfino tra quei tedeschi miti e affabili, qualcosa che non era altrettanto piacevole; e benché lo esprimessero con tutta cortesia, mi ritrovai d'un tratto ancora una volta nella medesima difficoltà a proposito della nozione nazionale e di quella imperiale. Poiché, parlando con alcuni di loro in termini generali di letteratura, come a un mondo di cultura meramente cosmopolita, accennai a questa mia predilezione per quella che taluni considerano un'idea nazionale più angusta. Scoprii che anch'essi erano sconcertati; mi assicurarono, con quella gravità con cui i tedeschi [[Alone|soli]] sanno ripetere ciò che reputano un luogo comune, che Imperialismus e Patriotismus erano la stessa cosa. Quando scoprirono che a me non piaceva l'Imperialismus, nemmeno per il mio paese, una espressione assai curiosa affiorò nei loro occhi, e una nozione ancor più curiosa parve affiorare nelle loro teste. Si formarono la straordinaria idea che io fossi un internazionalista indifferente, o addirittura ostile, agli interessi inglesi. Forse pensarono che Gilbert Keith Chesterton fosse uno pseudonimo di Houston Stewart Chamberlain. Comunque sia, cominciarono a parlare più apertamente, ma sempre vagamente; e crebbe a poco a poco nella mia coscienza la convinzione che quelle persone straordinarie credessero davvero che io potessi accettare o approvare, su qualche fasulla base etnologica o sociologica, l'estensione della Razza Teutonica a spese perfino dell'impotenza o dell'assorbimento della mia stessa terra. Era una situazione alquanto imbarazzante; poiché non dicevano nulla di preciso che io avessi il diritto di risentire; era soltanto che avvertivo nell'atmosfera una pressione e una minaccia. Era Der Tag. Dopo aver riflettuto un istante, dissi: «[[Well|Ebbene]], signori, se mai si dovesse arrivare a qualcosa di simile, credo che dovrei rimandarvi al poema di Scott di cui abbiamo discusso». E ripetei con gravità la risposta di Marmion, quando [[King|re]] Giacomo dice che potranno incontrarsi di nuovo in guerra fin tanto a sud quanto il [[Castle|Castello]] di Tamworth.
 
-  Molto [[Honour|onorata]] sarebbe la mia umile [[Home|dimora]],
-  Se nelle sue sale [[King|re]] Giacomo venisse;
-  Ma Nottingham ha buoni arcieri,
-  E gli uomini dello Yorkshire sono d'animo severo;
-  Selvaggi e rudi i predoni del Northumberland. ...
-  E molti stendardi saranno lacerati,
-  E molti cavalieri atterrati,
-  E molti fasci di frecce consumati,
-  Prima che il [[King|re]] di Scozia [[Cross|varchi]] il Trent.
+Molto [[Honour|onorata]] sarebbe la mia umile [[Home|dimora]],
+Se nelle sue sale [[King|re]] Giacomo venisse;
+Ma Nottingham ha buoni arcieri,
+E gli uomini dello Yorkshire sono d'animo severo;
+Selvaggi e rudi i predoni del Northumberland. ...
+E molti stendardi saranno lacerati,
+E molti cavalieri atterrati,
+E molti fasci di frecce consumati,
+Prima che il [[King|re]] di Scozia [[Cross|varchi]] il Trent.
 
 Li guardai ed essi guardarono me, e credo che abbiano compreso; e si [[Rose|levò]] come un'enorme [[Shadow|ombra]] su quella sala del bere il terrore delle cose a venire.
 
@@ -17297,9 +17297,9 @@ as we watched the harassed crowds pouring through the passages
 of the Underground to the iron and symbolic Inner Circle, and quoting
 the words of Kipling about the disabled battleship:-
 
-  For it is not meet that English stock
-  Should bide in the heart of an eight-day [[Clock|clock]]
-  The [[Death|death]] they may not see.
+For it is not meet that English stock
+Should bide in the heart of an eight-day [[Clock|clock]]
+The [[Death|death]] they may not see.
 
 But I always retained a dim sense of something sacred
 in English stock, or in human stock, which separated me from
@@ -17425,9 +17425,9 @@ mentre osservavamo le folle affannate riversarsi attraverso i passaggi
 della Metropolitana verso la ferrea e simbolica Inner Circle, e di aver citato
 le parole di Kipling sulla corazzata inabile:—
 
-  Poiché non è giusto che ceppo inglese
-  Debba dimorare nel cuore di un [[Clock|orologio]] da otto giorni
-  La [[Death|Morte]] che essi non possono vedere.
+Poiché non è giusto che ceppo inglese
+Debba dimorare nel cuore di un [[Clock|orologio]] da otto giorni
+La [[Death|Morte]] che essi non possono vedere.
 
 Ma conservai sempre un vago senso di qualcosa di sacro
 nel ceppo inglese, o nel ceppo umano, che mi separava dal
@@ -17498,8 +17498,8 @@ vagamente forse, dalla [[Memory|Memoria]]:—
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="GKC-Autobiography — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
 
-  Match me this marvel, save where aesthetes are,
-  A [[Rose|rose]]-red suburb half as old as Carr.
+Match me this marvel, save where aesthetes are,
+A [[Rose|rose]]-red suburb half as old as Carr.
 
 But though I think we all felt, if subconsciously, something dreamily
 theatrical about the thing, that it was partly [[A Dream|a dream]] and partly
@@ -17535,9 +17535,9 @@ and analogous to talking of the great Gulliver as "Johnny Swift".
 His own tone and temper, in public as [[Well|well]] as private expression,
 is of a fastidiousness the very reverse of such familiarity.
 
-  There is no [[Fool|fool]] can call me friend
-  And I may drink at the [[Journey|journey]]'s end
-  With Landor and with Donne.
+There is no [[Fool|fool]] can call me friend
+And I may drink at the [[Journey|journey]]'s end
+With Landor and with Donne.
 
 I mention it merely as a point of impersonal description,
 without pronouncing on the problem; it takes all sorts to make a world.
@@ -17617,7 +17617,7 @@ must now try to describe.
 <span class="qlang-split" data-lang="it"></span>
 
 Eguagliami questa meraviglia, salvo là dove sono gli esteti,
-  Un sobborgo [[Rose|rosso-rosa]] vecchio la metà di Carr.
+Un sobborgo [[Rose|rosso-rosa]] vecchio la metà di Carr.
 
 Ma benché credo che tutti sentissimo, se pur subconsciamente, qualcosa di sognantemente
 teatrale nella cosa, che era in parte [[A Dream|un sogno]] e in parte
@@ -17653,9 +17653,9 @@ e analoga al parlare del grande Gulliver come «Johnny Swift».
 Il suo tono e temperamento, nell'espressione pubblica oltre [[Well|che]] privata,
 è di una schizzinosità proprio l'opposto di tale familiarità.
 
-  Non c'è [[Fool|sciocco]] che possa chiamarmi amico
-  E potrò bere alla fine del [[Journey|Viaggio]]
-  Con Landor e con Donne.
+Non c'è [[Fool|sciocco]] che possa chiamarmi amico
+E potrò bere alla fine del [[Journey|Viaggio]]
+Con Landor e con Donne.
 
 Lo menziono meramente come un punto di descrizione impersonale,
 senza pronunciarmi sul problema; ci vuole di tutto per fare un mondo.
@@ -18910,54 +18910,54 @@ supposed to represent the impressions of a Nottingham tradesman;
 they became something of a jest in our little circle and I quote
 them for the pleasure of recalling those old exhilarating days.
 
-  The Christian Social [[Union]] here
-  Was very much annoyed;
-  It seems there is some duty
-  Which we never should avoid,
-  And so they sing a lot of hymns
-  To help the Unemployed.
+The Christian Social [[Union]] here
+Was very much annoyed;
+It seems there is some duty
+Which we never should avoid,
+And so they sing a lot of hymns
+To help the Unemployed.
 
-  Upon a platform at the end
-  The speakers were displayed
-  And Bishop Hoskins stood in front
-  And hit a bell and said
-  That Mr. Carter was to pray,
-  And Mr. Carter prayed.
+Upon a platform at the end
+The speakers were displayed
+And Bishop Hoskins stood in front
+And hit a bell and said
+That Mr. Carter was to pray,
+And Mr. Carter prayed.
 
-  Then Bishop Gore of Birmingham
-  He stood upon one leg
-  And said he would be happier
-  If beggars didn't beg,
-  And that if they pinched his palace
-  It would take him down a peg.
+Then Bishop Gore of Birmingham
+He stood upon one leg
+And said he would be happier
+If beggars didn't beg,
+And that if they pinched his palace
+It would take him down a peg.
 
-  He said that Unemployment
-  Was a horror and a blight,
-  He said that charities produced
-  Servility and spite,
-  And stood upon the other leg
-  And said it wasn't right.
+He said that Unemployment
+Was a horror and a blight,
+He said that charities produced
+Servility and spite,
+And stood upon the other leg
+And said it wasn't right.
 
-  And then a man named Chesterton
-  Got up and played with [[Water|water]],
-  He seemed to say that principles
-  Were nice and led to slaughter
-  And how we always compromised
-  And how we didn't orter.
+And then a man named Chesterton
+Got up and played with [[Water|water]],
+He seemed to say that principles
+Were nice and led to slaughter
+And how we always compromised
+And how we didn't orter.
 
-  Then Canon Holland fired ahead
-  Like fifty cannons firing,
-  We tried to find out what he meant
-  With infinite enquiring,
-  But the way he made the windows jump
-  We couldn't help admiring.
+Then Canon Holland fired ahead
+Like fifty cannons firing,
+We tried to find out what he meant
+With infinite enquiring,
+But the way he made the windows jump
+We couldn't help admiring.
 
-  He said the human [[Soul|soul]] should be
-  Ashamed of every sham,
-  He said a man should constantly
-  Ejaculate "I am"
-  ...when he had done, I went outside
-  And got into a tram.
+He said the human [[Soul|soul]] should be
+Ashamed of every sham,
+He said a man should constantly
+Ejaculate "I am"
+...when he had done, I went outside
+And got into a tram.
 
 I rather prided myself on these lines, merely because they are,
 in the main, a very accurate report of the speeches;
@@ -19021,54 +19021,54 @@ so many dull men are successful.
 
 Il vecchio gruppo dell'Alta Chiesa o anglo-cattolico, di cui Conrad Noel rappresentava l'estremo più rivoluzionario e Percy Dearmer (almeno a quel [[Time|tempo]]) il più storico e liturgico, era in effetti una davvero eletta [[Body|schiera]] di uomini, verso la quale io per primo proverò sempre una gratitudine come quella di mio fratello e del cieco nelle Scritture. Il suo capo, in quanto aveva un capo tra i rami più alti del sistema anglicano, era quell'uomo affascinante e memorabile fra tutti, Henry Scott Holland, che si muoveva tra gli uomini più giovani come uno assai più giovane di loro; indimenticabile con la sua comica faccia da rana e la grande statura e la voce dai muggiti taurini; come se fosse la rana che aveva vinto la [[Fable|favola]] ed era davvero diventata un toro. In senso astrattamente intellettuale, naturalmente, il loro capo era piuttosto il dottor Gore; ma chiunque conoscesse i suoi peculiari meriti si aspetterebbe che egli apparisse una figura più esile e più evanescente sullo sfondo. Talora si radunavano tutti su un unico palco, specialmente sui palchi della Christian Social [[Union]], alla quale aderii in data più tarda; e [[Hope|spero]] che tutti i superstiti di quei vecchi amici, dai quali mi sono separato nel pensiero ma mai nella simpatia, mi perdoneranno se rievoco qui qualcuna delle follie che ravvivarono la nostra [[Friendship|amicizia]]. Ricordo quando cinque o sei di noi arringarono la sbalordita città di Nottingham, su quello che consideravamo essere il suo dovere cristiano verso il moderno problema della [[Poverty|povertà]] industriale. Ricordo le facce dei cittadini di quella grande [[City|città]] mentre parlavo; e mi dispiace dire che registrai le mie impressioni in alcuni versi, che si supponevano rappresentare le impressioni di un bottegaio di Nottingham; divennero una sorta di burla nel nostro piccolo circolo e li cito per il piacere di rammentare quei vecchi giorni esilaranti.
 
-  La Christian Social [[Union]] qui
-  Fu oltremodo contrariata;
-  Pare vi sia un dovere
-  Da non schivar giammai,
-  E allora cantano un mucchio d'inni
-  Per aiutare i Disoccupati.
+La Christian Social [[Union]] qui
+Fu oltremodo contrariata;
+Pare vi sia un dovere
+Da non schivar giammai,
+E allora cantano un mucchio d'inni
+Per aiutare i Disoccupati.
 
-  Su un palco in fondo alla sala
-  Gli oratori erano schierati
-  E il vescovo Hoskins stava davanti
-  E batté una campana e disse
-  Che il signor Carter avrebbe pregato,
-  E il signor Carter pregò.
+Su un palco in fondo alla sala
+Gli oratori erano schierati
+E il vescovo Hoskins stava davanti
+E batté una campana e disse
+Che il signor Carter avrebbe pregato,
+E il signor Carter pregò.
 
-  Poi il vescovo Gore di Birmingham
-  Si resse su una gamba
-  E disse che sarebbe stato più felice
-  Se i mendichi non mendicassero,
-  E che se gli sgraffignavano il palazzo
-  Ciò l'avrebbe ridimensionato.
+Poi il vescovo Gore di Birmingham
+Si resse su una gamba
+E disse che sarebbe stato più felice
+Se i mendichi non mendicassero,
+E che se gli sgraffignavano il palazzo
+Ciò l'avrebbe ridimensionato.
 
-  Disse che la Disoccupazione
-  Era un orrore e una piaga,
-  Disse che le carità producevano
-  Servilismo e livore,
-  E si resse sull'altra gamba
-  E disse che non era giusto.
+Disse che la Disoccupazione
+Era un orrore e una piaga,
+Disse che le carità producevano
+Servilismo e livore,
+E si resse sull'altra gamba
+E disse che non era giusto.
 
-  E poi un tale di nome Chesterton
-  Si alzò e giocò con l'[[Water|acqua]],
-  Parve dire che i princìpi
-  Eran belli e menavano al macello
-  E come sempre transigessimo
-  E come non dovremmo mica.
+E poi un tale di nome Chesterton
+Si alzò e giocò con l'[[Water|acqua]],
+Parve dire che i princìpi
+Eran belli e menavano al macello
+E come sempre transigessimo
+E come non dovremmo mica.
 
-  Poi il canonico Holland partì a raffica
-  Come cinquanta cannoni al fuoco,
-  Cercammo di capire che intendesse
-  Con infinite domande,
-  Ma il modo in cui faceva sobbalzare i vetri
-  Non potemmo che ammirarlo.
+Poi il canonico Holland partì a raffica
+Come cinquanta cannoni al fuoco,
+Cercammo di capire che intendesse
+Con infinite domande,
+Ma il modo in cui faceva sobbalzare i vetri
+Non potemmo che ammirarlo.
 
-  Disse che l'[[Soul|anima]] umana dovrebbe
-  Vergognarsi d'ogni finzione,
-  Disse che l'uomo dovrebbe di continuo
-  Esclamare «Io sono»
-  ...quand'ebbe finito, uscii fuori
-  E salii su un tram.
+Disse che l'[[Soul|anima]] umana dovrebbe
+Vergognarsi d'ogni finzione,
+Disse che l'uomo dovrebbe di continuo
+Esclamare «Io sono»
+...quand'ebbe finito, uscii fuori
+E salii su un tram.
 
 Andavo piuttosto fiero di questi versi, semplicemente perché sono, nel complesso, un resoconto assai fedele dei discorsi; o di ciò che i discorsi probabilmente apparivano all'uditorio. E li dissotterro anche dalla loro [[Dust|pattumiera]] perché mi ricordano un'espressione caratteristica di Scott Holland, che da allora ho trovato essere un caratteristico problema della vita umana. C'era una strofa dei miei versi da poetastro che ho omesso, perché sarebbe certamente fraintesa, come Scott Holland stesso fu frainteso. Egli era un uomo di grande chiarezza e grande equanimità di mente, e ciò che diceva significava sempre qualcosa ed era il frutto dell'impopolare sport del pensare. Ma era anche un uomo con un naturale flutto di risa dentro di sé, sicché la sua ampia e forte bocca sembrava sempre serrarvisi sopra in una smorfia di contenimento. Ricordo che in quell'occasione egli perorava quello che è probabilmente il miglior argomento a favore dell'intervento dello Stato, tendente nella direzione generale del socialismo di Stato, che era comune nella Christian Social [[Union]] e pronunciato nei decisi e sfidanti socialisti cristiani, come Conrad Noel. Diceva che il Commonwealth, l'autorità sociale, era degno di essere considerato in una luce positiva e non meramente negativa; che dovremmo essere in grado di fidarci delle cose che esso fa, e non pensare soltanto alle cose per cui esso ci punisce. Il politico dovrebbe essere più del poliziotto; dovrebbe produrre e costruire e non meramente punire. A questo punto il suo immenso godimento interiore per una battuta gorgogliò in superficie ed egli disse, agitando la mano verso il rigido e rispettabile uditorio di Nottingham: «La punizione è uno strumento eccezionale. Dopotutto, è solo di rado che voi e io sentiamo quel colpetto sulla spalla, e quel burbero invito a "venir via senza far storie". Non è ogni giorno della nostra vita che veniamo messi sul banco degli imputati e condannati a qualche periodo di [[Imprisonment|reclusione]]. La maggior parte dei nostri rapporti col [[government|Governo]] sono pacifici e amichevoli. Perbacco, suppongo che perfino in questa sala vi siano ben una mezza dozzina di persone che non sono mai state affatto in prigione». Uno sguardo raccapricciato si fissò su tutte le facce dell'uditorio; e da allora l'ho sempre rivisto nei miei [[Dreams|sogni]]; poiché ha costituito una parte considerevole del mio problema.
 
@@ -19665,9 +19665,9 @@ Comunque sia, tutti converranno che io fui un incidente in Fleet Street. Alcuni 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="GKC-Autobiography — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
 
-  ... trod the path to hell,
-  But there were many things he might have sold
-  And did not sell.
+... trod the path to hell,
+But there were many things he might have sold
+And did not sell.
 
 For one thing, it was always said of him that he nearly died
 of hunger in Fleet Street with a volume of Shakespeare's Sonnets
@@ -19775,8 +19775,8 @@ the Thames for a week, and they are not married."
 <span class="qlang-split" data-lang="it"></span>
 
 ... calcato il sentiero dell'inferno,
-  Ma vi erano molte cose che avrebbe potuto vendere
-  E non vendé.
+Ma vi erano molte cose che avrebbe potuto vendere
+E non vendé.
 
 Tanto per dirne una, si diceva sempre di lui che per poco non fosse morto di fame in Fleet Street con in tasca un volume dei Sonetti di Shakespeare.
 
@@ -19948,16 +19948,16 @@ of which I remember almost every word; for it was short and simple
 and touching in its appeal to larger and more tolerant ideals.
 It ran, I think, as follows:
 
-  "Sir,
-  May I express my regret that you should continue a  correspondence  which
+"Sir,
+May I express my regret that you should continue a  correspondence  which
 causes considerable [[Pain|pain]] to many [[Innocent|innocent]] persons who, by no fault
 of their own, but by the iron laws of [[Nature|nature]], inherit a complexion
 uncommon among their fellow-creatures and attractive only to the elite.
 Surely we can forget all these differences; and, whatever our
 race or colour, work hand in hand for the broadening of the
 brotherhood of humanity.
-      Yours faithfully,
-            Mauve Man with Green Spots."
+Yours faithfully,
+Mauve Man with Green Spots."
 
 This correspondence then ceased.
 
@@ -20001,12 +20001,12 @@ and could live in good fellowship with absolutely anybody,
 not only the merely dirty but the really vulgar, what was really
 deepest in him was a steep and even staggering obstinacy.
 
-  He kept his word as none but he
-  Could keep it; and as did not we,
-  And round him while he kept his word
-  Today's diseased and faithless herd,
-  A moment loud, a moment strong,
-  But foul for ever, rolled along.
+He kept his word as none but he
+Could keep it; and as did not we,
+And round him while he kept his word
+Today's diseased and faithless herd,
+A moment loud, a moment strong,
+But foul for ever, rolled along.
 
 *****
 
@@ -20015,16 +20015,16 @@ deepest in him was a steep and even staggering obstinacy.
 
 Tutto ciò va tenuto a mente, quando giungeremo a eventi più cruciali ed eccitanti in connessione con l'Eyewitness; menziono soltanto questo incidente qui per indicare la vivace maniera in cui la signora in questione conduceva l'infinita [[Comedy|commedia]] di Fleet Street. In connessione col giornale sopra menzionato, di cui mio fratello fu prima vicedirettore e poi direttore, vi furono cento aneddoti simili ed episodi divertenti. Mi pare di poter rintracciare la mano della signora, non meno [[Well|bene]] di quella del direttore, in una delle corrispondenze più mirabilmente assurde che io abbia mai visto sulle colonne del giornalismo. Tutto cominciò, se ben ricordo, con mio fratello che scriveva qualcosa sull'incontro fra H. G. Wells e Booker Washington, il famoso pubblicista negro d'[[America]], in cui si gettava qualche [[Doubt|dubbio]] su quanto il signor Wells comprendesse le difficoltà del signor Washington, e per implicazione quelle del Sud bianco in cui egli lavorava. Questa opinione fu rafforzata ed esagerata in una lettera datata da Bexley, che avvertiva tutti dei reali pericoli della commistione razziale e dei matrimoni misti; era firmata «Uomo Bianco». Ciò produsse una focosa lettera del signor Wells, umoristicamente intitolata «L'Uomo Bianco di Bexley», come se l'uomo fosse una sorta di [[Monster|mostro]]. Il signor Wells disse di non sapere com'era la vita «fra i bianchi puri di Bexley», ma che altrove incontrare la gente non significava sempre sposarla; «L'etichetta è più calma». Poi, credo, un vero negro intervenne nel [[debate|dibattito]] sulla sua [[Nature|natura]] e il suo destino; e firmò la sua lettera «Uomo Nero». Poi venne una domanda più distaccata, immagino da qualche studente bramino o parsi in qualche college, che faceva notare come il problema razziale non fosse confinato alle razze dell'Africa; e chiedeva quale opinione si avesse dei matrimoni misti con le razze dell'Asia. Firmò la sua lettera «Uomo Bruno». Infine, apparve una lettera, di cui ricordo quasi ogni parola; poiché era breve e semplice e commovente nel suo appello a ideali più ampi e tolleranti. Diceva, credo, così:
 
-  «Signore,
-  Posso io esprimere il mio rammarico che voi continuiate una  corrispondenza  che
+«Signore,
+Posso io esprimere il mio rammarico che voi continuiate una  corrispondenza  che
 causa considerevole [[Pain|dolore]] a molte [[Innocent|innocenti]] persone che, per nessuna colpa
 loro, ma per le ferree leggi della [[Nature|natura]], ereditano una carnagione
 non comune fra i loro simili e attraente soltanto per l'élite.
 Sicuramente possiamo dimenticare tutte queste differenze; e, quale che sia la nostra
 razza o il nostro colore, lavorare mano nella mano per l'allargamento della
 fratellanza dell'umanità.
-      Vostro devotissimo,
-            Uomo Malva con Macchie Verdi.»
+Vostro devotissimo,
+Uomo Malva con Macchie Verdi.»
 
 Questa corrispondenza allora cessò.
 
@@ -20032,12 +20032,12 @@ Vi furono in verità altre corrispondenze che parevano non voler mai cessare. A 
 
 Ella sposò mio fratello poco prima che egli andasse alla Guerra, in una piccola [[Catholic Church|chiesa cattolica]] romana presso Fleet Street; poiché egli apparteneva già a quella comunione. Fu due volte rimandato a [[Home|casa]] ferito; si offrì volontario tre volte per il fronte e la terza [[Time|volta]] trovò la sua [[Death|morte]]. In un altro capitolo mi occuperò di lui più individualmente, e specialmente di quel più raro tipo di [[Courage|coraggio]] che egli mostrò in politica, sotto immediate minacce di [[Imprisonment|carcere]] e di rovina. Mentre era in trincea scrisse un'eccellente [[history|Storia]] d'[[America]] e una ballata bacchica indirizzata ai suoi commilitoni, col ritornello: «Fu in Fleet Street che imparai a bere». Perfino la sua bohémienne lealtà alla leggenda della Via dell'Avventura difficilmente si sarebbe spinta fino a dire: «Fu in Fleet Street che imparai a pensare». Poiché in verità egli imparò a pensare nella stanza dei bambini; ed era uno di coloro che portano una sorta di [[innocence|innocenza]] d'intensità intellettuale attraverso tutte le cose della vita, siano esse in Fleet Street o al fronte. E i miei pensieri ritornano al povero Stephen e ai molti nobili folli che conobbi, i quali avevano quella qualità, quando rammento quei versi che uno dei nostri amici scrisse sul Fanatico, ovvero l'uomo che voleva mantenere la parola; «Quella grande parola che ogni uomo diede a Dio prima che la sua vita cominciasse»; e il quale anche, si ricorderà, «Aveva due testimoni pronti a giurare che la mantenne una volta a Berkeley Square; dove quasi nulla sopravvive». Poiché, benché mio fratello fosse la persona più bonaria che io abbia mai conosciuto, e potesse vivere in buona compagnia con assolutamente chiunque, non solo con i meramente sporchi ma con i davvero volgari, ciò che era davvero più profondo in lui era una ripida e perfino sconcertante ostinazione.
 
-  Mantenne la parola come nessuno tranne lui
-  Poteva mantenerla; e come noi non facemmo,
-  E intorno a lui mentre manteneva la parola
-  L'odierno gregge malato e senza fede,
-  Un momento chiassoso, un momento forte,
-  Ma per sempre immondo, rotolava avanti.
+Mantenne la parola come nessuno tranne lui
+Poteva mantenerla; e come noi non facemmo,
+E intorno a lui mentre manteneva la parola
+L'odierno gregge malato e senza fede,
+Un momento chiassoso, un momento forte,
+Ma per sempre immondo, rotolava avanti.
 
 *****
 
@@ -20372,22 +20372,22 @@ in the National Review, who said things quite as strong.
 I was myself so much amused with the inconsequence of this foreign
 diversion that I published some verses in the New Witness beginning:
 
-  I am so swift to seize affronts
-  My spirit is so high
-  Whoever has insulted me
-  Some foreigner must die.
-  I made a claim for damage
-  (For the Times has called me 'thief')
-  Against a paper in Alsace
-  A paper called Le Juif.
-  And when the Morning Post unearthed
-  Some murders I'd devised
-  A Polish organ of finance
-  At once apologised.
-  ... I know it sounds confusing
-  But, as Mr. Lammle said,
-  The anger of a gentleman
-  Is boiling in my head.
+I am so swift to seize affronts
+My spirit is so high
+Whoever has insulted me
+Some foreigner must die.
+I made a claim for damage
+(For the Times has called me 'thief')
+Against a paper in Alsace
+A paper called Le Juif.
+And when the Morning Post unearthed
+Some murders I'd devised
+A Polish organ of finance
+At once apologised.
+... I know it sounds confusing
+But, as Mr. Lammle said,
+The anger of a gentleman
+Is boiling in my head.
 
 The actual method, of course, is by this [[Time|time]] familiar enough.
 Some [[Fool|fool]] who has got the facts wrong is always prosecuted,
@@ -20421,22 +20421,22 @@ Finché il direttore dell'Eye-Witness non costrinse i politici a rivelare qualco
 
 Sembra strano; perché c'erano alcuni giornali inglesi assai cospicui da querelare. C'era il New Witness, che ruggiva a gran voce settimana dopo settimana per essere querelato. C'era il Morning Post, che diceva molte cose quasi altrettanto forti; c'era il signor Maxse, nella National Review, che diceva cose del tutto altrettanto forti. Io stesso mi divertii tanto dell'inconseguenza di questa diversione forestiera che pubblicai alcuni versi nel New Witness, che cominciavano:
 
-  Sono così pronto a cogliere gli affronti
-  Il mio spirito è così altero
-  Chiunque mi abbia insultato
-  Qualche straniero deve morire.
-  Avanzai una richiesta di danni
-  (Poiché il Times mi ha chiamato «ladro»)
-  Contro un giornale in Alsazia
-  Un giornale chiamato Le Juif.
-  E quando il Morning Post dissotterrò
-  Certi delitti da me macchinati
-  Un organo polacco di finanza
-  Si scusò all'istante.
-  ... So che suona confuso
-  Ma, come disse il signor Lammle,
-  L'ira di un gentiluomo
-  Mi ribolle in testa.
+Sono così pronto a cogliere gli affronti
+Il mio spirito è così altero
+Chiunque mi abbia insultato
+Qualche straniero deve morire.
+Avanzai una richiesta di danni
+(Poiché il Times mi ha chiamato «ladro»)
+Contro un giornale in Alsazia
+Un giornale chiamato Le Juif.
+E quando il Morning Post dissotterrò
+Certi delitti da me macchinati
+Un organo polacco di finanza
+Si scusò all'istante.
+... So che suona confuso
+Ma, come disse il signor Lammle,
+L'ira di un gentiluomo
+Mi ribolle in testa.
 
 Il metodo effettivo, naturalmente, è [[Time|ormai]] abbastanza familiare. Si querela sempre qualche [[Fool|sciocco]] che ha sbagliato i fatti, invece dei seri critici che hanno i fatti giusti. E, nel caso di Le Matin, l'occasione fu semplicemente usata come opportunità per i Ministri coinvolti di dare la propria versione dei fatti reali prima che fosse troppo tardi. Con profondo stupore e sconforto di molti, ammisero che, nonostante le rassicuranti osservazioni in Parlamento, avevano in effetti ricevuto un gran numero di azioni dalla filiale americana della Compagnia Marconi. La maggior parte dei fedeli Liberali che li seguivano rimasero piuttosto sbigottiti; ma nell'ordinaria stampa di Partito la faccenda fu debitamente insabbiata. Naturalmente, l'ordinaria stampa Tory avrebbe fatto esattamente lo stesso con un ordinario scandalo Tory, dei quali ce n'erano proprio altrettanti. Ma vorrei nominare e registrare qui, honoris causa e per il merito di sé stesso e del vero credo radicale, il nome del defunto H. W. Massingham, direttore di The Nation, il quale [[Alone|solo]] in una tale crisi parlò e agì da uomo. Era devoto al Partito della Pace, del Risparmio e della [[Reform|Riforma]], quanto qualunque altro; ma la sua devozione prese la forma di un immediato apprezzamento del suo pericolo morale. Tornò a [[Home|casa]] dalle spiegazioni del Matin, scosso e atterrito dall'orrore, e stampò nel suo giornale le parole: «La corruzione politica è il tallone d'[[Achilles|Achille]] del Liberalismo».
 
@@ -20784,9 +20784,9 @@ of Dr. Johnson's; and though he has had personal sorrow and in
 later years not a little [[Solitude|solitude]], he was fully entitled to say,
 like the man in his own [[Song|song]],
 
-  For you that took the all in all, the things you left were three,
-  A loud voice for singing and clear eyes to see
-  And a spouting fount of life within that never yet has dried.
+For you that took the all in all, the things you left were three,
+A loud voice for singing and clear eyes to see
+And a spouting fount of life within that never yet has dried.
 
 Bentley or Conrad Noel were characters who could have been put
 into any [[Comedy|comedy]]; and the levities of Maurice Baring were worthy
@@ -20815,10 +20815,10 @@ who has always had a trick of repeating scraps of recently
 discovered verse, which happened to please him, would volley out
 at intervals the lines of Miss Coleridge:
 
-  We were young, we were merry, we were very very wise
-  And the doors stood open at our feast;
-  When there passed us a woman with the west in her eyes
-  And a man with his back to the east.
+We were young, we were merry, we were very very wise
+And the doors stood open at our feast;
+When there passed us a woman with the west in her eyes
+And a man with his back to the east.
 
 There is no [[Doubt|doubt]], so far as we were concerned, that we were young
 and were merry; but I have sometimes doubted since whether we
@@ -20844,18 +20844,18 @@ Ho già figurato qui come lunatico; e devo ora solo aggiungere che sono stato oc
 
 Le cose che mi ritornano nella [[Memory|memoria]], come le più degne di esser fatte e di esser ricordate, sono ogni sorta di assurdi interludi e scappatelle con i miei compagni, pieni della loro conversazione e colorati dei loro caratteri. Belloc attende ancora un Boswell. La sua vivace e risvegliante personalità ha mostrato tutta la continuità di quella del Dr. Johnson; e benché egli abbia avuto dolori personali e negli anni più recenti non poca [[Solitude|solitudine]], aveva pieno diritto di dire, come l'uomo della sua stessa [[Song|canzone]]:
 
-  Per te che prendesti il tutto per tutto, le cose che lasciasti furono tre,
-  Una voce sonora per cantare e occhi limpidi per vedere
-  E una zampillante fonte di vita dentro che non s'è ancora mai seccata.
+Per te che prendesti il tutto per tutto, le cose che lasciasti furono tre,
+Una voce sonora per cantare e occhi limpidi per vedere
+E una zampillante fonte di vita dentro che non s'è ancora mai seccata.
 
 Bentley o Conrad Noel erano personaggi che avrebbero potuto essere messi in qualunque [[Comedy|commedia]]; e le leggerezze di Maurice Baring erano degne di qualche fantastico maccherone o incroyable del diciottesimo secolo.
 
 Fra i ricordi che mi vengono risospinti indietro, come da un [[Wind|vento]] sopra le Downs, c'è quello del giorno d'[[Winter|inverno]] in cui Belloc ci trascinò attraverso il Sussex a cercare la sorgente dell'Arun. La compagnia comprendeva sua moglie e la mia; nessuno di noi era sposato da molto, e forse sapevamo meno di quanto sappiamo ora della diversità dei temperamenti umani, per non dire delle temperature. Egli e io eravamo amanti del freddo; mia moglie e sua moglie, che era una californiana assai affascinante, no. Trovammo davvero il luogo dove l'Arun [[Rose|sgorgava]] fra le colline; ed era invero, di tutti gli spettacoli che ho visto, uno dei più belli; direi quasi il più classico. Poiché [[Rose|sgorgava]] in una pozza (parzialmente gelata) in un piccolo boschetto di alberi snelli, argentei di [[Frost|brina]], che parevano in qualche modo i pallidi e delicati pilastri di un tempio. Ma credo che le signore, benché entrambe sensibili al paesaggio, guardassero quel gelido paradiso con qualcosa di un gelido occhio. Quando ciò cominciò a scoprirsi, Belloc propose all'istante il rimedio del rum caldo, in grandi bicchieroni a una locanda attigua; e restammo sconcertati dal fatto che il rimedio fosse considerato con quasi altrettanto disgusto della malattia. Comunque, noi stessi, che non sentivamo il freddo, consumammo di cuore il rum; e Belloc, che ha sempre avuto il vezzo di ripetere frammenti di versi da poco scoperti, che gli fossero piaciuti, sparava a intervalli i versi di Miss Coleridge:
 
-  Eravamo giovani, eravamo allegri, eravamo assai assai saggi
-  E le porte stavano aperte al nostro banchetto;
-  Quando ci passò accanto una donna con l'ovest negli occhi
-  E un uomo con la schiena all'oriente.
+Eravamo giovani, eravamo allegri, eravamo assai assai saggi
+E le porte stavano aperte al nostro banchetto;
+Quando ci passò accanto una donna con l'ovest negli occhi
+E un uomo con la schiena all'oriente.
 
 Non v'è alcun [[Doubt|dubbio]], per quanto ci riguarda, che fossimo giovani ed allegri; ma ho talvolta da allora dubitato se fossimo assai, assai saggi.
 
@@ -20866,10 +20866,10 @@ Tornammo poi alla [[house|casa]] di Belloc; dove egli piuttosto neutralizzò gli
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="GKC-Autobiography — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
 
-  We were young, we were merry, we were very very wise
-  And the doors stood open at our feast;
-  When there passed us a woman with the west in her eyes
-  And a man with his back to the east.
+We were young, we were merry, we were very very wise
+And the doors stood open at our feast;
+When there passed us a woman with the west in her eyes
+And a man with his back to the east.
 
 Needless to say, however, his hospitality terminated with a magnificent
 feast with wine, and all ended in a glow of gaiety; but there
@@ -20878,10 +20878,10 @@ were so much more interested in the barometer than the telescope.
 The feminine aspect of the story was afterwards embodied in an echo
 of the everlasting refrain:
 
-  We were cold, we were bitter, we were very nearly dead,
-  And the doors stood open by [[Desire|desire]],
-  And there faced us a woman with a cold in her head
-  And a man with his back to the [[Fire|fire]].
+We were cold, we were bitter, we were very nearly dead,
+And the doors stood open by [[Desire|desire]],
+And there faced us a woman with a cold in her head
+And a man with his back to the [[Fire|fire]].
 
 Those are the sort of silly things that come back to me in [[Memory|memory]];
 and a real life of anybody would almost entirely consist of them.
@@ -20985,16 +20985,16 @@ of those who
 <span class="qlang-split" data-lang="it"></span>
 
 Eravamo giovani, eravamo allegri, eravamo assai assai saggi
-  E le porte stavano aperte al nostro banchetto;
-  Quando ci passò accanto una donna con l'ovest negli occhi
-  E un uomo con la schiena all'oriente.
+E le porte stavano aperte al nostro banchetto;
+Quando ci passò accanto una donna con l'ovest negli occhi
+E un uomo con la schiena all'oriente.
 
 Inutile dire, tuttavia, che la sua ospitalità terminò con un magnifico banchetto innaffiato di vino, e tutto si concluse in un bagliore di gaiezza; ma persiste una sorta di leggenda di quel giorno d'[[Winter|inverno]], quando alcuni di noi erano assai più interessati al barometro che al telescopio. L'aspetto femminile della storia fu poi incarnato in un'eco dell'eterno ritornello:
 
-  Eravamo freddi, eravamo amareggiati, eravamo quasi morti,
-  E le porte stavano aperte per [[Desire|desiderio]],
-  E ci stava di fronte una donna con un raffreddore in testa
-  E un uomo con la schiena al [[Fire|fuoco]].
+Eravamo freddi, eravamo amareggiati, eravamo quasi morti,
+E le porte stavano aperte per [[Desire|desiderio]],
+E ci stava di fronte una donna con un raffreddore in testa
+E un uomo con la schiena al [[Fire|fuoco]].
 
 Quelle sono le sorta di sciocchezze che mi ritornano nella [[Memory|memoria]]; e una vera vita di chiunque consisterebbe quasi interamente di esse. Ma una vera vita di chiunque è cosa assai difficile da scrivere; e poiché ho fallito due o tre volte nel tentare di farlo con altre persone, non mi illudo di poterlo davvero fare con me stesso. Ricordo un altro incidente privato piuttosto ridicolo che ebbe di più di ciò che si chiama interesse pubblico. Poiché coinvolse l'incontro di Belloc con un autore assai famoso e distinto; e credo che l'incontro sia stata la più comica [[Comedy|commedia]] di [[Cross|equivoci]] che sia mai avvenuta al mondo. Se ne potrebbero scrivere libri sul suo significato, sociale, nazionale, internazionale e storico. Vi era dentro ogni sorta di cose; compreso l'esterno e l'interno dell'Inghilterra. Eppure come aneddoto sembrerebbe probabilmente privo di senso, tanto sottile e penetrante è il senso.
 
@@ -21009,8 +21009,8 @@ Inutile dire che fu una visita assai maestosa e cerimoniosa; e James pareva riem
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="GKC-Autobiography — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
 
-  Heard Ney shouting to the guns to unlimber
-  And hold the Beresina Bridge at [[Night|night]].
+Heard Ney shouting to the guns to unlimber
+And hold the Beresina Bridge at [[Night|night]].
 
 I knew it was Belloc, probably shouting for bacon and beer;
 but even I had no notion of the form or guise under which he
@@ -21025,10 +21025,10 @@ having on occasion lived, and being able to live, the life of the poor.
 One of the Ballades of the Eye-Witness, which was never published,
 described tramping abroad in this fashion:
 
-  To [[Sleep|sleep]] and smell the incense of the tar,
-  To wake and watch Italian dawns aglow
-  And underneath the branch a single star,
-  Good Lord, how little wealthy people know.
+To [[Sleep|sleep]] and smell the incense of the tar,
+To wake and watch Italian dawns aglow
+And underneath the branch a single star,
+Good Lord, how little wealthy people know.
 
 In this spirit they started to get [[Home|home]] practically without money.
 Their clothes collapsed and they managed to get into some
@@ -21123,16 +21123,16 @@ on something solid.
 <span class="qlang-split" data-lang="it"></span>
 
 Udirono Ney gridare ai cannoni di sganciarsi
-  E tenere il Ponte della Beresina nella [[Night|notte]].
+E tenere il Ponte della Beresina nella [[Night|notte]].
 
 Sapevo che era Belloc, probabilmente a gran voce reclamante pancetta e birra; ma perfino io non avevo nozione della forma o della guisa sotto cui egli si sarebbe presentato.
 
 Avevo ogni ragione di credere che fosse a cento miglia di distanza in Francia. E così, a quanto pare, era stato; camminando con un suo amico del Foreign Office, un correligionario di una delle vecchie famiglie cattoliche; e per qualche calcolo errato si erano trovati in mezzo ai loro viaggi interamente senza denaro. Belloc è legittimamente fiero di aver all'occasione vissuto, ed essere capace di vivere, la vita dei poveri. Una delle Ballate dell'Eye-Witness, che non fu mai pubblicata, descriveva il vagabondare all'estero in tal modo:
 
-  [[Sleep|Dormire]] e fiutare l'incenso del catrame,
-  Destarsi e mirare le albe italiane fiammeggianti
-  E sotto il ramo una sola stella,
-  Buon Dio, quanto poco sanno i ricchi.
+[[Sleep|Dormire]] e fiutare l'incenso del catrame,
+Destarsi e mirare le albe italiane fiammeggianti
+E sotto il ramo una sola stella,
+Buon Dio, quanto poco sanno i ricchi.
 
 In questo spirito essi si misero in cammino per tornare a [[Home|casa]] praticamente senza denaro. I loro abiti si sfasciarono e riuscirono a infilarsi in certi camicioni da operai. Non avevano rasoi e non potevano permettersi una rasatura. Devono aver risparmiato il loro ultimo soldo per riattraversare il mare; e poi si misero a camminare da Dover a Rye; dove sapevano risiedere per il momento il loro amico più vicino. Arrivarono, reclamando a gran voce cibo e bevanda e accusandosi beffardamente l'un l'altro di essersi segretamente lavati, in violazione di un contratto implicito fra vagabondi. In tal foggia irruppero sulla tazza di tè in equilibrio e la frase tentativa del signor Henry James.
 
@@ -21388,22 +21388,22 @@ Ma perfino il più sincero puritano del diciassettesimo secolo errava nel suppor
 <span class="atom-split" data-atom="chapter_10--part_06" data-title="GKC-Autobiography — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
 
-  Prince, when I took your goblet tall
-  And smashed it with inebriate care,
-  I knew not how from Rome and Gaul
-  You gained it; I was unaware
-  It stood by Charlemagne's great chair
-  And served St. Peter at High Mass.
-  ... I'm sorry if the thing was rare;
-  I like the noise of breaking glass.
+Prince, when I took your goblet tall
+And smashed it with inebriate care,
+I knew not how from Rome and Gaul
+You gained it; I was unaware
+It stood by Charlemagne's great chair
+And served St. Peter at High Mass.
+... I'm sorry if the thing was rare;
+I like the noise of breaking glass.
 
 It is only just to our happy company to say that we did not confine
 ourselves to saying or singing our own lyrics; though Belloc
 was generally ready to oblige; and the loud and roaring but none
 the less pathetic [[Song|song]] with the [[Chorus|chorus]]:
 
-  And the Gates of Heaven are opening wide
-  To let poor Hilary in
+And the Gates of Heaven are opening wide
+To let poor Hilary in
 
 was first heard, I think, at one of these quiet evenings for
 mutual edification and culture.  But we must have sung a vast
@@ -21496,18 +21496,18 @@ only of [[Magic|magic]], but of black [[Magic|magic]].
 <span class="qlang-split" data-lang="it"></span>
 
 Principe, quando presi il tuo alto calice
-  E lo mandai in frantumi con ebbra cura,
-  Non sapevo come da Roma e dalla Gallia
-  Lo avessi ottenuto; ignoravo
-  Che stette accanto al gran seggio di Carlomagno
-  E servì san Pietro all'Alta Messa.
-  ... Mi spiace se la cosa era rara;
-  Mi piace il rumore del vetro che si rompe.
+E lo mandai in frantumi con ebbra cura,
+Non sapevo come da Roma e dalla Gallia
+Lo avessi ottenuto; ignoravo
+Che stette accanto al gran seggio di Carlomagno
+E servì san Pietro all'Alta Messa.
+... Mi spiace se la cosa era rara;
+Mi piace il rumore del vetro che si rompe.
 
 È solo giusto verso la nostra felice compagnia dire che non ci limitavamo a dire o cantare le nostre proprie liriche; benché Belloc fosse generalmente pronto a compiacere; e la sonora e ruggente ma non per questo meno patetica [[Song|canzone]] col [[Chorus|ritornello]]:
 
-  E le Porte del Cielo si stanno spalancando
-  Per far entrare il povero Hilary
+E le Porte del Cielo si stanno spalancando
+Per far entrare il povero Hilary
 
 fu udita per la prima volta, credo, a una di queste quiete serate di mutua edificazione e cultura. Ma dobbiamo aver cantato un vasto numero delle più belle [[songs|canzoni]] della lingua inglese, di poeti antichi e moderni; e persiste una leggenda che, quando Herbert aveva stanze non lontane da [[Buckingham|Buckingham]] Palace, cantammo «Drake's Drum» con così appassionato patriottismo che [[King|re]] Edoardo VII mandò a chiedere che il rumore cessasse.
 
@@ -22383,10 +22383,10 @@ and all the powers of the scientific mergers and newspaper combines,
 that now rule the State, [[Rose|rose]] slowly into their present power and peace.
 As the [[Ancient Mariner]] remarked, in a moment of [[Melancholy|melancholy]] comparison:
 
-  The many men so beautiful
-  And they all dead did lie;
-  And a thousand thousand slimy things
-  Lived on; and so did I.
+The many men so beautiful
+And they all dead did lie;
+And a thousand thousand slimy things
+Lived on; and so did I.
 
 *****
 
@@ -22405,10 +22405,10 @@ Divenni direttore. Mi sarebbe in qualsiasi [[Time|momento]] parso improbabile o 
 
 È strano, come ho detto, che in breve tempo anche suo fratello fu morto e nella stessa confessione religiosa di quella del mio proprio fratello. Così finì, abbastanza simbolicamente, il grande duello Marconi; e io continuai la direzione del giornale di mio fratello, se così si può chiamare il dirigere; e tutti gli altri finanzieri e politici non mostrarono alcun segno di morire in una qualche [[Faith|fede]], o invero di morire affatto. La Guerra lavorò verso la sua fine, in cui tante vite furono finite; i Tedeschi fecero i loro ultimi vasti e vani assalti e Foch vibrò il suo colpo finale davanti a Châlons, dove la cristianità aveva spezzato gli Unni mille anni prima. Ma in Inghilterra i politici continuarono a irraggiare benevolenza su di noi; nuovi nobili continuarono a [[spring|sbocciare]] alla vita da suoli commerciali alquanto oscuri; vi furono un qualsiasi numero di fiorenti imprese economiche, sostenute da forte pubblicità e magnetica personalità; e tutti i poteri delle fusioni scientifiche e delle combinazioni giornalistiche, che ora reggono lo Stato, [[Rose|salirono]] lentamente al loro presente potere e alla loro presente pace. Come osservò il [[Ancient Mariner|Vecchio Marinaio]], in un momento di [[Melancholy|malinconico]] paragone:
 
-  I molti uomini così belli
-  E tutti giacevano morti;
-  E mille mila cose viscide
-  Vivevano ancora; e così anch'io.
+I molti uomini così belli
+E tutti giacevano morti;
+E mille mila cose viscide
+Vivevano ancora; e così anch'io.
 
 *****
 
@@ -23113,10 +23113,10 @@ Poiché questa era la piuttosto tremenda [[Truth|verità]] su Hardy; che egli av
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="GKC-Autobiography — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
 
-  Who can picture the scene at the starry portals?
-  Truly, [[Imagination|imagination]] fails,
-  When the pitiless President of the Immortals
-  Shows unto Thomas the print of the nails?
+Who can picture the scene at the starry portals?
+Truly, [[Imagination|imagination]] fails,
+When the pitiless President of the Immortals
+Shows unto Thomas the print of the nails?
 
 I [[Hope|hope]] it is not profane to say that this hits the right nail
 on the head.  In such a case, the second Thomas would do exactly
@@ -23234,9 +23234,9 @@ metaphor to use about the real and sincere Swinburne:
 <span class="qlang-split" data-lang="it"></span>
 
 Chi può raffigurare la scena ai portali stellati?
-  Davvero, l'[[Imagination|Immaginazione]] vien meno,
-  Quando lo spietato Presidente degli Immortali
-  Mostra a Thomas l'impronta dei chiodi?
+Davvero, l'[[Imagination|Immaginazione]] vien meno,
+Quando lo spietato Presidente degli Immortali
+Mostra a Thomas l'impronta dei chiodi?
 
 [[Hope|Spero]] non sia profano dire che questo coglie il chiodo giusto sulla testa. In un tal caso, il secondo Thomas farebbe esattamente ciò che [[Prometheus|Prometeo]] e [[Satan|Satana]] non pensarono mai di fare; avrebbe pietà di Dio.
 
@@ -23253,10 +23253,10 @@ Ma ho visto Sir James Barrie molte volte da allora, e potrei dire molte altre co
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="GKC-Autobiography — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
 
-  It is little enough that a man can save
-  In the reach of life, in the tide of [[Time|time]],
-  Who swims in sight of the great third wave,
-  That never a swimmer shall [[Cross|cross]] or climb.
+It is little enough that a man can save
+In the reach of life, in the tide of [[Time|time]],
+Who swims in sight of the great third wave,
+That never a swimmer shall [[Cross|cross]] or climb.
 
 I did not think it had been crossed or climbed in the monstrously
 muddled pantheism of "Hertha"; in which a later Swinburne absurdly
@@ -23285,8 +23285,8 @@ ticket-collector of the Fabian tram called out, "Next stop, Utopia,"
 at which something in me not merely heathen, was always stirred
 to a sympathy with the words of that high heathen genius:
 
-  The troubles of our proud and angry [[Dust|dust]]
-  Are from [[Eternity|eternity]] and shall not fail.
+The troubles of our proud and angry [[Dust|dust]]
+Are from [[Eternity|eternity]] and shall not fail.
 
 As everyone knows, the poet was also a professor, and one
 of the first authorities on the old Pagan literature.
@@ -23367,16 +23367,16 @@ for the silver apples of the [[Moon|moon]] and the golden apples of the sun.
 <span class="qlang-split" data-lang="it"></span>
 
 È ben poco ciò che un uomo può salvare
-  Nella distesa della vita, nella marea del [[Time|Tempo]],
-  Chi nuota in vista della grande terza onda,
-  Che mai nuotatore [[Cross|varcherà]] o scalerà.
+Nella distesa della vita, nella marea del [[Time|Tempo]],
+Chi nuota in vista della grande terza onda,
+Che mai nuotatore [[Cross|varcherà]] o scalerà.
 
 Non pensai che fosse stata varcata o scalata nel mostruosamente confuso panteismo di «Hertha»; in cui un più tardo Swinburne tentò assurdamente di dedurre un'etica rivoluzionaria, del diritto di resistere ai torti, da un monismo cosmico che poteva solo significare che tutte le cose sono egualmente sbagliate o giuste.
 
 Naturalmente, ho notato qui solo un nome o due, perché sono i più famosi; non dico nemmeno che siano i più degni di fama. Ad esempio, supponendo che ciascuno di noi tenga una collezione privata dei suoi pessimisti prediletti, io sono sempre stato più intellettualmente colpito da A. E. Housman che da Thomas Hardy. Non intendo dire di essere stato colpito da chiunque con le pretese intellettuali del pessimismo, che ho sempre ritenuto una scempiaggine non meno [[Well|che]] un [[Poison|veleno]]; ma mi pare che Housman abbia, più di Hardy, una certa autorità della grande letteratura inglese; che è tanto più classica in quanto il suo inglese è un inglese così assai semplice. Non riuscii mai del tutto a digerire Hardy come poeta, per quanto lo ammiri come romanziere; mentre Housman mi pare uno dei uno o due grandi poeti classici del nostro [[Time|tempo]]. Ho avuto sia amici sia compagnia nella scontentezza coi Socialisti; anzi, non ero scontento di loro riguardo alle condizioni di cui essi erano scontenti, ma piuttosto riguardo alle prospettive di cui essi erano contenti. E vi era una sorta di ottimismo ufficiale, quando il collettivista bigliettaio del tram fabiano gridava: «Prossima fermata, Utopia», al che qualcosa in me non meramente pagano, si commuoveva sempre a una simpatia con le parole di quell'alto genio pagano:
 
-  I travagli della nostra fiera e adirata [[Dust|Polvere]]
-  Vengono dall'[[Eternity|Eternità]] e non verranno meno.
+I travagli della nostra fiera e adirata [[Dust|Polvere]]
+Vengono dall'[[Eternity|Eternità]] e non verranno meno.
 
 Come tutti sanno, il poeta era anche un professore, e una delle prime autorità sull'antica letteratura pagana. Custodisco una storia su di lui che si dà il caso riguardi questo [[Double|duplice]] carattere del classico e del poetico. Può essere una storia familiare; può essere una storia falsa. Descrive l'inizio di un discorso dopocena che egli fece a Trinity, Cambridge; e chiunque lo fece o lo inventò aveva un superbo senso dello stile. «Questo grande College, di questa antica Università, ha visto certi strani spettacoli. Ha visto Wordsworth ubriaco e Person sobrio. Ed eccomi qui, poeta migliore di Person, e studioso migliore di Wordsworth, tra l'uno e l'altro». Ma Hardy e Housman, come Henley e Swinburne, e la maggior parte degli altri grandi uomini fra i miei anziani per quel che vale, producevano sulla mia mente una curiosa e nuvolosa impressione di essere tutti un solo sfondo di pessimismo pagano; benché ciò che vi fosse in primo piano, di cui essi erano lo sfondo, non lo sapessi davvero; o almeno ero assai vago. Ma un certo senso di uniformità in queste persone e posizioni assai varie prese la forma, nel mio caso, di farmi [[Wonder|chiedere]] perché fossero così tanto divisi in gruppi letterari; e a cosa servissero i gruppi. Ero sconcertato dalla cultura tagliata in sezioni che non erano nemmeno sette. Colvin teneva una [[Court|corte]], che era assai cortese; Henley ne teneva un'altra, che non era esattamente cortese, o era piena di cortigiani piuttosto turbolenti; nei sobborghi Swinburne era insediato come Sultano e [[Prophet|Profeta]] di Putney, con Watts-Dunton come Gran Visir. E non riuscivo a capire di cosa si trattasse; il [[Prophet|profeta]] non era davvero un comandante dei fedeli perché non vi era alcuna [[Faith|fede]]; e quanto al [[Doubt|dubbio]], esso era egualmente comune a tutti i gruppi rivali dell'epoca. Non riuscivo a capire perché dovesse importare così tanto al signor Watts-Dunton, se Colvin sceglieva di amare un particolare nuovo poeta o Henley sceglieva di detestarne un altro.
 
@@ -23514,15 +23514,15 @@ of which two lines have passed into some popular celebrity:
 of friends;" but in the course of which he also described in more
 detail the ideals of this fastidious fellowship.
 
-  We kept the Rabelaisian plan
-  We dignified the dainty cloisters
-  With Natural Law, the Rights of Man,
-  [[Song]], Stoicism, Wine and Oysters.
+We kept the Rabelaisian plan
+We dignified the dainty cloisters
+With Natural Law, the Rights of Man,
+[[Song]], Stoicism, Wine and Oysters.
 
-  We taught the art of writing things
-  On men we still would like to throttle,
-  And where to get the [[Blood|blood]] of kings
-  At only half-a-[[Crown|crown]] a bottle.
+We taught the art of writing things
+On men we still would like to throttle,
+And where to get the [[Blood|blood]] of kings
+At only half-a-[[Crown|crown]] a bottle.
 
 Of the three other corners of this very Four-Square Gospel of Citizenship,
 that is of Belloc's three constant colleagues in the old Republican club,
@@ -23577,15 +23577,15 @@ Ma non fu la parte superficiale o sciocca o gioviale di me a fare di me un giorn
 
 Nei giorni in cui Belloc era conosciuto da Bentley e Oldershaw, ma non da me, quando erano tutti insieme nel gruppo radicale a [[Oxford]], Belloc stesso frequentava principalmente un gruppo assai più piccolo che si chiamava il Club Repubblicano. Per quanto io possa capire, il Club Repubblicano non consistette mai di più di quattro membri, e generalmente di meno; uno o più di essi essendo stati solennemente espulsi o per Toryismo o per Socialismo. Questo era il club che Belloc celebrò nella bella dedica del suo primo libro; di cui due versi sono passati a una certa popolare celebrità: «Non v'è nulla che valga la spesa del conquistare tranne la risata e l'[[Love|amore]] degli amici»; ma nel corso della quale egli descrisse anche più in dettaglio gli ideali di questo schizzinoso sodalizio.
 
-  Tenemmo il piano rabelaisiano
-  Nobilitammo i delicati chiostri
-  Con la Legge Naturale, i Diritti dell'Uomo,
-  [[Song|Canto]], Stoicismo, Vino e Ostriche.
+Tenemmo il piano rabelaisiano
+Nobilitammo i delicati chiostri
+Con la Legge Naturale, i Diritti dell'Uomo,
+[[Song|Canto]], Stoicismo, Vino e Ostriche.
 
-  Insegnammo l'arte di scrivere cose
-  Su uomini che ancora vorremmo strozzare,
-  E dove ottenere il [[Blood|sangue]] dei re
-  A solo mezza [[Crown|corona]] la bottiglia.
+Insegnammo l'arte di scrivere cose
+Su uomini che ancora vorremmo strozzare,
+E dove ottenere il [[Blood|sangue]] dei re
+A solo mezza [[Crown|corona]] la bottiglia.
 
 Dei tre altri angoli di questo assai Quadrato Vangelo di Cittadinanza, cioè dei tre costanti colleghi di Belloc nel vecchio Club Repubblicano, uno è ancora, credo, un distinto [[Exile|Esule]] e funzionario in Birmania; o come i suoi vecchi amici amavano dire con acri sorrisi di affettuosa [[Resignation|Rassegnazione]], «un Satrapo»; come se egli avesse in qualche modo Medizzato, o condisceso alla barbarie orientale che noi chiamiamo Imperialismo. Non ho alcun [[Doubt|dubbio]] che in effetti egli fosse un felice e altamente soddisfacente Satrapo; ma era il solo membro del gruppo che io non incontrai mai. Gli altri due Repubblicani, che erano gli amici più intimi di Belloc a [[Oxford]], hanno entrambi in modi diversi recitato una parte considerevole nella mia stessa vita. Uno era John Swinnerton Phillimore, figlio del vecchio Ammiraglio il cui nome fece una sorta di sfondo per la Kensington della mia fanciullezza, poi Professore di Latino all'Università di Glasgow e una delle prime autorità classiche del suo [[Time|tempo]]; ora, ahimè, soltanto una [[Memory|memoria]] sempre più profonda. L'altro era Francis Yvon Eccles, il distinto studioso francese, che ora incontro fin troppo di rado a causa della sua gravitazione verso il vivere in Francia.
 
@@ -23730,10 +23730,10 @@ of their array."  Whoever heard of the Comrades of the [[Dawn]] having
 so complicated an idea as that of turning the enemy's flank?
 Then comes the encirclement:
 
-  And press them inward from the plains
-  And drive them clamouring down the lanes,
-  And gallop and harry and have them down,
-  And carry the gates and hold the town.
+And press them inward from the plains
+And drive them clamouring down the lanes,
+And gallop and harry and have them down,
+And carry the gates and hold the town.
 
 The Pursuit; and then the Holding of the Bridgehead.
 
@@ -23834,10 +23834,10 @@ is in plain fact a Fugitive Slave Law.
 
 Quello non è un [[Song|Canto]] Prima dell'Aurora. Quello è un attacco prima dell'aurora. Ma il punto peculiare che desidero notare qui, appare nel verso precedente sulla reale [[Nature|natura]] dell'attacco. È la sola poesia rivoluzionaria che io abbia mai letto, che suggerisse che vi fosse un qualche piano per sferrare un qualche attacco. I primi due versi della strofa recitano: «Quando li troveremo dove stanno, un miglio di uomini per lato?». I Compagni dell'[[Dawn|Alba]] parevano sempre marciare in colonna, e cantare. Non parevano mai aver sentito parlare dello spiegarsi; nella lunga linea che fronteggia il nemico per la battaglia. I due versi successivi sono: «Intendo caricare da destra senz'indugio, e forzare i fianchi della loro schiera». Chi mai udì che i Compagni dell'[[Dawn|Alba]] avessero un'idea così complicata come quella di aggirare il fianco del nemico? Poi viene l'accerchiamento:
 
-  E premerli dentro dalle pianure
-  E spingerli clamorosi giù per i viottoli,
-  E galoppare e tormentare e abbatterli,
-  E prendere le porte e tenere la città.
+E premerli dentro dalle pianure
+E spingerli clamorosi giù per i viottoli,
+E galoppare e tormentare e abbatterli,
+E prendere le porte e tenere la città.
 
 L'Inseguimento; e poi la Tenuta della Testa di Ponte.
 
@@ -24069,8 +24069,8 @@ Uno degli eventi più divertenti della mia vita avvenne quando presiedetti a una
 <span class="atom-split" data-atom="chapter_14--part_06" data-title="GKC-Autobiography — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
 
-  And sacramental raise me the divine
-  Strong brother in God and last companion, wine.
+And sacramental raise me the divine
+Strong brother in God and last companion, wine.
 
 I merely said a few words to the effect that such a ceremony
 might have been as fitting thousands of years ago, at the festival
@@ -24154,10 +24154,10 @@ in a merely personal spirit, to the many things that were said
 that [[Night|night]] about Hilaire Belloc; and I should not have been ashamed
 if the words had sounded like a vaunt:
 
-  Nor without [[Honour|honour]] my days ran,
-  Nor yet without a boast shall end;
-  for I was Shakespeare's countryman
-  And were not you my friend.
+Nor without [[Honour|honour]] my days ran,
+Nor yet without a boast shall end;
+for I was Shakespeare's countryman
+And were not you my friend.
 
 *****
 
@@ -24165,7 +24165,7 @@ if the words had sounded like a vaunt:
 <span class="qlang-split" data-lang="it"></span>
 
 E sacramentalmente lévami il divino
-  Forte fratello in Dio e ultimo compagno, il vino.
+Forte fratello in Dio e ultimo compagno, il vino.
 
 Dissi soltanto poche parole nel senso che una tale cerimonia avrebbe potuto essere altrettanto adatta migliaia di anni fa, al festival di un grande poeta greco; e che ero fiducioso che i sonetti e i forti versi di Belloc sarebbero rimasti come le coppe e le scolpite epopee dei Greci. Egli lo riconobbe brevemente, con un triste buon [[Humour|umore]], dicendo che trovava che, all'età di sessant'anni, non gli importava molto se i suoi versi rimanessero o no. «Ma mi si dice», aggiunse con enfasi d'improvviso rivivente, «mi si dice che si comincia a curarsene di nuovo terribilmente quando si hanno settant'anni. Nel qual caso, [[Hope|spero]] di morire a sessantanove». E poi ci accomodammo al banchetto dei vecchi amici, che doveva essere così felice perché non vi erano discorsi.
 
@@ -24173,10 +24173,10 @@ Verso la fine della cena qualcuno mi sussurrò che sarebbe stato forse meglio se
 
 Io stesso non feci un altro discorso; benché fossi tutt'altro che convinto che vi fosse stato troppo discorseggiare. Solo certe parole frammentarie, una [[Memory|memoria]] di un tardo poeta vittoriano che conosco, Sir William Watson, fluttuarono sulla superficie della mia mente; ed erano quelle parole che avrei detto, se avessi detto qualcosa. Poiché ciò che il poeta disse al suo amico è tutto ciò che avrei potuto aggiungere, in spirito meramente personale, alle molte cose che furono dette quella [[Night|notte]] su Hilaire Belloc; e non mi sarei vergognato se le parole fossero suonate come un vanto:
 
-  Né senza [[Honour|Onore]] corsero i miei giorni,
-  Né senza un vanto finiranno;
-  poiché io fui compatriota di Shakespeare
-  E non eravate voi mio amico.
+Né senza [[Honour|Onore]] corsero i miei giorni,
+Né senza un vanto finiranno;
+poiché io fui compatriota di Shakespeare
+E non eravate voi mio amico.
 
 *****
 
@@ -25728,10 +25728,10 @@ in my later days; but they are not only both wrong, but both wrong
 because the same thing is right.  The pessimists of my boyhood,
 when confronted with the dandelion, said with Swinburne:
 
-  I am weary of all hours
-  Blown buds and barren [[Flowers|flowers]]
-  Desires and [[Dreams|dreams]] and powers
-  And everything but [[Sleep|sleep]].
+I am weary of all hours
+Blown buds and barren [[Flowers|flowers]]
+Desires and [[Dreams|dreams]] and powers
+And everything but [[Sleep|sleep]].
 
 And at this I cursed them and kicked at them and made an exhibition
 of myself; having made myself the champion of the [[Lion]]'s Tooth,
@@ -25845,10 +25845,10 @@ dei miei giorni più tardi; ma non sono solo entrambi sbagliati, bensì entrambi
 perché la stessa cosa è giusta. I pessimisti della mia fanciullezza,
 di fronte al tarassaco, dicevano con Swinburne:
 
-  Sono stanco di tutte le ore
-  Boccioli spirati e sterili [[Flowers|Fiori]]
-  Desideri e [[Dreams|Sogni]] e poteri
-  E ogni cosa tranne il [[Sleep|Sonno]].
+Sono stanco di tutte le ore
+Boccioli spirati e sterili [[Flowers|Fiori]]
+Desideri e [[Dreams|Sogni]] e poteri
+E ogni cosa tranne il [[Sleep|Sonno]].
 
 E a questo li maledicevo e sferravo loro calci e facevo di me stesso
 uno spettacolo; essendomi fatto il campione del Dente del [[Lion|Leone]],

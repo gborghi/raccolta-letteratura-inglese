@@ -35,7 +35,7 @@ not only the shape and bulk and binding, but even the position
 of the printed words on many of the pages.  On the whole,
 I incline to the opinion that it happened to me before I was born.
 
-			* * * * *
+* * * * *
 
 At any rate, let us tell the story now with all the advantages
 of the atmosphere that has clung to it.  You may suppose me,
@@ -153,21 +153,21 @@ so perfectly still I knew somehow that he was not of this world.
 And the [[Stars|stars]] behind his head were larger and fiercer than ought
 to be endured by the eyes of men.
 
-"`If you are a kind angel,' I said, `or a wise devil, or have
+"‘If you are a kind angel,' I said, ‘or a wise devil, or have
 anything in common with mankind, tell me what is this street
 possessed of devils.'
 
-"After a long [[Silence|silence]] he said, `What do you say that it is?'
+"After a long [[Silence|silence]] he said, ‘What do you say that it is?'
 
-"`It is Bumpton Street, of course,' I snapped.  `It goes
+"‘It is Bumpton Street, of course,' I snapped.  ‘It goes
 to Oldgate Station.'
 
-"`Yes, he admitted gravely; `it goes there sometimes.
+"‘Yes, he admitted gravely; ‘it goes there sometimes.
 Just now, however, it is going to heaven.'
 
-"`To heaven?'  I said.  `Why?'
+"‘To heaven?'  I said.  ‘Why?'
 
-"`It is going to heaven for justice,' he replied.
+"‘It is going to heaven for justice,' he replied.
 'You must have treated it badly.  Remember always that there
 is one thing that cannot be endured by anybody or anything.
 That one unendurable thing is to be overworked and also neglected.
@@ -187,20 +187,20 @@ its head to heaven.  Have you never sat on a bucking [[Horse|horse]]?'
 
 "I looked at the long grey street, and for a moment it seemed to me
 to be exactly like the long grey neck of a [[Horse|horse]] flung up to heaven.
-But in a moment my [[Sanity|sanity]] returned, and I said, `But this
+But in a moment my [[Sanity|sanity]] returned, and I said, ‘But this
 is all nonsense.  Streets go to the place they have to go.
 A street must always go to its end.'
 
-"`Why do you think so of a street?' he asked, standing very still.
+"‘Why do you think so of a street?' he asked, standing very still.
 
-"`Because I have always seen it do the same thing,' I replied,
-in reasonable anger.  `Day after day, year after year, it has
+"‘Because I have always seen it do the same thing,' I replied,
+in reasonable anger.  ‘Day after day, year after year, it has
 always gone to Oldgate Station; day after . . .'
 
 "I stopped, for he had flung up his head with the fury of
 the [[Road|road]] in revolt.
 
-"`And you?' he cried terribly.  `What do you think the [[Road|road]]
+"‘And you?' he cried terribly.  ‘What do you think the [[Road|road]]
 thinks of you?  Does the [[Road|road]] think you are alive?
 Are you alive?  Day after day, year after year, you have
 gone to Oldgate Station . . .' Since then I have respected
@@ -238,7 +238,7 @@ not only the shape and bulk and binding, but even the position
 of the printed words on many of the pages.  On the whole,
 I incline to the opinion that it happened to me before I was born.
 
-			* * * * *
+* * * * *
 
 At any rate, let us tell the story now with all the advantages
 of the atmosphere that has clung to it.  You may suppose me,
@@ -324,7 +324,7 @@ non solo la forma, la mole e la rilegatura, ma perfino la posizione
 delle parole stampate su molte delle pagine.  Nel complesso,
 propendo per l'opinione che mi sia accaduto prima di nascere.
 
-			* * * * *
+* * * * *
 
 A ogni modo, raccontiamo ora la storia con tutti i vantaggi
 dell'atmosfera che le è rimasta attaccata.  Potete immaginarmi,
@@ -447,21 +447,21 @@ so perfectly still I knew somehow that he was not of this world.
 And the [[Stars|stars]] behind his head were larger and fiercer than ought
 to be endured by the eyes of men.
 
-"`If you are a kind angel,' I said, `or a wise devil, or have
+"‘If you are a kind angel,' I said, ‘or a wise devil, or have
 anything in common with mankind, tell me what is this street
 possessed of devils.'
 
-"After a long [[Silence|silence]] he said, `What do you say that it is?'
+"After a long [[Silence|silence]] he said, ‘What do you say that it is?'
 
-"`It is Bumpton Street, of course,' I snapped.  `It goes
+"‘It is Bumpton Street, of course,' I snapped.  ‘It goes
 to Oldgate Station.'
 
-"`Yes, he admitted gravely; `it goes there sometimes.
+"‘Yes, he admitted gravely; ‘it goes there sometimes.
 Just now, however, it is going to heaven.'
 
-"`To heaven?'  I said.  `Why?'
+"‘To heaven?'  I said.  ‘Why?'
 
-"`It is going to heaven for justice,' he replied.
+"‘It is going to heaven for justice,' he replied.
 'You must have treated it badly.  Remember always that there
 is one thing that cannot be endured by anybody or anything.
 That one unendurable thing is to be overworked and also neglected.
@@ -481,20 +481,20 @@ its head to heaven.  Have you never sat on a bucking [[Horse|horse]]?'
 
 "I looked at the long grey street, and for a moment it seemed to me
 to be exactly like the long grey neck of a [[Horse|horse]] flung up to heaven.
-But in a moment my [[Sanity|sanity]] returned, and I said, `But this
+But in a moment my [[Sanity|sanity]] returned, and I said, ‘But this
 is all nonsense.  Streets go to the place they have to go.
 A street must always go to its end.'
 
-"`Why do you think so of a street?' he asked, standing very still.
+"‘Why do you think so of a street?' he asked, standing very still.
 
-"`Because I have always seen it do the same thing,' I replied,
-in reasonable anger.  `Day after day, year after year, it has
+"‘Because I have always seen it do the same thing,' I replied,
+in reasonable anger.  ‘Day after day, year after year, it has
 always gone to Oldgate Station; day after . . .'
 
 "I stopped, for he had flung up his head with the fury of
 the [[Road|road]] in revolt.
 
-"`And you?' he cried terribly.  `What do you think the [[Road|road]]
+"‘And you?' he cried terribly.  ‘What do you think the [[Road|road]]
 thinks of you?  Does the [[Road|road]] think you are alive?
 Are you alive?  Day after day, year after year, you have
 gone to Oldgate Station . . .' Since then I have respected

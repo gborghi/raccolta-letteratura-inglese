@@ -15,949 +15,949 @@ tags:
 
 Some years ago, I engaged passage from Charleston, S. C., to the
 
-      [[City|city]] of [[New York]], in the fine packet-[[Ship|ship]] “Independence,” Captain
+[[City|city]] of [[New York]], in the fine packet-[[Ship|ship]] “Independence,” Captain
 
-      Hardy. We were to sail on the fifteenth of the month (June),
+Hardy. We were to sail on the fifteenth of the month (June),
 
-      weather permitting; and on the fourteenth, I went on board to
+weather permitting; and on the fourteenth, I went on board to
 
-      arrange some matters in my state-room.
+arrange some matters in my state-room.
 
 
 
-      I found that we were to have a great many passengers, including a
+I found that we were to have a great many passengers, including a
 
-      more than usual number of ladies. On the list were several of my
+more than usual number of ladies. On the list were several of my
 
-      acquaintances, and among other names, I was rejoiced to see that
+acquaintances, and among other names, I was rejoiced to see that
 
-      of Mr. Cornelius Wyatt, a young [[artist]], for whom I entertained
+of Mr. Cornelius Wyatt, a young [[artist]], for whom I entertained
 
-      feelings of warm [[Friendship|friendship]]. He had been with me a fellow-student
+feelings of warm [[Friendship|friendship]]. He had been with me a fellow-student
 
-      at C—— University, where we were very much together. He had the
+at C—— University, where we were very much together. He had the
 
-      ordinary temperament of genius, and was a compound of
+ordinary temperament of genius, and was a compound of
 
-      [[Misanthropy|misanthropy]], sensibility, and enthusiasm. To these qualities he
+[[Misanthropy|misanthropy]], sensibility, and enthusiasm. To these qualities he
 
-      united the warmest and truest heart which ever beat in a human
+united the warmest and truest heart which ever beat in a human
 
-      bosom.
+bosom.
 
 
 
-      I observed that his name was carded upon three state-rooms; and,
+I observed that his name was carded upon three state-rooms; and,
 
-      upon again referring to the list of passengers, I found that he
+upon again referring to the list of passengers, I found that he
 
-      had engaged passage for himself, wife, and two sisters—his own.
+had engaged passage for himself, wife, and two sisters—his own.
 
-      The state-rooms were sufficiently roomy, and each had two berths,
+The state-rooms were sufficiently roomy, and each had two berths,
 
-      one above the other. These berths, to be sure, were so
+one above the other. These berths, to be sure, were so
 
-      exceedingly narrow as to be insufficient for more than one
+exceedingly narrow as to be insufficient for more than one
 
-      person; still, I could not comprehend why there were three
+person; still, I could not comprehend why there were three
 
-      state-rooms for these four persons. I was, just at that epoch, in
+state-rooms for these four persons. I was, just at that epoch, in
 
-      one of those moody frames of mind which make a man abnormally
+one of those moody frames of mind which make a man abnormally
 
-      inquisitive about trifles: and I confess, with shame, that I
+inquisitive about trifles: and I confess, with shame, that I
 
-      busied myself in a variety of ill-bred and preposterous
+busied myself in a variety of ill-bred and preposterous
 
-      conjectures about this matter of the supernumerary state-room. It
+conjectures about this matter of the supernumerary state-room. It
 
-      was no business of mine, to be sure, but with none the less
+was no business of mine, to be sure, but with none the less
 
-      pertinacity did I occupy myself in attempts to resolve the
+pertinacity did I occupy myself in attempts to resolve the
 
-      enigma. At last I reached a conclusion which wrought in me great
+enigma. At last I reached a conclusion which wrought in me great
 
-      [[Wonder|wonder]] why I had not arrived at it before. “It is a servant of
+[[Wonder|wonder]] why I had not arrived at it before. “It is a servant of
 
-      course,” I said; “what a [[Fool|fool]] I am, not sooner to have thought of
+course,” I said; “what a [[Fool|fool]] I am, not sooner to have thought of
 
-      so obvious a solution!” And then I again repaired to the list—but
+so obvious a solution!” And then I again repaired to the list—but
 
-      here I saw distinctly that no servant was to come with the party,
+here I saw distinctly that no servant was to come with the party,
 
-      although, in fact, it had been the original design to bring
+although, in fact, it had been the original design to bring
 
-      one—for the words “and servant” had been first written and then
+one—for the words “and servant” had been first written and then
 
-      overscored. “Oh, extra baggage, to be sure,” I now said to
+overscored. “Oh, extra baggage, to be sure,” I now said to
 
-      myself—“something he wishes not to be put in the hold—something
+myself—“something he wishes not to be put in the hold—something
 
-      to be kept under his own eye—ah, I have it—a painting or so—and
+to be kept under his own eye—ah, I have it—a painting or so—and
 
-      this is what he has been bargaining about with Nicolino, the
+this is what he has been bargaining about with Nicolino, the
 
-      Italian Jew.” This idea satisfied me, and I dismissed my
+Italian Jew.” This idea satisfied me, and I dismissed my
 
-      curiosity for the nonce.
+curiosity for the nonce.
 
 
 
-      Wyatt’s two sisters I knew very [[Well|well]], and most amiable and clever
+Wyatt’s two sisters I knew very [[Well|well]], and most amiable and clever
 
-      girls they were. His wife he had newly married, and I had never
+girls they were. His wife he had newly married, and I had never
 
-      yet seen her. He had often talked about her in my presence,
+yet seen her. He had often talked about her in my presence,
 
-      however, and in his usual style of enthusiasm. He described her
+however, and in his usual style of enthusiasm. He described her
 
-      as of surpassing [[Beauty|beauty]], wit, and accomplishment. I was,
+as of surpassing [[Beauty|beauty]], wit, and accomplishment. I was,
 
-      therefore, quite anxious to make her acquaintance.
+therefore, quite anxious to make her acquaintance.
 
 
 
-      On the day in which I visited the [[Ship|ship]] (the fourteenth), Wyatt
+On the day in which I visited the [[Ship|ship]] (the fourteenth), Wyatt
 
-      and party were also to visit it—so the captain informed me—and I
+and party were also to visit it—so the captain informed me—and I
 
-      waited on board an hour longer than I had designed, in [[Hope|hope]] of
+waited on board an hour longer than I had designed, in [[Hope|hope]] of
 
-      being presented to the bride, but then an apology came. “Mrs. W.
+being presented to the bride, but then an apology came. “Mrs. W.
 
-      was a little indisposed, and would decline coming on board until
+was a little indisposed, and would decline coming on board until
 
-      to-morrow, at the hour of sailing.”
+to-morrow, at the hour of sailing.”
 
 
 
-      The morrow having arrived, I was going from my hotel to the
+The morrow having arrived, I was going from my hotel to the
 
-      wharf, when Captain Hardy met me and said that, “owing to
+wharf, when Captain Hardy met me and said that, “owing to
 
-      circumstances” (a stupid but convenient phrase), “he rather
+circumstances” (a stupid but convenient phrase), “he rather
 
-      thought the ‘Independence’ would not sail for a day or two, and
+thought the ‘Independence’ would not sail for a day or two, and
 
-      that when all was ready, he would send up and let me know.” This
+that when all was ready, he would send up and let me know.” This
 
-      I thought strange, for there was a stiff southerly breeze; but as
+I thought strange, for there was a stiff southerly breeze; but as
 
-      “the circumstances” were not forthcoming, although I pumped for
+“the circumstances” were not forthcoming, although I pumped for
 
-      them with much perseverance, I had nothing to do but to return
+them with much perseverance, I had nothing to do but to return
 
-      [[Home|home]] and digest my impatience at leisure.
+[[Home|home]] and digest my impatience at leisure.
 
 
 
-      I did not receive the expected message from the captain for
+I did not receive the expected message from the captain for
 
-      nearly a week. It came at length, however, and I immediately went
+nearly a week. It came at length, however, and I immediately went
 
-      on board. The [[Ship|ship]] was crowded with passengers, and every thing
+on board. The [[Ship|ship]] was crowded with passengers, and every thing
 
-      was in the bustle attendant upon making sail. Wyatt’s party
+was in the bustle attendant upon making sail. Wyatt’s party
 
-      arrived in about ten minutes after myself. There were the two
+arrived in about ten minutes after myself. There were the two
 
-      sisters, the bride, and the [[artist]]—the latter in one of his
+sisters, the bride, and the [[artist]]—the latter in one of his
 
-      customary fits of moody [[Misanthropy|misanthropy]]. I was too [[Well|well]] used to
+customary fits of moody [[Misanthropy|misanthropy]]. I was too [[Well|well]] used to
 
-      these, however, to pay them any special attention. He did not
+these, however, to pay them any special attention. He did not
 
-      even introduce me to his wife—this courtesy devolving, per force,
+even introduce me to his wife—this courtesy devolving, per force,
 
-      upon his sister Marian—a very sweet and intelligent girl, who, in
+upon his sister Marian—a very sweet and intelligent girl, who, in
 
-      a few hurried words, made us acquainted.
+a few hurried words, made us acquainted.
 
 
 
-      Mrs. Wyatt had been closely veiled; and when she raised her veil,
+Mrs. Wyatt had been closely veiled; and when she raised her veil,
 
-      in acknowledging my bow, I confess that I was very profoundly
+in acknowledging my bow, I confess that I was very profoundly
 
-      astonished. I should have been much more so, however, had not
+astonished. I should have been much more so, however, had not
 
-      long experience advised me not to trust, with too implicit a
+long experience advised me not to trust, with too implicit a
 
-      reliance, the enthusiastic descriptions of my friend, the [[artist]],
+reliance, the enthusiastic descriptions of my friend, the [[artist]],
 
-      when indulging in comments upon the loveliness of woman. When
+when indulging in comments upon the loveliness of woman. When
 
-      [[Beauty|beauty]] was the theme, I [[Well|well]] knew with what facility he soared
+[[Beauty|beauty]] was the theme, I [[Well|well]] knew with what facility he soared
 
-      into the regions of the purely ideal.
+into the regions of the purely ideal.
 
 
 
-      The [[Truth|truth]] is, I could not help regarding Mrs. Wyatt as a
+The [[Truth|truth]] is, I could not help regarding Mrs. Wyatt as a
 
-      decidedly plain-looking woman. If not positively ugly, she was
+decidedly plain-looking woman. If not positively ugly, she was
 
-      not, I think, very far from it. She was dressed, however, in
+not, I think, very far from it. She was dressed, however, in
 
-      exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
+exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
 
-      my friend’s heart by the more enduring graces of the intellect
+my friend’s heart by the more enduring graces of the intellect
 
-      and [[Soul|soul]]. She said very few words, and passed at once into her
+and [[Soul|soul]]. She said very few words, and passed at once into her
 
-      state-room with Mr. W.
+state-room with Mr. W.
 
 
 
-      My old inquisitiveness now returned. There was no servant—that
+My old inquisitiveness now returned. There was no servant—that
 
-      was a settled point. I looked, therefore, for the extra baggage.
+was a settled point. I looked, therefore, for the extra baggage.
 
-      After some delay, a cart arrived at the wharf, with an oblong
+After some delay, a cart arrived at the wharf, with an oblong
 
-      pine box, which was every thing that seemed to be expected.
+pine box, which was every thing that seemed to be expected.
 
-      Immediately upon its arrival we made sail, and in a short [[Time|time]]
+Immediately upon its arrival we made sail, and in a short [[Time|time]]
 
-      were safely over the bar and standing out to sea.
+were safely over the bar and standing out to sea.
 
 
 
-      The box in question was, as I say, oblong. It was about six feet
+The box in question was, as I say, oblong. It was about six feet
 
-      in length by two and a half in breadth; I observed it
+in length by two and a half in breadth; I observed it
 
-      attentively, and like to be precise. Now this shape was peculiar;
+attentively, and like to be precise. Now this shape was peculiar;
 
-      and no sooner had I seen it, than I took credit to myself for the
+and no sooner had I seen it, than I took credit to myself for the
 
-      accuracy of my guessing. I had reached the conclusion, it will be
+accuracy of my guessing. I had reached the conclusion, it will be
 
-      remembered, that the extra baggage of my friend, the [[artist]],
+remembered, that the extra baggage of my friend, the [[artist]],
 
-      would prove to be pictures, or at least a picture; for I knew he
+would prove to be pictures, or at least a picture; for I knew he
 
-      had been for several weeks in conference with Nicolino:—and now
+had been for several weeks in conference with Nicolino:—and now
 
-      here was a box, which, from its shape, could possibly contain
+here was a box, which, from its shape, could possibly contain
 
-      nothing in the world but a copy of Leonardo’s “Last Supper;” and
+nothing in the world but a copy of Leonardo’s “Last Supper;” and
 
-      a copy of this very “Last Supper,” done by Rubini the younger, at
+a copy of this very “Last Supper,” done by Rubini the younger, at
 
-      Florence, I had known, for some [[Time|time]], to be in the possession of
+Florence, I had known, for some [[Time|time]], to be in the possession of
 
-      Nicolino. This point, therefore, I considered as sufficiently
+Nicolino. This point, therefore, I considered as sufficiently
 
-      settled. I chuckled excessively when I thought of my acumen. It
+settled. I chuckled excessively when I thought of my acumen. It
 
-      was the first [[Time|time]] I had ever known Wyatt to keep from me any of
+was the first [[Time|time]] I had ever known Wyatt to keep from me any of
 
-      his artistical [[Secrets|secrets]]; but here he evidently intended to steal a
+his artistical [[Secrets|secrets]]; but here he evidently intended to steal a
 
-      march upon me, and smuggle a fine picture to [[New York]], under my
+march upon me, and smuggle a fine picture to [[New York]], under my
 
-      very nose; expecting me to know nothing of the matter. I resolved
+very nose; expecting me to know nothing of the matter. I resolved
 
-      to quiz him [[Well|well]], now and hereafter.
+to quiz him [[Well|well]], now and hereafter.
 
 
 
-      One thing, however, annoyed me not a little. The box did not go
+One thing, however, annoyed me not a little. The box did not go
 
-      into the extra state-room. It was deposited in Wyatt’s own; and
+into the extra state-room. It was deposited in Wyatt’s own; and
 
-      there, too, it remained, occupying very nearly the whole of the
+there, too, it remained, occupying very nearly the whole of the
 
-      floor—no [[Doubt|doubt]] to the exceeding discomfort of the [[artist]] and his
+floor—no [[Doubt|doubt]] to the exceeding discomfort of the [[artist]] and his
 
-      wife;—this the more especially as the tar or paint with which it
+wife;—this the more especially as the tar or paint with which it
 
-      was lettered in sprawling capitals, emitted a strong,
+was lettered in sprawling capitals, emitted a strong,
 
-      disagreeable, and, to my fancy, a peculiarly disgusting odor. On
+disagreeable, and, to my fancy, a peculiarly disgusting odor. On
 
-      the lid were painted the words—“Mrs. Adelaide Curtis, Albany, New
+the lid were painted the words—“Mrs. Adelaide Curtis, Albany, New
 
-      York. Charge of Cornelius Wyatt, Esq. This side up. To be handled
+York. Charge of Cornelius Wyatt, Esq. This side up. To be handled
 
-      with care.”
+with care.”
 
 
 
-      Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
+Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
 
-      [[artist]]’s wife’s mother,—but then I looked upon the whole address
+[[artist]]’s wife’s mother,—but then I looked upon the whole address
 
-      as a [[Mystification|mystification]], intended especially for myself. I made up my
+as a [[Mystification|mystification]], intended especially for myself. I made up my
 
-      mind, of course, that the box and contents would never get
+mind, of course, that the box and contents would never get
 
-      farther north than the studio of my misanthropic friend, in
+farther north than the studio of my misanthropic friend, in
 
-      Chambers Street, [[New York]].
+Chambers Street, [[New York]].
 
 
 
-      For the first three or four days we had fine weather, although
+For the first three or four days we had fine weather, although
 
-      the [[Wind|wind]] was dead ahead; having chopped round to the northward,
+the [[Wind|wind]] was dead ahead; having chopped round to the northward,
 
-      immediately upon our losing sight of the coast. The passengers
+immediately upon our losing sight of the coast. The passengers
 
-      were, consequently, in high spirits and disposed to be social. I
+were, consequently, in high spirits and disposed to be social. I
 
-      must except, however, Wyatt and his sisters, who behaved stiffly,
+must except, however, Wyatt and his sisters, who behaved stiffly,
 
-      and, I could not help thinking, uncourteously to the rest of the
+and, I could not help thinking, uncourteously to the rest of the
 
-      party. Wyatt’s conduct I did not so much regard. He was gloomy,
+party. Wyatt’s conduct I did not so much regard. He was gloomy,
 
-      even beyond his usual habit—in fact he was morose—but in him I
+even beyond his usual habit—in fact he was morose—but in him I
 
-      was prepared for eccentricity. For the sisters, however, I could
+was prepared for eccentricity. For the sisters, however, I could
 
-      make no excuse. They secluded themselves in their staterooms
+make no excuse. They secluded themselves in their staterooms
 
-      during the greater part of the passage, and absolutely refused,
+during the greater part of the passage, and absolutely refused,
 
-      although I repeatedly urged them, to hold communication with any
+although I repeatedly urged them, to hold communication with any
 
-      person on board.
+person on board.
 
 
 
-      Mrs. Wyatt herself was far more agreeable. That is to say, she
+Mrs. Wyatt herself was far more agreeable. That is to say, she
 
-      was chatty; and to be chatty is no slight recommendation at sea.
+was chatty; and to be chatty is no slight recommendation at sea.
 
-      She became excessively intimate with most of the ladies; and, to
+She became excessively intimate with most of the ladies; and, to
 
-      my profound astonishment, evinced no equivocal disposition to
+my profound astonishment, evinced no equivocal disposition to
 
-      coquet with the men. She amused us all very much. I say
+coquet with the men. She amused us all very much. I say
 
-      “amused”—and scarcely know how to explain myself. The [[Truth|truth]] is, I
+“amused”—and scarcely know how to explain myself. The [[Truth|truth]] is, I
 
-      soon found that Mrs. W. was far oftener laughed at than with. The
+soon found that Mrs. W. was far oftener laughed at than with. The
 
-      gentlemen said little about her; but the ladies, in a little
+gentlemen said little about her; but the ladies, in a little
 
-      while, pronounced her “a good-hearted thing, rather indifferent
+while, pronounced her “a good-hearted thing, rather indifferent
 
-      looking, totally uneducated, and decidedly vulgar.” The great
+looking, totally uneducated, and decidedly vulgar.” The great
 
-      [[Wonder|wonder]] was, how Wyatt had been entrapped into such a match.
+[[Wonder|wonder]] was, how Wyatt had been entrapped into such a match.
 
-      Wealth was the general solution—but this I knew to be no solution
+Wealth was the general solution—but this I knew to be no solution
 
-      at all; for Wyatt had told me that she neither brought him a
+at all; for Wyatt had told me that she neither brought him a
 
-      dollar nor had any expectations from any source whatever. “He had
+dollar nor had any expectations from any source whatever. “He had
 
-      married,” he said, “for [[Love|love]], and for [[Love|love]] only; and his bride
+married,” he said, “for [[Love|love]], and for [[Love|love]] only; and his bride
 
-      was far more than worthy of his [[Love|love]].” When I thought of these
+was far more than worthy of his [[Love|love]].” When I thought of these
 
-      expressions, on the part of my friend, I confess that I felt
+expressions, on the part of my friend, I confess that I felt
 
-      indescribably puzzled. Could it be possible that he was taking
+indescribably puzzled. Could it be possible that he was taking
 
-      leave of his senses? What else could I think? He, so refined, so
+leave of his senses? What else could I think? He, so refined, so
 
-      intellectual, so fastidious, with so exquisite a perception of
+intellectual, so fastidious, with so exquisite a perception of
 
-      the faulty, and so keen an appreciation of the beautiful! To be
+the faulty, and so keen an appreciation of the beautiful! To be
 
-      sure, the lady seemed especially fond of him—particularly so in
+sure, the lady seemed especially fond of him—particularly so in
 
-      his absence—when she made herself ridiculous by frequent
+his absence—when she made herself ridiculous by frequent
 
-      quotations of what had been said by her “beloved husband, Mr.
+quotations of what had been said by her “beloved husband, Mr.
 
-      Wyatt.” The word “husband” seemed forever—to use one of her own
+Wyatt.” The word “husband” seemed forever—to use one of her own
 
-      delicate expressions—forever “on the tip of her tongue.” In the
+delicate expressions—forever “on the tip of her tongue.” In the
 
-      meantime, it was observed by all on board, that he avoided her in
+meantime, it was observed by all on board, that he avoided her in
 
-      the most pointed manner, and, for the most part, shut himself up
+the most pointed manner, and, for the most part, shut himself up
 
-      [[Alone|alone]] in his state-room, where, in fact, he might have been said
+[[Alone|alone]] in his state-room, where, in fact, he might have been said
 
-      to live altogether, leaving his wife at full liberty to amuse
+to live altogether, leaving his wife at full liberty to amuse
 
-      herself as she thought best, in the public society of the main
+herself as she thought best, in the public society of the main
 
-      cabin.
+cabin.
 
 
 
-      My conclusion, from what I saw and heard, was, that, the [[artist]],
+My conclusion, from what I saw and heard, was, that, the [[artist]],
 
-      by some unaccountable freak of fate, or perhaps in some fit of
+by some unaccountable freak of fate, or perhaps in some fit of
 
-      enthusiastic and fanciful passion, had been induced to unite
+enthusiastic and fanciful passion, had been induced to unite
 
-      himself with a person altogether beneath him, and that the
+himself with a person altogether beneath him, and that the
 
-      natural result, entire and speedy disgust, had ensued. I pitied
+natural result, entire and speedy disgust, had ensued. I pitied
 
-      him from the [[Bottom|bottom]] of my heart—but could not, for that reason,
+him from the [[Bottom|bottom]] of my heart—but could not, for that reason,
 
-      quite forgive his incommunicativeness in the matter of the “Last
+quite forgive his incommunicativeness in the matter of the “Last
 
-      Supper.” For this I resolved to have my [[Revenge|revenge]].
+Supper.” For this I resolved to have my [[Revenge|revenge]].
 
 
 
-      One day he came upon deck, and, taking his arm as had been my
+One day he came upon deck, and, taking his arm as had been my
 
-      wont, I sauntered with him backward and forward. His gloom,
+wont, I sauntered with him backward and forward. His gloom,
 
-      however (which I considered quite natural under the
+however (which I considered quite natural under the
 
-      circumstances), seemed entirely unabated. He said little, and
+circumstances), seemed entirely unabated. He said little, and
 
-      that moodily, and with evident effort. I ventured a jest or two,
+that moodily, and with evident effort. I ventured a jest or two,
 
-      and he made a sickening attempt at a smile. Poor fellow!—as I
+and he made a sickening attempt at a smile. Poor fellow!—as I
 
-      thought of his wife, I wondered that he could have heart to put
+thought of his wife, I wondered that he could have heart to put
 
-      on even the semblance of mirth. I determined to commence a series
+on even the semblance of mirth. I determined to commence a series
 
-      of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
+of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
 
-      to let him perceive, gradually, that I was not altogether the
+to let him perceive, gradually, that I was not altogether the
 
-      butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
+butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
 
-      first observation was by way of opening a masked battery. I said
+first observation was by way of opening a masked battery. I said
 
-      something about the “peculiar shape of _that_ box”; and, as I
+something about the “peculiar shape of _that_ box”; and, as I
 
-      spoke the words, I smiled knowingly, winked, and touched him
+spoke the words, I smiled knowingly, winked, and touched him
 
-      gently with my forefinger in the ribs.
+gently with my forefinger in the ribs.
 
 
 
-      The manner in which Wyatt received this harmless pleasantry
+The manner in which Wyatt received this harmless pleasantry
 
-      convinced me, at once, that he was mad. At first he stared at me
+convinced me, at once, that he was mad. At first he stared at me
 
-      as if he found it impossible to comprehend the witticism of my
+as if he found it impossible to comprehend the witticism of my
 
-      remark; but as its point seemed slowly to make its way into his
+remark; but as its point seemed slowly to make its way into his
 
-      brain, his eyes, in the same proportion, seemed protruding from
+brain, his eyes, in the same proportion, seemed protruding from
 
-      their sockets. Then he grew very red—then hideously pale—then, as
+their sockets. Then he grew very red—then hideously pale—then, as
 
-      if highly amused with what I had insinuated, he began a loud and
+if highly amused with what I had insinuated, he began a loud and
 
-      boisterous laugh, which, to my astonishment, he kept up, with
+boisterous laugh, which, to my astonishment, he kept up, with
 
-      gradually increasing vigor, for ten minutes or more. In
+gradually increasing vigor, for ten minutes or more. In
 
-      conclusion, he fell flat and heavily upon the deck. When I ran to
+conclusion, he fell flat and heavily upon the deck. When I ran to
 
-      uplift him, to all appearance he was dead.
+uplift him, to all appearance he was dead.
 
 
 
-      I called assistance, and, with much difficulty, we brought him to
+I called assistance, and, with much difficulty, we brought him to
 
-      himself. Upon reviving he spoke incoherently for some [[Time|time]]. At
+himself. Upon reviving he spoke incoherently for some [[Time|time]]. At
 
-      length we bled him and put him to bed. The next morning he was
+length we bled him and put him to bed. The next morning he was
 
-      quite recovered, so far as regarded his mere bodily health. Of
+quite recovered, so far as regarded his mere bodily health. Of
 
-      his mind I say nothing, of course. I avoided him during the rest
+his mind I say nothing, of course. I avoided him during the rest
 
-      of the passage, by advice of the captain, who seemed to coincide
+of the passage, by advice of the captain, who seemed to coincide
 
-      with me altogether in my views of his insanity, but cautioned me
+with me altogether in my views of his insanity, but cautioned me
 
-      to say nothing on this head to any person on board.
+to say nothing on this head to any person on board.
 
 
 
-      Several circumstances occurred immediately after this fit of
+Several circumstances occurred immediately after this fit of
 
-      Wyatt which contributed to heighten the curiosity with which I
+Wyatt which contributed to heighten the curiosity with which I
 
-      was already possessed. Among other things, this: I had been
+was already possessed. Among other things, this: I had been
 
-      nervous—drank too much strong green tea, and slept ill at
+nervous—drank too much strong green tea, and slept ill at
 
-      [[Night|night]]—in fact, for two nights I could not be properly said to
+[[Night|night]]—in fact, for two nights I could not be properly said to
 
-      [[Sleep|sleep]] at all. Now, my state-room opened into the main cabin, or
+[[Sleep|sleep]] at all. Now, my state-room opened into the main cabin, or
 
-      dining-room, as did those of all the single men on board. Wyatt’s
+dining-room, as did those of all the single men on board. Wyatt’s
 
-      three rooms were in the after-cabin, which was separated from the
+three rooms were in the after-cabin, which was separated from the
 
-      main one by a slight sliding door, never locked even at [[Night|night]]. As
+main one by a slight sliding door, never locked even at [[Night|night]]. As
 
-      we were almost constantly on a [[Wind|wind]], and the breeze was not a
+we were almost constantly on a [[Wind|wind]], and the breeze was not a
 
-      little stiff, the [[Ship|ship]] heeled to leeward very considerably; and
+little stiff, the [[Ship|ship]] heeled to leeward very considerably; and
 
-      whenever her starboard side was to leeward, the sliding door
+whenever her starboard side was to leeward, the sliding door
 
-      between the cabins slid open, and so remained, nobody taking the
+between the cabins slid open, and so remained, nobody taking the
 
-      trouble to get up and shut it. But my berth was in such a
+trouble to get up and shut it. But my berth was in such a
 
-      position, that when my own state-room door was open, as [[Well|well]] as
+position, that when my own state-room door was open, as [[Well|well]] as
 
-      the sliding door in question (and my own door was always open on
+the sliding door in question (and my own door was always open on
 
-      account of the heat,) I could see into the after-cabin quite
+account of the heat,) I could see into the after-cabin quite
 
-      distinctly, and just at that portion of it, too, where were
+distinctly, and just at that portion of it, too, where were
 
-      situated the state-rooms of Mr. Wyatt. [[Well]], during two nights
+situated the state-rooms of Mr. Wyatt. [[Well]], during two nights
 
-      (not consecutive) while I lay awake, I clearly saw Mrs. W., about
+(not consecutive) while I lay awake, I clearly saw Mrs. W., about
 
-      eleven o’[[Clock|clock]] upon each [[Night|night]], steal cautiously from the
+eleven o’[[Clock|clock]] upon each [[Night|night]], steal cautiously from the
 
-      state-room of Mr. W., and enter the extra room, where she
+state-room of Mr. W., and enter the extra room, where she
 
-      remained until daybreak, when she was called by her husband and
+remained until daybreak, when she was called by her husband and
 
-      went back. That they were virtually separated was clear. They had
+went back. That they were virtually separated was clear. They had
 
-      separate apartments—no [[Doubt|doubt]] in contemplation of a more permanent
+separate apartments—no [[Doubt|doubt]] in contemplation of a more permanent
 
-      [[divorce]]; and here, after all I thought was the mystery of the
+[[divorce]]; and here, after all I thought was the mystery of the
 
-      extra state-room.
+extra state-room.
 
 
 
-      There was another circumstance, too, which interested me much.
+There was another circumstance, too, which interested me much.
 
-      During the two wakeful nights in question, and immediately after
+During the two wakeful nights in question, and immediately after
 
-      the disappearance of Mrs. Wyatt into the extra state-room, I was
+the disappearance of Mrs. Wyatt into the extra state-room, I was
 
-      attracted by certain singular cautious, subdued noises in that of
+attracted by certain singular cautious, subdued noises in that of
 
-      her husband. After listening to them for some [[Time|time]], with
+her husband. After listening to them for some [[Time|time]], with
 
-      thoughtful attention, I at length succeeded perfectly in
+thoughtful attention, I at length succeeded perfectly in
 
-      translating their import. They were sounds occasioned by the
+translating their import. They were sounds occasioned by the
 
-      [[artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
+[[artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
 
-      mallet—the latter being apparently muffled, or deadened, by some
+mallet—the latter being apparently muffled, or deadened, by some
 
-      soft woollen or cotton substance in which its head was enveloped.
+soft woollen or cotton substance in which its head was enveloped.
 
 
 
-      In this manner I fancied I could distinguish the precise moment
+In this manner I fancied I could distinguish the precise moment
 
-      when he fairly disengaged the lid—also, that I could determine
+when he fairly disengaged the lid—also, that I could determine
 
-      when he removed it altogether, and when he deposited it upon the
+when he removed it altogether, and when he deposited it upon the
 
-      lower berth in his room; this latter point I knew, for example,
+lower berth in his room; this latter point I knew, for example,
 
-      by certain slight taps which the lid made in striking against the
+by certain slight taps which the lid made in striking against the
 
-      wooden edges of the berth, as he endeavored to lay it down very
+wooden edges of the berth, as he endeavored to lay it down very
 
-      gently—there being no room for it on the floor. After this there
+gently—there being no room for it on the floor. After this there
 
-      was a dead stillness, and I heard nothing more, upon either
+was a dead stillness, and I heard nothing more, upon either
 
-      occasion, until nearly daybreak; unless, perhaps, I may mention a
+occasion, until nearly daybreak; unless, perhaps, I may mention a
 
-      low sobbing, or murmuring sound, so very much suppressed as to be
+low sobbing, or murmuring sound, so very much suppressed as to be
 
-      nearly inaudible—if, indeed, the whole of this latter noise were
+nearly inaudible—if, indeed, the whole of this latter noise were
 
-      not rather produced by my own [[Imagination|imagination]]. I say it seemed to
+not rather produced by my own [[Imagination|imagination]]. I say it seemed to
 
-      resemble sobbing or sighing—but, of course, it could not have
+resemble sobbing or sighing—but, of course, it could not have
 
-      been either. I rather think it was a ringing in my own ears. Mr.
+been either. I rather think it was a ringing in my own ears. Mr.
 
-      Wyatt, no [[Doubt|doubt]], according to custom, was merely giving the rein
+Wyatt, no [[Doubt|doubt]], according to custom, was merely giving the rein
 
-      to one of his hobbies—indulging in one of his fits of artistic
+to one of his hobbies—indulging in one of his fits of artistic
 
-      enthusiasm. He had opened his oblong box, in order to feast his
+enthusiasm. He had opened his oblong box, in order to feast his
 
-      eyes on the pictorial treasure within. There was nothing in this,
+eyes on the pictorial treasure within. There was nothing in this,
 
-      however, to make him sob. I repeat, therefore, that it must have
+however, to make him sob. I repeat, therefore, that it must have
 
-      been simply a freak of my own fancy, distempered by good Captain
+been simply a freak of my own fancy, distempered by good Captain
 
-      Hardy’s green tea. Just before [[Dawn|dawn]], on each of the two nights of
+Hardy’s green tea. Just before [[Dawn|dawn]], on each of the two nights of
 
-      which I speak, I distinctly heard Mr. Wyatt replace the lid upon
+which I speak, I distinctly heard Mr. Wyatt replace the lid upon
 
-      [[The Oblong Box|the oblong box]], and force the nails into their old places by
+[[The Oblong Box|the oblong box]], and force the nails into their old places by
 
-      means of the muffled mallet. Having done this, he issued from his
+means of the muffled mallet. Having done this, he issued from his
 
-      state-room, fully dressed, and proceeded to call Mrs. W. from
+state-room, fully dressed, and proceeded to call Mrs. W. from
 
-      hers.
+hers.
 
 
 
-      We had been at sea seven days, and were now off Cape Hatteras,
+We had been at sea seven days, and were now off Cape Hatteras,
 
-      when there came a tremendously heavy blow from the southwest. We
+when there came a tremendously heavy blow from the southwest. We
 
-      were, in a measure, prepared for it, however, as the weather had
+were, in a measure, prepared for it, however, as the weather had
 
-      been holding out threats for some [[Time|time]]. Every thing was made
+been holding out threats for some [[Time|time]]. Every thing was made
 
-      snug, alow and aloft; and as the [[Wind|wind]] steadily freshened, we lay
+snug, alow and aloft; and as the [[Wind|wind]] steadily freshened, we lay
 
-      to, at length, under spanker and foretopsail, both [[Double|double]]-reefed.
+to, at length, under spanker and foretopsail, both [[Double|double]]-reefed.
 
 
 
-      In this trim we rode safely enough for forty-eight hours—the [[Ship|ship]]
+In this trim we rode safely enough for forty-eight hours—the [[Ship|ship]]
 
-      proving herself an excellent sea-boat in many respects, and
+proving herself an excellent sea-boat in many respects, and
 
-      shipping no [[Water|water]] of any consequence. At the end of this period,
+shipping no [[Water|water]] of any consequence. At the end of this period,
 
-      however, the gale had freshened into a hurricane, and our
+however, the gale had freshened into a hurricane, and our
 
-      after-sail split into ribbons, bringing us so much in the trough
+after-sail split into ribbons, bringing us so much in the trough
 
-      of the [[Water|water]] that we shipped several prodigious seas, one
+of the [[Water|water]] that we shipped several prodigious seas, one
 
-      immediately after the other. By this accident we lost three men
+immediately after the other. By this accident we lost three men
 
-      overboard with the caboose, and nearly the whole of the larboard
+overboard with the caboose, and nearly the whole of the larboard
 
-      bulwarks. Scarcely had we recovered our senses, before the
+bulwarks. Scarcely had we recovered our senses, before the
 
-      foretopsail went into shreds, when we got up a [[Storm|storm]] stay-sail
+foretopsail went into shreds, when we got up a [[Storm|storm]] stay-sail
 
-      and with this did pretty [[Well|well]] for some hours, the [[Ship|ship]] heading
+and with this did pretty [[Well|well]] for some hours, the [[Ship|ship]] heading
 
-      the sea much more steadily than before.
+the sea much more steadily than before.
 
 
 
-      The gale still held on, however, and we saw no signs of its
+The gale still held on, however, and we saw no signs of its
 
-      abating. The rigging was found to be ill-fitted, and greatly
+abating. The rigging was found to be ill-fitted, and greatly
 
-      strained; and on the third day of the blow, about five in the
+strained; and on the third day of the blow, about five in the
 
-      afternoon, our mizzen-mast, in a heavy lurch to windward, went by
+afternoon, our mizzen-mast, in a heavy lurch to windward, went by
 
-      the board. For an hour or more, we tried in vain to get rid of
+the board. For an hour or more, we tried in vain to get rid of
 
-      it, on account of the prodigious [[rolling]] of the [[Ship|ship]]; and, before
+it, on account of the prodigious [[rolling]] of the [[Ship|ship]]; and, before
 
-      we had succeeded, the carpenter came aft and announced four feet
+we had succeeded, the carpenter came aft and announced four feet
 
-      of [[Water|water]] in the hold. To add to our dilemma, we found the pumps
+of [[Water|water]] in the hold. To add to our dilemma, we found the pumps
 
-      choked and nearly useless.
+choked and nearly useless.
 
 
 
-      All was now confusion and [[Despair|despair]]—but an effort was made to
+All was now confusion and [[Despair|despair]]—but an effort was made to
 
-      lighten the [[Ship|ship]] by throwing overboard as much of her cargo as
+lighten the [[Ship|ship]] by throwing overboard as much of her cargo as
 
-      could be reached, and by cutting away the two masts that
+could be reached, and by cutting away the two masts that
 
-      remained. This we at last accomplished—but we were still unable
+remained. This we at last accomplished—but we were still unable
 
-      to do any thing at the pumps; and, in the meantime, the leak
+to do any thing at the pumps; and, in the meantime, the leak
 
-      gained on us very fast.
+gained on us very fast.
 
 
 
-      At sundown, the gale had sensibly diminished in violence, and as
+At sundown, the gale had sensibly diminished in violence, and as
 
-      the sea went down with it, we still entertained faint hopes of
+the sea went down with it, we still entertained faint hopes of
 
-      saving ourselves in the boats. At eight P. M., the clouds broke
+saving ourselves in the boats. At eight P. M., the clouds broke
 
-      away to windward, and we had the advantage of a full [[Moon|moon]]—a piece
+away to windward, and we had the advantage of a full [[Moon|moon]]—a piece
 
-      of good fortune which served wonderfully to cheer our drooping
+of good fortune which served wonderfully to cheer our drooping
 
-      spirits.
+spirits.
 
 
 
-      After incredible labor we succeeded, at length, in getting the
+After incredible labor we succeeded, at length, in getting the
 
-      longboat over the side without material accident, and into this
+longboat over the side without material accident, and into this
 
-      we crowded the whole of the crew and most of the passengers. This
+we crowded the whole of the crew and most of the passengers. This
 
-      party made off immediately, and, after undergoing much [[Suffering|suffering]],
+party made off immediately, and, after undergoing much [[Suffering|suffering]],
 
-      finally arrived, in safety, at Ocracoke Inlet, on the third day
+finally arrived, in safety, at Ocracoke Inlet, on the third day
 
-      after the wreck.
+after the wreck.
 
 
 
-      Fourteen passengers, with the captain, remained on board,
+Fourteen passengers, with the captain, remained on board,
 
-      resolving to trust their fortunes to the jolly-boat at the stern.
+resolving to trust their fortunes to the jolly-boat at the stern.
 
-      We lowered it without difficulty, although it was only by a
+We lowered it without difficulty, although it was only by a
 
-      miracle that we prevented it from swamping as it touched the
+miracle that we prevented it from swamping as it touched the
 
-      [[Water|water]]. It contained, when afloat, the captain and his wife, Mr.
+[[Water|water]]. It contained, when afloat, the captain and his wife, Mr.
 
-      Wyatt and party, a Mexican officer, wife, four children, and
+Wyatt and party, a Mexican officer, wife, four children, and
 
-      myself, with a negro valet.
+myself, with a negro valet.
 
 
 
-      We had no room, of course, for any thing except a few positively
+We had no room, of course, for any thing except a few positively
 
-      necessary instruments, some provisions, and the clothes upon our
+necessary instruments, some provisions, and the clothes upon our
 
-      backs. No one had thought of even attempting to save any thing
+backs. No one had thought of even attempting to save any thing
 
-      more. What must have been the astonishment of all, then, when
+more. What must have been the astonishment of all, then, when
 
-      having proceeded a few fathoms from the [[Ship|ship]], Mr. Wyatt stood up
+having proceeded a few fathoms from the [[Ship|ship]], Mr. Wyatt stood up
 
-      in the stern-sheets, and coolly demanded of Captain Hardy that
+in the stern-sheets, and coolly demanded of Captain Hardy that
 
-      the boat should be put back for the purpose of taking in his
+the boat should be put back for the purpose of taking in his
 
-      oblong box!
+oblong box!
 
 
 
-      “Sit down, Mr. Wyatt,” replied the captain, somewhat sternly,
+“Sit down, Mr. Wyatt,” replied the captain, somewhat sternly,
 
-      “you will capsize us if you do not sit quite still. Our gunwhale
+“you will capsize us if you do not sit quite still. Our gunwhale
 
-      is almost in the [[Water|water]] now.”
+is almost in the [[Water|water]] now.”
 
 
 
-      “The box!” vociferated Mr. Wyatt, still standing—“the box, I say!
+“The box!” vociferated Mr. Wyatt, still standing—“the box, I say!
 
-      Captain Hardy, you cannot, you will not refuse me. Its weight
+Captain Hardy, you cannot, you will not refuse me. Its weight
 
-      will be but a trifle—it is nothing—mere nothing. By the mother
+will be but a trifle—it is nothing—mere nothing. By the mother
 
-      who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
+who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
 
-      implore you to put back for the box!”
+implore you to put back for the box!”
 
 
 
-      The captain, for a moment, seemed touched by the earnest appeal
+The captain, for a moment, seemed touched by the earnest appeal
 
-      of the [[artist]], but he regained his stern composure, and merely
+of the [[artist]], but he regained his stern composure, and merely
 
-      said:
+said:
 
 
 
-      “Mr. Wyatt, you are mad. I cannot listen to you. Sit down, I say,
+“Mr. Wyatt, you are mad. I cannot listen to you. Sit down, I say,
 
-      or you will swamp the boat. Stay—hold him—seize him!—he is about
+or you will swamp the boat. Stay—hold him—seize him!—he is about
 
-      to [[spring]] overboard! There—I knew it—he is over!”
+to [[spring]] overboard! There—I knew it—he is over!”
 
 
 
-      As the captain said this, Mr. Wyatt, in fact, sprang from the
+As the captain said this, Mr. Wyatt, in fact, sprang from the
 
-      boat, and, as we were yet in the lee of the wreck, succeeded, by
+boat, and, as we were yet in the lee of the wreck, succeeded, by
 
-      almost superhuman exertion, in getting hold of a rope which hung
+almost superhuman exertion, in getting hold of a rope which hung
 
-      from the fore-[[Chains|chains]]. In another moment he was on board, and
+from the fore-[[Chains|chains]]. In another moment he was on board, and
 
-      rushing frantically down into the cabin.
+rushing frantically down into the cabin.
 
 
 
-      In the meantime, we had been swept astern of the [[Ship|ship]], and being
+In the meantime, we had been swept astern of the [[Ship|ship]], and being
 
-      quite out of her lee, were at the [[Mercy|mercy]] of the tremendous sea
+quite out of her lee, were at the [[Mercy|mercy]] of the tremendous sea
 
-      which was still running. We made a determined effort to put back,
+which was still running. We made a determined effort to put back,
 
-      but our little boat was like a feather in the breath of the
+but our little boat was like a feather in the breath of the
 
-      tempest. We saw at a glance that the doom of the unfortunate
+tempest. We saw at a glance that the doom of the unfortunate
 
-      [[artist]] was sealed.
+[[artist]] was sealed.
 
 
 
-      As our distance from the wreck rapidly increased, the madman (for
+As our distance from the wreck rapidly increased, the madman (for
 
-      as such only could we regard him) was seen to emerge from the
+as such only could we regard him) was seen to emerge from the
 
-      companion—way, up which by dint of strength that appeared
+companion—way, up which by dint of strength that appeared
 
-      gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
+gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
 
-      the extremity of astonishment, he passed, rapidly, several turns
+the extremity of astonishment, he passed, rapidly, several turns
 
-      of a three-inch rope, first around the box and then around his
+of a three-inch rope, first around the box and then around his
 
-      [[Body|body]]. In another instant both [[Body|body]] and box were in the
+[[Body|body]]. In another instant both [[Body|body]] and box were in the
 
-      sea—disappearing suddenly, at once and forever.
+sea—disappearing suddenly, at once and forever.
 
 
 
-      We lingered awhile sadly upon our oars, with our eyes riveted
+We lingered awhile sadly upon our oars, with our eyes riveted
 
-      upon the spot. At length we pulled away. The [[Silence|silence]] remained
+upon the spot. At length we pulled away. The [[Silence|silence]] remained
 
-      unbroken for an hour. Finally, I hazarded a remark.
+unbroken for an hour. Finally, I hazarded a remark.
 
 
 
-      “Did you observe, captain, how suddenly they sank? Was not that
+“Did you observe, captain, how suddenly they sank? Was not that
 
-      an exceedingly singular thing? I confess that I entertained some
+an exceedingly singular thing? I confess that I entertained some
 
-      feeble [[Hope|hope]] of his final deliverance, when I saw him lash himself
+feeble [[Hope|hope]] of his final deliverance, when I saw him lash himself
 
-      to the box, and commit himself to the sea.”
+to the box, and commit himself to the sea.”
 
 
 
-      “They sank as a matter of course,” replied the captain, “and that
+“They sank as a matter of course,” replied the captain, “and that
 
-      like a shot. They will soon rise again, however—but not till the
+like a shot. They will soon rise again, however—but not till the
 
-      salt melts.”
+salt melts.”
 
 
 
-      “The salt!” I ejaculated.
+“The salt!” I ejaculated.
 
 
 
-      “Hush!” said the captain, pointing to the wife and sisters of the
+“Hush!” said the captain, pointing to the wife and sisters of the
 
-      deceased. “We must talk of these things at some more appropriate
+deceased. “We must talk of these things at some more appropriate
 
-      [[Time|time]].”
+[[Time|time]].”
 
 
 
-      We suffered much, and made a narrow escape; but fortune
+We suffered much, and made a narrow escape; but fortune
 
-      befriended us, as [[Well|well]] as our mates in the long-boat. We landed,
+befriended us, as [[Well|well]] as our mates in the long-boat. We landed,
 
-      in fine, more dead than alive, after four days of intense
+in fine, more dead than alive, after four days of intense
 
-      distress, upon the beach opposite Roanoke Island. We remained
+distress, upon the beach opposite Roanoke Island. We remained
 
-      here a week, were not ill-treated by the wreckers, and at length
+here a week, were not ill-treated by the wreckers, and at length
 
-      obtained a passage to [[New York]].
+obtained a passage to [[New York]].
 
 
 
-      About a month after the loss of the “Independence,” I happened to
+About a month after the loss of the “Independence,” I happened to
 
-      meet Captain Hardy in Broadway. Our conversation turned,
+meet Captain Hardy in Broadway. Our conversation turned,
 
-      naturally, upon the disaster, and especially upon the sad fate of
+naturally, upon the disaster, and especially upon the sad fate of
 
-      poor Wyatt. I thus learned the following particulars.
+poor Wyatt. I thus learned the following particulars.
 
 
 
-      The [[artist]] had engaged passage for himself, wife, two sisters and
+The [[artist]] had engaged passage for himself, wife, two sisters and
 
-      a servant. His wife was, indeed, as she had been represented, a
+a servant. His wife was, indeed, as she had been represented, a
 
-      most lovely, and most accomplished woman. On the morning of the
+most lovely, and most accomplished woman. On the morning of the
 
-      fourteenth of June (the day in which I first visited the [[Ship|ship]]),
+fourteenth of June (the day in which I first visited the [[Ship|ship]]),
 
-      the lady suddenly sickened and died. The young husband was
+the lady suddenly sickened and died. The young husband was
 
-      frantic with grief—but circumstances imperatively forbade the
+frantic with grief—but circumstances imperatively forbade the
 
-      deferring his voyage to [[New York]]. It was necessary to take to her
+deferring his voyage to [[New York]]. It was necessary to take to her
 
-      mother the corpse of his adored wife, and, on the other hand, the
+mother the corpse of his adored wife, and, on the other hand, the
 
-      universal prejudice which would prevent his doing so openly was
+universal prejudice which would prevent his doing so openly was
 
-      [[Well|well]] known. Nine-tenths of the passengers would have abandoned
+[[Well|well]] known. Nine-tenths of the passengers would have abandoned
 
-      the [[Ship|ship]] rather than take passage with a dead [[Body|body]].
+the [[Ship|ship]] rather than take passage with a dead [[Body|body]].
 
 
 
-      In this dilemma, Captain Hardy arranged that the corpse, being
+In this dilemma, Captain Hardy arranged that the corpse, being
 
-      first partially embalmed, and packed, with a large quantity of
+first partially embalmed, and packed, with a large quantity of
 
-      salt, in a box of suitable dimensions, should be conveyed on
+salt, in a box of suitable dimensions, should be conveyed on
 
-      board as merchandise. Nothing was to be said of the lady’s
+board as merchandise. Nothing was to be said of the lady’s
 
-      decease; and, as it was [[Well|well]] understood that Mr. Wyatt had
+decease; and, as it was [[Well|well]] understood that Mr. Wyatt had
 
-      engaged passage for his wife, it became necessary that some
+engaged passage for his wife, it became necessary that some
 
-      person should personate her during the voyage. This the deceased
+person should personate her during the voyage. This the deceased
 
-      lady’s-maid was easily prevailed on to do. The extra state-room,
+lady’s-maid was easily prevailed on to do. The extra state-room,
 
-      originally engaged for this girl during her mistress’ life, was
+originally engaged for this girl during her mistress’ life, was
 
-      now merely retained. In this state-room the pseudo-wife, slept,
+now merely retained. In this state-room the pseudo-wife, slept,
 
-      of course, every [[Night|night]]. In the daytime she performed, to the best
+of course, every [[Night|night]]. In the daytime she performed, to the best
 
-      of her ability, the part of her mistress—whose person, it had
+of her ability, the part of her mistress—whose person, it had
 
-      been carefully ascertained, was unknown to any of the passengers
+been carefully ascertained, was unknown to any of the passengers
 
-      on board.
+on board.
 
 
 
-      My own mistake arose, naturally enough, through too careless, too
+My own mistake arose, naturally enough, through too careless, too
 
-      inquisitive, and too impulsive a temperament. But of late, it is
+inquisitive, and too impulsive a temperament. But of late, it is
 
-      a rare thing that I [[Sleep|sleep]] soundly at [[Night|night]]. There is a
+a rare thing that I [[Sleep|sleep]] soundly at [[Night|night]]. There is a
 
-      countenance which haunts me, turn as I will. There is an
+countenance which haunts me, turn as I will. There is an
 
-      hysterical laugh which will forever ring within my ears.
+hysterical laugh which will forever ring within my ears.
 
 
 
@@ -967,193 +967,193 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
 Some years ago, I engaged passage from Charleston, S. C., to the
 
-      [[City|city]] of [[New York]], in the fine packet-[[Ship|ship]] “Independence,” Captain
+[[City|city]] of [[New York]], in the fine packet-[[Ship|ship]] “Independence,” Captain
 
-      Hardy. We were to sail on the fifteenth of the month (June),
+Hardy. We were to sail on the fifteenth of the month (June),
 
-      weather permitting; and on the fourteenth, I went on board to
+weather permitting; and on the fourteenth, I went on board to
 
-      arrange some matters in my state-room.
+arrange some matters in my state-room.
 
 
 
-      I found that we were to have a great many passengers, including a
+I found that we were to have a great many passengers, including a
 
-      more than usual number of ladies. On the list were several of my
+more than usual number of ladies. On the list were several of my
 
-      acquaintances, and among other names, I was rejoiced to see that
+acquaintances, and among other names, I was rejoiced to see that
 
-      of Mr. Cornelius Wyatt, a young [[artist]], for whom I entertained
+of Mr. Cornelius Wyatt, a young [[artist]], for whom I entertained
 
-      feelings of warm [[Friendship|friendship]]. He had been with me a fellow-student
+feelings of warm [[Friendship|friendship]]. He had been with me a fellow-student
 
-      at C—— University, where we were very much together. He had the
+at C—— University, where we were very much together. He had the
 
-      ordinary temperament of genius, and was a compound of
+ordinary temperament of genius, and was a compound of
 
-      [[Misanthropy|misanthropy]], sensibility, and enthusiasm. To these qualities he
+[[Misanthropy|misanthropy]], sensibility, and enthusiasm. To these qualities he
 
-      united the warmest and truest heart which ever beat in a human
+united the warmest and truest heart which ever beat in a human
 
-      bosom.
+bosom.
 
 
 
-      I observed that his name was carded upon three state-rooms; and,
+I observed that his name was carded upon three state-rooms; and,
 
-      upon again referring to the list of passengers, I found that he
+upon again referring to the list of passengers, I found that he
 
-      had engaged passage for himself, wife, and two sisters—his own.
+had engaged passage for himself, wife, and two sisters—his own.
 
-      The state-rooms were sufficiently roomy, and each had two berths,
+The state-rooms were sufficiently roomy, and each had two berths,
 
-      one above the other. These berths, to be sure, were so
+one above the other. These berths, to be sure, were so
 
-      exceedingly narrow as to be insufficient for more than one
+exceedingly narrow as to be insufficient for more than one
 
-      person; still, I could not comprehend why there were three
+person; still, I could not comprehend why there were three
 
-      state-rooms for these four persons. I was, just at that epoch, in
+state-rooms for these four persons. I was, just at that epoch, in
 
-      one of those moody frames of mind which make a man abnormally
+one of those moody frames of mind which make a man abnormally
 
-      inquisitive about trifles: and I confess, with shame, that I
+inquisitive about trifles: and I confess, with shame, that I
 
-      busied myself in a variety of ill-bred and preposterous
+busied myself in a variety of ill-bred and preposterous
 
-      conjectures about this matter of the supernumerary state-room. It
+conjectures about this matter of the supernumerary state-room. It
 
-      was no business of mine, to be sure, but with none the less
+was no business of mine, to be sure, but with none the less
 
-      pertinacity did I occupy myself in attempts to resolve the
+pertinacity did I occupy myself in attempts to resolve the
 
-      enigma. At last I reached a conclusion which wrought in me great
+enigma. At last I reached a conclusion which wrought in me great
 
-      [[Wonder|wonder]] why I had not arrived at it before. “It is a servant of
+[[Wonder|wonder]] why I had not arrived at it before. “It is a servant of
 
-      course,” I said; “what a [[Fool|fool]] I am, not sooner to have thought of
+course,” I said; “what a [[Fool|fool]] I am, not sooner to have thought of
 
-      so obvious a solution!” And then I again repaired to the list—but
+so obvious a solution!” And then I again repaired to the list—but
 
-      here I saw distinctly that no servant was to come with the party,
+here I saw distinctly that no servant was to come with the party,
 
-      although, in fact, it had been the original design to bring
+although, in fact, it had been the original design to bring
 
-      one—for the words “and servant” had been first written and then
+one—for the words “and servant” had been first written and then
 
-      overscored. “Oh, extra baggage, to be sure,” I now said to
+overscored. “Oh, extra baggage, to be sure,” I now said to
 
-      myself—“something he wishes not to be put in the hold—something
+myself—“something he wishes not to be put in the hold—something
 
-      to be kept under his own eye—ah, I have it—a painting or so—and
+to be kept under his own eye—ah, I have it—a painting or so—and
 
-      this is what he has been bargaining about with Nicolino, the
+this is what he has been bargaining about with Nicolino, the
 
-      Italian Jew.” This idea satisfied me, and I dismissed my
+Italian Jew.” This idea satisfied me, and I dismissed my
 
-      curiosity for the nonce.
+curiosity for the nonce.
 
 
 
-      Wyatt’s two sisters I knew very [[Well|well]], and most amiable and clever
+Wyatt’s two sisters I knew very [[Well|well]], and most amiable and clever
 
-      girls they were. His wife he had newly married, and I had never
+girls they were. His wife he had newly married, and I had never
 
-      yet seen her. He had often talked about her in my presence,
+yet seen her. He had often talked about her in my presence,
 
-      however, and in his usual style of enthusiasm. He described her
+however, and in his usual style of enthusiasm. He described her
 
-      as of surpassing [[Beauty|beauty]], wit, and accomplishment. I was,
+as of surpassing [[Beauty|beauty]], wit, and accomplishment. I was,
 
-      therefore, quite anxious to make her acquaintance.
+therefore, quite anxious to make her acquaintance.
 
 
 
-      On the day in which I visited the [[Ship|ship]] (the fourteenth), Wyatt
+On the day in which I visited the [[Ship|ship]] (the fourteenth), Wyatt
 
-      and party were also to visit it—so the captain informed me—and I
+and party were also to visit it—so the captain informed me—and I
 
-      waited on board an hour longer than I had designed, in [[Hope|hope]] of
+waited on board an hour longer than I had designed, in [[Hope|hope]] of
 
-      being presented to the bride, but then an apology came. “Mrs. W.
+being presented to the bride, but then an apology came. “Mrs. W.
 
-      was a little indisposed, and would decline coming on board until
+was a little indisposed, and would decline coming on board until
 
-      to-morrow, at the hour of sailing.”
+to-morrow, at the hour of sailing.”
 
 
 
-      The morrow having arrived, I was going from my hotel to the
+The morrow having arrived, I was going from my hotel to the
 
-      wharf, when Captain Hardy met me and said that, “owing to
+wharf, when Captain Hardy met me and said that, “owing to
 
-      circumstances” (a stupid but convenient phrase), “he rather
+circumstances” (a stupid but convenient phrase), “he rather
 
-      thought the ‘Independence’ would not sail for a day or two, and
+thought the ‘Independence’ would not sail for a day or two, and
 
-      that when all was ready, he would send up and let me know.” This
+that when all was ready, he would send up and let me know.” This
 
-      I thought strange, for there was a stiff southerly breeze; but as
+I thought strange, for there was a stiff southerly breeze; but as
 
-      “the circumstances” were not forthcoming, although I pumped for
+“the circumstances” were not forthcoming, although I pumped for
 
-      them with much perseverance, I had nothing to do but to return
+them with much perseverance, I had nothing to do but to return
 
-      [[Home|home]] and digest my impatience at leisure.
+[[Home|home]] and digest my impatience at leisure.
 
 
 
-      I did not receive the expected message from the captain for
+I did not receive the expected message from the captain for
 
-      nearly a week. It came at length, however, and I immediately went
+nearly a week. It came at length, however, and I immediately went
 
-      on board. The [[Ship|ship]] was crowded with passengers, and every thing
+on board. The [[Ship|ship]] was crowded with passengers, and every thing
 
-      was in the bustle attendant upon making sail. Wyatt’s party
+was in the bustle attendant upon making sail. Wyatt’s party
 
-      arrived in about ten minutes after myself. There were the two
+arrived in about ten minutes after myself. There were the two
 
-      sisters, the bride, and the [[artist]]—the latter in one of his
+sisters, the bride, and the [[artist]]—the latter in one of his
 
-      customary fits of moody [[Misanthropy|misanthropy]]. I was too [[Well|well]] used to
+customary fits of moody [[Misanthropy|misanthropy]]. I was too [[Well|well]] used to
 
-      these, however, to pay them any special attention. He did not
+these, however, to pay them any special attention. He did not
 
-      even introduce me to his wife—this courtesy devolving, per force,
+even introduce me to his wife—this courtesy devolving, per force,
 
-      upon his sister Marian—a very sweet and intelligent girl, who, in
+upon his sister Marian—a very sweet and intelligent girl, who, in
 
-      a few hurried words, made us acquainted.
+a few hurried words, made us acquainted.
 
 
 
-      Mrs. Wyatt had been closely veiled; and when she raised her veil,
+Mrs. Wyatt had been closely veiled; and when she raised her veil,
 
-      in acknowledging my bow, I confess that I was very profoundly
+in acknowledging my bow, I confess that I was very profoundly
 
-      astonished. I should have been much more so, however, had not
+astonished. I should have been much more so, however, had not
 
-      long experience advised me not to trust, with too implicit a
+long experience advised me not to trust, with too implicit a
 
-      reliance, the enthusiastic descriptions of my friend, the [[artist]],
+reliance, the enthusiastic descriptions of my friend, the [[artist]],
 
-      when indulging in comments upon the loveliness of woman. When
+when indulging in comments upon the loveliness of woman. When
 
-      [[Beauty|beauty]] was the theme, I [[Well|well]] knew with what facility he soared
+[[Beauty|beauty]] was the theme, I [[Well|well]] knew with what facility he soared
 
-      into the regions of the purely ideal.
+into the regions of the purely ideal.
 
 
 
-      The [[Truth|truth]] is, I could not help regarding Mrs. Wyatt as a
+The [[Truth|truth]] is, I could not help regarding Mrs. Wyatt as a
 
-      decidedly plain-looking woman. If not positively ugly, she was
+decidedly plain-looking woman. If not positively ugly, she was
 
-      not, I think, very far from it. She was dressed, however, in
+not, I think, very far from it. She was dressed, however, in
 
-      exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
+exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
 
-      my friend’s heart by the more enduring graces of the intellect
+my friend’s heart by the more enduring graces of the intellect
 
 
 
@@ -1161,189 +1161,189 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 <span class="atom-split" data-atom="part--part_02" data-title="The Oblong Box (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      and [[Soul|soul]]. She said very few words, and passed at once into her
+and [[Soul|soul]]. She said very few words, and passed at once into her
 
-      state-room with Mr. W.
+state-room with Mr. W.
 
 
 
-      My old inquisitiveness now returned. There was no servant—that
+My old inquisitiveness now returned. There was no servant—that
 
-      was a settled point. I looked, therefore, for the extra baggage.
+was a settled point. I looked, therefore, for the extra baggage.
 
-      After some delay, a cart arrived at the wharf, with an oblong
+After some delay, a cart arrived at the wharf, with an oblong
 
-      pine box, which was every thing that seemed to be expected.
+pine box, which was every thing that seemed to be expected.
 
-      Immediately upon its arrival we made sail, and in a short [[Time|time]]
+Immediately upon its arrival we made sail, and in a short [[Time|time]]
 
-      were safely over the bar and standing out to sea.
+were safely over the bar and standing out to sea.
 
 
 
-      The box in question was, as I say, oblong. It was about six feet
+The box in question was, as I say, oblong. It was about six feet
 
-      in length by two and a half in breadth; I observed it
+in length by two and a half in breadth; I observed it
 
-      attentively, and like to be precise. Now this shape was peculiar;
+attentively, and like to be precise. Now this shape was peculiar;
 
-      and no sooner had I seen it, than I took credit to myself for the
+and no sooner had I seen it, than I took credit to myself for the
 
-      accuracy of my guessing. I had reached the conclusion, it will be
+accuracy of my guessing. I had reached the conclusion, it will be
 
-      remembered, that the extra baggage of my friend, the [[artist]],
+remembered, that the extra baggage of my friend, the [[artist]],
 
-      would prove to be pictures, or at least a picture; for I knew he
+would prove to be pictures, or at least a picture; for I knew he
 
-      had been for several weeks in conference with Nicolino:—and now
+had been for several weeks in conference with Nicolino:—and now
 
-      here was a box, which, from its shape, could possibly contain
+here was a box, which, from its shape, could possibly contain
 
-      nothing in the world but a copy of Leonardo’s “Last Supper;” and
+nothing in the world but a copy of Leonardo’s “Last Supper;” and
 
-      a copy of this very “Last Supper,” done by Rubini the younger, at
+a copy of this very “Last Supper,” done by Rubini the younger, at
 
-      Florence, I had known, for some [[Time|time]], to be in the possession of
+Florence, I had known, for some [[Time|time]], to be in the possession of
 
-      Nicolino. This point, therefore, I considered as sufficiently
+Nicolino. This point, therefore, I considered as sufficiently
 
-      settled. I chuckled excessively when I thought of my acumen. It
+settled. I chuckled excessively when I thought of my acumen. It
 
-      was the first [[Time|time]] I had ever known Wyatt to keep from me any of
+was the first [[Time|time]] I had ever known Wyatt to keep from me any of
 
-      his artistical [[Secrets|secrets]]; but here he evidently intended to steal a
+his artistical [[Secrets|secrets]]; but here he evidently intended to steal a
 
-      march upon me, and smuggle a fine picture to [[New York]], under my
+march upon me, and smuggle a fine picture to [[New York]], under my
 
-      very nose; expecting me to know nothing of the matter. I resolved
+very nose; expecting me to know nothing of the matter. I resolved
 
-      to quiz him [[Well|well]], now and hereafter.
+to quiz him [[Well|well]], now and hereafter.
 
 
 
-      One thing, however, annoyed me not a little. The box did not go
+One thing, however, annoyed me not a little. The box did not go
 
-      into the extra state-room. It was deposited in Wyatt’s own; and
+into the extra state-room. It was deposited in Wyatt’s own; and
 
-      there, too, it remained, occupying very nearly the whole of the
+there, too, it remained, occupying very nearly the whole of the
 
-      floor—no [[Doubt|doubt]] to the exceeding discomfort of the [[artist]] and his
+floor—no [[Doubt|doubt]] to the exceeding discomfort of the [[artist]] and his
 
-      wife;—this the more especially as the tar or paint with which it
+wife;—this the more especially as the tar or paint with which it
 
-      was lettered in sprawling capitals, emitted a strong,
+was lettered in sprawling capitals, emitted a strong,
 
-      disagreeable, and, to my fancy, a peculiarly disgusting odor. On
+disagreeable, and, to my fancy, a peculiarly disgusting odor. On
 
-      the lid were painted the words—“Mrs. Adelaide Curtis, Albany, New
+the lid were painted the words—“Mrs. Adelaide Curtis, Albany, New
 
-      York. Charge of Cornelius Wyatt, Esq. This side up. To be handled
+York. Charge of Cornelius Wyatt, Esq. This side up. To be handled
 
-      with care.”
+with care.”
 
 
 
-      Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
+Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
 
-      [[artist]]’s wife’s mother,—but then I looked upon the whole address
+[[artist]]’s wife’s mother,—but then I looked upon the whole address
 
-      as a [[Mystification|mystification]], intended especially for myself. I made up my
+as a [[Mystification|mystification]], intended especially for myself. I made up my
 
-      mind, of course, that the box and contents would never get
+mind, of course, that the box and contents would never get
 
-      farther north than the studio of my misanthropic friend, in
+farther north than the studio of my misanthropic friend, in
 
-      Chambers Street, [[New York]].
+Chambers Street, [[New York]].
 
 
 
-      For the first three or four days we had fine weather, although
+For the first three or four days we had fine weather, although
 
-      the [[Wind|wind]] was dead ahead; having chopped round to the northward,
+the [[Wind|wind]] was dead ahead; having chopped round to the northward,
 
-      immediately upon our losing sight of the coast. The passengers
+immediately upon our losing sight of the coast. The passengers
 
-      were, consequently, in high spirits and disposed to be social. I
+were, consequently, in high spirits and disposed to be social. I
 
-      must except, however, Wyatt and his sisters, who behaved stiffly,
+must except, however, Wyatt and his sisters, who behaved stiffly,
 
-      and, I could not help thinking, uncourteously to the rest of the
+and, I could not help thinking, uncourteously to the rest of the
 
-      party. Wyatt’s conduct I did not so much regard. He was gloomy,
+party. Wyatt’s conduct I did not so much regard. He was gloomy,
 
-      even beyond his usual habit—in fact he was morose—but in him I
+even beyond his usual habit—in fact he was morose—but in him I
 
-      was prepared for eccentricity. For the sisters, however, I could
+was prepared for eccentricity. For the sisters, however, I could
 
-      make no excuse. They secluded themselves in their staterooms
+make no excuse. They secluded themselves in their staterooms
 
-      during the greater part of the passage, and absolutely refused,
+during the greater part of the passage, and absolutely refused,
 
-      although I repeatedly urged them, to hold communication with any
+although I repeatedly urged them, to hold communication with any
 
-      person on board.
+person on board.
 
 
 
-      Mrs. Wyatt herself was far more agreeable. That is to say, she
+Mrs. Wyatt herself was far more agreeable. That is to say, she
 
-      was chatty; and to be chatty is no slight recommendation at sea.
+was chatty; and to be chatty is no slight recommendation at sea.
 
-      She became excessively intimate with most of the ladies; and, to
+She became excessively intimate with most of the ladies; and, to
 
-      my profound astonishment, evinced no equivocal disposition to
+my profound astonishment, evinced no equivocal disposition to
 
-      coquet with the men. She amused us all very much. I say
+coquet with the men. She amused us all very much. I say
 
-      “amused”—and scarcely know how to explain myself. The [[Truth|truth]] is, I
+“amused”—and scarcely know how to explain myself. The [[Truth|truth]] is, I
 
-      soon found that Mrs. W. was far oftener laughed at than with. The
+soon found that Mrs. W. was far oftener laughed at than with. The
 
-      gentlemen said little about her; but the ladies, in a little
+gentlemen said little about her; but the ladies, in a little
 
-      while, pronounced her “a good-hearted thing, rather indifferent
+while, pronounced her “a good-hearted thing, rather indifferent
 
-      looking, totally uneducated, and decidedly vulgar.” The great
+looking, totally uneducated, and decidedly vulgar.” The great
 
-      [[Wonder|wonder]] was, how Wyatt had been entrapped into such a match.
+[[Wonder|wonder]] was, how Wyatt had been entrapped into such a match.
 
-      Wealth was the general solution—but this I knew to be no solution
+Wealth was the general solution—but this I knew to be no solution
 
-      at all; for Wyatt had told me that she neither brought him a
+at all; for Wyatt had told me that she neither brought him a
 
-      dollar nor had any expectations from any source whatever. “He had
+dollar nor had any expectations from any source whatever. “He had
 
-      married,” he said, “for [[Love|love]], and for [[Love|love]] only; and his bride
+married,” he said, “for [[Love|love]], and for [[Love|love]] only; and his bride
 
-      was far more than worthy of his [[Love|love]].” When I thought of these
+was far more than worthy of his [[Love|love]].” When I thought of these
 
-      expressions, on the part of my friend, I confess that I felt
+expressions, on the part of my friend, I confess that I felt
 
-      indescribably puzzled. Could it be possible that he was taking
+indescribably puzzled. Could it be possible that he was taking
 
-      leave of his senses? What else could I think? He, so refined, so
+leave of his senses? What else could I think? He, so refined, so
 
-      intellectual, so fastidious, with so exquisite a perception of
+intellectual, so fastidious, with so exquisite a perception of
 
-      the faulty, and so keen an appreciation of the beautiful! To be
+the faulty, and so keen an appreciation of the beautiful! To be
 
-      sure, the lady seemed especially fond of him—particularly so in
+sure, the lady seemed especially fond of him—particularly so in
 
-      his absence—when she made herself ridiculous by frequent
+his absence—when she made herself ridiculous by frequent
 
-      quotations of what had been said by her “beloved husband, Mr.
+quotations of what had been said by her “beloved husband, Mr.
 
-      Wyatt.” The word “husband” seemed forever—to use one of her own
+Wyatt.” The word “husband” seemed forever—to use one of her own
 
-      delicate expressions—forever “on the tip of her tongue.” In the
+delicate expressions—forever “on the tip of her tongue.” In the
 
-      meantime, it was observed by all on board, that he avoided her in
+meantime, it was observed by all on board, that he avoided her in
 
-      the most pointed manner, and, for the most part, shut himself up
+the most pointed manner, and, for the most part, shut himself up
 
-      [[Alone|alone]] in his state-room, where, in fact, he might have been said
+[[Alone|alone]] in his state-room, where, in fact, he might have been said
 
-      to live altogether, leaving his wife at full liberty to amuse
+to live altogether, leaving his wife at full liberty to amuse
 
 
 
@@ -1351,191 +1351,191 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 <span class="atom-split" data-atom="part--part_03" data-title="The Oblong Box (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      herself as she thought best, in the public society of the main
+herself as she thought best, in the public society of the main
 
-      cabin.
+cabin.
 
 
 
-      My conclusion, from what I saw and heard, was, that, the [[artist]],
+My conclusion, from what I saw and heard, was, that, the [[artist]],
 
-      by some unaccountable freak of fate, or perhaps in some fit of
+by some unaccountable freak of fate, or perhaps in some fit of
 
-      enthusiastic and fanciful passion, had been induced to unite
+enthusiastic and fanciful passion, had been induced to unite
 
-      himself with a person altogether beneath him, and that the
+himself with a person altogether beneath him, and that the
 
-      natural result, entire and speedy disgust, had ensued. I pitied
+natural result, entire and speedy disgust, had ensued. I pitied
 
-      him from the [[Bottom|bottom]] of my heart—but could not, for that reason,
+him from the [[Bottom|bottom]] of my heart—but could not, for that reason,
 
-      quite forgive his incommunicativeness in the matter of the “Last
+quite forgive his incommunicativeness in the matter of the “Last
 
-      Supper.” For this I resolved to have my [[Revenge|revenge]].
+Supper.” For this I resolved to have my [[Revenge|revenge]].
 
 
 
-      One day he came upon deck, and, taking his arm as had been my
+One day he came upon deck, and, taking his arm as had been my
 
-      wont, I sauntered with him backward and forward. His gloom,
+wont, I sauntered with him backward and forward. His gloom,
 
-      however (which I considered quite natural under the
+however (which I considered quite natural under the
 
-      circumstances), seemed entirely unabated. He said little, and
+circumstances), seemed entirely unabated. He said little, and
 
-      that moodily, and with evident effort. I ventured a jest or two,
+that moodily, and with evident effort. I ventured a jest or two,
 
-      and he made a sickening attempt at a smile. Poor fellow!—as I
+and he made a sickening attempt at a smile. Poor fellow!—as I
 
-      thought of his wife, I wondered that he could have heart to put
+thought of his wife, I wondered that he could have heart to put
 
-      on even the semblance of mirth. I determined to commence a series
+on even the semblance of mirth. I determined to commence a series
 
-      of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
+of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
 
-      to let him perceive, gradually, that I was not altogether the
+to let him perceive, gradually, that I was not altogether the
 
-      butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
+butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
 
-      first observation was by way of opening a masked battery. I said
+first observation was by way of opening a masked battery. I said
 
-      something about the “peculiar shape of _that_ box”; and, as I
+something about the “peculiar shape of _that_ box”; and, as I
 
-      spoke the words, I smiled knowingly, winked, and touched him
+spoke the words, I smiled knowingly, winked, and touched him
 
-      gently with my forefinger in the ribs.
+gently with my forefinger in the ribs.
 
 
 
-      The manner in which Wyatt received this harmless pleasantry
+The manner in which Wyatt received this harmless pleasantry
 
-      convinced me, at once, that he was mad. At first he stared at me
+convinced me, at once, that he was mad. At first he stared at me
 
-      as if he found it impossible to comprehend the witticism of my
+as if he found it impossible to comprehend the witticism of my
 
-      remark; but as its point seemed slowly to make its way into his
+remark; but as its point seemed slowly to make its way into his
 
-      brain, his eyes, in the same proportion, seemed protruding from
+brain, his eyes, in the same proportion, seemed protruding from
 
-      their sockets. Then he grew very red—then hideously pale—then, as
+their sockets. Then he grew very red—then hideously pale—then, as
 
-      if highly amused with what I had insinuated, he began a loud and
+if highly amused with what I had insinuated, he began a loud and
 
-      boisterous laugh, which, to my astonishment, he kept up, with
+boisterous laugh, which, to my astonishment, he kept up, with
 
-      gradually increasing vigor, for ten minutes or more. In
+gradually increasing vigor, for ten minutes or more. In
 
-      conclusion, he fell flat and heavily upon the deck. When I ran to
+conclusion, he fell flat and heavily upon the deck. When I ran to
 
-      uplift him, to all appearance he was dead.
+uplift him, to all appearance he was dead.
 
 
 
-      I called assistance, and, with much difficulty, we brought him to
+I called assistance, and, with much difficulty, we brought him to
 
-      himself. Upon reviving he spoke incoherently for some [[Time|time]]. At
+himself. Upon reviving he spoke incoherently for some [[Time|time]]. At
 
-      length we bled him and put him to bed. The next morning he was
+length we bled him and put him to bed. The next morning he was
 
-      quite recovered, so far as regarded his mere bodily health. Of
+quite recovered, so far as regarded his mere bodily health. Of
 
-      his mind I say nothing, of course. I avoided him during the rest
+his mind I say nothing, of course. I avoided him during the rest
 
-      of the passage, by advice of the captain, who seemed to coincide
+of the passage, by advice of the captain, who seemed to coincide
 
-      with me altogether in my views of his insanity, but cautioned me
+with me altogether in my views of his insanity, but cautioned me
 
-      to say nothing on this head to any person on board.
+to say nothing on this head to any person on board.
 
 
 
-      Several circumstances occurred immediately after this fit of
+Several circumstances occurred immediately after this fit of
 
-      Wyatt which contributed to heighten the curiosity with which I
+Wyatt which contributed to heighten the curiosity with which I
 
-      was already possessed. Among other things, this: I had been
+was already possessed. Among other things, this: I had been
 
-      nervous—drank too much strong green tea, and slept ill at
+nervous—drank too much strong green tea, and slept ill at
 
-      [[Night|night]]—in fact, for two nights I could not be properly said to
+[[Night|night]]—in fact, for two nights I could not be properly said to
 
-      [[Sleep|sleep]] at all. Now, my state-room opened into the main cabin, or
+[[Sleep|sleep]] at all. Now, my state-room opened into the main cabin, or
 
-      dining-room, as did those of all the single men on board. Wyatt’s
+dining-room, as did those of all the single men on board. Wyatt’s
 
-      three rooms were in the after-cabin, which was separated from the
+three rooms were in the after-cabin, which was separated from the
 
-      main one by a slight sliding door, never locked even at [[Night|night]]. As
+main one by a slight sliding door, never locked even at [[Night|night]]. As
 
-      we were almost constantly on a [[Wind|wind]], and the breeze was not a
+we were almost constantly on a [[Wind|wind]], and the breeze was not a
 
-      little stiff, the [[Ship|ship]] heeled to leeward very considerably; and
+little stiff, the [[Ship|ship]] heeled to leeward very considerably; and
 
-      whenever her starboard side was to leeward, the sliding door
+whenever her starboard side was to leeward, the sliding door
 
-      between the cabins slid open, and so remained, nobody taking the
+between the cabins slid open, and so remained, nobody taking the
 
-      trouble to get up and shut it. But my berth was in such a
+trouble to get up and shut it. But my berth was in such a
 
-      position, that when my own state-room door was open, as [[Well|well]] as
+position, that when my own state-room door was open, as [[Well|well]] as
 
-      the sliding door in question (and my own door was always open on
+the sliding door in question (and my own door was always open on
 
-      account of the heat,) I could see into the after-cabin quite
+account of the heat,) I could see into the after-cabin quite
 
-      distinctly, and just at that portion of it, too, where were
+distinctly, and just at that portion of it, too, where were
 
-      situated the state-rooms of Mr. Wyatt. [[Well]], during two nights
+situated the state-rooms of Mr. Wyatt. [[Well]], during two nights
 
-      (not consecutive) while I lay awake, I clearly saw Mrs. W., about
+(not consecutive) while I lay awake, I clearly saw Mrs. W., about
 
-      eleven o’[[Clock|clock]] upon each [[Night|night]], steal cautiously from the
+eleven o’[[Clock|clock]] upon each [[Night|night]], steal cautiously from the
 
-      state-room of Mr. W., and enter the extra room, where she
+state-room of Mr. W., and enter the extra room, where she
 
-      remained until daybreak, when she was called by her husband and
+remained until daybreak, when she was called by her husband and
 
-      went back. That they were virtually separated was clear. They had
+went back. That they were virtually separated was clear. They had
 
-      separate apartments—no [[Doubt|doubt]] in contemplation of a more permanent
+separate apartments—no [[Doubt|doubt]] in contemplation of a more permanent
 
-      [[divorce]]; and here, after all I thought was the mystery of the
+[[divorce]]; and here, after all I thought was the mystery of the
 
-      extra state-room.
+extra state-room.
 
 
 
-      There was another circumstance, too, which interested me much.
+There was another circumstance, too, which interested me much.
 
-      During the two wakeful nights in question, and immediately after
+During the two wakeful nights in question, and immediately after
 
-      the disappearance of Mrs. Wyatt into the extra state-room, I was
+the disappearance of Mrs. Wyatt into the extra state-room, I was
 
-      attracted by certain singular cautious, subdued noises in that of
+attracted by certain singular cautious, subdued noises in that of
 
-      her husband. After listening to them for some [[Time|time]], with
+her husband. After listening to them for some [[Time|time]], with
 
-      thoughtful attention, I at length succeeded perfectly in
+thoughtful attention, I at length succeeded perfectly in
 
-      translating their import. They were sounds occasioned by the
+translating their import. They were sounds occasioned by the
 
-      [[artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
+[[artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
 
-      mallet—the latter being apparently muffled, or deadened, by some
+mallet—the latter being apparently muffled, or deadened, by some
 
-      soft woollen or cotton substance in which its head was enveloped.
+soft woollen or cotton substance in which its head was enveloped.
 
 
 
-      In this manner I fancied I could distinguish the precise moment
+In this manner I fancied I could distinguish the precise moment
 
-      when he fairly disengaged the lid—also, that I could determine
+when he fairly disengaged the lid—also, that I could determine
 
-      when he removed it altogether, and when he deposited it upon the
+when he removed it altogether, and when he deposited it upon the
 
-      lower berth in his room; this latter point I knew, for example,
+lower berth in his room; this latter point I knew, for example,
 
-      by certain slight taps which the lid made in striking against the
+by certain slight taps which the lid made in striking against the
 
 
 
@@ -1543,201 +1543,201 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 <span class="atom-split" data-atom="part--part_04" data-title="The Oblong Box (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      wooden edges of the berth, as he endeavored to lay it down very
+wooden edges of the berth, as he endeavored to lay it down very
 
-      gently—there being no room for it on the floor. After this there
+gently—there being no room for it on the floor. After this there
 
-      was a dead stillness, and I heard nothing more, upon either
+was a dead stillness, and I heard nothing more, upon either
 
-      occasion, until nearly daybreak; unless, perhaps, I may mention a
+occasion, until nearly daybreak; unless, perhaps, I may mention a
 
-      low sobbing, or murmuring sound, so very much suppressed as to be
+low sobbing, or murmuring sound, so very much suppressed as to be
 
-      nearly inaudible—if, indeed, the whole of this latter noise were
+nearly inaudible—if, indeed, the whole of this latter noise were
 
-      not rather produced by my own [[Imagination|imagination]]. I say it seemed to
+not rather produced by my own [[Imagination|imagination]]. I say it seemed to
 
-      resemble sobbing or sighing—but, of course, it could not have
+resemble sobbing or sighing—but, of course, it could not have
 
-      been either. I rather think it was a ringing in my own ears. Mr.
+been either. I rather think it was a ringing in my own ears. Mr.
 
-      Wyatt, no [[Doubt|doubt]], according to custom, was merely giving the rein
+Wyatt, no [[Doubt|doubt]], according to custom, was merely giving the rein
 
-      to one of his hobbies—indulging in one of his fits of artistic
+to one of his hobbies—indulging in one of his fits of artistic
 
-      enthusiasm. He had opened his oblong box, in order to feast his
+enthusiasm. He had opened his oblong box, in order to feast his
 
-      eyes on the pictorial treasure within. There was nothing in this,
+eyes on the pictorial treasure within. There was nothing in this,
 
-      however, to make him sob. I repeat, therefore, that it must have
+however, to make him sob. I repeat, therefore, that it must have
 
-      been simply a freak of my own fancy, distempered by good Captain
+been simply a freak of my own fancy, distempered by good Captain
 
-      Hardy’s green tea. Just before [[Dawn|dawn]], on each of the two nights of
+Hardy’s green tea. Just before [[Dawn|dawn]], on each of the two nights of
 
-      which I speak, I distinctly heard Mr. Wyatt replace the lid upon
+which I speak, I distinctly heard Mr. Wyatt replace the lid upon
 
-      [[The Oblong Box|the oblong box]], and force the nails into their old places by
+[[The Oblong Box|the oblong box]], and force the nails into their old places by
 
-      means of the muffled mallet. Having done this, he issued from his
+means of the muffled mallet. Having done this, he issued from his
 
-      state-room, fully dressed, and proceeded to call Mrs. W. from
+state-room, fully dressed, and proceeded to call Mrs. W. from
 
-      hers.
+hers.
 
 
 
-      We had been at sea seven days, and were now off Cape Hatteras,
+We had been at sea seven days, and were now off Cape Hatteras,
 
-      when there came a tremendously heavy blow from the southwest. We
+when there came a tremendously heavy blow from the southwest. We
 
-      were, in a measure, prepared for it, however, as the weather had
+were, in a measure, prepared for it, however, as the weather had
 
-      been holding out threats for some [[Time|time]]. Every thing was made
+been holding out threats for some [[Time|time]]. Every thing was made
 
-      snug, alow and aloft; and as the [[Wind|wind]] steadily freshened, we lay
+snug, alow and aloft; and as the [[Wind|wind]] steadily freshened, we lay
 
-      to, at length, under spanker and foretopsail, both [[Double|double]]-reefed.
+to, at length, under spanker and foretopsail, both [[Double|double]]-reefed.
 
 
 
-      In this trim we rode safely enough for forty-eight hours—the [[Ship|ship]]
+In this trim we rode safely enough for forty-eight hours—the [[Ship|ship]]
 
-      proving herself an excellent sea-boat in many respects, and
+proving herself an excellent sea-boat in many respects, and
 
-      shipping no [[Water|water]] of any consequence. At the end of this period,
+shipping no [[Water|water]] of any consequence. At the end of this period,
 
-      however, the gale had freshened into a hurricane, and our
+however, the gale had freshened into a hurricane, and our
 
-      after-sail split into ribbons, bringing us so much in the trough
+after-sail split into ribbons, bringing us so much in the trough
 
-      of the [[Water|water]] that we shipped several prodigious seas, one
+of the [[Water|water]] that we shipped several prodigious seas, one
 
-      immediately after the other. By this accident we lost three men
+immediately after the other. By this accident we lost three men
 
-      overboard with the caboose, and nearly the whole of the larboard
+overboard with the caboose, and nearly the whole of the larboard
 
-      bulwarks. Scarcely had we recovered our senses, before the
+bulwarks. Scarcely had we recovered our senses, before the
 
-      foretopsail went into shreds, when we got up a [[Storm|storm]] stay-sail
+foretopsail went into shreds, when we got up a [[Storm|storm]] stay-sail
 
-      and with this did pretty [[Well|well]] for some hours, the [[Ship|ship]] heading
+and with this did pretty [[Well|well]] for some hours, the [[Ship|ship]] heading
 
-      the sea much more steadily than before.
+the sea much more steadily than before.
 
 
 
-      The gale still held on, however, and we saw no signs of its
+The gale still held on, however, and we saw no signs of its
 
-      abating. The rigging was found to be ill-fitted, and greatly
+abating. The rigging was found to be ill-fitted, and greatly
 
-      strained; and on the third day of the blow, about five in the
+strained; and on the third day of the blow, about five in the
 
-      afternoon, our mizzen-mast, in a heavy lurch to windward, went by
+afternoon, our mizzen-mast, in a heavy lurch to windward, went by
 
-      the board. For an hour or more, we tried in vain to get rid of
+the board. For an hour or more, we tried in vain to get rid of
 
-      it, on account of the prodigious [[rolling]] of the [[Ship|ship]]; and, before
+it, on account of the prodigious [[rolling]] of the [[Ship|ship]]; and, before
 
-      we had succeeded, the carpenter came aft and announced four feet
+we had succeeded, the carpenter came aft and announced four feet
 
-      of [[Water|water]] in the hold. To add to our dilemma, we found the pumps
+of [[Water|water]] in the hold. To add to our dilemma, we found the pumps
 
-      choked and nearly useless.
+choked and nearly useless.
 
 
 
-      All was now confusion and [[Despair|despair]]—but an effort was made to
+All was now confusion and [[Despair|despair]]—but an effort was made to
 
-      lighten the [[Ship|ship]] by throwing overboard as much of her cargo as
+lighten the [[Ship|ship]] by throwing overboard as much of her cargo as
 
-      could be reached, and by cutting away the two masts that
+could be reached, and by cutting away the two masts that
 
-      remained. This we at last accomplished—but we were still unable
+remained. This we at last accomplished—but we were still unable
 
-      to do any thing at the pumps; and, in the meantime, the leak
+to do any thing at the pumps; and, in the meantime, the leak
 
-      gained on us very fast.
+gained on us very fast.
 
 
 
-      At sundown, the gale had sensibly diminished in violence, and as
+At sundown, the gale had sensibly diminished in violence, and as
 
-      the sea went down with it, we still entertained faint hopes of
+the sea went down with it, we still entertained faint hopes of
 
-      saving ourselves in the boats. At eight P. M., the clouds broke
+saving ourselves in the boats. At eight P. M., the clouds broke
 
-      away to windward, and we had the advantage of a full [[Moon|moon]]—a piece
+away to windward, and we had the advantage of a full [[Moon|moon]]—a piece
 
-      of good fortune which served wonderfully to cheer our drooping
+of good fortune which served wonderfully to cheer our drooping
 
-      spirits.
+spirits.
 
 
 
-      After incredible labor we succeeded, at length, in getting the
+After incredible labor we succeeded, at length, in getting the
 
-      longboat over the side without material accident, and into this
+longboat over the side without material accident, and into this
 
-      we crowded the whole of the crew and most of the passengers. This
+we crowded the whole of the crew and most of the passengers. This
 
-      party made off immediately, and, after undergoing much [[Suffering|suffering]],
+party made off immediately, and, after undergoing much [[Suffering|suffering]],
 
-      finally arrived, in safety, at Ocracoke Inlet, on the third day
+finally arrived, in safety, at Ocracoke Inlet, on the third day
 
-      after the wreck.
+after the wreck.
 
 
 
-      Fourteen passengers, with the captain, remained on board,
+Fourteen passengers, with the captain, remained on board,
 
-      resolving to trust their fortunes to the jolly-boat at the stern.
+resolving to trust their fortunes to the jolly-boat at the stern.
 
-      We lowered it without difficulty, although it was only by a
+We lowered it without difficulty, although it was only by a
 
-      miracle that we prevented it from swamping as it touched the
+miracle that we prevented it from swamping as it touched the
 
-      [[Water|water]]. It contained, when afloat, the captain and his wife, Mr.
+[[Water|water]]. It contained, when afloat, the captain and his wife, Mr.
 
-      Wyatt and party, a Mexican officer, wife, four children, and
+Wyatt and party, a Mexican officer, wife, four children, and
 
-      myself, with a negro valet.
+myself, with a negro valet.
 
 
 
-      We had no room, of course, for any thing except a few positively
+We had no room, of course, for any thing except a few positively
 
-      necessary instruments, some provisions, and the clothes upon our
+necessary instruments, some provisions, and the clothes upon our
 
-      backs. No one had thought of even attempting to save any thing
+backs. No one had thought of even attempting to save any thing
 
-      more. What must have been the astonishment of all, then, when
+more. What must have been the astonishment of all, then, when
 
-      having proceeded a few fathoms from the [[Ship|ship]], Mr. Wyatt stood up
+having proceeded a few fathoms from the [[Ship|ship]], Mr. Wyatt stood up
 
-      in the stern-sheets, and coolly demanded of Captain Hardy that
+in the stern-sheets, and coolly demanded of Captain Hardy that
 
-      the boat should be put back for the purpose of taking in his
+the boat should be put back for the purpose of taking in his
 
-      oblong box!
+oblong box!
 
 
 
-      “Sit down, Mr. Wyatt,” replied the captain, somewhat sternly,
+“Sit down, Mr. Wyatt,” replied the captain, somewhat sternly,
 
-      “you will capsize us if you do not sit quite still. Our gunwhale
+“you will capsize us if you do not sit quite still. Our gunwhale
 
-      is almost in the [[Water|water]] now.”
+is almost in the [[Water|water]] now.”
 
 
 
-      “The box!” vociferated Mr. Wyatt, still standing—“the box, I say!
+“The box!” vociferated Mr. Wyatt, still standing—“the box, I say!
 
-      Captain Hardy, you cannot, you will not refuse me. Its weight
+Captain Hardy, you cannot, you will not refuse me. Its weight
 
-      will be but a trifle—it is nothing—mere nothing. By the mother
+will be but a trifle—it is nothing—mere nothing. By the mother
 
-      who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
+who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
 
 
 
@@ -1745,192 +1745,192 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 <span class="atom-split" data-atom="part--part_05" data-title="The Oblong Box (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-      implore you to put back for the box!”
+implore you to put back for the box!”
 
 
 
-      The captain, for a moment, seemed touched by the earnest appeal
+The captain, for a moment, seemed touched by the earnest appeal
 
-      of the [[artist]], but he regained his stern composure, and merely
+of the [[artist]], but he regained his stern composure, and merely
 
-      said:
+said:
 
 
 
-      “Mr. Wyatt, you are mad. I cannot listen to you. Sit down, I say,
+“Mr. Wyatt, you are mad. I cannot listen to you. Sit down, I say,
 
-      or you will swamp the boat. Stay—hold him—seize him!—he is about
+or you will swamp the boat. Stay—hold him—seize him!—he is about
 
-      to [[spring]] overboard! There—I knew it—he is over!”
+to [[spring]] overboard! There—I knew it—he is over!”
 
 
 
-      As the captain said this, Mr. Wyatt, in fact, sprang from the
+As the captain said this, Mr. Wyatt, in fact, sprang from the
 
-      boat, and, as we were yet in the lee of the wreck, succeeded, by
+boat, and, as we were yet in the lee of the wreck, succeeded, by
 
-      almost superhuman exertion, in getting hold of a rope which hung
+almost superhuman exertion, in getting hold of a rope which hung
 
-      from the fore-[[Chains|chains]]. In another moment he was on board, and
+from the fore-[[Chains|chains]]. In another moment he was on board, and
 
-      rushing frantically down into the cabin.
+rushing frantically down into the cabin.
 
 
 
-      In the meantime, we had been swept astern of the [[Ship|ship]], and being
+In the meantime, we had been swept astern of the [[Ship|ship]], and being
 
-      quite out of her lee, were at the [[Mercy|mercy]] of the tremendous sea
+quite out of her lee, were at the [[Mercy|mercy]] of the tremendous sea
 
-      which was still running. We made a determined effort to put back,
+which was still running. We made a determined effort to put back,
 
-      but our little boat was like a feather in the breath of the
+but our little boat was like a feather in the breath of the
 
-      tempest. We saw at a glance that the doom of the unfortunate
+tempest. We saw at a glance that the doom of the unfortunate
 
-      [[artist]] was sealed.
+[[artist]] was sealed.
 
 
 
-      As our distance from the wreck rapidly increased, the madman (for
+As our distance from the wreck rapidly increased, the madman (for
 
-      as such only could we regard him) was seen to emerge from the
+as such only could we regard him) was seen to emerge from the
 
-      companion—way, up which by dint of strength that appeared
+companion—way, up which by dint of strength that appeared
 
-      gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
+gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
 
-      the extremity of astonishment, he passed, rapidly, several turns
+the extremity of astonishment, he passed, rapidly, several turns
 
-      of a three-inch rope, first around the box and then around his
+of a three-inch rope, first around the box and then around his
 
-      [[Body|body]]. In another instant both [[Body|body]] and box were in the
+[[Body|body]]. In another instant both [[Body|body]] and box were in the
 
-      sea—disappearing suddenly, at once and forever.
+sea—disappearing suddenly, at once and forever.
 
 
 
-      We lingered awhile sadly upon our oars, with our eyes riveted
+We lingered awhile sadly upon our oars, with our eyes riveted
 
-      upon the spot. At length we pulled away. The [[Silence|silence]] remained
+upon the spot. At length we pulled away. The [[Silence|silence]] remained
 
-      unbroken for an hour. Finally, I hazarded a remark.
+unbroken for an hour. Finally, I hazarded a remark.
 
 
 
-      “Did you observe, captain, how suddenly they sank? Was not that
+“Did you observe, captain, how suddenly they sank? Was not that
 
-      an exceedingly singular thing? I confess that I entertained some
+an exceedingly singular thing? I confess that I entertained some
 
-      feeble [[Hope|hope]] of his final deliverance, when I saw him lash himself
+feeble [[Hope|hope]] of his final deliverance, when I saw him lash himself
 
-      to the box, and commit himself to the sea.”
+to the box, and commit himself to the sea.”
 
 
 
-      “They sank as a matter of course,” replied the captain, “and that
+“They sank as a matter of course,” replied the captain, “and that
 
-      like a shot. They will soon rise again, however—but not till the
+like a shot. They will soon rise again, however—but not till the
 
-      salt melts.”
+salt melts.”
 
 
 
-      “The salt!” I ejaculated.
+“The salt!” I ejaculated.
 
 
 
-      “Hush!” said the captain, pointing to the wife and sisters of the
+“Hush!” said the captain, pointing to the wife and sisters of the
 
-      deceased. “We must talk of these things at some more appropriate
+deceased. “We must talk of these things at some more appropriate
 
-      [[Time|time]].”
+[[Time|time]].”
 
 
 
-      We suffered much, and made a narrow escape; but fortune
+We suffered much, and made a narrow escape; but fortune
 
-      befriended us, as [[Well|well]] as our mates in the long-boat. We landed,
+befriended us, as [[Well|well]] as our mates in the long-boat. We landed,
 
-      in fine, more dead than alive, after four days of intense
+in fine, more dead than alive, after four days of intense
 
-      distress, upon the beach opposite Roanoke Island. We remained
+distress, upon the beach opposite Roanoke Island. We remained
 
-      here a week, were not ill-treated by the wreckers, and at length
+here a week, were not ill-treated by the wreckers, and at length
 
-      obtained a passage to [[New York]].
+obtained a passage to [[New York]].
 
 
 
-      About a month after the loss of the “Independence,” I happened to
+About a month after the loss of the “Independence,” I happened to
 
-      meet Captain Hardy in Broadway. Our conversation turned,
+meet Captain Hardy in Broadway. Our conversation turned,
 
-      naturally, upon the disaster, and especially upon the sad fate of
+naturally, upon the disaster, and especially upon the sad fate of
 
-      poor Wyatt. I thus learned the following particulars.
+poor Wyatt. I thus learned the following particulars.
 
 
 
-      The [[artist]] had engaged passage for himself, wife, two sisters and
+The [[artist]] had engaged passage for himself, wife, two sisters and
 
-      a servant. His wife was, indeed, as she had been represented, a
+a servant. His wife was, indeed, as she had been represented, a
 
-      most lovely, and most accomplished woman. On the morning of the
+most lovely, and most accomplished woman. On the morning of the
 
-      fourteenth of June (the day in which I first visited the [[Ship|ship]]),
+fourteenth of June (the day in which I first visited the [[Ship|ship]]),
 
-      the lady suddenly sickened and died. The young husband was
+the lady suddenly sickened and died. The young husband was
 
-      frantic with grief—but circumstances imperatively forbade the
+frantic with grief—but circumstances imperatively forbade the
 
-      deferring his voyage to [[New York]]. It was necessary to take to her
+deferring his voyage to [[New York]]. It was necessary to take to her
 
-      mother the corpse of his adored wife, and, on the other hand, the
+mother the corpse of his adored wife, and, on the other hand, the
 
-      universal prejudice which would prevent his doing so openly was
+universal prejudice which would prevent his doing so openly was
 
-      [[Well|well]] known. Nine-tenths of the passengers would have abandoned
+[[Well|well]] known. Nine-tenths of the passengers would have abandoned
 
-      the [[Ship|ship]] rather than take passage with a dead [[Body|body]].
+the [[Ship|ship]] rather than take passage with a dead [[Body|body]].
 
 
 
-      In this dilemma, Captain Hardy arranged that the corpse, being
+In this dilemma, Captain Hardy arranged that the corpse, being
 
-      first partially embalmed, and packed, with a large quantity of
+first partially embalmed, and packed, with a large quantity of
 
-      salt, in a box of suitable dimensions, should be conveyed on
+salt, in a box of suitable dimensions, should be conveyed on
 
-      board as merchandise. Nothing was to be said of the lady’s
+board as merchandise. Nothing was to be said of the lady’s
 
-      decease; and, as it was [[Well|well]] understood that Mr. Wyatt had
+decease; and, as it was [[Well|well]] understood that Mr. Wyatt had
 
-      engaged passage for his wife, it became necessary that some
+engaged passage for his wife, it became necessary that some
 
-      person should personate her during the voyage. This the deceased
+person should personate her during the voyage. This the deceased
 
-      lady’s-maid was easily prevailed on to do. The extra state-room,
+lady’s-maid was easily prevailed on to do. The extra state-room,
 
-      originally engaged for this girl during her mistress’ life, was
+originally engaged for this girl during her mistress’ life, was
 
-      now merely retained. In this state-room the pseudo-wife, slept,
+now merely retained. In this state-room the pseudo-wife, slept,
 
-      of course, every [[Night|night]]. In the daytime she performed, to the best
+of course, every [[Night|night]]. In the daytime she performed, to the best
 
-      of her ability, the part of her mistress—whose person, it had
+of her ability, the part of her mistress—whose person, it had
 
-      been carefully ascertained, was unknown to any of the passengers
+been carefully ascertained, was unknown to any of the passengers
 
-      on board.
+on board.
 
 
 
-      My own mistake arose, naturally enough, through too careless, too
+My own mistake arose, naturally enough, through too careless, too
 
-      inquisitive, and too impulsive a temperament. But of late, it is
+inquisitive, and too impulsive a temperament. But of late, it is
 
-      a rare thing that I [[Sleep|sleep]] soundly at [[Night|night]]. There is a
+a rare thing that I [[Sleep|sleep]] soundly at [[Night|night]]. There is a
 
-      countenance which haunts me, turn as I will. There is an
+countenance which haunts me, turn as I will. There is an
 
-      hysterical laugh which will forever ring within my ears.
+hysterical laugh which will forever ring within my ears.

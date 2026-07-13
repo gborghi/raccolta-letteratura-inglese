@@ -2652,11 +2652,11 @@ continental culture, by Mr. George Moore as by Mr. Belloc. One (to
 
 which I am much attached) had a [[Chorus|chorus]]--
 
-  "O [[Wind|wind]] from the South
+"O [[Wind|wind]] from the South
 
-  Blow mud in the mouth
+Blow mud in the mouth
 
-  Of Jane, Jane, Jane."
+Of Jane, Jane, Jane."
 
 Note, again, not only the tremendous vision of clinging soils carried
 
@@ -3356,15 +3356,15 @@ the upstart despotism, must have looked on at its cold brutality not
 
 without that ugly question which [[Hamlet]] asked himself--am I a coward?
 
-                      It cannot be
+It cannot be
 
-  But I am pigeon-livered and lack gall
+But I am pigeon-livered and lack gall
 
-  To make oppression bitter; or 'ere this
+To make oppression bitter; or 'ere this
 
-  I should have fatted all the region kites
+I should have fatted all the region kites
 
-  With this slave's offal.
+With this slave's offal.
 
 We made dumb our anger and our [[Honour|honour]]; but it has not brought us peace.
 
@@ -3670,9 +3670,9 @@ before Rome," and expressed a rhythmic impatience for the [[Time|time]] when the
 
 world
 
-  "Shall ring to the roar of the [[Lion|lion]]
+"Shall ring to the roar of the [[Lion|lion]]
 
-  Proclaiming Republican Rome."
+Proclaiming Republican Rome."
 
 But he might have remembered, after all, that it was not the British
 
@@ -5298,7 +5298,7 @@ End of Project Gutenberg's The Crimes of England, by G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.net/1/1/5/5/11554/
+http://www.gutenberg.net/1/1/5/5/11554/
 
 Produced by Robert Shimmin, Caitlin and PG Distributed Proofreaders
 
@@ -5552,53 +5552,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -5792,11 +5792,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -5890,7 +5890,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -5910,11 +5910,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
 
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -5928,15 +5928,15 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
 
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
 
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 
@@ -8854,11 +8854,11 @@ continental culture, by Mr. George Moore as by Mr. Belloc. One (to
 
 which I am much attached) had a [[Chorus|chorus]]--
 
-  "O [[Wind|wind]] from the South
+"O [[Wind|wind]] from the South
 
-  Blow mud in the mouth
+Blow mud in the mouth
 
-  Of Jane, Jane, Jane."
+Of Jane, Jane, Jane."
 
 Note, again, not only the tremendous vision of clinging soils carried
 
@@ -9582,15 +9582,15 @@ the upstart despotism, must have looked on at its cold brutality not
 
 without that ugly question which [[Hamlet]] asked himself--am I a coward?
 
-                      It cannot be
+It cannot be
 
-  But I am pigeon-livered and lack gall
+But I am pigeon-livered and lack gall
 
-  To make oppression bitter; or 'ere this
+To make oppression bitter; or 'ere this
 
-  I should have fatted all the region kites
+I should have fatted all the region kites
 
-  With this slave's offal.
+With this slave's offal.
 
 We made dumb our anger and our [[Honour|honour]]; but it has not brought us peace.
 
@@ -9908,9 +9908,9 @@ before Rome," and expressed a rhythmic impatience for the [[Time|time]] when the
 
 world
 
-  "Shall ring to the roar of the [[Lion|lion]]
+"Shall ring to the roar of the [[Lion|lion]]
 
-  Proclaiming Republican Rome."
+Proclaiming Republican Rome."
 
 But he might have remembered, after all, that it was not the British
 
@@ -11596,7 +11596,7 @@ End of Project Gutenberg's The Crimes of England, by G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.net/1/1/5/5/11554/
+http://www.gutenberg.net/1/1/5/5/11554/
 
 Produced by Robert Shimmin, Caitlin and PG Distributed Proofreaders
 
@@ -11856,53 +11856,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -12047,53 +12047,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -12292,11 +12292,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -12483,11 +12483,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -12586,7 +12586,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -12606,11 +12606,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
 
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -12624,15 +12624,15 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
 
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
 
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12713,7 +12713,7 @@ nuovi nomi di file e nuovi numeri etext.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 
@@ -12733,11 +12733,11 @@ sistema di ricerca potete utilizzare i seguenti indirizzi e semplicemente
 
 scaricare per anno etext. Per esempio:
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Oppure /etext 05, 04, 03, 02, 01, 00, 99,
+(Oppure /etext 05, 04, 03, 02, 01, 00, 99,
 
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 Gli eBook pubblicati dal novembre 2003, con numeri etext SUPERIORI a #10000, sono
 
@@ -12751,12 +12751,12 @@ cifre corrispondenti a tutte tranne l'ultima cifra del nome del file.  Per
 
 esempio un eBook con nome di file 10234 si troverebbe in:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 o il nome di file 24689 si troverebbe in:
 
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 Un metodo alternativo per localizzare gli eBook:
 
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL

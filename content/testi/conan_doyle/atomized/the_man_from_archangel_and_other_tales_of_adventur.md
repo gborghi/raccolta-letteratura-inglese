@@ -1486,7 +1486,7 @@ THE CABMAN’S STORY
 
 
 
-<span class="atom-split" data-atom="story_01_tales_of_adventure" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — TALES OF ADVENTURE" data-chapter="Story 01 TALES OF ADVENTURE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_tales_of_adventure" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — TALES OF ADVENTURE" data-chapter="TALES OF ADVENTURE" data-kind="story"></span>
 
 
 TALES OF ADVENTURE
@@ -1585,7 +1585,7 @@ The General was standing erect. Both he and the Chief of the Intelligence were l
 
 
 
-<span class="atom-split" data-atom="story_02_the_surgeon_of_gaster_fell_how_the_woman" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE SURGEON OF GASTER FELL: HOW THE WOMAN CAME TO KIRKBY-MALHOUSE" data-chapter="Story 02 THE SURGEON OF GASTER FELL HOW THE WOMAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_surgeon_of_gaster_fell_how_the_woman" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE SURGEON OF GASTER FELL: HOW THE WOMAN CAME TO KIRKBY-MALHOUSE" data-chapter="THE SURGEON OF GASTER FELL HOW THE WOMAN" data-kind="story"></span>
 
 
 THE SURGEON OF GASTER FELL: HOW THE WOMAN CAME TO KIRKBY-MALHOUSE
@@ -1606,7 +1606,7 @@ Mrs. Adams, my landlady, was wont to carry up my frugal breakfast; yet it was ve
 
 
 
-<span class="atom-split" data-atom="story_03_how_i_went_forth_to_gaster_fell" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — HOW I WENT FORTH TO GASTER FELL" data-chapter="Story 03 HOW I WENT FORTH TO GASTER FELL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_how_i_went_forth_to_gaster_fell" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — HOW I WENT FORTH TO GASTER FELL" data-chapter="HOW I WENT FORTH TO GASTER FELL" data-kind="story"></span>
 
 
 HOW I WENT FORTH TO GASTER FELL
@@ -1677,7 +1677,7 @@ There was no mistaking those dark eyes, that tall, graceful figure. It was she �
 
 
 
-<span class="atom-split" data-atom="story_04_of_the_grey_cottage_in_the_glen" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — OF THE GREY COTTAGE IN THE GLEN" data-chapter="Story 04 OF THE GREY COTTAGE IN THE GLEN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_of_the_grey_cottage_in_the_glen" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — OF THE GREY COTTAGE IN THE GLEN" data-chapter="OF THE GREY COTTAGE IN THE GLEN" data-kind="story"></span>
 
 
 OF THE GREY COTTAGE IN THE GLEN
@@ -1710,7 +1710,7 @@ I caught no glimpse of the surgeon upon my homeward journey; but when I reached 
 
 
 
-<span class="atom-split" data-atom="story_05_of_the_man_who_came_in_the_night" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — OF THE MAN WHO CAME IN THE NIGHT" data-chapter="Story 05 OF THE MAN WHO CAME IN THE NIGHT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_of_the_man_who_came_in_the_night" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — OF THE MAN WHO CAME IN THE NIGHT" data-chapter="OF THE MAN WHO CAME IN THE NIGHT" data-kind="story"></span>
 
 
 OF THE MAN WHO CAME IN THE NIGHT
@@ -1736,7 +1736,7 @@ And what was the meaning of it all? you ask. Many a drama which I have come acro
 
 
 
-<span class="atom-split" data-atom="story_06_borrowed_scenes" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — BORROWED SCENES" data-chapter="Story 06 BORROWED SCENES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_borrowed_scenes" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — BORROWED SCENES" data-chapter="BORROWED SCENES" data-kind="story"></span>
 
 
 BORROWED SCENES
@@ -1869,7 +1869,7 @@ I again asked for my coat, but it was clear now that before offering to fight th
 
 
 
-<span class="atom-split" data-atom="story_07_the_man_from_archangel" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE MAN FROM ARCHANGEL" data-chapter="Story 07 THE MAN FROM ARCHANGEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_man_from_archangel" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE MAN FROM ARCHANGEL" data-chapter="THE MAN FROM ARCHANGEL" data-kind="story"></span>
 
 
 THE MAN FROM ARCHANGEL
@@ -1958,7 +1958,7 @@ Madge and I buried them there on the shores of the desolate northern sea. They l
 
 
 
-<span class="atom-split" data-atom="story_08_the_great_brown_pericord_motor" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE GREAT BROWN-PERICORD MOTOR" data-chapter="Story 08 THE GREAT BROWN PERICORD MOTOR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_great_brown_pericord_motor" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE GREAT BROWN-PERICORD MOTOR" data-chapter="THE GREAT BROWN PERICORD MOTOR" data-kind="story"></span>
 
 
 THE GREAT BROWN-PERICORD MOTOR
@@ -2052,7 +2052,7 @@ In the New York State Lunatic Asylum there is a wild-eyed man whose name and bir
 
 
 
-<span class="atom-split" data-atom="story_09_the_sealed_room" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE SEALED ROOM" data-chapter="Story 09 THE SEALED ROOM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_sealed_room" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE SEALED ROOM" data-chapter="THE SEALED ROOM" data-kind="story"></span>
 
 
 THE SEALED ROOM
@@ -2212,7 +2212,7 @@ There was a silence for some time. It was broken by young Stanniford.
 
 
 
-<span class="atom-split" data-atom="story_10_tales_of_medical_life" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — TALES OF MEDICAL LIFE" data-chapter="Story 10 TALES OF MEDICAL LIFE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_tales_of_medical_life" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — TALES OF MEDICAL LIFE" data-chapter="TALES OF MEDICAL LIFE" data-kind="story"></span>
 
 
 TALES OF MEDICAL LIFE
@@ -2439,7 +2439,7 @@ So they did so.
 
 
 
-<span class="atom-split" data-atom="story_11_behind_the_times" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — BEHIND THE TIMES" data-chapter="Story 11 BEHIND THE TIMES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_behind_the_times" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — BEHIND THE TIMES" data-chapter="BEHIND THE TIMES" data-kind="story"></span>
 
 
 BEHIND THE TIMES
@@ -2462,7 +2462,7 @@ She was back with an answer presently.
 
 
 
-<span class="atom-split" data-atom="story_12_his_first_operation" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — HIS FIRST OPERATION" data-chapter="Story 12 HIS FIRST OPERATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_his_first_operation" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — HIS FIRST OPERATION" data-chapter="HIS FIRST OPERATION" data-kind="story"></span>
 
 
 HIS FIRST OPERATION
@@ -2535,7 +2535,7 @@ There was a pause, and then the three students burst out laughing.
 
 
 
-<span class="atom-split" data-atom="story_13_the_third_generation" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE THIRD GENERATION" data-chapter="Story 13 THE THIRD GENERATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_third_generation" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE THIRD GENERATION" data-chapter="THE THIRD GENERATION" data-kind="story"></span>
 
 
 THE THIRD GENERATION
@@ -2634,7 +2634,7 @@ Doctor Horace Selby heard again of his patient next morning and rather earlier t
 
 
 
-<span class="atom-split" data-atom="story_14_the_curse_of_eve" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE CURSE OF EVE" data-chapter="Story 14 THE CURSE OF EVE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_curse_of_eve" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE CURSE OF EVE" data-chapter="THE CURSE OF EVE" data-kind="story"></span>
 
 
 THE CURSE OF EVE
@@ -2735,7 +2735,7 @@ So he sat in silence with his hand in hers. The lamp was burning dim and the fir
 
 
 
-<span class="atom-split" data-atom="story_15_a_medical_document" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — A MEDICAL DOCUMENT" data-chapter="Story 15 A MEDICAL DOCUMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_a_medical_document" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — A MEDICAL DOCUMENT" data-chapter="A MEDICAL DOCUMENT" data-kind="story"></span>
 
 
 A MEDICAL DOCUMENT
@@ -2793,7 +2793,7 @@ The three medical men laugh as they walk towards their overcoats.
 
 
 
-<span class="atom-split" data-atom="story_16_the_surgeon_talks" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE SURGEON TALKS" data-chapter="Story 16 THE SURGEON TALKS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_surgeon_talks" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE SURGEON TALKS" data-chapter="THE SURGEON TALKS" data-kind="story"></span>
 
 
 THE SURGEON TALKS
@@ -2821,7 +2821,7 @@ THE SURGEON TALKS
 
 
 
-<span class="atom-split" data-atom="story_17_the_doctors_of_hoyland" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE DOCTORS OF HOYLAND" data-chapter="Story 17 THE DOCTORS OF HOYLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_doctors_of_hoyland" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — THE DOCTORS OF HOYLAND" data-chapter="THE DOCTORS OF HOYLAND" data-kind="story"></span>
 
 
 THE DOCTORS OF HOYLAND
@@ -2920,7 +2920,7 @@ And so it came about that in a very few weeks there was only one doctor in Hoyla
 
 
 
-<span class="atom-split" data-atom="story_18_crabbes_practice" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — CRABBE’S PRACTICE" data-chapter="Story 18 CRABBES PRACTICE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_crabbes_practice" data-title="THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — CRABBE’S PRACTICE" data-chapter="CRABBES PRACTICE" data-kind="story"></span>
 
 
 CRABBE’S PRACTICE

@@ -750,7 +750,7 @@ And, in its [[Marriage|marriage]] robe, the heavy [[Body|body]] wound.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Lamia — Part I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Lamia — Part I" data-chapter="part i" data-kind="section"></span>
 
 
 ## [[Lamia|LAMIA]] PART I
@@ -1166,7 +1166,7 @@ Shut from the busy world of more incredulous.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="Lamia — Part II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="Lamia — Part II" data-chapter="part II" data-kind="section"></span>
 
 
 ## [[Lamia|LAMIA]] PART II

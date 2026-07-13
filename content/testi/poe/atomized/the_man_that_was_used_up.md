@@ -20,865 +20,865 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-     _Pleurez, pleurez, mes yeux, et fondez vous en eau!_
+_Pleurez, pleurez, mes yeux, et fondez vous en eau!_
 
-     _La moitié de ma vie a mis l’ autre au tombeau._
+_La moitié de ma vie a mis l’ autre au tombeau._
 
-                    —CORNEILLE.
+—CORNEILLE.
 
 
 
-      I cannot just now remember when or where I first made the
+I cannot just now remember when or where I first made the
 
-      acquaintance of that truly fine-looking fellow, Brevet Brigadier
+acquaintance of that truly fine-looking fellow, Brevet Brigadier
 
-      General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
+General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
 
-      gentleman, I am sure—at some public meeting, I know very
+gentleman, I am sure—at some public meeting, I know very
 
-      [[Well|well]]—held about something of great importance, no [[Doubt|doubt]]—at some
+[[Well|well]]—held about something of great importance, no [[Doubt|doubt]]—at some
 
-      place or other, I feel convinced,—whose name I have unaccountably
+place or other, I feel convinced,—whose name I have unaccountably
 
-      forgotten. The [[Truth|truth]] is—that the introduction was attended, upon
+forgotten. The [[Truth|truth]] is—that the introduction was attended, upon
 
-      my part, with a degree of anxious embarrassment which operated to
+my part, with a degree of anxious embarrassment which operated to
 
-      prevent any definite impressions of either [[Time|time]] or place. I am
+prevent any definite impressions of either [[Time|time]] or place. I am
 
-      constitutionally nervous—this, with me, is a family failing, and
+constitutionally nervous—this, with me, is a family failing, and
 
-      I can’t help it. In especial, the slightest appearance of
+I can’t help it. In especial, the slightest appearance of
 
-      mystery—of any point I cannot exactly comprehend—puts me at once
+mystery—of any point I cannot exactly comprehend—puts me at once
 
-      into a pitiable state of agitation.
+into a pitiable state of agitation.
 
 
 
-      There was something, as it were, remarkable—yes, _remarkable_,
+There was something, as it were, remarkable—yes, _remarkable_,
 
-      although this is but a feeble term to express my full
+although this is but a feeble term to express my full
 
-      meaning—about the entire individuality of the personage in
+meaning—about the entire individuality of the personage in
 
-      question. He was, perhaps, six feet in height, and of a presence
+question. He was, perhaps, six feet in height, and of a presence
 
-      singularly commanding. There was an _air distingué_ pervading the
+singularly commanding. There was an _air distingué_ pervading the
 
-      whole man, which spoke of high breeding, and hinted at high
+whole man, which spoke of high breeding, and hinted at high
 
-      birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
+birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
 
-      have a kind of [[Melancholy|melancholy]] satisfaction in being minute. His head
+have a kind of [[Melancholy|melancholy]] satisfaction in being minute. His head
 
-      of hair would have done honor to a [[Brutus]]; nothing could be more
+of hair would have done honor to a [[Brutus]]; nothing could be more
 
-      richly flowing, or possess a brighter gloss. It was of a jetty
+richly flowing, or possess a brighter gloss. It was of a jetty
 
-      black;—which was also the color, or more properly the no color of
+black;—which was also the color, or more properly the no color of
 
-      his unimaginable whiskers. You perceive I cannot speak of these
+his unimaginable whiskers. You perceive I cannot speak of these
 
-      latter without enthusiasm; it is not too much to say that they
+latter without enthusiasm; it is not too much to say that they
 
-      were the handsomest pair of whiskers under the sun. At all
+were the handsomest pair of whiskers under the sun. At all
 
-      events, they encircled, and at times partially overshadowed, a
+events, they encircled, and at times partially overshadowed, a
 
-      mouth utterly unequalled. Here were the most entirely even, and
+mouth utterly unequalled. Here were the most entirely even, and
 
-      the most brilliantly white of all conceivable teeth. From between
+the most brilliantly white of all conceivable teeth. From between
 
-      them, upon every proper occasion, issued a voice of surpassing
+them, upon every proper occasion, issued a voice of surpassing
 
-      clearness, melody, and strength. In the matter of eyes, also, my
+clearness, melody, and strength. In the matter of eyes, also, my
 
-      acquaintance was pre-eminently endowed. Either one of such a pair
+acquaintance was pre-eminently endowed. Either one of such a pair
 
-      was worth a couple of the ordinary ocular organs. They were of a
+was worth a couple of the ordinary ocular organs. They were of a
 
-      deep hazel, exceedingly large and lustrous; and there was
+deep hazel, exceedingly large and lustrous; and there was
 
-      perceptible about them, ever and anon, just that amount of
+perceptible about them, ever and anon, just that amount of
 
-      interesting obliquity which gives pregnancy to expression.
+interesting obliquity which gives pregnancy to expression.
 
 
 
-      The bust of the General was unquestionably the finest bust I ever
+The bust of the General was unquestionably the finest bust I ever
 
-      saw. For your life you could not have found a fault with its
+saw. For your life you could not have found a fault with its
 
-      wonderful proportion. This rare peculiarity set off to great
+wonderful proportion. This rare peculiarity set off to great
 
-      advantage a pair of shoulders which would have called up a blush
+advantage a pair of shoulders which would have called up a blush
 
-      of conscious inferiority into the countenance of the marble
+of conscious inferiority into the countenance of the marble
 
-      [[Apollo]]. I have a passion for fine shoulders, and may say that I
+[[Apollo]]. I have a passion for fine shoulders, and may say that I
 
-      never beheld them in perfection before. The arms altogether were
+never beheld them in perfection before. The arms altogether were
 
-      admirably modelled. Nor were the lower limbs less superb. These
+admirably modelled. Nor were the lower limbs less superb. These
 
-      were, indeed, the _ne plus ultra_ of good legs. Every connoisseur
+were, indeed, the _ne plus ultra_ of good legs. Every connoisseur
 
-      in such matters admitted the legs to be good. There was neither
+in such matters admitted the legs to be good. There was neither
 
-      too much flesh, nor too little,—neither rudeness nor fragility. I
+too much flesh, nor too little,—neither rudeness nor fragility. I
 
-      could not imagine a more graceful curve than that of the _os
+could not imagine a more graceful curve than that of the _os
 
-      femoris_, and there was just that due gentle prominence in the
+femoris_, and there was just that due gentle prominence in the
 
-      rear of the _fibula_ which goes to the conformation of a properly
+rear of the _fibula_ which goes to the conformation of a properly
 
-      proportioned calf. I wish to God my young and talented friend
+proportioned calf. I wish to God my young and talented friend
 
-      Chiponchipino, the sculptor, had but seen the legs of Brevet
+Chiponchipino, the sculptor, had but seen the legs of Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]].
+Brigadier General John A. B. C. [[smith|Smith]].
 
 
 
-      But although men so absolutely fine-looking are neither as plenty
+But although men so absolutely fine-looking are neither as plenty
 
-      as reasons or blackberries, still I could not bring myself to
+as reasons or blackberries, still I could not bring myself to
 
-      believe that _the remarkable_ something to which I alluded just
+believe that _the remarkable_ something to which I alluded just
 
-      now,—that the odd air of _je ne sais quoi_ which hung about my
+now,—that the odd air of _je ne sais quoi_ which hung about my
 
-      new acquaintance,—lay altogether, or indeed at all, in the
+new acquaintance,—lay altogether, or indeed at all, in the
 
-      supreme excellence of his bodily endowments. Perhaps it might be
+supreme excellence of his bodily endowments. Perhaps it might be
 
-      traced to the _manner_;—yet here again I could not pretend to be
+traced to the _manner_;—yet here again I could not pretend to be
 
-      positive. There _was_ a primness, not to say stiffness, in his
+positive. There _was_ a primness, not to say stiffness, in his
 
-      carriage—a degree of measured, and, if I may so express it, of
+carriage—a degree of measured, and, if I may so express it, of
 
-      rectangular precision, attending his every movement, which,
+rectangular precision, attending his every movement, which,
 
-      observed in a more diminutive figure, would have had the least
+observed in a more diminutive figure, would have had the least
 
-      little savor in the world, of affectation, pomposity or
+little savor in the world, of affectation, pomposity or
 
-      constraint, but which noticed in a gentleman of his undoubted
+constraint, but which noticed in a gentleman of his undoubted
 
-      dimensions, was readily placed to the account of reserve,
+dimensions, was readily placed to the account of reserve,
 
-      _hauteur_—of a commendable sense, in short, of what is due to the
+_hauteur_—of a commendable sense, in short, of what is due to the
 
-      dignity of colossal proportion.
+dignity of colossal proportion.
 
 
 
-      The kind friend who presented me to General [[smith|Smith]] whispered in my
+The kind friend who presented me to General [[smith|Smith]] whispered in my
 
-      ear some few words of comment upon the man. He was a _remarkable_
+ear some few words of comment upon the man. He was a _remarkable_
 
-      man—a _very_ remarkable man—indeed one of the _most_ remarkable
+man—a _very_ remarkable man—indeed one of the _most_ remarkable
 
-      men of the age. He was an especial favorite, too, with the
+men of the age. He was an especial favorite, too, with the
 
-      ladies—chiefly on account of his high reputation for [[Courage|courage]].
+ladies—chiefly on account of his high reputation for [[Courage|courage]].
 
 
 
-      “In _that_ point he is unrivalled—indeed he is a perfect
+“In _that_ point he is unrivalled—indeed he is a perfect
 
-      desperado—a down-right [[Fire|fire]]-eater, and no mistake,” said my
+desperado—a down-right [[Fire|fire]]-eater, and no mistake,” said my
 
-      friend, here dropping his voice excessively low, and thrilling me
+friend, here dropping his voice excessively low, and thrilling me
 
-      with the mystery of his tone.
+with the mystery of his tone.
 
 
 
-      “A downright [[Fire|fire]]-eater, and _no_ mistake. Showed _that_, I
+“A downright [[Fire|fire]]-eater, and _no_ mistake. Showed _that_, I
 
-      should say, to some purpose, in the late tremendous swamp-fight
+should say, to some purpose, in the late tremendous swamp-fight
 
-      away down South, with the Bugaboo and Kickapoo Indians.” [Here my
+away down South, with the Bugaboo and Kickapoo Indians.” [Here my
 
-      friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
+friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
 
-      thunder, and all that!—_prodigies_ of valor!—heard of him of
+thunder, and all that!—_prodigies_ of valor!—heard of him of
 
-      course?—you know he’s the man—”
+course?—you know he’s the man—”
 
 
 
-      “Man alive, how _do_ you do? why, how _are_ ye? _very_ glad to
+“Man alive, how _do_ you do? why, how _are_ ye? _very_ glad to
 
-      see ye, indeed!” here interrupted the General himself, seizing my
+see ye, indeed!” here interrupted the General himself, seizing my
 
-      companion by the hand as he drew near, and bowing stiffly, but
+companion by the hand as he drew near, and bowing stiffly, but
 
-      profoundly, as I was presented. I then thought, (and I think so
+profoundly, as I was presented. I then thought, (and I think so
 
-      still,) that I never heard a clearer nor a stronger voice, nor
+still,) that I never heard a clearer nor a stronger voice, nor
 
-      beheld a finer set of teeth: but I _must_ say that I was sorry
+beheld a finer set of teeth: but I _must_ say that I was sorry
 
-      for the interruption just at that moment, as, owing to the
+for the interruption just at that moment, as, owing to the
 
-      whispers and insinuations aforesaid, my interest had been greatly
+whispers and insinuations aforesaid, my interest had been greatly
 
-      excited in the [[Hero|hero]] of the Bugaboo and Kickapoo campaign.
+excited in the [[Hero|hero]] of the Bugaboo and Kickapoo campaign.
 
 
 
-      However, the delightfully luminous conversation of Brevet
+However, the delightfully luminous conversation of Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
+Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
 
-      this chagrin. My friend leaving us immediately, we had quite a
+this chagrin. My friend leaving us immediately, we had quite a
 
-      long _tête-à-tête_, and I was not only pleased but
+long _tête-à-tête_, and I was not only pleased but
 
-      _really_—instructed. I never heard a more fluent talker, or a man
+_really_—instructed. I never heard a more fluent talker, or a man
 
-      of greater general information. With becoming modesty, he
+of greater general information. With becoming modesty, he
 
-      forebore, nevertheless, to touch upon the theme I had just then
+forebore, nevertheless, to touch upon the theme I had just then
 
-      most at heart—I mean the mysterious circumstances attending the
+most at heart—I mean the mysterious circumstances attending the
 
-      Bugaboo war—and, on my own part, what I conceive to be a proper
+Bugaboo war—and, on my own part, what I conceive to be a proper
 
-      sense of delicacy forbade me to broach the subject; although, in
+sense of delicacy forbade me to broach the subject; although, in
 
-      [[Truth|truth]], I was exceedingly tempted to do so. I perceived, too, that
+[[Truth|truth]], I was exceedingly tempted to do so. I perceived, too, that
 
-      the gallant soldier preferred topics of philosophical interest,
+the gallant soldier preferred topics of philosophical interest,
 
-      and that he delighted, especially, in commenting upon the rapid
+and that he delighted, especially, in commenting upon the rapid
 
-      march of mechanical invention. Indeed, lead him where I would,
+march of mechanical invention. Indeed, lead him where I would,
 
-      this was a point to which he invariably came back.
+this was a point to which he invariably came back.
 
 
 
-      “There is nothing at all like it,” he would say; “we are a
+“There is nothing at all like it,” he would say; “we are a
 
-      wonderful people, and live in a wonderful age. Parachutes and
+wonderful people, and live in a wonderful age. Parachutes and
 
-      rail-roads—man-traps and [[spring]]-guns! Our steam-boats are upon
+rail-roads—man-traps and [[spring]]-guns! Our steam-boats are upon
 
-      every sea, and the Nassau balloon packet is about to run regular
+every sea, and the Nassau balloon packet is about to run regular
 
-      trips (fare either way only twenty pounds sterling) between
+trips (fare either way only twenty pounds sterling) between
 
-      [[London]] and Timbuctoo. And who shall calculate the immense
+[[London]] and Timbuctoo. And who shall calculate the immense
 
-      influence upon social life—upon arts—upon commerce—upon
+influence upon social life—upon arts—upon commerce—upon
 
-      literature—which will be the immediate result of the great
+literature—which will be the immediate result of the great
 
-      principles of electro-magnetics! Nor, is this all, let me assure
+principles of electro-magnetics! Nor, is this all, let me assure
 
-      you! There is really no end to the march of invention. The most
+you! There is really no end to the march of invention. The most
 
-      wonderful—the most ingenious—and let me add, Mr.—Mr.—Thompson, I
+wonderful—the most ingenious—and let me add, Mr.—Mr.—Thompson, I
 
-      believe, is your name—let me add, I say, the most _useful_—the
+believe, is your name—let me add, I say, the most _useful_—the
 
-      most truly _useful_—mechanical contrivances, are daily springing
+most truly _useful_—mechanical contrivances, are daily springing
 
-      up like mushrooms, if I may so express myself, or, more
+up like mushrooms, if I may so express myself, or, more
 
-      figuratively, like—ah—grasshoppers—like grasshoppers, Mr.
+figuratively, like—ah—grasshoppers—like grasshoppers, Mr.
 
-      Thompson—about us and ah—ah—ah—around us!”
+Thompson—about us and ah—ah—ah—around us!”
 
 
 
-      Thompson, to be sure, is not my name; but it is needless to say
+Thompson, to be sure, is not my name; but it is needless to say
 
-      that I left General [[smith|Smith]] with a heightened interest in the man,
+that I left General [[smith|Smith]] with a heightened interest in the man,
 
-      with an exalted opinion of his conversational powers, and a deep
+with an exalted opinion of his conversational powers, and a deep
 
-      sense of the valuable privileges we enjoy in living in this age
+sense of the valuable privileges we enjoy in living in this age
 
-      of mechanical invention. My curiosity, however, had not been
+of mechanical invention. My curiosity, however, had not been
 
-      altogether satisfied, and I resolved to prosecute immediate
+altogether satisfied, and I resolved to prosecute immediate
 
-      inquiry among my acquaintances touching the Brevet Brigadier
+inquiry among my acquaintances touching the Brevet Brigadier
 
-      General himself, and particularly respecting the tremendous
+General himself, and particularly respecting the tremendous
 
-      events _quorum pars magna fuit_, during the Bugaboo and Kickapoo
+events _quorum pars magna fuit_, during the Bugaboo and Kickapoo
 
-      campaign.
+campaign.
 
 
 
-      The first opportunity which presented itself, and which
+The first opportunity which presented itself, and which
 
-      (_horresco referens_) I did not in the least scruple to seize,
+(_horresco referens_) I did not in the least scruple to seize,
 
-      occurred at the Church of the Reverend Doctor Drummummupp, where
+occurred at the Church of the Reverend Doctor Drummummupp, where
 
-      I found myself established, one [[Sunday]], just at sermon [[Time|time]], not
+I found myself established, one [[Sunday]], just at sermon [[Time|time]], not
 
-      only in the pew, but by the side, of that worthy and
+only in the pew, but by the side, of that worthy and
 
-      communicative little friend of mine, Miss Tabitha T. Thus seated,
+communicative little friend of mine, Miss Tabitha T. Thus seated,
 
-      I congratulated myself, and with much reason, upon the very
+I congratulated myself, and with much reason, upon the very
 
-      flattering state of affairs. If any person knew anything about
+flattering state of affairs. If any person knew anything about
 
-      Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
+Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
 
-      clear to me, was Miss Tabitha T. We telegraphed a few signals,
+clear to me, was Miss Tabitha T. We telegraphed a few signals,
 
-      and then commenced, _sotto voce_, a brisk _tête-à-tête_.
+and then commenced, _sotto voce_, a brisk _tête-à-tête_.
 
 
 
-      “[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
+“[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
 
-      “[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
+“[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
 
-      _knew_ all about _him!_ This is a wonderfully inventive age!
+_knew_ all about _him!_ This is a wonderfully inventive age!
 
-      Horrid affair that!—a bloody set of wretches, those
+Horrid affair that!—a bloody set of wretches, those
 
-      Kickapoos!—fought like a [[Hero|hero]]—prodigies of valor—immortal renown.
+Kickapoos!—fought like a [[Hero|hero]]—prodigies of valor—immortal renown.
 
-      [[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
+[[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
 
-      the man—”
+the man—”
 
 
 
-      “Man,” here broke in Doctor Drummummupp, at the top of his voice,
+“Man,” here broke in Doctor Drummummupp, at the top of his voice,
 
-      and with a thump that came near knocking the pulpit about our
+and with a thump that came near knocking the pulpit about our
 
-      ears—“man that is born of a woman hath but a short [[Time|time]] to live;
+ears—“man that is born of a woman hath but a short [[Time|time]] to live;
 
-      he cometh up and is cut down like a flower!” I started to the
+he cometh up and is cut down like a flower!” I started to the
 
-      extremity of the pew, and perceived by the animated looks of the
+extremity of the pew, and perceived by the animated looks of the
 
-      divine, that the wrath which had nearly proved fatal to the
+divine, that the wrath which had nearly proved fatal to the
 
-      pulpit had been excited by the whispers of the lady and myself.
+pulpit had been excited by the whispers of the lady and myself.
 
-      There was no help for it; so I submitted with a good grace, and
+There was no help for it; so I submitted with a good grace, and
 
-      listened, in all the [[Martyrdom|martyrdom]] of dignified [[Silence|silence]], to the
+listened, in all the [[Martyrdom|martyrdom]] of dignified [[Silence|silence]], to the
 
-      balance of that very capital discourse.
+balance of that very capital discourse.
 
 
 
-      Next evening found me a somewhat late visitor at the Rantipole
+Next evening found me a somewhat late visitor at the Rantipole
 
-      Theatre, where I felt sure of satisfying my curiosity at once, by
+Theatre, where I felt sure of satisfying my curiosity at once, by
 
-      merely stepping into the box of those exquisite specimens of
+merely stepping into the box of those exquisite specimens of
 
-      affability and omniscience, the Misses Arabella and [[Miranda]]
+affability and omniscience, the Misses Arabella and [[Miranda]]
 
-      Cognoscenti. That fine tragedian, Climax, was doing [[Iago]] to a
+Cognoscenti. That fine tragedian, Climax, was doing [[Iago]] to a
 
-      very crowded [[house]], and I experienced some little difficulty in
+very crowded [[house]], and I experienced some little difficulty in
 
-      making my wishes understood; especially, as our box was next the
+making my wishes understood; especially, as our box was next the
 
-      slips, and completely overlooked the stage.
+slips, and completely overlooked the stage.
 
 
 
-      “[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
+“[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
 
-      purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
+purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
 
 
 
-      “[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever
+“[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever
 
-      behold a finer figure?”
+behold a finer figure?”
 
 
 
-      “Never, madam, but _do_ tell me—”
+“Never, madam, but _do_ tell me—”
 
 
 
-      “Or so inimitable grace?”
+“Or so inimitable grace?”
 
 
 
-      “Never, upon my word!—But pray inform me—”
+“Never, upon my word!—But pray inform me—”
 
 
 
-      “Or so just an appreciation of stage effect?”
+“Or so just an appreciation of stage effect?”
 
 
 
-      “Madam!”
+“Madam!”
 
 
 
-      “Or a more delicate sense of the true beauties of Shakespeare? Be
+“Or a more delicate sense of the true beauties of Shakespeare? Be
 
-      so good as to look at that leg!”
+so good as to look at that leg!”
 
 
 
-      “The devil!” and I turned again to her sister.
+“The devil!” and I turned again to her sister.
 
 
 
-      “[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
+“[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
 
-      that, wasn’t it?—great wretches, those Bugaboos—savage and so
+that, wasn’t it?—great wretches, those Bugaboos—savage and so
 
-      on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
+on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
 
-      great man!—perfect desperado!—immortal renown!—prodigies of
+great man!—perfect desperado!—immortal renown!—prodigies of
 
-      valor! _Never heard!_” [This was given in a scream.] “Bless my
+valor! _Never heard!_” [This was given in a scream.] “Bless my
 
-      [[Soul|soul]]! why, he’s the man—”
+[[Soul|soul]]! why, he’s the man—”
 
 
 
-                         “——mandragora
+“——mandragora
 
-     Nor all the drowsy syrups of the world
+Nor all the drowsy syrups of the world
 
-     Shall ever medicine thee to that sweet [[Sleep|sleep]]
+Shall ever medicine thee to that sweet [[Sleep|sleep]]
 
-     Which thou owd’st yesterday!”
+Which thou owd’st yesterday!”
 
 
 
-      here roared our Climax just in my ear, and shaking his fist in my
+here roared our Climax just in my ear, and shaking his fist in my
 
-      face all the [[Time|time]], in a way that I _couldn’t_ stand, and I
+face all the [[Time|time]], in a way that I _couldn’t_ stand, and I
 
-      _wouldn’t_. I left the Misses Cognoscenti immediately, went
+_wouldn’t_. I left the Misses Cognoscenti immediately, went
 
-      behind the scenes forthwith, and gave the beggarly scoundrel such
+behind the scenes forthwith, and gave the beggarly scoundrel such
 
-      a thrashing as I trust he will remember to the day of his [[Death|death]].
+a thrashing as I trust he will remember to the day of his [[Death|death]].
 
 
 
-      At the _soirée_ of the lovely widow, Mrs. Kathleen O’Trump, I was
+At the _soirée_ of the lovely widow, Mrs. Kathleen O’Trump, I was
 
-      confident that I should meet with no similar disappointment.
+confident that I should meet with no similar disappointment.
 
-      Accordingly, I was no sooner seated at the card-table, with my
+Accordingly, I was no sooner seated at the card-table, with my
 
-      pretty hostess for a _vis-à-vis_, than I propounded those
+pretty hostess for a _vis-à-vis_, than I propounded those
 
-      questions the solution of which had become a matter so essential
+questions the solution of which had become a matter so essential
 
-      to my peace.
+to my peace.
 
 
 
-      “[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
+“[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
 
-      affair that, wasn’t it?—diamonds, did you say?—terrible wretches
+affair that, wasn’t it?—diamonds, did you say?—terrible wretches
 
-      those Kickapoos!—we are playing _whist_, if you please, Mr.
+those Kickapoos!—we are playing _whist_, if you please, Mr.
 
-      Tattle—however, this is the age of invention, most certainly
+Tattle—however, this is the age of invention, most certainly
 
-      _the_ age, one may say—_the_ age _par excellence_—speak
+_the_ age, one may say—_the_ age _par excellence_—speak
 
-      French?—oh, quite a [[Hero|hero]]—perfect desperado!—_no hearts_, Mr.
+French?—oh, quite a [[Hero|hero]]—perfect desperado!—_no hearts_, Mr.
 
-      Tattle? I don’t believe it.—immortal renown and all
+Tattle? I don’t believe it.—immortal renown and all
 
-      that!—prodigies of valor! _Never heard!!_—why, bless me, he’s the
+that!—prodigies of valor! _Never heard!!_—why, bless me, he’s the
 
-      man—”
+man—”
 
 
 
-      “Mann!—_Captain_ Mann?” here screamed some little feminine
+“Mann!—_Captain_ Mann?” here screamed some little feminine
 
-      interloper from the farthest corner of the room. “Are you talking
+interloper from the farthest corner of the room. “Are you talking
 
-      about Captain Mann and the duel?—oh, I _must_ hear—do tell—go on,
+about Captain Mann and the duel?—oh, I _must_ hear—do tell—go on,
 
-      Mrs. O’Trump!—do now go on!” And go on Mrs. O’Trump did—all about
+Mrs. O’Trump!—do now go on!” And go on Mrs. O’Trump did—all about
 
-      a certain Captain Mann, who was either shot or hung, or should
+a certain Captain Mann, who was either shot or hung, or should
 
-      have been both shot and hung. Yes! Mrs. O’Trump, she went on, and
+have been both shot and hung. Yes! Mrs. O’Trump, she went on, and
 
-      I—I went off. There was no chance of hearing anything farther
+I—I went off. There was no chance of hearing anything farther
 
-      that evening in regard to Brevet Brigadier General John A. B. C.
+that evening in regard to Brevet Brigadier General John A. B. C.
 
-      [[smith|Smith]].
+[[smith|Smith]].
 
 
 
-      Still I consoled myself with the reflection that the tide of ill
+Still I consoled myself with the reflection that the tide of ill
 
-      luck would not run against me forever, and so determined to make
+luck would not run against me forever, and so determined to make
 
-      a bold push for information at the rout of that bewitching little
+a bold push for information at the rout of that bewitching little
 
-      angel, the graceful Mrs. Pirouette.
+angel, the graceful Mrs. Pirouette.
 
 
 
-      “[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
+“[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
 
-      zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
+zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
 
-      business that of the Bugaboos, wasn’t it?—dreadful creatures,
+business that of the Bugaboos, wasn’t it?—dreadful creatures,
 
-      those Indians!—_do_ turn out your toes! I really am ashamed of
+those Indians!—_do_ turn out your toes! I really am ashamed of
 
-      you—man of great [[Courage|courage]], poor fellow!—but this is a wonderful
+you—man of great [[Courage|courage]], poor fellow!—but this is a wonderful
 
-      age for invention—O dear me, I’m out of breath—quite a
+age for invention—O dear me, I’m out of breath—quite a
 
-      desperado—prodigies of valor—_never heard!_—can’t believe it—I
+desperado—prodigies of valor—_never heard!_—can’t believe it—I
 
-      shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
+shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
 
-      man—”
+man—”
 
 
 
-      “Man-_Fred_, I tell you!” here bawled out Miss Bas-Bleu, as I led
+“Man-_Fred_, I tell you!” here bawled out Miss Bas-Bleu, as I led
 
-      Mrs. Pirouette to a seat. “Did ever anybody hear the like? It’s
+Mrs. Pirouette to a seat. “Did ever anybody hear the like? It’s
 
-      Man-_Fred_, I say, and not at all by any means Man-_Friday_.”
+Man-_Fred_, I say, and not at all by any means Man-_Friday_.”
 
-      Here Miss Bas-Bleu beckoned to me in a very peremptory manner;
+Here Miss Bas-Bleu beckoned to me in a very peremptory manner;
 
-      and I was obliged, will I nill I, to leave Mrs. P. for the
+and I was obliged, will I nill I, to leave Mrs. P. for the
 
-      purpose of deciding a dispute touching the title of a certain
+purpose of deciding a dispute touching the title of a certain
 
-      poetical drama of Lord Byron’s. Although I pronounced, with great
+poetical drama of Lord Byron’s. Although I pronounced, with great
 
-      promptness, that the true title was Man-_Friday_, and not by any
+promptness, that the true title was Man-_Friday_, and not by any
 
-      means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
+means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
 
-      was not to be discovered, and I made my retreat from the [[house]] in
+was not to be discovered, and I made my retreat from the [[house]] in
 
-      a very bitter spirit of animosity against the whole race of the
+a very bitter spirit of animosity against the whole race of the
 
-      Bas-Bleus.
+Bas-Bleus.
 
 
 
-      Matters had now assumed a really serious aspect, and I resolved
+Matters had now assumed a really serious aspect, and I resolved
 
-      to call at once upon my particular friend, Mr. Theodore Sinivate;
+to call at once upon my particular friend, Mr. Theodore Sinivate;
 
-      for I knew that here at least I should get something like
+for I knew that here at least I should get something like
 
-      definite information.
+definite information.
 
 
 
-      “[[smith|Smith]]!” said he, in his [[Well|well]]-known peculiar way of drawling out
+“[[smith|Smith]]!” said he, in his [[Well|well]]-known peculiar way of drawling out
 
-      his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
+his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
 
-      affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
+affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
 
-      think so?—perfect despera-a-ado—great pity, ‘pon my
+think so?—perfect despera-a-ado—great pity, ‘pon my
 
-      honor!—wonderfully inventive age!—pro-o-odigies of valor! By the
+honor!—wonderfully inventive age!—pro-o-odigies of valor! By the
 
-      by, did you ever hear about Captain Ma-a-a-a-n?”
+by, did you ever hear about Captain Ma-a-a-a-n?”
 
 
 
-      “Captain Mann be d—d!” said I; “please to go on with your story.”
+“Captain Mann be d—d!” said I; “please to go on with your story.”
 
 
 
-      “Hem!—oh [[Well|well]]!—quite _la même cho-o-ose_, as we say in France.
+“Hem!—oh [[Well|well]]!—quite _la même cho-o-ose_, as we say in France.
 
-      [[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
+[[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
 
-      thought proper to put his finger to the side of his nose]—“I say,
+thought proper to put his finger to the side of his nose]—“I say,
 
-      you don’t mean to insinuate now, really and truly, and
+you don’t mean to insinuate now, really and truly, and
 
-      conscientiously, that you don’t know all about that affair of
+conscientiously, that you don’t know all about that affair of
 
-      [[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
+[[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
 
-      he’s the ma-a-an—”
+he’s the ma-a-an—”
 
 
 
-      “_Mr_. Sinivate,” said I, imploringly, “_is_ he the man in the
+“_Mr_. Sinivate,” said I, imploringly, “_is_ he the man in the
 
-      mask?”
+mask?”
 
 
 
-      “No-o-o!” said he, looking wise, “nor the man in the mo-o-on.”
+“No-o-o!” said he, looking wise, “nor the man in the mo-o-on.”
 
 
 
-      This reply I considered a pointed and positive insult, and so
+This reply I considered a pointed and positive insult, and so
 
-      left the [[house]] at once in high dudgeon, with a firm resolve to
+left the [[house]] at once in high dudgeon, with a firm resolve to
 
-      call my friend, Mr. Sinivate, to a speedy account for his
+call my friend, Mr. Sinivate, to a speedy account for his
 
-      ungentlemanly conduct and ill-breeding.
+ungentlemanly conduct and ill-breeding.
 
 
 
-      In the meantime, however, I had no notion of being thwarted
+In the meantime, however, I had no notion of being thwarted
 
-      touching the information I desired. There was one resource left
+touching the information I desired. There was one resource left
 
-      me yet. I would go to the fountain-head. I would call forthwith
+me yet. I would go to the fountain-head. I would call forthwith
 
-      upon the General himself, and demand, in explicit terms, a
+upon the General himself, and demand, in explicit terms, a
 
-      solution of this abominable piece of mystery. Here, at least,
+solution of this abominable piece of mystery. Here, at least,
 
-      there should be no chance for equivocation. I would be plain,
+there should be no chance for equivocation. I would be plain,
 
-      positive, peremptory—as short as pie-crust—as concise as Tacitus
+positive, peremptory—as short as pie-crust—as concise as Tacitus
 
-      or Montesquieu.
+or Montesquieu.
 
 
 
-      It was early when I called, and the General was dressing; but I
+It was early when I called, and the General was dressing; but I
 
-      pleaded urgent business, and was shown at once into his bed-room
+pleaded urgent business, and was shown at once into his bed-room
 
-      by an old negro valet, who remained in attendance during my
+by an old negro valet, who remained in attendance during my
 
-      visit. As I entered the chamber, I looked about, of course, for
+visit. As I entered the chamber, I looked about, of course, for
 
-      the occupant, but did not immediately perceive him. There was a
+the occupant, but did not immediately perceive him. There was a
 
-      large and exceedingly odd-looking bundle of something which lay
+large and exceedingly odd-looking bundle of something which lay
 
-      close by my feet on the floor, and, as I was not in the best
+close by my feet on the floor, and, as I was not in the best
 
-      humor in the world, I gave it a kick out of the way.
+humor in the world, I gave it a kick out of the way.
 
 
 
-      “Hem! ahem! rather civil that, I should say!” said the bundle, in
+“Hem! ahem! rather civil that, I should say!” said the bundle, in
 
-      one of the smallest, and altogether the funniest little voices,
+one of the smallest, and altogether the funniest little voices,
 
-      between a squeak and a whistle, that I ever heard in all the days
+between a squeak and a whistle, that I ever heard in all the days
 
-      of my existence.
+of my existence.
 
 
 
-      “Ahem! rather civil that, I should observe.”
+“Ahem! rather civil that, I should observe.”
 
 
 
-      I fairly shouted with terror, and made off, at a tangent, into
+I fairly shouted with terror, and made off, at a tangent, into
 
-      the farthest extremity of the room.
+the farthest extremity of the room.
 
 
 
-      “God bless me! my dear fellow,” here again whistled the bundle,
+“God bless me! my dear fellow,” here again whistled the bundle,
 
-      “what—what—what—why, what _is_ the matter? I really believe you
+“what—what—what—why, what _is_ the matter? I really believe you
 
-      don’t know me at all.”
+don’t know me at all.”
 
 
 
-      What _could_ I say to all this—what _could_ I? I staggered into
+What _could_ I say to all this—what _could_ I? I staggered into
 
-      an arm-chair, and, with staring eyes and open mouth, awaited the
+an arm-chair, and, with staring eyes and open mouth, awaited the
 
-      solution of the [[Wonder|wonder]].
+solution of the [[Wonder|wonder]].
 
 
 
-      “Strange you shouldn’t know me though, isn’t it?” presently
+“Strange you shouldn’t know me though, isn’t it?” presently
 
-      re-squeaked the nondescript, which I now perceived was
+re-squeaked the nondescript, which I now perceived was
 
-      performing, upon the floor, some inexplicable evolution, very
+performing, upon the floor, some inexplicable evolution, very
 
-      analogous to the drawing on of a stocking. There was only a
+analogous to the drawing on of a stocking. There was only a
 
-      single leg, however, apparent.
+single leg, however, apparent.
 
 
 
-      “Strange you shouldn’t know me, though, isn’t it? [[Pompey]], bring
+“Strange you shouldn’t know me, though, isn’t it? [[Pompey]], bring
 
-      me that leg!” Here [[Pompey]] handed the bundle, a very capital cork
+me that leg!” Here [[Pompey]] handed the bundle, a very capital cork
 
-      leg, already dressed, which it screwed on in a trice; and then it
+leg, already dressed, which it screwed on in a trice; and then it
 
-      stood up before my eyes.
+stood up before my eyes.
 
 
 
-      “And a bloody action it _was_,” continued the thing, as if in a
+“And a bloody action it _was_,” continued the thing, as if in a
 
-      soliloquy; “but then one mustn’t fight with the Bugaboos and
+soliloquy; “but then one mustn’t fight with the Bugaboos and
 
-      Kickapoos, and think of coming off with a mere scratch. [[Pompey]],
+Kickapoos, and think of coming off with a mere scratch. [[Pompey]],
 
-      I’ll thank you now for that arm. Thomas” [turning to me] “is
+I’ll thank you now for that arm. Thomas” [turning to me] “is
 
-      decidedly the best hand at a cork leg; but if you should ever
+decidedly the best hand at a cork leg; but if you should ever
 
-      want an arm, my dear fellow, you must really let me recommend you
+want an arm, my dear fellow, you must really let me recommend you
 
-      to Bishop.” Here [[Pompey]] screwed on an arm.
+to Bishop.” Here [[Pompey]] screwed on an arm.
 
 
 
-      “We had rather hot work of it, that you may say. Now, you dog,
+“We had rather hot work of it, that you may say. Now, you dog,
 
-      slip on my shoulders and bosom! Pettitt makes the best shoulders,
+slip on my shoulders and bosom! Pettitt makes the best shoulders,
 
-      but for a bosom you will have to go to Ducrow.”
+but for a bosom you will have to go to Ducrow.”
 
 
 
-      “Bosom!” said I.
+“Bosom!” said I.
 
 
 
-      “[[Pompey]], will you _never_ be ready with that wig? Scalping is a
+“[[Pompey]], will you _never_ be ready with that wig? Scalping is a
 
-      rough process after all; but then you can procure such a capital
+rough process after all; but then you can procure such a capital
 
-      scratch at De L’Orme’s.”
+scratch at De L’Orme’s.”
 
 
 
-      “Scratch!”
+“Scratch!”
 
 
 
-      “Now, you nigger, my teeth! For a _good_ set of these you had
+“Now, you nigger, my teeth! For a _good_ set of these you had
 
-      better go to Parmly’s at once; high prices, but excellent work. I
+better go to Parmly’s at once; high prices, but excellent work. I
 
-      swallowed some very capital articles, though, when the big
+swallowed some very capital articles, though, when the big
 
-      Bugaboo rammed me down with the butt end of his rifle.”
+Bugaboo rammed me down with the butt end of his rifle.”
 
 
 
-      “Butt end! ram down!! my eye!!”
+“Butt end! ram down!! my eye!!”
 
 
 
-      “O yes, by-the-by, my eye—here, [[Pompey]], you scamp, screw it in !
+“O yes, by-the-by, my eye—here, [[Pompey]], you scamp, screw it in !
 
-      Those Kickapoos are not so very slow at a gouge; but he’s a
+Those Kickapoos are not so very slow at a gouge; but he’s a
 
-      belied man, that Dr. Williams, after all; you can’t imagine how
+belied man, that Dr. Williams, after all; you can’t imagine how
 
-      [[Well|well]] I see with the eyes of his make.”
+[[Well|well]] I see with the eyes of his make.”
 
 
 
-      I now began very clearly to perceive that the object before me
+I now began very clearly to perceive that the object before me
 
-      was nothing more nor less than my new acquaintance, Brevet
+was nothing more nor less than my new acquaintance, Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
+Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
 
-      [[Pompey]] had made, I must confess, a very striking difference in
+[[Pompey]] had made, I must confess, a very striking difference in
 
-      the appearance of the personal man. The voice, however, still
+the appearance of the personal man. The voice, however, still
 
-      puzzled me no little; but even this apparent mystery was speedily
+puzzled me no little; but even this apparent mystery was speedily
 
-      cleared up.
+cleared up.
 
 
 
-      “[[Pompey]], you black rascal,” squeaked the General, “I really do
+“[[Pompey]], you black rascal,” squeaked the General, “I really do
 
-      believe you would let me go out without my palate.”
+believe you would let me go out without my palate.”
 
 
 
-      Hereupon, the negro, grumbling out an apology, went up to his
+Hereupon, the negro, grumbling out an apology, went up to his
 
-      master, opened his mouth with the knowing air of a [[Horse|horse]]-jockey,
+master, opened his mouth with the knowing air of a [[Horse|horse]]-jockey,
 
-      and adjusted therein a somewhat singular-looking [[Machine|machine]], in a
+and adjusted therein a somewhat singular-looking [[Machine|machine]], in a
 
-      very dexterous manner, that I could not altogether comprehend.
+very dexterous manner, that I could not altogether comprehend.
 
-      The alteration, however, in the entire expression of the
+The alteration, however, in the entire expression of the
 
-      General’s countenance was instantaneous and surprising. When he
+General’s countenance was instantaneous and surprising. When he
 
-      again spoke, his voice had resumed all that rich melody and
+again spoke, his voice had resumed all that rich melody and
 
-      strength which I had noticed upon our original introduction.
+strength which I had noticed upon our original introduction.
 
 
 
-      “D—n the vagabonds!” said he, in so clear a tone that I
+“D—n the vagabonds!” said he, in so clear a tone that I
 
-      positively started at the change, “D—n the vagabonds! they not
+positively started at the change, “D—n the vagabonds! they not
 
-      only knocked in the roof of my mouth, but took the trouble to cut
+only knocked in the roof of my mouth, but took the trouble to cut
 
-      off at least seven-eighths of my tongue. There isn’t Bonfanti’s
+off at least seven-eighths of my tongue. There isn’t Bonfanti’s
 
-      equal, however, in [[america|America]], for really good articles of this
+equal, however, in [[america|America]], for really good articles of this
 
-      description. I can recommend you to him with confidence,” [here
+description. I can recommend you to him with confidence,” [here
 
-      the General bowed,] “and assure you that I have the greatest
+the General bowed,] “and assure you that I have the greatest
 
-      pleasure in so doing.”
+pleasure in so doing.”
 
 
 
-      I acknowledged his kindness in my best manner, and took leave of
+I acknowledged his kindness in my best manner, and took leave of
 
-      him at once, with a perfect understanding of the true state of
+him at once, with a perfect understanding of the true state of
 
-      affairs—with a full comprehension of the mystery which had
+affairs—with a full comprehension of the mystery which had
 
-      troubled me so long. It was evident. It was a clear case. Brevet
+troubled me so long. It was evident. It was a clear case. Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
+Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
 
-      that was used up_.
+that was used up_.
 
 
 
@@ -892,191 +892,191 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-     _Pleurez, pleurez, mes yeux, et fondez vous en eau!_
+_Pleurez, pleurez, mes yeux, et fondez vous en eau!_
 
-     _La moitié de ma vie a mis l’ autre au tombeau._
+_La moitié de ma vie a mis l’ autre au tombeau._
 
-                    —CORNEILLE.
+—CORNEILLE.
 
 
 
-      I cannot just now remember when or where I first made the
+I cannot just now remember when or where I first made the
 
-      acquaintance of that truly fine-looking fellow, Brevet Brigadier
+acquaintance of that truly fine-looking fellow, Brevet Brigadier
 
-      General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
+General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
 
-      gentleman, I am sure—at some public meeting, I know very
+gentleman, I am sure—at some public meeting, I know very
 
-      [[Well|well]]—held about something of great importance, no [[Doubt|doubt]]—at some
+[[Well|well]]—held about something of great importance, no [[Doubt|doubt]]—at some
 
-      place or other, I feel convinced,—whose name I have unaccountably
+place or other, I feel convinced,—whose name I have unaccountably
 
-      forgotten. The [[Truth|truth]] is—that the introduction was attended, upon
+forgotten. The [[Truth|truth]] is—that the introduction was attended, upon
 
-      my part, with a degree of anxious embarrassment which operated to
+my part, with a degree of anxious embarrassment which operated to
 
-      prevent any definite impressions of either [[Time|time]] or place. I am
+prevent any definite impressions of either [[Time|time]] or place. I am
 
-      constitutionally nervous—this, with me, is a family failing, and
+constitutionally nervous—this, with me, is a family failing, and
 
-      I can’t help it. In especial, the slightest appearance of
+I can’t help it. In especial, the slightest appearance of
 
-      mystery—of any point I cannot exactly comprehend—puts me at once
+mystery—of any point I cannot exactly comprehend—puts me at once
 
-      into a pitiable state of agitation.
+into a pitiable state of agitation.
 
 
 
-      There was something, as it were, remarkable—yes, _remarkable_,
+There was something, as it were, remarkable—yes, _remarkable_,
 
-      although this is but a feeble term to express my full
+although this is but a feeble term to express my full
 
-      meaning—about the entire individuality of the personage in
+meaning—about the entire individuality of the personage in
 
-      question. He was, perhaps, six feet in height, and of a presence
+question. He was, perhaps, six feet in height, and of a presence
 
-      singularly commanding. There was an _air distingué_ pervading the
+singularly commanding. There was an _air distingué_ pervading the
 
-      whole man, which spoke of high breeding, and hinted at high
+whole man, which spoke of high breeding, and hinted at high
 
-      birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
+birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
 
-      have a kind of [[Melancholy|melancholy]] satisfaction in being minute. His head
+have a kind of [[Melancholy|melancholy]] satisfaction in being minute. His head
 
-      of hair would have done honor to a [[Brutus]]; nothing could be more
+of hair would have done honor to a [[Brutus]]; nothing could be more
 
-      richly flowing, or possess a brighter gloss. It was of a jetty
+richly flowing, or possess a brighter gloss. It was of a jetty
 
-      black;—which was also the color, or more properly the no color of
+black;—which was also the color, or more properly the no color of
 
-      his unimaginable whiskers. You perceive I cannot speak of these
+his unimaginable whiskers. You perceive I cannot speak of these
 
-      latter without enthusiasm; it is not too much to say that they
+latter without enthusiasm; it is not too much to say that they
 
-      were the handsomest pair of whiskers under the sun. At all
+were the handsomest pair of whiskers under the sun. At all
 
-      events, they encircled, and at times partially overshadowed, a
+events, they encircled, and at times partially overshadowed, a
 
-      mouth utterly unequalled. Here were the most entirely even, and
+mouth utterly unequalled. Here were the most entirely even, and
 
-      the most brilliantly white of all conceivable teeth. From between
+the most brilliantly white of all conceivable teeth. From between
 
-      them, upon every proper occasion, issued a voice of surpassing
+them, upon every proper occasion, issued a voice of surpassing
 
-      clearness, melody, and strength. In the matter of eyes, also, my
+clearness, melody, and strength. In the matter of eyes, also, my
 
-      acquaintance was pre-eminently endowed. Either one of such a pair
+acquaintance was pre-eminently endowed. Either one of such a pair
 
-      was worth a couple of the ordinary ocular organs. They were of a
+was worth a couple of the ordinary ocular organs. They were of a
 
-      deep hazel, exceedingly large and lustrous; and there was
+deep hazel, exceedingly large and lustrous; and there was
 
-      perceptible about them, ever and anon, just that amount of
+perceptible about them, ever and anon, just that amount of
 
-      interesting obliquity which gives pregnancy to expression.
+interesting obliquity which gives pregnancy to expression.
 
 
 
-      The bust of the General was unquestionably the finest bust I ever
+The bust of the General was unquestionably the finest bust I ever
 
-      saw. For your life you could not have found a fault with its
+saw. For your life you could not have found a fault with its
 
-      wonderful proportion. This rare peculiarity set off to great
+wonderful proportion. This rare peculiarity set off to great
 
-      advantage a pair of shoulders which would have called up a blush
+advantage a pair of shoulders which would have called up a blush
 
-      of conscious inferiority into the countenance of the marble
+of conscious inferiority into the countenance of the marble
 
-      [[Apollo]]. I have a passion for fine shoulders, and may say that I
+[[Apollo]]. I have a passion for fine shoulders, and may say that I
 
-      never beheld them in perfection before. The arms altogether were
+never beheld them in perfection before. The arms altogether were
 
-      admirably modelled. Nor were the lower limbs less superb. These
+admirably modelled. Nor were the lower limbs less superb. These
 
-      were, indeed, the _ne plus ultra_ of good legs. Every connoisseur
+were, indeed, the _ne plus ultra_ of good legs. Every connoisseur
 
-      in such matters admitted the legs to be good. There was neither
+in such matters admitted the legs to be good. There was neither
 
-      too much flesh, nor too little,—neither rudeness nor fragility. I
+too much flesh, nor too little,—neither rudeness nor fragility. I
 
-      could not imagine a more graceful curve than that of the _os
+could not imagine a more graceful curve than that of the _os
 
-      femoris_, and there was just that due gentle prominence in the
+femoris_, and there was just that due gentle prominence in the
 
-      rear of the _fibula_ which goes to the conformation of a properly
+rear of the _fibula_ which goes to the conformation of a properly
 
-      proportioned calf. I wish to God my young and talented friend
+proportioned calf. I wish to God my young and talented friend
 
-      Chiponchipino, the sculptor, had but seen the legs of Brevet
+Chiponchipino, the sculptor, had but seen the legs of Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]].
+Brigadier General John A. B. C. [[smith|Smith]].
 
 
 
-      But although men so absolutely fine-looking are neither as plenty
+But although men so absolutely fine-looking are neither as plenty
 
-      as reasons or blackberries, still I could not bring myself to
+as reasons or blackberries, still I could not bring myself to
 
-      believe that _the remarkable_ something to which I alluded just
+believe that _the remarkable_ something to which I alluded just
 
-      now,—that the odd air of _je ne sais quoi_ which hung about my
+now,—that the odd air of _je ne sais quoi_ which hung about my
 
-      new acquaintance,—lay altogether, or indeed at all, in the
+new acquaintance,—lay altogether, or indeed at all, in the
 
-      supreme excellence of his bodily endowments. Perhaps it might be
+supreme excellence of his bodily endowments. Perhaps it might be
 
-      traced to the _manner_;—yet here again I could not pretend to be
+traced to the _manner_;—yet here again I could not pretend to be
 
-      positive. There _was_ a primness, not to say stiffness, in his
+positive. There _was_ a primness, not to say stiffness, in his
 
-      carriage—a degree of measured, and, if I may so express it, of
+carriage—a degree of measured, and, if I may so express it, of
 
-      rectangular precision, attending his every movement, which,
+rectangular precision, attending his every movement, which,
 
-      observed in a more diminutive figure, would have had the least
+observed in a more diminutive figure, would have had the least
 
-      little savor in the world, of affectation, pomposity or
+little savor in the world, of affectation, pomposity or
 
-      constraint, but which noticed in a gentleman of his undoubted
+constraint, but which noticed in a gentleman of his undoubted
 
-      dimensions, was readily placed to the account of reserve,
+dimensions, was readily placed to the account of reserve,
 
-      _hauteur_—of a commendable sense, in short, of what is due to the
+_hauteur_—of a commendable sense, in short, of what is due to the
 
-      dignity of colossal proportion.
+dignity of colossal proportion.
 
 
 
-      The kind friend who presented me to General [[smith|Smith]] whispered in my
+The kind friend who presented me to General [[smith|Smith]] whispered in my
 
-      ear some few words of comment upon the man. He was a _remarkable_
+ear some few words of comment upon the man. He was a _remarkable_
 
-      man—a _very_ remarkable man—indeed one of the _most_ remarkable
+man—a _very_ remarkable man—indeed one of the _most_ remarkable
 
-      men of the age. He was an especial favorite, too, with the
+men of the age. He was an especial favorite, too, with the
 
-      ladies—chiefly on account of his high reputation for [[Courage|courage]].
+ladies—chiefly on account of his high reputation for [[Courage|courage]].
 
 
 
-      “In _that_ point he is unrivalled—indeed he is a perfect
+“In _that_ point he is unrivalled—indeed he is a perfect
 
-      desperado—a down-right [[Fire|fire]]-eater, and no mistake,” said my
+desperado—a down-right [[Fire|fire]]-eater, and no mistake,” said my
 
-      friend, here dropping his voice excessively low, and thrilling me
+friend, here dropping his voice excessively low, and thrilling me
 
-      with the mystery of his tone.
+with the mystery of his tone.
 
 
 
-      “A downright [[Fire|fire]]-eater, and _no_ mistake. Showed _that_, I
+“A downright [[Fire|fire]]-eater, and _no_ mistake. Showed _that_, I
 
-      should say, to some purpose, in the late tremendous swamp-fight
+should say, to some purpose, in the late tremendous swamp-fight
 
-      away down South, with the Bugaboo and Kickapoo Indians.” [Here my
+away down South, with the Bugaboo and Kickapoo Indians.” [Here my
 
-      friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
+friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
 
 
 
@@ -1084,195 +1084,195 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 <span class="atom-split" data-atom="part--part_02" data-title="The Man That Was Used Up (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      thunder, and all that!—_prodigies_ of valor!—heard of him of
+thunder, and all that!—_prodigies_ of valor!—heard of him of
 
-      course?—you know he’s the man—”
+course?—you know he’s the man—”
 
 
 
-      “Man alive, how _do_ you do? why, how _are_ ye? _very_ glad to
+“Man alive, how _do_ you do? why, how _are_ ye? _very_ glad to
 
-      see ye, indeed!” here interrupted the General himself, seizing my
+see ye, indeed!” here interrupted the General himself, seizing my
 
-      companion by the hand as he drew near, and bowing stiffly, but
+companion by the hand as he drew near, and bowing stiffly, but
 
-      profoundly, as I was presented. I then thought, (and I think so
+profoundly, as I was presented. I then thought, (and I think so
 
-      still,) that I never heard a clearer nor a stronger voice, nor
+still,) that I never heard a clearer nor a stronger voice, nor
 
-      beheld a finer set of teeth: but I _must_ say that I was sorry
+beheld a finer set of teeth: but I _must_ say that I was sorry
 
-      for the interruption just at that moment, as, owing to the
+for the interruption just at that moment, as, owing to the
 
-      whispers and insinuations aforesaid, my interest had been greatly
+whispers and insinuations aforesaid, my interest had been greatly
 
-      excited in the [[Hero|hero]] of the Bugaboo and Kickapoo campaign.
+excited in the [[Hero|hero]] of the Bugaboo and Kickapoo campaign.
 
 
 
-      However, the delightfully luminous conversation of Brevet
+However, the delightfully luminous conversation of Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
+Brigadier General John A. B. C. [[smith|Smith]] soon completely dissipated
 
-      this chagrin. My friend leaving us immediately, we had quite a
+this chagrin. My friend leaving us immediately, we had quite a
 
-      long _tête-à-tête_, and I was not only pleased but
+long _tête-à-tête_, and I was not only pleased but
 
-      _really_—instructed. I never heard a more fluent talker, or a man
+_really_—instructed. I never heard a more fluent talker, or a man
 
-      of greater general information. With becoming modesty, he
+of greater general information. With becoming modesty, he
 
-      forebore, nevertheless, to touch upon the theme I had just then
+forebore, nevertheless, to touch upon the theme I had just then
 
-      most at heart—I mean the mysterious circumstances attending the
+most at heart—I mean the mysterious circumstances attending the
 
-      Bugaboo war—and, on my own part, what I conceive to be a proper
+Bugaboo war—and, on my own part, what I conceive to be a proper
 
-      sense of delicacy forbade me to broach the subject; although, in
+sense of delicacy forbade me to broach the subject; although, in
 
-      [[Truth|truth]], I was exceedingly tempted to do so. I perceived, too, that
+[[Truth|truth]], I was exceedingly tempted to do so. I perceived, too, that
 
-      the gallant soldier preferred topics of philosophical interest,
+the gallant soldier preferred topics of philosophical interest,
 
-      and that he delighted, especially, in commenting upon the rapid
+and that he delighted, especially, in commenting upon the rapid
 
-      march of mechanical invention. Indeed, lead him where I would,
+march of mechanical invention. Indeed, lead him where I would,
 
-      this was a point to which he invariably came back.
+this was a point to which he invariably came back.
 
 
 
-      “There is nothing at all like it,” he would say; “we are a
+“There is nothing at all like it,” he would say; “we are a
 
-      wonderful people, and live in a wonderful age. Parachutes and
+wonderful people, and live in a wonderful age. Parachutes and
 
-      rail-roads—man-traps and [[spring]]-guns! Our steam-boats are upon
+rail-roads—man-traps and [[spring]]-guns! Our steam-boats are upon
 
-      every sea, and the Nassau balloon packet is about to run regular
+every sea, and the Nassau balloon packet is about to run regular
 
-      trips (fare either way only twenty pounds sterling) between
+trips (fare either way only twenty pounds sterling) between
 
-      [[London]] and Timbuctoo. And who shall calculate the immense
+[[London]] and Timbuctoo. And who shall calculate the immense
 
-      influence upon social life—upon arts—upon commerce—upon
+influence upon social life—upon arts—upon commerce—upon
 
-      literature—which will be the immediate result of the great
+literature—which will be the immediate result of the great
 
-      principles of electro-magnetics! Nor, is this all, let me assure
+principles of electro-magnetics! Nor, is this all, let me assure
 
-      you! There is really no end to the march of invention. The most
+you! There is really no end to the march of invention. The most
 
-      wonderful—the most ingenious—and let me add, Mr.—Mr.—Thompson, I
+wonderful—the most ingenious—and let me add, Mr.—Mr.—Thompson, I
 
-      believe, is your name—let me add, I say, the most _useful_—the
+believe, is your name—let me add, I say, the most _useful_—the
 
-      most truly _useful_—mechanical contrivances, are daily springing
+most truly _useful_—mechanical contrivances, are daily springing
 
-      up like mushrooms, if I may so express myself, or, more
+up like mushrooms, if I may so express myself, or, more
 
-      figuratively, like—ah—grasshoppers—like grasshoppers, Mr.
+figuratively, like—ah—grasshoppers—like grasshoppers, Mr.
 
-      Thompson—about us and ah—ah—ah—around us!”
+Thompson—about us and ah—ah—ah—around us!”
 
 
 
-      Thompson, to be sure, is not my name; but it is needless to say
+Thompson, to be sure, is not my name; but it is needless to say
 
-      that I left General [[smith|Smith]] with a heightened interest in the man,
+that I left General [[smith|Smith]] with a heightened interest in the man,
 
-      with an exalted opinion of his conversational powers, and a deep
+with an exalted opinion of his conversational powers, and a deep
 
-      sense of the valuable privileges we enjoy in living in this age
+sense of the valuable privileges we enjoy in living in this age
 
-      of mechanical invention. My curiosity, however, had not been
+of mechanical invention. My curiosity, however, had not been
 
-      altogether satisfied, and I resolved to prosecute immediate
+altogether satisfied, and I resolved to prosecute immediate
 
-      inquiry among my acquaintances touching the Brevet Brigadier
+inquiry among my acquaintances touching the Brevet Brigadier
 
-      General himself, and particularly respecting the tremendous
+General himself, and particularly respecting the tremendous
 
-      events _quorum pars magna fuit_, during the Bugaboo and Kickapoo
+events _quorum pars magna fuit_, during the Bugaboo and Kickapoo
 
-      campaign.
+campaign.
 
 
 
-      The first opportunity which presented itself, and which
+The first opportunity which presented itself, and which
 
-      (_horresco referens_) I did not in the least scruple to seize,
+(_horresco referens_) I did not in the least scruple to seize,
 
-      occurred at the Church of the Reverend Doctor Drummummupp, where
+occurred at the Church of the Reverend Doctor Drummummupp, where
 
-      I found myself established, one [[Sunday]], just at sermon [[Time|time]], not
+I found myself established, one [[Sunday]], just at sermon [[Time|time]], not
 
-      only in the pew, but by the side, of that worthy and
+only in the pew, but by the side, of that worthy and
 
-      communicative little friend of mine, Miss Tabitha T. Thus seated,
+communicative little friend of mine, Miss Tabitha T. Thus seated,
 
-      I congratulated myself, and with much reason, upon the very
+I congratulated myself, and with much reason, upon the very
 
-      flattering state of affairs. If any person knew anything about
+flattering state of affairs. If any person knew anything about
 
-      Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
+Brevet Brigadier General John A. B. C. [[smith|Smith]], that person, it was
 
-      clear to me, was Miss Tabitha T. We telegraphed a few signals,
+clear to me, was Miss Tabitha T. We telegraphed a few signals,
 
-      and then commenced, _sotto voce_, a brisk _tête-à-tête_.
+and then commenced, _sotto voce_, a brisk _tête-à-tête_.
 
 
 
-      “[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
+“[[smith|Smith]]!” said she, in reply to my very earnest inquiry;
 
-      “[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
+“[[smith|Smith]]!—why, not General John A. B. C.? Bless me, I thought you
 
-      _knew_ all about _him!_ This is a wonderfully inventive age!
+_knew_ all about _him!_ This is a wonderfully inventive age!
 
-      Horrid affair that!—a bloody set of wretches, those
+Horrid affair that!—a bloody set of wretches, those
 
-      Kickapoos!—fought like a [[Hero|hero]]—prodigies of valor—immortal renown.
+Kickapoos!—fought like a [[Hero|hero]]—prodigies of valor—immortal renown.
 
-      [[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
+[[smith|Smith]]!—Brevet Brigadier General John A. B. C.! why, you know he’s
 
-      the man—”
+the man—”
 
 
 
-      “Man,” here broke in Doctor Drummummupp, at the top of his voice,
+“Man,” here broke in Doctor Drummummupp, at the top of his voice,
 
-      and with a thump that came near knocking the pulpit about our
+and with a thump that came near knocking the pulpit about our
 
-      ears—“man that is born of a woman hath but a short [[Time|time]] to live;
+ears—“man that is born of a woman hath but a short [[Time|time]] to live;
 
-      he cometh up and is cut down like a flower!” I started to the
+he cometh up and is cut down like a flower!” I started to the
 
-      extremity of the pew, and perceived by the animated looks of the
+extremity of the pew, and perceived by the animated looks of the
 
-      divine, that the wrath which had nearly proved fatal to the
+divine, that the wrath which had nearly proved fatal to the
 
-      pulpit had been excited by the whispers of the lady and myself.
+pulpit had been excited by the whispers of the lady and myself.
 
-      There was no help for it; so I submitted with a good grace, and
+There was no help for it; so I submitted with a good grace, and
 
-      listened, in all the [[Martyrdom|martyrdom]] of dignified [[Silence|silence]], to the
+listened, in all the [[Martyrdom|martyrdom]] of dignified [[Silence|silence]], to the
 
-      balance of that very capital discourse.
+balance of that very capital discourse.
 
 
 
-      Next evening found me a somewhat late visitor at the Rantipole
+Next evening found me a somewhat late visitor at the Rantipole
 
-      Theatre, where I felt sure of satisfying my curiosity at once, by
+Theatre, where I felt sure of satisfying my curiosity at once, by
 
-      merely stepping into the box of those exquisite specimens of
+merely stepping into the box of those exquisite specimens of
 
-      affability and omniscience, the Misses Arabella and [[Miranda]]
+affability and omniscience, the Misses Arabella and [[Miranda]]
 
-      Cognoscenti. That fine tragedian, Climax, was doing [[Iago]] to a
+Cognoscenti. That fine tragedian, Climax, was doing [[Iago]] to a
 
-      very crowded [[house]], and I experienced some little difficulty in
+very crowded [[house]], and I experienced some little difficulty in
 
-      making my wishes understood; especially, as our box was next the
+making my wishes understood; especially, as our box was next the
 
 
 
@@ -1280,237 +1280,237 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 <span class="atom-split" data-atom="part--part_03" data-title="The Man That Was Used Up (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      slips, and completely overlooked the stage.
+slips, and completely overlooked the stage.
 
 
 
-      “[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
+“[[smith|Smith]]!” said Miss Arabella, as she at length comprehended the
 
-      purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
+purport of my query; “[[smith|Smith]]!—why, not General John A. B. C.?”
 
 
 
-      “[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever
+“[[smith|Smith]]!” inquired [[Miranda]], musingly. “God bless me, did you ever
 
-      behold a finer figure?”
+behold a finer figure?”
 
 
 
-      “Never, madam, but _do_ tell me—”
+“Never, madam, but _do_ tell me—”
 
 
 
-      “Or so inimitable grace?”
+“Or so inimitable grace?”
 
 
 
-      “Never, upon my word!—But pray inform me—”
+“Never, upon my word!—But pray inform me—”
 
 
 
-      “Or so just an appreciation of stage effect?”
+“Or so just an appreciation of stage effect?”
 
 
 
-      “Madam!”
+“Madam!”
 
 
 
-      “Or a more delicate sense of the true beauties of Shakespeare? Be
+“Or a more delicate sense of the true beauties of Shakespeare? Be
 
-      so good as to look at that leg!”
+so good as to look at that leg!”
 
 
 
-      “The devil!” and I turned again to her sister.
+“The devil!” and I turned again to her sister.
 
 
 
-      “[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
+“[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
 
-      that, wasn’t it?—great wretches, those Bugaboos—savage and so
+that, wasn’t it?—great wretches, those Bugaboos—savage and so
 
-      on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
+on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
 
-      great man!—perfect desperado!—immortal renown!—prodigies of
+great man!—perfect desperado!—immortal renown!—prodigies of
 
-      valor! _Never heard!_” [This was given in a scream.] “Bless my
+valor! _Never heard!_” [This was given in a scream.] “Bless my
 
-      [[Soul|soul]]! why, he’s the man—”
+[[Soul|soul]]! why, he’s the man—”
 
 
 
-                         “——mandragora
+“——mandragora
 
-     Nor all the drowsy syrups of the world
+Nor all the drowsy syrups of the world
 
-     Shall ever medicine thee to that sweet [[Sleep|sleep]]
+Shall ever medicine thee to that sweet [[Sleep|sleep]]
 
-     Which thou owd’st yesterday!”
+Which thou owd’st yesterday!”
 
 
 
-      here roared our Climax just in my ear, and shaking his fist in my
+here roared our Climax just in my ear, and shaking his fist in my
 
-      face all the [[Time|time]], in a way that I _couldn’t_ stand, and I
+face all the [[Time|time]], in a way that I _couldn’t_ stand, and I
 
-      _wouldn’t_. I left the Misses Cognoscenti immediately, went
+_wouldn’t_. I left the Misses Cognoscenti immediately, went
 
-      behind the scenes forthwith, and gave the beggarly scoundrel such
+behind the scenes forthwith, and gave the beggarly scoundrel such
 
-      a thrashing as I trust he will remember to the day of his [[Death|death]].
+a thrashing as I trust he will remember to the day of his [[Death|death]].
 
 
 
-      At the _soirée_ of the lovely widow, Mrs. Kathleen O’Trump, I was
+At the _soirée_ of the lovely widow, Mrs. Kathleen O’Trump, I was
 
-      confident that I should meet with no similar disappointment.
+confident that I should meet with no similar disappointment.
 
-      Accordingly, I was no sooner seated at the card-table, with my
+Accordingly, I was no sooner seated at the card-table, with my
 
-      pretty hostess for a _vis-à-vis_, than I propounded those
+pretty hostess for a _vis-à-vis_, than I propounded those
 
-      questions the solution of which had become a matter so essential
+questions the solution of which had become a matter so essential
 
-      to my peace.
+to my peace.
 
 
 
-      “[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
+“[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
 
-      affair that, wasn’t it?—diamonds, did you say?—terrible wretches
+affair that, wasn’t it?—diamonds, did you say?—terrible wretches
 
-      those Kickapoos!—we are playing _whist_, if you please, Mr.
+those Kickapoos!—we are playing _whist_, if you please, Mr.
 
-      Tattle—however, this is the age of invention, most certainly
+Tattle—however, this is the age of invention, most certainly
 
-      _the_ age, one may say—_the_ age _par excellence_—speak
+_the_ age, one may say—_the_ age _par excellence_—speak
 
-      French?—oh, quite a [[Hero|hero]]—perfect desperado!—_no hearts_, Mr.
+French?—oh, quite a [[Hero|hero]]—perfect desperado!—_no hearts_, Mr.
 
-      Tattle? I don’t believe it.—immortal renown and all
+Tattle? I don’t believe it.—immortal renown and all
 
-      that!—prodigies of valor! _Never heard!!_—why, bless me, he’s the
+that!—prodigies of valor! _Never heard!!_—why, bless me, he’s the
 
-      man—”
+man—”
 
 
 
-      “Mann!—_Captain_ Mann?” here screamed some little feminine
+“Mann!—_Captain_ Mann?” here screamed some little feminine
 
-      interloper from the farthest corner of the room. “Are you talking
+interloper from the farthest corner of the room. “Are you talking
 
-      about Captain Mann and the duel?—oh, I _must_ hear—do tell—go on,
+about Captain Mann and the duel?—oh, I _must_ hear—do tell—go on,
 
-      Mrs. O’Trump!—do now go on!” And go on Mrs. O’Trump did—all about
+Mrs. O’Trump!—do now go on!” And go on Mrs. O’Trump did—all about
 
-      a certain Captain Mann, who was either shot or hung, or should
+a certain Captain Mann, who was either shot or hung, or should
 
-      have been both shot and hung. Yes! Mrs. O’Trump, she went on, and
+have been both shot and hung. Yes! Mrs. O’Trump, she went on, and
 
-      I—I went off. There was no chance of hearing anything farther
+I—I went off. There was no chance of hearing anything farther
 
-      that evening in regard to Brevet Brigadier General John A. B. C.
+that evening in regard to Brevet Brigadier General John A. B. C.
 
-      [[smith|Smith]].
+[[smith|Smith]].
 
 
 
-      Still I consoled myself with the reflection that the tide of ill
+Still I consoled myself with the reflection that the tide of ill
 
-      luck would not run against me forever, and so determined to make
+luck would not run against me forever, and so determined to make
 
-      a bold push for information at the rout of that bewitching little
+a bold push for information at the rout of that bewitching little
 
-      angel, the graceful Mrs. Pirouette.
+angel, the graceful Mrs. Pirouette.
 
 
 
-      “[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
+“[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
 
-      zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
+zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
 
-      business that of the Bugaboos, wasn’t it?—dreadful creatures,
+business that of the Bugaboos, wasn’t it?—dreadful creatures,
 
-      those Indians!—_do_ turn out your toes! I really am ashamed of
+those Indians!—_do_ turn out your toes! I really am ashamed of
 
-      you—man of great [[Courage|courage]], poor fellow!—but this is a wonderful
+you—man of great [[Courage|courage]], poor fellow!—but this is a wonderful
 
-      age for invention—O dear me, I’m out of breath—quite a
+age for invention—O dear me, I’m out of breath—quite a
 
-      desperado—prodigies of valor—_never heard!_—can’t believe it—I
+desperado—prodigies of valor—_never heard!_—can’t believe it—I
 
-      shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
+shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
 
-      man—”
+man—”
 
 
 
-      “Man-_Fred_, I tell you!” here bawled out Miss Bas-Bleu, as I led
+“Man-_Fred_, I tell you!” here bawled out Miss Bas-Bleu, as I led
 
-      Mrs. Pirouette to a seat. “Did ever anybody hear the like? It’s
+Mrs. Pirouette to a seat. “Did ever anybody hear the like? It’s
 
-      Man-_Fred_, I say, and not at all by any means Man-_Friday_.”
+Man-_Fred_, I say, and not at all by any means Man-_Friday_.”
 
-      Here Miss Bas-Bleu beckoned to me in a very peremptory manner;
+Here Miss Bas-Bleu beckoned to me in a very peremptory manner;
 
-      and I was obliged, will I nill I, to leave Mrs. P. for the
+and I was obliged, will I nill I, to leave Mrs. P. for the
 
-      purpose of deciding a dispute touching the title of a certain
+purpose of deciding a dispute touching the title of a certain
 
-      poetical drama of Lord Byron’s. Although I pronounced, with great
+poetical drama of Lord Byron’s. Although I pronounced, with great
 
-      promptness, that the true title was Man-_Friday_, and not by any
+promptness, that the true title was Man-_Friday_, and not by any
 
-      means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
+means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
 
-      was not to be discovered, and I made my retreat from the [[house]] in
+was not to be discovered, and I made my retreat from the [[house]] in
 
-      a very bitter spirit of animosity against the whole race of the
+a very bitter spirit of animosity against the whole race of the
 
-      Bas-Bleus.
+Bas-Bleus.
 
 
 
-      Matters had now assumed a really serious aspect, and I resolved
+Matters had now assumed a really serious aspect, and I resolved
 
-      to call at once upon my particular friend, Mr. Theodore Sinivate;
+to call at once upon my particular friend, Mr. Theodore Sinivate;
 
-      for I knew that here at least I should get something like
+for I knew that here at least I should get something like
 
-      definite information.
+definite information.
 
 
 
-      “[[smith|Smith]]!” said he, in his [[Well|well]]-known peculiar way of drawling out
+“[[smith|Smith]]!” said he, in his [[Well|well]]-known peculiar way of drawling out
 
-      his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
+his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
 
-      affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
+affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
 
-      think so?—perfect despera-a-ado—great pity, ‘pon my
+think so?—perfect despera-a-ado—great pity, ‘pon my
 
-      honor!—wonderfully inventive age!—pro-o-odigies of valor! By the
+honor!—wonderfully inventive age!—pro-o-odigies of valor! By the
 
-      by, did you ever hear about Captain Ma-a-a-a-n?”
+by, did you ever hear about Captain Ma-a-a-a-n?”
 
 
 
-      “Captain Mann be d—d!” said I; “please to go on with your story.”
+“Captain Mann be d—d!” said I; “please to go on with your story.”
 
 
 
-      “Hem!—oh [[Well|well]]!—quite _la même cho-o-ose_, as we say in France.
+“Hem!—oh [[Well|well]]!—quite _la même cho-o-ose_, as we say in France.
 
-      [[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
+[[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
 
-      thought proper to put his finger to the side of his nose]—“I say,
+thought proper to put his finger to the side of his nose]—“I say,
 
-      you don’t mean to insinuate now, really and truly, and
+you don’t mean to insinuate now, really and truly, and
 
-      conscientiously, that you don’t know all about that affair of
+conscientiously, that you don’t know all about that affair of
 
-      [[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
+[[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
 
 
 
@@ -1518,254 +1518,254 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 <span class="atom-split" data-atom="part--part_04" data-title="The Man That Was Used Up (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      he’s the ma-a-an—”
+he’s the ma-a-an—”
 
 
 
-      “_Mr_. Sinivate,” said I, imploringly, “_is_ he the man in the
+“_Mr_. Sinivate,” said I, imploringly, “_is_ he the man in the
 
-      mask?”
+mask?”
 
 
 
-      “No-o-o!” said he, looking wise, “nor the man in the mo-o-on.”
+“No-o-o!” said he, looking wise, “nor the man in the mo-o-on.”
 
 
 
-      This reply I considered a pointed and positive insult, and so
+This reply I considered a pointed and positive insult, and so
 
-      left the [[house]] at once in high dudgeon, with a firm resolve to
+left the [[house]] at once in high dudgeon, with a firm resolve to
 
-      call my friend, Mr. Sinivate, to a speedy account for his
+call my friend, Mr. Sinivate, to a speedy account for his
 
-      ungentlemanly conduct and ill-breeding.
+ungentlemanly conduct and ill-breeding.
 
 
 
-      In the meantime, however, I had no notion of being thwarted
+In the meantime, however, I had no notion of being thwarted
 
-      touching the information I desired. There was one resource left
+touching the information I desired. There was one resource left
 
-      me yet. I would go to the fountain-head. I would call forthwith
+me yet. I would go to the fountain-head. I would call forthwith
 
-      upon the General himself, and demand, in explicit terms, a
+upon the General himself, and demand, in explicit terms, a
 
-      solution of this abominable piece of mystery. Here, at least,
+solution of this abominable piece of mystery. Here, at least,
 
-      there should be no chance for equivocation. I would be plain,
+there should be no chance for equivocation. I would be plain,
 
-      positive, peremptory—as short as pie-crust—as concise as Tacitus
+positive, peremptory—as short as pie-crust—as concise as Tacitus
 
-      or Montesquieu.
+or Montesquieu.
 
 
 
-      It was early when I called, and the General was dressing; but I
+It was early when I called, and the General was dressing; but I
 
-      pleaded urgent business, and was shown at once into his bed-room
+pleaded urgent business, and was shown at once into his bed-room
 
-      by an old negro valet, who remained in attendance during my
+by an old negro valet, who remained in attendance during my
 
-      visit. As I entered the chamber, I looked about, of course, for
+visit. As I entered the chamber, I looked about, of course, for
 
-      the occupant, but did not immediately perceive him. There was a
+the occupant, but did not immediately perceive him. There was a
 
-      large and exceedingly odd-looking bundle of something which lay
+large and exceedingly odd-looking bundle of something which lay
 
-      close by my feet on the floor, and, as I was not in the best
+close by my feet on the floor, and, as I was not in the best
 
-      humor in the world, I gave it a kick out of the way.
+humor in the world, I gave it a kick out of the way.
 
 
 
-      “Hem! ahem! rather civil that, I should say!” said the bundle, in
+“Hem! ahem! rather civil that, I should say!” said the bundle, in
 
-      one of the smallest, and altogether the funniest little voices,
+one of the smallest, and altogether the funniest little voices,
 
-      between a squeak and a whistle, that I ever heard in all the days
+between a squeak and a whistle, that I ever heard in all the days
 
-      of my existence.
+of my existence.
 
 
 
-      “Ahem! rather civil that, I should observe.”
+“Ahem! rather civil that, I should observe.”
 
 
 
-      I fairly shouted with terror, and made off, at a tangent, into
+I fairly shouted with terror, and made off, at a tangent, into
 
-      the farthest extremity of the room.
+the farthest extremity of the room.
 
 
 
-      “God bless me! my dear fellow,” here again whistled the bundle,
+“God bless me! my dear fellow,” here again whistled the bundle,
 
-      “what—what—what—why, what _is_ the matter? I really believe you
+“what—what—what—why, what _is_ the matter? I really believe you
 
-      don’t know me at all.”
+don’t know me at all.”
 
 
 
-      What _could_ I say to all this—what _could_ I? I staggered into
+What _could_ I say to all this—what _could_ I? I staggered into
 
-      an arm-chair, and, with staring eyes and open mouth, awaited the
+an arm-chair, and, with staring eyes and open mouth, awaited the
 
-      solution of the [[Wonder|wonder]].
+solution of the [[Wonder|wonder]].
 
 
 
-      “Strange you shouldn’t know me though, isn’t it?” presently
+“Strange you shouldn’t know me though, isn’t it?” presently
 
-      re-squeaked the nondescript, which I now perceived was
+re-squeaked the nondescript, which I now perceived was
 
-      performing, upon the floor, some inexplicable evolution, very
+performing, upon the floor, some inexplicable evolution, very
 
-      analogous to the drawing on of a stocking. There was only a
+analogous to the drawing on of a stocking. There was only a
 
-      single leg, however, apparent.
+single leg, however, apparent.
 
 
 
-      “Strange you shouldn’t know me, though, isn’t it? [[Pompey]], bring
+“Strange you shouldn’t know me, though, isn’t it? [[Pompey]], bring
 
-      me that leg!” Here [[Pompey]] handed the bundle, a very capital cork
+me that leg!” Here [[Pompey]] handed the bundle, a very capital cork
 
-      leg, already dressed, which it screwed on in a trice; and then it
+leg, already dressed, which it screwed on in a trice; and then it
 
-      stood up before my eyes.
+stood up before my eyes.
 
 
 
-      “And a bloody action it _was_,” continued the thing, as if in a
+“And a bloody action it _was_,” continued the thing, as if in a
 
-      soliloquy; “but then one mustn’t fight with the Bugaboos and
+soliloquy; “but then one mustn’t fight with the Bugaboos and
 
-      Kickapoos, and think of coming off with a mere scratch. [[Pompey]],
+Kickapoos, and think of coming off with a mere scratch. [[Pompey]],
 
-      I’ll thank you now for that arm. Thomas” [turning to me] “is
+I’ll thank you now for that arm. Thomas” [turning to me] “is
 
-      decidedly the best hand at a cork leg; but if you should ever
+decidedly the best hand at a cork leg; but if you should ever
 
-      want an arm, my dear fellow, you must really let me recommend you
+want an arm, my dear fellow, you must really let me recommend you
 
-      to Bishop.” Here [[Pompey]] screwed on an arm.
+to Bishop.” Here [[Pompey]] screwed on an arm.
 
 
 
-      “We had rather hot work of it, that you may say. Now, you dog,
+“We had rather hot work of it, that you may say. Now, you dog,
 
-      slip on my shoulders and bosom! Pettitt makes the best shoulders,
+slip on my shoulders and bosom! Pettitt makes the best shoulders,
 
-      but for a bosom you will have to go to Ducrow.”
+but for a bosom you will have to go to Ducrow.”
 
 
 
-      “Bosom!” said I.
+“Bosom!” said I.
 
 
 
-      “[[Pompey]], will you _never_ be ready with that wig? Scalping is a
+“[[Pompey]], will you _never_ be ready with that wig? Scalping is a
 
-      rough process after all; but then you can procure such a capital
+rough process after all; but then you can procure such a capital
 
-      scratch at De L’Orme’s.”
+scratch at De L’Orme’s.”
 
 
 
-      “Scratch!”
+“Scratch!”
 
 
 
-      “Now, you nigger, my teeth! For a _good_ set of these you had
+“Now, you nigger, my teeth! For a _good_ set of these you had
 
-      better go to Parmly’s at once; high prices, but excellent work. I
+better go to Parmly’s at once; high prices, but excellent work. I
 
-      swallowed some very capital articles, though, when the big
+swallowed some very capital articles, though, when the big
 
-      Bugaboo rammed me down with the butt end of his rifle.”
+Bugaboo rammed me down with the butt end of his rifle.”
 
 
 
-      “Butt end! ram down!! my eye!!”
+“Butt end! ram down!! my eye!!”
 
 
 
-      “O yes, by-the-by, my eye—here, [[Pompey]], you scamp, screw it in !
+“O yes, by-the-by, my eye—here, [[Pompey]], you scamp, screw it in !
 
-      Those Kickapoos are not so very slow at a gouge; but he’s a
+Those Kickapoos are not so very slow at a gouge; but he’s a
 
-      belied man, that Dr. Williams, after all; you can’t imagine how
+belied man, that Dr. Williams, after all; you can’t imagine how
 
-      [[Well|well]] I see with the eyes of his make.”
+[[Well|well]] I see with the eyes of his make.”
 
 
 
-      I now began very clearly to perceive that the object before me
+I now began very clearly to perceive that the object before me
 
-      was nothing more nor less than my new acquaintance, Brevet
+was nothing more nor less than my new acquaintance, Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
+Brigadier General John A. B. C. [[smith|Smith]]. The manipulations of
 
-      [[Pompey]] had made, I must confess, a very striking difference in
+[[Pompey]] had made, I must confess, a very striking difference in
 
-      the appearance of the personal man. The voice, however, still
+the appearance of the personal man. The voice, however, still
 
-      puzzled me no little; but even this apparent mystery was speedily
+puzzled me no little; but even this apparent mystery was speedily
 
-      cleared up.
+cleared up.
 
 
 
-      “[[Pompey]], you black rascal,” squeaked the General, “I really do
+“[[Pompey]], you black rascal,” squeaked the General, “I really do
 
-      believe you would let me go out without my palate.”
+believe you would let me go out without my palate.”
 
 
 
-      Hereupon, the negro, grumbling out an apology, went up to his
+Hereupon, the negro, grumbling out an apology, went up to his
 
-      master, opened his mouth with the knowing air of a [[Horse|horse]]-jockey,
+master, opened his mouth with the knowing air of a [[Horse|horse]]-jockey,
 
-      and adjusted therein a somewhat singular-looking [[Machine|machine]], in a
+and adjusted therein a somewhat singular-looking [[Machine|machine]], in a
 
-      very dexterous manner, that I could not altogether comprehend.
+very dexterous manner, that I could not altogether comprehend.
 
-      The alteration, however, in the entire expression of the
+The alteration, however, in the entire expression of the
 
-      General’s countenance was instantaneous and surprising. When he
+General’s countenance was instantaneous and surprising. When he
 
-      again spoke, his voice had resumed all that rich melody and
+again spoke, his voice had resumed all that rich melody and
 
-      strength which I had noticed upon our original introduction.
+strength which I had noticed upon our original introduction.
 
 
 
-      “D—n the vagabonds!” said he, in so clear a tone that I
+“D—n the vagabonds!” said he, in so clear a tone that I
 
-      positively started at the change, “D—n the vagabonds! they not
+positively started at the change, “D—n the vagabonds! they not
 
-      only knocked in the roof of my mouth, but took the trouble to cut
+only knocked in the roof of my mouth, but took the trouble to cut
 
-      off at least seven-eighths of my tongue. There isn’t Bonfanti’s
+off at least seven-eighths of my tongue. There isn’t Bonfanti’s
 
-      equal, however, in [[america|America]], for really good articles of this
+equal, however, in [[america|America]], for really good articles of this
 
-      description. I can recommend you to him with confidence,” [here
+description. I can recommend you to him with confidence,” [here
 
-      the General bowed,] “and assure you that I have the greatest
+the General bowed,] “and assure you that I have the greatest
 
-      pleasure in so doing.”
+pleasure in so doing.”
 
 
 
-      I acknowledged his kindness in my best manner, and took leave of
+I acknowledged his kindness in my best manner, and took leave of
 
-      him at once, with a perfect understanding of the true state of
+him at once, with a perfect understanding of the true state of
 
-      affairs—with a full comprehension of the mystery which had
+affairs—with a full comprehension of the mystery which had
 
-      troubled me so long. It was evident. It was a clear case. Brevet
+troubled me so long. It was evident. It was a clear case. Brevet
 
-      Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
+Brigadier General John A. B. C. [[smith|Smith]] was the man—was _the man
 
-      that was used up_.
+that was used up_.

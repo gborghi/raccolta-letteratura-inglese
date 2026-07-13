@@ -21,66 +21,66 @@ by Jane Austen
 
 Contents
 
- VOLUME I.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
+VOLUME I.
+CHAPTER I.
+CHAPTER II.
+CHAPTER III.
+CHAPTER IV.
+CHAPTER V.
+CHAPTER VI.
+CHAPTER VII.
+CHAPTER VIII.
+CHAPTER IX.
+CHAPTER X.
+CHAPTER XI.
+CHAPTER XII.
+CHAPTER XIII.
+CHAPTER XIV.
+CHAPTER XV.
+CHAPTER XVI.
+CHAPTER XVII.
+CHAPTER XVIII.
 
- VOLUME II.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
+VOLUME II.
+CHAPTER I.
+CHAPTER II.
+CHAPTER III.
+CHAPTER IV.
+CHAPTER V.
+CHAPTER VI.
+CHAPTER VII.
+CHAPTER VIII.
+CHAPTER IX.
+CHAPTER X.
+CHAPTER XI.
+CHAPTER XII.
+CHAPTER XIII.
+CHAPTER XIV.
+CHAPTER XV.
+CHAPTER XVI.
+CHAPTER XVII.
+CHAPTER XVIII.
 
- VOLUME III.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
- CHAPTER XIX.
+VOLUME III.
+CHAPTER I.
+CHAPTER II.
+CHAPTER III.
+CHAPTER IV.
+CHAPTER V.
+CHAPTER VI.
+CHAPTER VII.
+CHAPTER VIII.
+CHAPTER IX.
+CHAPTER X.
+CHAPTER XI.
+CHAPTER XII.
+CHAPTER XIII.
+CHAPTER XIV.
+CHAPTER XV.
+CHAPTER XVI.
+CHAPTER XVII.
+CHAPTER XVIII.
+CHAPTER XIX.
 
 
 
@@ -2367,9 +2367,9 @@ last he recalled, and rather sentimentally recited, that [[Well|well]]-known
 charade,
 
 My first doth affliction denote,
-    Which my second is destin’d to feel
+Which my second is destin’d to feel
 And my whole is the best antidote
-    That affliction to soften and heal.—
+That affliction to soften and heal.—
 
 
 made her quite sorry to acknowledge that they had transcribed it some
@@ -2411,17 +2411,17 @@ CHARADE.
 
 
 My first displays the wealth and pomp of kings,
-    Lords of the earth! their luxury and ease.
+Lords of the earth! their luxury and ease.
 Another view of man, my second brings,
-    Behold him there, the monarch of the seas!
+Behold him there, the monarch of the seas!
 
 But ah! united, what reverse we have!
-    Man’s boasted power and [[Freedom|freedom]], all are flown;
+Man’s boasted power and [[Freedom|freedom]], all are flown;
 Lord of the earth and sea, he bends a slave,
-    And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns [[Alone|alone]].
 
-    Thy ready wit the word will soon supply,
-    May its approval beam in that soft eye!
+Thy ready wit the word will soon supply,
+May its approval beam in that soft eye!
 
 
 She cast her eye over it, pondered, caught the meaning, read it through
@@ -2479,21 +2479,21 @@ friend upon a [[Mermaid|mermaid]] or a shark? Give me the paper and listen.
 For Miss ———, read Miss [[smith|Smith]].
 
 My first displays the wealth and pomp of kings,
-    Lords of the earth! their luxury and ease.
+Lords of the earth! their luxury and ease.
 
 
 That is _court_.
 
 Another view of man, my second brings;
-    Behold him there, the monarch of the seas!
+Behold him there, the monarch of the seas!
 
 
 That is _ship_;—plain as it can be.—Now for the cream.
 
 But ah! united, (_courtship_, you know,) what reverse we have!
-    Man’s boasted power and [[Freedom|freedom]], all are flown.
+Man’s boasted power and [[Freedom|freedom]], all are flown.
 Lord of the earth and sea, he bends a slave,
-    And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns [[Alone|alone]].
 
 
 A very proper compliment!—and then follows the application, which I
@@ -2701,10 +2701,10 @@ me mention; I can only recollect the first stanza; and there are
 several.
 
 Kitty, a fair but frozen maid,
-    Kindled a flame I yet deplore,
+Kindled a flame I yet deplore,
 The hood-wink’d boy I called to aid,
 Though of his near approach afraid,
-    So fatal to my suit before.
+So fatal to my suit before.
 
 
 And that is all that I can recollect of it—but it is very clever all
@@ -9584,7 +9584,7 @@ must not be suffered to remain unknown.—I dare say you have heard those
 charming lines of the poet,
 
 ‘Full many a flower is born to blush unseen,
-    ‘And waste its fragrance on the [[Desert|desert]] air.’
+‘And waste its fragrance on the [[Desert|desert]] air.’
 
 
 We must not allow them to be verified in sweet [[Jane Fairfax]].”
@@ -20765,9 +20765,9 @@ last he recalled, and rather sentimentally recited, that [[Well|well]]-known
 charade,
 
 My first doth affliction denote,
-    Which my second is destin’d to feel
+Which my second is destin’d to feel
 And my whole is the best antidote
-    That affliction to soften and heal.—
+That affliction to soften and heal.—
 
 
 made her quite sorry to acknowledge that they had transcribed it some
@@ -20809,17 +20809,17 @@ CHARADE.
 
 
 My first displays the wealth and pomp of kings,
-    Lords of the earth! their luxury and ease.
+Lords of the earth! their luxury and ease.
 Another view of man, my second brings,
-    Behold him there, the monarch of the seas!
+Behold him there, the monarch of the seas!
 
 But ah! united, what reverse we have!
-    Man’s boasted power and [[Freedom|freedom]], all are flown;
+Man’s boasted power and [[Freedom|freedom]], all are flown;
 Lord of the earth and sea, he bends a slave,
-    And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns [[Alone|alone]].
 
-    Thy ready wit the word will soon supply,
-    May its approval beam in that soft eye!
+Thy ready wit the word will soon supply,
+May its approval beam in that soft eye!
 
 
 She cast her eye over it, pondered, caught the meaning, read it through
@@ -20883,21 +20883,21 @@ friend upon a [[Mermaid|mermaid]] or a shark? Give me the paper and listen.
 For Miss ———, read Miss [[smith|Smith]].
 
 My first displays the wealth and pomp of kings,
-    Lords of the earth! their luxury and ease.
+Lords of the earth! their luxury and ease.
 
 
 That is _court_.
 
 Another view of man, my second brings;
-    Behold him there, the monarch of the seas!
+Behold him there, the monarch of the seas!
 
 
 That is _ship_;—plain as it can be.—Now for the cream.
 
 But ah! united, (_courtship_, you know,) what reverse we have!
-    Man’s boasted power and [[Freedom|freedom]], all are flown.
+Man’s boasted power and [[Freedom|freedom]], all are flown.
 Lord of the earth and sea, he bends a slave,
-    And woman, lovely woman, reigns [[Alone|alone]].
+And woman, lovely woman, reigns [[Alone|alone]].
 
 
 A very proper compliment!—and then follows the application, which I
@@ -21111,10 +21111,10 @@ me mention; I can only recollect the first stanza; and there are
 several.
 
 Kitty, a fair but frozen maid,
-    Kindled a flame I yet deplore,
+Kindled a flame I yet deplore,
 The hood-wink’d boy I called to aid,
 Though of his near approach afraid,
-    So fatal to my suit before.
+So fatal to my suit before.
 
 
 And that is all that I can recollect of it—but it is very clever all
@@ -27345,7 +27345,7 @@ must not be suffered to remain unknown.—I dare say you have heard those
 charming lines of the poet,
 
 ‘Full many a flower is born to blush unseen,
-    ‘And waste its fragrance on the [[Desert|desert]] air.’
+‘And waste its fragrance on the [[Desert|desert]] air.’
 
 
 We must not allow them to be verified in sweet [[Jane Fairfax]].”

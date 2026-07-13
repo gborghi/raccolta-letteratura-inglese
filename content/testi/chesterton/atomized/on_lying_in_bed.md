@@ -135,7 +135,7 @@ then he will get up a healthy man.  If he does it for some secondary
 hygienic reason, if he has some scientific explanation, he may get
 up a hypochondriac.
 
-		       -Gilbert Keith Chesterton
+-Gilbert Keith Chesterton
 
 
 
@@ -356,7 +356,7 @@ then he will get up a healthy man.  If he does it for some secondary
 hygienic reason, if he has some scientific explanation, he may get
 up a hypochondriac.
 
-		       -Gilbert Keith Chesterton
+-Gilbert Keith Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -398,4 +398,4 @@ allora si alzerà uomo sano.  Se lo fa per qualche ragione secondaria
 igienica, se ha qualche spiegazione scientifica, potrà alzarsi
 ipocondriaco.
 
-		       -Gilbert Keith Chesterton
+-Gilbert Keith Chesterton

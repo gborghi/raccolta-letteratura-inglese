@@ -1173,7 +1173,7 @@ While round about him whirl the rotten leaves.
 
 
 
-<span class="atom-split" data-atom="story_01_verses" data-title="Verses and Sonnets — VERSES." data-chapter="Story 01 VERSES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_verses" data-title="Verses and Sonnets — VERSES." data-chapter="VERSES" data-kind="story"></span>
 
 
 VERSES.
@@ -1214,7 +1214,7 @@ Most holy [[Night]].
 
 
 
-<span class="atom-split" data-atom="story_02_homage" data-title="Verses and Sonnets — HOMAGE." data-chapter="Story 02 HOMAGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_homage" data-title="Verses and Sonnets — HOMAGE." data-chapter="HOMAGE" data-kind="story"></span>
 
 
 HOMAGE.
@@ -1250,7 +1250,7 @@ The early hours of all their happy circuit take.
 
 
 
-<span class="atom-split" data-atom="story_03_cuckoo" data-title="Verses and Sonnets — CUCKOO!" data-chapter="Story 03 CUCKOO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_cuckoo" data-title="Verses and Sonnets — CUCKOO!" data-chapter="CUCKOO" data-kind="story"></span>
 
 
 CUCKOO!
@@ -1296,7 +1296,7 @@ In woods so long time bare.
 
 
 
-<span class="atom-split" data-atom="story_04_sonnets" data-title="Verses and Sonnets — SONNETS." data-chapter="Story 04 SONNETS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_sonnets" data-title="Verses and Sonnets — SONNETS." data-chapter="SONNETS" data-kind="story"></span>
 
 
 SONNETS.
@@ -1333,7 +1333,7 @@ To Californian skies.
 
 
 
-<span class="atom-split" data-atom="story_05_her_youth" data-title="Verses and Sonnets — HER YOUTH." data-chapter="Story 05 HER YOUTH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_her_youth" data-title="Verses and Sonnets — HER YOUTH." data-chapter="HER YOUTH" data-kind="story"></span>
 
 
 HER YOUTH.
@@ -1369,7 +1369,7 @@ And I will still be young when all the world’s grown old.
 
 
 
-<span class="atom-split" data-atom="story_06_love_and_honour" data-title="Verses and Sonnets — LOVE AND HONOUR." data-chapter="Story 06 LOVE AND HONOUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_love_and_honour" data-title="Verses and Sonnets — LOVE AND HONOUR." data-chapter="LOVE AND HONOUR" data-kind="story"></span>
 
 
 LOVE AND [[Honour|HONOUR]].
@@ -1405,7 +1405,7 @@ Dead Honour risen outdoes Love at last.
 
 
 
-<span class="atom-split" data-atom="story_07_her_music" data-title="Verses and Sonnets — HER MUSIC." data-chapter="Story 07 HER MUSIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_her_music" data-title="Verses and Sonnets — HER MUSIC." data-chapter="HER MUSIC" data-kind="story"></span>
 
 
 HER MUSIC.
@@ -1441,7 +1441,7 @@ And make me dreamer more than dreams are wise.
 
 
 
-<span class="atom-split" data-atom="story_08_her_faith" data-title="Verses and Sonnets — HER FAITH." data-chapter="Story 08 HER FAITH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_her_faith" data-title="Verses and Sonnets — HER FAITH." data-chapter="HER FAITH" data-kind="story"></span>
 
 
 HER [[Faith|FAITH]].
@@ -1477,7 +1477,7 @@ Swear that’s true now, and I’ll believe it then.
 
 
 
-<span class="atom-split" data-atom="story_09_her_gift_in_a_garden" data-title="Verses and Sonnets — HER GIFT IN A GARDEN." data-chapter="Story 09 HER GIFT IN A GARDEN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_her_gift_in_a_garden" data-title="Verses and Sonnets — HER GIFT IN A GARDEN." data-chapter="HER GIFT IN A GARDEN" data-kind="story"></span>
 
 
 HER GIFT IN A GARDEN.
@@ -1513,7 +1513,7 @@ In narrow room of rhyme, I fixed it certainly.
 
 
 
-<span class="atom-split" data-atom="story_10_the_check" data-title="Verses and Sonnets — THE CHECK." data-chapter="Story 10 THE CHECK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_check" data-title="Verses and Sonnets — THE CHECK." data-chapter="THE CHECK" data-kind="story"></span>
 
 
 THE CHECK.
@@ -1549,7 +1549,7 @@ Alas! to be entombed in seas and seen no more.
 
 
 
-<span class="atom-split" data-atom="story_11_the_poor_of_london" data-title="Verses and Sonnets — THE POOR OF LONDON." data-chapter="Story 11 THE POOR OF LONDON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_poor_of_london" data-title="Verses and Sonnets — THE POOR OF LONDON." data-chapter="THE POOR OF LONDON" data-kind="story"></span>
 
 
 THE POOR OF LONDON.
@@ -1585,7 +1585,7 @@ Ring down the abyss of twice ten thousand years.
 
 
 
-<span class="atom-split" data-atom="story_12_grotesques" data-title="Verses and Sonnets — GROTESQUES." data-chapter="Story 12 GROTESQUES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_grotesques" data-title="Verses and Sonnets — GROTESQUES." data-chapter="GROTESQUES" data-kind="story"></span>
 
 
 GROTESQUES.
@@ -1666,7 +1666,7 @@ And the small child Jesus smile on you.
 
 
 
-<span class="atom-split" data-atom="story_13_the_early_morning" data-title="Verses and Sonnets — THE EARLY MORNING." data-chapter="Story 13 THE EARLY MORNING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_early_morning" data-title="Verses and Sonnets — THE EARLY MORNING." data-chapter="THE EARLY MORNING" data-kind="story"></span>
 
 
 THE EARLY MORNING.
@@ -1682,7 +1682,7 @@ My Brother, good morning; my Sister, good [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="story_14_auvergnat" data-title="Verses and Sonnets — AUVERGNAT." data-chapter="Story 14 AUVERGNAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_auvergnat" data-title="Verses and Sonnets — AUVERGNAT." data-chapter="AUVERGNAT" data-kind="story"></span>
 
 
 AUVERGNAT.
@@ -1722,7 +1722,7 @@ At Pontgibaud they mended it.
 
 
 
-<span class="atom-split" data-atom="story_15_the_worlds_end" data-title="Verses and Sonnets — THE WORLD’S END." data-chapter="Story 15 THE WORLDS END" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_worlds_end" data-title="Verses and Sonnets — THE WORLD’S END." data-chapter="THE WORLDS END" data-kind="story"></span>
 
 
 THE WORLD’S END.
@@ -1770,7 +1770,7 @@ The world’s a weary way.
 
 
 
-<span class="atom-split" data-atom="story_16_fille_la_haine" data-title="Verses and Sonnets — FILLE-LA-HAINE." data-chapter="Story 16 FILLE LA HAINE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_fille_la_haine" data-title="Verses and Sonnets — FILLE-LA-HAINE." data-chapter="FILLE LA HAINE" data-kind="story"></span>
 
 
 FILLE-LA-HAINE.
@@ -1814,7 +1814,7 @@ Fille-la-Haine was my sweetheart.
 
 
 
-<span class="atom-split" data-atom="story_17_the_moons_funeral" data-title="Verses and Sonnets — THE MOON’S FUNERAL." data-chapter="Story 17 THE MOONS FUNERAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_moons_funeral" data-title="Verses and Sonnets — THE MOON’S FUNERAL." data-chapter="THE MOONS FUNERAL" data-kind="story"></span>
 
 
 THE [[Moon|MOON]]’S FUNERAL.
@@ -1874,7 +1874,7 @@ The Moon is dead. I saw her die.
 
 
 
-<span class="atom-split" data-atom="story_18_the_justice_of_the_peace" data-title="Verses and Sonnets — THE JUSTICE OF THE PEACE." data-chapter="Story 18 THE JUSTICE OF THE PEACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_justice_of_the_peace" data-title="Verses and Sonnets — THE JUSTICE OF THE PEACE." data-chapter="THE JUSTICE OF THE PEACE" data-kind="story"></span>
 
 
 THE JUSTICE OF THE PEACE.
@@ -1918,7 +1918,7 @@ And mean to keep it. Do you understand?
 
 
 
-<span class="atom-split" data-atom="story_19_epigrams" data-title="Verses and Sonnets — EPIGRAMS." data-chapter="Story 19 EPIGRAMS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_epigrams" data-title="Verses and Sonnets — EPIGRAMS." data-chapter="EPIGRAMS" data-kind="story"></span>
 
 
 EPIGRAMS.
@@ -1939,7 +1939,7 @@ Perkins was visiting at home last week.
 
 
 
-<span class="atom-split" data-atom="story_20_on_slop_a_poet" data-title="Verses and Sonnets — ON SLOP — A POET." data-chapter="Story 20 ON SLOP A POET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_on_slop_a_poet" data-title="Verses and Sonnets — ON SLOP — A POET." data-chapter="ON SLOP A POET" data-kind="story"></span>
 
 
 ON SLOP — A POET.
@@ -1955,7 +1955,7 @@ In all the other verses. These are his.
 
 
 
-<span class="atom-split" data-atom="story_21_on_torture_a_singer" data-title="Verses and Sonnets — ON TORTURE — A SINGER." data-chapter="Story 21 ON TORTURE A SINGER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_on_torture_a_singer" data-title="Verses and Sonnets — ON TORTURE — A SINGER." data-chapter="ON TORTURE A SINGER" data-kind="story"></span>
 
 
 ON TORTURE — A SINGER.
@@ -1971,7 +1971,7 @@ Torture is positively paid to sing.
 
 
 
-<span class="atom-split" data-atom="story_22_on_subtle_a_reviewer" data-title="Verses and Sonnets — ON SUBTLE — A REVIEWER." data-chapter="Story 22 ON SUBTLE A REVIEWER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_on_subtle_a_reviewer" data-title="Verses and Sonnets — ON SUBTLE — A REVIEWER." data-chapter="ON SUBTLE A REVIEWER" data-kind="story"></span>
 
 
 ON SUBTLE — A REVIEWER.
@@ -1991,7 +1991,7 @@ Why should the Author have to pay you ten?
 
 
 
-<span class="atom-split" data-atom="story_23_on_paunch_a_parasite" data-title="Verses and Sonnets — ON PAUNCH — A PARASITE." data-chapter="Story 23 ON PAUNCH A PARASITE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_on_paunch_a_parasite" data-title="Verses and Sonnets — ON PAUNCH — A PARASITE." data-chapter="ON PAUNCH A PARASITE" data-kind="story"></span>
 
 
 ON PAUNCH — A PARASITE.
@@ -2007,7 +2007,7 @@ We turn the conversation on to men.
 
 
 
-<span class="atom-split" data-atom="story_24_on_pugley_a_don" data-title="Verses and Sonnets — ON PUGLEY — A DON." data-chapter="Story 24 ON PUGLEY A DON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_on_pugley_a_don" data-title="Verses and Sonnets — ON PUGLEY — A DON." data-chapter="ON PUGLEY A DON" data-kind="story"></span>
 
 
 ON PUGLEY — A DON.
@@ -2019,7 +2019,7 @@ The soul, of Pugley, heartily deny.
 
 
 
-<span class="atom-split" data-atom="story_25_sonnets_of_the_twelve_months" data-title="Verses and Sonnets — SONNETS OF THE TWELVE MONTHS." data-chapter="Story 25 SONNETS OF THE TWELVE MONTHS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_sonnets_of_the_twelve_months" data-title="Verses and Sonnets — SONNETS OF THE TWELVE MONTHS." data-chapter="SONNETS OF THE TWELVE MONTHS" data-kind="story"></span>
 
 
 SONNETS OF THE TWELVE MONTHS.
@@ -2056,7 +2056,7 @@ It freezes; and the graven twigs are still.
 
 
 
-<span class="atom-split" data-atom="story_26_february" data-title="Verses and Sonnets — FEBRUARY." data-chapter="Story 26 FEBRUARY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_february" data-title="Verses and Sonnets — FEBRUARY." data-chapter="FEBRUARY" data-kind="story"></span>
 
 
 FEBRUARY.
@@ -2092,7 +2092,7 @@ Silence is dead, my [[Dawn]]; the morning’s here.
 
 
 
-<span class="atom-split" data-atom="story_27_march" data-title="Verses and Sonnets — MARCH." data-chapter="Story 27 MARCH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_march" data-title="Verses and Sonnets — MARCH." data-chapter="MARCH" data-kind="story"></span>
 
 
 MARCH.
@@ -2128,7 +2128,7 @@ And gives him challenge, bellowing battle-songs.
 
 
 
-<span class="atom-split" data-atom="story_28_april" data-title="Verses and Sonnets — APRIL." data-chapter="Story 28 APRIL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_april" data-title="Verses and Sonnets — APRIL." data-chapter="APRIL" data-kind="story"></span>
 
 
 APRIL.
@@ -2164,7 +2164,7 @@ Makes only marvel at her only face.
 
 
 
-<span class="atom-split" data-atom="story_29_may" data-title="Verses and Sonnets — MAY." data-chapter="Story 29 MAY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_may" data-title="Verses and Sonnets — MAY." data-chapter="MAY" data-kind="story"></span>
 
 
 MAY.
@@ -2200,7 +2200,7 @@ Not far from Marly by the memoried Seine.
 
 
 
-<span class="atom-split" data-atom="story_30_june" data-title="Verses and Sonnets — JUNE." data-chapter="Story 30 JUNE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_june" data-title="Verses and Sonnets — JUNE." data-chapter="JUNE" data-kind="story"></span>
 
 
 JUNE.
@@ -2236,7 +2236,7 @@ Oh, do rise up and make it perfect day.
 
 
 
-<span class="atom-split" data-atom="story_31_july" data-title="Verses and Sonnets — JULY." data-chapter="Story 31 JULY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_july" data-title="Verses and Sonnets — JULY." data-chapter="JULY" data-kind="story"></span>
 
 
 JULY.
@@ -2272,7 +2272,7 @@ And young Lord Raymond stormed Jerusalem.
 
 
 
-<span class="atom-split" data-atom="story_32_august" data-title="Verses and Sonnets — AUGUST." data-chapter="Story 32 AUGUST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_august" data-title="Verses and Sonnets — AUGUST." data-chapter="AUGUST" data-kind="story"></span>
 
 
 AUGUST.
@@ -2308,7 +2308,7 @@ What time he swept to grasp the world at Rome.
 
 
 
-<span class="atom-split" data-atom="story_33_september" data-title="Verses and Sonnets — SEPTEMBER." data-chapter="Story 33 SEPTEMBER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_september" data-title="Verses and Sonnets — SEPTEMBER." data-chapter="SEPTEMBER" data-kind="story"></span>
 
 
 SEPTEMBER.
@@ -2344,7 +2344,7 @@ And round her terrible head the morning [[Stars|stars]].
 
 
 
-<span class="atom-split" data-atom="story_34_october" data-title="Verses and Sonnets — OCTOBER." data-chapter="Story 34 OCTOBER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_october" data-title="Verses and Sonnets — OCTOBER." data-chapter="OCTOBER" data-kind="story"></span>
 
 
 OCTOBER.
@@ -2380,7 +2380,7 @@ Singing old songs and drinking wine together.
 
 
 
-<span class="atom-split" data-atom="story_35_november" data-title="Verses and Sonnets — NOVEMBER." data-chapter="Story 35 NOVEMBER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_november" data-title="Verses and Sonnets — NOVEMBER." data-chapter="NOVEMBER" data-kind="story"></span>
 
 
 NOVEMBER.
@@ -2416,7 +2416,7 @@ Their legacies of the light, and all the flowers are dead.
 
 
 
-<span class="atom-split" data-atom="story_36_december" data-title="Verses and Sonnets — DECEMBER." data-chapter="Story 36 DECEMBER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_december" data-title="Verses and Sonnets — DECEMBER." data-chapter="DECEMBER" data-kind="story"></span>
 
 
 DECEMBER.

@@ -16,7 +16,7 @@ tags:
 
 [[lepanto|Lepanto]]  
 
-				    G.K.Chesterton  
+G.K.Chesterton  
 
 White founts falling in the Courts of the sun,  
 And the Soldan of Byzantium is smiling as they run;  
@@ -110,7 +110,7 @@ But [[Don John of Austria]] is riding to the sea.
 [[Don John]] calling through the blast and the eclipse  
 Crying with the trumpet, with the trumpet of his lips,  
 Trumpet that sayeth _ha_!  
-    Domino gloria!  
+Domino gloria!  
 [[Don John of Austria]]  
 Is shouting to the ships.  
 
@@ -269,7 +269,7 @@ ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.
 [[Don John|Don Giovanni]] che chiama attraverso la raffica e l'eclissi  
 gridando con la tromba, con la tromba delle sue labbra,  
 tromba che dice _ha_!  
-    Domino gloria!  
+Domino gloria!  
 [[Don John of Austria|Don Giovanni d'Austria]]  
 sta gridando alle navi.  
 
@@ -336,7 +336,7 @@ e sorride, ma non come sorridono i Sultani, e ripone la lama....
 
 [[lepanto|Lepanto]]  
 
-				    G.K.Chesterton  
+G.K.Chesterton  
 
 White founts falling in the Courts of the sun,  
 And the Soldan of Byzantium is smiling as they run;  
@@ -430,7 +430,7 @@ But [[Don John of Austria]] is riding to the sea.
 [[Don John]] calling through the blast and the eclipse  
 Crying with the trumpet, with the trumpet of his lips,  
 Trumpet that sayeth _ha_!  
-    Domino gloria!  
+Domino gloria!  
 [[Don John of Austria]]  
 Is shouting to the ships.  
 
@@ -589,7 +589,7 @@ ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.
 [[Don John|Don Giovanni]] che chiama attraverso la raffica e l'eclissi  
 gridando con la tromba, con la tromba delle sue labbra,  
 tromba che dice _ha_!  
-    Domino gloria!  
+Domino gloria!  
 [[Don John of Austria|Don Giovanni d'Austria]]  
 sta gridando alle navi.  
 

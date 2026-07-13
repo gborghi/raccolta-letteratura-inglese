@@ -21,29 +21,29 @@ by Charles Dickens
 
 Contents
 
- CHAPTER I. THE [[Dawn|DAWN]]
- CHAPTER II. A DEAN, AND A CHAPTER ALSO
- CHAPTER III. THE NUNS’ [[house|HOUSE]]
- CHAPTER IV. MR. SAPSEA
- CHAPTER V. MR. [[Durdles|DURDLES]] AND FRIEND
- CHAPTER VI. PHILANTHROPY IN MINOR CANON CORNER
- CHAPTER VII. MORE CONFIDENCES THAN ONE
- CHAPTER VIII. DAGGERS DRAWN
- CHAPTER IX. [[Birds|BIRDS]] IN THE BUSH
- CHAPTER X. SMOOTHING THE WAY
- CHAPTER XI. A PICTURE AND A RING
- CHAPTER XII. A [[Night|NIGHT]] WITH [[Durdles|DURDLES]]
- CHAPTER XIII. BOTH AT THEIR BEST
- CHAPTER XIV. WHEN SHALL THESE THREE MEET AGAIN?
- CHAPTER XV. IMPEACHED
- CHAPTER XVI. DEVOTED
- CHAPTER XVII. PHILANTHROPY, PROFESSIONAL AND UNPROFESSIONAL
- CHAPTER XVIII. A SETTLER IN CLOISTERHAM
- CHAPTER XIX. [[Shadow|SHADOW]] ON THE SUN-DIAL
- CHAPTER XX. A FLIGHT
- CHAPTER XXI. A RECOGNITION
- CHAPTER XXII. A GRITTY STATE OF THINGS COMES ON
- CHAPTER XXIII. THE [[Dawn|DAWN]] AGAIN
+CHAPTER I. THE [[Dawn|DAWN]]
+CHAPTER II. A DEAN, AND A CHAPTER ALSO
+CHAPTER III. THE NUNS’ [[house|HOUSE]]
+CHAPTER IV. MR. SAPSEA
+CHAPTER V. MR. [[Durdles|DURDLES]] AND FRIEND
+CHAPTER VI. PHILANTHROPY IN MINOR CANON CORNER
+CHAPTER VII. MORE CONFIDENCES THAN ONE
+CHAPTER VIII. DAGGERS DRAWN
+CHAPTER IX. [[Birds|BIRDS]] IN THE BUSH
+CHAPTER X. SMOOTHING THE WAY
+CHAPTER XI. A PICTURE AND A RING
+CHAPTER XII. A [[Night|NIGHT]] WITH [[Durdles|DURDLES]]
+CHAPTER XIII. BOTH AT THEIR BEST
+CHAPTER XIV. WHEN SHALL THESE THREE MEET AGAIN?
+CHAPTER XV. IMPEACHED
+CHAPTER XVI. DEVOTED
+CHAPTER XVII. PHILANTHROPY, PROFESSIONAL AND UNPROFESSIONAL
+CHAPTER XVIII. A SETTLER IN CLOISTERHAM
+CHAPTER XIX. [[Shadow|SHADOW]] ON THE SUN-DIAL
+CHAPTER XX. A FLIGHT
+CHAPTER XXI. A RECOGNITION
+CHAPTER XXII. A GRITTY STATE OF THINGS COMES ON
+CHAPTER XXIII. THE [[Dawn|DAWN]] AGAIN
 
 
 
@@ -3445,7 +3445,7 @@ bird of graceful plumage (Miss Jennings will please stand upright) sang
 sweetly on the approach of [[Death|death]], for which we have no ornithological
 authority,—Rumour, Ladies, had been represented by that bard—hem!—
 
-        “who drew
+“who drew
 The celebrated Jew,”
 
 
@@ -4566,15 +4566,15 @@ On the third day after this conversation, he called on Mr. Crisparkle
 with the following letter:
 
 “MY DEAR JACK,
-    “I am touched by your account of your interview with Mr.
-    Crisparkle, whom I much respect and esteem. At once I openly say
-    that I forgot myself on that occasion quite as much as Mr. Landless
-    did, and that I wish that bygone to be a bygone, and all to be
-    right again.
-    “Look here, dear old boy. Ask Mr. Landless to dinner on Christmas
-    Eve (the better the day the better the deed), and let there be only
-    we three, and let us shake hands all round there and then, and say
-    no more about it.
+“I am touched by your account of your interview with Mr.
+Crisparkle, whom I much respect and esteem. At once I openly say
+that I forgot myself on that occasion quite as much as Mr. Landless
+did, and that I wish that bygone to be a bygone, and all to be
+right again.
+“Look here, dear old boy. Ask Mr. Landless to dinner on Christmas
+Eve (the better the day the better the deed), and let there be only
+we three, and let us shake hands all round there and then, and say
+no more about it.
 
 
 “My dear Jack,
@@ -8813,9 +8813,9 @@ look of a loyal subject of the mayoralty, “and it’ll be [[Time|time]] enough
 me to [[Honour]] him when I am. Until which, and when, and where,
 
 ‘Mister Sapsea is his name,
-    England is his nation,
+England is his nation,
 Cloisterham’s his dwelling-place,
-    Aukshneer’s his occupation.’”
+Aukshneer’s his occupation.’”
 
 
 Here, Deputy (preceded by a flying oyster-shell) appeared upon the
@@ -9391,7 +9391,7 @@ him, if you will?”
 ‘Confound his politics!
 Frustrate his knavish tricks!
 On Thee his hopes to fix?
-        Damn him again!’”
+Damn him again!’”
 
 
 After this most extraordinary outburst, Mr. Grewgious, quite beside
@@ -11824,7 +11824,7 @@ awakening muttered thunder.
 
 
 
-<span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="Chapter 04 there is not any other young" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="there is not any other young" data-kind="chapter"></span>
 
 
 part—there is not any other young—”
@@ -15684,7 +15684,7 @@ bird of graceful plumage (Miss Jennings will please stand upright) sang
 sweetly on the approach of [[Death|death]], for which we have no ornithological
 authority,—Rumour, Ladies, had been represented by that bard—hem!—
 
-        “who drew
+“who drew
 The celebrated Jew,”
 
 
@@ -16850,15 +16850,15 @@ On the third day after this conversation, he called on Mr. Crisparkle
 with the following letter:
 
 “MY DEAR JACK,
-    “I am touched by your account of your interview with Mr.
-    Crisparkle, whom I much respect and esteem. At once I openly say
-    that I forgot myself on that occasion quite as much as Mr. Landless
-    did, and that I wish that bygone to be a bygone, and all to be
-    right again.
-    “Look here, dear old boy. Ask Mr. Landless to dinner on Christmas
-    Eve (the better the day the better the deed), and let there be only
-    we three, and let us shake hands all round there and then, and say
-    no more about it.
+“I am touched by your account of your interview with Mr.
+Crisparkle, whom I much respect and esteem. At once I openly say
+that I forgot myself on that occasion quite as much as Mr. Landless
+did, and that I wish that bygone to be a bygone, and all to be
+right again.
+“Look here, dear old boy. Ask Mr. Landless to dinner on Christmas
+Eve (the better the day the better the deed), and let there be only
+we three, and let us shake hands all round there and then, and say
+no more about it.
 
 
 “My dear Jack,
@@ -21277,9 +21277,9 @@ look of a loyal subject of the mayoralty, “and it’ll be [[Time|time]] enough
 me to [[Honour]] him when I am. Until which, and when, and where,
 
 ‘Mister Sapsea is his name,
-    England is his nation,
+England is his nation,
 Cloisterham’s his dwelling-place,
-    Aukshneer’s his occupation.’”
+Aukshneer’s his occupation.’”
 
 
 Here, Deputy (preceded by a flying oyster-shell) appeared upon the
@@ -21879,7 +21879,7 @@ him, if you will?”
 ‘Confound his politics!
 Frustrate his knavish tricks!
 On Thee his hopes to fix?
-        Damn him again!’”
+Damn him again!’”
 
 
 After this most extraordinary outburst, Mr. Grewgious, quite beside
@@ -22155,7 +22155,7 @@ lions, and had it on his mind that she might tumble out.
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_01" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)" data-chapter="Chapter 24 hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_01" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
 
 
 part. I hear Neville moving too. Are you going back?”
@@ -22300,7 +22300,7 @@ is best that it should be made known to you.”
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_02" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)" data-chapter="Chapter 24 hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_02" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
 
 
 Mr. Grewgious and Rosa exchanged looks of some dismay, though they had
@@ -22429,7 +22429,7 @@ back to Furnival’s Inn on her guardian’s arm.
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_03" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 3)" data-chapter="Chapter 24 hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_03" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 3)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
 
 
 Behold Mr. Tartar walking up and down Furnival’s Inn, checking himself
@@ -22540,7 +22540,7 @@ pupil, whatever she,” meaning Rosa, “may be, poor thing!”
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_04" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 4)" data-chapter="Chapter 24 hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_04" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 4)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
 
 
 Miss Twinkleton, on the other hand, having changed her dress and
@@ -22666,7 +22666,7 @@ fowl.”
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_05" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 5)" data-chapter="Chapter 24 hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_05" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 5)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
 
 
 On which the Billickin would retort (Rosa not having spoken a word),

@@ -2317,7 +2317,7 @@ This novel is narrated by John Fothergill West, a Scot who has moved with his fa
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="SIR NIGEL — INTRODUCTION" data-chapter="Story 01 INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="SIR NIGEL — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
 
 
 INTRODUCTION
@@ -2331,7 +2331,7 @@ ARTHUR CONAN DOYLE.
 
 
 
-<span class="atom-split" data-atom="story_02_the_house_of_loring" data-title="SIR NIGEL — THE HOUSE OF LORING" data-chapter="Story 02 THE HOUSE OF LORING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_house_of_loring" data-title="SIR NIGEL — THE HOUSE OF LORING" data-chapter="THE HOUSE OF LORING" data-kind="story"></span>
 
 
 I. THE HOUSE OF LORING
@@ -2352,7 +2352,7 @@ It is in the heart of the great Cistercian monastery that this chronicle of old 
 
 
 
-<span class="atom-split" data-atom="story_03_how_the_devil_came_to_waverley" data-title="SIR NIGEL — HOW THE DEVIL CAME TO WAVERLEY" data-chapter="Story 03 HOW THE DEVIL CAME TO WAVERLEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_how_the_devil_came_to_waverley" data-title="SIR NIGEL — HOW THE DEVIL CAME TO WAVERLEY" data-chapter="HOW THE DEVIL CAME TO WAVERLEY" data-kind="story"></span>
 
 
 II. HOW THE DEVIL CAME TO WAVERLEY
@@ -2400,7 +2400,7 @@ The Abbot had opened his mouth to reply, when the consultation was interrupted b
 
 
 
-<span class="atom-split" data-atom="story_04_the_yellow_horse_of_crooksbury" data-title="SIR NIGEL — THE YELLOW HORSE OF CROOKSBURY" data-chapter="Story 04 THE YELLOW HORSE OF CROOKSBURY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_yellow_horse_of_crooksbury" data-title="SIR NIGEL — THE YELLOW HORSE OF CROOKSBURY" data-chapter="THE YELLOW HORSE OF CROOKSBURY" data-kind="story"></span>
 
 
 III. THE YELLOW [[Horse|HORSE]] OF CROOKSBURY
@@ -2485,7 +2485,7 @@ And so it was that some belated monks of Waverley passing homeward from the oute
 
 
 
-<span class="atom-split" data-atom="story_05_how_the_summoner_came_to_the_manor_house" data-title="SIR NIGEL — HOW THE SUMMONER CAME TO THE MANOR HOUSE OF TILFORD" data-chapter="Story 05 HOW THE SUMMONER CAME TO THE MANOR HOUSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_how_the_summoner_came_to_the_manor_house" data-title="SIR NIGEL — HOW THE SUMMONER CAME TO THE MANOR HOUSE OF TILFORD" data-chapter="HOW THE SUMMONER CAME TO THE MANOR HOUSE" data-kind="story"></span>
 
 
 IV. HOW THE SUMMONER CAME TO THE MANOR HOUSE OF TILFORD
@@ -2589,7 +2589,7 @@ The monk, hard as he was, quailed before the frantic figure and the bitter, burn
 
 
 
-<span class="atom-split" data-atom="story_06_how_nigel_was_tried_by_the_abbot_of_wave" data-title="SIR NIGEL — HOW NIGEL WAS TRIED BY THE ABBOT OF WAVERLEY" data-chapter="Story 06 HOW NIGEL WAS TRIED BY THE ABBOT OF WAVE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_how_nigel_was_tried_by_the_abbot_of_wave" data-title="SIR NIGEL — HOW NIGEL WAS TRIED BY THE ABBOT OF WAVERLEY" data-chapter="HOW NIGEL WAS TRIED BY THE ABBOT OF WAVE" data-kind="story"></span>
 
 
 V. HOW NIGEL WAS TRIED BY THE ABBOT OF WAVERLEY
@@ -2681,7 +2681,7 @@ Chandos, John Chandos, the flower of English chivalry, the pink of knight-errant
 
 
 
-<span class="atom-split" data-atom="story_07_in_which_lady_ermyntrude_opens_the_iron" data-title="SIR NIGEL — IN WHICH LADY ERMYNTRUDE OPENS THE IRON COFFER" data-chapter="Story 07 IN WHICH LADY ERMYNTRUDE OPENS THE IRON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_in_which_lady_ermyntrude_opens_the_iron" data-title="SIR NIGEL — IN WHICH LADY ERMYNTRUDE OPENS THE IRON COFFER" data-chapter="IN WHICH LADY ERMYNTRUDE OPENS THE IRON" data-kind="story"></span>
 
 
 VI. IN WHICH LADY ERMYNTRUDE OPENS THE IRON COFFER
@@ -2749,7 +2749,7 @@ She went to the old iron coffer, and taking a small key from her girdle she unlo
 
 
 
-<span class="atom-split" data-atom="story_08_how_nigel_went_marketing_to_guildford" data-title="SIR NIGEL — HOW NIGEL WENT MARKETING TO GUILDFORD" data-chapter="Story 08 HOW NIGEL WENT MARKETING TO GUILDFORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_how_nigel_went_marketing_to_guildford" data-title="SIR NIGEL — HOW NIGEL WENT MARKETING TO GUILDFORD" data-chapter="HOW NIGEL WENT MARKETING TO GUILDFORD" data-kind="story"></span>
 
 
 VII. HOW NIGEL WENT MARKETING TO GUILDFORD
@@ -2884,7 +2884,7 @@ Meanwhile the Squire and the armorer sat with their heads touching and the old s
 
 
 
-<span class="atom-split" data-atom="story_09_how_the_king_hawked_on_crooksbury_heath" data-title="SIR NIGEL — HOW THE KING HAWKED ON CROOKSBURY HEATH" data-chapter="Story 09 HOW THE KING HAWKED ON CROOKSBURY HEATH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_how_the_king_hawked_on_crooksbury_heath" data-title="SIR NIGEL — HOW THE KING HAWKED ON CROOKSBURY HEATH" data-chapter="HOW THE KING HAWKED ON CROOKSBURY HEATH" data-kind="story"></span>
 
 
 VIII. HOW THE KING HAWKED ON CROOKSBURY HEATH
@@ -2971,7 +2971,7 @@ On the high crown of the bridge a rider in armor was seated, lance in hand, upon
 
 
 
-<span class="atom-split" data-atom="story_10_how_nigel_held_the_bridge_at_tilford" data-title="SIR NIGEL — HOW NIGEL HELD THE BRIDGE AT TILFORD" data-chapter="Story 10 HOW NIGEL HELD THE BRIDGE AT TILFORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_how_nigel_held_the_bridge_at_tilford" data-title="SIR NIGEL — HOW NIGEL HELD THE BRIDGE AT TILFORD" data-chapter="HOW NIGEL HELD THE BRIDGE AT TILFORD" data-kind="story"></span>
 
 
 IX. HOW NIGEL HELD THE BRIDGE AT TILFORD
@@ -3040,7 +3040,7 @@ Nigel had indeed lain with all the breath shaken from his body, and as he was un
 
 
 
-<span class="atom-split" data-atom="story_11_how_the_king_greeted_his_seneschal_of_ca" data-title="SIR NIGEL — HOW THE KING GREETED HIS SENESCHAL OF CALAIS" data-chapter="Story 11 HOW THE KING GREETED HIS SENESCHAL OF CA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_how_the_king_greeted_his_seneschal_of_ca" data-title="SIR NIGEL — HOW THE KING GREETED HIS SENESCHAL OF CALAIS" data-chapter="HOW THE KING GREETED HIS SENESCHAL OF CA" data-kind="story"></span>
 
 
 X. HOW THE KING GREETED HIS SENESCHAL OF CALAIS
@@ -3138,7 +3138,7 @@ He had turned, to find his young host upon his knee and his flaxen head bent in 
 
 
 
-<span class="atom-split" data-atom="story_12_in_the_hall_of_the_knight_of_duplin" data-title="SIR NIGEL — IN THE HALL OF THE KNIGHT OF DUPLIN" data-chapter="Story 12 IN THE HALL OF THE KNIGHT OF DUPLIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_in_the_hall_of_the_knight_of_duplin" data-title="SIR NIGEL — IN THE HALL OF THE KNIGHT OF DUPLIN" data-chapter="IN THE HALL OF THE KNIGHT OF DUPLIN" data-kind="story"></span>
 
 
 XI. IN THE HALL OF THE KNIGHT OF DUPLIN
@@ -3237,7 +3237,7 @@ The old Knight laughed exultantly. “Here is a pupil who never brings me shame!
 
 
 
-<span class="atom-split" data-atom="story_13_how_nigel_fought_the_twisted_man_of_shal" data-title="SIR NIGEL — HOW NIGEL FOUGHT THE TWISTED MAN OF SHALFORD" data-chapter="Story 13 HOW NIGEL FOUGHT THE TWISTED MAN OF SHAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_how_nigel_fought_the_twisted_man_of_shal" data-title="SIR NIGEL — HOW NIGEL FOUGHT THE TWISTED MAN OF SHALFORD" data-chapter="HOW NIGEL FOUGHT THE TWISTED MAN OF SHAL" data-kind="story"></span>
 
 
 XII. HOW NIGEL FOUGHT THE TWISTED MAN OF SHALFORD
@@ -3363,7 +3363,7 @@ And so it was that the master of Shalford, livid and brooding, was left with his
 
 
 
-<span class="atom-split" data-atom="story_14_how_the_comrades_journeyed_down_the_old" data-title="SIR NIGEL — HOW THE COMRADES JOURNEYED DOWN THE OLD, OLD ROAD" data-chapter="Story 14 HOW THE COMRADES JOURNEYED DOWN THE OLD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_how_the_comrades_journeyed_down_the_old" data-title="SIR NIGEL — HOW THE COMRADES JOURNEYED DOWN THE OLD, OLD ROAD" data-chapter="HOW THE COMRADES JOURNEYED DOWN THE OLD" data-kind="story"></span>
 
 
 XIII. HOW THE COMRADES JOURNEYED DOWN THE OLD, OLD ROAD
@@ -3456,7 +3456,7 @@ And now the long ride drew to an end. In front of them was the blue sea, flecked
 
 
 
-<span class="atom-split" data-atom="story_15_how_nigel_chased_the_red_ferret" data-title="SIR NIGEL — HOW NIGEL CHASED THE RED FERRET" data-chapter="Story 15 HOW NIGEL CHASED THE RED FERRET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_how_nigel_chased_the_red_ferret" data-title="SIR NIGEL — HOW NIGEL CHASED THE RED FERRET" data-chapter="HOW NIGEL CHASED THE RED FERRET" data-kind="story"></span>
 
 
 XIV. HOW NIGEL CHASED THE RED FERRET
@@ -3614,7 +3614,7 @@ So saying, he laid his bleeding head upon his enemy’s brazen front and sank in
 
 
 
-<span class="atom-split" data-atom="story_16_how_the_red_ferret_came_to_cosford" data-title="SIR NIGEL — HOW THE RED FERRET CAME TO COSFORD" data-chapter="Story 16 HOW THE RED FERRET CAME TO COSFORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_how_the_red_ferret_came_to_cosford" data-title="SIR NIGEL — HOW THE RED FERRET CAME TO COSFORD" data-chapter="HOW THE RED FERRET CAME TO COSFORD" data-kind="story"></span>
 
 
 XV. HOW THE RED FERRET CAME TO COSFORD
@@ -3693,7 +3693,7 @@ She turned back to the house, a smile upon her face. Nigel had sent her greeting
 
 
 
-<span class="atom-split" data-atom="story_17_how_the_kings_court_feasted_in_calais_ca" data-title="SIR NIGEL — HOW THE KING’S COURT FEASTED IN CALAIS CASTLE" data-chapter="Story 17 HOW THE KINGS COURT FEASTED IN CALAIS CA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_how_the_kings_court_feasted_in_calais_ca" data-title="SIR NIGEL — HOW THE KING’S COURT FEASTED IN CALAIS CASTLE" data-chapter="HOW THE KINGS COURT FEASTED IN CALAIS CA" data-kind="story"></span>
 
 
 XVI. HOW THE KING’S COURT FEASTED IN CALAIS CASTLE
@@ -3759,7 +3759,7 @@ Beckoning to Chandos, Manny and a few of his chosen leaders, the King led them a
 
 
 
-<span class="atom-split" data-atom="story_18_the_spaniards_on_the_sea" data-title="SIR NIGEL — THE SPANIARDS ON THE SEA" data-chapter="Story 18 THE SPANIARDS ON THE SEA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_spaniards_on_the_sea" data-title="SIR NIGEL — THE SPANIARDS ON THE SEA" data-chapter="THE SPANIARDS ON THE SEA" data-kind="story"></span>
 
 
 XVII. THE SPANIARDS ON THE SEA
@@ -3875,7 +3875,7 @@ The Prince turned to the task of gathering his weary people together, and the Ba
 
 
 
-<span class="atom-split" data-atom="story_19_how_black_simon_claimed_forfeit_from_the" data-title="SIR NIGEL — HOW BLACK SIMON CLAIMED FORFEIT FROM THE KING OF SARK" data-chapter="Story 19 HOW BLACK SIMON CLAIMED FORFEIT FROM THE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_how_black_simon_claimed_forfeit_from_the" data-title="SIR NIGEL — HOW BLACK SIMON CLAIMED FORFEIT FROM THE KING OF SARK" data-chapter="HOW BLACK SIMON CLAIMED FORFEIT FROM THE" data-kind="story"></span>
 
 
 XVIII. HOW BLACK SIMON CLAIMED FORFEIT FROM THE KING OF SARK
@@ -3965,7 +3965,7 @@ Sir Robert turned away with a whistle. “‘Fore God!” said he, “it is in m
 
 
 
-<span class="atom-split" data-atom="story_20_how_a_squire_of_england_met_a_squire_of" data-title="SIR NIGEL — HOW A SQUIRE OF ENGLAND MET A SQUIRE OF FRANCE" data-chapter="Story 20 HOW A SQUIRE OF ENGLAND MET A SQUIRE OF" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_how_a_squire_of_england_met_a_squire_of" data-title="SIR NIGEL — HOW A SQUIRE OF ENGLAND MET A SQUIRE OF FRANCE" data-chapter="HOW A SQUIRE OF ENGLAND MET A SQUIRE OF" data-kind="story"></span>
 
 
 XIX. HOW A SQUIRE OF ENGLAND MET A SQUIRE OF FRANCE
@@ -4073,7 +4073,7 @@ As he spoke, the hindmost one, a strongly built, broad-shouldered man, looked ro
 
 
 
-<span class="atom-split" data-atom="story_21_how_the_english_attempted_the_castle_of" data-title="SIR NIGEL — HOW THE ENGLISH ATTEMPTED THE CASTLE OF LA BROHINIERE" data-chapter="Story 21 HOW THE ENGLISH ATTEMPTED THE CASTLE OF" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_how_the_english_attempted_the_castle_of" data-title="SIR NIGEL — HOW THE ENGLISH ATTEMPTED THE CASTLE OF LA BROHINIERE" data-chapter="HOW THE ENGLISH ATTEMPTED THE CASTLE OF" data-kind="story"></span>
 
 
 XX. HOW THE ENGLISH ATTEMPTED THE CASTLE OF LA BROHINIERE
@@ -4155,7 +4155,7 @@ With tender hands the Squire lowered his comrade’s head, but even as he did so
 
 
 
-<span class="atom-split" data-atom="story_22_how_the_second_messenger_went_to_cosford" data-title="SIR NIGEL — HOW THE SECOND MESSENGER WENT TO COSFORD" data-chapter="Story 22 HOW THE SECOND MESSENGER WENT TO COSFORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_how_the_second_messenger_went_to_cosford" data-title="SIR NIGEL — HOW THE SECOND MESSENGER WENT TO COSFORD" data-chapter="HOW THE SECOND MESSENGER WENT TO COSFORD" data-kind="story"></span>
 
 
 XXI. HOW THE SECOND MESSENGER WENT TO COSFORD
@@ -4313,7 +4313,7 @@ The Squire flushed with pleasure. “Do you send a messenger home to England, fa
 
 
 
-<span class="atom-split" data-atom="story_23_how_robert_of_beaumanoir_came_to_ploerme" data-title="SIR NIGEL — HOW ROBERT OF BEAUMANOIR CAME TO PLOERMEL" data-chapter="Story 23 HOW ROBERT OF BEAUMANOIR CAME TO PLOERME" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_how_robert_of_beaumanoir_came_to_ploerme" data-title="SIR NIGEL — HOW ROBERT OF BEAUMANOIR CAME TO PLOERMEL" data-chapter="HOW ROBERT OF BEAUMANOIR CAME TO PLOERME" data-kind="story"></span>
 
 
 XXII. HOW ROBERT OF BEAUMANOIR CAME TO PLOERMEL
@@ -4386,7 +4386,7 @@ But the gallant Breton shook his head. “It may indeed be the last night for ma
 
 
 
-<span class="atom-split" data-atom="story_24_how_thirty_of_josselin_encountered_thirt" data-title="SIR NIGEL — HOW THIRTY OF JOSSELIN ENCOUNTERED THIRTY OF PLOERMEL" data-chapter="Story 24 HOW THIRTY OF JOSSELIN ENCOUNTERED THIRT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_how_thirty_of_josselin_encountered_thirt" data-title="SIR NIGEL — HOW THIRTY OF JOSSELIN ENCOUNTERED THIRTY OF PLOERMEL" data-chapter="HOW THIRTY OF JOSSELIN ENCOUNTERED THIRT" data-kind="story"></span>
 
 
 XXIII. HOW THIRTY OF JOSSELIN ENCOUNTERED THIRTY OF PLOERMEL
@@ -4462,7 +4462,7 @@ But over at Josselin, yellow gorse-blossoms in their helmets, the victors were b
 
 
 
-<span class="atom-split" data-atom="story_25_how_nigel_was_called_to_his_master" data-title="SIR NIGEL — HOW NIGEL WAS CALLED TO HIS MASTER" data-chapter="Story 25 HOW NIGEL WAS CALLED TO HIS MASTER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_how_nigel_was_called_to_his_master" data-title="SIR NIGEL — HOW NIGEL WAS CALLED TO HIS MASTER" data-chapter="HOW NIGEL WAS CALLED TO HIS MASTER" data-kind="story"></span>
 
 
 XXIV. HOW NIGEL WAS CALLED TO HIS MASTER
@@ -4526,7 +4526,7 @@ With a kindling eye Chandos looked across at the proud ensigns of Normandy, or B
 
 
 
-<span class="atom-split" data-atom="story_26_how_the_king_of_france_held_counsel_at_m" data-title="SIR NIGEL — HOW THE KING OF FRANCE HELD COUNSEL AT MAUPERTUIS" data-chapter="Story 26 HOW THE KING OF FRANCE HELD COUNSEL AT M" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_how_the_king_of_france_held_counsel_at_m" data-title="SIR NIGEL — HOW THE KING OF FRANCE HELD COUNSEL AT MAUPERTUIS" data-chapter="HOW THE KING OF FRANCE HELD COUNSEL AT M" data-kind="story"></span>
 
 
 XXV. HOW THE KING OF FRANCE HELD COUNSEL AT MAUPERTUIS
@@ -4580,7 +4580,7 @@ All morning they had watched the gleam of the armed squadrons who were drawn up 
 
 
 
-<span class="atom-split" data-atom="story_27_how_nigel_found_his_third_deed" data-title="SIR NIGEL — HOW NIGEL FOUND HIS THIRD DEED" data-chapter="Story 27 HOW NIGEL FOUND HIS THIRD DEED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_how_nigel_found_his_third_deed" data-title="SIR NIGEL — HOW NIGEL FOUND HIS THIRD DEED" data-chapter="HOW NIGEL FOUND HIS THIRD DEED" data-kind="story"></span>
 
 
 XXVI. HOW NIGEL FOUND HIS THIRD DEED
@@ -4698,7 +4698,7 @@ At these words spoken before that circle of noble warriors Nigel’s heart gave 
 
 
 
-<span class="atom-split" data-atom="story_28_how_the_third_messenger_came_to_cosford" data-title="SIR NIGEL — HOW THE THIRD MESSENGER CAME TO COSFORD" data-chapter="Story 28 HOW THE THIRD MESSENGER CAME TO COSFORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_how_the_third_messenger_came_to_cosford" data-title="SIR NIGEL — HOW THE THIRD MESSENGER CAME TO COSFORD" data-chapter="HOW THE THIRD MESSENGER CAME TO COSFORD" data-kind="story"></span>
 
 
 XXVII. HOW THE THIRD MESSENGER CAME TO COSFORD

@@ -2395,7 +2395,7 @@ This novel was published in 1912 and tells the story of an expedition to South A
 
 
 
-<span class="atom-split" data-atom="story_01_adventure_i_the_adventure_of_the_mazarin" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE I. THE ADVENTURE OF THE MAZARIN STONE" data-chapter="Story 01 ADVENTURE I THE ADVENTURE OF THE MAZARIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_adventure_i_the_adventure_of_the_mazarin" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE I. THE ADVENTURE OF THE MAZARIN STONE" data-chapter="ADVENTURE I THE ADVENTURE OF THE MAZARIN" data-kind="story"></span>
 
 
 ADVENTURE I. THE ADVENTURE OF THE MAZARIN STONE
@@ -2660,7 +2660,7 @@ The old peer stared from the stone to the smiling face before him.
 
 
 
-<span class="atom-split" data-atom="story_02_adventure_ii_the_problem_of_thor_bridge" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE II. THE PROBLEM OF THOR BRIDGE" data-chapter="Story 02 ADVENTURE II THE PROBLEM OF THOR BRIDGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_adventure_ii_the_problem_of_thor_bridge" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE II. THE PROBLEM OF THOR BRIDGE" data-chapter="ADVENTURE II THE PROBLEM OF THOR BRIDGE" data-kind="story"></span>
 
 
 ADVENTURE II. THE PROBLEM OF THOR BRIDGE
@@ -2921,7 +2921,7 @@ Late that evening, as we sat together smoking our pipes in the village inn, Holm
 
 
 
-<span class="atom-split" data-atom="story_03_adventure_iii_the_adventure_of_the_creep" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE III. THE ADVENTURE OF THE CREEPING MAN" data-chapter="Story 03 ADVENTURE III THE ADVENTURE OF THE CREEP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_adventure_iii_the_adventure_of_the_creep" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE III. THE ADVENTURE OF THE CREEPING MAN" data-chapter="ADVENTURE III THE ADVENTURE OF THE CREEP" data-kind="story"></span>
 
 
 ADVENTURE III. THE ADVENTURE OF THE CREEPING MAN
@@ -3090,7 +3090,7 @@ Lowenstein! The name brought back to me the memory of some snippet from a newspa
 
 
 
-<span class="atom-split" data-atom="story_04_adventure_iv_the_adventure_of_the_sussex" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE IV. THE ADVENTURE OF THE SUSSEX VAMPIRE" data-chapter="Story 04 ADVENTURE IV THE ADVENTURE OF THE SUSSEX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_adventure_iv_the_adventure_of_the_sussex" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE IV. THE ADVENTURE OF THE SUSSEX VAMPIRE" data-chapter="ADVENTURE IV THE ADVENTURE OF THE SUSSEX" data-kind="story"></span>
 
 
 ADVENTURE IV. THE ADVENTURE OF THE SUSSEX VAMPIRE
@@ -3294,7 +3294,7 @@ SHERLOCK HOLMES.
 
 
 
-<span class="atom-split" data-atom="story_05_adventure_v_the_adventure_of_the_three_g" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE V. THE ADVENTURE OF THE THREE GARRIDEBS" data-chapter="Story 05 ADVENTURE V THE ADVENTURE OF THE THREE G" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_adventure_v_the_adventure_of_the_three_g" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE V. THE ADVENTURE OF THE THREE GARRIDEBS" data-chapter="ADVENTURE V THE ADVENTURE OF THE THREE G" data-kind="story"></span>
 
 
 ADVENTURE V. THE ADVENTURE OF THE THREE GARRIDEBS
@@ -3454,7 +3454,7 @@ So those were the facts about Killer Evans and his remarkable invention of the t
 
 
 
-<span class="atom-split" data-atom="story_06_adventure_vi_the_adventure_of_the_illust" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE VI. THE ADVENTURE OF THE ILLUSTRIOUS CLIENT" data-chapter="Story 06 ADVENTURE VI THE ADVENTURE OF THE ILLUST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_adventure_vi_the_adventure_of_the_illust" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE VI. THE ADVENTURE OF THE ILLUSTRIOUS CLIENT" data-chapter="ADVENTURE VI THE ADVENTURE OF THE ILLUST" data-kind="story"></span>
 
 
 ADVENTURE VI. THE ADVENTURE OF THE ILLUSTRIOUS CLIENT
@@ -3685,7 +3685,7 @@ Three days later appeared a paragraph in the Morning Post to say that the marria
 
 
 
-<span class="atom-split" data-atom="story_07_adventure_vii_the_adventure_of_the_blanc" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE VII. THE ADVENTURE OF THE BLANCHED SOLDIER" data-chapter="Story 07 ADVENTURE VII THE ADVENTURE OF THE BLANC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_adventure_vii_the_adventure_of_the_blanc" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE VII. THE ADVENTURE OF THE BLANCHED SOLDIER" data-chapter="ADVENTURE VII THE ADVENTURE OF THE BLANC" data-kind="story"></span>
 
 
 ADVENTURE VII. THE ADVENTURE OF THE BLANCHED SOLDIER
@@ -3862,7 +3862,7 @@ I was finishing this little analysis of the case when the door was opened and th
 
 
 
-<span class="atom-split" data-atom="story_08_adventure_viii_the_adventure_of_the_reti" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE VIII. THE ADVENTURE OF THE RETIRED COLOURMAN" data-chapter="Story 08 ADVENTURE VIII THE ADVENTURE OF THE RETI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_adventure_viii_the_adventure_of_the_reti" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE VIII. THE ADVENTURE OF THE RETIRED COLOURMAN" data-chapter="ADVENTURE VIII THE ADVENTURE OF THE RETI" data-kind="story"></span>
 
 
 ADVENTURE VIII. THE ADVENTURE OF THE RETIRED COLOURMAN
@@ -4022,7 +4022,7 @@ The remarkable acumen by which Inspector MacKinnon deduced from the smell of pai
 
 
 
-<span class="atom-split" data-atom="story_09_adventure_ix_the_adventure_of_the_three" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE IX. THE ADVENTURE OF THE THREE GABLES" data-chapter="Story 09 ADVENTURE IX THE ADVENTURE OF THE THREE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_adventure_ix_the_adventure_of_the_three" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE IX. THE ADVENTURE OF THE THREE GABLES" data-chapter="ADVENTURE IX THE ADVENTURE OF THE THREE" data-kind="story"></span>
 
 
 ADVENTURE IX. THE ADVENTURE OF THE THREE GABLES
@@ -4255,7 +4255,7 @@ The lady stared in amazement.
 
 
 
-<span class="atom-split" data-atom="story_10_adventure_x_the_adventure_of_the_lions_m" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE X. THE ADVENTURE OF THE LION’S MANE" data-chapter="Story 10 ADVENTURE X THE ADVENTURE OF THE LIONS M" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_adventure_x_the_adventure_of_the_lions_m" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE X. THE ADVENTURE OF THE LION’S MANE" data-chapter="ADVENTURE X THE ADVENTURE OF THE LIONS M" data-kind="story"></span>
 
 
 ADVENTURE X. THE ADVENTURE OF THE LION’S MANE
@@ -4439,7 +4439,7 @@ I was forced to shake my head. To accept such praise was to lower one’s own st
 
 
 
-<span class="atom-split" data-atom="story_11_adventure_xi_the_adventure_of_the_veiled" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE XI. THE ADVENTURE OF THE VEILED LODGER" data-chapter="Story 11 ADVENTURE XI THE ADVENTURE OF THE VEILED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_adventure_xi_the_adventure_of_the_veiled" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE XI. THE ADVENTURE OF THE VEILED LODGER" data-chapter="ADVENTURE XI THE ADVENTURE OF THE VEILED" data-kind="story"></span>
 
 
 ADVENTURE XI. THE ADVENTURE OF THE VEILED LODGER
@@ -4542,7 +4542,7 @@ Two days later, when I called upon my friend, he pointed with some pride to a sm
 
 
 
-<span class="atom-split" data-atom="story_12_adventure_xii_the_adventure_of_shoscombe--part_01" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE XII. THE ADVENTURE OF SHOSCOMBE OLD PLACE (part 1)" data-chapter="Story 12 ADVENTURE XII THE ADVENTURE OF SHOSCOMBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_adventure_xii_the_adventure_of_shoscombe--part_01" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE XII. THE ADVENTURE OF SHOSCOMBE OLD PLACE (part 1)" data-chapter="ADVENTURE XII THE ADVENTURE OF SHOSCOMBE" data-kind="excerpt"></span>
 
 
 ADVENTURE XII. THE ADVENTURE OF SHOSCOMBE OLD PLACE
@@ -4750,7 +4750,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_12_adventure_xii_the_adventure_of_shoscombe--part_02" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE XII. THE ADVENTURE OF SHOSCOMBE OLD PLACE (part 2)" data-chapter="Story 12 ADVENTURE XII THE ADVENTURE OF SHOSCOMBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_adventure_xii_the_adventure_of_shoscombe--part_02" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE XII. THE ADVENTURE OF SHOSCOMBE OLD PLACE (part 2)" data-chapter="ADVENTURE XII THE ADVENTURE OF SHOSCOMBE" data-kind="excerpt"></span>
 
 
 The Sherlock Holmes Stories

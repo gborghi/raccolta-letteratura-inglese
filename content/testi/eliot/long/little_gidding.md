@@ -287,7 +287,7 @@ And the [[Fire|fire]] and the [[Rose|rose]] are one.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Little Gidding — I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Little Gidding — I" data-chapter="part i" data-kind="section"></span>
 
 
 I  
@@ -350,7 +350,7 @@ Is England and nowhere. Never and always.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="Little Gidding — II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="Little Gidding — II" data-chapter="part II" data-kind="section"></span>
 
 
 II  
@@ -456,7 +456,7 @@ The day was breaking. In the disfigured street
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="Little Gidding — III" data-chapter="Section 03 part iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="Little Gidding — III" data-chapter="part III" data-kind="section"></span>
 
 
 III  
@@ -514,7 +514,7 @@ In the ground of our beseeching.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="Little Gidding — IV" data-chapter="Section 04 part iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="Little Gidding — IV" data-chapter="part IV" data-kind="section"></span>
 
 
 IV  
@@ -536,7 +536,7 @@ Which human power cannot remove.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="Little Gidding — V" data-chapter="Section 05 part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="Little Gidding — V" data-chapter="part v" data-kind="section"></span>
 
 
 V  

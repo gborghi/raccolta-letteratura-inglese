@@ -24,90 +24,90 @@ Charles Dickens
 CONTENTS
 
 
-     Book the First—THE CUP AND THE LIP
+Book the First—THE CUP AND THE LIP
 
-     1. ON THE LOOK OUT
-     2. THE MAN FROM SOMEWHERE
-     3. ANOTHER MAN
-     4. THE R. WILFER FAMILY
-     5. BOFFIN’S BOWER
-     6. CUT ADRIFT
-     7. MR WEGG LOOKS AFTER HIMSELF
-     8. MR BOFFIN IN CONSULTATION
-     9. MR AND MRS BOFFIN IN CONSULTATION
-     10. A [[Marriage|MARRIAGE]] CONTRACT
-     11. PODSNAPPERY
-     12. THE SWEAT OF AN HONEST MAN’S BROW
-     13. TRACKING THE BIRD OF PREY
-     14. THE BIRD OF PREY BROUGHT DOWN
-     15. TWO NEW SERVANTS
-     16. MINDERS AND RE-MINDERS
-     17. A DISMAL SWAMP
-
-
-     Book the Second—[[Birds|BIRDS]] OF A FEATHER
-
-     1. OF AN EDUCATIONAL CHARACTER
-     2. STILL EDUCATIONAL
-     3. A PIECE OF WORK
-     4. CUPID PROMPTED
-     5. MERCURY PROMPTING
-     6. A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
-     7. IN WHICH A FRIENDLY MOVE IS ORIGINATED
-     8. IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
-     9. IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
-     10. A SUCCESSOR
-     11. SOME AFFAIRS OF THE HEART
-     12. MORE [[Birds|BIRDS]] OF PREY
-     13. A SOLO AND A DUETT
-     14. STRONG OF PURPOSE
-     15. THE WHOLE CASE SO FAR
-     16. AN ANNIVERSARY OCCASION
+1. ON THE LOOK OUT
+2. THE MAN FROM SOMEWHERE
+3. ANOTHER MAN
+4. THE R. WILFER FAMILY
+5. BOFFIN’S BOWER
+6. CUT ADRIFT
+7. MR WEGG LOOKS AFTER HIMSELF
+8. MR BOFFIN IN CONSULTATION
+9. MR AND MRS BOFFIN IN CONSULTATION
+10. A [[Marriage|MARRIAGE]] CONTRACT
+11. PODSNAPPERY
+12. THE SWEAT OF AN HONEST MAN’S BROW
+13. TRACKING THE BIRD OF PREY
+14. THE BIRD OF PREY BROUGHT DOWN
+15. TWO NEW SERVANTS
+16. MINDERS AND RE-MINDERS
+17. A DISMAL SWAMP
 
 
-     Book the Third—A LONG LANE
+Book the Second—[[Birds|BIRDS]] OF A FEATHER
 
-     1. LODGERS IN QUEER STREET
-     2. A RESPECTED FRIEND IN A NEW ASPECT
-     3. THE SAME RESPECTED FRIEND IN MORE ASPECTS THAN ONE
-     4. A HAPPY RETURN OF THE DAY
-     5. THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
-     6. THE GOLDEN DUSTMAN FALLS INTO WORSE COMPANY
-     7. THE FRIENDLY MOVE TAKES UP A STRONG POSITION
-     8. THE END OF A LONG [[Journey|JOURNEY]]
-     9. SOMEBODY BECOMES THE SUBJECT OF A PREDICTION
-     10. SCOUTS OUT
-     11. IN THE DARK
-     12. MEANING MISCHIEF
-     13. GIVE A DOG A BAD NAME, AND HANG HIM
-     14. MR WEGG PREPARES A GRINDSTONE FOR MR BOFFIN’S NOSE
-     15. THE GOLDEN DUSTMAN AT HIS WORST
-     16. THE FEAST OF THE THREE HOBGOBLINS
-     17. A SOCIAL [[Chorus|CHORUS]]
-
-
-     Book the Fourth—A TURNING
-
-     1. SETTING TRAPS
-     2. THE GOLDEN DUSTMAN RISES A LITTLE
-     3. THE GOLDEN DUSTMAN SINKS AGAIN
-     4. A RUNAWAY MATCH
-     5. CONCERNING THE MENDICANT’S BRIDE
-     6. A CRY FOR HELP
-     7. BETTER TO BE ABEL THAN [[Cain|CAIN]]
-     8. A FEW GRAINS OF PEPPER
-     9. TWO PLACES VACATED
-     10. THE DOLLS’ DRESSMAKER DISCOVERS A WORD
-     11. EFFECT IS GIVEN TO THE DOLLS’ DRESSMAKER’S DISCOVERY
-     12. THE PASSING [[Shadow|SHADOW]]
-     13. SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
-     14. CHECKMATE TO THE FRIENDLY MOVE
-     15. WHAT WAS CAUGHT IN THE TRAPS THAT WERE SET
-     16. PERSONS AND THINGS IN GENERAL
-     17. THE VOICE OF SOCIETY
+1. OF AN EDUCATIONAL CHARACTER
+2. STILL EDUCATIONAL
+3. A PIECE OF WORK
+4. CUPID PROMPTED
+5. MERCURY PROMPTING
+6. A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
+7. IN WHICH A FRIENDLY MOVE IS ORIGINATED
+8. IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
+9. IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
+10. A SUCCESSOR
+11. SOME AFFAIRS OF THE HEART
+12. MORE [[Birds|BIRDS]] OF PREY
+13. A SOLO AND A DUETT
+14. STRONG OF PURPOSE
+15. THE WHOLE CASE SO FAR
+16. AN ANNIVERSARY OCCASION
 
 
-     POSTSCRIPT, IN LIEU OF PREFACE
+Book the Third—A LONG LANE
+
+1. LODGERS IN QUEER STREET
+2. A RESPECTED FRIEND IN A NEW ASPECT
+3. THE SAME RESPECTED FRIEND IN MORE ASPECTS THAN ONE
+4. A HAPPY RETURN OF THE DAY
+5. THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
+6. THE GOLDEN DUSTMAN FALLS INTO WORSE COMPANY
+7. THE FRIENDLY MOVE TAKES UP A STRONG POSITION
+8. THE END OF A LONG [[Journey|JOURNEY]]
+9. SOMEBODY BECOMES THE SUBJECT OF A PREDICTION
+10. SCOUTS OUT
+11. IN THE DARK
+12. MEANING MISCHIEF
+13. GIVE A DOG A BAD NAME, AND HANG HIM
+14. MR WEGG PREPARES A GRINDSTONE FOR MR BOFFIN’S NOSE
+15. THE GOLDEN DUSTMAN AT HIS WORST
+16. THE FEAST OF THE THREE HOBGOBLINS
+17. A SOCIAL [[Chorus|CHORUS]]
+
+
+Book the Fourth—A TURNING
+
+1. SETTING TRAPS
+2. THE GOLDEN DUSTMAN RISES A LITTLE
+3. THE GOLDEN DUSTMAN SINKS AGAIN
+4. A RUNAWAY MATCH
+5. CONCERNING THE MENDICANT’S BRIDE
+6. A CRY FOR HELP
+7. BETTER TO BE ABEL THAN [[Cain|CAIN]]
+8. A FEW GRAINS OF PEPPER
+9. TWO PLACES VACATED
+10. THE DOLLS’ DRESSMAKER DISCOVERS A WORD
+11. EFFECT IS GIVEN TO THE DOLLS’ DRESSMAKER’S DISCOVERY
+12. THE PASSING [[Shadow|SHADOW]]
+13. SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
+14. CHECKMATE TO THE FRIENDLY MOVE
+15. WHAT WAS CAUGHT IN THE TRAPS THAT WERE SET
+16. PERSONS AND THINGS IN GENERAL
+17. THE VOICE OF SOCIETY
+
+
+POSTSCRIPT, IN LIEU OF PREFACE
 
 
 
@@ -1597,8 +1597,8 @@ drug-markets, as the beginning of a social [[Chorus|chorus]], his leading part i
 the execution of which had led this gentleman to the Temple of Fame, and
 of which the whole expressive burden ran:
 
-     ‘Rumty iddity, row dow dow,
-     Sing toodlely, teedlely, bow wow wow.’
+‘Rumty iddity, row dow dow,
+Sing toodlely, teedlely, bow wow wow.’
 
 Thus he was constantly addressed, even in minor notes on business, as
 ‘Dear Rumty’; in answer to which, he sedately signed himself, ‘Yours
@@ -2118,13 +2118,13 @@ clean.
 On the front of his sale-board hung a little placard, like a
 kettle-holder, bearing the [[Inscription|inscription]] in his own small text:
 
-     Errands gone
-     On with fi
-     Delity By
-     Ladies and Gentlemen
-     I remain
-     Your humble Servt.
-     [[Silas Wegg]].
+Errands gone
+On with fi
+Delity By
+Ladies and Gentlemen
+I remain
+Your humble Servt.
+[[Silas Wegg]].
 
 He had not only settled it with himself in course of [[Time|time]], that he
 was errand-goer by appointment to the [[house]] at the corner (though he
@@ -2370,7 +2370,7 @@ on your spectacles and do it!’ cried Mr Boffin. ‘I see you at it!’
 ‘we’ll say literary, then.’
 
 ‘“A literary man—WITH a wooden leg—and all Print is open to him!”
- That’s what I thought to myself, that morning,’ pursued Mr Boffin,
+That’s what I thought to myself, that morning,’ pursued Mr Boffin,
 leaning forward to describe, uncramped by the clotheshorse, as large an
 arc as his right arm could make; ‘“all Print is open to him!” And it is,
 ain’t it?’
@@ -2516,14 +2516,14 @@ since I was not so high as your stick. Ever since my eldest brother left
 our cottage to enlist into the army. On which occasion, as the ballad
 that was made about it describes:
 
-     ‘Beside that cottage door, Mr Boffin,
-             A girl was on her knees;
-     She held aloft a snowy scarf, Sir,
-             Which (my eldest brother noticed) fluttered in the breeze.
-     She breathed a [[prayer]] for him, Mr Boffin;
-             A [[prayer]] he coold not hear.
-     And my eldest brother lean’d upon his [[Sword|sword]], Mr Boffin,
-              And wiped away a tear.’
+‘Beside that cottage door, Mr Boffin,
+A girl was on her knees;
+She held aloft a snowy scarf, Sir,
+Which (my eldest brother noticed) fluttered in the breeze.
+She breathed a [[prayer]] for him, Mr Boffin;
+A [[prayer]] he coold not hear.
+And my eldest brother lean’d upon his [[Sword|sword]], Mr Boffin,
+And wiped away a tear.’
 
 Much impressed by this family circumstance, and also by the friendly
 disposition of Mr Wegg, as exemplified in his so soon dropping into
@@ -5196,7 +5196,7 @@ notice of by strangers.’
 ‘You ARE a [[Child|child]].’
 
 ‘I’m not a [[Child|child]], and I won’t be taken notice of. “Bring your sister,”
- indeed!’
+indeed!’
 
 ‘[[Lavinia]]!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
 presence the absurd suspicion that any strangers—I care not what their
@@ -7199,7 +7199,7 @@ to Roger.’
 
 ‘’Scuse ME, Lawyer Lightwood, it’s a part of the [[Truth|truth]], and as such I
 do mind it, and I must mind it and I will mind it. “Rogue Riderhood,”
- he says, “words passed betwixt us on the [[River|river]] tonight.” Which they had;
+he says, “words passed betwixt us on the [[River|river]] tonight.” Which they had;
 ask his daughter! “I threatened you,” he says, “to chop you over the
 fingers with my boat’s stretcher, or take a aim at your brains with my
 boathook. I did so on accounts of your looking too hard at what I had in
@@ -7237,7 +7237,7 @@ I wouldn’t have knowed more, no, not for the sum as I expect to earn
 from you by the sweat of my brow, twice told! I had put an end to the
 pardnership. I had cut the connexion. I couldn’t undo what was done; and
 when he begs and prays, “Old pardner, on my knees, don’t split upon me!”
- I only makes answer “Never speak another word to Roger Riderhood, nor
+I only makes answer “Never speak another word to Roger Riderhood, nor
 look him in the face!” and I shuns that man.’
 
 Having given these words a swing to make them mount the higher and go
@@ -8546,7 +8546,7 @@ connected—in which he has an interest—’
 
 ‘Ah!’ said Mr Boffin. ‘Perhaps. Anyhow, he named to me that the [[house]]
 had a board up, “This Eminently Aristocratic Mansion to be let or sold.”
- Me and Mrs Boffin went to look at it, and finding it beyond a [[Doubt|doubt]]
+Me and Mrs Boffin went to look at it, and finding it beyond a [[Doubt|doubt]]
 Eminently Aristocratic (though a trifle high and dull, which after all
 may be part of the same thing) took it. My literary man was so friendly
 as to drop into a charming piece of poetry on that occasion, in which he
@@ -8555,8 +8555,8 @@ dear?’
 
 Mrs Boffin replied:
 
-     ‘“The gay, the gay and festive scene,
-     The halls, the halls of dazzling light.”’
+‘“The gay, the gay and festive scene,
+The halls, the halls of dazzling light.”’
 
 ‘That’s it! And it was made neater by there really being two halls
 in the [[house]], a front ’un and a back ’un, besides the servants’.
@@ -8569,16 +8569,16 @@ repeat it, my dear?’
 Mrs Boffin complied, by reciting the verses in which this obliging offer
 had been made, exactly as she had received them.
 
-     ‘“I’ll tell thee how the maiden wept, Mrs Boffin,
-     When her true [[Love|love]] was slain ma’am,
-     And how her broken spirit slept, Mrs Boffin,
-     And never woke again ma’am.
-     I’ll tell thee (if agreeable to Mr Boffin) how the steed drew
-     nigh,
-     And left his lord afar;
-     And if my tale (which I [[Hope|hope]] Mr Boffin might excuse) should
-     make you sigh,
-     I’ll strike the light guitar.”’
+‘“I’ll tell thee how the maiden wept, Mrs Boffin,
+When her true [[Love|love]] was slain ma’am,
+And how her broken spirit slept, Mrs Boffin,
+And never woke again ma’am.
+I’ll tell thee (if agreeable to Mr Boffin) how the steed drew
+nigh,
+And left his lord afar;
+And if my tale (which I [[Hope|hope]] Mr Boffin might excuse) should
+make you sigh,
+I’ll strike the light guitar.”’
 
 ‘Correct to the letter!’ said Mr Boffin. ‘And I consider that the poetry
 brings us both in, in a beautiful manner.’
@@ -8820,10 +8820,10 @@ Would Stepney Fields be considered intrusive? If not remote enough, I
 can go remoter. In the words of the poet’s [[Song|song]], which I do not quite
 remember:
 
-     Thrown on the wide world, doom’d to wander and roam,
-     Bereft of my parents, bereft of a [[Home|home]],
-     A stranger to something and what’s his name joy,
-     Behold little [[Edmund]] the poor Peasant boy.
+Thrown on the wide world, doom’d to wander and roam,
+Bereft of my parents, bereft of a [[Home|home]],
+A stranger to something and what’s his name joy,
+Behold little [[Edmund]] the poor Peasant boy.
 
 —And equally,’ said Mr Wegg, repairing the want of direct application
 in the last line, ‘behold myself on a similar footing!’
@@ -8857,13 +8857,13 @@ you are; you are.’
 pair of shoes. Now, my independence as a man is again elevated. Now, I
 no longer
 
-     Weep for the hour,
-     When to Boffinses bower,
-     The Lord of the valley with offers came;
-     Neither does the [[Moon|moon]] hide her light
-     From the heavens to-[[Night|night]],
-     And weep behind her clouds o’er any individual in the present
-     Company’s shame.
+Weep for the hour,
+When to Boffinses bower,
+The Lord of the valley with offers came;
+Neither does the [[Moon|moon]] hide her light
+From the heavens to-[[Night|night]],
+And weep behind her clouds o’er any individual in the present
+Company’s shame.
 
 —Please to proceed, Mr Boffin.’
 
@@ -8900,10 +8900,10 @@ for his merits from his occupation as a waterman to a situation under
 then an infant, but so deep was their impression on me, that I committed
 them to [[Memory|memory]]) were:
 
-     Then farewell, my trim-built wherry,
-     Oars and coat and badge farewell!
-     Never more at Chelsea Ferry,
-     Shall your Thomas take a spell!
+Then farewell, my trim-built wherry,
+Oars and coat and badge farewell!
+Never more at Chelsea Ferry,
+Shall your Thomas take a spell!
 
 —My father got over it, Mr Boffin, and so shall I.’
 
@@ -10547,9 +10547,9 @@ Bradley seemed to think so.
 occupation, though the twilight was falling fast. ‘I believe you she
 does! But go on with your chat, one and all:
 
-     “You one two three,
-     My com-pa-nie,
-     And don’t mind me;”
+“You one two three,
+My com-pa-nie,
+And don’t mind me;”
 
 —pointing this impromptu rhyme with three points of her thin
 fore-finger.
@@ -10997,10 +10997,10 @@ What a large If! Ain’t it?’
 Miss Wren suddenly broke off, screwed up her eyes and her chin, and
 looked prodigiously knowing. ‘Aha!
 
-     Who comes here?
-     A Grenadier.
-     What does he want?
-     A pot of beer.
+Who comes here?
+A Grenadier.
+What does he want?
+A pot of beer.
 
 And nothing else in the world, my dear!’
 
@@ -11261,7 +11261,7 @@ who it was, they answered, “Come and play with us!” When I said “I never
 play! I can’t play!” they swept about me and took me up, and made me
 light. Then it was all delicious ease and rest till they laid me
 down, and said, all together, “Have patience, and we will come again.”
- Whenever they came back, I used to know they were coming before I saw
+Whenever they came back, I used to know they were coming before I saw
 the long bright rows, by hearing them ask, all together a long way off,
 “Who is this in [[Pain|pain]]! Who is this in [[Pain|pain]]!” And I used to cry out, “O my
 blessed children, it’s poor me. Have pity on me. Take me up and make me
@@ -13306,13 +13306,13 @@ business of the eminent solicitor, but in another dismal set of
 chambers facing it on the same second-floor; on whose dungeon-like black
 outer-door appeared the legend:
 
-		PRIVATE
+PRIVATE
 
-		MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
+MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
 
-		MR MORTIMER LIGHTWOOD
+MR MORTIMER LIGHTWOOD
 
-		(Mr Lightwood’s Offices opposite.)
+(Mr Lightwood’s Offices opposite.)
 
 Appearances indicated that this establishment was a very recent
 institution. The white letters of the [[Inscription|inscription]] were extremely white
@@ -13896,11 +13896,11 @@ of all I don’t know! How does that little old [[Song|song]] go, which, under
 pretence of being cheerful, is by far the most lugubrious I ever heard
 in my life?
 
-     “Away with [[Melancholy|melancholy]],
-     Nor doleful changes ring
-     On life and human folly,
-     But merrily merrily sing
-                              Fal la!”
+“Away with [[Melancholy|melancholy]],
+Nor doleful changes ring
+On life and human folly,
+But merrily merrily sing
+Fal la!”
 
 Don’t let us sing Fal la, my dear Mortimer (which is comparatively
 unmeaning), but let us sing that we give up guessing the [[Riddle|riddle]]
@@ -14239,10 +14239,10 @@ chiromancy, and holding his own up ready for smiting it when the [[Time|time]]
 should come; ‘as one that the poet might have had his eye on, in writing
 the national naval words:
 
-     Helm a-weather, now lay her close,
-            Yard arm and yard arm she lies;
-     Again, cried I, [[Mr Venus]], give her t’other dose,
-            Man shrouds and grapple, sir, or she flies!
+Helm a-weather, now lay her close,
+Yard arm and yard arm she lies;
+Again, cried I, [[Mr Venus]], give her t’other dose,
+Man shrouds and grapple, sir, or she flies!
 
 —that is to say, regarded in the light of true British Oak, for such
 you are—explain, [[Mr Venus]], the expression “papers”!’
@@ -17443,7 +17443,7 @@ I. There was no such thing as I, within my knowledge.
 then a great noise and a sparkling and crackling as of fires, that the
 consciousness came upon me, “This is [[John Harmon]] drowning! [[John Harmon]],
 struggle for your life. [[John Harmon]], call on Heaven and save yourself!”
- I think I cried it out aloud in a great agony, and then a heavy horrid
+I think I cried it out aloud in a great agony, and then a heavy horrid
 unintelligible something vanished, and it was I who was struggling there
 [[Alone|alone]] in the [[Water|water]].
 
@@ -18972,7 +18972,7 @@ marrying your sister would be agreeable to you, Hexam, and useful to
 you?” I say, “There’s nothing in the world, Mr Headstone, that I could
 be better pleased with.” Mr Headstone says, “Then I may rely upon your
 intimate knowledge of me for your good word with your sister, Hexam?”
- And I say, “Certainly, Mr Headstone, and naturally I have a good deal of
+And I say, “Certainly, Mr Headstone, and naturally I have a good deal of
 influence with her.” So I have; haven’t I, Liz?’
 
 ‘Yes, Charley.’
@@ -19439,12 +19439,12 @@ fallen into comfortable attitudes. It’s like—’
 
 ‘It’s like,’ impatiently interrupts Eugene, ‘the children’s narrative:
 
-     “I’ll tell you a story
-     Of Jack a Manory,
-     And now my story’s begun;
-     I’ll tell you another
-     Of Jack and his brother,
-     And now my story is done.”
+“I’ll tell you a story
+Of Jack a Manory,
+And now my story’s begun;
+I’ll tell you another
+Of Jack and his brother,
+And now my story is done.”
 
 —Get on, and get it over!’
 
@@ -20602,11 +20602,11 @@ Miss Abbey, with manifest tokens of astonishment, took the diminutive
 document, and found it to run concisely thus:—
 
 
-		MISS [[Jenny Wren|JENNY WREN]]
+MISS [[Jenny Wren|JENNY WREN]]
 
-	       DOLLS’ DRESSMAKER.
+DOLLS’ DRESSMAKER.
 
-	Dolls attended at their own residences.
+Dolls attended at their own residences.
 
 
 ‘Lud!’ exclaimed Miss Potterson, staring. And dropped the card.
@@ -22462,14 +22462,14 @@ In return, [[Mr Venus]] gave him a rather dry good evening.
 ‘Walk in, brother,’ said Silas, clapping him on the shoulder, ‘and take
 your seat in my chimley corner; for what says the ballad?
 
-     “No malice to dread, sir,
-     And no falsehood to [[Fear|fear]],
-     But [[Truth|truth]] to delight me, [[Mr Venus]],
-     And I forgot what to cheer.
-     Li toddle de om dee.
-     And something to guide,
-     My ain fireside, sir,
-     My ain fireside.”’
+“No malice to dread, sir,
+And no falsehood to [[Fear|fear]],
+But [[Truth|truth]] to delight me, [[Mr Venus]],
+And I forgot what to cheer.
+Li toddle de om dee.
+And something to guide,
+My ain fireside, sir,
+My ain fireside.”’
 
 With this quotation (depending for its neatness rather on the spirit
 than the words), Mr Wegg conducted his guest to his hearth.
@@ -22490,11 +22490,11 @@ friendly move. And arterwards, crushing a flowing wine-cup—which I
 allude to brewing rum and [[Water|water]]—we’ll pledge one another. For what says
 the Poet?
 
-     “And you needn’t, [[Mr Venus]], be your black bottle,
-     For surely I’ll be mine,
-     And we’ll take a glass with a slice of lemon in it to which
-     you’re partial,
-     For auld lang syne.”’
+“And you needn’t, [[Mr Venus]], be your black bottle,
+For surely I’ll be mine,
+And we’ll take a glass with a slice of lemon in it to which
+you’re partial,
+For auld lang syne.”’
 
 This flow of quotation and hospitality in Wegg indicated his observation
 of some little querulousness on the part of [[Venus]].
@@ -22517,8 +22517,8 @@ coal-ashes warious, and nothing comes of it. I think I must give up.’
 
 ‘No, sir!’ remonstrated Wegg, enthusiastically. ‘No, Sir!
 
-     “Charge, Chester, charge,
-     On, [[Mr Venus]], on!”
+“Charge, Chester, charge,
+On, [[Mr Venus]], on!”
 
 Never say die, sir! A man of your mark!’
 
@@ -23251,13 +23251,13 @@ voice. To proceed. On a certain day, sir, I happened to be walking in
 the yard—taking my lonely round—for in the words of a friend of my own
 family, the author of All’s [[Well]] arranged as a duett:
 
-     “Deserted, as you will remember, [[Mr Venus]], by the waning
-     [[Moon|moon]],
-     When [[Stars|stars]], it will occur to you before I mention it, proclaim
-     [[Night|night]]’s cheerless [[Noon|noon]],
-     On tower, fort, or tented ground,
-     The sentry walks his lonely round,
-     The sentry walks;”
+“Deserted, as you will remember, [[Mr Venus]], by the waning
+[[Moon|moon]],
+When [[Stars|stars]], it will occur to you before I mention it, proclaim
+[[Night|night]]’s cheerless [[Noon|noon]],
+On tower, fort, or tented ground,
+The sentry walks his lonely round,
+The sentry walks;”
 
 —under those circumstances, sir, I happened to be walking in the yard
 early one afternoon, and happened to have an iron rod in my hand, with
@@ -23536,12 +23536,12 @@ had an unlimited capacity of assimilating the flagrant article! There
 you sit, sir, in the midst of your works, looking as if you’d been
 called upon for [[Home]], Sweet [[Home]], and was obleeging the company!
 
-     “A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
-     O give you your lowly Preparations again,
-     The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
-     your call,
-     Give you these with the peace of mind dearer than all.
-     [[Home]], [[Home]], [[Home]], sweet [[Home]]!”
+“A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
+O give you your lowly Preparations again,
+The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
+your call,
+Give you these with the peace of mind dearer than all.
+[[Home]], [[Home]], [[Home]], sweet [[Home]]!”
 
 —Be it ever,’ added Mr Wegg in prose as he glanced about the shop,
 ‘ever so ghastly, all things considered there’s no place like it.’
@@ -27391,8 +27391,8 @@ partner? Is that about it?’
 it jintly with yourself. Or, in similar words to some that was set to
 music some [[Time|time]] back:
 
-     “I wish you to see it with your eyes,
-     And I will pledge with mine.”’
+“I wish you to see it with your eyes,
+And I will pledge with mine.”’
 
 Turning his back and turning a key, [[Mr Venus]] produced the document,
 holding on by his usual corner. Mr Wegg, holding on by the opposite
@@ -27513,10 +27513,10 @@ Begone, dull Care! ’tis gone, sir. I’ve looked in upon you, and empire
 resumes her sway. For, as the [[Song|song]] says—subject to your correction,
 sir—
 
-     “When the heart of a man is depressed with cares,
-     The mist is dispelled if [[Venus]] appears.
-     Like the notes of a fiddle, you sweetly, sir, sweetly,
-     Raises our spirits and charms our ears.”
+“When the heart of a man is depressed with cares,
+The mist is dispelled if [[Venus]] appears.
+Like the notes of a fiddle, you sweetly, sir, sweetly,
+Raises our spirits and charms our ears.”
 
 Good-[[Night|night]], sir.’
 
@@ -28053,7 +28053,7 @@ property, and about this young lady, and her share in poor young John’s
 story, and he puts this and that together, and he says to himself, “I’ll
 get in with Boffin, and I’ll get in with this young lady, and I’ll work
 ’em both at the same [[Time|time]], and I’ll bring my pigs to market somewhere.”
- I hear him say it, bless you! I look at him, now, and I see him say it!’
+I hear him say it, bless you! I look at him, now, and I see him say it!’
 
 Mr Boffin pointed at the culprit, as it were in the act, and hugged
 himself in his great penetration.
@@ -30788,11 +30788,11 @@ my wig if I wouldn’t have come round to you tomorrow. Now! I tell you!’
 ‘Oh no, Mr Boffin,’ was the ironical answer. ‘Nothing wrong! What should
 be wrong in Boffinses Bower! Step in, sir.’
 
-     ‘“If you’ll come to the Bower I’ve shaded for you,
-     Your bed shan’t be roses all spangled with doo:
-     Will you, will you, will you, will you, come to the Bower?
-     Oh, won’t you, won’t you, won’t you, won’t you, come to the
-          Bower?”’
+‘“If you’ll come to the Bower I’ve shaded for you,
+Your bed shan’t be roses all spangled with doo:
+Will you, will you, will you, will you, come to the Bower?
+Oh, won’t you, won’t you, won’t you, won’t you, come to the
+Bower?”’
 
 An unholy glare of contradiction and offence shone in the eyes of Mr
 Wegg, as he turned the key on his patron, after ushering him into the
@@ -31168,9 +31168,9 @@ Aunt Jane, and Uncle Parker, before YOU two?’
 thickness of speech, in consequence of the Gum-Ticklers having tickled
 it. ‘I’ve got him under inspection, and I’ll inspect him.
 
-     “Along the line the signal ran,
-     England expects as this present man
-     Will keep Boffin to his duty.”
+“Along the line the signal ran,
+England expects as this present man
+Will keep Boffin to his duty.”
 
 —Boffin, I’ll see you [[Home|home]].’
 
@@ -33869,7 +33869,7 @@ it out. My poor Lizzie, have they both designs against you, either way?
 Can’t make it out. Is Little Eyes Pubsey, and the wolf Co? Can’t make it
 out. Pubsey true to Co, and Co to Pubsey? Pubsey false to Co, and Co to
 Pubsey? Can’t make it out. What said Little Eyes? “Now, candidly?”
- Ah! However the cat jumps, HE’S a liar. That’s all I can make out at
+Ah! However the cat jumps, HE’S a liar. That’s all I can make out at
 present; but you may go to bed in the Albany, Piccadilly, with THAT for
 your pillow, young man!’ Thereupon, the little dressmaker again dabbed
 out his eyes separately, and making a loop in the air of her thread and
@@ -36403,7 +36403,7 @@ for you when you was slighted, if she was to show herself of a generous
 mind when you was oppressed, if she was to be truest to you when you was
 poorest and friendliest, and all this against her own seeming interest,
 how would that do?” “Do?” says John, “it would raise me to the skies.”
- “Then,” says my Noddy, “make your preparations for the ascent, John, it
+“Then,” says my Noddy, “make your preparations for the ascent, John, it
 being my firm belief that up you go!”’
 
 Bella caught Mr Boffin’s twinkling eye for half an instant; but he got
@@ -36449,7 +36449,7 @@ yet. I must wait a little longer.” Then when baby was born, he says,
 yet. I must wait a little longer.” And so he goes on and on, till I says
 outright, “Now, John, if you don’t fix a [[Time|time]] for setting her up in her
 own [[house]] and [[Home|home]], and letting us walk out of it, I’ll turn Informer.”
- Then he says he’ll only wait to triumph beyond what we ever thought
+Then he says he’ll only wait to triumph beyond what we ever thought
 possible, and to show her to us better than even we ever supposed; and
 he says, “She shall see me under suspicion of having murdered myself,
 and YOU shall see how trusting and how true she’ll be.” [[Well]]! Noddy and
@@ -36505,7 +36505,7 @@ showed her, in yourself, the most detestable sides of wealth, saying in
 your own mind, “This shallow creature would never work the [[Truth|truth]] out of
 her own weak [[Soul|soul]], if she had a hundred years to do it in; but a glaring
 instance kept before her may open even her eyes and set her thinking.”
- That was what you said to yourself, was it, sir?’
+That was what you said to yourself, was it, sir?’
 
 ‘I never said anything of the sort,’ Mr Boffin declared in a state of
 the highest enjoyment.
@@ -38672,108 +38672,108 @@ September 2nd, 1865.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_cup_and_the_lip" data-title="Our Mutual Friend — Book 1: THE CUP AND THE LIP" data-chapter="Chapter 01 THE CUP AND THE LIP" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_cup_and_the_lip" data-title="Our Mutual Friend — Book 1: THE CUP AND THE LIP" data-chapter="THE CUP AND THE LIP" data-kind="chapter"></span>
 
 
-     Book the First—THE CUP AND THE LIP
+Book the First—THE CUP AND THE LIP
 
-     1. ON THE LOOK OUT
-     2. THE MAN FROM SOMEWHERE
-     3. ANOTHER MAN
-     4. THE R. WILFER FAMILY
-     5. BOFFIN’S BOWER
-     6. CUT ADRIFT
-     7. MR WEGG LOOKS AFTER HIMSELF
-     8. MR BOFFIN IN CONSULTATION
-     9. MR AND MRS BOFFIN IN CONSULTATION
-     10. A [[Marriage|MARRIAGE]] CONTRACT
-     11. PODSNAPPERY
-     12. THE SWEAT OF AN HONEST MAN’S BROW
-     13. TRACKING THE BIRD OF PREY
-     14. THE BIRD OF PREY BROUGHT DOWN
-     15. TWO NEW SERVANTS
-     16. MINDERS AND RE-MINDERS
-     17. A DISMAL SWAMP
-
-
-
-
-<span class="atom-split" data-atom="chapter_02_birds_birds_of_a_feather" data-title="Our Mutual Friend — Book 2: BIRDS OF A FEATHER" data-chapter="Chapter 02 Birds BIRDS OF A FEATHER" data-kind="chapter"></span>
-
-
-     Book the Second—[[Birds|BIRDS]] OF A FEATHER
-
-     1. OF AN EDUCATIONAL CHARACTER
-     2. STILL EDUCATIONAL
-     3. A PIECE OF WORK
-     4. CUPID PROMPTED
-     5. MERCURY PROMPTING
-     6. A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
-     7. IN WHICH A FRIENDLY MOVE IS ORIGINATED
-     8. IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
-     9. IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
-     10. A SUCCESSOR
-     11. SOME AFFAIRS OF THE HEART
-     12. MORE [[Birds|BIRDS]] OF PREY
-     13. A SOLO AND A DUETT
-     14. STRONG OF PURPOSE
-     15. THE WHOLE CASE SO FAR
-     16. AN ANNIVERSARY OCCASION
+1. ON THE LOOK OUT
+2. THE MAN FROM SOMEWHERE
+3. ANOTHER MAN
+4. THE R. WILFER FAMILY
+5. BOFFIN’S BOWER
+6. CUT ADRIFT
+7. MR WEGG LOOKS AFTER HIMSELF
+8. MR BOFFIN IN CONSULTATION
+9. MR AND MRS BOFFIN IN CONSULTATION
+10. A [[Marriage|MARRIAGE]] CONTRACT
+11. PODSNAPPERY
+12. THE SWEAT OF AN HONEST MAN’S BROW
+13. TRACKING THE BIRD OF PREY
+14. THE BIRD OF PREY BROUGHT DOWN
+15. TWO NEW SERVANTS
+16. MINDERS AND RE-MINDERS
+17. A DISMAL SWAMP
 
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_long_lane" data-title="Our Mutual Friend — Book 3: A LONG LANE" data-chapter="Chapter 03 A LONG LANE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_birds_birds_of_a_feather" data-title="Our Mutual Friend — Book 2: BIRDS OF A FEATHER" data-chapter="Birds BIRDS OF A FEATHER" data-kind="chapter"></span>
 
 
-     Book the Third—A LONG LANE
+Book the Second—[[Birds|BIRDS]] OF A FEATHER
 
-     1. LODGERS IN QUEER STREET
-     2. A RESPECTED FRIEND IN A NEW ASPECT
-     3. THE SAME RESPECTED FRIEND IN MORE ASPECTS THAN ONE
-     4. A HAPPY RETURN OF THE DAY
-     5. THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
-     6. THE GOLDEN DUSTMAN FALLS INTO WORSE COMPANY
-     7. THE FRIENDLY MOVE TAKES UP A STRONG POSITION
-     8. THE END OF A LONG [[Journey|JOURNEY]]
-     9. SOMEBODY BECOMES THE SUBJECT OF A PREDICTION
-     10. SCOUTS OUT
-     11. IN THE DARK
-     12. MEANING MISCHIEF
-     13. GIVE A DOG A BAD NAME, AND HANG HIM
-     14. MR WEGG PREPARES A GRINDSTONE FOR MR BOFFIN’S NOSE
-     15. THE GOLDEN DUSTMAN AT HIS WORST
-     16. THE FEAST OF THE THREE HOBGOBLINS
-     17. A SOCIAL [[Chorus|CHORUS]]
-
+1. OF AN EDUCATIONAL CHARACTER
+2. STILL EDUCATIONAL
+3. A PIECE OF WORK
+4. CUPID PROMPTED
+5. MERCURY PROMPTING
+6. A [[Riddle|RIDDLE]] WITHOUT AN ANSWER
+7. IN WHICH A FRIENDLY MOVE IS ORIGINATED
+8. IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
+9. IN WHICH THE [[Orphan|ORPHAN]] MAKES HIS WILL
+10. A SUCCESSOR
+11. SOME AFFAIRS OF THE HEART
+12. MORE [[Birds|BIRDS]] OF PREY
+13. A SOLO AND A DUETT
+14. STRONG OF PURPOSE
+15. THE WHOLE CASE SO FAR
+16. AN ANNIVERSARY OCCASION
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_turning" data-title="Our Mutual Friend — Book 4: A TURNING" data-chapter="Chapter 04 A TURNING" data-kind="chapter"></span>
+
+<span class="atom-split" data-atom="chapter_03_a_long_lane" data-title="Our Mutual Friend — Book 3: A LONG LANE" data-chapter="A LONG LANE" data-kind="chapter"></span>
 
 
-     Book the Fourth—A TURNING
+Book the Third—A LONG LANE
 
-     1. SETTING TRAPS
-     2. THE GOLDEN DUSTMAN RISES A LITTLE
-     3. THE GOLDEN DUSTMAN SINKS AGAIN
-     4. A RUNAWAY MATCH
-     5. CONCERNING THE MENDICANT’S BRIDE
-     6. A CRY FOR HELP
-     7. BETTER TO BE ABEL THAN [[Cain|CAIN]]
-     8. A FEW GRAINS OF PEPPER
-     9. TWO PLACES VACATED
-     10. THE DOLLS’ DRESSMAKER DISCOVERS A WORD
-     11. EFFECT IS GIVEN TO THE DOLLS’ DRESSMAKER’S DISCOVERY
-     12. THE PASSING [[Shadow|SHADOW]]
-     13. SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
-     14. CHECKMATE TO THE FRIENDLY MOVE
-     15. WHAT WAS CAUGHT IN THE TRAPS THAT WERE SET
-     16. PERSONS AND THINGS IN GENERAL
-     17. THE VOICE OF SOCIETY
+1. LODGERS IN QUEER STREET
+2. A RESPECTED FRIEND IN A NEW ASPECT
+3. THE SAME RESPECTED FRIEND IN MORE ASPECTS THAN ONE
+4. A HAPPY RETURN OF THE DAY
+5. THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
+6. THE GOLDEN DUSTMAN FALLS INTO WORSE COMPANY
+7. THE FRIENDLY MOVE TAKES UP A STRONG POSITION
+8. THE END OF A LONG [[Journey|JOURNEY]]
+9. SOMEBODY BECOMES THE SUBJECT OF A PREDICTION
+10. SCOUTS OUT
+11. IN THE DARK
+12. MEANING MISCHIEF
+13. GIVE A DOG A BAD NAME, AND HANG HIM
+14. MR WEGG PREPARES A GRINDSTONE FOR MR BOFFIN’S NOSE
+15. THE GOLDEN DUSTMAN AT HIS WORST
+16. THE FEAST OF THE THREE HOBGOBLINS
+17. A SOCIAL [[Chorus|CHORUS]]
 
 
-     POSTSCRIPT, IN LIEU OF PREFACE
+
+
+<span class="atom-split" data-atom="chapter_04_a_turning" data-title="Our Mutual Friend — Book 4: A TURNING" data-chapter="A TURNING" data-kind="chapter"></span>
+
+
+Book the Fourth—A TURNING
+
+1. SETTING TRAPS
+2. THE GOLDEN DUSTMAN RISES A LITTLE
+3. THE GOLDEN DUSTMAN SINKS AGAIN
+4. A RUNAWAY MATCH
+5. CONCERNING THE MENDICANT’S BRIDE
+6. A CRY FOR HELP
+7. BETTER TO BE ABEL THAN [[Cain|CAIN]]
+8. A FEW GRAINS OF PEPPER
+9. TWO PLACES VACATED
+10. THE DOLLS’ DRESSMAKER DISCOVERS A WORD
+11. EFFECT IS GIVEN TO THE DOLLS’ DRESSMAKER’S DISCOVERY
+12. THE PASSING [[Shadow|SHADOW]]
+13. SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
+14. CHECKMATE TO THE FRIENDLY MOVE
+15. WHAT WAS CAUGHT IN THE TRAPS THAT WERE SET
+16. PERSONS AND THINGS IN GENERAL
+17. THE VOICE OF SOCIETY
+
+
+POSTSCRIPT, IN LIEU OF PREFACE
 
 
 
@@ -40509,8 +40509,8 @@ drug-markets, as the beginning of a social [[Chorus|chorus]], his leading part i
 the execution of which had led this gentleman to the Temple of Fame, and
 of which the whole expressive burden ran:
 
-     ‘Rumty iddity, row dow dow,
-     Sing toodlely, teedlely, bow wow wow.’
+‘Rumty iddity, row dow dow,
+Sing toodlely, teedlely, bow wow wow.’
 
 Thus he was constantly addressed, even in minor notes on business, as
 ‘Dear Rumty’; in answer to which, he sedately signed himself, ‘Yours
@@ -41051,13 +41051,13 @@ clean.
 On the front of his sale-board hung a little placard, like a
 kettle-holder, bearing the [[Inscription|inscription]] in his own small text:
 
-     Errands gone
-     On with fi
-     Delity By
-     Ladies and Gentlemen
-     I remain
-     Your humble Servt.
-     [[Silas Wegg]].
+Errands gone
+On with fi
+Delity By
+Ladies and Gentlemen
+I remain
+Your humble Servt.
+[[Silas Wegg]].
 
 He had not only settled it with himself in course of [[Time|time]], that he
 was errand-goer by appointment to the [[house]] at the corner (though he
@@ -41315,7 +41315,7 @@ on your spectacles and do it!’ cried Mr Boffin. ‘I see you at it!’
 ‘we’ll say literary, then.’
 
 ‘“A literary man—WITH a wooden leg—and all Print is open to him!”
- That’s what I thought to myself, that morning,’ pursued Mr Boffin,
+That’s what I thought to myself, that morning,’ pursued Mr Boffin,
 leaning forward to describe, uncramped by the clotheshorse, as large an
 arc as his right arm could make; ‘“all Print is open to him!” And it is,
 ain’t it?’
@@ -41467,14 +41467,14 @@ since I was not so high as your stick. Ever since my eldest brother left
 our cottage to enlist into the army. On which occasion, as the ballad
 that was made about it describes:
 
-     ‘Beside that cottage door, Mr Boffin,
-             A girl was on her knees;
-     She held aloft a snowy scarf, Sir,
-             Which (my eldest brother noticed) fluttered in the breeze.
-     She breathed a [[prayer]] for him, Mr Boffin;
-             A [[prayer]] he coold not hear.
-     And my eldest brother lean’d upon his [[Sword|sword]], Mr Boffin,
-              And wiped away a tear.’
+‘Beside that cottage door, Mr Boffin,
+A girl was on her knees;
+She held aloft a snowy scarf, Sir,
+Which (my eldest brother noticed) fluttered in the breeze.
+She breathed a [[prayer]] for him, Mr Boffin;
+A [[prayer]] he coold not hear.
+And my eldest brother lean’d upon his [[Sword|sword]], Mr Boffin,
+And wiped away a tear.’
 
 Much impressed by this family circumstance, and also by the friendly
 disposition of Mr Wegg, as exemplified in his so soon dropping into
@@ -44261,7 +44261,7 @@ notice of by strangers.’
 ‘You ARE a [[Child|child]].’
 
 ‘I’m not a [[Child|child]], and I won’t be taken notice of. “Bring your sister,”
- indeed!’
+indeed!’
 
 ‘[[Lavinia]]!’ said Mrs Wilfer. ‘Hold! I will not allow you to utter in my
 presence the absurd suspicion that any strangers—I care not what their
@@ -46351,7 +46351,7 @@ to Roger.’
 
 ‘’Scuse ME, Lawyer Lightwood, it’s a part of the [[Truth|truth]], and as such I
 do mind it, and I must mind it and I will mind it. “Rogue Riderhood,”
- he says, “words passed betwixt us on the [[River|river]] tonight.” Which they had;
+he says, “words passed betwixt us on the [[River|river]] tonight.” Which they had;
 ask his daughter! “I threatened you,” he says, “to chop you over the
 fingers with my boat’s stretcher, or take a aim at your brains with my
 boathook. I did so on accounts of your looking too hard at what I had in
@@ -46389,7 +46389,7 @@ I wouldn’t have knowed more, no, not for the sum as I expect to earn
 from you by the sweat of my brow, twice told! I had put an end to the
 pardnership. I had cut the connexion. I couldn’t undo what was done; and
 when he begs and prays, “Old pardner, on my knees, don’t split upon me!”
- I only makes answer “Never speak another word to Roger Riderhood, nor
+I only makes answer “Never speak another word to Roger Riderhood, nor
 look him in the face!” and I shuns that man.’
 
 Having given these words a swing to make them mount the higher and go
@@ -47755,7 +47755,7 @@ connected—in which he has an interest—’
 
 ‘Ah!’ said Mr Boffin. ‘Perhaps. Anyhow, he named to me that the [[house]]
 had a board up, “This Eminently Aristocratic Mansion to be let or sold.”
- Me and Mrs Boffin went to look at it, and finding it beyond a [[Doubt|doubt]]
+Me and Mrs Boffin went to look at it, and finding it beyond a [[Doubt|doubt]]
 Eminently Aristocratic (though a trifle high and dull, which after all
 may be part of the same thing) took it. My literary man was so friendly
 as to drop into a charming piece of poetry on that occasion, in which he
@@ -47764,8 +47764,8 @@ dear?’
 
 Mrs Boffin replied:
 
-     ‘“The gay, the gay and festive scene,
-     The halls, the halls of dazzling light.”’
+‘“The gay, the gay and festive scene,
+The halls, the halls of dazzling light.”’
 
 ‘That’s it! And it was made neater by there really being two halls
 in the [[house]], a front ’un and a back ’un, besides the servants’.
@@ -47778,16 +47778,16 @@ repeat it, my dear?’
 Mrs Boffin complied, by reciting the verses in which this obliging offer
 had been made, exactly as she had received them.
 
-     ‘“I’ll tell thee how the maiden wept, Mrs Boffin,
-     When her true [[Love|love]] was slain ma’am,
-     And how her broken spirit slept, Mrs Boffin,
-     And never woke again ma’am.
-     I’ll tell thee (if agreeable to Mr Boffin) how the steed drew
-     nigh,
-     And left his lord afar;
-     And if my tale (which I [[Hope|hope]] Mr Boffin might excuse) should
-     make you sigh,
-     I’ll strike the light guitar.”’
+‘“I’ll tell thee how the maiden wept, Mrs Boffin,
+When her true [[Love|love]] was slain ma’am,
+And how her broken spirit slept, Mrs Boffin,
+And never woke again ma’am.
+I’ll tell thee (if agreeable to Mr Boffin) how the steed drew
+nigh,
+And left his lord afar;
+And if my tale (which I [[Hope|hope]] Mr Boffin might excuse) should
+make you sigh,
+I’ll strike the light guitar.”’
 
 ‘Correct to the letter!’ said Mr Boffin. ‘And I consider that the poetry
 brings us both in, in a beautiful manner.’
@@ -48041,10 +48041,10 @@ Would Stepney Fields be considered intrusive? If not remote enough, I
 can go remoter. In the words of the poet’s [[Song|song]], which I do not quite
 remember:
 
-     Thrown on the wide world, doom’d to wander and roam,
-     Bereft of my parents, bereft of a [[Home|home]],
-     A stranger to something and what’s his name joy,
-     Behold little [[Edmund]] the poor Peasant boy.
+Thrown on the wide world, doom’d to wander and roam,
+Bereft of my parents, bereft of a [[Home|home]],
+A stranger to something and what’s his name joy,
+Behold little [[Edmund]] the poor Peasant boy.
 
 —And equally,’ said Mr Wegg, repairing the want of direct application
 in the last line, ‘behold myself on a similar footing!’
@@ -48078,13 +48078,13 @@ you are; you are.’
 pair of shoes. Now, my independence as a man is again elevated. Now, I
 no longer
 
-     Weep for the hour,
-     When to Boffinses bower,
-     The Lord of the valley with offers came;
-     Neither does the [[Moon|moon]] hide her light
-     From the heavens to-[[Night|night]],
-     And weep behind her clouds o’er any individual in the present
-     Company’s shame.
+Weep for the hour,
+When to Boffinses bower,
+The Lord of the valley with offers came;
+Neither does the [[Moon|moon]] hide her light
+From the heavens to-[[Night|night]],
+And weep behind her clouds o’er any individual in the present
+Company’s shame.
 
 —Please to proceed, Mr Boffin.’
 
@@ -48127,10 +48127,10 @@ them to [[Memory|memory]]) were:
 <span class="atom-split" data-atom="chapter_19--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 19" data-kind="excerpt"></span>
 
 
-     Then farewell, my trim-built wherry,
-     Oars and coat and badge farewell!
-     Never more at Chelsea Ferry,
-     Shall your Thomas take a spell!
+Then farewell, my trim-built wherry,
+Oars and coat and badge farewell!
+Never more at Chelsea Ferry,
+Shall your Thomas take a spell!
 
 —My father got over it, Mr Boffin, and so shall I.’
 
@@ -49069,7 +49069,7 @@ dark, like a [[Ghost]].
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_01" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 1)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_01" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 1)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 book—the streets being, for pupils of his degree, the great Preparatory
@@ -49180,7 +49180,7 @@ length the boy repeated:
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_02" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 2)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_02" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 2)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 ‘The question is, sir—?’
@@ -49298,7 +49298,7 @@ and little doors like the covers of school-books.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_03" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 3)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_03" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 3)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 Small, shining, neat, methodical, and buxom was Miss Peecher;
@@ -49442,7 +49442,7 @@ To these Charley Hexam finally led the way, and at one of these stopped.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_04" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 4)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_04" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 4)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 ‘This must be where my sister lives, sir. This is where she came for a
@@ -49598,7 +49598,7 @@ blow in pepper.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_05" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 5)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_05" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 5)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 ‘What would be the good of blowing in pepper?’ asked Charley Hexam.
@@ -49650,9 +49650,9 @@ Bradley seemed to think so.
 occupation, though the twilight was falling fast. ‘I believe you she
 does! But go on with your chat, one and all:
 
-     “You one two three,
-     My com-pa-nie,
-     And don’t mind me;”
+“You one two three,
+My com-pa-nie,
+And don’t mind me;”
 
 —pointing this impromptu rhyme with three points of her thin
 fore-finger.
@@ -49740,7 +49740,7 @@ grumbled the boy. ‘[[Well]]; what of them?’
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_06" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 6)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_06" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 6)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 ‘This [[Child|child]] is the grandchild of the old man.’
@@ -49885,7 +49885,7 @@ was heavy on his face.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_07" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 7)" data-chapter="Chapter 23 the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_07" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 7)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
 
 
 ‘You don’t appear to like your friend, Hexam?’
@@ -50115,10 +50115,10 @@ What a large If! Ain’t it?’
 Miss Wren suddenly broke off, screwed up her eyes and her chin, and
 looked prodigiously knowing. ‘Aha!
 
-     Who comes here?
-     A Grenadier.
-     What does he want?
-     A pot of beer.
+Who comes here?
+A Grenadier.
+What does he want?
+A pot of beer.
 
 And nothing else in the world, my dear!’
 
@@ -50391,7 +50391,7 @@ who it was, they answered, “Come and play with us!” When I said “I never
 play! I can’t play!” they swept about me and took me up, and made me
 light. Then it was all delicious ease and rest till they laid me
 down, and said, all together, “Have patience, and we will come again.”
- Whenever they came back, I used to know they were coming before I saw
+Whenever they came back, I used to know they were coming before I saw
 the long bright rows, by hearing them ask, all together a long way off,
 “Who is this in [[Pain|pain]]! Who is this in [[Pain|pain]]!” And I used to cry out, “O my
 blessed children, it’s poor me. Have pity on me. Take me up and make me
@@ -52526,13 +52526,13 @@ business of the eminent solicitor, but in another dismal set of
 chambers facing it on the same second-floor; on whose dungeon-like black
 outer-door appeared the legend:
 
-		PRIVATE
+PRIVATE
 
-		MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
+MR [[Eugene Wrayburn|EUGENE WRAYBURN]]
 
-		MR MORTIMER LIGHTWOOD
+MR MORTIMER LIGHTWOOD
 
-		(Mr Lightwood’s Offices opposite.)
+(Mr Lightwood’s Offices opposite.)
 
 Appearances indicated that this establishment was a very recent
 institution. The white letters of the [[Inscription|inscription]] were extremely white
@@ -53140,11 +53140,11 @@ of all I don’t know! How does that little old [[Song|song]] go, which, under
 pretence of being cheerful, is by far the most lugubrious I ever heard
 in my life?
 
-     “Away with [[Melancholy|melancholy]],
-     Nor doleful changes ring
-     On life and human folly,
-     But merrily merrily sing
-                              Fal la!”
+“Away with [[Melancholy|melancholy]],
+Nor doleful changes ring
+On life and human folly,
+But merrily merrily sing
+Fal la!”
 
 Don’t let us sing Fal la, my dear Mortimer (which is comparatively
 unmeaning), but let us sing that we give up guessing the [[Riddle|riddle]]
@@ -53498,10 +53498,10 @@ chiromancy, and holding his own up ready for smiting it when the [[Time|time]]
 should come; ‘as one that the poet might have had his eye on, in writing
 the national naval words:
 
-     Helm a-weather, now lay her close,
-            Yard arm and yard arm she lies;
-     Again, cried I, [[Mr Venus]], give her t’other dose,
-            Man shrouds and grapple, sir, or she flies!
+Helm a-weather, now lay her close,
+Yard arm and yard arm she lies;
+Again, cried I, [[Mr Venus]], give her t’other dose,
+Man shrouds and grapple, sir, or she flies!
 
 —that is to say, regarded in the light of true British Oak, for such
 you are—explain, [[Mr Venus]], the expression “papers”!’
@@ -56828,7 +56828,7 @@ I. There was no such thing as I, within my knowledge.
 then a great noise and a sparkling and crackling as of fires, that the
 consciousness came upon me, “This is [[John Harmon]] drowning! [[John Harmon]],
 struggle for your life. [[John Harmon]], call on Heaven and save yourself!”
- I think I cried it out aloud in a great agony, and then a heavy horrid
+I think I cried it out aloud in a great agony, and then a heavy horrid
 unintelligible something vanished, and it was I who was struggling there
 [[Alone|alone]] in the [[Water|water]].
 
@@ -58423,7 +58423,7 @@ marrying your sister would be agreeable to you, Hexam, and useful to
 you?” I say, “There’s nothing in the world, Mr Headstone, that I could
 be better pleased with.” Mr Headstone says, “Then I may rely upon your
 intimate knowledge of me for your good word with your sister, Hexam?”
- And I say, “Certainly, Mr Headstone, and naturally I have a good deal of
+And I say, “Certainly, Mr Headstone, and naturally I have a good deal of
 influence with her.” So I have; haven’t I, Liz?’
 
 ‘Yes, Charley.’
@@ -58911,12 +58911,12 @@ fallen into comfortable attitudes. It’s like—’
 
 ‘It’s like,’ impatiently interrupts Eugene, ‘the children’s narrative:
 
-     “I’ll tell you a story
-     Of Jack a Manory,
-     And now my story’s begun;
-     I’ll tell you another
-     Of Jack and his brother,
-     And now my story is done.”
+“I’ll tell you a story
+Of Jack a Manory,
+And now my story’s begun;
+I’ll tell you another
+Of Jack and his brother,
+And now my story is done.”
 
 —Get on, and get it over!’
 
@@ -60121,11 +60121,11 @@ Miss Abbey, with manifest tokens of astonishment, took the diminutive
 document, and found it to run concisely thus:—
 
 
-		MISS [[Jenny Wren|JENNY WREN]]
+MISS [[Jenny Wren|JENNY WREN]]
 
-	       DOLLS’ DRESSMAKER.
+DOLLS’ DRESSMAKER.
 
-	Dolls attended at their own residences.
+Dolls attended at their own residences.
 
 
 ‘Lud!’ exclaimed Miss Potterson, staring. And dropped the card.
@@ -62059,14 +62059,14 @@ In return, [[Mr Venus]] gave him a rather dry good evening.
 ‘Walk in, brother,’ said Silas, clapping him on the shoulder, ‘and take
 your seat in my chimley corner; for what says the ballad?
 
-     “No malice to dread, sir,
-     And no falsehood to [[Fear|fear]],
-     But [[Truth|truth]] to delight me, [[Mr Venus]],
-     And I forgot what to cheer.
-     Li toddle de om dee.
-     And something to guide,
-     My ain fireside, sir,
-     My ain fireside.”’
+“No malice to dread, sir,
+And no falsehood to [[Fear|fear]],
+But [[Truth|truth]] to delight me, [[Mr Venus]],
+And I forgot what to cheer.
+Li toddle de om dee.
+And something to guide,
+My ain fireside, sir,
+My ain fireside.”’
 
 With this quotation (depending for its neatness rather on the spirit
 than the words), Mr Wegg conducted his guest to his hearth.
@@ -62087,11 +62087,11 @@ friendly move. And arterwards, crushing a flowing wine-cup—which I
 allude to brewing rum and [[Water|water]]—we’ll pledge one another. For what says
 the Poet?
 
-     “And you needn’t, [[Mr Venus]], be your black bottle,
-     For surely I’ll be mine,
-     And we’ll take a glass with a slice of lemon in it to which
-     you’re partial,
-     For auld lang syne.”’
+“And you needn’t, [[Mr Venus]], be your black bottle,
+For surely I’ll be mine,
+And we’ll take a glass with a slice of lemon in it to which
+you’re partial,
+For auld lang syne.”’
 
 This flow of quotation and hospitality in Wegg indicated his observation
 of some little querulousness on the part of [[Venus]].
@@ -62114,8 +62114,8 @@ coal-ashes warious, and nothing comes of it. I think I must give up.’
 
 ‘No, sir!’ remonstrated Wegg, enthusiastically. ‘No, Sir!
 
-     “Charge, Chester, charge,
-     On, [[Mr Venus]], on!”
+“Charge, Chester, charge,
+On, [[Mr Venus]], on!”
 
 Never say die, sir! A man of your mark!’
 
@@ -62881,13 +62881,13 @@ voice. To proceed. On a certain day, sir, I happened to be walking in
 the yard—taking my lonely round—for in the words of a friend of my own
 family, the author of All’s [[Well]] arranged as a duett:
 
-     “Deserted, as you will remember, [[Mr Venus]], by the waning
-     [[Moon|moon]],
-     When [[Stars|stars]], it will occur to you before I mention it, proclaim
-     [[Night|night]]’s cheerless [[Noon|noon]],
-     On tower, fort, or tented ground,
-     The sentry walks his lonely round,
-     The sentry walks;”
+“Deserted, as you will remember, [[Mr Venus]], by the waning
+[[Moon|moon]],
+When [[Stars|stars]], it will occur to you before I mention it, proclaim
+[[Night|night]]’s cheerless [[Noon|noon]],
+On tower, fort, or tented ground,
+The sentry walks his lonely round,
+The sentry walks;”
 
 —under those circumstances, sir, I happened to be walking in the yard
 early one afternoon, and happened to have an iron rod in my hand, with
@@ -63184,12 +63184,12 @@ had an unlimited capacity of assimilating the flagrant article! There
 you sit, sir, in the midst of your works, looking as if you’d been
 called upon for [[Home]], Sweet [[Home]], and was obleeging the company!
 
-     “A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
-     O give you your lowly Preparations again,
-     The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
-     your call,
-     Give you these with the peace of mind dearer than all.
-     [[Home]], [[Home]], [[Home]], sweet [[Home]]!”
+“A [[Exile|exile]] from [[Home|home]] splendour dazzles in vain,
+O give you your lowly Preparations again,
+The [[Birds|birds]] stuffed so sweetly that can’t be expected to come at
+your call,
+Give you these with the peace of mind dearer than all.
+[[Home]], [[Home]], [[Home]], sweet [[Home]]!”
 
 —Be it ever,’ added Mr Wegg in prose as he glanced about the shop,
 ‘ever so ghastly, all things considered there’s no place like it.’
@@ -67192,8 +67192,8 @@ partner? Is that about it?’
 it jintly with yourself. Or, in similar words to some that was set to
 music some [[Time|time]] back:
 
-     “I wish you to see it with your eyes,
-     And I will pledge with mine.”’
+“I wish you to see it with your eyes,
+And I will pledge with mine.”’
 
 Turning his back and turning a key, [[Mr Venus]] produced the document,
 holding on by his usual corner. Mr Wegg, holding on by the opposite
@@ -67320,10 +67320,10 @@ Begone, dull Care! ’tis gone, sir. I’ve looked in upon you, and empire
 resumes her sway. For, as the [[Song|song]] says—subject to your correction,
 sir—
 
-     “When the heart of a man is depressed with cares,
-     The mist is dispelled if [[Venus]] appears.
-     Like the notes of a fiddle, you sweetly, sir, sweetly,
-     Raises our spirits and charms our ears.”
+“When the heart of a man is depressed with cares,
+The mist is dispelled if [[Venus]] appears.
+Like the notes of a fiddle, you sweetly, sir, sweetly,
+Raises our spirits and charms our ears.”
 
 Good-[[Night|night]], sir.’
 
@@ -67881,7 +67881,7 @@ property, and about this young lady, and her share in poor young John’s
 story, and he puts this and that together, and he says to himself, “I’ll
 get in with Boffin, and I’ll get in with this young lady, and I’ll work
 ’em both at the same [[Time|time]], and I’ll bring my pigs to market somewhere.”
- I hear him say it, bless you! I look at him, now, and I see him say it!’
+I hear him say it, bless you! I look at him, now, and I see him say it!’
 
 Mr Boffin pointed at the culprit, as it were in the act, and hugged
 himself in his great penetration.
@@ -70732,11 +70732,11 @@ my wig if I wouldn’t have come round to you tomorrow. Now! I tell you!’
 ‘Oh no, Mr Boffin,’ was the ironical answer. ‘Nothing wrong! What should
 be wrong in Boffinses Bower! Step in, sir.’
 
-     ‘“If you’ll come to the Bower I’ve shaded for you,
-     Your bed shan’t be roses all spangled with doo:
-     Will you, will you, will you, will you, come to the Bower?
-     Oh, won’t you, won’t you, won’t you, won’t you, come to the
-          Bower?”’
+‘“If you’ll come to the Bower I’ve shaded for you,
+Your bed shan’t be roses all spangled with doo:
+Will you, will you, will you, will you, come to the Bower?
+Oh, won’t you, won’t you, won’t you, won’t you, come to the
+Bower?”’
 
 An unholy glare of contradiction and offence shone in the eyes of Mr
 Wegg, as he turned the key on his patron, after ushering him into the
@@ -71130,9 +71130,9 @@ Aunt Jane, and Uncle Parker, before YOU two?’
 thickness of speech, in consequence of the Gum-Ticklers having tickled
 it. ‘I’ve got him under inspection, and I’ll inspect him.
 
-     “Along the line the signal ran,
-     England expects as this present man
-     Will keep Boffin to his duty.”
+“Along the line the signal ran,
+England expects as this present man
+Will keep Boffin to his duty.”
 
 —Boffin, I’ll see you [[Home|home]].’
 
@@ -73948,7 +73948,7 @@ it out. My poor Lizzie, have they both designs against you, either way?
 Can’t make it out. Is Little Eyes Pubsey, and the wolf Co? Can’t make it
 out. Pubsey true to Co, and Co to Pubsey? Pubsey false to Co, and Co to
 Pubsey? Can’t make it out. What said Little Eyes? “Now, candidly?”
- Ah! However the cat jumps, HE’S a liar. That’s all I can make out at
+Ah! However the cat jumps, HE’S a liar. That’s all I can make out at
 present; but you may go to bed in the Albany, Piccadilly, with THAT for
 your pillow, young man!’ Thereupon, the little dressmaker again dabbed
 out his eyes separately, and making a loop in the air of her thread and
@@ -76593,7 +76593,7 @@ for you when you was slighted, if she was to show herself of a generous
 mind when you was oppressed, if she was to be truest to you when you was
 poorest and friendliest, and all this against her own seeming interest,
 how would that do?” “Do?” says John, “it would raise me to the skies.”
- “Then,” says my Noddy, “make your preparations for the ascent, John, it
+“Then,” says my Noddy, “make your preparations for the ascent, John, it
 being my firm belief that up you go!”’
 
 Bella caught Mr Boffin’s twinkling eye for half an instant; but he got
@@ -76639,7 +76639,7 @@ yet. I must wait a little longer.” Then when baby was born, he says,
 yet. I must wait a little longer.” And so he goes on and on, till I says
 outright, “Now, John, if you don’t fix a [[Time|time]] for setting her up in her
 own [[house]] and [[Home|home]], and letting us walk out of it, I’ll turn Informer.”
- Then he says he’ll only wait to triumph beyond what we ever thought
+Then he says he’ll only wait to triumph beyond what we ever thought
 possible, and to show her to us better than even we ever supposed; and
 he says, “She shall see me under suspicion of having murdered myself,
 and YOU shall see how trusting and how true she’ll be.” [[Well]]! Noddy and
@@ -76701,7 +76701,7 @@ showed her, in yourself, the most detestable sides of wealth, saying in
 your own mind, “This shallow creature would never work the [[Truth|truth]] out of
 her own weak [[Soul|soul]], if she had a hundred years to do it in; but a glaring
 instance kept before her may open even her eyes and set her thinking.”
- That was what you said to yourself, was it, sir?’
+That was what you said to yourself, was it, sir?’
 
 ‘I never said anything of the sort,’ Mr Boffin declared in a state of
 the highest enjoyment.

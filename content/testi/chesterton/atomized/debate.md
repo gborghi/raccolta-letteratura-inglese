@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="debate" data-title="Do We Agree?" data-chapter="" data-kind="intro"></span>
 
-# [[debate]]
 
 DO WE AGREE?
 
@@ -829,23 +828,23 @@ that I was to sum up.  I shall do nothing of the sort.
 In a very few years from now this [[debate]] will be antiquated.
 I will now recite you a poem:
 
-    "Our civilization
-    Is built upon coal.
-    Let us chant in rotation
-    Our civilization
-    That lump of damnation
-    Without any [[Soul|soul]],
-    Our civilization
-    Is built upon coal.
+"Our civilization
+Is built upon coal.
+Let us chant in rotation
+Our civilization
+That lump of damnation
+Without any [[Soul|soul]],
+Our civilization
+Is built upon coal.
 
-    "In a very few years,
-    It will float upon oil.
-    Then give three hearty cheers,
-    In a very few years
-    We shall mop up our [[Tears|tears]]
-    And have done with our toil.
-    In a very few years
-    It will float upon oil."
+"In a very few years,
+It will float upon oil.
+Then give three hearty cheers,
+In a very few years
+We shall mop up our [[Tears|tears]]
+And have done with our toil.
+In a very few years
+It will float upon oil."
 
 In I do not know how many years--five, ten, twenty--this [[debate]]
 will be as antiquated as crinolines are.  I am surprised that
@@ -867,9 +866,8 @@ or possibly a mixture of the three combined.
 
 
 
-<span class="atom-split" data-atom="story_02_hilaire_belloc" data-title="Do We Agree? — Hilaire Belloc" data-chapter="Story 02 Hilaire Belloc" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_hilaire_belloc" data-title="Do We Agree? — Hilaire Belloc" data-chapter="Hilaire Belloc" data-kind="story"></span>
 
-# [[debate]] — Hilaire Belloc
 
 HILAIRE BELLOC
 
@@ -898,9 +896,8 @@ salvare dall'oblio quanto basta a giustificarne la pubblicazione.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_01" data-title="Do We Agree? — Cecil Palmer (part 1)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_01" data-title="Do We Agree? — Cecil Palmer (part 1)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 1)
 
 CECIL PALMER
 
@@ -1074,9 +1071,8 @@ Avete in questo momento un tipico [[debate|dibattito]] che infuria sulla Stampa.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_02" data-title="Do We Agree? — Cecil Palmer (part 2)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_02" data-title="Do We Agree? — Cecil Palmer (part 2)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 2)
 
 Bunyan, by the way, does not even mention Mr. Facing-Both Ways'
 extraordinary historical feat of drafting the Twenty-seventh Article
@@ -1329,9 +1325,8 @@ Sostengo che potrei essere d'accordo con il signor [[Shaw]] un passo più in là
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_03" data-title="Do We Agree? — Cecil Palmer (part 3)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_03" data-title="Do We Agree? — Cecil Palmer (part 3)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 3)
 
 I have heard from nearly all the Socialists I have known,
 the phrase which Mr. [[Shaw]] has with characteristic
@@ -1544,9 +1539,8 @@ a meno che non pensiate che con questo mezzo essi possiedano il controllo.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_04" data-title="Do We Agree? — Cecil Palmer (part 4)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_04" data-title="Do We Agree? — Cecil Palmer (part 4)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 4)
 
 I have used the metaphor of the Collectivists of having all
 your eggs in one basket.  Now there are men whom we are pleased
@@ -1667,9 +1661,8 @@ to the nationalization of everything else.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_05" data-title="Do We Agree? — Cecil Palmer (part 5)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_05" data-title="Do We Agree? — Cecil Palmer (part 5)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 5)
 
 I have to allow for the pressure of facts because, as a playwright,
 I think of all problems in terms of actual men and women.
@@ -1817,9 +1810,8 @@ I want to own my own land."
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_06" data-title="Do We Agree? — Cecil Palmer (part 6)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_06" data-title="Do We Agree? — Cecil Palmer (part 6)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 6)
 
 Mr. [[Shaw]]'s dislike of the landlord is not so much a denial of
 the right to private property.  not so much that he owns the land,
@@ -1931,9 +1923,8 @@ you cannot split up the land and give every person a bit of property.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_07" data-title="Do We Agree? — Cecil Palmer (part 7)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_07" data-title="Do We Agree? — Cecil Palmer (part 7)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
 
-# [[debate]] — Cecil Palmer (part 7)
 
 I have stolen two minutes from Mr. Chesterton, and I apologise.
 
@@ -2004,23 +1995,23 @@ that I was to sum up.  I shall do nothing of the sort.
 In a very few years from now this [[debate]] will be antiquated.
 I will now recite you a poem:
 
-    "Our civilization
-    Is built upon coal.
-    Let us chant in rotation
-    Our civilization
-    That lump of damnation
-    Without any [[Soul|soul]],
-    Our civilization
-    Is built upon coal.
+"Our civilization
+Is built upon coal.
+Let us chant in rotation
+Our civilization
+That lump of damnation
+Without any [[Soul|soul]],
+Our civilization
+Is built upon coal.
 
-    "In a very few years,
-    It will float upon oil.
-    Then give three hearty cheers,
-    In a very few years
-    We shall mop up our [[Tears|tears]]
-    And have done with our toil.
-    In a very few years
-    It will float upon oil."
+"In a very few years,
+It will float upon oil.
+Then give three hearty cheers,
+In a very few years
+We shall mop up our [[Tears|tears]]
+And have done with our toil.
+In a very few years
+It will float upon oil."
 
 In I do not know how many years--five, ten, twenty--this [[debate]]
 will be as antiquated as crinolines are.  I am surprised that

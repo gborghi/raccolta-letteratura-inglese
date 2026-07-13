@@ -819,7 +819,7 @@ of silk and satin, and began making a new bonnet for Georgiana’s doll.
 Meantime she sang: her [[Song|song]] was—
 
 “In the days when we went gipsying,
-    A long [[Time|time]] ago.”
+A long [[Time|time]] ago.”
 
 
 I had often heard the [[Song|song]] before, and always with lively delight; for
@@ -831,29 +831,29 @@ of a funeral [[Hymn|hymn]]. She passed into another ballad, this [[Time|time]] a
 doleful one.
 
 “My feet they are sore, and my limbs they are weary;
-    Long is the way, and the [[Mountains|mountains]] are wild;
+Long is the way, and the [[Mountains|mountains]] are wild;
 Soon will the twilight close moonless and dreary
-    Over the path of the poor [[Orphan|orphan]] [[Child|child]].
+Over the path of the poor [[Orphan|orphan]] [[Child|child]].
 
 Why did they send me so far and so lonely,
-    Up where the moors spread and grey rocks are piled?
+Up where the moors spread and grey rocks are piled?
 Men are hard-hearted, and kind angels only
-    Watch o’er the steps of a poor [[Orphan|orphan]] [[Child|child]].
+Watch o’er the steps of a poor [[Orphan|orphan]] [[Child|child]].
 
 Yet distant and soft the [[Night|night]] breeze is blowing,
-    Clouds there are none, and clear [[Stars|stars]] beam mild,
+Clouds there are none, and clear [[Stars|stars]] beam mild,
 God, in His [[Mercy|mercy]], protection is showing,
-    Comfort and [[Hope|hope]] to the poor [[Orphan|orphan]] [[Child|child]].
+Comfort and [[Hope|hope]] to the poor [[Orphan|orphan]] [[Child|child]].
 
 Ev’n should I fall o’er the broken bridge passing,
-    Or stray in the marshes, by false lights beguiled,
+Or stray in the marshes, by false lights beguiled,
 Still will my Father, with promise and blessing,
-    Take to His bosom the poor [[Orphan|orphan]] [[Child|child]].
+Take to His bosom the poor [[Orphan|orphan]] [[Child|child]].
 
 There is a thought that for strength should avail me,
-    Though both of shelter and kindred despoiled;
+Though both of shelter and kindred despoiled;
 Heaven is a [[Home|home]], and a rest will not fail me;
-    God is a friend to the poor [[Orphan|orphan]] [[Child|child]].”
+God is a friend to the poor [[Orphan|orphan]] [[Child|child]].”
 
 
 “Come, Miss Jane, don’t cry,” said Bessie as she finished. She might as
@@ -5205,7 +5205,7 @@ A touch of a spurred heel made his [[Horse|horse]] first start and rear, and the
 bound away; the dog rushed in his traces; all three vanished,
 
 “Like heath that, in the wilderness,
-    The wild [[Wind|wind]] whirls away.”
+The wild [[Wind|wind]] whirls away.”
 
 
 I took up my muff and walked on. The incident had occurred and was gone
@@ -17384,10 +17384,10 @@ tempest, I lit a candle, took down “Marmion,” and beginning—
 
 “Day set on Norham’s castled steep,
 And Tweed’s fair [[River|river]] broad and deep,
-    And Cheviot’s [[Mountains|mountains]] lone;
+And Cheviot’s [[Mountains|mountains]] lone;
 The massive towers, the donjon keep,
 The flanking walls that round them sweep,
-    In yellow lustre shone”—
+In yellow lustre shone”—
 
 
 I soon forgot [[Storm|storm]] in music.
@@ -21251,7 +21251,7 @@ immediately laid upon me, and I was borne upstairs.
 
 
 
-<span class="atom-split" data-atom="chapter_38_conclusion" data-title="Jane Eyre — Chapter 38: CONCLUSION" data-chapter="Chapter 38 CONCLUSION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38_conclusion" data-title="Jane Eyre — Chapter 38: CONCLUSION" data-chapter="CONCLUSION" data-kind="chapter"></span>
 
 
 CHAPTER XXXVIII—CONCLUSION
@@ -21888,7 +21888,7 @@ of silk and satin, and began making a new bonnet for Georgiana’s doll.
 Meantime she sang: her [[Song|song]] was—
 
 “In the days when we went gipsying,
-    A long [[Time|time]] ago.”
+A long [[Time|time]] ago.”
 
 
 I had often heard the [[Song|song]] before, and always with lively delight; for
@@ -21900,29 +21900,29 @@ of a funeral [[Hymn|hymn]]. She passed into another ballad, this [[Time|time]] a
 doleful one.
 
 “My feet they are sore, and my limbs they are weary;
-    Long is the way, and the [[Mountains|mountains]] are wild;
+Long is the way, and the [[Mountains|mountains]] are wild;
 Soon will the twilight close moonless and dreary
-    Over the path of the poor [[Orphan|orphan]] [[Child|child]].
+Over the path of the poor [[Orphan|orphan]] [[Child|child]].
 
 Why did they send me so far and so lonely,
-    Up where the moors spread and grey rocks are piled?
+Up where the moors spread and grey rocks are piled?
 Men are hard-hearted, and kind angels only
-    Watch o’er the steps of a poor [[Orphan|orphan]] [[Child|child]].
+Watch o’er the steps of a poor [[Orphan|orphan]] [[Child|child]].
 
 Yet distant and soft the [[Night|night]] breeze is blowing,
-    Clouds there are none, and clear [[Stars|stars]] beam mild,
+Clouds there are none, and clear [[Stars|stars]] beam mild,
 God, in His [[Mercy|mercy]], protection is showing,
-    Comfort and [[Hope|hope]] to the poor [[Orphan|orphan]] [[Child|child]].
+Comfort and [[Hope|hope]] to the poor [[Orphan|orphan]] [[Child|child]].
 
 Ev’n should I fall o’er the broken bridge passing,
-    Or stray in the marshes, by false lights beguiled,
+Or stray in the marshes, by false lights beguiled,
 Still will my Father, with promise and blessing,
-    Take to His bosom the poor [[Orphan|orphan]] [[Child|child]].
+Take to His bosom the poor [[Orphan|orphan]] [[Child|child]].
 
 There is a thought that for strength should avail me,
-    Though both of shelter and kindred despoiled;
+Though both of shelter and kindred despoiled;
 Heaven is a [[Home|home]], and a rest will not fail me;
-    God is a friend to the poor [[Orphan|orphan]] [[Child|child]].”
+God is a friend to the poor [[Orphan|orphan]] [[Child|child]].”
 
 
 “Come, Miss Jane, don’t cry,” said Bessie as she finished. She might as
@@ -26469,7 +26469,7 @@ A touch of a spurred heel made his [[Horse|horse]] first start and rear, and the
 bound away; the dog rushed in his traces; all three vanished,
 
 “Like heath that, in the wilderness,
-    The wild [[Wind|wind]] whirls away.”
+The wild [[Wind|wind]] whirls away.”
 
 
 
@@ -39202,10 +39202,10 @@ tempest, I lit a candle, took down “Marmion,” and beginning—
 
 “Day set on Norham’s castled steep,
 And Tweed’s fair [[River|river]] broad and deep,
-    And Cheviot’s [[Mountains|mountains]] lone;
+And Cheviot’s [[Mountains|mountains]] lone;
 The massive towers, the donjon keep,
 The flanking walls that round them sweep,
-    In yellow lustre shone”—
+In yellow lustre shone”—
 
 
 I soon forgot [[Storm|storm]] in music.

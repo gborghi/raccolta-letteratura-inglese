@@ -24,41 +24,41 @@ A Book of Essays
 
 Table of Contents
 
-  On Seriousness
-  Lamp-Posts
-  The Spirits
-  Tennyson
-  The Domesticity of Detectives
-  George Meredith
-  The Irishman
-  Ireland and the Domestic Drama
-  The Japanese
-  Christian Science
-  The Lawlessness of Lawyers
-  Our Latin Relations
-  On Pigs as Pets
-  The [[Romance]] of Rostand
-  Wishes
-  The Futurists
-  The Evolution of [[Emma]]
-  The Pseudo-Scientific Books
-  The [[Humour]] of [[King]] Herod
-  The Silver Goblets
-  The Duty of the Historian
-  Questions of [[divorce|Divorce]]
-  [[Mormonism]]
-  Pageants and Dress
-  On Stage Costume
-  The Yule Log and the Democrat
-  More Thoughts on Christmas
-  Dickens Again
-  Taffy
-  "Ego et Shavius Meus"
-  The Plan for a New Universe
-  George Wyndham
-  Four Stupidities
-  On Historical Novels
-  On Monsters
+On Seriousness
+Lamp-Posts
+The Spirits
+Tennyson
+The Domesticity of Detectives
+George Meredith
+The Irishman
+Ireland and the Domestic Drama
+The Japanese
+Christian Science
+The Lawlessness of Lawyers
+Our Latin Relations
+On Pigs as Pets
+The [[Romance]] of Rostand
+Wishes
+The Futurists
+The Evolution of [[Emma]]
+The Pseudo-Scientific Books
+The [[Humour]] of [[King]] Herod
+The Silver Goblets
+The Duty of the Historian
+Questions of [[divorce|Divorce]]
+[[Mormonism]]
+Pageants and Dress
+On Stage Costume
+The Yule Log and the Democrat
+More Thoughts on Christmas
+Dickens Again
+Taffy
+"Ego et Shavius Meus"
+The Plan for a New Universe
+George Wyndham
+Four Stupidities
+On Historical Novels
+On Monsters
 
 On Seriousness
 
@@ -149,18 +149,18 @@ in Battersea, except, perhaps, the "prisoner of the Vatican"),
 and the verses have a tenderness, with a twist of the [[Grotesque|grotesque]],
 which seems to me the exactly appropriate tone about domestic pets:
 
-  And now you're here.  [[Well]], it may be
-  The sundoes rise in Battersea
-  Although to-day be dark;
-  Life is not shorn of loves and hates
-  While there are sparrows on the slates
-  And keepers in the Park.
-  And you yourself will come to learn
-  The ways of [[London]]; and in turn
-  Assume your Cockney cares
-  Like other folk that live in flats,
-  Chasing your purely abstract rats
-  Upon the concrete stairs.
+And now you're here.  [[Well]], it may be
+The sundoes rise in Battersea
+Although to-day be dark;
+Life is not shorn of loves and hates
+While there are sparrows on the slates
+And keepers in the Park.
+And you yourself will come to learn
+The ways of [[London]]; and in turn
+Assume your Cockney cares
+Like other folk that live in flats,
+Chasing your purely abstract rats
+Upon the concrete stairs.
 
 That is like Hood at his best; but it is, moreover, penetrated with
 a profound and true appreciation of the fundamental idea
@@ -183,18 +183,18 @@ the tearful parenthesis that "she has just lost a dear dog in [[London]]."
 The real animal-[[Lover|lover]] instantly recognizes the wrong note, and dances
 on the dog's [[Grave|grave]] with a derision as unsympathetic as Swift:
 
-  Dear are my friends, and yet my heart still light is,
-  Undimmed the eyes that see our set depart,
-  Snatched from the Season by appendicitis
-  Or something quite as smart.
-  But when my Chin-Chin drew his latest breath
-  On Marie's outspread apron, slow and wheezily,
-  I simply sniffed, I could not take his [[Death|death]]
-  So Pekineasily. . . .
-  . . . Grief courts these ovations,
-  And many press my sable-sueded hand,
-  Noting the blackest of Lucile's creations
-  Inquire, and understand.
+Dear are my friends, and yet my heart still light is,
+Undimmed the eyes that see our set depart,
+Snatched from the Season by appendicitis
+Or something quite as smart.
+But when my Chin-Chin drew his latest breath
+On Marie's outspread apron, slow and wheezily,
+I simply sniffed, I could not take his [[Death|death]]
+So Pekineasily. . . .
+. . . Grief courts these ovations,
+And many press my sable-sueded hand,
+Noting the blackest of Lucile's creations
+Inquire, and understand.
 
 It is that balance of instincts that is the essence of all [[Satire|satire]]:
 however fantastic [[Satire|satire]] may be, it must always be potentially
@@ -487,12 +487,12 @@ things analogous to matters of fact.  It is no good disputing
 about tastes--partly because some tastes are beyond dispute.
 If anyone tells me that
 
-  There is fallen a splendid tear
-  From the passion-flower at the gate;
+There is fallen a splendid tear
+From the passion-flower at the gate;
 
 or that
 
-  [[Tears]] from the depth of some divine [[Despair|despair]]
+[[Tears]] from the depth of some divine [[Despair|despair]]
 
 is not fine poetry, I am quite prepared to treat him as I would
 one who said that grass was not green or that I was not corpulent.
@@ -843,11 +843,11 @@ people for being quaint or eccentric, and rebukes them quaintly
 and eccentrically.  He says of [[Nature]], the great earth-mother,
 whom he worshipped:
 
-  ... She by one sure sign can read,
-  Have they but held her laws and [[Nature|nature]] dear;
-  They mouth no sentence of inverted wit.
-  More prizes she her beasts than this high breed
-  Wry in the shape she wastes her milk to rear.
+... She by one sure sign can read,
+Have they but held her laws and [[Nature|nature]] dear;
+They mouth no sentence of inverted wit.
+More prizes she her beasts than this high breed
+Wry in the shape she wastes her milk to rear.
 
 That is the mark of the truly great man:  that he sees
 the [[Common Man|common man]] afar off, and worships him.  The great man tries
@@ -1982,8 +1982,8 @@ And I think that something of this healthy [[Fear|fear]] of losing
 sentiment of the Three Wishes; the sentiment which says,
 in the words of Thackeray:
 
-  Fairy roses, fairy rings
-  Turn out sometimes troublesome things.
+Fairy roses, fairy rings
+Turn out sometimes troublesome things.
 
 Now the transition may seem queer; but this power of seeing that a
 tree isthere, in spite of you and me, that it holds of God and its
@@ -3429,8 +3429,8 @@ the clumsiness of the uncultured is:  thing quite peculiar
 to those lazier Christian countries where the Christian gentleman
 has been evolved:
 
-  For nothing in this world can be amiss
-  When simpleness and duty tender it.
+For nothing in this world can be amiss
+When simpleness and duty tender it.
 
 Or, again, in that noble scrap of sceptical magnanimity which was
 unaccountably cut out in the last performance:
@@ -4821,7 +4821,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_on_seriousness" data-title="The Uses of Diversity — On Seriousness" data-chapter="Story 01 On Seriousness" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_seriousness" data-title="The Uses of Diversity — On Seriousness" data-chapter="On Seriousness" data-kind="story"></span>
 
 
 On Seriousness
@@ -4913,18 +4913,18 @@ in Battersea, except, perhaps, the "prisoner of the Vatican"),
 and the verses have a tenderness, with a twist of the [[Grotesque|grotesque]],
 which seems to me the exactly appropriate tone about domestic pets:
 
-  And now you're here.  [[Well]], it may be
-  The sundoes rise in Battersea
-  Although to-day be dark;
-  Life is not shorn of loves and hates
-  While there are sparrows on the slates
-  And keepers in the Park.
-  And you yourself will come to learn
-  The ways of [[London]]; and in turn
-  Assume your Cockney cares
-  Like other folk that live in flats,
-  Chasing your purely abstract rats
-  Upon the concrete stairs.
+And now you're here.  [[Well]], it may be
+The sundoes rise in Battersea
+Although to-day be dark;
+Life is not shorn of loves and hates
+While there are sparrows on the slates
+And keepers in the Park.
+And you yourself will come to learn
+The ways of [[London]]; and in turn
+Assume your Cockney cares
+Like other folk that live in flats,
+Chasing your purely abstract rats
+Upon the concrete stairs.
 
 That is like Hood at his best; but it is, moreover, penetrated with
 a profound and true appreciation of the fundamental idea
@@ -4947,18 +4947,18 @@ the tearful parenthesis that "she has just lost a dear dog in [[London]]."
 The real animal-[[Lover|lover]] instantly recognizes the wrong note, and dances
 on the dog's [[Grave|grave]] with a derision as unsympathetic as Swift:
 
-  Dear are my friends, and yet my heart still light is,
-  Undimmed the eyes that see our set depart,
-  Snatched from the Season by appendicitis
-  Or something quite as smart.
-  But when my Chin-Chin drew his latest breath
-  On Marie's outspread apron, slow and wheezily,
-  I simply sniffed, I could not take his [[Death|death]]
-  So Pekineasily. . . .
-  . . . Grief courts these ovations,
-  And many press my sable-sueded hand,
-  Noting the blackest of Lucile's creations
-  Inquire, and understand.
+Dear are my friends, and yet my heart still light is,
+Undimmed the eyes that see our set depart,
+Snatched from the Season by appendicitis
+Or something quite as smart.
+But when my Chin-Chin drew his latest breath
+On Marie's outspread apron, slow and wheezily,
+I simply sniffed, I could not take his [[Death|death]]
+So Pekineasily. . . .
+. . . Grief courts these ovations,
+And many press my sable-sueded hand,
+Noting the blackest of Lucile's creations
+Inquire, and understand.
 
 It is that balance of instincts that is the essence of all [[Satire|satire]]:
 however fantastic [[Satire|satire]] may be, it must always be potentially
@@ -4973,7 +4973,7 @@ and perhaps [[Fear|fear]] it.  Neither knows how to [[Love|love]] it.
 
 
 
-<span class="atom-split" data-atom="story_02_lamp_posts" data-title="The Uses of Diversity — Lamp-Posts" data-chapter="Story 02 Lamp Posts" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_lamp_posts" data-title="The Uses of Diversity — Lamp-Posts" data-chapter="Lamp Posts" data-kind="story"></span>
 
 
 Lamp-Posts
@@ -5121,7 +5121,7 @@ whose lamp has been darkened against the dragon of the sky.
 
 
 
-<span class="atom-split" data-atom="story_03_the_spirits" data-title="The Uses of Diversity — The Spirits" data-chapter="Story 03 The Spirits" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_spirits" data-title="The Uses of Diversity — The Spirits" data-chapter="The Spirits" data-kind="story"></span>
 
 
 The Spirits
@@ -5247,7 +5247,7 @@ and I do not [[Desire|desire]] their further acquaintance.
 
 
 
-<span class="atom-split" data-atom="story_04_tennyson" data-title="The Uses of Diversity — Tennyson" data-chapter="Story 04 Tennyson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_tennyson" data-title="The Uses of Diversity — Tennyson" data-chapter="Tennyson" data-kind="story"></span>
 
 
 Tennyson
@@ -5269,12 +5269,12 @@ things analogous to matters of fact.  It is no good disputing
 about tastes--partly because some tastes are beyond dispute.
 If anyone tells me that
 
-  There is fallen a splendid tear
-  From the passion-flower at the gate;
+There is fallen a splendid tear
+From the passion-flower at the gate;
 
 or that
 
-  [[Tears]] from the depth of some divine [[Despair|despair]]
+[[Tears]] from the depth of some divine [[Despair|despair]]
 
 is not fine poetry, I am quite prepared to treat him as I would
 one who said that grass was not green or that I was not corpulent.
@@ -5401,7 +5401,7 @@ even upon such clouds.
 
 
 
-<span class="atom-split" data-atom="story_05_the_domesticity_of_detectives" data-title="The Uses of Diversity — The Domesticity of Detectives" data-chapter="Story 05 The Domesticity of Detectives" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_domesticity_of_detectives" data-title="The Uses of Diversity — The Domesticity of Detectives" data-chapter="The Domesticity of Detectives" data-kind="story"></span>
 
 
 The Domesticity of Detectives
@@ -5543,7 +5543,7 @@ itself has been--a French masterpiece; Gesta Dei per Francos.
 
 
 
-<span class="atom-split" data-atom="story_06_george_meredith" data-title="The Uses of Diversity — George Meredith" data-chapter="Story 06 George Meredith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_george_meredith" data-title="The Uses of Diversity — George Meredith" data-chapter="George Meredith" data-kind="story"></span>
 
 
 George Meredith
@@ -5637,11 +5637,11 @@ people for being quaint or eccentric, and rebukes them quaintly
 and eccentrically.  He says of [[Nature]], the great earth-mother,
 whom he worshipped:
 
-  ... She by one sure sign can read,
-  Have they but held her laws and [[Nature|nature]] dear;
-  They mouth no sentence of inverted wit.
-  More prizes she her beasts than this high breed
-  Wry in the shape she wastes her milk to rear.
+... She by one sure sign can read,
+Have they but held her laws and [[Nature|nature]] dear;
+They mouth no sentence of inverted wit.
+More prizes she her beasts than this high breed
+Wry in the shape she wastes her milk to rear.
 
 That is the mark of the truly great man:  that he sees
 the [[Common Man|common man]] afar off, and worships him.  The great man tries
@@ -5652,7 +5652,7 @@ in an awful sense for we can all see through him.
 
 
 
-<span class="atom-split" data-atom="story_07_the_irishman" data-title="The Uses of Diversity — The Irishman" data-chapter="Story 07 The Irishman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_irishman" data-title="The Uses of Diversity — The Irishman" data-chapter="The Irishman" data-kind="story"></span>
 
 
 The Irishman
@@ -5779,7 +5779,7 @@ to [[Dawn|dawn]] on us that he is a man.
 
 
 
-<span class="atom-split" data-atom="story_08_ireland_and_the_domestic_drama" data-title="The Uses of Diversity — Ireland and the Domestic Drama" data-chapter="Story 08 Ireland and the Domestic Drama" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_ireland_and_the_domestic_drama" data-title="The Uses of Diversity — Ireland and the Domestic Drama" data-chapter="Ireland and the Domestic Drama" data-kind="story"></span>
 
 
 Ireland and the Domestic Drama
@@ -5912,7 +5912,7 @@ gifts can be seen.
 
 
 
-<span class="atom-split" data-atom="story_09_the_japanese" data-title="The Uses of Diversity — The Japanese" data-chapter="Story 09 The Japanese" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_japanese" data-title="The Uses of Diversity — The Japanese" data-chapter="The Japanese" data-kind="story"></span>
 
 
 The Japanese
@@ -6054,7 +6054,7 @@ of his enemies more easy?
 
 
 
-<span class="atom-split" data-atom="story_10_christian_science" data-title="The Uses of Diversity — Christian Science" data-chapter="Story 10 Christian Science" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_christian_science" data-title="The Uses of Diversity — Christian Science" data-chapter="Christian Science" data-kind="story"></span>
 
 
 Christian Science
@@ -6183,7 +6183,7 @@ as a purely spiritual religion.
 
 
 
-<span class="atom-split" data-atom="story_11_the_lawlessness_of_lawyers" data-title="The Uses of Diversity — The Lawlessness of Lawyers" data-chapter="Story 11 The Lawlessness of Lawyers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_lawlessness_of_lawyers" data-title="The Uses of Diversity — The Lawlessness of Lawyers" data-chapter="The Lawlessness of Lawyers" data-kind="story"></span>
 
 
 The Lawlessness of Lawyers
@@ -6360,7 +6360,7 @@ have never lost that rare and even awful thing, the respect of the poor.
 
 
 
-<span class="atom-split" data-atom="story_12_our_latin_relations" data-title="The Uses of Diversity — Our Latin Relations" data-chapter="Story 12 Our Latin Relations" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_our_latin_relations" data-title="The Uses of Diversity — Our Latin Relations" data-chapter="Our Latin Relations" data-kind="story"></span>
 
 
 Our Latin Relations
@@ -6485,7 +6485,7 @@ The enthusiasms of semi-savages do not last.
 
 
 
-<span class="atom-split" data-atom="story_13_on_pigs_as_pets" data-title="The Uses of Diversity — On Pigs as Pets" data-chapter="Story 13 On Pigs as Pets" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_on_pigs_as_pets" data-title="The Uses of Diversity — On Pigs as Pets" data-chapter="On Pigs as Pets" data-kind="story"></span>
 
 
 On Pigs as Pets
@@ -6622,7 +6622,7 @@ to women, children, [[Animals|animals]], and we will argue again.
 
 
 
-<span class="atom-split" data-atom="story_14_the_romance_of_rostand" data-title="The Uses of Diversity — The Romance of Rostand" data-chapter="Story 14 The Romance of Rostand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_romance_of_rostand" data-title="The Uses of Diversity — The Romance of Rostand" data-chapter="The Romance of Rostand" data-kind="story"></span>
 
 
 The [[Romance]] of Rostand
@@ -6732,7 +6732,7 @@ should remain as a feather in his cap.
 
 
 
-<span class="atom-split" data-atom="story_15_wishes" data-title="The Uses of Diversity — Wishes" data-chapter="Story 15 Wishes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_wishes" data-title="The Uses of Diversity — Wishes" data-chapter="Wishes" data-kind="story"></span>
 
 
 Wishes
@@ -6830,8 +6830,8 @@ And I think that something of this healthy [[Fear|fear]] of losing
 sentiment of the Three Wishes; the sentiment which says,
 in the words of Thackeray:
 
-  Fairy roses, fairy rings
-  Turn out sometimes troublesome things.
+Fairy roses, fairy rings
+Turn out sometimes troublesome things.
 
 Now the transition may seem queer; but this power of seeing that a
 tree isthere, in spite of you and me, that it holds of God and its
@@ -6865,7 +6865,7 @@ get into your head what is meant by an immovable post.
 
 
 
-<span class="atom-split" data-atom="story_16_the_futurists" data-title="The Uses of Diversity — The Futurists" data-chapter="Story 16 The Futurists" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_futurists" data-title="The Uses of Diversity — The Futurists" data-chapter="The Futurists" data-kind="story"></span>
 
 
 The Futurists
@@ -7006,7 +7006,7 @@ in finding out.
 
 
 
-<span class="atom-split" data-atom="story_17_the_evolution_of_emma" data-title="The Uses of Diversity — The Evolution of Emma" data-chapter="Story 17 The Evolution of Emma" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_evolution_of_emma" data-title="The Uses of Diversity — The Evolution of Emma" data-chapter="The Evolution of Emma" data-kind="story"></span>
 
 
 The Evolution of [[Emma]]
@@ -7168,7 +7168,7 @@ narrow as a class and broadened only as a sect.
 
 
 
-<span class="atom-split" data-atom="story_18_the_pseudo_scientific_books" data-title="The Uses of Diversity — The Pseudo-Scientific Books" data-chapter="Story 18 The Pseudo Scientific Books" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_pseudo_scientific_books" data-title="The Uses of Diversity — The Pseudo-Scientific Books" data-chapter="The Pseudo Scientific Books" data-kind="story"></span>
 
 
 The Pseudo-Scientific Books
@@ -7305,7 +7305,7 @@ on the right side of the [[Road|road]] and Englishmen on the left.
 
 
 
-<span class="atom-split" data-atom="story_19_the_humour_of_king_herod" data-title="The Uses of Diversity — The Humour of King Herod" data-chapter="Story 19 The Humour of King Herod" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_humour_of_king_herod" data-title="The Uses of Diversity — The Humour of King Herod" data-chapter="The Humour of King Herod" data-kind="story"></span>
 
 
 The [[Humour]] of [[King]] Herod
@@ -7425,7 +7425,7 @@ the old popular [[Paradox|paradox]] has returned.
 
 
 
-<span class="atom-split" data-atom="story_20_the_silver_goblets" data-title="The Uses of Diversity — The Silver Goblets" data-chapter="Story 20 The Silver Goblets" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_silver_goblets" data-title="The Uses of Diversity — The Silver Goblets" data-chapter="The Silver Goblets" data-kind="story"></span>
 
 
 The Silver Goblets
@@ -7552,7 +7552,7 @@ The modern method is to sell Shakespeare for thirty pieces of silver.
 
 
 
-<span class="atom-split" data-atom="story_21_the_duty_of_the_historian" data-title="The Uses of Diversity — The Duty of the Historian" data-chapter="Story 21 The Duty of the Historian" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_duty_of_the_historian" data-title="The Uses of Diversity — The Duty of the Historian" data-chapter="The Duty of the Historian" data-kind="story"></span>
 
 
 The Duty of the Historian
@@ -7697,7 +7697,7 @@ the secret society may even be dissolved; but we all know the secret.
 
 
 
-<span class="atom-split" data-atom="story_23_mormonism" data-title="The Uses of Diversity — Mormonism" data-chapter="Story 23 Mormonism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_mormonism" data-title="The Uses of Diversity — Mormonism" data-chapter="Mormonism" data-kind="story"></span>
 
 
 [[Mormonism]]
@@ -7832,7 +7832,7 @@ that they added polygamy.
 
 
 
-<span class="atom-split" data-atom="story_24_pageants_and_dress" data-title="The Uses of Diversity — Pageants and Dress" data-chapter="Story 24 Pageants and Dress" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_pageants_and_dress" data-title="The Uses of Diversity — Pageants and Dress" data-chapter="Pageants and Dress" data-kind="story"></span>
 
 
 Pageants and Dress
@@ -7979,7 +7979,7 @@ it who have always seen it.
 
 
 
-<span class="atom-split" data-atom="story_25_on_stage_costume" data-title="The Uses of Diversity — On Stage Costume" data-chapter="Story 25 On Stage Costume" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_on_stage_costume" data-title="The Uses of Diversity — On Stage Costume" data-chapter="On Stage Costume" data-kind="story"></span>
 
 
 On Stage Costume
@@ -8089,8 +8089,8 @@ the clumsiness of the uncultured is:  thing quite peculiar
 to those lazier Christian countries where the Christian gentleman
 has been evolved:
 
-  For nothing in this world can be amiss
-  When simpleness and duty tender it.
+For nothing in this world can be amiss
+When simpleness and duty tender it.
 
 Or, again, in that noble scrap of sceptical magnanimity which was
 unaccountably cut out in the last performance:
@@ -8134,7 +8134,7 @@ and the tale.
 
 
 
-<span class="atom-split" data-atom="story_26_the_yule_log_and_the_democrat" data-title="The Uses of Diversity — The Yule Log and the Democrat" data-chapter="Story 26 The Yule Log and the Democrat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_yule_log_and_the_democrat" data-title="The Uses of Diversity — The Yule Log and the Democrat" data-chapter="The Yule Log and the Democrat" data-kind="story"></span>
 
 
 The Yule Log and the Democrat
@@ -8299,7 +8299,7 @@ habitation and a Name.
 
 
 
-<span class="atom-split" data-atom="story_27_more_thoughts_on_christmas" data-title="The Uses of Diversity — More Thoughts on Christmas" data-chapter="Story 27 More Thoughts on Christmas" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_more_thoughts_on_christmas" data-title="The Uses of Diversity — More Thoughts on Christmas" data-chapter="More Thoughts on Christmas" data-kind="story"></span>
 
 
 More Thoughts on Christmas
@@ -8430,7 +8430,7 @@ we know most about Christmas.
 
 
 
-<span class="atom-split" data-atom="story_28_dickens_again" data-title="The Uses of Diversity — Dickens Again" data-chapter="Story 28 Dickens Again" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_dickens_again" data-title="The Uses of Diversity — Dickens Again" data-chapter="Dickens Again" data-kind="story"></span>
 
 
 Dickens Again
@@ -8549,7 +8549,7 @@ that Dickens is in touch with its mystery.
 
 
 
-<span class="atom-split" data-atom="story_29_taffy" data-title="The Uses of Diversity — Taffy" data-chapter="Story 29 Taffy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_taffy" data-title="The Uses of Diversity — Taffy" data-chapter="Taffy" data-kind="story"></span>
 
 
 Taffy
@@ -8684,7 +8684,7 @@ on all occasions.
 
 
 
-<span class="atom-split" data-atom="story_30_ego_et_shavius_meus" data-title="The Uses of Diversity — &quot;Ego et Shavius Meus&quot;" data-chapter="Story 30 Ego et Shavius Meus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_ego_et_shavius_meus" data-title="The Uses of Diversity — &quot;Ego et Shavius Meus&quot;" data-chapter="Ego et Shavius Meus" data-kind="story"></span>
 
 
 "Ego et Shavius Meus"
@@ -8808,7 +8808,7 @@ and I shall return, with a lowly air, to literature.
 
 
 
-<span class="atom-split" data-atom="story_31_the_plan_for_a_new_universe" data-title="The Uses of Diversity — The Plan for a New Universe" data-chapter="Story 31 The Plan for a New Universe" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_plan_for_a_new_universe" data-title="The Uses of Diversity — The Plan for a New Universe" data-chapter="The Plan for a New Universe" data-kind="story"></span>
 
 
 The Plan for a New Universe
@@ -8984,7 +8984,7 @@ the universe is half-witted.
 
 
 
-<span class="atom-split" data-atom="story_32_george_wyndham" data-title="The Uses of Diversity — George Wyndham" data-chapter="Story 32 George Wyndham" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_george_wyndham" data-title="The Uses of Diversity — George Wyndham" data-chapter="George Wyndham" data-kind="story"></span>
 
 
 George Wyndham
@@ -9129,7 +9129,7 @@ wings upon the [[Wind|wind]].
 
 
 
-<span class="atom-split" data-atom="story_33_stupidities" data-title="The Uses of Diversity — Stupidities" data-chapter="Story 33 Stupidities" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_stupidities" data-title="The Uses of Diversity — Stupidities" data-chapter="Stupidities" data-kind="story"></span>
 
 
 Four Stupidities
@@ -9256,7 +9256,7 @@ fill the bottle with [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="story_34_on_historical_novels" data-title="The Uses of Diversity — On Historical Novels" data-chapter="Story 34 On Historical Novels" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_on_historical_novels" data-title="The Uses of Diversity — On Historical Novels" data-chapter="On Historical Novels" data-kind="story"></span>
 
 
 On Historical Novels
@@ -9371,7 +9371,7 @@ the writer might even read a little [[history]].
 
 
 
-<span class="atom-split" data-atom="story_35_on_monsters" data-title="The Uses of Diversity — On Monsters" data-chapter="Story 35 On Monsters" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_on_monsters" data-title="The Uses of Diversity — On Monsters" data-chapter="On Monsters" data-kind="story"></span>
 
 
 On Monsters
@@ -9541,7 +9541,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_01" data-title="The Uses of Diversity — Questions of Divorce (part 1)" data-chapter="Story 22 Questions of divorce Divorce" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_01" data-title="The Uses of Diversity — Questions of Divorce (part 1)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
 
 
 Questions of [[divorce|Divorce]]
@@ -9658,7 +9658,7 @@ of the world.
 
 
 
-<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_02" data-title="The Uses of Diversity — Questions of Divorce (part 2)" data-chapter="Story 22 Questions of divorce Divorce" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_02" data-title="The Uses of Diversity — Questions of Divorce (part 2)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
 
 
 So, if you say that [[Marriage|marriage]] is for common people, but [[divorce]]

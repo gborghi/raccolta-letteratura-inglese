@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="queertrades" data-title="The Club of Queer Trades" data-chapter="" data-kind="intro"></span>
 
-# [[queertrades]]
 
 The Club of Queer Trades
 
@@ -86,8 +85,8 @@ I dare not say a word.  The first of my revelations, at any rate,
 shall be concerned with the Club of Queer Trades, which, as I
 have said, was one of this class, one which I was almost bound
 to come across sooner or later, because of my singular hobby.
-The wild youth of the metropolis call me facetiously `The King of Clubs'.
-They also call me `The Cherub', in allusion to the roseate and youthful
+The wild youth of the metropolis call me facetiously ‘The King of Clubs'.
+They also call me ‘The Cherub', in allusion to the roseate and youthful
 appearance I have presented in my declining years.  I only [[Hope|hope]]
 the spirits in the better world have as good dinners as I have.
 But the finding of the Club of Queer Trades has one very curious thing
@@ -658,9 +657,9 @@ The four of us cowered instantly under the archway, rigid, except for
 the old judge and his convulsion of merriment.
 
 "Now," hissed Rupert Grant, turning his pale face and burning eyes
-suddenly over his shoulder, "when I say `Four', follow me with a rush.
-If I say `Hold him', pin the fellows down, whoever they are.
-If I say `Stop', stop.  I shall say that if there are more than three.
+suddenly over his shoulder, "when I say ‘Four', follow me with a rush.
+If I say ‘Hold him', pin the fellows down, whoever they are.
+If I say ‘Stop', stop.  I shall say that if there are more than three.
 If they attack us I shall empty my revolver on them.  Basil, have your
 sword-stick ready.  Now--one, two three, four!"
 
@@ -748,16 +747,16 @@ The Major looked at it; whether he found it all right or not will
 appear later, but he found it like this:
 
 Major Brown to P. G. Northover.  L s.  d.
- January 1, to account rendered                                    5   6  0
- May 9, to potting and embedding of zoo pansies                    2   0  0
- To cost of trolley with flowers                                   0  15  0
- To hiring of man with trolley                                     0   5  0
- To hire of house and garden for one day                           1   0  0
- To furnishing of room in peacock curtains, copper ornaments, etc. 3   0  0
- To salary of Miss Jameson                                         1   0  0
- To salary of Mr Plover                                            1   0  0
-                                                                 ----------
-                                                           Total L14   6  0
+January 1, to account rendered                                    5   6  0
+May 9, to potting and embedding of zoo pansies                    2   0  0
+To cost of trolley with flowers                                   0  15  0
+To hiring of man with trolley                                     0   5  0
+To hire of house and garden for one day                           1   0  0
+To furnishing of room in peacock curtains, copper ornaments, etc. 3   0  0
+To salary of Miss Jameson                                         1   0  0
+To salary of Mr Plover                                            1   0  0
+----------
+Total L14   6  0
 A Remittance will oblige.
 
 "What," said Brown, after a dead pause, and with eyes that seemed
@@ -878,7 +877,7 @@ his dark eyes on the other's face.
 "Major," said he, "did you ever, as you walked along the empty
 street upon some idle afternoon, feel the utter hunger
 for something to happen--something, in the splendid words of
-Walt Whitman:  `Something pernicious and dread; something far removed
+Walt Whitman:  ‘Something pernicious and dread; something far removed
 from a puny and pious life; something unproved; something in a trance;
 something loosed from its anchorage, and driving free.'
 Did you ever feel that?"
@@ -940,7 +939,7 @@ the scheme excellent.  But I don't think--" He paused a moment,
 and looked dreamily out of the [[Window|window]].  "I don't think you will find
 me in it.  Somehow, when one's seen--seen the thing itself, you know--
 [[Blood|blood]] and men screaming, one feels about having a little [[house]] and
-a little hobby; in the [[Bible]], you know, `There remaineth a rest'."
+a little hobby; in the [[Bible]], you know, ‘There remaineth a rest'."
 
 Northover bowed.  Then after a pause he said:
 
@@ -994,7 +993,7 @@ desperate desire to know the end of it all."
 
 "The end of it all?"
 
-"Yes," said the Major.  "`Jackals', and the title-deeds, and `Death
+"Yes," said the Major.  "‘Jackals', and the title-deeds, and ‘Death
 to Major Brown'."
 
 The agent's face grew grave, but his eyes were amused.
@@ -1294,7 +1293,7 @@ I am really surprised to see a criminal enter there."
 
 "My good fellow," I said firmly, striking my foot on the pavement,
 "the truth of this affair is very simple.  To use your own eloquent
-language, you have the `slight disadvantage' of being off your head.
+language, you have the ‘slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
 because he enters an honest man's door.  The thing is too monstrous.
@@ -1648,7 +1647,7 @@ for four minutes?"
 "Of course," I said, panting.
 
 "Then help me to catch that man in front and hold him down.
-Do it at once when I say `Now'. Now!"
+Do it at once when I say ‘Now'. Now!"
 
 We sprang on Sir Walter Cholmondeliegh, and rolled that portly
 old gentleman on his back.  He fought with a commendable valour,
@@ -1968,7 +1967,7 @@ set me free to do so, I noted them down on a piece of paper.
 I believe I have it here."  He fumbled in his breast-pocket, bringing out
 mild things, note-books, circulars and programmes of village concerts.
 "I heard Miss Mowbray say to Miss James, the following words:
-`Now's your [[Time|time]], Bill.'"
+‘Now's your [[Time|time]], Bill.'"
 
 He gazed at me for a few moments after making this announcement,
 gravely and unflinchingly, as if conscious that here he was unshaken
@@ -1977,15 +1976,15 @@ towards the [[Fire|fire]].
 
 "This appeared to me remarkable.  I could not by any means understand it.
 It seemed to me first of all peculiar that one maiden lady should
-address another maiden lady as `Bill'. My experience, as I have said,
+address another maiden lady as ‘Bill'. My experience, as I have said,
 may be incomplete; maiden ladies may have among themselves and in
 exclusively spinster circles wilder customs than I am aware of.
 But it seemed to me odd, and I could almost have sworn (if you will
 not misunderstand the phrase), I should have been strongly impelled
-to maintain at the time that the words, `Now's your [[Time|time]], Bill', were by
+to maintain at the time that the words, ‘Now's your [[Time|time]], Bill', were by
 no means pronounced with that upper-class intonation which, as I have
 already said, had up to now characterized Miss [[Mowbray]]'s conversation.
-In fact, the words, `Now's your time, Bill', would have been,
+In fact, the words, ‘Now's your time, Bill', would have been,
 I fancy, unsuitable if pronounced with that upper-class intonation.
 
 "I was surprised, I repeat, then, at the remark.  But I was still more
@@ -1996,7 +1995,7 @@ She was still knitting, and I supposed that this erect posture
 against the door was only an eccentricity of spinsterhood and an
 oblivion of my intended departure.
 
-"I said genially, `I am so sorry to disturb you, Miss James,
+"I said genially, ‘I am so sorry to disturb you, Miss James,
 but I must really be going.  I have--er--' I stopped here,
 for the words she had uttered in reply, though singularly brief and
 in tone extremely business-like, were such as to render that arrest
@@ -2004,11 +2003,11 @@ of my remarks, I think, natural and excusable.  I have these words
 also noted down.  I have not the least idea of their meaning;
 so I have only been able to render them phonetically.  But she said,"
 and Mr Shorter peered short-sightedly at his papers, "she said:
-`Chuck it, fat 'ead,' and she added something that sounded like `It's
-a kop', or (possibly) `a kopt'.  And then the last cord, either of my
+‘Chuck it, fat 'ead,' and she added something that sounded like ‘It's
+a kop', or (possibly) ‘a kopt'.  And then the last cord, either of my
 sanity or the sanity of the universe, snapped suddenly.  My esteemed
 friend and helper, Miss Brett, standing by the mantelpiece, said:
-`Put 'is old 'ead in a bag, Sam, and tie 'im up before you start jawin'.
+‘Put 'is old 'ead in a bag, Sam, and tie 'im up before you start jawin'.
 You'll be kopt yourselves some o' these days with this way of coin'
 things, har lar theater.'
 
@@ -2046,18 +2045,18 @@ It was all clear at last:  they were criminals dressed up as women,
 to kidnap me!  To kidnap the Vicar of Chuntsey, in Essex.  But why?
 Was it to be Nonconformists?
 
-"The brute leaning against the door called out carelessly, `'Urry up,
+"The brute leaning against the door called out carelessly, ‘'Urry up,
 'Arry. Show the old bloke what the game is, and let's get off.'
 
-"`Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--`why
+"‘Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--‘why
 should we show 'im the game?'
 
-"`If you take my advice you bloomin' [[Well|well]] will,' said the man at
-the door, whom they called Bill.  `A man wot knows wet 'e's doin'
+"‘If you take my advice you bloomin' [[Well|well]] will,' said the man at
+the door, whom they called Bill.  ‘A man wot knows wet 'e's doin'
 is worth ten wot don't, even if 'e's a potty old parson.'
 
-"`Bill's right enough,' said the coarse voice of the man who held me
-(it had been Miss [[Mowbray]]'s). `Bring out the picture, 'Arry.'
+"‘Bill's right enough,' said the coarse voice of the man who held me
+(it had been Miss [[Mowbray]]'s). ‘Bring out the picture, 'Arry.'
 
 "The man with the revolver walked across the room to where
 the other two women--I mean men--were turning over baggage,
@@ -2083,8 +2082,8 @@ of the details.  But there unmistakably was my face, my eyes, my nose
 and mouth, my head and hand, posed for a professional photographer.
 And I had never posed so for any photographer.
 
-"`Be'old the bloomin' miracle,' said the man with the revolver,
-with ill-timed facetiousness.  `Parson, prepare to meet your God.'
+"‘Be'old the bloomin' miracle,' said the man with the revolver,
+with ill-timed facetiousness.  ‘Parson, prepare to meet your God.'
 And with this he slid the glass out of the frame.  As the glass moved,
 I saw that part of the picture was painted on it in Chinese white,
 notably a pair of white whiskers and a clerical collar.
@@ -2094,8 +2093,8 @@ The old lady was as like me as one pin is like another.
 It had required only the whiskers and the collar to make it me
 in every hair.
 
-"`Entertainin', ain't it?' said the man described as 'Arry,
-as he shot the glass back again.  `Remarkable resemblance, parson.
+"‘Entertainin', ain't it?' said the man described as 'Arry,
+as he shot the glass back again.  ‘Remarkable resemblance, parson.
 Gratifyin' to the lady.  Gratifyin' to you.  And hi may hadd,
 particlery gratifyin' to us, as bein' the probable source of a
 very tolerable haul.  You know Colonel Hawker, the man who's come
@@ -2103,18 +2102,18 @@ to live in these parts, don't you?'
 
 "I nodded.
 
-"`[[Well]],' said the man 'Arry, pointing to the picture, `that's 'is mother.
+"‘[[Well]],' said the man 'Arry, pointing to the picture, ‘that's 'is mother.
 'Oo ran to catch 'im when 'e fell?  She did,' and he flung his
 fingers in a general gesture towards the photograph of the old lady
 who was exactly like me.
 
-"`Tell the old gent wot 'e's got to do and be done with it,' broke out
-Bill from the door.  `Look 'ere, Reverend Shorter, we ain't goin'
+"‘Tell the old gent wot 'e's got to do and be done with it,' broke out
+Bill from the door.  ‘Look 'ere, Reverend Shorter, we ain't goin'
 to do you no 'arm. We'll give you a sov.  for your trouble if you like.
 And as for the old woman's clothes--why, you'll look lovely in 'em.'
 
-"`You ain't much of a 'and at a description, Bill,' said the man
-behind me.  `Mr Shorter, it's like this.  We've got to see
+"‘You ain't much of a 'and at a description, Bill,' said the man
+behind me.  ‘Mr Shorter, it's like this.  We've got to see
 this man Hawker tonight.  Maybe 'e'll kiss us all and 'ave up
 the champagne when 'e sees us.  Maybe on the other 'and--'e
 won't. Maybe 'e'll be dead when we goes away.  Maybe not.
@@ -2122,17 +2121,17 @@ But we've got to see 'im. Now as you know, 'e shuts 'isself up and
 never opens the door to a soul; only you don't know why and we does.
 The only one as can ever get at 'im is 'is mother.  Well, it's a
 confounded funny coincidence,' he said, accenting the penultimate,
-`it's a very unusual piece of good luck, but you're 'is mother.'
+‘it's a very unusual piece of good luck, but you're 'is mother.'
 
-"`When first I saw 'er picture,' said the man Bill, shaking his head
-in a ruminant manner, `when I first saw it I said--old Shorter.
+"‘When first I saw 'er picture,' said the man Bill, shaking his head
+in a ruminant manner, ‘when I first saw it I said--old Shorter.
 Those were my exact words--old Shorter.'
 
-"`What do you mean, you wild creatures?'  I gasped.  `What am
+"‘What do you mean, you wild creatures?'  I gasped.  ‘What am
 I to do?'
 
-"`That's easy said, your 'oldness,' said the man with
-the revolver, good-humouredly; `you've got to put on those clothes,'
+"‘That's easy said, your 'oldness,' said the man with
+the revolver, good-humouredly; ‘you've got to put on those clothes,'
 and he pointed to a poke-bonnet and a heap of female clothes
 in the corner of the room.
 
@@ -2171,30 +2170,30 @@ and yet lady-like step, until at length I saw a lamp-post
 and a policeman standing under it.  I had made up my mind.
 Until we reached them we were all equally demure and silent and swift.
 When we reached them I suddenly flung myself against the railings
-and roared out:  `Hooray!  Hooray!  Hooray!  Rule Britannia!  Get your
+and roared out:  ‘Hooray!  Hooray!  Hooray!  Rule Britannia!  Get your
 'air cut.  Hoop-la!  Boo!'  It was a condition of no little novelty
 for a man in my position.
 
 "The constable instantly flashed his lantern on me, or the draggled,
-drunken old woman that was my travesty.  `Now then, mum,'
+drunken old woman that was my travesty.  ‘Now then, mum,'
 he began gruffly.
 
-"`Come along quiet, or I'll eat your heart,' cried Sam in my
-ear hoarsely.  `Stop, or I'll flay you.'  It was frightful to hear
+"‘Come along quiet, or I'll eat your heart,' cried Sam in my
+ear hoarsely.  ‘Stop, or I'll flay you.'  It was frightful to hear
 the words and see the neatly shawled old spinster who whispered them.
 
 "I yelled, and yelled--I was in for it now.  I screamed comic refrains
 that vulgar young men had sung, to my regret, at our village concerts;
 I rolled to and fro like a ninepin about to fall.
 
-"`If you can't get your friend on quiet, ladies,' said the policeman,
-`I shall have to take 'er up.  Drunk and disorderly she is right enough.'
+"‘If you can't get your friend on quiet, ladies,' said the policeman,
+‘I shall have to take 'er up.  Drunk and disorderly she is right enough.'
 
 "I redoubled my efforts.  I had not been brought up to this sort
 of thing; but I believe I eclipsed myself.  Words that I did not know
 I had ever heard of seemed to come pouring out of my open mouth.
 
-"`When we get you past,' whispered Bill, `you'll howl louder;
+"‘When we get you past,' whispered Bill, ‘you'll howl louder;
 you'll howl louder when we're burning your feet off.'
 
 "I screamed in my terror those awful [[songs]] of joy.  In all
@@ -2209,45 +2208,45 @@ and the perfect respectability of all our dresses would overcome
 the policeman and induce him to let us pass.  He wavered, so far
 as one can describe anything so solid as a policeman as wavering.
 I lurched suddenly forward and ran my head into his chest,
-calling out (if I remember correctly), `Oh, crikey, blimey, Bill.'
+calling out (if I remember correctly), ‘Oh, crikey, blimey, Bill.'
 It was at that moment that I remembered most dearly that I was
 the Vicar of Chuntsey, in Essex.
 
 "My desperate coup saved me.  The policeman had me hard by the back
 of the neck.
 
-"`You come along with me,' he began, but Bill cut in with his perfect
+"‘You come along with me,' he began, but Bill cut in with his perfect
 [[Imitation|imitation]] of a lady's finnicking voice.
 
-"`Oh, pray, constable, don't make a disturbance with our poor friend.
+"‘Oh, pray, constable, don't make a disturbance with our poor friend.
 We will get her quietly home.  She does drink too much, but she
 is quite a lady--only eccentric.'
 
-"`She butted me in the stomach,' said the policeman briefly.
+"‘She butted me in the stomach,' said the policeman briefly.
 
-"`Eccentricities of genius,' said Sam earnestly.
+"‘Eccentricities of genius,' said Sam earnestly.
 
-"`Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
-character of Miss James, `she wants looking after.'  `She does,'
-said the policeman, `but I'll look after her.'
+"‘Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
+character of Miss James, ‘she wants looking after.'  ‘She does,'
+said the policeman, ‘but I'll look after her.'
 
-"`That's no good,' cried Bill feverishly.  `She wants her friends.
+"‘That's no good,' cried Bill feverishly.  ‘She wants her friends.
 She wants a particular medicine we've got.'
 
-"`Yes,' assented Miss [[Mowbray]], with excitement, `no other medicine
+"‘Yes,' assented Miss [[Mowbray]], with excitement, ‘no other medicine
 any good, constable.  Complaint quite unique.'
 
-"`I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
+"‘I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
 the Vicar of Chuntsey.
 
-"`Look here, ladies,' said the constable sternly, `I don't
+"‘Look here, ladies,' said the constable sternly, ‘I don't
 like the eccentricity of your friend, and I don't like 'er [[songs]],
 or 'er 'ead in my stomach.  And now I come to think of it,
 I don't like the looks of you I've seen many as quiet dressed as you
 as was wrong 'uns. Who are you?'
 
-"`We've not our cards with us,' said Miss Mowbray,
-with indescribable dignity.  `Nor do we see why we should be insulted
+"‘We've not our cards with us,' said Miss Mowbray,
+with indescribable dignity.  ‘Nor do we see why we should be insulted
 by any Jack-in-office who chooses to be rude to ladies, when he is paid
 to protect them.  If you choose to take advantage of the weakness of our
 unfortunate friend, no [[Doubt|doubt]] you are legally entitled to take her.
@@ -2479,7 +2478,7 @@ Basil smiled also.  He intervened.
 "The fact is that Captain Fraser, who is one of my best friends,
 wanted us both out of the way very much.  He is sailing tonight
 for East Africa, and the lady with whom we were all to have dined is--
-er--what is I believe described as `the romance of his life'.
+er--what is I believe described as ‘the romance of his life'.
 He wanted that two hours with her, and employed these two reverend
 gentlemen to detain us at our houses so as to let him have
 the field to himself."
@@ -3447,7 +3446,7 @@ when you are guessing about any one who is, like our host,
 insane, the maddest thing is the most likely.  The second is
 to remember that very plain literal fact always seems fantastic.
 If Keith had taken a little brick box of a house in Clapham with nothing
-but railings in front of it and had written `The Elms' over it,
+but railings in front of it and had written ‘The Elms' over it,
 you wouldn't have thought there was anything fantastic about that.
 Simply because it was a great blaring, swaggering lie you would
 have believed it."
@@ -3780,7 +3779,7 @@ This morning I was clearing away the breakfast things,
 my sisters were both somewhat unwell, and had not come down.
 My brother had just gone out of the room, I believe, to fetch a book.
 He came back again, however, without it, and stood for some [[Time|time]]
-staring at the empty grate.  I said, `Were you looking for anything
+staring at the empty grate.  I said, ‘Were you looking for anything
 I could get?'  He did not answer, but this constantly happens,
 as he is often very abstracted.  I repeated my question,
 and still he did not answer.  Sometimes he is so wrapped up in his
@@ -3802,10 +3801,10 @@ His only answer was to shoot the leg straight at right angles
 to the other, as if pointing to the other with his toe to the wall.
 He was still looking quite gravely at the fireplace.
 
-"`James, what is the matter?'  I cried, for I was thoroughly frightened.
+"‘James, what is the matter?'  I cried, for I was thoroughly frightened.
 James gave three kicks in the air with the right leg, flung up the other,
 gave three kicks in the air with it also and spun round like a teetotum
-the other way.  `Are you mad?'  I cried.  `Why don't you answer me?'
+the other way.  ‘Are you mad?'  I cried.  ‘Why don't you answer me?'
 He had come to a standstill facing me, and was looking at me as
 he always does, with his lifted eyebrows and great spectacled eyes.
 When I had spoken he remained a second or two motionless, and then
@@ -4302,7 +4301,7 @@ to the milkman himself, I--"
 
 "[[Well]], to tell the [[Truth|truth]]," said Rupert, shifting restlessly from one
 foot to another, "the milkman himself, as far as merely physical
-appearances went, just said, `Milk, Miss,' and handed in the can.
+appearances went, just said, ‘Milk, Miss,' and handed in the can.
 That is not to say, of course, that he did not make some secret
 sign or some--"
 
@@ -4689,8 +4688,8 @@ or the violin, can only be perfectly understood by specialists.
 Still, the rudiments may be of public use.  Greenwood here,"
 indicating the little man in the blazer, "doesn't know one note
 of music from another.  Still, he knows something.  He knows enough
-to take off his hat when they play `God save the [[King]]'.  He doesn't
-take it off by mistake when they play `Oh, dem Golden Slippers'.
+to take off his hat when they play ‘God save the [[King]]'.  He doesn't
+take it off by mistake when they play ‘Oh, dem Golden Slippers'.
 Just in the same way science--"
 
 Here Mr Burrows stopped abruptly.  He was interrupted by an argument
@@ -5249,9 +5248,8 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_01" data-title="The Club of Queer Trades — Chapter 1 (part 1)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_01" data-title="The Club of Queer Trades — Chapter 1 (part 1)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 1)
 
 Chapter 1
 
@@ -5318,8 +5316,8 @@ I dare not say a word.  The first of my revelations, at any rate,
 shall be concerned with the Club of Queer Trades, which, as I
 have said, was one of this class, one which I was almost bound
 to come across sooner or later, because of my singular hobby.
-The wild youth of the metropolis call me facetiously `The King of Clubs'.
-They also call me `The Cherub', in allusion to the roseate and youthful
+The wild youth of the metropolis call me facetiously ‘The King of Clubs'.
+They also call me ‘The Cherub', in allusion to the roseate and youthful
 appearance I have presented in my declining years.  I only [[Hope|hope]]
 the spirits in the better world have as good dinners as I have.
 But the finding of the Club of Queer Trades has one very curious thing
@@ -5382,9 +5380,8 @@ were as follows:
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_02" data-title="The Club of Queer Trades — Chapter 1 (part 2)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_02" data-title="The Club of Queer Trades — Chapter 1 (part 2)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 2)
 
 "O Rowty-owty tiddly-owty Tiddly-owty tiddly-owty Highty-ighty
 tiddly-ighty Tiddly-ighty ow."
@@ -5520,9 +5517,8 @@ close to the Major.
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_03" data-title="The Club of Queer Trades — Chapter 1 (part 3)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_03" data-title="The Club of Queer Trades — Chapter 1 (part 3)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 3)
 
 "I'll tell you what, sir," he said.  "If you're interested in them things,
 you just get on to that wall."
@@ -5653,9 +5649,8 @@ proclamation from the dark street, again horribly articulate.
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_04" data-title="The Club of Queer Trades — Chapter 1 (part 4)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_04" data-title="The Club of Queer Trades — Chapter 1 (part 4)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 4)
 
 "Major Brown, Major Brown, how did the jackal die?"
 
@@ -5797,9 +5792,8 @@ like a fountain, at the [[Stars|stars]]."
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_05" data-title="The Club of Queer Trades — Chapter 1 (part 5)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_05" data-title="The Club of Queer Trades — Chapter 1 (part 5)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 5)
 
 "But what the deuce else can the letter be but criminal?"
 
@@ -5918,9 +5912,9 @@ The four of us cowered instantly under the archway, rigid, except for
 the old judge and his convulsion of merriment.
 
 "Now," hissed Rupert Grant, turning his pale face and burning eyes
-suddenly over his shoulder, "when I say `Four', follow me with a rush.
-If I say `Hold him', pin the fellows down, whoever they are.
-If I say `Stop', stop.  I shall say that if there are more than three.
+suddenly over his shoulder, "when I say ‘Four', follow me with a rush.
+If I say ‘Hold him', pin the fellows down, whoever they are.
+If I say ‘Stop', stop.  I shall say that if there are more than three.
 If they attack us I shall empty my revolver on them.  Basil, have your
 sword-stick ready.  Now--one, two three, four!"
 
@@ -5943,9 +5937,8 @@ the Major himself, the victim of the outrage, stepped forward.
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_06" data-title="The Club of Queer Trades — Chapter 1 (part 6)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_06" data-title="The Club of Queer Trades — Chapter 1 (part 6)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 6)
 
 The letter was in his hand, and he looked unusually grim.
 
@@ -6015,16 +6008,16 @@ The Major looked at it; whether he found it all right or not will
 appear later, but he found it like this:
 
 Major Brown to P. G. Northover.  L s.  d.
- January 1, to account rendered                                    5   6  0
- May 9, to potting and embedding of zoo pansies                    2   0  0
- To cost of trolley with flowers                                   0  15  0
- To hiring of man with trolley                                     0   5  0
- To hire of house and garden for one day                           1   0  0
- To furnishing of room in peacock curtains, copper ornaments, etc. 3   0  0
- To salary of Miss Jameson                                         1   0  0
- To salary of Mr Plover                                            1   0  0
-                                                                 ----------
-                                                           Total L14   6  0
+January 1, to account rendered                                    5   6  0
+May 9, to potting and embedding of zoo pansies                    2   0  0
+To cost of trolley with flowers                                   0  15  0
+To hiring of man with trolley                                     0   5  0
+To hire of house and garden for one day                           1   0  0
+To furnishing of room in peacock curtains, copper ornaments, etc. 3   0  0
+To salary of Miss Jameson                                         1   0  0
+To salary of Mr Plover                                            1   0  0
+----------
+Total L14   6  0
 A Remittance will oblige.
 
 "What," said Brown, after a dead pause, and with eyes that seemed
@@ -6089,9 +6082,8 @@ me what was the name of the man who lived in your house before you?"
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_07" data-title="The Club of Queer Trades — Chapter 1 (part 7)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_07" data-title="The Club of Queer Trades — Chapter 1 (part 7)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 7)
 
 The unhappy Major was only faintly more disturbed by this last
 and futile irrelevancy, and he answered vaguely:
@@ -6152,7 +6144,7 @@ his dark eyes on the other's face.
 "Major," said he, "did you ever, as you walked along the empty
 street upon some idle afternoon, feel the utter hunger
 for something to happen--something, in the splendid words of
-Walt Whitman:  `Something pernicious and dread; something far removed
+Walt Whitman:  ‘Something pernicious and dread; something far removed
 from a puny and pious life; something unproved; something in a trance;
 something loosed from its anchorage, and driving free.'
 Did you ever feel that?"
@@ -6214,14 +6206,13 @@ the scheme excellent.  But I don't think--" He paused a moment,
 and looked dreamily out of the [[Window|window]].  "I don't think you will find
 me in it.  Somehow, when one's seen--seen the thing itself, you know--
 [[Blood|blood]] and men screaming, one feels about having a little [[house]] and
-a little hobby; in the [[Bible]], you know, `There remaineth a rest'."
+a little hobby; in the [[Bible]], you know, ‘There remaineth a rest'."
 
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_08" data-title="The Club of Queer Trades — Chapter 1 (part 8)" data-chapter="Story 01 Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_08" data-title="The Club of Queer Trades — Chapter 1 (part 8)" data-chapter="Chapter 1" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 1 (part 8)
 
 Northover bowed.  Then after a pause he said:
 
@@ -6275,7 +6266,7 @@ desperate desire to know the end of it all."
 
 "The end of it all?"
 
-"Yes," said the Major.  "`Jackals', and the title-deeds, and `Death
+"Yes," said the Major.  "‘Jackals', and the title-deeds, and ‘Death
 to Major Brown'."
 
 The agent's face grew grave, but his eyes were amused.
@@ -6404,9 +6395,8 @@ un mondo migliore.
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_01" data-title="The Club of Queer Trades — Chapter 2 (part 1)" data-chapter="Story 02 Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_01" data-title="The Club of Queer Trades — Chapter 2 (part 1)" data-chapter="Chapter 2" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 2 (part 1)
 
 Chapter 2
 
@@ -6539,9 +6529,8 @@ of God and the stars, look at his hat."
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_02" data-title="The Club of Queer Trades — Chapter 2 (part 2)" data-chapter="Story 02 Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_02" data-title="The Club of Queer Trades — Chapter 2 (part 2)" data-chapter="Chapter 2" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 2 (part 2)
 
 I stirred uncomfortably.
 
@@ -6680,13 +6669,12 @@ I am really surprised to see a criminal enter there."
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_03" data-title="The Club of Queer Trades — Chapter 2 (part 3)" data-chapter="Story 02 Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_03" data-title="The Club of Queer Trades — Chapter 2 (part 3)" data-chapter="Chapter 2" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 2 (part 3)
 
 "My good fellow," I said firmly, striking my foot on the pavement,
 "the truth of this affair is very simple.  To use your own eloquent
-language, you have the `slight disadvantage' of being off your head.
+language, you have the ‘slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
 because he enters an honest man's door.  The thing is too monstrous.
@@ -6822,9 +6810,8 @@ came from within.
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_04" data-title="The Club of Queer Trades — Chapter 2 (part 4)" data-chapter="Story 02 Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_04" data-title="The Club of Queer Trades — Chapter 2 (part 4)" data-chapter="Chapter 2" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 2 (part 4)
 
 "I only ask," said Basil, "because of the last two friends of yours
 who had the modern mind; one thought it wrong to eat fishes
@@ -6963,9 +6950,8 @@ are not going."
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_05" data-title="The Club of Queer Trades — Chapter 2 (part 5)" data-chapter="Story 02 Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_05" data-title="The Club of Queer Trades — Chapter 2 (part 5)" data-chapter="Chapter 2" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 2 (part 5)
 
 "[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
 could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
@@ -7054,7 +7040,7 @@ for four minutes?"
 "Of course," I said, panting.
 
 "Then help me to catch that man in front and hold him down.
-Do it at once when I say `Now'. Now!"
+Do it at once when I say ‘Now'. Now!"
 
 We sprang on Sir Walter Cholmondeliegh, and rolled that portly
 old gentleman on his back.  He fought with a commendable valour,
@@ -7171,9 +7157,8 @@ of Queer Trades."
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_01" data-title="The Club of Queer Trades — Chapter 3 (part 1)" data-chapter="Story 03 Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_01" data-title="The Club of Queer Trades — Chapter 3 (part 1)" data-chapter="Chapter 3" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 3 (part 1)
 
 Chapter 3
 
@@ -7315,9 +7300,8 @@ than comic, and I said respectfully:
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_02" data-title="The Club of Queer Trades — Chapter 3 (part 2)" data-chapter="Story 03 Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_02" data-title="The Club of Queer Trades — Chapter 3 (part 2)" data-chapter="Chapter 3" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 3 (part 2)
 
 "I will begin at the beginning," said Mr Shorter, "and I
 will tell my story with the utmost possible precision.
@@ -7388,7 +7372,7 @@ set me free to do so, I noted them down on a piece of paper.
 I believe I have it here."  He fumbled in his breast-pocket, bringing out
 mild things, note-books, circulars and programmes of village concerts.
 "I heard Miss Mowbray say to Miss James, the following words:
-`Now's your [[Time|time]], Bill.'"
+‘Now's your [[Time|time]], Bill.'"
 
 He gazed at me for a few moments after making this announcement,
 gravely and unflinchingly, as if conscious that here he was unshaken
@@ -7397,15 +7381,15 @@ towards the [[Fire|fire]].
 
 "This appeared to me remarkable.  I could not by any means understand it.
 It seemed to me first of all peculiar that one maiden lady should
-address another maiden lady as `Bill'. My experience, as I have said,
+address another maiden lady as ‘Bill'. My experience, as I have said,
 may be incomplete; maiden ladies may have among themselves and in
 exclusively spinster circles wilder customs than I am aware of.
 But it seemed to me odd, and I could almost have sworn (if you will
 not misunderstand the phrase), I should have been strongly impelled
-to maintain at the time that the words, `Now's your [[Time|time]], Bill', were by
+to maintain at the time that the words, ‘Now's your [[Time|time]], Bill', were by
 no means pronounced with that upper-class intonation which, as I have
 already said, had up to now characterized Miss [[Mowbray]]'s conversation.
-In fact, the words, `Now's your time, Bill', would have been,
+In fact, the words, ‘Now's your time, Bill', would have been,
 I fancy, unsuitable if pronounced with that upper-class intonation.
 
 "I was surprised, I repeat, then, at the remark.  But I was still more
@@ -7416,7 +7400,7 @@ She was still knitting, and I supposed that this erect posture
 against the door was only an eccentricity of spinsterhood and an
 oblivion of my intended departure.
 
-"I said genially, `I am so sorry to disturb you, Miss James,
+"I said genially, ‘I am so sorry to disturb you, Miss James,
 but I must really be going.  I have--er--' I stopped here,
 for the words she had uttered in reply, though singularly brief and
 in tone extremely business-like, were such as to render that arrest
@@ -7424,20 +7408,19 @@ of my remarks, I think, natural and excusable.  I have these words
 also noted down.  I have not the least idea of their meaning;
 so I have only been able to render them phonetically.  But she said,"
 and Mr Shorter peered short-sightedly at his papers, "she said:
-`Chuck it, fat 'ead,' and she added something that sounded like `It's
-a kop', or (possibly) `a kopt'.  And then the last cord, either of my
+‘Chuck it, fat 'ead,' and she added something that sounded like ‘It's
+a kop', or (possibly) ‘a kopt'.  And then the last cord, either of my
 sanity or the sanity of the universe, snapped suddenly.  My esteemed
 friend and helper, Miss Brett, standing by the mantelpiece, said:
-`Put 'is old 'ead in a bag, Sam, and tie 'im up before you start jawin'.
+‘Put 'is old 'ead in a bag, Sam, and tie 'im up before you start jawin'.
 You'll be kopt yourselves some o' these days with this way of coin'
 things, har lar theater.'
 
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_03" data-title="The Club of Queer Trades — Chapter 3 (part 3)" data-chapter="Story 03 Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_03" data-title="The Club of Queer Trades — Chapter 3 (part 3)" data-chapter="Chapter 3" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 3 (part 3)
 
 "My head went round and round.  Was it really true, as I had suddenly
 fancied a moment before, that unmarried ladies had some dreadful
@@ -7473,18 +7456,18 @@ It was all clear at last:  they were criminals dressed up as women,
 to kidnap me!  To kidnap the Vicar of Chuntsey, in Essex.  But why?
 Was it to be Nonconformists?
 
-"The brute leaning against the door called out carelessly, `'Urry up,
+"The brute leaning against the door called out carelessly, ‘'Urry up,
 'Arry. Show the old bloke what the game is, and let's get off.'
 
-"`Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--`why
+"‘Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--‘why
 should we show 'im the game?'
 
-"`If you take my advice you bloomin' [[Well|well]] will,' said the man at
-the door, whom they called Bill.  `A man wot knows wet 'e's doin'
+"‘If you take my advice you bloomin' [[Well|well]] will,' said the man at
+the door, whom they called Bill.  ‘A man wot knows wet 'e's doin'
 is worth ten wot don't, even if 'e's a potty old parson.'
 
-"`Bill's right enough,' said the coarse voice of the man who held me
-(it had been Miss [[Mowbray]]'s). `Bring out the picture, 'Arry.'
+"‘Bill's right enough,' said the coarse voice of the man who held me
+(it had been Miss [[Mowbray]]'s). ‘Bring out the picture, 'Arry.'
 
 "The man with the revolver walked across the room to where
 the other two women--I mean men--were turning over baggage,
@@ -7510,8 +7493,8 @@ of the details.  But there unmistakably was my face, my eyes, my nose
 and mouth, my head and hand, posed for a professional photographer.
 And I had never posed so for any photographer.
 
-"`Be'old the bloomin' miracle,' said the man with the revolver,
-with ill-timed facetiousness.  `Parson, prepare to meet your God.'
+"‘Be'old the bloomin' miracle,' said the man with the revolver,
+with ill-timed facetiousness.  ‘Parson, prepare to meet your God.'
 And with this he slid the glass out of the frame.  As the glass moved,
 I saw that part of the picture was painted on it in Chinese white,
 notably a pair of white whiskers and a clerical collar.
@@ -7521,8 +7504,8 @@ The old lady was as like me as one pin is like another.
 It had required only the whiskers and the collar to make it me
 in every hair.
 
-"`Entertainin', ain't it?' said the man described as 'Arry,
-as he shot the glass back again.  `Remarkable resemblance, parson.
+"‘Entertainin', ain't it?' said the man described as 'Arry,
+as he shot the glass back again.  ‘Remarkable resemblance, parson.
 Gratifyin' to the lady.  Gratifyin' to you.  And hi may hadd,
 particlery gratifyin' to us, as bein' the probable source of a
 very tolerable haul.  You know Colonel Hawker, the man who's come
@@ -7530,18 +7513,18 @@ to live in these parts, don't you?'
 
 "I nodded.
 
-"`[[Well]],' said the man 'Arry, pointing to the picture, `that's 'is mother.
+"‘[[Well]],' said the man 'Arry, pointing to the picture, ‘that's 'is mother.
 'Oo ran to catch 'im when 'e fell?  She did,' and he flung his
 fingers in a general gesture towards the photograph of the old lady
 who was exactly like me.
 
-"`Tell the old gent wot 'e's got to do and be done with it,' broke out
-Bill from the door.  `Look 'ere, Reverend Shorter, we ain't goin'
+"‘Tell the old gent wot 'e's got to do and be done with it,' broke out
+Bill from the door.  ‘Look 'ere, Reverend Shorter, we ain't goin'
 to do you no 'arm. We'll give you a sov.  for your trouble if you like.
 And as for the old woman's clothes--why, you'll look lovely in 'em.'
 
-"`You ain't much of a 'and at a description, Bill,' said the man
-behind me.  `Mr Shorter, it's like this.  We've got to see
+"‘You ain't much of a 'and at a description, Bill,' said the man
+behind me.  ‘Mr Shorter, it's like this.  We've got to see
 this man Hawker tonight.  Maybe 'e'll kiss us all and 'ave up
 the champagne when 'e sees us.  Maybe on the other 'and--'e
 won't. Maybe 'e'll be dead when we goes away.  Maybe not.
@@ -7549,24 +7532,23 @@ But we've got to see 'im. Now as you know, 'e shuts 'isself up and
 never opens the door to a soul; only you don't know why and we does.
 The only one as can ever get at 'im is 'is mother.  Well, it's a
 confounded funny coincidence,' he said, accenting the penultimate,
-`it's a very unusual piece of good luck, but you're 'is mother.'
+‘it's a very unusual piece of good luck, but you're 'is mother.'
 
-"`When first I saw 'er picture,' said the man Bill, shaking his head
-in a ruminant manner, `when I first saw it I said--old Shorter.
+"‘When first I saw 'er picture,' said the man Bill, shaking his head
+in a ruminant manner, ‘when I first saw it I said--old Shorter.
 Those were my exact words--old Shorter.'
 
-"`What do you mean, you wild creatures?'  I gasped.  `What am
+"‘What do you mean, you wild creatures?'  I gasped.  ‘What am
 I to do?'
 
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_04" data-title="The Club of Queer Trades — Chapter 3 (part 4)" data-chapter="Story 03 Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_04" data-title="The Club of Queer Trades — Chapter 3 (part 4)" data-chapter="Chapter 3" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 3 (part 4)
 
-"`That's easy said, your 'oldness,' said the man with
-the revolver, good-humouredly; `you've got to put on those clothes,'
+"‘That's easy said, your 'oldness,' said the man with
+the revolver, good-humouredly; ‘you've got to put on those clothes,'
 and he pointed to a poke-bonnet and a heap of female clothes
 in the corner of the room.
 
@@ -7605,30 +7587,30 @@ and yet lady-like step, until at length I saw a lamp-post
 and a policeman standing under it.  I had made up my mind.
 Until we reached them we were all equally demure and silent and swift.
 When we reached them I suddenly flung myself against the railings
-and roared out:  `Hooray!  Hooray!  Hooray!  Rule Britannia!  Get your
+and roared out:  ‘Hooray!  Hooray!  Hooray!  Rule Britannia!  Get your
 'air cut.  Hoop-la!  Boo!'  It was a condition of no little novelty
 for a man in my position.
 
 "The constable instantly flashed his lantern on me, or the draggled,
-drunken old woman that was my travesty.  `Now then, mum,'
+drunken old woman that was my travesty.  ‘Now then, mum,'
 he began gruffly.
 
-"`Come along quiet, or I'll eat your heart,' cried Sam in my
-ear hoarsely.  `Stop, or I'll flay you.'  It was frightful to hear
+"‘Come along quiet, or I'll eat your heart,' cried Sam in my
+ear hoarsely.  ‘Stop, or I'll flay you.'  It was frightful to hear
 the words and see the neatly shawled old spinster who whispered them.
 
 "I yelled, and yelled--I was in for it now.  I screamed comic refrains
 that vulgar young men had sung, to my regret, at our village concerts;
 I rolled to and fro like a ninepin about to fall.
 
-"`If you can't get your friend on quiet, ladies,' said the policeman,
-`I shall have to take 'er up.  Drunk and disorderly she is right enough.'
+"‘If you can't get your friend on quiet, ladies,' said the policeman,
+‘I shall have to take 'er up.  Drunk and disorderly she is right enough.'
 
 "I redoubled my efforts.  I had not been brought up to this sort
 of thing; but I believe I eclipsed myself.  Words that I did not know
 I had ever heard of seemed to come pouring out of my open mouth.
 
-"`When we get you past,' whispered Bill, `you'll howl louder;
+"‘When we get you past,' whispered Bill, ‘you'll howl louder;
 you'll howl louder when we're burning your feet off.'
 
 "I screamed in my terror those awful [[songs]] of joy.  In all
@@ -7643,45 +7625,45 @@ and the perfect respectability of all our dresses would overcome
 the policeman and induce him to let us pass.  He wavered, so far
 as one can describe anything so solid as a policeman as wavering.
 I lurched suddenly forward and ran my head into his chest,
-calling out (if I remember correctly), `Oh, crikey, blimey, Bill.'
+calling out (if I remember correctly), ‘Oh, crikey, blimey, Bill.'
 It was at that moment that I remembered most dearly that I was
 the Vicar of Chuntsey, in Essex.
 
 "My desperate coup saved me.  The policeman had me hard by the back
 of the neck.
 
-"`You come along with me,' he began, but Bill cut in with his perfect
+"‘You come along with me,' he began, but Bill cut in with his perfect
 [[Imitation|imitation]] of a lady's finnicking voice.
 
-"`Oh, pray, constable, don't make a disturbance with our poor friend.
+"‘Oh, pray, constable, don't make a disturbance with our poor friend.
 We will get her quietly home.  She does drink too much, but she
 is quite a lady--only eccentric.'
 
-"`She butted me in the stomach,' said the policeman briefly.
+"‘She butted me in the stomach,' said the policeman briefly.
 
-"`Eccentricities of genius,' said Sam earnestly.
+"‘Eccentricities of genius,' said Sam earnestly.
 
-"`Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
-character of Miss James, `she wants looking after.'  `She does,'
-said the policeman, `but I'll look after her.'
+"‘Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
+character of Miss James, ‘she wants looking after.'  ‘She does,'
+said the policeman, ‘but I'll look after her.'
 
-"`That's no good,' cried Bill feverishly.  `She wants her friends.
+"‘That's no good,' cried Bill feverishly.  ‘She wants her friends.
 She wants a particular medicine we've got.'
 
-"`Yes,' assented Miss [[Mowbray]], with excitement, `no other medicine
+"‘Yes,' assented Miss [[Mowbray]], with excitement, ‘no other medicine
 any good, constable.  Complaint quite unique.'
 
-"`I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
+"‘I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
 the Vicar of Chuntsey.
 
-"`Look here, ladies,' said the constable sternly, `I don't
+"‘Look here, ladies,' said the constable sternly, ‘I don't
 like the eccentricity of your friend, and I don't like 'er [[songs]],
 or 'er 'ead in my stomach.  And now I come to think of it,
 I don't like the looks of you I've seen many as quiet dressed as you
 as was wrong 'uns. Who are you?'
 
-"`We've not our cards with us,' said Miss Mowbray,
-with indescribable dignity.  `Nor do we see why we should be insulted
+"‘We've not our cards with us,' said Miss Mowbray,
+with indescribable dignity.  ‘Nor do we see why we should be insulted
 by any Jack-in-office who chooses to be rude to ladies, when he is paid
 to protect them.  If you choose to take advantage of the weakness of our
 unfortunate friend, no [[Doubt|doubt]] you are legally entitled to take her.
@@ -7691,9 +7673,8 @@ yourself in the wrong box.'
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_05" data-title="The Club of Queer Trades — Chapter 3 (part 5)" data-chapter="Story 03 Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_05" data-title="The Club of Queer Trades — Chapter 3 (part 5)" data-chapter="Chapter 3" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 3 (part 5)
 
 "The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
 Under cover of their advantage my five persecutors turned for an
@@ -7823,9 +7804,8 @@ for the salvation of a fellow creature, Basil Grant had gone mad.
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_06" data-title="The Club of Queer Trades — Chapter 3 (part 6)" data-chapter="Story 03 Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_06" data-title="The Club of Queer Trades — Chapter 3 (part 6)" data-chapter="Chapter 3" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 3 (part 6)
 
 "Your whiskers," he cried, advancing with blazing eyes.
 "Give me your whiskers.  And your bald head."
@@ -7927,7 +7907,7 @@ Basil smiled also.  He intervened.
 "The fact is that Captain Fraser, who is one of my best friends,
 wanted us both out of the way very much.  He is sailing tonight
 for East Africa, and the lady with whom we were all to have dined is--
-er--what is I believe described as `the romance of his life'.
+er--what is I believe described as ‘the romance of his life'.
 He wanted that two hours with her, and employed these two reverend
 gentlemen to detain us at our houses so as to let him have
 the field to himself."
@@ -7973,9 +7953,8 @@ Colonels are four guineas."
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_01" data-title="The Club of Queer Trades — Chapter 4 (part 1)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_01" data-title="The Club of Queer Trades — Chapter 4 (part 1)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 1)
 
 Chapter 4
 
@@ -8105,9 +8084,8 @@ on its screw and picked up a quill-pen.
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_02" data-title="The Club of Queer Trades — Chapter 4 (part 2)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_02" data-title="The Club of Queer Trades — Chapter 4 (part 2)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 2)
 
 "Really," began Rupert, with a rather nervous loudness,
 "since Lieutenant Keith has seen fit to make this suggestion to Basil
@@ -8256,9 +8234,8 @@ I tried to get all the heating apparatus possible under the circumstances
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_03" data-title="The Club of Queer Trades — Chapter 4 (part 3)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_03" data-title="The Club of Queer Trades — Chapter 4 (part 3)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 3)
 
 "Can't expect much, eh?" said the lieutenant, cutting in with the same
 sudden skill.  "No, of course not.  That's all right, Montmorency.
@@ -8401,9 +8378,8 @@ in the scuffle and have a good eye kept on them."
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_04" data-title="The Club of Queer Trades — Chapter 4 (part 4)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_04" data-title="The Club of Queer Trades — Chapter 4 (part 4)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 4)
 
 "Have a good eye kept on that one," said Rupert, pale to the lips,
 and pointing to the ragged Keith.
@@ -8546,9 +8522,8 @@ dropped somewhere about the heath.  But as a fact, there isn't."
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_05" data-title="The Club of Queer Trades — Chapter 4 (part 5)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_05" data-title="The Club of Queer Trades — Chapter 4 (part 5)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 5)
 
 Basil's face during this sensible speech had been growing darker
 and darker with a sort of desperate sagacity.  He was cornered almost
@@ -8694,9 +8669,8 @@ such a place was Buxton Common, near Purley.
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_06" data-title="The Club of Queer Trades — Chapter 4 (part 6)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_06" data-title="The Club of Queer Trades — Chapter 4 (part 6)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 6)
 
 There was certainly a sort of grey futility in the landscape itself.
 But it was enormously increased by the sense of grey futility
@@ -8826,9 +8800,8 @@ like a falling star.
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_07" data-title="The Club of Queer Trades — Chapter 4 (part 7)" data-chapter="Story 04 Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_07" data-title="The Club of Queer Trades — Chapter 4 (part 7)" data-chapter="Chapter 4" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 4 (part 7)
 
 "Can nothing be done to stop Basil?"  I called out.
 
@@ -8944,7 +8917,7 @@ when you are guessing about any one who is, like our host,
 insane, the maddest thing is the most likely.  The second is
 to remember that very plain literal fact always seems fantastic.
 If Keith had taken a little brick box of a house in Clapham with nothing
-but railings in front of it and had written `The Elms' over it,
+but railings in front of it and had written ‘The Elms' over it,
 you wouldn't have thought there was anything fantastic about that.
 Simply because it was a great blaring, swaggering lie you would
 have believed it."
@@ -8959,9 +8932,8 @@ of the elm tree swayed in the sky like a stricken thistle.
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_01" data-title="The Club of Queer Trades — Chapter 5 (part 1)" data-chapter="Story 05 Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_01" data-title="The Club of Queer Trades — Chapter 5 (part 1)" data-chapter="Chapter 5" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 5 (part 1)
 
 Chapter 5
 
@@ -9077,9 +9049,8 @@ definable in some degree as an inferior evolutionary stage."
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_02" data-title="The Club of Queer Trades — Chapter 5 (part 2)" data-chapter="Story 05 Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_02" data-title="The Club of Queer Trades — Chapter 5 (part 2)" data-chapter="Chapter 5" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 5 (part 2)
 
 Nothing but his lips had moved as he spoke, and his glasses still
 shone like two pallid moons.
@@ -9222,9 +9193,8 @@ from under him and came round to me in two strides.
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_03" data-title="The Club of Queer Trades — Chapter 5 (part 3)" data-chapter="Story 05 Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_03" data-title="The Club of Queer Trades — Chapter 5 (part 3)" data-chapter="Chapter 5" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 5 (part 3)
 
 "What do you make of that?" he said, and flattened out the wire
 in front of me.
@@ -9298,7 +9268,7 @@ This morning I was clearing away the breakfast things,
 my sisters were both somewhat unwell, and had not come down.
 My brother had just gone out of the room, I believe, to fetch a book.
 He came back again, however, without it, and stood for some [[Time|time]]
-staring at the empty grate.  I said, `Were you looking for anything
+staring at the empty grate.  I said, ‘Were you looking for anything
 I could get?'  He did not answer, but this constantly happens,
 as he is often very abstracted.  I repeated my question,
 and still he did not answer.  Sometimes he is so wrapped up in his
@@ -9320,10 +9290,10 @@ His only answer was to shoot the leg straight at right angles
 to the other, as if pointing to the other with his toe to the wall.
 He was still looking quite gravely at the fireplace.
 
-"`James, what is the matter?'  I cried, for I was thoroughly frightened.
+"‘James, what is the matter?'  I cried, for I was thoroughly frightened.
 James gave three kicks in the air with the right leg, flung up the other,
 gave three kicks in the air with it also and spun round like a teetotum
-the other way.  `Are you mad?'  I cried.  `Why don't you answer me?'
+the other way.  ‘Are you mad?'  I cried.  ‘Why don't you answer me?'
 He had come to a standstill facing me, and was looking at me as
 he always does, with his lifted eyebrows and great spectacled eyes.
 When I had spoken he remained a second or two motionless, and then
@@ -9369,9 +9339,8 @@ The [[Night|night]] makes them credible and therefore commonplace.
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_04" data-title="The Club of Queer Trades — Chapter 5 (part 4)" data-chapter="Story 05 Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_04" data-title="The Club of Queer Trades — Chapter 5 (part 4)" data-chapter="Chapter 5" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 5 (part 4)
 
 The second sister had by this [[Time|time]] entered the room and came somewhat
 drearily to the [[Window|window]].
@@ -9494,9 +9463,8 @@ in their follies by the steely voice of Adelaide Chadd saying,
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_05" data-title="The Club of Queer Trades — Chapter 5 (part 5)" data-chapter="Story 05 Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_05" data-title="The Club of Queer Trades — Chapter 5 (part 5)" data-chapter="Chapter 5" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 5 (part 5)
 
 Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
 slightly effeminate grey beard, unimpeachable gloves, and formal
@@ -9634,9 +9602,8 @@ Bingham cut in sharply:
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_06" data-title="The Club of Queer Trades — Chapter 5 (part 6)" data-chapter="Story 05 Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_06" data-title="The Club of Queer Trades — Chapter 5 (part 6)" data-chapter="Chapter 5" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 5 (part 6)
 
 "Then," said Basil lightly, "your task is easy.  Get Chadd L800
 a year till he stops dancing."
@@ -9758,9 +9725,8 @@ and friendly.  They were still dancing when I left.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_01" data-title="The Club of Queer Trades — Chapter 6 (part 1)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_01" data-title="The Club of Queer Trades — Chapter 6 (part 1)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 1)
 
 Chapter 6
 
@@ -9848,7 +9814,7 @@ to the milkman himself, I--"
 
 "[[Well]], to tell the [[Truth|truth]]," said Rupert, shifting restlessly from one
 foot to another, "the milkman himself, as far as merely physical
-appearances went, just said, `Milk, Miss,' and handed in the can.
+appearances went, just said, ‘Milk, Miss,' and handed in the can.
 That is not to say, of course, that he did not make some secret
 sign or some--"
 
@@ -9890,9 +9856,8 @@ I was just about to turn back when Rupert caught me by the elbow.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_02" data-title="The Club of Queer Trades — Chapter 6 (part 2)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_02" data-title="The Club of Queer Trades — Chapter 6 (part 2)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 2)
 
 "Just listen to that," he said, and keeping my coat gripped
 in his right hand, he rapped with the knuckles of his left on
@@ -10036,9 +10001,8 @@ At length he said:
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_03" data-title="The Club of Queer Trades — Chapter 6 (part 3)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_03" data-title="The Club of Queer Trades — Chapter 6 (part 3)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 3)
 
 "If you're thinking of going back to look the thing up, you must
 be careful what you do.  It's no good you two going there.
@@ -10176,9 +10140,8 @@ pseudo-Darwinian business.  Ethics of evolution and all that."
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_04" data-title="The Club of Queer Trades — Chapter 6 (part 4)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_04" data-title="The Club of Queer Trades — Chapter 6 (part 4)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 4)
 
 "I think," said Rupert darkly, ringing the bell, "that we shall
 enlighten you further about their ethics."
@@ -10256,8 +10219,8 @@ or the violin, can only be perfectly understood by specialists.
 Still, the rudiments may be of public use.  Greenwood here,"
 indicating the little man in the blazer, "doesn't know one note
 of music from another.  Still, he knows something.  He knows enough
-to take off his hat when they play `God save the [[King]]'.  He doesn't
-take it off by mistake when they play `Oh, dem Golden Slippers'.
+to take off his hat when they play ‘God save the [[King]]'.  He doesn't
+take it off by mistake when they play ‘Oh, dem Golden Slippers'.
 Just in the same way science--"
 
 Here Mr Burrows stopped abruptly.  He was interrupted by an argument
@@ -10310,9 +10273,8 @@ Rupert lifted himself on his elbow, but he was still dazed.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_05" data-title="The Club of Queer Trades — Chapter 6 (part 5)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_05" data-title="The Club of Queer Trades — Chapter 6 (part 5)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 5)
 
 In the strained [[Silence|silence]] of our helplessness I heard the voice
 of Basil come with a loud incongruous cheerfulness.
@@ -10431,9 +10393,8 @@ and of the human secret locked below.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_06" data-title="The Club of Queer Trades — Chapter 6 (part 6)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_06" data-title="The Club of Queer Trades — Chapter 6 (part 6)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 6)
 
 The basement floor had several doors, as is usual in such
 a [[house]]; doors that would naturally lead to the kitchen,
@@ -10580,9 +10541,8 @@ in an argument.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_07" data-title="The Club of Queer Trades — Chapter 6 (part 7)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_07" data-title="The Club of Queer Trades — Chapter 6 (part 7)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 7)
 
 "The lady downstairs," replied Rupert.  "The lady who was locked up.
 She won't come out.  And she says that all she wants is for us
@@ -10717,9 +10677,8 @@ the finding of the Club of Queer Trades.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_08" data-title="The Club of Queer Trades — Chapter 6 (part 8)" data-chapter="Story 06 Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_08" data-title="The Club of Queer Trades — Chapter 6 (part 8)" data-chapter="Chapter 6" data-kind="excerpt"></span>
 
-# [[queertrades]] — Chapter 6 (part 8)
 
 I have had many strange experiences in my life, but never a stranger
 one than that I felt when I came out of those rambling, sightless,

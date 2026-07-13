@@ -25,70 +25,70 @@ by Charles Dickens
 
 Contents
 
- CHAPTER I. Dombey and Son
- CHAPTER II.  In which Timely Provision is made for an Emergency that will sometimes arise in the best-regulated Families
- CHAPTER III. In which Mr Dombey, as a Man and a Father, is seen at the Head of the [[Home]]-Department
- CHAPTER IV. In which some more First Appearances are made on the Stage of these Adventures
- CHAPTER V. Paul’s Progress and Christening
- CHAPTER VI. Paul’s Second Deprivation
- CHAPTER VII. A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of Miss Tox’s Affections
- CHAPTER VIII. Paul’s Further Progress, Growth and Character
- CHAPTER IX. In which the Wooden Midshipman gets into Trouble
- CHAPTER X. Containing the Sequel of the Midshipman’s Disaster
- CHAPTER XI. Paul’s Introduction to a New Scene
- CHAPTER XII.  Paul’s [[Education]]
- CHAPTER XIII. Shipping Intelligence and Office Business
- CHAPTER XIV. Paul grows more and more Old-fashioned, and goes [[Home]] for the Holidays
- CHAPTER XV. Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Walter Gay]]
- CHAPTER XVI. What the Waves were always saying
- CHAPTER XVII. [[Captain Cuttle]] does a little Business for the Young People
- CHAPTER XVIII. Father and Daughter
- CHAPTER XIX. Walter goes away
- CHAPTER XX. Mr Dombey goes upon a [[Journey]]
- CHAPTER XXI. New Faces
- CHAPTER XXII. A Trifle of Management by Mr Carker the Manager
- CHAPTER XXIII. Florence solitary, and the Midshipman mysterious
- CHAPTER XXIV. The Study of a Loving Heart
- CHAPTER XXV. Strange News of Uncle Sol
- CHAPTER XXVI. Shadows of the Past and Future
- CHAPTER XXVII. Deeper Shadows
- CHAPTER XXVIII. Alterations
- CHAPTER XXIX. The Opening of the Eyes of Mrs Chick
- CHAPTER XXX. The interval before the [[Marriage]]
- CHAPTER XXXI. The Wedding
- CHAPTER XXXII. The Wooden Midshipman goes to Pieces
- CHAPTER XXXIII. Contrasts
- CHAPTER XXXIV. Another Mother and Daughter
- CHAPTER XXXV. The Happy Pair
- CHAPTER XXXVI. Housewarming
- CHAPTER XXXVII. More Warnings than One
- CHAPTER XXXVIII. Miss Tox improves an Old Acquaintance
- CHAPTER XXXIX. Further Adventures of Captain Edward Cuttle, Mariner
- CHAPTER XL. Domestic Relations
- CHAPTER XLI. New Voices in the Waves
- CHAPTER XLII. Confidential and Accidental
- CHAPTER XLIII. The Watches of the [[Night]]
- CHAPTER XLIV. A Separation
- CHAPTER XLV. The Trusty Agent
- CHAPTER XLVI. Recognizant and Reflective
- CHAPTER XLVII. The Thunderbolt
- CHAPTER XLVIII. The Flight of Florence
- CHAPTER XLIX. The Midshipman makes a Discovery
- CHAPTER L. Mr Toots’s Complaint
- CHAPTER LI. Mr Dombey and the World
- CHAPTER LII. Secret Intelligence
- CHAPTER LIII. More Intelligence
- CHAPTER LIV. The Fugitives
- CHAPTER LV. Rob the Grinder loses his Place
- CHAPTER LVI. Several People delighted, and the Game Chicken disgusted
- CHAPTER LVII. Another Wedding
- CHAPTER LVIII. After a Lapse
- CHAPTER LIX. Retribution
- CHAPTER LX. Chiefly Matrimonial
- CHAPTER LXI. Relenting
- CHAPTER LXII.  Final
- PREFACE OF 1848
- PREFACE OF 1867
+CHAPTER I. Dombey and Son
+CHAPTER II.  In which Timely Provision is made for an Emergency that will sometimes arise in the best-regulated Families
+CHAPTER III. In which Mr Dombey, as a Man and a Father, is seen at the Head of the [[Home]]-Department
+CHAPTER IV. In which some more First Appearances are made on the Stage of these Adventures
+CHAPTER V. Paul’s Progress and Christening
+CHAPTER VI. Paul’s Second Deprivation
+CHAPTER VII. A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of Miss Tox’s Affections
+CHAPTER VIII. Paul’s Further Progress, Growth and Character
+CHAPTER IX. In which the Wooden Midshipman gets into Trouble
+CHAPTER X. Containing the Sequel of the Midshipman’s Disaster
+CHAPTER XI. Paul’s Introduction to a New Scene
+CHAPTER XII.  Paul’s [[Education]]
+CHAPTER XIII. Shipping Intelligence and Office Business
+CHAPTER XIV. Paul grows more and more Old-fashioned, and goes [[Home]] for the Holidays
+CHAPTER XV. Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Walter Gay]]
+CHAPTER XVI. What the Waves were always saying
+CHAPTER XVII. [[Captain Cuttle]] does a little Business for the Young People
+CHAPTER XVIII. Father and Daughter
+CHAPTER XIX. Walter goes away
+CHAPTER XX. Mr Dombey goes upon a [[Journey]]
+CHAPTER XXI. New Faces
+CHAPTER XXII. A Trifle of Management by Mr Carker the Manager
+CHAPTER XXIII. Florence solitary, and the Midshipman mysterious
+CHAPTER XXIV. The Study of a Loving Heart
+CHAPTER XXV. Strange News of Uncle Sol
+CHAPTER XXVI. Shadows of the Past and Future
+CHAPTER XXVII. Deeper Shadows
+CHAPTER XXVIII. Alterations
+CHAPTER XXIX. The Opening of the Eyes of Mrs Chick
+CHAPTER XXX. The interval before the [[Marriage]]
+CHAPTER XXXI. The Wedding
+CHAPTER XXXII. The Wooden Midshipman goes to Pieces
+CHAPTER XXXIII. Contrasts
+CHAPTER XXXIV. Another Mother and Daughter
+CHAPTER XXXV. The Happy Pair
+CHAPTER XXXVI. Housewarming
+CHAPTER XXXVII. More Warnings than One
+CHAPTER XXXVIII. Miss Tox improves an Old Acquaintance
+CHAPTER XXXIX. Further Adventures of Captain Edward Cuttle, Mariner
+CHAPTER XL. Domestic Relations
+CHAPTER XLI. New Voices in the Waves
+CHAPTER XLII. Confidential and Accidental
+CHAPTER XLIII. The Watches of the [[Night]]
+CHAPTER XLIV. A Separation
+CHAPTER XLV. The Trusty Agent
+CHAPTER XLVI. Recognizant and Reflective
+CHAPTER XLVII. The Thunderbolt
+CHAPTER XLVIII. The Flight of Florence
+CHAPTER XLIX. The Midshipman makes a Discovery
+CHAPTER L. Mr Toots’s Complaint
+CHAPTER LI. Mr Dombey and the World
+CHAPTER LII. Secret Intelligence
+CHAPTER LIII. More Intelligence
+CHAPTER LIV. The Fugitives
+CHAPTER LV. Rob the Grinder loses his Place
+CHAPTER LVI. Several People delighted, and the Game Chicken disgusted
+CHAPTER LVII. Another Wedding
+CHAPTER LVIII. After a Lapse
+CHAPTER LIX. Retribution
+CHAPTER LX. Chiefly Matrimonial
+CHAPTER LXI. Relenting
+CHAPTER LXII.  Final
+PREFACE OF 1848
+PREFACE OF 1867
 
 
 
@@ -10125,12 +10125,12 @@ dislike. So hurrah for the West Indies, [[Captain Cuttle]]! How does that
 tune go that the sailors sing?
 
 “For the Port of Barbados, Boys!
-                    Cheerily!
+Cheerily!
 Leaving old England behind us, Boys!
-                    Cheerily!”
+Cheerily!”
 Here the Captain roared in [[Chorus|chorus]]—
-                    “Oh cheerily, cheerily!
-                                        Oh cheer-i-ly!”
+“Oh cheerily, cheerily!
+Oh cheer-i-ly!”
 
 
 The last line reaching the quick ears of an ardent skipper not quite
@@ -39725,262 +39725,262 @@ chapter in which my little friend and I parted company.
 
 
 
-<span class="atom-split" data-atom="chapter_01_dombey_and_son" data-title="Dombey and Son — Chapter 1: Dombey and Son" data-chapter="Chapter 01 Dombey and Son" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_dombey_and_son" data-title="Dombey and Son — Chapter 1: Dombey and Son" data-chapter="Dombey and Son" data-kind="chapter"></span>
 
 
- CHAPTER I. Dombey and Son
- CHAPTER II.  In which Timely Provision is made for an Emergency that will sometimes arise in the best-regulated Families
- CHAPTER III. In which Mr Dombey, as a Man and a Father, is seen at the Head of the [[Home]]-Department
- CHAPTER IV. In which some more First Appearances are made on the Stage of these Adventures
+CHAPTER I. Dombey and Son
+CHAPTER II.  In which Timely Provision is made for an Emergency that will sometimes arise in the best-regulated Families
+CHAPTER III. In which Mr Dombey, as a Man and a Father, is seen at the Head of the [[Home]]-Department
+CHAPTER IV. In which some more First Appearances are made on the Stage of these Adventures
 
 
 
 
-<span class="atom-split" data-atom="chapter_02_pauls_second_deprivation" data-title="Dombey and Son — Chapter 6: Paul’s Second Deprivation" data-chapter="Chapter 02 Pauls Second Deprivation" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_pauls_second_deprivation" data-title="Dombey and Son — Chapter 6: Paul’s Second Deprivation" data-chapter="Pauls Second Deprivation" data-kind="chapter"></span>
 
 
- CHAPTER V. Paul’s Progress and Christening
- CHAPTER VI. Paul’s Second Deprivation
- CHAPTER VII. A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of Miss Tox’s Affections
+CHAPTER V. Paul’s Progress and Christening
+CHAPTER VI. Paul’s Second Deprivation
+CHAPTER VII. A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the State of Miss Tox’s Affections
 
 
 
 
-<span class="atom-split" data-atom="chapter_03_in_which_the_wooden_midshipman" data-title="Dombey and Son — Chapter 9: In which the Wooden Midshipman gets into Trouble" data-chapter="Chapter 03 In which the Wooden Midshipman" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_in_which_the_wooden_midshipman" data-title="Dombey and Son — Chapter 9: In which the Wooden Midshipman gets into Trouble" data-chapter="In which the Wooden Midshipman" data-kind="chapter"></span>
 
 
- CHAPTER VIII. Paul’s Further Progress, Growth and Character
- CHAPTER IX. In which the Wooden Midshipman gets into Trouble
+CHAPTER VIII. Paul’s Further Progress, Growth and Character
+CHAPTER IX. In which the Wooden Midshipman gets into Trouble
 
 
 
 
-<span class="atom-split" data-atom="chapter_04_pauls_introduction_to_a_new_sc" data-title="Dombey and Son — Chapter 11: Paul’s Introduction to a New Scene" data-chapter="Chapter 04 Pauls Introduction to a New Sc" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_pauls_introduction_to_a_new_sc" data-title="Dombey and Son — Chapter 11: Paul’s Introduction to a New Scene" data-chapter="Pauls Introduction to a New Sc" data-kind="chapter"></span>
 
 
- CHAPTER X. Containing the Sequel of the Midshipman’s Disaster
- CHAPTER XI. Paul’s Introduction to a New Scene
+CHAPTER X. Containing the Sequel of the Midshipman’s Disaster
+CHAPTER XI. Paul’s Introduction to a New Scene
 
 
 
 
-<span class="atom-split" data-atom="chapter_05_shipping_intelligence_and_offi" data-title="Dombey and Son — Chapter 13: Shipping Intelligence and Office Business" data-chapter="Chapter 05 Shipping Intelligence and Offi" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_shipping_intelligence_and_offi" data-title="Dombey and Son — Chapter 13: Shipping Intelligence and Office Business" data-chapter="Shipping Intelligence and Offi" data-kind="chapter"></span>
 
 
- CHAPTER XII.  Paul’s [[Education]]
- CHAPTER XIII. Shipping Intelligence and Office Business
- CHAPTER XIV. Paul grows more and more Old-fashioned, and goes [[Home]] for the Holidays
- CHAPTER XV. Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Walter Gay]]
+CHAPTER XII.  Paul’s [[Education]]
+CHAPTER XIII. Shipping Intelligence and Office Business
+CHAPTER XIV. Paul grows more and more Old-fashioned, and goes [[Home]] for the Holidays
+CHAPTER XV. Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Walter Gay]]
 
 
 
 
-<span class="atom-split" data-atom="chapter_06_what_the_waves_were_always_say" data-title="Dombey and Son — Chapter 16: What the Waves were always saying" data-chapter="Chapter 06 What the Waves were always say" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_what_the_waves_were_always_say" data-title="Dombey and Son — Chapter 16: What the Waves were always saying" data-chapter="What the Waves were always say" data-kind="chapter"></span>
 
 
- CHAPTER XVI. What the Waves were always saying
- CHAPTER XVII. [[Captain Cuttle]] does a little Business for the Young People
+CHAPTER XVI. What the Waves were always saying
+CHAPTER XVII. [[Captain Cuttle]] does a little Business for the Young People
 
 
 
 
-<span class="atom-split" data-atom="chapter_07_walter_goes_away" data-title="Dombey and Son — Chapter 19: Walter goes away" data-chapter="Chapter 07 Walter goes away" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_walter_goes_away" data-title="Dombey and Son — Chapter 19: Walter goes away" data-chapter="Walter goes away" data-kind="chapter"></span>
 
 
- CHAPTER XVIII. Father and Daughter
- CHAPTER XIX. Walter goes away
+CHAPTER XVIII. Father and Daughter
+CHAPTER XIX. Walter goes away
 
 
 
 
-<span class="atom-split" data-atom="chapter_08_a_trifle_of_management_by_mr_c" data-title="Dombey and Son — Chapter 22: A Trifle of Management by Mr Carker the Manager" data-chapter="Chapter 08 A Trifle of Management by Mr C" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_a_trifle_of_management_by_mr_c" data-title="Dombey and Son — Chapter 22: A Trifle of Management by Mr Carker the Manager" data-chapter="A Trifle of Management by Mr C" data-kind="chapter"></span>
 
 
- CHAPTER XX. Mr Dombey goes upon a [[Journey]]
- CHAPTER XXI. New Faces
- CHAPTER XXII. A Trifle of Management by Mr Carker the Manager
+CHAPTER XX. Mr Dombey goes upon a [[Journey]]
+CHAPTER XXI. New Faces
+CHAPTER XXII. A Trifle of Management by Mr Carker the Manager
 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_study_of_a_loving_heart" data-title="Dombey and Son — Chapter 24: The Study of a Loving Heart" data-chapter="Chapter 09 The Study of a Loving Heart" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_study_of_a_loving_heart" data-title="Dombey and Son — Chapter 24: The Study of a Loving Heart" data-chapter="The Study of a Loving Heart" data-kind="chapter"></span>
 
 
- CHAPTER XXIII. Florence solitary, and the Midshipman mysterious
- CHAPTER XXIV. The Study of a Loving Heart
+CHAPTER XXIII. Florence solitary, and the Midshipman mysterious
+CHAPTER XXIV. The Study of a Loving Heart
 
 
 
 
-<span class="atom-split" data-atom="chapter_10_shadows_of_the_past_and_future" data-title="Dombey and Son — Chapter 26: Shadows of the Past and Future" data-chapter="Chapter 10 Shadows of the Past and Future" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_shadows_of_the_past_and_future" data-title="Dombey and Son — Chapter 26: Shadows of the Past and Future" data-chapter="Shadows of the Past and Future" data-kind="chapter"></span>
 
 
- CHAPTER XXV. Strange News of Uncle Sol
- CHAPTER XXVI. Shadows of the Past and Future
+CHAPTER XXV. Strange News of Uncle Sol
+CHAPTER XXVI. Shadows of the Past and Future
 
 
 
 
-<span class="atom-split" data-atom="chapter_11_alterations" data-title="Dombey and Son — Chapter 28: Alterations" data-chapter="Chapter 11 Alterations" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_alterations" data-title="Dombey and Son — Chapter 28: Alterations" data-chapter="Alterations" data-kind="chapter"></span>
 
 
- CHAPTER XXVII. Deeper Shadows
- CHAPTER XXVIII. Alterations
+CHAPTER XXVII. Deeper Shadows
+CHAPTER XXVIII. Alterations
 
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_interval_before_the_marria" data-title="Dombey and Son — Chapter 30: The interval before the [[Marriage" data-chapter="Chapter 12 The interval before the Marria" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_the_interval_before_the_marria" data-title="Dombey and Son — Chapter 30: The interval before the [[Marriage" data-chapter="The interval before the Marria" data-kind="chapter"></span>
 
 
- CHAPTER XXIX. The Opening of the Eyes of Mrs Chick
- CHAPTER XXX. The interval before the [[Marriage]]
+CHAPTER XXIX. The Opening of the Eyes of Mrs Chick
+CHAPTER XXX. The interval before the [[Marriage]]
 
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_wooden_midshipman_goes_to" data-title="Dombey and Son — Chapter 32: The Wooden Midshipman goes to Pieces" data-chapter="Chapter 13 The Wooden Midshipman goes to" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_wooden_midshipman_goes_to" data-title="Dombey and Son — Chapter 32: The Wooden Midshipman goes to Pieces" data-chapter="The Wooden Midshipman goes to" data-kind="chapter"></span>
 
 
- CHAPTER XXXI. The Wedding
- CHAPTER XXXII. The Wooden Midshipman goes to Pieces
+CHAPTER XXXI. The Wedding
+CHAPTER XXXII. The Wooden Midshipman goes to Pieces
 
 
 
 
-<span class="atom-split" data-atom="chapter_14_another_mother_and_daughter" data-title="Dombey and Son — Chapter 34: Another Mother and Daughter" data-chapter="Chapter 14 Another Mother and Daughter" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_another_mother_and_daughter" data-title="Dombey and Son — Chapter 34: Another Mother and Daughter" data-chapter="Another Mother and Daughter" data-kind="chapter"></span>
 
 
- CHAPTER XXXIII. Contrasts
- CHAPTER XXXIV. Another Mother and Daughter
+CHAPTER XXXIII. Contrasts
+CHAPTER XXXIV. Another Mother and Daughter
 
 
 
 
-<span class="atom-split" data-atom="chapter_15_housewarming" data-title="Dombey and Son — Chapter 36: Housewarming" data-chapter="Chapter 15 Housewarming" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_housewarming" data-title="Dombey and Son — Chapter 36: Housewarming" data-chapter="Housewarming" data-kind="chapter"></span>
 
 
- CHAPTER XXXV. The Happy Pair
- CHAPTER XXXVI. Housewarming
+CHAPTER XXXV. The Happy Pair
+CHAPTER XXXVI. Housewarming
 
 
 
 
-<span class="atom-split" data-atom="chapter_16_miss_tox_improves_an_old_acqua" data-title="Dombey and Son — Chapter 38: Miss Tox improves an Old Acquaintance" data-chapter="Chapter 16 Miss Tox improves an Old Acqua" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_miss_tox_improves_an_old_acqua" data-title="Dombey and Son — Chapter 38: Miss Tox improves an Old Acquaintance" data-chapter="Miss Tox improves an Old Acqua" data-kind="chapter"></span>
 
 
- CHAPTER XXXVII. More Warnings than One
- CHAPTER XXXVIII. Miss Tox improves an Old Acquaintance
+CHAPTER XXXVII. More Warnings than One
+CHAPTER XXXVIII. Miss Tox improves an Old Acquaintance
 
 
 
 
-<span class="atom-split" data-atom="chapter_17_domestic_relations" data-title="Dombey and Son — Chapter 40: Domestic Relations" data-chapter="Chapter 17 Domestic Relations" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_domestic_relations" data-title="Dombey and Son — Chapter 40: Domestic Relations" data-chapter="Domestic Relations" data-kind="chapter"></span>
 
 
- CHAPTER XXXIX. Further Adventures of Captain Edward Cuttle, Mariner
- CHAPTER XL. Domestic Relations
+CHAPTER XXXIX. Further Adventures of Captain Edward Cuttle, Mariner
+CHAPTER XL. Domestic Relations
 
 
 
 
-<span class="atom-split" data-atom="chapter_18_confidential_and_accidental" data-title="Dombey and Son — Chapter 42: Confidential and Accidental" data-chapter="Chapter 18 Confidential and Accidental" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_confidential_and_accidental" data-title="Dombey and Son — Chapter 42: Confidential and Accidental" data-chapter="Confidential and Accidental" data-kind="chapter"></span>
 
 
- CHAPTER XLI. New Voices in the Waves
- CHAPTER XLII. Confidential and Accidental
+CHAPTER XLI. New Voices in the Waves
+CHAPTER XLII. Confidential and Accidental
 
 
 
 
-<span class="atom-split" data-atom="chapter_19_a_separation" data-title="Dombey and Son — Chapter 44: A Separation" data-chapter="Chapter 19 A Separation" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_a_separation" data-title="Dombey and Son — Chapter 44: A Separation" data-chapter="A Separation" data-kind="chapter"></span>
 
 
- CHAPTER XLIII. The Watches of the [[Night]]
- CHAPTER XLIV. A Separation
+CHAPTER XLIII. The Watches of the [[Night]]
+CHAPTER XLIV. A Separation
 
 
 
 
-<span class="atom-split" data-atom="chapter_20_recognizant_and_reflective" data-title="Dombey and Son — Chapter 46: Recognizant and Reflective" data-chapter="Chapter 20 Recognizant and Reflective" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_recognizant_and_reflective" data-title="Dombey and Son — Chapter 46: Recognizant and Reflective" data-chapter="Recognizant and Reflective" data-kind="chapter"></span>
 
 
- CHAPTER XLV. The Trusty Agent
- CHAPTER XLVI. Recognizant and Reflective
+CHAPTER XLV. The Trusty Agent
+CHAPTER XLVI. Recognizant and Reflective
 
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_flight_of_florence" data-title="Dombey and Son — Chapter 48: The Flight of Florence" data-chapter="Chapter 21 The Flight of Florence" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_the_flight_of_florence" data-title="Dombey and Son — Chapter 48: The Flight of Florence" data-chapter="The Flight of Florence" data-kind="chapter"></span>
 
 
- CHAPTER XLVII. The Thunderbolt
- CHAPTER XLVIII. The Flight of Florence
+CHAPTER XLVII. The Thunderbolt
+CHAPTER XLVIII. The Flight of Florence
 
 
 
 
-<span class="atom-split" data-atom="chapter_22_mr_tootss_complaint" data-title="Dombey and Son — Chapter 50: Mr Toots’s Complaint" data-chapter="Chapter 22 Mr Tootss Complaint" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_mr_tootss_complaint" data-title="Dombey and Son — Chapter 50: Mr Toots’s Complaint" data-chapter="Mr Tootss Complaint" data-kind="chapter"></span>
 
 
- CHAPTER XLIX. The Midshipman makes a Discovery
- CHAPTER L. Mr Toots’s Complaint
+CHAPTER XLIX. The Midshipman makes a Discovery
+CHAPTER L. Mr Toots’s Complaint
 
 
 
 
-<span class="atom-split" data-atom="chapter_23_secret_intelligence" data-title="Dombey and Son — Chapter 52: Secret Intelligence" data-chapter="Chapter 23 Secret Intelligence" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_secret_intelligence" data-title="Dombey and Son — Chapter 52: Secret Intelligence" data-chapter="Secret Intelligence" data-kind="chapter"></span>
 
 
- CHAPTER LI. Mr Dombey and the World
- CHAPTER LII. Secret Intelligence
+CHAPTER LI. Mr Dombey and the World
+CHAPTER LII. Secret Intelligence
 
 
 
 
-<span class="atom-split" data-atom="chapter_24_the_fugitives" data-title="Dombey and Son — Chapter 54: The Fugitives" data-chapter="Chapter 24 The Fugitives" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24_the_fugitives" data-title="Dombey and Son — Chapter 54: The Fugitives" data-chapter="The Fugitives" data-kind="chapter"></span>
 
 
- CHAPTER LIII. More Intelligence
- CHAPTER LIV. The Fugitives
+CHAPTER LIII. More Intelligence
+CHAPTER LIV. The Fugitives
 
 
 
 
-<span class="atom-split" data-atom="chapter_25_several_people_delighted_and_t" data-title="Dombey and Son — Chapter 56: Several People delighted, and the Game Chicken disgusted" data-chapter="Chapter 25 Several People delighted and t" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25_several_people_delighted_and_t" data-title="Dombey and Son — Chapter 56: Several People delighted, and the Game Chicken disgusted" data-chapter="Several People delighted and t" data-kind="chapter"></span>
 
 
- CHAPTER LV. Rob the Grinder loses his Place
- CHAPTER LVI. Several People delighted, and the Game Chicken disgusted
+CHAPTER LV. Rob the Grinder loses his Place
+CHAPTER LVI. Several People delighted, and the Game Chicken disgusted
 
 
 
 
-<span class="atom-split" data-atom="chapter_26_after_a_lapse" data-title="Dombey and Son — Chapter 58: After a Lapse" data-chapter="Chapter 26 After a Lapse" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_after_a_lapse" data-title="Dombey and Son — Chapter 58: After a Lapse" data-chapter="After a Lapse" data-kind="chapter"></span>
 
 
- CHAPTER LVII. Another Wedding
- CHAPTER LVIII. After a Lapse
+CHAPTER LVII. Another Wedding
+CHAPTER LVIII. After a Lapse
 
 
 
 
-<span class="atom-split" data-atom="chapter_27_chiefly_matrimonial" data-title="Dombey and Son — Chapter 60: Chiefly Matrimonial" data-chapter="Chapter 27 Chiefly Matrimonial" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27_chiefly_matrimonial" data-title="Dombey and Son — Chapter 60: Chiefly Matrimonial" data-chapter="Chiefly Matrimonial" data-kind="chapter"></span>
 
 
- CHAPTER LIX. Retribution
- CHAPTER LX. Chiefly Matrimonial
+CHAPTER LIX. Retribution
+CHAPTER LX. Chiefly Matrimonial
 
 
 
 
-<span class="atom-split" data-atom="chapter_28_final" data-title="Dombey and Son — Chapter 62: Final" data-chapter="Chapter 28 Final" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28_final" data-title="Dombey and Son — Chapter 62: Final" data-chapter="Final" data-kind="chapter"></span>
 
 
- CHAPTER LXI. Relenting
- CHAPTER LXII.  Final
- PREFACE OF 1848
- PREFACE OF 1867
+CHAPTER LXI. Relenting
+CHAPTER LXII.  Final
+PREFACE OF 1848
+PREFACE OF 1867
 
 
 
@@ -50482,12 +50482,12 @@ dislike. So hurrah for the West Indies, [[Captain Cuttle]]! How does that
 tune go that the sailors sing?
 
 “For the Port of Barbados, Boys!
-                    Cheerily!
+Cheerily!
 Leaving old England behind us, Boys!
-                    Cheerily!”
+Cheerily!”
 Here the Captain roared in [[Chorus|chorus]]—
-                    “Oh cheerily, cheerily!
-                                        Oh cheer-i-ly!”
+“Oh cheerily, cheerily!
+Oh cheer-i-ly!”
 
 
 The last line reaching the quick ears of an ardent skipper not quite

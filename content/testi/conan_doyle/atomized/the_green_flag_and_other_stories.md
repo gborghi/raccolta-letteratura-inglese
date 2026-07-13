@@ -1650,7 +1650,7 @@ This is a series of comic short stories. The [[Hero|hero]], Etienne Gerard, is a
 
 
 
-<span class="atom-split" data-atom="story_01_the_green_flag" data-title="THE GREEN FLAG AND OTHER STORIES — THE GREEN FLAG" data-chapter="Story 01 THE GREEN FLAG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_green_flag" data-title="THE GREEN FLAG AND OTHER STORIES — THE GREEN FLAG" data-chapter="THE GREEN FLAG" data-kind="story"></span>
 
 
 THE GREEN [[Flag|FLAG]]
@@ -1746,7 +1746,7 @@ The Sheik Kadra of the Hadendowa people to Mohammed Ahmed, the chosen of Allah, 
 
 
 
-<span class="atom-split" data-atom="story_02_captain_sharkey" data-title="THE GREEN FLAG AND OTHER STORIES — CAPTAIN SHARKEY." data-chapter="Story 02 CAPTAIN SHARKEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_captain_sharkey" data-title="THE GREEN FLAG AND OTHER STORIES — CAPTAIN SHARKEY." data-chapter="CAPTAIN SHARKEY" data-kind="story"></span>
 
 
 [[Captain Sharkey|CAPTAIN SHARKEY]].
@@ -1863,7 +1863,7 @@ The captain gave a bitter curse. He had been beaten and outwitted at every point
 
 
 
-<span class="atom-split" data-atom="story_03_the_dealings_of_captain_sharkey_with_ste" data-title="THE GREEN FLAG AND OTHER STORIES — THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK" data-chapter="Story 03 THE DEALINGS OF CAPTAIN SHARKEY WITH STE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_dealings_of_captain_sharkey_with_ste" data-title="THE GREEN FLAG AND OTHER STORIES — THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK" data-chapter="THE DEALINGS OF CAPTAIN SHARKEY WITH STE" data-kind="story"></span>
 
 
 THE DEALINGS OF [[Captain Sharkey|CAPTAIN SHARKEY]] WITH STEPHEN CRADDOCK
@@ -1964,7 +1964,7 @@ He was a famous shot, and his iron nerves never failed him in an emergency. The 
 
 
 
-<span class="atom-split" data-atom="story_04_how_copley_banks_slew_captain_sharkey" data-title="THE GREEN FLAG AND OTHER STORIES — HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-chapter="Story 04 HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_how_copley_banks_slew_captain_sharkey" data-title="THE GREEN FLAG AND OTHER STORIES — HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-chapter="HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-kind="story"></span>
 
 
 HOW COPLEY BANKS SLEW [[Captain Sharkey|CAPTAIN SHARKEY]]
@@ -2050,7 +2050,7 @@ Then Copley Banks, his heart singing within him, touched his companion upon the 
 
 
 
-<span class="atom-split" data-atom="story_05_the_croxley_master" data-title="THE GREEN FLAG AND OTHER STORIES — THE CROXLEY MASTER" data-chapter="Story 05 THE CROXLEY MASTER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_croxley_master" data-title="THE GREEN FLAG AND OTHER STORIES — THE CROXLEY MASTER" data-chapter="THE CROXLEY MASTER" data-kind="story"></span>
 
 
 THE CROXLEY MASTER
@@ -2436,7 +2436,7 @@ But just then the tentative bray of a cornet-player searching for his key-note j
 
 
 
-<span class="atom-split" data-atom="story_06_the_lord_of_chateau_noir" data-title="THE GREEN FLAG AND OTHER STORIES — THE LORD OF CHATEAU NOIR" data-chapter="Story 06 THE LORD OF CHATEAU NOIR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_lord_of_chateau_noir" data-title="THE GREEN FLAG AND OTHER STORIES — THE LORD OF CHATEAU NOIR" data-chapter="THE LORD OF CHATEAU NOIR" data-kind="story"></span>
 
 
 THE LORD OF CHATEAU NOIR
@@ -2541,7 +2541,7 @@ And so it was that Captain Baumgarten, disfigured, blinded, and bleeding, stagge
 
 
 
-<span class="atom-split" data-atom="story_07_the_striped_chest" data-title="THE GREEN FLAG AND OTHER STORIES — THE STRIPED CHEST" data-chapter="Story 07 THE STRIPED CHEST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_striped_chest" data-title="THE GREEN FLAG AND OTHER STORIES — THE STRIPED CHEST" data-chapter="THE STRIPED CHEST" data-kind="story"></span>
 
 
 THE STRIPED CHEST
@@ -2652,7 +2652,7 @@ So we did not even wait for the three sailors, but we carried it out, the mate, 
 
 
 
-<span class="atom-split" data-atom="story_08_a_shadow_before" data-title="THE GREEN FLAG AND OTHER STORIES — A SHADOW BEFORE" data-chapter="Story 08 A SHADOW BEFORE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_a_shadow_before" data-title="THE GREEN FLAG AND OTHER STORIES — A SHADOW BEFORE" data-chapter="A SHADOW BEFORE" data-kind="story"></span>
 
 
 A SHADOW BEFORE
@@ -2776,7 +2776,7 @@ And then suddenly he saw a newspaper boy fasten a poster upon a lamp-post, and a
 
 
 
-<span class="atom-split" data-atom="story_09_the_king_of_the_foxes" data-title="THE GREEN FLAG AND OTHER STORIES — THE KING OF THE FOXES" data-chapter="Story 09 THE KING OF THE FOXES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_king_of_the_foxes" data-title="THE GREEN FLAG AND OTHER STORIES — THE KING OF THE FOXES" data-chapter="THE KING OF THE FOXES" data-kind="story"></span>
 
 
 THE KING OF THE FOXES
@@ -2846,7 +2846,7 @@ Danbury.
 
 
 
-<span class="atom-split" data-atom="story_10_the_three_correspondents" data-title="THE GREEN FLAG AND OTHER STORIES — THE THREE CORRESPONDENTS" data-chapter="Story 10 THE THREE CORRESPONDENTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_three_correspondents" data-title="THE GREEN FLAG AND OTHER STORIES — THE THREE CORRESPONDENTS" data-chapter="THE THREE CORRESPONDENTS" data-kind="story"></span>
 
 
 THE THREE CORRESPONDENTS
@@ -3168,7 +3168,7 @@ One of the most interesting discoveries of recent years is that of the new catac
 
 
 
-<span class="atom-split" data-atom="story_11_the_debut_of_bimbashi_joyce" data-title="THE GREEN FLAG AND OTHER STORIES — THE DEBUT OF BIMBASHI JOYCE" data-chapter="Story 11 THE DEBUT OF BIMBASHI JOYCE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_debut_of_bimbashi_joyce" data-title="THE GREEN FLAG AND OTHER STORIES — THE DEBUT OF BIMBASHI JOYCE" data-chapter="THE DEBUT OF BIMBASHI JOYCE" data-kind="story"></span>
 
 
 THE DEBUT OF BIMBASHI JOYCE
@@ -3247,7 +3247,7 @@ I can do you a little better than you did me at Kurkur.”
 
 
 
-<span class="atom-split" data-atom="story_12_a_foreign_office_romance" data-title="THE GREEN FLAG AND OTHER STORIES — A FOREIGN OFFICE ROMANCE" data-chapter="Story 12 A FOREIGN OFFICE ROMANCE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_a_foreign_office_romance" data-title="THE GREEN FLAG AND OTHER STORIES — A FOREIGN OFFICE ROMANCE" data-chapter="A FOREIGN OFFICE ROMANCE" data-kind="story"></span>
 
 
 A FOREIGN OFFICE ROMANCE

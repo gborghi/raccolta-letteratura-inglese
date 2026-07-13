@@ -44,15 +44,15 @@ produced from images generously made available by The
 
 Internet Archive/Canadian Libraries)
 
-                            LORD KITCHENER
+LORD KITCHENER
 
-                                  BY
+BY
 
-                           G. K. CHESTERTON
+G. K. CHESTERTON
 
-                                [[London|LONDON]]
+[[London|LONDON]]
 
-                                 1917
+1917
 
 [Illustration: LORD KITCHENER
 
@@ -60,7 +60,7 @@ By G. K. Chesterton
 
 _Photo by Elliott & Fry, Ltd., [[London]]._]
 
-                            LORD KITCHENER
+LORD KITCHENER
 
 [[Horatio]] Herbert Kitchener was Irish by birth but English by
 
@@ -1510,7 +1510,7 @@ light of the world and the reunion of Christian men.
 
 _Printed in Great Britain by_ THE FIELD & [[Queen|QUEEN]] (HORACE COX) LTD.,
 
-                 _Bream's Buildings, [[London]], E.C. 4_.
+_Bream's Buildings, [[London]], E.C. 4_.
 
 
 
@@ -1548,15 +1548,15 @@ produced from images generously made available by The
 
 Internet Archive/Canadian Libraries)
 
-                            LORD KITCHENER
+LORD KITCHENER
 
-                                  BY
+BY
 
-                           G. K. CHESTERTON
+G. K. CHESTERTON
 
-                                [[London|LONDON]]
+[[London|LONDON]]
 
-                                 1917
+1917
 
 [Illustration: LORD KITCHENER
 
@@ -1564,7 +1564,7 @@ By G. K. Chesterton
 
 _Photo by Elliott & Fry, Ltd., [[London]]._]
 
-                            LORD KITCHENER
+LORD KITCHENER
 
 [[Horatio]] Herbert Kitchener was Irish by birth but English by
 
@@ -1741,15 +1741,15 @@ prodotto da immagini generosamente rese disponibili da The
 
 Internet Archive/Canadian Libraries)
 
-                            LORD KITCHENER
+LORD KITCHENER
 
-                                  BY
+BY
 
 G. K. CHESTERTON
 
-                                [[London|LONDRA]]  
+[[London|LONDRA]]  
 
-                                 1917
+1917
 
 [Illustrazione: LORD KITCHENER
 
@@ -1757,7 +1757,7 @@ Di G. K. Chesterton
 
 _Foto di Elliott & Fry, Ltd., [[London|Londra]]._]
 
-                            LORD KITCHENER
+LORD KITCHENER
 
 [[Horatio]] Herbert Kitchener era irlandese di nascita ma inglese di
 
@@ -4468,7 +4468,7 @@ light of the world and the reunion of Christian men.
 
 _Printed in Great Britain by_ THE FIELD & [[Queen|QUEEN]] (HORACE COX) LTD.,
 
-                 _Bream's Buildings, [[London]], E.C. 4_.
+_Bream's Buildings, [[London]], E.C. 4_.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4579,4 +4579,4 @@ luce del mondo e la riunione degli uomini cristiani.
 
 _Stampato in Gran Bretagna da_ THE FIELD & [[Queen|QUEEN]] (HORACE COX) LTD.,
 
-                 _Bream's Buildings, [[London|Londra]], E.C. 4_.
+_Bream's Buildings, [[London|Londra]], E.C. 4_.

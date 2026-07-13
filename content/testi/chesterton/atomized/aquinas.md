@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="aquinas" data-title="St. Thomas Aquinas" data-chapter="" data-kind="intro"></span>
 
-# [[aquinas]]
 
 St. Thomas [[aquinas|Aquinas]]
 
@@ -785,9 +784,9 @@ which Protestant cultures are wont to regard as specially Protestant.
 It was of him that the tale was told, and would certainly have
 been told more widely among us if it had been told of a Puritan,
 that the Pope pointed to his gorgeous Papal Palace and said,
-"Peter can no longer say `Silver and gold have I none'";
+"Peter can no longer say ‘Silver and gold have I none'";
 and the Spanish friar answered, "No, and neither can he now say,
-`Rise and walk.'"
+‘Rise and walk.'"
 
 Thus there is another way in which the popular story of St. Francis
 can be a sort of bridge between the modern and medieval world.
@@ -5006,7 +5005,6 @@ to the Everlasting [[philosophy|Philosophy]].
 
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="St. Thomas Aquinas — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 1)
 
 I
 
@@ -5122,7 +5120,6 @@ walked the world, is almost too efficient for me.
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="St. Thomas Aquinas — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 2)
 
 St. Thomas [[aquinas|Aquinas]] has recently reappeared, in the current culture
 of the colleges and the salons, in a way that would have been quite
@@ -5238,7 +5235,6 @@ Nay, in a constructive sense, it was the [[Reformation]].
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="St. Thomas Aquinas — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 3)
 
 About this medieval movement there are two facts that must first
 be emphasised.  They are not, of course, contrary facts, but they
@@ -5344,7 +5340,6 @@ substantially like this.
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="St. Thomas Aquinas — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 4)
 
 "Far be it from a poor friar to deny that you have these dazzling
 diamonds in your head, all designed in the most perfect mathematical
@@ -5468,7 +5463,6 @@ because he had carefully learned all the trick of the Roman Augurs.
 
 <span class="atom-split" data-atom="chapter_01--part_05" data-title="St. Thomas Aquinas — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 5)
 
 In short, most people, Christian or heathen, would now agree
 that the Franciscan sentiment was primarily a Christian sentiment,
@@ -5595,7 +5589,6 @@ that is told out of the sky; the fairytale that is really true.
 
 <span class="atom-split" data-atom="chapter_01--part_06" data-title="St. Thomas Aquinas — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 6)
 
 It is plainer still in more popular problems like Free Will.
 If St. Thomas stands for one thing more than another, it is what
@@ -5697,7 +5690,6 @@ So was God, when He worked in the workshop of Joseph.
 
 <span class="atom-split" data-atom="chapter_01--part_07" data-title="St. Thomas Aquinas — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 7)
 
 Lastly, these two great men were not only united to each other
 but separated from most of their comrades and contemporaries
@@ -5724,9 +5716,9 @@ which Protestant cultures are wont to regard as specially Protestant.
 It was of him that the tale was told, and would certainly have
 been told more widely among us if it had been told of a Puritan,
 that the Pope pointed to his gorgeous Papal Palace and said,
-"Peter can no longer say `Silver and gold have I none'";
+"Peter can no longer say ‘Silver and gold have I none'";
 and the Spanish friar answered, "No, and neither can he now say,
-`Rise and walk.'"
+‘Rise and walk.'"
 
 Thus there is another way in which the popular story of St. Francis
 can be a sort of bridge between the modern and medieval world.
@@ -5813,7 +5805,6 @@ saw defeated the Asiatic [[Despair|despair]].
 
 <span class="atom-split" data-atom="chapter_01--part_08" data-title="St. Thomas Aquinas — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 1 (part 8)
 
 But there is an earlier and more essential link between Dominic
 and Francis, which is more to the immediate purpose of this book.
@@ -5946,7 +5937,6 @@ straordinario evento della vita di San Tommaso d'[[aquinas|Aquino]].
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="St. Thomas Aquinas — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 2 (part 1)
 
 II
 
@@ -6065,7 +6055,6 @@ modern admirers very stupid.
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="St. Thomas Aquinas — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 2 (part 2)
 
 For Frederick II is the first figure, and that a rather fierce
 and ominous figure, who rides across the scene of his cousin's
@@ -6198,7 +6187,6 @@ widespread family quarrel.
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="St. Thomas Aquinas — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 2 (part 3)
 
 The reason for dwelling here, however, upon the position of the
 Emperor Frederick, as a type of his [[Time|time]], in his culture and his violence,
@@ -6320,7 +6308,6 @@ the lowest place.
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="St. Thomas Aquinas — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 2 (part 4)
 
 The first effect of his decision, as we have seen, was much more
 stimulating and even startling.  The General of the Dominicans, under whom
@@ -6432,7 +6419,6 @@ that secret throne of contemplation, from which he never [[Rose|rose]] again.
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="St. Thomas Aquinas — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 1)
 
 III
 
@@ -6542,7 +6528,6 @@ and strange whispers began to run round the schools.
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="St. Thomas Aquinas — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 2)
 
 A regular religious biographer of Thomas [[aquinas|Aquinas]] (who, needless to say,
 was the dunce in question) has said that by the end of this interview
@@ -6668,7 +6653,6 @@ may outlast and even devour all the duller appetites of man.
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="St. Thomas Aquinas — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 3)
 
 At the moment [[aquinas|Aquinas]] and Bonaventure were encouraged in the possibility
 that they were both right; by the almost universal agreement that they
@@ -6779,7 +6763,6 @@ quite so stale as that.
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="St. Thomas Aquinas — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 4)
 
 When the moderns, drawing the blackest curtain of obscurantism that
 ever obscured [[history]], decided that nothing mattered much before the
@@ -6904,7 +6887,6 @@ and work requiring very scientific tools.
 
 <span class="atom-split" data-atom="chapter_03--part_05" data-title="St. Thomas Aquinas — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 5)
 
 What made the Aristotelian Revolution really revolutionary was the fact
 that it was really religious.  It is the fact, so fundamental that I
@@ -7017,7 +6999,6 @@ for Albertus and [[aquinas|Aquinas]] stood firm.
 
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="St. Thomas Aquinas — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 6)
 
 In that sort of combat there is always confusion; and majorities
 change into minorities and back again, as if by [[Magic|magic]].  It is always
@@ -7123,7 +7104,6 @@ a just frontier between them.
 
 <span class="atom-split" data-atom="chapter_03--part_07" data-title="St. Thomas Aquinas — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 7)
 
 It is often cheerfully remarked that [[Christianity]] has failed,
 by which is meant that it has never had that sweeping, imperial and
@@ -7236,7 +7216,6 @@ they had made him agree with them.
 
 <span class="atom-split" data-atom="chapter_03--part_08" data-title="St. Thomas Aquinas — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 3 (part 8)
 
 Those who complain that theologians draw fine distinctions
 could hardly find a better example of their own folly.
@@ -7339,7 +7318,6 @@ But before he had gone many miles on the [[Journey|journey]], he was dead.
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="St. Thomas Aquinas — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 1)
 
 IV
 
@@ -7452,7 +7430,6 @@ that his wife may the more easily [[Love|love]] him."
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="St. Thomas Aquinas — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 2)
 
 And then suddenly the goblets leapt and rattled on the board and the great
 table shook, for the friar had brought down his huge fist like a club
@@ -7579,7 +7556,6 @@ and the fakir hanging himself on hooks.
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="St. Thomas Aquinas — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 3)
 
 Now nobody will begin to understand the Thomist [[philosophy]],
 or indeed the Catholic [[philosophy]], who does not realise that the
@@ -7696,7 +7672,6 @@ the miscalculation of Platonism had come very near to Manicheanism.
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="St. Thomas Aquinas — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 4)
 
 Popular errors are nearly always right.  They nearly always refer
 to some ultimate reality, about which those who correct them are
@@ -7826,7 +7801,6 @@ never became normal to them--until now.
 
 <span class="atom-split" data-atom="chapter_04--part_05" data-title="St. Thomas Aquinas — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 5)
 
 But this fact becomes very vivid indeed, when we compare
 the greatest of Christian philosophers with the only men who
@@ -7941,7 +7915,6 @@ do no harm; and the whole world trusted his word.
 
 <span class="atom-split" data-atom="chapter_04--part_06" data-title="St. Thomas Aquinas — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 6)
 
 Second, in the [[philosophy]] of St. Thomas, it is proved by the fact
 that everything depended on the new Christian motive for the study
@@ -8057,7 +8030,6 @@ as common to uncommon Italians.
 
 <span class="atom-split" data-atom="chapter_04--part_07" data-title="St. Thomas Aquinas — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 7)
 
 His bulk made it easy to regard him humorously as the sort
 of walking wine-barrel, common in the comedies of many nations:
@@ -8182,7 +8154,6 @@ and surely the mightiest and most magnanimous of the Hounds of Heaven.
 
 <span class="atom-split" data-atom="chapter_04--part_08" data-title="St. Thomas Aquinas — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 8)
 
 There may be many who do not understand the [[Nature|nature]] even of this
 sort of abstraction.  But then, unfortunately, there are many
@@ -8294,7 +8265,6 @@ but more preoccupied with zeal and less sensitive about publicity.
 
 <span class="atom-split" data-atom="chapter_04--part_09" data-title="St. Thomas Aquinas — Chapter 4 (part 9)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 9)
 
 The [[Truth|truth]] is that about all such things, in life and [[Death|death]],
 there is a sort of enormous quiet hanging about St. Thomas.
@@ -8407,7 +8377,6 @@ knew or suffered greatly on this side of his mind.
 
 <span class="atom-split" data-atom="chapter_04--part_10" data-title="St. Thomas Aquinas — Chapter 4 (part 10)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 10)
 
 There are moments when the most orthodox reader is tempted to hate
 the hagiographer as much as he loves the holy man.  The holy man
@@ -8530,7 +8499,6 @@ of his being born up miraculously in mid-air.
 
 <span class="atom-split" data-atom="chapter_04--part_11" data-title="St. Thomas Aquinas — Chapter 4 (part 11)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 11)
 
 An acute observer said of Thomas [[aquinas|Aquinas]] in his own [[Time|time]], "He could
 [[Alone|alone]] restore all [[philosophy]], if it had been burnt by [[Fire|fire]]."
@@ -8633,7 +8601,6 @@ earthly life; a hint that [[history]] has never been able to explain.
 
 <span class="atom-split" data-atom="chapter_04--part_12" data-title="St. Thomas Aquinas — Chapter 4 (part 12)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 4 (part 12)
 
 He had returned victorious from his last combat with Siger of Brabant;
 returned and retired.  This particular quarrel was the one point,
@@ -8725,7 +8692,6 @@ that of a [[Child|child]] of five.
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="St. Thomas Aquinas — Chapter 6 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 6 (part 1)
 
 VI
 
@@ -8837,7 +8803,6 @@ of the Senses, which is from God.
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="St. Thomas Aquinas — Chapter 6 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 6 (part 2)
 
 Thus, even those who appreciate the metaphysical depth of Thomism
 in other matters have expressed surprise that he does not deal at all
@@ -8964,7 +8929,6 @@ people used it; or as if it might mean all sorts of different things.
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="St. Thomas Aquinas — Chapter 6 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 6 (part 3)
 
 Now the Latin word Ens has a sound like the English word End.
 It is final and even abrupt; it is nothing except itself.
@@ -9070,7 +9034,6 @@ That is not another or new way of thinking; it is only ceasing to think.
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="St. Thomas Aquinas — Chapter 6 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 6 (part 4)
 
 What is really meant, and what is much more reasonable, is that
 the old syllogists sometimes set out the syllogism at length;
@@ -9161,7 +9124,6 @@ as an intellectual equal.
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="St. Thomas Aquinas — Chapter 7 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 7 (part 1)
 
 VII
 
@@ -9275,7 +9237,6 @@ a sort of theology without theism.
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="St. Thomas Aquinas — Chapter 7 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 7 (part 2)
 
 I do not know for certain why St. Thomas was called the Angelic Doctor:
 whether it was that he had an angelic temper, or the intellectuality
@@ -9380,7 +9341,6 @@ the whole cosmic system of Christendom.
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="St. Thomas Aquinas — Chapter 7 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 7 (part 3)
 
 Thus, [[aquinas|Aquinas]] insists very profoundly but very practically,
 that there instantly enters, with this idea of affirmation the idea
@@ -9489,7 +9449,6 @@ for God with all His powers at every instant is immortally in action.
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="St. Thomas Aquinas — Chapter 7 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 7 (part 4)
 
 A cosmic [[Comedy|comedy]] of a very curious sort occurred recently;
 involving the views of very brilliant men, such as Mr. Bernard [[Shaw]]
@@ -9594,7 +9553,6 @@ should turn itself into everything.
 
 <span class="atom-split" data-atom="chapter_06--part_05" data-title="St. Thomas Aquinas — Chapter 7 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 7 (part 5)
 
 We have seen that most philosophers simply fail to philosophise
 about things because they change; they also fail to philosophise
@@ -9714,7 +9672,6 @@ though there may be quite a number of them.
 
 <span class="atom-split" data-atom="chapter_06--part_06" data-title="St. Thomas Aquinas — Chapter 7 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 7 (part 6)
 
 He has seen grass; and will not say he has not seen grass, because it
 today is and tomorrow is cast into the oven.  That is the substance
@@ -9803,7 +9760,6 @@ considerable consideration, I have left out the only important thing.
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="St. Thomas Aquinas — Chapter 8 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 8 (part 1)
 
 VIII
 
@@ -9911,7 +9867,6 @@ of an adventurous mind and a strange fact.
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="St. Thomas Aquinas — Chapter 8 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 8 (part 2)
 
 M. Maritain has used an admirable metaphor, in his book Theonas,
 when he says that the external fact fertilises the internal intelligence,
@@ -10026,7 +9981,6 @@ Things are a little different now that it has led to universal bankruptcy.
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="St. Thomas Aquinas — Chapter 8 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 8 (part 3)
 
 Here, however, we collide with a colossal [[Paradox|paradox]] of [[history]].
 The Thomist [[philosophy]] and theology, quite fairly compared with
@@ -10137,7 +10091,6 @@ even in mediaeval times.
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="St. Thomas Aquinas — Chapter 8 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 8 (part 4)
 
 It will be found earlier in this book; and it was a quarrel of [[Monks|monks]].
 We have seen how the great name of Augustine, a name never mentioned
@@ -10238,7 +10191,6 @@ He destroyed Reason; and substituted Suggestion.
 
 <span class="atom-split" data-atom="chapter_07--part_05" data-title="St. Thomas Aquinas — Chapter 8 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[aquinas]] — Chapter 8 (part 5)
 
 It is said that the great Reformer publicly burned the Summa Theologica
 and the works of [[aquinas|Aquinas]]; and with the bonfire of such books this book may

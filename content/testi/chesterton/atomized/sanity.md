@@ -26,32 +26,32 @@ DODD, MEAD & COMPANY
 
 CONTENTS
 
-  I SOME GENERAL IDEAS--
-   1. THE BEGINNING OF THE QUARREL
-   2. THE PERIL OF THE HOUR
-   3. THE CHANCE OF RECOVERY
-   4. ON A SENSE OF PROPORTION
+I SOME GENERAL IDEAS--
+1. THE BEGINNING OF THE QUARREL
+2. THE PERIL OF THE HOUR
+3. THE CHANCE OF RECOVERY
+4. ON A SENSE OF PROPORTION
 
- II SOME ASPECTS OF BIG BUSINESS--
-   1. THE BLUFF OF THE BIG SHOPS
-   2. A MISUNDERSTANDING ABOUT METHOD
-   3. A CASE IN POINT
-   4. THE TYRANNY OF TRUSTS
+II SOME ASPECTS OF BIG BUSINESS--
+1. THE BLUFF OF THE BIG SHOPS
+2. A MISUNDERSTANDING ABOUT METHOD
+3. A CASE IN POINT
+4. THE TYRANNY OF TRUSTS
 
 III SOME ASPECTS OF THE LAND--
-   1. THE SIMPLE [[Truth|TRUTH]]
-   2. VOWS AND VOLUNTEERS
-   3. THE REAL LIFE ON THE LAND
+1. THE SIMPLE [[Truth|TRUTH]]
+2. VOWS AND VOLUNTEERS
+3. THE REAL LIFE ON THE LAND
 
- IV SOME ASPECTS OF MACHINERY--
-   1. THE [[Wheel|WHEEL]] OF FATE
-   2. THE [[Romance|ROMANCE]] OF MACHINERY
-   3. THE HOLIDAY OF THE SLAVE
-   4. THE FREE MAN AND THE FORD CAR
+IV SOME ASPECTS OF MACHINERY--
+1. THE [[Wheel|WHEEL]] OF FATE
+2. THE [[Romance|ROMANCE]] OF MACHINERY
+3. THE HOLIDAY OF THE SLAVE
+4. THE FREE MAN AND THE FORD CAR
 
-  V A NOTE ON EMIGRATION--
-   1. THE NEED OF A NEW SPIRIT
-   2. THE RELIGION OF SMALL PROPERTY
+V A NOTE ON EMIGRATION--
+1. THE NEED OF A NEW SPIRIT
+2. THE RELIGION OF SMALL PROPERTY
 
 VI A SUMMARY
 
@@ -59,10 +59,10 @@ VI A SUMMARY
 
 I SOME GENERAL IDEAS
 
-  1. The Beginning of the Quarrel
-  2. The Peril of the Hour
-  3. The Chance of Recovery
-  4. On a Sense of Proportion
+1. The Beginning of the Quarrel
+2. The Peril of the Hour
+3. The Chance of Recovery
+4. On a Sense of Proportion
 
 = = = = = = = = = = = = = = = =
 
@@ -1579,10 +1579,10 @@ more than human was lost with a [[Garden|garden]] long ago.
 
 II SOME ASPECTS OF BIG BUSINESS
 
-  1. The Bluff of the Big Shops
-  2. A Misunderstanding about Method
-  3. A Case in Point
-  4. The Tyranny of Trusts
+1. The Bluff of the Big Shops
+2. A Misunderstanding about Method
+3. A Case in Point
+4. The Tyranny of Trusts
 
 = = = = = = = = = = = = = = = =
 
@@ -2531,8 +2531,8 @@ willing to admit that there may be people who trust in Trusts.
 I admit it with [[Tears|tears]], like those of the benevolent captain
 in the Bab Ballads who said:
 
-    "It's human [[Nature|nature]] p'raps; if so,
-     Oh, isn't human [[Nature|nature]] low?"
+"It's human [[Nature|nature]] p'raps; if so,
+Oh, isn't human [[Nature|nature]] low?"
 
 I myself [[Doubt|doubt]] whether it is quite so low as that; but I admit
 the possibility of this utter lowness; I admit it with weeping
@@ -2677,9 +2677,9 @@ flaming sky-signs and scrape the sky like one of their crazy towers.
 
 III SOME ASPECTS OF THE LAND
 
-  1. The Simple [[Truth]]
-  2. Vows and Volunteers
-  3. The Real Life on the Land
+1. The Simple [[Truth]]
+2. Vows and Volunteers
+3. The Real Life on the Land
 
 = = = = = = = = = = = = = = = =
 
@@ -3483,10 +3483,10 @@ and the rounding of our little life.
 
 IV SOME ASPECTS OF MACHINERY
 
-  1. The [[Wheel]] of Fate
-  2. The [[Romance]] of Machinery
-  3. The Holiday of the Slave
-  4. The Free Man and the Ford Car
+1. The [[Wheel]] of Fate
+2. The [[Romance]] of Machinery
+3. The Holiday of the Slave
+4. The Free Man and the Ford Car
 
 = = = = = = = = = = = = = = = =
 
@@ -4541,8 +4541,8 @@ the defects of the approach.
 
 V A NOTE ON EMIGRATION
 
-  1. The Need of a New Spirit
-  2. The Religion of Small Property
+1. The Need of a New Spirit
+2. The Religion of Small Property
 
 = = = = = = = = = = = = = = = =
 
@@ -5726,14 +5726,14 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_06_some_aspects_of_the_land" data-title="Sanity — SOME ASPECTS OF THE LAND--" data-chapter="Story 06 SOME ASPECTS OF THE LAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_some_aspects_of_the_land" data-title="Sanity — SOME ASPECTS OF THE LAND--" data-chapter="SOME ASPECTS OF THE LAND" data-kind="story"></span>
 
 
 III SOME ASPECTS OF THE LAND
 
-  1. The Simple [[Truth]]
-  2. Vows and Volunteers
-  3. The Real Life on the Land
+1. The Simple [[Truth]]
+2. Vows and Volunteers
+3. The Real Life on the Land
 
 = = = = = = = = = = = = = = = =
 
@@ -5742,23 +5742,23 @@ III SOME ASPECTS OF THE LAND
 
 III ALCUNI ASPETTI DELLA TERRA
 
-  1. La semplice [[Truth|Verità]]
-  2. Voti e volontari
-  3. La vera vita sulla terra
+1. La semplice [[Truth|Verità]]
+2. Voti e volontari
+3. La vera vita sulla terra
 
 = = = = = = = = = = = = = = = =
 
 
 
-<span class="atom-split" data-atom="story_10_some_aspects_of_machinery" data-title="Sanity — SOME ASPECTS OF MACHINERY--" data-chapter="Story 10 SOME ASPECTS OF MACHINERY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_some_aspects_of_machinery" data-title="Sanity — SOME ASPECTS OF MACHINERY--" data-chapter="SOME ASPECTS OF MACHINERY" data-kind="story"></span>
 
 
 IV SOME ASPECTS OF MACHINERY
 
-  1. The [[Wheel]] of Fate
-  2. The [[Romance]] of Machinery
-  3. The Holiday of the Slave
-  4. The Free Man and the Ford Car
+1. The [[Wheel]] of Fate
+2. The [[Romance]] of Machinery
+3. The Holiday of the Slave
+4. The Free Man and the Ford Car
 
 = = = = = = = = = = = = = = = =
 
@@ -5767,19 +5767,19 @@ IV SOME ASPECTS OF MACHINERY
 
 IV ALCUNI ASPETTI DELLA MACCHINA
 
-  1. La [[Wheel|Ruota]] del Fato
-  2. Il [[Romance|Fascino]] della macchina
-  3. La vacanza dello schiavo
-  4. L'uomo libero e la Ford
+1. La [[Wheel|Ruota]] del Fato
+2. Il [[Romance|Fascino]] della macchina
+3. La vacanza dello schiavo
+4. L'uomo libero e la Ford
 
 = = = = = = = = = = = = = = = =
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_01" data-title="Sanity — ON A SENSE OF PROPORTION (part 1)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_01" data-title="Sanity — ON A SENSE OF PROPORTION (part 1)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
-  4. On a Sense of Proportion
+4. On a Sense of Proportion
 
 = = = = = = = = = = = = = = = =
 
@@ -5917,7 +5917,7 @@ Which, I grieve to say, is not the case.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_02" data-title="Sanity — ON A SENSE OF PROPORTION (part 2)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_02" data-title="Sanity — ON A SENSE OF PROPORTION (part 2)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 Nevertheless, there is enough verbal vagueness about Socialism
@@ -6030,7 +6030,7 @@ it is a phenomenon for him to explain.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_03" data-title="Sanity — ON A SENSE OF PROPORTION (part 3)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_03" data-title="Sanity — ON A SENSE OF PROPORTION (part 3)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 The [[Truth|truth]] is that the conception that small property evolves
@@ -6137,7 +6137,7 @@ as their only possible praise.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_04" data-title="Sanity — ON A SENSE OF PROPORTION (part 4)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_04" data-title="Sanity — ON A SENSE OF PROPORTION (part 4)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 What do we mean by that "equality of pressure" as of the stones
@@ -6248,7 +6248,7 @@ He is a barbarian who has never seen an arch.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_05" data-title="Sanity — ON A SENSE OF PROPORTION (part 5)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_05" data-title="Sanity — ON A SENSE OF PROPORTION (part 5)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 In the notes I have here jotted down it will be obvious, of course,
@@ -6369,7 +6369,7 @@ of modern England is likely to have a bad harvest.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_06" data-title="Sanity — ON A SENSE OF PROPORTION (part 6)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_06" data-title="Sanity — ON A SENSE OF PROPORTION (part 6)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 Now the reasons for regarding the present problem of Europe,
@@ -6491,7 +6491,7 @@ to point out the lethargy of Nelson or the dull routine of Gordon.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_07" data-title="Sanity — ON A SENSE OF PROPORTION (part 7)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_07" data-title="Sanity — ON A SENSE OF PROPORTION (part 7)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 But this collapse of industrial [[Individualism|individualism]], which is not
@@ -6604,7 +6604,7 @@ that it is no longer there.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_08" data-title="Sanity — ON A SENSE OF PROPORTION (part 8)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_08" data-title="Sanity — ON A SENSE OF PROPORTION (part 8)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 For it is one of the grim and even grisly jokes of the situation
@@ -6717,7 +6717,7 @@ For the beer was abominably bad.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_09" data-title="Sanity — ON A SENSE OF PROPORTION (part 9)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_09" data-title="Sanity — ON A SENSE OF PROPORTION (part 9)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 True, he had not yet submitted it to any chemical analysis;
@@ -6819,7 +6819,7 @@ to his [[Poison|poison]].
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_10" data-title="Sanity — ON A SENSE OF PROPORTION (part 10)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_10" data-title="Sanity — ON A SENSE OF PROPORTION (part 10)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 As I [[Hope|hope]] to explain in the essays that follow, I think the question
@@ -6936,7 +6936,7 @@ And in this connection I would venture to utter a warning.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_11" data-title="Sanity — ON A SENSE OF PROPORTION (part 11)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_11" data-title="Sanity — ON A SENSE OF PROPORTION (part 11)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 A man has been led by a foolish guide or a [[Self|self]]-confident
@@ -7055,7 +7055,7 @@ you for blundering and may not forgive you for despairing."
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_12" data-title="Sanity — ON A SENSE OF PROPORTION (part 12)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_12" data-title="Sanity — ON A SENSE OF PROPORTION (part 12)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 = = = = = = = = = = = = = = = =
@@ -7174,7 +7174,7 @@ heaven and hell.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_13" data-title="Sanity — ON A SENSE OF PROPORTION (part 13)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_13" data-title="Sanity — ON A SENSE OF PROPORTION (part 13)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 That is the real issue to be fought out with our serious critics; and I
@@ -7293,7 +7293,7 @@ of Liberty to deliver us.
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_14" data-title="Sanity — ON A SENSE OF PROPORTION (part 14)" data-chapter="Story 03 ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_14" data-title="Sanity — ON A SENSE OF PROPORTION (part 14)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
 We do not offer perfection; what we offer is proportion.
@@ -7375,12 +7375,12 @@ more than human was lost with a [[Garden|garden]] long ago.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_01" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 1)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_01" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 1)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
-  2. A Misunderstanding about Method
-  3. A Case in Point
-  4. The Tyranny of Trusts
+2. A Misunderstanding about Method
+3. A Case in Point
+4. The Tyranny of Trusts
 
 = = = = = = = = = = = = = = = =
 
@@ -7507,7 +7507,7 @@ an enemy of [[Truth|truth]] and liberty.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_02" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 2)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_02" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 2)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 I think such people exaggerate the extent to which it pays
@@ -7627,7 +7627,7 @@ when they need not do it at all.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_03" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 3)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_03" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 3)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 = = = = = = = = = = = = = = = =
@@ -7789,7 +7789,7 @@ and that all sorts of answers to it will immediately occur to the mind.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_04" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 4)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_04" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 4)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 Capitalism is breaking up; and in one sense we do not pretend to be sorry
@@ -7938,7 +7938,7 @@ from the State and the employer on an overdraft at the Bank.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_05" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 5)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_05" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 5)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 = = = = = = = = = = = = = = = =
@@ -8047,7 +8047,7 @@ simply cruel that a little pin-prick of competition can burst it.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_06" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 6)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_06" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 6)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 I do not know whether the big shops are quite so weak and wobbly as their
@@ -8177,7 +8177,7 @@ of a hundred fiends in hell:  "Property is a Trust."
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_07" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 7)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_07" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 7)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 Now I could not more conveniently sum up what I meant by this first
@@ -8323,7 +8323,7 @@ a net of his own, and is once more a fisher of men.
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_08" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 8)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_08" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 8)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 I began by enunciating the [[Paradox|paradox]] that one way of supporting small
@@ -8371,8 +8371,8 @@ willing to admit that there may be people who trust in Trusts.
 I admit it with [[Tears|tears]], like those of the benevolent captain
 in the Bab Ballads who said:
 
-    "It's human [[Nature|nature]] p'raps; if so,
-     Oh, isn't human [[Nature|nature]] low?"
+"It's human [[Nature|nature]] p'raps; if so,
+Oh, isn't human [[Nature|nature]] low?"
 
 I myself [[Doubt|doubt]] whether it is quite so low as that; but I admit
 the possibility of this utter lowness; I admit it with weeping
@@ -8431,7 +8431,7 @@ of the Megaphone" and "The Adventure of the Unnoticed Hoarding."
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_09" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 9)" data-chapter="Story 05 A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_09" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 9)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
 
 
 What these people really mean is that they cannot imagine
@@ -8524,7 +8524,7 @@ flaming sky-signs and scrape the sky like one of their crazy towers.
 
 
 
-<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_01" data-title="Sanity — THE SIMPLE TRUTH (part 1)" data-chapter="Story 07 THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_01" data-title="Sanity — THE SIMPLE TRUTH (part 1)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
 
 
 I THE SIMPLE [[Truth|TRUTH]]
@@ -8651,7 +8651,7 @@ more desirable it is than many suppose.
 
 
 
-<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_02" data-title="Sanity — THE SIMPLE TRUTH (part 2)" data-chapter="Story 07 THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_02" data-title="Sanity — THE SIMPLE TRUTH (part 2)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
 
 
 I shall consider these separate aspects of agricultural [[Distributism|distributism]]
@@ -8732,7 +8732,7 @@ except what they have trampled underfoot.
 
 
 
-<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_01" data-title="Sanity — VOWS AND VOLUNTEERS (part 1)" data-chapter="Story 08 VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_01" data-title="Sanity — VOWS AND VOLUNTEERS (part 1)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
 
 
 II VOWS AND VOLUNTEERS
@@ -8850,7 +8850,7 @@ is harder for a free man to make a [[Home|home]] than it was for a medieval
 
 
 
-<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_02" data-title="Sanity — VOWS AND VOLUNTEERS (part 2)" data-chapter="Story 08 VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_02" data-title="Sanity — VOWS AND VOLUNTEERS (part 2)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
 
 
 The quarrel about the Limehouse slums was a working model of the problem--
@@ -8976,7 +8976,7 @@ possibility of it being done, if we do not choose to try.
 
 
 
-<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_03" data-title="Sanity — VOWS AND VOLUNTEERS (part 3)" data-chapter="Story 08 VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_03" data-title="Sanity — VOWS AND VOLUNTEERS (part 3)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
 
 
 Now, using words in this sensible sense, I should maintain that there
@@ -9098,7 +9098,7 @@ of peasants could live on the land.
 
 
 
-<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_01" data-title="Sanity — THE REAL LIFE ON THE LAND (part 1)" data-chapter="Story 09 THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_01" data-title="Sanity — THE REAL LIFE ON THE LAND (part 1)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
 
 
 III THE REAL LIFE ON THE LAND
@@ -9210,7 +9210,7 @@ the roar of the [[River|river]] of hell.
 
 
 
-<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_02" data-title="Sanity — THE REAL LIFE ON THE LAND (part 2)" data-chapter="Story 09 THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_02" data-title="Sanity — THE REAL LIFE ON THE LAND (part 2)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
 
 
 And in saying this, the poet certainly proves once more the two
@@ -9310,7 +9310,7 @@ for it is knowledge of the causes of things.
 
 
 
-<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_03" data-title="Sanity — THE REAL LIFE ON THE LAND (part 3)" data-chapter="Story 09 THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_03" data-title="Sanity — THE REAL LIFE ON THE LAND (part 3)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
 
 
 Most of us realize in some sense that this is true; but many
@@ -9426,7 +9426,7 @@ e il compiersi della nostra piccola vita.
 
 
 
-<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_01" data-title="Sanity — THE WHEEL OF FATE (part 1)" data-chapter="Story 11 THE Wheel WHEEL OF FATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_01" data-title="Sanity — THE WHEEL OF FATE (part 1)" data-chapter="THE Wheel WHEEL OF FATE" data-kind="excerpt"></span>
 
 
 I THE [[Wheel|WHEEL]] OF FATE
@@ -9527,7 +9527,7 @@ are themselves refusing to use the mind.
 
 
 
-<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_02" data-title="Sanity — THE WHEEL OF FATE (part 2)" data-chapter="Story 11 THE Wheel WHEEL OF FATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_02" data-title="Sanity — THE WHEEL OF FATE (part 2)" data-chapter="THE Wheel WHEEL OF FATE" data-kind="excerpt"></span>
 
 
 The aim of human polity is human happiness.  For those holding
@@ -9685,7 +9685,7 @@ a project far more practicable than a Milk Trust.
 
 
 
-<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_01" data-title="Sanity — THE ROMANCE OF MACHINERY (part 1)" data-chapter="Story 12 THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_01" data-title="Sanity — THE ROMANCE OF MACHINERY (part 1)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
 
 
 II THE [[Romance|ROMANCE]] OF MACHINERY
@@ -9817,7 +9817,7 @@ at the thought of this, whenever he sends a telegram.
 
 
 
-<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_02" data-title="Sanity — THE ROMANCE OF MACHINERY (part 2)" data-chapter="Story 12 THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_02" data-title="Sanity — THE ROMANCE OF MACHINERY (part 2)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
 
 
 Now this has a considerable relevancy to the real criticism of the modern
@@ -9920,7 +9920,7 @@ least admit that this is not practical.
 
 
 
-<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_03" data-title="Sanity — THE ROMANCE OF MACHINERY (part 3)" data-chapter="Story 12 THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_03" data-title="Sanity — THE ROMANCE OF MACHINERY (part 3)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
 
 
 I have thus tried to put myself fairly in the position of
@@ -10009,7 +10009,7 @@ off to a meeting to demand the limitation of armaments.
 
 
 
-<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_01" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 1)" data-chapter="Story 13 THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_01" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 1)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
 
 
 III THE HOLIDAY OF THE SLAVE
@@ -10123,7 +10123,7 @@ flooded, swamped, and ruined; but not emancipated.
 
 
 
-<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_02" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 2)" data-chapter="Story 13 THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_02" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 2)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
 
 
 Inventions have destroyed invention.  The big modern machines
@@ -10229,7 +10229,7 @@ to the grinding [[Slavery|slavery]] of his leisure.
 
 
 
-<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_01" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 1)" data-chapter="Story 14 THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_01" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 1)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
 
 
 IV THE FREE MAN AND THE FORD CAR
@@ -10369,7 +10369,7 @@ from other millionaires, who are exactly similarly constituted.
 
 
 
-<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_02" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 2)" data-chapter="Story 14 THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_02" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 2)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
 
 
 Such are the advantages of standardization; but, as may be suspected,
@@ -10471,7 +10471,7 @@ to find out whether he has a [[Soul|soul]] above machinery.
 
 
 
-<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_03" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 3)" data-chapter="Story 14 THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_03" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 3)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
 
 
 Upon this point of immediate compromise with machinery, therefore, I am
@@ -10595,10 +10595,10 @@ i difetti dell'approccio.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_01" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 1)" data-chapter="Story 16 THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_01" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 1)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
 
 
-  2. The Religion of Small Property
+2. The Religion of Small Property
 
 = = = = = = = = = = = = = = = =
 
@@ -10713,7 +10713,7 @@ the evidence of things not seen.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_02" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 2)" data-chapter="Story 16 THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_02" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 2)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
 
 
 If I do not compare the critic in question with the doctors
@@ -10860,7 +10860,7 @@ out of his stability.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_03" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 3)" data-chapter="Story 16 THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_03" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 3)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
 
 
 I do not profess to know very much about the French Canadians;
@@ -10980,7 +10980,7 @@ fact in life.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_04" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 4)" data-chapter="Story 16 THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_04" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 4)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
 
 
 Now when I remark that we want a type of colonization rather
@@ -11112,7 +11112,7 @@ before it can again be any part of the [[Hope|hope]] of the world.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_05" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 5)" data-chapter="Story 16 THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_05" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 5)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
 
 
 A recent description of the Happy Factory, as it exists in [[america|America]]
@@ -11222,7 +11222,7 @@ the limits of this world can build up cities that abide.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_06" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 6)" data-chapter="Story 16 THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_06" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 6)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
 
 
 As I said at the beginning of this section, it is futile to pretend
@@ -11321,7 +11321,7 @@ and when once they believe it, they travel hopefully no longer.
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_01" data-title="Sanity — A SUMMARY (part 1)" data-chapter="Story 17 A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_01" data-title="Sanity — A SUMMARY (part 1)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
 
 
 VI A SUMMARY
@@ -11425,7 +11425,7 @@ would not care.
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_02" data-title="Sanity — A SUMMARY (part 2)" data-chapter="Story 17 A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_02" data-title="Sanity — A SUMMARY (part 2)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
 
 
 Many believe that humanity will be happy in this new peace;
@@ -11542,7 +11542,7 @@ suggested that there is any way of winning without fighting.
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_03" data-title="Sanity — A SUMMARY (part 3)" data-chapter="Story 17 A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_03" data-title="Sanity — A SUMMARY (part 3)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
 
 
 Under this heading I have considered in their place, for instance,
@@ -11648,7 +11648,7 @@ be called a Crusade.
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_04" data-title="Sanity — A SUMMARY (part 4)" data-chapter="Story 17 A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_04" data-title="Sanity — A SUMMARY (part 4)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
 
 
 Recurring to the second principle, however, there is another and less
@@ -11755,7 +11755,7 @@ I am revolutionary--but too democratic to be evolutionary, anyhow.
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_05" data-title="Sanity — A SUMMARY (part 5)" data-chapter="Story 17 A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_05" data-title="Sanity — A SUMMARY (part 5)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
 
 
 The thing behind Bolshevism and many other modern things is a new [[Doubt|doubt]].

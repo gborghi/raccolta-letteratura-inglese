@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="history" data-title="A Short History of England" data-chapter="" data-kind="intro"></span>
 
-# [[history]]
 
 G.K. Chesterton, A Short [[history|History]] of England, 1917.
 
@@ -504,14 +503,14 @@ in English literature, may serve to sum up the contrast.  The British
 state which was found by Caesar was long believed to have been founded
 by [[Brutus]].  The contrast between the one very dry discovery and the other
 very fantastic foundation has something decidedly comic about it;
-as if Caesar's `Et tu, Brute,' might be translated, `What, you here?'
+as if Caesar's ‘Et tu, Brute,' might be translated, ‘What, you here?'
 But in one respect the [[Fable|fable]] is quite as important as the fact.
 They both testify to the reality of the Roman foundation of our
 insular society, and show that even the stories that seem prehistoric are
 seldom pre-Roman. When England is Elfland, the elves are not the Angles.
 All the phrases that can be used as clues through that tangle
 of traditions are more or less Latin phrases.  And in all our speech
-there was no word more Roman than `romance'.
+there was no word more Roman than ‘romance'.
 
 The Roman legions left Britain in the fourth century.
 This did not mean that the Roman civilization left it; but it did mean
@@ -531,8 +530,8 @@ of this period.  Yet a modern man must very nearly turn his mind
 upside down to understand it.  Almost every modern man has
 in his head an association between freedom and the future.
 The whole culture of our time has been full of the notion of
-`A Good [[Time]] Coming.'  Now the whole culture of the Dark Ages was
-full of the notion of `A Good Time Going.'  They looked backwards
+‘A Good [[Time]] Coming.'  Now the whole culture of the Dark Ages was
+full of the notion of ‘A Good Time Going.'  They looked backwards
 to old enlightenment and forwards to new prejudices.  In our time
 there has come a quarrel between faith and hope--which perhaps
 must be healed by charity.  But they were situated otherwise.
@@ -584,7 +583,7 @@ It is a joke the subtlety of which they would never
 have been able to enjoy, if King Brian had not broken
 the heathen in Ireland at the great Battle of Clontarf.
 The ordinary English reader would never have heard of Olaf
-of Norway if he had not `preached the Gospel with his [[Sword|sword]]';
+of Norway if he had not ‘preached the Gospel with his [[Sword|sword]]';
 or the Cid if he had not fought against the Crescent.
 And though Alfred the Great seems to have deserved his title
 even as a personality, he was not so great as the work
@@ -686,7 +685,7 @@ emblematically in the psychology of the chivalric experiment.
 The idea of a round table is not merely universality but equality.
 It has in it, modified of course, by other tendencies
 to differentiation, the same idea that exists in the very
-word `peers,' as given to the knights of Charlemagne.
+word ‘peers,' as given to the knights of Charlemagne.
 In this the Round Table is as Roman as the round arch,
 which might also serve as a type; for instead of being one
 barbaric rock merely rolled on the others, the king was rather
@@ -708,7 +707,7 @@ It is all the harder for the serious modern mind because our fathers
 felt at home with these tales, and therefore took liberties with them.
 Probably the rhyme which runs,
 
-`When good [[King Arthur]] ruled this land He was a noble [[King|king]],
+‘When good [[King Arthur]] ruled this land He was a noble [[King|king]],
 He stole three pecks of barley meal,'
 
 is much nearer the true mediaeval note than the aristocratic
@@ -744,8 +743,8 @@ IV
 
 THE DEFEAT OF THE BARBARIANS
 
-It is a quaint accident that we employ the word `short-sighted'
-as a condemnation; but not the word `long-sighted,'
+It is a quaint accident that we employ the word ‘short-sighted'
+as a condemnation; but not the word ‘long-sighted,'
 which we should probably use, if at all, as a compliment.
 Yet the one is as much a malady of vision as the other.
 We rightly say, in rebuke of a small-minded modernity, that it
@@ -788,7 +787,7 @@ years of recorded [[history]], abounding in literature of every
 conceivable kind, there was not so much as a mention of
 the oculist question for which all had been dared and done.
 Suppose not one of the living or dead languages of mankind
-had so much as a word for `long-sighted' or `short-sighted.'
+had so much as a word for ‘long-sighted' or ‘short-sighted.'
 Suppose, in short, the question that had torn the whole world
 in two was never even asked at all, until some spectacle-maker
 suggested it somewhere about 1750.  In that case I think we
@@ -825,18 +824,18 @@ the possibility that it never happened.  In the same spirit he deals
 with the little that can be quoted of the Teutonic society.
 His ideal picture of it is completed in small touches which even
 an amateur can detect as dubious.  Thus he will touch on the Teuton
-with a phrase like `the basis of their society was the free man';
-and on the Roman with a phrase like `the mines, if worked by
+with a phrase like ‘the basis of their society was the free man';
+and on the Roman with a phrase like ‘the mines, if worked by
 forced labour, must have been a source of endless oppression.'
 The simple fact being that the Roman and the Teuton both had slaves,
 he treats the Teuton free man as the only thing to be considered,
 not only then but now; and then goes out of his way to say that if
 the Roman treated his slaves badly, the slaves were badly treated.
-He expresses a `strange disappointment' that Gildas, the only
+He expresses a ‘strange disappointment' that Gildas, the only
 British chronicler, does not describe the great Teutonic system.
 In the opinion of Gildas, a modification of that of Gregory,
 it was a case of non Angli sed diaboli.  The modern Teutonist
-is `disappointed' that the contemporary authority saw nothing in his
+is ‘disappointed' that the contemporary authority saw nothing in his
 Teutons except wolves, [[dogs]], and whelps from the kennel of barbarism.
 But it is at least faintly tenable that there was nothing else
 to be seen.
@@ -5888,7 +5887,6 @@ of the English, except that they died for liberty.
 
 <span class="atom-split" data-atom="chapter_01" data-title="A Short History of England — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
 
-# [[history]] — Chapter 1
 
 I
 
@@ -6009,7 +6007,6 @@ of the unknown knight.
 
 <span class="atom-split" data-atom="chapter_18" data-title="A Short History of England — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
 
-# [[history]] — Chapter 18
 
 XVIII
 
@@ -6114,7 +6111,6 @@ of the English, except that they died for liberty.
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="A Short History of England — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 2 (part 1)
 
 II
 
@@ -6246,7 +6242,6 @@ or to tear down.
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="A Short History of England — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 2 (part 2)
 
 About that revolution no man has ever been able to be impartial.
 The present writer will make no idle pretence of being so.
@@ -6350,7 +6345,6 @@ happened to the whole European race.
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="A Short History of England — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 2 (part 3)
 
 Rome itself, which had made all that strong world, was the weakest
 thing in it.  The centre had been growing fainter and fainter,
@@ -6439,7 +6433,6 @@ though prematurely, the end of it.
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="A Short History of England — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 3 (part 1)
 
 III
 
@@ -6468,14 +6461,14 @@ in English literature, may serve to sum up the contrast.  The British
 state which was found by Caesar was long believed to have been founded
 by [[Brutus]].  The contrast between the one very dry discovery and the other
 very fantastic foundation has something decidedly comic about it;
-as if Caesar's `Et tu, Brute,' might be translated, `What, you here?'
+as if Caesar's ‘Et tu, Brute,' might be translated, ‘What, you here?'
 But in one respect the [[Fable|fable]] is quite as important as the fact.
 They both testify to the reality of the Roman foundation of our
 insular society, and show that even the stories that seem prehistoric are
 seldom pre-Roman. When England is Elfland, the elves are not the Angles.
 All the phrases that can be used as clues through that tangle
 of traditions are more or less Latin phrases.  And in all our speech
-there was no word more Roman than `romance'.
+there was no word more Roman than ‘romance'.
 
 The Roman legions left Britain in the fourth century.
 This did not mean that the Roman civilization left it; but it did mean
@@ -6495,8 +6488,8 @@ of this period.  Yet a modern man must very nearly turn his mind
 upside down to understand it.  Almost every modern man has
 in his head an association between freedom and the future.
 The whole culture of our time has been full of the notion of
-`A Good [[Time]] Coming.'  Now the whole culture of the Dark Ages was
-full of the notion of `A Good Time Going.'  They looked backwards
+‘A Good [[Time]] Coming.'  Now the whole culture of the Dark Ages was
+full of the notion of ‘A Good Time Going.'  They looked backwards
 to old enlightenment and forwards to new prejudices.  In our time
 there has come a quarrel between faith and hope--which perhaps
 must be healed by charity.  But they were situated otherwise.
@@ -6548,7 +6541,7 @@ It is a joke the subtlety of which they would never
 have been able to enjoy, if King Brian had not broken
 the heathen in Ireland at the great Battle of Clontarf.
 The ordinary English reader would never have heard of Olaf
-of Norway if he had not `preached the Gospel with his [[Sword|sword]]';
+of Norway if he had not ‘preached the Gospel with his [[Sword|sword]]';
 or the Cid if he had not fought against the Crescent.
 And though Alfred the Great seems to have deserved his title
 even as a personality, he was not so great as the work
@@ -6559,7 +6552,6 @@ he had to do.
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="A Short History of England — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 3 (part 2)
 
 But the [[Paradox|paradox]] remains that [[arthur|Arthur]] is more real than Alfred.
 For the age is the age of legends.  Towards these legends
@@ -6657,7 +6649,7 @@ emblematically in the psychology of the chivalric experiment.
 The idea of a round table is not merely universality but equality.
 It has in it, modified of course, by other tendencies
 to differentiation, the same idea that exists in the very
-word `peers,' as given to the knights of Charlemagne.
+word ‘peers,' as given to the knights of Charlemagne.
 In this the Round Table is as Roman as the round arch,
 which might also serve as a type; for instead of being one
 barbaric rock merely rolled on the others, the king was rather
@@ -6679,7 +6671,7 @@ It is all the harder for the serious modern mind because our fathers
 felt at home with these tales, and therefore took liberties with them.
 Probably the rhyme which runs,
 
-`When good [[King Arthur]] ruled this land He was a noble [[King|king]],
+‘When good [[King Arthur]] ruled this land He was a noble [[King|king]],
 He stole three pecks of barley meal,'
 
 is much nearer the true mediaeval note than the aristocratic
@@ -6716,14 +6708,13 @@ that the natives of Colchester were oysters.
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="A Short History of England — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 4 (part 1)
 
 IV
 
 THE DEFEAT OF THE BARBARIANS
 
-It is a quaint accident that we employ the word `short-sighted'
-as a condemnation; but not the word `long-sighted,'
+It is a quaint accident that we employ the word ‘short-sighted'
+as a condemnation; but not the word ‘long-sighted,'
 which we should probably use, if at all, as a compliment.
 Yet the one is as much a malady of vision as the other.
 We rightly say, in rebuke of a small-minded modernity, that it
@@ -6766,7 +6757,7 @@ years of recorded [[history]], abounding in literature of every
 conceivable kind, there was not so much as a mention of
 the oculist question for which all had been dared and done.
 Suppose not one of the living or dead languages of mankind
-had so much as a word for `long-sighted' or `short-sighted.'
+had so much as a word for ‘long-sighted' or ‘short-sighted.'
 Suppose, in short, the question that had torn the whole world
 in two was never even asked at all, until some spectacle-maker
 suggested it somewhere about 1750.  In that case I think we
@@ -6803,18 +6794,18 @@ the possibility that it never happened.  In the same spirit he deals
 with the little that can be quoted of the Teutonic society.
 His ideal picture of it is completed in small touches which even
 an amateur can detect as dubious.  Thus he will touch on the Teuton
-with a phrase like `the basis of their society was the free man';
-and on the Roman with a phrase like `the mines, if worked by
+with a phrase like ‘the basis of their society was the free man';
+and on the Roman with a phrase like ‘the mines, if worked by
 forced labour, must have been a source of endless oppression.'
 The simple fact being that the Roman and the Teuton both had slaves,
 he treats the Teuton free man as the only thing to be considered,
 not only then but now; and then goes out of his way to say that if
 the Roman treated his slaves badly, the slaves were badly treated.
-He expresses a `strange disappointment' that Gildas, the only
+He expresses a ‘strange disappointment' that Gildas, the only
 British chronicler, does not describe the great Teutonic system.
 In the opinion of Gildas, a modification of that of Gregory,
 it was a case of non Angli sed diaboli.  The modern Teutonist
-is `disappointed' that the contemporary authority saw nothing in his
+is ‘disappointed' that the contemporary authority saw nothing in his
 Teutons except wolves, [[dogs]], and whelps from the kennel of barbarism.
 But it is at least faintly tenable that there was nothing else
 to be seen.
@@ -6856,7 +6847,6 @@ the most real of them all.
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="A Short History of England — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 4 (part 2)
 
 The last of the heathen kingdoms to accept the [[Cross|cross]] was Mercia,
 which corresponds very roughly to what we call the Midlands.
@@ -6962,7 +6952,6 @@ their work was in vain.
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="A Short History of England — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 4 (part 3)
 
 The outer world of universal anarchy that lay beyond Christendom
 heaved another of its colossal and almost cosmic waves and swept
@@ -7049,7 +7038,6 @@ of the sea.
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="A Short History of England — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 5 (part 1)
 
 V
 
@@ -7155,7 +7143,6 @@ capacities, but not notably, perhaps, in the capacity of ancestors.
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="A Short History of England — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 5 (part 2)
 
 Along the northern coast of France, where the Confessor had passed
 his early life, lay the lands of one of the most powerful of the French
@@ -7300,7 +7287,6 @@ That system we call Feudalism.
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="A Short History of England — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 5 (part 3)
 
 That Feudalism was the main mark of the Middle Ages is a
 commonplace of fashionable information; but it is of the sort
@@ -7425,7 +7411,6 @@ very energy our barons became our kings.
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="A Short History of England — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 6 (part 1)
 
 VI
 
@@ -7556,7 +7541,6 @@ bleak northern island was filled with the fury of the Iconoclasts.
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="A Short History of England — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 6 (part 2)
 
 It was an element in this [[Sublime|sublime]] and yet sinister simplicity
 of [[Islam]] that it knew no boundaries.  Its very [[Home|home]] was homeless.
@@ -7681,7 +7665,6 @@ by their common sense.
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="A Short History of England — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 6 (part 3)
 
 Chivalry might be called the baptism of Feudalism.
 It was an attempt to bring the justice and even the [[logic]] of
@@ -7761,7 +7744,6 @@ mention the [[Nature|nature]], or even the name, of the [[French Revolution]].
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="A Short History of England — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 7 (part 1)
 
 VII
 
@@ -7902,7 +7884,6 @@ glory and bloody end.
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="A Short History of England — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 7 (part 2)
 
 Becket was a type of those historic times in which it is really
 very practical to be impracticable.  The quarrel which tore
@@ -8018,7 +7999,6 @@ horror at a man being horribly sinful and for being horribly sorry.
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="A Short History of England — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 7 (part 3)
 
 But it may be suggested, I think, though with the [[Doubt|doubt]] proper
 to ignorance, that the Angevin ideal of the [[King]]'s Justice lost
@@ -8146,7 +8126,6 @@ insecurity like that of [[Cain]], and of [[Exile|exile]] on the English kings.
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="A Short History of England — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 8 (part 1)
 
 VIII
 
@@ -8298,7 +8277,6 @@ or how it was destroyed.
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="A Short History of England — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 8 (part 2)
 
 What we call the manors were originally the villae of the pagan lords,
 each with its population of slaves.  Under this process,
@@ -8414,7 +8392,6 @@ in the evolution of a Master into a Mister.
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="A Short History of England — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 8 (part 3)
 
 The very vital importance of the word "Master" is this.
 A Guild was, very broadly speaking, a Trade [[Union]] in which every
@@ -8541,7 +8518,6 @@ It is important to remember this fact in the subsequent
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="A Short History of England — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 8 (part 4)
 
 The next fact to note is that the local [[government]] grew out of things
 like the Guild system, and not the system from the [[government]].
@@ -8625,7 +8601,6 @@ consented to betray and to destroy the rest.
 
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="A Short History of England — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 9 (part 1)
 
 IX
 
@@ -8761,7 +8736,6 @@ at once as a knight errant and a tender father of his people.
 
 <span class="atom-split" data-atom="chapter_09--part_02" data-title="A Short History of England — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 9 (part 2)
 
 Whatever the merits of this question, such a portrait of Edward
 was far from false.  He was the most just and conscientious type
@@ -8868,7 +8842,6 @@ of arrows, and cried, "St. George for Merry England."
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="A Short History of England — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 9 (part 3)
 
 Human things are uncomfortably complex, and while it was
 the April of patriotism it was the [[Autumn]] of mediaeval society.
@@ -8991,7 +8964,6 @@ asunder to bind it into a [[Cross|cross]] for Joan of Arc.
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="A Short History of England — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 10 (part 1)
 
 X
 
@@ -9134,7 +9106,6 @@ They announced their decision to the people, and the people
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="A Short History of England — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 10 (part 2)
 
 The two dramatic stories which connect Wat Tyler, doubtfully with
 the beginning, and definitely with the end of the revolt,
@@ -9258,7 +9229,6 @@ of Joan of Arc.
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="A Short History of England — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 10 (part 3)
 
 But this perversion, this diseased energy, is the power in all the epoch
 that follows the fall of [[Richard II]], and especially in those feuds
@@ -9357,7 +9327,6 @@ found the [[Crown|crown]] of England under a bush of thorn.
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="A Short History of England — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 11 (part 1)
 
 XI
 
@@ -9478,7 +9447,6 @@ and an excuse.
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="A Short History of England — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 11 (part 2)
 
 The old barony had indeed been thinned by the civil wars
 that closed at Bosworth, and curtailed by the economical
@@ -9612,7 +9580,6 @@ he cuts off England from England.
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="A Short History of England — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 11 (part 3)
 
 The great [[divorce]] brought down Wolsey, the mighty minister who had
 held the scales between the Empire and the French Monarchy, and made
@@ -9730,7 +9697,6 @@ that we now know as the [[Reformation]].
 
 <span class="atom-split" data-atom="chapter_11--part_04" data-title="A Short History of England — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 11 (part 4)
 
 The reign of terror established by Thomas Cromwell became
 an [[Inquisition]] of the blackest and most unbearable sort.
@@ -9831,7 +9797,6 @@ at the foot of the statue of [[Pompey]].
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="A Short History of England — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 12 (part 1)
 
 XII
 
@@ -9955,7 +9920,6 @@ had already felt falling across him the [[Shadow|shadow]] of a tall [[Ship|ship]
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="A Short History of England — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 12 (part 2)
 
 Wooden clichés about the birth of the British Empire and the spacious
 days of [[Queen Elizabeth]] have not merely obscured but contradicted
@@ -10093,7 +10057,6 @@ had almost forgotten.
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="A Short History of England — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 12 (part 3)
 
 Beyond the frontiers of the fading Empire lay that outer land, as loose
 and drifting as a sea, which had boiled over in the barbarian wars.
@@ -10197,7 +10160,6 @@ vecchia Marca di Brandeburgo. Il loro nome era Hohenzollern.
 
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="A Short History of England — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 13 (part 1)
 
 XIII
 
@@ -10327,7 +10289,6 @@ How glorious! ...and oh what an escape!"
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="A Short History of England — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 13 (part 2)
 
 The next thing to note is that their conception of
 church-[[government]] was in a true sense [[Self|self]]-[[government]];
@@ -10441,7 +10402,6 @@ and should be considered separately.
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="A Short History of England — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 13 (part 3)
 
 For the first point about [[democracy]], no candid person, in face of
 the facts, can really consider it at all.  It is quite possible to hold
@@ -10553,7 +10513,6 @@ and as passing.
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="A Short History of England — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 13 (part 4)
 
 It was the Whig rather than the Puritan that triumphed on that day,
 it was the Englishman with his aristocratic compromise;
@@ -10662,7 +10621,6 @@ da cui era cresciuta tutta la storia della Britannia.
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="A Short History of England — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 14 (part 1)
 
 XIV
 
@@ -10770,7 +10728,6 @@ alliance with the subtle and detached spirit of William Penn.
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="A Short History of England — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 14 (part 2)
 
 Much of England, then, was really alarmed at the Stuart scheme
 of toleration, sincere or insincere, because it seemed theoretical
@@ -10878,7 +10835,6 @@ the barbarian from beyond the Rhine.
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="A Short History of England — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 14 (part 3)
 
 The reign of [[Queen]] Anne, which covers the period between these
 two foreign kings, is therefore the true [[Time|time]] of transition.
@@ -10998,7 +10954,6 @@ unnecessary to say that it was defeated by a trick.
 
 <span class="atom-split" data-atom="chapter_14--part_04" data-title="A Short History of England — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 14 (part 4)
 
 The small German prince ascended the throne, or rather was hoisted
 into it like a dummy, and the great English Royalist went into [[Exile|exile]].
@@ -11072,7 +11027,6 @@ Bolingbroke had made a dying gesture, as if to forbid the banns.
 
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="A Short History of England — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 15 (part 1)
 
 XV
 
@@ -11215,7 +11169,6 @@ it stood for that Anglo-German alliance which, at a very much later
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="A Short History of England — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 15 (part 2)
 
 Roughly and frankly speaking, we may say that [[America]] forced
 the quarrel.  She wished to be separate, which was to her but
@@ -11372,7 +11325,6 @@ for being both rigid and remote.
 
 <span class="atom-split" data-atom="chapter_15--part_03" data-title="A Short History of England — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 15 (part 3)
 
 But the very name of Wellington is enough to suggest another,
 and with it the reminder that this, though true, is inadequate.
@@ -11473,7 +11425,6 @@ che bruciò le proprie navi, e che per sempre diede [[Fire|fuoco]] al Tamigi.
 
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="A Short History of England — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 16 (part 1)
 
 XVI
 
@@ -11588,7 +11539,6 @@ but not of the real robbers.
 
 <span class="atom-split" data-atom="chapter_16--part_02" data-title="A Short History of England — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 16 (part 2)
 
 This was the mysterious sin of the English squires, that they
 remained human, and yet ruined humanity all around them.
@@ -11704,7 +11654,6 @@ in having the tumbril without the guillotine.
 
 <span class="atom-split" data-atom="chapter_16--part_03" data-title="A Short History of England — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 16 (part 3)
 
 Anyhow, these embers of the revolutionary epoch were trodden
 out very brutally; the grindstone continued (and continues)
@@ -11846,7 +11795,6 @@ went so early in their youth to break down the doors of [[Death|death]].
 
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="A Short History of England — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 17 (part 1)
 
 XVII
 
@@ -11959,7 +11907,6 @@ but of one.  If there were two real parties, there could be no system.
 
 <span class="atom-split" data-atom="chapter_17--part_02" data-title="A Short History of England — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 17 (part 2)
 
 But if this was the evolution of parliamentary [[Reform|reform]], as represented
 by the first [[Reform]] Bill, we can see the other side of it in the
@@ -12068,7 +12015,6 @@ if he does call himself a Guild Socialist.
 
 <span class="atom-split" data-atom="chapter_17--part_03" data-title="A Short History of England — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 17 (part 3)
 
 The Trade [[Union]] movement passed through many perils, including a
 ludicrous attempt of certain lawyers to condemn as a criminal
@@ -12190,7 +12136,6 @@ the Higher Criticism too high for him even to criticize.
 
 <span class="atom-split" data-atom="chapter_17--part_04" data-title="A Short History of England — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
-# [[history]] — Chapter 17 (part 4)
 
 And then a day came, and if we were wise, we thanked God that we
 had failed.  [[Education]], if it had ever really been in question,

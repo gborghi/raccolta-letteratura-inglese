@@ -50,157 +50,157 @@ CONTENTS.
 
 
 
-         I. LEVITICAL                                                  3
+I. LEVITICAL                                                  3
 
 
 
-        II. THE WAGONS                                                16
+II. THE WAGONS                                                16
 
 
 
-       III. MR. YORKE                                                 31
+III. MR. YORKE                                                 31
 
 
 
-        IV. MR. YORKE (CONTINUED)                                     40
+IV. MR. YORKE (CONTINUED)                                     40
 
 
 
-         V. HOLLOW'S COTTAGE                                          51
+V. HOLLOW'S COTTAGE                                          51
 
 
 
-        VI. [[Coriolanus|CORIOLANUS]]                                                66
+VI. [[Coriolanus|CORIOLANUS]]                                                66
 
 
 
-       VII. THE CURATES AT TEA                                        85
+VII. THE CURATES AT TEA                                        85
 
 
 
-      VIII. NOAH AND MOSES                                           110
+VIII. NOAH AND MOSES                                           110
 
 
 
-        IX. BRIARMAINS                                               125
+IX. BRIARMAINS                                               125
 
 
 
-         X. OLD MAIDS                                                147
+X. OLD MAIDS                                                147
 
 
 
-        XI. FIELDHEAD                                                164
+XI. FIELDHEAD                                                164
 
 
 
-       XII. [[Shirley|SHIRLEY]] AND CAROLINE                                     181
+XII. [[Shirley|SHIRLEY]] AND CAROLINE                                     181
 
 
 
-      XIII. FURTHER COMMUNICATIONS ON BUSINESS                       201
+XIII. FURTHER COMMUNICATIONS ON BUSINESS                       201
 
 
 
-       XIV. [[Shirley|SHIRLEY]] SEEKS TO BE SAVED BY WORKS                       226
+XIV. [[Shirley|SHIRLEY]] SEEKS TO BE SAVED BY WORKS                       226
 
 
 
-        XV. MR. DONNE'S EXODUS                                       239
+XV. MR. DONNE'S EXODUS                                       239
 
 
 
-       XVI. WHITSUNTIDE                                              253
+XVI. WHITSUNTIDE                                              253
 
 
 
-      XVII. THE SCHOOL FEAST                                         264
+XVII. THE SCHOOL FEAST                                         264
 
 
 
-     XVIII. WHICH THE GENTEEL READER IS RECOMMENDED TO SKIP, LOW
+XVIII. WHICH THE GENTEEL READER IS RECOMMENDED TO SKIP, LOW
 
-            PERSONS BEING HERE INTRODUCED                            279
+PERSONS BEING HERE INTRODUCED                            279
 
 
 
-       XIX. A [[Summer|SUMMER]] [[Night|NIGHT]]                                           290
+XIX. A [[Summer|SUMMER]] [[Night|NIGHT]]                                           290
 
 
 
-        XX. TO-MORROW                                                306
+XX. TO-MORROW                                                306
 
 
 
-       XXI. MRS. PRYOR                                               319
+XXI. MRS. PRYOR                                               319
 
 
 
-      XXII. TWO LIVES                                                336
+XXII. TWO LIVES                                                336
 
 
 
-     XXIII. AN EVENING OUT                                           346
+XXIII. AN EVENING OUT                                           346
 
 
 
-      XXIV. THE VALLEY OF THE [[Shadow|SHADOW]] OF [[Death|DEATH]]                        365
+XXIV. THE VALLEY OF THE [[Shadow|SHADOW]] OF [[Death|DEATH]]                        365
 
 
 
-       XXV. THE WEST [[Wind|WIND]] BLOWS                                      384
+XXV. THE WEST [[Wind|WIND]] BLOWS                                      384
 
 
 
-      XXVI. OLD COPY-BOOKS                                           392
+XXVI. OLD COPY-BOOKS                                           392
 
 
 
-     XXVII. THE FIRST BLUESTOCKING                                   410
+XXVII. THE FIRST BLUESTOCKING                                   410
 
 
 
-    XXVIII. PHŒBE                                                   433
+XXVIII. PHŒBE                                                   433
 
 
 
-      XXIX. [[Louis Moore|LOUIS MOORE]]                                              453
+XXIX. [[Louis Moore|LOUIS MOORE]]                                              453
 
 
 
-       XXX. RUSHEDGE--A CONFESSIONAL                                 461
+XXX. RUSHEDGE--A CONFESSIONAL                                 461
 
 
 
-      XXXI. UNCLE AND NIECE                                          475
+XXXI. UNCLE AND NIECE                                          475
 
 
 
-     XXXII. THE SCHOOLBOY AND THE WOOD-NYMPH                         491
+XXXII. THE SCHOOLBOY AND THE WOOD-NYMPH                         491
 
 
 
-    XXXIII. MARTIN'S TACTICS                                         502
+XXXIII. MARTIN'S TACTICS                                         502
 
 
 
-     XXXIV. CASE OF DOMESTIC PERSECUTION--REMARKABLE INSTANCE
+XXXIV. CASE OF DOMESTIC PERSECUTION--REMARKABLE INSTANCE
 
-            OF PIOUS PERSEVERANCE IN THE DISCHARGE OF RELIGIOUS
+OF PIOUS PERSEVERANCE IN THE DISCHARGE OF RELIGIOUS
 
-            DUTIES                                                   513
+DUTIES                                                   513
 
 
 
-      XXXV. WHEREIN MATTERS MAKE SOME PROGRESS, BUT NOT MUCH         521
+XXXV. WHEREIN MATTERS MAKE SOME PROGRESS, BUT NOT MUCH         521
 
 
 
-     XXXVI. WRITTEN IN THE SCHOOLROOM                                534
+XXXVI. WRITTEN IN THE SCHOOLROOM                                534
 
 
 
-    XXXVII. THE WINDING-UP                                           555
+XXXVII. THE WINDING-UP                                           555
 
 
 
@@ -2280,7 +2280,7 @@ continuously the discourse most genial to his ear.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -3926,7 +3926,7 @@ threshold.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -7002,23 +7002,23 @@ caused him to be banished by his countrymen?"
 
 
 
-                      'Whether was it [[Pride|pride]],
+'Whether was it [[Pride|pride]],
 
-    Which out of daily fortune ever taints
+Which out of daily fortune ever taints
 
-    The happy man? whether defect of judgment,
+The happy man? whether defect of judgment,
 
-    To fail in the disposing of those chances
+To fail in the disposing of those chances
 
-    Which he was lord of? or whether [[Nature|nature]],
+Which he was lord of? or whether [[Nature|nature]],
 
-    Not to be other than one thing, not moving
+Not to be other than one thing, not moving
 
-    From the casque to the cushion, but commanding peace
+From the casque to the cushion, but commanding peace
 
-    Even with the same austerity and garb
+Even with the same austerity and garb
 
-    As he controlled the war?'"
+As he controlled the war?'"
 
 
 
@@ -7136,31 +7136,31 @@ three stanzas she rehearsed [[Well|well]].
 
 
 
-    "Mon beau voyage encore est si loin de sa fin!
+"Mon beau voyage encore est si loin de sa fin!
 
-     Je pars, et des ormeaux qui bordent le chemin
+Je pars, et des ormeaux qui bordent le chemin
 
-       J'ai passé le premiers à peine.
+J'ai passé le premiers à peine.
 
-     Au banquet de la vie à peine commencé,
+Au banquet de la vie à peine commencé,
 
-     Un instant seulement mes lèvres ont pressé
+Un instant seulement mes lèvres ont pressé
 
-       La coupe en mes mains encore pleine.
+La coupe en mes mains encore pleine.
 
 
 
-    "Je ne suis qu'au printemps--je veux voir la moisson;
+"Je ne suis qu'au printemps--je veux voir la moisson;
 
-     Et comme le soleil, de saison en saison,
+Et comme le soleil, de saison en saison,
 
-       Je veux achever mon année,
+Je veux achever mon année,
 
-     Brillante sur ma tige, et l'honneur du jardin
+Brillante sur ma tige, et l'honneur du jardin
 
-     Je n'ai vu luire encore que les feux du matin,
+Je n'ai vu luire encore que les feux du matin,
 
-       Je veux achever ma journée!"
+Je veux achever ma journée!"
 
 
 
@@ -8030,33 +8030,33 @@ taed's back." She hates these, but "waur she hates Robin-a-Ree."
 
 
 
-    "Oh, ance I lived happily by yon bonny burn--
+"Oh, ance I lived happily by yon bonny burn--
 
-       The warld was in [[Love|love]] wi' me;
+The warld was in [[Love|love]] wi' me;
 
-     But now I maun sit 'neath the cauld drift and mourn,
+But now I maun sit 'neath the cauld drift and mourn,
 
-       And curse black Robin-a-Ree!
-
-
-
-    "Then whudder awa, thou bitter biting blast,
-
-       And sough through the scrunty tree,
-
-     And smoor me up in the snaw fu' fast,
-
-       And n'er let the sun me see!
+And curse black Robin-a-Ree!
 
 
 
-    "Oh, never melt awa, thou wreath o' snaw,
+"Then whudder awa, thou bitter biting blast,
 
-       That's sae kind in graving me;
+And sough through the scrunty tree,
 
-     But hide me frae the scorn and guffaw
+And smoor me up in the snaw fu' fast,
 
-       O' villains like Robin-a-Ree!"
+And n'er let the sun me see!
+
+
+
+"Oh, never melt awa, thou wreath o' snaw,
+
+That's sae kind in graving me;
+
+But hide me frae the scorn and guffaw
+
+O' villains like Robin-a-Ree!"
 
 
 
@@ -10924,7 +10924,7 @@ Which Joe did accordingly.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -10982,39 +10982,39 @@ with an ease and buoyancy all their own:--
 
 
 
-    "Oh! who can explain
+"Oh! who can explain
 
-       This struggle for life,
+This struggle for life,
 
-     This travail and [[Pain|pain]],
+This travail and [[Pain|pain]],
 
-       This trembling and strife?
+This trembling and strife?
 
-     Plague, earthquake, and famine,
+Plague, earthquake, and famine,
 
-       And tumult and war,
+And tumult and war,
 
-     The wonderful coming
+The wonderful coming
 
-       Of Jesus declare!
+Of Jesus declare!
 
 
 
-    "For every fight
+"For every fight
 
-       Is dreadful and loud:
+Is dreadful and loud:
 
-     The warrior's delight
+The warrior's delight
 
-       Is slaughter and [[Blood|blood]],
+Is slaughter and [[Blood|blood]],
 
-     His foes overturning,
+His foes overturning,
 
-       Till all shall expire:
+Till all shall expire:
 
-     And this is with burning,
+And this is with burning,
 
-       And fuel, and [[Fire|fire]]!"
+And fuel, and [[Fire|fire]]!"
 
 
 
@@ -11026,59 +11026,59 @@ liberty!" rang from the chapel, and out all the assembly broke again.
 
 
 
-    "What a [[Mercy|mercy]] is this!
+"What a [[Mercy|mercy]] is this!
 
-      What a heaven of bliss!
+What a heaven of bliss!
 
-    How unspeakably happy am I!
+How unspeakably happy am I!
 
-      Gathered into the fold,
+Gathered into the fold,
 
-      With Thy people enrolled,
+With Thy people enrolled,
 
-    With Thy people to live and to die!
-
-
-
-    "Oh, the goodness of God
-
-      In employing a clod
-
-    His tribute of glory to raise;
-
-      His standard to bear,
-
-      And with triumph declare
-
-    His unspeakable riches of grace!
+With Thy people to live and to die!
 
 
 
-    "Oh, the fathomless [[Love|love]]
+"Oh, the goodness of God
 
-      That has deigned to approve
+In employing a clod
 
-    And prosper the work of my hands.
+His tribute of glory to raise;
 
-      With my [[Pastoral|pastoral]] crook
+His standard to bear,
 
-      I went over the brook,
+And with triumph declare
 
-    And behold I am spread into bands!
+His unspeakable riches of grace!
 
 
 
-    "Who, I ask in amaze,
+"Oh, the fathomless [[Love|love]]
 
-      Hath begotten me these?
+That has deigned to approve
 
-    And inquire from what quarter they came.
+And prosper the work of my hands.
 
-      My full heart it replies,
+With my [[Pastoral|pastoral]] crook
 
-      They are born from the skies,
+I went over the brook,
 
-    And gives glory to God and the [[Lamb]]!"
+And behold I am spread into bands!
+
+
+
+"Who, I ask in amaze,
+
+Hath begotten me these?
+
+And inquire from what quarter they came.
+
+My full heart it replies,
+
+They are born from the skies,
+
+And gives glory to God and the [[Lamb]]!"
 
 
 
@@ -11090,27 +11090,27 @@ cap the climax of noise and zeal.
 
 
 
-    "Sleeping on the brink of sin,
+"Sleeping on the brink of sin,
 
-     Tophet gaped to take us in;
+Tophet gaped to take us in;
 
-     [[Mercy]] to our rescue flew,
+[[Mercy]] to our rescue flew,
 
-     Broke the snare, and brought us through.
-
-
-
-    "Here, as in a [[Lion|lion]]'s den,
-
-     Undevoured we still remain,
-
-     Pass secure the watery flood,
-
-     Hanging on the arm of God.
+Broke the snare, and brought us through.
 
 
 
-    "Here----"
+"Here, as in a [[Lion|lion]]'s den,
+
+Undevoured we still remain,
+
+Pass secure the watery flood,
+
+Hanging on the arm of God.
+
+
+
+"Here----"
 
 
 
@@ -11120,13 +11120,13 @@ the last stanza was given.)
 
 
 
-    "Here we raise our voices higher,
+"Here we raise our voices higher,
 
-     Shout in the refiner's [[Fire|fire]],
+Shout in the refiner's [[Fire|fire]],
 
-     Clap our hands amidst the flame,
+Clap our hands amidst the flame,
 
-     Glory give to Jesus' name!"
+Glory give to Jesus' name!"
 
 
 
@@ -13562,7 +13562,7 @@ the lily from the wood-moss."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -16458,7 +16458,7 @@ good-bye."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -16938,17 +16938,17 @@ softly, she listened. This was the strain:--
 
 
 
-    "Obscurest [[Night|night]] involved the sky,
+"Obscurest [[Night|night]] involved the sky,
 
-       The Atlantic billows roared,
+The Atlantic billows roared,
 
-     When such a destined wretch as I,
+When such a destined wretch as I,
 
-       Washed headlong from on board,
+Washed headlong from on board,
 
-     Of friends, of [[Hope|hope]], of all bereft,
+Of friends, of [[Hope|hope]], of all bereft,
 
-     His floating [[Home|home]] for ever left."
+His floating [[Home|home]] for ever left."
 
 
 
@@ -16988,17 +16988,17 @@ man-forsaken sailor, and cried from the depths where he struggled,--
 
 
 
-    "No voice divine the [[Storm|storm]] allayed,
+"No voice divine the [[Storm|storm]] allayed,
 
-       No light propitious shone,
+No light propitious shone,
 
-     When, snatched from all effectual aid,
+When, snatched from all effectual aid,
 
-       We perished--each [[Alone|alone]]!
+We perished--each [[Alone|alone]]!
 
-     But I beneath a rougher sea,
+But I beneath a rougher sea,
 
-     And whelmed in deeper gulfs than he."
+And whelmed in deeper gulfs than he."
 
 
 
@@ -17504,7 +17504,7 @@ probably baseless!"
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -18054,7 +18054,7 @@ ruin."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -18522,9 +18522,9 @@ mind when he said,--
 
 
 
-    'Strong against tides, the enormous whale
+'Strong against tides, the enormous whale
 
-       Emerges as he goes.'"
+Emerges as he goes.'"
 
 
 
@@ -28200,7 +28200,7 @@ questions for Robert; I'll answer no more on 'em. Good-day, lassie!"
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -30832,7 +30832,7 @@ her from the [[Storm|storm]].
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -32174,13 +32174,13 @@ Sing that [[Hymn|hymn]] which begins,--
 
 
 
-    'Our God, our help in ages past,
+'Our God, our help in ages past,
 
-       Our [[Hope|hope]] for years to come,
+Our [[Hope|hope]] for years to come,
 
-     Our shelter from the stormy blast,
+Our shelter from the stormy blast,
 
-       Our refuge, haven, [[Home|home]]!'"
+Our refuge, haven, [[Home|home]]!'"
 
 
 
@@ -32226,53 +32226,53 @@ might get beyond its reach.
 
 
 
-    "Thy word commands our flesh to [[Dust|dust]],--
+"Thy word commands our flesh to [[Dust|dust]],--
 
-       'Return, ye sons of men;'
+'Return, ye sons of men;'
 
-     All nations [[Rose|rose]] from earth at first,
+All nations [[Rose|rose]] from earth at first,
 
-       And turn to earth again.
-
-
-
-    "A thousand ages in Thy sight
-
-       Are like an evening gone--
-
-     Short as the watch that ends the [[Night|night]]
-
-       Before the rising sun.
+And turn to earth again.
 
 
 
-    "[[Time]], like an ever-[[rolling]] stream,
+"A thousand ages in Thy sight
 
-       Bears all its sons away;
+Are like an evening gone--
 
-     They fly, forgotten, as [[A Dream|a dream]]
+Short as the watch that ends the [[Night|night]]
 
-       Dies at the opening day.
-
-
-
-    "Like flowery fields, the nations stand,
-
-       Fresh in the morning light;
-
-     The [[Flowers|flowers]] beneath the mower's hand
-
-       Lie withering ere 'tis [[Night|night]].
+Before the rising sun.
 
 
 
-    "Our God, our help in ages past,
+"[[Time]], like an ever-[[rolling]] stream,
 
-       Our [[Hope|hope]] for years to come,
+Bears all its sons away;
 
-     Be Thou our guard while troubles last--
+They fly, forgotten, as [[A Dream|a dream]]
 
-       O Father, be our [[Home|home]]!"
+Dies at the opening day.
+
+
+
+"Like flowery fields, the nations stand,
+
+Fresh in the morning light;
+
+The [[Flowers|flowers]] beneath the mower's hand
+
+Lie withering ere 'tis [[Night|night]].
+
+
+
+"Our God, our help in ages past,
+
+Our [[Hope|hope]] for years to come,
+
+Be Thou our guard while troubles last--
+
+O Father, be our [[Home|home]]!"
 
 
 
@@ -32494,7 +32494,7 @@ There was [[Silence|silence]] in the room for a long while.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -34164,7 +34164,7 @@ significant smile again rippled across Moore's quiet face.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -34436,7 +34436,7 @@ her in his behalf. She is not often so inconsiderate, so irritable."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -35634,7 +35634,7 @@ yourself no further trouble on the subject."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -36004,7 +36004,7 @@ speaking to a parson to consult with you."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -36380,7 +36380,7 @@ cooing, vibrating voice close at my ear. You had better leave me."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -36626,17 +36626,17 @@ translate, on [[Pain|pain]] of being unintelligible to some readers.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
-    "And it came to pass, when men began to multiply on the face of
+"And it came to pass, when men began to multiply on the face of
 
-       the earth, and daughters were born unto them, that the sons
+the earth, and daughters were born unto them, that the sons
 
-       of God saw the daughters of men that they were fair; and they
+of God saw the daughters of men that they were fair; and they
 
-       took them wives of all which they chose."
+took them wives of all which they chose."
 
 
 
@@ -37052,7 +37052,7 @@ Who shall of these things write the chronicle?
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -37430,9 +37430,9 @@ of coal among the red cinders. The group were happy enough, but--
 
 
 
-    "Pleasures are like poppies spread;
+"Pleasures are like poppies spread;
 
-     You seize the flower--its bloom is shed."
+You seize the flower--its bloom is shed."
 
 
 
@@ -37776,7 +37776,7 @@ were preparing.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -40092,7 +40092,7 @@ No priest remains; he who watched will be seen no more.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -41612,7 +41612,7 @@ and dictionaries dumb.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -43326,7 +43326,7 @@ sober, she always remembers to obey _me_."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -43356,9 +43356,9 @@ transparent--tinged the mass of the landscape.
 
 
 
-    [A] Find me an English word as good, reader, and I will gladly
+[A] Find me an English word as good, reader, and I will gladly
 
-        dispense with the French word. "Reflections" won't do.
+dispense with the French word. "Reflections" won't do.
 
 
 
@@ -47178,7 +47178,7 @@ book, and discoursed with it as follows:--
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -48432,7 +48432,7 @@ ignorant; be my master where I am faulty; be my friend always!'
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -49238,7 +49238,7 @@ Moore, and Robert gave his wretched widow a guinea to bury him.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -49374,7 +49374,7 @@ single month of June, many a solid fortune was realized.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -50060,7 +50060,7 @@ Moore, I shall take you in."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -50702,177 +50702,177 @@ CONDENSED LIST.
 
 
 
-     1. A Tale of Two Cities.
+1. A Tale of Two Cities.
 
-     2. Tom Brown's Schooldays.
+2. Tom Brown's Schooldays.
 
-     3. The Deerslayer.
+3. The Deerslayer.
 
-     4. Henry Esmond.
+4. Henry Esmond.
 
-     5. Hypatia.
+5. Hypatia.
 
-     6. The Mill on the Floss.
+6. The Mill on the Floss.
 
-     7. Uncle Tom's Cabin.
+7. Uncle Tom's Cabin.
 
-     8. The Last of the Mohicans.
+8. The Last of the Mohicans.
 
-     9. Adam Bede.
+9. Adam Bede.
 
-    10. The Old Curiosity Shop.
+10. The Old Curiosity Shop.
 
-    11. [[Oliver Twist]].
+11. [[Oliver Twist]].
 
-    12. Kenilworth.
+12. Kenilworth.
 
-    13. Robinson Crusoe.
+13. Robinson Crusoe.
 
-    14. The Last Days of Pompeii.
+14. The Last Days of Pompeii.
 
-    15. Cloister and the Hearth.
+15. Cloister and the Hearth.
 
-    16. Ivanhoe.
+16. Ivanhoe.
 
-    17. East Lynne.
+17. East Lynne.
 
-    18. Cranford.
+18. Cranford.
 
-    19. John Halifax, Gentleman.
+19. John Halifax, Gentleman.
 
-    20. The Pathfinder.
+20. The Pathfinder.
 
-    21. Westward Ho!
+21. Westward Ho!
 
-    22. The Three Musketeers.
+22. The Three Musketeers.
 
-    23. The Channings.
+23. The Channings.
 
-    24. The [[Pilgrim]]'s Progress.
+24. The [[Pilgrim]]'s Progress.
 
-    25. [[Pride and Prejudice]].
+25. [[Pride and Prejudice]].
 
-    26. Quentin Durward.
+26. Quentin Durward.
 
-    27. [[Villette]].
+27. [[Villette]].
 
-    28. Hard Times.
+28. Hard Times.
 
-    29. [[Child]]'s [[history|History]] of England.
+29. [[Child]]'s [[history|History]] of England.
 
-    30. The [[Bible]] in Spain.
+30. The [[Bible]] in Spain.
 
-    31. Gulliver's Travels.
+31. Gulliver's Travels.
 
-    32. [[Sense and Sensibility]].
+32. [[Sense and Sensibility]].
 
-    33. Kate Coventry.
+33. Kate Coventry.
 
-    34. Silas Marner.
+34. Silas Marner.
 
-    35. Notre Dame.
+35. Notre Dame.
 
-    36. Old St. Paul's.
+36. Old St. Paul's.
 
-    37. Waverley.
+37. Waverley.
 
-    38. 'Ninety-Three.
+38. 'Ninety-Three.
 
-    39. Eothen.
+39. Eothen.
 
-    40. Toilers of the Sea.
+40. Toilers of the Sea.
 
-    41. Children of the New Forest.
+41. Children of the New Forest.
 
-    42. The Laughing Man.
+42. The Laughing Man.
 
-    43. A Book of Golden Deeds.
+43. A Book of Golden Deeds.
 
-    44. [[Great Expectations]].
+44. [[Great Expectations]].
 
-    45. Guy Mannering.
+45. Guy Mannering.
 
-    46. Modern Painters (Selections)
+46. Modern Painters (Selections)
 
-    47. Les Misérables--I.
+47. Les Misérables--I.
 
-    48. Les Misérables--II.
+48. Les Misérables--II.
 
-    49. The Monastery.
+49. The Monastery.
 
-    50. Romola.
+50. Romola.
 
-    51. The Vicar of Wakefield.
+51. The Vicar of Wakefield.
 
-    52. [[Emma]].
+52. [[Emma]].
 
-    53. Lavengro.
+53. Lavengro.
 
-    54. Emerson's Essays.
+54. Emerson's Essays.
 
-    55. The Bride of Lammermoor.
+55. The Bride of Lammermoor.
 
-    56. The Abbot.
+56. The Abbot.
 
-    57. Tom Cringle's Log.
+57. Tom Cringle's Log.
 
-    58. [[Lamb]]'s Tales from Shakespeare.
+58. [[Lamb]]'s Tales from Shakespeare.
 
-    59. The Scarlet Letter.
+59. The Scarlet Letter.
 
-    60. Old [[Mortality]].
+60. Old [[Mortality]].
 
-    61. The Romany Rye.
+61. The Romany Rye.
 
-    62. Hans Andersen.
+62. Hans Andersen.
 
-    63. The Black Tulip.
+63. The Black Tulip.
 
-    64. Little Women.
+64. Little Women.
 
-    65. The Talisman.
+65. The Talisman.
 
-    66. Scottish Life and Character.
+66. Scottish Life and Character.
 
-    67. The Woman in White.
+67. The Woman in White.
 
-    68. Tales of Mystery.
+68. Tales of Mystery.
 
-    69. Fair Maid of Perth.
+69. Fair Maid of Perth.
 
-    70. Parables from [[Nature]].
+70. Parables from [[Nature]].
 
-    71. Peg Woffington.
+71. Peg Woffington.
 
-    72. Windsor [[Castle]].
+72. Windsor [[Castle]].
 
-    73. [[Edmund]] Burke.
+73. [[Edmund]] Burke.
 
-    74. Ingoldsby Legends.
+74. Ingoldsby Legends.
 
-    75. [[Pickwick]] Papers.--I.
+75. [[Pickwick]] Papers.--I.
 
-    76. [[Pickwick]] Papers.--II.
+76. [[Pickwick]] Papers.--II.
 
-    77. Verdant Green.
+77. Verdant Green.
 
-    78. The Heir of Redclyffe.
+78. The Heir of Redclyffe.
 
-    79. Wild Wales.
+79. Wild Wales.
 
-    80. Two Years Before the Mast.
+80. Two Years Before the Mast.
 
-    81. [[Jane Eyre]].
+81. [[Jane Eyre]].
 
-    82. [[David Copperfield]].--I.
+82. [[David Copperfield]].--I.
 
-    83. [[David Copperfield]].--II.
+83. [[David Copperfield]].--II.
 
-    84. Hereward the Wake.
+84. Hereward the Wake.
 
-    85. Wide Wide World.
+85. Wide Wide World.
 
-    86. [[Michael]] Strogoff.
+86. [[Michael]] Strogoff.
 
 
 
@@ -50886,173 +50886,173 @@ THOMAS NELSON AND SONS.
 
 
 
-    Transcriber's Note:
+Transcriber's Note:
 
 
 
-    Variations in hyphenated words have been retained as
+Variations in hyphenated words have been retained as
 
-    they appear in the original publication.
+they appear in the original publication.
 
 
 
-    Changes have been made as follows:
+Changes have been made as follows:
 
 
 
-    Page 30
+Page 30
 
-    with some inpatience _changed to_
+with some inpatience _changed to_
 
-    with some impatience
+with some impatience
 
 
 
-    Page 48
+Page 48
 
-    very bravely mantained _changed to_
+very bravely mantained _changed to_
 
-    very bravely maintained
+very bravely maintained
 
 
 
-    Page 120
+Page 120
 
-    Sudgen, his staff; and Sudgen arrest him _changed to_
+Sudgen, his staff; and Sudgen arrest him _changed to_
 
-    Sugden, his staff; and Sugden arrest him
+Sugden, his staff; and Sugden arrest him
 
 
 
-    Page 166
+Page 166
 
-    The old atticed _changed to_
+The old atticed _changed to_
 
-    The old latticed
+The old latticed
 
 
 
-    Page 175
+Page 175
 
-    Let as have _changed to_
+Let as have _changed to_
 
-    Let us have
+Let us have
 
 
 
-    Page 185
+Page 185
 
-    Mrs. Gill, my houskeeper _changed to_
+Mrs. Gill, my houskeeper _changed to_
 
-    Mrs. Gill, my housekeeper
+Mrs. Gill, my housekeeper
 
 
 
-    Page 224
+Page 224
 
-    by a downward gave _changed to_
+by a downward gave _changed to_
 
-    by a downward gaze
+by a downward gaze
 
 
 
-    Page 242
+Page 242
 
-    gently invired him _changed to_
+gently invired him _changed to_
 
-    gently invited him
+gently invited him
 
 
 
-    Page 245
+Page 245
 
-    a smiling Melancthon _changed to_
+a smiling Melancthon _changed to_
 
-    a smiling Melanchthon
+a smiling Melanchthon
 
 
 
-    Page 255
+Page 255
 
-    Sentinels of Nunwood _changed to_
+Sentinels of Nunwood _changed to_
 
-    Sentinels of Nunnwood
+Sentinels of Nunnwood
 
 
 
-    Page 260
+Page 260
 
-    only the profiters _changed to_
+only the profiters _changed to_
 
-    only the profiteers
+only the profiteers
 
 
 
-    Page 274
+Page 274
 
-    dark gray irids _changed to_
+dark gray irids _changed to_
 
-    dark gray irides
+dark gray irides
 
 
 
-    Page 297
+Page 297
 
-    alight and alow _changed to_
+alight and alow _changed to_
 
-    alight and aglow
+alight and aglow
 
 
 
-    Page 380
+Page 380
 
-    my old accupation _changed to_
+my old accupation _changed to_
 
-    my old occupation
+my old occupation
 
 
 
-    Page 492
+Page 492
 
-    not without approbrium _changed to_
+not without approbrium _changed to_
 
-    not without opprobrium
+not without opprobrium
 
 
 
-    Punctuation has been changed as follows:
+Punctuation has been changed as follows:
 
 
 
-    Page 119
+Page 119
 
-    Mr Moore, we lived _changed to_
+Mr Moore, we lived _changed to_
 
-    Mr. Moore, we lived
+Mr. Moore, we lived
 
 
 
-    Page 145
+Page 145
 
-    stones on the [[Road|road]]? _changed to_
+stones on the [[Road|road]]? _changed to_
 
-    stones on the [[Road|road]].
+stones on the [[Road|road]].
 
 
 
-    Page 393
+Page 393
 
-    "[[Shirley]], my woman _changed to_
+"[[Shirley]], my woman _changed to_
 
-    '[[Shirley]], my woman
+'[[Shirley]], my woman
 
 
 
-    Page 540
+Page 540
 
-    _reward_ her!" _changed to_
+_reward_ her!" _changed to_
 
-    _reward_ her!'"
+_reward_ her!'"
 
 
 
@@ -53166,7 +53166,7 @@ continuously the discourse most genial to his ear.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -54842,7 +54842,7 @@ threshold.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -57976,23 +57976,23 @@ caused him to be banished by his countrymen?"
 
 
 
-                      'Whether was it [[Pride|pride]],
+'Whether was it [[Pride|pride]],
 
-    Which out of daily fortune ever taints
+Which out of daily fortune ever taints
 
-    The happy man? whether defect of judgment,
+The happy man? whether defect of judgment,
 
-    To fail in the disposing of those chances
+To fail in the disposing of those chances
 
-    Which he was lord of? or whether [[Nature|nature]],
+Which he was lord of? or whether [[Nature|nature]],
 
-    Not to be other than one thing, not moving
+Not to be other than one thing, not moving
 
-    From the casque to the cushion, but commanding peace
+From the casque to the cushion, but commanding peace
 
-    Even with the same austerity and garb
+Even with the same austerity and garb
 
-    As he controlled the war?'"
+As he controlled the war?'"
 
 
 
@@ -58110,31 +58110,31 @@ three stanzas she rehearsed [[Well|well]].
 
 
 
-    "Mon beau voyage encore est si loin de sa fin!
+"Mon beau voyage encore est si loin de sa fin!
 
-     Je pars, et des ormeaux qui bordent le chemin
+Je pars, et des ormeaux qui bordent le chemin
 
-       J'ai passé le premiers à peine.
+J'ai passé le premiers à peine.
 
-     Au banquet de la vie à peine commencé,
+Au banquet de la vie à peine commencé,
 
-     Un instant seulement mes lèvres ont pressé
+Un instant seulement mes lèvres ont pressé
 
-       La coupe en mes mains encore pleine.
+La coupe en mes mains encore pleine.
 
 
 
-    "Je ne suis qu'au printemps--je veux voir la moisson;
+"Je ne suis qu'au printemps--je veux voir la moisson;
 
-     Et comme le soleil, de saison en saison,
+Et comme le soleil, de saison en saison,
 
-       Je veux achever mon année,
+Je veux achever mon année,
 
-     Brillante sur ma tige, et l'honneur du jardin
+Brillante sur ma tige, et l'honneur du jardin
 
-     Je n'ai vu luire encore que les feux du matin,
+Je n'ai vu luire encore que les feux du matin,
 
-       Je veux achever ma journée!"
+Je veux achever ma journée!"
 
 
 
@@ -59018,33 +59018,33 @@ taed's back." She hates these, but "waur she hates Robin-a-Ree."
 
 
 
-    "Oh, ance I lived happily by yon bonny burn--
+"Oh, ance I lived happily by yon bonny burn--
 
-       The warld was in [[Love|love]] wi' me;
+The warld was in [[Love|love]] wi' me;
 
-     But now I maun sit 'neath the cauld drift and mourn,
+But now I maun sit 'neath the cauld drift and mourn,
 
-       And curse black Robin-a-Ree!
-
-
-
-    "Then whudder awa, thou bitter biting blast,
-
-       And sough through the scrunty tree,
-
-     And smoor me up in the snaw fu' fast,
-
-       And n'er let the sun me see!
+And curse black Robin-a-Ree!
 
 
 
-    "Oh, never melt awa, thou wreath o' snaw,
+"Then whudder awa, thou bitter biting blast,
 
-       That's sae kind in graving me;
+And sough through the scrunty tree,
 
-     But hide me frae the scorn and guffaw
+And smoor me up in the snaw fu' fast,
 
-       O' villains like Robin-a-Ree!"
+And n'er let the sun me see!
+
+
+
+"Oh, never melt awa, thou wreath o' snaw,
+
+That's sae kind in graving me;
+
+But hide me frae the scorn and guffaw
+
+O' villains like Robin-a-Ree!"
 
 
 
@@ -61972,7 +61972,7 @@ Which Joe did accordingly.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -62030,39 +62030,39 @@ with an ease and buoyancy all their own:--
 
 
 
-    "Oh! who can explain
+"Oh! who can explain
 
-       This struggle for life,
+This struggle for life,
 
-     This travail and [[Pain|pain]],
+This travail and [[Pain|pain]],
 
-       This trembling and strife?
+This trembling and strife?
 
-     Plague, earthquake, and famine,
+Plague, earthquake, and famine,
 
-       And tumult and war,
+And tumult and war,
 
-     The wonderful coming
+The wonderful coming
 
-       Of Jesus declare!
+Of Jesus declare!
 
 
 
-    "For every fight
+"For every fight
 
-       Is dreadful and loud:
+Is dreadful and loud:
 
-     The warrior's delight
+The warrior's delight
 
-       Is slaughter and [[Blood|blood]],
+Is slaughter and [[Blood|blood]],
 
-     His foes overturning,
+His foes overturning,
 
-       Till all shall expire:
+Till all shall expire:
 
-     And this is with burning,
+And this is with burning,
 
-       And fuel, and [[Fire|fire]]!"
+And fuel, and [[Fire|fire]]!"
 
 
 
@@ -62078,59 +62078,59 @@ liberty!" rang from the chapel, and out all the assembly broke again.
 
 
 
-    "What a [[Mercy|mercy]] is this!
+"What a [[Mercy|mercy]] is this!
 
-      What a heaven of bliss!
+What a heaven of bliss!
 
-    How unspeakably happy am I!
+How unspeakably happy am I!
 
-      Gathered into the fold,
+Gathered into the fold,
 
-      With Thy people enrolled,
+With Thy people enrolled,
 
-    With Thy people to live and to die!
-
-
-
-    "Oh, the goodness of God
-
-      In employing a clod
-
-    His tribute of glory to raise;
-
-      His standard to bear,
-
-      And with triumph declare
-
-    His unspeakable riches of grace!
+With Thy people to live and to die!
 
 
 
-    "Oh, the fathomless [[Love|love]]
+"Oh, the goodness of God
 
-      That has deigned to approve
+In employing a clod
 
-    And prosper the work of my hands.
+His tribute of glory to raise;
 
-      With my [[Pastoral|pastoral]] crook
+His standard to bear,
 
-      I went over the brook,
+And with triumph declare
 
-    And behold I am spread into bands!
+His unspeakable riches of grace!
 
 
 
-    "Who, I ask in amaze,
+"Oh, the fathomless [[Love|love]]
 
-      Hath begotten me these?
+That has deigned to approve
 
-    And inquire from what quarter they came.
+And prosper the work of my hands.
 
-      My full heart it replies,
+With my [[Pastoral|pastoral]] crook
 
-      They are born from the skies,
+I went over the brook,
 
-    And gives glory to God and the [[Lamb]]!"
+And behold I am spread into bands!
+
+
+
+"Who, I ask in amaze,
+
+Hath begotten me these?
+
+And inquire from what quarter they came.
+
+My full heart it replies,
+
+They are born from the skies,
+
+And gives glory to God and the [[Lamb]]!"
 
 
 
@@ -62142,27 +62142,27 @@ cap the climax of noise and zeal.
 
 
 
-    "Sleeping on the brink of sin,
+"Sleeping on the brink of sin,
 
-     Tophet gaped to take us in;
+Tophet gaped to take us in;
 
-     [[Mercy]] to our rescue flew,
+[[Mercy]] to our rescue flew,
 
-     Broke the snare, and brought us through.
-
-
-
-    "Here, as in a [[Lion|lion]]'s den,
-
-     Undevoured we still remain,
-
-     Pass secure the watery flood,
-
-     Hanging on the arm of God.
+Broke the snare, and brought us through.
 
 
 
-    "Here----"
+"Here, as in a [[Lion|lion]]'s den,
+
+Undevoured we still remain,
+
+Pass secure the watery flood,
+
+Hanging on the arm of God.
+
+
+
+"Here----"
 
 
 
@@ -62172,13 +62172,13 @@ the last stanza was given.)
 
 
 
-    "Here we raise our voices higher,
+"Here we raise our voices higher,
 
-     Shout in the refiner's [[Fire|fire]],
+Shout in the refiner's [[Fire|fire]],
 
-     Clap our hands amidst the flame,
+Clap our hands amidst the flame,
 
-     Glory give to Jesus' name!"
+Glory give to Jesus' name!"
 
 
 
@@ -64666,7 +64666,7 @@ the lily from the wood-moss."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -67612,7 +67612,7 @@ good-bye."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -68102,17 +68102,17 @@ softly, she listened. This was the strain:--
 
 
 
-    "Obscurest [[Night|night]] involved the sky,
+"Obscurest [[Night|night]] involved the sky,
 
-       The Atlantic billows roared,
+The Atlantic billows roared,
 
-     When such a destined wretch as I,
+When such a destined wretch as I,
 
-       Washed headlong from on board,
+Washed headlong from on board,
 
-     Of friends, of [[Hope|hope]], of all bereft,
+Of friends, of [[Hope|hope]], of all bereft,
 
-     His floating [[Home|home]] for ever left."
+His floating [[Home|home]] for ever left."
 
 
 
@@ -68152,17 +68152,17 @@ man-forsaken sailor, and cried from the depths where he struggled,--
 
 
 
-    "No voice divine the [[Storm|storm]] allayed,
+"No voice divine the [[Storm|storm]] allayed,
 
-       No light propitious shone,
+No light propitious shone,
 
-     When, snatched from all effectual aid,
+When, snatched from all effectual aid,
 
-       We perished--each [[Alone|alone]]!
+We perished--each [[Alone|alone]]!
 
-     But I beneath a rougher sea,
+But I beneath a rougher sea,
 
-     And whelmed in deeper gulfs than he."
+And whelmed in deeper gulfs than he."
 
 
 
@@ -68676,7 +68676,7 @@ probably baseless!"
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -69236,7 +69236,7 @@ ruin."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -69716,9 +69716,9 @@ mind when he said,--
 
 
 
-    'Strong against tides, the enormous whale
+'Strong against tides, the enormous whale
 
-       Emerges as he goes.'"
+Emerges as he goes.'"
 
 
 
@@ -79580,7 +79580,7 @@ questions for Robert; I'll answer no more on 'em. Good-day, lassie!"
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -82272,7 +82272,7 @@ her from the [[Storm|storm]].
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -83642,13 +83642,13 @@ Sing that [[Hymn|hymn]] which begins,--
 
 
 
-    'Our God, our help in ages past,
+'Our God, our help in ages past,
 
-       Our [[Hope|hope]] for years to come,
+Our [[Hope|hope]] for years to come,
 
-     Our shelter from the stormy blast,
+Our shelter from the stormy blast,
 
-       Our refuge, haven, [[Home|home]]!'"
+Our refuge, haven, [[Home|home]]!'"
 
 
 
@@ -83694,53 +83694,53 @@ might get beyond its reach.
 
 
 
-    "Thy word commands our flesh to [[Dust|dust]],--
+"Thy word commands our flesh to [[Dust|dust]],--
 
-       'Return, ye sons of men;'
+'Return, ye sons of men;'
 
-     All nations [[Rose|rose]] from earth at first,
+All nations [[Rose|rose]] from earth at first,
 
-       And turn to earth again.
-
-
-
-    "A thousand ages in Thy sight
-
-       Are like an evening gone--
-
-     Short as the watch that ends the [[Night|night]]
-
-       Before the rising sun.
+And turn to earth again.
 
 
 
-    "[[Time]], like an ever-[[rolling]] stream,
+"A thousand ages in Thy sight
 
-       Bears all its sons away;
+Are like an evening gone--
 
-     They fly, forgotten, as [[A Dream|a dream]]
+Short as the watch that ends the [[Night|night]]
 
-       Dies at the opening day.
-
-
-
-    "Like flowery fields, the nations stand,
-
-       Fresh in the morning light;
-
-     The [[Flowers|flowers]] beneath the mower's hand
-
-       Lie withering ere 'tis [[Night|night]].
+Before the rising sun.
 
 
 
-    "Our God, our help in ages past,
+"[[Time]], like an ever-[[rolling]] stream,
 
-       Our [[Hope|hope]] for years to come,
+Bears all its sons away;
 
-     Be Thou our guard while troubles last--
+They fly, forgotten, as [[A Dream|a dream]]
 
-       O Father, be our [[Home|home]]!"
+Dies at the opening day.
+
+
+
+"Like flowery fields, the nations stand,
+
+Fresh in the morning light;
+
+The [[Flowers|flowers]] beneath the mower's hand
+
+Lie withering ere 'tis [[Night|night]].
+
+
+
+"Our God, our help in ages past,
+
+Our [[Hope|hope]] for years to come,
+
+Be Thou our guard while troubles last--
+
+O Father, be our [[Home|home]]!"
 
 
 
@@ -83968,7 +83968,7 @@ There was [[Silence|silence]] in the room for a long while.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -85662,7 +85662,7 @@ significant smile again rippled across Moore's quiet face.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -85944,7 +85944,7 @@ her in his behalf. She is not often so inconsiderate, so irritable."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -87156,7 +87156,7 @@ yourself no further trouble on the subject."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -87536,7 +87536,7 @@ speaking to a parson to consult with you."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -87918,7 +87918,7 @@ cooing, vibrating voice close at my ear. You had better leave me."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -88170,17 +88170,17 @@ translate, on [[Pain|pain]] of being unintelligible to some readers.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
-    "And it came to pass, when men began to multiply on the face of
+"And it came to pass, when men began to multiply on the face of
 
-       the earth, and daughters were born unto them, that the sons
+the earth, and daughters were born unto them, that the sons
 
-       of God saw the daughters of men that they were fair; and they
+of God saw the daughters of men that they were fair; and they
 
-       took them wives of all which they chose."
+took them wives of all which they chose."
 
 
 
@@ -88608,7 +88608,7 @@ Who shall of these things write the chronicle?
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -88992,9 +88992,9 @@ of coal among the red cinders. The group were happy enough, but--
 
 
 
-    "Pleasures are like poppies spread;
+"Pleasures are like poppies spread;
 
-     You seize the flower--its bloom is shed."
+You seize the flower--its bloom is shed."
 
 
 
@@ -89342,7 +89342,7 @@ were preparing.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -91696,7 +91696,7 @@ No priest remains; he who watched will be seen no more.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -93246,7 +93246,7 @@ and dictionaries dumb.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -94978,7 +94978,7 @@ sober, she always remembers to obey _me_."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -95008,9 +95008,9 @@ transparent--tinged the mass of the landscape.
 
 
 
-    [A] Find me an English word as good, reader, and I will gladly
+[A] Find me an English word as good, reader, and I will gladly
 
-        dispense with the French word. "Reflections" won't do.
+dispense with the French word. "Reflections" won't do.
 
 
 
@@ -98874,7 +98874,7 @@ book, and discoursed with it as follows:--
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -100156,7 +100156,7 @@ ignorant; be my master where I am faulty; be my friend always!'
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -100978,7 +100978,7 @@ Moore, and Robert gave his wretched widow a guinea to bury him.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -101114,7 +101114,7 @@ single month of June, many a solid fortune was realized.
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -101818,7 +101818,7 @@ Moore, I shall take you in."
 
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -102472,177 +102472,177 @@ CONDENSED LIST.
 
 
 
-     1. A Tale of Two Cities.
+1. A Tale of Two Cities.
 
-     2. Tom Brown's Schooldays.
+2. Tom Brown's Schooldays.
 
-     3. The Deerslayer.
+3. The Deerslayer.
 
-     4. Henry Esmond.
+4. Henry Esmond.
 
-     5. Hypatia.
+5. Hypatia.
 
-     6. The Mill on the Floss.
+6. The Mill on the Floss.
 
-     7. Uncle Tom's Cabin.
+7. Uncle Tom's Cabin.
 
-     8. The Last of the Mohicans.
+8. The Last of the Mohicans.
 
-     9. Adam Bede.
+9. Adam Bede.
 
-    10. The Old Curiosity Shop.
+10. The Old Curiosity Shop.
 
-    11. [[Oliver Twist]].
+11. [[Oliver Twist]].
 
-    12. Kenilworth.
+12. Kenilworth.
 
-    13. Robinson Crusoe.
+13. Robinson Crusoe.
 
-    14. The Last Days of Pompeii.
+14. The Last Days of Pompeii.
 
-    15. Cloister and the Hearth.
+15. Cloister and the Hearth.
 
-    16. Ivanhoe.
+16. Ivanhoe.
 
-    17. East Lynne.
+17. East Lynne.
 
-    18. Cranford.
+18. Cranford.
 
-    19. John Halifax, Gentleman.
+19. John Halifax, Gentleman.
 
-    20. The Pathfinder.
+20. The Pathfinder.
 
-    21. Westward Ho!
+21. Westward Ho!
 
-    22. The Three Musketeers.
+22. The Three Musketeers.
 
-    23. The Channings.
+23. The Channings.
 
-    24. The [[Pilgrim]]'s Progress.
+24. The [[Pilgrim]]'s Progress.
 
-    25. [[Pride and Prejudice]].
+25. [[Pride and Prejudice]].
 
-    26. Quentin Durward.
+26. Quentin Durward.
 
-    27. [[Villette]].
+27. [[Villette]].
 
-    28. Hard Times.
+28. Hard Times.
 
-    29. [[Child]]'s [[history|History]] of England.
+29. [[Child]]'s [[history|History]] of England.
 
-    30. The [[Bible]] in Spain.
+30. The [[Bible]] in Spain.
 
-    31. Gulliver's Travels.
+31. Gulliver's Travels.
 
-    32. [[Sense and Sensibility]].
+32. [[Sense and Sensibility]].
 
-    33. Kate Coventry.
+33. Kate Coventry.
 
-    34. Silas Marner.
+34. Silas Marner.
 
-    35. Notre Dame.
+35. Notre Dame.
 
-    36. Old St. Paul's.
+36. Old St. Paul's.
 
-    37. Waverley.
+37. Waverley.
 
-    38. 'Ninety-Three.
+38. 'Ninety-Three.
 
-    39. Eothen.
+39. Eothen.
 
-    40. Toilers of the Sea.
+40. Toilers of the Sea.
 
-    41. Children of the New Forest.
+41. Children of the New Forest.
 
-    42. The Laughing Man.
+42. The Laughing Man.
 
-    43. A Book of Golden Deeds.
+43. A Book of Golden Deeds.
 
-    44. [[Great Expectations]].
+44. [[Great Expectations]].
 
-    45. Guy Mannering.
+45. Guy Mannering.
 
-    46. Modern Painters (Selections)
+46. Modern Painters (Selections)
 
-    47. Les Misérables--I.
+47. Les Misérables--I.
 
-    48. Les Misérables--II.
+48. Les Misérables--II.
 
-    49. The Monastery.
+49. The Monastery.
 
-    50. Romola.
+50. Romola.
 
-    51. The Vicar of Wakefield.
+51. The Vicar of Wakefield.
 
-    52. [[Emma]].
+52. [[Emma]].
 
-    53. Lavengro.
+53. Lavengro.
 
-    54. Emerson's Essays.
+54. Emerson's Essays.
 
-    55. The Bride of Lammermoor.
+55. The Bride of Lammermoor.
 
-    56. The Abbot.
+56. The Abbot.
 
-    57. Tom Cringle's Log.
+57. Tom Cringle's Log.
 
-    58. [[Lamb]]'s Tales from Shakespeare.
+58. [[Lamb]]'s Tales from Shakespeare.
 
-    59. The Scarlet Letter.
+59. The Scarlet Letter.
 
-    60. Old [[Mortality]].
+60. Old [[Mortality]].
 
-    61. The Romany Rye.
+61. The Romany Rye.
 
-    62. Hans Andersen.
+62. Hans Andersen.
 
-    63. The Black Tulip.
+63. The Black Tulip.
 
-    64. Little Women.
+64. Little Women.
 
-    65. The Talisman.
+65. The Talisman.
 
-    66. Scottish Life and Character.
+66. Scottish Life and Character.
 
-    67. The Woman in White.
+67. The Woman in White.
 
-    68. Tales of Mystery.
+68. Tales of Mystery.
 
-    69. Fair Maid of Perth.
+69. Fair Maid of Perth.
 
-    70. Parables from [[Nature]].
+70. Parables from [[Nature]].
 
-    71. Peg Woffington.
+71. Peg Woffington.
 
-    72. Windsor [[Castle]].
+72. Windsor [[Castle]].
 
-    73. [[Edmund]] Burke.
+73. [[Edmund]] Burke.
 
-    74. Ingoldsby Legends.
+74. Ingoldsby Legends.
 
-    75. [[Pickwick]] Papers.--I.
+75. [[Pickwick]] Papers.--I.
 
-    76. [[Pickwick]] Papers.--II.
+76. [[Pickwick]] Papers.--II.
 
-    77. Verdant Green.
+77. Verdant Green.
 
-    78. The Heir of Redclyffe.
+78. The Heir of Redclyffe.
 
-    79. Wild Wales.
+79. Wild Wales.
 
-    80. Two Years Before the Mast.
+80. Two Years Before the Mast.
 
-    81. [[Jane Eyre]].
+81. [[Jane Eyre]].
 
-    82. [[David Copperfield]].--I.
+82. [[David Copperfield]].--I.
 
-    83. [[David Copperfield]].--II.
+83. [[David Copperfield]].--II.
 
-    84. Hereward the Wake.
+84. Hereward the Wake.
 
-    85. Wide Wide World.
+85. Wide Wide World.
 
-    86. [[Michael]] Strogoff.
+86. [[Michael]] Strogoff.
 
 
 
@@ -102656,170 +102656,170 @@ THOMAS NELSON AND SONS.
 
 
 
-    Transcriber's Note:
+Transcriber's Note:
 
 
 
-    Variations in hyphenated words have been retained as
+Variations in hyphenated words have been retained as
 
-    they appear in the original publication.
+they appear in the original publication.
 
 
 
-    Changes have been made as follows:
+Changes have been made as follows:
 
 
 
-    Page 30
+Page 30
 
-    with some inpatience _changed to_
+with some inpatience _changed to_
 
-    with some impatience
+with some impatience
 
 
 
-    Page 48
+Page 48
 
-    very bravely mantained _changed to_
+very bravely mantained _changed to_
 
-    very bravely maintained
+very bravely maintained
 
 
 
-    Page 120
+Page 120
 
-    Sudgen, his staff; and Sudgen arrest him _changed to_
+Sudgen, his staff; and Sudgen arrest him _changed to_
 
-    Sugden, his staff; and Sugden arrest him
+Sugden, his staff; and Sugden arrest him
 
 
 
-    Page 166
+Page 166
 
-    The old atticed _changed to_
+The old atticed _changed to_
 
-    The old latticed
+The old latticed
 
 
 
-    Page 175
+Page 175
 
-    Let as have _changed to_
+Let as have _changed to_
 
-    Let us have
+Let us have
 
 
 
-    Page 185
+Page 185
 
-    Mrs. Gill, my houskeeper _changed to_
+Mrs. Gill, my houskeeper _changed to_
 
-    Mrs. Gill, my housekeeper
+Mrs. Gill, my housekeeper
 
 
 
-    Page 224
+Page 224
 
-    by a downward gave _changed to_
+by a downward gave _changed to_
 
-    by a downward gaze
+by a downward gaze
 
 
 
-    Page 242
+Page 242
 
-    gently invired him _changed to_
+gently invired him _changed to_
 
-    gently invited him
+gently invited him
 
 
 
-    Page 245
+Page 245
 
-    a smiling Melancthon _changed to_
+a smiling Melancthon _changed to_
 
-    a smiling Melanchthon
+a smiling Melanchthon
 
 
 
-    Page 255
+Page 255
 
-    Sentinels of Nunwood _changed to_
+Sentinels of Nunwood _changed to_
 
-    Sentinels of Nunnwood
+Sentinels of Nunnwood
 
 
 
-    Page 260
+Page 260
 
-    only the profiters _changed to_
+only the profiters _changed to_
 
-    only the profiteers
+only the profiteers
 
 
 
-    Page 274
+Page 274
 
-    dark gray irids _changed to_
+dark gray irids _changed to_
 
-    dark gray irides
+dark gray irides
 
 
 
-    Page 297
+Page 297
 
-    alight and alow _changed to_
+alight and alow _changed to_
 
-    alight and aglow
+alight and aglow
 
 
 
-    Page 380
+Page 380
 
-    my old accupation _changed to_
+my old accupation _changed to_
 
-    my old occupation
+my old occupation
 
 
 
-    Page 492
+Page 492
 
-    not without approbrium _changed to_
+not without approbrium _changed to_
 
-    not without opprobrium
+not without opprobrium
 
 
 
-    Punctuation has been changed as follows:
+Punctuation has been changed as follows:
 
 
 
-    Page 119
+Page 119
 
-    Mr Moore, we lived _changed to_
+Mr Moore, we lived _changed to_
 
-    Mr. Moore, we lived
+Mr. Moore, we lived
 
 
 
-    Page 145
+Page 145
 
-    stones on the [[Road|road]]? _changed to_
+stones on the [[Road|road]]? _changed to_
 
-    stones on the [[Road|road]].
+stones on the [[Road|road]].
 
 
 
-    Page 393
+Page 393
 
-    "[[Shirley]], my woman _changed to_
+"[[Shirley]], my woman _changed to_
 
-    '[[Shirley]], my woman
+'[[Shirley]], my woman
 
 
 
-    Page 540
+Page 540
 
-    _reward_ her!" _changed to_
+_reward_ her!" _changed to_
 
-    _reward_ her!'"
+_reward_ her!'"

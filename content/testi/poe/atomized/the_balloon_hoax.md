@@ -26,1029 +26,1029 @@ others, in the Steering Balloon, “Victoria,” after a passage of
 
 Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
-    The subjoined _jeu d’esprit_ with the preceding heading in
+The subjoined _jeu d’esprit_ with the preceding heading in
 
-    magnificent capitals, [[Well|well]] interspersed with notes of admiration,
+magnificent capitals, [[Well|well]] interspersed with notes of admiration,
 
-    was originally published, as matter of fact, in the “[[New York]] Sun,”
+was originally published, as matter of fact, in the “[[New York]] Sun,”
 
-    a daily newspaper, and therein fully subserved the purpose of
+a daily newspaper, and therein fully subserved the purpose of
 
-    creating indigestible aliment for the _quidnuncs_ during the few
+creating indigestible aliment for the _quidnuncs_ during the few
 
-    hours intervening between a couple of the Charleston mails.  The
+hours intervening between a couple of the Charleston mails.  The
 
-    rush for the “sole paper which had the news,” was something beyond
+rush for the “sole paper which had the news,” was something beyond
 
-    even the prodigious;  and, in fact, if (as some assert) the
+even the prodigious;  and, in fact, if (as some assert) the
 
-    “Victoria” _did_ not absolutely accomplish the voyage recorded, it
+“Victoria” _did_ not absolutely accomplish the voyage recorded, it
 
-    will be difficult to assign a reason why she _should_ not have
+will be difficult to assign a reason why she _should_ not have
 
-    accomplished it.]
+accomplished it.]
 
 
 
-      The great problem is at length solved! The air, as [[Well|well]] as the
+The great problem is at length solved! The air, as [[Well|well]] as the
 
-      earth and the ocean, has been subdued by science, and will become
+earth and the ocean, has been subdued by science, and will become
 
-      a common and convenient highway for mankind. _The Atlantic has
+a common and convenient highway for mankind. _The Atlantic has
 
-      been actually crossed in a Balloon!_ and this too without
+been actually crossed in a Balloon!_ and this too without
 
-      difficulty—without any great apparent danger—with thorough
+difficulty—without any great apparent danger—with thorough
 
-      control of the [[Machine|machine]]—and in the inconceivably brief period of
+control of the [[Machine|machine]]—and in the inconceivably brief period of
 
-      seventy-five hours from shore to shore! By the energy of an agent
+seventy-five hours from shore to shore! By the energy of an agent
 
-      at Charleston, S.C., we are enabled to be the first to furnish
+at Charleston, S.C., we are enabled to be the first to furnish
 
-      the public with a detailed account of this most extraordinary
+the public with a detailed account of this most extraordinary
 
-      voyage, which was performed between Saturday, the 6th instant, at
+voyage, which was performed between Saturday, the 6th instant, at
 
-      11, A.M., and 2, P.M., on Tuesday, the 9th instant, by Sir
+11, A.M., and 2, P.M., on Tuesday, the 9th instant, by Sir
 
-      Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
+Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
 
-      Monck Mason and Mr. Robert Holland, the [[Well|well]]-known æronauts; Mr.
+Monck Mason and Mr. Robert Holland, the [[Well|well]]-known æronauts; Mr.
 
-      Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
+Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
 
-      Henson, the projector of the late unsuccessful flying
+Henson, the projector of the late unsuccessful flying
 
-      [[Machine|machine]]—with two seamen from Woolwich—in all, eight persons. The
+[[Machine|machine]]—with two seamen from Woolwich—in all, eight persons. The
 
-      particulars furnished below may be relied on as authentic and
+particulars furnished below may be relied on as authentic and
 
-      accurate in every respect, as, with a slight exception, they are
+accurate in every respect, as, with a slight exception, they are
 
-      copied _verbatim_ from the joint diaries of Mr. Monck Mason and
+copied _verbatim_ from the joint diaries of Mr. Monck Mason and
 
-      Mr. Harrison Ainsworth, to whose politeness our agent is also
+Mr. Harrison Ainsworth, to whose politeness our agent is also
 
-      indebted for much verbal information respecting the balloon
+indebted for much verbal information respecting the balloon
 
-      itself, its construction, and other matters of interest. The only
+itself, its construction, and other matters of interest. The only
 
-      alteration in the MS. received, has been made for the purpose of
+alteration in the MS. received, has been made for the purpose of
 
-      throwing the hurried account of our agent, Mr. Forsyth, into a
+throwing the hurried account of our agent, Mr. Forsyth, into a
 
-      connected and intelligible form.
+connected and intelligible form.
 
 
 
-      “THE BALLOON.
+“THE BALLOON.
 
 
 
-      “Two very decided failures, of late—those of Mr. Henson and Sir
+“Two very decided failures, of late—those of Mr. Henson and Sir
 
-      George Cayley—had much weakened the public interest in the
+George Cayley—had much weakened the public interest in the
 
-      subject of aerial navigation. Mr. Henson’s scheme (which at first
+subject of aerial navigation. Mr. Henson’s scheme (which at first
 
-      was considered very feasible even by men of science,) was founded
+was considered very feasible even by men of science,) was founded
 
-      upon the principle of an inclined plane, started from an eminence
+upon the principle of an inclined plane, started from an eminence
 
-      by an extrinsic force, applied and continued by the revolution of
+by an extrinsic force, applied and continued by the revolution of
 
-      impinging vanes, in form and number resembling the vanes of a
+impinging vanes, in form and number resembling the vanes of a
 
-      windmill. But, in all the experiments made with models at the
+windmill. But, in all the experiments made with models at the
 
-      Adelaide Gallery, it was found that the operation of these fans
+Adelaide Gallery, it was found that the operation of these fans
 
-      not only did not propel the [[Machine|machine]], but actually impeded its
+not only did not propel the [[Machine|machine]], but actually impeded its
 
-      flight. The only propelling force it ever exhibited, was the mere
+flight. The only propelling force it ever exhibited, was the mere
 
-      _impetus_ acquired from the descent of the inclined plane; and
+_impetus_ acquired from the descent of the inclined plane; and
 
-      this _impetus_ carried the [[Machine|machine]] farther when the vanes were at
+this _impetus_ carried the [[Machine|machine]] farther when the vanes were at
 
-      rest, than when they were in motion—a fact which sufficiently
+rest, than when they were in motion—a fact which sufficiently
 
-      demonstrates their inutility; and in the absence of the
+demonstrates their inutility; and in the absence of the
 
-      propelling, which was also the _sustaining_ power, the whole
+propelling, which was also the _sustaining_ power, the whole
 
-      fabric would necessarily descend. This consideration led Sir
+fabric would necessarily descend. This consideration led Sir
 
-      George Cayley to think only of adapting a propeller to some
+George Cayley to think only of adapting a propeller to some
 
-      [[Machine|machine]] having of itself an independent power of support—in a
+[[Machine|machine]] having of itself an independent power of support—in a
 
-      word, to a balloon; the idea, however, being [[Novel|novel]], or original,
+word, to a balloon; the idea, however, being [[Novel|novel]], or original,
 
-      with Sir George, only so far as regards the mode of its
+with Sir George, only so far as regards the mode of its
 
-      application to practice. He exhibited a model of his invention at
+application to practice. He exhibited a model of his invention at
 
-      the Polytechnic Institution. The propelling principle, or power,
+the Polytechnic Institution. The propelling principle, or power,
 
-      was here, also, applied to interrupted surfaces, or vanes, put in
+was here, also, applied to interrupted surfaces, or vanes, put in
 
-      revolution. These vanes were four in number, but were found
+revolution. These vanes were four in number, but were found
 
-      entirely ineffectual in moving the balloon, or in aiding its
+entirely ineffectual in moving the balloon, or in aiding its
 
-      ascending power. The whole project was thus a complete failure.
+ascending power. The whole project was thus a complete failure.
 
 
 
-      “It was at this juncture that Mr. Monck Mason (whose voyage from
+“It was at this juncture that Mr. Monck Mason (whose voyage from
 
-      Dover to Weilburg in the balloon, “Nassau,” occasioned so much
+Dover to Weilburg in the balloon, “Nassau,” occasioned so much
 
-      excitement in 1837,) conceived the idea of employing the
+excitement in 1837,) conceived the idea of employing the
 
-      principle of the Archimedean screw for the purpose of propulsion
+principle of the Archimedean screw for the purpose of propulsion
 
-      through the air—rightly attributing the failure of Mr. Henson’s
+through the air—rightly attributing the failure of Mr. Henson’s
 
-      scheme, and of Sir George Cayley’s, to the interruption of
+scheme, and of Sir George Cayley’s, to the interruption of
 
-      surface in the independent vanes. He made the first public
+surface in the independent vanes. He made the first public
 
-      experiment at Willis’s Rooms, but afterward removed his model to
+experiment at Willis’s Rooms, but afterward removed his model to
 
-      the Adelaide Gallery.
+the Adelaide Gallery.
 
 
 
-      “Like Sir George Cayley’s balloon, his own was an ellipsoid. Its
+“Like Sir George Cayley’s balloon, his own was an ellipsoid. Its
 
-      length was thirteen feet six inches—height, six feet eight
+length was thirteen feet six inches—height, six feet eight
 
-      inches. It contained about three hundred and twenty cubic feet of
+inches. It contained about three hundred and twenty cubic feet of
 
-      gas, which, if pure hydrogen, would support twenty-one pounds
+gas, which, if pure hydrogen, would support twenty-one pounds
 
-      upon its first inflation, before the gas has [[Time|time]] to deteriorate
+upon its first inflation, before the gas has [[Time|time]] to deteriorate
 
-      or escape. The weight of the whole [[Machine|machine]] and apparatus was
+or escape. The weight of the whole [[Machine|machine]] and apparatus was
 
-      seventeen pounds—leaving about four pounds to spare. Beneath the
+seventeen pounds—leaving about four pounds to spare. Beneath the
 
-      centre of the balloon, was a frame of light wood, about nine feet
+centre of the balloon, was a frame of light wood, about nine feet
 
-      long, and rigged on to the balloon itself with a network in the
+long, and rigged on to the balloon itself with a network in the
 
-      customary manner. From this framework was suspended a wicker
+customary manner. From this framework was suspended a wicker
 
-      basket or car.
+basket or car.
 
 
 
-      “The screw consists of an axis of hollow brass tube, eighteen
+“The screw consists of an axis of hollow brass tube, eighteen
 
-      inches in length, through which, upon a semi-spiral inclined at
+inches in length, through which, upon a semi-spiral inclined at
 
-      fifteen degrees, pass a series of steel wire radii, two feet
+fifteen degrees, pass a series of steel wire radii, two feet
 
-      long, and thus projecting a foot on either side. These radii are
+long, and thus projecting a foot on either side. These radii are
 
-      connected at the outer extremities by two bands of flattened
+connected at the outer extremities by two bands of flattened
 
-      wire—the whole in this manner forming the framework of the screw,
+wire—the whole in this manner forming the framework of the screw,
 
-      which is completed by a covering of oiled silk cut into gores,
+which is completed by a covering of oiled silk cut into gores,
 
-      and tightened so as to present a tolerably uniform surface. At
+and tightened so as to present a tolerably uniform surface. At
 
-      each end of its axis this screw is supported by pillars of hollow
+each end of its axis this screw is supported by pillars of hollow
 
-      brass tube descending from the hoop. In the lower ends of these
+brass tube descending from the hoop. In the lower ends of these
 
-      tubes are holes in which the pivots of the axis revolve. From the
+tubes are holes in which the pivots of the axis revolve. From the
 
-      end of the axis which is next the car, proceeds a shaft of steel,
+end of the axis which is next the car, proceeds a shaft of steel,
 
-      connecting the screw with the pinion of a piece of [[spring]]
+connecting the screw with the pinion of a piece of [[spring]]
 
-      machinery fixed in the car. By the operation of this [[spring]], the
+machinery fixed in the car. By the operation of this [[spring]], the
 
-      screw is made to revolve with great rapidity, communicating a
+screw is made to revolve with great rapidity, communicating a
 
-      progressive motion to the whole. By means of the rudder, the
+progressive motion to the whole. By means of the rudder, the
 
-      [[Machine|machine]] was readily turned in any direction. The [[spring]] was of
+[[Machine|machine]] was readily turned in any direction. The [[spring]] was of
 
-      great power, compared with its dimensions, being capable of
+great power, compared with its dimensions, being capable of
 
-      raising forty-five pounds upon a barrel of four inches diameter,
+raising forty-five pounds upon a barrel of four inches diameter,
 
-      after the first turn, and gradually increasing as it was wound
+after the first turn, and gradually increasing as it was wound
 
-      up. It weighed, altogether, eight pounds six ounces. The rudder
+up. It weighed, altogether, eight pounds six ounces. The rudder
 
-      was a light frame of cane covered with silk, shaped somewhat like
+was a light frame of cane covered with silk, shaped somewhat like
 
-      a battle-door, and was about three feet long, and at the widest,
+a battle-door, and was about three feet long, and at the widest,
 
-      one foot. Its weight was about two ounces. It could be turned
+one foot. Its weight was about two ounces. It could be turned
 
-      _flat_, and directed upwards or downwards, as [[Well|well]] as to the
+_flat_, and directed upwards or downwards, as [[Well|well]] as to the
 
-      right or left; and thus enabled the æronaut to transfer the
+right or left; and thus enabled the æronaut to transfer the
 
-      resistance of the air which in an inclined position it must
+resistance of the air which in an inclined position it must
 
-      generate in its passage, to any side upon which he might [[Desire|desire]]
+generate in its passage, to any side upon which he might [[Desire|desire]]
 
-      to act; thus determining the balloon in the opposite direction.
+to act; thus determining the balloon in the opposite direction.
 
 
 
-      “This model (which, through want of [[Time|time]], we have necessarily
+“This model (which, through want of [[Time|time]], we have necessarily
 
-      described in an imperfect manner,) was put in action at the
+described in an imperfect manner,) was put in action at the
 
-      Adelaide Gallery, where it accomplished a velocity of five miles
+Adelaide Gallery, where it accomplished a velocity of five miles
 
-      per hour; although, strange to say, it excited very little
+per hour; although, strange to say, it excited very little
 
-      interest in comparison with the previous complex [[Machine|machine]] of Mr.
+interest in comparison with the previous complex [[Machine|machine]] of Mr.
 
-      Henson—so resolute is the world to despise anything which carries
+Henson—so resolute is the world to despise anything which carries
 
-      with it an air of simplicity. To accomplish the great desideratum
+with it an air of simplicity. To accomplish the great desideratum
 
-      of ærial navigation, it was very generally supposed that some
+of ærial navigation, it was very generally supposed that some
 
-      exceedingly complicated application must be made of some
+exceedingly complicated application must be made of some
 
-      unusually profound principle in dynamics.
+unusually profound principle in dynamics.
 
 
 
-      “So [[Well|well]] satisfied, however, was Mr. Mason of the ultimate
+“So [[Well|well]] satisfied, however, was Mr. Mason of the ultimate
 
-      [[success]] of his invention, that he determined to construct
+[[success]] of his invention, that he determined to construct
 
-      immediately, if possible, a balloon of sufficient capacity to
+immediately, if possible, a balloon of sufficient capacity to
 
-      test the question by a voyage of some extent—the original design
+test the question by a voyage of some extent—the original design
 
-      being to [[Cross|cross]] the British Channel, as before, in the Nassau
+being to [[Cross|cross]] the British Channel, as before, in the Nassau
 
-      balloon. To carry out his views, he solicited and obtained the
+balloon. To carry out his views, he solicited and obtained the
 
-      patronage of Sir Everard Bringhurst and Mr. Osborne, two
+patronage of Sir Everard Bringhurst and Mr. Osborne, two
 
-      gentlemen [[Well|well]] known for scientific acquirement, and especially
+gentlemen [[Well|well]] known for scientific acquirement, and especially
 
-      for the interest they have exhibited in the progress of
+for the interest they have exhibited in the progress of
 
-      ærostation. The project, at the [[Desire|desire]] of Mr. Osborne, was kept a
+ærostation. The project, at the [[Desire|desire]] of Mr. Osborne, was kept a
 
-      profound secret from the public—the only persons entrusted with
+profound secret from the public—the only persons entrusted with
 
-      the design being those actually engaged in the construction of
+the design being those actually engaged in the construction of
 
-      the [[Machine|machine]], which was built (under the superintendence of Mr.
+the [[Machine|machine]], which was built (under the superintendence of Mr.
 
-      Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
+Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
 
-      the seat of the latter gentleman near Penstruthal, in Wales. Mr.
+the seat of the latter gentleman near Penstruthal, in Wales. Mr.
 
-      Henson, accompanied by his friend Mr. Ainsworth, was admitted to
+Henson, accompanied by his friend Mr. Ainsworth, was admitted to
 
-      a private view of the balloon, on Saturday last—when the two
+a private view of the balloon, on Saturday last—when the two
 
-      gentlemen made final arrangements to be included in the
+gentlemen made final arrangements to be included in the
 
-      adventure. We are not informed for what reason the two seamen
+adventure. We are not informed for what reason the two seamen
 
-      were also included in the party—but, in the course of a day or
+were also included in the party—but, in the course of a day or
 
-      two, we shall put our readers in possession of the minutest
+two, we shall put our readers in possession of the minutest
 
-      particulars respecting this extraordinary voyage.
+particulars respecting this extraordinary voyage.
 
 
 
-      “The balloon is composed of silk, varnished with the liquid gum
+“The balloon is composed of silk, varnished with the liquid gum
 
-      caoutchouc. It is of vast dimensions, containing more than 40,000
+caoutchouc. It is of vast dimensions, containing more than 40,000
 
-      cubic feet of gas; but as coal gas was employed in place of the
+cubic feet of gas; but as coal gas was employed in place of the
 
-      more expensive and inconvenient hydrogen, the supporting power of
+more expensive and inconvenient hydrogen, the supporting power of
 
-      the [[Machine|machine]], when fully inflated, and immediately after
+the [[Machine|machine]], when fully inflated, and immediately after
 
-      inflation, is not more than about 2500 pounds. The coal gas is
+inflation, is not more than about 2500 pounds. The coal gas is
 
-      not only much less costly, but is easily procured and managed.
+not only much less costly, but is easily procured and managed.
 
 
 
-      “For its introduction into common use for purposes of
+“For its introduction into common use for purposes of
 
-      aerostation, we are indebted to Mr. Charles Green. Up to his
+aerostation, we are indebted to Mr. Charles Green. Up to his
 
-      discovery, the process of inflation was not only exceedingly
+discovery, the process of inflation was not only exceedingly
 
-      expensive, but uncertain. Two, and even three days, have
+expensive, but uncertain. Two, and even three days, have
 
-      frequently been wasted in futile attempts to procure a
+frequently been wasted in futile attempts to procure a
 
-      sufficiency of hydrogen to fill a balloon, from which it had
+sufficiency of hydrogen to fill a balloon, from which it had
 
-      great tendency to escape, owing to its extreme subtlety, and its
+great tendency to escape, owing to its extreme subtlety, and its
 
-      affinity for the surrounding atmosphere. In a balloon
+affinity for the surrounding atmosphere. In a balloon
 
-      sufficiently perfect to retain its contents of coal-gas
+sufficiently perfect to retain its contents of coal-gas
 
-      unaltered, in quantity or amount, for six months, an equal
+unaltered, in quantity or amount, for six months, an equal
 
-      quantity of hydrogen could not be maintained in equal purity for
+quantity of hydrogen could not be maintained in equal purity for
 
-      six weeks.
+six weeks.
 
 
 
-      “The supporting power being estimated at 2500 pounds, and the
+“The supporting power being estimated at 2500 pounds, and the
 
-      united weights of the party amounting only to about 1200, there
+united weights of the party amounting only to about 1200, there
 
-      was left a surplus of 1300, of which again 1200 was exhausted by
+was left a surplus of 1300, of which again 1200 was exhausted by
 
-      ballast, arranged in bags of different sizes, with their
+ballast, arranged in bags of different sizes, with their
 
-      respective weights marked upon them—by cordage, barometers,
+respective weights marked upon them—by cordage, barometers,
 
-      telescopes, barrels containing provision for a fortnight,
+telescopes, barrels containing provision for a fortnight,
 
-      [[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
+[[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
 
-      matters, including a coffee-warmer, contrived for warming coffee
+matters, including a coffee-warmer, contrived for warming coffee
 
-      by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
+by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
 
-      if it should be judged prudent to do so. All these articles, with
+if it should be judged prudent to do so. All these articles, with
 
-      the exception of the ballast, and a few trifles, were suspended
+the exception of the ballast, and a few trifles, were suspended
 
-      from the hoop overhead. The car is much smaller and lighter, in
+from the hoop overhead. The car is much smaller and lighter, in
 
-      proportion, than the one appended to the model. It is formed of a
+proportion, than the one appended to the model. It is formed of a
 
-      light wicker, and is wonderfully strong, for so frail looking a
+light wicker, and is wonderfully strong, for so frail looking a
 
-      [[Machine|machine]]. Its rim is about four feet deep. The rudder is also very
+[[Machine|machine]]. Its rim is about four feet deep. The rudder is also very
 
-      much larger, in proportion, than that of the model; and the screw
+much larger, in proportion, than that of the model; and the screw
 
-      is considerably smaller. The balloon is furnished besides with a
+is considerably smaller. The balloon is furnished besides with a
 
-      grapnel, and a guide-rope; which latter is of the most
+grapnel, and a guide-rope; which latter is of the most
 
-      indispensable importance. A few words, in explanation, will here
+indispensable importance. A few words, in explanation, will here
 
-      be necessary for such of our readers as are not conversant with
+be necessary for such of our readers as are not conversant with
 
-      the details of aerostation.
+the details of aerostation.
 
 
 
-      “As soon as the balloon quits the earth, it is subjected to the
+“As soon as the balloon quits the earth, it is subjected to the
 
-      influence of many circumstances tending to create a difference in
+influence of many circumstances tending to create a difference in
 
-      its weight; augmenting or diminishing its ascending power. For
+its weight; augmenting or diminishing its ascending power. For
 
-      example, there may be a deposition of dew upon the silk, to the
+example, there may be a deposition of dew upon the silk, to the
 
-      extent, even, of several hundred pounds; ballast has then to be
+extent, even, of several hundred pounds; ballast has then to be
 
-      thrown out, or the [[Machine|machine]] may descend. This ballast being
+thrown out, or the [[Machine|machine]] may descend. This ballast being
 
-      discarded, and a clear sunshine evaporating the dew, and at the
+discarded, and a clear sunshine evaporating the dew, and at the
 
-      same [[Time|time]] expanding the gas in the silk, the whole will again
+same [[Time|time]] expanding the gas in the silk, the whole will again
 
-      rapidly ascend. To check this ascent, the only recourse is, (or
+rapidly ascend. To check this ascent, the only recourse is, (or
 
-      rather _was_, until Mr. Green’s invention of the guide-rope,) the
+rather _was_, until Mr. Green’s invention of the guide-rope,) the
 
-      permission of the escape of gas from the valve; but, in the loss
+permission of the escape of gas from the valve; but, in the loss
 
-      of gas, is a proportionate general loss of ascending power; so
+of gas, is a proportionate general loss of ascending power; so
 
-      that, in a comparatively brief period, the best-constructed
+that, in a comparatively brief period, the best-constructed
 
-      balloon must necessarily exhaust all its resources, and come to
+balloon must necessarily exhaust all its resources, and come to
 
-      the earth. This was the great obstacle to voyages of length.
+the earth. This was the great obstacle to voyages of length.
 
 
 
-      “The guide-rope remedies the difficulty in the simplest manner
+“The guide-rope remedies the difficulty in the simplest manner
 
-      conceivable. It is merely a very long rope which is suffered to
+conceivable. It is merely a very long rope which is suffered to
 
-      trail from the car, and the effect of which is to prevent the
+trail from the car, and the effect of which is to prevent the
 
-      balloon from changing its level in any material degree. If, for
+balloon from changing its level in any material degree. If, for
 
-      example, there should be a deposition of moisture upon the silk,
+example, there should be a deposition of moisture upon the silk,
 
-      and the [[Machine|machine]] begins to descend in consequence, there will be
+and the [[Machine|machine]] begins to descend in consequence, there will be
 
-      no necessity for discharging ballast to remedy the increase of
+no necessity for discharging ballast to remedy the increase of
 
-      weight, for it is remedied, or counteracted, in an exactly just
+weight, for it is remedied, or counteracted, in an exactly just
 
-      proportion, by the deposit on the ground of just so much of the
+proportion, by the deposit on the ground of just so much of the
 
-      end of the rope as is necessary. If, on the other hand, any
+end of the rope as is necessary. If, on the other hand, any
 
-      circumstances should cause undue levity, and consequent ascent,
+circumstances should cause undue levity, and consequent ascent,
 
-      this levity is immediately counteracted by the additional weight
+this levity is immediately counteracted by the additional weight
 
-      of rope upraised from the earth. Thus, the balloon can neither
+of rope upraised from the earth. Thus, the balloon can neither
 
-      ascend or descend, except within very narrow limits, and its
+ascend or descend, except within very narrow limits, and its
 
-      resources, either in gas or ballast, remain comparatively
+resources, either in gas or ballast, remain comparatively
 
-      unimpaired. When passing over an expanse of [[Water|water]], it becomes
+unimpaired. When passing over an expanse of [[Water|water]], it becomes
 
-      necessary to employ small kegs of copper or wood, filled with
+necessary to employ small kegs of copper or wood, filled with
 
-      liquid ballast of a lighter [[Nature|nature]] than [[Water|water]]. These float, and
+liquid ballast of a lighter [[Nature|nature]] than [[Water|water]]. These float, and
 
-      serve all the purposes of a mere rope on land. Another most
+serve all the purposes of a mere rope on land. Another most
 
-      important office of the guide-rope, is to point out the
+important office of the guide-rope, is to point out the
 
-      _direction_ of the balloon. The rope _drags_, either on land or
+_direction_ of the balloon. The rope _drags_, either on land or
 
-      sea, while the balloon is free; the latter, consequently, is
+sea, while the balloon is free; the latter, consequently, is
 
-      always in advance, when any progress whatever is made: a
+always in advance, when any progress whatever is made: a
 
-      comparison, therefore, by means of the compass, of the relative
+comparison, therefore, by means of the compass, of the relative
 
-      positions of the two objects, will always indicate the _course_.
+positions of the two objects, will always indicate the _course_.
 
-      In the same way, the angle formed by the rope with the vertical
+In the same way, the angle formed by the rope with the vertical
 
-      axis of the [[Machine|machine]], indicates the _velocity_. When there is _no_
+axis of the [[Machine|machine]], indicates the _velocity_. When there is _no_
 
-      angle—in other words, when the rope hangs perpendicularly, the
+angle—in other words, when the rope hangs perpendicularly, the
 
-      whole apparatus is stationary; but the larger the angle, that is
+whole apparatus is stationary; but the larger the angle, that is
 
-      to say, the farther the balloon precedes the end of the rope, the
+to say, the farther the balloon precedes the end of the rope, the
 
-      greater the velocity; and the converse.
+greater the velocity; and the converse.
 
 
 
-      “As the original design was to [[Cross|cross]] the British Channel, and
+“As the original design was to [[Cross|cross]] the British Channel, and
 
-      alight as near [[Paris]] as possible, the voyagers had taken the
+alight as near [[Paris]] as possible, the voyagers had taken the
 
-      precaution to prepare themselves with passports directed to all
+precaution to prepare themselves with passports directed to all
 
-      parts of the Continent, specifying the [[Nature|nature]] of the expedition,
+parts of the Continent, specifying the [[Nature|nature]] of the expedition,
 
-      as in the case of the Nassau voyage, and entitling the
+as in the case of the Nassau voyage, and entitling the
 
-      adventurers to exemption from the usual formalities of office:
+adventurers to exemption from the usual formalities of office:
 
-      unexpected events, however, rendered these passports superfluous.
+unexpected events, however, rendered these passports superfluous.
 
 
 
-      “The inflation was commenced very quietly at daybreak, on
+“The inflation was commenced very quietly at daybreak, on
 
-      Saturday morning, the 6th instant, in the [[Court]]-Yard of Weal-Vor
+Saturday morning, the 6th instant, in the [[Court]]-Yard of Weal-Vor
 
-      [[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
+[[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
 
-      North Wales; and at 7 minutes past 11, every thing being ready
+North Wales; and at 7 minutes past 11, every thing being ready
 
-      for departure, the balloon was set free, rising gently but
+for departure, the balloon was set free, rising gently but
 
-      steadily, in a direction nearly South; no use being made, for the
+steadily, in a direction nearly South; no use being made, for the
 
-      first half hour, of either the screw or the rudder. We proceed
+first half hour, of either the screw or the rudder. We proceed
 
-      now with the journal, as transcribed by Mr. Forsyth from the
+now with the journal, as transcribed by Mr. Forsyth from the
 
-      joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The [[Body|body]] of the
+joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The [[Body|body]] of the
 
-      journal, as given, is in the hand-writing of Mr. Mason, and a P.
+journal, as given, is in the hand-writing of Mr. Mason, and a P.
 
-      S. is appended, each day, by Mr. Ainsworth, who has in
+S. is appended, each day, by Mr. Ainsworth, who has in
 
-      preparation, and will shortly give the public a more minute, and
+preparation, and will shortly give the public a more minute, and
 
-      no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
+no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
 
 
 
-      “THE JOURNAL.
+“THE JOURNAL.
 
 
 
-      “_Saturday, April the 6th_.—Every preparation likely to embarrass
+“_Saturday, April the 6th_.—Every preparation likely to embarrass
 
-      us, having been made over [[Night|night]], we commenced the inflation this
+us, having been made over [[Night|night]], we commenced the inflation this
 
-      morning at daybreak; but owing to a thick fog, which encumbered
+morning at daybreak; but owing to a thick fog, which encumbered
 
-      the folds of the silk and rendered it unmanageable, we did not
+the folds of the silk and rendered it unmanageable, we did not
 
-      get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
+get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
 
-      high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
+high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
 
-      at North, which bore us in the direction of the British Channel.
+at North, which bore us in the direction of the British Channel.
 
-      Found the ascending force greater than we had expected; and as we
+Found the ascending force greater than we had expected; and as we
 
-      arose higher and so got clear of the cliffs, and more in the
+arose higher and so got clear of the cliffs, and more in the
 
-      sun’s rays, our ascent became very rapid. I did not wish,
+sun’s rays, our ascent became very rapid. I did not wish,
 
-      however, to lose gas at so early a period of the adventure, and
+however, to lose gas at so early a period of the adventure, and
 
-      so concluded to ascend for the present. We soon ran out our
+so concluded to ascend for the present. We soon ran out our
 
-      guide-rope; but even when we had raised it clear of the earth, we
+guide-rope; but even when we had raised it clear of the earth, we
 
-      still went up very rapidly. The balloon was unusually steady, and
+still went up very rapidly. The balloon was unusually steady, and
 
-      looked beautifully. In about ten minutes after starting, the
+looked beautifully. In about ten minutes after starting, the
 
-      barometer indicated an altitude of 15,000 feet. The weather was
+barometer indicated an altitude of 15,000 feet. The weather was
 
-      remarkably fine, and the view of the subjacent country—a most
+remarkably fine, and the view of the subjacent country—a most
 
-      romantic one when seen from any point,—was now especially
+romantic one when seen from any point,—was now especially
 
-      [[Sublime|sublime]]. The numerous deep gorges presented the appearance of
+[[Sublime|sublime]]. The numerous deep gorges presented the appearance of
 
-      lakes, on account of the dense vapors with which they were
+lakes, on account of the dense vapors with which they were
 
-      filled, and the pinnacles and crags to the South East, piled in
+filled, and the pinnacles and crags to the South East, piled in
 
-      inextricable confusion, resembling nothing so much as the giant
+inextricable confusion, resembling nothing so much as the giant
 
-      cities of eastern [[Fable|fable]]. We were rapidly approaching the
+cities of eastern [[Fable|fable]]. We were rapidly approaching the
 
-      [[Mountains|mountains]] in the South; but our elevation was more than
+[[Mountains|mountains]] in the South; but our elevation was more than
 
-      sufficient to enable us to pass them in safety. In a few minutes
+sufficient to enable us to pass them in safety. In a few minutes
 
-      we soared over them in fine style; and Mr. Ainsworth, with the
+we soared over them in fine style; and Mr. Ainsworth, with the
 
-      seamen, was surprised at their apparent want of altitude when
+seamen, was surprised at their apparent want of altitude when
 
-      viewed from the car, the tendency of great elevation in a balloon
+viewed from the car, the tendency of great elevation in a balloon
 
-      being to reduce inequalities of the surface below, to nearly a
+being to reduce inequalities of the surface below, to nearly a
 
-      dead level. At half-past eleven still proceeding nearly South, we
+dead level. At half-past eleven still proceeding nearly South, we
 
-      obtained our first view of the Bristol Channel; and, in fifteen
+obtained our first view of the Bristol Channel; and, in fifteen
 
-      minutes afterward, the line of breakers on the coast appeared
+minutes afterward, the line of breakers on the coast appeared
 
-      immediately beneath us, and we were fairly out at sea. We now
+immediately beneath us, and we were fairly out at sea. We now
 
-      resolved to let off enough gas to bring our guide-rope, with the
+resolved to let off enough gas to bring our guide-rope, with the
 
-      buoys affixed, into the [[Water|water]]. This was immediately done, and we
+buoys affixed, into the [[Water|water]]. This was immediately done, and we
 
-      commenced a gradual descent. In about twenty minutes our first
+commenced a gradual descent. In about twenty minutes our first
 
-      buoy dipped, and at the touch of the second soon afterwards, we
+buoy dipped, and at the touch of the second soon afterwards, we
 
-      remained stationary as to elevation. We were all now anxious to
+remained stationary as to elevation. We were all now anxious to
 
-      test the efficiency of the rudder and screw, and we put them both
+test the efficiency of the rudder and screw, and we put them both
 
-      into requisition forthwith, for the purpose of altering our
+into requisition forthwith, for the purpose of altering our
 
-      direction more to the eastward, and in a line for [[Paris]]. By means
+direction more to the eastward, and in a line for [[Paris]]. By means
 
-      of the rudder we instantly effected the necessary change of
+of the rudder we instantly effected the necessary change of
 
-      direction, and our course was brought nearly at right angles to
+direction, and our course was brought nearly at right angles to
 
-      that of the [[Wind|wind]]; when we set in motion the [[spring]] of the screw,
+that of the [[Wind|wind]]; when we set in motion the [[spring]] of the screw,
 
-      and were rejoiced to find it propel us readily as desired. Upon
+and were rejoiced to find it propel us readily as desired. Upon
 
-      this we gave nine hearty cheers, and dropped in the sea a bottle,
+this we gave nine hearty cheers, and dropped in the sea a bottle,
 
-      enclosing a slip of parchment with a brief account of the
+enclosing a slip of parchment with a brief account of the
 
-      principle of the invention. Hardly, however, had we done with our
+principle of the invention. Hardly, however, had we done with our
 
-      rejoicings, when an unforeseen accident occurred which
+rejoicings, when an unforeseen accident occurred which
 
-      discouraged us in no little degree. The steel rod connecting the
+discouraged us in no little degree. The steel rod connecting the
 
-      [[spring]] with the propeller was suddenly jerked out of place, at
+[[spring]] with the propeller was suddenly jerked out of place, at
 
-      the car end, (by a swaying of the car through some movement of
+the car end, (by a swaying of the car through some movement of
 
-      one of the two seamen we had taken up,) and in an instant hung
+one of the two seamen we had taken up,) and in an instant hung
 
-      dangling out of reach, from the pivot of the axis of the screw.
+dangling out of reach, from the pivot of the axis of the screw.
 
-      While we were endeavoring to regain it, our attention being
+While we were endeavoring to regain it, our attention being
 
-      completely absorbed, we became involved in a strong current of
+completely absorbed, we became involved in a strong current of
 
-      [[Wind|wind]] from the East, which bore us, with rapidly increasing force,
+[[Wind|wind]] from the East, which bore us, with rapidly increasing force,
 
-      towards the Atlantic. We soon found ourselves driving out to sea
+towards the Atlantic. We soon found ourselves driving out to sea
 
-      at the rate of not less, certainly, than fifty or sixty miles an
+at the rate of not less, certainly, than fifty or sixty miles an
 
-      hour, so that we came up with Cape Clear, at some forty miles to
+hour, so that we came up with Cape Clear, at some forty miles to
 
-      our North, before we had secured the rod, and had [[Time|time]] to think
+our North, before we had secured the rod, and had [[Time|time]] to think
 
-      what we were about. It was now that Mr. Ainsworth made an
+what we were about. It was now that Mr. Ainsworth made an
 
-      extraordinary, but to my fancy, a by no means unreasonable or
+extraordinary, but to my fancy, a by no means unreasonable or
 
-      chimerical proposition, in which he was instantly seconded by Mr.
+chimerical proposition, in which he was instantly seconded by Mr.
 
-      Holland—viz.: that we should take advantage of the strong gale
+Holland—viz.: that we should take advantage of the strong gale
 
-      which bore us on, and in place of beating back to [[Paris]], make an
+which bore us on, and in place of beating back to [[Paris]], make an
 
-      attempt to reach the coast of North [[america|America]]. After slight
+attempt to reach the coast of North [[america|America]]. After slight
 
-      reflection I gave a willing assent to this bold proposition,
+reflection I gave a willing assent to this bold proposition,
 
-      which (strange to say) met with objection from the two seamen
+which (strange to say) met with objection from the two seamen
 
-      only. As the stronger party, however, we overruled their fears,
+only. As the stronger party, however, we overruled their fears,
 
-      and kept resolutely upon our course. We steered due West; but as
+and kept resolutely upon our course. We steered due West; but as
 
-      the trailing of the buoys materially impeded our progress, and we
+the trailing of the buoys materially impeded our progress, and we
 
-      had the balloon abundantly at command, either for ascent or
+had the balloon abundantly at command, either for ascent or
 
-      descent, we first threw out fifty pounds of ballast, and then
+descent, we first threw out fifty pounds of ballast, and then
 
-      wound up (by means of a windlass) so much of the rope as brought
+wound up (by means of a windlass) so much of the rope as brought
 
-      it quite clear of the sea. We perceived the effect of this
+it quite clear of the sea. We perceived the effect of this
 
-      manoeuvre immediately, in a vastly increased rate of progress;
+manoeuvre immediately, in a vastly increased rate of progress;
 
-      and, as the gale freshened, we flew with a velocity nearly
+and, as the gale freshened, we flew with a velocity nearly
 
-      inconceivable; the guide-rope flying out behind the car, like a
+inconceivable; the guide-rope flying out behind the car, like a
 
-      streamer from a vessel. It is needless to say that a very short
+streamer from a vessel. It is needless to say that a very short
 
-      [[Time|time]] sufficed us to lose sight of the coast. We passed over
+[[Time|time]] sufficed us to lose sight of the coast. We passed over
 
-      innumerable vessels of all kinds, a few of which were endeavoring
+innumerable vessels of all kinds, a few of which were endeavoring
 
-      to beat up, but the most of them lying to. We occasioned the
+to beat up, but the most of them lying to. We occasioned the
 
-      greatest excitement on board all—an excitement greatly relished
+greatest excitement on board all—an excitement greatly relished
 
-      by ourselves, and especially by our two men, who, now under the
+by ourselves, and especially by our two men, who, now under the
 
-      influence of a dram of Geneva, seemed resolved to give all
+influence of a dram of Geneva, seemed resolved to give all
 
-      scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
+scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
 
-      guns; and in all we were saluted with loud cheers (which we heard
+guns; and in all we were saluted with loud cheers (which we heard
 
-      with surprising distinctness) and the waving of caps and
+with surprising distinctness) and the waving of caps and
 
-      handkerchiefs. We kept on in this manner throughout the day, with
+handkerchiefs. We kept on in this manner throughout the day, with
 
-      no material incident, and, as the shades of [[Night|night]] closed around
+no material incident, and, as the shades of [[Night|night]] closed around
 
-      us, we made a rough estimate of the distance traversed. It could
+us, we made a rough estimate of the distance traversed. It could
 
-      not have been less than five hundred miles, and was probably much
+not have been less than five hundred miles, and was probably much
 
-      more. The propeller was kept in constant operation, and, no
+more. The propeller was kept in constant operation, and, no
 
-      [[Doubt|doubt]], aided our progress materially. As the sun went down, the
+[[Doubt|doubt]], aided our progress materially. As the sun went down, the
 
-      gale freshened into an absolute hurricane, and the ocean beneath
+gale freshened into an absolute hurricane, and the ocean beneath
 
-      was clearly visible on account of its phosphorescence. The [[Wind|wind]]
+was clearly visible on account of its phosphorescence. The [[Wind|wind]]
 
-      was from the East all [[Night|night]], and gave us the brightest omen of
+was from the East all [[Night|night]], and gave us the brightest omen of
 
-      [[success]]. We suffered no little from cold, and the dampness of the
+[[success]]. We suffered no little from cold, and the dampness of the
 
-      atmosphere was most unpleasant; but the ample space in the car
+atmosphere was most unpleasant; but the ample space in the car
 
-      enabled us to lie down, and by means of cloaks and a few
+enabled us to lie down, and by means of cloaks and a few
 
-      blankets, we did sufficiently [[Well|well]].
+blankets, we did sufficiently [[Well|well]].
 
 
 
-      “P.S. (by Mr. Ainsworth.) The last nine hours have been
+“P.S. (by Mr. Ainsworth.) The last nine hours have been
 
-      unquestionably the most exciting of my life. I can conceive
+unquestionably the most exciting of my life. I can conceive
 
-      nothing more sublimating than the strange peril and novelty of an
+nothing more sublimating than the strange peril and novelty of an
 
-      adventure such as this. May God grant that we succeed! I ask not
+adventure such as this. May God grant that we succeed! I ask not
 
-      [[success]] for mere safety to my insignificant person, but for the
+[[success]] for mere safety to my insignificant person, but for the
 
-      sake of human knowledge and—for the vastness of the triumph. And
+sake of human knowledge and—for the vastness of the triumph. And
 
-      yet the feat is only so evidently feasible that the sole [[Wonder|wonder]]
+yet the feat is only so evidently feasible that the sole [[Wonder|wonder]]
 
-      is why men have scrupled to attempt it before. One single gale
+is why men have scrupled to attempt it before. One single gale
 
-      such as now befriends us—let such a tempest whirl forward a
+such as now befriends us—let such a tempest whirl forward a
 
-      balloon for four or five days (these gales often last longer) and
+balloon for four or five days (these gales often last longer) and
 
-      the voyager will be easily borne, in that period, from coast to
+the voyager will be easily borne, in that period, from coast to
 
-      coast. In view of such a gale the broad Atlantic becomes a mere
+coast. In view of such a gale the broad Atlantic becomes a mere
 
-      lake. I am more struck, just now, with the supreme [[Silence|silence]] which
+lake. I am more struck, just now, with the supreme [[Silence|silence]] which
 
-      reigns in the sea beneath us, notwithstanding its agitation, than
+reigns in the sea beneath us, notwithstanding its agitation, than
 
-      with any other phenomenon presenting itself. The waters give up
+with any other phenomenon presenting itself. The waters give up
 
-      no voice to the heavens. The immense flaming ocean writhes and is
+no voice to the heavens. The immense flaming ocean writhes and is
 
-      tortured uncomplainingly. The mountainous surges suggest the idea
+tortured uncomplainingly. The mountainous surges suggest the idea
 
-      of innumerable dumb gigantic fiends struggling in impotent agony.
+of innumerable dumb gigantic fiends struggling in impotent agony.
 
-      In a [[Night|night]] such as is this to me, a man _lives_—lives a whole
+In a [[Night|night]] such as is this to me, a man _lives_—lives a whole
 
-      century of ordinary life—nor would I forego this rapturous
+century of ordinary life—nor would I forego this rapturous
 
-      delight for that of a whole century of ordinary existence.
+delight for that of a whole century of ordinary existence.
 
 
 
-      “_Sunday, the seventh_. [Mr. Mason’s MS.] This morning the gale,
+“_Sunday, the seventh_. [Mr. Mason’s MS.] This morning the gale,
 
-      by 10, had subsided to an eight or nine—knot breeze, (for a
+by 10, had subsided to an eight or nine—knot breeze, (for a
 
-      vessel at sea,) and bears us, perhaps, thirty miles per hour, or
+vessel at sea,) and bears us, perhaps, thirty miles per hour, or
 
-      more. It has veered, however, very considerably to the north; and
+more. It has veered, however, very considerably to the north; and
 
-      now, at sundown, we are holding our course due west, principally
+now, at sundown, we are holding our course due west, principally
 
-      by the screw and rudder, which answer their purposes to
+by the screw and rudder, which answer their purposes to
 
-      admiration. I regard the project as thoroughly successful, and
+admiration. I regard the project as thoroughly successful, and
 
-      the easy navigation of the air in any direction (not exactly in
+the easy navigation of the air in any direction (not exactly in
 
-      the teeth of a gale) as no longer problematical. We could not
+the teeth of a gale) as no longer problematical. We could not
 
-      have made head against the strong [[Wind|wind]] of yesterday; but, by
+have made head against the strong [[Wind|wind]] of yesterday; but, by
 
-      ascending, we might have got out of its influence, if requisite.
+ascending, we might have got out of its influence, if requisite.
 
-      Against a pretty stiff breeze, I feel convinced, we can make our
+Against a pretty stiff breeze, I feel convinced, we can make our
 
-      way with the propeller. At [[Noon|noon]], to-day, ascended to an elevation
+way with the propeller. At [[Noon|noon]], to-day, ascended to an elevation
 
-      of nearly 25,000 feet, by discharging ballast. Did this to search
+of nearly 25,000 feet, by discharging ballast. Did this to search
 
-      for a more direct current, but found none so favorable as the one
+for a more direct current, but found none so favorable as the one
 
-      we are now in. We have an abundance of gas to take us across this
+we are now in. We have an abundance of gas to take us across this
 
-      small pond, even should the voyage last three weeks. I have not
+small pond, even should the voyage last three weeks. I have not
 
-      the slightest [[Fear|fear]] for the result. The difficulty has been
+the slightest [[Fear|fear]] for the result. The difficulty has been
 
-      strangely exaggerated and misapprehended. I can choose my
+strangely exaggerated and misapprehended. I can choose my
 
-      current, and should I find _all_ currents against me, I can make
+current, and should I find _all_ currents against me, I can make
 
-      very tolerable headway with the propeller. We have had no
+very tolerable headway with the propeller. We have had no
 
-      incidents worth recording. The [[Night|night]] promises fair.
+incidents worth recording. The [[Night|night]] promises fair.
 
 
 
-      P.S. [By Mr. Ainsworth.] I have little to record, except the fact
+P.S. [By Mr. Ainsworth.] I have little to record, except the fact
 
-      (to me quite a surprising one) that, at an elevation equal to
+(to me quite a surprising one) that, at an elevation equal to
 
-      that of Cotopaxi, I experienced neither very intense cold, nor
+that of Cotopaxi, I experienced neither very intense cold, nor
 
-      headache, nor difficulty of breathing; neither, I find, did Mr.
+headache, nor difficulty of breathing; neither, I find, did Mr.
 
-      Mason, nor Mr. Holland, nor Sir Everard. Mr. Osborne complained
+Mason, nor Mr. Holland, nor Sir Everard. Mr. Osborne complained
 
-      of constriction of the chest—but this soon wore off. We have
+of constriction of the chest—but this soon wore off. We have
 
-      flown at a great rate during the day, and we must be more than
+flown at a great rate during the day, and we must be more than
 
-      half way across the Atlantic. We have passed over some twenty or
+half way across the Atlantic. We have passed over some twenty or
 
-      thirty vessels of various kinds, and all seem to be delightfully
+thirty vessels of various kinds, and all seem to be delightfully
 
-      astonished. Crossing the ocean in a balloon is not so difficult a
+astonished. Crossing the ocean in a balloon is not so difficult a
 
-      feat after all. _Omne ignotum pro magnifico. Mem:_ at 25,000 feet
+feat after all. _Omne ignotum pro magnifico. Mem:_ at 25,000 feet
 
-      elevation the sky appears nearly black, and the [[Stars|stars]] are
+elevation the sky appears nearly black, and the [[Stars|stars]] are
 
-      distinctly visible; while the sea does not seem convex (as one
+distinctly visible; while the sea does not seem convex (as one
 
-      might suppose) but absolutely and most unequivocally
+might suppose) but absolutely and most unequivocally
 
-      _concave_.(*1)
+_concave_.(*1)
 
 
 
-      “_Monday, the 8th_. [Mr. Mason’s MS.] This morning we had again
+“_Monday, the 8th_. [Mr. Mason’s MS.] This morning we had again
 
-      some little trouble with the rod of the propeller, which must be
+some little trouble with the rod of the propeller, which must be
 
-      entirely remodelled, for [[Fear|fear]] of serious accident—I mean the
+entirely remodelled, for [[Fear|fear]] of serious accident—I mean the
 
-      steel rod—not the vanes. The latter could not be improved. The
+steel rod—not the vanes. The latter could not be improved. The
 
-      [[Wind|wind]] has been blowing steadily and strongly from the north-east
+[[Wind|wind]] has been blowing steadily and strongly from the north-east
 
-      all day and so far fortune seems bent upon favoring us. Just
+all day and so far fortune seems bent upon favoring us. Just
 
-      before day, we were all somewhat alarmed at some odd noises and
+before day, we were all somewhat alarmed at some odd noises and
 
-      concussions in the balloon, accompanied with the apparent rapid
+concussions in the balloon, accompanied with the apparent rapid
 
-      subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
+subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
 
-      by the expansion of the gas, through increase of heat in the
+by the expansion of the gas, through increase of heat in the
 
-      atmosphere, and the consequent disruption of the minute particles
+atmosphere, and the consequent disruption of the minute particles
 
-      of ice with which the network had become encrusted during the
+of ice with which the network had become encrusted during the
 
-      [[Night|night]]. Threw down several bottles to the vessels below. Saw one
+[[Night|night]]. Threw down several bottles to the vessels below. Saw one
 
-      of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
+of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
 
-      line packets. Endeavored to make out her name, but could not be
+line packets. Endeavored to make out her name, but could not be
 
-      sure of it. Mr. Osborne’s telescope made it out something like
+sure of it. Mr. Osborne’s telescope made it out something like
 
-      “Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
+“Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
 
-      west, at a rapid pace. The sea is peculiarly phosphorescent.
+west, at a rapid pace. The sea is peculiarly phosphorescent.
 
 
 
-      “P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
+“P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
 
-      [[Well|well]] as I can judge—but it is very difficult to determine this
+[[Well|well]] as I can judge—but it is very difficult to determine this
 
-      point, since we move _with_ the air so completely. I have not
+point, since we move _with_ the air so completely. I have not
 
-      slept since quitting Wheal-Vor, but can stand it no longer, and
+slept since quitting Wheal-Vor, but can stand it no longer, and
 
-      must take a nap. We cannot be far from the American coast.
+must take a nap. We cannot be far from the American coast.
 
 
 
-      “_Tuesday, the_ 9_th_. [Mr. Ainsworth’s MS.] _One, P.M. We are in
+“_Tuesday, the_ 9_th_. [Mr. Ainsworth’s MS.] _One, P.M. We are in
 
-      full view of the low coast of South Carolina_. The great problem
+full view of the low coast of South Carolina_. The great problem
 
-      is accomplished. We have crossed the Atlantic—fairly and _easily_
+is accomplished. We have crossed the Atlantic—fairly and _easily_
 
-      crossed it in a balloon! God be praised! Who shall say that
+crossed it in a balloon! God be praised! Who shall say that
 
-      anything is impossible hereafter?”
+anything is impossible hereafter?”
 
 
 
-      The Journal here ceases. Some particulars of the descent were
+The Journal here ceases. Some particulars of the descent were
 
-      communicated, however, by Mr. Ainsworth to Mr. Forsyth. It was
+communicated, however, by Mr. Ainsworth to Mr. Forsyth. It was
 
-      nearly dead calm when the voyagers first came in view of the
+nearly dead calm when the voyagers first came in view of the
 
-      coast, which was immediately recognized by both the seamen, and
+coast, which was immediately recognized by both the seamen, and
 
-      by Mr. Osborne. The latter gentleman having acquaintances at Fort
+by Mr. Osborne. The latter gentleman having acquaintances at Fort
 
-      Moultrie, it was immediately resolved to descend in its vicinity.
+Moultrie, it was immediately resolved to descend in its vicinity.
 
-      The balloon was brought over the beach (the tide being out and
+The balloon was brought over the beach (the tide being out and
 
-      the sand hard, smooth, and admirably adapted for a descent,) and
+the sand hard, smooth, and admirably adapted for a descent,) and
 
-      the grapnel let go, which took firm hold at once. The inhabitants
+the grapnel let go, which took firm hold at once. The inhabitants
 
-      of the island, and of the fort, thronged out, of course, to see
+of the island, and of the fort, thronged out, of course, to see
 
-      the balloon; but it was with the greatest difficulty that any one
+the balloon; but it was with the greatest difficulty that any one
 
-      could be made to credit the actual voyage—_the crossing of the
+could be made to credit the actual voyage—_the crossing of the
 
-      Atlantic_. The grapnel caught at 2, P.M., precisely; and thus the
+Atlantic_. The grapnel caught at 2, P.M., precisely; and thus the
 
-      whole voyage was completed in seventy-five hours; or rather less,
+whole voyage was completed in seventy-five hours; or rather less,
 
-      counting from shore to shore. No serious accident occurred. No
+counting from shore to shore. No serious accident occurred. No
 
-      real danger was at any [[Time|time]] apprehended. The balloon was
+real danger was at any [[Time|time]] apprehended. The balloon was
 
-      exhausted and secured without trouble; and when the MS. from
+exhausted and secured without trouble; and when the MS. from
 
-      which this narrative is compiled was despatched from Charleston,
+which this narrative is compiled was despatched from Charleston,
 
-      the party were still at Fort Moultrie. Their farther intentions
+the party were still at Fort Moultrie. Their farther intentions
 
-      were not ascertained; but we can safely promise our readers some
+were not ascertained; but we can safely promise our readers some
 
-      additional information either on Monday or in the course of the
+additional information either on Monday or in the course of the
 
-      next day, at farthest.
+next day, at farthest.
 
 
 
-      This is unquestionably the most stupendous, the most interesting,
+This is unquestionably the most stupendous, the most interesting,
 
-      and the most important undertaking, ever accomplished or even
+and the most important undertaking, ever accomplished or even
 
-      attempted by man. What magnificent events may ensue, it would be
+attempted by man. What magnificent events may ensue, it would be
 
-      useless now to think of determining.
+useless now to think of determining.
 
 
 
-      (*1) _Note_.—Mr. Ainsworth has not attempted to account for this
+(*1) _Note_.—Mr. Ainsworth has not attempted to account for this
 
-      phenomenon, which, however, is quite susceptible of explanation.
+phenomenon, which, however, is quite susceptible of explanation.
 
-      A line dropped from an elevation of 25,000 feet, perpendicularly
+A line dropped from an elevation of 25,000 feet, perpendicularly
 
-      to the surface of the earth (or sea), would form the
+to the surface of the earth (or sea), would form the
 
-      perpendicular of a right-angled triangle, of which the base would
+perpendicular of a right-angled triangle, of which the base would
 
-      extend from the right angle to the horizon, and the hypothenuse
+extend from the right angle to the horizon, and the hypothenuse
 
-      from the horizon to the balloon. But the 25,000 feet of altitude
+from the horizon to the balloon. But the 25,000 feet of altitude
 
-      is little or nothing, in comparison with the extent of the
+is little or nothing, in comparison with the extent of the
 
-      prospect. In other words, the base and hypothenuse of the
+prospect. In other words, the base and hypothenuse of the
 
-      supposed triangle would be so long when compared with the
+supposed triangle would be so long when compared with the
 
-      perpendicular, that the two former may be regarded as nearly
+perpendicular, that the two former may be regarded as nearly
 
-      parallel. In this manner the horizon of the æronaut would appear
+parallel. In this manner the horizon of the æronaut would appear
 
-      to be _on a level_ with the car. But, as the point immediately
+to be _on a level_ with the car. But, as the point immediately
 
-      beneath him seems, and is, at a great distance below him, it
+beneath him seems, and is, at a great distance below him, it
 
-      seems, of course, also, at a great distance below the horizon.
+seems, of course, also, at a great distance below the horizon.
 
-      Hence the impression of _concavity_; and this impression must
+Hence the impression of _concavity_; and this impression must
 
-      remain, until the elevation shall bear so great a proportion to
+remain, until the elevation shall bear so great a proportion to
 
-      the extent of prospect, that the apparent parallelism of the base
+the extent of prospect, that the apparent parallelism of the base
 
-      and hypothenuse disappears—when the earth’s real convexity must
+and hypothenuse disappears—when the earth’s real convexity must
 
-      become apparent.
+become apparent.
 
 
 
@@ -1068,177 +1068,177 @@ others, in the Steering Balloon, “Victoria,” after a passage of
 
 Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 
-    The subjoined _jeu d’esprit_ with the preceding heading in
+The subjoined _jeu d’esprit_ with the preceding heading in
 
-    magnificent capitals, [[Well|well]] interspersed with notes of admiration,
+magnificent capitals, [[Well|well]] interspersed with notes of admiration,
 
-    was originally published, as matter of fact, in the “[[New York]] Sun,”
+was originally published, as matter of fact, in the “[[New York]] Sun,”
 
-    a daily newspaper, and therein fully subserved the purpose of
+a daily newspaper, and therein fully subserved the purpose of
 
-    creating indigestible aliment for the _quidnuncs_ during the few
+creating indigestible aliment for the _quidnuncs_ during the few
 
-    hours intervening between a couple of the Charleston mails.  The
+hours intervening between a couple of the Charleston mails.  The
 
-    rush for the “sole paper which had the news,” was something beyond
+rush for the “sole paper which had the news,” was something beyond
 
-    even the prodigious;  and, in fact, if (as some assert) the
+even the prodigious;  and, in fact, if (as some assert) the
 
-    “Victoria” _did_ not absolutely accomplish the voyage recorded, it
+“Victoria” _did_ not absolutely accomplish the voyage recorded, it
 
-    will be difficult to assign a reason why she _should_ not have
+will be difficult to assign a reason why she _should_ not have
 
-    accomplished it.]
+accomplished it.]
 
 
 
-      The great problem is at length solved! The air, as [[Well|well]] as the
+The great problem is at length solved! The air, as [[Well|well]] as the
 
-      earth and the ocean, has been subdued by science, and will become
+earth and the ocean, has been subdued by science, and will become
 
-      a common and convenient highway for mankind. _The Atlantic has
+a common and convenient highway for mankind. _The Atlantic has
 
-      been actually crossed in a Balloon!_ and this too without
+been actually crossed in a Balloon!_ and this too without
 
-      difficulty—without any great apparent danger—with thorough
+difficulty—without any great apparent danger—with thorough
 
-      control of the [[Machine|machine]]—and in the inconceivably brief period of
+control of the [[Machine|machine]]—and in the inconceivably brief period of
 
-      seventy-five hours from shore to shore! By the energy of an agent
+seventy-five hours from shore to shore! By the energy of an agent
 
-      at Charleston, S.C., we are enabled to be the first to furnish
+at Charleston, S.C., we are enabled to be the first to furnish
 
-      the public with a detailed account of this most extraordinary
+the public with a detailed account of this most extraordinary
 
-      voyage, which was performed between Saturday, the 6th instant, at
+voyage, which was performed between Saturday, the 6th instant, at
 
-      11, A.M., and 2, P.M., on Tuesday, the 9th instant, by Sir
+11, A.M., and 2, P.M., on Tuesday, the 9th instant, by Sir
 
-      Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
+Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
 
-      Monck Mason and Mr. Robert Holland, the [[Well|well]]-known æronauts; Mr.
+Monck Mason and Mr. Robert Holland, the [[Well|well]]-known æronauts; Mr.
 
-      Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
+Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
 
-      Henson, the projector of the late unsuccessful flying
+Henson, the projector of the late unsuccessful flying
 
-      [[Machine|machine]]—with two seamen from Woolwich—in all, eight persons. The
+[[Machine|machine]]—with two seamen from Woolwich—in all, eight persons. The
 
-      particulars furnished below may be relied on as authentic and
+particulars furnished below may be relied on as authentic and
 
-      accurate in every respect, as, with a slight exception, they are
+accurate in every respect, as, with a slight exception, they are
 
-      copied _verbatim_ from the joint diaries of Mr. Monck Mason and
+copied _verbatim_ from the joint diaries of Mr. Monck Mason and
 
-      Mr. Harrison Ainsworth, to whose politeness our agent is also
+Mr. Harrison Ainsworth, to whose politeness our agent is also
 
-      indebted for much verbal information respecting the balloon
+indebted for much verbal information respecting the balloon
 
-      itself, its construction, and other matters of interest. The only
+itself, its construction, and other matters of interest. The only
 
-      alteration in the MS. received, has been made for the purpose of
+alteration in the MS. received, has been made for the purpose of
 
-      throwing the hurried account of our agent, Mr. Forsyth, into a
+throwing the hurried account of our agent, Mr. Forsyth, into a
 
-      connected and intelligible form.
+connected and intelligible form.
 
 
 
-      “THE BALLOON.
+“THE BALLOON.
 
 
 
-      “Two very decided failures, of late—those of Mr. Henson and Sir
+“Two very decided failures, of late—those of Mr. Henson and Sir
 
-      George Cayley—had much weakened the public interest in the
+George Cayley—had much weakened the public interest in the
 
-      subject of aerial navigation. Mr. Henson’s scheme (which at first
+subject of aerial navigation. Mr. Henson’s scheme (which at first
 
-      was considered very feasible even by men of science,) was founded
+was considered very feasible even by men of science,) was founded
 
-      upon the principle of an inclined plane, started from an eminence
+upon the principle of an inclined plane, started from an eminence
 
-      by an extrinsic force, applied and continued by the revolution of
+by an extrinsic force, applied and continued by the revolution of
 
-      impinging vanes, in form and number resembling the vanes of a
+impinging vanes, in form and number resembling the vanes of a
 
-      windmill. But, in all the experiments made with models at the
+windmill. But, in all the experiments made with models at the
 
-      Adelaide Gallery, it was found that the operation of these fans
+Adelaide Gallery, it was found that the operation of these fans
 
-      not only did not propel the [[Machine|machine]], but actually impeded its
+not only did not propel the [[Machine|machine]], but actually impeded its
 
-      flight. The only propelling force it ever exhibited, was the mere
+flight. The only propelling force it ever exhibited, was the mere
 
-      _impetus_ acquired from the descent of the inclined plane; and
+_impetus_ acquired from the descent of the inclined plane; and
 
-      this _impetus_ carried the [[Machine|machine]] farther when the vanes were at
+this _impetus_ carried the [[Machine|machine]] farther when the vanes were at
 
-      rest, than when they were in motion—a fact which sufficiently
+rest, than when they were in motion—a fact which sufficiently
 
-      demonstrates their inutility; and in the absence of the
+demonstrates their inutility; and in the absence of the
 
-      propelling, which was also the _sustaining_ power, the whole
+propelling, which was also the _sustaining_ power, the whole
 
-      fabric would necessarily descend. This consideration led Sir
+fabric would necessarily descend. This consideration led Sir
 
-      George Cayley to think only of adapting a propeller to some
+George Cayley to think only of adapting a propeller to some
 
-      [[Machine|machine]] having of itself an independent power of support—in a
+[[Machine|machine]] having of itself an independent power of support—in a
 
-      word, to a balloon; the idea, however, being [[Novel|novel]], or original,
+word, to a balloon; the idea, however, being [[Novel|novel]], or original,
 
-      with Sir George, only so far as regards the mode of its
+with Sir George, only so far as regards the mode of its
 
-      application to practice. He exhibited a model of his invention at
+application to practice. He exhibited a model of his invention at
 
-      the Polytechnic Institution. The propelling principle, or power,
+the Polytechnic Institution. The propelling principle, or power,
 
-      was here, also, applied to interrupted surfaces, or vanes, put in
+was here, also, applied to interrupted surfaces, or vanes, put in
 
-      revolution. These vanes were four in number, but were found
+revolution. These vanes were four in number, but were found
 
-      entirely ineffectual in moving the balloon, or in aiding its
+entirely ineffectual in moving the balloon, or in aiding its
 
-      ascending power. The whole project was thus a complete failure.
+ascending power. The whole project was thus a complete failure.
 
 
 
-      “It was at this juncture that Mr. Monck Mason (whose voyage from
+“It was at this juncture that Mr. Monck Mason (whose voyage from
 
-      Dover to Weilburg in the balloon, “Nassau,” occasioned so much
+Dover to Weilburg in the balloon, “Nassau,” occasioned so much
 
-      excitement in 1837,) conceived the idea of employing the
+excitement in 1837,) conceived the idea of employing the
 
-      principle of the Archimedean screw for the purpose of propulsion
+principle of the Archimedean screw for the purpose of propulsion
 
-      through the air—rightly attributing the failure of Mr. Henson’s
+through the air—rightly attributing the failure of Mr. Henson’s
 
-      scheme, and of Sir George Cayley’s, to the interruption of
+scheme, and of Sir George Cayley’s, to the interruption of
 
-      surface in the independent vanes. He made the first public
+surface in the independent vanes. He made the first public
 
-      experiment at Willis’s Rooms, but afterward removed his model to
+experiment at Willis’s Rooms, but afterward removed his model to
 
-      the Adelaide Gallery.
+the Adelaide Gallery.
 
 
 
-      “Like Sir George Cayley’s balloon, his own was an ellipsoid. Its
+“Like Sir George Cayley’s balloon, his own was an ellipsoid. Its
 
-      length was thirteen feet six inches—height, six feet eight
+length was thirteen feet six inches—height, six feet eight
 
-      inches. It contained about three hundred and twenty cubic feet of
+inches. It contained about three hundred and twenty cubic feet of
 
-      gas, which, if pure hydrogen, would support twenty-one pounds
+gas, which, if pure hydrogen, would support twenty-one pounds
 
-      upon its first inflation, before the gas has [[Time|time]] to deteriorate
+upon its first inflation, before the gas has [[Time|time]] to deteriorate
 
-      or escape. The weight of the whole [[Machine|machine]] and apparatus was
+or escape. The weight of the whole [[Machine|machine]] and apparatus was
 
-      seventeen pounds—leaving about four pounds to spare. Beneath the
+seventeen pounds—leaving about four pounds to spare. Beneath the
 
-      centre of the balloon, was a frame of light wood, about nine feet
+centre of the balloon, was a frame of light wood, about nine feet
 
 
 
@@ -1246,191 +1246,191 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 <span class="atom-split" data-atom="part--part_02" data-title="The Balloon-Hoax (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      long, and rigged on to the balloon itself with a network in the
+long, and rigged on to the balloon itself with a network in the
 
-      customary manner. From this framework was suspended a wicker
+customary manner. From this framework was suspended a wicker
 
-      basket or car.
+basket or car.
 
 
 
-      “The screw consists of an axis of hollow brass tube, eighteen
+“The screw consists of an axis of hollow brass tube, eighteen
 
-      inches in length, through which, upon a semi-spiral inclined at
+inches in length, through which, upon a semi-spiral inclined at
 
-      fifteen degrees, pass a series of steel wire radii, two feet
+fifteen degrees, pass a series of steel wire radii, two feet
 
-      long, and thus projecting a foot on either side. These radii are
+long, and thus projecting a foot on either side. These radii are
 
-      connected at the outer extremities by two bands of flattened
+connected at the outer extremities by two bands of flattened
 
-      wire—the whole in this manner forming the framework of the screw,
+wire—the whole in this manner forming the framework of the screw,
 
-      which is completed by a covering of oiled silk cut into gores,
+which is completed by a covering of oiled silk cut into gores,
 
-      and tightened so as to present a tolerably uniform surface. At
+and tightened so as to present a tolerably uniform surface. At
 
-      each end of its axis this screw is supported by pillars of hollow
+each end of its axis this screw is supported by pillars of hollow
 
-      brass tube descending from the hoop. In the lower ends of these
+brass tube descending from the hoop. In the lower ends of these
 
-      tubes are holes in which the pivots of the axis revolve. From the
+tubes are holes in which the pivots of the axis revolve. From the
 
-      end of the axis which is next the car, proceeds a shaft of steel,
+end of the axis which is next the car, proceeds a shaft of steel,
 
-      connecting the screw with the pinion of a piece of [[spring]]
+connecting the screw with the pinion of a piece of [[spring]]
 
-      machinery fixed in the car. By the operation of this [[spring]], the
+machinery fixed in the car. By the operation of this [[spring]], the
 
-      screw is made to revolve with great rapidity, communicating a
+screw is made to revolve with great rapidity, communicating a
 
-      progressive motion to the whole. By means of the rudder, the
+progressive motion to the whole. By means of the rudder, the
 
-      [[Machine|machine]] was readily turned in any direction. The [[spring]] was of
+[[Machine|machine]] was readily turned in any direction. The [[spring]] was of
 
-      great power, compared with its dimensions, being capable of
+great power, compared with its dimensions, being capable of
 
-      raising forty-five pounds upon a barrel of four inches diameter,
+raising forty-five pounds upon a barrel of four inches diameter,
 
-      after the first turn, and gradually increasing as it was wound
+after the first turn, and gradually increasing as it was wound
 
-      up. It weighed, altogether, eight pounds six ounces. The rudder
+up. It weighed, altogether, eight pounds six ounces. The rudder
 
-      was a light frame of cane covered with silk, shaped somewhat like
+was a light frame of cane covered with silk, shaped somewhat like
 
-      a battle-door, and was about three feet long, and at the widest,
+a battle-door, and was about three feet long, and at the widest,
 
-      one foot. Its weight was about two ounces. It could be turned
+one foot. Its weight was about two ounces. It could be turned
 
-      _flat_, and directed upwards or downwards, as [[Well|well]] as to the
+_flat_, and directed upwards or downwards, as [[Well|well]] as to the
 
-      right or left; and thus enabled the æronaut to transfer the
+right or left; and thus enabled the æronaut to transfer the
 
-      resistance of the air which in an inclined position it must
+resistance of the air which in an inclined position it must
 
-      generate in its passage, to any side upon which he might [[Desire|desire]]
+generate in its passage, to any side upon which he might [[Desire|desire]]
 
-      to act; thus determining the balloon in the opposite direction.
+to act; thus determining the balloon in the opposite direction.
 
 
 
-      “This model (which, through want of [[Time|time]], we have necessarily
+“This model (which, through want of [[Time|time]], we have necessarily
 
-      described in an imperfect manner,) was put in action at the
+described in an imperfect manner,) was put in action at the
 
-      Adelaide Gallery, where it accomplished a velocity of five miles
+Adelaide Gallery, where it accomplished a velocity of five miles
 
-      per hour; although, strange to say, it excited very little
+per hour; although, strange to say, it excited very little
 
-      interest in comparison with the previous complex [[Machine|machine]] of Mr.
+interest in comparison with the previous complex [[Machine|machine]] of Mr.
 
-      Henson—so resolute is the world to despise anything which carries
+Henson—so resolute is the world to despise anything which carries
 
-      with it an air of simplicity. To accomplish the great desideratum
+with it an air of simplicity. To accomplish the great desideratum
 
-      of ærial navigation, it was very generally supposed that some
+of ærial navigation, it was very generally supposed that some
 
-      exceedingly complicated application must be made of some
+exceedingly complicated application must be made of some
 
-      unusually profound principle in dynamics.
+unusually profound principle in dynamics.
 
 
 
-      “So [[Well|well]] satisfied, however, was Mr. Mason of the ultimate
+“So [[Well|well]] satisfied, however, was Mr. Mason of the ultimate
 
-      [[success]] of his invention, that he determined to construct
+[[success]] of his invention, that he determined to construct
 
-      immediately, if possible, a balloon of sufficient capacity to
+immediately, if possible, a balloon of sufficient capacity to
 
-      test the question by a voyage of some extent—the original design
+test the question by a voyage of some extent—the original design
 
-      being to [[Cross|cross]] the British Channel, as before, in the Nassau
+being to [[Cross|cross]] the British Channel, as before, in the Nassau
 
-      balloon. To carry out his views, he solicited and obtained the
+balloon. To carry out his views, he solicited and obtained the
 
-      patronage of Sir Everard Bringhurst and Mr. Osborne, two
+patronage of Sir Everard Bringhurst and Mr. Osborne, two
 
-      gentlemen [[Well|well]] known for scientific acquirement, and especially
+gentlemen [[Well|well]] known for scientific acquirement, and especially
 
-      for the interest they have exhibited in the progress of
+for the interest they have exhibited in the progress of
 
-      ærostation. The project, at the [[Desire|desire]] of Mr. Osborne, was kept a
+ærostation. The project, at the [[Desire|desire]] of Mr. Osborne, was kept a
 
-      profound secret from the public—the only persons entrusted with
+profound secret from the public—the only persons entrusted with
 
-      the design being those actually engaged in the construction of
+the design being those actually engaged in the construction of
 
-      the [[Machine|machine]], which was built (under the superintendence of Mr.
+the [[Machine|machine]], which was built (under the superintendence of Mr.
 
-      Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
+Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
 
-      the seat of the latter gentleman near Penstruthal, in Wales. Mr.
+the seat of the latter gentleman near Penstruthal, in Wales. Mr.
 
-      Henson, accompanied by his friend Mr. Ainsworth, was admitted to
+Henson, accompanied by his friend Mr. Ainsworth, was admitted to
 
-      a private view of the balloon, on Saturday last—when the two
+a private view of the balloon, on Saturday last—when the two
 
-      gentlemen made final arrangements to be included in the
+gentlemen made final arrangements to be included in the
 
-      adventure. We are not informed for what reason the two seamen
+adventure. We are not informed for what reason the two seamen
 
-      were also included in the party—but, in the course of a day or
+were also included in the party—but, in the course of a day or
 
-      two, we shall put our readers in possession of the minutest
+two, we shall put our readers in possession of the minutest
 
-      particulars respecting this extraordinary voyage.
+particulars respecting this extraordinary voyage.
 
 
 
-      “The balloon is composed of silk, varnished with the liquid gum
+“The balloon is composed of silk, varnished with the liquid gum
 
-      caoutchouc. It is of vast dimensions, containing more than 40,000
+caoutchouc. It is of vast dimensions, containing more than 40,000
 
-      cubic feet of gas; but as coal gas was employed in place of the
+cubic feet of gas; but as coal gas was employed in place of the
 
-      more expensive and inconvenient hydrogen, the supporting power of
+more expensive and inconvenient hydrogen, the supporting power of
 
-      the [[Machine|machine]], when fully inflated, and immediately after
+the [[Machine|machine]], when fully inflated, and immediately after
 
-      inflation, is not more than about 2500 pounds. The coal gas is
+inflation, is not more than about 2500 pounds. The coal gas is
 
-      not only much less costly, but is easily procured and managed.
+not only much less costly, but is easily procured and managed.
 
 
 
-      “For its introduction into common use for purposes of
+“For its introduction into common use for purposes of
 
-      aerostation, we are indebted to Mr. Charles Green. Up to his
+aerostation, we are indebted to Mr. Charles Green. Up to his
 
-      discovery, the process of inflation was not only exceedingly
+discovery, the process of inflation was not only exceedingly
 
-      expensive, but uncertain. Two, and even three days, have
+expensive, but uncertain. Two, and even three days, have
 
-      frequently been wasted in futile attempts to procure a
+frequently been wasted in futile attempts to procure a
 
-      sufficiency of hydrogen to fill a balloon, from which it had
+sufficiency of hydrogen to fill a balloon, from which it had
 
-      great tendency to escape, owing to its extreme subtlety, and its
+great tendency to escape, owing to its extreme subtlety, and its
 
-      affinity for the surrounding atmosphere. In a balloon
+affinity for the surrounding atmosphere. In a balloon
 
-      sufficiently perfect to retain its contents of coal-gas
+sufficiently perfect to retain its contents of coal-gas
 
-      unaltered, in quantity or amount, for six months, an equal
+unaltered, in quantity or amount, for six months, an equal
 
-      quantity of hydrogen could not be maintained in equal purity for
+quantity of hydrogen could not be maintained in equal purity for
 
-      six weeks.
+six weeks.
 
 
 
-      “The supporting power being estimated at 2500 pounds, and the
+“The supporting power being estimated at 2500 pounds, and the
 
-      united weights of the party amounting only to about 1200, there
+united weights of the party amounting only to about 1200, there
 
-      was left a surplus of 1300, of which again 1200 was exhausted by
+was left a surplus of 1300, of which again 1200 was exhausted by
 
-      ballast, arranged in bags of different sizes, with their
+ballast, arranged in bags of different sizes, with their
 
 
 
@@ -1438,187 +1438,187 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 <span class="atom-split" data-atom="part--part_03" data-title="The Balloon-Hoax (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      respective weights marked upon them—by cordage, barometers,
+respective weights marked upon them—by cordage, barometers,
 
-      telescopes, barrels containing provision for a fortnight,
+telescopes, barrels containing provision for a fortnight,
 
-      [[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
+[[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
 
-      matters, including a coffee-warmer, contrived for warming coffee
+matters, including a coffee-warmer, contrived for warming coffee
 
-      by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
+by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
 
-      if it should be judged prudent to do so. All these articles, with
+if it should be judged prudent to do so. All these articles, with
 
-      the exception of the ballast, and a few trifles, were suspended
+the exception of the ballast, and a few trifles, were suspended
 
-      from the hoop overhead. The car is much smaller and lighter, in
+from the hoop overhead. The car is much smaller and lighter, in
 
-      proportion, than the one appended to the model. It is formed of a
+proportion, than the one appended to the model. It is formed of a
 
-      light wicker, and is wonderfully strong, for so frail looking a
+light wicker, and is wonderfully strong, for so frail looking a
 
-      [[Machine|machine]]. Its rim is about four feet deep. The rudder is also very
+[[Machine|machine]]. Its rim is about four feet deep. The rudder is also very
 
-      much larger, in proportion, than that of the model; and the screw
+much larger, in proportion, than that of the model; and the screw
 
-      is considerably smaller. The balloon is furnished besides with a
+is considerably smaller. The balloon is furnished besides with a
 
-      grapnel, and a guide-rope; which latter is of the most
+grapnel, and a guide-rope; which latter is of the most
 
-      indispensable importance. A few words, in explanation, will here
+indispensable importance. A few words, in explanation, will here
 
-      be necessary for such of our readers as are not conversant with
+be necessary for such of our readers as are not conversant with
 
-      the details of aerostation.
+the details of aerostation.
 
 
 
-      “As soon as the balloon quits the earth, it is subjected to the
+“As soon as the balloon quits the earth, it is subjected to the
 
-      influence of many circumstances tending to create a difference in
+influence of many circumstances tending to create a difference in
 
-      its weight; augmenting or diminishing its ascending power. For
+its weight; augmenting or diminishing its ascending power. For
 
-      example, there may be a deposition of dew upon the silk, to the
+example, there may be a deposition of dew upon the silk, to the
 
-      extent, even, of several hundred pounds; ballast has then to be
+extent, even, of several hundred pounds; ballast has then to be
 
-      thrown out, or the [[Machine|machine]] may descend. This ballast being
+thrown out, or the [[Machine|machine]] may descend. This ballast being
 
-      discarded, and a clear sunshine evaporating the dew, and at the
+discarded, and a clear sunshine evaporating the dew, and at the
 
-      same [[Time|time]] expanding the gas in the silk, the whole will again
+same [[Time|time]] expanding the gas in the silk, the whole will again
 
-      rapidly ascend. To check this ascent, the only recourse is, (or
+rapidly ascend. To check this ascent, the only recourse is, (or
 
-      rather _was_, until Mr. Green’s invention of the guide-rope,) the
+rather _was_, until Mr. Green’s invention of the guide-rope,) the
 
-      permission of the escape of gas from the valve; but, in the loss
+permission of the escape of gas from the valve; but, in the loss
 
-      of gas, is a proportionate general loss of ascending power; so
+of gas, is a proportionate general loss of ascending power; so
 
-      that, in a comparatively brief period, the best-constructed
+that, in a comparatively brief period, the best-constructed
 
-      balloon must necessarily exhaust all its resources, and come to
+balloon must necessarily exhaust all its resources, and come to
 
-      the earth. This was the great obstacle to voyages of length.
+the earth. This was the great obstacle to voyages of length.
 
 
 
-      “The guide-rope remedies the difficulty in the simplest manner
+“The guide-rope remedies the difficulty in the simplest manner
 
-      conceivable. It is merely a very long rope which is suffered to
+conceivable. It is merely a very long rope which is suffered to
 
-      trail from the car, and the effect of which is to prevent the
+trail from the car, and the effect of which is to prevent the
 
-      balloon from changing its level in any material degree. If, for
+balloon from changing its level in any material degree. If, for
 
-      example, there should be a deposition of moisture upon the silk,
+example, there should be a deposition of moisture upon the silk,
 
-      and the [[Machine|machine]] begins to descend in consequence, there will be
+and the [[Machine|machine]] begins to descend in consequence, there will be
 
-      no necessity for discharging ballast to remedy the increase of
+no necessity for discharging ballast to remedy the increase of
 
-      weight, for it is remedied, or counteracted, in an exactly just
+weight, for it is remedied, or counteracted, in an exactly just
 
-      proportion, by the deposit on the ground of just so much of the
+proportion, by the deposit on the ground of just so much of the
 
-      end of the rope as is necessary. If, on the other hand, any
+end of the rope as is necessary. If, on the other hand, any
 
-      circumstances should cause undue levity, and consequent ascent,
+circumstances should cause undue levity, and consequent ascent,
 
-      this levity is immediately counteracted by the additional weight
+this levity is immediately counteracted by the additional weight
 
-      of rope upraised from the earth. Thus, the balloon can neither
+of rope upraised from the earth. Thus, the balloon can neither
 
-      ascend or descend, except within very narrow limits, and its
+ascend or descend, except within very narrow limits, and its
 
-      resources, either in gas or ballast, remain comparatively
+resources, either in gas or ballast, remain comparatively
 
-      unimpaired. When passing over an expanse of [[Water|water]], it becomes
+unimpaired. When passing over an expanse of [[Water|water]], it becomes
 
-      necessary to employ small kegs of copper or wood, filled with
+necessary to employ small kegs of copper or wood, filled with
 
-      liquid ballast of a lighter [[Nature|nature]] than [[Water|water]]. These float, and
+liquid ballast of a lighter [[Nature|nature]] than [[Water|water]]. These float, and
 
-      serve all the purposes of a mere rope on land. Another most
+serve all the purposes of a mere rope on land. Another most
 
-      important office of the guide-rope, is to point out the
+important office of the guide-rope, is to point out the
 
-      _direction_ of the balloon. The rope _drags_, either on land or
+_direction_ of the balloon. The rope _drags_, either on land or
 
-      sea, while the balloon is free; the latter, consequently, is
+sea, while the balloon is free; the latter, consequently, is
 
-      always in advance, when any progress whatever is made: a
+always in advance, when any progress whatever is made: a
 
-      comparison, therefore, by means of the compass, of the relative
+comparison, therefore, by means of the compass, of the relative
 
-      positions of the two objects, will always indicate the _course_.
+positions of the two objects, will always indicate the _course_.
 
-      In the same way, the angle formed by the rope with the vertical
+In the same way, the angle formed by the rope with the vertical
 
-      axis of the [[Machine|machine]], indicates the _velocity_. When there is _no_
+axis of the [[Machine|machine]], indicates the _velocity_. When there is _no_
 
-      angle—in other words, when the rope hangs perpendicularly, the
+angle—in other words, when the rope hangs perpendicularly, the
 
-      whole apparatus is stationary; but the larger the angle, that is
+whole apparatus is stationary; but the larger the angle, that is
 
-      to say, the farther the balloon precedes the end of the rope, the
+to say, the farther the balloon precedes the end of the rope, the
 
-      greater the velocity; and the converse.
+greater the velocity; and the converse.
 
 
 
-      “As the original design was to [[Cross|cross]] the British Channel, and
+“As the original design was to [[Cross|cross]] the British Channel, and
 
-      alight as near [[Paris]] as possible, the voyagers had taken the
+alight as near [[Paris]] as possible, the voyagers had taken the
 
-      precaution to prepare themselves with passports directed to all
+precaution to prepare themselves with passports directed to all
 
-      parts of the Continent, specifying the [[Nature|nature]] of the expedition,
+parts of the Continent, specifying the [[Nature|nature]] of the expedition,
 
-      as in the case of the Nassau voyage, and entitling the
+as in the case of the Nassau voyage, and entitling the
 
-      adventurers to exemption from the usual formalities of office:
+adventurers to exemption from the usual formalities of office:
 
-      unexpected events, however, rendered these passports superfluous.
+unexpected events, however, rendered these passports superfluous.
 
 
 
-      “The inflation was commenced very quietly at daybreak, on
+“The inflation was commenced very quietly at daybreak, on
 
-      Saturday morning, the 6th instant, in the [[Court]]-Yard of Weal-Vor
+Saturday morning, the 6th instant, in the [[Court]]-Yard of Weal-Vor
 
-      [[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
+[[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
 
-      North Wales; and at 7 minutes past 11, every thing being ready
+North Wales; and at 7 minutes past 11, every thing being ready
 
-      for departure, the balloon was set free, rising gently but
+for departure, the balloon was set free, rising gently but
 
-      steadily, in a direction nearly South; no use being made, for the
+steadily, in a direction nearly South; no use being made, for the
 
-      first half hour, of either the screw or the rudder. We proceed
+first half hour, of either the screw or the rudder. We proceed
 
-      now with the journal, as transcribed by Mr. Forsyth from the
+now with the journal, as transcribed by Mr. Forsyth from the
 
-      joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The [[Body|body]] of the
+joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The [[Body|body]] of the
 
-      journal, as given, is in the hand-writing of Mr. Mason, and a P.
+journal, as given, is in the hand-writing of Mr. Mason, and a P.
 
-      S. is appended, each day, by Mr. Ainsworth, who has in
+S. is appended, each day, by Mr. Ainsworth, who has in
 
-      preparation, and will shortly give the public a more minute, and
+preparation, and will shortly give the public a more minute, and
 
-      no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
+no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
 
 
 
-      “THE JOURNAL.
+“THE JOURNAL.
 
 
 
-      “_Saturday, April the 6th_.—Every preparation likely to embarrass
+“_Saturday, April the 6th_.—Every preparation likely to embarrass
 
 
 
@@ -1626,173 +1626,173 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 <span class="atom-split" data-atom="part--part_04" data-title="The Balloon-Hoax (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      us, having been made over [[Night|night]], we commenced the inflation this
+us, having been made over [[Night|night]], we commenced the inflation this
 
-      morning at daybreak; but owing to a thick fog, which encumbered
+morning at daybreak; but owing to a thick fog, which encumbered
 
-      the folds of the silk and rendered it unmanageable, we did not
+the folds of the silk and rendered it unmanageable, we did not
 
-      get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
+get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
 
-      high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
+high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
 
-      at North, which bore us in the direction of the British Channel.
+at North, which bore us in the direction of the British Channel.
 
-      Found the ascending force greater than we had expected; and as we
+Found the ascending force greater than we had expected; and as we
 
-      arose higher and so got clear of the cliffs, and more in the
+arose higher and so got clear of the cliffs, and more in the
 
-      sun’s rays, our ascent became very rapid. I did not wish,
+sun’s rays, our ascent became very rapid. I did not wish,
 
-      however, to lose gas at so early a period of the adventure, and
+however, to lose gas at so early a period of the adventure, and
 
-      so concluded to ascend for the present. We soon ran out our
+so concluded to ascend for the present. We soon ran out our
 
-      guide-rope; but even when we had raised it clear of the earth, we
+guide-rope; but even when we had raised it clear of the earth, we
 
-      still went up very rapidly. The balloon was unusually steady, and
+still went up very rapidly. The balloon was unusually steady, and
 
-      looked beautifully. In about ten minutes after starting, the
+looked beautifully. In about ten minutes after starting, the
 
-      barometer indicated an altitude of 15,000 feet. The weather was
+barometer indicated an altitude of 15,000 feet. The weather was
 
-      remarkably fine, and the view of the subjacent country—a most
+remarkably fine, and the view of the subjacent country—a most
 
-      romantic one when seen from any point,—was now especially
+romantic one when seen from any point,—was now especially
 
-      [[Sublime|sublime]]. The numerous deep gorges presented the appearance of
+[[Sublime|sublime]]. The numerous deep gorges presented the appearance of
 
-      lakes, on account of the dense vapors with which they were
+lakes, on account of the dense vapors with which they were
 
-      filled, and the pinnacles and crags to the South East, piled in
+filled, and the pinnacles and crags to the South East, piled in
 
-      inextricable confusion, resembling nothing so much as the giant
+inextricable confusion, resembling nothing so much as the giant
 
-      cities of eastern [[Fable|fable]]. We were rapidly approaching the
+cities of eastern [[Fable|fable]]. We were rapidly approaching the
 
-      [[Mountains|mountains]] in the South; but our elevation was more than
+[[Mountains|mountains]] in the South; but our elevation was more than
 
-      sufficient to enable us to pass them in safety. In a few minutes
+sufficient to enable us to pass them in safety. In a few minutes
 
-      we soared over them in fine style; and Mr. Ainsworth, with the
+we soared over them in fine style; and Mr. Ainsworth, with the
 
-      seamen, was surprised at their apparent want of altitude when
+seamen, was surprised at their apparent want of altitude when
 
-      viewed from the car, the tendency of great elevation in a balloon
+viewed from the car, the tendency of great elevation in a balloon
 
-      being to reduce inequalities of the surface below, to nearly a
+being to reduce inequalities of the surface below, to nearly a
 
-      dead level. At half-past eleven still proceeding nearly South, we
+dead level. At half-past eleven still proceeding nearly South, we
 
-      obtained our first view of the Bristol Channel; and, in fifteen
+obtained our first view of the Bristol Channel; and, in fifteen
 
-      minutes afterward, the line of breakers on the coast appeared
+minutes afterward, the line of breakers on the coast appeared
 
-      immediately beneath us, and we were fairly out at sea. We now
+immediately beneath us, and we were fairly out at sea. We now
 
-      resolved to let off enough gas to bring our guide-rope, with the
+resolved to let off enough gas to bring our guide-rope, with the
 
-      buoys affixed, into the [[Water|water]]. This was immediately done, and we
+buoys affixed, into the [[Water|water]]. This was immediately done, and we
 
-      commenced a gradual descent. In about twenty minutes our first
+commenced a gradual descent. In about twenty minutes our first
 
-      buoy dipped, and at the touch of the second soon afterwards, we
+buoy dipped, and at the touch of the second soon afterwards, we
 
-      remained stationary as to elevation. We were all now anxious to
+remained stationary as to elevation. We were all now anxious to
 
-      test the efficiency of the rudder and screw, and we put them both
+test the efficiency of the rudder and screw, and we put them both
 
-      into requisition forthwith, for the purpose of altering our
+into requisition forthwith, for the purpose of altering our
 
-      direction more to the eastward, and in a line for [[Paris]]. By means
+direction more to the eastward, and in a line for [[Paris]]. By means
 
-      of the rudder we instantly effected the necessary change of
+of the rudder we instantly effected the necessary change of
 
-      direction, and our course was brought nearly at right angles to
+direction, and our course was brought nearly at right angles to
 
-      that of the [[Wind|wind]]; when we set in motion the [[spring]] of the screw,
+that of the [[Wind|wind]]; when we set in motion the [[spring]] of the screw,
 
-      and were rejoiced to find it propel us readily as desired. Upon
+and were rejoiced to find it propel us readily as desired. Upon
 
-      this we gave nine hearty cheers, and dropped in the sea a bottle,
+this we gave nine hearty cheers, and dropped in the sea a bottle,
 
-      enclosing a slip of parchment with a brief account of the
+enclosing a slip of parchment with a brief account of the
 
-      principle of the invention. Hardly, however, had we done with our
+principle of the invention. Hardly, however, had we done with our
 
-      rejoicings, when an unforeseen accident occurred which
+rejoicings, when an unforeseen accident occurred which
 
-      discouraged us in no little degree. The steel rod connecting the
+discouraged us in no little degree. The steel rod connecting the
 
-      [[spring]] with the propeller was suddenly jerked out of place, at
+[[spring]] with the propeller was suddenly jerked out of place, at
 
-      the car end, (by a swaying of the car through some movement of
+the car end, (by a swaying of the car through some movement of
 
-      one of the two seamen we had taken up,) and in an instant hung
+one of the two seamen we had taken up,) and in an instant hung
 
-      dangling out of reach, from the pivot of the axis of the screw.
+dangling out of reach, from the pivot of the axis of the screw.
 
-      While we were endeavoring to regain it, our attention being
+While we were endeavoring to regain it, our attention being
 
-      completely absorbed, we became involved in a strong current of
+completely absorbed, we became involved in a strong current of
 
-      [[Wind|wind]] from the East, which bore us, with rapidly increasing force,
+[[Wind|wind]] from the East, which bore us, with rapidly increasing force,
 
-      towards the Atlantic. We soon found ourselves driving out to sea
+towards the Atlantic. We soon found ourselves driving out to sea
 
-      at the rate of not less, certainly, than fifty or sixty miles an
+at the rate of not less, certainly, than fifty or sixty miles an
 
-      hour, so that we came up with Cape Clear, at some forty miles to
+hour, so that we came up with Cape Clear, at some forty miles to
 
-      our North, before we had secured the rod, and had [[Time|time]] to think
+our North, before we had secured the rod, and had [[Time|time]] to think
 
-      what we were about. It was now that Mr. Ainsworth made an
+what we were about. It was now that Mr. Ainsworth made an
 
-      extraordinary, but to my fancy, a by no means unreasonable or
+extraordinary, but to my fancy, a by no means unreasonable or
 
-      chimerical proposition, in which he was instantly seconded by Mr.
+chimerical proposition, in which he was instantly seconded by Mr.
 
-      Holland—viz.: that we should take advantage of the strong gale
+Holland—viz.: that we should take advantage of the strong gale
 
-      which bore us on, and in place of beating back to [[Paris]], make an
+which bore us on, and in place of beating back to [[Paris]], make an
 
-      attempt to reach the coast of North [[america|America]]. After slight
+attempt to reach the coast of North [[america|America]]. After slight
 
-      reflection I gave a willing assent to this bold proposition,
+reflection I gave a willing assent to this bold proposition,
 
-      which (strange to say) met with objection from the two seamen
+which (strange to say) met with objection from the two seamen
 
-      only. As the stronger party, however, we overruled their fears,
+only. As the stronger party, however, we overruled their fears,
 
-      and kept resolutely upon our course. We steered due West; but as
+and kept resolutely upon our course. We steered due West; but as
 
-      the trailing of the buoys materially impeded our progress, and we
+the trailing of the buoys materially impeded our progress, and we
 
-      had the balloon abundantly at command, either for ascent or
+had the balloon abundantly at command, either for ascent or
 
-      descent, we first threw out fifty pounds of ballast, and then
+descent, we first threw out fifty pounds of ballast, and then
 
-      wound up (by means of a windlass) so much of the rope as brought
+wound up (by means of a windlass) so much of the rope as brought
 
-      it quite clear of the sea. We perceived the effect of this
+it quite clear of the sea. We perceived the effect of this
 
-      manoeuvre immediately, in a vastly increased rate of progress;
+manoeuvre immediately, in a vastly increased rate of progress;
 
-      and, as the gale freshened, we flew with a velocity nearly
+and, as the gale freshened, we flew with a velocity nearly
 
-      inconceivable; the guide-rope flying out behind the car, like a
+inconceivable; the guide-rope flying out behind the car, like a
 
-      streamer from a vessel. It is needless to say that a very short
+streamer from a vessel. It is needless to say that a very short
 
-      [[Time|time]] sufficed us to lose sight of the coast. We passed over
+[[Time|time]] sufficed us to lose sight of the coast. We passed over
 
-      innumerable vessels of all kinds, a few of which were endeavoring
+innumerable vessels of all kinds, a few of which were endeavoring
 
-      to beat up, but the most of them lying to. We occasioned the
+to beat up, but the most of them lying to. We occasioned the
 
-      greatest excitement on board all—an excitement greatly relished
+greatest excitement on board all—an excitement greatly relished
 
-      by ourselves, and especially by our two men, who, now under the
+by ourselves, and especially by our two men, who, now under the
 
 
 
@@ -1800,183 +1800,183 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 <span class="atom-split" data-atom="part--part_05" data-title="The Balloon-Hoax (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-      influence of a dram of Geneva, seemed resolved to give all
+influence of a dram of Geneva, seemed resolved to give all
 
-      scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
+scruple, or [[Fear|fear]], to the [[Wind|wind]]. Many of the vessels fired signal
 
-      guns; and in all we were saluted with loud cheers (which we heard
+guns; and in all we were saluted with loud cheers (which we heard
 
-      with surprising distinctness) and the waving of caps and
+with surprising distinctness) and the waving of caps and
 
-      handkerchiefs. We kept on in this manner throughout the day, with
+handkerchiefs. We kept on in this manner throughout the day, with
 
-      no material incident, and, as the shades of [[Night|night]] closed around
+no material incident, and, as the shades of [[Night|night]] closed around
 
-      us, we made a rough estimate of the distance traversed. It could
+us, we made a rough estimate of the distance traversed. It could
 
-      not have been less than five hundred miles, and was probably much
+not have been less than five hundred miles, and was probably much
 
-      more. The propeller was kept in constant operation, and, no
+more. The propeller was kept in constant operation, and, no
 
-      [[Doubt|doubt]], aided our progress materially. As the sun went down, the
+[[Doubt|doubt]], aided our progress materially. As the sun went down, the
 
-      gale freshened into an absolute hurricane, and the ocean beneath
+gale freshened into an absolute hurricane, and the ocean beneath
 
-      was clearly visible on account of its phosphorescence. The [[Wind|wind]]
+was clearly visible on account of its phosphorescence. The [[Wind|wind]]
 
-      was from the East all [[Night|night]], and gave us the brightest omen of
+was from the East all [[Night|night]], and gave us the brightest omen of
 
-      [[success]]. We suffered no little from cold, and the dampness of the
+[[success]]. We suffered no little from cold, and the dampness of the
 
-      atmosphere was most unpleasant; but the ample space in the car
+atmosphere was most unpleasant; but the ample space in the car
 
-      enabled us to lie down, and by means of cloaks and a few
+enabled us to lie down, and by means of cloaks and a few
 
-      blankets, we did sufficiently [[Well|well]].
+blankets, we did sufficiently [[Well|well]].
 
 
 
-      “P.S. (by Mr. Ainsworth.) The last nine hours have been
+“P.S. (by Mr. Ainsworth.) The last nine hours have been
 
-      unquestionably the most exciting of my life. I can conceive
+unquestionably the most exciting of my life. I can conceive
 
-      nothing more sublimating than the strange peril and novelty of an
+nothing more sublimating than the strange peril and novelty of an
 
-      adventure such as this. May God grant that we succeed! I ask not
+adventure such as this. May God grant that we succeed! I ask not
 
-      [[success]] for mere safety to my insignificant person, but for the
+[[success]] for mere safety to my insignificant person, but for the
 
-      sake of human knowledge and—for the vastness of the triumph. And
+sake of human knowledge and—for the vastness of the triumph. And
 
-      yet the feat is only so evidently feasible that the sole [[Wonder|wonder]]
+yet the feat is only so evidently feasible that the sole [[Wonder|wonder]]
 
-      is why men have scrupled to attempt it before. One single gale
+is why men have scrupled to attempt it before. One single gale
 
-      such as now befriends us—let such a tempest whirl forward a
+such as now befriends us—let such a tempest whirl forward a
 
-      balloon for four or five days (these gales often last longer) and
+balloon for four or five days (these gales often last longer) and
 
-      the voyager will be easily borne, in that period, from coast to
+the voyager will be easily borne, in that period, from coast to
 
-      coast. In view of such a gale the broad Atlantic becomes a mere
+coast. In view of such a gale the broad Atlantic becomes a mere
 
-      lake. I am more struck, just now, with the supreme [[Silence|silence]] which
+lake. I am more struck, just now, with the supreme [[Silence|silence]] which
 
-      reigns in the sea beneath us, notwithstanding its agitation, than
+reigns in the sea beneath us, notwithstanding its agitation, than
 
-      with any other phenomenon presenting itself. The waters give up
+with any other phenomenon presenting itself. The waters give up
 
-      no voice to the heavens. The immense flaming ocean writhes and is
+no voice to the heavens. The immense flaming ocean writhes and is
 
-      tortured uncomplainingly. The mountainous surges suggest the idea
+tortured uncomplainingly. The mountainous surges suggest the idea
 
-      of innumerable dumb gigantic fiends struggling in impotent agony.
+of innumerable dumb gigantic fiends struggling in impotent agony.
 
-      In a [[Night|night]] such as is this to me, a man _lives_—lives a whole
+In a [[Night|night]] such as is this to me, a man _lives_—lives a whole
 
-      century of ordinary life—nor would I forego this rapturous
+century of ordinary life—nor would I forego this rapturous
 
-      delight for that of a whole century of ordinary existence.
+delight for that of a whole century of ordinary existence.
 
 
 
-      “_Sunday, the seventh_. [Mr. Mason’s MS.] This morning the gale,
+“_Sunday, the seventh_. [Mr. Mason’s MS.] This morning the gale,
 
-      by 10, had subsided to an eight or nine—knot breeze, (for a
+by 10, had subsided to an eight or nine—knot breeze, (for a
 
-      vessel at sea,) and bears us, perhaps, thirty miles per hour, or
+vessel at sea,) and bears us, perhaps, thirty miles per hour, or
 
-      more. It has veered, however, very considerably to the north; and
+more. It has veered, however, very considerably to the north; and
 
-      now, at sundown, we are holding our course due west, principally
+now, at sundown, we are holding our course due west, principally
 
-      by the screw and rudder, which answer their purposes to
+by the screw and rudder, which answer their purposes to
 
-      admiration. I regard the project as thoroughly successful, and
+admiration. I regard the project as thoroughly successful, and
 
-      the easy navigation of the air in any direction (not exactly in
+the easy navigation of the air in any direction (not exactly in
 
-      the teeth of a gale) as no longer problematical. We could not
+the teeth of a gale) as no longer problematical. We could not
 
-      have made head against the strong [[Wind|wind]] of yesterday; but, by
+have made head against the strong [[Wind|wind]] of yesterday; but, by
 
-      ascending, we might have got out of its influence, if requisite.
+ascending, we might have got out of its influence, if requisite.
 
-      Against a pretty stiff breeze, I feel convinced, we can make our
+Against a pretty stiff breeze, I feel convinced, we can make our
 
-      way with the propeller. At [[Noon|noon]], to-day, ascended to an elevation
+way with the propeller. At [[Noon|noon]], to-day, ascended to an elevation
 
-      of nearly 25,000 feet, by discharging ballast. Did this to search
+of nearly 25,000 feet, by discharging ballast. Did this to search
 
-      for a more direct current, but found none so favorable as the one
+for a more direct current, but found none so favorable as the one
 
-      we are now in. We have an abundance of gas to take us across this
+we are now in. We have an abundance of gas to take us across this
 
-      small pond, even should the voyage last three weeks. I have not
+small pond, even should the voyage last three weeks. I have not
 
-      the slightest [[Fear|fear]] for the result. The difficulty has been
+the slightest [[Fear|fear]] for the result. The difficulty has been
 
-      strangely exaggerated and misapprehended. I can choose my
+strangely exaggerated and misapprehended. I can choose my
 
-      current, and should I find _all_ currents against me, I can make
+current, and should I find _all_ currents against me, I can make
 
-      very tolerable headway with the propeller. We have had no
+very tolerable headway with the propeller. We have had no
 
-      incidents worth recording. The [[Night|night]] promises fair.
+incidents worth recording. The [[Night|night]] promises fair.
 
 
 
-      P.S. [By Mr. Ainsworth.] I have little to record, except the fact
+P.S. [By Mr. Ainsworth.] I have little to record, except the fact
 
-      (to me quite a surprising one) that, at an elevation equal to
+(to me quite a surprising one) that, at an elevation equal to
 
-      that of Cotopaxi, I experienced neither very intense cold, nor
+that of Cotopaxi, I experienced neither very intense cold, nor
 
-      headache, nor difficulty of breathing; neither, I find, did Mr.
+headache, nor difficulty of breathing; neither, I find, did Mr.
 
-      Mason, nor Mr. Holland, nor Sir Everard. Mr. Osborne complained
+Mason, nor Mr. Holland, nor Sir Everard. Mr. Osborne complained
 
-      of constriction of the chest—but this soon wore off. We have
+of constriction of the chest—but this soon wore off. We have
 
-      flown at a great rate during the day, and we must be more than
+flown at a great rate during the day, and we must be more than
 
-      half way across the Atlantic. We have passed over some twenty or
+half way across the Atlantic. We have passed over some twenty or
 
-      thirty vessels of various kinds, and all seem to be delightfully
+thirty vessels of various kinds, and all seem to be delightfully
 
-      astonished. Crossing the ocean in a balloon is not so difficult a
+astonished. Crossing the ocean in a balloon is not so difficult a
 
-      feat after all. _Omne ignotum pro magnifico. Mem:_ at 25,000 feet
+feat after all. _Omne ignotum pro magnifico. Mem:_ at 25,000 feet
 
-      elevation the sky appears nearly black, and the [[Stars|stars]] are
+elevation the sky appears nearly black, and the [[Stars|stars]] are
 
-      distinctly visible; while the sea does not seem convex (as one
+distinctly visible; while the sea does not seem convex (as one
 
-      might suppose) but absolutely and most unequivocally
+might suppose) but absolutely and most unequivocally
 
-      _concave_.(*1)
+_concave_.(*1)
 
 
 
-      “_Monday, the 8th_. [Mr. Mason’s MS.] This morning we had again
+“_Monday, the 8th_. [Mr. Mason’s MS.] This morning we had again
 
-      some little trouble with the rod of the propeller, which must be
+some little trouble with the rod of the propeller, which must be
 
-      entirely remodelled, for [[Fear|fear]] of serious accident—I mean the
+entirely remodelled, for [[Fear|fear]] of serious accident—I mean the
 
-      steel rod—not the vanes. The latter could not be improved. The
+steel rod—not the vanes. The latter could not be improved. The
 
-      [[Wind|wind]] has been blowing steadily and strongly from the north-east
+[[Wind|wind]] has been blowing steadily and strongly from the north-east
 
-      all day and so far fortune seems bent upon favoring us. Just
+all day and so far fortune seems bent upon favoring us. Just
 
-      before day, we were all somewhat alarmed at some odd noises and
+before day, we were all somewhat alarmed at some odd noises and
 
-      concussions in the balloon, accompanied with the apparent rapid
+concussions in the balloon, accompanied with the apparent rapid
 
-      subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
+subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
 
-      by the expansion of the gas, through increase of heat in the
+by the expansion of the gas, through increase of heat in the
 
 
 
@@ -1984,140 +1984,140 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
 <span class="atom-split" data-atom="part--part_06" data-title="The Balloon-Hoax (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
 
 
-      atmosphere, and the consequent disruption of the minute particles
+atmosphere, and the consequent disruption of the minute particles
 
-      of ice with which the network had become encrusted during the
+of ice with which the network had become encrusted during the
 
-      [[Night|night]]. Threw down several bottles to the vessels below. Saw one
+[[Night|night]]. Threw down several bottles to the vessels below. Saw one
 
-      of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
+of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
 
-      line packets. Endeavored to make out her name, but could not be
+line packets. Endeavored to make out her name, but could not be
 
-      sure of it. Mr. Osborne’s telescope made it out something like
+sure of it. Mr. Osborne’s telescope made it out something like
 
-      “Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
+“Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
 
-      west, at a rapid pace. The sea is peculiarly phosphorescent.
+west, at a rapid pace. The sea is peculiarly phosphorescent.
 
 
 
-      “P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
+“P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
 
-      [[Well|well]] as I can judge—but it is very difficult to determine this
+[[Well|well]] as I can judge—but it is very difficult to determine this
 
-      point, since we move _with_ the air so completely. I have not
+point, since we move _with_ the air so completely. I have not
 
-      slept since quitting Wheal-Vor, but can stand it no longer, and
+slept since quitting Wheal-Vor, but can stand it no longer, and
 
-      must take a nap. We cannot be far from the American coast.
+must take a nap. We cannot be far from the American coast.
 
 
 
-      “_Tuesday, the_ 9_th_. [Mr. Ainsworth’s MS.] _One, P.M. We are in
+“_Tuesday, the_ 9_th_. [Mr. Ainsworth’s MS.] _One, P.M. We are in
 
-      full view of the low coast of South Carolina_. The great problem
+full view of the low coast of South Carolina_. The great problem
 
-      is accomplished. We have crossed the Atlantic—fairly and _easily_
+is accomplished. We have crossed the Atlantic—fairly and _easily_
 
-      crossed it in a balloon! God be praised! Who shall say that
+crossed it in a balloon! God be praised! Who shall say that
 
-      anything is impossible hereafter?”
+anything is impossible hereafter?”
 
 
 
-      The Journal here ceases. Some particulars of the descent were
+The Journal here ceases. Some particulars of the descent were
 
-      communicated, however, by Mr. Ainsworth to Mr. Forsyth. It was
+communicated, however, by Mr. Ainsworth to Mr. Forsyth. It was
 
-      nearly dead calm when the voyagers first came in view of the
+nearly dead calm when the voyagers first came in view of the
 
-      coast, which was immediately recognized by both the seamen, and
+coast, which was immediately recognized by both the seamen, and
 
-      by Mr. Osborne. The latter gentleman having acquaintances at Fort
+by Mr. Osborne. The latter gentleman having acquaintances at Fort
 
-      Moultrie, it was immediately resolved to descend in its vicinity.
+Moultrie, it was immediately resolved to descend in its vicinity.
 
-      The balloon was brought over the beach (the tide being out and
+The balloon was brought over the beach (the tide being out and
 
-      the sand hard, smooth, and admirably adapted for a descent,) and
+the sand hard, smooth, and admirably adapted for a descent,) and
 
-      the grapnel let go, which took firm hold at once. The inhabitants
+the grapnel let go, which took firm hold at once. The inhabitants
 
-      of the island, and of the fort, thronged out, of course, to see
+of the island, and of the fort, thronged out, of course, to see
 
-      the balloon; but it was with the greatest difficulty that any one
+the balloon; but it was with the greatest difficulty that any one
 
-      could be made to credit the actual voyage—_the crossing of the
+could be made to credit the actual voyage—_the crossing of the
 
-      Atlantic_. The grapnel caught at 2, P.M., precisely; and thus the
+Atlantic_. The grapnel caught at 2, P.M., precisely; and thus the
 
-      whole voyage was completed in seventy-five hours; or rather less,
+whole voyage was completed in seventy-five hours; or rather less,
 
-      counting from shore to shore. No serious accident occurred. No
+counting from shore to shore. No serious accident occurred. No
 
-      real danger was at any [[Time|time]] apprehended. The balloon was
+real danger was at any [[Time|time]] apprehended. The balloon was
 
-      exhausted and secured without trouble; and when the MS. from
+exhausted and secured without trouble; and when the MS. from
 
-      which this narrative is compiled was despatched from Charleston,
+which this narrative is compiled was despatched from Charleston,
 
-      the party were still at Fort Moultrie. Their farther intentions
+the party were still at Fort Moultrie. Their farther intentions
 
-      were not ascertained; but we can safely promise our readers some
+were not ascertained; but we can safely promise our readers some
 
-      additional information either on Monday or in the course of the
+additional information either on Monday or in the course of the
 
-      next day, at farthest.
+next day, at farthest.
 
 
 
-      This is unquestionably the most stupendous, the most interesting,
+This is unquestionably the most stupendous, the most interesting,
 
-      and the most important undertaking, ever accomplished or even
+and the most important undertaking, ever accomplished or even
 
-      attempted by man. What magnificent events may ensue, it would be
+attempted by man. What magnificent events may ensue, it would be
 
-      useless now to think of determining.
+useless now to think of determining.
 
 
 
-      (*1) _Note_.—Mr. Ainsworth has not attempted to account for this
+(*1) _Note_.—Mr. Ainsworth has not attempted to account for this
 
-      phenomenon, which, however, is quite susceptible of explanation.
+phenomenon, which, however, is quite susceptible of explanation.
 
-      A line dropped from an elevation of 25,000 feet, perpendicularly
+A line dropped from an elevation of 25,000 feet, perpendicularly
 
-      to the surface of the earth (or sea), would form the
+to the surface of the earth (or sea), would form the
 
-      perpendicular of a right-angled triangle, of which the base would
+perpendicular of a right-angled triangle, of which the base would
 
-      extend from the right angle to the horizon, and the hypothenuse
+extend from the right angle to the horizon, and the hypothenuse
 
-      from the horizon to the balloon. But the 25,000 feet of altitude
+from the horizon to the balloon. But the 25,000 feet of altitude
 
-      is little or nothing, in comparison with the extent of the
+is little or nothing, in comparison with the extent of the
 
-      prospect. In other words, the base and hypothenuse of the
+prospect. In other words, the base and hypothenuse of the
 
-      supposed triangle would be so long when compared with the
+supposed triangle would be so long when compared with the
 
-      perpendicular, that the two former may be regarded as nearly
+perpendicular, that the two former may be regarded as nearly
 
-      parallel. In this manner the horizon of the æronaut would appear
+parallel. In this manner the horizon of the æronaut would appear
 
-      to be _on a level_ with the car. But, as the point immediately
+to be _on a level_ with the car. But, as the point immediately
 
-      beneath him seems, and is, at a great distance below him, it
+beneath him seems, and is, at a great distance below him, it
 
-      seems, of course, also, at a great distance below the horizon.
+seems, of course, also, at a great distance below the horizon.
 
-      Hence the impression of _concavity_; and this impression must
+Hence the impression of _concavity_; and this impression must
 
-      remain, until the elevation shall bear so great a proportion to
+remain, until the elevation shall bear so great a proportion to
 
-      the extent of prospect, that the apparent parallelism of the base
+the extent of prospect, that the apparent parallelism of the base
 
-      and hypothenuse disappears—when the earth’s real convexity must
+and hypothenuse disappears—when the earth’s real convexity must
 
-      become apparent.
+become apparent.

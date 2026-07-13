@@ -22,13 +22,13 @@ The [[Song]] Of The Wheels
 
 [[King]] Dives he was walking in his [[Garden|garden]] all [[Alone|alone]],  
 Where his [[Flowers|flowers]] are made of iron and his trees are made of  
-   stone,  
+stone,  
 And his hives are full of thunder and the [[Lightning|lightning]] leaps  
-   and kills,  
+and kills,  
 For the mills of God grind slowly; and he works with other  
-   mills.  
+mills.  
 Dives found a mighty [[Silence|silence]]; and he missed the throb and  
-   leap,  
+leap,  
 The noise of all the sleepless creatures singing him to [[Sleep|sleep]].  
 And he said: "A screw has fallen---or a bolt has slipped aside---  
 Some little thing has shifted": and the little things replied:  
@@ -41,18 +41,18 @@ Yea, the Wheels are mighty gods---set them going then!
 We are only men, master, have you heard of men?  
 
 "O, they live on earth like fishes, and a gasp is all their  
-   breath.  
+breath.  
 God for empty honours only gave them [[Death|death]] and scorn of  
-   [[Death|death]],  
+[[Death|death]],  
 And you walk the worms for carpet and you tread a stone  
-   that squeals  
+that squeals  
 Only, God that made them worms did not make them wheels.  
 Man shall shut his heart against you and you shall not find  
-   the [[spring]].  
+the [[spring]].  
 Man who wills the thing he wants not, the intolerable thing---  
 Once he likes his empty belly better than your empty head  
 Earth and heaven are dumb before him: he is stronger than  
-   the dead.  
+the dead.  
 
 "Call upon the wheels, master, call upon the wheels,  
 Steel is beneath your hand, stone beneath your heels,  
@@ -65,17 +65,17 @@ Save the stinking grease, master, save it for the wheels.
 (Even while the baby came alive the rotten sticks were sold.)  
 The savage knows a cavern and the peasants keep a plot,  
 Of all the things that men have had---lo! we have them  
-   not.  
+not.  
 Not a scrap of earth where ants could lay their eggs---  
 Only this poor lump of earth that walks about on legs---  
 Only this poor wandering mansion, only these two walking  
-   trees,  
+trees,  
 Only hands and hearts and stomachs---what have you to do  
-   with these?  
+with these?  
 You have engines big and burnished, tall beyond our fathers'  
-   ken,  
+ken,  
 Why should you make peace and traffic with such feeble folk  
-   as men?  
+as men?  
 
 "Call upon the wheels, master, call upon the wheels,  
 They are deaf to demagogues, deaf to crude appeals;  
@@ -86,17 +86,17 @@ All the wheels are loyal; see how still they stand!"
 
 [[King]] Dives he was walking in his [[Garden|garden]] in the sun,  
 He shook his hand at heaven, and he called the wheels to  
-   run,  
+run,  
 And the eyes of him were hateful eyes, the lips of him were  
-   curled,  
+curled,  
 And he called upon his father that is lord below the world,  
 Sitting in the Gate of Treason, in the gate of broken seals,  
 "Bend and bind them, bend and bind them, bend and bind  
-   them into wheels,  
+them into wheels,  
 Then once more in all my [[Garden|garden]] there may swing and sound  
-   and sweep---  
+and sweep---  
 The noise of all the sleepless things that sing the [[Soul|soul]] to  
-   [[Sleep|sleep]]."  
+[[Sleep|sleep]]."  
 
 Call upon the wheels, master, call upon the wheels,  
 Weary grow the holidays when you miss the meals,  
@@ -104,7 +104,7 @@ Through the Gate of Treason, through the gate within,
 Cometh [[Fear|fear]] and [[Greed|greed]] of fame, cometh deadly sin;  
 If a man grow faint, master, take him ere he kneels,  
 Take him, break him, rend him, end him, roll him, crush him  
-   with the wheels.
+with the wheels.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -117,13 +117,13 @@ Il [[Song|Canto]] delle Ruote
 
 [[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
 Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi son fatti di  
-   pietra,  
+pietra,  
 E i suoi alveari son colmi di tuono e il [[Lightning|fulmine]] balza  
-   e uccide,  
+e uccide,  
 Ché i mulini di Dio macinano lenti; ed egli lavora con altri  
-   mulini.  
+mulini.  
 Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il  
-   balzo,  
+balzo,  
 Il rumore di tutte le insonni creature che lo cantavano al [[Sleep|sonno]].  
 Ed egli disse: "Una vite è caduta---o un bullone è scivolato via---  
 Qualche piccola cosa si è spostata": e le piccole cose risposero:  
@@ -136,18 +136,18 @@ Sì, le Ruote sono possenti dèi---mettile in moto, allora!
 Noi siamo solo uomini, padrone, hai mai sentito parlare degli uomini?  
 
 "Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro  
-   respiro.  
+respiro.  
 Dio per vuoti onori diede loro soltanto la [[Death|morte]] e lo scherno della  
-   [[Death|morte]],  
+[[Death|morte]],  
 E tu calpesti i vermi come tappeto e premi una pietra  
-   che stride  
+che stride  
 Solo che Dio, il quale li fece vermi, non li fece ruote.  
 L'uomo chiuderà il suo cuore contro di te e non troverai  
-   la [[spring|sorgente]].  
+la [[spring|sorgente]].  
 L'uomo che vuole la cosa che non desidera, la cosa intollerabile---  
 Una volta che preferisce il suo ventre vuoto alla tua testa vuota  
 Terra e cielo ammutoliscono davanti a lui: egli è più forte dei  
-   morti.  
+morti.  
 
 "Invoca le ruote, padrone, invoca le ruote,  
 L'acciaio è sotto la tua mano, la pietra sotto i tuoi tacchi,  
@@ -160,17 +160,17 @@ Serba il grasso fetido, padrone, serbalo per le ruote.
 (Persino mentre il bimbo veniva alla vita si vendevano i legni marci.)  
 Il selvaggio conosce una caverna e i contadini serbano un lotto,  
 Di tutte le cose che gli uomini hanno avuto---ecco! noi non le  
-   abbiamo.  
+abbiamo.  
 Non un lembo di terra dove le formiche depongano le uova---  
 Solo questa povera zolla di terra che va in giro su gambe---  
 Solo questa povera dimora errante, solo questi due alberi che  
-   camminano,  
+camminano,  
 Solo mani e cuori e stomaci---che avete voi a che fare  
-   con questi?  
+con questi?  
 Avete macchine grandi e brunite, alte oltre il sapere dei nostri  
-   padri,  
+padri,  
 Perché dovreste far pace e commercio con gente tanto fragile  
-   come gli uomini?  
+come gli uomini?  
 
 "Invoca le ruote, padrone, invoca le ruote,  
 Sono sorde ai demagoghi, sorde ai rozzi appelli;  
@@ -181,17 +181,17 @@ Tutte le ruote sono leali; guarda come stanno immobili!"
 
 [[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] al sole,  
 Levò la mano contro il cielo, e chiamò le ruote a  
-   correre,  
+correre,  
 E i suoi occhi erano occhi d'odio, le sue labbra erano  
-   arricciate,  
+arricciate,  
 E invocò suo padre che è signore sotto il mondo,  
 Assiso nella Porta del Tradimento, nella porta dei sigilli infranti,  
 "Piegale e legale, piegale e legale, piegale e  
-   legale in ruote,  
+legale in ruote,  
 Che ancora una volta in tutto il mio [[Garden|giardino]] possano oscillare e suonare  
-   e turbinare---  
+e turbinare---  
 Il rumore di tutte le cose insonni che cantano l'[[Soul|anima]] al  
-   [[Sleep|sonno]]."  
+[[Sleep|sonno]]."  
 
 Invoca le ruote, padrone, invoca le ruote,  
 Stancanti si fanno le feste quando si saltano i pasti,  
@@ -199,7 +199,7 @@ Per la Porta del Tradimento, per la porta interiore,
 Vengono [[Fear|paura]] e [[Greed|avidità]] di fama, viene il peccato mortale;  
 Se un uomo vien meno, padrone, prendilo prima che s'inginocchi,  
 Prendilo, spezzalo, sbranalo, finiscilo, arrotolalo, schiaccialo  
-   con le ruote.
+con le ruote.
 
 
 
@@ -214,13 +214,13 @@ The [[Song]] Of The Wheels
 
 [[King]] Dives he was walking in his [[Garden|garden]] all [[Alone|alone]],  
 Where his [[Flowers|flowers]] are made of iron and his trees are made of  
-   stone,  
+stone,  
 And his hives are full of thunder and the [[Lightning|lightning]] leaps  
-   and kills,  
+and kills,  
 For the mills of God grind slowly; and he works with other  
-   mills.  
+mills.  
 Dives found a mighty [[Silence|silence]]; and he missed the throb and  
-   leap,  
+leap,  
 The noise of all the sleepless creatures singing him to [[Sleep|sleep]].  
 And he said: "A screw has fallen---or a bolt has slipped aside---  
 Some little thing has shifted": and the little things replied:  
@@ -233,18 +233,18 @@ Yea, the Wheels are mighty gods---set them going then!
 We are only men, master, have you heard of men?  
 
 "O, they live on earth like fishes, and a gasp is all their  
-   breath.  
+breath.  
 God for empty honours only gave them [[Death|death]] and scorn of  
-   [[Death|death]],  
+[[Death|death]],  
 And you walk the worms for carpet and you tread a stone  
-   that squeals  
+that squeals  
 Only, God that made them worms did not make them wheels.  
 Man shall shut his heart against you and you shall not find  
-   the [[spring]].  
+the [[spring]].  
 Man who wills the thing he wants not, the intolerable thing---  
 Once he likes his empty belly better than your empty head  
 Earth and heaven are dumb before him: he is stronger than  
-   the dead.  
+the dead.  
 
 "Call upon the wheels, master, call upon the wheels,  
 Steel is beneath your hand, stone beneath your heels,  
@@ -257,17 +257,17 @@ Save the stinking grease, master, save it for the wheels.
 (Even while the baby came alive the rotten sticks were sold.)  
 The savage knows a cavern and the peasants keep a plot,  
 Of all the things that men have had---lo! we have them  
-   not.  
+not.  
 Not a scrap of earth where ants could lay their eggs---  
 Only this poor lump of earth that walks about on legs---  
 Only this poor wandering mansion, only these two walking  
-   trees,  
+trees,  
 Only hands and hearts and stomachs---what have you to do  
-   with these?  
+with these?  
 You have engines big and burnished, tall beyond our fathers'  
-   ken,  
+ken,  
 Why should you make peace and traffic with such feeble folk  
-   as men?  
+as men?  
 
 "Call upon the wheels, master, call upon the wheels,  
 They are deaf to demagogues, deaf to crude appeals;  
@@ -278,17 +278,17 @@ All the wheels are loyal; see how still they stand!"
 
 [[King]] Dives he was walking in his [[Garden|garden]] in the sun,  
 He shook his hand at heaven, and he called the wheels to  
-   run,  
+run,  
 And the eyes of him were hateful eyes, the lips of him were  
-   curled,  
+curled,  
 And he called upon his father that is lord below the world,  
 Sitting in the Gate of Treason, in the gate of broken seals,  
 "Bend and bind them, bend and bind them, bend and bind  
-   them into wheels,  
+them into wheels,  
 Then once more in all my [[Garden|garden]] there may swing and sound  
-   and sweep---  
+and sweep---  
 The noise of all the sleepless things that sing the [[Soul|soul]] to  
-   [[Sleep|sleep]]."  
+[[Sleep|sleep]]."  
 
 Call upon the wheels, master, call upon the wheels,  
 Weary grow the holidays when you miss the meals,  
@@ -296,7 +296,7 @@ Through the Gate of Treason, through the gate within,
 Cometh [[Fear|fear]] and [[Greed|greed]] of fame, cometh deadly sin;  
 If a man grow faint, master, take him ere he kneels,  
 Take him, break him, rend him, end him, roll him, crush him  
-   with the wheels.
+with the wheels.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -309,13 +309,13 @@ Il [[Song|Canto]] delle Ruote
 
 [[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
 Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi son fatti di  
-   pietra,  
+pietra,  
 E i suoi alveari son colmi di tuono e il [[Lightning|fulmine]] balza  
-   e uccide,  
+e uccide,  
 Ché i mulini di Dio macinano lenti; ed egli lavora con altri  
-   mulini.  
+mulini.  
 Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il  
-   balzo,  
+balzo,  
 Il rumore di tutte le insonni creature che lo cantavano al [[Sleep|sonno]].  
 Ed egli disse: "Una vite è caduta---o un bullone è scivolato via---  
 Qualche piccola cosa si è spostata": e le piccole cose risposero:  
@@ -328,18 +328,18 @@ Sì, le Ruote sono possenti dèi---mettile in moto, allora!
 Noi siamo solo uomini, padrone, hai mai sentito parlare degli uomini?  
 
 "Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro  
-   respiro.  
+respiro.  
 Dio per vuoti onori diede loro soltanto la [[Death|morte]] e lo scherno della  
-   [[Death|morte]],  
+[[Death|morte]],  
 E tu calpesti i vermi come tappeto e premi una pietra  
-   che stride  
+che stride  
 Solo che Dio, il quale li fece vermi, non li fece ruote.  
 L'uomo chiuderà il suo cuore contro di te e non troverai  
-   la [[spring|sorgente]].  
+la [[spring|sorgente]].  
 L'uomo che vuole la cosa che non desidera, la cosa intollerabile---  
 Una volta che preferisce il suo ventre vuoto alla tua testa vuota  
 Terra e cielo ammutoliscono davanti a lui: egli è più forte dei  
-   morti.  
+morti.  
 
 "Invoca le ruote, padrone, invoca le ruote,  
 L'acciaio è sotto la tua mano, la pietra sotto i tuoi tacchi,  
@@ -352,17 +352,17 @@ Serba il grasso fetido, padrone, serbalo per le ruote.
 (Persino mentre il bimbo veniva alla vita si vendevano i legni marci.)  
 Il selvaggio conosce una caverna e i contadini serbano un lotto,  
 Di tutte le cose che gli uomini hanno avuto---ecco! noi non le  
-   abbiamo.  
+abbiamo.  
 Non un lembo di terra dove le formiche depongano le uova---  
 Solo questa povera zolla di terra che va in giro su gambe---  
 Solo questa povera dimora errante, solo questi due alberi che  
-   camminano,  
+camminano,  
 Solo mani e cuori e stomaci---che avete voi a che fare  
-   con questi?  
+con questi?  
 Avete macchine grandi e brunite, alte oltre il sapere dei nostri  
-   padri,  
+padri,  
 Perché dovreste far pace e commercio con gente tanto fragile  
-   come gli uomini?  
+come gli uomini?  
 
 "Invoca le ruote, padrone, invoca le ruote,  
 Sono sorde ai demagoghi, sorde ai rozzi appelli;  
@@ -373,17 +373,17 @@ Tutte le ruote sono leali; guarda come stanno immobili!"
 
 [[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] al sole,  
 Levò la mano contro il cielo, e chiamò le ruote a  
-   correre,  
+correre,  
 E i suoi occhi erano occhi d'odio, le sue labbra erano  
-   arricciate,  
+arricciate,  
 E invocò suo padre che è signore sotto il mondo,  
 Assiso nella Porta del Tradimento, nella porta dei sigilli infranti,  
 "Piegale e legale, piegale e legale, piegale e  
-   legale in ruote,  
+legale in ruote,  
 Che ancora una volta in tutto il mio [[Garden|giardino]] possano oscillare e suonare  
-   e turbinare---  
+e turbinare---  
 Il rumore di tutte le cose insonni che cantano l'[[Soul|anima]] al  
-   [[Sleep|sonno]]."  
+[[Sleep|sonno]]."  
 
 Invoca le ruote, padrone, invoca le ruote,  
 Stancanti si fanno le feste quando si saltano i pasti,  
@@ -391,4 +391,4 @@ Per la Porta del Tradimento, per la porta interiore,
 Vengono [[Fear|paura]] e [[Greed|avidità]] di fama, viene il peccato mortale;  
 Se un uomo vien meno, padrone, prendilo prima che s'inginocchi,  
 Prendilo, spezzalo, sbranalo, finiscilo, arrotolalo, schiaccialo  
-   con le ruote.
+con le ruote.

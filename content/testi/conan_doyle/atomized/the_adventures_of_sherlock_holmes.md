@@ -2598,7 +2598,7 @@ This collection of eleven Sherlock Holmes stories was originally published in 18
 
 
 
-<span class="atom-split" data-atom="story_01_a_scandal_in_bohemia" data-title="THE ADVENTURES OF SHERLOCK HOLMES — A SCANDAL IN BOHEMIA" data-chapter="Story 01 A SCANDAL IN BOHEMIA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_a_scandal_in_bohemia" data-title="THE ADVENTURES OF SHERLOCK HOLMES — A SCANDAL IN BOHEMIA" data-chapter="A SCANDAL IN BOHEMIA" data-kind="story"></span>
 
 
 A SCANDAL IN BOHEMIA
@@ -2868,7 +2868,7 @@ And that was how a great scandal threatened to affect the kingdom of Bohemia, an
 
 
 
-<span class="atom-split" data-atom="story_02_the_red_headed_league" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE RED-HEADED LEAGUE" data-chapter="Story 02 THE RED HEADED LEAGUE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_red_headed_league" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE RED-HEADED LEAGUE" data-chapter="THE RED HEADED LEAGUE" data-kind="story"></span>
 
 
 THE RED-HEADED LEAGUE
@@ -3094,7 +3094,7 @@ He shrugged his shoulders. “Well, perhaps, after all, it is of some little use
 
 
 
-<span class="atom-split" data-atom="story_03_a_case_of_identity" data-title="THE ADVENTURES OF SHERLOCK HOLMES — A CASE OF IDENTITY" data-chapter="Story 03 A CASE OF IDENTITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_a_case_of_identity" data-title="THE ADVENTURES OF SHERLOCK HOLMES — A CASE OF IDENTITY" data-chapter="A CASE OF IDENTITY" data-kind="story"></span>
 
 
 A CASE OF IDENTITY
@@ -3240,7 +3240,7 @@ Our visitor had recovered something of his assurance while Holmes had been talki
 
 
 
-<span class="atom-split" data-atom="story_04_the_boscombe_valley_mystery" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE BOSCOMBE VALLEY MYSTERY" data-chapter="Story 04 THE BOSCOMBE VALLEY MYSTERY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_boscombe_valley_mystery" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE BOSCOMBE VALLEY MYSTERY" data-chapter="THE BOSCOMBE VALLEY MYSTERY" data-kind="story"></span>
 
 
 THE BOSCOMBE VALLEY MYSTERY
@@ -3463,7 +3463,7 @@ James McCarthy was acquitted at the Assizes on the strength of a number of objec
 
 
 
-<span class="atom-split" data-atom="story_05_the_five_orange_pips" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE FIVE ORANGE PIPS" data-chapter="Story 05 THE FIVE ORANGE PIPS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_five_orange_pips" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE FIVE ORANGE PIPS" data-chapter="THE FIVE ORANGE PIPS" data-kind="story"></span>
 
 
 THE FIVE ORANGE PIPS
@@ -3650,7 +3650,7 @@ There is ever a flaw, however, in the best laid of human plans, and the murderer
 
 
 
-<span class="atom-split" data-atom="story_06_the_man_with_the_twisted_lip" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE MAN WITH THE TWISTED LIP" data-chapter="Story 06 THE MAN WITH THE TWISTED LIP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_man_with_the_twisted_lip" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE MAN WITH THE TWISTED LIP" data-chapter="THE MAN WITH THE TWISTED LIP" data-kind="story"></span>
 
 
 THE MAN WITH THE TWISTED LIP
@@ -3878,7 +3878,7 @@ Sherlock Holmes sat down beside him on the couch and patted him kindly on the sh
 
 
 
-<span class="atom-split" data-atom="story_07_the_adventure_of_the_blue_carbuncle" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE BLUE CARBUNCLE" data-chapter="Story 07 THE ADVENTURE OF THE BLUE CARBUNCLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_adventure_of_the_blue_carbuncle" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE BLUE CARBUNCLE" data-chapter="THE ADVENTURE OF THE BLUE CARBUNCLE" data-kind="story"></span>
 
 
 THE ADVENTURE OF THE BLUE CARBUNCLE
@@ -4100,7 +4100,7 @@ And no more words were needed. There was a rush, a clatter upon the stairs, the 
 
 
 
-<span class="atom-split" data-atom="story_08_the_adventure_of_the_speckled_band" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE SPECKLED BAND" data-chapter="Story 08 THE ADVENTURE OF THE SPECKLED BAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_adventure_of_the_speckled_band" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE SPECKLED BAND" data-chapter="THE ADVENTURE OF THE SPECKLED BAND" data-kind="story"></span>
 
 
 THE ADVENTURE OF THE SPECKLED BAND
@@ -4359,7 +4359,7 @@ Such are the true facts of the death of Dr. Grimesby Roylott, of Stoke Moran. It
 
 
 
-<span class="atom-split" data-atom="story_09_the_adventure_of_the_engineers_thumb" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE ENGINEER’S THUMB" data-chapter="Story 09 THE ADVENTURE OF THE ENGINEERS THUMB" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_adventure_of_the_engineers_thumb" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE ENGINEER’S THUMB" data-chapter="THE ADVENTURE OF THE ENGINEERS THUMB" data-kind="story"></span>
 
 
 THE ADVENTURE OF THE ENGINEER’S THUMB
@@ -4543,7 +4543,7 @@ How our hydraulic engineer had been conveyed from the garden to the spot where h
 
 
 
-<span class="atom-split" data-atom="story_10_the_adventure_of_the_noble_bachelor" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE NOBLE BACHELOR" data-chapter="Story 10 THE ADVENTURE OF THE NOBLE BACHELOR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_adventure_of_the_noble_bachelor" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE NOBLE BACHELOR" data-chapter="THE ADVENTURE OF THE NOBLE BACHELOR" data-kind="story"></span>
 
 
 THE ADVENTURE OF THE NOBLE BACHELOR
@@ -4777,7 +4777,7 @@ Lord St. Simon had by no means relaxed his rigid attitude, but had listened with
 
 
 
-<span class="atom-split" data-atom="story_11_the_adventure_of_the_beryl_coronet" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE BERYL CORONET" data-chapter="Story 11 THE ADVENTURE OF THE BERYL CORONET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_adventure_of_the_beryl_coronet" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE BERYL CORONET" data-chapter="THE ADVENTURE OF THE BERYL CORONET" data-kind="story"></span>
 
 
 THE ADVENTURE OF THE BERYL CORONET
@@ -5007,7 +5007,7 @@ The reaction of joy was as passionate as his grief had been, and he hugged his r
 
 
 
-<span class="atom-split" data-atom="story_12_the_adventure_of_the_copper_beeches" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE COPPER BEECHES" data-chapter="Story 12 THE ADVENTURE OF THE COPPER BEECHES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_adventure_of_the_copper_beeches" data-title="THE ADVENTURES OF SHERLOCK HOLMES — THE ADVENTURE OF THE COPPER BEECHES" data-chapter="THE ADVENTURE OF THE COPPER BEECHES" data-kind="story"></span>
 
 
 THE ADVENTURE OF THE COPPER BEECHES

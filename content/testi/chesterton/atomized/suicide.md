@@ -43,7 +43,7 @@ And through thick woods one finds a stream astray,
 So secret that the very sky seems small--  
 I think I will not hang myself to-day.  
 
-		ENVOI  
+ENVOI  
 Prince, I can hear the trumpet of Germinal,  
 The tumbrils toiling up the terrible way;  
 Even to-day your royal head may fall--  
@@ -83,7 +83,7 @@ e tra folti boschi si trova un ruscello smarrito,
 tanto segreto che il cielo stesso pare piccolo--  
 credo che oggi non m'impiccherò.  
 
-		ENVOI  
+ENVOI  
 Principe, odo la tromba di Germinale,  
 i tumbrel arrancano su per la via terribile;  
 anche oggi il tuo capo regale può cadere--  
@@ -125,7 +125,7 @@ And through thick woods one finds a stream astray,
 So secret that the very sky seems small--  
 I think I will not hang myself to-day.  
 
-		ENVOI  
+ENVOI  
 Prince, I can hear the trumpet of Germinal,  
 The tumbrils toiling up the terrible way;  
 Even to-day your royal head may fall--  
@@ -165,7 +165,7 @@ e tra folti boschi si trova un ruscello smarrito,
 tanto segreto che il cielo stesso pare piccolo--  
 credo che oggi non m'impiccherò.  
 
-		ENVOI  
+ENVOI  
 Principe, odo la tromba di Germinale,  
 i tumbrel arrancano su per la via terribile;  
 anche oggi il tuo capo regale può cadere--  

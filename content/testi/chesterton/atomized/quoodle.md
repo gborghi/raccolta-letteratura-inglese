@@ -46,7 +46,7 @@ The smell of snare and warning,
 The smell of [[Sunday]] morning,  
 God gave to us for ours  
 
-   *    *    *    *    *
+*    *    *    *    *
 
 And [[quoodle|Quoodle]] here discloses  
 All things that [[quoodle|Quoodle]] can,  
@@ -90,7 +90,7 @@ l'odore di trappola e monito,
 l'odore del mattino di [[Sunday|domenica]],  
 Dio ce li donò per nostri  
 
-   *    *    *    *    *
+*    *    *    *    *
 
 E qui [[quoodle|Quoodle]] rivela  
 tutte le cose che [[quoodle|Quoodle]] può,  
@@ -136,7 +136,7 @@ The smell of snare and warning,
 The smell of [[Sunday]] morning,  
 God gave to us for ours  
 
-   *    *    *    *    *
+*    *    *    *    *
 
 And [[quoodle|Quoodle]] here discloses  
 All things that [[quoodle|Quoodle]] can,  
@@ -180,7 +180,7 @@ l'odore di trappola e monito,
 l'odore del mattino di [[Sunday|domenica]],  
 Dio ce li donò per nostri  
 
-   *    *    *    *    *
+*    *    *    *    *
 
 E qui [[quoodle|Quoodle]] rivela  
 tutte le cose che [[quoodle|Quoodle]] può,  

@@ -24,12 +24,12 @@ Senate, republic, empire, all
 We leaned our backs on like a wall  
 And blessed as stron as strong and blamed as stolid--  
 Can it be these that waver and fall?  
-	And what is this like a [[Ghost|ghost]] returning,  
-	[[A Dream|A dream]] grown strong in the strong daylight?  
-	The all-forsaken, the unforgotten,  
-	The ever-behind and out of sight.  
-	We turned our backs and our blind flesh felt it  
-	Growing and growing, a tower in height.  
+And what is this like a [[Ghost|ghost]] returning,  
+[[A Dream|A dream]] grown strong in the strong daylight?  
+The all-forsaken, the unforgotten,  
+The ever-behind and out of sight.  
+We turned our backs and our blind flesh felt it  
+Growing and growing, a tower in height.  
 
 Ah, not [[Alone|alone]] the evil splendour  
 And not the insolent arms [[Alone|alone]]  
@@ -55,12 +55,12 @@ And where we watched her smile in power
 A statue like a starry tower  
 the stone face sneers as in a [[nightmare]]  
 Down on a world that worms devour.  
-	(Archaic incredible dead dawns breaking  
-	Deep in the deserts and waste and wealds,  
-	Where the dead cry aloud on Our Lady of Victories,  
-	[[Queen]] of the Eagles, aloft on the shields,  
-	And the sun is gone up on the Thundering Legion  
-	On the roads of Rome to the Battlefields.)  
+(Archaic incredible dead dawns breaking  
+Deep in the deserts and waste and wealds,  
+Where the dead cry aloud on Our Lady of Victories,  
+[[Queen]] of the Eagles, aloft on the shields,  
+And the sun is gone up on the Thundering Legion  
+On the roads of Rome to the Battlefields.)  
 
 Ah, who had known who had not seen  
 How soft and sudden on the fame  
@@ -70,12 +70,12 @@ And the thing I never had dreamed could be
 In the [[house]] of my fathers came to me  
 Through the sea-wall cloven, the cloud and dark,  
 A voice divided, a doubtful sea.  
-	(The light is bright on the Tower of David,  
-	The evening  glows with the morning star  
-	In the skies turned back and the days returning  
-	She walks so near who had wandered far  
-	And in the heart of the swords, the seven times wounded,  
-	Was never wearied as our hearts are.)  
+(The light is bright on the Tower of David,  
+The evening  glows with the morning star  
+In the skies turned back and the days returning  
+She walks so near who had wandered far  
+And in the heart of the swords, the seven times wounded,  
+Was never wearied as our hearts are.)  
 
 How swift as with a fall of [[Snow|snow]]  
 New things grow hoary with the light.  
@@ -100,12 +100,12 @@ O trumpet of the intolerant [[Truth|truth]]
 Thou art more full of grace and ruth  
 For the hopes of th world than the world that made them,  
 The world that murdered the loves of our youth.  
-	Thou art more kind to our [[Dreams|dreams]], Our Mother,  
-	Than the wise that wove us the [[Dreams|dreams]] for shade.  
-	God if more good to the gods that mocked Him  
-	Than men are good to the gods they made.  
-	Tenderer with toys than a boy grown brutal,  
-	Breaking the puppets with which he played.  
+Thou art more kind to our [[Dreams|dreams]], Our Mother,  
+Than the wise that wove us the [[Dreams|dreams]] for shade.  
+God if more good to the gods that mocked Him  
+Than men are good to the gods they made.  
+Tenderer with toys than a boy grown brutal,  
+Breaking the puppets with which he played.  
 
 What are the [[Flowers|flowers]] the [[Garden|garden]] guards not  
 And how but here should [[Dreams|dreams]] return?  
@@ -115,12 +115,12 @@ What is the [[Home|home]] of the heart set free,
 And where is the nesting of liberty,  
 And where from the world shall the world take shelter  
 And man be matter, and not with Thee?  
-	Wisdom is set in her throne of thunder,  
-	The [[Mirror]] of Justice  blinds the day--  
-	Where are the towers that are not of the [[City]],  
-	Trophies and trumpetings, where are they?  
-	Where over the maze of the world returning  
-	The bye-ways bend to the [[King]]'s highway.  
+Wisdom is set in her throne of thunder,  
+The [[Mirror]] of Justice  blinds the day--  
+Where are the towers that are not of the [[City]],  
+Trophies and trumpetings, where are they?  
+Where over the maze of the world returning  
+The bye-ways bend to the [[King]]'s highway.  
 
 --G.K.Chesterton
 
@@ -137,12 +137,12 @@ Senato, repubblica, impero, a tutto
 Appoggiammo le spalle come a un muro  
 E benedicemmo come forte e biasimammo come stolido--  
 Possono esser questi a vacillare e cadere?  
-	E cos'è questo come uno [[Ghost|Spettro]] che ritorna,  
-	[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
-	L'abbandonato da tutti, il non dimenticato,  
-	Il sempre-alle-spalle e fuori dalla vista.  
-	Volgemmo le spalle e la nostra cieca carne lo sentì  
-	Crescere e crescere, una torre in altezza.  
+E cos'è questo come uno [[Ghost|Spettro]] che ritorna,  
+[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
+L'abbandonato da tutti, il non dimenticato,  
+Il sempre-alle-spalle e fuori dalla vista.  
+Volgemmo le spalle e la nostra cieca carne lo sentì  
+Crescere e crescere, una torre in altezza.  
 
 Ah, non [[Alone|soltanto]] lo splendore malvagio  
 E non le armi insolenti [[Alone|soltanto]]  
@@ -168,12 +168,12 @@ E là dove la vedemmo sorridere nel potere
 Una statua come una torre stellata  
 il volto di pietra sogghigna come in un [[nightmare|incubo]]  
 Giù su un mondo che i vermi divorano.  
-	(Arcaiche incredibili morte albe che rompono  
-	Fonde nei deserti e nelle lande e nei boschi,  
-	Dove i morti gridano forte a Nostra Signora delle Vittorie,  
-	[[Queen|Regina]] delle Aquile, alta sopra gli scudi,  
-	E il sole è sorto sulla Legione Tonante  
-	Sulle strade di Roma verso i Campi di Battaglia.)  
+(Arcaiche incredibili morte albe che rompono  
+Fonde nei deserti e nelle lande e nei boschi,  
+Dove i morti gridano forte a Nostra Signora delle Vittorie,  
+[[Queen|Regina]] delle Aquile, alta sopra gli scudi,  
+E il sole è sorto sulla Legione Tonante  
+Sulle strade di Roma verso i Campi di Battaglia.)  
 
 Ah, chi avrebbe saputo, chi non avesse visto  
 Come lieve e improvvisa sulla fama  
@@ -183,12 +183,12 @@ E la cosa che mai avevo sognato potesse essere
 Nella [[house|casa]] dei miei padri venne a me  
 Attraverso la muraglia marina fenduta, la nuvola e il buio,  
 Una voce divisa, un mare incerto.  
-	(La luce è chiara sulla Torre di Davide,  
-	La sera  risplende della stella del mattino  
-	Nei cieli rivolti indietro e nei giorni che ritornano  
-	Ella cammina così vicina, lei che aveva errato lontano  
-	E nel cuore delle spade, sette volte ferita,  
-	Non fu mai stanca come lo sono i nostri cuori.)  
+(La luce è chiara sulla Torre di Davide,  
+La sera  risplende della stella del mattino  
+Nei cieli rivolti indietro e nei giorni che ritornano  
+Ella cammina così vicina, lei che aveva errato lontano  
+E nel cuore delle spade, sette volte ferita,  
+Non fu mai stanca come lo sono i nostri cuori.)  
 
 Come rapide, quasi con un cadere di [[Snow|neve]]  
 Le cose nuove incanutiscono alla luce.  
@@ -213,12 +213,12 @@ O tromba dell'intollerante [[Truth|Verità]]
 Tu sei più colmo di grazia e di pietà  
 Per le speranze del mondo che il mondo che le fece,  
 Il mondo che uccise gli amori della nostra giovinezza.  
-	Tu sei più benigno verso i nostri [[Dreams|Sogni]], Madre Nostra,  
-	Dei saggi che ci tesserono i [[Dreams|Sogni]] per ombra.  
-	Dio è più buono verso gli dèi che Lo schernirono  
-	Di quanto gli uomini siano buoni verso gli dèi che fecero.  
-	Più tenero coi balocchi di un fanciullo fattosi brutale,  
-	Che spezza i pupazzi con cui giocava.  
+Tu sei più benigno verso i nostri [[Dreams|Sogni]], Madre Nostra,  
+Dei saggi che ci tesserono i [[Dreams|Sogni]] per ombra.  
+Dio è più buono verso gli dèi che Lo schernirono  
+Di quanto gli uomini siano buoni verso gli dèi che fecero.  
+Più tenero coi balocchi di un fanciullo fattosi brutale,  
+Che spezza i pupazzi con cui giocava.  
 
 Quali sono i [[Flowers|Fiori]] che il [[Garden|Giardino]] non custodisce  
 E come, se non qui, potrebbero i [[Dreams|Sogni]] ritornare?  
@@ -228,12 +228,12 @@ Qual è la [[Home|Casa]] del cuore reso libero,
 E dov'è il nido della libertà,  
 E dove dal mondo potrà il mondo trovare riparo  
 E l'uomo essere materia, e non con Te?  
-	La Sapienza siede sul suo trono di tuono,  
-	Lo [[Mirror|Specchio]] della Giustizia  acceca il giorno--  
-	Dove sono le torri che non sono della [[City|Città]],  
-	Trofei e squilli di tromba, dove sono?  
-	Dove sopra il labirinto del mondo ritornando  
-	I sentieri secondari piegano verso la strada maestra del [[King|Re]].  
+La Sapienza siede sul suo trono di tuono,  
+Lo [[Mirror|Specchio]] della Giustizia  acceca il giorno--  
+Dove sono le torri che non sono della [[City|Città]],  
+Trofei e squilli di tromba, dove sono?  
+Dove sopra il labirinto del mondo ritornando  
+I sentieri secondari piegano verso la strada maestra del [[King|Re]].  
 
 --G.K.Chesterton
 
@@ -252,12 +252,12 @@ Senate, republic, empire, all
 We leaned our backs on like a wall  
 And blessed as stron as strong and blamed as stolid--  
 Can it be these that waver and fall?  
-	And what is this like a [[Ghost|ghost]] returning,  
-	[[A Dream|A dream]] grown strong in the strong daylight?  
-	The all-forsaken, the unforgotten,  
-	The ever-behind and out of sight.  
-	We turned our backs and our blind flesh felt it  
-	Growing and growing, a tower in height.  
+And what is this like a [[Ghost|ghost]] returning,  
+[[A Dream|A dream]] grown strong in the strong daylight?  
+The all-forsaken, the unforgotten,  
+The ever-behind and out of sight.  
+We turned our backs and our blind flesh felt it  
+Growing and growing, a tower in height.  
 
 Ah, not [[Alone|alone]] the evil splendour  
 And not the insolent arms [[Alone|alone]]  
@@ -283,12 +283,12 @@ And where we watched her smile in power
 A statue like a starry tower  
 the stone face sneers as in a [[nightmare]]  
 Down on a world that worms devour.  
-	(Archaic incredible dead dawns breaking  
-	Deep in the deserts and waste and wealds,  
-	Where the dead cry aloud on Our Lady of Victories,  
-	[[Queen]] of the Eagles, aloft on the shields,  
-	And the sun is gone up on the Thundering Legion  
-	On the roads of Rome to the Battlefields.)  
+(Archaic incredible dead dawns breaking  
+Deep in the deserts and waste and wealds,  
+Where the dead cry aloud on Our Lady of Victories,  
+[[Queen]] of the Eagles, aloft on the shields,  
+And the sun is gone up on the Thundering Legion  
+On the roads of Rome to the Battlefields.)  
 
 Ah, who had known who had not seen  
 How soft and sudden on the fame  
@@ -298,12 +298,12 @@ And the thing I never had dreamed could be
 In the [[house]] of my fathers came to me  
 Through the sea-wall cloven, the cloud and dark,  
 A voice divided, a doubtful sea.  
-	(The light is bright on the Tower of David,  
-	The evening  glows with the morning star  
-	In the skies turned back and the days returning  
-	She walks so near who had wandered far  
-	And in the heart of the swords, the seven times wounded,  
-	Was never wearied as our hearts are.)  
+(The light is bright on the Tower of David,  
+The evening  glows with the morning star  
+In the skies turned back and the days returning  
+She walks so near who had wandered far  
+And in the heart of the swords, the seven times wounded,  
+Was never wearied as our hearts are.)  
 
 How swift as with a fall of [[Snow|snow]]  
 New things grow hoary with the light.  
@@ -328,12 +328,12 @@ O trumpet of the intolerant [[Truth|truth]]
 Thou art more full of grace and ruth  
 For the hopes of th world than the world that made them,  
 The world that murdered the loves of our youth.  
-	Thou art more kind to our [[Dreams|dreams]], Our Mother,  
-	Than the wise that wove us the [[Dreams|dreams]] for shade.  
-	God if more good to the gods that mocked Him  
-	Than men are good to the gods they made.  
-	Tenderer with toys than a boy grown brutal,  
-	Breaking the puppets with which he played.  
+Thou art more kind to our [[Dreams|dreams]], Our Mother,  
+Than the wise that wove us the [[Dreams|dreams]] for shade.  
+God if more good to the gods that mocked Him  
+Than men are good to the gods they made.  
+Tenderer with toys than a boy grown brutal,  
+Breaking the puppets with which he played.  
 
 What are the [[Flowers|flowers]] the [[Garden|garden]] guards not  
 And how but here should [[Dreams|dreams]] return?  
@@ -343,12 +343,12 @@ What is the [[Home|home]] of the heart set free,
 And where is the nesting of liberty,  
 And where from the world shall the world take shelter  
 And man be matter, and not with Thee?  
-	Wisdom is set in her throne of thunder,  
-	The [[Mirror]] of Justice  blinds the day--  
-	Where are the towers that are not of the [[City]],  
-	Trophies and trumpetings, where are they?  
-	Where over the maze of the world returning  
-	The bye-ways bend to the [[King]]'s highway.  
+Wisdom is set in her throne of thunder,  
+The [[Mirror]] of Justice  blinds the day--  
+Where are the towers that are not of the [[City]],  
+Trophies and trumpetings, where are they?  
+Where over the maze of the world returning  
+The bye-ways bend to the [[King]]'s highway.  
 
 --G.K.Chesterton
 
@@ -365,12 +365,12 @@ Senato, repubblica, impero, a tutto
 Appoggiammo le spalle come a un muro  
 E benedicemmo come forte e biasimammo come stolido--  
 Possono esser questi a vacillare e cadere?  
-	E cos'è questo come uno [[Ghost|Spettro]] che ritorna,  
-	[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
-	L'abbandonato da tutti, il non dimenticato,  
-	Il sempre-alle-spalle e fuori dalla vista.  
-	Volgemmo le spalle e la nostra cieca carne lo sentì  
-	Crescere e crescere, una torre in altezza.  
+E cos'è questo come uno [[Ghost|Spettro]] che ritorna,  
+[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
+L'abbandonato da tutti, il non dimenticato,  
+Il sempre-alle-spalle e fuori dalla vista.  
+Volgemmo le spalle e la nostra cieca carne lo sentì  
+Crescere e crescere, una torre in altezza.  
 
 Ah, non [[Alone|soltanto]] lo splendore malvagio  
 E non le armi insolenti [[Alone|soltanto]]  
@@ -396,12 +396,12 @@ E là dove la vedemmo sorridere nel potere
 Una statua come una torre stellata  
 il volto di pietra sogghigna come in un [[nightmare|incubo]]  
 Giù su un mondo che i vermi divorano.  
-	(Arcaiche incredibili morte albe che rompono  
-	Fonde nei deserti e nelle lande e nei boschi,  
-	Dove i morti gridano forte a Nostra Signora delle Vittorie,  
-	[[Queen|Regina]] delle Aquile, alta sopra gli scudi,  
-	E il sole è sorto sulla Legione Tonante  
-	Sulle strade di Roma verso i Campi di Battaglia.)  
+(Arcaiche incredibili morte albe che rompono  
+Fonde nei deserti e nelle lande e nei boschi,  
+Dove i morti gridano forte a Nostra Signora delle Vittorie,  
+[[Queen|Regina]] delle Aquile, alta sopra gli scudi,  
+E il sole è sorto sulla Legione Tonante  
+Sulle strade di Roma verso i Campi di Battaglia.)  
 
 Ah, chi avrebbe saputo, chi non avesse visto  
 Come lieve e improvvisa sulla fama  
@@ -411,12 +411,12 @@ E la cosa che mai avevo sognato potesse essere
 Nella [[house|casa]] dei miei padri venne a me  
 Attraverso la muraglia marina fenduta, la nuvola e il buio,  
 Una voce divisa, un mare incerto.  
-	(La luce è chiara sulla Torre di Davide,  
-	La sera  risplende della stella del mattino  
-	Nei cieli rivolti indietro e nei giorni che ritornano  
-	Ella cammina così vicina, lei che aveva errato lontano  
-	E nel cuore delle spade, sette volte ferita,  
-	Non fu mai stanca come lo sono i nostri cuori.)  
+(La luce è chiara sulla Torre di Davide,  
+La sera  risplende della stella del mattino  
+Nei cieli rivolti indietro e nei giorni che ritornano  
+Ella cammina così vicina, lei che aveva errato lontano  
+E nel cuore delle spade, sette volte ferita,  
+Non fu mai stanca come lo sono i nostri cuori.)  
 
 Come rapide, quasi con un cadere di [[Snow|neve]]  
 Le cose nuove incanutiscono alla luce.  
@@ -441,12 +441,12 @@ O tromba dell'intollerante [[Truth|Verità]]
 Tu sei più colmo di grazia e di pietà  
 Per le speranze del mondo che il mondo che le fece,  
 Il mondo che uccise gli amori della nostra giovinezza.  
-	Tu sei più benigno verso i nostri [[Dreams|Sogni]], Madre Nostra,  
-	Dei saggi che ci tesserono i [[Dreams|Sogni]] per ombra.  
-	Dio è più buono verso gli dèi che Lo schernirono  
-	Di quanto gli uomini siano buoni verso gli dèi che fecero.  
-	Più tenero coi balocchi di un fanciullo fattosi brutale,  
-	Che spezza i pupazzi con cui giocava.  
+Tu sei più benigno verso i nostri [[Dreams|Sogni]], Madre Nostra,  
+Dei saggi che ci tesserono i [[Dreams|Sogni]] per ombra.  
+Dio è più buono verso gli dèi che Lo schernirono  
+Di quanto gli uomini siano buoni verso gli dèi che fecero.  
+Più tenero coi balocchi di un fanciullo fattosi brutale,  
+Che spezza i pupazzi con cui giocava.  
 
 Quali sono i [[Flowers|Fiori]] che il [[Garden|Giardino]] non custodisce  
 E come, se non qui, potrebbero i [[Dreams|Sogni]] ritornare?  
@@ -456,11 +456,11 @@ Qual è la [[Home|Casa]] del cuore reso libero,
 E dov'è il nido della libertà,  
 E dove dal mondo potrà il mondo trovare riparo  
 E l'uomo essere materia, e non con Te?  
-	La Sapienza siede sul suo trono di tuono,  
-	Lo [[Mirror|Specchio]] della Giustizia  acceca il giorno--  
-	Dove sono le torri che non sono della [[City|Città]],  
-	Trofei e squilli di tromba, dove sono?  
-	Dove sopra il labirinto del mondo ritornando  
-	I sentieri secondari piegano verso la strada maestra del [[King|Re]].  
+La Sapienza siede sul suo trono di tuono,  
+Lo [[Mirror|Specchio]] della Giustizia  acceca il giorno--  
+Dove sono le torri che non sono della [[City|Città]],  
+Trofei e squilli di tromba, dove sono?  
+Dove sopra il labirinto del mondo ritornando  
+I sentieri secondari piegano verso la strada maestra del [[King|Re]].  
 
 --G.K.Chesterton

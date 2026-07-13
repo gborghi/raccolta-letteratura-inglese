@@ -36,24 +36,24 @@ THE HELIOTYPE PRINTING CO. BOSTON]
 
 
 
-  THE WOUND DRESSER
+THE WOUND DRESSER
 
-  A Series of Letters
-  Written from the Hospitals in Washington
-  During the War of the Rebellion
-
-
-  By WALT WHITMAN
+A Series of Letters
+Written from the Hospitals in Washington
+During the War of the Rebellion
 
 
-  Edited by
-  RICHARD MAURICE BUCKE, M.D.
-  One of Whitman's Literary Executors
+By WALT WHITMAN
 
 
-  Boston
-  SMALL, MAYNARD & COMPANY
-  1898
+Edited by
+RICHARD MAURICE BUCKE, M.D.
+One of Whitman's Literary Executors
+
+
+Boston
+SMALL, MAYNARD & COMPANY
+1898
 
 
 
@@ -63,34 +63,34 @@ _Copyright, 1897, by Small, Maynard & Company_
 
 
 
-  _But in silence, in dreams' projections,
-  While the world of gain and appearance and mirth goes on,
-  So soon what is over forgotten, and waves wash the imprints off the
-      sand,
-  With hinged knees returning I enter the doors, (while for you up there,
-  Whoever you are, follow without noise and be of strong heart.)_
+_But in silence, in dreams' projections,
+While the world of gain and appearance and mirth goes on,
+So soon what is over forgotten, and waves wash the imprints off the
+sand,
+With hinged knees returning I enter the doors, (while for you up there,
+Whoever you are, follow without noise and be of strong heart.)_
 
-  _I onward go, I stop,
-  With hinged knees and steady hand to dress wounds,
-  I am firm with each, the pangs are sharp yet unavoidable,
-  One turns to me his appealing eyes--poor boy! I never knew you,
-  Yet I think I could not refuse this moment to die for you, if that would
-      save you._
+_I onward go, I stop,
+With hinged knees and steady hand to dress wounds,
+I am firm with each, the pangs are sharp yet unavoidable,
+One turns to me his appealing eyes--poor boy! I never knew you,
+Yet I think I could not refuse this moment to die for you, if that would
+save you._
 
-  _I am faithful, I do not give out,
-  The fractur'd thigh, the knee, the wound in the abdomen,
-  These and more I dress with impassive hand, (yet deep in my breast a
-      fire, a burning flame.)_
+_I am faithful, I do not give out,
+The fractur'd thigh, the knee, the wound in the abdomen,
+These and more I dress with impassive hand, (yet deep in my breast a
+fire, a burning flame.)_
 
-  _Thus in silence, in dreams' projections,
-  Returning, resuming, I thread my way through the hospitals,
-  The hurt and wounded I pacify with soothing hand,
-  I sit by the restless all the dark night, some are so young,
-  Some suffer so much, I recall the experience sweet and sad,
-  (Many a soldier's loving arms about this neck have cross'd and rested,
-  Many a soldier's kiss dwells on these bearded lips.)_
+_Thus in silence, in dreams' projections,
+Returning, resuming, I thread my way through the hospitals,
+The hurt and wounded I pacify with soothing hand,
+I sit by the restless all the dark night, some are so young,
+Some suffer so much, I recall the experience sweet and sad,
+(Many a soldier's loving arms about this neck have cross'd and rested,
+Many a soldier's kiss dwells on these bearded lips.)_
 
-  _The Wound Dresser._
+_The Wound Dresser._
 
 
 
@@ -143,17 +143,17 @@ R. M. B.
 CONTENTS
 
 
-                                        Page
+Page
 
-  THE GREAT ARMY OF THE WOUNDED            1
+THE GREAT ARMY OF THE WOUNDED            1
 
-  LIFE AMONG FIFTY THOUSAND SOLDIERS      11
+LIFE AMONG FIFTY THOUSAND SOLDIERS      11
 
-  HOSPITAL VISITS                         21
+HOSPITAL VISITS                         21
 
-  LETTERS OF 1862-3                       47
+LETTERS OF 1862-3                       47
 
-  LETTERS OF 1864                        143
+LETTERS OF 1864                        143
 
 
 
@@ -1263,7 +1263,7 @@ present, at any rate long enough to see if I can get any employment at
 anything, and shall write what luck I have. Of course I am unsettled at
 present. Dear mother; my love.
 
-    WALT.
+WALT.
 
 If Jeff or any writes, address me, care of Major Hapgood, paymaster, U. S.
 A. Army, Washington, D. C. I send my love to dear sister Mat,[5] and
@@ -1311,7 +1311,7 @@ awful--many of them day after day disappointed and tired out. Well, Mat, I
 will suspend my letter for the present, and go through the city--I have a
 couple of poor fellows in the hospital to visit also.
 
-    WALT.
+WALT.
 
 _Saturday evening, Jan. 3_ [1863.] I write this in the place where I have
 my lodging-room, 394 L street, 4th door above 14th street. A friend of
@@ -1359,7 +1359,7 @@ any of you can keep for direction, or use it when wanted to write to me.
 As near as I can tell, the army at Falmouth remains the same. Dear sister,
 good-bye.
 
-    WALT.
+WALT.
 
 I send my love to Andrew and Jesse and Eddy and all. What distressing news
 this is of the loss of the Monitor.[11]
@@ -1399,7 +1399,7 @@ Well, mother, I believe I will not fill out the sheet this time, as I want
 to go down without delay to the P. O. and send George's letter and this
 one. Good-bye, dear mother.
 
-    WALT.
+WALT.
 
 
 IV
@@ -1420,7 +1420,7 @@ need of their staying there, for any purpose. In some haste, dearest
 mother, as I am off to visit for an hour or so, one of my hospitals. Your
 affectionate son,
 
-    WALT.
+WALT.
 
 
 V
@@ -1558,7 +1558,7 @@ yarns to spin, when I come home. I am not a bit homesick, yet I should
 like to see you and Mat very, very much--one thinks of the women when he
 is away.
 
-    WALT.
+WALT.
 
 Shall send the shirts in a day or two.
 
@@ -1646,7 +1646,7 @@ Mother, if you or Mat was here a couple of days, you would cry your eyes
 out. I find I have to restrain myself and keep my composure--I succeed
 pretty well. Good-bye, dearest mother.
 
-    WALT.
+WALT.
 
 Jeff, Capt. Muller remains here yet for some time. He is bringing out his
 report. I shall try to send you a copy. Give my best respects to Dr.
@@ -1726,7 +1726,7 @@ love--and tell Mannahatta her Uncle Walt is living now among the sick
 soldiers. Jeff, look out for the _Eagles_, and send the portraits.
 Dearest mother, I must bid you and all for the present good-bye.
 
-    WALT.
+WALT.
 
 
 IX
@@ -1832,7 +1832,7 @@ Hooker is already reaching after them again--I myself do not give up
 Hooker yet. Dear mother, I should like to hear from Han, poor Han. I send
 my best love to sister Mat and all. Good-bye, dearest mother.
 
-    WALT.
+WALT.
 
 
 XI
@@ -1899,7 +1899,7 @@ you my love, dear sister. Mother, I hope by all means it will be possible
 to keep the money whole to get some ranch next spring, if not before; I
 mean to come home and build it. Good-bye for the present, dear mother.
 
-    WALT.
+WALT.
 
 
 XII
@@ -1951,7 +1951,7 @@ and as many of the standing figure; do them up flat. I think every day
 about Martha. Mother, have you heard any further about Han? Good-bye for
 the present, dearest mother.
 
-    WALT.
+WALT.
 
 
 XIII
@@ -2051,7 +2051,7 @@ would like to inaugurate a plan by which I could raise means on my own
 hook, and perhaps quite plenty too. Best love to you, dearest mother, and
 to sister Mat, and Jeff.
 
-    WALT.
+WALT.
 
 
 XIV
@@ -2100,7 +2100,7 @@ Dear, dear mother, I want much to see you, and dear Matty too; I send you
 both my best love, and Jeff too. The pictures came--I have not heard from
 George nor Han. I write a day earlier than usual.
 
-    WALT.
+WALT.
 
 We here think Vicksburg is ours. The probability is that it has
 capitulated--and there has been no general assault--can't tell yet whether
@@ -2242,7 +2242,7 @@ course but to resign oneself to events--if one can only bring one's mind
 to it. Good-bye once more, for the present, dearest mother, Mat, and the
 dear little ones.
 
-    WALT.
+WALT.
 
 Mother, do you ever hear from Mary?[16]
 
@@ -2306,7 +2306,7 @@ George's letter--if you or Jeff has not written this week, I hope Jeff
 will write on receiving this. Good-bye for present, dearest mother, and
 Jeff, and Mat.
 
-    WALT.
+WALT.
 
 Mother, the army is to be paid off two months more, right away. Of course
 George will get two months more pay. Dear Mother, I hope you will keep
@@ -2386,7 +2386,7 @@ Jess, is he about the same? I suppose Will Brown is home all right; tell
 him I spoke about him, and the Browns too. Dearest Mother, I send you my
 love, and to Jeff too--must write when you can.
 
-    WALT.
+WALT.
 
 
 XIX
@@ -2455,7 +2455,7 @@ cut up. Mother, I am scribbling this hastily in Major Hapgood's office; it
 is not so hot to-day, quite endurable. I send you my love, dear mother,
 and to all, and wish Jeff and you to write as often as you can.
 
-    WALT.
+WALT.
 
 
 XX
@@ -2520,7 +2520,7 @@ hope by next week this time we shall be in possession of Charleston--some
 papers say Burnside is moving for Knoxville, but it is doubtful--I think
 the 9th Corps might take a rest awhile, anyhow. Good-bye, mother.
 
-    WALT.
+WALT.
 
 
 XXI
@@ -2579,7 +2579,7 @@ you, mother; I sometimes feel as if I should just get in the cars and come
 home--and the baby too, you must always write about her. Dear mother,
 good-bye for present.
 
-    WALT.
+WALT.
 
 
 XXII
@@ -2643,7 +2643,7 @@ has entirely healed. I go to hospital every day or night--I believe no men
 ever loved each other as I and some of these poor wounded sick and dying
 men love each other. Good-bye, dearest mother, for present.
 
-    WALT.
+WALT.
 
 _Tuesday afternoon._ Mother, it seems to be certain that Meade has gained
 the day, and that the battles there in Pennsylvania have been about as
@@ -2701,7 +2701,7 @@ camp ground. O Matty, I have just thought of you--dear sister, how are
 you getting along? Jeff, I will write you truly. Good-bye for the
 present, dearest mother, and all.
 
-    WALT.
+WALT.
 
 
 XXIII
@@ -2797,7 +2797,7 @@ hope is a help and comfort to her grandmother). Well, I must scratch off
 in a hurry, for it is nearly an hour [later] than I thought. Good-bye for
 the present, dear mother.
 
-    WALT.
+WALT.
 
 
 XXIV
@@ -2861,7 +2861,7 @@ goes; and as the darkey said there at Charleston when the boat run on a
 flat and the Reb sharpshooters were peppering them, "somebody must jump in
 de water and shove de boat off."
 
-    WALT.
+WALT.
 
 
 XXV
@@ -2944,7 +2944,7 @@ three weeks past; will try to yet, so it will reach you for Sunday
 reading--so good-bye, Jeff, and good-bye for present, mother dear, and
 all, and tell Andrew he must not be discouraged yet.
 
-    WALT.
+WALT.
 
 
 XXVI
@@ -3049,7 +3049,7 @@ Well, I will close--the rain is pouring, the sky leaden, it is between 2
 and 3. I am going to get some dinner, and then to the hospital. Good-bye,
 dear friends, and I send my love to all.
 
-    WALT.
+WALT.
 
 
 XXVII
@@ -3095,7 +3095,7 @@ Mat, you must write. I am about moving. I have been hunting for a room
 to-day--I shall [write] next [time] how I succeed. Good-bye for present,
 dear mother.
 
-    WALT.
+WALT.
 
 
 XXVIII
@@ -3183,7 +3183,7 @@ troubles, to take hold of you; write a few lines whenever you can; tell me
 exactly how things are. Mother, I am first rate and well--only a little of
 that deafness again. Good-bye for present.
 
-    WALT.
+WALT.
 
 
 XXIX
@@ -3264,7 +3264,7 @@ since Gettysburg. Well, dear, dear mother, I will draw to a close. Andrew
 and Jeff and all, I send you my love. Good-bye, dear mother and dear Matty
 and all hands.
 
-    WALT.
+WALT.
 
 
 XXX
@@ -3305,7 +3305,7 @@ still at Crab Orchard.
 Mother, I hope you will try to write. I send you my love, and to Jeff and
 Mat and all--so good-bye, dear mother.
 
-    WALT.
+WALT.
 
 
 
@@ -3388,7 +3388,7 @@ three or four hours a day copying. Dear mother, I send you and Hattie my
 love, as you say she is a dear little girl. Mother, try to write every
 week, even if only a few lines. Love to George and Jeff and Mat.
 
-    WALT.
+WALT.
 
 
 II
@@ -3420,7 +3420,7 @@ that he (the sick man) had not eat so much at a meal in three months.
 Mother, I shall have my hands pretty full now for a while--write all about
 things home.
 
-    WALT.
+WALT.
 
 Lewis Brown says I must give you his love--he says he knows he would like
 you if he should see you.
@@ -3452,7 +3452,7 @@ spirits, and Jeff and Mat and all, and dear little California and
 Hattie--I send them all my love. Mother, I may write to you from down in
 front--so good-bye, dear mother, for present.
 
-    WALT.
+WALT.
 
 I hope I shall find several letters waiting for me when I get back here.
 
@@ -3528,7 +3528,7 @@ region; makes a good officer. Mother, I could get no pen and ink to-night.
 Well, dear mother, I send you my love, and to George and Jeff and Mat and
 little girls and all.
 
-    WALT.
+WALT.
 
 Direct to care of Major Hapgood as before, and write soon. Mother, I
 suppose you got a letter I wrote from down here last Monday.
@@ -3572,7 +3572,7 @@ I do, I shall for the main thing devote myself for years to come to these
 wounded and sick, what little I can. Well, good-bye, dear mother, for
 present--write soon.
 
-    WALT.
+WALT.
 
 
 VI
@@ -3608,7 +3608,7 @@ charge over them--so cold and ceremonious, afraid to touch them. Well,
 mother, I fear I have written you a flighty kind of a letter--I write in
 haste.
 
-    WALT.
+WALT.
 
 The papers came right, mother--love to Jeff, Mat, and all.
 
@@ -3652,7 +3652,7 @@ lines. What have you heard from Mary and her family, anything? Well, dear
 mother, I hope this will find you quite well of the pain, and of the
 cold--write about the little girls and Mat and all.
 
-    WALT.
+WALT.
 
 
 VIII
@@ -3697,7 +3697,7 @@ every day, I get almost frightened at the world. Mother, I will try to
 write more cheerfully next time--but I see so much. Well, good-bye for
 present, dear mother.
 
-    WALT.
+WALT.
 
 
 IX
@@ -3729,7 +3729,7 @@ from front. The country here is all mad again. I am going to a
 spiritualist medium this evening--I expect it will be a humbug, of course.
 I will tell you next letter. Dear mother, keep a good heart.
 
-    WALT.
+WALT.
 
 How is California? Tell Hat her Uncle Walt will come home one of these
 days, and take her to New York to walk in Broadway. Poor little Jim, I
@@ -3782,7 +3782,7 @@ butter. I write this in my room, 456 Sixth st. The storm seems to be over.
 Dear mother, I hope you are well and in good spirits--write to me often as
 you can, and Jeff too. Any news from Han?
 
-    WALT.
+WALT.
 
 
 XI
@@ -3833,7 +3833,7 @@ rate every way. I want to come on in a month and try to print my
 "Drum-Taps." I think it may be a success pecuniarily, too. Dearest mother,
 I hope this will find you entirely well, and dear sister Mat and all.
 
-    WALT.
+WALT.
 
 
 XII
@@ -3875,7 +3875,7 @@ chance--calling in their forces from Southwest, etc. Dear mother, give my
 love to dear brother Jeff and Mat and all. I write this in my room, 6th
 st.
 
-    WALT.
+WALT.
 
 
 XIII
@@ -3948,7 +3948,7 @@ soldier his breakfast with me. He relished it, too; he has just gone.
 Mother, I have just heard again that Burnside's troops are to be a reserve
 to protect Washington, so there may be something in it.
 
-    WALT.
+WALT.
 
 It is very fine weather here yesterday and to-day. The hospitals are very
 full; they are putting up hundreds of hospital tents.
@@ -3982,7 +3982,7 @@ He sent me some money last Monday. Is Probasco still in the store in
 N. Y.? Dear sister Mat, I quite want to see you and California, not
 forgetting my little Hattie, too.
 
-    WALT.
+WALT.
 
 _2 o'clock, 28th April._ DEAREST MOTHER--Just as I was going to mail this
 I received authentic information [that] Burnside's army is now about 16 or
@@ -4003,7 +4003,7 @@ and then go back to hospital again in evening.
 
 Good bye, dear mother and all.
 
-    WALT.
+WALT.
 
 
 XV
@@ -4063,7 +4063,7 @@ having a very pleasant, coolish day here. I am going down to post office
 to leave this, and then up to my old friends the O'Connors to dinner, and
 then down to hospital. Well, good-bye, dear mother, for present.
 
-    WALT.
+WALT.
 
 _Tuesday afternoon, 3 o'clock._ Mother, just as I was going to seal my
 letter, Major Hapgood has come in from the P. O. and brings me a few lines
@@ -4096,7 +4096,7 @@ Richmond--(I hope to go there yet before the hot weather is past). Dear
 mother, I hope you are well, and little California--love to Jeff and Mat
 and all.
 
-    WALT.
+WALT.
 
 Mother, you ought to get this letter Saturday forenoon, as it will be in
 N. Y. by sunrise Saturday, 7th.
@@ -4129,7 +4129,7 @@ But of course time only can develope what will happen. Mother, I will
 write again Wednesday, or before, if I hear anything to write. Love to
 Jeff and Mat and all.
 
-    WALT.
+WALT.
 
 
 XVIII
@@ -4157,7 +4157,7 @@ racked through the long journey up here. Still, many come in here. Mother,
 my impression is that we have no great reason for alarm or sadness about
 George so far. Of course I _know_ nothing. Well, good-bye, dearest mother.
 
-    WALT.
+WALT.
 
 Mother, I wrote you yesterday, too. Tell dear brother Jeff to write me.
 Love to Mat. The poor diarrhoea man died, and it was a boon. Oscar
@@ -4183,7 +4183,7 @@ Gendre is wounded--he was shot through the bridge of nose.
 Mother, you ought to get this Friday forenoon, 13th. I will write again
 soon. Wrote once before to-day.
 
-    WALT.
+WALT.
 
 
 XX
@@ -4236,7 +4236,7 @@ and that we shall have Richmond--but O what a price to pay for it. We have
 had a good rain here and it is pleasanter and cooler. I shall write very
 soon again.
 
-    WALT.
+WALT.
 
 
 XXI
@@ -4260,7 +4260,7 @@ How I want to see Jeff, too--O, it is too bad I have not written to him so
 long--and Mat, too, and little California and all. I am going out now a
 little while. I remain first rate, as well as ever.
 
-    WALT.
+WALT.
 
 
 XXII
@@ -4318,7 +4318,7 @@ probably they will not refuse to stay another hundred. Jeff, tell mother I
 shall write Wednesday certain (or if I hear anything I will write
 to-morrow). I still think we shall get Richmond.
 
-    WALT.
+WALT.
 
 Jeff, you must take this up to mother as soon as you go home. Jeff, I have
 changed my quarters. I moved Saturday last. I am now at 502 Pennsylvania
@@ -4380,7 +4380,7 @@ how I want to see you all--I will surely have to come home as soon as this
 Richmond campaign is decided--then I want to print my new book. Love to
 Mat--write to a fellow often as you can.
 
-    WALT.
+WALT.
 
 
 XXIV
@@ -4416,7 +4416,7 @@ upon it--but I give them and let them smoke. To others I have given
 oranges, fed them, etc. Well, dear mother, good-bye--love to Matty and
 Sis.
 
-    WALT.
+WALT.
 
 Fred McReady is coming home very soon on furlough--have any of the
 soldiers called on you?
@@ -4465,7 +4465,7 @@ of either of them. Each was a very, very sad case, so young. Well mother,
 I see I have written you another gloomy sort of letter. I do not feel as
 first rate as usual.
 
-    WALT.
+WALT.
 
 You don't know how I want to come home and see you all; you, dear mother,
 and Jeff and Mat and all. I believe I am homesick--something new for
@@ -4539,7 +4539,7 @@ remain here until this Richmond campaign is settled, anyhow, unless I get
 sick, and I don't anticipate that. Mother dear, I hope you are well and in
 fair spirits--you must try to. Have you heard from sister Han?
 
-    WALT.
+WALT.
 
 You know I am living at 502 Pennsylvania av. (near 3d st.)--it is not a
 very good place. I don't like it so well as I did cooking my own grub--and
@@ -4577,7 +4577,7 @@ Jeff the $10 from Mr. Lane for the soldiers came safe. I shall write to
 Jeff right away. I send my love to Mat and all. Mother, you must try to
 keep good heart.
 
-    WALT.
+WALT.
 
 
 XXVIII
@@ -4603,7 +4603,7 @@ the papers. We are having quite cool weather here. Mother, I want to see
 you and Jeff so much. I have been working a little at copying, but have
 stopt it lately.
 
-    WALT.
+WALT.
 
 
 XXIX
@@ -4622,7 +4622,7 @@ happen to George).
 
 We don't hear anything more of the army than you do there in the papers.
 
-    WALT.
+WALT.
 
 Mother, if I should come I will write a day or so before.
 
@@ -4660,18 +4660,18 @@ he did even better._
 _R. M. B._
 
 
-  _As at thy portals also death,
-  Entering thy sovereign, dim, illimitable grounds,
-  To memories of my mother, to the divine blending, maternity,
-  To her, buried and gone, yet buried not, gone not from me,
-  (I see again the calm benignant face fresh and beautiful still,
-  I sit by the form in the coffin,
-  I kiss and kiss convulsively again the sweet old lips, the cheeks, the
-      closed eyes in the coffin;)
-  To her, the ideal woman, practical, spiritual, of all of earth, life,
-      love, to me the best,
-  I grave a monumental line, before I go, amid these songs,
-  And set a tombstone here._
+_As at thy portals also death,
+Entering thy sovereign, dim, illimitable grounds,
+To memories of my mother, to the divine blending, maternity,
+To her, buried and gone, yet buried not, gone not from me,
+(I see again the calm benignant face fresh and beautiful still,
+I sit by the form in the coffin,
+I kiss and kiss convulsively again the sweet old lips, the cheeks, the
+closed eyes in the coffin;)
+To her, the ideal woman, practical, spiritual, of all of earth, life,
+love, to me the best,
+I grave a monumental line, before I go, amid these songs,
+And set a tombstone here._
 
 
 _Printed by John Wilson and Son, at the University Press, Cambridge,
@@ -4762,7 +4762,7 @@ End of the Project Gutenberg EBook of The Wound Dresser, by Walt Whitman
 
 
 
-<span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="Story 01 story edifices sometimes ranged along in" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="story edifices sometimes ranged along in" data-kind="story"></span>
 
 
 one-story edifices, sometimes ranged along in a row, with their heads to
@@ -4894,7 +4894,7 @@ Of course I did not forget him, for he was a young fellow to interest any
 
 
 
-<span class="atom-split" data-atom="story_02_he_remained_very_sick_vomiting_much_ever" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — He remained very sick--vomiting much every day, frequent diarrhoea," data-chapter="Story 02 He remained very sick vomiting much ever" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_he_remained_very_sick_vomiting_much_ever" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — He remained very sick--vomiting much every day, frequent diarrhoea," data-chapter="He remained very sick vomiting much ever" data-kind="story"></span>
 
 
 one. He remained very sick--vomiting much every day, frequent diarrhoea,
@@ -5075,7 +5075,7 @@ pretty bad, but now better. Occasionally I meet some of the Brooklyn
 
 
 
-<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 1)" data-chapter="Story 03 In Ward E of Armory hospital I found a m" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 1)" data-chapter="In Ward E of Armory hospital I found a m" data-kind="excerpt"></span>
 
 
 Fourteenth. In Ward E of Armory hospital I found a member of Company C of
@@ -5187,7 +5187,7 @@ contest.
 
 
 
-<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 2)" data-chapter="Story 03 In Ward E of Armory hospital I found a m" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 2)" data-chapter="In Ward E of Armory hospital I found a m" data-kind="excerpt"></span>
 
 
 Began my visits (December 21, 1862) among the camp hospitals in the Army
@@ -5308,7 +5308,7 @@ mostly paid, envelopes, of which the men were much in need; also a
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 1)" data-chapter="Story 04 pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 1)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
 
 
 four-pound bag of gingersnaps I bought at a baker's in Seventh street.
@@ -5419,7 +5419,7 @@ cheer them up.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 2)" data-chapter="Story 04 pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 2)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
 
 
 My note-books are full of memoranda of the cases of this summer, and the
@@ -5530,7 +5530,7 @@ wounded and sick.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 3)" data-chapter="Story 04 pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 3)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
 
 
 These wards are either lettered alphabetically, Ward G, Ward K, or else
@@ -5648,7 +5648,7 @@ ceremony.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 4)" data-chapter="Story 04 pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 4)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
 
 
 Through Fourteenth street to the river, and then over the long bridge and
@@ -5769,7 +5769,7 @@ immense good to the sick and wounded.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 5)" data-chapter="Story 04 pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 5)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
 
 
 To those who might be interested in knowing it, I must add, in conclusion,
@@ -5878,7 +5878,7 @@ present, at any rate long enough to see if I can get any employment at
 anything, and shall write what luck I have. Of course I am unsettled at
 present. Dear mother; my love.
 
-    WALT.
+WALT.
 
 If Jeff or any writes, address me, care of Major Hapgood, paymaster, U. S.
 A. Army, Washington, D. C. I send my love to dear sister Mat,[5] and
@@ -5889,7 +5889,7 @@ George.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 6)" data-chapter="Story 04 pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 6)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
 
 
 II
@@ -5931,7 +5931,7 @@ awful--many of them day after day disappointed and tired out. Well, Mat, I
 will suspend my letter for the present, and go through the city--I have a
 couple of poor fellows in the hospital to visit also.
 
-    WALT.
+WALT.
 
 _Saturday evening, Jan. 3_ [1863.] I write this in the place where I have
 my lodging-room, 394 L street, 4th door above 14th street. A friend of
@@ -5979,7 +5979,7 @@ any of you can keep for direction, or use it when wanted to write to me.
 As near as I can tell, the army at Falmouth remains the same. Dear sister,
 good-bye.
 
-    WALT.
+WALT.
 
 I send my love to Andrew and Jesse and Eddy and all. What distressing news
 this is of the loss of the Monitor.[11]
@@ -6021,12 +6021,12 @@ to go down without delay to the P. O. and send George's letter and this
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 1)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 1)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 one. Good-bye, dear mother.
 
-    WALT.
+WALT.
 
 
 IV
@@ -6047,7 +6047,7 @@ need of their staying there, for any purpose. In some haste, dearest
 mother, as I am off to visit for an hour or so, one of my hospitals. Your
 affectionate son,
 
-    WALT.
+WALT.
 
 
 V
@@ -6126,7 +6126,7 @@ French style--well, enough for a New York.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 2)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 2)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 VI
@@ -6190,7 +6190,7 @@ yarns to spin, when I come home. I am not a bit homesick, yet I should
 like to see you and Mat very, very much--one thinks of the women when he
 is away.
 
-    WALT.
+WALT.
 
 Shall send the shirts in a day or two.
 
@@ -6244,7 +6244,7 @@ or Mat goes down there you take this and show him.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 3)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 3)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 Mat, I am quite glad to hear that you are not hurried and fretted with
@@ -6284,7 +6284,7 @@ Mother, if you or Mat was here a couple of days, you would cry your eyes
 out. I find I have to restrain myself and keep my composure--I succeed
 pretty well. Good-bye, dearest mother.
 
-    WALT.
+WALT.
 
 Jeff, Capt. Muller remains here yet for some time. He is bringing out his
 report. I shall try to send you a copy. Give my best respects to Dr.
@@ -6354,7 +6354,7 @@ difference.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 4)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 4)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 Matty, I send you my best love, dear sister--how I wish I could be with
@@ -6370,7 +6370,7 @@ love--and tell Mannahatta her Uncle Walt is living now among the sick
 soldiers. Jeff, look out for the _Eagles_, and send the portraits.
 Dearest mother, I must bid you and all for the present good-bye.
 
-    WALT.
+WALT.
 
 
 IX
@@ -6479,10 +6479,10 @@ my best love to sister Mat and all. Good-bye, dearest mother.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 5)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 5)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 
 XI
@@ -6549,7 +6549,7 @@ you my love, dear sister. Mother, I hope by all means it will be possible
 to keep the money whole to get some ranch next spring, if not before; I
 mean to come home and build it. Good-bye for the present, dear mother.
 
-    WALT.
+WALT.
 
 
 XII
@@ -6599,7 +6599,7 @@ Campbell hospital, out a couple of miles.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 6)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 6)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 Mother, I should like to have Jeff send me 20 of the large-sized portraits
@@ -6607,7 +6607,7 @@ and as many of the standing figure; do them up flat. I think every day
 about Martha. Mother, have you heard any further about Han? Good-bye for
 the present, dearest mother.
 
-    WALT.
+WALT.
 
 
 XIII
@@ -6710,10 +6710,10 @@ to sister Mat, and Jeff.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_07" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 7)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_07" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 7)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 
 XIV
@@ -6762,7 +6762,7 @@ Dear, dear mother, I want much to see you, and dear Matty too; I send you
 both my best love, and Jeff too. The pictures came--I have not heard from
 George nor Han. I write a day earlier than usual.
 
-    WALT.
+WALT.
 
 We here think Vicksburg is ours. The probability is that it has
 capitulated--and there has been no general assault--can't tell yet whether
@@ -6826,7 +6826,7 @@ anyone. I am let to take my own course.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_08" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 8)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_08" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 8)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 Well, mother, I suppose you folks think we are in a somewhat dubious
@@ -6910,7 +6910,7 @@ course but to resign oneself to events--if one can only bring one's mind
 to it. Good-bye once more, for the present, dearest mother, Mat, and the
 dear little ones.
 
-    WALT.
+WALT.
 
 Mother, do you ever hear from Mary?[16]
 
@@ -6964,7 +6964,7 @@ as if I _must_ come home and see you all--I want to very much.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_09" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 9)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_09" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 9)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 My hospital life still continues the same--I was in Armory all day
@@ -6980,7 +6980,7 @@ George's letter--if you or Jeff has not written this week, I hope Jeff
 will write on receiving this. Good-bye for present, dearest mother, and
 Jeff, and Mat.
 
-    WALT.
+WALT.
 
 Mother, the army is to be paid off two months more, right away. Of course
 George will get two months more pay. Dear Mother, I hope you will keep
@@ -7060,7 +7060,7 @@ Jess, is he about the same? I suppose Will Brown is home all right; tell
 him I spoke about him, and the Browns too. Dearest Mother, I send you my
 love, and to Jeff too--must write when you can.
 
-    WALT.
+WALT.
 
 
 XIX
@@ -7090,7 +7090,7 @@ up for me--if I knew their street and number I should write.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_10" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 10)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_10" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 10)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
 It has been awful hot here now for twenty-one days; ain't that a spell of
@@ -7135,7 +7135,7 @@ cut up. Mother, I am scribbling this hastily in Major Hapgood's office; it
 is not so hot to-day, quite endurable. I send you my love, dear mother,
 and to all, and wish Jeff and you to write as often as you can.
 
-    WALT.
+WALT.
 
 
 XX
@@ -7203,10 +7203,10 @@ the 9th Corps might take a rest awhile, anyhow. Good-bye, mother.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_11" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 11)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_11" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 11)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 
 XXI
@@ -7265,7 +7265,7 @@ you, mother; I sometimes feel as if I should just get in the cars and come
 home--and the baby too, you must always write about her. Dear mother,
 good-bye for present.
 
-    WALT.
+WALT.
 
 
 XXII
@@ -7332,10 +7332,10 @@ men love each other. Good-bye, dearest mother, for present.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_12" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 12)" data-chapter="Story 05 Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_12" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 12)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 _Tuesday afternoon._ Mother, it seems to be certain that Meade has gained
 the day, and that the battles there in Pennsylvania have been about as
@@ -7393,7 +7393,7 @@ camp ground. O Matty, I have just thought of you--dear sister, how are
 you getting along? Jeff, I will write you truly. Good-bye for the
 present, dearest mother, and all.
 
-    WALT.
+WALT.
 
 
 XXIII
@@ -7408,7 +7408,7 @@ managed splendidly so far, his taking Knoxville and all together--it is a
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 1)" data-chapter="Story 06 class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 1)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
 
 
 first-class success. I have known Tennessee Union men here in hospital,
@@ -7496,7 +7496,7 @@ hope is a help and comfort to her grandmother). Well, I must scratch off
 in a hurry, for it is nearly an hour [later] than I thought. Good-bye for
 the present, dear mother.
 
-    WALT.
+WALT.
 
 
 XXIV
@@ -7517,7 +7517,7 @@ makes me feel bad.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 2)" data-chapter="Story 06 class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 2)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
 
 
 Mother, we are having perfect weather here nowadays, both night and day.
@@ -7566,7 +7566,7 @@ goes; and as the darkey said there at Charleston when the boat run on a
 flat and the Reb sharpshooters were peppering them, "somebody must jump in
 de water and shove de boat off."
 
-    WALT.
+WALT.
 
 
 XXV
@@ -7652,10 +7652,10 @@ all, and tell Andrew he must not be discouraged yet.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 3)" data-chapter="Story 06 class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 3)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 
 XXVI
@@ -7763,10 +7763,10 @@ dear friends, and I send my love to all.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 4)" data-chapter="Story 06 class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 4)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 
 XXVII
@@ -7812,7 +7812,7 @@ Mat, you must write. I am about moving. I have been hunting for a room
 to-day--I shall [write] next [time] how I succeed. Good-bye for present,
 dear mother.
 
-    WALT.
+WALT.
 
 
 XXVIII
@@ -7903,10 +7903,10 @@ that deafness again. Good-bye for present.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 5)" data-chapter="Story 06 class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 5)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 
 XXIX
@@ -7987,7 +7987,7 @@ since Gettysburg. Well, dear, dear mother, I will draw to a close. Andrew
 and Jeff and all, I send you my love. Good-bye, dear mother and dear Matty
 and all hands.
 
-    WALT.
+WALT.
 
 
 XXX
@@ -8013,7 +8013,7 @@ is now editor of the _Eagle_, and is very friendly to me.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 6)" data-chapter="Story 06 class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 6)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
 
 
 Mother, I am quite well. I have been out this morning early, went down
@@ -8034,7 +8034,7 @@ still at Crab Orchard.
 Mother, I hope you will try to write. I send you my love, and to Jeff and
 Mat and all--so good-bye, dear mother.
 
-    WALT.
+WALT.
 
 
 
@@ -8107,7 +8107,7 @@ scenes--I was mentioning that I had a great desire to be present at a
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 1)" data-chapter="Story 07 class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 1)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
 
 
 first-class battle; he told me if I would only stay around here three or
@@ -8124,7 +8124,7 @@ three or four hours a day copying. Dear mother, I send you and Hattie my
 love, as you say she is a dear little girl. Mother, try to write every
 week, even if only a few lines. Love to George and Jeff and Mat.
 
-    WALT.
+WALT.
 
 
 II
@@ -8156,7 +8156,7 @@ that he (the sick man) had not eat so much at a meal in three months.
 Mother, I shall have my hands pretty full now for a while--write all about
 things home.
 
-    WALT.
+WALT.
 
 Lewis Brown says I must give you his love--he says he knows he would like
 you if he should see you.
@@ -8188,7 +8188,7 @@ spirits, and Jeff and Mat and all, and dear little California and
 Hattie--I send them all my love. Mother, I may write to you from down in
 front--so good-bye, dear mother, for present.
 
-    WALT.
+WALT.
 
 I hope I shall find several letters waiting for me when I get back here.
 
@@ -8235,7 +8235,7 @@ gets too deeply seated.
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 2)" data-chapter="Story 07 class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 2)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
 
 
 To-day I have been out among some of the camps of the 2nd division of the
@@ -8270,7 +8270,7 @@ region; makes a good officer. Mother, I could get no pen and ink to-night.
 Well, dear mother, I send you my love, and to George and Jeff and Mat and
 little girls and all.
 
-    WALT.
+WALT.
 
 Direct to care of Major Hapgood as before, and write soon. Mother, I
 suppose you got a letter I wrote from down here last Monday.
@@ -8314,7 +8314,7 @@ I do, I shall for the main thing devote myself for years to come to these
 wounded and sick, what little I can. Well, good-bye, dear mother, for
 present--write soon.
 
-    WALT.
+WALT.
 
 
 VI
@@ -8353,10 +8353,10 @@ haste.
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 3)" data-chapter="Story 07 class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 3)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 The papers came right, mother--love to Jeff, Mat, and all.
 
@@ -8400,7 +8400,7 @@ lines. What have you heard from Mary and her family, anything? Well, dear
 mother, I hope this will find you quite well of the pain, and of the
 cold--write about the little girls and Mat and all.
 
-    WALT.
+WALT.
 
 
 VIII
@@ -8445,7 +8445,7 @@ every day, I get almost frightened at the world. Mother, I will try to
 write more cheerfully next time--but I see so much. Well, good-bye for
 present, dear mother.
 
-    WALT.
+WALT.
 
 
 IX
@@ -8472,7 +8472,7 @@ with, too.
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 4)" data-chapter="Story 07 class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 4)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
 
 
 Well, mother, you must not worry about the grocery bill, etc., though I
@@ -8483,7 +8483,7 @@ from front. The country here is all mad again. I am going to a
 spiritualist medium this evening--I expect it will be a humbug, of course.
 I will tell you next letter. Dear mother, keep a good heart.
 
-    WALT.
+WALT.
 
 How is California? Tell Hat her Uncle Walt will come home one of these
 days, and take her to New York to walk in Broadway. Poor little Jim, I
@@ -8536,7 +8536,7 @@ butter. I write this in my room, 456 Sixth st. The storm seems to be over.
 Dear mother, I hope you are well and in good spirits--write to me often as
 you can, and Jeff too. Any news from Han?
 
-    WALT.
+WALT.
 
 
 XI
@@ -8570,7 +8570,7 @@ skirmish. It cost three men's lives, just to get one little flag, four by
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 1)" data-chapter="Story 08 Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 1)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
 
 
 three. Our men rescued it, and tore it from the breast of a dead
@@ -8594,7 +8594,7 @@ rate every way. I want to come on in a month and try to print my
 "Drum-Taps." I think it may be a success pecuniarily, too. Dearest mother,
 I hope this will find you entirely well, and dear sister Mat and all.
 
-    WALT.
+WALT.
 
 
 XII
@@ -8636,7 +8636,7 @@ chance--calling in their forces from Southwest, etc. Dear mother, give my
 love to dear brother Jeff and Mat and all. I write this in my room, 6th
 st.
 
-    WALT.
+WALT.
 
 
 XIII
@@ -8697,7 +8697,7 @@ You don't see about it in the papers, but we have a very large army here.
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 2)" data-chapter="Story 08 Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 2)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
 
 
 Mother, I am first rate in health, thank God; I never was better. Dear
@@ -8715,7 +8715,7 @@ soldier his breakfast with me. He relished it, too; he has just gone.
 Mother, I have just heard again that Burnside's troops are to be a reserve
 to protect Washington, so there may be something in it.
 
-    WALT.
+WALT.
 
 It is very fine weather here yesterday and to-day. The hospitals are very
 full; they are putting up hundreds of hospital tents.
@@ -8749,7 +8749,7 @@ He sent me some money last Monday. Is Probasco still in the store in
 N. Y.? Dear sister Mat, I quite want to see you and California, not
 forgetting my little Hattie, too.
 
-    WALT.
+WALT.
 
 _2 o'clock, 28th April._ DEAREST MOTHER--Just as I was going to mail this
 I received authentic information [that] Burnside's army is now about 16 or
@@ -8770,7 +8770,7 @@ and then go back to hospital again in evening.
 
 Good bye, dear mother and all.
 
-    WALT.
+WALT.
 
 
 XV
@@ -8810,7 +8810,7 @@ telling you the 9th Corps was camped then about sixteen miles from here.
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 3)" data-chapter="Story 08 Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 3)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
 
 
 About George's pictures, perhaps you better wait till I hear from him,
@@ -8836,7 +8836,7 @@ having a very pleasant, coolish day here. I am going down to post office
 to leave this, and then up to my old friends the O'Connors to dinner, and
 then down to hospital. Well, good-bye, dear mother, for present.
 
-    WALT.
+WALT.
 
 _Tuesday afternoon, 3 o'clock._ Mother, just as I was going to seal my
 letter, Major Hapgood has come in from the P. O. and brings me a few lines
@@ -8869,7 +8869,7 @@ Richmond--(I hope to go there yet before the hot weather is past). Dear
 mother, I hope you are well, and little California--love to Jeff and Mat
 and all.
 
-    WALT.
+WALT.
 
 Mother, you ought to get this letter Saturday forenoon, as it will be in
 N. Y. by sunrise Saturday, 7th.
@@ -8902,7 +8902,7 @@ But of course time only can develope what will happen. Mother, I will
 write again Wednesday, or before, if I hear anything to write. Love to
 Jeff and Mat and all.
 
-    WALT.
+WALT.
 
 
 XVIII
@@ -8933,10 +8933,10 @@ George so far. Of course I _know_ nothing. Well, good-bye, dearest mother.
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 4)" data-chapter="Story 08 Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 4)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
 
 
-    WALT.
+WALT.
 
 Mother, I wrote you yesterday, too. Tell dear brother Jeff to write me.
 Love to Mat. The poor diarrhoea man died, and it was a boon. Oscar
@@ -8962,7 +8962,7 @@ Gendre is wounded--he was shot through the bridge of nose.
 Mother, you ought to get this Friday forenoon, 13th. I will write again
 soon. Wrote once before to-day.
 
-    WALT.
+WALT.
 
 
 XX
@@ -9002,7 +9002,7 @@ they are all reprinted at great length in N. Y. papers) are of men
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 1)" data-chapter="Story 09 fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 1)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
 
 
 three-fourths of them quite slightly wounded, and the rest hurt pretty
@@ -9022,7 +9022,7 @@ and that we shall have Richmond--but O what a price to pay for it. We have
 had a good rain here and it is pleasanter and cooler. I shall write very
 soon again.
 
-    WALT.
+WALT.
 
 
 XXI
@@ -9046,7 +9046,7 @@ How I want to see Jeff, too--O, it is too bad I have not written to him so
 long--and Mat, too, and little California and all. I am going out now a
 little while. I remain first rate, as well as ever.
 
-    WALT.
+WALT.
 
 
 XXII
@@ -9104,7 +9104,7 @@ probably they will not refuse to stay another hundred. Jeff, tell mother I
 shall write Wednesday certain (or if I hear anything I will write
 to-morrow). I still think we shall get Richmond.
 
-    WALT.
+WALT.
 
 Jeff, you must take this up to mother as soon as you go home. Jeff, I have
 changed my quarters. I moved Saturday last. I am now at 502 Pennsylvania
@@ -9117,7 +9117,7 @@ remembrance to Mr. Lane.
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 2)" data-chapter="Story 09 fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 2)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
 
 
 I may very likely go down for a few days to Ball Plain and Fredericksburg,
@@ -9172,7 +9172,7 @@ how I want to see you all--I will surely have to come home as soon as this
 Richmond campaign is decided--then I want to print my new book. Love to
 Mat--write to a fellow often as you can.
 
-    WALT.
+WALT.
 
 
 XXIV
@@ -9208,7 +9208,7 @@ upon it--but I give them and let them smoke. To others I have given
 oranges, fed them, etc. Well, dear mother, good-bye--love to Matty and
 Sis.
 
-    WALT.
+WALT.
 
 Fred McReady is coming home very soon on furlough--have any of the
 soldiers called on you?
@@ -9242,7 +9242,7 @@ average one an hour.
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 3)" data-chapter="Story 09 fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 3)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
 
 
 I saw Capt. Baldwin of the 14th this morning; he has lost his left arm--is
@@ -9263,7 +9263,7 @@ of either of them. Each was a very, very sad case, so young. Well mother,
 I see I have written you another gloomy sort of letter. I do not feel as
 first rate as usual.
 
-    WALT.
+WALT.
 
 You don't know how I want to come home and see you all; you, dear mother,
 and Jeff and Mat and all. I believe I am homesick--something new for
@@ -9337,7 +9337,7 @@ remain here until this Richmond campaign is settled, anyhow, unless I get
 sick, and I don't anticipate that. Mother dear, I hope you are well and in
 fair spirits--you must try to. Have you heard from sister Han?
 
-    WALT.
+WALT.
 
 You know I am living at 502 Pennsylvania av. (near 3d st.)--it is not a
 very good place. I don't like it so well as I did cooking my own grub--and
@@ -9346,7 +9346,7 @@ the air is not good. Jeff, you must write.
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 4)" data-chapter="Story 09 fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 4)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
 
 
 XXVII
@@ -9380,7 +9380,7 @@ Jeff the $10 from Mr. Lane for the soldiers came safe. I shall write to
 Jeff right away. I send my love to Mat and all. Mother, you must try to
 keep good heart.
 
-    WALT.
+WALT.
 
 
 XXVIII
@@ -9406,7 +9406,7 @@ the papers. We are having quite cool weather here. Mother, I want to see
 you and Jeff so much. I have been working a little at copying, but have
 stopt it lately.
 
-    WALT.
+WALT.
 
 
 XXIX
@@ -9425,7 +9425,7 @@ happen to George).
 
 We don't hear anything more of the army than you do there in the papers.
 
-    WALT.
+WALT.
 
 Mother, if I should come I will write a day or so before.
 
@@ -9463,23 +9463,23 @@ he did even better._
 _R. M. B._
 
 
-  _As at thy portals also death,
-  Entering thy sovereign, dim, illimitable grounds,
-  To memories of my mother, to the divine blending, maternity,
-  To her, buried and gone, yet buried not, gone not from me,
-  (I see again the calm benignant face fresh and beautiful still,
-  I sit by the form in the coffin,
-  I kiss and kiss convulsively again the sweet old lips, the cheeks, the
-      closed eyes in the coffin;)
-  To her, the ideal woman, practical, spiritual, of all of earth, life,
-      love, to me the best,
-  I grave a monumental line, before I go, amid these songs,
-  And set a tombstone here._
+_As at thy portals also death,
+Entering thy sovereign, dim, illimitable grounds,
+To memories of my mother, to the divine blending, maternity,
+To her, buried and gone, yet buried not, gone not from me,
+(I see again the calm benignant face fresh and beautiful still,
+I sit by the form in the coffin,
+I kiss and kiss convulsively again the sweet old lips, the cheeks, the
+closed eyes in the coffin;)
+To her, the ideal woman, practical, spiritual, of all of earth, life,
+love, to me the best,
+I grave a monumental line, before I go, amid these songs,
+And set a tombstone here._
 
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 5)" data-chapter="Story 09 fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 5)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
 
 
 _Printed by John Wilson and Son, at the University Press, Cambridge,

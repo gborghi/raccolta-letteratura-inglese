@@ -1723,7 +1723,7 @@ University fundraising event. Doyle had been requested by his university to cont
 
 
 
-<span class="atom-split" data-atom="story_02_the_adventure_of_the_cardboard_box" data-title="HIS LAST BOW — The Adventure of the Cardboard Box" data-chapter="Story 02 The Adventure of the Cardboard Box" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_adventure_of_the_cardboard_box" data-title="HIS LAST BOW — The Adventure of the Cardboard Box" data-chapter="The Adventure of the Cardboard Box" data-kind="story"></span>
 
 
 The Adventure of the Cardboard Box
@@ -1935,7 +1935,7 @@ you for assisting me in my investigation. With kind regards,
 
 
 
-<span class="atom-split" data-atom="story_03_the_adventure_of_the_red_circle" data-title="HIS LAST BOW — The Adventure of the Red Circle" data-chapter="Story 03 The Adventure of the Red Circle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_adventure_of_the_red_circle" data-title="HIS LAST BOW — The Adventure of the Red Circle" data-chapter="The Adventure of the Red Circle" data-kind="story"></span>
 
 
 The Adventure of the Red Circle
@@ -2115,7 +2115,7 @@ Half an hour later we were seated, all four, in the small sitting-room of Signor
 
 
 
-<span class="atom-split" data-atom="story_04_the_adventure_of_the_bruce_partington_pl" data-title="HIS LAST BOW — The Adventure of the Bruce-Partington Plans" data-chapter="Story 04 The Adventure of the Bruce Partington Pl" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_adventure_of_the_bruce_partington_pl" data-title="HIS LAST BOW — The Adventure of the Bruce-Partington Plans" data-chapter="The Adventure of the Bruce Partington Pl" data-kind="story"></span>
 
 
 The Adventure of the Bruce-Partington Plans
@@ -2474,7 +2474,7 @@ Colonel Walter died in prison towards the end of the second year of his sentence
 
 
 
-<span class="atom-split" data-atom="story_05_the_adventure_of_the_dying_detective" data-title="HIS LAST BOW — The Adventure of the Dying Detective" data-chapter="Story 05 The Adventure of the Dying Detective" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_adventure_of_the_dying_detective" data-title="HIS LAST BOW — The Adventure of the Dying Detective" data-chapter="The Adventure of the Dying Detective" data-kind="story"></span>
 
 
 The Adventure of the Dying [[Detective]]
@@ -2667,7 +2667,7 @@ There was a sudden rush and a scuffle, followed by the clash of iron and a cry o
 
 
 
-<span class="atom-split" data-atom="story_06_the_disappearance_of_lady_frances_carfax" data-title="HIS LAST BOW — The Disappearance of Lady Frances Carfax" data-chapter="Story 06 The Disappearance of Lady Frances Carfax" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_disappearance_of_lady_frances_carfax" data-title="HIS LAST BOW — The Disappearance of Lady Frances Carfax" data-chapter="The Disappearance of Lady Frances Carfax" data-kind="story"></span>
 
 
 The Disappearance of Lady Frances Carfax
@@ -2846,7 +2846,7 @@ For half an hour it seemed that we were. What with actual suffocation, and what 
 
 
 
-<span class="atom-split" data-atom="story_07_the_adventure_of_the_devils_foot" data-title="HIS LAST BOW — The Adventure of the Devil’s Foot" data-chapter="Story 07 The Adventure of the Devils Foot" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_adventure_of_the_devils_foot" data-title="HIS LAST BOW — The Adventure of the Devil’s Foot" data-chapter="The Adventure of the Devils Foot" data-kind="story"></span>
 
 
 The Adventure of the Devil’s Foot
@@ -3021,7 +3021,7 @@ Dr. Sterndale raised his giant figure, bowed gravely, and walked from the arbour
 
 
 
-<span class="atom-split" data-atom="story_08_his_last_bow_the_war_service_of_sherlock" data-title="HIS LAST BOW — His Last Bow.- The War Service of Sherlock Holmes" data-chapter="Story 08 His Last Bow The War Service of Sherlock" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_his_last_bow_the_war_service_of_sherlock" data-title="HIS LAST BOW — His Last Bow.- The War Service of Sherlock Holmes" data-chapter="His Last Bow The War Service of Sherlock" data-kind="story"></span>
 
 
 His Last Bow.- The War Service of [[Sherlock Holmes]]
@@ -3199,7 +3199,7 @@ University fundraising event. Doyle had been requested by his university to cont
 
 
 
-<span class="atom-split" data-atom="story_01_the_adventure_of_wisteria_lodge--part_01" data-title="HIS LAST BOW — The Adventure of Wisteria Lodge (part 1)" data-chapter="Story 01 The Adventure of Wisteria Lodge" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_adventure_of_wisteria_lodge--part_01" data-title="HIS LAST BOW — The Adventure of Wisteria Lodge (part 1)" data-chapter="The Adventure of Wisteria Lodge" data-kind="excerpt"></span>
 
 
 The Adventure of Wisteria Lodge
@@ -3333,7 +3333,7 @@ Holmes and I had taken things for the night, and found comfortable quarters at t
 
 
 
-<span class="atom-split" data-atom="story_01_the_adventure_of_wisteria_lodge--part_02" data-title="HIS LAST BOW — The Adventure of Wisteria Lodge (part 2)" data-chapter="Story 01 The Adventure of Wisteria Lodge" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_adventure_of_wisteria_lodge--part_02" data-title="HIS LAST BOW — The Adventure of Wisteria Lodge (part 2)" data-chapter="The Adventure of Wisteria Lodge" data-kind="excerpt"></span>
 
 
 The Tiger of San Pedro

@@ -55,31 +55,31 @@ All sane men, I say, believe firmly and unalterably in a
 certain number of things which are unproved and unprovable.
 Let us state them roughly.
 
- 1. Every sane man believes that the world around him and
-    the people in it are real, and not his own delusion or dream.
-    No man starts burning [[London]] in the belief that his servant will
-    soon wake him for breakfast.  But that I, at any given moment,
-    am not in [[A Dream|a dream]], is unproved and unprovable.  That anything exists
-    except myself is unproved and unprovable.
-    
- 2. All sane men believe that this world not only exists, but matters.
-    Every man believes there is a sort of obligation on us to interest
-    ourselves in this vision or panorama of life.  He would think a man
-    wrong who said, "I did not ask for this farce and it bores me.
-    I am aware that an old lady is being murdered down-stairs, but I am
-    going to [[Sleep|sleep]]."  That there is any such duty to improve the things
-    we did not make is a thing unproved and unprovable.
-    
- 3. All sane men believe that there is such a thing as a [[Self|self]],
-    or ego, which is continuous.  There is no inch of my brain matter
-    the same as it was ten years ago.  But if I have saved a man in battle
-    ten years ago, I am proud; if I have run away, I am ashamed.
-    That there is such a paramount "I" is unproved and unprovable.
-    But it is more than unproved and unprovable; it is definitely
-    disputed by many metaphysicians.
-    
- 4. Lastly, most sane men believe, and all sane men in practice assume,
-    that they have a power of choice and responsibility for action.
+1. Every sane man believes that the world around him and
+the people in it are real, and not his own delusion or dream.
+No man starts burning [[London]] in the belief that his servant will
+soon wake him for breakfast.  But that I, at any given moment,
+am not in [[A Dream|a dream]], is unproved and unprovable.  That anything exists
+except myself is unproved and unprovable.
+
+2. All sane men believe that this world not only exists, but matters.
+Every man believes there is a sort of obligation on us to interest
+ourselves in this vision or panorama of life.  He would think a man
+wrong who said, "I did not ask for this farce and it bores me.
+I am aware that an old lady is being murdered down-stairs, but I am
+going to [[Sleep|sleep]]."  That there is any such duty to improve the things
+we did not make is a thing unproved and unprovable.
+
+3. All sane men believe that there is such a thing as a [[Self|self]],
+or ego, which is continuous.  There is no inch of my brain matter
+the same as it was ten years ago.  But if I have saved a man in battle
+ten years ago, I am proud; if I have run away, I am ashamed.
+That there is such a paramount "I" is unproved and unprovable.
+But it is more than unproved and unprovable; it is definitely
+disputed by many metaphysicians.
+
+4. Lastly, most sane men believe, and all sane men in practice assume,
+that they have a power of choice and responsibility for action.
 
 Surely it might be possible to establish some plain, dull statement
 such as the above, to make people see where they stand.
@@ -136,31 +136,31 @@ All sane men, I say, believe firmly and unalterably in a
 certain number of things which are unproved and unprovable.
 Let us state them roughly.
 
- 1. Every sane man believes that the world around him and
-    the people in it are real, and not his own delusion or dream.
-    No man starts burning [[London]] in the belief that his servant will
-    soon wake him for breakfast.  But that I, at any given moment,
-    am not in [[A Dream|a dream]], is unproved and unprovable.  That anything exists
-    except myself is unproved and unprovable.
+1. Every sane man believes that the world around him and
+the people in it are real, and not his own delusion or dream.
+No man starts burning [[London]] in the belief that his servant will
+soon wake him for breakfast.  But that I, at any given moment,
+am not in [[A Dream|a dream]], is unproved and unprovable.  That anything exists
+except myself is unproved and unprovable.
 
- 2. All sane men believe that this world not only exists, but matters.
-    Every man believes there is a sort of obligation on us to interest
-    ourselves in this vision or panorama of life.  He would think a man
-    wrong who said, "I did not ask for this farce and it bores me.
-    I am aware that an old lady is being murdered down-stairs, but I am
-    going to [[Sleep|sleep]]."  That there is any such duty to improve the things
-    we did not make is a thing unproved and unprovable.
+2. All sane men believe that this world not only exists, but matters.
+Every man believes there is a sort of obligation on us to interest
+ourselves in this vision or panorama of life.  He would think a man
+wrong who said, "I did not ask for this farce and it bores me.
+I am aware that an old lady is being murdered down-stairs, but I am
+going to [[Sleep|sleep]]."  That there is any such duty to improve the things
+we did not make is a thing unproved and unprovable.
 
- 3. All sane men believe that there is such a thing as a [[Self|self]],
-    or ego, which is continuous.  There is no inch of my brain matter
-    the same as it was ten years ago.  But if I have saved a man in battle
-    ten years ago, I am proud; if I have run away, I am ashamed.
-    That there is such a paramount "I" is unproved and unprovable.
-    But it is more than unproved and unprovable; it is definitely
-    disputed by many metaphysicians.
+3. All sane men believe that there is such a thing as a [[Self|self]],
+or ego, which is continuous.  There is no inch of my brain matter
+the same as it was ten years ago.  But if I have saved a man in battle
+ten years ago, I am proud; if I have run away, I am ashamed.
+That there is such a paramount "I" is unproved and unprovable.
+But it is more than unproved and unprovable; it is definitely
+disputed by many metaphysicians.
 
- 4. Lastly, most sane men believe, and all sane men in practice assume,
-    that they have a power of choice and responsibility for action.
+4. Lastly, most sane men believe, and all sane men in practice assume,
+that they have a power of choice and responsibility for action.
 
 Surely it might be possible to establish some plain, dull statement
 such as the above, to make people see where they stand.
@@ -214,31 +214,31 @@ Tutti gli uomini sani di mente, dico, credono fermamente e immutabilmente in un
 certo numero di cose che sono improvate e improvabili.
 Enunciamole a grandi linee.
 
- 1. Ogni uomo sano di mente crede che il mondo attorno a lui e
-    le persone in esso siano reali, e non una sua propria illusione o sogno.
-    Nessuno si mette a incendiare [[London|Londra]] nella convinzione che il suo servitore
-    lo sveglierà presto per la colazione.  Ma che io, in un dato momento,
-    non sia in [[A Dream|un sogno]], è improvato e improvabile.  Che alcunché esista
-    all'infuori di me stesso è improvato e improvabile.
+1. Ogni uomo sano di mente crede che il mondo attorno a lui e
+le persone in esso siano reali, e non una sua propria illusione o sogno.
+Nessuno si mette a incendiare [[London|Londra]] nella convinzione che il suo servitore
+lo sveglierà presto per la colazione.  Ma che io, in un dato momento,
+non sia in [[A Dream|un sogno]], è improvato e improvabile.  Che alcunché esista
+all'infuori di me stesso è improvato e improvabile.
 
- 2. Tutti gli uomini sani di mente credono che questo mondo non solo esista, ma conti.
-    Ogni uomo crede che vi sia una sorta di obbligo per noi di interessarci
-    a questa visione o panorama della vita.  Egli riterrebbe nel torto un uomo
-    che dicesse: "Non ho chiesto io questa farsa ed essa mi annoia.
-    Sono consapevole che una vecchia signora sta per essere assassinata di sotto, ma io
-    me ne vado a [[Sleep|dormire]]."  Che vi sia un qualche simile dovere di migliorare le cose
-    che non abbiamo fatto noi è cosa improvata e improvabile.
+2. Tutti gli uomini sani di mente credono che questo mondo non solo esista, ma conti.
+Ogni uomo crede che vi sia una sorta di obbligo per noi di interessarci
+a questa visione o panorama della vita.  Egli riterrebbe nel torto un uomo
+che dicesse: "Non ho chiesto io questa farsa ed essa mi annoia.
+Sono consapevole che una vecchia signora sta per essere assassinata di sotto, ma io
+me ne vado a [[Sleep|dormire]]."  Che vi sia un qualche simile dovere di migliorare le cose
+che non abbiamo fatto noi è cosa improvata e improvabile.
 
- 3. Tutti gli uomini sani di mente credono che vi sia una cosa quale un [[Self|sé]],
-    o io, che è continuo.  Non c'è un centimetro della materia del mio cervello
-    che sia lo stesso di dieci anni fa.  Ma se dieci anni fa ho salvato un uomo in battaglia,
-    ne sono fiero; se sono scappato, me ne vergogno.
-    Che vi sia un simile sovrano "Io" è improvato e improvabile.
-    Ma è più che improvato e improvabile; è decisamente
-    contestato da molti metafisici.
+3. Tutti gli uomini sani di mente credono che vi sia una cosa quale un [[Self|sé]],
+o io, che è continuo.  Non c'è un centimetro della materia del mio cervello
+che sia lo stesso di dieci anni fa.  Ma se dieci anni fa ho salvato un uomo in battaglia,
+ne sono fiero; se sono scappato, me ne vergogno.
+Che vi sia un simile sovrano "Io" è improvato e improvabile.
+Ma è più che improvato e improvabile; è decisamente
+contestato da molti metafisici.
 
- 4. Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
-    di avere un potere di scelta e una responsabilità dell'azione.
+4. Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
+di avere un potere di scelta e una responsabilità dell'azione.
 
 Sicuramente sarebbe possibile stabilire qualche affermazione piana e scialba
 come quella di sopra, per far vedere alla gente dove si trova.

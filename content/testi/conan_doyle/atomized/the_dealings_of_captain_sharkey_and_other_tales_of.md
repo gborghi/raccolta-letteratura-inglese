@@ -1300,7 +1300,7 @@ CRABBE’S PRACTICE
 
 
 
-<span class="atom-split" data-atom="story_01_tales_of_pirates" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — TALES OF PIRATES" data-chapter="Story 01 TALES OF PIRATES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_tales_of_pirates" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — TALES OF PIRATES" data-chapter="TALES OF PIRATES" data-kind="story"></span>
 
 
 TALES OF PIRATES
@@ -1416,7 +1416,7 @@ At that very moment the dinghy shot into the shadow of the fishing-boat. There w
 
 
 
-<span class="atom-split" data-atom="story_02_the_dealings_of_captain_sharkey_with_ste" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK" data-chapter="Story 02 THE DEALINGS OF CAPTAIN SHARKEY WITH STE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_dealings_of_captain_sharkey_with_ste" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK" data-chapter="THE DEALINGS OF CAPTAIN SHARKEY WITH STE" data-kind="story"></span>
 
 
 THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK
@@ -1529,7 +1529,7 @@ He was a famous shot, and his iron nerves never failed him in an emergency. The 
 
 
 
-<span class="atom-split" data-atom="story_03_the_blighting_of_sharkey" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE BLIGHTING OF SHARKEY" data-chapter="Story 03 THE BLIGHTING OF SHARKEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_blighting_of_sharkey" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE BLIGHTING OF SHARKEY" data-chapter="THE BLIGHTING OF SHARKEY" data-kind="story"></span>
 
 
 THE BLIGHTING OF SHARKEY
@@ -1628,7 +1628,7 @@ Extract from the log of H.M. fifty-gun ship Hecate in her cruise off the America
 
 
 
-<span class="atom-split" data-atom="story_04_how_copley_banks_slew_captain_sharkey" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-chapter="Story 04 HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_how_copley_banks_slew_captain_sharkey" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-chapter="HOW COPLEY BANKS SLEW CAPTAIN SHARKEY" data-kind="story"></span>
 
 
 HOW COPLEY BANKS SLEW CAPTAIN SHARKEY
@@ -1727,7 +1727,7 @@ Then Copley Banks, his heart singing within him touched his companion upon the s
 
 
 
-<span class="atom-split" data-atom="story_05_the_slapping_sal" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE “SLAPPING SAL”" data-chapter="Story 05 THE SLAPPING SAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_slapping_sal" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE “SLAPPING SAL”" data-chapter="THE SLAPPING SAL" data-kind="story"></span>
 
 
 THE “SLAPPING SAL”
@@ -1814,7 +1814,7 @@ The two officers looked down at the sinister name, and at the stump of wreckage 
 
 
 
-<span class="atom-split" data-atom="story_06_a_pirate_of_the_land_one_crowded_hour" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — A PIRATE OF THE LAND: ONE CROWDED HOUR" data-chapter="Story 06 A PIRATE OF THE LAND ONE CROWDED HOUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_a_pirate_of_the_land_one_crowded_hour" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — A PIRATE OF THE LAND: ONE CROWDED HOUR" data-chapter="A PIRATE OF THE LAND ONE CROWDED HOUR" data-kind="story"></span>
 
 
 A PIRATE OF THE LAND: ONE CROWDED HOUR
@@ -1932,7 +1932,7 @@ A telephone rang sharply upon the table, and the baronet put the receiver to his
 
 
 
-<span class="atom-split" data-atom="story_07_tales_of_blue_water" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — TALES OF BLUE WATER" data-chapter="Story 07 TALES OF BLUE WATER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_tales_of_blue_water" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — TALES OF BLUE WATER" data-chapter="TALES OF BLUE WATER" data-kind="story"></span>
 
 
 TALES OF BLUE WATER
@@ -2052,7 +2052,7 @@ So we did not even wait for the three sailors, but we carried it out, the mate, 
 
 
 
-<span class="atom-split" data-atom="story_08_the_captain_of_the_polestar" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE CAPTAIN OF THE “POLESTAR”" data-chapter="Story 08 THE CAPTAIN OF THE POLESTAR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_captain_of_the_polestar" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE CAPTAIN OF THE “POLESTAR”" data-chapter="THE CAPTAIN OF THE POLESTAR" data-kind="story"></span>
 
 
 THE CAPTAIN OF THE “POLESTAR”
@@ -2137,7 +2137,7 @@ Note by Dr. John M’Alister Ray, senior. — I have read over the strange event
 
 
 
-<span class="atom-split" data-atom="story_09_the_fiend_of_the_cooperage" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE FIEND OF THE COOPERAGE" data-chapter="Story 09 THE FIEND OF THE COOPERAGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_fiend_of_the_cooperage" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THE FIEND OF THE COOPERAGE" data-chapter="THE FIEND OF THE COOPERAGE" data-kind="story"></span>
 
 
 THE FIEND OF THE COOPERAGE
@@ -2257,7 +2257,7 @@ I thought of the stories which I had heard all down the coast of the monstrous c
 
 
 
-<span class="atom-split" data-atom="story_10_jellands_voyage" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — JELLAND’S VOYAGE" data-chapter="Story 10 JELLANDS VOYAGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_jellands_voyage" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — JELLAND’S VOYAGE" data-chapter="JELLANDS VOYAGE" data-kind="story"></span>
 
 
 JELLAND’S VOYAGE
@@ -2331,7 +2331,7 @@ JELLAND’S VOYAGE
 
 
 
-<span class="atom-split" data-atom="story_11_j_habakuk_jephsons_statement" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — J. HABAKUK JEPHSON’S STATEMENT" data-chapter="Story 11 J HABAKUK JEPHSONS STATEMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_j_habakuk_jephsons_statement" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — J. HABAKUK JEPHSON’S STATEMENT" data-chapter="J HABAKUK JEPHSONS STATEMENT" data-kind="story"></span>
 
 
 J. HABAKUK JEPHSON’S STATEMENT
@@ -2427,7 +2427,7 @@ From the day on which I found myself once more in the bosom of my family I have 
 
 
 
-<span class="atom-split" data-atom="story_12_that_little_square_box" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THAT LITTLE SQUARE BOX" data-chapter="Story 12 THAT LITTLE SQUARE BOX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_that_little_square_box" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — THAT LITTLE SQUARE BOX" data-chapter="THAT LITTLE SQUARE BOX" data-kind="story"></span>
 
 
 THAT LITTLE SQUARE BOX

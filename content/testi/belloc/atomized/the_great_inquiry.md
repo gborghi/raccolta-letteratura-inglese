@@ -701,7 +701,7 @@ And Your Commissioners will ever pray, &c.
 
 
 
-<span class="atom-split" data-atom="story_01_ballycannon" data-title="The Great Inquiry — Ballycannon." data-chapter="Story 01 Ballycannon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_ballycannon" data-title="The Great Inquiry — Ballycannon." data-chapter="Ballycannon" data-kind="story"></span>
 
 
 BALLYCANNON.
@@ -713,7 +713,7 @@ LOOK ON THIS PICTURE
 
 
 
-<span class="atom-split" data-atom="story_02_and_on_this" data-title="The Great Inquiry — And On This." data-chapter="Story 02 And On This" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_and_on_this" data-title="The Great Inquiry — And On This." data-chapter="And On This" data-kind="story"></span>
 
 
 AND ON THIS.
@@ -726,7 +726,7 @@ THE GREAT INQUIRY
 
 
 
-<span class="atom-split" data-atom="story_03_faithfully_reported" data-title="The Great Inquiry — Faithfully Reported" data-chapter="Story 03 Faithfully Reported" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_faithfully_reported" data-title="The Great Inquiry — Faithfully Reported" data-chapter="Faithfully Reported" data-kind="story"></span>
 
 
 FAITHFULLY REPORTED
@@ -738,7 +738,7 @@ REPORTER TO THE COMMITTEE,
 
 
 
-<span class="atom-split" data-atom="story_04_and_ornamented_with_sharp_cuts_drawn_on" data-title="The Great Inquiry — And Ornamented With Sharp Cuts Drawn On The Spot" data-chapter="Story 04 And Ornamented With Sharp Cuts Drawn On" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_and_ornamented_with_sharp_cuts_drawn_on" data-title="The Great Inquiry — And Ornamented With Sharp Cuts Drawn On The Spot" data-chapter="And Ornamented With Sharp Cuts Drawn On" data-kind="story"></span>
 
 
 AND ORNAMENTED WITH SHARP CUTS DRAWN ON THE SPOT
@@ -750,7 +750,7 @@ DUCKWORTH & CO.,
 
 
 
-<span class="atom-split" data-atom="story_05_3_henrietta_street_covent_garden_w_c" data-title="The Great Inquiry — 3 Henrietta Street, Covent Garden, W.C." data-chapter="Story 05 3 Henrietta Street Covent Garden W C" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_3_henrietta_street_covent_garden_w_c" data-title="The Great Inquiry — 3 Henrietta Street, Covent Garden, W.C." data-chapter="3 Henrietta Street Covent Garden W C" data-kind="story"></span>
 
 
 3 HENRIETTA STREET, COVENT GARDEN, W.C.
@@ -850,7 +850,7 @@ At this moment, Mr. Balfour observing that the Committee had sat for full twenty
 
 
 
-<span class="atom-split" data-atom="story_06_the_drain_of_gold" data-title="The Great Inquiry — The Drain Of Gold." data-chapter="Story 06 The Drain Of Gold" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_drain_of_gold" data-title="The Great Inquiry — The Drain Of Gold." data-chapter="The Drain Of Gold" data-kind="story"></span>
 
 
 THE DRAIN OF GOLD.
@@ -948,7 +948,7 @@ Mr. Chamberlain looked radiant in a black frock coat and top hat, with boots to 
 
 
 
-<span class="atom-split" data-atom="story_07_technical_information" data-title="The Great Inquiry — Technical Information." data-chapter="Story 07 Technical Information" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_technical_information" data-title="The Great Inquiry — Technical Information." data-chapter="Technical Information" data-kind="story"></span>
 
 
 TECHNICAL INFORMATION.
@@ -1030,7 +1030,7 @@ The Committee rose in the utmost trepidation and alarm, and the whole Court pour
 
 
 
-<span class="atom-split" data-atom="story_08_dumping" data-title="The Great Inquiry — Dumping." data-chapter="Story 08 Dumping" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_dumping" data-title="The Great Inquiry — Dumping." data-chapter="Dumping" data-kind="story"></span>
 
 
 DUMPING.
@@ -1158,7 +1158,7 @@ As the audience dispersed, the gloomiest forebodings arose upon the subject of t
 
 
 
-<span class="atom-split" data-atom="story_10_report_of_the_committee" data-title="The Great Inquiry — Report Of The Committee" data-chapter="Story 10 Report Of The Committee" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_report_of_the_committee" data-title="The Great Inquiry — Report Of The Committee" data-chapter="Report Of The Committee" data-kind="story"></span>
 
 
 REPORT OF THE COMMITTEE
@@ -1168,7 +1168,7 @@ SIT HARD UPON
 
 
 
-<span class="atom-split" data-atom="story_11_the_fiscal_conditions" data-title="The Great Inquiry — The Fiscal Conditions" data-chapter="Story 11 The Fiscal Conditions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_fiscal_conditions" data-title="The Great Inquiry — The Fiscal Conditions" data-chapter="The Fiscal Conditions" data-kind="story"></span>
 
 
 THE FISCAL CONDITIONS
@@ -1210,7 +1210,7 @@ SECTION II. There is, however, another side of the picture. Not only Great Brita
 
 
 
-<span class="atom-split" data-atom="story_12_made_in_poor_old_kent" data-title="The Great Inquiry — Made In Poor Old Kent." data-chapter="Story 12 Made In Poor Old Kent" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_made_in_poor_old_kent" data-title="The Great Inquiry — Made In Poor Old Kent." data-chapter="Made In Poor Old Kent" data-kind="story"></span>
 
 
 MADE IN POOR OLD KENT.
@@ -1268,7 +1268,7 @@ And Your Commissioners will ever pray, &c.
 
 
 
-<span class="atom-split" data-atom="story_09_the_animals--part_01" data-title="The Great Inquiry — The Animals. (part 1)" data-chapter="Story 09 The Animals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_animals--part_01" data-title="The Great Inquiry — The Animals. (part 1)" data-chapter="The Animals" data-kind="excerpt"></span>
 
 
 THE ANIMALS.
@@ -1340,7 +1340,7 @@ The Counsel for the Cobden Club, at the risk of his fortune, rose to protest. Hi
 
 
 
-<span class="atom-split" data-atom="story_09_the_animals--part_02" data-title="The Great Inquiry — The Animals. (part 2)" data-chapter="Story 09 The Animals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_animals--part_02" data-title="The Great Inquiry — The Animals. (part 2)" data-chapter="The Animals" data-kind="excerpt"></span>
 
 
 Mr. Chamberlain (suddenly): You are making a speech!
@@ -1398,7 +1398,7 @@ His own son, Austen, had that very morning received a letter from a Mrs. Augusta
 
 
 
-<span class="atom-split" data-atom="story_09_the_animals--part_03" data-title="The Great Inquiry — The Animals. (part 3)" data-chapter="Story 09 The Animals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_animals--part_03" data-title="The Great Inquiry — The Animals. (part 3)" data-chapter="The Animals" data-kind="excerpt"></span>
 
 
 Under the circumstances he thought he would not call any witnesses ... something much more convincing than any number of witnesses was being prepared in the Horse Guards’ parade.

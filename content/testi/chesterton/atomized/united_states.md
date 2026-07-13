@@ -253,7 +253,7 @@ my experiences of him, that a [[Double|double]] incapacity makes me dumb.
 A portrait is impossible; as a friend he is too near me, and as a [[Hero|hero]]
 too far away.
 
-                                                  G. K. CHESTERTON.
+G. K. CHESTERTON.
 
 
 
@@ -526,7 +526,7 @@ my experiences of him, that a [[Double|double]] incapacity makes me dumb.
 A portrait is impossible; as a friend he is too near me, and as a [[Hero|hero]]
 too far away.
 
-                                                  G. K. CHESTERTON.
+G. K. CHESTERTON.
 
 
 <span class="qlang-split" data-lang="it"></span>

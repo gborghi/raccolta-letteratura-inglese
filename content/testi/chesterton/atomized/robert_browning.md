@@ -36,36 +36,36 @@ Character set encoding: ISO-8859-1
 Produced by Jonathan Ingram, Victoria Woosley and PG Distributed
 Proofreaders
 
-         ROBERT BROWNING
+ROBERT BROWNING
 
-               BY
+BY
 
-         G.K. CHESTERTON
+G.K. CHESTERTON
 
-          CONTENTS
+CONTENTS
 
-          CHAPTER I
+CHAPTER I
 BROWNING IN EARLY LIFE               1
 
-          CHAPTER II
+CHAPTER II
 EARLY WORKS                         34
 
-          CHAPTER III
+CHAPTER III
 BROWNING AND HIS [[Marriage|MARRIAGE]]           55
 
-          CHAPTER IV
+CHAPTER IV
 BROWNING IN [[Italy|ITALY]]                   81
 
-          CHAPTER V
+CHAPTER V
 BROWNING IN LATER LIFE             105
 
-          CHAPTER VI
+CHAPTER VI
 BROWNING AS A LITERARY [[artist|ARTIST]]      133
 
-          CHAPTER VII
+CHAPTER VII
 "THE RING AND THE BOOK"            160
 
-          CHAPTER VIII
+CHAPTER VIII
 THE [[philosophy|PHILOSOPHY]] OF BROWNING         177
 
 INDEX                              203
@@ -213,7 +213,7 @@ should be right, for he was so absorbed. Or again, in the case even of
 the negro fancy; it would not be difficult for us to suggest a [[Love|love]] of
 colour, a certain mental gaudiness, a pleasure
 
-      "When reds and blues were indeed red and blue,"
+"When reds and blues were indeed red and blue,"
 
 as he says in _The Ring and the Book_. We should be right; for there
 really was in Browning a tropical violence of taste, an artistic
@@ -959,11 +959,11 @@ _Sordello_ with great interest, and wished to know whether Sordello
 was a man, or a [[City|city]], or a book. Better known, of course, is the story
 of Tennyson, who said that the first line of the poem--
 
-    "Who will, may hear Sordello's story told,"
+"Who will, may hear Sordello's story told,"
 
 and the last line--
 
-    "Who would, has heard Sordello's story told,"
+"Who would, has heard Sordello's story told,"
 
 were the only two lines in the poem that he understood, and they were
 lies.
@@ -1372,10 +1372,10 @@ call the commonplace, he was indeed true to the actual and abiding
 spirit of [[Love|love]]. In that delightful poem "Youth and Art" we have the
 singing girl saying to her old [[Lover|lover]]--
 
-    "No harm! It was not my fault
-      If you never turned your eye's tail up
-    As I shook upon E _in alt_,
-      Or ran the chromatic scale up."
+"No harm! It was not my fault
+If you never turned your eye's tail up
+As I shook upon E _in alt_,
+Or ran the chromatic scale up."
 
 This is a great deal more like the real chaff that passes between
 those whose hearts are full of new [[Hope|hope]] or of old [[Memory|memory]] than half the
@@ -1384,13 +1384,13 @@ which to a man who has ever really lived may suddenly send an arrow
 through the heart. Take, for example, such a matter as dress, as it is
 treated in "A [[Lover]]'s Quarrel."
 
-    "See, how she looks now, dressed
-    In a sledging cap and vest!
-        'Tis a huge fur cloak--
-        Like a reindeer's yoke
-    Falls the lappet along the breast:
-    Sleeves for her arms to rest,
-    Or to hang, as my [[Love]] likes best."
+"See, how she looks now, dressed
+In a sledging cap and vest!
+'Tis a huge fur cloak--
+Like a reindeer's yoke
+Falls the lappet along the breast:
+Sleeves for her arms to rest,
+Or to hang, as my [[Love]] likes best."
 
 That would almost serve as an order to a dressmaker, and is therefore
 poetry, or at least excellent poetry of this order. So great a power
@@ -1540,11 +1540,11 @@ who, according to Arnold, thinks he can make Greek plays good by
 making them modern. Mr. Swinburne, on the other hand, has summarised
 Clough in a contemptuous rhyme:--
 
-    "There was a bad poet named Clough,
-    Whom his friends all united to puff.
-    But the public, though dull,
-    Has not quite such a skull
-    As belongs to believers in Clough."
+"There was a bad poet named Clough,
+Whom his friends all united to puff.
+But the public, though dull,
+Has not quite such a skull
+As belongs to believers in Clough."
 
 The same general fact will be found through the whole of Browning's
 life and critical attitude. He adored Shelley, and also Carlyle who
@@ -1582,12 +1582,12 @@ of Shakespeare. We find it lingering in _Hudibras_, and we do not find
 it again until we come to such strange and strong lines as these of
 Elizabeth Barrett in her poem on Napoleon:--
 
-    "[[Blood]] fell like dew beneath his sunrise--sooth,
-    But glittered dew-like in the covenanted
-    And high-rayed light. He was a despot--granted,
-    But the [Greek: autos] of his autocratic mouth
-    Said 'Yea' i' the people's French! He magnified
-    The image of the [[Freedom|freedom]] he denied."
+"[[Blood]] fell like dew beneath his sunrise--sooth,
+But glittered dew-like in the covenanted
+And high-rayed light. He was a despot--granted,
+But the [Greek: autos] of his autocratic mouth
+Said 'Yea' i' the people's French! He magnified
+The image of the [[Freedom|freedom]] he denied."
 
 Her [[Poems|poems]] are full of quaint things, of such things as the eyes in the
 peacock fans of the Vatican, which she describes as winking at the
@@ -2035,10 +2035,10 @@ on it as on a harp. Barrett was one of the oppressors who have
 discovered the last secret of oppression, that which is told in the
 fine verse of Swinburne:--
 
-    "The racks of the earth and the rods
-    Are weak as the foam on the sands;
-    The heart is the prey for the gods,
-    Who crucify hearts, not hands."
+"The racks of the earth and the rods
+Are weak as the foam on the sands;
+The heart is the prey for the gods,
+Who crucify hearts, not hands."
 
 He, with his terrible appeal to the vibrating consciences of women,
 was, with regard to one of them, very near to the end of his reign.
@@ -2845,24 +2845,24 @@ fabric of drapery, so that we seem to be handling and smelling them,
 he has described a stall for the selling of odds and ends of every
 variety of utility and uselessness:--
 
-                                  "picture frames
-    White through the worn gilt, [[Mirror|mirror]]-sconces chipped,
-    Bronze angel-heads once knobs attached to chests,
-    (Handled when ancient dames chose forth brocade)
-    Modern [[chalk]] drawings, studies from the nude,
-    Samples of stone, jet, breccia, porphyry
-    Polished and rough, sundry amazing busts
-    In baked earth, (broken, [[Providence]] be praised!)
-    A wreck of tapestry proudly-purposed web
-    When reds and blues were indeed red and blue,
-    Now offer'd as a mat to save bare feet
-    (Since carpets constitute a cruel cost).
-           *       *       *       *       *
-    Vulgarised Horace for the use of schools,
-    'The Life, [[Death]], Miracles of Saint Somebody,
-    Saint Somebody Else, his Miracles, [[Death]], and Life'--
-    With this, one glance at the lettered back of which,
-    And 'Stall,' cried I; a _lira_ made it mine."
+"picture frames
+White through the worn gilt, [[Mirror|mirror]]-sconces chipped,
+Bronze angel-heads once knobs attached to chests,
+(Handled when ancient dames chose forth brocade)
+Modern [[chalk]] drawings, studies from the nude,
+Samples of stone, jet, breccia, porphyry
+Polished and rough, sundry amazing busts
+In baked earth, (broken, [[Providence]] be praised!)
+A wreck of tapestry proudly-purposed web
+When reds and blues were indeed red and blue,
+Now offer'd as a mat to save bare feet
+(Since carpets constitute a cruel cost).
+*       *       *       *       *
+Vulgarised Horace for the use of schools,
+'The Life, [[Death]], Miracles of Saint Somebody,
+Saint Somebody Else, his Miracles, [[Death]], and Life'--
+With this, one glance at the lettered back of which,
+And 'Stall,' cried I; a _lira_ made it mine."
 
 This [[Sketch|sketch]] embodies indeed the very poetry of _débris_, and comes
 nearer than any other poem has done to expressing the pathos and
@@ -2949,10 +2949,10 @@ idea again may be found in that delightful [[Lyric|lyric]] "Youth and Art,"
 where a successful cantatrice reproaches a successful sculptor with
 their failure to understand each other in their youth and [[Poverty|poverty]].
 
-    "Each life unfulfilled, you see;
-    It hangs still, patchy and scrappy:
-    We have not sighed deep, laughed free,
-    Starved, feasted, despaired,--been happy."
+"Each life unfulfilled, you see;
+It hangs still, patchy and scrappy:
+We have not sighed deep, laughed free,
+Starved, feasted, despaired,--been happy."
 
 And this conception of the great hour, which breaks out everywhere in
 Browning, it is almost impossible not to connect with his own internal
@@ -3302,8 +3302,8 @@ the most magnificently Browningesque. The origin of the name of the
 poem is probably [[Well|well]] known. He was travelling along the Normandy
 coast, and discovered what he called
 
-    "Meek, hitherto un-Murrayed bathing-places,
-    Best loved of sea-coast-nook-full Normandy!"
+"Meek, hitherto un-Murrayed bathing-places,
+Best loved of sea-coast-nook-full Normandy!"
 
 Miss Thackeray, who was of the party, delighted Browning beyond
 measure by calling the sleepy old fishing district "White Cotton
@@ -3382,19 +3382,19 @@ benevolent, and most incomprehensible catalogues of curses and oaths
 which may be heard from an intoxicated navvy. This is the kind of
 thing, and it goes on for pages:--
 
-    "Long after the last of your number
-    Has ceased my front-[[Court|court]] to encumber
-    While, treading down [[Rose|rose]] and ranunculus,
-    You _Tommy-make-room-for-your-uncle_-us!
-    Troop, all of you man or homunculus,
-    Quick march! for Xanthippe, my housemaid,
-    If once on your pates she a souse made
-    With what, pan or pot, bowl or _skoramis_,
-    First comes to her hand--things were more amiss!
-    I would not for worlds be your place in--
-    Recipient of slops from the basin!
-    You, Jack-in-the-Green, leaf-and-twiggishness
-    Won't save a dry thread on your priggishness!"
+"Long after the last of your number
+Has ceased my front-[[Court|court]] to encumber
+While, treading down [[Rose|rose]] and ranunculus,
+You _Tommy-make-room-for-your-uncle_-us!
+Troop, all of you man or homunculus,
+Quick march! for Xanthippe, my housemaid,
+If once on your pates she a souse made
+With what, pan or pot, bowl or _skoramis_,
+First comes to her hand--things were more amiss!
+I would not for worlds be your place in--
+Recipient of slops from the basin!
+You, Jack-in-the-Green, leaf-and-twiggishness
+Won't save a dry thread on your priggishness!"
 
 You can only call this, in the most literal sense of the word, the
 brute-force of language.
@@ -3407,8 +3407,8 @@ is too loosely talked about as a thrill, as the poem called "Fears and
 Scruples," in which a man describes the mystifying conduct of an
 absent friend, and reserves to the last line the climax--
 
-                     "Hush, I pray you!
-    What if this friend happen to be--God."
+"Hush, I pray you!
+What if this friend happen to be--God."
 
 It is the masterpiece of that excellent but much-abused literary
 quality, Sensationalism.
@@ -3632,10 +3632,10 @@ manifest weaknesses and stupidities, of the Creator of all things.
 Then suddenly a thunderstorm breaks over [[Caliban]]'s island, and the
 profane speculator falls flat upon his face--
 
-    "Lo! 'Lieth flat and loveth Setebos!
-    'Maketh his teeth meet through his upper lip,
-    Will let those quails fly, will not eat this month
-    One little mess of whelks, so he may 'scape!"
+"Lo! 'Lieth flat and loveth Setebos!
+'Maketh his teeth meet through his upper lip,
+Will let those quails fly, will not eat this month
+One little mess of whelks, so he may 'scape!"
 
 Surely it would be very difficult to persuade oneself that this
 thunderstorm would have meant exactly the same thing if it had
@@ -3691,13 +3691,13 @@ horrible [[Lyric|lyric]] as "The Heretic's [[Tragedy]]," for instance, is absolu
 original, with its weird and almost [[Blood|blood]]-curdling echo verses,
 mocking echoes indeed--
 
-    "And dipt of his wings in [[Paris]] square,
-       They bring him now to lie burned alive.
+"And dipt of his wings in [[Paris]] square,
+They bring him now to lie burned alive.
 
-       _[And wanteth there grace of lute or clavicithern,
-           ye shall say to confirm him who singeth_--
+_[And wanteth there grace of lute or clavicithern,
+ye shall say to confirm him who singeth_--
 
-       We bring John now to be burned alive."
+We bring John now to be burned alive."
 
 A hundred instances might, of course, be given. [[Milton]]'s "[[Sonnet]] on
 his Blindness," or Keats's "Ode on a Grecian Urn," are both thoroughly
@@ -3770,22 +3770,22 @@ distinct poem merely descriptive of one of those elfish German jugs in
 which it is to be presumed Tokay had been served to him. This is the
 whole poem, and a very good poem too--
 
-    "Up jumped Tokay on our table,
-    Like a pigmy [[Castle|castle]]-warder,
-    Dwarfish to see, but stout and able,
-    Arms and accoutrements all in order;
-    And fierce he looked North, then, wheeling South
-    Blew with his bugle a challenge to Drouth,
-    Cocked his flap-hat with the tosspot-feather,
-    Twisted his thumb in his red moustache,
-    Jingled his huge brass spurs together,
-    Tightened his waist with its Buda sash,
-    And then, with an impudence nought could abash,
-    Shrugged his hump-shoulder, to tell the beholder,
-    For twenty such knaves he would laugh but the bolder:
-    And so, with his [[Sword|sword]]-hilt gallantly jutting,
-    And dexter-hand on his haunch abutting,
-    Went the little man, Sir Ausbruch, strutting!"
+"Up jumped Tokay on our table,
+Like a pigmy [[Castle|castle]]-warder,
+Dwarfish to see, but stout and able,
+Arms and accoutrements all in order;
+And fierce he looked North, then, wheeling South
+Blew with his bugle a challenge to Drouth,
+Cocked his flap-hat with the tosspot-feather,
+Twisted his thumb in his red moustache,
+Jingled his huge brass spurs together,
+Tightened his waist with its Buda sash,
+And then, with an impudence nought could abash,
+Shrugged his hump-shoulder, to tell the beholder,
+For twenty such knaves he would laugh but the bolder:
+And so, with his [[Sword|sword]]-hilt gallantly jutting,
+And dexter-hand on his haunch abutting,
+Went the little man, Sir Ausbruch, strutting!"
 
 I suppose there are Browning students in existence who would think
 that this poem contained something pregnant about the Temperance
@@ -3812,12 +3812,12 @@ Now it is only just to Browning that his more uncouth effusions should
 not be treated as masterpieces by which he must stand or fall, but
 treated simply as his failures. It is really true that such a line as
 
-    "Irks [[Fear|fear]] the crop-full bird, frets [[Doubt|doubt]] the maw-crammed beast?"
+"Irks [[Fear|fear]] the crop-full bird, frets [[Doubt|doubt]] the maw-crammed beast?"
 
 is a very ugly and a very bad line. But it is quite equally true that
 Tennyson's
 
-    "And that good man, the clergyman, has told me words of peace,"
+"And that good man, the clergyman, has told me words of peace,"
 
 is a very ugly and a very bad line. But people do not say that this
 proves that Tennyson was a mere crabbed controversialist and
@@ -3834,15 +3834,15 @@ classical poets you will come upon passages which read like extracts
 from an American book of parodies. Swinburne, for example, when he
 wrote the couplet--
 
-    "From the lilies and languors of virtue
-    To the raptures and roses of vice,"
+"From the lilies and languors of virtue
+To the raptures and roses of vice,"
 
 wrote what is nothing but a bad [[Imitation|imitation]] of himself, an [[Imitation|imitation]]
 which seems indeed to have the wholly unjust and uncritical object of
 proving that the Swinburnian melody is a mechanical scheme of initial
 letters. Or again, Mr. Rudyard Kipling when he wrote the line--
 
-    "Or ride with the reckless seraphim on the rim of a red-maned star,"
+"Or ride with the reckless seraphim on the rim of a red-maned star,"
 
 was caricaturing himself in the harshest and least sympathetic spirit
 of American [[Humour|humour]]. This tendency is, of course, the result of the
@@ -3851,9 +3851,9 @@ us is forced to conceive ourselves as part of a _dramatis personæ_
 and act perpetually in character. Browning sometimes yielded to this
 [[Temptation|temptation]] to be a great deal too like himself.
 
-    "Will I widen thee out till thou turnest
-    From Margaret Minnikin mou' by God's grace,
-    To Muckle-mouth Meg in good earnest."
+"Will I widen thee out till thou turnest
+From Margaret Minnikin mou' by God's grace,
+To Muckle-mouth Meg in good earnest."
 
 This sort of thing is not to be defended in Browning any more than in
 Swinburne. But, on the other hand, it is not to be attributed in
@@ -3921,15 +3921,15 @@ a thing as a poetical metre being beautifully rugged. In the old
 ballads, for instance, every person of literary taste will be struck
 by a certain attractiveness in the bold, varying, irregular verse--
 
-    "He is either himsell a devil frae hell,
-    Or else his mother a [[Witch|witch]] maun be;
-    I wadna have ridden that wan [[Water|water]]
-    For a' the gowd in Christentie,"
+"He is either himsell a devil frae hell,
+Or else his mother a [[Witch|witch]] maun be;
+I wadna have ridden that wan [[Water|water]]
+For a' the gowd in Christentie,"
 
 is quite as pleasing to the ear in its own way as
 
-    "There's a bower of roses by Bendemeer stream,
-    And the [[Nightingale|nightingale]] sings in it all the [[Night|night]] long,"
+"There's a bower of roses by Bendemeer stream,
+And the [[Nightingale|nightingale]] sings in it all the [[Night|night]] long,"
 
 is in another way. Browning had an unrivalled ear for this particular
 kind of staccato music. The absurd notion that he had no sense of
@@ -3939,27 +3939,27 @@ satisfactory idea of Browning's rhythmic originality would be
 impossible without quotations more copious than entertaining. But the
 essential point has been suggested.
 
-    "They were purple of raiment and golden,
-    Filled full of thee, fiery with wine,
-    Thy [[lovers]] in haunts unbeholden,
-    In marvellous chambers of thine,"
+"They were purple of raiment and golden,
+Filled full of thee, fiery with wine,
+Thy [[lovers]] in haunts unbeholden,
+In marvellous chambers of thine,"
 
 is beautiful language, but not the only sort of beautiful language.
 This, for instance, has also a tune in it--
 
-    "I--'next poet.' No, my hearties,
-    I nor am, nor fain would be!
-    Choose your chiefs and pick your parties,
-    Not one [[Soul|soul]] revolt to me!
-           *       *       *       *       *
-    Which of you did I enable
-    Once to slip inside my breast,
-    There to catalogue and label
-    What I like least, what [[Love|love]] best,
-    [[Hope]] and [[Fear|fear]], believe and [[Doubt|doubt]] of,
-    Seek and shun, respect, deride,
-    Who has right to make a rout of
-    Rarities he found inside?"
+"I--'next poet.' No, my hearties,
+I nor am, nor fain would be!
+Choose your chiefs and pick your parties,
+Not one [[Soul|soul]] revolt to me!
+*       *       *       *       *
+Which of you did I enable
+Once to slip inside my breast,
+There to catalogue and label
+What I like least, what [[Love|love]] best,
+[[Hope]] and [[Fear|fear]], believe and [[Doubt|doubt]] of,
+Seek and shun, respect, deride,
+Who has right to make a rout of
+Rarities he found inside?"
 
 This quick, gallantly stepping measure also has its own kind of music,
 and the man who cannot feel it can never have enjoyed the sound of
@@ -3970,37 +3970,37 @@ the world, but the question whether there are not certain things which
 can only be conveyed by that method. It is perfectly true, for
 instance, that a really lofty and lucid line of Tennyson, such as--
 
-    "Thou art the highest, and most human too"
+"Thou art the highest, and most human too"
 and
-    "We needs must [[Love|love]] the highest when we see it"
+"We needs must [[Love|love]] the highest when we see it"
 
 would really be made the worse for being translated into Browning. It
 would probably become
 
-    "High's human; man loves best, best visible,"
+"High's human; man loves best, best visible,"
 
 and would lose its peculiar clarity and dignity and courtly plainness.
 But it is quite equally true that any really characteristic [[Fragment|fragment]]
 of Browning, if it were only the tempestuous scolding of the organist
 in "Master Hugues of Saxe-Gotha"--
 
-    "Hallo, you sacristan, show us a light there!
-    Down it dips, gone like a rocket.
-    What, you want, do you, to come unawares,
-    Sweeping the church up for first morning-prayers,
-    And find a poor devil has ended his cares
-    At the foot of your rotten-runged rat-riddled stairs?
-    Do I carry the [[Moon|moon]] in my pocket?"
+"Hallo, you sacristan, show us a light there!
+Down it dips, gone like a rocket.
+What, you want, do you, to come unawares,
+Sweeping the church up for first morning-prayers,
+And find a poor devil has ended his cares
+At the foot of your rotten-runged rat-riddled stairs?
+Do I carry the [[Moon|moon]] in my pocket?"
 
 --it is quite equally true that this outrageous gallop of rhymes
 ending with a frantic astronomical image would lose in energy and
 spirit if it were written in a conventional and classical style, and
 ran--
 
-    "What must I deem then that thou dreamest to find
-    Disjected bones adrift upon the stair
-    Thou sweepest clean, or that thou deemest that I
-    Pouch in my wallet the vice-regal sun?"
+"What must I deem then that thou dreamest to find
+Disjected bones adrift upon the stair
+Thou sweepest clean, or that thou deemest that I
+Pouch in my wallet the vice-regal sun?"
 
 Is it not obvious that this statelier version might be excellent
 poetry of its kind, and yet would be bad exactly in so far as it was
@@ -4024,10 +4024,10 @@ father and the mother of the [[Grotesque|grotesque]], would have ruled the poem.
 should have felt of that rowdy gathering little but the sensation of
 which Mr. Henley writes--
 
-    "Praise the generous gods for giving,
-    In this world of sin and strife,
-    With some little [[Time|time]] for living,
-    Unto each the joy of life,"
+"Praise the generous gods for giving,
+In this world of sin and strife,
+With some little [[Time|time]] for living,
+Unto each the joy of life,"
 
 the thought that every wise man has when looking at a Bank Holiday
 crowd at Margate.
@@ -4067,13 +4067,13 @@ philosophical idea. Here, for example, we have a random instance from
 "The Englishman in [[Italy]]" of the way in which Browning, when he was
 most Browning, regarded physical [[Nature|nature]].
 
-    "And pitch down his basket before us,
-    All trembling alive
-    With pink and grey jellies, your sea-fruit;
-    You touch the strange lumps,
-    And mouths gape there, eyes open, all manner
-    Of horns and of humps,
-    Which only the fisher looks [[Grave|grave]] at."
+"And pitch down his basket before us,
+All trembling alive
+With pink and grey jellies, your sea-fruit;
+You touch the strange lumps,
+And mouths gape there, eyes open, all manner
+Of horns and of humps,
+Which only the fisher looks [[Grave|grave]] at."
 
 [[Nature]] might mean [[Flowers|flowers]] to Wordsworth and grass to Walt Whitman, but
 to Browning it really meant such things as these, the monstrosities
@@ -4085,13 +4085,13 @@ supreme moment of sincerity to explain that small things may be filled
 with God as [[Well|well]] as great, he uses the very same kind of image, the
 image of a shapeless sea-beast, to embody that noble conception.
 
-    "The Name comes close behind a stomach-cyst,
-    The simplest of creations, just a sac
-    That's mouth, heart, legs, and belly at once, yet lives
-    And feels, and could do neither, we conclude,
-    If simplified still further one degree."
+"The Name comes close behind a stomach-cyst,
+The simplest of creations, just a sac
+That's mouth, heart, legs, and belly at once, yet lives
+And feels, and could do neither, we conclude,
+If simplified still further one degree."
 
-                                          (SLUDGE.)
+(SLUDGE.)
 
 These bulbous, indescribable sea-goblins are the first thing on which
 the eye of the poet lights in looking on a landscape, and the last in
@@ -4140,12 +4140,12 @@ re-establishing optimism on a new foundation, and it is to be
 presumed, though it is somewhat difficult to imagine, that he prided
 himself on such rhymes as the following in _Pacchiarotto_:--
 
-    "The wolf, fox, bear, and monkey,
-    By piping advice in one key--
-    That his pipe should play a prelude
-    To something heaven-tinged not hell-hued,
-    Something not harsh but docile,
-    Man-liquid, not man-fossil."
+"The wolf, fox, bear, and monkey,
+By piping advice in one key--
+That his pipe should play a prelude
+To something heaven-tinged not hell-hued,
+Something not harsh but docile,
+Man-liquid, not man-fossil."
 
 This writing, considered as writing, can only be regarded as a kind of
 joke, and most probably Browning considered it so himself. It has
@@ -4153,10 +4153,10 @@ nothing at all to do with that powerful and symbolic use of the
 [[Grotesque|grotesque]] which may be found in such admirable passages as this from
 "Holy [[Cross]] Day":--
 
-    "Give your first groan--compunction's at work;
-    And soft! from a Jew you mount to a Turk.
-    Lo, Micah--the [[Self|self]]-same beard on chin
-    He was four times already converted in!"
+"Give your first groan--compunction's at work;
+And soft! from a Jew you mount to a Turk.
+Lo, Micah--the [[Self|self]]-same beard on chin
+He was four times already converted in!"
 
 This is the serious use of the [[Grotesque|grotesque]]. Through it passion and
 [[philosophy]] are as [[Well|well]] expressed as through any other medium. But the
@@ -4169,8 +4169,8 @@ assonance. "The Pied Piper of Hamelin," a poem written for children,
 and bound in general to be lucid and readable, ends with a rhyme which
 it is physically impossible for any one to say:--
 
-    "And, whether they pipe us free, fróm rats or fróm mice,
-    If we've promised them aught, let us keep our promise!"
+"And, whether they pipe us free, fróm rats or fróm mice,
+If we've promised them aught, let us keep our promise!"
 
 This queer trait in Browning, his inability to keep a kind of demented
 ingenuity even out of [[Poems|poems]] in which it was quite inappropriate, is a
@@ -4214,11 +4214,11 @@ expressing was profound or superficial. Suppose, for example, that a
 person [[Well|well]] read in English poetry but unacquainted with Browning's
 style were earnestly invited to consider the following verse:--
 
-    "Hobbs hints blue--straight he turtle eats.
-      Nobbs prints blue--claret crowns his cup.
-    Nokes outdares Stokes in azure feats--
-      Both gorge. Who fished the murex up?
-    What porridge had John Keats?"
+"Hobbs hints blue--straight he turtle eats.
+Nobbs prints blue--claret crowns his cup.
+Nokes outdares Stokes in azure feats--
+Both gorge. Who fished the murex up?
+What porridge had John Keats?"
 
 The individual so confronted would say without hesitation that it must
 indeed be an abstruse and indescribable thought which could only be
@@ -4234,8 +4234,8 @@ and points out that Hobbs, Nobbs, etc., obtain fame and comfort by
 merely using the dye from the shell; and adds the perfectly natural
 comment:--
 
-    "... Who fished the murex up?
-    What porridge had John Keats?"
+"... Who fished the murex up?
+What porridge had John Keats?"
 
 So that the verse is not subtle, and was not meant to be subtle, but
 is a perfectly casual piece of sentiment at the end of a light poem.
@@ -4279,8 +4279,8 @@ experiences. But Browning might simply be describing the material
 incident of the man being knocked downstairs, and his description
 would run:--
 
-    "What then? 'You lie' and doormat below stairs
-    Takes bump from back."
+"What then? 'You lie' and doormat below stairs
+Takes bump from back."
 
 This is not subtlety, but merely a kind of insane swiftness. Browning
 is not like Meredith, anxious to pause and examine the sensations of
@@ -4329,12 +4329,12 @@ He insists upon celebrating the poetry of mean landscapes. That sense
 of scrubbiness in [[Nature|nature]], as of a man unshaved, had never been
 conveyed with this enthusiasm and primeval gusto before.
 
-    "If there pushed any ragged thistle-stalk
-       Above its mates, the head was chopped; the bents
-       Were jealous else. What made those holes and rents
-    In the dock's harsh swarth [[Leaves|leaves]], bruised as to baulk
-    All [[Hope|hope]] of greenness? 'tis a brute must walk
-       Pashing their life out, with a brute's intents."
+"If there pushed any ragged thistle-stalk
+Above its mates, the head was chopped; the bents
+Were jealous else. What made those holes and rents
+In the dock's harsh swarth [[Leaves|leaves]], bruised as to baulk
+All [[Hope|hope]] of greenness? 'tis a brute must walk
+Pashing their life out, with a brute's intents."
 
 This is a perfect realisation of that eerie sentiment which comes upon
 us, not so often among [[Mountains|mountains]] and [[Water|water]]-falls, as it does on some
@@ -4584,23 +4584,23 @@ side by side, and their juxtaposition represents one vast revolution
 in the poetical manner of looking at things. The first is Goldsmith's
 almost too [[Well|well]] known
 
-    "When lovely woman stoops to folly,
-    And finds too late that men betray,
-    What charm can soothe her [[Melancholy|melancholy]]?
-    What art can wash her [[Guilt|guilt]] away?"
+"When lovely woman stoops to folly,
+And finds too late that men betray,
+What charm can soothe her [[Melancholy|melancholy]]?
+What art can wash her [[Guilt|guilt]] away?"
 
 Immediately afterwards comes, with a sudden and thrilling change of
 note, the voice of Burns:--
 
-    "Ye banks and braes o' bonnie Doon,
-      How can ye bloom sae fair?
-    How can ye chant, ye little [[Birds|birds]],
-      And I sae fu' of care?
+"Ye banks and braes o' bonnie Doon,
+How can ye bloom sae fair?
+How can ye chant, ye little [[Birds|birds]],
+And I sae fu' of care?
 
-    Thou'll break my heart, thou bonny bird,
-      That sings upon the bough,
-    Thou minds me of the happy days
-      When my fause [[Love]] was true."
+Thou'll break my heart, thou bonny bird,
+That sings upon the bough,
+Thou minds me of the happy days
+When my fause [[Love]] was true."
 
 A man might read those two [[Poems|poems]] a great many times without happening
 to realise that they are two [[Poems|poems]] on exactly the same subject--the
@@ -5281,8 +5281,8 @@ He professes to know how to lay the foundations for every species of
 personal acquaintanceship, and how to remedy the slight and trivial
 slips of making Plato write Greek in naughts and crosses.
 
-    "As I [[Fear|fear]], sir, he sometimes used to do
-    Before I found the useful book that knows."
+"As I [[Fear|fear]], sir, he sometimes used to do
+Before I found the useful book that knows."
 
 It would be difficult to imagine any figure more indecently
 confessional, more entirely devoid of not only any of the restraints
@@ -5318,19 +5318,19 @@ have failed to notice that this avowal on behalf of spiritualism is
 the pivot of the poem. The avowal itself is not only expressed
 clearly, but prepared and delivered with admirable rhetorical force:--
 
-    "Now for it, then! Will you believe me, though?
-    You've heard what I confess: I don't unsay
-    A single word: I cheated when I could,
-    Rapped with my toe-joints, set sham hands at work,
-    Wrote down names weak in sympathetic ink.
-    Rubbed odic lights with ends of phosphor-match,
-    And all the rest; believe that: believe this,
-    By the same token, though it seem to set
-    The crooked straight again, unsay the said,
-    Stick up what I've knocked down; I can't help that,
-    It's [[Truth|truth]]! I somehow vomit [[Truth|truth]] to-day.
-    This trade of mine--I don't know, can't be sure
-    But there was something in it, tricks and all!"
+"Now for it, then! Will you believe me, though?
+You've heard what I confess: I don't unsay
+A single word: I cheated when I could,
+Rapped with my toe-joints, set sham hands at work,
+Wrote down names weak in sympathetic ink.
+Rubbed odic lights with ends of phosphor-match,
+And all the rest; believe that: believe this,
+By the same token, though it seem to set
+The crooked straight again, unsay the said,
+Stick up what I've knocked down; I can't help that,
+It's [[Truth|truth]]! I somehow vomit [[Truth|truth]] to-day.
+This trade of mine--I don't know, can't be sure
+But there was something in it, tricks and all!"
 
 It is strange to call a poem with so clear and fine a climax an attack
 on spiritualism. To miss that climax is like missing the last sentence
@@ -5375,9 +5375,9 @@ such a case would do exactly as Sludge does. He would declare his own
 shame, declare the [[Truth|truth]] of his creed, and then, when he realised what
 he had done, say something like this:--
 
-    "R-r-r, you brute-beast and blackguard! Cowardly scamp!
-    I only wish I dared burn down the [[house]]
-    And spoil your sniggering!"
+"R-r-r, you brute-beast and blackguard! Cowardly scamp!
+I only wish I dared burn down the [[house]]
+And spoil your sniggering!"
 
 and so on, and so on.
 
@@ -5400,7 +5400,7 @@ and the peculiar fascination which resides in the thought that the
 greatest lies about a man, and the greatest truths about him, may be
 found side by side in the same eloquent and sustained utterance.
 
-    "For Blougram, he believed, say, half he spoke."
+"For Blougram, he believed, say, half he spoke."
 
 Or, to put the matter in another way, the general idea of these [[Poems|poems]]
 is, that a man cannot help telling some [[Truth|truth]] even when he sets out to
@@ -5440,15 +5440,15 @@ ourselves on rationalism, and make it bear fruit to us. [[Faith]] itself
 is capable of becoming the darkest and most revolutionary of doubts.
 Then comes the passage:--
 
-    "Just when we are safest, there's a sunset-touch,
-    A fancy from a flower-bell, some one's [[Death|death]],
-    A [[Chorus|chorus]] ending from Euripides,--
-    And that's enough for fifty hopes and fears
-    As old and new at once as [[Nature]]'s [[Self|self]],
-    To rap and knock and enter in our [[Soul|soul]],
-    Take hands and [[Dance|dance]] there, a fantastic ring,
-    Round the ancient idol, on his base again,--
-    The grand Perhaps!"
+"Just when we are safest, there's a sunset-touch,
+A fancy from a flower-bell, some one's [[Death|death]],
+A [[Chorus|chorus]] ending from Euripides,--
+And that's enough for fifty hopes and fears
+As old and new at once as [[Nature]]'s [[Self|self]],
+To rap and knock and enter in our [[Soul|soul]],
+Take hands and [[Dance|dance]] there, a fantastic ring,
+Round the ancient idol, on his base again,--
+The grand Perhaps!"
 
 Nobler diction and a nobler meaning could not have been put into the
 mouth of Pompilia, or Rabbi Ben Ezra. It is in reality put into the
@@ -5542,83 +5542,83 @@ _Blot on the 'Scutcheon, A_, 53.
 Boyd, Mr., 62.
 
 Browning, Robert: birth and family [[history]], 3;
-  theories as to his descent, 4-8;
-  a typical Englishman of the middle class, 9;
-  his immediate ancestors, 10 _seq._;
-  [[Education|education]], 12;
-  boyhood and youth, 17;
-  first [[Poems|poems]], _Incondita_, 17;
-  romantic spirit, 18;
-  publication of _Pauline_, 20;
-  [[Friendship|friendship]] with literary men, 21;
-  _Paracelsus_, 22;
-  introduction to literary world, 25;
-  his earliest admirers, 26;
-  [[Friendship|friendship]] with Carlyle, 26;
-  _Strafford_, 27;
-  _Sordello_, 34;
-  _Pippa Passes_, 43;
-  _Dramatic Lyrics_, 45;
-  _The Return of the Druses_, 51;
-  _A Blot on the 'Scutcheon_, 53;
-  correspondence with Elizabeth Barrett, 62 _seq._;
-  their first meeting, 70;
-  [[Marriage|marriage]] and elopement, 78, 79;
-  life in [[Italy]], 81 _seq._;
-  [[Love|love]] of [[Italy]], 82, 85 _seq._;
-  sympathy with Italian Revolution, 90;
-  attitude towards spiritualism, 91 _seq._, 113, 190-199;
-  [[Death|death]] of his wife, 103;
-  returns to England, 105;
-  _The Ring and the Book_, 110;
-  culmination of his literary fame, 110, 117;
-  life in society, 110;
-  elected Fellow of Balliol, 117;
-  honoured by the great Universities, 118;
-  _Balaustion's Adventure_, 119-120;
-  _Aristophanes' Apology_, 120;
-  _The [[Agamemnon]] of Aeschylus_, 120;
-  _Prince Hohenstiel-Schwangau_, 121;
-  _Red-Cotton [[Night]]-Cap Country_, 122;
-  _Fifine at the Fair_, 124;
-  _The Inn Album_, 125;
-  _Pacchiarotto, and How He Worked in Distemper_, 125;
-  _La Saisiaz_, 127;
-  _The Two Poets of Croisic_, 127;
-  _Dramatic Idylls_, 127;
-  _Jocoseria_, 127;
-  _Ferishtah's Fancies_, 127;
-  _Parleyings with Certain People of Importance in their Day_, 128;
-  accepts post of Foreign Correspondent to the Royal Academy, 129;
-  goes to Llangollen with his sister, 130;
-  last [[Journey|journey]] to [[Italy]], 130;
-  [[Death|death]] at [[Venice]], 132;
-  publication of _Asolando_, 132;
-  his conversation, 36;
-  [[Vanity|vanity]], 33, 36;
-  faults and virtues, 40, 55;
-  his interest in Art, 82 _seq._;
-  his varied accomplishments, 84-85;
-  personality and presence, 18, 33, 112 _seq._;
-  his prejudices, 113-116;
-  his occasional coarseness, 116;
-  politics, 86 _seq._;
-  Browning as a father, 105;
-  as dramatist, 52;
-  as a literary [[artist]], 133 _seq._;
-  his use of the [[Grotesque|grotesque]], 48, 140, 143, 148 _seq._;
-  his failures, 141;
-  artistic originality, 136, 143, 158;
-  keen sense of melody and rhythm, 145 _seq._;
-  ingenuity in rhyming, 152;
-  his buffoonery, 154;
-  obscurity, 154 _seq._;
-  his conception of the Universe, 175;
-  [[philosophy]], 177 _seq._;
-  optimism, 179 _seq._;
-  his [[Love|love]] poetry, 49;
-  his knaves, 51, 201-202;
-  the key to his casuistical monologues, 199.
+theories as to his descent, 4-8;
+a typical Englishman of the middle class, 9;
+his immediate ancestors, 10 _seq._;
+[[Education|education]], 12;
+boyhood and youth, 17;
+first [[Poems|poems]], _Incondita_, 17;
+romantic spirit, 18;
+publication of _Pauline_, 20;
+[[Friendship|friendship]] with literary men, 21;
+_Paracelsus_, 22;
+introduction to literary world, 25;
+his earliest admirers, 26;
+[[Friendship|friendship]] with Carlyle, 26;
+_Strafford_, 27;
+_Sordello_, 34;
+_Pippa Passes_, 43;
+_Dramatic Lyrics_, 45;
+_The Return of the Druses_, 51;
+_A Blot on the 'Scutcheon_, 53;
+correspondence with Elizabeth Barrett, 62 _seq._;
+their first meeting, 70;
+[[Marriage|marriage]] and elopement, 78, 79;
+life in [[Italy]], 81 _seq._;
+[[Love|love]] of [[Italy]], 82, 85 _seq._;
+sympathy with Italian Revolution, 90;
+attitude towards spiritualism, 91 _seq._, 113, 190-199;
+[[Death|death]] of his wife, 103;
+returns to England, 105;
+_The Ring and the Book_, 110;
+culmination of his literary fame, 110, 117;
+life in society, 110;
+elected Fellow of Balliol, 117;
+honoured by the great Universities, 118;
+_Balaustion's Adventure_, 119-120;
+_Aristophanes' Apology_, 120;
+_The [[Agamemnon]] of Aeschylus_, 120;
+_Prince Hohenstiel-Schwangau_, 121;
+_Red-Cotton [[Night]]-Cap Country_, 122;
+_Fifine at the Fair_, 124;
+_The Inn Album_, 125;
+_Pacchiarotto, and How He Worked in Distemper_, 125;
+_La Saisiaz_, 127;
+_The Two Poets of Croisic_, 127;
+_Dramatic Idylls_, 127;
+_Jocoseria_, 127;
+_Ferishtah's Fancies_, 127;
+_Parleyings with Certain People of Importance in their Day_, 128;
+accepts post of Foreign Correspondent to the Royal Academy, 129;
+goes to Llangollen with his sister, 130;
+last [[Journey|journey]] to [[Italy]], 130;
+[[Death|death]] at [[Venice]], 132;
+publication of _Asolando_, 132;
+his conversation, 36;
+[[Vanity|vanity]], 33, 36;
+faults and virtues, 40, 55;
+his interest in Art, 82 _seq._;
+his varied accomplishments, 84-85;
+personality and presence, 18, 33, 112 _seq._;
+his prejudices, 113-116;
+his occasional coarseness, 116;
+politics, 86 _seq._;
+Browning as a father, 105;
+as dramatist, 52;
+as a literary [[artist]], 133 _seq._;
+his use of the [[Grotesque|grotesque]], 48, 140, 143, 148 _seq._;
+his failures, 141;
+artistic originality, 136, 143, 158;
+keen sense of melody and rhythm, 145 _seq._;
+ingenuity in rhyming, 152;
+his buffoonery, 154;
+obscurity, 154 _seq._;
+his conception of the Universe, 175;
+[[philosophy]], 177 _seq._;
+optimism, 179 _seq._;
+his [[Love|love]] poetry, 49;
+his knaves, 51, 201-202;
+the key to his casuistical monologues, 199.
 
 _Browning, Life of_ (Mrs. Orr), 92.
 
@@ -5978,8 +5978,8 @@ _Red-Cotton [[Night]]-Cap Country_, 122-124.
 _Return of the Druses, The_, 51-53.
 
 Revolution,
-  The French, 15;
-  Italian, 90.
+The French, 15;
+Italian, 90.
 
 _Ring and the Book, The_, 85, 106, 109, 123, 137, 160-176.
 
@@ -6109,7 +6109,7 @@ Z
 
 Zola, 164.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 ENGLISH MEN OF LETTERS.
 
@@ -6117,109 +6117,109 @@ NEW SERIES.
 
 _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
 
-    GEORGE ELIOT. By Sir LESLIE STEPHEN, K.C.B.
-    HAZLITT. By AUGUSTINE BIRRELL, K.C.
-    MATTHEW ARNOLD. By HERBERT W. PAUL.
-    RUSKIN. By FREDERIC HARRISON.
-    TENNYSON. By Sir ALFRED LYALL.
-    RICHARDSON. By AUSTIN DOBSON.
-    BROWNING. By G.K. CHESTERTON.
-    CRABBE. By the Rev. Canon AINGER.
-    JANE AUSTEN. By the Rev. Canon BEECHING.
-    HOBBES. By Sir LESLIE STEPHEN, K.C.B.
-    ADAM [[smith|SMITH]]. By FRANCIS W. HIRST.
-    SYDNEY [[smith|SMITH]]. By GEORGE W.E. RUSSELL.
-    FANNY BURNEY. By AUSTIN DOBSON.
-    JEREMY TAYLOR. By [[Edmund|EDMUND]] GOSSE.
-    ANDREW MARVELL. By AUGUSTINE BIRRELL, K.C.
-    [[Dante|DANTE]] GABRIEL ROSSETTI. By A.C. BENSON.
-    [[Maria|MARIA]] EDGEWORTH. By the Hon. EMILY LAWLESS.
-    MRS. GASKELL. By CLEMENT SHORTER.
-    THOMAS MOORE. By STEPHEN GWYNN.
+GEORGE ELIOT. By Sir LESLIE STEPHEN, K.C.B.
+HAZLITT. By AUGUSTINE BIRRELL, K.C.
+MATTHEW ARNOLD. By HERBERT W. PAUL.
+RUSKIN. By FREDERIC HARRISON.
+TENNYSON. By Sir ALFRED LYALL.
+RICHARDSON. By AUSTIN DOBSON.
+BROWNING. By G.K. CHESTERTON.
+CRABBE. By the Rev. Canon AINGER.
+JANE AUSTEN. By the Rev. Canon BEECHING.
+HOBBES. By Sir LESLIE STEPHEN, K.C.B.
+ADAM [[smith|SMITH]]. By FRANCIS W. HIRST.
+SYDNEY [[smith|SMITH]]. By GEORGE W.E. RUSSELL.
+FANNY BURNEY. By AUSTIN DOBSON.
+JEREMY TAYLOR. By [[Edmund|EDMUND]] GOSSE.
+ANDREW MARVELL. By AUGUSTINE BIRRELL, K.C.
+[[Dante|DANTE]] GABRIEL ROSSETTI. By A.C. BENSON.
+[[Maria|MARIA]] EDGEWORTH. By the Hon. EMILY LAWLESS.
+MRS. GASKELL. By CLEMENT SHORTER.
+THOMAS MOORE. By STEPHEN GWYNN.
 
 RE-ISSUE OF THE ORIGINAL SERIES
 
 _Library Edition. Uniform with the above. 2s. net each._
 
-    ADDISON. By W.J. COURTHOPE.
-    BACON. By Dean CHURCH.
-    BENTLEY. By Sir [[Richard|RICHARD]] JEBB.
-    BUNYAN. By J.A. FROUDE.
-    BURKE. By JOHN MORLEY.
-    BURNS. By Principal SHAIRP.
-    BYRON. By Professor NICHOL.
-    CARLYLE. By Professor NICHOL.
-    CHAUCER. By Dr. A.W. WARD.
-    COLERIDGE. By H.D. TRAILL.
-    COWPER. By GOLDWIN [[smith|SMITH]].
-    DEFOE. By W. MINTO.
-    DEQUINCEY. By Prof. MASSON.
-    DICKENS. By Dr. A.W. WARD.
-    DRYDEN. By Prof. SAINTSBURY.
-    FIELDING. By AUSTIN DOBSON.
-    GIBBON. By J.C. MORISON.
-    GOLDSMITH. By W. BLACK.
-    GRAY. By [[Edmund|EDMUND]] GOSSE.
-    HAWTHORNE. By HENRY JAMES.
-    HUME. By Prof. HUXLEY, F.R.S.
-    JOHNSON. By Sir LESLIE STEPHEN, K.C.B.
-    KEATS. By SIDNEY COLVIN.
-    [[Lamb|LAMB]], CHARLES. By Canon AINGER.
-    LANDOR. By SIDNEY COLVIN.
-    LOCKE. By THOMAS FOWLER.
-    MACAULAY. By J.C. MORISON.
-    [[Milton|MILTON]]. By MARK PATTISON.
-    POPE. By Sir LESLIE STEPHEN, K.C.B.
-    SCOTT. By R.H. HUTTON.
-    SHELLEY. By J.A. SYMONDS.
-    SHERIDAN. By Mrs. OLIPHANT.
-    SIDNEY. By J.A. SYMONDS.
-    SOUTHEY. By Prof. DOWDEN.
-    SPENSER. By Dean CHURCH.
-    STERNE. By H.D. TRAILL.
-    SWIFT. By Sir LESLIE STEPHEN, K.C.B.
-    THACKERAY. By ANTHONY TROLLOPE.
-    WORDSWORTH. By F.W.H. MYERS.
+ADDISON. By W.J. COURTHOPE.
+BACON. By Dean CHURCH.
+BENTLEY. By Sir [[Richard|RICHARD]] JEBB.
+BUNYAN. By J.A. FROUDE.
+BURKE. By JOHN MORLEY.
+BURNS. By Principal SHAIRP.
+BYRON. By Professor NICHOL.
+CARLYLE. By Professor NICHOL.
+CHAUCER. By Dr. A.W. WARD.
+COLERIDGE. By H.D. TRAILL.
+COWPER. By GOLDWIN [[smith|SMITH]].
+DEFOE. By W. MINTO.
+DEQUINCEY. By Prof. MASSON.
+DICKENS. By Dr. A.W. WARD.
+DRYDEN. By Prof. SAINTSBURY.
+FIELDING. By AUSTIN DOBSON.
+GIBBON. By J.C. MORISON.
+GOLDSMITH. By W. BLACK.
+GRAY. By [[Edmund|EDMUND]] GOSSE.
+HAWTHORNE. By HENRY JAMES.
+HUME. By Prof. HUXLEY, F.R.S.
+JOHNSON. By Sir LESLIE STEPHEN, K.C.B.
+KEATS. By SIDNEY COLVIN.
+[[Lamb|LAMB]], CHARLES. By Canon AINGER.
+LANDOR. By SIDNEY COLVIN.
+LOCKE. By THOMAS FOWLER.
+MACAULAY. By J.C. MORISON.
+[[Milton|MILTON]]. By MARK PATTISON.
+POPE. By Sir LESLIE STEPHEN, K.C.B.
+SCOTT. By R.H. HUTTON.
+SHELLEY. By J.A. SYMONDS.
+SHERIDAN. By Mrs. OLIPHANT.
+SIDNEY. By J.A. SYMONDS.
+SOUTHEY. By Prof. DOWDEN.
+SPENSER. By Dean CHURCH.
+STERNE. By H.D. TRAILL.
+SWIFT. By Sir LESLIE STEPHEN, K.C.B.
+THACKERAY. By ANTHONY TROLLOPE.
+WORDSWORTH. By F.W.H. MYERS.
 
-  MACMILLAN AND CO., LTD., [[London|LONDON]].
+MACMILLAN AND CO., LTD., [[London|LONDON]].
 
-       *       *       *       *       *
+*       *       *       *       *
 
 ENGLISH MEN OF ACTION SERIES.
 
 [[Crown]] 8vo. Cloth. With Portraits. 2s. 6d. each.
 
-    CAMPBELL (COLIN). By ARCHIBALD FORBES.
-    CLIVE. By Sir CHARLES WILSON.
-    COOK (Captain). By Sir WALTER BESANT.
-    DAMPIER. By W. CLARK RUSSELL.
-    DRAKE. By JULIAN CORBETT.
-    DUNDONALD. By the Hon. J.W. FORTESCUE.
-    GORDON (General). By Sir W. BUTLER.
-    [[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
-    HAVELOCK (Sir Henry). By A. FORBES.
-    [[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
-    LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
-    LIVINGSTONE. By THOMAS HUGHES.
-    MONK. By JULIAN CORBETT.
-    MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
-    NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
-    NELSON. By Prof. J.K. LAUGHTON.
-    PETERBOROUGH. By W. STEBBING.
-    RODNEY. By DAVID HANNAY.
-    STRAFFORD. By H.D. TRAILL.
-    WARWICK, the [[King]]-Maker By C.W. OMAN.
-    WELLINGTON. By GEORGE HOOPER.
-    WOLFE. By A.G. BRADLEY.
+CAMPBELL (COLIN). By ARCHIBALD FORBES.
+CLIVE. By Sir CHARLES WILSON.
+COOK (Captain). By Sir WALTER BESANT.
+DAMPIER. By W. CLARK RUSSELL.
+DRAKE. By JULIAN CORBETT.
+DUNDONALD. By the Hon. J.W. FORTESCUE.
+GORDON (General). By Sir W. BUTLER.
+[[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
+HAVELOCK (Sir Henry). By A. FORBES.
+[[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
+LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
+LIVINGSTONE. By THOMAS HUGHES.
+MONK. By JULIAN CORBETT.
+MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
+NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
+NELSON. By Prof. J.K. LAUGHTON.
+PETERBOROUGH. By W. STEBBING.
+RODNEY. By DAVID HANNAY.
+STRAFFORD. By H.D. TRAILL.
+WARWICK, the [[King]]-Maker By C.W. OMAN.
+WELLINGTON. By GEORGE HOOPER.
+WOLFE. By A.G. BRADLEY.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 TWELVE ENGLISHMEN STATESMEN.
 
 [[Crown]] 8vo. 2s. 6d. each.
 
 * *
- * _A Series of Short Biographies, not designed to be a complete roll
+* _A Series of Short Biographies, not designed to be a complete roll
 of famous Statesmen, but to present in historic order the lives and
 work of those leading actors in our affairs who by their direct
 influence have left an abiding mark on the policy, the institutions,
@@ -6259,7 +6259,7 @@ End of the Project Gutenberg EBook of Robert Browning, by G. K. Chesterton
 
 ***** This file should be named 13342-8.txt or 13342-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/3/3/4/13342/
+http://www.gutenberg.net/1/3/3/4/13342/
 
 Produced by Jonathan Ingram, Victoria Woosley and PG Distributed
 Proofreaders
@@ -6409,33 +6409,33 @@ access to or distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
@@ -6547,9 +6547,9 @@ information can be found at the Foundation's web site and official
 page at http://pglaf.org
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -6600,7 +6600,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
@@ -6928,7 +6928,7 @@ should be right, for he was so absorbed. Or again, in the case even of
 the negro fancy; it would not be difficult for us to suggest a [[Love|love]] of
 colour, a certain mental gaudiness, a pleasure
 
-      "When reds and blues were indeed red and blue,"
+"When reds and blues were indeed red and blue,"
 
 as he says in _The Ring and the Book_. We should be right; for there
 really was in Browning a tropical violence of taste, an artistic
@@ -7764,11 +7764,11 @@ _Sordello_ with great interest, and wished to know whether Sordello
 was a man, or a [[City|city]], or a book. Better known, of course, is the story
 of Tennyson, who said that the first line of the poem--
 
-    "Who will, may hear Sordello's story told,"
+"Who will, may hear Sordello's story told,"
 
 and the last line--
 
-    "Who would, has heard Sordello's story told,"
+"Who would, has heard Sordello's story told,"
 
 were the only two lines in the poem that he understood, and they were
 lies.
@@ -8201,10 +8201,10 @@ call the commonplace, he was indeed true to the actual and abiding
 spirit of [[Love|love]]. In that delightful poem "Youth and Art" we have the
 singing girl saying to her old [[Lover|lover]]--
 
-    "No harm! It was not my fault
-      If you never turned your eye's tail up
-    As I shook upon E _in alt_,
-      Or ran the chromatic scale up."
+"No harm! It was not my fault
+If you never turned your eye's tail up
+As I shook upon E _in alt_,
+Or ran the chromatic scale up."
 
 This is a great deal more like the real chaff that passes between
 those whose hearts are full of new [[Hope|hope]] or of old [[Memory|memory]] than half the
@@ -8213,13 +8213,13 @@ which to a man who has ever really lived may suddenly send an arrow
 through the heart. Take, for example, such a matter as dress, as it is
 treated in "A [[Lover]]'s Quarrel."
 
-    "See, how she looks now, dressed
-    In a sledging cap and vest!
-        'Tis a huge fur cloak--
-        Like a reindeer's yoke
-    Falls the lappet along the breast:
-    Sleeves for her arms to rest,
-    Or to hang, as my [[Love]] likes best."
+"See, how she looks now, dressed
+In a sledging cap and vest!
+'Tis a huge fur cloak--
+Like a reindeer's yoke
+Falls the lappet along the breast:
+Sleeves for her arms to rest,
+Or to hang, as my [[Love]] likes best."
 
 That would almost serve as an order to a dressmaker, and is therefore
 poetry, or at least excellent poetry of this order. So great a power
@@ -8375,11 +8375,11 @@ who, according to Arnold, thinks he can make Greek plays good by
 making them modern. Mr. Swinburne, on the other hand, has summarised
 Clough in a contemptuous rhyme:--
 
-    "There was a bad poet named Clough,
-    Whom his friends all united to puff.
-    But the public, though dull,
-    Has not quite such a skull
-    As belongs to believers in Clough."
+"There was a bad poet named Clough,
+Whom his friends all united to puff.
+But the public, though dull,
+Has not quite such a skull
+As belongs to believers in Clough."
 
 The same general fact will be found through the whole of Browning's
 life and critical attitude. He adored Shelley, and also Carlyle who
@@ -8417,12 +8417,12 @@ of Shakespeare. We find it lingering in _Hudibras_, and we do not find
 it again until we come to such strange and strong lines as these of
 Elizabeth Barrett in her poem on Napoleon:--
 
-    "[[Blood]] fell like dew beneath his sunrise--sooth,
-    But glittered dew-like in the covenanted
-    And high-rayed light. He was a despot--granted,
-    But the [Greek: autos] of his autocratic mouth
-    Said 'Yea' i' the people's French! He magnified
-    The image of the [[Freedom|freedom]] he denied."
+"[[Blood]] fell like dew beneath his sunrise--sooth,
+But glittered dew-like in the covenanted
+And high-rayed light. He was a despot--granted,
+But the [Greek: autos] of his autocratic mouth
+Said 'Yea' i' the people's French! He magnified
+The image of the [[Freedom|freedom]] he denied."
 
 Her [[Poems|poems]] are full of quaint things, of such things as the eyes in the
 peacock fans of the Vatican, which she describes as winking at the
@@ -8900,10 +8900,10 @@ fine verse of Swinburne:--
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="Robert Browning — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
 
-    "The racks of the earth and the rods
-    Are weak as the foam on the sands;
-    The heart is the prey for the gods,
-    Who crucify hearts, not hands."
+"The racks of the earth and the rods
+Are weak as the foam on the sands;
+The heart is the prey for the gods,
+Who crucify hearts, not hands."
 
 He, with his terrible appeal to the vibrating consciences of women,
 was, with regard to one of them, very near to the end of his reign.
@@ -9760,24 +9760,24 @@ fabric of drapery, so that we seem to be handling and smelling them,
 he has described a stall for the selling of odds and ends of every
 variety of utility and uselessness:--
 
-                                  "picture frames
-    White through the worn gilt, [[Mirror|mirror]]-sconces chipped,
-    Bronze angel-heads once knobs attached to chests,
-    (Handled when ancient dames chose forth brocade)
-    Modern [[chalk]] drawings, studies from the nude,
-    Samples of stone, jet, breccia, porphyry
-    Polished and rough, sundry amazing busts
-    In baked earth, (broken, [[Providence]] be praised!)
-    A wreck of tapestry proudly-purposed web
-    When reds and blues were indeed red and blue,
-    Now offer'd as a mat to save bare feet
-    (Since carpets constitute a cruel cost).
-           *       *       *       *       *
-    Vulgarised Horace for the use of schools,
-    'The Life, [[Death]], Miracles of Saint Somebody,
-    Saint Somebody Else, his Miracles, [[Death]], and Life'--
-    With this, one glance at the lettered back of which,
-    And 'Stall,' cried I; a _lira_ made it mine."
+"picture frames
+White through the worn gilt, [[Mirror|mirror]]-sconces chipped,
+Bronze angel-heads once knobs attached to chests,
+(Handled when ancient dames chose forth brocade)
+Modern [[chalk]] drawings, studies from the nude,
+Samples of stone, jet, breccia, porphyry
+Polished and rough, sundry amazing busts
+In baked earth, (broken, [[Providence]] be praised!)
+A wreck of tapestry proudly-purposed web
+When reds and blues were indeed red and blue,
+Now offer'd as a mat to save bare feet
+(Since carpets constitute a cruel cost).
+*       *       *       *       *
+Vulgarised Horace for the use of schools,
+'The Life, [[Death]], Miracles of Saint Somebody,
+Saint Somebody Else, his Miracles, [[Death]], and Life'--
+With this, one glance at the lettered back of which,
+And 'Stall,' cried I; a _lira_ made it mine."
 
 This [[Sketch|sketch]] embodies indeed the very poetry of _débris_, and comes
 nearer than any other poem has done to expressing the pathos and
@@ -9870,10 +9870,10 @@ their failure to understand each other in their youth and [[Poverty|poverty]].
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="Robert Browning — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
 
-    "Each life unfulfilled, you see;
-    It hangs still, patchy and scrappy:
-    We have not sighed deep, laughed free,
-    Starved, feasted, despaired,--been happy."
+"Each life unfulfilled, you see;
+It hangs still, patchy and scrappy:
+We have not sighed deep, laughed free,
+Starved, feasted, despaired,--been happy."
 
 And this conception of the great hour, which breaks out everywhere in
 Browning, it is almost impossible not to connect with his own internal
@@ -10241,8 +10241,8 @@ the most magnificently Browningesque. The origin of the name of the
 poem is probably [[Well|well]] known. He was travelling along the Normandy
 coast, and discovered what he called
 
-    "Meek, hitherto un-Murrayed bathing-places,
-    Best loved of sea-coast-nook-full Normandy!"
+"Meek, hitherto un-Murrayed bathing-places,
+Best loved of sea-coast-nook-full Normandy!"
 
 Miss Thackeray, who was of the party, delighted Browning beyond
 measure by calling the sleepy old fishing district "White Cotton
@@ -10327,19 +10327,19 @@ benevolent, and most incomprehensible catalogues of curses and oaths
 which may be heard from an intoxicated navvy. This is the kind of
 thing, and it goes on for pages:--
 
-    "Long after the last of your number
-    Has ceased my front-[[Court|court]] to encumber
-    While, treading down [[Rose|rose]] and ranunculus,
-    You _Tommy-make-room-for-your-uncle_-us!
-    Troop, all of you man or homunculus,
-    Quick march! for Xanthippe, my housemaid,
-    If once on your pates she a souse made
-    With what, pan or pot, bowl or _skoramis_,
-    First comes to her hand--things were more amiss!
-    I would not for worlds be your place in--
-    Recipient of slops from the basin!
-    You, Jack-in-the-Green, leaf-and-twiggishness
-    Won't save a dry thread on your priggishness!"
+"Long after the last of your number
+Has ceased my front-[[Court|court]] to encumber
+While, treading down [[Rose|rose]] and ranunculus,
+You _Tommy-make-room-for-your-uncle_-us!
+Troop, all of you man or homunculus,
+Quick march! for Xanthippe, my housemaid,
+If once on your pates she a souse made
+With what, pan or pot, bowl or _skoramis_,
+First comes to her hand--things were more amiss!
+I would not for worlds be your place in--
+Recipient of slops from the basin!
+You, Jack-in-the-Green, leaf-and-twiggishness
+Won't save a dry thread on your priggishness!"
 
 You can only call this, in the most literal sense of the word, the
 brute-force of language.
@@ -10352,8 +10352,8 @@ is too loosely talked about as a thrill, as the poem called "Fears and
 Scruples," in which a man describes the mystifying conduct of an
 absent friend, and reserves to the last line the climax--
 
-                     "Hush, I pray you!
-    What if this friend happen to be--God."
+"Hush, I pray you!
+What if this friend happen to be--God."
 
 It is the masterpiece of that excellent but much-abused literary
 quality, Sensationalism.
@@ -10589,10 +10589,10 @@ manifest weaknesses and stupidities, of the Creator of all things.
 Then suddenly a thunderstorm breaks over [[Caliban]]'s island, and the
 profane speculator falls flat upon his face--
 
-    "Lo! 'Lieth flat and loveth Setebos!
-    'Maketh his teeth meet through his upper lip,
-    Will let those quails fly, will not eat this month
-    One little mess of whelks, so he may 'scape!"
+"Lo! 'Lieth flat and loveth Setebos!
+'Maketh his teeth meet through his upper lip,
+Will let those quails fly, will not eat this month
+One little mess of whelks, so he may 'scape!"
 
 Surely it would be very difficult to persuade oneself that this
 thunderstorm would have meant exactly the same thing if it had
@@ -10654,13 +10654,13 @@ horrible [[Lyric|lyric]] as "The Heretic's [[Tragedy]]," for instance, is absolu
 original, with its weird and almost [[Blood|blood]]-curdling echo verses,
 mocking echoes indeed--
 
-    "And dipt of his wings in [[Paris]] square,
-       They bring him now to lie burned alive.
+"And dipt of his wings in [[Paris]] square,
+They bring him now to lie burned alive.
 
-       _[And wanteth there grace of lute or clavicithern,
-           ye shall say to confirm him who singeth_--
+_[And wanteth there grace of lute or clavicithern,
+ye shall say to confirm him who singeth_--
 
-       We bring John now to be burned alive."
+We bring John now to be burned alive."
 
 A hundred instances might, of course, be given. [[Milton]]'s "[[Sonnet]] on
 his Blindness," or Keats's "Ode on a Grecian Urn," are both thoroughly
@@ -10739,22 +10739,22 @@ whole poem, and a very good poem too--
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="Robert Browning — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
 
-    "Up jumped Tokay on our table,
-    Like a pigmy [[Castle|castle]]-warder,
-    Dwarfish to see, but stout and able,
-    Arms and accoutrements all in order;
-    And fierce he looked North, then, wheeling South
-    Blew with his bugle a challenge to Drouth,
-    Cocked his flap-hat with the tosspot-feather,
-    Twisted his thumb in his red moustache,
-    Jingled his huge brass spurs together,
-    Tightened his waist with its Buda sash,
-    And then, with an impudence nought could abash,
-    Shrugged his hump-shoulder, to tell the beholder,
-    For twenty such knaves he would laugh but the bolder:
-    And so, with his [[Sword|sword]]-hilt gallantly jutting,
-    And dexter-hand on his haunch abutting,
-    Went the little man, Sir Ausbruch, strutting!"
+"Up jumped Tokay on our table,
+Like a pigmy [[Castle|castle]]-warder,
+Dwarfish to see, but stout and able,
+Arms and accoutrements all in order;
+And fierce he looked North, then, wheeling South
+Blew with his bugle a challenge to Drouth,
+Cocked his flap-hat with the tosspot-feather,
+Twisted his thumb in his red moustache,
+Jingled his huge brass spurs together,
+Tightened his waist with its Buda sash,
+And then, with an impudence nought could abash,
+Shrugged his hump-shoulder, to tell the beholder,
+For twenty such knaves he would laugh but the bolder:
+And so, with his [[Sword|sword]]-hilt gallantly jutting,
+And dexter-hand on his haunch abutting,
+Went the little man, Sir Ausbruch, strutting!"
 
 I suppose there are Browning students in existence who would think
 that this poem contained something pregnant about the Temperance
@@ -10781,12 +10781,12 @@ Now it is only just to Browning that his more uncouth effusions should
 not be treated as masterpieces by which he must stand or fall, but
 treated simply as his failures. It is really true that such a line as
 
-    "Irks [[Fear|fear]] the crop-full bird, frets [[Doubt|doubt]] the maw-crammed beast?"
+"Irks [[Fear|fear]] the crop-full bird, frets [[Doubt|doubt]] the maw-crammed beast?"
 
 is a very ugly and a very bad line. But it is quite equally true that
 Tennyson's
 
-    "And that good man, the clergyman, has told me words of peace,"
+"And that good man, the clergyman, has told me words of peace,"
 
 is a very ugly and a very bad line. But people do not say that this
 proves that Tennyson was a mere crabbed controversialist and
@@ -10803,15 +10803,15 @@ classical poets you will come upon passages which read like extracts
 from an American book of parodies. Swinburne, for example, when he
 wrote the couplet--
 
-    "From the lilies and languors of virtue
-    To the raptures and roses of vice,"
+"From the lilies and languors of virtue
+To the raptures and roses of vice,"
 
 wrote what is nothing but a bad [[Imitation|imitation]] of himself, an [[Imitation|imitation]]
 which seems indeed to have the wholly unjust and uncritical object of
 proving that the Swinburnian melody is a mechanical scheme of initial
 letters. Or again, Mr. Rudyard Kipling when he wrote the line--
 
-    "Or ride with the reckless seraphim on the rim of a red-maned star,"
+"Or ride with the reckless seraphim on the rim of a red-maned star,"
 
 was caricaturing himself in the harshest and least sympathetic spirit
 of American [[Humour|humour]]. This tendency is, of course, the result of the
@@ -10820,9 +10820,9 @@ us is forced to conceive ourselves as part of a _dramatis personæ_
 and act perpetually in character. Browning sometimes yielded to this
 [[Temptation|temptation]] to be a great deal too like himself.
 
-    "Will I widen thee out till thou turnest
-    From Margaret Minnikin mou' by God's grace,
-    To Muckle-mouth Meg in good earnest."
+"Will I widen thee out till thou turnest
+From Margaret Minnikin mou' by God's grace,
+To Muckle-mouth Meg in good earnest."
 
 This sort of thing is not to be defended in Browning any more than in
 Swinburne. But, on the other hand, it is not to be attributed in
@@ -10896,15 +10896,15 @@ by a certain attractiveness in the bold, varying, irregular verse--
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="Robert Browning — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
 
-    "He is either himsell a devil frae hell,
-    Or else his mother a [[Witch|witch]] maun be;
-    I wadna have ridden that wan [[Water|water]]
-    For a' the gowd in Christentie,"
+"He is either himsell a devil frae hell,
+Or else his mother a [[Witch|witch]] maun be;
+I wadna have ridden that wan [[Water|water]]
+For a' the gowd in Christentie,"
 
 is quite as pleasing to the ear in its own way as
 
-    "There's a bower of roses by Bendemeer stream,
-    And the [[Nightingale|nightingale]] sings in it all the [[Night|night]] long,"
+"There's a bower of roses by Bendemeer stream,
+And the [[Nightingale|nightingale]] sings in it all the [[Night|night]] long,"
 
 is in another way. Browning had an unrivalled ear for this particular
 kind of staccato music. The absurd notion that he had no sense of
@@ -10914,27 +10914,27 @@ satisfactory idea of Browning's rhythmic originality would be
 impossible without quotations more copious than entertaining. But the
 essential point has been suggested.
 
-    "They were purple of raiment and golden,
-    Filled full of thee, fiery with wine,
-    Thy [[lovers]] in haunts unbeholden,
-    In marvellous chambers of thine,"
+"They were purple of raiment and golden,
+Filled full of thee, fiery with wine,
+Thy [[lovers]] in haunts unbeholden,
+In marvellous chambers of thine,"
 
 is beautiful language, but not the only sort of beautiful language.
 This, for instance, has also a tune in it--
 
-    "I--'next poet.' No, my hearties,
-    I nor am, nor fain would be!
-    Choose your chiefs and pick your parties,
-    Not one [[Soul|soul]] revolt to me!
-           *       *       *       *       *
-    Which of you did I enable
-    Once to slip inside my breast,
-    There to catalogue and label
-    What I like least, what [[Love|love]] best,
-    [[Hope]] and [[Fear|fear]], believe and [[Doubt|doubt]] of,
-    Seek and shun, respect, deride,
-    Who has right to make a rout of
-    Rarities he found inside?"
+"I--'next poet.' No, my hearties,
+I nor am, nor fain would be!
+Choose your chiefs and pick your parties,
+Not one [[Soul|soul]] revolt to me!
+*       *       *       *       *
+Which of you did I enable
+Once to slip inside my breast,
+There to catalogue and label
+What I like least, what [[Love|love]] best,
+[[Hope]] and [[Fear|fear]], believe and [[Doubt|doubt]] of,
+Seek and shun, respect, deride,
+Who has right to make a rout of
+Rarities he found inside?"
 
 This quick, gallantly stepping measure also has its own kind of music,
 and the man who cannot feel it can never have enjoyed the sound of
@@ -10945,37 +10945,37 @@ the world, but the question whether there are not certain things which
 can only be conveyed by that method. It is perfectly true, for
 instance, that a really lofty and lucid line of Tennyson, such as--
 
-    "Thou art the highest, and most human too"
+"Thou art the highest, and most human too"
 and
-    "We needs must [[Love|love]] the highest when we see it"
+"We needs must [[Love|love]] the highest when we see it"
 
 would really be made the worse for being translated into Browning. It
 would probably become
 
-    "High's human; man loves best, best visible,"
+"High's human; man loves best, best visible,"
 
 and would lose its peculiar clarity and dignity and courtly plainness.
 But it is quite equally true that any really characteristic [[Fragment|fragment]]
 of Browning, if it were only the tempestuous scolding of the organist
 in "Master Hugues of Saxe-Gotha"--
 
-    "Hallo, you sacristan, show us a light there!
-    Down it dips, gone like a rocket.
-    What, you want, do you, to come unawares,
-    Sweeping the church up for first morning-prayers,
-    And find a poor devil has ended his cares
-    At the foot of your rotten-runged rat-riddled stairs?
-    Do I carry the [[Moon|moon]] in my pocket?"
+"Hallo, you sacristan, show us a light there!
+Down it dips, gone like a rocket.
+What, you want, do you, to come unawares,
+Sweeping the church up for first morning-prayers,
+And find a poor devil has ended his cares
+At the foot of your rotten-runged rat-riddled stairs?
+Do I carry the [[Moon|moon]] in my pocket?"
 
 --it is quite equally true that this outrageous gallop of rhymes
 ending with a frantic astronomical image would lose in energy and
 spirit if it were written in a conventional and classical style, and
 ran--
 
-    "What must I deem then that thou dreamest to find
-    Disjected bones adrift upon the stair
-    Thou sweepest clean, or that thou deemest that I
-    Pouch in my wallet the vice-regal sun?"
+"What must I deem then that thou dreamest to find
+Disjected bones adrift upon the stair
+Thou sweepest clean, or that thou deemest that I
+Pouch in my wallet the vice-regal sun?"
 
 Is it not obvious that this statelier version might be excellent
 poetry of its kind, and yet would be bad exactly in so far as it was
@@ -10999,10 +10999,10 @@ father and the mother of the [[Grotesque|grotesque]], would have ruled the poem.
 should have felt of that rowdy gathering little but the sensation of
 which Mr. Henley writes--
 
-    "Praise the generous gods for giving,
-    In this world of sin and strife,
-    With some little [[Time|time]] for living,
-    Unto each the joy of life,"
+"Praise the generous gods for giving,
+In this world of sin and strife,
+With some little [[Time|time]] for living,
+Unto each the joy of life,"
 
 the thought that every wise man has when looking at a Bank Holiday
 crowd at Margate.
@@ -11048,13 +11048,13 @@ most Browning, regarded physical [[Nature|nature]].
 <span class="atom-split" data-atom="chapter_06--part_05" data-title="Robert Browning — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
 
-    "And pitch down his basket before us,
-    All trembling alive
-    With pink and grey jellies, your sea-fruit;
-    You touch the strange lumps,
-    And mouths gape there, eyes open, all manner
-    Of horns and of humps,
-    Which only the fisher looks [[Grave|grave]] at."
+"And pitch down his basket before us,
+All trembling alive
+With pink and grey jellies, your sea-fruit;
+You touch the strange lumps,
+And mouths gape there, eyes open, all manner
+Of horns and of humps,
+Which only the fisher looks [[Grave|grave]] at."
 
 [[Nature]] might mean [[Flowers|flowers]] to Wordsworth and grass to Walt Whitman, but
 to Browning it really meant such things as these, the monstrosities
@@ -11066,13 +11066,13 @@ supreme moment of sincerity to explain that small things may be filled
 with God as [[Well|well]] as great, he uses the very same kind of image, the
 image of a shapeless sea-beast, to embody that noble conception.
 
-    "The Name comes close behind a stomach-cyst,
-    The simplest of creations, just a sac
-    That's mouth, heart, legs, and belly at once, yet lives
-    And feels, and could do neither, we conclude,
-    If simplified still further one degree."
+"The Name comes close behind a stomach-cyst,
+The simplest of creations, just a sac
+That's mouth, heart, legs, and belly at once, yet lives
+And feels, and could do neither, we conclude,
+If simplified still further one degree."
 
-                                          (SLUDGE.)
+(SLUDGE.)
 
 These bulbous, indescribable sea-goblins are the first thing on which
 the eye of the poet lights in looking on a landscape, and the last in
@@ -11121,12 +11121,12 @@ re-establishing optimism on a new foundation, and it is to be
 presumed, though it is somewhat difficult to imagine, that he prided
 himself on such rhymes as the following in _Pacchiarotto_:--
 
-    "The wolf, fox, bear, and monkey,
-    By piping advice in one key--
-    That his pipe should play a prelude
-    To something heaven-tinged not hell-hued,
-    Something not harsh but docile,
-    Man-liquid, not man-fossil."
+"The wolf, fox, bear, and monkey,
+By piping advice in one key--
+That his pipe should play a prelude
+To something heaven-tinged not hell-hued,
+Something not harsh but docile,
+Man-liquid, not man-fossil."
 
 This writing, considered as writing, can only be regarded as a kind of
 joke, and most probably Browning considered it so himself. It has
@@ -11134,10 +11134,10 @@ nothing at all to do with that powerful and symbolic use of the
 [[Grotesque|grotesque]] which may be found in such admirable passages as this from
 "Holy [[Cross]] Day":--
 
-    "Give your first groan--compunction's at work;
-    And soft! from a Jew you mount to a Turk.
-    Lo, Micah--the [[Self|self]]-same beard on chin
-    He was four times already converted in!"
+"Give your first groan--compunction's at work;
+And soft! from a Jew you mount to a Turk.
+Lo, Micah--the [[Self|self]]-same beard on chin
+He was four times already converted in!"
 
 This is the serious use of the [[Grotesque|grotesque]]. Through it passion and
 [[philosophy]] are as [[Well|well]] expressed as through any other medium. But the
@@ -11150,8 +11150,8 @@ assonance. "The Pied Piper of Hamelin," a poem written for children,
 and bound in general to be lucid and readable, ends with a rhyme which
 it is physically impossible for any one to say:--
 
-    "And, whether they pipe us free, fróm rats or fróm mice,
-    If we've promised them aught, let us keep our promise!"
+"And, whether they pipe us free, fróm rats or fróm mice,
+If we've promised them aught, let us keep our promise!"
 
 This queer trait in Browning, his inability to keep a kind of demented
 ingenuity even out of [[Poems|poems]] in which it was quite inappropriate, is a
@@ -11201,11 +11201,11 @@ expressing was profound or superficial. Suppose, for example, that a
 person [[Well|well]] read in English poetry but unacquainted with Browning's
 style were earnestly invited to consider the following verse:--
 
-    "Hobbs hints blue--straight he turtle eats.
-      Nobbs prints blue--claret crowns his cup.
-    Nokes outdares Stokes in azure feats--
-      Both gorge. Who fished the murex up?
-    What porridge had John Keats?"
+"Hobbs hints blue--straight he turtle eats.
+Nobbs prints blue--claret crowns his cup.
+Nokes outdares Stokes in azure feats--
+Both gorge. Who fished the murex up?
+What porridge had John Keats?"
 
 The individual so confronted would say without hesitation that it must
 indeed be an abstruse and indescribable thought which could only be
@@ -11221,8 +11221,8 @@ and points out that Hobbs, Nobbs, etc., obtain fame and comfort by
 merely using the dye from the shell; and adds the perfectly natural
 comment:--
 
-    "... Who fished the murex up?
-    What porridge had John Keats?"
+"... Who fished the murex up?
+What porridge had John Keats?"
 
 So that the verse is not subtle, and was not meant to be subtle, but
 is a perfectly casual piece of sentiment at the end of a light poem.
@@ -11266,8 +11266,8 @@ experiences. But Browning might simply be describing the material
 incident of the man being knocked downstairs, and his description
 would run:--
 
-    "What then? 'You lie' and doormat below stairs
-    Takes bump from back."
+"What then? 'You lie' and doormat below stairs
+Takes bump from back."
 
 This is not subtlety, but merely a kind of insane swiftness. Browning
 is not like Meredith, anxious to pause and examine the sensations of
@@ -11322,12 +11322,12 @@ He insists upon celebrating the poetry of mean landscapes. That sense
 of scrubbiness in [[Nature|nature]], as of a man unshaved, had never been
 conveyed with this enthusiasm and primeval gusto before.
 
-    "If there pushed any ragged thistle-stalk
-       Above its mates, the head was chopped; the bents
-       Were jealous else. What made those holes and rents
-    In the dock's harsh swarth [[Leaves|leaves]], bruised as to baulk
-    All [[Hope|hope]] of greenness? 'tis a brute must walk
-       Pashing their life out, with a brute's intents."
+"If there pushed any ragged thistle-stalk
+Above its mates, the head was chopped; the bents
+Were jealous else. What made those holes and rents
+In the dock's harsh swarth [[Leaves|leaves]], bruised as to baulk
+All [[Hope|hope]] of greenness? 'tis a brute must walk
+Pashing their life out, with a brute's intents."
 
 This is a perfect realisation of that eerie sentiment which comes upon
 us, not so often among [[Mountains|mountains]] and [[Water|water]]-falls, as it does on some
@@ -11387,12 +11387,12 @@ Egli insiste nel celebrare la poesia dei paesaggi meschini. Quel senso
 di squallore nella [[Nature|natura]], come d'un uomo non rasato, non era mai stato
 reso con questo entusiasmo e questa gioia primeva.
 
-    "Se qualche cencioso gambo di cardo si spingeva
-       sopra i compagni, il capo veniva mozzato; i giunchi
-       ne erano gelosi. Che cosa fece quei buchi e strappi
-    nelle dure foglie [[Leaves|scure]] della romice, ammaccate a sventare
-    ogni [[Hope|speranza]] di verzura? è una bestia che deve incedere
-       pestandone via la vita, coi propositi d'una bestia."
+"Se qualche cencioso gambo di cardo si spingeva
+sopra i compagni, il capo veniva mozzato; i giunchi
+ne erano gelosi. Che cosa fece quei buchi e strappi
+nelle dure foglie [[Leaves|scure]] della romice, ammaccate a sventare
+ogni [[Hope|speranza]] di verzura? è una bestia che deve incedere
+pestandone via la vita, coi propositi d'una bestia."
 
 Questa è una perfetta realizzazione di quel sentimento inquietante che ci coglie,
 non tanto spesso tra le [[Mountains|montagne]] e le cascate d'[[Water|acqua]], quanto su qualche
@@ -11659,23 +11659,23 @@ side by side, and their juxtaposition represents one vast revolution
 in the poetical manner of looking at things. The first is Goldsmith's
 almost too [[Well|well]] known
 
-    "When lovely woman stoops to folly,
-    And finds too late that men betray,
-    What charm can soothe her [[Melancholy|melancholy]]?
-    What art can wash her [[Guilt|guilt]] away?"
+"When lovely woman stoops to folly,
+And finds too late that men betray,
+What charm can soothe her [[Melancholy|melancholy]]?
+What art can wash her [[Guilt|guilt]] away?"
 
 Immediately afterwards comes, with a sudden and thrilling change of
 note, the voice of Burns:--
 
-    "Ye banks and braes o' bonnie Doon,
-      How can ye bloom sae fair?
-    How can ye chant, ye little [[Birds|birds]],
-      And I sae fu' of care?
+"Ye banks and braes o' bonnie Doon,
+How can ye bloom sae fair?
+How can ye chant, ye little [[Birds|birds]],
+And I sae fu' of care?
 
-    Thou'll break my heart, thou bonny bird,
-      That sings upon the bough,
-    Thou minds me of the happy days
-      When my fause [[Love]] was true."
+Thou'll break my heart, thou bonny bird,
+That sings upon the bough,
+Thou minds me of the happy days
+When my fause [[Love]] was true."
 
 A man might read those two [[Poems|poems]] a great many times without happening
 to realise that they are two [[Poems|poems]] on exactly the same subject--the
@@ -11886,7 +11886,7 @@ serpents without reason and without result.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_01" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 1)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_01" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 1)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 book _Interpretations of Poetry and Religion_. He, in contradistinction
@@ -12005,7 +12005,7 @@ fragmentary and inadequate expressions.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_02" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 2)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_02" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 2)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 In the delightful memoirs of that very remarkable man Sir Charles
@@ -12125,7 +12125,7 @@ found to be.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_03" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 3)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_03" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 3)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 The general idea is that Browning must have intended "Sludge" for an
@@ -12222,11 +12222,11 @@ slips of making Plato write Greek in naughts and crosses.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_04" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 4)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_04" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 4)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
-    "As I [[Fear|fear]], sir, he sometimes used to do
-    Before I found the useful book that knows."
+"As I [[Fear|fear]], sir, he sometimes used to do
+Before I found the useful book that knows."
 
 It would be difficult to imagine any figure more indecently
 confessional, more entirely devoid of not only any of the restraints
@@ -12262,19 +12262,19 @@ have failed to notice that this avowal on behalf of spiritualism is
 the pivot of the poem. The avowal itself is not only expressed
 clearly, but prepared and delivered with admirable rhetorical force:--
 
-    "Now for it, then! Will you believe me, though?
-    You've heard what I confess: I don't unsay
-    A single word: I cheated when I could,
-    Rapped with my toe-joints, set sham hands at work,
-    Wrote down names weak in sympathetic ink.
-    Rubbed odic lights with ends of phosphor-match,
-    And all the rest; believe that: believe this,
-    By the same token, though it seem to set
-    The crooked straight again, unsay the said,
-    Stick up what I've knocked down; I can't help that,
-    It's [[Truth|truth]]! I somehow vomit [[Truth|truth]] to-day.
-    This trade of mine--I don't know, can't be sure
-    But there was something in it, tricks and all!"
+"Now for it, then! Will you believe me, though?
+You've heard what I confess: I don't unsay
+A single word: I cheated when I could,
+Rapped with my toe-joints, set sham hands at work,
+Wrote down names weak in sympathetic ink.
+Rubbed odic lights with ends of phosphor-match,
+And all the rest; believe that: believe this,
+By the same token, though it seem to set
+The crooked straight again, unsay the said,
+Stick up what I've knocked down; I can't help that,
+It's [[Truth|truth]]! I somehow vomit [[Truth|truth]] to-day.
+This trade of mine--I don't know, can't be sure
+But there was something in it, tricks and all!"
 
 It is strange to call a poem with so clear and fine a climax an attack
 on spiritualism. To miss that climax is like missing the last sentence
@@ -12319,9 +12319,9 @@ such a case would do exactly as Sludge does. He would declare his own
 shame, declare the [[Truth|truth]] of his creed, and then, when he realised what
 he had done, say something like this:--
 
-    "R-r-r, you brute-beast and blackguard! Cowardly scamp!
-    I only wish I dared burn down the [[house]]
-    And spoil your sniggering!"
+"R-r-r, you brute-beast and blackguard! Cowardly scamp!
+I only wish I dared burn down the [[house]]
+And spoil your sniggering!"
 
 and so on, and so on.
 
@@ -12336,7 +12336,7 @@ coarse speaking will seldom do it.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_05" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 5)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_05" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 5)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 When we have grasped this point about "Sludge the Medium," we have
@@ -12350,7 +12350,7 @@ and the peculiar fascination which resides in the thought that the
 greatest lies about a man, and the greatest truths about him, may be
 found side by side in the same eloquent and sustained utterance.
 
-    "For Blougram, he believed, say, half he spoke."
+"For Blougram, he believed, say, half he spoke."
 
 Or, to put the matter in another way, the general idea of these [[Poems|poems]]
 is, that a man cannot help telling some [[Truth|truth]] even when he sets out to
@@ -12390,15 +12390,15 @@ ourselves on rationalism, and make it bear fruit to us. [[Faith]] itself
 is capable of becoming the darkest and most revolutionary of doubts.
 Then comes the passage:--
 
-    "Just when we are safest, there's a sunset-touch,
-    A fancy from a flower-bell, some one's [[Death|death]],
-    A [[Chorus|chorus]] ending from Euripides,--
-    And that's enough for fifty hopes and fears
-    As old and new at once as [[Nature]]'s [[Self|self]],
-    To rap and knock and enter in our [[Soul|soul]],
-    Take hands and [[Dance|dance]] there, a fantastic ring,
-    Round the ancient idol, on his base again,--
-    The grand Perhaps!"
+"Just when we are safest, there's a sunset-touch,
+A fancy from a flower-bell, some one's [[Death|death]],
+A [[Chorus|chorus]] ending from Euripides,--
+And that's enough for fifty hopes and fears
+As old and new at once as [[Nature]]'s [[Self|self]],
+To rap and knock and enter in our [[Soul|soul]],
+Take hands and [[Dance|dance]] there, a fantastic ring,
+Round the ancient idol, on his base again,--
+The grand Perhaps!"
 
 Nobler diction and a nobler meaning could not have been put into the
 mouth of Pompilia, or Rabbi Ben Ezra. It is in reality put into the
@@ -12446,7 +12446,7 @@ forth is the voice of God, uttering His everlasting soliloquy.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_06" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 6)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_06" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 6)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 INDEX
@@ -12498,83 +12498,83 @@ _Blot on the 'Scutcheon, A_, 53.
 Boyd, Mr., 62.
 
 Browning, Robert: birth and family [[history]], 3;
-  theories as to his descent, 4-8;
-  a typical Englishman of the middle class, 9;
-  his immediate ancestors, 10 _seq._;
-  [[Education|education]], 12;
-  boyhood and youth, 17;
-  first [[Poems|poems]], _Incondita_, 17;
-  romantic spirit, 18;
-  publication of _Pauline_, 20;
-  [[Friendship|friendship]] with literary men, 21;
-  _Paracelsus_, 22;
-  introduction to literary world, 25;
-  his earliest admirers, 26;
-  [[Friendship|friendship]] with Carlyle, 26;
-  _Strafford_, 27;
-  _Sordello_, 34;
-  _Pippa Passes_, 43;
-  _Dramatic Lyrics_, 45;
-  _The Return of the Druses_, 51;
-  _A Blot on the 'Scutcheon_, 53;
-  correspondence with Elizabeth Barrett, 62 _seq._;
-  their first meeting, 70;
-  [[Marriage|marriage]] and elopement, 78, 79;
-  life in [[Italy]], 81 _seq._;
-  [[Love|love]] of [[Italy]], 82, 85 _seq._;
-  sympathy with Italian Revolution, 90;
-  attitude towards spiritualism, 91 _seq._, 113, 190-199;
-  [[Death|death]] of his wife, 103;
-  returns to England, 105;
-  _The Ring and the Book_, 110;
-  culmination of his literary fame, 110, 117;
-  life in society, 110;
-  elected Fellow of Balliol, 117;
-  honoured by the great Universities, 118;
-  _Balaustion's Adventure_, 119-120;
-  _Aristophanes' Apology_, 120;
-  _The [[Agamemnon]] of Aeschylus_, 120;
-  _Prince Hohenstiel-Schwangau_, 121;
-  _Red-Cotton [[Night]]-Cap Country_, 122;
-  _Fifine at the Fair_, 124;
-  _The Inn Album_, 125;
-  _Pacchiarotto, and How He Worked in Distemper_, 125;
-  _La Saisiaz_, 127;
-  _The Two Poets of Croisic_, 127;
-  _Dramatic Idylls_, 127;
-  _Jocoseria_, 127;
-  _Ferishtah's Fancies_, 127;
-  _Parleyings with Certain People of Importance in their Day_, 128;
-  accepts post of Foreign Correspondent to the Royal Academy, 129;
-  goes to Llangollen with his sister, 130;
-  last [[Journey|journey]] to [[Italy]], 130;
-  [[Death|death]] at [[Venice]], 132;
-  publication of _Asolando_, 132;
-  his conversation, 36;
-  [[Vanity|vanity]], 33, 36;
-  faults and virtues, 40, 55;
-  his interest in Art, 82 _seq._;
-  his varied accomplishments, 84-85;
-  personality and presence, 18, 33, 112 _seq._;
-  his prejudices, 113-116;
-  his occasional coarseness, 116;
-  politics, 86 _seq._;
-  Browning as a father, 105;
-  as dramatist, 52;
-  as a literary [[artist]], 133 _seq._;
-  his use of the [[Grotesque|grotesque]], 48, 140, 143, 148 _seq._;
-  his failures, 141;
-  artistic originality, 136, 143, 158;
-  keen sense of melody and rhythm, 145 _seq._;
-  ingenuity in rhyming, 152;
-  his buffoonery, 154;
-  obscurity, 154 _seq._;
-  his conception of the Universe, 175;
-  [[philosophy]], 177 _seq._;
-  optimism, 179 _seq._;
-  his [[Love|love]] poetry, 49;
-  his knaves, 51, 201-202;
-  the key to his casuistical monologues, 199.
+theories as to his descent, 4-8;
+a typical Englishman of the middle class, 9;
+his immediate ancestors, 10 _seq._;
+[[Education|education]], 12;
+boyhood and youth, 17;
+first [[Poems|poems]], _Incondita_, 17;
+romantic spirit, 18;
+publication of _Pauline_, 20;
+[[Friendship|friendship]] with literary men, 21;
+_Paracelsus_, 22;
+introduction to literary world, 25;
+his earliest admirers, 26;
+[[Friendship|friendship]] with Carlyle, 26;
+_Strafford_, 27;
+_Sordello_, 34;
+_Pippa Passes_, 43;
+_Dramatic Lyrics_, 45;
+_The Return of the Druses_, 51;
+_A Blot on the 'Scutcheon_, 53;
+correspondence with Elizabeth Barrett, 62 _seq._;
+their first meeting, 70;
+[[Marriage|marriage]] and elopement, 78, 79;
+life in [[Italy]], 81 _seq._;
+[[Love|love]] of [[Italy]], 82, 85 _seq._;
+sympathy with Italian Revolution, 90;
+attitude towards spiritualism, 91 _seq._, 113, 190-199;
+[[Death|death]] of his wife, 103;
+returns to England, 105;
+_The Ring and the Book_, 110;
+culmination of his literary fame, 110, 117;
+life in society, 110;
+elected Fellow of Balliol, 117;
+honoured by the great Universities, 118;
+_Balaustion's Adventure_, 119-120;
+_Aristophanes' Apology_, 120;
+_The [[Agamemnon]] of Aeschylus_, 120;
+_Prince Hohenstiel-Schwangau_, 121;
+_Red-Cotton [[Night]]-Cap Country_, 122;
+_Fifine at the Fair_, 124;
+_The Inn Album_, 125;
+_Pacchiarotto, and How He Worked in Distemper_, 125;
+_La Saisiaz_, 127;
+_The Two Poets of Croisic_, 127;
+_Dramatic Idylls_, 127;
+_Jocoseria_, 127;
+_Ferishtah's Fancies_, 127;
+_Parleyings with Certain People of Importance in their Day_, 128;
+accepts post of Foreign Correspondent to the Royal Academy, 129;
+goes to Llangollen with his sister, 130;
+last [[Journey|journey]] to [[Italy]], 130;
+[[Death|death]] at [[Venice]], 132;
+publication of _Asolando_, 132;
+his conversation, 36;
+[[Vanity|vanity]], 33, 36;
+faults and virtues, 40, 55;
+his interest in Art, 82 _seq._;
+his varied accomplishments, 84-85;
+personality and presence, 18, 33, 112 _seq._;
+his prejudices, 113-116;
+his occasional coarseness, 116;
+politics, 86 _seq._;
+Browning as a father, 105;
+as dramatist, 52;
+as a literary [[artist]], 133 _seq._;
+his use of the [[Grotesque|grotesque]], 48, 140, 143, 148 _seq._;
+his failures, 141;
+artistic originality, 136, 143, 158;
+keen sense of melody and rhythm, 145 _seq._;
+ingenuity in rhyming, 152;
+his buffoonery, 154;
+obscurity, 154 _seq._;
+his conception of the Universe, 175;
+[[philosophy]], 177 _seq._;
+optimism, 179 _seq._;
+his [[Love|love]] poetry, 49;
+his knaves, 51, 201-202;
+the key to his casuistical monologues, 199.
 
 _Browning, Life of_ (Mrs. Orr), 92.
 
@@ -12781,7 +12781,7 @@ Kipling, Rudyard, 142.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_07" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 7)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_07" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 7)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 Kirkup, Seymour, 103.
@@ -12940,8 +12940,8 @@ _Red-Cotton [[Night]]-Cap Country_, 122-124.
 _Return of the Druses, The_, 51-53.
 
 Revolution,
-  The French, 15;
-  Italian, 90.
+The French, 15;
+Italian, 90.
 
 _Ring and the Book, The_, 85, 106, 109, 123, 137, 160-176.
 
@@ -13071,7 +13071,7 @@ Z
 
 Zola, 164.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 ENGLISH MEN OF LETTERS.
 
@@ -13079,115 +13079,115 @@ NEW SERIES.
 
 _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
 
-    GEORGE ELIOT. By Sir LESLIE STEPHEN, K.C.B.
-    HAZLITT. By AUGUSTINE BIRRELL, K.C.
-    MATTHEW ARNOLD. By HERBERT W. PAUL.
-    RUSKIN. By FREDERIC HARRISON.
-    TENNYSON. By Sir ALFRED LYALL.
-    RICHARDSON. By AUSTIN DOBSON.
-    BROWNING. By G.K. CHESTERTON.
-    CRABBE. By the Rev. Canon AINGER.
-    JANE AUSTEN. By the Rev. Canon BEECHING.
-    HOBBES. By Sir LESLIE STEPHEN, K.C.B.
-    ADAM [[smith|SMITH]]. By FRANCIS W. HIRST.
-    SYDNEY [[smith|SMITH]]. By GEORGE W.E. RUSSELL.
-    FANNY BURNEY. By AUSTIN DOBSON.
-    JEREMY TAYLOR. By [[Edmund|EDMUND]] GOSSE.
-    ANDREW MARVELL. By AUGUSTINE BIRRELL, K.C.
-    [[Dante|DANTE]] GABRIEL ROSSETTI. By A.C. BENSON.
-    [[Maria|MARIA]] EDGEWORTH. By the Hon. EMILY LAWLESS.
-    MRS. GASKELL. By CLEMENT SHORTER.
-    THOMAS MOORE. By STEPHEN GWYNN.
+GEORGE ELIOT. By Sir LESLIE STEPHEN, K.C.B.
+HAZLITT. By AUGUSTINE BIRRELL, K.C.
+MATTHEW ARNOLD. By HERBERT W. PAUL.
+RUSKIN. By FREDERIC HARRISON.
+TENNYSON. By Sir ALFRED LYALL.
+RICHARDSON. By AUSTIN DOBSON.
+BROWNING. By G.K. CHESTERTON.
+CRABBE. By the Rev. Canon AINGER.
+JANE AUSTEN. By the Rev. Canon BEECHING.
+HOBBES. By Sir LESLIE STEPHEN, K.C.B.
+ADAM [[smith|SMITH]]. By FRANCIS W. HIRST.
+SYDNEY [[smith|SMITH]]. By GEORGE W.E. RUSSELL.
+FANNY BURNEY. By AUSTIN DOBSON.
+JEREMY TAYLOR. By [[Edmund|EDMUND]] GOSSE.
+ANDREW MARVELL. By AUGUSTINE BIRRELL, K.C.
+[[Dante|DANTE]] GABRIEL ROSSETTI. By A.C. BENSON.
+[[Maria|MARIA]] EDGEWORTH. By the Hon. EMILY LAWLESS.
+MRS. GASKELL. By CLEMENT SHORTER.
+THOMAS MOORE. By STEPHEN GWYNN.
 
 RE-ISSUE OF THE ORIGINAL SERIES
 
 _Library Edition. Uniform with the above. 2s. net each._
 
-    ADDISON. By W.J. COURTHOPE.
-    BACON. By Dean CHURCH.
-    BENTLEY. By Sir [[Richard|RICHARD]] JEBB.
-    BUNYAN. By J.A. FROUDE.
-    BURKE. By JOHN MORLEY.
-    BURNS. By Principal SHAIRP.
-    BYRON. By Professor NICHOL.
-    CARLYLE. By Professor NICHOL.
-    CHAUCER. By Dr. A.W. WARD.
-    COLERIDGE. By H.D. TRAILL.
-    COWPER. By GOLDWIN [[smith|SMITH]].
-    DEFOE. By W. MINTO.
-    DEQUINCEY. By Prof. MASSON.
-    DICKENS. By Dr. A.W. WARD.
-    DRYDEN. By Prof. SAINTSBURY.
-    FIELDING. By AUSTIN DOBSON.
-    GIBBON. By J.C. MORISON.
-    GOLDSMITH. By W. BLACK.
-    GRAY. By [[Edmund|EDMUND]] GOSSE.
-    HAWTHORNE. By HENRY JAMES.
-    HUME. By Prof. HUXLEY, F.R.S.
-    JOHNSON. By Sir LESLIE STEPHEN, K.C.B.
-    KEATS. By SIDNEY COLVIN.
-    [[Lamb|LAMB]], CHARLES. By Canon AINGER.
-    LANDOR. By SIDNEY COLVIN.
-    LOCKE. By THOMAS FOWLER.
-    MACAULAY. By J.C. MORISON.
-    [[Milton|MILTON]]. By MARK PATTISON.
-    POPE. By Sir LESLIE STEPHEN, K.C.B.
-    SCOTT. By R.H. HUTTON.
-    SHELLEY. By J.A. SYMONDS.
-    SHERIDAN. By Mrs. OLIPHANT.
-    SIDNEY. By J.A. SYMONDS.
-    SOUTHEY. By Prof. DOWDEN.
-    SPENSER. By Dean CHURCH.
-    STERNE. By H.D. TRAILL.
-    SWIFT. By Sir LESLIE STEPHEN, K.C.B.
-    THACKERAY. By ANTHONY TROLLOPE.
-    WORDSWORTH. By F.W.H. MYERS.
+ADDISON. By W.J. COURTHOPE.
+BACON. By Dean CHURCH.
+BENTLEY. By Sir [[Richard|RICHARD]] JEBB.
+BUNYAN. By J.A. FROUDE.
+BURKE. By JOHN MORLEY.
+BURNS. By Principal SHAIRP.
+BYRON. By Professor NICHOL.
+CARLYLE. By Professor NICHOL.
+CHAUCER. By Dr. A.W. WARD.
+COLERIDGE. By H.D. TRAILL.
+COWPER. By GOLDWIN [[smith|SMITH]].
+DEFOE. By W. MINTO.
+DEQUINCEY. By Prof. MASSON.
+DICKENS. By Dr. A.W. WARD.
+DRYDEN. By Prof. SAINTSBURY.
+FIELDING. By AUSTIN DOBSON.
+GIBBON. By J.C. MORISON.
+GOLDSMITH. By W. BLACK.
+GRAY. By [[Edmund|EDMUND]] GOSSE.
+HAWTHORNE. By HENRY JAMES.
+HUME. By Prof. HUXLEY, F.R.S.
+JOHNSON. By Sir LESLIE STEPHEN, K.C.B.
+KEATS. By SIDNEY COLVIN.
+[[Lamb|LAMB]], CHARLES. By Canon AINGER.
+LANDOR. By SIDNEY COLVIN.
+LOCKE. By THOMAS FOWLER.
+MACAULAY. By J.C. MORISON.
+[[Milton|MILTON]]. By MARK PATTISON.
+POPE. By Sir LESLIE STEPHEN, K.C.B.
+SCOTT. By R.H. HUTTON.
+SHELLEY. By J.A. SYMONDS.
+SHERIDAN. By Mrs. OLIPHANT.
+SIDNEY. By J.A. SYMONDS.
+SOUTHEY. By Prof. DOWDEN.
+SPENSER. By Dean CHURCH.
+STERNE. By H.D. TRAILL.
+SWIFT. By Sir LESLIE STEPHEN, K.C.B.
+THACKERAY. By ANTHONY TROLLOPE.
+WORDSWORTH. By F.W.H. MYERS.
 
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_08" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 8)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_08" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 8)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
-  MACMILLAN AND CO., LTD., [[London|LONDON]].
+MACMILLAN AND CO., LTD., [[London|LONDON]].
 
-       *       *       *       *       *
+*       *       *       *       *
 
 ENGLISH MEN OF ACTION SERIES.
 
 [[Crown]] 8vo. Cloth. With Portraits. 2s. 6d. each.
 
-    CAMPBELL (COLIN). By ARCHIBALD FORBES.
-    CLIVE. By Sir CHARLES WILSON.
-    COOK (Captain). By Sir WALTER BESANT.
-    DAMPIER. By W. CLARK RUSSELL.
-    DRAKE. By JULIAN CORBETT.
-    DUNDONALD. By the Hon. J.W. FORTESCUE.
-    GORDON (General). By Sir W. BUTLER.
-    [[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
-    HAVELOCK (Sir Henry). By A. FORBES.
-    [[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
-    LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
-    LIVINGSTONE. By THOMAS HUGHES.
-    MONK. By JULIAN CORBETT.
-    MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
-    NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
-    NELSON. By Prof. J.K. LAUGHTON.
-    PETERBOROUGH. By W. STEBBING.
-    RODNEY. By DAVID HANNAY.
-    STRAFFORD. By H.D. TRAILL.
-    WARWICK, the [[King]]-Maker By C.W. OMAN.
-    WELLINGTON. By GEORGE HOOPER.
-    WOLFE. By A.G. BRADLEY.
+CAMPBELL (COLIN). By ARCHIBALD FORBES.
+CLIVE. By Sir CHARLES WILSON.
+COOK (Captain). By Sir WALTER BESANT.
+DAMPIER. By W. CLARK RUSSELL.
+DRAKE. By JULIAN CORBETT.
+DUNDONALD. By the Hon. J.W. FORTESCUE.
+GORDON (General). By Sir W. BUTLER.
+[[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
+HAVELOCK (Sir Henry). By A. FORBES.
+[[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
+LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
+LIVINGSTONE. By THOMAS HUGHES.
+MONK. By JULIAN CORBETT.
+MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
+NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
+NELSON. By Prof. J.K. LAUGHTON.
+PETERBOROUGH. By W. STEBBING.
+RODNEY. By DAVID HANNAY.
+STRAFFORD. By H.D. TRAILL.
+WARWICK, the [[King]]-Maker By C.W. OMAN.
+WELLINGTON. By GEORGE HOOPER.
+WOLFE. By A.G. BRADLEY.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 TWELVE ENGLISHMEN STATESMEN.
 
 [[Crown]] 8vo. 2s. 6d. each.
 
 * *
- * _A Series of Short Biographies, not designed to be a complete roll
+* _A Series of Short Biographies, not designed to be a complete roll
 of famous Statesmen, but to present in historic order the lives and
 work of those leading actors in our affairs who by their direct
 influence have left an abiding mark on the policy, the institutions,
@@ -13227,7 +13227,7 @@ End of the Project Gutenberg EBook of Robert Browning, by G. K. Chesterton
 
 ***** This file should be named 13342-8.txt or 13342-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/3/3/4/13342/
+http://www.gutenberg.net/1/3/3/4/13342/
 
 Produced by Jonathan Ingram, Victoria Woosley and PG Distributed
 Proofreaders
@@ -13307,7 +13307,7 @@ Gutenberg-tm License when you share it without charge with others.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_09" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 9)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_09" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 9)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 1.D.  The copyright laws of the place where you are located also govern
@@ -13383,33 +13383,33 @@ access to or distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
@@ -13507,33 +13507,33 @@ accesso a, o per distribuire opere elettroniche Project Gutenberg-tm a condizion
 che
 
 - Voi paghiate un diritto d'autore del 20% degli utili lordi che ricavate dall'
-     uso di opere Project Gutenberg-tm calcolati usando il metodo
-     che già usate per calcolare le imposte a voi applicabili. Il diritto è
-     dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
-     ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
-     Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
-     devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
-     fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
-     inviati alla Project Gutenberg Literary Archive Foundation all'
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
-     Project Gutenberg Literary Archive Foundation».
+uso di opere Project Gutenberg-tm calcolati usando il metodo
+che già usate per calcolare le imposte a voi applicabili. Il diritto è
+dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
+ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
+Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
+devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
+fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
+inviati alla Project Gutenberg Literary Archive Foundation all'
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
+Project Gutenberg Literary Archive Foundation».
 
 - Voi forniate un rimborso completo di qualsiasi somma pagata da un utente che vi notifichi
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
-     non accetta i termini della Licenza completa Project Gutenberg-tm.
-     Dovete richiedere a un tale utente di restituire o
-     distruggere tutte le copie delle opere possedute in un supporto fisico
-     e di cessare ogni uso e ogni accesso alle altre copie di
-     opere Project Gutenberg-tm.
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
+non accetta i termini della Licenza completa Project Gutenberg-tm.
+Dovete richiedere a un tale utente di restituire o
+distruggere tutte le copie delle opere possedute in un supporto fisico
+e di cessare ogni uso e ogni accesso alle altre copie di
+opere Project Gutenberg-tm.
 
 - Voi forniate, in accordo con il paragrafo 1.F.3, un rimborso completo di qualsiasi
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni
-     dal ricevimento dell'opera.
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni
+dal ricevimento dell'opera.
 
 - Voi vi conformiate a tutti gli altri termini di questo accordo per la libera
-     distribuzione di opere Project Gutenberg-tm.
+distribuzione di opere Project Gutenberg-tm.
 
 1.E.9. Se desiderate far pagare una tariffa o distribuire un'opera elettronica
 Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli
@@ -13557,7 +13557,7 @@ vostra apparecchiatura.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_10" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 10)" data-chapter="Chapter 09 Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_10" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 10)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
 
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
@@ -13650,9 +13650,9 @@ information can be found at the Foundation's web site and official
 page at http://pglaf.org
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -13703,7 +13703,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
@@ -13803,9 +13803,9 @@ aggiornate si trovano sul sito web della Fondazione e sulla pagina ufficiale
 all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 Literary Archive Foundation
@@ -13855,7 +13855,7 @@ manteniamo gli eBook in conformità con una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 Questo sito web include informazioni sul Project Gutenberg-tm,
 inclusi come fare donazioni alla Project Gutenberg Literary

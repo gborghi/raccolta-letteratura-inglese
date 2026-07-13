@@ -76,7 +76,7 @@ _________________________________________________________________
 
 L'Ultimo [[Hero|Eroe]]  
 
-          G.K. Chesterton
+G.K. Chesterton
 
 Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 Vi fu strage d'alberi e crollo di torri a venti miglia di distanza,  
@@ -194,7 +194,7 @@ _________________________________________________________________
 
 L'Ultimo [[Hero|Eroe]]  
 
-          G.K. Chesterton
+G.K. Chesterton
 
 Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 Vi fu strage d'alberi e crollo di torri a venti miglia di distanza,  

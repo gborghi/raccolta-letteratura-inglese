@@ -2752,7 +2752,7 @@ THE “SLAPPING SAL.”
 
 
 
-<span class="atom-split" data-atom="chapter_01_how_the_black_sheep_came_forth" data-title="THE WHITE COMPANY — Chapter 1: HOW THE BLACK SHEEP CAME FORTH FROM THE FOLD" data-chapter="Chapter 01 HOW THE BLACK SHEEP CAME FORTH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_how_the_black_sheep_came_forth" data-title="THE WHITE COMPANY — Chapter 1: HOW THE BLACK SHEEP CAME FORTH FROM THE FOLD" data-chapter="HOW THE BLACK SHEEP CAME FORTH" data-kind="chapter"></span>
 
 
 CHAPTER I. HOW THE BLACK SHEEP CAME FORTH FROM THE FOLD.
@@ -2822,7 +2822,7 @@ But the novice was a strategist as well as a man of action. Springing forward, h
 
 
 
-<span class="atom-split" data-atom="chapter_02_how_alleyne_edricson_came_out" data-title="THE WHITE COMPANY — Chapter 2: HOW ALLEYNE EDRICSON CAME OUT INTO THE WORLD" data-chapter="Chapter 02 HOW ALLEYNE EDRICSON CAME OUT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_how_alleyne_edricson_came_out" data-title="THE WHITE COMPANY — Chapter 2: HOW ALLEYNE EDRICSON CAME OUT INTO THE WORLD" data-chapter="HOW ALLEYNE EDRICSON CAME OUT" data-kind="chapter"></span>
 
 
 CHAPTER II. HOW ALLEYNE EDRICSON CAME OUT INTO THE WORLD.
@@ -2873,7 +2873,7 @@ At the turn of the road he stopped and gazed back. There was the wide-spread bui
 
 
 
-<span class="atom-split" data-atom="chapter_03_how_hordle_john_cozened_the_fu" data-title="THE WHITE COMPANY — Chapter 3: HOW HORDLE JOHN COZENED THE FULLER OF LYMINGTON" data-chapter="Chapter 03 HOW HORDLE JOHN COZENED THE FU" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_how_hordle_john_cozened_the_fu" data-title="THE WHITE COMPANY — Chapter 3: HOW HORDLE JOHN COZENED THE FULLER OF LYMINGTON" data-chapter="HOW HORDLE JOHN COZENED THE FU" data-kind="chapter"></span>
 
 
 CHAPTER III. HOW HORDLE JOHN COZENED THE FULLER OF LYMINGTON.
@@ -2913,7 +2913,7 @@ The young man listened to this tale of wrong with all the seriousness that he co
 
 
 
-<span class="atom-split" data-atom="chapter_04_how_the_bailiff_of_southampton" data-title="THE WHITE COMPANY — Chapter 4: HOW THE BAILIFF OF SOUTHAMPTON SLEW THE TWO MASTERLESS MEN" data-chapter="Chapter 04 HOW THE BAILIFF OF SOUTHAMPTON" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_how_the_bailiff_of_southampton" data-title="THE WHITE COMPANY — Chapter 4: HOW THE BAILIFF OF SOUTHAMPTON SLEW THE TWO MASTERLESS MEN" data-chapter="HOW THE BAILIFF OF SOUTHAMPTON" data-kind="chapter"></span>
 
 
 CHAPTER IV. HOW THE BAILIFF OF SOUTHAMPTON SLEW THE TWO MASTERLESS MEN.
@@ -2987,7 +2987,7 @@ Alleyne gazed upon the scene — the portly velvet-clad official, the knot of ha
 
 
 
-<span class="atom-split" data-atom="chapter_05_how_a_strange_company_gathered" data-title="THE WHITE COMPANY — Chapter 5: HOW A STRANGE COMPANY GATHERED AT THE “PIED MERLIN.”" data-chapter="Chapter 05 HOW A STRANGE COMPANY GATHERED" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_how_a_strange_company_gathered" data-title="THE WHITE COMPANY — Chapter 5: HOW A STRANGE COMPANY GATHERED AT THE “PIED MERLIN.”" data-chapter="HOW A STRANGE COMPANY GATHERED" data-kind="chapter"></span>
 
 
 CHAPTER V. HOW A STRANGE COMPANY GATHERED AT THE “PIED MERLIN.”
@@ -3076,7 +3076,7 @@ Both the foresters and the laborers had risen from their bench, and Dame Eliza a
 
 
 
-<span class="atom-split" data-atom="chapter_06_how_samkin_aylward_wagered_his" data-title="THE WHITE COMPANY — Chapter 6: HOW SAMKIN AYLWARD WAGERED HIS FEATHER-BED" data-chapter="Chapter 06 HOW SAMKIN AYLWARD WAGERED HIS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_how_samkin_aylward_wagered_his" data-title="THE WHITE COMPANY — Chapter 6: HOW SAMKIN AYLWARD WAGERED HIS FEATHER-BED" data-chapter="HOW SAMKIN AYLWARD WAGERED HIS" data-kind="chapter"></span>
 
 
 CHAPTER VI. HOW SAMKIN AYLWARD WAGERED HIS FEATHER-BED.
@@ -3180,7 +3180,7 @@ The unfortunate limner had been sitting up rubbing himself ruefully and staring 
 
 
 
-<span class="atom-split" data-atom="chapter_07_how_the_three_comrades_journey" data-title="THE WHITE COMPANY — Chapter 7: HOW THE THREE COMRADES JOURNEYED THROUGH THE WOODLANDS" data-chapter="Chapter 07 HOW THE THREE COMRADES JOURNEY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_how_the_three_comrades_journey" data-title="THE WHITE COMPANY — Chapter 7: HOW THE THREE COMRADES JOURNEYED THROUGH THE WOODLANDS" data-chapter="HOW THE THREE COMRADES JOURNEY" data-kind="chapter"></span>
 
 
 CHAPTER VII. HOW THE THREE COMRADES JOURNEYED THROUGH THE WOODLANDS.
@@ -3261,7 +3261,7 @@ The pious Alleyne was deeply shocked by this reminiscence. Involuntarily he glan
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_three_friends" data-title="THE WHITE COMPANY — Chapter 8: THE THREE FRIENDS" data-chapter="Chapter 08 THE THREE FRIENDS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_the_three_friends" data-title="THE WHITE COMPANY — Chapter 8: THE THREE FRIENDS" data-chapter="THE THREE FRIENDS" data-kind="chapter"></span>
 
 
 CHAPTER VIII. THE THREE FRIENDS.
@@ -3325,7 +3325,7 @@ It was hard indeed for Alleyne to break away from these two new but hearty frien
 
 
 
-<span class="atom-split" data-atom="chapter_09_how_strange_things_befell_in_m" data-title="THE WHITE COMPANY — Chapter 9: HOW STRANGE THINGS BEFELL IN MINSTEAD WOOD" data-chapter="Chapter 09 HOW STRANGE THINGS BEFELL IN M" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_how_strange_things_befell_in_m" data-title="THE WHITE COMPANY — Chapter 9: HOW STRANGE THINGS BEFELL IN MINSTEAD WOOD" data-chapter="HOW STRANGE THINGS BEFELL IN M" data-kind="chapter"></span>
 
 
 CHAPTER IX. HOW STRANGE THINGS BEFELL IN MINSTEAD WOOD.
@@ -3430,7 +3430,7 @@ To his surprise she burst out a-laughing, and, spurring her palfrey, dashed off 
 
 
 
-<span class="atom-split" data-atom="chapter_10_how_hordle_john_found_a_man_wh" data-title="THE WHITE COMPANY — Chapter 10: HOW HORDLE JOHN FOUND A MAN WHOM HE MIGHT FOLLOW" data-chapter="Chapter 10 HOW HORDLE JOHN FOUND A MAN WH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_how_hordle_john_found_a_man_wh" data-title="THE WHITE COMPANY — Chapter 10: HOW HORDLE JOHN FOUND A MAN WHOM HE MIGHT FOLLOW" data-chapter="HOW HORDLE JOHN FOUND A MAN WH" data-kind="chapter"></span>
 
 
 CHAPTER X. HOW HORDLE JOHN FOUND A MAN WHOM HE MIGHT FOLLOW.
@@ -3533,7 +3533,7 @@ As they passed through the castle gate, John plucked at Aylward’s sleeve, and 
 
 
 
-<span class="atom-split" data-atom="chapter_11_how_a_young_shepherd_had_a_per" data-title="THE WHITE COMPANY — Chapter 11: HOW A YOUNG SHEPHERD HAD A PERILOUS FLOCK" data-chapter="Chapter 11 HOW A YOUNG SHEPHERD HAD A PER" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_how_a_young_shepherd_had_a_per" data-title="THE WHITE COMPANY — Chapter 11: HOW A YOUNG SHEPHERD HAD A PERILOUS FLOCK" data-chapter="HOW A YOUNG SHEPHERD HAD A PER" data-kind="chapter"></span>
 
 
 CHAPTER XI. HOW A YOUNG SHEPHERD HAD A PERILOUS FLOCK.
@@ -3639,7 +3639,7 @@ And so Alleyne found himself not only chosen as squire to a knight but also as s
 
 
 
-<span class="atom-split" data-atom="chapter_12_how_alleyne_learned_more_than" data-title="THE WHITE COMPANY — Chapter 12: HOW ALLEYNE LEARNED MORE THAN HE COULD TEACH" data-chapter="Chapter 12 HOW ALLEYNE LEARNED MORE THAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_how_alleyne_learned_more_than" data-title="THE WHITE COMPANY — Chapter 12: HOW ALLEYNE LEARNED MORE THAN HE COULD TEACH" data-chapter="HOW ALLEYNE LEARNED MORE THAN" data-kind="chapter"></span>
 
 
 CHAPTER XII. HOW ALLEYNE LEARNED MORE THAN HE COULD TEACH.
@@ -3688,7 +3688,7 @@ The maid looked aslant at him with laughing eyes. “It is not an illness that k
 
 
 
-<span class="atom-split" data-atom="chapter_13_how_the_white_company_set_fort" data-title="THE WHITE COMPANY — Chapter 13: HOW THE WHITE COMPANY SET FORTH TO THE WARS" data-chapter="Chapter 13 HOW THE WHITE COMPANY SET FORT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_how_the_white_company_set_fort" data-title="THE WHITE COMPANY — Chapter 13: HOW THE WHITE COMPANY SET FORTH TO THE WARS" data-chapter="HOW THE WHITE COMPANY SET FORT" data-kind="chapter"></span>
 
 
 CHAPTER XIII. HOW THE WHITE COMPANY SET FORTH TO THE WARS.
@@ -3734,7 +3734,7 @@ The Lady Mary Loring slipped her hand from her yellow leather gauntlet, and he, 
 
 
 
-<span class="atom-split" data-atom="chapter_14_how_sir_nigel_sought_for_a_way" data-title="THE WHITE COMPANY — Chapter 14: HOW SIR NIGEL SOUGHT FOR A WAYSIDE VENTURE" data-chapter="Chapter 14 HOW SIR NIGEL SOUGHT FOR A WAY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_how_sir_nigel_sought_for_a_way" data-title="THE WHITE COMPANY — Chapter 14: HOW SIR NIGEL SOUGHT FOR A WAYSIDE VENTURE" data-chapter="HOW SIR NIGEL SOUGHT FOR A WAY" data-kind="chapter"></span>
 
 
 CHAPTER XIV. HOW SIR NIGEL SOUGHT FOR A WAYSIDE VENTURE.
@@ -3800,7 +3800,7 @@ At this the man on the ground snarled up at him like a rat, while the other clen
 
 
 
-<span class="atom-split" data-atom="chapter_15_how_the_yellow_cog_sailed_fort" data-title="THE WHITE COMPANY — Chapter 15: HOW THE YELLOW COG SAILED FORTH FROM LEPE" data-chapter="Chapter 15 HOW THE YELLOW COG SAILED FORT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_how_the_yellow_cog_sailed_fort" data-title="THE WHITE COMPANY — Chapter 15: HOW THE YELLOW COG SAILED FORTH FROM LEPE" data-chapter="HOW THE YELLOW COG SAILED FORT" data-kind="chapter"></span>
 
 
 CHAPTER XV. HOW THE YELLOW COG SAILED FORTH FROM LEPE.
@@ -3894,7 +3894,7 @@ The throng of pirates had cleared away from the great wooden catapult, leaving t
 
 
 
-<span class="atom-split" data-atom="chapter_16_how_the_yellow_cog_fought_the" data-title="THE WHITE COMPANY — Chapter 16: HOW THE YELLOW COG FOUGHT THE TWO ROVER GALLEYS" data-chapter="Chapter 16 HOW THE YELLOW COG FOUGHT THE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_how_the_yellow_cog_fought_the" data-title="THE WHITE COMPANY — Chapter 16: HOW THE YELLOW COG FOUGHT THE TWO ROVER GALLEYS" data-chapter="HOW THE YELLOW COG FOUGHT THE" data-kind="chapter"></span>
 
 
 CHAPTER XVI. HOW THE YELLOW COG FOUGHT THE TWO ROVER GALLEYS.
@@ -3948,7 +3948,7 @@ Sir Nigel turned upon his heel, while two seamen cast a noose over the pirate’
 
 
 
-<span class="atom-split" data-atom="chapter_17_how_the_yellow_cog_crossed_the" data-title="THE WHITE COMPANY — Chapter 17: HOW THE YELLOW COG CROSSED THE BAR OF GIRONDE" data-chapter="Chapter 17 HOW THE YELLOW COG CROSSED THE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_how_the_yellow_cog_crossed_the" data-title="THE WHITE COMPANY — Chapter 17: HOW THE YELLOW COG CROSSED THE BAR OF GIRONDE" data-chapter="HOW THE YELLOW COG CROSSED THE" data-kind="chapter"></span>
 
 
 CHAPTER XVII. HOW THE YELLOW COG CROSSED THE BAR OF GIRONDE.
@@ -4006,7 +4006,7 @@ Archers and seamen lay flat upon the deck, waiting in stolid silence for whateve
 
 
 
-<span class="atom-split" data-atom="chapter_18_how_sir_nigel_loring_put_a_pat" data-title="THE WHITE COMPANY — Chapter 18: HOW SIR NIGEL LORING PUT A PATCH UPON HIS EYE" data-chapter="Chapter 18 HOW SIR NIGEL LORING PUT A PAT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_how_sir_nigel_loring_put_a_pat" data-title="THE WHITE COMPANY — Chapter 18: HOW SIR NIGEL LORING PUT A PATCH UPON HIS EYE" data-chapter="HOW SIR NIGEL LORING PUT A PAT" data-kind="chapter"></span>
 
 
 CHAPTER XVIII. HOW SIR NIGEL LORING PUT A PATCH UPON HIS EYE.
@@ -4069,7 +4069,7 @@ The two knights were deep in talk, when Alleyne became aware of a remarkable ind
 
 
 
-<span class="atom-split" data-atom="chapter_19_how_there_was_stir_at_the_abbe" data-title="THE WHITE COMPANY — Chapter 19: HOW THERE WAS STIR AT THE ABBEY OF ST. ANDREW’S" data-chapter="Chapter 19 HOW THERE WAS STIR AT THE ABBE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_how_there_was_stir_at_the_abbe" data-title="THE WHITE COMPANY — Chapter 19: HOW THERE WAS STIR AT THE ABBEY OF ST. ANDREW’S" data-chapter="HOW THERE WAS STIR AT THE ABBE" data-kind="chapter"></span>
 
 
 CHAPTER XIX. HOW THERE WAS STIR AT THE ABBEY OF ST. ANDREW’S.
@@ -4161,7 +4161,7 @@ For a moment a dozen challenges flashed backwards and forwards at this sudden bu
 
 
 
-<span class="atom-split" data-atom="chapter_20_how_alleyne_won_his_place_in_a" data-title="THE WHITE COMPANY — Chapter 20: HOW ALLEYNE WON HIS PLACE IN AN HONORABLE GUILD" data-chapter="Chapter 20 HOW ALLEYNE WON HIS PLACE IN A" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_how_alleyne_won_his_place_in_a" data-title="THE WHITE COMPANY — Chapter 20: HOW ALLEYNE WON HIS PLACE IN AN HONORABLE GUILD" data-chapter="HOW ALLEYNE WON HIS PLACE IN A" data-kind="chapter"></span>
 
 
 CHAPTER XX. HOW ALLEYNE WON HIS PLACE IN AN HONORABLE GUILD.
@@ -4269,7 +4269,7 @@ The young squire was deadly white from his exertions, both on the land and in th
 
 
 
-<span class="atom-split" data-atom="chapter_21_how_agostino_pisano_risked_his" data-title="THE WHITE COMPANY — Chapter 21: HOW AGOSTINO PISANO RISKED HIS HEAD" data-chapter="Chapter 21 HOW AGOSTINO PISANO RISKED HIS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_how_agostino_pisano_risked_his" data-title="THE WHITE COMPANY — Chapter 21: HOW AGOSTINO PISANO RISKED HIS HEAD" data-chapter="HOW AGOSTINO PISANO RISKED HIS" data-kind="chapter"></span>
 
 
 CHAPTER XXI. HOW AGOSTINO PISANO RISKED HIS HEAD.
@@ -4370,7 +4370,7 @@ A stern, clear bugle call had sounded close at hand to summon some following tog
 
 
 
-<span class="atom-split" data-atom="chapter_22_how_the_bowmen_held_wassail_at" data-title="THE WHITE COMPANY — Chapter 22: HOW THE BOWMEN HELD WASSAIL AT THE “ROSE DE GUIENNE.”" data-chapter="Chapter 22 HOW THE BOWMEN HELD WASSAIL AT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_how_the_bowmen_held_wassail_at" data-title="THE WHITE COMPANY — Chapter 22: HOW THE BOWMEN HELD WASSAIL AT THE “ROSE DE GUIENNE.”" data-chapter="HOW THE BOWMEN HELD WASSAIL AT" data-kind="chapter"></span>
 
 
 CHAPTER XXII. HOW THE BOWMEN HELD WASSAIL AT THE “ROSE DE GUIENNE.”
@@ -4469,7 +4469,7 @@ A roar of delight from his audience, with stamping of feet and beating of blackj
 
 
 
-<span class="atom-split" data-atom="chapter_23_how_england_held_the_lists_at" data-title="THE WHITE COMPANY — Chapter 23: HOW ENGLAND HELD THE LISTS AT BORDEAUX" data-chapter="Chapter 23 HOW ENGLAND HELD THE LISTS AT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_how_england_held_the_lists_at" data-title="THE WHITE COMPANY — Chapter 23: HOW ENGLAND HELD THE LISTS AT BORDEAUX" data-chapter="HOW ENGLAND HELD THE LISTS AT" data-kind="chapter"></span>
 
 
 CHAPTER XXIII. HOW ENGLAND HELD THE LISTS AT BORDEAUX.
@@ -4528,7 +4528,7 @@ The Hampshire knight was not a man to be disheartened by a reverse. He spurred b
 
 
 
-<span class="atom-split" data-atom="chapter_24_how_a_champion_came_forth_from" data-title="THE WHITE COMPANY — Chapter 24: HOW A CHAMPION CAME FORTH FROM THE EAST" data-chapter="Chapter 24 HOW A CHAMPION CAME FORTH FROM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24_how_a_champion_came_forth_from" data-title="THE WHITE COMPANY — Chapter 24: HOW A CHAMPION CAME FORTH FROM THE EAST" data-chapter="HOW A CHAMPION CAME FORTH FROM" data-kind="chapter"></span>
 
 
 CHAPTER XXIV. HOW A CHAMPION CAME FORTH FROM THE EAST.
@@ -4609,7 +4609,7 @@ As he spoke, the knight-errant, who had remounted his warhorse, galloped forward
 
 
 
-<span class="atom-split" data-atom="chapter_25_how_sir_nigel_wrote_to_twynham" data-title="THE WHITE COMPANY — Chapter 25: HOW SIR NIGEL WROTE TO TWYNHAM CASTLE" data-chapter="Chapter 25 HOW SIR NIGEL WROTE TO TWYNHAM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25_how_sir_nigel_wrote_to_twynham" data-title="THE WHITE COMPANY — Chapter 25: HOW SIR NIGEL WROTE TO TWYNHAM CASTLE" data-chapter="HOW SIR NIGEL WROTE TO TWYNHAM" data-kind="chapter"></span>
 
 
 CHAPTER XXV. HOW SIR NIGEL WROTE TO TWYNHAM [[Castle|CASTLE]].
@@ -4684,7 +4684,7 @@ With these brief directions, the two old soldiers strode off together, while All
 
 
 
-<span class="atom-split" data-atom="chapter_26_how_the_three_comrades_gained" data-title="THE WHITE COMPANY — Chapter 26: HOW THE THREE COMRADES GAINED A MIGHTY TREASURE" data-chapter="Chapter 26 HOW THE THREE COMRADES GAINED" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_how_the_three_comrades_gained" data-title="THE WHITE COMPANY — Chapter 26: HOW THE THREE COMRADES GAINED A MIGHTY TREASURE" data-chapter="HOW THE THREE COMRADES GAINED" data-kind="chapter"></span>
 
 
 CHAPTER XXVI. HOW THE THREE COMRADES GAINED A MIGHTY TREASURE
@@ -4769,7 +4769,7 @@ Away they galloped together, and ere long they saw the old gray palmer walking s
 
 
 
-<span class="atom-split" data-atom="chapter_27_how_roger_club_foot_was_passed" data-title="THE WHITE COMPANY — Chapter 27: HOW ROGER CLUB-FOOT WAS PASSED INTO PARADISE" data-chapter="Chapter 27 HOW ROGER CLUB FOOT WAS PASSED" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27_how_roger_club_foot_was_passed" data-title="THE WHITE COMPANY — Chapter 27: HOW ROGER CLUB-FOOT WAS PASSED INTO PARADISE" data-chapter="HOW ROGER CLUB FOOT WAS PASSED" data-kind="chapter"></span>
 
 
 CHAPTER XXVII. HOW ROGER CLUB-FOOT WAS PASSED INTO PARADISE.
@@ -4842,7 +4842,7 @@ C’est commande au chevalier.”
 
 
 
-<span class="atom-split" data-atom="chapter_28_how_the_comrades_came_over_the" data-title="THE WHITE COMPANY — Chapter 28: HOW THE COMRADES CAME OVER THE MARCHES OF FRANCE" data-chapter="Chapter 28 HOW THE COMRADES CAME OVER THE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28_how_the_comrades_came_over_the" data-title="THE WHITE COMPANY — Chapter 28: HOW THE COMRADES CAME OVER THE MARCHES OF FRANCE" data-chapter="HOW THE COMRADES CAME OVER THE" data-kind="chapter"></span>
 
 
 CHAPTER XXVIII. HOW THE COMRADES CAME OVER THE MARCHES OF [[France|FRANCE]]
@@ -4924,7 +4924,7 @@ As he spoke the hoarse blast of a horn was heard from some woods upon the right.
 
 
 
-<span class="atom-split" data-atom="chapter_29_how_the_blessed_hour_of_sight" data-title="THE WHITE COMPANY — Chapter 29: HOW THE BLESSED HOUR OF SIGHT CAME TO THE LADY TIPHAINE" data-chapter="Chapter 29 HOW THE BLESSED HOUR OF SIGHT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29_how_the_blessed_hour_of_sight" data-title="THE WHITE COMPANY — Chapter 29: HOW THE BLESSED HOUR OF SIGHT CAME TO THE LADY TIPHAINE" data-chapter="HOW THE BLESSED HOUR OF SIGHT" data-kind="chapter"></span>
 
 
 CHAPTER XXIX. HOW THE BLESSED HOUR OF SIGHT CAME TO THE LADY TIPHAINE.
@@ -5001,7 +5001,7 @@ The lady sat with parted lips, and her breath came quick and fast. “My God!”
 
 
 
-<span class="atom-split" data-atom="chapter_30_how_the_brushwood_men_came_to" data-title="THE WHITE COMPANY — Chapter 30: HOW THE BRUSHWOOD MEN CAME TO THE CHATEAU OF VILLEFRANCHE" data-chapter="Chapter 30 HOW THE BRUSHWOOD MEN CAME TO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30_how_the_brushwood_men_came_to" data-title="THE WHITE COMPANY — Chapter 30: HOW THE BRUSHWOOD MEN CAME TO THE CHATEAU OF VILLEFRANCHE" data-chapter="HOW THE BRUSHWOOD MEN CAME TO" data-kind="chapter"></span>
 
 
 CHAPTER XXX. HOW THE BRUSHWOOD MEN CAME TO THE CHATEAU OF VILLEFRANCHE.
@@ -5058,7 +5058,7 @@ The attention of the insurgents had been drawn away from murder to plunder, and 
 
 
 
-<span class="atom-split" data-atom="chapter_31_how_five_men_held_the_keep_of" data-title="THE WHITE COMPANY — Chapter 31: HOW FIVE MEN HELD THE KEEP OF VILLEFRANCHE" data-chapter="Chapter 31 HOW FIVE MEN HELD THE KEEP OF" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31_how_five_men_held_the_keep_of" data-title="THE WHITE COMPANY — Chapter 31: HOW FIVE MEN HELD THE KEEP OF VILLEFRANCHE" data-chapter="HOW FIVE MEN HELD THE KEEP OF" data-kind="chapter"></span>
 
 
 CHAPTER XXXI. HOW FIVE MEN HELD THE KEEP OF VILLEFRANCHE
@@ -5148,7 +5148,7 @@ The grizzled archer thus addressed took several lengths of rope from his comrade
 
 
 
-<span class="atom-split" data-atom="chapter_32_how_the_company_took_counsel_r" data-title="THE WHITE COMPANY — Chapter 32: HOW THE COMPANY TOOK COUNSEL ROUND THE FALLEN TREE" data-chapter="Chapter 32 HOW THE COMPANY TOOK COUNSEL R" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32_how_the_company_took_counsel_r" data-title="THE WHITE COMPANY — Chapter 32: HOW THE COMPANY TOOK COUNSEL ROUND THE FALLEN TREE" data-chapter="HOW THE COMPANY TOOK COUNSEL R" data-kind="chapter"></span>
 
 
 CHAPTER XXXII. HOW THE COMPANY TOOK COUNSEL ROUND THE FALLEN TREE.
@@ -5208,7 +5208,7 @@ Thirteen bowmen, with hung heads and sheepish faces, stepped forward with Mark S
 
 
 
-<span class="atom-split" data-atom="chapter_33_how_the_army_made_the_passage" data-title="THE WHITE COMPANY — Chapter 33: HOW THE ARMY MADE THE PASSAGE OF RONCESVALLES" data-chapter="Chapter 33 HOW THE ARMY MADE THE PASSAGE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33_how_the_army_made_the_passage" data-title="THE WHITE COMPANY — Chapter 33: HOW THE ARMY MADE THE PASSAGE OF RONCESVALLES" data-chapter="HOW THE ARMY MADE THE PASSAGE" data-kind="chapter"></span>
 
 
 CHAPTER XXXIII. HOW THE ARMY MADE THE PASSAGE OF RONCESVALLES.
@@ -5242,7 +5242,7 @@ The weather was less keen upon the Wednesday, and the rear-guard made good their
 
 
 
-<span class="atom-split" data-atom="chapter_34_how_the_company_made_sport_in" data-title="THE WHITE COMPANY — Chapter 34: HOW THE COMPANY MADE SPORT IN THE VALE OF PAMPELUNA" data-chapter="Chapter 34 HOW THE COMPANY MADE SPORT IN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34_how_the_company_made_sport_in" data-title="THE WHITE COMPANY — Chapter 34: HOW THE COMPANY MADE SPORT IN THE VALE OF PAMPELUNA" data-chapter="HOW THE COMPANY MADE SPORT IN" data-kind="chapter"></span>
 
 
 CHAPTER XXXIV. HOW THE COMPANY MADE SPORT IN THE VALE OF PAMPELUNA.
@@ -5338,7 +5338,7 @@ A buzz of delight burst from the archers, as they broke their ranks and ran hith
 
 
 
-<span class="atom-split" data-atom="chapter_35_how_sir_nigel_hawked_at_an_eag" data-title="THE WHITE COMPANY — Chapter 35: HOW SIR NIGEL HAWKED AT AN EAGLE" data-chapter="Chapter 35 HOW SIR NIGEL HAWKED AT AN EAG" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35_how_sir_nigel_hawked_at_an_eag" data-title="THE WHITE COMPANY — Chapter 35: HOW SIR NIGEL HAWKED AT AN EAGLE" data-chapter="HOW SIR NIGEL HAWKED AT AN EAG" data-kind="chapter"></span>
 
 
 CHAPTER XXXV. HOW SIR NIGEL HAWKED AT AN EAGLE.
@@ -5433,7 +5433,7 @@ The prisoner was bent recovering the consciousness which had been squeezed from 
 
 
 
-<span class="atom-split" data-atom="chapter_36_how_sir_nigel_took_the_patch_f" data-title="THE WHITE COMPANY — Chapter 36: HOW SIR NIGEL TOOK THE PATCH FROM HIS EYE" data-chapter="Chapter 36 HOW SIR NIGEL TOOK THE PATCH F" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36_how_sir_nigel_took_the_patch_f" data-title="THE WHITE COMPANY — Chapter 36: HOW SIR NIGEL TOOK THE PATCH FROM HIS EYE" data-chapter="HOW SIR NIGEL TOOK THE PATCH F" data-kind="chapter"></span>
 
 
 CHAPTER XXXVI. HOW SIR NIGEL TOOK THE PATCH FROM HIS EYE.
@@ -5533,7 +5533,7 @@ But there was little rest for the victors. Whilst the knights had charged them i
 
 
 
-<span class="atom-split" data-atom="chapter_37_how_the_white_company_came_to" data-title="THE WHITE COMPANY — Chapter 37: HOW THE WHITE COMPANY CAME TO BE DISBANDED" data-chapter="Chapter 37 HOW THE WHITE COMPANY CAME TO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37_how_the_white_company_came_to" data-title="THE WHITE COMPANY — Chapter 37: HOW THE WHITE COMPANY CAME TO BE DISBANDED" data-chapter="HOW THE WHITE COMPANY CAME TO" data-kind="chapter"></span>
 
 
 CHAPTER XXXVII. HOW THE WHITE COMPANY CAME TO BE DISBANDED.
@@ -5584,7 +5584,7 @@ And a fearsome sight it was that met their eyes! Across the lower end lay the de
 
 
 
-<span class="atom-split" data-atom="chapter_38_of_the_home_coming_to_hampshir" data-title="THE WHITE COMPANY — Chapter 38: OF THE HOME-COMING TO HAMPSHIRE" data-chapter="Chapter 38 OF THE HOME COMING TO HAMPSHIR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38_of_the_home_coming_to_hampshir" data-title="THE WHITE COMPANY — Chapter 38: OF THE HOME-COMING TO HAMPSHIRE" data-chapter="OF THE HOME COMING TO HAMPSHIR" data-kind="chapter"></span>
 
 
 CHAPTER XXXVIII. OF THE HOME-COMING TO HAMPSHIRE.

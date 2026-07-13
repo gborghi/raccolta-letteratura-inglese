@@ -1775,7 +1775,7 @@ Fouché with his hand to his chin crossed the courtyard and went up the stairs t
 
 
 
-<span class="atom-split" data-atom="story_01_on_building_castles_in_spain" data-title="On Anything — ON BUILDING CASTLES IN SPAIN" data-chapter="Story 01 ON BUILDING CASTLES IN SPAIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_building_castles_in_spain" data-title="On Anything — ON BUILDING CASTLES IN SPAIN" data-chapter="ON BUILDING CASTLES IN SPAIN" data-kind="story"></span>
 
 
 ON BUILDING CASTLES IN [[Spain|SPAIN]]
@@ -1809,7 +1809,7 @@ With these words he begged me to leave him.
 
 
 
-<span class="atom-split" data-atom="story_02_on_clay" data-title="On Anything — ON CLAY" data-chapter="Story 02 ON CLAY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_on_clay" data-title="On Anything — ON CLAY" data-chapter="ON CLAY" data-kind="story"></span>
 
 
 ON CLAY
@@ -1839,7 +1839,7 @@ In a word, there is nothing human nor anything about man which is not the better
 
 
 
-<span class="atom-split" data-atom="story_03_on_no_book" data-title="On Anything — ON NO BOOK" data-chapter="Story 03 ON NO BOOK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_on_no_book" data-title="On Anything — ON NO BOOK" data-chapter="ON NO BOOK" data-kind="story"></span>
 
 
 ON NO BOOK
@@ -1863,7 +1863,7 @@ I can indeed consider no active occupation for a man in which No Book is not a t
 
 
 
-<span class="atom-split" data-atom="story_04_on_irony" data-title="On Anything — ON IRONY" data-chapter="Story 04 ON IRONY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_irony" data-title="On Anything — ON IRONY" data-chapter="ON IRONY" data-kind="story"></span>
 
 
 ON IRONY
@@ -1889,7 +1889,7 @@ No man possessed of irony and using it has lived happily; nor has any man posses
 
 
 
-<span class="atom-split" data-atom="story_05_on_the_simplicity_of_words" data-title="On Anything — ON THE SIMPLICITY OF WORDS" data-chapter="Story 05 ON THE SIMPLICITY OF WORDS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_on_the_simplicity_of_words" data-title="On Anything — ON THE SIMPLICITY OF WORDS" data-chapter="ON THE SIMPLICITY OF WORDS" data-kind="story"></span>
 
 
 ON THE SIMPLICITY OF WORDS
@@ -1947,7 +1947,7 @@ Thus in that little bit of Homer quoted, do you not see what it means beyond its
 
 
 
-<span class="atom-split" data-atom="story_06_on_secluded_places" data-title="On Anything — ON SECLUDED PLACES" data-chapter="Story 06 ON SECLUDED PLACES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_on_secluded_places" data-title="On Anything — ON SECLUDED PLACES" data-chapter="ON SECLUDED PLACES" data-kind="story"></span>
 
 
 ON SECLUDED PLACES
@@ -1967,7 +1967,7 @@ Now consider that example — and it will not be difficult to discover how and w
 
 
 
-<span class="atom-split" data-atom="story_07_on_people_in_books" data-title="On Anything — ON PEOPLE IN BOOKS" data-chapter="Story 07 ON PEOPLE IN BOOKS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_on_people_in_books" data-title="On Anything — ON PEOPLE IN BOOKS" data-chapter="ON PEOPLE IN BOOKS" data-kind="story"></span>
 
 
 ON PEOPLE IN BOOKS
@@ -1993,7 +1993,7 @@ One might go on for ever piling up instances of this divorce between the suppose
 
 
 
-<span class="atom-split" data-atom="story_09_on_a_poet" data-title="On Anything — ON A POET" data-chapter="Story 09 ON A POET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_a_poet" data-title="On Anything — ON A POET" data-chapter="ON A POET" data-kind="story"></span>
 
 
 ON A POET
@@ -2017,7 +2017,7 @@ There is one last thing to be said: the work has been called pagan. It is the co
 
 
 
-<span class="atom-split" data-atom="story_10_on_a_prophet" data-title="On Anything — ON A PROPHET" data-chapter="Story 10 ON A PROPHET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_on_a_prophet" data-title="On Anything — ON A PROPHET" data-chapter="ON A PROPHET" data-kind="story"></span>
 
 
 ON A [[Prophet|PROPHET]]
@@ -2055,7 +2055,7 @@ Whether it be a labour to prophesy or no, his hair had certainly grown white in 
 
 
 
-<span class="atom-split" data-atom="story_11_on_believing" data-title="On Anything — ON BELIEVING" data-chapter="Story 11 ON BELIEVING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_on_believing" data-title="On Anything — ON BELIEVING" data-chapter="ON BELIEVING" data-kind="story"></span>
 
 
 ON BELIEVING
@@ -2079,7 +2079,7 @@ Now the moral of such suggestions (and they crop up innumerable all over the sur
 
 
 
-<span class="atom-split" data-atom="story_12_on_the_air_of_the_dordogne" data-title="On Anything — ON THE AIR OF THE DORDOGNE" data-chapter="Story 12 ON THE AIR OF THE DORDOGNE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_on_the_air_of_the_dordogne" data-title="On Anything — ON THE AIR OF THE DORDOGNE" data-chapter="ON THE AIR OF THE DORDOGNE" data-kind="story"></span>
 
 
 ON THE AIR OF THE DORDOGNE
@@ -2125,7 +2125,7 @@ The pen has the power to describe, not general, but particular things. Though it
 
 
 
-<span class="atom-split" data-atom="story_13_on_the_sites_of_the_revolution" data-title="On Anything — ON THE SITES OF THE REVOLUTION" data-chapter="Story 13 ON THE SITES OF THE REVOLUTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_on_the_sites_of_the_revolution" data-title="On Anything — ON THE SITES OF THE REVOLUTION" data-chapter="ON THE SITES OF THE REVOLUTION" data-kind="story"></span>
 
 
 ON THE SITES OF THE REVOLUTION
@@ -2165,7 +2165,7 @@ I know of no wave like it in Europe or in the history of Europe: of no such atte
 
 
 
-<span class="atom-split" data-atom="story_14_a_secret_letter" data-title="On Anything — A SECRET LETTER" data-chapter="Story 14 A SECRET LETTER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_a_secret_letter" data-title="On Anything — A SECRET LETTER" data-chapter="A SECRET LETTER" data-kind="story"></span>
 
 
 A SECRET LETTER
@@ -2203,7 +2203,7 @@ My Lord was a great Captain.
 
 
 
-<span class="atom-split" data-atom="story_15_the_shadows" data-title="On Anything — THE SHADOWS" data-chapter="Story 15 THE SHADOWS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_shadows" data-title="On Anything — THE SHADOWS" data-chapter="THE SHADOWS" data-kind="story"></span>
 
 
 THE SHADOWS
@@ -2239,7 +2239,7 @@ Nevertheless, there is one important thing, and there is one eternal subject whi
 
 
 
-<span class="atom-split" data-atom="story_16_the_canvasser" data-title="On Anything — THE CANVASSER" data-chapter="Story 16 THE CANVASSER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_canvasser" data-title="On Anything — THE CANVASSER" data-chapter="THE CANVASSER" data-kind="story"></span>
 
 
 THE CANVASSER
@@ -2341,7 +2341,7 @@ The woman shut the door behind the Canvasser, and he was off across the fields. 
 
 
 
-<span class="atom-split" data-atom="story_17_the_abstracted_man" data-title="On Anything — THE ABSTRACTED MAN" data-chapter="Story 17 THE ABSTRACTED MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_abstracted_man" data-title="On Anything — THE ABSTRACTED MAN" data-chapter="THE ABSTRACTED MAN" data-kind="story"></span>
 
 
 THE ABSTRACTED MAN
@@ -2397,7 +2397,7 @@ And all this shows that during an election you meet more different kinds of men 
 
 
 
-<span class="atom-split" data-atom="story_18_on_the_method_of_history" data-title="On Anything — ON THE METHOD OF HISTORY" data-chapter="Story 18 ON THE METHOD OF HISTORY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_on_the_method_of_history" data-title="On Anything — ON THE METHOD OF HISTORY" data-chapter="ON THE METHOD OF HISTORY" data-kind="story"></span>
 
 
 ON THE METHOD OF HISTORY
@@ -2435,7 +2435,7 @@ One might conclude by saying what might seem too good to be true: that minute an
 
 
 
-<span class="atom-split" data-atom="story_19_on_history_in_travel" data-title="On Anything — ON HISTORY IN TRAVEL" data-chapter="Story 19 ON HISTORY IN TRAVEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_on_history_in_travel" data-title="On Anything — ON HISTORY IN TRAVEL" data-chapter="ON HISTORY IN TRAVEL" data-kind="story"></span>
 
 
 ON HISTORY IN TRAVEL
@@ -2463,7 +2463,7 @@ All these roads are known roads, but there is one which the railway has abandone
 
 
 
-<span class="atom-split" data-atom="story_20_on_the_traveller" data-title="On Anything — ON THE TRAVELLER" data-chapter="Story 20 ON THE TRAVELLER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_on_the_traveller" data-title="On Anything — ON THE TRAVELLER" data-chapter="ON THE TRAVELLER" data-kind="story"></span>
 
 
 ON THE TRAVELLER
@@ -2491,7 +2491,7 @@ Very many things a man might add to the list that I am making. Dew-pans are olde
 
 
 
-<span class="atom-split" data-atom="story_21_on_milton" data-title="On Anything — ON MILTON" data-chapter="Story 21 ON MILTON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_on_milton" data-title="On Anything — ON MILTON" data-chapter="ON MILTON" data-kind="story"></span>
 
 
 ON MILTON
@@ -2597,7 +2597,7 @@ There is one other character in Milton wherein he stands not so much for English
 
 
 
-<span class="atom-split" data-atom="story_22_hans_christian_andersen" data-title="On Anything — HANS CHRISTIAN ANDERSEN" data-chapter="Story 22 HANS CHRISTIAN ANDERSEN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_hans_christian_andersen" data-title="On Anything — HANS CHRISTIAN ANDERSEN" data-chapter="HANS CHRISTIAN ANDERSEN" data-kind="story"></span>
 
 
 HANS CHRISTIAN ANDERSEN
@@ -2621,7 +2621,7 @@ Having said so much of Andersen in general, something should be said of him in p
 
 
 
-<span class="atom-split" data-atom="story_23_the_christmas_of_1808" data-title="On Anything — THE CHRISTMAS OF 1808" data-chapter="Story 23 THE CHRISTMAS OF 1808" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_christmas_of_1808" data-title="On Anything — THE CHRISTMAS OF 1808" data-chapter="THE CHRISTMAS OF 1808" data-kind="story"></span>
 
 
 THE CHRISTMAS OF 1808
@@ -2647,7 +2647,7 @@ By the next day the purpose of the British commander was achieved: Napoleon knew
 
 
 
-<span class="atom-split" data-atom="story_24_on_communications" data-title="On Anything — ON COMMUNICATIONS" data-chapter="Story 24 ON COMMUNICATIONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_on_communications" data-title="On Anything — ON COMMUNICATIONS" data-chapter="ON COMMUNICATIONS" data-kind="story"></span>
 
 
 ON COMMUNICATIONS
@@ -2681,7 +2681,7 @@ There are those who say that the popularisation of wonderful things is the spoil
 
 
 
-<span class="atom-split" data-atom="story_25_astarte" data-title="On Anything — ASTARTE" data-chapter="Story 25 ASTARTE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_astarte" data-title="On Anything — ASTARTE" data-chapter="ASTARTE" data-kind="story"></span>
 
 
 ASTARTE
@@ -2713,7 +2713,7 @@ I have told the thing exactly as it happened. Then many of the young men first k
 
 
 
-<span class="atom-split" data-atom="story_26_the_hungry_student" data-title="On Anything — THE HUNGRY STUDENT" data-chapter="Story 26 THE HUNGRY STUDENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_hungry_student" data-title="On Anything — THE HUNGRY STUDENT" data-chapter="THE HUNGRY STUDENT" data-kind="story"></span>
 
 
 THE HUNGRY STUDENT
@@ -2805,7 +2805,7 @@ Next day, having sent in this manuscript that you have read, I called upon my po
 
 
 
-<span class="atom-split" data-atom="story_28_the_honest_man_and_the_devil" data-title="On Anything — THE HONEST MAN AND THE DEVIL" data-chapter="Story 28 THE HONEST MAN AND THE DEVIL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_honest_man_and_the_devil" data-title="On Anything — THE HONEST MAN AND THE DEVIL" data-chapter="THE HONEST MAN AND THE DEVIL" data-kind="story"></span>
 
 
 THE HONEST MAN AND THE DEVIL
@@ -2961,7 +2961,7 @@ In this way the Honest Man saved his soul and at the same time his face, which, 
 
 
 
-<span class="atom-split" data-atom="story_29_compiegne" data-title="On Anything — COMPIÈGNE" data-chapter="Story 29 COMPIEGNE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_compiegne" data-title="On Anything — COMPIÈGNE" data-chapter="COMPIEGNE" data-kind="story"></span>
 
 
 COMPIÈGNE
@@ -3059,7 +3059,7 @@ Monsieur de Noirétable (as he goes out alone, to himself). When Compiègne come
 
 
 
-<span class="atom-split" data-atom="story_30_the_candour_of_maturity" data-title="On Anything — THE CANDOUR OF MATURITY" data-chapter="Story 30 THE CANDOUR OF MATURITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_candour_of_maturity" data-title="On Anything — THE CANDOUR OF MATURITY" data-chapter="THE CANDOUR OF MATURITY" data-kind="story"></span>
 
 
 THE CANDOUR OF MATURITY
@@ -3165,7 +3165,7 @@ Duchess. It is my deliberate advice to you not to post the first of those letter
 
 
 
-<span class="atom-split" data-atom="story_31_the_fog" data-title="On Anything — THE FOG" data-chapter="Story 31 THE FOG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_fog" data-title="On Anything — THE FOG" data-chapter="THE FOG" data-kind="story"></span>
 
 
 THE FOG
@@ -3271,7 +3271,7 @@ Boutroux. Upon my soul, the longer I follow it, the less I comprehend the career
 
 
 
-<span class="atom-split" data-atom="story_32_the_spaniard" data-title="On Anything — THE SPANIARD" data-chapter="Story 32 THE SPANIARD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_spaniard" data-title="On Anything — THE SPANIARD" data-chapter="THE SPANIARD" data-kind="story"></span>
 
 
 THE SPANIARD
@@ -3299,7 +3299,7 @@ It should be added, by way of closing these few notes, that the Spanish man is n
 
 
 
-<span class="atom-split" data-atom="story_33_the_fortress" data-title="On Anything — THE FORTRESS" data-chapter="Story 33 THE FORTRESS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_fortress" data-title="On Anything — THE FORTRESS" data-chapter="THE FORTRESS" data-kind="story"></span>
 
 
 THE FORTRESS
@@ -3335,7 +3335,7 @@ The little spare old gunner shrugged his shoulders. “They would have found it 
 
 
 
-<span class="atom-split" data-atom="story_35_our_inheritance" data-title="On Anything — OUR INHERITANCE" data-chapter="Story 35 OUR INHERITANCE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_our_inheritance" data-title="On Anything — OUR INHERITANCE" data-chapter="OUR INHERITANCE" data-kind="story"></span>
 
 
 OUR INHERITANCE
@@ -3385,7 +3385,7 @@ That is very good. It would be very difficult to put it better, and if you compl
 
 
 
-<span class="atom-split" data-atom="story_36_the_new_road" data-title="On Anything — THE NEW ROAD" data-chapter="Story 36 THE NEW ROAD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_the_new_road" data-title="On Anything — THE NEW ROAD" data-chapter="THE NEW ROAD" data-kind="story"></span>
 
 
 THE NEW ROAD
@@ -3405,7 +3405,7 @@ This year I found that the last change had come. Far down the Gave d’Aspe, in 
 
 
 
-<span class="atom-split" data-atom="story_37_on_two_towns" data-title="On Anything — ON TWO TOWNS" data-chapter="Story 37 ON TWO TOWNS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_on_two_towns" data-title="On Anything — ON TWO TOWNS" data-chapter="ON TWO TOWNS" data-kind="story"></span>
 
 
 ON TWO TOWNS
@@ -3433,7 +3433,7 @@ So much for Saragossa and Toulouse.
 
 
 
-<span class="atom-split" data-atom="story_38_the_judgment_of_robespierre" data-title="On Anything — THE JUDGMENT OF ROBESPIERRE" data-chapter="Story 38 THE JUDGMENT OF ROBESPIERRE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_judgment_of_robespierre" data-title="On Anything — THE JUDGMENT OF ROBESPIERRE" data-chapter="THE JUDGMENT OF ROBESPIERRE" data-kind="story"></span>
 
 
 THE JUDGMENT OF [[Robespierre|ROBESPIERRE]]
@@ -3477,7 +3477,7 @@ Fouché with his hand to his chin crossed the courtyard and went up the stairs t
 
 
 
-<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_01" data-title="On Anything — ON THE EFFECT OF TIME (part 1)" data-chapter="Story 08 ON THE EFFECT OF TIME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_01" data-title="On Anything — ON THE EFFECT OF TIME (part 1)" data-chapter="ON THE EFFECT OF TIME" data-kind="excerpt"></span>
 
 
 ON THE EFFECT OF TIME
@@ -3503,7 +3503,7 @@ When Vilate hears a speech in the Revolutionary Parliament he says: “Truth has
 
 
 
-<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_02" data-title="On Anything — ON THE EFFECT OF TIME (part 2)" data-chapter="Story 08 ON THE EFFECT OF TIME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_02" data-title="On Anything — ON THE EFFECT OF TIME (part 2)" data-chapter="ON THE EFFECT OF TIME" data-kind="excerpt"></span>
 
 
 Consider again this, which is not from Vilate’s own pen, but which occurs in the study before me and is of the first interest: Vilate was in the jury on that day. It was the 9th of February, 1794. Seven Carmelite nuns had refused to take the civic oath to the Republic. The judge made a very commonplace and, as it seemed then, a very sensible speech, pointing out that they were perfectly free to observe the vows they had taken, that nothing had disappeared in their lives except the particular convent with which they were associated; that none of their prejudices would be offended. And he pointed out that in the society in which he believed they would have the sense to live, all men would now be permanently free. The nuns refused; they refused because the oath would involve them in schism. How many men at that time surrounding Vilate had the slightest conception of what the renascence of religion was to be in the city of Paris? These women, members or servants of the little reactionary aristocratic clique into which the monastic institution had declined, seemed mere fanatics not only to Vilate but to the whole of his society. Could you suddenly have shown Vilate how Europe would still be raging upon those ultimate questions of religion more than three generations later; could you have presented him with the sight of a whole society divided upon so simple and, as it was then thought, so irrational a point — what would he have thought? I can tell you what he would have thought. No matter what your credentials as a [[Prophet|prophet]], he would have thought your prophecy mad. Though you should have carried him into our very time and given every proof of the reality of his vision, he would have woken up to believe it an illusion and a silly dream.
@@ -3521,7 +3521,7 @@ Now, whenever I read of the Revolution, in general or in particular, while that 
 
 
 
-<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_01" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 1)" data-chapter="Story 27 THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_01" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 1)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
 
 
 THE BRIGAND OF RADICOFANI
@@ -3553,7 +3553,7 @@ His dress was picturesque in the extreme: he had on knee breeches ornamented wit
 
 
 
-<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_02" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 2)" data-chapter="Story 27 THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_02" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 2)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
 
 
 The Brigand (for it was he) startled the journalist by asking in a terrible voice what he wanted with him, and bidding him be brief and to the point in his interrogations or demands. As he so spoke he tapped with his left hand the curious handle of his dagger, keeping his fist clenched upon his haunch and his right arm akimbo, while his left leg and foot were advanced in a martial and even in a threatening manner. The young Colonial, who was acquainted — by his reading — with many situations of danger, summoned all his firmness, begged the Brigand to share the wine which stood before him, and assured him that he had only disturbed his leisure in order to hear from the lips of one so justly prominent in the ancient and noble town of Radicofani memories of its great past intermingled, as he hoped, with records of the Brigand’s individual career.
@@ -3573,7 +3573,7 @@ With the moving of the chairs many had come into the little inn parlour and foll
 
 
 
-<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_03" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 3)" data-chapter="Story 27 THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_03" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 3)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
 
 
 “Here,” he said, stamping with his foot, “this was about the distance.”
@@ -3611,7 +3611,7 @@ Meanwhile in Radicofani the Brigand drinks and sings.
 
 
 
-<span class="atom-split" data-atom="story_34_the_hunter--part_01" data-title="On Anything — THE HUNTER (part 1)" data-chapter="Story 34 THE HUNTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_the_hunter--part_01" data-title="On Anything — THE HUNTER (part 1)" data-chapter="THE HUNTER" data-kind="excerpt"></span>
 
 
 THE HUNTER
@@ -3641,7 +3641,7 @@ At this my companion was a little put out. “The bear is not carnivorous,” he
 
 
 
-<span class="atom-split" data-atom="story_34_the_hunter--part_02" data-title="On Anything — THE HUNTER (part 2)" data-chapter="Story 34 THE HUNTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_the_hunter--part_02" data-title="On Anything — THE HUNTER (part 2)" data-chapter="THE HUNTER" data-kind="excerpt"></span>
 
 
 “Why is it called rawak?” I interrupted.

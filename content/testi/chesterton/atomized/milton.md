@@ -16,7 +16,7 @@ tags:
 
 [[Milton]]: Man and Poet
 
-			   G K Chesterton
+G K Chesterton
 
 All the mass of acute and valuable matter written or compiled
 
@@ -94,7 +94,7 @@ Even his religion is not always heathen in his poetry.
 
 If you heard for the first [[Time|time]] the line,
 
-  By the dear might of Him that walked the waves,
+By the dear might of Him that walked the waves,
 
 you would only fancy that some heart of true religious heat
 
@@ -104,9 +104,9 @@ achieved a technical triumph and found a faultless line.
 
 If you read for the first [[Time|time]],
 
-  But come, thou Goddess fair and free,
+But come, thou Goddess fair and free,
 
-  In heaven yclept Euphrosyne,
+In heaven yclept Euphrosyne,
 
 you would think that the most irresponsible of the Elizabethans
 
@@ -114,15 +114,15 @@ had uttered it as he went dancing down the street, believing himself
 
 in A ready.  If you read,
 
-  Blossoms and fruits at once of golden hue
+Blossoms and fruits at once of golden hue
 
-  Appeared, with gay enamelled colors mixed,
+Appeared, with gay enamelled colors mixed,
 
 or
 
-  [[Silence]] was pleased. Now glowed the firmament
+[[Silence]] was pleased. Now glowed the firmament
 
-  With living sapphires,
+With living sapphires,
 
 you would think that all the rich dyes of the [[Orient]] and
 
@@ -178,13 +178,13 @@ I might even say that Homer reading [[Milton]] might have much the same
 
 feelings as [[Milton]] reading Browning.  He would have found
 
-  Or of the eternal coeternal beam
+Or of the eternal coeternal beam
 
 a trifle obscure, and
 
-  nor sometimes forget,
+nor sometimes forget,
 
-  Those other two, equalled with me in fate, etc., etc.,
+Those other two, equalled with me in fate, etc., etc.,
 
 almost entirely unintelligible.  In this sense it is absurd
 
@@ -514,9 +514,9 @@ or stupid characters, but into that of the one wise character,
 
 the [[Chorus]], who is supposed to express the moral of a play:
 
-  Nor do I name of men the common rout...
+Nor do I name of men the common rout...
 
-  But such as thou hast solemnly elected.
+But such as thou hast solemnly elected.
 
 I cannot help thinking that [[Milton]] was successful with [[Satan]],
 
@@ -652,7 +652,7 @@ THE END
 
 [[Milton]]: Man and Poet
 
-			   G K Chesterton
+G K Chesterton
 
 All the mass of acute and valuable matter written or compiled
 
@@ -730,7 +730,7 @@ Even his religion is not always heathen in his poetry.
 
 If you heard for the first [[Time|time]] the line,
 
-  By the dear might of Him that walked the waves,
+By the dear might of Him that walked the waves,
 
 you would only fancy that some heart of true religious heat
 
@@ -740,9 +740,9 @@ achieved a technical triumph and found a faultless line.
 
 If you read for the first [[Time|time]],
 
-  But come, thou Goddess fair and free,
+But come, thou Goddess fair and free,
 
-  In heaven yclept Euphrosyne,
+In heaven yclept Euphrosyne,
 
 you would think that the most irresponsible of the Elizabethans
 
@@ -750,15 +750,15 @@ had uttered it as he went dancing down the street, believing himself
 
 in A ready.  If you read,
 
-  Blossoms and fruits at once of golden hue
+Blossoms and fruits at once of golden hue
 
-  Appeared, with gay enamelled colors mixed,
+Appeared, with gay enamelled colors mixed,
 
 or
 
-  [[Silence]] was pleased. Now glowed the firmament
+[[Silence]] was pleased. Now glowed the firmament
 
-  With living sapphires,
+With living sapphires,
 
 you would think that all the rich dyes of the [[Orient]] and
 
@@ -814,13 +814,13 @@ I might even say that Homer reading [[Milton]] might have much the same
 
 feelings as [[Milton]] reading Browning.  He would have found
 
-  Or of the eternal coeternal beam
+Or of the eternal coeternal beam
 
 a trifle obscure, and
 
-  nor sometimes forget,
+nor sometimes forget,
 
-  Those other two, equalled with me in fate, etc., etc.,
+Those other two, equalled with me in fate, etc., etc.,
 
 almost entirely unintelligible.  In this sense it is absurd
 
@@ -927,7 +927,7 @@ Persino la sua religione non è sempre pagana nella sua poesia.
 
 Se udiste per la prima [[Time|volta]] il verso,
 
-  By the dear might of Him that walked the waves,
+By the dear might of Him that walked the waves,
 
 immaginereste soltanto che qualche cuore di autentico calore religioso
 
@@ -937,9 +937,9 @@ conseguito un trionfo tecnico e trovato un verso senza pecca.
 
 Se leggeste per la prima [[Time|volta]],
 
-  But come, thou Goddess fair and free,
+But come, thou Goddess fair and free,
 
-  In heaven yclept Euphrosyne,
+In heaven yclept Euphrosyne,
 
 pensereste che il più irresponsabile degli elisabettiani
 
@@ -947,15 +947,15 @@ l'avesse pronunciato mentre scendeva danzando per la strada, credendosi
 
 già in Arcadia.  Se leggeste,
 
-  Blossoms and fruits at once of golden hue
+Blossoms and fruits at once of golden hue
 
-  Appeared, with gay enamelled colors mixed,
+Appeared, with gay enamelled colors mixed,
 
 or
 
-  [[Silence]] was pleased. Now glowed the firmament
+[[Silence]] was pleased. Now glowed the firmament
 
-  With living sapphires,
+With living sapphires,
 
 pensereste che tutte le ricche tinture dell'[[Orient|Oriente]] e
 
@@ -1011,13 +1011,13 @@ Potrei dire perfino che Omero leggendo [[Milton]] avrebbe forse gli stessi
 
 sentimenti di [[Milton]] leggendo Browning.  Avrebbe trovato
 
-  Or of the eternal coeternal beam
+Or of the eternal coeternal beam
 
 un po' oscuro, e
 
-  nor sometimes forget,
+nor sometimes forget,
 
-  Those other two, equalled with me in fate, etc., etc.,
+Those other two, equalled with me in fate, etc., etc.,
 
 quasi del tutto inintelligibile.  In questo senso è assurdo
 
@@ -1540,9 +1540,9 @@ or stupid characters, but into that of the one wise character,
 
 the [[Chorus]], who is supposed to express the moral of a play:
 
-  Nor do I name of men the common rout...
+Nor do I name of men the common rout...
 
-  But such as thou hast solemnly elected.
+But such as thou hast solemnly elected.
 
 I cannot help thinking that [[Milton]] was successful with [[Satan]],
 
@@ -1723,9 +1723,9 @@ sciocchi o stupidi, ma in quella dell'unico personaggio saggio,
 
 il [[Chorus|Coro]], che si suppone esprima la morale di un dramma:
 
-  Nor do I name of men the common rout...
+Nor do I name of men the common rout...
 
-  But such as thou hast solemnly elected.
+But such as thou hast solemnly elected.
 
 Non posso fare a meno di pensare che [[Milton]] riuscì bene con [[Satan|Satana]],
 

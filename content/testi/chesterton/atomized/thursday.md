@@ -13,71 +13,70 @@ tags:
 
 <span class="atom-split" data-atom="thursday" data-title="The Man Who Was Thursday" data-chapter="" data-kind="intro"></span>
 
-# [[thursday]]
 
 The Man Who Was [[thursday|Thursday]], by G. K. Chesterton Scanned and Edited by
 Harry Plantinga, planting@cs.pitt.edu This text is in the public domain
 
-                   THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS [[thursday|THURSDAY]]
 
-                          A [[nightmare|NIGHTMARE]]
+A [[nightmare|NIGHTMARE]]
 
-                        G. K. CHESTERTON
+G. K. CHESTERTON
 
-                  To [[Edmund]] Clerihew Bentley
+To [[Edmund]] Clerihew Bentley
 
-  A cloud was on the mind of men, and wailing went the weather,
-  Yea, a sick cloud upon the [[Soul|soul]] when we were boys together. 
-  Science announced nonentity and art admired [[Decay|decay]];
-  The world was old and ended: but you and I were gay;
-  Round us in antic order their crippled vices came--
-  Lust that had lost its laughter, [[Fear|fear]] that had lost its shame. 
-  Like the white lock of Whistler, that lit our aimless gloom,
-  Men showed their own white feather as proudly as a plume. 
-  Life was a fly that faded, and [[Death|death]] a drone that stung; 
-  The world was very old indeed when you and I were young. 
-  They twisted even decent sin to shapes not to be named: 
-  Men were ashamed of [[Honour|honour]]; but we were not ashamed.
-  Weak if we were and foolish, not thus we failed, not thus;
-  When that black Baal blocked the heavens he had no hymns from us
-  Children we were--our forts of sand were even as weak as eve,
-  High as they went we piled them up to break that bitter sea.
-  Fools as we were in motley, all jangling and absurd,
-  When all church [[Bells|bells]] were silent our cap and beds were heard.
+A cloud was on the mind of men, and wailing went the weather,
+Yea, a sick cloud upon the [[Soul|soul]] when we were boys together. 
+Science announced nonentity and art admired [[Decay|decay]];
+The world was old and ended: but you and I were gay;
+Round us in antic order their crippled vices came--
+Lust that had lost its laughter, [[Fear|fear]] that had lost its shame. 
+Like the white lock of Whistler, that lit our aimless gloom,
+Men showed their own white feather as proudly as a plume. 
+Life was a fly that faded, and [[Death|death]] a drone that stung; 
+The world was very old indeed when you and I were young. 
+They twisted even decent sin to shapes not to be named: 
+Men were ashamed of [[Honour|honour]]; but we were not ashamed.
+Weak if we were and foolish, not thus we failed, not thus;
+When that black Baal blocked the heavens he had no hymns from us
+Children we were--our forts of sand were even as weak as eve,
+High as they went we piled them up to break that bitter sea.
+Fools as we were in motley, all jangling and absurd,
+When all church [[Bells|bells]] were silent our cap and beds were heard.
 
-  Not all unhelped we held the fort, our tiny flags unfurled;
-  Some giants laboured in that cloud to lift it from the world. 
-  I find again the book we found, I feel the hour that flings 
-  Far out of fish-shaped Paumanok some cry of cleaner things;
-  And the Green Carnation withered, as in forest fires that pass, 
-  Roared in the [[Wind|wind]] of all the world ten million [[Leaves|leaves]] of grass;
-  Or sane and sweet and sudden as a bird sings in the rain--
-  [[Truth]] out of Tusitala spoke and pleasure out of [[Pain|pain]]. 
-  Yea, cool and clear and sudden as a bird sings in the grey, 
-  Dunedin to Samoa spoke, and darkness unto day. 
-  But we were young; we lived to see God break their bitter charms. 
-  God and the good Republic come riding back in arms: 
-  We have seen the [[City]] of Mansoul, even as it rocked, relieved--
-  Blessed are they who did not see, but being blind, believed.
+Not all unhelped we held the fort, our tiny flags unfurled;
+Some giants laboured in that cloud to lift it from the world. 
+I find again the book we found, I feel the hour that flings 
+Far out of fish-shaped Paumanok some cry of cleaner things;
+And the Green Carnation withered, as in forest fires that pass, 
+Roared in the [[Wind|wind]] of all the world ten million [[Leaves|leaves]] of grass;
+Or sane and sweet and sudden as a bird sings in the rain--
+[[Truth]] out of Tusitala spoke and pleasure out of [[Pain|pain]]. 
+Yea, cool and clear and sudden as a bird sings in the grey, 
+Dunedin to Samoa spoke, and darkness unto day. 
+But we were young; we lived to see God break their bitter charms. 
+God and the good Republic come riding back in arms: 
+We have seen the [[City]] of Mansoul, even as it rocked, relieved--
+Blessed are they who did not see, but being blind, believed.
 
-  This is a tale of those old fears, even of those emptied hells, 
-  And none but you shall understand the true thing that it tells--
-  Of what colossal gods of shame could cow men and yet crash, 
-  Of what huge devils hid the [[Stars|stars]], yet fell at a [[Pistol|pistol]] flash. 
-  The doubts that were so plain to chase, so dreadful to withstand--
-  Oh, who shall understand but you; yea, who shall understand? 
-  The doubts that drove us through the [[Night|night]] as we two talked amain, 
-  And day had broken on the streets e'er it broke upon the brain. 
-  Between us, by the peace of God, such [[Truth|truth]] can now be told;
-  Yea, there is strength in striking root and good in growing old. 
-  We have found common things at last and [[Marriage|marriage]] and a creed, 
-  And I may safely write it now, and you may safely read.
+This is a tale of those old fears, even of those emptied hells, 
+And none but you shall understand the true thing that it tells--
+Of what colossal gods of shame could cow men and yet crash, 
+Of what huge devils hid the [[Stars|stars]], yet fell at a [[Pistol|pistol]] flash. 
+The doubts that were so plain to chase, so dreadful to withstand--
+Oh, who shall understand but you; yea, who shall understand? 
+The doubts that drove us through the [[Night|night]] as we two talked amain, 
+And day had broken on the streets e'er it broke upon the brain. 
+Between us, by the peace of God, such [[Truth|truth]] can now be told;
+Yea, there is strength in striking root and good in growing old. 
+We have found common things at last and [[Marriage|marriage]] and a creed, 
+And I may safely write it now, and you may safely read.
 
-                                                  G. K. C.
+G. K. C.
 
-                          CHAPTER I
+CHAPTER I
 
-                 THE TWO POETS OF SAFFRON PARK
+THE TWO POETS OF SAFFRON PARK
 
 THE suburb of Saffron Park lay on the sunset side of [[London]], as red and
 ragged as a cloud of sunset.  It was built of a bright brick throughout;
@@ -481,9 +480,9 @@ address of an obscure public-[[house]] on the Chiswick bank of the [[River|river
 The cab whisked itself away again, and in it these two fantastics
 quitted their fantastic town.
 
-                          CHAPTER II
+CHAPTER II
 
-                 THE SECRET OF [[Gabriel Syme|GABRIEL SYME]]
+THE SECRET OF [[Gabriel Syme|GABRIEL SYME]]
 
 THE cab pulled up before a particularly dreary and greasy beershop,
 into which Gregory rapidly conducted his companion.  They seated
@@ -816,9 +815,9 @@ repeated twice and thrice, and then thirty times, and the crowd
 of Joseph Chamberlains (a solemn thought) could be heard trampling
 down the corridor.
 
-                         CHAPTER III
+CHAPTER III
 
-                  THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS [[thursday|THURSDAY]]
 
 BEFORE one of the fresh faces could appear at the doorway,
 Gregory's stunned surprise had fallen from him.  He was beside
@@ -1262,9 +1261,9 @@ by the end of it."
 "A very entertaining evening," said Syme, and he made a military salute
 with the [[Sword|sword]]-stick as the steamboat slid away.
 
-                         CHAPTER IV
+CHAPTER IV
 
-                   THE TALE OF A [[Detective|DETECTIVE]]
+THE TALE OF A [[Detective|DETECTIVE]]
 
 [[Gabriel Syme|GABRIEL SYME]] was not merely a [[Detective|detective]] who pretended to be
 a poet; he was really a poet who had become a [[Detective|detective]].
@@ -1645,9 +1644,9 @@ and stood, a dark and slender figure, amid the enormous masonry.
 The two men in the tug put her off again and turned up stream.
 They had never spoken a word.
 
-                          CHAPTER V
+CHAPTER V
 
-                      THE FEAST OF [[Fear|FEAR]]
+THE FEAST OF [[Fear|FEAR]]
 
 AT first the large stone stair seemed to Syme as deserted as a pyramid;
 but before he reached the top he had realised that there was a man leaning
@@ -1961,9 +1960,9 @@ that he might be the wickedest of all those wicked men.
 Syme even had the thought that his eyes might be covered up
 because they were too frightful to see.
 
-                          CHAPTER VI
+CHAPTER VI
 
-                         THE EXPOSURE
+THE EXPOSURE
 
 SUCH were the six men who had sworn to destroy the world.
 Again and again Syme strove to pull together his common sense
@@ -2274,9 +2273,9 @@ of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.
 
-                         CHAPTER VII
+CHAPTER VII
 
-       THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
+THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
 
 "SIT down!" said [[Sunday]] in a voice that he used once or twice in his life,
 a voice that made men drop drawn swords.
@@ -2610,9 +2609,9 @@ might be smoked or knives drawn.
 A moment later Professor de Worms entered the place, sat down carefully,
 and asked for a glass of milk.
 
-                         CHAPTER VIII
+CHAPTER VIII
 
-                    [[The Professor|THE PROFESSOR]] EXPLAINS
+[[The Professor|THE PROFESSOR]] EXPLAINS
 
 WHEN [[Gabriel Syme]] found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows
@@ -3130,9 +3129,9 @@ Syme laid down his knife and fork.
 
 Professor de Worms nodded and drained his glass.
 
-                         CHAPTER IX
+CHAPTER IX
 
-                    THE MAN IN SPECTACLES
+THE MAN IN SPECTACLES
 
 "BURGUNDY is a jolly thing," said [[The Professor|the Professor]] sadly, as he set
 his glass down.
@@ -3761,9 +3760,9 @@ his teeth shining in his thick, black beard, and his bold,
 brown face shadowed by a light yellow straw hat and outlined
 against the violet sea.
 
-                          CHAPTER X 
+CHAPTER X 
 
-                           THE DUEL
+THE DUEL
 
 SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur
@@ -4393,9 +4392,9 @@ clean-shaven jaws and chins of the men talking in the front.
 But presently as they talked they all smiled and one of them
 smiled on one side.
 
-                         CHAPTER XI
+CHAPTER XI
 
-                THE CRIMINALS CHASE THE POLICE
+THE CRIMINALS CHASE THE POLICE
 
 SYME put the field-glasses from his eyes with an almost ghastly relief.
 
@@ -4724,9 +4723,9 @@ the innkeeper, there appeared an army of black-clad and marching men.
 They seemed to hang above the good man and his [[house]] like a black cloud
 of locusts.  The horses had been saddled none too soon.
 
-                         CHAPTER XII
+CHAPTER XII
 
-                    THE EARTH IN ANARCHY
+THE EARTH IN ANARCHY
 
 URGING the horses to a gallop, without respect to the rather rugged
 descent of the [[Road|road]], the horsemen soon regained their advantage over
@@ -5240,12 +5239,12 @@ We are the last of mankind."
 "It may be," said [[The Professor|the Professor]] absently.  Then he added in his dreamy voice,
 "What is all that at the end of the 'Dunciad'?
 
-  "'Nor public flame; nor private, dares to shine;
-  Nor human light is left, nor glimpse divine!
-  Lo! thy dread Empire, Chaos, is restored;
-  Light dies before thine uncreating word:
-  Thy hand, great Anarch, lets the curtain fall;
-  And universal darkness buries all.'"
+"'Nor public flame; nor private, dares to shine;
+Nor human light is left, nor glimpse divine!
+Lo! thy dread Empire, Chaos, is restored;
+Light dies before thine uncreating word:
+Thy hand, great Anarch, lets the curtain fall;
+And universal darkness buries all.'"
 
 "Stop!" cried Bull suddenly, "the gendarmes are out."
 
@@ -5402,9 +5401,9 @@ which stretched away to the distance on both sides.
 "Vulgar people are never mad.  I'm vulgar myself, and I know.
 I am now going on shore to stand a drink to everybody here."
 
-                         CHAPTER XIII
+CHAPTER XIII
 
-                THE PURSUIT OF THE PRESIDENT
+THE PURSUIT OF THE PRESIDENT
 
 NEXT morning five bewildered but hilarious people took the boat
 for Dover.  The poor old Colonel might have had some cause
@@ -5835,11 +5834,11 @@ He held out with distaste a piece of folded paper, addressed:
 
 The Secretary, raging, rent it open, and found written inside it:--
 
-  "When the herring runs a mile,
-  Let the Secretary smile;
-  When the herring tries to fly,
-  Let the Secretary die.
-                  Rustic Proverb."
+"When the herring runs a mile,
+Let the Secretary smile;
+When the herring tries to fly,
+Let the Secretary die.
+Rustic Proverb."
 
 "Why the eternal crikey," began the Secretary, "did you let the man in?
 Do people commonly come to your Exhibition riding on mad elephants?  Do--"
@@ -5885,9 +5884,9 @@ There was a short [[Silence|silence]], and then Syme said, biting his beard--
 "I'm not beaten yet.  The blasted thing must come down somewhere.
 Let's follow it!"
 
-                         CHAPTER XIV
+CHAPTER XIV
 
-                    THE SIX PHILOSOPHERS
+THE SIX PHILOSOPHERS
 
 ACROSS green fields, and breaking through blooming hedges, toiled six
 draggled detectives, about five miles out of [[London]].  The optimist
@@ -6352,9 +6351,9 @@ As he passed out of the room he flung the folds across his shoulder with
 a gesture, his [[Sword|sword]] stood out at an angle, and he had all the swagger
 of a troubadour.  For these disguises did not disguise, but reveal.
 
-                          CHAPTER XV
+CHAPTER XV
 
-                          THE ACCUSER
+THE ACCUSER
 
 AS Syme strode along the corridor he saw the Secretary standing at
 the top of a great flight of stairs.  The man had never looked so noble.
@@ -6647,7 +6646,7 @@ Only in the blackness before it entirely destroyed his brain he seemed to hear
 a distant voice saying a commonplace text that he had heard somewhere,
 "Can ye drink of the cup that I drink of?"
 
-                         *    *    *
+*    *    *
 
 When men in books awake from a vision, they commonly find
 themselves in some place in which they might have fallen asleep;
@@ -6681,15 +6680,15 @@ himself outside a fenced [[Garden|garden]].  There he saw the sister of Gregory,
 the girl with the gold-red hair, cutting lilac before breakfast,
 with the great unconscious gravity of a girl.
 
-                           THE END
+THE END
 
-      A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
+A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
 
-                   THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS [[thursday|THURSDAY]]
 
-                      by G. K. Chesterton
+by G. K. Chesterton
 
-              author of the [[Father Brown]] stories
+author of the [[Father Brown]] stories
 
 It is very difficult to classify THE MAN WHO WAS [[thursday|THURSDAY]].  It is possible
 to say that it is a gripping adventure story of murderous criminals
@@ -6712,11 +6711,10 @@ discover who [[Sunday]] is.
 
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Man Who Was Thursday — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 1 (part 1)
 
-                          CHAPTER I
+CHAPTER I
 
-                 THE TWO POETS OF SAFFRON PARK
+THE TWO POETS OF SAFFRON PARK
 
 THE suburb of Saffron Park lay on the sunset side of [[London]], as red and
 ragged as a cloud of sunset.  It was built of a bright brick throughout;
@@ -6813,7 +6811,7 @@ In fact, Mr. [[Lucian Gregory]], the anarchic poet, connected the two events.
 
 CAPITOLO I
 
-                 I DUE POETI DI SAFFRON PARK
+I DUE POETI DI SAFFRON PARK
 
 IL sobborgo di Saffron Park sorgeva sul lato del tramonto di [[London|Londra]], rosso e
 frastagliato come una nube al tramonto.  Era costruito interamente di mattoni vivaci;
@@ -6909,7 +6907,6 @@ In effetti il signor [[Lucian Gregory]], il poeta anarchico, collegò i due even
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Man Who Was Thursday — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 1 (part 2)
 
 "It may [[Well|well]] be," he said, in his sudden lyrical manner, "it may
 [[Well|well]] be on such a [[Night|night]] of clouds and cruel colours that there is
@@ -7194,7 +7191,6 @@ dice più di quanto pensi... per pura forza di pensarlo».
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="The Man Who Was Thursday — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 1 (part 3)
 
 She was looking at him from under level brows; her face was [[Grave|grave]]
 and open, and there had fallen upon it the [[Shadow|shadow]] of that unreasoning
@@ -7551,11 +7547,10 @@ lasciarono la loro fantastica cittadina.
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Man Who Was Thursday — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 2 (part 1)
 
-                          CHAPTER II
+CHAPTER II
 
-                 THE SECRET OF [[Gabriel Syme|GABRIEL SYME]]
+THE SECRET OF [[Gabriel Syme|GABRIEL SYME]]
 
 THE cab pulled up before a particularly dreary and greasy beershop,
 into which Gregory rapidly conducted his companion.  They seated
@@ -7694,7 +7689,7 @@ Does this place strike you as being serious?"
 
 CAPITOLO II
 
-                 IL SEGRETO DI [[Gabriel Syme|GABRIEL SYME]]
+IL SEGRETO DI [[Gabriel Syme|GABRIEL SYME]]
 
 LA carrozza si fermò davanti a una birreria particolarmente tetra e unta, nella quale Gregory guidò rapidamente il suo compagno. Presero posto in una specie di saletta angusta e buia, a un tavolo di legno macchiato che aveva una sola gamba di legno. La stanza era così piccola e scura che ben poco si poteva vedere del cameriere che fu chiamato, oltre a una vaga e oscura impressione di qualcosa di massiccio e barbuto.
 
@@ -7756,7 +7751,6 @@ Attraversarono parecchi corridoi del genere, e sbucarono infine in una bizzarra 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Was Thursday — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 2 (part 2)
 
 "It does seem to have a moral under all its gaiety," assented Syme;
 "but may I ask you two questions?  You need not [[Fear|fear]] to give
@@ -7914,7 +7908,6 @@ Poi, dopo una pausa, aggiunse:
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="The Man Who Was Thursday — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 2 (part 3)
 
 He got to his feet and strolled across the room with a sort
 of smiling embarrassment.
@@ -8055,11 +8048,10 @@ Dalla soglia giunse un mormorio: «Il signor Joseph Chamberlain.» Fu ripetuto d
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Was Thursday — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 3 (part 1)
 
-                         CHAPTER III
+CHAPTER III
 
-                  THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS [[thursday|THURSDAY]]
 
 BEFORE one of the fresh faces could appear at the doorway,
 Gregory's stunned surprise had fallen from him.  He was beside
@@ -8191,7 +8183,7 @@ perhaps the only real working-man present, [[Rose|rose]] lumberingly and said--
 
 CAPITOLO III
 
-                  L'UOMO CHE FU [[thursday|GIOVEDÌ]]
+L'UOMO CHE FU [[thursday|GIOVEDÌ]]
 
 PRIMA che uno di quei volti freschi potesse affacciarsi sulla soglia,
 lo sbigottimento attonito di Gregory era già svanito da lui.  Con un balzo
@@ -8322,7 +8314,6 @@ forse l'unico vero operaio presente, si [[Rose|alzò]] goffamente e disse —
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="The Man Who Was Thursday — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 3 (part 2)
 
 "I move that Comrade Gregory be elected [[thursday|Thursday]]," and sat
 lumberingly down again.
@@ -8585,7 +8576,6 @@ ed efficiente (bene, bene).»
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="The Man Who Was Thursday — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 3 (part 3)
 
 "Comrade Gregory has told us, in only too apologetic a tone,
 that we are not the enemies of society.  But I say that we
@@ -8860,7 +8850,6 @@ di [[Clock|orologeria]] rimesso d'improvviso in moto —
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Was Thursday — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 3 (part 4)
 
 "The question is that Comrade Syme be elected to the post of [[thursday|Thursday]]
 on the General Council."
@@ -8983,11 +8972,10 @@ col bastone-[[Sword|spada]] mentre il battello a vapore scivolava via.
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="The Man Who Was Thursday — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 4 (part 1)
 
-                         CHAPTER IV
+CHAPTER IV
 
-                   THE TALE OF A [[Detective|DETECTIVE]]
+THE TALE OF A [[Detective|DETECTIVE]]
 
 [[Gabriel Syme|GABRIEL SYME]] was not merely a [[Detective|detective]] who pretended to be
 a poet; he was really a poet who had become a [[Detective|detective]].
@@ -9111,7 +9099,7 @@ on the Thames embankment?"
 
 CAPITOLO IV
 
-                   IL RACCONTO DI UN [[Detective|INVESTIGATORE]]
+IL RACCONTO DI UN [[Detective|INVESTIGATORE]]
 
 [[Gabriel Syme|GABRIEL SYME]] non era semplicemente un [[Detective|investigatore]] che fingeva di essere
 un poeta; era in realtà un poeta che era diventato un [[Detective|investigatore]].
@@ -9234,7 +9222,6 @@ sull'argine del Tamigi?»
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Was Thursday — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 4 (part 2)
 
 "You have evidently not heard of the latest development in our
 police system," replied the other.  "I am not surprised at it.
@@ -9485,7 +9472,6 @@ naturalmente squisitamente buono. Questi io li chiamo la sezione [[Innocent|inno
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="The Man Who Was Thursday — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 4 (part 3)
 
 "Oh!" said Syme.
 
@@ -9776,11 +9762,10 @@ Non avevano proferito parola.
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="The Man Who Was Thursday — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 5 (part 1)
 
-                          CHAPTER V
+CHAPTER V
 
-                      THE FEAST OF [[Fear|FEAR]]
+THE FEAST OF [[Fear|FEAR]]
 
 AT first the large stone stair seemed to Syme as deserted as a pyramid;
 but before he reached the top he had realised that there was a man leaning
@@ -9899,7 +9884,7 @@ boisterous breakfast party was the secret conclave of the European Dynamiters.
 
 CAPITOLO V
 
-                      IL BANCHETTO DELLA [[Fear|PAURA]]
+IL BANCHETTO DELLA [[Fear|PAURA]]
 
 DAPPRINCIPIO la grande scalinata di pietra parve a Syme deserta come una piramide; ma prima di raggiungerne la cima si era reso conto che c'era un uomo appoggiato al parapetto dell'Embankment, lo sguardo perso al di là del [[River|fiume]]. Come figura era del tutto convenzionale, in cappello a cilindro e finanziera del taglio più formale che la moda consentisse; portava un fiore rosso all'occhiello. Man mano che Syme gli si avvicinava, passo dopo passo, egli non mosse un capello; e Syme poté accostarsi tanto da notare, persino nella fioca e pallida luce del mattino, che aveva il volto lungo, pallido e intellettuale, terminante in un piccolo ciuffo triangolare di barba scura proprio sulla punta del mento, mentre tutto il resto era rasato di fresco. Quel po' di peli sembrava quasi una semplice dimenticanza; il resto del viso era di quel tipo che meglio si conviene alla rasatura: dai lineamenti netti, [[ascetic|ascetico]] e, a suo modo, nobile. Syme si avvicinava sempre di più, osservando ogni cosa, e la figura non si scomponeva.
 
@@ -9939,7 +9924,6 @@ A un angolo della piazza sporgeva una sorta di spigolo di un albergo prospero ma
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="The Man Who Was Thursday — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 5 (part 2)
 
 Then, as Syme continued to stare at them, he saw something that he had
 not seen before.  He had not seen it literally because it was too large
@@ -10081,7 +10065,6 @@ Il nome dell'uomo, a quanto pareva, era Gogol; era un polacco, e in quel circolo
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Man Who Was Thursday — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 5 (part 3)
 
 "Right, my boy, right," said the President with a ponderous heartiness,
 "you aren't good at anything."
@@ -10199,11 +10182,10 @@ Proprio in fondo sedeva l'uomo chiamato Sabato, il più semplice e il più sconc
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Man Who Was Thursday — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 6 (part 1)
 
-                          CHAPTER VI
+CHAPTER VI
 
-                         THE EXPOSURE
+THE EXPOSURE
 
 SUCH were the six men who had sworn to destroy the world.
 Again and again Syme strove to pull together his common sense
@@ -10317,7 +10299,7 @@ not quite coward enough to admire it.
 
 CAPITOLO VI
 
-                        LO SMASCHERAMENTO
+LO SMASCHERAMENTO
 
 Tali erano i sei uomini che avevano giurato di distruggere il mondo.
 Più e più volte Syme tentò di rimettere insieme il proprio buon senso
@@ -10430,7 +10412,6 @@ del tutto abbastanza vile da ammirarla.
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="The Man Who Was Thursday — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 6 (part 2)
 
 The men were eating as they talked, and even in this they were typical.
 Dr. Bull and the Marquis ate casually and conventionally of the best
@@ -10657,7 +10638,6 @@ Quando furono tutti dentro, chiuse la porta e la sprangò a chiave.
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="The Man Who Was Thursday — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 6 (part 3)
 
 The first to speak was Gogol, the irreconcilable, who seemed bursting
 with inarticulate grievance.
@@ -10852,11 +10832,10 @@ di appassionato sollievo.
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="The Man Who Was Thursday — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 7 (part 1)
 
-                         CHAPTER VII
+CHAPTER VII
 
-       THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
+THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
 
 "SIT down!" said [[Sunday]] in a voice that he used once or twice in his life,
 a voice that made men drop drawn swords.
@@ -10985,7 +10964,7 @@ in evening dress.
 
 CAPITOLO VII
 
-       L'INSPIEGABILE CONDOTTA DEL PROFESSOR DE WORMS
+L'INSPIEGABILE CONDOTTA DEL PROFESSOR DE WORMS
 
 «Sedete!» disse [[Sunday]] con una voce che adoperò una o due volte
 nella vita, una voce che faceva cadere le spade sguainate dalle mani.
@@ -11109,7 +11088,6 @@ malaticcia in abito da sera.
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="The Man Who Was Thursday — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 7 (part 2)
 
 [[Snow]], however, began to thicken and fall fast; and Syme,
 having found one glance at the wax lady quite sufficient to depress
@@ -11319,7 +11297,6 @@ cautela, e si avvolse fino al mento nella coperta impermeabile.
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="The Man Who Was Thursday — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 7 (part 3)
 
 Every movement of the old man's tottering figure and vague hands, every
 uncertain gesture and panic-stricken pause, seemed to put it beyond question
@@ -11542,11 +11519,10 @@ e chiese un bicchiere di latte.
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="The Man Who Was Thursday — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 8 (part 1)
 
-                         CHAPTER VIII
+CHAPTER VIII
 
-                    [[The Professor|THE PROFESSOR]] EXPLAINS
+[[The Professor|THE PROFESSOR]] EXPLAINS
 
 WHEN [[Gabriel Syme]] found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows
@@ -11680,7 +11656,7 @@ and shouted with a barbaric laughter.
 
 CAPITOLO VIII
 
-                    [[The Professor|IL PROFESSORE]] SI SPIEGA
+[[The Professor|IL PROFESSORE]] SI SPIEGA
 
 Quando [[Gabriel Syme]] si trovò finalmente sistemato su una sedia, e di fronte a lui, fissi e definitivi anch’essi, le sopracciglia inarcate e le palpebre plumbee del [[The Professor|Professore]], le sue paure tornarono per intero. Quell’uomo incomprensibile uscito dal feroce consiglio, dopo tutto, lo aveva certamente inseguito. Se costui aveva un carattere da paralitico e un altro da inseguitore, l’antitesi poteva renderlo più interessante, ma di certo non più rassicurante. Sarebbe stata ben magra consolazione che egli non riuscisse a smascherare il [[The Professor|Professore]], se per qualche grave disgrazia il [[The Professor|Professore]] fosse riuscito a smascherare lui. Vuotò un intero boccale di peltro colmo di birra prima che il [[The Professor|professore]] avesse toccato il suo latte.
 
@@ -11734,7 +11710,6 @@ Syme ebbe per un lampo la sensazione che il cosmo si fosse capovolto di netto, c
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Man Who Was Thursday — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 8 (part 2)
 
 Even in that close den, perpetually filled with the din of knives,
 plates, cans, clamorous voices, sudden struggles and stampedes,
@@ -11979,7 +11954,6 @@ La decisione del suo gesto trasse vagamente in piedi il [[The Professor|Professo
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="The Man Who Was Thursday — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 8 (part 3)
 
 "Confound it!" cried Syme.  "And we don't know where he is."
 
@@ -12226,7 +12200,6 @@ Syme poté riversare per la prima [[Time|volta]] tutta la sua incredibile vicend
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="The Man Who Was Thursday — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 8 (part 4)
 
 "I need hardly say there was a collision.  The pessimists
 all round me looked anxiously from one Professor to the other
@@ -12318,11 +12291,10 @@ Il professor de Worms annuì e vuotò il bicchiere.
 
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="The Man Who Was Thursday — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 9 (part 1)
 
-                         CHAPTER IX
+CHAPTER IX
 
-                    THE MAN IN SPECTACLES
+THE MAN IN SPECTACLES
 
 "BURGUNDY is a jolly thing," said [[The Professor|the Professor]] sadly, as he set
 his glass down.
@@ -12452,7 +12424,7 @@ Did it take you long to make it up?"
 
 CAPITOLO IX
 
-                    L'UOMO CON GLI OCCHIALI
+L'UOMO CON GLI OCCHIALI
 
 «Il borgogna è una cosa allegra» disse [[The Professor|il Professore]] con tristezza, posando
 il bicchiere.
@@ -12581,7 +12553,6 @@ Ci hai messo molto a inventarlo?»
 
 <span class="atom-split" data-atom="chapter_09--part_02" data-title="The Man Who Was Thursday — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 9 (part 2)
 
 [[The Professor]] made no answer, but gazed in front of him with eyes
 the colour of a wintry sea; so Syme repeated his question.
@@ -12814,7 +12785,6 @@ Il dottor Bull sorrise di nuovo, ma continuò a scrutarli senza parlare.
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="The Man Who Was Thursday — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 9 (part 3)
 
 "Please do not think me excessively abrupt; but I advise
 you to alter those plans, or if it is too late for that,
@@ -13085,7 +13055,6 @@ indicare senza parlare.
 
 <span class="atom-split" data-atom="chapter_09--part_04" data-title="The Man Who Was Thursday — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 9 (part 4)
 
 [[The Professor]] had also started to his feet, forgetful of his
 supposed paralysis.  He leant on the back of the chair and stared doubtfully
@@ -13356,7 +13325,6 @@ Erano già sul battello per Calais prima che la conversazione scorresse liberame
 
 <span class="atom-split" data-atom="chapter_09--part_05" data-title="The Man Who Was Thursday — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 9 (part 5)
 
 "I had already arranged," he explained, "to go to France for
 my lunch; but I am delighted to have someone to lunch with me.
@@ -13625,11 +13593,10 @@ contro il mare violetto.
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="The Man Who Was Thursday — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 10 (part 1)
 
-                          CHAPTER X 
+CHAPTER X 
 
-                           THE DUEL
+THE DUEL
 
 SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur
@@ -13772,7 +13739,7 @@ a pretext to insult the Marquis."
 
 CAPITOLO X
 
-                           IL DUELLO
+IL DUELLO
 
 SYME si sedette a un tavolino di caffè con i suoi compagni, gli occhi
 azzurri scintillanti come il mare luminoso là sotto, e ordinò una bottiglia
@@ -13914,7 +13881,6 @@ un pretesto per insultare il Marchese.»
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="The Man Who Was Thursday — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 10 (part 2)
 
 "By George!" said Syme, facing round and looking at him,
 "what a clever chap you are!"
@@ -14151,7 +14117,6 @@ compatibile con la dignità.
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="The Man Who Was Thursday — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 10 (part 3)
 
 Then the Colonel took out another pair of blades, and taking one himself
 and giving another to Dr. Bull, proceeded to place the men.
@@ -14380,7 +14345,6 @@ che presto sarebbe stato il boato del treno per [[Paris|Parigi]].
 
 <span class="atom-split" data-atom="chapter_10--part_04" data-title="The Man Who Was Thursday — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 10 (part 4)
 
 He fell to fighting again with a [[Supernatural|supernatural]] levity, like a Mohammedan
 panting for Paradise.  As the train came nearer and nearer he fancied he could
@@ -14661,7 +14625,6 @@ ma il volto era terribilmente pallido.
 
 <span class="atom-split" data-atom="chapter_10--part_05" data-title="The Man Who Was Thursday — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 10 (part 5)
 
 "I am Inspector Ratcliffe," he said, with a sort of haste
 that verged on harshness.  "My name is pretty [[Well|well]] known to
@@ -14934,11 +14897,10 @@ sorrise di traverso.
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Man Who Was Thursday — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 11 (part 1)
 
-                         CHAPTER XI
+CHAPTER XI
 
-                THE CRIMINALS CHASE THE POLICE
+THE CRIMINALS CHASE THE POLICE
 
 SYME put the field-glasses from his eyes with an almost ghastly relief.
 
@@ -15059,7 +15021,7 @@ the barons' wars."
 
 CAPITOLO XI
 
-                I CRIMINALI DANNO LA CACCIA ALLA POLIZIA
+I CRIMINALI DANNO LA CACCIA ALLA POLIZIA
 
 SYME allontanò il cannocchiale dagli occhi con un sollievo quasi spettrale.
 
@@ -15179,7 +15141,6 @@ dalle guerre dei baroni.»
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="The Man Who Was Thursday — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 11 (part 2)
 
 "As a lecture on English [[history]] for the little ones," said Syme,
 "this is all very nice; but I have not yet grasped its application."
@@ -15434,7 +15395,6 @@ dall’orizzonte.
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="The Man Who Was Thursday — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 11 (part 3)
 
 The [[Horse|horse]] and cart took a sharp turn round a clump of elms, and the [[Horse|horse]]'s
 nose nearly struck the face of an old gentleman who was sitting on the benches
@@ -15623,11 +15583,10 @@ di locuste. I cavalli erano stati sellati non un attimo troppo presto.
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="The Man Who Was Thursday — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 12 (part 1)
 
-                         CHAPTER XII
+CHAPTER XII
 
-                    THE EARTH IN ANARCHY
+THE EARTH IN ANARCHY
 
 URGING the horses to a gallop, without respect to the rather rugged
 descent of the [[Road|road]], the horsemen soon regained their advantage over
@@ -15754,7 +15713,7 @@ mist coming up from the sea.
 
 CAPITOLO XII
 
-                    LA TERRA NELL'ANARCHIA
+LA TERRA NELL'ANARCHIA
 
 SPINGENDO i cavalli al galoppo, senza riguardo alla discesa piuttosto scoscesa della [[Road|strada]], i cavalieri riguadagnarono presto il loro vantaggio sugli uomini in marcia, e alla fine la mole dei primi edifici di Lancy tagliò fuori la vista dei loro inseguitori. Ciò nonostante, la cavalcata era stata lunga, e nel [[Time|tempo]] in cui raggiunsero la vera e propria cittadina l'occidente si andava scaldando del colore e della qualità del tramonto. Il Colonnello propose che, prima di dirigersi definitivamente al posto di polizia, tentassero, passando, di aggregarsi un altro individuo che poteva tornar utile.
 
@@ -15814,7 +15773,6 @@ Il dottor Renard era un uomo mite dotato di una ricchezza mostruosa; le sue stan
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Was Thursday — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 12 (part 2)
 
 "No," corrected [[The Professor|the Professor]], "a [[Horse|horse]]."
 
@@ -16019,7 +15977,6 @@ Fu interrotto di colpo da un botto e da un lampo di luce, che parve vicinissimo 
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="The Man Who Was Thursday — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 12 (part 3)
 
 "It need not interrupt conversation," said the gloomy Ratcliffe.  "Pray resume
 your remarks, Colonel.  You were talking, I think, about the plain people
@@ -16223,7 +16180,6 @@ Il colonnello balzò giù dall'automobile con un'esclamazione insofferente.
 
 <span class="atom-split" data-atom="chapter_12--part_04" data-title="The Man Who Was Thursday — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 12 (part 4)
 
 "Dr. Bull," said Syme sardonically, "has at least got it into his hat."
 
@@ -16354,12 +16310,12 @@ We are the last of mankind."
 "It may be," said [[The Professor|the Professor]] absently.  Then he added in his dreamy voice,
 "What is all that at the end of the 'Dunciad'?
 
-  "'Nor public flame; nor private, dares to shine;
-  Nor human light is left, nor glimpse divine!
-  Lo! thy dread Empire, Chaos, is restored;
-  Light dies before thine uncreating word:
-  Thy hand, great Anarch, lets the curtain fall;
-  And universal darkness buries all.'"
+"'Nor public flame; nor private, dares to shine;
+Nor human light is left, nor glimpse divine!
+Lo! thy dread Empire, Chaos, is restored;
+Light dies before thine uncreating word:
+Thy hand, great Anarch, lets the curtain fall;
+And universal darkness buries all.'"
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -16493,18 +16449,17 @@ Noi siamo gli ultimi del genere umano.»
 «Può darsi», disse [[The Professor|il Professore]] distrattamente. Poi aggiunse con la sua voce sognante:
 «Come fa quel passo alla fine della "Dunciad"?
 
-  «"Non fiamma pubblica; né privata, osa splendere;
-  Non resta luce umana, né barlume divino!
-  Ecco! il tuo tremendo Impero, o Caos, è restaurato;
-  La luce muore innanzi alla tua parola che disfà:
-  La tua mano, grande Anarca, lascia calare il sipario;
-  E una tenebra universale seppellisce ogni cosa."»
+«"Non fiamma pubblica; né privata, osa splendere;
+Non resta luce umana, né barlume divino!
+Ecco! il tuo tremendo Impero, o Caos, è restaurato;
+La luce muore innanzi alla tua parola che disfà:
+La tua mano, grande Anarca, lascia calare il sipario;
+E una tenebra universale seppellisce ogni cosa."»
 
 
 
 <span class="atom-split" data-atom="chapter_12--part_05" data-title="The Man Who Was Thursday — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 12 (part 5)
 
 "Stop!" cried Bull suddenly, "the gendarmes are out."
 
@@ -16758,11 +16713,10 @@ Il dottor Bull scagliò la sua [[Sword|spada]] in mare.
 
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="The Man Who Was Thursday — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 13 (part 1)
 
-                         CHAPTER XIII
+CHAPTER XIII
 
-                THE PURSUIT OF THE PRESIDENT
+THE PURSUIT OF THE PRESIDENT
 
 NEXT morning five bewildered but hilarious people took the boat
 for Dover.  The poor old Colonel might have had some cause
@@ -16907,7 +16861,7 @@ upon the Tree of Life?  I dare say it will grow on me some day."
 
 CAPITOLO XIII
 
-                L’INSEGUIMENTO DEL PRESIDENTE
+L’INSEGUIMENTO DEL PRESIDENTE
 
 IL mattino seguente cinque persone sbalordite ma ilari presero il battello
 per Dover.  Il povero vecchio Colonnello avrebbe forse avuto qualche motivo
@@ -17051,7 +17005,6 @@ dell’Albero della Vita?  Direi che un giorno finirà col piacere anche a me.»
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="The Man Who Was Thursday — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 13 (part 2)
 
 "We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
 "We have come to know what all this means.  Who are you?  What are you?
@@ -17278,7 +17231,6 @@ allo stupito pompiere con gesti esplicativi.
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="The Man Who Was Thursday — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 13 (part 3)
 
 "After him!" howled Syme.  "He can't go astray now.
 There's no mistaking a [[Fire|fire]]-engine."
@@ -17575,7 +17527,6 @@ foglietto di carta, sul quale era scritto:…
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="The Man Who Was Thursday — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 13 (part 4)
 
 "The word, I fancy, should be 'pink'."
 
@@ -17615,11 +17566,11 @@ He held out with distaste a piece of folded paper, addressed:
 
 The Secretary, raging, rent it open, and found written inside it:--
 
-  "When the herring runs a mile,
-  Let the Secretary smile;
-  When the herring tries to fly,
-  Let the Secretary die.
-                  Rustic Proverb."
+"When the herring runs a mile,
+Let the Secretary smile;
+When the herring tries to fly,
+Let the Secretary die.
+Rustic Proverb."
 
 "Why the eternal crikey," began the Secretary, "did you let the man in?
 Do people commonly come to your Exhibition riding on mad elephants?  Do--"
@@ -17706,11 +17657,11 @@ Porse con disgusto un pezzo di carta piegato, indirizzato:
 
 Il Segretario, infuriato, lo squarciò, e vi trovò scritto dentro:…
 
-  «Quando l’aringa corre un miglio,
-  Rida pure il Segretario;
-  Quando l’aringa prova a volare,
-  Muoia pure il Segretario.
-                  Proverbio campagnolo.»
+«Quando l’aringa corre un miglio,
+Rida pure il Segretario;
+Quando l’aringa prova a volare,
+Muoia pure il Segretario.
+Proverbio campagnolo.»
 
 «Perché diavolo mai», cominciò il Segretario, «avete lasciato entrare quell’uomo?
 La gente viene forse comunemente alla vostra Esposizione a cavallo di elefanti impazziti?  Ma…»
@@ -17760,11 +17711,10 @@ Seguiamolo!»
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="The Man Who Was Thursday — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 14 (part 1)
 
-                         CHAPTER XIV
+CHAPTER XIV
 
-                    THE SIX PHILOSOPHERS
+THE SIX PHILOSOPHERS
 
 ACROSS green fields, and breaking through blooming hedges, toiled six
 draggled detectives, about five miles out of [[London]].  The optimist
@@ -17893,7 +17843,7 @@ hours in a parlour with an absent-minded tiger?"
 
 CAPITOLO XIV
 
-                    I SEI FILOSOFI
+I SEI FILOSOFI
 
 ATTRAVERSO verdi campi, e sfondando siepi in fiore, arrancavano sei
 sudici detective, a circa cinque miglia da [[London|Londra]].  L’ottimista
@@ -18021,7 +17971,6 @@ in un salotto con una tigre distratta?»
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="The Man Who Was Thursday — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 14 (part 2)
 
 "And what do you think of [[Sunday]], Gogol?" asked Syme.
 
@@ -18286,7 +18235,6 @@ Se solo potessimo passare davanti…»
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="The Man Who Was Thursday — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 14 (part 3)
 
 "Look!" cried out Bull clamorously, "the balloon is coming down!"
 
@@ -18561,7 +18509,6 @@ prima di poter ricordare la propria madre.
 
 <span class="atom-split" data-atom="chapter_14--part_04" data-title="The Man Who Was Thursday — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 14 (part 4)
 
 When the carriages eventually rolled up to a large, low, cavernous gateway,
 another man in the same uniform, but wearing a silver star on the grey
@@ -18730,11 +18677,10 @@ di un trovatore.  Poiché quei travestimenti non travestivano, ma rivelavano.
 
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="The Man Who Was Thursday — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 15 (part 1)
 
-                          CHAPTER XV
+CHAPTER XV
 
-                          THE ACCUSER
+THE ACCUSER
 
 AS Syme strode along the corridor he saw the Secretary standing at
 the top of a great flight of stairs.  The man had never looked so noble.
@@ -18855,7 +18801,7 @@ on their chairs of stone.  Not one of them had spoken a word.
 
 CAPITOLO XV
 
-                          L'ACCUSATORE
+L'ACCUSATORE
 
 MENTRE Syme avanzava a grandi passi lungo il corridoio, vide il Segretario in piedi
 in cima a una vasta gradinata.  Mai quell'uomo era apparso tanto nobile.
@@ -18975,7 +18921,6 @@ sulle loro sedie di pietra.  Nessuno di loro aveva pronunciato parola.
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="The Man Who Was Thursday — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 15 (part 2)
 
 They seemed in no haste to do so, but heard in [[Silence|silence]] the hum
 of [[Insects|insects]] and the distant [[Song|song]] of one bird.  Then [[Sunday]] spoke,
@@ -19262,7 +19207,6 @@ una vera agonia come la mia...»
 
 <span class="atom-split" data-atom="chapter_15--part_03" data-title="The Man Who Was Thursday — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
-# [[thursday]] — Chapter 15 (part 3)
 
 Syme sprang to his feet, shaking from head to foot.
 
@@ -19302,7 +19246,7 @@ Only in the blackness before it entirely destroyed his brain he seemed to hear
 a distant voice saying a commonplace text that he had heard somewhere,
 "Can ye drink of the cup that I drink of?"
 
-                         *    *    *
+*    *    *
 
 When men in books awake from a vision, they commonly find
 themselves in some place in which they might have fallen asleep;
@@ -19336,15 +19280,15 @@ himself outside a fenced [[Garden|garden]].  There he saw the sister of Gregory,
 the girl with the gold-red hair, cutting lilac before breakfast,
 with the great unconscious gravity of a girl.
 
-                           THE END
+THE END
 
-      A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
+A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
 
-                   THE MAN WHO WAS [[thursday|THURSDAY]]
+THE MAN WHO WAS [[thursday|THURSDAY]]
 
-                      by G. K. Chesterton
+by G. K. Chesterton
 
-              author of the [[Father Brown]] stories
+author of the [[Father Brown]] stories
 
 It is very difficult to classify THE MAN WHO WAS [[thursday|THURSDAY]].  It is possible
 to say that it is a gripping adventure story of murderous criminals
@@ -19403,7 +19347,7 @@ Solo nella tenebra, prima che gli distruggesse del tutto il cervello, gli parve 
 una voce lontana che diceva un testo banale che aveva udito da qualche parte:
 «Potete voi bere il calice ch'io bevo?»
 
-                         *    *    *
+*    *    *
 
 Quando gli uomini nei libri si destano da una visione, comunemente si trovano
 in qualche luogo in cui avrebbero potuto addormentarsi;
@@ -19439,13 +19383,13 @@ con la grande, inconsapevole gravità di una ragazza.
 
 FINE
 
-      UN RACCONTO SFRENATO, FOLLE, ESILARANTE E PROFONDAMENTE COMMOVENTE
+UN RACCONTO SFRENATO, FOLLE, ESILARANTE E PROFONDAMENTE COMMOVENTE
 
-                  L'UOMO CHE FU [[thursday|GIOVEDÌ]]
+L'UOMO CHE FU [[thursday|GIOVEDÌ]]
 
-			     di G. K. Chesterton
+di G. K. Chesterton
 
-              autore dei racconti di [[Father Brown]]
+autore dei racconti di [[Father Brown]]
 
 È assai difficile classificare L'UOMO CHE FU [[thursday|GIOVEDÌ]].  È possibile
 dire che è un'avvincente storia d'avventura di criminali assassini

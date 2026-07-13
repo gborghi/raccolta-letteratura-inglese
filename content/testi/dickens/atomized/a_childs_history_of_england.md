@@ -21,28 +21,28 @@ David Price, email ccx074@pglaf.org
 
 
 
-                      THE MUDFOG AND OTHER SKETCHES
+THE MUDFOG AND OTHER SKETCHES
 
 
 CONTENTS
 
-                                                                  PAGE
+PAGE
 Public Life of Mr. Tulrumble                                       495
 Full Report of the First Meeting of the Mudfog Association         513
 for the Advancement of Everything
-                 Section A.  Zoology and Botany
-                 Section B.  Anatomy and Medicine
-                 Section C.  Statistics
-                 Section D.  Mechanical Science
+Section A.  Zoology and Botany
+Section B.  Anatomy and Medicine
+Section C.  Statistics
+Section D.  Mechanical Science
 Full Report of the Second Meeting of the Mudfog Association        531
 for the Advancement of Everything
-                 Section A.  Zoology and Botany
-                 Section B.  Display of Models and
-                 Mechanical Science
-                 Section C.  Anatomy and Medicine
-                 Section D.  Statistics
-                 Supplementary Section, E.  Umbugology and
-                 Ditchwaterisics
+Section A.  Zoology and Botany
+Section B.  Display of Models and
+Mechanical Science
+Section C.  Anatomy and Medicine
+Section D.  Statistics
+Supplementary Section, E.  Umbugology and
+Ditchwaterisics
 The Pantomime of Life                                              551
 Some Particulars Concerning a [[Lion]]                                 558
 Mr. Robert Bolton                                                  563
@@ -587,7 +587,7 @@ afterwards, I’ll reward them [[Well|well]].’
 Two or three men stepped forward, with the view of bearing Ned off, when
 the secretary interposed.
 
-           [Picture: Ned Twigger in the kitchen of Mudfog Hall]
+[Picture: Ned Twigger in the kitchen of Mudfog Hall]
 
 ‘Take care! take care!’ said Mr. Jennings.  ‘I beg your pardon, sir; but
 they’d better not go too near him, because, if he falls over, he’ll
@@ -814,7 +814,7 @@ us.  Any attempt at amalgamating them into one beautiful whole, would
 only destroy that glowing tone, that dash of wildness, and rich vein of
 picturesque interest, which pervade them throughout.
 
-                               ‘_Mudfog_, _Monday night_, _seven o’clock_.
+‘_Mudfog_, _Monday night_, _seven o’clock_.
 
 ‘WE are in a state of great excitement here.  Nothing is spoken of, but
 the approaching meeting of the association.  The inn-doors are thronged
@@ -830,7 +830,7 @@ reached me; but I cannot, as yet, vouch for its accuracy.  The moment I
 have been enabled to obtain any certain information upon this interesting
 point, you may depend upon receiving it.’
 
-                                                       ‘_Half-past seven_.
+‘_Half-past seven_.
 
 I HAVE just returned from a personal interview with the landlord of the
 Pig and Tinder-box.  He speaks confidently of the probability of
@@ -849,7 +849,7 @@ corner of the High-street about half an hour ago, which has occasioned
 much confusion.  The general impression is, that it was an accident.
 Pray heaven it may prove so!’
 
-                                                       ‘_Tuesday_, _noon_.
+‘_Tuesday_, _noon_.
 
 ‘AT an early hour this morning [[The Bells|the bells]] of all the churches struck seven
 o’[[Clock|clock]]; the effect of which, in the present lively state of the town,
@@ -869,7 +869,7 @@ my [[Window|window]], and groups of people, offering fish and vegetables for sal
 parade the streets.  With these exceptions everything is quiet, and I
 trust will continue so.’
 
-                                                          ‘_Five o’clock_.
+‘_Five o’clock_.
 
 ‘IT is now ascertained, beyond all [[Doubt|doubt]], that Professors Snore, Doze,
 and Wheezy will _not_ repair to the Pig and Tinder-box, but have actually
@@ -912,7 +912,7 @@ extraordinary arrivals take place to-[[Night|night]], that consequences may aris
 from this popular ferment, which every man of sense and feeling would
 deplore.’
 
-                                               ‘_Twenty minutes past six_.
+‘_Twenty minutes past six_.
 
 ‘I HAVE just heard that the boy who fell through the pastrycook’s [[Window|window]]
 last [[Night|night]] has died of the fright.  He was suddenly called upon to pay
@@ -920,7 +920,7 @@ three and sixpence for the damage done, and his constitution, it seems,
 was not strong enough to bear up against the shock.  The inquest, it is
 said, will be held to-morrow.’
 
-                                             ‘_Three-quarters part seven_.
+‘_Three-quarters part seven_.
 
 ‘PROFESSORS Muff and Nogo have just driven up to the hotel door; they at
 once ordered dinner with great condescension.  We are all very much
@@ -933,13 +933,13 @@ fork, and a clean plate.  It is conjectured that some experiments will be
 tried upon the dog to-[[Night|night]]; if any particulars should transpire, I will
 forward them by express.’
 
-                                                       ‘_Half-past eight_.
+‘_Half-past eight_.
 
 ‘THE animal has been procured.  He is a pug-dog, of rather intelligent
 appearance, in good condition, and with very short legs.  He has been
 tied to a curtain-peg in a dark room, and is howling dreadfully.’
 
-                                                   ‘_Ten minutes to nine_.
+‘_Ten minutes to nine_.
 
 ‘THE dog has just been rung for.  With an instinct which would appear
 almost the result of reason, the sagacious animal seized the waiter by
@@ -960,14 +960,14 @@ endowed with sufficient sense to foresee the incalculable benefits which
 the whole human race may derive from so very slight a concession on his
 part.’
 
-                                                          ‘_Nine o’clock_.
+‘_Nine o’clock_.
 
 ‘THE dog’s tail and ears have been sent down-stairs to be washed; from
 which circumstance we infer that the animal is no more.  His forelegs
 have been delivered to the boots to be brushed, which strengthens the
 supposition.’
 
-                                                        ‘_Half after ten_.
+‘_Half after ten_.
 
 ‘MY feelings are so overpowered by what has taken place in the course of
 the last hour and a half, that I have scarcely strength to detail the
@@ -1002,7 +1002,7 @@ case, but greatly enhanced in this, by the amiable qualities of the
 deceased animal, who appears to have been much and deservedly respected
 by the whole of his acquaintance.’
 
-                                                        ‘_Twelve o’clock_.
+‘_Twelve o’clock_.
 
 ‘I TAKE the last opportunity before sealing my parcel to inform you that
 the boy who fell through the pastrycook’s [[Window|window]] is not dead, as was
@@ -1023,7 +1023,7 @@ the agitating events of this day have been too much for me.
 ‘No news yet of either of the Professors Snore, Doze, or Wheezy.  It is
 very strange!’
 
-                                                   ‘_Wednesday afternoon_.
+‘_Wednesday afternoon_.
 
 ‘ALL is now over; and, upon one point at least, I am at length enabled to
 set the minds of your readers at rest.  The three professors arrived at
@@ -1041,7 +1041,7 @@ with such proceedings as these, you will naturally inquire.  Upon this
 head, rumour is silent; I have my speculations, but forbear to give
 utterance to them just now.’
 
-                                                          ‘_Four o’clock_.
+‘_Four o’clock_.
 
 ‘THE town is filling fast; eighteenpence has been offered for a bed and
 refused.  Several gentlemen were under the necessity last [[Night|night]] of
@@ -1079,7 +1079,7 @@ earnestly to be hoped that now, when the moment has arrived for their
 interference, the magistrates will not shrink from the exercise of that
 power which is vested in them by the constitution of our common country.’
 
-                                                         ‘_Half-past ten_.
+‘_Half-past ten_.
 
 ‘THE disturbance, I am happy to inform you, has been completely quelled,
 and the ringleader taken into custody.  She had a pail of cold [[Water|water]]
@@ -1091,12 +1091,12 @@ illustrious members amongst us, I trust and [[Hope|hope]] everything may go off
 peaceably.  I shall send you a full report of to-morrow’s proceedings by
 the [[Night|night]] coach.’
 
-                                                        ‘_Eleven o’clock_.
+‘_Eleven o’clock_.
 
 ‘I OPEN my letter to say that nothing whatever has occurred since I
 folded it up.’
 
-                                                              ‘_Thursday_.
+‘_Thursday_.
 
 ‘THE sun [[Rose|rose]] this morning at the usual hour.  I did not observe anything
 particular in the aspect of the glorious planet, except that he appeared
@@ -1121,10 +1121,10 @@ eligible position at that [[Time|time]], in
 ‘SECTION A.—ZOOLOGY AND BOTANY.
 
 
-                     GREAT ROOM, PIG AND TINDER-BOX.
+GREAT ROOM, PIG AND TINDER-BOX.
 
-   _President_—Professor Snore.  _Vice-Presidents_—Professors Doze and
-                                 Wheezy.
+_President_—Professor Snore.  _Vice-Presidents_—Professors Doze and
+Wheezy.
 
 ‘The scene at this moment was particularly striking.  The sun streamed
 through the windows of the apartments, and tinted the whole scene with
@@ -1294,9 +1294,9 @@ must decline answering it.
 ‘SECTION B.—ANATOMY AND MEDICINE.
 
 
-                     COACH-[[house|HOUSE]], PIG AND TINDER-BOX.
+COACH-[[house|HOUSE]], PIG AND TINDER-BOX.
 
-  _President_—Dr. Toorell.  _Vice-Presidents_—Professors Muff and Nogo.
+_President_—Dr. Toorell.  _Vice-Presidents_—Professors Muff and Nogo.
 
 ‘DR. KUTANKUMAGEN (of Moscow) read to the section a report of a case
 which had occurred within his own practice, strikingly illustrative of
@@ -1409,10 +1409,10 @@ ten hours.
 ‘SECTION C.—STATISTICS.
 
 
-                         HAY-LOFT, ORIGINAL PIG.
+HAY-LOFT, ORIGINAL PIG.
 
-  _President_—Mr. Woodensconce.  _Vice-Presidents_—Mr. Ledbrain and Mr.
-                                Timbered.
+_President_—Mr. Woodensconce.  _Vice-Presidents_—Mr. Ledbrain and Mr.
+Timbered.
 
 ‘MR. SLUG stated to the section the result of some calculations he had
 made with great difficulty and labour, regarding the state of infant
@@ -1424,7 +1424,7 @@ the names and numbers of children’s books principally in circulation:—
 Ditto and Bean-stalk                8,621
 Ditto and Eleven Brothers           2,845
 Ditto and Jill                      1,998
-                        Total      21,407
+Total      21,407
 
 ‘He found that the proportion of Robinson Crusoes to Philip Quarlls was
 as four and a half to one; and that the preponderance of [[Valentine]] and
@@ -1457,7 +1457,7 @@ counterbalanced by another in a subsequent part of the poem, in which
 very gross allusion was made to the mode in which the heroine was
 personally chastised by her mother
 
-                     “‘For laughing at Jack’s disaster;”
+“‘For laughing at Jack’s disaster;”
 
 besides, the whole work had this one great fault, _it was not true_.
 
@@ -1503,9 +1503,9 @@ in sitting upon boxes.
 ‘SECTION D.—MECHANICAL SCIENCE.
 
 
-                        COACH-[[house|HOUSE]], ORIGINAL PIG.
+COACH-[[house|HOUSE]], ORIGINAL PIG.
 
-  _President_—Mr. Carter.  _Vice-Presidents_—Mr. Truck and Mr. Waghorn.
+_President_—Mr. Carter.  _Vice-Presidents_—Mr. Truck and Mr. Waghorn.
 
 ‘PROFESSOR QUEERSPECK exhibited an elegant model of a portable railway,
 neatly mounted in a green case, for the waistcoat pocket.  By attaching
@@ -1576,7 +1576,7 @@ quite as [[Well|well]] when there was a [[Fire|fire]], as when there was not a [
 the former case he thought it would be of equal service whether the top
 were up or down.’
 
-                                * * * * *
+* * * * *
 
 With the last section our correspondent concludes his most able and
 faithful Report, which will never cease to reflect credit upon him for
@@ -1603,7 +1603,7 @@ great mutual complimentations, and have at length dispersed to their
 several homes,—whither all good wishes and joys attend them, until next
 year!
 
-                                                               Signed BOZ.
+Signed BOZ.
 
 
 
@@ -1635,7 +1635,7 @@ subject-matter, have no equal in the epistolary literature of any age or
 country.  We give this gentleman’s correspondence entire, and in the
 order in which it reached our office.
 
-                ‘_Saloon of Steamer_, _Thursday night_, _half-past eight_.
+‘_Saloon of Steamer_, _Thursday night_, _half-past eight_.
 
 ‘WHEN I left New Burlington Street this evening in the hackney cabriolet,
 number four thousand two hundred and eighty-five, I experienced
@@ -1665,7 +1665,7 @@ is a long tin tube of about three inches in diameter, carefully closed at
 both ends.  What can this contain?  Some powerful instrument of a new
 construction, doubtless.’
 
-                                                 ‘_Ten minutes past nine_.
+‘_Ten minutes past nine_.
 
 ‘NOBODY has yet arrived, nor has anything fresh come in my way except
 several joints of beef and mutton, from which I conclude that a good
@@ -1683,16 +1683,16 @@ my knowledge, in order that my first impressions may lose nothing of
 their original vividness.  I shall despatch them in small packets as
 opportunities arise.’
 
-                                                        ‘_Half past nine_.
+‘_Half past nine_.
 
 ‘SOME dark object has just appeared upon the wharf.  I think it is a
 travelling carriage.’
 
-                                                      ‘_A quarter to ten_.
+‘_A quarter to ten_.
 
 ‘NO, it isn’t.’
 
-                                                         ‘_Half-past ten_.
+‘_Half-past ten_.
 
 ‘THE passengers are pouring in every instant.  Four omnibuses full have
 just arrived upon the wharf, and all is bustle and activity.  The noise
@@ -1739,7 +1739,7 @@ Professor Grime having lost several teeth, is unable, I observe, to eat
 his crusts without previously soaking them in his bottled porter.  How
 interesting are these peculiarities!’
 
-                                                      ‘_Half-past eleven_.
+‘_Half-past eleven_.
 
 ‘PROFESSORS Woodensconce and Grime, with a degree of good [[Humour|humour]] that
 delights us all, have just arranged to toss for a bottle of mulled port.
@@ -1751,7 +1751,7 @@ an individual, and do not compromise either you or your readers by this
 expression of feeling) are with Professor Woodensconce.  I have backed
 that gentleman to the amount of eighteenpence.’
 
-                                              ‘_Twenty minutes to twelve_.
+‘_Twenty minutes to twelve_.
 
 ‘PROFESSOR Grime has inadvertently tossed his half-[[Crown|crown]] out of one of
 the cabin-windows, and it has been arranged that the steward shall toss
@@ -1762,7 +1762,7 @@ takers.
 lodged in a beam, is a long [[Time|time]] coming down again.  The interest and
 suspense of this one moment are beyond anything that can be imagined.’
 
-                                                        ‘_Twelve o’clock_.
+‘_Twelve o’clock_.
 
 ‘THE mulled port is smoking on the table before me, and Professor Grime
 has won.  Tossing is a game of chance; but on every ground, whether of
@@ -1771,7 +1771,7 @@ attainments, I cannot help expressing my opinion that Professor
 Woodensconce _ought_ to have come off victorious.  There is an exultation
 about Professor Grime incompatible, I [[Fear|fear]], with true [[Greatness|greatness]].’
 
-                                                 ‘_A quarter past twelve_.
+‘_A quarter past twelve_.
 
 ‘PROFESSOR Grime continues to exult, and to boast of his victory in no
 very measured terms, observing that he always does win, and that he knew
@@ -1783,7 +1783,7 @@ in plain language of his true position in society, and the precise level
 of his acquirements and abilities?  Professor Grime will do [[Well|well]] to look
 to this.’
 
-                                                           ‘_One o’clock_.
+‘_One o’clock_.
 
 ‘I AM writing in bed.  The small cabin is illuminated by the feeble light
 of a flickering lamp suspended from the ceiling; Professor Grime is lying
@@ -1802,7 +1802,7 @@ which I have before spoken, and is regarding it with great interest.
 What rare mechanical combination can be contained in that mysterious
 case?  It is evidently a profound secret to all.’
 
-                                                    ‘_A quarter past one_.
+‘_A quarter past one_.
 
 ‘THE behaviour of Mr. Slug grows more and more mysterious.  He has
 unscrewed the top of the tube, and now renews his observations upon his
@@ -1811,14 +1811,14 @@ clearly on the eve of some great experiment.  Pray heaven that it be not
 a dangerous one; but the interests of science must be promoted, and I am
 prepared for the worst.’
 
-                                                    ‘_Five minutes later_.
+‘_Five minutes later_.
 
 ‘HE has produced a large pair of scissors, and drawn a roll of some
 substance, not unlike parchment in appearance, from the tin case.  The
 experiment is about to begin.  I must strain my eyes to the utmost, in
 the attempt to follow its minutest operation.’
 
-                                             ‘_Twenty minutes before two_.
+‘_Twenty minutes before two_.
 
 ‘I HAVE at length been enabled to ascertain that the tin tube contains a
 few yards of some celebrated plaster, recommended—as I discover on
@@ -1826,7 +1826,7 @@ regarding the label attentively through my eye-glass—as a preservative
 against sea-sickness.  Mr. Slug has cut it up into small portions, and is
 now sticking it over himself in every direction.’
 
-                                                         ‘_Three o’clock_.
+‘_Three o’clock_.
 
 ‘PRECISELY a quarter of an hour ago we weighed anchor, and the machinery
 was suddenly put in motion with a noise so appalling, that Professor
@@ -1845,7 +1845,7 @@ machinery always appears to be exactly under his pillow.  He intends
 stating this very beautiful, though simple discovery, to the
 association.’
 
-                                                         ‘_Half-past ten_.
+‘_Half-past ten_.
 
 ‘WE are still in smooth [[Water|water]]; that is to say, in as smooth [[Water|water]] as a
 steam-vessel ever can be, for, as Professor Woodensconce (who has just
@@ -1854,7 +1854,7 @@ steamer is, that it always carries a little [[Storm|storm]] with it.  You can
 scarcely conceive how exciting the jerking pulsation of the [[Ship|ship]] becomes.
 It is a matter of positive difficulty to get to [[Sleep|sleep]].’
 
-                                       ‘_Friday afternoon_, _six o’clock_.
+‘_Friday afternoon_, _six o’clock_.
 
 ‘I REGRET to inform you that Mr. Slug’s plaster has proved of no avail.
 He is in great agony, but has applied several large, additional pieces
@@ -1869,12 +1869,12 @@ ladies the construction of the steam-engine.  I [[Fear|fear]] the gravy soup for
 lunch was injudicious.  We lost a great many passengers almost
 immediately afterwards.’
 
-                                                         ‘_Half-past six_.
+‘_Half-past six_.
 
 ‘I AM again in bed.  Anything so heart-rending as Mr. Slug’s sufferings
 it has never yet been my lot to witness.’
 
-                                                         ‘_Seven o’clock_.
+‘_Seven o’clock_.
 
 ‘A MESSENGER has just come down for a clean pocket-handkerchief from
 Professor Woodensconce’s bag, that unfortunate gentleman being quite
@@ -1889,8 +1889,8 @@ eat, and it is disagreeable to see him.  Has this gentleman no sympathy
 with the sufferings of his fellow-creatures?  If he has, on what
 principle can he call for mutton-chops—and smile?’
 
-                                            ‘_Black Boy and Stomach-ache_,
-                                             _Oldcastle_, _Saturday noon_.
+‘_Black Boy and Stomach-ache_,
+_Oldcastle_, _Saturday noon_.
 
 ‘YOU will be happy to learn that I have at length arrived here in safety.
 The town is excessively crowded, and all the private lodgings and hotels
@@ -1910,7 +1910,7 @@ Nothing can exceed the fresh appearance of the saw-[[Dust|dust]] with which the
 floors are sprinkled.  The forms are of unplaned deal, and the general
 effect, as you can [[Well|well]] imagine, is extremely beautiful.’
 
-                                                        ‘_Half-past nine_.
+‘_Half-past nine_.
 
 ‘THE number and rapidity of the arrivals are quite bewildering.  Within
 the last ten minutes a stage-coach has driven up to the door, filled
@@ -1922,7 +1922,7 @@ Eers, Professor John Ketch, Sir William Joltered, Doctor Buffer, Mr.
 Professor Pumpkinskull.  The ten last-named gentlemen were wet through,
 and looked extremely intelligent.’
 
-                                          ‘_Sunday_, _two o’clock_, _p.m._
+‘_Sunday_, _two o’clock_, _p.m._
 
 ‘THE Honourable and Reverend Mr. Long Eers, accompanied by Sir William
 Joltered, walked and drove this morning.  They accomplished the former
@@ -1937,7 +1937,7 @@ communicate any of the rumours to which this very extraordinary
 proceeding has given rise until I have seen Sowster, and endeavoured to
 ascertain the [[Truth|truth]] from him.’
 
-                                                         ‘_Half-past six_.
+‘_Half-past six_.
 
 ‘I ENGAGED a [[donkey]]-chaise shortly after writing the above, and proceeded
 at a brisk trot in the direction of Sowster’s residence, passing through
@@ -1989,14 +1989,14 @@ or woman in existence, up to the very walls of the houses—ay, be they
 Black Boys and Stomach-aches, or Boot-jacks and Countenances, I care
 not.’
 
-                                                          ‘_Nine o’clock_.
+‘_Nine o’clock_.
 
 ‘I have procured a local [[Artist|artist]] to make a faithful [[Sketch|sketch]] of the [[Tyrant|tyrant]]
 Sowster, which, as he has acquired this infamous celebrity, you will no
 [[Doubt|doubt]] wish to have engraved for the purpose of presenting a copy with
 every copy of your next number.  I enclose it.
 
-                      [Picture: The [[Tyrant]] Sowster]
+[Picture: The [[Tyrant]] Sowster]
 
 The under-beadle has consented to write his life, but it is to be
 strictly anonymous.
@@ -2009,7 +2009,7 @@ the features, and a baleful ferocity of purpose in the ruffian’s eye,
 which appals and sickens.  His whole air is rampant with cruelty, nor is
 the stomach less characteristic of his demoniac propensities.’
 
-                                                                ‘_Monday_.
+‘_Monday_.
 
 ‘THE great day has at length arrived.  I have neither eyes, nor ears, nor
 pens, nor ink, nor paper, for anything but the wonderful proceedings that
@@ -2021,10 +2021,10 @@ account.
 ‘SECTION A.—ZOOLOGY AND BOTANY.
 
 
-                FRONT PARLOUR, BLACK BOY AND STOMACH-ACHE.
+FRONT PARLOUR, BLACK BOY AND STOMACH-ACHE.
 
 _President_—Sir William Joltered.  _Vice-Presidents_—Mr. Muddlebranes and
-                               Mr. Drawley.
+Mr. Drawley.
 
 ‘MR. X. X. MISTY communicated some remarks on the disappearance of
 dancing-bears from the streets of [[London]], with observations on the
@@ -2148,9 +2148,9 @@ gentleman could afford of the curiosity.
 ‘SECTION B.—DISPLAY OF MODELS AND MECHANICAL SCIENCE.
 
 
-                  LARGE ROOM, BOOT-JACK AND COUNTENANCE.
+LARGE ROOM, BOOT-JACK AND COUNTENANCE.
 
-  _President_—Mr. Mallett.  _Vice-Presidents_—Messrs. Leaver and Scroo.
+_President_—Mr. Mallett.  _Vice-Presidents_—Messrs. Leaver and Scroo.
 
 ‘MR. CRINKLES exhibited a most beautiful and delicate [[Machine|machine]], of little
 larger size than an ordinary snuff-box, manufactured entirely by himself,
@@ -2256,7 +2256,7 @@ thought proper.  The charge for these amusements would amount to very
 little more than they already cost, and the inventor submitted that the
 public would be much benefited and comforted by the proposed arrangement.
 
-          [Picture: Automaton Police Office, and Real Offenders]
+[Picture: Automaton Police Office, and Real Offenders]
 
 ‘PROFESSOR NOGO wished to be informed what amount of automaton police
 force it was proposed to raise in the first instance.
@@ -2338,9 +2338,9 @@ on at all.
 ‘SECTION C.—ANATOMY AND MEDICINE.
 
 
-                  BAR ROOM, BLACK BOY AND STOMACH-ACHE.
+BAR ROOM, BLACK BOY AND STOMACH-ACHE.
 
- _President_—Dr. Soemup.  _Vice-Presidents_—Messrs. Pessell and Mortair.
+_President_—Dr. Soemup.  _Vice-Presidents_—Messrs. Pessell and Mortair.
 
 ‘DR. GRUMMIDGE stated to the section a most interesting case of
 monomania, and described the course of treatment he had pursued with
@@ -2402,9 +2402,9 @@ gentleman had been sacrificed to the ignorance of the peasantry.
 ‘SECTION D.—STATISTICS.
 
 
-                  OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
+OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
 
-   _President_—Mr. Slug.  _Vice-Presidents_—Messrs. Noakes and Styles.
+_President_—Mr. Slug.  _Vice-Presidents_—Messrs. Noakes and Styles.
 
 ‘MR. KWAKLEY stated the result of some most ingenious statistical
 inquiries relative to the difference between the value of the
@@ -2429,7 +2429,7 @@ none the public could get them so much cheaper.
 ‘SUPPLEMENTARY SECTION, E.—UMBUGOLOGY AND DITCHWATERISICS.
 
 
-     _President_—Mr. Grub.  _Vice Presidents_—Messrs. Dull and Dummy.
+_President_—Mr. Grub.  _Vice Presidents_—Messrs. Dull and Dummy.
 
 ‘A paper was read by the secretary descriptive of a bay pony with one
 eye, which had been seen by the author standing in a butcher’s cart at
@@ -2496,7 +2496,7 @@ appeared some [[Doubt|doubt]] ultimately whether the skull was Mr. Greenacre’s
 a hospital patient’s, or a pauper’s, or a man’s, or a woman’s, or a
 monkey’s, no particular result was obtained.’
 
-                                * * * * *
+* * * * *
 
 ‘I cannot,’ says our talented correspondent in conclusion, ‘I cannot
 close my account of these gigantic researches and [[Sublime|sublime]] and noble
@@ -2816,8 +2816,8 @@ we [[Fear|fear]] we have been quite lengthy enough already, we shall leave this
 chapter just where it is.  A gentleman, not altogether unknown as a
 dramatic poet, wrote thus a year or two ago—
 
-                   ‘All the world’s a stage,
-    And all the men and women merely players:’
+‘All the world’s a stage,
+And all the men and women merely players:’
 
 and we, tracking out his footsteps at the scarcely-worth-mentioning
 little distance of a few millions of leagues behind, venture to add, by
@@ -3059,8 +3059,8 @@ scratch on the back; what do you think of that for security?’
 
 ‘Mean! why, that it’s got the _hottergruff_ of Pope.
 
-    “Steal not this book, for [[Fear|fear]] of hangman’s rope;
-    For it belongs to Alexander Pope.”
+“Steal not this book, for [[Fear|fear]] of hangman’s rope;
+For it belongs to Alexander Pope.”
 
 All that’s written on the inside of the binding of the book; so, as my
 son says, we’re _bound_ to believe it.’
@@ -3304,18 +3304,18 @@ I approach side by side with the friend who travelled with me on the old
 [[Road|road]], and presume to solicit favour and kindness in behalf of him and his
 new charge, both for their sakes and that of the old coachman,
 
-                                                                      BOZ.
+BOZ.
 
 
 
 
-<span class="atom-split" data-atom="story_04_front_parlour_black_boy_and_stomach_ache" data-title="A Child's History of England — Front Parlour, Black Boy And Stomach-Ache." data-chapter="Story 04 Front Parlour Black Boy And Stomach Ache" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_front_parlour_black_boy_and_stomach_ache" data-title="A Child's History of England — Front Parlour, Black Boy And Stomach-Ache." data-chapter="Front Parlour Black Boy And Stomach Ache" data-kind="story"></span>
 
 
-                FRONT PARLOUR, BLACK BOY AND STOMACH-ACHE.
+FRONT PARLOUR, BLACK BOY AND STOMACH-ACHE.
 
 _President_—Sir William Joltered.  _Vice-Presidents_—Mr. Muddlebranes and
-                               Mr. Drawley.
+Mr. Drawley.
 
 ‘MR. X. X. MISTY communicated some remarks on the disappearance of
 dancing-bears from the streets of [[London]], with observations on the
@@ -3441,12 +3441,12 @@ gentleman could afford of the curiosity.
 
 
 
-<span class="atom-split" data-atom="story_05_large_room_boot_jack_and_countenance" data-title="A Child's History of England — Large Room, Boot-Jack And Countenance." data-chapter="Story 05 Large Room Boot Jack And Countenance" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_large_room_boot_jack_and_countenance" data-title="A Child's History of England — Large Room, Boot-Jack And Countenance." data-chapter="Large Room Boot Jack And Countenance" data-kind="story"></span>
 
 
-                  LARGE ROOM, BOOT-JACK AND COUNTENANCE.
+LARGE ROOM, BOOT-JACK AND COUNTENANCE.
 
-  _President_—Mr. Mallett.  _Vice-Presidents_—Messrs. Leaver and Scroo.
+_President_—Mr. Mallett.  _Vice-Presidents_—Messrs. Leaver and Scroo.
 
 ‘MR. CRINKLES exhibited a most beautiful and delicate [[Machine|machine]], of little
 larger size than an ordinary snuff-box, manufactured entirely by himself,
@@ -3552,7 +3552,7 @@ thought proper.  The charge for these amusements would amount to very
 little more than they already cost, and the inventor submitted that the
 public would be much benefited and comforted by the proposed arrangement.
 
-          [Picture: Automaton Police Office, and Real Offenders]
+[Picture: Automaton Police Office, and Real Offenders]
 
 ‘PROFESSOR NOGO wished to be informed what amount of automaton police
 force it was proposed to raise in the first instance.
@@ -3636,12 +3636,12 @@ on at all.
 
 
 
-<span class="atom-split" data-atom="story_06_bar_room_black_boy_and_stomach_ache" data-title="A Child's History of England — Bar Room, Black Boy And Stomach-Ache." data-chapter="Story 06 Bar Room Black Boy And Stomach Ache" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_bar_room_black_boy_and_stomach_ache" data-title="A Child's History of England — Bar Room, Black Boy And Stomach-Ache." data-chapter="Bar Room Black Boy And Stomach Ache" data-kind="story"></span>
 
 
-                  BAR ROOM, BLACK BOY AND STOMACH-ACHE.
+BAR ROOM, BLACK BOY AND STOMACH-ACHE.
 
- _President_—Dr. Soemup.  _Vice-Presidents_—Messrs. Pessell and Mortair.
+_President_—Dr. Soemup.  _Vice-Presidents_—Messrs. Pessell and Mortair.
 
 ‘DR. GRUMMIDGE stated to the section a most interesting case of
 monomania, and described the course of treatment he had pursued with
@@ -3703,9 +3703,9 @@ gentleman had been sacrificed to the ignorance of the peasantry.
 ‘SECTION D.—STATISTICS.
 
 
-                  OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
+OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
 
-   _President_—Mr. Slug.  _Vice-Presidents_—Messrs. Noakes and Styles.
+_President_—Mr. Slug.  _Vice-Presidents_—Messrs. Noakes and Styles.
 
 ‘MR. KWAKLEY stated the result of some most ingenious statistical
 inquiries relative to the difference between the value of the
@@ -3730,7 +3730,7 @@ none the public could get them so much cheaper.
 ‘SUPPLEMENTARY SECTION, E.—UMBUGOLOGY AND DITCHWATERISICS.
 
 
-     _President_—Mr. Grub.  _Vice Presidents_—Messrs. Dull and Dummy.
+_President_—Mr. Grub.  _Vice Presidents_—Messrs. Dull and Dummy.
 
 ‘A paper was read by the secretary descriptive of a bay pony with one
 eye, which had been seen by the author standing in a butcher’s cart at
@@ -3797,7 +3797,7 @@ appeared some [[Doubt|doubt]] ultimately whether the skull was Mr. Greenacre’s
 a hospital patient’s, or a pauper’s, or a man’s, or a woman’s, or a
 monkey’s, no particular result was obtained.’
 
-                                * * * * *
+* * * * *
 
 ‘I cannot,’ says our talented correspondent in conclusion, ‘I cannot
 close my account of these gigantic researches and [[Sublime|sublime]] and noble
@@ -3816,31 +3816,31 @@ onward; this is the _spread_ of science, and a glorious spread it is.”’
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_01" data-title="A Child's History of England — The Mudfog And Other Sketches (part 1)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_01" data-title="A Child's History of England — The Mudfog And Other Sketches (part 1)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
-                      THE MUDFOG AND OTHER SKETCHES
+THE MUDFOG AND OTHER SKETCHES
 
 
 CONTENTS
 
-                                                                  PAGE
+PAGE
 Public Life of Mr. Tulrumble                                       495
 Full Report of the First Meeting of the Mudfog Association         513
 for the Advancement of Everything
-                 Section A.  Zoology and Botany
-                 Section B.  Anatomy and Medicine
-                 Section C.  Statistics
-                 Section D.  Mechanical Science
+Section A.  Zoology and Botany
+Section B.  Anatomy and Medicine
+Section C.  Statistics
+Section D.  Mechanical Science
 Full Report of the Second Meeting of the Mudfog Association        531
 for the Advancement of Everything
-                 Section A.  Zoology and Botany
-                 Section B.  Display of Models and
-                 Mechanical Science
-                 Section C.  Anatomy and Medicine
-                 Section D.  Statistics
-                 Supplementary Section, E.  Umbugology and
-                 Ditchwaterisics
+Section A.  Zoology and Botany
+Section B.  Display of Models and
+Mechanical Science
+Section C.  Anatomy and Medicine
+Section D.  Statistics
+Supplementary Section, E.  Umbugology and
+Ditchwaterisics
 The Pantomime of Life                                              551
 Some Particulars Concerning a [[Lion]]                                 558
 Mr. Robert Bolton                                                  563
@@ -3939,7 +3939,7 @@ quarter of a mile distant from the town of Mudfog.
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_02" data-title="A Child's History of England — The Mudfog And Other Sketches (part 2)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_02" data-title="A Child's History of England — The Mudfog And Other Sketches (part 2)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 About this [[Time|time]], it began to be murmured in Mudfog that Nicholas
@@ -4072,7 +4072,7 @@ the matter in his letter.
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_03" data-title="A Child's History of England — The Mudfog And Other Sketches (part 3)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_03" data-title="A Child's History of England — The Mudfog And Other Sketches (part 3)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 The corporation stared at one another very hard at all this, and then
@@ -4192,7 +4192,7 @@ looks, is it?’
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_04" data-title="A Child's History of England — The Mudfog And Other Sketches (part 4)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_04" data-title="A Child's History of England — The Mudfog And Other Sketches (part 4)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 Twigger was a good strong, stout fellow; so, after a great deal of
@@ -4309,7 +4309,7 @@ new [[Wonder|wonder]].
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_05" data-title="A Child's History of England — The Mudfog And Other Sketches (part 5)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_05" data-title="A Child's History of England — The Mudfog And Other Sketches (part 5)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 ‘They won’t laugh now, Mr. Jennings,’ said Nicholas Tulrumble.
@@ -4409,7 +4409,7 @@ afterwards, I’ll reward them [[Well|well]].’
 Two or three men stepped forward, with the view of bearing Ned off, when
 the secretary interposed.
 
-           [Picture: Ned Twigger in the kitchen of Mudfog Hall]
+[Picture: Ned Twigger in the kitchen of Mudfog Hall]
 
 ‘Take care! take care!’ said Mr. Jennings.  ‘I beg your pardon, sir; but
 they’d better not go too near him, because, if he falls over, he’ll
@@ -4447,7 +4447,7 @@ seemed to consider a very good notion.
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_06" data-title="A Child's History of England — The Mudfog And Other Sketches (part 6)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_06" data-title="A Child's History of England — The Mudfog And Other Sketches (part 6)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 It was not acted upon, however, for it had hardly been broached, when Ned
@@ -4551,7 +4551,7 @@ Nicholas Tulrumble, and refused the music licence to the Jolly Boatmen.
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_07" data-title="A Child's History of England — The Mudfog And Other Sketches (part 7)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_07" data-title="A Child's History of England — The Mudfog And Other Sketches (part 7)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 But although Nicholas triumphed, his triumph was short.  He carried on
@@ -4648,7 +4648,7 @@ us.  Any attempt at amalgamating them into one beautiful whole, would
 only destroy that glowing tone, that dash of wildness, and rich vein of
 picturesque interest, which pervade them throughout.
 
-                               ‘_Mudfog_, _Monday night_, _seven o’clock_.
+‘_Mudfog_, _Monday night_, _seven o’clock_.
 
 ‘WE are in a state of great excitement here.  Nothing is spoken of, but
 the approaching meeting of the association.  The inn-doors are thronged
@@ -4667,10 +4667,10 @@ point, you may depend upon receiving it.’
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_08" data-title="A Child's History of England — The Mudfog And Other Sketches (part 8)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_08" data-title="A Child's History of England — The Mudfog And Other Sketches (part 8)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
-                                                       ‘_Half-past seven_.
+‘_Half-past seven_.
 
 I HAVE just returned from a personal interview with the landlord of the
 Pig and Tinder-box.  He speaks confidently of the probability of
@@ -4689,7 +4689,7 @@ corner of the High-street about half an hour ago, which has occasioned
 much confusion.  The general impression is, that it was an accident.
 Pray heaven it may prove so!’
 
-                                                       ‘_Tuesday_, _noon_.
+‘_Tuesday_, _noon_.
 
 ‘AT an early hour this morning [[The Bells|the bells]] of all the churches struck seven
 o’[[Clock|clock]]; the effect of which, in the present lively state of the town,
@@ -4709,7 +4709,7 @@ my [[Window|window]], and groups of people, offering fish and vegetables for sal
 parade the streets.  With these exceptions everything is quiet, and I
 trust will continue so.’
 
-                                                          ‘_Five o’clock_.
+‘_Five o’clock_.
 
 ‘IT is now ascertained, beyond all [[Doubt|doubt]], that Professors Snore, Doze,
 and Wheezy will _not_ repair to the Pig and Tinder-box, but have actually
@@ -4752,7 +4752,7 @@ extraordinary arrivals take place to-[[Night|night]], that consequences may aris
 from this popular ferment, which every man of sense and feeling would
 deplore.’
 
-                                               ‘_Twenty minutes past six_.
+‘_Twenty minutes past six_.
 
 ‘I HAVE just heard that the boy who fell through the pastrycook’s [[Window|window]]
 last [[Night|night]] has died of the fright.  He was suddenly called upon to pay
@@ -4760,7 +4760,7 @@ three and sixpence for the damage done, and his constitution, it seems,
 was not strong enough to bear up against the shock.  The inquest, it is
 said, will be held to-morrow.’
 
-                                             ‘_Three-quarters part seven_.
+‘_Three-quarters part seven_.
 
 ‘PROFESSORS Muff and Nogo have just driven up to the hotel door; they at
 once ordered dinner with great condescension.  We are all very much
@@ -4776,16 +4776,16 @@ forward them by express.’
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_09" data-title="A Child's History of England — The Mudfog And Other Sketches (part 9)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_09" data-title="A Child's History of England — The Mudfog And Other Sketches (part 9)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
-                                                       ‘_Half-past eight_.
+‘_Half-past eight_.
 
 ‘THE animal has been procured.  He is a pug-dog, of rather intelligent
 appearance, in good condition, and with very short legs.  He has been
 tied to a curtain-peg in a dark room, and is howling dreadfully.’
 
-                                                   ‘_Ten minutes to nine_.
+‘_Ten minutes to nine_.
 
 ‘THE dog has just been rung for.  With an instinct which would appear
 almost the result of reason, the sagacious animal seized the waiter by
@@ -4806,14 +4806,14 @@ endowed with sufficient sense to foresee the incalculable benefits which
 the whole human race may derive from so very slight a concession on his
 part.’
 
-                                                          ‘_Nine o’clock_.
+‘_Nine o’clock_.
 
 ‘THE dog’s tail and ears have been sent down-stairs to be washed; from
 which circumstance we infer that the animal is no more.  His forelegs
 have been delivered to the boots to be brushed, which strengthens the
 supposition.’
 
-                                                        ‘_Half after ten_.
+‘_Half after ten_.
 
 ‘MY feelings are so overpowered by what has taken place in the course of
 the last hour and a half, that I have scarcely strength to detail the
@@ -4848,7 +4848,7 @@ case, but greatly enhanced in this, by the amiable qualities of the
 deceased animal, who appears to have been much and deservedly respected
 by the whole of his acquaintance.’
 
-                                                        ‘_Twelve o’clock_.
+‘_Twelve o’clock_.
 
 ‘I TAKE the last opportunity before sealing my parcel to inform you that
 the boy who fell through the pastrycook’s [[Window|window]] is not dead, as was
@@ -4869,7 +4869,7 @@ the agitating events of this day have been too much for me.
 ‘No news yet of either of the Professors Snore, Doze, or Wheezy.  It is
 very strange!’
 
-                                                   ‘_Wednesday afternoon_.
+‘_Wednesday afternoon_.
 
 ‘ALL is now over; and, upon one point at least, I am at length enabled to
 set the minds of your readers at rest.  The three professors arrived at
@@ -4890,10 +4890,10 @@ utterance to them just now.’
 
 
 
-<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_10" data-title="A Child's History of England — The Mudfog And Other Sketches (part 10)" data-chapter="Story 01 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mudfog_and_other_sketches--part_10" data-title="A Child's History of England — The Mudfog And Other Sketches (part 10)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
-                                                          ‘_Four o’clock_.
+‘_Four o’clock_.
 
 ‘THE town is filling fast; eighteenpence has been offered for a bed and
 refused.  Several gentlemen were under the necessity last [[Night|night]] of
@@ -4931,7 +4931,7 @@ earnestly to be hoped that now, when the moment has arrived for their
 interference, the magistrates will not shrink from the exercise of that
 power which is vested in them by the constitution of our common country.’
 
-                                                         ‘_Half-past ten_.
+‘_Half-past ten_.
 
 ‘THE disturbance, I am happy to inform you, has been completely quelled,
 and the ringleader taken into custody.  She had a pail of cold [[Water|water]]
@@ -4943,12 +4943,12 @@ illustrious members amongst us, I trust and [[Hope|hope]] everything may go off
 peaceably.  I shall send you a full report of to-morrow’s proceedings by
 the [[Night|night]] coach.’
 
-                                                        ‘_Eleven o’clock_.
+‘_Eleven o’clock_.
 
 ‘I OPEN my letter to say that nothing whatever has occurred since I
 folded it up.’
 
-                                                              ‘_Thursday_.
+‘_Thursday_.
 
 ‘THE sun [[Rose|rose]] this morning at the usual hour.  I did not observe anything
 particular in the aspect of the glorious planet, except that he appeared
@@ -4975,13 +4975,13 @@ eligible position at that [[Time|time]], in
 
 
 
-<span class="atom-split" data-atom="story_02_great_room_pig_and_tinder_box--part_01" data-title="A Child's History of England — Great Room, Pig And Tinder-Box. (part 1)" data-chapter="Story 02 Great Room Pig And Tinder Box" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_great_room_pig_and_tinder_box--part_01" data-title="A Child's History of England — Great Room, Pig And Tinder-Box. (part 1)" data-chapter="Great Room Pig And Tinder Box" data-kind="excerpt"></span>
 
 
-                     GREAT ROOM, PIG AND TINDER-BOX.
+GREAT ROOM, PIG AND TINDER-BOX.
 
-   _President_—Professor Snore.  _Vice-Presidents_—Professors Doze and
-                                 Wheezy.
+_President_—Professor Snore.  _Vice-Presidents_—Professors Doze and
+Wheezy.
 
 ‘The scene at this moment was particularly striking.  The sun streamed
 through the windows of the apartments, and tinted the whole scene with
@@ -5082,7 +5082,7 @@ descent.
 
 
 
-<span class="atom-split" data-atom="story_02_great_room_pig_and_tinder_box--part_02" data-title="A Child's History of England — Great Room, Pig And Tinder-Box. (part 2)" data-chapter="Story 02 Great Room Pig And Tinder Box" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_great_room_pig_and_tinder_box--part_02" data-title="A Child's History of England — Great Room, Pig And Tinder-Box. (part 2)" data-chapter="Great Room Pig And Tinder Box" data-kind="excerpt"></span>
 
 
 ‘THE PRESIDENT congratulated the public on the _grand gala_ in store for
@@ -5157,9 +5157,9 @@ must decline answering it.
 ‘SECTION B.—ANATOMY AND MEDICINE.
 
 
-                     COACH-[[house|HOUSE]], PIG AND TINDER-BOX.
+COACH-[[house|HOUSE]], PIG AND TINDER-BOX.
 
-  _President_—Dr. Toorell.  _Vice-Presidents_—Professors Muff and Nogo.
+_President_—Dr. Toorell.  _Vice-Presidents_—Professors Muff and Nogo.
 
 ‘DR. KUTANKUMAGEN (of Moscow) read to the section a report of a case
 which had occurred within his own practice, strikingly illustrative of
@@ -5203,7 +5203,7 @@ certainly not.
 
 
 
-<span class="atom-split" data-atom="story_02_great_room_pig_and_tinder_box--part_03" data-title="A Child's History of England — Great Room, Pig And Tinder-Box. (part 3)" data-chapter="Story 02 Great Room Pig And Tinder Box" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_great_room_pig_and_tinder_box--part_03" data-title="A Child's History of England — Great Room, Pig And Tinder-Box. (part 3)" data-chapter="Great Room Pig And Tinder Box" data-kind="excerpt"></span>
 
 
 ‘MR. KNIGHT BELL (M.R.C.S.) exhibited a wax preparation of the interior
@@ -5280,13 +5280,13 @@ ten hours.
 
 
 
-<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_01" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 1)" data-chapter="Story 03 Hay Loft Original Pig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_01" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 1)" data-chapter="Hay Loft Original Pig" data-kind="excerpt"></span>
 
 
-                         HAY-LOFT, ORIGINAL PIG.
+HAY-LOFT, ORIGINAL PIG.
 
-  _President_—Mr. Woodensconce.  _Vice-Presidents_—Mr. Ledbrain and Mr.
-                                Timbered.
+_President_—Mr. Woodensconce.  _Vice-Presidents_—Mr. Ledbrain and Mr.
+Timbered.
 
 ‘MR. SLUG stated to the section the result of some calculations he had
 made with great difficulty and labour, regarding the state of infant
@@ -5298,7 +5298,7 @@ the names and numbers of children’s books principally in circulation:—
 Ditto and Bean-stalk                8,621
 Ditto and Eleven Brothers           2,845
 Ditto and Jill                      1,998
-                        Total      21,407
+Total      21,407
 
 ‘He found that the proportion of Robinson Crusoes to Philip Quarlls was
 as four and a half to one; and that the preponderance of [[Valentine]] and
@@ -5331,7 +5331,7 @@ counterbalanced by another in a subsequent part of the poem, in which
 very gross allusion was made to the mode in which the heroine was
 personally chastised by her mother
 
-                     “‘For laughing at Jack’s disaster;”
+“‘For laughing at Jack’s disaster;”
 
 besides, the whole work had this one great fault, _it was not true_.
 
@@ -5377,9 +5377,9 @@ in sitting upon boxes.
 ‘SECTION D.—MECHANICAL SCIENCE.
 
 
-                        COACH-[[house|HOUSE]], ORIGINAL PIG.
+COACH-[[house|HOUSE]], ORIGINAL PIG.
 
-  _President_—Mr. Carter.  _Vice-Presidents_—Mr. Truck and Mr. Waghorn.
+_President_—Mr. Carter.  _Vice-Presidents_—Mr. Truck and Mr. Waghorn.
 
 ‘PROFESSOR QUEERSPECK exhibited an elegant model of a portable railway,
 neatly mounted in a green case, for the waistcoat pocket.  By attaching
@@ -5411,7 +5411,7 @@ allowed to interfere with so great an undertaking.
 
 
 
-<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_02" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 2)" data-chapter="Story 03 Hay Loft Original Pig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_02" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 2)" data-chapter="Hay Loft Original Pig" data-kind="excerpt"></span>
 
 
 ‘MR. JOBBA produced a forcing-[[Machine|machine]] on a [[Novel|novel]] plan, for bringing
@@ -5456,7 +5456,7 @@ quite as [[Well|well]] when there was a [[Fire|fire]], as when there was not a [
 the former case he thought it would be of equal service whether the top
 were up or down.’
 
-                                * * * * *
+* * * * *
 
 With the last section our correspondent concludes his most able and
 faithful Report, which will never cease to reflect credit upon him for
@@ -5483,7 +5483,7 @@ great mutual complimentations, and have at length dispersed to their
 several homes,—whither all good wishes and joys attend them, until next
 year!
 
-                                                               Signed BOZ.
+Signed BOZ.
 
 
 
@@ -5515,7 +5515,7 @@ subject-matter, have no equal in the epistolary literature of any age or
 country.  We give this gentleman’s correspondence entire, and in the
 order in which it reached our office.
 
-                ‘_Saloon of Steamer_, _Thursday night_, _half-past eight_.
+‘_Saloon of Steamer_, _Thursday night_, _half-past eight_.
 
 ‘WHEN I left New Burlington Street this evening in the hackney cabriolet,
 number four thousand two hundred and eighty-five, I experienced
@@ -5532,7 +5532,7 @@ indescribable.  But of such materials is our imperfect [[Nature|nature]] compose
 
 
 
-<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_03" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 3)" data-chapter="Story 03 Hay Loft Original Pig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_03" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 3)" data-chapter="Hay Loft Original Pig" data-kind="excerpt"></span>
 
 
 ‘I am happy to say that I am the first passenger on board, and shall thus
@@ -5551,7 +5551,7 @@ is a long tin tube of about three inches in diameter, carefully closed at
 both ends.  What can this contain?  Some powerful instrument of a new
 construction, doubtless.’
 
-                                                 ‘_Ten minutes past nine_.
+‘_Ten minutes past nine_.
 
 ‘NOBODY has yet arrived, nor has anything fresh come in my way except
 several joints of beef and mutton, from which I conclude that a good
@@ -5569,16 +5569,16 @@ my knowledge, in order that my first impressions may lose nothing of
 their original vividness.  I shall despatch them in small packets as
 opportunities arise.’
 
-                                                        ‘_Half past nine_.
+‘_Half past nine_.
 
 ‘SOME dark object has just appeared upon the wharf.  I think it is a
 travelling carriage.’
 
-                                                      ‘_A quarter to ten_.
+‘_A quarter to ten_.
 
 ‘NO, it isn’t.’
 
-                                                         ‘_Half-past ten_.
+‘_Half-past ten_.
 
 ‘THE passengers are pouring in every instant.  Four omnibuses full have
 just arrived upon the wharf, and all is bustle and activity.  The noise
@@ -5625,7 +5625,7 @@ Professor Grime having lost several teeth, is unable, I observe, to eat
 his crusts without previously soaking them in his bottled porter.  How
 interesting are these peculiarities!’
 
-                                                      ‘_Half-past eleven_.
+‘_Half-past eleven_.
 
 ‘PROFESSORS Woodensconce and Grime, with a degree of good [[Humour|humour]] that
 delights us all, have just arranged to toss for a bottle of mulled port.
@@ -5637,7 +5637,7 @@ an individual, and do not compromise either you or your readers by this
 expression of feeling) are with Professor Woodensconce.  I have backed
 that gentleman to the amount of eighteenpence.’
 
-                                              ‘_Twenty minutes to twelve_.
+‘_Twenty minutes to twelve_.
 
 ‘PROFESSOR Grime has inadvertently tossed his half-[[Crown|crown]] out of one of
 the cabin-windows, and it has been arranged that the steward shall toss
@@ -5651,10 +5651,10 @@ suspense of this one moment are beyond anything that can be imagined.’
 
 
 
-<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_04" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 4)" data-chapter="Story 03 Hay Loft Original Pig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_04" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 4)" data-chapter="Hay Loft Original Pig" data-kind="excerpt"></span>
 
 
-                                                        ‘_Twelve o’clock_.
+‘_Twelve o’clock_.
 
 ‘THE mulled port is smoking on the table before me, and Professor Grime
 has won.  Tossing is a game of chance; but on every ground, whether of
@@ -5663,7 +5663,7 @@ attainments, I cannot help expressing my opinion that Professor
 Woodensconce _ought_ to have come off victorious.  There is an exultation
 about Professor Grime incompatible, I [[Fear|fear]], with true [[Greatness|greatness]].’
 
-                                                 ‘_A quarter past twelve_.
+‘_A quarter past twelve_.
 
 ‘PROFESSOR Grime continues to exult, and to boast of his victory in no
 very measured terms, observing that he always does win, and that he knew
@@ -5675,7 +5675,7 @@ in plain language of his true position in society, and the precise level
 of his acquirements and abilities?  Professor Grime will do [[Well|well]] to look
 to this.’
 
-                                                           ‘_One o’clock_.
+‘_One o’clock_.
 
 ‘I AM writing in bed.  The small cabin is illuminated by the feeble light
 of a flickering lamp suspended from the ceiling; Professor Grime is lying
@@ -5694,7 +5694,7 @@ which I have before spoken, and is regarding it with great interest.
 What rare mechanical combination can be contained in that mysterious
 case?  It is evidently a profound secret to all.’
 
-                                                    ‘_A quarter past one_.
+‘_A quarter past one_.
 
 ‘THE behaviour of Mr. Slug grows more and more mysterious.  He has
 unscrewed the top of the tube, and now renews his observations upon his
@@ -5703,14 +5703,14 @@ clearly on the eve of some great experiment.  Pray heaven that it be not
 a dangerous one; but the interests of science must be promoted, and I am
 prepared for the worst.’
 
-                                                    ‘_Five minutes later_.
+‘_Five minutes later_.
 
 ‘HE has produced a large pair of scissors, and drawn a roll of some
 substance, not unlike parchment in appearance, from the tin case.  The
 experiment is about to begin.  I must strain my eyes to the utmost, in
 the attempt to follow its minutest operation.’
 
-                                             ‘_Twenty minutes before two_.
+‘_Twenty minutes before two_.
 
 ‘I HAVE at length been enabled to ascertain that the tin tube contains a
 few yards of some celebrated plaster, recommended—as I discover on
@@ -5718,7 +5718,7 @@ regarding the label attentively through my eye-glass—as a preservative
 against sea-sickness.  Mr. Slug has cut it up into small portions, and is
 now sticking it over himself in every direction.’
 
-                                                         ‘_Three o’clock_.
+‘_Three o’clock_.
 
 ‘PRECISELY a quarter of an hour ago we weighed anchor, and the machinery
 was suddenly put in motion with a noise so appalling, that Professor
@@ -5737,7 +5737,7 @@ machinery always appears to be exactly under his pillow.  He intends
 stating this very beautiful, though simple discovery, to the
 association.’
 
-                                                         ‘_Half-past ten_.
+‘_Half-past ten_.
 
 ‘WE are still in smooth [[Water|water]]; that is to say, in as smooth [[Water|water]] as a
 steam-vessel ever can be, for, as Professor Woodensconce (who has just
@@ -5746,7 +5746,7 @@ steamer is, that it always carries a little [[Storm|storm]] with it.  You can
 scarcely conceive how exciting the jerking pulsation of the [[Ship|ship]] becomes.
 It is a matter of positive difficulty to get to [[Sleep|sleep]].’
 
-                                       ‘_Friday afternoon_, _six o’clock_.
+‘_Friday afternoon_, _six o’clock_.
 
 ‘I REGRET to inform you that Mr. Slug’s plaster has proved of no avail.
 He is in great agony, but has applied several large, additional pieces
@@ -5761,18 +5761,18 @@ ladies the construction of the steam-engine.  I [[Fear|fear]] the gravy soup for
 lunch was injudicious.  We lost a great many passengers almost
 immediately afterwards.’
 
-                                                         ‘_Half-past six_.
+‘_Half-past six_.
 
 
 
 
-<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_05" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 5)" data-chapter="Story 03 Hay Loft Original Pig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_hay_loft_original_pig--part_05" data-title="A Child's History of England — Hay-Loft, Original Pig. (part 5)" data-chapter="Hay Loft Original Pig" data-kind="excerpt"></span>
 
 
 ‘I AM again in bed.  Anything so heart-rending as Mr. Slug’s sufferings
 it has never yet been my lot to witness.’
 
-                                                         ‘_Seven o’clock_.
+‘_Seven o’clock_.
 
 ‘A MESSENGER has just come down for a clean pocket-handkerchief from
 Professor Woodensconce’s bag, that unfortunate gentleman being quite
@@ -5787,8 +5787,8 @@ eat, and it is disagreeable to see him.  Has this gentleman no sympathy
 with the sufferings of his fellow-creatures?  If he has, on what
 principle can he call for mutton-chops—and smile?’
 
-                                            ‘_Black Boy and Stomach-ache_,
-                                             _Oldcastle_, _Saturday noon_.
+‘_Black Boy and Stomach-ache_,
+_Oldcastle_, _Saturday noon_.
 
 ‘YOU will be happy to learn that I have at length arrived here in safety.
 The town is excessively crowded, and all the private lodgings and hotels
@@ -5808,7 +5808,7 @@ Nothing can exceed the fresh appearance of the saw-[[Dust|dust]] with which the
 floors are sprinkled.  The forms are of unplaned deal, and the general
 effect, as you can [[Well|well]] imagine, is extremely beautiful.’
 
-                                                        ‘_Half-past nine_.
+‘_Half-past nine_.
 
 ‘THE number and rapidity of the arrivals are quite bewildering.  Within
 the last ten minutes a stage-coach has driven up to the door, filled
@@ -5820,7 +5820,7 @@ Eers, Professor John Ketch, Sir William Joltered, Doctor Buffer, Mr.
 Professor Pumpkinskull.  The ten last-named gentlemen were wet through,
 and looked extremely intelligent.’
 
-                                          ‘_Sunday_, _two o’clock_, _p.m._
+‘_Sunday_, _two o’clock_, _p.m._
 
 ‘THE Honourable and Reverend Mr. Long Eers, accompanied by Sir William
 Joltered, walked and drove this morning.  They accomplished the former
@@ -5835,7 +5835,7 @@ communicate any of the rumours to which this very extraordinary
 proceeding has given rise until I have seen Sowster, and endeavoured to
 ascertain the [[Truth|truth]] from him.’
 
-                                                         ‘_Half-past six_.
+‘_Half-past six_.
 
 ‘I ENGAGED a [[donkey]]-chaise shortly after writing the above, and proceeded
 at a brisk trot in the direction of Sowster’s residence, passing through
@@ -5887,14 +5887,14 @@ or woman in existence, up to the very walls of the houses—ay, be they
 Black Boys and Stomach-aches, or Boot-jacks and Countenances, I care
 not.’
 
-                                                          ‘_Nine o’clock_.
+‘_Nine o’clock_.
 
 ‘I have procured a local [[Artist|artist]] to make a faithful [[Sketch|sketch]] of the [[Tyrant|tyrant]]
 Sowster, which, as he has acquired this infamous celebrity, you will no
 [[Doubt|doubt]] wish to have engraved for the purpose of presenting a copy with
 every copy of your next number.  I enclose it.
 
-                      [Picture: The [[Tyrant]] Sowster]
+[Picture: The [[Tyrant]] Sowster]
 
 The under-beadle has consented to write his life, but it is to be
 strictly anonymous.
@@ -5907,7 +5907,7 @@ the features, and a baleful ferocity of purpose in the ruffian’s eye,
 which appals and sickens.  His whole air is rampant with cruelty, nor is
 the stomach less characteristic of his demoniac propensities.’
 
-                                                                ‘_Monday_.
+‘_Monday_.
 
 ‘THE great day has at length arrived.  I have neither eyes, nor ears, nor
 pens, nor ink, nor paper, for anything but the wonderful proceedings that
@@ -5921,7 +5921,7 @@ account.
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_01" data-title="A Child's History of England — The Pantomime Of Life (part 1)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_01" data-title="A Child's History of England — The Pantomime Of Life (part 1)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 THE PANTOMIME OF LIFE
@@ -6027,7 +6027,7 @@ toothless chuckle. The pantaloon to the life!
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_02" data-title="A Child's History of England — The Pantomime Of Life (part 2)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_02" data-title="A Child's History of England — The Pantomime Of Life (part 2)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 But the close resemblance which the clowns of the stage bear to those of
@@ -6140,7 +6140,7 @@ never occurred to us before!
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_03" data-title="A Child's History of England — The Pantomime Of Life (part 3)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_03" data-title="A Child's History of England — The Pantomime Of Life (part 3)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 We will frankly own that we have been much troubled with the harlequin.
@@ -6240,11 +6240,11 @@ dramatic poet, wrote thus a year or two ago—
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_04" data-title="A Child's History of England — The Pantomime Of Life (part 4)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_04" data-title="A Child's History of England — The Pantomime Of Life (part 4)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
-                   ‘All the world’s a stage,
-    And all the men and women merely players:’
+‘All the world’s a stage,
+And all the men and women merely players:’
 
 and we, tracking out his footsteps at the scarcely-worth-mentioning
 little distance of a few millions of leagues behind, venture to add, by
@@ -6354,7 +6354,7 @@ them.
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_05" data-title="A Child's History of England — The Pantomime Of Life (part 5)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_05" data-title="A Child's History of England — The Pantomime Of Life (part 5)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 While the [[Lion|lion]] was exhibiting in this way, his keeper was not idle, for
@@ -6453,7 +6453,7 @@ THE ‘GENTLEMAN CONNECTED WITH THE PRESS’
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_06" data-title="A Child's History of England — The Pantomime Of Life (part 6)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_06" data-title="A Child's History of England — The Pantomime Of Life (part 6)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 IN the parlour of the Green Dragon, a public-[[house]] in the immediate
@@ -6497,8 +6497,8 @@ scratch on the back; what do you think of that for security?’
 
 ‘Mean! why, that it’s got the _hottergruff_ of Pope.
 
-    “Steal not this book, for [[Fear|fear]] of hangman’s rope;
-    For it belongs to Alexander Pope.”
+“Steal not this book, for [[Fear|fear]] of hangman’s rope;
+For it belongs to Alexander Pope.”
 
 All that’s written on the inside of the binding of the book; so, as my
 son says, we’re _bound_ to believe it.’
@@ -6565,7 +6565,7 @@ anxious for his first observation.
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_07" data-title="A Child's History of England — The Pantomime Of Life (part 7)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_07" data-title="A Child's History of England — The Pantomime Of Life (part 7)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 ‘Horrid murder in Westminster this morning,’ observed Mr. Bolton.
@@ -6708,7 +6708,7 @@ but an elaborate practical joke.
 
 
 
-<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_08" data-title="A Child's History of England — The Pantomime Of Life (part 8)" data-chapter="Story 07 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_pantomime_of_life--part_08" data-title="A Child's History of England — The Pantomime Of Life (part 8)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 As we whirled away, I was led insensibly into an anticipation of those
@@ -6754,4 +6754,4 @@ I approach side by side with the friend who travelled with me on the old
 [[Road|road]], and presume to solicit favour and kindness in behalf of him and his
 new charge, both for their sakes and that of the old coachman,
 
-                                                                      BOZ.
+BOZ.

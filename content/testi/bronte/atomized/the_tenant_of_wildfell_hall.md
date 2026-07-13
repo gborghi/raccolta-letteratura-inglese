@@ -56,111 +56,111 @@ in the first printed edition of 1848. These headings were removed in later
 
 
 
- I. A Discovery
+I. A Discovery
 
- II. An Interview
+II. An Interview
 
- III. A Controversy
+III. A Controversy
 
- IV. The Party
+IV. The Party
 
- V. The Studio
+V. The Studio
 
- VI. Progression
+VI. Progression
 
- VII. The Excursion
+VII. The Excursion
 
- VIII. The Present
+VIII. The Present
 
- IX. A Snake in the Grass
+IX. A Snake in the Grass
 
- X. A Contract and a Quarrel
+X. A Contract and a Quarrel
 
- XI. The Vicar Again
+XI. The Vicar Again
 
- XII. A Tête-à-Tête and a Discovery
+XII. A Tête-à-Tête and a Discovery
 
- XIII. A Return to Duty
+XIII. A Return to Duty
 
- XIV. An Assault
+XIV. An Assault
 
- XV. An Encounter and its Consequences
+XV. An Encounter and its Consequences
 
- XVI. The Warnings of Experience
+XVI. The Warnings of Experience
 
- XVII. Further Warnings
+XVII. Further Warnings
 
- XVIII. The Miniature
+XVIII. The Miniature
 
- XIX. An Incident
+XIX. An Incident
 
- XX. Persistence
+XX. Persistence
 
- XXI. Opinions
+XXI. Opinions
 
- XXII. Traits of [[Friendship]]
+XXII. Traits of [[Friendship]]
 
- XXIII. First Weeks of Matrimony
+XXIII. First Weeks of Matrimony
 
- XXIV. First Quarrel
+XXIV. First Quarrel
 
- XXV. First Absence
+XXV. First Absence
 
- XXVI. The Guests
+XXVI. The Guests
 
- XXVII. A Misdemeanour
+XXVII. A Misdemeanour
 
- XXVIII. Parental Feelings
+XXVIII. Parental Feelings
 
- XXIX. The Neighbour
+XXIX. The Neighbour
 
- XXX. Domestic Scenes
+XXX. Domestic Scenes
 
- XXXI. Social Virtues
+XXXI. Social Virtues
 
- XXXII. Comparisons: Information Rejected
+XXXII. Comparisons: Information Rejected
 
- XXXIII. Two Evenings
+XXXIII. Two Evenings
 
- XXXIV. Concealment
+XXXIV. Concealment
 
- XXXV. Provocations
+XXXV. Provocations
 
- XXXVI. Dual [[Solitude]]
+XXXVI. Dual [[Solitude]]
 
- XXXVII. The Neighbour Again
+XXXVII. The Neighbour Again
 
- XXXVIII. The Injured Man
+XXXVIII. The Injured Man
 
- XXXIX. A Scheme of Escape
+XXXIX. A Scheme of Escape
 
- XL. A Misadventure
+XL. A Misadventure
 
- XLI. “[[Hope]] Springs Eternal in the Human Breast”
+XLI. “[[Hope]] Springs Eternal in the Human Breast”
 
- XLII. A [[Reformation]]
+XLII. A [[Reformation]]
 
- XLIII. The Boundary Past
+XLIII. The Boundary Past
 
- XLIV. The Retreat
+XLIV. The Retreat
 
- XLV. [[Reconciliation]]
+XLV. [[Reconciliation]]
 
- XLVI. Friendly Counsels
+XLVI. Friendly Counsels
 
- XLVII. Startling Intelligence
+XLVII. Startling Intelligence
 
- XLVIII. Further Intelligence
+XLVIII. Further Intelligence
 
- XLIX. 
+XLIX. 
 
- L. Doubts and Disappointments
+L. Doubts and Disappointments
 
- LI. An Unexpected Occurrence
+LI. An Unexpected Occurrence
 
- LII. Fluctuations
+LII. Fluctuations
 
- LIII. Conclusion
+LIII. Conclusion
 
 
 
@@ -170,19 +170,19 @@ LIST OF ILLUSTRATIONS
 
 
 
- Portrait of Anne Brontë
+Portrait of Anne Brontë
 
- Moorland Scene, Haworth
+Moorland Scene, Haworth
 
- Moorland scene (with [[Water|water]]): Haworth
+Moorland scene (with [[Water|water]]): Haworth
 
- Moorland scene (with cottage), Haworth
+Moorland scene (with cottage), Haworth
 
- Blake Hall—The Approach (Grassdale Manor)
+Blake Hall—The Approach (Grassdale Manor)
 
- Blake Hall—Front (Grassdale Manor)
+Blake Hall—Front (Grassdale Manor)
 
- Blake Hall—Side (Grassdale Manor)
+Blake Hall—Side (Grassdale Manor)
 
 
 
@@ -602,31 +602,31 @@ upland of Haworth and the little stone-built [[house]] upon its crest:—
 
 There is a spot, ’mid barren hills,
 
-    Where [[Winter|winter]] howls, and driving rain;
+Where [[Winter|winter]] howls, and driving rain;
 
 But, if the dreary tempest chills,
 
-    There is a light that warms again.
+There is a light that warms again.
 
 
 
 The [[house]] is old, the trees are bare,
 
-    Moonless above bends twilight’s dome,
+Moonless above bends twilight’s dome,
 
 But what on earth is half so dear—
 
-    So longed for—as the hearth of [[Home|home]]?
+So longed for—as the hearth of [[Home|home]]?
 
 
 
 The mute bird sitting on the stone,
 
-    The dank moss dripping from the wall,
+The dank moss dripping from the wall,
 
 The thorn-trees gaunt, the walks o’ergrown,
 
-    I [[Love|love]] them—how I [[Love|love]] them all!
+I [[Love|love]] them—how I [[Love|love]] them all!
 
 
 
@@ -644,31 +644,31 @@ blurred weakness of Anne’s!—
 
 For yonder [[Garden|garden]], fair and wide,
 
-    With groves of evergreen,
+With groves of evergreen,
 
 Long winding walks, and borders trim,
 
-    And velvet lawns between—
+And velvet lawns between—
 
 
 
 Restore to me that little spot,
 
-    With gray walls compassed round,
+With gray walls compassed round,
 
 Where knotted grass neglected lies,
 
-    And weeds usurp the ground.
+And weeds usurp the ground.
 
 
 
 Though all around this mansion high
 
-    Invites the foot to roam,
+Invites the foot to roam,
 
 And though its halls are fair within—
 
-    Oh, give me back my [[Home]]!
+Oh, give me back my [[Home]]!
 
 
 
@@ -966,7 +966,7 @@ _July_ 22_nd_, 1848.
 
 
 
- CHAPTER I
+CHAPTER I
 
 
 
@@ -1774,7 +1774,7 @@ Yours immutably,
 
 
 
- CHAPTER II
+CHAPTER II
 
 
 
@@ -2222,7 +2222,7 @@ with a heart brimful of complacency for myself, and overflowing with
 
 
 
- CHAPTER III
+CHAPTER III
 
 
 
@@ -2890,7 +2890,7 @@ fop—of that I am fully convinced, whether _you_ are or not.
 
 
 
- CHAPTER IV
+CHAPTER IV
 
 
 
@@ -3594,7 +3594,7 @@ in spirit.
 
 
 
- CHAPTER V
+CHAPTER V
 
 
 
@@ -3948,7 +3948,7 @@ squeezed her hand with a cordial, not a spiteful pressure.
 
 
 
- CHAPTER VI
+CHAPTER VI
 
 
 
@@ -4596,7 +4596,7 @@ does your happy wife exact no more?
 
 
 
- CHAPTER VII
+CHAPTER VII
 
 
 
@@ -5486,7 +5486,7 @@ almost forgave her.
 
 
 
- CHAPTER VIII
+CHAPTER VIII
 
 
 
@@ -5898,7 +5898,7 @@ hopes and fears—my serious cogitations and resolves.
 
 
 
- CHAPTER IX
+CHAPTER IX
 
 
 
@@ -6892,7 +6892,7 @@ I had wounded him to the quick; and I was glad of it.
 
 
 
- CHAPTER X
+CHAPTER X
 
 
 
@@ -7324,7 +7324,7 @@ he pleased.
 
 
 
- CHAPTER XI
+CHAPTER XI
 
 
 
@@ -7790,7 +7790,7 @@ chaos of conflicting passions.
 
 
 
- CHAPTER XII
+CHAPTER XII
 
 
 
@@ -8620,7 +8620,7 @@ moping [[Melancholy|melancholy]] likely to cloud my brow for long enough.
 
 
 
- CHAPTER XIII
+CHAPTER XIII
 
 
 
@@ -8966,7 +8966,7 @@ rendered doubly miserable for the remainder of the day.
 
 
 
- CHAPTER XIV
+CHAPTER XIV
 
 
 
@@ -9520,7 +9520,7 @@ intention to criminate me.
 
 
 
- CHAPTER XV
+CHAPTER XV
 
 
 
@@ -10158,7 +10158,7 @@ reserve its commencement for another chapter.
 
 
 
- CHAPTER XVI
+CHAPTER XVI
 
 
 
@@ -11180,7 +11180,7 @@ offended, no [[Doubt|doubt]]; but surely it was not my fault.
 
 
 
- CHAPTER XVII
+CHAPTER XVII
 
 
 
@@ -11870,7 +11870,7 @@ continue to think so, till we meet again—if ever that should be. I
 
 
 
- CHAPTER XVIII
+CHAPTER XVIII
 
 
 
@@ -12808,7 +12808,7 @@ were—gone.
 
 
 
- CHAPTER XIX
+CHAPTER XIX
 
 
 
@@ -12964,71 +12964,71 @@ head, and so are the words:—
 
 Farewell to thee! but not farewell
 
-    To all my fondest thoughts of thee:
+To all my fondest thoughts of thee:
 
 Within my heart they still shall dwell;
 
-    And they shall cheer and comfort me.
+And they shall cheer and comfort me.
 
 
 
 O beautiful, and full of grace!
 
-    If thou hadst never met mine eye,
+If thou hadst never met mine eye,
 
 I had not dreamed a living face
 
-    Could fancied charms so far outvie.
+Could fancied charms so far outvie.
 
 
 
 If I may ne’er behold again
 
-    That form and face so dear to me,
+That form and face so dear to me,
 
 Nor hear thy voice, still would I fain
 
-    Preserve, for aye, their [[Memory|memory]].
+Preserve, for aye, their [[Memory|memory]].
 
 
 
 That voice, the [[Magic|magic]] of whose tone
 
-    Can wake an echo in my breast,
+Can wake an echo in my breast,
 
 Creating feelings that, [[Alone|alone]],
 
-    Can make my tranced spirit blest.
+Can make my tranced spirit blest.
 
 
 
 That laughing eye, whose sunny beam
 
-    My [[Memory|memory]] would not cherish less;—
+My [[Memory|memory]] would not cherish less;—
 
 And oh, that smile! I whose joyous gleam
 
-    No mortal languish can express.
+No mortal languish can express.
 
 
 
 Adieu! but let me cherish, still,
 
-    The [[Hope|hope]] with which I cannot part.
+The [[Hope|hope]] with which I cannot part.
 
 Contempt may wound, and coldness chill,
 
-    But still it lingers in my heart.
+But still it lingers in my heart.
 
 
 
 And who can tell but Heaven, at last,
 
-    May answer all my thousand prayers,
+May answer all my thousand prayers,
 
 And bid the future pay the past
 
-    With joy for anguish, smiles for [[Tears|tears]].
+With joy for anguish, smiles for [[Tears|tears]].
 
 
 
@@ -13342,7 +13342,7 @@ to win tired [[Nature|nature]]’s sweet restorer.
 
 
 
- CHAPTER XX
+CHAPTER XX
 
 
 
@@ -13972,7 +13972,7 @@ disregarded; and no conclusions on that particular are come to yet.
 
 
 
- CHAPTER XXI
+CHAPTER XXI
 
 
 
@@ -14362,7 +14362,7 @@ restraint. What _shall_ I do without him, I repeat?
 
 
 
- CHAPTER XXII
+CHAPTER XXII
 
 
 
@@ -14744,11 +14744,11 @@ think we’d better go no further. We’d better stop while we can.’
 
 ‘Stop poor sinner, stop and think
 
-    Before you farther go,
+Before you farther go,
 
 No longer sport upon the brink
 
-    Of everlasting woe.’
+Of everlasting woe.’
 
 
 
@@ -15648,7 +15648,7 @@ part of myself?
 
 
 
- CHAPTER XXIII
+CHAPTER XXIII
 
 
 
@@ -16066,7 +16066,7 @@ than you do.”
 
 
 
- CHAPTER XXIV
+CHAPTER XXIV
 
 
 
@@ -16800,7 +16800,7 @@ happy yet.
 
 
 
- CHAPTER XXV
+CHAPTER XXV
 
 
 
@@ -17608,7 +17608,7 @@ end of her days.
 
 
 
- CHAPTER XXVI
+CHAPTER XXVI
 
 
 
@@ -17812,7 +17812,7 @@ difficulty in bending to her purposes.
 
 
 
- CHAPTER XXVII
+CHAPTER XXVII
 
 
 
@@ -18362,7 +18362,7 @@ it.” And then I turned the conversation.
 
 
 
- CHAPTER XXVIII
+CHAPTER XXVIII
 
 
 
@@ -18604,7 +18604,7 @@ learnt, at last, to disregard his promises.
 
 
 
- CHAPTER XXIX
+CHAPTER XXIX
 
 
 
@@ -19118,7 +19118,7 @@ he should feel it too.
 
 
 
- CHAPTER XXX
+CHAPTER XXX
 
 
 
@@ -20034,7 +20034,7 @@ gladness, awakens now far other anticipations by its return.
 
 
 
- CHAPTER XXXI
+CHAPTER XXXI
 
 
 
@@ -21036,7 +21036,7 @@ admiration.
 
 
 
- CHAPTER XXXII
+CHAPTER XXXII
 
 
 
@@ -22094,7 +22094,7 @@ continue?
 
 
 
- CHAPTER XXXIII
+CHAPTER XXXIII
 
 
 
@@ -23218,7 +23218,7 @@ their scorn.
 
 
 
- CHAPTER XXXIV
+CHAPTER XXXIV
 
 
 
@@ -23622,7 +23622,7 @@ pure necessity demanded.
 
 
 
- CHAPTER XXXV
+CHAPTER XXXV
 
 
 
@@ -24118,7 +24118,7 @@ Thank heaven, they are all going to-morrow.
 
 
 
- CHAPTER XXXVI
+CHAPTER XXXVI
 
 
 
@@ -24472,7 +24472,7 @@ the name of the Lord, and stay upon his God!”
 
 
 
- CHAPTER XXXVII
+CHAPTER XXXVII
 
 
 
@@ -25352,7 +25352,7 @@ I thank God for this deliverance!
 
 
 
- CHAPTER XXXVIII
+CHAPTER XXXVIII
 
 
 
@@ -26056,7 +26056,7 @@ again, and feel rather more at my ease.”
 
 
 
- CHAPTER XXXIX
+CHAPTER XXXIX
 
 
 
@@ -27224,7 +27224,7 @@ such a parent?
 
 
 
- CHAPTER XL
+CHAPTER XL
 
 
 
@@ -27590,7 +27590,7 @@ perish?”
 
 
 
- CHAPTER XLI
+CHAPTER XLI
 
 
 
@@ -28132,7 +28132,7 @@ be careful whom you marry—or rather, you must avoid it altogether.”
 
 
 
- CHAPTER XLII
+CHAPTER XLII
 
 
 
@@ -28554,7 +28554,7 @@ and I have one bright spot, at least, whereon to rest my thoughts.
 
 
 
- CHAPTER XLIII
+CHAPTER XLIII
 
 
 
@@ -29064,7 +29064,7 @@ any other, except my own, which I dare not resume.
 
 
 
- CHAPTER XLIV
+CHAPTER XLIV
 
 
 
@@ -29636,7 +29636,7 @@ for any eyes but her own, and she had done [[Well|well]] to keep it from me.
 
 
 
- CHAPTER XLV
+CHAPTER XLV
 
 
 
@@ -30848,7 +30848,7 @@ posted the letter on my way [[Home|home]], most manfully resisting the
 
 
 
- CHAPTER XLVI
+CHAPTER XLVI
 
 
 
@@ -31444,7 +31444,7 @@ any evil design in the matter.
 
 
 
- CHAPTER XLVII
+CHAPTER XLVII
 
 
 
@@ -32598,7 +32598,7 @@ virtuous as to refrain.”
 
 
 
- CHAPTER XLVIII
+CHAPTER XLVIII
 
 
 
@@ -33038,7 +33038,7 @@ maid.
 
 
 
- CHAPTER XLIX
+CHAPTER XLIX
 
 
 
@@ -33860,7 +33860,7 @@ attend the funeral, come quickly, for I need help.
 
 
 
- CHAPTER L
+CHAPTER L
 
 
 
@@ -34578,7 +34578,7 @@ for his noble breed of horses.
 
 
 
- CHAPTER LI
+CHAPTER LI
 
 
 
@@ -35314,7 +35314,7 @@ infectious theme of [[Love|love]].
 
 
 
- CHAPTER LII
+CHAPTER LII
 
 
 
@@ -35790,7 +35790,7 @@ beside the [[Road|road]].
 
 
 
- CHAPTER LIII
+CHAPTER LIII
 
 
 
@@ -36958,15 +36958,15 @@ Footnotes:
 
 
 
- [1] Introduction to _Wuthering Heights_, p. xl. “Still, as I mused the
+[1] Introduction to _Wuthering Heights_, p. xl. “Still, as I mused the
 
- naked room,” &c.
+naked room,” &c.
 
 
 
- [2] This Preface is now printed here for the first [[Time|time]] in a collected
+[2] This Preface is now printed here for the first [[Time|time]] in a collected
 
- edition of the works of the Brontë sisters.
+edition of the works of the Brontë sisters.
 
 
 
@@ -36974,7 +36974,7 @@ Footnotes:
 <span class="atom-split" data-atom="chapter_05" data-title="The Tenant of Wildfell Hall — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
 
 
- CHAPTER V
+CHAPTER V
 
 
 
@@ -37326,7 +37326,7 @@ squeezed her hand with a cordial, not a spiteful pressure.
 <span class="atom-split" data-atom="chapter_08" data-title="The Tenant of Wildfell Hall — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
 
 
- CHAPTER VIII
+CHAPTER VIII
 
 
 
@@ -37736,7 +37736,7 @@ hopes and fears—my serious cogitations and resolves.
 <span class="atom-split" data-atom="chapter_10" data-title="The Tenant of Wildfell Hall — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
 
 
- CHAPTER X
+CHAPTER X
 
 
 
@@ -38166,7 +38166,7 @@ he pleased.
 <span class="atom-split" data-atom="chapter_11" data-title="The Tenant of Wildfell Hall — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
 
 
- CHAPTER XI
+CHAPTER XI
 
 
 
@@ -38630,7 +38630,7 @@ chaos of conflicting passions.
 <span class="atom-split" data-atom="chapter_13" data-title="The Tenant of Wildfell Hall — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
 
 
- CHAPTER XIII
+CHAPTER XIII
 
 
 
@@ -38974,7 +38974,7 @@ rendered doubly miserable for the remainder of the day.
 <span class="atom-split" data-atom="chapter_21" data-title="The Tenant of Wildfell Hall — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
 
 
- CHAPTER XXI
+CHAPTER XXI
 
 
 
@@ -39362,7 +39362,7 @@ restraint. What _shall_ I do without him, I repeat?
 <span class="atom-split" data-atom="chapter_23" data-title="The Tenant of Wildfell Hall — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
 
 
- CHAPTER XXIII
+CHAPTER XXIII
 
 
 
@@ -39778,7 +39778,7 @@ than you do.”
 <span class="atom-split" data-atom="chapter_26" data-title="The Tenant of Wildfell Hall — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
 
 
- CHAPTER XXVI
+CHAPTER XXVI
 
 
 
@@ -39980,7 +39980,7 @@ difficulty in bending to her purposes.
 <span class="atom-split" data-atom="chapter_28" data-title="The Tenant of Wildfell Hall — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
 
 
- CHAPTER XXVIII
+CHAPTER XXVIII
 
 
 
@@ -40220,7 +40220,7 @@ learnt, at last, to disregard his promises.
 <span class="atom-split" data-atom="chapter_34" data-title="The Tenant of Wildfell Hall — Chapter 34" data-chapter="Chapter 34" data-kind="chapter"></span>
 
 
- CHAPTER XXXIV
+CHAPTER XXXIV
 
 
 
@@ -40622,7 +40622,7 @@ pure necessity demanded.
 <span class="atom-split" data-atom="chapter_36" data-title="The Tenant of Wildfell Hall — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
 
 
- CHAPTER XXXVI
+CHAPTER XXXVI
 
 
 
@@ -40974,7 +40974,7 @@ the name of the Lord, and stay upon his God!”
 <span class="atom-split" data-atom="chapter_40" data-title="The Tenant of Wildfell Hall — Chapter 40" data-chapter="Chapter 40" data-kind="chapter"></span>
 
 
- CHAPTER XL
+CHAPTER XL
 
 
 
@@ -41338,7 +41338,7 @@ perish?”
 <span class="atom-split" data-atom="chapter_42" data-title="The Tenant of Wildfell Hall — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
 
 
- CHAPTER XLII
+CHAPTER XLII
 
 
 
@@ -41758,7 +41758,7 @@ and I have one bright spot, at least, whereon to rest my thoughts.
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
- CHAPTER I
+CHAPTER I
 
 
 
@@ -42582,7 +42582,7 @@ Yours immutably,
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Tenant of Wildfell Hall — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
- CHAPTER II
+CHAPTER II
 
 
 
@@ -43034,7 +43034,7 @@ with a heart brimful of complacency for myself, and overflowing with
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
 
- CHAPTER III
+CHAPTER III
 
 
 
@@ -43712,7 +43712,7 @@ fop—of that I am fully convinced, whether _you_ are or not.
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
 
- CHAPTER IV
+CHAPTER IV
 
 
 
@@ -44426,7 +44426,7 @@ in spirit.
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
 
- CHAPTER VI
+CHAPTER VI
 
 
 
@@ -45084,7 +45084,7 @@ does your happy wife exact no more?
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
- CHAPTER VII
+CHAPTER VII
 
 
 
@@ -45990,7 +45990,7 @@ almost forgave her.
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
 
- CHAPTER IX
+CHAPTER IX
 
 
 
@@ -47000,7 +47000,7 @@ I had wounded him to the quick; and I was glad of it.
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
 
- CHAPTER XII
+CHAPTER XII
 
 
 
@@ -47846,7 +47846,7 @@ moping [[Melancholy|melancholy]] likely to cloud my brow for long enough.
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
 
- CHAPTER XIV
+CHAPTER XIV
 
 
 
@@ -48410,7 +48410,7 @@ intention to criminate me.
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
 
- CHAPTER XV
+CHAPTER XV
 
 
 
@@ -49058,7 +49058,7 @@ reserve its commencement for another chapter.
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
 
- CHAPTER XVI
+CHAPTER XVI
 
 
 
@@ -50096,7 +50096,7 @@ offended, no [[Doubt|doubt]]; but surely it was not my fault.
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
 
- CHAPTER XVII
+CHAPTER XVII
 
 
 
@@ -50794,7 +50794,7 @@ continue to think so, till we meet again—if ever that should be. I
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
 
 
- CHAPTER XVIII
+CHAPTER XVIII
 
 
 
@@ -51752,7 +51752,7 @@ were—gone.
 <span class="atom-split" data-atom="chapter_19--part_01" data-title="The Tenant of Wildfell Hall — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
 
 
- CHAPTER XIX
+CHAPTER XIX
 
 
 
@@ -51908,71 +51908,71 @@ head, and so are the words:—
 
 Farewell to thee! but not farewell
 
-    To all my fondest thoughts of thee:
+To all my fondest thoughts of thee:
 
 Within my heart they still shall dwell;
 
-    And they shall cheer and comfort me.
+And they shall cheer and comfort me.
 
 
 
 O beautiful, and full of grace!
 
-    If thou hadst never met mine eye,
+If thou hadst never met mine eye,
 
 I had not dreamed a living face
 
-    Could fancied charms so far outvie.
+Could fancied charms so far outvie.
 
 
 
 If I may ne’er behold again
 
-    That form and face so dear to me,
+That form and face so dear to me,
 
 Nor hear thy voice, still would I fain
 
-    Preserve, for aye, their [[Memory|memory]].
+Preserve, for aye, their [[Memory|memory]].
 
 
 
 That voice, the [[Magic|magic]] of whose tone
 
-    Can wake an echo in my breast,
+Can wake an echo in my breast,
 
 Creating feelings that, [[Alone|alone]],
 
-    Can make my tranced spirit blest.
+Can make my tranced spirit blest.
 
 
 
 That laughing eye, whose sunny beam
 
-    My [[Memory|memory]] would not cherish less;—
+My [[Memory|memory]] would not cherish less;—
 
 And oh, that smile! I whose joyous gleam
 
-    No mortal languish can express.
+No mortal languish can express.
 
 
 
 Adieu! but let me cherish, still,
 
-    The [[Hope|hope]] with which I cannot part.
+The [[Hope|hope]] with which I cannot part.
 
 Contempt may wound, and coldness chill,
 
-    But still it lingers in my heart.
+But still it lingers in my heart.
 
 
 
 And who can tell but Heaven, at last,
 
-    May answer all my thousand prayers,
+May answer all my thousand prayers,
 
 And bid the future pay the past
 
-    With joy for anguish, smiles for [[Tears|tears]].
+With joy for anguish, smiles for [[Tears|tears]].
 
 
 
@@ -52290,7 +52290,7 @@ to win tired [[Nature|nature]]’s sweet restorer.
 <span class="atom-split" data-atom="chapter_20--part_01" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
 
 
- CHAPTER XX
+CHAPTER XX
 
 
 
@@ -52930,7 +52930,7 @@ disregarded; and no conclusions on that particular are come to yet.
 <span class="atom-split" data-atom="chapter_22--part_01" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
 
 
- CHAPTER XXII
+CHAPTER XXII
 
 
 
@@ -53318,11 +53318,11 @@ think we’d better go no further. We’d better stop while we can.’
 
 ‘Stop poor sinner, stop and think
 
-    Before you farther go,
+Before you farther go,
 
 No longer sport upon the brink
 
-    Of everlasting woe.’
+Of everlasting woe.’
 
 
 
@@ -54242,7 +54242,7 @@ part of myself?
 <span class="atom-split" data-atom="chapter_24--part_01" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
 
 
- CHAPTER XXIV
+CHAPTER XXIV
 
 
 
@@ -54984,7 +54984,7 @@ happy yet.
 <span class="atom-split" data-atom="chapter_25--part_01" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
 
 
- CHAPTER XXV
+CHAPTER XXV
 
 
 
@@ -55808,7 +55808,7 @@ end of her days.
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="The Tenant of Wildfell Hall — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
 
 
- CHAPTER XXVII
+CHAPTER XXVII
 
 
 
@@ -56362,7 +56362,7 @@ it.” And then I turned the conversation.
 <span class="atom-split" data-atom="chapter_29--part_01" data-title="The Tenant of Wildfell Hall — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
 
 
- CHAPTER XXIX
+CHAPTER XXIX
 
 
 
@@ -56880,7 +56880,7 @@ he should feel it too.
 <span class="atom-split" data-atom="chapter_30--part_01" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
 
 
- CHAPTER XXX
+CHAPTER XXX
 
 
 
@@ -57808,7 +57808,7 @@ gladness, awakens now far other anticipations by its return.
 <span class="atom-split" data-atom="chapter_31--part_01" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
 
 
- CHAPTER XXXI
+CHAPTER XXXI
 
 
 
@@ -58826,7 +58826,7 @@ admiration.
 <span class="atom-split" data-atom="chapter_32--part_01" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
 
 
- CHAPTER XXXII
+CHAPTER XXXII
 
 
 
@@ -59906,7 +59906,7 @@ continue?
 <span class="atom-split" data-atom="chapter_33--part_01" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
 
 
- CHAPTER XXXIII
+CHAPTER XXXIII
 
 
 
@@ -61050,7 +61050,7 @@ their scorn.
 <span class="atom-split" data-atom="chapter_35--part_01" data-title="The Tenant of Wildfell Hall — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
 
 
- CHAPTER XXXV
+CHAPTER XXXV
 
 
 
@@ -61550,7 +61550,7 @@ Thank heaven, they are all going to-morrow.
 <span class="atom-split" data-atom="chapter_37--part_01" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
 
 
- CHAPTER XXXVII
+CHAPTER XXXVII
 
 
 
@@ -62444,7 +62444,7 @@ I thank God for this deliverance!
 <span class="atom-split" data-atom="chapter_38--part_01" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
 
 
- CHAPTER XXXVIII
+CHAPTER XXXVIII
 
 
 
@@ -63154,7 +63154,7 @@ again, and feel rather more at my ease.”
 <span class="atom-split" data-atom="chapter_39--part_01" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
 
 
- CHAPTER XXXIX
+CHAPTER XXXIX
 
 
 
@@ -64344,7 +64344,7 @@ such a parent?
 <span class="atom-split" data-atom="chapter_41--part_01" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
 
 
- CHAPTER XLI
+CHAPTER XLI
 
 
 
@@ -64896,7 +64896,7 @@ be careful whom you marry—or rather, you must avoid it altogether.”
 <span class="atom-split" data-atom="chapter_43--part_01" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
 
 
- CHAPTER XLIII
+CHAPTER XLIII
 
 
 
@@ -65416,7 +65416,7 @@ any other, except my own, which I dare not resume.
 <span class="atom-split" data-atom="chapter_44--part_01" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
 
 
- CHAPTER XLIV
+CHAPTER XLIV
 
 
 
@@ -65998,7 +65998,7 @@ for any eyes but her own, and she had done [[Well|well]] to keep it from me.
 <span class="atom-split" data-atom="chapter_45--part_01" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
 
 
- CHAPTER XLV
+CHAPTER XLV
 
 
 
@@ -67238,7 +67238,7 @@ posted the letter on my way [[Home|home]], most manfully resisting the
 <span class="atom-split" data-atom="chapter_46--part_01" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
 
 
- CHAPTER XLVI
+CHAPTER XLVI
 
 
 
@@ -67844,7 +67844,7 @@ any evil design in the matter.
 <span class="atom-split" data-atom="chapter_47--part_01" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
 
 
- CHAPTER XLVII
+CHAPTER XLVII
 
 
 
@@ -69014,7 +69014,7 @@ virtuous as to refrain.”
 <span class="atom-split" data-atom="chapter_48--part_01" data-title="The Tenant of Wildfell Hall — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
 
 
- CHAPTER XLVIII
+CHAPTER XLVIII
 
 
 
@@ -69456,7 +69456,7 @@ maid.
 <span class="atom-split" data-atom="chapter_49--part_01" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
 
 
- CHAPTER XLIX
+CHAPTER XLIX
 
 
 
@@ -70294,7 +70294,7 @@ attend the funeral, come quickly, for I need help.
 <span class="atom-split" data-atom="chapter_50--part_01" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
 
 
- CHAPTER L
+CHAPTER L
 
 
 
@@ -71028,7 +71028,7 @@ for his noble breed of horses.
 <span class="atom-split" data-atom="chapter_51--part_01" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
 
 
- CHAPTER LI
+CHAPTER LI
 
 
 
@@ -71774,7 +71774,7 @@ infectious theme of [[Love|love]].
 <span class="atom-split" data-atom="chapter_52--part_01" data-title="The Tenant of Wildfell Hall — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
 
 
- CHAPTER LII
+CHAPTER LII
 
 
 
@@ -72254,7 +72254,7 @@ beside the [[Road|road]].
 <span class="atom-split" data-atom="chapter_53--part_01" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
 
 
- CHAPTER LIII
+CHAPTER LIII
 
 
 
@@ -73446,12 +73446,12 @@ Footnotes:
 
 
 
- [1] Introduction to _Wuthering Heights_, p. xl. “Still, as I mused the
+[1] Introduction to _Wuthering Heights_, p. xl. “Still, as I mused the
 
- naked room,” &c.
+naked room,” &c.
 
 
 
- [2] This Preface is now printed here for the first [[Time|time]] in a collected
+[2] This Preface is now printed here for the first [[Time|time]] in a collected
 
- edition of the works of the Brontë sisters.
+edition of the works of the Brontë sisters.

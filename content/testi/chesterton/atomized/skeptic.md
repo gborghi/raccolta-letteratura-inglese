@@ -16,12 +16,12 @@ tags:
 
 Skepticism and Spiritualism
 
-			     by G.K. Chesterton
+by G.K. Chesterton
 
 (From an [[Essay|essay]] which originally appeared in the ILLUSTRATED [[London|LONDON]] NEWS,
 April 14, 1906)
 
-  ------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 Glancing over several papers of late, I see such headings as
 "Another Medium Exposed," and "Another Spiritualistic Fraud."  The easy
@@ -146,12 +146,12 @@ am one myself. . .
 
 Skepticism and Spiritualism
 
-			     by G.K. Chesterton
+by G.K. Chesterton
 
 (From an [[Essay|essay]] which originally appeared in the ILLUSTRATED [[London|LONDON]] NEWS,
 April 14, 1906)
 
-  ------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 Glancing over several papers of late, I see such headings as
 "Another Medium Exposed," and "Another Spiritualistic Fraud."  The easy

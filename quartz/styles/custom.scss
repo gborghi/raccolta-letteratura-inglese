@@ -1168,13 +1168,17 @@ ul.tags {
   color: var(--darkgray); padding: .25rem .7rem; cursor: pointer; }
 .ar-lang button.active { background: var(--secondary); color: var(--light); }
 .ar-pager { display: inline-flex; gap: .3rem; }
-.ar-pager button, .ar-tocbtn {
+.ar-pager button, .ar-tocbtn, .ar-navbtn {
   font: inherit; border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
   width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer; line-height: 1; font-size: 1rem;
 }
 .ar-pager button:disabled { opacity: .35; cursor: default; }
-.ar-pager button:hover:not(:disabled), .ar-tocbtn:hover { border-color: var(--secondary); color: var(--secondary); }
+.ar-pager button:hover:not(:disabled), .ar-tocbtn:hover, .ar-navbtn:hover { border-color: var(--secondary); color: var(--secondary); }
 .ar-tocbtn { display: none; }
+// The global-sidebar toggle shows only on desktop/tablet (on mobile the site
+// sidebar is already a compact top row, not a left column).
+.ar-navbtn { display: inline-flex; align-items: center; justify-content: center; }
+@media (max-width: 800px) { .ar-navbtn { display: none; } }
 .ar-shell { display: grid; grid-template-columns: 230px minmax(0,1fr); gap: 1.4rem; }
 .ar-toc { align-self: start; position: sticky; top: 3.2rem; max-height: calc(100vh - 4rem);
   overflow: auto; padding-right: .6rem; border-right: 1px solid var(--lightgray); font-size: .84rem; }
@@ -1198,4 +1202,31 @@ ul.tags {
     background: var(--light); border-right: 1px solid var(--lightgray); padding: 1rem;
     transform: translateX(-102%); transition: transform .22s ease; box-shadow: 0 0 24px rgba(0,0,0,.15); }
   .ar-shell.toc-open .ar-toc { transform: none; }
+}
+
+// ---- reading page: collapse the global Explorer/search left sidebar ----
+// The reader already carries its own work-nav (ar-toc), so on a reading page the
+// site's left sidebar is redundant. Collapse its grid column and hide it by
+// default; the reader's ☰ button re-opens it as a slide-in drawer.
+body.reading-page {
+  @media all and (min-width: 1200px) {
+    & > #quartz-body { grid-template-columns: 0 auto 320px; }
+  }
+  @media all and (min-width: 800px) and (max-width: 1199.98px) {
+    & > #quartz-body { grid-template-columns: 0 auto; }
+  }
+  @media (min-width: 800px) {
+    & > #quartz-body > .sidebar.left { display: none; }
+  }
+  &.left-open > #quartz-body > .sidebar.left {
+    display: flex;
+    position: fixed;
+    inset: 0 auto 0 0;
+    width: 320px; max-width: 85vw; height: 100vh;
+    overflow: auto;
+    background: var(--light);
+    z-index: 30;
+    padding: 5rem 1.5rem 2rem;
+    box-shadow: 0 0 28px rgba(0, 0, 0, 0.22);
+  }
 }

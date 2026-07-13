@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="tolstoy" data-title="Leo Tolstoy" data-chapter="" data-kind="intro"></span>
 
-# [[tolstoy]]
 
 Leo [[tolstoy|Tolstoy]]
 
@@ -626,7 +625,6 @@ of the modern world.
 
 <span class="atom-split" data-atom="part--part_01" data-title="Leo Tolstoy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
 
-# [[tolstoy]] (part 1)
 
 Leo [[tolstoy|Tolstoy]]
 
@@ -790,7 +788,6 @@ Questa emersione di [[tolstoy|Tolstoj]], con la sua etica tremenda e semplice, �
 
 <span class="atom-split" data-atom="part--part_02" data-title="Leo Tolstoy (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
-# [[tolstoy]] (part 2)
 
 The [[Truth|truth]] is that [[tolstoy|Tolstoy]], with his immense genius, with his
 colossal [[Faith|faith]], with his vast fearlessness and vast knowledge
@@ -940,7 +937,6 @@ Dopo cinque anni di sforzi mitemente benevoli tra i suoi servi della gleba a Yas
 
 <span class="atom-split" data-atom="part--part_03" data-title="Leo Tolstoy (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
-# [[tolstoy]] (part 3)
 
 For a brief [[Time|time]] [[tolstoy|Tolstoy]] became a figure in the old and new
 capitals of [[Russia]] by right of talent as [[Well|well]] as birth.
@@ -1044,7 +1040,6 @@ Dopotutto, fu la felicità familiare che salvò Leo [[tolstoy|Tolstoj]]. Per la 
 
 <span class="atom-split" data-atom="part--part_04" data-title="Leo Tolstoy (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
-# [[tolstoy]] (part 4)
 
 It is more to our purpose to note that in this volcanic and fecund
 if fundamentally simple personality the [[artist]] has dogged
@@ -1191,7 +1186,6 @@ Il significato di [[tolstoy|Tolstoj]] come grande scrittore della [[Russia]] mod
 
 <span class="atom-split" data-atom="part--part_05" data-title="Leo Tolstoy (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
-# [[tolstoy]] (part 5)
 
 And not only so, but [[tolstoy|Tolstoy]]'s analysis of life throws more light
 on the main currents of thought in our Age, raises deeper problems,

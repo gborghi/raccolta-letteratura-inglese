@@ -40,75 +40,75 @@ Contents
 
 
 
- ADVERTISEMENT BY THE AUTHORESS, TO [[Northanger Abbey|NORTHANGER ABBEY]]
+ADVERTISEMENT BY THE AUTHORESS, TO [[Northanger Abbey|NORTHANGER ABBEY]]
 
 
 
- CHAPTER 1
+CHAPTER 1
 
- CHAPTER 2
+CHAPTER 2
 
- CHAPTER 3
+CHAPTER 3
 
- CHAPTER 4
+CHAPTER 4
 
- CHAPTER 5
+CHAPTER 5
 
- CHAPTER 6
+CHAPTER 6
 
- CHAPTER 7
+CHAPTER 7
 
- CHAPTER 8
+CHAPTER 8
 
- CHAPTER 9
+CHAPTER 9
 
- CHAPTER 10
+CHAPTER 10
 
- CHAPTER 11
+CHAPTER 11
 
- CHAPTER 12
+CHAPTER 12
 
- CHAPTER 13
+CHAPTER 13
 
- CHAPTER 14
+CHAPTER 14
 
- CHAPTER 15
+CHAPTER 15
 
- CHAPTER 16
+CHAPTER 16
 
- CHAPTER 17
+CHAPTER 17
 
- CHAPTER 18
+CHAPTER 18
 
- CHAPTER 19
+CHAPTER 19
 
- CHAPTER 20
+CHAPTER 20
 
- CHAPTER 21
+CHAPTER 21
 
- CHAPTER 22
+CHAPTER 22
 
- CHAPTER 23
+CHAPTER 23
 
- CHAPTER 24
+CHAPTER 24
 
- CHAPTER 25
+CHAPTER 25
 
- CHAPTER 26
+CHAPTER 26
 
- CHAPTER 27
+CHAPTER 27
 
- CHAPTER 28
+CHAPTER 28
 
- CHAPTER 29
+CHAPTER 29
 
- CHAPTER 30
+CHAPTER 30
 
- CHAPTER 31
+CHAPTER 31
 
 
 
- A NOTE ON THE TEXT
+A NOTE ON THE TEXT
 
 
 
@@ -1348,7 +1348,7 @@ respectable family in Gloucestershire.
 
 
 
- [1] Vide a letter from Mr. Richardson, No. 97, Vol. ii, Rambler.
+[1] Vide a letter from Mr. Richardson, No. 97, Vol. ii, Rambler.
 
 
 
@@ -12708,53 +12708,53 @@ this purpose:
 
 “Dear Catherine,
 
-    “Though, God knows, with little inclination for writing, I think it
+“Though, God knows, with little inclination for writing, I think it
 
-    my duty to tell you that everything is at an end between Miss
+my duty to tell you that everything is at an end between Miss
 
-    Thorpe and me. I left her and Bath yesterday, never to see either
+Thorpe and me. I left her and Bath yesterday, never to see either
 
-    again. I shall not enter into particulars—they would only [[Pain|pain]] you
+again. I shall not enter into particulars—they would only [[Pain|pain]] you
 
-    more. You will soon hear enough from another quarter to know where
+more. You will soon hear enough from another quarter to know where
 
-    lies the blame; and I [[Hope|hope]] will acquit your brother of everything
+lies the blame; and I [[Hope|hope]] will acquit your brother of everything
 
-    but the folly of too easily thinking his affection returned. Thank
+but the folly of too easily thinking his affection returned. Thank
 
-    God! i am undeceived in [[Time|time]]! but it is a heavy blow! after my
+God! i am undeceived in [[Time|time]]! but it is a heavy blow! after my
 
-    father’s consent had been so kindly given—but no more of this. She
+father’s consent had been so kindly given—but no more of this. She
 
-    has made me miserable forever! let me soon hear from you, dear
+has made me miserable forever! let me soon hear from you, dear
 
-    Catherine; you are my only friend; _your_ [[Love|love]] I do build upon. I
+Catherine; you are my only friend; _your_ [[Love|love]] I do build upon. I
 
-    wish your visit at Northanger may be over before Captain Tilney
+wish your visit at Northanger may be over before Captain Tilney
 
-    makes his engagement known, or you will be uncomfortably
+makes his engagement known, or you will be uncomfortably
 
-    circumstanced. Poor Thorpe is in town: I dread the sight of him;
+circumstanced. Poor Thorpe is in town: I dread the sight of him;
 
-    his honest heart would feel so much. I have written to him and my
+his honest heart would feel so much. I have written to him and my
 
-    father. Her duplicity hurts me more than all; till the very last,
+father. Her duplicity hurts me more than all; till the very last,
 
-    if I reasoned with her, she declared herself as much attached to me
+if I reasoned with her, she declared herself as much attached to me
 
-    as ever, and laughed at my fears. I am ashamed to think how long I
+as ever, and laughed at my fears. I am ashamed to think how long I
 
-    bore with it; but if ever man had reason to believe himself loved,
+bore with it; but if ever man had reason to believe himself loved,
 
-    I was that man. I cannot understand even now what she would be at,
+I was that man. I cannot understand even now what she would be at,
 
-    for there could be no need of my being played off to make her
+for there could be no need of my being played off to make her
 
-    secure of Tilney. We parted at last by mutual consent—happy for me
+secure of Tilney. We parted at last by mutual consent—happy for me
 
-    had we never met! i can never expect to know such another woman!
+had we never met! i can never expect to know such another woman!
 
-    Dearest Catherine, beware how you give your heart.
+Dearest Catherine, beware how you give your heart.
 
 
 
@@ -13646,123 +13646,123 @@ _Bath, April_
 
 My dearest Catherine,
 
-    I received your two kind letters with the greatest delight, and
+I received your two kind letters with the greatest delight, and
 
-    have a thousand apologies to make for not answering them sooner. I
+have a thousand apologies to make for not answering them sooner. I
 
-    really am quite ashamed of my idleness; but in this horrid place
+really am quite ashamed of my idleness; but in this horrid place
 
-    one can find [[Time|time]] for nothing. I have had my pen in my hand to
+one can find [[Time|time]] for nothing. I have had my pen in my hand to
 
-    begin a letter to you almost every day since you left Bath, but
+begin a letter to you almost every day since you left Bath, but
 
-    have always been prevented by some silly trifler or other. Pray
+have always been prevented by some silly trifler or other. Pray
 
-    write to me soon, and direct to my own [[Home|home]]. Thank God, we leave
+write to me soon, and direct to my own [[Home|home]]. Thank God, we leave
 
-    this vile place to-morrow. Since you went away, I have had no
+this vile place to-morrow. Since you went away, I have had no
 
-    pleasure in it—the [[Dust|dust]] is beyond anything; and everybody one cares
+pleasure in it—the [[Dust|dust]] is beyond anything; and everybody one cares
 
-    for is gone. I believe if I could see you I should not mind the
+for is gone. I believe if I could see you I should not mind the
 
-    rest, for you are dearer to me than anybody can conceive. I am
+rest, for you are dearer to me than anybody can conceive. I am
 
-    quite uneasy about your dear brother, not having heard from him
+quite uneasy about your dear brother, not having heard from him
 
-    since he went to [[Oxford]]; and am fearful of some misunderstanding.
+since he went to [[Oxford]]; and am fearful of some misunderstanding.
 
-    Your kind offices will set all right: he is the only man I ever did
+Your kind offices will set all right: he is the only man I ever did
 
-    or could [[Love|love]], and I trust you will convince him of it. The [[Spring|spring]]
+or could [[Love|love]], and I trust you will convince him of it. The [[Spring|spring]]
 
-    fashions are partly down; and the hats the most frightful you can
+fashions are partly down; and the hats the most frightful you can
 
-    imagine. I [[Hope|hope]] you spend your [[Time|time]] pleasantly, but am afraid you
+imagine. I [[Hope|hope]] you spend your [[Time|time]] pleasantly, but am afraid you
 
-    never think of me. I will not say all that I could of the family
+never think of me. I will not say all that I could of the family
 
-    you are with, because I would not be ungenerous, or set you against
+you are with, because I would not be ungenerous, or set you against
 
-    those you esteem; but it is very difficult to know whom to trust,
+those you esteem; but it is very difficult to know whom to trust,
 
-    and young men never know their minds two days together. I rejoice
+and young men never know their minds two days together. I rejoice
 
-    to say that the young man whom, of all others, I particularly
+to say that the young man whom, of all others, I particularly
 
-    abhor, has left Bath. You will know, from this description, I must
+abhor, has left Bath. You will know, from this description, I must
 
-    mean Captain Tilney, who, as you may remember, was amazingly
+mean Captain Tilney, who, as you may remember, was amazingly
 
-    disposed to follow and tease me, before you went away. Afterwards
+disposed to follow and tease me, before you went away. Afterwards
 
-    he got worse, and became quite my [[Shadow|shadow]]. Many girls might have
+he got worse, and became quite my [[Shadow|shadow]]. Many girls might have
 
-    been taken in, for never were such attentions; but I knew the
+been taken in, for never were such attentions; but I knew the
 
-    fickle sex too [[Well|well]]. He went away to his regiment two days ago, and
+fickle sex too [[Well|well]]. He went away to his regiment two days ago, and
 
-    I trust I shall never be plagued with him again. He is the greatest
+I trust I shall never be plagued with him again. He is the greatest
 
-    coxcomb I ever saw, and amazingly disagreeable. The last two days
+coxcomb I ever saw, and amazingly disagreeable. The last two days
 
-    he was always by the side of Charlotte Davis: I pitied his taste,
+he was always by the side of Charlotte Davis: I pitied his taste,
 
-    but took no notice of him. The last [[Time|time]] we met was in Bath Street,
+but took no notice of him. The last [[Time|time]] we met was in Bath Street,
 
-    and I turned directly into a shop that he might not speak to me; I
+and I turned directly into a shop that he might not speak to me; I
 
-    would not even look at him. He went into the pump-room afterwards;
+would not even look at him. He went into the pump-room afterwards;
 
-    but I would not have followed him for all the world. Such a
+but I would not have followed him for all the world. Such a
 
-    contrast between him and your brother! pray send me some news of
+contrast between him and your brother! pray send me some news of
 
-    the latter—I am quite unhappy about him; he seemed so uncomfortable
+the latter—I am quite unhappy about him; he seemed so uncomfortable
 
-    when he went away, with a cold, or something that affected his
+when he went away, with a cold, or something that affected his
 
-    spirits. I would write to him myself, but have mislaid his
+spirits. I would write to him myself, but have mislaid his
 
-    direction; and, as I hinted above, am afraid he took something in
+direction; and, as I hinted above, am afraid he took something in
 
-    my conduct amiss. Pray explain everything to his satisfaction; or,
+my conduct amiss. Pray explain everything to his satisfaction; or,
 
-    if he still harbours any [[Doubt|doubt]], a line from himself to me, or a
+if he still harbours any [[Doubt|doubt]], a line from himself to me, or a
 
-    call at Putney when next in town, might set all to rights. I have
+call at Putney when next in town, might set all to rights. I have
 
-    not been to the Rooms this age, nor to the play, except going in
+not been to the Rooms this age, nor to the play, except going in
 
-    last [[Night|night]] with the Hodges, for a frolic, at half price: they
+last [[Night|night]] with the Hodges, for a frolic, at half price: they
 
-    teased me into it; and I was determined they should not say I shut
+teased me into it; and I was determined they should not say I shut
 
-    myself up because Tilney was gone. We happened to sit by the
+myself up because Tilney was gone. We happened to sit by the
 
-    Mitchells, and they pretended to be quite surprised to see me out.
+Mitchells, and they pretended to be quite surprised to see me out.
 
-    I knew their spite: at one [[Time|time]] they could not be civil to me, but
+I knew their spite: at one [[Time|time]] they could not be civil to me, but
 
-    now they are all [[Friendship|friendship]]; but I am not such a [[Fool|fool]] as to be
+now they are all [[Friendship|friendship]]; but I am not such a [[Fool|fool]] as to be
 
-    taken in by them. You know I have a pretty good spirit of my own.
+taken in by them. You know I have a pretty good spirit of my own.
 
-    Anne Mitchell had tried to put on a turban like mine, as I wore it
+Anne Mitchell had tried to put on a turban like mine, as I wore it
 
-    the week before at the Concert, but made wretched work of it—it
+the week before at the Concert, but made wretched work of it—it
 
-    happened to become my odd face, I believe, at least Tilney told me
+happened to become my odd face, I believe, at least Tilney told me
 
-    so at the [[Time|time]], and said every eye was upon me; but he is the last
+so at the [[Time|time]], and said every eye was upon me; but he is the last
 
-    man whose word I would take. I wear nothing but purple now: I know
+man whose word I would take. I wear nothing but purple now: I know
 
-    I look hideous in it, but no matter—it is your dear brother’s
+I look hideous in it, but no matter—it is your dear brother’s
 
-    favourite colour. Lose no [[Time|time]], my dearest, sweetest Catherine, in
+favourite colour. Lose no [[Time|time]], my dearest, sweetest Catherine, in
 
-    writing to him and to me,
+writing to him and to me,
 
 
 
@@ -15986,7 +15986,7 @@ parental tyranny, or reward filial disobedience.
 
 
 
- A NOTE ON THE TEXT
+A NOTE ON THE TEXT
 
 
 
@@ -16010,11 +16010,11 @@ have been largely brought into conformity with modern British usage.
 <span class="atom-split" data-atom="chapter_01" data-title="Northanger Abbey — Chapter 31" data-chapter="Chapter 01" data-kind="chapter"></span>
 
 
- CHAPTER 31
+CHAPTER 31
 
 
 
- A NOTE ON THE TEXT
+A NOTE ON THE TEXT
 
 
 
@@ -16802,7 +16802,7 @@ respectable family in Gloucestershire.
 
 
 
- [1] Vide a letter from Mr. Richardson, No. 97, Vol. ii, Rambler.
+[1] Vide a letter from Mr. Richardson, No. 97, Vol. ii, Rambler.
 
 
 
@@ -19162,123 +19162,123 @@ _Bath, April_
 
 My dearest Catherine,
 
-    I received your two kind letters with the greatest delight, and
+I received your two kind letters with the greatest delight, and
 
-    have a thousand apologies to make for not answering them sooner. I
+have a thousand apologies to make for not answering them sooner. I
 
-    really am quite ashamed of my idleness; but in this horrid place
+really am quite ashamed of my idleness; but in this horrid place
 
-    one can find [[Time|time]] for nothing. I have had my pen in my hand to
+one can find [[Time|time]] for nothing. I have had my pen in my hand to
 
-    begin a letter to you almost every day since you left Bath, but
+begin a letter to you almost every day since you left Bath, but
 
-    have always been prevented by some silly trifler or other. Pray
+have always been prevented by some silly trifler or other. Pray
 
-    write to me soon, and direct to my own [[Home|home]]. Thank God, we leave
+write to me soon, and direct to my own [[Home|home]]. Thank God, we leave
 
-    this vile place to-morrow. Since you went away, I have had no
+this vile place to-morrow. Since you went away, I have had no
 
-    pleasure in it—the [[Dust|dust]] is beyond anything; and everybody one cares
+pleasure in it—the [[Dust|dust]] is beyond anything; and everybody one cares
 
-    for is gone. I believe if I could see you I should not mind the
+for is gone. I believe if I could see you I should not mind the
 
-    rest, for you are dearer to me than anybody can conceive. I am
+rest, for you are dearer to me than anybody can conceive. I am
 
-    quite uneasy about your dear brother, not having heard from him
+quite uneasy about your dear brother, not having heard from him
 
-    since he went to [[Oxford]]; and am fearful of some misunderstanding.
+since he went to [[Oxford]]; and am fearful of some misunderstanding.
 
-    Your kind offices will set all right: he is the only man I ever did
+Your kind offices will set all right: he is the only man I ever did
 
-    or could [[Love|love]], and I trust you will convince him of it. The [[Spring|spring]]
+or could [[Love|love]], and I trust you will convince him of it. The [[Spring|spring]]
 
-    fashions are partly down; and the hats the most frightful you can
+fashions are partly down; and the hats the most frightful you can
 
-    imagine. I [[Hope|hope]] you spend your [[Time|time]] pleasantly, but am afraid you
+imagine. I [[Hope|hope]] you spend your [[Time|time]] pleasantly, but am afraid you
 
-    never think of me. I will not say all that I could of the family
+never think of me. I will not say all that I could of the family
 
-    you are with, because I would not be ungenerous, or set you against
+you are with, because I would not be ungenerous, or set you against
 
-    those you esteem; but it is very difficult to know whom to trust,
+those you esteem; but it is very difficult to know whom to trust,
 
-    and young men never know their minds two days together. I rejoice
+and young men never know their minds two days together. I rejoice
 
-    to say that the young man whom, of all others, I particularly
+to say that the young man whom, of all others, I particularly
 
-    abhor, has left Bath. You will know, from this description, I must
+abhor, has left Bath. You will know, from this description, I must
 
-    mean Captain Tilney, who, as you may remember, was amazingly
+mean Captain Tilney, who, as you may remember, was amazingly
 
-    disposed to follow and tease me, before you went away. Afterwards
+disposed to follow and tease me, before you went away. Afterwards
 
-    he got worse, and became quite my [[Shadow|shadow]]. Many girls might have
+he got worse, and became quite my [[Shadow|shadow]]. Many girls might have
 
-    been taken in, for never were such attentions; but I knew the
+been taken in, for never were such attentions; but I knew the
 
-    fickle sex too [[Well|well]]. He went away to his regiment two days ago, and
+fickle sex too [[Well|well]]. He went away to his regiment two days ago, and
 
-    I trust I shall never be plagued with him again. He is the greatest
+I trust I shall never be plagued with him again. He is the greatest
 
-    coxcomb I ever saw, and amazingly disagreeable. The last two days
+coxcomb I ever saw, and amazingly disagreeable. The last two days
 
-    he was always by the side of Charlotte Davis: I pitied his taste,
+he was always by the side of Charlotte Davis: I pitied his taste,
 
-    but took no notice of him. The last [[Time|time]] we met was in Bath Street,
+but took no notice of him. The last [[Time|time]] we met was in Bath Street,
 
-    and I turned directly into a shop that he might not speak to me; I
+and I turned directly into a shop that he might not speak to me; I
 
-    would not even look at him. He went into the pump-room afterwards;
+would not even look at him. He went into the pump-room afterwards;
 
-    but I would not have followed him for all the world. Such a
+but I would not have followed him for all the world. Such a
 
-    contrast between him and your brother! pray send me some news of
+contrast between him and your brother! pray send me some news of
 
-    the latter—I am quite unhappy about him; he seemed so uncomfortable
+the latter—I am quite unhappy about him; he seemed so uncomfortable
 
-    when he went away, with a cold, or something that affected his
+when he went away, with a cold, or something that affected his
 
-    spirits. I would write to him myself, but have mislaid his
+spirits. I would write to him myself, but have mislaid his
 
-    direction; and, as I hinted above, am afraid he took something in
+direction; and, as I hinted above, am afraid he took something in
 
-    my conduct amiss. Pray explain everything to his satisfaction; or,
+my conduct amiss. Pray explain everything to his satisfaction; or,
 
-    if he still harbours any [[Doubt|doubt]], a line from himself to me, or a
+if he still harbours any [[Doubt|doubt]], a line from himself to me, or a
 
-    call at Putney when next in town, might set all to rights. I have
+call at Putney when next in town, might set all to rights. I have
 
-    not been to the Rooms this age, nor to the play, except going in
+not been to the Rooms this age, nor to the play, except going in
 
-    last [[Night|night]] with the Hodges, for a frolic, at half price: they
+last [[Night|night]] with the Hodges, for a frolic, at half price: they
 
-    teased me into it; and I was determined they should not say I shut
+teased me into it; and I was determined they should not say I shut
 
-    myself up because Tilney was gone. We happened to sit by the
+myself up because Tilney was gone. We happened to sit by the
 
-    Mitchells, and they pretended to be quite surprised to see me out.
+Mitchells, and they pretended to be quite surprised to see me out.
 
-    I knew their spite: at one [[Time|time]] they could not be civil to me, but
+I knew their spite: at one [[Time|time]] they could not be civil to me, but
 
-    now they are all [[Friendship|friendship]]; but I am not such a [[Fool|fool]] as to be
+now they are all [[Friendship|friendship]]; but I am not such a [[Fool|fool]] as to be
 
-    taken in by them. You know I have a pretty good spirit of my own.
+taken in by them. You know I have a pretty good spirit of my own.
 
-    Anne Mitchell had tried to put on a turban like mine, as I wore it
+Anne Mitchell had tried to put on a turban like mine, as I wore it
 
-    the week before at the Concert, but made wretched work of it—it
+the week before at the Concert, but made wretched work of it—it
 
-    happened to become my odd face, I believe, at least Tilney told me
+happened to become my odd face, I believe, at least Tilney told me
 
-    so at the [[Time|time]], and said every eye was upon me; but he is the last
+so at the [[Time|time]], and said every eye was upon me; but he is the last
 
-    man whose word I would take. I wear nothing but purple now: I know
+man whose word I would take. I wear nothing but purple now: I know
 
-    I look hideous in it, but no matter—it is your dear brother’s
+I look hideous in it, but no matter—it is your dear brother’s
 
-    favourite colour. Lose no [[Time|time]], my dearest, sweetest Catherine, in
+favourite colour. Lose no [[Time|time]], my dearest, sweetest Catherine, in
 
-    writing to him and to me,
+writing to him and to me,
 
 
 
@@ -19660,7 +19660,7 @@ parental tyranny, or reward filial disobedience.
 
 
 
- A NOTE ON THE TEXT
+A NOTE ON THE TEXT
 
 
 
@@ -29286,53 +29286,53 @@ this purpose:
 
 “Dear Catherine,
 
-    “Though, God knows, with little inclination for writing, I think it
+“Though, God knows, with little inclination for writing, I think it
 
-    my duty to tell you that everything is at an end between Miss
+my duty to tell you that everything is at an end between Miss
 
-    Thorpe and me. I left her and Bath yesterday, never to see either
+Thorpe and me. I left her and Bath yesterday, never to see either
 
-    again. I shall not enter into particulars—they would only [[Pain|pain]] you
+again. I shall not enter into particulars—they would only [[Pain|pain]] you
 
-    more. You will soon hear enough from another quarter to know where
+more. You will soon hear enough from another quarter to know where
 
-    lies the blame; and I [[Hope|hope]] will acquit your brother of everything
+lies the blame; and I [[Hope|hope]] will acquit your brother of everything
 
-    but the folly of too easily thinking his affection returned. Thank
+but the folly of too easily thinking his affection returned. Thank
 
-    God! i am undeceived in [[Time|time]]! but it is a heavy blow! after my
+God! i am undeceived in [[Time|time]]! but it is a heavy blow! after my
 
-    father’s consent had been so kindly given—but no more of this. She
+father’s consent had been so kindly given—but no more of this. She
 
-    has made me miserable forever! let me soon hear from you, dear
+has made me miserable forever! let me soon hear from you, dear
 
-    Catherine; you are my only friend; _your_ [[Love|love]] I do build upon. I
+Catherine; you are my only friend; _your_ [[Love|love]] I do build upon. I
 
-    wish your visit at Northanger may be over before Captain Tilney
+wish your visit at Northanger may be over before Captain Tilney
 
-    makes his engagement known, or you will be uncomfortably
+makes his engagement known, or you will be uncomfortably
 
-    circumstanced. Poor Thorpe is in town: I dread the sight of him;
+circumstanced. Poor Thorpe is in town: I dread the sight of him;
 
-    his honest heart would feel so much. I have written to him and my
+his honest heart would feel so much. I have written to him and my
 
-    father. Her duplicity hurts me more than all; till the very last,
+father. Her duplicity hurts me more than all; till the very last,
 
-    if I reasoned with her, she declared herself as much attached to me
+if I reasoned with her, she declared herself as much attached to me
 
-    as ever, and laughed at my fears. I am ashamed to think how long I
+as ever, and laughed at my fears. I am ashamed to think how long I
 
-    bore with it; but if ever man had reason to believe himself loved,
+bore with it; but if ever man had reason to believe himself loved,
 
-    I was that man. I cannot understand even now what she would be at,
+I was that man. I cannot understand even now what she would be at,
 
-    for there could be no need of my being played off to make her
+for there could be no need of my being played off to make her
 
-    secure of Tilney. We parted at last by mutual consent—happy for me
+secure of Tilney. We parted at last by mutual consent—happy for me
 
-    had we never met! i can never expect to know such another woman!
+had we never met! i can never expect to know such another woman!
 
-    Dearest Catherine, beware how you give your heart.
+Dearest Catherine, beware how you give your heart.
 
 
 

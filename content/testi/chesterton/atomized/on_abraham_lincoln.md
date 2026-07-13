@@ -23,7 +23,7 @@ XXXIX.  On [[Abraham Lincoln]]
 IT is recognized that [[Lincoln]] emerged from the lower grades of law
 and politics through an atmosphere in which the lowest tricks were
 regarded as only tricks of the trade.  That queer, shabby figure,
-the `rail-splitter', with his stove-pipe hat and clumsy cotton umbrella,
+the ‘rail-splitter', with his stove-pipe hat and clumsy cotton umbrella,
 did undoubtedly emerge among such tricksters as being by far
 the most truthful.  But in the world where he began he could only
 have been called the least tricky.  It is to his credit that he shed
@@ -98,7 +98,7 @@ But, though Lincoln was never an habitual drunkard like Grant,
 he had about him in all his early days the same savour of unsuccess.
 The philanthropists and social reformers who now worship his name
 would have regarded him as belonging to the type which they
-think `unemployable'; a scallywag, a drifter and dreamer,
+think ‘unemployable'; a scallywag, a drifter and dreamer,
 a man who would come to no good.  His casualness, his coarseness,
 his habit of taking up this and that and not making it pay,
 his changes of trade and dwelling place--all these would have
@@ -162,7 +162,7 @@ He declares passionately that [[Lincoln]] was affected by Progress.
 He affirms, trembling with indignation, that [[Lincoln]] was controlled
 by the spirit of the age.  Most extraordinary of all, he actually quotes
 in favour of [[Lincoln]] something that [[Lincoln]] said against himself:
-when he modestly observed that `he had not controlled events,
+when he modestly observed that ‘he had not controlled events,
 but been controlled by them'.  It is perfectly possible that Lincoln
 said this, in a humorous sod of humility and self-disparagement;
 but I do not see why, because he disparaged himself, his almost
@@ -178,7 +178,7 @@ The next point that I should like to have cleared up is this.
 The critic is very much horrified at my suggesting that Lincoln was
 any more tolerant or liberal than the critic himself on the subject
 of strong drink.  He owns that Lincoln once lifted a whisky
-barrel and took what he (the critic) delicately calls `a sip'.
+barrel and took what he (the critic) delicately calls ‘a sip'.
 Unless I am much mistaken in Abe, he had rather too good a sense
 of [[Humour|humour]] to take a sip.  But that is a trivial matter, and I
 will leave on one side all charges of intemperance against Abe;
@@ -201,12 +201,12 @@ Nor did [[Abraham Lincoln]].  Does the critic deny the words of
 compare [[Well|well]] with other people in many or most important respects?
 If the critic is shocked at my words, he must be much more shocked
 at [[Lincoln]]'s. I shudder to think what he would say of some remarks
-of my friend Mr. Christopher Hollis, in a paragraph beginning `The
+of my friend Mr. Christopher Hollis, in a paragraph beginning ‘The
 fascinating question of when General Grant was drunk and when sober',
 and proceeding to say that he was probably sober at Appomattox,
 but almost certainly drunk at Shiloh; that he afterwards,
 on reaching the Presidency, took some sort of teetotal pledge;
-and concluding with the words, `It is enough to add that he was
+and concluding with the words, ‘It is enough to add that he was
 a very good General and a very bad President.'
 
 Such playfulness, however, is not for the Baptist critic, nor for me when
@@ -231,10 +231,10 @@ But the point of the thing is this:  that I thought it was a compliment
 to consider [[Lincoln]] unworldly; but the critic, in his heart,
 really thinks it a compliment to consider him worldly.  That is where
 there is a real difference between his moral [[philosophy]] and mine.
-If the words `worldly' and `unworldly' do not convey the same
+If the words ‘worldly' and ‘unworldly' do not convey the same
 meaning to him as to me, or if they seem far-fetched in relation
-to what I said, I will willingly substitute the words `success'
-and `failure'. When I say that [[Lincoln]] was a man who easily might have
+to what I said, I will willingly substitute the words ‘success'
+and ‘failure'. When I say that [[Lincoln]] was a man who easily might have
 been a failure, very nearly was a failure, and in some ways actually
 remains a failure, I mean it as in the case of poets or martyrs.
 But the critic cannot bear to think that his [[Hero|hero]] was not a [[success]],
@@ -280,7 +280,7 @@ XXXIX.  On [[Abraham Lincoln]]
 IT is recognized that [[Lincoln]] emerged from the lower grades of law
 and politics through an atmosphere in which the lowest tricks were
 regarded as only tricks of the trade.  That queer, shabby figure,
-the `rail-splitter', with his stove-pipe hat and clumsy cotton umbrella,
+the ‘rail-splitter', with his stove-pipe hat and clumsy cotton umbrella,
 did undoubtedly emerge among such tricksters as being by far
 the most truthful.  But in the world where he began he could only
 have been called the least tricky.  It is to his credit that he shed
@@ -355,7 +355,7 @@ But, though Lincoln was never an habitual drunkard like Grant,
 he had about him in all his early days the same savour of unsuccess.
 The philanthropists and social reformers who now worship his name
 would have regarded him as belonging to the type which they
-think `unemployable'; a scallywag, a drifter and dreamer,
+think ‘unemployable'; a scallywag, a drifter and dreamer,
 a man who would come to no good.  His casualness, his coarseness,
 his habit of taking up this and that and not making it pay,
 his changes of trade and dwelling place--all these would have
@@ -441,7 +441,7 @@ He declares passionately that [[Lincoln]] was affected by Progress.
 He affirms, trembling with indignation, that [[Lincoln]] was controlled
 by the spirit of the age.  Most extraordinary of all, he actually quotes
 in favour of [[Lincoln]] something that [[Lincoln]] said against himself:
-when he modestly observed that `he had not controlled events,
+when he modestly observed that ‘he had not controlled events,
 but been controlled by them'.  It is perfectly possible that Lincoln
 said this, in a humorous sod of humility and self-disparagement;
 but I do not see why, because he disparaged himself, his almost
@@ -475,7 +475,7 @@ The next point that I should like to have cleared up is this.
 The critic is very much horrified at my suggesting that Lincoln was
 any more tolerant or liberal than the critic himself on the subject
 of strong drink.  He owns that Lincoln once lifted a whisky
-barrel and took what he (the critic) delicately calls `a sip'.
+barrel and took what he (the critic) delicately calls ‘a sip'.
 Unless I am much mistaken in Abe, he had rather too good a sense
 of [[Humour|humour]] to take a sip.  But that is a trivial matter, and I
 will leave on one side all charges of intemperance against Abe;
@@ -498,12 +498,12 @@ Nor did [[Abraham Lincoln]].  Does the critic deny the words of
 compare [[Well|well]] with other people in many or most important respects?
 If the critic is shocked at my words, he must be much more shocked
 at [[Lincoln]]'s. I shudder to think what he would say of some remarks
-of my friend Mr. Christopher Hollis, in a paragraph beginning `The
+of my friend Mr. Christopher Hollis, in a paragraph beginning ‘The
 fascinating question of when General Grant was drunk and when sober',
 and proceeding to say that he was probably sober at Appomattox,
 but almost certainly drunk at Shiloh; that he afterwards,
 on reaching the Presidency, took some sort of teetotal pledge;
-and concluding with the words, `It is enough to add that he was
+and concluding with the words, ‘It is enough to add that he was
 a very good General and a very bad President.'
 
 Such playfulness, however, is not for the Baptist critic, nor for me when
@@ -528,10 +528,10 @@ But the point of the thing is this:  that I thought it was a compliment
 to consider [[Lincoln]] unworldly; but the critic, in his heart,
 really thinks it a compliment to consider him worldly.  That is where
 there is a real difference between his moral [[philosophy]] and mine.
-If the words `worldly' and `unworldly' do not convey the same
+If the words ‘worldly' and ‘unworldly' do not convey the same
 meaning to him as to me, or if they seem far-fetched in relation
-to what I said, I will willingly substitute the words `success'
-and `failure'. When I say that [[Lincoln]] was a man who easily might have
+to what I said, I will willingly substitute the words ‘success'
+and ‘failure'. When I say that [[Lincoln]] was a man who easily might have
 been a failure, very nearly was a failure, and in some ways actually
 remains a failure, I mean it as in the case of poets or martyrs.
 But the critic cannot bear to think that his [[Hero|hero]] was not a [[success]],

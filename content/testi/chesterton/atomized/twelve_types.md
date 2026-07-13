@@ -996,13 +996,13 @@ in a [[spring]] morning when all the limbs are swinging and all the [[Blood|bloo
 
 alive in the [[Body|body]], the lips may be caught repeating:
 
-    'Oh, there's not a joy the world can give like that it takes away,
+'Oh, there's not a joy the world can give like that it takes away,
 
-    When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
+When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
 
-    'Tis not upon the cheek of youth the blush that fades so fast,
+'Tis not upon the cheek of youth the blush that fades so fast,
 
-    But the tender bloom of heart is gone ere youth itself be past.'
+But the tender bloom of heart is gone ere youth itself be past.'
 
 That automatic recitation is the answer to the whole pessimism of Byron.
 
@@ -1070,7 +1070,7 @@ at least a [[Fool|fool]] could not be a poet. If we take, for the sake of
 
 example, such a line as Pope's
 
-    'Damn with faint praise, assent with civil leer,'
+'Damn with faint praise, assent with civil leer,'
 
 the test is comparatively simple. A great poet would not have written
 
@@ -1080,7 +1080,7 @@ Supposing that a [[Lyric|lyric]] poet of the new school really had to deal with
 
 such an idea as that expressed in Pope's line about Man:
 
-    'A being darkly wise and rudely great.'
+'A being darkly wise and rudely great.'
 
 Is it really so certain that he would go deeper into the matter than
 
@@ -1090,29 +1090,29 @@ really be any wiser or weirder or more imaginative or more profound. The
 
 one thing that he would really be, would be longer. Instead of writing
 
-    'A being darkly wise and rudely great,'
+'A being darkly wise and rudely great,'
 
 the contemporary poet, in his elaborately ornamented book of verses,
 
 would produce something like the following:--
 
-    'A creature
+'A creature
 
-    Of feature
+Of feature
 
-    More dark, more dark, more dark than skies,
+More dark, more dark, more dark than skies,
 
-    Yea, darkly wise, yea, darkly wise:
+Yea, darkly wise, yea, darkly wise:
 
-    Darkly wise as a formless fate
+Darkly wise as a formless fate
 
-    And if he be great
+And if he be great
 
-    If he be great, then rudely great,
+If he be great, then rudely great,
 
-    Rudely great as a plough that plies,
+Rudely great as a plough that plies,
 
-    And darkly wise, and darkly wise.'
+And darkly wise, and darkly wise.'
 
 Have we really learnt to think more broadly? Or have we only learnt to
 
@@ -1276,11 +1276,11 @@ splendid and spirited account of the insane valour and inspired cunning
 
 of the
 
-    'daring pilot in extremity,'
+'daring pilot in extremity,'
 
 who was more untrustworthy in calm than in [[Storm|storm]], and
 
-    'Steered too near the rocks to boast his wit.'
+'Steered too near the rocks to boast his wit.'
 
 The whole is, so far as it goes, a sound and picturesque version of the
 
@@ -1374,15 +1374,15 @@ said, go quietly and read Pope's 'Atticus,' they would see how a great
 
 satirist approaches a great enemy:
 
-    'Peace to all such! But were there one whose fires
+'Peace to all such! But were there one whose fires
 
-    True genius kindles, and fair fame inspires,
+True genius kindles, and fair fame inspires,
 
-    Blest with each talent, and each art to please,
+Blest with each talent, and each art to please,
 
-    And born to write, converse, and live with ease.
+And born to write, converse, and live with ease.
 
-    Should such a man--'
+Should such a man--'
 
 And then follows the torrent of that terrible criticism. Pope was not
 
@@ -1400,21 +1400,21 @@ everlasting colours he painted the picture of the evil of the literary
 
 temperament:
 
-    'Bear like the Turk, no brother near the throne,
+'Bear like the Turk, no brother near the throne,
 
-    View him with scornful, yet with jealous eyes,
+View him with scornful, yet with jealous eyes,
 
-    And hate for arts that caused himself to rise.
+And hate for arts that caused himself to rise.
 
-           *       *       *       *       *
+*       *       *       *       *
 
-    Like Cato give his little Senate laws,
+Like Cato give his little Senate laws,
 
-    And sit attentive to his own applause.
+And sit attentive to his own applause.
 
-    While wits and templars every sentence raise,
+While wits and templars every sentence raise,
 
-    And [[Wonder|wonder]] with a foolish face of praise.'
+And [[Wonder|wonder]] with a foolish face of praise.'
 
 This is the kind of thing which really goes to the mark at which it
 
@@ -1468,13 +1468,13 @@ other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-    'A book of verse beneath the bough
+'A book of verse beneath the bough
 
-    A loaf of bread, a jug of wine and thou
+A loaf of bread, a jug of wine and thou
 
-    Sitting beside me in the wilderness
+Sitting beside me in the wilderness
 
-    O wilderness were Paradise enow.'
+O wilderness were Paradise enow.'
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -1486,13 +1486,13 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-    'From quiet [[Home|home]] and first beginning
+'From quiet [[Home|home]] and first beginning
 
-      Out to the undiscovered ends--
+Out to the undiscovered ends--
 
-    There's nothing worth the wear of winning
+There's nothing worth the wear of winning
 
-      But laughter and the [[Love|love]] of friends.'
+But laughter and the [[Love|love]] of friends.'
 
 Here we have a perfect example of the main important fact, that all true
 
@@ -2860,7 +2860,7 @@ denies any such duty at the very start, and regards man as an animal
 
 who has preferences, as a bird has feathers.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 Thus it was with Carlyle: he startled men by attacking not arguments but
 
@@ -3244,13 +3244,13 @@ sense. It was born of an almost babyish receptiveness; it was the work
 
 of men who had eyes to [[Wonder|wonder]] and men who had ears to hear.
 
-    '[[King]] Solomon brought merchant men
+'[[King]] Solomon brought merchant men
 
-      Because of his [[Desire|desire]]
+Because of his [[Desire|desire]]
 
-    With peacocks, apes and ivory,
+With peacocks, apes and ivory,
 
-      From Tarshish unto Tyre.'
+From Tarshish unto Tyre.'
 
 But this proceeding was not a part of the wisdom of Solomon; it was a
 
@@ -3432,13 +3432,13 @@ the bovine stupidity and bovine fury of this world is accurately summed
 
 up in the celebrated verse of Mr Edward Lear:
 
-    'There was an old man who said, "How
+'There was an old man who said, "How
 
-    Shall I flee from this terrible cow?
+Shall I flee from this terrible cow?
 
-    I will sit on a stile and continue to smile,
+I will sit on a stile and continue to smile,
 
-    Till I soften the heart of this cow."'
+Till I soften the heart of this cow."'
 
 Their confidence in human [[Nature|nature]] is really honourable and magnificent;
 
@@ -4498,7 +4498,7 @@ End of the Project Gutenberg EBook of Twelve Types, by G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.net/1/2/4/9/12491/
+http://www.gutenberg.net/1/2/4/9/12491/
 
 Produced by Robert Shimmin, Stephen [[Hope]] and the Online Distributed
 
@@ -4754,53 +4754,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -4994,11 +4994,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -5092,7 +5092,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -5112,11 +5112,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
 
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -5130,20 +5130,20 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
 
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
 
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 
 
-<span class="atom-split" data-atom="story_01_charlotte_bronte" data-title="Twelve Types — CHARLOTTE BRONTE" data-chapter="Story 01 CHARLOTTE BRONTE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_charlotte_bronte" data-title="Twelve Types — CHARLOTTE BRONTE" data-chapter="CHARLOTTE BRONTE" data-kind="story"></span>
 
 
 CHARLOTTE BRONTE
@@ -5437,7 +5437,7 @@ these houses stands in the centre of the world. There is no single
 
 
 
-<span class="atom-split" data-atom="story_03_the_optimism_of_byron" data-title="Twelve Types — THE OPTIMISM OF BYRON" data-chapter="Story 03 THE OPTIMISM OF BYRON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_optimism_of_byron" data-title="Twelve Types — THE OPTIMISM OF BYRON" data-chapter="THE OPTIMISM OF BYRON" data-kind="story"></span>
 
 
 THE OPTIMISM OF BYRON
@@ -5716,13 +5716,13 @@ in a [[spring]] morning when all the limbs are swinging and all the [[Blood|bloo
 
 alive in the [[Body|body]], the lips may be caught repeating:
 
-    'Oh, there's not a joy the world can give like that it takes away,
+'Oh, there's not a joy the world can give like that it takes away,
 
-    When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
+When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
 
-    'Tis not upon the cheek of youth the blush that fades so fast,
+'Tis not upon the cheek of youth the blush that fades so fast,
 
-    But the tender bloom of heart is gone ere youth itself be past.'
+But the tender bloom of heart is gone ere youth itself be past.'
 
 That automatic recitation is the answer to the whole pessimism of Byron.
 
@@ -5753,7 +5753,7 @@ of the enemy.
 
 
 
-<span class="atom-split" data-atom="story_06_rostand" data-title="Twelve Types — ROSTAND" data-chapter="Story 06 ROSTAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_rostand" data-title="Twelve Types — ROSTAND" data-chapter="ROSTAND" data-kind="story"></span>
 
 
 ROSTAND
@@ -6051,7 +6051,7 @@ and in a sense most sacred and tremendous, 'Vive l'Empereur.'
 
 
 
-<span class="atom-split" data-atom="story_10_savonarola" data-title="Twelve Types — SAVONAROLA" data-chapter="Story 10 SAVONAROLA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_savonarola" data-title="Twelve Types — SAVONAROLA" data-chapter="SAVONAROLA" data-kind="story"></span>
 
 
 SAVONAROLA
@@ -6309,7 +6309,7 @@ transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.
 
 
 
-<span class="atom-split" data-atom="story_02_william_morris_and_his_school--part_01" data-title="Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 1)" data-chapter="Story 02 WILLIAM MORRIS AND HIS SCHOOL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_william_morris_and_his_school--part_01" data-title="Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 1)" data-chapter="WILLIAM MORRIS AND HIS SCHOOL" data-kind="excerpt"></span>
 
 
 WILLIAM MORRIS AND HIS SCHOOL
@@ -6481,7 +6481,7 @@ family in England has had its taste cunningly and treacherously
 
 
 
-<span class="atom-split" data-atom="story_02_william_morris_and_his_school--part_02" data-title="Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 2)" data-chapter="Story 02 WILLIAM MORRIS AND HIS SCHOOL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_william_morris_and_his_school--part_02" data-title="Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 2)" data-chapter="WILLIAM MORRIS AND HIS SCHOOL" data-kind="excerpt"></span>
 
 
 improved, and if we look back at the early Victorian drawing-rooms it is
@@ -6667,7 +6667,7 @@ we now live is, in spite of all the pessimists, not of the greyness of
 
 
 
-<span class="atom-split" data-atom="story_04_pope_and_the_art_of_satire_satire--part_01" data-title="Twelve Types — POPE AND THE ART OF SATIRE (part 1)" data-chapter="Story 04 POPE AND THE ART OF Satire SATIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pope_and_the_art_of_satire_satire--part_01" data-title="Twelve Types — POPE AND THE ART OF SATIRE (part 1)" data-chapter="POPE AND THE ART OF Satire SATIRE" data-kind="excerpt"></span>
 
 
 POPE AND THE ART OF [[Satire|SATIRE]]
@@ -6710,7 +6710,7 @@ at least a [[Fool|fool]] could not be a poet. If we take, for the sake of
 
 example, such a line as Pope's
 
-    'Damn with faint praise, assent with civil leer,'
+'Damn with faint praise, assent with civil leer,'
 
 the test is comparatively simple. A great poet would not have written
 
@@ -6720,7 +6720,7 @@ Supposing that a [[Lyric|lyric]] poet of the new school really had to deal with
 
 such an idea as that expressed in Pope's line about Man:
 
-    'A being darkly wise and rudely great.'
+'A being darkly wise and rudely great.'
 
 Is it really so certain that he would go deeper into the matter than
 
@@ -6730,29 +6730,29 @@ really be any wiser or weirder or more imaginative or more profound. The
 
 one thing that he would really be, would be longer. Instead of writing
 
-    'A being darkly wise and rudely great,'
+'A being darkly wise and rudely great,'
 
 the contemporary poet, in his elaborately ornamented book of verses,
 
 would produce something like the following:--
 
-    'A creature
+'A creature
 
-    Of feature
+Of feature
 
-    More dark, more dark, more dark than skies,
+More dark, more dark, more dark than skies,
 
-    Yea, darkly wise, yea, darkly wise:
+Yea, darkly wise, yea, darkly wise:
 
-    Darkly wise as a formless fate
+Darkly wise as a formless fate
 
-    And if he be great
+And if he be great
 
-    If he be great, then rudely great,
+If he be great, then rudely great,
 
-    Rudely great as a plough that plies,
+Rudely great as a plough that plies,
 
-    And darkly wise, and darkly wise.'
+And darkly wise, and darkly wise.'
 
 Have we really learnt to think more broadly? Or have we only learnt to
 
@@ -6855,7 +6855,7 @@ idea fit for the philosophers of Bedlam) that we can best trample on a
 
 
 
-<span class="atom-split" data-atom="story_04_pope_and_the_art_of_satire_satire--part_02" data-title="Twelve Types — POPE AND THE ART OF SATIRE (part 2)" data-chapter="Story 04 POPE AND THE ART OF Satire SATIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pope_and_the_art_of_satire_satire--part_02" data-title="Twelve Types — POPE AND THE ART OF SATIRE (part 2)" data-chapter="POPE AND THE ART OF Satire SATIRE" data-kind="excerpt"></span>
 
 
 people by ignoring all the particular merits which give them a chance
@@ -6922,11 +6922,11 @@ splendid and spirited account of the insane valour and inspired cunning
 
 of the
 
-    'daring pilot in extremity,'
+'daring pilot in extremity,'
 
 who was more untrustworthy in calm than in [[Storm|storm]], and
 
-    'Steered too near the rocks to boast his wit.'
+'Steered too near the rocks to boast his wit.'
 
 The whole is, so far as it goes, a sound and picturesque version of the
 
@@ -7020,15 +7020,15 @@ said, go quietly and read Pope's 'Atticus,' they would see how a great
 
 satirist approaches a great enemy:
 
-    'Peace to all such! But were there one whose fires
+'Peace to all such! But were there one whose fires
 
-    True genius kindles, and fair fame inspires,
+True genius kindles, and fair fame inspires,
 
-    Blest with each talent, and each art to please,
+Blest with each talent, and each art to please,
 
-    And born to write, converse, and live with ease.
+And born to write, converse, and live with ease.
 
-    Should such a man--'
+Should such a man--'
 
 And then follows the torrent of that terrible criticism. Pope was not
 
@@ -7046,21 +7046,21 @@ everlasting colours he painted the picture of the evil of the literary
 
 temperament:
 
-    'Bear like the Turk, no brother near the throne,
+'Bear like the Turk, no brother near the throne,
 
-    View him with scornful, yet with jealous eyes,
+View him with scornful, yet with jealous eyes,
 
-    And hate for arts that caused himself to rise.
+And hate for arts that caused himself to rise.
 
-           *       *       *       *       *
+*       *       *       *       *
 
-    Like Cato give his little Senate laws,
+Like Cato give his little Senate laws,
 
-    And sit attentive to his own applause.
+And sit attentive to his own applause.
 
-    While wits and templars every sentence raise,
+While wits and templars every sentence raise,
 
-    And [[Wonder|wonder]] with a foolish face of praise.'
+And [[Wonder|wonder]] with a foolish face of praise.'
 
 This is the kind of thing which really goes to the mark at which it
 
@@ -7145,11 +7145,11 @@ splendido e vivace ritratto del valore folle e dell'astuzia ispirata
 
 dell'
 
-    'ardito pilota nell'estremità,'
+'ardito pilota nell'estremità,'
 
 che era più infido nella bonaccia che nella [[Storm|tempesta]], e
 
-    'Sfiorò troppo gli scogli per vantare il suo ingegno.'
+'Sfiorò troppo gli scogli per vantare il suo ingegno.'
 
 Il tutto è, per quanto vale, una versione fondata e pittoresca del
 
@@ -7243,15 +7243,15 @@ detto, andare tranquilli a leggere l''Attico' di Pope, vedrebbero come un grande
 
 satirico si avvicina a un grande nemico:
 
-    'Pace a tutti costoro! Ma se vi fosse un uomo i cui fuochi
+'Pace a tutti costoro! Ma se vi fosse un uomo i cui fuochi
 
-    vero genio accende, e bella fama ispira,
+vero genio accende, e bella fama ispira,
 
-    benedetto d'ogni talento, e d'ogni arte del piacere,
+benedetto d'ogni talento, e d'ogni arte del piacere,
 
-    e nato per scrivere, conversare e vivere con agio.
+e nato per scrivere, conversare e vivere con agio.
 
-    Un uomo simile dovrebbe—'
+Un uomo simile dovrebbe—'
 
 E poi segue il torrente di quella terribile critica. Pope non era
 
@@ -7269,21 +7269,21 @@ eterni colori dipinse il quadro del male del temperamento
 
 letterario:
 
-    'Tollerare, come il Turco, nessun fratello presso il trono,
+'Tollerare, come il Turco, nessun fratello presso il trono,
 
-    guardarlo con occhi sprezzanti, eppure gelosi,
+guardarlo con occhi sprezzanti, eppure gelosi,
 
-    e odiare per le arti che innalzarono lui stesso.
+e odiare per le arti che innalzarono lui stesso.
 
-           *       *       *       *       *
+*       *       *       *       *
 
-    Come Catone dettare leggi al suo piccolo Senato,
+Come Catone dettare leggi al suo piccolo Senato,
 
-    e sedere attento al proprio applauso.
+e sedere attento al proprio applauso.
 
-    Mentre gli arguti e i templari esaltano ogni frase,
+Mentre gli arguti e i templari esaltano ogni frase,
 
-    e si [[Wonder|meravigliano]] con sciocca faccia di lode.'
+e si [[Wonder|meravigliano]] con sciocca faccia di lode.'
 
 Questo è il genere di cosa che davvero colpisce il segno a cui
 
@@ -7303,7 +7303,7 @@ meriti, non possiamo nemmeno fargli del male.
 
 
 
-<span class="atom-split" data-atom="story_05_francis--part_01" data-title="Twelve Types — FRANCIS (part 1)" data-chapter="Story 05 FRANCIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_francis--part_01" data-title="Twelve Types — FRANCIS (part 1)" data-chapter="FRANCIS" data-kind="excerpt"></span>
 
 
 FRANCIS
@@ -7342,13 +7342,13 @@ other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-    'A book of verse beneath the bough
+'A book of verse beneath the bough
 
-    A loaf of bread, a jug of wine and thou
+A loaf of bread, a jug of wine and thou
 
-    Sitting beside me in the wilderness
+Sitting beside me in the wilderness
 
-    O wilderness were Paradise enow.'
+O wilderness were Paradise enow.'
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -7360,13 +7360,13 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-    'From quiet [[Home|home]] and first beginning
+'From quiet [[Home|home]] and first beginning
 
-      Out to the undiscovered ends--
+Out to the undiscovered ends--
 
-    There's nothing worth the wear of winning
+There's nothing worth the wear of winning
 
-      But laughter and the [[Love|love]] of friends.'
+But laughter and the [[Love|love]] of friends.'
 
 Here we have a perfect example of the main important fact, that all true
 
@@ -7517,13 +7517,13 @@ altra cosa si voglia elencare sono superflui. Quando Omar
 
 Khayyam dice:
 
-    'Un libro di versi sotto il ramo,
+'Un libro di versi sotto il ramo,
 
-    una pagnotta, una brocca di vino e tu
+una pagnotta, una brocca di vino e tu
 
-    seduta accanto a me nel deserto —
+seduta accanto a me nel deserto —
 
-    oh, il deserto sarebbe Paradiso abbastanza.'
+oh, il deserto sarebbe Paradiso abbastanza.'
 
 È chiaro che egli parla in tono tanto ascetico quanto
 
@@ -7535,13 +7535,13 @@ moltiplicarsi cento volte. Uno dei più genuinamente poetici dei nostri
 
 poeti più giovani dice, come l'unica cosa certa, che
 
-    'Dalla quieta [[Home|casa]] e dal primo inizio
+'Dalla quieta [[Home|casa]] e dal primo inizio
 
-      verso i confini inesplorati —
+verso i confini inesplorati —
 
-    nulla vale la fatica del conquistare
+nulla vale la fatica del conquistare
 
-      se non il riso e l'[[Love|amore]] degli amici.'
+se non il riso e l'[[Love|amore]] degli amici.'
 
 Qui abbiamo un esempio perfetto del fatto principale e importante, che ogni vera
 
@@ -7655,7 +7655,7 @@ il tono di un libro devozionale. Un libro devozionale è cosa eccellente,
 
 
 
-<span class="atom-split" data-atom="story_05_francis--part_02" data-title="Twelve Types — FRANCIS (part 2)" data-chapter="Story 05 FRANCIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_francis--part_02" data-title="Twelve Types — FRANCIS (part 2)" data-chapter="FRANCIS" data-kind="excerpt"></span>
 
 
 but we do not look in it for the portrait of a man, for the same reason
@@ -8031,7 +8031,7 @@ i lineamenti di un nuovo amico.
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="Twelve Types — CHARLES II (part 1)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="Twelve Types — CHARLES II (part 1)" data-chapter="CHARLES II" data-kind="excerpt"></span>
 
 
 CHARLES II
@@ -8379,7 +8379,7 @@ cosa senza nome, ignorata dai codici logici. La cortesia ha in verità in sé
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="Twelve Types — CHARLES II (part 2)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="Twelve Types — CHARLES II (part 2)" data-chapter="CHARLES II" data-kind="excerpt"></span>
 
 
 something mystical; like religion, it is everywhere understood and
@@ -8723,7 +8723,7 @@ enumerare e ordinare tutta l'opera del maestro e distribuire lode e biasimo
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="Twelve Types — CHARLES II (part 3)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="Twelve Types — CHARLES II (part 3)" data-chapter="CHARLES II" data-kind="excerpt"></span>
 
 
 with decision and even severity, without ever thinking for a moment of
@@ -9063,7 +9063,7 @@ in ciascun campo, ma per far ogni cosa troppo [[Well|bene]] in ciascun campo. Co
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_04" data-title="Twelve Types — CHARLES II (part 4)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_04" data-title="Twelve Types — CHARLES II (part 4)" data-chapter="CHARLES II" data-kind="excerpt"></span>
 
 
 pirate, or Puritan, his disguises were so good that most people could
@@ -9223,7 +9223,7 @@ Bellyse Baildon. Chatto & Windus.]
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_01" data-title="Twelve Types — THOMAS CARLYLE (part 1)" data-chapter="Story 08 THOMAS CARLYLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_01" data-title="Twelve Types — THOMAS CARLYLE (part 1)" data-chapter="THOMAS CARLYLE" data-kind="excerpt"></span>
 
 
 THOMAS CARLYLE
@@ -9393,7 +9393,7 @@ Their fault is that by an inevitable psychological habit they tend to
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_02" data-title="Twelve Types — THOMAS CARLYLE (part 2)" data-chapter="Story 08 THOMAS CARLYLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_02" data-title="Twelve Types — THOMAS CARLYLE (part 2)" data-chapter="THOMAS CARLYLE" data-kind="excerpt"></span>
 
 
 forget that there are two parts of a logical process--the first the
@@ -9432,7 +9432,7 @@ denies any such duty at the very start, and regards man as an animal
 
 who has preferences, as a bird has feathers.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 Thus it was with Carlyle: he startled men by attacking not arguments but
 
@@ -9565,7 +9565,7 @@ to prove that gout and unrequited [[Love|love]] make him [[Dance|dance]] with jo
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_03" data-title="Twelve Types — THOMAS CARLYLE (part 3)" data-chapter="Story 08 THOMAS CARLYLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_03" data-title="Twelve Types — THOMAS CARLYLE (part 3)" data-chapter="THOMAS CARLYLE" data-kind="excerpt"></span>
 
 
 pessimist of to-day to prove that sunshine and a good supper convulse
@@ -9761,7 +9761,7 @@ fine.
 
 
 
-<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_01" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 1)" data-chapter="Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_01" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 1)" data-chapter="tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
 
 
 [[tolstoy|TOLSTOY]] AND THE CULT OF SIMPLICITY
@@ -9924,20 +9924,20 @@ sense. It was born of an almost babyish receptiveness; it was the work
 
 of men who had eyes to [[Wonder|wonder]] and men who had ears to hear.
 
-    '[[King]] Solomon brought merchant men
+'[[King]] Solomon brought merchant men
 
-      Because of his [[Desire|desire]]
+Because of his [[Desire|desire]]
 
-    With peacocks, apes and ivory,
+With peacocks, apes and ivory,
 
-      From Tarshish unto Tyre.'
+From Tarshish unto Tyre.'
 
 But this proceeding was not a part of the wisdom of Solomon; it was a
 
 
 
 
-<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_02" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 2)" data-chapter="Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_02" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 2)" data-chapter="tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
 
 
 part of his folly--I had almost said of his [[innocence]]. [[tolstoy|Tolstoy]], we feel,
@@ -10105,7 +10105,7 @@ conquered without humiliation. The theory of Christian duty enunciated
 
 
 
-<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_03" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 3)" data-chapter="Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_03" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 3)" data-chapter="tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
 
 
 by them is that we should never conquer by force, but always, if we can,
@@ -10124,13 +10124,13 @@ the bovine stupidity and bovine fury of this world is accurately summed
 
 up in the celebrated verse of Mr Edward Lear:
 
-    'There was an old man who said, "How
+'There was an old man who said, "How
 
-    Shall I flee from this terrible cow?
+Shall I flee from this terrible cow?
 
-    I will sit on a stile and continue to smile,
+I will sit on a stile and continue to smile,
 
-    Till I soften the heart of this cow."'
+Till I soften the heart of this cow."'
 
 Their confidence in human [[Nature|nature]] is really honourable and magnificent;
 
@@ -10281,7 +10281,7 @@ protest against a habit of quoting and paraphrasing at the same [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_04" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 4)" data-chapter="Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_04" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 4)" data-chapter="tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
 
 
 When a man is discussing what Jesus meant, let him state first of all
@@ -10509,7 +10509,7 @@ sole si oscurò in pieno mezzogiorno.
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_01" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 1)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_01" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 1)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 THE POSITION OF SIR WALTER SCOTT
@@ -10679,7 +10679,7 @@ sunset. Rob Roy trapped in the Tolbooth, and confronted with Bailie
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_02" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 2)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_02" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 2)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 Nicol Jarvie, draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the
@@ -10845,7 +10845,7 @@ for despising any of his characters. He did not scorn the most revolting
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_03" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 3)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_03" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 3)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 miscreant as the realist of to-day commonly scorns his own [[Hero|hero]]. Though
@@ -11021,7 +11021,7 @@ motive or ideal behind it, and generally a much better one than we
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_04" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 4)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_04" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 4)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 think.
@@ -11080,7 +11080,7 @@ End of the Project Gutenberg EBook of Twelve Types, by G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.net/1/2/4/9/12491/
+http://www.gutenberg.net/1/2/4/9/12491/
 
 Produced by Robert Shimmin, Stephen [[Hope]] and the Online Distributed
 
@@ -11269,7 +11269,7 @@ Fine dell'eBook Project Gutenberg di Dodici tipi, di G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.net/1/2/4/9/12491/
+http://www.gutenberg.net/1/2/4/9/12491/
 
 Prodotto da Robert Shimmin, Stephen [[Hope]] e il Team Distribuito Online di
 
@@ -11401,7 +11401,7 @@ conservando quest'opera nel medesimo formato con l'allegata Licenza integrale Pr
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_05" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 5)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_05" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 5)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 Gutenberg-tm License when you share it without charge with others.
@@ -11530,53 +11530,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -11719,53 +11719,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -11781,7 +11781,7 @@ Fondazione come esposto nella Sezione 3 più sotto.
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_06" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 6)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_06" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 6)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 1.F.
@@ -11964,11 +11964,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -12159,11 +12159,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -12173,7 +12173,7 @@ Project Gutenberg-tm dipende da un ampio sostegno pubblico e dalle donazioni,
 
 
 
-<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_07" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 7)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_07" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 7)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
 
 
 spread public support and donations to carry out its mission of
@@ -12262,7 +12262,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -12282,11 +12282,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
 
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -12300,15 +12300,15 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
 
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
 
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12399,7 +12399,7 @@ nuovi nomi di file e nuovi numeri etext.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 
@@ -12419,11 +12419,11 @@ sistema di ricerca potete utilizzare i seguenti indirizzi e semplicemente
 
 scaricare per anno etext. Per esempio:
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Oppure /etext 05, 04, 03, 02, 01, 00, 99,
+(Oppure /etext 05, 04, 03, 02, 01, 00, 99,
 
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 Gli eBook pubblicati dal novembre 2003, con numeri etext SUPERIORI a #10000, sono
 
@@ -12437,12 +12437,12 @@ cifre corrispondenti a tutte tranne l'ultima cifra del nome del file.  Per
 
 esempio un eBook con nome di file 10234 si troverebbe in:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 o il nome di file 24689 si troverebbe in:
 
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 Un metodo alternativo per localizzare gli eBook:
 
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL

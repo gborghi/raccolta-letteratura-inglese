@@ -17,7 +17,7 @@ tags:
 [[Mormonism]]
 by G K Chesterton
 from Uses of Diversity 1921
- 
+
 THERE is inevitably something comic (comic in the broad and vulgar
 style which all men ought to appreciate in its place) about the panic
 aroused by the presence of the Mormons and their supposed polygamous

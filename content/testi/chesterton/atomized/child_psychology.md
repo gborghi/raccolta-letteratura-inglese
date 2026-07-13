@@ -39,10 +39,10 @@ for grown up people.  But the point of many of them is not only
 such that a [[Child|child]] could not see it, it is such that a [[Child|child]] ought
 not to be allowed to see it--
 
-     The [[Child|child]] that is not clean and neat,
-     With lots of toys and things to eat,
-     He is a naughty [[Child|child]], I'm sure,
-     Or else his dear papa is poor.
+The [[Child|child]] that is not clean and neat,
+With lots of toys and things to eat,
+He is a naughty [[Child|child]], I'm sure,
+Or else his dear papa is poor.
 
 No [[Child|child]] ought to understand the appalling abyss of that after-thought.
 No [[Child|child]] could understand, without being a snob or a social reformer
@@ -106,10 +106,10 @@ an unimaginative unreason (for that point of contact is poetry), I
 should be content to quote four lines that were in a picture book
 in my own nursery--
 
-     The man in the wilderness asked of me,
-     How many strawberries grow in the sea?
-     I answered him, as I thought good:
-     "As many red herrings as grow in the wood."
+The man in the wilderness asked of me,
+How many strawberries grow in the sea?
+I answered him, as I thought good:
+"As many red herrings as grow in the wood."
 
 Everything in that is poetical; from the dark unearthly figure
 of the man of the [[Desert|desert]], with his mysterious riddles, to the perfect
@@ -170,10 +170,10 @@ for grown up people.  But the point of many of them is not only
 such that a [[Child|child]] could not see it, it is such that a [[Child|child]] ought
 not to be allowed to see it--
 
-     The [[Child|child]] that is not clean and neat,
-     With lots of toys and things to eat,
-     He is a naughty [[Child|child]], I'm sure,
-     Or else his dear papa is poor.
+The [[Child|child]] that is not clean and neat,
+With lots of toys and things to eat,
+He is a naughty [[Child|child]], I'm sure,
+Or else his dear papa is poor.
 
 No [[Child|child]] ought to understand the appalling abyss of that after-thought.
 No [[Child|child]] could understand, without being a snob or a social reformer
@@ -237,10 +237,10 @@ an unimaginative unreason (for that point of contact is poetry), I
 should be content to quote four lines that were in a picture book
 in my own nursery--
 
-     The man in the wilderness asked of me,
-     How many strawberries grow in the sea?
-     I answered him, as I thought good:
-     "As many red herrings as grow in the wood."
+The man in the wilderness asked of me,
+How many strawberries grow in the sea?
+I answered him, as I thought good:
+"As many red herrings as grow in the wood."
 
 Everything in that is poetical; from the dark unearthly figure
 of the man of the [[Desert|desert]], with his mysterious riddles, to the perfect
@@ -263,10 +263,10 @@ il 15 ottobre 1921.
 
 In quest'epoca di psicologia [[Child|infantile]] nessuno presta la minima attenzione all'effettiva psicologia del [[Child|bambino]]. Tutto ciò che pare contare è la psicologia dello psicologo e la particolare teoria o corrente di pensiero che egli sostiene contro un altro psicologo. Gran parte dell'arte e della letteratura oggi magnificamente fabbricata per i bambini non è nemmeno onestamente pensata per piacere ai bambini. L'[[Artist|artista]] a stento si degnerebbe di far ridere un neonato se nessun altro ridesse, o anche solo ascoltasse. Queste cose non sono pensate per piacere al [[Child|bambino]]. Nel migliore dei casi sono pensate per piacere all'[[Lover|amante]] dei [[Child|bambini]]. Nel peggiore sono esperimenti di metodo educativo scientifico. Liriche belle, sagge e argute come quelle del «[[Garden|giardino]] di versi di un [[Child|bambino]]» di Stevenson rimarranno sempre una pura e vivace fonte di piacere — per le persone adulte. Ma il punto di molte di esse non solo è tale che un [[Child|bambino]] non potrebbe coglierlo, è tale che a un [[Child|bambino]] non si dovrebbe permettere di coglierlo —
 
-     Il [[Child|bambino]] che non è pulito e composto,
-     Con tanti giocattoli e cose da mangiare,
-     È un [[Child|bambino]] cattivo, ne son certo,
-     Oppure il suo caro papà è povero.
+Il [[Child|bambino]] che non è pulito e composto,
+Con tanti giocattoli e cose da mangiare,
+È un [[Child|bambino]] cattivo, ne son certo,
+Oppure il suo caro papà è povero.
 
 Nessun [[Child|bambino]] dovrebbe comprendere l'abisso spaventoso di quel ripensamento. Nessun [[Child|bambino]] potrebbe comprendere, senza essere uno snob o un riformatore sociale o qualcosa di orribile, l'ironia di quell'allusione alle disuguaglianze e iniquità con cui questo mondo malvagio ha insultato la sacra dignità della paternità. Il [[Child|bambino]] che sapesse davvero sorridere a quel verso sarebbe capace di mettersi immediatamente a scrivere un [[Novel|romanzo]] alla Gissing, e poi di impiccarsi alla colonnina del letto della nursery. Ma né Stevenson né alcun stevensoniano (e io rivendico di essere un buon stevensoniano) sognò mai davvero di aspettarsi che un [[Child|bambino]] sorridesse a quella poesia. Era il poeta che sorrideva al [[Child|bambino]], il che è cosa del tutto diversa, benché forse altrettanto bella a suo modo. E tale è il carattere di tutta questa nuova letteratura per l'infanzia. Ha l'oggetto legittimo e persino onorevole di educare l'adulto all'apprezzamento dei neonati. È cosa eccellente insegnare a uomini e donne a trarre piacere dai bambini, ma è cosa del tutto diversa dal dare piacere ai bambini.
 
@@ -276,10 +276,10 @@ Naturalmente c'è molto più di questo in «Hey Diddle Diddle». La mucca che sa
 
 Sarebbe facile giustificare un gran numero delle altre filastrocche, nella stessa vena di una critica d'arte più seria. Se mi si chiedesse di citare quattro versi che bastino a illustrare ciò che è stato chiamato la ragione immaginativa, quando essa si leva quasi a sfiorare una irragionevolezza priva d'immaginazione (poiché quel punto di contatto è la poesia), mi accontenterei di citare quattro versi che stavano in un libro illustrato della mia stessa nursery —
 
-     L'uomo nel deserto mi domandò,
-     Quante fragole crescono nel mare?
-     Gli risposi, come mi parve giusto:
-     «Tante aringhe rosse quante ne crescono nel bosco.»
+L'uomo nel deserto mi domandò,
+Quante fragole crescono nel mare?
+Gli risposi, come mi parve giusto:
+«Tante aringhe rosse quante ne crescono nel bosco.»
 
 Tutto in ciò è poetico; dalla scura figura ultraterrena dell'uomo del [[Desert|deserto]], con i suoi misteriosi indovinelli, al perfetto amalgama di [[logic|logica]] e visione che crea belle immagini perfino nel dimostrarle impossibili. Ma questa qualità artistica, benché presente, non è primaria; lo scopo primario è il divertimento dei bambini. E noi non stiamo divertendo i bambini; stiamo divertendo noi stessi con i bambini.
 

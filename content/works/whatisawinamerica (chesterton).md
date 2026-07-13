@@ -68,7 +68,7 @@ tags:
 ## Capitoli / Chapters
 
 - [Hodder And Stoughton](/testi/chesterton/atomized/whatisawinamerica#story_01_hodder_and_stoughton)
-- [Mcmxxii](/testi/chesterton/atomized/whatisawinamerica#story_02_mcmxxii)
+- [MCMXXII](/testi/chesterton/atomized/whatisawinamerica#story_02_mcmxxii)
 - [A Meditation In Broadway              33](/testi/chesterton/atomized/whatisawinamerica#story_03_a_meditation_in_broadway_33)
 - [Some American Cities                  63](/testi/chesterton/atomized/whatisawinamerica#story_04_some_american_cities_63)
 - [The American Business Man             97](/testi/chesterton/atomized/whatisawinamerica#story_05_the_american_business_man_97)

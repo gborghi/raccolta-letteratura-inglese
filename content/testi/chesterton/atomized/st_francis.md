@@ -830,10 +830,10 @@ like one of the public fountains in such a sunny Italian market place.
 He might have written among his own [[Poems|poems]] as his own motto that verse
 of Mr. Belloc's poem--
 
-      "Of Courtesy, it is much less
-       Than [[Courage|courage]] of heart or holiness
-       Yet in my walks it seems to me
-       That the grace of God is in Courtesy."
+"Of Courtesy, it is much less
+Than [[Courage|courage]] of heart or holiness
+Yet in my walks it seems to me
+That the grace of God is in Courtesy."
 
 Nobody ever doubted that Francis Bernadone had [[Courage|courage]] of heart,
 even of the most manly and military sort; and a [[Time|time]] was to come when
@@ -4824,10 +4824,10 @@ like one of the public fountains in such a sunny Italian market place.
 He might have written among his own [[Poems|poems]] as his own motto that verse
 of Mr. Belloc's poem--
 
-      "Of Courtesy, it is much less
-       Than [[Courage|courage]] of heart or holiness
-       Yet in my walks it seems to me
-       That the grace of God is in Courtesy."
+"Of Courtesy, it is much less
+Than [[Courage|courage]] of heart or holiness
+Yet in my walks it seems to me
+That the grace of God is in Courtesy."
 
 Nobody ever doubted that Francis Bernadone had [[Courage|courage]] of heart,
 even of the most manly and military sort; and a [[Time|time]] was to come when

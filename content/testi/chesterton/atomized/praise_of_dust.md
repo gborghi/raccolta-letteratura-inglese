@@ -21,39 +21,39 @@ The Praise Of [[Dust]]
 G. K. Chesterton  
 
 "What of vile [[Dust|dust]]?" the preacher said.  
-  Methought the whole world woke,  
+Methought the whole world woke,  
 The dead stone lived beneath my foot,  
-  And my whole [[Body|body]] spoke.  
+And my whole [[Body|body]] spoke.  
 
 "You, that play [[Tyrant|tyrant]] to the [[Dust|dust]],  
-  And stamp its wrinkled face,  
+And stamp its wrinkled face,  
 This patient star that flings you not  
-  Far into homeless space.  
+Far into homeless space.  
 
 "Come down out of your dusty shrine  
-  The living [[Dust|dust]] to see,  
+The living [[Dust|dust]] to see,  
 The [[Flowers|flowers]] that at your sermon's end  
-  Stand blazing silently.  
+Stand blazing silently.  
 
 "Rich white and [[Blood|blood]]-red blossom; stones,  
-  Lichens like [[Fire|fire]] encrust;  
+Lichens like [[Fire|fire]] encrust;  
 A gleam of blue, a glare of gold,  
-  The vision of the [[Dust|dust]].  
+The vision of the [[Dust|dust]].  
 
 "Pass them all by: till, as you come  
-  Where, at a [[City|city]]'s edge,  
+Where, at a [[City|city]]'s edge,  
 Under a tree--I know it [[Well|well]]--  
-  Under a lattice ledge,  
+Under a lattice ledge,  
 
 "The sunshine falls on one brown head.  
-  You, too, O cold of clay,  
+You, too, O cold of clay,  
 Eater of stones, may haply hear  
-  The trumpets of that day  
+The trumpets of that day  
 
 "When God to all his paladins  
-  By his own splendour swore  
+By his own splendour swore  
 To make a fairer face than heaven,  
-  Of [[Dust|dust]] and nothing more."
+Of [[Dust|dust]] and nothing more."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -65,39 +65,39 @@ La Lode Della [[Dust|Polvere]]
 G. K. Chesterton  
 
 «Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
-  E mi parve che il mondo intero si destasse,  
+E mi parve che il mondo intero si destasse,  
 la pietra morta visse sotto il mio piede,  
-  e tutto il mio [[Body|corpo]] parlò.  
+e tutto il mio [[Body|corpo]] parlò.  
 
 «Tu, che fai il [[Tyrant|tiranno]] alla [[Dust|polvere]],  
-  e ne calpesti il volto rugoso,  
+e ne calpesti il volto rugoso,  
 questa stella paziente che non ti scaglia  
-  lontano nello spazio senza dimora.  
+lontano nello spazio senza dimora.  
 
 «Scendi giù dal tuo polveroso santuario  
-  a veder la [[Dust|polvere]] viva,  
+a veder la [[Dust|polvere]] viva,  
 i [[Flowers|fiori]] che, finito il tuo sermone,  
-  stanno ardendo in silenzio.  
+stanno ardendo in silenzio.  
 
 «Ricchi fiori bianchi e rossi come [[Blood|sangue]]; pietre,  
-  licheni che come [[Fire|fuoco]] incrostano;  
+licheni che come [[Fire|fuoco]] incrostano;  
 un baglior d'azzurro, un lampo d'oro,  
-  la visione della [[Dust|polvere]].  
+la visione della [[Dust|polvere]].  
 
 «Passa oltre tutto questo: finché giungi  
-  dove, al margine d'una [[City|città]],  
+dove, al margine d'una [[City|città]],  
 sotto un albero--lo conosco [[Well|bene]]--  
-  sotto la sporgenza d'un graticcio,  
+sotto la sporgenza d'un graticcio,  
 
 «Il sole cade su un capo bruno.  
-  Anche tu, o freddo d'argilla,  
+Anche tu, o freddo d'argilla,  
 mangiatore di pietre, forse udrai  
-  le trombe di quel giorno  
+le trombe di quel giorno  
 
 «quando Dio a tutti i suoi paladini  
-  per il proprio splendore giurò  
+per il proprio splendore giurò  
 di fare un volto più bello del cielo,  
-  di [[Dust|polvere]] e nulla più.»
+di [[Dust|polvere]] e nulla più.»
 
 
 
@@ -111,39 +111,39 @@ The Praise Of [[Dust]]
 G. K. Chesterton  
 
 "What of vile [[Dust|dust]]?" the preacher said.  
-  Methought the whole world woke,  
+Methought the whole world woke,  
 The dead stone lived beneath my foot,  
-  And my whole [[Body|body]] spoke.  
+And my whole [[Body|body]] spoke.  
 
 "You, that play [[Tyrant|tyrant]] to the [[Dust|dust]],  
-  And stamp its wrinkled face,  
+And stamp its wrinkled face,  
 This patient star that flings you not  
-  Far into homeless space.  
+Far into homeless space.  
 
 "Come down out of your dusty shrine  
-  The living [[Dust|dust]] to see,  
+The living [[Dust|dust]] to see,  
 The [[Flowers|flowers]] that at your sermon's end  
-  Stand blazing silently.  
+Stand blazing silently.  
 
 "Rich white and [[Blood|blood]]-red blossom; stones,  
-  Lichens like [[Fire|fire]] encrust;  
+Lichens like [[Fire|fire]] encrust;  
 A gleam of blue, a glare of gold,  
-  The vision of the [[Dust|dust]].  
+The vision of the [[Dust|dust]].  
 
 "Pass them all by: till, as you come  
-  Where, at a [[City|city]]'s edge,  
+Where, at a [[City|city]]'s edge,  
 Under a tree--I know it [[Well|well]]--  
-  Under a lattice ledge,  
+Under a lattice ledge,  
 
 "The sunshine falls on one brown head.  
-  You, too, O cold of clay,  
+You, too, O cold of clay,  
 Eater of stones, may haply hear  
-  The trumpets of that day  
+The trumpets of that day  
 
 "When God to all his paladins  
-  By his own splendour swore  
+By his own splendour swore  
 To make a fairer face than heaven,  
-  Of [[Dust|dust]] and nothing more."
+Of [[Dust|dust]] and nothing more."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -155,36 +155,36 @@ La Lode Della [[Dust|Polvere]]
 G. K. Chesterton  
 
 «Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
-  E mi parve che il mondo intero si destasse,  
+E mi parve che il mondo intero si destasse,  
 la pietra morta visse sotto il mio piede,  
-  e tutto il mio [[Body|corpo]] parlò.  
+e tutto il mio [[Body|corpo]] parlò.  
 
 «Tu, che fai il [[Tyrant|tiranno]] alla [[Dust|polvere]],  
-  e ne calpesti il volto rugoso,  
+e ne calpesti il volto rugoso,  
 questa stella paziente che non ti scaglia  
-  lontano nello spazio senza dimora.  
+lontano nello spazio senza dimora.  
 
 «Scendi giù dal tuo polveroso santuario  
-  a veder la [[Dust|polvere]] viva,  
+a veder la [[Dust|polvere]] viva,  
 i [[Flowers|fiori]] che, finito il tuo sermone,  
-  stanno ardendo in silenzio.  
+stanno ardendo in silenzio.  
 
 «Ricchi fiori bianchi e rossi come [[Blood|sangue]]; pietre,  
-  licheni che come [[Fire|fuoco]] incrostano;  
+licheni che come [[Fire|fuoco]] incrostano;  
 un baglior d'azzurro, un lampo d'oro,  
-  la visione della [[Dust|polvere]].  
+la visione della [[Dust|polvere]].  
 
 «Passa oltre tutto questo: finché giungi  
-  dove, al margine d'una [[City|città]],  
+dove, al margine d'una [[City|città]],  
 sotto un albero--lo conosco [[Well|bene]]--  
-  sotto la sporgenza d'un graticcio,  
+sotto la sporgenza d'un graticcio,  
 
 «Il sole cade su un capo bruno.  
-  Anche tu, o freddo d'argilla,  
+Anche tu, o freddo d'argilla,  
 mangiatore di pietre, forse udrai  
-  le trombe di quel giorno  
+le trombe di quel giorno  
 
 «quando Dio a tutti i suoi paladini  
-  per il proprio splendore giurò  
+per il proprio splendore giurò  
 di fare un volto più bello del cielo,  
-  di [[Dust|polvere]] e nulla più.»
+di [[Dust|polvere]] e nulla più.»

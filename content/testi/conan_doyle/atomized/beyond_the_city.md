@@ -180,11 +180,11 @@ Some little joke about being called to the bar flickered up in Miss Walker’s m
 “What!”
 “Don’t tell my aunt that I said it” — he sank his voice to a whisper—”I hate Browning.”
 Clara Walker rippled off into such a merry peal of laughter that he forgot the evil things which he had suffered from the poet, and burst out laughing too.
-“I can’t make him out,” said he. “I try, but he is one too many. No doubt it is very stupid of me; I don’t deny it. But as long as I cannot there is no use pretending that I can. And then of course she feels hurt, for she is very fond of him, and likes to read him aloud in the evenings. She is reading a piece now `Pippa Passes,’ and I assure you, Miss Walker, that I don’t even know what the title means. You must think me a dreadful fool.”
+“I can’t make him out,” said he. “I try, but he is one too many. No doubt it is very stupid of me; I don’t deny it. But as long as I cannot there is no use pretending that I can. And then of course she feels hurt, for she is very fond of him, and likes to read him aloud in the evenings. She is reading a piece now ‘Pippa Passes,’ and I assure you, Miss Walker, that I don’t even know what the title means. You must think me a dreadful fool.”
 “But surely he is not so incomprehensible as all that?” she said, as an attempt at encouragement.
-“He is very bad. There are some things, you know, which are fine. That ride of the three Dutchmen, and Herve Riel and others, they are all right. But there was a piece we read last week. The first line stumped my aunt, and it takes a good deal to do that, for she rides very straight. `Setebos and Setebos and Setebos.’ That was the line.”
+“He is very bad. There are some things, you know, which are fine. That ride of the three Dutchmen, and Herve Riel and others, they are all right. But there was a piece we read last week. The first line stumped my aunt, and it takes a good deal to do that, for she rides very straight. ‘Setebos and Setebos and Setebos.’ That was the line.”
 “It sounds like a charm.”
-“No, it is a gentleman’s name. Three gentlemen, I thought, at first, but my aunt says one. Then he goes on, `Thinketh he dwelleth in the light of the moon.’ It was a very trying piece.”
+“No, it is a gentleman’s name. Three gentlemen, I thought, at first, but my aunt says one. Then he goes on, ‘Thinketh he dwelleth in the light of the moon.’ It was a very trying piece.”
 Clara Walker laughed again.
 “You must not think of leaving your aunt,” she said. “Think how lonely she would be without you.”
 “Well, yes, I have thought of that. But you must remember that my aunt is to all intents hardly middle-aged, and a very eligible person. I don’t think that her dislike to mankind extends to individuals. She might form new ties, and then I should be a third wheel in the coach. It was all very well as long as I was only a boy, when her first husband was alive.”
@@ -360,7 +360,7 @@ He broke into a gruesome laugh. “I am quite jolly,” said he.
 “Goodness! Who is he?”
 “I knew it would come out, I felt that it would. You’ve heard of Slattery the author?”
 “Never.”
-“He is wonderful at expressing himself. He wrote a book called `The Secret Solved; or, Letter-writing Made Easy.’ It gives you models of all sorts of letters.”
+“He is wonderful at expressing himself. He wrote a book called ‘The Secret Solved; or, Letter-writing Made Easy.’ It gives you models of all sorts of letters.”
 Ida burst out laughing. “So you actually copied one.”
 “It was to invite a young lady to a picnic, but I set to work and soon got it changed so that it would do very well. Slattery seems never to have asked any one to ride a tandem. But when I had written it, it seemed so dreadfully stiff that I had to put a little beginning and end of my own, which seemed to brighten it up a good deal.”
 “I thought there was something funny about the beginning and end.”
@@ -372,7 +372,7 @@ Ida nearly fell off her perch in her amazement. The only words of which she coul
 Ida gave a cry of fright. “I won’t like you if you run me against a brick wall,” she said, as the machine rasped up against the curb “Do attend to the steering.”
 “Yes, I will. But tell me, Ida, whether you will come with me.”
 “Oh, I don’t know. It’s too absurd! How can we talk about such things when I cannot see you? You speak to the nape of my neck, and then I have to twist my head round to answer.”
-“I know. That was why I put `You in front’ upon my letter. I thought that it would make it easier. But if you would prefer it I will stop the machine, and then you can sit round and talk about it.”
+“I know. That was why I put ‘You in front’ upon my letter. I thought that it would make it easier. But if you would prefer it I will stop the machine, and then you can sit round and talk about it.”
 “Good gracious!” cried Ida. “Fancy our sitting face to face on a motionless tricycle in the middle of the road, and all the people looking out of their windows at us!”
 “It would look rather funny, wouldn’t it? Well, then, suppose that we both get off and push the tandem along in front of us?”
 “Oh, no, this is better than that.”
@@ -488,7 +488,7 @@ When the Doctor came down to the dining-room next morning, he was surprised to f
 “But what on earth are you doing, Ida?” asked the Doctor. “The smell is most offensive. And, good gracious, look at the mess which you have made upon the cloth! Why, you have burned a hole right through.”
 “Oh, that is the acid,” Ida answered contentedly. “Mrs. Westmacott said that it would burn holes.”
 “You might have taken her word for it without trying,” said her father dryly.
-“But look here, pa! See what the book says: `The scientific mind takes nothing upon trust. Prove all things!’ I have proved that.”
+“But look here, pa! See what the book says: ‘The scientific mind takes nothing upon trust. Prove all things!’ I have proved that.”
 “You certainly have. Well, until breakfast is ready I’ll glance over the Times. Have you seen it?”
 “The Times? Oh, dear me, this is it which I have under my spirit-lamp. I am afraid there is some acid upon that too, and it is rather damp and torn. Here it is.”
 The Doctor took the bedraggled paper with a rueful face. “Everything seems to be wrong to-day,” he remarked. “What is this sudden enthusiasm about chemistry, Ida?”
@@ -541,11 +541,11 @@ Ida was still sitting among her bottles, with a lit cigarette in her left hand a
 “Quite so.”
 “Well, I am going to act upon her advice. I am going to be a pilot.”
 “My dear Clara! A pilot! This is too much.”
-“This is a beautiful book, papa. `The Lights, Beacons, Buoys, Channels, and Landmarks of Great Britain.’ Here is another, `The Master Mariner’s Handbook.’ You can’t imagine how interesting it is.”
+“This is a beautiful book, papa. ‘The Lights, Beacons, Buoys, Channels, and Landmarks of Great Britain.’ Here is another, ‘The Master Mariner’s Handbook.’ You can’t imagine how interesting it is.”
 “You are joking, Clara. You must be joking!”
 “Not at all, pa. You can’t think what a lot I have learned already. I’m to carry a green light to starboard and a red to port, with a white light at the mast-head, and a flare-up every fifteen minutes.”
 “Oh, won’t it look pretty at night!” cried her sister.
-“And I know the fog-signals. One blast means that a ship steers to starboard, two to port, three astern, four that it is unmanageable. But this man asks such dreadful questions at the end of each chapter. Listen to this: `You see a red light. The ship is on the port tack and the wind at north; what course is that ship steering to a point?’”
+“And I know the fog-signals. One blast means that a ship steers to starboard, two to port, three astern, four that it is unmanageable. But this man asks such dreadful questions at the end of each chapter. Listen to this: ‘You see a red light. The ship is on the port tack and the wind at north; what course is that ship steering to a point?’”
 The Doctor rose with a gesture of despair. “I can’t imagine what has come over you both,” said he.
 “My dear papa, we are trying hard to live up to Mrs. Westmacott’s standard.”
 “Well, I must say that I do not admire the result. Your chemistry, Ida, may perhaps do no harm; but your scheme, Clara, is out of the question. How a girl of your sense could ever entertain such a notion is more than I can imagine. But I must absolutely forbid you to go further with it.”
@@ -1071,7 +1071,7 @@ It was on the very night which succeeded the events which have just been narrate
 “Good gracious, Monica, it is a mercy that we have not been murdered in our beds. There was a house broken into at Forest Hill last week. Shall we go down and shut it?”
 “I dare not go down alone, dear, but if you will come with me. Put on your slippers and dressing-gown. We do not need a candle. Now, Bertha, we will go down together.”
 Two little white patches moved vaguely through the darkness, the stairs creaked, the door whined, and they were at the front room window. Monica closed it gently down, and fastened the snib.
-“What a beautiful moon!” said she, looking out. “We can see as clearly as if it were day. How peaceful and quiet the three houses are over yonder! It seems quite sad to see that `To Let’ card upon number one. I wonder how number two will like their going. For my part I could better spare that dreadful woman at number three with her short skirts and her snake. But, oh, Bertha, look! look!! look!!!” Her voice had fallen suddenly to a quivering whisper and she was pointing to the Westmacotts’ house. Her sister gave a gasp of horror, and stood with a clutch at Monica’s arm, staring in the same direction.
+“What a beautiful moon!” said she, looking out. “We can see as clearly as if it were day. How peaceful and quiet the three houses are over yonder! It seems quite sad to see that ‘To Let’ card upon number one. I wonder how number two will like their going. For my part I could better spare that dreadful woman at number three with her short skirts and her snake. But, oh, Bertha, look! look!! look!!!” Her voice had fallen suddenly to a quivering whisper and she was pointing to the Westmacotts’ house. Her sister gave a gasp of horror, and stood with a clutch at Monica’s arm, staring in the same direction.
 There was a light in the front room, a slight, wavering light such as would be given by a small candle or taper. The blind was down, but the light shone dimly through. Outside in the garden, with his figure outlined against the luminous square, there stood a man, his back to the road, his two hands upon the window ledge, and his body rather bent as though he were trying to peep in past the blind. So absolutely still and motionless was he that in spite of the moon they might well have overlooked him were it not for that tell-tale light behind.
 “Good heaven!” gasped Bertha, “it is a burglar.”
 But her sister set her mouth grimly and shook her head. “We shall see,” she whispered. “It may be something worse.”
@@ -1158,7 +1158,7 @@ The cabman looked helplessly about him with a bewildered, questioning gaze, as o
 
 
 
-<span class="atom-split" data-atom="chapter_02_breaking_the_ice" data-title="BEYOND THE CITY — Chapter 2: BREAKING THE ICE" data-chapter="Chapter 02 BREAKING THE ICE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_breaking_the_ice" data-title="BEYOND THE CITY — Chapter 2: BREAKING THE ICE" data-chapter="BREAKING THE ICE" data-kind="chapter"></span>
 
 
 CHAPTER II. BREAKING THE ICE.
@@ -1215,7 +1215,7 @@ Miss Williams smoothed out her silken lap.
 
 
 
-<span class="atom-split" data-atom="chapter_03_dwellers_in_the_wilderness" data-title="BEYOND THE CITY — Chapter 3: DWELLERS IN THE WILDERNESS" data-chapter="Chapter 03 DWELLERS IN THE WILDERNESS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_dwellers_in_the_wilderness" data-title="BEYOND THE CITY — Chapter 3: DWELLERS IN THE WILDERNESS" data-chapter="DWELLERS IN THE WILDERNESS" data-kind="chapter"></span>
 
 
 CHAPTER III. DWELLERS IN THE WILDERNESS.
@@ -1269,7 +1269,7 @@ The Admiral rubbed his hands, and shook with amusement. “We’ll find one of t
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_sisters_secret" data-title="BEYOND THE CITY — Chapter 4: A SISTER’S SECRET" data-chapter="Chapter 04 A SISTERS SECRET" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_a_sisters_secret" data-title="BEYOND THE CITY — Chapter 4: A SISTER’S SECRET" data-chapter="A SISTERS SECRET" data-kind="chapter"></span>
 
 
 CHAPTER IV. A SISTER’S SECRET.
@@ -1293,11 +1293,11 @@ Some little joke about being called to the bar flickered up in Miss Walker’s m
 “What!”
 “Don’t tell my aunt that I said it” — he sank his voice to a whisper—”I hate Browning.”
 Clara Walker rippled off into such a merry peal of laughter that he forgot the evil things which he had suffered from the poet, and burst out laughing too.
-“I can’t make him out,” said he. “I try, but he is one too many. No doubt it is very stupid of me; I don’t deny it. But as long as I cannot there is no use pretending that I can. And then of course she feels hurt, for she is very fond of him, and likes to read him aloud in the evenings. She is reading a piece now `Pippa Passes,’ and I assure you, Miss Walker, that I don’t even know what the title means. You must think me a dreadful fool.”
+“I can’t make him out,” said he. “I try, but he is one too many. No doubt it is very stupid of me; I don’t deny it. But as long as I cannot there is no use pretending that I can. And then of course she feels hurt, for she is very fond of him, and likes to read him aloud in the evenings. She is reading a piece now ‘Pippa Passes,’ and I assure you, Miss Walker, that I don’t even know what the title means. You must think me a dreadful fool.”
 “But surely he is not so incomprehensible as all that?” she said, as an attempt at encouragement.
-“He is very bad. There are some things, you know, which are fine. That ride of the three Dutchmen, and Herve Riel and others, they are all right. But there was a piece we read last week. The first line stumped my aunt, and it takes a good deal to do that, for she rides very straight. `Setebos and Setebos and Setebos.’ That was the line.”
+“He is very bad. There are some things, you know, which are fine. That ride of the three Dutchmen, and Herve Riel and others, they are all right. But there was a piece we read last week. The first line stumped my aunt, and it takes a good deal to do that, for she rides very straight. ‘Setebos and Setebos and Setebos.’ That was the line.”
 “It sounds like a charm.”
-“No, it is a gentleman’s name. Three gentlemen, I thought, at first, but my aunt says one. Then he goes on, `Thinketh he dwelleth in the light of the moon.’ It was a very trying piece.”
+“No, it is a gentleman’s name. Three gentlemen, I thought, at first, but my aunt says one. Then he goes on, ‘Thinketh he dwelleth in the light of the moon.’ It was a very trying piece.”
 Clara Walker laughed again.
 “You must not think of leaving your aunt,” she said. “Think how lonely she would be without you.”
 “Well, yes, I have thought of that. But you must remember that my aunt is to all intents hardly middle-aged, and a very eligible person. I don’t think that her dislike to mankind extends to individuals. She might form new ties, and then I should be a third wheel in the coach. It was all very well as long as I was only a boy, when her first husband was alive.”
@@ -1329,7 +1329,7 @@ But Clara Walker still sat in the dim-lit room with her chin upon her hands, and
 
 
 
-<span class="atom-split" data-atom="chapter_05_a_naval_conquest" data-title="BEYOND THE CITY — Chapter 5: A NAVAL CONQUEST" data-chapter="Chapter 05 A NAVAL CONQUEST" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_a_naval_conquest" data-title="BEYOND THE CITY — Chapter 5: A NAVAL CONQUEST" data-chapter="A NAVAL CONQUEST" data-kind="chapter"></span>
 
 
 CHAPTER V. A NAVAL CONQUEST.
@@ -1396,7 +1396,7 @@ The old sailor was too transported with sympathy to say a word. He could only sh
 
 
 
-<span class="atom-split" data-atom="chapter_06_an_old_story" data-title="BEYOND THE CITY — Chapter 6: AN OLD STORY" data-chapter="Chapter 06 AN OLD STORY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_an_old_story" data-title="BEYOND THE CITY — Chapter 6: AN OLD STORY" data-chapter="AN OLD STORY" data-kind="chapter"></span>
 
 
 CHAPTER VI. AN OLD STORY.
@@ -1467,7 +1467,7 @@ She said nothing. She only stood looking at him with parted lips and great, dark
 
 
 
-<span class="atom-split" data-atom="chapter_07_venit_tandem_felicitas" data-title="BEYOND THE CITY — Chapter 7: VENIT TANDEM FELICITAS" data-chapter="Chapter 07 VENIT TANDEM FELICITAS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_venit_tandem_felicitas" data-title="BEYOND THE CITY — Chapter 7: VENIT TANDEM FELICITAS" data-chapter="VENIT TANDEM FELICITAS" data-kind="chapter"></span>
 
 
 CHAPTER VII. VENIT TANDEM FELICITAS.
@@ -1491,7 +1491,7 @@ He broke into a gruesome laugh. “I am quite jolly,” said he.
 “Goodness! Who is he?”
 “I knew it would come out, I felt that it would. You’ve heard of Slattery the author?”
 “Never.”
-“He is wonderful at expressing himself. He wrote a book called `The Secret Solved; or, Letter-writing Made Easy.’ It gives you models of all sorts of letters.”
+“He is wonderful at expressing himself. He wrote a book called ‘The Secret Solved; or, Letter-writing Made Easy.’ It gives you models of all sorts of letters.”
 Ida burst out laughing. “So you actually copied one.”
 “It was to invite a young lady to a picnic, but I set to work and soon got it changed so that it would do very well. Slattery seems never to have asked any one to ride a tandem. But when I had written it, it seemed so dreadfully stiff that I had to put a little beginning and end of my own, which seemed to brighten it up a good deal.”
 “I thought there was something funny about the beginning and end.”
@@ -1503,7 +1503,7 @@ Ida nearly fell off her perch in her amazement. The only words of which she coul
 Ida gave a cry of fright. “I won’t like you if you run me against a brick wall,” she said, as the machine rasped up against the curb “Do attend to the steering.”
 “Yes, I will. But tell me, Ida, whether you will come with me.”
 “Oh, I don’t know. It’s too absurd! How can we talk about such things when I cannot see you? You speak to the nape of my neck, and then I have to twist my head round to answer.”
-“I know. That was why I put `You in front’ upon my letter. I thought that it would make it easier. But if you would prefer it I will stop the machine, and then you can sit round and talk about it.”
+“I know. That was why I put ‘You in front’ upon my letter. I thought that it would make it easier. But if you would prefer it I will stop the machine, and then you can sit round and talk about it.”
 “Good gracious!” cried Ida. “Fancy our sitting face to face on a motionless tricycle in the middle of the road, and all the people looking out of their windows at us!”
 “It would look rather funny, wouldn’t it? Well, then, suppose that we both get off and push the tandem along in front of us?”
 “Oh, no, this is better than that.”
@@ -1522,7 +1522,7 @@ And they did talk about something else; but her left hand was still enclosed in 
 
 
 
-<span class="atom-split" data-atom="chapter_08_shadows_before" data-title="BEYOND THE CITY — Chapter 8: SHADOWS BEFORE" data-chapter="Chapter 08 SHADOWS BEFORE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_shadows_before" data-title="BEYOND THE CITY — Chapter 8: SHADOWS BEFORE" data-chapter="SHADOWS BEFORE" data-kind="chapter"></span>
 
 
 CHAPTER VIII. SHADOWS BEFORE.
@@ -1608,7 +1608,7 @@ Her milder sister sat speechless before so daring a scheme. “But it would be w
 
 
 
-<span class="atom-split" data-atom="chapter_09_a_family_plot" data-title="BEYOND THE CITY — Chapter 9: A FAMILY PLOT" data-chapter="Chapter 09 A FAMILY PLOT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_a_family_plot" data-title="BEYOND THE CITY — Chapter 9: A FAMILY PLOT" data-chapter="A FAMILY PLOT" data-kind="chapter"></span>
 
 
 CHAPTER IX. A FAMILY PLOT.
@@ -1631,7 +1631,7 @@ When the Doctor came down to the dining-room next morning, he was surprised to f
 “But what on earth are you doing, Ida?” asked the Doctor. “The smell is most offensive. And, good gracious, look at the mess which you have made upon the cloth! Why, you have burned a hole right through.”
 “Oh, that is the acid,” Ida answered contentedly. “Mrs. Westmacott said that it would burn holes.”
 “You might have taken her word for it without trying,” said her father dryly.
-“But look here, pa! See what the book says: `The scientific mind takes nothing upon trust. Prove all things!’ I have proved that.”
+“But look here, pa! See what the book says: ‘The scientific mind takes nothing upon trust. Prove all things!’ I have proved that.”
 “You certainly have. Well, until breakfast is ready I’ll glance over the Times. Have you seen it?”
 “The Times? Oh, dear me, this is it which I have under my spirit-lamp. I am afraid there is some acid upon that too, and it is rather damp and torn. Here it is.”
 The Doctor took the bedraggled paper with a rueful face. “Everything seems to be wrong to-day,” he remarked. “What is this sudden enthusiasm about chemistry, Ida?”
@@ -1684,11 +1684,11 @@ Ida was still sitting among her bottles, with a lit cigarette in her left hand a
 “Quite so.”
 “Well, I am going to act upon her advice. I am going to be a pilot.”
 “My dear Clara! A pilot! This is too much.”
-“This is a beautiful book, papa. `The Lights, Beacons, Buoys, Channels, and Landmarks of Great Britain.’ Here is another, `The Master Mariner’s Handbook.’ You can’t imagine how interesting it is.”
+“This is a beautiful book, papa. ‘The Lights, Beacons, Buoys, Channels, and Landmarks of Great Britain.’ Here is another, ‘The Master Mariner’s Handbook.’ You can’t imagine how interesting it is.”
 “You are joking, Clara. You must be joking!”
 “Not at all, pa. You can’t think what a lot I have learned already. I’m to carry a green light to starboard and a red to port, with a white light at the mast-head, and a flare-up every fifteen minutes.”
 “Oh, won’t it look pretty at night!” cried her sister.
-“And I know the fog-signals. One blast means that a ship steers to starboard, two to port, three astern, four that it is unmanageable. But this man asks such dreadful questions at the end of each chapter. Listen to this: `You see a red light. The ship is on the port tack and the wind at north; what course is that ship steering to a point?’”
+“And I know the fog-signals. One blast means that a ship steers to starboard, two to port, three astern, four that it is unmanageable. But this man asks such dreadful questions at the end of each chapter. Listen to this: ‘You see a red light. The ship is on the port tack and the wind at north; what course is that ship steering to a point?’”
 The Doctor rose with a gesture of despair. “I can’t imagine what has come over you both,” said he.
 “My dear papa, we are trying hard to live up to Mrs. Westmacott’s standard.”
 “Well, I must say that I do not admire the result. Your chemistry, Ida, may perhaps do no harm; but your scheme, Clara, is out of the question. How a girl of your sense could ever entertain such a notion is more than I can imagine. But I must absolutely forbid you to go further with it.”
@@ -1703,7 +1703,7 @@ The Doctor muttered something and stamped his foot upon the carpet. Then without
 
 
 
-<span class="atom-split" data-atom="chapter_10_women_of_the_future" data-title="BEYOND THE CITY — Chapter 10: WOMEN OF THE FUTURE" data-chapter="Chapter 10 WOMEN OF THE FUTURE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_women_of_the_future" data-title="BEYOND THE CITY — Chapter 10: WOMEN OF THE FUTURE" data-chapter="WOMEN OF THE FUTURE" data-kind="chapter"></span>
 
 
 CHAPTER X. WOMEN OF THE FUTURE.
@@ -1803,7 +1803,7 @@ The Doctor patted the two caressing heads. “These are my own two girls again,�
 
 
 
-<span class="atom-split" data-atom="chapter_11_a_blot_from_the_blue" data-title="BEYOND THE CITY — Chapter 11: A BLOT FROM THE BLUE" data-chapter="Chapter 11 A BLOT FROM THE BLUE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_a_blot_from_the_blue" data-title="BEYOND THE CITY — Chapter 11: A BLOT FROM THE BLUE" data-chapter="A BLOT FROM THE BLUE" data-kind="chapter"></span>
 
 
 CHAPTER XI. A BLOT FROM THE BLUE.
@@ -1921,7 +1921,7 @@ Clara’s face fell as she heard the amount. “What do you purpose doing?”
 
 
 
-<span class="atom-split" data-atom="chapter_12_friends_in_need" data-title="BEYOND THE CITY — Chapter 12: FRIENDS IN NEED" data-chapter="Chapter 12 FRIENDS IN NEED" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_friends_in_need" data-title="BEYOND THE CITY — Chapter 12: FRIENDS IN NEED" data-chapter="FRIENDS IN NEED" data-kind="chapter"></span>
 
 
 CHAPTER XII. FRIENDS IN NEED.
@@ -1971,7 +1971,7 @@ It was a singular sight which met his eyes as he entered the sitting-room of the
 
 
 
-<span class="atom-split" data-atom="chapter_13_in_strange_waters" data-title="BEYOND THE CITY — Chapter 13: IN STRANGE WATERS" data-chapter="Chapter 13 IN STRANGE WATERS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_in_strange_waters" data-title="BEYOND THE CITY — Chapter 13: IN STRANGE WATERS" data-chapter="IN STRANGE WATERS" data-kind="chapter"></span>
 
 
 CHAPTER XIII. IN STRANGE WATERS.
@@ -2107,7 +2107,7 @@ They did so, but the medical rolls contained no such name as that of Dr. Proudie
 
 
 
-<span class="atom-split" data-atom="chapter_14_eastward_ho" data-title="BEYOND THE CITY — Chapter 14: EASTWARD HO!" data-chapter="Chapter 14 EASTWARD HO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_eastward_ho" data-title="BEYOND THE CITY — Chapter 14: EASTWARD HO!" data-chapter="EASTWARD HO" data-kind="chapter"></span>
 
 
 CHAPTER XIV. EASTWARD HO!
@@ -2186,7 +2186,7 @@ The astonished manager glanced over the blue papers which his visitor had handed
 
 
 
-<span class="atom-split" data-atom="chapter_15_still_among_shoals" data-title="BEYOND THE CITY — Chapter 15: STILL AMONG SHOALS" data-chapter="Chapter 15 STILL AMONG SHOALS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_still_among_shoals" data-title="BEYOND THE CITY — Chapter 15: STILL AMONG SHOALS" data-chapter="STILL AMONG SHOALS" data-kind="chapter"></span>
 
 
 CHAPTER XV. STILL AMONG SHOALS.
@@ -2243,7 +2243,7 @@ He went in through the [[Garden|garden]]. Clara and the Doctor were sitting toge
 
 
 
-<span class="atom-split" data-atom="chapter_16_a_midnight_visitor" data-title="BEYOND THE CITY — Chapter 16: A MIDNIGHT VISITOR" data-chapter="Chapter 16 A MIDNIGHT VISITOR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_a_midnight_visitor" data-title="BEYOND THE CITY — Chapter 16: A MIDNIGHT VISITOR" data-chapter="A MIDNIGHT VISITOR" data-kind="chapter"></span>
 
 
 CHAPTER XVI. A MIDNIGHT VISITOR.
@@ -2256,7 +2256,7 @@ It was on the very night which succeeded the events which have just been narrate
 “Good gracious, Monica, it is a mercy that we have not been murdered in our beds. There was a house broken into at Forest Hill last week. Shall we go down and shut it?”
 “I dare not go down alone, dear, but if you will come with me. Put on your slippers and dressing-gown. We do not need a candle. Now, Bertha, we will go down together.”
 Two little white patches moved vaguely through the darkness, the stairs creaked, the door whined, and they were at the front room window. Monica closed it gently down, and fastened the snib.
-“What a beautiful moon!” said she, looking out. “We can see as clearly as if it were day. How peaceful and quiet the three houses are over yonder! It seems quite sad to see that `To Let’ card upon number one. I wonder how number two will like their going. For my part I could better spare that dreadful woman at number three with her short skirts and her snake. But, oh, Bertha, look! look!! look!!!” Her voice had fallen suddenly to a quivering whisper and she was pointing to the Westmacotts’ house. Her sister gave a gasp of horror, and stood with a clutch at Monica’s arm, staring in the same direction.
+“What a beautiful moon!” said she, looking out. “We can see as clearly as if it were day. How peaceful and quiet the three houses are over yonder! It seems quite sad to see that ‘To Let’ card upon number one. I wonder how number two will like their going. For my part I could better spare that dreadful woman at number three with her short skirts and her snake. But, oh, Bertha, look! look!! look!!!” Her voice had fallen suddenly to a quivering whisper and she was pointing to the Westmacotts’ house. Her sister gave a gasp of horror, and stood with a clutch at Monica’s arm, staring in the same direction.
 There was a light in the front room, a slight, wavering light such as would be given by a small candle or taper. The blind was down, but the light shone dimly through. Outside in the [[Garden|garden]], with his figure outlined against the luminous square, there stood a man, his back to the road, his two hands upon the window ledge, and his body rather bent as though he were trying to peep in past the blind. So absolutely still and motionless was he that in spite of the moon they might well have overlooked him were it not for that tell-tale light behind.
 “Good heaven!” gasped Bertha, “it is a burglar.”
 But her sister set her mouth grimly and shook her head. “We shall see,” she whispered. “It may be something worse.”
@@ -2280,7 +2280,7 @@ But her spirit was greater than her strength, for, as she staggered to her feet,
 
 
 
-<span class="atom-split" data-atom="chapter_17_in_port_at_last" data-title="BEYOND THE CITY — Chapter 17: IN PORT AT LAST" data-chapter="Chapter 17 IN PORT AT LAST" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_in_port_at_last" data-title="BEYOND THE CITY — Chapter 17: IN PORT AT LAST" data-chapter="IN PORT AT LAST" data-kind="chapter"></span>
 
 
 CHAPTER XVII. IN PORT AT LAST.

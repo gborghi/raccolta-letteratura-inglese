@@ -1480,7 +1480,7 @@ SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE
 
 
 
-<span class="atom-split" data-atom="story_01_the_brown_hand" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE BROWN HAND" data-chapter="Story 01 THE BROWN HAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_brown_hand" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE BROWN HAND" data-chapter="THE BROWN HAND" data-kind="story"></span>
 
 
 THE BROWN HAND
@@ -1572,7 +1572,7 @@ So that is the curious experience which won me the affection and the gratitude o
 
 
 
-<span class="atom-split" data-atom="story_02_the_usher_of_lea_house_school" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE USHER OF LEA HOUSE SCHOOL" data-chapter="Story 02 THE USHER OF LEA HOUSE SCHOOL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_usher_of_lea_house_school" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE USHER OF LEA HOUSE SCHOOL" data-chapter="THE USHER OF LEA HOUSE SCHOOL" data-kind="story"></span>
 
 
 THE USHER OF LEA HOUSE SCHOOL
@@ -1701,7 +1701,7 @@ I sat up with my hands to my throbbing head.
 
 
 
-<span class="atom-split" data-atom="story_03_b_24" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — B. 24" data-chapter="Story 03 B 24" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_b_24" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — B. 24" data-chapter="B 24" data-kind="story"></span>
 
 
 B. 24
@@ -1819,7 +1819,7 @@ There, sir, I have told you the whole story of the events which led up to the mu
 
 
 
-<span class="atom-split" data-atom="story_04_the_great_keinplatz_experiment" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE GREAT KEINPLATZ EXPERIMENT" data-chapter="Story 04 THE GREAT KEINPLATZ EXPERIMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_great_keinplatz_experiment" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE GREAT KEINPLATZ EXPERIMENT" data-chapter="THE GREAT KEINPLATZ EXPERIMENT" data-kind="story"></span>
 
 
 THE GREAT KEINPLATZ EXPERIMENT
@@ -1914,7 +1914,7 @@ When the worthy lecturer returned home that night he did not receive the cordial
 
 
 
-<span class="atom-split" data-atom="story_05_cyprian_overbeck_wells" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — CYPRIAN OVERBECK WELLS" data-chapter="Story 05 CYPRIAN OVERBECK WELLS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_cyprian_overbeck_wells" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — CYPRIAN OVERBECK WELLS" data-chapter="CYPRIAN OVERBECK WELLS" data-kind="story"></span>
 
 
 CYPRIAN OVERBECK WELLS
@@ -2021,7 +2021,7 @@ Lytton was so enraged at these remarks, and at the favour with which they appear
 
 
 
-<span class="atom-split" data-atom="story_06_playing_with_fire" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — PLAYING WITH FIRE" data-chapter="Story 06 PLAYING WITH FIRE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_playing_with_fire" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — PLAYING WITH FIRE" data-chapter="PLAYING WITH FIRE" data-kind="story"></span>
 
 
 PLAYING WITH FIRE
@@ -2208,7 +2208,7 @@ And that was what befell on the 14th of April last at No. 17 Badderly Gardens. I
 
 
 
-<span class="atom-split" data-atom="story_07_the_ring_of_thoth" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE RING OF THOTH" data-chapter="Story 07 THE RING OF THOTH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_ring_of_thoth" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE RING OF THOTH" data-chapter="THE RING OF THOTH" data-kind="story"></span>
 
 
 THE RING OF THOTH
@@ -2309,7 +2309,7 @@ It was on the second day after his return to London that Mr. John Vansittart Smi
 
 
 
-<span class="atom-split" data-atom="story_08_the_los_amigos_fiasco" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE LOS AMIGOS FIASCO" data-chapter="Story 08 THE LOS AMIGOS FIASCO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_los_amigos_fiasco" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE LOS AMIGOS FIASCO" data-chapter="THE LOS AMIGOS FIASCO" data-kind="story"></span>
 
 
 THE LOS AMIGOS FIASCO
@@ -2396,7 +2396,7 @@ It was rather a fiasco, and for years we didn’t talk more about it than we cou
 
 
 
-<span class="atom-split" data-atom="story_09_how_it_happened" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — HOW IT HAPPENED" data-chapter="Story 09 HOW IT HAPPENED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_how_it_happened" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — HOW IT HAPPENED" data-chapter="HOW IT HAPPENED" data-kind="story"></span>
 
 
 HOW IT HAPPENED
@@ -2436,7 +2436,7 @@ He looked at me with the same old gentle, wistful smile.
 
 
 
-<span class="atom-split" data-atom="story_10_lot_no_249" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — LOT NO. 249" data-chapter="Story 10 LOT NO 249" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_lot_no_249" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — LOT NO. 249" data-chapter="LOT NO 249" data-kind="story"></span>
 
 
 LOT NO. 249
@@ -2765,7 +2765,7 @@ And such is the narrative of Abercrombie Smith as to the singular events which o
 
 
 
-<span class="atom-split" data-atom="story_11_de_profundis" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — DE PROFUNDIS" data-chapter="Story 11 DE PROFUNDIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_de_profundis" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — DE PROFUNDIS" data-chapter="DE PROFUNDIS" data-kind="story"></span>
 
 
 DE PROFUNDIS
@@ -2842,7 +2842,7 @@ Well, those are the main facts about the death of John Vansittart, and his appea
 
 
 
-<span class="atom-split" data-atom="story_12_the_lift" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE LIFT" data-chapter="Story 12 THE LIFT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_lift" data-title="THE GREAT KEINPLATZ EXPERIMENT AND OTHER TALES OF TWILIGHT AND THE UNSEEN — THE LIFT" data-chapter="THE LIFT" data-kind="story"></span>
 
 
 THE LIFT

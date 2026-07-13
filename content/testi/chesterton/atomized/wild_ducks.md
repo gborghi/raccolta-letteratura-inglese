@@ -16,8 +16,8 @@ tags:
 
 G. K. CHESTERTON
 
-   The Apostle and the Wild Ducks
-   and other essays
+The Apostle and the Wild Ducks
+and other essays
 
 Edited by DOROTHY E. COLLINS
 
@@ -25,143 +25,143 @@ Contents
 
 IN GENERAL
 
-  A Sermon on Cheapness
-  The Speaker, 29 March 1902 1
+A Sermon on Cheapness
+The Speaker, 29 March 1902 1
 
-  On Manners
-  Daily News, 18 July 1902 5
+On Manners
+Daily News, 18 July 1902 5
 
-  For Persons of the Name of [[smith|Smith]]
-  Daily News, 28 November 1902 9
+For Persons of the Name of [[smith|Smith]]
+Daily News, 28 November 1902 9
 
-  The True [[Vanity]] of Vanities
-  Daily News, 27 February 1904 12
+The True [[Vanity]] of Vanities
+Daily News, 27 February 1904 12
 
-  Written in the Sand
-  Daily News, 19 August 1905 15
+Written in the Sand
+Daily News, 19 August 1905 15
 
-  A Case of Comrades
-  Daily News, 14 March 1908 18
+A Case of Comrades
+Daily News, 14 March 1908 18
 
-  Something
-  Daily News, 9 July 1910 22
+Something
+Daily News, 9 July 1910 22
 
-  [[asparagus|Asparagus]]
-  New Witness, 18 June 1914.
+[[asparagus|Asparagus]]
+New Witness, 18 June 1914.
 
-  The English Spirit and the Flea
-  Illustrated [[London]] News, 25 September 1915 28
+The English Spirit and the Flea
+Illustrated [[London]] News, 25 September 1915 28
 
-  The Hobby and the Head Waiter
-  New Witness, composite [[Essay|essay]], 17 and 24 March 1922 31
+The Hobby and the Head Waiter
+New Witness, composite [[Essay|essay]], 17 and 24 March 1922 31
 
-  In Praise of Pie
-  G.K.'s Weekly, 1 October 1927 36
+In Praise of Pie
+G.K.'s Weekly, 1 October 1927 36
 
-  Culture versus Civilisation
-  Illustrated [[London]] News, 24 March 1934 38
+Culture versus Civilisation
+Illustrated [[London]] News, 24 March 1934 38
 
-  The [[Winter]] Feast
-  probably written for an American magazine 42
+The [[Winter]] Feast
+probably written for an American magazine 42
 
-  They Tell a Story
-  Introduction to a book on art, source and date unknown 49
+They Tell a Story
+Introduction to a book on art, source and date unknown 49
 
 HERE AND THERE
 
-  Walking Tours
-  Daily News, 23 September 1901 55
+Walking Tours
+Daily News, 23 September 1901 55
 
-  The Blindness of the Sightseer
-  Daily News, 24 July 1902 59
+The Blindness of the Sightseer
+Daily News, 24 July 1902 59
 
-  The Aesthetes in the Kitchen [[Garden]]
-  Daily News, composite [[Essay|essay]], 13 and 20 August 1904 63
+The Aesthetes in the Kitchen [[Garden]]
+Daily News, composite [[Essay|essay]], 13 and 20 August 1904 63
 
-  The Need of Personalities in Politics
-  Daily News, 22 July 1905 66
+The Need of Personalities in Politics
+Daily News, 22 July 1905 66
 
-  The Largest [[Window]] in the World
-  contributed to [[King]] Albert's Book, 1914 69
+The Largest [[Window]] in the World
+contributed to [[King]] Albert's Book, 1914 69
 
-  The Apostle and the Wild Ducks
-  New Witness, 27 October 1922 71
+The Apostle and the Wild Ducks
+New Witness, 27 October 1922 71
 
-  Travellers' Joys
-  Illustrated [[London]] News, 2 October 1926 75
+Travellers' Joys
+Illustrated [[London]] News, 2 October 1926 75
 
-  Understanding France
-  Illustrated [[London]] News, 5 September 1931 79
+Understanding France
+Illustrated [[London]] News, 5 September 1931 79
 
-  Salute to [[New York]]
-  [[New York]] American, 19 September 1931 83
+Salute to [[New York]]
+[[New York]] American, 19 September 1931 83
 
-  The British Beech
-  G.K.'s Weekly, 17 December 1932 85
+The British Beech
+G.K.'s Weekly, 17 December 1932 85
 
-  Public Monuments
-  Illustrated [[London]] News, 21 April 1934 88
+Public Monuments
+Illustrated [[London]] News, 21 April 1934 88
 
 THE MAKING OF [[history|HISTORY]]
 
-  Statues
-  Illustrated [[London]] News, 1 June 1907 95
+Statues
+Illustrated [[London]] News, 1 June 1907 95
 
-  A Theory of Tyrants
-  Daily News, 13 June 1908 99
+A Theory of Tyrants
+Daily News, 13 June 1908 99
 
-  On Anecdote of Persecution
-  Daily News, 1 August 1908 102
+On Anecdote of Persecution
+Daily News, 1 August 1908 102
 
-  The Return of Pageantry
-  Eye-Witness, 29 June 1911 106
+The Return of Pageantry
+Eye-Witness, 29 June 1911 106
 
-  Rational [[history|History]]
-  Illustrated [[London]] News, 10 May 1913 109
+Rational [[history|History]]
+Illustrated [[London]] News, 10 May 1913 109
 
-  The Unknown Warrior
-  Illustrated [[London]] News, 20 November 1920 112
+The Unknown Warrior
+Illustrated [[London]] News, 20 November 1920 112
 
-  William Penn and his Royalist Friends
-  Illustrated [[London]] News, 24 January 1931 116
+William Penn and his Royalist Friends
+Illustrated [[London]] News, 24 January 1931 116
 
 ON LITERATURE
 
-  Ruskin:  The Humorist
-  The Speaker, 28 April 1900 123
+Ruskin:  The Humorist
+The Speaker, 28 April 1900 123
 
-  Literature of Information
-  The Speaker, 3 August 1901 126
+Literature of Information
+The Speaker, 3 August 1901 126
 
-  Eulogy of [[Robin Hood]]
-  Daily News, 6 June 1903 131
+Eulogy of [[Robin Hood]]
+Daily News, 6 June 1903 131
 
-  A Plea for Hasty Journalism
-  The World, 13 September 1904 135
+A Plea for Hasty Journalism
+The World, 13 September 1904 135
 
-  The Voice of Shelley
-  Daily News, 10 June 1905 138
+The Voice of Shelley
+Daily News, 10 June 1905 138
 
-  The Great [[Translation]]
-  Daily News, 25 March 1911 141
+The Great [[Translation]]
+Daily News, 25 March 1911 141
 
-  Jane Austen's Juvenilia
-  Preface to [[Love]] and [[Friendship]] and Other Early Works,
-  Chatto & Windus, 1923 144
+Jane Austen's Juvenilia
+Preface to [[Love]] and [[Friendship]] and Other Early Works,
+Chatto & Windus, 1923 144
 
-  The Countrymen of Mary Webb and Thomas Hardy
-  Illustrated [[London]] News, 12 May 1928 150
+The Countrymen of Mary Webb and Thomas Hardy
+Illustrated [[London]] News, 12 May 1928 150
 
-  The Words of Strong Poetry
-  Illustrated [[London]] News, 1 April 1933 154
+The Words of Strong Poetry
+Illustrated [[London]] News, 1 April 1933 154
 
-  The Refrain of the Rover
-  [[New York]] American, 15 December 1934 157
+The Refrain of the Rover
+[[New York]] American, 15 December 1934 157
 
 ON REFLECTION
 
-  What is Right with the World?
-  T.P.'s Weekly, 1910 161
+What is Right with the World?
+T.P.'s Weekly, 1910 161
 
 IN GENERAL
 
@@ -267,7 +267,7 @@ Economy is only another name for universalism; the true poet regards
 every earthly object as having some value and secret utility--
 with the possible exception of a [[Dust|dust]]-cart. The old [[Romance|romance]]
 of life was held to consist in expense--in the jewels and perfumes
-of the `Arabian Nights', in the cushion and cigars of Ouida.
+of the ‘Arabian Nights', in the cushion and cigars of Ouida.
 The newer and truer romance will be the romance of cheapness.
 It will address itself to the truly imaginative task of realising
 what is the real worth (a worth running into millions)
@@ -279,7 +279,7 @@ My bosom friend the Pessimist and I were standing outside a small
 toy shop, glueing our noses to the glass, when the long silence was broken
 by my remarking on the beauty of a solid stick of blue chalk, which was
 offered for sale (in some tempest of generosity) for a halfpenny.
-`Have you considered,' I asked, `all that this stick of blue chalk means?
+‘Have you considered,' I asked, ‘all that this stick of blue chalk means?
 For a halfpenny I am possessed of it.  I go home at night under the stars,
 between dark walls and through mazy streets.  I shall be free to write
 upon those walls beautiful or stern sentiments, arraigning the powers
@@ -291,13 +291,13 @@ in the manner of our British predecessors, sketching strange and ideal
 adventures for strange and ideal characters.  And all this blue river
 of dreams is loosened by a halfpenny.'
 
-The Pessimist replied, in his sad, stern way, `Drivel. It is only
+The Pessimist replied, in his sad, stern way, ‘Drivel. It is only
 the blue [[chalk]] you buy for a halfpenny.  You do not buy the [[Stars|stars]]
 for a halfpenny; you do not buy the streets for a halfpenny;
 you do not buy your [[Dreams|dreams]] or your [[Love|love]] of drawing or your tastes
 and imaginations for a halfpenny.'
 
-`True,' I replied.  `The [[Stars|stars]] and the [[Dreams|dreams]] and myself are cheaper
+‘True,' I replied.  ‘The [[Stars|stars]] and the [[Dreams|dreams]] and myself are cheaper
 than [[chalk]]:  for I bought them for nothing.'
 
 He burst into [[Tears|tears]] and became immediately convinced of the basis
@@ -316,8 +316,8 @@ that in no other affairs do we treat these phrases as synonymous.
 There is all the difference in the world between saying
 that a man has no wine and saying that he has bad wine.
 There is all the difference in the world between the comparatively
-trifling biographical statement, `He has no sons,'
-and the really disquieting one, `He has bad sons'.
+trifling biographical statement, ‘He has no sons,'
+and the really disquieting one, ‘He has bad sons'.
 If, when we were about to breakfast with a friend, a common
 acquaintance were to approach us and whisper impressively,
 'You will eat no eggs,' the expression would amount to little
@@ -445,10 +445,10 @@ it seems to me that I am at the very best a humdrum scientific
 student noting it down.  The sentimentalists, the sons of a
 passionate delusion, are those who do not think everything poetical.
 For they are wholly under the influence of words, of the vague
-current phraseology, which thinks `castle' a poetical word
-and 'Post-office' an unpoetical word, which thinks `knight'
-a poetical word and `policeman' an unpoetical word,
-which thinks `eagle' a poetical ward and `pig' an unpoetical word.
+current phraseology, which thinks ‘castle' a poetical word
+and 'Post-office' an unpoetical word, which thinks ‘knight'
+a poetical word and ‘policeman' an unpoetical word,
+which thinks ‘eagle' a poetical ward and ‘pig' an unpoetical word.
 I do not say that there is not truth in this as a matter
 of literature; I do not say that in pure technical style
 there is not a difference between eagles and pigs.
@@ -479,7 +479,7 @@ the cheapness and modernity which seem to centre round a Mr Smith.
 But, if we look at the plain word itself, we suddenly behold a poem.
 It is the name of a great rugged and primeval craft,
 a trade that is in the bones of every great epic of antiquity,
-a trade on which the `arma virumque' have everlastingly depended,
+a trade on which the ‘arma virumque' have everlastingly depended,
 and which they have repeatedly acclaimed.  It is a craft so poetical
 that even the babies of village yokels stand and stare into the cavern
 of its creative violence, with a dim sense that the dancing sparks
@@ -540,11 +540,11 @@ but that there was not enough.  And the real work to which
 this racial interest to the case of all ordinary men,
 of teaching the butcher to be proud of his grandfather,
 and the railway porter to remember his name with [[Pride|pride]].
-For the single case of the name `Smith' is sufficient to indicate
+For the single case of the name ‘Smith' is sufficient to indicate
 what profundities of origin and significance lie in all our names.
 The case of Smith is no mere accident; the case would be the same
 with any one of the common names which we account prosaic
-or absurd.  `[[Jones]]' is more mean and preposterous even than [[smith|Smith]],
+or absurd.  ‘[[Jones]]' is more mean and preposterous even than [[smith|Smith]],
 and even those who bear the name of [[Jones]] do not probably remember
 that it is but a corruption of the name that [[Christ]] loved.
 There is not one of us that is not noble in origin, whatever we
@@ -644,8 +644,8 @@ In the mid-way of this our mortal life, I find myself
 the East Coast.  I find among other things that it is raining
 and that my fellow creatures, or at least my fellow visitors,
 are in a state of irrational indignation over that circumstance.
-`How paradoxical it is in you,' I say to them with astonishment,
-`to come to a watering-place and exhibit distress when it waters you.'
+‘How paradoxical it is in you,' I say to them with astonishment,
+‘to come to a watering-place and exhibit distress when it waters you.'
 I explain to them how unjust, how fundamentally unpoetic is
 the current prejudice against rain.
 
@@ -661,17 +661,17 @@ Constable or the red [[Apocalypse|apocalypse]] of Turner.  Of these mysterious
 phases rain is only one, and not the least beautiful.
 When I point this out to my fellow Englishmen their spirit takes
 on something of the turbid transformations of the English sky.
-`How colossal, how cosmic a vision,' I say to them,
-`is the rain upon the sea.  Worms, you are permitted
+‘How colossal, how cosmic a vision,' I say to them,
+‘is the rain upon the sea.  Worms, you are permitted
 to gaze upon a reversal of the fifth day of creation.
 The waters below the firmament were divided from the waters
 that were above the firmament.  And lo! they are wedded again.'
 This kind of conversation naturally makes me popular.
 
 I am particularly beloved by those who are frustrated in their [[Desire|desire]]
-for sea-bathing. `What,' I exclaim, `your whole heart is set on wetting
+for sea-bathing. ‘What,' I exclaim, ‘your whole heart is set on wetting
 yourself in that silly pool of salt.  Give me,' I cry ecstatically,
-`the Baths of Heaven!'  After thus discussing the matter with various
+‘the Baths of Heaven!'  After thus discussing the matter with various
 groups of people, I find myself thrown back on a gentle solitude.
 I wander along the lean sands by the bright, bleak sea.
 The weather is clearing, and sky and sea shine like pale steel,
@@ -709,7 +709,7 @@ But it is certainly true that the episode of the two little
 boys depicts as in a small miracle play one of the least
 of the truths that lie behind our modern civilisation,
 and constitute the answer to that question which is asked
-in large letters all over the newspapers, `What is Wrong?'
+in large letters all over the newspapers, ‘What is Wrong?'
 
 The thing that is wrong is a certain fallacy with which we
 English have comforted ourselves for same decades, which may be
@@ -771,7 +771,7 @@ When I knew there was a Greek dual I could easily realise
 that the Greeks gave [[philosophy]] to the world.
 
 My concern here is that [[Comradeship|comradeship]] is essentially plural.
-Now, women are not plural.  The very word `women' has about it,
+Now, women are not plural.  The very word ‘women' has about it,
 I think, a sort of bad taste:  it smacks of polygamous Turks or tired
 and cynical men-about-town. There are no such things as women.
 There is only the woman you are at this particular moment afraid of or
@@ -792,13 +792,13 @@ You are addressing the abstract thing, the club, which, when two
 or three are gathered together (of the male sort at least)
 is always in the midst of them.  Men's debating clubs
 have a pedantic phrase which exactly expresses this truth:
-they talk of `speaking to the motion'.  It is true;
+they talk of ‘speaking to the motion'.  It is true;
 men do speak to a motion, not about it; they talk to a topic.
 Women talk to each other; that is why their conversations
 are frightfully fascinating, but too terrible for us to listen
 to for long without running away.
 
-Do you remember how Thackeray cries out, `O les laches que
+Do you remember how Thackeray cries out, ‘O les laches que
 les hommes!' when George Warrington and Lord Castlewood rush
 from the room merely because the young American girl has begun
 a sweet satiric conversation with old Beatrix Esmond?  It is
@@ -836,7 +836,7 @@ there was, for an instant, an unmeaning silence, and then the voice
 of one of the best orators of the Union rose, piercing and pathetic,
 throbbing to the echoes of the roof, alone:
 
-`I do not say that the corridor ran the whole length of the train.
+‘I do not say that the corridor ran the whole length of the train.
 What I say, what I say emphatically and with the full responsibility
 of my intellect, is that it ran on the left-hand side of our carriage.
 And I know that I speak the [[Truth|truth]].'
@@ -867,7 +867,7 @@ We were only interrupted by some academic custom which required
 that the [[Union]] officials should be photographed.  And even then one
 of them moved.  He kept on quivering and stirring until the photographer
 broke into pathetic complaint.  Then he, in return, broke out,
-`I never denied that there was a case for the corridor at the side.
+‘I never denied that there was a case for the corridor at the side.
 What I said--' But we crushed him, reluctantly.  All this is,
 to the best of my recollection, quite true.
 
@@ -951,7 +951,7 @@ man more splendid than the sun.
 
 This is essentially admitted about such fables as those of Phoebus
 and Artemis; or even Balder and Thor; here it is vaguely conceded
-that `poets' and not mere ignorant savages, have had something to do
+that ‘poets' and not mere ignorant savages, have had something to do
 with the matter.  But what the folklorists of the Fraser type will not see
 is that the ruder savages also are poets; even if they are minor poets.
 All that they say about their totems, their taboos, their dances,
@@ -992,7 +992,7 @@ the moral that aristocratic traditions are made out much more popular
 than they really were.  'Norman' gets mispronounced as English.
 In this way three French leopards were somehow turned into British lions.
 And in this way also the solemn word [[asparagus|Asparagus]], which means nothing
-so far as I know, was turned by the populace into `sparrowgrass',
+so far as I know, was turned by the populace into ‘sparrowgrass',
 which means two of the most picturesque things in the world.
 Asparagus, which I presume to have been the name of a Roman pro-consul,
 Marcus Asparagus Esculens, or what not, never deserved such luck
@@ -1064,7 +1064,7 @@ must keep up an incessant excitement about new projects,
 new cultures and new prejudices, new skirts and stockings.
 It must tell a new tale every day or perish, like the lady
 of the Arabian Nights.  Tennyson, who was too much touched
-with this aristocratic--or snobbish--Futurism, wrote, `Lest one
+with this aristocratic--or snobbish--Futurism, wrote, ‘Lest one
 good custom should corrupt the world', which really means lest
 everybody should learn the right way of eating [[asparagus]].
 And so, out of luxury and waste and weariness, the fever they
@@ -1125,10 +1125,10 @@ but he is English.  I do not set my country above human temptations,
 like an [[Allegory|allegory]] on a ceiling; I do not say that enemies could not
 conceivably perturb the British [[Lion]] or fluster the British Bulldog.
 I do say that I am not, as a fact, perturbed, and specially
-not perturbed by people who say `The British Lion is drawing
+not perturbed by people who say ‘The British Lion is drawing
 in his horns'--I perceive that they have no vivid mental
 picture of a lion.  I am not flustered by people who say
-`The British Bulldog will soon have his wings clipped', because I
+‘The British Bulldog will soon have his wings clipped', because I
 know such curtailment to be both unnecessary and impossible.
 And the distinction is important.  Our very weaknesses
 are strengths so long as they are undiscovered weaknesses.
@@ -1143,7 +1143,7 @@ fuss of small leagues and committees, they cannot
 really be induced to 'do anything for Shakespeare'.
 Lord Melbourne (who was almost as English as Shakespeare)
 used to solve the most intense diplomatic crises by saying,
-`Can't we let it alone?'  We can.  We let Shakespeare alone.
+‘Can't we let it alone?'  We can.  We let Shakespeare alone.
 Just as we have an enormous negative monument to Shakespeare,
 so we have an enormous negative victory over Count Zeppelin.
 As a nation we receive his flaming visitations with something more
@@ -1175,7 +1175,7 @@ was much more sincerely expressed in the popular ejaculation,
 noble comic songs, and used to be uttered by people when they broke
 valuable teapots, or put their feet into cucumber-frames. Its excess
 was well satirised by Mr John Burns when he summed up Imperialism
-under the text, `The eyes of a [[Fool|fool]] are in the ends of the earth'.
+under the text, ‘The eyes of a [[Fool|fool]] are in the ends of the earth'.
 And it is true, as of every true national characteristic, that it
 has the defect of its quality, and often goes with an undue laxity
 about the rights of our own field or the laws of our own parish.
@@ -1280,9 +1280,9 @@ exactly eccentric, is just sufficiently out of the ordinary way
 to make it most improbable that any practical organizer would see it;
 or provide it, or put it into any definite class of things.
 I do not think I could say carelessly to a waiter, over my shoulder,
-`Just get me a black coffee and Benedictine and a toy theatre,
+‘Just get me a black coffee and Benedictine and a toy theatre,
 will you?'  I cannot imagine the headwaiter roaring down the
-speaking tube, `Three [[Manhattan]] cocktails and a toy theatre'.
+speaking tube, ‘Three [[Manhattan]] cocktails and a toy theatre'.
 I cannot imagine it was mentioned among the minor luxuries
 printed on the piece of clockwork in the bedroom.
 But even if it was, it would not meet the case.  Even if the waiter
@@ -1308,7 +1308,7 @@ I cannot pause for the experiment just now, having something worse
 to do; but the fancy happens to be an exact example of the sort
 of thing I mean; a fancy that could not possibly be foreseen,
 yet which might quite possibly be fulfilled.  No great organizing
-mind would say, `See that seven thousand chairs are ordered from
+mind would say, ‘See that seven thousand chairs are ordered from
 High Wycombe in case somebody wishes to turn them into toy theatres.'
 It is a hundred to one that nobody ever thought of this nonsensical
 notion before, and that nobody will ever think of it again.
@@ -1381,7 +1381,7 @@ In Praise of Pie
 We should like to utter our fervid and enthusiastic thanks to the
 clergyman who wrote to The Times the other day to protest against
 the neglect, both as a title and an Institution, of the glorious English
-possession known to our fathers as `Apple Pie'; and shamefully described
+possession known to our fathers as ‘Apple Pie'; and shamefully described
 by various degraded outcasts and aliens as Apple Tart.  As he very
 acutely pointed out, nobody says that a room is in apple tart order.
 As he warmly affirmed, no practical joker ever made an apple tart bed.
@@ -1390,13 +1390,13 @@ the traditions of our fathers testify to the true form of the word.
 A hundred inspiring battle-hymns rise to inspire the march;
 as in that truly national anthem which says
 
-                             `I'm not a glutton
-                             But I do like pie.'
+‘I'm not a glutton
+But I do like pie.'
 
 as well as those lyrics that form the foundation of all education
-and told us that A was an apple pie.  `Pie' is a full and powerful word,
+and told us that A was an apple pie.  ‘Pie' is a full and powerful word,
 like pig or pork; which fills the mouth with an appropriate and
-anticipatory fullness; it is impossible to say the words `I do like tart'
+anticipatory fullness; it is impossible to say the words ‘I do like tart'
 and produce the desired effect of talking with your mouth full.
 
 It is not a light or trivial matter.  There are questions,
@@ -1411,7 +1411,7 @@ by his ignorant instincts on this solemn and profound matter.
 It is not only that he who says Pie, and disdains to say Tart,
 is preserving the language of Shakespeare and the legend
 of the English and pure religion, breathing household laws.
-There are in it yet more subtleties of doctrine.  He who says `Pie'
+There are in it yet more subtleties of doctrine.  He who says ‘Pie'
 is he who, being assured that a bodily thing is lawful is
 not ashamed merely because it is bodily; but finds far more
 of Christian [[Humility|humility]] in the frank confession of the [[Body|body]].
@@ -1424,13 +1424,13 @@ when confronted with the solid duty of eating pie, are of the sort
 who complains of the coarseness of the [[Marriage]] Service or the clamour
 of church [[Bells|bells]] or the habit of singing carols at Christmas.
 We do not mean to blame those who, being in invincible ignorance,
-happen to say `tart' through habit and the teaching of ill-advised
+happen to say ‘tart' through habit and the teaching of ill-advised
 pastors and masters; but when the question is fairly faced, it would
 be found true that the obstinate and unrepentant are of this order.
 They are also of the kind that turn pale at a pun; or, what is worse,
 gravely discuss whether the example of Shakespeare makes it permissible.
 For the pleasure of annoying them, we utter in a loud voice this
-protest on behalf of the `Pie' as a symbol of Piety.
+protest on behalf of the ‘Pie' as a symbol of Piety.
 
 Culture Versus Civilisation
 
@@ -1485,7 +1485,7 @@ one thing which we did suppose was done for us by Civilization,
 it was to make us civil.  The very word politeness is really
 the Greek for civilization, just as the very word civilization
 is really the Latin for politeness.  It is a pleasing
-thought that the word `policeman' and the word 'politeness'
+thought that the word ‘policeman' and the word 'politeness'
 not only have the same meaning, but are almost the same word.
 But the Romans inheriting from the Greeks had no sooner
 established the idea of what is civic, or belonging to a citizen,
@@ -1856,7 +1856,7 @@ That is what people mean when they say that Shakespeare was often coarse;
 that is what people mean when they say that he was often dull.
 They mean that a great poet of the elder kind had spaces which were
 idle and absent-minded; that his sub-consciousness often guided him;
-that he sprawled; that he was not `artistic'. It is not only true
+that he sprawled; that he was not ‘artistic'. It is not only true
 that Homer sometimes nodded; but nodding was part of the very
 [[Greatness|greatness]] of Homer.  His sleepy nod shakes the [[Stars|stars]] like the nod
 of his own Jupiter.
@@ -1898,7 +1898,7 @@ For without raising, even in parentheses, the old argument of Swift's
 and Temple's [[Time|time]] about the relative merits of Ancients and Moderns,
 we may be quite certain that for democratic purposes the ancients
 are better.  A few scratches of grey and green on a piece of brown
-paper may really be as good in its own way as a `still life'
+paper may really be as good in its own way as a ‘still life'
 by a Flemish painter or a Holy Family by an Italian painter.
 But it must be perfectly obvious to anybody that the two latter
 are more likely to make a plain man understand what painting means.
@@ -1916,7 +1916,7 @@ made it, that people can learn today from the Old Masters.
 And they can learn it from nobody else.
 
 A hundred cases could be taken, but take the case of a common phrase:
-a common sneer with the art critics.  I mean the phrase `a
+a common sneer with the art critics.  I mean the phrase ‘a
 picture that tells a story'.  There could not be a sharper
 instance of the difference between the old [[Hero|hero]] who was man
 and more than man and the new [[Hero|hero]] who is not man at all.
@@ -1926,7 +1926,7 @@ The first and most important question is, what story?
 Most medieval and [[Renaissance]] pictures tell the story; the story
 on which all our European civilisation is founded, and is founded
 as finally if the thing is a fairy tale or if the thing is a [[Truth|truth]].
-The objection to pictures which `tell a story' only began in our time,
+The objection to pictures which ‘tell a story' only began in our time,
 for the very simple reason that the story was a dull story.
 I will not discuss here whether the great story of God made Man
 has been destroyed.  I will confine myself to saying that it has
@@ -1937,7 +1937,7 @@ demagogues as well as demi-gods. I mean there are other
 elements in which they eternally appeal to a popular instinct
 which was in them and in their patrons and in their populace.
 I should select the two examples of clarity and solidity.
-In Michelangelo's `Vision of Judgment' a real man appears
+In Michelangelo's ‘Vision of Judgment' a real man appears
 in the real skies.  The man is solid.  The skies are lucid.
 To the cultured it may appear incredible; but it will be much more
 credible to mankind, that universal church of which culture is a small
@@ -2097,7 +2097,7 @@ The Blindness of the Sightseer
 I once had the pleasure of making the acquaintance of an American,
 a very intelligent and inspiriting person, who, during a pause
 in a discussion on scenery, said, with the inimitable accent,
-`Well, I can't see when you have seen the highest mountain in
+‘Well, I can't see when you have seen the highest mountain in
 Switzerland what you want to see the rest for'.  So completely obsessed
 was he with this American sense of competition that he admitted
 competition even among mountains, and judged of some hundreds
@@ -2225,23 +2225,23 @@ Short story writers leap from behind hedges, minor poets
 drop from the trees like ripe fruit; you cannot walk
 through deep grass without stumbling over Sociologists.
 On dark, windy nights wild voices mingle with the wind,
-and the words 'reactionary', `superman', `the Philistines',
-and `raise the drama' echo desolately from [[Hill|hill]] to [[Hill|hill]].
-We see the vision of Fitz-James in `The Lady of the Lake'
+and the words 'reactionary', ‘superman', ‘the Philistines',
+and ‘raise the drama' echo desolately from [[Hill|hill]] to [[Hill|hill]].
+We see the vision of Fitz-James in ‘The Lady of the Lake'
 which Scott describes in words (which I quote from memory):
 
-  At once from copse and heath arose
-  Roundels and fugues and lyric prose,
-  From shingles grey their nocturnes start,
-  The bracken bush cries, `Art is Art',
-  And every tuft of broom is rife
-  With highly beastly views of life.
+At once from copse and heath arose
+Roundels and fugues and lyric prose,
+From shingles grey their nocturnes start,
+The bracken bush cries, ‘Art is Art',
+And every tuft of broom is rife
+With highly beastly views of life.
 
 I have met in meadows here some of the most terrible and beautiful people
 of Fleet Street.  I have seen a cottage, decent and quiet on the outside,
 inside which, as I [[Hope|hope]] for heaven, there were Burne-[[Jones]]'s on the wall.
 In short, we are in the presence of a peculiar phenomenon.  The people
-are not going `back to the land' but the cultivated classes are.
+are not going ‘back to the land' but the cultivated classes are.
 
 But there is something about these intellectual people
 in flannel shirts who come out and live in the country,
@@ -2295,7 +2295,7 @@ poetic feeling which the minor poets in the neighbourhood
 tend to lack.  Before us lay a roll of country like the back
 of an unbroken wave, spacious, silent, meeting the sky.
 He stretched out his whip towards it, and said in what I can
-only call an awestruck voice, `If this were all kitchen gardens!
+only call an awestruck voice, ‘If this were all kitchen gardens!
 Then you'd have people--people--people.'  Three times he said
 the sacred word of the republic.  This article, you will perceive,
 is also written in a kitchen [[Garden|garden]], and a witchery of onions
@@ -2336,10 +2336,10 @@ had not happened that among the promoters of the meeting,
 standing beside the van, was a man with that air of strained
 intellectuality which marks a reader of The Daily News.
 He heard my name by some social accident; and remembered
-seeing it in the paper.  `I have read your articles,'
+seeing it in the paper.  ‘I have read your articles,'
 said this excellent Liberal, with a friendly smile, while I
 faintly condoled with him.  Then he said, after a pause
-of some length, `I think I know what some of them mean'.
+of some length, ‘I think I know what some of them mean'.
 I implored him to share with me this secret and painful knowledge,
 but he refused, and I shall go to my [[Grave|grave]] without it.
 But my encounter with the man had drawn me into the dangerous circle.
@@ -2403,7 +2403,7 @@ and anger, thrust his face forward.  His wages had been cut down,
 he said; he had been underpaid, and underpaid by this man.
 The farmer, staring at him through the darkness, at first denied
 all knowledge of his face.  Then a voice broke out of him, a loud
-and wrathful and decisive voice, crying, `Why, I know yer now.
+and wrathful and decisive voice, crying, ‘Why, I know yer now.
 I know yer now, I sacked yer for--'. Then the sense of English
 respectability awoke suddenly in everybody, and the men were torn apart
 and soothed wildly by their friends.  Whatever happened, we must not
@@ -2439,7 +2439,7 @@ and Improvement Act are corrupt scoundrels.'
 We are allowed to say, 'Sir William Guppy is a supporter
 of the Blue-nosed Monkeys Modification and Improvement Act'.
 We are not allowed to complete the syllogism.  Everybody says
-with one accord in our English Parliament:  `Let us have
+with one accord in our English Parliament:  ‘Let us have
 no personalities in politics.'  Every Briton says at his
 breakfast table:  'At least, we are not like the French
 and the Irish; we have no personalities in our politics.'
@@ -2463,7 +2463,7 @@ could almost, in the strong Scripture rhetoric, take the wings
 of the morning and abide in the uttermost parts of the sea.
 
 And I remember a voice near me speaking in an accent that was neither
-French nor Flemish nor my own:  `You see how narrow the windows were
+French nor Flemish nor my own:  ‘You see how narrow the windows were
 in those days.'
 
 I did.  I also began to see, for the first time, how narrow
@@ -2478,7 +2478,7 @@ Cumberland or Calabria and there is a chance that your eye may
 strike something slightly depressing.  But any strip of Belgium
 will be a string of jewels.  Note, thirdly, that the thinness
 of the outlook is largely due to the thickness of the walls.
-There is no trace of what vulgar people call `a vista':
+There is no trace of what vulgar people call ‘a vista':
 the [[house]] does not open up indefinitely to the world outside.
 The man of Memlinc sees the world from his [[Window|window]].
 But it is still the final fact that the [[Window|window]] was his [[Window|window]]
@@ -2504,7 +2504,7 @@ whether he has combined the windows that exist, or spared the windows
 that never existed.  He cannot make anything except a [[Window|window]];
 for a [[Window|window]] is simply a hole.  When he has blown everything to atoms,
 when no stack or stone stands about us for many miles, he will say,
-with an insane simplicity:  `I have made the largest window in the world.'
+with an insane simplicity:  ‘I have made the largest window in the world.'
 
 The Apostle and the Wild Ducks
 
@@ -2673,7 +2673,7 @@ I was not even thinking of that noble theme, the Wife of Bath,
 a medieval monument which seems even more gigantic than an abbey.
 
 If anyone really wants to know why some of us have a taste
-for what is called `medievalism', he can find a great deal of it
+for what is called ‘medievalism', he can find a great deal of it
 in that grand and [[Grotesque|grotesque]] personality.  But the point is that
 the Wife of Bath was coming from Bath, and not going to Bath.
 When we consider what her errand was, and then what she was,
@@ -2879,7 +2879,7 @@ whole [[history]] of [[Christianity]].  There have even been a few English
 critics capable of reading and reviewing the English translations.
 But the Rev. Timothy Tooting, who is a pacifist because he disapproves
 of all fights except bun-fights, who serves out cocoa but has
-never touched `alcohol', and who holds meetings to promote the peace
+never touched ‘alcohol', and who holds meetings to promote the peace
 of the world--do you suppose that he has contributed very much to
 the understanding of the procession of the great Kings and the pride
 in the glory of Gaul?  But until we understand that pride we shall
@@ -3036,7 +3036,7 @@ It never occurs to them that, while Shakespeare would write
 his own name in two or three totally different but equally
 illegible scrawls, he trusted the whole great load of his
 glory to the sound of words, to be spoken by living men.
-In dealing therefore with a word like `Beaconsfield',
+In dealing therefore with a word like ‘Beaconsfield',
 they do not know how to choose between the men who can speak
 and the men who can only spell.  It was always pronounced right.
 Only it is still spelt wrong.
@@ -3050,7 +3050,7 @@ which makes up the central and southern parts of Buckinghamshire;
 and through the county a real relation to the country.
 A Sussex man, himself boiling over with enthusiasm for Sussex,
 once said to me of the beech-woods about my Beaconsfield [[Home|home]],
-`This is really the most English part of England; I confess that
+‘This is really the most English part of England; I confess that
 compared with this, Sussex is a thing quite separate and apart.'
 
 We have all heard about the British oak; and I am traditional enough
@@ -3212,7 +3212,7 @@ And all political groups, if they are doing anything
 (a large assumption), are constructing by means of destroying.
 Compare this journalese jargon with the shrewd proverbs of popular life.
 It must have been a French peasant, I think, who invented the much
-wiser phrase:  `You can't make omelettes without breaking eggs.'
+wiser phrase:  ‘You can't make omelettes without breaking eggs.'
 
 Victor Emmanuel's monument has one great merit not easily to be
 found in [[London]].  It may seem to some merely to block the traffic,
@@ -3361,8 +3361,8 @@ cannot make a statue unless you have an idea; and the essence
 of an advocate is that he has any ideas or all ideas.
 Exactly what men admired in Palmerston is exactly what men
 cannot carve in stone; his easy variety, his quickness to leap,
-which seemed almost like omnipresence.  `What a faculty that
-fellow has,' said Macaulay admiringly, `for falling on his feet!'
+which seemed almost like omnipresence.  ‘What a faculty that
+fellow has,' said Macaulay admiringly, ‘for falling on his feet!'
 It is a splendid capacity, doubtless, to fall on one's feet;
 but if one is a statue it is dangerous to fall on anything else.
 
@@ -3529,7 +3529,7 @@ tournaments which the men of the Middle Ages loved as much
 as bodily tournaments.  The Abbot was presumably something
 of a philosopher as [[Well|well]] as a philanthropist, and he was liberal
 in his mental interests as [[Well|well]] as liberal with his corn.
-In the exact words of Joinville's Chronicle, `There was a great
+In the exact words of Joinville's Chronicle, ‘There was a great
 disputation between clergy and Jews at the Monastery of Cluny.'
 That single sentence knocks flat for ever the whole picture
 and conception of the medieval Jew which we all have from Scott's
@@ -3588,22 +3588,22 @@ And at the moment, before any of the philosophers could move,
 the old man of the crutch stood up and asked to speak.
 
 Joinville in his Chronicle gently says that this was received
-`with [[Doubt|doubt]]'.  Human life is so startlingly the same in all ages that one
+‘with [[Doubt|doubt]]'.  Human life is so startlingly the same in all ages that one
 can see the scene as clearly as if it were a modern meeting when some
 peppery and impractical Colonel insists on addressing the meeting.
 One can imagine the whispers between the Abbot and his chief supporters.
-`If he speaks there will be a row,' and the unanswerable answer,
-`If we stop him there will be a worse row'.  The assembled philosophers,
+‘If he speaks there will be a row,' and the unanswerable answer,
+‘If we stop him there will be a worse row'.  The assembled philosophers,
 who had been about to pose the Rabbis with the awful rationalism of
-medieval argument, `Why do you believe in God if He is not manifest?'
-or `Could anyone believe in Heaven except through revelation?'
-stood for a moment aside.  The old cripple said, `At least you admit
+medieval argument, ‘Why do you believe in God if He is not manifest?'
+or ‘Could anyone believe in Heaven except through revelation?'
+stood for a moment aside.  The old cripple said, ‘At least you admit
 that Our Lady was the Mother of God.'
 
 The Rabbi who was addressed smiled, perhaps, that rich
 smile which some find repulsive even when it is benevolent,
 and said that he did not admit this.  The old man said steadily,
-`Then if you do not [[Love|love]] Our Lady you were very silly to come
+‘Then if you do not [[Love|love]] Our Lady you were very silly to come
 into her [[house]].'  He plucked the crutch from under his arm,
 and whirling it suddenly aloft, caught the Jew a stunning crack
 behind the ear, bringing him to the ground.  Instantly, of course,
@@ -3634,7 +3634,7 @@ and St George, Robin Goodfellow and [[Robin Hood]], belong to a national
 tradition that has not even been touched by [[Puritanism]]; yet which is
 quite different from the tradition of Spain, of Scotland, or of France.
 Chaucer's Franklin, whose beard was white as a daisy, and in whose
-[[house]] `it snewed meate and drinke', was as certainly an Englishman
+[[house]] ‘it snewed meate and drinke', was as certainly an Englishman
 as he most certainly was not a Puritan.
 
 Puritanism was something put into the Englishman after
@@ -3656,7 +3656,7 @@ among the fairies; and in that almost Arthurian romance
 of the roving court of Robert Bruce, which left, like a gypsy
 blood for generations, a tradition of wandering Scottish kings.
 Even in Scotland, I believe, Calvinism has only been
-an episode.  The Scotch are taking off their `blacks'
+an episode.  The Scotch are taking off their ‘blacks'
 and appearing again in the purple of their ancient poetry.
 We may yet hear the twang of the last precentor before we
 really hear the Lay of the Last Minstrel.
@@ -3697,7 +3697,7 @@ Dickens quite obviously existed to champion everything that
 the Puritans existed to destroy; when Mr Scrooge is converted
 to Christmas, the Puritan would have thought that Scrooge
 was relapsing and not repenting.  When Scrooge and his clerk
-sit down to `a bowl of smoking Bishop', the Puritan would
+sit down to ‘a bowl of smoking Bishop', the Puritan would
 have been equally disgusted with the spirit and with the name.
 Nevertheless the Ironside element, though alien to England,
 was to a certain extent mixed with it; and I myself believe
@@ -3723,9 +3723,9 @@ Where the Catholic Englishman had been modest enough to make
 a fool of himself, the Protestant Englishman had only that
 lower sort of modesty that will not make a show of itself.
 He objected to making a Pageant, because it is, literally speaking,
-`making a scene'.  It is said that the Frenchman shrugs his shoulders;
+‘making a scene'.  It is said that the Frenchman shrugs his shoulders;
 but the Victorian Englishman was born with his shoulders shrugged.
-His whole attitude until lately has been `What's the good
+His whole attitude until lately has been ‘What's the good
 of making a fuss?'  It is a sensible and pleasant temper;
 it is the remains of the real Englishman who gave its patient
 Pickwickian cheerfulness to the Canterbury Pilgrimage.
@@ -3736,9 +3736,9 @@ and in the colours of Carnival.
 
 Rational History
 
-There is a sort of phrase or joke about `whitewashing'
+There is a sort of phrase or joke about ‘whitewashing'
 the villains of [[history]]; but to be quite just there ought
-to be some phrase such as `blackwashing' also.  For the truth
+to be some phrase such as ‘blackwashing' also.  For the truth
 is that such rehabilitations are of two very different kinds.
 One is a mere anarchist itch to upset a traditional
 and universal verdict.  The other is a reasonable petition
@@ -3784,7 +3784,7 @@ The sins of the Superman are unpardonable.
 But the sins of man are as the hairs of his head.
 So long as we regard Napoleon as a Superman, we are bound
 to regard all his cruelties as cold-blooded, all his pride
-as blasphemous, all his diplomacy as `black causeless duplicity'
+as blasphemous, all his diplomacy as ‘black causeless duplicity'
 (as Stevenson said of his own Master of Ballantrae), all his sins,
 in short, as sins against the Holy [[Ghost]]--and, above all,
 all his misfortunes as deserved.  But if we regard him as Man,
@@ -3810,7 +3810,7 @@ him for ever.
 Much of the same is true, as I have said, of the [[Last Stand|last stand]] of
 the remote Plantagenet at Bosworth:  when Henry Tudor rode as best
 he could into battle, making up his pedigree as he went along.
-The real medieval [[King|king]] was the man who died calling out `Treason'
+The real medieval [[King|king]] was the man who died calling out ‘Treason'
 and killing men on every side of him.  Richard III was doing
 exactly what would have been expected of Richard I. But nothing
 was ever expected of the Tudors except the unexpected.
@@ -3862,7 +3862,7 @@ with a decently distributed power over the means of production,
 where a common man could afford to build his own cottage.
 A club or institute may be established with enthusiasm
 and applause; it may be regarded as a mere saving of wealth
-and life by `keeping people out of the public [[house]]'.
+and life by ‘keeping people out of the public [[house]]'.
 But it may be regarded as a meaningless waste by people who will,
 perhaps, have restored the public [[house]] to the proper public dignity,
 and made the old Christian inn a place for Christian men.
@@ -4105,7 +4105,7 @@ brainless and revolting.  That, however, was merely Ruskin's [[Humour|humour]],
 and one of the deepest disappointments with Mr Collingwood is that he,
 like every one else, fails to appreciate Ruskin as a humorist.
 Yet he was a great humorist:  half the explosions which are
-solemnly scolded as `one-sided' were simply meant to be one-sided,
+solemnly scolded as ‘one-sided' were simply meant to be one-sided,
 were mere laughing experiments in language.  Like a woman,
 he saw the humour of his own prejudices, did not sophisticate
 them by logic, but deliberately exaggerated them by rhetoric.
@@ -4140,7 +4140,7 @@ we feel how needful are such figures when we consider
 with what pathetic eagerness men pay prophetic honours even
 to those who disclaim the prophetic character.  Ibsen declares
 that he only depicts life, that as far as he is concerned
-there is nothing to be done, and still armies of `Ibsenites'
+there is nothing to be done, and still armies of ‘Ibsenites'
 rally to the [[Flag|flag]] and enthusiastically do nothing.  I have found
 traces of a school which avowedly follows Mr Henry James:
 an idea full of [[Humour|humour]].  I like to think of a crowd with pikes
@@ -4399,11 +4399,11 @@ Another and much stronger instance of this [[Truth|truth]] occurred to me
 the other day.  I was walking down a small and ugly street and happened
 to be reading the first printed version of a ballad of [[Robin Hood]].
 Raising my eyes (I had just knocked over a man selling matches)
-I found myself staring at a glaring stack of `penny dreadfuls' in a dirty
-paper shop.  They were inscribed, `The Adventures of [[Robin Hood]]'.
-`Here,' I said, `I have at last an unbroken English tradition,
+I found myself staring at a glaring stack of ‘penny dreadfuls' in a dirty
+paper shop.  They were inscribed, ‘The Adventures of [[Robin Hood]]'.
+‘Here,' I said, ‘I have at last an unbroken English tradition,
 known in the [[Time|time]] of Edward I, known in the [[Time|time]] of Mr Harmsworth.'
-And the more I compared the old ballad with the `penny dreadful',
+And the more I compared the old ballad with the ‘penny dreadful',
 the more I saw their resemblance to each other.  Both were traditional;
 both contained repetitions; both were multiplied endlessly;
 both were adventurous; both were popular; both were anonymous.
@@ -4431,12 +4431,12 @@ In these Robin Hood ballads there is almost every bracing and
 popular element; there is one above all, the moral and melodramatic.
 We can all remember when we began first to feel that there was something
 pompous and ludicrous in the morals of the melodrama, began to feel
-uncomfortable when the heroine said, `Would you have me sell my [[Child|child]]?'
+uncomfortable when the heroine said, ‘Would you have me sell my [[Child|child]]?'
 or when the burglar spared the infant because of the little ones at [[Home|home]].
 Then we read Kipling and the realists, and were refreshed and invigorated
 with their salt and stinging candour; we wept sacred [[Tears|tears]] when we read
 of a woman whose personal affection expressed itself not by saying,
-`How can I sell my own child?' but by saying, `Took for a common drunk.
+‘How can I sell my own child?' but by saying, ‘Took for a common drunk.
 Gawd send they don't look at 'is boots.'  Artistically we were
 quite right.  The Kipling story, with its savage pleasantry and its
 colossal cynicism, is immeasurably superior in almost everything there
@@ -4445,11 +4445,11 @@ It is not so like life.  The Adelphi play gives a much more
 accurate version of the solemn, magnanimous, vainglorious pose
 which the average man really adopts in matters he thinks important.
 The poor do, indeed, employ a gross fantasy of speech (such as
-`Gawd send', etc.)  when they wish to be satiric or frivolous;
+‘Gawd send', etc.)  when they wish to be satiric or frivolous;
 but that is simply their literature; slang is a kind of deliberate song.
 But when they are talking seriously they do talk pompously.
 A man has only to walk down the Battersea Highroad on a Saturday
-night to hear round him one universal chatter of such things as `How
+night to hear round him one universal chatter of such things as ‘How
 can I sell my own [[Child|child]]?'  And as for the burglar who thinks of
 the little ones at [[Home|home]], every evidence in life and the newspapers
 seems to support the hypothesis that criminals are sentimental,
@@ -4499,7 +4499,7 @@ The collected records of [[Robin Hood]] become perfectly monotonous
 at last, as they relate the number of people who vanquished the [[Hero|hero]],
 and whom he warmly commended.  There is, of course, a great deal
 of English [[Vanity|vanity]] about these admissions; the implication is,
-`How splendid you must be, as you have conquered such a one
+‘How splendid you must be, as you have conquered such a one
 as I'. But this self-satisfaction is an eternal English trait.
 The great English generosity is really in these ballads.
 There is nothing that Robin Hood seems to like so much as being
@@ -4510,7 +4510,7 @@ they will not find what they want.  Here are songs written
 by a rude people in an age of bludgeons and gibbets,
 here is the rawest and plainest utterance of primitive England,
 and if there be one truth that runs from one end of it to the other,
-it is `the policy of Majuba'.
+it is ‘the policy of Majuba'.
 
 A Plea for Hasty Journalism
 
@@ -4518,9 +4518,9 @@ My last week's article, which reads worse in print than anything I
 have ever had the misfortune to read, was written under an opulent
 beech-tree on a walking tour, and only just caught the post.
 I do not mention this fact merely in order to introduce
-the adjective `opulent'--admirable as it is--nor do I do it
+the adjective ‘opulent'--admirable as it is--nor do I do it
 out of mere egotism; for egotism is even more of a nuisance
-to the ego than it is to other people.  The precept `know thyself'
+to the ego than it is to other people.  The precept ‘know thyself'
 did not fall from heaven; it fell upstairs from the other place.
 I decline to know myself; he is not in my set.  He is an
 unknown benefactor of mine, who prefers to remain anonymous.
@@ -4535,19 +4535,19 @@ more about the commonplace conditions of muddle and procrastination
 and flurry and scurry in which it is really produced.
 And I wish that at the beginning or end of all the articles
 we read, there were a brief note stating the situation in which
-the work was written.  Thus we should read, `Will Australia
-adopt Bimetallism?' then, in small letters, `Top of Omnibus';
+the work was written.  Thus we should read, ‘Will Australia
+adopt Bimetallism?' then, in small letters, ‘Top of Omnibus';
 or some such place in which we journalists do most of our learned
 research and compilation.  We should see in some excited morning
-paper the headlines, `Battle at Ping Cho still in Progress,
+paper the headlines, ‘Battle at Ping Cho still in Progress,
 by an Eyewitness.  Latest'.  Then in the usual place would be the note,
-`A.B.C. shop, Strand'.  The title, `Should Spinsters Marry Widowers?'
-would be annotated with `Swan and Elephant, 12.15', and so on.
+‘A.B.C. shop, Strand'.  The title, ‘Should Spinsters Marry Widowers?'
+would be annotated with ‘Swan and Elephant, 12.15', and so on.
 Perhaps, as rather longer descriptions would often be required,
 it might be as [[Well|well]] to confine the matter to a system of easily
-recognised initials.  Thus, for instance, `How England
+recognised initials.  Thus, for instance, ‘How England
 could be Invaded.  L.S.R.D.' (Lodgings at the Seaside.
-Rainy Day); or `Buddhism and the German Pessimists:
+Rainy Day); or ‘Buddhism and the German Pessimists:
 a Parallel.  C.W.P.P.S.' (Cottage. Wallpaper with Pink Spots).
 The thing would throw a kind of flush of colour into our articles.
 [[Nature]] would creep into them as she creeps into the colour
@@ -4566,7 +4566,7 @@ objects lying all round him (eggs, [[Water|water]]-melons, sheep, and so on),
 and packs them into himself as if he were a carpetbag.
 It remembers that the very bones of our heads are grinning.
 And so you will always find in every age that very sincere men
-are accused of what is called `blasphemy' (it was Caiaphas's
+are accused of what is called ‘blasphemy' (it was Caiaphas's
 charge)--blasphemy, which means taking things too lightly.
 The people who can be consistently and entirely solemn are
 the people who have no convictions at all.  Look at them,
@@ -4629,7 +4629,7 @@ And if he thought a great deal of the fire, it was from the simple,
 and from his point of view unanswerable, reason that a fire
 is a very artistic thing.  Mr Max Beerbohm in one of his
 most delightful and absurd essays has denounced the fire
-brigade as a band of vandals who destroy a `fair thing'.
+brigade as a band of vandals who destroy a ‘fair thing'.
 He has threatened to start an opposition [[Fire|fire]] brigade
 whose pipes shall be filled not with [[Water|water]] but with oil.
 Nero was only Max made serious; Nero was only Max without
@@ -4750,17 +4750,17 @@ as Jewish folklore; of course, in a bad sense.  In any case,
 our [[Translation|translation]] is English folklore--and that in the best sense.
 England wrote it; no mere Englishman could have done so.
 
-`How beautiful upon the mountains are the feet of him that bringeth
+‘How beautiful upon the mountains are the feet of him that bringeth
 good news.'  That is as light and as leaping and as classically
 pure as Spenser.  But Spenser had nothing to do with it;
 some ordinary parson wrote it.
 
-`And his driving is as the driving of Jehu, the son of Nimshi;
+‘And his driving is as the driving of Jehu, the son of Nimshi;
 for he drives furiously.'  That is far more vigorous than Chapman
 or Ford.  But Chapman and Ford had nothing to do with it;
 it was done by some common clergyman.
 
-`Where there is no vision the people perish.'  That is as plain
+‘Where there is no vision the people perish.'  That is as plain
 and picturesque as Bunyan.  But Bunyan had nothing to do with it;
 in fact, he was not born.  It may seem a strange matter that these
 pompous big-wigs summoned by so stiff a Scotch pedant as James I
@@ -4799,18 +4799,18 @@ into a rhythm and beat of beauty.
 
 The English of the English Bible is not merely splendid
 about splendid things; it is splendid about everything.
-In any modern leading article we might see the words `We cannot
+In any modern leading article we might see the words ‘We cannot
 understand why English watering-places like Bath or Brighton are
 not as adequate as foreign watering-places like Baden or Dieppe;
 nor why those who seek the one should not as reasonably seek
 the other.'  And that would be perfectly good modern English.
 It is not mere religious association that makes us see better
-English in `Are not Pharpar and Abanah, the waters of Damascus,
+English in ‘Are not Pharpar and Abanah, the waters of Damascus,
 better than all the waters of Jordan, and may I not wash
 in them and be clean?'  It is really the perfection of style;
 it is poetry inside prose.
 
-Any magazine article might contain the paragraph:  `The enthusiast must
+Any magazine article might contain the paragraph:  ‘The enthusiast must
 always be discouraged by certain perishability in all popular things.
 The mass of mankind seems so plainly a mere part of [[Nature|nature]], that it
 is hard to believe that all their ideas are not at once as monotonous
@@ -4819,13 +4819,13 @@ will always return to the idea of an order and a reason in things.'
 That would be perfectly sound, intelligent modern English.
 
 It is not mere religious tradition that makes us think that this
-is better:  `The voice said, Cry; and he said, What shall I cry?
+is better:  ‘The voice said, Cry; and he said, What shall I cry?
 All flesh is grass, and all the goodliness thereof is as the
 flower of the field.  The grass withereth, the flower fadeth:
 because the spirit of the Lord bloweth upon it:
 surely the people is grass.'
 
-And then, as in an answer across an abyss:  `The grass withereth,
+And then, as in an answer across an abyss:  ‘The grass withereth,
 the flower fadeth:  but the word of our God shall stand forever.'
 
 It is not the glamour of an ancient language.  It is simply a much
@@ -4835,9 +4835,9 @@ In one of those tremendous passages that pierce through
 all languages and belong to the sacred Scripture itself,
 one of the prophets speaks of the perfect [[Time|time]] as a [[Time|time]] when
 all the vessels shall be as vessels before the altar, and on
-every pot in Jerusalem shall be written `Holy unto the Lord'.
+every pot in Jerusalem shall be written ‘Holy unto the Lord'.
 That is what the English translation, by a literary accident,
-really managed to achieve.  The phrase `verbal inspiration'
+really managed to achieve.  The phrase ‘verbal inspiration'
 may be orthodox or unorthodox about the [[Bible]] in its
 [[Supernatural|supernatural]] sense.  But it is very nearly true about the
 English [[Translation|translation]] in a secondary and merely human sense.
@@ -4847,7 +4847,7 @@ on this last great wave of the poetical English language.
 Everyone, revolutionist and reactionary, is in our [[Time|time]]
 saying that domestic things must be dull, that common things
 must be commonplace.  Everyone is saying, though with much
-less literary brevity, `Surely the people is grass'.
+less literary brevity, ‘Surely the people is grass'.
 But in our sterile time we have never guessed how tall
 the grass can grow.
 
@@ -4864,7 +4864,7 @@ It would be nearer the truth to say that they did.  But in any case it
 may be amusing to those who are thus amused, and perhaps even instructive
 to those who thus need to be instructed, to know that the earliest work of
 Jane Austen might be called a satire on the fable of the fainting lady.
-`Beware of fainting fits . . . though at times they may be refreshing
+‘Beware of fainting fits . . . though at times they may be refreshing
 and agreeable yet believe me they will in the end, if too often repeated
 and at improper [[Seasons|seasons]], prove destructive to your Constitution.'
 Such were the words of the expiring Sophia to the afflicted Laura;
@@ -4937,8 +4937,8 @@ of the sort of high spirits that are always higher in private than
 in public; as people laugh louder in the [[house]] than in the street.
 Many of her admirers would not expect, perhaps many of her admirers
 would not admire, the sort of fun to be found in the letter to
-the young lady `whose feelings were too strong for her judgment',
-and who remarks incidentally `I murdered my father at a very early
+the young lady ‘whose feelings were too strong for her judgment',
+and who remarks incidentally ‘I murdered my father at a very early
 period in my life, I have since murdered my mother, and I am now
 going to murder my sister'.  Personally, I think it admirable;
 not the conduct, but the confession.  But there is much more
@@ -4948,14 +4948,14 @@ There is not a little of the true Austen irony.  'The noble Youth
 informed us that his name was Lindsay--for particular reasons,
 however, I shall conceal it under that of Talbot.'  Did anyone
 really [[Desire|desire]] that to disappear into the waste-paper basket?
-`She was nothing more than a mere good-tempered, civil and
+‘She was nothing more than a mere good-tempered, civil and
 obliging young woman; as such we could scarcely dislike her--
 she was only an object of contempt.'  Is not that something like
 the first faint line in the figure of Fanny Price?  When a loud
 knocking is heard on the door of the Rustic Cot by the Uske,
 the heroine's father enquires the nature of the noise, and by cautious
 steps of inference they are enabled to define it as somebody
-outside striking the door.  `"Yes" (exclaimed I) "I cannot
+outside striking the door.  ‘"Yes" (exclaimed I) "I cannot
 help thinking it must be somebody who knocks for admittance."
 "That is another point" (replied he) "we must not pretend
 to determine on what motive the person may knock--tho'
@@ -5052,7 +5052,7 @@ them for the very thing for which revolutionary sentiment has
 so much admired them; as for their glorification of ingratitude
 to parents and their easy assumption that the old are
 always wrong.  'No!' says the noble Youth in [[Love]] and [[Friendship]],
-`never shall it be said that I obliged my father.'
+‘never shall it be said that I obliged my father.'
 And the other is that there is not a shadow of indication
 anywhere that this independent intellect and laughing spirit
 was other than contented with a narrow domestic routine,
@@ -5261,25 +5261,25 @@ The awful cry out of the last tragic trance of Othello, when he realises
 that death is as real as love, finds words worthy of itself;
 megalithic words; words not only of weight but weight-bearing;
 words strong enough to support him above the abyss.
-`If I quench thee, thou flaming minister . . .' The address to
+‘If I quench thee, thou flaming minister . . .' The address to
 the candle might almost be called obscure, but it is not doubtful;
 it is not hesitant or wavering in words or the sound of words;
 it is rather as if a man were granted a greater thing than speech.
 And the effect is gained by this firmness in the words and the weight
-that can rest on them.  `I know not where is that Promethean heat.'
+that can rest on them.  ‘I know not where is that Promethean heat.'
 You could stand an elephant on that line.  It is true, first of all,
 as a mere fact of acoustics, that there is not one weak syllable
 in the line.  At the same time, there is also that strength
-of style that is like the strength of gesture.  `I know not where'
+of style that is like the strength of gesture.  ‘I know not where'
 is the essential elemental cry of man, eternally ignorant
 of the beginning of life, or of how it may truly be renewed.
 And it is a plain and simple fact, whether we like it or not,
-that the words `I know not where' do sound like some such ancestral city;
-while the words, `I don't know where' certainly do not.
+that the words ‘I know not where' do sound like some such ancestral city;
+while the words, ‘I don't know where' certainly do not.
 
 Now half the current case for free against traditional verse
-turns simply on that.  It consists in calling `I know not where'
-pompous and theatrical; and calling `I don't know where'
+turns simply on that.  It consists in calling ‘I know not where'
+pompous and theatrical; and calling ‘I don't know where'
 natural and sincere.  It is not more natural and it is not
 more sincere; it is only more conversational.  And the fact
 that it is conversational only means that it is conventional.
@@ -5303,19 +5303,19 @@ or to recast or rearrange them so, as to weld them closer together.
 A gentleman lighting a cigarette, in talk over the tea-table,
 would rather unduly suspend social intercourse if he refused
 to blow out the match until he had composed a line as full
-and satisfying as `If I quench thee, thou flaming minister'.
+and satisfying as ‘If I quench thee, thou flaming minister'.
 In truth, of course, it would apply to tragic occasions as well
 as trivial occasions in real life.  A man, after murdering a woman,
 would not talk about Prometheus; he is more likely to confess
 to the nearest policeman that he has done Desdemona in.
-But it is none the less true that `done in' is a very weak
+But it is none the less true that ‘done in' is a very weak
 description of what he has done.  It is that weakness
 in the mere words, and especially in the relation of words,
 which seems to me to paralyse in practice a vast amount
 of what is called [[Free Verse|free verse]].  If anyone asks why [[Free Verse|free verse]]
 should not be written which included this close grip and gravity
 and resistant strength in a sentence, I am content to answer:
-`Why indeed!'  But the real repartee of the free versifier
+‘Why indeed!'  But the real repartee of the free versifier
 in such a case is not to ask why it should not be done,
 but to do it.
 
@@ -5329,14 +5329,14 @@ enthusiastic for copying; until more modern authors became more
 enthusiastic for copyright.  But there runs through all poetry,
 through medieval down even to modern times, something like an
 everlasting echo that has in it an element of enchantment.
-There are refrains that recur in any sort of song; such as `Over
-the Hills and Far Away', or `On Christmas Day in the Morning',
-or `Under the Greenwood Tree'.  But I was recently rather
+There are refrains that recur in any sort of song; such as ‘Over
+the Hills and Far Away', or ‘On Christmas Day in the Morning',
+or ‘Under the Greenwood Tree'.  But I was recently rather
 amused to note two or three cases in which two or three poets
 had repeated the same sentence, as [[Well|well]] as the same sentiment.
 I mean that they had avowedly used a verbal repetition,
 which the vulgar might really call plagiarism.  One series began,
-as I imagined, with that spirited [[Song|song]] of Byron, `We'll go no more
+as I imagined, with that spirited [[Song|song]] of Byron, ‘We'll go no more
 a-roving'. Its chief beauty is that Byronic beauty of swiftness,
 which is often neglected.  It consists of three verses
 of four lines each; but it could all be said in a breath.
@@ -5353,7 +5353,7 @@ private doubts about the unconquerable soul which goes with
 the unconquerable temper.  Still, he was a fine fellow in his way,
 and his friends loved him, though he did throw his crutch at them.
 He wrote a lyric which simply changes, 'We'll go no more a-roving',
-to `We'll go no more a-roaming'. It might at least be called an echo;
+to ‘We'll go no more a-roaming'. It might at least be called an echo;
 but I am now defending echoes.  And now I discover, from the recent
 and most fascinating memoirs of a common sailor, that both
 the [[Poems|poems]] may have been echoes; and both the poets plagiarists.
@@ -5361,9 +5361,9 @@ For he quotes a sea-shanty, as sung by common sailors, which I
 myself like better than either of the literary productions.
 I can imagine a seaman singing with the proper doleful boom:
 
-           A-roving--, a-roving--, since roving's been my ru-u-in
-                    I'll go no more a-roving
-                    With you, fair maid!
+A-roving--, a-roving--, since roving's been my ru-u-in
+I'll go no more a-roving
+With you, fair maid!
 
 The small coincidence is worth noting; because it is [[Well|well]] to remember
 that there is a whole literature which is lucky in being quite unconnected
@@ -5406,14 +5406,14 @@ for the best method, the ideal, whether it is in the future
 or the past.  I imagined this book as a drab-coloured,
 decorous little philosophical treatise, with no chapters,
 but the page occasionally broken by section-headings at the side.
-I proposed to call my analysis of a radical error `What is wrong',
+I proposed to call my analysis of a radical error ‘What is wrong',
 meaning where the mistake is in our logical calculation.
 But I had highly capable and sympathetic publishers,
 whose only weakness was that they thought my unhappy monologue
 much more important than I did.  By some confusion of ecstasy
 (which entirely through my own fault I failed to check)
 the title was changed into the apocalyptic trumpet-blast
-`What's Wrong With the World'.  It was divided up into three short,
+‘What's Wrong With the World'.  It was divided up into three short,
 fierce chapters, like proclamations in a French riot.
 Outside there was an enormous portrait of myself looking like a
 depressed hairdresser, and the whole publication had somehow got
@@ -5445,9 +5445,9 @@ with it is God; the human race will travel for a few more million
 years in all sorts of muddle and [[Reform|reform]], and when it perishes
 of the last cold or heat it will still be within the limits
 of that very simple definition.  But in an age that has confused
-itself with such phrases as `optimist' and `pessimist',
+itself with such phrases as ‘optimist' and ‘pessimist',
 it is necessary to distinguish along more delicate lines.
-One of the strangest things about the use of the word `optimist'
+One of the strangest things about the use of the word ‘optimist'
 is that it is now so constantly used about the future.
 The house of man is criticised not as a house, but as a kind
 of caravan; not by what it is; but by where it is going to.
@@ -5612,13 +5612,13 @@ is something high and spiritual about things being blended
 and absorbed into each other.  That all rivers should run
 into one river, that all vegetables should go into one pot--
 that is spoken of as the last and best fulfilment of being.
-Boys are to be `at one' with girls; all sects are to be `at one'
+Boys are to be ‘at one' with girls; all sects are to be ‘at one'
 in the New Theology; beasts fade into men and men fade into God;
 union in itself is a noble thing.  Now union in itself is not
 a noble thing.  Love is a noble thing; but love is not union.
 Nay, it is rather a vivid sense of separation and identity.
 Maudlin, inferior love poetry does, indeed, talk of lovers
-being `one [[Soul|soul]]', just as maudlin, inferior religious poetry
+being ‘one [[Soul|soul]]', just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
 When [[Dante]] meets [[Beatrice]], he feels his distance from her,
 not his proximity; and all the greatest saints have felt
@@ -5632,9 +5632,9 @@ of surprise.  Division and variety are essential to praise;
 division and variety are what is right with the world.
 There is nothing specially right about mere contact and coalescence.
 
-In short, this vast, vague idea of [[unity]] is the one `reactionary'
+In short, this vast, vague idea of [[unity]] is the one ‘reactionary'
 thing in the world.  It is perhaps the only connection in which that
-foolish word `reactionary' can be used with significance and [[Truth|truth]].
+foolish word ‘reactionary' can be used with significance and [[Truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
 There is, of course, another kind of [[unity]] of which I do not speak here;
@@ -5649,8 +5649,8 @@ these are the things that make life worth living and the whole
 framework of things [[Well|well]] worthy to be sustained.  And the best
 thing remains; that this view, whether conscious or not, always has
 been and still is the view of the living and labouring millions.
-While a few prigs on platforms are talking about `oneness'
-and absorption in `The All', the folk that dwell in all the valleys
+While a few prigs on platforms are talking about ‘oneness'
+and absorption in ‘The All', the folk that dwell in all the valleys
 of this ancient earth are renewing the varieties forever.  With them
 a woman is loved for being unmanly, and a man loved for being unwomanly.
 With them the church and the [[Home|home]] are both beautiful, because they
@@ -5727,7 +5727,7 @@ the sacredness of simple things, the health and [[Humour|humour]] of the earth,
 which [[Alone|alone]] make a half-holiday even half a holiday or a slave
 even half a man.
 
-There is danger in that modern phrase `divine discontent'.
+There is danger in that modern phrase ‘divine discontent'.
 There is [[Truth|truth]] in it also, of course; but it is only [[Truth|truth]]
 of a special and secondary kind.  Much of the quarrel
 between [[Christianity]] and the world has been due to this fact;
@@ -5757,7 +5757,7 @@ T.P's Weekly.
 
 
 
-<span class="atom-split" data-atom="story_01_in_general" data-title="Wild Ducks — IN GENERAL" data-chapter="Story 01 IN GENERAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_in_general" data-title="Wild Ducks — IN GENERAL" data-chapter="IN GENERAL" data-kind="story"></span>
 
 
 IN GENERAL
@@ -5863,7 +5863,7 @@ Economy is only another name for universalism; the true poet regards
 every earthly object as having some value and secret utility--
 with the possible exception of a [[Dust|dust]]-cart. The old [[Romance|romance]]
 of life was held to consist in expense--in the jewels and perfumes
-of the `Arabian Nights', in the cushion and cigars of Ouida.
+of the ‘Arabian Nights', in the cushion and cigars of Ouida.
 The newer and truer romance will be the romance of cheapness.
 It will address itself to the truly imaginative task of realising
 what is the real worth (a worth running into millions)
@@ -5875,7 +5875,7 @@ My bosom friend the Pessimist and I were standing outside a small
 toy shop, glueing our noses to the glass, when the long silence was broken
 by my remarking on the beauty of a solid stick of blue chalk, which was
 offered for sale (in some tempest of generosity) for a halfpenny.
-`Have you considered,' I asked, `all that this stick of blue chalk means?
+‘Have you considered,' I asked, ‘all that this stick of blue chalk means?
 For a halfpenny I am possessed of it.  I go home at night under the stars,
 between dark walls and through mazy streets.  I shall be free to write
 upon those walls beautiful or stern sentiments, arraigning the powers
@@ -5887,13 +5887,13 @@ in the manner of our British predecessors, sketching strange and ideal
 adventures for strange and ideal characters.  And all this blue river
 of dreams is loosened by a halfpenny.'
 
-The Pessimist replied, in his sad, stern way, `Drivel. It is only
+The Pessimist replied, in his sad, stern way, ‘Drivel. It is only
 the blue [[chalk]] you buy for a halfpenny.  You do not buy the [[Stars|stars]]
 for a halfpenny; you do not buy the streets for a halfpenny;
 you do not buy your [[Dreams|dreams]] or your [[Love|love]] of drawing or your tastes
 and imaginations for a halfpenny.'
 
-`True,' I replied.  `The [[Stars|stars]] and the [[Dreams|dreams]] and myself are cheaper
+‘True,' I replied.  ‘The [[Stars|stars]] and the [[Dreams|dreams]] and myself are cheaper
 than [[chalk]]:  for I bought them for nothing.'
 
 He burst into [[Tears|tears]] and became immediately convinced of the basis
@@ -5903,7 +5903,7 @@ is not improvidence the opposite of [[Providence]]?
 
 
 
-<span class="atom-split" data-atom="story_02_on_manners" data-title="Wild Ducks — On Manners" data-chapter="Story 02 On Manners" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_on_manners" data-title="Wild Ducks — On Manners" data-chapter="On Manners" data-kind="story"></span>
 
 
 On Manners
@@ -5918,8 +5918,8 @@ that in no other affairs do we treat these phrases as synonymous.
 There is all the difference in the world between saying
 that a man has no wine and saying that he has bad wine.
 There is all the difference in the world between the comparatively
-trifling biographical statement, `He has no sons,'
-and the really disquieting one, `He has bad sons'.
+trifling biographical statement, ‘He has no sons,'
+and the really disquieting one, ‘He has bad sons'.
 If, when we were about to breakfast with a friend, a common
 acquaintance were to approach us and whisper impressively,
 'You will eat no eggs,' the expression would amount to little
@@ -6040,7 +6040,7 @@ politics is also the incarnation of indifference.
 
 
 
-<span class="atom-split" data-atom="story_03_for_persons_of_the_name_of_smith_smith" data-title="Wild Ducks — For Persons of the Name of Smith" data-chapter="Story 03 For Persons of the Name of smith Smith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_for_persons_of_the_name_of_smith_smith" data-title="Wild Ducks — For Persons of the Name of Smith" data-chapter="For Persons of the Name of smith Smith" data-kind="story"></span>
 
 
 For Persons of the Name of [[smith|Smith]]
@@ -6053,10 +6053,10 @@ it seems to me that I am at the very best a humdrum scientific
 student noting it down.  The sentimentalists, the sons of a
 passionate delusion, are those who do not think everything poetical.
 For they are wholly under the influence of words, of the vague
-current phraseology, which thinks `castle' a poetical word
-and 'Post-office' an unpoetical word, which thinks `knight'
-a poetical word and `policeman' an unpoetical word,
-which thinks `eagle' a poetical ward and `pig' an unpoetical word.
+current phraseology, which thinks ‘castle' a poetical word
+and 'Post-office' an unpoetical word, which thinks ‘knight'
+a poetical word and ‘policeman' an unpoetical word,
+which thinks ‘eagle' a poetical ward and ‘pig' an unpoetical word.
 I do not say that there is not truth in this as a matter
 of literature; I do not say that in pure technical style
 there is not a difference between eagles and pigs.
@@ -6087,7 +6087,7 @@ the cheapness and modernity which seem to centre round a Mr Smith.
 But, if we look at the plain word itself, we suddenly behold a poem.
 It is the name of a great rugged and primeval craft,
 a trade that is in the bones of every great epic of antiquity,
-a trade on which the `arma virumque' have everlastingly depended,
+a trade on which the ‘arma virumque' have everlastingly depended,
 and which they have repeatedly acclaimed.  It is a craft so poetical
 that even the babies of village yokels stand and stare into the cavern
 of its creative violence, with a dim sense that the dancing sparks
@@ -6148,11 +6148,11 @@ but that there was not enough.  And the real work to which
 this racial interest to the case of all ordinary men,
 of teaching the butcher to be proud of his grandfather,
 and the railway porter to remember his name with [[Pride|pride]].
-For the single case of the name `Smith' is sufficient to indicate
+For the single case of the name ‘Smith' is sufficient to indicate
 what profundities of origin and significance lie in all our names.
 The case of Smith is no mere accident; the case would be the same
 with any one of the common names which we account prosaic
-or absurd.  `[[Jones]]' is more mean and preposterous even than [[smith|Smith]],
+or absurd.  ‘[[Jones]]' is more mean and preposterous even than [[smith|Smith]],
 and even those who bear the name of [[Jones]] do not probably remember
 that it is but a corruption of the name that [[Christ]] loved.
 There is not one of us that is not noble in origin, whatever we
@@ -6161,7 +6161,7 @@ may be in essence.
 
 
 
-<span class="atom-split" data-atom="story_04_the_true_vanity_of_vanities" data-title="Wild Ducks — The True Vanity of Vanities" data-chapter="Story 04 The True Vanity of Vanities" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_true_vanity_of_vanities" data-title="Wild Ducks — The True Vanity of Vanities" data-chapter="The True Vanity of Vanities" data-kind="story"></span>
 
 
 The True [[Vanity]] of Vanities
@@ -6254,7 +6254,7 @@ conscious of that image of deity which equalises us all.
 
 
 
-<span class="atom-split" data-atom="story_05_written_in_the_sand" data-title="Wild Ducks — Written in the Sand" data-chapter="Story 05 Written in the Sand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_written_in_the_sand" data-title="Wild Ducks — Written in the Sand" data-chapter="Written in the Sand" data-kind="story"></span>
 
 
 Written in the Sand
@@ -6264,8 +6264,8 @@ In the mid-way of this our mortal life, I find myself
 the East Coast.  I find among other things that it is raining
 and that my fellow creatures, or at least my fellow visitors,
 are in a state of irrational indignation over that circumstance.
-`How paradoxical it is in you,' I say to them with astonishment,
-`to come to a watering-place and exhibit distress when it waters you.'
+‘How paradoxical it is in you,' I say to them with astonishment,
+‘to come to a watering-place and exhibit distress when it waters you.'
 I explain to them how unjust, how fundamentally unpoetic is
 the current prejudice against rain.
 
@@ -6281,17 +6281,17 @@ Constable or the red [[Apocalypse|apocalypse]] of Turner.  Of these mysterious
 phases rain is only one, and not the least beautiful.
 When I point this out to my fellow Englishmen their spirit takes
 on something of the turbid transformations of the English sky.
-`How colossal, how cosmic a vision,' I say to them,
-`is the rain upon the sea.  Worms, you are permitted
+‘How colossal, how cosmic a vision,' I say to them,
+‘is the rain upon the sea.  Worms, you are permitted
 to gaze upon a reversal of the fifth day of creation.
 The waters below the firmament were divided from the waters
 that were above the firmament.  And lo! they are wedded again.'
 This kind of conversation naturally makes me popular.
 
 I am particularly beloved by those who are frustrated in their [[Desire|desire]]
-for sea-bathing. `What,' I exclaim, `your whole heart is set on wetting
+for sea-bathing. ‘What,' I exclaim, ‘your whole heart is set on wetting
 yourself in that silly pool of salt.  Give me,' I cry ecstatically,
-`the Baths of Heaven!'  After thus discussing the matter with various
+‘the Baths of Heaven!'  After thus discussing the matter with various
 groups of people, I find myself thrown back on a gentle solitude.
 I wander along the lean sands by the bright, bleak sea.
 The weather is clearing, and sky and sea shine like pale steel,
@@ -6329,7 +6329,7 @@ But it is certainly true that the episode of the two little
 boys depicts as in a small miracle play one of the least
 of the truths that lie behind our modern civilisation,
 and constitute the answer to that question which is asked
-in large letters all over the newspapers, `What is Wrong?'
+in large letters all over the newspapers, ‘What is Wrong?'
 
 The thing that is wrong is a certain fallacy with which we
 English have comforted ourselves for same decades, which may be
@@ -6362,7 +6362,7 @@ begin to disagree about it.
 
 
 
-<span class="atom-split" data-atom="story_06_a_case_of_comrades" data-title="Wild Ducks — A Case of Comrades" data-chapter="Story 06 A Case of Comrades" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_a_case_of_comrades" data-title="Wild Ducks — A Case of Comrades" data-chapter="A Case of Comrades" data-kind="story"></span>
 
 
 A Case of Comrades
@@ -6397,7 +6397,7 @@ When I knew there was a Greek dual I could easily realise
 that the Greeks gave [[philosophy]] to the world.
 
 My concern here is that [[Comradeship|comradeship]] is essentially plural.
-Now, women are not plural.  The very word `women' has about it,
+Now, women are not plural.  The very word ‘women' has about it,
 I think, a sort of bad taste:  it smacks of polygamous Turks or tired
 and cynical men-about-town. There are no such things as women.
 There is only the woman you are at this particular moment afraid of or
@@ -6418,13 +6418,13 @@ You are addressing the abstract thing, the club, which, when two
 or three are gathered together (of the male sort at least)
 is always in the midst of them.  Men's debating clubs
 have a pedantic phrase which exactly expresses this truth:
-they talk of `speaking to the motion'.  It is true;
+they talk of ‘speaking to the motion'.  It is true;
 men do speak to a motion, not about it; they talk to a topic.
 Women talk to each other; that is why their conversations
 are frightfully fascinating, but too terrible for us to listen
 to for long without running away.
 
-Do you remember how Thackeray cries out, `O les laches que
+Do you remember how Thackeray cries out, ‘O les laches que
 les hommes!' when George Warrington and Lord Castlewood rush
 from the room merely because the young American girl has begun
 a sweet satiric conversation with old Beatrix Esmond?  It is
@@ -6462,7 +6462,7 @@ there was, for an instant, an unmeaning silence, and then the voice
 of one of the best orators of the Union rose, piercing and pathetic,
 throbbing to the echoes of the roof, alone:
 
-`I do not say that the corridor ran the whole length of the train.
+‘I do not say that the corridor ran the whole length of the train.
 What I say, what I say emphatically and with the full responsibility
 of my intellect, is that it ran on the left-hand side of our carriage.
 And I know that I speak the [[Truth|truth]].'
@@ -6493,7 +6493,7 @@ We were only interrupted by some academic custom which required
 that the [[Union]] officials should be photographed.  And even then one
 of them moved.  He kept on quivering and stirring until the photographer
 broke into pathetic complaint.  Then he, in return, broke out,
-`I never denied that there was a case for the corridor at the side.
+‘I never denied that there was a case for the corridor at the side.
 What I said--' But we crushed him, reluctantly.  All this is,
 to the best of my recollection, quite true.
 
@@ -6511,7 +6511,7 @@ you understand everything except comradeship.
 
 
 
-<span class="atom-split" data-atom="story_07_something" data-title="Wild Ducks — Something" data-chapter="Story 07 Something" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_something" data-title="Wild Ducks — Something" data-chapter="Something" data-kind="story"></span>
 
 
 Something
@@ -6583,7 +6583,7 @@ man more splendid than the sun.
 
 This is essentially admitted about such fables as those of Phoebus
 and Artemis; or even Balder and Thor; here it is vaguely conceded
-that `poets' and not mere ignorant savages, have had something to do
+that ‘poets' and not mere ignorant savages, have had something to do
 with the matter.  But what the folklorists of the Fraser type will not see
 is that the ruder savages also are poets; even if they are minor poets.
 All that they say about their totems, their taboos, their dances,
@@ -6610,7 +6610,7 @@ have not found?
 
 
 
-<span class="atom-split" data-atom="story_08_asparagus_asparagus" data-title="Wild Ducks — Asparagus" data-chapter="Story 08 asparagus Asparagus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_asparagus_asparagus" data-title="Wild Ducks — Asparagus" data-chapter="asparagus Asparagus" data-kind="story"></span>
 
 
 [[asparagus|Asparagus]]
@@ -6630,7 +6630,7 @@ the moral that aristocratic traditions are made out much more popular
 than they really were.  'Norman' gets mispronounced as English.
 In this way three French leopards were somehow turned into British lions.
 And in this way also the solemn word [[asparagus|Asparagus]], which means nothing
-so far as I know, was turned by the populace into `sparrowgrass',
+so far as I know, was turned by the populace into ‘sparrowgrass',
 which means two of the most picturesque things in the world.
 Asparagus, which I presume to have been the name of a Roman pro-consul,
 Marcus Asparagus Esculens, or what not, never deserved such luck
@@ -6702,7 +6702,7 @@ must keep up an incessant excitement about new projects,
 new cultures and new prejudices, new skirts and stockings.
 It must tell a new tale every day or perish, like the lady
 of the Arabian Nights.  Tennyson, who was too much touched
-with this aristocratic--or snobbish--Futurism, wrote, `Lest one
+with this aristocratic--or snobbish--Futurism, wrote, ‘Lest one
 good custom should corrupt the world', which really means lest
 everybody should learn the right way of eating [[asparagus]].
 And so, out of luxury and waste and weariness, the fever they
@@ -6719,7 +6719,7 @@ They have changed the password.
 
 
 
-<span class="atom-split" data-atom="story_09_the_english_spirit_and_the_flea" data-title="Wild Ducks — The English Spirit and the Flea" data-chapter="Story 09 The English Spirit and the Flea" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_english_spirit_and_the_flea" data-title="Wild Ducks — The English Spirit and the Flea" data-chapter="The English Spirit and the Flea" data-kind="story"></span>
 
 
 The English Spirit and the Flea
@@ -6769,10 +6769,10 @@ but he is English.  I do not set my country above human temptations,
 like an [[Allegory|allegory]] on a ceiling; I do not say that enemies could not
 conceivably perturb the British [[Lion]] or fluster the British Bulldog.
 I do say that I am not, as a fact, perturbed, and specially
-not perturbed by people who say `The British Lion is drawing
+not perturbed by people who say ‘The British Lion is drawing
 in his horns'--I perceive that they have no vivid mental
 picture of a lion.  I am not flustered by people who say
-`The British Bulldog will soon have his wings clipped', because I
+‘The British Bulldog will soon have his wings clipped', because I
 know such curtailment to be both unnecessary and impossible.
 And the distinction is important.  Our very weaknesses
 are strengths so long as they are undiscovered weaknesses.
@@ -6787,7 +6787,7 @@ fuss of small leagues and committees, they cannot
 really be induced to 'do anything for Shakespeare'.
 Lord Melbourne (who was almost as English as Shakespeare)
 used to solve the most intense diplomatic crises by saying,
-`Can't we let it alone?'  We can.  We let Shakespeare alone.
+‘Can't we let it alone?'  We can.  We let Shakespeare alone.
 Just as we have an enormous negative monument to Shakespeare,
 so we have an enormous negative victory over Count Zeppelin.
 As a nation we receive his flaming visitations with something more
@@ -6819,7 +6819,7 @@ was much more sincerely expressed in the popular ejaculation,
 noble comic songs, and used to be uttered by people when they broke
 valuable teapots, or put their feet into cucumber-frames. Its excess
 was well satirised by Mr John Burns when he summed up Imperialism
-under the text, `The eyes of a [[Fool|fool]] are in the ends of the earth'.
+under the text, ‘The eyes of a [[Fool|fool]] are in the ends of the earth'.
 And it is true, as of every true national characteristic, that it
 has the defect of its quality, and often goes with an undue laxity
 about the rights of our own field or the laws of our own parish.
@@ -6851,7 +6851,7 @@ and thought it less than a flea-bite.
 
 
 
-<span class="atom-split" data-atom="story_10_the_hobby_and_the_head_waiter" data-title="Wild Ducks — The Hobby and the Head Waiter" data-chapter="Story 10 The Hobby and the Head Waiter" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_hobby_and_the_head_waiter" data-title="Wild Ducks — The Hobby and the Head Waiter" data-chapter="The Hobby and the Head Waiter" data-kind="story"></span>
 
 
 The Hobby and the Head Waiter
@@ -6930,9 +6930,9 @@ exactly eccentric, is just sufficiently out of the ordinary way
 to make it most improbable that any practical organizer would see it;
 or provide it, or put it into any definite class of things.
 I do not think I could say carelessly to a waiter, over my shoulder,
-`Just get me a black coffee and Benedictine and a toy theatre,
+‘Just get me a black coffee and Benedictine and a toy theatre,
 will you?'  I cannot imagine the headwaiter roaring down the
-speaking tube, `Three [[Manhattan]] cocktails and a toy theatre'.
+speaking tube, ‘Three [[Manhattan]] cocktails and a toy theatre'.
 I cannot imagine it was mentioned among the minor luxuries
 printed on the piece of clockwork in the bedroom.
 But even if it was, it would not meet the case.  Even if the waiter
@@ -6958,7 +6958,7 @@ I cannot pause for the experiment just now, having something worse
 to do; but the fancy happens to be an exact example of the sort
 of thing I mean; a fancy that could not possibly be foreseen,
 yet which might quite possibly be fulfilled.  No great organizing
-mind would say, `See that seven thousand chairs are ordered from
+mind would say, ‘See that seven thousand chairs are ordered from
 High Wycombe in case somebody wishes to turn them into toy theatres.'
 It is a hundred to one that nobody ever thought of this nonsensical
 notion before, and that nobody will ever think of it again.
@@ -7029,7 +7029,7 @@ a greenhouse of birds.
 
 
 
-<span class="atom-split" data-atom="story_11_in_praise_of_pie" data-title="Wild Ducks — In Praise of Pie" data-chapter="Story 11 In Praise of Pie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_in_praise_of_pie" data-title="Wild Ducks — In Praise of Pie" data-chapter="In Praise of Pie" data-kind="story"></span>
 
 
 In Praise of Pie
@@ -7037,7 +7037,7 @@ In Praise of Pie
 We should like to utter our fervid and enthusiastic thanks to the
 clergyman who wrote to The Times the other day to protest against
 the neglect, both as a title and an Institution, of the glorious English
-possession known to our fathers as `Apple Pie'; and shamefully described
+possession known to our fathers as ‘Apple Pie'; and shamefully described
 by various degraded outcasts and aliens as Apple Tart.  As he very
 acutely pointed out, nobody says that a room is in apple tart order.
 As he warmly affirmed, no practical joker ever made an apple tart bed.
@@ -7046,13 +7046,13 @@ the traditions of our fathers testify to the true form of the word.
 A hundred inspiring battle-hymns rise to inspire the march;
 as in that truly national anthem which says
 
-                             `I'm not a glutton
-                             But I do like pie.'
+‘I'm not a glutton
+But I do like pie.'
 
 as well as those lyrics that form the foundation of all education
-and told us that A was an apple pie.  `Pie' is a full and powerful word,
+and told us that A was an apple pie.  ‘Pie' is a full and powerful word,
 like pig or pork; which fills the mouth with an appropriate and
-anticipatory fullness; it is impossible to say the words `I do like tart'
+anticipatory fullness; it is impossible to say the words ‘I do like tart'
 and produce the desired effect of talking with your mouth full.
 
 It is not a light or trivial matter.  There are questions,
@@ -7067,7 +7067,7 @@ by his ignorant instincts on this solemn and profound matter.
 It is not only that he who says Pie, and disdains to say Tart,
 is preserving the language of Shakespeare and the legend
 of the English and pure religion, breathing household laws.
-There are in it yet more subtleties of doctrine.  He who says `Pie'
+There are in it yet more subtleties of doctrine.  He who says ‘Pie'
 is he who, being assured that a bodily thing is lawful is
 not ashamed merely because it is bodily; but finds far more
 of Christian [[Humility|humility]] in the frank confession of the [[Body|body]].
@@ -7080,13 +7080,13 @@ when confronted with the solid duty of eating pie, are of the sort
 who complains of the coarseness of the [[Marriage]] Service or the clamour
 of church [[Bells|bells]] or the habit of singing carols at Christmas.
 We do not mean to blame those who, being in invincible ignorance,
-happen to say `tart' through habit and the teaching of ill-advised
+happen to say ‘tart' through habit and the teaching of ill-advised
 pastors and masters; but when the question is fairly faced, it would
 be found true that the obstinate and unrepentant are of this order.
 They are also of the kind that turn pale at a pun; or, what is worse,
 gravely discuss whether the example of Shakespeare makes it permissible.
 For the pleasure of annoying them, we utter in a loud voice this
-protest on behalf of the `Pie' as a symbol of Piety.
+protest on behalf of the ‘Pie' as a symbol of Piety.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7096,7 +7096,7 @@ Elogio del Pasticcio
 Vorremmo esprimere il nostro fervido ed entusiastico ringraziamento al
 sacerdote che l'altro giorno scrisse al Times per protestare contro
 la negligenza, sia come titolo sia come Istituzione, della gloriosa proprietà inglese
-nota ai nostri padri come `Apple Pie'; e vergognosamente descritta
+nota ai nostri padri come ‘Apple Pie'; e vergognosamente descritta
 da vari reietti e stranieri degradati come Apple Tart.  Come egli molto
 acutamente osservava, nessuno dice che una stanza è in ordine da apple tart.
 Come egli calorosamente affermava, nessun burlone ha mai rifatto un letto alla apple tart.
@@ -7105,13 +7105,13 @@ le tradizioni dei nostri padri attestano la vera forma della parola.
 Cento inni di battaglia esaltanti si levano a ispirare la marcia;
 come in quell'inno davvero nazionale che dice
 
-                             `Non sono un ghiottone
-                             Ma il pie mi piace davvero.'
+‘Non sono un ghiottone
+Ma il pie mi piace davvero.'
 
 così come quelle liriche che formano il fondamento di ogni educazione
-e che ci insegnarono che A stava per apple pie.  `Pie' è una parola piena e potente,
+e che ci insegnarono che A stava per apple pie.  ‘Pie' è una parola piena e potente,
 come pig o pork; che riempie la bocca di una pienezza appropriata e
-anticipatrice; è impossibile dire le parole `I do like tart'
+anticipatrice; è impossibile dire le parole ‘I do like tart'
 e produrre il desiderato effetto di parlare con la bocca piena.
 
 Non è faccenda leggera o triviale.  Vi sono questioni,
@@ -7126,7 +7126,7 @@ dai suoi istinti ignoranti su questa solenne e profonda materia.
 Non è soltanto che colui che dice Pie, e sdegna di dire Tart,
 sta preservando la lingua di Shakespeare e la leggenda
 degli inglesi e la pura religione, che spira leggi domestiche.
-Vi sono in ciò ancora più sottigliezze di dottrina.  Colui che dice `Pie'
+Vi sono in ciò ancora più sottigliezze di dottrina.  Colui che dice ‘Pie'
 è colui che, avendo l'assicurazione che una cosa corporea è lecita,
 non si vergogna di essa per il solo fatto che è corporea; ma trova assai più
 [[Humility|umiltà]] cristiana nella franca confessione del [[Body|corpo]].
@@ -7139,17 +7139,17 @@ posti di fronte al solido dovere di mangiare pie, sono della specie
 che si lagna della rozzezza del rito del [[Marriage|Matrimonio]] o del clamore
 delle [[Bells|campane]] di chiesa o dell'usanza di cantare canti natalizi a Natale.
 Non intendiamo biasimare coloro che, versando in invincibile ignoranza,
-si trovano a dire `tart' per abitudine e per l'insegnamento di malaccorti
+si trovano a dire ‘tart' per abitudine e per l'insegnamento di malaccorti
 pastori e maestri; ma quando la questione è affrontata con lealtà, si
 troverà vero che gli ostinati e impenitenti sono di questa schiera.
 Sono anche del genere che impallidisce a un gioco di parole; o, ciò che è peggio,
 discute gravemente se l'esempio di Shakespeare lo renda ammissibile.
 Per il piacere di irritarli, pronunciamo a voce alta questa
-protesta in favore del `Pie' come simbolo di Pietà.
+protesta in favore del ‘Pie' come simbolo di Pietà.
 
 
 
-<span class="atom-split" data-atom="story_12_culture_versus_civilisation" data-title="Wild Ducks — Culture versus Civilisation" data-chapter="Story 12 Culture versus Civilisation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_culture_versus_civilisation" data-title="Wild Ducks — Culture versus Civilisation" data-chapter="Culture versus Civilisation" data-kind="story"></span>
 
 
 Culture Versus Civilisation
@@ -7205,7 +7205,7 @@ one thing which we did suppose was done for us by Civilization,
 it was to make us civil.  The very word politeness is really
 the Greek for civilization, just as the very word civilization
 is really the Latin for politeness.  It is a pleasing
-thought that the word `policeman' and the word 'politeness'
+thought that the word ‘policeman' and the word 'politeness'
 not only have the same meaning, but are almost the same word.
 But the Romans inheriting from the Greeks had no sooner
 established the idea of what is civic, or belonging to a citizen,
@@ -7284,7 +7284,7 @@ more uncivil--like the man in the Tube.
 
 
 
-<span class="atom-split" data-atom="story_14_they_tell_a_story" data-title="Wild Ducks — They Tell a Story" data-chapter="Story 14 They Tell a Story" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_they_tell_a_story" data-title="Wild Ducks — They Tell a Story" data-chapter="They Tell a Story" data-kind="story"></span>
 
 
 They Tell a Story
@@ -7311,7 +7311,7 @@ That is what people mean when they say that Shakespeare was often coarse;
 that is what people mean when they say that he was often dull.
 They mean that a great poet of the elder kind had spaces which were
 idle and absent-minded; that his sub-consciousness often guided him;
-that he sprawled; that he was not `artistic'. It is not only true
+that he sprawled; that he was not ‘artistic'. It is not only true
 that Homer sometimes nodded; but nodding was part of the very
 [[Greatness|greatness]] of Homer.  His sleepy nod shakes the [[Stars|stars]] like the nod
 of his own Jupiter.
@@ -7353,7 +7353,7 @@ For without raising, even in parentheses, the old argument of Swift's
 and Temple's [[Time|time]] about the relative merits of Ancients and Moderns,
 we may be quite certain that for democratic purposes the ancients
 are better.  A few scratches of grey and green on a piece of brown
-paper may really be as good in its own way as a `still life'
+paper may really be as good in its own way as a ‘still life'
 by a Flemish painter or a Holy Family by an Italian painter.
 But it must be perfectly obvious to anybody that the two latter
 are more likely to make a plain man understand what painting means.
@@ -7371,7 +7371,7 @@ made it, that people can learn today from the Old Masters.
 And they can learn it from nobody else.
 
 A hundred cases could be taken, but take the case of a common phrase:
-a common sneer with the art critics.  I mean the phrase `a
+a common sneer with the art critics.  I mean the phrase ‘a
 picture that tells a story'.  There could not be a sharper
 instance of the difference between the old [[Hero|hero]] who was man
 and more than man and the new [[Hero|hero]] who is not man at all.
@@ -7381,7 +7381,7 @@ The first and most important question is, what story?
 Most medieval and [[Renaissance]] pictures tell the story; the story
 on which all our European civilisation is founded, and is founded
 as finally if the thing is a fairy tale or if the thing is a [[Truth|truth]].
-The objection to pictures which `tell a story' only began in our time,
+The objection to pictures which ‘tell a story' only began in our time,
 for the very simple reason that the story was a dull story.
 I will not discuss here whether the great story of God made Man
 has been destroyed.  I will confine myself to saying that it has
@@ -7392,7 +7392,7 @@ demagogues as well as demi-gods. I mean there are other
 elements in which they eternally appeal to a popular instinct
 which was in them and in their patrons and in their populace.
 I should select the two examples of clarity and solidity.
-In Michelangelo's `Vision of Judgment' a real man appears
+In Michelangelo's ‘Vision of Judgment' a real man appears
 in the real skies.  The man is solid.  The skies are lucid.
 To the cultured it may appear incredible; but it will be much more
 credible to mankind, that universal church of which culture is a small
@@ -7417,7 +7417,7 @@ But I do say that we can just now learn best from picture writing.
 
 
 
-<span class="atom-split" data-atom="story_15_here_and_there" data-title="Wild Ducks — HERE AND THERE" data-chapter="Story 15 HERE AND THERE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_here_and_there" data-title="Wild Ducks — HERE AND THERE" data-chapter="HERE AND THERE" data-kind="story"></span>
 
 
 Here and There
@@ -7555,7 +7555,7 @@ the patroness of lunatics and the goddess of crossroads.
 
 
 
-<span class="atom-split" data-atom="story_16_the_blindness_of_the_sightseer" data-title="Wild Ducks — The Blindness of the Sightseer" data-chapter="Story 16 The Blindness of the Sightseer" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_blindness_of_the_sightseer" data-title="Wild Ducks — The Blindness of the Sightseer" data-chapter="The Blindness of the Sightseer" data-kind="story"></span>
 
 
 The Blindness of the Sightseer
@@ -7563,7 +7563,7 @@ The Blindness of the Sightseer
 I once had the pleasure of making the acquaintance of an American,
 a very intelligent and inspiriting person, who, during a pause
 in a discussion on scenery, said, with the inimitable accent,
-`Well, I can't see when you have seen the highest mountain in
+‘Well, I can't see when you have seen the highest mountain in
 Switzerland what you want to see the rest for'.  So completely obsessed
 was he with this American sense of competition that he admitted
 competition even among mountains, and judged of some hundreds
@@ -7683,7 +7683,7 @@ to be patriots.
 
 
 
-<span class="atom-split" data-atom="story_17_the_aesthetes_in_the_kitchen_garden" data-title="Wild Ducks — The Aesthetes in the Kitchen Garden" data-chapter="Story 17 The Aesthetes in the Kitchen Garden" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_aesthetes_in_the_kitchen_garden" data-title="Wild Ducks — The Aesthetes in the Kitchen Garden" data-chapter="The Aesthetes in the Kitchen Garden" data-kind="story"></span>
 
 
 The Aesthetes in the Kitchen Garden
@@ -7697,23 +7697,23 @@ Short story writers leap from behind hedges, minor poets
 drop from the trees like ripe fruit; you cannot walk
 through deep grass without stumbling over Sociologists.
 On dark, windy nights wild voices mingle with the wind,
-and the words 'reactionary', `superman', `the Philistines',
-and `raise the drama' echo desolately from [[Hill|hill]] to [[Hill|hill]].
-We see the vision of Fitz-James in `The Lady of the Lake'
+and the words 'reactionary', ‘superman', ‘the Philistines',
+and ‘raise the drama' echo desolately from [[Hill|hill]] to [[Hill|hill]].
+We see the vision of Fitz-James in ‘The Lady of the Lake'
 which Scott describes in words (which I quote from memory):
 
-  At once from copse and heath arose
-  Roundels and fugues and lyric prose,
-  From shingles grey their nocturnes start,
-  The bracken bush cries, `Art is Art',
-  And every tuft of broom is rife
-  With highly beastly views of life.
+At once from copse and heath arose
+Roundels and fugues and lyric prose,
+From shingles grey their nocturnes start,
+The bracken bush cries, ‘Art is Art',
+And every tuft of broom is rife
+With highly beastly views of life.
 
 I have met in meadows here some of the most terrible and beautiful people
 of Fleet Street.  I have seen a cottage, decent and quiet on the outside,
 inside which, as I [[Hope|hope]] for heaven, there were Burne-[[Jones]]'s on the wall.
 In short, we are in the presence of a peculiar phenomenon.  The people
-are not going `back to the land' but the cultivated classes are.
+are not going ‘back to the land' but the cultivated classes are.
 
 But there is something about these intellectual people
 in flannel shirts who come out and live in the country,
@@ -7767,7 +7767,7 @@ poetic feeling which the minor poets in the neighbourhood
 tend to lack.  Before us lay a roll of country like the back
 of an unbroken wave, spacious, silent, meeting the sky.
 He stretched out his whip towards it, and said in what I can
-only call an awestruck voice, `If this were all kitchen gardens!
+only call an awestruck voice, ‘If this were all kitchen gardens!
 Then you'd have people--people--people.'  Three times he said
 the sacred word of the republic.  This article, you will perceive,
 is also written in a kitchen [[Garden|garden]], and a witchery of onions
@@ -7799,7 +7799,7 @@ These latter, I may be fastidious, offend me as fantastic.
 
 
 
-<span class="atom-split" data-atom="story_18_the_need_of_personalities_in_politics" data-title="Wild Ducks — The Need of Personalities in Politics" data-chapter="Story 18 The Need of Personalities in Politics" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_need_of_personalities_in_politics" data-title="Wild Ducks — The Need of Personalities in Politics" data-chapter="The Need of Personalities in Politics" data-kind="story"></span>
 
 
 The Need of Personalities in Politics
@@ -7814,10 +7814,10 @@ had not happened that among the promoters of the meeting,
 standing beside the van, was a man with that air of strained
 intellectuality which marks a reader of The Daily News.
 He heard my name by some social accident; and remembered
-seeing it in the paper.  `I have read your articles,'
+seeing it in the paper.  ‘I have read your articles,'
 said this excellent Liberal, with a friendly smile, while I
 faintly condoled with him.  Then he said, after a pause
-of some length, `I think I know what some of them mean'.
+of some length, ‘I think I know what some of them mean'.
 I implored him to share with me this secret and painful knowledge,
 but he refused, and I shall go to my [[Grave|grave]] without it.
 But my encounter with the man had drawn me into the dangerous circle.
@@ -7881,7 +7881,7 @@ and anger, thrust his face forward.  His wages had been cut down,
 he said; he had been underpaid, and underpaid by this man.
 The farmer, staring at him through the darkness, at first denied
 all knowledge of his face.  Then a voice broke out of him, a loud
-and wrathful and decisive voice, crying, `Why, I know yer now.
+and wrathful and decisive voice, crying, ‘Why, I know yer now.
 I know yer now, I sacked yer for--'. Then the sense of English
 respectability awoke suddenly in everybody, and the men were torn apart
 and soothed wildly by their friends.  Whatever happened, we must not
@@ -7917,7 +7917,7 @@ and Improvement Act are corrupt scoundrels.'
 We are allowed to say, 'Sir William Guppy is a supporter
 of the Blue-nosed Monkeys Modification and Improvement Act'.
 We are not allowed to complete the syllogism.  Everybody says
-with one accord in our English Parliament:  `Let us have
+with one accord in our English Parliament:  ‘Let us have
 no personalities in politics.'  Every Briton says at his
 breakfast table:  'At least, we are not like the French
 and the Irish; we have no personalities in our politics.'
@@ -7926,7 +7926,7 @@ And because we have no personalities we have no responsibilities.
 
 
 
-<span class="atom-split" data-atom="story_19_the_largest_window_in_the_world" data-title="Wild Ducks — The Largest Window in the World" data-chapter="Story 19 The Largest Window in the World" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_largest_window_in_the_world" data-title="Wild Ducks — The Largest Window in the World" data-chapter="The Largest Window in the World" data-kind="story"></span>
 
 
 The Largest [[Window]] in the World
@@ -7947,7 +7947,7 @@ could almost, in the strong Scripture rhetoric, take the wings
 of the morning and abide in the uttermost parts of the sea.
 
 And I remember a voice near me speaking in an accent that was neither
-French nor Flemish nor my own:  `You see how narrow the windows were
+French nor Flemish nor my own:  ‘You see how narrow the windows were
 in those days.'
 
 I did.  I also began to see, for the first time, how narrow
@@ -7962,7 +7962,7 @@ Cumberland or Calabria and there is a chance that your eye may
 strike something slightly depressing.  But any strip of Belgium
 will be a string of jewels.  Note, thirdly, that the thinness
 of the outlook is largely due to the thickness of the walls.
-There is no trace of what vulgar people call `a vista':
+There is no trace of what vulgar people call ‘a vista':
 the [[house]] does not open up indefinitely to the world outside.
 The man of Memlinc sees the world from his [[Window|window]].
 But it is still the final fact that the [[Window|window]] was his [[Window|window]]
@@ -7988,7 +7988,7 @@ whether he has combined the windows that exist, or spared the windows
 that never existed.  He cannot make anything except a [[Window|window]];
 for a [[Window|window]] is simply a hole.  When he has blown everything to atoms,
 when no stack or stone stands about us for many miles, he will say,
-with an insane simplicity:  `I have made the largest window in the world.'
+with an insane simplicity:  ‘I have made the largest window in the world.'
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8011,7 +8011,7 @@ poteva quasi, nella forte retorica delle Scritture, prendere le ali
 dell'aurora e dimorare negli estremi confini del mare.
 
 E ricordo una voce vicino a me che parlava con un accento che non era
-né francese né fiammingo né il mio:  `Vede quanto erano strette le finestre
+né francese né fiammingo né il mio:  ‘Vede quanto erano strette le finestre
 a quei tempi.'
 
 Sì, lo vedevo.  Cominciai anche a vedere, per la prima volta, quanto strette
@@ -8026,7 +8026,7 @@ Cumberland o in Calabria e c'è la possibilità che l'occhio
 incappi in qualcosa di lievemente deprimente.  Ma qualunque striscia di Belgio
 sarà una collana di gioielli.  Si noti, in terzo luogo, che la sottigliezza
 della veduta è in gran parte dovuta allo spessore delle mura.
-Non v'è traccia di ciò che la gente volgare chiama `una prospettiva':
+Non v'è traccia di ciò che la gente volgare chiama ‘una prospettiva':
 la [[house|casa]] non si apre indefinitamente al mondo esterno.
 L'uomo di Memling vede il mondo dalla sua [[Window|finestra]].
 Ma resta pur sempre il fatto ultimo che la [[Window|finestra]] era la sua [[Window|finestra]]
@@ -8052,11 +8052,11 @@ se abbia combinato le finestre che esistono, o risparmiato le finestre
 che non sono mai esistite.  Egli non sa fare altro che una [[Window|finestra]];
 perché una [[Window|finestra]] non è che un buco.  Quando avrà ridotto ogni cosa in atomi,
 quando nessuna catasta o pietra si ergerà attorno a noi per molte miglia, dirà,
-con folle semplicità:  `Ho fatto la più grande finestra del mondo.'
+con folle semplicità:  ‘Ho fatto la più grande finestra del mondo.'
 
 
 
-<span class="atom-split" data-atom="story_20_the_apostle_and_the_wild_ducks" data-title="Wild Ducks — The Apostle and the Wild Ducks" data-chapter="Story 20 The Apostle and the Wild Ducks" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_apostle_and_the_wild_ducks" data-title="Wild Ducks — The Apostle and the Wild Ducks" data-chapter="The Apostle and the Wild Ducks" data-kind="story"></span>
 
 
 The Apostle and the Wild Ducks
@@ -8215,7 +8215,7 @@ an intensive cultivation.
 
 
 
-<span class="atom-split" data-atom="story_21_travellers_joys" data-title="Wild Ducks — Travellers' Joys" data-chapter="Story 21 Travellers Joys" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_travellers_joys" data-title="Wild Ducks — Travellers' Joys" data-chapter="Travellers Joys" data-kind="story"></span>
 
 
 Travellers' Joys
@@ -8232,7 +8232,7 @@ I was not even thinking of that noble theme, the Wife of Bath,
 a medieval monument which seems even more gigantic than an abbey.
 
 If anyone really wants to know why some of us have a taste
-for what is called `medievalism', he can find a great deal of it
+for what is called ‘medievalism', he can find a great deal of it
 in that grand and [[Grotesque|grotesque]] personality.  But the point is that
 the Wife of Bath was coming from Bath, and not going to Bath.
 When we consider what her errand was, and then what she was,
@@ -8358,7 +8358,7 @@ the only possible [[Pilgrim|pilgrim]]'s progress.
 
 
 
-<span class="atom-split" data-atom="story_22_understanding_france" data-title="Wild Ducks — Understanding France" data-chapter="Story 22 Understanding France" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_understanding_france" data-title="Wild Ducks — Understanding France" data-chapter="Understanding France" data-kind="story"></span>
 
 
 Understanding France
@@ -8444,7 +8444,7 @@ whole [[history]] of [[Christianity]].  There have even been a few English
 critics capable of reading and reviewing the English translations.
 But the Rev. Timothy Tooting, who is a pacifist because he disapproves
 of all fights except bun-fights, who serves out cocoa but has
-never touched `alcohol', and who holds meetings to promote the peace
+never touched ‘alcohol', and who holds meetings to promote the peace
 of the world--do you suppose that he has contributed very much to
 the understanding of the procession of the great Kings and the pride
 in the glory of Gaul?  But until we understand that pride we shall
@@ -8498,7 +8498,7 @@ of this school are preparing for it very thoroughly.
 
 
 
-<span class="atom-split" data-atom="story_23_salute_to_new_york" data-title="Wild Ducks — Salute to New York" data-chapter="Story 23 Salute to New York" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_salute_to_new_york" data-title="Wild Ducks — Salute to New York" data-chapter="Salute to New York" data-kind="story"></span>
 
 
 Salute to New York
@@ -8579,7 +8579,7 @@ or the last Christian cathedral.
 
 
 
-<span class="atom-split" data-atom="story_24_the_british_beech" data-title="Wild Ducks — The British Beech" data-chapter="Story 24 The British Beech" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_the_british_beech" data-title="Wild Ducks — The British Beech" data-chapter="The British Beech" data-kind="story"></span>
 
 
 The British Beech
@@ -8613,7 +8613,7 @@ It never occurs to them that, while Shakespeare would write
 his own name in two or three totally different but equally
 illegible scrawls, he trusted the whole great load of his
 glory to the sound of words, to be spoken by living men.
-In dealing therefore with a word like `Beaconsfield',
+In dealing therefore with a word like ‘Beaconsfield',
 they do not know how to choose between the men who can speak
 and the men who can only spell.  It was always pronounced right.
 Only it is still spelt wrong.
@@ -8627,7 +8627,7 @@ which makes up the central and southern parts of Buckinghamshire;
 and through the county a real relation to the country.
 A Sussex man, himself boiling over with enthusiasm for Sussex,
 once said to me of the beech-woods about my Beaconsfield [[Home|home]],
-`This is really the most English part of England; I confess that
+‘This is really the most English part of England; I confess that
 compared with this, Sussex is a thing quite separate and apart.'
 
 We have all heard about the British oak; and I am traditional enough
@@ -8696,7 +8696,7 @@ temporarily deaf and blind to go from Birmingham to Brighton.
 
 
 
-<span class="atom-split" data-atom="story_25_public_monuments" data-title="Wild Ducks — Public Monuments" data-chapter="Story 25 Public Monuments" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_public_monuments" data-title="Wild Ducks — Public Monuments" data-chapter="Public Monuments" data-kind="story"></span>
 
 
 Public Monuments
@@ -8795,7 +8795,7 @@ And all political groups, if they are doing anything
 (a large assumption), are constructing by means of destroying.
 Compare this journalese jargon with the shrewd proverbs of popular life.
 It must have been a French peasant, I think, who invented the much
-wiser phrase:  `You can't make omelettes without breaking eggs.'
+wiser phrase:  ‘You can't make omelettes without breaking eggs.'
 
 Victor Emmanuel's monument has one great merit not easily to be
 found in [[London]].  It may seem to some merely to block the traffic,
@@ -8831,7 +8831,7 @@ or the tomb.
 
 
 
-<span class="atom-split" data-atom="story_26_the_making_of_history_history" data-title="Wild Ducks — THE MAKING OF HISTORY" data-chapter="Story 26 THE MAKING OF history HISTORY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_making_of_history_history" data-title="Wild Ducks — THE MAKING OF HISTORY" data-chapter="THE MAKING OF history HISTORY" data-kind="story"></span>
 
 
 THE MAKING OF [[history|HISTORY]]
@@ -8949,8 +8949,8 @@ cannot make a statue unless you have an idea; and the essence
 of an advocate is that he has any ideas or all ideas.
 Exactly what men admired in Palmerston is exactly what men
 cannot carve in stone; his easy variety, his quickness to leap,
-which seemed almost like omnipresence.  `What a faculty that
-fellow has,' said Macaulay admiringly, `for falling on his feet!'
+which seemed almost like omnipresence.  ‘What a faculty that
+fellow has,' said Macaulay admiringly, ‘for falling on his feet!'
 It is a splendid capacity, doubtless, to fall on one's feet;
 but if one is a statue it is dangerous to fall on anything else.
 
@@ -8973,7 +8973,7 @@ characteristic statues of six acrobats?
 
 
 
-<span class="atom-split" data-atom="story_29_the_unknown_warrior" data-title="Wild Ducks — The Unknown Warrior" data-chapter="Story 29 The Unknown Warrior" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_unknown_warrior" data-title="Wild Ducks — The Unknown Warrior" data-chapter="The Unknown Warrior" data-kind="story"></span>
 
 
 The Unknown Warrior
@@ -9015,7 +9015,7 @@ with a decently distributed power over the means of production,
 where a common man could afford to build his own cottage.
 A club or institute may be established with enthusiasm
 and applause; it may be regarded as a mere saving of wealth
-and life by `keeping people out of the public [[house]]'.
+and life by ‘keeping people out of the public [[house]]'.
 But it may be regarded as a meaningless waste by people who will,
 perhaps, have restored the public [[house]] to the proper public dignity,
 and made the old Christian inn a place for Christian men.
@@ -9109,7 +9109,7 @@ that one [[Death|death]] was less glorious than the other.
 
 
 
-<span class="atom-split" data-atom="story_30_william_penn_and_his_royalist_friends" data-title="Wild Ducks — William Penn and his Royalist Friends" data-chapter="Story 30 William Penn and his Royalist Friends" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_william_penn_and_his_royalist_friends" data-title="Wild Ducks — William Penn and his Royalist Friends" data-chapter="William Penn and his Royalist Friends" data-kind="story"></span>
 
 
 William Penn and His Royalist Friends
@@ -9254,7 +9254,7 @@ of an enemy as Penn.
 
 
 
-<span class="atom-split" data-atom="story_31_on_literature" data-title="Wild Ducks — ON LITERATURE" data-chapter="Story 31 ON LITERATURE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_on_literature" data-title="Wild Ducks — ON LITERATURE" data-chapter="ON LITERATURE" data-kind="story"></span>
 
 
 On Literature
@@ -9269,7 +9269,7 @@ brainless and revolting.  That, however, was merely Ruskin's [[Humour|humour]],
 and one of the deepest disappointments with Mr Collingwood is that he,
 like every one else, fails to appreciate Ruskin as a humorist.
 Yet he was a great humorist:  half the explosions which are
-solemnly scolded as `one-sided' were simply meant to be one-sided,
+solemnly scolded as ‘one-sided' were simply meant to be one-sided,
 were mere laughing experiments in language.  Like a woman,
 he saw the humour of his own prejudices, did not sophisticate
 them by logic, but deliberately exaggerated them by rhetoric.
@@ -9304,7 +9304,7 @@ we feel how needful are such figures when we consider
 with what pathetic eagerness men pay prophetic honours even
 to those who disclaim the prophetic character.  Ibsen declares
 that he only depicts life, that as far as he is concerned
-there is nothing to be done, and still armies of `Ibsenites'
+there is nothing to be done, and still armies of ‘Ibsenites'
 rally to the [[Flag|flag]] and enthusiastically do nothing.  I have found
 traces of a school which avowedly follows Mr Henry James:
 an idea full of [[Humour|humour]].  I like to think of a crowd with pikes
@@ -9354,7 +9354,7 @@ opening into [[Eternity|eternity]]'.
 
 
 
-<span class="atom-split" data-atom="story_32_literature_of_information" data-title="Wild Ducks — Literature of Information" data-chapter="Story 32 Literature of Information" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_literature_of_information" data-title="Wild Ducks — Literature of Information" data-chapter="Literature of Information" data-kind="story"></span>
 
 
 Literature of Information
@@ -9549,7 +9549,7 @@ contented with a planet of miracles.
 
 
 
-<span class="atom-split" data-atom="story_33_eulogy_of_robin_hood" data-title="Wild Ducks — Eulogy of Robin Hood" data-chapter="Story 33 Eulogy of Robin Hood" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_eulogy_of_robin_hood" data-title="Wild Ducks — Eulogy of Robin Hood" data-chapter="Eulogy of Robin Hood" data-kind="story"></span>
 
 
 Eulogy of [[Robin Hood]]
@@ -9575,11 +9575,11 @@ Another and much stronger instance of this [[Truth|truth]] occurred to me
 the other day.  I was walking down a small and ugly street and happened
 to be reading the first printed version of a ballad of [[Robin Hood]].
 Raising my eyes (I had just knocked over a man selling matches)
-I found myself staring at a glaring stack of `penny dreadfuls' in a dirty
-paper shop.  They were inscribed, `The Adventures of [[Robin Hood]]'.
-`Here,' I said, `I have at last an unbroken English tradition,
+I found myself staring at a glaring stack of ‘penny dreadfuls' in a dirty
+paper shop.  They were inscribed, ‘The Adventures of [[Robin Hood]]'.
+‘Here,' I said, ‘I have at last an unbroken English tradition,
 known in the [[Time|time]] of Edward I, known in the [[Time|time]] of Mr Harmsworth.'
-And the more I compared the old ballad with the `penny dreadful',
+And the more I compared the old ballad with the ‘penny dreadful',
 the more I saw their resemblance to each other.  Both were traditional;
 both contained repetitions; both were multiplied endlessly;
 both were adventurous; both were popular; both were anonymous.
@@ -9607,12 +9607,12 @@ In these Robin Hood ballads there is almost every bracing and
 popular element; there is one above all, the moral and melodramatic.
 We can all remember when we began first to feel that there was something
 pompous and ludicrous in the morals of the melodrama, began to feel
-uncomfortable when the heroine said, `Would you have me sell my [[Child|child]]?'
+uncomfortable when the heroine said, ‘Would you have me sell my [[Child|child]]?'
 or when the burglar spared the infant because of the little ones at [[Home|home]].
 Then we read Kipling and the realists, and were refreshed and invigorated
 with their salt and stinging candour; we wept sacred [[Tears|tears]] when we read
 of a woman whose personal affection expressed itself not by saying,
-`How can I sell my own child?' but by saying, `Took for a common drunk.
+‘How can I sell my own child?' but by saying, ‘Took for a common drunk.
 Gawd send they don't look at 'is boots.'  Artistically we were
 quite right.  The Kipling story, with its savage pleasantry and its
 colossal cynicism, is immeasurably superior in almost everything there
@@ -9621,11 +9621,11 @@ It is not so like life.  The Adelphi play gives a much more
 accurate version of the solemn, magnanimous, vainglorious pose
 which the average man really adopts in matters he thinks important.
 The poor do, indeed, employ a gross fantasy of speech (such as
-`Gawd send', etc.)  when they wish to be satiric or frivolous;
+‘Gawd send', etc.)  when they wish to be satiric or frivolous;
 but that is simply their literature; slang is a kind of deliberate song.
 But when they are talking seriously they do talk pompously.
 A man has only to walk down the Battersea Highroad on a Saturday
-night to hear round him one universal chatter of such things as `How
+night to hear round him one universal chatter of such things as ‘How
 can I sell my own [[Child|child]]?'  And as for the burglar who thinks of
 the little ones at [[Home|home]], every evidence in life and the newspapers
 seems to support the hypothesis that criminals are sentimental,
@@ -9675,7 +9675,7 @@ The collected records of [[Robin Hood]] become perfectly monotonous
 at last, as they relate the number of people who vanquished the [[Hero|hero]],
 and whom he warmly commended.  There is, of course, a great deal
 of English [[Vanity|vanity]] about these admissions; the implication is,
-`How splendid you must be, as you have conquered such a one
+‘How splendid you must be, as you have conquered such a one
 as I'. But this self-satisfaction is an eternal English trait.
 The great English generosity is really in these ballads.
 There is nothing that Robin Hood seems to like so much as being
@@ -9686,12 +9686,12 @@ they will not find what they want.  Here are songs written
 by a rude people in an age of bludgeons and gibbets,
 here is the rawest and plainest utterance of primitive England,
 and if there be one truth that runs from one end of it to the other,
-it is `the policy of Majuba'.
+it is ‘the policy of Majuba'.
 
 
 
 
-<span class="atom-split" data-atom="story_34_a_plea_for_hasty_journalism" data-title="Wild Ducks — A Plea for Hasty Journalism" data-chapter="Story 34 A Plea for Hasty Journalism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_a_plea_for_hasty_journalism" data-title="Wild Ducks — A Plea for Hasty Journalism" data-chapter="A Plea for Hasty Journalism" data-kind="story"></span>
 
 
 A Plea for Hasty Journalism
@@ -9700,9 +9700,9 @@ My last week's article, which reads worse in print than anything I
 have ever had the misfortune to read, was written under an opulent
 beech-tree on a walking tour, and only just caught the post.
 I do not mention this fact merely in order to introduce
-the adjective `opulent'--admirable as it is--nor do I do it
+the adjective ‘opulent'--admirable as it is--nor do I do it
 out of mere egotism; for egotism is even more of a nuisance
-to the ego than it is to other people.  The precept `know thyself'
+to the ego than it is to other people.  The precept ‘know thyself'
 did not fall from heaven; it fell upstairs from the other place.
 I decline to know myself; he is not in my set.  He is an
 unknown benefactor of mine, who prefers to remain anonymous.
@@ -9717,19 +9717,19 @@ more about the commonplace conditions of muddle and procrastination
 and flurry and scurry in which it is really produced.
 And I wish that at the beginning or end of all the articles
 we read, there were a brief note stating the situation in which
-the work was written.  Thus we should read, `Will Australia
-adopt Bimetallism?' then, in small letters, `Top of Omnibus';
+the work was written.  Thus we should read, ‘Will Australia
+adopt Bimetallism?' then, in small letters, ‘Top of Omnibus';
 or some such place in which we journalists do most of our learned
 research and compilation.  We should see in some excited morning
-paper the headlines, `Battle at Ping Cho still in Progress,
+paper the headlines, ‘Battle at Ping Cho still in Progress,
 by an Eyewitness.  Latest'.  Then in the usual place would be the note,
-`A.B.C. shop, Strand'.  The title, `Should Spinsters Marry Widowers?'
-would be annotated with `Swan and Elephant, 12.15', and so on.
+‘A.B.C. shop, Strand'.  The title, ‘Should Spinsters Marry Widowers?'
+would be annotated with ‘Swan and Elephant, 12.15', and so on.
 Perhaps, as rather longer descriptions would often be required,
 it might be as [[Well|well]] to confine the matter to a system of easily
-recognised initials.  Thus, for instance, `How England
+recognised initials.  Thus, for instance, ‘How England
 could be Invaded.  L.S.R.D.' (Lodgings at the Seaside.
-Rainy Day); or `Buddhism and the German Pessimists:
+Rainy Day); or ‘Buddhism and the German Pessimists:
 a Parallel.  C.W.P.P.S.' (Cottage. Wallpaper with Pink Spots).
 The thing would throw a kind of flush of colour into our articles.
 [[Nature]] would creep into them as she creeps into the colour
@@ -9748,7 +9748,7 @@ objects lying all round him (eggs, [[Water|water]]-melons, sheep, and so on),
 and packs them into himself as if he were a carpetbag.
 It remembers that the very bones of our heads are grinning.
 And so you will always find in every age that very sincere men
-are accused of what is called `blasphemy' (it was Caiaphas's
+are accused of what is called ‘blasphemy' (it was Caiaphas's
 charge)--blasphemy, which means taking things too lightly.
 The people who can be consistently and entirely solemn are
 the people who have no convictions at all.  Look at them,
@@ -9801,7 +9801,7 @@ Give us a frivolous journalism, and we will save England.
 
 
 
-<span class="atom-split" data-atom="story_35_the_voice_of_shelley" data-title="Wild Ducks — The Voice of Shelley" data-chapter="Story 35 The Voice of Shelley" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_voice_of_shelley" data-title="Wild Ducks — The Voice of Shelley" data-chapter="The Voice of Shelley" data-kind="story"></span>
 
 
 The Voice of Shelley
@@ -9817,7 +9817,7 @@ And if he thought a great deal of the fire, it was from the simple,
 and from his point of view unanswerable, reason that a fire
 is a very artistic thing.  Mr Max Beerbohm in one of his
 most delightful and absurd essays has denounced the fire
-brigade as a band of vandals who destroy a `fair thing'.
+brigade as a band of vandals who destroy a ‘fair thing'.
 He has threatened to start an opposition [[Fire|fire]] brigade
 whose pipes shall be filled not with [[Water|water]] but with oil.
 Nero was only Max made serious; Nero was only Max without
@@ -9917,7 +9917,7 @@ to understand them.
 
 
 
-<span class="atom-split" data-atom="story_36_the_great_translation" data-title="Wild Ducks — The Great Translation" data-chapter="Story 36 The Great Translation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_the_great_translation" data-title="Wild Ducks — The Great Translation" data-chapter="The Great Translation" data-kind="story"></span>
 
 
 The Great [[Translation]]
@@ -9944,17 +9944,17 @@ as Jewish folklore; of course, in a bad sense.  In any case,
 our [[Translation|translation]] is English folklore--and that in the best sense.
 England wrote it; no mere Englishman could have done so.
 
-`How beautiful upon the mountains are the feet of him that bringeth
+‘How beautiful upon the mountains are the feet of him that bringeth
 good news.'  That is as light and as leaping and as classically
 pure as Spenser.  But Spenser had nothing to do with it;
 some ordinary parson wrote it.
 
-`And his driving is as the driving of Jehu, the son of Nimshi;
+‘And his driving is as the driving of Jehu, the son of Nimshi;
 for he drives furiously.'  That is far more vigorous than Chapman
 or Ford.  But Chapman and Ford had nothing to do with it;
 it was done by some common clergyman.
 
-`Where there is no vision the people perish.'  That is as plain
+‘Where there is no vision the people perish.'  That is as plain
 and picturesque as Bunyan.  But Bunyan had nothing to do with it;
 in fact, he was not born.  It may seem a strange matter that these
 pompous big-wigs summoned by so stiff a Scotch pedant as James I
@@ -9993,18 +9993,18 @@ into a rhythm and beat of beauty.
 
 The English of the English Bible is not merely splendid
 about splendid things; it is splendid about everything.
-In any modern leading article we might see the words `We cannot
+In any modern leading article we might see the words ‘We cannot
 understand why English watering-places like Bath or Brighton are
 not as adequate as foreign watering-places like Baden or Dieppe;
 nor why those who seek the one should not as reasonably seek
 the other.'  And that would be perfectly good modern English.
 It is not mere religious association that makes us see better
-English in `Are not Pharpar and Abanah, the waters of Damascus,
+English in ‘Are not Pharpar and Abanah, the waters of Damascus,
 better than all the waters of Jordan, and may I not wash
 in them and be clean?'  It is really the perfection of style;
 it is poetry inside prose.
 
-Any magazine article might contain the paragraph:  `The enthusiast must
+Any magazine article might contain the paragraph:  ‘The enthusiast must
 always be discouraged by certain perishability in all popular things.
 The mass of mankind seems so plainly a mere part of [[Nature|nature]], that it
 is hard to believe that all their ideas are not at once as monotonous
@@ -10013,13 +10013,13 @@ will always return to the idea of an order and a reason in things.'
 That would be perfectly sound, intelligent modern English.
 
 It is not mere religious tradition that makes us think that this
-is better:  `The voice said, Cry; and he said, What shall I cry?
+is better:  ‘The voice said, Cry; and he said, What shall I cry?
 All flesh is grass, and all the goodliness thereof is as the
 flower of the field.  The grass withereth, the flower fadeth:
 because the spirit of the Lord bloweth upon it:
 surely the people is grass.'
 
-And then, as in an answer across an abyss:  `The grass withereth,
+And then, as in an answer across an abyss:  ‘The grass withereth,
 the flower fadeth:  but the word of our God shall stand forever.'
 
 It is not the glamour of an ancient language.  It is simply a much
@@ -10029,9 +10029,9 @@ In one of those tremendous passages that pierce through
 all languages and belong to the sacred Scripture itself,
 one of the prophets speaks of the perfect [[Time|time]] as a [[Time|time]] when
 all the vessels shall be as vessels before the altar, and on
-every pot in Jerusalem shall be written `Holy unto the Lord'.
+every pot in Jerusalem shall be written ‘Holy unto the Lord'.
 That is what the English translation, by a literary accident,
-really managed to achieve.  The phrase `verbal inspiration'
+really managed to achieve.  The phrase ‘verbal inspiration'
 may be orthodox or unorthodox about the [[Bible]] in its
 [[Supernatural|supernatural]] sense.  But it is very nearly true about the
 English [[Translation|translation]] in a secondary and merely human sense.
@@ -10041,14 +10041,14 @@ on this last great wave of the poetical English language.
 Everyone, revolutionist and reactionary, is in our [[Time|time]]
 saying that domestic things must be dull, that common things
 must be commonplace.  Everyone is saying, though with much
-less literary brevity, `Surely the people is grass'.
+less literary brevity, ‘Surely the people is grass'.
 But in our sterile time we have never guessed how tall
 the grass can grow.
 
 
 
 
-<span class="atom-split" data-atom="story_38_the_countrymen_of_mary_webb_and_thomas_h" data-title="Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy" data-chapter="Story 38 The Countrymen of Mary Webb and Thomas H" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_countrymen_of_mary_webb_and_thomas_h" data-title="Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy" data-chapter="The Countrymen of Mary Webb and Thomas H" data-kind="story"></span>
 
 
 The Countrymen of Mary Webb and Thomas Hardy
@@ -10189,7 +10189,7 @@ by making other people the martyrs.
 
 
 
-<span class="atom-split" data-atom="story_39_the_words_of_strong_poetry" data-title="Wild Ducks — The Words of Strong Poetry" data-chapter="Story 39 The Words of Strong Poetry" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_the_words_of_strong_poetry" data-title="Wild Ducks — The Words of Strong Poetry" data-chapter="The Words of Strong Poetry" data-kind="story"></span>
 
 
 The Words of Strong Poetry
@@ -10258,25 +10258,25 @@ The awful cry out of the last tragic trance of Othello, when he realises
 that death is as real as love, finds words worthy of itself;
 megalithic words; words not only of weight but weight-bearing;
 words strong enough to support him above the abyss.
-`If I quench thee, thou flaming minister . . .' The address to
+‘If I quench thee, thou flaming minister . . .' The address to
 the candle might almost be called obscure, but it is not doubtful;
 it is not hesitant or wavering in words or the sound of words;
 it is rather as if a man were granted a greater thing than speech.
 And the effect is gained by this firmness in the words and the weight
-that can rest on them.  `I know not where is that Promethean heat.'
+that can rest on them.  ‘I know not where is that Promethean heat.'
 You could stand an elephant on that line.  It is true, first of all,
 as a mere fact of acoustics, that there is not one weak syllable
 in the line.  At the same time, there is also that strength
-of style that is like the strength of gesture.  `I know not where'
+of style that is like the strength of gesture.  ‘I know not where'
 is the essential elemental cry of man, eternally ignorant
 of the beginning of life, or of how it may truly be renewed.
 And it is a plain and simple fact, whether we like it or not,
-that the words `I know not where' do sound like some such ancestral city;
-while the words, `I don't know where' certainly do not.
+that the words ‘I know not where' do sound like some such ancestral city;
+while the words, ‘I don't know where' certainly do not.
 
 Now half the current case for free against traditional verse
-turns simply on that.  It consists in calling `I know not where'
-pompous and theatrical; and calling `I don't know where'
+turns simply on that.  It consists in calling ‘I know not where'
+pompous and theatrical; and calling ‘I don't know where'
 natural and sincere.  It is not more natural and it is not
 more sincere; it is only more conversational.  And the fact
 that it is conversational only means that it is conventional.
@@ -10300,26 +10300,26 @@ or to recast or rearrange them so, as to weld them closer together.
 A gentleman lighting a cigarette, in talk over the tea-table,
 would rather unduly suspend social intercourse if he refused
 to blow out the match until he had composed a line as full
-and satisfying as `If I quench thee, thou flaming minister'.
+and satisfying as ‘If I quench thee, thou flaming minister'.
 In truth, of course, it would apply to tragic occasions as well
 as trivial occasions in real life.  A man, after murdering a woman,
 would not talk about Prometheus; he is more likely to confess
 to the nearest policeman that he has done Desdemona in.
-But it is none the less true that `done in' is a very weak
+But it is none the less true that ‘done in' is a very weak
 description of what he has done.  It is that weakness
 in the mere words, and especially in the relation of words,
 which seems to me to paralyse in practice a vast amount
 of what is called [[Free Verse|free verse]].  If anyone asks why [[Free Verse|free verse]]
 should not be written which included this close grip and gravity
 and resistant strength in a sentence, I am content to answer:
-`Why indeed!'  But the real repartee of the free versifier
+‘Why indeed!'  But the real repartee of the free versifier
 in such a case is not to ask why it should not be done,
 but to do it.
 
 
 
 
-<span class="atom-split" data-atom="story_40_the_refrain_of_the_rover" data-title="Wild Ducks — The Refrain of the Rover" data-chapter="Story 40 The Refrain of the Rover" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_the_refrain_of_the_rover" data-title="Wild Ducks — The Refrain of the Rover" data-chapter="The Refrain of the Rover" data-kind="story"></span>
 
 
 The Refrain of the Rover
@@ -10332,14 +10332,14 @@ enthusiastic for copying; until more modern authors became more
 enthusiastic for copyright.  But there runs through all poetry,
 through medieval down even to modern times, something like an
 everlasting echo that has in it an element of enchantment.
-There are refrains that recur in any sort of song; such as `Over
-the Hills and Far Away', or `On Christmas Day in the Morning',
-or `Under the Greenwood Tree'.  But I was recently rather
+There are refrains that recur in any sort of song; such as ‘Over
+the Hills and Far Away', or ‘On Christmas Day in the Morning',
+or ‘Under the Greenwood Tree'.  But I was recently rather
 amused to note two or three cases in which two or three poets
 had repeated the same sentence, as [[Well|well]] as the same sentiment.
 I mean that they had avowedly used a verbal repetition,
 which the vulgar might really call plagiarism.  One series began,
-as I imagined, with that spirited [[Song|song]] of Byron, `We'll go no more
+as I imagined, with that spirited [[Song|song]] of Byron, ‘We'll go no more
 a-roving'. Its chief beauty is that Byronic beauty of swiftness,
 which is often neglected.  It consists of three verses
 of four lines each; but it could all be said in a breath.
@@ -10356,7 +10356,7 @@ private doubts about the unconquerable soul which goes with
 the unconquerable temper.  Still, he was a fine fellow in his way,
 and his friends loved him, though he did throw his crutch at them.
 He wrote a lyric which simply changes, 'We'll go no more a-roving',
-to `We'll go no more a-roaming'. It might at least be called an echo;
+to ‘We'll go no more a-roaming'. It might at least be called an echo;
 but I am now defending echoes.  And now I discover, from the recent
 and most fascinating memoirs of a common sailor, that both
 the [[Poems|poems]] may have been echoes; and both the poets plagiarists.
@@ -10364,9 +10364,9 @@ For he quotes a sea-shanty, as sung by common sailors, which I
 myself like better than either of the literary productions.
 I can imagine a seaman singing with the proper doleful boom:
 
-           A-roving--, a-roving--, since roving's been my ru-u-in
-                    I'll go no more a-roving
-                    With you, fair maid!
+A-roving--, a-roving--, since roving's been my ru-u-in
+I'll go no more a-roving
+With you, fair maid!
 
 The small coincidence is worth noting; because it is [[Well|well]] to remember
 that there is a whole literature which is lucky in being quite unconnected
@@ -10385,14 +10385,14 @@ assai entusiasti del copiare; finché autori più moderni non divennero
 più entusiasti del copyright. Ma attraverso tutta la poesia, dal
 medioevo giù fino ai tempi moderni, corre qualcosa come un'eco
 sempiterna che porta in sé un elemento d'incanto. Vi sono ritornelli
-che ricorrono in ogni sorta di canzone; come `Over the Hills and Far
-Away', o `On Christmas Day in the Morning', o `Under the Greenwood
+che ricorrono in ogni sorta di canzone; come ‘Over the Hills and Far
+Away', o ‘On Christmas Day in the Morning', o ‘Under the Greenwood
 Tree'. Ma di recente mi sono piuttosto divertito a notare due o tre
 casi in cui due o tre poeti avevano ripetuto la stessa frase, così come
 [[Well|come]] lo stesso sentimento. Voglio dire che avevano
 dichiaratamente usato una ripetizione verbale, che il volgo potrebbe
 davvero chiamare plagio. Una serie cominciava, come immaginavo, con
-quel briosa [[Song|canto]] di Byron, `We'll go no more a-roving'. La
+quel briosa [[Song|canto]] di Byron, ‘We'll go no more a-roving'. La
 sua bellezza precipua è quella byroniana bellezza della rapidità, che
 spesso viene trascurata. Consta di tre strofe di quattro versi
 ciascuna; ma potrebbe dirsi tutto in un fiato. L'unica grande qualità
@@ -10408,7 +10408,7 @@ ringrazia qualsiasi dio vi sia per la sua anima indomabile; benché io
 nutra i miei privati dubbi sull'anima indomabile che si accompagna a un
 temperamento indomabile. Eppure era un bravo tipo a modo suo, e i suoi
 amici lo amavano, sebbene scagliasse loro la stampella. Scrisse una
-lirica che semplicemente muta `We'll go no more a-roving' in `We'll go
+lirica che semplicemente muta ‘We'll go no more a-roving' in ‘We'll go
 no more a-roaming'. Potrebbe almeno chiamarsi un'eco; ma io ora sto
 difendendo le echi. E ora scopro, dalle recenti e affascinantissime
 memorie di un comune marinaio, che entrambe le [[Poems|poesie]]
@@ -10417,9 +10417,9 @@ cita una canzone di mare, cantata dai comuni marinai, che a me stesso
 piace più di entrambe le produzioni letterarie. Posso immaginare un
 marinaio cantare con il debito lugubre rimbombo:
 
-           A-roving--, a-roving--, since roving's been my ru-u-in
-                    I'll go no more a-roving
-                    With you, fair maid!
+A-roving--, a-roving--, since roving's been my ru-u-in
+I'll go no more a-roving
+With you, fair maid!
 
 La piccola coincidenza merita d'esser notata; perché è [[Well|bene]]
 ricordare che esiste tutta una letteratura fortunata nell'essere del
@@ -10427,7 +10427,7 @@ tutto slegata dagli uomini di lettere.
 
 
 
-<span class="atom-split" data-atom="story_13_the_winter_feast--part_01" data-title="Wild Ducks — The Winter Feast (part 1)" data-chapter="Story 13 The Winter Feast" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_winter_feast--part_01" data-title="Wild Ducks — The Winter Feast (part 1)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
 
 
 The Winter Feast
@@ -10563,7 +10563,7 @@ living in besieged cities, knew too much about Vandals.
 
 
 
-<span class="atom-split" data-atom="story_13_the_winter_feast--part_02" data-title="Wild Ducks — The Winter Feast (part 2)" data-chapter="Story 13 The Winter Feast" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_winter_feast--part_02" data-title="Wild Ducks — The Winter Feast (part 2)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
 
 
 It is, therefore, the greatest glory of the Christian tradition
@@ -10710,7 +10710,7 @@ and call up a real humanitarianism out of the depths of humanity.
 
 
 
-<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_01" data-title="Wild Ducks — A Theory of Tyrants (part 1)" data-chapter="Story 27 A Theory of Tyrants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_01" data-title="Wild Ducks — A Theory of Tyrants (part 1)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
 
 
 A Theory of Tyrants
@@ -10830,7 +10830,7 @@ for the crimes of good men.
 
 
 
-<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_02" data-title="Wild Ducks — A Theory of Tyrants (part 2)" data-chapter="Story 27 A Theory of Tyrants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_02" data-title="Wild Ducks — A Theory of Tyrants (part 2)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
 
 
 Wherever we have read [[history]] we have noticed one class of
@@ -10866,7 +10866,7 @@ tournaments which the men of the Middle Ages loved as much
 as bodily tournaments.  The Abbot was presumably something
 of a philosopher as [[Well|well]] as a philanthropist, and he was liberal
 in his mental interests as [[Well|well]] as liberal with his corn.
-In the exact words of Joinville's Chronicle, `There was a great
+In the exact words of Joinville's Chronicle, ‘There was a great
 disputation between clergy and Jews at the Monastery of Cluny.'
 That single sentence knocks flat for ever the whole picture
 and conception of the medieval Jew which we all have from Scott's
@@ -10925,22 +10925,22 @@ And at the moment, before any of the philosophers could move,
 the old man of the crutch stood up and asked to speak.
 
 Joinville in his Chronicle gently says that this was received
-`with [[Doubt|doubt]]'.  Human life is so startlingly the same in all ages that one
+‘with [[Doubt|doubt]]'.  Human life is so startlingly the same in all ages that one
 can see the scene as clearly as if it were a modern meeting when some
 peppery and impractical Colonel insists on addressing the meeting.
 One can imagine the whispers between the Abbot and his chief supporters.
-`If he speaks there will be a row,' and the unanswerable answer,
-`If we stop him there will be a worse row'.  The assembled philosophers,
+‘If he speaks there will be a row,' and the unanswerable answer,
+‘If we stop him there will be a worse row'.  The assembled philosophers,
 who had been about to pose the Rabbis with the awful rationalism of
-medieval argument, `Why do you believe in God if He is not manifest?'
-or `Could anyone believe in Heaven except through revelation?'
-stood for a moment aside.  The old cripple said, `At least you admit
+medieval argument, ‘Why do you believe in God if He is not manifest?'
+or ‘Could anyone believe in Heaven except through revelation?'
+stood for a moment aside.  The old cripple said, ‘At least you admit
 that Our Lady was the Mother of God.'
 
 The Rabbi who was addressed smiled, perhaps, that rich
 smile which some find repulsive even when it is benevolent,
 and said that he did not admit this.  The old man said steadily,
-`Then if you do not [[Love|love]] Our Lady you were very silly to come
+‘Then if you do not [[Love|love]] Our Lady you were very silly to come
 into her [[house]].'  He plucked the crutch from under his arm,
 and whirling it suddenly aloft, caught the Jew a stunning crack
 behind the ear, bringing him to the ground.  Instantly, of course,
@@ -10957,7 +10957,7 @@ as any that might have happened in Surbiton during the War.
 
 
 
-<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_01" data-title="Wild Ducks — The Return of Pageantry (part 1)" data-chapter="Story 28 The Return of Pageantry" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_01" data-title="Wild Ducks — The Return of Pageantry (part 1)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
 
 
 The Return of Pageantry
@@ -10977,7 +10977,7 @@ and St George, Robin Goodfellow and [[Robin Hood]], belong to a national
 tradition that has not even been touched by [[Puritanism]]; yet which is
 quite different from the tradition of Spain, of Scotland, or of France.
 Chaucer's Franklin, whose beard was white as a daisy, and in whose
-[[house]] `it snewed meate and drinke', was as certainly an Englishman
+[[house]] ‘it snewed meate and drinke', was as certainly an Englishman
 as he most certainly was not a Puritan.
 
 Puritanism was something put into the Englishman after
@@ -10999,7 +10999,7 @@ among the fairies; and in that almost Arthurian romance
 of the roving court of Robert Bruce, which left, like a gypsy
 blood for generations, a tradition of wandering Scottish kings.
 Even in Scotland, I believe, Calvinism has only been
-an episode.  The Scotch are taking off their `blacks'
+an episode.  The Scotch are taking off their ‘blacks'
 and appearing again in the purple of their ancient poetry.
 We may yet hear the twang of the last precentor before we
 really hear the Lay of the Last Minstrel.
@@ -11040,7 +11040,7 @@ Dickens quite obviously existed to champion everything that
 the Puritans existed to destroy; when Mr Scrooge is converted
 to Christmas, the Puritan would have thought that Scrooge
 was relapsing and not repenting.  When Scrooge and his clerk
-sit down to `a bowl of smoking Bishop', the Puritan would
+sit down to ‘a bowl of smoking Bishop', the Puritan would
 have been equally disgusted with the spirit and with the name.
 Nevertheless the Ironside element, though alien to England,
 was to a certain extent mixed with it; and I myself believe
@@ -11066,9 +11066,9 @@ Where the Catholic Englishman had been modest enough to make
 a fool of himself, the Protestant Englishman had only that
 lower sort of modesty that will not make a show of itself.
 He objected to making a Pageant, because it is, literally speaking,
-`making a scene'.  It is said that the Frenchman shrugs his shoulders;
+‘making a scene'.  It is said that the Frenchman shrugs his shoulders;
 but the Victorian Englishman was born with his shoulders shrugged.
-His whole attitude until lately has been `What's the good
+His whole attitude until lately has been ‘What's the good
 of making a fuss?'  It is a sensible and pleasant temper;
 it is the remains of the real Englishman who gave its patient
 Pickwickian cheerfulness to the Canterbury Pilgrimage.
@@ -11080,14 +11080,14 @@ and in the colours of Carnival.
 
 
 
-<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_02" data-title="Wild Ducks — The Return of Pageantry (part 2)" data-chapter="Story 28 The Return of Pageantry" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_02" data-title="Wild Ducks — The Return of Pageantry (part 2)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
 
 
 Rational History
 
-There is a sort of phrase or joke about `whitewashing'
+There is a sort of phrase or joke about ‘whitewashing'
 the villains of [[history]]; but to be quite just there ought
-to be some phrase such as `blackwashing' also.  For the truth
+to be some phrase such as ‘blackwashing' also.  For the truth
 is that such rehabilitations are of two very different kinds.
 One is a mere anarchist itch to upset a traditional
 and universal verdict.  The other is a reasonable petition
@@ -11133,7 +11133,7 @@ The sins of the Superman are unpardonable.
 But the sins of man are as the hairs of his head.
 So long as we regard Napoleon as a Superman, we are bound
 to regard all his cruelties as cold-blooded, all his pride
-as blasphemous, all his diplomacy as `black causeless duplicity'
+as blasphemous, all his diplomacy as ‘black causeless duplicity'
 (as Stevenson said of his own Master of Ballantrae), all his sins,
 in short, as sins against the Holy [[Ghost]]--and, above all,
 all his misfortunes as deserved.  But if we regard him as Man,
@@ -11159,7 +11159,7 @@ him for ever.
 Much of the same is true, as I have said, of the [[Last Stand|last stand]] of
 the remote Plantagenet at Bosworth:  when Henry Tudor rode as best
 he could into battle, making up his pedigree as he went along.
-The real medieval [[King|king]] was the man who died calling out `Treason'
+The real medieval [[King|king]] was the man who died calling out ‘Treason'
 and killing men on every side of him.  Richard III was doing
 exactly what would have been expected of Richard I. But nothing
 was ever expected of the Tudors except the unexpected.
@@ -11175,7 +11175,7 @@ what kind of tale he would tell of the fallen King.
 
 
 
-<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_01" data-title="Wild Ducks — Jane Austen's Juvenilia (part 1)" data-chapter="Story 37 Jane Austen s Juvenilia" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_01" data-title="Wild Ducks — Jane Austen's Juvenilia (part 1)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
 
 
 Jane Austen's Juvenilia
@@ -11191,7 +11191,7 @@ It would be nearer the truth to say that they did.  But in any case it
 may be amusing to those who are thus amused, and perhaps even instructive
 to those who thus need to be instructed, to know that the earliest work of
 Jane Austen might be called a satire on the fable of the fainting lady.
-`Beware of fainting fits . . . though at times they may be refreshing
+‘Beware of fainting fits . . . though at times they may be refreshing
 and agreeable yet believe me they will in the end, if too often repeated
 and at improper [[Seasons|seasons]], prove destructive to your Constitution.'
 Such were the words of the expiring Sophia to the afflicted Laura;
@@ -11264,8 +11264,8 @@ of the sort of high spirits that are always higher in private than
 in public; as people laugh louder in the [[house]] than in the street.
 Many of her admirers would not expect, perhaps many of her admirers
 would not admire, the sort of fun to be found in the letter to
-the young lady `whose feelings were too strong for her judgment',
-and who remarks incidentally `I murdered my father at a very early
+the young lady ‘whose feelings were too strong for her judgment',
+and who remarks incidentally ‘I murdered my father at a very early
 period in my life, I have since murdered my mother, and I am now
 going to murder my sister'.  Personally, I think it admirable;
 not the conduct, but the confession.  But there is much more
@@ -11275,14 +11275,14 @@ There is not a little of the true Austen irony.  'The noble Youth
 informed us that his name was Lindsay--for particular reasons,
 however, I shall conceal it under that of Talbot.'  Did anyone
 really [[Desire|desire]] that to disappear into the waste-paper basket?
-`She was nothing more than a mere good-tempered, civil and
+‘She was nothing more than a mere good-tempered, civil and
 obliging young woman; as such we could scarcely dislike her--
 she was only an object of contempt.'  Is not that something like
 the first faint line in the figure of Fanny Price?  When a loud
 knocking is heard on the door of the Rustic Cot by the Uske,
 the heroine's father enquires the nature of the noise, and by cautious
 steps of inference they are enabled to define it as somebody
-outside striking the door.  `"Yes" (exclaimed I) "I cannot
+outside striking the door.  ‘"Yes" (exclaimed I) "I cannot
 help thinking it must be somebody who knocks for admittance."
 "That is another point" (replied he) "we must not pretend
 to determine on what motive the person may knock--tho'
@@ -11295,7 +11295,7 @@ the unmistakable voice of Mr Bennet?
 
 
 
-<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_02" data-title="Wild Ducks — Jane Austen's Juvenilia (part 2)" data-chapter="Story 37 Jane Austen s Juvenilia" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_02" data-title="Wild Ducks — Jane Austen's Juvenilia (part 2)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
 
 
 But there is a larger critical reason for taking pleasure
@@ -11385,7 +11385,7 @@ them for the very thing for which revolutionary sentiment has
 so much admired them; as for their glorification of ingratitude
 to parents and their easy assumption that the old are
 always wrong.  'No!' says the noble Youth in [[Love]] and [[Friendship]],
-`never shall it be said that I obliged my father.'
+‘never shall it be said that I obliged my father.'
 And the other is that there is not a shadow of indication
 anywhere that this independent intellect and laughing spirit
 was other than contented with a narrow domestic routine,
@@ -11396,7 +11396,7 @@ to notice the French Revolution.
 
 
 
-<span class="atom-split" data-atom="story_41_on_reflection--part_01" data-title="Wild Ducks — ON REFLECTION (part 1)" data-chapter="Story 41 ON REFLECTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_on_reflection--part_01" data-title="Wild Ducks — ON REFLECTION (part 1)" data-chapter="ON REFLECTION" data-kind="excerpt"></span>
 
 
 On Reflection
@@ -11435,14 +11435,14 @@ for the best method, the ideal, whether it is in the future
 or the past.  I imagined this book as a drab-coloured,
 decorous little philosophical treatise, with no chapters,
 but the page occasionally broken by section-headings at the side.
-I proposed to call my analysis of a radical error `What is wrong',
+I proposed to call my analysis of a radical error ‘What is wrong',
 meaning where the mistake is in our logical calculation.
 But I had highly capable and sympathetic publishers,
 whose only weakness was that they thought my unhappy monologue
 much more important than I did.  By some confusion of ecstasy
 (which entirely through my own fault I failed to check)
 the title was changed into the apocalyptic trumpet-blast
-`What's Wrong With the World'.  It was divided up into three short,
+‘What's Wrong With the World'.  It was divided up into three short,
 fierce chapters, like proclamations in a French riot.
 Outside there was an enormous portrait of myself looking like a
 depressed hairdresser, and the whole publication had somehow got
@@ -11474,9 +11474,9 @@ with it is God; the human race will travel for a few more million
 years in all sorts of muddle and [[Reform|reform]], and when it perishes
 of the last cold or heat it will still be within the limits
 of that very simple definition.  But in an age that has confused
-itself with such phrases as `optimist' and `pessimist',
+itself with such phrases as ‘optimist' and ‘pessimist',
 it is necessary to distinguish along more delicate lines.
-One of the strangest things about the use of the word `optimist'
+One of the strangest things about the use of the word ‘optimist'
 is that it is now so constantly used about the future.
 The house of man is criticised not as a house, but as a kind
 of caravan; not by what it is; but by where it is going to.
@@ -11521,7 +11521,7 @@ them all alone.
 
 
 
-<span class="atom-split" data-atom="story_41_on_reflection--part_02" data-title="Wild Ducks — ON REFLECTION (part 2)" data-chapter="Story 41 ON REFLECTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_on_reflection--part_02" data-title="Wild Ducks — ON REFLECTION (part 2)" data-chapter="ON REFLECTION" data-kind="excerpt"></span>
 
 
 We therefore come back to the primary truth, that what is right with
@@ -11643,7 +11643,7 @@ and to examine it.
 
 
 
-<span class="atom-split" data-atom="story_41_on_reflection--part_03" data-title="Wild Ducks — ON REFLECTION (part 3)" data-chapter="Story 41 ON REFLECTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_on_reflection--part_03" data-title="Wild Ducks — ON REFLECTION (part 3)" data-chapter="ON REFLECTION" data-kind="excerpt"></span>
 
 
 There has crept into our thoughts, through a thousand
@@ -11653,13 +11653,13 @@ is something high and spiritual about things being blended
 and absorbed into each other.  That all rivers should run
 into one river, that all vegetables should go into one pot--
 that is spoken of as the last and best fulfilment of being.
-Boys are to be `at one' with girls; all sects are to be `at one'
+Boys are to be ‘at one' with girls; all sects are to be ‘at one'
 in the New Theology; beasts fade into men and men fade into God;
 union in itself is a noble thing.  Now union in itself is not
 a noble thing.  Love is a noble thing; but love is not union.
 Nay, it is rather a vivid sense of separation and identity.
 Maudlin, inferior love poetry does, indeed, talk of lovers
-being `one [[Soul|soul]]', just as maudlin, inferior religious poetry
+being ‘one [[Soul|soul]]', just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
 When [[Dante]] meets [[Beatrice]], he feels his distance from her,
 not his proximity; and all the greatest saints have felt
@@ -11673,9 +11673,9 @@ of surprise.  Division and variety are essential to praise;
 division and variety are what is right with the world.
 There is nothing specially right about mere contact and coalescence.
 
-In short, this vast, vague idea of [[unity]] is the one `reactionary'
+In short, this vast, vague idea of [[unity]] is the one ‘reactionary'
 thing in the world.  It is perhaps the only connection in which that
-foolish word `reactionary' can be used with significance and [[Truth|truth]].
+foolish word ‘reactionary' can be used with significance and [[Truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
 There is, of course, another kind of [[unity]] of which I do not speak here;
@@ -11690,8 +11690,8 @@ these are the things that make life worth living and the whole
 framework of things [[Well|well]] worthy to be sustained.  And the best
 thing remains; that this view, whether conscious or not, always has
 been and still is the view of the living and labouring millions.
-While a few prigs on platforms are talking about `oneness'
-and absorption in `The All', the folk that dwell in all the valleys
+While a few prigs on platforms are talking about ‘oneness'
+and absorption in ‘The All', the folk that dwell in all the valleys
 of this ancient earth are renewing the varieties forever.  With them
 a woman is loved for being unmanly, and a man loved for being unwomanly.
 With them the church and the [[Home|home]] are both beautiful, because they
@@ -11768,7 +11768,7 @@ the sacredness of simple things, the health and [[Humour|humour]] of the earth,
 which [[Alone|alone]] make a half-holiday even half a holiday or a slave
 even half a man.
 
-There is danger in that modern phrase `divine discontent'.
+There is danger in that modern phrase ‘divine discontent'.
 There is [[Truth|truth]] in it also, of course; but it is only [[Truth|truth]]
 of a special and secondary kind.  Much of the quarrel
 between [[Christianity]] and the world has been due to this fact;

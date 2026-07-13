@@ -28,70 +28,70 @@ CONTENTS
 
 PART ONE:  THE HOMELESSNESS OF MAN
 
- I      The Medical Mistake
- II     Wanted: An Unpractical Man
- III    The New Hypocrite
- IV     The [[Fear]] of the Past
- V      The Unfinished Temple
- VI     The Enemies of Property
- VII    The Free Family
- XIII   The Wildness of Domesticity
- IX     [[history|History]] of Hudge and Gudge
- X      Oppression by Optimism
- XI     The Homelessness of [[Jones]]
+I      The Medical Mistake
+II     Wanted: An Unpractical Man
+III    The New Hypocrite
+IV     The [[Fear]] of the Past
+V      The Unfinished Temple
+VI     The Enemies of Property
+VII    The Free Family
+XIII   The Wildness of Domesticity
+IX     [[history|History]] of Hudge and Gudge
+X      Oppression by Optimism
+XI     The Homelessness of [[Jones]]
 
 PART TWO:  IMPERIALISM, OR THE MISTAKE ABOUT MAN
 
- I      The Charm of Jingoism
- II     Wisdom and the Weather
- III    The Common Vision
- IV     The Insane Necessity
+I      The Charm of Jingoism
+II     Wisdom and the Weather
+III    The Common Vision
+IV     The Insane Necessity
 
 PART THREE:  FEMINISM, OR THE MISTAKE ABOUT WOMAN
 
- I      The Unmilitary Suffragette
- II     The Universal Stick
- III    The Emancipation of Domesticity
- IV     The [[Romance]] of Thrift
- V      The Coldness of Chloe
- VI     The Pedant and the Savage
- VII    The Modern Surrender of Woman
- VIII   The Brand of the Fleur-de-Lis
- IX     Sincerity and the Gallows
- X      The Higher Anarchy
- XI     The [[Queen]] and the Suffragettes
- XII    The Modern Slave
+I      The Unmilitary Suffragette
+II     The Universal Stick
+III    The Emancipation of Domesticity
+IV     The [[Romance]] of Thrift
+V      The Coldness of Chloe
+VI     The Pedant and the Savage
+VII    The Modern Surrender of Woman
+VIII   The Brand of the Fleur-de-Lis
+IX     Sincerity and the Gallows
+X      The Higher Anarchy
+XI     The [[Queen]] and the Suffragettes
+XII    The Modern Slave
 
 PART FOUR:  [[Education|EDUCATION]], OR THE MISTAKE ABOUT THE [[Child|CHILD]]
 
- I      The Calvinism of To-day
- II     The Tribal Terror
- III    The Tricks of Environment
- IV     The [[Truth]] About [[Education]]
- V      An Evil Cry
- VI     Authority the Unavoidable
- VII    The [[Humility]] of Mrs. Grundy
- VIII   The Broken Rainbow
- IX     The Need for Narrowness
- X      The Case for the Public Schools
- XI     The School for Hypocrites
- XII    The Staleness of the New Schools
- XIII   The Outlawed Parent
- XIV    Folly and Female [[Education]]
+I      The Calvinism of To-day
+II     The Tribal Terror
+III    The Tricks of Environment
+IV     The [[Truth]] About [[Education]]
+V      An Evil Cry
+VI     Authority the Unavoidable
+VII    The [[Humility]] of Mrs. Grundy
+VIII   The Broken Rainbow
+IX     The Need for Narrowness
+X      The Case for the Public Schools
+XI     The School for Hypocrites
+XII    The Staleness of the New Schools
+XIII   The Outlawed Parent
+XIV    Folly and Female [[Education]]
 
 PART FIVE:  THE [[Home|HOME]] OF MAN
 
- I      The Empire of the Insect
- II     The Fallacy of the Umbrella Stand
- III    The Dreadful Duty of Gudge
- IV     A Last Instance
- V      Conclusion
+I      The Empire of the Insect
+II     The Fallacy of the Umbrella Stand
+III    The Dreadful Duty of Gudge
+IV     A Last Instance
+V      Conclusion
 
 THREE NOTES
 
- I      On Female Suffrage
- II     On Cleanliness in [[Education]]
- III    On Peasant Proprietorship
+I      On Female Suffrage
+II     On Cleanliness in [[Education]]
+III    On Peasant Proprietorship
 
 * * *
 
@@ -1613,10 +1613,10 @@ They saved their poorer countrymen from the disgrace of paying
 which they were doubtless too weak to guard.  A fine old English
 rhyme has immortalized this easy aristocratic habit--
 
-  You prosecute the man or woman 
-  Who steals the goose from off the common,
-  But leave the larger felon loose
-  Who steals the common from the goose.
+You prosecute the man or woman 
+Who steals the goose from off the common,
+But leave the larger felon loose
+Who steals the common from the goose.
 
 But here, as in the case of the monasteries, we confront the strange
 problem of submission.  If they stole the common from the goose,
@@ -6015,152 +6015,152 @@ but because it will leave it so horribly the same.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_homelessness_of_man" data-title="whats wrong — Part 1: THE HOMELESSNESS OF MAN" data-chapter="Chapter 01 THE HOMELESSNESS OF MAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_homelessness_of_man" data-title="whats wrong — Part 1: THE HOMELESSNESS OF MAN" data-chapter="THE HOMELESSNESS OF MAN" data-kind="chapter"></span>
 
 
 PART ONE:  THE HOMELESSNESS OF MAN
 
- I      The Medical Mistake
- II     Wanted: An Unpractical Man
- III    The New Hypocrite
- IV     The [[Fear]] of the Past
- V      The Unfinished Temple
- VI     The Enemies of Property
- VII    The Free Family
- XIII   The Wildness of Domesticity
- IX     [[history|History]] of Hudge and Gudge
- X      Oppression by Optimism
- XI     The Homelessness of [[Jones]]
+I      The Medical Mistake
+II     Wanted: An Unpractical Man
+III    The New Hypocrite
+IV     The [[Fear]] of the Past
+V      The Unfinished Temple
+VI     The Enemies of Property
+VII    The Free Family
+XIII   The Wildness of Domesticity
+IX     [[history|History]] of Hudge and Gudge
+X      Oppression by Optimism
+XI     The Homelessness of [[Jones]]
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 PARTE PRIMA:  L'UOMO SENZA CASA
 
- I      L'errore medico
- II     Cercasi: un uomo poco pratico
- III    Il nuovo ipocrita
- IV     La [[Fear|Paura]] del passato
- V      Il tempio incompiuto
- VI     I nemici della proprietà
- VII    La famiglia libera
- XIII   La selvatichezza del focolare domestico
- IX     [[history|Storia]] di Hudge e Gudge
- X      L'oppressione dell'ottimismo
- XI     [[Jones]] senza casa
+I      L'errore medico
+II     Cercasi: un uomo poco pratico
+III    Il nuovo ipocrita
+IV     La [[Fear|Paura]] del passato
+V      Il tempio incompiuto
+VI     I nemici della proprietà
+VII    La famiglia libera
+XIII   La selvatichezza del focolare domestico
+IX     [[history|Storia]] di Hudge e Gudge
+X      L'oppressione dell'ottimismo
+XI     [[Jones]] senza casa
 
 
 
-<span class="atom-split" data-atom="chapter_02_imperialism_or_the_mistake_abo" data-title="whats wrong — Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN" data-chapter="Chapter 02 IMPERIALISM OR THE MISTAKE ABO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_imperialism_or_the_mistake_abo" data-title="whats wrong — Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN" data-chapter="IMPERIALISM OR THE MISTAKE ABO" data-kind="chapter"></span>
 
 
 PART TWO:  IMPERIALISM, OR THE MISTAKE ABOUT MAN
 
- I      The Charm of Jingoism
- II     Wisdom and the Weather
- III    The Common Vision
- IV     The Insane Necessity
+I      The Charm of Jingoism
+II     Wisdom and the Weather
+III    The Common Vision
+IV     The Insane Necessity
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 PARTE SECONDA:  L'IMPERIALISMO, OVVERO L'ERRORE SULL'UOMO
 
- I      Il fascino del jingoismo
- II     La saggezza e il tempo atmosferico
- III    La visione comune
- IV     La folle necessità
+I      Il fascino del jingoismo
+II     La saggezza e il tempo atmosferico
+III    La visione comune
+IV     La folle necessità
 
 
 
-<span class="atom-split" data-atom="chapter_03_feminism_or_the_mistake_about" data-title="whats wrong — Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN" data-chapter="Chapter 03 FEMINISM OR THE MISTAKE ABOUT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_feminism_or_the_mistake_about" data-title="whats wrong — Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN" data-chapter="FEMINISM OR THE MISTAKE ABOUT" data-kind="chapter"></span>
 
 
 PART THREE:  FEMINISM, OR THE MISTAKE ABOUT WOMAN
 
- I      The Unmilitary Suffragette
- II     The Universal Stick
- III    The Emancipation of Domesticity
- IV     The [[Romance]] of Thrift
- V      The Coldness of Chloe
- VI     The Pedant and the Savage
- VII    The Modern Surrender of Woman
- VIII   The Brand of the Fleur-de-Lis
- IX     Sincerity and the Gallows
- X      The Higher Anarchy
- XI     The [[Queen]] and the Suffragettes
- XII    The Modern Slave
+I      The Unmilitary Suffragette
+II     The Universal Stick
+III    The Emancipation of Domesticity
+IV     The [[Romance]] of Thrift
+V      The Coldness of Chloe
+VI     The Pedant and the Savage
+VII    The Modern Surrender of Woman
+VIII   The Brand of the Fleur-de-Lis
+IX     Sincerity and the Gallows
+X      The Higher Anarchy
+XI     The [[Queen]] and the Suffragettes
+XII    The Modern Slave
 
 PART FOUR:  [[Education|EDUCATION]], OR THE MISTAKE ABOUT THE [[Child|CHILD]]
 
- I      The Calvinism of To-day
- II     The Tribal Terror
- III    The Tricks of Environment
- IV     The [[Truth]] About [[Education]]
- V      An Evil Cry
- VI     Authority the Unavoidable
- VII    The [[Humility]] of Mrs. Grundy
- VIII   The Broken Rainbow
- IX     The Need for Narrowness
- X      The Case for the Public Schools
- XI     The School for Hypocrites
- XII    The Staleness of the New Schools
- XIII   The Outlawed Parent
- XIV    Folly and Female [[Education]]
+I      The Calvinism of To-day
+II     The Tribal Terror
+III    The Tricks of Environment
+IV     The [[Truth]] About [[Education]]
+V      An Evil Cry
+VI     Authority the Unavoidable
+VII    The [[Humility]] of Mrs. Grundy
+VIII   The Broken Rainbow
+IX     The Need for Narrowness
+X      The Case for the Public Schools
+XI     The School for Hypocrites
+XII    The Staleness of the New Schools
+XIII   The Outlawed Parent
+XIV    Folly and Female [[Education]]
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 PARTE TERZA:  FEMMINISMO, OVVERO L'ERRORE SULLA DONNA
 
- I      La Suffragetta Non Militare
- II     Il Bastone Universale
- III    L'Emancipazione della Domesticità
- IV     Il [[Romance|Romanzo]] del Risparmio
- V      La Freddezza di Cloe
- VI     Il Pedante e il Selvaggio
- VII    La Moderna Resa della Donna
- VIII   Il Marchio del Giglio
- IX     La Sincerità e la Forca
- X      L'Anarchia Superiore
- XI     La [[Queen|Regina]] e le Suffragette
- XII    Lo Schiavo Moderno
+I      La Suffragetta Non Militare
+II     Il Bastone Universale
+III    L'Emancipazione della Domesticità
+IV     Il [[Romance|Romanzo]] del Risparmio
+V      La Freddezza di Cloe
+VI     Il Pedante e il Selvaggio
+VII    La Moderna Resa della Donna
+VIII   Il Marchio del Giglio
+IX     La Sincerità e la Forca
+X      L'Anarchia Superiore
+XI     La [[Queen|Regina]] e le Suffragette
+XII    Lo Schiavo Moderno
 
 PARTE QUARTA:  [[Education|EDUCAZIONE]], OVVERO L'ERRORE SUL [[Child|BAMBINO]]
 
- I      Il Calvinismo di Oggi
- II     Il Terrore Tribale
- III    I Trucchi dell'Ambiente
- IV     La [[Truth|Verità]] sull'[[Education|Educazione]]
- V      Un Grido Malvagio
- VI     L'Autorità Inevitabile
- VII    L'[[Humility|Umiltà]] della Signora Grundy
- VIII   L'Arcobaleno Spezzato
- IX     Il Bisogno di Ristrettezza
- X      In Difesa delle Scuole Pubbliche
- XI     La Scuola per Ipocriti
- XII    Il Ristagno delle Nuove Scuole
- XIII   Il Genitore Messo al Bando
- XIV    La Follia e l'[[Education|Educazione]] Femminile
+I      Il Calvinismo di Oggi
+II     Il Terrore Tribale
+III    I Trucchi dell'Ambiente
+IV     La [[Truth|Verità]] sull'[[Education|Educazione]]
+V      Un Grido Malvagio
+VI     L'Autorità Inevitabile
+VII    L'[[Humility|Umiltà]] della Signora Grundy
+VIII   L'Arcobaleno Spezzato
+IX     Il Bisogno di Ristrettezza
+X      In Difesa delle Scuole Pubbliche
+XI     La Scuola per Ipocriti
+XII    Il Ristagno delle Nuove Scuole
+XIII   Il Genitore Messo al Bando
+XIV    La Follia e l'[[Education|Educazione]] Femminile
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_home_home_of_man" data-title="whats wrong — Part 5: THE HOME OF MAN" data-chapter="Chapter 04 THE Home HOME OF MAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_home_home_of_man" data-title="whats wrong — Part 5: THE HOME OF MAN" data-chapter="THE Home HOME OF MAN" data-kind="chapter"></span>
 
 
 PART FIVE:  THE [[Home|HOME]] OF MAN
 
- I      The Empire of the Insect
- II     The Fallacy of the Umbrella Stand
- III    The Dreadful Duty of Gudge
- IV     A Last Instance
- V      Conclusion
+I      The Empire of the Insect
+II     The Fallacy of the Umbrella Stand
+III    The Dreadful Duty of Gudge
+IV     A Last Instance
+V      Conclusion
 
 THREE NOTES
 
- I      On Female Suffrage
- II     On Cleanliness in [[Education]]
- III    On Peasant Proprietorship
+I      On Female Suffrage
+II     On Cleanliness in [[Education]]
+III    On Peasant Proprietorship
 
 * * *
 
@@ -6220,17 +6220,17 @@ G. K. Chesterton.
 
 PARTE QUINTA:  LA [[Home|CASA]] DELL'UOMO
 
- I      L'Impero dell'Insetto
- II     La Fallacia del Portaombrelli
- III    Il Terribile Dovere di Gudge
- IV     Un Ultimo Esempio
- V      Conclusione
+I      L'Impero dell'Insetto
+II     La Fallacia del Portaombrelli
+III    Il Terribile Dovere di Gudge
+IV     Un Ultimo Esempio
+V      Conclusione
 
 TRE NOTE
 
- I      Sul Suffragio Femminile
- II     Sulla Pulizia nell'[[Education|Istruzione]]
- III    Sulla Piccola Proprietà Contadina
+I      Sul Suffragio Femminile
+II     Sulla Pulizia nell'[[Education|Istruzione]]
+III    Sulla Piccola Proprietà Contadina
 
 * * *
 
@@ -7835,10 +7835,10 @@ They saved their poorer countrymen from the disgrace of paying
 which they were doubtless too weak to guard.  A fine old English
 rhyme has immortalized this easy aristocratic habit--
 
-  You prosecute the man or woman 
-  Who steals the goose from off the common,
-  But leave the larger felon loose
-  Who steals the common from the goose.
+You prosecute the man or woman 
+Who steals the goose from off the common,
+But leave the larger felon loose
+Who steals the common from the goose.
 
 But here, as in the case of the monasteries, we confront the strange
 problem of submission.  If they stole the common from the goose,

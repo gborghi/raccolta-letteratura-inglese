@@ -267,7 +267,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_preface" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — PREFACE" data-chapter="Story 01 PREFACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_preface" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — PREFACE" data-chapter="PREFACE" data-kind="story"></span>
 
 
 PREFACE
@@ -280,7 +280,7 @@ July 1916.
 
 
 
-<span class="atom-split" data-atom="story_02_a_glimpse_of_the_british_army" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE BRITISH ARMY" data-chapter="Story 02 A GLIMPSE OF THE BRITISH ARMY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_a_glimpse_of_the_british_army" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE BRITISH ARMY" data-chapter="A GLIMPSE OF THE BRITISH ARMY" data-kind="story"></span>
 
 
 A GLIMPSE OF THE BRITISH ARMY
@@ -320,7 +320,7 @@ And so I turn from the British line. Another and more distant task lies before m
 
 
 
-<span class="atom-split" data-atom="story_03_a_glimpse_of_the_italian_army" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE ITALIAN ARMY" data-chapter="Story 03 A GLIMPSE OF THE ITALIAN ARMY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_a_glimpse_of_the_italian_army" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE ITALIAN ARMY" data-chapter="A GLIMPSE OF THE ITALIAN ARMY" data-kind="story"></span>
 
 
 A GLIMPSE OF THE ITALIAN ARMY
@@ -349,7 +349,7 @@ That night found me back at Verona, and next morning I was on my way to Paris, w
 
 
 
-<span class="atom-split" data-atom="story_04_a_glimpse_of_the_french_line--part_01" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE FRENCH LINE (part 1)" data-chapter="Story 04 A GLIMPSE OF THE FRENCH LINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_glimpse_of_the_french_line--part_01" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE FRENCH LINE (part 1)" data-chapter="A GLIMPSE OF THE FRENCH LINE" data-kind="excerpt"></span>
 
 
 A GLIMPSE OF THE FRENCH LINE
@@ -404,7 +404,7 @@ ARTHUR CONAN DOYLE.
 
 
 
-<span class="atom-split" data-atom="story_04_a_glimpse_of_the_french_line--part_02" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE FRENCH LINE (part 2)" data-chapter="Story 04 A GLIMPSE OF THE FRENCH LINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_glimpse_of_the_french_line--part_02" data-title="A VISIT TO THREE FRONTS. JUNE 1916 — A GLIMPSE OF THE FRENCH LINE (part 2)" data-chapter="A GLIMPSE OF THE FRENCH LINE" data-kind="excerpt"></span>
 
 
 A GLIMPSE OF THE ARMY

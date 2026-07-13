@@ -1127,10 +1127,10 @@ the people of England with his head and [[Body|body]] in this position.
 This may in some sense give me, to quote a poem that I wrote
 in my youth:
 
- "A nobler office on the earth
-  Than valour, power of brain, or birth
-  Could give the warrior kings of old.
-  The intellect clarified by this posture..."
+"A nobler office on the earth
+Than valour, power of brain, or birth
+Could give the warrior kings of old.
+The intellect clarified by this posture..."
 
 Lambert and Barker made a kind of rush at him.
 
@@ -5628,18 +5628,18 @@ Hark! there it begins."
 Through the [[Night|night]] came a crash of drums, and then a strong swell
 of human voices:
 
-  "When the world was in the balance, there was [[Night|night]] on Notting [[Hill]], 
-  (There was [[Night|night]] on Notting [[Hill]]): it was nobler than the day; 
-  On the cities where the lights are and the firesides glow,
-  From the seas and from the deserts came the thing we did not know,
-  Came the darkness, came the darkness, came the darkness on the foe,
-  And the old guard of God turned to bay.  
-  For the old guard of God turns to bay, turns to bay,
-  And the [[Stars|stars]] fall down before it ere its banners fall to-day.
-  For when armies were around us as a howling and a horde, 
-  When falling was the citadel and broken was the [[Sword|sword]],
-  The darkness came upon them like the Dragon of the Lord,
-  When the old guard of God turned to bay."
+"When the world was in the balance, there was [[Night|night]] on Notting [[Hill]], 
+(There was [[Night|night]] on Notting [[Hill]]): it was nobler than the day; 
+On the cities where the lights are and the firesides glow,
+From the seas and from the deserts came the thing we did not know,
+Came the darkness, came the darkness, came the darkness on the foe,
+And the old guard of God turned to bay.  
+For the old guard of God turns to bay, turns to bay,
+And the [[Stars|stars]] fall down before it ere its banners fall to-day.
+For when armies were around us as a howling and a horde, 
+When falling was the citadel and broken was the [[Sword|sword]],
+The darkness came upon them like the Dragon of the Lord,
+When the old guard of God turned to bay."
 
 The voices were just uplifting themselves in a second verse,
 when they were stopped by a scurry and a yell.  Barker had bounded
@@ -8341,10 +8341,10 @@ the people of England with his head and [[Body|body]] in this position.
 This may in some sense give me, to quote a poem that I wrote
 in my youth:
 
- "A nobler office on the earth
-  Than valour, power of brain, or birth
-  Could give the warrior kings of old.
-  The intellect clarified by this posture..."
+"A nobler office on the earth
+Than valour, power of brain, or birth
+Could give the warrior kings of old.
+The intellect clarified by this posture..."
 
 Lambert and Barker made a kind of rush at him.
 
@@ -8505,10 +8505,10 @@ abbia mai riversato la propria [[Soul|anima]] al popolo d'Inghilterra con la
 testa e il [[Body|corpo]] in questa posizione.  Ciò può in un certo senso darmi,
 per citare una poesia che scrissi in gioventù:
 
- "Un ufficio più nobile sulla terra  
-  Di quanto valore, potere d'ingegno o nascita  
-  Potessero dare agli antichi re guerrieri.  
-  L'intelletto chiarificato da questa postura..."
+"Un ufficio più nobile sulla terra  
+Di quanto valore, potere d'ingegno o nascita  
+Potessero dare agli antichi re guerrieri.  
+L'intelletto chiarificato da questa postura..."
 
 Lambert e Barker si lanciarono una specie di assalto verso di lui.
 
@@ -17128,18 +17128,18 @@ Hark! there it begins."
 Through the [[Night|night]] came a crash of drums, and then a strong swell
 of human voices:
 
-  "When the world was in the balance, there was [[Night|night]] on Notting [[Hill]], 
-  (There was [[Night|night]] on Notting [[Hill]]): it was nobler than the day; 
-  On the cities where the lights are and the firesides glow,
-  From the seas and from the deserts came the thing we did not know,
-  Came the darkness, came the darkness, came the darkness on the foe,
-  And the old guard of God turned to bay.  
-  For the old guard of God turns to bay, turns to bay,
-  And the [[Stars|stars]] fall down before it ere its banners fall to-day.
-  For when armies were around us as a howling and a horde, 
-  When falling was the citadel and broken was the [[Sword|sword]],
-  The darkness came upon them like the Dragon of the Lord,
-  When the old guard of God turned to bay."
+"When the world was in the balance, there was [[Night|night]] on Notting [[Hill]], 
+(There was [[Night|night]] on Notting [[Hill]]): it was nobler than the day; 
+On the cities where the lights are and the firesides glow,
+From the seas and from the deserts came the thing we did not know,
+Came the darkness, came the darkness, came the darkness on the foe,
+And the old guard of God turned to bay.  
+For the old guard of God turns to bay, turns to bay,
+And the [[Stars|stars]] fall down before it ere its banners fall to-day.
+For when armies were around us as a howling and a horde, 
+When falling was the citadel and broken was the [[Sword|sword]],
+The darkness came upon them like the Dragon of the Lord,
+When the old guard of God turned to bay."
 
 The voices were just uplifting themselves in a second verse,
 when they were stopped by a scurry and a yell.  Barker had bounded

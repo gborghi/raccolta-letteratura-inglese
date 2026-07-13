@@ -21,13 +21,13 @@ edition by David Price, email ccx074@pglaf.org
 
 
 
-                                THE CHIMES
-                              A Goblin Story
+THE CHIMES
+A Goblin Story
 
 
-                                    OF
-                   SOME [[Bells|BELLS]] THAT RANG AN OLD YEAR OUT
-                            AND A NEW YEAR IN
+OF
+SOME [[Bells|BELLS]] THAT RANG AN OLD YEAR OUT
+AND A NEW YEAR IN
 
 
 
@@ -1200,10 +1200,10 @@ with him.’
 [[Winter|winter]], when I introduced pinking and eyelet-holing among the men and
 boys in the village, as a nice evening employment, and had the lines,
 
-    O let us [[Love|love]] our occupations,
-    Bless the squire and his relations,
-    Live upon our daily rations,
-    And always know our proper stations,
+O let us [[Love|love]] our occupations,
+Bless the squire and his relations,
+Live upon our daily rations,
+And always know our proper stations,
 
 set to music on the new system, for them to sing the while; this very
 Fern—I see him now—touched that hat of his, and said, “I humbly ask your
@@ -3248,7 +3248,7 @@ dear, constant, steady friends, the Chimes, began to ring the joy-peals
 for a New Year: so lustily, so merrily, so happily, so gaily, that he
 leapt upon his feet, and broke the spell that bound him.
 
-                                * * * * *
+* * * * *
 
 ‘And whatever you do, father,’ said Meg, ‘don’t eat tripe again, without
 asking some doctor whether it’s likely to agree with you; for how you
@@ -3410,7 +3410,7 @@ Creator formed them to enjoy.
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_01" data-title="The Chimes — Chapter 1: First Quarter (part 1)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_01" data-title="The Chimes — Chapter 1: First Quarter (part 1)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 CHAPTER I—First Quarter.
@@ -3520,7 +3520,7 @@ world where ticket-porters are unknown.
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_02" data-title="The Chimes — Chapter 1: First Quarter (part 2)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_02" data-title="The Chimes — Chapter 1: First Quarter (part 2)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 But, windy weather, in spite of its using him so roughly, was, after all,
@@ -3627,7 +3627,7 @@ was fain to take an extra trot or two, afterwards, to cure it.
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_03" data-title="The Chimes — Chapter 1: First Quarter (part 3)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_03" data-title="The Chimes — Chapter 1: First Quarter (part 3)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 The very thing he was in the act of doing one cold day, when the last
@@ -3759,7 +3759,7 @@ little bit more of the cover.  Now guess!’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_04" data-title="The Chimes — Chapter 1: First Quarter (part 4)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_04" data-title="The Chimes — Chapter 1: First Quarter (part 4)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 Meg was in a perfect fright lest he should guess right too soon;
@@ -3895,7 +3895,7 @@ to bits.  I have had my dinner.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_05" data-title="The Chimes — Chapter 1: First Quarter (part 5)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_05" data-title="The Chimes — Chapter 1: First Quarter (part 5)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 ‘Nonsense,’ said Trotty.  ‘Two dinners in one day!  It an’t possible!
@@ -4017,7 +4017,7 @@ it here.  So!  This is your dinner, is it?’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_06" data-title="The Chimes — Chapter 1: First Quarter (part 6)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_06" data-title="The Chimes — Chapter 1: First Quarter (part 6)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 ‘Yes, sir,’ repeated Trotty, looking with a fixed eye and a watery mouth,
@@ -4138,7 +4138,7 @@ enough.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_07" data-title="The Chimes — Chapter 1: First Quarter (part 7)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_07" data-title="The Chimes — Chapter 1: First Quarter (part 7)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 He anxiously signed, therefore, to the young [[smith]], to take her away.
@@ -4269,7 +4269,7 @@ it?  Ha, ha! now we understand each other.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_08" data-title="The Chimes — Chapter 1: First Quarter (part 8)" data-chapter="Chapter 01 First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_08" data-title="The Chimes — Chapter 1: First Quarter (part 8)" data-chapter="First Quarter" data-kind="excerpt"></span>
 
 
 Toby knew not whether to be agonised or glad, to see that Meg had turned
@@ -4363,7 +4363,7 @@ fell, mechanically, into his usual trot, and trotted off.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_01" data-title="The Chimes — Chapter 2: The Second Quarter (part 1)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_01" data-title="The Chimes — Chapter 2: The Second Quarter (part 1)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 CHAPTER II—The Second Quarter.
@@ -4486,7 +4486,7 @@ great respect.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_02" data-title="The Chimes — Chapter 2: The Second Quarter (part 2)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_02" data-title="The Chimes — Chapter 2: The Second Quarter (part 2)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 Toby replied in the negative.
@@ -4613,7 +4613,7 @@ With that great sentiment, he opened the Alderman’s letter; and read it.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_03" data-title="The Chimes — Chapter 2: The Second Quarter (part 3)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_03" data-title="The Chimes — Chapter 2: The Second Quarter (part 3)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 ‘Very polite and attentive, I am sure!’ exclaimed Sir Joseph.  ‘My lady,
@@ -4638,10 +4638,10 @@ with him.’
 [[Winter|winter]], when I introduced pinking and eyelet-holing among the men and
 boys in the village, as a nice evening employment, and had the lines,
 
-    O let us [[Love|love]] our occupations,
-    Bless the squire and his relations,
-    Live upon our daily rations,
-    And always know our proper stations,
+O let us [[Love|love]] our occupations,
+Bless the squire and his relations,
+Live upon our daily rations,
+And always know our proper stations,
 
 set to music on the new system, for them to sing the while; this very
 Fern—I see him now—touched that hat of his, and said, “I humbly ask your
@@ -4743,7 +4743,7 @@ Fathers,’ to the burden they had rung out last.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_04" data-title="The Chimes — Chapter 2: The Second Quarter (part 4)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_04" data-title="The Chimes — Chapter 2: The Second Quarter (part 4)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 Toby discharged himself of his commission, therefore, with all possible
@@ -4867,7 +4867,7 @@ tell ’em off by hundreds and by thousands, sooner than by ones.’
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_05" data-title="The Chimes — Chapter 2: The Second Quarter (part 5)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_05" data-title="The Chimes — Chapter 2: The Second Quarter (part 5)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 Trotty knew he spoke the [[Truth]] in this, and shook his head to signify as
@@ -4986,7 +4986,7 @@ bonnet on the kettle, and hung the lid behind the door!’
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_06" data-title="The Chimes — Chapter 2: The Second Quarter (part 6)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_06" data-title="The Chimes — Chapter 2: The Second Quarter (part 6)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 ‘I didn’t go for to do it, my [[Love|love]],’ said Trotty, hastily repairing this
@@ -5100,7 +5100,7 @@ journal drop, and fell back in his chair, appalled!
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_07" data-title="The Chimes — Chapter 2: The Second Quarter (part 7)" data-chapter="Chapter 02 The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_07" data-title="The Chimes — Chapter 2: The Second Quarter (part 7)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
 
 
 ‘Unnatural and cruel!’ Toby cried.  ‘Unnatural and cruel!  None but
@@ -5230,7 +5230,7 @@ vacantly, and sunk down in a swoon.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_01" data-title="The Chimes — Chapter 3: Third Quarter (part 1)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_01" data-title="The Chimes — Chapter 3: Third Quarter (part 1)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 CHAPTER III—Third Quarter.
@@ -5346,7 +5346,7 @@ darksome and unwinking watch.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_02" data-title="The Chimes — Chapter 3: Third Quarter (part 2)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_02" data-title="The Chimes — Chapter 3: Third Quarter (part 2)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 A blast of air—how cold and shrill!—came moaning through the tower.  As
@@ -5488,7 +5488,7 @@ street; the [[Child|child]] whom Meg had watched, but now, asleep!
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_03" data-title="The Chimes — Chapter 3: Third Quarter (part 3)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_03" data-title="The Chimes — Chapter 3: Third Quarter (part 3)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 ‘I carried her myself, to-[[Night|night]],’ said Trotty.  ‘In these arms!’
@@ -5627,7 +5627,7 @@ emotion.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_04" data-title="The Chimes — Chapter 3: Third Quarter (part 4)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_04" data-title="The Chimes — Chapter 3: Third Quarter (part 4)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 But, there was more than this to happen.  Even more than this.  Sir
@@ -5751,7 +5751,7 @@ again, as fast as it could come.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_05" data-title="The Chimes — Chapter 3: Third Quarter (part 5)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_05" data-title="The Chimes — Chapter 3: Third Quarter (part 5)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 At its proper [[Time|time]], the Banquet was served up.  Trotty involuntarily
@@ -5869,7 +5869,7 @@ jail-bird known; and jail’s the only [[Home|home]] he’s got.’
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_06" data-title="The Chimes — Chapter 3: Third Quarter (part 6)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_06" data-title="The Chimes — Chapter 3: Third Quarter (part 6)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 The Alderman nodded sagaciously, as who should say, ‘A very good [[Home|home]]
@@ -5998,7 +5998,7 @@ I do?’
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_07" data-title="The Chimes — Chapter 3: Third Quarter (part 7)" data-chapter="Chapter 03 Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_07" data-title="The Chimes — Chapter 3: Third Quarter (part 7)" data-chapter="Third Quarter" data-kind="excerpt"></span>
 
 
 ‘You saw her!’ exclaimed Meg.  ‘You saw her!  O, Lilian, my sweet girl!
@@ -6105,7 +6105,7 @@ touched the old man with its hand, and beckoned him away.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_01" data-title="The Chimes — Chapter 4: Fourth Quarter (part 1)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_01" data-title="The Chimes — Chapter 4: Fourth Quarter (part 1)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 CHAPTER IV—Fourth Quarter.
@@ -6214,7 +6214,7 @@ yet unroasted parts, laughed as if somebody had tickled him.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_02" data-title="The Chimes — Chapter 4: Fourth Quarter (part 2)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_02" data-title="The Chimes — Chapter 4: Fourth Quarter (part 2)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 ‘You’re in spirits, Tugby, my dear,’ observed his wife.
@@ -6362,7 +6362,7 @@ truly for a man, than she for [[Richard]] when he first went wrong.’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_03" data-title="The Chimes — Chapter 4: Fourth Quarter (part 3)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_03" data-title="The Chimes — Chapter 4: Fourth Quarter (part 3)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 ‘Oh! he went wrong, did he?’ said the gentleman, pulling out the vent-peg
@@ -6490,7 +6490,7 @@ thanked, she loves it!’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_04" data-title="The Chimes — Chapter 4: Fourth Quarter (part 4)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_04" data-title="The Chimes — Chapter 4: Fourth Quarter (part 4)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 He saw the woman tend her in the [[Night|night]]; return to her when her grudging
@@ -6626,7 +6626,7 @@ criminal, whose claims allowed of no delay.  Here, too, she failed.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_05" data-title="The Chimes — Chapter 4: Fourth Quarter (part 5)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_05" data-title="The Chimes — Chapter 4: Fourth Quarter (part 5)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 She loved her [[Child|child]], and wished to have it lying on her breast.  And that
@@ -6761,7 +6761,7 @@ to her own, and dies herself, and perils her immortal [[Soul|soul]], to save it!
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_06" data-title="The Chimes — Chapter 4: Fourth Quarter (part 6)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_06" data-title="The Chimes — Chapter 4: Fourth Quarter (part 6)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 She was in his arms.  He held her now.  His strength was like a giant’s.
@@ -6782,7 +6782,7 @@ dear, constant, steady friends, the Chimes, began to ring the joy-peals
 for a New Year: so lustily, so merrily, so happily, so gaily, that he
 leapt upon his feet, and broke the spell that bound him.
 
-                                * * * * *
+* * * * *
 
 ‘And whatever you do, father,’ said Meg, ‘don’t eat tripe again, without
 asking some doctor whether it’s likely to agree with you; for how you
@@ -6890,7 +6890,7 @@ size, and closely followed by the marrow-bones and cleavers, and the
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_07" data-title="The Chimes — Chapter 4: Fourth Quarter (part 7)" data-chapter="Chapter 04 Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_07" data-title="The Chimes — Chapter 4: Fourth Quarter (part 7)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
 
 
 Trotty said, ‘It’s Mrs. Chickenstalker!’  And sat down and beat his knees

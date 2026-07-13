@@ -337,15 +337,15 @@ right to dispense with rhyme without being right to despise it.
 It is obvious that the peculiar dignity of his religious [[Epic|epic]] would
 have been weakened if it had been a rhymed [[Epic|epic]], beginning:--
 
-   Of man's first  disobedience and the fruit
-   Of that forbidden tree whose mortal root.
+Of man's first  disobedience and the fruit
+Of that forbidden tree whose mortal root.
 
 But it is equally obvious that [[Milton]] himself would not have tripped
 on the light fantastic toe with quite so much charm and cheerfulness
 in the lines:--
 
-   But come thou Goddess fair and free
-   In heaven yclept Euphrosyne
+But come thou Goddess fair and free
+In heaven yclept Euphrosyne
 
 if the goddess had been yclept something else, as, for the sake
 of argument, Syrinx.  [[Milton]] in his more reasonable moods
@@ -1935,10 +1935,10 @@ with magnificent memories, in [[history]], literature, and religion.
 Joan the Maid suggests a little more than Joan the maid-servant;
 and, as it says in Mr. Belloc's stirring little poem:--
 
-   By God who made the Master Maids,
-   I know not whence she came;
-   But the [[Sword|sword]] she bore to save the [[Soul|soul]]
-   Went up like an altar flame.
+By God who made the Master Maids,
+I know not whence she came;
+But the [[Sword|sword]] she bore to save the [[Soul|soul]]
+Went up like an altar flame.
 
 It is needless here to trace the idea back to its splendid sources;
 or to explain how the word maid has been the highest earthly title,
@@ -5666,8 +5666,8 @@ What is the exact [[Nature|nature]] of the pleasure which I, for one,
 take in reading and repeating some such lines, for instance,
 as those familiar ones:
 
-   Dying put on the weeds of Dominic
-   Or in Franciscan think to pass disguised.
+Dying put on the weeds of Dominic
+Or in Franciscan think to pass disguised.
 
 So far as I can see, the whole effect is in a certain unexpected
 order and arrangement of words, independent and distinguished,
@@ -5724,8 +5724,8 @@ it seems to me trivial and spiteful and even a little vulgar.
 After which impertinent criticism, I Will now repeat in a loud voice,
 and for the mere lust of saying it as often as possible:
 
-   Dying put on the weeds of Dominic
-   Or in Franciscan think to pass disguised.
+Dying put on the weeds of Dominic
+Or in Franciscan think to pass disguised.
 
 And the exuberant joy I take in it is the nearest thing I have ever
 known to art for art's sake.
@@ -6042,10 +6042,10 @@ And Goldsmith attacked the problem entirely from the popular side.
 Nobody can mistake his Toryism for a snobbish submission to a
 privilege or title:
 
-   Princes and lords, the [[Shadow|shadow]] of a shade,
-   A breath can make them, as a breath has made:
-   But a bold peasantry, a nation's [[Pride|pride]],
-   When once destroyed can never be supplied.
+Princes and lords, the [[Shadow|shadow]] of a shade,
+A breath can make them, as a breath has made:
+But a bold peasantry, a nation's [[Pride|pride]],
+When once destroyed can never be supplied.
 
 I [[Hope|hope]] he was wrong; but I sometimes have a horrible feeling
 that he may have been right.
@@ -6084,7 +6084,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_01" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 1)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_01" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 1)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 BOOK MANUFACTURERS
@@ -6213,7 +6213,7 @@ but the principle is the right one.
 BOOK MANUFACTURERS
 RAHWAY  NEW JERSEY
 
-    INDICE  
+INDICE  
 
 INTRODUZIONE
 IL [[Romance|ROMANZO]] DELLA RIMA
@@ -6259,7 +6259,7 @@ Non vi è in verità nulla di molto straordinario in queste visioni, se non le s
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_02" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 2)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_02" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 2)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But while these are frivolous essays, pretending only to touch
@@ -6398,7 +6398,7 @@ L'intera [[history|storia]] della cosa chiamata rima si può trovare fra queste 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_03" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 3)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_03" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 3)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But the application of this distinction here is to the case of rhyme
@@ -6469,15 +6469,15 @@ right to dispense with rhyme without being right to despise it.
 It is obvious that the peculiar dignity of his religious [[Epic|epic]] would
 have been weakened if it had been a rhymed [[Epic|epic]], beginning:--
 
-   Of man's first  disobedience and the fruit
-   Of that forbidden tree whose mortal root.
+Of man's first  disobedience and the fruit
+Of that forbidden tree whose mortal root.
 
 But it is equally obvious that [[Milton]] himself would not have tripped
 on the light fantastic toe with quite so much charm and cheerfulness
 in the lines:--
 
-   But come thou Goddess fair and free
-   In heaven yclept Euphrosyne
+But come thou Goddess fair and free
+In heaven yclept Euphrosyne
 
 if the goddess had been yclept something else, as, for the sake
 of argument, Syrinx.  [[Milton]] in his more reasonable moods
@@ -6563,13 +6563,13 @@ Ma qui l'applicazione di questa distinzione riguarda il caso della rima in poesi
 
 È in questo più profondo significato del ritorno che dobbiamo cercare il singolare potere insito in quella ricorrenza che chiamiamo rima. Sarebbe abbastanza facile replicare alle censure di [[Milton]] contro la rima nello spirito di una liberalità sensata ma superficiale, dicendo che ci vuole di tutto per fare un mondo, e specialmente il mondo dei poeti. È abbastanza evidente che [[Milton]] poté avere ragione a fare a meno della rima senza avere ragione a disprezzarla. È ovvio che la singolare dignità della sua [[Epic|epopea]] religiosa sarebbe stata indebolita se fosse stata un'[[Epic|epopea]] in rima, che cominciasse:--
 
-   Of man's first  disobedience and the fruit
-   Of that forbidden tree whose mortal root.
+Of man's first  disobedience and the fruit
+Of that forbidden tree whose mortal root.
 
 Ma è altrettanto ovvio che [[Milton]] stesso non avrebbe danzato sulla punta del piede leggero e fantastico con altrettanta grazia e allegria nei versi:--
 
-   But come thou Goddess fair and free
-   In heaven yclept Euphrosyne
+But come thou Goddess fair and free
+In heaven yclept Euphrosyne
 
 se la dea fosse stata chiamata altrimenti, poniamo, per amor di discussione, Siringa. [[Milton]], nei suoi momenti più ragionevoli, avrebbe concesso alla rima, in teoria, un posto in tutta la poesia, come glielo concesse in pratica nella propria. Ma avrebbe certamente detto, in questo [[Time|tempo]] e forse in ogni tempo, di concederle un posto inferiore, o almeno un posto secondario. Ma è davvero secondario il suo posto; ed è in qualche senso inferiore?
 
@@ -6577,7 +6577,7 @@ Il [[Romance|fascino romantico]] della rima non consiste soltanto nel piacere di
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_04" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 4)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_04" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 4)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 [[Milton]]'s revolt against rhyme must be read in the light of [[history]].
@@ -6695,7 +6695,7 @@ Tutto questo non fu che l'inizio di un processo che presenta due grandi punti d'
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_05" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 5)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_05" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 5)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 So far we might say that simple people do not like simple things.
@@ -6813,7 +6813,7 @@ Un buon critico dovrebbe essere come Dio nel grande detto di un mistico scozzese
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_06" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 6)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_06" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 6)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But the joke of it is that even when it is formless it is
@@ -6941,7 +6941,7 @@ Quando scesi a colazione, guardai il giornale del mattino; non (come voi suggeri
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_07" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 7)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_07" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 7)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Mr. J. D. Beresford practically asked himself whether he should become
@@ -7157,7 +7157,7 @@ mortificato soltanto da persone come gli psicoanalisti.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_08" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 8)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_08" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 8)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Mr. Beresford must therefore excuse me if, with a sincere [[Desire|desire]]
@@ -7372,7 +7372,7 @@ era una persona inconscia; ma una fin troppo conscia.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_09" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 9)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_09" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 9)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Strangely enough, this theory of sub-conscious repulsion in the dramatic
@@ -7570,7 +7570,7 @@ perdono. «Là non lo si noterà in lui; là gli uomini sono pazzi quanto lui».
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_10" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 10)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_10" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 10)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 It is therefore very natural that men should be trying to dissolve
@@ -7793,7 +7793,7 @@ Simone dovrebbe avere le sue torte, anche in assenza dei suoi soldi.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_11" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 11)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_11" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 11)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But the [[philosophy]] of the two Simple Simons is plain enough.
@@ -8015,7 +8015,7 @@ paiono provarlo per nulla.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_12" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 12)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_12" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 12)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But as my new idealistic instructor tells me to analyze, I will
@@ -8221,7 +8221,7 @@ orrenda, in maniera fredda e scientifica.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_13" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 13)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_13" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 13)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 It is not true, of course, that crime is a disease.
@@ -8363,7 +8363,7 @@ Comunque sia, l'incarico è quello; e io non sto qui sostenendo che non sia un i
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_14" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 14)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_14" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 14)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 I [[Wonder|wonder]] how many people are still duped by the story of
@@ -8522,7 +8522,7 @@ STAVO guardando alcuni ritagli di stampa che mi avevano inseguito fino a un remo
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_15" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 15)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_15" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 15)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 From the extracts I saw, it would seem that certain ladies were
@@ -8665,7 +8665,7 @@ LUNGHI elenchi vengono forniti di casi particolari in cui bambini hanno sofferto
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_16" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 16)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_16" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 16)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 I will give two examples from my own most personal circle; I could
@@ -8805,7 +8805,7 @@ Invece di vedere nei bizzarri casi della lingua della mucca o della pecora belan
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_17" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 17)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_17" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 17)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 --
@@ -8872,10 +8872,10 @@ with magnificent memories, in [[history]], literature, and religion.
 Joan the Maid suggests a little more than Joan the maid-servant;
 and, as it says in Mr. Belloc's stirring little poem:--
 
-   By God who made the Master Maids,
-   I know not whence she came;
-   But the [[Sword|sword]] she bore to save the [[Soul|soul]]
-   Went up like an altar flame.
+By God who made the Master Maids,
+I know not whence she came;
+But the [[Sword|sword]] she bore to save the [[Soul|soul]]
+Went up like an altar flame.
 
 It is needless here to trace the idea back to its splendid sources;
 or to explain how the word maid has been the highest earthly title,
@@ -8941,10 +8941,10 @@ FRA le innumerevoli cose fittizie che ho avuto la fortuna di non scrivere mai, v
 
 Così, per esempio, la signora in questione accozza insieme un certo numero di termini che non hanno alcun nesso logico fra loro. Vi è almeno un significato nell'obiettare che una persona ne chiami un'altra servitore. Come suggerirò tra un momento, non ha molto senso cambiare il nome quando non si cambia la cosa; e vi è un gran mucchio di sciocchezze nel negare lo statuto del servitore proprio nel momento in cui lo si rende più servile. Tuttavia, chiunque può vedere come il termine possa essere ritenuto lesivo della dignità umana; ma gli altri termini menzionati non possono affatto ledere la dignità umana. Non riesco a concepire perché dovrebbe insultare una cuoca il chiamarla cuoca, più di quanto insulti un cassiere il chiamarlo cassiere; per non parlare del fatto che aver a che fare con la cucina è assai più nobile che aver a che fare col contante. E il terzo titolo depone certamente tutto in senso contrario. La parola «cameriera» non è solo una nobile e antica parola inglese, priva di ogni nota di distinzione sociale; poiché un [[King|re]] medievale avrebbe potuto lodare sua figlia come «una buona cameriera». È una parola carica di magnifiche memorie, nella [[history|storia]], nella letteratura e nella religione. Giovanna la Pulzella suggerisce qualcosa di più di Giovanna la serva; e, come dice nella vigorosa poesiola del signor Belloc:—
 
-   Per Dio che fece le Somme Pulzelle,
-   non so donde ella venne;
-   ma la [[Sword|spada]] che portò a salvar l'[[Soul|anima]]
-   si levò come fiamma d'altare.
+Per Dio che fece le Somme Pulzelle,
+non so donde ella venne;
+ma la [[Sword|spada]] che portò a salvar l'[[Soul|anima]]
+si levò come fiamma d'altare.
 
 È qui superfluo risalire l'idea alle sue splendide sorgenti; o spiegare come la parola «pulzella» sia stata il più alto titolo terreno, non solo in terra ma in Cielo. «Madre e pulzella non fu mai nessuna se non lei.» Qui almeno la moderna critica umanitaria è andata curiosamente fuori strada, persino ai propri fini; qualsiasi servitrice può [[Well|ben]] essere soddisfatta della dignità di essere chiamata la cameriera, proprio come qualsiasi operaio può essere giustamente onorato dall'accidente che lo chiama l'uomo. Poiché in una moderna vertenza industriale, così come è riferita sui giornali, sento sempre che vi è un verdetto e una sentenza finale nella formulazione stessa del caso di Padroni _contro_ Uomini.
 
@@ -8952,7 +8952,7 @@ La vera obiezione risiede assai più a fondo. Comincia col semplice fatto che l'
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_18" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 18)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_18" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 18)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 For the rest, if anybody wants to strike the central stream of moderate
@@ -9080,7 +9080,7 @@ Ho sempre coltivato la fantasia che, se un uomo fosse davvero libero, parlerebbe
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_19" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 19)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_19" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 19)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But the [[Truth|truth]] behind all this is that expressed in that very ancient
@@ -9215,7 +9215,7 @@ Per esempio, il critico che qui mi arrischio a criticare dice che sul Proibizion
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_20" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 20)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_20" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 20)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 For my part I do feel very strongly about the frivolity and
@@ -9339,7 +9339,7 @@ Il signor Arnold Bennett ha scritto di recente una delle sue _causeries_ umorist
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_21" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 21)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_21" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 21)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Mr. Arnold Bennett does not darken the question with the dreary
@@ -9570,7 +9570,7 @@ sono quasi schiavi.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_22" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 22)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_22" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 22)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 For the heathen state is a Servile State.  And no one has
@@ -9696,7 +9696,7 @@ Si fa torto alle antiche regole classiche della critica artistica, perché non l
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_23" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 23)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_23" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 23)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 We might say that superior literature is centripetal, while inferior
@@ -9833,7 +9833,7 @@ and I fancy I can guess why.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_24" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 24)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_24" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 24)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 A pedantic logician may perhaps imagine that a thing can only be
@@ -10048,7 +10048,7 @@ dietro, l'immagine si ripete senza scopo e senza finalità.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_25" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 25)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_25" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 25)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 --
@@ -10251,7 +10251,7 @@ società. A tali livelli intellettuali può ritornare il mondo.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_26" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 26)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_26" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 26)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 There are indeed yet lower levels.  There is a story from [[America]]
@@ -10540,7 +10540,7 @@ parallelo porcino, o nell'associazione figurata di maiali e codini.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_27" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 27)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_27" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 27)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But, as a matter of fact, the argument is especially apt in the case
@@ -10788,7 +10788,7 @@ di grado.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_28" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 28)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_28" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 28)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Now there is a fault in every analogy; but the fault in my analogy is not
@@ -11008,7 +11008,7 @@ molto stupidi.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_29" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 29)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_29" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 29)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 --
@@ -11259,7 +11259,7 @@ da distruggere.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_30" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 30)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_30" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 30)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Free [[Love|love]] is the direct enemy of [[Freedom|freedom]].  It is the most obvious
@@ -11390,7 +11390,7 @@ Ora, è interessante chiederci che cosa il giornale intendesse davvero, quando f
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_31" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 31)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_31" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 31)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 In [[Truth|truth]], it would be much more practical to be more logical.
@@ -11533,7 +11533,7 @@ Miss May Sinclair scrisse un [[Novel|romanzo]] del genere che intendo, su una zi
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_32" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 32)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_32" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 32)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 It seems a little hard on the late Victorian idealist to be
@@ -11671,7 +11671,7 @@ UNA FRASE, che tutti abbiamo udito, viene talvolta pronunciata da qualche ometto
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_33" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 33)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_33" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 33)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 He is punished if his [[Home|home]] is neglected though there is nobody
@@ -11802,7 +11802,7 @@ Nondimeno questo semicosciente buffone che è lo zimbello della nostra società 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_34" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 34)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_34" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 34)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 In politics, of course, the case is the same.  I will defer
@@ -11924,7 +11924,7 @@ In realtà, sono gli uomini assai più delle donne ad aver avuto bisogno di una 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_35" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 35)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_35" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 35)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Just as civilization is guarded by potential war, so it is guarded
@@ -12044,7 +12044,7 @@ QUALSIASI delle strane leggi che patiamo è un compromesso tra un capriccio e un
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_36" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 36)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_36" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 36)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 What happens is something like this.  The line of least resistance
@@ -12179,7 +12179,7 @@ Ora l'unico modo in cui questa conclusiva spiegazione può essere confutata è m
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_37" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 37)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_37" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 37)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 It might be a good thing to give the control of drink to the State--
@@ -12323,7 +12323,7 @@ L'argomento particolare relativo alle donne non è il punto principale; ma in ve
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_38" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 38)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_38" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 38)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 But it does not matter to the main question whether anybody else
@@ -12447,7 +12447,7 @@ Ora, il «Mayflower» è un mito. È un esempio intensamente interessante di un 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_39" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 39)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_39" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 39)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 For at least the old fables are faults on the right side.
@@ -12571,7 +12571,7 @@ TUTTI gli uomini saggi converranno che la [[history|storia]] dovrebbe essere ins
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_40" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 40)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_40" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 40)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 He begins with a small but singular error, which itself shows
@@ -12700,7 +12700,7 @@ Tutto lo scopo della [[history|storia]] è ampliare l'esperienza mediante l'[[Im
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_41" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 41)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_41" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 41)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 I [[Fear|fear]] [[The Professor|the professor]] will not follow me into matters so disturbing
@@ -12843,7 +12843,7 @@ Ma l'ultimo esempio che ho fatto, quello della normalità degli abiti o della [[
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_42" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 42)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_42" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 42)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Now at the back of all this, of course, the real difference is religious.
@@ -12989,7 +12989,7 @@ Ma la mia ignoranza della musica si dà il caso mi soccorra con una comoda metaf
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_43" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 43)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_43" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 43)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 To explain what I mean I will take this parallel of the technique
@@ -13097,7 +13097,7 @@ C'è un'altra risposta che si dà spesso e che mi pare persino più illogica. Il
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_44" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 44)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_44" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 44)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 And I would respectfully ask these critics what would be thought of a
@@ -13321,7 +13321,7 @@ deve essere libero di coprire anch'egli ogni materia.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_45" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 45)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_45" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 45)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 For the idea of a non-parental substitute is simply an illusion
@@ -13615,7 +13615,7 @@ Quando guardi negli occhi il solitario valletto, vedi che la sua
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_46" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 46)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_46" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 46)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 In other words, you find yourself at the foot of a steep and staggering
@@ -13857,7 +13857,7 @@ ma forse siamo noi che dovremmo cominciare a pregare.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_47" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 47)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_47" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 47)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 In the current criticisms of the Strikes there is a particular tone,
@@ -14085,7 +14085,7 @@ Non lasciarti sbalordire da una metafora; non ci sono metafore nelle fiabe.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_48" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 48)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_48" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 48)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 --
@@ -14307,7 +14307,7 @@ tutti da biasimare.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_49" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 49)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_49" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 49)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 I am more and more convinced that what is wanted nowadays is not
@@ -14529,7 +14529,7 @@ cui si riferiva il signor Freeman.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_50" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 50)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_50" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 50)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 My first impulse to write, and almost my first impulse to think,
@@ -14593,8 +14593,8 @@ What is the exact [[Nature|nature]] of the pleasure which I, for one,
 take in reading and repeating some such lines, for instance,
 as those familiar ones:
 
-   Dying put on the weeds of Dominic
-   Or in Franciscan think to pass disguised.
+Dying put on the weeds of Dominic
+Or in Franciscan think to pass disguised.
 
 So far as I can see, the whole effect is in a certain unexpected
 order and arrangement of words, independent and distinguished,
@@ -14715,8 +14715,8 @@ Qual è l'esatta [[Nature|natura]] del piacere che io, per parte mia,
 provo nel leggere e ripetere alcuni versi siffatti, ad esempio,
 come quelli familiari:
 
-   Dying put on the weeds of Dominic
-   Or in Franciscan think to pass disguised.
+Dying put on the weeds of Dominic
+Or in Franciscan think to pass disguised.
 
 Per quanto posso vedere, l'intero effetto sta in un certo inaspettato
 ordine e disposizione di parole, indipendente e distinto,
@@ -14775,11 +14775,11 @@ e per il mero gusto di dirlo il più spesso possibile:
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_51" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 51)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_51" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 51)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
-   Dying put on the weeds of Dominic
-   Or in Franciscan think to pass disguised.
+Dying put on the weeds of Dominic
+Or in Franciscan think to pass disguised.
 
 And the exuberant joy I take in it is the nearest thing I have ever
 known to art for art's sake.
@@ -14878,7 +14878,7 @@ the shining fields of a Paradise that is not wholly lost.
 <span class="qlang-split" data-lang="it"></span>
 
 Dying put on the weeds of Dominic
-   Or in Franciscan think to pass disguised.
+Or in Franciscan think to pass disguised.
 
 E la gioia esuberante che ne traggo è la cosa più vicina che io abbia mai
 conosciuto all'arte per l'arte.
@@ -14975,7 +14975,7 @@ i campi splendenti di un Paradiso che non è del tutto perduto.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_52" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 52)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_52" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 52)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 Of such was the [[anti-puritan|anti-Puritan]] party; and the reader may learn
@@ -15195,7 +15195,7 @@ o libri come i «Gulliver's Travels».
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_53" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 53)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_53" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 53)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 I will take only one example of what I mean by this purely
@@ -15409,7 +15409,7 @@ unico — [[Oliver]] Goldsmith.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_54" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 54)" data-chapter="Chapter 01 MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_54" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 54)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
 
 
 I [[Hope|hope]] that the author of an admirable study of Mr. Belloc
@@ -15425,10 +15425,10 @@ And Goldsmith attacked the problem entirely from the popular side.
 Nobody can mistake his Toryism for a snobbish submission to a
 privilege or title:
 
-   Princes and lords, the [[Shadow|shadow]] of a shade,
-   A breath can make them, as a breath has made:
-   But a bold peasantry, a nation's [[Pride|pride]],
-   When once destroyed can never be supplied.
+Princes and lords, the [[Shadow|shadow]] of a shade,
+A breath can make them, as a breath has made:
+But a bold peasantry, a nation's [[Pride|pride]],
+When once destroyed can never be supplied.
 
 I [[Hope|hope]] he was wrong; but I sometimes have a horrible feeling
 that he may have been right.
@@ -15480,10 +15480,10 @@ E Goldsmith affrontò il problema interamente dal lato popolare.
 Nessuno può scambiare il suo torysmo per una snobistica sottomissione a un
 privilegio o a un titolo:
 
-   Principi e signori, l'[[Shadow|ombra]] di un'ombra,
-   un soffio può crearli, come un soffio li ha creati:
-   ma un ardito contadinato, l'[[Pride|orgoglio]] di una nazione,
-   una volta distrutto non potrà mai più esser rimpiazzato.
+Principi e signori, l'[[Shadow|ombra]] di un'ombra,
+un soffio può crearli, come un soffio li ha creati:
+ma un ardito contadinato, l'[[Pride|orgoglio]] di una nazione,
+una volta distrutto non potrà mai più esser rimpiazzato.
 
 [[Hope|Spero]] che avesse torto; ma talvolta ho l'orribile sensazione
 che possa aver avuto ragione.

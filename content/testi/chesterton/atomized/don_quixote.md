@@ -47,23 +47,23 @@ Yours always, G. K. CHESTERTON
 CONTENTS
 
 CHAPTER
-    I  A HOLE IN THE CASTE
-   II  A DANGEROUS MAN
-  III  THE LADDER IN THE LIBRARY
-   IV  THE FIRST TRIAL OF JOHN BRAINTREE
-    V  THE SECOND TRIAL OF JOHN BRAINTREE
-   VI  A COMMISSION AS COLOURMAN
-  VII  "BLONDEL THE TROUBADOUR"
- VIII  THE MISADVENTURES OF MONKEY
-   IX  THE MYSTERY OF A HANSOM CAB
-    X  WHEN DOCTORS DISAGREE
-   XI  THE LUNACY OF THE LIBRARIAN
-  XII  THE STATESMAN AND THE [[Summer|SUMMER]]-[[house|HOUSE]]
- XIII  THE VICTORIAN AND THE ARROW
-  XIV  THE RETURN OF THE KNIGHT-ERRANT
-   XV  THE PARTING OF THE WAYS
-  XVI  THE JUDGMENT OF THE [[King|KING]]
- XVII  THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
+I  A HOLE IN THE CASTE
+II  A DANGEROUS MAN
+III  THE LADDER IN THE LIBRARY
+IV  THE FIRST TRIAL OF JOHN BRAINTREE
+V  THE SECOND TRIAL OF JOHN BRAINTREE
+VI  A COMMISSION AS COLOURMAN
+VII  "BLONDEL THE TROUBADOUR"
+VIII  THE MISADVENTURES OF MONKEY
+IX  THE MYSTERY OF A HANSOM CAB
+X  WHEN DOCTORS DISAGREE
+XI  THE LUNACY OF THE LIBRARIAN
+XII  THE STATESMAN AND THE [[Summer|SUMMER]]-[[house|HOUSE]]
+XIII  THE VICTORIAN AND THE ARROW
+XIV  THE RETURN OF THE KNIGHT-ERRANT
+XV  THE PARTING OF THE WAYS
+XVI  THE JUDGMENT OF THE [[King|KING]]
+XVII  THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
 XVIII THE SECRET OF SEAWOOD XIX THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 -^-
@@ -4212,19 +4212,19 @@ as an outlaw, refused the offer of his own [[Crown|crown]] and declared
 that in a world of wicked princes he preferred the wandering life
 of the woods.
 
-  Shall I who sing with the high tree-tops at morning
-  Sink to be Austria; even as is that brute
-  And brigand that entrapped me, or be made
-  A slave, a spy, a cheat, a [[King of France]]?
-  And what crowns other [[Shadow|shadow]] this the earth?
-  The evil kings sit easy on their thrones
-  Shame healed with habit; but what panic aloft
-  What wild white terror if a [[King|king]] were good!
-  What staggering of the [[Stars|stars]]; what prodigy.
-  Men easily endure an unjust master
-  But a just master no man will endure
-  His nobles shall rise up, his knights betray him
-  And he go forth, as I go forth, [[Alone|alone]].
+Shall I who sing with the high tree-tops at morning
+Sink to be Austria; even as is that brute
+And brigand that entrapped me, or be made
+A slave, a spy, a cheat, a [[King of France]]?
+And what crowns other [[Shadow|shadow]] this the earth?
+The evil kings sit easy on their thrones
+Shame healed with habit; but what panic aloft
+What wild white terror if a [[King|king]] were good!
+What staggering of the [[Stars|stars]]; what prodigy.
+Men easily endure an unjust master
+But a just master no man will endure
+His nobles shall rise up, his knights betray him
+And he go forth, as I go forth, [[Alone|alone]].
 
 A [[Shadow|shadow]] fell across her upon the grass; and preoccupied
 as she was she seemed to know even the shape of the [[Shadow|shadow]].
@@ -7337,14 +7337,14 @@ And how very like what we are living now."  His voice did
 not change but seemed to roll on more rapidly, as if verse
 were more natural than prose.
 
-  "The evil kings sit easy on their thrones
-   Shame healed with habit; but what panic aloft
-   What wild white terror if a [[King|king]] were good
-   What staggering of the [[Stars|stars]]; what prodigy!
-   Men easily endure an unjust master
-   But a just master no men will endure
-   His nobles shall rise up, his knights betray him,
-   And he go forth, as I go forth, [[Alone|alone]]."
+"The evil kings sit easy on their thrones
+Shame healed with habit; but what panic aloft
+What wild white terror if a [[King|king]] were good
+What staggering of the [[Stars|stars]]; what prodigy!
+Men easily endure an unjust master
+But a just master no men will endure
+His nobles shall rise up, his knights betray him,
+And he go forth, as I go forth, [[Alone|alone]]."
 
 He stood down suddenly from the dais; and seemed to look taller
 for the fall.
@@ -8113,23 +8113,23 @@ END
 
 
 CHAPTER
-    I  A HOLE IN THE CASTE
-   II  A DANGEROUS MAN
-  III  THE LADDER IN THE LIBRARY
-   IV  THE FIRST TRIAL OF JOHN BRAINTREE
-    V  THE SECOND TRIAL OF JOHN BRAINTREE
-   VI  A COMMISSION AS COLOURMAN
-  VII  "BLONDEL THE TROUBADOUR"
- VIII  THE MISADVENTURES OF MONKEY
-   IX  THE MYSTERY OF A HANSOM CAB
-    X  WHEN DOCTORS DISAGREE
-   XI  THE LUNACY OF THE LIBRARIAN
-  XII  THE STATESMAN AND THE [[Summer|SUMMER]]-[[house|HOUSE]]
- XIII  THE VICTORIAN AND THE ARROW
-  XIV  THE RETURN OF THE KNIGHT-ERRANT
-   XV  THE PARTING OF THE WAYS
-  XVI  THE JUDGMENT OF THE [[King|KING]]
- XVII  THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
+I  A HOLE IN THE CASTE
+II  A DANGEROUS MAN
+III  THE LADDER IN THE LIBRARY
+IV  THE FIRST TRIAL OF JOHN BRAINTREE
+V  THE SECOND TRIAL OF JOHN BRAINTREE
+VI  A COMMISSION AS COLOURMAN
+VII  "BLONDEL THE TROUBADOUR"
+VIII  THE MISADVENTURES OF MONKEY
+IX  THE MYSTERY OF A HANSOM CAB
+X  WHEN DOCTORS DISAGREE
+XI  THE LUNACY OF THE LIBRARIAN
+XII  THE STATESMAN AND THE [[Summer|SUMMER]]-[[house|HOUSE]]
+XIII  THE VICTORIAN AND THE ARROW
+XIV  THE RETURN OF THE KNIGHT-ERRANT
+XV  THE PARTING OF THE WAYS
+XVI  THE JUDGMENT OF THE [[King|KING]]
+XVII  THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
 XVIII THE SECRET OF SEAWOOD XIX THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 -^-
@@ -8142,23 +8142,23 @@ THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 <span class="qlang-split" data-lang="it"></span>
 
 CAPITOLO
-    I  UNA FALLA NELLA CASTA
-   II  UN UOMO PERICOLOSO
-  III  LA SCALA NELLA BIBLIOTECA
-   IV  IL PRIMO PROCESSO DI JOHN BRAINTREE
-    V  IL SECONDO PROCESSO DI JOHN BRAINTREE
-   VI  UN INCARICO DA COLORISTA
-  VII  «BLONDEL IL TROVATORE»
- VIII  LE DISAVVENTURE DI MONKEY
-   IX  IL MISTERO DI UNA CARROZZA
-    X  QUANDO I DOTTORI NON CONCORDANO
-   XI  LA FOLLIA DEL BIBLIOTECARIO
-  XII  L'UOMO DI STATO E IL [[house|PADIGLIONE]] [[Summer|ESTIVO]]
- XIII  IL VITTORIANO E LA FRECCIA
-  XIV  IL RITORNO DEL CAVALIERE ERRANTE
-   XV  LA SEPARAZIONE DELLE STRADE
-  XVI  IL GIUDIZIO DEL [[King|RE]]
- XVII  LA PARTENZA DI [[Don Quixote|DON QUIXOTE]]
+I  UNA FALLA NELLA CASTA
+II  UN UOMO PERICOLOSO
+III  LA SCALA NELLA BIBLIOTECA
+IV  IL PRIMO PROCESSO DI JOHN BRAINTREE
+V  IL SECONDO PROCESSO DI JOHN BRAINTREE
+VI  UN INCARICO DA COLORISTA
+VII  «BLONDEL IL TROVATORE»
+VIII  LE DISAVVENTURE DI MONKEY
+IX  IL MISTERO DI UNA CARROZZA
+X  QUANDO I DOTTORI NON CONCORDANO
+XI  LA FOLLIA DEL BIBLIOTECARIO
+XII  L'UOMO DI STATO E IL [[house|PADIGLIONE]] [[Summer|ESTIVO]]
+XIII  IL VITTORIANO E LA FRECCIA
+XIV  IL RITORNO DEL CAVALIERE ERRANTE
+XV  LA SEPARAZIONE DELLE STRADE
+XVI  IL GIUDIZIO DEL [[King|RE]]
+XVII  LA PARTENZA DI [[Don Quixote|DON QUIXOTE]]
 XVIII IL SEGRETO DI SEAWOOD XIX IL RITORNO DI [[Don Quixote|DON QUIXOTE]]
 
 -^-
@@ -14668,19 +14668,19 @@ as an outlaw, refused the offer of his own [[Crown|crown]] and declared
 that in a world of wicked princes he preferred the wandering life
 of the woods.
 
-  Shall I who sing with the high tree-tops at morning
-  Sink to be Austria; even as is that brute
-  And brigand that entrapped me, or be made
-  A slave, a spy, a cheat, a [[King of France]]?
-  And what crowns other [[Shadow|shadow]] this the earth?
-  The evil kings sit easy on their thrones
-  Shame healed with habit; but what panic aloft
-  What wild white terror if a [[King|king]] were good!
-  What staggering of the [[Stars|stars]]; what prodigy.
-  Men easily endure an unjust master
-  But a just master no man will endure
-  His nobles shall rise up, his knights betray him
-  And he go forth, as I go forth, [[Alone|alone]].
+Shall I who sing with the high tree-tops at morning
+Sink to be Austria; even as is that brute
+And brigand that entrapped me, or be made
+A slave, a spy, a cheat, a [[King of France]]?
+And what crowns other [[Shadow|shadow]] this the earth?
+The evil kings sit easy on their thrones
+Shame healed with habit; but what panic aloft
+What wild white terror if a [[King|king]] were good!
+What staggering of the [[Stars|stars]]; what prodigy.
+Men easily endure an unjust master
+But a just master no man will endure
+His nobles shall rise up, his knights betray him
+And he go forth, as I go forth, [[Alone|alone]].
 
 A [[Shadow|shadow]] fell across her upon the grass; and preoccupied
 as she was she seemed to know even the shape of the [[Shadow|shadow]].
@@ -14761,19 +14761,19 @@ Rimase così, immobile, per un istante; poi, mentre Archer sfrecciava di nuovo v
 
 Un'altra persona rimase come stordita dal pensiero, benché la rappresentazione fosse finita da tempo. Ed era l'autrice della commedia; la quale non aveva affatto la sensazione di averla scritta. Olive Ashley si sentiva come se avesse soltanto acceso un fiammifero a mezzanotte, e questo fosse divampato e si fosse allargato negli sovrumani splendori del sole di mezzanotte. Si sentiva come se avesse dipinto uno dei suoi angeli d'oro e di porpora e il volto dipinto avesse parlato, e avesse detto cose terribili. Poiché quell'eccentrico bibliotecario, tramutato per un'ora in un [[King|re]] da pantomima, poteva essere posseduto da un demonio. Solo che il demonio somigliava un poco all'angelo d'oro e di porpora. Qualcosa pareva sgorgare da lui che nessuno aveva mai pensato fosse in lui; e che la poetessa non poteva vantarsi di avervi messo. Le parve che egli abbracciasse e valicasse con un solo passo tutti gli abissi e tutte le vette note alla segreta [[Humility|umiltà]] dell'[[Artist|artista]]. Non le pareva di udire i versi che aveva scritto. Suonavano come i versi che le sarebbe piaciuto aver scritto. Provava non solo eccitazione, ma attesa. Poiché egli aveva il potere di far sembrare ogni verso più grande del precedente; eppure non erano che i suoi versi discretamente passabili. Il momento che ardeva nella sua [[Memory|memoria]], e in quella di molti ben meno sensibili, fu quello in cui il [[King|Re]], catturato come fuorilegge, rifiutò l'offerta della propria [[Crown|corona]] e dichiarò che, in un mondo di principi malvagi, preferiva la vita errante dei boschi.
 
-  Io che canto in cima agli alti alberi al mattino
-  dovrò calare a farmi Austria; come quel bruto
-  e brigante che m'ha irretito, o esser fatto
-  schiavo, spia, baro, un [[King of France|Re di Francia]]?
-  E quale altra [[Shadow|ombra]] di corona incombe su questa terra?
-  I re malvagi siedon comodi sui loro troni,
-  la vergogna sanata dall'abitudine; ma qual panico lassù,
-  qual selvaggio bianco terrore se un [[King|re]] fosse buono!
-  Qual vacillare delle [[Stars|stelle]]; qual prodigio.
-  Gli uomini sopportano facilmente un padrone ingiusto,
-  ma un padrone giusto nessuno lo sopporterà;
-  i suoi nobili insorgeranno, i suoi cavalieri lo tradiranno,
-  ed egli se ne andrà, come me ne vado io, [[Alone|solo]].
+Io che canto in cima agli alti alberi al mattino
+dovrò calare a farmi Austria; come quel bruto
+e brigante che m'ha irretito, o esser fatto
+schiavo, spia, baro, un [[King of France|Re di Francia]]?
+E quale altra [[Shadow|ombra]] di corona incombe su questa terra?
+I re malvagi siedon comodi sui loro troni,
+la vergogna sanata dall'abitudine; ma qual panico lassù,
+qual selvaggio bianco terrore se un [[King|re]] fosse buono!
+Qual vacillare delle [[Stars|stelle]]; qual prodigio.
+Gli uomini sopportano facilmente un padrone ingiusto,
+ma un padrone giusto nessuno lo sopporterà;
+i suoi nobili insorgeranno, i suoi cavalieri lo tradiranno,
+ed egli se ne andrà, come me ne vado io, [[Alone|solo]].
 
 Un'[[Shadow|ombra]] cadde su di lei sull'erba; e, per quanto assorta, le parve di riconoscere persino la forma di quell'[[Shadow|ombra]]. Braintree, rivestito e tornato in senno (che alcuni consideravano un senno assai malato), l'aveva raggiunta nel [[Garden|giardino]].
 
@@ -20427,14 +20427,14 @@ And how very like what we are living now."  His voice did
 not change but seemed to roll on more rapidly, as if verse
 were more natural than prose.
 
-  "The evil kings sit easy on their thrones
-   Shame healed with habit; but what panic aloft
-   What wild white terror if a [[King|king]] were good
-   What staggering of the [[Stars|stars]]; what prodigy!
-   Men easily endure an unjust master
-   But a just master no men will endure
-   His nobles shall rise up, his knights betray him,
-   And he go forth, as I go forth, [[Alone|alone]]."
+"The evil kings sit easy on their thrones
+Shame healed with habit; but what panic aloft
+What wild white terror if a [[King|king]] were good
+What staggering of the [[Stars|stars]]; what prodigy!
+Men easily endure an unjust master
+But a just master no men will endure
+His nobles shall rise up, his knights betray him,
+And he go forth, as I go forth, [[Alone|alone]]."
 
 He stood down suddenly from the dais; and seemed to look taller
 for the fall.
@@ -20573,14 +20573,14 @@ Uno strano sorriso passò sul volto pallido del giudice.
 
 «Là», disse, «vi sbagliate singolarmente. Non sono sempre stato un commediante; ero una persona assai umile e monotona finché voi non mi avete voluto e mi avete fatto commediante. Ma ho scoperto che la commedia che recitavate era qualcosa di molto più reale della vita che conducevate. Le rime che pronunciammo nella recita su quel prato erano tanto più simili alla vita di qualsiasi vita che allora conducevate. E quanto simili a ciò che viviamo ora.» La sua voce non mutò, ma parve scorrere più rapidamente, come se il verso fosse più naturale della prosa.
 
-  «I re malvagi seggon comodi sui loro troni,
-   la vergogna sanata dall'abitudine; ma qual panico in alto,
-   qual bianco terrore selvaggio se un [[King|re]] fosse buono,
-   qual vacillar delle [[Stars|stelle]]; qual prodigio!
-   Gli uomini sopportano facilmente un padrone ingiusto,
-   ma un padrone giusto nessuno lo sopporterà;
-   i suoi nobili insorgeranno, i suoi cavalieri lo tradiranno,
-   ed egli andrà, come io vado, [[Alone|solo]].»
+«I re malvagi seggon comodi sui loro troni,
+la vergogna sanata dall'abitudine; ma qual panico in alto,
+qual bianco terrore selvaggio se un [[King|re]] fosse buono,
+qual vacillar delle [[Stars|stelle]]; qual prodigio!
+Gli uomini sopportano facilmente un padrone ingiusto,
+ma un padrone giusto nessuno lo sopporterà;
+i suoi nobili insorgeranno, i suoi cavalieri lo tradiranno,
+ed egli andrà, come io vado, [[Alone|solo]].»
 
 Scese d'un tratto dalla pedana; e parve più alto per la discesa.
 

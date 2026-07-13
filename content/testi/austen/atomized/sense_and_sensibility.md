@@ -42,105 +42,105 @@ Contents
 
 
 
- CHAPTER I
+CHAPTER I
 
- CHAPTER II
+CHAPTER II
 
- CHAPTER III
+CHAPTER III
 
- CHAPTER IV
+CHAPTER IV
 
- CHAPTER V
+CHAPTER V
 
- CHAPTER VI
+CHAPTER VI
 
- CHAPTER VII
+CHAPTER VII
 
- CHAPTER VIII
+CHAPTER VIII
 
- CHAPTER IX
+CHAPTER IX
 
- CHAPTER X
+CHAPTER X
 
- CHAPTER XI
+CHAPTER XI
 
- CHAPTER XII
+CHAPTER XII
 
- CHAPTER XIII
+CHAPTER XIII
 
- CHAPTER XIV
+CHAPTER XIV
 
- CHAPTER XV
+CHAPTER XV
 
- CHAPTER XVI
+CHAPTER XVI
 
- CHAPTER XVII
+CHAPTER XVII
 
- CHAPTER XVIII
+CHAPTER XVIII
 
- CHAPTER XIX
+CHAPTER XIX
 
- CHAPTER XX
+CHAPTER XX
 
- CHAPTER XXI
+CHAPTER XXI
 
- CHAPTER XXII
+CHAPTER XXII
 
- CHAPTER XXIII
+CHAPTER XXIII
 
- CHAPTER XXIV
+CHAPTER XXIV
 
- CHAPTER XXV
+CHAPTER XXV
 
- CHAPTER XXVI
+CHAPTER XXVI
 
- CHAPTER XXVII
+CHAPTER XXVII
 
- CHAPTER XXVIII
+CHAPTER XXVIII
 
- CHAPTER XXIX
+CHAPTER XXIX
 
- CHAPTER XXX
+CHAPTER XXX
 
- CHAPTER XXXI
+CHAPTER XXXI
 
- CHAPTER XXXII
+CHAPTER XXXII
 
- CHAPTER XXXIII
+CHAPTER XXXIII
 
- CHAPTER XXXIV
+CHAPTER XXXIV
 
- CHAPTER XXXV
+CHAPTER XXXV
 
- CHAPTER XXXVI
+CHAPTER XXXVI
 
- CHAPTER XXXVII
+CHAPTER XXXVII
 
- CHAPTER XXXVIII
+CHAPTER XXXVIII
 
- CHAPTER XXXIX
+CHAPTER XXXIX
 
- CHAPTER XL
+CHAPTER XL
 
- CHAPTER XLI
+CHAPTER XLI
 
- CHAPTER XLII
+CHAPTER XLII
 
- CHAPTER XLIII
+CHAPTER XLIII
 
- CHAPTER XLIV
+CHAPTER XLIV
 
- CHAPTER XLV
+CHAPTER XLV
 
- CHAPTER XLVI
+CHAPTER XLVI
 
- CHAPTER XLVII
+CHAPTER XLVII
 
- CHAPTER XLVIII
+CHAPTER XLVIII
 
- CHAPTER XLIX
+CHAPTER XLIX
 
- CHAPTER L
+CHAPTER L
 
 
 
@@ -12074,53 +12074,53 @@ follows:
 
 
 
-                                    “Bond Street, January.
+“Bond Street, January.
 
 
 
 
 
-        MY DEAR MADAM,
+MY DEAR MADAM,
 
-    “I have just had the [[Honour|honour]] of receiving your letter, for which I
+“I have just had the [[Honour|honour]] of receiving your letter, for which I
 
-    beg to return my sincere acknowledgments. I am much concerned to
+beg to return my sincere acknowledgments. I am much concerned to
 
-    find there was anything in my behaviour last [[Night|night]] that did not
+find there was anything in my behaviour last [[Night|night]] that did not
 
-    meet your approbation; and though I am quite at a loss to discover
+meet your approbation; and though I am quite at a loss to discover
 
-    in what point I could be so unfortunate as to offend you, I entreat
+in what point I could be so unfortunate as to offend you, I entreat
 
-    your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
+your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
 
-    unintentional. I shall never reflect on my former acquaintance with
+unintentional. I shall never reflect on my former acquaintance with
 
-    your family in Devonshire without the most grateful pleasure, and
+your family in Devonshire without the most grateful pleasure, and
 
-    flatter myself it will not be broken by any mistake or
+flatter myself it will not be broken by any mistake or
 
-    misapprehension of my actions. My esteem for your whole family is
+misapprehension of my actions. My esteem for your whole family is
 
-    very sincere; but if I have been so unfortunate as to give rise to
+very sincere; but if I have been so unfortunate as to give rise to
 
-    a belief of more than I felt, or meant to express, I shall reproach
+a belief of more than I felt, or meant to express, I shall reproach
 
-    myself for not having been more guarded in my professions of that
+myself for not having been more guarded in my professions of that
 
-    esteem. That I should ever have meant more you will allow to be
+esteem. That I should ever have meant more you will allow to be
 
-    impossible, when you understand that my affections have been long
+impossible, when you understand that my affections have been long
 
-    engaged elsewhere, and it will not be many weeks, I believe, before
+engaged elsewhere, and it will not be many weeks, I believe, before
 
-    this engagement is fulfilled. It is with great regret that I obey
+this engagement is fulfilled. It is with great regret that I obey
 
-    your commands in returning the letters with which I have been
+your commands in returning the letters with which I have been
 
-    honoured from you, and the lock of hair, which you so obligingly
+honoured from you, and the lock of hair, which you so obligingly
 
-    bestowed on me.
+bestowed on me.
 
 
 
@@ -24316,31 +24316,31 @@ letter into Elinor’s hands.
 
 “DEAR SIR,
 
-    “Being very sure I have long lost your affections, I have thought
+“Being very sure I have long lost your affections, I have thought
 
-    myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
+myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
 
-    being as happy with him as I once used to think I might be with
+being as happy with him as I once used to think I might be with
 
-    you; but I scorn to accept a hand while the heart was another’s.
+you; but I scorn to accept a hand while the heart was another’s.
 
-    Sincerely wish you happy in your choice, and it shall not be my
+Sincerely wish you happy in your choice, and it shall not be my
 
-    fault if we are not always good friends, as our near relationship
+fault if we are not always good friends, as our near relationship
 
-    now makes proper. I can safely say I owe you no ill-will, and am
+now makes proper. I can safely say I owe you no ill-will, and am
 
-    sure you will be too generous to do us any ill offices. Your
+sure you will be too generous to do us any ill offices. Your
 
-    brother has gained my affections entirely, and as we could not live
+brother has gained my affections entirely, and as we could not live
 
-    without one another, we are just returned from the altar, and are
+without one another, we are just returned from the altar, and are
 
-    now on our way to Dawlish for a few weeks, which place your dear
+now on our way to Dawlish for a few weeks, which place your dear
 
-    brother has great curiosity to see, but thought I would first
+brother has great curiosity to see, but thought I would first
 
-    trouble you with these few lines, and shall always remain,
+trouble you with these few lines, and shall always remain,
 
 
 
@@ -38390,53 +38390,53 @@ follows:
 
 
 
-                                    “Bond Street, January.
+“Bond Street, January.
 
 
 
 
 
-        MY DEAR MADAM,
+MY DEAR MADAM,
 
-    “I have just had the [[Honour|honour]] of receiving your letter, for which I
+“I have just had the [[Honour|honour]] of receiving your letter, for which I
 
-    beg to return my sincere acknowledgments. I am much concerned to
+beg to return my sincere acknowledgments. I am much concerned to
 
-    find there was anything in my behaviour last [[Night|night]] that did not
+find there was anything in my behaviour last [[Night|night]] that did not
 
-    meet your approbation; and though I am quite at a loss to discover
+meet your approbation; and though I am quite at a loss to discover
 
-    in what point I could be so unfortunate as to offend you, I entreat
+in what point I could be so unfortunate as to offend you, I entreat
 
-    your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
+your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
 
-    unintentional. I shall never reflect on my former acquaintance with
+unintentional. I shall never reflect on my former acquaintance with
 
-    your family in Devonshire without the most grateful pleasure, and
+your family in Devonshire without the most grateful pleasure, and
 
-    flatter myself it will not be broken by any mistake or
+flatter myself it will not be broken by any mistake or
 
-    misapprehension of my actions. My esteem for your whole family is
+misapprehension of my actions. My esteem for your whole family is
 
-    very sincere; but if I have been so unfortunate as to give rise to
+very sincere; but if I have been so unfortunate as to give rise to
 
-    a belief of more than I felt, or meant to express, I shall reproach
+a belief of more than I felt, or meant to express, I shall reproach
 
-    myself for not having been more guarded in my professions of that
+myself for not having been more guarded in my professions of that
 
-    esteem. That I should ever have meant more you will allow to be
+esteem. That I should ever have meant more you will allow to be
 
-    impossible, when you understand that my affections have been long
+impossible, when you understand that my affections have been long
 
-    engaged elsewhere, and it will not be many weeks, I believe, before
+engaged elsewhere, and it will not be many weeks, I believe, before
 
-    this engagement is fulfilled. It is with great regret that I obey
+this engagement is fulfilled. It is with great regret that I obey
 
-    your commands in returning the letters with which I have been
+your commands in returning the letters with which I have been
 
-    honoured from you, and the lock of hair, which you so obligingly
+honoured from you, and the lock of hair, which you so obligingly
 
-    bestowed on me.
+bestowed on me.
 
 
 
@@ -49746,31 +49746,31 @@ letter into Elinor’s hands.
 
 “DEAR SIR,
 
-    “Being very sure I have long lost your affections, I have thought
+“Being very sure I have long lost your affections, I have thought
 
-    myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
+myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
 
-    being as happy with him as I once used to think I might be with
+being as happy with him as I once used to think I might be with
 
-    you; but I scorn to accept a hand while the heart was another’s.
+you; but I scorn to accept a hand while the heart was another’s.
 
-    Sincerely wish you happy in your choice, and it shall not be my
+Sincerely wish you happy in your choice, and it shall not be my
 
-    fault if we are not always good friends, as our near relationship
+fault if we are not always good friends, as our near relationship
 
-    now makes proper. I can safely say I owe you no ill-will, and am
+now makes proper. I can safely say I owe you no ill-will, and am
 
-    sure you will be too generous to do us any ill offices. Your
+sure you will be too generous to do us any ill offices. Your
 
-    brother has gained my affections entirely, and as we could not live
+brother has gained my affections entirely, and as we could not live
 
-    without one another, we are just returned from the altar, and are
+without one another, we are just returned from the altar, and are
 
-    now on our way to Dawlish for a few weeks, which place your dear
+now on our way to Dawlish for a few weeks, which place your dear
 
-    brother has great curiosity to see, but thought I would first
+brother has great curiosity to see, but thought I would first
 
-    trouble you with these few lines, and shall always remain,
+trouble you with these few lines, and shall always remain,
 
 
 

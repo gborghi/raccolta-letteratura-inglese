@@ -12041,7 +12041,7 @@ Four Faultless Felons by G.K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_02_the_moderate_murderer" data-title="FourFaultlessFelons — The Moderate Murderer" data-chapter="Story 02 The Moderate Murderer" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_moderate_murderer" data-title="FourFaultlessFelons — The Moderate Murderer" data-chapter="The Moderate Murderer" data-kind="story"></span>
 
 
 THE MODERATE MURDERER
@@ -12376,7 +12376,7 @@ face of Medea in the [[Garden|garden]], gathering the poisonous [[Flowers|flower
 
 
 
-<span class="atom-split" data-atom="story_10_v_the_secret_of_the_tree" data-title="FourFaultlessFelons — V The Secret Of The Tree" data-chapter="Story 10 V The Secret Of The Tree" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_v_the_secret_of_the_tree" data-title="FourFaultlessFelons — V The Secret Of The Tree" data-chapter="V The Secret Of The Tree" data-kind="story"></span>
 
 
 V THE SECRET OF THE TREE
@@ -12716,7 +12716,7 @@ parole: NON FARE NULLA RIGUARDO A W. W. FINCHÉ NON ARRIVO. SARÒ LÌ TRA MEZZ'
 
 
 
-<span class="atom-split" data-atom="story_16_the_loyal_traitor" data-title="FourFaultlessFelons — The Loyal Traitor" data-chapter="Story 16 The Loyal Traitor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_loyal_traitor" data-title="FourFaultlessFelons — The Loyal Traitor" data-chapter="The Loyal Traitor" data-kind="story"></span>
 
 
 THE LOYAL TRAITOR
@@ -13310,7 +13310,7 @@ E la principessa proseguì in corsa in uno stato di collera montante.
 
 
 
-<span class="atom-split" data-atom="story_22_epilogue_of_the_pressman" data-title="FourFaultlessFelons — Epilogue Of The Pressman" data-chapter="Story 22 Epilogue Of The Pressman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_epilogue_of_the_pressman" data-title="FourFaultlessFelons — Epilogue Of The Pressman" data-chapter="Epilogue Of The Pressman" data-kind="story"></span>
 
 
 EPILOGUE OF THE PRESSMAN
@@ -13454,7 +13454,7 @@ Four Faultless Felons by G.K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_01" data-title="FourFaultlessFelons — Clue Of The Pressman (part 1)" data-chapter="Story 01 Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_01" data-title="FourFaultlessFelons — Clue Of The Pressman (part 1)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
 
 
 CLUE OF THE PRESSMAN
@@ -13812,7 +13812,7 @@ di pretese alla moda; un uomo basso e squadrato, dal viso squadrato e
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_02" data-title="FourFaultlessFelons — Clue Of The Pressman (part 2)" data-chapter="Story 01 Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_02" data-title="FourFaultlessFelons — Clue Of The Pressman (part 2)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
 
 
 spectacles, who looked like what he was, an ordinary busy suburban
@@ -14184,7 +14184,7 @@ gli Stiliti e alcuni dei primi eremiti possano essere stati sfiorati dallo
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_03" data-title="FourFaultlessFelons — Clue Of The Pressman (part 3)" data-chapter="Story 01 Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_03" data-title="FourFaultlessFelons — Clue Of The Pressman (part 3)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
 
 
 same danger. But our friend is a Christian anchorite; and understands the
@@ -14564,7 +14564,7 @@ amici, e così egli divenne una sorta di Presidente del nostro piccolo club.»
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_04" data-title="FourFaultlessFelons — Clue Of The Pressman (part 4)" data-chapter="Story 01 Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_04" data-title="FourFaultlessFelons — Clue Of The Pressman (part 4)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
 
 
 "[[Well]], we are four men with a common bond at least. We have all had
@@ -14776,7 +14776,7 @@ stravagante conte Raoul de Marillac.
 
 
 
-<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_01" data-title="FourFaultlessFelons — Ii The Boy Who Made A Scene (part 1)" data-chapter="Story 03 Ii The Boy Who Made A Scene" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_01" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 1)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt"></span>
 
 
 II THE BOY WHO MADE A SCENE
@@ -15132,7 +15132,7 @@ ascoltarne un'altra.
 
 
 
-<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_02" data-title="FourFaultlessFelons — Ii The Boy Who Made A Scene (part 2)" data-chapter="Story 03 Ii The Boy Who Made A Scene" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_02" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 2)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt"></span>
 
 
 in question, had (for all his mildness) not a little gentle pertinacity.
@@ -15620,7 +15620,7 @@ angolo del muro.
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_01" data-title="FourFaultlessFelons — Iii The Man Who Could Not Hate (part 1)" data-chapter="Story 04 Iii The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_01" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 1)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
 
 
 III THE MAN WHO COULD NOT HATE
@@ -15796,7 +15796,7 @@ she said. "I'm very sorry. How do you think he is getting on?"
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_02" data-title="FourFaultlessFelons — Iii The Man Who Could Not Hate (part 2)" data-chapter="Story 04 Iii The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_02" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 2)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
 
 
 "I think most people would say," he said slowly at last, "that I ought to
@@ -15990,7 +15990,7 @@ found a very deep [[Well|well]], and found it dry.
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_03" data-title="FourFaultlessFelons — Iii The Man Who Could Not Hate (part 3)" data-chapter="Story 04 Iii The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_03" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 3)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
 
 
 When she went out on to the veranda the steep [[Garden|garden]] and plantation were
@@ -16164,7 +16164,7 @@ IV THE [[Detective|DETECTIVE]] AND THE PARSON
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_04" data-title="FourFaultlessFelons — Iii The Man Who Could Not Hate (part 4)" data-chapter="Story 04 Iii The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_04" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 4)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
 
 
 IT was not until the following evening, as already noted, that the news
@@ -16350,7 +16350,7 @@ arrested him before he heard of the attempt on Lord Tallboys. He had just
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_05" data-title="FourFaultlessFelons — Iii The Man Who Could Not Hate (part 5)" data-chapter="Story 04 Iii The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_05" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 5)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
 
 
 arrested him for holding a seditious meeting five miles away at
@@ -16528,7 +16528,7 @@ of Euclid? Being a dog is not a disease. Being a [[Child|child]] is not a diseas
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_06" data-title="FourFaultlessFelons — Iii The Man Who Could Not Hate (part 6)" data-chapter="Story 04 Iii The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_06" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 6)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
 
 
 Even remaining a [[Child|child]] is not a disease; don't you sometimes wish we
@@ -16708,7 +16708,7 @@ like a wild cry for [[Blood|blood]].
 
 
 
-<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_01" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 1)" data-chapter="Story 05 V The Theory Of Moderate Murder" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_01" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 1)" data-chapter="V The Theory Of Moderate Murder" data-kind="excerpt"></span>
 
 
 V THE THEORY OF MODERATE MURDER
@@ -16894,7 +16894,7 @@ Governor rudely.
 
 
 
-<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_02" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 2)" data-chapter="Story 05 V The Theory Of Moderate Murder" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_02" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 2)" data-chapter="V The Theory Of Moderate Murder" data-kind="excerpt"></span>
 
 
 Sir Harry, you have yourself provided the apparatus of demonstration, and
@@ -17106,7 +17106,7 @@ with interest.
 
 
 
-<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_01" data-title="FourFaultlessFelons — Vi The Thing That Really Happened (part 1)" data-chapter="Story 06 Vi The Thing That Really Happened" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_01" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 1)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt"></span>
 
 
 VI THE THING THAT REALLY HAPPENED
@@ -17284,7 +17284,7 @@ voice. "Didn't St. Paul say something? . . . Wherefore, O [[King]] Agrippa, I
 
 
 
-<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_02" data-title="FourFaultlessFelons — Vi The Thing That Really Happened (part 2)" data-chapter="Story 06 Vi The Thing That Really Happened" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_02" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 2)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt"></span>
 
 
 was not disobedient to the heavenly vision. ... I have seen that heavenly
@@ -17462,7 +17462,7 @@ came to the corner.
 
 
 
-<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_03" data-title="FourFaultlessFelons — Vi The Thing That Really Happened (part 3)" data-chapter="Story 06 Vi The Thing That Really Happened" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_03" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 3)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt"></span>
 
 
 of fate. I saw his lean, pompous figure with the absurd top-hat riding on
@@ -17592,7 +17592,7 @@ after all.
 
 
 
-<span class="atom-split" data-atom="story_07_the_honest_quack--part_01" data-title="FourFaultlessFelons — The Honest Quack (part 1)" data-chapter="Story 07 The Honest Quack" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_honest_quack--part_01" data-title="FourFaultlessFelons — The Honest Quack (part 1)" data-chapter="The Honest Quack" data-kind="excerpt"></span>
 
 
 THE HONEST QUACK
@@ -17954,7 +17954,7 @@ visto, in tutte le mie peregrinazioni, un luogo dove desiderassi fermarmi e fare
 
 
 
-<span class="atom-split" data-atom="story_07_the_honest_quack--part_02" data-title="FourFaultlessFelons — The Honest Quack (part 2)" data-chapter="Story 07 The Honest Quack" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_honest_quack--part_02" data-title="FourFaultlessFelons — The Honest Quack (part 2)" data-chapter="The Honest Quack" data-kind="excerpt"></span>
 
 
 [[Home|home]]. There cannot be anywhere in the world anything like that fantasia
@@ -18330,7 +18330,7 @@ recinto se non il suo solitario padrone che girava e rigirava attorno al suo alb
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_01" data-title="FourFaultlessFelons — Ii The Man With The Black Bag (part 1)" data-chapter="Story 08 Ii The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_01" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 1)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
 
 
 II THE MAN WITH THE BLACK BAG
@@ -18690,7 +18690,7 @@ sarcasticamente.
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_02" data-title="FourFaultlessFelons — Ii The Man With The Black Bag (part 2)" data-chapter="Story 08 Ii The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_02" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 2)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
 
 
 away," said the other.
@@ -19038,7 +19038,7 @@ Che [[Beauty|bellezza]] c'è in un solo squallido vecchio albero piantato in mez
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_03" data-title="FourFaultlessFelons — Ii The Man With The Black Bag (part 3)" data-chapter="Story 08 Ii The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_03" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 3)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
 
 
 mortar? Why, if you abolished it, you'd have room for a garage and you
@@ -19390,7 +19390,7 @@ altro giovane. Non gli piaceva il modo in cui due ciocche dei suoi lunghi,
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_04" data-title="FourFaultlessFelons — Ii The Man With The Black Bag (part 4)" data-chapter="Story 08 Ii The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_04" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 4)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
 
 
 fair hair lay on his cheek in a suggestion of incipient side whiskers; he
@@ -19746,7 +19746,7 @@ dei miei punti, se non con quell'assurdo cavillo sulla parola Eocene.
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_05" data-title="FourFaultlessFelons — Ii The Man With The Black Bag (part 5)" data-chapter="Story 08 Ii The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_05" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 5)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
 
 
 Branders was better; Branders had made some real contribution in his
@@ -20098,7 +20098,7 @@ e prosaica vita. Lei attendeva, un po' come sarebbe rimasta a osservare una
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_06" data-title="FourFaultlessFelons — Ii The Man With The Black Bag (part 6)" data-chapter="Story 08 Ii The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_06" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 6)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
 
 
 round, black bomb that was ticking and smoking in the parlour.
@@ -20382,7 +20382,7 @@ accaduto tra l'una e l'altra.
 
 
 
-<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_01" data-title="FourFaultlessFelons — Iv The Disease Of Duodiapsychosis (part 1)" data-chapter="Story 09 Iv The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_01" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 1)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
 
 
 IV THE DISEASE OF DUODIAPSYCHOSIS
@@ -20750,7 +20750,7 @@ continuità, a una rottura del controllo morale responsabile e di una coordinata
 
 
 
-<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_02" data-title="FourFaultlessFelons — Iv The Disease Of Duodiapsychosis (part 2)" data-chapter="Story 09 Iv The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_02" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 2)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
 
 
 consecutive conservation--"
@@ -21118,7 +21118,7 @@ in maniera più impersonale, e chiese se egli potesse dare qualche consiglio a u
 
 
 
-<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_03" data-title="FourFaultlessFelons — Iv The Disease Of Duodiapsychosis (part 3)" data-chapter="Story 09 Iv The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_03" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 3)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
 
 
 friend of hers, who had been warned of a disease called Duodiapsychosis.
@@ -21418,7 +21418,7 @@ arresto di Walter Windrush con l'accusa di omicidio.
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_01" data-title="FourFaultlessFelons — An Hour. Harrington. (part 1)" data-chapter="Story 11 An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_01" data-title="FourFaultlessFelons — An Hour. Harrington. (part 1)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
 
 
 AN HOUR. HARRINGTON.
@@ -21782,7 +21782,7 @@ chiami, le abbia detto che l'[[Artist|artista]] ammetteva di essere ambidestro..
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_02" data-title="FourFaultlessFelons — An Hour. Harrington. (part 2)" data-chapter="Story 11 An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_02" data-title="FourFaultlessFelons — An Hour. Harrington. (part 2)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
 
 
 things with his left hand as [[Well|well]] as his right."
@@ -21980,7 +21980,7 @@ Harrington calmly; "I do say I am certain now."
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_03" data-title="FourFaultlessFelons — An Hour. Harrington. (part 3)" data-chapter="Story 11 An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_03" data-title="FourFaultlessFelons — An Hour. Harrington. (part 3)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
 
 
 "Doctor Judson says--" began the Inspector.
@@ -22166,7 +22166,7 @@ knew was that I had found a murdered man you had hidden in your [[Garden|garden]
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_04" data-title="FourFaultlessFelons — An Hour. Harrington. (part 4)" data-chapter="Story 11 An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_04" data-title="FourFaultlessFelons — An Hour. Harrington. (part 4)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
 
 
 didn't know how far you might have been provoked or justified. Indeed,
@@ -22404,7 +22404,7 @@ new [[Garden|garden]] and they stood alive on the first foundations of the world
 
 
 
-<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_01" data-title="FourFaultlessFelons — The Ecstatic Thief (part 1)" data-chapter="Story 12 The Ecstatic Thief" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_01" data-title="FourFaultlessFelons — The Ecstatic Thief (part 1)" data-chapter="The Ecstatic Thief" data-kind="excerpt"></span>
 
 
 THE ECSTATIC THIEF
@@ -22579,7 +22579,7 @@ shaking the brown brick chapel to its foundations by announcing his
 
 
 
-<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_02" data-title="FourFaultlessFelons — The Ecstatic Thief (part 2)" data-chapter="Story 12 The Ecstatic Thief" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_02" data-title="FourFaultlessFelons — The Ecstatic Thief (part 2)" data-chapter="The Ecstatic Thief" data-kind="excerpt"></span>
 
 
 intention of being a Curate in the Church of England-nay, in the High
@@ -22833,7 +22833,7 @@ secret.
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_01" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 1)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_01" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 1)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 II THE BURGLAR AND THE BROOCH
@@ -23013,7 +23013,7 @@ or that there was "some mistake". What she really meant (to the [[Grave|grave]]
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_02" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 2)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_02" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 2)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 disadvantage of all her culture and her world) was that there were some
@@ -23199,7 +23199,7 @@ other sons are ashamed of you? Look at their faces!"
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_03" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 3)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_03" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 3)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 It was enough that the other two sons involuntarily turned their faces
@@ -23563,7 +23563,7 @@ trespolo.
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_04" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 4)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_04" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 4)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 popular lecturer, "is to get over the [[Garden|garden]] wall. It sounds simple, but
@@ -23743,7 +23743,7 @@ small craft. He wasn't a particularly nice man and I wasn't particularly
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_05" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 5)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_05" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 5)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 comfortable, but it was not [[suicide]] but a sea-wave that swept me off
@@ -24099,7 +24099,7 @@ lasci il tuo portasigari con dentro un biglietto?»
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_06" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 6)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_06" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 6)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 his pockets. "You must remember I am only at the beginning of my career
@@ -24471,7 +24471,7 @@ tu fossi un ladro e irrompessi nelle case dei ricchi. Ma quando dici di essere u
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_07" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 7)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_07" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 7)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 pickpocket who pinches sixpences off poor people coming out of the
@@ -24839,7 +24839,7 @@ il tabacco. Sicché devono essere piuttosto poveri, e di certo saprebbero se
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_08" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 8)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_08" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 8)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 they've lost anything of great value."
@@ -25187,7 +25187,7 @@ cinico, ma aveva scelto i poveri del quartiere stesso dove suo
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_09" data-title="FourFaultlessFelons — Ii The Burglar And The Brooch (part 9)" data-chapter="Story 13 Ii The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_09" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 9)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
 
 
 brother, the Rev. Norman Nadoway, had recently become a charitable and
@@ -25539,7 +25539,7 @@ era una lunatica.
 
 
 
-<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_01" data-title="FourFaultlessFelons — V The Thief On Trial (part 1)" data-chapter="Story 14 V The Thief On Trial" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_01" data-title="FourFaultlessFelons — V The Thief On Trial (part 1)" data-chapter="V The Thief On Trial" data-kind="excerpt"></span>
 
 
 V THE THIEF ON TRIAL
@@ -25907,7 +25907,7 @@ Isidor Green, debba rendere la propria testimonianza più tardi. L'accusa aveva
 
 
 
-<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_02" data-title="FourFaultlessFelons — V The Thief On Trial (part 2)" data-chapter="Story 14 V The Thief On Trial" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_02" data-title="FourFaultlessFelons — V The Thief On Trial (part 2)" data-chapter="V The Thief On Trial" data-kind="excerpt"></span>
 
 
 better begin calling their witnesses as soon as possible."
@@ -26103,7 +26103,7 @@ There was no official difficulty, of course, about the prisoner appearing
 
 
 
-<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_03" data-title="FourFaultlessFelons — V The Thief On Trial (part 3)" data-chapter="Story 14 V The Thief On Trial" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_03" data-title="FourFaultlessFelons — V The Thief On Trial (part 3)" data-chapter="V The Thief On Trial" data-kind="excerpt"></span>
 
 
 in both capacities.
@@ -26287,7 +26287,7 @@ gli occhiali, che parevano poter essere psicologi.
 
 
 
-<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_01" data-title="FourFaultlessFelons — Vi The Cleansing Of The Name (part 1)" data-chapter="Story 15 Vi The Cleansing Of The Name" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_01" data-title="FourFaultlessFelons — VI The Cleansing Of The Name (part 1)" data-chapter="VI The Cleansing Of The Name" data-kind="excerpt"></span>
 
 
 VI THE CLEANSING OF THE NAME
@@ -26659,7 +26659,7 @@ che suonavano l'arpa uscito dalla [[Bible|Bibbia]] di famiglia? Ciò che vidi, p
 
 
 
-<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_02" data-title="FourFaultlessFelons — Vi The Cleansing Of The Name (part 2)" data-chapter="Story 15 Vi The Cleansing Of The Name" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_02" data-title="FourFaultlessFelons — VI The Cleansing Of The Name (part 2)" data-chapter="VI The Cleansing Of The Name" data-kind="excerpt"></span>
 
 
 said to have merely seen anything, was my father sitting at the head of
@@ -27155,7 +27155,7 @@ era sempre parso custodire un segreto ed essere in attesa di una sorpresa.
 
 
 
-<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_01" data-title="FourFaultlessFelons — Ii The Procession Of The Plotters (part 1)" data-chapter="Story 17 Ii The Procession Of The Plotters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_01" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 1)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
 
 
 II THE PROCESSION OF THE PLOTTERS
@@ -27499,7 +27499,7 @@ Mercato, nella parte più povera della città. È un ebreo, naturalmente, ma non
 
 
 
-<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_02" data-title="FourFaultlessFelons — Ii The Procession Of The Plotters (part 2)" data-chapter="Story 17 Ii The Procession Of The Plotters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_02" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 2)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
 
 
 so much disliked as some Jews of his trade, and such thousands of people
@@ -27683,7 +27683,7 @@ the sudden lighting-up of the dark [[house]] from within, or rather of the
 
 
 
-<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_03" data-title="FourFaultlessFelons — Ii The Procession Of The Plotters (part 3)" data-chapter="Story 17 Ii The Procession Of The Plotters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_03" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 3)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
 
 
 one room in it presumably reserved for the feast; the drawing down of the
@@ -27881,7 +27881,7 @@ the man was General Case, the Dictator from beyond the frontier.
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_01" data-title="FourFaultlessFelons — Iii The Princess Intervenes (part 1)" data-chapter="Story 18 Iii The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_01" data-title="FourFaultlessFelons — III The Princess Intervenes (part 1)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
 
 
 III THE PRINCESS INTERVENES
@@ -28055,7 +28055,7 @@ and see that Hart is watching the [[house]] at the back. They can't be far
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_02" data-title="FourFaultlessFelons — Iii The Princess Intervenes (part 2)" data-chapter="Story 18 Iii The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_02" data-title="FourFaultlessFelons — III The Princess Intervenes (part 2)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
 
 
 off yet; this coffee is still quite hot and I think he was just going to
@@ -28233,7 +28233,7 @@ Word will be spoken to-[[Night|night]]". The brief paragraphs that followed were
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_03" data-title="FourFaultlessFelons — Iii The Princess Intervenes (part 3)" data-chapter="Story 18 Iii The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_03" data-title="FourFaultlessFelons — III The Princess Intervenes (part 3)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
 
 
 the effect that all was now ready for the blow at the [[government|Government]] which
@@ -28413,7 +28413,7 @@ blinds of the palace. But the conspirators may be flamboyant. The
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_04" data-title="FourFaultlessFelons — Iii The Princess Intervenes (part 4)" data-chapter="Story 18 Iii The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_04" data-title="FourFaultlessFelons — III The Princess Intervenes (part 4)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
 
 
 republicans may be royal. That's why they appeal to the people; because
@@ -28519,7 +28519,7 @@ from Domremy when she demanded audience of a [[King]].
 
 
 
-<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_01" data-title="FourFaultlessFelons — Iv The Unreasonableness Of Woman (part 1)" data-chapter="Story 19 Iv The Unreasonableness Of Woman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_01" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 1)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt"></span>
 
 
 IV THE UNREASONABLENESS OF WOMAN
@@ -28701,7 +28701,7 @@ when I had hardly a rag on my back; I suppose the [[Flag]] of Pavonia, flying
 
 
 
-<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_02" data-title="FourFaultlessFelons — Iv The Unreasonableness Of Woman (part 2)" data-chapter="Story 19 Iv The Unreasonableness Of Woman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_02" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 2)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt"></span>
 
 
 on the top of the palace, would have come down off its pole to wrap me up
@@ -28887,7 +28887,7 @@ she had received a personal insult.
 
 
 
-<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_03" data-title="FourFaultlessFelons — Iv The Unreasonableness Of Woman (part 3)" data-chapter="Story 19 Iv The Unreasonableness Of Woman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_03" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 3)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt"></span>
 
 
 absolutely to speak."
@@ -28981,7 +28981,7 @@ the rest of their interview was too wonderful to be believed.
 
 
 
-<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_01" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 1)" data-chapter="Story 20 V The Terms Of A Traitor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_01" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 1)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt"></span>
 
 
 V THE TERMS OF A TRAITOR
@@ -29159,7 +29159,7 @@ The Prime Minister [[Rose|rose]] to his feet in uncontrollable agitation, for
 
 
 
-<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_02" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 2)" data-chapter="Story 20 V The Terms Of A Traitor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_02" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 2)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt"></span>
 
 
 professional reformers do not like to hear about drastic [[Reform|reform]].
@@ -29333,7 +29333,7 @@ brevity: "[[Well]], I suppose we had better leave the next step to you."
 
 
 
-<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_03" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 3)" data-chapter="Story 20 V The Terms Of A Traitor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_03" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 3)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt"></span>
 
 
 The next step led them together down the long poplar avenue, past the
@@ -29495,7 +29495,7 @@ was nothing so extraordinary as what he found.
 
 
 
-<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_01" data-title="FourFaultlessFelons — Vi The Speaking Of The Word (part 1)" data-chapter="Story 21 Vi The Speaking Of The Word" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_01" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 1)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt"></span>
 
 
 VI THE SPEAKING OF THE WORD
@@ -29673,7 +29673,7 @@ Then after a pause he added: "But before we seek them out in their
 
 
 
-<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_02" data-title="FourFaultlessFelons — Vi The Speaking Of The Word (part 2)" data-chapter="Story 21 Vi The Speaking Of The Word" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_02" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 2)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt"></span>
 
 
 separate suites of apartments, I want to talk to you about something. I
@@ -29861,7 +29861,7 @@ newspapers and all that. It was only necessary for each person to have a
 
 
 
-<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_03" data-title="FourFaultlessFelons — Vi The Speaking Of The Word (part 3)" data-chapter="Story 21 Vi The Speaking Of The Word" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_03" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 3)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt"></span>
 
 
 vast, vague reputation, more or less foreign. When Professor Phocus wrote

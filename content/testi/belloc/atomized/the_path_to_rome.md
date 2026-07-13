@@ -4093,7 +4093,7 @@ FINIS
 
 
 
-<span class="atom-split" data-atom="story_01_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 01 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4103,7 +4103,7 @@ PRAISE OF THIS BOOK
 
 
 
-<span class="atom-split" data-atom="story_02_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 02 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4112,7 +4112,7 @@ CHARACTER OF PROVERB-MAKER
 
 
 
-<span class="atom-split" data-atom="story_03_the_grand_climacteric" data-title="The Path to Rome — The Grand Climacteric" data-chapter="Story 03 The Grand Climacteric" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_grand_climacteric" data-title="The Path to Rome — The Grand Climacteric" data-chapter="The Grand Climacteric" data-kind="story"></span>
 
 
 THE GRAND CLIMACTERIC
@@ -4121,7 +4121,7 @@ DIFFICULTY OF ENDING A BOOK
 
 
 
-<span class="atom-split" data-atom="story_04_the_valley_of_the_moselle" data-title="The Path to Rome — The Valley Of The Moselle" data-chapter="Story 04 The Valley Of The Moselle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_valley_of_the_moselle" data-title="The Path to Rome — The Valley Of The Moselle" data-chapter="The Valley Of The Moselle" data-kind="story"></span>
 
 
 THE VALLEY OF THE MOSELLE
@@ -4131,7 +4131,7 @@ ON JUSTICE IN ARMIES
 
 
 
-<span class="atom-split" data-atom="story_05_story_of_the_great_barrel" data-title="The Path to Rome — Story Of The Great Barrel" data-chapter="Story 05 Story Of The Great Barrel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_story_of_the_great_barrel" data-title="The Path to Rome — Story Of The Great Barrel" data-chapter="Story Of The Great Barrel" data-kind="story"></span>
 
 
 STORY OF THE GREAT BARREL
@@ -4141,7 +4141,7 @@ THE COMING OF EVENING
 
 
 
-<span class="atom-split" data-atom="story_06_the_night_in_the_forest" data-title="The Path to Rome — The Night In The Forest" data-chapter="Story 06 The Night In The Forest" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_night_in_the_forest" data-title="The Path to Rome — The Night In The Forest" data-chapter="The Night In The Forest" data-kind="story"></span>
 
 
 THE NIGHT IN THE FOREST
@@ -4151,7 +4151,7 @@ THE CRY FOR A BED
 
 
 
-<span class="atom-split" data-atom="story_07_the_full_curse" data-title="The Path to Rome — The Full Curse" data-chapter="Story 07 The Full Curse" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_full_curse" data-title="The Path to Rome — The Full Curse" data-chapter="The Full Curse" data-kind="story"></span>
 
 
 THE FULL CURSE
@@ -4161,7 +4161,7 @@ THE FURTHER VALLEY
 
 
 
-<span class="atom-split" data-atom="story_08_how_to_write_rhymes" data-title="The Path to Rome — How To Write Rhymes" data-chapter="Story 08 How To Write Rhymes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_how_to_write_rhymes" data-title="The Path to Rome — How To Write Rhymes" data-chapter="How To Write Rhymes" data-kind="story"></span>
 
 
 HOW TO WRITE RHYMES
@@ -4171,7 +4171,7 @@ THE MORNING MASS
 
 
 
-<span class="atom-split" data-atom="story_09_charmes" data-title="The Path to Rome — Charmes" data-chapter="Story 09 Charmes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_charmes" data-title="The Path to Rome — Charmes" data-chapter="Charmes" data-kind="story"></span>
 
 
 CHARMES
@@ -4180,7 +4180,7 @@ NATURE OF TEMPTING DEVILS
 
 
 
-<span class="atom-split" data-atom="story_10_epinal_church" data-title="The Path to Rome — Epinal Church" data-chapter="Story 10 Epinal Church" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_epinal_church" data-title="The Path to Rome — Epinal Church" data-chapter="Epinal Church" data-kind="story"></span>
 
 
 EPINAL CHURCH
@@ -4190,7 +4190,7 @@ THE LITTLE RUNNEL
 
 
 
-<span class="atom-split" data-atom="story_11_the_false" data-title="The Path to Rome — The False" data-chapter="Story 11 The False" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_false" data-title="The Path to Rome — The False" data-chapter="The False" data-kind="story"></span>
 
 
 THE FALSE
@@ -4201,7 +4201,7 @@ APOLOGY FOR THE MIDDLE-CLASS
 
 
 
-<span class="atom-split" data-atom="story_12_of_dormitory_trees" data-title="The Path to Rome — Of Dormitory Trees" data-chapter="Story 12 Of Dormitory Trees" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_of_dormitory_trees" data-title="The Path to Rome — Of Dormitory Trees" data-chapter="Of Dormitory Trees" data-kind="story"></span>
 
 
 OF DORMITORY TREES
@@ -4211,7 +4211,7 @@ THE SPECIAL CHAPELS
 
 
 
-<span class="atom-split" data-atom="story_13_on_local_names" data-title="The Path to Rome — On Local Names" data-chapter="Story 13 On Local Names" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_on_local_names" data-title="The Path to Rome — On Local Names" data-chapter="On Local Names" data-kind="story"></span>
 
 
 ON LOCAL NAMES
@@ -4221,7 +4221,7 @@ THE PIOUS WOMAN
 
 
 
-<span class="atom-split" data-atom="story_14_the_jews_in_the_hills" data-title="The Path to Rome — The Jews In The Hills" data-chapter="Story 14 The Jews In The Hills" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_jews_in_the_hills" data-title="The Path to Rome — The Jews In The Hills" data-chapter="The Jews In The Hills" data-kind="story"></span>
 
 
 THE JEWS IN THE HILLS
@@ -4231,7 +4231,7 @@ THE INNER DARKNESS
 
 
 
-<span class="atom-split" data-atom="story_15_the_common_faith" data-title="The Path to Rome — The Common Faith" data-chapter="Story 15 The Common Faith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_common_faith" data-title="The Path to Rome — The Common Faith" data-chapter="The Common Faith" data-kind="story"></span>
 
 
 THE COMMON [[Faith|FAITH]]
@@ -4241,7 +4241,7 @@ THE TRACK TO SWITZERLAND
 
 
 
-<span class="atom-split" data-atom="story_16_the_secluded_valley" data-title="The Path to Rome — The Secluded Valley" data-chapter="Story 16 The Secluded Valley" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_secluded_valley" data-title="The Path to Rome — The Secluded Valley" data-chapter="The Secluded Valley" data-kind="story"></span>
 
 
 THE SECLUDED VALLEY
@@ -4251,7 +4251,7 @@ THE GREAT GARRISONS
 
 
 
-<span class="atom-split" data-atom="story_17_on_building_bridges" data-title="The Path to Rome — On Building Bridges" data-chapter="Story 17 On Building Bridges" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_on_building_bridges" data-title="The Path to Rome — On Building Bridges" data-chapter="On Building Bridges" data-kind="story"></span>
 
 
 ON BUILDING BRIDGES
@@ -4261,7 +4261,7 @@ THE POWDER-MAGAZINE
 
 
 
-<span class="atom-split" data-atom="story_18_what_is_the_soul" data-title="The Path to Rome — What Is The Soul?" data-chapter="Story 18 What Is The Soul" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_what_is_the_soul" data-title="The Path to Rome — What Is The Soul?" data-chapter="What Is The Soul" data-kind="story"></span>
 
 
 WHAT IS THE SOUL?
@@ -4271,7 +4271,7 @@ DE GERMANIA
 
 
 
-<span class="atom-split" data-atom="story_19_the_astounding_wine" data-title="The Path to Rome — The Astounding Wine" data-chapter="Story 19 The Astounding Wine" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_astounding_wine" data-title="The Path to Rome — The Astounding Wine" data-chapter="The Astounding Wine" data-kind="story"></span>
 
 
 THE ASTOUNDING WINE
@@ -4281,7 +4281,7 @@ THE MOUNT TERRIBLE
 
 
 
-<span class="atom-split" data-atom="story_20_the_bent_windows" data-title="The Path to Rome — The Bent Windows" data-chapter="Story 20 The Bent Windows" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_bent_windows" data-title="The Path to Rome — The Bent Windows" data-chapter="The Bent Windows" data-kind="story"></span>
 
 
 THE BENT WINDOWS
@@ -4291,7 +4291,7 @@ GORGE OF THE DOUBS
 
 
 
-<span class="atom-split" data-atom="story_21_the_tempting_bridge" data-title="The Path to Rome — The Tempting Bridge" data-chapter="Story 21 The Tempting Bridge" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_tempting_bridge" data-title="The Path to Rome — The Tempting Bridge" data-chapter="The Tempting Bridge" data-kind="story"></span>
 
 
 THE TEMPTING BRIDGE
@@ -4301,7 +4301,7 @@ SAFETY BEYOND
 
 
 
-<span class="atom-split" data-atom="story_22_the_common_field" data-title="The Path to Rome — The Common Field" data-chapter="Story 22 The Common Field" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_common_field" data-title="The Path to Rome — The Common Field" data-chapter="The Common Field" data-kind="story"></span>
 
 
 THE COMMON FIELD
@@ -4311,7 +4311,7 @@ THEORY OF BLESSINGS
 
 
 
-<span class="atom-split" data-atom="story_23_the_rude_peasants" data-title="The Path to Rome — The Rude Peasants" data-chapter="Story 23 The Rude Peasants" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_rude_peasants" data-title="The Path to Rome — The Rude Peasants" data-chapter="The Rude Peasants" data-kind="story"></span>
 
 
 THE RUDE PEASANTS
@@ -4322,7 +4322,7 @@ ON STYLE
 
 
 
-<span class="atom-split" data-atom="story_24_the_german" data-title="The Path to Rome — The German" data-chapter="Story 24 The German" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_the_german" data-title="The Path to Rome — The German" data-chapter="The German" data-kind="story"></span>
 
 
 THE GERMAN
@@ -4332,7 +4332,7 @@ EVERYDAY LIFE, HORRORS THEREOF
 
 
 
-<span class="atom-split" data-atom="story_25_plays_without_words" data-title="The Path to Rome — Plays Without Words" data-chapter="Story 25 Plays Without Words" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_plays_without_words" data-title="The Path to Rome — Plays Without Words" data-chapter="Plays Without Words" data-kind="story"></span>
 
 
 PLAYS WITHOUT WORDS
@@ -4342,7 +4342,7 @@ THE MILLS OF GOD
 
 
 
-<span class="atom-split" data-atom="story_26_between_the_trees" data-title="The Path to Rome — Between The Trees" data-chapter="Story 26 Between The Trees" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_between_the_trees" data-title="The Path to Rome — Between The Trees" data-chapter="Between The Trees" data-kind="story"></span>
 
 
 BETWEEN THE TREES
@@ -4352,7 +4352,7 @@ THE ALPS, THEIR PICTURE
 
 
 
-<span class="atom-split" data-atom="story_27_the_cliff" data-title="The Path to Rome — The Cliff" data-chapter="Story 27 The Cliff" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_cliff" data-title="The Path to Rome — The Cliff" data-chapter="The Cliff" data-kind="story"></span>
 
 
 THE CLIFF
@@ -4362,7 +4362,7 @@ THE GOOD SAVAGES
 
 
 
-<span class="atom-split" data-atom="story_28_isolation" data-title="The Path to Rome — Isolation" data-chapter="Story 28 Isolation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_isolation" data-title="The Path to Rome — Isolation" data-chapter="Isolation" data-kind="story"></span>
 
 
 ISOLATION
@@ -4372,7 +4372,7 @@ A DAY WITHOUT SALT
 
 
 
-<span class="atom-split" data-atom="story_29_the_hungry_student_fails_to_appear" data-title="The Path to Rome — The Hungry Student Fails To Appear" data-chapter="Story 29 The Hungry Student Fails To Appear" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_hungry_student_fails_to_appear" data-title="The Path to Rome — The Hungry Student Fails To Appear" data-chapter="The Hungry Student Fails To Appear" data-kind="story"></span>
 
 
 THE HUNGRY STUDENT FAILS TO APPEAR
@@ -4382,7 +4382,7 @@ THE UPPER EMMEN
 
 
 
-<span class="atom-split" data-atom="story_30_the_brienzer_grat_how_it_lies" data-title="The Path to Rome — The Brienzer Grat, How It Lies" data-chapter="Story 30 The Brienzer Grat How It Lies" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_brienzer_grat_how_it_lies" data-title="The Path to Rome — The Brienzer Grat, How It Lies" data-chapter="The Brienzer Grat How It Lies" data-kind="story"></span>
 
 
 THE BRIENZER GRAT, HOW IT LIES
@@ -4392,7 +4392,7 @@ THE HALT IN THE FOG
 
 
 
-<span class="atom-split" data-atom="story_31_the_life_qualm" data-title="The Path to Rome — The Life-Qualm" data-chapter="Story 31 The Life Qualm" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_life_qualm" data-title="The Path to Rome — The Life-Qualm" data-chapter="The Life Qualm" data-kind="story"></span>
 
 
 THE LIFE-QUALM
@@ -4403,7 +4403,7 @@ A DOUBTFUL MAP
 
 
 
-<span class="atom-split" data-atom="story_32_more_geography" data-title="The Path to Rome — More Geography" data-chapter="Story 32 More Geography" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_more_geography" data-title="The Path to Rome — More Geography" data-chapter="More Geography" data-kind="story"></span>
 
 
 MORE GEOGRAPHY
@@ -4413,7 +4413,7 @@ THE LOUD NOISE
 
 
 
-<span class="atom-split" data-atom="story_33_the_snow_blink" data-title="The Path to Rome — The Snow Blink" data-chapter="Story 33 The Snow Blink" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_snow_blink" data-title="The Path to Rome — The Snow Blink" data-chapter="The Snow Blink" data-kind="story"></span>
 
 
 THE SNOW BLINK
@@ -4423,7 +4423,7 @@ DIGRESSION
 
 
 
-<span class="atom-split" data-atom="story_34_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="Story 34 The Second Good Woman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="The Second Good Woman" data-kind="story"></span>
 
 
 THE SECOND GOOD WOMAN
@@ -4432,7 +4432,7 @@ ON THE MANIA OF UNIVERSITIES
 
 
 
-<span class="atom-split" data-atom="story_35_the_impassable_hills" data-title="The Path to Rome — The Impassable Hills" data-chapter="Story 35 The Impassable Hills" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_impassable_hills" data-title="The Path to Rome — The Impassable Hills" data-chapter="The Impassable Hills" data-kind="story"></span>
 
 
 THE IMPASSABLE HILLS
@@ -4443,7 +4443,7 @@ THE TOURMENTE
 
 
 
-<span class="atom-split" data-atom="story_36_defeat" data-title="The Path to Rome — Defeat" data-chapter="Story 36 Defeat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_defeat" data-title="The Path to Rome — Defeat" data-chapter="Defeat" data-kind="story"></span>
 
 
 DEFEAT
@@ -4453,7 +4453,7 @@ THE SULLEN HOURS
 
 
 
-<span class="atom-split" data-atom="story_37_the_new_world" data-title="The Path to Rome — The New World" data-chapter="Story 37 The New World" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_the_new_world" data-title="The Path to Rome — The New World" data-chapter="The New World" data-kind="story"></span>
 
 
 THE NEW WORLD
@@ -4464,7 +4464,7 @@ FAIDO
 
 
 
-<span class="atom-split" data-atom="story_38_bodio" data-title="The Path to Rome — Bodio" data-chapter="Story 38 Bodio" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_bodio" data-title="The Path to Rome — Bodio" data-chapter="Bodio" data-kind="story"></span>
 
 
 BODIO
@@ -4475,7 +4475,7 @@ THE PROUD STATIONER
 
 
 
-<span class="atom-split" data-atom="story_39_the_honest_man" data-title="The Path to Rome — The Honest Man" data-chapter="Story 39 The Honest Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_the_honest_man" data-title="The Path to Rome — The Honest Man" data-chapter="The Honest Man" data-kind="story"></span>
 
 
 THE HONEST MAN
@@ -4485,7 +4485,7 @@ THE WAGGON-BOATS
 
 
 
-<span class="atom-split" data-atom="story_40_the_oracle" data-title="The Path to Rome — The Oracle" data-chapter="Story 40 The Oracle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_the_oracle" data-title="The Path to Rome — The Oracle" data-chapter="The Oracle" data-kind="story"></span>
 
 
 THE ORACLE
@@ -4495,7 +4495,7 @@ ESTIMATE OF CONSULS
 
 
 
-<span class="atom-split" data-atom="story_41_ordeal_of_the_candals" data-title="The Path to Rome — Ordeal Of The Candals" data-chapter="Story 41 Ordeal Of The Candals" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_ordeal_of_the_candals" data-title="The Path to Rome — Ordeal Of The Candals" data-chapter="Ordeal Of The Candals" data-kind="story"></span>
 
 
 ORDEAL OF THE CANDALS
@@ -4505,7 +4505,7 @@ OLD LODI, ITS UGLY CHURCH
 
 
 
-<span class="atom-split" data-atom="story_42_nothing_much" data-title="The Path to Rome — Nothing Much" data-chapter="Story 42 Nothing Much" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_nothing_much" data-title="The Path to Rome — Nothing Much" data-chapter="Nothing Much" data-kind="story"></span>
 
 
 NOTHING MUCH
@@ -4515,7 +4515,7 @@ STORY OF THE DEVIL
 
 
 
-<span class="atom-split" data-atom="story_43_and_the_learned_man" data-title="The Path to Rome — And The Learned Man" data-chapter="Story 43 And The Learned Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_and_the_learned_man" data-title="The Path to Rome — And The Learned Man" data-chapter="And The Learned Man" data-kind="story"></span>
 
 
 AND THE LEARNED MAN
@@ -4524,7 +4524,7 @@ APPARITION OF ST CHARLES BORROMEO
 
 
 
-<span class="atom-split" data-atom="story_44_on_the_germans" data-title="The Path to Rome — On The Germans" data-chapter="Story 44 On The Germans" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_on_the_germans" data-title="The Path to Rome — On The Germans" data-chapter="On The Germans" data-kind="story"></span>
 
 
 ON THE GERMANS
@@ -4534,7 +4534,7 @@ ON PERFECT THINGS
 
 
 
-<span class="atom-split" data-atom="story_45_fugue" data-title="The Path to Rome — Fugue" data-chapter="Story 45 Fugue" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_fugue" data-title="The Path to Rome — Fugue" data-chapter="Fugue" data-kind="story"></span>
 
 
 FUGUE
@@ -4544,7 +4544,7 @@ THE TAVERN BRAWL
 
 
 
-<span class="atom-split" data-atom="story_46_the_clouds" data-title="The Path to Rome — The Clouds" data-chapter="Story 46 The Clouds" data-kind="story"></span>
+<span class="atom-split" data-atom="story_46_the_clouds" data-title="The Path to Rome — The Clouds" data-chapter="The Clouds" data-kind="story"></span>
 
 
 THE CLOUDS
@@ -4554,7 +4554,7 @@ ST CHRISTOPHER
 
 
 
-<span class="atom-split" data-atom="story_47_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="Story 47 The Great View" data-kind="story"></span>
+<span class="atom-split" data-atom="story_47_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="The Great View" data-kind="story"></span>
 
 
 THE GREAT VIEW
@@ -4564,7 +4564,7 @@ THE PEASANT
 
 
 
-<span class="atom-split" data-atom="story_48_andiamo" data-title="The Path to Rome — Andiamo" data-chapter="Story 48 Andiamo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_48_andiamo" data-title="The Path to Rome — Andiamo" data-chapter="Andiamo" data-kind="story"></span>
 
 
 ANDIAMO
@@ -4574,7 +4574,7 @@ THE CROSSING OF THE ENZA
 
 
 
-<span class="atom-split" data-atom="story_49_the_sun" data-title="The Path to Rome — The Sun!" data-chapter="Story 49 The Sun" data-kind="story"></span>
+<span class="atom-split" data-atom="story_49_the_sun" data-title="The Path to Rome — The Sun!" data-chapter="The Sun" data-kind="story"></span>
 
 
 THE SUN!
@@ -4584,7 +4584,7 @@ THE FURTHER SIDE
 
 
 
-<span class="atom-split" data-atom="story_50_sillano" data-title="The Path to Rome — Sillano" data-chapter="Story 50 Sillano" data-kind="story"></span>
+<span class="atom-split" data-atom="story_50_sillano" data-title="The Path to Rome — Sillano" data-chapter="Sillano" data-kind="story"></span>
 
 
 SILLANO
@@ -4594,7 +4594,7 @@ THE GARFAGNANA
 
 
 
-<span class="atom-split" data-atom="story_51_the_bridges_of_castel_nuovo" data-title="The Path to Rome — The Bridges Of Castel-Nuovo" data-chapter="Story 51 The Bridges Of Castel Nuovo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_51_the_bridges_of_castel_nuovo" data-title="The Path to Rome — The Bridges Of Castel-Nuovo" data-chapter="The Bridges Of Castel Nuovo" data-kind="story"></span>
 
 
 THE BRIDGES OF CASTEL-NUOVO
@@ -4604,7 +4604,7 @@ THE BANQUET
 
 
 
-<span class="atom-split" data-atom="story_52_nothing_particular" data-title="The Path to Rome — Nothing Particular" data-chapter="Story 52 Nothing Particular" data-kind="story"></span>
+<span class="atom-split" data-atom="story_52_nothing_particular" data-title="The Path to Rome — Nothing Particular" data-chapter="Nothing Particular" data-kind="story"></span>
 
 
 NOTHING PARTICULAR
@@ -4615,7 +4615,7 @@ SAN QUIRICO
 
 
 
-<span class="atom-split" data-atom="story_53_the_valley_like_a_wave" data-title="The Path to Rome — The Valley Like A Wave" data-chapter="Story 53 The Valley Like A Wave" data-kind="story"></span>
+<span class="atom-split" data-atom="story_53_the_valley_like_a_wave" data-title="The Path to Rome — The Valley Like A Wave" data-chapter="The Valley Like A Wave" data-kind="story"></span>
 
 
 THE VALLEY LIKE A WAVE
@@ -4625,7 +4625,7 @@ THE HORN SONG
 
 
 
-<span class="atom-split" data-atom="story_54_radicofani" data-title="The Path to Rome — Radicofani" data-chapter="Story 54 Radicofani" data-kind="story"></span>
+<span class="atom-split" data-atom="story_54_radicofani" data-title="The Path to Rome — Radicofani" data-chapter="Radicofani" data-kind="story"></span>
 
 
 RADICOFANI
@@ -4636,7 +4636,7 @@ STORY OF MR HARD
 
 
 
-<span class="atom-split" data-atom="story_55_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story 55 Story Of Mr Hard" data-kind="story"></span>
+<span class="atom-split" data-atom="story_55_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story Of Mr Hard" data-kind="story"></span>
 
 
 STORY OF MR HARD
@@ -4646,7 +4646,7 @@ THE GREAT WALLS
 
 
 
-<span class="atom-split" data-atom="story_56_i_enter_viterbo" data-title="The Path to Rome — I Enter Viterbo" data-chapter="Story 56 I Enter Viterbo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_56_i_enter_viterbo" data-title="The Path to Rome — I Enter Viterbo" data-chapter="I Enter Viterbo" data-kind="story"></span>
 
 
 I ENTER VITERBO
@@ -4656,7 +4656,7 @@ TOO MANY PEASANTS
 
 
 
-<span class="atom-split" data-atom="story_57_rome_calls_me" data-title="The Path to Rome — Rome Calls Me" data-chapter="Story 57 Rome Calls Me" data-kind="story"></span>
+<span class="atom-split" data-atom="story_57_rome_calls_me" data-title="The Path to Rome — Rome Calls Me" data-chapter="Rome Calls Me" data-kind="story"></span>
 
 
 ROME CALLS ME
@@ -4674,7 +4674,7 @@ Frontispiece of the first edition
 
 
 
-<span class="atom-split" data-atom="story_58_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 58 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_58_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4690,7 +4690,7 @@ Then I went out of the church still having that Statue in my mind, and I walked 
 
 
 
-<span class="atom-split" data-atom="story_59_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 59 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_59_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4714,7 +4714,7 @@ Now this is a pusillanimity of theirs (the book writers) that they think style p
 
 
 
-<span class="atom-split" data-atom="story_60_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 60 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_60_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4740,7 +4740,7 @@ In old time a man that drew ill drew not at all. He did well. Then either
 
 
 
-<span class="atom-split" data-atom="story_61_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 61 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_61_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4760,7 +4760,7 @@ Then let us love one another and laugh. Time passes, and we shall soon laugh no 
 
 
 
-<span class="atom-split" data-atom="story_62_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Story 62 Praise Of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_62_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story"></span>
 
 
 PRAISE OF THIS BOOK
@@ -4784,7 +4784,7 @@ By this you may perceive that the Proverb-Maker, like every other Dema-
 
 
 
-<span class="atom-split" data-atom="story_63_character_of_proverb_maker" data-title="The Path to Rome — Character Of Proverb-Maker" data-chapter="Story 63 Character Of Proverb Maker" data-kind="story"></span>
+<span class="atom-split" data-atom="story_63_character_of_proverb_maker" data-title="The Path to Rome — Character Of Proverb-Maker" data-chapter="Character Of Proverb Maker" data-kind="story"></span>
 
 
 CHARACTER OF PROVERB-MAKER
@@ -4800,7 +4800,7 @@ Take, for instance, this phrase that set me writing, ‘Ce nest que le premier p
 
 
 
-<span class="atom-split" data-atom="story_64_the_grand_climacteric" data-title="The Path to Rome — The Grand Climacteric" data-chapter="Story 64 The Grand Climacteric" data-kind="story"></span>
+<span class="atom-split" data-atom="story_64_the_grand_climacteric" data-title="The Path to Rome — The Grand Climacteric" data-chapter="The Grand Climacteric" data-kind="story"></span>
 
 
 THE GRAND CLIMACTERIC
@@ -4824,7 +4824,7 @@ But perhaps you have been reading little brown books on Evolution, and you don�
 
 
 
-<span class="atom-split" data-atom="story_65_difficulty_of_ending_a_book" data-title="The Path to Rome — Difficulty Of Ending A Book" data-chapter="Story 65 Difficulty Of Ending A Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_65_difficulty_of_ending_a_book" data-title="The Path to Rome — Difficulty Of Ending A Book" data-chapter="Difficulty Of Ending A Book" data-kind="story"></span>
 
 
 DIFFICULTY OF ENDING A BOOK
@@ -4854,7 +4854,7 @@ I knew a man once who always wrote the end of a book first, when his mind was fr
 
 
 
-<span class="atom-split" data-atom="story_66_the_valley_of_the_moselle" data-title="The Path to Rome — The Valley Of The Moselle" data-chapter="Story 66 The Valley Of The Moselle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_66_the_valley_of_the_moselle" data-title="The Path to Rome — The Valley Of The Moselle" data-chapter="The Valley Of The Moselle" data-kind="story"></span>
 
 
 THE VALLEY OF THE MOSELLE
@@ -4870,7 +4870,7 @@ It was in the very beginning of June, at evening, but not yet sunset, that I set
 
 
 
-<span class="atom-split" data-atom="story_67_the_first_garrison" data-title="The Path to Rome — The First Garrison" data-chapter="Story 67 The First Garrison" data-kind="story"></span>
+<span class="atom-split" data-atom="story_67_the_first_garrison" data-title="The Path to Rome — The First Garrison" data-chapter="The First Garrison" data-kind="story"></span>
 
 
 THE FIRST GARRISON
@@ -4886,7 +4886,7 @@ I was looking straight at the great fort of St Michel, which is the strongest th
 
 
 
-<span class="atom-split" data-atom="story_68_on_justice_in_armies" data-title="The Path to Rome — On Justice In Armies" data-chapter="Story 68 On Justice In Armies" data-kind="story"></span>
+<span class="atom-split" data-atom="story_68_on_justice_in_armies" data-title="The Path to Rome — On Justice In Armies" data-chapter="On Justice In Armies" data-kind="story"></span>
 
 
 ON JUSTICE IN ARMIES
@@ -4902,7 +4902,7 @@ I had, in a small bag or pocket slung over my shoulder, a large piece of bread, 
 
 
 
-<span class="atom-split" data-atom="story_69_charming_village_of_brule" data-title="The Path to Rome — Charming Village Of Brule" data-chapter="Story 69 Charming Village Of Brule" data-kind="story"></span>
+<span class="atom-split" data-atom="story_69_charming_village_of_brule" data-title="The Path to Rome — Charming Village Of Brule" data-chapter="Charming Village Of Brule" data-kind="story"></span>
 
 
 CHARMING VILLAGE OF BRULE
@@ -4916,7 +4916,7 @@ When we had gone some way, clattering through the dust, and were well on on the 
 
 
 
-<span class="atom-split" data-atom="story_70_story_of_the_great_barrel" data-title="The Path to Rome — Story Of The Great Barrel" data-chapter="Story 70 Story Of The Great Barrel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_70_story_of_the_great_barrel" data-title="The Path to Rome — Story Of The Great Barrel" data-chapter="Story Of The Great Barrel" data-kind="story"></span>
 
 
 STORY OF THE GREAT BARREL
@@ -4938,7 +4938,7 @@ There was one guttering candle on a little stool. The roof of the shed was lost 
 
 
 
-<span class="atom-split" data-atom="story_71_the_lake_of_the_moselle" data-title="The Path to Rome — The Lake Of The Moselle" data-chapter="Story 71 The Lake Of The Moselle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_71_the_lake_of_the_moselle" data-title="The Path to Rome — The Lake Of The Moselle" data-chapter="The Lake Of The Moselle" data-kind="story"></span>
 
 
 THE LAKE OF THE MOSELLE
@@ -4958,7 +4958,7 @@ This was a place I remembered very well. The rising river of Lorraine is
 
 
 
-<span class="atom-split" data-atom="story_72_the_coming_of_evening" data-title="The Path to Rome — The Coming Of Evening" data-chapter="Story 72 The Coming Of Evening" data-kind="story"></span>
+<span class="atom-split" data-atom="story_72_the_coming_of_evening" data-title="The Path to Rome — The Coming Of Evening" data-chapter="The Coming Of Evening" data-kind="story"></span>
 
 
 THE COMING OF EVENING
@@ -4974,7 +4974,7 @@ The peasants sat outside their houses in the twilight accepting the cool air; ev
 
 
 
-<span class="atom-split" data-atom="story_73_the_night_in_the_forest" data-title="The Path to Rome — The Night In The Forest" data-chapter="Story 73 The Night In The Forest" data-kind="story"></span>
+<span class="atom-split" data-atom="story_73_the_night_in_the_forest" data-title="The Path to Rome — The Night In The Forest" data-chapter="The Night In The Forest" data-kind="story"></span>
 
 
 THE NIGHT IN THE FOREST
@@ -4990,7 +4990,7 @@ Then a little wind passed over the vast forests of Lorraine. It seemed to wake a
 
 
 
-<span class="atom-split" data-atom="story_74_the_unhappy_village" data-title="The Path to Rome — The Unhappy Village" data-chapter="Story 74 The Unhappy Village" data-kind="story"></span>
+<span class="atom-split" data-atom="story_74_the_unhappy_village" data-title="The Path to Rome — The Unhappy Village" data-chapter="The Unhappy Village" data-kind="story"></span>
 
 
 THE UNHAPPY VILLAGE
@@ -5012,7 +5012,7 @@ Anyway Villey the Dry is a fort, and there my four brothers were going. It was m
 
 
 
-<span class="atom-split" data-atom="story_75_the_cry_for_a_bed" data-title="The Path to Rome — The Cry For A Bed" data-chapter="Story 75 The Cry For A Bed" data-kind="story"></span>
+<span class="atom-split" data-atom="story_75_the_cry_for_a_bed" data-title="The Path to Rome — The Cry For A Bed" data-chapter="The Cry For A Bed" data-kind="story"></span>
 
 
 THE CRY FOR A BED
@@ -5030,7 +5030,7 @@ I crossed the bridge, being now much too weary to notice anything, even the shad
 
 
 
-<span class="atom-split" data-atom="story_76_the_full_curse" data-title="The Path to Rome — The Full Curse" data-chapter="Story 76 The Full Curse" data-kind="story"></span>
+<span class="atom-split" data-atom="story_76_the_full_curse" data-title="The Path to Rome — The Full Curse" data-chapter="The Full Curse" data-kind="story"></span>
 
 
 THE FULL CURSE
@@ -5048,7 +5048,7 @@ I did not lie awake (as when I planned my pilgrimage I had promised myself I wou
 
 
 
-<span class="atom-split" data-atom="story_77_on_breakfasts" data-title="The Path to Rome — On Breakfasts" data-chapter="Story 77 On Breakfasts" data-kind="story"></span>
+<span class="atom-split" data-atom="story_77_on_breakfasts" data-title="The Path to Rome — On Breakfasts" data-chapter="On Breakfasts" data-kind="story"></span>
 
 
 ON BREAKFASTS
@@ -5066,7 +5066,7 @@ As it was, I lit a pipe of tobacco and hobbled blindly along for miles under and
 
 
 
-<span class="atom-split" data-atom="story_78_the_further_valley" data-title="The Path to Rome — The Further Valley" data-chapter="Story 78 The Further Valley" data-kind="story"></span>
+<span class="atom-split" data-atom="story_78_the_further_valley" data-title="The Path to Rome — The Further Valley" data-chapter="The Further Valley" data-kind="story"></span>
 
 
 THE FURTHER VALLEY
@@ -5084,7 +5084,7 @@ As I came into Flavigny I saw at once that it was a place on which a book might 
 
 
 
-<span class="atom-split" data-atom="story_79_how_to_write_rhymes" data-title="The Path to Rome — How To Write Rhymes" data-chapter="Story 79 How To Write Rhymes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_79_how_to_write_rhymes" data-title="The Path to Rome — How To Write Rhymes" data-chapter="How To Write Rhymes" data-kind="story"></span>
 
 
 HOW TO WRITE RHYMES
@@ -5110,7 +5110,7 @@ Flavigny then, I say (for I seem to be digressing), is a long street of houses a
 
 
 
-<span class="atom-split" data-atom="story_80_the_hay_making_nuns" data-title="The Path to Rome — The Hay-Making Nuns" data-chapter="Story 80 The Hay Making Nuns" data-kind="story"></span>
+<span class="atom-split" data-atom="story_80_the_hay_making_nuns" data-title="The Path to Rome — The Hay-Making Nuns" data-chapter="The Hay Making Nuns" data-kind="story"></span>
 
 
 THE HAY-MAKING NUNS
@@ -5128,7 +5128,7 @@ It is a matter often discussed why bakers are such excellent citizens and good m
 
 
 
-<span class="atom-split" data-atom="story_81_the_value_of_bakers" data-title="The Path to Rome — The Value Of Bakers" data-chapter="Story 81 The Value Of Bakers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_81_the_value_of_bakers" data-title="The Path to Rome — The Value Of Bakers" data-chapter="The Value Of Bakers" data-kind="story"></span>
 
 
 THE VALUE OF BAKERS
@@ -5146,7 +5146,7 @@ Then, a mile onward, I saw the road cross the canal and run parallel to it. I
 
 
 
-<span class="atom-split" data-atom="story_82_the_heat_of_morning" data-title="The Path to Rome — The Heat Of Morning" data-chapter="Story 82 The Heat Of Morning" data-kind="story"></span>
+<span class="atom-split" data-atom="story_82_the_heat_of_morning" data-title="The Path to Rome — The Heat Of Morning" data-chapter="The Heat Of Morning" data-kind="story"></span>
 
 
 THE HEAT OF MORNING
@@ -5168,7 +5168,7 @@ This comfort I ascribe to four causes (just above you will find it written that 
 
 
 
-<span class="atom-split" data-atom="story_83_the_morning_mass" data-title="The Path to Rome — The Morning Mass" data-chapter="Story 83 The Morning Mass" data-kind="story"></span>
+<span class="atom-split" data-atom="story_83_the_morning_mass" data-title="The Path to Rome — The Morning Mass" data-chapter="The Morning Mass" data-kind="story"></span>
 
 
 THE MORNING MASS
@@ -5194,7 +5194,7 @@ Now in the morning Mass you do all that the race needs to do and has done for al
 
 
 
-<span class="atom-split" data-atom="story_84_the_sensible_squire" data-title="The Path to Rome — The Sensible Squire" data-chapter="Story 84 The Sensible Squire" data-kind="story"></span>
+<span class="atom-split" data-atom="story_84_the_sensible_squire" data-title="The Path to Rome — The Sensible Squire" data-chapter="The Sensible Squire" data-kind="story"></span>
 
 
 THE SENSIBLE SQUIRE
@@ -5212,7 +5212,7 @@ Everything happened just as she had said. I came to the big shed by the park wal
 
 
 
-<span class="atom-split" data-atom="story_85_the_last_mile" data-title="The Path to Rome — The Last Mile" data-chapter="Story 85 The Last Mile" data-kind="story"></span>
+<span class="atom-split" data-atom="story_85_the_last_mile" data-title="The Path to Rome — The Last Mile" data-chapter="The Last Mile" data-kind="story"></span>
 
 
 THE LAST MILE
@@ -5230,7 +5230,7 @@ First on the tow-path, then on the road, then on the grass, then back on the
 
 
 
-<span class="atom-split" data-atom="story_86_charmes" data-title="The Path to Rome — Charmes" data-chapter="Story 86 Charmes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_86_charmes" data-title="The Path to Rome — Charmes" data-chapter="Charmes" data-kind="story"></span>
 
 
 CHARMES
@@ -5248,7 +5248,7 @@ But the wonderful thing about a name like Charmes is that it hands down the dead
 
 
 
-<span class="atom-split" data-atom="story_87_nature_of_tempting_devils" data-title="The Path to Rome — Nature Of Tempting Devils" data-chapter="Story 87 Nature Of Tempting Devils" data-kind="story"></span>
+<span class="atom-split" data-atom="story_87_nature_of_tempting_devils" data-title="The Path to Rome — Nature Of Tempting Devils" data-chapter="Nature Of Tempting Devils" data-kind="story"></span>
 
 
 NATURE OF TEMPTING DEVILS
@@ -5278,7 +5278,7 @@ Then I looked down from the bridge across the plain, and saw, a long way off bey
 
 
 
-<span class="atom-split" data-atom="story_88_of_mountain_towns" data-title="The Path to Rome — Of Mountain Towns" data-chapter="Story 88 Of Mountain Towns" data-kind="story"></span>
+<span class="atom-split" data-atom="story_88_of_mountain_towns" data-title="The Path to Rome — Of Mountain Towns" data-chapter="Of Mountain Towns" data-kind="story"></span>
 
 
 OF MOUNTAIN TOWNS
@@ -5294,7 +5294,7 @@ For in such towns three quite different kinds of men meet. First there are the o
 
 
 
-<span class="atom-split" data-atom="story_89_epinal_church" data-title="The Path to Rome — Epinal Church" data-chapter="Story 89 Epinal Church" data-kind="story"></span>
+<span class="atom-split" data-atom="story_89_epinal_church" data-title="The Path to Rome — Epinal Church" data-chapter="Epinal Church" data-kind="story"></span>
 
 
 EPINAL CHURCH
@@ -5312,7 +5312,7 @@ Thus the transept is simply an old square barn of rough stone, older, I suppose,
 
 
 
-<span class="atom-split" data-atom="story_90_the_apple_man" data-title="The Path to Rome — The Apple Man" data-chapter="Story 90 The Apple Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_90_the_apple_man" data-title="The Path to Rome — The Apple Man" data-chapter="The Apple Man" data-kind="story"></span>
 
 
 THE APPLE MAN
@@ -5338,7 +5338,7 @@ Indeed the people of Épinal, not taking me for a traveller but simply for a wan
 
 
 
-<span class="atom-split" data-atom="story_91_the_little_runnel" data-title="The Path to Rome — The Little Runnel" data-chapter="Story 91 The Little Runnel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_91_the_little_runnel" data-title="The Path to Rome — The Little Runnel" data-chapter="The Little Runnel" data-kind="story"></span>
 
 
 THE LITTLE RUNNEL
@@ -5362,7 +5362,7 @@ It was an old man in a valley called the Curicante in Colorado that taught me th
 
 
 
-<span class="atom-split" data-atom="story_92_the_false" data-title="The Path to Rome — The False" data-chapter="Story 92 The False" data-kind="story"></span>
+<span class="atom-split" data-atom="story_92_the_false" data-title="The Path to Rome — The False" data-chapter="The False" data-kind="story"></span>
 
 
 THE FALSE
@@ -5381,7 +5381,7 @@ As this was the first really great height, so this was the first really great vi
 
 
 
-<span class="atom-split" data-atom="story_93_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="Story 93 The Great View" data-kind="story"></span>
+<span class="atom-split" data-atom="story_93_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="The Great View" data-kind="story"></span>
 
 
 THE GREAT VIEW
@@ -5405,7 +5405,7 @@ I say it roundly; if it were not for the punctiliousness of the middle-class in 
 
 
 
-<span class="atom-split" data-atom="story_94_apology_for_the_middle_class" data-title="The Path to Rome — Apology For The Middle-Class" data-chapter="Story 94 Apology For The Middle Class" data-kind="story"></span>
+<span class="atom-split" data-atom="story_94_apology_for_the_middle_class" data-title="The Path to Rome — Apology For The Middle-Class" data-chapter="Apology For The Middle Class" data-kind="story"></span>
 
 
 APOLOGY FOR THE MIDDLE-CLASS
@@ -5429,7 +5429,7 @@ I took great care to pay for my glass of white wine before dinner with a bank-no
 
 
 
-<span class="atom-split" data-atom="story_95_of_dormitory_trees" data-title="The Path to Rome — Of Dormitory Trees" data-chapter="Story 95 Of Dormitory Trees" data-kind="story"></span>
+<span class="atom-split" data-atom="story_95_of_dormitory_trees" data-title="The Path to Rome — Of Dormitory Trees" data-chapter="Of Dormitory Trees" data-kind="story"></span>
 
 
 OF DORMITORY TREES
@@ -5459,7 +5459,7 @@ Here was a warm place under the pines where I could rest in great comfort on pin
 
 
 
-<span class="atom-split" data-atom="story_96_the_dawn" data-title="The Path to Rome — The Dawn" data-chapter="Story 96 The Dawn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_96_the_dawn" data-title="The Path to Rome — The Dawn" data-chapter="The Dawn" data-kind="story"></span>
 
 
 THE [[Dawn|DAWN]]
@@ -5479,7 +5479,7 @@ At this wonderful sight I gazed for quite half-an-hour without moving, and took 
 
 
 
-<span class="atom-split" data-atom="story_97_the_special_chapels" data-title="The Path to Rome — The Special Chapels" data-chapter="Story 97 The Special Chapels" data-kind="story"></span>
+<span class="atom-split" data-atom="story_97_the_special_chapels" data-title="The Path to Rome — The Special Chapels" data-chapter="The Special Chapels" data-kind="story"></span>
 
 
 THE SPECIAL CHAPELS
@@ -5495,7 +5495,7 @@ again there were present here and there on the spurs lonely chapels, and these i
 
 
 
-<span class="atom-split" data-atom="story_98_on_local_names" data-title="The Path to Rome — On Local Names" data-chapter="Story 98 On Local Names" data-kind="story"></span>
+<span class="atom-split" data-atom="story_98_on_local_names" data-title="The Path to Rome — On Local Names" data-chapter="On Local Names" data-kind="story"></span>
 
 
 ON LOCAL NAMES
@@ -5521,7 +5521,7 @@ All this upper corner of the valley is a garden. It is bound in on every side
 
 
 
-<span class="atom-split" data-atom="story_99_the_youth_of_rivers" data-title="The Path to Rome — The Youth Of Rivers" data-chapter="Story 99 The Youth Of Rivers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_99_the_youth_of_rivers" data-title="The Path to Rome — The Youth Of Rivers" data-chapter="The Youth Of Rivers" data-kind="story"></span>
 
 
 THE YOUTH OF RIVERS
@@ -5537,7 +5537,7 @@ It was my delight to lie upon a bank of the road and to draw what I saw before m
 
 
 
-<span class="atom-split" data-atom="story_100_the_pious_woman" data-title="The Path to Rome — The Pious Woman" data-chapter="Story 100 The Pious Woman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_100_the_pious_woman" data-title="The Path to Rome — The Pious Woman" data-chapter="The Pious Woman" data-kind="story"></span>
 
 
 THE PIOUS WOMAN
@@ -5567,7 +5567,7 @@ He said there were seven.
 
 
 
-<span class="atom-split" data-atom="story_101_the_jews_in_the_hills" data-title="The Path to Rome — The Jews In The Hills" data-chapter="Story 101 The Jews In The Hills" data-kind="story"></span>
+<span class="atom-split" data-atom="story_101_the_jews_in_the_hills" data-title="The Path to Rome — The Jews In The Hills" data-chapter="The Jews In The Hills" data-kind="story"></span>
 
 
 THE JEWS IN THE HILLS
@@ -5587,7 +5587,7 @@ I was now arrived at the head of this lovely vale, at the sources of the river M
 
 
 
-<span class="atom-split" data-atom="story_102_the_ballon_dalsace" data-title="The Path to Rome — The Ballon D’Alsace" data-chapter="Story 102 The Ballon DAlsace" data-kind="story"></span>
+<span class="atom-split" data-atom="story_102_the_ballon_dalsace" data-title="The Path to Rome — The Ballon D’Alsace" data-chapter="The Ballon DAlsace" data-kind="story"></span>
 
 
 THE BALLON D’ALSACE
@@ -5605,7 +5605,7 @@ I would not be bound by the exaggerated zig-zags of the road, which had been bui
 
 
 
-<span class="atom-split" data-atom="story_103_the_inner_darkness" data-title="The Path to Rome — The Inner Darkness" data-chapter="Story 103 The Inner Darkness" data-kind="story"></span>
+<span class="atom-split" data-atom="story_103_the_inner_darkness" data-title="The Path to Rome — The Inner Darkness" data-chapter="The Inner Darkness" data-kind="story"></span>
 
 
 THE INNER DARKNESS
@@ -5621,7 +5621,7 @@ When I came to the edge of this haunted forest it ceased as suddenly as it had b
 
 
 
-<span class="atom-split" data-atom="story_104_the_knot_of_europe" data-title="The Path to Rome — The Knot Of Europe" data-chapter="Story 104 The Knot Of Europe" data-kind="story"></span>
+<span class="atom-split" data-atom="story_104_the_knot_of_europe" data-title="The Path to Rome — The Knot Of Europe" data-chapter="The Knot Of Europe" data-kind="story"></span>
 
 
 THE KNOT OF EUROPE
@@ -5643,7 +5643,7 @@ It was an inn. The door opened of itself, and I found there a pleasant woman of 
 
 
 
-<span class="atom-split" data-atom="story_105_the_common_faith" data-title="The Path to Rome — The Common Faith" data-chapter="Story 105 The Common Faith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_105_the_common_faith" data-title="The Path to Rome — The Common Faith" data-chapter="The Common Faith" data-kind="story"></span>
 
 
 THE COMMON [[Faith|FAITH]]
@@ -5669,7 +5669,7 @@ She was of a very different sort from that good tribe of the Moselle valley beyo
 
 
 
-<span class="atom-split" data-atom="story_106_the_single_beverage" data-title="The Path to Rome — The Single Beverage" data-chapter="Story 106 The Single Beverage" data-kind="story"></span>
+<span class="atom-split" data-atom="story_106_the_single_beverage" data-title="The Path to Rome — The Single Beverage" data-chapter="The Single Beverage" data-kind="story"></span>
 
 
 THE SINGLE BEVERAGE
@@ -5709,7 +5709,7 @@ In good-nights they had a ceremony; for they all rose together and curtsied. Upo
 
 
 
-<span class="atom-split" data-atom="story_107_the_track_to_switzerland" data-title="The Path to Rome — The Track To Switzerland" data-chapter="Story 107 The Track To Switzerland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_107_the_track_to_switzerland" data-title="The Path to Rome — The Track To Switzerland" data-chapter="The Track To Switzerland" data-kind="story"></span>
 
 
 THE TRACK TO SWITZERLAND
@@ -5733,7 +5733,7 @@ From Portrut, by picking one’s way through forests, up steep banks, over open 
 
 
 
-<span class="atom-split" data-atom="story_108_the_secluded_valley" data-title="The Path to Rome — The Secluded Valley" data-chapter="Story 108 The Secluded Valley" data-kind="story"></span>
+<span class="atom-split" data-atom="story_108_the_secluded_valley" data-title="The Path to Rome — The Secluded Valley" data-chapter="The Secluded Valley" data-kind="story"></span>
 
 
 THE SECLUDED VALLEY
@@ -5751,7 +5751,7 @@ I wandered down the mountain. A little secret path, one of many, saved me the lo
 
 
 
-<span class="atom-split" data-atom="story_109_the_many_priests" data-title="The Path to Rome — The Many Priests" data-chapter="Story 109 The Many Priests" data-kind="story"></span>
+<span class="atom-split" data-atom="story_109_the_many_priests" data-title="The Path to Rome — The Many Priests" data-chapter="The Many Priests" data-kind="story"></span>
 
 
 THE MANY PRIESTS
@@ -5775,7 +5775,7 @@ AUCTOR. So be it. Then if you will hear nothing of what interests me, I see no r
 
 
 
-<span class="atom-split" data-atom="story_110_the_great_garrisons" data-title="The Path to Rome — The Great Garrisons" data-chapter="Story 110 The Great Garrisons" data-kind="story"></span>
+<span class="atom-split" data-atom="story_110_the_great_garrisons" data-title="The Path to Rome — The Great Garrisons" data-chapter="The Great Garrisons" data-kind="story"></span>
 
 
 THE GREAT GARRISONS
@@ -5803,7 +5803,7 @@ That was true enough, and it explained a great deal. But it did not explain how 
 
 
 
-<span class="atom-split" data-atom="story_111_on_building_bridges" data-title="The Path to Rome — On Building Bridges" data-chapter="Story 111 On Building Bridges" data-kind="story"></span>
+<span class="atom-split" data-atom="story_111_on_building_bridges" data-title="The Path to Rome — On Building Bridges" data-chapter="On Building Bridges" data-kind="story"></span>
 
 
 ON BUILDING BRIDGES
@@ -5831,7 +5831,7 @@ There is also in Belfort a great lion carved in rock to commemorate the siege of
 
 
 
-<span class="atom-split" data-atom="story_112_the_sad_economists" data-title="The Path to Rome — The Sad Economists" data-chapter="Story 112 The Sad Economists" data-kind="story"></span>
+<span class="atom-split" data-atom="story_112_the_sad_economists" data-title="The Path to Rome — The Sad Economists" data-chapter="The Sad Economists" data-kind="story"></span>
 
 
 THE SAD ECONOMISTS
@@ -5851,7 +5851,7 @@ To most people there is nothing more subtle or pleasing in a powder-magazine tha
 
 
 
-<span class="atom-split" data-atom="story_113_the_powder_magazine" data-title="The Path to Rome — The Powder-Magazine" data-chapter="Story 113 The Powder Magazine" data-kind="story"></span>
+<span class="atom-split" data-atom="story_113_the_powder_magazine" data-title="The Path to Rome — The Powder-Magazine" data-chapter="The Powder Magazine" data-kind="story"></span>
 
 
 THE POWDER-MAGAZINE
@@ -5877,7 +5877,7 @@ I thought it a good opportunity for recollection, and sitting down, I looked bac
 
 
 
-<span class="atom-split" data-atom="story_114_the_last_of_the_vosges" data-title="The Path to Rome — The Last Of The Vosges" data-chapter="Story 114 The Last Of The Vosges" data-kind="story"></span>
+<span class="atom-split" data-atom="story_114_the_last_of_the_vosges" data-title="The Path to Rome — The Last Of The Vosges" data-chapter="The Last Of The Vosges" data-kind="story"></span>
 
 
 THE LAST OF THE VOSGES
@@ -5897,7 +5897,7 @@ The marshy valley kept its character when I had left the lane and regained
 
 
 
-<span class="atom-split" data-atom="story_115_what_is_the_soul" data-title="The Path to Rome — What Is The Soul?" data-chapter="Story 115 What Is The Soul" data-kind="story"></span>
+<span class="atom-split" data-atom="story_115_what_is_the_soul" data-title="The Path to Rome — What Is The Soul?" data-chapter="What Is The Soul" data-kind="story"></span>
 
 
 WHAT IS THE SOUL?
@@ -5915,7 +5915,7 @@ But when it comes to the immortal mind, the good spirit in me that is so cunning
 
 
 
-<span class="atom-split" data-atom="story_116_disaster_of_the_wine" data-title="The Path to Rome — Disaster Of The Wine" data-chapter="Story 116 Disaster Of The Wine" data-kind="story"></span>
+<span class="atom-split" data-atom="story_116_disaster_of_the_wine" data-title="The Path to Rome — Disaster Of The Wine" data-chapter="Disaster Of The Wine" data-kind="story"></span>
 
 
 DISASTER OF THE WINE
@@ -5941,7 +5941,7 @@ This book would never end if I were to attempt to write down so much as the name
 
 
 
-<span class="atom-split" data-atom="story_117_the_phocean" data-title="The Path to Rome — The Phocean" data-chapter="Story 117 The Phocean" data-kind="story"></span>
+<span class="atom-split" data-atom="story_117_the_phocean" data-title="The Path to Rome — The Phocean" data-chapter="The Phocean" data-kind="story"></span>
 
 
 THE PHOCEAN
@@ -5967,7 +5967,7 @@ He was also kindly, for I found afterwards that he had arranged with the host to
 
 
 
-<span class="atom-split" data-atom="story_118_the_new_country" data-title="The Path to Rome — The New Country" data-chapter="Story 118 The New Country" data-kind="story"></span>
+<span class="atom-split" data-atom="story_118_the_new_country" data-title="The Path to Rome — The New Country" data-chapter="The New Country" data-kind="story"></span>
 
 
 THE NEW COUNTRY
@@ -5991,7 +5991,7 @@ AUCTOR. Let me explain. There is a race that stretches vaguely, without
 
 
 
-<span class="atom-split" data-atom="story_119_de_germania" data-title="The Path to Rome — De Germania" data-chapter="Story 119 De Germania" data-kind="story"></span>
+<span class="atom-split" data-atom="story_119_de_germania" data-title="The Path to Rome — De Germania" data-chapter="De Germania" data-kind="story"></span>
 
 
 DE GERMANIA
@@ -6009,7 +6009,7 @@ The German spirit is a marvel. There lay Porrentruy. An odd door with Gothic tur
 
 
 
-<span class="atom-split" data-atom="story_120_the_astounding_wine" data-title="The Path to Rome — The Astounding Wine" data-chapter="Story 120 The Astounding Wine" data-kind="story"></span>
+<span class="atom-split" data-atom="story_120_the_astounding_wine" data-title="The Path to Rome — The Astounding Wine" data-chapter="The Astounding Wine" data-kind="story"></span>
 
 
 THE ASTOUNDING WINE
@@ -6033,7 +6033,7 @@ Could this book be infinite, as my voyage was infinite, I would tell you about t
 
 
 
-<span class="atom-split" data-atom="story_121_the_erroneous_anarchist" data-title="The Path to Rome — The Erroneous Anarchist" data-chapter="Story 121 The Erroneous Anarchist" data-kind="story"></span>
+<span class="atom-split" data-atom="story_121_the_erroneous_anarchist" data-title="The Path to Rome — The Erroneous Anarchist" data-chapter="The Erroneous Anarchist" data-kind="story"></span>
 
 
 THE ERRONEOUS ANARCHIST
@@ -6055,7 +6055,7 @@ AUCTOR. Neither am I. It is but the backwash of a wave ... Well, then, I went up
 
 
 
-<span class="atom-split" data-atom="story_122_the_mount_terrible" data-title="The Path to Rome — The Mount Terrible" data-chapter="Story 122 The Mount Terrible" data-kind="story"></span>
+<span class="atom-split" data-atom="story_122_the_mount_terrible" data-title="The Path to Rome — The Mount Terrible" data-chapter="The Mount Terrible" data-kind="story"></span>
 
 
 THE MOUNT TERRIBLE
@@ -6073,7 +6073,7 @@ When I had climbed almost to the top, I looked behind me to take my last view of
 
 
 
-<span class="atom-split" data-atom="story_123_the_bent_windows" data-title="The Path to Rome — The Bent Windows" data-chapter="Story 123 The Bent Windows" data-kind="story"></span>
+<span class="atom-split" data-atom="story_123_the_bent_windows" data-title="The Path to Rome — The Bent Windows" data-chapter="The Bent Windows" data-kind="story"></span>
 
 
 THE BENT WINDOWS
@@ -6095,7 +6095,7 @@ AUCTOR. Little friend, how little you know! To a building windows are everything
 
 
 
-<span class="atom-split" data-atom="story_124_praise_of_windows" data-title="The Path to Rome — Praise Of Windows" data-chapter="Story 124 Praise Of Windows" data-kind="story"></span>
+<span class="atom-split" data-atom="story_124_praise_of_windows" data-title="The Path to Rome — Praise Of Windows" data-chapter="Praise Of Windows" data-kind="story"></span>
 
 
 PRAISE OF WINDOWS
@@ -6113,7 +6113,7 @@ Never ridicule windows. It is out of windows that many fall to their deaths. By 
 
 
 
-<span class="atom-split" data-atom="story_125_gorge_of_the_doubs" data-title="The Path to Rome — Gorge Of The Doubs" data-chapter="Story 125 Gorge Of The Doubs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_125_gorge_of_the_doubs" data-title="The Path to Rome — Gorge Of The Doubs" data-chapter="Gorge Of The Doubs" data-kind="story"></span>
 
 
 GORGE OF THE DOUBS
@@ -6133,7 +6133,7 @@ In the map the small white ‘A’ shows where the railway bridge was, and in th
 
 
 
-<span class="atom-split" data-atom="story_126_the_tempting_bridge" data-title="The Path to Rome — The Tempting Bridge" data-chapter="Story 126 The Tempting Bridge" data-kind="story"></span>
+<span class="atom-split" data-atom="story_126_the_tempting_bridge" data-title="The Path to Rome — The Tempting Bridge" data-chapter="The Tempting Bridge" data-kind="story"></span>
 
 
 THE TEMPTING BRIDGE
@@ -6153,7 +6153,7 @@ I had not been engaged upon it a dozen yards when I was seized with terror.
 
 
 
-<span class="atom-split" data-atom="story_127_the_dreadful_bridge" data-title="The Path to Rome — The Dreadful Bridge" data-chapter="Story 127 The Dreadful Bridge" data-kind="story"></span>
+<span class="atom-split" data-atom="story_127_the_dreadful_bridge" data-title="The Path to Rome — The Dreadful Bridge" data-chapter="The Dreadful Bridge" data-kind="story"></span>
 
 
 THE DREADFUL BRIDGE
@@ -6171,7 +6171,7 @@ At any rate at this last supreme part I vowed one candle to Our Lady of Perpetua
 
 
 
-<span class="atom-split" data-atom="story_128_safety_beyond" data-title="The Path to Rome — Safety Beyond" data-chapter="Story 128 Safety Beyond" data-kind="story"></span>
+<span class="atom-split" data-atom="story_128_safety_beyond" data-title="The Path to Rome — Safety Beyond" data-chapter="Safety Beyond" data-kind="story"></span>
 
 
 SAFETY BEYOND
@@ -6191,7 +6191,7 @@ But when I came to it, it was not easy. The wood grew in loose rocks and the slo
 
 
 
-<span class="atom-split" data-atom="story_129_the_common_field" data-title="The Path to Rome — The Common Field" data-chapter="Story 129 The Common Field" data-kind="story"></span>
+<span class="atom-split" data-atom="story_129_the_common_field" data-title="The Path to Rome — The Common Field" data-chapter="The Common Field" data-kind="story"></span>
 
 
 THE COMMON FIELD
@@ -6211,7 +6211,7 @@ It was a very glad surprise to see this sight suddenly unrolled as I stood on th
 
 
 
-<span class="atom-split" data-atom="story_130_the_human_tide" data-title="The Path to Rome — The Human Tide" data-chapter="Story 130 The Human Tide" data-kind="story"></span>
+<span class="atom-split" data-atom="story_130_the_human_tide" data-title="The Path to Rome — The Human Tide" data-chapter="The Human Tide" data-kind="story"></span>
 
 
 THE HUMAN TIDE
@@ -6235,7 +6235,7 @@ AUCTOR. Who else can give benedictions if people cannot when they are on pilgrim
 
 
 
-<span class="atom-split" data-atom="story_131_theory_of_blessings" data-title="The Path to Rome — Theory Of Blessings" data-chapter="Story 131 Theory Of Blessings" data-kind="story"></span>
+<span class="atom-split" data-atom="story_131_theory_of_blessings" data-title="The Path to Rome — Theory Of Blessings" data-chapter="Theory Of Blessings" data-kind="story"></span>
 
 
 THEORY OF BLESSINGS
@@ -6261,7 +6261,7 @@ So I entered the ‘Sun’ inn and saw there a woman sewing, a great dull-faced 
 
 
 
-<span class="atom-split" data-atom="story_132_the_rude_peasants" data-title="The Path to Rome — The Rude Peasants" data-chapter="Story 132 The Rude Peasants" data-kind="story"></span>
+<span class="atom-split" data-atom="story_132_the_rude_peasants" data-title="The Path to Rome — The Rude Peasants" data-chapter="The Rude Peasants" data-kind="story"></span>
 
 
 THE RUDE PEASANTS
@@ -6299,7 +6299,7 @@ I knew a man once that was given to drinking, and I made up this rule for him to
 
 
 
-<span class="atom-split" data-atom="story_133_literal_vow" data-title="The Path to Rome — Literal Vow" data-chapter="Story 133 Literal Vow" data-kind="story"></span>
+<span class="atom-split" data-atom="story_133_literal_vow" data-title="The Path to Rome — Literal Vow" data-chapter="Literal Vow" data-kind="story"></span>
 
 
 LITERAL VOW
@@ -6321,7 +6321,7 @@ A cigar is, however, even in Undervelier, a cigar; and the best cost a penny. On
 
 
 
-<span class="atom-split" data-atom="story_134_on_the_faith" data-title="The Path to Rome — On The Faith" data-chapter="Story 134 On The Faith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_134_on_the_faith" data-title="The Path to Rome — On The Faith" data-chapter="On The Faith" data-kind="story"></span>
 
 
 ON THE [[Faith|FAITH]]
@@ -6341,7 +6341,7 @@ My whole mind was taken up and transfigured by this collective act, and I saw fo
 
 
 
-<span class="atom-split" data-atom="story_135_still_on_faith" data-title="The Path to Rome — Still On Faith" data-chapter="Story 135 Still On Faith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_135_still_on_faith" data-title="The Path to Rome — Still On Faith" data-chapter="Still On Faith" data-kind="story"></span>
 
 
 STILL ON [[Faith|FAITH]]
@@ -6365,7 +6365,7 @@ There was to be no more of that studious content, that security in historic anal
 
 
 
-<span class="atom-split" data-atom="story_136_on_style" data-title="The Path to Rome — On Style" data-chapter="Story 136 On Style" data-kind="story"></span>
+<span class="atom-split" data-atom="story_136_on_style" data-title="The Path to Rome — On Style" data-chapter="On Style" data-kind="story"></span>
 
 
 ON STYLE
@@ -6389,7 +6389,7 @@ Oh, for one man who should write healthy, hearty, straightforward English! Oh, f
 
 
 
-<span class="atom-split" data-atom="story_137_the_german" data-title="The Path to Rome — The German" data-chapter="Story 137 The German" data-kind="story"></span>
+<span class="atom-split" data-atom="story_137_the_german" data-title="The Path to Rome — The German" data-chapter="The German" data-kind="story"></span>
 
 
 THE GERMAN
@@ -6419,7 +6419,7 @@ I then thought what a fine fellow I was, and how pleasant were my friends when I
 
 
 
-<span class="atom-split" data-atom="story_138_heretics" data-title="The Path to Rome — Heretics" data-chapter="Story 138 Heretics" data-kind="story"></span>
+<span class="atom-split" data-atom="story_138_heretics" data-title="The Path to Rome — Heretics" data-chapter="Heretics" data-kind="story"></span>
 
 
 HERETICS
@@ -6451,7 +6451,7 @@ There is a school of Poets (I cannot read them myself) who treat of common thing
 
 
 
-<span class="atom-split" data-atom="story_139_everyday_life_horrors_thereof" data-title="The Path to Rome — Everyday Life, Horrors Thereof" data-chapter="Story 139 Everyday Life Horrors Thereof" data-kind="story"></span>
+<span class="atom-split" data-atom="story_139_everyday_life_horrors_thereof" data-title="The Path to Rome — Everyday Life, Horrors Thereof" data-chapter="Everyday Life Horrors Thereof" data-kind="story"></span>
 
 
 EVERYDAY LIFE, HORRORS THEREOF
@@ -6489,7 +6489,7 @@ AUCTOR. Indeed, yes.
 
 
 
-<span class="atom-split" data-atom="story_140_plays_without_words" data-title="The Path to Rome — Plays Without Words" data-chapter="Story 140 Plays Without Words" data-kind="story"></span>
+<span class="atom-split" data-atom="story_140_plays_without_words" data-title="The Path to Rome — Plays Without Words" data-chapter="Plays Without Words" data-kind="story"></span>
 
 
 PLAYS WITHOUT WORDS
@@ -6519,7 +6519,7 @@ AUCTOR. Well, it was a short play and modern, was it not?
 
 
 
-<span class="atom-split" data-atom="story_141_the_acolyte_of_rheims" data-title="The Path to Rome — The Acolyte Of Rheims" data-chapter="Story 141 The Acolyte Of Rheims" data-kind="story"></span>
+<span class="atom-split" data-atom="story_141_the_acolyte_of_rheims" data-title="The Path to Rome — The Acolyte Of Rheims" data-chapter="The Acolyte Of Rheims" data-kind="story"></span>
 
 
 THE ACOLYTE OF RHEIMS
@@ -6543,7 +6543,7 @@ The boy then taking a little lamb which happened to be in the drawing-room, said
 
 
 
-<span class="atom-split" data-atom="story_142_the_mills_of_god" data-title="The Path to Rome — The Mills Of God" data-chapter="Story 142 The Mills Of God" data-kind="story"></span>
+<span class="atom-split" data-atom="story_142_the_mills_of_god" data-title="The Path to Rome — The Mills Of God" data-chapter="The Mills Of God" data-kind="story"></span>
 
 
 THE MILLS OF GOD
@@ -6569,7 +6569,7 @@ Then I went out into the sunlight, and crossing over running water put myself ou
 
 
 
-<span class="atom-split" data-atom="story_143_between_the_trees" data-title="The Path to Rome — Between The Trees" data-chapter="Story 143 Between The Trees" data-kind="story"></span>
+<span class="atom-split" data-atom="story_143_between_the_trees" data-title="The Path to Rome — Between The Trees" data-chapter="Between The Trees" data-kind="story"></span>
 
 
 BETWEEN THE TREES
@@ -6593,7 +6593,7 @@ What was it I saw? If you think I saw this or that, and if you think I am invent
 
 
 
-<span class="atom-split" data-atom="story_144_the_vision_of_the_alps" data-title="The Path to Rome — The Vision Of The Alps" data-chapter="Story 144 The Vision Of The Alps" data-kind="story"></span>
+<span class="atom-split" data-atom="story_144_the_vision_of_the_alps" data-title="The Path to Rome — The Vision Of The Alps" data-chapter="The Vision Of The Alps" data-kind="story"></span>
 
 
 THE VISION OF THE ALPS
@@ -6615,7 +6615,7 @@ Their sharp steadfastness and their clean uplifted lines compelled my
 
 
 
-<span class="atom-split" data-atom="story_145_the_alps_their_picture" data-title="The Path to Rome — The Alps, Their Picture" data-chapter="Story 145 The Alps Their Picture" data-kind="story"></span>
+<span class="atom-split" data-atom="story_145_the_alps_their_picture" data-title="The Path to Rome — The Alps, Their Picture" data-chapter="The Alps Their Picture" data-kind="story"></span>
 
 
 THE ALPS, THEIR PICTURE
@@ -6635,7 +6635,7 @@ Then you will say, if I felt all this, why do I draw it, and put it in my book, 
 
 
 
-<span class="atom-split" data-atom="story_146_the_cliff" data-title="The Path to Rome — The Cliff" data-chapter="Story 146 The Cliff" data-kind="story"></span>
+<span class="atom-split" data-atom="story_146_the_cliff" data-title="The Path to Rome — The Cliff" data-chapter="The Cliff" data-kind="story"></span>
 
 
 THE CLIFF
@@ -6651,7 +6651,7 @@ I was an hour or more going down the enormous face of the Jura, which is here an
 
 
 
-<span class="atom-split" data-atom="story_147_soleure" data-title="The Path to Rome — Soleure" data-chapter="Story 147 Soleure" data-kind="story"></span>
+<span class="atom-split" data-atom="story_147_soleure" data-title="The Path to Rome — Soleure" data-chapter="Soleure" data-kind="story"></span>
 
 
 SOLEURE
@@ -6673,7 +6673,7 @@ This book must not go on for ever; therefore I cannot say very much about Soleur
 
 
 
-<span class="atom-split" data-atom="story_148_the_remote_inn" data-title="The Path to Rome — The Remote Inn" data-chapter="Story 148 The Remote Inn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_148_the_remote_inn" data-title="The Path to Rome — The Remote Inn" data-chapter="The Remote Inn" data-kind="story"></span>
 
 
 THE REMOTE INN
@@ -6687,7 +6687,7 @@ I therefore crossed the river Aar, which is here magnificently broad and strong,
 
 
 
-<span class="atom-split" data-atom="story_149_the_good_savages" data-title="The Path to Rome — The Good Savages" data-chapter="Story 149 The Good Savages" data-kind="story"></span>
+<span class="atom-split" data-atom="story_149_the_good_savages" data-title="The Path to Rome — The Good Savages" data-chapter="The Good Savages" data-kind="story"></span>
 
 
 THE GOOD SAVAGES
@@ -6709,7 +6709,7 @@ Out of my window I saw the eaves coming low down. I saw an apple-tree against th
 
 
 
-<span class="atom-split" data-atom="story_150_isolation" data-title="The Path to Rome — Isolation" data-chapter="Story 150 Isolation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_150_isolation" data-title="The Path to Rome — Isolation" data-chapter="Isolation" data-kind="story"></span>
 
 
 ISOLATION
@@ -6729,7 +6729,7 @@ Also I have no doubt that I had experienced the ebb of some vitality, for it is 
 
 
 
-<span class="atom-split" data-atom="story_151_desolation" data-title="The Path to Rome — Desolation" data-chapter="Story 151 Desolation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_151_desolation" data-title="The Path to Rome — Desolation" data-chapter="Desolation" data-kind="story"></span>
 
 
 DESOLATION
@@ -6749,7 +6749,7 @@ Here you see that there is no possibility of following the straight way to Rome,
 
 
 
-<span class="atom-split" data-atom="story_152_a_day_without_salt" data-title="The Path to Rome — A Day Without Salt" data-chapter="Story 152 A Day Without Salt" data-kind="story"></span>
+<span class="atom-split" data-atom="story_152_a_day_without_salt" data-title="The Path to Rome — A Day Without Salt" data-chapter="A Day Without Salt" data-kind="story"></span>
 
 
 A DAY WITHOUT SALT
@@ -6775,7 +6775,7 @@ Until there rose a deep-voiced man from an outlying college, who said, ‘For my
 
 
 
-<span class="atom-split" data-atom="story_153_in_all_these_circumstances" data-title="The Path to Rome — In All These Circumstances" data-chapter="Story 153 In All These Circumstances" data-kind="story"></span>
+<span class="atom-split" data-atom="story_153_in_all_these_circumstances" data-title="The Path to Rome — In All These Circumstances" data-chapter="In All These Circumstances" data-kind="story"></span>
 
 
 IN ALL THESE CIRCUMSTANCES
@@ -6797,7 +6797,7 @@ AUCTOR. These two conditions permit me. First, that I am writing some time after
 
 
 
-<span class="atom-split" data-atom="story_154_the_hungry_student_fails_to_appear" data-title="The Path to Rome — The Hungry Student Fails To Appear" data-chapter="Story 154 The Hungry Student Fails To Appear" data-kind="story"></span>
+<span class="atom-split" data-atom="story_154_the_hungry_student_fails_to_appear" data-title="The Path to Rome — The Hungry Student Fails To Appear" data-chapter="The Hungry Student Fails To Appear" data-kind="story"></span>
 
 
 THE HUNGRY STUDENT FAILS TO APPEAR
@@ -6821,7 +6821,7 @@ How willing I was to do this you will not perhaps understand, unless you have th
 
 
 
-<span class="atom-split" data-atom="story_155_story_of_the_horse" data-title="The Path to Rome — Story Of The Horse" data-chapter="Story 155 Story Of The Horse" data-kind="story"></span>
+<span class="atom-split" data-atom="story_155_story_of_the_horse" data-title="The Path to Rome — Story Of The Horse" data-chapter="Story Of The Horse" data-kind="story"></span>
 
 
 STORY OF THE HORSE
@@ -6843,7 +6843,7 @@ Oh, blessed quality of books, that makes them a refuge from living! For in
 
 
 
-<span class="atom-split" data-atom="story_156_the_upper_emmen" data-title="The Path to Rome — The Upper Emmen" data-chapter="Story 156 The Upper Emmen" data-kind="story"></span>
+<span class="atom-split" data-atom="story_156_the_upper_emmen" data-title="The Path to Rome — The Upper Emmen" data-chapter="The Upper Emmen" data-kind="story"></span>
 
 
 THE UPPER EMMEN
@@ -6865,7 +6865,7 @@ The road stopped being a road, and became like a Californian trail. I approached
 
 
 
-<span class="atom-split" data-atom="story_157_the_brienzer_grat_how_it_lies" data-title="The Path to Rome — The Brienzer Grat, How It Lies" data-chapter="Story 157 The Brienzer Grat How It Lies" data-kind="story"></span>
+<span class="atom-split" data-atom="story_157_the_brienzer_grat_how_it_lies" data-title="The Path to Rome — The Brienzer Grat, How It Lies" data-chapter="The Brienzer Grat How It Lies" data-kind="story"></span>
 
 
 THE BRIENZER GRAT, HOW IT LIES
@@ -6885,7 +6885,7 @@ The Brienzer Grat is an extraordinary thing. It is quite straight; its summits a
 
 
 
-<span class="atom-split" data-atom="story_158_the_fog" data-title="The Path to Rome — The Fog" data-chapter="Story 158 The Fog" data-kind="story"></span>
+<span class="atom-split" data-atom="story_158_the_fog" data-title="The Path to Rome — The Fog" data-chapter="The Fog" data-kind="story"></span>
 
 
 THE FOG
@@ -6901,7 +6901,7 @@ Now and then a higher mass of rock, a peak on the ridge, would show clear throug
 
 
 
-<span class="atom-split" data-atom="story_159_the_halt_in_the_fog" data-title="The Path to Rome — The Halt In The Fog" data-chapter="Story 159 The Halt In The Fog" data-kind="story"></span>
+<span class="atom-split" data-atom="story_159_the_halt_in_the_fog" data-title="The Path to Rome — The Halt In The Fog" data-chapter="The Halt In The Fog" data-kind="story"></span>
 
 
 THE HALT IN THE FOG
@@ -6925,7 +6925,7 @@ My stone had not been a halting-place at all, but was itself the summit
 
 
 
-<span class="atom-split" data-atom="story_160_the_life_qualm" data-title="The Path to Rome — The Life-Qualm" data-chapter="Story 160 The Life Qualm" data-kind="story"></span>
+<span class="atom-split" data-atom="story_160_the_life_qualm" data-title="The Path to Rome — The Life-Qualm" data-chapter="The Life Qualm" data-kind="story"></span>
 
 
 THE LIFE-QUALM
@@ -6945,7 +6945,7 @@ There was this disturbing thing about the gully, that it went in steps, and befo
 
 
 
-<span class="atom-split" data-atom="story_161_the_steep" data-title="The Path to Rome — The Steep" data-chapter="Story 161 The Steep" data-kind="story"></span>
+<span class="atom-split" data-atom="story_161_the_steep" data-title="The Path to Rome — The Steep" data-chapter="The Steep" data-kind="story"></span>
 
 
 THE STEEP
@@ -6961,7 +6961,7 @@ Then I saw a steamer on the lake. I felt in touch with men. The slope grew easie
 
 
 
-<span class="atom-split" data-atom="story_162_bad_geography" data-title="The Path to Rome — Bad Geography" data-chapter="Story 162 Bad Geography" data-kind="story"></span>
+<span class="atom-split" data-atom="story_162_bad_geography" data-title="The Path to Rome — Bad Geography" data-chapter="Bad Geography" data-kind="story"></span>
 
 
 BAD GEOGRAPHY
@@ -6981,7 +6981,7 @@ Now these two walls converge at a point where there is a sort of knot of mountai
 
 
 
-<span class="atom-split" data-atom="story_163_a_doubtful_map" data-title="The Path to Rome — A Doubtful Map" data-chapter="Story 163 A Doubtful Map" data-kind="story"></span>
+<span class="atom-split" data-atom="story_163_a_doubtful_map" data-title="The Path to Rome — A Doubtful Map" data-chapter="A Doubtful Map" data-kind="story"></span>
 
 
 A DOUBTFUL MAP
@@ -6999,7 +6999,7 @@ On the other hand, D is the valley of the Toccia, E of the Maggia, and
 
 
 
-<span class="atom-split" data-atom="story_164_more_geography" data-title="The Path to Rome — More Geography" data-chapter="Story 164 More Geography" data-kind="story"></span>
+<span class="atom-split" data-atom="story_164_more_geography" data-title="The Path to Rome — More Geography" data-chapter="More Geography" data-kind="story"></span>
 
 
 MORE GEOGRAPHY
@@ -7017,7 +7017,7 @@ But every one I asked told me that thus early in the year (it was not the middle
 
 
 
-<span class="atom-split" data-atom="story_165_the_grimsel_begins" data-title="The Path to Rome — The Grimsel Begins" data-chapter="Story 165 The Grimsel Begins" data-kind="story"></span>
+<span class="atom-split" data-atom="story_165_the_grimsel_begins" data-title="The Path to Rome — The Grimsel Begins" data-chapter="The Grimsel Begins" data-kind="story"></span>
 
 
 THE GRIMSEL BEGINS
@@ -7039,7 +7039,7 @@ For they were all bawling and howling, with great placards and tickets, and sayi
 
 
 
-<span class="atom-split" data-atom="story_166_the_loud_noise" data-title="The Path to Rome — The Loud Noise" data-chapter="Story 166 The Loud Noise" data-kind="story"></span>
+<span class="atom-split" data-atom="story_166_the_loud_noise" data-title="The Path to Rome — The Loud Noise" data-chapter="The Loud Noise" data-kind="story"></span>
 
 
 THE LOUD NOISE
@@ -7061,7 +7061,7 @@ My boots in which I had sworn to walk to Rome were ruinous. Already since the We
 
 
 
-<span class="atom-split" data-atom="story_167_the_snow_blink" data-title="The Path to Rome — The Snow Blink" data-chapter="Story 167 The Snow Blink" data-kind="story"></span>
+<span class="atom-split" data-atom="story_167_the_snow_blink" data-title="The Path to Rome — The Snow Blink" data-chapter="The Snow Blink" data-kind="story"></span>
 
 
 THE SNOW BLINK
@@ -7081,7 +7081,7 @@ To this I turned and found there one of those new hotels, not very large, but ve
 
 
 
-<span class="atom-split" data-atom="story_168_head_of_the_pass" data-title="The Path to Rome — Head Of The Pass" data-chapter="Story 168 Head Of The Pass" data-kind="story"></span>
+<span class="atom-split" data-atom="story_168_head_of_the_pass" data-title="The Path to Rome — Head Of The Pass" data-chapter="Head Of The Pass" data-kind="story"></span>
 
 
 HEAD OF THE PASS
@@ -7101,7 +7101,7 @@ Some little way past the summit, on the first zig-zag down, I passed the Lake of
 
 
 
-<span class="atom-split" data-atom="story_169_digression" data-title="The Path to Rome — Digression" data-chapter="Story 169 Digression" data-kind="story"></span>
+<span class="atom-split" data-atom="story_169_digression" data-title="The Path to Rome — Digression" data-chapter="Digression" data-kind="story"></span>
 
 
 DIGRESSION
@@ -7123,7 +7123,7 @@ For instance, those noble hills, my downs in Sussex, when you are upon them over
 
 
 
-<span class="atom-split" data-atom="story_170_interlude" data-title="The Path to Rome — Interlude" data-chapter="Story 170 Interlude" data-kind="story"></span>
+<span class="atom-split" data-atom="story_170_interlude" data-title="The Path to Rome — Interlude" data-chapter="Interlude" data-kind="story"></span>
 
 
 INTERLUDE
@@ -7145,7 +7145,7 @@ I scrambled down the mountain, for here, on the south side of the pass, there wa
 
 
 
-<span class="atom-split" data-atom="story_171_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="Story 171 The Second Good Woman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_171_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="The Second Good Woman" data-kind="story"></span>
 
 
 THE SECOND GOOD WOMAN
@@ -7163,7 +7163,7 @@ And, by the way, would you like to know why universities suffer from this curse 
 
 
 
-<span class="atom-split" data-atom="story_172_on_the_mania_of_universities" data-title="The Path to Rome — On The Mania Of Universities" data-chapter="Story 172 On The Mania Of Universities" data-kind="story"></span>
+<span class="atom-split" data-atom="story_172_on_the_mania_of_universities" data-title="The Path to Rome — On The Mania Of Universities" data-chapter="On The Mania Of Universities" data-kind="story"></span>
 
 
 ON THE MANIA OF UNIVERSITIES
@@ -7191,7 +7191,7 @@ At this she made a most fearful clamour, saying that it was madness, and implori
 
 
 
-<span class="atom-split" data-atom="story_173_the_impassable_hills" data-title="The Path to Rome — The Impassable Hills" data-chapter="Story 173 The Impassable Hills" data-kind="story"></span>
+<span class="atom-split" data-atom="story_173_the_impassable_hills" data-title="The Path to Rome — The Impassable Hills" data-chapter="The Impassable Hills" data-kind="story"></span>
 
 
 THE IMPASSABLE HILLS
@@ -7209,7 +7209,7 @@ The rain beat on my window, the clouds came lower still down the mountain. Then 
 
 
 
-<span class="atom-split" data-atom="story_174_the_start" data-title="The Path to Rome — The Start" data-chapter="Story 174 The Start" data-kind="story"></span>
+<span class="atom-split" data-atom="story_174_the_start" data-title="The Path to Rome — The Start" data-chapter="The Start" data-kind="story"></span>
 
 
 THE START
@@ -7227,7 +7227,7 @@ Here it is in a sketch map. The heights are marked lighter and lighter, from bla
 
 
 
-<span class="atom-split" data-atom="story_175_all_snow" data-title="The Path to Rome — All Snow" data-chapter="Story 175 All Snow" data-kind="story"></span>
+<span class="atom-split" data-atom="story_175_all_snow" data-title="The Path to Rome — All Snow" data-chapter="All Snow" data-kind="story"></span>
 
 
 ALL SNOW
@@ -7247,7 +7247,7 @@ We came to a place which is, in the warm season, an alp; that is, a slope of gra
 
 
 
-<span class="atom-split" data-atom="story_176_the_tourmente" data-title="The Path to Rome — The Tourmente" data-chapter="Story 176 The Tourmente" data-kind="story"></span>
+<span class="atom-split" data-atom="story_176_the_tourmente" data-title="The Path to Rome — The Tourmente" data-chapter="The Tourmente" data-kind="story"></span>
 
 
 THE TOURMENTE
@@ -7261,7 +7261,7 @@ We had been about twenty minutes crawling over that wall of snow and ice; and it
 
 
 
-<span class="atom-split" data-atom="story_177_defeat" data-title="The Path to Rome — Defeat" data-chapter="Story 177 Defeat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_177_defeat" data-title="The Path to Rome — Defeat" data-chapter="Defeat" data-kind="story"></span>
 
 
 DEFEAT
@@ -7283,7 +7283,7 @@ Let us always after this combat their immensity and their will, and always hate 
 
 
 
-<span class="atom-split" data-atom="story_178_the_retreat" data-title="The Path to Rome — The Retreat" data-chapter="Story 178 The Retreat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_178_the_retreat" data-title="The Path to Rome — The Retreat" data-chapter="The Retreat" data-kind="story"></span>
 
 
 THE RETREAT
@@ -7305,7 +7305,7 @@ But to think of it! I who had all that planned out, and had so nearly done it! I
 
 
 
-<span class="atom-split" data-atom="story_179_the_sullen_hours" data-title="The Path to Rome — The Sullen Hours" data-chapter="Story 179 The Sullen Hours" data-kind="story"></span>
+<span class="atom-split" data-atom="story_179_the_sullen_hours" data-title="The Path to Rome — The Sullen Hours" data-chapter="The Sullen Hours" data-kind="story"></span>
 
 
 THE SULLEN HOURS
@@ -7333,7 +7333,7 @@ A hint or memory of gracious things ran in the slight breeze, the wreaths of fog
 
 
 
-<span class="atom-split" data-atom="story_180_italy" data-title="The Path to Rome — Italy!" data-chapter="Story 180 Italy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_180_italy" data-title="The Path to Rome — Italy!" data-chapter="Italy" data-kind="story"></span>
 
 
 [[Italy|ITALY]]!
@@ -7359,7 +7359,7 @@ I glanced up the dark ravine which I should have descended had I crossed the Nuf
 
 
 
-<span class="atom-split" data-atom="story_181_the_new_world" data-title="The Path to Rome — The New World" data-chapter="Story 181 The New World" data-kind="story"></span>
+<span class="atom-split" data-atom="story_181_the_new_world" data-title="The Path to Rome — The New World" data-chapter="The New World" data-kind="story"></span>
 
 
 THE NEW WORLD
@@ -7373,7 +7373,7 @@ Everything was pleasing in this new valley under the sunlight that still came st
 
 
 
-<span class="atom-split" data-atom="story_182_the_many_churches" data-title="The Path to Rome — The Many Churches" data-chapter="Story 182 The Many Churches" data-kind="story"></span>
+<span class="atom-split" data-atom="story_182_the_many_churches" data-title="The Path to Rome — The Many Churches" data-chapter="The Many Churches" data-kind="story"></span>
 
 
 THE MANY CHURCHES
@@ -7387,7 +7387,7 @@ I noticed all these things on the one side and the other till, not two hours fro
 
 
 
-<span class="atom-split" data-atom="story_183_faido" data-title="The Path to Rome — Faido" data-chapter="Story 183 Faido" data-kind="story"></span>
+<span class="atom-split" data-atom="story_183_faido" data-title="The Path to Rome — Faido" data-chapter="Faido" data-kind="story"></span>
 
 
 FAIDO
@@ -7403,7 +7403,7 @@ Now all of you who have hitherto followed the story of this great [[Journey|jour
 
 
 
-<span class="atom-split" data-atom="story_184_8_francs_io_centimes" data-title="The Path to Rome — 8 Francs Io Centimes" data-chapter="Story 184 8 Francs Io Centimes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_184_8_francs_io_centimes" data-title="The Path to Rome — 8 Francs Io Centimes" data-chapter="8 Francs Io Centimes" data-kind="story"></span>
 
 
 8 FRANCS IO CENTIMES
@@ -7427,7 +7427,7 @@ Or one might put it rhetorically, fiercely, stoically, finely, republicanly into
 
 
 
-<span class="atom-split" data-atom="story_185_forced_marches" data-title="The Path to Rome — Forced Marches" data-chapter="Story 185 Forced Marches" data-kind="story"></span>
+<span class="atom-split" data-atom="story_185_forced_marches" data-title="The Path to Rome — Forced Marches" data-chapter="Forced Marches" data-kind="story"></span>
 
 
 FORCED MARCHES
@@ -7455,7 +7455,7 @@ I thought it could, and I reasoned this way.
 
 
 
-<span class="atom-split" data-atom="story_186_story_of_the_old_sailor" data-title="The Path to Rome — Story Of The Old Sailor" data-chapter="Story 186 Story Of The Old Sailor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_186_story_of_the_old_sailor" data-title="The Path to Rome — Story Of The Old Sailor" data-chapter="Story Of The Old Sailor" data-kind="story"></span>
 
 
 STORY OF THE OLD SAILOR
@@ -7491,7 +7491,7 @@ Well then, to cut a long story short, I had to make forced marches. With eight f
 
 
 
-<span class="atom-split" data-atom="story_187_bodio" data-title="The Path to Rome — Bodio" data-chapter="Story 187 Bodio" data-kind="story"></span>
+<span class="atom-split" data-atom="story_187_bodio" data-title="The Path to Rome — Bodio" data-chapter="Bodio" data-kind="story"></span>
 
 
 BODIO
@@ -7517,7 +7517,7 @@ I was fatigued, and my senses lost acuteness. Still I noticed with delight the
 
 
 
-<span class="atom-split" data-atom="story_188_lake_major" data-title="The Path to Rome — Lake Major" data-chapter="Story 188 Lake Major" data-kind="story"></span>
+<span class="atom-split" data-atom="story_188_lake_major" data-title="The Path to Rome — Lake Major" data-chapter="Lake Major" data-kind="story"></span>
 
 
 LAKE MAJOR
@@ -7535,7 +7535,7 @@ The woman of the place came out to greet me, and asked me a question. I did not 
 
 
 
-<span class="atom-split" data-atom="story_189_bellinzona" data-title="The Path to Rome — Bellinzona" data-chapter="Story 189 Bellinzona" data-kind="story"></span>
+<span class="atom-split" data-atom="story_189_bellinzona" data-title="The Path to Rome — Bellinzona" data-chapter="Bellinzona" data-kind="story"></span>
 
 
 BELLINZONA
@@ -7551,7 +7551,7 @@ Now had they understood French I could have bargained and chosen; as it was I ha
 
 
 
-<span class="atom-split" data-atom="story_190_the_proud_stationer" data-title="The Path to Rome — The Proud Stationer" data-chapter="Story 190 The Proud Stationer" data-kind="story"></span>
+<span class="atom-split" data-atom="story_190_the_proud_stationer" data-title="The Path to Rome — The Proud Stationer" data-chapter="The Proud Stationer" data-kind="story"></span>
 
 
 THE PROUD STATIONER
@@ -7581,7 +7581,7 @@ H5
 
 
 
-<span class="atom-split" data-atom="story_191_the_afternoon" data-title="The Path to Rome — The Afternoon" data-chapter="Story 191 The Afternoon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_191_the_afternoon" data-title="The Path to Rome — The Afternoon" data-chapter="The Afternoon" data-kind="story"></span>
 
 
 THE AFTERNOON
@@ -7601,7 +7601,7 @@ in leaves, and soon I crossed the railway, and at last above the trees I saw the
 
 
 
-<span class="atom-split" data-atom="story_192_the_italian_lakes" data-title="The Path to Rome — The Italian Lakes" data-chapter="Story 192 The Italian Lakes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_192_the_italian_lakes" data-title="The Path to Rome — The Italian Lakes" data-chapter="The Italian Lakes" data-kind="story"></span>
 
 
 THE ITALIAN LAKES
@@ -7615,7 +7615,7 @@ The Italian lakes have that in them and their air which removes them from common
 
 
 
-<span class="atom-split" data-atom="story_193_the_dishonest_man" data-title="The Path to Rome — The Dishonest Man" data-chapter="Story 193 The Dishonest Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_193_the_dishonest_man" data-title="The Path to Rome — The Dishonest Man" data-chapter="The Dishonest Man" data-kind="story"></span>
 
 
 THE DISHONEST MAN
@@ -7635,7 +7635,7 @@ So I walked straight into the courtyard and found there a shrivelled brown-faced
 
 
 
-<span class="atom-split" data-atom="story_194_the_honest_man" data-title="The Path to Rome — The Honest Man" data-chapter="Story 194 The Honest Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_194_the_honest_man" data-title="The Path to Rome — The Honest Man" data-chapter="The Honest Man" data-kind="story"></span>
 
 
 THE HONEST MAN
@@ -7659,7 +7659,7 @@ I had gone over forty miles; how much over I did not know. I should have slept a
 
 
 
-<span class="atom-split" data-atom="story_195_the_dream" data-title="The Path to Rome — The Dream" data-chapter="Story 195 The Dream" data-kind="story"></span>
+<span class="atom-split" data-atom="story_195_the_dream" data-title="The Path to Rome — The Dream" data-chapter="The Dream" data-kind="story"></span>
 
 
 THE DREAM
@@ -7679,7 +7679,7 @@ I sat on the bank and gazed at the lake in some despair. Certainly I could not s
 
 
 
-<span class="atom-split" data-atom="story_196_the_house_in_the_night" data-title="The Path to Rome — The House In The Night" data-chapter="Story 196 The House In The Night" data-kind="story"></span>
+<span class="atom-split" data-atom="story_196_the_house_in_the_night" data-title="The Path to Rome — The House In The Night" data-chapter="The House In The Night" data-kind="story"></span>
 
 
 THE HOUSE IN THE NIGHT
@@ -7703,7 +7703,7 @@ When I woke and rose I was the first to be up and out. It was high morning. The 
 
 
 
-<span class="atom-split" data-atom="story_197_the_waggon_boats" data-title="The Path to Rome — The Waggon-Boats" data-chapter="Story 197 The Waggon Boats" data-kind="story"></span>
+<span class="atom-split" data-atom="story_197_the_waggon_boats" data-title="The Path to Rome — The Waggon-Boats" data-chapter="The Waggon Boats" data-kind="story"></span>
 
 
 THE WAGGON-BOATS
@@ -7721,7 +7721,7 @@ You may think it trivial, but it was certainly a portent. One of the acolytes ha
 
 
 
-<span class="atom-split" data-atom="story_198_the_oracle" data-title="The Path to Rome — The Oracle" data-chapter="Story 198 The Oracle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_198_the_oracle" data-title="The Path to Rome — The Oracle" data-chapter="The Oracle" data-kind="story"></span>
 
 
 THE ORACLE
@@ -7737,7 +7737,7 @@ Matutinus adest ubi Vesper, et accipiens te Saepe recusatum voces intelligit hos
 
 
 
-<span class="atom-split" data-atom="story_199_the_english_of_it" data-title="The Path to Rome — The English Of It" data-chapter="Story 199 The English Of It" data-kind="story"></span>
+<span class="atom-split" data-atom="story_199_the_english_of_it" data-title="The Path to Rome — The English Of It" data-chapter="The English Of It" data-kind="story"></span>
 
 
 THE ENGLISH OF IT
@@ -7783,7 +7783,7 @@ For my part I was determined to explore this curious town in the water, and I es
 
 
 
-<span class="atom-split" data-atom="story_200_estimate_of_consuls" data-title="The Path to Rome — Estimate Of Consuls" data-chapter="Story 200 Estimate Of Consuls" data-kind="story"></span>
+<span class="atom-split" data-atom="story_200_estimate_of_consuls" data-title="The Path to Rome — Estimate Of Consuls" data-chapter="Estimate Of Consuls" data-kind="story"></span>
 
 
 ESTIMATE OF CONSULS
@@ -7809,7 +7809,7 @@ I went into the cool of the cathedral to sit in its fine darkness and think bett
 
 
 
-<span class="atom-split" data-atom="story_201_ordeal_of_the_candals" data-title="The Path to Rome — Ordeal Of The Candals" data-chapter="Story 201 Ordeal Of The Candals" data-kind="story"></span>
+<span class="atom-split" data-atom="story_201_ordeal_of_the_candals" data-title="The Path to Rome — Ordeal Of The Candals" data-chapter="Ordeal Of The Candals" data-kind="story"></span>
 
 
 ORDEAL OF THE CANDALS
@@ -7831,7 +7831,7 @@ I thought of that other medieval and papistical [[Pilgrim|pilgrim]] hobbling alo
 
 
 
-<span class="atom-split" data-atom="story_202_milan" data-title="The Path to Rome — Milan" data-chapter="Story 202 Milan" data-kind="story"></span>
+<span class="atom-split" data-atom="story_202_milan" data-title="The Path to Rome — Milan" data-chapter="Milan" data-kind="story"></span>
 
 
 MILAN
@@ -7851,7 +7851,7 @@ IS»
 
 
 
-<span class="atom-split" data-atom="story_203_lombardy" data-title="The Path to Rome — Lombardy" data-chapter="Story 203 Lombardy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_203_lombardy" data-title="The Path to Rome — Lombardy" data-chapter="Lombardy" data-kind="story"></span>
 
 
 LOMBARDY
@@ -7875,7 +7875,7 @@ On the map, before coming to this desolate place, there seemed a straighter and 
 
 
 
-<span class="atom-split" data-atom="story_204_napoleons_road" data-title="The Path to Rome — Napoleon’S Road" data-chapter="Story 204 NapoleonS Road" data-kind="story"></span>
+<span class="atom-split" data-atom="story_204_napoleons_road" data-title="The Path to Rome — Napoleon’S Road" data-chapter="NapoleonS Road" data-kind="story"></span>
 
 
 NAPOLEON’S ROAD
@@ -7897,7 +7897,7 @@ It was not nearly midday, but I had walked perhaps fifteen miles, and had only r
 
 
 
-<span class="atom-split" data-atom="story_205_old_lodi_its_ugly_church" data-title="The Path to Rome — Old Lodi, Its Ugly Church" data-chapter="Story 205 Old Lodi Its Ugly Church" data-kind="story"></span>
+<span class="atom-split" data-atom="story_205_old_lodi_its_ugly_church" data-title="The Path to Rome — Old Lodi, Its Ugly Church" data-chapter="Old Lodi Its Ugly Church" data-kind="story"></span>
 
 
 OLD LODI, ITS UGLY CHURCH
@@ -7913,7 +7913,7 @@ These ‘by-roads’ of the map turned out in real life to be all manner of abom
 
 
 
-<span class="atom-split" data-atom="story_206_nothing_much" data-title="The Path to Rome — Nothing Much" data-chapter="Story 206 Nothing Much" data-kind="story"></span>
+<span class="atom-split" data-atom="story_206_nothing_much" data-title="The Path to Rome — Nothing Much" data-chapter="Nothing Much" data-kind="story"></span>
 
 
 NOTHING MUCH
@@ -7955,7 +7955,7 @@ LECTOR. I will, and I draw my inspiration from your style.
 
 
 
-<span class="atom-split" data-atom="story_207_story_of_charles_blake" data-title="The Path to Rome — Story Of Charles Blake" data-chapter="Story 207 Story Of Charles Blake" data-kind="story"></span>
+<span class="atom-split" data-atom="story_207_story_of_charles_blake" data-title="The Path to Rome — Story Of Charles Blake" data-chapter="Story Of Charles Blake" data-kind="story"></span>
 
 
 STORY OF CHARLES BLAKE
@@ -7989,7 +7989,7 @@ So this Learned Man did all he was required, and daily would inform the messenge
 
 
 
-<span class="atom-split" data-atom="story_208_story_of_the_devil" data-title="The Path to Rome — Story Of The Devil" data-chapter="Story 208 Story Of The Devil" data-kind="story"></span>
+<span class="atom-split" data-atom="story_208_story_of_the_devil" data-title="The Path to Rome — Story Of The Devil" data-chapter="Story Of The Devil" data-kind="story"></span>
 
 
 STORY OF THE DEVIL
@@ -8017,7 +8017,7 @@ That evening, at about half-past eleven, the Devil came to fetch the Learned Man
 
 
 
-<span class="atom-split" data-atom="story_209_and_the_learned_man" data-title="The Path to Rome — And The Learned Man" data-chapter="Story 209 And The Learned Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_209_and_the_learned_man" data-title="The Path to Rome — And The Learned Man" data-chapter="And The Learned Man" data-kind="story"></span>
 
 
 AND THE LEARNED MAN
@@ -8043,7 +8043,7 @@ He clapped his hands, and a whole host of his followers poured in through the wi
 
 
 
-<span class="atom-split" data-atom="story_210_apparition_of_st_charles_borromeo" data-title="The Path to Rome — Apparition Of St Charles Borromeo" data-chapter="Story 210 Apparition Of St Charles Borromeo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_210_apparition_of_st_charles_borromeo" data-title="The Path to Rome — Apparition Of St Charles Borromeo" data-chapter="Apparition Of St Charles Borromeo" data-kind="story"></span>
 
 
 APPARITION OF ST CHARLES BORROMEO
@@ -8085,7 +8085,7 @@ So the Learned Man was saved; but hardly; for he had to spend five hundred years
 
 
 
-<span class="atom-split" data-atom="story_211_on_the_germans" data-title="The Path to Rome — On The Germans" data-chapter="Story 211 On The Germans" data-kind="story"></span>
+<span class="atom-split" data-atom="story_211_on_the_germans" data-title="The Path to Rome — On The Germans" data-chapter="On The Germans" data-kind="story"></span>
 
 
 ON THE GERMANS
@@ -8109,7 +8109,7 @@ It is a very large stream. Half-way across, it is even a trifle uncomfortable to
 
 
 
-<span class="atom-split" data-atom="story_212_the_moor_s_head" data-title="The Path to Rome — The Moor S Head" data-chapter="Story 212 The Moor S Head" data-kind="story"></span>
+<span class="atom-split" data-atom="story_212_the_moor_s_head" data-title="The Path to Rome — The Moor S Head" data-chapter="The Moor S Head" data-kind="story"></span>
 
 
 THE MOOR S HEAD
@@ -8133,7 +8133,7 @@ AUCTOR. Nothing, Lector; it was raining, and there was mud. I stood in front of 
 
 
 
-<span class="atom-split" data-atom="story_213_on_perfect_things" data-title="The Path to Rome — On Perfect Things" data-chapter="Story 213 On Perfect Things" data-kind="story"></span>
+<span class="atom-split" data-atom="story_213_on_perfect_things" data-title="The Path to Rome — On Perfect Things" data-chapter="On Perfect Things" data-kind="story"></span>
 
 
 ON PERFECT THINGS
@@ -8151,7 +8151,7 @@ So it is with the majesty of Plains, and with the haunting power of their imperi
 
 
 
-<span class="atom-split" data-atom="story_214_fugue" data-title="The Path to Rome — Fugue" data-chapter="Story 214 Fugue" data-kind="story"></span>
+<span class="atom-split" data-atom="story_214_fugue" data-title="The Path to Rome — Fugue" data-chapter="Fugue" data-kind="story"></span>
 
 
 FUGUE
@@ -8173,7 +8173,7 @@ But here I must make clear by a map the mass of [[Mountains|mountains]] which I 
 
 
 
-<span class="atom-split" data-atom="story_215_unimportant_topography" data-title="The Path to Rome — Unimportant Topography" data-chapter="Story 215 Unimportant Topography" data-kind="story"></span>
+<span class="atom-split" data-atom="story_215_unimportant_topography" data-title="The Path to Rome — Unimportant Topography" data-chapter="Unimportant Topography" data-kind="story"></span>
 
 
 UNIMPORTANT TOPOGRAPHY
@@ -8189,7 +8189,7 @@ But to get from the Emilian Way over the eastern slope of the Apennines’ main 
 
 
 
-<span class="atom-split" data-atom="story_216_the_red_inn" data-title="The Path to Rome — The Red Inn" data-chapter="Story 216 The Red Inn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_216_the_red_inn" data-title="The Path to Rome — The Red Inn" data-chapter="The Red Inn" data-kind="story"></span>
 
 
 THE RED INN
@@ -8209,7 +8209,7 @@ I saluted the company, and walking up to the counter was about to call for wine.
 
 
 
-<span class="atom-split" data-atom="story_217_the_tavern_brawl" data-title="The Path to Rome — The Tavern Brawl" data-chapter="Story 217 The Tavern Brawl" data-kind="story"></span>
+<span class="atom-split" data-atom="story_217_the_tavern_brawl" data-title="The Path to Rome — The Tavern Brawl" data-chapter="The Tavern Brawl" data-kind="story"></span>
 
 
 THE TAVERN BRAWL
@@ -8231,7 +8231,7 @@ I stood wine; we drank. I showed them my book, and as my pencil needed sharpenin
 
 
 
-<span class="atom-split" data-atom="story_218_the_clouds" data-title="The Path to Rome — The Clouds" data-chapter="Story 218 The Clouds" data-kind="story"></span>
+<span class="atom-split" data-atom="story_218_the_clouds" data-title="The Path to Rome — The Clouds" data-chapter="The Clouds" data-kind="story"></span>
 
 
 THE CLOUDS
@@ -8261,7 +8261,7 @@ Next morning it was as I had thought. Going out before it was fully light, a den
 
 
 
-<span class="atom-split" data-atom="story_219_the_impassable_river" data-title="The Path to Rome — The Impassable River" data-chapter="Story 219 The Impassable River" data-kind="story"></span>
+<span class="atom-split" data-atom="story_219_the_impassable_river" data-title="The Path to Rome — The Impassable River" data-chapter="The Impassable River" data-kind="story"></span>
 
 
 THE IMPASSABLE RIVER
@@ -8285,7 +8285,7 @@ i?5
 
 
 
-<span class="atom-split" data-atom="story_220_the_crossing_of_the_taro" data-title="The Path to Rome — The Crossing Of The Taro" data-chapter="Story 220 The Crossing Of The Taro" data-kind="story"></span>
+<span class="atom-split" data-atom="story_220_the_crossing_of_the_taro" data-title="The Path to Rome — The Crossing Of The Taro" data-chapter="The Crossing Of The Taro" data-kind="story"></span>
 
 
 THE CROSSING OF THE TARO
@@ -8309,7 +8309,7 @@ After that adventure there was no need for carrying. The third, fourth, fifth,
 
 
 
-<span class="atom-split" data-atom="story_221_st_christopher" data-title="The Path to Rome — St Christopher" data-chapter="Story 221 St Christopher" data-kind="story"></span>
+<span class="atom-split" data-atom="story_221_st_christopher" data-title="The Path to Rome — St Christopher" data-chapter="St Christopher" data-kind="story"></span>
 
 
 ST CHRISTOPHER
@@ -8337,7 +8337,7 @@ Then leaving the main road which runs to Pontremoli and at last to Spezzia, my l
 
 
 
-<span class="atom-split" data-atom="story_222_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="Story 222 The Great View" data-kind="story"></span>
+<span class="atom-split" data-atom="story_222_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="The Great View" data-kind="story"></span>
 
 
 THE GREAT VIEW
@@ -8359,7 +8359,7 @@ Believe it or not, I was looking back to a place of days before: over how many, 
 
 
 
-<span class="atom-split" data-atom="story_223_on_prisons" data-title="The Path to Rome — On Prisons" data-chapter="Story 223 On Prisons" data-kind="story"></span>
+<span class="atom-split" data-atom="story_223_on_prisons" data-title="The Path to Rome — On Prisons" data-chapter="On Prisons" data-kind="story"></span>
 
 
 ON PRISONS
@@ -8385,7 +8385,7 @@ In the inn there had been a fat jolly-looking man and two official-looking peopl
 
 
 
-<span class="atom-split" data-atom="story_224_the_policemans_lie" data-title="The Path to Rome — The Policeman’S Lie" data-chapter="Story 224 The PolicemanS Lie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_224_the_policemans_lie" data-title="The Path to Rome — The Policeman’S Lie" data-chapter="The PolicemanS Lie" data-kind="story"></span>
 
 
 THE POLICEMAN’S LIE
@@ -8413,7 +8413,7 @@ But not for long. Very soon I was again following up the street, and we came to 
 
 
 
-<span class="atom-split" data-atom="story_225_the_bilingual_mayor" data-title="The Path to Rome — The Bilingual Mayor" data-chapter="Story 225 The Bilingual Mayor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_225_the_bilingual_mayor" data-title="The Path to Rome — The Bilingual Mayor" data-chapter="The Bilingual Mayor" data-kind="story"></span>
 
 
 THE BILINGUAL MAYOR
@@ -8437,7 +8437,7 @@ It is the custom of many, when they get over a ridge, to begin singing. Nor did 
 
 
 
-<span class="atom-split" data-atom="story_226_the_peasant" data-title="The Path to Rome — The Peasant" data-chapter="Story 226 The Peasant" data-kind="story"></span>
+<span class="atom-split" data-atom="story_226_the_peasant" data-title="The Path to Rome — The Peasant" data-chapter="The Peasant" data-kind="story"></span>
 
 
 THE PEASANT
@@ -8481,7 +8481,7 @@ Even the molinar, the god of that valley, had to pick his way carefully, and the
 
 
 
-<span class="atom-split" data-atom="story_227_andiamo" data-title="The Path to Rome — Andiamo" data-chapter="Story 227 Andiamo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_227_andiamo" data-title="The Path to Rome — Andiamo" data-chapter="Andiamo" data-kind="story"></span>
 
 
 ANDIAMO
@@ -8501,7 +8501,7 @@ Have you ever noticed that all the [[Catholic Church]] does is thought beautiful
 
 
 
-<span class="atom-split" data-atom="story_228_the_many_beasts" data-title="The Path to Rome — The Many Beasts" data-chapter="Story 228 The Many Beasts" data-kind="story"></span>
+<span class="atom-split" data-atom="story_228_the_many_beasts" data-title="The Path to Rome — The Many Beasts" data-chapter="The Many Beasts" data-kind="story"></span>
 
 
 THE MANY BEASTS
@@ -8527,7 +8527,7 @@ I then pulled out my bottle of wine, drank what was left out of the neck (by way
 
 
 
-<span class="atom-split" data-atom="story_229_the_bargain" data-title="The Path to Rome — The Bargain" data-chapter="Story 229 The Bargain" data-kind="story"></span>
+<span class="atom-split" data-atom="story_229_the_bargain" data-title="The Path to Rome — The Bargain" data-chapter="The Bargain" data-kind="story"></span>
 
 
 THE BARGAIN
@@ -8551,7 +8551,7 @@ I took the road downwards from the ridge into the next dip and valley, but
 
 
 
-<span class="atom-split" data-atom="story_230_tizzano" data-title="The Path to Rome — Tizzano" data-chapter="Story 230 Tizzano" data-kind="story"></span>
+<span class="atom-split" data-atom="story_230_tizzano" data-title="The Path to Rome — Tizzano" data-chapter="Tizzano" data-kind="story"></span>
 
 
 TIZZANO
@@ -8573,7 +8573,7 @@ It was not till the later afternoon, when the air was already full of the golden
 
 
 
-<span class="atom-split" data-atom="story_231_ceregio" data-title="The Path to Rome — Ceregio" data-chapter="Story 231 Ceregio" data-kind="story"></span>
+<span class="atom-split" data-atom="story_231_ceregio" data-title="The Path to Rome — Ceregio" data-chapter="Ceregio" data-kind="story"></span>
 
 
 CEREGIO
@@ -8591,7 +8591,7 @@ They drank my wine, I ate their bread, and we parted: they to go to their accust
 
 
 
-<span class="atom-split" data-atom="story_232_the_crossing_of_the_enza" data-title="The Path to Rome — The Crossing Of The Enza" data-chapter="Story 232 The Crossing Of The Enza" data-kind="story"></span>
+<span class="atom-split" data-atom="story_232_the_crossing_of_the_enza" data-title="The Path to Rome — The Crossing Of The Enza" data-chapter="The Crossing Of The Enza" data-kind="story"></span>
 
 
 THE CROSSING OF THE ENZA
@@ -8625,7 +8625,7 @@ I found a bridge which crossed the deep ravine they had told me of. This high br
 
 
 
-<span class="atom-split" data-atom="story_233_the_last_hours" data-title="The Path to Rome — The Last Hours" data-chapter="Story 233 The Last Hours" data-kind="story"></span>
+<span class="atom-split" data-atom="story_233_the_last_hours" data-title="The Path to Rome — The Last Hours" data-chapter="The Last Hours" data-kind="story"></span>
 
 
 THE LAST HOURS
@@ -8647,7 +8647,7 @@ And this long and dreadful expectation I had thought to be worst when one was al
 
 
 
-<span class="atom-split" data-atom="story_234_the_sun" data-title="The Path to Rome — The Sun!" data-chapter="Story 234 The Sun" data-kind="story"></span>
+<span class="atom-split" data-atom="story_234_the_sun" data-title="The Path to Rome — The Sun!" data-chapter="The Sun" data-kind="story"></span>
 
 
 THE SUN!
@@ -8671,7 +8671,7 @@ I found therefore in the short grass, and on the scented earth beneath one
 
 
 
-<span class="atom-split" data-atom="story_235_the_pass_into_tuscany" data-title="The Path to Rome — The Pass Into Tuscany" data-chapter="Story 235 The Pass Into Tuscany" data-kind="story"></span>
+<span class="atom-split" data-atom="story_235_the_pass_into_tuscany" data-title="The Path to Rome — The Pass Into Tuscany" data-chapter="The Pass Into Tuscany" data-kind="story"></span>
 
 
 THE PASS INTO TUSCANY
@@ -8693,7 +8693,7 @@ The hither side of that bank, I say, had been denuded of its trees; the roots
 
 
 
-<span class="atom-split" data-atom="story_236_the_further_side" data-title="The Path to Rome — The Further Side" data-chapter="Story 236 The Further Side" data-kind="story"></span>
+<span class="atom-split" data-atom="story_236_the_further_side" data-title="The Path to Rome — The Further Side" data-chapter="The Further Side" data-kind="story"></span>
 
 
 THE FURTHER SIDE
@@ -8711,7 +8711,7 @@ Then, more silent in the mind through their influence, I went down past the spee
 
 
 
-<span class="atom-split" data-atom="story_237_sillano" data-title="The Path to Rome — Sillano" data-chapter="Story 237 Sillano" data-kind="story"></span>
+<span class="atom-split" data-atom="story_237_sillano" data-title="The Path to Rome — Sillano" data-chapter="Sillano" data-kind="story"></span>
 
 
 SILLANO
@@ -8739,7 +8739,7 @@ In very early youth the soul can still remember its immortal habitation, and clo
 
 
 
-<span class="atom-split" data-atom="story_238_on_anything" data-title="The Path to Rome — On Anything" data-chapter="Story 238 On Anything" data-kind="story"></span>
+<span class="atom-split" data-atom="story_238_on_anything" data-title="The Path to Rome — On Anything" data-chapter="On Anything" data-kind="story"></span>
 
 
 ON ANYTHING
@@ -8759,7 +8759,7 @@ But I say that if it were not for the incredulity and doubt and agnostico-schism
 
 
 
-<span class="atom-split" data-atom="story_239_the_garfagnana" data-title="The Path to Rome — The Garfagnana" data-chapter="Story 239 The Garfagnana" data-kind="story"></span>
+<span class="atom-split" data-atom="story_239_the_garfagnana" data-title="The Path to Rome — The Garfagnana" data-chapter="The Garfagnana" data-kind="story"></span>
 
 
 THE GARFAGNANA
@@ -8777,7 +8777,7 @@ Not that there were not old towers on the steep woods of the Apennine, nor glimp
 
 
 
-<span class="atom-split" data-atom="story_240_the_bridges_of_castel_nuovo" data-title="The Path to Rome — The Bridges Of Castel-Nuovo" data-chapter="Story 240 The Bridges Of Castel Nuovo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_240_the_bridges_of_castel_nuovo" data-title="The Path to Rome — The Bridges Of Castel-Nuovo" data-chapter="The Bridges Of Castel Nuovo" data-kind="story"></span>
 
 
 THE BRIDGES OF CASTEL-NUOVO
@@ -8795,7 +8795,7 @@ I cared not a fig for the thousand things I had been told to expect in Tuscany; 
 
 
 
-<span class="atom-split" data-atom="story_241_the_bridge_god" data-title="The Path to Rome — The Bridge-God" data-chapter="Story 241 The Bridge God" data-kind="story"></span>
+<span class="atom-split" data-atom="story_241_the_bridge_god" data-title="The Path to Rome — The Bridge-God" data-chapter="The Bridge God" data-kind="story"></span>
 
 
 THE BRIDGE-GOD
@@ -8837,7 +8837,7 @@ And I will tell you something more. I will tell you something no one has yet hea
 
 
 
-<span class="atom-split" data-atom="story_242_lector" data-title="The Path to Rome — Lector.. .." data-chapter="Story 242 Lector" data-kind="story"></span>
+<span class="atom-split" data-atom="story_242_lector" data-title="The Path to Rome — Lector.. .." data-chapter="Lector" data-kind="story"></span>
 
 
 LECTOR.. ..
@@ -8849,7 +8849,7 @@ AUCTOR. I know what you are going to say! Do not say it. You are going to say: �
 
 
 
-<span class="atom-split" data-atom="story_243_because_of_this" data-title="The Path to Rome — Because Of This" data-chapter="Story 243 Because Of This" data-kind="story"></span>
+<span class="atom-split" data-atom="story_243_because_of_this" data-title="The Path to Rome — Because Of This" data-chapter="Because Of This" data-kind="story"></span>
 
 
 BECAUSE OF THIS
@@ -8869,7 +8869,7 @@ I went with a short shadow, creeping when I could on the eastern side of the str
 
 
 
-<span class="atom-split" data-atom="story_244_the_banquet" data-title="The Path to Rome — The Banquet" data-chapter="Story 244 The Banquet" data-kind="story"></span>
+<span class="atom-split" data-atom="story_244_the_banquet" data-title="The Path to Rome — The Banquet" data-chapter="The Banquet" data-kind="story"></span>
 
 
 THE BANQUET
@@ -8893,7 +8893,7 @@ My way lay under the flank of that mountain whereby the Luccans cannot see Pisa,
 
 
 
-<span class="atom-split" data-atom="story_245_nothing_particular" data-title="The Path to Rome — Nothing Particular" data-chapter="Story 245 Nothing Particular" data-kind="story"></span>
+<span class="atom-split" data-atom="story_245_nothing_particular" data-title="The Path to Rome — Nothing Particular" data-chapter="Nothing Particular" data-kind="story"></span>
 
 
 NOTHING PARTICULAR
@@ -8915,7 +8915,7 @@ It was in no way mountainous, but easy, pleasant, and comfortable, bounded by lo
 
 
 
-<span class="atom-split" data-atom="story_246_the_temptation" data-title="The Path to Rome — The Temptation" data-chapter="Story 246 The Temptation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_246_the_temptation" data-title="The Path to Rome — The Temptation" data-chapter="The Temptation" data-kind="story"></span>
 
 
 THE TEMPTATION
@@ -8939,7 +8939,7 @@ I remembered the pleasing cheque in the post-office of Siena; the banks of Siena
 
 
 
-<span class="atom-split" data-atom="story_247_the_fall" data-title="The Path to Rome — The Fall" data-chapter="Story 247 The Fall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_247_the_fall" data-title="The Path to Rome — The Fall" data-chapter="The Fall" data-kind="story"></span>
 
 
 THE FALL
@@ -8957,7 +8957,7 @@ It was still only morning; but the glare was beyond bearing as I passed through 
 
 
 
-<span class="atom-split" data-atom="story_248_a_reference" data-title="The Path to Rome — A Reference" data-chapter="Story 248 A Reference" data-kind="story"></span>
+<span class="atom-split" data-atom="story_248_a_reference" data-title="The Path to Rome — A Reference" data-chapter="A Reference" data-kind="story"></span>
 
 
 A REFERENCE
@@ -8989,7 +8989,7 @@ At this moment there came in a tall, rather stiff Englishman. He also was put ou
 
 
 
-<span class="atom-split" data-atom="story_249_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story 249 Story Of The Duke Of Sussex" data-kind="story"></span>
+<span class="atom-split" data-atom="story_249_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story Of The Duke Of Sussex" data-kind="story"></span>
 
 
 STORY OF THE DUKE OF SUSSEX
@@ -9017,7 +9017,7 @@ He went up to the wall of the Credit Lyonnais, put the forefinger of either hand
 
 
 
-<span class="atom-split" data-atom="story_250_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story 250 Story Of The Duke Of Sussex" data-kind="story"></span>
+<span class="atom-split" data-atom="story_250_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story Of The Duke Of Sussex" data-kind="story"></span>
 
 
 STORY OF THE DUKE OF SUSSEX
@@ -9041,7 +9041,7 @@ And so they did, and the Engineer was fined fifty francs in correctional, and th
 
 
 
-<span class="atom-split" data-atom="story_251_st_augustine_censured" data-title="The Path to Rome — St Augustine Censured" data-chapter="Story 251 St Augustine Censured" data-kind="story"></span>
+<span class="atom-split" data-atom="story_251_st_augustine_censured" data-title="The Path to Rome — St Augustine Censured" data-chapter="St Augustine Censured" data-kind="story"></span>
 
 
 ST AUGUSTINE CENSURED
@@ -9063,7 +9063,7 @@ How far I had gone I could not tell, nor precisely how much farther San Quirico,
 
 
 
-<span class="atom-split" data-atom="story_252_san_quirico" data-title="The Path to Rome — San Quirico" data-chapter="Story 252 San Quirico" data-kind="story"></span>
+<span class="atom-split" data-atom="story_252_san_quirico" data-title="The Path to Rome — San Quirico" data-chapter="San Quirico" data-kind="story"></span>
 
 
 SAN QUIRICO
@@ -9083,7 +9083,7 @@ the cool, coming suddenly, had a magic in it, everything turned kinder. A church
 
 
 
-<span class="atom-split" data-atom="story_253_the_valley_like_a_wave" data-title="The Path to Rome — The Valley Like A Wave" data-chapter="Story 253 The Valley Like A Wave" data-kind="story"></span>
+<span class="atom-split" data-atom="story_253_the_valley_like_a_wave" data-title="The Path to Rome — The Valley Like A Wave" data-chapter="The Valley Like A Wave" data-kind="story"></span>
 
 
 THE VALLEY LIKE A WAVE
@@ -9101,7 +9101,7 @@ It is a strange thing, arresting northern eyes, to see towns thus built on summi
 
 
 
-<span class="atom-split" data-atom="story_254_the_silhouette" data-title="The Path to Rome — The Silhouette" data-chapter="Story 254 The Silhouette" data-kind="story"></span>
+<span class="atom-split" data-atom="story_254_the_silhouette" data-title="The Path to Rome — The Silhouette" data-chapter="The Silhouette" data-kind="story"></span>
 
 
 THE SILHOUETTE
@@ -9117,7 +9117,7 @@ There in a very large room, floored with brick and lit by one candle, were two f
 
 
 
-<span class="atom-split" data-atom="story_255_the_horn_song" data-title="The Path to Rome — The Horn Song" data-chapter="Story 255 The Horn Song" data-kind="story"></span>
+<span class="atom-split" data-atom="story_255_the_horn_song" data-title="The Path to Rome — The Horn Song" data-chapter="The Horn Song" data-kind="story"></span>
 
 
 THE HORN SONG
@@ -9143,7 +9143,7 @@ Tibi cornuum cornuto Tibi clamo, te saluto Salve cornu cornuum! Fortunatam da Do
 
 
 
-<span class="atom-split" data-atom="story_256_radicofani" data-title="The Path to Rome — Radicofani" data-chapter="Story 256 Radicofani" data-kind="story"></span>
+<span class="atom-split" data-atom="story_256_radicofani" data-title="The Path to Rome — Radicofani" data-chapter="Radicofani" data-kind="story"></span>
 
 
 RADICOFANI
@@ -9167,7 +9167,7 @@ Well, as I was saying, I was in some despair at the sight of that valley, which 
 
 
 
-<span class="atom-split" data-atom="story_257_second_fall" data-title="The Path to Rome — Second Fall" data-chapter="Story 257 Second Fall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_257_second_fall" data-title="The Path to Rome — Second Fall" data-chapter="Second Fall" data-kind="story"></span>
 
 
 SECOND FALL
@@ -9191,7 +9191,7 @@ I found a stream running very sluggish between tall trees, and this sight suffic
 
 
 
-<span class="atom-split" data-atom="story_258_how_to_write" data-title="The Path to Rome — How To Write" data-chapter="Story 258 How To Write" data-kind="story"></span>
+<span class="atom-split" data-atom="story_258_how_to_write" data-title="The Path to Rome — How To Write" data-chapter="How To Write" data-kind="story"></span>
 
 
 HOW TO WRITE
@@ -9221,7 +9221,7 @@ This man Hard at the age of fifty-four retired from business, and determined
 
 
 
-<span class="atom-split" data-atom="story_259_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story 259 Story Of Mr Hard" data-kind="story"></span>
+<span class="atom-split" data-atom="story_259_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story Of Mr Hard" data-kind="story"></span>
 
 
 STORY OF MR HARD
@@ -9251,7 +9251,7 @@ England and Rome. By the Rev. Ebenezer Catchpole of Emmanuel, Birmingham.
 
 
 
-<span class="atom-split" data-atom="story_260_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story 260 Story Of Mr Hard" data-kind="story"></span>
+<span class="atom-split" data-atom="story_260_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story Of Mr Hard" data-kind="story"></span>
 
 
 STORY OF MR HARD
@@ -9291,7 +9291,7 @@ This time there was no temptation of the devil; if anything the advance was from
 
 
 
-<span class="atom-split" data-atom="story_261_the_mighty_drive" data-title="The Path to Rome — The Mighty Drive" data-chapter="Story 261 The Mighty Drive" data-kind="story"></span>
+<span class="atom-split" data-atom="story_261_the_mighty_drive" data-title="The Path to Rome — The Mighty Drive" data-chapter="The Mighty Drive" data-kind="story"></span>
 
 
 THE MIGHTY DRIVE
@@ -9311,7 +9311,7 @@ Then, after my meal, one of the men told me I needed sleep; that there were no r
 
 
 
-<span class="atom-split" data-atom="story_262_montefiascone" data-title="The Path to Rome — Montefiascone" data-chapter="Story 262 Montefiascone" data-kind="story"></span>
+<span class="atom-split" data-atom="story_262_montefiascone" data-title="The Path to Rome — Montefiascone" data-chapter="Montefiascone" data-kind="story"></span>
 
 
 MONTEFIASCONE
@@ -9335,7 +9335,7 @@ The distance and the hill that bounded it should in that climate have stood clea
 
 
 
-<span class="atom-split" data-atom="story_263_the_great_walls" data-title="The Path to Rome — The Great Walls" data-chapter="Story 263 The Great Walls" data-kind="story"></span>
+<span class="atom-split" data-atom="story_263_the_great_walls" data-title="The Path to Rome — The Great Walls" data-chapter="The Great Walls" data-kind="story"></span>
 
 
 THE GREAT WALLS
@@ -9351,7 +9351,7 @@ When I approached Viterbo I first saw an astonishing wall, perpendicular to my r
 
 
 
-<span class="atom-split" data-atom="story_264_i_enter_viterbo" data-title="The Path to Rome — I Enter Viterbo" data-chapter="Story 264 I Enter Viterbo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_264_i_enter_viterbo" data-title="The Path to Rome — I Enter Viterbo" data-chapter="I Enter Viterbo" data-kind="story"></span>
 
 
 I ENTER VITERBO
@@ -9373,7 +9373,7 @@ The road began to climb the hill, and though the heat increased — for in [[Ita
 
 
 
-<span class="atom-split" data-atom="story_265_the_silent_old_man" data-title="The Path to Rome — The Silent Old Man" data-chapter="Story 265 The Silent Old Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_265_the_silent_old_man" data-title="The Path to Rome — The Silent Old Man" data-chapter="The Silent Old Man" data-kind="story"></span>
 
 
 THE SILENT OLD MAN
@@ -9395,7 +9395,7 @@ The road was interminable, and the crest, from which I promised myself the view 
 
 
 
-<span class="atom-split" data-atom="story_266_the_pond_of_venus" data-title="The Path to Rome — The Pond Of Venus" data-chapter="Story 266 The Pond Of Venus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_266_the_pond_of_venus" data-title="The Path to Rome — The Pond Of Venus" data-chapter="The Pond Of Venus" data-kind="story"></span>
 
 
 THE POND OF VENUS
@@ -9421,7 +9421,7 @@ Dark Etruria lay behind me, forgotten in the backward of my march: a furnace and
 
 
 
-<span class="atom-split" data-atom="story_267_the_arena" data-title="The Path to Rome — The Arena" data-chapter="Story 267 The Arena" data-kind="story"></span>
+<span class="atom-split" data-atom="story_267_the_arena" data-title="The Path to Rome — The Arena" data-chapter="The Arena" data-kind="story"></span>
 
 
 THE ARENA
@@ -9443,7 +9443,7 @@ When I woke the evening had come. A haze had gathered upon the plain. The road f
 
 
 
-<span class="atom-split" data-atom="story_268_too_many_peasants" data-title="The Path to Rome — Too Many Peasants" data-chapter="Story 268 Too Many Peasants" data-kind="story"></span>
+<span class="atom-split" data-atom="story_268_too_many_peasants" data-title="The Path to Rome — Too Many Peasants" data-chapter="Too Many Peasants" data-kind="story"></span>
 
 
 TOO MANY PEASANTS
@@ -9467,7 +9467,7 @@ With a little difficulty I made the master understand that I wished to sleep til
 
 
 
-<span class="atom-split" data-atom="story_269_rome_calls_me" data-title="The Path to Rome — Rome Calls Me" data-chapter="Story 269 Rome Calls Me" data-kind="story"></span>
+<span class="atom-split" data-atom="story_269_rome_calls_me" data-title="The Path to Rome — Rome Calls Me" data-chapter="Rome Calls Me" data-kind="story"></span>
 
 
 ROME CALLS ME
@@ -9487,7 +9487,7 @@ The road fell into a hollow where soldiers were manoeuvring. Even these could no
 
 
 
-<span class="atom-split" data-atom="story_270_farewell_to_all_men" data-title="The Path to Rome — Farewell To All Men" data-chapter="Story 270 Farewell To All Men" data-kind="story"></span>
+<span class="atom-split" data-atom="story_270_farewell_to_all_men" data-title="The Path to Rome — Farewell To All Men" data-chapter="Farewell To All Men" data-kind="story"></span>
 
 
 FAREWELL TO ALL MEN
@@ -9531,7 +9531,7 @@ And St Michael answered:
 
 
 
-<span class="atom-split" data-atom="story_271_continuez" data-title="The Path to Rome — Continuez" data-chapter="Story 271 Continuez" data-kind="story"></span>
+<span class="atom-split" data-atom="story_271_continuez" data-title="The Path to Rome — Continuez" data-chapter="Continuez" data-kind="story"></span>
 
 
 CONTINUEZ
@@ -9593,7 +9593,7 @@ AUCTOR. ... I entered a cafe at the right hand of a very long, straight street, 
 
 
 
-<span class="atom-split" data-atom="story_272_loud_and_final_song" data-title="The Path to Rome — Loud And Final Song" data-chapter="Story 272 Loud And Final Song" data-kind="story"></span>
+<span class="atom-split" data-atom="story_272_loud_and_final_song" data-title="The Path to Rome — Loud And Final Song" data-chapter="Loud And Final Song" data-kind="story"></span>
 
 
 LOUD AND FINAL SONG

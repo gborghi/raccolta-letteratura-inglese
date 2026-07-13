@@ -15,113 +15,113 @@ tags:
 
 
 HARD TIMES
-                                   AND
-                           REPRINTED PIECES {0}
+AND
+REPRINTED PIECES {0}
 
 
-                                * * * * *
+* * * * *
 
-                            By CHARLES DICKENS
+By CHARLES DICKENS
 
-                                * * * * *
+* * * * *
 
-             _With illustrations by Marcus Stone_, _Maurice_
-                     _Greiffenhagen_, _and F. Walker_
+_With illustrations by Marcus Stone_, _Maurice_
+_Greiffenhagen_, _and F. Walker_
 
-                                * * * * *
+* * * * *
 
-                       [[London|LONDON]]: CHAPMAN & HALL, LD.
-                    [[New York|NEW YORK]]: CHARLES SCRIBNER’S SONS
+[[London|LONDON]]: CHAPMAN & HALL, LD.
+[[New York|NEW YORK]]: CHARLES SCRIBNER’S SONS
 
-                                   1905
+1905
 
 
 
 
 CONTENTS
 
-      _BOOK THE FIRST_.  _SOWING_
-                                    PAGE
-               CHAPTER I
+_BOOK THE FIRST_.  _SOWING_
+PAGE
+CHAPTER I
 _The One Thing Needful_                3
-               CHAPTER II
+CHAPTER II
 _Murdering the Innocents_              4
-              CHAPTER III
+CHAPTER III
 _A Loophole_                           8
-               CHAPTER IV
+CHAPTER IV
 _Mr. Bounderby_                       12
-               CHAPTER V
+CHAPTER V
 _The Keynote_                         18
-               CHAPTER VI
+CHAPTER VI
 _Sleary’s Horsemanship_               23
-              CHAPTER VII
+CHAPTER VII
 _Mrs. Sparsit_                        33
-              CHAPTER VIII
+CHAPTER VIII
 _Never Wonder_                        38
-               CHAPTER IX
+CHAPTER IX
 _Sissy’s Progress_                    43
-               CHAPTER X
+CHAPTER X
 _Stephen Blackpool_                   49
-               CHAPTER XI
+CHAPTER XI
 _No Way Out_                          53
-              CHAPTER XII
+CHAPTER XII
 _The Old Woman_                       59
-              CHAPTER XIII
+CHAPTER XIII
 _Rachael_                             63
-              CHAPTER XIV
+CHAPTER XIV
 _The Great Manufacturer_              69
-               CHAPTER XV
+CHAPTER XV
 _Father and Daughter_                 73
-              CHAPTER XVI
+CHAPTER XVI
 _Husband and Wife_                    79
-     _BOOK THE SECOND_.  _REAPING_
-               CHAPTER I
+_BOOK THE SECOND_.  _REAPING_
+CHAPTER I
 _Effects in the Bank_                 84
-               CHAPTER II
+CHAPTER II
 _Mr. James Harthouse_                 94
-              CHAPTER III
+CHAPTER III
 _The Whelp_                          101
-               CHAPTER IV
+CHAPTER IV
 _Men and Brothers_                   111
-               CHAPTER V
+CHAPTER V
 _Men and Masters_                    105
-               CHAPTER VI
+CHAPTER VI
 _Fading Away_                        116
-              CHAPTER VII
+CHAPTER VII
 _Gunpowder_                          126
-              CHAPTER VIII
+CHAPTER VIII
 _Explosion_                          136
-               CHAPTER IX
+CHAPTER IX
 _Hearing the Last of it_             146
-               CHAPTER X
+CHAPTER X
 _Mrs. Sparsit’s Staircase_           152
-               CHAPTER XI
+CHAPTER XI
 _Lower and Lower_                    156
-              CHAPTER XII
+CHAPTER XII
 _Down_                               163
-     _BOOK THE THIRD_.  _GARNERING_
-               CHAPTER I
+_BOOK THE THIRD_.  _GARNERING_
+CHAPTER I
 _Another Thing Needful_              167
-               CHAPTER II
+CHAPTER II
 _Very Ridiculous_                    172
-              CHAPTER III
+CHAPTER III
 _Very Decided_                       179
-               CHAPTER IV
+CHAPTER IV
 _Lost_                               186
-               CHAPTER V
+CHAPTER V
 _Found_                              193
-               CHAPTER VI
+CHAPTER VI
 _The Starlight_                      200
-              CHAPTER VII
+CHAPTER VII
 _Whelp-Hunting_                      208
-              CHAPTER VIII
+CHAPTER VIII
 _Philosophical_                      216
-               CHAPTER IX
+CHAPTER IX
 _Final_                              222
 
 LIST OF ILLUSTRATIONS
 
-                                                             PAGE
+PAGE
 _Stephen and Rachael in the Sick-room_                         64
 _Mr. Harthouse Dining at the Bounderbys’_                     100
 _Mr. Harthouse and [[Tom Gradgrind]] in the Garden_               132
@@ -998,10 +998,10 @@ bought fresh butter; and insisted on Mocha coffee, and rejected all but
 prime parts of meat, and yet were eternally dissatisfied and
 unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:
 
-    There was an old woman, and what do you think?
-    She lived upon nothing but victuals and drink;
-    Victuals and drink were the whole of her diet,
-    And yet this old woman would NEVER be quiet.
+There was an old woman, and what do you think?
+She lived upon nothing but victuals and drink;
+Victuals and drink were the whole of her diet,
+And yet this old woman would NEVER be quiet.
 
 Is it possible, I [[Wonder|wonder]], that there was any analogy between the case of
 the Coketown population and the case of the little Gradgrinds?  Surely,
@@ -1142,10 +1142,10 @@ upon the sign-board, the Pegasus’s Arms was inscribed in Roman letters.
 Beneath that [[Inscription|inscription]] again, in a flowing scroll, the painter had
 touched off the lines:
 
-    Good malt makes good beer,
-    Walk in, and they’ll draw it here;
-    Good wine makes good brandy,
-    Give us a call, and you’ll find it handy.
+Good malt makes good beer,
+Walk in, and they’ll draw it here;
+Good wine makes good brandy,
+Give us a call, and you’ll find it handy.
 
 Framed and glazed upon the wall behind the dingy little bar, was another
 Pegasus—a theatrical one—with real gauze let in for his wings, golden
@@ -1744,8 +1744,8 @@ An Englishman’s [[house]] is his [[Castle|castle]], Church and State, and God 
 [[Queen]], all put together.  And as often (and it was very often) as an
 orator of this kind brought into his peroration,
 
-    ‘Princes and lords may flourish or may fade,
-    A breath can make them, as a breath has made,’
+‘Princes and lords may flourish or may fade,
+A breath can make them, as a breath has made,’
 
 —it was, for certain, more or less understood among the company that he
 had heard of Mrs. Sparsit.
@@ -3332,7 +3332,7 @@ low.’
 compassionate accents.  ‘I am thy poor friend, with all my heart and
 mind.’
 
-             [Picture: Stephen and Rachael in the sick room]
+[Picture: Stephen and Rachael in the sick room]
 
 The wounds of which she had spoken, seemed to be about the neck of the
 [[Self|self]]-made outcast.  She dressed them now, still without showing her.  She
@@ -4329,9 +4329,9 @@ day, and was a little shaken in her reserved composure for the first
 be on the look-out for you, when you come back.  I say, my dear Loo!
 AN’T it uncommonly jolly now!’
 
-                                * * * * *
+* * * * *
 
-                          END OF THE FIRST BOOK
+END OF THE FIRST BOOK
 
 
 
@@ -5205,7 +5205,7 @@ return to his hotel, and was a little doubtful whether he knew the way by
 [[Night|night]], the whelp immediately proffered his services as guide, and turned
 out with him to escort him thither.
 
-            [Picture: Mr. Harthouse dines at the Bounderby’s]
+[Picture: Mr. Harthouse dines at the Bounderby’s]
 
 
 
@@ -6861,7 +6861,7 @@ together, ‘have you been carving on the trees?’
 ‘You have a suspicious appearance of inscribing some fair creature’s on
 the bark, Tom.’
 
-         [Picture: Mr. Harthouse and [[Tom Gradgrind]] in the [[Garden|garden]]]
+[Picture: Mr. Harthouse and [[Tom Gradgrind]] in the [[Garden|garden]]]
 
 ‘Not much of that, Mr. Harthouse, unless some fair creature with a
 slashing fortune at her own disposal would take a fancy to me.  Or she
@@ -8615,9 +8615,9 @@ fall upon the ground!’  And he laid her down there, and saw the [[Pride|pride]
 his heart and the triumph of his system, lying, an insensible heap, at
 his feet.
 
-                                * * * * *
+* * * * *
 
-                          END OF THE SECOND BOOK
+END OF THE SECOND BOOK
 
 
 
@@ -9253,11 +9253,11 @@ The Great Pyramid put it into his head to go up the Nile.  He took a pen
 upon the instant, and wrote the following note (in appropriate
 hieroglyphics) to his brother:
 
-    Dear Jack,—All up at Coketown.  Bored out of the place, and going in
-    for camels.
+Dear Jack,—All up at Coketown.  Bored out of the place, and going in
+for camels.
 
-                                                           Affectionately,
-                                                                      JEM.
+Affectionately,
+JEM.
 
 He rang the bell.
 
@@ -10684,7 +10684,7 @@ ha’ suspect’n me.  But look up yonder, Rachael!  Look aboove!’
 
 Following his eyes, she saw that he was gazing at a star.
 
-      [Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
+[Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
 
 ‘It ha’ shined upon me,’ he said reverently, ‘in my [[Pain|pain]] and trouble down
 below.  It ha’ shined into my mind.  I ha’ look’n at ’t and thowt o’
@@ -11583,7 +11583,7 @@ foot, swept disdainfully past him, and ascended the staircase.  Mr.
 Bounderby closed the door, and stood before the [[Fire|fire]]; projecting himself
 after his old explosive manner into his portrait—and into futurity.
 
-                                * * * * *
+* * * * *
 
 Into how much of futurity?  He saw Mrs. Sparsit fighting out a daily
 fight at the points of all the weapons in the female armoury, with the
@@ -11622,7 +11622,7 @@ this and with that and with what not, five nights a-week, until the small
 hours of the morning?  Probably he had that much foreknowledge, knowing
 his men.
 
-                                * * * * *
+* * * * *
 
 Here was Louisa on the [[Night|night]] of the same day, watching the [[Fire|fire]] as in
 days of yore, though with a gentler and a humbler face.  How much of the
@@ -11693,7 +11693,7 @@ Gutenberg, and is not included in this eText.
 <span class="atom-split" data-atom="chapter_01" data-title="Hard Times — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
 
 
-               CHAPTER I
+CHAPTER I
 _The One Thing Needful_                3
 
 
@@ -11702,7 +11702,7 @@ _The One Thing Needful_                3
 <span class="atom-split" data-atom="chapter_02" data-title="Hard Times — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
 
 
-               CHAPTER II
+CHAPTER II
 _Murdering the Innocents_              4
 
 
@@ -11711,7 +11711,7 @@ _Murdering the Innocents_              4
 <span class="atom-split" data-atom="chapter_03" data-title="Hard Times — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
 
 
-              CHAPTER III
+CHAPTER III
 _A Loophole_                           8
 
 
@@ -11720,7 +11720,7 @@ _A Loophole_                           8
 <span class="atom-split" data-atom="chapter_04" data-title="Hard Times — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
 
 
-               CHAPTER IV
+CHAPTER IV
 _Mr. Bounderby_                       12
 
 
@@ -11729,7 +11729,7 @@ _Mr. Bounderby_                       12
 <span class="atom-split" data-atom="chapter_05" data-title="Hard Times — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
 
 
-               CHAPTER V
+CHAPTER V
 _The Keynote_                         18
 
 
@@ -11738,7 +11738,7 @@ _The Keynote_                         18
 <span class="atom-split" data-atom="chapter_06" data-title="Hard Times — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
 
 
-               CHAPTER VI
+CHAPTER VI
 _Sleary’s Horsemanship_               23
 
 
@@ -11747,7 +11747,7 @@ _Sleary’s Horsemanship_               23
 <span class="atom-split" data-atom="chapter_07" data-title="Hard Times — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
 
 
-              CHAPTER VII
+CHAPTER VII
 _Mrs. Sparsit_                        33
 
 
@@ -11756,7 +11756,7 @@ _Mrs. Sparsit_                        33
 <span class="atom-split" data-atom="chapter_08" data-title="Hard Times — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
 
 
-              CHAPTER VIII
+CHAPTER VIII
 _Never Wonder_                        38
 
 
@@ -11765,7 +11765,7 @@ _Never Wonder_                        38
 <span class="atom-split" data-atom="chapter_09" data-title="Hard Times — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
 
 
-               CHAPTER IX
+CHAPTER IX
 _Sissy’s Progress_                    43
 
 
@@ -11774,7 +11774,7 @@ _Sissy’s Progress_                    43
 <span class="atom-split" data-atom="chapter_10" data-title="Hard Times — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
 
 
-               CHAPTER X
+CHAPTER X
 _Stephen Blackpool_                   49
 
 
@@ -11783,7 +11783,7 @@ _Stephen Blackpool_                   49
 <span class="atom-split" data-atom="chapter_11" data-title="Hard Times — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
 
 
-               CHAPTER XI
+CHAPTER XI
 _No Way Out_                          53
 
 
@@ -11792,7 +11792,7 @@ _No Way Out_                          53
 <span class="atom-split" data-atom="chapter_12" data-title="Hard Times — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
 
 
-              CHAPTER XII
+CHAPTER XII
 _The Old Woman_                       59
 
 
@@ -11801,7 +11801,7 @@ _The Old Woman_                       59
 <span class="atom-split" data-atom="chapter_13" data-title="Hard Times — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
 
 
-              CHAPTER XIII
+CHAPTER XIII
 _Rachael_                             63
 
 
@@ -11810,7 +11810,7 @@ _Rachael_                             63
 <span class="atom-split" data-atom="chapter_14" data-title="Hard Times — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
 
 
-              CHAPTER XIV
+CHAPTER XIV
 _The Great Manufacturer_              69
 
 
@@ -11819,7 +11819,7 @@ _The Great Manufacturer_              69
 <span class="atom-split" data-atom="chapter_15" data-title="Hard Times — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
 
 
-               CHAPTER XV
+CHAPTER XV
 _Father and Daughter_                 73
 
 
@@ -11828,9 +11828,9 @@ _Father and Daughter_                 73
 <span class="atom-split" data-atom="chapter_16" data-title="Hard Times — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
 
 
-              CHAPTER XVI
+CHAPTER XVI
 _Husband and Wife_                    79
-     _BOOK THE SECOND_.  _REAPING_
+_BOOK THE SECOND_.  _REAPING_
 
 
 
@@ -11838,7 +11838,7 @@ _Husband and Wife_                    79
 <span class="atom-split" data-atom="chapter_17" data-title="Hard Times — Chapter 1" data-chapter="Chapter 17" data-kind="chapter"></span>
 
 
-               CHAPTER I
+CHAPTER I
 _Effects in the Bank_                 84
 
 
@@ -11847,7 +11847,7 @@ _Effects in the Bank_                 84
 <span class="atom-split" data-atom="chapter_18" data-title="Hard Times — Chapter 2" data-chapter="Chapter 18" data-kind="chapter"></span>
 
 
-               CHAPTER II
+CHAPTER II
 _Mr. James Harthouse_                 94
 
 
@@ -11856,7 +11856,7 @@ _Mr. James Harthouse_                 94
 <span class="atom-split" data-atom="chapter_19" data-title="Hard Times — Chapter 3" data-chapter="Chapter 19" data-kind="chapter"></span>
 
 
-              CHAPTER III
+CHAPTER III
 _The Whelp_                          101
 
 
@@ -11865,7 +11865,7 @@ _The Whelp_                          101
 <span class="atom-split" data-atom="chapter_20" data-title="Hard Times — Chapter 4" data-chapter="Chapter 20" data-kind="chapter"></span>
 
 
-               CHAPTER IV
+CHAPTER IV
 _Men and Brothers_                   111
 
 
@@ -11874,7 +11874,7 @@ _Men and Brothers_                   111
 <span class="atom-split" data-atom="chapter_21" data-title="Hard Times — Chapter 5" data-chapter="Chapter 21" data-kind="chapter"></span>
 
 
-               CHAPTER V
+CHAPTER V
 _Men and Masters_                    105
 
 
@@ -11883,7 +11883,7 @@ _Men and Masters_                    105
 <span class="atom-split" data-atom="chapter_22" data-title="Hard Times — Chapter 6" data-chapter="Chapter 22" data-kind="chapter"></span>
 
 
-               CHAPTER VI
+CHAPTER VI
 _Fading Away_                        116
 
 
@@ -11892,7 +11892,7 @@ _Fading Away_                        116
 <span class="atom-split" data-atom="chapter_23" data-title="Hard Times — Chapter 7" data-chapter="Chapter 23" data-kind="chapter"></span>
 
 
-              CHAPTER VII
+CHAPTER VII
 _Gunpowder_                          126
 
 
@@ -11901,7 +11901,7 @@ _Gunpowder_                          126
 <span class="atom-split" data-atom="chapter_24" data-title="Hard Times — Chapter 8" data-chapter="Chapter 24" data-kind="chapter"></span>
 
 
-              CHAPTER VIII
+CHAPTER VIII
 _Explosion_                          136
 
 
@@ -11910,7 +11910,7 @@ _Explosion_                          136
 <span class="atom-split" data-atom="chapter_25" data-title="Hard Times — Chapter 9" data-chapter="Chapter 25" data-kind="chapter"></span>
 
 
-               CHAPTER IX
+CHAPTER IX
 _Hearing the Last of it_             146
 
 
@@ -11919,7 +11919,7 @@ _Hearing the Last of it_             146
 <span class="atom-split" data-atom="chapter_26" data-title="Hard Times — Chapter 10" data-chapter="Chapter 26" data-kind="chapter"></span>
 
 
-               CHAPTER X
+CHAPTER X
 _Mrs. Sparsit’s Staircase_           152
 
 
@@ -11928,7 +11928,7 @@ _Mrs. Sparsit’s Staircase_           152
 <span class="atom-split" data-atom="chapter_27" data-title="Hard Times — Chapter 11" data-chapter="Chapter 27" data-kind="chapter"></span>
 
 
-               CHAPTER XI
+CHAPTER XI
 _Lower and Lower_                    156
 
 
@@ -11937,9 +11937,9 @@ _Lower and Lower_                    156
 <span class="atom-split" data-atom="chapter_28" data-title="Hard Times — Chapter 12" data-chapter="Chapter 28" data-kind="chapter"></span>
 
 
-              CHAPTER XII
+CHAPTER XII
 _Down_                               163
-     _BOOK THE THIRD_.  _GARNERING_
+_BOOK THE THIRD_.  _GARNERING_
 
 
 
@@ -11947,7 +11947,7 @@ _Down_                               163
 <span class="atom-split" data-atom="chapter_29" data-title="Hard Times — Chapter 1" data-chapter="Chapter 29" data-kind="chapter"></span>
 
 
-               CHAPTER I
+CHAPTER I
 _Another Thing Needful_              167
 
 
@@ -11956,7 +11956,7 @@ _Another Thing Needful_              167
 <span class="atom-split" data-atom="chapter_30" data-title="Hard Times — Chapter 2" data-chapter="Chapter 30" data-kind="chapter"></span>
 
 
-               CHAPTER II
+CHAPTER II
 _Very Ridiculous_                    172
 
 
@@ -11965,7 +11965,7 @@ _Very Ridiculous_                    172
 <span class="atom-split" data-atom="chapter_31" data-title="Hard Times — Chapter 3" data-chapter="Chapter 31" data-kind="chapter"></span>
 
 
-              CHAPTER III
+CHAPTER III
 _Very Decided_                       179
 
 
@@ -11974,7 +11974,7 @@ _Very Decided_                       179
 <span class="atom-split" data-atom="chapter_32" data-title="Hard Times — Chapter 4" data-chapter="Chapter 32" data-kind="chapter"></span>
 
 
-               CHAPTER IV
+CHAPTER IV
 _Lost_                               186
 
 
@@ -11983,7 +11983,7 @@ _Lost_                               186
 <span class="atom-split" data-atom="chapter_33" data-title="Hard Times — Chapter 5" data-chapter="Chapter 33" data-kind="chapter"></span>
 
 
-               CHAPTER V
+CHAPTER V
 _Found_                              193
 
 
@@ -11992,7 +11992,7 @@ _Found_                              193
 <span class="atom-split" data-atom="chapter_34" data-title="Hard Times — Chapter 6" data-chapter="Chapter 34" data-kind="chapter"></span>
 
 
-               CHAPTER VI
+CHAPTER VI
 _The Starlight_                      200
 
 
@@ -12001,7 +12001,7 @@ _The Starlight_                      200
 <span class="atom-split" data-atom="chapter_35" data-title="Hard Times — Chapter 7" data-chapter="Chapter 35" data-kind="chapter"></span>
 
 
-              CHAPTER VII
+CHAPTER VII
 _Whelp-Hunting_                      208
 
 
@@ -12010,7 +12010,7 @@ _Whelp-Hunting_                      208
 <span class="atom-split" data-atom="chapter_36" data-title="Hard Times — Chapter 8" data-chapter="Chapter 36" data-kind="chapter"></span>
 
 
-              CHAPTER VIII
+CHAPTER VIII
 _Philosophical_                      216
 
 
@@ -12019,12 +12019,12 @@ _Philosophical_                      216
 <span class="atom-split" data-atom="chapter_37" data-title="Hard Times — Chapter 9" data-chapter="Chapter 37" data-kind="chapter"></span>
 
 
-               CHAPTER IX
+CHAPTER IX
 _Final_                              222
 
 LIST OF ILLUSTRATIONS
 
-                                                             PAGE
+PAGE
 _Stephen and Rachael in the Sick-room_                         64
 _Mr. Harthouse Dining at the Bounderbys’_                     100
 _Mr. Harthouse and [[Tom Gradgrind]] in the Garden_               132
@@ -13140,9 +13140,9 @@ day, and was a little shaken in her reserved composure for the first
 be on the look-out for you, when you come back.  I say, my dear Loo!
 AN’T it uncommonly jolly now!’
 
-                                * * * * *
+* * * * *
 
-                          END OF THE FIRST BOOK
+END OF THE FIRST BOOK
 
 
 
@@ -13747,9 +13747,9 @@ fall upon the ground!’  And he laid her down there, and saw the [[Pride|pride]
 his heart and the triumph of his system, lying, an insensible heap, at
 his feet.
 
-                                * * * * *
+* * * * *
 
-                          END OF THE SECOND BOOK
+END OF THE SECOND BOOK
 
 
 
@@ -13999,7 +13999,7 @@ foot, swept disdainfully past him, and ascended the staircase.  Mr.
 Bounderby closed the door, and stood before the [[Fire|fire]]; projecting himself
 after his old explosive manner into his portrait—and into futurity.
 
-                                * * * * *
+* * * * *
 
 Into how much of futurity?  He saw Mrs. Sparsit fighting out a daily
 fight at the points of all the weapons in the female armoury, with the
@@ -14038,7 +14038,7 @@ this and with that and with what not, five nights a-week, until the small
 hours of the morning?  Probably he had that much foreknowledge, knowing
 his men.
 
-                                * * * * *
+* * * * *
 
 Here was Louisa on the [[Night|night]] of the same day, watching the [[Fire|fire]] as in
 days of yore, though with a gentler and a humbler face.  How much of the
@@ -14775,10 +14775,10 @@ unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:
 <span class="atom-split" data-atom="chapter_42--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
 
 
-    There was an old woman, and what do you think?
-    She lived upon nothing but victuals and drink;
-    Victuals and drink were the whole of her diet,
-    And yet this old woman would NEVER be quiet.
+There was an old woman, and what do you think?
+She lived upon nothing but victuals and drink;
+Victuals and drink were the whole of her diet,
+And yet this old woman would NEVER be quiet.
 
 Is it possible, I [[Wonder|wonder]], that there was any analogy between the case of
 the Coketown population and the case of the little Gradgrinds?  Surely,
@@ -14922,10 +14922,10 @@ upon the sign-board, the Pegasus’s Arms was inscribed in Roman letters.
 Beneath that [[Inscription|inscription]] again, in a flowing scroll, the painter had
 touched off the lines:
 
-    Good malt makes good beer,
-    Walk in, and they’ll draw it here;
-    Good wine makes good brandy,
-    Give us a call, and you’ll find it handy.
+Good malt makes good beer,
+Walk in, and they’ll draw it here;
+Good wine makes good brandy,
+Give us a call, and you’ll find it handy.
 
 Framed and glazed upon the wall behind the dingy little bar, was another
 Pegasus—a theatrical one—with real gauze let in for his wings, golden
@@ -15551,8 +15551,8 @@ An Englishman’s [[house]] is his [[Castle|castle]], Church and State, and God 
 [[Queen]], all put together.  And as often (and it was very often) as an
 orator of this kind brought into his peroration,
 
-    ‘Princes and lords may flourish or may fade,
-    A breath can make them, as a breath has made,’
+‘Princes and lords may flourish or may fade,
+A breath can make them, as a breath has made,’
 
 —it was, for certain, more or less understood among the company that he
 had heard of Mrs. Sparsit.
@@ -16761,7 +16761,7 @@ low.’
 compassionate accents.  ‘I am thy poor friend, with all my heart and
 mind.’
 
-             [Picture: Stephen and Rachael in the sick room]
+[Picture: Stephen and Rachael in the sick room]
 
 The wounds of which she had spoken, seemed to be about the neck of the
 [[Self|self]]-made outcast.  She dressed them now, still without showing her.  She
@@ -18261,7 +18261,7 @@ return to his hotel, and was a little doubtful whether he knew the way by
 [[Night|night]], the whelp immediately proffered his services as guide, and turned
 out with him to escort him thither.
 
-            [Picture: Mr. Harthouse dines at the Bounderby’s]
+[Picture: Mr. Harthouse dines at the Bounderby’s]
 
 
 
@@ -19764,7 +19764,7 @@ together, ‘have you been carving on the trees?’
 ‘You have a suspicious appearance of inscribing some fair creature’s on
 the bark, Tom.’
 
-         [Picture: Mr. Harthouse and [[Tom Gradgrind]] in the [[Garden|garden]]]
+[Picture: Mr. Harthouse and [[Tom Gradgrind]] in the [[Garden|garden]]]
 
 ‘Not much of that, Mr. Harthouse, unless some fair creature with a
 slashing fortune at her own disposal would take a fancy to me.  Or she
@@ -21850,11 +21850,11 @@ The Great Pyramid put it into his head to go up the Nile.  He took a pen
 upon the instant, and wrote the following note (in appropriate
 hieroglyphics) to his brother:
 
-    Dear Jack,—All up at Coketown.  Bored out of the place, and going in
-    for camels.
+Dear Jack,—All up at Coketown.  Bored out of the place, and going in
+for camels.
 
-                                                           Affectionately,
-                                                                      JEM.
+Affectionately,
+JEM.
 
 He rang the bell.
 
@@ -23341,7 +23341,7 @@ ha’ suspect’n me.  But look up yonder, Rachael!  Look aboove!’
 
 Following his eyes, she saw that he was gazing at a star.
 
-      [Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
+[Picture: [[Stephen Blackpool]] recovered from the Old Hell Shaft]
 
 ‘It ha’ shined upon me,’ he said reverently, ‘in my [[Pain|pain]] and trouble down
 below.  It ha’ shined into my mind.  I ha’ look’n at ’t and thowt o’
@@ -23414,7 +23414,7 @@ Redeemer’s rest.
 
 
 
-<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_01" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 1)" data-chapter="Chapter 73 it was consented that Sissy an" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_01" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 1)" data-chapter="it was consented that Sissy an" data-kind="excerpt"></span>
 
 
 part—it was consented that Sissy and Louisa should repair to the place in
@@ -23535,7 +23535,7 @@ Overtheer and makin’ a fortun.’
 
 
 
-<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_02" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 2)" data-chapter="Chapter 73 it was consented that Sissy an" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_02" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 2)" data-chapter="it was consented that Sissy an" data-kind="excerpt"></span>
 
 
 These various changes, Mr. Sleary, very short of breath now, related with
@@ -23659,7 +23659,7 @@ but I didn’t.  Now you know all about it.’
 
 
 
-<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_03" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 3)" data-chapter="Chapter 73 it was consented that Sissy an" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_03" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 3)" data-chapter="it was consented that Sissy an" data-kind="excerpt"></span>
 
 
 ‘If a thunderbolt had fallen on me,’ said the father, ‘it would have

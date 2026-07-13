@@ -16,11 +16,11 @@ tags:
 
 All Is Grist
 
-                  A Book of Essays, first published 1931
+A Book of Essays, first published 1931
 
-                            By G.K.Chesterton
+By G.K.Chesterton
 
-                                 Contents
+Contents
 
 CHAPTER
 
@@ -81,11 +81,11 @@ the domestic dissolution that seemed to threaten a social dissolution.
 Many have had occasion to strike the lyre and lament in the mournful
 language of Mr. Bentley's Ballade:
 
-    Rupert has bolted with the children's [[Nurse|nurse]],
-    Claude has declared himself an Infidel.
+Rupert has bolted with the children's [[Nurse|nurse]],
+Claude has declared himself an Infidel.
 
 The peculiarity of the recent social tendency is that a visiting-card
-inscribed `Mr. and Mrs. Rupert' is carefully engraved to cover the fact
+inscribed ‘Mr. and Mrs. Rupert' is carefully engraved to cover the fact
 that the children's nurse is no longer looking after the children.
 The peculiarity of the position is not that Claude has proclaimed
 himself an Infidel; but, that Claude has proclaimed himself
@@ -108,26 +108,26 @@ are a great many other examples of this curious contradiction
 with relation to convention.  It appears not only in the manners,
 but in the language, and especially the slang, of society.
 There is a queer sort of prudery about slang, and modernity shows
-it most in what it calls `facing the facts of [[Nature|nature]]'.
+it most in what it calls ‘facing the facts of [[Nature|nature]]'.
 
 For instance, there was a [[Time|time]] when it was customary to call
 a father a father; which seems to me a very normal example of
 calling a spade a spade.  There were, of course, many variations,
 both formal and familiar, in different times and communities.
 But most men have used a language as ancient and traditional as that of
-Esau when he cried aloud, `Hast thou not a blessing for me, O my father?'
+Esau when he cried aloud, ‘Hast thou not a blessing for me, O my father?'
 Now as far as I can discover from the social authorities who tell
 us all about the Rising Generation and the Bright Young Things,
 it appears to be considered a mark of advanced intelligence to call
 your father a bean or a scream, or possibly Tom, Dick, and Harry,
 in reference (or without reference) to his Christian name.
 Broadly speaking, the parent of the progressive age appears to
-answer to `Hi!' or to any loud cry; and it seems to be considered
+answer to ‘Hi!' or to any loud cry; and it seems to be considered
 in itself a proof of progress that the cries are very loud indeed.
 But loud cries do not make any difference to [[logic]]; and in this
 case the [[logic]] is all the other way.  It is obvious to me that
-calling the old gentleman `father' is facing the facts of nature.
-It is also obvious that calling him `bean' is not facing the facts
+calling the old gentleman ‘father' is facing the facts of nature.
+It is also obvious that calling him ‘bean' is not facing the facts
 of [[Nature|nature]].  It is, so far as that example is concerned, perhaps,
 merely weaving a graceful fairy-tale to cover the facts of [[Nature|nature]].
 It is prettily pretending for a moment that the Heavy Father
@@ -312,7 +312,7 @@ be other kinds of [[Freedom|freedom]] besides that of the free-born Englishman,
 and yet leave an ultimate significance in the ideal of being free.
 Broadly, I should say that the commonwealth is healthy in which
 all things are not common, but some things, in the exact sense
-of the phrase, `distinguished'. Many who talk about distinction
+of the phrase, ‘distinguished'. Many who talk about distinction
 mean only aristocratic distinction; and by that mean only fashion.
 But fashion is almost the opposite of distinction.  A democracy can
 be distinguished, if its citizens are distinguishable; if each has
@@ -353,7 +353,7 @@ would say, at one with Nature.  Nature is inferior to man in many things,
 but most of all in respect of the human speciality of humour.
 For the rest, goatishness has often been made a sort of symbol
 of paganism; but even among the pagans it was not regarded as
-the highest form of paganism.  `Half a beast is the great god Pan'
+the highest form of paganism.  ‘Half a beast is the great god Pan'
 as the poet very truly observed; and the satyr and the faun were
 conceived as being half-human and half-goatish, presumably on
 the principle that half a goat is better than no beastliness.
@@ -489,26 +489,26 @@ the vigorous agent of a company named after Edison--in short,
 a man with all the unquestioned stigmata of a Regular Guy,
 rigorous and energetic in the application of science to business,
 has recently astonished his friends by delivering an address with
-the truly admirable title, `Wanted--An Unpractical Education'.
+the truly admirable title, ‘Wanted--An Unpractical Education'.
 I have only read his remarks in an indirect form, but they seem to me
-quite excellent remarks.  `My complaint would be rather that training
+quite excellent remarks.  ‘My complaint would be rather that training
 youth to earn a living is not [[Education|education]] at all; second, that a specific
 training may keep the youngster from earning the best kind of living;
-and third, that it can't be done in school anyhow.'  Or, again, `I would
+and third, that it can't be done in school anyhow.'  Or, again, ‘I would
 infinitely prefer that education fit him for happiness and decency
 in poverty, than for wealth acquired through the sacrifice of himself
 and his character.'  These are almost startlingly sensible counsels;
 though what they would look like side by side with those shiny and
-strenuous advertisements inscribed `You Can Add Ten Thousand Dollars
-to Your Salary', or `This Man Trebled his Turnover in Two Weeks',
+strenuous advertisements inscribed ‘You Can Add Ten Thousand Dollars
+to Your Salary', or ‘This Man Trebled his Turnover in Two Weeks',
 it is not my province to conjecture.
 
 But this extraordinary affair called Business Education, which has
 begun to be supported in England after having long subsisted
 in America, has another aspect perhaps not so easy to explain.
 When I say that we want to train the citizen and not the city man,
-or the equivocal `something in the [[City|city]]', I mean even more than
-Mr. Parker's just and rational ideal of `the fitting of students
+or the equivocal ‘something in the [[City|city]]', I mean even more than
+Mr. Parker's just and rational ideal of ‘the fitting of students
 to live richly and fully and contribute most broadly to the welfare
 of the social group who have paid for their education'.
 Being myself a senile survival of the old republican idealism
@@ -521,11 +521,11 @@ by which he can judge material and fugitive conditions.
 If the citizen is to be a reformer, he must start with some ideal
 which he does not obtain merely by gazing reverently at the
 unreformed institutions.  And if any one asks, as so many are asking:
-`What is the use of my son learning all about ancient Athens
+‘What is the use of my son learning all about ancient Athens
 and remote China and medieval guilds and monasteries, and all sorts
 of dead or distant things, when he is going to be a superior
 scientific plumber in Pimlico?' the answer is obvious enough.
-`The use of it is that he may have some power of comparison,
+‘The use of it is that he may have some power of comparison,
 which will not only prevent him from supposing that Pimlico
 covers the whole planet, but also enable him, while doing full
 credit to the beauties and virtues of Pimlico, to point out that,
@@ -566,9 +566,9 @@ And much of what is called commercial training is really of
 this character.  Stevenson, with the assistance of Lloyd Osbourne
 (himself an American), gives a very vivid and amusing sketch
 of it in The Wrecker.  His American hero very justly resents
-being laughed at merely because he leaves the u out of `colour';
+being laughed at merely because he leaves the u out of ‘colour';
 but adds that his critics might have had a better case had they
-known that his father `had paid large sums to have him brought up
+known that his father ‘had paid large sums to have him brought up
 in a gambling-hell'.
 
 Anyhow, that is what is the matter with Business Education;
@@ -593,7 +593,7 @@ V. On the Intellect of Yesterday
 
 IS the present generation better educated than the last generation?
 Is it more intelligent than any one of any number of past generations?
-Most of those writing on the subject say `Yes'. Most of them,
+Most of those writing on the subject say ‘Yes'. Most of them,
 by a curious coincidence, belong to the present generation,
 or some very recent generation.  I have no axe to grind in the matter;
 neither the ancestral axe of [[Brutus]], red with the [[Blood|blood]] of his sons,
@@ -657,10 +657,10 @@ of economies and finance.  Perhaps they were not worth printing;
 perhaps they were not worth reading; but they were read.
 Now, it may be very bright and pleasant to have all Gladstone's subtle
 and searching logical distinctions swept away in favour of the fixed
-and unfailing headline of `What Did Mr. Gladstone Say in 1885?'
+and unfailing headline of ‘What Did Mr. Gladstone Say in 1885?'
 It may be very comfortable to forget all the luminous legal
 distinctions of Asquith, and agree that that statesman never said
-anything in this life except `Wait and See'.  But it is not
+anything in this life except ‘Wait and See'.  But it is not
 a proof of increased intellectual activity that we are satisfied
 with the simple and soothing quotations.  The minds of our fathers
 may have been occupied in futile and pedantic hair-splitting,
@@ -830,7 +830,7 @@ a poem in praise of Canada, which very much annoyed the Canadians.
 Many of them stated with great sternness that, if he praised
 them any more, they would give him a good hard knock.
 The ground of the offence was that he had referred to the
-Dominion of Canada as `Our Lady of the Snows'.  This was held
+Dominion of Canada as ‘Our Lady of the Snows'.  This was held
 to imply that Canada has no local industry except snowballing;
 that her principal exports are icebergs; and that the typical
 Canadian citizen is a sort of furry and inarticulate Eskimo.
@@ -838,7 +838,7 @@ One Canadian poet haughtily replied that Canada contained glowing
 maple woods in which England might be lost.  One Canadian painter
 painted an ironical allegory, representing the spirit of the Dominion
 sitting on a pile of gorgeous fruits and varied products of the sun,
-and entitled the picture, `Our Lady of the Snows'.  I am no Imperialist
+and entitled the picture, ‘Our Lady of the Snows'.  I am no Imperialist
 in particular, but the days of my skirmishes with Mr. Kipling
 about Imperialism are long past, and I am affected by the thought
 of leaving Mr. Kipling and Canada in an embrace of [[Reconciliation|reconciliation]].
@@ -859,7 +859,7 @@ though they seldom last long enough for me to make head or tail of it.
 In this ease it appeared in a short letter to the Daily Express,
 which ran, word for word, as follows:
 
-`In reply to your article "What Youth Wants in Church", I assert
+‘In reply to your article "What Youth Wants in Church", I assert
 that it does not want sadness, ceremony, or humbug.
 Youth wants to know only about the present and future, not about
 what happened 2,000 years ago.  If the churches forsake these things,
@@ -910,10 +910,10 @@ the absence of conchology or bacteriology, or anything else.
 I may not want to hear a bore talking about bimetallism,
 but it does not follow that I want to go for a walking tour
 with the bore when he promises not to mention bimetallism.
-I may not wish to listen to the lecture on `Genetics and Genesis'
+I may not wish to listen to the lecture on ‘Genetics and Genesis'
 at the Co-educational Congress at Gum Springs, Ill., but neither do I want
 to go to the Co-educational Congress at Gum Springs, or anywhere else,
-even if there is to be no lecture on `Genetics and Genesis'.
+even if there is to be no lecture on ‘Genetics and Genesis'.
 And surely those who are so innocently confident of the attraction
 of merely negative religion might realize that a broad-minded
 parson can be as much of a bore about nothing as anybody can
@@ -946,7 +946,7 @@ but only all that they stand for.  So they see in front of them
 a solid block of brick called a church.  They accept that;
 they cannot conceive a real revolt against that; they are even ready
 to throw themselves into all sorts of schemes for making this mere
-brick building fashionable, so that people shall `flock' to it.
+brick building fashionable, so that people shall ‘flock' to it.
 It commands their strange loyalty in its own strange way, merely by
 being there.  It is a solid fact; something must be done with it;
 and therefore something must be done for it.  In pure reason, it is about
@@ -970,7 +970,7 @@ without the reason.  In the world of ideas he can alter anything,
 however fundamental, as if it were something fanciful.
 But he cannot be fanciful about a fact like a brick building;
 that is a solid object, and must be made a solid [[success]].
-People must be induced to `flock' to it, even if it has to be turned
+People must be induced to ‘flock' to it, even if it has to be turned
 into an aquarium or an aerodrome.  In one sense, to do him justice,
 this melancholy materialist is the most disinterested of men.
 The mystic is one who will serve something invisible for his own reasons.
@@ -987,8 +987,8 @@ especially in America; they call themselves the Behaviourists,
 and the late Mr. Harvey Wickham called them the Misbehaviourists.
 So far as I can understand, their philosophy is rooted in a theory
 of physiology:  the theory that thought is originally a sort of movement
-of the body rather than the brain.  `There is nothing in the brain,'
-I think one of them has written, `except a lot of neurons.
+of the body rather than the brain.  ‘There is nothing in the brain,'
+I think one of them has written, ‘except a lot of neurons.
 We do not think with our minds.  We think with our muscles.'
 Those of us, that is, who are so old-fashioned as to think at all.
 For we have all seen vigorous representatives of the rising
@@ -1011,7 +1011,7 @@ It does not matter to any Christian whether God has made a man to think
 with his brains or his big toe.  But it did matter very much to the recent
 type of Materialist that a man could only think with his brains.  He was
 perpetually basing all sorts of destructive arguments on an analysis
-of what he called the convolutions and the `matter' in the brain.
+of what he called the convolutions and the ‘matter' in the brain.
 He was as devoted as M. Hercule Poirot to The Little Grey Cells;
 but, alas! with far less brilliant and entertaining results.
 All that the Behaviourist does is, in every sense, to dash
@@ -1060,9 +1060,9 @@ guides to [[Truth|truth]] is a certain craving for creative movement:
 a [[Longing|longing]] to stretch the limbs, to smite, to scrawl, to make
 sweeping gestures, to lift up the hands as [[Well|well]] as the heart.
 There is an instinctive movement of the [[Body|body]] towards better and
-nobler things, as in the text that said, `I will lift up mine eyes
+nobler things, as in the text that said, ‘I will lift up mine eyes
 to the hills', or in that divine command of liberation that took
-the form of `Stretch forth thine hand'.  The old ceremonial gestures
+the form of ‘Stretch forth thine hand'.  The old ceremonial gestures
 of the human [[Body|body]] are necessary to the health of the human [[Soul|soul]]:
 the gesture that pledged the guest in the goblet that strewed
 the [[Flowers|flowers]] upon the [[Grave|grave]]; that drew the [[Sword|sword]] for the salute
@@ -1084,7 +1084,7 @@ or medieval Behaviourism.  The words seem to carry with them a gesture;
 it is impossible not to feel that the poet is doing something;
 is bowing to a lady or standing up to salute a sovereign;
 is lifting an offering up or casting an offering down.  Such an opening
-as `Almighty and all-mercyable Queen' has a breadth about it beyond
+as ‘Almighty and all-mercyable Queen' has a breadth about it beyond
 that of the brain, in the narrow sense, because such invocation is,
 among other things, one of the most ancient human habits of the body.
 Of course, that broad and expansive gesture can be found in other
@@ -1092,8 +1092,8 @@ poets besides Chaucer, and other schools besides Chaucer's. But it
 has not expanded with the particular modern type of expansion.
 Milton was capable of it:
 
-    Thine are these mighty works, Parent of Good, 
-    Almighty, thine this everlasting frame.
+Thine are these mighty works, Parent of Good, 
+Almighty, thine this everlasting frame.
 
 But it seems to me that, after Milton, there is in literature less
 and less of that sort of invocation, even when there are many other
@@ -1128,7 +1128,7 @@ for men never grow wise and many old men retain a very attractive
 childishness and cheerful innocence.  Elderly people are often much
 more romantic than younger people, and sometimes even more adventurous,
 having begun to realize how many things they do not know.
-It is a true proverb, no doubt, which says `There is no [[Fool|fool]]
+It is a true proverb, no doubt, which says ‘There is no [[Fool|fool]]
 like an old [[Fool|fool]]'.  Perhaps there is no [[Fool|fool]] who is half so happy
 in his own [[Fool|fool]]'s paradise.  But, however this may be, it is true
 that the advantages of maturity are not those which are generally
@@ -1155,7 +1155,7 @@ by the proverb about letting a sleeping dog lie, or the [[Fable|fable]]
 about the dog in the manger.  Now those dead phrases are quite alive
 to me, for they are parts of a perfectly practical psychology.
 Until I went to live in the country, I had no notion of the meaning
-of the maxim, `It's an ill wind that blows nobody good'.
+of the maxim, ‘It's an ill wind that blows nobody good'.
 Now it seems to me as pertinent and even pungent as if it were
 a new remark just made to me by a neighbour at the garden gate.
 It is something to come to live in a world of living and significant
@@ -1194,7 +1194,7 @@ We had read ten thousand times, to the point of tedium, of the difference
 between the Napoleon of Marengo and the Napoleon of Moscow; but we
 should never have expected Moscow if we had been looking at Marengo.
 We knew that Charles the Fifth resigned his crown, or that Charles
-the First lost his head; and we should have duly remarked `Sic
+the First lost his head; and we should have duly remarked ‘Sic
 transit gloria mundi', after the incident, but not before it.
 We had been told that the Roman Empire declined, or that the
 Spanish Empire disintegrated; but no German ever really applied
@@ -1273,8 +1273,8 @@ Mr. H. L. Mencken is at least a brilliant man of letters and ought
 to know better.  But he, I gather, has just been coming out in defence
 of the dead and buried negations of the nineteenth century, and gallantly
 doing his best to prevent American science from moving with the times.
-His way of doing it seems to be to play about with the word `Scientist'
-in opposition to some other word like the word `Physicist'. `Scientist'
+His way of doing it seems to be to play about with the word ‘Scientist'
+in opposition to some other word like the word ‘Physicist'. ‘Scientist'
 is a horrible word to be driven to use, though I have often been
 driven to use it; but all these terms for the study of science are
 in a very unscientific confusion.  It would be embarrassing to summon
@@ -1303,7 +1303,7 @@ but in my time it used to be called a journalist.
 It is great fun, for what it really means is that the scientific
 materialist never cared for science but only for materialism.
 So long as he supposed that material inquiry supported materialism,
-he roared and bellowed at us that we must `accept the conclusions
+he roared and bellowed at us that we must ‘accept the conclusions
 of science'.  But he is not the least inclined himself to accept
 the conclusions of science, if they happen to go against his
 own crude and clumsy creed.  The Darwinians would have been
@@ -1408,11 +1408,11 @@ entirely neglected, and which I think is of very great and vital
 importance to the [[history]] of England.
 
 The critic in question says of Trollope, truly enough in the main:
-`He scarcely concerned himself with the lower orders.'
+‘He scarcely concerned himself with the lower orders.'
 We may add that the whole system of English squirearchy scarcely
 concerned itself with the lower orders; or only in the same vague
 and well meaning way as Trollope.  But when the critic adds,
-`His values were those of the middle class', he misses the point--
+‘His values were those of the middle class', he misses the point--
 the point which I think important about English [[history]].
 It is not really true, as a whole, that his characters were middle class.
 It might be said more truly that Dickens dealt largely with the middle
@@ -1507,7 +1507,7 @@ to that of the ordinary gentleman, let [[Alone|alone]] the ordinary citizen.
 They owned every thing, and Trollope knew it.  What other possible meaning
 is there in the title of The Duke of Omnium?  Thackeray also knew it.
 What possible other meaning is there in that fine satiric flourish,
-`I am not a Whig . . . but oh, how I should like to be!'?
+‘I am not a Whig . . . but oh, how I should like to be!'?
 Even the waiters and couriers on the Continent knew it.
 What other meaning was in the Arabian Nights legend of the
 English Milord?  Everybody seems to have known it, except the people
@@ -1516,7 +1516,7 @@ who taught history in the schools and universities of England.
 XII.  On the Way of the World
 
 IT was Matthew Arnold, if I remember right, who invented or
-popularized the phrase `the way the world is going', a motto for
+popularized the phrase ‘the way the world is going', a motto for
 social reformers only too easily adapted into a motto for snobs.
 It is not really even a simple, let [[Alone|alone]] a safe, guide, as can
 be easily tested in his own ease.  After all, if it comes to that,
@@ -1554,7 +1554,7 @@ the novels of Miss Ethel M. Dell and all sorts of rubbishy
 tales and essays about the fascination of sheikhs and cavemen.
 In theory the State has been practically secularized and theology
 is a dead and threadbare thing, dismissed disdainfully in every other
-paragraph as a lumber of `creeds and dogmas'.  In practice no newspaper
+paragraph as a lumber of ‘creeds and dogmas'.  In practice no newspaper
 can apparently pay its way without plastering itself all over with
 headlines and captions about the position of Christianity, the nature
 of Christ, the immortality of the soul, the future of the Churches,
@@ -1604,7 +1604,7 @@ Some of the writers deal with the tremendous and pulverizing
 paradox of the Love of God, especially in the aspect of faith
 in the God of Love, as if it were not only perfectly self-evident,
 but as if it could have no effect except to make us self-satisfied.
-The thunderous riddle of the `Est Deus Caritatis' which broke
+The thunderous riddle of the ‘Est Deus Caritatis' which broke
 above the dying Brand after his life of agony on the peak of his
 perfect [[Renunciation|renunciation]], seems to be uttered chirpily every morning
 to every clerk or stockbroker who will be sufficiently broadminded
@@ -1678,7 +1678,7 @@ whole mind.  There are certain statements that are true as far as they go,
 and even important and interesting as far as they go, which are yet
 incessantly being used to stop the mind from going any farther.
 One of these, for example, is the phrase we find in the phraseology
-of all our literature and journalism; `Rapid modern communications
+of all our literature and journalism; ‘Rapid modern communications
 are bringing different parts of the world nearer and nearer together.
 It takes but a few days to go to Siberia by train; it may take but
 a few hours to go there by aeroplane.  Instead of being at the ends
@@ -1697,8 +1697,8 @@ any antiquarian scholarship about that somewhat obscure district;
 I would undertake to say that there were some ideas common
 to the Siberian and the Suburban.  I should guess, for instance,
 that the Asiatic savages had some rudimentary idea of private property.
-I suspect that a Siberian would have said, `This is my spear',
-as confidently as the Surbitonian would have said, `This is my umbrella'.
+I suspect that a Siberian would have said, ‘This is my spear',
+as confidently as the Surbitonian would have said, ‘This is my umbrella'.
 It is probable that there was some sort of religion in Siberia,
 as it is probable that there is some sort of religion in Surbiton.
 The traveller to-day could get ten times more quickly to the
@@ -2156,7 +2156,7 @@ from the wedding to the bells, and from the bells to the church.
 But modern philosophy has taken the life out of modern fiction.
 It is simply dissolving into separate fragments and then
 into formlessness; and deserves much more than the romantic novel
-the modern reproach of being `sloppy'.
+the modern reproach of being ‘sloppy'.
 
 XVII.  On [[logic|Logic]] and Lunacy
 
@@ -2164,7 +2164,7 @@ THE idea of [[logic]] is so entirely lost in this phase of
 philosophical [[history]], that even those who invoke it do so rather
 as the Athenians once invoked the Unknown God, or the men of
 the Dark Ages retained a dim respect for Virgil as a conjurer.
-The very people who say, `be logical', will generally be found to be
+The very people who say, ‘be logical', will generally be found to be
 quite illogical in their own notion of logic.  One of the last men
 who understood logic in its full and impartial sense, died only lately:
 the late William Johnson of King's College, Cambridge; one of
@@ -2190,16 +2190,16 @@ and the British Empire by raising the question of whether a girl
 ought to smoke a cigar.  But what I noted about his, and about
 the hundred eager correspondents who pursued this great theme,
 was that they wrote again and again some such sentence as this:
-`If you like a girl to smoke a cigarette, why can't you be logical
+‘If you like a girl to smoke a cigarette, why can't you be logical
 and like her to smoke a cigar?'  Now I do not care an ounce of shag
 whether she smokes a cigarette or a cigar or a corn-cob pipe
 or a hubble-bubble, or whether she smokes three cigars at once,
 or whether she is an Anti-Tobacco crank.  But it is none the less
-true that when a man writes that sentence telling us to `be logical',
+true that when a man writes that sentence telling us to ‘be logical',
 he shows that he has never even heard of the nature of logic.
-He might just as well write:  `You like the look of a [[Horse|horse]];
+He might just as well write:  ‘You like the look of a [[Horse|horse]];
 why won't you be logical and like the look of a hippopotamus?'
-The only answer is, `Well, I don't; and it is not illogical,
+The only answer is, ‘Well, I don't; and it is not illogical,
 because it does not in any way invade the realm of logic.
 A man has a perfect right to say that he likes the look of one thing
 and does not like the look of another thing; or even that he likes
@@ -2208,8 +2208,8 @@ but somewhat similar thing.  It is all a question of liking;
 and not in the least a question of logic.  There is no logical
 compulsion upon him whatever to go on from the smaller to the larger
 and like them both.  The man who uses this phrase attaches some queer
-particular meaning to the word `logical'; something that is dimly
-adumbrated in the words, `extremist' or `going the whole hog'.
+particular meaning to the word ‘logical'; something that is dimly
+adumbrated in the words, ‘extremist' or ‘going the whole hog'.
 But if my appetite is so small that I only require half a hog
 for breakfast, I am not any less of a logician because I refuse
 to eat the whole hog for breakfast.  The obligation to eat
@@ -2219,18 +2219,18 @@ It is not logical, because it has not been deduced from any premises;
 it has simply been stated without reference to any premises.
 
 And that is what is the matter with the modern man who says,
-`be logical'.  He cannot take his own advice, and therefore he cannot
+‘be logical'.  He cannot take his own advice, and therefore he cannot
 state his own first principles.  But though his logic is nonsense
 as he states it, it does refer to some first principles if he could
 only state them.  It all depends on the reason for approving
 of cigarettes or cigars or girls or any other strange creatures.
 What he really means, at the back of his muddled modernistic mind,
-is some thing like this:  `If I approve of Jennifer smoking a cigarette
+is some thing like this:  ‘If I approve of Jennifer smoking a cigarette
 because Jennifer can jolly [[Well|well]] do anything she likes, and does, then it
 is illogical in me to object to her liking a cigar; or for that matter
 an opium-pipe or a pint of laudanum or a bottle of prussic acid.'
 And this statement would really be quite logical, because the logical
-reason is given.  Or if he said, `It is my first principle that women
+reason is given.  Or if he said, ‘It is my first principle that women
 may do anything that men do; therefore I am bound in logic to pass
 the cigars to my daughter as much as to my son,' then that also is
 perfectly reasonable as the application of a stated principle.
@@ -2255,8 +2255,8 @@ There is nothing intrinsically illogical in having affections
 or admirations or appetites, so long as we recognize them reasonably
 as what they are.  But the romantic tradition, as it exists
 in all the romances, is that the logician cannot be romantic.
-It may be remarked that the word `cold' will always be found coupled
-with the word `logical'; I imagine the printers keep such words
+It may be remarked that the word ‘cold' will always be found coupled
+with the word ‘logical'; I imagine the printers keep such words
 together in one block of type.  But the cold logician, though be
 must not be romantic, is almost entirely a creature of romance.
 As a matter of fact and experience, most of the very logical
@@ -2292,7 +2292,7 @@ All that is needed is a little ordinary training and practice;
 the knowledge that inferences rest on their first principles, as men
 rest on their feet.  But without it the world seems to be drifting
 into an intellectual dissolution and destruction, which is at its very
-wildest when some wild voice shrieks out of the chaos; `Be logical'.
+wildest when some wild voice shrieks out of the chaos; ‘Be logical'.
 This strange cry apparently means that you cannot stroke a cat
 without stroking a tiger; or that you are bound to wish the [[house]]
 was on [[Fire|fire]] because you sit by the fireside.
@@ -2434,7 +2434,7 @@ XIX.  On Gossip about Heredity
 
 A SHORT [[Time|time]] ago a distinguished scientific expert, pleading for a more
 normal and less panic-stricken treatment of consumptives, summed up
-one aspect in the decisive words:  `Consumption is no more hereditary
+one aspect in the decisive words:  ‘Consumption is no more hereditary
 than measles.'  He said, of course, that it could attack successive
 members of the same family, and for the same reason as measles.
 I have no authority to speak on the technical point; but a statement
@@ -2461,7 +2461,7 @@ an unreasonable reason) these biological questions have somehow
 been entangled with faith and morals; and that what is raging
 in the street is the war of two philosophies.
 
-Now, almost as soon as the word `heredity' was invented or spoken aloud,
+Now, almost as soon as the word ‘heredity' was invented or spoken aloud,
 it was caught up like a cry in the market-place, and repeated in
 every variation of gossip and chattering comment; applied to this,
 that, and the other, to which it was never in any case applicable;
@@ -2474,7 +2474,7 @@ as the scientists would be the first to admit.
 
 But in the great days when Science was also Fashion, when the world
 had to bow down not only to Darwin but to all Darwinians, when anything
-labelled `Specimens' or `Sections' passed without challenge,
+labelled ‘Specimens' or ‘Sections' passed without challenge,
 and all the camp-followers of materialism were sacred, like the suite
 of an Embassy--in those days of one idea or one tendency there
 arose the most amazing fashion of talking about Heredity.
@@ -2556,16 +2556,16 @@ blighted mankind with superstitions of the destiny and [[Death|death]] of races;
 who told the old Greeks like Oedipus that they were bound to their
 blind crimes; who told the old feudal tribes that there was a curse
 on a [[Castle|castle]] or an abortion that was the burden of a family.
-And when modern science said `Heredity' the old fiend stirred,
+And when modern science said ‘Heredity' the old fiend stirred,
 and saw a new chance of renewing the old bondage.  For however we take
 the symbols, it was a wise instinct by which heaven was symbolized
 by wings that are free as the wind, and hell symbolized by chains.
 
 XX.  On Dante and Beatrice
 
-THE interesting, one might almost say amusing, idea of `The Poets on
+THE interesting, one might almost say amusing, idea of ‘The Poets on
 the Poets', the series published by Messrs.  Faber and Faber, is described
-by those playful publishers themselves as based `on the impudent maxims,
+by those playful publishers themselves as based ‘on the impudent maxims,
 "Set a Poet to catch a Poet" and "Bards of a feather flock together"'.
 I am not sure that the latter motto is so exact as the former.
 Thus Mr. Humbert Wolfe is to write on Tennyson; and it would never
@@ -2608,7 +2608,7 @@ particular morning, and with such scorching despair the fact that she
 had not nodded or smiled at him on another morning, was most certainly
 in love, It was first love, calf-love, moon-calf-love, no doubt,
 but certainly human love; and if it wasn't I will modestly
-exclaim with Shakespeare, `I never writ nor no man ever loved.'
+exclaim with Shakespeare, ‘I never writ nor no man ever loved.'
 And that [[Dante]] does mean the same young woman to reappear in the
 Paradiso is obvious, not only from many phrases in the Paradiso,
 but from the quite definite words at the end of the Vita Nuova.
@@ -2692,7 +2692,7 @@ sided mystery of [[Beauty|beauty]], to be seen also in the grass and the sea,
 and even in the dead gods.  There is a promise in and yet beyond
 all such pictures; and the poet can see grass or the great sea
 or the great [[Ship|ship]] going over it, hearing a sort of whisper:
-`Thine eyes shall see the King in his beauty.'
+‘Thine eyes shall see the King in his beauty.'
 
 XXI.  On Quacks in the Home
 
@@ -2733,11 +2733,11 @@ The general rule is that nothing must be accepted on any ancient
 or admitted authority, but everything must be accepted on any new or
 nameless authority, or accepted even more eagerly on no authority at all.
 It is quite satisfactory, of course, if any nobody says in any newspaper:
-`Dr. Binns, of Buffalo, has told us that, while aunts may be fond
+‘Dr. Binns, of Buffalo, has told us that, while aunts may be fond
 of nephews, great-aunts always have an instinctive hatred and aversion
 both for nephews and nieces.'  But it is even more convincing than
 that if the information is anonymous in every way, and the writer
-merely states:  `Recent science has shown that second cousins are
+merely states:  ‘Recent science has shown that second cousins are
 naturally antagonistic, but that in second cousins once removed,
 the antagonism is sometimes introverted into suicidal mania.'
 Where all these statements come from nobody knows.  Where they
@@ -2765,7 +2765,7 @@ The instructor informs us that there can be between parent and child
 a negative transference (the intense italics arc his), which seems
 to mean, not merely that the child will hate the parent, but that
 the child will love somebody who is the opposite of the hated parent.
-`Thus a [[Child|child]] who is treated coldly by his mother will come
+‘Thus a [[Child|child]] who is treated coldly by his mother will come
 to reject all people like his mother and seek for her opposite.
 We will say the mother is good, honest, moral, even pious.
 The boy will gravitate to some one crooked, immoral, or even wicked,
@@ -2781,7 +2781,7 @@ But what is meant by the mother being good, as distinct from her
 being moral?  What is meant by the mother's mysterious rival
 being immoral, as distinct from being wicked?  And what in
 the name of goodness (or [[morality]]) is meant by the mysterious
-word `even', which is reserved only for wickedness and for piety?
+word ‘even', which is reserved only for wickedness and for piety?
 The transference of these thoughts, from writer to reader,
 is a very negative transference indeed.  However, the writer,
 having said that the mother's goodness, which seems to be the same
@@ -2792,7 +2792,7 @@ be cold.  Revolt, we are told, sometimes leads to new ways of life,
 and it may be highly satisfactory that the boy should seek for the
 opposite of his mother.  But what is the opposite of your mother?
 As a point of logic, it seems rather subtle; nor does the logician
-here instructing us give us very much help.  `A [[Rebel|rebel]] boy may,
+here instructing us give us very much help.  ‘A [[Rebel|rebel]] boy may,
 of course, become, like the proverbial minister's son, a good-for-naught
 or a crook; on the other hand, a boy like Balzac who hated his
 practical father, became a great novelist--his father's opposite.
@@ -2804,7 +2804,7 @@ that he succeeded very [[Well|well]].  I am not quite sure what is the opposite
 of a poor fiddler, but certainly it is not a great composer.
 There may be many a great composer who has been a poor fiddler,
 and many a poor fiddler who may yet be a great composer.
-The same mysterious use of the word `opposite' darkens the other
+The same mysterious use of the word ‘opposite' darkens the other
 instance given from the career of Balzac.  I cannot understand why,
 in logic, a great novelist is the exact contrary of a practical father.
 I do not see why any child may not happen to rejoice in the possession
@@ -2812,7 +2812,7 @@ of a great practical novelist-father. The children of Sir Walter Scott,
 for instance, to a great extent did so, despite the accident which
 ruined his later fortunes.  But it is not only false in the typical
 case of Scott, it is far from true even in the actual case of Balzac.
-Balzac had a decidedly `practical' side to him; he was not only busy,
+Balzac had a decidedly ‘practical' side to him; he was not only busy,
 but business-like, in his own way; and, anyhow, all these
 crude contrasts about complex characters are all nonsense.
 Balzac did not become a great novelist because his father had annoyed
@@ -2833,7 +2833,7 @@ a crop of modern proverbs, or phrases, which everybody repeats
 for the hundredth [[Time|time]] and nobody examines for the first [[Time|time]],
 or they would instantly be found to be false.  A typical case is that
 which we have all heard again and again in some such form as this:
-`In every age people have thought their own time prosaic
+‘In every age people have thought their own time prosaic
 and only the past poetical.  If you think the medieval or any
 other period picturesque, that is only the glamour of antiquity;
 men in those days felt about them as you do about these days.
@@ -2848,8 +2848,8 @@ has summarized the notion admirably in a poem about Romance being
 at all times actually in the present and apparently in the past--
 a poem beginning, I think:
 
-    `Farewell, [[Romance]],' the cavemen cried,
-    With bone and flint he went away.
+‘Farewell, [[Romance]],' the cavemen cried,
+With bone and flint he went away.
 
 I need hardly say that there is not a grain of anything remotely
 resembling evidence that the cavemen ever cried anything of the sort.
@@ -2881,7 +2881,7 @@ be tested in a hundred ways, and one is even tolerably familiar.
 Sensational French artists, in the nineteenth century, deliberately
 and defiantly painted pictures from the Gospel in modern dress,
 with [[Christ]] standing among men in trousers and top-hats. It
-was purposely done to `shock' the Salon; needless to say,
+was purposely done to ‘shock' the Salon; needless to say,
 it would have been far too shocking for the Royal Academy.
 Yet it was not the first time the thing had been done.
 It was only the first time it had been thought shocking.
@@ -2915,7 +2915,7 @@ sense of humour that at least would not pretend to be dignified.
 The things of that period are all stamped with the insignia of indignity.
 It is not true that this is affected by it being a past or a
 present period.  Mr. Kipling himself in the poem quoted, gave the
-case away by saying that `[[Romance]] brought up the nine-fifteen',
+case away by saying that ‘[[Romance]] brought up the nine-fifteen',
 implying that the clerks in the train did not yet realize their
 own [[Romance|romance]].  But since that was written steam has grown old
 compared to petrol, as stage-coaches grew old compared to steam.
@@ -2950,17 +2950,17 @@ more remote region of delicate distances and golden clouds.
 But he is not out of the picture of The Canterbury Tales,
 nor of any medieval picture in which there might be [[Grotesque|grotesque]] dwarfs
 or gambolling [[dogs]].  But he would be out of the picture called
-`The Derby Day', by Frith.  That picture contains considerable variety;
+‘The Derby Day', by Frith.  That picture contains considerable variety;
 but it does not contain the Knight of The Canterbury Tales.
-For `The Derby Day' was painted at that midnight moment of art when
+For ‘The Derby Day' was painted at that midnight moment of art when
 even the [[Artist|artist]] did not think that the world he saw was artistic.
 This unnatural sense of ugliness is so much our immediate inheritance
 that there are ordinary words that have never recovered from it.
-The very word `hat' has a hazy air of farce about it;
+The very word ‘hat' has a hazy air of farce about it;
 mentioned by itself it suggests first the hat of Charlie Chaplin
-or the admirable song of `Where Did You Get that Hat?'  The first
+or the admirable song of ‘Where Did You Get that Hat?'  The first
 lesson in medievalism is to understand that Chaucer did not feel
-about the word `hood' as we do about the word `hat'. He knew
+about the word ‘hood' as we do about the word ‘hat'. He knew
 there were knavish people who carried two faces under one hood;
 but the one face might be that of Friar Francis as [[Well|well]] as of Friar Tuck.
 A halo round a hood did not seem queer, like a halo round a hat,
@@ -2972,7 +2972,7 @@ There was preposterous costume in that age, but he did not
 think all costume preposterous because it was of that age.
 He was as ready to be humorous in verse as any serious poet
 who ever lived, but his head was not filled with an endless,
-derisive echo of `Where Did You Get that Hood?'
+derisive echo of ‘Where Did You Get that Hood?'
 
 XXIII.  On the Later Portions of Poems
 
@@ -2986,9 +2986,9 @@ They always begin with a summary of this kind, perhaps because they
 have a craven fear that many of their readers will not read any more.
 Everybody knows the first three lines of Paradise Lost:
 
-    Of man's first disobedience and the fruit
-    Of that forbidden Tree, whose mortal taste 
-    Brought death into the world and all our woe.
+Of man's first disobedience and the fruit
+Of that forbidden Tree, whose mortal taste 
+Brought death into the world and all our woe.
 
 But I strongly suspect that there is a sudden and enormous falling off
 in the numbers of those who could quote the fourth line.  And Milton
@@ -2996,7 +2996,7 @@ may himself have paused at that point, and heaved a sigh of relief,
 to think that he had got the whole story packed pretty thoroughly into
 the three lines, even if all his readers refused to read him any more.
 He had successfully informed the public of the incident called
-`The Fall of Man', had explained its connexion with the fruit
+‘The Fall of Man', had explained its connexion with the fruit
 of the Tree of Knowledge, and attached to it all the results
 of the doctrine of [[Original Sin]].  He did not, however, stop here,
 and leave this little trifle as a sort of [[Epigram|epigram]] or short [[Lyric|lyric]].
@@ -3024,21 +3024,21 @@ is common in the case of the complicated epics, and not uncommon
 in that of the simpler epics, it may seem almost cynical
 to suggest that it is sometimes true even of shorter [[Poems|poems]].
 It seems heartless to suggest that somebody may have fainted
-before he got to the end of `We Are Seven'.  It is awful to think
+before he got to the end of ‘We Are Seven'.  It is awful to think
 that some critic may have been so fastidious as to be unable
-to support more than two lines of `The Village Blacksmith'.
+to support more than two lines of ‘The Village Blacksmith'.
 And yet I fancy there are cases in which something like this is true;
 and I came across one recently, or rather I only recently fancied
 that I saw the true meaning of it.
 
-Everybody quotes the opening lines of Shelley's fine [[Chorus|chorus]] of `Hellas'.
+Everybody quotes the opening lines of Shelley's fine [[Chorus|chorus]] of ‘Hellas'.
 And everybody quotes them as the expression of Shelley's heroic hope
 for the human race, his idealism and his optimism about his ideals,
 his radiant faith in a final fulfilment in which humanity should
 be happy and free
 
-    The world's great age begins anew,
-    The golden years return.
+The world's great age begins anew,
+The golden years return.
 
 And I suspect that of these a very considerable number have not read,
 or do not remember, or did not understand, the curious breaking-point
@@ -3054,8 +3054,8 @@ and then, when it comes to its highest note of triumph, it breaks.
 The poet cries, with something like horror, that we must look
 no further and foresee no more:
 
-    O, drain not to the dregs the urn 
-    Of bitter prophecy.
+O, drain not to the dregs the urn 
+Of bitter prophecy.
 
 It is obvious, to put it mildly, that something has occurred
 to him to put him out.  And though all readers must have realized
@@ -3072,7 +3072,7 @@ by Christopher Dawson, which Messrs.  Sheed & Ward published some
 little time ago.  It contains, among many other interesting things,
 a very complete account of that extraordinary theory of Recurrence,
 which many modern as well as ancient philosophers have held, but to
-which the ancient philosophers gave the name of `The Great Year'.
+which the ancient philosophers gave the name of ‘The Great Year'.
 The theory, of course, is broadly this:  that when all
 possible permutations and combinations have been exhausted,
 the cosmic system will of its [[Nature|nature]] have to begin all over again
@@ -3081,8 +3081,8 @@ This will happen again and again for ever; for the same [[logic]] that brings
 the repetition must also bring the repetition of the repetition.
 And, indeed, it is odd to notice how the philosophers repeat themselves
 even in describing the repetition.  Mr. Dawson quotes the case of a Greek
-sage who said, `This staff that I am holding I shall hold again,'
-and the case of a Socialist thinker who said, `This pen I am holding
+sage who said, ‘This staff that I am holding I shall hold again,'
+and the case of a Socialist thinker who said, ‘This pen I am holding
 I shall hold again,' in almost exactly the same form of words.
 Every detail of every life will return with exactitude, and return
 again and again to [[Eternity|eternity]].  And everybody knows how Nietzsche
@@ -3435,8 +3435,8 @@ and this wicked world.  Nobody can expect that sort of popular
 [[Artist|artist]] to wear a laurel round his remarkable bowler hat.
 But it has been possible, and it will be possible again,
 for the public to rejoice seriously, and even solemnly.
-In those older days the very word `solemn' went with the word `joyous';
-and `a high solemnity' was almost always an affair of dancing
+In those older days the very word ‘solemn' went with the word ‘joyous';
+and ‘a high solemnity' was almost always an affair of dancing
 and junketing.  A modern crowd would cheer the critical faculty,
 as in Mr. Chaplin; it would not cheer the creative faculty, as in Dante.
 And unless we keep the idea of a high solemnity, or public function
@@ -3476,14 +3476,14 @@ of honours; and, though most of them are now pretty thoroughly
 dishonoured, nobody suggests that the Poet Laureateship has been sold.
 Anyhow, among the wider ways of doing it was what may be called
 the Pageant of Poetry; the public acknowledgment of the Poet,
-`to whom the high gods gave of right their thunders and their laurels
+‘to whom the high gods gave of right their thunders and their laurels
 and their light'.
 
 XXVII On Living for Posterity
 
 WE all remember the story of that excess of [[Aspiration|aspiration]],
 in the sense of the use of aspirates, which led somebody to say
-of somebody, `If you give him a Hinch, he'll take a Hell.'
+of somebody, ‘If you give him a Hinch, he'll take a Hell.'
 Some recent extensions of social liberty have made the accident
 of the last word sound strangely like an omen.  But what strikes me
 as even more curious is this:  that there are some people who are
@@ -3597,9 +3597,9 @@ If their novels and newspapers were less filled with the sublime
 spiritual liberation of eloping with the chauffeur, and more
 filled with the duty and dignity of remaining with the baby,
 I might admit that their faces are set towards the Future
-and their souls full of the song of `A Good [[Time]] Coming'.
+and their souls full of the song of ‘A Good [[Time]] Coming'.
 As it is, it seems to be an impatient and even pessimistic [[Lyric|lyric]]
-about `A Good Time Now'.
+about ‘A Good Time Now'.
 
 I am not at all pharisaical about these weaknesses considered
 as weaknesses, but I am rather bored with the pretence that they
@@ -3624,7 +3624,7 @@ in admitting him to my list of Great Men, though perhaps my list
 might be a little longer, and perhaps a little more liberal than his.
 I actually wrote a book about him in the ancient days, and I am
 happy to say that he reviewed it himself, with the typical opening:
-`This is the best book of criticism that I have yet produced.'
+‘This is the best book of criticism that I have yet produced.'
 And what I said then is very much what I should say still:
 that there is no very fundamental antagonism between Mr. Bernard [[Shaw]]
 and myself except in one fact--that he is a Puritan and I am at least
@@ -3672,7 +3672,7 @@ in a remark made in this discussion about Einstein and Great Men:
 a remark that may not seem to have anything to do with religion at all.
 Mr. [[Shaw]] is reported, and I apologize if he is misreported,
 as saying that he would hesitate to admit Napoleon into his select
-club of heroes; and that `it would have been better for the world
+club of heroes; and that ‘it would have been better for the world
 if Napoleon had never lived'.  To which I answer that if Napoleon
 had never lived, then certainly Bernard Shaw never would have lived.
 At any rate, if Napoleon had not succeeded in being Napoleon, Shaw would
@@ -3718,7 +3718,7 @@ Now I can heartily respect, and even sympathize with,
 some jolly old English Tory who still regards Bonaparte as Boney.
 I can understand the genial reactionary, like Mr. Sapsea,
 who continues through all continental changes to drink the toast,
-`When the French come over, may we meet them at Dover.'
+‘When the French come over, may we meet them at Dover.'
 But I should hardly have thought of associating Mr. Sapsea with Mr. [[Shaw]].
 And whatever may be the true story of the punishment of St. [[Helena]],
 it seems rather hard on Napoleon that he should endure not only an eternal
@@ -3943,8 +3943,8 @@ apprenticeship in picking pockets as [[Well|well]] as in picking brains;
 and have we to look to the establishment of an Academy of Anarchy,
 with the power of conferring degrees?  Novelists might proudly print
 after their names the letters indicating the degrees they had taken;
-such as F.Y.B., meaning `Five Years for Burglary', or T.N.H.,
-for `Twice Nearly Hanged'.  Altogether it may be said that writers
+such as F.Y.B., meaning ‘Five Years for Burglary', or T.N.H.,
+for ‘Twice Nearly Hanged'.  Altogether it may be said that writers
 do not rob, but it may be fortunate that robbers do not write.
 It is possible that the wild and wicked criminal might, after all,
 make almost as good a novelist as the novelist.
@@ -4134,7 +4134,7 @@ apparent interest at all, and stuffing them all into one building,
 that the stranger may stray among a hundred distracting monuments
 or the [[Pilgrim|pilgrim]] be lost among a hundred hostile shrines.
 When the traveller saw the statue of the [[Hero|hero]], he did not see
-written on the pedestal:  `This way to the Collection of
+written on the pedestal:  ‘This way to the Collection of
 Tropical Fungi', in which he possibly felt no interest at all.
 When the pilgrim found his way to the shrine, he did not find
 that the priest was eagerly waving him on to a glass case filled
@@ -4183,7 +4183,7 @@ would be needed to set the Puritans, who are above all Manicheans,
 denouncing these things exactly as they now denounce beer or tobacco,
 and are, indeed, already beginning to denounce coffee and tea.
 In contradiction of the advertisement recently so common, we should
-see the town plastered with the words `Join the No-Mustard Club'.
+see the town plastered with the words ‘Join the No-Mustard Club'.
 By a slight emendation of Scripture (which is nothing to the
 devout Puritan) we should be told that the salt which has not lost its
 savour is fit only to be cast forth and trampled under foot of men.
@@ -4198,7 +4198,7 @@ the name of Worcester.  I could myself, on the spur of the moment,
 easily make up all sorts of arguments and illustrations as convincing
 against condiments as others are against convivial liquors.
 I could point out that the old proverb about taking strange stories
-`with a grain of salt' was itself an evidence of the connexion
+‘with a grain of salt' was itself an evidence of the connexion
 between strange substances and strange delusions, and bring out
 the result that salt is really a sort of opium.  I could point out
 that the very fact of mustard being hot in the mouth is analogous
@@ -4296,7 +4296,7 @@ for I have quite a different moral philosophy at the back of my mind.
 It would occupy too much space to expound it here, and I have often
 enough expounded it elsewhere.  But it might be indicated by saying
 that there is a truth behind the joke of the man who said:
-`Give us the luxuries of life and we will dispense with the necessities';
+‘Give us the luxuries of life and we will dispense with the necessities';
 and the [[Truth|truth]] can be more soberly stated by saying that, in one sense,
 human beings are not even completely human, until they are civilized.
 
@@ -4307,21 +4307,21 @@ I SUPPOSE people will go on till the crack of doom saying
 that God is in His heaven and therefore all is right with the world.
 I could mention a number of other opinions that Browning expressed,
 in exactly the same method and degree.  I could point out that
-Browning said, in his gay and careless fashion:  `Which is the poison
+Browning said, in his gay and careless fashion:  ‘Which is the poison
 to poison her, prithee?' doubtless referring to Mrs. Browning.
 I could note that Browning observed, when brooding on his own
-immediate course of action:  `Or there's [[Satan]] . . . one might
+immediate course of action:  ‘Or there's [[Satan]] . . . one might
 venture pledge one's [[Soul|soul]] to him.'  It will occur to every
 reader of the poet that he observed on a celebrated occasion:
-`Lo! lieth flat and loveth Setebos', presumably prostrating himself
+‘Lo! lieth flat and loveth Setebos', presumably prostrating himself
 upon the carpet in Wimpole Street.  It will also be recalled
 that Browning, after confessing to various frauds and lies,
 virulently cursed the patron to whom he had confessed them, saying:
-`I only wish I dared burn down the [[house]] and spoil your sniggering.'
+‘I only wish I dared burn down the [[house]] and spoil your sniggering.'
 If these incidents in the life of the poet cause any surprise,
 it may be [[Well|well]] to explain that they are, in fact, incidents in
 the lives of his characters; and so is the much-quoted phrase
-about all being `right with the world'.  It is not a remark
+about all being ‘right with the world'.  It is not a remark
 made by Browning, but a remark made by Pippa in the dramatic
 work by Browning.  Even those who know that the remark occurs
 in a lyric do not always know that the lyric occurs in a drama.
@@ -4333,7 +4333,7 @@ but to bring out in sharp contrast the fact that there is a great
 deal very wrong with it.
 
 So far as that is concerned, the facts (as everybody knows, or ought
-to know) are these.  The idea of the play called `Pippa Passes'
+to know) are these.  The idea of the play called ‘Pippa Passes'
 is that a very poor girl, on her one solitary holiday, goes singing
 through the world in a state of perfect [[innocence]] and therefore
 of perfect gaiety.  In doing so she crosses various human groups
@@ -4363,7 +4363,7 @@ in the sense that there is no wickedness, [[Madness|madness]], or misery in it;
 his works possibly contain a larger and more varied assortment
 of blackguards, miscreants, maniacs, and miserably deluded people than
 those of any writer of his [[Time|time]].  If you had gone to Robert Browning
-with the definite and deliberate doctrine, `There is no pain
+with the definite and deliberate doctrine, ‘There is no pain
 or evil', he would certainly have classed you among the maniacs.
 He would very probably have written a long, ingenious, and partly
 incomprehensible poem about you in blank verse, but your portrait would
@@ -4398,11 +4398,11 @@ reproached Hamlet with being a hustler, a go-getter, a business man
 with plenty of pep and sand, an active and animated member of Rotary.
 But these busy business men are all acting on a philosophical
 principle drawn from Hamlet, and thoroughly typical of Hamlet:
-`There's nothing either good or bad, but thinking makes it so.'
+‘There's nothing either good or bad, but thinking makes it so.'
 That is the original germ of Christian Science, but also the original
 germ of Business Optimism.  I believe that those mystics,
 the members of the American business clubs, go about with large labels
-or buttons on their coats inscribed with the words `Trade is Good'.
+or buttons on their coats inscribed with the words ‘Trade is Good'.
 The savage who thinks he can hurt a man by writing his name in the dust
 could hardly be more superstitious.  But, anyhow, for good or evil,
 whether it be superstition or science, it marks a belief in the power
@@ -4580,7 +4580,7 @@ The most usual form of the process, as we all know, is to fix
 some person with a definite label, and then proceed to deduce
 everything from the label and nothing from the person.
 I have experienced this, in my own small way often enough.
-Somebody will write:  `Mr. Chesterton is a medievalist; and he is
+Somebody will write:  ‘Mr. Chesterton is a medievalist; and he is
 therefore quite justified (from his own benighted standpoint)
 in indulging as he does, in the sport of tearing out the teeth of Jews,
 burning hundreds of human beings alive, and perpetually seeking
@@ -4732,11 +4732,11 @@ cult of pleasure, of luxury, of liberty in [[Love|love]], and all the rest of it
 appears to me to be perfectly childish and childish in the literal
 sense that it is greedy without any grasp of consequences.
 I read novels and [[Poems|poems]] in which the seeker after pleasure simply
-goes on saying, over and over again:  `I must have Happiness.
+goes on saying, over and over again:  ‘I must have Happiness.
 I must have Life.  I must have Love.  Why do you reproach me because I
 cannot live without passing from ecstasy to ecstasy?'  This seems
 to me about as simple as the speech of a savage who should say:
-`I must have Gin.  I like Gin.  I like more and more Gin.
+‘I must have Gin.  I like Gin.  I like more and more Gin.
 Why will you not instantly provide me with a hundred bottles
 of Gin?'  It does not seem to require much intellectual
 strenuousness to say this.  It is, like other simple things,
@@ -4855,7 +4855,7 @@ person pretends to be at once too [[Innocent|innocent]] and too sophisticated.
 First he says that certain sins are so remote and repulsive
 that only a low-minded spy would suspect their existence.
 Then he goes on to say that these sins are not so very bad,
-even if they exist.  He shouts at the top of his voice `To the pure
+even if they exist.  He shouts at the top of his voice ‘To the pure
 in heart all things are pure'; and then goes on to explain that there
 is really no such thing as purity.  He calls the moralist a Puritan,
 as the most withering of all terms of abuse; which is very amusing
@@ -4909,10 +4909,10 @@ The current comment on all these things is not even pagan; it is
 the queerest sort of patchwork of pagan and purely Christian ideas.
 
 For instance, somebody is sure to say in the debate about Decorum:
-`Is not the human [[Body|body]] beautiful?'  To which somebody a little more
-sensible will be quite entitled to answer `No'. If he is a Scot,
+‘Is not the human [[Body|body]] beautiful?'  To which somebody a little more
+sensible will be quite entitled to answer ‘No'. If he is a Scot,
 and therefore a Socratic philosopher, he will be entitled to answer
-the question with a question, and say:  `Is the hippopotamus beautiful?'
+the question with a question, and say:  ‘Is the hippopotamus beautiful?'
 The hippopotamus is certainly natural, even if he looks unnatural.
 He is certainly naked, and accepts no regulations about bathing-tents
 or bathing-costumes. But the mere fact that he is natural does
@@ -4971,12 +4971,12 @@ author would say that any one story was absolutely and in all aspects
 the best; indeed, a sane author is more likely to be hag-ridden
 with the horrid [[Memory|memory]] of the worst.  So the editor put in a note
 to explain his own title, which he said was necessary, because it
-was so much shorter.  It is true that the phrase `My Best Story'
-is very much shorter than the more accurate phrase, `I think this
+was so much shorter.  It is true that the phrase ‘My Best Story'
+is very much shorter than the more accurate phrase, ‘I think this
 story is one of the relatively few by which I might possibly consent
 that people should judge my general intelligence, such as it is.'
-It is also true that the phrase, `This story is utter trash,'
-is very much shorter than the phrase, `This story is not,
+It is also true that the phrase, ‘This story is utter trash,'
+is very much shorter than the phrase, ‘This story is not,
 fairly considered, quite absolute and utter trash.'
 But they do not, to say the least of it, mean the same thing.
 And selecting the shorter would be unwise, even in a publicity expert.
@@ -4985,10 +4985,10 @@ A rather similar problem arose about a recent selection of
 English essays, made and introduced by the late Lord Birkenhead;
 it was a very good selection, and it was not [[Alone|alone]] in [[Suffering|suffering]]
 from the particular problem.  In large letters on the title-page
-it had to bear the title of `The Hundred Best English Essays';
+it had to bear the title of ‘The Hundred Best English Essays';
 and in the very first words of the introduction Lord Birkenhead
 very sensibly said that there could not possibly be any such
-thing as `The Hundred Best English Essays'.  He proceeded,
+thing as ‘The Hundred Best English Essays'.  He proceeded,
 in a very frank and sympathetic manner, to explain that it was not
 only impossible for anybody to do anything except make a reasonable
 collection of very good essays, but that he (for his part)
@@ -5028,7 +5028,7 @@ it is not even so clear a concentric scheme as a labyrinth;
 it is rather a labyrinth without a centre.
 
 In plain words, after reading Gosse's [[Essay|essay]] again, I asked myself:
-`What on earth did Swinbume mean?  Or did he mean anything?'
+‘What on earth did Swinbume mean?  Or did he mean anything?'
 It is easy enough after reading some of the poems, especially the later,
 longer and generally lesser poems, to say that he did not mean anything;
 that he was simply a musician gone wrong; a lunatic with something
@@ -5059,7 +5059,7 @@ him justice, his own appeals to public virtue were anything but languid.
 When talking of his own favourite type, which used to be called
 Republican Virtue, he seems to have understood all that Roman
 dignity and decency which he tore to rags in his ravings about sex.
-He used another nonsensical tag about somebody being `noble and nude
+He used another nonsensical tag about somebody being ‘noble and nude
 and antique'.  So good a scholar ought to have known that, in the real
 world of the antique, a noble would never have desired to be nude.
 He would have regarded it as the mark, not of a noble, but a slave.
@@ -5073,9 +5073,9 @@ Pantheism may or may not be a good creed for a philosopher; Pantheism is
 certainly in one sense a very good creed for a Pagan philosopher.
 But Pantheism is a hopeless creed for a revolutionist.  If all things
 are equally divine, then the [[Tyrant|tyrant]] and the bigot are as divine as
-the tribune and the [[Truth|truth]]-seeker. In `Hertha' he imagines the universe
+the tribune and the [[Truth|truth]]-seeker. In ‘Hertha' he imagines the universe
 as a vast tree, out of which all things in turn bud and bloom;
-and then takes refuge in the miserable metaphor of saying that `creeds'
+and then takes refuge in the miserable metaphor of saying that ‘creeds'
 are merely worms that have got into the bark--the devil knows how.
 If all things are equally unfolded from one natural root,
 the worms of oppression are as natural as the [[Flowers|flowers]] of [[Freedom|freedom]].
@@ -5090,8 +5090,8 @@ has a great deal to do with the decline of liberal politics and
 the reactions against it to-day. Hertha, explaining (at some length)
 that she is everything, remarks, if I remember right:
 
-    I the mark that is missed
-    And the arrows that miss.
+I the mark that is missed
+And the arrows that miss.
 
 It will strike a thoughtful mind that such arrows are rather
 likely to miss.  William Tell will not fight [[Well|well]] for [[Freedom]],
@@ -5129,16 +5129,16 @@ to see a new [[Hope|hope]] for men in the virile and universal Republic,
 in which men should become heroes in becoming citizens.
 There is hardly a hopeful line in [[songs|Songs]] Before Sunrise that could
 not be answered with a hopeless line from [[Poems]] and Ballads.
-Perhaps the most musical and magical verse in `Dolores'
-is that in open glorification of `the implacable beautiful [[Tyrant|tyrant]]';
+Perhaps the most musical and magical verse in ‘Dolores'
+is that in open glorification of ‘the implacable beautiful [[Tyrant|tyrant]]';
 and what is the use, after that, of denouncing all tyrants as implacable?
 What is the good of remaining rigid with horror of Napoleon,
 when you have flung yourself in a [[Lyric|lyric]] ecstasy before Nero?  What is
 the use of saying that you bring seed by [[Night|night]] to sow, that men
 to come may reap and eat by day, when it is apparently so very easy
-for anybody at any moment to be tired of `what may come hereafter
+for anybody at any moment to be tired of ‘what may come hereafter
 to men that sow and reap'?  What is the sense of shouting about
-crowning man as the king of all things, if `the [[Crown|crown]] of his life,
+crowning man as the king of all things, if ‘the [[Crown|crown]] of his life,
 as it closes, is darkness; the fruit thereof [[Dust|dust]]'?
 
 Nevertheless, there is another sense in which I would not dwell
@@ -5168,22 +5168,22 @@ by fickleness or [[Pride|pride]].  It is not a nice state of mind.
 it is a very nasty state of mind; but it is that state of mind
 and no other, and not the state of one who always preferred
 gutters because he was a gutter-snipe. To put the point shortly,
-we cannot understand the poem called `Dolores' without reading
-it side by side with the poem called `The Triumph of [[Time]]'.
+we cannot understand the poem called ‘Dolores' without reading
+it side by side with the poem called ‘The Triumph of [[Time]]'.
 For instance, I have condemned, as every sane critic has condemned,
-all that hydrophobiac nonsense of Swinburne about people `biting'
+all that hydrophobiac nonsense of Swinburne about people ‘biting'
 each other.  But it is not quite fair, even to that infernal nonsense,
 to read it without remembering the verse to which it in some sense
 leads up, and which is the true inner burden of the poem:
 
-    In yesterday's reach and to-morrow's,
-    Out of sight though they lie of to-day,
-    There have been and there yet shall be sorrows
-    That smite not and bite not in play.
-    The life and the love thou despisest,
-    These hurt us indeed, and in vain--
-    O wise among women, and wisest,
-    Our Lady of Pain.
+In yesterday's reach and to-morrow's,
+Out of sight though they lie of to-day,
+There have been and there yet shall be sorrows
+That smite not and bite not in play.
+The life and the love thou despisest,
+These hurt us indeed, and in vain--
+O wise among women, and wisest,
+Our Lady of Pain.
 
 I do not think the heartless woman is the wisest woman; I venture
 to doubt whether Swinburne thought so.  But Swinburne did say so;
@@ -5194,32 +5194,32 @@ again and again in the poem, so that it is incredible that the critics
 did not see the point, even if they were right to condemn it.
 He says it plainly in the lines
 
-    No thorns go as deep as a rose's,
-    And love is more cruel than lust;
-    Time turns the old days to derision,
-    Our loves into corpses and wives,
-    And marriage and death and division
-    Make barren our lives.
+No thorns go as deep as a rose's,
+And love is more cruel than lust;
+Time turns the old days to derision,
+Our loves into corpses and wives,
+And marriage and death and division
+Make barren our lives.
 
 And it is then only that he says, in words horrible enough,
 but with something of a moral horror:
 
-    And pale with the past we draw nigh thee
-    And satiate with comfortless hours:
-    And we know thee, how all men belie thee,
-    And we gather the fruit of thy flowers.
+And pale with the past we draw nigh thee
+And satiate with comfortless hours:
+And we know thee, how all men belie thee,
+And we gather the fruit of thy flowers.
 
 Or again, elsewhere:
 
-    Of languors rekindled and rallied,
-    Of barren delights and unclean;
-    Things monstrous and fruitless; a pallid
-    And poisonous queen.
+Of languors rekindled and rallied,
+Of barren delights and unclean;
+Things monstrous and fruitless; a pallid
+And poisonous queen.
 
 This is not praising sin, though it may be practising it.
 This is rather emphasizing the disgust that is the alternative
 to the disappointment.  It is about as idolatrous as a disappointed
-lover talking to a bottle of gin, and saying, `Damn your ugly face,
+lover talking to a bottle of gin, and saying, ‘Damn your ugly face,
 I believe you're my only friend, after all!'
 
 I have dwelt a little on this particular point about the poet,
@@ -5247,9 +5247,9 @@ point he did not receive justice--not even the justice that condemns.
 
 III
 
-`I have lived long enough to have seen one thing; that love hath an end'
+‘I have lived long enough to have seen one thing; that love hath an end'
 : so runs, as every one will remember, the first line of Swinburne's
-beautiful `[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
+beautiful ‘[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
 to Paganism.  I have lived long enough to have seen one thing:
 that the [[Love|love]] of Swinburne hath an end.  Not the admiration
 for Swinburne, not the reasonable appreciation of Swinburne;
@@ -5264,7 +5264,7 @@ an end, and most of us have lived long enough to have seen it.
 But it is symbolic of something larger; something that is connected
 not only with Swinburne but with Swinburnianism.
 
-Any man who has `lived long enough', and not actually stiffened with
+Any man who has ‘lived long enough', and not actually stiffened with
 negative prejudices, must know by this time that the modern movement,
 and every sort of movement, revolves round and round the central
 pillar of the old Christian tradition.  It is emphatically not
@@ -5377,7 +5377,7 @@ survivals of the Swinburnian epoch, imagining themselves to be young,
 actually come and tell me that the world is on an endless march
 towards wild liberty and indefinite relaxation of everything,
 I really do not know how to answer, except with a melancholy smile.
-`I have lived long enough to have seen one thing . . .'
+‘I have lived long enough to have seen one thing . . .'
 
 
 
@@ -5399,12 +5399,12 @@ author would say that any one story was absolutely and in all aspects
 the best; indeed, a sane author is more likely to be hag-ridden
 with the horrid [[Memory|memory]] of the worst.  So the editor put in a note
 to explain his own title, which he said was necessary, because it
-was so much shorter.  It is true that the phrase `My Best Story'
-is very much shorter than the more accurate phrase, `I think this
+was so much shorter.  It is true that the phrase ‘My Best Story'
+is very much shorter than the more accurate phrase, ‘I think this
 story is one of the relatively few by which I might possibly consent
 that people should judge my general intelligence, such as it is.'
-It is also true that the phrase, `This story is utter trash,'
-is very much shorter than the phrase, `This story is not,
+It is also true that the phrase, ‘This story is utter trash,'
+is very much shorter than the phrase, ‘This story is not,
 fairly considered, quite absolute and utter trash.'
 But they do not, to say the least of it, mean the same thing.
 And selecting the shorter would be unwise, even in a publicity expert.
@@ -5413,10 +5413,10 @@ A rather similar problem arose about a recent selection of
 English essays, made and introduced by the late Lord Birkenhead;
 it was a very good selection, and it was not [[Alone|alone]] in [[Suffering|suffering]]
 from the particular problem.  In large letters on the title-page
-it had to bear the title of `The Hundred Best English Essays';
+it had to bear the title of ‘The Hundred Best English Essays';
 and in the very first words of the introduction Lord Birkenhead
 very sensibly said that there could not possibly be any such
-thing as `The Hundred Best English Essays'.  He proceeded,
+thing as ‘The Hundred Best English Essays'.  He proceeded,
 in a very frank and sympathetic manner, to explain that it was not
 only impossible for anybody to do anything except make a reasonable
 collection of very good essays, but that he (for his part)
@@ -5456,7 +5456,7 @@ it is not even so clear a concentric scheme as a labyrinth;
 it is rather a labyrinth without a centre.
 
 In plain words, after reading Gosse's [[Essay|essay]] again, I asked myself:
-`What on earth did Swinbume mean?  Or did he mean anything?'
+‘What on earth did Swinbume mean?  Or did he mean anything?'
 It is easy enough after reading some of the poems, especially the later,
 longer and generally lesser poems, to say that he did not mean anything;
 that he was simply a musician gone wrong; a lunatic with something
@@ -5487,7 +5487,7 @@ him justice, his own appeals to public virtue were anything but languid.
 When talking of his own favourite type, which used to be called
 Republican Virtue, he seems to have understood all that Roman
 dignity and decency which he tore to rags in his ravings about sex.
-He used another nonsensical tag about somebody being `noble and nude
+He used another nonsensical tag about somebody being ‘noble and nude
 and antique'.  So good a scholar ought to have known that, in the real
 world of the antique, a noble would never have desired to be nude.
 He would have regarded it as the mark, not of a noble, but a slave.
@@ -5501,9 +5501,9 @@ Pantheism may or may not be a good creed for a philosopher; Pantheism is
 certainly in one sense a very good creed for a Pagan philosopher.
 But Pantheism is a hopeless creed for a revolutionist.  If all things
 are equally divine, then the [[Tyrant|tyrant]] and the bigot are as divine as
-the tribune and the [[Truth|truth]]-seeker. In `Hertha' he imagines the universe
+the tribune and the [[Truth|truth]]-seeker. In ‘Hertha' he imagines the universe
 as a vast tree, out of which all things in turn bud and bloom;
-and then takes refuge in the miserable metaphor of saying that `creeds'
+and then takes refuge in the miserable metaphor of saying that ‘creeds'
 are merely worms that have got into the bark--the devil knows how.
 If all things are equally unfolded from one natural root,
 the worms of oppression are as natural as the [[Flowers|flowers]] of [[Freedom|freedom]].
@@ -5518,8 +5518,8 @@ has a great deal to do with the decline of liberal politics and
 the reactions against it to-day. Hertha, explaining (at some length)
 that she is everything, remarks, if I remember right:
 
-    I the mark that is missed
-    And the arrows that miss.
+I the mark that is missed
+And the arrows that miss.
 
 It will strike a thoughtful mind that such arrows are rather
 likely to miss.  William Tell will not fight [[Well|well]] for [[Freedom]],
@@ -5662,8 +5662,8 @@ abbia molto a che vedere con il declino della politica liberale e
 con le reazioni contro di essa oggi.  Hertha, spiegando (con una certa ampiezza)
 di essere ogni cosa, osserva, se ben ricordo:
 
-    Io il bersaglio che è mancato
-    E le frecce che mancano.
+Io il bersaglio che è mancato
+E le frecce che mancano.
 
 Colpirà una mente riflessiva che simili frecce siano piuttosto
 propense a mancare.  Guglielmo Tell non combatterà [[Well|bene]] per la [[Freedom|Libertà]],
@@ -5706,16 +5706,16 @@ to see a new [[Hope|hope]] for men in the virile and universal Republic,
 in which men should become heroes in becoming citizens.
 There is hardly a hopeful line in [[songs|Songs]] Before Sunrise that could
 not be answered with a hopeless line from [[Poems]] and Ballads.
-Perhaps the most musical and magical verse in `Dolores'
-is that in open glorification of `the implacable beautiful [[Tyrant|tyrant]]';
+Perhaps the most musical and magical verse in ‘Dolores'
+is that in open glorification of ‘the implacable beautiful [[Tyrant|tyrant]]';
 and what is the use, after that, of denouncing all tyrants as implacable?
 What is the good of remaining rigid with horror of Napoleon,
 when you have flung yourself in a [[Lyric|lyric]] ecstasy before Nero?  What is
 the use of saying that you bring seed by [[Night|night]] to sow, that men
 to come may reap and eat by day, when it is apparently so very easy
-for anybody at any moment to be tired of `what may come hereafter
+for anybody at any moment to be tired of ‘what may come hereafter
 to men that sow and reap'?  What is the sense of shouting about
-crowning man as the king of all things, if `the [[Crown|crown]] of his life,
+crowning man as the king of all things, if ‘the [[Crown|crown]] of his life,
 as it closes, is darkness; the fruit thereof [[Dust|dust]]'?
 
 Nevertheless, there is another sense in which I would not dwell
@@ -5745,22 +5745,22 @@ by fickleness or [[Pride|pride]].  It is not a nice state of mind.
 it is a very nasty state of mind; but it is that state of mind
 and no other, and not the state of one who always preferred
 gutters because he was a gutter-snipe. To put the point shortly,
-we cannot understand the poem called `Dolores' without reading
-it side by side with the poem called `The Triumph of [[Time]]'.
+we cannot understand the poem called ‘Dolores' without reading
+it side by side with the poem called ‘The Triumph of [[Time]]'.
 For instance, I have condemned, as every sane critic has condemned,
-all that hydrophobiac nonsense of Swinburne about people `biting'
+all that hydrophobiac nonsense of Swinburne about people ‘biting'
 each other.  But it is not quite fair, even to that infernal nonsense,
 to read it without remembering the verse to which it in some sense
 leads up, and which is the true inner burden of the poem:
 
-    In yesterday's reach and to-morrow's,
-    Out of sight though they lie of to-day,
-    There have been and there yet shall be sorrows
-    That smite not and bite not in play.
-    The life and the love thou despisest,
-    These hurt us indeed, and in vain--
-    O wise among women, and wisest,
-    Our Lady of Pain.
+In yesterday's reach and to-morrow's,
+Out of sight though they lie of to-day,
+There have been and there yet shall be sorrows
+That smite not and bite not in play.
+The life and the love thou despisest,
+These hurt us indeed, and in vain--
+O wise among women, and wisest,
+Our Lady of Pain.
 
 I do not think the heartless woman is the wisest woman; I venture
 to doubt whether Swinburne thought so.  But Swinburne did say so;
@@ -5771,32 +5771,32 @@ again and again in the poem, so that it is incredible that the critics
 did not see the point, even if they were right to condemn it.
 He says it plainly in the lines
 
-    No thorns go as deep as a rose's,
-    And love is more cruel than lust;
-    Time turns the old days to derision,
-    Our loves into corpses and wives,
-    And marriage and death and division
-    Make barren our lives.
+No thorns go as deep as a rose's,
+And love is more cruel than lust;
+Time turns the old days to derision,
+Our loves into corpses and wives,
+And marriage and death and division
+Make barren our lives.
 
 And it is then only that he says, in words horrible enough,
 but with something of a moral horror:
 
-    And pale with the past we draw nigh thee
-    And satiate with comfortless hours:
-    And we know thee, how all men belie thee,
-    And we gather the fruit of thy flowers.
+And pale with the past we draw nigh thee
+And satiate with comfortless hours:
+And we know thee, how all men belie thee,
+And we gather the fruit of thy flowers.
 
 Or again, elsewhere:
 
-    Of languors rekindled and rallied,
-    Of barren delights and unclean;
-    Things monstrous and fruitless; a pallid
-    And poisonous queen.
+Of languors rekindled and rallied,
+Of barren delights and unclean;
+Things monstrous and fruitless; a pallid
+And poisonous queen.
 
 This is not praising sin, though it may be practising it.
 This is rather emphasizing the disgust that is the alternative
 to the disappointment.  It is about as idolatrous as a disappointed
-lover talking to a bottle of gin, and saying, `Damn your ugly face,
+lover talking to a bottle of gin, and saying, ‘Damn your ugly face,
 I believe you're my only friend, after all!'
 
 I have dwelt a little on this particular point about the poet,
@@ -5903,14 +5903,14 @@ a vicenda.  Ma non è del tutto giusto, nemmeno verso quell'infernale insensatez
 leggerla senza ricordare il verso a cui essa in un certo senso
 conduce, e che è il vero intimo tema della poesia:
 
-    Nella distesa di ieri e in quella di domani,
-    Benché giacciano fuori dalla vista dell'oggi,
-    Vi sono stati e vi saranno ancora dolori
-    Che non colpiscono né mordono per gioco.
-    La vita e l'amore che tu disprezzi,
-    Questi ci feriscono davvero, e invano —
-    O saggia fra le donne, e sapientissima,
-    Nostra Signora del Dolore.
+Nella distesa di ieri e in quella di domani,
+Benché giacciano fuori dalla vista dell'oggi,
+Vi sono stati e vi saranno ancora dolori
+Che non colpiscono né mordono per gioco.
+La vita e l'amore che tu disprezzi,
+Questi ci feriscono davvero, e invano —
+O saggia fra le donne, e sapientissima,
+Nostra Signora del Dolore.
 
 Non penso che la donna senza cuore sia la donna più saggia; oso
 dubitare che Swinburne lo pensasse.  Ma Swinburne lo disse davvero;
@@ -5921,27 +5921,27 @@ più e più volte nella poesia, sicché è incredibile che i critici
 non ne vedessero l'intento, anche se avevano ragione a condannarlo.
 Lo dice chiaramente nei versi
 
-    Nessuna spina va tanto in fondo quanto quella d'una rosa,
-    E l'amore è più crudele della brama;
-    Il Tempo volge i vecchi giorni in derisione,
-    I nostri amori in cadaveri e in mogli,
-    E il matrimonio e la morte e la divisione
-    Rendono sterili le nostre vite.
+Nessuna spina va tanto in fondo quanto quella d'una rosa,
+E l'amore è più crudele della brama;
+Il Tempo volge i vecchi giorni in derisione,
+I nostri amori in cadaveri e in mogli,
+E il matrimonio e la morte e la divisione
+Rendono sterili le nostre vite.
 
 Ed è solo allora che egli dice, con parole abbastanza orribili,
 ma con qualcosa di un orrore morale:
 
-    E pallidi del passato ci accostiamo a te
-    E satolli d'ore senza conforto:
-    E ti conosciamo, come tutti gli uomini ti smentiscono,
-    E cogliamo il frutto dei tuoi fiori.
+E pallidi del passato ci accostiamo a te
+E satolli d'ore senza conforto:
+E ti conosciamo, come tutti gli uomini ti smentiscono,
+E cogliamo il frutto dei tuoi fiori.
 
 Oppure, di nuovo, altrove:
 
-    Di languori riaccesi e ravvivati,
-    Di sterili delizie e immonde;
-    Cose mostruose e infruttuose; una pallida
-    E velenosa regina.
+Di languori riaccesi e ravvivati,
+Di sterili delizie e immonde;
+Cose mostruose e infruttuose; una pallida
+E velenosa regina.
 
 Questo non è lodare il peccato, per quanto possa essere praticarlo.
 Questo è piuttosto porre l'accento sul disgusto che è l'alternativa
@@ -5979,9 +5979,9 @@ punto egli non ricevette giustizia — nemmeno la giustizia che condanna.
 
 III
 
-`I have lived long enough to have seen one thing; that love hath an end'
+‘I have lived long enough to have seen one thing; that love hath an end'
 : so runs, as every one will remember, the first line of Swinburne's
-beautiful `[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
+beautiful ‘[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
 to Paganism.  I have lived long enough to have seen one thing:
 that the [[Love|love]] of Swinburne hath an end.  Not the admiration
 for Swinburne, not the reasonable appreciation of Swinburne;
@@ -5996,7 +5996,7 @@ an end, and most of us have lived long enough to have seen it.
 But it is symbolic of something larger; something that is connected
 not only with Swinburne but with Swinburnianism.
 
-Any man who has `lived long enough', and not actually stiffened with
+Any man who has ‘lived long enough', and not actually stiffened with
 negative prejudices, must know by this time that the modern movement,
 and every sort of movement, revolves round and round the central
 pillar of the old Christian tradition.  It is emphatically not
@@ -6109,7 +6109,7 @@ survivals of the Swinburnian epoch, imagining themselves to be young,
 actually come and tell me that the world is on an endless march
 towards wild liberty and indefinite relaxation of everything,
 I really do not know how to answer, except with a melancholy smile.
-`I have lived long enough to have seen one thing . . .'
+‘I have lived long enough to have seen one thing . . .'
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6190,11 +6190,11 @@ the domestic dissolution that seemed to threaten a social dissolution.
 Many have had occasion to strike the lyre and lament in the mournful
 language of Mr. Bentley's Ballade:
 
-    Rupert has bolted with the children's [[Nurse|nurse]],
-    Claude has declared himself an Infidel.
+Rupert has bolted with the children's [[Nurse|nurse]],
+Claude has declared himself an Infidel.
 
 The peculiarity of the recent social tendency is that a visiting-card
-inscribed `Mr. and Mrs. Rupert' is carefully engraved to cover the fact
+inscribed ‘Mr. and Mrs. Rupert' is carefully engraved to cover the fact
 that the children's nurse is no longer looking after the children.
 The peculiarity of the position is not that Claude has proclaimed
 himself an Infidel; but, that Claude has proclaimed himself
@@ -6217,26 +6217,26 @@ are a great many other examples of this curious contradiction
 with relation to convention.  It appears not only in the manners,
 but in the language, and especially the slang, of society.
 There is a queer sort of prudery about slang, and modernity shows
-it most in what it calls `facing the facts of [[Nature|nature]]'.
+it most in what it calls ‘facing the facts of [[Nature|nature]]'.
 
 For instance, there was a [[Time|time]] when it was customary to call
 a father a father; which seems to me a very normal example of
 calling a spade a spade.  There were, of course, many variations,
 both formal and familiar, in different times and communities.
 But most men have used a language as ancient and traditional as that of
-Esau when he cried aloud, `Hast thou not a blessing for me, O my father?'
+Esau when he cried aloud, ‘Hast thou not a blessing for me, O my father?'
 Now as far as I can discover from the social authorities who tell
 us all about the Rising Generation and the Bright Young Things,
 it appears to be considered a mark of advanced intelligence to call
 your father a bean or a scream, or possibly Tom, Dick, and Harry,
 in reference (or without reference) to his Christian name.
 Broadly speaking, the parent of the progressive age appears to
-answer to `Hi!' or to any loud cry; and it seems to be considered
+answer to ‘Hi!' or to any loud cry; and it seems to be considered
 in itself a proof of progress that the cries are very loud indeed.
 But loud cries do not make any difference to [[logic]]; and in this
 case the [[logic]] is all the other way.  It is obvious to me that
-calling the old gentleman `father' is facing the facts of nature.
-It is also obvious that calling him `bean' is not facing the facts
+calling the old gentleman ‘father' is facing the facts of nature.
+It is also obvious that calling him ‘bean' is not facing the facts
 of [[Nature|nature]].  It is, so far as that example is concerned, perhaps,
 merely weaving a graceful fairy-tale to cover the facts of [[Nature|nature]].
 It is prettily pretending for a moment that the Heavy Father
@@ -6306,8 +6306,8 @@ I. Sulla pruderia dello slang
 
 Ciò che mi lascia perplesso è che tante cose le quali si vantano di essere selvagge e libere, che anzi vengono biasimate perché selvagge e libere, sono in realtà piuttosto snob, per non dire servili. Tutta quella sorta di anticonformismo mi pare fin troppo conformista. L'esempio più ovvio e quotidiano è il gran clamore intorno al [[divorce|divorzio]]; che è purtroppo un esempio assai quotidiano. Ma il nodo del [[divorce|divorzio]] non sta nel fatto che la gente si professa spregiudicata, bensì nel fatto che la gente finge di essere rispettabile. Il nodo non è nella separazione di mogli e mariti, che purtroppo è avvenuta in varie forme in quasi tutte le varie terre e le varie epoche. Il nodo sta nel coprire la disunione ricorrendo alla vecchia etichetta dell'[[Union|unione]]. Molti satirici, in molte epoche, hanno avuto occasione di notare quella dissoluzione domestica che pareva minacciare una dissoluzione sociale. Molti hanno avuto occasione di percuotere la lira e di lamentarsi nel mesto linguaggio della Ballade del signor Bentley:
 
-    Rupert è fuggito con la [[Nurse|bambinaia]] dei figli,
-    Claude s'è dichiarato Miscredente.
+Rupert è fuggito con la [[Nurse|bambinaia]] dei figli,
+Claude s'è dichiarato Miscredente.
 
 La particolarità della recente tendenza sociale è che un biglietto da visita con la scritta «Mr. e Mrs. Rupert» viene accuratamente inciso per nascondere il fatto che la bambinaia dei figli non bada più ai figli. La particolarità della situazione non è che Claude si sia proclamato Miscredente; bensì che Claude si sia proclamato Cristiano di una religione più alta e più puramente spirituale, troppo sublime per credere in un qualsiasi credo o sacramento, ma che gli consente tuttavia di restare un normale e rispettabile pastore anglicano — o magari perfino un vescovo anglicano.
 
@@ -6503,7 +6503,7 @@ be other kinds of [[Freedom|freedom]] besides that of the free-born Englishman,
 and yet leave an ultimate significance in the ideal of being free.
 Broadly, I should say that the commonwealth is healthy in which
 all things are not common, but some things, in the exact sense
-of the phrase, `distinguished'. Many who talk about distinction
+of the phrase, ‘distinguished'. Many who talk about distinction
 mean only aristocratic distinction; and by that mean only fashion.
 But fashion is almost the opposite of distinction.  A democracy can
 be distinguished, if its citizens are distinguishable; if each has
@@ -6544,7 +6544,7 @@ would say, at one with Nature.  Nature is inferior to man in many things,
 but most of all in respect of the human speciality of humour.
 For the rest, goatishness has often been made a sort of symbol
 of paganism; but even among the pagans it was not regarded as
-the highest form of paganism.  `Half a beast is the great god Pan'
+the highest form of paganism.  ‘Half a beast is the great god Pan'
 as the poet very truly observed; and the satyr and the faun were
 conceived as being half-human and half-goatish, presumably on
 the principle that half a goat is better than no beastliness.
@@ -6716,26 +6716,26 @@ the vigorous agent of a company named after Edison--in short,
 a man with all the unquestioned stigmata of a Regular Guy,
 rigorous and energetic in the application of science to business,
 has recently astonished his friends by delivering an address with
-the truly admirable title, `Wanted--An Unpractical Education'.
+the truly admirable title, ‘Wanted--An Unpractical Education'.
 I have only read his remarks in an indirect form, but they seem to me
-quite excellent remarks.  `My complaint would be rather that training
+quite excellent remarks.  ‘My complaint would be rather that training
 youth to earn a living is not [[Education|education]] at all; second, that a specific
 training may keep the youngster from earning the best kind of living;
-and third, that it can't be done in school anyhow.'  Or, again, `I would
+and third, that it can't be done in school anyhow.'  Or, again, ‘I would
 infinitely prefer that education fit him for happiness and decency
 in poverty, than for wealth acquired through the sacrifice of himself
 and his character.'  These are almost startlingly sensible counsels;
 though what they would look like side by side with those shiny and
-strenuous advertisements inscribed `You Can Add Ten Thousand Dollars
-to Your Salary', or `This Man Trebled his Turnover in Two Weeks',
+strenuous advertisements inscribed ‘You Can Add Ten Thousand Dollars
+to Your Salary', or ‘This Man Trebled his Turnover in Two Weeks',
 it is not my province to conjecture.
 
 But this extraordinary affair called Business Education, which has
 begun to be supported in England after having long subsisted
 in America, has another aspect perhaps not so easy to explain.
 When I say that we want to train the citizen and not the city man,
-or the equivocal `something in the [[City|city]]', I mean even more than
-Mr. Parker's just and rational ideal of `the fitting of students
+or the equivocal ‘something in the [[City|city]]', I mean even more than
+Mr. Parker's just and rational ideal of ‘the fitting of students
 to live richly and fully and contribute most broadly to the welfare
 of the social group who have paid for their education'.
 Being myself a senile survival of the old republican idealism
@@ -6748,11 +6748,11 @@ by which he can judge material and fugitive conditions.
 If the citizen is to be a reformer, he must start with some ideal
 which he does not obtain merely by gazing reverently at the
 unreformed institutions.  And if any one asks, as so many are asking:
-`What is the use of my son learning all about ancient Athens
+‘What is the use of my son learning all about ancient Athens
 and remote China and medieval guilds and monasteries, and all sorts
 of dead or distant things, when he is going to be a superior
 scientific plumber in Pimlico?' the answer is obvious enough.
-`The use of it is that he may have some power of comparison,
+‘The use of it is that he may have some power of comparison,
 which will not only prevent him from supposing that Pimlico
 covers the whole planet, but also enable him, while doing full
 credit to the beauties and virtues of Pimlico, to point out that,
@@ -6793,9 +6793,9 @@ And much of what is called commercial training is really of
 this character.  Stevenson, with the assistance of Lloyd Osbourne
 (himself an American), gives a very vivid and amusing sketch
 of it in The Wrecker.  His American hero very justly resents
-being laughed at merely because he leaves the u out of `colour';
+being laughed at merely because he leaves the u out of ‘colour';
 but adds that his critics might have had a better case had they
-known that his father `had paid large sums to have him brought up
+known that his father ‘had paid large sums to have him brought up
 in a gambling-hell'.
 
 Anyhow, that is what is the matter with Business Education;
@@ -6937,7 +6937,7 @@ V. On the Intellect of Yesterday
 
 IS the present generation better educated than the last generation?
 Is it more intelligent than any one of any number of past generations?
-Most of those writing on the subject say `Yes'. Most of them,
+Most of those writing on the subject say ‘Yes'. Most of them,
 by a curious coincidence, belong to the present generation,
 or some very recent generation.  I have no axe to grind in the matter;
 neither the ancestral axe of [[Brutus]], red with the [[Blood|blood]] of his sons,
@@ -7001,10 +7001,10 @@ of economies and finance.  Perhaps they were not worth printing;
 perhaps they were not worth reading; but they were read.
 Now, it may be very bright and pleasant to have all Gladstone's subtle
 and searching logical distinctions swept away in favour of the fixed
-and unfailing headline of `What Did Mr. Gladstone Say in 1885?'
+and unfailing headline of ‘What Did Mr. Gladstone Say in 1885?'
 It may be very comfortable to forget all the luminous legal
 distinctions of Asquith, and agree that that statesman never said
-anything in this life except `Wait and See'.  But it is not
+anything in this life except ‘Wait and See'.  But it is not
 a proof of increased intellectual activity that we are satisfied
 with the simple and soothing quotations.  The minds of our fathers
 may have been occupied in futile and pedantic hair-splitting,
@@ -7212,7 +7212,7 @@ a poem in praise of Canada, which very much annoyed the Canadians.
 Many of them stated with great sternness that, if he praised
 them any more, they would give him a good hard knock.
 The ground of the offence was that he had referred to the
-Dominion of Canada as `Our Lady of the Snows'.  This was held
+Dominion of Canada as ‘Our Lady of the Snows'.  This was held
 to imply that Canada has no local industry except snowballing;
 that her principal exports are icebergs; and that the typical
 Canadian citizen is a sort of furry and inarticulate Eskimo.
@@ -7220,7 +7220,7 @@ One Canadian poet haughtily replied that Canada contained glowing
 maple woods in which England might be lost.  One Canadian painter
 painted an ironical allegory, representing the spirit of the Dominion
 sitting on a pile of gorgeous fruits and varied products of the sun,
-and entitled the picture, `Our Lady of the Snows'.  I am no Imperialist
+and entitled the picture, ‘Our Lady of the Snows'.  I am no Imperialist
 in particular, but the days of my skirmishes with Mr. Kipling
 about Imperialism are long past, and I am affected by the thought
 of leaving Mr. Kipling and Canada in an embrace of [[Reconciliation|reconciliation]].
@@ -7241,7 +7241,7 @@ though they seldom last long enough for me to make head or tail of it.
 In this ease it appeared in a short letter to the Daily Express,
 which ran, word for word, as follows:
 
-`In reply to your article "What Youth Wants in Church", I assert
+‘In reply to your article "What Youth Wants in Church", I assert
 that it does not want sadness, ceremony, or humbug.
 Youth wants to know only about the present and future, not about
 what happened 2,000 years ago.  If the churches forsake these things,
@@ -7292,10 +7292,10 @@ the absence of conchology or bacteriology, or anything else.
 I may not want to hear a bore talking about bimetallism,
 but it does not follow that I want to go for a walking tour
 with the bore when he promises not to mention bimetallism.
-I may not wish to listen to the lecture on `Genetics and Genesis'
+I may not wish to listen to the lecture on ‘Genetics and Genesis'
 at the Co-educational Congress at Gum Springs, Ill., but neither do I want
 to go to the Co-educational Congress at Gum Springs, or anywhere else,
-even if there is to be no lecture on `Genetics and Genesis'.
+even if there is to be no lecture on ‘Genetics and Genesis'.
 And surely those who are so innocently confident of the attraction
 of merely negative religion might realize that a broad-minded
 parson can be as much of a bore about nothing as anybody can
@@ -7350,7 +7350,7 @@ but only all that they stand for.  So they see in front of them
 a solid block of brick called a church.  They accept that;
 they cannot conceive a real revolt against that; they are even ready
 to throw themselves into all sorts of schemes for making this mere
-brick building fashionable, so that people shall `flock' to it.
+brick building fashionable, so that people shall ‘flock' to it.
 It commands their strange loyalty in its own strange way, merely by
 being there.  It is a solid fact; something must be done with it;
 and therefore something must be done for it.  In pure reason, it is about
@@ -7374,7 +7374,7 @@ without the reason.  In the world of ideas he can alter anything,
 however fundamental, as if it were something fanciful.
 But he cannot be fanciful about a fact like a brick building;
 that is a solid object, and must be made a solid [[success]].
-People must be induced to `flock' to it, even if it has to be turned
+People must be induced to ‘flock' to it, even if it has to be turned
 into an aquarium or an aerodrome.  In one sense, to do him justice,
 this melancholy materialist is the most disinterested of men.
 The mystic is one who will serve something invisible for his own reasons.
@@ -7391,8 +7391,8 @@ especially in America; they call themselves the Behaviourists,
 and the late Mr. Harvey Wickham called them the Misbehaviourists.
 So far as I can understand, their philosophy is rooted in a theory
 of physiology:  the theory that thought is originally a sort of movement
-of the body rather than the brain.  `There is nothing in the brain,'
-I think one of them has written, `except a lot of neurons.
+of the body rather than the brain.  ‘There is nothing in the brain,'
+I think one of them has written, ‘except a lot of neurons.
 We do not think with our minds.  We think with our muscles.'
 Those of us, that is, who are so old-fashioned as to think at all.
 For we have all seen vigorous representatives of the rising
@@ -7415,7 +7415,7 @@ It does not matter to any Christian whether God has made a man to think
 with his brains or his big toe.  But it did matter very much to the recent
 type of Materialist that a man could only think with his brains.  He was
 perpetually basing all sorts of destructive arguments on an analysis
-of what he called the convolutions and the `matter' in the brain.
+of what he called the convolutions and the ‘matter' in the brain.
 He was as devoted as M. Hercule Poirot to The Little Grey Cells;
 but, alas! with far less brilliant and entertaining results.
 All that the Behaviourist does is, in every sense, to dash
@@ -7484,9 +7484,9 @@ guides to [[Truth|truth]] is a certain craving for creative movement:
 a [[Longing|longing]] to stretch the limbs, to smite, to scrawl, to make
 sweeping gestures, to lift up the hands as [[Well|well]] as the heart.
 There is an instinctive movement of the [[Body|body]] towards better and
-nobler things, as in the text that said, `I will lift up mine eyes
+nobler things, as in the text that said, ‘I will lift up mine eyes
 to the hills', or in that divine command of liberation that took
-the form of `Stretch forth thine hand'.  The old ceremonial gestures
+the form of ‘Stretch forth thine hand'.  The old ceremonial gestures
 of the human [[Body|body]] are necessary to the health of the human [[Soul|soul]]:
 the gesture that pledged the guest in the goblet that strewed
 the [[Flowers|flowers]] upon the [[Grave|grave]]; that drew the [[Sword|sword]] for the salute
@@ -7508,7 +7508,7 @@ or medieval Behaviourism.  The words seem to carry with them a gesture;
 it is impossible not to feel that the poet is doing something;
 is bowing to a lady or standing up to salute a sovereign;
 is lifting an offering up or casting an offering down.  Such an opening
-as `Almighty and all-mercyable Queen' has a breadth about it beyond
+as ‘Almighty and all-mercyable Queen' has a breadth about it beyond
 that of the brain, in the narrow sense, because such invocation is,
 among other things, one of the most ancient human habits of the body.
 Of course, that broad and expansive gesture can be found in other
@@ -7516,8 +7516,8 @@ poets besides Chaucer, and other schools besides Chaucer's. But it
 has not expanded with the particular modern type of expansion.
 Milton was capable of it:
 
-    Thine are these mighty works, Parent of Good, 
-    Almighty, thine this everlasting frame.
+Thine are these mighty works, Parent of Good, 
+Almighty, thine this everlasting frame.
 
 But it seems to me that, after Milton, there is in literature less
 and less of that sort of invocation, even when there are many other
@@ -7552,7 +7552,7 @@ for men never grow wise and many old men retain a very attractive
 childishness and cheerful innocence.  Elderly people are often much
 more romantic than younger people, and sometimes even more adventurous,
 having begun to realize how many things they do not know.
-It is a true proverb, no doubt, which says `There is no [[Fool|fool]]
+It is a true proverb, no doubt, which says ‘There is no [[Fool|fool]]
 like an old [[Fool|fool]]'.  Perhaps there is no [[Fool|fool]] who is half so happy
 in his own [[Fool|fool]]'s paradise.  But, however this may be, it is true
 that the advantages of maturity are not those which are generally
@@ -7579,7 +7579,7 @@ by the proverb about letting a sleeping dog lie, or the [[Fable|fable]]
 about the dog in the manger.  Now those dead phrases are quite alive
 to me, for they are parts of a perfectly practical psychology.
 Until I went to live in the country, I had no notion of the meaning
-of the maxim, `It's an ill wind that blows nobody good'.
+of the maxim, ‘It's an ill wind that blows nobody good'.
 Now it seems to me as pertinent and even pungent as if it were
 a new remark just made to me by a neighbour at the garden gate.
 It is something to come to live in a world of living and significant
@@ -7596,8 +7596,8 @@ Ciò nondimeno, vi è un altro aspetto di questa fantasia, sia essa o no qualcos
 
 Ora, se prendiamo una bella poesia d'invocazione religiosa, come quella che Chaucer chiamò il suo A.B.C., la quale consiste in una serie di apostrofi alla Vergine, ciascuna simile al primo saluto del mattino, sentiremo la presenza quasi fisica di questa sorta di comportamentismo antico o medievale. Le parole paiono recar con sé un gesto; è impossibile non sentire che il poeta sta facendo qualcosa; che s'inchina a una dama o si leva in piedi per salutare un sovrano; che solleva in alto un'offerta o getta a terra un'offerta. Un esordio come «Onnipotente e tutta-misericordiosa Regina» ha in sé un'ampiezza che va oltre quella del cervello, nel senso stretto, perché una tale invocazione è, tra le altre cose, una delle più antiche abitudini umane del corpo. Certo, quel gesto ampio ed espansivo si può trovare in altri poeti oltre a Chaucer, e in altre scuole oltre a quella di Chaucer. Ma esso non si è espanso con il particolare tipo moderno di espansione. Milton ne era capace:
 
-    Tue sono queste possenti opere, Genitore del Bene,
-    Onnipotente, tua questa eterna compagine.
+Tue sono queste possenti opere, Genitore del Bene,
+Onnipotente, tua questa eterna compagine.
 
 Ma mi pare che, dopo Milton, vi sia in letteratura sempre meno di quella sorta d'invocazione, anche quando vi sono molte altre sorte d'ispirazione. Shelley inventò una cinquantina di dee, ma non sapeva pregarle, e neppure altrettanto bene di quanto il vecchio ateo Lucrezio sapesse pregare Venere, Madre di Roma. Tutte le divinità di Shelley erano astrazioni; erano la Bellezza o la Libertà o l'Amore; ma avrebbero potuto benissimo essere l'Algebra e la Divisione con più cifre, per quel che riguarda l'invito al gesto dell'adorazione. In questo, come in ogni altra cosa, ciò che non va nel nuovo pagano è che egli non è un pagano; non possiede nulla dei costumi o delle consolazioni di un pagano. Ve n'è un poco di più, lo ammetto, nelle invocazioni quasi ironiche di Swinburne. Ma ciò è appunto perché Swinburne era versato più a fondo, non nel nuovo paganesimo, ma nell'antico. Egli era almeno entrato nei templi degli antichi greci, foss'anche per maledire gli dèi non meno che per invocarli. Ma, nel complesso, questo gesto d'invocazione è piuttosto uscito dalla poesia; e persino i nostri diabolisti non agitano la bacchetta con nulla che somigli a un bel gesto elegante, quando si mettono a evocare il diavolo.
 
@@ -7641,7 +7641,7 @@ We had read ten thousand times, to the point of tedium, of the difference
 between the Napoleon of Marengo and the Napoleon of Moscow; but we
 should never have expected Moscow if we had been looking at Marengo.
 We knew that Charles the Fifth resigned his crown, or that Charles
-the First lost his head; and we should have duly remarked `Sic
+the First lost his head; and we should have duly remarked ‘Sic
 transit gloria mundi', after the incident, but not before it.
 We had been told that the Roman Empire declined, or that the
 Spanish Empire disintegrated; but no German ever really applied
@@ -7738,8 +7738,8 @@ Mr. H. L. Mencken is at least a brilliant man of letters and ought
 to know better.  But he, I gather, has just been coming out in defence
 of the dead and buried negations of the nineteenth century, and gallantly
 doing his best to prevent American science from moving with the times.
-His way of doing it seems to be to play about with the word `Scientist'
-in opposition to some other word like the word `Physicist'. `Scientist'
+His way of doing it seems to be to play about with the word ‘Scientist'
+in opposition to some other word like the word ‘Physicist'. ‘Scientist'
 is a horrible word to be driven to use, though I have often been
 driven to use it; but all these terms for the study of science are
 in a very unscientific confusion.  It would be embarrassing to summon
@@ -7768,7 +7768,7 @@ but in my time it used to be called a journalist.
 It is great fun, for what it really means is that the scientific
 materialist never cared for science but only for materialism.
 So long as he supposed that material inquiry supported materialism,
-he roared and bellowed at us that we must `accept the conclusions
+he roared and bellowed at us that we must ‘accept the conclusions
 of science'.  But he is not the least inclined himself to accept
 the conclusions of science, if they happen to go against his
 own crude and clumsy creed.  The Darwinians would have been
@@ -7889,11 +7889,11 @@ entirely neglected, and which I think is of very great and vital
 importance to the [[history]] of England.
 
 The critic in question says of Trollope, truly enough in the main:
-`He scarcely concerned himself with the lower orders.'
+‘He scarcely concerned himself with the lower orders.'
 We may add that the whole system of English squirearchy scarcely
 concerned itself with the lower orders; or only in the same vague
 and well meaning way as Trollope.  But when the critic adds,
-`His values were those of the middle class', he misses the point--
+‘His values were those of the middle class', he misses the point--
 the point which I think important about English [[history]].
 It is not really true, as a whole, that his characters were middle class.
 It might be said more truly that Dickens dealt largely with the middle
@@ -8008,7 +8008,7 @@ to that of the ordinary gentleman, let [[Alone|alone]] the ordinary citizen.
 They owned every thing, and Trollope knew it.  What other possible meaning
 is there in the title of The Duke of Omnium?  Thackeray also knew it.
 What possible other meaning is there in that fine satiric flourish,
-`I am not a Whig . . . but oh, how I should like to be!'?
+‘I am not a Whig . . . but oh, how I should like to be!'?
 Even the waiters and couriers on the Continent knew it.
 What other meaning was in the Arabian Nights legend of the
 English Milord?  Everybody seems to have known it, except the people
@@ -8017,7 +8017,7 @@ who taught history in the schools and universities of England.
 XII.  On the Way of the World
 
 IT was Matthew Arnold, if I remember right, who invented or
-popularized the phrase `the way the world is going', a motto for
+popularized the phrase ‘the way the world is going', a motto for
 social reformers only too easily adapted into a motto for snobs.
 It is not really even a simple, let [[Alone|alone]] a safe, guide, as can
 be easily tested in his own ease.  After all, if it comes to that,
@@ -8055,7 +8055,7 @@ the novels of Miss Ethel M. Dell and all sorts of rubbishy
 tales and essays about the fascination of sheikhs and cavemen.
 In theory the State has been practically secularized and theology
 is a dead and threadbare thing, dismissed disdainfully in every other
-paragraph as a lumber of `creeds and dogmas'.  In practice no newspaper
+paragraph as a lumber of ‘creeds and dogmas'.  In practice no newspaper
 can apparently pay its way without plastering itself all over with
 headlines and captions about the position of Christianity, the nature
 of Christ, the immortality of the soul, the future of the Churches,
@@ -8105,7 +8105,7 @@ Some of the writers deal with the tremendous and pulverizing
 paradox of the Love of God, especially in the aspect of faith
 in the God of Love, as if it were not only perfectly self-evident,
 but as if it could have no effect except to make us self-satisfied.
-The thunderous riddle of the `Est Deus Caritatis' which broke
+The thunderous riddle of the ‘Est Deus Caritatis' which broke
 above the dying Brand after his life of agony on the peak of his
 perfect [[Renunciation|renunciation]], seems to be uttered chirpily every morning
 to every clerk or stockbroker who will be sufficiently broadminded
@@ -8197,7 +8197,7 @@ whole mind.  There are certain statements that are true as far as they go,
 and even important and interesting as far as they go, which are yet
 incessantly being used to stop the mind from going any farther.
 One of these, for example, is the phrase we find in the phraseology
-of all our literature and journalism; `Rapid modern communications
+of all our literature and journalism; ‘Rapid modern communications
 are bringing different parts of the world nearer and nearer together.
 It takes but a few days to go to Siberia by train; it may take but
 a few hours to go there by aeroplane.  Instead of being at the ends
@@ -8216,8 +8216,8 @@ any antiquarian scholarship about that somewhat obscure district;
 I would undertake to say that there were some ideas common
 to the Siberian and the Suburban.  I should guess, for instance,
 that the Asiatic savages had some rudimentary idea of private property.
-I suspect that a Siberian would have said, `This is my spear',
-as confidently as the Surbitonian would have said, `This is my umbrella'.
+I suspect that a Siberian would have said, ‘This is my spear',
+as confidently as the Surbitonian would have said, ‘This is my umbrella'.
 It is probable that there was some sort of religion in Siberia,
 as it is probable that there is some sort of religion in Surbiton.
 The traveller to-day could get ten times more quickly to the
@@ -8747,7 +8747,7 @@ from the wedding to the bells, and from the bells to the church.
 But modern philosophy has taken the life out of modern fiction.
 It is simply dissolving into separate fragments and then
 into formlessness; and deserves much more than the romantic novel
-the modern reproach of being `sloppy'.
+the modern reproach of being ‘sloppy'.
 
 XVII.  On [[logic|Logic]] and Lunacy
 
@@ -8755,7 +8755,7 @@ THE idea of [[logic]] is so entirely lost in this phase of
 philosophical [[history]], that even those who invoke it do so rather
 as the Athenians once invoked the Unknown God, or the men of
 the Dark Ages retained a dim respect for Virgil as a conjurer.
-The very people who say, `be logical', will generally be found to be
+The very people who say, ‘be logical', will generally be found to be
 quite illogical in their own notion of logic.  One of the last men
 who understood logic in its full and impartial sense, died only lately:
 the late William Johnson of King's College, Cambridge; one of
@@ -8781,16 +8781,16 @@ and the British Empire by raising the question of whether a girl
 ought to smoke a cigar.  But what I noted about his, and about
 the hundred eager correspondents who pursued this great theme,
 was that they wrote again and again some such sentence as this:
-`If you like a girl to smoke a cigarette, why can't you be logical
+‘If you like a girl to smoke a cigarette, why can't you be logical
 and like her to smoke a cigar?'  Now I do not care an ounce of shag
 whether she smokes a cigarette or a cigar or a corn-cob pipe
 or a hubble-bubble, or whether she smokes three cigars at once,
 or whether she is an Anti-Tobacco crank.  But it is none the less
-true that when a man writes that sentence telling us to `be logical',
+true that when a man writes that sentence telling us to ‘be logical',
 he shows that he has never even heard of the nature of logic.
-He might just as well write:  `You like the look of a [[Horse|horse]];
+He might just as well write:  ‘You like the look of a [[Horse|horse]];
 why won't you be logical and like the look of a hippopotamus?'
-The only answer is, `Well, I don't; and it is not illogical,
+The only answer is, ‘Well, I don't; and it is not illogical,
 because it does not in any way invade the realm of logic.
 A man has a perfect right to say that he likes the look of one thing
 and does not like the look of another thing; or even that he likes
@@ -8799,8 +8799,8 @@ but somewhat similar thing.  It is all a question of liking;
 and not in the least a question of logic.  There is no logical
 compulsion upon him whatever to go on from the smaller to the larger
 and like them both.  The man who uses this phrase attaches some queer
-particular meaning to the word `logical'; something that is dimly
-adumbrated in the words, `extremist' or `going the whole hog'.
+particular meaning to the word ‘logical'; something that is dimly
+adumbrated in the words, ‘extremist' or ‘going the whole hog'.
 But if my appetite is so small that I only require half a hog
 for breakfast, I am not any less of a logician because I refuse
 to eat the whole hog for breakfast.  The obligation to eat
@@ -8828,18 +8828,18 @@ Cominciamo con un'inezia che non ha la minima importanza. Egli amava discutere d
 
 
 And that is what is the matter with the modern man who says,
-`be logical'.  He cannot take his own advice, and therefore he cannot
+‘be logical'.  He cannot take his own advice, and therefore he cannot
 state his own first principles.  But though his logic is nonsense
 as he states it, it does refer to some first principles if he could
 only state them.  It all depends on the reason for approving
 of cigarettes or cigars or girls or any other strange creatures.
 What he really means, at the back of his muddled modernistic mind,
-is some thing like this:  `If I approve of Jennifer smoking a cigarette
+is some thing like this:  ‘If I approve of Jennifer smoking a cigarette
 because Jennifer can jolly [[Well|well]] do anything she likes, and does, then it
 is illogical in me to object to her liking a cigar; or for that matter
 an opium-pipe or a pint of laudanum or a bottle of prussic acid.'
 And this statement would really be quite logical, because the logical
-reason is given.  Or if he said, `It is my first principle that women
+reason is given.  Or if he said, ‘It is my first principle that women
 may do anything that men do; therefore I am bound in logic to pass
 the cigars to my daughter as much as to my son,' then that also is
 perfectly reasonable as the application of a stated principle.
@@ -8864,8 +8864,8 @@ There is nothing intrinsically illogical in having affections
 or admirations or appetites, so long as we recognize them reasonably
 as what they are.  But the romantic tradition, as it exists
 in all the romances, is that the logician cannot be romantic.
-It may be remarked that the word `cold' will always be found coupled
-with the word `logical'; I imagine the printers keep such words
+It may be remarked that the word ‘cold' will always be found coupled
+with the word ‘logical'; I imagine the printers keep such words
 together in one block of type.  But the cold logician, though be
 must not be romantic, is almost entirely a creature of romance.
 As a matter of fact and experience, most of the very logical
@@ -8901,7 +8901,7 @@ All that is needed is a little ordinary training and practice;
 the knowledge that inferences rest on their first principles, as men
 rest on their feet.  But without it the world seems to be drifting
 into an intellectual dissolution and destruction, which is at its very
-wildest when some wild voice shrieks out of the chaos; `Be logical'.
+wildest when some wild voice shrieks out of the chaos; ‘Be logical'.
 This strange cry apparently means that you cannot stroke a cat
 without stroking a tiger; or that you are bound to wish the [[house]]
 was on [[Fire|fire]] because you sit by the fireside.
@@ -9077,7 +9077,7 @@ XIX.  On Gossip about Heredity
 
 A SHORT [[Time|time]] ago a distinguished scientific expert, pleading for a more
 normal and less panic-stricken treatment of consumptives, summed up
-one aspect in the decisive words:  `Consumption is no more hereditary
+one aspect in the decisive words:  ‘Consumption is no more hereditary
 than measles.'  He said, of course, that it could attack successive
 members of the same family, and for the same reason as measles.
 I have no authority to speak on the technical point; but a statement
@@ -9104,7 +9104,7 @@ an unreasonable reason) these biological questions have somehow
 been entangled with faith and morals; and that what is raging
 in the street is the war of two philosophies.
 
-Now, almost as soon as the word `heredity' was invented or spoken aloud,
+Now, almost as soon as the word ‘heredity' was invented or spoken aloud,
 it was caught up like a cry in the market-place, and repeated in
 every variation of gossip and chattering comment; applied to this,
 that, and the other, to which it was never in any case applicable;
@@ -9117,7 +9117,7 @@ as the scientists would be the first to admit.
 
 But in the great days when Science was also Fashion, when the world
 had to bow down not only to Darwin but to all Darwinians, when anything
-labelled `Specimens' or `Sections' passed without challenge,
+labelled ‘Specimens' or ‘Sections' passed without challenge,
 and all the camp-followers of materialism were sacred, like the suite
 of an Embassy--in those days of one idea or one tendency there
 arose the most amazing fashion of talking about Heredity.
@@ -9217,16 +9217,16 @@ blighted mankind with superstitions of the destiny and [[Death|death]] of races;
 who told the old Greeks like Oedipus that they were bound to their
 blind crimes; who told the old feudal tribes that there was a curse
 on a [[Castle|castle]] or an abortion that was the burden of a family.
-And when modern science said `Heredity' the old fiend stirred,
+And when modern science said ‘Heredity' the old fiend stirred,
 and saw a new chance of renewing the old bondage.  For however we take
 the symbols, it was a wise instinct by which heaven was symbolized
 by wings that are free as the wind, and hell symbolized by chains.
 
 XX.  On Dante and Beatrice
 
-THE interesting, one might almost say amusing, idea of `The Poets on
+THE interesting, one might almost say amusing, idea of ‘The Poets on
 the Poets', the series published by Messrs.  Faber and Faber, is described
-by those playful publishers themselves as based `on the impudent maxims,
+by those playful publishers themselves as based ‘on the impudent maxims,
 "Set a Poet to catch a Poet" and "Bards of a feather flock together"'.
 I am not sure that the latter motto is so exact as the former.
 Thus Mr. Humbert Wolfe is to write on Tennyson; and it would never
@@ -9269,7 +9269,7 @@ particular morning, and with such scorching despair the fact that she
 had not nodded or smiled at him on another morning, was most certainly
 in love, It was first love, calf-love, moon-calf-love, no doubt,
 but certainly human love; and if it wasn't I will modestly
-exclaim with Shakespeare, `I never writ nor no man ever loved.'
+exclaim with Shakespeare, ‘I never writ nor no man ever loved.'
 And that [[Dante]] does mean the same young woman to reappear in the
 Paradiso is obvious, not only from many phrases in the Paradiso,
 but from the quite definite words at the end of the Vita Nuova.
@@ -9371,7 +9371,7 @@ sided mystery of [[Beauty|beauty]], to be seen also in the grass and the sea,
 and even in the dead gods.  There is a promise in and yet beyond
 all such pictures; and the poet can see grass or the great sea
 or the great [[Ship|ship]] going over it, hearing a sort of whisper:
-`Thine eyes shall see the King in his beauty.'
+‘Thine eyes shall see the King in his beauty.'
 
 XXI.  On Quacks in the Home
 
@@ -9430,11 +9430,11 @@ The general rule is that nothing must be accepted on any ancient
 or admitted authority, but everything must be accepted on any new or
 nameless authority, or accepted even more eagerly on no authority at all.
 It is quite satisfactory, of course, if any nobody says in any newspaper:
-`Dr. Binns, of Buffalo, has told us that, while aunts may be fond
+‘Dr. Binns, of Buffalo, has told us that, while aunts may be fond
 of nephews, great-aunts always have an instinctive hatred and aversion
 both for nephews and nieces.'  But it is even more convincing than
 that if the information is anonymous in every way, and the writer
-merely states:  `Recent science has shown that second cousins are
+merely states:  ‘Recent science has shown that second cousins are
 naturally antagonistic, but that in second cousins once removed,
 the antagonism is sometimes introverted into suicidal mania.'
 Where all these statements come from nobody knows.  Where they
@@ -9462,7 +9462,7 @@ The instructor informs us that there can be between parent and child
 a negative transference (the intense italics arc his), which seems
 to mean, not merely that the child will hate the parent, but that
 the child will love somebody who is the opposite of the hated parent.
-`Thus a [[Child|child]] who is treated coldly by his mother will come
+‘Thus a [[Child|child]] who is treated coldly by his mother will come
 to reject all people like his mother and seek for her opposite.
 We will say the mother is good, honest, moral, even pious.
 The boy will gravitate to some one crooked, immoral, or even wicked,
@@ -9478,7 +9478,7 @@ But what is meant by the mother being good, as distinct from her
 being moral?  What is meant by the mother's mysterious rival
 being immoral, as distinct from being wicked?  And what in
 the name of goodness (or [[morality]]) is meant by the mysterious
-word `even', which is reserved only for wickedness and for piety?
+word ‘even', which is reserved only for wickedness and for piety?
 The transference of these thoughts, from writer to reader,
 is a very negative transference indeed.  However, the writer,
 having said that the mother's goodness, which seems to be the same
@@ -9489,7 +9489,7 @@ be cold.  Revolt, we are told, sometimes leads to new ways of life,
 and it may be highly satisfactory that the boy should seek for the
 opposite of his mother.  But what is the opposite of your mother?
 As a point of logic, it seems rather subtle; nor does the logician
-here instructing us give us very much help.  `A [[Rebel|rebel]] boy may,
+here instructing us give us very much help.  ‘A [[Rebel|rebel]] boy may,
 of course, become, like the proverbial minister's son, a good-for-naught
 or a crook; on the other hand, a boy like Balzac who hated his
 practical father, became a great novelist--his father's opposite.
@@ -9501,7 +9501,7 @@ that he succeeded very [[Well|well]].  I am not quite sure what is the opposite
 of a poor fiddler, but certainly it is not a great composer.
 There may be many a great composer who has been a poor fiddler,
 and many a poor fiddler who may yet be a great composer.
-The same mysterious use of the word `opposite' darkens the other
+The same mysterious use of the word ‘opposite' darkens the other
 instance given from the career of Balzac.  I cannot understand why,
 in logic, a great novelist is the exact contrary of a practical father.
 I do not see why any child may not happen to rejoice in the possession
@@ -9509,7 +9509,7 @@ of a great practical novelist-father. The children of Sir Walter Scott,
 for instance, to a great extent did so, despite the accident which
 ruined his later fortunes.  But it is not only false in the typical
 case of Scott, it is far from true even in the actual case of Balzac.
-Balzac had a decidedly `practical' side to him; he was not only busy,
+Balzac had a decidedly ‘practical' side to him; he was not only busy,
 but business-like, in his own way; and, anyhow, all these
 crude contrasts about complex characters are all nonsense.
 Balzac did not become a great novelist because his father had annoyed
@@ -9544,7 +9544,7 @@ a crop of modern proverbs, or phrases, which everybody repeats
 for the hundredth [[Time|time]] and nobody examines for the first [[Time|time]],
 or they would instantly be found to be false.  A typical case is that
 which we have all heard again and again in some such form as this:
-`In every age people have thought their own time prosaic
+‘In every age people have thought their own time prosaic
 and only the past poetical.  If you think the medieval or any
 other period picturesque, that is only the glamour of antiquity;
 men in those days felt about them as you do about these days.
@@ -9559,8 +9559,8 @@ has summarized the notion admirably in a poem about Romance being
 at all times actually in the present and apparently in the past--
 a poem beginning, I think:
 
-    `Farewell, [[Romance]],' the cavemen cried,
-    With bone and flint he went away.
+‘Farewell, [[Romance]],' the cavemen cried,
+With bone and flint he went away.
 
 I need hardly say that there is not a grain of anything remotely
 resembling evidence that the cavemen ever cried anything of the sort.
@@ -9592,7 +9592,7 @@ be tested in a hundred ways, and one is even tolerably familiar.
 Sensational French artists, in the nineteenth century, deliberately
 and defiantly painted pictures from the Gospel in modern dress,
 with [[Christ]] standing among men in trousers and top-hats. It
-was purposely done to `shock' the Salon; needless to say,
+was purposely done to ‘shock' the Salon; needless to say,
 it would have been far too shocking for the Royal Academy.
 Yet it was not the first time the thing had been done.
 It was only the first time it had been thought shocking.
@@ -9626,7 +9626,7 @@ sense of humour that at least would not pretend to be dignified.
 The things of that period are all stamped with the insignia of indignity.
 It is not true that this is affected by it being a past or a
 present period.  Mr. Kipling himself in the poem quoted, gave the
-case away by saying that `[[Romance]] brought up the nine-fifteen',
+case away by saying that ‘[[Romance]] brought up the nine-fifteen',
 implying that the clerks in the train did not yet realize their
 own [[Romance|romance]].  But since that was written steam has grown old
 compared to petrol, as stage-coaches grew old compared to steam.
@@ -9652,8 +9652,8 @@ Il luogo comune corrente, che è un luogo comune contro i luoghi comuni, ha prod
 
 Il signor Rudyard Kipling, sempre il poeta di questa modernità popolare, ha riassunto ammirevolmente l'idea in una poesia sul Romanticismo, che è in ogni tempo realmente nel presente e apparentemente nel passato—una poesia che comincia, mi pare, così:
 
-    «Addio, [[Romance|Romanticismo]]», gridarono gli uomini delle caverne,
-    e con l'osso e la selce esso se ne andò.
+«Addio, [[Romance|Romanticismo]]», gridarono gli uomini delle caverne,
+e con l'osso e la selce esso se ne andò.
 
 Non ho quasi bisogno di dire che non c'è un grano di alcunché che rassomigli anche solo lontanamente a una prova che gli uomini delle caverne abbiano mai gridato qualcosa del genere. È una delle mille cose che si dicono di loro perché non c'è prova in un senso né nell'altro. Ma vi sono tonnellate di prove che i più antichi uomini di cui possiamo seguire i moventi consideravano i propri riti e le proprie tradizioni ragionevolmente dignitosi. Ci sono stati periodi in cui poeti e satirici hanno detto che la società stava degenerando per lusso o lassismo, e molti periodi in cui avevano perfettamente ragione a dirlo. Ci sono stati alcuni periodi—non molti—in cui gli uomini si sono intensamente interessati a qualche particolare epoca del passato. Così gli uomini del [[Renaissance|Rinascimento]] consideravano vagamente l'antichità un'età eroica. Ma non consideravano la propria un'età prosaica. Shakespeare poteva emozionarsi ai racconti di Plutarco su grandi uomini in toga e tunica; ma ciò non gli impedì di concepire [[Hamlet|Amleto]] come un ordinario gentiluomo elisabettiano, che tirava di scherma con stocco e pugnale, portando probabilmente una gorgiera e quasi certamente la barba. Ogni uomo moderno, la prima volta che udì di un [[Hamlet|Amleto]] in abito moderno, provò un lieve brivido di [[Doubt|dubbio]]; anche se era ben disposto, temeva che potesse riuscire comico. Ma Shakespeare probabilmente concepì davvero [[Hamlet|Amleto]] in abito moderno—nel suo abito moderno. E non c'è nulla che dimostri che lo trovasse minimamente comico.
 
@@ -9684,17 +9684,17 @@ more remote region of delicate distances and golden clouds.
 But he is not out of the picture of The Canterbury Tales,
 nor of any medieval picture in which there might be [[Grotesque|grotesque]] dwarfs
 or gambolling [[dogs]].  But he would be out of the picture called
-`The Derby Day', by Frith.  That picture contains considerable variety;
+‘The Derby Day', by Frith.  That picture contains considerable variety;
 but it does not contain the Knight of The Canterbury Tales.
-For `The Derby Day' was painted at that midnight moment of art when
+For ‘The Derby Day' was painted at that midnight moment of art when
 even the [[Artist|artist]] did not think that the world he saw was artistic.
 This unnatural sense of ugliness is so much our immediate inheritance
 that there are ordinary words that have never recovered from it.
-The very word `hat' has a hazy air of farce about it;
+The very word ‘hat' has a hazy air of farce about it;
 mentioned by itself it suggests first the hat of Charlie Chaplin
-or the admirable song of `Where Did You Get that Hat?'  The first
+or the admirable song of ‘Where Did You Get that Hat?'  The first
 lesson in medievalism is to understand that Chaucer did not feel
-about the word `hood' as we do about the word `hat'. He knew
+about the word ‘hood' as we do about the word ‘hat'. He knew
 there were knavish people who carried two faces under one hood;
 but the one face might be that of Friar Francis as [[Well|well]] as of Friar Tuck.
 A halo round a hood did not seem queer, like a halo round a hat,
@@ -9706,7 +9706,7 @@ There was preposterous costume in that age, but he did not
 think all costume preposterous because it was of that age.
 He was as ready to be humorous in verse as any serious poet
 who ever lived, but his head was not filled with an endless,
-derisive echo of `Where Did You Get that Hood?'
+derisive echo of ‘Where Did You Get that Hood?'
 
 XXIII.  On the Later Portions of Poems
 
@@ -9720,9 +9720,9 @@ They always begin with a summary of this kind, perhaps because they
 have a craven fear that many of their readers will not read any more.
 Everybody knows the first three lines of Paradise Lost:
 
-    Of man's first disobedience and the fruit
-    Of that forbidden Tree, whose mortal taste 
-    Brought death into the world and all our woe.
+Of man's first disobedience and the fruit
+Of that forbidden Tree, whose mortal taste 
+Brought death into the world and all our woe.
 
 But I strongly suspect that there is a sudden and enormous falling off
 in the numbers of those who could quote the fourth line.  And Milton
@@ -9730,7 +9730,7 @@ may himself have paused at that point, and heaved a sigh of relief,
 to think that he had got the whole story packed pretty thoroughly into
 the three lines, even if all his readers refused to read him any more.
 He had successfully informed the public of the incident called
-`The Fall of Man', had explained its connexion with the fruit
+‘The Fall of Man', had explained its connexion with the fruit
 of the Tree of Knowledge, and attached to it all the results
 of the doctrine of [[Original Sin]].  He did not, however, stop here,
 and leave this little trifle as a sort of [[Epigram|epigram]] or short [[Lyric|lyric]].
@@ -9758,9 +9758,9 @@ is common in the case of the complicated epics, and not uncommon
 in that of the simpler epics, it may seem almost cynical
 to suggest that it is sometimes true even of shorter [[Poems|poems]].
 It seems heartless to suggest that somebody may have fainted
-before he got to the end of `We Are Seven'.  It is awful to think
+before he got to the end of ‘We Are Seven'.  It is awful to think
 that some critic may have been so fastidious as to be unable
-to support more than two lines of `The Village Blacksmith'.
+to support more than two lines of ‘The Village Blacksmith'.
 And yet I fancy there are cases in which something like this is true;
 and I came across one recently, or rather I only recently fancied
 that I saw the true meaning of it.
@@ -9774,9 +9774,9 @@ XXIII. Sulle parti finali delle poesie
 
 A volte nutro l'oscuro sospetto che vi siano molte poesie, e forse anche componimenti in prosa, che la gente crede di conoscere quando ne conosce soltanto i primi versi. Forse ciò spiegherebbe la sinistra fretta e premura con cui i grandi Poeti Epici stipano nei primi versi l'enunciato dell'intera vicenda, che intendono narrare nei dodici libri seguenti. Cominciano sempre con un riassunto di questo genere, forse perché hanno il vile timore che molti dei loro lettori non leggeranno oltre. Tutti conoscono i primi tre versi del Paradise Lost:
 
-    Della prima disubbidienza dell'uomo e del frutto
-    di quell'Albero proibito, il cui mortale sapore
-    recò la morte nel mondo e ogni nostra sventura.
+Della prima disubbidienza dell'uomo e del frutto
+di quell'Albero proibito, il cui mortale sapore
+recò la morte nel mondo e ogni nostra sventura.
 
 Ma sospetto fortemente che vi sia un crollo improvviso ed enorme nel numero di coloro che saprebbero citare il quarto verso. E Milton stesso può essersi fermato a quel punto, e aver tirato un sospiro di sollievo, al pensiero di aver racchiuso l'intera storia in maniera piuttosto completa nei tre versi, anche se tutti i suoi lettori si fossero rifiutati di leggerlo oltre. Aveva informato con successo il pubblico dell'episodio chiamato «La Caduta dell'Uomo», ne aveva spiegato il nesso col frutto dell'Albero della Conoscenza, e vi aveva annesso tutte le conseguenze della dottrina del [[Original Sin|Peccato Originale]]. Non si fermò, tuttavia, a questo punto, lasciando questa piccola inezia come una sorta di [[Epigram|epigramma]] o di breve [[Lyric|lirica]]. Proseguì per un [[Time|tempo]] piuttosto lungo; e dovette essere con un senso di sollievo, non disgiunto dalla stanchezza, che raggiunse infine quella quieta e bella conclusione, e vide gli esuli, mano nella mano, con passo esitante e lento, prendere per l'Eden la loro solitaria via. È forse un vantaggio per i poeti [[Epic|epici]] che la loro storia, di regola, sia già più o meno nota al pubblico; così come un considerevole numero di persone ha udito la storia di Adamo ed Eva. Tutte le storie d'avventura, secondo l'espressione di Stevenson, cominciano a finire [[Well|bene]]; e nella più grande delle storie d'avventura [[Ulysses|Ulisse]] è evidentemente destinato a tornare infine a [[Home|casa]]; né vi sono molti che abbiano bisogno di leggere fino alla fine dell'Iliade per scoprire che ne fu di [[Hector|Ettore]]. Nel caso di [[Poems|poemi]] più lunghi e più elaborati, per non dire più aggrovigliati, come quelli dell'Ariosto e di Spenser, è legittimo [[Doubt|dubitare]] che tutti sappiano davvero che cosa sia accaduto a chicchessia. Lord Macaulay era il più tenace dei lettori, dotato della più perfetta delle memorie; eppure si ammette che ruzzolò, o uscì di gara, nelle foreste della Faërie Queene. Diceva che pochi lettori erano presenti alla [[Death|morte]] della Bestia Blaterante, e se vi fosse stato lui stesso avrebbe saputo che la Bestia non muore neppure. Ma se questa mancanza di perseveranza finale è comune nel caso dei poemi complicati, e non rara in quello dei poemi più semplici, può sembrare quasi cinico suggerire che talvolta valga anche per [[Poems|poesie]] più brevi. Sembra spietato suggerire che qualcuno possa essere svenuto prima di giungere alla fine di «We Are Seven». È tremendo pensare che qualche critico possa essere stato tanto schizzinoso da non riuscire a sopportare più di due versi di «The Village Blacksmith». Eppure immagino vi siano casi in cui qualcosa del genere è vero; e uno ne ho incontrato di recente, o piuttosto solo di recente ho immaginato di coglierne il vero significato.
 
@@ -9785,14 +9785,14 @@ Ma sospetto fortemente che vi sia un crollo improvviso ed enorme nel numero di c
 <span class="atom-split" data-atom="chapter_01--part_28" data-title="GKC All is Grist — Chapter 1 (part 28)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
-Everybody quotes the opening lines of Shelley's fine [[Chorus|chorus]] of `Hellas'.
+Everybody quotes the opening lines of Shelley's fine [[Chorus|chorus]] of ‘Hellas'.
 And everybody quotes them as the expression of Shelley's heroic hope
 for the human race, his idealism and his optimism about his ideals,
 his radiant faith in a final fulfilment in which humanity should
 be happy and free
 
-    The world's great age begins anew,
-    The golden years return.
+The world's great age begins anew,
+The golden years return.
 
 And I suspect that of these a very considerable number have not read,
 or do not remember, or did not understand, the curious breaking-point
@@ -9808,8 +9808,8 @@ and then, when it comes to its highest note of triumph, it breaks.
 The poet cries, with something like horror, that we must look
 no further and foresee no more:
 
-    O, drain not to the dregs the urn 
-    Of bitter prophecy.
+O, drain not to the dregs the urn 
+Of bitter prophecy.
 
 It is obvious, to put it mildly, that something has occurred
 to him to put him out.  And though all readers must have realized
@@ -9826,7 +9826,7 @@ by Christopher Dawson, which Messrs.  Sheed & Ward published some
 little time ago.  It contains, among many other interesting things,
 a very complete account of that extraordinary theory of Recurrence,
 which many modern as well as ancient philosophers have held, but to
-which the ancient philosophers gave the name of `The Great Year'.
+which the ancient philosophers gave the name of ‘The Great Year'.
 The theory, of course, is broadly this:  that when all
 possible permutations and combinations have been exhausted,
 the cosmic system will of its [[Nature|nature]] have to begin all over again
@@ -9835,8 +9835,8 @@ This will happen again and again for ever; for the same [[logic]] that brings
 the repetition must also bring the repetition of the repetition.
 And, indeed, it is odd to notice how the philosophers repeat themselves
 even in describing the repetition.  Mr. Dawson quotes the case of a Greek
-sage who said, `This staff that I am holding I shall hold again,'
-and the case of a Socialist thinker who said, `This pen I am holding
+sage who said, ‘This staff that I am holding I shall hold again,'
+and the case of a Socialist thinker who said, ‘This pen I am holding
 I shall hold again,' in almost exactly the same form of words.
 Every detail of every life will return with exactitude, and return
 again and again to [[Eternity|eternity]].  And everybody knows how Nietzsche
@@ -9894,13 +9894,13 @@ and seeing it change pattern and colour like a pygmy sunset.
 
 Tutti citano i versi iniziali del bel [[Chorus|coro]] shelleyano di «Hellas». E tutti li citano come l'espressione dell'eroica speranza di Shelley per il genere umano, del suo idealismo e del suo ottimismo riguardo ai propri ideali, della sua radiosa fede in un compimento finale in cui l'umanità sarebbe stata felice e libera
 
-    La grande età del mondo ricomincia,
-    tornano gli anni d'oro.
+La grande età del mondo ricomincia,
+tornano gli anni d'oro.
 
 E sospetto che di costoro un numero assai considerevole non abbia letto, o non ricordi, o non abbia compreso, il curioso punto di rottura che è il fulcro della poesia. L'ho letta io stesso centinaia di volte, ma confesso che solo di recente ne ho colto il pieno significato, in connessione con teorie cosmiche e filosofiche. Oserei dire che chiunque altro l'abbia letta l'abbia compresa assai meglio e più immediatamente; non mi ergo a scopritore, ma trovo davvero curioso che la scoperta non sia stata riscoperta più spesso. La poesia di Shelley sale costante in una curva ascendente di corale ringraziamento alla Natura per una nuova e gloriosa rinnovazione di tutte le cose; e poi, quando giunge alla sua più alta nota di trionfo, si spezza. Il poeta grida, con qualcosa di simile all'orrore, che non dobbiamo guardare oltre né più nulla presagire:
 
-    Oh, non vuotare fino alla feccia l'urna
-    dell'amara profezia.
+Oh, non vuotare fino alla feccia l'urna
+dell'amara profezia.
 
 È ovvio, a dir poco, che gli sia sopraggiunto qualcosa a turbarlo. E per quanto tutti i lettori debbano aver perlomeno compreso questo, immagino vi sia stato un considerevole numero di citatori che non erano lettori. E non credo che il nome di Shelley sarebbe stato tanto innocentemente e irrevocabilmente legato alle idee di Progresso e Perfettibilità e di un Bel Tempo che Verrà, se tutti avessero subito compreso a che cosa realmente egli alludesse.
 
@@ -10253,8 +10253,8 @@ and this wicked world.  Nobody can expect that sort of popular
 [[Artist|artist]] to wear a laurel round his remarkable bowler hat.
 But it has been possible, and it will be possible again,
 for the public to rejoice seriously, and even solemnly.
-In those older days the very word `solemn' went with the word `joyous';
-and `a high solemnity' was almost always an affair of dancing
+In those older days the very word ‘solemn' went with the word ‘joyous';
+and ‘a high solemnity' was almost always an affair of dancing
 and junketing.  A modern crowd would cheer the critical faculty,
 as in Mr. Chaplin; it would not cheer the creative faculty, as in Dante.
 And unless we keep the idea of a high solemnity, or public function
@@ -10312,14 +10312,14 @@ of honours; and, though most of them are now pretty thoroughly
 dishonoured, nobody suggests that the Poet Laureateship has been sold.
 Anyhow, among the wider ways of doing it was what may be called
 the Pageant of Poetry; the public acknowledgment of the Poet,
-`to whom the high gods gave of right their thunders and their laurels
+‘to whom the high gods gave of right their thunders and their laurels
 and their light'.
 
 XXVII On Living for Posterity
 
 WE all remember the story of that excess of [[Aspiration|aspiration]],
 in the sense of the use of aspirates, which led somebody to say
-of somebody, `If you give him a Hinch, he'll take a Hell.'
+of somebody, ‘If you give him a Hinch, he'll take a Hell.'
 Some recent extensions of social liberty have made the accident
 of the last word sound strangely like an omen.  But what strikes me
 as even more curious is this:  that there are some people who are
@@ -10453,9 +10453,9 @@ If their novels and newspapers were less filled with the sublime
 spiritual liberation of eloping with the chauffeur, and more
 filled with the duty and dignity of remaining with the baby,
 I might admit that their faces are set towards the Future
-and their souls full of the song of `A Good [[Time]] Coming'.
+and their souls full of the song of ‘A Good [[Time]] Coming'.
 As it is, it seems to be an impatient and even pessimistic [[Lyric|lyric]]
-about `A Good Time Now'.
+about ‘A Good Time Now'.
 
 I am not at all pharisaical about these weaknesses considered
 as weaknesses, but I am rather bored with the pretence that they
@@ -10480,7 +10480,7 @@ in admitting him to my list of Great Men, though perhaps my list
 might be a little longer, and perhaps a little more liberal than his.
 I actually wrote a book about him in the ancient days, and I am
 happy to say that he reviewed it himself, with the typical opening:
-`This is the best book of criticism that I have yet produced.'
+‘This is the best book of criticism that I have yet produced.'
 And what I said then is very much what I should say still:
 that there is no very fundamental antagonism between Mr. Bernard [[Shaw]]
 and myself except in one fact--that he is a Puritan and I am at least
@@ -10528,7 +10528,7 @@ in a remark made in this discussion about Einstein and Great Men:
 a remark that may not seem to have anything to do with religion at all.
 Mr. [[Shaw]] is reported, and I apologize if he is misreported,
 as saying that he would hesitate to admit Napoleon into his select
-club of heroes; and that `it would have been better for the world
+club of heroes; and that ‘it would have been better for the world
 if Napoleon had never lived'.  To which I answer that if Napoleon
 had never lived, then certainly Bernard Shaw never would have lived.
 At any rate, if Napoleon had not succeeded in being Napoleon, Shaw would
@@ -10592,7 +10592,7 @@ Now I can heartily respect, and even sympathize with,
 some jolly old English Tory who still regards Bonaparte as Boney.
 I can understand the genial reactionary, like Mr. Sapsea,
 who continues through all continental changes to drink the toast,
-`When the French come over, may we meet them at Dover.'
+‘When the French come over, may we meet them at Dover.'
 But I should hardly have thought of associating Mr. Sapsea with Mr. [[Shaw]].
 And whatever may be the true story of the punishment of St. [[Helena]],
 it seems rather hard on Napoleon that he should endure not only an eternal
@@ -10855,8 +10855,8 @@ apprenticeship in picking pockets as [[Well|well]] as in picking brains;
 and have we to look to the establishment of an Academy of Anarchy,
 with the power of conferring degrees?  Novelists might proudly print
 after their names the letters indicating the degrees they had taken;
-such as F.Y.B., meaning `Five Years for Burglary', or T.N.H.,
-for `Twice Nearly Hanged'.  Altogether it may be said that writers
+such as F.Y.B., meaning ‘Five Years for Burglary', or T.N.H.,
+for ‘Twice Nearly Hanged'.  Altogether it may be said that writers
 do not rob, but it may be fortunate that robbers do not write.
 It is possible that the wild and wicked criminal might, after all,
 make almost as good a novelist as the novelist.
@@ -11080,7 +11080,7 @@ apparent interest at all, and stuffing them all into one building,
 that the stranger may stray among a hundred distracting monuments
 or the [[Pilgrim|pilgrim]] be lost among a hundred hostile shrines.
 When the traveller saw the statue of the [[Hero|hero]], he did not see
-written on the pedestal:  `This way to the Collection of
+written on the pedestal:  ‘This way to the Collection of
 Tropical Fungi', in which he possibly felt no interest at all.
 When the pilgrim found his way to the shrine, he did not find
 that the priest was eagerly waving him on to a glass case filled
@@ -11129,7 +11129,7 @@ would be needed to set the Puritans, who are above all Manicheans,
 denouncing these things exactly as they now denounce beer or tobacco,
 and are, indeed, already beginning to denounce coffee and tea.
 In contradiction of the advertisement recently so common, we should
-see the town plastered with the words `Join the No-Mustard Club'.
+see the town plastered with the words ‘Join the No-Mustard Club'.
 By a slight emendation of Scripture (which is nothing to the
 devout Puritan) we should be told that the salt which has not lost its
 savour is fit only to be cast forth and trampled under foot of men.
@@ -11144,7 +11144,7 @@ the name of Worcester.  I could myself, on the spur of the moment,
 easily make up all sorts of arguments and illustrations as convincing
 against condiments as others are against convivial liquors.
 I could point out that the old proverb about taking strange stories
-`with a grain of salt' was itself an evidence of the connexion
+‘with a grain of salt' was itself an evidence of the connexion
 between strange substances and strange delusions, and bring out
 the result that salt is really a sort of opium.  I could point out
 that the very fact of mustard being hot in the mouth is analogous
@@ -11262,7 +11262,7 @@ for I have quite a different moral philosophy at the back of my mind.
 It would occupy too much space to expound it here, and I have often
 enough expounded it elsewhere.  But it might be indicated by saying
 that there is a truth behind the joke of the man who said:
-`Give us the luxuries of life and we will dispense with the necessities';
+‘Give us the luxuries of life and we will dispense with the necessities';
 and the [[Truth|truth]] can be more soberly stated by saying that, in one sense,
 human beings are not even completely human, until they are civilized.
 
@@ -11273,21 +11273,21 @@ I SUPPOSE people will go on till the crack of doom saying
 that God is in His heaven and therefore all is right with the world.
 I could mention a number of other opinions that Browning expressed,
 in exactly the same method and degree.  I could point out that
-Browning said, in his gay and careless fashion:  `Which is the poison
+Browning said, in his gay and careless fashion:  ‘Which is the poison
 to poison her, prithee?' doubtless referring to Mrs. Browning.
 I could note that Browning observed, when brooding on his own
-immediate course of action:  `Or there's [[Satan]] . . . one might
+immediate course of action:  ‘Or there's [[Satan]] . . . one might
 venture pledge one's [[Soul|soul]] to him.'  It will occur to every
 reader of the poet that he observed on a celebrated occasion:
-`Lo! lieth flat and loveth Setebos', presumably prostrating himself
+‘Lo! lieth flat and loveth Setebos', presumably prostrating himself
 upon the carpet in Wimpole Street.  It will also be recalled
 that Browning, after confessing to various frauds and lies,
 virulently cursed the patron to whom he had confessed them, saying:
-`I only wish I dared burn down the [[house]] and spoil your sniggering.'
+‘I only wish I dared burn down the [[house]] and spoil your sniggering.'
 If these incidents in the life of the poet cause any surprise,
 it may be [[Well|well]] to explain that they are, in fact, incidents in
 the lives of his characters; and so is the much-quoted phrase
-about all being `right with the world'.  It is not a remark
+about all being ‘right with the world'.  It is not a remark
 made by Browning, but a remark made by Pippa in the dramatic
 work by Browning.  Even those who know that the remark occurs
 in a lyric do not always know that the lyric occurs in a drama.
@@ -11315,7 +11315,7 @@ SUPPONGO che la gente andrà avanti fino al giorno del giudizio a dire (come qua
 
 
 So far as that is concerned, the facts (as everybody knows, or ought
-to know) are these.  The idea of the play called `Pippa Passes'
+to know) are these.  The idea of the play called ‘Pippa Passes'
 is that a very poor girl, on her one solitary holiday, goes singing
 through the world in a state of perfect [[innocence]] and therefore
 of perfect gaiety.  In doing so she crosses various human groups
@@ -11345,7 +11345,7 @@ in the sense that there is no wickedness, [[Madness|madness]], or misery in it;
 his works possibly contain a larger and more varied assortment
 of blackguards, miscreants, maniacs, and miserably deluded people than
 those of any writer of his [[Time|time]].  If you had gone to Robert Browning
-with the definite and deliberate doctrine, `There is no pain
+with the definite and deliberate doctrine, ‘There is no pain
 or evil', he would certainly have classed you among the maniacs.
 He would very probably have written a long, ingenious, and partly
 incomprehensible poem about you in blank verse, but your portrait would
@@ -11380,11 +11380,11 @@ reproached Hamlet with being a hustler, a go-getter, a business man
 with plenty of pep and sand, an active and animated member of Rotary.
 But these busy business men are all acting on a philosophical
 principle drawn from Hamlet, and thoroughly typical of Hamlet:
-`There's nothing either good or bad, but thinking makes it so.'
+‘There's nothing either good or bad, but thinking makes it so.'
 That is the original germ of Christian Science, but also the original
 germ of Business Optimism.  I believe that those mystics,
 the members of the American business clubs, go about with large labels
-or buttons on their coats inscribed with the words `Trade is Good'.
+or buttons on their coats inscribed with the words ‘Trade is Good'.
 The savage who thinks he can hurt a man by writing his name in the dust
 could hardly be more superstitious.  But, anyhow, for good or evil,
 whether it be superstition or science, it marks a belief in the power
@@ -11690,7 +11690,7 @@ The most usual form of the process, as we all know, is to fix
 some person with a definite label, and then proceed to deduce
 everything from the label and nothing from the person.
 I have experienced this, in my own small way often enough.
-Somebody will write:  `Mr. Chesterton is a medievalist; and he is
+Somebody will write:  ‘Mr. Chesterton is a medievalist; and he is
 therefore quite justified (from his own benighted standpoint)
 in indulging as he does, in the sport of tearing out the teeth of Jews,
 burning hundreds of human beings alive, and perpetually seeking
@@ -11966,11 +11966,11 @@ cult of pleasure, of luxury, of liberty in [[Love|love]], and all the rest of it
 appears to me to be perfectly childish and childish in the literal
 sense that it is greedy without any grasp of consequences.
 I read novels and [[Poems|poems]] in which the seeker after pleasure simply
-goes on saying, over and over again:  `I must have Happiness.
+goes on saying, over and over again:  ‘I must have Happiness.
 I must have Life.  I must have Love.  Why do you reproach me because I
 cannot live without passing from ecstasy to ecstasy?'  This seems
 to me about as simple as the speech of a savage who should say:
-`I must have Gin.  I like Gin.  I like more and more Gin.
+‘I must have Gin.  I like Gin.  I like more and more Gin.
 Why will you not instantly provide me with a hundred bottles
 of Gin?'  It does not seem to require much intellectual
 strenuousness to say this.  It is, like other simple things,
@@ -12214,7 +12214,7 @@ person pretends to be at once too [[Innocent|innocent]] and too sophisticated.
 First he says that certain sins are so remote and repulsive
 that only a low-minded spy would suspect their existence.
 Then he goes on to say that these sins are not so very bad,
-even if they exist.  He shouts at the top of his voice `To the pure
+even if they exist.  He shouts at the top of his voice ‘To the pure
 in heart all things are pure'; and then goes on to explain that there
 is really no such thing as purity.  He calls the moralist a Puritan,
 as the most withering of all terms of abuse; which is very amusing
@@ -12399,10 +12399,10 @@ The current comment on all these things is not even pagan; it is
 the queerest sort of patchwork of pagan and purely Christian ideas.
 
 For instance, somebody is sure to say in the debate about Decorum:
-`Is not the human [[Body|body]] beautiful?'  To which somebody a little more
-sensible will be quite entitled to answer `No'. If he is a Scot,
+‘Is not the human [[Body|body]] beautiful?'  To which somebody a little more
+sensible will be quite entitled to answer ‘No'. If he is a Scot,
 and therefore a Socratic philosopher, he will be entitled to answer
-the question with a question, and say:  `Is the hippopotamus beautiful?'
+the question with a question, and say:  ‘Is the hippopotamus beautiful?'
 The hippopotamus is certainly natural, even if he looks unnatural.
 He is certainly naked, and accepts no regulations about bathing-tents
 or bathing-costumes. But the mere fact that he is natural does

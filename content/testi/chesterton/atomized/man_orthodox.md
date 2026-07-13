@@ -136,7 +136,7 @@ THE CLUB
 
 THE BIG THING AND THE SMALL
 
-`WORKING OUT THE BRUTE'
+‘WORKING OUT THE BRUTE'
 
 ORANGE PEEL AND THE FALL
 
@@ -154,7 +154,7 @@ SURPRISE
 
 THE PHILOSOPHY OF PUMPKINS
 
-`IN THE BEGINNING'
+‘IN THE BEGINNING'
 
 THE SAGE
 
@@ -162,7 +162,7 @@ INTIMATIONS
 
 THE LITTLE THINGS
 
-`MERE PARADOX'
+‘MERE PARADOX'
 
 THE HIPPOPOTAMUS AND THE CROCODILE
 
@@ -213,7 +213,7 @@ THE DEBATER
 I have always engaged, and always shall engage, in any sort
 of discussion on the first principles of human existence.
 
-                                                Daily News, July 7th, 1906
+Daily News, July 7th, 1906
 
 HUMOUR AND GRAVITY
 
@@ -245,11 +245,11 @@ further than this, for the element of the laughable is not
 only always potential, but sometimes inevitable and inherent.
 There is something about heroic postures and heroic words which
 renders very probable this reaction of derision and entertainment.
-Have the humorists ever considered what was the meaning of that `mocking'
+Have the humorists ever considered what was the meaning of that ‘mocking'
 to which so many martyrs and prophets are described as subject?
-The tyrants and the populace did not `mock' the martyr
+The tyrants and the populace did not ‘mock' the martyr
 because they had a natural malice against courage or purity.
-They `mocked' the [[Hero|hero]] or the [[Prophet|prophet]] for a very excellent reason:
+They ‘mocked' the [[Hero|hero]] or the [[Prophet|prophet]] for a very excellent reason:
 because the [[Hero|hero]] and the [[Prophet|prophet]] were really funny.
 
 This being so, we are driven to ask ourselves whether this
@@ -271,7 +271,7 @@ it rather hinders, the joy of life.  The two elements of joy
 and [[Humour|humour]], of exaltation and amusement, are commonly combined
 in one eudemonistic theory, in one worship of pleasure.
 But they are in [[Truth|truth]] vitally antagonistic.  If the hedonist asks,
-`Where is the glory that was Greece?  Where are the gods
+‘Where is the glory that was Greece?  Where are the gods
 and priests of delight?', it ought to be easy to answer him.
 They have vanished at the first whisper of modern humour.
 It was not the monks nor the saints that slew them;
@@ -300,7 +300,7 @@ that he was an unhappy man.  Let us rather pray for that appalling
 gravity which marks the happiest of all human creatures,
 lovers in ecstasy and children at play.
 
-                                         Black and White, April 18th, 1903
+Black and White, April 18th, 1903
 
 AN ATHEISTIC NIGHTMARE
 
@@ -330,7 +330,7 @@ To dream of such a world of unremitting and inevitable jest
 and luxury would be an atheistic nightmare from which a man
 might with a good deal of relief awake to be hanged.
 
-                                            The Speaker, August 10th, 1901
+The Speaker, August 10th, 1901
 
 THE ANATOMY OF THE JOKE
 
@@ -427,7 +427,7 @@ on this dim or fantastic tracing everywhere of the image of man;
 and I believe the key is somewhere in that mysterious oracle
 which identified it with the image of God.
 
-                                        Hearst's International, June, 1922
+Hearst's International, June, 1922
 
 PUNCH AND JUDY
 
@@ -504,7 +504,7 @@ other hearty pantomimes besides this of Punch and Judy.
 Thirdly, it will mean the disappearance of a great pleasure
 of the poor.
 
-                                            Daily News, October 26th, 1907
+Daily News, October 26th, 1907
 
 PUNCH AND JUDY, II
 
@@ -529,7 +529,7 @@ become a purely English survival.  It is very English, it is
 really popular, it is within the reach of comparatively poor men.
 Who can wonder that it is dying out?
 
-                                Illustrated London News, October 8th, 1921
+Illustrated London News, October 8th, 1921
 
 THE SAINT AND THE DRAGON
 
@@ -552,7 +552,7 @@ of simplicity and the curved scimitars of scepticism;
 nor has there been any other battle since the beginning
 of the world.
 
-                                                Daily News, July 8th, 1905
+Daily News, July 8th, 1905
 
 A UNIVERSAL RELEVANCE
 
@@ -571,7 +571,7 @@ housemaids and the French Revolution--all these things not
 only may have something to do with the Christian God, but must
 have something to do with Him if He really lives and reigns.
 
-                                           Daily News, December 12th, 1903
+Daily News, December 12th, 1903
 
 CREEDS AND COBWEBS
 
@@ -594,9 +594,9 @@ One does not use frigid and philosophical language.
 One does not, in short, define the dogma.  But let no one suppose
 that one is any the less dogmatic.  For the simple truth is that,
 instead of defining the dogma, we simply assume the dogma.
-A mother does not say to her child, `There is a personal God,
+A mother does not say to her child, ‘There is a personal God,
 the moral and intelligent Governor of the universe'.
-She says, `God will be pleased if you are good'.
+She says, ‘God will be pleased if you are good'.
 She is quite as dogmatic as a college of theologians.
 Nay, she is more dogmatic, for it is more dogmatic to assume
 that a dogma is true than to declare that a dogma is true.
@@ -623,7 +623,7 @@ that cob-web. Call the mystical nature of man a mere fancy;
 the time may come when nothing but that prevents you from
 shooting a nigger.
 
-                                           Daily News, February 13th, 1906
+Daily News, February 13th, 1906
 
 A PLEA FOR POPULAR PHILOSOPHY
 
@@ -673,7 +673,7 @@ That anything exists except myself is unproved and unprovable.
 (2) All sane men believe that this world not only exists, but matters.
 Every man believes there is a sort of obligation on us to interest
 ourselves in this vision or panorama of life.  He would think a man
-wrong who said, `I did not ask for this farce and it bores me.
+wrong who said, ‘I did not ask for this farce and it bores me.
 I am aware that an old lady is being murdered down stairs, but I am
 going to [[Sleep|sleep]].'  That there is any such duty to improve the things
 we did not make is a thing unproved and unprovable.
@@ -682,7 +682,7 @@ we did not make is a thing unproved and unprovable.
 which is continuous.  There is no inch of my brain matter the same
 as it was ten years ago.  But if I have saved a man in battle
 ten years ago, I am proud; if I have run away, I am ashamed.
-That there is such a paramount `I' is unproved and unprovable.
+That there is such a paramount ‘I' is unproved and unprovable.
 But it is more than unproved and unprovable; it is definitely
 disputed by many metaphysicians.
 
@@ -695,7 +695,7 @@ And if the youth of the future must not (at present) be taught
 any religion, it might at least be taught, clearly and firmly,
 the three or four sanities and certainties of human free thought.
 
-                                               Daily News, June 22nd, 1907
+Daily News, June 22nd, 1907
 
 RUBBISH
 
@@ -715,8 +715,8 @@ I mean a particular kind of vagueness and verbiage which must be cut
 away and cleared before a man can deal with his real adversaries.
 I do not call Socialism rubbish; I call it a very powerful,
 plausible and dangerous drug.  I do not call Imperialism rubbish;
-I call it poison.  But I do call `true Imperialism' rubbish and
-`true Socialism' rubbish, for they amount to nothing more than a mild
+I call it poison.  But I do call ‘true Imperialism' rubbish and
+‘true Socialism' rubbish, for they amount to nothing more than a mild
 Pharisaism about one's own marvellous merit in loving one's country
 or being sorry for the poor.  Nor would I treat as rubbish anything,
 how ever alien or fantastic, which had a positive significance
@@ -737,12 +737,12 @@ the states manlike pronouncements, the wide outlooks and the
 well-considered conclusions; I mean whole shelves of Hansard
 and whole stacks of the Higher Thought Review; all the leading
 articles that oscillate faintly between two unimportant opinions;
-all the public speakers who are `far from saying' this or `the
+all the public speakers who are ‘far from saying' this or ‘the
 last to say' that; all the servile compromises justified
-by `evolution'; all the things that `every thoughtful man'
-is supposed to think; all the things `modern ideas' are supposed
-somehow or other to involve; all the owlishly stupid `rebukes'
-and `severe comments' uttered by judges and statesmen in
+by ‘evolution'; all the things that ‘every thoughtful man'
+is supposed to think; all the things ‘modern ideas' are supposed
+somehow or other to involve; all the owlishly stupid ‘rebukes'
+and ‘severe comments' uttered by judges and statesmen in
 utterly artificial wrath against utterly insignificant things;
 all the streams of sentimentalism poured out when you turn the tap,
 in defence of the dirtiest convenience or the dullest hack politics;
@@ -756,7 +756,7 @@ But I must break off; because I have to carry all my modern problem
 novels and books of [[philosophy]] and high-class quarterly magazines
 across to the bonfire beyond the end of my [[Garden|garden]].
 
-                                               Daily News, June 24th, 1911
+Daily News, June 24th, 1911
 
 NO SUCH THING
 
@@ -839,7 +839,7 @@ proclaim it.  For indeed this is the nearest statement of the [[Truth|truth]].
 There is no [[Education|education]] apart from some particular kind of [[Education|education]].
 There is no [[Education|education]] that is not sectarian [[Education|education]].
 
-                               Illustrated [[London]] News, January 12th, 1907
+Illustrated [[London]] News, January 12th, 1907
 
 THE PROTECTION OF THE [[Bible|BIBLE]]
 
@@ -898,7 +898,7 @@ and atrociously unfair to the theologians and the believers.
 ... The [[Bible]] compromise is false both to the civic idea
 of liberty and to the Protestant idea of the [[Bible]].
 
-                                              Daily News, April 17th, 1909
+Daily News, April 17th, 1909
 
 SPIRITUALISM
 
@@ -948,7 +948,7 @@ or that it brings him in contact with the unknown.
 In fact, it is almost impossible to find any commendation
 of such a belief in spirits which will not serve as a
 condemnation in the mouth of those who believe in bad spirits.
-The very words `medium' or `control' will indeed affect many
+The very words ‘medium' or ‘control' will indeed affect many
 of us as immoral words--I might say indecent words.  They imply
 a spiritual surrender which is dubious even if the in be good,
 and shocking if it be bad.  Now it certainly is not [[Self|self]]- evident,
@@ -967,14 +967,14 @@ like his fathers before him.  Then at least he will not fall into
 a mere slush of likes and dislikes, and choose to fancy angels
 only with white wings because he prefers them to black ones.
 
-                                 Illustrated [[London]] News, March 15th, 1919
+Illustrated [[London]] News, March 15th, 1919
 
 THE ENGLISHMAN'S RELIGION
 
 ... that queer, beautiful, laughable thing, the English religious feeling,
 so hazy, so reverent, so illogical, so humane, so kindly, so vulgar.
 
-                                             The Bystander, June 1st, 1904
+The Bystander, June 1st, 1904
 
 THE ENGLISH WAY
 
@@ -1020,7 +1020,7 @@ doubtful in the twentieth century whether anything happened at all.
 ... There is something wholly English and quite unexplainable about
 this [[Innocent|innocent]] juggling; this calm and beneficent humbug.
 
-                                              Daily News, March 16th, 1905
+Daily News, March 16th, 1905
 
 HIGH OR LOW?
 
@@ -1081,7 +1081,7 @@ attempt to discuss what it does, without discussing what it is.
 Until this first question is settled, it is as childish to discuss
 a clergyman's vestments as to discuss his wall paper.
 
-                                  Illustrated [[London]] News, July 14th, 1906
+Illustrated [[London]] News, July 14th, 1906
 
 STRAIGHT THINKING
 
@@ -1119,7 +1119,7 @@ for using it, that is, for the discovery of further [[Truth|truth]] and
 for the profit of humanity.  Briefly, you can only find [[Truth|truth]]
 with [[logic]] if you have already found [[Truth|truth]] without it.
 
-                                            Daily News, February 2nd, 1905
+Daily News, February 2nd, 1905
 
 A MAN OF DISTINCTION
 
@@ -1166,7 +1166,7 @@ live in confusion twice confounded.  What is called the modern
 mind is soaked in associations and cannot understand distinctions,
 even when they are absolutely reasonable distinctions, The people
 stuffed with our journalese culture or popular science can only
-understand anything in relation to `all that sort of thing';
+understand anything in relation to ‘all that sort of thing';
 they cannot comprehend that something a little like it is really
 quite a different sort of thing.  ... They can understand,
 to take an instance, the general tendency to put more and more
@@ -1186,10 +1186,10 @@ if you explain that nationalizing the roads is not the same
 as nationalizing the land, you will generally find that they are
 merely puzzled and suppose it to be some sort of mystification--
 because it is quite clear.  They cannot make out whether you are in
-favour of `Socialism and all that sort of thing'.  Lord Balfour once
+favour of ‘Socialism and all that sort of thing'.  Lord Balfour once
 rent the murky sky of politics with one [[Lightning|lightning]]-flash of lucidity
 by giving the exact economic definition of the collectivist idea,
-and then adding, `That is Socialism and nothing else is Socialism'.
+and then adding, ‘That is Socialism and nothing else is Socialism'.
 It was probably regarded as one of his Fine-spun evasions.
 
 That is the intellectual virtue of which Lord Balfour really
@@ -1204,7 +1204,7 @@ and the unnatural as good as the natural and all the rest of it,
 it is well to keep high in the mind the great power of distinction;
 by which man becomes in the true sense distinguished.
 
-                                          G. K.'s Weekly, March 29th, 1930
+G. K.'s Weekly, March 29th, 1930
 
 ST PIUS X
 
@@ -1240,8 +1240,8 @@ alive and supreme in an official institution.
 As has been pointed out, with subtle power and all proper delicacy,
 in numberless liberal and large-minded journals, the great
 and good priest now dead had all the prejudices of a peasant.
-He had a prejudice to the effect that the mystical word `Yes'
-should be distinguished from the equally unfathomable expression `No'
+He had a prejudice to the effect that the mystical word ‘Yes'
+should be distinguished from the equally unfathomable expression ‘No'
 ... The Pope never pretended to have an extraordinary intellect;
 but he professed to be right--and he was.  All honest atheists,
 all honest Calvinists, all honest men who mean anything or believe
@@ -1254,7 +1254,7 @@ But there was something more in him that would not have been in
 the ordinary peasant.  For all this time he had wept for our tears;
 and he broke his heart for our bloodshed.
 
-                                Illustrated London News, August 29th, 1914
+Illustrated London News, August 29th, 1914
 
 THE BLACK LINES
 
@@ -1291,7 +1291,7 @@ or in iron only, or what not; they love the thing that isolates them.
 And so those who began by loving England came to love
 her frame, the sea.
 
-                                           Daily News, September 9th, 1905
+Daily News, September 9th, 1905
 
 THE COSMIC STEW-POT
 
@@ -1302,13 +1302,13 @@ is something high and spiritual about things being blended
 and absorbed into each other.  That all rivers should run
 into one river, that all vegetables should go into one pot--
 that is spoken of as the last and best fulfilment of being.
-Boys are to be `at one' with girls; ... all sects are to be `at one'
+Boys are to be ‘at one' with girls; ... all sects are to be ‘at one'
 in the New Theology; beasts fade into men and men fade into God;
 union in itself is a noble thing.  Now union in itself is not
 a noble thing.  Love is a noble thing; but love is not union.
 Nay, it is rather a vivid sense of separation and identity.
 Maudlin, inferior love poetry does, indeed, talk of lovers
-being `one [[Soul|soul]]' just as maudlin, inferior religious poetry
+being ‘one [[Soul|soul]]' just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
 When [[Dante]] meets [[Beatrice]], he feels his distance from her,
 not his proximity; and all the greatest saints have felt
@@ -1323,9 +1323,9 @@ division and variety are what is right with the world.
 There is nothing specially right about mere contact
 and coalescence.  ...
 
-In short, this vast, vague idea of [[unity]] is the one `reactionary'
+In short, this vast, vague idea of [[unity]] is the one ‘reactionary'
 thing in the world.  It is perhaps the only connection in which that
-foolish word `reactionary' can be used with significance and [[Truth|truth]].
+foolish word ‘reactionary' can be used with significance and [[Truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
 There is, of course, another kind of [[unity]] of which I do not speak here:
@@ -1340,22 +1340,22 @@ these are the things that make life worth living and the whole
 framework of things [[Well|well]] worthy to be sustained.  And the best
 thing remains; that this view, whether conscious or not, always has
 been and still is the view of the living and labouring millions.
-While a few prigs on platforms are talking about `oneness'
-and absorption in `The All', the folk that dwell in all the valleys
+While a few prigs on platforms are talking about ‘oneness'
+and absorption in ‘The All', the folk that dwell in all the valleys
 of this ancient earth are renewing the varieties for ever.  With them
 a woman is loved for being unmanly, and a man loved for being unwomanly.
 With them the church and the [[Home|home]] are both beautiful, because they
 are both different; with them fields are personal and flags are sacred;
 they are the virtue of existence, for they are not mankind but man.
 
-                                    T. P.'s Weekly, Christmas Number, 1910
+T. P.'s Weekly, Christmas Number, 1910
 
 THE SENTINEL
 
 The great conception which lay at the back of the Hebrew and
 Christian scriptures was the conception that to man had been given
 a certain law, to champion which was his sole and simple business.
-`He hath shown thee, O man, that which is good' is perhaps
+‘He hath shown thee, O man, that which is good' is perhaps
 of all earthly sayings the one which has the deepest ring;
 it seems, as it were, too true and simple to be comprehended.
 The stars in their courses might fight against his honour,
@@ -1365,20 +1365,20 @@ the whole cosmic army might seem suddenly to desert to the devil.
 But man had in his heart a secret which would outlast these things;
 he had his orders; he was the sentinel of God.
 
-                                           The Speaker, October 19th, 1901
+The Speaker, October 19th, 1901
 
 EVERYMAN
 
 The meanest man is immortal and the mightiest movement is temporal,
 not to say temporary.
 
-                                                Blackfriars, January, 1923
+Blackfriars, January, 1923
 
 DEATH OF AN ARTIST
 
 The first impulse of any serious person on hearing that
 G. F. Watts is dead must of necessity be an impulse to say,
-as we said of Gladstone, `All the great are dying'.
+as we said of Gladstone, ‘All the great are dying'.
 This is not mere journalese.  It is a genuine impression
 and in one sense it is true:  there are none left who carry
 themselves as these great men did.  But there is a danger
@@ -1450,9 +1450,9 @@ He was really angry with the evils of the modern world.
 .. . In all his moral and religious allegories,
 especially when they touch upon the diabolic side of things,
 there is apparent this sudden and sacred impatience.
-Under the picture of `Mammon', under the picture of `The Minotaur',
+Under the picture of ‘Mammon', under the picture of ‘The Minotaur',
 under the picture of anything evil in his gallery, seems printed
-in letters of [[Fire|fire]] `Shall this be endured for another moment?'
+in letters of [[Fire|fire]] ‘Shall this be endured for another moment?'
 And it was this innocent and startled wrath which was the note
 of the whole of Watts' age, the age of the Reform Bill.
 It was because the old political idealists had something of the child's
@@ -1460,7 +1460,7 @@ ignorance and horror of evil that they swept away so many abuses.
 Compare with some picture by Watts, which is full of a young
 and wide-eyed anger, some ultra-modern picture of an evil thing,
 some work of the new pessimistic atmosphere.  Take, for instance, Degas'
-brilliant picture called `Absinthe', which depicts two wrecks
+brilliant picture called ‘Absinthe', which depicts two wrecks
 of humanity soaking themselves in the maddening wormwood.
 The picture is steeped in devilish [[Resignation|resignation]].  We feel as we
 look at it that these two human creatures have drunk absinthe
@@ -1472,7 +1472,7 @@ But there is a deeper and stiller and more terrible thing
 and its name is irreligious [[Resignation|resignation]].  Because of Watts'
 intensely religious [[Nature|nature]] the painting of such a picture as this
 would be absolutely impossible to him.  If he had conceived
-and painted `Absinthe', there would have been something fierce
+and painted ‘Absinthe', there would have been something fierce
 and insistent about the picture.  Something fiendish and strained
 in the faces would have declared that the situation was unnatural.
 Something bitter and burning in the green colour of that shameful
@@ -1482,13 +1482,13 @@ there would be something in it that suggested that it was dark
 against some white and blazing background, a background of
 the astonishment of the angels and the dreadful wonder of God.
 
-                                               The Speaker, July 9th, 1904
+The Speaker, July 9th, 1904
 
 POETRY AND BELIEFS
 
 You never work so well for art's sake as when you are working
 for the sake of something else.  The greatest of the decadent
-art-philosophers, in that admirable essay `The [[Decay]] of Lying',
+art-philosophers, in that admirable essay ‘The [[Decay]] of Lying',
 described how art could take its disciple through the fires
 of [[Dante]]'s perdition and the lilies of [[Dante]]'s beatitude.
 But he forgot one point.  He forgot that [[Dante]] wrote that
@@ -1510,7 +1510,7 @@ and wrote down?  Where are the fruits of its [[Freedom|freedom]]?
 They are little indeed beside the fruit of that immemorial
 and [[Sublime|sublime]] bondage.
 
-                                               Daily News, June 25th, 1904
+Daily News, June 25th, 1904
 
 TWO GREAT TORIES
 
@@ -1525,7 +1525,7 @@ Moreover, they stood together on yet greater things.
 They were both representatives of that great intellectual
 and artistic reaction which followed the exhaustion
 of the Liberalism of the [[French Revolution]]; they were both
-what an able writer some days ago called `strong Illiberals'.
+what an able writer some days ago called ‘strong Illiberals'.
 They were both Tories; that is, pessimists.  Nothing strikes
 one so much about the attitude of both as the fact that
 a superb melancholy made it necessary for both to take
@@ -1561,7 +1561,7 @@ They have felt that a position was not necessarily reasonable
 merely because it was neither fish, flesh nor herring.
 They held that if a sane man had views at all, it was part
 of his sanity to see the views fully and see far into them.
-In short, they regarded the thing called `moderation'
+In short, they regarded the thing called ‘moderation'
 as one of the cloudiest manias of the asylum.  Of these men
 were Henley and Whistler.
 
@@ -1582,7 +1582,7 @@ exemplified in the case of Whistler and Henley themselves.
 The real relation between art and morals is merely this,
 that as both exist in an intelligible world, they exhibit
 something of the same general laws and phenomena.
-This is quite a different thing from the defence of the `anecdotal'
+This is quite a different thing from the defence of the ‘anecdotal'
 picture, which Whistler rightly ridiculed; to say that a picture
 is a good picture because it exhibits a man giving sixpence
 to a beggar is quite as absurd as to say that giving the sixpence
@@ -1691,7 +1691,7 @@ they may be called, for want of anything better, his heirs.
 As they look to us today with their melancholy eyes, they may be heirs;
 they are certainly orphans.
 
-                                              Daily News, August 1st, 1903
+Daily News, August 1st, 1903
 
 THE FALLACY OF FREEDOM
 
@@ -1714,7 +1714,7 @@ He is courageously selling himself into a splendid slavery.
 And, of course, in moral matters it is the same; there is
 no lawlessness, there is only a free choice between limitations.
 
-                                           Daily News, December 21st, 1905
+Daily News, December 21st, 1905
 
 LIBERTY
 
@@ -1728,7 +1728,7 @@ was quite simple; it was that they had some.  They had tasted,
 they had even drunk, the dreadful wine.  ...
 
 I am more and more convinced that we have to ask again the old question,
-`Is this a free country?'  It is still a very rich country;
+‘Is this a free country?'  It is still a very rich country;
 it will always, I think, be a great country; it is everywhere
 a humorous and in some patches a happy country; and anyhow, it is my
 country and that is enough for me.  But it is not a free country.
@@ -1739,14 +1739,14 @@ Loyalty is the heart of the commonwealth; but liberty is its lungs.
 You find out the necessity of liberty as you find out the necessity
 of air--by not having enough of it and gasping.
 
-                                              Daily News, March 18th, 1911
+Daily News, March 18th, 1911
 
 THE SERVILE STATE
 
 When you break the big laws, you do not get liberty;
 you do not even get anarchy.  You get the small laws.
 
-                                               Daily News, July 29th, 1905
+Daily News, July 29th, 1905
 
 THE SIN OF PROHIBITION
 
@@ -1825,7 +1825,7 @@ theological [[Truth|truth]], then let him explain the howling [[nightmare]]
 and hell of nonsense and anarchy that has actually followed
 in the track of the Prohibition Law.
 
-                                      True Temperance Quarterly, May, 1933
+True Temperance Quarterly, May, 1933
 
 AUTOMATIC EVIL
 
@@ -1866,7 +1866,7 @@ that it is tame, dull, direct, inevitable; a mere law in the members.
 It is automatic evil.  [[Pride]] makes a man a devil; but lust makes
 him a [[Machine|machine]].
 
-                                           Daily News, February 19th, 1910
+Daily News, February 19th, 1910
 
 THE TYRANNICAL SCEPTIC
 
@@ -1884,7 +1884,7 @@ There is one figure who has dominated [[history]] and been the oppressor
 of all religions, good and bad; all philosophies, true and false.
 He is the tyrannical sceptic--and his name is Pilate.
 
-                                          Black and White, March 7th, 1903
+Black and White, March 7th, 1903
 
 THE SHAPE OF THINGS TO COME
 
@@ -1895,7 +1895,7 @@ the like of which the world has never seen.  They need not
 reserve their [[Tears|tears]] for the victims of Bonner or Claverhouse.
 They may weep for themselves and for their children.
 
-                                           Daily News, February 18th, 1905
+Daily News, February 18th, 1905
 
 SKY SIGNS
 
@@ -1911,7 +1911,7 @@ cannot see even the sky-signs in the street that are the new sort of signs
 in heaven.  The [[Madness|madness]] of tomorrow is not in Moscow but [[Manhattan]]--
 but most of what was in Broadway is already in Piccadilly.
 
-                                           G. K.'s Weekly, June 19th, 1926
+G. K.'s Weekly, June 19th, 1926
 
 THE MONSTROSITY
 
@@ -1937,7 +1937,7 @@ Indeed, it is something worse than chaos; a warring polytheism.
 It is a conflict of incalculable autocracies, under any of which
 at the moment we may fall.
 
-                                              Daily News, March 11th, 1911
+Daily News, March 11th, 1911
 
 POLITICS AND DISCONTENT
 
@@ -1980,7 +1980,7 @@ the sacredness of simple things, the health and [[Humour|humour]] of the earth,
 which [[Alone|alone]] make a half-holiday even half a holiday or a slave
 even half a man.
 
-There is danger in that modern phrase `divine discontent'.
+There is danger in that modern phrase ‘divine discontent'.
 There is truth in it also, of course; but it is only truth
 of a special and secondary kind.  Much of the quarrel
 between Christianity and the world has been due to this fact;
@@ -2006,7 +2006,7 @@ have said, sound now and then suddenly, like a trumpet.
 But the voices of the saints and sages, recommending contentment,
 should sound unceasingly, like the sea.
 
-                                    T. P.'s Weekly, Christmas Number, 1910
+T. P.'s Weekly, Christmas Number, 1910
 
 AGAINST DIVINE DISCONTENT
 
@@ -2022,7 +2022,7 @@ the economic as well as the political status of the poor;
 and a fake idea that every man must raise his own economic status,
 even if he kills everybody else and ultimately himself as well.
 To both of these different things the more earnest Victorians
-gave the name of `divine discontent'.  But the mistake
+gave the name of ‘divine discontent'.  But the mistake
 of the earnest Victorians was that they tried to make a new
 [[morality]] without having studied any really good [[philosophy]].
 The thing became rhetoric and sentiment, a thing of words;
@@ -2069,7 +2069,7 @@ discontented than the poor.  They will explain that theirs is
 a divine discontent; and divine discontent is the very devil.
 You will observe that I use the term in a serious theological sense.
 
-                                    [[New York]] American, December 15th, 1932
+[[New York]] American, December 15th, 1932
 
 RELIGION AND REVOLUTION
 
@@ -2105,7 +2105,7 @@ And their minds still have to deal with two very terrible enemies of man,
 the one classed as a mere mood and the other as a cosmic conclusion;
 their names are Boredom and [[Despair]].
 
-                                        [[New York]] American, April 1st, 1933
+[[New York]] American, April 1st, 1933
 
 THE EVIL DAY
 
@@ -2154,12 +2154,12 @@ But at the particular point I speak of, both these waves were spent.
 great outlets--liberty and [[Faith|faith]]; the one was blocked by Bismarck with
 his [[Blood|blood]] and iron, and the other by Darwin with his [[Blood|blood]] and bones.
 The appearance of 1870 was that political materialism had broken
-political idealism for ever.  And the appearance of `The Descent of Man'
+political idealism for ever.  And the appearance of ‘The Descent of Man'
 was that it was really a descent of man--that man been kicked off
 his pedestal on to the floor.
 
 Whether for this cause or some other, the years of which I speak were
-years of yawning; they were like the hours of an afternoon `At [[Home]]'
+years of yawning; they were like the hours of an afternoon ‘At [[Home]]'
 in a rich [[house]] on a rainy day when nobody comes to call.
 Their [[Poems|poems]] and pictures showed a real genius in tracing the leaden
 tints and echoing the tuneless tones of an afternoon like that.
@@ -2198,10 +2198,10 @@ These are the only two men who have come triumphant out of that strange
 old atmosphere.  Each of them during the last few months has died
 by his own hand.
 
-                                               Daily News, June 26th, 1909
+Daily News, June 26th, 1909
 
-    [The two men were John Davidson, the poet, and St John Hankin, the
-                               dramatist.]
+[The two men were John Davidson, the poet, and St John Hankin, the
+dramatist.]
 
 WHAT WAS RATIONALISM?
 
@@ -2227,7 +2227,7 @@ called human [[Nature|nature]] has scratched like a cat in a cupboard.
 ... The Rationalist was pursued by enemies, blind but strong;
 the most terrible enemies a man has--the things he has forgotten.
 
-                                             New Witness, March 20th, 1913
+New Witness, March 20th, 1913
 
 FROM DICKENS TO GISSING
 
@@ -2263,12 +2263,12 @@ It was the sort of Cockney who was not only exuberant but solemnly
 and rhetorically exuberant; relishing romantic poetry and [[rolling]] words.
 My father told me of an aged clerk in an ancient eating-[[house]]
 who regularly every day said to the waiter in a deep booming voice,
-`Tell Mrs Bayfield that the steak was excellent, the potatoes
+‘Tell Mrs Bayfield that the steak was excellent, the potatoes
 done to a turn, in short, a dinner fit for an epicure'.  That is
 the voice of Micawber and Swiveller and many characters of Dickens;
 even of Fred Bayham and many characters of Thackeray.  And who will
 ever forget the schoolmaster who said to every lady he danced with,
-`Had I a heart for falsehood framed, I ne'er could injure you'?
+‘Had I a heart for falsehood framed, I ne'er could injure you'?
 It is the great gusto; it is life enjoyed like the steak of Mrs Bayfield;
 existence as something much too joyful to be taken frivolously;
 enjoyment as something to be prolonged with a prodigious gravity;
@@ -2278,7 +2278,7 @@ which these men quoted, a richness that has never been recovered
 or imitated.  Many moderns have learnt from Yeats that our
 souls are [[Love|love]] and a continual farewell; but not many can say
 farewell to Miss Wackles with the great and virile gesture:
-`My boat is on the shore and my barque is on the sea.'
+‘My boat is on the shore and my barque is on the sea.'
 Men naturally made game of the Byronic youth; but remember that
 he enjoyed woe more than the modems enjoy enjoyment.
 
@@ -2325,9 +2325,9 @@ Those waggish W's suggest only a slight laxity and, according to
 the lateness of the hour, perhaps indistinctness in the edges
 of the spoken word.  They have nothing of the snigger or the whine.
 Sir John Falstaff was a gentleman by birth; but I can almost
-imagine even Falstaff saying with his thick accent, `What,
+imagine even Falstaff saying with his thick accent, ‘What,
 because you are wirchuous shall there be no more cakes and ale?'
-But I cannot imagine [[Falstaff]] saying, `Shall there be no more
+But I cannot imagine [[Falstaff]] saying, ‘Shall there be no more
 cikes and ile?'. ...
 
 I believe the explanation of the change is that which I have given;
@@ -2352,7 +2352,7 @@ refers to fundamentals, travels and inns and simple jokes.
 It is like life; it is in that sense like eternal life,
 for it is still alive.
 
-                                        G. K.'s Weekly, October 17th, 1925
+G. K.'s Weekly, October 17th, 1925
 
 THE CORNER
 
@@ -2365,7 +2365,7 @@ at once, its combination of all the inconsistent virtues, that will
 always remind us of a home.  But it is no house for us any longer.
 We have gone down a road; and we have turned a corner.
 
-                                                Daily News, May 14th, 1910
+Daily News, May 14th, 1910
 
 CHAOS
 
@@ -2374,7 +2374,7 @@ but never before was it so doubtful which was the storm and which
 the shipwreck, and which the ship and which the ship's crew;
 and what we are rescuing from what.
 
-                          New York Herald Tribune Magazine, July 5th, 1931
+New York Herald Tribune Magazine, July 5th, 1931
 
 THE VENGEANCE OF VICTORIA
 
@@ -2420,14 +2420,14 @@ and it has gone no where and got nothing.  We have all heard
 of a famous occasion when Queen Victoria was not amused.
 But I fancy that even she might be amused now.
 
-                                        G. K.'s Weekly, October 15th, 1932
+G. K.'s Weekly, October 15th, 1932
 
 PRIVACY
 
 Privacy is like property in this:  that while a few people ought
 to have less of it, most people ought to have more of it.
 
-                                            New Witness, October 7th, 1921
+New Witness, October 7th, 1921
 
 NORTHCLIFFE
 
@@ -2487,7 +2487,7 @@ among shadows, fighting in a shadow pantomime.  Publicity consists,
 not of things, but of their vast shadows thrown upon a wall.
 And to make them so vast, the light must be held very low down.
 
-                                      G. K.'s Weekly, September 17th, 1927
+G. K.'s Weekly, September 17th, 1927
 
 THE VISION OF VULGARITY, I
 
@@ -2529,7 +2529,7 @@ out a few suggestions.
 
 In so far as I can get near to its essence, it consists largely
 of two elements, which I should describe as Facility and Familiarity.
-The first means that a man does, as the phrase goes, `gush'; that is,
+The first means that a man does, as the phrase goes, ‘gush'; that is,
 that his [[Self|self]]-expression flows without effort, selection or control.
 It does not come from him like picked or pointed words, passing through
 an articulate organ; it simply streams from him like perspiration.
@@ -2541,7 +2541,7 @@ for his own [[Self|self]]-satisfaction carries with it a sort of huge cloud
 and illusion of applause.
 
 And the second element is Familiarity which, if understood,
-would be called Profanity.  Horace spoke of the `profane vulgar';
+would be called Profanity.  Horace spoke of the ‘profane vulgar';
 and it is true that this familiarity is the loss of holy fear
 and a sin against the mystical side of man.  In practice
 it means handling things confidently and contemptuously,
@@ -2562,7 +2562,7 @@ he loves, or in a real saint writing of the sin he hates.
 Both say the right thing because they would rather say
 nothing at all.
 
-                                        New York American, July 22nd, 1933
+New York American, July 22nd, 1933
 
 THE VISION OF VULGARITY, II
 
@@ -2582,24 +2582,24 @@ So far as I remember, it was merely the burning out of a candle and,
 when it was extinguished, someone saying those lines of Laurence Binyon
 which are worthy to pass into an impersonal and immortal rite.
 
-  They shall grow not old, as we that are left grow old:
-  Age shall not weary them, nor the years condemn.
-  At the going down of the sun and in the morning
-       We will remember them.
+They shall grow not old, as we that are left grow old:
+Age shall not weary them, nor the years condemn.
+At the going down of the sun and in the morning
+We will remember them.
 
 That was all, and that was a good thing to remember.
 
 Now I open the large Sunday paper of the Express group
 and the first thing that knocks me in the eye is a huge
 headline about the Toc H ceremony as recently conducted.
-It is an announcement in gigantic letters `D.S.O. Sobs at Ceremony'
+It is an announcement in gigantic letters ‘D.S.O. Sobs at Ceremony'
 and immediately underneath in slightly smaller letters,
-`Prince of Wales Lights the Lamp'.  The journalist does
+‘Prince of Wales Lights the Lamp'.  The journalist does
 print the words of Mr Binyon's poem; but as he prints them
 in pros; he is presumably unaware that they are verse.
 I do not expect him to be aware that they are poetry.
 He takes his place with that celebrated journalist who wrote,
-`The right hon.  gentleman concluded by saying that kind hearts
+‘The right hon.  gentleman concluded by saying that kind hearts
 were in his opinion better than coronets and simple [[Faith|faith]] greatly
 prefer able to Norman [[Blood|blood]]'.  Only in the older case there was
 more excuse; for I cannot but think the poetry was more prosaic.
@@ -2607,12 +2607,12 @@ Tennyson could be Virgilian like Laurence Binyon; but I should
 hardly select that passage to prove it.
 
 Now if it be asked what I dislike in the domination of this
-type of Trust journalism, I answer that I dislike `D.S.O. Sobs'
-and the man who does not dislike `D.S.O. Sobs' and the domination
-of the man who is capable of writing `D.S.O. Sobs' and the type
+type of Trust journalism, I answer that I dislike ‘D.S.O. Sobs'
+and the man who does not dislike ‘D.S.O. Sobs' and the domination
+of the man who is capable of writing ‘D.S.O. Sobs' and the type
 of society that is supposed to be impressed favourably
-with `D.S.O. Sobs' and the whole hideous idea of human pathos
-which insults you and me with the supposition that `D.S.O. Sobs'
+with ‘D.S.O. Sobs' and the whole hideous idea of human pathos
+which insults you and me with the supposition that ‘D.S.O. Sobs'
 could conceivably move us to anything but mirth or murder.
 And if the journalist does not understand it, all the more do I
 protest against the power and influence of the man who does not
@@ -2646,7 +2646,7 @@ had the honour of producing this fine flower of progress.
 And this flower will overrun our garden like a weed,
 when that culture has fully come into its own.
 
-                                         G. K.'s Weekly, January 1st, 1927
+G. K.'s Weekly, January 1st, 1927
 
 THE HUMBLEST ANIMAL
 
@@ -2667,7 +2667,7 @@ fantastic modesty is the highest of the attributes of man.
 Perhaps, amid the arrogance of oysters and the self-sufficiency
 of snails, man is the only humble animal.
 
-                                              Daily News, March 21st, 1906
+Daily News, March 21st, 1906
 
 PUTTING THE CLOCK BACK
 
@@ -2685,13 +2685,13 @@ Taking a bath certainly involves the removal of many civilized
 externals and an invitation to the nakedness of savages.
 But it is the only way to get clean.
 
-                                   Illustrated London News, July 8th, 1911
+Illustrated London News, July 8th, 1911
 
 THE NUMBER YOU FIRST THOUGHT OF
 
 They that go about the world asking riddles and doing puzzles
 (those enemies of the human race) used to have one particular game which,
-after ramifications of arithmetic, ended with `taking away the number
+after ramifications of arithmetic, ended with ‘taking away the number
 you first thought of'.  It is a silly game and, like many other
 silly games, has been played by great empires and on a large scale.
 That touch of over-civilization which is always the first touch [sic]
@@ -2752,7 +2752,7 @@ the modern world, which is first and last a topsy-turvy world.
 That is why the few mild and rational people are accused
 of standing on their heads.
 
-                              Illustrated [[London]] News, February 24th, 1912
+Illustrated [[London]] News, February 24th, 1912
 
 THE LIVING PAST
 
@@ -2796,9 +2796,9 @@ But if we look back at our fathers, as they gather in the gate of [[history]],
 we see it like the gate of Eden described by one of them in verse
 which we cannot imitate:
 
-`With dreadful faces thronged and fiery arms'.
+‘With dreadful faces thronged and fiery arms'.
 
-                                            Daily News, December 7th, 1907
+Daily News, December 7th, 1907
 
 THE UNCHANGING VISION
 
@@ -2817,8 +2817,8 @@ the crude materials of everything.  That brown earth beneath you
 is only raw umber, which you are destined to turn into cooked umber.
 That blue sea which you think spherical and perfect,
 is only the element and beginning of something beyond the sea.
-How gratifying it is to reflect that the word `ultramarine'
-literally means `something beyond the sea'!  That green grass
+How gratifying it is to reflect that the word ‘ultramarine'
+literally means ‘something beyond the sea'!  That green grass
 is only the material out of which you may make elves and
 foresters and the figure of Robin Hood.  That blood-red sunset
 which you unwisely call perfect is nothing but a lake of crimson
@@ -2826,7 +2826,7 @@ which you unwisely call perfect is nothing but a lake of crimson
 fish up the flaming images of purple seraphims and scarlet devils.
 Heaven gave us this splendid chaos of colours and materials.
 Heaven gave us a few instinctive rules of practice and caution
-corresponding to `do not put the brush in the mouth'.
+corresponding to ‘do not put the brush in the mouth'.
 And Heaven gave us a vision.
 
 Now, to make the real world in any way like our vision of it
@@ -2860,7 +2860,7 @@ jump about.  We should now use this colour, now that colour, of our cosmic
 paint-box to produce the proper effect.  But our vision would not alter.
 We should always have in our minds the picture that we wanted.
 Thousands of years ago a great poet put the perfect vision of [[Mercy|mercy]].
-`The lion shall lie down with the lamb.'  It will take us a long time
+‘The lion shall lie down with the lamb.'  It will take us a long time
 to teach him to do it.
 
 But in our own time another and quite different thing has happened.
@@ -2880,7 +2880,7 @@ the progress, always difficult, becomes impossible.
 If there is progress in ideals, there cannot be progress
 in anything else.
 
-                                          Daily News, September 15th, 1906
+Daily News, September 15th, 1906
 
 THE WHITE HOUSE
 
@@ -2928,7 +2928,7 @@ the doctor.  Conservatives commonly denounce a revolution as premature;
 it is Irish, but true, to say that a revolution must often come
 prematurely or come too late.
 
-                                             Daily News, August 24th, 1907
+Daily News, August 24th, 1907
 
 THE ICONOCLAST
 
@@ -2936,7 +2936,7 @@ In the whole range of human occupations is it possible
 to imagine a poorer thing to be than an iconoclast?
 It is the lowest of all the unskilled trades.
 
-                                              Daily News, April 26th, 1905
+Daily News, April 26th, 1905
 
 THE RETURN OF THE ANGELS
 
@@ -3062,7 +3062,7 @@ justification of the Fourth Gospel or a rap on the table.
 We have returned to it because, by the rejection of rationalism,
 the world becomes suddenly rational.
 
-                                              Daily News, March 14th, 1903
+Daily News, March 14th, 1903
 
 THE NECESSITY OF LUXURY
 
@@ -3087,14 +3087,14 @@ for the relief of distress until we have sufficient humility
 and sense of humour to leave off talking about what people need
 and bestow more attention on what they want.
 
-                                               The Open Review, July, 1906
+The Open Review, July, 1906
 
 THE CLUB
 
 Mankind is not a tribe of animals to which we owe compassion.
 Mankind is a club to which we owe our subscription.
 
-                                              Daily News, April 10th, 1906
+Daily News, April 10th, 1906
 
 THE BIG THING AND THE SMALL
 
@@ -3104,7 +3104,7 @@ in seeing the big things big and the small things small.
 A man can have this sense of pro portion even if he is wrong.
 ... Here is one case.  Human society is the big and certain thing;
 pre-human evolution is the small and fanciful thing.
-To talk of `humanity's' place in evolution is to be foolish
+To talk of ‘humanity's' place in evolution is to be foolish
 and topsy-turvy. We do not know there was any evolution
 in the sense that we know that there is humanity.
 Some men hold that they are the children of apes; some that they
@@ -3138,16 +3138,16 @@ the small; that Humanity is the huge [[house]] that I live in,
 while Evolution is the small but interesting animal which has
 quite recently asked to be domesticated in it.
 
-                                          Daily News, September 19th, 1908
+Daily News, September 19th, 1908
 
-`WORKING OUT THE BRUTE'
+‘WORKING OUT THE BRUTE'
 
 The worst result of popular evolutionism has been this.
 It has substituted the Beast for the Devil.  It has made us think
-that our enemy is what they call our `lower [[Nature|nature]]', which means our
+that our enemy is what they call our ‘lower [[Nature|nature]]', which means our
 mere lusts and appetites, things entirely [[Innocent|innocent]] in themselves.
 The most typical moderns have joined in this.  Tennyson, for instance,
-spoke of moral improvement as `moving upward, working out the brute'.
+spoke of moral improvement as ‘moving upward, working out the brute'.
 But was he right?  Why should we work out the brute?
 I no more desire, as such, to work out the brute from myself than
 to work out the brute from between the shafts of a hansom cab.
@@ -3168,7 +3168,7 @@ You may move upwards, working out the brute, and not work
 them out in the least.  Nay, you may work them in.
 The less beastly you grow, the more bad you may grow.
 
-                                            Daily News, February 3rd, 1906
+Daily News, February 3rd, 1906
 
 ORANGE PEEL AND THE FALL
 
@@ -3182,7 +3182,7 @@ Even if we do not admit the Fall of Man, we must admit his continuous
 state of the staggers.  The apple that Eve ate was an orange;
 and its peel has ever since strewed the ways of the world.
 
-                                             The Bystander, May 11th, 1904
+The Bystander, May 11th, 1904
 
 ORIGINAL SIN
 
@@ -3196,7 +3196,7 @@ everything in a man is not trying to make what we call a good man.
 Or this way:  that virtue is a creditable thing and not merely,
 like the greenness of a cabbage, an admirable thing.
 
-                                           Daily News, September 2nd, 1905
+Daily News, September 2nd, 1905
 
 THE OUTLINE OF THE FALL
 
@@ -3227,8 +3227,8 @@ when it was turned into an image; there is room for any amount
 of hope and imagination about what it will look like when it is
 really mended and made into the perfect statue we have never seen.
 But it has the two fixed points, that man was uplifted at the first
-and fell; and to answer it by saying `Where is the [[Garden]] of Eden?'
-is like answering a philosophical Buddhist by saying `When
+and fell; and to answer it by saying ‘Where is the [[Garden]] of Eden?'
+is like answering a philosophical Buddhist by saying ‘When
 were you last a donkey?'
 
 The Fall is a view of life.  It is not only the only enlightening
@@ -3247,20 +3247,20 @@ on the fact that no social progress really seems to leave self behind;
 on the fact that the first and not the last men of any school
 or revolution are generally the best and purest, as William Penn
 was better than a Quaker millionaire or Washington better than
-an American oil magnate; on that proverb which says `The price
+an American oil magnate; on that proverb which says ‘The price
 of liberty is eternal vigilance', which is only what the theologians
 say of every other virtue and is itself only a way of stating
 the [[Truth|truth]] of [[Original Sin|original sin]]; on those extremes of good and evil by
 which man exceeds all the [[Animals|animals]] by the measure of heaven and hell;
 on that [[Sublime|sublime]] sense of loss that is in the very sound of all
 great poetry, and nowhere more than in the poetry of pagans
-and sceptics--`We look before and after and pine for what is not';
+and sceptics--‘We look before and after and pine for what is not';
 which cries against all prigs and progressives out of the very
 depths and abysses of the broken heart of man that happiness
 is not only a hope but also in some strange manner a memory;
 and that we are all kings in exile.
 
-                                      G. K.'s Weekly, September 25th, 1926
+G. K.'s Weekly, September 25th, 1926
 
 NEUROSIS
 
@@ -3270,7 +3270,7 @@ The morbid thing is to conceal your sins and let them eat
 your heart out, which is the happy state of most people
 in highly civilized communities.
 
-                                            Daily News, January 18th, 1908
+Daily News, January 18th, 1908
 
 THE BATTLE
 
@@ -3278,7 +3278,7 @@ The true secret and hope of human life is something much more dark
 and beautiful than it would be if suffering were a mark of sin.
 A mere scheme of rewards and punishments would be some thing much meaner
 and more mechanical than this exasperating and inspiring life of ours.
-An automatic scheme of `Karma' or `reaping what we sow' would be
+An automatic scheme of ‘Karma' or ‘reaping what we sow' would be
 just as gross and material as sowing beans or reaping barley.
 It might satisfy mechanicians or monists or theosophists or
 cautious financiers, but not brave men.  It is no paradox to say
@@ -3293,7 +3293,7 @@ In the book of Job is foreshadowed that better doctrine, full of
 a dark chivalry, that he that bore the worst that man can suffer
 was the best that bore the form of man.
 
-                                          The Speaker, September 9th, 1905
+The Speaker, September 9th, 1905
 
 THE DECORATION
 
@@ -3308,14 +3308,14 @@ that suffering may be a strange honour and not a vulgar punishment;
 that the King may be conferring a decoration when he pins the man
 on the cross, as much as when he pins the cross on the man.
 
-                              Illustrated London News, February 10th, 1906
+Illustrated London News, February 10th, 1906
 
 SURPRISE
 
 Of one thing I am certain, that the age needs, first and foremost
 to be startled; to be taught the nature of wonder.
 
-                                      Black and White, February 14th, 1903
+Black and White, February 14th, 1903
 
 THE PHILOSOPHY OF PUMPKINS
 
@@ -3330,11 +3330,11 @@ goes on being a pumpkin?  If you do not, you cannot possibly tell
 whether a pumpkin could turn into a coach or couldn't. That is all.
 
 All the other scientific expressions you are in the habit of
-using at breakfast are words and winds.  You say, `It is a law
+using at breakfast are words and winds.  You say, ‘It is a law
 of [[Nature|nature]] that pumpkins should remain pumpkins'.  That only means
 that pumpkins generally do remain pumpkins, which is obvious;
-it does not say why.  You say, `Experience is against it'.
-That only means, `I have known many pumpkins intimately and none
+it does not say why.  You say, ‘Experience is against it'.
+That only means, ‘I have known many pumpkins intimately and none
 of them turned into coaches'.  ...
 
 What [[Christianity]] says is merely this--that this repetition
@@ -3352,9 +3352,9 @@ If you do not think it extraordinary that a pumpkin is always
 a pumpkin, think again.  You have not yet even begun [[philosophy]].
 You have not even seen a pumpkin.
 
-                                           Daily News, September 2nd, 1905
+Daily News, September 2nd, 1905
 
-`IN THE BEGINNING'
+‘IN THE BEGINNING'
 
 What is right with the world is the world.  In fact, nearly every thing
 else is wrong with it.  This is that great truth in the tremendous
@@ -3408,7 +3408,7 @@ the world is to be alive; one is always in danger of one's life.
 But anyone who shrinks from this is a traitor to the great scheme
 and experiment of being.
 
-                                    T. P.'s Weekly, Christmas Number, 1910
+T. P.'s Weekly, Christmas Number, 1910
 
 THE SAGE
 
@@ -3456,9 +3456,9 @@ to this class in a pre-eminent degree was Walt Whitman.
 Critics fuss themselves for ever about whether he was a poet
 or a prose writer.  As a matter of fact, he was neither
 a poet nor a prose writer; he was a sayer of great things.
-He excelled in a sort of primeval epigram.  `I do not give
+He excelled in a sort of primeval epigram.  ‘I do not give
 lectures or a little [[Charity|charity]]; when I give, I give myself.'
-`Do we find life so well provided for and think that death is not
+‘Do we find life so well provided for and think that death is not
 equally well provided for?'  These have all the characteristics
 of the logia on which were founded the larger faiths of mankind.
 And Whitman would have much preferred to have shouted them
@@ -3485,7 +3485,7 @@ For him the pity of God was so positive as to be a definite
 passion like thirst; it was a fierce tenderness; he was never
 fired of saying that his God was a consuming fire.
 
-                                          Daily News, September 23rd, 1905
+Daily News, September 23rd, 1905
 
 INTIMATIONS
 
@@ -3508,9 +3508,9 @@ it has spread over the whole world, full of too many wonders to
 be wondered at.
 
 Here enters the psychological educationist with his subconsciousness
-and his first impressions, to remark shrewdly, `This is because
+and his first impressions, to remark shrewdly, ‘This is because
 somebody in your [[Childhood|childhood]] gave you a wooden [[Horse|horse]] or painted it
-white for you'.  To which I reply respectfully, `Yes, fool, yes.
+white for you'.  To which I reply respectfully, ‘Yes, fool, yes.
 Admirable and astonishing idiot, quite so.  But has it ever
 occurred to you to ask why a pot of paint and a piece of wood
 should blaze with divine beauty to anybody at any time; or why they
@@ -3518,7 +3518,7 @@ should do it to a child of four any more than to a man of forty?
 When you have retired for a few years to reflect on the point,
 we will resume this conversation.'
 
-                                          The New Witness, June 17th, 1921
+The New Witness, June 17th, 1921
 
 THE LITTLE THINGS
 
@@ -3535,19 +3535,19 @@ himself to a point, without parts or magnitude, so that to him
 the grass is really a forest and the grasshopper a dragon.
 Little things please great minds.
 
-                                          The Speaker, December 15th, 1900
+The Speaker, December 15th, 1900
 
-`MERE [[Paradox|PARADOX]]'
+‘MERE [[Paradox|PARADOX]]'
 
 The simplest and commonest of all the causes which lead to the charge of
-`mere paradox' being slung about as it is, is one fundamental assumption.
+‘mere paradox' being slung about as it is, is one fundamental assumption.
 Everybody takes it for granted that universal and ordinary arrangements,
 historic institutions, daily habits are reasonable.  They are good,
 they are sensible, they are holy and splendid often enough, but they
 are not reasonable.  They are themselves paradoxes; paradox is built
 into the very foundations of human affairs.
 
-                                      Black and White, February 14th, 1903
+Black and White, February 14th, 1903
 
 THE HIPPOPOTAMUS AND THE CROCODILE
 
@@ -3581,13 +3581,13 @@ They typify that cosmic trait which anyone may see in the
 Zoological Gardens, the folly of the Lord which is wisdom.
 And in connection with one of them, God is made to utter a splendid
 satire upon the prim and orderly piety of the vulgar optimist.
-`Wilt thou play with him as with a bird?  Wilt thou bind him
+‘Wilt thou play with him as with a bird?  Wilt thou bind him
 for thy maidens?'  That is the main message of the book of Job.
 What ever this cosmic [[Monster|monster]] may be, a good animal or a
 bad animal, he is at least a wild animal and not a tame animal.
 It is a wild world and not a tame world.
 
-                                          The Speaker, September 9th, 1905
+The Speaker, September 9th, 1905
 
 CHANGE AND [[Decay|DECAY]]
 
@@ -3596,7 +3596,7 @@ a dismal fall from the old talk about right and wrong.
 Our fathers said that a nation had sinned and suffered, like a man.
 We say it has decayed, like a [[cheese]].
 
-                                  Illustrated [[London]] News, July 10th, 1920
+Illustrated [[London]] News, July 10th, 1920
 
 THE ENEMIES OF JOY
 
@@ -3660,7 +3660,7 @@ popular if it is expanded into the awning of a universal pavilion,
 placarded with advertisements of pills or pictures of mixed bathing.
 I have seen even the gun excused if it is a big enough gun
 manufactured by a big enough firm; and the axe counted [[Innocent|innocent]]
-if it is what we call `an axe to grind'.  Yet all this paradise
+if it is what we call ‘an axe to grind'.  Yet all this paradise
 of perfect happiness fails to lift my heart or reawaken the faintest
 hint of that first romantic interest in Robinson Crusoe.
 And the reason is that this sort of sweeping generalization,
@@ -3692,7 +3692,7 @@ They are leaving it further and further behind, the more they
 accumulate more luxuries than they can enjoy or combine more
 pleasures than they can distinguish.
 
-                                        G. K.'s Weekly, October 11th, 1930
+G. K.'s Weekly, October 11th, 1930
 
 AUTOBIOGRAPHY
 
@@ -3705,13 +3705,13 @@ I should say that my literary life has lasted from a time
 when men were losing happiness by despair to a time when they
 are losing it by presumption.
 
-                                                Blackfriars, January, `923
+Blackfriars, January, ‘923
 
 LIFE AND LIBERTY
 
-    (This next passage was obviously not written by Chesterton. It is
-    presumably a write-up of an interview with him but is worth including
-    here for its intrinsic interest.)
+(This next passage was obviously not written by Chesterton. It is
+presumably a write-up of an interview with him but is worth including
+here for its intrinsic interest.)
 
 I was brought up in a fairly typical middle-class English family.
 My father had been prosperous in business and he had felt that something
@@ -3737,7 +3737,7 @@ This marvel fascinated me, as it does today.
 And I said to myself--or I might have said to myself--[[Well|well]], is not
 that enough?  And Echo might have answered:
 
-`Yes, it is enough.  If you see it.  And if you will always see it.'
+‘Yes, it is enough.  If you see it.  And if you will always see it.'
 Rather a large mouthful for Echo!  But as a matter of fact,
 that is what Echo said.
 
@@ -3747,7 +3747,7 @@ as I say, thinking led up to it.
 I got hold of Leaves of Grass by Watt Whitman, I called it then
 a revelation.  It put in black and white the things I had always known.
 The glory and magic of God's universe--the shows of night and day
-and `in the midst, God's beautiful right hand'.
+and ‘in the midst, God's beautiful right hand'.
 
 [[Well]], very soon I found that those who imitated Whitman's irregular
 lines missed out the [[Magic|magic]] of the universe and were definitely
@@ -3840,7 +3840,7 @@ did not protest.
 These things endure:  life and liberty and the boundless [[Magic|magic]]
 of [[Night|night]] and day--and what comes after.
 
-                                              Daily [[Sketch]], May 14th, 1931
+Daily [[Sketch]], May 14th, 1931
 
 THE LESSON
 
@@ -3848,7 +3848,7 @@ Pessimism is a thing which is learnt from books, as sorrow
 is a thing learnt from life.  Sorrow can never be pessimistic,
 for it is founded upon the value of things.
 
-                                               Daily News, June 13th, 1903
+Daily News, June 13th, 1903
 
 THE TRUE CRITIC
 
@@ -3884,26 +3884,26 @@ with the greatest suspicion his own limitations and rejections.
 His praise will almost certainly be sound; his blame should always
 remain to his own mind a little dubious.
 
-                                                The Speaker, May 3rd, 1902
+The Speaker, May 3rd, 1902
 
 FAIRY TALES
 
 Fairy tales are the only true accounts that man has ever given
-of his destiny.  `Jack the Giant-Killer' is the embodiment
+of his destiny.  ‘Jack the Giant-Killer' is the embodiment
 of the first of the three great paradoxes by which men live.
 It is the paradox of Courage:  the paradox which says,
-`You must defy the thing that is terrifying; unless you
-are frightened, you are not brave.'  `Cinderella' is the
+‘You must defy the thing that is terrifying; unless you
+are frightened, you are not brave.'  ‘Cinderella' is the
 embodiment of the second of the paradoxes by which men live:
-the paradox of Humility which says `Look for the best in the thing,
+the paradox of Humility which says ‘Look for the best in the thing,
 ignorant of its merit; he that abases himself shall be exalted'.
-And `Beauty and the Beast' is the embodiment of the third
+And ‘Beauty and the Beast' is the embodiment of the third
 of the paradoxes by which men live:  the paradox of Faith--
 the absolutely necessary and wildly unreasonable maxim which says
 to every mother with a child or to every patriot with a country,
-`You must [[Love|love]] the thing first and make it lovable after wards.'
+‘You must [[Love|love]] the thing first and make it lovable after wards.'
 
-                                           The World, September 27th, 1904
+The World, September 27th, 1904
 
 THE ETHICS OF FAIRYLAND
 
@@ -3941,7 +3941,7 @@ from the entire absence of the [[Supernatural|supernatural]] in fairy tales.
 There is no miraculous department there, nothing conceived
 as outrageous or exceptional, nothing that recalls crystal-gazing
 and planchette.  There is no trace or hint of that modern
-`spiritual world' which implies that this world is not spiritual.
+‘spiritual world' which implies that this world is not spiritual.
 In the fairy tales, portents are orderly and inevitable;
 they are part of the very texture of natural life.
 In a place so strange as this earth it is as natural to meet
@@ -3976,7 +3976,7 @@ such thing as a dustbin in the house of God.
 This is one very characteristic moral of fairy tales,
 the idea of the indestructibility of an essence or an act.
 Another fully as common and even more essential is the great idea
-which lies at the heart of the story of `[[Beauty]] and the Beast'
+which lies at the heart of the story of ‘[[Beauty]] and the Beast'
 and a hundred kindred tales; the idea that by loving a thing
 we make it beautiful.  The fairy tale warns us to be on our
 guard against the disguises of things and to regard every ugly
@@ -3998,7 +3998,7 @@ the most savage stories with which we have to deal in anthropology.
 For the fairy tale is only the [[history]] of man himself, at once
 the weakest and the strongest of the creatures.
 
-                                           The Speaker, October 12th, 1901
+The Speaker, October 12th, 1901
 
 DIVINE IMMANENCE
 
@@ -4035,7 +4035,7 @@ its gifts received, intensely and with [[Humility|humility]] and it is
 possible to look at one of them steadily and confidently until,
 with a great cry, it gives up its god.
 
-                                              Daily News, March 24th, 1903
+Daily News, March 24th, 1903
 
 A LOCAL HABITATION
 
@@ -4050,20 +4050,20 @@ We might almost say that all poetry is a description of it.
 Even when you have only natural religion, you will still
 have [[Supernatural|supernatural]] poetry.  And it will be poetic because it
 is particular, not because it is general.  The new priest
-may proclaim, `The sea is God, the land is God and the sky
+may proclaim, ‘The sea is God, the land is God and the sky
 is God; but yet there are not three Gods, but one God'.
 But even if the old priest be silenced, the old poet will
-always answer, `God is in a [[Cave|cave]]; God is in a stable; God is
+always answer, ‘God is in a [[Cave|cave]]; God is in a stable; God is
 disguised and hidden.  I [[Alone|alone]] know where he is; he is herding
 the cattle of Admetus, he is pouring out the wine of Cana.'
-The new republic may make the philosophical declaration, `We hold
+The new republic may make the philosophical declaration, ‘We hold
 these truths to be self-evident, that all trees are evolved
 equal and endowed with the dignity of creative evolution.'
 But if in the silence that follows we overhear the poor nurse
 or the peasant mother telling fairy tales to the children,
-she will always be saying, `And in the seventh [[Garden|garden]] beyond
+she will always be saying, ‘And in the seventh [[Garden|garden]] beyond
 the seventh gate was the tree with the golden apples';
-or `They sailed and sailed until they came to an island, and on
+or ‘They sailed and sailed until they came to an island, and on
 the island was a meadow, and in the meadow the tree of life'...
 
 Now if this particularism always stubbornly recurs
@@ -4096,7 +4096,7 @@ actually narrows as we draw nearer to it, till we find that
 the trailing meteor is something like a light in a window
 or a candle in a room.
 
-                                              New Witness, July 15th, 1921
+New Witness, July 15th, 1921
 
 SACRAMENT OR MAGIC
 
@@ -4105,7 +4105,7 @@ they always employ the material.  When the purpose is good,
 it is bread and wine; when the purpose is evil, it is eye
 of newt and toe of frog.
 
-                             Illustrated London News, September 22nd, 1906
+Illustrated London News, September 22nd, 1906
 
 THE CONCRETE AND THE ABSTRACT
 
@@ -4119,7 +4119,7 @@ It is the green tree that we cannot understand; it is the green
 tree which we fear; it is the green tree which we worship.
 Then, because there are so many green trees, so many men,
 so many elephants, so many butterflies, so many daisies,
-so many animalculae, we coin a general term `Life'. And then
+so many animalculae, we coin a general term ‘Life'. And then
 the mystic comes and says that a green tree symbolizes life.
 It is not so.  Life symbolizes a green tree.  Just in so far
 as we get into the abstract, we get away from the reality,
@@ -4136,7 +4136,7 @@ is the difference between the country and the town.
 God made the concrete, but man made the abstract.
 A truthful man is a miracle, but the [[Truth|truth]] is a commonplace.
 
-                                               The Speaker, May 31st, 1902
+The Speaker, May 31st, 1902
 
 THE LIGHT AND THE HEAT
 
@@ -4152,7 +4152,7 @@ that black is white because white is black.  We fancy that the
 frightful universal negatives at which they have at last arrived,
 are really little more than the final mental collapse of men
 trying always to find an abstraction big enough for all things.
-`I have said what I understood not, things too great for me
+‘I have said what I understood not, things too great for me
 that I know not.  I will put my hand upon my mouth.'
 Job was a wise man.  ... Buddhism stands for a simplification
 of the mind and a reliance on the most indestructible ideas;
@@ -4171,7 +4171,7 @@ the craving for a father, the hunger that is as old as the hills.
 It turns the whole cry of a lost universe into the cry
 of a lost child.
 
-                                          The Speaker, November 17th, 1900
+The Speaker, November 17th, 1900
 
 A NOTE ON COMPARATIVE RELIGION
 
@@ -4249,7 +4249,7 @@ it is equally possible to be a pessimist and hate the universe.
 But there is one Church exactly as there is one universe;
 and no wise man will wander about looking for another.
 
-                                                  Blackfriars, March, 1923
+Blackfriars, March, 1923
 
 ASSIMILATION AND REJECTION
 
@@ -4264,7 +4264,7 @@ A Church should have drainage as well as ventilation.
 It should drive bad smells out as well as let good smells in;
 it should not only cast out devils, but keep them out.
 
-                                              Daily News, March 19th, 1910
+Daily News, March 19th, 1910
 
 THE WINTER FEAST
 
@@ -4338,7 +4338,7 @@ society has learned to talk of it as an artificial thing.
 Then we shall draw on the driving force of many thousand years,
 and call up a real humanitarianism out of the depths of humanity.
 
-                                         G. K.'s Weekly, January 2nd, 1936
+G. K.'s Weekly, January 2nd, 1936
 
 THE THREE GIFTS
 
@@ -4349,7 +4349,7 @@ worshipped like a God; and that He should die like a man.
 And these things would sound like Eastern flattery, were it
 not for the third.
 
-                                       G. K.'s Weekly, December 12th, 1931
+G. K.'s Weekly, December 12th, 1931
 
 THE SPRING IN THE SOUL
 
@@ -4380,7 +4380,7 @@ But whatever mysteries were accepted by the ancient pagans have
 become mere mystifications in the minds of the modern Pantheists.
 I imagine no man's mind was ever in so complete a muddle as
 the mind of the great poet Shelley when he wrote the famous line,
-`If [[Winter|winter]] comes, can [[spring]] be far behind?'
+‘If [[Winter|winter]] comes, can [[spring]] be far behind?'
 
 To begin with, the more chilly are in the habit of reminding the poet
 that when [[Winter]] comes, [[spring|Spring]] is at least a quarter of the year behind.
@@ -4388,7 +4388,7 @@ But it will also strike the natural man (as distinct from
 that most unnatural man whom we call the [[Nature|nature]]-worshipper)
 that it would be just as easy to turn the phrase from optimism to
 pessimism by taking another section of the year.  It would be quite
-as sensible to say, `If summer comes, can autumn be far behind?'
+as sensible to say, ‘If summer comes, can autumn be far behind?'
 And it is probably within the range of the intelligence,
 even of a pantheist surveying the whole universe, to foresee
 that Winter will not only come, but will certainly come again.
@@ -4404,10 +4404,10 @@ of Shelley with some equally beautiful lines in one of Mr Belloc's
 sonnets will measure the difference made by a philosophy that happens
 to make sense.
 
-  For as you pass, the natural life of things
-  Proclaims the Resurrection; as you pass,
-  Remembered summer shines along the grass
-  And something in me of the immortal sings.
+For as you pass, the natural life of things
+Proclaims the Resurrection; as you pass,
+Remembered summer shines along the grass
+And something in me of the immortal sings.
 
 Here the poet does not talk as if next spring would last for ever;
 on the contrary, he talks of last summer that is already dead.
@@ -4454,14 +4454,14 @@ turning back the whole trend and movement of the earth.
 A Revolution is a mild thing compared with a Resurrection;
 and nothing less can raise us from the dead.
 
-                                          G. K.'s Weekly, March 26th, 1932
+G. K.'s Weekly, March 26th, 1932
 
 THE PERSON OF JESUS CHRIST
 
 Chesterton had been invited to reply to an article in
 The Hibbert Journal, which had challenged our Lord's divinity
 and attributed human fallibility and error to His teaching.
-He begins by saying that he intends to speak of `the
+He begins by saying that he intends to speak of ‘the
 actual Jesus as He appears in the New Testament; not as He
 appears to a believer, but as He appears to anybody;
 as He appeared to me when I was an agnostic; as He appeared
@@ -4472,7 +4472,7 @@ that l am speaking for the sake of argument of a hypothetical
 human Jesus in the Syrian documents and not of that divine
 personality in whom I believe.'
 
-`Now, the thing that strikes me most about [the critic] is that he is
+‘Now, the thing that strikes me most about [the critic] is that he is
 wrong on the facts.  He is especially wrong on the primary fact
 of what sort of person the Jesus of the Gospels appears to be.
 The whole of [his] contention is ultimately this; that when we look,
@@ -4510,7 +4510,7 @@ of riddles and outrageous demands, by no means so workable
 and everyday an adviser as many heathens and many Jesuits.
 But if I put myself hypothetically into the other attitude,
 the case becomes curiously arresting and even thrilling.
-If I say `Suppose the Divine did really walk and talk upon the earth,
+If I say ‘Suppose the Divine did really walk and talk upon the earth,
 what should we be likely to think of it?'--then the foundations
 of my mind are moved.  So far as I can form any conjecture,
 I think we should see in such a being exactly the perplexities
@@ -4522,7 +4522,7 @@ because, looking down on life like a map, he would see
 a connection between things which to us are disconnected.
 I think, how ever, that he would always ring true to our own
 sense of right, but ring (so to speak) too loud and too clear.
-He would be too good but never too bad for us:  `Be ye perfect.'
+He would be too good but never too bad for us:  ‘Be ye perfect.'
 I think would be, in the [[Nature|nature]] of things, some tragic collision
 between him and the humanity he had created, culminating in
 something that would be at once a crime and an expiation.
@@ -4540,7 +4540,7 @@ Between those who think it is [[A Dream|a dream]] and those who do not,
 is to be waged the great war of our future in which all these
 frivolities will be forgotten.
 
-                                               Hibbert Journal, July, 1909
+Hibbert Journal, July, 1909
 
 THE DIVINE [[Comedy|COMEDY]]
 
@@ -4550,7 +4550,7 @@ with a scenery of bottomless infinities and appalling abstractions,
 there is always going forward one ancient mystery play in which there
 are only two characters.
 
-                                           The Speaker, February 9th, 1901
+The Speaker, February 9th, 1901
 
 THE DRAGON
 
@@ -4567,12 +4567,12 @@ of life's narrow lists and may our wearied swords have struck fiercely
 on the painted crests of Imposture and Injustice when the Dark Herald
 comes to lead us to the pavilion of the [[King]].
 
-                                           The Debater, March--April, 1891
+The Debater, March--April, 1891
 
 
 
 
-<span class="atom-split" data-atom="story_32_the_divine_comedy" data-title="Man Orthodox — The Divine Comedy" data-chapter="Story 32 The Divine Comedy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_divine_comedy" data-title="Man Orthodox — The Divine Comedy" data-chapter="The Divine Comedy" data-kind="story"></span>
 
 
 THE DIVINE COMEDY
@@ -4582,7 +4582,7 @@ THE DEBATER
 I have always engaged, and always shall engage, in any sort
 of discussion on the first principles of human existence.
 
-                                                Daily News, July 7th, 1906
+Daily News, July 7th, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4594,11 +4594,11 @@ IL DISPUTATORE
 Mi sono sempre impegnato, e sempre mi impegnerò, in ogni sorta
 di discussione sui primi princìpi dell'esistenza umana.
 
-                                                Daily News, 7 luglio 1906
+Daily News, 7 luglio 1906
 
 
 
-<span class="atom-split" data-atom="story_33_humour_and_gravity" data-title="Man Orthodox — Humour And Gravity" data-chapter="Story 33 Humour And Gravity" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_humour_and_gravity" data-title="Man Orthodox — Humour And Gravity" data-chapter="Humour And Gravity" data-kind="story"></span>
 
 
 HUMOUR AND GRAVITY
@@ -4631,11 +4631,11 @@ further than this, for the element of the laughable is not
 only always potential, but sometimes inevitable and inherent.
 There is something about heroic postures and heroic words which
 renders very probable this reaction of derision and entertainment.
-Have the humorists ever considered what was the meaning of that `mocking'
+Have the humorists ever considered what was the meaning of that ‘mocking'
 to which so many martyrs and prophets are described as subject?
-The tyrants and the populace did not `mock' the martyr
+The tyrants and the populace did not ‘mock' the martyr
 because they had a natural malice against courage or purity.
-They `mocked' the [[Hero|hero]] or the [[Prophet|prophet]] for a very excellent reason:
+They ‘mocked' the [[Hero|hero]] or the [[Prophet|prophet]] for a very excellent reason:
 because the [[Hero|hero]] and the [[Prophet|prophet]] were really funny.
 
 This being so, we are driven to ask ourselves whether this
@@ -4657,7 +4657,7 @@ it rather hinders, the joy of life.  The two elements of joy
 and [[Humour|humour]], of exaltation and amusement, are commonly combined
 in one eudemonistic theory, in one worship of pleasure.
 But they are in [[Truth|truth]] vitally antagonistic.  If the hedonist asks,
-`Where is the glory that was Greece?  Where are the gods
+‘Where is the glory that was Greece?  Where are the gods
 and priests of delight?', it ought to be easy to answer him.
 They have vanished at the first whisper of modern humour.
 It was not the monks nor the saints that slew them;
@@ -4686,12 +4686,12 @@ that he was an unhappy man.  Let us rather pray for that appalling
 gravity which marks the happiest of all human creatures,
 lovers in ecstasy and children at play.
 
-                                         Black and White, April 18th, 1903
+Black and White, April 18th, 1903
 
 
 
 
-<span class="atom-split" data-atom="story_34_an_atheistic_nightmare" data-title="Man Orthodox — An Atheistic Nightmare" data-chapter="Story 34 An Atheistic Nightmare" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_an_atheistic_nightmare" data-title="Man Orthodox — An Atheistic Nightmare" data-chapter="An Atheistic Nightmare" data-kind="story"></span>
 
 
 AN ATHEISTIC NIGHTMARE
@@ -4722,7 +4722,7 @@ To dream of such a world of unremitting and inevitable jest
 and luxury would be an atheistic nightmare from which a man
 might with a good deal of relief awake to be hanged.
 
-                                            The Speaker, August 10th, 1901
+The Speaker, August 10th, 1901
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4731,11 +4731,11 @@ UN INCUBO ATEO
 
 In tutto il mondo delle cose concepibili non v'è nulla di così spietatamente disperante quanto un'infinità di pura arguzia, un tirannico incubo di facezie. Tutti gli umoristi davvero popolari, come Sterne e Dickens, hanno in realtà dovuto il loro posto accanto al focolare non al fatto di essere umoristici, ma al fatto di essere seri, al fatto che tutte le loro battute erano bolle sulla superficie di un grande mare di simpatia. Senza questa certezza, l'anima umana si sente più intirizzita e più senza patria nel mondo del puro umorismo che non nel circolo polare artico. Pochi tra noi non preferirebbero ritrovarsi nel più profondo degli inferni di Dante, strozzati nel ghiaccio in mezzo ai traditori, piuttosto che ritrovarsi in un mondo come quello eternamente rinnovato dai nuovi giornali comici, con i loro uomini che non si curano di nulla se non delle ballerine e le loro ballerine che non si curano di nulla se non del denaro. Nel cerchio dei traditori, tra i neri e schiaccianti ricordi dello spergiuro e della sopraffazione, potrebbe essere possibile trascorrere mille anni con la speranza che un ricordo dolce e generoso si ridesti per un istante nel cuore di uno dei dannati. Ma il mondo della pura leggerezza è un mondo a sé; i suoi abitanti esangui e senza Dio non hanno mai avuto momenti seri, e per un uomo dotato di una qualunque umana capacità di gioia i loro volti appaiono tutti tanto strani e crudeli quanto quelli di invasori venuti da qualche altro pianeta. Sognare un simile mondo di facezia e di lusso incessanti e ineluttabili sarebbe un incubo ateo dal quale un uomo potrebbe risvegliarsi, con non poco sollievo, per andare a farsi impiccare.
 
-                                            The Speaker, 10 agosto 1901
+The Speaker, 10 agosto 1901
 
 
 
-<span class="atom-split" data-atom="story_35_the_anatomy_of_the_joke" data-title="Man Orthodox — The Anatomy Of The Joke" data-chapter="Story 35 The Anatomy Of The Joke" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_anatomy_of_the_joke" data-title="Man Orthodox — The Anatomy Of The Joke" data-chapter="The Anatomy Of The Joke" data-kind="story"></span>
 
 
 THE ANATOMY OF THE JOKE
@@ -4833,7 +4833,7 @@ on this dim or fantastic tracing everywhere of the image of man;
 and I believe the key is somewhere in that mysterious oracle
 which identified it with the image of God.
 
-                                        Hearst's International, June, 1922
+Hearst's International, June, 1922
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4864,11 +4864,11 @@ Riteniamo grottesca la protuberanza della proboscide di un elefante perché è a
 
 Quanto più questa oscura materia viene considerata di per sé, tanto più, credo, troveremo questo standard umano, quello di una figura eretta, che la domina come una statua. Tutto dipende da questa fioca o fantastica traccia, ovunque disseminata, dell'immagine dell'uomo; e credo che la chiave stia in qualche punto di quel misterioso oracolo che la identificò con l'immagine di Dio.
 
-                                        Hearst's International, giugno 1922
+Hearst's International, giugno 1922
 
 
 
-<span class="atom-split" data-atom="story_36_punch_and_judy" data-title="Man Orthodox — Punch And Judy" data-chapter="Story 36 Punch And Judy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_punch_and_judy" data-title="Man Orthodox — Punch And Judy" data-chapter="Punch And Judy" data-kind="story"></span>
 
 
 PUNCH AND JUDY
@@ -4946,7 +4946,7 @@ other hearty pantomimes besides this of Punch and Judy.
 Thirdly, it will mean the disappearance of a great pleasure
 of the poor.
 
-                                            Daily News, October 26th, 1907
+Daily News, October 26th, 1907
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5026,11 +5026,11 @@ altre gioviali pantomime oltre a questa di Punch e Judy.
 Terzo, significherà la scomparsa di un grande piacere
 dei poveri.
 
-                                            Daily News, 26 ottobre 1907
+Daily News, 26 ottobre 1907
 
 
 
-<span class="atom-split" data-atom="story_37_punch_and_judy_ii" data-title="Man Orthodox — Punch And Judy, Ii" data-chapter="Story 37 Punch And Judy Ii" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_punch_and_judy_ii" data-title="Man Orthodox — Punch And Judy, II" data-chapter="Punch And Judy II" data-kind="story"></span>
 
 
 PUNCH AND JUDY, II
@@ -5056,7 +5056,7 @@ become a purely English survival.  It is very English, it is
 really popular, it is within the reach of comparatively poor men.
 Who can wonder that it is dying out?
 
-                                Illustrated London News, October 8th, 1921
+Illustrated London News, October 8th, 1921
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5084,11 +5084,11 @@ diventato una sopravvivenza puramente inglese. È molto inglese, è
 davvero popolare, è alla portata di uomini relativamente poveri.
 Chi può stupirsi che stia scomparendo?
 
-                                Illustrated London News, 8 ottobre 1921
+Illustrated London News, 8 ottobre 1921
 
 
 
-<span class="atom-split" data-atom="story_38_the_saint_and_the_dragon" data-title="Man Orthodox — The Saint And The Dragon" data-chapter="Story 38 The Saint And The Dragon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_saint_and_the_dragon" data-title="Man Orthodox — The Saint And The Dragon" data-chapter="The Saint And The Dragon" data-kind="story"></span>
 
 
 THE SAINT AND THE DRAGON
@@ -5112,7 +5112,7 @@ of simplicity and the curved scimitars of scepticism;
 nor has there been any other battle since the beginning
 of the world.
 
-                                                Daily News, July 8th, 1905
+Daily News, July 8th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5138,11 +5138,11 @@ della semplicità e le curve scimitarre dello scetticismo;
 né vi è stata altra battaglia dal principio
 del mondo.
 
-                                                Daily News, 8 luglio 1905
+Daily News, 8 luglio 1905
 
 
 
-<span class="atom-split" data-atom="story_39_a_universal_relevance" data-title="Man Orthodox — A Universal Relevance" data-chapter="Story 39 A Universal Relevance" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_a_universal_relevance" data-title="Man Orthodox — A Universal Relevance" data-chapter="A Universal Relevance" data-kind="story"></span>
 
 
 A UNIVERSAL RELEVANCE
@@ -5162,7 +5162,7 @@ housemaids and the French Revolution--all these things not
 only may have something to do with the Christian God, but must
 have something to do with Him if He really lives and reigns.
 
-                                           Daily News, December 12th, 1903
+Daily News, December 12th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5184,11 +5184,11 @@ domestiche e la Rivoluzione francese — tutte queste cose non
 solo possono avere qualcosa a che fare col Dio cristiano, ma devono
 avere qualcosa a che fare con Lui, se davvero Egli vive e regna.
 
-                                           Daily News, 12 dicembre 1903
+Daily News, 12 dicembre 1903
 
 
 
-<span class="atom-split" data-atom="story_40_creeds_and_cobwebs" data-title="Man Orthodox — Creeds And Cobwebs" data-chapter="Story 40 Creeds And Cobwebs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_creeds_and_cobwebs" data-title="Man Orthodox — Creeds And Cobwebs" data-chapter="Creeds And Cobwebs" data-kind="story"></span>
 
 
 CREEDS AND COBWEBS
@@ -5212,9 +5212,9 @@ One does not use frigid and philosophical language.
 One does not, in short, define the dogma.  But let no one suppose
 that one is any the less dogmatic.  For the simple truth is that,
 instead of defining the dogma, we simply assume the dogma.
-A mother does not say to her child, `There is a personal God,
+A mother does not say to her child, ‘There is a personal God,
 the moral and intelligent Governor of the universe'.
-She says, `God will be pleased if you are good'.
+She says, ‘God will be pleased if you are good'.
 She is quite as dogmatic as a college of theologians.
 Nay, she is more dogmatic, for it is more dogmatic to assume
 that a dogma is true than to declare that a dogma is true.
@@ -5241,7 +5241,7 @@ that cob-web. Call the mystical nature of man a mere fancy;
 the time may come when nothing but that prevents you from
 shooting a nigger.
 
-                                           Daily News, February 13th, 1906
+Daily News, February 13th, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5296,11 +5296,11 @@ quella ragnatela. Chiamate la natura mistica dell'uomo una mera fantasia;
 può venire il momento in cui null'altro che essa v'impedirà di
 sparare a un negro.
 
-                                           Daily News, 13 febbraio 1906
+Daily News, 13 febbraio 1906
 
 
 
-<span class="atom-split" data-atom="story_41_a_plea_for_popular_philosophy" data-title="Man Orthodox — A Plea For Popular Philosophy" data-chapter="Story 41 A Plea For Popular Philosophy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_a_plea_for_popular_philosophy" data-title="Man Orthodox — A Plea For Popular Philosophy" data-chapter="A Plea For Popular Philosophy" data-kind="story"></span>
 
 
 A PLEA FOR POPULAR PHILOSOPHY
@@ -5351,7 +5351,7 @@ That anything exists except myself is unproved and unprovable.
 (2) All sane men believe that this world not only exists, but matters.
 Every man believes there is a sort of obligation on us to interest
 ourselves in this vision or panorama of life.  He would think a man
-wrong who said, `I did not ask for this farce and it bores me.
+wrong who said, ‘I did not ask for this farce and it bores me.
 I am aware that an old lady is being murdered down stairs, but I am
 going to [[Sleep|sleep]].'  That there is any such duty to improve the things
 we did not make is a thing unproved and unprovable.
@@ -5360,7 +5360,7 @@ we did not make is a thing unproved and unprovable.
 which is continuous.  There is no inch of my brain matter the same
 as it was ten years ago.  But if I have saved a man in battle
 ten years ago, I am proud; if I have run away, I am ashamed.
-That there is such a paramount `I' is unproved and unprovable.
+That there is such a paramount ‘I' is unproved and unprovable.
 But it is more than unproved and unprovable; it is definitely
 disputed by many metaphysicians.
 
@@ -5373,7 +5373,7 @@ And if the youth of the future must not (at present) be taught
 any religion, it might at least be taught, clearly and firmly,
 the three or four sanities and certainties of human free thought.
 
-                                               Daily News, June 22nd, 1907
+Daily News, June 22nd, 1907
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5448,11 +5448,11 @@ E se la gioventù del futuro non deve (per ora) essere istruita
 in alcuna religione, potrebbe almeno esserle insegnato, chiaramente e fermamente,
 le tre o quattro sanità e certezze del libero pensiero umano.
 
-                                               Daily News, 22 giugno 1907
+Daily News, 22 giugno 1907
 
 
 
-<span class="atom-split" data-atom="story_42_rubbish" data-title="Man Orthodox — Rubbish" data-chapter="Story 42 Rubbish" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_rubbish" data-title="Man Orthodox — Rubbish" data-chapter="Rubbish" data-kind="story"></span>
 
 
 RUBBISH
@@ -5473,8 +5473,8 @@ I mean a particular kind of vagueness and verbiage which must be cut
 away and cleared before a man can deal with his real adversaries.
 I do not call Socialism rubbish; I call it a very powerful,
 plausible and dangerous drug.  I do not call Imperialism rubbish;
-I call it poison.  But I do call `true Imperialism' rubbish and
-`true Socialism' rubbish, for they amount to nothing more than a mild
+I call it poison.  But I do call ‘true Imperialism' rubbish and
+‘true Socialism' rubbish, for they amount to nothing more than a mild
 Pharisaism about one's own marvellous merit in loving one's country
 or being sorry for the poor.  Nor would I treat as rubbish anything,
 how ever alien or fantastic, which had a positive significance
@@ -5495,12 +5495,12 @@ the states manlike pronouncements, the wide outlooks and the
 well-considered conclusions; I mean whole shelves of Hansard
 and whole stacks of the Higher Thought Review; all the leading
 articles that oscillate faintly between two unimportant opinions;
-all the public speakers who are `far from saying' this or `the
+all the public speakers who are ‘far from saying' this or ‘the
 last to say' that; all the servile compromises justified
-by `evolution'; all the things that `every thoughtful man'
-is supposed to think; all the things `modern ideas' are supposed
-somehow or other to involve; all the owlishly stupid `rebukes'
-and `severe comments' uttered by judges and statesmen in
+by ‘evolution'; all the things that ‘every thoughtful man'
+is supposed to think; all the things ‘modern ideas' are supposed
+somehow or other to involve; all the owlishly stupid ‘rebukes'
+and ‘severe comments' uttered by judges and statesmen in
 utterly artificial wrath against utterly insignificant things;
 all the streams of sentimentalism poured out when you turn the tap,
 in defence of the dirtiest convenience or the dullest hack politics;
@@ -5514,7 +5514,7 @@ But I must break off; because I have to carry all my modern problem
 novels and books of [[philosophy]] and high-class quarterly magazines
 across to the bonfire beyond the end of my [[Garden|garden]].
 
-                                               Daily News, June 24th, 1911
+Daily News, June 24th, 1911
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5578,11 +5578,11 @@ Ma devo interrompermi; perché mi tocca portare tutti i miei moderni romanzi
 a tesi e libri di [[philosophy|filosofia]] e riviste trimestrali di alto rango
 fin laggiù al falò oltre il limite del mio [[Garden|giardino]].
 
-                                               Daily News, 24 giugno 1911
+Daily News, 24 giugno 1911
 
 
 
-<span class="atom-split" data-atom="story_43_no_such_thing" data-title="Man Orthodox — No Such Thing" data-chapter="Story 43 No Such Thing" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_no_such_thing" data-title="Man Orthodox — No Such Thing" data-chapter="No Such Thing" data-kind="story"></span>
 
 
 NO SUCH THING
@@ -5666,7 +5666,7 @@ proclaim it.  For indeed this is the nearest statement of the [[Truth|truth]].
 There is no [[Education|education]] apart from some particular kind of [[Education|education]].
 There is no [[Education|education]] that is not sectarian [[Education|education]].
 
-                               Illustrated [[London]] News, January 12th, 1907
+Illustrated [[London]] News, January 12th, 1907
 
 THE PROTECTION OF THE [[Bible|BIBLE]]
 
@@ -5725,7 +5725,7 @@ and atrociously unfair to the theologians and the believers.
 ... The [[Bible]] compromise is false both to the civic idea
 of liberty and to the Protestant idea of the [[Bible]].
 
-                                              Daily News, April 17th, 1909
+Daily News, April 17th, 1909
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5811,7 +5811,7 @@ proclamerò.  Perché questa è in verità la formulazione più vicina alla [[Tr
 Non esiste [[Education|educazione]] al di fuori di qualche particolare tipo di [[Education|educazione]].
 Non esiste [[Education|educazione]] che non sia [[Education|educazione]] settaria.
 
-                               Illustrated [[London]] News, 12 gennaio 1907
+Illustrated [[London]] News, 12 gennaio 1907
 
 LA PROTEZIONE DELLA [[Bible|BIBBIA]]
 
@@ -5870,11 +5870,11 @@ e atrocemente ingiusto verso i teologi e i credenti.
 ... Il compromesso sulla [[Bible|Bibbia]] è falso sia rispetto all'idea civica
 di libertà sia rispetto all'idea protestante della [[Bible|Bibbia]].
 
-                                              Daily News, 17 aprile 1909
+Daily News, 17 aprile 1909
 
 
 
-<span class="atom-split" data-atom="story_44_spiritualism" data-title="Man Orthodox — Spiritualism" data-chapter="Story 44 Spiritualism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_spiritualism" data-title="Man Orthodox — Spiritualism" data-chapter="Spiritualism" data-kind="story"></span>
 
 
 SPIRITUALISM
@@ -5925,7 +5925,7 @@ or that it brings him in contact with the unknown.
 In fact, it is almost impossible to find any commendation
 of such a belief in spirits which will not serve as a
 condemnation in the mouth of those who believe in bad spirits.
-The very words `medium' or `control' will indeed affect many
+The very words ‘medium' or ‘control' will indeed affect many
 of us as immoral words--I might say indecent words.  They imply
 a spiritual surrender which is dubious even if the in be good,
 and shocking if it be bad.  Now it certainly is not [[Self|self]]- evident,
@@ -5944,7 +5944,7 @@ like his fathers before him.  Then at least he will not fall into
 a mere slush of likes and dislikes, and choose to fancy angels
 only with white wings because he prefers them to black ones.
 
-                                 Illustrated [[London]] News, March 15th, 1919
+Illustrated [[London]] News, March 15th, 1919
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5997,7 +5997,7 @@ o che lo mette in contatto con l'ignoto.
 In effetti è quasi impossibile trovare una lode
 di una simile credenza negli spiriti che non serva da
 condanna in bocca a chi crede negli spiriti cattivi.
-Le parole stesse `medium' o `controllo' agiranno certo su molti
+Le parole stesse ‘medium' o ‘controllo' agiranno certo su molti
 di noi come parole immorali — direi parole indecenti.  Implicano
 una resa spirituale che è dubbia anche se lo spirito è buono,
 e sconvolgente se è cattivo.  Ora, non è certo [[Self|auto]]-evidente,
@@ -6016,11 +6016,11 @@ come i suoi padri prima di lui.  Allora almeno non cadrà in
 un mero pantano di simpatie e antipatie, e non sceglierà di figurarsi angeli
 soltanto dalle ali bianche perché li preferisce a quelle nere.
 
-                                 Illustrated [[London]] News, 15 marzo 1919
+Illustrated [[London]] News, 15 marzo 1919
 
 
 
-<span class="atom-split" data-atom="story_45_the_englishman_s_religion" data-title="Man Orthodox — The Englishman'S Religion" data-chapter="Story 45 The Englishman S Religion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_the_englishman_s_religion" data-title="Man Orthodox — The Englishman'S Religion" data-chapter="The Englishman S Religion" data-kind="story"></span>
 
 
 THE ENGLISHMAN'S RELIGION
@@ -6028,7 +6028,7 @@ THE ENGLISHMAN'S RELIGION
 ... that queer, beautiful, laughable thing, the English religious feeling,
 so hazy, so reverent, so illogical, so humane, so kindly, so vulgar.
 
-                                             The Bystander, June 1st, 1904
+The Bystander, June 1st, 1904
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6038,11 +6038,11 @@ LA RELIGIONE DELL'INGLESE
 ... quella cosa bizzarra, bella, risibile che è il sentimento religioso inglese,
 così nebuloso, così reverente, così illogico, così umano, così benevolo, così volgare.
 
-                                             The Bystander, 1º giugno 1904
+The Bystander, 1º giugno 1904
 
 
 
-<span class="atom-split" data-atom="story_46_the_english_way" data-title="Man Orthodox — The English Way" data-chapter="Story 46 The English Way" data-kind="story"></span>
+<span class="atom-split" data-atom="story_46_the_english_way" data-title="Man Orthodox — The English Way" data-chapter="The English Way" data-kind="story"></span>
 
 
 THE ENGLISH WAY
@@ -6089,7 +6089,7 @@ doubtful in the twentieth century whether anything happened at all.
 ... There is something wholly English and quite unexplainable about
 this [[Innocent|innocent]] juggling; this calm and beneficent humbug.
 
-                                              Daily News, March 16th, 1905
+Daily News, March 16th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6138,11 +6138,11 @@ dubbio nel ventesimo secolo se fosse mai successo qualcosa.
 ... C'è qualcosa di interamente inglese e del tutto inspiegabile in
 questo [[Innocent|innocente]] giocoleria; questa calma e benefica montatura.
 
-                                              Daily News, 16 marzo 1905
+Daily News, 16 marzo 1905
 
 
 
-<span class="atom-split" data-atom="story_47_high_or_low" data-title="Man Orthodox — High Or Low?" data-chapter="Story 47 High Or Low" data-kind="story"></span>
+<span class="atom-split" data-atom="story_47_high_or_low" data-title="Man Orthodox — High Or Low?" data-chapter="High Or Low" data-kind="story"></span>
 
 
 HIGH OR LOW?
@@ -6204,7 +6204,7 @@ attempt to discuss what it does, without discussing what it is.
 Until this first question is settled, it is as childish to discuss
 a clergyman's vestments as to discuss his wall paper.
 
-                                  Illustrated [[London]] News, July 14th, 1906
+Illustrated [[London]] News, July 14th, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6268,11 +6268,11 @@ tentano di discutere ciò che essa fa, senza discutere ciò che essa è.
 Finché questa prima domanda non è risolta, è puerile discutere
 i paramenti di un ecclesiastico quanto discutere la sua carta da parati.
 
-                                  Illustrated [[London]] News, 14 luglio 1906
+Illustrated [[London]] News, 14 luglio 1906
 
 
 
-<span class="atom-split" data-atom="story_48_straight_thinking" data-title="Man Orthodox — Straight Thinking" data-chapter="Story 48 Straight Thinking" data-kind="story"></span>
+<span class="atom-split" data-atom="story_48_straight_thinking" data-title="Man Orthodox — Straight Thinking" data-chapter="Straight Thinking" data-kind="story"></span>
 
 
 STRAIGHT THINKING
@@ -6311,7 +6311,7 @@ for using it, that is, for the discovery of further [[Truth|truth]] and
 for the profit of humanity.  Briefly, you can only find [[Truth|truth]]
 with [[logic]] if you have already found [[Truth|truth]] without it.
 
-                                            Daily News, February 2nd, 1905
+Daily News, February 2nd, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6352,11 +6352,11 @@ per usarla, cioè, per la scoperta di ulteriore [[Truth|verità]] e
 per il profitto dell'umanità.  In breve, puoi trovare la [[Truth|verità]]
 con la [[logic|logica]] soltanto se hai già trovato la [[Truth|verità]] senza di essa.
 
-                                            Daily News, 2 febbraio 1905
+Daily News, 2 febbraio 1905
 
 
 
-<span class="atom-split" data-atom="story_49_a_man_of_distinction" data-title="Man Orthodox — A Man Of Distinction" data-chapter="Story 49 A Man Of Distinction" data-kind="story"></span>
+<span class="atom-split" data-atom="story_49_a_man_of_distinction" data-title="Man Orthodox — A Man Of Distinction" data-chapter="A Man Of Distinction" data-kind="story"></span>
 
 
 A MAN OF DISTINCTION
@@ -6404,7 +6404,7 @@ live in confusion twice confounded.  What is called the modern
 mind is soaked in associations and cannot understand distinctions,
 even when they are absolutely reasonable distinctions, The people
 stuffed with our journalese culture or popular science can only
-understand anything in relation to `all that sort of thing';
+understand anything in relation to ‘all that sort of thing';
 they cannot comprehend that something a little like it is really
 quite a different sort of thing.  ... They can understand,
 to take an instance, the general tendency to put more and more
@@ -6424,10 +6424,10 @@ if you explain that nationalizing the roads is not the same
 as nationalizing the land, you will generally find that they are
 merely puzzled and suppose it to be some sort of mystification--
 because it is quite clear.  They cannot make out whether you are in
-favour of `Socialism and all that sort of thing'.  Lord Balfour once
+favour of ‘Socialism and all that sort of thing'.  Lord Balfour once
 rent the murky sky of politics with one [[Lightning|lightning]]-flash of lucidity
 by giving the exact economic definition of the collectivist idea,
-and then adding, `That is Socialism and nothing else is Socialism'.
+and then adding, ‘That is Socialism and nothing else is Socialism'.
 It was probably regarded as one of his Fine-spun evasions.
 
 That is the intellectual virtue of which Lord Balfour really
@@ -6442,7 +6442,7 @@ and the unnatural as good as the natural and all the rest of it,
 it is well to keep high in the mind the great power of distinction;
 by which man becomes in the true sense distinguished.
 
-                                          G. K.'s Weekly, March 29th, 1930
+G. K.'s Weekly, March 29th, 1930
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6492,7 +6492,7 @@ vivono in una confusione due volte confusa.  Ciò che si chiama la mente
 moderna è impregnato di associazioni e non sa comprendere le distinzioni,
 anche quando sono distinzioni assolutamente ragionevoli.  La gente
 imbottita della nostra cultura giornalistica o di scienza popolare sa solo
-comprendere qualcosa in relazione a `tutte quelle cose lì';
+comprendere qualcosa in relazione a ‘tutte quelle cose lì';
 non sa comprendere che qualcosa un po' simile è in realtà
 tutt'altro genere di cosa.  ... Sanno comprendere,
 per fare un esempio, la generale tendenza a porre sempre più
@@ -6512,10 +6512,10 @@ se spiegate che nazionalizzare le strade non è lo stesso
 che nazionalizzare la terra, generalmente scoprirete che sono
 soltanto sconcertati e la suppongono una sorta di mistificazione —
 perché è del tutto chiara.  Non riescono a capire se siate a
-favore del `Socialismo e tutte quelle cose lì'.  Lord Balfour una volta
+favore del ‘Socialismo e tutte quelle cose lì'.  Lord Balfour una volta
 squarciò il cielo fosco della politica con un [[Lightning|lampo]] di lucidità
 dando l'esatta definizione economica dell'idea collettivista,
-e aggiungendo poi: `Questo è Socialismo, e nient'altro è Socialismo'.
+e aggiungendo poi: ‘Questo è Socialismo, e nient'altro è Socialismo'.
 Fu probabilmente considerato uno dei suoi cavilli sottili.
 
 Questa è la virtù intellettuale di cui Lord Balfour lasciò davvero
@@ -6530,11 +6530,11 @@ e l'innaturale buono quanto il naturale e tutto il resto,
 è bene tenere alta nella mente la grande facoltà di distinzione;
 per la quale l'uomo diventa nel vero senso distinto.
 
-                                          G. K.'s Weekly, 29 marzo 1930
+G. K.'s Weekly, 29 marzo 1930
 
 
 
-<span class="atom-split" data-atom="story_50_st_pius_x" data-title="Man Orthodox — St Pius X" data-chapter="Story 50 St Pius X" data-kind="story"></span>
+<span class="atom-split" data-atom="story_50_st_pius_x" data-title="Man Orthodox — St Pius X" data-chapter="St Pius X" data-kind="story"></span>
 
 
 ST PIUS X
@@ -6571,8 +6571,8 @@ alive and supreme in an official institution.
 As has been pointed out, with subtle power and all proper delicacy,
 in numberless liberal and large-minded journals, the great
 and good priest now dead had all the prejudices of a peasant.
-He had a prejudice to the effect that the mystical word `Yes'
-should be distinguished from the equally unfathomable expression `No'
+He had a prejudice to the effect that the mystical word ‘Yes'
+should be distinguished from the equally unfathomable expression ‘No'
 ... The Pope never pretended to have an extraordinary intellect;
 but he professed to be right--and he was.  All honest atheists,
 all honest Calvinists, all honest men who mean anything or believe
@@ -6585,7 +6585,7 @@ But there was something more in him that would not have been in
 the ordinary peasant.  For all this time he had wept for our tears;
 and he broke his heart for our bloodshed.
 
-                                Illustrated London News, August 29th, 1914
+Illustrated London News, August 29th, 1914
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6638,11 +6638,11 @@ Ma c'era in lui qualcosa di più che non ci sarebbe stato nel
 contadino comune.  Perché per tutto questo tempo aveva pianto per le nostre lacrime;
 e si spezzò il cuore per il nostro sangue versato.
 
-                                Illustrated London News, 29 agosto 1914
+Illustrated London News, 29 agosto 1914
 
 
 
-<span class="atom-split" data-atom="story_51_the_black_lines" data-title="Man Orthodox — The Black Lines" data-chapter="Story 51 The Black Lines" data-kind="story"></span>
+<span class="atom-split" data-atom="story_51_the_black_lines" data-title="Man Orthodox — The Black Lines" data-chapter="The Black Lines" data-kind="story"></span>
 
 
 THE BLACK LINES
@@ -6680,7 +6680,7 @@ or in iron only, or what not; they love the thing that isolates them.
 And so those who began by loving England came to love
 her frame, the sea.
 
-                                           Daily News, September 9th, 1905
+Daily News, September 9th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6720,11 +6720,11 @@ o soltanto il ferro, o che so io; amano la cosa che li isola.
 E così coloro che cominciarono amando l'Inghilterra giunsero ad amare
 la sua cornice, il mare.
 
-                                           Daily News, 9 settembre 1905
+Daily News, 9 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_52_the_cosmic_stew_pot" data-title="Man Orthodox — The Cosmic Stew-Pot" data-chapter="Story 52 The Cosmic Stew Pot" data-kind="story"></span>
+<span class="atom-split" data-atom="story_52_the_cosmic_stew_pot" data-title="Man Orthodox — The Cosmic Stew-Pot" data-chapter="The Cosmic Stew Pot" data-kind="story"></span>
 
 
 THE COSMIC STEW-POT
@@ -6736,13 +6736,13 @@ is something high and spiritual about things being blended
 and absorbed into each other.  That all rivers should run
 into one river, that all vegetables should go into one pot--
 that is spoken of as the last and best fulfilment of being.
-Boys are to be `at one' with girls; ... all sects are to be `at one'
+Boys are to be ‘at one' with girls; ... all sects are to be ‘at one'
 in the New Theology; beasts fade into men and men fade into God;
 union in itself is a noble thing.  Now union in itself is not
 a noble thing.  Love is a noble thing; but love is not union.
 Nay, it is rather a vivid sense of separation and identity.
 Maudlin, inferior love poetry does, indeed, talk of lovers
-being `one [[Soul|soul]]' just as maudlin, inferior religious poetry
+being ‘one [[Soul|soul]]' just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
 When [[Dante]] meets [[Beatrice]], he feels his distance from her,
 not his proximity; and all the greatest saints have felt
@@ -6757,9 +6757,9 @@ division and variety are what is right with the world.
 There is nothing specially right about mere contact
 and coalescence.  ...
 
-In short, this vast, vague idea of [[unity]] is the one `reactionary'
+In short, this vast, vague idea of [[unity]] is the one ‘reactionary'
 thing in the world.  It is perhaps the only connection in which that
-foolish word `reactionary' can be used with significance and [[Truth|truth]].
+foolish word ‘reactionary' can be used with significance and [[Truth|truth]].
 For this blending of men and women, nations and nations, is truly a return
 to the chaos and unconsciousness that were before the world was made.
 There is, of course, another kind of [[unity]] of which I do not speak here:
@@ -6774,15 +6774,15 @@ these are the things that make life worth living and the whole
 framework of things [[Well|well]] worthy to be sustained.  And the best
 thing remains; that this view, whether conscious or not, always has
 been and still is the view of the living and labouring millions.
-While a few prigs on platforms are talking about `oneness'
-and absorption in `The All', the folk that dwell in all the valleys
+While a few prigs on platforms are talking about ‘oneness'
+and absorption in ‘The All', the folk that dwell in all the valleys
 of this ancient earth are renewing the varieties for ever.  With them
 a woman is loved for being unmanly, and a man loved for being unwomanly.
 With them the church and the [[Home|home]] are both beautiful, because they
 are both different; with them fields are personal and flags are sacred;
 they are the virtue of existence, for they are not mankind but man.
 
-                                    T. P.'s Weekly, Christmas Number, 1910
+T. P.'s Weekly, Christmas Number, 1910
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6842,11 +6842,11 @@ Presso di loro la chiesa e la [[Home|casa]] sono entrambe belle, perché
 sono entrambe diverse; presso di loro i campi sono personali e le bandiere sacre;
 essi sono la virtù dell'esistenza, perché non sono l'umanità ma l'uomo.
 
-                                    T. P.'s Weekly, Numero di Natale, 1910
+T. P.'s Weekly, Numero di Natale, 1910
 
 
 
-<span class="atom-split" data-atom="story_53_the_sentinel" data-title="Man Orthodox — The Sentinel" data-chapter="Story 53 The Sentinel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_53_the_sentinel" data-title="Man Orthodox — The Sentinel" data-chapter="The Sentinel" data-kind="story"></span>
 
 
 THE SENTINEL
@@ -6854,7 +6854,7 @@ THE SENTINEL
 The great conception which lay at the back of the Hebrew and
 Christian scriptures was the conception that to man had been given
 a certain law, to champion which was his sole and simple business.
-`He hath shown thee, O man, that which is good' is perhaps
+‘He hath shown thee, O man, that which is good' is perhaps
 of all earthly sayings the one which has the deepest ring;
 it seems, as it were, too true and simple to be comprehended.
 The stars in their courses might fight against his honour,
@@ -6864,7 +6864,7 @@ the whole cosmic army might seem suddenly to desert to the devil.
 But man had in his heart a secret which would outlast these things;
 he had his orders; he was the sentinel of God.
 
-                                           The Speaker, October 19th, 1901
+The Speaker, October 19th, 1901
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6884,11 +6884,11 @@ l'intero esercito cosmico potrebbe sembrare d'un tratto disertare verso il diavo
 Ma l'uomo aveva nel cuore un segreto che sarebbe sopravvissuto a queste cose;
 aveva i suoi ordini; era la sentinella di Dio.
 
-                                           The Speaker, 19 ottobre 1901
+The Speaker, 19 ottobre 1901
 
 
 
-<span class="atom-split" data-atom="story_54_everyman" data-title="Man Orthodox — Everyman" data-chapter="Story 54 Everyman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_54_everyman" data-title="Man Orthodox — Everyman" data-chapter="Everyman" data-kind="story"></span>
 
 
 EVERYMAN
@@ -6896,7 +6896,7 @@ EVERYMAN
 The meanest man is immortal and the mightiest movement is temporal,
 not to say temporary.
 
-                                                Blackfriars, January, 1923
+Blackfriars, January, 1923
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6906,18 +6906,18 @@ OGNUNO
 L'uomo più infimo è immortale e il movimento più possente è temporale,
 per non dire temporaneo.
 
-                                                Blackfriars, gennaio 1923
+Blackfriars, gennaio 1923
 
 
 
-<span class="atom-split" data-atom="story_55_death_of_an_artist" data-title="Man Orthodox — Death Of An Artist" data-chapter="Story 55 Death Of An Artist" data-kind="story"></span>
+<span class="atom-split" data-atom="story_55_death_of_an_artist" data-title="Man Orthodox — Death Of An Artist" data-chapter="Death Of An Artist" data-kind="story"></span>
 
 
 DEATH OF AN ARTIST
 
 The first impulse of any serious person on hearing that
 G. F. Watts is dead must of necessity be an impulse to say,
-as we said of Gladstone, `All the great are dying'.
+as we said of Gladstone, ‘All the great are dying'.
 This is not mere journalese.  It is a genuine impression
 and in one sense it is true:  there are none left who carry
 themselves as these great men did.  But there is a danger
@@ -6989,9 +6989,9 @@ He was really angry with the evils of the modern world.
 .. . In all his moral and religious allegories,
 especially when they touch upon the diabolic side of things,
 there is apparent this sudden and sacred impatience.
-Under the picture of `Mammon', under the picture of `The Minotaur',
+Under the picture of ‘Mammon', under the picture of ‘The Minotaur',
 under the picture of anything evil in his gallery, seems printed
-in letters of [[Fire|fire]] `Shall this be endured for another moment?'
+in letters of [[Fire|fire]] ‘Shall this be endured for another moment?'
 And it was this innocent and startled wrath which was the note
 of the whole of Watts' age, the age of the Reform Bill.
 It was because the old political idealists had something of the child's
@@ -6999,7 +6999,7 @@ ignorance and horror of evil that they swept away so many abuses.
 Compare with some picture by Watts, which is full of a young
 and wide-eyed anger, some ultra-modern picture of an evil thing,
 some work of the new pessimistic atmosphere.  Take, for instance, Degas'
-brilliant picture called `Absinthe', which depicts two wrecks
+brilliant picture called ‘Absinthe', which depicts two wrecks
 of humanity soaking themselves in the maddening wormwood.
 The picture is steeped in devilish [[Resignation|resignation]].  We feel as we
 look at it that these two human creatures have drunk absinthe
@@ -7011,7 +7011,7 @@ But there is a deeper and stiller and more terrible thing
 and its name is irreligious [[Resignation|resignation]].  Because of Watts'
 intensely religious [[Nature|nature]] the painting of such a picture as this
 would be absolutely impossible to him.  If he had conceived
-and painted `Absinthe', there would have been something fierce
+and painted ‘Absinthe', there would have been something fierce
 and insistent about the picture.  Something fiendish and strained
 in the faces would have declared that the situation was unnatural.
 Something bitter and burning in the green colour of that shameful
@@ -7021,7 +7021,7 @@ there would be something in it that suggested that it was dark
 against some white and blazing background, a background of
 the astonishment of the angels and the dreadful wonder of God.
 
-                                               The Speaker, July 9th, 1904
+The Speaker, July 9th, 1904
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7134,18 +7134,18 @@ ci sarebbe stato in esso qualcosa che suggeriva che era scuro
 contro uno sfondo bianco e fiammeggiante, uno sfondo dello
 stupore degli angeli e del tremendo prodigio di Dio.
 
-                                               The Speaker, 9 luglio 1904
+The Speaker, 9 luglio 1904
 
 
 
-<span class="atom-split" data-atom="story_56_poetry_and_beliefs" data-title="Man Orthodox — Poetry And Beliefs" data-chapter="Story 56 Poetry And Beliefs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_56_poetry_and_beliefs" data-title="Man Orthodox — Poetry And Beliefs" data-chapter="Poetry And Beliefs" data-kind="story"></span>
 
 
 POETRY AND BELIEFS
 
 You never work so well for art's sake as when you are working
 for the sake of something else.  The greatest of the decadent
-art-philosophers, in that admirable essay `The [[Decay]] of Lying',
+art-philosophers, in that admirable essay ‘The [[Decay]] of Lying',
 described how art could take its disciple through the fires
 of [[Dante]]'s perdition and the lilies of [[Dante]]'s beatitude.
 But he forgot one point.  He forgot that [[Dante]] wrote that
@@ -7167,7 +7167,7 @@ and wrote down?  Where are the fruits of its [[Freedom|freedom]]?
 They are little indeed beside the fruit of that immemorial
 and [[Sublime|sublime]] bondage.
 
-                                               Daily News, June 25th, 1904
+Daily News, June 25th, 1904
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7198,11 +7198,11 @@ e mise per iscritto?  Dove sono i frutti della sua [[Freedom|Libertà]]?
 Sono ben scarsi accanto al frutto di quella immemorabile
 e [[Sublime|sublime]] schiavitù.
 
-                                               Daily News, 25 giugno 1904
+Daily News, 25 giugno 1904
 
 
 
-<span class="atom-split" data-atom="story_57_two_great_tories" data-title="Man Orthodox — Two Great Tories" data-chapter="Story 57 Two Great Tories" data-kind="story"></span>
+<span class="atom-split" data-atom="story_57_two_great_tories" data-title="Man Orthodox — Two Great Tories" data-chapter="Two Great Tories" data-kind="story"></span>
 
 
 TWO GREAT TORIES
@@ -7218,7 +7218,7 @@ Moreover, they stood together on yet greater things.
 They were both representatives of that great intellectual
 and artistic reaction which followed the exhaustion
 of the Liberalism of the [[French Revolution]]; they were both
-what an able writer some days ago called `strong Illiberals'.
+what an able writer some days ago called ‘strong Illiberals'.
 They were both Tories; that is, pessimists.  Nothing strikes
 one so much about the attitude of both as the fact that
 a superb melancholy made it necessary for both to take
@@ -7254,7 +7254,7 @@ They have felt that a position was not necessarily reasonable
 merely because it was neither fish, flesh nor herring.
 They held that if a sane man had views at all, it was part
 of his sanity to see the views fully and see far into them.
-In short, they regarded the thing called `moderation'
+In short, they regarded the thing called ‘moderation'
 as one of the cloudiest manias of the asylum.  Of these men
 were Henley and Whistler.
 
@@ -7275,7 +7275,7 @@ exemplified in the case of Whistler and Henley themselves.
 The real relation between art and morals is merely this,
 that as both exist in an intelligible world, they exhibit
 something of the same general laws and phenomena.
-This is quite a different thing from the defence of the `anecdotal'
+This is quite a different thing from the defence of the ‘anecdotal'
 picture, which Whistler rightly ridiculed; to say that a picture
 is a good picture because it exhibits a man giving sixpence
 to a beggar is quite as absurd as to say that giving the sixpence
@@ -7384,7 +7384,7 @@ they may be called, for want of anything better, his heirs.
 As they look to us today with their melancholy eyes, they may be heirs;
 they are certainly orphans.
 
-                                              Daily News, August 1st, 1903
+Daily News, August 1st, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7402,7 +7402,7 @@ Per di più, essi si trovavano concordi su cose ancora più grandi.
 Erano entrambi rappresentanti di quella grande reazione intellettuale
 e artistica che seguì all'esaurirsi
 del liberalismo della [[French Revolution|Rivoluzione francese]]; erano entrambi
-ciò che un abile scrittore, giorni fa, chiamò `illiberali convinti'.
+ciò che un abile scrittore, giorni fa, chiamò ‘illiberali convinti'.
 Erano entrambi Tory; ossia pessimisti. Nulla colpisce
 tanto, nell'atteggiamento di entrambi, quanto il fatto che
 una superba malinconia rendesse per entrambi necessario cercare
@@ -7438,7 +7438,7 @@ Hanno sentito che una posizione non era necessariamente ragionevole
 per il solo fatto di non essere né carne né pesce né aringa.
 Sostenevano che, se un uomo sano di mente aveva delle idee, era parte
 della sua sanità mentale vederle appieno e vederle in profondità.
-In breve, consideravano la cosa chiamata `moderazione'
+In breve, consideravano la cosa chiamata ‘moderazione'
 come una delle più nebbiose manie del manicomio. Di questi uomini
 furono Henley e Whistler.
 
@@ -7459,7 +7459,7 @@ esemplificato nel caso stesso di Whistler e Henley.
 Il vero rapporto tra arte e morale è semplicemente questo:
 che, esistendo entrambe in un mondo intelligibile, esse mostrano
 qualcosa delle stesse leggi e degli stessi fenomeni generali.
-Ciò è cosa ben diversa dalla difesa del quadro `aneddotico',
+Ciò è cosa ben diversa dalla difesa del quadro ‘aneddotico',
 che Whistler giustamente mise in ridicolo; dire che un quadro
 è un buon quadro perché mostra un uomo che dà sei pence
 a un mendicante è altrettanto assurdo che dire che dare quei sei pence
@@ -7568,11 +7568,11 @@ esse possono chiamarsi, in mancanza di meglio, i suoi eredi.
 Come ci guardano oggi con i loro occhi malinconici, forse sono eredi;
 di certo sono orfane.
 
-                                              Daily News, 1° agosto 1903
+Daily News, 1° agosto 1903
 
 
 
-<span class="atom-split" data-atom="story_58_the_fallacy_of_freedom" data-title="Man Orthodox — The Fallacy Of Freedom" data-chapter="Story 58 The Fallacy Of Freedom" data-kind="story"></span>
+<span class="atom-split" data-atom="story_58_the_fallacy_of_freedom" data-title="Man Orthodox — The Fallacy Of Freedom" data-chapter="The Fallacy Of Freedom" data-kind="story"></span>
 
 
 THE FALLACY OF FREEDOM
@@ -7596,7 +7596,7 @@ He is courageously selling himself into a splendid slavery.
 And, of course, in moral matters it is the same; there is
 no lawlessness, there is only a free choice between limitations.
 
-                                           Daily News, December 21st, 1905
+Daily News, December 21st, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7622,11 +7622,11 @@ Sta coraggiosamente vendendosi in una splendida schiavitù.
 E, naturalmente, nelle questioni morali è lo stesso; non vi è
 alcuna assenza di legge, vi è solo una libera scelta tra limiti.
 
-                                           Daily News, 21 dicembre 1905
+Daily News, 21 dicembre 1905
 
 
 
-<span class="atom-split" data-atom="story_59_liberty" data-title="Man Orthodox — Liberty" data-chapter="Story 59 Liberty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_59_liberty" data-title="Man Orthodox — Liberty" data-chapter="Liberty" data-kind="story"></span>
 
 
 LIBERTY
@@ -7641,7 +7641,7 @@ was quite simple; it was that they had some.  They had tasted,
 they had even drunk, the dreadful wine.  ...
 
 I am more and more convinced that we have to ask again the old question,
-`Is this a free country?'  It is still a very rich country;
+‘Is this a free country?'  It is still a very rich country;
 it will always, I think, be a great country; it is everywhere
 a humorous and in some patches a happy country; and anyhow, it is my
 country and that is enough for me.  But it is not a free country.
@@ -7652,7 +7652,7 @@ Loyalty is the heart of the commonwealth; but liberty is its lungs.
 You find out the necessity of liberty as you find out the necessity
 of air--by not having enough of it and gasping.
 
-                                              Daily News, March 18th, 1911
+Daily News, March 18th, 1911
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7669,7 +7669,7 @@ era assai semplice: era che ne aveva un po'. L'avevano assaggiato,
 avevano perfino bevuto, quel vino tremendo. ...
 
 Sono sempre più convinto che dobbiamo tornare a porci la vecchia domanda:
-`È questo un paese libero?' È ancora un paese assai ricco;
+‘È questo un paese libero?' È ancora un paese assai ricco;
 sarà sempre, credo, un grande paese; è dappertutto
 un paese pieno di umorismo e, a tratti, un paese felice; e comunque è il mio
 paese, e questo mi basta. Ma non è un paese libero.
@@ -7680,11 +7680,11 @@ La lealtà è il cuore dello Stato; ma la libertà ne sono i polmoni.
 Scopri la necessità della libertà come scopri la necessità
 dell'aria: non avendone abbastanza e boccheggiando.
 
-                                              Daily News, 18 marzo 1911
+Daily News, 18 marzo 1911
 
 
 
-<span class="atom-split" data-atom="story_60_the_servile_state" data-title="Man Orthodox — The Servile State" data-chapter="Story 60 The Servile State" data-kind="story"></span>
+<span class="atom-split" data-atom="story_60_the_servile_state" data-title="Man Orthodox — The Servile State" data-chapter="The Servile State" data-kind="story"></span>
 
 
 THE SERVILE STATE
@@ -7692,7 +7692,7 @@ THE SERVILE STATE
 When you break the big laws, you do not get liberty;
 you do not even get anarchy.  You get the small laws.
 
-                                               Daily News, July 29th, 1905
+Daily News, July 29th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7702,11 +7702,11 @@ LO STATO SERVILE
 Quando infrangi le grandi leggi, non ottieni la libertà;
 non ottieni nemmeno l'anarchia. Ottieni le piccole leggi.
 
-                                               Daily News, 29 luglio 1905
+Daily News, 29 luglio 1905
 
 
 
-<span class="atom-split" data-atom="story_61_the_sin_of_prohibition" data-title="Man Orthodox — The Sin Of Prohibition" data-chapter="Story 61 The Sin Of Prohibition" data-kind="story"></span>
+<span class="atom-split" data-atom="story_61_the_sin_of_prohibition" data-title="Man Orthodox — The Sin Of Prohibition" data-chapter="The Sin Of Prohibition" data-kind="story"></span>
 
 
 THE SIN OF PROHIBITION
@@ -7786,7 +7786,7 @@ theological [[Truth|truth]], then let him explain the howling [[nightmare]]
 and hell of nonsense and anarchy that has actually followed
 in the track of the Prohibition Law.
 
-                                      True Temperance Quarterly, May, 1933
+True Temperance Quarterly, May, 1933
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7868,11 +7868,11 @@ E se qualcuno dubita di questo fatto psicologico, che è anche una
 e l'inferno di assurdità e anarchia che ha effettivamente fatto seguito
 sulle tracce della legge sul Proibizionismo.
 
-                                      True Temperance Quarterly, maggio 1933
+True Temperance Quarterly, maggio 1933
 
 
 
-<span class="atom-split" data-atom="story_62_automatic_evil" data-title="Man Orthodox — Automatic Evil" data-chapter="Story 62 Automatic Evil" data-kind="story"></span>
+<span class="atom-split" data-atom="story_62_automatic_evil" data-title="Man Orthodox — Automatic Evil" data-chapter="Automatic Evil" data-kind="story"></span>
 
 
 AUTOMATIC EVIL
@@ -7914,7 +7914,7 @@ that it is tame, dull, direct, inevitable; a mere law in the members.
 It is automatic evil.  [[Pride]] makes a man a devil; but lust makes
 him a [[Machine|machine]].
 
-                                           Daily News, February 19th, 1910
+Daily News, February 19th, 1910
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7957,11 +7957,11 @@ che è mansueta, ottusa, diretta, inevitabile; una mera legge nelle membra.
 È male automatico. L'[[Pride|orgoglio]] fa di un uomo un diavolo; ma la lussuria ne fa
 una [[Machine|macchina]].
 
-                                           Daily News, 19 febbraio 1910
+Daily News, 19 febbraio 1910
 
 
 
-<span class="atom-split" data-atom="story_63_the_tyrannical_sceptic" data-title="Man Orthodox — The Tyrannical Sceptic" data-chapter="Story 63 The Tyrannical Sceptic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_63_the_tyrannical_sceptic" data-title="Man Orthodox — The Tyrannical Sceptic" data-chapter="The Tyrannical Sceptic" data-kind="story"></span>
 
 
 THE TYRANNICAL SCEPTIC
@@ -7980,7 +7980,7 @@ There is one figure who has dominated [[history]] and been the oppressor
 of all religions, good and bad; all philosophies, true and false.
 He is the tyrannical sceptic--and his name is Pilate.
 
-                                          Black and White, March 7th, 1903
+Black and White, March 7th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8001,11 +8001,11 @@ C'è una figura che ha dominato la [[history|storia]] ed è stata l'oppressore
 di tutte le religioni, buone e cattive; di tutte le filosofie, vere e false.
 È lo scettico tirannico, e il suo nome è Pilato.
 
-                                          Black and White, 7 marzo 1903
+Black and White, 7 marzo 1903
 
 
 
-<span class="atom-split" data-atom="story_64_the_shape_of_things_to_come" data-title="Man Orthodox — The Shape Of Things To Come" data-chapter="Story 64 The Shape Of Things To Come" data-kind="story"></span>
+<span class="atom-split" data-atom="story_64_the_shape_of_things_to_come" data-title="Man Orthodox — The Shape Of Things To Come" data-chapter="The Shape Of Things To Come" data-kind="story"></span>
 
 
 THE SHAPE OF THINGS TO COME
@@ -8017,7 +8017,7 @@ the like of which the world has never seen.  They need not
 reserve their [[Tears|tears]] for the victims of Bonner or Claverhouse.
 They may weep for themselves and for their children.
 
-                                           Daily News, February 18th, 1905
+Daily News, February 18th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8031,11 +8031,11 @@ quali il mondo non ha mai visto.  Non c'è bisogno che
 serbino le loro [[Tears|lacrime]] per le vittime di Bonner o di Claverhouse.
 Possono piangere per se stessi e per i loro figli.
 
-                                           Daily News, 18 febbraio 1905
+Daily News, 18 febbraio 1905
 
 
 
-<span class="atom-split" data-atom="story_65_sky_signs" data-title="Man Orthodox — Sky Signs" data-chapter="Story 65 Sky Signs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_65_sky_signs" data-title="Man Orthodox — Sky Signs" data-chapter="Sky Signs" data-kind="story"></span>
 
 
 SKY SIGNS
@@ -8052,7 +8052,7 @@ cannot see even the sky-signs in the street that are the new sort of signs
 in heaven.  The [[Madness|madness]] of tomorrow is not in Moscow but [[Manhattan]]--
 but most of what was in Broadway is already in Piccadilly.
 
-                                           G. K.'s Weekly, June 19th, 1926
+G. K.'s Weekly, June 19th, 1926
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8071,11 +8071,11 @@ non riesce a vedere neppure le insegne nel cielo, lungo le strade, che sono la n
 in cielo.  La [[Madness|follia]] di domani non è a Mosca ma a [[Manhattan|Manhattan]]--
 ma gran parte di ciò che era a Broadway è già a Piccadilly.
 
-                                           G. K.'s Weekly, 19 giugno 1926
+G. K.'s Weekly, 19 giugno 1926
 
 
 
-<span class="atom-split" data-atom="story_66_the_monstrosity" data-title="Man Orthodox — The Monstrosity" data-chapter="Story 66 The Monstrosity" data-kind="story"></span>
+<span class="atom-split" data-atom="story_66_the_monstrosity" data-title="Man Orthodox — The Monstrosity" data-chapter="The Monstrosity" data-kind="story"></span>
 
 
 THE MONSTROSITY
@@ -8102,7 +8102,7 @@ Indeed, it is something worse than chaos; a warring polytheism.
 It is a conflict of incalculable autocracies, under any of which
 at the moment we may fall.
 
-                                              Daily News, March 11th, 1911
+Daily News, March 11th, 1911
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8131,11 +8131,11 @@ Anzi, è qualcosa di peggiore del caos; un politeismo in guerra.
 È un conflitto di incalcolabili autocrazie, sotto una qualsiasi delle quali
 da un momento all'altro possiamo cadere.
 
-                                              Daily News, 11 marzo 1911
+Daily News, 11 marzo 1911
 
 
 
-<span class="atom-split" data-atom="story_67_politics_and_discontent" data-title="Man Orthodox — Politics And Discontent" data-chapter="Story 67 Politics And Discontent" data-kind="story"></span>
+<span class="atom-split" data-atom="story_67_politics_and_discontent" data-title="Man Orthodox — Politics And Discontent" data-chapter="Politics And Discontent" data-kind="story"></span>
 
 
 POLITICS AND DISCONTENT
@@ -8179,7 +8179,7 @@ the sacredness of simple things, the health and [[Humour|humour]] of the earth,
 which [[Alone|alone]] make a half-holiday even half a holiday or a slave
 even half a man.
 
-There is danger in that modern phrase `divine discontent'.
+There is danger in that modern phrase ‘divine discontent'.
 There is truth in it also, of course; but it is only truth
 of a special and secondary kind.  Much of the quarrel
 between Christianity and the world has been due to this fact;
@@ -8205,7 +8205,7 @@ have said, sound now and then suddenly, like a trumpet.
 But the voices of the saints and sages, recommending contentment,
 should sound unceasingly, like the sea.
 
-                                    T. P.'s Weekly, Christmas Number, 1910
+T. P.'s Weekly, Christmas Number, 1910
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8251,7 +8251,7 @@ la sacralità delle cose semplici, la salute e l'[[Humour|umorismo]] della terra
 che [[Alone|sole]] rendono una mezza vacanza almeno mezza vacanza o uno schiavo
 almeno mezzo uomo.
 
-C'è un pericolo in quella moderna espressione, `divino scontento'.
+C'è un pericolo in quella moderna espressione, ‘divino scontento'.
 C'è anche una verità in essa, di certo; ma è soltanto verità
 di una specie speciale e secondaria.  Molta della contesa
 fra il Cristianesimo e il mondo è dovuta a questo fatto;
@@ -8277,11 +8277,11 @@ detto, risuonare di quando in quando all'improvviso, come una tromba.
 Ma le voci dei santi e dei saggi, che raccomandano la contentezza,
 dovrebbero risuonare incessantemente, come il mare.
 
-                                    T. P.'s Weekly, Numero di Natale, 1910
+T. P.'s Weekly, Numero di Natale, 1910
 
 
 
-<span class="atom-split" data-atom="story_68_against_divine_discontent" data-title="Man Orthodox — Against Divine Discontent" data-chapter="Story 68 Against Divine Discontent" data-kind="story"></span>
+<span class="atom-split" data-atom="story_68_against_divine_discontent" data-title="Man Orthodox — Against Divine Discontent" data-chapter="Against Divine Discontent" data-kind="story"></span>
 
 
 AGAINST DIVINE DISCONTENT
@@ -8298,7 +8298,7 @@ the economic as well as the political status of the poor;
 and a fake idea that every man must raise his own economic status,
 even if he kills everybody else and ultimately himself as well.
 To both of these different things the more earnest Victorians
-gave the name of `divine discontent'.  But the mistake
+gave the name of ‘divine discontent'.  But the mistake
 of the earnest Victorians was that they tried to make a new
 [[morality]] without having studied any really good [[philosophy]].
 The thing became rhetoric and sentiment, a thing of words;
@@ -8345,7 +8345,7 @@ discontented than the poor.  They will explain that theirs is
 a divine discontent; and divine discontent is the very devil.
 You will observe that I use the term in a serious theological sense.
 
-                                    [[New York]] American, December 15th, 1932
+[[New York]] American, December 15th, 1932
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8364,7 +8364,7 @@ la condizione economica oltre che quella politica dei poveri;
 e un'idea falsa, che ogni uomo debba elevare la propria condizione economica,
 anche se uccide tutti gli altri e alla fine anche se stesso.
 A entrambe queste cose diverse i Vittoriani più fervidi
-davano il nome di `divino scontento'.  Ma l'errore
+davano il nome di ‘divino scontento'.  Ma l'errore
 dei fervidi Vittoriani fu che tentarono di fabbricare una nuova
 [[morality|morale]] senza aver studiato alcuna [[philosophy|filosofia]] davvero buona.
 La cosa divenne retorica e sentimento, una cosa di parole;
@@ -8411,11 +8411,11 @@ scontenti dei poveri.  Spiegheranno che il loro è
 un divino scontento; e il divino scontento è proprio il demonio.
 Osserverete che uso il termine in un serio senso teologico.
 
-                                    [[New York|New York]] American, 15 dicembre 1932
+[[New York|New York]] American, 15 dicembre 1932
 
 
 
-<span class="atom-split" data-atom="story_69_religion_and_revolution" data-title="Man Orthodox — Religion And Revolution" data-chapter="Story 69 Religion And Revolution" data-kind="story"></span>
+<span class="atom-split" data-atom="story_69_religion_and_revolution" data-title="Man Orthodox — Religion And Revolution" data-chapter="Religion And Revolution" data-kind="story"></span>
 
 
 RELIGION AND REVOLUTION
@@ -8452,7 +8452,7 @@ And their minds still have to deal with two very terrible enemies of man,
 the one classed as a mere mood and the other as a cosmic conclusion;
 their names are Boredom and [[Despair]].
 
-                                        [[New York]] American, April 1st, 1933
+[[New York]] American, April 1st, 1933
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8491,11 +8491,11 @@ E le loro menti hanno ancora da fare i conti con due terribilissimi nemici dell'
 l'uno classificato come mero umore e l'altro come conclusione cosmica;
 i loro nomi sono la Noia e la [[Despair|Disperazione]].
 
-                                        [[New York|New York]] American, 1 aprile 1933
+[[New York|New York]] American, 1 aprile 1933
 
 
 
-<span class="atom-split" data-atom="story_70_the_evil_day" data-title="Man Orthodox — The Evil Day" data-chapter="Story 70 The Evil Day" data-kind="story"></span>
+<span class="atom-split" data-atom="story_70_the_evil_day" data-title="Man Orthodox — The Evil Day" data-chapter="The Evil Day" data-kind="story"></span>
 
 
 THE EVIL DAY
@@ -8545,12 +8545,12 @@ But at the particular point I speak of, both these waves were spent.
 great outlets--liberty and [[Faith|faith]]; the one was blocked by Bismarck with
 his [[Blood|blood]] and iron, and the other by Darwin with his [[Blood|blood]] and bones.
 The appearance of 1870 was that political materialism had broken
-political idealism for ever.  And the appearance of `The Descent of Man'
+political idealism for ever.  And the appearance of ‘The Descent of Man'
 was that it was really a descent of man--that man been kicked off
 his pedestal on to the floor.
 
 Whether for this cause or some other, the years of which I speak were
-years of yawning; they were like the hours of an afternoon `At [[Home]]'
+years of yawning; they were like the hours of an afternoon ‘At [[Home]]'
 in a rich [[house]] on a rainy day when nobody comes to call.
 Their [[Poems|poems]] and pictures showed a real genius in tracing the leaden
 tints and echoing the tuneless tones of an afternoon like that.
@@ -8589,10 +8589,10 @@ These are the only two men who have come triumphant out of that strange
 old atmosphere.  Each of them during the last few months has died
 by his own hand.
 
-                                               Daily News, June 26th, 1909
+Daily News, June 26th, 1909
 
-    [The two men were John Davidson, the poet, and St John Hankin, the
-                               dramatist.]
+[The two men were John Davidson, the poet, and St John Hankin, the
+dramatist.]
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8644,12 +8644,12 @@ Ma nel particolare punto di cui parlo, entrambe queste onde erano esaurite.
 grandi sbocchi dell'uomo--la libertà e la [[Faith|fede]]; l'una fu sbarrata da Bismarck col
 suo [[Blood|sangue]] e ferro, e l'altra da Darwin col suo [[Blood|sangue]] e ossa.
 L'apparenza del 1870 era che il materialismo politico avesse spezzato
-l'idealismo politico per sempre.  E l'apparenza di `The Descent of Man'
+l'idealismo politico per sempre.  E l'apparenza di ‘The Descent of Man'
 era che si trattasse davvero di una discesa dell'uomo--che l'uomo fosse stato buttato giù
 dal suo piedistallo sul pavimento.
 
 Sia per questa causa o per qualche altra, gli anni di cui parlo furono
-anni di sbadigli; erano come le ore di un pomeriggio `In [[Home|casa]]'
+anni di sbadigli; erano come le ore di un pomeriggio ‘In [[Home|casa]]'
 in una ricca [[house|dimora]] in un giorno di pioggia, quando nessuno viene a far visita.
 Le loro [[Poems|poesie]] e i loro quadri mostravano un vero genio nel rendere le tinte
 plumbee e nell'echeggiare i toni stonati di un pomeriggio così.
@@ -8688,14 +8688,14 @@ Questi sono i soli due uomini che siano usciti trionfanti da quella strana
 vecchia atmosfera.  Ciascuno di loro, negli ultimi mesi, è morto
 per propria mano.
 
-                                               Daily News, 26 giugno 1909
+Daily News, 26 giugno 1909
 
-    [I due uomini erano John Davidson, il poeta, e St John Hankin, il
-                               drammaturgo.]
+[I due uomini erano John Davidson, il poeta, e St John Hankin, il
+drammaturgo.]
 
 
 
-<span class="atom-split" data-atom="story_71_what_was_rationalism" data-title="Man Orthodox — What Was Rationalism?" data-chapter="Story 71 What Was Rationalism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_71_what_was_rationalism" data-title="Man Orthodox — What Was Rationalism?" data-chapter="What Was Rationalism" data-kind="story"></span>
 
 
 WHAT WAS RATIONALISM?
@@ -8722,7 +8722,7 @@ called human [[Nature|nature]] has scratched like a cat in a cupboard.
 ... The Rationalist was pursued by enemies, blind but strong;
 the most terrible enemies a man has--the things he has forgotten.
 
-                                             New Witness, March 20th, 1913
+New Witness, March 20th, 1913
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8751,11 +8751,11 @@ chiamata [[Nature|natura]] umana ha graffiato come un gatto in un armadio.
 ... Il Razionalista era inseguito da nemici, ciechi ma forti;
 i nemici più terribili che un uomo possa avere: le cose che ha dimenticato.
 
-                                             New Witness, 20 marzo 1913
+New Witness, 20 marzo 1913
 
 
 
-<span class="atom-split" data-atom="story_72_from_dickens_to_gissing" data-title="Man Orthodox — From Dickens To Gissing" data-chapter="Story 72 From Dickens To Gissing" data-kind="story"></span>
+<span class="atom-split" data-atom="story_72_from_dickens_to_gissing" data-title="Man Orthodox — From Dickens To Gissing" data-chapter="From Dickens To Gissing" data-kind="story"></span>
 
 
 FROM DICKENS TO GISSING
@@ -8792,12 +8792,12 @@ It was the sort of Cockney who was not only exuberant but solemnly
 and rhetorically exuberant; relishing romantic poetry and [[rolling]] words.
 My father told me of an aged clerk in an ancient eating-[[house]]
 who regularly every day said to the waiter in a deep booming voice,
-`Tell Mrs Bayfield that the steak was excellent, the potatoes
+‘Tell Mrs Bayfield that the steak was excellent, the potatoes
 done to a turn, in short, a dinner fit for an epicure'.  That is
 the voice of Micawber and Swiveller and many characters of Dickens;
 even of Fred Bayham and many characters of Thackeray.  And who will
 ever forget the schoolmaster who said to every lady he danced with,
-`Had I a heart for falsehood framed, I ne'er could injure you'?
+‘Had I a heart for falsehood framed, I ne'er could injure you'?
 It is the great gusto; it is life enjoyed like the steak of Mrs Bayfield;
 existence as something much too joyful to be taken frivolously;
 enjoyment as something to be prolonged with a prodigious gravity;
@@ -8807,7 +8807,7 @@ which these men quoted, a richness that has never been recovered
 or imitated.  Many moderns have learnt from Yeats that our
 souls are [[Love|love]] and a continual farewell; but not many can say
 farewell to Miss Wackles with the great and virile gesture:
-`My boat is on the shore and my barque is on the sea.'
+‘My boat is on the shore and my barque is on the sea.'
 Men naturally made game of the Byronic youth; but remember that
 he enjoyed woe more than the modems enjoy enjoyment.
 
@@ -8854,9 +8854,9 @@ Those waggish W's suggest only a slight laxity and, according to
 the lateness of the hour, perhaps indistinctness in the edges
 of the spoken word.  They have nothing of the snigger or the whine.
 Sir John Falstaff was a gentleman by birth; but I can almost
-imagine even Falstaff saying with his thick accent, `What,
+imagine even Falstaff saying with his thick accent, ‘What,
 because you are wirchuous shall there be no more cakes and ale?'
-But I cannot imagine [[Falstaff]] saying, `Shall there be no more
+But I cannot imagine [[Falstaff]] saying, ‘Shall there be no more
 cikes and ile?'. ...
 
 I believe the explanation of the change is that which I have given;
@@ -8881,7 +8881,7 @@ refers to fundamentals, travels and inns and simple jokes.
 It is like life; it is in that sense like eternal life,
 for it is still alive.
 
-                                        G. K.'s Weekly, October 17th, 1925
+G. K.'s Weekly, October 17th, 1925
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9009,11 +9009,11 @@ rimanda ai fondamentali, ai viaggi e alle locande e alle semplici battute.
 È simile alla vita; è in quel senso simile alla vita eterna,
 perché è ancora viva.
 
-                                        G. K.'s Weekly, 17 ottobre 1925
+G. K.'s Weekly, 17 ottobre 1925
 
 
 
-<span class="atom-split" data-atom="story_73_the_corner" data-title="Man Orthodox — The Corner" data-chapter="Story 73 The Corner" data-kind="story"></span>
+<span class="atom-split" data-atom="story_73_the_corner" data-title="Man Orthodox — The Corner" data-chapter="The Corner" data-kind="story"></span>
 
 
 THE CORNER
@@ -9027,7 +9027,7 @@ at once, its combination of all the inconsistent virtues, that will
 always remind us of a home.  But it is no house for us any longer.
 We have gone down a road; and we have turned a corner.
 
-                                                Daily News, May 14th, 1910
+Daily News, May 14th, 1910
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9043,11 +9043,11 @@ in una volta, nella sua combinazione di tutte le virtù incoerenti, che ci
 ricorderà sempre una casa. Ma non è più una dimora per noi.
 Abbiamo percorso una strada; e abbiamo svoltato l'angolo.
 
-                                                Daily News, 14 maggio 1910
+Daily News, 14 maggio 1910
 
 
 
-<span class="atom-split" data-atom="story_74_chaos" data-title="Man Orthodox — Chaos" data-chapter="Story 74 Chaos" data-kind="story"></span>
+<span class="atom-split" data-atom="story_74_chaos" data-title="Man Orthodox — Chaos" data-chapter="Chaos" data-kind="story"></span>
 
 
 CHAOS
@@ -9057,7 +9057,7 @@ but never before was it so doubtful which was the storm and which
 the shipwreck, and which the ship and which the ship's crew;
 and what we are rescuing from what.
 
-                          New York Herald Tribune Magazine, July 5th, 1931
+New York Herald Tribune Magazine, July 5th, 1931
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9069,11 +9069,11 @@ ma mai prima d'ora fu così incerto quale fosse la tempesta e quale
 il naufragio, e quale la nave e quale l'equipaggio della nave;
 e che cosa stiamo salvando da che cosa.
 
-                          New York Herald Tribune Magazine, 5 luglio 1931
+New York Herald Tribune Magazine, 5 luglio 1931
 
 
 
-<span class="atom-split" data-atom="story_75_the_vengeance_of_victoria" data-title="Man Orthodox — The Vengeance Of Victoria" data-chapter="Story 75 The Vengeance Of Victoria" data-kind="story"></span>
+<span class="atom-split" data-atom="story_75_the_vengeance_of_victoria" data-title="Man Orthodox — The Vengeance Of Victoria" data-chapter="The Vengeance Of Victoria" data-kind="story"></span>
 
 
 THE VENGEANCE OF VICTORIA
@@ -9120,7 +9120,7 @@ and it has gone no where and got nothing.  We have all heard
 of a famous occasion when Queen Victoria was not amused.
 But I fancy that even she might be amused now.
 
-                                        G. K.'s Weekly, October 15th, 1932
+G. K.'s Weekly, October 15th, 1932
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9169,11 +9169,11 @@ e non sono andati da nessuna parte e non hanno ottenuto nulla. Abbiamo tutti sen
 di una famosa occasione in cui la regina Vittoria non fu divertita.
 Ma mi immagino che perfino lei potrebbe divertirsi adesso.
 
-                                        G. K.'s Weekly, 15 ottobre 1932
+G. K.'s Weekly, 15 ottobre 1932
 
 
 
-<span class="atom-split" data-atom="story_76_privacy" data-title="Man Orthodox — Privacy" data-chapter="Story 76 Privacy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_76_privacy" data-title="Man Orthodox — Privacy" data-chapter="Privacy" data-kind="story"></span>
 
 
 PRIVACY
@@ -9181,7 +9181,7 @@ PRIVACY
 Privacy is like property in this:  that while a few people ought
 to have less of it, most people ought to have more of it.
 
-                                            New Witness, October 7th, 1921
+New Witness, October 7th, 1921
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9191,11 +9191,11 @@ LA PRIVATEZZA
 La privatezza è come la proprietà in questo: che mentre poche persone dovrebbero
 averne di meno, la maggior parte delle persone dovrebbe averne di più.
 
-                                            New Witness, 7 ottobre 1921
+New Witness, 7 ottobre 1921
 
 
 
-<span class="atom-split" data-atom="story_77_northcliffe" data-title="Man Orthodox — Northcliffe" data-chapter="Story 77 Northcliffe" data-kind="story"></span>
+<span class="atom-split" data-atom="story_77_northcliffe" data-title="Man Orthodox — Northcliffe" data-chapter="Northcliffe" data-kind="story"></span>
 
 
 NORTHCLIFFE
@@ -9256,7 +9256,7 @@ among shadows, fighting in a shadow pantomime.  Publicity consists,
 not of things, but of their vast shadows thrown upon a wall.
 And to make them so vast, the light must be held very low down.
 
-                                      G. K.'s Weekly, September 17th, 1927
+G. K.'s Weekly, September 17th, 1927
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9319,11 +9319,11 @@ tra le ombre, combattendo in una pantomima d'ombre. La pubblicità consiste,
 non delle cose, ma delle loro ombre immense proiettate su una parete.
 E per renderle così immense, la luce va tenuta molto in basso.
 
-                                      G. K.'s Weekly, 17 settembre 1927
+G. K.'s Weekly, 17 settembre 1927
 
 
 
-<span class="atom-split" data-atom="story_78_the_vision_of_vulgarity_i" data-title="Man Orthodox — The Vision Of Vulgarity, I" data-chapter="Story 78 The Vision Of Vulgarity I" data-kind="story"></span>
+<span class="atom-split" data-atom="story_78_the_vision_of_vulgarity_i" data-title="Man Orthodox — The Vision Of Vulgarity, I" data-chapter="The Vision Of Vulgarity I" data-kind="story"></span>
 
 
 THE VISION OF VULGARITY, I
@@ -9366,7 +9366,7 @@ out a few suggestions.
 
 In so far as I can get near to its essence, it consists largely
 of two elements, which I should describe as Facility and Familiarity.
-The first means that a man does, as the phrase goes, `gush'; that is,
+The first means that a man does, as the phrase goes, ‘gush'; that is,
 that his [[Self|self]]-expression flows without effort, selection or control.
 It does not come from him like picked or pointed words, passing through
 an articulate organ; it simply streams from him like perspiration.
@@ -9378,7 +9378,7 @@ for his own [[Self|self]]-satisfaction carries with it a sort of huge cloud
 and illusion of applause.
 
 And the second element is Familiarity which, if understood,
-would be called Profanity.  Horace spoke of the `profane vulgar';
+would be called Profanity.  Horace spoke of the ‘profane vulgar';
 and it is true that this familiarity is the loss of holy fear
 and a sin against the mystical side of man.  In practice
 it means handling things confidently and contemptuously,
@@ -9399,7 +9399,7 @@ he loves, or in a real saint writing of the sin he hates.
 Both say the right thing because they would rather say
 nothing at all.
 
-                                        New York American, July 22nd, 1933
+New York American, July 22nd, 1933
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9477,11 +9477,11 @@ che ama, o in un vero santo che scrive del peccato che odia.
 Entrambi dicono la cosa giusta perché preferirebbero non dire
 nulla del tutto.
 
-                                        New York American, 22 luglio 1933
+New York American, 22 luglio 1933
 
 
 
-<span class="atom-split" data-atom="story_79_the_vision_of_vulgarity_ii" data-title="Man Orthodox — The Vision Of Vulgarity, Ii" data-chapter="Story 79 The Vision Of Vulgarity Ii" data-kind="story"></span>
+<span class="atom-split" data-atom="story_79_the_vision_of_vulgarity_ii" data-title="Man Orthodox — The Vision Of Vulgarity, II" data-chapter="The Vision Of Vulgarity II" data-kind="story"></span>
 
 
 THE VISION OF VULGARITY, II
@@ -9502,24 +9502,24 @@ So far as I remember, it was merely the burning out of a candle and,
 when it was extinguished, someone saying those lines of Laurence Binyon
 which are worthy to pass into an impersonal and immortal rite.
 
-  They shall grow not old, as we that are left grow old:
-  Age shall not weary them, nor the years condemn.
-  At the going down of the sun and in the morning
-       We will remember them.
+They shall grow not old, as we that are left grow old:
+Age shall not weary them, nor the years condemn.
+At the going down of the sun and in the morning
+We will remember them.
 
 That was all, and that was a good thing to remember.
 
 Now I open the large Sunday paper of the Express group
 and the first thing that knocks me in the eye is a huge
 headline about the Toc H ceremony as recently conducted.
-It is an announcement in gigantic letters `D.S.O. Sobs at Ceremony'
+It is an announcement in gigantic letters ‘D.S.O. Sobs at Ceremony'
 and immediately underneath in slightly smaller letters,
-`Prince of Wales Lights the Lamp'.  The journalist does
+‘Prince of Wales Lights the Lamp'.  The journalist does
 print the words of Mr Binyon's poem; but as he prints them
 in pros; he is presumably unaware that they are verse.
 I do not expect him to be aware that they are poetry.
 He takes his place with that celebrated journalist who wrote,
-`The right hon.  gentleman concluded by saying that kind hearts
+‘The right hon.  gentleman concluded by saying that kind hearts
 were in his opinion better than coronets and simple [[Faith|faith]] greatly
 prefer able to Norman [[Blood|blood]]'.  Only in the older case there was
 more excuse; for I cannot but think the poetry was more prosaic.
@@ -9527,12 +9527,12 @@ Tennyson could be Virgilian like Laurence Binyon; but I should
 hardly select that passage to prove it.
 
 Now if it be asked what I dislike in the domination of this
-type of Trust journalism, I answer that I dislike `D.S.O. Sobs'
-and the man who does not dislike `D.S.O. Sobs' and the domination
-of the man who is capable of writing `D.S.O. Sobs' and the type
+type of Trust journalism, I answer that I dislike ‘D.S.O. Sobs'
+and the man who does not dislike ‘D.S.O. Sobs' and the domination
+of the man who is capable of writing ‘D.S.O. Sobs' and the type
 of society that is supposed to be impressed favourably
-with `D.S.O. Sobs' and the whole hideous idea of human pathos
-which insults you and me with the supposition that `D.S.O. Sobs'
+with ‘D.S.O. Sobs' and the whole hideous idea of human pathos
+which insults you and me with the supposition that ‘D.S.O. Sobs'
 could conceivably move us to anything but mirth or murder.
 And if the journalist does not understand it, all the more do I
 protest against the power and influence of the man who does not
@@ -9566,7 +9566,7 @@ had the honour of producing this fine flower of progress.
 And this flower will overrun our garden like a weed,
 when that culture has fully come into its own.
 
-                                         G. K.'s Weekly, January 1st, 1927
+G. K.'s Weekly, January 1st, 1927
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9589,10 +9589,10 @@ Per quanto ricordi, consisteva soltanto nel consumarsi di una candela e,
 quando essa si spense, nel fatto che qualcuno recitava quei versi di Laurence Binyon
 che meritano di passare in un rito impersonale e immortale.
 
-  Essi non invecchieranno, come noi che restiamo invecchiamo:
-  l'età non li affaticherà, né gli anni li condanneranno.
-  Al calare del sole e nel mattino
-       noi li ricorderemo.
+Essi non invecchieranno, come noi che restiamo invecchiamo:
+l'età non li affaticherà, né gli anni li condanneranno.
+Al calare del sole e nel mattino
+noi li ricorderemo.
 
 Questo era tutto, ed era una buona cosa da ricordare.
 
@@ -9653,11 +9653,11 @@ avuto l'onore di produrre questo fine fiore del progresso.
 E questo fiore invaderà il nostro giardino come un'erbaccia,
 quando quella cultura sarà pienamente giunta a sé stessa.
 
-                                         G. K.'s Weekly, 1° gennaio 1927
+G. K.'s Weekly, 1° gennaio 1927
 
 
 
-<span class="atom-split" data-atom="story_80_the_humblest_animal" data-title="Man Orthodox — The Humblest Animal" data-chapter="Story 80 The Humblest Animal" data-kind="story"></span>
+<span class="atom-split" data-atom="story_80_the_humblest_animal" data-title="Man Orthodox — The Humblest Animal" data-chapter="The Humblest Animal" data-kind="story"></span>
 
 
 THE HUMBLEST ANIMAL
@@ -9679,7 +9679,7 @@ fantastic modesty is the highest of the attributes of man.
 Perhaps, amid the arrogance of oysters and the self-sufficiency
 of snails, man is the only humble animal.
 
-                                              Daily News, March 21st, 1906
+Daily News, March 21st, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9703,11 +9703,11 @@ fantastica modestia è la più alta delle qualità dell'uomo.
 Forse, tra l'arroganza delle ostriche e l'autosufficienza
 delle lumache, l'uomo è l'unico animale umile.
 
-                                              Daily News, 21 marzo 1906
+Daily News, 21 marzo 1906
 
 
 
-<span class="atom-split" data-atom="story_81_putting_the_clock_back" data-title="Man Orthodox — Putting The Clock Back" data-chapter="Story 81 Putting The Clock Back" data-kind="story"></span>
+<span class="atom-split" data-atom="story_81_putting_the_clock_back" data-title="Man Orthodox — Putting The Clock Back" data-chapter="Putting The Clock Back" data-kind="story"></span>
 
 
 PUTTING THE CLOCK BACK
@@ -9726,7 +9726,7 @@ Taking a bath certainly involves the removal of many civilized
 externals and an invitation to the nakedness of savages.
 But it is the only way to get clean.
 
-                                   Illustrated London News, July 8th, 1911
+Illustrated London News, July 8th, 1911
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9747,18 +9747,18 @@ Fare un bagno comporta certamente la rimozione di molti orpelli
 civilizzati e un invito alla nudità dei selvaggi.
 Ma è l'unico modo per lavarsi.
 
-                                   Illustrated London News, 8 luglio 1911
+Illustrated London News, 8 luglio 1911
 
 
 
-<span class="atom-split" data-atom="story_82_the_number_you_first_thought_of" data-title="Man Orthodox — The Number You First Thought Of" data-chapter="Story 82 The Number You First Thought Of" data-kind="story"></span>
+<span class="atom-split" data-atom="story_82_the_number_you_first_thought_of" data-title="Man Orthodox — The Number You First Thought Of" data-chapter="The Number You First Thought Of" data-kind="story"></span>
 
 
 THE NUMBER YOU FIRST THOUGHT OF
 
 They that go about the world asking riddles and doing puzzles
 (those enemies of the human race) used to have one particular game which,
-after ramifications of arithmetic, ended with `taking away the number
+after ramifications of arithmetic, ended with ‘taking away the number
 you first thought of'.  It is a silly game and, like many other
 silly games, has been played by great empires and on a large scale.
 That touch of over-civilization which is always the first touch [sic]
@@ -9819,7 +9819,7 @@ the modern world, which is first and last a topsy-turvy world.
 That is why the few mild and rational people are accused
 of standing on their heads.
 
-                              Illustrated [[London]] News, February 24th, 1912
+Illustrated [[London]] News, February 24th, 1912
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9889,11 +9889,11 @@ mondo moderno, che è dal principio alla fine un mondo alla rovescia.
 È per questo che le poche persone miti e ragionevoli sono accusate
 di stare a testa in giù.
 
-                              Illustrated [[London]] News, 24 febbraio 1912
+Illustrated [[London]] News, 24 febbraio 1912
 
 
 
-<span class="atom-split" data-atom="story_83_the_living_past" data-title="Man Orthodox — The Living Past" data-chapter="Story 83 The Living Past" data-kind="story"></span>
+<span class="atom-split" data-atom="story_83_the_living_past" data-title="Man Orthodox — The Living Past" data-chapter="The Living Past" data-kind="story"></span>
 
 
 THE LIVING PAST
@@ -9938,9 +9938,9 @@ But if we look back at our fathers, as they gather in the gate of [[history]],
 we see it like the gate of Eden described by one of them in verse
 which we cannot imitate:
 
-`With dreadful faces thronged and fiery arms'.
+‘With dreadful faces thronged and fiery arms'.
 
-                                            Daily News, December 7th, 1907
+Daily News, December 7th, 1907
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -9989,11 +9989,11 @@ che non possiamo imitare:
 
 «Di volti terribili affollata e d'armi fiammeggianti».
 
-                                            Daily News, 7 dicembre 1907
+Daily News, 7 dicembre 1907
 
 
 
-<span class="atom-split" data-atom="story_84_the_unchanging_vision" data-title="Man Orthodox — The Unchanging Vision" data-chapter="Story 84 The Unchanging Vision" data-kind="story"></span>
+<span class="atom-split" data-atom="story_84_the_unchanging_vision" data-title="Man Orthodox — The Unchanging Vision" data-chapter="The Unchanging Vision" data-kind="story"></span>
 
 
 THE UNCHANGING VISION
@@ -10013,8 +10013,8 @@ the crude materials of everything.  That brown earth beneath you
 is only raw umber, which you are destined to turn into cooked umber.
 That blue sea which you think spherical and perfect,
 is only the element and beginning of something beyond the sea.
-How gratifying it is to reflect that the word `ultramarine'
-literally means `something beyond the sea'!  That green grass
+How gratifying it is to reflect that the word ‘ultramarine'
+literally means ‘something beyond the sea'!  That green grass
 is only the material out of which you may make elves and
 foresters and the figure of Robin Hood.  That blood-red sunset
 which you unwisely call perfect is nothing but a lake of crimson
@@ -10022,7 +10022,7 @@ which you unwisely call perfect is nothing but a lake of crimson
 fish up the flaming images of purple seraphims and scarlet devils.
 Heaven gave us this splendid chaos of colours and materials.
 Heaven gave us a few instinctive rules of practice and caution
-corresponding to `do not put the brush in the mouth'.
+corresponding to ‘do not put the brush in the mouth'.
 And Heaven gave us a vision.
 
 Now, to make the real world in any way like our vision of it
@@ -10056,7 +10056,7 @@ jump about.  We should now use this colour, now that colour, of our cosmic
 paint-box to produce the proper effect.  But our vision would not alter.
 We should always have in our minds the picture that we wanted.
 Thousands of years ago a great poet put the perfect vision of [[Mercy|mercy]].
-`The lion shall lie down with the lamb.'  It will take us a long time
+‘The lion shall lie down with the lamb.'  It will take us a long time
 to teach him to do it.
 
 But in our own time another and quite different thing has happened.
@@ -10076,7 +10076,7 @@ the progress, always difficult, becomes impossible.
 If there is progress in ideals, there cannot be progress
 in anything else.
 
-                                          Daily News, September 15th, 1906
+Daily News, September 15th, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10161,11 +10161,11 @@ il progresso, sempre difficile, diventa impossibile.
 Se c'è progresso negli ideali, non ci può essere progresso
 in nient'altro.
 
-                                          Daily News, 15 settembre 1906
+Daily News, 15 settembre 1906
 
 
 
-<span class="atom-split" data-atom="story_85_the_white_house" data-title="Man Orthodox — The White House" data-chapter="Story 85 The White House" data-kind="story"></span>
+<span class="atom-split" data-atom="story_85_the_white_house" data-title="Man Orthodox — The White House" data-chapter="The White House" data-kind="story"></span>
 
 
 THE WHITE HOUSE
@@ -10214,7 +10214,7 @@ the doctor.  Conservatives commonly denounce a revolution as premature;
 it is Irish, but true, to say that a revolution must often come
 prematurely or come too late.
 
-                                             Daily News, August 24th, 1907
+Daily News, August 24th, 1907
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10265,11 +10265,11 @@ il medico.  I conservatori denunciano abitualmente una rivoluzione come prematur
 è una frase all'irlandese, ma vera, dire che una rivoluzione deve spesso arrivare
 prematuramente oppure arrivare troppo tardi.
 
-                                             Daily News, 24 agosto 1907
+Daily News, 24 agosto 1907
 
 
 
-<span class="atom-split" data-atom="story_86_the_iconoclast" data-title="Man Orthodox — The Iconoclast" data-chapter="Story 86 The Iconoclast" data-kind="story"></span>
+<span class="atom-split" data-atom="story_86_the_iconoclast" data-title="Man Orthodox — The Iconoclast" data-chapter="The Iconoclast" data-kind="story"></span>
 
 
 THE ICONOCLAST
@@ -10278,7 +10278,7 @@ In the whole range of human occupations is it possible
 to imagine a poorer thing to be than an iconoclast?
 It is the lowest of all the unskilled trades.
 
-                                              Daily News, April 26th, 1905
+Daily News, April 26th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10289,11 +10289,11 @@ In tutta la gamma delle occupazioni umane, è possibile
 immaginare cosa più misera che l'essere un iconoclasta?
 È il più infimo di tutti i mestieri senza arte.
 
-                                              Daily News, 26 aprile 1905
+Daily News, 26 aprile 1905
 
 
 
-<span class="atom-split" data-atom="story_87_the_return_of_the_angels" data-title="Man Orthodox — The Return Of The Angels" data-chapter="Story 87 The Return Of The Angels" data-kind="story"></span>
+<span class="atom-split" data-atom="story_87_the_return_of_the_angels" data-title="Man Orthodox — The Return Of The Angels" data-chapter="The Return Of The Angels" data-kind="story"></span>
 
 
 THE RETURN OF THE ANGELS
@@ -10420,7 +10420,7 @@ justification of the Fourth Gospel or a rap on the table.
 We have returned to it because, by the rejection of rationalism,
 the world becomes suddenly rational.
 
-                                              Daily News, March 14th, 1903
+Daily News, March 14th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10549,11 +10549,11 @@ giustificazione del Quarto Vangelo o di un colpetto sul tavolo.
 Vi siamo tornati perché, con il rigetto del razionalismo,
 il mondo diventa d'un tratto razionale.
 
-                                              Daily News, 14 marzo 1903
+Daily News, 14 marzo 1903
 
 
 
-<span class="atom-split" data-atom="story_88_the_necessity_of_luxury" data-title="Man Orthodox — The Necessity Of Luxury" data-chapter="Story 88 The Necessity Of Luxury" data-kind="story"></span>
+<span class="atom-split" data-atom="story_88_the_necessity_of_luxury" data-title="Man Orthodox — The Necessity Of Luxury" data-chapter="The Necessity Of Luxury" data-kind="story"></span>
 
 
 THE NECESSITY OF LUXURY
@@ -10579,7 +10579,7 @@ for the relief of distress until we have sufficient humility
 and sense of humour to leave off talking about what people need
 and bestow more attention on what they want.
 
-                                               The Open Review, July, 1906
+The Open Review, July, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10607,11 +10607,11 @@ per il sollievo della miseria finché non avremo umiltà
 e senso dell'umorismo sufficienti a smettere di parlare di ciò di cui la gente ha bisogno
 e a dedicare più attenzione a ciò che la gente desidera.
 
-                                               The Open Review, luglio 1906
+The Open Review, luglio 1906
 
 
 
-<span class="atom-split" data-atom="story_89_the_club" data-title="Man Orthodox — The Club" data-chapter="Story 89 The Club" data-kind="story"></span>
+<span class="atom-split" data-atom="story_89_the_club" data-title="Man Orthodox — The Club" data-chapter="The Club" data-kind="story"></span>
 
 
 THE CLUB
@@ -10619,7 +10619,7 @@ THE CLUB
 Mankind is not a tribe of animals to which we owe compassion.
 Mankind is a club to which we owe our subscription.
 
-                                              Daily News, April 10th, 1906
+Daily News, April 10th, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10629,11 +10629,11 @@ IL CIRCOLO
 L'umanità non è una tribù di animali cui dobbiamo compassione.
 L'umanità è un circolo cui dobbiamo la nostra quota d'iscrizione.
 
-                                              Daily News, 10 aprile 1906
+Daily News, 10 aprile 1906
 
 
 
-<span class="atom-split" data-atom="story_90_the_big_thing_and_the_small" data-title="Man Orthodox — The Big Thing And The Small" data-chapter="Story 90 The Big Thing And The Small" data-kind="story"></span>
+<span class="atom-split" data-atom="story_90_the_big_thing_and_the_small" data-title="Man Orthodox — The Big Thing And The Small" data-chapter="The Big Thing And The Small" data-kind="story"></span>
 
 
 THE BIG THING AND THE SMALL
@@ -10644,7 +10644,7 @@ in seeing the big things big and the small things small.
 A man can have this sense of pro portion even if he is wrong.
 ... Here is one case.  Human society is the big and certain thing;
 pre-human evolution is the small and fanciful thing.
-To talk of `humanity's' place in evolution is to be foolish
+To talk of ‘humanity's' place in evolution is to be foolish
 and topsy-turvy. We do not know there was any evolution
 in the sense that we know that there is humanity.
 Some men hold that they are the children of apes; some that they
@@ -10678,16 +10678,16 @@ the small; that Humanity is the huge [[house]] that I live in,
 while Evolution is the small but interesting animal which has
 quite recently asked to be domesticated in it.
 
-                                          Daily News, September 19th, 1908
+Daily News, September 19th, 1908
 
-`WORKING OUT THE BRUTE'
+‘WORKING OUT THE BRUTE'
 
 The worst result of popular evolutionism has been this.
 It has substituted the Beast for the Devil.  It has made us think
-that our enemy is what they call our `lower [[Nature|nature]]', which means our
+that our enemy is what they call our ‘lower [[Nature|nature]]', which means our
 mere lusts and appetites, things entirely [[Innocent|innocent]] in themselves.
 The most typical moderns have joined in this.  Tennyson, for instance,
-spoke of moral improvement as `moving upward, working out the brute'.
+spoke of moral improvement as ‘moving upward, working out the brute'.
 But was he right?  Why should we work out the brute?
 I no more desire, as such, to work out the brute from myself than
 to work out the brute from between the shafts of a hansom cab.
@@ -10708,7 +10708,7 @@ You may move upwards, working out the brute, and not work
 them out in the least.  Nay, you may work them in.
 The less beastly you grow, the more bad you may grow.
 
-                                            Daily News, February 3rd, 1906
+Daily News, February 3rd, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10755,7 +10755,7 @@ la piccola; che l'Umanità è l'enorme [[house|casa]] in cui vivo,
 mentre l'Evoluzione è il piccolo ma interessante animale che
 da pochissimo ha chiesto di esservi addomesticato.
 
-                                          Daily News, 19 settembre 1908
+Daily News, 19 settembre 1908
 
 «ESPELLERE LA BESTIA»
 
@@ -10785,11 +10785,11 @@ Puoi salire in alto, espellendo la bestia, e non espellere
 affatto quelli.  Anzi, puoi anzi coltivarli.
 Meno bestiale diventi, più cattivo puoi diventare.
 
-                                            Daily News, 3 febbraio 1906
+Daily News, 3 febbraio 1906
 
 
 
-<span class="atom-split" data-atom="story_91_orange_peel_and_the_fall" data-title="Man Orthodox — Orange Peel And The Fall" data-chapter="Story 91 Orange Peel And The Fall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_91_orange_peel_and_the_fall" data-title="Man Orthodox — Orange Peel And The Fall" data-chapter="Orange Peel And The Fall" data-kind="story"></span>
 
 
 ORANGE PEEL AND THE FALL
@@ -10804,7 +10804,7 @@ Even if we do not admit the Fall of Man, we must admit his continuous
 state of the staggers.  The apple that Eve ate was an orange;
 and its peel has ever since strewed the ways of the world.
 
-                                             The Bystander, May 11th, 1904
+The Bystander, May 11th, 1904
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10821,11 +10821,11 @@ Anche se non ammettiamo la Caduta dell'Uomo, dobbiamo ammettere il suo continuo
 stato di barcollamento.  La mela che Eva mangiò era un'arancia;
 e la sua buccia da allora ha cosparso le vie del mondo.
 
-                                             The Bystander, 11 maggio 1904
+The Bystander, 11 maggio 1904
 
 
 
-<span class="atom-split" data-atom="story_92_original_sin" data-title="Man Orthodox — Original Sin" data-chapter="Story 92 Original Sin" data-kind="story"></span>
+<span class="atom-split" data-atom="story_92_original_sin" data-title="Man Orthodox — Original Sin" data-chapter="Original Sin" data-kind="story"></span>
 
 
 ORIGINAL SIN
@@ -10840,7 +10840,7 @@ everything in a man is not trying to make what we call a good man.
 Or this way:  that virtue is a creditable thing and not merely,
 like the greenness of a cabbage, an admirable thing.
 
-                                           Daily News, September 2nd, 1905
+Daily News, September 2nd, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10857,11 +10857,11 @@ ogni cosa in un uomo non tende a fare ciò che chiamiamo un buon uomo.
 Oppure così:  che la virtù è cosa meritoria e non soltanto,
 come il verde di un cavolo, cosa ammirevole.
 
-                                           Daily News, 2 settembre 1905
+Daily News, 2 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_93_the_outline_of_the_fall" data-title="Man Orthodox — The Outline Of The Fall" data-chapter="Story 93 The Outline Of The Fall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_93_the_outline_of_the_fall" data-title="Man Orthodox — The Outline Of The Fall" data-chapter="The Outline Of The Fall" data-kind="story"></span>
 
 
 THE OUTLINE OF THE FALL
@@ -10893,8 +10893,8 @@ when it was turned into an image; there is room for any amount
 of hope and imagination about what it will look like when it is
 really mended and made into the perfect statue we have never seen.
 But it has the two fixed points, that man was uplifted at the first
-and fell; and to answer it by saying `Where is the [[Garden]] of Eden?'
-is like answering a philosophical Buddhist by saying `When
+and fell; and to answer it by saying ‘Where is the [[Garden]] of Eden?'
+is like answering a philosophical Buddhist by saying ‘When
 were you last a donkey?'
 
 The Fall is a view of life.  It is not only the only enlightening
@@ -10913,20 +10913,20 @@ on the fact that no social progress really seems to leave self behind;
 on the fact that the first and not the last men of any school
 or revolution are generally the best and purest, as William Penn
 was better than a Quaker millionaire or Washington better than
-an American oil magnate; on that proverb which says `The price
+an American oil magnate; on that proverb which says ‘The price
 of liberty is eternal vigilance', which is only what the theologians
 say of every other virtue and is itself only a way of stating
 the [[Truth|truth]] of [[Original Sin|original sin]]; on those extremes of good and evil by
 which man exceeds all the [[Animals|animals]] by the measure of heaven and hell;
 on that [[Sublime|sublime]] sense of loss that is in the very sound of all
 great poetry, and nowhere more than in the poetry of pagans
-and sceptics--`We look before and after and pine for what is not';
+and sceptics--‘We look before and after and pine for what is not';
 which cries against all prigs and progressives out of the very
 depths and abysses of the broken heart of man that happiness
 is not only a hope but also in some strange manner a memory;
 and that we are all kings in exile.
 
-                                      G. K.'s Weekly, September 25th, 1926
+G. K.'s Weekly, September 25th, 1926
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10993,11 +10993,11 @@ stesse e dagli abissi del cuore spezzato dell'uomo che la felicità
 non è soltanto una speranza, ma anche, in qualche strano modo, un ricordo;
 e che siamo tutti re in esilio.
 
-                                      G. K.'s Weekly, 25 settembre 1926
+G. K.'s Weekly, 25 settembre 1926
 
 
 
-<span class="atom-split" data-atom="story_94_neurosis" data-title="Man Orthodox — Neurosis" data-chapter="Story 94 Neurosis" data-kind="story"></span>
+<span class="atom-split" data-atom="story_94_neurosis" data-title="Man Orthodox — Neurosis" data-chapter="Neurosis" data-kind="story"></span>
 
 
 NEUROSIS
@@ -11008,7 +11008,7 @@ The morbid thing is to conceal your sins and let them eat
 your heart out, which is the happy state of most people
 in highly civilized communities.
 
-                                            Daily News, January 18th, 1908
+Daily News, January 18th, 1908
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11021,11 +11021,11 @@ La cosa morbosa è nascondere i propri peccati e lasciare che ti divorino
 il cuore, che è il felice stato della maggior parte della gente
 nelle comunità altamente civilizzate.
 
-                                            Daily News, 18 gennaio 1908
+Daily News, 18 gennaio 1908
 
 
 
-<span class="atom-split" data-atom="story_95_the_battle" data-title="Man Orthodox — The Battle" data-chapter="Story 95 The Battle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_95_the_battle" data-title="Man Orthodox — The Battle" data-chapter="The Battle" data-kind="story"></span>
 
 
 THE BATTLE
@@ -11034,7 +11034,7 @@ The true secret and hope of human life is something much more dark
 and beautiful than it would be if suffering were a mark of sin.
 A mere scheme of rewards and punishments would be some thing much meaner
 and more mechanical than this exasperating and inspiring life of ours.
-An automatic scheme of `Karma' or `reaping what we sow' would be
+An automatic scheme of ‘Karma' or ‘reaping what we sow' would be
 just as gross and material as sowing beans or reaping barley.
 It might satisfy mechanicians or monists or theosophists or
 cautious financiers, but not brave men.  It is no paradox to say
@@ -11049,7 +11049,7 @@ In the book of Job is foreshadowed that better doctrine, full of
 a dark chivalry, that he that bore the worst that man can suffer
 was the best that bore the form of man.
 
-                                          The Speaker, September 9th, 1905
+The Speaker, September 9th, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11075,11 +11075,11 @@ Nel libro di Giobbe è prefigurata quella dottrina migliore, piena di
 una oscura cavalleria, che colui che sopportò il peggio che l'uomo possa soffrire
 era il migliore tra quanti portarono la forma dell'uomo.
 
-                                          The Speaker, 9 settembre 1905
+The Speaker, 9 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_96_the_decoration" data-title="Man Orthodox — The Decoration" data-chapter="Story 96 The Decoration" data-kind="story"></span>
+<span class="atom-split" data-atom="story_96_the_decoration" data-title="Man Orthodox — The Decoration" data-chapter="The Decoration" data-kind="story"></span>
 
 
 THE DECORATION
@@ -11095,7 +11095,7 @@ that suffering may be a strange honour and not a vulgar punishment;
 that the King may be conferring a decoration when he pins the man
 on the cross, as much as when he pins the cross on the man.
 
-                              Illustrated London News, February 10th, 1906
+Illustrated London News, February 10th, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11113,11 +11113,11 @@ che la sofferenza può essere uno strano onore e non un volgare castigo;
 che il Re può conferire un'onorificenza quando inchioda l'uomo
 sulla croce, tanto quanto quando appunta la croce sull'uomo.
 
-                              Illustrated London News, 10 febbraio 1906
+Illustrated London News, 10 febbraio 1906
 
 
 
-<span class="atom-split" data-atom="story_97_surprise" data-title="Man Orthodox — Surprise" data-chapter="Story 97 Surprise" data-kind="story"></span>
+<span class="atom-split" data-atom="story_97_surprise" data-title="Man Orthodox — Surprise" data-chapter="Surprise" data-kind="story"></span>
 
 
 SURPRISE
@@ -11125,7 +11125,7 @@ SURPRISE
 Of one thing I am certain, that the age needs, first and foremost
 to be startled; to be taught the nature of wonder.
 
-                                      Black and White, February 14th, 1903
+Black and White, February 14th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11135,11 +11135,11 @@ SORPRESA
 Di una cosa sono certo: che l'epoca ha bisogno, prima e più di tutto,
 di essere sorpresa; di essere ammaestrata sulla natura della meraviglia.
 
-                                      Black and White, 14 febbraio 1903
+Black and White, 14 febbraio 1903
 
 
 
-<span class="atom-split" data-atom="story_98_the_philosophy_of_pumpkins" data-title="Man Orthodox — The Philosophy Of Pumpkins" data-chapter="Story 98 The Philosophy Of Pumpkins" data-kind="story"></span>
+<span class="atom-split" data-atom="story_98_the_philosophy_of_pumpkins" data-title="Man Orthodox — The Philosophy Of Pumpkins" data-chapter="The Philosophy Of Pumpkins" data-kind="story"></span>
 
 
 THE PHILOSOPHY OF PUMPKINS
@@ -11155,11 +11155,11 @@ goes on being a pumpkin?  If you do not, you cannot possibly tell
 whether a pumpkin could turn into a coach or couldn't. That is all.
 
 All the other scientific expressions you are in the habit of
-using at breakfast are words and winds.  You say, `It is a law
+using at breakfast are words and winds.  You say, ‘It is a law
 of [[Nature|nature]] that pumpkins should remain pumpkins'.  That only means
 that pumpkins generally do remain pumpkins, which is obvious;
-it does not say why.  You say, `Experience is against it'.
-That only means, `I have known many pumpkins intimately and none
+it does not say why.  You say, ‘Experience is against it'.
+That only means, ‘I have known many pumpkins intimately and none
 of them turned into coaches'.  ...
 
 What [[Christianity]] says is merely this--that this repetition
@@ -11177,9 +11177,9 @@ If you do not think it extraordinary that a pumpkin is always
 a pumpkin, think again.  You have not yet even begun [[philosophy]].
 You have not even seen a pumpkin.
 
-                                           Daily News, September 2nd, 1905
+Daily News, September 2nd, 1905
 
-`IN THE BEGINNING'
+‘IN THE BEGINNING'
 
 What is right with the world is the world.  In fact, nearly every thing
 else is wrong with it.  This is that great truth in the tremendous
@@ -11233,7 +11233,7 @@ the world is to be alive; one is always in danger of one's life.
 But anyone who shrinks from this is a traitor to the great scheme
 and experiment of being.
 
-                                    T. P.'s Weekly, Christmas Number, 1910
+T. P.'s Weekly, Christmas Number, 1910
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11273,7 +11273,7 @@ Se non ritenete straordinario che una zucca sia sempre
 una zucca, ripensateci.  Non avete ancora nemmeno cominciato la [[philosophy|filosofia]].
 Non avete nemmeno visto una zucca.
 
-                                           Daily News, 2 settembre 1905
+Daily News, 2 settembre 1905
 
 «IN PRINCIPIO»
 
@@ -11329,11 +11329,11 @@ mondo è essere vivi; si è sempre in pericolo di vita.
 Ma chiunque si ritragga da questo è un traditore del grande disegno
 e dell'esperimento dell'essere.
 
-                                    T. P.'s Weekly, Numero di Natale, 1910
+T. P.'s Weekly, Numero di Natale, 1910
 
 
 
-<span class="atom-split" data-atom="story_99_the_sage" data-title="Man Orthodox — The Sage" data-chapter="Story 99 The Sage" data-kind="story"></span>
+<span class="atom-split" data-atom="story_99_the_sage" data-title="Man Orthodox — The Sage" data-chapter="The Sage" data-kind="story"></span>
 
 
 THE SAGE
@@ -11382,9 +11382,9 @@ to this class in a pre-eminent degree was Walt Whitman.
 Critics fuss themselves for ever about whether he was a poet
 or a prose writer.  As a matter of fact, he was neither
 a poet nor a prose writer; he was a sayer of great things.
-He excelled in a sort of primeval epigram.  `I do not give
+He excelled in a sort of primeval epigram.  ‘I do not give
 lectures or a little [[Charity|charity]]; when I give, I give myself.'
-`Do we find life so well provided for and think that death is not
+‘Do we find life so well provided for and think that death is not
 equally well provided for?'  These have all the characteristics
 of the logia on which were founded the larger faiths of mankind.
 And Whitman would have much preferred to have shouted them
@@ -11411,7 +11411,7 @@ For him the pity of God was so positive as to be a definite
 passion like thirst; it was a fierce tenderness; he was never
 fired of saying that his God was a consuming fire.
 
-                                          Daily News, September 23rd, 1905
+Daily News, September 23rd, 1905
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11462,9 +11462,9 @@ a questa classe in grado eminente fu Walt Whitman.
 I critici si affannano in eterno a stabilire se fosse un poeta
 o un prosatore.  In realtà non era né
 poeta né prosatore; era un dicitore di grandi cose.
-Eccelleva in una sorta di epigramma primevo.  `Non tengo
+Eccelleva in una sorta di epigramma primevo.  ‘Non tengo
 conferenze né faccio una piccola [[Charity|carità]]; quando dono, dono me stesso.'
-`Troviamo la vita così ben provveduta e pensiamo che la morte non sia
+‘Troviamo la vita così ben provveduta e pensiamo che la morte non sia
 provveduta altrettanto bene?'  Queste hanno tutti i caratteri
 dei logia su cui furono fondate le maggiori fedi dell'umanità.
 E Whitman avrebbe di gran lunga preferito gridarle
@@ -11491,11 +11491,11 @@ Per lui la pietà di Dio era tanto positiva da essere una passione
 definita come la sete; era una tenerezza feroce; non si stancava
 mai di dire che il suo Dio era un fuoco divorante.
 
-                                          Daily News, 23 settembre 1905
+Daily News, 23 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_100_intimations" data-title="Man Orthodox — Intimations" data-chapter="Story 100 Intimations" data-kind="story"></span>
+<span class="atom-split" data-atom="story_100_intimations" data-title="Man Orthodox — Intimations" data-chapter="Intimations" data-kind="story"></span>
 
 
 INTIMATIONS
@@ -11519,9 +11519,9 @@ it has spread over the whole world, full of too many wonders to
 be wondered at.
 
 Here enters the psychological educationist with his subconsciousness
-and his first impressions, to remark shrewdly, `This is because
+and his first impressions, to remark shrewdly, ‘This is because
 somebody in your [[Childhood|childhood]] gave you a wooden [[Horse|horse]] or painted it
-white for you'.  To which I reply respectfully, `Yes, fool, yes.
+white for you'.  To which I reply respectfully, ‘Yes, fool, yes.
 Admirable and astonishing idiot, quite so.  But has it ever
 occurred to you to ask why a pot of paint and a piece of wood
 should blaze with divine beauty to anybody at any time; or why they
@@ -11529,7 +11529,7 @@ should do it to a child of four any more than to a man of forty?
 When you have retired for a few years to reflect on the point,
 we will resume this conversation.'
 
-                                          The New Witness, June 17th, 1921
+The New Witness, June 17th, 1921
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11540,11 +11540,11 @@ Matthew Arnold non diceva spesso cose del tutto sciocche, ma lo fece quando rimp
 
 Qui entra in scena l'educatore psicologo con il suo subconscio e le sue prime impressioni, per osservare con acume: «Questo accade perché qualcuno, nella tua [[Childhood|infanzia]], ti diede un [[Horse|cavallo]] di legno o te lo dipinse di bianco». Al che rispondo rispettosamente: «Sì, sciocco, sì. Ammirevole e sbalorditivo idiota, proprio così. Ma ti è mai venuto in mente di chiederti perché un barattolo di vernice e un pezzo di legno debbano fiammeggiare di divina bellezza per chiunque e in qualunque momento; o perché debbano farlo per un bambino di quattro anni più che per un uomo di quaranta? Quando ti sarai ritirato per qualche anno a riflettere sul punto, riprenderemo questa conversazione».
 
-                                          The New Witness, 17 giugno 1921
+The New Witness, 17 giugno 1921
 
 
 
-<span class="atom-split" data-atom="story_101_the_little_things" data-title="Man Orthodox — The Little Things" data-chapter="Story 101 The Little Things" data-kind="story"></span>
+<span class="atom-split" data-atom="story_101_the_little_things" data-title="Man Orthodox — The Little Things" data-chapter="The Little Things" data-kind="story"></span>
 
 
 THE LITTLE THINGS
@@ -11562,19 +11562,19 @@ himself to a point, without parts or magnitude, so that to him
 the grass is really a forest and the grasshopper a dragon.
 Little things please great minds.
 
-                                          The Speaker, December 15th, 1900
+The Speaker, December 15th, 1900
 
-`MERE [[Paradox|PARADOX]]'
+‘MERE [[Paradox|PARADOX]]'
 
 The simplest and commonest of all the causes which lead to the charge of
-`mere paradox' being slung about as it is, is one fundamental assumption.
+‘mere paradox' being slung about as it is, is one fundamental assumption.
 Everybody takes it for granted that universal and ordinary arrangements,
 historic institutions, daily habits are reasonable.  They are good,
 they are sensible, they are holy and splendid often enough, but they
 are not reasonable.  They are themselves paradoxes; paradox is built
 into the very foundations of human affairs.
 
-                                      Black and White, February 14th, 1903
+Black and White, February 14th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11583,17 +11583,17 @@ LE PICCOLE COSE
 
 Sir Thomas Browne era un mistico sublime [il cui misticismo] doveva molto al proprio stile letterario. Lo stile, nel senso che gli dava, non significava soltanto suono, ma il tentativo di conferire qualche guizzo di arguzia o di simbolismo a ogni proposizione o parentesi; quando riprendeva in mano la propria opera, non si limitava a lucidare l'ottone: vi incastonava l'oro. Questa abitudine di lavorare con la lente d'ingrandimento, questo rigirare e cesellare le parole minori, è il vero genitore del misticismo; poiché il mistico non è tanto un uomo che venera le cose grandi quanto un uomo che venera le piccole, che si riduce a un punto, senza parti né grandezza, così che per lui l'erba è davvero una foresta e la cavalletta un drago. Le piccole cose dilettano le grandi menti.
 
-                                          The Speaker, 15 dicembre 1900
+The Speaker, 15 dicembre 1900
 
 «MERO [[Paradox|PARADOSSO]]»
 
 La più semplice e comune di tutte le cause che portano a scagliare, come si usa, l'accusa di «mero paradosso», è un presupposto fondamentale. Tutti danno per scontato che le disposizioni universali e ordinarie, le istituzioni storiche, le abitudini quotidiane siano ragionevoli. Sono buone, sono sensate, sono sovente sante e splendide, ma non sono ragionevoli. Sono esse stesse paradossi; il paradosso è edificato nelle fondamenta stesse delle vicende umane.
 
-                                      Black and White, 14 febbraio 1903
+Black and White, 14 febbraio 1903
 
 
 
-<span class="atom-split" data-atom="story_102_the_hippopotamus_and_the_crocodile" data-title="Man Orthodox — The Hippopotamus And The Crocodile" data-chapter="Story 102 The Hippopotamus And The Crocodile" data-kind="story"></span>
+<span class="atom-split" data-atom="story_102_the_hippopotamus_and_the_crocodile" data-title="Man Orthodox — The Hippopotamus And The Crocodile" data-chapter="The Hippopotamus And The Crocodile" data-kind="story"></span>
 
 
 THE HIPPOPOTAMUS AND THE CROCODILE
@@ -11628,13 +11628,13 @@ They typify that cosmic trait which anyone may see in the
 Zoological Gardens, the folly of the Lord which is wisdom.
 And in connection with one of them, God is made to utter a splendid
 satire upon the prim and orderly piety of the vulgar optimist.
-`Wilt thou play with him as with a bird?  Wilt thou bind him
+‘Wilt thou play with him as with a bird?  Wilt thou bind him
 for thy maidens?'  That is the main message of the book of Job.
 What ever this cosmic [[Monster|monster]] may be, a good animal or a
 bad animal, he is at least a wild animal and not a tame animal.
 It is a wild world and not a tame world.
 
-                                          The Speaker, September 9th, 1905
+The Speaker, September 9th, 1905
 
 CHANGE AND [[Decay|DECAY]]
 
@@ -11643,7 +11643,7 @@ a dismal fall from the old talk about right and wrong.
 Our fathers said that a nation had sinned and suffered, like a man.
 We say it has decayed, like a [[cheese]].
 
-                                  Illustrated [[London]] News, July 10th, 1920
+Illustrated [[London]] News, July 10th, 1920
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11686,7 +11686,7 @@ Qualunque cosa sia questo [[Monster|mostro]] cosmico, un animale buono o
 un animale cattivo, è quantomeno un animale selvaggio e non un animale addomesticato.
 È un mondo selvaggio e non un mondo addomesticato.
 
-                                          The Speaker, 9 settembre 1905
+The Speaker, 9 settembre 1905
 
 MUTAMENTO E [[Decay|DECADENZA]]
 
@@ -11695,11 +11695,11 @@ una caduta desolante rispetto all'antico parlare di giusto e sbagliato.
 I nostri padri dicevano che una nazione aveva peccato e sofferto, come un uomo.
 Noi diciamo che si è decomposta, come un [[cheese|formaggio]].
 
-                                  Illustrated [[London]] News, 10 luglio 1920
+Illustrated [[London]] News, 10 luglio 1920
 
 
 
-<span class="atom-split" data-atom="story_103_the_enemies_of_joy" data-title="Man Orthodox — The Enemies Of Joy" data-chapter="Story 103 The Enemies Of Joy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_103_the_enemies_of_joy" data-title="Man Orthodox — The Enemies Of Joy" data-chapter="The Enemies Of Joy" data-kind="story"></span>
 
 
 THE ENEMIES OF JOY
@@ -11764,7 +11764,7 @@ popular if it is expanded into the awning of a universal pavilion,
 placarded with advertisements of pills or pictures of mixed bathing.
 I have seen even the gun excused if it is a big enough gun
 manufactured by a big enough firm; and the axe counted [[Innocent|innocent]]
-if it is what we call `an axe to grind'.  Yet all this paradise
+if it is what we call ‘an axe to grind'.  Yet all this paradise
 of perfect happiness fails to lift my heart or reawaken the faintest
 hint of that first romantic interest in Robinson Crusoe.
 And the reason is that this sort of sweeping generalization,
@@ -11796,7 +11796,7 @@ They are leaving it further and further behind, the more they
 accumulate more luxuries than they can enjoy or combine more
 pleasures than they can distinguish.
 
-                                        G. K.'s Weekly, October 11th, 1930
+G. K.'s Weekly, October 11th, 1930
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11811,11 +11811,11 @@ Da allora ho visto qualcosa che pretende di essere la [[philosophy|filosofia]] c
 
 Ora, sono fondamentalmente convinto che l'unica cosa che meriti il nome di brivido (per usare il gergo giovanile d'oggi) sia il pensiero che sopraggiunge nel passaggio dal naufragio al salvataggio. Appartiene a una classe di pensieri che sono meglio rappresentati dal ringraziamento, ma che sono all'incirca rappresentati da una realizzazione immaginativa di ciò che è e di ciò che avrebbe potuto essere. Esiste su un margine, come il margine tra la terra e il mare; ed è ignoto al suicida che si sente naufrago in mezzo all'oceano, come al colono soddisfatto di sé che si è spinto tanto addentro nell'entroterra da dimenticare il luminoso timore, il fulgido mistero del mare. Ogni felicità autentica che io abbia mai avuto, o che abbia mai visto avere da altri, aveva in sé qualcosa di quella prima estraneità e timidezza; e si perde tanto per l'orgoglio del possesso quanto per l'orgoglio del rifiuto. Perciò coloro che dicono di correre in cerca del brivido, in realtà stanno correndo lontano dal brivido. Se lo lasciano sempre più indietro, quanto più accumulano più lussi di quanti ne possano godere, o combinano più piaceri di quanti ne possano distinguere.
 
-                                        G. K.'s Weekly, 11 ottobre 1930
+G. K.'s Weekly, 11 ottobre 1930
 
 
 
-<span class="atom-split" data-atom="story_104_autobiography" data-title="Man Orthodox — Autobiography" data-chapter="Story 104 Autobiography" data-kind="story"></span>
+<span class="atom-split" data-atom="story_104_autobiography" data-title="Man Orthodox — Autobiography" data-chapter="Autobiography" data-kind="story"></span>
 
 
 AUTOBIOGRAPHY
@@ -11829,7 +11829,7 @@ I should say that my literary life has lasted from a time
 when men were losing happiness by despair to a time when they
 are losing it by presumption.
 
-                                                Blackfriars, January, `923
+Blackfriars, January, ‘923
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -11838,18 +11838,18 @@ AUTOBIOGRAFIA
 
 Le eresie che ai miei tempi hanno assalito la felicità umana sono state tutte varianti o della presunzione o della disperazione; le quali, nelle controversie della cultura moderna, si chiamano ottimismo e pessimismo. E se volessi scrivere un'autobiografia in una sola frase (e spero di non doverne mai scrivere una più lunga), direi che la mia vita letteraria si è protratta da un tempo in cui gli uomini perdevano la felicità per disperazione a un tempo in cui la stanno perdendo per presunzione.
 
-                                                Blackfriars, gennaio 1923
+Blackfriars, gennaio 1923
 
 
 
-<span class="atom-split" data-atom="story_105_life_and_liberty" data-title="Man Orthodox — Life And Liberty" data-chapter="Story 105 Life And Liberty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_105_life_and_liberty" data-title="Man Orthodox — Life And Liberty" data-chapter="Life And Liberty" data-kind="story"></span>
 
 
 LIFE AND LIBERTY
 
-    (This next passage was obviously not written by Chesterton. It is
-    presumably a write-up of an interview with him but is worth including
-    here for its intrinsic interest.)
+(This next passage was obviously not written by Chesterton. It is
+presumably a write-up of an interview with him but is worth including
+here for its intrinsic interest.)
 
 I was brought up in a fairly typical middle-class English family.
 My father had been prosperous in business and he had felt that something
@@ -11875,7 +11875,7 @@ This marvel fascinated me, as it does today.
 And I said to myself--or I might have said to myself--[[Well|well]], is not
 that enough?  And Echo might have answered:
 
-`Yes, it is enough.  If you see it.  And if you will always see it.'
+‘Yes, it is enough.  If you see it.  And if you will always see it.'
 Rather a large mouthful for Echo!  But as a matter of fact,
 that is what Echo said.
 
@@ -11885,7 +11885,7 @@ as I say, thinking led up to it.
 I got hold of Leaves of Grass by Watt Whitman, I called it then
 a revelation.  It put in black and white the things I had always known.
 The glory and magic of God's universe--the shows of night and day
-and `in the midst, God's beautiful right hand'.
+and ‘in the midst, God's beautiful right hand'.
 
 [[Well]], very soon I found that those who imitated Whitman's irregular
 lines missed out the [[Magic|magic]] of the universe and were definitely
@@ -11978,16 +11978,16 @@ did not protest.
 These things endure:  life and liberty and the boundless [[Magic|magic]]
 of [[Night|night]] and day--and what comes after.
 
-                                              Daily [[Sketch]], May 14th, 1931
+Daily [[Sketch]], May 14th, 1931
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 VITA E LIBERTÀ
 
-    (Questo brano evidentemente non fu scritto da Chesterton. Si tratta
-    presumibilmente della trascrizione di un'intervista con lui, ma vale la pena
-    includerlo qui per il suo interesse intrinseco.)
+(Questo brano evidentemente non fu scritto da Chesterton. Si tratta
+presumibilmente della trascrizione di un'intervista con lui, ma vale la pena
+includerlo qui per il suo interesse intrinseco.)
 
 Fui allevato in una famiglia inglese borghese abbastanza tipica. Mio padre era stato un uomo d'affari prospero e aveva sentito che occorreva qualcosa di più degli affari per mettersi in pace con l'universo.
 
@@ -12063,11 +12063,11 @@ Il protestantesimo mi deluse e gli ho voltato le spalle, perché non protestava.
 
 Queste cose durano: la vita e la libertà e la sconfinata [[Magic|magia]] della [[Night|notte]] e del giorno—e ciò che viene dopo.
 
-                                              Daily [[Sketch]], 14 maggio 1931
+Daily [[Sketch]], 14 maggio 1931
 
 
 
-<span class="atom-split" data-atom="story_106_the_lesson" data-title="Man Orthodox — The Lesson" data-chapter="Story 106 The Lesson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_106_the_lesson" data-title="Man Orthodox — The Lesson" data-chapter="The Lesson" data-kind="story"></span>
 
 
 THE LESSON
@@ -12076,7 +12076,7 @@ Pessimism is a thing which is learnt from books, as sorrow
 is a thing learnt from life.  Sorrow can never be pessimistic,
 for it is founded upon the value of things.
 
-                                               Daily News, June 13th, 1903
+Daily News, June 13th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12087,11 +12087,11 @@ Il pessimismo è cosa che s'impara dai libri, come il dolore
 è cosa che s'impara dalla vita.  Il dolore non può mai essere pessimista,
 poiché si fonda sul valore delle cose.
 
-                                               Daily News, 13 giugno 1903
+Daily News, 13 giugno 1903
 
 
 
-<span class="atom-split" data-atom="story_107_the_true_critic" data-title="Man Orthodox — The True Critic" data-chapter="Story 107 The True Critic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_107_the_true_critic" data-title="Man Orthodox — The True Critic" data-chapter="The True Critic" data-kind="story"></span>
 
 
 THE TRUE CRITIC
@@ -12128,7 +12128,7 @@ with the greatest suspicion his own limitations and rejections.
 His praise will almost certainly be sound; his blame should always
 remain to his own mind a little dubious.
 
-                                                The Speaker, May 3rd, 1902
+The Speaker, May 3rd, 1902
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12167,31 +12167,31 @@ con il più grande sospetto i propri limiti e i propri rifiuti.
 La sua lode sarà quasi certamente fondata; il suo biasimo dovrebbe sempre
 restare, alla sua stessa mente, un poco dubbio.
 
-                                                The Speaker, 3 maggio 1902
+The Speaker, 3 maggio 1902
 
 
 
-<span class="atom-split" data-atom="story_108_fairy_tales" data-title="Man Orthodox — Fairy Tales" data-chapter="Story 108 Fairy Tales" data-kind="story"></span>
+<span class="atom-split" data-atom="story_108_fairy_tales" data-title="Man Orthodox — Fairy Tales" data-chapter="Fairy Tales" data-kind="story"></span>
 
 
 FAIRY TALES
 
 Fairy tales are the only true accounts that man has ever given
-of his destiny.  `Jack the Giant-Killer' is the embodiment
+of his destiny.  ‘Jack the Giant-Killer' is the embodiment
 of the first of the three great paradoxes by which men live.
 It is the paradox of Courage:  the paradox which says,
-`You must defy the thing that is terrifying; unless you
-are frightened, you are not brave.'  `Cinderella' is the
+‘You must defy the thing that is terrifying; unless you
+are frightened, you are not brave.'  ‘Cinderella' is the
 embodiment of the second of the paradoxes by which men live:
-the paradox of Humility which says `Look for the best in the thing,
+the paradox of Humility which says ‘Look for the best in the thing,
 ignorant of its merit; he that abases himself shall be exalted'.
-And `Beauty and the Beast' is the embodiment of the third
+And ‘Beauty and the Beast' is the embodiment of the third
 of the paradoxes by which men live:  the paradox of Faith--
 the absolutely necessary and wildly unreasonable maxim which says
 to every mother with a child or to every patriot with a country,
-`You must [[Love|love]] the thing first and make it lovable after wards.'
+‘You must [[Love|love]] the thing first and make it lovable after wards.'
 
-                                           The World, September 27th, 1904
+The World, September 27th, 1904
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12213,11 +12213,11 @@ la massima assolutamente necessaria e follemente irragionevole che dice
 a ogni madre con un figlio o a ogni patriota con una patria,
 «Devi prima [[Love|amare]] la cosa, e renderla amabile in seguito».
 
-                                           The World, 27 settembre 1904
+The World, 27 settembre 1904
 
 
 
-<span class="atom-split" data-atom="story_109_the_ethics_of_fairyland" data-title="Man Orthodox — The Ethics Of Fairyland" data-chapter="Story 109 The Ethics Of Fairyland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_109_the_ethics_of_fairyland" data-title="Man Orthodox — The Ethics Of Fairyland" data-chapter="The Ethics Of Fairyland" data-kind="story"></span>
 
 
 THE ETHICS OF FAIRYLAND
@@ -12256,7 +12256,7 @@ from the entire absence of the [[Supernatural|supernatural]] in fairy tales.
 There is no miraculous department there, nothing conceived
 as outrageous or exceptional, nothing that recalls crystal-gazing
 and planchette.  There is no trace or hint of that modern
-`spiritual world' which implies that this world is not spiritual.
+‘spiritual world' which implies that this world is not spiritual.
 In the fairy tales, portents are orderly and inevitable;
 they are part of the very texture of natural life.
 In a place so strange as this earth it is as natural to meet
@@ -12291,7 +12291,7 @@ such thing as a dustbin in the house of God.
 This is one very characteristic moral of fairy tales,
 the idea of the indestructibility of an essence or an act.
 Another fully as common and even more essential is the great idea
-which lies at the heart of the story of `[[Beauty]] and the Beast'
+which lies at the heart of the story of ‘[[Beauty]] and the Beast'
 and a hundred kindred tales; the idea that by loving a thing
 we make it beautiful.  The fairy tale warns us to be on our
 guard against the disguises of things and to regard every ugly
@@ -12313,7 +12313,7 @@ the most savage stories with which we have to deal in anthropology.
 For the fairy tale is only the [[history]] of man himself, at once
 the weakest and the strongest of the creatures.
 
-                                           The Speaker, October 12th, 1901
+The Speaker, October 12th, 1901
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12411,11 +12411,11 @@ delle storie più selvagge di cui abbiamo a che fare nell'antropologia.
 Poiché la fiaba non è altro che la [[history|storia]] dell'uomo stesso, a un tempo
 la più debole e la più forte delle creature.
 
-                                           The Speaker, 12 ottobre 1901
+The Speaker, 12 ottobre 1901
 
 
 
-<span class="atom-split" data-atom="story_110_divine_immanence" data-title="Man Orthodox — Divine Immanence" data-chapter="Story 110 Divine Immanence" data-kind="story"></span>
+<span class="atom-split" data-atom="story_110_divine_immanence" data-title="Man Orthodox — Divine Immanence" data-chapter="Divine Immanence" data-kind="story"></span>
 
 
 DIVINE IMMANENCE
@@ -12453,7 +12453,7 @@ its gifts received, intensely and with [[Humility|humility]] and it is
 possible to look at one of them steadily and confidently until,
 with a great cry, it gives up its god.
 
-                                              Daily News, March 24th, 1903
+Daily News, March 24th, 1903
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12493,11 +12493,11 @@ che i suoi doni siano ricevuti, intensamente e con [[Humility|umiltà]], ed è
 possibile guardare a uno di essi con fermezza e fiducia finché,
 con un grande grido, esso rende il suo dio.
 
-                                              Daily News, 24 marzo 1903
+Daily News, 24 marzo 1903
 
 
 
-<span class="atom-split" data-atom="story_111_a_local_habitation" data-title="Man Orthodox — A Local Habitation" data-chapter="Story 111 A Local Habitation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_111_a_local_habitation" data-title="Man Orthodox — A Local Habitation" data-chapter="A Local Habitation" data-kind="story"></span>
 
 
 A LOCAL HABITATION
@@ -12513,20 +12513,20 @@ We might almost say that all poetry is a description of it.
 Even when you have only natural religion, you will still
 have [[Supernatural|supernatural]] poetry.  And it will be poetic because it
 is particular, not because it is general.  The new priest
-may proclaim, `The sea is God, the land is God and the sky
+may proclaim, ‘The sea is God, the land is God and the sky
 is God; but yet there are not three Gods, but one God'.
 But even if the old priest be silenced, the old poet will
-always answer, `God is in a [[Cave|cave]]; God is in a stable; God is
+always answer, ‘God is in a [[Cave|cave]]; God is in a stable; God is
 disguised and hidden.  I [[Alone|alone]] know where he is; he is herding
 the cattle of Admetus, he is pouring out the wine of Cana.'
-The new republic may make the philosophical declaration, `We hold
+The new republic may make the philosophical declaration, ‘We hold
 these truths to be self-evident, that all trees are evolved
 equal and endowed with the dignity of creative evolution.'
 But if in the silence that follows we overhear the poor nurse
 or the peasant mother telling fairy tales to the children,
-she will always be saying, `And in the seventh [[Garden|garden]] beyond
+she will always be saying, ‘And in the seventh [[Garden|garden]] beyond
 the seventh gate was the tree with the golden apples';
-or `They sailed and sailed until they came to an island, and on
+or ‘They sailed and sailed until they came to an island, and on
 the island was a meadow, and in the meadow the tree of life'...
 
 Now if this particularism always stubbornly recurs
@@ -12559,7 +12559,7 @@ actually narrows as we draw nearer to it, till we find that
 the trailing meteor is something like a light in a window
 or a candle in a room.
 
-                                              New Witness, July 15th, 1921
+New Witness, July 15th, 1921
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12623,11 +12623,11 @@ in realtà si restringe man mano che le ci avviciniamo, finché scopriamo
 che la meteora dalla scia è qualcosa di simile a una luce in una finestra
 o a una candela in una stanza.
 
-                                              New Witness, 15 luglio 1921
+New Witness, 15 luglio 1921
 
 
 
-<span class="atom-split" data-atom="story_112_sacrament_or_magic" data-title="Man Orthodox — Sacrament Or Magic" data-chapter="Story 112 Sacrament Or Magic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_112_sacrament_or_magic" data-title="Man Orthodox — Sacrament Or Magic" data-chapter="Sacrament Or Magic" data-kind="story"></span>
 
 
 SACRAMENT OR MAGIC
@@ -12637,7 +12637,7 @@ they always employ the material.  When the purpose is good,
 it is bread and wine; when the purpose is evil, it is eye
 of newt and toe of frog.
 
-                             Illustrated London News, September 22nd, 1906
+Illustrated London News, September 22nd, 1906
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12649,11 +12649,11 @@ ricorrono sempre al materiale.  Quando lo scopo è buono,
 si tratta di pane e vino; quando lo scopo è malvagio, si tratta di occhio
 di tritone e dito di rana.
 
-                             Illustrated London News, 22 settembre 1906
+Illustrated London News, 22 settembre 1906
 
 
 
-<span class="atom-split" data-atom="story_113_the_concrete_and_the_abstract" data-title="Man Orthodox — The Concrete And The Abstract" data-chapter="Story 113 The Concrete And The Abstract" data-kind="story"></span>
+<span class="atom-split" data-atom="story_113_the_concrete_and_the_abstract" data-title="Man Orthodox — The Concrete And The Abstract" data-chapter="The Concrete And The Abstract" data-kind="story"></span>
 
 
 THE CONCRETE AND THE ABSTRACT
@@ -12668,7 +12668,7 @@ It is the green tree that we cannot understand; it is the green
 tree which we fear; it is the green tree which we worship.
 Then, because there are so many green trees, so many men,
 so many elephants, so many butterflies, so many daisies,
-so many animalculae, we coin a general term `Life'. And then
+so many animalculae, we coin a general term ‘Life'. And then
 the mystic comes and says that a green tree symbolizes life.
 It is not so.  Life symbolizes a green tree.  Just in so far
 as we get into the abstract, we get away from the reality,
@@ -12685,7 +12685,7 @@ is the difference between the country and the town.
 God made the concrete, but man made the abstract.
 A truthful man is a miracle, but the [[Truth|truth]] is a commonplace.
 
-                                               The Speaker, May 31st, 1902
+The Speaker, May 31st, 1902
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12719,11 +12719,11 @@ La differenza tra il concreto e l'astratto
 Dio ha fatto il concreto, ma l'uomo ha fatto l'astratto.
 Un uomo veritiero è un miracolo, ma la [[Truth|verità]] è un luogo comune.
 
-                                               The Speaker, 31 maggio 1902
+The Speaker, 31 maggio 1902
 
 
 
-<span class="atom-split" data-atom="story_114_the_light_and_the_heat" data-title="Man Orthodox — The Light And The Heat" data-chapter="Story 114 The Light And The Heat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_114_the_light_and_the_heat" data-title="Man Orthodox — The Light And The Heat" data-chapter="The Light And The Heat" data-kind="story"></span>
 
 
 THE LIGHT AND THE HEAT
@@ -12740,7 +12740,7 @@ that black is white because white is black.  We fancy that the
 frightful universal negatives at which they have at last arrived,
 are really little more than the final mental collapse of men
 trying always to find an abstraction big enough for all things.
-`I have said what I understood not, things too great for me
+‘I have said what I understood not, things too great for me
 that I know not.  I will put my hand upon my mouth.'
 Job was a wise man.  ... Buddhism stands for a simplification
 of the mind and a reliance on the most indestructible ideas;
@@ -12759,7 +12759,7 @@ the craving for a father, the hunger that is as old as the hills.
 It turns the whole cry of a lost universe into the cry
 of a lost child.
 
-                                          The Speaker, November 17th, 1900
+The Speaker, November 17th, 1900
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12797,11 +12797,11 @@ la brama di un padre, la fame antica come le colline.
 Trasforma l'intero grido di un universo perduto nel grido
 di un bambino perduto.
 
-                                          The Speaker, 17 novembre 1900
+The Speaker, 17 novembre 1900
 
 
 
-<span class="atom-split" data-atom="story_115_a_note_on_comparative_religion" data-title="Man Orthodox — A Note On Comparative Religion" data-chapter="Story 115 A Note On Comparative Religion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_115_a_note_on_comparative_religion" data-title="Man Orthodox — A Note On Comparative Religion" data-chapter="A Note On Comparative Religion" data-kind="story"></span>
 
 
 A NOTE ON COMPARATIVE RELIGION
@@ -12880,7 +12880,7 @@ it is equally possible to be a pessimist and hate the universe.
 But there is one Church exactly as there is one universe;
 and no wise man will wander about looking for another.
 
-                                                  Blackfriars, March, 1923
+Blackfriars, March, 1923
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12961,11 +12961,11 @@ di servizio; è l'unica cosa che lo chieda.
 Ma vi è una sola Chiesa esattamente come vi è un solo universo;
 e nessun uomo saggio andrà in giro a cercarne un'altra.
 
-                                                  Blackfriars, marzo 1923
+Blackfriars, marzo 1923
 
 
 
-<span class="atom-split" data-atom="story_116_assimilation_and_rejection" data-title="Man Orthodox — Assimilation And Rejection" data-chapter="Story 116 Assimilation And Rejection" data-kind="story"></span>
+<span class="atom-split" data-atom="story_116_assimilation_and_rejection" data-title="Man Orthodox — Assimilation And Rejection" data-chapter="Assimilation And Rejection" data-kind="story"></span>
 
 
 ASSIMILATION AND REJECTION
@@ -12981,7 +12981,7 @@ A Church should have drainage as well as ventilation.
 It should drive bad smells out as well as let good smells in;
 it should not only cast out devils, but keep them out.
 
-                                              Daily News, March 19th, 1910
+Daily News, March 19th, 1910
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12999,11 +12999,11 @@ Una Chiesa dovrebbe avere le fognature non meno della ventilazione.
 Dovrebbe cacciar fuori i cattivi odori non meno che lasciar entrare quelli buoni;
 non dovrebbe soltanto scacciare i demoni, ma tenerli fuori.
 
-                                              Daily News, 19 marzo 1910
+Daily News, 19 marzo 1910
 
 
 
-<span class="atom-split" data-atom="story_117_the_winter_feast" data-title="Man Orthodox — The Winter Feast" data-chapter="Story 117 The Winter Feast" data-kind="story"></span>
+<span class="atom-split" data-atom="story_117_the_winter_feast" data-title="Man Orthodox — The Winter Feast" data-chapter="The Winter Feast" data-kind="story"></span>
 
 
 THE WINTER FEAST
@@ -13078,7 +13078,7 @@ society has learned to talk of it as an artificial thing.
 Then we shall draw on the driving force of many thousand years,
 and call up a real humanitarianism out of the depths of humanity.
 
-                                         G. K.'s Weekly, January 2nd, 1936
+G. K.'s Weekly, January 2nd, 1936
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13155,11 +13155,11 @@ artificiale ha imparato a parlarne come di una cosa artificiale.
 Allora attingeremo alla forza motrice di molte migliaia di anni,
 e chiameremo in vita un vero umanitarismo dalle profondità dell'umanità.
 
-                                         G. K.'s Weekly, 2 gennaio 1936
+G. K.'s Weekly, 2 gennaio 1936
 
 
 
-<span class="atom-split" data-atom="story_118_the_three_gifts" data-title="Man Orthodox — The Three Gifts" data-chapter="Story 118 The Three Gifts" data-kind="story"></span>
+<span class="atom-split" data-atom="story_118_the_three_gifts" data-title="Man Orthodox — The Three Gifts" data-chapter="The Three Gifts" data-kind="story"></span>
 
 
 THE THREE GIFTS
@@ -13171,7 +13171,7 @@ worshipped like a God; and that He should die like a man.
 And these things would sound like Eastern flattery, were it
 not for the third.
 
-                                       G. K.'s Weekly, December 12th, 1931
+G. K.'s Weekly, December 12th, 1931
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13185,11 +13185,11 @@ adorato come un Dio; e che sarebbe morto come un uomo.
 E queste cose suonerebbero come adulazione orientale, non fosse
 per la terza.
 
-                                       G. K.'s Weekly, 12 dicembre 1931
+G. K.'s Weekly, 12 dicembre 1931
 
 
 
-<span class="atom-split" data-atom="story_119_the_spring_in_the_soul" data-title="Man Orthodox — The Spring In The Soul" data-chapter="Story 119 The Spring In The Soul" data-kind="story"></span>
+<span class="atom-split" data-atom="story_119_the_spring_in_the_soul" data-title="Man Orthodox — The Spring In The Soul" data-chapter="The Spring In The Soul" data-kind="story"></span>
 
 
 THE SPRING IN THE SOUL
@@ -13221,7 +13221,7 @@ But whatever mysteries were accepted by the ancient pagans have
 become mere mystifications in the minds of the modern Pantheists.
 I imagine no man's mind was ever in so complete a muddle as
 the mind of the great poet Shelley when he wrote the famous line,
-`If [[Winter|winter]] comes, can [[spring]] be far behind?'
+‘If [[Winter|winter]] comes, can [[spring]] be far behind?'
 
 To begin with, the more chilly are in the habit of reminding the poet
 that when [[Winter]] comes, [[spring|Spring]] is at least a quarter of the year behind.
@@ -13229,7 +13229,7 @@ But it will also strike the natural man (as distinct from
 that most unnatural man whom we call the [[Nature|nature]]-worshipper)
 that it would be just as easy to turn the phrase from optimism to
 pessimism by taking another section of the year.  It would be quite
-as sensible to say, `If summer comes, can autumn be far behind?'
+as sensible to say, ‘If summer comes, can autumn be far behind?'
 And it is probably within the range of the intelligence,
 even of a pantheist surveying the whole universe, to foresee
 that Winter will not only come, but will certainly come again.
@@ -13245,10 +13245,10 @@ of Shelley with some equally beautiful lines in one of Mr Belloc's
 sonnets will measure the difference made by a philosophy that happens
 to make sense.
 
-  For as you pass, the natural life of things
-  Proclaims the Resurrection; as you pass,
-  Remembered summer shines along the grass
-  And something in me of the immortal sings.
+For as you pass, the natural life of things
+Proclaims the Resurrection; as you pass,
+Remembered summer shines along the grass
+And something in me of the immortal sings.
 
 Here the poet does not talk as if next spring would last for ever;
 on the contrary, he talks of last summer that is already dead.
@@ -13295,7 +13295,7 @@ turning back the whole trend and movement of the earth.
 A Revolution is a mild thing compared with a Resurrection;
 and nothing less can raise us from the dead.
 
-                                          G. K.'s Weekly, March 26th, 1932
+G. K.'s Weekly, March 26th, 1932
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13306,10 +13306,10 @@ La Pasqua, che sulla terra dischiude la soglia della Primavera, è stata per tut
 
 Per cominciare, i più freddolosi hanno l'abitudine di ricordare al poeta che, quando giunge l'[[Winter|inverno]], la [[spring|Primavera]] è distante almeno un quarto dell'anno. Ma verrà pure in mente all'uomo naturale (a differenza di quell'uomo quanto mai innaturale che chiamiamo adoratore della [[Nature|natura]]) che sarebbe altrettanto facile volgere la frase dall'ottimismo al pessimismo scegliendo un'altra sezione dell'anno. Sarebbe altrettanto sensato dire: «Se giunge l'estate, può l'autunno essere lontano?» Ed è probabilmente alla portata dell'intelligenza, persino di un panteista che passi in rassegna l'intero universo, prevedere che l'Inverno non solo verrà, ma tornerà di certo a venire. Non c'è dunque che sciocchezza in ogni pretesa che il semplice giro della Natura sia di per sé la sorgente delle nostre speranze più alte, o che possa da solo aver generato tutto ciò che si intende per Resurrezione. È l'anima, che ha ricevuto dal cielo un segreto indicibile, a poterlo esprimere soltanto in immagini della terra, e a esprimerlo naturalmente nei termini delle resurrezioni temporanee della terra. In altre parole, essa usa la Primavera come simbolo della Pasqua; non la Pasqua come simbolo della Primavera. Chiunque vorrà mettere a confronto i bei versi di Shelley con altri versi ugualmente belli di uno dei sonetti del signor Belloc misurerà la differenza che fa una filosofia la quale per avventura abbia senso.
 
-  Poiché al tuo passare, la vita naturale delle cose
-  Proclama la Resurrezione; al tuo passare,
-  L'estate ricordata risplende lungo l'erba
-  E qualcosa in me d'immortale canta.
+Poiché al tuo passare, la vita naturale delle cose
+Proclama la Resurrezione; al tuo passare,
+L'estate ricordata risplende lungo l'erba
+E qualcosa in me d'immortale canta.
 
 Qui il poeta non parla come se la prossima primavera dovesse durare in eterno; al contrario, parla dell'estate scorsa che è già morta. Ma di entrambe può cantare in virtù di qualcosa di diverso, in lui, che non muore.
 
@@ -13319,11 +13319,11 @@ Secondo, non cadremo nella fallacia panteista di Shelley, perché è fin troppo 
 
 Da ultimo, il compito stesso che ci sta dinanzi basta a provare che le cose cominciano nella mente, e che lo spirito deve suonare la sua tromba prima di ogni resurrezione. Poiché stiamo cercando di ricondurre una Primavera che finora esiste soltanto nello spirito; di creare erba e verzure che devono esistere in un sogno prima di poter esistere in un paesaggio; il cui germogliare sarà un miracolo nel senso di qualcosa che inverte l'intero corso e movimento della terra. Una Rivoluzione è cosa mite in confronto a una Resurrezione; e nulla di meno può risollevarci dai morti.
 
-                                          G. K.'s Weekly, 26 marzo 1932
+G. K.'s Weekly, 26 marzo 1932
 
 
 
-<span class="atom-split" data-atom="story_120_the_person_of_jesus_christ" data-title="Man Orthodox — The Person Of Jesus Christ" data-chapter="Story 120 The Person Of Jesus Christ" data-kind="story"></span>
+<span class="atom-split" data-atom="story_120_the_person_of_jesus_christ" data-title="Man Orthodox — The Person Of Jesus Christ" data-chapter="The Person Of Jesus Christ" data-kind="story"></span>
 
 
 THE PERSON OF JESUS CHRIST
@@ -13331,7 +13331,7 @@ THE PERSON OF JESUS CHRIST
 Chesterton had been invited to reply to an article in
 The Hibbert Journal, which had challenged our Lord's divinity
 and attributed human fallibility and error to His teaching.
-He begins by saying that he intends to speak of `the
+He begins by saying that he intends to speak of ‘the
 actual Jesus as He appears in the New Testament; not as He
 appears to a believer, but as He appears to anybody;
 as He appeared to me when I was an agnostic; as He appeared
@@ -13342,7 +13342,7 @@ that l am speaking for the sake of argument of a hypothetical
 human Jesus in the Syrian documents and not of that divine
 personality in whom I believe.'
 
-`Now, the thing that strikes me most about [the critic] is that he is
+‘Now, the thing that strikes me most about [the critic] is that he is
 wrong on the facts.  He is especially wrong on the primary fact
 of what sort of person the Jesus of the Gospels appears to be.
 The whole of [his] contention is ultimately this; that when we look,
@@ -13380,7 +13380,7 @@ of riddles and outrageous demands, by no means so workable
 and everyday an adviser as many heathens and many Jesuits.
 But if I put myself hypothetically into the other attitude,
 the case becomes curiously arresting and even thrilling.
-If I say `Suppose the Divine did really walk and talk upon the earth,
+If I say ‘Suppose the Divine did really walk and talk upon the earth,
 what should we be likely to think of it?'--then the foundations
 of my mind are moved.  So far as I can form any conjecture,
 I think we should see in such a being exactly the perplexities
@@ -13392,7 +13392,7 @@ because, looking down on life like a map, he would see
 a connection between things which to us are disconnected.
 I think, how ever, that he would always ring true to our own
 sense of right, but ring (so to speak) too loud and too clear.
-He would be too good but never too bad for us:  `Be ye perfect.'
+He would be too good but never too bad for us:  ‘Be ye perfect.'
 I think would be, in the [[Nature|nature]] of things, some tragic collision
 between him and the humanity he had created, culminating in
 something that would be at once a crime and an expiation.
@@ -13410,7 +13410,7 @@ Between those who think it is [[A Dream|a dream]] and those who do not,
 is to be waged the great war of our future in which all these
 frivolities will be forgotten.
 
-                                               Hibbert Journal, July, 1909
+Hibbert Journal, July, 1909
 
 THE DIVINE [[Comedy|COMEDY]]
 
@@ -13420,7 +13420,7 @@ with a scenery of bottomless infinities and appalling abstractions,
 there is always going forward one ancient mystery play in which there
 are only two characters.
 
-                                           The Speaker, February 9th, 1901
+The Speaker, February 9th, 1901
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13433,17 +13433,17 @@ Chesterton era stato invitato a rispondere a un articolo dell'Hibbert Journal, c
 
 Se do per scontato (come fa la maggior parte della gente moderna) che Gesù di Nazareth fu uno degli ordinari maestri degli uomini, allora lo trovo splendido e suggestivo davvero, ma pieno di enigmi e di pretese oltraggiose, tutt'altro che un consigliere così pratico e quotidiano come molti pagani e molti gesuiti. Ma se mi pongo ipoteticamente nell'altro atteggiamento, il caso diventa curiosamente avvincente e persino emozionante. Se dico: «Supponiamo che il Divino abbia davvero camminato e parlato sulla terra: che cosa saremmo portati a pensarne?» — allora le fondamenta stesse della mia mente sono scosse. Per quanto io possa formulare una congettura, penso che vedremmo in un tale essere esattamente le perplessità che vediamo nella figura centrale dei Vangeli: penso che ci sembrerebbe estremo e violento, perché vedrebbe qualche ulteriore sviluppo nella virtù che per noi sarebbe non sperimentato. Penso che ci sembrerebbe contraddirsi, perché, guardando dall'alto la vita come una mappa, vedrebbe una connessione fra cose che per noi sono sconnesse. Penso, tuttavia, che egli suonerebbe sempre vero al nostro stesso senso del giusto, ma suonerebbe (per così dire) troppo forte e troppo chiaro. Sarebbe troppo buono, ma mai troppo cattivo per noi: «Siate perfetti». Penso che vi sarebbe, nella [[Nature|natura]] delle cose, qualche tragica collisione fra lui e l'umanità che aveva creato, culminante in qualcosa che sarebbe a un tempo un delitto e un'espiazione. Penso che sarebbe biasimato come un duro [[Prophet|profeta]] per aver abbattuto i superbi, e biasimato anche come un debole sentimentale per aver amato le cose che si stringono negli angoli, i bambini o i mendicanti. Penso, in breve, che ci darebbe la sensazione di capovolgere tutti i nostri criteri, e insieme la sensazione di averli innegabilmente rimessi nel verso giusto. Così, se fossi stato un saggio greco o un poeta arabo prima di [[Christ|Cristo]], mi sarei figurato, in [[A Dream|un sogno]], che cosa accadrebbe davvero se questa terra portasse segretamente il padre degli dèi e degli uomini. In astratto, può darsi che sia ancora soltanto [[A Dream|un sogno]]. Fra coloro che pensano sia [[A Dream|un sogno]] e coloro che non lo pensano si combatterà la grande guerra del nostro futuro, nella quale tutte queste frivolezze saranno dimenticate.
 
-                                               Hibbert Journal, luglio 1909
+Hibbert Journal, luglio 1909
 
 LA DIVINA [[Comedy|COMMEDIA]]
 
 Al principio e al termine di ogni vita, dotta e ignorante, permane la [[Truth|verità]] che nell'intimo teatro dell'[[Soul|anima]] dell'uomo, con una scenografia di infiniti senza fondo e di spaventose astrazioni, si svolge sempre un antico dramma sacro in cui non vi sono che due personaggi.
 
-                                           The Speaker, 9 febbraio 1901
+The Speaker, 9 febbraio 1901
 
 
 
-<span class="atom-split" data-atom="story_121_the_dragon" data-title="Man Orthodox — The Dragon" data-chapter="Story 121 The Dragon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_121_the_dragon" data-title="Man Orthodox — The Dragon" data-chapter="The Dragon" data-kind="story"></span>
 
 
 THE DRAGON
@@ -13461,7 +13461,7 @@ of life's narrow lists and may our wearied swords have struck fiercely
 on the painted crests of Imposture and Injustice when the Dark Herald
 comes to lead us to the pavilion of the [[King]].
 
-                                           The Debater, March--April, 1891
+The Debater, March--April, 1891
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13472,4 +13472,4 @@ La frase che segue è l'ultima del primo [[Essay|saggio]] pubblicato da Chestert
 
 Lettore, quando tu o io lo incontreremo [il drago], sotto qualunque travestimento, e libereremo forse alcuni prigionieri dalla sua nera caverna, possiamo noi recare una lancia coraggiosa e uno scudo immacolato attraverso la fragorosa mischia degli angusti steccati della vita, e possano le nostre spade affaticate aver colpito ferocemente i cimieri dipinti dell'Impostura e dell'Ingiustizia quando l'Oscuro Araldo verrà a condurci al padiglione del [[King|Re]].
 
-                                           The Debater, marzo-aprile 1891
+The Debater, marzo-aprile 1891

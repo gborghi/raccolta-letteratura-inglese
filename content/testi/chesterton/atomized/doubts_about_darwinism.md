@@ -428,7 +428,7 @@ or hopes, that the hypothesis really WILL hold [[Water|water]].
 
 Dubbi sul darwinismo
 
-			     di G. K. Chesterton
+di G. K. Chesterton
 
 Pubblicato originariamente su The Illustrated [[London|London]] News, 17 luglio 1920
 

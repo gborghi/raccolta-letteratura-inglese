@@ -28,12 +28,12 @@ If a prosperous modern man, with a high hat and a frock-coat,
 were to solemnly pledge himself before all his clerks and friends
 to count the [[Leaves|leaves]] on every third tree in Holland Walk, to hop
 up to the [[City]] on one leg every [[thursday|Thursday]], to repeat the whole
-of Mill's `Liberty' seventy-six times, to collect 300 dandelions
+of Mill's ‘Liberty' seventy-six times, to collect 300 dandelions
 in fields belonging to anyone of the name of Brown, to remain
 for thirty-one hours holding his left ear in his right hand, to sing
 the names of all his aunts in order of age on the top of an omnibus,
 or make any such unusual undertaking, we should immediately conclude
-that the man was mad, or, as it is sometimes expressed, was `an
+that the man was mad, or, as it is sometimes expressed, was ‘an
 [[artist]] in life.'  Yet these vows are not more extraordinary than
 the vows which in the Middle Ages and in similar periods were made,
 not by fanatics merely, but by the greatest figures in civic
@@ -52,7 +52,7 @@ it to the last degree improbable that he will ever get there.
 
 But about this there is one striking thing to be noticed.
 If men behaved in that way in our [[Time|time]], we should, as we have said,
-regard them as symbols of the `decadence.' But the men who did
+regard them as symbols of the ‘decadence.' But the men who did
 these things were not decadent; they belonged generally to the most
 robust classes of what is generally regarded as a robust age.
 Again, it will be urged that if men essentially sane performed
@@ -92,8 +92,8 @@ in which he powerfully summed up the whole spirit of the movement
 by declaring that he could stand in the prison yard and entirely
 comprehend the feelings of a man about to be hanged.
 
-     `For he that lives more lives than one
-     More deaths than one must die.'
+‘For he that lives more lives than one
+More deaths than one must die.'
 
 And the end of all this is that maddening horror of unreality
 which descends upon the decadents, and compared with which physical
@@ -129,7 +129,7 @@ They appear to imagine that the ideal of constancy was a yoke
 mysteriously imposed on mankind by the devil, instead of being,
 as it is, a yoke consistently imposed by all [[lovers]] on themselves.
 They have invented a phrase, a phrase that is a black and white
-contradiction in two words--`free-love'--as if a lover ever
+contradiction in two words--‘free-love'--as if a lover ever
 had been, or ever could be, free.  It is the nature of love
 to bind itself, and the institution of marriage merely paid
 the average man the compliment of taking him at his word.
@@ -144,12 +144,12 @@ It is exactly this backdoor, this sense of having a retreat behind us,
 that is, to our minds, the sterlizing spirit in modern pleasure.
 Everywhere there is the persistent and insane attempt to obtain
 pleasure without paying for it.  Thus, in politics the modern Jingoes
-practically say, `Let us have the pleasure of conquerors without
+practically say, ‘Let us have the pleasure of conquerors without
 the pains of soldiers:  let us sit on sofas and be a hardy race.'
-Thus, in religion and morals, the decadent mystics say:  `Let us have
+Thus, in religion and morals, the decadent mystics say:  ‘Let us have
 the fragrance of sacred purity without the sorrows of self-restraint;
 let us sing hymns alternately to the Virgin and Priapus.'  Thus in
-love the free-lovers say:  `Let us have the splendour of offering
+love the free-lovers say:  ‘Let us have the splendour of offering
 ourselves without the peril of committing ourselves; let us see
 whether one cannot commit [[suicide]] an unlimited number of times.'
 
@@ -190,12 +190,12 @@ If a prosperous modern man, with a high hat and a frock-coat,
 were to solemnly pledge himself before all his clerks and friends
 to count the [[Leaves|leaves]] on every third tree in Holland Walk, to hop
 up to the [[City]] on one leg every [[thursday|Thursday]], to repeat the whole
-of Mill's `Liberty' seventy-six times, to collect 300 dandelions
+of Mill's ‘Liberty' seventy-six times, to collect 300 dandelions
 in fields belonging to anyone of the name of Brown, to remain
 for thirty-one hours holding his left ear in his right hand, to sing
 the names of all his aunts in order of age on the top of an omnibus,
 or make any such unusual undertaking, we should immediately conclude
-that the man was mad, or, as it is sometimes expressed, was `an
+that the man was mad, or, as it is sometimes expressed, was ‘an
 [[artist]] in life.'  Yet these vows are not more extraordinary than
 the vows which in the Middle Ages and in similar periods were made,
 not by fanatics merely, but by the greatest figures in civic
@@ -214,7 +214,7 @@ it to the last degree improbable that he will ever get there.
 
 But about this there is one striking thing to be noticed.
 If men behaved in that way in our [[Time|time]], we should, as we have said,
-regard them as symbols of the `decadence.' But the men who did
+regard them as symbols of the ‘decadence.' But the men who did
 these things were not decadent; they belonged generally to the most
 robust classes of what is generally regarded as a robust age.
 Again, it will be urged that if men essentially sane performed
@@ -254,8 +254,8 @@ in which he powerfully summed up the whole spirit of the movement
 by declaring that he could stand in the prison yard and entirely
 comprehend the feelings of a man about to be hanged.
 
-     `For he that lives more lives than one
-     More deaths than one must die.'
+‘For he that lives more lives than one
+More deaths than one must die.'
 
 And the end of all this is that maddening horror of unreality
 which descends upon the decadents, and compared with which physical
@@ -285,13 +285,13 @@ Se un prospero uomo moderno, con cilindro e finanziera,
 si impegnasse solennemente dinanzi a tutti i suoi impiegati e amici
 a contare le [[Leaves|foglie]] di ogni terzo albero di Holland Walk, a saltellare
 fino alla [[City]] su una gamba sola ogni [[thursday|giovedì]], a ripetere l'intera
-`Libertà' di Mill settantasei volte, a raccogliere 300 denti di leone
+‘Libertà' di Mill settantasei volte, a raccogliere 300 denti di leone
 in campi appartenenti a chiunque porti il nome di Brown, a rimanere
 per trentun ore tenendo l'orecchio sinistro nella mano destra, a cantare
 i nomi di tutte le sue zie in ordine d'età in cima a un omnibus,
 o a intraprendere una qualsiasi impresa altrettanto inconsueta, concluderemmo immediatamente
 che l'uomo era pazzo, o, come talvolta si dice, era un
-`[[artist|artista]] della vita.'  Eppure questi voti non sono più straordinari
+‘[[artist|artista]] della vita.'  Eppure questi voti non sono più straordinari
 dei voti che nel Medioevo e in epoche simili venivano fatti,
 non da meri fanatici, ma dalle più grandi figure della civiltà
 civica e nazionale—da re, giudici, poeti e sacerdoti.
@@ -309,7 +309,7 @@ all'ultimo grado improbabile che egli mai vi giunga.
 
 Ma su questo c'è una cosa notevole da osservare.
 Se gli uomini si comportassero in tal modo nel nostro [[Time|tempo]], noi, come abbiamo detto,
-li considereremmo simboli della `decadenza.' Ma gli uomini che fecero
+li considereremmo simboli della ‘decadenza.' Ma gli uomini che fecero
 queste cose non erano decadenti; appartenevano in genere alle classi più
 robuste di quella che è generalmente ritenuta un'epoca robusta.
 Di nuovo, si obietterà che se uomini essenzialmente sani compirono
@@ -349,8 +349,8 @@ in cui riassunse con forza l'intero spirito del movimento
 dichiarando di poter stare nel cortile della prigione e comprendere interamente
 i sentimenti di un uomo in procinto di essere impiccato.
 
-     `Poiché chi vive più vite d'una
-     più d'una morte deve morire.'
+‘Poiché chi vive più vite d'una
+più d'una morte deve morire.'
 
 E la fine di tutto questo è quell'esasperante orrore d'irrealtà
 che discende sui decadenti, e a paragone del quale il [[Pain|dolore]]
@@ -391,7 +391,7 @@ They appear to imagine that the ideal of constancy was a yoke
 mysteriously imposed on mankind by the devil, instead of being,
 as it is, a yoke consistently imposed by all [[lovers]] on themselves.
 They have invented a phrase, a phrase that is a black and white
-contradiction in two words--`free-love'--as if a lover ever
+contradiction in two words--‘free-love'--as if a lover ever
 had been, or ever could be, free.  It is the nature of love
 to bind itself, and the institution of marriage merely paid
 the average man the compliment of taking him at his word.
@@ -406,12 +406,12 @@ It is exactly this backdoor, this sense of having a retreat behind us,
 that is, to our minds, the sterlizing spirit in modern pleasure.
 Everywhere there is the persistent and insane attempt to obtain
 pleasure without paying for it.  Thus, in politics the modern Jingoes
-practically say, `Let us have the pleasure of conquerors without
+practically say, ‘Let us have the pleasure of conquerors without
 the pains of soldiers:  let us sit on sofas and be a hardy race.'
-Thus, in religion and morals, the decadent mystics say:  `Let us have
+Thus, in religion and morals, the decadent mystics say:  ‘Let us have
 the fragrance of sacred purity without the sorrows of self-restraint;
 let us sing hymns alternately to the Virgin and Priapus.'  Thus in
-love the free-lovers say:  `Let us have the splendour of offering
+love the free-lovers say:  ‘Let us have the splendour of offering
 ourselves without the peril of committing ourselves; let us see
 whether one cannot commit [[suicide]] an unlimited number of times.'
 

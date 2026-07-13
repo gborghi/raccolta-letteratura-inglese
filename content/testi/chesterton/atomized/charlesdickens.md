@@ -24,18 +24,18 @@ PART ONE
 
 CONTENTS
 
-                 * CHAPTER I
-                   THE DICKENS PERIOD
-                 * CHAPTER II
-                   THE BOYHOOD OF DICKENS
-                 * CHAPTER III
-                   THE YOUTH OF DICKENS
-                 * CHAPTER IV
-                   "THE [[Pickwick|PICKWICK]] PAPERS"
-                 * CHAPTER V
-                   THE GREAT POPULARITY
-                 * CHAPTER VI
-                   DICKENS AND [[America|AMERICA]]
+* CHAPTER I
+THE DICKENS PERIOD
+* CHAPTER II
+THE BOYHOOD OF DICKENS
+* CHAPTER III
+THE YOUTH OF DICKENS
+* CHAPTER IV
+"THE [[Pickwick|PICKWICK]] PAPERS"
+* CHAPTER V
+THE GREAT POPULARITY
+* CHAPTER VI
+DICKENS AND [[America|AMERICA]]
 
 ----------------------------------------------------------------------------
 
@@ -3274,18 +3274,18 @@ PART TWO
 
 CONTENTS
 
-                 * CHAPTER VII
-                   DICKENS AND CHRISTMAS
-                 * CHAPTER VIII
-                   THE [[Time|TIME]] OF TRANSITION
-                 * CHAPTER IX
-                   LATER LIFE AND WORKS
-                 * CHAPTER X
-                   THE GREAT DICKENS CHARACTERS
-                 * CHAPTER XI
-                   ON THE ALLEGED OPTIMISM OF DICKENS
-                 * CHAPTER XII
-                   A NOTE ON THE FUTURE OF DICKENS
+* CHAPTER VII
+DICKENS AND CHRISTMAS
+* CHAPTER VIII
+THE [[Time|TIME]] OF TRANSITION
+* CHAPTER IX
+LATER LIFE AND WORKS
+* CHAPTER X
+THE GREAT DICKENS CHARACTERS
+* CHAPTER XI
+ON THE ALLEGED OPTIMISM OF DICKENS
+* CHAPTER XII
+A NOTE ON THE FUTURE OF DICKENS
 
 ----------------------------------------------------------------------------
 
@@ -6376,8 +6376,8 @@ meet Dickens and all his characters:  and when we drink again
 it shall be from the great flagons in the tavern at the end
 of the world.
 
-                  (Provided by Mitsuharu Matsuoka, Nagoya University, Japan,
-                                                            on 6 July 1998.)
+(Provided by Mitsuharu Matsuoka, Nagoya University, Japan,
+on 6 July 1998.)
 
 ----------------------------------------------------------------------------
 
@@ -6392,20 +6392,20 @@ Charles Dickens
 
 PARTE PRIMA
 
-    INDICE  
+INDICE  
 
-                 * CAPITOLO I
-                   L'EPOCA DI DICKENS
-                 * CAPITOLO II
-                   L'INFANZIA DI DICKENS
-                 * CAPITOLO III
-                   LA GIOVINEZZA DI DICKENS
-                 * CAPITOLO IV
-                   «IL [[Pickwick|CIRCOLO PICKWICK]]»
-                 * CAPITOLO V
-                   LA GRANDE POPOLARITÀ
-                 * CAPITOLO VI
-                   DICKENS E L'[[America|AMERICA]]
+* CAPITOLO I
+L'EPOCA DI DICKENS
+* CAPITOLO II
+L'INFANZIA DI DICKENS
+* CAPITOLO III
+LA GIOVINEZZA DI DICKENS
+* CAPITOLO IV
+«IL [[Pickwick|CIRCOLO PICKWICK]]»
+* CAPITOLO V
+LA GRANDE POPOLARITÀ
+* CAPITOLO VI
+DICKENS E L'[[America|AMERICA]]
 
 ----------------------------------------------------------------------------
 
@@ -7239,20 +7239,20 @@ Charles Dickens
 
 PARTE SECONDA
 
-    INDICE  
+INDICE  
 
-                 * CAPITOLO VII
-                   DICKENS E IL NATALE
-                 * CAPITOLO VIII
-                   IL [[Time|TEMPO]] DELLA TRANSIZIONE
-                 * CAPITOLO IX
-                   GLI ULTIMI ANNI E LE OPERE
-                 * CAPITOLO X
-                   I GRANDI PERSONAGGI DICKENSIANI
-                 * CAPITOLO XI
-                   SUL PRESUNTO OTTIMISMO DI DICKENS
-                 * CAPITOLO XII
-                   UNA NOTA SUL FUTURO DI DICKENS
+* CAPITOLO VII
+DICKENS E IL NATALE
+* CAPITOLO VIII
+IL [[Time|TEMPO]] DELLA TRANSIZIONE
+* CAPITOLO IX
+GLI ULTIMI ANNI E LE OPERE
+* CAPITOLO X
+I GRANDI PERSONAGGI DICKENSIANI
+* CAPITOLO XI
+SUL PRESUNTO OTTIMISMO DI DICKENS
+* CAPITOLO XII
+UNA NOTA SUL FUTURO DI DICKENS
 
 ----------------------------------------------------------------------------
 
@@ -8771,8 +8771,8 @@ Dickens e tutti i suoi personaggi: e quando berremo di nuovo
 sarà dai grandi boccali nella taverna alla fine
 del mondo.
 
-                  (Fornito da Mitsuharu Matsuoka, Università di Nagoya, Giappone,
-                                                            il 6 luglio 1998.)
+(Fornito da Mitsuharu Matsuoka, Università di Nagoya, Giappone,
+il 6 luglio 1998.)
 
 ----------------------------------------------------------------------------
 
@@ -8785,18 +8785,18 @@ PART ONE
 
 CONTENTS
 
-                 * CHAPTER I
-                   THE DICKENS PERIOD
-                 * CHAPTER II
-                   THE BOYHOOD OF DICKENS
-                 * CHAPTER III
-                   THE YOUTH OF DICKENS
-                 * CHAPTER IV
-                   "THE [[Pickwick|PICKWICK]] PAPERS"
-                 * CHAPTER V
-                   THE GREAT POPULARITY
-                 * CHAPTER VI
-                   DICKENS AND [[America|AMERICA]]
+* CHAPTER I
+THE DICKENS PERIOD
+* CHAPTER II
+THE BOYHOOD OF DICKENS
+* CHAPTER III
+THE YOUTH OF DICKENS
+* CHAPTER IV
+"THE [[Pickwick|PICKWICK]] PAPERS"
+* CHAPTER V
+THE GREAT POPULARITY
+* CHAPTER VI
+DICKENS AND [[America|AMERICA]]
 
 ----------------------------------------------------------------------------
 
@@ -8805,20 +8805,20 @@ CONTENTS
 
 PARTE PRIMA
 
-    INDICE  
+INDICE  
 
-                 * CAPITOLO I
-                   L'EPOCA DI DICKENS
-                 * CAPITOLO II
-                   L'INFANZIA DI DICKENS
-                 * CAPITOLO III
-                   LA GIOVINEZZA DI DICKENS
-                 * CAPITOLO IV
-                   «IL [[Pickwick|CIRCOLO PICKWICK]]»
-                 * CAPITOLO V
-                   LA GRANDE POPOLARITÀ
-                 * CAPITOLO VI
-                   DICKENS E L'[[America|AMERICA]]
+* CAPITOLO I
+L'EPOCA DI DICKENS
+* CAPITOLO II
+L'INFANZIA DI DICKENS
+* CAPITOLO III
+LA GIOVINEZZA DI DICKENS
+* CAPITOLO IV
+«IL [[Pickwick|CIRCOLO PICKWICK]]»
+* CAPITOLO V
+LA GRANDE POPOLARITÀ
+* CAPITOLO VI
+DICKENS E L'[[America|AMERICA]]
 
 ----------------------------------------------------------------------------
 
@@ -8857,18 +8857,18 @@ PART TWO
 
 CONTENTS
 
-                 * CHAPTER VII
-                   DICKENS AND CHRISTMAS
-                 * CHAPTER VIII
-                   THE [[Time|TIME]] OF TRANSITION
-                 * CHAPTER IX
-                   LATER LIFE AND WORKS
-                 * CHAPTER X
-                   THE GREAT DICKENS CHARACTERS
-                 * CHAPTER XI
-                   ON THE ALLEGED OPTIMISM OF DICKENS
-                 * CHAPTER XII
-                   A NOTE ON THE FUTURE OF DICKENS
+* CHAPTER VII
+DICKENS AND CHRISTMAS
+* CHAPTER VIII
+THE [[Time|TIME]] OF TRANSITION
+* CHAPTER IX
+LATER LIFE AND WORKS
+* CHAPTER X
+THE GREAT DICKENS CHARACTERS
+* CHAPTER XI
+ON THE ALLEGED OPTIMISM OF DICKENS
+* CHAPTER XII
+A NOTE ON THE FUTURE OF DICKENS
 
 ----------------------------------------------------------------------------
 
@@ -8877,20 +8877,20 @@ CONTENTS
 
 PARTE SECONDA
 
-    INDICE  
+INDICE  
 
-                 * CAPITOLO VII
-                   DICKENS E IL NATALE
-                 * CAPITOLO VIII
-                   IL [[Time|TEMPO]] DELLA TRANSIZIONE
-                 * CAPITOLO IX
-                   GLI ULTIMI ANNI E LE OPERE
-                 * CAPITOLO X
-                   I GRANDI PERSONAGGI DICKENSIANI
-                 * CAPITOLO XI
-                   SUL PRESUNTO OTTIMISMO DI DICKENS
-                 * CAPITOLO XII
-                   UNA NOTA SUL FUTURO DI DICKENS
+* CAPITOLO VII
+DICKENS E IL NATALE
+* CAPITOLO VIII
+IL [[Time|TEMPO]] DELLA TRANSIZIONE
+* CAPITOLO IX
+GLI ULTIMI ANNI E LE OPERE
+* CAPITOLO X
+I GRANDI PERSONAGGI DICKENSIANI
+* CAPITOLO XI
+SUL PRESUNTO OTTIMISMO DI DICKENS
+* CAPITOLO XII
+UNA NOTA SUL FUTURO DI DICKENS
 
 ----------------------------------------------------------------------------
 
@@ -17904,8 +17904,8 @@ meet Dickens and all his characters:  and when we drink again
 it shall be from the great flagons in the tavern at the end
 of the world.
 
-                  (Provided by Mitsuharu Matsuoka, Nagoya University, Japan,
-                                                            on 6 July 1998.)
+(Provided by Mitsuharu Matsuoka, Nagoya University, Japan,
+on 6 July 1998.)
 
 ----------------------------------------------------------------------------
 
@@ -17998,7 +17998,7 @@ Dickens e tutti i suoi personaggi: e quando berremo di nuovo
 sarà dai grandi boccali nella taverna alla fine
 del mondo.
 
-                  (Fornito da Mitsuharu Matsuoka, Università di Nagoya, Giappone,
-                                                            il 6 luglio 1998.)
+(Fornito da Mitsuharu Matsuoka, Università di Nagoya, Giappone,
+il 6 luglio 1998.)
 
 ----------------------------------------------------------------------------

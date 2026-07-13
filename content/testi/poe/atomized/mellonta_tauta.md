@@ -20,31 +20,31 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
 
 
-      I have the honor of sending you, for your magazine, an article
+I have the honor of sending you, for your magazine, an article
 
-      which I [[Hope|hope]] you will be able to comprehend rather more
+which I [[Hope|hope]] you will be able to comprehend rather more
 
-      distinctly than I do myself. It is a [[Translation|translation]], by my friend,
+distinctly than I do myself. It is a [[Translation|translation]], by my friend,
 
-      Martin Van Buren Mavis, (sometimes called the “Poughkeepsie
+Martin Van Buren Mavis, (sometimes called the “Poughkeepsie
 
-      Seer”) of an odd-looking MS. which I found, about a year ago,
+Seer”) of an odd-looking MS. which I found, about a year ago,
 
-      tightly corked up in a jug floating in the Mare Tenebrarum—a sea
+tightly corked up in a jug floating in the Mare Tenebrarum—a sea
 
-      [[Well|well]] described by the Nubian geographer, but seldom visited
+[[Well|well]] described by the Nubian geographer, but seldom visited
 
-      now-a-days, except for the transcendentalists and divers for
+now-a-days, except for the transcendentalists and divers for
 
-      crotchets.
-
-
-
-      Truly yours,
+crotchets.
 
 
 
-      [[Edgar|EDGAR]] A. POE
+Truly yours,
+
+
+
+[[Edgar|EDGAR]] A. POE
 
 
 
@@ -56,1081 +56,1081 @@ ON BOARD BALLOON “SKYLARK”
 
 
 
-      _April_, 1, 2848
+_April_, 1, 2848
 
 
 
-      Now, my dear friend—now, for your sins, you are to suffer the
+Now, my dear friend—now, for your sins, you are to suffer the
 
-      infliction of a long gossiping letter. I tell you distinctly that
+infliction of a long gossiping letter. I tell you distinctly that
 
-      I am going to punish you for all your impertinences by being as
+I am going to punish you for all your impertinences by being as
 
-      tedious, as discursive, as incoherent and as unsatisfactory as
+tedious, as discursive, as incoherent and as unsatisfactory as
 
-      possible. Besides, here I am, cooped up in a dirty balloon, with
+possible. Besides, here I am, cooped up in a dirty balloon, with
 
-      some one or two hundred of the canaille, all bound on a pleasure
+some one or two hundred of the canaille, all bound on a pleasure
 
-      excursion, (what a funny idea some people have of pleasure!) and
+excursion, (what a funny idea some people have of pleasure!) and
 
-      I have no prospect of touching terra firma for a month at least.
+I have no prospect of touching terra firma for a month at least.
 
-      Nobody to talk to. Nothing to do. When one has nothing to do,
+Nobody to talk to. Nothing to do. When one has nothing to do,
 
-      then is the [[Time|time]] to correspond with ones friends. You perceive,
+then is the [[Time|time]] to correspond with ones friends. You perceive,
 
-      then, why it is that I write you this letter—it is on account of
+then, why it is that I write you this letter—it is on account of
 
-      my ennui and your sins.
+my ennui and your sins.
 
 
 
-      Get ready your spectacles and make up your mind to be annoyed. I
+Get ready your spectacles and make up your mind to be annoyed. I
 
-      mean to write at you every day during this odious voyage.
+mean to write at you every day during this odious voyage.
 
 
 
-      Heigho! when will any Invention visit the human pericranium? Are
+Heigho! when will any Invention visit the human pericranium? Are
 
-      we forever to be doomed to the thousand inconveniences of the
+we forever to be doomed to the thousand inconveniences of the
 
-      balloon? Will nobody contrive a more expeditious mode of
+balloon? Will nobody contrive a more expeditious mode of
 
-      progress? The jog-trot movement, to my thinking, is little less
+progress? The jog-trot movement, to my thinking, is little less
 
-      than positive torture. Upon my word we have not made more than a
+than positive torture. Upon my word we have not made more than a
 
-      hundred miles the hour since leaving [[Home|home]]! The very [[Birds|birds]] beat
+hundred miles the hour since leaving [[Home|home]]! The very [[Birds|birds]] beat
 
-      us—at least some of them. I assure you that I do not exaggerate
+us—at least some of them. I assure you that I do not exaggerate
 
-      at all. Our motion, no [[Doubt|doubt]], seems slower than it actually
+at all. Our motion, no [[Doubt|doubt]], seems slower than it actually
 
-      is—this on account of our having no objects about us by which to
+is—this on account of our having no objects about us by which to
 
-      estimate our velocity, and on account of our going with the [[Wind|wind]].
+estimate our velocity, and on account of our going with the [[Wind|wind]].
 
-      To be sure, whenever we meet a balloon we have a chance of
+To be sure, whenever we meet a balloon we have a chance of
 
-      perceiving our rate, and then, I admit, things do not appear so
+perceiving our rate, and then, I admit, things do not appear so
 
-      very bad. Accustomed as I am to this mode of travelling, I cannot
+very bad. Accustomed as I am to this mode of travelling, I cannot
 
-      get over a kind of giddiness whenever a balloon passes us in a
+get over a kind of giddiness whenever a balloon passes us in a
 
-      current directly overhead. It always seems to me like an immense
+current directly overhead. It always seems to me like an immense
 
-      bird of prey about to pounce upon us and carry us off in its
+bird of prey about to pounce upon us and carry us off in its
 
-      claws. One went over us this morning about sunrise, and so nearly
+claws. One went over us this morning about sunrise, and so nearly
 
-      overhead that its drag-rope actually brushed the network
+overhead that its drag-rope actually brushed the network
 
-      suspending our car, and caused us very serious apprehension. Our
+suspending our car, and caused us very serious apprehension. Our
 
-      captain said that if the material of the bag had been the
+captain said that if the material of the bag had been the
 
-      trumpery varnished “silk” of five hundred or a thousand years
+trumpery varnished “silk” of five hundred or a thousand years
 
-      ago, we should inevitably have been damaged. This silk, as he
+ago, we should inevitably have been damaged. This silk, as he
 
-      explained it to me, was a fabric composed of the entrails of a
+explained it to me, was a fabric composed of the entrails of a
 
-      species of earth-worm. The worm was carefully fed on mulberries—a
+species of earth-worm. The worm was carefully fed on mulberries—a
 
-      kind of fruit resembling a [[Water|water]]-melon—and, when sufficiently
+kind of fruit resembling a [[Water|water]]-melon—and, when sufficiently
 
-      fat, was crushed in a mill. The paste thus arising was called
+fat, was crushed in a mill. The paste thus arising was called
 
-      papyrus in its primary state, and went through a variety of
+papyrus in its primary state, and went through a variety of
 
-      processes until it finally became “silk.” Singular to relate, it
+processes until it finally became “silk.” Singular to relate, it
 
-      was once much admired as an article of female dress! Balloons
+was once much admired as an article of female dress! Balloons
 
-      were also very generally constructed from it. A better kind of
+were also very generally constructed from it. A better kind of
 
-      material, it appears, was subsequently found in the down
+material, it appears, was subsequently found in the down
 
-      surrounding the seed-vessels of a plant vulgarly called
+surrounding the seed-vessels of a plant vulgarly called
 
-      euphorbium, and at that [[Time|time]] botanically termed milk-weed. This
+euphorbium, and at that [[Time|time]] botanically termed milk-weed. This
 
-      latter kind of silk was designated as silk-[[Buckingham|buckingham]], on account
+latter kind of silk was designated as silk-[[Buckingham|buckingham]], on account
 
-      of its superior durability, and was usually prepared for use by
+of its superior durability, and was usually prepared for use by
 
-      being varnished with a solution of gum caoutchouc—a substance
+being varnished with a solution of gum caoutchouc—a substance
 
-      which in some respects must have resembled the gutta percha now
+which in some respects must have resembled the gutta percha now
 
-      in common use. This caoutchouc was occasionally called Indian
+in common use. This caoutchouc was occasionally called Indian
 
-      rubber or rubber of twist, and was no [[Doubt|doubt]] one of the numerous
+rubber or rubber of twist, and was no [[Doubt|doubt]] one of the numerous
 
-      fungi. Never tell me again that I am not at heart an antiquarian.
+fungi. Never tell me again that I am not at heart an antiquarian.
 
 
 
-      Talking of drag-ropes—our own, it seems, has this moment knocked
+Talking of drag-ropes—our own, it seems, has this moment knocked
 
-      a man overboard from one of the small magnetic propellers that
+a man overboard from one of the small magnetic propellers that
 
-      swarm in ocean below us—a boat of about six thousand tons, and,
+swarm in ocean below us—a boat of about six thousand tons, and,
 
-      from all accounts, shamefully crowded. These diminutive barques
+from all accounts, shamefully crowded. These diminutive barques
 
-      should be prohibited from carrying more than a definite number of
+should be prohibited from carrying more than a definite number of
 
-      passengers. The man, of course, was not permitted to get on board
+passengers. The man, of course, was not permitted to get on board
 
-      again, and was soon out of sight, he and his life-preserver. I
+again, and was soon out of sight, he and his life-preserver. I
 
-      rejoice, my dear friend, that we live in an age so enlightened
+rejoice, my dear friend, that we live in an age so enlightened
 
-      that no such a thing as an individual is supposed to exist. It is
+that no such a thing as an individual is supposed to exist. It is
 
-      the mass for which the true Humanity cares. By-the-by, talking of
+the mass for which the true Humanity cares. By-the-by, talking of
 
-      Humanity, do you know that our immortal Wiggins is not so
+Humanity, do you know that our immortal Wiggins is not so
 
-      original in his views of the Social Condition and so forth, as
+original in his views of the Social Condition and so forth, as
 
-      his contemporaries are inclined to suppose? Pundit assures me
+his contemporaries are inclined to suppose? Pundit assures me
 
-      that the same ideas were put nearly in the same way, about a
+that the same ideas were put nearly in the same way, about a
 
-      thousand years ago, by an Irish philosopher called Furrier, on
+thousand years ago, by an Irish philosopher called Furrier, on
 
-      account of his keeping a retail shop for cat peltries and other
+account of his keeping a retail shop for cat peltries and other
 
-      furs. Pundit knows, you know; there can be no mistake about it.
+furs. Pundit knows, you know; there can be no mistake about it.
 
-      How very wonderfully do we see verified every day, the profound
+How very wonderfully do we see verified every day, the profound
 
-      observation of the Hindoo Aries Tottle (as quoted by
+observation of the Hindoo Aries Tottle (as quoted by
 
-      Pundit)—“Thus must we say that, not once or twice, or a few
+Pundit)—“Thus must we say that, not once or twice, or a few
 
-      times, but with almost infinite repetitions, the same opinions
+times, but with almost infinite repetitions, the same opinions
 
-      come round in a circle among men.”
+come round in a circle among men.”
 
 
 
-      April 2.—Spoke to-day the magnetic cutter in charge of the middle
+April 2.—Spoke to-day the magnetic cutter in charge of the middle
 
-      section of floating telegraph wires. I learn that when this
+section of floating telegraph wires. I learn that when this
 
-      species of telegraph was first put into operation by [[Horse]], it
+species of telegraph was first put into operation by [[Horse]], it
 
-      was considered quite impossible to convey the wires over sea, but
+was considered quite impossible to convey the wires over sea, but
 
-      now we are at a loss to comprehend where the difficulty lay! So
+now we are at a loss to comprehend where the difficulty lay! So
 
-      wags the world. Tempora mutantur—excuse me for quoting the
+wags the world. Tempora mutantur—excuse me for quoting the
 
-      Etruscan. What would we do without the Atalantic telegraph?
+Etruscan. What would we do without the Atalantic telegraph?
 
-      (Pundit says Atlantic was the ancient adjective.) We lay to a few
+(Pundit says Atlantic was the ancient adjective.) We lay to a few
 
-      minutes to ask the cutter some questions, and learned, among
+minutes to ask the cutter some questions, and learned, among
 
-      other glorious news, that civil war is raging in Africa, while
+other glorious news, that civil war is raging in Africa, while
 
-      the plague is doing its good work beautifully both in Yurope and
+the plague is doing its good work beautifully both in Yurope and
 
-      Ayesher. Is it not truly remarkable that, before the magnificent
+Ayesher. Is it not truly remarkable that, before the magnificent
 
-      light shed upon [[philosophy]] by Humanity, the world was accustomed
+light shed upon [[philosophy]] by Humanity, the world was accustomed
 
-      to regard War and Pestilence as calamities? Do you know that
+to regard War and Pestilence as calamities? Do you know that
 
-      prayers were actually offered up in the ancient temples to the
+prayers were actually offered up in the ancient temples to the
 
-      end that these evils (!) might not be visited upon mankind? Is it
+end that these evils (!) might not be visited upon mankind? Is it
 
-      not really difficult to comprehend upon what principle of
+not really difficult to comprehend upon what principle of
 
-      interest our forefathers acted? Were they so blind as not to
+interest our forefathers acted? Were they so blind as not to
 
-      perceive that the destruction of a myriad of individuals is only
+perceive that the destruction of a myriad of individuals is only
 
-      so much positive advantage to the mass!
+so much positive advantage to the mass!
 
 
 
-      April 3.—It is really a very fine amusement to ascend the
+April 3.—It is really a very fine amusement to ascend the
 
-      rope-ladder leading to the summit of the balloon-bag, and thence
+rope-ladder leading to the summit of the balloon-bag, and thence
 
-      survey the surrounding world. From the car below you know the
+survey the surrounding world. From the car below you know the
 
-      prospect is not so comprehensive—you can see little vertically.
+prospect is not so comprehensive—you can see little vertically.
 
-      But seated here (where I write this) in the luxuriously-cushioned
+But seated here (where I write this) in the luxuriously-cushioned
 
-      open piazza of the summit, one can see everything that is going
+open piazza of the summit, one can see everything that is going
 
-      on in all directions. Just now there is quite a crowd of balloons
+on in all directions. Just now there is quite a crowd of balloons
 
-      in sight, and they present a very animated appearance, while the
+in sight, and they present a very animated appearance, while the
 
-      air is resonant with the hum of so many millions of human voices.
+air is resonant with the hum of so many millions of human voices.
 
-      I have heard it asserted that when Yellow or (Pundit will have
+I have heard it asserted that when Yellow or (Pundit will have
 
-      it) Violet, who is supposed to have been the first aeronaut,
+it) Violet, who is supposed to have been the first aeronaut,
 
-      maintained the practicability of traversing the atmosphere in all
+maintained the practicability of traversing the atmosphere in all
 
-      directions, by merely ascending or descending until a favorable
+directions, by merely ascending or descending until a favorable
 
-      current was attained, he was scarcely hearkened to at all by his
+current was attained, he was scarcely hearkened to at all by his
 
-      contemporaries, who looked upon him as merely an ingenious sort
+contemporaries, who looked upon him as merely an ingenious sort
 
-      of madman, because the philosophers (?) of the day declared the
+of madman, because the philosophers (?) of the day declared the
 
-      thing impossible. Really now it does seem to me quite
+thing impossible. Really now it does seem to me quite
 
-      unaccountable how any thing so obviously feasible could have
+unaccountable how any thing so obviously feasible could have
 
-      escaped the sagacity of the ancient savans. But in all ages the
+escaped the sagacity of the ancient savans. But in all ages the
 
-      great obstacles to advancement in Art have been opposed by the
+great obstacles to advancement in Art have been opposed by the
 
-      so-called men of science. To be sure, our men of science are not
+so-called men of science. To be sure, our men of science are not
 
-      quite so bigoted as those of old:—oh, I have something so queer
+quite so bigoted as those of old:—oh, I have something so queer
 
-      to tell you on this topic. Do you know that it is not more than a
+to tell you on this topic. Do you know that it is not more than a
 
-      thousand years ago since the metaphysicians consented to relieve
+thousand years ago since the metaphysicians consented to relieve
 
-      the people of the singular fancy that there existed but two
+the people of the singular fancy that there existed but two
 
-      possible roads for the attainment of [[Truth]]! Believe it if you
+possible roads for the attainment of [[Truth]]! Believe it if you
 
-      can! It appears that long, long ago, in the [[Night|night]] of [[Time]], there
+can! It appears that long, long ago, in the [[Night|night]] of [[Time]], there
 
-      lived a Turkish philosopher (or Hindoo possibly) called Aries
+lived a Turkish philosopher (or Hindoo possibly) called Aries
 
-      Tottle. This person introduced, or at all events propagated what
+Tottle. This person introduced, or at all events propagated what
 
-      was termed the deductive or a priori mode of investigation. He
+was termed the deductive or a priori mode of investigation. He
 
-      started with what he maintained to be axioms or “[[Self|self]]-evident
+started with what he maintained to be axioms or “[[Self|self]]-evident
 
-      truths,” and thence proceeded “logically” to results. His
+truths,” and thence proceeded “logically” to results. His
 
-      greatest disciples were one Neuclid, and one Cant. [[Well]], Aries
+greatest disciples were one Neuclid, and one Cant. [[Well]], Aries
 
-      Tottle flourished supreme until advent of one Hog, surnamed the
+Tottle flourished supreme until advent of one Hog, surnamed the
 
-      “Ettrick Shepherd,” who preached an entirely different system,
+“Ettrick Shepherd,” who preached an entirely different system,
 
-      which he called the a posteriori or inductive. His plan referred
+which he called the a posteriori or inductive. His plan referred
 
-      altogether to Sensation. He proceeded by observing, analyzing,
+altogether to Sensation. He proceeded by observing, analyzing,
 
-      and classifying facts-instantiae naturae, as they were affectedly
+and classifying facts-instantiae naturae, as they were affectedly
 
-      called—into general laws. Aries Tottle’s mode, in a word, was
+called—into general laws. Aries Tottle’s mode, in a word, was
 
-      based on noumena; Hog’s on phenomena. [[Well]], so great was the
+based on noumena; Hog’s on phenomena. [[Well]], so great was the
 
-      admiration excited by this latter system that, at its first
+admiration excited by this latter system that, at its first
 
-      introduction, Aries Tottle fell into disrepute; but finally he
+introduction, Aries Tottle fell into disrepute; but finally he
 
-      recovered ground and was permitted to divide the realm of [[Truth]]
+recovered ground and was permitted to divide the realm of [[Truth]]
 
-      with his more modern rival. The savans now maintained the
+with his more modern rival. The savans now maintained the
 
-      Aristotelian and Baconian roads were the sole possible avenues to
+Aristotelian and Baconian roads were the sole possible avenues to
 
-      knowledge. “Baconian,” you must know, was an adjective invented
+knowledge. “Baconian,” you must know, was an adjective invented
 
-      as equivalent to Hog-ian and more euphonious and dignified.
+as equivalent to Hog-ian and more euphonious and dignified.
 
 
 
-      Now, my dear friend, I do assure you, most positively, that I
+Now, my dear friend, I do assure you, most positively, that I
 
-      represent this matter fairly, on the soundest authority; and you
+represent this matter fairly, on the soundest authority; and you
 
-      can easily understand how a notion so absurd on its very face
+can easily understand how a notion so absurd on its very face
 
-      must have operated to retard the progress of all true
+must have operated to retard the progress of all true
 
-      knowledge—which makes its advances almost invariably by intuitive
+knowledge—which makes its advances almost invariably by intuitive
 
-      bounds. The ancient idea confined investigations to crawling; and
+bounds. The ancient idea confined investigations to crawling; and
 
-      for hundreds of years so great was the infatuation about Hog
+for hundreds of years so great was the infatuation about Hog
 
-      especially, that a virtual end was put to all thinking, properly
+especially, that a virtual end was put to all thinking, properly
 
-      so called. No man dared utter a [[Truth|truth]] to which he felt himself
+so called. No man dared utter a [[Truth|truth]] to which he felt himself
 
-      indebted to his [[Soul]] [[Alone|alone]]. It mattered not whether the [[Truth|truth]] was
+indebted to his [[Soul]] [[Alone|alone]]. It mattered not whether the [[Truth|truth]] was
 
-      even demonstrably a [[Truth|truth]], for the bullet-headed savans of the
+even demonstrably a [[Truth|truth]], for the bullet-headed savans of the
 
-      [[Time|time]] regarded only the [[Road|road]] by which he had attained it. They
+[[Time|time]] regarded only the [[Road|road]] by which he had attained it. They
 
-      would not even look at the end. “Let us see the means,” they
+would not even look at the end. “Let us see the means,” they
 
-      cried, “the means!” If, upon investigation of the means, it was
+cried, “the means!” If, upon investigation of the means, it was
 
-      found to come under neither the category Aries (that is to say
+found to come under neither the category Aries (that is to say
 
-      Ram) nor under the category Hog, why then the savans went no
+Ram) nor under the category Hog, why then the savans went no
 
-      farther, but pronounced the “theorist” a [[Fool|fool]], and would have
+farther, but pronounced the “theorist” a [[Fool|fool]], and would have
 
-      nothing to do with him or his [[Truth|truth]].
+nothing to do with him or his [[Truth|truth]].
 
 
 
-      Now, it cannot be maintained, even, that by the crawling system
+Now, it cannot be maintained, even, that by the crawling system
 
-      the greatest amount of [[Truth|truth]] would be attained in any long series
+the greatest amount of [[Truth|truth]] would be attained in any long series
 
-      of ages, for the repression of [[Imagination|imagination]] was an evil not to be
+of ages, for the repression of [[Imagination|imagination]] was an evil not to be
 
-      compensated for by any superior certainty in the ancient modes of
+compensated for by any superior certainty in the ancient modes of
 
-      investigation. The error of these Jurmains, these Vrinch, these
+investigation. The error of these Jurmains, these Vrinch, these
 
-      Inglitch, and these Amriccans (the latter, by the way, were our
+Inglitch, and these Amriccans (the latter, by the way, were our
 
-      own immediate progenitors), was an error quite analogous with
+own immediate progenitors), was an error quite analogous with
 
-      that of the wiseacre who fancies that he must necessarily see an
+that of the wiseacre who fancies that he must necessarily see an
 
-      object the better the more closely he holds it to his eyes. These
+object the better the more closely he holds it to his eyes. These
 
-      people blinded themselves by details. When they proceeded
+people blinded themselves by details. When they proceeded
 
-      Hoggishly, their “facts” were by no means always facts—a matter
+Hoggishly, their “facts” were by no means always facts—a matter
 
-      of little consequence had it not been for assuming that they were
+of little consequence had it not been for assuming that they were
 
-      facts and must be facts because they appeared to be such. When
+facts and must be facts because they appeared to be such. When
 
-      they proceeded on the path of the Ram, their course was scarcely
+they proceeded on the path of the Ram, their course was scarcely
 
-      as straight as a ram’s horn, for they never had an axiom which
+as straight as a ram’s horn, for they never had an axiom which
 
-      was an axiom at all. They must have been very blind not to see
+was an axiom at all. They must have been very blind not to see
 
-      this, even in their own day; for even in their own day many of
+this, even in their own day; for even in their own day many of
 
-      the long “established” axioms had been rejected. For example—“Ex
+the long “established” axioms had been rejected. For example—“Ex
 
-      nihilo nihil fit”; “a [[Body|body]] cannot act where it is not”; “there
+nihilo nihil fit”; “a [[Body|body]] cannot act where it is not”; “there
 
-      cannot exist antipodes”; “darkness cannot come out of light”—all
+cannot exist antipodes”; “darkness cannot come out of light”—all
 
-      these, and a dozen other similar propositions, formerly admitted
+these, and a dozen other similar propositions, formerly admitted
 
-      without hesitation as axioms, were, even at the period of which I
+without hesitation as axioms, were, even at the period of which I
 
-      speak, seen to be untenable. How absurd in these people, then, to
+speak, seen to be untenable. How absurd in these people, then, to
 
-      persist in putting [[Faith|faith]] in “axioms” as immutable bases of [[Truth]]!
+persist in putting [[Faith|faith]] in “axioms” as immutable bases of [[Truth]]!
 
-      But even out of the mouths of their soundest reasoners it is easy
+But even out of the mouths of their soundest reasoners it is easy
 
-      to demonstrate the futility, the impalpability of their axioms in
+to demonstrate the futility, the impalpability of their axioms in
 
-      general. Who was the soundest of their logicians? Let me see! I
+general. Who was the soundest of their logicians? Let me see! I
 
-      will go and ask Pundit and be back in a minute.... Ah, here we
+will go and ask Pundit and be back in a minute.... Ah, here we
 
-      have it! Here is a book written nearly a thousand years ago and
+have it! Here is a book written nearly a thousand years ago and
 
-      lately translated from the Inglitch—which, by the way, appears to
+lately translated from the Inglitch—which, by the way, appears to
 
-      have been the rudiment of the Amriccan. Pundit says it is
+have been the rudiment of the Amriccan. Pundit says it is
 
-      decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
+decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
 
-      author (who was much thought of in his day) was one Miller, or
+author (who was much thought of in his day) was one Miller, or
 
-      Mill; and we find it recorded of him, as a point of some
+Mill; and we find it recorded of him, as a point of some
 
-      importance, that he had a mill-[[Horse|horse]] called Bentham. But let us
+importance, that he had a mill-[[Horse|horse]] called Bentham. But let us
 
-      glance at the treatise!
+glance at the treatise!
 
 
 
-      Ah!—“Ability or inability to conceive,” says Mr. Mill, very
+Ah!—“Ability or inability to conceive,” says Mr. Mill, very
 
-      properly, “is in no case to be received as a criterion of
+properly, “is in no case to be received as a criterion of
 
-      axiomatic [[Truth|truth]].” What modern in his senses would ever think of
+axiomatic [[Truth|truth]].” What modern in his senses would ever think of
 
-      disputing this truism? The only [[Wonder|wonder]] with us must be, how it
+disputing this truism? The only [[Wonder|wonder]] with us must be, how it
 
-      happened that Mr. Mill conceived it necessary even to hint at any
+happened that Mr. Mill conceived it necessary even to hint at any
 
-      thing so obvious. So far good—but let us turn over another paper.
+thing so obvious. So far good—but let us turn over another paper.
 
-      What have we here?—“Contradictories cannot both be true—that is,
+What have we here?—“Contradictories cannot both be true—that is,
 
-      cannot co-exist in [[Nature|nature]].” Here Mr. Mill means, for example,
+cannot co-exist in [[Nature|nature]].” Here Mr. Mill means, for example,
 
-      that a tree must be either a tree or not a tree—that it cannot be
+that a tree must be either a tree or not a tree—that it cannot be
 
-      at the same [[Time|time]] a tree and not a tree. Very [[Well|well]]; but I ask him
+at the same [[Time|time]] a tree and not a tree. Very [[Well|well]]; but I ask him
 
-      why. His reply is this—and never pretends to be any thing else
+why. His reply is this—and never pretends to be any thing else
 
-      than this—“Because it is impossible to conceive that
+than this—“Because it is impossible to conceive that
 
-      contradictories can both be true.” But this is no answer at all,
+contradictories can both be true.” But this is no answer at all,
 
-      by his own showing, for has he not just admitted as a truism that
+by his own showing, for has he not just admitted as a truism that
 
-      “ability or inability to conceive is in no case to be received as
+“ability or inability to conceive is in no case to be received as
 
-      a criterion of axiomatic [[Truth|truth]].”
+a criterion of axiomatic [[Truth|truth]].”
 
 
 
-      Now I do not complain of these ancients so much because their
+Now I do not complain of these ancients so much because their
 
-      [[logic]] is, by their own showing, utterly baseless, worthless and
+[[logic]] is, by their own showing, utterly baseless, worthless and
 
-      fantastic altogether, as because of their pompous and imbecile
+fantastic altogether, as because of their pompous and imbecile
 
-      proscription of all other roads of [[Truth]], of all other means for
+proscription of all other roads of [[Truth]], of all other means for
 
-      its attainment than the two preposterous paths—the one of
+its attainment than the two preposterous paths—the one of
 
-      creeping and the one of crawling—to which they have dared to
+creeping and the one of crawling—to which they have dared to
 
-      confine the [[Soul]] that loves nothing so [[Well|well]] as to soar.
+confine the [[Soul]] that loves nothing so [[Well|well]] as to soar.
 
 
 
-      By the by, my dear friend, do you not think it would have puzzled
+By the by, my dear friend, do you not think it would have puzzled
 
-      these ancient dogmaticians to have determined by which of their
+these ancient dogmaticians to have determined by which of their
 
-      two roads it was that the most important and most [[Sublime|sublime]] of all
+two roads it was that the most important and most [[Sublime|sublime]] of all
 
-      their truths was, in effect, attained? I mean the [[Truth|truth]] of
+their truths was, in effect, attained? I mean the [[Truth|truth]] of
 
-      Gravitation. Newton owed it to Kepler. Kepler admitted that his
+Gravitation. Newton owed it to Kepler. Kepler admitted that his
 
-      three laws were guessed at—these three laws of all laws which led
+three laws were guessed at—these three laws of all laws which led
 
-      the great Inglitch mathematician to his principle, the basis of
+the great Inglitch mathematician to his principle, the basis of
 
-      all physical principle—to go behind which we must enter the
+all physical principle—to go behind which we must enter the
 
-      Kingdom of Metaphysics: Kepler guessed—that is to say imagined.
+Kingdom of Metaphysics: Kepler guessed—that is to say imagined.
 
-      He was essentially a “theorist”—that word now of so much
+He was essentially a “theorist”—that word now of so much
 
-      sanctity, formerly an epithet of contempt. Would it not have
+sanctity, formerly an epithet of contempt. Would it not have
 
-      puzzled these old moles too, to have explained by which of the
+puzzled these old moles too, to have explained by which of the
 
-      two “roads” a cryptographist unriddles a cryptograph of more than
+two “roads” a cryptographist unriddles a cryptograph of more than
 
-      usual secrecy, or by which of the two roads Champollion directed
+usual secrecy, or by which of the two roads Champollion directed
 
-      mankind to those enduring and almost innumerable truths which
+mankind to those enduring and almost innumerable truths which
 
-      resulted from his deciphering the Hieroglyphics.
+resulted from his deciphering the Hieroglyphics.
 
 
 
-      One word more on this topic and I will be done boring you. Is it
+One word more on this topic and I will be done boring you. Is it
 
-      not passing strange that, with their eternal prattling about
+not passing strange that, with their eternal prattling about
 
-      roads to [[Truth]], these bigoted people missed what we now so
+roads to [[Truth]], these bigoted people missed what we now so
 
-      clearly perceive to be the great highway—that of Consistency?
+clearly perceive to be the great highway—that of Consistency?
 
-      Does it not seem singular how they should have failed to deduce
+Does it not seem singular how they should have failed to deduce
 
-      from the works of God the vital fact that a perfect consistency
+from the works of God the vital fact that a perfect consistency
 
-      must be an absolute [[Truth|truth]]! How plain has been our progress since
+must be an absolute [[Truth|truth]]! How plain has been our progress since
 
-      the late announcement of this proposition! Investigation has been
+the late announcement of this proposition! Investigation has been
 
-      taken out of the hands of the ground-moles and given, as a task,
+taken out of the hands of the ground-moles and given, as a task,
 
-      to the true and only true thinkers, the men of ardent
+to the true and only true thinkers, the men of ardent
 
-      [[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
+[[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
 
-      of scorn with which my words would be received by our progenitors
+of scorn with which my words would be received by our progenitors
 
-      were it possible for them to be now looking over my shoulder?
+were it possible for them to be now looking over my shoulder?
 
-      These men, I say, theorize; and their theories are simply
+These men, I say, theorize; and their theories are simply
 
-      corrected, reduced, systematized—cleared, little by little, of
+corrected, reduced, systematized—cleared, little by little, of
 
-      their dross of inconsistency—until, finally, a perfect
+their dross of inconsistency—until, finally, a perfect
 
-      consistency stands apparent which even the most stolid admit,
+consistency stands apparent which even the most stolid admit,
 
-      because it is a consistency, to be an absolute and an
+because it is a consistency, to be an absolute and an
 
-      unquestionable [[Truth|truth]].
+unquestionable [[Truth|truth]].
 
 
 
-      April 4.—The new gas is doing wonders, in conjunction with the
+April 4.—The new gas is doing wonders, in conjunction with the
 
-      new improvement with gutta percha. How very safe, commodious,
+new improvement with gutta percha. How very safe, commodious,
 
-      manageable, and in every respect convenient are our modern
+manageable, and in every respect convenient are our modern
 
-      balloons! Here is an immense one approaching us at the rate of at
+balloons! Here is an immense one approaching us at the rate of at
 
-      least a hundred and fifty miles an hour. It seems to be crowded
+least a hundred and fifty miles an hour. It seems to be crowded
 
-      with people—perhaps there are three or four hundred
+with people—perhaps there are three or four hundred
 
-      passengers—and yet it soars to an elevation of nearly a mile,
+passengers—and yet it soars to an elevation of nearly a mile,
 
-      looking down upon poor us with sovereign contempt. Still a
+looking down upon poor us with sovereign contempt. Still a
 
-      hundred or even two hundred miles an hour is slow travelling
+hundred or even two hundred miles an hour is slow travelling
 
-      after all. Do you remember our flight on the railroad across the
+after all. Do you remember our flight on the railroad across the
 
-      Kanadaw continent?—fully three hundred miles the hour—that was
+Kanadaw continent?—fully three hundred miles the hour—that was
 
-      travelling. Nothing to be seen though—nothing to be done but
+travelling. Nothing to be seen though—nothing to be done but
 
-      flirt, feast and [[Dance|dance]] in the magnificent saloons. Do you
+flirt, feast and [[Dance|dance]] in the magnificent saloons. Do you
 
-      remember what an odd sensation was experienced when, by chance,
+remember what an odd sensation was experienced when, by chance,
 
-      we caught a glimpse of external objects while the cars were in
+we caught a glimpse of external objects while the cars were in
 
-      full flight? Every thing seemed unique—in one mass. For my part,
+full flight? Every thing seemed unique—in one mass. For my part,
 
-      I cannot say but that I preferred the travelling by the slow
+I cannot say but that I preferred the travelling by the slow
 
-      train of a hundred miles the hour. Here we were permitted to have
+train of a hundred miles the hour. Here we were permitted to have
 
-      glass windows—even to have them open—and something like a
+glass windows—even to have them open—and something like a
 
-      distinct view of the country was attainable.... Pundit says that
+distinct view of the country was attainable.... Pundit says that
 
-      the route for the great Kanadaw railroad must have been in some
+the route for the great Kanadaw railroad must have been in some
 
-      measure marked out about nine hundred years ago! In fact, he goes
+measure marked out about nine hundred years ago! In fact, he goes
 
-      so far as to assert that actual traces of a [[Road|road]] are still
+so far as to assert that actual traces of a [[Road|road]] are still
 
-      discernible—traces referable to a period quite as remote as that
+discernible—traces referable to a period quite as remote as that
 
-      mentioned. The track, it appears was [[Double|double]] only; ours, you know,
+mentioned. The track, it appears was [[Double|double]] only; ours, you know,
 
-      has twelve paths; and three or four new ones are in preparation.
+has twelve paths; and three or four new ones are in preparation.
 
-      The ancient rails were very slight, and placed so close together
+The ancient rails were very slight, and placed so close together
 
-      as to be, according to modern notions, quite frivolous, if not
+as to be, according to modern notions, quite frivolous, if not
 
-      dangerous in the extreme. The present width of track—fifty
+dangerous in the extreme. The present width of track—fifty
 
-      feet—is considered, indeed, scarcely secure enough. For my part,
+feet—is considered, indeed, scarcely secure enough. For my part,
 
-      I make no [[Doubt|doubt]] that a track of some sort must have existed in
+I make no [[Doubt|doubt]] that a track of some sort must have existed in
 
-      very remote times, as Pundit asserts; for nothing can be clearer,
+very remote times, as Pundit asserts; for nothing can be clearer,
 
-      to my mind, than that, at some period—not less than seven
+to my mind, than that, at some period—not less than seven
 
-      centuries ago, certainly—the Northern and Southern Kanadaw
+centuries ago, certainly—the Northern and Southern Kanadaw
 
-      continents were united; the Kanawdians, then, would have been
+continents were united; the Kanawdians, then, would have been
 
-      driven, by necessity, to a great railroad across the continent.
+driven, by necessity, to a great railroad across the continent.
 
 
 
-      April 5.—I am almost devoured by _ennui_. Pundit is the only
+April 5.—I am almost devoured by _ennui_. Pundit is the only
 
-      conversible person on board; and he, poor [[Soul|soul]]! can speak of
+conversible person on board; and he, poor [[Soul|soul]]! can speak of
 
-      nothing but antiquities. He has been occupied all the day in the
+nothing but antiquities. He has been occupied all the day in the
 
-      attempt to convince me that the ancient Amriccans governed
+attempt to convince me that the ancient Amriccans governed
 
-      themselves!—did ever anybody hear of such an absurdity?—that they
+themselves!—did ever anybody hear of such an absurdity?—that they
 
-      existed in a sort of every-man-for-himself confederacy, after the
+existed in a sort of every-man-for-himself confederacy, after the
 
-      fashion of the “prairie [[dogs]]” that we read of in [[Fable|fable]]. He says
+fashion of the “prairie [[dogs]]” that we read of in [[Fable|fable]]. He says
 
-      that they started with the queerest idea conceivable, viz: that
+that they started with the queerest idea conceivable, viz: that
 
-      all men are born free and equal—this in the very teeth of the
+all men are born free and equal—this in the very teeth of the
 
-      laws of _gradation_ so visibly impressed upon all things both in
+laws of _gradation_ so visibly impressed upon all things both in
 
-      the moral and physical universe. Every man “voted,” as they
+the moral and physical universe. Every man “voted,” as they
 
-      called it—that is to say meddled with public affairs—until at
+called it—that is to say meddled with public affairs—until at
 
-      length, it was discovered that what is everybody’s business is
+length, it was discovered that what is everybody’s business is
 
-      nobody’s, and that the “Republic” (so the absurd thing was
+nobody’s, and that the “Republic” (so the absurd thing was
 
-      called) was without a [[government]] at all. It is related, however,
+called) was without a [[government]] at all. It is related, however,
 
-      that the first circumstance which disturbed, very particularly,
+that the first circumstance which disturbed, very particularly,
 
-      the [[Self|self]]-complacency of the philosophers who constructed this
+the [[Self|self]]-complacency of the philosophers who constructed this
 
-      “Republic,” was the startling discovery that universal suffrage
+“Republic,” was the startling discovery that universal suffrage
 
-      gave opportunity for fraudulent schemes, by means of which any
+gave opportunity for fraudulent schemes, by means of which any
 
-      desired number of votes might at any [[Time|time]] be polled, without the
+desired number of votes might at any [[Time|time]] be polled, without the
 
-      possibility of prevention or even detection, by any party which
+possibility of prevention or even detection, by any party which
 
-      should be merely villainous enough not to be ashamed of the
+should be merely villainous enough not to be ashamed of the
 
-      fraud. A little reflection upon this discovery sufficed to render
+fraud. A little reflection upon this discovery sufficed to render
 
-      evident the consequences, which were that rascality must
+evident the consequences, which were that rascality must
 
-      predominate—in a word, that a republican [[government]] could never
+predominate—in a word, that a republican [[government]] could never
 
-      be any thing but a rascally one. While the philosophers, however,
+be any thing but a rascally one. While the philosophers, however,
 
-      were busied in blushing at their stupidity in not having foreseen
+were busied in blushing at their stupidity in not having foreseen
 
-      these inevitable evils, and intent upon the invention of new
+these inevitable evils, and intent upon the invention of new
 
-      theories, the matter was put to an abrupt issue by a fellow of
+theories, the matter was put to an abrupt issue by a fellow of
 
-      the name of Mob, who took every thing into his own hands and set
+the name of Mob, who took every thing into his own hands and set
 
-      up a despotism, in comparison with which those of the fabulous
+up a despotism, in comparison with which those of the fabulous
 
-      Zeros and Hellofagabaluses were respectable and delectable. This
+Zeros and Hellofagabaluses were respectable and delectable. This
 
-      Mob (a foreigner, by-the-by), is said to have been the most
+Mob (a foreigner, by-the-by), is said to have been the most
 
-      odious of all men that ever encumbered the earth. He was a giant
+odious of all men that ever encumbered the earth. He was a giant
 
-      in stature—insolent, rapacious, filthy, had the gall of a bullock
+in stature—insolent, rapacious, filthy, had the gall of a bullock
 
-      with the heart of a hyena and the brains of a peacock. He died,
+with the heart of a hyena and the brains of a peacock. He died,
 
-      at length, by dint of his own energies, which exhausted him.
+at length, by dint of his own energies, which exhausted him.
 
-      Nevertheless, he had his uses, as every thing has, however vile,
+Nevertheless, he had his uses, as every thing has, however vile,
 
-      and taught mankind a lesson which to this day it is in no danger
+and taught mankind a lesson which to this day it is in no danger
 
-      of forgetting—never to run directly contrary to the natural
+of forgetting—never to run directly contrary to the natural
 
-      analogies. As for Republicanism, no analogy could be found for it
+analogies. As for Republicanism, no analogy could be found for it
 
-      upon the face of the earth—unless we except the case of the
+upon the face of the earth—unless we except the case of the
 
-      “prairie [[dogs]],” an exception which seems to demonstrate, if
+“prairie [[dogs]],” an exception which seems to demonstrate, if
 
-      anything, that [[democracy]] is a very admirable form of
+anything, that [[democracy]] is a very admirable form of
 
-      [[government]]—for [[dogs]].
+[[government]]—for [[dogs]].
 
 
 
-      April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
+April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
 
-      through our captain’s spy-glass, subtends an angle of half a
+through our captain’s spy-glass, subtends an angle of half a
 
-      degree, looking very much as our sun does to the naked eye on a
+degree, looking very much as our sun does to the naked eye on a
 
-      misty day. Alpha Lyrae, although so very much larger than our
+misty day. Alpha Lyrae, although so very much larger than our
 
-      sun, by the by, resembles him closely as regards its spots, its
+sun, by the by, resembles him closely as regards its spots, its
 
-      atmosphere, and in many other particulars. It is only within the
+atmosphere, and in many other particulars. It is only within the
 
-      last century, Pundit tells me, that the binary relation existing
+last century, Pundit tells me, that the binary relation existing
 
-      between these two orbs began even to be suspected. The evident
+between these two orbs began even to be suspected. The evident
 
-      motion of our system in the heavens was (strange to say!)
+motion of our system in the heavens was (strange to say!)
 
-      referred to an orbit about a prodigious star in the centre of the
+referred to an orbit about a prodigious star in the centre of the
 
-      galaxy. About this star, or at all events about a centre of
+galaxy. About this star, or at all events about a centre of
 
-      gravity common to all the globes of the Milky Way and supposed to
+gravity common to all the globes of the Milky Way and supposed to
 
-      be near Alcyone in the Pleiades, every one of these globes was
+be near Alcyone in the Pleiades, every one of these globes was
 
-      declared to be revolving, our own performing the circuit in a
+declared to be revolving, our own performing the circuit in a
 
-      period of 117,000,000 of years! We, with our present lights, our
+period of 117,000,000 of years! We, with our present lights, our
 
-      vast telescopic improvements, and so forth, of course find it
+vast telescopic improvements, and so forth, of course find it
 
-      difficult to comprehend the ground of an idea such as this. Its
+difficult to comprehend the ground of an idea such as this. Its
 
-      first propagator was one Mudler. He was led, we must presume, to
+first propagator was one Mudler. He was led, we must presume, to
 
-      this wild hypothesis by mere analogy in the first instance; but,
+this wild hypothesis by mere analogy in the first instance; but,
 
-      this being the case, he should have at least adhered to analogy
+this being the case, he should have at least adhered to analogy
 
-      in its development. A great central orb was, in fact, suggested;
+in its development. A great central orb was, in fact, suggested;
 
-      so far Mudler was consistent. This central orb, however,
+so far Mudler was consistent. This central orb, however,
 
-      dynamically, should have been greater than all its surrounding
+dynamically, should have been greater than all its surrounding
 
-      orbs taken together. The question might then have been asked—“Why
+orbs taken together. The question might then have been asked—“Why
 
-      do we not see it?”—we, especially, who occupy the mid region of
+do we not see it?”—we, especially, who occupy the mid region of
 
-      the cluster—the very locality near which, at least, must be
+the cluster—the very locality near which, at least, must be
 
-      situated this inconceivable central sun. The astronomer, perhaps,
+situated this inconceivable central sun. The astronomer, perhaps,
 
-      at this point, took refuge in the suggestion of non-luminosity;
+at this point, took refuge in the suggestion of non-luminosity;
 
-      and here analogy was suddenly let fall. But even admitting the
+and here analogy was suddenly let fall. But even admitting the
 
-      central orb non-luminous, how did he manage to explain its
+central orb non-luminous, how did he manage to explain its
 
-      failure to be rendered visible by the incalculable host of
+failure to be rendered visible by the incalculable host of
 
-      glorious suns glaring in all directions about it? No [[Doubt|doubt]] what
+glorious suns glaring in all directions about it? No [[Doubt|doubt]] what
 
-      he finally maintained was merely a centre of gravity common to
+he finally maintained was merely a centre of gravity common to
 
-      all the revolving orbs—but here again analogy must have been let
+all the revolving orbs—but here again analogy must have been let
 
-      fall. Our system revolves, it is true, about a common centre of
+fall. Our system revolves, it is true, about a common centre of
 
-      gravity, but it does this in connection with and in consequence
+gravity, but it does this in connection with and in consequence
 
-      of a material sun whose mass more than counterbalances the rest
+of a material sun whose mass more than counterbalances the rest
 
-      of the system. The mathematical circle is a curve composed of an
+of the system. The mathematical circle is a curve composed of an
 
-      infinity of straight lines; but this idea of the circle—this idea
+infinity of straight lines; but this idea of the circle—this idea
 
-      of it which, in regard to all earthly geometry, we consider as
+of it which, in regard to all earthly geometry, we consider as
 
-      merely the mathematical, in contradistinction from the practical,
+merely the mathematical, in contradistinction from the practical,
 
-      idea—is, in sober fact, the practical conception which [[Alone|alone]] we
+idea—is, in sober fact, the practical conception which [[Alone|alone]] we
 
-      have any right to entertain in respect to those [[titanic|Titanic]] circles
+have any right to entertain in respect to those [[titanic|Titanic]] circles
 
-      with which we have to deal, at least in fancy, when we suppose
+with which we have to deal, at least in fancy, when we suppose
 
-      our system, with its fellows, revolving about a point in the
+our system, with its fellows, revolving about a point in the
 
-      centre of the galaxy. Let the most vigorous of human imaginations
+centre of the galaxy. Let the most vigorous of human imaginations
 
-      but attempt to take a single step toward the comprehension of a
+but attempt to take a single step toward the comprehension of a
 
-      circuit so unutterable! It would scarcely be paradoxical to say
+circuit so unutterable! It would scarcely be paradoxical to say
 
-      that a flash of [[Lightning|lightning]] itself, travelling forever upon the
+that a flash of [[Lightning|lightning]] itself, travelling forever upon the
 
-      circumference of this inconceivable circle, would still forever
+circumference of this inconceivable circle, would still forever
 
-      be travelling in a straight line. That the path of our sun along
+be travelling in a straight line. That the path of our sun along
 
-      such a circumference—that the direction of our system in such an
+such a circumference—that the direction of our system in such an
 
-      orbit—would, to any human perception, deviate in the slightest
+orbit—would, to any human perception, deviate in the slightest
 
-      degree from a straight line even in a million of years, is a
+degree from a straight line even in a million of years, is a
 
-      proposition not to be entertained; and yet these ancient
+proposition not to be entertained; and yet these ancient
 
-      astronomers were absolutely cajoled, it appears, into believing
+astronomers were absolutely cajoled, it appears, into believing
 
-      that a decisive curvature had become apparent during the brief
+that a decisive curvature had become apparent during the brief
 
-      period of their astronomical [[history]]—during the mere point—during
+period of their astronomical [[history]]—during the mere point—during
 
-      the utter nothingness of two or three thousand years! How
+the utter nothingness of two or three thousand years! How
 
-      incomprehensible, that considerations such as this did not at
+incomprehensible, that considerations such as this did not at
 
-      once indicate to them the true state of affairs—that of the
+once indicate to them the true state of affairs—that of the
 
-      binary revolution of our sun and Alpha Lyrae around a common
+binary revolution of our sun and Alpha Lyrae around a common
 
-      centre of gravity!
+centre of gravity!
 
 
 
-      April 7.—Continued last [[Night|night]] our astronomical amusements. Had a
+April 7.—Continued last [[Night|night]] our astronomical amusements. Had a
 
-      fine view of the five Neptunian asteroids, and watched with much
+fine view of the five Neptunian asteroids, and watched with much
 
-      interest the putting up of a huge impost on a couple of lintels
+interest the putting up of a huge impost on a couple of lintels
 
-      in the new temple at Daphnis in the [[Moon|moon]]. It was amusing to think
+in the new temple at Daphnis in the [[Moon|moon]]. It was amusing to think
 
-      that creatures so diminutive as the lunarians, and bearing so
+that creatures so diminutive as the lunarians, and bearing so
 
-      little resemblance to humanity, yet evinced a mechanical
+little resemblance to humanity, yet evinced a mechanical
 
-      ingenuity so much superior to our own. One finds it difficult,
+ingenuity so much superior to our own. One finds it difficult,
 
-      too, to conceive the vast masses which these people handle so
+too, to conceive the vast masses which these people handle so
 
-      easily, to be as light as our own reason tells us they actually
+easily, to be as light as our own reason tells us they actually
 
-      are.
+are.
 
 
 
-      April 8.—Eureka! Pundit is in his glory. A balloon from Kanadaw
+April 8.—Eureka! Pundit is in his glory. A balloon from Kanadaw
 
-      spoke us to-day and threw on board several late papers; they
+spoke us to-day and threw on board several late papers; they
 
-      contain some exceedingly curious information relative to
+contain some exceedingly curious information relative to
 
-      Kanawdian or rather Amriccan antiquities. You know, I presume,
+Kanawdian or rather Amriccan antiquities. You know, I presume,
 
-      that laborers have for some months been employed in preparing the
+that laborers have for some months been employed in preparing the
 
-      ground for a new fountain at Paradise, the Emperor’s principal
+ground for a new fountain at Paradise, the Emperor’s principal
 
-      pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
+pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
 
-      speaking, an island [[Time|time]] out of mind—that is to say, its northern
+speaking, an island [[Time|time]] out of mind—that is to say, its northern
 
-      boundary was always (as far back as any record extends) a
+boundary was always (as far back as any record extends) a
 
-      rivulet, or rather a very narrow arm of the sea. This arm was
+rivulet, or rather a very narrow arm of the sea. This arm was
 
-      gradually widened until it attained its present breadth—a mile.
+gradually widened until it attained its present breadth—a mile.
 
-      The whole length of the island is nine miles; the breadth varies
+The whole length of the island is nine miles; the breadth varies
 
-      materially. The entire area (so Pundit says) was, about eight
+materially. The entire area (so Pundit says) was, about eight
 
-      hundred years ago, densely packed with houses, some of them
+hundred years ago, densely packed with houses, some of them
 
-      twenty stories high; land (for some most unaccountable reason)
+twenty stories high; land (for some most unaccountable reason)
 
-      being considered as especially precious just in this vicinity.
+being considered as especially precious just in this vicinity.
 
-      The disastrous earthquake, however, of the year 2050, so totally
+The disastrous earthquake, however, of the year 2050, so totally
 
-      uprooted and overwhelmed the town (for it was almost too large to
+uprooted and overwhelmed the town (for it was almost too large to
 
-      be called a village) that the most indefatigable of our
+be called a village) that the most indefatigable of our
 
-      antiquarians have never yet been able to obtain from the site any
+antiquarians have never yet been able to obtain from the site any
 
-      sufficient data (in the shape of coins, medals or inscriptions)
+sufficient data (in the shape of coins, medals or inscriptions)
 
-      wherewith to build up even the [[Ghost|ghost]] of a theory concerning the
+wherewith to build up even the [[Ghost|ghost]] of a theory concerning the
 
-      manners, customs, &c., &c., &c., of the aboriginal inhabitants.
+manners, customs, &c., &c., &c., of the aboriginal inhabitants.
 
-      Nearly all that we have hitherto known of them is, that they were
+Nearly all that we have hitherto known of them is, that they were
 
-      a portion of the Knickerbocker tribe of savages infesting the
+a portion of the Knickerbocker tribe of savages infesting the
 
-      continent at its first discovery by Recorder Riker, a knight of
+continent at its first discovery by Recorder Riker, a knight of
 
-      the Golden Fleece. They were by no means uncivilized, however,
+the Golden Fleece. They were by no means uncivilized, however,
 
-      but cultivated various arts and even sciences after a fashion of
+but cultivated various arts and even sciences after a fashion of
 
-      their own. It is related of them that they were acute in many
+their own. It is related of them that they were acute in many
 
-      respects, but were oddly afflicted with monomania for building
+respects, but were oddly afflicted with monomania for building
 
-      what, in the ancient Amriccan, was denominated “churches”—a kind
+what, in the ancient Amriccan, was denominated “churches”—a kind
 
-      of pagoda instituted for the worship of two idols that went by
+of pagoda instituted for the worship of two idols that went by
 
-      the names of Wealth and Fashion. In the end, it is said, the
+the names of Wealth and Fashion. In the end, it is said, the
 
-      island became, nine tenths of it, church. The women, too, it
+island became, nine tenths of it, church. The women, too, it
 
-      appears, were oddly deformed by a natural protuberance of the
+appears, were oddly deformed by a natural protuberance of the
 
-      region just below the small of the back—although, most
+region just below the small of the back—although, most
 
-      unaccountably, this deformity was looked upon altogether in the
+unaccountably, this deformity was looked upon altogether in the
 
-      light of a [[Beauty|beauty]]. One or two pictures of these singular women
+light of a [[Beauty|beauty]]. One or two pictures of these singular women
 
-      have in fact, been miraculously preserved. They look very odd,
+have in fact, been miraculously preserved. They look very odd,
 
-      very—like something between a turkey-cock and a dromedary.
+very—like something between a turkey-cock and a dromedary.
 
 
 
-      [[Well]], these few details are nearly all that have descended to us
+[[Well]], these few details are nearly all that have descended to us
 
-      respecting the ancient Knickerbockers. It seems, however, that
+respecting the ancient Knickerbockers. It seems, however, that
 
-      while digging in the centre of the emperors [[Garden|garden]], (which, you
+while digging in the centre of the emperors [[Garden|garden]], (which, you
 
-      know, covers the whole island), some of the workmen unearthed a
+know, covers the whole island), some of the workmen unearthed a
 
-      cubical and evidently chiseled block of granite, weighing several
+cubical and evidently chiseled block of granite, weighing several
 
-      hundred pounds. It was in good preservation, having received,
+hundred pounds. It was in good preservation, having received,
 
-      apparently, little injury from the convulsion which entombed it.
+apparently, little injury from the convulsion which entombed it.
 
-      On one of its surfaces was a marble slab with (only think of it!)
+On one of its surfaces was a marble slab with (only think of it!)
 
-      an [[Inscription|inscription]]—a legible [[Inscription|inscription]]. Pundit is in ecstacies.
+an [[Inscription|inscription]]—a legible [[Inscription|inscription]]. Pundit is in ecstacies.
 
-      Upon detaching the slab, a cavity appeared, containing a leaden
+Upon detaching the slab, a cavity appeared, containing a leaden
 
-      box filled with various coins, a long scroll of names, several
+box filled with various coins, a long scroll of names, several
 
-      documents which appear to resemble newspapers, with other matters
+documents which appear to resemble newspapers, with other matters
 
-      of intense interest to the antiquarian! There can be no [[Doubt|doubt]]
+of intense interest to the antiquarian! There can be no [[Doubt|doubt]]
 
-      that all these are genuine Amriccan relics belonging to the tribe
+that all these are genuine Amriccan relics belonging to the tribe
 
-      called Knickerbocker. The papers thrown on board our balloon are
+called Knickerbocker. The papers thrown on board our balloon are
 
-      filled with fac-similes of the coins, MSS., typography, &c., &c.
+filled with fac-similes of the coins, MSS., typography, &c., &c.
 
-      I copy for your amusement the Knickerbocker [[Inscription|inscription]] on the
+I copy for your amusement the Knickerbocker [[Inscription|inscription]] on the
 
-      marble slab:—
+marble slab:—
 
 
 
-          This Corner Stone of a Monument to
+This Corner Stone of a Monument to
 
-                  The [[Memory]] of
+The [[Memory]] of
 
-                GEORGE WASHINGTON
+GEORGE WASHINGTON
 
-          Was Laid With Appropriate Ceremonies
+Was Laid With Appropriate Ceremonies
 
-                    on the
+on the
 
-             19th Day of October, 1847
+19th Day of October, 1847
 
-          The anniversary of the surrender of
+The anniversary of the surrender of
 
-                 Lord Cornwallis
+Lord Cornwallis
 
-          to General Washington at Yorktown
+to General Washington at Yorktown
 
-                 A. D. 1781
+A. D. 1781
 
-            Under the Auspices of the
+Under the Auspices of the
 
-          Washington Monument Association of
+Washington Monument Association of
 
-                the [[City|city]] of [[New York]]
+the [[City|city]] of [[New York]]
 
 
 
-      This, as I give it, is a verbatim [[Translation|translation]] done by Pundit
+This, as I give it, is a verbatim [[Translation|translation]] done by Pundit
 
-      himself, so there can be no mistake about it. From the few words
+himself, so there can be no mistake about it. From the few words
 
-      thus preserved, we glean several important items of knowledge,
+thus preserved, we glean several important items of knowledge,
 
-      not the least interesting of which is the fact that a thousand
+not the least interesting of which is the fact that a thousand
 
-      years ago actual monuments had fallen into disuse—as was all very
+years ago actual monuments had fallen into disuse—as was all very
 
-      proper—the people contenting themselves, as we do now, with a
+proper—the people contenting themselves, as we do now, with a
 
-      mere indication of the design to erect a monument at some future
+mere indication of the design to erect a monument at some future
 
-      [[Time|time]]; a corner-stone being cautiously laid by itself “solitary
+[[Time|time]]; a corner-stone being cautiously laid by itself “solitary
 
-      and [[Alone|alone]]” (excuse me for quoting the great American poet
+and [[Alone|alone]]” (excuse me for quoting the great American poet
 
-      Benton!), as a guarantee of the magnanimous intention. We
+Benton!), as a guarantee of the magnanimous intention. We
 
-      ascertain, too, very distinctly, from this admirable [[Inscription|inscription]],
+ascertain, too, very distinctly, from this admirable [[Inscription|inscription]],
 
-      the how as [[Well|well]] as the where and the what, of the great surrender
+the how as [[Well|well]] as the where and the what, of the great surrender
 
-      in question. As to the where, it was Yorktown (wherever that
+in question. As to the where, it was Yorktown (wherever that
 
-      was), and as to the what, it was General Cornwallis (no [[Doubt|doubt]]
+was), and as to the what, it was General Cornwallis (no [[Doubt|doubt]]
 
-      some wealthy dealer in corn). He was surrendered. The [[Inscription|inscription]]
+some wealthy dealer in corn). He was surrendered. The [[Inscription|inscription]]
 
-      commemorates the surrender of—what?—why, “of Lord Cornwallis.”
+commemorates the surrender of—what?—why, “of Lord Cornwallis.”
 
-      The only question is what could the savages wish him surrendered
+The only question is what could the savages wish him surrendered
 
-      for. But when we remember that these savages were undoubtedly
+for. But when we remember that these savages were undoubtedly
 
-      cannibals, we are led to the conclusion that they intended him
+cannibals, we are led to the conclusion that they intended him
 
-      for sausage. As to the how of the surrender, no language can be
+for sausage. As to the how of the surrender, no language can be
 
-      more explicit. Lord Cornwallis was surrendered (for sausage)
+more explicit. Lord Cornwallis was surrendered (for sausage)
 
-      “under the auspices of the Washington Monument Association”—no
+“under the auspices of the Washington Monument Association”—no
 
-      [[Doubt|doubt]] a charitable institution for the depositing of
+[[Doubt|doubt]] a charitable institution for the depositing of
 
-      corner-stones.—But, Heaven bless me! what is the matter? Ah, I
+corner-stones.—But, Heaven bless me! what is the matter? Ah, I
 
-      see—the balloon has collapsed, and we shall have a tumble into
+see—the balloon has collapsed, and we shall have a tumble into
 
-      the sea. I have, therefore, only [[Time|time]] enough to add that, from a
+the sea. I have, therefore, only [[Time|time]] enough to add that, from a
 
-      hasty inspection of the fac-similes of newspapers, &c., &c., I
+hasty inspection of the fac-similes of newspapers, &c., &c., I
 
-      find that the great men in those days among the Amriccans, were
+find that the great men in those days among the Amriccans, were
 
-      one John, a [[smith]], and one Zacchary, a tailor.
+one John, a [[smith]], and one Zacchary, a tailor.
 
 
 
-      Good-bye, until I see you again. Whether you ever get this letter
+Good-bye, until I see you again. Whether you ever get this letter
 
-      or not is point of little importance, as I write altogether for
+or not is point of little importance, as I write altogether for
 
-      my own amusement. I shall cork the MS. up in a bottle, however,
+my own amusement. I shall cork the MS. up in a bottle, however,
 
-      and throw it into the sea.
+and throw it into the sea.
 
 
 
-      Yours everlastingly,
+Yours everlastingly,
 
-       PUNDITA.
+PUNDITA.
 
 
 
@@ -1144,31 +1144,31 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
 
 
-      I have the honor of sending you, for your magazine, an article
+I have the honor of sending you, for your magazine, an article
 
-      which I [[Hope|hope]] you will be able to comprehend rather more
+which I [[Hope|hope]] you will be able to comprehend rather more
 
-      distinctly than I do myself. It is a [[Translation|translation]], by my friend,
+distinctly than I do myself. It is a [[Translation|translation]], by my friend,
 
-      Martin Van Buren Mavis, (sometimes called the “Poughkeepsie
+Martin Van Buren Mavis, (sometimes called the “Poughkeepsie
 
-      Seer”) of an odd-looking MS. which I found, about a year ago,
+Seer”) of an odd-looking MS. which I found, about a year ago,
 
-      tightly corked up in a jug floating in the Mare Tenebrarum—a sea
+tightly corked up in a jug floating in the Mare Tenebrarum—a sea
 
-      [[Well|well]] described by the Nubian geographer, but seldom visited
+[[Well|well]] described by the Nubian geographer, but seldom visited
 
-      now-a-days, except for the transcendentalists and divers for
+now-a-days, except for the transcendentalists and divers for
 
-      crotchets.
-
-
-
-      Truly yours,
+crotchets.
 
 
 
-      [[Edgar|EDGAR]] A. POE
+Truly yours,
+
+
+
+[[Edgar|EDGAR]] A. POE
 
 
 
@@ -1180,163 +1180,163 @@ ON BOARD BALLOON “SKYLARK”
 
 
 
-      _April_, 1, 2848
+_April_, 1, 2848
 
 
 
-      Now, my dear friend—now, for your sins, you are to suffer the
+Now, my dear friend—now, for your sins, you are to suffer the
 
-      infliction of a long gossiping letter. I tell you distinctly that
+infliction of a long gossiping letter. I tell you distinctly that
 
-      I am going to punish you for all your impertinences by being as
+I am going to punish you for all your impertinences by being as
 
-      tedious, as discursive, as incoherent and as unsatisfactory as
+tedious, as discursive, as incoherent and as unsatisfactory as
 
-      possible. Besides, here I am, cooped up in a dirty balloon, with
+possible. Besides, here I am, cooped up in a dirty balloon, with
 
-      some one or two hundred of the canaille, all bound on a pleasure
+some one or two hundred of the canaille, all bound on a pleasure
 
-      excursion, (what a funny idea some people have of pleasure!) and
+excursion, (what a funny idea some people have of pleasure!) and
 
-      I have no prospect of touching terra firma for a month at least.
+I have no prospect of touching terra firma for a month at least.
 
-      Nobody to talk to. Nothing to do. When one has nothing to do,
+Nobody to talk to. Nothing to do. When one has nothing to do,
 
-      then is the [[Time|time]] to correspond with ones friends. You perceive,
+then is the [[Time|time]] to correspond with ones friends. You perceive,
 
-      then, why it is that I write you this letter—it is on account of
+then, why it is that I write you this letter—it is on account of
 
-      my ennui and your sins.
+my ennui and your sins.
 
 
 
-      Get ready your spectacles and make up your mind to be annoyed. I
+Get ready your spectacles and make up your mind to be annoyed. I
 
-      mean to write at you every day during this odious voyage.
+mean to write at you every day during this odious voyage.
 
 
 
-      Heigho! when will any Invention visit the human pericranium? Are
+Heigho! when will any Invention visit the human pericranium? Are
 
-      we forever to be doomed to the thousand inconveniences of the
+we forever to be doomed to the thousand inconveniences of the
 
-      balloon? Will nobody contrive a more expeditious mode of
+balloon? Will nobody contrive a more expeditious mode of
 
-      progress? The jog-trot movement, to my thinking, is little less
+progress? The jog-trot movement, to my thinking, is little less
 
-      than positive torture. Upon my word we have not made more than a
+than positive torture. Upon my word we have not made more than a
 
-      hundred miles the hour since leaving [[Home|home]]! The very [[Birds|birds]] beat
+hundred miles the hour since leaving [[Home|home]]! The very [[Birds|birds]] beat
 
-      us—at least some of them. I assure you that I do not exaggerate
+us—at least some of them. I assure you that I do not exaggerate
 
-      at all. Our motion, no [[Doubt|doubt]], seems slower than it actually
+at all. Our motion, no [[Doubt|doubt]], seems slower than it actually
 
-      is—this on account of our having no objects about us by which to
+is—this on account of our having no objects about us by which to
 
-      estimate our velocity, and on account of our going with the [[Wind|wind]].
+estimate our velocity, and on account of our going with the [[Wind|wind]].
 
-      To be sure, whenever we meet a balloon we have a chance of
+To be sure, whenever we meet a balloon we have a chance of
 
-      perceiving our rate, and then, I admit, things do not appear so
+perceiving our rate, and then, I admit, things do not appear so
 
-      very bad. Accustomed as I am to this mode of travelling, I cannot
+very bad. Accustomed as I am to this mode of travelling, I cannot
 
-      get over a kind of giddiness whenever a balloon passes us in a
+get over a kind of giddiness whenever a balloon passes us in a
 
-      current directly overhead. It always seems to me like an immense
+current directly overhead. It always seems to me like an immense
 
-      bird of prey about to pounce upon us and carry us off in its
+bird of prey about to pounce upon us and carry us off in its
 
-      claws. One went over us this morning about sunrise, and so nearly
+claws. One went over us this morning about sunrise, and so nearly
 
-      overhead that its drag-rope actually brushed the network
+overhead that its drag-rope actually brushed the network
 
-      suspending our car, and caused us very serious apprehension. Our
+suspending our car, and caused us very serious apprehension. Our
 
-      captain said that if the material of the bag had been the
+captain said that if the material of the bag had been the
 
-      trumpery varnished “silk” of five hundred or a thousand years
+trumpery varnished “silk” of five hundred or a thousand years
 
-      ago, we should inevitably have been damaged. This silk, as he
+ago, we should inevitably have been damaged. This silk, as he
 
-      explained it to me, was a fabric composed of the entrails of a
+explained it to me, was a fabric composed of the entrails of a
 
-      species of earth-worm. The worm was carefully fed on mulberries—a
+species of earth-worm. The worm was carefully fed on mulberries—a
 
-      kind of fruit resembling a [[Water|water]]-melon—and, when sufficiently
+kind of fruit resembling a [[Water|water]]-melon—and, when sufficiently
 
-      fat, was crushed in a mill. The paste thus arising was called
+fat, was crushed in a mill. The paste thus arising was called
 
-      papyrus in its primary state, and went through a variety of
+papyrus in its primary state, and went through a variety of
 
-      processes until it finally became “silk.” Singular to relate, it
+processes until it finally became “silk.” Singular to relate, it
 
-      was once much admired as an article of female dress! Balloons
+was once much admired as an article of female dress! Balloons
 
-      were also very generally constructed from it. A better kind of
+were also very generally constructed from it. A better kind of
 
-      material, it appears, was subsequently found in the down
+material, it appears, was subsequently found in the down
 
-      surrounding the seed-vessels of a plant vulgarly called
+surrounding the seed-vessels of a plant vulgarly called
 
-      euphorbium, and at that [[Time|time]] botanically termed milk-weed. This
+euphorbium, and at that [[Time|time]] botanically termed milk-weed. This
 
-      latter kind of silk was designated as silk-[[Buckingham|buckingham]], on account
+latter kind of silk was designated as silk-[[Buckingham|buckingham]], on account
 
-      of its superior durability, and was usually prepared for use by
+of its superior durability, and was usually prepared for use by
 
-      being varnished with a solution of gum caoutchouc—a substance
+being varnished with a solution of gum caoutchouc—a substance
 
-      which in some respects must have resembled the gutta percha now
+which in some respects must have resembled the gutta percha now
 
-      in common use. This caoutchouc was occasionally called Indian
+in common use. This caoutchouc was occasionally called Indian
 
-      rubber or rubber of twist, and was no [[Doubt|doubt]] one of the numerous
+rubber or rubber of twist, and was no [[Doubt|doubt]] one of the numerous
 
-      fungi. Never tell me again that I am not at heart an antiquarian.
+fungi. Never tell me again that I am not at heart an antiquarian.
 
 
 
-      Talking of drag-ropes—our own, it seems, has this moment knocked
+Talking of drag-ropes—our own, it seems, has this moment knocked
 
-      a man overboard from one of the small magnetic propellers that
+a man overboard from one of the small magnetic propellers that
 
-      swarm in ocean below us—a boat of about six thousand tons, and,
+swarm in ocean below us—a boat of about six thousand tons, and,
 
-      from all accounts, shamefully crowded. These diminutive barques
+from all accounts, shamefully crowded. These diminutive barques
 
-      should be prohibited from carrying more than a definite number of
+should be prohibited from carrying more than a definite number of
 
-      passengers. The man, of course, was not permitted to get on board
+passengers. The man, of course, was not permitted to get on board
 
-      again, and was soon out of sight, he and his life-preserver. I
+again, and was soon out of sight, he and his life-preserver. I
 
-      rejoice, my dear friend, that we live in an age so enlightened
+rejoice, my dear friend, that we live in an age so enlightened
 
-      that no such a thing as an individual is supposed to exist. It is
+that no such a thing as an individual is supposed to exist. It is
 
-      the mass for which the true Humanity cares. By-the-by, talking of
+the mass for which the true Humanity cares. By-the-by, talking of
 
-      Humanity, do you know that our immortal Wiggins is not so
+Humanity, do you know that our immortal Wiggins is not so
 
-      original in his views of the Social Condition and so forth, as
+original in his views of the Social Condition and so forth, as
 
-      his contemporaries are inclined to suppose? Pundit assures me
+his contemporaries are inclined to suppose? Pundit assures me
 
-      that the same ideas were put nearly in the same way, about a
+that the same ideas were put nearly in the same way, about a
 
-      thousand years ago, by an Irish philosopher called Furrier, on
+thousand years ago, by an Irish philosopher called Furrier, on
 
-      account of his keeping a retail shop for cat peltries and other
+account of his keeping a retail shop for cat peltries and other
 
-      furs. Pundit knows, you know; there can be no mistake about it.
+furs. Pundit knows, you know; there can be no mistake about it.
 
-      How very wonderfully do we see verified every day, the profound
+How very wonderfully do we see verified every day, the profound
 
-      observation of the Hindoo Aries Tottle (as quoted by
+observation of the Hindoo Aries Tottle (as quoted by
 
-      Pundit)—“Thus must we say that, not once or twice, or a few
+Pundit)—“Thus must we say that, not once or twice, or a few
 
 
 
@@ -1344,181 +1344,181 @@ ON BOARD BALLOON “SKYLARK”
 <span class="atom-split" data-atom="part--part_02" data-title="Mellonta Tauta (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      times, but with almost infinite repetitions, the same opinions
+times, but with almost infinite repetitions, the same opinions
 
-      come round in a circle among men.”
+come round in a circle among men.”
 
 
 
-      April 2.—Spoke to-day the magnetic cutter in charge of the middle
+April 2.—Spoke to-day the magnetic cutter in charge of the middle
 
-      section of floating telegraph wires. I learn that when this
+section of floating telegraph wires. I learn that when this
 
-      species of telegraph was first put into operation by [[Horse]], it
+species of telegraph was first put into operation by [[Horse]], it
 
-      was considered quite impossible to convey the wires over sea, but
+was considered quite impossible to convey the wires over sea, but
 
-      now we are at a loss to comprehend where the difficulty lay! So
+now we are at a loss to comprehend where the difficulty lay! So
 
-      wags the world. Tempora mutantur—excuse me for quoting the
+wags the world. Tempora mutantur—excuse me for quoting the
 
-      Etruscan. What would we do without the Atalantic telegraph?
+Etruscan. What would we do without the Atalantic telegraph?
 
-      (Pundit says Atlantic was the ancient adjective.) We lay to a few
+(Pundit says Atlantic was the ancient adjective.) We lay to a few
 
-      minutes to ask the cutter some questions, and learned, among
+minutes to ask the cutter some questions, and learned, among
 
-      other glorious news, that civil war is raging in Africa, while
+other glorious news, that civil war is raging in Africa, while
 
-      the plague is doing its good work beautifully both in Yurope and
+the plague is doing its good work beautifully both in Yurope and
 
-      Ayesher. Is it not truly remarkable that, before the magnificent
+Ayesher. Is it not truly remarkable that, before the magnificent
 
-      light shed upon [[philosophy]] by Humanity, the world was accustomed
+light shed upon [[philosophy]] by Humanity, the world was accustomed
 
-      to regard War and Pestilence as calamities? Do you know that
+to regard War and Pestilence as calamities? Do you know that
 
-      prayers were actually offered up in the ancient temples to the
+prayers were actually offered up in the ancient temples to the
 
-      end that these evils (!) might not be visited upon mankind? Is it
+end that these evils (!) might not be visited upon mankind? Is it
 
-      not really difficult to comprehend upon what principle of
+not really difficult to comprehend upon what principle of
 
-      interest our forefathers acted? Were they so blind as not to
+interest our forefathers acted? Were they so blind as not to
 
-      perceive that the destruction of a myriad of individuals is only
+perceive that the destruction of a myriad of individuals is only
 
-      so much positive advantage to the mass!
+so much positive advantage to the mass!
 
 
 
-      April 3.—It is really a very fine amusement to ascend the
+April 3.—It is really a very fine amusement to ascend the
 
-      rope-ladder leading to the summit of the balloon-bag, and thence
+rope-ladder leading to the summit of the balloon-bag, and thence
 
-      survey the surrounding world. From the car below you know the
+survey the surrounding world. From the car below you know the
 
-      prospect is not so comprehensive—you can see little vertically.
+prospect is not so comprehensive—you can see little vertically.
 
-      But seated here (where I write this) in the luxuriously-cushioned
+But seated here (where I write this) in the luxuriously-cushioned
 
-      open piazza of the summit, one can see everything that is going
+open piazza of the summit, one can see everything that is going
 
-      on in all directions. Just now there is quite a crowd of balloons
+on in all directions. Just now there is quite a crowd of balloons
 
-      in sight, and they present a very animated appearance, while the
+in sight, and they present a very animated appearance, while the
 
-      air is resonant with the hum of so many millions of human voices.
+air is resonant with the hum of so many millions of human voices.
 
-      I have heard it asserted that when Yellow or (Pundit will have
+I have heard it asserted that when Yellow or (Pundit will have
 
-      it) Violet, who is supposed to have been the first aeronaut,
+it) Violet, who is supposed to have been the first aeronaut,
 
-      maintained the practicability of traversing the atmosphere in all
+maintained the practicability of traversing the atmosphere in all
 
-      directions, by merely ascending or descending until a favorable
+directions, by merely ascending or descending until a favorable
 
-      current was attained, he was scarcely hearkened to at all by his
+current was attained, he was scarcely hearkened to at all by his
 
-      contemporaries, who looked upon him as merely an ingenious sort
+contemporaries, who looked upon him as merely an ingenious sort
 
-      of madman, because the philosophers (?) of the day declared the
+of madman, because the philosophers (?) of the day declared the
 
-      thing impossible. Really now it does seem to me quite
+thing impossible. Really now it does seem to me quite
 
-      unaccountable how any thing so obviously feasible could have
+unaccountable how any thing so obviously feasible could have
 
-      escaped the sagacity of the ancient savans. But in all ages the
+escaped the sagacity of the ancient savans. But in all ages the
 
-      great obstacles to advancement in Art have been opposed by the
+great obstacles to advancement in Art have been opposed by the
 
-      so-called men of science. To be sure, our men of science are not
+so-called men of science. To be sure, our men of science are not
 
-      quite so bigoted as those of old:—oh, I have something so queer
+quite so bigoted as those of old:—oh, I have something so queer
 
-      to tell you on this topic. Do you know that it is not more than a
+to tell you on this topic. Do you know that it is not more than a
 
-      thousand years ago since the metaphysicians consented to relieve
+thousand years ago since the metaphysicians consented to relieve
 
-      the people of the singular fancy that there existed but two
+the people of the singular fancy that there existed but two
 
-      possible roads for the attainment of [[Truth]]! Believe it if you
+possible roads for the attainment of [[Truth]]! Believe it if you
 
-      can! It appears that long, long ago, in the [[Night|night]] of [[Time]], there
+can! It appears that long, long ago, in the [[Night|night]] of [[Time]], there
 
-      lived a Turkish philosopher (or Hindoo possibly) called Aries
+lived a Turkish philosopher (or Hindoo possibly) called Aries
 
-      Tottle. This person introduced, or at all events propagated what
+Tottle. This person introduced, or at all events propagated what
 
-      was termed the deductive or a priori mode of investigation. He
+was termed the deductive or a priori mode of investigation. He
 
-      started with what he maintained to be axioms or “[[Self|self]]-evident
+started with what he maintained to be axioms or “[[Self|self]]-evident
 
-      truths,” and thence proceeded “logically” to results. His
+truths,” and thence proceeded “logically” to results. His
 
-      greatest disciples were one Neuclid, and one Cant. [[Well]], Aries
+greatest disciples were one Neuclid, and one Cant. [[Well]], Aries
 
-      Tottle flourished supreme until advent of one Hog, surnamed the
+Tottle flourished supreme until advent of one Hog, surnamed the
 
-      “Ettrick Shepherd,” who preached an entirely different system,
+“Ettrick Shepherd,” who preached an entirely different system,
 
-      which he called the a posteriori or inductive. His plan referred
+which he called the a posteriori or inductive. His plan referred
 
-      altogether to Sensation. He proceeded by observing, analyzing,
+altogether to Sensation. He proceeded by observing, analyzing,
 
-      and classifying facts-instantiae naturae, as they were affectedly
+and classifying facts-instantiae naturae, as they were affectedly
 
-      called—into general laws. Aries Tottle’s mode, in a word, was
+called—into general laws. Aries Tottle’s mode, in a word, was
 
-      based on noumena; Hog’s on phenomena. [[Well]], so great was the
+based on noumena; Hog’s on phenomena. [[Well]], so great was the
 
-      admiration excited by this latter system that, at its first
+admiration excited by this latter system that, at its first
 
-      introduction, Aries Tottle fell into disrepute; but finally he
+introduction, Aries Tottle fell into disrepute; but finally he
 
-      recovered ground and was permitted to divide the realm of [[Truth]]
+recovered ground and was permitted to divide the realm of [[Truth]]
 
-      with his more modern rival. The savans now maintained the
+with his more modern rival. The savans now maintained the
 
-      Aristotelian and Baconian roads were the sole possible avenues to
+Aristotelian and Baconian roads were the sole possible avenues to
 
-      knowledge. “Baconian,” you must know, was an adjective invented
+knowledge. “Baconian,” you must know, was an adjective invented
 
-      as equivalent to Hog-ian and more euphonious and dignified.
+as equivalent to Hog-ian and more euphonious and dignified.
 
 
 
-      Now, my dear friend, I do assure you, most positively, that I
+Now, my dear friend, I do assure you, most positively, that I
 
-      represent this matter fairly, on the soundest authority; and you
+represent this matter fairly, on the soundest authority; and you
 
-      can easily understand how a notion so absurd on its very face
+can easily understand how a notion so absurd on its very face
 
-      must have operated to retard the progress of all true
+must have operated to retard the progress of all true
 
-      knowledge—which makes its advances almost invariably by intuitive
+knowledge—which makes its advances almost invariably by intuitive
 
-      bounds. The ancient idea confined investigations to crawling; and
+bounds. The ancient idea confined investigations to crawling; and
 
-      for hundreds of years so great was the infatuation about Hog
+for hundreds of years so great was the infatuation about Hog
 
-      especially, that a virtual end was put to all thinking, properly
+especially, that a virtual end was put to all thinking, properly
 
-      so called. No man dared utter a [[Truth|truth]] to which he felt himself
+so called. No man dared utter a [[Truth|truth]] to which he felt himself
 
-      indebted to his [[Soul]] [[Alone|alone]]. It mattered not whether the [[Truth|truth]] was
+indebted to his [[Soul]] [[Alone|alone]]. It mattered not whether the [[Truth|truth]] was
 
-      even demonstrably a [[Truth|truth]], for the bullet-headed savans of the
+even demonstrably a [[Truth|truth]], for the bullet-headed savans of the
 
-      [[Time|time]] regarded only the [[Road|road]] by which he had attained it. They
+[[Time|time]] regarded only the [[Road|road]] by which he had attained it. They
 
-      would not even look at the end. “Let us see the means,” they
+would not even look at the end. “Let us see the means,” they
 
-      cried, “the means!” If, upon investigation of the means, it was
+cried, “the means!” If, upon investigation of the means, it was
 
-      found to come under neither the category Aries (that is to say
+found to come under neither the category Aries (that is to say
 
-      Ram) nor under the category Hog, why then the savans went no
+Ram) nor under the category Hog, why then the savans went no
 
 
 
@@ -1526,183 +1526,183 @@ ON BOARD BALLOON “SKYLARK”
 <span class="atom-split" data-atom="part--part_03" data-title="Mellonta Tauta (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      farther, but pronounced the “theorist” a [[Fool|fool]], and would have
+farther, but pronounced the “theorist” a [[Fool|fool]], and would have
 
-      nothing to do with him or his [[Truth|truth]].
+nothing to do with him or his [[Truth|truth]].
 
 
 
-      Now, it cannot be maintained, even, that by the crawling system
+Now, it cannot be maintained, even, that by the crawling system
 
-      the greatest amount of [[Truth|truth]] would be attained in any long series
+the greatest amount of [[Truth|truth]] would be attained in any long series
 
-      of ages, for the repression of [[Imagination|imagination]] was an evil not to be
+of ages, for the repression of [[Imagination|imagination]] was an evil not to be
 
-      compensated for by any superior certainty in the ancient modes of
+compensated for by any superior certainty in the ancient modes of
 
-      investigation. The error of these Jurmains, these Vrinch, these
+investigation. The error of these Jurmains, these Vrinch, these
 
-      Inglitch, and these Amriccans (the latter, by the way, were our
+Inglitch, and these Amriccans (the latter, by the way, were our
 
-      own immediate progenitors), was an error quite analogous with
+own immediate progenitors), was an error quite analogous with
 
-      that of the wiseacre who fancies that he must necessarily see an
+that of the wiseacre who fancies that he must necessarily see an
 
-      object the better the more closely he holds it to his eyes. These
+object the better the more closely he holds it to his eyes. These
 
-      people blinded themselves by details. When they proceeded
+people blinded themselves by details. When they proceeded
 
-      Hoggishly, their “facts” were by no means always facts—a matter
+Hoggishly, their “facts” were by no means always facts—a matter
 
-      of little consequence had it not been for assuming that they were
+of little consequence had it not been for assuming that they were
 
-      facts and must be facts because they appeared to be such. When
+facts and must be facts because they appeared to be such. When
 
-      they proceeded on the path of the Ram, their course was scarcely
+they proceeded on the path of the Ram, their course was scarcely
 
-      as straight as a ram’s horn, for they never had an axiom which
+as straight as a ram’s horn, for they never had an axiom which
 
-      was an axiom at all. They must have been very blind not to see
+was an axiom at all. They must have been very blind not to see
 
-      this, even in their own day; for even in their own day many of
+this, even in their own day; for even in their own day many of
 
-      the long “established” axioms had been rejected. For example—“Ex
+the long “established” axioms had been rejected. For example—“Ex
 
-      nihilo nihil fit”; “a [[Body|body]] cannot act where it is not”; “there
+nihilo nihil fit”; “a [[Body|body]] cannot act where it is not”; “there
 
-      cannot exist antipodes”; “darkness cannot come out of light”—all
+cannot exist antipodes”; “darkness cannot come out of light”—all
 
-      these, and a dozen other similar propositions, formerly admitted
+these, and a dozen other similar propositions, formerly admitted
 
-      without hesitation as axioms, were, even at the period of which I
+without hesitation as axioms, were, even at the period of which I
 
-      speak, seen to be untenable. How absurd in these people, then, to
+speak, seen to be untenable. How absurd in these people, then, to
 
-      persist in putting [[Faith|faith]] in “axioms” as immutable bases of [[Truth]]!
+persist in putting [[Faith|faith]] in “axioms” as immutable bases of [[Truth]]!
 
-      But even out of the mouths of their soundest reasoners it is easy
+But even out of the mouths of their soundest reasoners it is easy
 
-      to demonstrate the futility, the impalpability of their axioms in
+to demonstrate the futility, the impalpability of their axioms in
 
-      general. Who was the soundest of their logicians? Let me see! I
+general. Who was the soundest of their logicians? Let me see! I
 
-      will go and ask Pundit and be back in a minute.... Ah, here we
+will go and ask Pundit and be back in a minute.... Ah, here we
 
-      have it! Here is a book written nearly a thousand years ago and
+have it! Here is a book written nearly a thousand years ago and
 
-      lately translated from the Inglitch—which, by the way, appears to
+lately translated from the Inglitch—which, by the way, appears to
 
-      have been the rudiment of the Amriccan. Pundit says it is
+have been the rudiment of the Amriccan. Pundit says it is
 
-      decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
+decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
 
-      author (who was much thought of in his day) was one Miller, or
+author (who was much thought of in his day) was one Miller, or
 
-      Mill; and we find it recorded of him, as a point of some
+Mill; and we find it recorded of him, as a point of some
 
-      importance, that he had a mill-[[Horse|horse]] called Bentham. But let us
+importance, that he had a mill-[[Horse|horse]] called Bentham. But let us
 
-      glance at the treatise!
+glance at the treatise!
 
 
 
-      Ah!—“Ability or inability to conceive,” says Mr. Mill, very
+Ah!—“Ability or inability to conceive,” says Mr. Mill, very
 
-      properly, “is in no case to be received as a criterion of
+properly, “is in no case to be received as a criterion of
 
-      axiomatic [[Truth|truth]].” What modern in his senses would ever think of
+axiomatic [[Truth|truth]].” What modern in his senses would ever think of
 
-      disputing this truism? The only [[Wonder|wonder]] with us must be, how it
+disputing this truism? The only [[Wonder|wonder]] with us must be, how it
 
-      happened that Mr. Mill conceived it necessary even to hint at any
+happened that Mr. Mill conceived it necessary even to hint at any
 
-      thing so obvious. So far good—but let us turn over another paper.
+thing so obvious. So far good—but let us turn over another paper.
 
-      What have we here?—“Contradictories cannot both be true—that is,
+What have we here?—“Contradictories cannot both be true—that is,
 
-      cannot co-exist in [[Nature|nature]].” Here Mr. Mill means, for example,
+cannot co-exist in [[Nature|nature]].” Here Mr. Mill means, for example,
 
-      that a tree must be either a tree or not a tree—that it cannot be
+that a tree must be either a tree or not a tree—that it cannot be
 
-      at the same [[Time|time]] a tree and not a tree. Very [[Well|well]]; but I ask him
+at the same [[Time|time]] a tree and not a tree. Very [[Well|well]]; but I ask him
 
-      why. His reply is this—and never pretends to be any thing else
+why. His reply is this—and never pretends to be any thing else
 
-      than this—“Because it is impossible to conceive that
+than this—“Because it is impossible to conceive that
 
-      contradictories can both be true.” But this is no answer at all,
+contradictories can both be true.” But this is no answer at all,
 
-      by his own showing, for has he not just admitted as a truism that
+by his own showing, for has he not just admitted as a truism that
 
-      “ability or inability to conceive is in no case to be received as
+“ability or inability to conceive is in no case to be received as
 
-      a criterion of axiomatic [[Truth|truth]].”
+a criterion of axiomatic [[Truth|truth]].”
 
 
 
-      Now I do not complain of these ancients so much because their
+Now I do not complain of these ancients so much because their
 
-      [[logic]] is, by their own showing, utterly baseless, worthless and
+[[logic]] is, by their own showing, utterly baseless, worthless and
 
-      fantastic altogether, as because of their pompous and imbecile
+fantastic altogether, as because of their pompous and imbecile
 
-      proscription of all other roads of [[Truth]], of all other means for
+proscription of all other roads of [[Truth]], of all other means for
 
-      its attainment than the two preposterous paths—the one of
+its attainment than the two preposterous paths—the one of
 
-      creeping and the one of crawling—to which they have dared to
+creeping and the one of crawling—to which they have dared to
 
-      confine the [[Soul]] that loves nothing so [[Well|well]] as to soar.
+confine the [[Soul]] that loves nothing so [[Well|well]] as to soar.
 
 
 
-      By the by, my dear friend, do you not think it would have puzzled
+By the by, my dear friend, do you not think it would have puzzled
 
-      these ancient dogmaticians to have determined by which of their
+these ancient dogmaticians to have determined by which of their
 
-      two roads it was that the most important and most [[Sublime|sublime]] of all
+two roads it was that the most important and most [[Sublime|sublime]] of all
 
-      their truths was, in effect, attained? I mean the [[Truth|truth]] of
+their truths was, in effect, attained? I mean the [[Truth|truth]] of
 
-      Gravitation. Newton owed it to Kepler. Kepler admitted that his
+Gravitation. Newton owed it to Kepler. Kepler admitted that his
 
-      three laws were guessed at—these three laws of all laws which led
+three laws were guessed at—these three laws of all laws which led
 
-      the great Inglitch mathematician to his principle, the basis of
+the great Inglitch mathematician to his principle, the basis of
 
-      all physical principle—to go behind which we must enter the
+all physical principle—to go behind which we must enter the
 
-      Kingdom of Metaphysics: Kepler guessed—that is to say imagined.
+Kingdom of Metaphysics: Kepler guessed—that is to say imagined.
 
-      He was essentially a “theorist”—that word now of so much
+He was essentially a “theorist”—that word now of so much
 
-      sanctity, formerly an epithet of contempt. Would it not have
+sanctity, formerly an epithet of contempt. Would it not have
 
-      puzzled these old moles too, to have explained by which of the
+puzzled these old moles too, to have explained by which of the
 
-      two “roads” a cryptographist unriddles a cryptograph of more than
+two “roads” a cryptographist unriddles a cryptograph of more than
 
-      usual secrecy, or by which of the two roads Champollion directed
+usual secrecy, or by which of the two roads Champollion directed
 
-      mankind to those enduring and almost innumerable truths which
+mankind to those enduring and almost innumerable truths which
 
-      resulted from his deciphering the Hieroglyphics.
+resulted from his deciphering the Hieroglyphics.
 
 
 
-      One word more on this topic and I will be done boring you. Is it
+One word more on this topic and I will be done boring you. Is it
 
-      not passing strange that, with their eternal prattling about
+not passing strange that, with their eternal prattling about
 
-      roads to [[Truth]], these bigoted people missed what we now so
+roads to [[Truth]], these bigoted people missed what we now so
 
-      clearly perceive to be the great highway—that of Consistency?
+clearly perceive to be the great highway—that of Consistency?
 
-      Does it not seem singular how they should have failed to deduce
+Does it not seem singular how they should have failed to deduce
 
-      from the works of God the vital fact that a perfect consistency
+from the works of God the vital fact that a perfect consistency
 
-      must be an absolute [[Truth|truth]]! How plain has been our progress since
+must be an absolute [[Truth|truth]]! How plain has been our progress since
 
 
 
@@ -1710,181 +1710,181 @@ ON BOARD BALLOON “SKYLARK”
 <span class="atom-split" data-atom="part--part_04" data-title="Mellonta Tauta (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      the late announcement of this proposition! Investigation has been
+the late announcement of this proposition! Investigation has been
 
-      taken out of the hands of the ground-moles and given, as a task,
+taken out of the hands of the ground-moles and given, as a task,
 
-      to the true and only true thinkers, the men of ardent
+to the true and only true thinkers, the men of ardent
 
-      [[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
+[[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
 
-      of scorn with which my words would be received by our progenitors
+of scorn with which my words would be received by our progenitors
 
-      were it possible for them to be now looking over my shoulder?
+were it possible for them to be now looking over my shoulder?
 
-      These men, I say, theorize; and their theories are simply
+These men, I say, theorize; and their theories are simply
 
-      corrected, reduced, systematized—cleared, little by little, of
+corrected, reduced, systematized—cleared, little by little, of
 
-      their dross of inconsistency—until, finally, a perfect
+their dross of inconsistency—until, finally, a perfect
 
-      consistency stands apparent which even the most stolid admit,
+consistency stands apparent which even the most stolid admit,
 
-      because it is a consistency, to be an absolute and an
+because it is a consistency, to be an absolute and an
 
-      unquestionable [[Truth|truth]].
+unquestionable [[Truth|truth]].
 
 
 
-      April 4.—The new gas is doing wonders, in conjunction with the
+April 4.—The new gas is doing wonders, in conjunction with the
 
-      new improvement with gutta percha. How very safe, commodious,
+new improvement with gutta percha. How very safe, commodious,
 
-      manageable, and in every respect convenient are our modern
+manageable, and in every respect convenient are our modern
 
-      balloons! Here is an immense one approaching us at the rate of at
+balloons! Here is an immense one approaching us at the rate of at
 
-      least a hundred and fifty miles an hour. It seems to be crowded
+least a hundred and fifty miles an hour. It seems to be crowded
 
-      with people—perhaps there are three or four hundred
+with people—perhaps there are three or four hundred
 
-      passengers—and yet it soars to an elevation of nearly a mile,
+passengers—and yet it soars to an elevation of nearly a mile,
 
-      looking down upon poor us with sovereign contempt. Still a
+looking down upon poor us with sovereign contempt. Still a
 
-      hundred or even two hundred miles an hour is slow travelling
+hundred or even two hundred miles an hour is slow travelling
 
-      after all. Do you remember our flight on the railroad across the
+after all. Do you remember our flight on the railroad across the
 
-      Kanadaw continent?—fully three hundred miles the hour—that was
+Kanadaw continent?—fully three hundred miles the hour—that was
 
-      travelling. Nothing to be seen though—nothing to be done but
+travelling. Nothing to be seen though—nothing to be done but
 
-      flirt, feast and [[Dance|dance]] in the magnificent saloons. Do you
+flirt, feast and [[Dance|dance]] in the magnificent saloons. Do you
 
-      remember what an odd sensation was experienced when, by chance,
+remember what an odd sensation was experienced when, by chance,
 
-      we caught a glimpse of external objects while the cars were in
+we caught a glimpse of external objects while the cars were in
 
-      full flight? Every thing seemed unique—in one mass. For my part,
+full flight? Every thing seemed unique—in one mass. For my part,
 
-      I cannot say but that I preferred the travelling by the slow
+I cannot say but that I preferred the travelling by the slow
 
-      train of a hundred miles the hour. Here we were permitted to have
+train of a hundred miles the hour. Here we were permitted to have
 
-      glass windows—even to have them open—and something like a
+glass windows—even to have them open—and something like a
 
-      distinct view of the country was attainable.... Pundit says that
+distinct view of the country was attainable.... Pundit says that
 
-      the route for the great Kanadaw railroad must have been in some
+the route for the great Kanadaw railroad must have been in some
 
-      measure marked out about nine hundred years ago! In fact, he goes
+measure marked out about nine hundred years ago! In fact, he goes
 
-      so far as to assert that actual traces of a [[Road|road]] are still
+so far as to assert that actual traces of a [[Road|road]] are still
 
-      discernible—traces referable to a period quite as remote as that
+discernible—traces referable to a period quite as remote as that
 
-      mentioned. The track, it appears was [[Double|double]] only; ours, you know,
+mentioned. The track, it appears was [[Double|double]] only; ours, you know,
 
-      has twelve paths; and three or four new ones are in preparation.
+has twelve paths; and three or four new ones are in preparation.
 
-      The ancient rails were very slight, and placed so close together
+The ancient rails were very slight, and placed so close together
 
-      as to be, according to modern notions, quite frivolous, if not
+as to be, according to modern notions, quite frivolous, if not
 
-      dangerous in the extreme. The present width of track—fifty
+dangerous in the extreme. The present width of track—fifty
 
-      feet—is considered, indeed, scarcely secure enough. For my part,
+feet—is considered, indeed, scarcely secure enough. For my part,
 
-      I make no [[Doubt|doubt]] that a track of some sort must have existed in
+I make no [[Doubt|doubt]] that a track of some sort must have existed in
 
-      very remote times, as Pundit asserts; for nothing can be clearer,
+very remote times, as Pundit asserts; for nothing can be clearer,
 
-      to my mind, than that, at some period—not less than seven
+to my mind, than that, at some period—not less than seven
 
-      centuries ago, certainly—the Northern and Southern Kanadaw
+centuries ago, certainly—the Northern and Southern Kanadaw
 
-      continents were united; the Kanawdians, then, would have been
+continents were united; the Kanawdians, then, would have been
 
-      driven, by necessity, to a great railroad across the continent.
+driven, by necessity, to a great railroad across the continent.
 
 
 
-      April 5.—I am almost devoured by _ennui_. Pundit is the only
+April 5.—I am almost devoured by _ennui_. Pundit is the only
 
-      conversible person on board; and he, poor [[Soul|soul]]! can speak of
+conversible person on board; and he, poor [[Soul|soul]]! can speak of
 
-      nothing but antiquities. He has been occupied all the day in the
+nothing but antiquities. He has been occupied all the day in the
 
-      attempt to convince me that the ancient Amriccans governed
+attempt to convince me that the ancient Amriccans governed
 
-      themselves!—did ever anybody hear of such an absurdity?—that they
+themselves!—did ever anybody hear of such an absurdity?—that they
 
-      existed in a sort of every-man-for-himself confederacy, after the
+existed in a sort of every-man-for-himself confederacy, after the
 
-      fashion of the “prairie [[dogs]]” that we read of in [[Fable|fable]]. He says
+fashion of the “prairie [[dogs]]” that we read of in [[Fable|fable]]. He says
 
-      that they started with the queerest idea conceivable, viz: that
+that they started with the queerest idea conceivable, viz: that
 
-      all men are born free and equal—this in the very teeth of the
+all men are born free and equal—this in the very teeth of the
 
-      laws of _gradation_ so visibly impressed upon all things both in
+laws of _gradation_ so visibly impressed upon all things both in
 
-      the moral and physical universe. Every man “voted,” as they
+the moral and physical universe. Every man “voted,” as they
 
-      called it—that is to say meddled with public affairs—until at
+called it—that is to say meddled with public affairs—until at
 
-      length, it was discovered that what is everybody’s business is
+length, it was discovered that what is everybody’s business is
 
-      nobody’s, and that the “Republic” (so the absurd thing was
+nobody’s, and that the “Republic” (so the absurd thing was
 
-      called) was without a [[government]] at all. It is related, however,
+called) was without a [[government]] at all. It is related, however,
 
-      that the first circumstance which disturbed, very particularly,
+that the first circumstance which disturbed, very particularly,
 
-      the [[Self|self]]-complacency of the philosophers who constructed this
+the [[Self|self]]-complacency of the philosophers who constructed this
 
-      “Republic,” was the startling discovery that universal suffrage
+“Republic,” was the startling discovery that universal suffrage
 
-      gave opportunity for fraudulent schemes, by means of which any
+gave opportunity for fraudulent schemes, by means of which any
 
-      desired number of votes might at any [[Time|time]] be polled, without the
+desired number of votes might at any [[Time|time]] be polled, without the
 
-      possibility of prevention or even detection, by any party which
+possibility of prevention or even detection, by any party which
 
-      should be merely villainous enough not to be ashamed of the
+should be merely villainous enough not to be ashamed of the
 
-      fraud. A little reflection upon this discovery sufficed to render
+fraud. A little reflection upon this discovery sufficed to render
 
-      evident the consequences, which were that rascality must
+evident the consequences, which were that rascality must
 
-      predominate—in a word, that a republican [[government]] could never
+predominate—in a word, that a republican [[government]] could never
 
-      be any thing but a rascally one. While the philosophers, however,
+be any thing but a rascally one. While the philosophers, however,
 
-      were busied in blushing at their stupidity in not having foreseen
+were busied in blushing at their stupidity in not having foreseen
 
-      these inevitable evils, and intent upon the invention of new
+these inevitable evils, and intent upon the invention of new
 
-      theories, the matter was put to an abrupt issue by a fellow of
+theories, the matter was put to an abrupt issue by a fellow of
 
-      the name of Mob, who took every thing into his own hands and set
+the name of Mob, who took every thing into his own hands and set
 
-      up a despotism, in comparison with which those of the fabulous
+up a despotism, in comparison with which those of the fabulous
 
-      Zeros and Hellofagabaluses were respectable and delectable. This
+Zeros and Hellofagabaluses were respectable and delectable. This
 
-      Mob (a foreigner, by-the-by), is said to have been the most
+Mob (a foreigner, by-the-by), is said to have been the most
 
-      odious of all men that ever encumbered the earth. He was a giant
+odious of all men that ever encumbered the earth. He was a giant
 
-      in stature—insolent, rapacious, filthy, had the gall of a bullock
+in stature—insolent, rapacious, filthy, had the gall of a bullock
 
-      with the heart of a hyena and the brains of a peacock. He died,
+with the heart of a hyena and the brains of a peacock. He died,
 
-      at length, by dint of his own energies, which exhausted him.
+at length, by dint of his own energies, which exhausted him.
 
-      Nevertheless, he had his uses, as every thing has, however vile,
+Nevertheless, he had his uses, as every thing has, however vile,
 
 
 
@@ -1892,185 +1892,185 @@ ON BOARD BALLOON “SKYLARK”
 <span class="atom-split" data-atom="part--part_05" data-title="Mellonta Tauta (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-      and taught mankind a lesson which to this day it is in no danger
+and taught mankind a lesson which to this day it is in no danger
 
-      of forgetting—never to run directly contrary to the natural
+of forgetting—never to run directly contrary to the natural
 
-      analogies. As for Republicanism, no analogy could be found for it
+analogies. As for Republicanism, no analogy could be found for it
 
-      upon the face of the earth—unless we except the case of the
+upon the face of the earth—unless we except the case of the
 
-      “prairie [[dogs]],” an exception which seems to demonstrate, if
+“prairie [[dogs]],” an exception which seems to demonstrate, if
 
-      anything, that [[democracy]] is a very admirable form of
+anything, that [[democracy]] is a very admirable form of
 
-      [[government]]—for [[dogs]].
+[[government]]—for [[dogs]].
 
 
 
-      April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
+April 6.—Last [[Night|night]] had a fine view of Alpha Lyrae, whose disk,
 
-      through our captain’s spy-glass, subtends an angle of half a
+through our captain’s spy-glass, subtends an angle of half a
 
-      degree, looking very much as our sun does to the naked eye on a
+degree, looking very much as our sun does to the naked eye on a
 
-      misty day. Alpha Lyrae, although so very much larger than our
+misty day. Alpha Lyrae, although so very much larger than our
 
-      sun, by the by, resembles him closely as regards its spots, its
+sun, by the by, resembles him closely as regards its spots, its
 
-      atmosphere, and in many other particulars. It is only within the
+atmosphere, and in many other particulars. It is only within the
 
-      last century, Pundit tells me, that the binary relation existing
+last century, Pundit tells me, that the binary relation existing
 
-      between these two orbs began even to be suspected. The evident
+between these two orbs began even to be suspected. The evident
 
-      motion of our system in the heavens was (strange to say!)
+motion of our system in the heavens was (strange to say!)
 
-      referred to an orbit about a prodigious star in the centre of the
+referred to an orbit about a prodigious star in the centre of the
 
-      galaxy. About this star, or at all events about a centre of
+galaxy. About this star, or at all events about a centre of
 
-      gravity common to all the globes of the Milky Way and supposed to
+gravity common to all the globes of the Milky Way and supposed to
 
-      be near Alcyone in the Pleiades, every one of these globes was
+be near Alcyone in the Pleiades, every one of these globes was
 
-      declared to be revolving, our own performing the circuit in a
+declared to be revolving, our own performing the circuit in a
 
-      period of 117,000,000 of years! We, with our present lights, our
+period of 117,000,000 of years! We, with our present lights, our
 
-      vast telescopic improvements, and so forth, of course find it
+vast telescopic improvements, and so forth, of course find it
 
-      difficult to comprehend the ground of an idea such as this. Its
+difficult to comprehend the ground of an idea such as this. Its
 
-      first propagator was one Mudler. He was led, we must presume, to
+first propagator was one Mudler. He was led, we must presume, to
 
-      this wild hypothesis by mere analogy in the first instance; but,
+this wild hypothesis by mere analogy in the first instance; but,
 
-      this being the case, he should have at least adhered to analogy
+this being the case, he should have at least adhered to analogy
 
-      in its development. A great central orb was, in fact, suggested;
+in its development. A great central orb was, in fact, suggested;
 
-      so far Mudler was consistent. This central orb, however,
+so far Mudler was consistent. This central orb, however,
 
-      dynamically, should have been greater than all its surrounding
+dynamically, should have been greater than all its surrounding
 
-      orbs taken together. The question might then have been asked—“Why
+orbs taken together. The question might then have been asked—“Why
 
-      do we not see it?”—we, especially, who occupy the mid region of
+do we not see it?”—we, especially, who occupy the mid region of
 
-      the cluster—the very locality near which, at least, must be
+the cluster—the very locality near which, at least, must be
 
-      situated this inconceivable central sun. The astronomer, perhaps,
+situated this inconceivable central sun. The astronomer, perhaps,
 
-      at this point, took refuge in the suggestion of non-luminosity;
+at this point, took refuge in the suggestion of non-luminosity;
 
-      and here analogy was suddenly let fall. But even admitting the
+and here analogy was suddenly let fall. But even admitting the
 
-      central orb non-luminous, how did he manage to explain its
+central orb non-luminous, how did he manage to explain its
 
-      failure to be rendered visible by the incalculable host of
+failure to be rendered visible by the incalculable host of
 
-      glorious suns glaring in all directions about it? No [[Doubt|doubt]] what
+glorious suns glaring in all directions about it? No [[Doubt|doubt]] what
 
-      he finally maintained was merely a centre of gravity common to
+he finally maintained was merely a centre of gravity common to
 
-      all the revolving orbs—but here again analogy must have been let
+all the revolving orbs—but here again analogy must have been let
 
-      fall. Our system revolves, it is true, about a common centre of
+fall. Our system revolves, it is true, about a common centre of
 
-      gravity, but it does this in connection with and in consequence
+gravity, but it does this in connection with and in consequence
 
-      of a material sun whose mass more than counterbalances the rest
+of a material sun whose mass more than counterbalances the rest
 
-      of the system. The mathematical circle is a curve composed of an
+of the system. The mathematical circle is a curve composed of an
 
-      infinity of straight lines; but this idea of the circle—this idea
+infinity of straight lines; but this idea of the circle—this idea
 
-      of it which, in regard to all earthly geometry, we consider as
+of it which, in regard to all earthly geometry, we consider as
 
-      merely the mathematical, in contradistinction from the practical,
+merely the mathematical, in contradistinction from the practical,
 
-      idea—is, in sober fact, the practical conception which [[Alone|alone]] we
+idea—is, in sober fact, the practical conception which [[Alone|alone]] we
 
-      have any right to entertain in respect to those [[titanic|Titanic]] circles
+have any right to entertain in respect to those [[titanic|Titanic]] circles
 
-      with which we have to deal, at least in fancy, when we suppose
+with which we have to deal, at least in fancy, when we suppose
 
-      our system, with its fellows, revolving about a point in the
+our system, with its fellows, revolving about a point in the
 
-      centre of the galaxy. Let the most vigorous of human imaginations
+centre of the galaxy. Let the most vigorous of human imaginations
 
-      but attempt to take a single step toward the comprehension of a
+but attempt to take a single step toward the comprehension of a
 
-      circuit so unutterable! It would scarcely be paradoxical to say
+circuit so unutterable! It would scarcely be paradoxical to say
 
-      that a flash of [[Lightning|lightning]] itself, travelling forever upon the
+that a flash of [[Lightning|lightning]] itself, travelling forever upon the
 
-      circumference of this inconceivable circle, would still forever
+circumference of this inconceivable circle, would still forever
 
-      be travelling in a straight line. That the path of our sun along
+be travelling in a straight line. That the path of our sun along
 
-      such a circumference—that the direction of our system in such an
+such a circumference—that the direction of our system in such an
 
-      orbit—would, to any human perception, deviate in the slightest
+orbit—would, to any human perception, deviate in the slightest
 
-      degree from a straight line even in a million of years, is a
+degree from a straight line even in a million of years, is a
 
-      proposition not to be entertained; and yet these ancient
+proposition not to be entertained; and yet these ancient
 
-      astronomers were absolutely cajoled, it appears, into believing
+astronomers were absolutely cajoled, it appears, into believing
 
-      that a decisive curvature had become apparent during the brief
+that a decisive curvature had become apparent during the brief
 
-      period of their astronomical [[history]]—during the mere point—during
+period of their astronomical [[history]]—during the mere point—during
 
-      the utter nothingness of two or three thousand years! How
+the utter nothingness of two or three thousand years! How
 
-      incomprehensible, that considerations such as this did not at
+incomprehensible, that considerations such as this did not at
 
-      once indicate to them the true state of affairs—that of the
+once indicate to them the true state of affairs—that of the
 
-      binary revolution of our sun and Alpha Lyrae around a common
+binary revolution of our sun and Alpha Lyrae around a common
 
-      centre of gravity!
+centre of gravity!
 
 
 
-      April 7.—Continued last [[Night|night]] our astronomical amusements. Had a
+April 7.—Continued last [[Night|night]] our astronomical amusements. Had a
 
-      fine view of the five Neptunian asteroids, and watched with much
+fine view of the five Neptunian asteroids, and watched with much
 
-      interest the putting up of a huge impost on a couple of lintels
+interest the putting up of a huge impost on a couple of lintels
 
-      in the new temple at Daphnis in the [[Moon|moon]]. It was amusing to think
+in the new temple at Daphnis in the [[Moon|moon]]. It was amusing to think
 
-      that creatures so diminutive as the lunarians, and bearing so
+that creatures so diminutive as the lunarians, and bearing so
 
-      little resemblance to humanity, yet evinced a mechanical
+little resemblance to humanity, yet evinced a mechanical
 
-      ingenuity so much superior to our own. One finds it difficult,
+ingenuity so much superior to our own. One finds it difficult,
 
-      too, to conceive the vast masses which these people handle so
+too, to conceive the vast masses which these people handle so
 
-      easily, to be as light as our own reason tells us they actually
+easily, to be as light as our own reason tells us they actually
 
-      are.
+are.
 
 
 
-      April 8.—Eureka! Pundit is in his glory. A balloon from Kanadaw
+April 8.—Eureka! Pundit is in his glory. A balloon from Kanadaw
 
-      spoke us to-day and threw on board several late papers; they
+spoke us to-day and threw on board several late papers; they
 
-      contain some exceedingly curious information relative to
+contain some exceedingly curious information relative to
 
-      Kanawdian or rather Amriccan antiquities. You know, I presume,
+Kanawdian or rather Amriccan antiquities. You know, I presume,
 
-      that laborers have for some months been employed in preparing the
+that laborers have for some months been employed in preparing the
 
-      ground for a new fountain at Paradise, the Emperor’s principal
+ground for a new fountain at Paradise, the Emperor’s principal
 
-      pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
+pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
 
 
 
@@ -2078,210 +2078,210 @@ ON BOARD BALLOON “SKYLARK”
 <span class="atom-split" data-atom="part--part_06" data-title="Mellonta Tauta (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
 
 
-      speaking, an island [[Time|time]] out of mind—that is to say, its northern
+speaking, an island [[Time|time]] out of mind—that is to say, its northern
 
-      boundary was always (as far back as any record extends) a
+boundary was always (as far back as any record extends) a
 
-      rivulet, or rather a very narrow arm of the sea. This arm was
+rivulet, or rather a very narrow arm of the sea. This arm was
 
-      gradually widened until it attained its present breadth—a mile.
+gradually widened until it attained its present breadth—a mile.
 
-      The whole length of the island is nine miles; the breadth varies
+The whole length of the island is nine miles; the breadth varies
 
-      materially. The entire area (so Pundit says) was, about eight
+materially. The entire area (so Pundit says) was, about eight
 
-      hundred years ago, densely packed with houses, some of them
+hundred years ago, densely packed with houses, some of them
 
-      twenty stories high; land (for some most unaccountable reason)
+twenty stories high; land (for some most unaccountable reason)
 
-      being considered as especially precious just in this vicinity.
+being considered as especially precious just in this vicinity.
 
-      The disastrous earthquake, however, of the year 2050, so totally
+The disastrous earthquake, however, of the year 2050, so totally
 
-      uprooted and overwhelmed the town (for it was almost too large to
+uprooted and overwhelmed the town (for it was almost too large to
 
-      be called a village) that the most indefatigable of our
+be called a village) that the most indefatigable of our
 
-      antiquarians have never yet been able to obtain from the site any
+antiquarians have never yet been able to obtain from the site any
 
-      sufficient data (in the shape of coins, medals or inscriptions)
+sufficient data (in the shape of coins, medals or inscriptions)
 
-      wherewith to build up even the [[Ghost|ghost]] of a theory concerning the
+wherewith to build up even the [[Ghost|ghost]] of a theory concerning the
 
-      manners, customs, &c., &c., &c., of the aboriginal inhabitants.
+manners, customs, &c., &c., &c., of the aboriginal inhabitants.
 
-      Nearly all that we have hitherto known of them is, that they were
+Nearly all that we have hitherto known of them is, that they were
 
-      a portion of the Knickerbocker tribe of savages infesting the
+a portion of the Knickerbocker tribe of savages infesting the
 
-      continent at its first discovery by Recorder Riker, a knight of
+continent at its first discovery by Recorder Riker, a knight of
 
-      the Golden Fleece. They were by no means uncivilized, however,
+the Golden Fleece. They were by no means uncivilized, however,
 
-      but cultivated various arts and even sciences after a fashion of
+but cultivated various arts and even sciences after a fashion of
 
-      their own. It is related of them that they were acute in many
+their own. It is related of them that they were acute in many
 
-      respects, but were oddly afflicted with monomania for building
+respects, but were oddly afflicted with monomania for building
 
-      what, in the ancient Amriccan, was denominated “churches”—a kind
+what, in the ancient Amriccan, was denominated “churches”—a kind
 
-      of pagoda instituted for the worship of two idols that went by
+of pagoda instituted for the worship of two idols that went by
 
-      the names of Wealth and Fashion. In the end, it is said, the
+the names of Wealth and Fashion. In the end, it is said, the
 
-      island became, nine tenths of it, church. The women, too, it
+island became, nine tenths of it, church. The women, too, it
 
-      appears, were oddly deformed by a natural protuberance of the
+appears, were oddly deformed by a natural protuberance of the
 
-      region just below the small of the back—although, most
+region just below the small of the back—although, most
 
-      unaccountably, this deformity was looked upon altogether in the
+unaccountably, this deformity was looked upon altogether in the
 
-      light of a [[Beauty|beauty]]. One or two pictures of these singular women
+light of a [[Beauty|beauty]]. One or two pictures of these singular women
 
-      have in fact, been miraculously preserved. They look very odd,
+have in fact, been miraculously preserved. They look very odd,
 
-      very—like something between a turkey-cock and a dromedary.
+very—like something between a turkey-cock and a dromedary.
 
 
 
-      [[Well]], these few details are nearly all that have descended to us
+[[Well]], these few details are nearly all that have descended to us
 
-      respecting the ancient Knickerbockers. It seems, however, that
+respecting the ancient Knickerbockers. It seems, however, that
 
-      while digging in the centre of the emperors [[Garden|garden]], (which, you
+while digging in the centre of the emperors [[Garden|garden]], (which, you
 
-      know, covers the whole island), some of the workmen unearthed a
+know, covers the whole island), some of the workmen unearthed a
 
-      cubical and evidently chiseled block of granite, weighing several
+cubical and evidently chiseled block of granite, weighing several
 
-      hundred pounds. It was in good preservation, having received,
+hundred pounds. It was in good preservation, having received,
 
-      apparently, little injury from the convulsion which entombed it.
+apparently, little injury from the convulsion which entombed it.
 
-      On one of its surfaces was a marble slab with (only think of it!)
+On one of its surfaces was a marble slab with (only think of it!)
 
-      an [[Inscription|inscription]]—a legible [[Inscription|inscription]]. Pundit is in ecstacies.
+an [[Inscription|inscription]]—a legible [[Inscription|inscription]]. Pundit is in ecstacies.
 
-      Upon detaching the slab, a cavity appeared, containing a leaden
+Upon detaching the slab, a cavity appeared, containing a leaden
 
-      box filled with various coins, a long scroll of names, several
+box filled with various coins, a long scroll of names, several
 
-      documents which appear to resemble newspapers, with other matters
+documents which appear to resemble newspapers, with other matters
 
-      of intense interest to the antiquarian! There can be no [[Doubt|doubt]]
+of intense interest to the antiquarian! There can be no [[Doubt|doubt]]
 
-      that all these are genuine Amriccan relics belonging to the tribe
+that all these are genuine Amriccan relics belonging to the tribe
 
-      called Knickerbocker. The papers thrown on board our balloon are
+called Knickerbocker. The papers thrown on board our balloon are
 
-      filled with fac-similes of the coins, MSS., typography, &c., &c.
+filled with fac-similes of the coins, MSS., typography, &c., &c.
 
-      I copy for your amusement the Knickerbocker [[Inscription|inscription]] on the
+I copy for your amusement the Knickerbocker [[Inscription|inscription]] on the
 
-      marble slab:—
+marble slab:—
 
 
 
-          This Corner Stone of a Monument to
+This Corner Stone of a Monument to
 
-                  The [[Memory]] of
+The [[Memory]] of
 
-                GEORGE WASHINGTON
+GEORGE WASHINGTON
 
-          Was Laid With Appropriate Ceremonies
+Was Laid With Appropriate Ceremonies
 
-                    on the
+on the
 
-             19th Day of October, 1847
+19th Day of October, 1847
 
-          The anniversary of the surrender of
+The anniversary of the surrender of
 
-                 Lord Cornwallis
+Lord Cornwallis
 
-          to General Washington at Yorktown
+to General Washington at Yorktown
 
-                 A. D. 1781
+A. D. 1781
 
-            Under the Auspices of the
+Under the Auspices of the
 
-          Washington Monument Association of
+Washington Monument Association of
 
-                the [[City|city]] of [[New York]]
+the [[City|city]] of [[New York]]
 
 
 
-      This, as I give it, is a verbatim [[Translation|translation]] done by Pundit
+This, as I give it, is a verbatim [[Translation|translation]] done by Pundit
 
-      himself, so there can be no mistake about it. From the few words
+himself, so there can be no mistake about it. From the few words
 
-      thus preserved, we glean several important items of knowledge,
+thus preserved, we glean several important items of knowledge,
 
-      not the least interesting of which is the fact that a thousand
+not the least interesting of which is the fact that a thousand
 
-      years ago actual monuments had fallen into disuse—as was all very
+years ago actual monuments had fallen into disuse—as was all very
 
-      proper—the people contenting themselves, as we do now, with a
+proper—the people contenting themselves, as we do now, with a
 
-      mere indication of the design to erect a monument at some future
+mere indication of the design to erect a monument at some future
 
-      [[Time|time]]; a corner-stone being cautiously laid by itself “solitary
+[[Time|time]]; a corner-stone being cautiously laid by itself “solitary
 
-      and [[Alone|alone]]” (excuse me for quoting the great American poet
+and [[Alone|alone]]” (excuse me for quoting the great American poet
 
-      Benton!), as a guarantee of the magnanimous intention. We
+Benton!), as a guarantee of the magnanimous intention. We
 
-      ascertain, too, very distinctly, from this admirable [[Inscription|inscription]],
+ascertain, too, very distinctly, from this admirable [[Inscription|inscription]],
 
-      the how as [[Well|well]] as the where and the what, of the great surrender
+the how as [[Well|well]] as the where and the what, of the great surrender
 
-      in question. As to the where, it was Yorktown (wherever that
+in question. As to the where, it was Yorktown (wherever that
 
-      was), and as to the what, it was General Cornwallis (no [[Doubt|doubt]]
+was), and as to the what, it was General Cornwallis (no [[Doubt|doubt]]
 
-      some wealthy dealer in corn). He was surrendered. The [[Inscription|inscription]]
+some wealthy dealer in corn). He was surrendered. The [[Inscription|inscription]]
 
-      commemorates the surrender of—what?—why, “of Lord Cornwallis.”
+commemorates the surrender of—what?—why, “of Lord Cornwallis.”
 
-      The only question is what could the savages wish him surrendered
+The only question is what could the savages wish him surrendered
 
-      for. But when we remember that these savages were undoubtedly
+for. But when we remember that these savages were undoubtedly
 
-      cannibals, we are led to the conclusion that they intended him
+cannibals, we are led to the conclusion that they intended him
 
-      for sausage. As to the how of the surrender, no language can be
+for sausage. As to the how of the surrender, no language can be
 
-      more explicit. Lord Cornwallis was surrendered (for sausage)
+more explicit. Lord Cornwallis was surrendered (for sausage)
 
-      “under the auspices of the Washington Monument Association”—no
+“under the auspices of the Washington Monument Association”—no
 
-      [[Doubt|doubt]] a charitable institution for the depositing of
+[[Doubt|doubt]] a charitable institution for the depositing of
 
-      corner-stones.—But, Heaven bless me! what is the matter? Ah, I
+corner-stones.—But, Heaven bless me! what is the matter? Ah, I
 
-      see—the balloon has collapsed, and we shall have a tumble into
+see—the balloon has collapsed, and we shall have a tumble into
 
-      the sea. I have, therefore, only [[Time|time]] enough to add that, from a
+the sea. I have, therefore, only [[Time|time]] enough to add that, from a
 
-      hasty inspection of the fac-similes of newspapers, &c., &c., I
+hasty inspection of the fac-similes of newspapers, &c., &c., I
 
-      find that the great men in those days among the Amriccans, were
+find that the great men in those days among the Amriccans, were
 
-      one John, a [[smith]], and one Zacchary, a tailor.
+one John, a [[smith]], and one Zacchary, a tailor.
 
 
 
-      Good-bye, until I see you again. Whether you ever get this letter
+Good-bye, until I see you again. Whether you ever get this letter
 
-      or not is point of little importance, as I write altogether for
+or not is point of little importance, as I write altogether for
 
-      my own amusement. I shall cork the MS. up in a bottle, however,
+my own amusement. I shall cork the MS. up in a bottle, however,
 
-      and throw it into the sea.
+and throw it into the sea.
 
 
 
-      Yours everlastingly,
+Yours everlastingly,
 
-       PUNDITA.
+PUNDITA.

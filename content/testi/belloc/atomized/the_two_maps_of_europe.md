@@ -929,7 +929,7 @@ There is nothing on which the judgment of an educated man would have proved more
 
 
 
-<span class="atom-split" data-atom="story_01_foreword" data-title="The Two Maps of Europe — FOREWORD" data-chapter="Story 01 FOREWORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_foreword" data-title="The Two Maps of Europe — FOREWORD" data-chapter="FOREWORD" data-kind="story"></span>
 
 
 FOREWORD
@@ -939,7 +939,7 @@ THE SIX CHAPTERS of this little book discuss and explain six separate and most i
 
 
 
-<span class="atom-split" data-atom="story_07_what_the_war_has_taught_us" data-title="The Two Maps of Europe — WHAT THE WAR HAS TAUGHT US" data-chapter="Story 07 WHAT THE WAR HAS TAUGHT US" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_what_the_war_has_taught_us" data-title="The Two Maps of Europe — WHAT THE WAR HAS TAUGHT US" data-chapter="WHAT THE WAR HAS TAUGHT US" data-kind="story"></span>
 
 
 WHAT THE WAR HAS TAUGHT US
@@ -951,7 +951,7 @@ WHAT THE WAR HAS TAUGHT US
 
 
 
-<span class="atom-split" data-atom="story_08_the_points_at_issue" data-title="The Two Maps of Europe — THE POINTS AT ISSUE" data-chapter="Story 08 THE POINTS AT ISSUE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_points_at_issue" data-title="The Two Maps of Europe — THE POINTS AT ISSUE" data-chapter="THE POINTS AT ISSUE" data-kind="story"></span>
 
 
 THE POINTS AT ISSUE
@@ -1007,7 +1007,7 @@ In the second set, the political questions, the most important were:
 
 
 
-<span class="atom-split" data-atom="story_09_lessons_we_have_learnt" data-title="The Two Maps of Europe — LESSONS WE HAVE LEARNT" data-chapter="Story 09 LESSONS WE HAVE LEARNT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_lessons_we_have_learnt" data-title="The Two Maps of Europe — LESSONS WE HAVE LEARNT" data-chapter="LESSONS WE HAVE LEARNT" data-kind="story"></span>
 
 
 LESSONS WE HAVE LEARNT
@@ -1067,7 +1067,7 @@ The conception that almost immediately after a declaration of war naval superior
 
 
 
-<span class="atom-split" data-atom="story_10_the_political_results" data-title="The Two Maps of Europe — THE POLITICAL RESULTS" data-chapter="Story 10 THE POLITICAL RESULTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_political_results" data-title="The Two Maps of Europe — THE POLITICAL RESULTS" data-chapter="THE POLITICAL RESULTS" data-kind="story"></span>
 
 
 THE POLITICAL RESULTS
@@ -1093,7 +1093,7 @@ There is nothing on which the judgment of an educated man would have proved more
 
 
 
-<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_01" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 1)" data-chapter="Story 02 THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_01" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 1)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
 
 
 THE TWO MAPS OF EUROPE
@@ -1153,7 +1153,7 @@ National groupings have discovered their power and have already begun to appear 
 
 
 
-<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_02" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 2)" data-chapter="Story 02 THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_02" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 2)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
 
 
 What makes a nation is corporate tradition. The strongest element in this is an historic memory. A nation which can point to having enjoyed a national existence in the past is much more firmly seated in its ambition to retain or to recover its independence than one which has never had such historic existence.
@@ -1185,7 +1185,7 @@ Now the boundaries of this “German feeling” group in Europe are curiously in
 
 
 
-<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_03" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 3)" data-chapter="Story 02 THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_03" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 3)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
 
 
 Within that curiously twisted line nearly all speech and all feeling is German. There are many States within that line, there is much confusion of historic tradition, a sharp division in religion — roughly Catholic in the south and west, Protestant in the north and east. But the national group is, especially as against the Slav and even as against western and southern Europe, one body; and within that body Prussia, with its capital of Berlin, is the organizing and directing centre.
@@ -1301,7 +1301,7 @@ In the first place Germany would keep all that she has, indifferent to national 
 
 
 
-<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_04" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 4)" data-chapter="Story 02 THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_04" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 4)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
 
 
 The German constitutional system is of its nature federal. There is room in it for many kinds of states, each possessed of a very great measure of independence, and if the inclusion within one commercial system and one military system also, however loose that inclusion, be called annexation, then we may say that [[Germany]] would annex in some degree. She would wish to control directly the Mouth of the Scheldt and probably the Teutonic-speaking part of Belgium, that is, the north of that country. She would certainly desire to administrate the Ardennes, which would be her frontier against France, and she would quite certainly take over Luxembourg.
@@ -1357,7 +1357,7 @@ MAP IV. EUROPE REMODELLED BY THE ALLIES
 
 
 
-<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_05" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 5)" data-chapter="Story 02 THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_05" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 5)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
 
 
 8. An independent Catholic Southern Slav or Croat State, probably a holding of Vienna.
@@ -1393,7 +1393,7 @@ Germany showed the way in 1871 upon what now looks like a modest scale, but was 
 
 
 
-<span class="atom-split" data-atom="story_03_numbers_in_war--part_01" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 1)" data-chapter="Story 03 NUMBERS IN WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_numbers_in_war--part_01" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 1)" data-chapter="NUMBERS IN WAR" data-kind="excerpt"></span>
 
 
 NUMBERS IN WAR
@@ -1437,7 +1437,7 @@ Diagram II. Every man in a trench may be regarded as accounting for a certain an
 
 
 
-<span class="atom-split" data-atom="story_03_numbers_in_war--part_02" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 2)" data-chapter="Story 03 NUMBERS IN WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_numbers_in_war--part_02" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 2)" data-chapter="NUMBERS IN WAR" data-kind="excerpt"></span>
 
 
 You must, first, have enough men to cover the field of fire in front of the trench with the missiles from the weapons of each, and so stop the assault of the enemy. Every man with his rifle may be regarded as accounting for a certain angle of space in front of him as in the angles A B C and the other similar angles in Diagram II. These angles must meet and cover the whole ground, in theory at least, not further from the trench than the most advanced point to which it has been discovered that an enemy’s rush will reach before combined fire stops it. In practice, of course, you need very many more men, but the theory of the thing is that if the extreme point at which you can expect to stop a rush is the line L-L, and if the angle over which a rifle is usefully used is the angle B-A-C, then you cannot hold the trench at all unless you have at least enough men a-a-a just to cover that line L-L with their fire. If you try to do it with less men, as in Diagram III, you would only cover a portion of the front; you would leave a gap in it between X and Y through which the trench would be carried.
@@ -1475,7 +1475,7 @@ As for the line of the Rhine lying immediately behind F-B, the line D-D-D, it is
 
 
 
-<span class="atom-split" data-atom="story_03_numbers_in_war--part_03" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 3)" data-chapter="Story 03 NUMBERS IN WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_numbers_in_war--part_03" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 3)" data-chapter="NUMBERS IN WAR" data-kind="excerpt"></span>
 
 
 So much for an illustration of what is meant by absolute numbers and of their importance in the present phase of the campaign.
@@ -1519,7 +1519,7 @@ I think it just to say that she certainly could not put into the European field 
 
 
 
-<span class="atom-split" data-atom="story_03_numbers_in_war--part_04" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 4)" data-chapter="Story 03 NUMBERS IN WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_numbers_in_war--part_04" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 4)" data-chapter="NUMBERS IN WAR" data-kind="excerpt"></span>
 
 
 Let us call Russia ultimately, for the purposes of the war during all its first months, a minimum of three and a maximum of five millions. Let us count Great Britain in those same months at two millions, including all who have gone out, all since recruited, and the many more who will not be either recruited or fully trained for some months to come — but excluding foreign garrisons and naval forces. Such an estimate is certainly a maximum for that period.
@@ -1569,7 +1569,7 @@ In one case and up to one date we can arrive pretty accurately at the proportion
 
 
 
-<span class="atom-split" data-atom="story_03_numbers_in_war--part_05" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 5)" data-chapter="Story 03 NUMBERS IN WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_numbers_in_war--part_05" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 5)" data-chapter="NUMBERS IN WAR" data-kind="excerpt"></span>
 
 
 I know that that figure 40 per cent. looks absurdly exaggerated when it is put thus without support, but it is a perfectly sound conclusion. If you take the lists published by Prussia, note the dates to which they refer, the proportion of killed to the admitted wounded, and add the proportion for Bavaria, Wurtemburg, and Saxony, you find that at this date in the late autumn two millions were affected, and [[Germany]] had not armed more than five millions at the most at that time.
@@ -1589,7 +1589,7 @@ We must add, therefore, in that proportion to all our figures, and the result wi
 
 
 
-<span class="atom-split" data-atom="story_04_supply--part_01" data-title="The Two Maps of Europe — SUPPLY (part 1)" data-chapter="Story 04 SUPPLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_supply--part_01" data-title="The Two Maps of Europe — SUPPLY (part 1)" data-chapter="SUPPLY" data-kind="excerpt"></span>
 
 
 SUPPLY
@@ -1633,7 +1633,7 @@ You give to the minesman a rifle which is a carefully constructed and expensive 
 
 
 
-<span class="atom-split" data-atom="story_04_supply--part_02" data-title="The Two Maps of Europe — SUPPLY (part 2)" data-chapter="Story 04 SUPPLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_supply--part_02" data-title="The Two Maps of Europe — SUPPLY (part 2)" data-chapter="SUPPLY" data-kind="excerpt"></span>
 
 
 The cavalryman you equip with a horse, which he could not think of affording as his own property, and which is superior in quality to the horse he may be working with for a master in most trades, let alone the fact that the proportion of men thus equipped with horses is much larger than the proportion of men who in civilian life have to deal with those animals. To the driver of a gun you are apportioning two horses necessarily sound and strong; to the non-commissioned officers throughout the field artillery, to a great number of officers throughout the service, you are furnishing horses which, in a civilian occupation, they could never afford, and you are, of course, also providing the keep of those horses.
@@ -1661,7 +1661,7 @@ The second and last point in this consideration of scale is the enormously expen
 
 
 
-<span class="atom-split" data-atom="story_04_supply--part_03" data-title="The Two Maps of Europe — SUPPLY (part 3)" data-chapter="Story 04 SUPPLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_supply--part_03" data-title="The Two Maps of Europe — SUPPLY (part 3)" data-chapter="SUPPLY" data-kind="excerpt"></span>
 
 
 If considerations such as these give us some idea of the scale of supply, a further series of considerations will help us to appreciate the rate or pace at which the stream of supply must flow.
@@ -1695,7 +1695,7 @@ To keep such a web untangled, duly stretched, and accurately working is an effor
 
 
 
-<span class="atom-split" data-atom="story_04_supply--part_04" data-title="The Two Maps of Europe — SUPPLY (part 4)" data-chapter="Story 04 SUPPLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_supply--part_04" data-title="The Two Maps of Europe — SUPPLY (part 4)" data-chapter="SUPPLY" data-kind="excerpt"></span>
 
 
 Diagram V. An important point in connexion with supply is the delicacy of the whole business and the peril of its embarrassment. The diagram concerns only one tiny detail of the process — no more than the supply of ammunition to one part of a division out of the hundreds of divisions that build up an army. It shows how the ammunition is sorted and distributed from an ammunition park to the men in the front line; the complexity under actual conditions of service being apt to be far more tangled and diversified, according to circumstances.
@@ -1713,7 +1713,7 @@ It is on this account that nations fighting with their whole strength, as modern
 
 
 
-<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_01" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 1)" data-chapter="Story 05 WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_01" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 1)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
 
 
 WAR TO-DAY AND YESTERDAY
@@ -1761,7 +1761,7 @@ Still, it may be of interest to compare the length of lines thus drawn apparentl
 
 
 
-<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_02" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 2)" data-chapter="Story 05 WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_02" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 2)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
 
 
 Another novel feature in which this war differs even from the Balkan War is the new value which has been given to howitzer fire, and in particular to its domination over permanent fortification. This is perhaps the most important of all the changes which this war has introduced into military art and it is worth while understanding it clearly. Its main principles are simple enough.
@@ -1791,7 +1791,7 @@ Diagram II. Mankind at war has always used devices whereby he has been able with
 
 
 
-<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_03" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 3)" data-chapter="Story 05 WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_03" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 3)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
 
 
 Well, the chief lesson, perhaps, of the present war is that these ring fortresses fall quickly to howitzer fire. Each of the individual forts can be easily reduced by howitzer fire. This is concentrated against certain of the forts, which quickly fall, and once their ring is broken the result is equivalent to the breach in the wall of a fortress, and the whole stronghold falls. That is because in quite recent years two new factors have come in: (1) the mobile heavy howitzer; (2) the highest kinds of explosives.
@@ -1833,7 +1833,7 @@ To-day the 11-inch howitzer, with a range of about six miles, capable of hiding 
 
 
 
-<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_04" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 4)" data-chapter="Story 05 WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_04" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 4)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt"></span>
 
 
 Another development of the present war, and somewhat an unexpected one, has been the effect of the machine-gun, and this has depended as much upon the new German way of handling it behind a screen of infantry, which opened to give the machine-gun play, as to any other cause.
@@ -1865,7 +1865,7 @@ Another unexpected thing in which this war has warranted the old conception of a
 
 
 
-<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_01" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 1)" data-chapter="Story 06 WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_01" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 1)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt"></span>
 
 
 WHAT TO BELIEVE IN WAR NEWS
@@ -1911,7 +1911,7 @@ All this action of the Censor is as wise as it is necessary, but in the face of 
 
 
 
-<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_02" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 2)" data-chapter="Story 06 WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_02" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 2)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt"></span>
 
 
 Now, how are we to counter this danger? How is the plain man to distinguish in his news of the war what is true from what is false, and so arrive at a sound opinion? After some months of study in connexion with my work upon the three campaigns, I may be able to suggest certain ways in which such a position should be approached.
@@ -1943,7 +1943,7 @@ The French Government is by far the most reticent. It occasionally mentions the 
 
 
 
-<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_03" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 3)" data-chapter="Story 06 WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_03" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 3)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt"></span>
 
 
 The Russian Government is accurate, and, if anything, a little too terse in what it communicates to the public, but its censorship is far less strict than that of the French or even the English. Thus during the fighting round Lodz in defence of Warsaw at the beginning of December, correspondents from Petrograd were allowed to telegraph the most flamboyant descriptions of an immediately approaching German retreat which never took place. But, I repeat, the official Russian news is sober and restrained and accurate to a fault.

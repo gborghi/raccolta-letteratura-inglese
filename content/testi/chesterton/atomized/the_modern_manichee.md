@@ -27,7 +27,7 @@ And sires not sons he chides as with a rod.
 The sins of the children visited on the fathers  
 Through all generations, back to a jealous God.  
 
-   The fields that heal the humble, the happy forests  
+The fields that heal the humble, the happy forests  
 That sing to men confessed and men consoled,  
 To him are jungles only, greedy and groping,  
 Heartlessly new, unvenerably old.  
@@ -36,7 +36,7 @@ Is only cruelty and imputed [[Pain|pain]]:
 Matched with that mood, a boy's sport in the forest  
 Makes comrades of the slayer and the slain.  
 
-   The [[Innocent|innocent]] lust of the unfallen creatures  
+The [[Innocent|innocent]] lust of the unfallen creatures  
 Moves him to hidden horror but no mirth;  
 Misplaced [[morality]] rots in the roots unconscious,  
 His stifled [[Conscience|conscience]] stinks through the green earth.  
@@ -45,7 +45,7 @@ Horns green and gross, each lifting a leering eye
 He scarce can call a flower; it lolls obscene,  
 Its organs gaping to the sneering sky.  
 
-   Dark with that dusk the old red god of gardens  
+Dark with that dusk the old red god of gardens  
 Still pagan but not merry any more,  
 Stirs up the dull adulteries of the [[Dust|dust]],  
 Blind, frustrate, hopeless, hollow at the core;  
@@ -54,7 +54,7 @@ Their terrible dark loves from tree to tree:
 He shrinks as from a shaft, if by him singing,  
 A gilded pimp and pandar, goes the bee.  
 
-   He sayeth, 'I have no sin; I cast the stone',  
+He sayeth, 'I have no sin; I cast the stone',  
 And throws his little pebble at the shrine,  
 Casts sin and stone away against the [[house]]  
 Whose health has turned earth's waters into wine.  
@@ -63,7 +63,7 @@ Poisons the sea and every natural flood
 As once a wavering [[Tyrant|tyrant]] washed his hands,  
 And touching, turned the [[Water|water]] black with [[Blood|blood]].  
 
-                             G K Chesterton.
+G K Chesterton.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -81,7 +81,7 @@ E non genera figli che sferza come con la verga.
 Le colpe dei figli fatte ricadere sui padri  
 Per ogni generazione, indietro fino a un Dio geloso.  
 
-   I campi che risanano gli umili, le liete foreste  
+I campi che risanano gli umili, le liete foreste  
 Che cantano agli uomini confessi e agli uomini consolati,  
 Per lui non sono che giungle, avide e brancolanti,  
 Senza cuore nuove, senza venerazione antiche.  
@@ -90,7 +90,7 @@ Non v'è che crudeltà e [[Pain|dolore]] imputato:
 Rapportato a quell'umore, il gioco d'un fanciullo nel bosco  
 Fa compagni l'uccisore e l'ucciso.  
 
-   L'[[Innocent|innocente]] brama delle creature non cadute  
+L'[[Innocent|innocente]] brama delle creature non cadute  
 Lo muove a un orrore nascosto ma a nessuna letizia;  
 Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
 La sua [[Conscience|coscienza]] soffocata puzza per la verde terra.  
@@ -99,7 +99,7 @@ Corni verdi e grossi, ciascuno levando un occhio sogghignante
 Ch'egli a stento può dir fiore; sta sdraiato osceno,  
 I suoi organi spalancati al cielo beffardo.  
 
-   Buio di quel crepuscolo, l'antico rosso dio dei giardini  
+Buio di quel crepuscolo, l'antico rosso dio dei giardini  
 Ancóra pagano ma non più gioioso,  
 Ridesta i cupi adultèri della [[Dust|polvere]],  
 Cieco, frustrato, senza speranza, cavo nel cuore;  
@@ -108,7 +108,7 @@ I loro terribili oscuri amori d'albero in albero:
 Egli rifugge come da un dardo, se accanto a lui, cantando,  
 Passa l'ape, dorato ruffiano e mezzano.  
 
-   Egli dice: 'Non ho peccato; io scaglio la pietra',  
+Egli dice: 'Non ho peccato; io scaglio la pietra',  
 E getta il suo sassolino contro il santuario,  
 Scaglia via peccato e pietra contro la [[house|casa]]  
 La cui salute ha mutato in vino le acque della terra.  
@@ -117,7 +117,7 @@ Avvelena il mare e ogni flusso naturale
 Come un tempo un [[Tyrant|tiranno]] esitante si lavò le mani,  
 E, toccandola, fece l'[[Water|acqua]] nera di [[Blood|sangue]].  
 
-                             G K Chesterton.
+G K Chesterton.
 
 
 
@@ -137,7 +137,7 @@ And sires not sons he chides as with a rod.
 The sins of the children visited on the fathers  
 Through all generations, back to a jealous God.  
 
-   The fields that heal the humble, the happy forests  
+The fields that heal the humble, the happy forests  
 That sing to men confessed and men consoled,  
 To him are jungles only, greedy and groping,  
 Heartlessly new, unvenerably old.  
@@ -146,7 +146,7 @@ Is only cruelty and imputed [[Pain|pain]]:
 Matched with that mood, a boy's sport in the forest  
 Makes comrades of the slayer and the slain.  
 
-   The [[Innocent|innocent]] lust of the unfallen creatures  
+The [[Innocent|innocent]] lust of the unfallen creatures  
 Moves him to hidden horror but no mirth;  
 Misplaced [[morality]] rots in the roots unconscious,  
 His stifled [[Conscience|conscience]] stinks through the green earth.  
@@ -155,7 +155,7 @@ Horns green and gross, each lifting a leering eye
 He scarce can call a flower; it lolls obscene,  
 Its organs gaping to the sneering sky.  
 
-   Dark with that dusk the old red god of gardens  
+Dark with that dusk the old red god of gardens  
 Still pagan but not merry any more,  
 Stirs up the dull adulteries of the [[Dust|dust]],  
 Blind, frustrate, hopeless, hollow at the core;  
@@ -164,7 +164,7 @@ Their terrible dark loves from tree to tree:
 He shrinks as from a shaft, if by him singing,  
 A gilded pimp and pandar, goes the bee.  
 
-   He sayeth, 'I have no sin; I cast the stone',  
+He sayeth, 'I have no sin; I cast the stone',  
 And throws his little pebble at the shrine,  
 Casts sin and stone away against the [[house]]  
 Whose health has turned earth's waters into wine.  
@@ -173,7 +173,7 @@ Poisons the sea and every natural flood
 As once a wavering [[Tyrant|tyrant]] washed his hands,  
 And touching, turned the [[Water|water]] black with [[Blood|blood]].  
 
-                             G K Chesterton.
+G K Chesterton.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -191,7 +191,7 @@ E non genera figli che sferza come con la verga.
 Le colpe dei figli fatte ricadere sui padri  
 Per ogni generazione, indietro fino a un Dio geloso.  
 
-   I campi che risanano gli umili, le liete foreste  
+I campi che risanano gli umili, le liete foreste  
 Che cantano agli uomini confessi e agli uomini consolati,  
 Per lui non sono che giungle, avide e brancolanti,  
 Senza cuore nuove, senza venerazione antiche.  
@@ -200,7 +200,7 @@ Non v'è che crudeltà e [[Pain|dolore]] imputato:
 Rapportato a quell'umore, il gioco d'un fanciullo nel bosco  
 Fa compagni l'uccisore e l'ucciso.  
 
-   L'[[Innocent|innocente]] brama delle creature non cadute  
+L'[[Innocent|innocente]] brama delle creature non cadute  
 Lo muove a un orrore nascosto ma a nessuna letizia;  
 Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
 La sua [[Conscience|coscienza]] soffocata puzza per la verde terra.  
@@ -209,7 +209,7 @@ Corni verdi e grossi, ciascuno levando un occhio sogghignante
 Ch'egli a stento può dir fiore; sta sdraiato osceno,  
 I suoi organi spalancati al cielo beffardo.  
 
-   Buio di quel crepuscolo, l'antico rosso dio dei giardini  
+Buio di quel crepuscolo, l'antico rosso dio dei giardini  
 Ancóra pagano ma non più gioioso,  
 Ridesta i cupi adultèri della [[Dust|polvere]],  
 Cieco, frustrato, senza speranza, cavo nel cuore;  
@@ -218,7 +218,7 @@ I loro terribili oscuri amori d'albero in albero:
 Egli rifugge come da un dardo, se accanto a lui, cantando,  
 Passa l'ape, dorato ruffiano e mezzano.  
 
-   Egli dice: 'Non ho peccato; io scaglio la pietra',  
+Egli dice: 'Non ho peccato; io scaglio la pietra',  
 E getta il suo sassolino contro il santuario,  
 Scaglia via peccato e pietra contro la [[house|casa]]  
 La cui salute ha mutato in vino le acque della terra.  
@@ -227,4 +227,4 @@ Avvelena il mare e ogni flusso naturale
 Come un tempo un [[Tyrant|tiranno]] esitante si lavò le mani,  
 E, toccandola, fece l'[[Water|acqua]] nera di [[Blood|sangue]].  
 
-                             G K Chesterton.
+G K Chesterton.

@@ -384,6 +384,49 @@ function prettyFromFilename(name) {
     .trim()
 }
 
+// A roman numeral like "II"/"IV" gets title-cased to "Ii"/"Iv" when the atomizer
+// derives a filename/heading (reads on the site as "li"/"lv"). Re-uppercase any
+// token that is a valid roman numeral of length >= 2 (a lone "I" stays — usually
+// the pronoun; "Mix" is the only realistic English false positive, not a chapter).
+const ROMAN_RE = /^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/i
+function fixRoman(s) {
+  return String(s).replace(/[A-Za-z]+/g, (t) =>
+    t.length > 1 && ROMAN_RE.test(t) ? t.toUpperCase() : t,
+  )
+}
+
+// Chapter/section display label from a unit filename: drop the structural
+// "Story_04"/"Chapter_02"/… ordinal prefix (redundant once grouped under the
+// chapter) and fix title-cased roman numerals. Falls back to the raw pretty name
+// if stripping would leave nothing (an unnamed "Story 12").
+function chapterLabel(name) {
+  const pretty = prettyFromFilename(name)
+  const stripped = pretty.replace(
+    /^(Story|Chapter|Section|Scene|Part|Canto|Book|Act|Letter)\s+\d+\s+/i,
+    "",
+  )
+  return fixRoman(stripped || pretty)
+}
+
+// Neutralize markdown code artifacts in raw literary prose:
+//   • Gutenberg paragraph indents (the first line of every paragraph is indented
+//     ≥4 spaces) otherwise render as <pre><code> boxes — left-trim leading space.
+//   • Gutenberg uses a backtick as an opening single quote (`word') — convert to a
+//     real curly quote so it never pairs into inline <code>.
+// These corpora contain no genuine code, so both transforms are safe.
+function normalizeProse(s) {
+  return String(s)
+    .replace(/^[ \t]+/gm, "")
+    .replace(/`/g, "‘")
+}
+
+// Drop a redundant leading self-referential H1 ("# [[workslug]] — Chapter"): the
+// reader shows the title in its crumb/TOC, so the in-pane heading only repeats it
+// (and would render the bare "[[slug]]" self-link).
+function stripLeadingSelfH1(content) {
+  return content.replace(/^([ \t]*\r?\n)*[ \t]*#[ \t]+\[\[[^\]]*\]\][^\n]*\r?\n/, "")
+}
+
 // Classify a unit relative path (under an author dir) -> { unitType, order }.
 function classifyUnit(relParts, fileName) {
   const f = fileName.replace(/\.md$/, "")
@@ -552,16 +595,19 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
             const raw = await fs.readFile(srcAbs, "utf8")
             const { body, title: h1Title } = splitUnit(raw)
-            const title =
+            const title = fixRoman(
               (wt ? applyWorkTitle(h1Title, wt) : cleanWikilinks(h1Title)) ||
-              prettyFromFilename(it.fileName)
+                prettyFromFilename(it.fileName),
+            )
             atomMeta.set(frag, { title, work: workLabel, workHref: parentWorkHref || "" })
             const chapLabel = it.parentItem
-              ? prettyFromFilename(it.parentItem.fileName)
+              ? chapterLabel(it.parentItem.fileName)
               : isIntro
                 ? ""
-                : prettyFromFilename(it.fileName)
-            let enBody = stripLeadingH1IfMatchesTitle(stripJunkSeparators(body), title)
+                : chapterLabel(it.fileName)
+            let enBody = normalizeProse(
+              stripLeadingSelfH1(stripLeadingH1IfMatchesTitle(stripJunkSeparators(body), title)),
+            )
             const kind = isIntro ? "intro" : it.unitType
             let block =
               `\n\n<span class="atom-split" data-atom="${esc(atomId)}" ` +
@@ -572,7 +618,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             if (tr)
               block +=
                 `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` +
-                stripUnitChrome(tr.body_it || "")
+                normalizeProse(stripUnitChrome(tr.body_it || ""))
             blocks.push(block)
 
             // indexes (Brani / cerca / #17 / work-note TOC) point at the fragment url

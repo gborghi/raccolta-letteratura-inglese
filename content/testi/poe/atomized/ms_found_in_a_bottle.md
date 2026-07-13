@@ -24,853 +24,853 @@ N’a plus rien a dissimuler.
 
 
 
-      Of my country and of my family I have little to say. Ill usage
+Of my country and of my family I have little to say. Ill usage
 
-      and length of years have driven me from the one, and estranged me
+and length of years have driven me from the one, and estranged me
 
-      from the other. Hereditary wealth afforded me an [[Education|education]] of no
+from the other. Hereditary wealth afforded me an [[Education|education]] of no
 
-      common order, and a contemplative turn of mind enabled me to
+common order, and a contemplative turn of mind enabled me to
 
-      methodize the stores which early study very diligently garnered
+methodize the stores which early study very diligently garnered
 
-      up.—Beyond all things, the study of the German moralists gave me
+up.—Beyond all things, the study of the German moralists gave me
 
-      great delight; not from any ill-advised admiration of their
+great delight; not from any ill-advised admiration of their
 
-      eloquent [[Madness|madness]], but from the ease with which my habits of rigid
+eloquent [[Madness|madness]], but from the ease with which my habits of rigid
 
-      thought enabled me to detect their falsities. I have often been
+thought enabled me to detect their falsities. I have often been
 
-      reproached with the aridity of my genius; a deficiency of
+reproached with the aridity of my genius; a deficiency of
 
-      [[Imagination|imagination]] has been imputed to me as a crime; and the Pyrrhonism
+[[Imagination|imagination]] has been imputed to me as a crime; and the Pyrrhonism
 
-      of my opinions has at all times rendered me notorious. Indeed, a
+of my opinions has at all times rendered me notorious. Indeed, a
 
-      strong relish for physical [[philosophy]] has, I [[Fear|fear]], tinctured my
+strong relish for physical [[philosophy]] has, I [[Fear|fear]], tinctured my
 
-      mind with a very common error of this age—I mean the habit of
+mind with a very common error of this age—I mean the habit of
 
-      referring occurrences, even the least susceptible of such
+referring occurrences, even the least susceptible of such
 
-      reference, to the principles of that science. Upon the whole, no
+reference, to the principles of that science. Upon the whole, no
 
-      person could be less liable than myself to be led away from the
+person could be less liable than myself to be led away from the
 
-      severe precincts of [[Truth|truth]] by the ignes fatui of superstition. I
+severe precincts of [[Truth|truth]] by the ignes fatui of superstition. I
 
-      have thought proper to premise thus much, lest the incredible
+have thought proper to premise thus much, lest the incredible
 
-      tale I have to tell should be considered rather the raving of a
+tale I have to tell should be considered rather the raving of a
 
-      crude [[Imagination|imagination]], than the positive experience of a mind to
+crude [[Imagination|imagination]], than the positive experience of a mind to
 
-      which the reveries of fancy have been a dead letter and a
+which the reveries of fancy have been a dead letter and a
 
-      nullity.
+nullity.
 
 
 
-      After many years spent in foreign travel, I sailed in the year
+After many years spent in foreign travel, I sailed in the year
 
-      18— , from the port of Batavia, in the rich and populous island
+18— , from the port of Batavia, in the rich and populous island
 
-      of Java, on a voyage to the Archipelago of the Sunda islands. I
+of Java, on a voyage to the Archipelago of the Sunda islands. I
 
-      went as passenger—having no other inducement than a kind of
+went as passenger—having no other inducement than a kind of
 
-      nervous restlessness which haunted me as a fiend.
+nervous restlessness which haunted me as a fiend.
 
 
 
-      Our vessel was a beautiful [[Ship|ship]] of about four hundred tons,
+Our vessel was a beautiful [[Ship|ship]] of about four hundred tons,
 
-      copper-fastened, and built at Bombay of Malabar teak. She was
+copper-fastened, and built at Bombay of Malabar teak. She was
 
-      freighted with cotton-wool and oil, from the Lachadive islands.
+freighted with cotton-wool and oil, from the Lachadive islands.
 
-      We had also on board coir, jaggeree, ghee, cocoa-nuts, and a few
+We had also on board coir, jaggeree, ghee, cocoa-nuts, and a few
 
-      cases of opium. The stowage was clumsily done, and the vessel
+cases of opium. The stowage was clumsily done, and the vessel
 
-      consequently crank.
+consequently crank.
 
 
 
-      We got under way with a mere breath of [[Wind|wind]], and for many days
+We got under way with a mere breath of [[Wind|wind]], and for many days
 
-      stood along the eastern coast of Java, without any other incident
+stood along the eastern coast of Java, without any other incident
 
-      to beguile the monotony of our course than the occasional meeting
+to beguile the monotony of our course than the occasional meeting
 
-      with some of the small grabs of the Archipelago to which we were
+with some of the small grabs of the Archipelago to which we were
 
-      bound.
+bound.
 
 
 
-      One evening, leaning over the taffrail, I observed a very
+One evening, leaning over the taffrail, I observed a very
 
-      singular, isolated cloud, to the N.W. It was remarkable, as [[Well|well]]
+singular, isolated cloud, to the N.W. It was remarkable, as [[Well|well]]
 
-      for its color, as from its being the first we had seen since our
+for its color, as from its being the first we had seen since our
 
-      departure from Batavia. I watched it attentively until sunset,
+departure from Batavia. I watched it attentively until sunset,
 
-      when it spread all at once to the eastward and westward, girting
+when it spread all at once to the eastward and westward, girting
 
-      in the horizon with a narrow strip of vapor, and looking like a
+in the horizon with a narrow strip of vapor, and looking like a
 
-      long line of low beach. My notice was soon afterwards attracted
+long line of low beach. My notice was soon afterwards attracted
 
-      by the dusky-red appearance of the [[Moon|moon]], and the peculiar
+by the dusky-red appearance of the [[Moon|moon]], and the peculiar
 
-      character of the sea. The latter was undergoing a rapid change,
+character of the sea. The latter was undergoing a rapid change,
 
-      and the [[Water|water]] seemed more than usually transparent. Although I
+and the [[Water|water]] seemed more than usually transparent. Although I
 
-      could distinctly see the [[Bottom|bottom]], yet, heaving the lead, I found
+could distinctly see the [[Bottom|bottom]], yet, heaving the lead, I found
 
-      the [[Ship|ship]] in fifteen fathoms. The air now became intolerably hot,
+the [[Ship|ship]] in fifteen fathoms. The air now became intolerably hot,
 
-      and was loaded with spiral exhalations similar to those arising
+and was loaded with spiral exhalations similar to those arising
 
-      from heat iron. As [[Night|night]] came on, every breath of [[Wind|wind]] died away,
+from heat iron. As [[Night|night]] came on, every breath of [[Wind|wind]] died away,
 
-      an more entire calm it is impossible to conceive. The flame of a
+an more entire calm it is impossible to conceive. The flame of a
 
-      candle burned upon the poop without the least perceptible motion,
+candle burned upon the poop without the least perceptible motion,
 
-      and a long hair, held between the finger and thumb, hung without
+and a long hair, held between the finger and thumb, hung without
 
-      the possibility of detecting a vibration. However, as the captain
+the possibility of detecting a vibration. However, as the captain
 
-      said he could perceive no indication of danger, and as we were
+said he could perceive no indication of danger, and as we were
 
-      drifting in bodily to shore, he ordered the sails to be furled,
+drifting in bodily to shore, he ordered the sails to be furled,
 
-      and the anchor let go. No watch was set, and the crew, consisting
+and the anchor let go. No watch was set, and the crew, consisting
 
-      principally of Malays, stretched themselves deliberately upon
+principally of Malays, stretched themselves deliberately upon
 
-      deck. I went below—not without a full presentiment of evil.
+deck. I went below—not without a full presentiment of evil.
 
-      Indeed, every appearance warranted me in apprehending a Simoom. I
+Indeed, every appearance warranted me in apprehending a Simoom. I
 
-      told the captain my fears; but he paid no attention to what I
+told the captain my fears; but he paid no attention to what I
 
-      said, and left me without deigning to give a reply. My
+said, and left me without deigning to give a reply. My
 
-      uneasiness, however, prevented me from sleeping, and about
+uneasiness, however, prevented me from sleeping, and about
 
-      midnight I went upon deck. As I placed my foot upon the upper
+midnight I went upon deck. As I placed my foot upon the upper
 
-      step of the companion-ladder, I was startled by a loud, humming
+step of the companion-ladder, I was startled by a loud, humming
 
-      noise, like that occasioned by the rapid revolution of a
+noise, like that occasioned by the rapid revolution of a
 
-      mill-[[Wheel|wheel]], and before I could ascertain its meaning, I found the
+mill-[[Wheel|wheel]], and before I could ascertain its meaning, I found the
 
-      [[Ship|ship]] quivering to its centre. In the next instant, a wilderness
+[[Ship|ship]] quivering to its centre. In the next instant, a wilderness
 
-      of foam hurled us upon our beam-ends, and, rushing over us fore
+of foam hurled us upon our beam-ends, and, rushing over us fore
 
-      and aft, swept the entire decks from stem to stern.
+and aft, swept the entire decks from stem to stern.
 
 
 
-      The extreme fury of the blast proved, in a great measure, the
+The extreme fury of the blast proved, in a great measure, the
 
-      salvation of the [[Ship|ship]]. Although completely [[Water|water]]-logged, yet, as
+salvation of the [[Ship|ship]]. Although completely [[Water|water]]-logged, yet, as
 
-      her masts had gone by the board, she [[Rose|rose]], after a minute,
+her masts had gone by the board, she [[Rose|rose]], after a minute,
 
-      heavily from the sea, and, staggering awhile beneath the immense
+heavily from the sea, and, staggering awhile beneath the immense
 
-      pressure of the tempest, finally righted.
+pressure of the tempest, finally righted.
 
 
 
-      By what miracle I escaped destruction, it is impossible to say.
+By what miracle I escaped destruction, it is impossible to say.
 
-      Stunned by the shock of the [[Water|water]], I found myself, upon recovery,
+Stunned by the shock of the [[Water|water]], I found myself, upon recovery,
 
-      jammed in between the stern-post and rudder. With great
+jammed in between the stern-post and rudder. With great
 
-      difficulty I gained my feet, and looking dizzily around, was, at
+difficulty I gained my feet, and looking dizzily around, was, at
 
-      first, struck with the idea of our being among breakers; so
+first, struck with the idea of our being among breakers; so
 
-      terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
+terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
 
-      mountainous and foaming ocean within which we were engulfed.
+mountainous and foaming ocean within which we were engulfed.
 
-      After a while, I heard the voice of an old Swede, who had shipped
+After a while, I heard the voice of an old Swede, who had shipped
 
-      with us at the moment of our leaving port. I hallooed to him with
+with us at the moment of our leaving port. I hallooed to him with
 
-      all my strength, and presently he came reeling aft. We soon
+all my strength, and presently he came reeling aft. We soon
 
-      discovered that we were the sole survivors of the accident. All
+discovered that we were the sole survivors of the accident. All
 
-      on deck, with the exception of ourselves, had been swept
+on deck, with the exception of ourselves, had been swept
 
-      overboard;—the captain and mates must have perished as they
+overboard;—the captain and mates must have perished as they
 
-      slept, for the cabins were deluged with [[Water|water]]. Without
+slept, for the cabins were deluged with [[Water|water]]. Without
 
-      assistance, we could expect to do little for the security of the
+assistance, we could expect to do little for the security of the
 
-      [[Ship|ship]], and our exertions were at first paralyzed by the momentary
+[[Ship|ship]], and our exertions were at first paralyzed by the momentary
 
-      expectation of going down. Our cable had, of course, parted like
+expectation of going down. Our cable had, of course, parted like
 
-      pack-thread, at the first breath of the hurricane, or we should
+pack-thread, at the first breath of the hurricane, or we should
 
-      have been instantaneously overwhelmed. We scudded with frightful
+have been instantaneously overwhelmed. We scudded with frightful
 
-      velocity before the sea, and the [[Water|water]] made clear breaches over
+velocity before the sea, and the [[Water|water]] made clear breaches over
 
-      us. The frame-work of our stern was shattered excessively, and,
+us. The frame-work of our stern was shattered excessively, and,
 
-      in almost every respect, we had received considerable injury; but
+in almost every respect, we had received considerable injury; but
 
-      to our extreme joy we found the pumps unchoked, and that we had
+to our extreme joy we found the pumps unchoked, and that we had
 
-      made no great shifting of our ballast. The main fury of the blast
+made no great shifting of our ballast. The main fury of the blast
 
-      had already blown over, and we apprehended little danger from the
+had already blown over, and we apprehended little danger from the
 
-      violence of the [[Wind|wind]]; but we looked forward to its total
+violence of the [[Wind|wind]]; but we looked forward to its total
 
-      cessation with dismay; [[Well|well]] believing, that, in our shattered
+cessation with dismay; [[Well|well]] believing, that, in our shattered
 
-      condition, we should inevitably perish in the tremendous swell
+condition, we should inevitably perish in the tremendous swell
 
-      which would ensue. But this very just apprehension seemed by no
+which would ensue. But this very just apprehension seemed by no
 
-      means likely to be soon verified. For five entire days and
+means likely to be soon verified. For five entire days and
 
-      nights—during which our only subsistence was a small quantity of
+nights—during which our only subsistence was a small quantity of
 
-      jaggeree, procured with great difficulty from the forecastle—the
+jaggeree, procured with great difficulty from the forecastle—the
 
-      hulk flew at a rate defying computation, before rapidly
+hulk flew at a rate defying computation, before rapidly
 
-      succeeding flaws of [[Wind|wind]], which, without equalling the first
+succeeding flaws of [[Wind|wind]], which, without equalling the first
 
-      violence of the Simoom, were still more terrific than any tempest
+violence of the Simoom, were still more terrific than any tempest
 
-      I had before encountered. Our course for the first four days was,
+I had before encountered. Our course for the first four days was,
 
-      with trifling variations, S.E. and by S.; and we must have run
+with trifling variations, S.E. and by S.; and we must have run
 
-      down the coast of New Holland. On the fifth day the cold became
+down the coast of New Holland. On the fifth day the cold became
 
-      extreme, although the [[Wind|wind]] had hauled round a point more to the
+extreme, although the [[Wind|wind]] had hauled round a point more to the
 
-      northward. The sun arose with a sickly yellow lustre, and
+northward. The sun arose with a sickly yellow lustre, and
 
-      clambered a very few degrees above the horizon—emitting no
+clambered a very few degrees above the horizon—emitting no
 
-      decisive light. There were no clouds apparent, yet the [[Wind|wind]] was
+decisive light. There were no clouds apparent, yet the [[Wind|wind]] was
 
-      upon the increase, and blew with a fitful and unsteady fury.
+upon the increase, and blew with a fitful and unsteady fury.
 
-      About [[Noon|noon]], as nearly as we could guess, our attention was again
+About [[Noon|noon]], as nearly as we could guess, our attention was again
 
-      arrested by the appearance of the sun. It gave out no light,
+arrested by the appearance of the sun. It gave out no light,
 
-      properly so called, but a dull and sullen glow without
+properly so called, but a dull and sullen glow without
 
-      reflection, as if all its rays were polarized. Just before
+reflection, as if all its rays were polarized. Just before
 
-      sinking within the turgid sea, its central fires suddenly went
+sinking within the turgid sea, its central fires suddenly went
 
-      out, as if hurriedly extinguished by some unaccountable power. It
+out, as if hurriedly extinguished by some unaccountable power. It
 
-      was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
+was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
 
-      unfathomable ocean.
+unfathomable ocean.
 
 
 
-      We waited in vain for the arrival of the sixth day—that day to me
+We waited in vain for the arrival of the sixth day—that day to me
 
-      has not yet arrived—to the Swede, never did arrive. Thenceforward
+has not yet arrived—to the Swede, never did arrive. Thenceforward
 
-      we were enshrouded in patchy darkness, so that we could not have
+we were enshrouded in patchy darkness, so that we could not have
 
-      seen an object at twenty paces from the [[Ship|ship]]. Eternal [[Night|night]]
+seen an object at twenty paces from the [[Ship|ship]]. Eternal [[Night|night]]
 
-      continued to envelop us, all unrelieved by the phosphoric
+continued to envelop us, all unrelieved by the phosphoric
 
-      sea-brilliancy to which we had been accustomed in the tropics. We
+sea-brilliancy to which we had been accustomed in the tropics. We
 
-      observed too, that, although the tempest continued to rage with
+observed too, that, although the tempest continued to rage with
 
-      unabated violence, there was no longer to be discovered the usual
+unabated violence, there was no longer to be discovered the usual
 
-      appearance of surf, or foam, which had hitherto attended us. All
+appearance of surf, or foam, which had hitherto attended us. All
 
-      around were horror, and thick gloom, and a black sweltering
+around were horror, and thick gloom, and a black sweltering
 
-      [[Desert|desert]] of ebony. Superstitious terror crept by degrees into the
+[[Desert|desert]] of ebony. Superstitious terror crept by degrees into the
 
-      spirit of the old Swede, and my own [[Soul|soul]] was wrapped up in silent
+spirit of the old Swede, and my own [[Soul|soul]] was wrapped up in silent
 
-      [[Wonder|wonder]]. We neglected all care of the [[Ship|ship]], as worse than useless,
+[[Wonder|wonder]]. We neglected all care of the [[Ship|ship]], as worse than useless,
 
-      and securing ourselves, as [[Well|well]] as possible, to the stump of the
+and securing ourselves, as [[Well|well]] as possible, to the stump of the
 
-      mizen-mast, looked out bitterly into the world of ocean. We had
+mizen-mast, looked out bitterly into the world of ocean. We had
 
-      no means of calculating [[Time|time]], nor could we form any guess of our
+no means of calculating [[Time|time]], nor could we form any guess of our
 
-      situation. We were, however, [[Well|well]] aware of having made farther to
+situation. We were, however, [[Well|well]] aware of having made farther to
 
-      the southward than any previous navigators, and felt great
+the southward than any previous navigators, and felt great
 
-      amazement at not meeting with the usual impediments of ice. In
+amazement at not meeting with the usual impediments of ice. In
 
-      the meantime every moment threatened to be our last—every
+the meantime every moment threatened to be our last—every
 
-      mountainous billow hurried to overwhelm us. The swell surpassed
+mountainous billow hurried to overwhelm us. The swell surpassed
 
-      anything I had imagined possible, and that we were not instantly
+anything I had imagined possible, and that we were not instantly
 
-      buried is a miracle. My companion spoke of the lightness of our
+buried is a miracle. My companion spoke of the lightness of our
 
-      cargo, and reminded me of the excellent qualities of our [[Ship|ship]];
+cargo, and reminded me of the excellent qualities of our [[Ship|ship]];
 
-      but I could not help feeling the utter hopelessness of [[Hope|hope]]
+but I could not help feeling the utter hopelessness of [[Hope|hope]]
 
-      itself, and prepared myself gloomily for that [[Death|death]] which I
+itself, and prepared myself gloomily for that [[Death|death]] which I
 
-      thought nothing could defer beyond an hour, as, with every knot
+thought nothing could defer beyond an hour, as, with every knot
 
-      of way the [[Ship|ship]] made, the swelling of the black stupendous seas
+of way the [[Ship|ship]] made, the swelling of the black stupendous seas
 
-      became more dismally appalling. At times we gasped for breath at
+became more dismally appalling. At times we gasped for breath at
 
-      an elevation beyond the albatross—at times became dizzy with the
+an elevation beyond the albatross—at times became dizzy with the
 
-      velocity of our descent into some watery hell, where the air grew
+velocity of our descent into some watery hell, where the air grew
 
-      stagnant, and no sound disturbed the slumbers of the kraken.
+stagnant, and no sound disturbed the slumbers of the kraken.
 
 
 
-      We were at the [[Bottom|bottom]] of one of these abysses, when a quick
+We were at the [[Bottom|bottom]] of one of these abysses, when a quick
 
-      scream from my companion broke fearfully upon the [[Night|night]]. “See!
+scream from my companion broke fearfully upon the [[Night|night]]. “See!
 
-      see!” cried he, shrieking in my ears, “Almighty God! see! see!”
+see!” cried he, shrieking in my ears, “Almighty God! see! see!”
 
-      As he spoke, I became aware of a dull, sullen glare of red light
+As he spoke, I became aware of a dull, sullen glare of red light
 
-      which streamed down the sides of the vast chasm where we lay, and
+which streamed down the sides of the vast chasm where we lay, and
 
-      threw a fitful brilliancy upon our deck. Casting my eyes upwards,
+threw a fitful brilliancy upon our deck. Casting my eyes upwards,
 
-      I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
+I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
 
-      terrific height directly above us, and upon the very verge of the
+terrific height directly above us, and upon the very verge of the
 
-      precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
+precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
 
-      thousand tons. Although upreared upon the summit of a wave more
+thousand tons. Although upreared upon the summit of a wave more
 
-      than a hundred times her own altitude, her apparent size exceeded
+than a hundred times her own altitude, her apparent size exceeded
 
-      that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
+that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
 
-      huge hull was of a deep dingy black, unrelieved by any of the
+huge hull was of a deep dingy black, unrelieved by any of the
 
-      customary carvings of a [[Ship|ship]]. A single row of brass cannon
+customary carvings of a [[Ship|ship]]. A single row of brass cannon
 
-      protruded from her open ports, and dashed from their polished
+protruded from her open ports, and dashed from their polished
 
-      surfaces the fires of innumerable battle-lanterns, which swung to
+surfaces the fires of innumerable battle-lanterns, which swung to
 
-      and fro about her rigging. But what mainly inspired us with
+and fro about her rigging. But what mainly inspired us with
 
-      horror and astonishment, was that she bore up under a press of
+horror and astonishment, was that she bore up under a press of
 
-      sail in the very teeth of that [[Supernatural|supernatural]] sea, and of that
+sail in the very teeth of that [[Supernatural|supernatural]] sea, and of that
 
-      ungovernable hurricane. When we first discovered her, her bows
+ungovernable hurricane. When we first discovered her, her bows
 
-      were [[Alone|alone]] to be seen, as she [[Rose|rose]] slowly from the dim and
+were [[Alone|alone]] to be seen, as she [[Rose|rose]] slowly from the dim and
 
-      horrible gulf beyond her. For a moment of intense terror she
+horrible gulf beyond her. For a moment of intense terror she
 
-      paused upon the giddy pinnacle, as if in contemplation of her own
+paused upon the giddy pinnacle, as if in contemplation of her own
 
-      sublimity, then trembled and tottered, and—came down.
+sublimity, then trembled and tottered, and—came down.
 
 
 
-      At this instant, I know not what sudden [[Self|self]]-possession came over
+At this instant, I know not what sudden [[Self|self]]-possession came over
 
-      my spirit. Staggering as far aft as I could, I awaited fearlessly
+my spirit. Staggering as far aft as I could, I awaited fearlessly
 
-      the ruin that was to overwhelm. Our own vessel was at length
+the ruin that was to overwhelm. Our own vessel was at length
 
-      ceasing from her struggles, and sinking with her head to the sea.
+ceasing from her struggles, and sinking with her head to the sea.
 
-      The shock of the descending mass struck her, consequently, in
+The shock of the descending mass struck her, consequently, in
 
-      that portion of her frame which was already under [[Water|water]], and the
+that portion of her frame which was already under [[Water|water]], and the
 
-      inevitable result was to hurl me, with irresistible violence,
+inevitable result was to hurl me, with irresistible violence,
 
-      upon the rigging of the stranger.
+upon the rigging of the stranger.
 
 
 
-      As I fell, the [[Ship|ship]] hove in stays, and went about; and to the
+As I fell, the [[Ship|ship]] hove in stays, and went about; and to the
 
-      confusion ensuing I attributed my escape from the notice of the
+confusion ensuing I attributed my escape from the notice of the
 
-      crew. With little difficulty I made my way unperceived to the
+crew. With little difficulty I made my way unperceived to the
 
-      main hatchway, which was partially open, and soon found an
+main hatchway, which was partially open, and soon found an
 
-      opportunity of secreting myself in the hold. Why I did so I can
+opportunity of secreting myself in the hold. Why I did so I can
 
-      hardly tell. An indefinite sense of awe, which at first sight of
+hardly tell. An indefinite sense of awe, which at first sight of
 
-      the navigators of the [[Ship|ship]] had taken hold of my mind, was perhaps
+the navigators of the [[Ship|ship]] had taken hold of my mind, was perhaps
 
-      the principle of my concealment. I was unwilling to trust myself
+the principle of my concealment. I was unwilling to trust myself
 
-      with a race of people who had offered, to the cursory glance I
+with a race of people who had offered, to the cursory glance I
 
-      had taken, so many points of vague novelty, [[Doubt|doubt]], and
+had taken, so many points of vague novelty, [[Doubt|doubt]], and
 
-      apprehension. I therefore thought proper to contrive a
+apprehension. I therefore thought proper to contrive a
 
-      hiding-place in the hold. This I did by removing a small portion
+hiding-place in the hold. This I did by removing a small portion
 
-      of the shifting-boards, in such a manner as to afford me a
+of the shifting-boards, in such a manner as to afford me a
 
-      convenient retreat between the huge timbers of the [[Ship|ship]].
+convenient retreat between the huge timbers of the [[Ship|ship]].
 
 
 
-      I had scarcely completed my work, when a footstep in the hold
+I had scarcely completed my work, when a footstep in the hold
 
-      forced me to make use of it. A man passed by my place of
+forced me to make use of it. A man passed by my place of
 
-      concealment with a feeble and unsteady gait. I could not see his
+concealment with a feeble and unsteady gait. I could not see his
 
-      face, but had an opportunity of observing his general appearance.
+face, but had an opportunity of observing his general appearance.
 
-      There was about it an evidence of great age and infirmity. His
+There was about it an evidence of great age and infirmity. His
 
-      knees tottered beneath a load of years, and his entire frame
+knees tottered beneath a load of years, and his entire frame
 
-      quivered under the burthen. He muttered to himself, in a low
+quivered under the burthen. He muttered to himself, in a low
 
-      broken tone, some words of a language which I could not
+broken tone, some words of a language which I could not
 
-      understand, and groped in a corner among a pile of
+understand, and groped in a corner among a pile of
 
-      singular-looking instruments, and decayed charts of navigation.
+singular-looking instruments, and decayed charts of navigation.
 
-      His manner was a wild mixture of the peevishness of second
+His manner was a wild mixture of the peevishness of second
 
-      [[Childhood|childhood]], and the solemn dignity of a God. He at length went on
+[[Childhood|childhood]], and the solemn dignity of a God. He at length went on
 
-      deck, and I saw him no more.
+deck, and I saw him no more.
 
 
 
 
 
-      A feeling, for which I have no name, has taken possession of my
+A feeling, for which I have no name, has taken possession of my
 
-      [[Soul|soul]] —a sensation which will admit of no analysis, to which the
+[[Soul|soul]] —a sensation which will admit of no analysis, to which the
 
-      lessons of bygone times are inadequate, and for which I [[Fear|fear]]
+lessons of bygone times are inadequate, and for which I [[Fear|fear]]
 
-      futurity itself will offer me no key. To a mind constituted like
+futurity itself will offer me no key. To a mind constituted like
 
-      my own, the latter consideration is an evil. I shall never—I know
+my own, the latter consideration is an evil. I shall never—I know
 
-      that I shall never—be satisfied with regard to the [[Nature|nature]] of my
+that I shall never—be satisfied with regard to the [[Nature|nature]] of my
 
-      conceptions. Yet it is not wonderful that these conceptions are
+conceptions. Yet it is not wonderful that these conceptions are
 
-      indefinite, since they have their origin in sources so utterly
+indefinite, since they have their origin in sources so utterly
 
-      [[Novel|novel]]. A new sense—a new entity is added to my [[Soul|soul]].
+[[Novel|novel]]. A new sense—a new entity is added to my [[Soul|soul]].
 
 
 
 
 
-      It is long since I first trod the deck of this terrible [[Ship|ship]], and
+It is long since I first trod the deck of this terrible [[Ship|ship]], and
 
-      the rays of my destiny are, I think, gathering to a focus.
+the rays of my destiny are, I think, gathering to a focus.
 
-      Incomprehensible men! Wrapped up in meditations of a kind which I
+Incomprehensible men! Wrapped up in meditations of a kind which I
 
-      cannot divine, they pass me by unnoticed. Concealment is utter
+cannot divine, they pass me by unnoticed. Concealment is utter
 
-      folly on my part, for the people will not see. It was but just
+folly on my part, for the people will not see. It was but just
 
-      now that I passed directly before the eyes of the mate; it was no
+now that I passed directly before the eyes of the mate; it was no
 
-      long while ago that I ventured into the captain’s own private
+long while ago that I ventured into the captain’s own private
 
-      cabin, and took thence the materials with which I write, and have
+cabin, and took thence the materials with which I write, and have
 
-      written. I shall from [[Time|time]] to [[Time|time]] continue this journal. It is
+written. I shall from [[Time|time]] to [[Time|time]] continue this journal. It is
 
-      true that I may not find an opportunity of transmitting it to the
+true that I may not find an opportunity of transmitting it to the
 
-      world, but I will not fall to make the endeavour. At the last
+world, but I will not fall to make the endeavour. At the last
 
-      moment I will enclose the MS. in a bottle, and cast it within the
+moment I will enclose the MS. in a bottle, and cast it within the
 
-      sea.
+sea.
 
 
 
 
 
-      An incident has occurred which has given me new room for
+An incident has occurred which has given me new room for
 
-      meditation. Are such things the operation of ungoverned chance? I
+meditation. Are such things the operation of ungoverned chance? I
 
-      had ventured upon deck and thrown myself down, without attracting
+had ventured upon deck and thrown myself down, without attracting
 
-      any notice, among a pile of ratlin-stuff and old sails in the
+any notice, among a pile of ratlin-stuff and old sails in the
 
-      [[Bottom|bottom]] of the yawl. While musing upon the singularity of my fate,
+[[Bottom|bottom]] of the yawl. While musing upon the singularity of my fate,
 
-      I unwittingly daubed with a tar-brush the edges of a
+I unwittingly daubed with a tar-brush the edges of a
 
-      neatly-folded studding-sail which lay near me on a barrel. The
+neatly-folded studding-sail which lay near me on a barrel. The
 
-      studding-sail is now bent upon the [[Ship|ship]], and the thoughtless
+studding-sail is now bent upon the [[Ship|ship]], and the thoughtless
 
-      touches of the brush are spread out into the word DISCOVERY.
+touches of the brush are spread out into the word DISCOVERY.
 
 
 
-      I have made many observations lately upon the structure of the
+I have made many observations lately upon the structure of the
 
-      vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
+vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
 
-      Her rigging, build, and general equipment, all negative a
+Her rigging, build, and general equipment, all negative a
 
-      supposition of this kind. What she is not, I can easily
+supposition of this kind. What she is not, I can easily
 
-      perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
+perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
 
-      how it is, but in scrutinizing her strange model and singular
+how it is, but in scrutinizing her strange model and singular
 
-      cast of spars, her huge size and overgrown suits of canvas, her
+cast of spars, her huge size and overgrown suits of canvas, her
 
-      severely simple bow and antiquated stern, there will occasionally
+severely simple bow and antiquated stern, there will occasionally
 
-      flash across my mind a sensation of familiar things, and there is
+flash across my mind a sensation of familiar things, and there is
 
-      always mixed up with such indistinct shadows of recollection, an
+always mixed up with such indistinct shadows of recollection, an
 
-      unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
+unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
 
 
 
 
 
-      I have been looking at the timbers of the [[Ship|ship]]. She is built of a
+I have been looking at the timbers of the [[Ship|ship]]. She is built of a
 
-      material to which I am a stranger. There is a peculiar character
+material to which I am a stranger. There is a peculiar character
 
-      about the wood which strikes me as rendering it unfit for the
+about the wood which strikes me as rendering it unfit for the
 
-      purpose to which it has been applied. I mean its extreme
+purpose to which it has been applied. I mean its extreme
 
-      porousness, considered independently by the worm-eaten condition
+porousness, considered independently by the worm-eaten condition
 
-      which is a consequence of navigation in these seas, and apart
+which is a consequence of navigation in these seas, and apart
 
-      from the rottenness attendant upon age. It will appear perhaps an
+from the rottenness attendant upon age. It will appear perhaps an
 
-      observation somewhat over-curious, but this wood would have every
+observation somewhat over-curious, but this wood would have every
 
-      characteristic of Spanish oak, if Spanish oak were distended by
+characteristic of Spanish oak, if Spanish oak were distended by
 
-      any unnatural means.
+any unnatural means.
 
 
 
-      In reading the above sentence a curious apothegm of an old
+In reading the above sentence a curious apothegm of an old
 
-      weather-beaten Dutch navigator comes full upon my recollection.
+weather-beaten Dutch navigator comes full upon my recollection.
 
-      “It is as sure,” he was wont to say, when any [[Doubt|doubt]] was
+“It is as sure,” he was wont to say, when any [[Doubt|doubt]] was
 
-      entertained of his veracity, “as sure as there is a sea where the
+entertained of his veracity, “as sure as there is a sea where the
 
-      [[Ship|ship]] itself will grow in bulk like the living [[Body|body]] of the
+[[Ship|ship]] itself will grow in bulk like the living [[Body|body]] of the
 
-      seaman.”
+seaman.”
 
 
 
 
 
-      About an hour ago, I made bold to thrust myself among a group of
+About an hour ago, I made bold to thrust myself among a group of
 
-      the crew. They paid me no manner of attention, and, although I
+the crew. They paid me no manner of attention, and, although I
 
-      stood in the very midst of them all, seemed utterly unconscious
+stood in the very midst of them all, seemed utterly unconscious
 
-      of my presence. Like the one I had at first seen in the hold,
+of my presence. Like the one I had at first seen in the hold,
 
-      they all bore about them the marks of a hoary old age. Their
+they all bore about them the marks of a hoary old age. Their
 
-      knees trembled with infirmity; their shoulders were bent [[Double|double]]
+knees trembled with infirmity; their shoulders were bent [[Double|double]]
 
-      with decrepitude; their shrivelled skins rattled in the [[Wind|wind]];
+with decrepitude; their shrivelled skins rattled in the [[Wind|wind]];
 
-      their voices were low, tremulous and broken; their eyes glistened
+their voices were low, tremulous and broken; their eyes glistened
 
-      with the rheum of years; and their gray hairs streamed terribly
+with the rheum of years; and their gray hairs streamed terribly
 
-      in the tempest. Around them, on every part of the deck, lay
+in the tempest. Around them, on every part of the deck, lay
 
-      scattered mathematical instruments of the most quaint and
+scattered mathematical instruments of the most quaint and
 
-      obsolete construction.
+obsolete construction.
 
 
 
 
 
-      I mentioned some [[Time|time]] ago the bending of a studding-sail. From
+I mentioned some [[Time|time]] ago the bending of a studding-sail. From
 
-      that period the [[Ship|ship]], being thrown dead off the [[Wind|wind]], has
+that period the [[Ship|ship]], being thrown dead off the [[Wind|wind]], has
 
-      continued her terrific course due south, with every rag of canvas
+continued her terrific course due south, with every rag of canvas
 
-      packed upon her, from her trucks to her lower studding-sail
+packed upon her, from her trucks to her lower studding-sail
 
-      booms, and [[rolling]] every moment her top-gallant yard-arms into
+booms, and [[rolling]] every moment her top-gallant yard-arms into
 
-      the most appalling hell of [[Water|water]] which it can enter into the mind
+the most appalling hell of [[Water|water]] which it can enter into the mind
 
-      of a man to imagine. I have just left the deck, where I find it
+of a man to imagine. I have just left the deck, where I find it
 
-      impossible to maintain a footing, although the crew seem to
+impossible to maintain a footing, although the crew seem to
 
-      experience little inconvenience. It appears to me a miracle of
+experience little inconvenience. It appears to me a miracle of
 
-      miracles that our enormous bulk is not swallowed up at once and
+miracles that our enormous bulk is not swallowed up at once and
 
-      forever. We are surely doomed to hover continually upon the brink
+forever. We are surely doomed to hover continually upon the brink
 
-      of [[Eternity|eternity]], without taking a final plunge into the abyss. From
+of [[Eternity|eternity]], without taking a final plunge into the abyss. From
 
-      billows a thousand times more stupendous than any I have ever
+billows a thousand times more stupendous than any I have ever
 
-      seen, we glide away with the facility of the arrowy sea-gull; and
+seen, we glide away with the facility of the arrowy sea-gull; and
 
-      the colossal waters rear their heads above us like demons of the
+the colossal waters rear their heads above us like demons of the
 
-      deep, but like demons confined to simple threats and forbidden to
+deep, but like demons confined to simple threats and forbidden to
 
-      destroy. I am led to attribute these frequent escapes to the only
+destroy. I am led to attribute these frequent escapes to the only
 
-      natural cause which can account for such effect. I must suppose
+natural cause which can account for such effect. I must suppose
 
-      the [[Ship|ship]] to be within the influence of some strong current, or
+the [[Ship|ship]] to be within the influence of some strong current, or
 
-      impetuous under-tow.
+impetuous under-tow.
 
 
 
 
 
-      I have seen the captain face to face, and in his own cabin—but,
+I have seen the captain face to face, and in his own cabin—but,
 
-      as I expected, he paid me no attention. Although in his
+as I expected, he paid me no attention. Although in his
 
-      appearance there is, to a casual observer, nothing which might
+appearance there is, to a casual observer, nothing which might
 
-      bespeak him more or less than man, still, a feeling of
+bespeak him more or less than man, still, a feeling of
 
-      irrepressible reverence and awe mingled with the sensation of
+irrepressible reverence and awe mingled with the sensation of
 
-      [[Wonder|wonder]] with which I regarded him. In stature he is nearly my own
+[[Wonder|wonder]] with which I regarded him. In stature he is nearly my own
 
-      height; that is, about five feet eight inches. He is of a
+height; that is, about five feet eight inches. He is of a
 
-      [[Well|well]]-knit and compact frame of [[Body|body]], neither robust nor
+[[Well|well]]-knit and compact frame of [[Body|body]], neither robust nor
 
-      remarkably otherwise. But it is the singularity of the expression
+remarkably otherwise. But it is the singularity of the expression
 
-      which reigns upon the face—it is the intense, the wonderful, the
+which reigns upon the face—it is the intense, the wonderful, the
 
-      thrilling evidence of old age, so utter, so extreme, which
+thrilling evidence of old age, so utter, so extreme, which
 
-      excites within my spirit a sense—a sentiment ineffable. His
+excites within my spirit a sense—a sentiment ineffable. His
 
-      forehead, although little wrinkled, seems to bear upon it the
+forehead, although little wrinkled, seems to bear upon it the
 
-      stamp of a myriad of years. His gray hairs are records of the
+stamp of a myriad of years. His gray hairs are records of the
 
-      past, and his grayer eyes are sibyls of the future. The cabin
+past, and his grayer eyes are sibyls of the future. The cabin
 
-      floor was thickly strewn with strange, iron-clasped folios, and
+floor was thickly strewn with strange, iron-clasped folios, and
 
-      mouldering instruments of science, and obsolete long-forgotten
+mouldering instruments of science, and obsolete long-forgotten
 
-      charts. His head was bowed down upon his hands, and he pored,
+charts. His head was bowed down upon his hands, and he pored,
 
-      with a fiery unquiet eye, over a paper which I took to be a
+with a fiery unquiet eye, over a paper which I took to be a
 
-      commission, and which, at all events, bore the signature of a
+commission, and which, at all events, bore the signature of a
 
-      monarch. He muttered to himself, as did the first seaman whom I
+monarch. He muttered to himself, as did the first seaman whom I
 
-      saw in the hold, some low peevish syllables of a foreign tongue,
+saw in the hold, some low peevish syllables of a foreign tongue,
 
-      and although the speaker was close at my elbow, his voice seemed
+and although the speaker was close at my elbow, his voice seemed
 
-      to reach my ears from the distance of a mile.
+to reach my ears from the distance of a mile.
 
 
 
 
 
-      The [[Ship|ship]] and all in it are imbued with the spirit of Eld. The
+The [[Ship|ship]] and all in it are imbued with the spirit of Eld. The
 
-      crew glide to and fro like the [[Ghosts|ghosts]] of buried centuries; their
+crew glide to and fro like the [[Ghosts|ghosts]] of buried centuries; their
 
-      eyes have an eager and uneasy meaning; and when their fingers
+eyes have an eager and uneasy meaning; and when their fingers
 
-      fall athwart my path in the wild glare of the battle-lanterns, I
+fall athwart my path in the wild glare of the battle-lanterns, I
 
-      feel as I have never felt before, although I have been all my
+feel as I have never felt before, although I have been all my
 
-      life a dealer in antiquities, and have imbibed the shadows of
+life a dealer in antiquities, and have imbibed the shadows of
 
-      fallen columns at Balbec, and Tadmor, and Persepolis, until my
+fallen columns at Balbec, and Tadmor, and Persepolis, until my
 
-      very [[Soul|soul]] has become a ruin.
+very [[Soul|soul]] has become a ruin.
 
 
 
 
 
-      When I look around me I feel ashamed of my former apprehensions.
+When I look around me I feel ashamed of my former apprehensions.
 
-      If I trembled at the blast which has hitherto attended us, shall
+If I trembled at the blast which has hitherto attended us, shall
 
-      I not stand aghast at a warring of [[Wind|wind]] and ocean, to convey any
+I not stand aghast at a warring of [[Wind|wind]] and ocean, to convey any
 
-      idea of which the words tornado and simoom are trivial and
+idea of which the words tornado and simoom are trivial and
 
-      ineffective? All in the immediate vicinity of the [[Ship|ship]] is the
+ineffective? All in the immediate vicinity of the [[Ship|ship]] is the
 
-      blackness of eternal [[Night|night]], and a chaos of foamless [[Water|water]]; but,
+blackness of eternal [[Night|night]], and a chaos of foamless [[Water|water]]; but,
 
-      about a league on either side of us, may be seen, indistinctly
+about a league on either side of us, may be seen, indistinctly
 
-      and at intervals, stupendous ramparts of ice, towering away into
+and at intervals, stupendous ramparts of ice, towering away into
 
-      the desolate sky, and looking like the walls of the universe.
+the desolate sky, and looking like the walls of the universe.
 
 
 
 
 
-      As I imagined, the [[Ship|ship]] proves to be in a current—if that
+As I imagined, the [[Ship|ship]] proves to be in a current—if that
 
-      appellation can properly be given to a tide which, howling and
+appellation can properly be given to a tide which, howling and
 
-      shrieking by the white ice, thunders on to the southward with a
+shrieking by the white ice, thunders on to the southward with a
 
-      velocity like the headlong dashing of a cataract.
+velocity like the headlong dashing of a cataract.
 
 
 
 
 
-      To conceive the horror of my sensations is, I presume, utterly
+To conceive the horror of my sensations is, I presume, utterly
 
-      impossible; yet a curiosity to penetrate the mysteries of these
+impossible; yet a curiosity to penetrate the mysteries of these
 
-      awful regions, predominates even over my [[Despair|despair]], and will
+awful regions, predominates even over my [[Despair|despair]], and will
 
-      reconcile me to the most hideous aspect of [[Death|death]]. It is evident
+reconcile me to the most hideous aspect of [[Death|death]]. It is evident
 
-      that we are hurrying onwards to some exciting knowledge—some
+that we are hurrying onwards to some exciting knowledge—some
 
-      never-to-be-imparted secret, whose attainment is destruction.
+never-to-be-imparted secret, whose attainment is destruction.
 
-      Perhaps this current leads us to the southern pole itself. It
+Perhaps this current leads us to the southern pole itself. It
 
-      must be confessed that a supposition apparently so wild has every
+must be confessed that a supposition apparently so wild has every
 
-      probability in its favor.
+probability in its favor.
 
 
 
 
 
-      The crew pace the deck with unquiet and tremulous step; but there
+The crew pace the deck with unquiet and tremulous step; but there
 
-      is upon their countenances an expression more of the eagerness of
+is upon their countenances an expression more of the eagerness of
 
-      [[Hope|hope]] than of the apathy of [[Despair|despair]].
+[[Hope|hope]] than of the apathy of [[Despair|despair]].
 
 
 
-      In the meantime the [[Wind|wind]] is still in our poop, and, as we carry a
+In the meantime the [[Wind|wind]] is still in our poop, and, as we carry a
 
-      crowd of canvas, the [[Ship|ship]] is at times lifted bodily from out the
+crowd of canvas, the [[Ship|ship]] is at times lifted bodily from out the
 
-      sea! Oh, horror upon horror!—the ice opens suddenly to the right,
+sea! Oh, horror upon horror!—the ice opens suddenly to the right,
 
-      and to the left, and we are whirling dizzily, in immense
+and to the left, and we are whirling dizzily, in immense
 
-      concentric circles, round and round the borders of a gigantic
+concentric circles, round and round the borders of a gigantic
 
-      amphitheatre, the summit of whose walls is lost in the darkness
+amphitheatre, the summit of whose walls is lost in the darkness
 
-      and the distance. But little [[Time|time]] will be left me to ponder upon
+and the distance. But little [[Time|time]] will be left me to ponder upon
 
-      my destiny! The circles rapidly grow small—we are plunging madly
+my destiny! The circles rapidly grow small—we are plunging madly
 
-      within the grasp of the whirlpool—and amid a roaring, and
+within the grasp of the whirlpool—and amid a roaring, and
 
-      bellowing, and thundering of ocean and of tempest, the [[Ship|ship]] is
+bellowing, and thundering of ocean and of tempest, the [[Ship|ship]] is
 
-      quivering—oh God! and—going down.
+quivering—oh God! and—going down.
 
 
 
-      NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
+NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
 
-      1831, and it was not until many years afterwards that I became
+1831, and it was not until many years afterwards that I became
 
-      acquainted with the maps of Mercator, in which the ocean is
+acquainted with the maps of Mercator, in which the ocean is
 
-      represented as rushing, by four mouths, into the (northern) Polar
+represented as rushing, by four mouths, into the (northern) Polar
 
-      Gulf, to be absorbed into the bowels of the earth; the Pole
+Gulf, to be absorbed into the bowels of the earth; the Pole
 
-      itself being represented by a black rock, towering to a
+itself being represented by a black rock, towering to a
 
-      prodigious height.
+prodigious height.
 
 
 
@@ -888,185 +888,185 @@ N’a plus rien a dissimuler.
 
 
 
-      Of my country and of my family I have little to say. Ill usage
+Of my country and of my family I have little to say. Ill usage
 
-      and length of years have driven me from the one, and estranged me
+and length of years have driven me from the one, and estranged me
 
-      from the other. Hereditary wealth afforded me an [[Education|education]] of no
+from the other. Hereditary wealth afforded me an [[Education|education]] of no
 
-      common order, and a contemplative turn of mind enabled me to
+common order, and a contemplative turn of mind enabled me to
 
-      methodize the stores which early study very diligently garnered
+methodize the stores which early study very diligently garnered
 
-      up.—Beyond all things, the study of the German moralists gave me
+up.—Beyond all things, the study of the German moralists gave me
 
-      great delight; not from any ill-advised admiration of their
+great delight; not from any ill-advised admiration of their
 
-      eloquent [[Madness|madness]], but from the ease with which my habits of rigid
+eloquent [[Madness|madness]], but from the ease with which my habits of rigid
 
-      thought enabled me to detect their falsities. I have often been
+thought enabled me to detect their falsities. I have often been
 
-      reproached with the aridity of my genius; a deficiency of
+reproached with the aridity of my genius; a deficiency of
 
-      [[Imagination|imagination]] has been imputed to me as a crime; and the Pyrrhonism
+[[Imagination|imagination]] has been imputed to me as a crime; and the Pyrrhonism
 
-      of my opinions has at all times rendered me notorious. Indeed, a
+of my opinions has at all times rendered me notorious. Indeed, a
 
-      strong relish for physical [[philosophy]] has, I [[Fear|fear]], tinctured my
+strong relish for physical [[philosophy]] has, I [[Fear|fear]], tinctured my
 
-      mind with a very common error of this age—I mean the habit of
+mind with a very common error of this age—I mean the habit of
 
-      referring occurrences, even the least susceptible of such
+referring occurrences, even the least susceptible of such
 
-      reference, to the principles of that science. Upon the whole, no
+reference, to the principles of that science. Upon the whole, no
 
-      person could be less liable than myself to be led away from the
+person could be less liable than myself to be led away from the
 
-      severe precincts of [[Truth|truth]] by the ignes fatui of superstition. I
+severe precincts of [[Truth|truth]] by the ignes fatui of superstition. I
 
-      have thought proper to premise thus much, lest the incredible
+have thought proper to premise thus much, lest the incredible
 
-      tale I have to tell should be considered rather the raving of a
+tale I have to tell should be considered rather the raving of a
 
-      crude [[Imagination|imagination]], than the positive experience of a mind to
+crude [[Imagination|imagination]], than the positive experience of a mind to
 
-      which the reveries of fancy have been a dead letter and a
+which the reveries of fancy have been a dead letter and a
 
-      nullity.
+nullity.
 
 
 
-      After many years spent in foreign travel, I sailed in the year
+After many years spent in foreign travel, I sailed in the year
 
-      18— , from the port of Batavia, in the rich and populous island
+18— , from the port of Batavia, in the rich and populous island
 
-      of Java, on a voyage to the Archipelago of the Sunda islands. I
+of Java, on a voyage to the Archipelago of the Sunda islands. I
 
-      went as passenger—having no other inducement than a kind of
+went as passenger—having no other inducement than a kind of
 
-      nervous restlessness which haunted me as a fiend.
+nervous restlessness which haunted me as a fiend.
 
 
 
-      Our vessel was a beautiful [[Ship|ship]] of about four hundred tons,
+Our vessel was a beautiful [[Ship|ship]] of about four hundred tons,
 
-      copper-fastened, and built at Bombay of Malabar teak. She was
+copper-fastened, and built at Bombay of Malabar teak. She was
 
-      freighted with cotton-wool and oil, from the Lachadive islands.
+freighted with cotton-wool and oil, from the Lachadive islands.
 
-      We had also on board coir, jaggeree, ghee, cocoa-nuts, and a few
+We had also on board coir, jaggeree, ghee, cocoa-nuts, and a few
 
-      cases of opium. The stowage was clumsily done, and the vessel
+cases of opium. The stowage was clumsily done, and the vessel
 
-      consequently crank.
+consequently crank.
 
 
 
-      We got under way with a mere breath of [[Wind|wind]], and for many days
+We got under way with a mere breath of [[Wind|wind]], and for many days
 
-      stood along the eastern coast of Java, without any other incident
+stood along the eastern coast of Java, without any other incident
 
-      to beguile the monotony of our course than the occasional meeting
+to beguile the monotony of our course than the occasional meeting
 
-      with some of the small grabs of the Archipelago to which we were
+with some of the small grabs of the Archipelago to which we were
 
-      bound.
+bound.
 
 
 
-      One evening, leaning over the taffrail, I observed a very
+One evening, leaning over the taffrail, I observed a very
 
-      singular, isolated cloud, to the N.W. It was remarkable, as [[Well|well]]
+singular, isolated cloud, to the N.W. It was remarkable, as [[Well|well]]
 
-      for its color, as from its being the first we had seen since our
+for its color, as from its being the first we had seen since our
 
-      departure from Batavia. I watched it attentively until sunset,
+departure from Batavia. I watched it attentively until sunset,
 
-      when it spread all at once to the eastward and westward, girting
+when it spread all at once to the eastward and westward, girting
 
-      in the horizon with a narrow strip of vapor, and looking like a
+in the horizon with a narrow strip of vapor, and looking like a
 
-      long line of low beach. My notice was soon afterwards attracted
+long line of low beach. My notice was soon afterwards attracted
 
-      by the dusky-red appearance of the [[Moon|moon]], and the peculiar
+by the dusky-red appearance of the [[Moon|moon]], and the peculiar
 
-      character of the sea. The latter was undergoing a rapid change,
+character of the sea. The latter was undergoing a rapid change,
 
-      and the [[Water|water]] seemed more than usually transparent. Although I
+and the [[Water|water]] seemed more than usually transparent. Although I
 
-      could distinctly see the [[Bottom|bottom]], yet, heaving the lead, I found
+could distinctly see the [[Bottom|bottom]], yet, heaving the lead, I found
 
-      the [[Ship|ship]] in fifteen fathoms. The air now became intolerably hot,
+the [[Ship|ship]] in fifteen fathoms. The air now became intolerably hot,
 
-      and was loaded with spiral exhalations similar to those arising
+and was loaded with spiral exhalations similar to those arising
 
-      from heat iron. As [[Night|night]] came on, every breath of [[Wind|wind]] died away,
+from heat iron. As [[Night|night]] came on, every breath of [[Wind|wind]] died away,
 
-      an more entire calm it is impossible to conceive. The flame of a
+an more entire calm it is impossible to conceive. The flame of a
 
-      candle burned upon the poop without the least perceptible motion,
+candle burned upon the poop without the least perceptible motion,
 
-      and a long hair, held between the finger and thumb, hung without
+and a long hair, held between the finger and thumb, hung without
 
-      the possibility of detecting a vibration. However, as the captain
+the possibility of detecting a vibration. However, as the captain
 
-      said he could perceive no indication of danger, and as we were
+said he could perceive no indication of danger, and as we were
 
-      drifting in bodily to shore, he ordered the sails to be furled,
+drifting in bodily to shore, he ordered the sails to be furled,
 
-      and the anchor let go. No watch was set, and the crew, consisting
+and the anchor let go. No watch was set, and the crew, consisting
 
-      principally of Malays, stretched themselves deliberately upon
+principally of Malays, stretched themselves deliberately upon
 
-      deck. I went below—not without a full presentiment of evil.
+deck. I went below—not without a full presentiment of evil.
 
-      Indeed, every appearance warranted me in apprehending a Simoom. I
+Indeed, every appearance warranted me in apprehending a Simoom. I
 
-      told the captain my fears; but he paid no attention to what I
+told the captain my fears; but he paid no attention to what I
 
-      said, and left me without deigning to give a reply. My
+said, and left me without deigning to give a reply. My
 
-      uneasiness, however, prevented me from sleeping, and about
+uneasiness, however, prevented me from sleeping, and about
 
-      midnight I went upon deck. As I placed my foot upon the upper
+midnight I went upon deck. As I placed my foot upon the upper
 
-      step of the companion-ladder, I was startled by a loud, humming
+step of the companion-ladder, I was startled by a loud, humming
 
-      noise, like that occasioned by the rapid revolution of a
+noise, like that occasioned by the rapid revolution of a
 
-      mill-[[Wheel|wheel]], and before I could ascertain its meaning, I found the
+mill-[[Wheel|wheel]], and before I could ascertain its meaning, I found the
 
-      [[Ship|ship]] quivering to its centre. In the next instant, a wilderness
+[[Ship|ship]] quivering to its centre. In the next instant, a wilderness
 
-      of foam hurled us upon our beam-ends, and, rushing over us fore
+of foam hurled us upon our beam-ends, and, rushing over us fore
 
-      and aft, swept the entire decks from stem to stern.
+and aft, swept the entire decks from stem to stern.
 
 
 
-      The extreme fury of the blast proved, in a great measure, the
+The extreme fury of the blast proved, in a great measure, the
 
-      salvation of the [[Ship|ship]]. Although completely [[Water|water]]-logged, yet, as
+salvation of the [[Ship|ship]]. Although completely [[Water|water]]-logged, yet, as
 
-      her masts had gone by the board, she [[Rose|rose]], after a minute,
+her masts had gone by the board, she [[Rose|rose]], after a minute,
 
-      heavily from the sea, and, staggering awhile beneath the immense
+heavily from the sea, and, staggering awhile beneath the immense
 
-      pressure of the tempest, finally righted.
+pressure of the tempest, finally righted.
 
 
 
-      By what miracle I escaped destruction, it is impossible to say.
+By what miracle I escaped destruction, it is impossible to say.
 
-      Stunned by the shock of the [[Water|water]], I found myself, upon recovery,
+Stunned by the shock of the [[Water|water]], I found myself, upon recovery,
 
-      jammed in between the stern-post and rudder. With great
+jammed in between the stern-post and rudder. With great
 
-      difficulty I gained my feet, and looking dizzily around, was, at
+difficulty I gained my feet, and looking dizzily around, was, at
 
-      first, struck with the idea of our being among breakers; so
+first, struck with the idea of our being among breakers; so
 
-      terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
+terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
 
 
 
@@ -1074,175 +1074,175 @@ N’a plus rien a dissimuler.
 <span class="atom-split" data-atom="part--part_02" data-title="Ms. Found in a Bottle (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      mountainous and foaming ocean within which we were engulfed.
+mountainous and foaming ocean within which we were engulfed.
 
-      After a while, I heard the voice of an old Swede, who had shipped
+After a while, I heard the voice of an old Swede, who had shipped
 
-      with us at the moment of our leaving port. I hallooed to him with
+with us at the moment of our leaving port. I hallooed to him with
 
-      all my strength, and presently he came reeling aft. We soon
+all my strength, and presently he came reeling aft. We soon
 
-      discovered that we were the sole survivors of the accident. All
+discovered that we were the sole survivors of the accident. All
 
-      on deck, with the exception of ourselves, had been swept
+on deck, with the exception of ourselves, had been swept
 
-      overboard;—the captain and mates must have perished as they
+overboard;—the captain and mates must have perished as they
 
-      slept, for the cabins were deluged with [[Water|water]]. Without
+slept, for the cabins were deluged with [[Water|water]]. Without
 
-      assistance, we could expect to do little for the security of the
+assistance, we could expect to do little for the security of the
 
-      [[Ship|ship]], and our exertions were at first paralyzed by the momentary
+[[Ship|ship]], and our exertions were at first paralyzed by the momentary
 
-      expectation of going down. Our cable had, of course, parted like
+expectation of going down. Our cable had, of course, parted like
 
-      pack-thread, at the first breath of the hurricane, or we should
+pack-thread, at the first breath of the hurricane, or we should
 
-      have been instantaneously overwhelmed. We scudded with frightful
+have been instantaneously overwhelmed. We scudded with frightful
 
-      velocity before the sea, and the [[Water|water]] made clear breaches over
+velocity before the sea, and the [[Water|water]] made clear breaches over
 
-      us. The frame-work of our stern was shattered excessively, and,
+us. The frame-work of our stern was shattered excessively, and,
 
-      in almost every respect, we had received considerable injury; but
+in almost every respect, we had received considerable injury; but
 
-      to our extreme joy we found the pumps unchoked, and that we had
+to our extreme joy we found the pumps unchoked, and that we had
 
-      made no great shifting of our ballast. The main fury of the blast
+made no great shifting of our ballast. The main fury of the blast
 
-      had already blown over, and we apprehended little danger from the
+had already blown over, and we apprehended little danger from the
 
-      violence of the [[Wind|wind]]; but we looked forward to its total
+violence of the [[Wind|wind]]; but we looked forward to its total
 
-      cessation with dismay; [[Well|well]] believing, that, in our shattered
+cessation with dismay; [[Well|well]] believing, that, in our shattered
 
-      condition, we should inevitably perish in the tremendous swell
+condition, we should inevitably perish in the tremendous swell
 
-      which would ensue. But this very just apprehension seemed by no
+which would ensue. But this very just apprehension seemed by no
 
-      means likely to be soon verified. For five entire days and
+means likely to be soon verified. For five entire days and
 
-      nights—during which our only subsistence was a small quantity of
+nights—during which our only subsistence was a small quantity of
 
-      jaggeree, procured with great difficulty from the forecastle—the
+jaggeree, procured with great difficulty from the forecastle—the
 
-      hulk flew at a rate defying computation, before rapidly
+hulk flew at a rate defying computation, before rapidly
 
-      succeeding flaws of [[Wind|wind]], which, without equalling the first
+succeeding flaws of [[Wind|wind]], which, without equalling the first
 
-      violence of the Simoom, were still more terrific than any tempest
+violence of the Simoom, were still more terrific than any tempest
 
-      I had before encountered. Our course for the first four days was,
+I had before encountered. Our course for the first four days was,
 
-      with trifling variations, S.E. and by S.; and we must have run
+with trifling variations, S.E. and by S.; and we must have run
 
-      down the coast of New Holland. On the fifth day the cold became
+down the coast of New Holland. On the fifth day the cold became
 
-      extreme, although the [[Wind|wind]] had hauled round a point more to the
+extreme, although the [[Wind|wind]] had hauled round a point more to the
 
-      northward. The sun arose with a sickly yellow lustre, and
+northward. The sun arose with a sickly yellow lustre, and
 
-      clambered a very few degrees above the horizon—emitting no
+clambered a very few degrees above the horizon—emitting no
 
-      decisive light. There were no clouds apparent, yet the [[Wind|wind]] was
+decisive light. There were no clouds apparent, yet the [[Wind|wind]] was
 
-      upon the increase, and blew with a fitful and unsteady fury.
+upon the increase, and blew with a fitful and unsteady fury.
 
-      About [[Noon|noon]], as nearly as we could guess, our attention was again
+About [[Noon|noon]], as nearly as we could guess, our attention was again
 
-      arrested by the appearance of the sun. It gave out no light,
+arrested by the appearance of the sun. It gave out no light,
 
-      properly so called, but a dull and sullen glow without
+properly so called, but a dull and sullen glow without
 
-      reflection, as if all its rays were polarized. Just before
+reflection, as if all its rays were polarized. Just before
 
-      sinking within the turgid sea, its central fires suddenly went
+sinking within the turgid sea, its central fires suddenly went
 
-      out, as if hurriedly extinguished by some unaccountable power. It
+out, as if hurriedly extinguished by some unaccountable power. It
 
-      was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
+was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
 
-      unfathomable ocean.
+unfathomable ocean.
 
 
 
-      We waited in vain for the arrival of the sixth day—that day to me
+We waited in vain for the arrival of the sixth day—that day to me
 
-      has not yet arrived—to the Swede, never did arrive. Thenceforward
+has not yet arrived—to the Swede, never did arrive. Thenceforward
 
-      we were enshrouded in patchy darkness, so that we could not have
+we were enshrouded in patchy darkness, so that we could not have
 
-      seen an object at twenty paces from the [[Ship|ship]]. Eternal [[Night|night]]
+seen an object at twenty paces from the [[Ship|ship]]. Eternal [[Night|night]]
 
-      continued to envelop us, all unrelieved by the phosphoric
+continued to envelop us, all unrelieved by the phosphoric
 
-      sea-brilliancy to which we had been accustomed in the tropics. We
+sea-brilliancy to which we had been accustomed in the tropics. We
 
-      observed too, that, although the tempest continued to rage with
+observed too, that, although the tempest continued to rage with
 
-      unabated violence, there was no longer to be discovered the usual
+unabated violence, there was no longer to be discovered the usual
 
-      appearance of surf, or foam, which had hitherto attended us. All
+appearance of surf, or foam, which had hitherto attended us. All
 
-      around were horror, and thick gloom, and a black sweltering
+around were horror, and thick gloom, and a black sweltering
 
-      [[Desert|desert]] of ebony. Superstitious terror crept by degrees into the
+[[Desert|desert]] of ebony. Superstitious terror crept by degrees into the
 
-      spirit of the old Swede, and my own [[Soul|soul]] was wrapped up in silent
+spirit of the old Swede, and my own [[Soul|soul]] was wrapped up in silent
 
-      [[Wonder|wonder]]. We neglected all care of the [[Ship|ship]], as worse than useless,
+[[Wonder|wonder]]. We neglected all care of the [[Ship|ship]], as worse than useless,
 
-      and securing ourselves, as [[Well|well]] as possible, to the stump of the
+and securing ourselves, as [[Well|well]] as possible, to the stump of the
 
-      mizen-mast, looked out bitterly into the world of ocean. We had
+mizen-mast, looked out bitterly into the world of ocean. We had
 
-      no means of calculating [[Time|time]], nor could we form any guess of our
+no means of calculating [[Time|time]], nor could we form any guess of our
 
-      situation. We were, however, [[Well|well]] aware of having made farther to
+situation. We were, however, [[Well|well]] aware of having made farther to
 
-      the southward than any previous navigators, and felt great
+the southward than any previous navigators, and felt great
 
-      amazement at not meeting with the usual impediments of ice. In
+amazement at not meeting with the usual impediments of ice. In
 
-      the meantime every moment threatened to be our last—every
+the meantime every moment threatened to be our last—every
 
-      mountainous billow hurried to overwhelm us. The swell surpassed
+mountainous billow hurried to overwhelm us. The swell surpassed
 
-      anything I had imagined possible, and that we were not instantly
+anything I had imagined possible, and that we were not instantly
 
-      buried is a miracle. My companion spoke of the lightness of our
+buried is a miracle. My companion spoke of the lightness of our
 
-      cargo, and reminded me of the excellent qualities of our [[Ship|ship]];
+cargo, and reminded me of the excellent qualities of our [[Ship|ship]];
 
-      but I could not help feeling the utter hopelessness of [[Hope|hope]]
+but I could not help feeling the utter hopelessness of [[Hope|hope]]
 
-      itself, and prepared myself gloomily for that [[Death|death]] which I
+itself, and prepared myself gloomily for that [[Death|death]] which I
 
-      thought nothing could defer beyond an hour, as, with every knot
+thought nothing could defer beyond an hour, as, with every knot
 
-      of way the [[Ship|ship]] made, the swelling of the black stupendous seas
+of way the [[Ship|ship]] made, the swelling of the black stupendous seas
 
-      became more dismally appalling. At times we gasped for breath at
+became more dismally appalling. At times we gasped for breath at
 
-      an elevation beyond the albatross—at times became dizzy with the
+an elevation beyond the albatross—at times became dizzy with the
 
-      velocity of our descent into some watery hell, where the air grew
+velocity of our descent into some watery hell, where the air grew
 
-      stagnant, and no sound disturbed the slumbers of the kraken.
+stagnant, and no sound disturbed the slumbers of the kraken.
 
 
 
-      We were at the [[Bottom|bottom]] of one of these abysses, when a quick
+We were at the [[Bottom|bottom]] of one of these abysses, when a quick
 
-      scream from my companion broke fearfully upon the [[Night|night]]. “See!
+scream from my companion broke fearfully upon the [[Night|night]]. “See!
 
-      see!” cried he, shrieking in my ears, “Almighty God! see! see!”
+see!” cried he, shrieking in my ears, “Almighty God! see! see!”
 
-      As he spoke, I became aware of a dull, sullen glare of red light
+As he spoke, I became aware of a dull, sullen glare of red light
 
-      which streamed down the sides of the vast chasm where we lay, and
+which streamed down the sides of the vast chasm where we lay, and
 
-      threw a fitful brilliancy upon our deck. Casting my eyes upwards,
+threw a fitful brilliancy upon our deck. Casting my eyes upwards,
 
 
 
@@ -1250,195 +1250,195 @@ N’a plus rien a dissimuler.
 <span class="atom-split" data-atom="part--part_03" data-title="Ms. Found in a Bottle (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
+I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
 
-      terrific height directly above us, and upon the very verge of the
+terrific height directly above us, and upon the very verge of the
 
-      precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
+precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
 
-      thousand tons. Although upreared upon the summit of a wave more
+thousand tons. Although upreared upon the summit of a wave more
 
-      than a hundred times her own altitude, her apparent size exceeded
+than a hundred times her own altitude, her apparent size exceeded
 
-      that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
+that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
 
-      huge hull was of a deep dingy black, unrelieved by any of the
+huge hull was of a deep dingy black, unrelieved by any of the
 
-      customary carvings of a [[Ship|ship]]. A single row of brass cannon
+customary carvings of a [[Ship|ship]]. A single row of brass cannon
 
-      protruded from her open ports, and dashed from their polished
+protruded from her open ports, and dashed from their polished
 
-      surfaces the fires of innumerable battle-lanterns, which swung to
+surfaces the fires of innumerable battle-lanterns, which swung to
 
-      and fro about her rigging. But what mainly inspired us with
+and fro about her rigging. But what mainly inspired us with
 
-      horror and astonishment, was that she bore up under a press of
+horror and astonishment, was that she bore up under a press of
 
-      sail in the very teeth of that [[Supernatural|supernatural]] sea, and of that
+sail in the very teeth of that [[Supernatural|supernatural]] sea, and of that
 
-      ungovernable hurricane. When we first discovered her, her bows
+ungovernable hurricane. When we first discovered her, her bows
 
-      were [[Alone|alone]] to be seen, as she [[Rose|rose]] slowly from the dim and
+were [[Alone|alone]] to be seen, as she [[Rose|rose]] slowly from the dim and
 
-      horrible gulf beyond her. For a moment of intense terror she
+horrible gulf beyond her. For a moment of intense terror she
 
-      paused upon the giddy pinnacle, as if in contemplation of her own
+paused upon the giddy pinnacle, as if in contemplation of her own
 
-      sublimity, then trembled and tottered, and—came down.
+sublimity, then trembled and tottered, and—came down.
 
 
 
-      At this instant, I know not what sudden [[Self|self]]-possession came over
+At this instant, I know not what sudden [[Self|self]]-possession came over
 
-      my spirit. Staggering as far aft as I could, I awaited fearlessly
+my spirit. Staggering as far aft as I could, I awaited fearlessly
 
-      the ruin that was to overwhelm. Our own vessel was at length
+the ruin that was to overwhelm. Our own vessel was at length
 
-      ceasing from her struggles, and sinking with her head to the sea.
+ceasing from her struggles, and sinking with her head to the sea.
 
-      The shock of the descending mass struck her, consequently, in
+The shock of the descending mass struck her, consequently, in
 
-      that portion of her frame which was already under [[Water|water]], and the
+that portion of her frame which was already under [[Water|water]], and the
 
-      inevitable result was to hurl me, with irresistible violence,
+inevitable result was to hurl me, with irresistible violence,
 
-      upon the rigging of the stranger.
+upon the rigging of the stranger.
 
 
 
-      As I fell, the [[Ship|ship]] hove in stays, and went about; and to the
+As I fell, the [[Ship|ship]] hove in stays, and went about; and to the
 
-      confusion ensuing I attributed my escape from the notice of the
+confusion ensuing I attributed my escape from the notice of the
 
-      crew. With little difficulty I made my way unperceived to the
+crew. With little difficulty I made my way unperceived to the
 
-      main hatchway, which was partially open, and soon found an
+main hatchway, which was partially open, and soon found an
 
-      opportunity of secreting myself in the hold. Why I did so I can
+opportunity of secreting myself in the hold. Why I did so I can
 
-      hardly tell. An indefinite sense of awe, which at first sight of
+hardly tell. An indefinite sense of awe, which at first sight of
 
-      the navigators of the [[Ship|ship]] had taken hold of my mind, was perhaps
+the navigators of the [[Ship|ship]] had taken hold of my mind, was perhaps
 
-      the principle of my concealment. I was unwilling to trust myself
+the principle of my concealment. I was unwilling to trust myself
 
-      with a race of people who had offered, to the cursory glance I
+with a race of people who had offered, to the cursory glance I
 
-      had taken, so many points of vague novelty, [[Doubt|doubt]], and
+had taken, so many points of vague novelty, [[Doubt|doubt]], and
 
-      apprehension. I therefore thought proper to contrive a
+apprehension. I therefore thought proper to contrive a
 
-      hiding-place in the hold. This I did by removing a small portion
+hiding-place in the hold. This I did by removing a small portion
 
-      of the shifting-boards, in such a manner as to afford me a
+of the shifting-boards, in such a manner as to afford me a
 
-      convenient retreat between the huge timbers of the [[Ship|ship]].
+convenient retreat between the huge timbers of the [[Ship|ship]].
 
 
 
-      I had scarcely completed my work, when a footstep in the hold
+I had scarcely completed my work, when a footstep in the hold
 
-      forced me to make use of it. A man passed by my place of
+forced me to make use of it. A man passed by my place of
 
-      concealment with a feeble and unsteady gait. I could not see his
+concealment with a feeble and unsteady gait. I could not see his
 
-      face, but had an opportunity of observing his general appearance.
+face, but had an opportunity of observing his general appearance.
 
-      There was about it an evidence of great age and infirmity. His
+There was about it an evidence of great age and infirmity. His
 
-      knees tottered beneath a load of years, and his entire frame
+knees tottered beneath a load of years, and his entire frame
 
-      quivered under the burthen. He muttered to himself, in a low
+quivered under the burthen. He muttered to himself, in a low
 
-      broken tone, some words of a language which I could not
+broken tone, some words of a language which I could not
 
-      understand, and groped in a corner among a pile of
+understand, and groped in a corner among a pile of
 
-      singular-looking instruments, and decayed charts of navigation.
+singular-looking instruments, and decayed charts of navigation.
 
-      His manner was a wild mixture of the peevishness of second
+His manner was a wild mixture of the peevishness of second
 
-      [[Childhood|childhood]], and the solemn dignity of a God. He at length went on
+[[Childhood|childhood]], and the solemn dignity of a God. He at length went on
 
-      deck, and I saw him no more.
+deck, and I saw him no more.
 
 
 
 
 
-      A feeling, for which I have no name, has taken possession of my
+A feeling, for which I have no name, has taken possession of my
 
-      [[Soul|soul]] —a sensation which will admit of no analysis, to which the
+[[Soul|soul]] —a sensation which will admit of no analysis, to which the
 
-      lessons of bygone times are inadequate, and for which I [[Fear|fear]]
+lessons of bygone times are inadequate, and for which I [[Fear|fear]]
 
-      futurity itself will offer me no key. To a mind constituted like
+futurity itself will offer me no key. To a mind constituted like
 
-      my own, the latter consideration is an evil. I shall never—I know
+my own, the latter consideration is an evil. I shall never—I know
 
-      that I shall never—be satisfied with regard to the [[Nature|nature]] of my
+that I shall never—be satisfied with regard to the [[Nature|nature]] of my
 
-      conceptions. Yet it is not wonderful that these conceptions are
+conceptions. Yet it is not wonderful that these conceptions are
 
-      indefinite, since they have their origin in sources so utterly
+indefinite, since they have their origin in sources so utterly
 
-      [[Novel|novel]]. A new sense—a new entity is added to my [[Soul|soul]].
+[[Novel|novel]]. A new sense—a new entity is added to my [[Soul|soul]].
 
 
 
 
 
-      It is long since I first trod the deck of this terrible [[Ship|ship]], and
+It is long since I first trod the deck of this terrible [[Ship|ship]], and
 
-      the rays of my destiny are, I think, gathering to a focus.
+the rays of my destiny are, I think, gathering to a focus.
 
-      Incomprehensible men! Wrapped up in meditations of a kind which I
+Incomprehensible men! Wrapped up in meditations of a kind which I
 
-      cannot divine, they pass me by unnoticed. Concealment is utter
+cannot divine, they pass me by unnoticed. Concealment is utter
 
-      folly on my part, for the people will not see. It was but just
+folly on my part, for the people will not see. It was but just
 
-      now that I passed directly before the eyes of the mate; it was no
+now that I passed directly before the eyes of the mate; it was no
 
-      long while ago that I ventured into the captain’s own private
+long while ago that I ventured into the captain’s own private
 
-      cabin, and took thence the materials with which I write, and have
+cabin, and took thence the materials with which I write, and have
 
-      written. I shall from [[Time|time]] to [[Time|time]] continue this journal. It is
+written. I shall from [[Time|time]] to [[Time|time]] continue this journal. It is
 
-      true that I may not find an opportunity of transmitting it to the
+true that I may not find an opportunity of transmitting it to the
 
-      world, but I will not fall to make the endeavour. At the last
+world, but I will not fall to make the endeavour. At the last
 
-      moment I will enclose the MS. in a bottle, and cast it within the
+moment I will enclose the MS. in a bottle, and cast it within the
 
-      sea.
+sea.
 
 
 
 
 
-      An incident has occurred which has given me new room for
+An incident has occurred which has given me new room for
 
-      meditation. Are such things the operation of ungoverned chance? I
+meditation. Are such things the operation of ungoverned chance? I
 
-      had ventured upon deck and thrown myself down, without attracting
+had ventured upon deck and thrown myself down, without attracting
 
-      any notice, among a pile of ratlin-stuff and old sails in the
+any notice, among a pile of ratlin-stuff and old sails in the
 
-      [[Bottom|bottom]] of the yawl. While musing upon the singularity of my fate,
+[[Bottom|bottom]] of the yawl. While musing upon the singularity of my fate,
 
-      I unwittingly daubed with a tar-brush the edges of a
+I unwittingly daubed with a tar-brush the edges of a
 
-      neatly-folded studding-sail which lay near me on a barrel. The
+neatly-folded studding-sail which lay near me on a barrel. The
 
-      studding-sail is now bent upon the [[Ship|ship]], and the thoughtless
+studding-sail is now bent upon the [[Ship|ship]], and the thoughtless
 
-      touches of the brush are spread out into the word DISCOVERY.
+touches of the brush are spread out into the word DISCOVERY.
 
 
 
-      I have made many observations lately upon the structure of the
+I have made many observations lately upon the structure of the
 
 
 
@@ -1446,199 +1446,199 @@ N’a plus rien a dissimuler.
 <span class="atom-split" data-atom="part--part_04" data-title="Ms. Found in a Bottle (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
+vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
 
-      Her rigging, build, and general equipment, all negative a
+Her rigging, build, and general equipment, all negative a
 
-      supposition of this kind. What she is not, I can easily
+supposition of this kind. What she is not, I can easily
 
-      perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
+perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
 
-      how it is, but in scrutinizing her strange model and singular
+how it is, but in scrutinizing her strange model and singular
 
-      cast of spars, her huge size and overgrown suits of canvas, her
+cast of spars, her huge size and overgrown suits of canvas, her
 
-      severely simple bow and antiquated stern, there will occasionally
+severely simple bow and antiquated stern, there will occasionally
 
-      flash across my mind a sensation of familiar things, and there is
+flash across my mind a sensation of familiar things, and there is
 
-      always mixed up with such indistinct shadows of recollection, an
+always mixed up with such indistinct shadows of recollection, an
 
-      unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
+unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
 
 
 
 
 
-      I have been looking at the timbers of the [[Ship|ship]]. She is built of a
+I have been looking at the timbers of the [[Ship|ship]]. She is built of a
 
-      material to which I am a stranger. There is a peculiar character
+material to which I am a stranger. There is a peculiar character
 
-      about the wood which strikes me as rendering it unfit for the
+about the wood which strikes me as rendering it unfit for the
 
-      purpose to which it has been applied. I mean its extreme
+purpose to which it has been applied. I mean its extreme
 
-      porousness, considered independently by the worm-eaten condition
+porousness, considered independently by the worm-eaten condition
 
-      which is a consequence of navigation in these seas, and apart
+which is a consequence of navigation in these seas, and apart
 
-      from the rottenness attendant upon age. It will appear perhaps an
+from the rottenness attendant upon age. It will appear perhaps an
 
-      observation somewhat over-curious, but this wood would have every
+observation somewhat over-curious, but this wood would have every
 
-      characteristic of Spanish oak, if Spanish oak were distended by
+characteristic of Spanish oak, if Spanish oak were distended by
 
-      any unnatural means.
+any unnatural means.
 
 
 
-      In reading the above sentence a curious apothegm of an old
+In reading the above sentence a curious apothegm of an old
 
-      weather-beaten Dutch navigator comes full upon my recollection.
+weather-beaten Dutch navigator comes full upon my recollection.
 
-      “It is as sure,” he was wont to say, when any [[Doubt|doubt]] was
+“It is as sure,” he was wont to say, when any [[Doubt|doubt]] was
 
-      entertained of his veracity, “as sure as there is a sea where the
+entertained of his veracity, “as sure as there is a sea where the
 
-      [[Ship|ship]] itself will grow in bulk like the living [[Body|body]] of the
+[[Ship|ship]] itself will grow in bulk like the living [[Body|body]] of the
 
-      seaman.”
+seaman.”
 
 
 
 
 
-      About an hour ago, I made bold to thrust myself among a group of
+About an hour ago, I made bold to thrust myself among a group of
 
-      the crew. They paid me no manner of attention, and, although I
+the crew. They paid me no manner of attention, and, although I
 
-      stood in the very midst of them all, seemed utterly unconscious
+stood in the very midst of them all, seemed utterly unconscious
 
-      of my presence. Like the one I had at first seen in the hold,
+of my presence. Like the one I had at first seen in the hold,
 
-      they all bore about them the marks of a hoary old age. Their
+they all bore about them the marks of a hoary old age. Their
 
-      knees trembled with infirmity; their shoulders were bent [[Double|double]]
+knees trembled with infirmity; their shoulders were bent [[Double|double]]
 
-      with decrepitude; their shrivelled skins rattled in the [[Wind|wind]];
+with decrepitude; their shrivelled skins rattled in the [[Wind|wind]];
 
-      their voices were low, tremulous and broken; their eyes glistened
+their voices were low, tremulous and broken; their eyes glistened
 
-      with the rheum of years; and their gray hairs streamed terribly
+with the rheum of years; and their gray hairs streamed terribly
 
-      in the tempest. Around them, on every part of the deck, lay
+in the tempest. Around them, on every part of the deck, lay
 
-      scattered mathematical instruments of the most quaint and
+scattered mathematical instruments of the most quaint and
 
-      obsolete construction.
+obsolete construction.
 
 
 
 
 
-      I mentioned some [[Time|time]] ago the bending of a studding-sail. From
+I mentioned some [[Time|time]] ago the bending of a studding-sail. From
 
-      that period the [[Ship|ship]], being thrown dead off the [[Wind|wind]], has
+that period the [[Ship|ship]], being thrown dead off the [[Wind|wind]], has
 
-      continued her terrific course due south, with every rag of canvas
+continued her terrific course due south, with every rag of canvas
 
-      packed upon her, from her trucks to her lower studding-sail
+packed upon her, from her trucks to her lower studding-sail
 
-      booms, and [[rolling]] every moment her top-gallant yard-arms into
+booms, and [[rolling]] every moment her top-gallant yard-arms into
 
-      the most appalling hell of [[Water|water]] which it can enter into the mind
+the most appalling hell of [[Water|water]] which it can enter into the mind
 
-      of a man to imagine. I have just left the deck, where I find it
+of a man to imagine. I have just left the deck, where I find it
 
-      impossible to maintain a footing, although the crew seem to
+impossible to maintain a footing, although the crew seem to
 
-      experience little inconvenience. It appears to me a miracle of
+experience little inconvenience. It appears to me a miracle of
 
-      miracles that our enormous bulk is not swallowed up at once and
+miracles that our enormous bulk is not swallowed up at once and
 
-      forever. We are surely doomed to hover continually upon the brink
+forever. We are surely doomed to hover continually upon the brink
 
-      of [[Eternity|eternity]], without taking a final plunge into the abyss. From
+of [[Eternity|eternity]], without taking a final plunge into the abyss. From
 
-      billows a thousand times more stupendous than any I have ever
+billows a thousand times more stupendous than any I have ever
 
-      seen, we glide away with the facility of the arrowy sea-gull; and
+seen, we glide away with the facility of the arrowy sea-gull; and
 
-      the colossal waters rear their heads above us like demons of the
+the colossal waters rear their heads above us like demons of the
 
-      deep, but like demons confined to simple threats and forbidden to
+deep, but like demons confined to simple threats and forbidden to
 
-      destroy. I am led to attribute these frequent escapes to the only
+destroy. I am led to attribute these frequent escapes to the only
 
-      natural cause which can account for such effect. I must suppose
+natural cause which can account for such effect. I must suppose
 
-      the [[Ship|ship]] to be within the influence of some strong current, or
+the [[Ship|ship]] to be within the influence of some strong current, or
 
-      impetuous under-tow.
+impetuous under-tow.
 
 
 
 
 
-      I have seen the captain face to face, and in his own cabin—but,
+I have seen the captain face to face, and in his own cabin—but,
 
-      as I expected, he paid me no attention. Although in his
+as I expected, he paid me no attention. Although in his
 
-      appearance there is, to a casual observer, nothing which might
+appearance there is, to a casual observer, nothing which might
 
-      bespeak him more or less than man, still, a feeling of
+bespeak him more or less than man, still, a feeling of
 
-      irrepressible reverence and awe mingled with the sensation of
+irrepressible reverence and awe mingled with the sensation of
 
-      [[Wonder|wonder]] with which I regarded him. In stature he is nearly my own
+[[Wonder|wonder]] with which I regarded him. In stature he is nearly my own
 
-      height; that is, about five feet eight inches. He is of a
+height; that is, about five feet eight inches. He is of a
 
-      [[Well|well]]-knit and compact frame of [[Body|body]], neither robust nor
+[[Well|well]]-knit and compact frame of [[Body|body]], neither robust nor
 
-      remarkably otherwise. But it is the singularity of the expression
+remarkably otherwise. But it is the singularity of the expression
 
-      which reigns upon the face—it is the intense, the wonderful, the
+which reigns upon the face—it is the intense, the wonderful, the
 
-      thrilling evidence of old age, so utter, so extreme, which
+thrilling evidence of old age, so utter, so extreme, which
 
-      excites within my spirit a sense—a sentiment ineffable. His
+excites within my spirit a sense—a sentiment ineffable. His
 
-      forehead, although little wrinkled, seems to bear upon it the
+forehead, although little wrinkled, seems to bear upon it the
 
-      stamp of a myriad of years. His gray hairs are records of the
+stamp of a myriad of years. His gray hairs are records of the
 
-      past, and his grayer eyes are sibyls of the future. The cabin
+past, and his grayer eyes are sibyls of the future. The cabin
 
-      floor was thickly strewn with strange, iron-clasped folios, and
+floor was thickly strewn with strange, iron-clasped folios, and
 
-      mouldering instruments of science, and obsolete long-forgotten
+mouldering instruments of science, and obsolete long-forgotten
 
-      charts. His head was bowed down upon his hands, and he pored,
+charts. His head was bowed down upon his hands, and he pored,
 
-      with a fiery unquiet eye, over a paper which I took to be a
+with a fiery unquiet eye, over a paper which I took to be a
 
-      commission, and which, at all events, bore the signature of a
+commission, and which, at all events, bore the signature of a
 
-      monarch. He muttered to himself, as did the first seaman whom I
+monarch. He muttered to himself, as did the first seaman whom I
 
-      saw in the hold, some low peevish syllables of a foreign tongue,
+saw in the hold, some low peevish syllables of a foreign tongue,
 
-      and although the speaker was close at my elbow, his voice seemed
+and although the speaker was close at my elbow, his voice seemed
 
-      to reach my ears from the distance of a mile.
+to reach my ears from the distance of a mile.
 
 
 
 
 
-      The [[Ship|ship]] and all in it are imbued with the spirit of Eld. The
+The [[Ship|ship]] and all in it are imbued with the spirit of Eld. The
 
-      crew glide to and fro like the [[Ghosts|ghosts]] of buried centuries; their
+crew glide to and fro like the [[Ghosts|ghosts]] of buried centuries; their
 
-      eyes have an eager and uneasy meaning; and when their fingers
+eyes have an eager and uneasy meaning; and when their fingers
 
-      fall athwart my path in the wild glare of the battle-lanterns, I
+fall athwart my path in the wild glare of the battle-lanterns, I
 
 
 
@@ -1646,116 +1646,116 @@ N’a plus rien a dissimuler.
 <span class="atom-split" data-atom="part--part_05" data-title="Ms. Found in a Bottle (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-      feel as I have never felt before, although I have been all my
+feel as I have never felt before, although I have been all my
 
-      life a dealer in antiquities, and have imbibed the shadows of
+life a dealer in antiquities, and have imbibed the shadows of
 
-      fallen columns at Balbec, and Tadmor, and Persepolis, until my
+fallen columns at Balbec, and Tadmor, and Persepolis, until my
 
-      very [[Soul|soul]] has become a ruin.
+very [[Soul|soul]] has become a ruin.
 
 
 
 
 
-      When I look around me I feel ashamed of my former apprehensions.
+When I look around me I feel ashamed of my former apprehensions.
 
-      If I trembled at the blast which has hitherto attended us, shall
+If I trembled at the blast which has hitherto attended us, shall
 
-      I not stand aghast at a warring of [[Wind|wind]] and ocean, to convey any
+I not stand aghast at a warring of [[Wind|wind]] and ocean, to convey any
 
-      idea of which the words tornado and simoom are trivial and
+idea of which the words tornado and simoom are trivial and
 
-      ineffective? All in the immediate vicinity of the [[Ship|ship]] is the
+ineffective? All in the immediate vicinity of the [[Ship|ship]] is the
 
-      blackness of eternal [[Night|night]], and a chaos of foamless [[Water|water]]; but,
+blackness of eternal [[Night|night]], and a chaos of foamless [[Water|water]]; but,
 
-      about a league on either side of us, may be seen, indistinctly
+about a league on either side of us, may be seen, indistinctly
 
-      and at intervals, stupendous ramparts of ice, towering away into
+and at intervals, stupendous ramparts of ice, towering away into
 
-      the desolate sky, and looking like the walls of the universe.
+the desolate sky, and looking like the walls of the universe.
 
 
 
 
 
-      As I imagined, the [[Ship|ship]] proves to be in a current—if that
+As I imagined, the [[Ship|ship]] proves to be in a current—if that
 
-      appellation can properly be given to a tide which, howling and
+appellation can properly be given to a tide which, howling and
 
-      shrieking by the white ice, thunders on to the southward with a
+shrieking by the white ice, thunders on to the southward with a
 
-      velocity like the headlong dashing of a cataract.
+velocity like the headlong dashing of a cataract.
 
 
 
 
 
-      To conceive the horror of my sensations is, I presume, utterly
+To conceive the horror of my sensations is, I presume, utterly
 
-      impossible; yet a curiosity to penetrate the mysteries of these
+impossible; yet a curiosity to penetrate the mysteries of these
 
-      awful regions, predominates even over my [[Despair|despair]], and will
+awful regions, predominates even over my [[Despair|despair]], and will
 
-      reconcile me to the most hideous aspect of [[Death|death]]. It is evident
+reconcile me to the most hideous aspect of [[Death|death]]. It is evident
 
-      that we are hurrying onwards to some exciting knowledge—some
+that we are hurrying onwards to some exciting knowledge—some
 
-      never-to-be-imparted secret, whose attainment is destruction.
+never-to-be-imparted secret, whose attainment is destruction.
 
-      Perhaps this current leads us to the southern pole itself. It
+Perhaps this current leads us to the southern pole itself. It
 
-      must be confessed that a supposition apparently so wild has every
+must be confessed that a supposition apparently so wild has every
 
-      probability in its favor.
+probability in its favor.
 
 
 
 
 
-      The crew pace the deck with unquiet and tremulous step; but there
+The crew pace the deck with unquiet and tremulous step; but there
 
-      is upon their countenances an expression more of the eagerness of
+is upon their countenances an expression more of the eagerness of
 
-      [[Hope|hope]] than of the apathy of [[Despair|despair]].
+[[Hope|hope]] than of the apathy of [[Despair|despair]].
 
 
 
-      In the meantime the [[Wind|wind]] is still in our poop, and, as we carry a
+In the meantime the [[Wind|wind]] is still in our poop, and, as we carry a
 
-      crowd of canvas, the [[Ship|ship]] is at times lifted bodily from out the
+crowd of canvas, the [[Ship|ship]] is at times lifted bodily from out the
 
-      sea! Oh, horror upon horror!—the ice opens suddenly to the right,
+sea! Oh, horror upon horror!—the ice opens suddenly to the right,
 
-      and to the left, and we are whirling dizzily, in immense
+and to the left, and we are whirling dizzily, in immense
 
-      concentric circles, round and round the borders of a gigantic
+concentric circles, round and round the borders of a gigantic
 
-      amphitheatre, the summit of whose walls is lost in the darkness
+amphitheatre, the summit of whose walls is lost in the darkness
 
-      and the distance. But little [[Time|time]] will be left me to ponder upon
+and the distance. But little [[Time|time]] will be left me to ponder upon
 
-      my destiny! The circles rapidly grow small—we are plunging madly
+my destiny! The circles rapidly grow small—we are plunging madly
 
-      within the grasp of the whirlpool—and amid a roaring, and
+within the grasp of the whirlpool—and amid a roaring, and
 
-      bellowing, and thundering of ocean and of tempest, the [[Ship|ship]] is
+bellowing, and thundering of ocean and of tempest, the [[Ship|ship]] is
 
-      quivering—oh God! and—going down.
+quivering—oh God! and—going down.
 
 
 
-      NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
+NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
 
-      1831, and it was not until many years afterwards that I became
+1831, and it was not until many years afterwards that I became
 
-      acquainted with the maps of Mercator, in which the ocean is
+acquainted with the maps of Mercator, in which the ocean is
 
-      represented as rushing, by four mouths, into the (northern) Polar
+represented as rushing, by four mouths, into the (northern) Polar
 
-      Gulf, to be absorbed into the bowels of the earth; the Pole
+Gulf, to be absorbed into the bowels of the earth; the Pole
 
-      itself being represented by a black rock, towering to a
+itself being represented by a black rock, towering to a
 
-      prodigious height.
+prodigious height.

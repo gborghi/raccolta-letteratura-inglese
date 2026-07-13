@@ -16,9 +16,9 @@ tags:
 
 [[asparagus|Asparagus]]
 
-			     by G. K. Chesterton
+by G. K. Chesterton
 
-			 New Witness, 18th June 1914
+New Witness, 18th June 1914
 
 At about twenty-one minutes past two today I suddenly
 saw that [[asparagus]] is the secret of aristocracy.
@@ -131,9 +131,9 @@ They have changed the password.
 
 [[asparagus|Asparagus]]
 
-			     by G. K. Chesterton
+by G. K. Chesterton
 
-			 New Witness, 18th June 1914
+New Witness, 18th June 1914
 
 At about twenty-one minutes past two today I suddenly
 saw that [[asparagus]] is the secret of aristocracy.
@@ -235,9 +235,9 @@ call Progress came into the world.
 
 [[asparagus|Asparago]]
 
-			     di G. K. Chesterton
+di G. K. Chesterton
 
-			 New Witness, 18 giugno 1914
+New Witness, 18 giugno 1914
 
 Oggi, verso le due e ventuno minuti, ho improvvisamente compreso che l'[[asparagus|asparago]] è il segreto dell'aristocrazia. Stavo cercando di introdurmi in bocca certi lunghi steli flosci quando l'idea mi balenò in testa; e lo stelo, invece, non ci riuscì. Non alludo a quei paragoni meramente metaforici e superficiali che tra i due si potrebbero facilmente istituire. Potremmo dire che gran parte dell'organismo resta d'un bianco morto, e soltanto un piccolo bottone in cima può essere d'un verde brillante. Potremmo trarne la morale che gli aristocratici medi vengono spacciati per assai più robusti di quanto siano; e illustrarla con gli asparagi medi. Si dice che qualunque bastone sia buono per bastonare un cane; ma qualcuno ha mai provato a bastonare un cane con uno stelo di [[asparagus|asparago]]? Potremmo trarne la morale che le tradizioni aristocratiche vengono spacciate per assai più popolari di quanto realmente fossero. 'Norman' viene storpiato in una pronuncia all'inglese. In questo modo tre leopardi francesi furono in qualche modo trasformati in leoni britannici. E in questo modo anche la solenne parola [[asparagus|Asparagus]], che a quanto ne so non significa nulla, fu mutata dal popolino in 'sparrowgrass', che significa due delle cose più pittoresche del mondo. [[asparagus|Asparagus]], che presumo essere stato il nome di un proconsole romano, Marcus [[asparagus|Asparagus]] Esculens, o qualcosa del genere, non meritò mai la fortuna di perdere la propria origine in due cose tanto vere e comuni come i baldi [[Birds|uccelli]] della città e la verde [[democracy|democrazia]] dei campi. O ancora, potremmo dire degli steli di [[asparagus|asparago]] che spesso hanno perso la testa, e potremmo dire lo stesso degli aristocratici. Entrambe le teste sono state staccate a morsi dalla ghigliottina, prima d'ora. Ma per completare il parallelo dovremmo sostenere che la testa dell'[[aristocrat|aristocratico]] era la parte migliore di lui; e questo è spesso difficile da sostenere. Ma, in verità, non fondo questa tesi su simili fantasie tratte dalla fraseologia. Assai più in profondità, nella terra, stanno le radici dell'[[asparagus|asparago]].
 

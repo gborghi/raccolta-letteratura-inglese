@@ -18,50 +18,50 @@ ALL I SURVEY A BOOK OF ESSAYS by G. K. CHESTERTON
 
 Contents
 
-  I ON THE [[Child|CHILD]]
-  II ON THE STANDARDIZATION OF STEVENSON
-  III ON [[turnpikes|TURNPIKES]] AND MEDIÆVALISM
-  IV ON MAMMOTH PORTRAITURE
-  V ON WAR MEMORIALS
-  VI ON OLD MEN WHO MAKE WARS
-  VII ON VACHEL LINDSAY
-  VIII ON THE STALENESS OF REVOLT
-  IX ON DEPENDENCE AND INDEPENDENCE
-  X ON THE TEUTONIC THEORY
-  XI ON PHASES OF ECCENTRICITY
-  XII ON BAD POETRY
-  XIII ON NEGATIVE [[morality|MORALITY]]
-  XIV ON JONATHAN SWIFT
-  XV ON THE CREATIVE AND THE CRITICAL
-  XVI ON A NEW TAX
-  XVII ON SENSE AND SOUND
-  XVIII ON LITERARY CLIQUES
-  XIX ON THE SIMPLICITY OF ASIA
-  XX ON FATE AND A COMMUNIST
-  XXI ON ST. GEORGE REVIVIFIED
-  XXII ON JOURNALISTIC [[philosophy|PHILOSOPHY]]
-  XXIII ON INDUSTRIALISM
-  XXIV ON MR. THOMAS GRAY
-  XXV ON EVOLUTIONARY EDUCATORS
-  XXVI ON THE CONTIGUOUS PAST
-  XXVII ON THE MERRY MONARCH
-  XXVIII ON [[suicide|SUICIDE]]: NORTH AND SOUTH
-  XXIX ON MODERN "PAGANISM"
-  XXX ON BREVITY AND WIT
-  XXXI ON [[Education|EDUCATION]]
-  XXXII ON ROMANTICISM AND YOUTH
-  XXXIII ON MR. GEOFFREY CHAUCER
-  XXXIV ON MONSTERS
-  XXXV ON [[Love|LOVE]]
-  XXXVI ON FICTIONAL CONVENTIONS
-  XXXVII ON SWEEPSTAKES AND GAMBLING
-  XXXVIII ON MAKING GOOD--I
-  XXXIX ON MAKING GOOD--II
-  XL ON EYEBROWS
-  XLI ON EATING AND SLEEPING
-  XLII ON SIR WALTER SCOTT
-  XLIII ON THE SOLAR SYSTEM
-  XLIV ON THOUGHTLESS REMARKS
+I ON THE [[Child|CHILD]]
+II ON THE STANDARDIZATION OF STEVENSON
+III ON [[turnpikes|TURNPIKES]] AND MEDIÆVALISM
+IV ON MAMMOTH PORTRAITURE
+V ON WAR MEMORIALS
+VI ON OLD MEN WHO MAKE WARS
+VII ON VACHEL LINDSAY
+VIII ON THE STALENESS OF REVOLT
+IX ON DEPENDENCE AND INDEPENDENCE
+X ON THE TEUTONIC THEORY
+XI ON PHASES OF ECCENTRICITY
+XII ON BAD POETRY
+XIII ON NEGATIVE [[morality|MORALITY]]
+XIV ON JONATHAN SWIFT
+XV ON THE CREATIVE AND THE CRITICAL
+XVI ON A NEW TAX
+XVII ON SENSE AND SOUND
+XVIII ON LITERARY CLIQUES
+XIX ON THE SIMPLICITY OF ASIA
+XX ON FATE AND A COMMUNIST
+XXI ON ST. GEORGE REVIVIFIED
+XXII ON JOURNALISTIC [[philosophy|PHILOSOPHY]]
+XXIII ON INDUSTRIALISM
+XXIV ON MR. THOMAS GRAY
+XXV ON EVOLUTIONARY EDUCATORS
+XXVI ON THE CONTIGUOUS PAST
+XXVII ON THE MERRY MONARCH
+XXVIII ON [[suicide|SUICIDE]]: NORTH AND SOUTH
+XXIX ON MODERN "PAGANISM"
+XXX ON BREVITY AND WIT
+XXXI ON [[Education|EDUCATION]]
+XXXII ON ROMANTICISM AND YOUTH
+XXXIII ON MR. GEOFFREY CHAUCER
+XXXIV ON MONSTERS
+XXXV ON [[Love|LOVE]]
+XXXVI ON FICTIONAL CONVENTIONS
+XXXVII ON SWEEPSTAKES AND GAMBLING
+XXXVIII ON MAKING GOOD--I
+XXXIX ON MAKING GOOD--II
+XL ON EYEBROWS
+XLI ON EATING AND SLEEPING
+XLII ON SIR WALTER SCOTT
+XLIII ON THE SOLAR SYSTEM
+XLIV ON THOUGHTLESS REMARKS
 
 -*-
 
@@ -1638,22 +1638,22 @@ It consists of a rhyming verse finally ending on a word which ought
 to rhyme and does not.  He is describing, if I remember right, the ideal
 virtues of the Village Maiden, and one verse runs--
 
-    To novels and plays not inclined
-    Nor aught that can sully her mind;
-        Temptations may shower,
-        Unmoved as a tower
-    She quenches the fiery arrows.
+To novels and plays not inclined
+Nor aught that can sully her mind;
+Temptations may shower,
+Unmoved as a tower
+She quenches the fiery arrows.
 
 It is long since I have sat at the feet of this minstrel;
 and I quote from [[Memory|memory]]; but I think another verse of the same
 poem thus illustrated the same paraprosdokian, or concluding
 jerk of disappointment--
 
-    Religion makes [[Beauty|beauty]] enchanting;
-    And even where [[Beauty|beauty]] is wanting,
-        The temper and mind
-        Religion-refined
-    Will shine through the veil with sweet lustre.
+Religion makes [[Beauty|beauty]] enchanting;
+And even where [[Beauty|beauty]] is wanting,
+The temper and mind
+Religion-refined
+Will shine through the veil with sweet lustre.
 
 If you read much of it, you will reach a state of mind in which,
 even though you know the jolt is coming, you can hardly forbear
@@ -2341,9 +2341,9 @@ And suppose the particular passage explained how somebody's
 after-dinner table was left in a litter by negligent servants;
 books and wine and everything in a hugger-mugger--
 
-    His pipe and napkin, like his spectacles,
-    Like snuff and toast and pen and ink or books,
-    Like teneriffe or atlas, unremoved.
+His pipe and napkin, like his spectacles,
+Like snuff and toast and pen and ink or books,
+Like teneriffe or atlas, unremoved.
 
 It would not make the same noise.  It actually would not
 sound in the ear, as a matter of mere acoustics, the same.
@@ -3293,8 +3293,8 @@ with all its botherations? ... A queer business ... pleasing
 ... anxious.  ..." Then something stirred quicker within him,
 and he said to himself, in warm poetic emotion--
 
-    For who tytumpty tumpty tumpty turn,
-    This pleasing anxious being e'er resigned.
+For who tytumpty tumpty tumpty turn,
+This pleasing anxious being e'er resigned.
 
 Then his impulse gathered [[Speed|speed]] and power; and he struck the table
 and said the next line straight off--
@@ -3442,10 +3442,10 @@ homely and pungent picture of peasant life; as some have thought,
 consciously stressing the contrast between his own realism
 and the scholar's classicism:
 
-    Let not [[Ambition|ambition]] mock their useful toil,
-      Their humble joys, and destiny obscure;
-    Nor grandeur hear, with a disdainful smile,
-      The short and simple annals of the poor.
+Let not [[Ambition|ambition]] mock their useful toil,
+Their humble joys, and destiny obscure;
+Nor grandeur hear, with a disdainful smile,
+The short and simple annals of the poor.
 
 Indeed, I rather fancy that, in citing those rather patronizing lines,
 it was the poor poet who had the disdainful smile.
@@ -4180,14 +4180,14 @@ onion into the drawing-room, or the pig into the parlour.
 The modern poet goes straight to the point, in some short
 and simple [[Lyric|lyric]] that runs--
 
-    The hair of a hundred women chokes me
-    With a gluttonous smell of garlic ...
+The hair of a hundred women chokes me
+With a gluttonous smell of garlic ...
 
 and there you are; a simple human emotion described in two
 spontaneous lines.  Or he will write of the pig question--
 
-    The world wobbles sickeningly,
-    Like the old grey sow in the greasy morning light.
+The world wobbles sickeningly,
+Like the old grey sow in the greasy morning light.
 
 And if brevity is really the [[Soul|soul]] of wit, this must be much wittier
 than the long eighteenth-century poem with its classical analogies.
@@ -4844,10 +4844,10 @@ science of sociology or [[Eugenics|eugenics]] (a green-blooded fish has been
 found in the sea), accepted him as the founder of a new religion.
 And when Mr. Belloc wrote the envoi of another Ballade--
 
-    Prince, if you meet upon a bus
-    A man who makes a great display
-    Of Dr. Haeckel, argue thus,
-    The [[Wind|wind]] has blown them all away--
+Prince, if you meet upon a bus
+A man who makes a great display
+Of Dr. Haeckel, argue thus,
+The [[Wind|wind]] has blown them all away--
 
 it really sounded like an audacity or a daring prophecy.
 Whereas now it sounds like a truism, because it has come true.
@@ -5591,10 +5591,10 @@ of the Sonnets, knew more than most people about the law
 of change and dissolution spread over all earthly things,
 even those that seem the most natural:
 
-  Since brass, nor stone, nor earth, nor boundless sea, 
-  But sad [[Mortality|mortality]] o'ersways their power,
-  How with this rage shall [[Beauty]] hold a plea,
-  Whose action is no stronger than a flower.
+Since brass, nor stone, nor earth, nor boundless sea, 
+But sad [[Mortality|mortality]] o'ersways their power,
+How with this rage shall [[Beauty]] hold a plea,
+Whose action is no stronger than a flower.
 
 I quote from [[Memory|memory]].  Anyhow, even this argument does not force us
 to a premature plucking of the flower or plucking out of the eyebrow.
@@ -5887,8 +5887,8 @@ but it is direct and even deadly considered as oratory.
 Everything is apt and telling, from the sneer at Lord Dacre's
 [[Courage|courage]] to the abrupt turn of defiant invocation:
 
-    For the young heir of Branksome's line
-    God be his aid and God be mine.
+For the young heir of Branksome's line
+God be his aid and God be mine.
 
 That is the sort of way that men like Danton and Fox did [[debate]],
 through riots and revolutions that filled Scott's own epoch.
@@ -8390,22 +8390,22 @@ It consists of a rhyming verse finally ending on a word which ought
 to rhyme and does not.  He is describing, if I remember right, the ideal
 virtues of the Village Maiden, and one verse runs--
 
-    To novels and plays not inclined
-    Nor aught that can sully her mind;
-        Temptations may shower,
-        Unmoved as a tower
-    She quenches the fiery arrows.
+To novels and plays not inclined
+Nor aught that can sully her mind;
+Temptations may shower,
+Unmoved as a tower
+She quenches the fiery arrows.
 
 It is long since I have sat at the feet of this minstrel;
 and I quote from [[Memory|memory]]; but I think another verse of the same
 poem thus illustrated the same paraprosdokian, or concluding
 jerk of disappointment--
 
-    Religion makes [[Beauty|beauty]] enchanting;
-    And even where [[Beauty|beauty]] is wanting,
-        The temper and mind
-        Religion-refined
-    Will shine through the veil with sweet lustre.
+Religion makes [[Beauty|beauty]] enchanting;
+And even where [[Beauty|beauty]] is wanting,
+The temper and mind
+Religion-refined
+Will shine through the veil with sweet lustre.
 
 If you read much of it, you will reach a state of mind in which,
 even though you know the jolt is coming, you can hardly forbear
@@ -8546,22 +8546,22 @@ Consiste in una strofa in rima che infine termina con una parola che dovrebbe
 rimare e non rima. Sta descrivendo, se ben ricordo, le virtù ideali
 della Fanciulla di Villaggio, e una strofa recita così:
 
-    Ai romanzi e ai drammi non incline
-    Né ad alcunché che possa insozzarle la mente;
-        Le tentazioni possono piovere,
-        Immobile come una torre
-    Ella spegne le frecce infuocate.
+Ai romanzi e ai drammi non incline
+Né ad alcunché che possa insozzarle la mente;
+Le tentazioni possono piovere,
+Immobile come una torre
+Ella spegne le frecce infuocate.
 
 È da gran tempo che non siedo ai piedi di questo menestrello;
 e cito a [[Memory|memoria]]; ma credo che un'altra strofa dello stesso
 poema illustrasse così lo stesso paraprosdokian, ovvero
 strattone conclusivo di delusione:
 
-    La religione rende la [[Beauty|bellezza]] incantevole;
-    E persino dove la [[Beauty|bellezza]] manca,
-        L'indole e la mente
-        Dalla religione raffinate
-    Splenderanno attraverso il velo con dolce fulgore.
+La religione rende la [[Beauty|bellezza]] incantevole;
+E persino dove la [[Beauty|bellezza]] manca,
+L'indole e la mente
+Dalla religione raffinate
+Splenderanno attraverso il velo con dolce fulgore.
 
 Se ne leggete molto, raggiungerete uno stato d'animo in cui,
 pur sapendo che lo scossone sta arrivando, a stento riuscirete a trattenervi
@@ -9475,9 +9475,9 @@ And suppose the particular passage explained how somebody's
 after-dinner table was left in a litter by negligent servants;
 books and wine and everything in a hugger-mugger--
 
-    His pipe and napkin, like his spectacles,
-    Like snuff and toast and pen and ink or books,
-    Like teneriffe or atlas, unremoved.
+His pipe and napkin, like his spectacles,
+Like snuff and toast and pen and ink or books,
+Like teneriffe or atlas, unremoved.
 
 It would not make the same noise.  It actually would not
 sound in the ear, as a matter of mere acoustics, the same.
@@ -9542,9 +9542,9 @@ Ma tutto questo (come dicevo) sta tra parentesi. La questione che intendevo soll
 
 Thackeray accenna in qualche luogo, in uno dei suoi saggi, di aver trovato in qualche vecchio ricettario o galateo la notizia che nel Settecento gli uomini bevevano un vino chiamato Teneriffe, apparentemente un'alternativa al porto o al madera. Thackeray dice, mi pare, che ciò suona come dover [[Swallow|inghiottire]] il Cervino. Ma se si trattasse di qualcosa del tutto familiare, come il vino di porto, suonerebbe come un qualsiasi altro particolare della tavola. Quanto alla parola «Atlas», basta sopprimere la maiuscola, ed essa designa una comunissima opera di consultazione, un ordinario libro di carte geografiche. Ora, si supponga che qualcuno stia scrivendo una mitissima e trotterellante poesia domestica in decasillabi, un po' come quelle [[Poems|poesie]] in cui Cowper celebrava la teiera o il gatto. E si supponga che il passo in questione spiegasse come la tavola di qualcuno, dopo il pranzo, fosse lasciata in disordine da servitori negligenti; libri e vino e ogni cosa alla rinfusa —
 
-    His pipe and napkin, like his spectacles,
-    Like snuff and toast and pen and ink or books,
-    Like teneriffe or atlas, unremoved.
+His pipe and napkin, like his spectacles,
+Like snuff and toast and pen and ink or books,
+Like teneriffe or atlas, unremoved.
 
 Non farebbe lo stesso rumore. In realtà non risuonerebbe all'orecchio, come mero fatto d'acustica, allo stesso modo. Il fatto di parlare soltanto di due oggetti insignificanti muterebbe, di fatto, l'impatto reale del suono sull'orecchio e sui nervi. Nessuno andrebbe cercando un grande effetto sonoro, e nessuno lo troverebbe. Il fatto che i due oggetti siano [[Mountains|montagne]], misteriose e remote e leggendarie [[Mountains|montagne]], entra irrevocabilmente nel processo puramente fisico; ed è la grandezza di quelle [[Mountains|montagne]] a colmare i polmoni e l'orecchio.
 
@@ -11702,14 +11702,14 @@ onion into the drawing-room, or the pig into the parlour.
 The modern poet goes straight to the point, in some short
 and simple [[Lyric|lyric]] that runs--
 
-    The hair of a hundred women chokes me
-    With a gluttonous smell of garlic ...
+The hair of a hundred women chokes me
+With a gluttonous smell of garlic ...
 
 and there you are; a simple human emotion described in two
 spontaneous lines.  Or he will write of the pig question--
 
-    The world wobbles sickeningly,
-    Like the old grey sow in the greasy morning light.
+The world wobbles sickeningly,
+Like the old grey sow in the greasy morning light.
 
 And if brevity is really the [[Soul|soul]] of wit, this must be much wittier
 than the long eighteenth-century poem with its classical analogies.
@@ -11833,14 +11833,14 @@ cipolla nel salotto, o il porco nel tinello.
 Il poeta moderno va dritto al punto, in qualche breve
 e semplice [[Lyric|lirica]] che recita —
 
-    I capelli di cento donne mi soffocano
-    Con un ingordo odore d'aglio ...
+I capelli di cento donne mi soffocano
+Con un ingordo odore d'aglio ...
 
 ed eccovi serviti: una semplice emozione umana descritta in due
 righe spontanee. Oppure scriverà della questione dei porci —
 
-    Il mondo barcolla nauseabondo,
-    Come la vecchia scrofa grigia nella luce untuosa del mattino.
+Il mondo barcolla nauseabondo,
+Come la vecchia scrofa grigia nella luce untuosa del mattino.
 
 E se la brevità è davvero l'[[Soul|anima]] dell'arguzia, questo dev'essere assai più arguto
 del lungo poema settecentesco con le sue analogie classiche.
@@ -12310,10 +12310,10 @@ science of sociology or [[Eugenics|eugenics]] (a green-blooded fish has been
 found in the sea), accepted him as the founder of a new religion.
 And when Mr. Belloc wrote the envoi of another Ballade--
 
-    Prince, if you meet upon a bus
-    A man who makes a great display
-    Of Dr. Haeckel, argue thus,
-    The [[Wind|wind]] has blown them all away--
+Prince, if you meet upon a bus
+A man who makes a great display
+Of Dr. Haeckel, argue thus,
+The [[Wind|wind]] has blown them all away--
 
 it really sounded like an audacity or a daring prophecy.
 Whereas now it sounds like a truism, because it has come true.
@@ -12362,10 +12362,10 @@ La fantasia potrebbe introdurre molte varianti nelle fiabe. Esse raccontano semp
 
 Per esempio, c'era Haeckel e il duro, concreto Materialismo dei suoi giorni. Per anni interi riempii la mia vita combattendo il signor Blatchford e altri a tal proposito, additando le fallacie, per non dire le falsità, di Haeckel. E dov'è ora? Il signor Blatchford ha dimenticato tutto di Haeckel, e così tutti gli altri. I nuovi uomini di scienza lo hanno completamente ripudiato. Ma ricordo quando ogni nuovo uomo di scienza, e specialmente della nuova scienza della sociologia o dell'[[Eugenics|eugenetica]] (è stato trovato in mare un pesce dal sangue verde), lo accoglieva come il fondatore di una nuova religione. E quando il signor Belloc scrisse l'invio di un'altra Ballata —
 
-    Principe, se incontri su un omnibus
-    Un uomo che fa gran pompa
-    Del Dottor Haeckel, ragiona così:
-    Il [[Wind|vento]] li ha spazzati tutti via —
+Principe, se incontri su un omnibus
+Un uomo che fa gran pompa
+Del Dottor Haeckel, ragiona così:
+Il [[Wind|vento]] li ha spazzati tutti via —
 
 suonava davvero come un'audacia o una temeraria profezia. Mentre ora suona come un truismo, perché si è avverato.
 
@@ -13553,10 +13553,10 @@ of the Sonnets, knew more than most people about the law
 of change and dissolution spread over all earthly things,
 even those that seem the most natural:
 
-  Since brass, nor stone, nor earth, nor boundless sea, 
-  But sad [[Mortality|mortality]] o'ersways their power,
-  How with this rage shall [[Beauty]] hold a plea,
-  Whose action is no stronger than a flower.
+Since brass, nor stone, nor earth, nor boundless sea, 
+But sad [[Mortality|mortality]] o'ersways their power,
+How with this rage shall [[Beauty]] hold a plea,
+Whose action is no stronger than a flower.
 
 I quote from [[Memory|memory]].  Anyhow, even this argument does not force us
 to a premature plucking of the flower or plucking out of the eyebrow.
@@ -13685,10 +13685,10 @@ dei Sonetti, sapeva più della maggior parte delle persone intorno alla legge
 del mutamento e della dissoluzione che si stende su tutte le cose terrene,
 anche su quelle che paiono le più naturali:
 
-  Poiché né bronzo, né pietra, né terra, né sconfinato mare,
-  Ma la triste [[Mortality|mortalità]] soverchia la loro potenza,
-  Come contro tale furia potrà la [[Beauty]] muovere una difesa,
-  Il cui operare non è più forte di un fiore.
+Poiché né bronzo, né pietra, né terra, né sconfinato mare,
+Ma la triste [[Mortality|mortalità]] soverchia la loro potenza,
+Come contro tale furia potrà la [[Beauty]] muovere una difesa,
+Il cui operare non è più forte di un fiore.
 
 Cito a [[Memory|memoria]].  Comunque sia, neppure questo argomento ci costringe
 a un prematuro cogliere del fiore o a uno strappare via del sopracciglio.
@@ -14130,8 +14130,8 @@ but it is direct and even deadly considered as oratory.
 Everything is apt and telling, from the sneer at Lord Dacre's
 [[Courage|courage]] to the abrupt turn of defiant invocation:
 
-    For the young heir of Branksome's line
-    God be his aid and God be mine.
+For the young heir of Branksome's line
+God be his aid and God be mine.
 
 That is the sort of way that men like Danton and Fox did [[debate]],
 through riots and revolutions that filled Scott's own epoch.
@@ -14177,8 +14177,8 @@ Penso che i due tratti di Scott più vividi e vitali siano oggi i più invisibil
 
 Ora, Scott possedeva questa specie di eloquenza nel grado più alto. Ne varrebbe [[Well|ben]] la pena di comporre un'antologia dei soli discorsi tratti dai romanzi e dai poemetti romanzeschi di Scott. Dalla risposta del Franklin sassone a De Bracy alla maledizione di Meg Merrilees contro il Laird di Ellangowan, dal discorso con cui il bilioso Luigi XI si leva a dignità di fronte alla [[Death|morte]] al rude rifiuto di Douglas, a Tantallon, di porgere la mano a Marmion, tutti i discorsi sono animosi ed efficaci, considerati come discorsi, qualunque cosa possano valere come scritti. In ciò sta gran parte dell'errore intorno ai romanzi in versi. Non sono sempre poesia, ma sono sempre letteratura. Sono letteratura di quel genere particolare che si esprime in un'oratoria diretta e battagliera; nel discorso che sta più vicino all'azione. La replica della Dama di Branksome ai nemici che tengono in ostaggio suo figlio è quasi filastrocca, considerata come poesia; ma è diretta e persino mortale, considerata come oratoria. Tutto è appropriato ed efficace, dallo scherno per il [[Courage|coraggio]] di Lord Dacre al brusco volgersi dell'invocazione di sfida:
 
-    Per il giovane erede della stirpe di Branksome
-    Dio gli sia d'aiuto, e Dio sia d'aiuto a me.
+Per il giovane erede della stirpe di Branksome
+Dio gli sia d'aiuto, e Dio sia d'aiuto a me.
 
 È questo il modo in cui uomini come Danton e Fox conducevano il [[debate|dibattito]], tra le sommosse e le rivoluzioni che riempirono l'epoca stessa di Scott. Ed egli fu uomo della propria epoca più di quanto sapesse.
 
@@ -14593,8 +14593,8 @@ with all its botherations? ... A queer business ... pleasing
 ... anxious.  ..." Then something stirred quicker within him,
 and he said to himself, in warm poetic emotion--
 
-    For who tytumpty tumpty tumpty turn,
-    This pleasing anxious being e'er resigned.
+For who tytumpty tumpty tumpty turn,
+This pleasing anxious being e'er resigned.
 
 Then his impulse gathered [[Speed|speed]] and power; and he struck the table
 and said the next line straight off--
@@ -14654,8 +14654,8 @@ Ora, avrei pensato che chiunque sapesse che la poesia non si scrive così. Ma fo
 
 Mr. Thomas Gray sedeva una sera in una [[house|bottega]] del caffè; [[Hope|speriamo]] una [[house|bottega]] del caffè che non si limitasse al caffè. Qualcosa, un violino o qualche bicchiere di vino, o una buona cena, l'aveva gettato in una disposizione di fantasticheria, di piacevole fantasticheria, benché venata d'una virile e generosa [[Melancholy|malinconia]]. I suoi pensieri giravano e rigiravano, come fanno in tali momenti, intorno al vecchio [[Riddle|enigma]] tantalizzante di ciò che veramente sentiamo riguardo alla vita e alla [[Death|morte]]; riguardo al balocco che Dio ci diede, che è bello e fragile, eppure di certo non frivolo. Disse tra sé: «Dopotutto, chi non sente davvero che davvero importa, con tutte le sue seccature?... Un affare bizzarro... piacevole... ansioso...». Poi qualcosa si mosse più rapido dentro di lui, ed egli disse tra sé, in calda emozione poetica —
 
-    Poiché chi tarantà tarantà tarantà tara,
-    Questo essere piacevole e ansioso mai rassegnò.
+Poiché chi tarantà tarantà tarantà tara,
+Questo essere piacevole e ansioso mai rassegnò.
 
 Poi il suo impulso prese [[Speed|velocità]] e potenza; e batté sul tavolo e recitò il verso seguente d'un fiato —
 
@@ -14777,10 +14777,10 @@ homely and pungent picture of peasant life; as some have thought,
 consciously stressing the contrast between his own realism
 and the scholar's classicism:
 
-    Let not [[Ambition|ambition]] mock their useful toil,
-      Their humble joys, and destiny obscure;
-    Nor grandeur hear, with a disdainful smile,
-      The short and simple annals of the poor.
+Let not [[Ambition|ambition]] mock their useful toil,
+Their humble joys, and destiny obscure;
+Nor grandeur hear, with a disdainful smile,
+The short and simple annals of the poor.
 
 Indeed, I rather fancy that, in citing those rather patronizing lines,
 it was the poor poet who had the disdainful smile.
@@ -14826,10 +14826,10 @@ Ma il mutamento, così come restò incompiuto in Gray, somigliava stranamente ai
 
 Non vado molto matto per comitati e società di specialisti o dilettanti che siedono a deliberare su questo o quel problema; ma nel particolare problema della conservazione delle tradizioni rurali e culturali della nostra campagna, non riesco al momento a vedere che sia possibile alcun altro meccanismo. E mi sembra che la Penn-Gray Society sia un buon esempio di [[Machine|macchina]] adatta al proprio lavoro e che compie un lavoro di cui c'è bisogno. Il guaio è che il tipico inglese colto, come Gray o il tradizionale ammiratore di Gray, era generalmente una certa specie di gentiluomo, di quelli che avevano una qualche sorta di residenza di campagna. Da allora, per continuare la figura, il gentiluomo con la residenza di campagna è piuttosto caduto tra due sgabelli. Non è più tanto ricco e potente come proprietario terriero. In genere non è divenuto ricco e potente come politico locale. C'era un numero qualsiasi di uomini, s'intende, che apprezzavano la campagna senza possedere una residenza di campagna. Ma se non erano il genere d'uomini da possedere una residenza di campagna, ancor meno erano il genere d'uomini da candidarsi a un consiglio di contea. E, per come andava la vecchia organizzazione dell'Inghilterra, l'organizzazione che è andata gradualmente morendo fin dai giorni di Gray, gli uomini di questa specie artistica erano per lo più legati in qualche modo più o meno indiretto alla gentry. È questo il punto; che, nel bene o nel male, era il sistema proprio d'una gentry. Non fu mai, per esempio, il sistema proprio d'un contadinato. Quando c'è qualcosa come un contadinato, come ce n'è persino in Scozia, fu possibile produrre un poeta contadino come Burns. E la [[Memory|memoria]] d'un contadino come Burns sarebbe preservata da altri contadini, anche se non vi fosse nessun altro a preservarla. Ma nessuno potrebbe aspettarsi che i braccianti agricoli preservino la [[Memory|memoria]] d'un erudito come Gray. È spassoso ricordare che Burns pose una strofa dell'[[elegy|Elegia]] come motto al suo dimesso e pungente quadro della vita contadina; come alcuni hanno pensato, sottolineando consapevolmente il contrasto tra il proprio realismo e il classicismo dell'erudito:
 
-    Non irrida l'[[Ambition|ambizione]] la loro utile fatica,
-      le loro umili gioie, e l'oscuro destino;
-    né oda la grandezza, con sdegnoso sorriso,
-      i brevi e semplici annali del povero.
+Non irrida l'[[Ambition|ambizione]] la loro utile fatica,
+le loro umili gioie, e l'oscuro destino;
+né oda la grandezza, con sdegnoso sorriso,
+i brevi e semplici annali del povero.
 
 Anzi, sono piuttosto incline a credere che, nel citare quei versi alquanto paternalistici, fosse il povero poeta ad avere lo sdegnoso sorriso.
 

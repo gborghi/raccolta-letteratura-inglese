@@ -1076,7 +1076,7 @@ L. B. 1798.
 
 
 
-<span class="atom-split" data-atom="section_00_argument" data-title="The Rime of the Ancient Mariner — Argument" data-chapter="Section 00 argument" data-kind="section"></span>
+<span class="atom-split" data-atom="section_00_argument" data-title="The Rime of the Ancient Mariner — Argument" data-chapter="argument" data-kind="section"></span>
 
 
 IN SEVEN PARTS
@@ -1103,7 +1103,7 @@ his own Country. [L. B. 1798.]
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="The Rime of the Ancient Mariner — Part I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="The Rime of the Ancient Mariner — Part I" data-chapter="part i" data-kind="section"></span>
 
 
 PART I  
@@ -1211,7 +1211,7 @@ I shot the ALBATROSS.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="The Rime of the Ancient Mariner — Part II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="The Rime of the Ancient Mariner — Part II" data-chapter="part II" data-kind="section"></span>
 
 
 PART II  
@@ -1295,7 +1295,7 @@ About my neck was hung.
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="The Rime of the Ancient Mariner — Part III" data-chapter="Section 03 part iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="The Rime of the Ancient Mariner — Part III" data-chapter="part III" data-kind="section"></span>
 
 
 PART III  
@@ -1404,7 +1404,7 @@ Like the whizz of my [[Cross|cross]]-bow!
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="The Rime of the Ancient Mariner — Part IV" data-chapter="Section 04 part iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="The Rime of the Ancient Mariner — Part IV" data-chapter="part IV" data-kind="section"></span>
 
 
 PART IV  
@@ -1498,7 +1498,7 @@ Like lead into the sea.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="The Rime of the Ancient Mariner — Part V" data-chapter="Section 05 part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="The Rime of the Ancient Mariner — Part V" data-chapter="part v" data-kind="section"></span>
 
 
 PART V  
@@ -1640,7 +1640,7 @@ And penance more will do.’
 
 
 
-<span class="atom-split" data-atom="section_06_part_vi" data-title="The Rime of the Ancient Mariner — Part VI" data-chapter="Section 06 part vi" data-kind="section"></span>
+<span class="atom-split" data-atom="section_06_part_vi" data-title="The Rime of the Ancient Mariner — Part VI" data-chapter="part VI" data-kind="section"></span>
 
 
 PART VI  
@@ -1765,7 +1765,7 @@ The Albatross’s [[Blood|blood]].
 
 
 
-<span class="atom-split" data-atom="section_07_part_vii" data-title="The Rime of the Ancient Mariner — Part VII" data-chapter="Section 07 part vii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_07_part_vii" data-title="The Rime of the Ancient Mariner — Part VII" data-chapter="part VII" data-kind="section"></span>
 
 
 PART VII  

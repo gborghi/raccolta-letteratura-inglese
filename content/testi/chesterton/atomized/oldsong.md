@@ -33,7 +33,7 @@ That built it up with penny loaves
 And penny lies as [[Well|well]]:  
 
 And where the streets were paved with gold the shrivelled paper  
-    shone for gold,  
+shone for gold,  
 The scorching light of promises that pave the streets of hell.  
 For penny loaves will melt away, melt away, melt away,  
 Mock the men that haggled in the grain they did not grow;  
@@ -45,7 +45,7 @@ Slow down their racking din,
 Till in the stillness men could hear  
 The dropping of the pin:  
 And somewhere men without the wall, beneath the wood, without  
-    the wall,  
+the wall,  
 Had found the place where [[London]] ends and England can begin.  
 For pins and needles bend and break, bend and break, bend and break,  
 Faster than the breaking spears or the bending of the bow,  
@@ -97,7 +97,7 @@ Che la eressero con pani da un soldo
 E con menzogne da un soldo [[Well|pure]]:  
 
 E dove le vie erano lastricate d'oro la carta avvizzita  
-    splendeva come oro,  
+splendeva come oro,  
 La luce bruciante delle promesse che lastricano le vie dell'inferno.  
 Poiché i pani da un soldo si dissolveranno, si dissolveranno, si dissolveranno,  
 Beffando gli uomini che mercanteggiarono il grano che non coltivarono;  
@@ -109,7 +109,7 @@ Rallentare il loro fragore straziante,
 Finché nel silenzio si poté udire  
 Il cadere dello spillo:  
 E in qualche luogo uomini fuori le mura, sotto il bosco, fuori  
-    le mura,  
+le mura,  
 Avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
 Poiché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
 Più in fretta delle lance che si spezzano o dell'arco che si tende,  
@@ -163,7 +163,7 @@ That built it up with penny loaves
 And penny lies as [[Well|well]]:  
 
 And where the streets were paved with gold the shrivelled paper  
-    shone for gold,  
+shone for gold,  
 The scorching light of promises that pave the streets of hell.  
 For penny loaves will melt away, melt away, melt away,  
 Mock the men that haggled in the grain they did not grow;  
@@ -175,7 +175,7 @@ Slow down their racking din,
 Till in the stillness men could hear  
 The dropping of the pin:  
 And somewhere men without the wall, beneath the wood, without  
-    the wall,  
+the wall,  
 Had found the place where [[London]] ends and England can begin.  
 For pins and needles bend and break, bend and break, bend and break,  
 Faster than the breaking spears or the bending of the bow,  
@@ -227,7 +227,7 @@ Che la eressero con pani da un soldo
 E con menzogne da un soldo [[Well|pure]]:  
 
 E dove le vie erano lastricate d'oro la carta avvizzita  
-    splendeva come oro,  
+splendeva come oro,  
 La luce bruciante delle promesse che lastricano le vie dell'inferno.  
 Poiché i pani da un soldo si dissolveranno, si dissolveranno, si dissolveranno,  
 Beffando gli uomini che mercanteggiarono il grano che non coltivarono;  
@@ -239,7 +239,7 @@ Rallentare il loro fragore straziante,
 Finché nel silenzio si poté udire  
 Il cadere dello spillo:  
 E in qualche luogo uomini fuori le mura, sotto il bosco, fuori  
-    le mura,  
+le mura,  
 Avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
 Poiché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
 Più in fretta delle lance che si spezzano o dell'arco che si tende,  

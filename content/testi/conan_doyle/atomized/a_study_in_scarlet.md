@@ -974,7 +974,7 @@ My companion smiled an enigmatical smile. “That’s just his little peculiarit
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_science_of_deduction" data-title="A STUDY IN SCARLET — Chapter 2: THE SCIENCE OF DEDUCTION" data-chapter="Chapter 02 THE SCIENCE OF DEDUCTION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_the_science_of_deduction" data-title="A STUDY IN SCARLET — Chapter 2: THE SCIENCE OF DEDUCTION" data-chapter="THE SCIENCE OF DEDUCTION" data-kind="chapter"></span>
 
 
 CHAPTER II. THE SCIENCE OF DEDUCTION.
@@ -1054,7 +1054,7 @@ He clicked his heels together, raised his hand in a salute, and was gone.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_lauriston_garden_mystery" data-title="A STUDY IN SCARLET — Chapter 3: THE LAURISTON GARDEN MYSTERY" data-chapter="Chapter 03 THE LAURISTON GARDEN MYSTERY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_the_lauriston_garden_mystery" data-title="A STUDY IN SCARLET — Chapter 3: THE LAURISTON GARDEN MYSTERY" data-chapter="THE LAURISTON GARDEN MYSTERY" data-kind="chapter"></span>
 
 
 CHAPTER III. THE LAURISTON GARDEN MYSTERY
@@ -1165,7 +1165,7 @@ With which Parthian shot he walked away, leaving the two rivals open-mouthed beh
 
 
 
-<span class="atom-split" data-atom="chapter_04_what_john_rance_had_to_tell" data-title="A STUDY IN SCARLET — Chapter 4: WHAT JOHN RANCE HAD TO TELL" data-chapter="Chapter 04 WHAT JOHN RANCE HAD TO TELL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_what_john_rance_had_to_tell" data-title="A STUDY IN SCARLET — Chapter 4: WHAT JOHN RANCE HAD TO TELL" data-chapter="WHAT JOHN RANCE HAD TO TELL" data-kind="chapter"></span>
 
 
 CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.
@@ -1230,7 +1230,7 @@ Leaning back in the cab, this amateur bloodhound carolled away like a lark while
 
 
 
-<span class="atom-split" data-atom="chapter_05_our_advertisement_brings_a_vis" data-title="A STUDY IN SCARLET — Chapter 5: OUR ADVERTISEMENT BRINGS A VISITOR" data-chapter="Chapter 05 OUR ADVERTISEMENT BRINGS A VIS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_our_advertisement_brings_a_vis" data-title="A STUDY IN SCARLET — Chapter 5: OUR ADVERTISEMENT BRINGS A VISITOR" data-chapter="OUR ADVERTISEMENT BRINGS A VIS" data-kind="chapter"></span>
 
 
 CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.
@@ -1292,7 +1292,7 @@ I was certainly feeling very weary, so I obeyed his injunction. I left Holmes se
 
 
 
-<span class="atom-split" data-atom="chapter_06_tobias_gregson_shows_what_he_c" data-title="A STUDY IN SCARLET — Chapter 6: TOBIAS GREGSON SHOWS WHAT HE CAN DO" data-chapter="Chapter 06 TOBIAS GREGSON SHOWS WHAT HE C" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_tobias_gregson_shows_what_he_c" data-title="A STUDY IN SCARLET — Chapter 6: TOBIAS GREGSON SHOWS WHAT HE CAN DO" data-chapter="TOBIAS GREGSON SHOWS WHAT HE C" data-kind="chapter"></span>
 
 
 CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.
@@ -1388,7 +1388,7 @@ It was indeed Lestrade, who had ascended the stairs while we were talking, and w
 
 
 
-<span class="atom-split" data-atom="chapter_07_light_in_the_darkness" data-title="A STUDY IN SCARLET — Chapter 7: LIGHT IN THE DARKNESS" data-chapter="Chapter 07 LIGHT IN THE DARKNESS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_light_in_the_darkness" data-title="A STUDY IN SCARLET — Chapter 7: LIGHT IN THE DARKNESS" data-chapter="LIGHT IN THE DARKNESS" data-kind="chapter"></span>
 
 
 CHAPTER VII. LIGHT IN THE DARKNESS.
@@ -1463,7 +1463,7 @@ The Country of the Saints.
 
 
 
-<span class="atom-split" data-atom="chapter_09_on_the_great_alkali_plain" data-title="A STUDY IN SCARLET — Chapter 1: ON THE GREAT ALKALI PLAIN" data-chapter="Chapter 09 ON THE GREAT ALKALI PLAIN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_on_the_great_alkali_plain" data-title="A STUDY IN SCARLET — Chapter 1: ON THE GREAT ALKALI PLAIN" data-chapter="ON THE GREAT ALKALI PLAIN" data-kind="chapter"></span>
 
 
 CHAPTER I. ON THE GREAT ALKALI PLAIN.
@@ -1539,7 +1539,7 @@ They had reached the base of the hill by this time, and were surrounded by crowd
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_flower_of_utah" data-title="A STUDY IN SCARLET — Chapter 2: THE FLOWER OF UTAH" data-chapter="Chapter 10 THE FLOWER OF UTAH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_the_flower_of_utah" data-title="A STUDY IN SCARLET — Chapter 2: THE FLOWER OF UTAH" data-chapter="THE FLOWER OF UTAH" data-kind="chapter"></span>
 
 
 CHAPTER II. THE FLOWER OF UTAH.
@@ -1578,7 +1578,7 @@ He tore himself from her as he spoke, and, flinging himself upon his horse, gall
 
 
 
-<span class="atom-split" data-atom="chapter_11_john_ferrier_talks_with_the_pr" data-title="A STUDY IN SCARLET — Chapter 3: JOHN FERRIER TALKS WITH THE PROPHET" data-chapter="Chapter 11 JOHN FERRIER TALKS WITH THE PR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_john_ferrier_talks_with_the_pr" data-title="A STUDY IN SCARLET — Chapter 3: JOHN FERRIER TALKS WITH THE PROPHET" data-chapter="JOHN FERRIER TALKS WITH THE PR" data-kind="chapter"></span>
 
 
 CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.
@@ -1623,7 +1623,7 @@ John Ferrier uttered these consoling remarks in a very confident tone, but she c
 
 
 
-<span class="atom-split" data-atom="chapter_12_a_flight_for_life" data-title="A STUDY IN SCARLET — Chapter 4: A FLIGHT FOR LIFE" data-chapter="Chapter 12 A FLIGHT FOR LIFE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_a_flight_for_life" data-title="A STUDY IN SCARLET — Chapter 4: A FLIGHT FOR LIFE" data-chapter="A FLIGHT FOR LIFE" data-kind="chapter"></span>
 
 
 CHAPTER IV. A FLIGHT FOR LIFE.
@@ -1695,7 +1695,7 @@ They could see the lonely watcher fingering his gun, and peering down at them as
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_avenging_angels" data-title="A STUDY IN SCARLET — Chapter 5: THE AVENGING ANGELS" data-chapter="Chapter 13 THE AVENGING ANGELS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_avenging_angels" data-title="A STUDY IN SCARLET — Chapter 5: THE AVENGING ANGELS" data-chapter="THE AVENGING ANGELS" data-kind="chapter"></span>
 
 
 CHAPTER V. THE AVENGING ANGELS.
@@ -1736,7 +1736,7 @@ Again the [[Avenger|avenger]] had been foiled, and again his concentrated hatred
 
 
 
-<span class="atom-split" data-atom="chapter_14_a_continuation_of_the_reminisc" data-title="A STUDY IN SCARLET — Chapter 6: A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D" data-chapter="Chapter 14 A CONTINUATION OF THE REMINISC" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_a_continuation_of_the_reminisc" data-title="A STUDY IN SCARLET — Chapter 6: A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D" data-chapter="A CONTINUATION OF THE REMINISC" data-kind="chapter"></span>
 
 
 CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.
@@ -1800,7 +1800,7 @@ The prisoner winked at my friend jocosely. “I can tell my own [[Secrets|secret
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_conclusion" data-title="A STUDY IN SCARLET — Chapter 7: THE CONCLUSION" data-chapter="Chapter 15 THE CONCLUSION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_the_conclusion" data-title="A STUDY IN SCARLET — Chapter 7: THE CONCLUSION" data-chapter="THE CONCLUSION" data-kind="chapter"></span>
 
 
 CHAPTER VII. THE CONCLUSION.

@@ -1446,7 +1446,7 @@ The grave of [[Sir Arthur Conan Doyle]]
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_psychic_quest" data-title="MEMORIES AND ADVENTURES — Chapter 32: THE PSYCHIC QUEST" data-chapter="Chapter 01 THE PSYCHIC QUEST" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_psychic_quest" data-title="MEMORIES AND ADVENTURES — Chapter 32: THE PSYCHIC QUEST" data-chapter="THE PSYCHIC QUEST" data-kind="chapter"></span>
 
 
 CHAPTER XXXII. THE PSYCHIC QUEST
@@ -1459,7 +1459,7 @@ Crowborough, June, 1924.
 
 
 
-<span class="atom-split" data-atom="chapter_02_early_recollections" data-title="MEMORIES AND ADVENTURES — Chapter 1: EARLY RECOLLECTIONS" data-chapter="Chapter 02 EARLY RECOLLECTIONS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_early_recollections" data-title="MEMORIES AND ADVENTURES — Chapter 1: EARLY RECOLLECTIONS" data-chapter="EARLY RECOLLECTIONS" data-kind="chapter"></span>
 
 
 CHAPTER I. EARLY RECOLLECTIONS
@@ -1485,7 +1485,7 @@ During these first ten years I was a rapid reader, so rapid that some small libr
 
 
 
-<span class="atom-split" data-atom="chapter_03_under_the_jesuits" data-title="MEMORIES AND ADVENTURES — Chapter 2: UNDER THE JESUITS" data-chapter="Chapter 03 UNDER THE JESUITS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_under_the_jesuits" data-title="MEMORIES AND ADVENTURES — Chapter 2: UNDER THE JESUITS" data-chapter="UNDER THE JESUITS" data-kind="chapter"></span>
 
 
 CHAPTER II. UNDER THE JESUITS
@@ -1514,7 +1514,7 @@ So, for some penurious weeks, I was in Paris with this dear old volcanic Irishma
 
 
 
-<span class="atom-split" data-atom="chapter_04_recollections_of_a_student" data-title="MEMORIES AND ADVENTURES — Chapter 3: RECOLLECTIONS OF A STUDENT" data-chapter="Chapter 04 RECOLLECTIONS OF A STUDENT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_recollections_of_a_student" data-title="MEMORIES AND ADVENTURES — Chapter 3: RECOLLECTIONS OF A STUDENT" data-chapter="RECOLLECTIONS OF A STUDENT" data-kind="chapter"></span>
 
 
 CHAPTER III. RECOLLECTIONS OF A STUDENT
@@ -1550,7 +1550,7 @@ And now I come to the first real outstanding adventure in my life, which is wort
 
 
 
-<span class="atom-split" data-atom="chapter_05_whaling_in_the_arctic_ocean" data-title="MEMORIES AND ADVENTURES — Chapter 4: WHALING IN THE ARCTIC OCEAN" data-chapter="Chapter 05 WHALING IN THE ARCTIC OCEAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_whaling_in_the_arctic_ocean" data-title="MEMORIES AND ADVENTURES — Chapter 4: WHALING IN THE ARCTIC OCEAN" data-chapter="WHALING IN THE ARCTIC OCEAN" data-kind="chapter"></span>
 
 
 CHAPTER IV. WHALING IN THE ARCTIC OCEAN
@@ -1595,7 +1595,7 @@ Now I had a straight run in to my final examination, which I passed with fair bu
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_voyage_to_west_africa" data-title="MEMORIES AND ADVENTURES — Chapter 5: THE VOYAGE TO WEST AFRICA" data-chapter="Chapter 06 THE VOYAGE TO WEST AFRICA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_the_voyage_to_west_africa" data-title="MEMORIES AND ADVENTURES — Chapter 5: THE VOYAGE TO WEST AFRICA" data-chapter="THE VOYAGE TO WEST AFRICA" data-kind="chapter"></span>
 
 
 CHAPTER V. THE VOYAGE TO WEST [[Africa|AFRICA]]
@@ -1632,7 +1632,7 @@ On January 14 we were in Liverpool once more, and West Africa was but one more o
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_experiences_in_practi" data-title="MEMORIES AND ADVENTURES — Chapter 6: MY FIRST EXPERIENCES IN PRACTICE" data-chapter="Chapter 07 MY FIRST EXPERIENCES IN PRACTI" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_experiences_in_practi" data-title="MEMORIES AND ADVENTURES — Chapter 6: MY FIRST EXPERIENCES IN PRACTICE" data-chapter="MY FIRST EXPERIENCES IN PRACTI" data-kind="chapter"></span>
 
 
 CHAPTER VI. MY FIRST EXPERIENCES IN PRACTICE
@@ -1657,7 +1657,7 @@ For a moment I was staggered. But my boats were burned and I must go forward. I 
 
 
 
-<span class="atom-split" data-atom="chapter_08_my_start_at_southsea" data-title="MEMORIES AND ADVENTURES — Chapter 7: MY START AT SOUTHSEA" data-chapter="Chapter 08 MY START AT SOUTHSEA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_my_start_at_southsea" data-title="MEMORIES AND ADVENTURES — Chapter 7: MY START AT SOUTHSEA" data-chapter="MY START AT SOUTHSEA" data-kind="chapter"></span>
 
 
 CHAPTER VII. MY START AT SOUTHSEA
@@ -1684,7 +1684,7 @@ Up to now the main interest of my life lay in my medical career. But with the mo
 
 
 
-<span class="atom-split" data-atom="chapter_09_my_first_literary_success" data-title="MEMORIES AND ADVENTURES — Chapter 8: MY FIRST LITERARY SUCCESS" data-chapter="Chapter 09 MY FIRST LITERARY SUCCESS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_my_first_literary_success" data-title="MEMORIES AND ADVENTURES — Chapter 8: MY FIRST LITERARY SUCCESS" data-chapter="MY FIRST LITERARY SUCCESS" data-kind="chapter"></span>
 
 
 CHAPTER VIII. MY FIRST LITERARY SUCCESS
@@ -1718,7 +1718,7 @@ It brought me into closer contact with the savage-looking medico, who proved to 
 
 
 
-<span class="atom-split" data-atom="chapter_10_pulling_up_the_anchor" data-title="MEMORIES AND ADVENTURES — Chapter 9: PULLING UP THE ANCHOR" data-chapter="Chapter 10 PULLING UP THE ANCHOR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_pulling_up_the_anchor" data-title="MEMORIES AND ADVENTURES — Chapter 9: PULLING UP THE ANCHOR" data-chapter="PULLING UP THE ANCHOR" data-kind="chapter"></span>
 
 
 CHAPTER IX. PULLING UP THE ANCHOR
@@ -1745,7 +1745,7 @@ What with the Literary Society and the politicians I left a gap behind me in Por
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_great_break" data-title="MEMORIES AND ADVENTURES — Chapter 10: THE GREAT BREAK" data-chapter="Chapter 11 THE GREAT BREAK" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_the_great_break" data-title="MEMORIES AND ADVENTURES — Chapter 10: THE GREAT BREAK" data-chapter="THE GREAT BREAK" data-kind="chapter"></span>
 
 
 CHAPTER X. THE GREAT BREAK
@@ -1772,7 +1772,7 @@ Among those figures there may perhaps be an astute detective also, but I find th
 
 
 
-<span class="atom-split" data-atom="chapter_12_sidelights_on_sherlock_holmes" data-title="MEMORIES AND ADVENTURES — Chapter 11: SIDELIGHTS ON SHERLOCK HOLMES" data-chapter="Chapter 12 SIDELIGHTS ON SHERLOCK HOLMES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_sidelights_on_sherlock_holmes" data-title="MEMORIES AND ADVENTURES — Chapter 11: SIDELIGHTS ON SHERLOCK HOLMES" data-chapter="SIDELIGHTS ON SHERLOCK HOLMES" data-kind="chapter"></span>
 
 
 CHAPTER XI. SIDELIGHTS ON [[Sherlock Holmes|SHERLOCK HOLMES]]
@@ -1864,7 +1864,7 @@ I must now apologise for this digressive chapter and return to the orderly seque
 
 
 
-<span class="atom-split" data-atom="chapter_13_norwood_and_switzerland" data-title="MEMORIES AND ADVENTURES — Chapter 12: NORWOOD AND SWITZERLAND" data-chapter="Chapter 13 NORWOOD AND SWITZERLAND" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_norwood_and_switzerland" data-title="MEMORIES AND ADVENTURES — Chapter 12: NORWOOD AND SWITZERLAND" data-chapter="NORWOOD AND SWITZERLAND" data-kind="chapter"></span>
 
 
 CHAPTER XII. NORWOOD AND SWITZERLAND
@@ -1893,7 +1893,7 @@ The Davos season was in full blast when I returned, and my wife was holding her 
 
 
 
-<span class="atom-split" data-atom="chapter_14_egypt_in_1896" data-title="MEMORIES AND ADVENTURES — Chapter 13: EGYPT IN 1896" data-chapter="Chapter 14 EGYPT IN 1896" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_egypt_in_1896" data-title="MEMORIES AND ADVENTURES — Chapter 13: EGYPT IN 1896" data-chapter="EGYPT IN 1896" data-kind="chapter"></span>
 
 
 CHAPTER XIII. EGYPT IN 1896
@@ -1926,7 +1926,7 @@ Next evening Colonel Lewis and I were back in Cairo. We heard no news upon the w
 
 
 
-<span class="atom-split" data-atom="chapter_15_on_the_edge_of_a_storm" data-title="MEMORIES AND ADVENTURES — Chapter 14: ON THE EDGE OF A STORM" data-chapter="Chapter 15 ON THE EDGE OF A STORM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_on_the_edge_of_a_storm" data-title="MEMORIES AND ADVENTURES — Chapter 14: ON THE EDGE OF A STORM" data-chapter="ON THE EDGE OF A STORM" data-kind="chapter"></span>
 
 
 CHAPTER XIV. ON THE EDGE OF A STORM
@@ -1958,7 +1958,7 @@ So that was the end of our frontier adventure. We had been on the edge of war bu
 
 
 
-<span class="atom-split" data-atom="chapter_16_an_interlude_of_peace" data-title="MEMORIES AND ADVENTURES — Chapter 15: AN INTERLUDE OF PEACE" data-chapter="Chapter 16 AN INTERLUDE OF PEACE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_an_interlude_of_peace" data-title="MEMORIES AND ADVENTURES — Chapter 15: AN INTERLUDE OF PEACE" data-chapter="AN INTERLUDE OF PEACE" data-kind="chapter"></span>
 
 
 CHAPTER XV. AN INTERLUDE OF PEACE
@@ -2006,7 +2006,7 @@ All seemed placid at this time. My wife was holding her own in winter as well as
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_start_for_south_africa" data-title="MEMORIES AND ADVENTURES — Chapter 16: THE START FOR SOUTH AFRICA" data-chapter="Chapter 17 THE START FOR SOUTH AFRICA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_the_start_for_south_africa" data-title="MEMORIES AND ADVENTURES — Chapter 16: THE START FOR SOUTH AFRICA" data-chapter="THE START FOR SOUTH AFRICA" data-kind="chapter"></span>
 
 
 CHAPTER XVI. THE START FOR [[South [[Africa]]|SOUTH [[Africa|AFRICA]]]]
@@ -2054,7 +2054,7 @@ The move of Hamilton’s was really the beginning of the great advance, and havi
 
 
 
-<span class="atom-split" data-atom="chapter_18_days_with_the_army" data-title="MEMORIES AND ADVENTURES — Chapter 17: DAYS WITH THE ARMY" data-chapter="Chapter 18 DAYS WITH THE ARMY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_days_with_the_army" data-title="MEMORIES AND ADVENTURES — Chapter 17: DAYS WITH THE ARMY" data-chapter="DAYS WITH THE ARMY" data-kind="chapter"></span>
 
 
 CHAPTER XVII. DAYS WITH THE ARMY
@@ -2190,7 +2190,7 @@ A day at Brandfort, a night in an open truck, and we were back at the Café Ente
 
 
 
-<span class="atom-split" data-atom="chapter_19_final_experiences_in_south_afr" data-title="MEMORIES AND ADVENTURES — Chapter 18: FINAL EXPERIENCES IN SOUTH AFRICA" data-chapter="Chapter 19 FINAL EXPERIENCES IN SOUTH AFR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_final_experiences_in_south_afr" data-title="MEMORIES AND ADVENTURES — Chapter 18: FINAL EXPERIENCES IN SOUTH AFRICA" data-chapter="FINAL EXPERIENCES IN SOUTH AFR" data-kind="chapter"></span>
 
 
 CHAPTER XVIII. FINAL EXPERIENCES IN [[South [[Africa]]|SOUTH [[Africa|AFRICA]]]]
@@ -2231,7 +2231,7 @@ The first days of August saw me in London once more, and soon all that strange e
 
 
 
-<span class="atom-split" data-atom="chapter_20_an_appeal_to_the_worlds_opinio" data-title="MEMORIES AND ADVENTURES — Chapter 19: AN APPEAL TO THE WORLD’S OPINION" data-chapter="Chapter 20 AN APPEAL TO THE WORLDS OPINIO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_an_appeal_to_the_worlds_opinio" data-title="MEMORIES AND ADVENTURES — Chapter 19: AN APPEAL TO THE WORLD’S OPINION" data-chapter="AN APPEAL TO THE WORLDS OPINIO" data-kind="chapter"></span>
 
 
 CHAPTER XIX. AN APPEAL TO THE WORLD’S OPINION
@@ -2274,7 +2274,7 @@ The one abiding impression left upon my mind by the whole episode is that our Go
 
 
 
-<span class="atom-split" data-atom="chapter_21_my_political_adventures" data-title="MEMORIES AND ADVENTURES — Chapter 20: MY POLITICAL ADVENTURES" data-chapter="Chapter 21 MY POLITICAL ADVENTURES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_my_political_adventures" data-title="MEMORIES AND ADVENTURES — Chapter 20: MY POLITICAL ADVENTURES" data-chapter="MY POLITICAL ADVENTURES" data-kind="chapter"></span>
 
 
 CHAPTER XX. MY POLITICAL ADVENTURES
@@ -2306,7 +2306,7 @@ Thus ended my career in politics. I could say with my friend Kendrick Bangs: “
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_years_between_the_wars" data-title="MEMORIES AND ADVENTURES — Chapter 21: THE YEARS BETWEEN THE WARS" data-chapter="Chapter 22 THE YEARS BETWEEN THE WARS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_the_years_between_the_wars" data-title="MEMORIES AND ADVENTURES — Chapter 21: THE YEARS BETWEEN THE WARS" data-chapter="THE YEARS BETWEEN THE WARS" data-kind="chapter"></span>
 
 
 CHAPTER XXI. THE YEARS BETWEEN THE WARS
@@ -2371,7 +2371,7 @@ Yours faithfully, Arthur Conan Doyle.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_years_between_the_wars" data-title="MEMORIES AND ADVENTURES — Chapter 22: THE YEARS BETWEEN THE WARS" data-chapter="Chapter 23 THE YEARS BETWEEN THE WARS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_the_years_between_the_wars" data-title="MEMORIES AND ADVENTURES — Chapter 22: THE YEARS BETWEEN THE WARS" data-chapter="THE YEARS BETWEEN THE WARS" data-kind="chapter"></span>
 
 
 CHAPTER XXII. THE YEARS BETWEEN THE WARS
@@ -2411,7 +2411,7 @@ Such are some of the vicissitudes which cannot be disregarded in a retrospect of
 
 
 
-<span class="atom-split" data-atom="chapter_24_some_notable_people" data-title="MEMORIES AND ADVENTURES — Chapter 23: SOME NOTABLE PEOPLE" data-chapter="Chapter 24 SOME NOTABLE PEOPLE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24_some_notable_people" data-title="MEMORIES AND ADVENTURES — Chapter 23: SOME NOTABLE PEOPLE" data-chapter="SOME NOTABLE PEOPLE" data-kind="chapter"></span>
 
 
 CHAPTER XXIII. SOME NOTABLE PEOPLE
@@ -2495,7 +2495,7 @@ Another distinguished man of the law who left a very clear impression upon my mi
 
 
 
-<span class="atom-split" data-atom="chapter_25_some_recollections_of_sport" data-title="MEMORIES AND ADVENTURES — Chapter 24: SOME RECOLLECTIONS OF SPORT" data-chapter="Chapter 25 SOME RECOLLECTIONS OF SPORT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25_some_recollections_of_sport" data-title="MEMORIES AND ADVENTURES — Chapter 24: SOME RECOLLECTIONS OF SPORT" data-chapter="SOME RECOLLECTIONS OF SPORT" data-kind="chapter"></span>
 
 
 CHAPTER XXIV. SOME RECOLLECTIONS OF SPORT
@@ -2576,7 +2576,7 @@ On the whole as I look back there is no regret in my mind for the time that I ha
 
 
 
-<span class="atom-split" data-atom="chapter_26_to_the_rocky_mountains_in_1914" data-title="MEMORIES AND ADVENTURES — Chapter 25: TO THE ROCKY MOUNTAINS IN 1914" data-chapter="Chapter 26 TO THE ROCKY MOUNTAINS IN 1914" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_to_the_rocky_mountains_in_1914" data-title="MEMORIES AND ADVENTURES — Chapter 25: TO THE ROCKY MOUNTAINS IN 1914" data-chapter="TO THE ROCKY MOUNTAINS IN 1914" data-kind="chapter"></span>
 
 
 CHAPTER XXV. TO THE ROCKY MOUNTAINS IN 1914
@@ -2625,7 +2625,7 @@ And now I turn to the war, the physical climax of my life as it must be of the l
 
 
 
-<span class="atom-split" data-atom="chapter_27_the_eve_of_war" data-title="MEMORIES AND ADVENTURES — Chapter 26: THE EVE OF WAR" data-chapter="Chapter 27 THE EVE OF WAR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27_the_eve_of_war" data-title="MEMORIES AND ADVENTURES — Chapter 26: THE EVE OF WAR" data-chapter="THE EVE OF WAR" data-kind="chapter"></span>
 
 
 CHAPTER XXVI. THE EVE OF WAR
@@ -2734,7 +2734,7 @@ If this letter, even now, were posted up by the Free State and Northern Governme
 
 
 
-<span class="atom-split" data-atom="chapter_28_a_remembrance_of_the_dark_year" data-title="MEMORIES AND ADVENTURES — Chapter 27: A REMEMBRANCE OF THE DARK YEARS" data-chapter="Chapter 28 A REMEMBRANCE OF THE DARK YEAR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28_a_remembrance_of_the_dark_year" data-title="MEMORIES AND ADVENTURES — Chapter 27: A REMEMBRANCE OF THE DARK YEARS" data-chapter="A REMEMBRANCE OF THE DARK YEAR" data-kind="chapter"></span>
 
 
 CHAPTER XXVII. A REMEMBRANCE OF THE DARK YEARS
@@ -2770,7 +2770,7 @@ Our household suffered terribly in the war. The first to fall was my wife’s br
 
 
 
-<span class="atom-split" data-atom="chapter_29_experiences_on_the_british_fro" data-title="MEMORIES AND ADVENTURES — Chapter 28: EXPERIENCES ON THE BRITISH FRONT" data-chapter="Chapter 29 EXPERIENCES ON THE BRITISH FRO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29_experiences_on_the_british_fro" data-title="MEMORIES AND ADVENTURES — Chapter 28: EXPERIENCES ON THE BRITISH FRONT" data-chapter="EXPERIENCES ON THE BRITISH FRO" data-kind="chapter"></span>
 
 
 CHAPTER XXVIII. EXPERIENCES ON THE BRITISH FRONT
@@ -2832,7 +2832,7 @@ I had two days in Paris — a very dead and alive Paris, such a Paris as has sel
 
 
 
-<span class="atom-split" data-atom="chapter_30_experiences_on_the_italian_fro" data-title="MEMORIES AND ADVENTURES — Chapter 29: EXPERIENCES ON THE ITALIAN FRONT" data-chapter="Chapter 30 EXPERIENCES ON THE ITALIAN FRO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30_experiences_on_the_italian_fro" data-title="MEMORIES AND ADVENTURES — Chapter 29: EXPERIENCES ON THE ITALIAN FRONT" data-chapter="EXPERIENCES ON THE ITALIAN FRO" data-kind="chapter"></span>
 
 
 CHAPTER XXIX. EXPERIENCES ON THE ITALIAN FRONT
@@ -2857,7 +2857,7 @@ There is the fact, amply proved by documents and beyond all possible coincidence
 
 
 
-<span class="atom-split" data-atom="chapter_31_experiences_on_the_french_fron" data-title="MEMORIES AND ADVENTURES — Chapter 30: EXPERIENCES ON THE FRENCH FRONT" data-chapter="Chapter 31 EXPERIENCES ON THE FRENCH FRON" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31_experiences_on_the_french_fron" data-title="MEMORIES AND ADVENTURES — Chapter 30: EXPERIENCES ON THE FRENCH FRONT" data-chapter="EXPERIENCES ON THE FRENCH FRON" data-kind="chapter"></span>
 
 
 CHAPTER XXX. EXPERIENCES ON THE FRENCH FRONT
@@ -2902,7 +2902,7 @@ Yours very truly, W. R. Robertson.
 
 
 
-<span class="atom-split" data-atom="chapter_32_breaking_the_hindenburg_line" data-title="MEMORIES AND ADVENTURES — Chapter 31: BREAKING THE HINDENBURG LINE" data-chapter="Chapter 32 BREAKING THE HINDENBURG LINE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32_breaking_the_hindenburg_line" data-title="MEMORIES AND ADVENTURES — Chapter 31: BREAKING THE HINDENBURG LINE" data-chapter="BREAKING THE HINDENBURG LINE" data-kind="chapter"></span>
 
 
 CHAPTER XXXI. BREAKING THE HINDENBURG LINE
@@ -2948,7 +2948,7 @@ And then at last came the blessed day of Armistice. I was in a staid [[London]] 
 
 
 
-<span class="atom-split" data-atom="chapter_33_the_psychic_quest" data-title="MEMORIES AND ADVENTURES — Chapter 32: THE PSYCHIC QUEST" data-chapter="Chapter 33 THE PSYCHIC QUEST" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33_the_psychic_quest" data-title="MEMORIES AND ADVENTURES — Chapter 32: THE PSYCHIC QUEST" data-chapter="THE PSYCHIC QUEST" data-kind="chapter"></span>
 
 
 CHAPTER XXXII. THE PSYCHIC QUEST

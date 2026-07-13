@@ -16,9 +16,9 @@ tags:
 
 THE TWELVE MEN
 
-			  G.K. Chesterton
+G.K. Chesterton
 
-		  From "Tremendous Trifles" (1909)
+From "Tremendous Trifles" (1909)
 
 The other day, while I was meditating on [[morality]] and Mr. H. Pitt,
 I was, so to speak, snatched up and put into a jury box to try people.
@@ -158,9 +158,9 @@ if I remember right, by the Founder of [[Christianity]].
 
 THE TWELVE MEN
 
-			  G.K. Chesterton
+G.K. Chesterton
 
-		  From "Tremendous Trifles" (1909)
+From "Tremendous Trifles" (1909)
 
 The other day, while I was meditating on [[morality]] and Mr. H. Pitt,
 I was, so to speak, snatched up and put into a jury box to try people.

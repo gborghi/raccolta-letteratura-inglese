@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="divorce" data-title="The Superstition of Divorce" data-chapter="" data-kind="intro"></span>
 
-# [[divorce]]
 
 The Superstition of [[divorce|Divorce]]
 
@@ -21,16 +20,16 @@ The Superstition of [[divorce|Divorce]]
 
 by G.K. Chesterton
 
-      Introductory Note
-    I The Superstition of [[divorce|Divorce]] (1)
-   II The Superstition of [[divorce|Divorce]] (2)
-  III The Superstition of [[divorce|Divorce]] (3)
-   IV The Superstition of [[divorce|Divorce]] (4)
-    V The Story of the Family
-   VI The Story of the Vow
-  VII The Tragedies of [[Marriage]]
- VIII The Vista of [[divorce|Divorce]]
-   IX Conclusion
+Introductory Note
+I The Superstition of [[divorce|Divorce]] (1)
+II The Superstition of [[divorce|Divorce]] (2)
+III The Superstition of [[divorce|Divorce]] (3)
+IV The Superstition of [[divorce|Divorce]] (4)
+V The Story of the Family
+VI The Story of the Vow
+VII The Tragedies of [[Marriage]]
+VIII The Vista of [[divorce|Divorce]]
+IX Conclusion
 
 --/--
 
@@ -2240,7 +2239,6 @@ see the light.
 
 <span class="atom-split" data-atom="chapter_03" data-title="The Superstition of Divorce — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
 
-# [[divorce]] — Chapter 3
 
 III
 
@@ -2415,7 +2413,6 @@ And the experience of mankind points the other way.
 
 <span class="atom-split" data-atom="chapter_04" data-title="The Superstition of Divorce — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
 
-# [[divorce]] — Chapter 4
 
 IV
 
@@ -2574,7 +2571,6 @@ of what the latest enlightenment can only slowly discover in the end.
 
 <span class="atom-split" data-atom="chapter_09" data-title="The Superstition of Divorce — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
 
-# [[divorce]] — Chapter 9
 
 IX
 
@@ -2707,7 +2703,6 @@ mai la luce.
 
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Superstition of Divorce — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 1 (part 1)
 
 I
 
@@ -2826,7 +2821,6 @@ in his opinion, [[The Professor|the professor]] seems to require a keeper.
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Superstition of Divorce — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 1 (part 2)
 
 And that is doubtless the situation in the controversies about [[divorce]]
 and [[Marriage|marriage]] to-day. It is the Christian church which continues
@@ -2921,7 +2915,6 @@ national loyalty, some of us would have deserted our nation long ago.
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Superstition of Divorce — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 2 (part 1)
 
 II
 
@@ -3035,7 +3028,6 @@ but it may be true of Mrs. Brown that she might have been a Robinson.
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="The Superstition of Divorce — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 2 (part 2)
 
 Now it is not at all hard to see why this small community,
 so specially free touching its cause, should yet be specially bound
@@ -3168,7 +3160,6 @@ Why must he [[Love|love]] as he pleases; when he may not even live as he pleases
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="The Superstition of Divorce — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 2 (part 3)
 
 The answer is, I regret to say, that this social campaign,
 in most though by no means all of its most prominent campaigners,
@@ -3275,7 +3266,6 @@ fugace come una visione è reso permanente come un voto.
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="The Superstition of Divorce — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 5 (part 1)
 
 V
 
@@ -3382,7 +3372,6 @@ of children is a graceful and legitimate flourish of speech.
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="The Superstition of Divorce — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 5 (part 2)
 
 This triangle of truisms, of father, mother and [[Child|child]], cannot
 be destroyed; it can only destroy those civilisations which disregard it.
@@ -3492,7 +3481,6 @@ resistance to tyranny.  A man must be not only free, but free-born.
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Superstition of Divorce — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 5 (part 3)
 
 Indeed, there is something in the family that might loosely
 be called anarchist; and more correctly called amateur.
@@ -3644,7 +3632,6 @@ to the human family of father, mother and [[Child|child]].
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Superstition of Divorce — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 6 (part 1)
 
 VI
 
@@ -3756,7 +3743,6 @@ or rather has tried to be, and has failed.
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="The Superstition of Divorce — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 6 (part 2)
 
 The outstanding example of status was [[Slavery|slavery]].  Needless to say
 [[Slavery|slavery]] does not mean tyranny; indeed it need only be regarded
@@ -3864,7 +3850,6 @@ vows at any ordinary wedding in any ordinary church.
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="The Superstition of Divorce — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 6 (part 3)
 
 Such, in very vague outline, has been the historical [[Nature|nature]]
 of vows; and the unique part they played in that mediaeval
@@ -3997,7 +3982,6 @@ against [[Slavery|slavery]] has not always been the breaking up of families.
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="The Superstition of Divorce — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 7 (part 1)
 
 VII
 
@@ -4142,7 +4126,6 @@ is the veil that makes the bride.
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="The Superstition of Divorce — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 7 (part 2)
 
 What is respected, in short, is the fidelity to the ancient
 [[Flag|flag]] of the family, and a readiness to fight for what I have
@@ -4239,7 +4222,6 @@ and even dishonour is not always a remedy for remorse.
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="The Superstition of Divorce — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 7 (part 3)
 
 The next limitation to be laid down in the matter affects certain
 practical forms of discomforts on a level rather lower than [[Love|love]]
@@ -4369,7 +4351,6 @@ gone into [[Exile|exile]] from the oldest of earthly cities.
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="The Superstition of Divorce — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 8 (part 1)
 
 VIII
 
@@ -4496,7 +4477,6 @@ by pointing to one infant.
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Superstition of Divorce — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 8 (part 2)
 
 I take it, however, that the advocates of [[divorce]] do not mean that
 [[Marriage|marriage]] is to remain ideal only in the sense of being almost impossible.
@@ -4599,7 +4579,6 @@ and a little French.
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="The Superstition of Divorce — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[divorce]] — Chapter 8 (part 3)
 
 A short [[Time|time]] ago, as I am [[Well|well]] aware, it would have sounded very
 strange to represent the old religious and peasant communities

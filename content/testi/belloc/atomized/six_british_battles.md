@@ -3751,7 +3751,7 @@ The immediate result of that capture was twofold: an admission on the part of Jo
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_action" data-title="Six British Battles — Part 6: THE ACTION" data-chapter="Chapter 01 THE ACTION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_action" data-title="Six British Battles — Part 6: THE ACTION" data-chapter="THE ACTION" data-kind="chapter"></span>
 
 
 PART VI. THE ACTION
@@ -3799,7 +3799,7 @@ INTRODUCTION
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_preliminaries_of_the_actio" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION" data-chapter="Chapter 02 THE PRELIMINARIES OF THE ACTIO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_the_preliminaries_of_the_actio" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION" data-chapter="THE PRELIMINARIES OF THE ACTIO" data-kind="chapter"></span>
 
 
 PART I. THE CAMPAIGN
@@ -3808,7 +3808,7 @@ PART II. THE PRELIMINARIES OF THE ACTION
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_aspect_of_these_battles" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES" data-chapter="Chapter 03 THE ASPECT OF THESE BATTLES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_the_aspect_of_these_battles" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES" data-chapter="THE ASPECT OF THESE BATTLES" data-kind="chapter"></span>
 
 
 PART III. THE TERRAIN
@@ -3818,7 +3818,7 @@ PART V. THE ASPECT OF THESE BATTLES
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_results_of_the_battle" data-title="Six British Battles — Part 6: THE RESULTS OF THE BATTLE" data-chapter="Chapter 04 THE RESULTS OF THE BATTLE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_results_of_the_battle" data-title="Six British Battles — Part 6: THE RESULTS OF THE BATTLE" data-chapter="THE RESULTS OF THE BATTLE" data-kind="chapter"></span>
 
 
 PART VI. THE RESULTS OF THE BATTLE
@@ -3832,7 +3832,7 @@ BLENHEIM
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_political_objective" data-title="Six British Battles — Part 1: THE POLITICAL OBJECTIVE" data-chapter="Chapter 05 THE POLITICAL OBJECTIVE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_the_political_objective" data-title="Six British Battles — Part 1: THE POLITICAL OBJECTIVE" data-chapter="THE POLITICAL OBJECTIVE" data-kind="chapter"></span>
 
 
 PART I. THE POLITICAL OBJECTIVE
@@ -3886,7 +3886,7 @@ I will approach the story of the campaign and of the battle by a conspectus of t
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_political_circumstance" data-title="Six British Battles — Part 1: THE POLITICAL CIRCUMSTANCE" data-chapter="Chapter 10 THE POLITICAL CIRCUMSTANCE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_the_political_circumstance" data-title="Six British Battles — Part 1: THE POLITICAL CIRCUMSTANCE" data-chapter="THE POLITICAL CIRCUMSTANCE" data-kind="chapter"></span>
 
 
 PART I. THE POLITICAL CIRCUMSTANCE
@@ -3930,7 +3930,7 @@ Tourcoing is rather a battle for military than for civilian historians, but thos
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_general_military_situation" data-title="Six British Battles — Part 2: THE GENERAL MILITARY SITUATION" data-chapter="Chapter 11 THE GENERAL MILITARY SITUATION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_the_general_military_situation" data-title="Six British Battles — Part 2: THE GENERAL MILITARY SITUATION" data-chapter="THE GENERAL MILITARY SITUATION" data-kind="chapter"></span>
 
 
 PART II. THE GENERAL MILITARY SITUATION
@@ -3992,7 +3992,7 @@ That battle proceeded upon a certain plan thought out in detail, perfectly simpl
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_preliminaries_of_the_battl" data-title="Six British Battles — Part 4: THE PRELIMINARIES OF THE BATTLE" data-chapter="Chapter 13 THE PRELIMINARIES OF THE BATTL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_preliminaries_of_the_battl" data-title="Six British Battles — Part 4: THE PRELIMINARIES OF THE BATTLE" data-chapter="THE PRELIMINARIES OF THE BATTL" data-kind="chapter"></span>
 
 
 PART IV. THE PRELIMINARIES OF THE BATTLE
@@ -4042,7 +4042,7 @@ The whole problem of warfare consists in a comparison between the information th
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_terrain" data-title="Six British Battles — Part 5: THE TERRAIN" data-chapter="Chapter 14 THE TERRAIN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_the_terrain" data-title="Six British Battles — Part 5: THE TERRAIN" data-chapter="THE TERRAIN" data-kind="chapter"></span>
 
 
 PART V. THE TERRAIN
@@ -4094,7 +4094,7 @@ As to the weather, it was misty but fine. The nights in bivouac were passed with
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_results_of_the_battle" data-title="Six British Battles — Part 6: THE RESULTS OF THE BATTLE" data-chapter="Chapter 21 THE RESULTS OF THE BATTLE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_the_results_of_the_battle" data-title="Six British Battles — Part 6: THE RESULTS OF THE BATTLE" data-chapter="THE RESULTS OF THE BATTLE" data-kind="chapter"></span>
 
 
 PART VI. THE RESULTS OF THE BATTLE
@@ -4118,7 +4118,7 @@ The immediate result of that capture was twofold: an admission on the part of Jo
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_early_war--part_01" data-title="Six British Battles — Part 2: THE EARLY WAR (part 1)" data-chapter="Chapter 06 THE EARLY WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_early_war--part_01" data-title="Six British Battles — Part 2: THE EARLY WAR (part 1)" data-chapter="THE EARLY WAR" data-kind="excerpt"></span>
 
 
 PART II. THE EARLY WAR
@@ -4152,7 +4152,7 @@ In a word, the new settlement of English life upon the basis of class government
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_early_war--part_02" data-title="Six British Battles — Part 2: THE EARLY WAR (part 2)" data-chapter="Chapter 06 THE EARLY WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_early_war--part_02" data-title="Six British Battles — Part 2: THE EARLY WAR (part 2)" data-chapter="THE EARLY WAR" data-kind="excerpt"></span>
 
 
 At what expense in morals, and therefore in ultimate strength and happiness, such experiments are played, is no matter for discussion in a military history. We must be content to remark what vigour her new constitution gave to the efforts of England in the field, while yet that constitution was young.
@@ -4196,7 +4196,7 @@ The year 1704 opened, therefore, with this double situation: to the south Austri
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_early_war--part_03" data-title="Six British Battles — Part 2: THE EARLY WAR (part 3)" data-chapter="Chapter 06 THE EARLY WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_early_war--part_03" data-title="Six British Battles — Part 2: THE EARLY WAR (part 3)" data-chapter="THE EARLY WAR" data-kind="excerpt"></span>
 
 
 It was under these circumstances that Eugene of Savoy came to the great decision which marked the year of Blenheim. He determined that it was best — if he could persuade his colleagues — to carry the war into that territory which was particularly menaced. He conceived the plan of marching a great force from the Netherlands right down to the field of the Upper Danube. There could be checked the proposed march upon the heart of the coalition, which was Vienna. There, if fortune served the allies, they would by victory make all further chance of marching a Franco-Bavarian force down the Danube impossible; meanwhile, and at any rate, the new step would alarm all French effort towards the Upper Rhine, weaken the French organisation upon its northern frontier, and so permit of a return of the allies to an attack there at a later time.
@@ -4220,7 +4220,7 @@ Such was the origin of Marlborough’s advance southward from the Netherlands in
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_01" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 1)" data-chapter="Chapter 07 THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_01" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 1)" data-chapter="THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
 
 
 PART III. THE MARCH TO THE DANUBE
@@ -4268,7 +4268,7 @@ As we know, the advance failed partly through the weather, partly through the sp
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_02" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 2)" data-chapter="Chapter 07 THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_02" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 2)" data-chapter="THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
 
 
 Similarly, the reputation justly earned by Marlborough when he brought his troops from the Rhine to the Danube must be kept distinct from his tactical successes in the field at the conclusion of the effort. He was to run a grave risk at Donauwörth, he was to blunder badly in attacking the village of Blenheim, he was to be in grave peril even in the last phase of the battle, when Eugene just saved the centre with his cavalry.
@@ -4312,7 +4312,7 @@ So much for the general hazard which would have applied to any commander underta
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_03" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 3)" data-chapter="Chapter 07 THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_03" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 3)" data-chapter="THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
 
 
 But, as I have said, there were two other points peculiar to Marlborough’s political position.
@@ -4352,7 +4352,7 @@ Now, in proportion to the length of a column, the units of which must each march
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_04" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 4)" data-chapter="Chapter 07 THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_04" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 4)" data-chapter="THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
 
 
 All this, which is true of the actual march of the army, is equally true of its power to maintain its supply over a line of hills (to take that example of an obstacle); and therefore a line of hills, especially if these hills be confused and steep, and especially if they be provided with but bad roads across them, will dangerously isolate an army whose general base lies upon the further side of them.
@@ -4400,7 +4400,7 @@ He had announced to the Dutch and all Europe an attack upon the valley of the Mo
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_05" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 5)" data-chapter="Chapter 07 THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_05" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 5)" data-chapter="THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
 
 
 It is therefore at this point in his advance that we must consider the art by which he had put the enemy in suspense, and confused their judgment of his design.
@@ -4444,7 +4444,7 @@ The advice was not unwise. It did, as a fact, immobilise Eugene for the moment, 
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_06" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 6)" data-chapter="Chapter 07 THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_march_to_the_danube--part_06" data-title="Six British Battles — Part 3: THE MARCH TO THE DANUBE (part 6)" data-chapter="THE MARCH TO THE DANUBE" data-kind="excerpt"></span>
 
 
 But, meanwhile, Baden had chased the Elector of Bavaria out of the Black Forest and down on to the Upper Danube. Marlborough might, at any moment, join hands with Baden. The Elector sent urgent requests for yet more reinforcements from the French, and Tallard, in a letter to Versailles of the 16th of June, advised the capture and possession of such points in the Black Forest as would give him free access across the mountains, the proper provisioning of his line of supply when he should cross them, and the accomplishment of full preparations for joining the Elector of Bavaria in a campaign upon the Upper Danube.
@@ -4484,7 +4484,7 @@ We have seen how the plan matured. Three weeks after the Bavarian army’s escap
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_01" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 1)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_01" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 1)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 PART IV. THE SEVEN WEEKS — THE THREE PHASES
@@ -4542,7 +4542,7 @@ This word “key” is so often used in military history, without any explanatio
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_02" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 2)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_02" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 2)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 Bavaria could only be reached by a general coming as Marlborough came, on condition of his possessing and holding some crossing-place over the Danube, for Marlborough’s supplies lay north of that river (principally at Nördlingen), and the passing of the enormous supply of an army over one narrow point, such as is a bridge over such an obstacle as a broad river, demands full security.
@@ -4580,7 +4580,7 @@ Meanwhile, a large French reinforcement under Tallard was already far up on its 
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_03" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 3)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_03" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 3)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 The French marshal, Tallard, was in command of the army thus rapidly approaching in relief of the Franco-Bavarians. His arrival, if he came without loss, disease, or mishap, promised a complete superiority over the English and their allies, unless, indeed, by some accident or stroke of genius, reinforcement should reach them also before the day of the battle.
@@ -4628,7 +4628,7 @@ Tallard was still hesitating to abandon the siege of Villingen when, upon the 21
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_04" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 4)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_04" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 4)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 Wholly insufficient as the provisioning of the route was, Marcin assured Tallard it was just enough to feed his men and horses during the dash eastwards; and, with all the regret and foreboding necessarily attached to leaving in his rear an unconquered fortress and marching in haste upon an insufficiently provided route, Tallard, on the next day, the 22nd, raised the siege of Villingen and risked his way across the mountains down to the valley of the Danube.
@@ -4668,7 +4668,7 @@ With due deliberation, he left eight battalions in Rottweil to garrison that pla
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_05" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 5)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_05" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 5)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 Map showing Eugene’s march on the Danube from the Black Forest.
@@ -4718,7 +4718,7 @@ A great commander, whose name was henceforth to be linked most closely with that
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_06" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 6)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_06" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 6)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 It is true that a minor problem lay before Eugene and Marlborough which must be solved before the great value of the junction they were about to effect could be taken advantage of. Their forces were still separated by the Danube: Marlborough lay a day’s march to the south of it, and were he to cross the Danube at Neuburg he would be two days’ march from Eugene. But each army was free to march towards the other, and all that their commanders had to decide was upon which side of the river the junction should be effected. Were the junction effected to the south — that is, were Eugene to cross the Danube and join Marlborough in Bavaria — Tallard, crossing the Danube at Dillingen, could strike at the great northern line of communications which conditioned all these movements. It was, therefore, the obvious move for Eugene and Marlborough to join upon the northern bank of the Danube, and to move upon and defend that all-important line of communications, point for point, as Tallard might threaten it.
@@ -4748,7 +4748,7 @@ While the French fourriers were ordering the lines of the encampment — the ten
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_07" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 7)" data-chapter="Chapter 08 THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_seven_weeks_the_three_phas--part_07" data-title="Six British Battles — Part 4: THE SEVEN WEEKS — THE THREE PHASES (part 7)" data-chapter="THE SEVEN WEEKS THE THREE PHAS" data-kind="excerpt"></span>
 
 
 At this point — let us say noon of Tuesday, August 12th — it is essential for us to dwell upon the character of such battles as that upon which Marlborough was already determined; for by the time he had seen the French disposition of their camp, the duke had determined upon forcing an action.
@@ -4776,7 +4776,7 @@ It was moonless and pitch-dark, save for the dense white mist which, in the mars
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_01" data-title="Six British Battles — Part 5: THE ACTION (part 1)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_01" data-title="Six British Battles — Part 5: THE ACTION (part 1)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 PART V. THE ACTION
@@ -4810,7 +4810,7 @@ Blindheim, or, as we always call it, Blenheim, lay, as we have seen, just above 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_02" data-title="Six British Battles — Part 5: THE ACTION (part 2)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_02" data-title="Six British Battles — Part 5: THE ACTION (part 2)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The tiny hamlet of Weilheim may be regarded as an appendix of this last or of Oberglauheim indifferently. It lies opposite the latter village, but on the further side of the stream, and about half a mile away.
@@ -4852,7 +4852,7 @@ Blenheim, therefore, if it were soundly held, blocked any attempt to turn the Fr
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_03" data-title="Six British Battles — Part 5: THE ACTION (part 3)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_03" data-title="Six British Battles — Part 5: THE ACTION (part 3)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Not content with throwing into Blenheim between 8000 and 10,000 men, Tallard placed behind the village and in its neighbourhood a further reserve of at least eleven battalions. Of his thirty-six battalions, therefore, only nine remained to support his cavalry over the whole of the open field between Blenheim and Oberglauheim, a distance of no less than 3500 yards. Consequently, this great gap had to be held in the main by his insufficient and depleted cavalry. Eight squadrons of these (of the red-coated sort called the Gendarmerie) formed the first section of this line, stretching from Blenheim to the neighbourhood of the main road and a little beyond it. Further along, towards Oberglauheim, another ten squadrons of cavalry were lined up to fill the rest of the gap. In a second line were ten more squadrons of cavalry under Silly; and the nine battalions of infantry remaining, when those in and near Blenheim had been subtracted, lay also in the second line, in support of the cavalry of the first line.
@@ -4878,7 +4878,7 @@ As to the total strength of the allied forces which we must attempt to estimate 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_04" data-title="Six British Battles — Part 5: THE ACTION (part 4)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_04" data-title="Six British Battles — Part 5: THE ACTION (part 4)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Blenheim, in the issue, turned out to be a cavalry battle — a battle won by cavalry, and its effect clinched by cavalry. The poor rôle played by the guns and the inability of the French to make use of their numerical superiority in this arm was a characteristic of the time, which had not yet learnt to use the cannon as a mobile weapon.
@@ -4918,7 +4918,7 @@ As Cutts’ broken first line was passing out of range and was effecting its ret
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_05" data-title="Six British Battles — Part 5: THE ACTION (part 5)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_05" data-title="Six British Battles — Part 5: THE ACTION (part 5)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 For what followed was the singular sight of eight French squadrons charging down a slope against only five, those five cramped in the hollow near a stream bed, and yet succeeding in receiving the shock of the charge of numbers so greatly superior, and, so far from yielding, breaking the offensive of their opponents into a confusion.
@@ -4946,7 +4946,7 @@ Marlborough’s cavalry managed to form, struggling beyond the brook, and the la
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_06" data-title="Six British Battles — Part 5: THE ACTION (part 6)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_06" data-title="Six British Battles — Part 5: THE ACTION (part 6)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Marcin, inferior as was his command, gripped the opportunity, sent cavalry at once to Oberglauheim, and that cavalry charged. But here the greatness of Marlborough as a personal commander suddenly appeared. He seized the whole character of the moment in a way that Tallard on his first chance had wholly failed to do. He put himself in person at the head of the Danish brigade that lay in reserve, brought it across the rivulet, and came just in time to take the charge of the French cavalry. Even as that charge was preparing, Marlborough sent to Eugene for cavalry at the gallop. He (Marlborough) must hold fast with his Danes against the French horse — five minutes, ten, fifteen at the most — till help should come from the right.
@@ -4980,7 +4980,7 @@ It looked for a moment, under the setting sun of that fatal day, as though the 1
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_07" data-title="Six British Battles — Part 5: THE ACTION (part 7)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_07" data-title="Six British Battles — Part 5: THE ACTION (part 7)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Plate II. The Battle of Blenheim.
@@ -5020,7 +5020,7 @@ The battle which forms the object of this little monograph, late as was its date
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_08" data-title="Six British Battles — Part 5: THE ACTION (part 8)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_08" data-title="Six British Battles — Part 5: THE ACTION (part 8)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 There is no space in such a short book as this to discuss all the causes which combined to produce this negligence of military detail in the medieval historian: that he was usually not a soldier, that after the ninth century armies cannot be regarded as professional, and that the interest of the time lay for the mass of readers in the results rather than in the action of a battle, are but a few of these.
@@ -5052,7 +5052,7 @@ I give these few points as examples only. They are multiplied indefinitely as on
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_09" data-title="Six British Battles — Part 5: THE ACTION (part 9)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_09" data-title="Six British Battles — Part 5: THE ACTION (part 9)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 With all this there remains a large margin which cannot be generally set down as certain, and which even in matters essential must be written tentatively, with such phrases as “it would seem,” or “probably” to excuse it. But history is consoled by the reflection that all these gaps may be filled by further research or further discovery, and that each new effort of scholarship bridges one and then another.
@@ -5088,7 +5088,7 @@ If this principle that the daughter or the issue of the daughter of an elder bro
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_10" data-title="Six British Battles — Part 5: THE ACTION (part 10)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_10" data-title="Six British Battles — Part 5: THE ACTION (part 10)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 By this tortuous combination Edward III. advanced his claim. His mother had been the grand-daughter of Philip III. of [[France]], and he was a male. Her father was the elder brother of Philip of Valois’ father, so he claimed before Philip of Valois.
@@ -5126,7 +5126,7 @@ The total distance traversed by the main body in these two limbs of the campaign
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_11" data-title="Six British Battles — Part 5: THE ACTION (part 11)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_11" data-title="Six British Battles — Part 5: THE ACTION (part 11)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The distance by road as the army marched from St Vaast, where it landed, across the river at Poissy, and so to Crécy, was a total of 345 miles. Of this the first part, or advance, was 215, the second part, or retreat, 130. The first part occupied, counting the day of landing and the day of crossing at Poissy, not less than 34 days, while the latter portion or retreat of 130 miles, including the day of battle itself, took up not more than 12 days, or, excluding the battle, only 11. The average rate of the advance was not more than 6¼ miles a day, the average rate of the retreat very nearly double.
@@ -5162,7 +5162,7 @@ Baker’s Chronicle was finally edited by Professor Maunde Thompson in 1889. The
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_12" data-title="Six British Battles — Part 5: THE ACTION (part 12)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_12" data-title="Six British Battles — Part 5: THE ACTION (part 12)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 First, I would point out that of all the few bases of evidence from which we can work, that of the Clerk of the Kitchen’s accounts is by far the most valuable.
@@ -5192,7 +5192,7 @@ At this stage it is well to point out to the reader two difficulties which have 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_13" data-title="Six British Battles — Part 5: THE ACTION (part 13)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_13" data-title="Six British Battles — Part 5: THE ACTION (part 13)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The second is the fact that the chronicler will give some particular spot quite consonant with the marching powers of troops for one day, but different from that given by the Clerk of the Kitchen.
@@ -5220,7 +5220,7 @@ I confess here to a very considerable doubt. The entry in the Accounts of the Ki
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_14" data-title="Six British Battles — Part 5: THE ACTION (part 14)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_14" data-title="Six British Battles — Part 5: THE ACTION (part 14)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It was on the next day, Monday the 7th, that he reached the Seine, and approached that river, as we may presume, with the object of crossing it. It was a ten-mile march, and the whole force could be on the banks before evening at Elbœuf. But the bridges were broken and it was impossible. It was from this point of Elbœuf that the raid turned to follow the valley of the Seine up towards Paris, always seeking some crossing-place, and always finding the bridges broken. The nearer he got to Paris the more dangerous became Edward’s position, and the larger grew the forces of the French King in the neighbourhood of the capital which threatened him.
@@ -5246,7 +5246,7 @@ Now, if the reader will glance at the map at the beginning of this section, he w
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_15" data-title="Six British Battles — Part 5: THE ACTION (part 15)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_15" data-title="Six British Battles — Part 5: THE ACTION (part 15)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 To turn and meet his pursuers (who were evidently in contact with him through their scouts) would have meant, so long as he was on this side of the Somme, no chance of retreat in case of defeat.
@@ -5292,7 +5292,7 @@ Those are the five points which weaken any positive evidence which Froissart may
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_16" data-title="Six British Battles — Part 5: THE ACTION (part 16)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_16" data-title="Six British Battles — Part 5: THE ACTION (part 16)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 (1) Oisemont lies actually ten miles back from Abbeville upon the line of the retreat. To occupy Oisemont was to incur a deliberate running into that danger which it was all Edward’s effort to avoid.
@@ -5332,7 +5332,7 @@ Edward had made a very fine march indeed, not only averaging something like twel
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_17" data-title="Six British Battles — Part 5: THE ACTION (part 17)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_17" data-title="Six British Battles — Part 5: THE ACTION (part 17)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Boismont, a village climbing the southern bank of the estuary, was the spot on which the King had gathered the army upon the evening of that Wednesday, and, not a day’s march behind him, the most advanced mounted men of his pursuers, with the King of [[France]] among them, were camping. The peril was extreme, and an issue from that peril as extremely doubtful.
@@ -5358,7 +5358,7 @@ Now, Blanchetaque was an artificial ford. We know this because there is no marl 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_18" data-title="Six British Battles — Part 5: THE ACTION (part 18)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_18" data-title="Six British Battles — Part 5: THE ACTION (part 18)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Again, the reclamation of the land has been carried out with a French thoroughness only too successful in destroying the contours of the old river bed. In the sketch map on I have indicated to the best of my ability the channel of the river at low tide as it appears to have been before reclamation began, but even this can barely be traced upon the levelled, heightened, and now fruitful pastures.
@@ -5390,7 +5390,7 @@ Here one of Philip’s nobles, Godemard de Fay, was waiting with a considerable 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_19" data-title="Six British Battles — Part 5: THE ACTION (part 19)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_19" data-title="Six British Battles — Part 5: THE ACTION (part 19)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The action was a picturesque one, and the sight presented to a spectator watching it from the heights behind Godemard’s command must have been a picture vivid and well framed. One hundred mounted and armoured knights, carefully chosen, led the way across the ford. They were met actually in the water itself by mounted men advancing on to the causeway from Godemard’s side, and the twin banners of Edward’s two marshals and the cries of “God and St George!” with which the English vanguard met the enemy rose for a few moments from a confused mêlée of men and horses struggling in the stream. But the issue was decided by the comparative strength of missile weapons, and not by the sword. The Genoese cross-bowmen behind the French knights, and upon either side of their rear, shot into the English mounted ranks with some success, when the Archers of Edward, who were just behind the knights, and seem to have deployed somewhat over the marshy land on either side of the ford, returned their fire with that superiority of the long-bow which helped to decide this campaign. It was the regular fire of the Archers, the weight and the rapidity of it, which finally threw the supporting infantry of the French command into confusion, and permitted the mounted head of the English column to force its way over the landward end of the ford and through the now isolated body of French knights. Once the bank was gained, the English head of the column in its turn held the tête de pont, and the passage of the whole force was only a question of time.
@@ -5412,7 +5412,7 @@ The host camped upon that Thursday night somewhat widely spread around its King,
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_20" data-title="Six British Battles — Part 5: THE ACTION (part 20)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_20" data-title="Six British Battles — Part 5: THE ACTION (part 20)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Upon that morrow, the Friday, the advance north-eastward was continued. It was organised in a fashion whose exactitude and forethought are worthy of note, considering the haphazard conditions of most medieval fighting, and of Edward’s own previous conduct of the earlier part of this campaign.
@@ -5434,7 +5434,7 @@ Secondly: A certain proportion of regular paid men, including the foreign mercen
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_21" data-title="Six British Battles — Part 5: THE ACTION (part 21)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_21" data-title="Six British Battles — Part 5: THE ACTION (part 21)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Thirdly: The King, with a considerable personal force, and with some of his mercenaries as well, was up in the neighbourhood of Saigneville upon the noon and early afternoon of the Thursday. He retraced his steps towards Abbeville, and recrossed the river there himself either upon the Thursday evening, or more probably upon the Friday.
@@ -5474,7 +5474,7 @@ Ponthieu is a district of low, open, and slightly undulating fertile lands, whos
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_22" data-title="Six British Battles — Part 5: THE ACTION (part 22)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_22" data-title="Six British Battles — Part 5: THE ACTION (part 22)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 All this wide expanse of fertile land, affording from one lift of its undulations and another great even views for miles and miles, is cut by streams which run parallel to each other in trenches five to seven miles apart, and make their way by curiously straight courses north-westward to the neighbouring sea. These are the Conche, the Authie (the crossing of whose marshes by the great Roman road formed those pontes which, as we have seen, give the district its name of Ponthieu), and the Maye.
@@ -5506,7 +5506,7 @@ At the close of this section the plainest duty of an historian, as well as the s
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_23" data-title="Six British Battles — Part 5: THE ACTION (part 23)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_23" data-title="Six British Battles — Part 5: THE ACTION (part 23)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Contrast the excellent and accurate little map in the first-rate manual which Mr Barnard published twelve years ago from the Clarendon Press. The whole of this book is to be most highly recommended. I believe that this map, the only doubtful features of which are the angular formation of the English Archers and the concentration of the French rear upon the Roman road, is from the pencil of Mr Oman.
@@ -5540,7 +5540,7 @@ When we come to the few trained non-missile infantry of the English forces — s
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_24" data-title="Six British Battles — Part 5: THE ACTION (part 24)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_24" data-title="Six British Battles — Part 5: THE ACTION (part 24)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It will be seen from the above that the real point of the battle, and that which decided it, was the power of the trained missile infantry of Edward (1) to await a charge of horse in no matter what numerical superiority it might arrive, confident that they could always check it before it reached their line or broke it; and inspired by that confidence, because (2) the only missile infantry that could be brought against them to prepare such a cavalry charge was armed with a weapon which delivered only one shot to their three. That was the deciding element of the Battle of Crécy: the power of the long-bow to stop horse upon any front equivalent to the front of the Archers, and the confidence of the bowman in that power.
@@ -5564,7 +5564,7 @@ Due, we may imagine, to no regular order, an occasion seized upon by some one co
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_25" data-title="Six British Battles — Part 5: THE ACTION (part 25)" data-chapter="Chapter 09 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_25" data-title="Six British Battles — Part 5: THE ACTION (part 25)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Throughout that night great bodies of disordered peasantry, half-armed, the militia of the Communes, fled or wandered aimlessly southward over the bare, rolling land. The mounted knights had ridden away from a field where all was utterly lost, and the English line broke up to move forward by the light of lanterns over the face of the countryside, to despatch or to capture the wounded, to loot, to search for the faces and the ensigns of the greater dead. But in that darkness the magnitude of the result was not seen. The English army seems to have guessed the issue mainly by the dying down of the noise, and the ceasing of the cries of men rallying to their lords’ banners.
@@ -5584,7 +5584,7 @@ TOURCOING
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_01" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 1)" data-chapter="Chapter 12 THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_01" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 1)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
 
 
 PART III. THE PLAN OF THE ALLIES
@@ -5626,7 +5626,7 @@ The few thousand Hanoverians, under Bussche, were to take up their position at W
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_02" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 2)" data-chapter="Chapter 12 THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_02" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 2)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
 
 
 The Duke of York’s own large force, which had been at Tournai for over a week, was to go forward a little and concentrate at Templeuve. Five miles to the south of Templeuve, at Froidmont, a column, somewhat larger than the Duke of York’s, under Kinsky, was to concentrate.
@@ -5670,7 +5670,7 @@ If that was in his mind, it shows him to have been a prompt and energetic man, a
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_03" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 3)" data-chapter="Chapter 12 THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_03" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 3)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
 
 
 But from what we know of the family to which the Duke of York belonged, it is exceedingly improbable that this younger son of George III. had, on this one occasion only, any lightning in his brain; and even if he did appreciate more or less the importance of rapid action, the Emperor did not appreciate it. He committed the two contradictory faults of delaying the movement and of asking too much marching of his men, and it was not until the morning of the Wednesday, May the 14th, that the bulk of the Austrian army, which still lay in the Valenciennes and Landrecies district, broke up for its northward march, to arrive at the rendezvous beyond the Scheldt, and to carry out the plan.
@@ -5704,7 +5704,7 @@ I have spoken throughout of the plan as the Duke of York’s. Because it failed,
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_04" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 4)" data-chapter="Chapter 12 THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_04" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 4)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
 
 
 It must, in the first place, be clearly understood that the failure of the plan does not reflect upon the judgment of that commander. It failed because Clerfayt was not up to time, and because too much had been asked of the fifth column. The Duke came of a family not famous for genius; he was exceedingly young, and whatever part he may have had in the framing of this large conception ought surely to stand to his credit.
@@ -5728,7 +5728,7 @@ Evidence of this sort is absolutely conclusive. The plan was not Mack’s; it wa
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_01" data-title="Six British Battles — Part 6: THE ACTION (part 1)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_01" data-title="Six British Battles — Part 6: THE ACTION (part 1)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 PART VI. THE ACTION
@@ -5762,7 +5762,7 @@ It is self-evident that where one isolated and distant body is being asked to co
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_02" data-title="Six British Battles — Part 6: THE ACTION (part 2)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_02" data-title="Six British Battles — Part 6: THE ACTION (part 2)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Now it so happened that Clerfayt, though a most able man, and one who had proved himself a prompt and active general, woefully miscalculated the time-table of his march and the difficulties before him.
@@ -5794,7 +5794,7 @@ On turning to the second group (the second column under Otto and the third under
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_03" data-title="Six British Battles — Part 6: THE ACTION (part 3)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_03" data-title="Six British Battles — Part 6: THE ACTION (part 3)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 (A) The Second Column under Otto
@@ -5826,7 +5826,7 @@ York’s next objective, and the goal to which his advance had been ordered, was
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_04" data-title="Six British Battles — Part 6: THE ACTION (part 4)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_04" data-title="Six British Battles — Part 6: THE ACTION (part 4)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Roubaix overlooks from a slight elevation the valley of the Marque. Lest the word “valley” be misleading, let me hasten to add that that stream here flows at the bottom of a very slight and very broad depression. But, at any rate, from Roubaix one overlooks that depression for some miles; one sees five miles distant the fortifications of Lille, and the intervening country is open enough to betray the presence of troops. Indeed, once Roubaix was captured, the English commander could see across those fields, a couple of hours’ march away, the tents of the great French camp at Sainghin under the walls of the fortress.
@@ -5852,7 +5852,7 @@ Neither, as his troops prepared to bivouac for the night upon the slopes of Mouv
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_05" data-title="Six British Battles — Part 6: THE ACTION (part 5)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_05" data-title="Six British Battles — Part 6: THE ACTION (part 5)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It was therefore under a sense of isolation and of confusion, with the knowledge that their left flank was open, that Clerfayt in front of them was not yet in reach, that the second and third columns, which had so thoroughly accomplished their task, established their posts under the early summer night to await the chances of the morning.
@@ -5886,7 +5886,7 @@ When day broke, though cavalry had been set forward at greater speed, the heads 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_06" data-title="Six British Battles — Part 6: THE ACTION (part 6)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_06" data-title="Six British Battles — Part 6: THE ACTION (part 6)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Kinsky, thus tied to the broken Bridge of Bouvines until Pont-à-Marcq should be forced, saw mid-day come and pass, and still his force and that of the Arch-Duke upon his left were upon the wrong side of the stream.
@@ -5922,7 +5922,7 @@ Certain historians have committed the strange error of blaming Bussche for what 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_07" data-title="Six British Battles — Part 6: THE ACTION (part 7)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_07" data-title="Six British Battles — Part 6: THE ACTION (part 7)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Finally, it may be asked why, in a posture so patently perilous, Otto and York clung to their advanced positions throughout the night? The answer is simple enough. If, even during the night, the fourth and fifth columns should appear, the battle was half won. If Clerfayt, of whom they had no news, but whom they rightly judged to be by this time across the Lys, were to arrive before the French began to close in, the battle would be not half won, but all won. Between 55,000 and 60,000 men would then be lying united across the line which joined the 40,000 of the enemy to the north with the 20,000 to the south. If such a junction were effected even at the eleventh hour, so long as it took place before the 20,000 French outside Lille and the 40,000 to the north moved upon them, the allies would have won a decisive action, and the surrender of all Souham’s command would have been the matter of a few hours. For a force cut in two is a force destroyed.
@@ -5962,7 +5962,7 @@ Of the troops which were, it will be remembered, dispersed to the north of the L
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_08" data-title="Six British Battles — Part 6: THE ACTION (part 8)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_08" data-title="Six British Battles — Part 6: THE ACTION (part 8)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 When the sun rose, the head of Otto’s column upon the little height of Tourcoing saw to the north, to the north-east, and to the east, distant moving bodies, which were the columns of the French attack advancing from those quarters. As they came nearer, their numbers could be distinguished. A brigade was approaching them from the north and the Lys valley, descending the slopes of the hillock called Mont Halhuin. It was Macdonald’s. Another was on the march from Mouscron and the east. It was Compere’s. The General who was commanding for Otto in Tourcoing itself was Montfrault. He perceived the extremity of the danger and sent over to York for reinforcement. York spared him two Austrian battalions, but with reluctance, for he knew that the attack must soon develop upon his side also. In spite of the peril, in the vain hope that Clerfayt might yet appear, Mouveaux and Tourcoing were still held, and upon the latter position, between five and six o’clock in the morning, fell the first shots of the French advance. The resistance at Tourcoing could not last long against such odds, and Montfrault, after a gallant attempt to hold the town, yielded to a violent artillery attack and prepared to retreat. Slowly gathering his command into a great square, he began to move south-eastward along the road to Wattrelos. It was half-past eight when that beginning of defeat was acknowledged.
@@ -5976,7 +5976,7 @@ As at Tourcoing, so at Mouveaux, a desperate attempt was made to hold the positi
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_09" data-title="Six British Battles — Part 6: THE ACTION (part 9)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_09" data-title="Six British Battles — Part 6: THE ACTION (part 9)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It is at this point, I think, that the merit of this famous brigade and its right to regard the disaster not with humiliation but with pride, is best established. For that upon which soldiers chiefly look is the power of a regiment to reform. The Guards, thus broken up under conditions which made formation for the moment impossible, and would have excused the destruction of any other force, cleared themselves of the welter, recovered their formation, held the road, permitted the British cavalry to collect itself and once more form a rearguard, and the retreat upon Lannoy was resumed by this fragment of York’s command in good order: in good order, although it was subjected to heavy and increasing fire upon either side.
@@ -6010,7 +6010,7 @@ IT MUST CONTINUALLY be insisted upon in military history, that general actions, 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_10" data-title="Six British Battles — Part 6: THE ACTION (part 10)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_10" data-title="Six British Battles — Part 6: THE ACTION (part 10)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The object of a campaign is invariably a political object, and all its military effort is, or should be, subsidiary to that political object.
@@ -6044,7 +6044,7 @@ It is obvious, at the first glance we take of European history during, say, the 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_11" data-title="Six British Battles — Part 6: THE ACTION (part 11)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_11" data-title="Six British Battles — Part 6: THE ACTION (part 11)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The same is true of certain secondary results of the prolonged revolutionary and Napoleonic campaigns. Nationality predominated over the old idea of a monarch governing his various “peoples,” and the whole history of the nineteenth century was a gradual vindication of the principle of nationality. A similar fate awaited institutions bound up with the French revolutionary effort: a wide and continually expressed suffrage, the arming of whole nations in defence of their independence, the ordering of political life upon the new plan, down even to the details of the revolutionary weights and measures (the metre, the gramme, etc.) — these succeeded and in effect triumphed over the arrangements which that older society had fought to restore.
@@ -6070,7 +6070,7 @@ It is impossible to believe that under such circumstances Napoleon could have su
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_12" data-title="Six British Battles — Part 6: THE ACTION (part 12)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_12" data-title="Six British Battles — Part 6: THE ACTION (part 12)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 But, so far from 800,000 men, [[Napoleon]] found to his command not one quarter of that number armed and ready for war. Though [[Napoleon]] fell back upon that desperate resource of a starved army, the inclusion of militia; though he swept into his net the whole youth of that year, and accepted conscripts almost without regard to physical capacity; though he went so far as to put the sailors upon shore to help him in his effort, and counted in his effectives the police, the customs officials, and, as one may say, every uniformed man, he was compelled, even after two and a half months of effort, to consider his ready force as less than 300,000, indeed only just over 290,000.
@@ -6104,7 +6104,7 @@ He was like one man coming up rapidly and almost unexpectedly to attack two: but
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_13" data-title="Six British Battles — Part 6: THE ACTION (part 13)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_13" data-title="Six British Battles — Part 6: THE ACTION (part 13)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 His doubtful chance of success in such a hazard obviously lay in his being able to attack each enemy separately: that is, to engage first one before the second came to his aid; then the second; and thus to defeat each in turn. The chance of victory under such circumstances is slight. It presupposes the surprise of the two allied adversaries by their single opponent, and the defeat of one so quickly that the other cannot come to his aid till all is over. But no other avenue of victory is open to a man fighting enemies of double his numerical strength; at least under conditions where armament, material, and racial type are much the same upon either side.
@@ -6138,7 +6138,7 @@ If he has only to deal in front of Abingdon with this second or western half, wh
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_14" data-title="Six British Battles — Part 6: THE ACTION (part 14)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_14" data-title="Six British Battles — Part 6: THE ACTION (part 14)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The actual positions of the two combined commands, the command of Blucher and the command of Wellington, which between them held the long line between Tournay and Liège, will be grasped from the sketch map upon the next page.
@@ -6176,7 +6176,7 @@ The left or westernmost consisted of the First and Second Corps d’Armée; the 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_15" data-title="Six British Battles — Part 6: THE ACTION (part 15)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_15" data-title="Six British Battles — Part 6: THE ACTION (part 15)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It is at this stage advisable to consider why [[Napoleon]] had chosen the crossing of the Sambre at Charleroi and the sites immediately to the north on the left bank of that river as the point where he would strike at the long line of the Allies.
@@ -6220,7 +6220,7 @@ When we come to study the details of the story, we shall see that this, the Prus
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_16" data-title="Six British Battles — Part 6: THE ACTION (part 16)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_16" data-title="Six British Battles — Part 6: THE ACTION (part 16)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The Advance
@@ -6256,7 +6256,7 @@ As will be seen in a moment, he failed; but it would be a very puerile judgment 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_17" data-title="Six British Battles — Part 6: THE ACTION (part 17)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_17" data-title="Six British Battles — Part 6: THE ACTION (part 17)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 True, the error and the delay were prodigious and, in a fashion, comic; and had [[Napoleon]] delivered upon the Thursday afternoon, as he had intended, an attack which should have defeated the Prussians before him, Wellington’s error and delay would have paid a very heavy price.
@@ -6302,7 +6302,7 @@ It is therefore a characteristic, be it noted, which no development of human sci
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_18" data-title="Six British Battles — Part 6: THE ACTION (part 18)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_18" data-title="Six British Battles — Part 6: THE ACTION (part 18)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 In general, then, to point out the ignorance and the misconceptions of one commander is no criticism of a campaign until we have appreciated the corresponding ignorance and misconceptions of the other. We have already seen Wellington taken almost wholly by surprise on the French advance; we shall see him, even when he appreciated its existence, imagining it to be directed principally against himself. We shall similarly see [[Napoleon]] underestimating the Prussian force in front of him, and underestimating even that tardy information which had reached Wellington in time for him to send troops up the Brussels road, and to check the French advance along it. But we must judge either of the two great opponents not by a single picture of his own misconceptions alone, but by the combined picture of the misconceptions of both, and especially by a consideration of the way in which each retrieved or attempted to retrieve the results of those misconceptions when a true idea of the enemy’s dispositions was conveyed to him.
@@ -6348,7 +6348,7 @@ The first of these had its headquarters in Charleroi itself, its furthest outpos
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_19" data-title="Six British Battles — Part 6: THE ACTION (part 19)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_19" data-title="Six British Battles — Part 6: THE ACTION (part 19)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The Third Corps had its headquarters at Ciney in the Ardennes, and was scattered in various posts throughout that forest, its furthest cantonment being no nearer than Dinant, which, by the only good road available, was nearer forty than thirty miles from [[Napoleon]]’s point of attack.
@@ -6378,7 +6378,7 @@ Napoleon was enabled to discover with some ease the great numbers which had conc
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_20" data-title="Six British Battles — Part 6: THE ACTION (part 20)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_20" data-title="Six British Battles — Part 6: THE ACTION (part 20)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 This discovery, that there lay before him not one corps but a whole army, seemed to [[Napoleon]], upon one condition, an advantage. The new development would, upon that one condition, give him, if his troops were of the quality he estimated them to be, a complete victory over the united Prussian force, and might well terminate the campaign on that afternoon and in that place. That one condition was the possibility of getting Ney upon the left, or some part at least of Ney’s force, to leave the task of holding off Wellington, to come down upon the flank of the Prussians from the north and west, to envelop them, and thus, in company with the troops of [[Napoleon]] himself, to destroy the three Prussian Army Corps altogether.
@@ -6412,7 +6412,7 @@ As early as two o’clock a note was sent to Ney urging him, when he had brushed
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_21" data-title="Six British Battles — Part 6: THE ACTION (part 21)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_21" data-title="Six British Battles — Part 6: THE ACTION (part 21)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The distance over which these notes had to be carried to and fro, from [[Napoleon]] to Ney, was not quite five miles. The Emperor might therefore fairly expect after his last message that in the late middle of the afternoon — say half-past five or six — troops would appear upon his north-west horizon and march down to his aid. In good time such troops did appear; how inconclusively it will be my business to record.
@@ -6444,7 +6444,7 @@ Blucher had rapidly returned from the right to meet the peril. He charged at the
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_22" data-title="Six British Battles — Part 6: THE ACTION (part 22)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_22" data-title="Six British Battles — Part 6: THE ACTION (part 22)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Darkness fell, and nothing more could be accomplished. The field was won, indeed, but the Prussian army was still an organisation and a power. It had lost heavily in surrenders, flight, and fallen, but its main part was still organised. It was driven to retreat in the darkness, but remained ready, when time should serve, to reappear. It kept its order against the end of the French pressure throughout the last glimmer of twilight; and when darkness fell, the troops of Blucher, though in retreat, were in a retreat compact and orderly, and the bulk of his command was saved from the enemy and available for further action.
@@ -6478,7 +6478,7 @@ On the night of the 15th Ney himself was at Frasnes, while the furthest of his d
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_23" data-title="Six British Battles — Part 6: THE ACTION (part 23)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_23" data-title="Six British Battles — Part 6: THE ACTION (part 23)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 To concentrate all those 50,000 men, half of them spread out over so much space, meant a day’s ordinary marching; and one would have thought that Ney should have begun to concentrate before night fell upon the 15th. He remembered, however, that the men were fatigued, he thought he had plenty of time before him, and he did not effect their concentration. The mass of the Second Army Corps (Reille’s) was, as I have said, near Gosselies on the Friday dawn; but Erlon, with the First Army Corps, was not in disposition to bring the bulk of it up by the same time. He could not expect to be near Quatre Bras till noon or one o’clock. But even to this element of delay, due to his lack of precision, Ney added further delay, due to slackness in orders.
@@ -6512,7 +6512,7 @@ They did not know, indeed, what Ney was bringing up against them; Wellington him
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_24" data-title="Six British Battles — Part 6: THE ACTION (part 24)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_24" data-title="Six British Battles — Part 6: THE ACTION (part 24)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Perponcher, then, put a battalion and five guns in front of Gemioncourt, another battalion inside the walls of the farm, four battalions and a mounted battery before the Wood of Bossu and the farm of Pierrepont. Most of his battalions were thus stretched in front of the position of Quatre Bras, the actual Cross Roads where he left only two as a reserve.
@@ -6552,7 +6552,7 @@ The check to this general advance of the French all along the line was again giv
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_25" data-title="Six British Battles — Part 6: THE ACTION (part 25)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_25" data-title="Six British Battles — Part 6: THE ACTION (part 25)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Ney had missed the opportunity when the enemy in front of him were in numbers less than half his own; he had failed to pierce their line when reinforcements had brought up their numbers to a superiority over his own. He must now set about a far more serious business, for there was every prospect, as the afternoon advanced, that Wellington would be still further reinforced, while Ney had nothing but his original 20,000 — half his command; of Erlon’s coming there was not a sign! Yet another hour had been consumed in the general French advance and its repulse, which I have just described. It was five o’clock.
@@ -6586,7 +6586,7 @@ As the evening turned to sunset, and the sunset to night, that advance was made 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_26" data-title="Six British Battles — Part 6: THE ACTION (part 26)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_26" data-title="Six British Battles — Part 6: THE ACTION (part 26)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The clearing of the Wood of Bossu by the right wing of Wellington’s army, reinforced by the newly arrived Guards, took more than an hour. It took as long to push the French centre back to Gemioncourt, and all through the last of the sunlight the walls of the farm were desperately held. On the left, Pierrepont was similarly held for close upon an hour. The sun had already set when the Guards debouched from the Wood of Bossu, only to be met and checked by a violent artillery fire from Pierrepont, while at the same time the remnant of the cuirassiers charged again, and broke a Belgian battalion at the edge of the wood.
@@ -6636,7 +6636,7 @@ Historical points are doubtful precisely because there is conflict of evidence; 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_27" data-title="Six British Battles — Part 6: THE ACTION (part 27)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_27" data-title="Six British Battles — Part 6: THE ACTION (part 27)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Judged by these standards, the fatal march and countermarch of Erlon become plain enough.
@@ -6680,7 +6680,7 @@ But such conceptions are not true. Great generals entrusted with separate forces
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_28" data-title="Six British Battles — Part 6: THE ACTION (part 28)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_28" data-title="Six British Battles — Part 6: THE ACTION (part 28)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 A second and graver difficulty is this: By the time Erlon got the message to come back, it was so late that he could not possibly bring his 20,000 up in time to be of any use to Ney at Quatre Bras. They could only arrive on the field, as they did in fact arrive, when darkness had already set in. It is argued that a general in Ney’s position would have rapidly calculated the distance involved, and would have seen that it was useless to send for his subordinate at such an hour.
@@ -6720,7 +6720,7 @@ Wellington wrote to Blucher, on his arrival at the field of Quatre Bras, at abou
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_29" data-title="Six British Battles — Part 6: THE ACTION (part 29)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_29" data-title="Six British Battles — Part 6: THE ACTION (part 29)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 In this letter, moreover, he said in so many words that his reserve, the large body upon which he mainly depended, would be within three miles of him by noon, the British cavalry within seven miles of him at the same hour.
@@ -6766,7 +6766,7 @@ In other words, to retreat northwards, though the decision to do so depended onl
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_30" data-title="Six British Battles — Part 6: THE ACTION (part 30)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_30" data-title="Six British Battles — Part 6: THE ACTION (part 30)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It must further be pointed out that this retreat northwards, though it abandoned the fixed line of communications leading through Namur and Liège to Aix la Chapelle, would pick up in a very few miles another line of communications through Louvain, Maestricht, and Cologne. The Prussian commanders, in determining upon this northward march, were in no way risking their supply nor hazarding the existence of their army upon a great chance. They were taking advantage of one of two courses left open to them, and that one the wiser of the two.
@@ -6804,7 +6804,7 @@ That Blucher could dream of taking a short cut westward, thus effecting an immed
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_31" data-title="Six British Battles — Part 6: THE ACTION (part 31)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_31" data-title="Six British Battles — Part 6: THE ACTION (part 31)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The next day! Monday!
@@ -6848,7 +6848,7 @@ When Wellington awoke on the morning of Saturday in Genappe, there were rumours 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_32" data-title="Six British Battles — Part 6: THE ACTION (part 32)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_32" data-title="Six British Battles — Part 6: THE ACTION (part 32)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Wellington knew, therefore, before eight o’clock on that Saturday morning, that his whole left or eastern flank was exposed, and it was common-sense to expect that [[Napoleon]], with the main body of the French, having defeated the Prussians at Ligny, would now march against himself, come up upon that exposed flank (while Ney held the front), and so outnumber the Anglo-Dutch under the Duke’s command. At the worst that command would be destroyed; at the best it could only hope, if it gave time for [[Napoleon]] to come up, to have to retreat westward, and to lose touch, for good, with the Prussians.
@@ -6886,7 +6886,7 @@ The soil of all these fields is of a peculiar black and consistent sort, almost 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_33" data-title="Six British Battles — Part 6: THE ACTION (part 33)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_33" data-title="Six British Battles — Part 6: THE ACTION (part 33)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 With the French it was otherwise. Their belated units kept straggling in until long after nightfall. The army was drawn up only at great expense of time and floundering effort, mainly in the dark, drenched, sodden with mud, along the ridge of the Belle Alliance. It was with difficulty that the wood of the bivouac fires could be got to burn at all. They were perpetually going out; and all that darkness was passed in a misery which the private soldier must silently expect as part of his trade, and which is relieved only by those vague corporate intuitions of a common peril, and perhaps a common glory, which, down below all the physical business, form the soul of an army.
@@ -6920,7 +6920,7 @@ In such a model the northern ridge P — Q some two miles in length is that held
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_34" data-title="Six British Battles — Part 6: THE ACTION (part 34)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_34" data-title="Six British Battles — Part 6: THE ACTION (part 34)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Of the two ridges, that held by [[Napoleon]] needs less careful study for the comprehension of the battle than that held by Wellington.
@@ -6966,7 +6966,7 @@ Elements of Waterloo.
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_35" data-title="Six British Battles — Part 6: THE ACTION (part 35)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_35" data-title="Six British Battles — Part 6: THE ACTION (part 35)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The First Part of the Action
@@ -7002,7 +7002,7 @@ Napoleon had no other intention that history can discover in pressing the attack
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_36" data-title="Six British Battles — Part 6: THE ACTION (part 36)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_36" data-title="Six British Battles — Part 6: THE ACTION (part 36)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It was by that time past one o’clock, and this first furious attempt upon Hougomont, unintended by the Emperor, and a sheer waste, had doubly failed. It had failed in itself — the house and garden still remained untaken, the post was still held. It had failed in its object, which had been to draw Wellington, and to get him to send numerous troops from his centre to his right in defence of the threatened place.
@@ -7028,7 +7028,7 @@ It will be seen that the crushing fire of the French eighty guns maintained for 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_37" data-title="Six British Battles — Part 6: THE ACTION (part 37)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_37" data-title="Six British Battles — Part 6: THE ACTION (part 37)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Meanwhile the French right, which had captured Papelotte, was compelled to retreat upon seeing the centre thus driven back, while the French left had failed to carry the farm of La Haye Sainte. Indeed upon this side, that is, in the neighbourhood of the great road, the check and reverse to the French assault had been more complete than elsewhere. An attempt to drive its first success home with a cavalry charge had been met by a countercharge, deservedly famous, in which, among other regiments, the First and Second Lifeguards, the Blues, the King’s Dragoons, had broken the French horse and followed up the French retirement down the slope. The centre of that retirement was similarly charged by the Scots Greys; and in the end of the whole affair the English horsemen rode up to the spur where the great battery stood, sabred the gunners, and then, being thus advanced so uselessly and so dangerously from their line, were in their turn driven back to the English positions with bad loss.
@@ -7066,7 +7066,7 @@ La Haye Sainte was not taken at this first attempt. The French were repelled; th
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_38" data-title="Six British Battles — Part 6: THE ACTION (part 38)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_38" data-title="Six British Battles — Part 6: THE ACTION (part 38)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Under the battering of that discharge the front of Wellington’s command was partially withdrawn behind the cover of the ridge. A stream of wounded, mixed with not a few men broken and flying, began to swell northward up the Brussels road; and Ney, imagining from such a sight that the enemy’s line wavered, committed his capital error, and called upon the cavalry to charge.
@@ -7096,7 +7096,7 @@ A better reason still decided Napoleon so to risk a very desperate chance, and t
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_39" data-title="Six British Battles — Part 6: THE ACTION (part 39)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_39" data-title="Six British Battles — Part 6: THE ACTION (part 39)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Let us turn, then, and see how far and with what rapidity the Prussians at this moment — nearly half-past five o’clock — had accomplished their purpose.
@@ -7140,7 +7140,7 @@ It could only be a question of delay. Lobau had but 10,000 against the 30,000 wh
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_40" data-title="Six British Battles — Part 6: THE ACTION (part 40)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_40" data-title="Six British Battles — Part 6: THE ACTION (part 40)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 All this while, during the Prussian success which brought that enemy’s reinforcement nearer and nearer to the rear of the French army and to the Emperor’s own standpoint, the wasted though magnificent action of the French cavalry was continuing against Wellington’s right centre, west of the Brussels road. Kellerman had charged for the third time; the plateau was occupied, the British guns abandoned, the squares formed. For the third time that furious seething of horse against foot was seen from the distant height of the Belle Alliance. For the third time the sight carried with it a deceptive appearance of victory. For the third time the cavalry charge broke back again, spent, into the valley below. Ney, wild as he had been wild at Quatre Bras, failing in judgment as he had failed then, shouted for the last reserve of horse, and forgot to call for that 6000 untouched infantry, the bulk of Reille’s Second Corps, which watched from the height of the French ridge the futile efforts of their mounted comrades.
@@ -7170,7 +7170,7 @@ The sun, now within an hour of setting, had shone out again. Its light came leve
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_41" data-title="Six British Battles — Part 6: THE ACTION (part 41)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_41" data-title="Six British Battles — Part 6: THE ACTION (part 41)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 No combat in history, perhaps, had seen a situation so desperate maintained without the order for retreat. Wellington’s front, which the French were attacking, was still held unbroken; upon the French flank and rear, though the Fourth Prussian Army Corps were for the moment held, they must inevitably return; more remained to come: they were in the act of pressing upon the only line open to the French for retreat, and now here came Ziethen with his new masses upon the top of all.
@@ -7208,7 +7208,7 @@ As the Guard went upward, the whole French front to the right moved forward and 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_42" data-title="Six British Battles — Part 6: THE ACTION (part 42)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_42" data-title="Six British Battles — Part 6: THE ACTION (part 42)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 At two hundred yards from the English line the grape began to mow through them. They closed up after each discharge. Their advance continued unchecked.
@@ -7252,7 +7252,7 @@ There was a moon that night; and hour after hour the Prussian cavalry, to whom t
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_43" data-title="Six British Battles — Part 6: THE ACTION (part 43)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_43" data-title="Six British Battles — Part 6: THE ACTION (part 43)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 FINIS
@@ -7298,7 +7298,7 @@ Louis naturally made every effort to lessen the blow, though he regarded his acc
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_44" data-title="Six British Battles — Part 6: THE ACTION (part 44)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_44" data-title="Six British Battles — Part 6: THE ACTION (part 44)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Had that peace been declared for which the captains of Europe were confidently preparing, the future history of our civilisation would have proved materially different from what it has become. It is to be presumed that a complete breakdown of the strength of [[France]] would have followed; that the monarchy at Versailles would have sunk immediately into such disrepute that the eighteenth century would have seen [[France]] divided and possibly a prey to civil war, and one may even conclude that the great events of a century later, the Revolution and the campaigns of [[Napoleon]], could not have sprung from so enfeebled a society.
@@ -7334,7 +7334,7 @@ The plan was as rapidly executed as it was skilfully devised. Actually before th
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_45" data-title="Six British Battles — Part 6: THE ACTION (part 45)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_45" data-title="Six British Battles — Part 6: THE ACTION (part 45)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 There followed two days of delay, which will be discussed in detail later. For the purposes of this introductory survey of the political meaning of the battle, it is enough to fix the date, Wednesday, 11th September 1709. A little before eight o’clock on the morning of that day the first cannon-shot of the battle of Malplaquet was fired. To the numerical superiority of the allies the French could oppose entrenchment and that character in the locality of the fight, or “terrain,” which will be fully described on a later page. To the superior moral, equipment, and subsistence of the allies, however, it was doubtful whether any factor could be discovered on the French side.
@@ -7358,7 +7358,7 @@ In England, where opinion had but tardily accepted the necessity for war nine ye
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_46" data-title="Six British Battles — Part 6: THE ACTION (part 46)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_46" data-title="Six British Battles — Part 6: THE ACTION (part 46)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Such is the general political setting of this fierce action, one of the most determined known in the history of European arms, and therefore one of the most legitimately glorious; one in which men were most ready at the call of duty and under the influences of discipline to sacrifice their lives in the defence of a common cause; and one which, as all such sacrifices must, illumines the history of the several national traditions concerned, of the English as of the Dutch, of the German principalities as of the French.
@@ -7402,7 +7402,7 @@ The 27th was passed without a movement, Villars refusing to leave his entrenchme
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_47" data-title="Six British Battles — Part 6: THE ACTION (part 47)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_47" data-title="Six British Battles — Part 6: THE ACTION (part 47)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 A comprehension of this siege of Tournai, which so largely determined the fortunes of the campaign of Malplaquet, will be aided by the accompanying sketch map. Here it is apparent that Marlborough with his headquarters at Willemeau, Eugene with his at Froyennes, the Dutch under Tilly in a semicircle from Antoing to Constantin, completed the investment of the fortress, and that the existing bridge at Antoing which the Dutch commanded, the bridge at Constantin which they had constructed, giving access over the river to the north and to the south, made the circle complete.
@@ -7432,7 +7432,7 @@ It had been a desperate combat of mine and counter-mine even where the general c
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_48" data-title="Six British Battles — Part 6: THE ACTION (part 48)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_48" data-title="Six British Battles — Part 6: THE ACTION (part 48)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 To Marlborough is due the honour of the capitulation. The besieging troops were under his command, while Eugene directed the army of observation to the west. Marlborough put some eight thousand men into the town under Albemarle. A verbal understanding was given on both sides that the citadel would not fire upon the civilian part, nor the allies make an attack from it upon the citadel, and the siege of that stronghold began upon the following day, the 21st, towards evening. The operations against the citadel proved far more severe and a far greater trial to Marlborough’s troops than those against the general circumvallation of the town. The subterranean struggle of mine and counter-mine particularly affected the moral of the allies, and after a week a proposal appeared that the active fighting should cease, the siege be converted into a blockade, and only the small number of men sufficient for such a blockade be left before the citadel until the 5th of September, up to which date, a month ahead, at the utmost, it was believed the garrison could hold out. Louis was willing to accept the terms upon the condition that this month should be one of general truce. The allies refused this condition, and hostilities were resumed.
@@ -7472,7 +7472,7 @@ To make a frontal attack upon Villars’ lines at any point was justly thought i
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_49" data-title="Six British Battles — Part 6: THE ACTION (part 49)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_49" data-title="Six British Battles — Part 6: THE ACTION (part 49)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Coincidently with the first negotiations for the capitulation of the citadel of Tournai, this new plan was entered upon. Lord Orkney, with the grenadiers of the army and between 2000 and 3000 mounted men, was sent off on the march to the south-east just as the first negotiations of Marlborough with Surville were opened. With this mobile force Orkney attempted to pass the Haine at St Ghislain. He all but surprised that point at one o’clock of the dark September night, but the French posts were just in time. He was beaten off, and had to cross the river higher up upon the eastern side of Mons, at Havre.
@@ -7500,7 +7500,7 @@ THE ARRIVAL OF Louis Francis, Duke of Boufflers, peer and marshal of [[France]],
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_50" data-title="Six British Battles — Part 6: THE ACTION (part 50)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_50" data-title="Six British Battles — Part 6: THE ACTION (part 50)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 Boufflers at this moment was in his 66th year, and seemed older. His masterful, prominent face, large, direct, humorous in expression, full of command, was an index of a life well lived in the business of organisation, of obedience, and at last of supreme direction. Years ago at Namur his tenacity, under the pressure of a superior offensive, had earned him the particular character which he now bore. Only the year before, his conduct of the siege of Lille, when he had determinedly held out against the certitude of ultimate surrender, had refused to yield the place even after receiving orders from his sovereign, and had finally obtained, by his unshakable determination, a capitulation of the most honourable kind, was fresh in the minds of all. There is a story that on his arrival in the French camp the cheers with which he was greeted reached the opposing line, and that the allies were moved by the enormous rumour to expect an instant assault. He was one of those leaders who, partly through their legend, more through their real virtue, are a sort of flag and symbol to the soldiery who have the good fortune to receive their command.
@@ -7524,7 +7524,7 @@ Upon the Belgian side a string of considerable villages stretched; three of them
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_51" data-title="Six British Battles — Part 6: THE ACTION (part 51)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_51" data-title="Six British Battles — Part 6: THE ACTION (part 51)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The dispositions which the French army would take in such a defensive position were evident enough. It must defend the gap by entrenchment; it must put considerable forces into the woods upon the right and to the left of the gap to prevent the entrenchments being turned. The character of Villars and the French tradition of depending upon earth wherever that be possible, was bound, if time were accorded, to make the entrenchment of the open gap formidable. The large numbers engaged upon either side left a considerable number at the disposal of either commander, to be used by the one in holding the woods, by the other in attempting to force them; not much more than half of the French force need stand to the defence of the open gap. This gap was so suitable, with its bare fields after harvest, the absence of hedges, the insignificance of the rivulets, for the action of cavalry, that gates or gaps would be left in the French entrenchment for the use of that arm in order to allow the mounted men to pass through and charge as the necessity for such action might arise. In general, therefore, we must conceive of the French position as strong entrenchments thrown across the gap and lined with infantry, the cavalry drawn up behind to pass through the infantry when occasion might demand, through the line of entrenchment, and so to charge; the two woods upon either side thickly filled with men, and the position taken up by these defended by felled tree trunks and such earthwork as could be thrown up with difficulty in the dense undergrowth.
@@ -7550,7 +7550,7 @@ One last point must be mentioned before the action itself is described: the open
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_52" data-title="Six British Battles — Part 6: THE ACTION (part 52)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_52" data-title="Six British Battles — Part 6: THE ACTION (part 52)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 * * *
@@ -7584,7 +7584,7 @@ First, a great battery of forty guns ready to support an attack upon the entrenc
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_53" data-title="Six British Battles — Part 6: THE ACTION (part 53)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_53" data-title="Six British Battles — Part 6: THE ACTION (part 53)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The general command of the left, including Lord Orkney’s battalions, also including (though tactically they formed part of the right wing) the force under Lottum, lay with the Duke of Marlborough. The command of the right — that is, Schulemberg and the cavalry behind him — lay with Prince Eugene.
@@ -7614,7 +7614,7 @@ The first movement of the allies was an advance of the left under the Prince of 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_54" data-title="Six British Battles — Part 6: THE ACTION (part 54)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_54" data-title="Six British Battles — Part 6: THE ACTION (part 54)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 This attack failed. Villars was present in person with the French troops and directed the repulse. Almost at the same time the advance of Schulemberg upon the other side of the wood, which Eugene was superintending, suffered a check. Its reserves were called up. The intervals of the first line were filled up from the second. One French brigade lining the wood was beaten back, but the Picardy Regiment and the Marines stood out against a mixed force of Danes, Saxons, and Hessians opposing them. Schulemberg, therefore, in this second attack had failed again, but Marlborough, leading Lottum’s men upon the other side of the wood to a second charge in his turn, had somewhat greater success. He had by this time been joined by a British brigade under the Duke of Argyle from the second line, and he did so far succeed with this extension of his men as to get round the edge of the French entrenchments in the wood.
@@ -7638,7 +7638,7 @@ Marlborough, trusting that the forest of Sars would soon be finally cleared, det
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_55" data-title="Six British Battles — Part 6: THE ACTION (part 55)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_55" data-title="Six British Battles — Part 6: THE ACTION (part 55)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The pressure upon the French in the wood of Sars, perpetually increasing, had already caused Villars, who commanded there in person, to beg Boufflers for aid; but the demand came when Boufflers was fighting his hardest against the last Dutch attack, and no aid could be sent.
@@ -7678,7 +7678,7 @@ The horse upon either side might indeed have continued charge and counter-charge
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_56" data-title="Six British Battles — Part 6: THE ACTION (part 56)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_56" data-title="Six British Battles — Part 6: THE ACTION (part 56)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 It was not quite three o’clock in the afternoon.
@@ -7710,7 +7710,7 @@ It must be clearly grasped by the general reader how natural was both the real a
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_57" data-title="Six British Battles — Part 6: THE ACTION (part 57)" data-chapter="Chapter 15 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_57" data-title="Six British Battles — Part 6: THE ACTION (part 57)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 When, therefore, upon the 20th September 1355, Edward, the Black Prince, landed at Bordeaux, it was to find a province the nobles of which were honestly attached to his cause and the greater townsmen as well; while in the mass of the people there was no disaffection to the idea of this one out of the vague, many, French-speaking feudal lords whom they knew to be their masters, being the actual governor of the land. There was no conquest, nor any need for it, so far as Gascony was concerned; and in any expedition the Prince might make he was as certain of a regular following from the towns and estates that lay between the mountains and the Garonne as the King of [[France]] was certain of his own feudal levies in the north. But expeditions and fighting there would be because the Black Prince came with a commission not only to govern Gascony, but to establish himself in the more doubtful Guienne, and even to be — if he could conquer it — the lieutenant of his father, Edward, in all Aquitaine. He was to recover the districts immediately north of the Garonne, and even (in theory, at least) right up to the neighbourhood of the Loire; and (in theory, again) he was to regard those who might resist his administration of all these “lost” countries of the Central and Southern West of [[France]] as “rebels.”
@@ -7728,7 +7728,7 @@ As to the character of the Black Prince, which so largely determined what is to 
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_campaign--part_01" data-title="Six British Battles — Part 1: THE CAMPAIGN (part 1)" data-chapter="Chapter 16 THE CAMPAIGN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_campaign--part_01" data-title="Six British Battles — Part 1: THE CAMPAIGN (part 1)" data-chapter="THE CAMPAIGN" data-kind="excerpt"></span>
 
 
 PART I. THE CAMPAIGN
@@ -7758,7 +7758,7 @@ The raid into the north began and was continued in a fashion not exactly leisure
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_campaign--part_02" data-title="Six British Battles — Part 1: THE CAMPAIGN (part 2)" data-chapter="Chapter 16 THE CAMPAIGN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_campaign--part_02" data-title="Six British Battles — Part 1: THE CAMPAIGN (part 2)" data-chapter="THE CAMPAIGN" data-kind="excerpt"></span>
 
 
 It will be evident from the trace of such a route that it had no definite strategic purpose. It was a mere raid: a harrying of the land with the object of relieving the pressure upon the north. It vaguely held, perhaps, a further object of impressing the towns of Aquitaine with the presence of a Plantagenet force. But this last feature we must not exaggerate. The Black Prince did not treat the towns he visited as territory ultimately to be governed by himself or his father. He treated them as objects for plunder.
@@ -7786,7 +7786,7 @@ Now from his camp in front of Tours, Edward behaved in a fashion singular even f
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_campaign--part_03" data-title="Six British Battles — Part 1: THE CAMPAIGN (part 3)" data-chapter="Chapter 16 THE CAMPAIGN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_campaign--part_03" data-title="Six British Battles — Part 1: THE CAMPAIGN (part 3)" data-chapter="THE CAMPAIGN" data-kind="excerpt"></span>
 
 
 The King of [[France]] had begun to get men together at Chartres upon the same day that his rival had reached Vierzon, the 28th of August. Five days later, just when Romorantin Castle was surrendering, he had broken up and was marching to the Loire. And upon the same 8th of September which saw the Black Prince pitch his tents under the walls of Tours, the first bodies of the French command were beginning to cross the Loire at the two upper points of Meung and Blois, while some of them were preparing to cross at Tours itself.
@@ -7808,7 +7808,7 @@ Sketch Map of operations preceding the Battle
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_preliminaries_of_the_actio--part_01" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION (part 1)" data-chapter="Chapter 17 THE PRELIMINARIES OF THE ACTIO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_preliminaries_of_the_actio--part_01" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION (part 1)" data-chapter="THE PRELIMINARIES OF THE ACTIO" data-kind="excerpt"></span>
 
 
 PART II. THE PRELIMINARIES OF THE ACTION
@@ -7840,7 +7840,7 @@ In explanation of this error, it must be remembered that the population so far n
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_preliminaries_of_the_actio--part_02" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION (part 2)" data-chapter="Chapter 17 THE PRELIMINARIES OF THE ACTIO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_preliminaries_of_the_actio--part_02" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION (part 2)" data-chapter="THE PRELIMINARIES OF THE ACTIO" data-kind="excerpt"></span>
 
 
 He stayed in Châtellerault recruiting the strength of his mounts and men for two whole days. He passed the Thursday and the Friday there without moving, and it was not until the Saturday morning that he set out from the town, crossed the Clain, and engaged himself within the triangle between the two rivers.
@@ -7868,7 +7868,7 @@ The army reached the high road, and crossed it long after the French rearguard h
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_preliminaries_of_the_actio--part_03" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION (part 3)" data-chapter="Chapter 17 THE PRELIMINARIES OF THE ACTIO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_preliminaries_of_the_actio--part_03" data-title="Six British Battles — Part 2: THE PRELIMINARIES OF THE ACTION (part 3)" data-chapter="THE PRELIMINARIES OF THE ACTIO" data-kind="excerpt"></span>
 
 
 Upon the next morning, that of Sunday the 18th of September, broken as the force was with fatigue, it was marshalled again for the march — but no more than a mile or two was asked of it.
@@ -7896,7 +7896,7 @@ With this plan clearly developed he advanced upon the Sunday morning no more tha
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_terrain--part_01" data-title="Six British Battles — Part 3: THE TERRAIN (part 1)" data-chapter="Chapter 18 THE TERRAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_terrain--part_01" data-title="Six British Battles — Part 3: THE TERRAIN (part 1)" data-chapter="THE TERRAIN" data-kind="excerpt"></span>
 
 
 PART III. THE TERRAIN
@@ -7930,7 +7930,7 @@ The French method of cultivating the vine, and the condition of that cultivation
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_terrain--part_02" data-title="Six British Battles — Part 3: THE TERRAIN (part 2)" data-chapter="Chapter 18 THE TERRAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_terrain--part_02" data-title="Six British Battles — Part 3: THE TERRAIN (part 2)" data-chapter="THE TERRAIN" data-kind="excerpt"></span>
 
 
 The vine is cultivated in [[France]] upon short stakes of varying height with varying districts, but usually in this neighbourhood somewhat over four feet above the ground; that is, covering most of a man’s figure, even as he would stand to arms with a long-bow, yet affording space above for the discharge of the weapon. These stakes are set at such distances apart as allow ordered and careful movement between them, but close enough together to break and interfere with a pressed advance: their distances being determined by the fulness of the plant before the grapes are gathered, a harvest which falls in that region somewhat later than the date of the action.
@@ -7962,7 +7962,7 @@ Over and above the passage of the Miosson by a regular bridge and a proper road 
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_terrain--part_03" data-title="Six British Battles — Part 3: THE TERRAIN (part 3)" data-chapter="Chapter 18 THE TERRAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_terrain--part_03" data-title="Six British Battles — Part 3: THE TERRAIN (part 3)" data-chapter="THE TERRAIN" data-kind="excerpt"></span>
 
 
 It is evident on the face of it that the detail of the retreat was not invented. Everyone is agreed that the rhymed chronicle of the Chandos Herald does not carry the same authority as prose contemporary work. It is not meant to. It is a literary effort rather than a record. But there would be no reason for inventing such a point as the beginning of a retreat before an action — not a very glorious or dramatic proceeding — and the mere mention of such a local feature as the ford in Baker is clear proof that what we can put together from the two accounts is based upon an historical event and the memory of witnesses.
@@ -7990,7 +7990,7 @@ To leave the field in the second fashion I have described is mathematically equi
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_terrain--part_04" data-title="Six British Battles — Part 3: THE TERRAIN (part 4)" data-chapter="Chapter 18 THE TERRAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_terrain--part_04" data-title="Six British Battles — Part 3: THE TERRAIN (part 4)" data-chapter="THE TERRAIN" data-kind="excerpt"></span>
 
 
 To believe, then, that Warwick filed off by the left, followed by the vehicles, and then by the main command under the Prince, and that all this larger part of the army, including its wheeled vehicles, had got across the ford before contact took place and an action developed, is impossible. It is not only opposed to any sound judgment, it is mathematically impossible. It also conflicts with the use of a park of vehicles to defend the left of the entrenched line, and with the natural use of the line of retreat by Nouaillé. I can only conclude that what really happened was something of this sort:
@@ -8006,7 +8006,7 @@ This, I think, is the rational reconciliation of several stories which are only 
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_action--part_01" data-title="Six British Battles — Part 4: THE ACTION (part 1)" data-chapter="Chapter 19 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_action--part_01" data-title="Six British Battles — Part 4: THE ACTION (part 1)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 PART IV. THE ACTION
@@ -8032,7 +8032,7 @@ When the second line had thus got clear of the original formation, Edward, prece
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_action--part_02" data-title="Six British Battles — Part 4: THE ACTION (part 2)" data-chapter="Chapter 19 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_action--part_02" data-title="Six British Battles — Part 4: THE ACTION (part 2)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 At this moment, then, somewhere between seven and eight o’clock, the situation is thus: the Prince and the band with him are riding off towards the edge where the land falls somewhat steeply towards the Miosson. He and his men have their backs turned to the bulk of the army, which, in two bodies, the larger one lining the hedge and a smaller one behind it, are holding the chosen defensive position in case there should be any sign of a French pursuit. We must presume that if no such pursuit appeared to be developing it was Edward’s intention, when he had got the special waggons and their escort safely across the ford, to withdraw the bulk of his force thus left behind by the road through Nouaillé and across its bridge. The smaller body would go first; then, section by section, the first line would fall into column and retire by the Nouaillé road, leaving at last no more than a small rearguard at the hedge, which, when all the waggons of the park had been harnessed up and were filing down the Nouaillé road, would itself fall into column and bring up the extreme end of the retreat.
@@ -8056,7 +8056,7 @@ On the other hand, we have the evidence of a man who wrote from the field itself
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_action--part_03" data-title="Six British Battles — Part 4: THE ACTION (part 3)" data-chapter="Chapter 19 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_action--part_03" data-title="Six British Battles — Part 4: THE ACTION (part 3)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 We may set inferior and exterior limits to the numbers somewhat as follows: the French host included 8000 fully-armed mounted men; that is, not quite double the Gascon and English units of the same rank and equipment. It had somewhat less than the English contingent of missile-armed soldiers, and these armed with a weapon inferior to their opponents. Count these two factors at 10,000 against the Anglo-Gascon 7000 or 8000. There you have an inferior limit which was certainly exceeded, for John’s command included a number of other rougher mounted levies and other less trained or untrained infantry. Above that minimum we may add anything we like up to 10,000 for the untrained, and we get a superior limit for the total of 20,000 men all told. Averaging the probabilities from the various accounts, we are fairly safe in setting this addition at 5000, and perhaps a little over. So that the whole force which John could have brought into the field, and which, had it been properly led and organised, he might have used to full effect in that field, was about double the numbers which the Black Prince could oppose to him. The Anglo-Gascons, standing on the defensive, had from 7000 to 8000 men, and the force marching against them on the offensive was presumably in the neighbourhood of 15,000 to 16,000; while an analysis of the armament gives you, in the capital factors of it, an inferior number of French missile weapons to the missile weapons of the English prince, but double the number of fully-armed knights.
@@ -8078,7 +8078,7 @@ It was to avoid misfortune of this kind that the vanguard of which I have spoken
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_action--part_04" data-title="Six British Battles — Part 4: THE ACTION (part 4)" data-chapter="Chapter 19 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_action--part_04" data-title="Six British Battles — Part 4: THE ACTION (part 4)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The plan thus ordered by the French king at the advice of his Scotch lieutenant was not so incompetent as the results have led some historians to judge. It suffered from four misconceptions; but of these one was not the fault of the French commander, while the other three could only have been avoided by a thorough knowledge of the new Plantagenet tactics, which had not yet been grasped in the entirety of their consequences even by those who had invented them.
@@ -8106,7 +8106,7 @@ The waggons which that commander had been escorting had been got safely across t
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_action--part_05" data-title="Six British Battles — Part 4: THE ACTION (part 5)" data-chapter="Chapter 19 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_action--part_05" data-title="Six British Battles — Part 4: THE ACTION (part 5)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 He came out over the edge of the hill, just before the mass of the French vanguard had got home, and when only the front of it had reached the hedge and was beginning the hand-to-hand struggle. He put such archers as he had had with his escort somewhat in front of the line of the hedge, and with their fire unexpectedly and immediately enfiladed all that mass of the French infantry, which expected no danger from such a quarter, and was pressing forward through the vineyards to the summit of the little rise. This sharp and unlooked for flank fire turned the scale. The whole French vanguard was thrown into confusion, and broke down the side of the depression and up its opposing slope. As it so broke it interfered with and in part confused the first of the great French “battles,” that under the Dauphin, whose ordered task it was to follow up the vanguard and reinforce its pressure upon the English line. Though the vanguard had been broken, the Dauphin’s big, unwieldy body of dismounted armoured men managed to go forward through the shaken and flying infantry, and in their turn to attack the hedge and the vineyard before it. Against them, the flank fire from Warwick could do less than it had done against the unarmoured cross-bowmen and sergeants of the vanguard which it had just routed. The Dauphin’s cumbered and mailed knights did manage to reach the main English position of the hedge, but they were not numerous enough for the effort then demanded of them. The half mile of advance under such a weight of iron had terribly exhausted them, and meanwhile Edward had come back, the full weight of his command — every man of it except a reserve of four hundred — was massed to meet the Dauphin’s attack. Warwick’s men hurried up from the left to help in the sword play, and by the time the mêlée was engaged that line of hedge saw the unusual struggle of a defensive superior in numbers against an inferior offensive which should, by all military rule, have refused to attempt the assault.
@@ -8124,7 +8124,7 @@ At any rate, the whole of the second “battle,” mixed with the debris of the 
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_action--part_06" data-title="Six British Battles — Part 4: THE ACTION (part 6)" data-chapter="Chapter 19 THE ACTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_action--part_06" data-title="Six British Battles — Part 4: THE ACTION (part 6)" data-chapter="THE ACTION" data-kind="excerpt"></span>
 
 
 The pause which necessarily followed the withdrawal of the central French force, or second “battle,” under Orleans gave Edward’s army the breathing space they needed. It further meant, counting the destruction of the vanguard and the cutting to pieces of the Dauphin’s “battle,” the permanent inferiority through the rest of the day of anything that the French king could bring against the Plantagenets. The battle was lost from that moment, between ten and eleven o’clock, when Orleans’ confused column, pouring, jostled off the field, left the great gap open between King John and the lead of his third battle and the English force.
@@ -8154,7 +8154,7 @@ It was noon when the fight was decided. It was mid-afternoon when the last of th
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_aspect_of_these_battles--part_01" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES (part 1)" data-chapter="Chapter 20 THE ASPECT OF THESE BATTLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_aspect_of_these_battles--part_01" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES (part 1)" data-chapter="THE ASPECT OF THESE BATTLES" data-kind="excerpt"></span>
 
 
 PART V. THE ASPECT OF THESE BATTLES
@@ -8186,7 +8186,7 @@ When I say, as I have said with regard both to Crécy and to Poitiers — though
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_aspect_of_these_battles--part_02" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES (part 2)" data-chapter="Chapter 20 THE ASPECT OF THESE BATTLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_aspect_of_these_battles--part_02" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES (part 2)" data-chapter="THE ASPECT OF THESE BATTLES" data-kind="excerpt"></span>
 
 
 The gentry, who were the nucleus of the fighting, were armed in the middle of the fourteenth century after a fashion transitional between the rings of mail which had been customary for a century and the plate armour which was usual for the last century before the general use of firearms, ornamental during the century in which firearms established themselves, and is still the popular though false conception of mediæval accoutrement. From immemorial time until the First Crusade and the generation of the Battle of Hastings and the capture of Jerusalem, fighters had covered their upper bodies with leather coats, and their heads with an iron casque. From at least the Roman centuries throughout the Dark Ages, a universal use of metal rings linked together over the leather protected the armed man, and our word mail is French for links, and nothing else. In time, the network of links came to be used separate from the leather, and so it was put on like a shirt of flexible iron all through the great business which saved Europe during the ninth century against the Northmen in Gaul and Britain, against the Moor in Spain. It was the armour of the knights in Palestine, of the native armies which drove the Germans from Italy, and of the Norman Conquest.
@@ -8210,7 +8210,7 @@ The strength of an armed body consists in its cohesion. When the whole body is i
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_aspect_of_these_battles--part_03" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES (part 3)" data-chapter="Chapter 20 THE ASPECT OF THESE BATTLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_aspect_of_these_battles--part_03" data-title="Six British Battles — Part 5: THE ASPECT OF THESE BATTLES (part 3)" data-chapter="THE ASPECT OF THESE BATTLES" data-kind="excerpt"></span>
 
 
 But against this truth there is another truth to be set, which the individual man would never guess, and which is none the less experimentally certain — which is this: that if a certain number of men on foot stand firm when horses are galloping at them, the horses will swerve or balk before contact; in general, the mounted line will not be efficacious against the dismounted. There is here a contrast between the nerves of horses and the intelligence of men, as also between the rider’s desire that his horse should go forward and the horse’s training, which teaches him that not only his rider, but men in general, are his masters. What is true here of horses is not true of dogs, who think all men not their masters, but their enemies, and desire to kill them, and what is more, can do so, which a horse cannot. A charge of large mounted dogs against unshaken infantry would succeed. A charge of mounted horses against unshaken infantry, if that infantry be sufficiently dense, will fail.

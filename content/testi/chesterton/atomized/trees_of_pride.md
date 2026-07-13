@@ -24,10 +24,10 @@ by Gilbert K. Chesterton
 
 THE TREES OF [[Pride|PRIDE]]:
 
-  I. THE TALE OF THE PEACOCK TREES
-  II. THE WAGER OF SQUIRE VANE
-  III. THE MYSTERY OF THE [[Well|WELL]]
-  IV. THE CHASE AFTER THE [[Truth|TRUTH]]
+I. THE TALE OF THE PEACOCK TREES
+II. THE WAGER OF SQUIRE VANE
+III. THE MYSTERY OF THE [[Well|WELL]]
+IV. THE CHASE AFTER THE [[Truth|TRUTH]]
 
 THE TREES OF [[Pride|PRIDE]]
 
@@ -2654,7 +2654,7 @@ End of The Trees of [[Pride]], by G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_01" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 1)" data-chapter="Story 03 THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_01" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 1)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
 
 
 I. THE TALE OF THE PEACOCK TREES
@@ -2769,7 +2769,7 @@ supposed to be passing, and perhaps has already passed.
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_02" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 2)" data-chapter="Story 03 THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_02" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 2)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
 
 
 The obnoxious objects stood some hundred yards away from the speaker,
@@ -2881,7 +2881,7 @@ and eating everything up."
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_03" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 3)" data-chapter="Story 03 THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_03" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 3)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
 
 
 "There is some stupid legend," said Squire Vane gruffly.
@@ -3007,7 +3007,7 @@ Paynter feel he was, after all, an [[Exile|exile]] in England.
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_04" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 4)" data-chapter="Story 03 THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_04" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 4)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
 
 
 The Squire, anticipating the trial of luncheon with a strange
@@ -3118,7 +3118,7 @@ feel like a cannibal."
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_05" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 5)" data-chapter="Story 03 THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_05" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 5)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
 
 
 "Ex Africa," said the lawyer, smiling.  "It comes from a
@@ -3245,7 +3245,7 @@ what I don't believe than by what I do."
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_06" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 6)" data-chapter="Story 03 THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_06" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 6)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
 
 
 Then, after a pause, he made a general gesture toward
@@ -3389,7 +3389,7 @@ e che le fate non fossero sue amiche.
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_01" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 1)" data-chapter="Story 04 THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_01" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 1)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
 
 
 II.  THE WAGER OF SQUIRE VANE
@@ -3506,7 +3506,7 @@ if anyone will take the bet."
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_02" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 2)" data-chapter="Story 04 THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_02" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 2)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
 
 
 Without waiting for reply, he snatched up his wide white hat and
@@ -3628,7 +3628,7 @@ and was gazing at them with a singular attentiveness.
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_03" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 3)" data-chapter="Story 04 THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_03" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 3)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
 
 
 "Didn't some other minor poet remark," inquired Paynter flippantly,
@@ -3746,7 +3746,7 @@ that no one could go after her.
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_04" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 4)" data-chapter="Story 04 THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_04" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 4)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
 
 
 The [[spring]] had already begun to ripen into [[Summer|summer]], and spread a green
@@ -3907,7 +3907,7 @@ he was fighting for a friend.
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_05" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 5)" data-chapter="Story 04 THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_05" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 5)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
 
 
 He was brought to a standstill once, however, and that at
@@ -4026,7 +4026,7 @@ the more he studied it, to point to some essential of the mystery.
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_06" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 6)" data-chapter="Story 04 THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_06" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 6)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
 
 
 One of these beaten and broken tracks went from the space under
@@ -4120,7 +4120,7 @@ quella distanza dall'orlo quando l'[[Water|acqua]] parlò.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_01" data-title="trees of pride — THE MYSTERY OF THE WELL (part 1)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_01" data-title="trees of pride — THE MYSTERY OF THE WELL (part 1)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
 
 
 III.  THE MYSTERY OF THE [[Well|WELL]]
@@ -4358,7 +4358,7 @@ con tutta la propria energia alla scena delle fatiche del giorno prima.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_02" data-title="trees of pride — THE MYSTERY OF THE WELL (part 2)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_02" data-title="trees of pride — THE MYSTERY OF THE WELL (part 2)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
 
 
 It may [[Well|well]] have brightened and made breezier his second day's toil that
@@ -4636,7 +4636,7 @@ di ritenere perfettamente vero."
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_03" data-title="trees of pride — THE MYSTERY OF THE WELL (part 3)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_03" data-title="trees of pride — THE MYSTERY OF THE WELL (part 3)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
 
 
 "What was that?" inquired the other.
@@ -4890,7 +4890,7 @@ vedendoli.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_04" data-title="trees of pride — THE MYSTERY OF THE WELL (part 4)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_04" data-title="trees of pride — THE MYSTERY OF THE WELL (part 4)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
 
 
 "I should like to speak to you rather particularly if I may,"
@@ -5128,7 +5128,7 @@ con le più belle favole su un santo e il suo bosco incantato."
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_05" data-title="trees of pride — THE MYSTERY OF THE WELL (part 5)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_05" data-title="trees of pride — THE MYSTERY OF THE WELL (part 5)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
 
 
 "[[Well]], and you!" she cried, and [[Rose|rose]] radiantly and swiftly.
@@ -5372,7 +5372,7 @@ pena di scusarlo?"
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_06" data-title="trees of pride — THE MYSTERY OF THE WELL (part 6)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_06" data-title="trees of pride — THE MYSTERY OF THE WELL (part 6)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
 
 
 "[[Well]]," said Paynter, with his ready appreciation, "I always said
@@ -5586,7 +5586,7 @@ il suo boccale vuoto.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_01" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 1)" data-chapter="Story 06 THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_01" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 1)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
 
 
 IV.  THE CHASE AFTER THE [[Truth|TRUTH]]
@@ -5828,7 +5828,7 @@ l'uomo di medicina di questo villaggio.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_02" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 2)" data-chapter="Story 06 THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_02" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 2)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
 
 
 "The next examination I made was that of Martin, the [[Woodcutter|woodcutter]].
@@ -5954,7 +5954,7 @@ and they saw that it was still smiling.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_03" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 3)" data-chapter="Story 06 THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_03" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 3)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
 
 
 "I'm rather glad of this," said Treherne, with a great sigh.
@@ -6076,7 +6076,7 @@ clothes had a foreign look.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_04" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 4)" data-chapter="Story 06 THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_04" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 4)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
 
 
 "[[Well]], gentlemen," he said genially, "so this is the end of
@@ -6197,7 +6197,7 @@ it may be set forth consecutively in his own words.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_05" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 5)" data-chapter="Story 06 THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_05" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 5)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
 
 
 "First, I wish it clearly understood that I believe in nothing.

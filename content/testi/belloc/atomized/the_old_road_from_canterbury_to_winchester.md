@@ -1299,7 +1299,7 @@ In the inn, in the main room of it, I found my companions. A gramophone fitted w
 
 
 
-<span class="atom-split" data-atom="story_01_on_the_road_and_the_fascination_of_antiq" data-title="The Old Road: from Canterbury to Winchester — ON THE ROAD AND THE FASCINATION OF ANTIQUITY" data-chapter="Story 01 ON THE ROAD AND THE FASCINATION OF ANTIQ" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_the_road_and_the_fascination_of_antiq" data-title="The Old Road: from Canterbury to Winchester — ON THE ROAD AND THE FASCINATION OF ANTIQUITY" data-chapter="ON THE ROAD AND THE FASCINATION OF ANTIQ" data-kind="story"></span>
 
 
 ON THE ROAD AND THE FASCINATION OF ANTIQUITY
@@ -1333,7 +1333,7 @@ No better task could be put before a man, and the way in which I accomplished it
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_01" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 1)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_01" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 1)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 THE THEORY OF THE OLD ROAD
@@ -1373,7 +1373,7 @@ That economic tendency upon which our materialists lay so great a stress is equa
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_02" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 2)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_02" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 2)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 Now one of the forces which helps to produce a road is the necessity of interchange — what physicists call potential — a difference between opposite poles. Such a force is to be discovered in the permanent character of the west; its permanent differentiation from our eastern seaboard. Nor is it fantastic to insist upon the legends which illumine this corner of the island. Glastonbury was for centuries the most sacred spot in our country, and it was sacred precisely because confused memories of an immense antiquity clung round it. The struggle between the Romano-British princes and the heathen pirates, a struggle the main effort of which must have taken place much further east, is yet fixed by legend in that same land of abrupt rocks and isolated valleys which forms the eastern margin of the Bristol Channel, and Arthur, who was king if anything of the Logrians, yet has been given by [[Tradition|tradition]] a castle at Tintagel.
@@ -1411,7 +1411,7 @@ Such, we must presume, was the full course of the original Road from east to wes
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_03" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 3)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_03" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 3)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 Such was undoubtedly the earliest form of the Old Road, but upon this original trajectory two exceptions fell in a time so remote that it has hardly left a record. The western end of the Road was deflected and came to spring, not from Stonehenge, but from the site of Winchester; the eastern portion was cut short: it terminated, not at some port, but at Canterbury, inland.
@@ -1449,7 +1449,7 @@ There are from the continental side no good starting-points from the coast immed
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_04" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 4)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_04" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 4)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 From Calais, then, the run would have been made to the English shores.
@@ -1481,7 +1481,7 @@ When the traveller is uncertain which of six places he can choose for his depart
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_05" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 5)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_05" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 5)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 When a merchant, landing, knows not in which of six towns he shall land, he must at least be certain that some one town, common as it were to all the six, can be reached the day after his landing; he must know that his correspondents can meet him there, and that he may make that common town his depôt for further transactions inland.
@@ -1515,7 +1515,7 @@ By the map alone no one could discover the character of this Second Crossing. Af
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_06" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 6)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_06" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 6)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 Physical experience of many passages corrects such an error; a consideration of the political history of the Continent tends further to correct it. The Second Crossing was, and has always been, and will, we may presume, in the future be, second only in importance to that of the Straits.
@@ -1543,7 +1543,7 @@ These considerations, then, the guide and protection of the Cotentin coast, the 
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_07" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 7)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_07" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 7)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 I say this alone would prove the age of the route, but there is something which clinches the argument, and that is what we saw to be so important in the case of Kent— ‘The Choice of Entry.’ How the tides of the narrow seas and the uncertain winds made imperative a choice of entries to the land I have already shown in my discussion of the Straits, and I need not repeat my arguments.
@@ -1573,7 +1573,7 @@ Later attempts were made at a short cut. Perhaps the second attempt was to go so
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_08" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 8)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_08" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 8)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 This short cut, feeder, or tributary which ultimately formed the western end of our Road was driven into a channel which attracted it to Farnham almost as clearly as the chalk hills of which I have spoken pointed out the remainder of the way: for two river valleys, that of the Itchen and that of the Wey led straight to that town and to the beginning of the [[Hill|hill]]-platform.
@@ -1611,7 +1611,7 @@ What, then, are the common attributes which we can note in Winchester and Canter
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_09" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 9)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_09" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 9)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 Each is near the sea, each near a port or ports; in the case of each, this port, or group of ports, commands one of the two passages to the Continent, and to the homes of civilised men. In each case the distance from the sea is that of a day’s march for an army with its baggage. Disembark your men at Southampton or at Dover with the dawn and you hope that night to rest secure behind the walls of Winchester or Canterbury.
@@ -1639,7 +1639,7 @@ We can regard Winchester, then, and Canterbury, as the point of departure and th
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_10" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 10)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_10" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 10)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 But the task which is attempted in this book is more definite than such a general scheme would convey. Many portions of the Old Road have been preserved, many more have been recovered and mapped by the researches of antiquarians; the remaining gaps alone was it our care to explore and settle, until we should, if possible, have reconstituted the whole ancient way, yard for yard, from the capital of Hampshire to the capital of Kent. That was our business, and in order that the reader may follow the more clearly my account of our [[Journey|journey]] I shall, before beginning that account, set down here, at the end of the present essay, the difficulty which the task presented, how we were aided by certain causes which had conspired to preserve the Old Road, what those causes were, and finally what method we applied to the problem that lay before us.
@@ -1683,7 +1683,7 @@ Whatever Gaulish track may have led from Paris to Orleans (and it is historicall
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_11" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 11)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_11" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 11)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 When the Empire fell the nature of our decline equally preserved our past. Alone of the Roman provinces the eastern half of Britain was really ruined. It had been exposed for two centuries to the attacks of pirates who came from the unconquered and inexhaustible north. Remote, an Island, impoverished, the first of the frontiers to be abandoned, it was at last overwhelmed: to what extent we can only guess, and in what manner we cannot tell at all, but at any rate with sufficient completeness to make us alone lose the Faith which is the chief bond of civilisation.
@@ -1715,7 +1715,7 @@ When this young life was once started in the boiling energies of the Crusades: �
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_12" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 12)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_12" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 12)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 In the twelfth century the Church captured and rode the new energies, but in that storm of creation a very great deal went down. How much we do not know. It is probable that Rome was still Roman until the Normans sacked it at the beginning of this era. It is certain that the walls surrounding our English cities and those of the northern French and the western Germans were unchanged since the Pagan time, until the expansion of the twelfth century came to break them. I say what relics of primeval learning, what verbal inheritance of primeval experience, were lost in the new violence of Europe, cannot be known. It is enough for us that the essence of civilisation was saved; that if we let go the history of the tribal past with one hand we at least beat off Asia with the other; that if the Romanesque gave up its last spark in that gale, at least the Gothic replaced it.
@@ -1739,7 +1739,7 @@ I will not deny that an effect always mingles with its cause; for things that ha
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_13" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 13)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_13" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 13)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 Ireland of the saints, South Wales still tribal, still in a way unfixed, lending its population to far adventures and to the attraction of distant places, all the south-western peninsula of England, Brittany for ever mystic, the mountain masses of the Asturias which had themselves preserved an original sanctity, the western ports from Vigo to recently conquered Lisbon — the only ports by which the Christian enthusiasm of the Spaniards conquering Islam could take to the newly opened sea and to the north — all these sent their hordes to converge on Winchester, and thence to find their way to Canterbury.
@@ -1769,7 +1769,7 @@ For instance, the road along the summit of the Hog’s Back was a better road th
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_14" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 14)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_14" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 14)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 The chalk, the third cause of that survival, is of such importance, and that importance is so commonly neglected, that it almost merits an essay of its own.
@@ -1811,7 +1811,7 @@ When a gap was reached, it was necessary to form an hypothesis to guide one in o
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_15" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 15)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_15" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 15)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 It was then our business to seek for some remaining evidences, apparent to the eye, whereby the track could be recovered. Such evidences were the well-known fact that a line of very old yews will often mark such a road where it lies upon the chalk; the alignment of some short path with a known portion behind, and a known portion before one; while, of course, the presence of a ridge or platform upon such an alignment we regarded (in the absence of any other lane) as the best guide for our search.
@@ -1843,7 +1843,7 @@ It is necessary to digress here for a moment upon the archæological importance 
 
 
 
-<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_16" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 16)" data-chapter="Story 02 THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_theory_of_the_old_road--part_16" data-title="The Old Road: from Canterbury to Winchester — THE THEORY OF THE OLD ROAD (part 16)" data-chapter="THE THEORY OF THE OLD ROAD" data-kind="excerpt"></span>
 
 
 Now, on its way from Winchester to Canterbury, the Old Road passes, not in the mere proximity of, but right up against, thirteen existing or ruined churches. They are, proceeding from west to east, as follows: King’s Worthy, Itchen Stoke, Bishop Sutton, Seale, Puttenham, St. Martha’s, Shere, Merstham, Titsey, Snodland, Burham, Boughton Aluph, and Chilham. In the case of eight it passes right up against the south porch; in the case of two (Bishop Sutton and Seale) it is compelled to miss them by a few yards. One (St. Martha’s) is passed on both sides by a reduplication of the track. One (Chilham) is conjectural, and the last (Shere) is doubtful.
@@ -1871,7 +1871,7 @@ Prepared for such a method; having well marked our maps and read what there was 
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_01" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 1)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_01" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 1)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 THE EXPLORATION OF THE ROAD
@@ -1909,7 +1909,7 @@ It should be remarked also that before its deflection that brook must have follo
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_02" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 2)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_02" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 2)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 The Roman road also took the same line, at least as far as King’s Worthy; and a Roman road was often based upon a pre-Roman track.
@@ -1945,7 +1945,7 @@ The ford might have been used, and is still used, for reaching all the district 
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_03" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 3)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_03" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 3)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 In this absence of any but a modern road up the valley to the Alresfords, in the presence of the marsh, in the eccentricity of Old and the modernity of New Alresford, and in the unique purpose attributable to the ford, we had a series of negative considerations which forbade the Old Road to follow the river beyond Itchen Stoke.
@@ -1979,7 +1979,7 @@ We had further the place-name ‘Street’ to guide us: it is a word almost inva
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_04" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 4)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_04" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 4)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 We further noted upon our map that a very considerable portion of the exact alignment drawn from the main road at the Anchor Inn to the saddle of the watershed would coincide precisely with a lane, which, when we came to examine it, gave every evidence of high antiquity.
@@ -2017,7 +2017,7 @@ For two miles the road, magnificent in surface and in breadth, one of the finest
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_05" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 5)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_05" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 5)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 These characters do not attach to the London turnpike after the fifteenth milestone is passed; it turns somewhat sharply to the right (or southward) and falls by a corner into the road from the Meon valley at the entry of Chawton village. Such a course one may be certain was not followed by the Old Road. It could not but have preserved the alignment which the valley had already given it, and which corresponds, moreover, with the High Street of Alton itself. For these seven furlongs there can be no doubt that it continued straight along the dip of the valley, and entered Alton on the northern side of the triangular common called ‘The Butts,’ by which one approaches the town from the south-west.
@@ -2057,7 +2057,7 @@ There is a deep combe at Holybourne Down, two more on either side of Froyle, a f
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_06" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 6)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_06" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 6)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 As far as Froyle, two and a half miles from Alton, it never leaves the river by more than a quarter of a mile, but the valley is here dry, the soil gravelly and sandy, the height considerable (above three hundred feet), and there is no reason why it should go further from the stream than it did in the valley of the Itchen. After Froyle you get the clay, and then right on through Bentley the road does attempt to get away northward from the stream, avoiding the marshy levels and keeping to the 300-feet contour-line. It does not approach the river again till firmer ground is found near the Bull Inn. Thence to within two miles of Farnham it has to negotiate a good deal of clay, but it picks out such patches of gravel as it can find, and it must be remembered that the valley of the Wey, in this early part, drains more rapidly, and has a less supply of water than that of the Itchen. Near Farnham, somewhat beyond Runwick House, it finds the sand again, and can follow along the low level without difficulty.
@@ -2091,7 +2091,7 @@ Seale was built at the expense of Waverley, right in the enthusiasm that followe
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_07" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 7)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_07" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 7)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 There was, indeed, just before reaching Puttenham, a small difficulty, but it is not of this that I am writing. The Old Road, which had for miles coincided with the lane, turned a sharp corner, and this, as I have already remarked, is so much against its nature in every known part of it, that I could only ascribe it to a cultivated field which has turned the road. Once tillage had begun, the road would be led round this field, and the old track, crossing it diagonally, would disappear under the plough; the original way must have run much as is suggested at the point marked X upon the map, and the suggestion has the greater force from the presence of a footpath following this line.
@@ -2143,7 +2143,7 @@ It is, moreover, extremely probable that the platform of St. Catherine’s was t
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_08" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 8)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_08" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 8)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 The precipitous face towards the stream, the isolation of the summit and its position, commanding a view up and down the valley, render it just such a place as would, by its value for their journeys and their wars, have made it sacred to a tribe: its sanctity during the Middle Ages gives the guess a further credential. But in framing an hypothesis as to how the valley was taken from the descent of St. Catherine’s to the rise at the Chantries beyond the stream, one is met by two sets of facts irreconcilable with one another, and supporting arguments each, unfortunately, of equal weight. These facts are few, simple, and urgent; they are as follows: —
@@ -2181,7 +2181,7 @@ If it saw rites which the Catholic Church at last subdued, we know nothing of th
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_09" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 9)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_09" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 9)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 The [[Hill|hill]] was an isolated peak peculiar and observable. Such separate heights have called up worship always wherever they were found: the Middle Ages gave this place what they gave to the great outstanding rocks of the sea, the ‘St. Michaels’: to the dominating or brooding capitols of cities, Montmartre or Our Lady of Lyons; perhaps Arthur’s Seat had a shrine. The Middle Ages gave it what they had inherited, for they revered the past only, they sought in the past their ideals, and hated whatever might destroy the common memory of the soil and the common observances of men — as modern men hate pain or poverty.
@@ -2209,7 +2209,7 @@ Taking into consideration the general alignment of the Old Road, its ‘habits,�
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_10" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 10)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_10" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 10)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 THAT SPLENDID AVENUE OF LIMES
@@ -2241,7 +2241,7 @@ Nevertheless, those who imagine that the original road, the prehistoric track, f
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_11" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 11)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_11" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 11)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 IT STOOD OUT LIKE A CAPE ALONG OUR COASTING [[Journey|JOURNEY]], OUR NAVIGATION OF THE LINE OF THE DOWNS
@@ -2275,7 +2275,7 @@ Its value must have come even before stone building or made roads or the plough;
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_12" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 12)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_12" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 12)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 The chalk, which I have spoken of coldly when I discussed the preservation of the Old Road, should somewhere be warmly hymned and praised by every man who belongs to south England, for it is the meaning of that good land. The sand is deserted since men learnt to plough; the Weald, though so much of its forest has fallen, is still nothing but the Weald — clay, and here and there the accursed new towns spreading like any other evil slime. But the chalk is our landscape and our proper habitation. The chalk gave us our first refuge in war by permitting those vast encampments on the summits. The chalk filtered our drink for us and built up our strong bones; it was the height from the slopes of which our villages, standing in a clear air, could watch the sea or the plain; we carved it — when it was hard enough; it holds our first ornaments; our clear streams run over it; the shapes and curves it takes and the kind of close rough grass it bears (an especial grass for sheep), are the cloak of our counties; its lonely breadths delight us when the white clouds and the flocks move over them together; where the waves break it into cliffs, they are the characteristic of our shores, and through its thin coat of whitish mould go the thirsty roots of our three trees — the beech, the holly, and the yew. For the clay and the sand might be deserted or flooded and the South Country would still remain, but if the Chalk Hills were taken away we might as well be the Midlands.
@@ -2305,7 +2305,7 @@ The escarpment of the hills is here extremely steep. It falls at an angle which 
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_13" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 13)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_13" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 13)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 Now, if the road could not be supported upon the bank of the escarpment, and yet desired — as it always must — to escape the damp land of the lower levels, it was bound to seek the crest. Nowhere hitherto in all this march from Winchester had we found it attempting the summits of the hills, but there were here unmistakable evidences that it was going to approach those summits and to keep to them as long as the steepness of the escarpment lasted.
@@ -2341,7 +2341,7 @@ The influence of vested interests (for Gatton Park fetched twice its value on ac
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_14" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 14)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_14" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 14)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 There is another point in connection with the [[Pilgrim]]’s Way at Gatton. For the second time since it has left Winchester it goes to the north of a [[Hill|hill]]. At Albury it did so, as my readers have seen, for some reason not to be explained. In every other case between here and Canterbury the explanation is simple. It goes north to avoid a prominent spur in the range and a re-entrant angle at the further side. The map which I append will make this point quite clear.
@@ -2373,7 +2373,7 @@ Once arrived at the summit of Quarry Hangers we found the road to be quite clear
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_15" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 15)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_15" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 15)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 On the further side of this patch of land, which is a kind of isolated cape or shoulder in the hills, runs a very long, deep combe, which may be called Caterham Combe. Up this ran one of the Roman roads from the south, and up this runs to-day the modern road from Eastbourne to London. On the steep side of that precipitous ravine, which is a regular bank of difficult undergrowth (called Upwood Scrubbs), the Old Road was, as we had rightly expected from our previous study of the map, very hopelessly lost.
@@ -2409,7 +2409,7 @@ A little off the Way, at the base of the hill, was discovered in 1867 a Roman vi
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_16" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 16)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_16" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 16)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 It is probable (to guess at matters of which there is no proof) that while this road, serving no strategical purpose, leading to no frontier, and communicating between no two official centres of Roman life, was not used in the official system, the country people continued to make it one of their main ways, and that in the profound peace which the southern civilisation had imposed, the rich built for pleasure or to superintend their farms, along what was nothing but a British way.
@@ -2439,7 +2439,7 @@ First there was the string of great palaces, Otford, Wrotham, Maidstone, Charing
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_17" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 17)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_17" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 17)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 Their authority, their meaning, had been suddenly destroyed. No one had claimed or supported their enormous walls. The new landlords of the Reformation, the swarm, the Cecils and the Russells and the rest, seem for once to have felt some breath of awe. The palaces were permitted to die. I imagined as I saw them one by one that the few stones remaining preserved a certain amplitude and magnificence; it may have been nothing but the fantasy of one who saw them thus for the first time, his mind already held for so many days by the antiquity of the Road.
@@ -2475,7 +2475,7 @@ The section further gives an admirable example of the way in which the Old Road 
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_18" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 18)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_18" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 18)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 These six miles of its length may, for the purpose of the illustration they afford, be divided into three nearly equal parts by the village of Kemsing, and the hamlet of Yaldham. Each of these divisions shows the Old Road in one of its three historical phases: first as the only artery of the country-side, then as an alternative way supplemented by a valley road, and finally as a decayed and unused path whose value has been destroyed by the more modern highway below it. It is astonishing to see with what precision each of these phases is shown, how exactly each division ends, and how thoroughly the character of each is maintained.
@@ -2513,7 +2513,7 @@ Just opposite us, upon the further side of the valley, was faintly to be discern
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_19" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 19)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_19" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 19)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 We might have thought, had we not hitherto learnt much of the Old Road, that no problem was there, save to cross in a direct line the valley before us, and make by evening that further shoulder of ‘Grey Wethers,’ where we should find the road again; but we had followed the track too long to think that it could so easily be recovered. We guessed that in so wide a gap as was here made by the Medway in the line of hills a difficulty, greater than any we had yet met, would arise, and that we should not overcome it without a longer search than had been necessary at the Wey or even the Mole.
@@ -2553,7 +2553,7 @@ But obstacles do intervene, and these obstacles were of the most serious kind fo
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_20" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 20)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_20" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 20)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 Oddly enough the difficulty of rediscovering the original track by which the road forded the Medway, does not lie in the paucity of evidence, but rather in the confusion arising from its nature and amount. So great is this confusion that some authorities have been content to accept alternative routes at this point.
@@ -2605,7 +2605,7 @@ A further argument, and in its way one of the strongest that could be adduced, i
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_21" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 21)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_21" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 21)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 This is very strong evidence in favour of Aylesford, and when one remembers that the manor was ancient demesne, its antiquity and importance are enhanced.
@@ -2639,7 +2639,7 @@ Fifthly. — The ‘Horseshoe Reach’ — the reach, that is, between Snodland 
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_22" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 22)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_22" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 22)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 Finally, it is not extravagant to note how the megalithic monument (now fallen) near Trottescliffe, corresponds to Kit’s Coty House on the opposite shoulder beyond the valley. The crossing at Snodland would be the natural road between the two.
@@ -2679,7 +2679,7 @@ The Stour rises in Lenham itself, but its course has at first no effect upon the
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_23" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 23)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_23" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 23)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 It is peculiar in England, this county of Kent, and especially its valleys. I had known it hitherto only as a child, a stranger, but no one who has so visited it in childhood can forget the sheep in the narrow lanes, or the leaning cones of the hop-kilns against the sky: the ploughlands under orchards: all the Kentish Weald.
@@ -2723,7 +2723,7 @@ Clear as the road had been throughout Eastwell Park (and preserved possibly by i
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_24" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 24)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_24" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 24)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 The portion near Boughton Aluph is perfectly clear; it goes right up under the south porch. It has disappeared again under the plough in the field between the church and Whitehill Farm. There it has been cut, as we had found it so often in the course of our [[Journey|journey]], by a quarry. Another field has lost it again under the plough; it reappears on the hillside beyond in a line of yews. But within a hundred yards or so there arises a difficulty which gave rise to some discussion among us.
@@ -2759,7 +2759,7 @@ There is a [[Tradition|tradition]] that the pilgrims of the later Middle Ages we
 
 
 
-<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_25" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 25)" data-chapter="Story 03 THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_exploration_of_the_road--part_25" data-title="The Old Road: from Canterbury to Winchester — THE EXPLORATION OF THE ROAD (part 25)" data-chapter="THE EXPLORATION OF THE ROAD" data-kind="excerpt"></span>
 
 
 From the farm, right up through Bigberry Wood, we were on a track not only easy to recognise, but already followed, as I have said, by the first of authorities upon the subject.

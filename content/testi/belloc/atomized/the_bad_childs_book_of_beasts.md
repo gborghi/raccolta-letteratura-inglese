@@ -475,7 +475,7 @@ Oh! My!
 
 
 
-<span class="atom-split" data-atom="story_01_dedication" data-title="The Bad Child’s Book of Beasts — DEDICATION" data-chapter="Story 01 DEDICATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_dedication" data-title="The Bad Child’s Book of Beasts — DEDICATION" data-chapter="DEDICATION" data-kind="story"></span>
 
 
 DEDICATION
@@ -495,7 +495,7 @@ I love you well.
 
 
 
-<span class="atom-split" data-atom="story_02_introduction" data-title="The Bad Child’s Book of Beasts — INTRODUCTION" data-chapter="Story 02 INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introduction" data-title="The Bad Child’s Book of Beasts — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
 
 
 INTRODUCTION
@@ -555,7 +555,7 @@ And as the Owl discreet.’
 
 
 
-<span class="atom-split" data-atom="story_03_the_yak" data-title="The Bad Child’s Book of Beasts — The Yak" data-chapter="Story 03 The Yak" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_yak" data-title="The Bad Child’s Book of Beasts — The Yak" data-chapter="The Yak" data-kind="story"></span>
 
 
 The Yak
@@ -599,7 +599,7 @@ he will not.
 
 
 
-<span class="atom-split" data-atom="story_04_the_polar_bear" data-title="The Bad Child’s Book of Beasts — The Polar Bear" data-chapter="Story 04 The Polar Bear" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_polar_bear" data-title="The Bad Child’s Book of Beasts — The Polar Bear" data-chapter="The Polar Bear" data-kind="story"></span>
 
 
 The Polar Bear
@@ -617,7 +617,7 @@ I wish I had one too!
 
 
 
-<span class="atom-split" data-atom="story_05_the_lion" data-title="The Bad Child’s Book of Beasts — The Lion" data-chapter="Story 05 The Lion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_lion" data-title="The Bad Child’s Book of Beasts — The Lion" data-chapter="The Lion" data-kind="story"></span>
 
 
 The [[Lion]]
@@ -635,7 +635,7 @@ And a good little [[Child|child]] will not play with him.
 
 
 
-<span class="atom-split" data-atom="story_06_the_tiger" data-title="The Bad Child’s Book of Beasts — The Tiger" data-chapter="Story 06 The Tiger" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_tiger" data-title="The Bad Child’s Book of Beasts — The Tiger" data-chapter="The Tiger" data-kind="story"></span>
 
 
 The Tiger
@@ -655,7 +655,7 @@ Will find a Tiger well repay the trouble and expense.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dromedary" data-title="The Bad Child’s Book of Beasts — The Dromedary" data-chapter="Story 07 The Dromedary" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_dromedary" data-title="The Bad Child’s Book of Beasts — The Dromedary" data-chapter="The Dromedary" data-kind="story"></span>
 
 
 The Dromedary
@@ -669,7 +669,7 @@ I cannot say the same about the Kurd.
 
 
 
-<span class="atom-split" data-atom="story_08_the_whale" data-title="The Bad Child’s Book of Beasts — The Whale" data-chapter="Story 08 The Whale" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_whale" data-title="The Bad Child’s Book of Beasts — The Whale" data-chapter="The Whale" data-kind="story"></span>
 
 
 The Whale
@@ -707,7 +707,7 @@ Who wants to be a Don.
 
 
 
-<span class="atom-split" data-atom="story_09_the_camel" data-title="The Bad Child’s Book of Beasts — The Camel" data-chapter="Story 09 The Camel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_camel" data-title="The Bad Child’s Book of Beasts — The Camel" data-chapter="The Camel" data-kind="story"></span>
 
 
 The Camel
@@ -719,7 +719,7 @@ The Camel
 
 
 
-<span class="atom-split" data-atom="story_10_the_hippopotamus" data-title="The Bad Child’s Book of Beasts — The Hippopotamus" data-chapter="Story 10 The Hippopotamus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_hippopotamus" data-title="The Bad Child’s Book of Beasts — The Hippopotamus" data-chapter="The Hippopotamus" data-kind="story"></span>
 
 
 The Hippopotamus
@@ -761,7 +761,7 @@ All in the Mu-se-um.
 
 
 
-<span class="atom-split" data-atom="story_11_the_marmozet" data-title="The Bad Child’s Book of Beasts — The Marmozet" data-chapter="Story 11 The Marmozet" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_marmozet" data-title="The Bad Child’s Book of Beasts — The Marmozet" data-chapter="The Marmozet" data-kind="story"></span>
 
 
 The Marmozet
@@ -779,7 +779,7 @@ But Men are all extinct.
 
 
 
-<span class="atom-split" data-atom="story_12_the_camelopard" data-title="The Bad Child’s Book of Beasts — The Camelopard" data-chapter="Story 12 The Camelopard" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_camelopard" data-title="The Bad Child’s Book of Beasts — The Camelopard" data-chapter="The Camelopard" data-kind="story"></span>
 
 
 The Camelopard
@@ -835,7 +835,7 @@ With comfort from a parachute.)
 
 
 
-<span class="atom-split" data-atom="story_13_the_learned_fish" data-title="The Bad Child’s Book of Beasts — The Learned Fish" data-chapter="Story 13 The Learned Fish" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_learned_fish" data-title="The Bad Child’s Book of Beasts — The Learned Fish" data-chapter="The Learned Fish" data-kind="story"></span>
 
 
 The Learned Fish
@@ -849,7 +849,7 @@ To go into the water when it rains.
 
 
 
-<span class="atom-split" data-atom="story_14_the_elephant" data-title="The Bad Child’s Book of Beasts — The Elephant" data-chapter="Story 14 The Elephant" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_elephant" data-title="The Bad Child’s Book of Beasts — The Elephant" data-chapter="The Elephant" data-kind="story"></span>
 
 
 The Elephant
@@ -869,7 +869,7 @@ So LARGE a trunk before.
 
 
 
-<span class="atom-split" data-atom="story_15_the_big_baboon" data-title="The Bad Child’s Book of Beasts — The Big Baboon" data-chapter="Story 15 The Big Baboon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_big_baboon" data-title="The Bad Child’s Book of Beasts — The Big Baboon" data-chapter="The Big Baboon" data-kind="story"></span>
 
 
 The Big Baboon
@@ -899,7 +899,7 @@ To Mister So-and-so!
 
 
 
-<span class="atom-split" data-atom="story_16_the_rhinoceros" data-title="The Bad Child’s Book of Beasts — The Rhinoceros" data-chapter="Story 16 The Rhinoceros" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_rhinoceros" data-title="The Bad Child’s Book of Beasts — The Rhinoceros" data-chapter="The Rhinoceros" data-kind="story"></span>
 
 
 The Rhinoceros
@@ -917,7 +917,7 @@ Rhinoceros, you are an ugly beast.
 
 
 
-<span class="atom-split" data-atom="story_17_the_frog" data-title="The Bad Child’s Book of Beasts — The Frog" data-chapter="Story 17 The Frog" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_frog" data-title="The Bad Child’s Book of Beasts — The Frog" data-chapter="The Frog" data-kind="story"></span>
 
 
 The Frog

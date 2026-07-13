@@ -48,153 +48,153 @@ By Gilbert Keith Chesterton
 
 CONTENTS
 
-     A [[Song]] of Swords
+A [[Song]] of Swords
 
-     Utopia of Usurers
+Utopia of Usurers
 
-      I. Art and Advertisement
+I. Art and Advertisement
 
-      II. Letters and the New Laureates
+II. Letters and the New Laureates
 
-      III. Unbusinesslike Business
+III. Unbusinesslike Business
 
-      IV. The War on Holidays
+IV. The War on Holidays
 
-      V. The Church of the Servile State
+V. The Church of the Servile State
 
-      VI. Science and the Eugenists
+VI. Science and the Eugenists
 
-      VII. The Evolution of the [[Prison]]
+VII. The Evolution of the [[Prison]]
 
-      VIII. The Lash for Labour
+VIII. The Lash for Labour
 
-      IX. The Mask of Socialism
+IX. The Mask of Socialism
 
-     The Escape
+The Escape
 
-     The New Raid
+The New Raid
 
-     The New Name
+The New Name
 
-     A Workman's [[history|History]] of England
+A Workman's [[history|History]] of England
 
-     The [[French Revolution]] and the Irish
+The [[French Revolution]] and the Irish
 
-     Liberalism: A Sample
+Liberalism: A Sample
 
-     The Fatigue of Fleet Street
+The Fatigue of Fleet Street
 
-     The Amnesty for Aggression
+The Amnesty for Aggression
 
-     Revive the [[Court]] Jester
+Revive the [[Court]] Jester
 
-     The Art of Missing the Point
+The Art of Missing the Point
 
-     The Servile State Again
+The Servile State Again
 
-     The Empire of the Ignorant
+The Empire of the Ignorant
 
-     The Symbolism of Krupp
+The Symbolism of Krupp
 
-     The Tower of Bebel
+The Tower of Bebel
 
-     A Real Danger
+A Real Danger
 
-     The Dregs of [[Puritanism]]
+The Dregs of [[Puritanism]]
 
-     The Tyranny of Bad Journalism
+The Tyranny of Bad Journalism
 
-     The Poetry of the Revolution
+The Poetry of the Revolution
 
 A [[Song|SONG]] OF SWORDS
 
-  "A drove of cattle came into a village called Swords;
+"A drove of cattle came into a village called Swords;
 
-  and was stopped by the rioters."--Daily Paper.
+and was stopped by the rioters."--Daily Paper.
 
-  In the place called Swords on the Irish [[Road|road]]
+In the place called Swords on the Irish [[Road|road]]
 
-  It is told for a new renown
+It is told for a new renown
 
-  How we held the horns of the cattle, and how
+How we held the horns of the cattle, and how
 
-  We will hold the horns of the devils now
+We will hold the horns of the devils now
 
-  Ere the lord of hell with the horn on his brow
+Ere the lord of hell with the horn on his brow
 
-  Is crowned in Dublin town.
+Is crowned in Dublin town.
 
-  Light in the East and light in the West,
+Light in the East and light in the West,
 
-  And light on the cruel lords,
+And light on the cruel lords,
 
-  On the souls that suddenly all men knew,
+On the souls that suddenly all men knew,
 
-  And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,
+And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,
 
-  And many a [[Wheel|wheel]] of the world stopped, too,
+And many a [[Wheel|wheel]] of the world stopped, too,
 
-  When the cattle were stopped at Swords.
+When the cattle were stopped at Swords.
 
-  Be they sinners or less than saints
+Be they sinners or less than saints
 
-  That smite in the street for rage,
+That smite in the street for rage,
 
-  We know where the shame shines bright; we know
+We know where the shame shines bright; we know
 
-  You that they smite at, you their foe,
+You that they smite at, you their foe,
 
-  Lords of the lawless wage and low,
+Lords of the lawless wage and low,
 
-  This is your lawful wage.
+This is your lawful wage.
 
-  You pinched a [[Child|child]] to a torture price
+You pinched a [[Child|child]] to a torture price
 
-  That you dared not name in words;
+That you dared not name in words;
 
-  So black a jest was the silver bit
+So black a jest was the silver bit
 
-  That your own speech shook for the shame of it,
+That your own speech shook for the shame of it,
 
-  And the coward was plain as a cow they hit
+And the coward was plain as a cow they hit
 
-  When the cattle have strayed at Swords.
+When the cattle have strayed at Swords.
 
-  The [[Wheel|wheel]] of the torrent of wives went round
+The [[Wheel|wheel]] of the torrent of wives went round
 
-  To break men's brotherhood;
+To break men's brotherhood;
 
-  You gave the good Irish [[Blood|blood]] to grease
+You gave the good Irish [[Blood|blood]] to grease
 
-  The clubs of your country's enemies;
+The clubs of your country's enemies;
 
-  you saw the brave man beat to the knees:
+you saw the brave man beat to the knees:
 
-  And you saw that it was good.
+And you saw that it was good.
 
-  The rope of the rich is long and long--
+The rope of the rich is long and long--
 
-  The longest of hangmen's cords;
+The longest of hangmen's cords;
 
-  But the kings and crowds are holding their breath,
+But the kings and crowds are holding their breath,
 
-  In a giant [[Shadow|shadow]] o'er all beneath
+In a giant [[Shadow|shadow]] o'er all beneath
 
-  Where God stands holding the scales of [[Death]]
+Where God stands holding the scales of [[Death]]
 
-  Between the cattle and Swords.
+Between the cattle and Swords.
 
-  Haply the lords that hire and lend
+Haply the lords that hire and lend
 
-  The lowest of all men's lords,
+The lowest of all men's lords,
 
-  Who sell their kind like kine at a fair,
+Who sell their kind like kine at a fair,
 
-  Will find no head of their cattle there;
+Will find no head of their cattle there;
 
-  But faces of men where cattle were:
+But faces of men where cattle were:
 
-  Faces of men--and Swords.
+Faces of men--and Swords.
 
 UTOPIA OF USURERS
 
@@ -1910,95 +1910,95 @@ enough to crush all the critics of usurers: the [[Truth|truth]] of it will be
 
 THE ESCAPE
 
-     We watched you building, stone by stone,
+We watched you building, stone by stone,
 
-     The [[Well|well]]-washed cells and [[Well|well]]-washed graves
+The [[Well|well]]-washed cells and [[Well|well]]-washed graves
 
-     We shall inhabit but not own
+We shall inhabit but not own
 
-     When Britons ever shall be slaves;
+When Britons ever shall be slaves;
 
-     The [[Water|water]]'s waiting in the trough,
+The [[Water|water]]'s waiting in the trough,
 
-     The tame oats sown are portioned free,
+The tame oats sown are portioned free,
 
-     There is Enough, and just Enough,
+There is Enough, and just Enough,
 
-     And all is ready now but we.
+And all is ready now but we.
 
-     But you have not caught us yet, my lords,
+But you have not caught us yet, my lords,
 
-     You have us still to get.
+You have us still to get.
 
-     A sorry army you'd have got,
+A sorry army you'd have got,
 
-     Its flags are rags that float and rot,
+Its flags are rags that float and rot,
 
-     Its drums are empty pan and pot,
+Its drums are empty pan and pot,
 
-     Its baggage is--an empty cot;
+Its baggage is--an empty cot;
 
-     But you have not caught us yet.
+But you have not caught us yet.
 
-     A little; and we might have slipped
+A little; and we might have slipped
 
-     When came your rumours and your sales
+When came your rumours and your sales
 
-     And the foiled rich men, feeble-lipped,
+And the foiled rich men, feeble-lipped,
 
-     Said and unsaid their sorry tales;
+Said and unsaid their sorry tales;
 
-     Great God!  It needs a bolder brow
+Great God!  It needs a bolder brow
 
-     To keep ten sheep inside a pen,
+To keep ten sheep inside a pen,
 
-     And we are sheep no longer now;
+And we are sheep no longer now;
 
-     You are but Masters.  We are Men.
+You are but Masters.  We are Men.
 
-     We give you all good thanks, my lords,
+We give you all good thanks, my lords,
 
-     We buy at easy price;
+We buy at easy price;
 
-     Thanks for the thousands that you stole,
+Thanks for the thousands that you stole,
 
-     The bribes by wire, the bets on coal,
+The bribes by wire, the bets on coal,
 
-     The knowledge of that naked whole
+The knowledge of that naked whole
 
-     That hath delivered our flesh and [[Soul|soul]]
+That hath delivered our flesh and [[Soul|soul]]
 
-     Out of your Paradise.
+Out of your Paradise.
 
-     We had held safe your parks; but when
+We had held safe your parks; but when
 
-     Men taunted you with bribe and fee,
+Men taunted you with bribe and fee,
 
-     We only saw the Lord of Men
+We only saw the Lord of Men
 
-     Grin like an Ape and climb a tree;
+Grin like an Ape and climb a tree;
 
-     And humbly had we stood without
+And humbly had we stood without
 
-     Your princely barns; did we not see
+Your princely barns; did we not see
 
-     In pointed faces peering out
+In pointed faces peering out
 
-     What Rats now own the granary.
+What Rats now own the granary.
 
-     It is too late, too late, my lords,
+It is too late, too late, my lords,
 
-     We give you back your grace:
+We give you back your grace:
 
-     You cannot with all cajoling
+You cannot with all cajoling
 
-     Make the wet ditch, or winds that sting,
+Make the wet ditch, or winds that sting,
 
-     Lost [[Pride|pride]], or the pawned wedding rings,
+Lost [[Pride|pride]], or the pawned wedding rings,
 
-     Or drink or [[Death]] a blacker thing
+Or drink or [[Death]] a blacker thing
 
-     Than a smile upon your face.
+Than a smile upon your face.
 
 THE NEW RAID
 
@@ -3510,29 +3510,29 @@ mean that one in which he echoes Turner's conception of the old wooden
 
 [[Ship|ship]] vanishing with all the valiant memories of the English:
 
-  
 
-  There's a far bell ringing
 
-  At the setting of the sun, 
+There's a far bell ringing
 
-  And a [[Phantom|phantom]] voice is singing
+At the setting of the sun, 
 
-  Of the great days done.
+And a [[Phantom|phantom]] voice is singing
 
-  There's a far bell ringing,
+Of the great days done.
 
-  And a [[Phantom|phantom]] voice is singing
+There's a far bell ringing,
 
-  Of a fame forever clinging
+And a [[Phantom|phantom]] voice is singing
 
-  To the great days done.
+Of a fame forever clinging
 
-  For the sunset breezes shiver,
+To the great days done.
 
-  Temeraire, Temeraire,
+For the sunset breezes shiver,
 
-  And she's fading down the [[River|river]]....
+Temeraire, Temeraire,
+
+And she's fading down the [[River|river]]....
 
 [[Well]], [[Well|well]], neither you nor I know whether she is fading down the [[River|river]]
 
@@ -5638,7 +5638,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/2/1/3/2134/
+http://www.gutenberg.org/2/1/3/2134/
 
 Produced by Mike Pullen
 
@@ -5694,7 +5694,7 @@ Gutenberg"), you agree to comply with all the terms of the Full Project
 
 Gutenberg-tm License available with this file or online at
 
-  www.gutenberg.org/license.
+www.gutenberg.org/license.
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
@@ -5892,53 +5892,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -6128,11 +6128,11 @@ Foundation's web site and official page at www.gutenberg.org/contact
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -6212,7 +6212,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     www.gutenberg.org
+www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -6225,137 +6225,137 @@ subscribe to our email newsletter to hear about new eBooks.
 
 
 
-<span class="atom-split" data-atom="story_04_the_lash_for_labour" data-title="UtopiaUsurers — The Lash for Labour" data-chapter="Story 04 The Lash for Labour" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_lash_for_labour" data-title="UtopiaUsurers — The Lash for Labour" data-chapter="The Lash for Labour" data-kind="story"></span>
 
 
-      VIII. The Lash for Labour
-      IX. The Mask of Socialism
+VIII. The Lash for Labour
+IX. The Mask of Socialism
 
-     The Escape
+The Escape
 
-     The New Raid
+The New Raid
 
-     The New Name
+The New Name
 
-     A Workman's [[history|History]] of England
+A Workman's [[history|History]] of England
 
-     The [[French Revolution]] and the Irish
+The [[French Revolution]] and the Irish
 
-     Liberalism: A Sample
+Liberalism: A Sample
 
-     The Fatigue of Fleet Street
+The Fatigue of Fleet Street
 
-     The Amnesty for Aggression
+The Amnesty for Aggression
 
-     Revive the [[Court]] Jester
+Revive the [[Court]] Jester
 
-     The Art of Missing the Point
+The Art of Missing the Point
 
-     The Servile State Again
+The Servile State Again
 
-     The Empire of the Ignorant
+The Empire of the Ignorant
 
-     The Symbolism of Krupp
+The Symbolism of Krupp
 
-     The Tower of Bebel
+The Tower of Bebel
 
-     A Real Danger
+A Real Danger
 
-     The Dregs of [[Puritanism]]
+The Dregs of [[Puritanism]]
 
-     The Tyranny of Bad Journalism
+The Tyranny of Bad Journalism
 
-     The Poetry of the Revolution
+The Poetry of the Revolution
 
 A [[Song|SONG]] OF SWORDS
 
-  "A drove of cattle came into a village called Swords;
+"A drove of cattle came into a village called Swords;
 
-  and was stopped by the rioters."--Daily Paper.
+and was stopped by the rioters."--Daily Paper.
 
-  In the place called Swords on the Irish [[Road|road]]
+In the place called Swords on the Irish [[Road|road]]
 
-  It is told for a new renown
+It is told for a new renown
 
-  How we held the horns of the cattle, and how
+How we held the horns of the cattle, and how
 
-  We will hold the horns of the devils now
+We will hold the horns of the devils now
 
-  Ere the lord of hell with the horn on his brow
+Ere the lord of hell with the horn on his brow
 
-  Is crowned in Dublin town.
+Is crowned in Dublin town.
 
-  Light in the East and light in the West,
+Light in the East and light in the West,
 
-  And light on the cruel lords,
+And light on the cruel lords,
 
-  On the souls that suddenly all men knew,
+On the souls that suddenly all men knew,
 
-  And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,
+And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,
 
-  And many a [[Wheel|wheel]] of the world stopped, too,
+And many a [[Wheel|wheel]] of the world stopped, too,
 
-  When the cattle were stopped at Swords.
+When the cattle were stopped at Swords.
 
-  Be they sinners or less than saints
+Be they sinners or less than saints
 
-  That smite in the street for rage,
+That smite in the street for rage,
 
-  We know where the shame shines bright; we know
+We know where the shame shines bright; we know
 
-  You that they smite at, you their foe,
+You that they smite at, you their foe,
 
-  Lords of the lawless wage and low,
+Lords of the lawless wage and low,
 
-  This is your lawful wage.
+This is your lawful wage.
 
-  You pinched a [[Child|child]] to a torture price
+You pinched a [[Child|child]] to a torture price
 
-  That you dared not name in words;
+That you dared not name in words;
 
-  So black a jest was the silver bit
+So black a jest was the silver bit
 
-  That your own speech shook for the shame of it,
+That your own speech shook for the shame of it,
 
-  And the coward was plain as a cow they hit
+And the coward was plain as a cow they hit
 
-  When the cattle have strayed at Swords.
+When the cattle have strayed at Swords.
 
-  The [[Wheel|wheel]] of the torrent of wives went round
+The [[Wheel|wheel]] of the torrent of wives went round
 
-  To break men's brotherhood;
+To break men's brotherhood;
 
-  You gave the good Irish [[Blood|blood]] to grease
+You gave the good Irish [[Blood|blood]] to grease
 
-  The clubs of your country's enemies;
+The clubs of your country's enemies;
 
-  you saw the brave man beat to the knees:
+you saw the brave man beat to the knees:
 
-  And you saw that it was good.
+And you saw that it was good.
 
-  The rope of the rich is long and long--
+The rope of the rich is long and long--
 
-  The longest of hangmen's cords;
+The longest of hangmen's cords;
 
-  But the kings and crowds are holding their breath,
+But the kings and crowds are holding their breath,
 
-  In a giant [[Shadow|shadow]] o'er all beneath
+In a giant [[Shadow|shadow]] o'er all beneath
 
-  Where God stands holding the scales of [[Death]]
+Where God stands holding the scales of [[Death]]
 
-  Between the cattle and Swords.
+Between the cattle and Swords.
 
-  Haply the lords that hire and lend
+Haply the lords that hire and lend
 
-  The lowest of all men's lords,
+The lowest of all men's lords,
 
-  Who sell their kind like kine at a fair,
+Who sell their kind like kine at a fair,
 
-  Will find no head of their cattle there;
+Will find no head of their cattle there;
 
-  But faces of men where cattle were:
+But faces of men where cattle were:
 
-  Faces of men--and Swords.
+Faces of men--and Swords.
 
 UTOPIA OF USURERS
 
@@ -6363,139 +6363,139 @@ UTOPIA OF USURERS
 <span class="qlang-split" data-lang="it"></span>
 
 VIII. La Sferza per il Lavoro
-      IX. La Maschera del Socialismo
+IX. La Maschera del Socialismo
 
-     La Fuga
+La Fuga
 
-     La Nuova Razzia
+La Nuova Razzia
 
-     Il Nuovo Nome
+Il Nuovo Nome
 
-     Una [[history|Storia]] d'Inghilterra di un Operaio
+Una [[history|Storia]] d'Inghilterra di un Operaio
 
-     La [[French Revolution|Rivoluzione francese]] e gli Irlandesi
+La [[French Revolution|Rivoluzione francese]] e gli Irlandesi
 
-     Liberalismo: un Assaggio
+Liberalismo: un Assaggio
 
-     La Stanchezza di Fleet Street
+La Stanchezza di Fleet Street
 
-     L'Amnistia per l'Aggressione
+L'Amnistia per l'Aggressione
 
-     Far Rivivere il Giullare di [[Court|Corte]]
+Far Rivivere il Giullare di [[Court|Corte]]
 
-     L'Arte di Mancare il Bersaglio
+L'Arte di Mancare il Bersaglio
 
-     Di Nuovo lo Stato Servile
+Di Nuovo lo Stato Servile
 
-     L'Impero degli Ignoranti
+L'Impero degli Ignoranti
 
-     Il Simbolismo di Krupp
+Il Simbolismo di Krupp
 
-     La Torre di Bebel
+La Torre di Bebel
 
-     Un Pericolo Reale
+Un Pericolo Reale
 
-     La Feccia del [[Puritanism|Puritanesimo]]
+La Feccia del [[Puritanism|Puritanesimo]]
 
-     La Tirannia del Cattivo Giornalismo
+La Tirannia del Cattivo Giornalismo
 
-     La Poesia della Rivoluzione
+La Poesia della Rivoluzione
 
 UN [[Song|CANTO]] DI SPADE
 
-  "Una mandria di bestiame entrò in un villaggio chiamato Swords;
+"Una mandria di bestiame entrò in un villaggio chiamato Swords;
 
-  e fu fermata dai rivoltosi."--Foglio quotidiano.
+e fu fermata dai rivoltosi."--Foglio quotidiano.
 
-  Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
+Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
-  si narra, per una nuova rinomanza,
+si narra, per una nuova rinomanza,
 
-  come tenemmo le corna del bestiame, e come
+come tenemmo le corna del bestiame, e come
 
-  terremo ora le corna dei demoni,
+terremo ora le corna dei demoni,
 
-  prima che il signore d'inferno, col corno sulla fronte,
+prima che il signore d'inferno, col corno sulla fronte,
 
-  sia incoronato nella città di Dublino.
+sia incoronato nella città di Dublino.
 
-  Luce a Oriente e luce a Occidente,
+Luce a Oriente e luce a Occidente,
 
-  e luce sui signori crudeli,
+e luce sui signori crudeli,
 
-  sulle anime che a un tratto ogni uomo conobbe,
+sulle anime che a un tratto ogni uomo conobbe,
 
-  e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
+e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
 
-  e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
+e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
 
-  quando il bestiame fu fermato a Swords.
+quando il bestiame fu fermato a Swords.
 
-  Siano pure peccatori o meno che santi
+Siano pure peccatori o meno che santi
 
-  coloro che percuotono in strada per rabbia,
+coloro che percuotono in strada per rabbia,
 
-  noi sappiamo dove splende viva la vergogna; sappiamo
+noi sappiamo dove splende viva la vergogna; sappiamo
 
-  voi, che essi colpiscono, voi loro nemico,
+voi, che essi colpiscono, voi loro nemico,
 
-  signori del salario iniquo e vile,
+signori del salario iniquo e vile,
 
-  questa è la vostra paga legittima.
+questa è la vostra paga legittima.
 
-  Spremeste un [[Child|bambino]] a un prezzo di tortura
+Spremeste un [[Child|bambino]] a un prezzo di tortura
 
-  che non osaste nominare a parole;
+che non osaste nominare a parole;
 
-  tanto nera beffa era la moneta d'argento
+tanto nera beffa era la moneta d'argento
 
-  che il vostro stesso dire tremò per la vergogna,
+che il vostro stesso dire tremò per la vergogna,
 
-  e il codardo era palese come una vacca percossa
+e il codardo era palese come una vacca percossa
 
-  quando il bestiame si smarrì a Swords.
+quando il bestiame si smarrì a Swords.
 
-  La [[Wheel|ruota]] del torrente delle mogli girò
+La [[Wheel|ruota]] del torrente delle mogli girò
 
-  per spezzare la fratellanza degli uomini;
+per spezzare la fratellanza degli uomini;
 
-  deste il buon [[Blood|sangue]] irlandese a ungere
+deste il buon [[Blood|sangue]] irlandese a ungere
 
-  i randelli dei nemici della vostra patria;
+i randelli dei nemici della vostra patria;
 
-  vedeste l'uomo valoroso battuto in ginocchio:
+vedeste l'uomo valoroso battuto in ginocchio:
 
-  e vedeste che era cosa buona.
+e vedeste che era cosa buona.
 
-  La fune dei ricchi è lunga, lunga--
+La fune dei ricchi è lunga, lunga--
 
-  la più lunga fra le corde del boia;
+la più lunga fra le corde del boia;
 
-  ma i re e le folle trattengono il fiato,
+ma i re e le folle trattengono il fiato,
 
-  in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
+in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-  là dove Dio sta reggendo le bilance della [[Death|Morte]]
+là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
-  tra il bestiame e Swords.
+tra il bestiame e Swords.
 
-  Forse i signori che assoldano e prestano,
+Forse i signori che assoldano e prestano,
 
-  i più vili fra tutti i signori degli uomini,
+i più vili fra tutti i signori degli uomini,
 
-  che vendono i loro simili come armenti a una fiera,
+che vendono i loro simili come armenti a una fiera,
 
-  non troveranno là un solo capo del loro bestiame;
+non troveranno là un solo capo del loro bestiame;
 
-  ma volti di uomini dove c'era bestiame:
+ma volti di uomini dove c'era bestiame:
 
-  volti di uomini--e Spade.
+volti di uomini--e Spade.
 
 UTOPIA DEGLI USURAI
 
 
 
-<span class="atom-split" data-atom="story_05_art_and_advertisement" data-title="UtopiaUsurers — Art and Advertisement" data-chapter="Story 05 Art and Advertisement" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_art_and_advertisement" data-title="UtopiaUsurers — Art and Advertisement" data-chapter="Art and Advertisement" data-kind="story"></span>
 
 
 I. Art and Advertisement
@@ -6693,7 +6693,7 @@ may truly be described as Bubbles.
 
 
 
-<span class="atom-split" data-atom="story_06_letters_and_the_new_laureates" data-title="UtopiaUsurers — Letters and the New Laureates" data-chapter="Story 06 Letters and the New Laureates" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_letters_and_the_new_laureates" data-title="UtopiaUsurers — Letters and the New Laureates" data-chapter="Letters and the New Laureates" data-kind="story"></span>
 
 
 II. Letters and the New Laureates
@@ -6923,7 +6923,7 @@ into any battle.
 
 
 
-<span class="atom-split" data-atom="story_07_unbusinesslike_business" data-title="UtopiaUsurers — Unbusinesslike Business" data-chapter="Story 07 Unbusinesslike Business" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_unbusinesslike_business" data-title="UtopiaUsurers — Unbusinesslike Business" data-chapter="Unbusinesslike Business" data-kind="story"></span>
 
 
 III. Unbusinesslike Business
@@ -7107,7 +7107,7 @@ to do.
 
 
 
-<span class="atom-split" data-atom="story_08_the_war_on_holidays" data-title="UtopiaUsurers — The War on Holidays" data-chapter="Story 08 The War on Holidays" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_war_on_holidays" data-title="UtopiaUsurers — The War on Holidays" data-chapter="The War on Holidays" data-kind="story"></span>
 
 
 IV. The War on Holidays
@@ -7313,7 +7313,7 @@ Christmas. And they might let me know the reply.
 
 
 
-<span class="atom-split" data-atom="story_09_the_church_of_the_servile_state" data-title="UtopiaUsurers — THE CHURCH OF THE SERVILE STATE" data-chapter="Story 09 THE CHURCH OF THE SERVILE STATE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_church_of_the_servile_state" data-title="UtopiaUsurers — THE CHURCH OF THE SERVILE STATE" data-chapter="THE CHURCH OF THE SERVILE STATE" data-kind="story"></span>
 
 
 V. THE CHURCH OF THE SERVILE STATE
@@ -7443,7 +7443,7 @@ the Pharisees.
 
 
 
-<span class="atom-split" data-atom="story_10_science_and_the_eugenists" data-title="UtopiaUsurers — SCIENCE AND THE EUGENISTS" data-chapter="Story 10 SCIENCE AND THE EUGENISTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_science_and_the_eugenists" data-title="UtopiaUsurers — SCIENCE AND THE EUGENISTS" data-chapter="SCIENCE AND THE EUGENISTS" data-kind="story"></span>
 
 
 VI. SCIENCE AND THE EUGENISTS
@@ -7607,7 +7607,7 @@ were a Wise Man he would not do it.
 
 
 
-<span class="atom-split" data-atom="story_11_the_evolution_of_the_prison_prison" data-title="UtopiaUsurers — THE EVOLUTION OF THE PRISON" data-chapter="Story 11 THE EVOLUTION OF THE Prison PRISON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_evolution_of_the_prison_prison" data-title="UtopiaUsurers — THE EVOLUTION OF THE PRISON" data-chapter="THE EVOLUTION OF THE Prison PRISON" data-kind="story"></span>
 
 
 VII. THE EVOLUTION OF THE [[Prison|PRISON]]
@@ -7809,7 +7809,7 @@ to [[Prison]], with a precisely similar patience.
 
 
 
-<span class="atom-split" data-atom="story_12_the_lash_for_labour" data-title="UtopiaUsurers — THE LASH FOR LABOUR" data-chapter="Story 12 THE LASH FOR LABOUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_lash_for_labour" data-title="UtopiaUsurers — THE LASH FOR LABOUR" data-chapter="THE LASH FOR LABOUR" data-kind="story"></span>
 
 
 VIII. THE LASH FOR LABOUR
@@ -8085,7 +8085,7 @@ extremely likely that they will be.
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_01" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 1)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_01" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 1)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 IX. THE MASK OF SOCIALISM
@@ -8258,7 +8258,7 @@ enough to crush all the critics of usurers: the [[Truth|truth]] of it will be
 
 THE ESCAPE
 
-     We watched you building, stone by stone,
+We watched you building, stone by stone,
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8433,100 +8433,100 @@ la [[Slavery|Schiavitù]]: e il suo titolo potrà benissimo essere Socialismo.
 
 LA FUGA
 
-     Vi guardavamo costruire, pietra su pietra,
+Vi guardavamo costruire, pietra su pietra,
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_02" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 2)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_02" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 2)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
-     The [[Well|well]]-washed cells and [[Well|well]]-washed graves
+The [[Well|well]]-washed cells and [[Well|well]]-washed graves
 
-     We shall inhabit but not own
+We shall inhabit but not own
 
-     When Britons ever shall be slaves;
+When Britons ever shall be slaves;
 
-     The [[Water|water]]'s waiting in the trough,
+The [[Water|water]]'s waiting in the trough,
 
-     The tame oats sown are portioned free,
+The tame oats sown are portioned free,
 
-     There is Enough, and just Enough,
+There is Enough, and just Enough,
 
-     And all is ready now but we.
+And all is ready now but we.
 
-     But you have not caught us yet, my lords,
+But you have not caught us yet, my lords,
 
-     You have us still to get.
+You have us still to get.
 
-     A sorry army you'd have got,
+A sorry army you'd have got,
 
-     Its flags are rags that float and rot,
+Its flags are rags that float and rot,
 
-     Its drums are empty pan and pot,
+Its drums are empty pan and pot,
 
-     Its baggage is--an empty cot;
+Its baggage is--an empty cot;
 
-     But you have not caught us yet.
+But you have not caught us yet.
 
-     A little; and we might have slipped
+A little; and we might have slipped
 
-     When came your rumours and your sales
+When came your rumours and your sales
 
-     And the foiled rich men, feeble-lipped,
+And the foiled rich men, feeble-lipped,
 
-     Said and unsaid their sorry tales;
+Said and unsaid their sorry tales;
 
-     Great God!  It needs a bolder brow
+Great God!  It needs a bolder brow
 
-     To keep ten sheep inside a pen,
+To keep ten sheep inside a pen,
 
-     And we are sheep no longer now;
+And we are sheep no longer now;
 
-     You are but Masters.  We are Men.
+You are but Masters.  We are Men.
 
-     We give you all good thanks, my lords,
+We give you all good thanks, my lords,
 
-     We buy at easy price;
+We buy at easy price;
 
-     Thanks for the thousands that you stole,
+Thanks for the thousands that you stole,
 
-     The bribes by wire, the bets on coal,
+The bribes by wire, the bets on coal,
 
-     The knowledge of that naked whole
+The knowledge of that naked whole
 
-     That hath delivered our flesh and [[Soul|soul]]
+That hath delivered our flesh and [[Soul|soul]]
 
-     Out of your Paradise.
+Out of your Paradise.
 
-     We had held safe your parks; but when
+We had held safe your parks; but when
 
-     Men taunted you with bribe and fee,
+Men taunted you with bribe and fee,
 
-     We only saw the Lord of Men
+We only saw the Lord of Men
 
-     Grin like an Ape and climb a tree;
+Grin like an Ape and climb a tree;
 
-     And humbly had we stood without
+And humbly had we stood without
 
-     Your princely barns; did we not see
+Your princely barns; did we not see
 
-     In pointed faces peering out
+In pointed faces peering out
 
-     What Rats now own the granary.
+What Rats now own the granary.
 
-     It is too late, too late, my lords,
+It is too late, too late, my lords,
 
-     We give you back your grace:
+We give you back your grace:
 
-     You cannot with all cajoling
+You cannot with all cajoling
 
-     Make the wet ditch, or winds that sting,
+Make the wet ditch, or winds that sting,
 
-     Lost [[Pride|pride]], or the pawned wedding rings,
+Lost [[Pride|pride]], or the pawned wedding rings,
 
-     Or drink or [[Death]] a blacker thing
+Or drink or [[Death]] a blacker thing
 
-     Than a smile upon your face.
+Than a smile upon your face.
 
 THE NEW RAID
 
@@ -8653,7 +8653,7 @@ Independence, a document recording the following simple truths: (1)
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_03" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 3)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_03" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 3)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 Beer, which is largely drunk in public-houses, is not a spirit or a grog
@@ -8831,7 +8831,7 @@ position. Suppose no books were shown. Suppose when the new cashier came
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_04" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 4)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_04" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 4)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 to be initiated into his duties, the old cashier did not tell him about
@@ -9011,7 +9011,7 @@ to one class after another and used more and more to improve the social
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_05" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 5)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_05" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 5)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 conditions of those classes, until we practically became a [[democracy]],
@@ -9189,7 +9189,7 @@ It will be long before the [[Poison|poison]] of the Party System is worked out
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_06" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 6)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_06" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 6)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 of the [[Body|body]] politic. Some of its most indirect effects are the most
@@ -9363,7 +9363,7 @@ very sacred [[Truth|truth]], to say that when men really understand that they ar
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_07" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 7)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_07" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 7)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 brothers they instantly begin to fight.
@@ -9543,7 +9543,7 @@ judge the [[government|Government]].
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_08" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 8)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_08" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 8)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 Now this is a perfectly plain piece of brute [[logic]]. We need not go into
@@ -9723,7 +9723,7 @@ and might [[Well|well]] have seemed [[Blood|blood]]-thirsty in quieter times. It
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_09" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 9)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_09" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 9)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 the celebrated declaration that it was a fine day."
@@ -9909,7 +9909,7 @@ Some days ago the Official Council of the Independent Labour Party, or
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_10" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 10)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_10" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 10)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 the Independent Council of the Official Labour Party, or the Independent
@@ -10083,7 +10083,7 @@ beautiful poem of Mr. Newbolt's which may mingle faintly with one's
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_11" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 11)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_11" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 11)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 thoughts in such times, but that, alas, is to a very different tune. I
@@ -10092,29 +10092,29 @@ mean that one in which he echoes Turner's conception of the old wooden
 
 [[Ship|ship]] vanishing with all the valiant memories of the English:
 
-  
 
-  There's a far bell ringing
 
-  At the setting of the sun, 
+There's a far bell ringing
 
-  And a [[Phantom|phantom]] voice is singing
+At the setting of the sun, 
 
-  Of the great days done.
+And a [[Phantom|phantom]] voice is singing
 
-  There's a far bell ringing,
+Of the great days done.
 
-  And a [[Phantom|phantom]] voice is singing
+There's a far bell ringing,
 
-  Of a fame forever clinging
+And a [[Phantom|phantom]] voice is singing
 
-  To the great days done.
+Of a fame forever clinging
 
-  For the sunset breezes shiver,
+To the great days done.
 
-  Temeraire, Temeraire,
+For the sunset breezes shiver,
 
-  And she's fading down the [[River|river]]....
+Temeraire, Temeraire,
+
+And she's fading down the [[River|river]]....
 
 [[Well]], [[Well|well]], neither you nor I know whether she is fading down the [[River|river]]
 
@@ -10271,7 +10271,7 @@ and emeralds and followed by green-clad minstrels of the Clan-na-Gael,
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_12" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 12)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_12" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 12)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 playing "The Wearing of the Green."
@@ -10453,7 +10453,7 @@ an election address of that kind; but we should have had our fun and
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_13" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 13)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_13" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 13)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 that we should be elected or rejected on a mechanical majority like
@@ -10631,7 +10631,7 @@ England and Belgium there is Capitalism mixed up with a great many other
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_14" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 14)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_14" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 14)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 things, strong things and things that pursue other aims; Clericalism,
@@ -10811,7 +10811,7 @@ I do not mean this as paradoxical, or even as symbolical; it is simply
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_15" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 15)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_15" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 15)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 tame and true. The modern English rich know nothing about things, not
@@ -10995,7 +10995,7 @@ Powers alike rely on the Capitalist and make war on the lines of
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_16" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 16)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_16" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 16)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 Capitalism. It is true, and it is disgraceful. But it is _not_ equally
@@ -11169,7 +11169,7 @@ Guild Socialists, or whatever we call ourselves--have no need to worry
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_17" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 17)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_17" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 17)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 about the scripture or the [[Allegory|allegory]]. We have the reality. For whatever
@@ -11347,7 +11347,7 @@ patriotism of the vulgar? Why, yes; the rugged Ramsay MacDonald, scarred
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_18" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 18)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_18" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 18)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 with a hundred savage fights against the capitalist parties, still lifts
@@ -11531,7 +11531,7 @@ The Plain Difference
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_19" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 19)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_19" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 19)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 The perfectly plain difference is this. All punishment, even the most
@@ -11711,7 +11711,7 @@ straddling over the whole breadth of the way could really write like
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_20" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 20)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_20" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 20)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 that about a cigarette. By the help of God, they wanted this cigarette
@@ -11887,7 +11887,7 @@ Tory [[Imagination|imagination]] that vaguely feels that our streets would be hu
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_21" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 21)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_21" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 21)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 escutcheons and tapestries, if only the profane vulgar had not hung them
@@ -12067,7 +12067,7 @@ practical results, like the flags for which men allow themselves to fall
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_22" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 22)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_22" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 22)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 down dead, or the shrines for which men will walk some hundreds of miles
@@ -12245,7 +12245,7 @@ and the acquittal of the capitalists' interest. It is not a scientific
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_23" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 23)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_23" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 23)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
 
 
 problem for us to investigate. It is a crime committed before our eyes;
@@ -12292,7 +12292,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/2/1/3/2134/
+http://www.gutenberg.org/2/1/3/2134/
 
 Produced by Mike Pullen
 
@@ -12348,7 +12348,7 @@ Gutenberg"), you agree to comply with all the terms of the Full Project
 
 Gutenberg-tm License available with this file or online at
 
-  www.gutenberg.org/license.
+www.gutenberg.org/license.
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
@@ -12401,7 +12401,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/2/1/3/2134/
+http://www.gutenberg.org/2/1/3/2134/
 
 Prodotto da Mike Pullen
 
@@ -12457,7 +12457,7 @@ Gutenberg"), you agree to comply with all the terms of the Full Project
 
 Gutenberg-tm License disponibile con questo file o online all'indirizzo
 
-  www.gutenberg.org/license.
+www.gutenberg.org/license.
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 

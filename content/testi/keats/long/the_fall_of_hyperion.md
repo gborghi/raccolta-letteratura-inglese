@@ -559,7 +559,7 @@ And made their dove wings tremble. On he flared.
 
 
 
-<span class="atom-split" data-atom="section_01_canto_i" data-title="The Fall of Hyperion — Canto I" data-chapter="Section 01 canto i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_canto_i" data-title="The Fall of Hyperion — Canto I" data-chapter="canto i" data-kind="section"></span>
 
 
 CANTO I  
@@ -1041,7 +1041,7 @@ Of her high phrase: perhaps no further dare.
 
 
 
-<span class="atom-split" data-atom="section_02_canto_ii" data-title="The Fall of Hyperion — Canto II" data-chapter="Section 02 canto ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_canto_ii" data-title="The Fall of Hyperion — Canto II" data-chapter="canto II" data-kind="section"></span>
 
 
 CANTO II  

@@ -8546,10 +8546,10 @@ while, to consult all tastes, others were composed with a view to the
 lighter and more facetious spirits, as a [[Parody|parody]] on the favourite air of
 ‘If I had a [[donkey]],’ beginning,
 
-  If I know’d a [[donkey]] wot wouldn’t go
-  To see Mrs JARLEY’S wax-work show,
-  Do you think I’d acknowledge him?  Oh no no!
-  Then run to Jarley’s--
+If I know’d a [[donkey]] wot wouldn’t go
+To see Mrs JARLEY’S wax-work show,
+Do you think I’d acknowledge him?  Oh no no!
+Then run to Jarley’s--
 
 --besides several compositions in prose, purporting to be dialogues
 between the Emperor of China and an oyster, or the Archbishop of
@@ -9976,7 +9976,7 @@ means throwing the informing teacher into raptures of joy.
 ‘The little busy bee,’ said Miss Monflathers, drawing herself up, ‘is
 applicable only to genteel children.
 
-  “In books, or work, or healthful play”
+“In books, or work, or healthful play”
 
 is quite right as far as they are concerned; and the work means
 painting on velvet, fancy needle-work, or embroidery.  In such cases as
@@ -9984,10 +9984,10 @@ these,’ pointing to Nell, with her parasol, ‘and in the case of all
 poor people’s children, we should read it thus:
 
 
-  “In work, work, work.  In work alway
-  Let my first years be past,
-  That I may give for ev’ry day
-  Some good account at last.”’
+“In work, work, work.  In work alway
+Let my first years be past,
+That I may give for ev’ry day
+Some good account at last.”’
 
 
 A deep hum of applause [[Rose|rose]] not only from the two teachers, but from
@@ -20570,7 +20570,7 @@ I’ll hold him in conversation, and put this property in his hat.  I’ll
 manage so, besides,” he says, “that Mr [[Richard]] shall find it there, and
 be the evidence.  And if that don’t get Christopher out of Mr Quilp’s
 way, and satisfy Mr Quilp’s grudges,” he says, “the Devil’s in it.”
- Miss Sally laughed, and said that was the plan, and as they seemed to
+Miss Sally laughed, and said that was the plan, and as they seemed to
 be moving away, and I was afraid to stop any longer, I went down-stairs
 again.--There!’
 
@@ -21310,7 +21310,7 @@ spark of manliness he might have possessed.  ‘You think so, Sarah, you
 think so perhaps; but you would have acted quite different, my good
 fellow.  You will not have forgotten that it was a maxim with
 Foxey--our revered father, gentlemen--“Always suspect everybody.”
- That’s the maxim to go through life with!  If you were not actually
+That’s the maxim to go through life with!  If you were not actually
 about to purchase your own safety when I showed myself, I suspect you’d
 have done it by this [[Time|time]].  And therefore I’ve done it myself, and
 spared you the trouble as [[Well|well]] as the shame.  The shame, gentlemen,’
@@ -33469,10 +33469,10 @@ while, to consult all tastes, others were composed with a view to the
 lighter and more facetious spirits, as a [[Parody|parody]] on the favourite air of
 ‘If I had a [[donkey]],’ beginning,
 
-  If I know’d a [[donkey]] wot wouldn’t go
-  To see Mrs JARLEY’S wax-work show,
-  Do you think I’d acknowledge him?  Oh no no!
-  Then run to Jarley’s--
+If I know’d a [[donkey]] wot wouldn’t go
+To see Mrs JARLEY’S wax-work show,
+Do you think I’d acknowledge him?  Oh no no!
+Then run to Jarley’s--
 
 --besides several compositions in prose, purporting to be dialogues
 between the Emperor of China and an oyster, or the Archbishop of
@@ -34965,7 +34965,7 @@ means throwing the informing teacher into raptures of joy.
 ‘The little busy bee,’ said Miss Monflathers, drawing herself up, ‘is
 applicable only to genteel children.
 
-  “In books, or work, or healthful play”
+“In books, or work, or healthful play”
 
 is quite right as far as they are concerned; and the work means
 painting on velvet, fancy needle-work, or embroidery.  In such cases as
@@ -34973,10 +34973,10 @@ these,’ pointing to Nell, with her parasol, ‘and in the case of all
 poor people’s children, we should read it thus:
 
 
-  “In work, work, work.  In work alway
-  Let my first years be past,
-  That I may give for ev’ry day
-  Some good account at last.”’
+“In work, work, work.  In work alway
+Let my first years be past,
+That I may give for ev’ry day
+Some good account at last.”’
 
 
 A deep hum of applause [[Rose|rose]] not only from the two teachers, but from
@@ -45287,7 +45287,7 @@ I’ll hold him in conversation, and put this property in his hat.  I’ll
 manage so, besides,” he says, “that Mr [[Richard]] shall find it there, and
 be the evidence.  And if that don’t get Christopher out of Mr Quilp’s
 way, and satisfy Mr Quilp’s grudges,” he says, “the Devil’s in it.”
- Miss Sally laughed, and said that was the plan, and as they seemed to
+Miss Sally laughed, and said that was the plan, and as they seemed to
 be moving away, and I was afraid to stop any longer, I went down-stairs
 again.--There!’
 
@@ -45842,7 +45842,7 @@ spark of manliness he might have possessed.  ‘You think so, Sarah, you
 think so perhaps; but you would have acted quite different, my good
 fellow.  You will not have forgotten that it was a maxim with
 Foxey--our revered father, gentlemen--“Always suspect everybody.”
- That’s the maxim to go through life with!  If you were not actually
+That’s the maxim to go through life with!  If you were not actually
 about to purchase your own safety when I showed myself, I suspect you’d
 have done it by this [[Time|time]].  And therefore I’ve done it myself, and
 spared you the trouble as [[Well|well]] as the shame.  The shame, gentlemen,’

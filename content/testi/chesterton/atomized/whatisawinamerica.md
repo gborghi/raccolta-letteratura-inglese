@@ -62,7 +62,7 @@ University Press
 
 _Contents_
 
-                                    PAGE
+PAGE
 
 WHAT IS [[America|AMERICA]]?                       1
 
@@ -518,13 +518,13 @@ invaded by Jews or Bulgars. In the most exquisitely inconsequent of the
 
 _Bab Ballads_, we are told concerning Pasha Bailey Ben:--
 
-     One morning knocked at half-past eight
+One morning knocked at half-past eight
 
-     A tall Red Indian at his gate.
+A tall Red Indian at his gate.
 
-     In Turkey, as you 'r' p'raps aware,
+In Turkey, as you 'r' p'raps aware,
 
-     Red Indians are extremely rare.
+Red Indians are extremely rare.
 
 But the converse need by no means be true. There is nothing in the
 
@@ -2186,9 +2186,9 @@ literary or musical, to bear upon the little boys who drag about a
 
 bolster and a paper mask, calling out
 
-     Guy Fawkes Guy
+Guy Fawkes Guy
 
-     Hit him in the eye.
+Hit him in the eye.
 
 But I admit it is a disadvantage that they have not a saint or [[Hero|hero]] to
 
@@ -3298,9 +3298,9 @@ myself repeating about this vista of the West two vivid lines in which
 
 Mr. W. B. Yeats has called up a vision of the East:--
 
-     And coloured like the eastern [[Birds|birds]]
+And coloured like the eastern [[Birds|birds]]
 
-     At evening in their rainless skies.
+At evening in their rainless skies.
 
 To invoke a somewhat less poetic parallel, even the untravelled
 
@@ -3642,9 +3642,9 @@ had even stirring in my head the suggestion of some verses that I shall
 
 never finish--
 
-     If I ever go back to Baltimore
+If I ever go back to Baltimore
 
-     The [[City|city]] of Maryland.
+The [[City|city]] of Maryland.
 
 But the poem would have to contain far too much; for I was thinking of a
 
@@ -3748,9 +3748,9 @@ invented by Yale at the expense of Harvard, describes it as very small
 
 indeed:--
 
-     Here is to jolly old Boston, the [[Home|home]] of the bean and the cod,
+Here is to jolly old Boston, the [[Home|home]] of the bean and the cod,
 
-     Where Cabots speak only to Lowells, and Lowells speak only to God.
+Where Cabots speak only to Lowells, and Lowells speak only to God.
 
 But an aristocracy must be a minority, and it is arguable that the
 
@@ -4252,9 +4252,9 @@ like iron for things like these.' But I will say that the experience
 
 illuminates some other lines by Holmes himself:--
 
-     Little I ask, my wants are few,
+Little I ask, my wants are few,
 
-     I only ask a hut of stone.
+I only ask a hut of stone.
 
 I should not have known, in England, that he was already asking for a
 
@@ -5302,15 +5302,15 @@ it may be said of many an Englishman that his heart is not where his
 
 treasure is. Browning expressed a very English sentiment when he said:--
 
-     I like to know a butcher paints,
+I like to know a butcher paints,
 
-     A baker rhymes for his pursuit,
+A baker rhymes for his pursuit,
 
-     Candlestick-maker much acquaints
+Candlestick-maker much acquaints
 
-     His [[Soul|soul]] with [[Song|song]], or haply mute
+His [[Soul|soul]] with [[Song|song]], or haply mute
 
-     Blows out his brains upon the flute.
+Blows out his brains upon the flute.
 
 Stevenson touched on the same insular sentiment when he said that many
 
@@ -10106,17 +10106,17 @@ thousand years, what about the pure Republic that has rotted into a
 
 filthy plutocracy in less than a hundred?
 
-     O, hidden face of man, whereover
+O, hidden face of man, whereover
 
-     The years have woven a viewless veil,
+The years have woven a viewless veil,
 
-     If thou wert verily man's [[Lover|lover]]
+If thou wert verily man's [[Lover|lover]]
 
-     What did thy [[Love|love]] or [[Blood|blood]] avail?
+What did thy [[Love|love]] or [[Blood|blood]] avail?
 
-     Thy [[Blood|blood]] the priests make [[Poison|poison]] of;
+Thy [[Blood|blood]] the priests make [[Poison|poison]] of;
 
-     And in gold shekels coin thy [[Love|love]].
+And in gold shekels coin thy [[Love|love]].
 
 Which has most to do with shekels to-day, the priests or the
 
@@ -14716,9 +14716,9 @@ tradition that [[Alone|alone]] is sure of itself. Hundreds have heard the story
 
 about the mediaeval demagogue who went about repeating the rhyme
 
-     When Adam delved and Eve span,
+When Adam delved and Eve span,
 
-     Who was then the gentleman?
+Who was then the gentleman?
 
 Many have doubtless offered the obvious answer to the question, 'The
 
@@ -14971,7 +14971,7 @@ forth that [[Freedom|freedom]] is an eagle, whose glory is gazing at the sun.
 
 
 
-<span class="atom-split" data-atom="story_01_hodder_and_stoughton" data-title="WhatISawInAmerica — Hodder And Stoughton" data-chapter="Story 01 Hodder And Stoughton" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_hodder_and_stoughton" data-title="WhatISawInAmerica — Hodder And Stoughton" data-chapter="Hodder And Stoughton" data-kind="story"></span>
 
 
 HODDER AND STOUGHTON
@@ -14981,7 +14981,7 @@ LIMITED [[London|LONDON]]
 
 
 
-<span class="atom-split" data-atom="story_02_mcmxxii" data-title="WhatISawInAmerica — Mcmxxii" data-chapter="Story 02 Mcmxxii" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_mcmxxii" data-title="WhatISawInAmerica — MCMXXII" data-chapter="MCMXXII" data-kind="story"></span>
 
 
 MCMXXII
@@ -14992,7 +14992,7 @@ University Press
 
 _Contents_
 
-                                    PAGE
+PAGE
 
 WHAT IS [[America|AMERICA]]?                       1
 
@@ -15009,7 +15009,7 @@ University Press
 
 _Indice_
 
-                                                  PAG.  
+PAG.  
 
 CHE COS'È L'[[America|AMERICA]]?                       1
 
@@ -15017,7 +15017,7 @@ UNA MEDITAZIONE IN UN HOTEL DI [[New York|NEW YORK]]      19
 
 
 
-<span class="atom-split" data-atom="story_03_a_meditation_in_broadway_33" data-title="WhatISawInAmerica — A Meditation In Broadway              33" data-chapter="Story 03 A Meditation In Broadway 33" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_a_meditation_in_broadway_33" data-title="WhatISawInAmerica — A Meditation In Broadway              33" data-chapter="A Meditation In Broadway 33" data-kind="story"></span>
 
 
 A MEDITATION IN BROADWAY              33
@@ -15026,7 +15026,7 @@ IRISH AND OTHER INTERVIEWERS          47
 
 
 
-<span class="atom-split" data-atom="story_04_some_american_cities_63" data-title="WhatISawInAmerica — Some American Cities                  63" data-chapter="Story 04 Some American Cities 63" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_some_american_cities_63" data-title="WhatISawInAmerica — Some American Cities                  63" data-chapter="Some American Cities 63" data-kind="story"></span>
 
 
 SOME AMERICAN CITIES                  63
@@ -15035,7 +15035,7 @@ IN THE AMERICAN COUNTRY               80
 
 
 
-<span class="atom-split" data-atom="story_05_the_american_business_man_97" data-title="WhatISawInAmerica — The American Business Man             97" data-chapter="Story 05 The American Business Man 97" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_american_business_man_97" data-title="WhatISawInAmerica — The American Business Man             97" data-chapter="The American Business Man 97" data-kind="story"></span>
 
 
 THE AMERICAN BUSINESS MAN             97
@@ -15044,7 +15044,7 @@ PRESIDENTS AND PROBLEMS              121
 
 
 
-<span class="atom-split" data-atom="story_06_prohibition_in_fact_and_fancy_145" data-title="WhatISawInAmerica — Prohibition In Fact And Fancy        145" data-chapter="Story 06 Prohibition In Fact And Fancy 145" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_prohibition_in_fact_and_fancy_145" data-title="WhatISawInAmerica — Prohibition In Fact And Fancy        145" data-chapter="Prohibition In Fact And Fancy 145" data-kind="story"></span>
 
 
 PROHIBITION IN FACT AND FANCY        145
@@ -15053,7 +15053,7 @@ FADS AND PUBLIC OPINION              163
 
 
 
-<span class="atom-split" data-atom="story_07_the_extraordinary_american_182" data-title="WhatISawInAmerica — The Extraordinary American           182" data-chapter="Story 07 The Extraordinary American 182" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_extraordinary_american_182" data-title="WhatISawInAmerica — The Extraordinary American           182" data-chapter="The Extraordinary American 182" data-kind="story"></span>
 
 
 THE EXTRAORDINARY AMERICAN           182
@@ -15062,7 +15062,7 @@ THE REPUBLICAN IN THE RUINS          195
 
 
 
-<span class="atom-split" data-atom="story_08_is_the_atlantic_narrowing_208" data-title="WhatISawInAmerica — Is The Atlantic Narrowing?           208" data-chapter="Story 08 Is The Atlantic Narrowing 208" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_is_the_atlantic_narrowing_208" data-title="WhatISawInAmerica — Is The Atlantic Narrowing?           208" data-chapter="Is The Atlantic Narrowing 208" data-kind="story"></span>
 
 
 IS THE ATLANTIC NARROWING?           208
@@ -15072,7 +15072,7 @@ IS THE ATLANTIC NARROWING?           208
 
 
 
-<span class="atom-split" data-atom="story_09_wells_and_the_world_state_235" data-title="WhatISawInAmerica — Wells And The World State            235" data-chapter="Story 09 Wells And The World State 235" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_wells_and_the_world_state_235" data-title="WhatISawInAmerica — Wells And The World State            235" data-chapter="Wells And The World State 235" data-kind="story"></span>
 
 
 WELLS AND THE WORLD STATE            235
@@ -15092,7 +15092,7 @@ LO SPIRITO DELL'[[America|AMERICA]]                267
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_01" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 1)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_01" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 1)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 THE SPIRIT OF ENGLAND                281
@@ -15448,7 +15448,7 @@ curiosità, aveva poi scritto: 'Siete un poligamo?' La risposta a
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_02" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 2)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_02" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 2)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 this is, 'No such luck' or 'Not such a [[Fool|fool]],' according to our
@@ -15796,7 +15796,7 @@ Ora, un credo è insieme la cosa più ampia e la più angusta al
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_03" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 3)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_03" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 3)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 world. In its [[Nature|nature]] it is as broad as its scheme for a brotherhood of
@@ -15875,13 +15875,13 @@ invaded by Jews or Bulgars. In the most exquisitely inconsequent of the
 
 _Bab Ballads_, we are told concerning Pasha Bailey Ben:--
 
-     One morning knocked at half-past eight
+One morning knocked at half-past eight
 
-     A tall Red Indian at his gate.
+A tall Red Indian at his gate.
 
-     In Turkey, as you 'r' p'raps aware,
+In Turkey, as you 'r' p'raps aware,
 
-     Red Indians are extremely rare.
+Red Indians are extremely rare.
 
 But the converse need by no means be true. There is nothing in the
 
@@ -16050,13 +16050,13 @@ invasa da Ebrei o Bulgari. Nella più squisitamente sconclusionata delle
 
 _Bab Ballads_, ci si dice a proposito del Pascià Bailey Ben: —
 
-     Un mattino bussò alle otto e mezza
+Un mattino bussò alle otto e mezza
 
-     un alto Pellerossa al suo cancello.
+un alto Pellerossa al suo cancello.
 
-     In Turchia, come forse saprai,
+In Turchia, come forse saprai,
 
-     i Pellerossa sono assai rari.
+i Pellerossa sono assai rari.
 
 Ma l'inverso non è affatto detto che sia vero. Non c'è nulla nella
 
@@ -16148,7 +16148,7 @@ certo che Auberon Herbert fosse un anarchico. Ma Herbert Spencer era
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_04" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 4)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_04" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 4)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 an extraordinarily typical Englishman of the Nonconformist middle class.
@@ -16492,7 +16492,7 @@ una parola, ciò che è unico non è l'[[America]] ma ciò che si chiama
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_05" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 5)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_05" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 5)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 [[Ambition|ambition]] to Americanise the Kamskatkan and the Hairy Ainu. We are not
@@ -16836,7 +16836,7 @@ siano ugualmente alti o ugualmente scaltri; cosa che non solo non possiamo crede
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_06" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 6)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_06" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 6)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 but cannot believe in anybody believing. It is an absolute of morals by
@@ -17176,7 +17176,7 @@ che coprono la superficie di villaggi, alberghi in numero moltitudinario come un
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_07" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 7)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_07" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 7)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 mob of Babylonian or Assyrian monuments; but the hotels also are not
@@ -17520,7 +17520,7 @@ approssimazioni a esso; è il piano che par confarsi alla vita sociale
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_08" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 8)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_08" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 8)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 of the American cities. There is generally something like a ground floor
@@ -17868,7 +17868,7 @@ incongruente, ricopre bene quella parte della pratica sociale per cui questi
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_09" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 9)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_09" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 9)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 American institutions can really be praised. About everything like
@@ -18212,7 +18212,7 @@ paesi nuovi non siano che le resurrezioni di cose vecchie che sono state
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_10" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 10)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_10" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 10)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 wickedly killed or stupidly stunted in old countries. I have looked over
@@ -18552,7 +18552,7 @@ e pavonesco piumaggio dei serafini; purché non s'avvicinasse all'
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_11" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 11)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_11" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 11)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 Tree of Knowledge.
@@ -18896,7 +18896,7 @@ introdotta a questo fine. Vi fui condotto da una certa linea di
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_12" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 12)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_12" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 12)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 reflection that runs along the Great White Way, and I will continue to
@@ -19228,7 +19228,7 @@ piccolo sacrario di San Giuseppe, scopre che ci vogliono milleduecento candele p
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_13" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 13)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_13" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 13)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 light the Seventh Heaven Cigar. He is used to the colours in church
@@ -19299,9 +19299,9 @@ literary or musical, to bear upon the little boys who drag about a
 
 bolster and a paper mask, calling out
 
-     Guy Fawkes Guy
+Guy Fawkes Guy
 
-     Hit him in the eye.
+Hit him in the eye.
 
 But I admit it is a disadvantage that they have not a saint or [[Hero|hero]] to
 
@@ -19472,9 +19472,9 @@ o musicale, contro i ragazzini che trascinano in giro un
 
 cuscino e una maschera di carta, gridando
 
-     Guy Fawkes Guy
+Guy Fawkes Guy
 
-     Colpiscilo nell'occhio.
+Colpiscilo nell'occhio.
 
 Ma ammetto che è uno svantaggio non avere un santo o un [[Hero|eroe]] da
 
@@ -19576,7 +19576,7 @@ l'industrialismo, ma è [[Alone|sola]] nel dare risalto all'ideale che lotta
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_14" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 14)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_14" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 14)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 with industrialism. Industrial capitalism and ideal [[Democracy|democracy]] are
@@ -19924,7 +19924,7 @@ dovetti discutere su suolo americano con un cittadino americano. In un [[Double|
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_15" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 15)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_15" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 15)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 sense I touched Ireland before I came to [[America]]. I will take an
@@ -20276,7 +20276,7 @@ Chi così disprezza la nostra pietà potrebbe forse persino rispettare la nostra
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_16" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 16)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_16" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 16)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 The argument I have often used in other places comes back with
@@ -20624,7 +20624,7 @@ comunemente vede qualche tratto che gli pare fantastico senza vedere il
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_17" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 17)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_17" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 17)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 feature that balances it. The ordinary examples are obvious enough. An
@@ -20972,7 +20972,7 @@ Tutta questa generalizzazione morale e persino metafisica fu resa in modo più g
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_18" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 18)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_18" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 18)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 most faithfully reproduced by the interviewer, who had actually heard it
@@ -21316,7 +21316,7 @@ brigante da strada nella stampa.
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_19" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 19)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_19" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 19)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 I have turned this chapter into something like a defence of
@@ -21479,9 +21479,9 @@ myself repeating about this vista of the West two vivid lines in which
 
 Mr. W. B. Yeats has called up a vision of the East:--
 
-     And coloured like the eastern [[Birds|birds]]
+And coloured like the eastern [[Birds|birds]]
 
-     At evening in their rainless skies.
+At evening in their rainless skies.
 
 To invoke a somewhat less poetic parallel, even the untravelled
 
@@ -21652,9 +21652,9 @@ ritrovai a ripetere, davanti a questa veduta d'Occidente, due vividi versi in cu
 
 il signor W. B. Yeats ha evocato una visione d'Oriente:--
 
-     E colorati come gli [[Birds|uccelli]] d'oriente
+E colorati come gli [[Birds|uccelli]] d'oriente
 
-     A sera nei loro cieli senza pioggia.
+A sera nei loro cieli senza pioggia.
 
 Per invocare un parallelo un po' meno poetico, perfino l'inglese che non ha mai
 
@@ -21664,7 +21664,7 @@ d'un genere chiazzato e sgargiante, in cui una bianca [[house|casa]] o un'automo
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_20" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 20)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_20" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 20)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 are cut out as in cardboard against a sky like blue marble. I used to
@@ -22004,7 +22004,7 @@ colline. Filadelfia e Boston e Baltimora somigliano più a quei quieti
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_21" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 21)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_21" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 21)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 villages than they are like [[New York]].
@@ -22175,7 +22175,7 @@ had even stirring in my head the suggestion of some verses that I shall
 
 never finish--
 
-     If I ever go back to Baltimore
+If I ever go back to Baltimore
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -22348,14 +22348,14 @@ perfino agitarmi in testa il suggerimento di certi versi che non
 
 finirò mai--
 
-     Se mai tornerò a Baltimora
+Se mai tornerò a Baltimora
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_22" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 22)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_22" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 22)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
-     The [[City|city]] of Maryland.
+The [[City|city]] of Maryland.
 
 But the poem would have to contain far too much; for I was thinking of a
 
@@ -22459,9 +22459,9 @@ invented by Yale at the expense of Harvard, describes it as very small
 
 indeed:--
 
-     Here is to jolly old Boston, the [[Home|home]] of the bean and the cod,
+Here is to jolly old Boston, the [[Home|home]] of the bean and the cod,
 
-     Where Cabots speak only to Lowells, and Lowells speak only to God.
+Where Cabots speak only to Lowells, and Lowells speak only to God.
 
 But an aristocracy must be a minority, and it is arguable that the
 
@@ -22632,9 +22632,9 @@ inventato da Yale a spese di Harvard, la descrive come assai piccola
 
 davvero:--
 
-     Ecco alla gaia vecchia Boston, [[Home|patria]] del fagiolo e del merluzzo,
+Ecco alla gaia vecchia Boston, [[Home|patria]] del fagiolo e del merluzzo,
 
-     Dove i Cabot parlano solo ai Lowell, e i Lowell parlano solo a Dio.
+Dove i Cabot parlano solo ai Lowell, e i Lowell parlano solo a Dio.
 
 Ma un'aristocrazia dev'essere una minoranza, ed è sostenibile che
 
@@ -22700,7 +22700,7 @@ solo grande despota democratico dei tempi moderni; il Napoleone del Nuovo
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_23" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 23)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_23" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 23)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 World. The only notion the English public ever got about American
@@ -23044,7 +23044,7 @@ grande cupola azzurra, la più grande cupola del mondo. E il luogo
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_24" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 24)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_24" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 24)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 express something in the inconsistent idealism of this strange people;
@@ -23388,7 +23388,7 @@ faccenda; ma credo che il significato più profondo della sedia a dondolo
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_25" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 25)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_25" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 25)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 still be found in the deeper symbolism of the rocking-[[Horse|horse]]. I think
@@ -23493,9 +23493,9 @@ like iron for things like these.' But I will say that the experience
 
 illuminates some other lines by Holmes himself:--
 
-     Little I ask, my wants are few,
+Little I ask, my wants are few,
 
-     I only ask a hut of stone.
+I only ask a hut of stone.
 
 I should not have known, in England, that he was already asking for a
 
@@ -23664,9 +23664,9 @@ come il ferro per cose come queste.' Ma dirò che l'esperienza
 
 illumina certi altri versi dello stesso Holmes:--
 
-     Poco chiedo, pochi sono i miei bisogni,
+Poco chiedo, pochi sono i miei bisogni,
 
-     Chiedo soltanto una capanna di pietra.
+Chiedo soltanto una capanna di pietra.
 
 Non avrei saputo, in Inghilterra, che stava già chiedendo
 
@@ -23732,7 +23732,7 @@ come: 'Tutto questo sarà ancora qui fra duecento anni?' Quello era il
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_26" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 26)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_26" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 26)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 first impression produced by the wooden houses that seemed like the
@@ -24076,7 +24076,7 @@ innocua, ma dal modo in cui la gente ne parlava si potrebbe supporre che egli
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_27" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 27)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_27" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 27)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 had asked for a screw-driver to screw down the wife in her coffin. And a
@@ -24432,7 +24432,7 @@ qualcosa della semplicità e, dunque, della dignità della [[Democracy|democrazi
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_28" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 28)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_28" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 28)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 and that [[Democracy|democracy]] may yet save their country even from the calamities
@@ -24780,7 +24780,7 @@ non sto discutendo qui quei dettagli eccezionali. È del pari
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_29" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 29)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_29" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 29)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 obvious that a Russian reactionary might [[Cross|cross]] the world with a vow of
@@ -25136,7 +25136,7 @@ Ora un inglese ha una serie di associazioni atmosferiche ma in gran parte accide
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_30" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 30)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_30" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 30)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 associations in connection with a fur coat. I will not say that he
@@ -25480,7 +25480,7 @@ denaro; e se lo significasse, un [[Love|amore]] per il denaro può significare m
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_31" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 31)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_31" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 31)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 different and even contrary things. The [[Love|love]] of money is very different
@@ -25613,15 +25613,15 @@ it may be said of many an Englishman that his heart is not where his
 
 treasure is. Browning expressed a very English sentiment when he said:--
 
-     I like to know a butcher paints,
+I like to know a butcher paints,
 
-     A baker rhymes for his pursuit,
+A baker rhymes for his pursuit,
 
-     Candlestick-maker much acquaints
+Candlestick-maker much acquaints
 
-     His [[Soul|soul]] with [[Song|song]], or haply mute
+His [[Soul|soul]] with [[Song|song]], or haply mute
 
-     Blows out his brains upon the flute.
+Blows out his brains upon the flute.
 
 Stevenson touched on the same insular sentiment when he said that many
 
@@ -25788,15 +25788,15 @@ si può dire di più di un inglese che il suo cuore non è dove è il suo
 
 tesoro. Browning espresse un sentimento molto inglese quando disse:--
 
-     Mi piace sapere che un macellaio dipinge,
+Mi piace sapere che un macellaio dipinge,
 
-     un fornaio verseggia per suo diletto,
+un fornaio verseggia per suo diletto,
 
-     il fabbricante di candelieri molto avvezza
+il fabbricante di candelieri molto avvezza
 
-     la sua [[Soul|anima]] al [[Song|canto]], o forse muto
+la sua [[Soul|anima]] al [[Song|canto]], o forse muto
 
-     si fa saltare le cervella sul flauto.
+si fa saltare le cervella sul flauto.
 
 Stevenson toccò lo stesso sentimento insulare quando disse che molti
 
@@ -25832,7 +25832,7 @@ inglese. Molte delle più grandi cose inglesi hanno avuto questo carattere più 
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_32" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 32)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_32" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 32)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 looser character of a hobby or a holiday experiment. Even a masterpiece
@@ -26172,7 +26172,7 @@ rubare; non più di quanto l'[[Honour|onore]] del duellante fosse insincero quan
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_33" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 33)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_33" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 33)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 drove him to what some would call murder. A very clever American play
@@ -26512,7 +26512,7 @@ che l'impuntualità americana era davvero assai diffusa, e si estendeva a
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_34" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 34)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_34" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 34)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 much more important things. But at least I was not content to lump this
@@ -26856,7 +26856,7 @@ e i suoi leoni d'oro come una sorta di baraccone alla Barnum, o a Shelley di
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_35" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 35)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_35" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 35)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 hang his [[Stars|stars]] and haloed clouds among the lights of Broadway. But it
@@ -27196,7 +27196,7 @@ che quella grande [[Reform|riforma]] sociale, la Legge sul Taglio Obbligatorio d
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_36" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 36)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_36" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 36)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 to be enforced. The Compulsory Haircutting Act, as every good citizen
@@ -27544,7 +27544,7 @@ il Presidente Wilson fu deposto perché aveva usato un potere che è tale,
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_37" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 37)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_37" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 37)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 in its [[Nature|nature]], that a man must use it at the risk of deposition. As a
@@ -27888,7 +27888,7 @@ progresso delle sue grandi e crescenti città, nella sua divisione del lavoro, n
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_38" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 38)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_38" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 38)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 industrial science, and its evolutionary [[Reform|reform]]. The Democratic party
@@ -28220,7 +28220,7 @@ essere dentro tanto [[Well|quanto]] fuori dello Stato. Da un punto di vista ingl
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_39" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 39)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_39" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 39)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 most obvious example is the Irish; for the Irish problem is not a
@@ -28564,7 +28564,7 @@ Il ritornello di quel caloroso [[Chorus|coro]] era che l'Inghilterra non era cos
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_40" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 40)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_40" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 40)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 she was painted; it seemed clear that somewhere or other she was being
@@ -28912,7 +28912,7 @@ davvero un piacere. È un uomo del tutto capace di opinioni che io ritengo
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_41" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 41)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_41" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 41)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 silly to the point of insanity; but he is not the vulgar benevolent
@@ -29256,7 +29256,7 @@ pregiudizio contro gli ebrei. Solo che in questo caso la nostra indifferenza ha
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_42" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 42)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_42" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 42)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 really the excuse of ignorance. We used to lecture the Russians for
@@ -29596,7 +29596,7 @@ sepolte nel subconscio. Molti dicono cose sensate quando
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_43" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 43)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_43" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 43)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 thinks he is talking nonsense; touches on a conflict of ideas as if it
@@ -29944,7 +29944,7 @@ ciò [[Alone|soltanto]] è come un raggio di sole.
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_44" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 44)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_44" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 44)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 Now my primary objection to Prohibition is not based on any arguments
@@ -30280,7 +30280,7 @@ licenza. Se questa è licenza, allora la libertà non esiste. È
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_45" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 45)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_45" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 45)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 plainly impossible to find any right more individual or intimate. To say
@@ -30620,7 +30620,7 @@ lanciare un grido di battaglia. Tanto varrebbe [[Well|pure]] aspettarci che tutt
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_46" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 46)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_46" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 46)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 remain through life with their mouths open, exactly as they were when
@@ -30952,7 +30952,7 @@ divenne possibile. Ora, tra i molti problemi della presenza di un elemento alien
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_47" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 47)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_47" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 47)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 and at least recently barbaric figure among the citizens, there was a
@@ -31300,7 +31300,7 @@ generalmente molto nazionale; forse è per questo che gli internazionalisti sono
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_48" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 48)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_48" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 48)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 so careful to purge themselves of it. I had occasion during the war to
@@ -31632,7 +31632,7 @@ voluto serio. Ma che vi sia o no uno scherzo, vi è
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_49" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 49)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_49" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 49)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 certainly an inconsistency; and it is an inconsistency in the moral
@@ -31968,7 +31968,7 @@ sbarbato. Sarebbe evidentemente incoerente con la Personalità
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_50" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 50)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_50" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 50)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 prefer to wear a beard. These are of course fantastic examples on the
@@ -32308,7 +32308,7 @@ rompicapo. Mi sembra un problema assai reale, al quale non ho mai visto
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_51" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 51)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_51" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 51)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 an answer even such as I shall attempt here, why a [[Democracy|democracy]] should
@@ -32648,7 +32648,7 @@ per suddivisione. Non solo spezzava la religione in piccoli pezzi, ma era
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_52" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 52)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_52" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 52)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 bound to choose the smallest piece. There is in [[America]], I believe, a
@@ -32992,7 +32992,7 @@ troppo a che fare con le uova. Le è già stato dato un quasi
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_53" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 53)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_53" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 53)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 irresponsible power over a limited region in these things; and if that
@@ -33344,7 +33344,7 @@ spiegazione. In risposta alla sua domanda, circa i miei affari in
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_54" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 54)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_54" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 54)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 Oklahoma, I replied with restraint that I was lecturing. To which he
@@ -33692,7 +33692,7 @@ la legge, o un lunatico interamente al di fuori della legge, concordo con le pri
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_55" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 55)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_55" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 55)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 conjectures upon one point. I am perfectly certain he had something else
@@ -34036,7 +34036,7 @@ indignazione: «Se i vescovi continueranno a scassinare così, qualcosa deve
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_56" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 56)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_56" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 56)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 be done.' The whole point of the English [[Romance|romance]] is the exceptional
@@ -34380,7 +34380,7 @@ dell'Anello Mancante come se fosse l'Uomo Scomparso, per cui la polizia
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_57" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 57)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_57" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 57)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 are always advertising; for all the world as if the anthropoid had been
@@ -34720,7 +34720,7 @@ come giovane, si può rispondere che i giovani sono morti giovani, e non hanno
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_58" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 58)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_58" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 58)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 not lived to be old. And if this be confused with the argument that she
@@ -34898,7 +34898,7 @@ buildings, there are institutions, there are even ideas in England which
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_59" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 59)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_59" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 59)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 do preserve, as in a perfect pattern, some particular epoch of the past,
@@ -35234,7 +35234,7 @@ libertà politica è ora assai più una rovina dell'altro; e immagino
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_60" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 60)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_60" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 60)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 I am one of the few who still take off their hats in that ruined temple.
@@ -35323,17 +35323,17 @@ thousand years, what about the pure Republic that has rotted into a
 
 filthy plutocracy in less than a hundred?
 
-     O, hidden face of man, whereover
+O, hidden face of man, whereover
 
-     The years have woven a viewless veil,
+The years have woven a viewless veil,
 
-     If thou wert verily man's [[Lover|lover]]
+If thou wert verily man's [[Lover|lover]]
 
-     What did thy [[Love|love]] or [[Blood|blood]] avail?
+What did thy [[Love|love]] or [[Blood|blood]] avail?
 
-     Thy [[Blood|blood]] the priests make [[Poison|poison]] of;
+Thy [[Blood|blood]] the priests make [[Poison|poison]] of;
 
-     And in gold shekels coin thy [[Love|love]].
+And in gold shekels coin thy [[Love|love]].
 
 Which has most to do with shekels to-day, the priests or the
 
@@ -35500,17 +35500,17 @@ mila anni, che dire della pura Repubblica che è marcita in una
 
 lurida plutocrazia in meno di cento?
 
-     O nascosto volto dell'uomo, su cui
+O nascosto volto dell'uomo, su cui
 
-     gli anni hanno tessuto un velo invisibile,
+gli anni hanno tessuto un velo invisibile,
 
-     se davvero fosti [[Lover|amante]] dell'uomo,
+se davvero fosti [[Lover|amante]] dell'uomo,
 
-     a che valse il tuo [[Love|amore]] o il tuo [[Blood|sangue]]?
+a che valse il tuo [[Love|amore]] o il tuo [[Blood|sangue]]?
 
-     Del tuo [[Blood|sangue]] i sacerdoti fanno [[Poison|veleno]];
+Del tuo [[Blood|sangue]] i sacerdoti fanno [[Poison|veleno]];
 
-     e in aurei sicli coniano il tuo [[Love|amore]].
+e in aurei sicli coniano il tuo [[Love|amore]].
 
 Chi ha più a che fare coi sicli oggigiorno, i sacerdoti o i
 
@@ -35590,7 +35590,7 @@ di certe tendenze assai semplici che aumentano perpetuamente e non abbisognano d
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_61" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 61)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_61" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 61)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 special analysis. It is so with the international _rapprochement_ I have
@@ -35938,7 +35938,7 @@ causerie di [[Oliver]] Wendell Holmes; il personaggio del giovane chiamato
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_62" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 62)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_62" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 62)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 John. He is the very modern type in every modern country who does
@@ -36278,7 +36278,7 @@ un'ulteriore difficoltà, che perfino lo slang più sfrenato finisce col suonare
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_63" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 63)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_63" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 63)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 ordinary language. Very often the English have already as humorous and
@@ -36622,7 +36622,7 @@ osservare una bestia feroce in gabbia o un insetto sotto una teca di vetro. Foll
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_64" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 64)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_64" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 64)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 crowds could collect every day behind a barrier or railing, and gaze at
@@ -36966,7 +36966,7 @@ Allora ricorderebbe tutto. I Padri [[Pilgrim|Pellegrini]] erano campioni
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_65" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 65)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_65" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 65)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 of religious liberty; and they discovered [[America]]. It is true that he
@@ -37302,7 +37302,7 @@ chiamerà bruti tutti gli uomini d'affari, non più di quanto [[Lincoln]] chiame
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_66" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 66)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_66" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 66)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 planters demons; because he knows they are not. He will regard many
@@ -37646,7 +37646,7 @@ l'essere classificate con i Feniani e i Sinn Feiner.
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_67" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 67)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_67" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 67)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 Now touching the actual comparison between the conquest of the
@@ -37982,7 +37982,7 @@ diverso. E invero l'intera conversazione somiglia piuttosto a un qualche simile
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_68" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 68)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_68" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 68)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 should be talking about the President and the other about the [[Cathedral|cathedral]].
@@ -38326,7 +38326,7 @@ scese fino a quella locanda Burford per imbarcarsi verso Trafalgar; potevano arr
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_69" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 69)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_69" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 69)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 there very quickly when Napoleon sat in his tent in that camp at
@@ -38666,7 +38666,7 @@ un altro corso della [[history|storia]] avrebbe potuto facilmente vederli disgre
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_70" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 70)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_70" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 70)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 The pattern of the World State is to be found in the New World.
@@ -39010,7 +39010,7 @@ Wells di fare dell'[[America]] una sorta di modello per la federazione di tutte 
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_71" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 71)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_71" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 71)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 nations of the earth, though it is international in intention, is really
@@ -39350,7 +39350,7 @@ imbiancare il loro compromesso come [[Reform|riforma]] sociale o persino sociali
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_72" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 72)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_72" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 72)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 cosmopolitan Jews who are the Communists in the East will not find it so
@@ -39690,7 +39690,7 @@ secondo metodo di unire l'Inghilterra e l'[[America]]; che non solo
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_73" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 73)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_73" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 73)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 Americanising England, but Americanising everything else.
@@ -40034,7 +40034,7 @@ nessuno può disputare se un triangolo sia più triangolare di quanto un
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_74" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 74)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_74" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 74)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 circle is round.
@@ -40378,7 +40378,7 @@ ristori di una delle locande pickwickiane, specialmente se contenessero
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_75" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 75)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_75" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 75)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 [[Pickwick]]. Nobody expects [[Pickwick]] to like Pogram; but he might like the
@@ -40718,7 +40718,7 @@ fosse un [[Hero|eroe]] tanto grande quanto Annibale, o che Elijah Pogram fosse u
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_76" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 76)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_76" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 76)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 [[Prophet|prophet]] as Elijah. But I do say very seriously that they had something
@@ -41062,7 +41062,7 @@ libagione della [[Freedom|Libertà]] deve talvolta bersi nel [[Blood|sangue]], e
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_77" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 77)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_77" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 77)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 (one would think) than when mad millionaires forbid it to be drunk in
@@ -41406,7 +41406,7 @@ professione teatrale. Di certo qui vi sono gli elementi di una commedia, per non
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_78" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 78)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_78" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 78)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 to mention a cinema play. Surely a [[New England]] village maiden might find
@@ -41754,7 +41754,7 @@ l'entusiasmo. Potrebbe ammettere l'entusiasmo se l'oggetto sembrasse
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_79" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 79)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_79" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 79)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 justify it; he might perfectly [[Well|well]] be serious about a serious thing.
@@ -42098,7 +42098,7 @@ to fracassare le finestre. Non dice di essersi alzato da un letto di malato
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_80" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 80)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_80" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 80)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 to smash the windows. He does not especially think he has risen at all;
@@ -42438,7 +42438,7 @@ quando sono sciocchi, da ciò che credono di essere; e quando sono
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_81" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 81)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_81" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 81)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 wise, by what they wish to be.
@@ -42786,7 +42786,7 @@ l'[[Friendship|amicizia]] anglo-americana, una necessità che io stesso avverto 
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_82" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 82)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_82" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 82)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 strongly to be satisfied with the ambassadorial and editorial style of
@@ -43134,7 +43134,7 @@ vita privata. In quel senso non c'è vita pubblica. In quel senso non c'è
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_83" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 83)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_83" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 83)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 is no public opinion. There have never been those prairie fires of
@@ -43478,7 +43478,7 @@ io stesso ho conoscenza. Io stesso ho la fortuna di essere un po' più
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_84" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 84)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_84" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 84)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 stodgy and less sensitive than many of my countrymen; and certainly less
@@ -43810,7 +43810,7 @@ uomini cercano di competere l'uno con l'altro cercano di copiarsi l'un l'
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_85" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 85)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_85" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 85)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 other. They become featureless by 'featuring' the same part.
@@ -44146,7 +44146,7 @@ sul futuro, se abbiamo torto sul passato. L'altra cosa che
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_86" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 86)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_86" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 86)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 he can do is to note what ideas necessarily go together by their own
@@ -44482,7 +44482,7 @@ che stava distruggendo la [[Democracy|democrazia]]. L'evoluzione divenne sempre 
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_87" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 87)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_87" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 87)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 of the break-up of our brotherhood, till by the end of the nineteenth
@@ -44822,7 +44822,7 @@ scimmia in mitria. Ecco il punto riguardo alla cristiana e cattolica
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_88" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 88)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_88" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 88)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 democratic, it is that its indestructible minimum of [[Democracy|democracy]] really is
@@ -44839,9 +44839,9 @@ tradition that [[Alone|alone]] is sure of itself. Hundreds have heard the story
 
 about the mediaeval demagogue who went about repeating the rhyme
 
-     When Adam delved and Eve span,
+When Adam delved and Eve span,
 
-     Who was then the gentleman?
+Who was then the gentleman?
 
 Many have doubtless offered the obvious answer to the question, 'The
 
@@ -45010,9 +45010,9 @@ tradizione che [[Alone|sola]] è sicura di sé. Centinaia hanno udito la storia
 
 del demagogo medievale che andava ripetendo la rima
 
-     Quando Adamo vangava ed Eva filava,
+Quando Adamo vangava ed Eva filava,
 
-     chi era allora il gentiluomo?
+chi era allora il gentiluomo?
 
 Molti hanno senza dubbio offerto la risposta ovvia alla domanda: 'Il
 
@@ -45166,7 +45166,7 @@ gerarchia puramente umana della cavalleria, col suo puntiglioso modello del
 
 
 
-<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_89" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 89)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_89" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 89)" data-chapter="The Spirit Of England 281" data-kind="excerpt"></span>
 
 
 good knight, its ardent [[Ambition|ambition]] in the young squire? The very name of

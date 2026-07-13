@@ -48,7 +48,7 @@ SECOND EDITION
 
 R. BRIMLEY JOHNSON
 
-       *       *       *       *       *
+*       *       *       *       *
 
 The 'Defences' of which this volume is composed have appeared in _The
 Speaker_, and are here reprinted, after revision and amplification, by
@@ -57,7 +57,7 @@ appeared in _The Daily News_.
 
 _October_, 1901.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 CONTENTS
 
@@ -97,7 +97,7 @@ A DEFENCE OF [[Detective|DETECTIVE]] STORIES
 
 A DEFENCE OF PATRIOTISM
 
-       *       *       *       *       *
+*       *       *       *       *
 
 _IN DEFENCE OF A NEW EDITION
 
@@ -177,7 +177,7 @@ loved first and improved afterwards.
 
 G. K. C_.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 THE DEFENDANT
 
@@ -295,7 +295,7 @@ despise the world--that a counsel for the defence would not have been
 out of place in that terrible day when the sun was darkened over Calvary
 and Man was rejected of men.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF PENNY DREADFULS
 
@@ -474,7 +474,7 @@ never hopeless. That is a class privilege, like cigars. Their drivelling
 literature will always be a '[[Blood|blood]] and thunder' literature, as simple as
 the thunder of heaven and the [[Blood|blood]] of men.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF RASH VOWS
 
@@ -542,8 +542,8 @@ which he powerfully summed up the whole spirit of the movement by
 declaring that he could stand in the [[Prison|prison]] yard and entirely comprehend
 the feelings of a man about to be hanged:
 
-  'For he that lives more lives than one
-  More deaths than one must die.'
+'For he that lives more lives than one
+More deaths than one must die.'
 
 And the end of all this is that maddening horror of unreality which
 descends upon the decadents, and compared with which physical [[Pain|pain]]
@@ -605,12 +605,12 @@ when they were in such a condition that they could be made happy or
 miserable by the moving of someone else's eyebrow. Suckling classes [[Love|love]]
 with debt in his praise of [[Freedom|freedom]].
 
-  'And he that's fairly out of both
-  Of all the world is blest.
-  He lives as in the [[Golden Age|golden age]],
-  When all things made were common;
-  He takes his pipe, he takes his glass,
-  He fears no man or woman.'
+'And he that's fairly out of both
+Of all the world is blest.
+He lives as in the [[Golden Age|golden age]],
+When all things made were common;
+He takes his pipe, he takes his glass,
+He fears no man or woman.'
 
 This is a perfectly possible, rational and manly position. But what have
 [[lovers]] to do with ridiculous affectations of fearing no man or woman?
@@ -647,7 +647,7 @@ and retreats, but surely, sooner or later, the towering flame will rise
 from the harbour announcing that the reign of the cowards is over and a
 man is burning his ships.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF SKELETONS
 
@@ -780,7 +780,7 @@ much my face clouds with sombre [[Vanity|vanity]], or vulgar vengeance, or
 contemptible contempt, the bones of my skull beneath it are laughing for
 ever.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF PUBLICITY
 
@@ -825,10 +825,10 @@ should lift us with it into the empty and ennobling air. Along the base
 of every noble monument, whatever else may be written there, runs in
 invisible letters the lines of Swinburne:
 
-  'This thing is God:
-  To be man with thy might,
-  To go straight in the strength of thy spirit, and live
-      out thy life in the light.'
+'This thing is God:
+To be man with thy might,
+To go straight in the strength of thy spirit, and live
+out thy life in the light.'
 
 If a public monument does not meet this first supreme and obvious need,
 that it should be public and monumental, it fails from the outset.
@@ -924,7 +924,7 @@ and blossoms underground, if the [[Flowers|flowers]] closed at [[Dawn|dawn]] and
 sunset, if the sunflower turned towards the darkness, and the [[Birds|birds]]
 flew, like bats, by [[Night|night]].
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF NONSENSE
 
@@ -999,8 +999,8 @@ his citizenship in the world of unreason. We do not know his prosaic
 [[Biography|biography]] as we know Lewis Carroll's. We accept him as a purely fabulous
 figure, on his own description of himself:
 
-  'His [[Body|body]] is perfectly spherical,
-    He weareth a runcible hat.'
+'His [[Body|body]] is perfectly spherical,
+He weareth a runcible hat.'
 
 While Lewis Carroll's Wonderland is purely intellectual, Lear
 introduces quite another element--the element of the poetical and even
@@ -1010,8 +1010,8 @@ as a bit of a joke. Lear introduces his unmeaning words and his
 amorphous creatures not with the pomp of reason, but with the romantic
 prelude of rich hues and haunting rhythms.
 
-  'Far and few, far and few,
-  Are the lands where the Jumblies live,'
+'Far and few, far and few,
+Are the lands where the Jumblies live,'
 
 is an entirely different type of poetry to that exhibited in
 'Jabberwocky.' Carroll, with a sense of mathematical neatness, makes his
@@ -1021,8 +1021,8 @@ own elvish dialect into the middle of simple and rational statements,
 until we are almost stunned into admitting that we know what they mean.
 There is a genial ring of commonsense about such lines as,
 
-  'For his aunt Jobiska said "Every one knows
-  That a Pobble is better without his toes,"'
+'For his aunt Jobiska said "Every one knows
+That a Pobble is better without his toes,"'
 
 which is beyond the reach of Carroll. The poet seems so easy on the
 matter that we are almost driven to pretend that we see his meaning,
@@ -1085,7 +1085,7 @@ things, has decided that '[[Faith|faith]] is nonsense,' does not know how truly 
 speaks; later it may come back to him in the form that nonsense is
 [[Faith|faith]].
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF PLANETS
 
@@ -1226,7 +1226,7 @@ the blind tournament of the spheres. All this, indeed, we may surely do
 yet; for with all the multiplicity of knowledge there is one thing
 happily that no man knows: whether the world is old or young.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF CHINA SHEPHERDESSES
 
@@ -1356,7 +1356,7 @@ heavily with his friend in a pot-[[house]], the man himself is on his [[Soul|sou
 holiday, crowned with the [[Flowers|flowers]] of a passionate idleness, and far more
 like the Happy Peasant than the world will ever know.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF USEFUL INFORMATION
 
@@ -1529,7 +1529,7 @@ science and human [[Nature|nature]] is one of the greatest needs of mankind. We
 have all to show that before we go on to any visions or creations we can
 be contented with a planet of miracles.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF HERALDRY
 
@@ -1643,7 +1643,7 @@ shall never make anything of [[democracy]] until we make fools of ourselves.
 For if a man really cannot make a [[Fool|fool]] of himself, we may be quite
 certain that the effort is superfluous.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF UGLY THINGS
 
@@ -1763,7 +1763,7 @@ children. The moment we have snapped the spell of conventional [[Beauty|beauty]]
 there are a million beautiful faces waiting for us everywhere, just as
 there are a million beautiful spirits.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF FARCE
 
@@ -1902,7 +1902,7 @@ even find pleasure, which outraged [[Sanity|sanity]] and could not attain to
 exuberance, which contented itself with the [[Fool|fool]]'s cap without the
 [[Bells|bells]]!
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF [[Humility|HUMILITY]]
 
@@ -2049,7 +2049,7 @@ strange-coloured oceans and strange-shaped trees, of [[Dust|dust]] like the wrec
 of temples, and thistledown like the ruin of [[Stars|stars]]--all this colossal
 vision shall perish with the last of the humble.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF SLANG
 
@@ -2095,8 +2095,8 @@ natural symbolism and eloquence that they had not gained from books.
 When Cyrano de Bergerac, in Rostand's play, throws doubts on the reality
 of Christian's dulness and lack of culture, the latter replies:
 
-  'Bah! on trouve des mots quand on monte à l'assaut;
-  Oui, j'ai un certain esprit facile et militaire;'
+'Bah! on trouve des mots quand on monte à l'assaut;
+Oui, j'ai un certain esprit facile et militaire;'
 
 and these two lines sum up a [[Truth|truth]] about the old oligarchs. They could
 not write three legible letters, but they could sometimes speak
@@ -2177,7 +2177,7 @@ kind of topsy-turveydom of poetry, full of blue moons and white
 elephants, of men losing their heads, and men whose tongues run away
 with them--a whole chaos of fairy tales.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF BABY-WORSHIP
 
@@ -2280,7 +2280,7 @@ lustrous eyes seem to hold all the [[Stars|stars]] in their astonishment; their
 fascinating absence of nose seems to give to us the most perfect hint of
 the [[Humour|humour]] that awaits us in the kingdom of heaven.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF [[Detective|DETECTIVE]] STORIES
 
@@ -2390,7 +2390,7 @@ of conspiracies. It reminds us that the whole noiseless and unnoticeable
 police management by which we are ruled and protected is only a
 successful knight-errantry.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 A DEFENCE OF PATRIOTISM
 
@@ -2545,7 +2545,7 @@ End of the Project Gutenberg EBook of The Defendant, by G.K. Chesterton
 
 ***** This file should be named 12245-8.txt or 12245-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/2/2/4/12245/
+http://www.gutenberg.net/1/2/2/4/12245/
 
 Produced by Robert Shimmin, Frank van Drogen and PG Distributed
 Proofreaders
@@ -2695,33 +2695,33 @@ access to or distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
@@ -2833,9 +2833,9 @@ information can be found at the Foundation's web site and official
 page at http://pglaf.org
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -2895,7 +2895,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
@@ -2908,10 +2908,10 @@ download any of these eBooks directly, rather than using the regular
 search system you may utilize the following addresses and just
 download by the etext year.
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 filed in a different way.  The year of a release date is no longer part
@@ -2920,18 +2920,18 @@ identical to the filename).  The path to the file is made up of single
 digits corresponding to all but the last digit in the filename.  For
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 
 
-<span class="atom-split" data-atom="story_01_in_defence_of_a_new_edition" data-title="The Defendant — IN DEFENCE OF A NEW EDITION" data-chapter="Story 01 IN DEFENCE OF A NEW EDITION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_in_defence_of_a_new_edition" data-title="The Defendant — IN DEFENCE OF A NEW EDITION" data-chapter="IN DEFENCE OF A NEW EDITION" data-kind="story"></span>
 
 
 _IN DEFENCE OF A NEW EDITION
@@ -3012,14 +3012,14 @@ loved first and improved afterwards.
 
 G. K. C_.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 THE DEFENDANT
 
 
 
 
-<span class="atom-split" data-atom="story_02_introduction" data-title="The Defendant — INTRODUCTION" data-chapter="Story 02 INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introduction" data-title="The Defendant — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
 
 
 INTRODUCTION
@@ -3136,12 +3136,12 @@ despise the world--that a counsel for the defence would not have been
 out of place in that terrible day when the sun was darkened over Calvary
 and Man was rejected of men.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_03_a_defence_of_penny_dreadfuls" data-title="The Defendant — A DEFENCE OF PENNY DREADFULS" data-chapter="Story 03 A DEFENCE OF PENNY DREADFULS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_a_defence_of_penny_dreadfuls" data-title="The Defendant — A DEFENCE OF PENNY DREADFULS" data-chapter="A DEFENCE OF PENNY DREADFULS" data-kind="story"></span>
 
 
 A DEFENCE OF PENNY DREADFULS
@@ -3321,12 +3321,12 @@ never hopeless. That is a class privilege, like cigars. Their drivelling
 literature will always be a '[[Blood|blood]] and thunder' literature, as simple as
 the thunder of heaven and the [[Blood|blood]] of men.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_04_a_defence_of_rash_vows" data-title="The Defendant — A DEFENCE OF RASH VOWS" data-chapter="Story 04 A DEFENCE OF RASH VOWS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_a_defence_of_rash_vows" data-title="The Defendant — A DEFENCE OF RASH VOWS" data-chapter="A DEFENCE OF RASH VOWS" data-kind="story"></span>
 
 
 A DEFENCE OF RASH VOWS
@@ -3395,8 +3395,8 @@ which he powerfully summed up the whole spirit of the movement by
 declaring that he could stand in the [[Prison|prison]] yard and entirely comprehend
 the feelings of a man about to be hanged:
 
-  'For he that lives more lives than one
-  More deaths than one must die.'
+'For he that lives more lives than one
+More deaths than one must die.'
 
 And the end of all this is that maddening horror of unreality which
 descends upon the decadents, and compared with which physical [[Pain|pain]]
@@ -3458,12 +3458,12 @@ when they were in such a condition that they could be made happy or
 miserable by the moving of someone else's eyebrow. Suckling classes [[Love|love]]
 with debt in his praise of [[Freedom|freedom]].
 
-  'And he that's fairly out of both
-  Of all the world is blest.
-  He lives as in the [[Golden Age|golden age]],
-  When all things made were common;
-  He takes his pipe, he takes his glass,
-  He fears no man or woman.'
+'And he that's fairly out of both
+Of all the world is blest.
+He lives as in the [[Golden Age|golden age]],
+When all things made were common;
+He takes his pipe, he takes his glass,
+He fears no man or woman.'
 
 This is a perfectly possible, rational and manly position. But what have
 [[lovers]] to do with ridiculous affectations of fearing no man or woman?
@@ -3500,12 +3500,12 @@ and retreats, but surely, sooner or later, the towering flame will rise
 from the harbour announcing that the reign of the cowards is over and a
 man is burning his ships.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_05_a_defence_of_skeletons" data-title="The Defendant — A DEFENCE OF SKELETONS" data-chapter="Story 05 A DEFENCE OF SKELETONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_a_defence_of_skeletons" data-title="The Defendant — A DEFENCE OF SKELETONS" data-chapter="A DEFENCE OF SKELETONS" data-kind="story"></span>
 
 
 A DEFENCE OF SKELETONS
@@ -3639,12 +3639,12 @@ much my face clouds with sombre [[Vanity|vanity]], or vulgar vengeance, or
 contemptible contempt, the bones of my skull beneath it are laughing for
 ever.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_06_a_defence_of_publicity" data-title="The Defendant — A DEFENCE OF PUBLICITY" data-chapter="Story 06 A DEFENCE OF PUBLICITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_a_defence_of_publicity" data-title="The Defendant — A DEFENCE OF PUBLICITY" data-chapter="A DEFENCE OF PUBLICITY" data-kind="story"></span>
 
 
 A DEFENCE OF PUBLICITY
@@ -3690,10 +3690,10 @@ should lift us with it into the empty and ennobling air. Along the base
 of every noble monument, whatever else may be written there, runs in
 invisible letters the lines of Swinburne:
 
-  'This thing is God:
-  To be man with thy might,
-  To go straight in the strength of thy spirit, and live
-      out thy life in the light.'
+'This thing is God:
+To be man with thy might,
+To go straight in the strength of thy spirit, and live
+out thy life in the light.'
 
 If a public monument does not meet this first supreme and obvious need,
 that it should be public and monumental, it fails from the outset.
@@ -3789,12 +3789,12 @@ and blossoms underground, if the [[Flowers|flowers]] closed at [[Dawn|dawn]] and
 sunset, if the sunflower turned towards the darkness, and the [[Birds|birds]]
 flew, like bats, by [[Night|night]].
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_07_a_defence_of_nonsense" data-title="The Defendant — A DEFENCE OF NONSENSE" data-chapter="Story 07 A DEFENCE OF NONSENSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_a_defence_of_nonsense" data-title="The Defendant — A DEFENCE OF NONSENSE" data-chapter="A DEFENCE OF NONSENSE" data-kind="story"></span>
 
 
 A DEFENCE OF NONSENSE
@@ -3870,8 +3870,8 @@ his citizenship in the world of unreason. We do not know his prosaic
 [[Biography|biography]] as we know Lewis Carroll's. We accept him as a purely fabulous
 figure, on his own description of himself:
 
-  'His [[Body|body]] is perfectly spherical,
-    He weareth a runcible hat.'
+'His [[Body|body]] is perfectly spherical,
+He weareth a runcible hat.'
 
 While Lewis Carroll's Wonderland is purely intellectual, Lear
 introduces quite another element--the element of the poetical and even
@@ -3881,8 +3881,8 @@ as a bit of a joke. Lear introduces his unmeaning words and his
 amorphous creatures not with the pomp of reason, but with the romantic
 prelude of rich hues and haunting rhythms.
 
-  'Far and few, far and few,
-  Are the lands where the Jumblies live,'
+'Far and few, far and few,
+Are the lands where the Jumblies live,'
 
 is an entirely different type of poetry to that exhibited in
 'Jabberwocky.' Carroll, with a sense of mathematical neatness, makes his
@@ -3892,8 +3892,8 @@ own elvish dialect into the middle of simple and rational statements,
 until we are almost stunned into admitting that we know what they mean.
 There is a genial ring of commonsense about such lines as,
 
-  'For his aunt Jobiska said "Every one knows
-  That a Pobble is better without his toes,"'
+'For his aunt Jobiska said "Every one knows
+That a Pobble is better without his toes,"'
 
 which is beyond the reach of Carroll. The poet seems so easy on the
 matter that we are almost driven to pretend that we see his meaning,
@@ -3956,12 +3956,12 @@ things, has decided that '[[Faith|faith]] is nonsense,' does not know how truly 
 speaks; later it may come back to him in the form that nonsense is
 [[Faith|faith]].
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_08_a_defence_of_planets" data-title="The Defendant — A DEFENCE OF PLANETS" data-chapter="Story 08 A DEFENCE OF PLANETS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_a_defence_of_planets" data-title="The Defendant — A DEFENCE OF PLANETS" data-chapter="A DEFENCE OF PLANETS" data-kind="story"></span>
 
 
 A DEFENCE OF PLANETS
@@ -4103,12 +4103,12 @@ the blind tournament of the spheres. All this, indeed, we may surely do
 yet; for with all the multiplicity of knowledge there is one thing
 happily that no man knows: whether the world is old or young.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_09_a_defence_of_china_shepherdesses" data-title="The Defendant — A DEFENCE OF CHINA SHEPHERDESSES" data-chapter="Story 09 A DEFENCE OF CHINA SHEPHERDESSES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_a_defence_of_china_shepherdesses" data-title="The Defendant — A DEFENCE OF CHINA SHEPHERDESSES" data-chapter="A DEFENCE OF CHINA SHEPHERDESSES" data-kind="story"></span>
 
 
 A DEFENCE OF CHINA SHEPHERDESSES
@@ -4239,12 +4239,12 @@ heavily with his friend in a pot-[[house]], the man himself is on his [[Soul|sou
 holiday, crowned with the [[Flowers|flowers]] of a passionate idleness, and far more
 like the Happy Peasant than the world will ever know.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_10_a_defence_of_useful_information" data-title="The Defendant — A DEFENCE OF USEFUL INFORMATION" data-chapter="Story 10 A DEFENCE OF USEFUL INFORMATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_a_defence_of_useful_information" data-title="The Defendant — A DEFENCE OF USEFUL INFORMATION" data-chapter="A DEFENCE OF USEFUL INFORMATION" data-kind="story"></span>
 
 
 A DEFENCE OF USEFUL INFORMATION
@@ -4418,12 +4418,12 @@ science and human [[Nature|nature]] is one of the greatest needs of mankind. We
 have all to show that before we go on to any visions or creations we can
 be contented with a planet of miracles.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_11_a_defence_of_heraldry" data-title="The Defendant — A DEFENCE OF HERALDRY" data-chapter="Story 11 A DEFENCE OF HERALDRY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_a_defence_of_heraldry" data-title="The Defendant — A DEFENCE OF HERALDRY" data-chapter="A DEFENCE OF HERALDRY" data-kind="story"></span>
 
 
 A DEFENCE OF HERALDRY
@@ -4538,12 +4538,12 @@ shall never make anything of [[democracy]] until we make fools of ourselves.
 For if a man really cannot make a [[Fool|fool]] of himself, we may be quite
 certain that the effort is superfluous.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_12_a_defence_of_ugly_things" data-title="The Defendant — A DEFENCE OF UGLY THINGS" data-chapter="Story 12 A DEFENCE OF UGLY THINGS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_a_defence_of_ugly_things" data-title="The Defendant — A DEFENCE OF UGLY THINGS" data-chapter="A DEFENCE OF UGLY THINGS" data-kind="story"></span>
 
 
 A DEFENCE OF UGLY THINGS
@@ -4664,12 +4664,12 @@ children. The moment we have snapped the spell of conventional [[Beauty|beauty]]
 there are a million beautiful faces waiting for us everywhere, just as
 there are a million beautiful spirits.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_13_a_defence_of_farce" data-title="The Defendant — A DEFENCE OF FARCE" data-chapter="Story 13 A DEFENCE OF FARCE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_a_defence_of_farce" data-title="The Defendant — A DEFENCE OF FARCE" data-chapter="A DEFENCE OF FARCE" data-kind="story"></span>
 
 
 A DEFENCE OF FARCE
@@ -4809,12 +4809,12 @@ even find pleasure, which outraged [[Sanity|sanity]] and could not attain to
 exuberance, which contented itself with the [[Fool|fool]]'s cap without the
 [[Bells|bells]]!
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_14_a_defence_of_humility_humility" data-title="The Defendant — A DEFENCE OF HUMILITY" data-chapter="Story 14 A DEFENCE OF Humility HUMILITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_a_defence_of_humility_humility" data-title="The Defendant — A DEFENCE OF HUMILITY" data-chapter="A DEFENCE OF Humility HUMILITY" data-kind="story"></span>
 
 
 A DEFENCE OF [[Humility|HUMILITY]]
@@ -4962,12 +4962,12 @@ strange-coloured oceans and strange-shaped trees, of [[Dust|dust]] like the wrec
 of temples, and thistledown like the ruin of [[Stars|stars]]--all this colossal
 vision shall perish with the last of the humble.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_15_a_defence_of_slang" data-title="The Defendant — A DEFENCE OF SLANG" data-chapter="Story 15 A DEFENCE OF SLANG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_a_defence_of_slang" data-title="The Defendant — A DEFENCE OF SLANG" data-chapter="A DEFENCE OF SLANG" data-kind="story"></span>
 
 
 A DEFENCE OF SLANG
@@ -5014,8 +5014,8 @@ natural symbolism and eloquence that they had not gained from books.
 When Cyrano de Bergerac, in Rostand's play, throws doubts on the reality
 of Christian's dulness and lack of culture, the latter replies:
 
-  'Bah! on trouve des mots quand on monte à l'assaut;
-  Oui, j'ai un certain esprit facile et militaire;'
+'Bah! on trouve des mots quand on monte à l'assaut;
+Oui, j'ai un certain esprit facile et militaire;'
 
 and these two lines sum up a [[Truth|truth]] about the old oligarchs. They could
 not write three legible letters, but they could sometimes speak
@@ -5096,12 +5096,12 @@ kind of topsy-turveydom of poetry, full of blue moons and white
 elephants, of men losing their heads, and men whose tongues run away
 with them--a whole chaos of fairy tales.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_16_a_defence_of_baby_worship" data-title="The Defendant — A DEFENCE OF BABY-WORSHIP" data-chapter="Story 16 A DEFENCE OF BABY WORSHIP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_a_defence_of_baby_worship" data-title="The Defendant — A DEFENCE OF BABY-WORSHIP" data-chapter="A DEFENCE OF BABY WORSHIP" data-kind="story"></span>
 
 
 A DEFENCE OF BABY-WORSHIP
@@ -5205,12 +5205,12 @@ lustrous eyes seem to hold all the [[Stars|stars]] in their astonishment; their
 fascinating absence of nose seems to give to us the most perfect hint of
 the [[Humour|humour]] that awaits us in the kingdom of heaven.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_17_a_defence_of_detective_detective_stories" data-title="The Defendant — A DEFENCE OF DETECTIVE STORIES" data-chapter="Story 17 A DEFENCE OF Detective DETECTIVE STORIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_a_defence_of_detective_detective_stories" data-title="The Defendant — A DEFENCE OF DETECTIVE STORIES" data-chapter="A DEFENCE OF Detective DETECTIVE STORIES" data-kind="story"></span>
 
 
 A DEFENCE OF [[Detective|DETECTIVE]] STORIES
@@ -5321,12 +5321,12 @@ of conspiracies. It reminds us that the whole noiseless and unnoticeable
 police management by which we are ruled and protected is only a
 successful knight-errantry.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_01" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 1)" data-chapter="Story 18 A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_01" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 1)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
 
 
 A DEFENCE OF PATRIOTISM
@@ -5550,7 +5550,7 @@ Shakespeare, Newton, Burke e Darwin di cui vantarsi.
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_02" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 2)" data-chapter="Story 18 A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_02" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 2)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
 
 
 The peculiar lack of any generosity or delicacy in the current English
@@ -5598,7 +5598,7 @@ End of the Project Gutenberg EBook of The Defendant, by G.K. Chesterton
 
 ***** This file should be named 12245-8.txt or 12245-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/2/2/4/12245/
+http://www.gutenberg.net/1/2/2/4/12245/
 
 Produced by Robert Shimmin, Frank van Drogen and PG Distributed
 Proofreaders
@@ -5723,7 +5723,7 @@ Fine dell'eBook Project Gutenberg di The Defendant, di G.K. Chesterton
 
 ***** This file should be named 12245-8.txt or 12245-8.zip *****
 Questo e tutti i file associati di vari formati si troveranno in:
-        http://www.gutenberg.net/1/2/2/4/12245/
+http://www.gutenberg.net/1/2/2/4/12245/
 
 A cura di Robert Shimmin, Frank van Drogen e dei Proofreader
 Distribuiti di PG
@@ -5802,7 +5802,7 @@ Gutenberg-tm quando la condividete senza pagamento con altri.
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_03" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 3)" data-chapter="Story 18 A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_03" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 3)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
 
 
 1.D.  The copyright laws of the place where you are located also govern
@@ -5878,33 +5878,33 @@ access to or distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
@@ -6002,33 +6002,33 @@ accesso a, o per distribuire opere elettroniche Project Gutenberg-tm a condizion
 che
 
 - Voi paghiate un diritto d'autore del 20% degli utili lordi che ricavate dall'
-     uso di opere Project Gutenberg-tm calcolati usando il metodo
-     che già usate per calcolare le imposte a voi applicabili. Il diritto è
-     dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
-     ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
-     Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
-     devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
-     fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
-     inviati alla Project Gutenberg Literary Archive Foundation all'
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
-     Project Gutenberg Literary Archive Foundation».
+uso di opere Project Gutenberg-tm calcolati usando il metodo
+che già usate per calcolare le imposte a voi applicabili. Il diritto è
+dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
+ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
+Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
+devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
+fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
+inviati alla Project Gutenberg Literary Archive Foundation all'
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
+Project Gutenberg Literary Archive Foundation».
 
 - Voi forniate un rimborso completo di qualsiasi somma pagata da un utente che vi notifichi
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
-     non accetta i termini della Licenza completa Project Gutenberg-tm.
-     Dovete richiedere a un tale utente di restituire o
-     distruggere tutte le copie delle opere possedute in un supporto fisico
-     e di cessare ogni uso e ogni accesso alle altre copie di
-     opere Project Gutenberg-tm.
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
+non accetta i termini della Licenza completa Project Gutenberg-tm.
+Dovete richiedere a un tale utente di restituire o
+distruggere tutte le copie delle opere possedute in un supporto fisico
+e di cessare ogni uso e ogni accesso alle altre copie di
+opere Project Gutenberg-tm.
 
 - Voi forniate, in accordo con il paragrafo 1.F.3, un rimborso completo di qualsiasi
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni
-     dal ricevimento dell'opera.
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni
+dal ricevimento dell'opera.
 
 - Voi vi conformiate a tutti gli altri termini di questo accordo per la libera
-     distribuzione di opere Project Gutenberg-tm.
+distribuzione di opere Project Gutenberg-tm.
 
 1.E.9. Se desiderate far pagare una tariffa o distribuire un'opera elettronica
 Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli
@@ -6052,7 +6052,7 @@ vostra apparecchiatura.
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_04" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 4)" data-chapter="Story 18 A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_04" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 4)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
 
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
@@ -6145,9 +6145,9 @@ information can be found at the Foundation's web site and official
 page at http://pglaf.org
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -6262,9 +6262,9 @@ aggiornate si trovano sul sito web della Fondazione e sulla pagina ufficiale
 all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 Literary Archive Foundation
@@ -6288,7 +6288,7 @@ stato particolare, visitate http://pglaf.org
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_05" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 5)" data-chapter="Story 18 A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_05" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 5)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
 
 
 While we cannot and do not solicit contributions from states where we
@@ -6329,7 +6329,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
@@ -6342,10 +6342,10 @@ download any of these eBooks directly, rather than using the regular
 search system you may utilize the following addresses and just
 download by the etext year.
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 filed in a different way.  The year of a release date is no longer part
@@ -6354,13 +6354,13 @@ identical to the filename).  The path to the file is made up of single
 digits corresponding to all but the last digit in the filename.  For
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6402,7 +6402,7 @@ nuovi nomi di file e numeri etext.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 Questo sito web include informazioni sul Project Gutenberg-tm,
 inclusi come fare donazioni alla Project Gutenberg Literary
@@ -6415,10 +6415,10 @@ scaricare uno qualsiasi di questi eBook direttamente, invece di usare il consuet
 sistema di ricerca, potete utilizzare i seguenti indirizzi e semplicemente
 scaricare per anno etext.
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Oppure /etext 05, 04, 03, 02, 01, 00, 99,
-     98, 97, 96, 95, 94, 93, 92, 92, 91 o 90)
+(Oppure /etext 05, 04, 03, 02, 01, 00, 99,
+98, 97, 96, 95, 94, 93, 92, 92, 91 o 90)
 
 Gli eBook pubblicati a partire dal novembre 2003, con numeri etext OLTRE #10000, sono
 archiviati in modo diverso. L'anno di una data di rilascio non è più parte
@@ -6427,10 +6427,10 @@ identico al nome del file). Il percorso del file è composto da singole
 cifre corrispondenti a tutte le cifre del nome del file tranne l'ultima. Per
 esempio, un eBook con nome di file 10234 si troverebbe in:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 oppure il nome di file 24689 si troverebbe in:
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 Un metodo alternativo per localizzare gli eBook:
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL

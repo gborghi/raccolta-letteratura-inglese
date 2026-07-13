@@ -25,109 +25,109 @@ by Charles Dickens
 Contents
 
 I        TREATS OF THE PLACE WHERE [[Oliver Twist|OLIVER TWIST]] WAS BORN AND OF THE
-         CIRCUMSTANCES ATTENDING HIS BIRTH
+CIRCUMSTANCES ATTENDING HIS BIRTH
 II       TREATS OF [[Oliver Twist|OLIVER TWIST]]’S GROWTH, [[Education|EDUCATION]], AND BOARD
 III      RELATES HOW [[Oliver Twist|OLIVER TWIST]] WAS VERY NEAR GETTING A PLACE WHICH
-         WOULD NOT HAVE BEEN A SINECURE
+WOULD NOT HAVE BEEN A SINECURE
 IV       [[Oliver|OLIVER]], BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY
-         INTO PUBLIC LIFE
+INTO PUBLIC LIFE
 V        [[Oliver|OLIVER]] MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE
-         FIRST [[Time|TIME]], HE FORMS AN UNFAVOURABLE NOTION OF HIS MASTER’S
-         BUSINESS
+FIRST [[Time|TIME]], HE FORMS AN UNFAVOURABLE NOTION OF HIS MASTER’S
+BUSINESS
 VI       [[Oliver|OLIVER]], BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO
-         ACTION, AND RATHER ASTONISHES HIM
+ACTION, AND RATHER ASTONISHES HIM
 VII      [[Oliver|OLIVER]] CONTINUES REFRACTORY
 VIII     [[Oliver|OLIVER]] WALKS TO [[London|LONDON]]. HE ENCOUNTERS ON THE [[Road|ROAD]] A STRANGE
-         SORT OF YOUNG GENTLEMAN
+SORT OF YOUNG GENTLEMAN
 IX       CONTAINING FURTHER PARTICULARS CONCERNING THE PLEASANT OLD
-         GENTLEMAN, AND HIS HOPEFUL PUPILS
+GENTLEMAN, AND HIS HOPEFUL PUPILS
 X        [[Oliver|OLIVER]] BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS
-         NEW ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE.
-         BEING A SHORT, BUT VERY IMPORTANT CHAPTER, IN THIS [[history|HISTORY]]
+NEW ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE.
+BEING A SHORT, BUT VERY IMPORTANT CHAPTER, IN THIS [[history|HISTORY]]
 XI       TREATS OF MR. FANG THE POLICE MAGISTRATE; AND FURNISHES A
-         SLIGHT SPECIMEN OF HIS MODE OF ADMINISTERING JUSTICE
+SLIGHT SPECIMEN OF HIS MODE OF ADMINISTERING JUSTICE
 XII      IN WHICH [[Oliver|OLIVER]] IS TAKEN BETTER CARE OF THAN HE EVER WAS
-         BEFORE. AND IN WHICH THE NARRATIVE REVERTS TO THE MERRY OLD
-         GENTLEMAN AND HIS YOUTHFUL FRIENDS.
+BEFORE. AND IN WHICH THE NARRATIVE REVERTS TO THE MERRY OLD
+GENTLEMAN AND HIS YOUTHFUL FRIENDS.
 XIII     SOME NEW ACQUAINTANCES ARE INTRODUCED TO THE INTELLIGENT
-         READER, CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE
-         RELATED, APPERTAINING TO THIS [[history|HISTORY]]
+READER, CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE
+RELATED, APPERTAINING TO THIS [[history|HISTORY]]
 XIV      COMPRISING FURTHER PARTICULARS OF [[Oliver|OLIVER]]’S STAY AT MR.
-         BROWNLOW’S, WITH THE REMARKABLE PREDICTION WHICH ONE MR.
-         GRIMWIG UTTERED CONCERNING HIM, WHEN HE WENT OUT ON AN ERRAND
+BROWNLOW’S, WITH THE REMARKABLE PREDICTION WHICH ONE MR.
+GRIMWIG UTTERED CONCERNING HIM, WHEN HE WENT OUT ON AN ERRAND
 XV       SHOWING HOW VERY FOND OF [[Oliver Twist|OLIVER TWIST]], THE MERRY OLD JEW AND
-         MISS [[Nancy|NANCY]] WERE
+MISS [[Nancy|NANCY]] WERE
 XVI      RELATES WHAT BECAME OF [[Oliver Twist|OLIVER TWIST]], AFTER HE HAD BEEN CLAIMED
-         BY [[Nancy|NANCY]]
+BY [[Nancy|NANCY]]
 XVII     [[Oliver|OLIVER]]’S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN
-         TO [[London|LONDON]] TO INJURE HIS REPUTATION
+TO [[London|LONDON]] TO INJURE HIS REPUTATION
 XVIII    HOW [[Oliver|OLIVER]] PASSED HIS [[Time|TIME]] IN THE IMPROVING SOCIETY OF HIS
-         REPUTABLE FRIENDS
+REPUTABLE FRIENDS
 XIX      IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON
 XX       WHEREIN [[Oliver|OLIVER]] IS DELIVERED OVER TO MR. WILLIAM SIKES
 XXI      THE EXPEDITION
 XXII     THE BURGLARY
 XXIII    WHICH CONTAINS THE SUBSTANCE OF A PLEASANT CONVERSATION
-         BETWEEN MR. BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE
-         MAY BE SUSCEPTIBLE ON SOME POINTS
+BETWEEN MR. BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE
+MAY BE SUSCEPTIBLE ON SOME POINTS
 XXIV     TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE
-         FOUND OF IMPORTANCE IN THIS [[history|HISTORY]]
+FOUND OF IMPORTANCE IN THIS [[history|HISTORY]]
 XXV      WHEREIN THIS [[history|HISTORY]] REVERTS TO MR. [[Fagin|FAGIN]] AND COMPANY
 XXVI     IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE; AND
-         MANY THINGS, INSEPARABLE FROM THIS [[history|HISTORY]], ARE DONE AND
-         PERFORMED
+MANY THINGS, INSEPARABLE FROM THIS [[history|HISTORY]], ARE DONE AND
+PERFORMED
 XXVII    ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER; WHICH
-         DESERTED A LADY, MOST UNCEREMONIOUSLY
+DESERTED A LADY, MOST UNCEREMONIOUSLY
 XXVIII   LOOKS AFTER [[Oliver|OLIVER]], AND PROCEEDS WITH HIS ADVENTURES
 XXIX     HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO
-         WHICH [[Oliver|OLIVER]] RESORTED
+WHICH [[Oliver|OLIVER]] RESORTED
 XXX      RELATES WHAT [[Oliver|OLIVER]]’S NEW VISITORS THOUGHT OF HIM
 XXXI     INVOLVES A CRITICAL POSITION
 XXXII    OF THE HAPPY LIFE [[Oliver|OLIVER]] BEGAN TO LEAD WITH HIS KIND FRIENDS
 XXXIII   WHEREIN THE HAPPINESS OF [[Oliver|OLIVER]] AND HIS FRIENDS, EXPERIENCES A
-         SUDDEN CHECK
+SUDDEN CHECK
 XXXIV    CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVE TO A YOUNG
-         GENTLEMAN WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE
-         WHICH HAPPENED TO [[Oliver|OLIVER]]
+GENTLEMAN WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE
+WHICH HAPPENED TO [[Oliver|OLIVER]]
 XXXV     CONTAINING THE UNSATISFACTORY RESULT OF [[Oliver|OLIVER]]’S ADVENTURE;
-         AND A CONVERSATION OF SOME IMPORTANCE BETWEEN HARRY MAYLIE AND
-         [[Rose|ROSE]]
+AND A CONVERSATION OF SOME IMPORTANCE BETWEEN HARRY MAYLIE AND
+[[Rose|ROSE]]
 XXXVI    IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN
-         ITS PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL
-         TO THE LAST, AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS [[Time|TIME]]
-         ARRIVES
+ITS PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL
+TO THE LAST, AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS [[Time|TIME]]
+ARRIVES
 XXXVII   IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN
-         MATRIMONIAL CASES
+MATRIMONIAL CASES
 XXXVIII  CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS.
-         BUMBLE, AND MR. [[Monks|MONKS]], AT THEIR NOCTURNAL INTERVIEW
+BUMBLE, AND MR. [[Monks|MONKS]], AT THEIR NOCTURNAL INTERVIEW
 XXXIX    INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READER IS
-         ALREADY ACQUAINTED, AND SHOWS HOW [[Monks|MONKS]] AND THE JEW LAID THEIR
-         WORTHY HEADS TOGETHER
+ALREADY ACQUAINTED, AND SHOWS HOW [[Monks|MONKS]] AND THE JEW LAID THEIR
+WORTHY HEADS TOGETHER
 XL       A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER
 XLI      CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE
-         MISFORTUNES, SELDOM COME [[Alone|ALONE]]
+MISFORTUNES, SELDOM COME [[Alone|ALONE]]
 XLII     AN OLD ACQUAINTANCE OF [[Oliver|OLIVER]]’S, EXHIBITING DECIDED MARKS OF
-         GENIUS, BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
+GENIUS, BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
 XLIII    WHEREIN IS SHOWN HOW THE [[Artful Dodger|ARTFUL DODGER]] GOT INTO TROUBLE
 XLIV     THE [[Time|TIME]] ARRIVES FOR [[Nancy|NANCY]] TO REDEEM HER PLEDGE TO [[Rose|ROSE]]
-         MAYLIE. SHE FAILS.
+MAYLIE. SHE FAILS.
 XLV      NOAH CLAYPOLE IS EMPLOYED BY [[Fagin|FAGIN]] ON A SECRET MISSION
 XLVI     THE APPOINTMENT KEPT
 XLVII    FATAL CONSEQUENCES
 XLVIII   THE FLIGHT OF SIKES
 XLIX     [[Monks|MONKS]] AND MR. BROWNLOW AT LENGTH MEET. THEIR CONVERSATION, AND
-         THE INTELLIGENCE THAT INTERRUPTS IT
+THE INTELLIGENCE THAT INTERRUPTS IT
 L        THE PURSUIT AND ESCAPE
 LI       AFFORDING AN EXPLANATION OF MORE MYSTERIES THAN ONE, AND
-         COMPREHENDING A PROPOSAL OF [[Marriage|MARRIAGE]] WITH NO WORD OF
-         SETTLEMENT OR PIN-MONEY
+COMPREHENDING A PROPOSAL OF [[Marriage|MARRIAGE]] WITH NO WORD OF
+SETTLEMENT OR PIN-MONEY
 LII      [[Fagin|FAGIN]]’S LAST [[Night|NIGHT]] ALIVE
 LIII     AND LAST
 
 
 
 
- CHAPTER I.
+CHAPTER I.
 TREATS OF THE PLACE WHERE [[Oliver Twist|OLIVER TWIST]] WAS BORN AND OF THE
 CIRCUMSTANCES ATTENDING HIS BIRTH
 
@@ -249,7 +249,7 @@ would have cried the louder.
 
 
 
- CHAPTER II.
+CHAPTER II.
 TREATS OF [[Oliver Twist|OLIVER TWIST]]’S GROWTH, [[Education|EDUCATION]], AND BOARD
 
 
@@ -690,7 +690,7 @@ or no.
 
 
 
- CHAPTER III.
+CHAPTER III.
 RELATES HOW [[Oliver Twist|OLIVER TWIST]] WAS VERY NEAR GETTING A PLACE WHICH WOULD NOT
 HAVE BEEN A SINECURE
 
@@ -1059,7 +1059,7 @@ take possession of him.
 
 
 
- CHAPTER IV.
+CHAPTER IV.
 [[Oliver|OLIVER]], BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC
 LIFE
 
@@ -1363,7 +1363,7 @@ Come; don’t keep me here all [[Night|night]]!”
 
 
 
- CHAPTER V.
+CHAPTER V.
 [[Oliver|OLIVER]] MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE FIRST
 [[Time|TIME]], HE FORMS AN UNFAVOURABLE NOTION OF HIS MASTER’S BUSINESS
 
@@ -1832,7 +1832,7 @@ seen and heard.
 
 
 
- CHAPTER VI.
+CHAPTER VI.
 [[Oliver|OLIVER]], BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND
 RATHER ASTONISHES HIM
 
@@ -2033,7 +2033,7 @@ head, and a clasp-knife at his eye.
 
 
 
- CHAPTER VII.
+CHAPTER VII.
 [[Oliver|OLIVER]] CONTINUES REFRACTORY
 
 
@@ -2313,7 +2313,7 @@ once forgot it.
 
 
 
- CHAPTER VIII.
+CHAPTER VIII.
 [[Oliver|OLIVER]] WALKS TO [[London|LONDON]]. HE ENCOUNTERS ON THE [[Road|ROAD]] A STRANGE SORT OF
 YOUNG GENTLEMAN
 
@@ -2662,7 +2662,7 @@ sacks; and then he sunk into a deep [[Sleep|sleep]].
 
 
 
- CHAPTER IX.
+CHAPTER IX.
 CONTAINING FURTHER PARTICULARS CONCERNING THE PLEASANT OLD GENTLEMAN,
 AND HIS HOPEFUL PUPILS
 
@@ -2937,7 +2937,7 @@ the table, and was soon deeply involved in his new study.
 
 
 
- CHAPTER X.
+CHAPTER X.
 [[Oliver|OLIVER]] BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS NEW
 ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE. BEING A SHORT,
 BUT VERY IMPORTANT CHAPTER, IN THIS [[history|HISTORY]]
@@ -3143,7 +3143,7 @@ triumph; and on they went.
 
 
 
- CHAPTER XI.
+CHAPTER XI.
 TREATS OF MR. FANG THE POLICE MAGISTRATE; AND FURNISHES A SLIGHT
 SPECIMEN OF HIS MODE OF ADMINISTERING JUSTICE
 
@@ -3489,7 +3489,7 @@ The book-stall keeper got into the coach; and away they drove.
 
 
 
- CHAPTER XII.
+CHAPTER XII.
 IN WHICH [[Oliver|OLIVER]] IS TAKEN BETTER CARE OF THAN HE EVER WAS BEFORE. AND IN
 WHICH THE NARRATIVE REVERTS TO THE MERRY OLD GENTLEMAN AND HIS YOUTHFUL
 FRIENDS.
@@ -3900,7 +3900,7 @@ behind them.
 
 
 
- CHAPTER XIII.
+CHAPTER XIII.
 SOME NEW ACQUAINTANCES ARE INTRODUCED TO THE INTELLIGENT READER,
 CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE RELATED, APPERTAINING
 TO THIS [[history|HISTORY]]
@@ -4262,7 +4262,7 @@ yet.”
 
 
 
- CHAPTER XIV.
+CHAPTER XIV.
 COMPRISING FURTHER PARTICULARS OF [[Oliver|OLIVER]]’S STAY AT MR. BROWNLOW’S, WITH
 THE REMARKABLE PREDICTION WHICH ONE MR. GRIMWIG UTTERED CONCERNING HIM,
 WHEN HE WENT OUT ON AN ERRAND
@@ -4717,7 +4717,7 @@ discernible; but there the two old gentlemen continued to sit, in
 
 
 
- CHAPTER XV.
+CHAPTER XV.
 SHOWING HOW VERY FOND OF [[Oliver Twist|OLIVER TWIST]], THE MERRY OLD JEW AND MISS [[Nancy|NANCY]]
 WERE
 
@@ -5004,7 +5004,7 @@ perseveringly, in the dark parlour, with the watch between them.
 
 
 
- CHAPTER XVI.
+CHAPTER XVI.
 RELATES WHAT BECAME OF [[Oliver Twist|OLIVER TWIST]], AFTER HE HAD BEEN CLAIMED BY [[Nancy|NANCY]]
 
 
@@ -5436,7 +5436,7 @@ asleep.
 
 
 
- CHAPTER XVII.
+CHAPTER XVII.
 [[Oliver|OLIVER]]’S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO [[London|LONDON]]
 TO INJURE HIS REPUTATION
 
@@ -5858,7 +5858,7 @@ might have broken outright.
 
 
 
- CHAPTER XVIII.
+CHAPTER XVIII.
 HOW [[Oliver|OLIVER]] PASSED HIS [[Time|TIME]] IN THE IMPROVING SOCIETY OF HIS REPUTABLE
 FRIENDS
 
@@ -6198,7 +6198,7 @@ blacken it, and change its hue for ever.
 
 
 
- CHAPTER XIX.
+CHAPTER XIX.
 IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON
 
 
@@ -6631,7 +6631,7 @@ world has not had [[Time|time]] to breathe upon the changing [[Dust|dust]] it ha
 
 
 
- CHAPTER XX.
+CHAPTER XX.
 WHEREIN [[Oliver|OLIVER]] IS DELIVERED OVER TO MR. WILLIAM SIKES
 
 
@@ -6985,7 +6985,7 @@ front of the [[Fire|fire]], and sat, perfectly motionless before it.
 
 
 
- CHAPTER XXI.
+CHAPTER XXI.
 THE EXPEDITION
 
 
@@ -7234,7 +7234,7 @@ passed in together.
 
 
 
- CHAPTER XXII.
+CHAPTER XXII.
 THE BURGLARY
 
 
@@ -7541,7 +7541,7 @@ and he saw or heard no more.
 
 
 
- CHAPTER XXIII.
+CHAPTER XXIII.
 WHICH CONTAINS THE SUBSTANCE OF A PLEASANT CONVERSATION BETWEEN MR.
 BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE MAY BE SUSCEPTIBLE ON
 SOME POINTS
@@ -7857,7 +7857,7 @@ inventory of the furniture.
 
 
 
- CHAPTER XXIV.
+CHAPTER XXIV.
 TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE FOUND OF
 IMPORTANCE IN THIS [[history|HISTORY]]
 
@@ -8098,7 +8098,7 @@ preparations for their dreadful duties to make any reply, were left
 
 
 
- CHAPTER XXV.
+CHAPTER XXV.
 WHEREIN THIS [[history|HISTORY]] REVERTS TO MR. [[Fagin|FAGIN]] AND COMPANY
 
 
@@ -8369,7 +8369,7 @@ his hands in his hair, rushed from the room, and from the [[house]].
 
 
 
- CHAPTER XXVI.
+CHAPTER XXVI.
 IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE; AND MANY
 THINGS, INSEPARABLE FROM THIS [[history|HISTORY]], ARE DONE AND PERFORMED
 
@@ -8892,7 +8892,7 @@ past one o’[[Clock|clock]]. And so the amiable couple parted.
 
 
 
- CHAPTER XXVII.
+CHAPTER XXVII.
 ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER; WHICH DESERTED A LADY,
 MOST UNCEREMONIOUSLY
 
@@ -9216,7 +9216,7 @@ he be still lying in the ditch where Toby Crackit left him.
 
 
 
- CHAPTER XXVIII.
+CHAPTER XXVIII.
 LOOKS AFTER [[Oliver|OLIVER]], AND PROCEEDS WITH HIS ADVENTURES
 
 
@@ -9635,7 +9635,7 @@ solicitude of a woman.
 
 
 
- CHAPTER XXIX.
+CHAPTER XXIX.
 HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO WHICH
 [[Oliver|OLIVER]] RESORTED
 
@@ -9809,7 +9809,7 @@ postponed it. He is perfectly quiet and comfortable now. Allow me—Miss
 
 
 
- CHAPTER XXX.
+CHAPTER XXX.
 RELATES WHAT [[Oliver|OLIVER]]’S NEW VISITORS THOUGHT OF HIM
 
 
@@ -10091,7 +10091,7 @@ all,” said the doctor, walking away.
 
 
 
- CHAPTER XXXI.
+CHAPTER XXXI.
 INVOLVES A CRITICAL POSITION
 
 
@@ -10551,7 +10551,7 @@ peace and happiness.
 
 
 
- CHAPTER XXXII.
+CHAPTER XXXII.
 OF THE HAPPY LIFE [[Oliver|OLIVER]] BEGAN TO LEAD WITH HIS KIND FRIENDS
 
 
@@ -10915,7 +10915,7 @@ to, himself.
 
 
 
- CHAPTER XXXIII.
+CHAPTER XXXIII.
 WHEREIN THE HAPPINESS OF [[Oliver|OLIVER]] AND HIS FRIENDS, EXPERIENCES A SUDDEN
 CHECK
 
@@ -11273,7 +11273,7 @@ extended to receive her.
 
 
 
- CHAPTER XXXIV.
+CHAPTER XXXIV.
 CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVE TO A YOUNG GENTLEMAN
 WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE WHICH HAPPENED TO
 [[Oliver|OLIVER]]
@@ -11679,7 +11679,7 @@ for help.
 
 
 
- CHAPTER XXXV.
+CHAPTER XXXV.
 CONTAINING THE UNSATISFACTORY RESULT OF [[Oliver|OLIVER]]’S ADVENTURE; AND A
 CONVERSATION OF SOME IMPORTANCE BETWEEN HARRY MAYLIE AND [[Rose|ROSE]]
 
@@ -11993,7 +11993,7 @@ room.
 
 
 
- CHAPTER XXXVI.
+CHAPTER XXXVI.
 IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN ITS
 PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST,
 AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS [[Time|TIME]] ARRIVES
@@ -12116,7 +12116,7 @@ the same direction, seemed to tell more of sorrow than of joy.
 
 
 
- CHAPTER XXXVII.
+CHAPTER XXXVII.
 IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN
 MATRIMONIAL CASES
 
@@ -12566,7 +12566,7 @@ paper. “What name am I to ask for?”
 
 
 
- CHAPTER XXXVIII.
+CHAPTER XXXVIII.
 CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS. BUMBLE, AND
 MR. [[Monks|MONKS]], AT THEIR NOCTURNAL INTERVIEW
 
@@ -13024,7 +13024,7 @@ returned to the chamber he had just quitted.
 
 
 
- CHAPTER XXXIX.
+CHAPTER XXXIX.
 INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READER IS ALREADY
 ACQUAINTED, AND SHOWS HOW [[Monks|MONKS]] AND THE JEW LAID THEIR WORTHY HEADS
 TOGETHER
@@ -13657,7 +13657,7 @@ lighted by a lamp from the ceiling. Here he left her, and retired.
 
 
 
- CHAPTER XL.
+CHAPTER XL.
 A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER
 
 
@@ -13945,7 +13945,7 @@ into a chair, and endeavoured to collect her wandering thoughts.
 
 
 
- CHAPTER XLI.
+CHAPTER XLI.
 CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE
 MISFORTUNES, SELDOM COME [[Alone|ALONE]]
 
@@ -14358,7 +14358,7 @@ and the council was, for the present, effectually broken up.
 
 
 
- CHAPTER XLII.
+CHAPTER XLII.
 AN OLD ACQUAINTANCE OF [[Oliver|OLIVER]]’S, EXHIBITING DECIDED MARKS OF GENIUS,
 BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
 
@@ -14836,7 +14836,7 @@ the kinchin lay, in [[London]] and its vicinity.
 
 
 
- CHAPTER XLIII.
+CHAPTER XLIII.
 WHEREIN IS SHOWN HOW THE [[Artful Dodger|ARTFUL DODGER]] GOT INTO TROUBLE
 
 
@@ -15296,7 +15296,7 @@ establishing for himself a glorious reputation.
 
 
 
- CHAPTER XLIV.
+CHAPTER XLIV.
 THE [[Time|TIME]] ARRIVES FOR [[Nancy|NANCY]] TO REDEEM HER PLEDGE TO [[Rose Maylie|ROSE MAYLIE]]. SHE
 FAILS.
 
@@ -15587,7 +15587,7 @@ crushed with every motion of his fingers.
 
 
 
- CHAPTER XLV.
+CHAPTER XLV.
 NOAH CLAYPOLE IS EMPLOYED BY [[Fagin|FAGIN]] ON A SECRET MISSION
 
 
@@ -15759,7 +15759,7 @@ distance between them, and followed: with his eye upon her.
 
 
 
- CHAPTER XLVI.
+CHAPTER XLVI.
 THE APPOINTMENT KEPT
 
 
@@ -16177,7 +16177,7 @@ made for the Jew’s [[house]] as fast as his legs would carry him.
 
 
 
- CHAPTER XLVII.
+CHAPTER XLVII.
 FATAL CONSEQUENCES
 
 
@@ -16500,7 +16500,7 @@ club and struck her down.
 
 
 
- CHAPTER XLVIII.
+CHAPTER XLVIII.
 THE FLIGHT OF SIKES
 
 
@@ -16866,7 +16866,7 @@ resumed his [[Journey|journey]].
 
 
 
- CHAPTER XLIX.
+CHAPTER XLIX.
 [[Monks|MONKS]] AND MR. BROWNLOW AT LENGTH MEET. THEIR CONVERSATION, AND THE
 INTELLIGENCE THAT INTERRUPTS IT
 
@@ -17278,7 +17278,7 @@ wholly uncontrollable.
 
 
 
- CHAPTER L.
+CHAPTER L.
 THE PURSUIT AND ESCAPE
 
 
@@ -17765,7 +17765,7 @@ against a stone, dashed out his brains.
 
 
 
- CHAPTER LI.
+CHAPTER LI.
 AFFORDING AN EXPLANATION OF MORE MYSTERIES THAN ONE, AND COMPREHENDING
 A PROPOSAL OF [[Marriage|MARRIAGE]] WITH NO WORD OF SETTLEMENT OR PIN-MONEY
 
@@ -18307,7 +18307,7 @@ Poor Dick was dead!
 
 
 
- CHAPTER LII.
+CHAPTER LII.
 [[Fagin|FAGIN]]’S LAST [[Night|NIGHT]] ALIVE
 
 
@@ -18665,7 +18665,7 @@ the hideous apparatus of [[Death|death]].
 
 
 
- CHAPTER LIII.
+CHAPTER LIII.
 AND LAST
 
 
@@ -18827,7 +18827,7 @@ because that nook is in a Church, and she was weak and erring.
 <span class="atom-split" data-atom="chapter_01" data-title="Oliver Twist — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
 
 
- CHAPTER I.
+CHAPTER I.
 TREATS OF THE PLACE WHERE [[Oliver Twist|OLIVER TWIST]] WAS BORN AND OF THE
 CIRCUMSTANCES ATTENDING HIS BIRTH
 
@@ -18952,7 +18952,7 @@ would have cried the louder.
 <span class="atom-split" data-atom="chapter_06" data-title="Oliver Twist — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
 
 
- CHAPTER VI.
+CHAPTER VI.
 [[Oliver|OLIVER]], BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND
 RATHER ASTONISHES HIM
 
@@ -19156,7 +19156,7 @@ head, and a clasp-knife at his eye.
 <span class="atom-split" data-atom="chapter_10" data-title="Oliver Twist — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
 
 
- CHAPTER X.
+CHAPTER X.
 [[Oliver|OLIVER]] BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS NEW
 ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE. BEING A SHORT,
 BUT VERY IMPORTANT CHAPTER, IN THIS [[history|HISTORY]]
@@ -19365,7 +19365,7 @@ triumph; and on they went.
 <span class="atom-split" data-atom="chapter_24" data-title="Oliver Twist — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
 
 
- CHAPTER XXIV.
+CHAPTER XXIV.
 TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE FOUND OF
 IMPORTANCE IN THIS [[history|HISTORY]]
 
@@ -19609,7 +19609,7 @@ preparations for their dreadful duties to make any reply, were left
 <span class="atom-split" data-atom="chapter_29" data-title="Oliver Twist — Chapter 29" data-chapter="Chapter 29" data-kind="chapter"></span>
 
 
- CHAPTER XXIX.
+CHAPTER XXIX.
 HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO WHICH
 [[Oliver|OLIVER]] RESORTED
 
@@ -19786,7 +19786,7 @@ postponed it. He is perfectly quiet and comfortable now. Allow me—Miss
 <span class="atom-split" data-atom="chapter_36" data-title="Oliver Twist — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
 
 
- CHAPTER XXXVI.
+CHAPTER XXXVI.
 IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN ITS
 PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST,
 AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS [[Time|TIME]] ARRIVES
@@ -19912,7 +19912,7 @@ the same direction, seemed to tell more of sorrow than of joy.
 <span class="atom-split" data-atom="chapter_45" data-title="Oliver Twist — Chapter 45" data-chapter="Chapter 45" data-kind="chapter"></span>
 
 
- CHAPTER XLV.
+CHAPTER XLV.
 NOAH CLAYPOLE IS EMPLOYED BY [[Fagin|FAGIN]] ON A SECRET MISSION
 
 
@@ -20087,7 +20087,7 @@ distance between them, and followed: with his eye upon her.
 <span class="atom-split" data-atom="chapter_53" data-title="Oliver Twist — Chapter 53" data-chapter="Chapter 53" data-kind="chapter"></span>
 
 
- CHAPTER LIII.
+CHAPTER LIII.
 AND LAST
 
 
@@ -20249,7 +20249,7 @@ because that nook is in a Church, and she was weak and erring.
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Oliver Twist — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
- CHAPTER II.
+CHAPTER II.
 TREATS OF [[Oliver Twist|OLIVER TWIST]]’S GROWTH, [[Education|EDUCATION]], AND BOARD
 
 
@@ -20711,7 +20711,7 @@ or no.
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Oliver Twist — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
 
- CHAPTER III.
+CHAPTER III.
 RELATES HOW [[Oliver Twist|OLIVER TWIST]] WAS VERY NEAR GETTING A PLACE WHICH WOULD NOT
 HAVE BEEN A SINECURE
 
@@ -21095,7 +21095,7 @@ take possession of him.
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="Oliver Twist — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
 
- CHAPTER IV.
+CHAPTER IV.
 [[Oliver|OLIVER]], BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC
 LIFE
 
@@ -21414,7 +21414,7 @@ Come; don’t keep me here all [[Night|night]]!”
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Oliver Twist — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
 
- CHAPTER V.
+CHAPTER V.
 [[Oliver|OLIVER]] MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE FIRST
 [[Time|TIME]], HE FORMS AN UNFAVOURABLE NOTION OF HIS MASTER’S BUSINESS
 
@@ -21904,7 +21904,7 @@ seen and heard.
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Oliver Twist — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
- CHAPTER VII.
+CHAPTER VII.
 [[Oliver|OLIVER]] CONTINUES REFRACTORY
 
 
@@ -22193,7 +22193,7 @@ once forgot it.
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="Oliver Twist — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
 
- CHAPTER VIII.
+CHAPTER VIII.
 [[Oliver|OLIVER]] WALKS TO [[London|LONDON]]. HE ENCOUNTERS ON THE [[Road|ROAD]] A STRANGE SORT OF
 YOUNG GENTLEMAN
 
@@ -22557,7 +22557,7 @@ sacks; and then he sunk into a deep [[Sleep|sleep]].
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="Oliver Twist — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
 
- CHAPTER IX.
+CHAPTER IX.
 CONTAINING FURTHER PARTICULARS CONCERNING THE PLEASANT OLD GENTLEMAN,
 AND HIS HOPEFUL PUPILS
 
@@ -22841,7 +22841,7 @@ the table, and was soon deeply involved in his new study.
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="Oliver Twist — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
 
- CHAPTER XI.
+CHAPTER XI.
 TREATS OF MR. FANG THE POLICE MAGISTRATE; AND FURNISHES A SLIGHT
 SPECIMEN OF HIS MODE OF ADMINISTERING JUSTICE
 
@@ -23202,7 +23202,7 @@ The book-stall keeper got into the coach; and away they drove.
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="Oliver Twist — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
 
- CHAPTER XII.
+CHAPTER XII.
 IN WHICH [[Oliver|OLIVER]] IS TAKEN BETTER CARE OF THAN HE EVER WAS BEFORE. AND IN
 WHICH THE NARRATIVE REVERTS TO THE MERRY OLD GENTLEMAN AND HIS YOUTHFUL
 FRIENDS.
@@ -23628,7 +23628,7 @@ behind them.
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="Oliver Twist — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
 
- CHAPTER XIII.
+CHAPTER XIII.
 SOME NEW ACQUAINTANCES ARE INTRODUCED TO THE INTELLIGENT READER,
 CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE RELATED, APPERTAINING
 TO THIS [[history|HISTORY]]
@@ -24005,7 +24005,7 @@ yet.”
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="Oliver Twist — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
 
 
- CHAPTER XIV.
+CHAPTER XIV.
 COMPRISING FURTHER PARTICULARS OF [[Oliver|OLIVER]]’S STAY AT MR. BROWNLOW’S, WITH
 THE REMARKABLE PREDICTION WHICH ONE MR. GRIMWIG UTTERED CONCERNING HIM,
 WHEN HE WENT OUT ON AN ERRAND
@@ -24481,7 +24481,7 @@ discernible; but there the two old gentlemen continued to sit, in
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="Oliver Twist — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
 
- CHAPTER XV.
+CHAPTER XV.
 SHOWING HOW VERY FOND OF [[Oliver Twist|OLIVER TWIST]], THE MERRY OLD JEW AND MISS [[Nancy|NANCY]]
 WERE
 
@@ -24777,7 +24777,7 @@ perseveringly, in the dark parlour, with the watch between them.
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="Oliver Twist — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
 
- CHAPTER XVI.
+CHAPTER XVI.
 RELATES WHAT BECAME OF [[Oliver Twist|OLIVER TWIST]], AFTER HE HAD BEEN CLAIMED BY [[Nancy|NANCY]]
 
 
@@ -25224,7 +25224,7 @@ asleep.
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="Oliver Twist — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
 
- CHAPTER XVII.
+CHAPTER XVII.
 [[Oliver|OLIVER]]’S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO [[London|LONDON]]
 TO INJURE HIS REPUTATION
 
@@ -25661,7 +25661,7 @@ might have broken outright.
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="Oliver Twist — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
 
 
- CHAPTER XVIII.
+CHAPTER XVIII.
 HOW [[Oliver|OLIVER]] PASSED HIS [[Time|TIME]] IN THE IMPROVING SOCIETY OF HIS REPUTABLE
 FRIENDS
 
@@ -26016,7 +26016,7 @@ blacken it, and change its hue for ever.
 <span class="atom-split" data-atom="chapter_19--part_01" data-title="Oliver Twist — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
 
 
- CHAPTER XIX.
+CHAPTER XIX.
 IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON
 
 
@@ -26464,7 +26464,7 @@ world has not had [[Time|time]] to breathe upon the changing [[Dust|dust]] it ha
 <span class="atom-split" data-atom="chapter_20--part_01" data-title="Oliver Twist — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
 
 
- CHAPTER XX.
+CHAPTER XX.
 WHEREIN [[Oliver|OLIVER]] IS DELIVERED OVER TO MR. WILLIAM SIKES
 
 
@@ -26833,7 +26833,7 @@ front of the [[Fire|fire]], and sat, perfectly motionless before it.
 <span class="atom-split" data-atom="chapter_21--part_01" data-title="Oliver Twist — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
 
 
- CHAPTER XXI.
+CHAPTER XXI.
 THE EXPEDITION
 
 
@@ -27091,7 +27091,7 @@ passed in together.
 <span class="atom-split" data-atom="chapter_22--part_01" data-title="Oliver Twist — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
 
 
- CHAPTER XXII.
+CHAPTER XXII.
 THE BURGLARY
 
 
@@ -27407,7 +27407,7 @@ and he saw or heard no more.
 <span class="atom-split" data-atom="chapter_23--part_01" data-title="Oliver Twist — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
 
 
- CHAPTER XXIII.
+CHAPTER XXIII.
 WHICH CONTAINS THE SUBSTANCE OF A PLEASANT CONVERSATION BETWEEN MR.
 BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE MAY BE SUSCEPTIBLE ON
 SOME POINTS
@@ -27738,7 +27738,7 @@ inventory of the furniture.
 <span class="atom-split" data-atom="chapter_25--part_01" data-title="Oliver Twist — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
 
 
- CHAPTER XXV.
+CHAPTER XXV.
 WHEREIN THIS [[history|HISTORY]] REVERTS TO MR. [[Fagin|FAGIN]] AND COMPANY
 
 
@@ -28018,7 +28018,7 @@ his hands in his hair, rushed from the room, and from the [[house]].
 <span class="atom-split" data-atom="chapter_26--part_01" data-title="Oliver Twist — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
 
 
- CHAPTER XXVI.
+CHAPTER XXVI.
 IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE; AND MANY
 THINGS, INSEPARABLE FROM THIS [[history|HISTORY]], ARE DONE AND PERFORMED
 
@@ -28562,7 +28562,7 @@ past one o’[[Clock|clock]]. And so the amiable couple parted.
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="Oliver Twist — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
 
 
- CHAPTER XXVII.
+CHAPTER XXVII.
 ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER; WHICH DESERTED A LADY,
 MOST UNCEREMONIOUSLY
 
@@ -28901,7 +28901,7 @@ he be still lying in the ditch where Toby Crackit left him.
 <span class="atom-split" data-atom="chapter_28--part_01" data-title="Oliver Twist — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
 
 
- CHAPTER XXVIII.
+CHAPTER XXVIII.
 LOOKS AFTER [[Oliver|OLIVER]], AND PROCEEDS WITH HIS ADVENTURES
 
 
@@ -29335,7 +29335,7 @@ solicitude of a woman.
 <span class="atom-split" data-atom="chapter_30--part_01" data-title="Oliver Twist — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
 
 
- CHAPTER XXX.
+CHAPTER XXX.
 RELATES WHAT [[Oliver|OLIVER]]’S NEW VISITORS THOUGHT OF HIM
 
 
@@ -29626,7 +29626,7 @@ all,” said the doctor, walking away.
 <span class="atom-split" data-atom="chapter_31--part_01" data-title="Oliver Twist — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
 
 
- CHAPTER XXXI.
+CHAPTER XXXI.
 INVOLVES A CRITICAL POSITION
 
 
@@ -30107,7 +30107,7 @@ peace and happiness.
 <span class="atom-split" data-atom="chapter_32--part_01" data-title="Oliver Twist — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
 
 
- CHAPTER XXXII.
+CHAPTER XXXII.
 OF THE HAPPY LIFE [[Oliver|OLIVER]] BEGAN TO LEAD WITH HIS KIND FRIENDS
 
 
@@ -30486,7 +30486,7 @@ to, himself.
 <span class="atom-split" data-atom="chapter_33--part_01" data-title="Oliver Twist — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
 
 
- CHAPTER XXXIII.
+CHAPTER XXXIII.
 WHEREIN THE HAPPINESS OF [[Oliver|OLIVER]] AND HIS FRIENDS, EXPERIENCES A SUDDEN
 CHECK
 
@@ -30859,7 +30859,7 @@ extended to receive her.
 <span class="atom-split" data-atom="chapter_34--part_01" data-title="Oliver Twist — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
 
 
- CHAPTER XXXIV.
+CHAPTER XXXIV.
 CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVE TO A YOUNG GENTLEMAN
 WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE WHICH HAPPENED TO
 [[Oliver|OLIVER]]
@@ -31286,7 +31286,7 @@ for help.
 <span class="atom-split" data-atom="chapter_35--part_01" data-title="Oliver Twist — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
 
 
- CHAPTER XXXV.
+CHAPTER XXXV.
 CONTAINING THE UNSATISFACTORY RESULT OF [[Oliver|OLIVER]]’S ADVENTURE; AND A
 CONVERSATION OF SOME IMPORTANCE BETWEEN HARRY MAYLIE AND [[Rose|ROSE]]
 
@@ -31615,7 +31615,7 @@ room.
 <span class="atom-split" data-atom="chapter_37--part_01" data-title="Oliver Twist — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
 
 
- CHAPTER XXXVII.
+CHAPTER XXXVII.
 IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN
 MATRIMONIAL CASES
 
@@ -32086,7 +32086,7 @@ paper. “What name am I to ask for?”
 <span class="atom-split" data-atom="chapter_38--part_01" data-title="Oliver Twist — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
 
 
- CHAPTER XXXVIII.
+CHAPTER XXXVIII.
 CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS. BUMBLE, AND
 MR. [[Monks|MONKS]], AT THEIR NOCTURNAL INTERVIEW
 
@@ -32565,7 +32565,7 @@ returned to the chamber he had just quitted.
 <span class="atom-split" data-atom="chapter_39--part_01" data-title="Oliver Twist — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
 
 
- CHAPTER XXXIX.
+CHAPTER XXXIX.
 INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READER IS ALREADY
 ACQUAINTED, AND SHOWS HOW [[Monks|MONKS]] AND THE JEW LAID THEIR WORTHY HEADS
 TOGETHER
@@ -33225,7 +33225,7 @@ lighted by a lamp from the ceiling. Here he left her, and retired.
 <span class="atom-split" data-atom="chapter_40--part_01" data-title="Oliver Twist — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
 
 
- CHAPTER XL.
+CHAPTER XL.
 A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER
 
 
@@ -33522,7 +33522,7 @@ into a chair, and endeavoured to collect her wandering thoughts.
 <span class="atom-split" data-atom="chapter_41--part_01" data-title="Oliver Twist — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
 
 
- CHAPTER XLI.
+CHAPTER XLI.
 CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE
 MISFORTUNES, SELDOM COME [[Alone|ALONE]]
 
@@ -33956,7 +33956,7 @@ and the council was, for the present, effectually broken up.
 <span class="atom-split" data-atom="chapter_42--part_01" data-title="Oliver Twist — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
 
 
- CHAPTER XLII.
+CHAPTER XLII.
 AN OLD ACQUAINTANCE OF [[Oliver|OLIVER]]’S, EXHIBITING DECIDED MARKS OF GENIUS,
 BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
 
@@ -34455,7 +34455,7 @@ the kinchin lay, in [[London]] and its vicinity.
 <span class="atom-split" data-atom="chapter_43--part_01" data-title="Oliver Twist — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
 
 
- CHAPTER XLIII.
+CHAPTER XLIII.
 WHEREIN IS SHOWN HOW THE [[Artful Dodger|ARTFUL DODGER]] GOT INTO TROUBLE
 
 
@@ -34936,7 +34936,7 @@ establishing for himself a glorious reputation.
 <span class="atom-split" data-atom="chapter_44--part_01" data-title="Oliver Twist — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
 
 
- CHAPTER XLIV.
+CHAPTER XLIV.
 THE [[Time|TIME]] ARRIVES FOR [[Nancy|NANCY]] TO REDEEM HER PLEDGE TO [[Rose Maylie|ROSE MAYLIE]]. SHE
 FAILS.
 
@@ -35236,7 +35236,7 @@ crushed with every motion of his fingers.
 <span class="atom-split" data-atom="chapter_46--part_01" data-title="Oliver Twist — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
 
 
- CHAPTER XLVI.
+CHAPTER XLVI.
 THE APPOINTMENT KEPT
 
 
@@ -35669,7 +35669,7 @@ made for the Jew’s [[house]] as fast as his legs would carry him.
 <span class="atom-split" data-atom="chapter_47--part_01" data-title="Oliver Twist — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
 
 
- CHAPTER XLVII.
+CHAPTER XLVII.
 FATAL CONSEQUENCES
 
 
@@ -36001,7 +36001,7 @@ club and struck her down.
 <span class="atom-split" data-atom="chapter_48--part_01" data-title="Oliver Twist — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
 
 
- CHAPTER XLVIII.
+CHAPTER XLVIII.
 THE FLIGHT OF SIKES
 
 
@@ -36382,7 +36382,7 @@ resumed his [[Journey|journey]].
 <span class="atom-split" data-atom="chapter_49--part_01" data-title="Oliver Twist — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
 
 
- CHAPTER XLIX.
+CHAPTER XLIX.
 [[Monks|MONKS]] AND MR. BROWNLOW AT LENGTH MEET. THEIR CONVERSATION, AND THE
 INTELLIGENCE THAT INTERRUPTS IT
 
@@ -36809,7 +36809,7 @@ wholly uncontrollable.
 <span class="atom-split" data-atom="chapter_50--part_01" data-title="Oliver Twist — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
 
 
- CHAPTER L.
+CHAPTER L.
 THE PURSUIT AND ESCAPE
 
 
@@ -37317,7 +37317,7 @@ against a stone, dashed out his brains.
 <span class="atom-split" data-atom="chapter_51--part_01" data-title="Oliver Twist — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
 
 
- CHAPTER LI.
+CHAPTER LI.
 AFFORDING AN EXPLANATION OF MORE MYSTERIES THAN ONE, AND COMPREHENDING
 A PROPOSAL OF [[Marriage|MARRIAGE]] WITH NO WORD OF SETTLEMENT OR PIN-MONEY
 
@@ -37886,7 +37886,7 @@ Poor Dick was dead!
 <span class="atom-split" data-atom="chapter_52--part_01" data-title="Oliver Twist — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
 
 
- CHAPTER LII.
+CHAPTER LII.
 [[Fagin|FAGIN]]’S LAST [[Night|NIGHT]] ALIVE
 
 

@@ -32,14 +32,14 @@ deficiency in [[Humour|humour]] to search for a definition of [[Humour|humour]].
 use of the term, however, is by no means the primary or necessary use
 of it; and it is one of the cases, rarer than is commonly supposed,
 in which derivation offers at least an approach to definition.
-Everybody knows that `Humor', in the Latin sense of `moisture'
+Everybody knows that ‘Humor', in the Latin sense of ‘moisture'
 was applied here as part of the old physiological theory,
 by which the characters of men varied according to the proportions
 of certain different secretions in the human [[Body|body]]; as, for instance,
 that the predominance of phlegm produced the phlegmatic [[Humour|humour]].
 By the [[Time|time]] of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
-the word `humour' rather in the sense of `the ruling passion'.
+the word ‘humour' rather in the sense of ‘the ruling passion'.
 With this there necessarily went an idea of exaggeration;
 and by the end of the process the character of a humorist was
 more or less identical with what we should call an eccentric.
@@ -51,7 +51,7 @@ and more casual than in other countries, the eccentric long remained,
 as we should say, half unconsciously and half consciously humorous.
 The blend, and the beginnings of the modern meaning, may perhaps be dated
 at about the [[Time|time]] of Walter Scott's Waverley Novels; when Guy Mannering
-complains of Councillor Pleydell as `a crack-brained humorist'.
+complains of Councillor Pleydell as ‘a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
 but he himself joins in the laugh and sees the humour of his humour.
 Since then the word has come to be used more and more exclusively
@@ -84,7 +84,7 @@ be recognized as humour.  But we rightly class Voltaire as a wit,
 because he represents the consistent human reason detesting
 an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
-more than is seen at a glance in the very word `encourage'. But it
+more than is seen at a glance in the very word ‘encourage'. But it
 is true that the wit is here a judge independent of the judges,
 unaffected by the [[King]] or the Admiral or the English Courtmartial
 or the mob.  He is abstract justice recording a contradiction.
@@ -271,7 +271,7 @@ ever since the [[Time|time]] of the Book of Proverbs, the hammer of fools.
 
 [[Humour|«Humour»]]
 
-          G.K. Chesterton
+G.K. Chesterton
 
 [Encyclopaedia Britannica. Scritto nel maggio 1928.]
 
@@ -312,14 +312,14 @@ deficiency in [[Humour|humour]] to search for a definition of [[Humour|humour]].
 use of the term, however, is by no means the primary or necessary use
 of it; and it is one of the cases, rarer than is commonly supposed,
 in which derivation offers at least an approach to definition.
-Everybody knows that `Humor', in the Latin sense of `moisture'
+Everybody knows that ‘Humor', in the Latin sense of ‘moisture'
 was applied here as part of the old physiological theory,
 by which the characters of men varied according to the proportions
 of certain different secretions in the human [[Body|body]]; as, for instance,
 that the predominance of phlegm produced the phlegmatic [[Humour|humour]].
 By the [[Time|time]] of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
-the word `humour' rather in the sense of `the ruling passion'.
+the word ‘humour' rather in the sense of ‘the ruling passion'.
 With this there necessarily went an idea of exaggeration;
 and by the end of the process the character of a humorist was
 more or less identical with what we should call an eccentric.
@@ -331,7 +331,7 @@ and more casual than in other countries, the eccentric long remained,
 as we should say, half unconsciously and half consciously humorous.
 The blend, and the beginnings of the modern meaning, may perhaps be dated
 at about the [[Time|time]] of Walter Scott's Waverley Novels; when Guy Mannering
-complains of Councillor Pleydell as `a crack-brained humorist'.
+complains of Councillor Pleydell as ‘a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
 but he himself joins in the laugh and sees the humour of his humour.
 Since then the word has come to be used more and more exclusively
@@ -364,7 +364,7 @@ be recognized as humour.  But we rightly class Voltaire as a wit,
 because he represents the consistent human reason detesting
 an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
-more than is seen at a glance in the very word `encourage'. But it
+more than is seen at a glance in the very word ‘encourage'. But it
 is true that the wit is here a judge independent of the judges,
 unaffected by the [[King]] or the Admiral or the English Courtmartial
 or the mob.  He is abstract justice recording a contradiction.
@@ -389,7 +389,7 @@ divine because it has, for the moment, more sense of the mysteries.
 
 [[Humour|«Humour»]]
 
-          G.K. Chesterton
+G.K. Chesterton
 
 [Encyclopaedia Britannica. Scritto nel maggio 1928.]
 

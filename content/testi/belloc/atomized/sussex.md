@@ -1165,7 +1165,7 @@ Unfortunately it is the least familiar and perhaps least easy of all the ways in
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_01" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 1)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_01" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 1)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 PART I. THE PHYSICAL NATURE OF THE COUNTY
@@ -1199,7 +1199,7 @@ Traces of these marshes still exist after two thousand years of cultivation, and
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_02" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 2)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_02" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 2)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 It may be remarked in passing that there are scattered up and down England many examples of the difficulties which Fenland and bog present to an imperfect civilisation, and these are to be found in the “Stretfords,” “Stratfords,” “Standfords,” etc., which invariably mark a place where a hard Roman road was conducted across a [[River|river]] and its adjoining wet lands. In such places the straight line of the old Roman road can usually be traced, and one can also usually see how the modern road follows a devious track given to it after the decline of the Roman civilisation, when the imperial ways had been allowed to decay, and the half-barbarian traveller of the Dark Ages picked his way as best he could from one dry patch to another. These
@@ -1237,7 +1237,7 @@ face of white precipice which culminates at Beachy Head. The southern Weald and 
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_03" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 3)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_03" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 3)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 THE FOUR BELTS
@@ -1273,7 +1273,7 @@ Sussex is, perhaps, of all the English counties that one in which it is most dif
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_04" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 4)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_04" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 4)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 Having reviewed these three belts — the coast-plain, the forest ridge, and the southern belt of the Weald — it remains for us to describe that which is by far the most important, namely, the South Downs. It will be necessary to devote to those hills a closer attention than we have given to the rest of the county, for one may call them, without much exaggeration, the county itself. Sussex is Sussex on account of the South Downs. Their peculiar landscape, their soil, their uniformity, give the county all its meaning.
@@ -1313,7 +1313,7 @@ Thus an open space of park-land beyond Madehurst invited the eye of a very wealt
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_05" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 5)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_05" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 5)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 We have seen that the unison of the Downs is broken by a certain number of regular gaps — the valleys, that is, of the Wealden rivers. For the rivers of Sussex, by an accident which geologists have attempted to explain, are not determined by the rise of these great hills, but on the contrary cut right through them from the Weald to the sea. The Arun, from the Wealden town of Pulborough to its seaport of Littlehampton, the little Adur from various sources round by Shipley and Cuckfield to its harbour town of Shoreham, the Ouse from the Wealden town of Uckfield to its harbour town of Newhaven, all cut right through the chalk hills and form narrow, level valleys of alluvial soil between one section of the Downs and the next.
@@ -1351,7 +1351,7 @@ A further matter which every one who is familiar with them must have remarked up
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_06" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 6)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_06" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 6)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 But though Cissbury is the most perfect, it is but one of very many similar camps. There is hardly one of the greater summits of the Downs that does not bear traces of these enclosures, and upon some of the hills, notably east of Ambery and again east of Bramber, they are as perfect as they are enormous. There can be little doubt that they were created for the purposes of defence, and the late General Pitt-Rivers conducted an
@@ -1383,7 +1383,7 @@ wetted before being laid upon the mortar. Obviously no wetting can be of the lea
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_07" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 7)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_07" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 7)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 It would be for an expert to discuss what were the causes of this superior excellence in the older work; but it may be suggested by one who has looked closely into several specimens of mediæval flint-building, that two rules were almost invariably observed by our ancestors before the Reformation. The first was to preserve as carefully as possible the natural casing or “skin” of hardened chalk which surrounds every large flint, and to have none of the smooth stone surface showing except on the outside of the wall. The second was to use nothing but the fine sand which the county affords so plentifully in the mixing of the mortar. It may be, of course, that here, as in so many other cases, the argument applies that we merely imagine the older work to be better because the best of it alone survives, but it is at least remarkable that hardly any flint work of the last three hundred years has come down without some distortion from the perpendicular.
@@ -1415,7 +1415,7 @@ be concluded without a more particular description of the Sussex rivers. Of thes
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_08" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 8)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_08" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 8)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 When the Rother has thus fallen into the Arun, the two streams uniting run beneath the houses of Pulborough, and under its bridge, of which the reader will hear more when we come to speak of the historical development of the county; for this was the spot at which the great Roman road which united London with the coastal plain crossed the Arun, and the foundations of Pulborough are almost certainly Roman.
@@ -1455,7 +1455,7 @@ and has therefore created a point of high strategical importance in the fortifie
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_09" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 9)" data-chapter="Chapter 01 THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_the_physical_nature_of_the_cou--part_09" data-title="Sussex — Part 1: THE PHYSICAL NATURE OF THE COUNTY (part 9)" data-chapter="THE PHYSICAL NATURE OF THE COU" data-kind="excerpt"></span>
 
 
 These three rivers between them form the main hydrographical features of the centre of the county; their three harbours standing at almost exactly regular intervals are the sole entries to the west and middle of Sussex; the three gaps in the Downs behind those harbours are the three gates to South England from the sea; the three castles that defend those gaps complete the significance of the series.
@@ -1493,7 +1493,7 @@ CHURCH STREET, STEYNING
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_01" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 1)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_01" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 1)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 PART II. THE HISTORICAL DEVELOPMENT OF SUSSEX
@@ -1527,7 +1527,7 @@ With the darkness of the Saxon invasions to aid them, authorities of considerabl
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_02" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 2)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_02" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 2)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 It is best for a modern reader to forget these vagaries, and to found himself upon the constant judgment of permanent historical work — upon the common sense, as it were, of Europe as we receive it handed on through the historical traditions of the Middle Ages, and as we see it developing since the renaissance of learning in the sixteenth century. We can believe that Roman Britain, though we do not know its exact population, was very densely populated (Gibbon, the best authority, perhaps, puts it highest), and that, at least towards the close of the third century, it was full of flourishing towns, and intersected everywhere by great military roads; it was peaceable, wealthy, and a very close part of the Roman unity.
@@ -1563,7 +1563,7 @@ the historians of the county have not hitherto remarked. It is this. If one stan
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_03" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 3)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_03" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 3)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 The point though new can hardly be questioned. Roads of this sort were necessarily laid down by a method of “sighting” from one distant point of the horizon to the other. In no other way could their straightness be achieved, and there can be no doubt that the first surveyor, in laying down the track from the south to the north side of the Downs, was guided by signals from the crest of the ridge; the line was given him by watchers upon the summit who could observe the parties on the southern slope below and the distant Arun to the north, and who had already determined from that vantage place the point at which the [[River|river]] could be most easily crossed.
@@ -1595,7 +1595,7 @@ It is to be noted that Teutonic terminations are particularly noticeable along t
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_04" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 4)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_04" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 4)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 We can, again, be certain of the thoroughness of the cataclysm by the effect of the invasion upon the philosophy of the place. In Sussex, whatever may have happened elsewhere, there was a complete disappearance of the Christian religion. The raids must have been many and severe, and the last permanent settlement of the barbarians successful, to have produced such a result. For Britain round about the year 500 was obviously as Christian as any other province, and to have destroyed Christianity in the period which saw St. Eligius and Dagobert in their full power beyond the narrow English Channel necessarily means that the attack was very powerful and very ruthless.
@@ -1633,7 +1633,7 @@ Of the smaller projecting spur of Lewes, similarly defended by marshes and simil
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_05" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 5)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_05" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 5)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 Bramber, we may be certain from the name, though documents are lacking, was fortified at least as early as this period.
@@ -1665,7 +1665,7 @@ A pedantic discussion, into which we need not enter, has waged round the exact n
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_06" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 6)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_06" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 6)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 We may take it, then, for the purposes of this short description, that among the Saxons of the time, or rather the local Sussex men of the time, “Hastings Plain” was the name given to the [[Hill|hill]] of stunted trees and grass up which the
@@ -1705,7 +1705,7 @@ In the administrative division of the county Rapes, as they are called, were map
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_07" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 7)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_07" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 7)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 In number the Rapes were six, and were called after the towns of Chichester, Arundel, Bramber, Lewes, Pevensey, and Hastings.
@@ -1741,7 +1741,7 @@ What he does for a port we cannot tell at this distance of time. We know that th
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_08" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 8)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_08" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 8)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 LEWES CASTLE
@@ -1785,7 +1785,7 @@ Incidentally one may digress to point out how crude and insufficient is the grea
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_09" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 9)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_09" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 9)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 It is doubtful whether anything of Roman structure remains in Pevensey, though much of the material used in the castle is Roman, and though the towers of that fortification are round. It is enough to remark, that after the long night of the Saxon period the town shared in the general renaissance of South England which followed the Norman Conquest. To give but one indication of this: it trebled in population in twenty years. There is little doubt that at this period, that is, throughout the end of the eleventh century, the whole of the twelfth, and beginning of the thirteenth, the harbour lay beneath the mound of the present ruins. The contour lines, slight as they are in elevation, and the nature of the soil are enough to prove this; nor is it difficult, as one stands on the height of Pevensey Castle, to reproduce the scene which must
@@ -1817,7 +1817,7 @@ WINCHELSEA
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_10" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 10)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_10" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 10)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 HASTINGS TOWN
@@ -1849,7 +1849,7 @@ Park, Lewes by Mount Harry, and Chateau Gaillard by the woods locally known as �
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_11" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 11)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_11" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 11)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 This fortification of Hastings [[Hill]] leads one to mention two other castles which lie within the Rape, and which are illustrative of a feature to be discovered in Sussex alone among the English counties. This feature is the presence of subsidiary castles to strengthen the gates of the county, and to stand behind those principal castles whose primary function it is to defend the entries into the land. These subsidiary castles may be best explained to modern readers by using a modern metaphor, and saying that they act as “half-backs” to the great seaport castles of Sussex.
@@ -1883,7 +1883,7 @@ In the French wars under the third Edward it was assessed to furnish as many shi
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_12" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 12)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_12" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 12)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 BODIAM CASTLE
@@ -1923,7 +1923,7 @@ Those who deal most with the statistics of the early Middle Ages seem most blind
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_13" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 13)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_13" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 13)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 So long as the spur above the Arun was protected by marshes and isolated by a narrow neck from the main range of the Downs, so long would it tempt men to form a stronghold there, and the moment that stronghold was held by national forces under the obedience of a national King, it presupposed a county town. It presupposed defence for a market (the later license for a market is quite a different thing; the market existed often for centuries before the license which was usually
@@ -1957,7 +1957,7 @@ Downs, which still retains the name of Houghton Forest, indicating that the Crow
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_14" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 14)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_14" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 14)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 The Rape of Chichester has this character to differentiate it from the other rapes of the county, that it is not military. Two explanations of this fact concur and supplement each other. The Rape of Chichester led nowhere, and had no gap in its hills, and the Rape of Chichester was dominated by the Church.
@@ -1987,7 +1987,7 @@ But ecclesiastical influence, exercised as an economic power and with deliberate
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_15" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 15)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_15" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 15)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 Hardham and Boxgrove are almost the only examples which point by their sites to the economic work of the early monasteries, for they both lie along one of the old Roman roads; but both of them came comparatively late. Boxgrove was founded by the lords of Halnacker under Henry I., Hardham was later still. Robertsbridge, also a development of the central Middle Ages, may be cited as an example of the monks opening up wild country, but Battle was quite artificial, the result
@@ -2027,7 +2027,7 @@ to become, from the head official of a corporation, a proprietor of the whole, o
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_16" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 16)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_16" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 16)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 In England the development is very different. Feudalism in England, even when it was highly organised, as in Sussex, had to fight against a force which is almost inherent in the soil. For that force it is difficult to find a name, though it is a tendency clearly observable in the whole of English history. It may, perhaps, best be defined as the tendency of the English village group to submit to one lord, coupled with the lack of any tendency among these lords to coalesce under a superior. The system is essentially oligarchic, and its foundations were laid in the natural crystallisation of society during the anarchy of the Anglo-Saxon centuries. With his inheritance of law weakened, and his memory of a protecting government destroyed, the small man had not the wit or the courage to fight against the big man; hence the English squire. The big men had not the necessity forced upon them to unite in defence of an antique civilisation and a strong Roman [[Tradition|tradition]]; hence the permanent insecurity and ultimate abasement of the English monarchy.
@@ -2063,7 +2063,7 @@ It is impossible, of course, to give a complete survey of the process in these f
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_17" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 17)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_17" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 17)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 Consider, for example, the Manor of Cuckfield, and see the way in which the squirearchy develops. One may presume that throughout the true Middle Ages it preserved at least a semblance of depending upon the overlordship of the Rape, and the Fitz Alans can count themselves its masters.
@@ -2115,7 +2115,7 @@ one John Shelley went westward, for the good of England. The Lancastrian usurpat
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_18" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 18)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_18" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 18)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 To take but one other example, and that of a very different kind, the Blunts of Crabbet Park are Sussex, though of a later stock. Here also we have a westward movement coming in with the last migration of the squires. For Thomas Blunt (a Collector of Customs in Kent) had a grandson, Elyas, fixed at Bolney; his name is not without significance of the time in which he lived. This man married the heiress of New Buildings after the Restoration, and perhaps in the Civil Wars the family acquired those waste spaces of the Crown which now make up the larger part of their holdings. At any rate that family has produced at the end of its line to-day another poet, and again a poet of Sussex.
@@ -2157,7 +2157,7 @@ Somewhat later the other coast towns began to develop, and so long as the railwa
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_19" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 19)" data-chapter="Chapter 02 THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_historical_development_of--part_19" data-title="Sussex — Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX (part 19)" data-chapter="THE HISTORICAL DEVELOPMENT OF" data-kind="excerpt"></span>
 
 
 THE WATERING TOWNS
@@ -2191,7 +2191,7 @@ FITTLEWORTH WATER MILL
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_01" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 1)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_01" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 1)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 PART III. THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY
@@ -2223,7 +2223,7 @@ The resistant quality of which we have just made mention, and which is especiall
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_02" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 2)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_02" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 2)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 It will be of interest to watch the near future and to see if his characteristics can be retained as
@@ -2265,7 +2265,7 @@ It is not easy to determine at what date this foreign timber first invaded the c
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_03" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 3)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_03" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 3)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 A third and characteristic aspect of Sussex is, of course, that great stretch of the coastal plain to which so much allusion has been made that we need not emphasise it here: the sole impression of the county which those retain who have known it from a residence at Goring, at Lancing, at Findon, at
@@ -2305,7 +2305,7 @@ After this village it suddenly ceases to be a road, but continues in the same li
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_04" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 4)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_04" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 4)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 If any one will take such a walk in good weather he will thoroughly understand what the history of the central part of Sussex has been. Every name he finds and every building will enlighten him.
@@ -2337,7 +2337,7 @@ To the south of you, some 600 feet below, is the whole stretch of the sea-plain,
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_05" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 5)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_05" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 5)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 The boundary here between the Sussex sea-plain and Hampshire is clearly marked, for the level light sends a gleam along the creeks of the upper harbours beyond Bosham, which undoubtedly were the first principal divisions along this coast between the South Saxons and their neighbours to the west.
@@ -2373,7 +2373,7 @@ Those [[River|river]] valleys which we have seen to be so peculiar to the modell
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_06" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 6)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_06" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 6)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 You can also see from this point of vantage one of those castles which guard the gates of the county, for you can see to the north of the gap the ruins of Amberley. In a word, you have the whole nature of the Downs and of the sea-plain before you as you look from Gumber.
@@ -2409,7 +2409,7 @@ Going down Houghton Hill he will note the old road running steeply down the side
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_07" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 7)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_07" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 7)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 It is interesting, as one leaves Houghton village, to notice how the road (which is now identical with the old British track) approaches the marshy land of the [[River|river]], following the spur of dry land which pushes out into the marshes, and making for the nearest similar spur on the farther side of the stream. All old British ways approach a [[River|river]] in this fashion, as, for instance, the track to which we owe London Bridge, the crossing of the Medway near Lower Halling, of the Mole just north of
@@ -2449,7 +2449,7 @@ For the last few miles of the journey there is a choice of ways: one may turn to
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_08" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 8)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_08" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 8)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 It would, of course, be possible to devise many another journey by which those who do not know the county might better appreciate somewhat of its aspects. But these three of which we have spoken are the best in general for an exploration of Sussex, unless one pleases to add a fourth of a somewhat monotonous and truncated character, which would be to cover in one day the coastal plain from Chichester to Brighton, and in another the sea coast and the marshes from Eastbourne to Rye. The second section of this is straightforward enough, taking one through Pevensey, Hastings, and Winchelsea. As to the first, it is advisable not to follow the main road through Arundel, but to go by lanes nearer the sea from Chichester to Eastergate, thence to Yapton, and so on through Littlehampton, West Ferring, Worthing, and along the sea coast to New Shoreham. It is possible also to take either section right along its beach. There is no interruption, but it would be a dreary and a heart-breaking thing to do, and would leave upon a man a general impression of red brick and boarding-houses, and esplanades and tin bungalows, interrupted by intervals of tufted grass growing
@@ -2485,7 +2485,7 @@ Newhaven Harbour, as we have seen upon a previous page, is the most serious comm
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_09" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 9)" data-chapter="Chapter 03 THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_individual_character_of_su--part_09" data-title="Sussex — Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY (part 9)" data-chapter="THE INDIVIDUAL CHARACTER OF SU" data-kind="excerpt"></span>
 
 
 OLD SHOREHAM BRIDGE

@@ -1977,7 +1977,7 @@ It was the very early morning; the gorge was full of mist, the Segre made a muff
 
 
 
-<span class="atom-split" data-atom="story_01_dedication" data-title="On Something — DEDICATION" data-chapter="Story 01 DEDICATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_dedication" data-title="On Something — DEDICATION" data-chapter="DEDICATION" data-kind="story"></span>
 
 
 DEDICATION
@@ -1989,7 +1989,7 @@ OF THE VARIOUS sketches in this book some appear for the first time, others are 
 
 
 
-<span class="atom-split" data-atom="story_02_a_plea_for_the_simpler_drama" data-title="On Something — A PLEA FOR THE SIMPLER DRAMA" data-chapter="Story 02 A PLEA FOR THE SIMPLER DRAMA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_a_plea_for_the_simpler_drama" data-title="On Something — A PLEA FOR THE SIMPLER DRAMA" data-chapter="A PLEA FOR THE SIMPLER DRAMA" data-kind="story"></span>
 
 
 A PLEA FOR THE SIMPLER DRAMA
@@ -2019,7 +2019,7 @@ In connexion with this character I would have the student note that I have intro
 
 
 
-<span class="atom-split" data-atom="story_03_the_crisis" data-title="On Something — THE CRISIS" data-chapter="Story 03 THE CRISIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_crisis" data-title="On Something — THE CRISIS" data-chapter="THE CRISIS" data-kind="story"></span>
 
 
 THE CRISIS
@@ -2279,7 +2279,7 @@ Curtain.
 
 
 
-<span class="atom-split" data-atom="story_04_on_a_notebook" data-title="On Something — ON A NOTEBOOK" data-chapter="Story 04 ON A NOTEBOOK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_a_notebook" data-title="On Something — ON A NOTEBOOK" data-chapter="ON A NOTEBOOK" data-kind="story"></span>
 
 
 ON A NOTEBOOK
@@ -2335,7 +2335,7 @@ To this extract poor Capricorn has added the word “Excellent,” and the same 
 
 
 
-<span class="atom-split" data-atom="story_05_an_earnest_member_of_the_fold" data-title="On Something — “AN EARNEST MEMBER OF THE FOLD”" data-chapter="Story 05 AN EARNEST MEMBER OF THE FOLD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_an_earnest_member_of_the_fold" data-title="On Something — “AN EARNEST MEMBER OF THE FOLD”" data-chapter="AN EARNEST MEMBER OF THE FOLD" data-kind="story"></span>
 
 
 “AN EARNEST MEMBER OF THE FOLD”
@@ -2365,7 +2365,7 @@ There! There! May they all rest in peace! They have added to the gaiety of manki
 
 
 
-<span class="atom-split" data-atom="story_06_on_unknown_people" data-title="On Something — ON UNKNOWN PEOPLE" data-chapter="Story 06 ON UNKNOWN PEOPLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_on_unknown_people" data-title="On Something — ON UNKNOWN PEOPLE" data-chapter="ON UNKNOWN PEOPLE" data-kind="story"></span>
 
 
 ON UNKNOWN PEOPLE
@@ -2405,7 +2405,7 @@ Now so it is with any two human minds, not only when they are separated by centu
 
 
 
-<span class="atom-split" data-atom="story_08_his_character" data-title="On Something — HIS CHARACTER" data-chapter="Story 08 HIS CHARACTER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_his_character" data-title="On Something — HIS CHARACTER" data-chapter="HIS CHARACTER" data-kind="story"></span>
 
 
 HIS CHARACTER
@@ -2477,7 +2477,7 @@ Bearing that missive back did George reach his [[Home|home]]…. All this passed
 
 
 
-<span class="atom-split" data-atom="story_09_on_thruppenny_bits" data-title="On Something — ON THRUPPENNY BITS" data-chapter="Story 09 ON THRUPPENNY BITS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_thruppenny_bits" data-title="On Something — ON THRUPPENNY BITS" data-chapter="ON THRUPPENNY BITS" data-kind="story"></span>
 
 
 ON THRUPPENNY BITS
@@ -2535,7 +2535,7 @@ But King Philip banged the door.
 
 
 
-<span class="atom-split" data-atom="story_10_on_the_hotel_at_palma_and_a_proposed_gui" data-title="On Something — ON THE HOTEL AT PALMA AND A PROPOSED GUIDE-BOOK" data-chapter="Story 10 ON THE HOTEL AT PALMA AND A PROPOSED GUI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_on_the_hotel_at_palma_and_a_proposed_gui" data-title="On Something — ON THE HOTEL AT PALMA AND A PROPOSED GUIDE-BOOK" data-chapter="ON THE HOTEL AT PALMA AND A PROPOSED GUI" data-kind="story"></span>
 
 
 ON THE HOTEL AT PALMA AND A PROPOSED GUIDE-BOOK
@@ -2573,7 +2573,7 @@ For you must know that one day I came into Narbonne where I had never been befor
 
 
 
-<span class="atom-split" data-atom="story_11_ulysses" data-title="On Something — ULYSSES," data-chapter="Story 11 ULYSSES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_ulysses" data-title="On Something — ULYSSES," data-chapter="ULYSSES" data-kind="story"></span>
 
 
 ULYSSES,
@@ -2589,7 +2589,7 @@ What a fine book it will be!
 
 
 
-<span class="atom-split" data-atom="story_12_the_death_of_wandering_peter" data-title="On Something — THE DEATH OF WANDERING PETER" data-chapter="Story 12 THE DEATH OF WANDERING PETER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_death_of_wandering_peter" data-title="On Something — THE DEATH OF WANDERING PETER" data-chapter="THE DEATH OF WANDERING PETER" data-kind="story"></span>
 
 
 THE DEATH OF WANDERING PETER
@@ -2713,7 +2713,7 @@ And having spoken it, he died.
 
 
 
-<span class="atom-split" data-atom="story_13_the_tree_of_knowledge" data-title="On Something — THE TREE OF KNOWLEDGE" data-chapter="Story 13 THE TREE OF KNOWLEDGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_tree_of_knowledge" data-title="On Something — THE TREE OF KNOWLEDGE" data-chapter="THE TREE OF KNOWLEDGE" data-kind="story"></span>
 
 
 THE TREE OF KNOWLEDGE
@@ -2749,7 +2749,7 @@ Judge of their horror when, as they neared the city, they saw from the height wh
 
 
 
-<span class="atom-split" data-atom="story_14_a_norfolk_man" data-title="On Something — A NORFOLK MAN" data-chapter="Story 14 A NORFOLK MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_a_norfolk_man" data-title="On Something — A NORFOLK MAN" data-chapter="A NORFOLK MAN" data-kind="story"></span>
 
 
 A NORFOLK MAN
@@ -2811,7 +2811,7 @@ He ends his book in a phrase from which I think not a word could be taken nor to
 
 
 
-<span class="atom-split" data-atom="story_16_letter_of_advice_and_apology_to_a_young" data-title="On Something — LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR" data-chapter="Story 16 LETTER OF ADVICE AND APOLOGY TO A YOUNG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_letter_of_advice_and_apology_to_a_young" data-title="On Something — LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR" data-chapter="LETTER OF ADVICE AND APOLOGY TO A YOUNG" data-kind="story"></span>
 
 
 LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR
@@ -2853,7 +2853,7 @@ Your affectionate Uncle
 
 
 
-<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_01" data-title="On Something — ON A VAN TROMP (part 1)" data-chapter="Story 07 ON A VAN TROMP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_01" data-title="On Something — ON A VAN TROMP (part 1)" data-chapter="ON A VAN TROMP" data-kind="excerpt"></span>
 
 
 ON A VAN TROMP
@@ -2883,7 +2883,7 @@ The innkeeper, who had read in the newspapers of how pictures of the utmost valu
 
 
 
-<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_02" data-title="On Something — ON A VAN TROMP (part 2)" data-chapter="Story 07 ON A VAN TROMP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_02" data-title="On Something — ON A VAN TROMP (part 2)" data-chapter="ON A VAN TROMP" data-kind="excerpt"></span>
 
 
 The young gentleman telegraphed to his father (who lived in Wimbledon but who did business in Bond Street) saying that he had got hold of a Van Tromp which looked like a study for the big “Eversley” Van Tromp in the Gallery, and he wanted to know what his father would give for it. His father telegraphed back inviting him to spend one whole night under the family roof. This the young man did, and, though it wrung the old father’s heart to have to do it, by the time he had seen the young gentleman’s find (or trouvaille as he called it) he had given his offspring a cheque for five hundred pounds. Whereupon the young gentleman left and went back to do some more riding, an exercise of which he was passionately fond, and to which he had trained several quiet horses.
@@ -2931,7 +2931,7 @@ The next day, therefore, the Australian sailed off to his distant continental [[
 
 
 
-<span class="atom-split" data-atom="story_15_the_odd_people--part_01" data-title="On Something — THE ODD PEOPLE (part 1)" data-chapter="Story 15 THE ODD PEOPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_odd_people--part_01" data-title="On Something — THE ODD PEOPLE (part 1)" data-chapter="THE ODD PEOPLE" data-kind="excerpt"></span>
 
 
 THE ODD PEOPLE
@@ -2963,7 +2963,7 @@ Thus, in matters which, with us, are thought susceptible of positive proof (such
 
 
 
-<span class="atom-split" data-atom="story_15_the_odd_people--part_02" data-title="On Something — THE ODD PEOPLE (part 2)" data-chapter="Story 15 THE ODD PEOPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_odd_people--part_02" data-title="On Something — THE ODD PEOPLE (part 2)" data-chapter="THE ODD PEOPLE" data-kind="excerpt"></span>
 
 
 The same super-rational method, as I have called it, applies to the Monomotapan judgment of political ability; for here it is not what a man has said or written, nor whether he has proved himself capable of foreseeing certain events of moment to the State, it is not these characters that determine his political career, but a mixture of other indices, one of which is that his brothers shall be younger than himself, another that when he speaks he shall strike the palm of his open left hand with his clenched right hand in a particular manner by no means commonly or easily acquired; another that he shall not wear at one and the same time a coat which is bifurcated and a hat of hemispherical outline; another that he shall keep silence upon certain types of foreigners who frequent the markets of Monomotapa, and shall even pretend that they are not foreigners but Monomotapans; and this index of statesmanship he must preserve under all circumstances, even when the foreigners in question cannot speak the Monomotapan language.
@@ -2993,7 +2993,7 @@ Let no one be surprised that I have spoken of their priests, for though the Mono
 
 
 
-<span class="atom-split" data-atom="story_17_the_monkey_question_an_appeal_to_common--part_01" data-title="On Something — THE MONKEY QUESTION: AN APPEAL TO COMMON SENSE (part 1)" data-chapter="Story 17 THE MONKEY QUESTION AN APPEAL TO COMMON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_monkey_question_an_appeal_to_common--part_01" data-title="On Something — THE MONKEY QUESTION: AN APPEAL TO COMMON SENSE (part 1)" data-chapter="THE MONKEY QUESTION AN APPEAL TO COMMON" data-kind="excerpt"></span>
 
 
 THE MONKEY QUESTION: AN APPEAL TO COMMON SENSE
@@ -3023,7 +3023,7 @@ Latterly, since progress cannot be indefinitely delayed, the Monkey has indeed a
 
 
 
-<span class="atom-split" data-atom="story_17_the_monkey_question_an_appeal_to_common--part_02" data-title="On Something — THE MONKEY QUESTION: AN APPEAL TO COMMON SENSE (part 2)" data-chapter="Story 17 THE MONKEY QUESTION AN APPEAL TO COMMON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_monkey_question_an_appeal_to_common--part_02" data-title="On Something — THE MONKEY QUESTION: AN APPEAL TO COMMON SENSE (part 2)" data-chapter="THE MONKEY QUESTION AN APPEAL TO COMMON" data-kind="excerpt"></span>
 
 
 The disabilities I have enumerated are by no means exhaustive. A Monkey may not sign or deliver a deed; he may not serve on a jury; he may be ill-treated, forsooth, and even killed by some cruel master, and the law will refuse to protect him or to punish his oppressor. He may be subjected to all the by-laws of a tyrannical or fanatical administration, but in preventing such abuses he has no voice. He may not enter our older Universities, at least as the member of a college; that is, he can only take a degree at Oxford or Cambridge under the implied and wholly unmerited stigma applying to the non-collegiate student. And these iniquities apply not only to the great anthropoids whose strength and grossness we might legitimately fear, but to the most delicately organized types — to the Barbary Ape, the Lemur, and the Ring-tailed Baboon. Finally — and this is the worst feature in the whole matter — a Monkey, by a legal fiction at least as old as the fourteenth century, is not a person in the eye of the law.
@@ -3061,7 +3061,7 @@ Questions submitted at the last Election by the Simian League
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_01" data-title="On Something — THE EMPIRE BUILDER (part 1)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_01" data-title="On Something — THE EMPIRE BUILDER (part 1)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 THE EMPIRE BUILDER
@@ -3111,7 +3111,7 @@ I thanked him very much, and asked him why he had changed his system of notation
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_02" data-title="On Something — THE EMPIRE BUILDER (part 2)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_02" data-title="On Something — THE EMPIRE BUILDER (part 2)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 I went back to my tea-shop with head bent, murmuring to myself those memorable lines:
@@ -3181,7 +3181,7 @@ The kingdom of Sussex, cultivated by men of various kinds, received Wilfrid the 
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_03" data-title="On Something — THE EMPIRE BUILDER (part 3)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_03" data-title="On Something — THE EMPIRE BUILDER (part 3)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Time passed, and the young man Caedwalla, still a very young man in the twenties, came to his own, and he sat on the throne that was rightfully his in Chichester and he ruled all Sussex to its utmost boundaries. And he was king of much more, as history shows, but all the while he proudly refused in his young man’s heart the raiment and the manner of the thing which he had hated in his exile, nor would he accept the Latin prayers, nor bow to the name of the Christian God.
@@ -3209,7 +3209,7 @@ Now that you have done reading this story you may think that I have made it up o
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_04" data-title="On Something — THE EMPIRE BUILDER (part 4)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_04" data-title="On Something — THE EMPIRE BUILDER (part 4)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 A UNIT OF [[England|ENGLAND]]
@@ -3245,7 +3245,7 @@ This triangle of Lancashire, so cut off from the west and from the east, had for
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_05" data-title="On Something — THE EMPIRE BUILDER (part 5)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_05" data-title="On Something — THE EMPIRE BUILDER (part 5)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 By that gate the main avenues of approach still enter the county. Through this gap passed the London Road, and passes to-day the London and North-Western Railway. It was this gate which gave its early strategic importance to Manchester, lying just north of it and holding the whole of this corner.
@@ -3271,7 +3271,7 @@ In the presence of so wonderful a thing I forgot the object of my journey and th
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_06" data-title="On Something — THE EMPIRE BUILDER (part 6)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_06" data-title="On Something — THE EMPIRE BUILDER (part 6)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Within, there is not a complete darkness, but a series of lights showing against the silence of the blackness of the nave; and in the middle of the nave, like a great funeral thing, was the choir which these Spanish churches have preserved, an intact [[Tradition|tradition]], from the origins of the Christian [[Faith]]. Go to the earliest of the basilicas in Rome, and you will see that sacred enclosure standing in the middle of the edifice and taking up a certain proportion of the whole. We in the North, where the [[Faith]] lived uninterruptedly and, after the ninth century, with no great struggle, dwindled this feature and extended the open and popular space, keeping only the rood-screen as a hint of what had once been the Secret Mysteries and the Initiations of our origins. But here in Spain the earliest forms of Christian externals crystallized, as it were; they were thrust, like an insult or a challenge, against the Asiatic as the reconquest of the desolated province proceeded; and therefore in every Spanish church you have, side by side with the Christian riot of art, this original hierarchic and secret thing, almost shocking to a Northerner, the choir, the Coro, with high solemn walls shutting out the people from the priests and from the Mysteries as they had been shut out when the whole system was organized for defence against an inimical society around.
@@ -3291,7 +3291,7 @@ Then the priest shut the doors and locked them, and a boy came and blew the cand
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_07" data-title="On Something — THE EMPIRE BUILDER (part 7)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_07" data-title="On Something — THE EMPIRE BUILDER (part 7)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 THE IRONMONGER
@@ -3335,7 +3335,7 @@ I will confess that as we ate those excellent dishes (they were all excellent) a
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_08" data-title="On Something — THE EMPIRE BUILDER (part 8)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_08" data-title="On Something — THE EMPIRE BUILDER (part 8)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 I noticed the one servant going in and out rapidly, bullied a good deal by her master, deft but nervous. I noticed how everything was solid and good: the chairs, table, clock, clothes — and especially the cooking. I saw his local newspaper neatly folded on the mantelpiece. I saw the pet dog of his retirement crouching at his side, and I heard the chance sayings he threw to his nephew, the maxims granted to youth long ago. I wondered how much that nephew would inherit. I guessed about ten thousand pounds at the least, and twenty at the most. I was almost inclined to cross myself at the thought of such a lot of money.
@@ -3369,7 +3369,7 @@ The psychology of the multitude is not the psychology of the individual. Ask eve
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_09" data-title="On Something — THE EMPIRE BUILDER (part 9)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_09" data-title="On Something — THE EMPIRE BUILDER (part 9)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 The larger the community with which one is dealing, the truer this is; so that, when it comes to many millions spread upon a large territory, one may well despair of any machinery which shall give expression to that very real thing which Rousseau called the General Will.
@@ -3399,7 +3399,7 @@ Latterly several partial risings have marked French life. Why none of them shoul
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_10" data-title="On Something — THE EMPIRE BUILDER (part 10)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_10" data-title="On Something — THE EMPIRE BUILDER (part 10)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 No one who is concerned for the immediate future of Europe should neglect the omen: half a million men, with leaders chosen rapidly by themselves, converging without disaster, with ample commissariat, with precision and rapidity upon one spot: a common action decided upon, and that action most calculated to defeat the enemy; decided upon by men of no exceptional power, mere mouthpieces of this vast concourse: similar and exactly parallel decisions over the whole countryside from the great towns to the tiny mountain villages. It is the spirit of a swarm of bees. One incident in the affair was the most characteristic of it all: fearing they would be ordered to fire on men of their own district the private soldiers and corporals of the 17th of the Line mutinied. So far so good: mutinies are common in all actively military states — the exceptional thing was what followed. The men organized themselves without a single officer or non-commissioned officer, equipped themselves for a full day’s march to the capital of the province, achieved it in good order, and took quarters in the town. All that exact movement was spontaneous. It explains the Marshals of the Empire. These were sent off as a punishment to the edge of the African desert; the mutiny seemed to the moneydealers a proof of military defeat. They erred: these young men, some of them of but six months’ training, none of them of much more than two years, not one of them over twenty-five years of age, were a precise symbol of the power which made the Revolution and its victims. The reappearance of that power in our tranquil modern affairs seems to me of capital importance.
@@ -3427,7 +3427,7 @@ In modern France the chances of escape from the parliamentary game, tawdry at it
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_11" data-title="On Something — THE EMPIRE BUILDER (part 11)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_11" data-title="On Something — THE EMPIRE BUILDER (part 11)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 What has that example to do, you may ask, with that movement in the south of France, which is the text of these pages? The answer is as follows:
@@ -3463,7 +3463,7 @@ Bridges have always lived with fear in their hearts; and if you think this is on
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_12" data-title="On Something — THE EMPIRE BUILDER (part 12)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_12" data-title="On Something — THE EMPIRE BUILDER (part 12)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 No bridges more testify to the soul of man than the bridges that leap in one arch from height to height over the gorge of a torrent. Many of these are called the Devil’s Bridges with good reason, for they suggest art beyond man’s power, and there are two to be crossed and wondered at, one in Wales in the mountains, and another in Switzerland, also in the mountains. There is a third in the mountains at the gate of the Sahara, of the same sort, jumping from rock to rock. But it is not called the Devil’s Bridge. It is called with Semitic simplicity “El Kantara,” and that is the name the Arabs gave to the old bridges, to the lordly bridges of the Romans, wherever they came across them, for the Arabs were as incapable of making bridges as they were of doing anything else except singing love songs and riding about on horses. “Alcantara” is a name all over Spain, and it is in the heart of the capital of Portugal, and it is fixed in the wilds of Estremadura. You get it outside Constantine also where the bridge spans the gulf. Never did an Arab see bridges but he wondered.
@@ -3489,7 +3489,7 @@ The ugliest bridge in the world runs from Lambeth to the Horseferry Road, and ta
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_13" data-title="On Something — THE EMPIRE BUILDER (part 13)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_13" data-title="On Something — THE EMPIRE BUILDER (part 13)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 The first elliptical bridge was designed by a monk of Cortona, and the first round one by Adam….
@@ -3545,7 +3545,7 @@ V. There are no mountains on the Island, but there is in the North a slight humm
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_14" data-title="On Something — THE EMPIRE BUILDER (part 14)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_14" data-title="On Something — THE EMPIRE BUILDER (part 14)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 [Sidenote: Harbours.]
@@ -3591,7 +3591,7 @@ As to political rights, we recommend that Atlantis should be treated as a territ
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_15" data-title="On Something — THE EMPIRE BUILDER (part 15)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_15" data-title="On Something — THE EMPIRE BUILDER (part 15)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 IN CONCLUSION your Commissioners will ever pray, etc.
@@ -3633,7 +3633,7 @@ Where have I heard a church called “the House of God”? I think it was in Wes
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_16" data-title="On Something — THE EMPIRE BUILDER (part 16)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_16" data-title="On Something — THE EMPIRE BUILDER (part 16)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Music, they say, does something to the soul, filling it full of unsatisfied but transcendent desires, and making it guess, in glimpses that mix and fail, the soul’s ultimate reward or destiny. Here, in Perigeux of the Perigord, where men hunt truffles with hounds, stone set in a certain order does what music is said to do. For in the sight of this standing miracle I could believe and confess, and doubt and fear, and control, all in one.
@@ -3667,7 +3667,7 @@ I went down into the depth of the valley, and there I met a priest who was readi
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_17" data-title="On Something — THE EMPIRE BUILDER (part 17)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_17" data-title="On Something — THE EMPIRE BUILDER (part 17)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Well, the priest showed me in this manner whither I should walk, and so I came out of the valley on to a great upland, and there a small boy (who was bullying a few geese near a pond) showed much the same excitement as the priest when he told me at what village I should find the guns.
@@ -3683,7 +3683,7 @@ The game was over. I faced the fourteen miles back to Gannat very stiff. All dur
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_18" data-title="On Something — THE EMPIRE BUILDER (part 18)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_18" data-title="On Something — THE EMPIRE BUILDER (part 18)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 [[Home|HOME]]
@@ -3725,7 +3725,7 @@ He sighed, and added: “Could you understand how a man might feel that things w
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_19" data-title="On Something — THE EMPIRE BUILDER (part 19)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_19" data-title="On Something — THE EMPIRE BUILDER (part 19)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 “It did not matter to me how I went, since my design was so simple and since any direction more or less westward would enable me to fulfil it, that is, to come down upon the valley of the Eure and to find the single railway line which leads to Chartres. The woods were very pleasant on that June noon, and once or twice I was inclined to linger in their shade and sleep an hour. But — note this clearly — I did not sleep. I remember every moment of the way, though I confess my fatigue oppressed me somewhat as the miles continued.
@@ -3765,7 +3765,7 @@ I was not even very much interested, for I was trying to make the trees to look 
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_20" data-title="On Something — THE EMPIRE BUILDER (part 20)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_20" data-title="On Something — THE EMPIRE BUILDER (part 20)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 “As I crossed the bridge I wholly forgot whence I came or whither I was going, but I knew myself better than ever I had known myself, and every detail of the place was familiar to me.
@@ -3829,7 +3829,7 @@ I was happy to be able to tell her that her scepticism, though well founded, was
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_21" data-title="On Something — THE EMPIRE BUILDER (part 21)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_21" data-title="On Something — THE EMPIRE BUILDER (part 21)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 “But how do you get there?” asked the child. “Do you get there by walking to the hills and going over?”
@@ -3877,7 +3877,7 @@ Fairyland?”
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_22" data-title="On Something — THE EMPIRE BUILDER (part 22)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_22" data-title="On Something — THE EMPIRE BUILDER (part 22)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 “Oh that,” said I, “that, I think, is much the best way; I’ve gone there myself.”
@@ -3915,7 +3915,7 @@ Little child, the trick which the camera has played means more and more as I sti
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_23" data-title="On Something — THE EMPIRE BUILDER (part 23)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_23" data-title="On Something — THE EMPIRE BUILDER (part 23)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Now there is a third thing in your portrait, little child. That accident of light, light all about you and shining through your face, is not only blessed nor only holy, but it is also sacred, and with that thought there returns to me as I look what always should return to man if he is to find any stuff or profit in his consideration of divine things. In blessedness there is joy for which here we are not made, so that we catch it only in glimpses or in adumbrations. And in holiness, when we perceive it we perceive something far off; it is that from which we came and to which we should return; yet holiness is not a human thing. But things sacred — things devoted to a purpose, things about which there lies an awful necessity of sacrifice, things devoted and necessarily suffering some doom — these are certainly of this world; that, indeed, all men know well at last, and find it part of the business through which they needs must pass. Human memories, since they are only memories; human attachments, since they are offered up and end; great human fears and hopeless human longings — these are sacred things attached to a victim and to a sacrifice; and in this picture of yours, with the light so glorifying you all round, no one can doubt who sees it but that the sacredness of human life will be yours also; that is, you must learn how it is offered up to some end and what a sacrifice is there.
@@ -3937,7 +3937,7 @@ The way out is to forget that one is sacred, and this men and women do in many w
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_24" data-title="On Something — THE EMPIRE BUILDER (part 24)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_24" data-title="On Something — THE EMPIRE BUILDER (part 24)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Another way is to take refuge from ourselves in pleasures, and this is easily done, not by the worse, but by the better sort; for there are some, some few, who would never betray nor break their ancient word, but who, seeing no meaning in a sacrifice nor in a burden, escape from it through pleasure as through a drug, and this pleasure they find in all manner of things, and always that spirit near them which would destroy their sacred mark, persuades them that they are right, and that in such pursuits the sacrifice is evaded. So some will steep themselves in rhyme, some in landscapes, some in pictures, some in the watching of the complexity and change of things, some in music, some in action, some in mere ease. It seems as though the men and women who would thus forget their sacredness are better loved and better warned than those who take the other path, for they never forget certain gracious things which should be proper to the mind, nor do they lose their friends. But that they have taken a wrong path you may easily perceive from this sign: that these pleasures, like any other drug, do not feed or satisfy, but must be increased with every dose, and even so soon pall and are continued not because they are pleasures any longer, but because, dull though they have become, without them there is active pain.
@@ -3971,7 +3971,7 @@ I say no matter how clearly the reason of a man tells him that all about him is 
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_25" data-title="On Something — THE EMPIRE BUILDER (part 25)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_25" data-title="On Something — THE EMPIRE BUILDER (part 25)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 The second phase which he next enters is for a thoughtful man in a sceptical and corrupted age the crucial phase, whereby will be determined, not indeed the fate of his soul, but the justice, and therefore the advantage to others, of his philosophy.
@@ -3995,7 +3995,7 @@ Such a man may be doing any one of many things. He may be a poet, and his occupa
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_26" data-title="On Something — THE EMPIRE BUILDER (part 26)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_26" data-title="On Something — THE EMPIRE BUILDER (part 26)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Such men, if you will examine them, will prove intent upon one ultimate completion of their being which is also (whether they know it or not) a reward, and those who have carefully considered the matter and give it expression say that such men are out a-hunting for Immortality.
@@ -4023,7 +4023,7 @@ Then how shall we deny the dreadful conclusion (to which how many elder civiliza
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_27" data-title="On Something — THE EMPIRE BUILDER (part 27)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_27" data-title="On Something — THE EMPIRE BUILDER (part 27)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Those of our race who have deliberately looked upon the scroll and found there nothing to read, who have lifted the curtain and found beyond it nothing to see, have faced their conclusions with a nobility which should determine us; for that nobility does prove, or, if it does not prove, compels us to proclaim, that the soul of man which breeds it has somewhere a lasting [[Home|home]]. The conclusion is imperative.
@@ -4065,7 +4065,7 @@ But whatever prompts the adventure or the necessity, when the long burden has be
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_28" data-title="On Something — THE EMPIRE BUILDER (part 28)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_28" data-title="On Something — THE EMPIRE BUILDER (part 28)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 Hope is the word which gathers the origins of those things together, and hope is the seed of what they mean, but that new light and its new quality is more than hope. Livelihood is come back with the sunrise, and the fixed certitude of the soul; number and measure and comprehension have returned, and a just appreciation of all reality is the gift of the new day. Glory (which, if men would only know it, lies behind all true certitude) illumines and enlivens the seen world, and the living light makes of the true things now revealed something more than truth absolute; they appear as truth acting and creative.
@@ -4103,7 +4103,7 @@ This cleft is so disposed that the smooth limestone slabs of its western wall st
 
 
 
-<span class="atom-split" data-atom="story_18_the_empire_builder--part_29" data-title="On Something — THE EMPIRE BUILDER (part 29)" data-chapter="Story 18 THE EMPIRE BUILDER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_empire_builder--part_29" data-title="On Something — THE EMPIRE BUILDER (part 29)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt"></span>
 
 
 The only path by which men can go down that gorge clings to the eastern face of the abyss and is for ever plunged in shadow. Down this path I went very late upon a summer night, close upon midnight, and the moon just past the full. The air was exceedingly clear even for that high place, and the moon struck upon the limestone of the sheer opposing cliffs in a manner neither natural nor pleasing, but suggesting horror, and, as it were, something absolute, too simple for mankind.

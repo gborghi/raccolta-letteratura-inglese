@@ -15,8 +15,8 @@ tags:
 
 
 The Poet
-           and
-         The Lunatics
+and
+The Lunatics
 
 EPISODES IN THE LIFE OF GABRIEL GALE
 
@@ -24,13 +24,13 @@ G. K. CHESTERTON
 
 CONTENTS
 
-   I THE FANTASTIC FRIENDS
-  II THE YELLOW BIRD
- III THE [[Shadow|SHADOW]] OF THE SHARK
-  IV THE CRIME OF GABRIEL GALE
-   V THE FINGER OF STONE
-  VI THE [[house|HOUSE]] OF THE PEACOCK
- VII THE PURPLE [[Jewel|JEWEL]]
+I THE FANTASTIC FRIENDS
+II THE YELLOW BIRD
+III THE [[Shadow|SHADOW]] OF THE SHARK
+IV THE CRIME OF GABRIEL GALE
+V THE FINGER OF STONE
+VI THE [[house|HOUSE]] OF THE PEACOCK
+VII THE PURPLE [[Jewel|JEWEL]]
 VIII THE ASYLUM OF ADVENTURE
 
 I
@@ -3008,10 +3008,10 @@ than a thunderstorm?"
 Seeing the others staring at him he continued:  "Oh yes, it's quite true;
 as the poet says," and he recited with great and unusual gravity:
 
-    "'Little drops of [[Water|water]],
-      Little grains of sand,
-      Make the [[Soul|soul]] to stagger
-      Till the [[Stars|stars]] can hardly stand.'
+"'Little drops of [[Water|water]],
+Little grains of sand,
+Make the [[Soul|soul]] to stagger
+Till the [[Stars|stars]] can hardly stand.'
 
 "Haven't I told you a thousand times," he continued with increasing
 earnestness and animation, "that I always find myself looking at some
@@ -6827,7 +6827,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_01" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 1)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_01" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 1)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 THE FANTASTIC FRIENDS
@@ -6942,7 +6942,7 @@ stuffed anyhow into his knapsack.
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_02" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 2)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_02" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 2)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 They came to a halt before the inn; and the shorter man said jovially
@@ -7064,7 +7064,7 @@ what he saw.
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_03" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 3)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_03" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 3)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 A high dog-cart had drawn up on the other side of the [[Road|road]].
@@ -7185,7 +7185,7 @@ at practical things."
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_04" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 4)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_04" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 4)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 Almost as he spoke a noise like a sort of cry came through the inn
@@ -7315,7 +7315,7 @@ medieval world; which were all she knew of the medieval world.
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_05" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 5)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_05" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 5)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 Unfortunately, a [[Shadow|shadow]] came between her and the sun in a shape
@@ -7438,7 +7438,7 @@ of destiny behind him.
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_06" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 6)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_06" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 6)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 Meanwhile [[Diana]] Westermaine had left the stable and made her way
@@ -7563,7 +7563,7 @@ of his [[Sanity|sanity]] frustrated by the antics of his disease.
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_07" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 7)" data-chapter="Story 01 THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_07" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 7)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
 
 
 "I'll drive if we must," she said in a ringing tone.
@@ -7736,7 +7736,7 @@ II
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_01" data-title="Poet and Lunatics — THE YELLOW BIRD (part 1)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_01" data-title="Poet and Lunatics — THE YELLOW BIRD (part 1)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 THE YELLOW BIRD
@@ -7851,7 +7851,7 @@ brown and grey, and one of them looks quite yellow."
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_02" data-title="Poet and Lunatics — THE YELLOW BIRD (part 2)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_02" data-title="Poet and Lunatics — THE YELLOW BIRD (part 2)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 "A yellow-hammer, I suppose," remarked Garth.
@@ -7974,7 +7974,7 @@ theory about the elimination of limits and..."
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_03" data-title="Poet and Lunatics — THE YELLOW BIRD (part 3)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_03" data-title="Poet and Lunatics — THE YELLOW BIRD (part 3)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 "Hullo!" cried Garth.  "This moated grange of yours is actually
@@ -8102,7 +8102,7 @@ you're really rather like him."
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_04" data-title="Poet and Lunatics — THE YELLOW BIRD (part 4)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_04" data-title="Poet and Lunatics — THE YELLOW BIRD (part 4)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 Mallow, in his more mystical mood, looked strangely from one to the other,
@@ -8217,7 +8217,7 @@ with strange furniture where the stranger had passed.
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_05" data-title="Poet and Lunatics — THE YELLOW BIRD (part 5)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_05" data-title="Poet and Lunatics — THE YELLOW BIRD (part 5)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 Accident, indeed, gave to their passage through those empty rooms
@@ -8338,7 +8338,7 @@ felt to be full of her presence.
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_06" data-title="Poet and Lunatics — THE YELLOW BIRD (part 6)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_06" data-title="Poet and Lunatics — THE YELLOW BIRD (part 6)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 "You will pull down that old swing, I suppose?" he had said as they
@@ -8469,7 +8469,7 @@ We shall hear more of the round [[Prison|prison]] before this story is over.
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_07" data-title="Poet and Lunatics — THE YELLOW BIRD (part 7)" data-chapter="Story 02 THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_07" data-title="Poet and Lunatics — THE YELLOW BIRD (part 7)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
 
 
 "Then I saw the man on the roof, with his hands spread like wings
@@ -8568,7 +8568,7 @@ III
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_01" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 1)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_01" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 1)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 THE [[Shadow|SHADOW]] OF THE SHARK
@@ -8669,7 +8669,7 @@ the curious effect of the young men's controversy upon Mr. Boon.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_02" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 2)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_02" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 2)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 "The subject of [[Flowers|flowers]] is hackneyed, but the [[Flowers|flowers]] are not,"
@@ -8800,7 +8800,7 @@ His host attacked with animation the other ordinary topics of the day.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_03" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 3)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_03" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 3)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 "I bet I'm the most industrious of the lot of you," he said.
@@ -8937,7 +8937,7 @@ which spread its name over all the newspapers of the country.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_04" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 4)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_04" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 4)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 Gabriel Gale was scaling the splendid swell of turf that
@@ -9064,7 +9064,7 @@ the star to its proper place in the skies.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_05" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 5)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_05" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 5)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 "I told Wilkes that a flower was a living star," he said to himself.
@@ -9187,7 +9187,7 @@ dead far out on the sands below, beside his easel."
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_06" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 6)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_06" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 6)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 "And ever since, I suppose," observed Gale, "Simon has
@@ -9303,7 +9303,7 @@ the tea-cups and he said he saw nothing pretty in a flower."
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_07" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 7)" data-chapter="Story 03 THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_07" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 7)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
 
 
 "My dear fellow!" remonstrated Dr. Garth.
@@ -9453,7 +9453,7 @@ IV
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_01" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 1)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_01" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 1)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 THE CRIME OF GABRIEL GALE
@@ -9577,7 +9577,7 @@ The only explanation is that he wasn't himself.
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_02" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 2)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_02" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 2)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 "There was another thing which made me sure he wasn't himself.
@@ -9685,7 +9685,7 @@ the chairs and they'll come to you.'
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_03" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 3)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_03" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 3)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 "A second or so afterwards he added, as if it were an afterthought,
@@ -9809,7 +9809,7 @@ of the message were:
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_04" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 4)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_04" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 4)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 "Can never be sufficiently grateful to Gale for his great kindness
@@ -9921,7 +9921,7 @@ of being mad?"
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_05" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 5)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_05" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 5)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 "I think," said Garth slowly, "it was when you were staring out
@@ -9953,10 +9953,10 @@ than a thunderstorm?"
 Seeing the others staring at him he continued:  "Oh yes, it's quite true;
 as the poet says," and he recited with great and unusual gravity:
 
-    "'Little drops of [[Water|water]],
-      Little grains of sand,
-      Make the [[Soul|soul]] to stagger
-      Till the [[Stars|stars]] can hardly stand.'
+"'Little drops of [[Water|water]],
+Little grains of sand,
+Make the [[Soul|soul]] to stagger
+Till the [[Stars|stars]] can hardly stand.'
 
 "Haven't I told you a thousand times," he continued with increasing
 earnestness and animation, "that I always find myself looking at some
@@ -10045,7 +10045,7 @@ to prove that it wasn't true."
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_06" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 6)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_06" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 6)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 "Do you think," asked Dr. Butterworth, frowning, "that there
@@ -10157,7 +10157,7 @@ but I nailed him to a tree."
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_07" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 7)" data-chapter="Story 04 THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_07" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 7)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
 
 
 He had risen to his feet in a suppressed and very unusual excitement;
@@ -10322,7 +10322,7 @@ V
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_01" data-title="Poet and Lunatics — THE FINGER OF STONE (part 1)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_01" data-title="Poet and Lunatics — THE FINGER OF STONE (part 1)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 THE FINGER OF STONE
@@ -10432,7 +10432,7 @@ Armitage was saying at the moment:
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_02" data-title="Poet and Lunatics — THE FINGER OF STONE (part 2)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_02" data-title="Poet and Lunatics — THE FINGER OF STONE (part 2)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 "Yes, I suppose I've seen today some of the very oldest sculpture of
@@ -10561,7 +10561,7 @@ me about a holy man on the [[Hill|hill]] who was almost canonized already."
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_03" data-title="Poet and Lunatics — THE FINGER OF STONE (part 3)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_03" data-title="Poet and Lunatics — THE FINGER OF STONE (part 3)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 "One is tempted to wish he were martyred already; but the [[Martyrdom|martyrdom]],
@@ -10688,7 +10688,7 @@ They were but part of a sentence, but they included the words,
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_04" data-title="Poet and Lunatics — THE FINGER OF STONE (part 4)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_04" data-title="Poet and Lunatics — THE FINGER OF STONE (part 4)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 "My friend Bertrand sat down and thought it out.  The letter had
@@ -10801,7 +10801,7 @@ I believe it is sometimes too obvious to be seen."
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_05" data-title="Poet and Lunatics — THE FINGER OF STONE (part 5)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_05" data-title="Poet and Lunatics — THE FINGER OF STONE (part 5)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 Gabriel Gale, who had rather the appearance of having gone to [[Sleep|sleep]],
@@ -10917,7 +10917,7 @@ Didn't he talk some nonsense about bringing the [[Body|body]] himself?"
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_06" data-title="Poet and Lunatics — THE FINGER OF STONE (part 6)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_06" data-title="Poet and Lunatics — THE FINGER OF STONE (part 6)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 Dr. Garth shrugged his shoulders.  "I imagine he's talking
@@ -11049,7 +11049,7 @@ The scientific experiment has been made; and the proof is before you."
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_07" data-title="Poet and Lunatics — THE FINGER OF STONE (part 7)" data-chapter="Story 05 THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_07" data-title="Poet and Lunatics — THE FINGER OF STONE (part 7)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
 
 
 He made a gesture with his hand, and went on, with something
@@ -11200,7 +11200,7 @@ VI
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_01" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 1)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_01" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 1)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 THE [[house|HOUSE]] OF THE PEACOCK
@@ -11321,7 +11321,7 @@ bricks and mortar.
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_02" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 2)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_02" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 2)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 He had a curious [[innocence]] which often appeared as impudence.
@@ -11438,7 +11438,7 @@ of the peacock, where the sunset light was dying on the lawn.
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_03" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 3)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_03" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 3)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 The members of the Thirteen Club, as they came trooping up the stairs
@@ -11559,7 +11559,7 @@ the Creator is crazy."
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_04" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 4)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_04" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 4)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 Gale nodded thoughtfully, as if in partial assent, and answered rather
@@ -11687,7 +11687,7 @@ Whom do you accuse; or are we all to accuse each other?"
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_05" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 5)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_05" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 5)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 "I do not accuse you," answered Gale, "and the proof is that
@@ -11810,7 +11810,7 @@ for the unlucky one."
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_06" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 6)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_06" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 6)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 "Yes," replied Gale.  "I discovered him and I defend him."
@@ -11923,7 +11923,7 @@ and said with a cold patience as if to an exasperating [[Child|child]]:
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_07" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 7)" data-chapter="Story 06 THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_07" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 7)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
 
 
 Crundle sprang unsteadily to his feet, his mouth still working,
@@ -12059,7 +12059,7 @@ VII
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_01" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 1)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_01" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 1)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 THE PURPLE [[Jewel|JEWEL]]
@@ -12191,7 +12191,7 @@ like any other dentist.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_02" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 2)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_02" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 2)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 Nevertheless, he did not lose the sense of contrast in stepping
@@ -12328,7 +12328,7 @@ the flat land towards the east, the towers of Canterbury."
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_03" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 3)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_03" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 3)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 "I [[Wonder|wonder]]," said Gabriel Gale suddenly, like a man coming out
@@ -12435,7 +12435,7 @@ the [[Cathedral|cathedral]].  I never thought of it again till this minute."
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_04" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 4)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_04" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 4)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 Gunter got up from his desk and went into the inner room in
@@ -12566,7 +12566,7 @@ I knew he was telling the [[Truth|truth]]."
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_05" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 5)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_05" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 5)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 The others were gazing at the speaker in some mild surprise, when the
@@ -12693,7 +12693,7 @@ his [[Home|home]].  To Hatt the poet made the somewhat irrelevant remark:
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_06" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 6)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_06" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 6)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 Mr. Hatt, the secretary, indicated that, had he nourished such a [[Desire|desire]],
@@ -12836,7 +12836,7 @@ and new social ornament to the suburb of Croydon.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_07" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 7)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_07" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 7)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 "So Phineas went down to Margate to meet his brother," said Garth.
@@ -12967,7 +12967,7 @@ to his feet quickly and remained staring at them with bright eyes.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_08" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 8)" data-chapter="Story 07 THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_08" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 8)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
 
 
 "Yes," said Gale, "because I am talking to him."  And he smiled
@@ -13087,7 +13087,7 @@ VIII
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_01" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 1)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_01" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 1)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 THE ASYLUM OF ADVENTURE
@@ -13216,7 +13216,7 @@ and of one sub-consciously frightened of being found to be a [[Fool|fool]].
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_02" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 2)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_02" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 2)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 With these coloured proclamations did Mr. Gale beautify
@@ -13321,7 +13321,7 @@ as the blue flower of the potato."
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_03" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 3)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_03" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 3)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 "Make it a prose poem, then," said the man whose name was Simeon Wolfe,
@@ -13446,7 +13446,7 @@ you have sold yourself to do today."
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_04" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 4)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_04" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 4)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 "There is no [[Doubt|doubt]] about your condition now," said Dr. Wolfe
@@ -13578,7 +13578,7 @@ That will give us a good start for our escape."
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_05" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 5)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_05" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 5)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 How he passed through the topsy-turvy transformation scene
@@ -13695,7 +13695,7 @@ come back here again sooner or later.  Good-bye."
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_06" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 6)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_06" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 6)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 The proceedings of Mr. Gale after this were rather more calculated
@@ -13811,7 +13811,7 @@ had been done before their very eyes.
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_07" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 7)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_07" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 7)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 "Better put down that mallet now," said [[The Professor|the professor]] in a soothing voice,
@@ -13941,7 +13941,7 @@ of a terrier.
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_08" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 8)" data-chapter="Story 08 THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_08" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 8)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
 
 
 "Yes, that is Dr. Wilson; I made arrangements with him only this morning,"

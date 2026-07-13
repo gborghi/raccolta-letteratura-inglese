@@ -16,42 +16,42 @@ tags:
 
 As I Was Saying G. K. Chesterton Contents
 
-      I  ABOUT MAD METAPHORS
-     II  ABOUT LOVING GERMANS
-    III  ABOUT IMPENITENCE
-     IV  ABOUT TRAFFIC
-      V  ABOUT THE CENSOR
-     VI  ABOUT SHAMELESSNESS
-    VII  ABOUT [[Puritanism|PURITANISM]]
-   VIII  ABOUT SIR JAMES JEANS
-     IX  ABOUT VOLTAIRE
-      X  ABOUT BELIEFS
-     XI  ABOUT MODERN GIRLS
-    XII  ABOUT POETRY
-   XIII  ABOUT BLONDES
-    XIV  ABOUT S.T.C
-     XV  ABOUT THE PAST
-    XVI  ABOUT MEREDITH
-   XVII  ABOUT POLITICAL CREEDS
-  XVIII  ABOUT SHIRTS
-    XIX  ABOUT WHITE FRONTS
-     XX  ABOUT IMPERMANENCE
-    XXI  ABOUT MORRIS
-   XXII  ABOUT WIDOWS
-  XXIII  ABOUT RELATIVITY
-   XXIV  ABOUT CHANGING HUMAN [[Nature|NATURE]]
-    XXV  ABOUT HISTORIANS
-   XXVI  ABOUT BAD COMPARISONS
-  XXVII  ABOUT CHANGE
- XXVIII  ABOUT THE WORKERS
-   XXIX  ABOUT [[Education|EDUCATION]]
-    XXX  ABOUT THE TELEPHONE
-   XXXI  ABOUT THE FILMS
-  XXXII  ABOUT DARWINISM
- XXXIII  ABOUT SHOCKERS
-  XXXIV  ABOUT BEGGARS AND SOLDIERS
-   XXXV  ABOUT SACRIFICE
-  XXXVI  ABOUT ROYAL WEDDINGS
+I  ABOUT MAD METAPHORS
+II  ABOUT LOVING GERMANS
+III  ABOUT IMPENITENCE
+IV  ABOUT TRAFFIC
+V  ABOUT THE CENSOR
+VI  ABOUT SHAMELESSNESS
+VII  ABOUT [[Puritanism|PURITANISM]]
+VIII  ABOUT SIR JAMES JEANS
+IX  ABOUT VOLTAIRE
+X  ABOUT BELIEFS
+XI  ABOUT MODERN GIRLS
+XII  ABOUT POETRY
+XIII  ABOUT BLONDES
+XIV  ABOUT S.T.C
+XV  ABOUT THE PAST
+XVI  ABOUT MEREDITH
+XVII  ABOUT POLITICAL CREEDS
+XVIII  ABOUT SHIRTS
+XIX  ABOUT WHITE FRONTS
+XX  ABOUT IMPERMANENCE
+XXI  ABOUT MORRIS
+XXII  ABOUT WIDOWS
+XXIII  ABOUT RELATIVITY
+XXIV  ABOUT CHANGING HUMAN [[Nature|NATURE]]
+XXV  ABOUT HISTORIANS
+XXVI  ABOUT BAD COMPARISONS
+XXVII  ABOUT CHANGE
+XXVIII  ABOUT THE WORKERS
+XXIX  ABOUT [[Education|EDUCATION]]
+XXX  ABOUT THE TELEPHONE
+XXXI  ABOUT THE FILMS
+XXXII  ABOUT DARWINISM
+XXXIII  ABOUT SHOCKERS
+XXXIV  ABOUT BEGGARS AND SOLDIERS
+XXXV  ABOUT SACRIFICE
+XXXVI  ABOUT ROYAL WEDDINGS
 
 ~||~
 
@@ -712,11 +712,11 @@ in this country of late; unless it be in the rather curious sense
 which Matthew Arnold attributed to Goethe, in a very obvious
 [[Imitation|imitation]] of Virgil:
 
- And he was happy, if to know
- Causes of things and far below
- His feet to see the insensate flow
- Of folly and insane distress
- And headlong fate, be happiness.
+And he was happy, if to know
+Causes of things and far below
+His feet to see the insensate flow
+Of folly and insane distress
+And headlong fate, be happiness.
 
 The above lines embody a very exact description of the condition
 of motoring on our roads during recent years.  There has been plenty
@@ -2021,8 +2021,8 @@ is a [[Masque|masque]] of [[Fire]], Famine and Slaughter; in which these plagues
 of mankind attribute their power to Pitt, but two of them eventually
 turn upon him.  [[Fire]], however, amiably observes:
 
-  I [[Alone|alone]] am faithful; I
-  Cling to him everlastingly.
+I [[Alone|alone]] am faithful; I
+Cling to him everlastingly.
 
 There is no liberal theology about that.
 
@@ -2800,8 +2800,8 @@ Through the whole of the four thousand years of our recorded
 [[history]] in Europe, Pagan and Christian, has sounded that [[Sublime|sublime]]
 and subversive [[Dirge|dirge]]--
 
-  The glories of our [[Blood|blood]] and state
-  Are shadows, not substantial things.
+The glories of our [[Blood|blood]] and state
+Are shadows, not substantial things.
 
 The very [[Court]] chaplains of the great French monarchy preached
 before the _Roi Soleil,_ telling him that even his own sun would set.
@@ -2825,8 +2825,8 @@ carrying away Cabinet Ministers in a bag.  No poet writes a mournful
 ode about newspaper proprietors, even when they wear coronets,
 with the ancient burden--
 
-  The glories of our scoop and stunt
-  Are shadows, not substantial things.
+The glories of our scoop and stunt
+Are shadows, not substantial things.
 
 With the nineteenth century there came in a new and unnatural
 optimism about the duration of earthly fashions, political and
@@ -5881,11 +5881,11 @@ in this country of late; unless it be in the rather curious sense
 which Matthew Arnold attributed to Goethe, in a very obvious
 [[Imitation|imitation]] of Virgil:
 
- And he was happy, if to know
- Causes of things and far below
- His feet to see the insensate flow
- Of folly and insane distress
- And headlong fate, be happiness.
+And he was happy, if to know
+Causes of things and far below
+His feet to see the insensate flow
+Of folly and insane distress
+And headlong fate, be happiness.
 
 The above lines embody a very exact description of the condition
 of motoring on our roads during recent years.  There has been plenty
@@ -5930,11 +5930,11 @@ Questa è forse la lezione più duratura del problema del traffico a benzina. Il
 
 Poche persone, immagino, possono sentirsi molto felici riguardo alle condizioni del guidare in questo paese di recente; a meno che non sia in quel senso alquanto curioso che Matthew Arnold attribuiva a Goethe, in una assai evidente [[Imitation|imitazione]] di Virgilio:
 
- Ed egli era felice, se conoscere
- Le cause delle cose e vedere assai sotto
- Ai suoi piedi lo scorrere insensato
- Della follia e dell'insano affanno
- E del destino precipite, fosse felicità.
+Ed egli era felice, se conoscere
+Le cause delle cose e vedere assai sotto
+Ai suoi piedi lo scorrere insensato
+Della follia e dell'insano affanno
+E del destino precipite, fosse felicità.
 
 I versi sopra riportati racchiudono una descrizione assai esatta della condizione del guidare sulle nostre strade in questi ultimi anni. Vi è stata gran copia di follia e di destino precipite; e non poco insano affanno e, cosa forse più terribile, affanno del tutto assennato. Ma [[Doubt|dubito]] che perfino il più distaccato potrebbe considerare la sua contemplazione come una condizione di felicità. Ciò nondimeno, confesso di avere un debole per il riflettere sulle cause delle cose; se mi è concesso di spingermi tanto in là da mettermi in compagnia di Virgilio o di Goethe o di Matthew Arnold. Per il resto, non sono un automobilista né un motore, né qualcuno da descriversi in modo particolare con un qualsiasi termine che indichi un moto rapido o frequente. Non sono viaggiatore abbastanza da trovare quel problema del traffico un problema molto pressante; e ancor meno il problema che è non tanto il moto quanto l'arresto del traffico. In verità, [[Fear|temo]] di non amare mai il traffico tanto quanto quando esso sta fermo. In mezzo a un ingorgo prolungato sulla [[Road|Uxbridge Road]], mi è capitato di dar prova di una gaiezza e di una raggiante leggerezza che mi hanno reso odioso e detestato per miglia all'intorno. Provo sempre una debole [[Hope|speranza]], dopo qualche ora di ciò, che i veicoli possano non muoversi più affatto; ma possano sprofondare lentamente nella [[Road|strada]] e assumere il carattere più radicato di un grande e prospero villaggio. Forse, dopotutto, è così che la nostra cultura potrà tornare alla stabilità e alla [[Sanity|salute mentale]] della terra, che è ora la sua unica [[Hope|speranza]]. Mi sono a volte sentito propenso a scendere dall'automobile e a farmi un piccolo [[Garden|giardino]] proprio lì fuori, piantando i paletti di una rivendicazione e rinunciando simbolicamente a ogni [[Hope|speranza]] di ogni ulteriore avanzamento.
 
@@ -7664,8 +7664,8 @@ is a [[Masque|masque]] of [[Fire]], Famine and Slaughter; in which these plagues
 of mankind attribute their power to Pitt, but two of them eventually
 turn upon him.  [[Fire]], however, amiably observes:
 
-  I [[Alone|alone]] am faithful; I
-  Cling to him everlastingly.
+I [[Alone|alone]] am faithful; I
+Cling to him everlastingly.
 
 There is no liberal theology about that.
 
@@ -7772,8 +7772,8 @@ _XIV A proposito di S.T.C._
 
 In QUESTO [[Time|tempo]] molti scrivono di Coleridge; e non c'è scrittore intorno al quale sia tanto difficile scrivere. Coleridge fu un uomo notevole in molti campi, sui quali scrivere non sarebbe così difficile; la difficoltà sta nel trattare quel campo nel quale egli fece certe cose, pochissime cose, che rendono essenziale scrivere di lui in generale. Egli fu, e conseguì, molte cose che potrebbero essere criticate con una certa fecondità e un certo profitto. Fu un teorico trascendentale che giunse ad avere una certa importanza come teologo; ed è la fonte di alcuni pensieri assai raffinati tra i teologi liberali della vecchia scuola, come Maurice e Robertson. Fu una figura di un certo interesse politico e storico, poiché cominciò con un entusiasmo per la [[French Revolution|Rivoluzione Francese]] e finì con un entusiasmo per la metafisica tedesca; e, delle due grandi catastrofi, io personalmente preferisco la prima. Fu un grande Carattere; uno di quegli uomini di cui si raccontano innumerevoli aneddoti, per lo più tendenti a dimostrare che la sua conversazione era affascinante e continua; alcuni la trovarono troppo affascinante; alcuni la trovarono persino troppo continua. C'è la celebre storia dell'uomo che Coleridge afferrò per l'occhiello in strada e cui prese a parlare di Platone per un bel pezzo; al che l'uomo, avendo un appuntamento, delicatamente e con tatto tagliò via il bottone e se ne andò per i fatti suoi. Ripassando più tardi per la stessa via, vide Coleridge che teneva ancora il bottone e parlava ancora di Platone. Egli scrisse un certo numero di opere minori, generalmente accantonate quando si discute del suo genio, che sono decisamente ingegnose e non dovrebbero essere accantonate con tanta facilità. Per esempio, ai tempi del suo entusiasmo rivoluzionario francese, scrisse un poemetto satirico contro Pitt, che tuttora giudico molto bello; ma forse in parte perché sono tutto a favore di chi scrive [[Poems|poemi]] satirici contro Pitt. Questo poema, come tutti sanno, è una [[Masque|mascherata]] di [[Fire|Fuoco]], Carestia e Strage; nella quale queste piaghe dell'umanità attribuiscono il proprio potere a Pitt, ma due di esse alla fine si rivoltano contro di lui. Il [[Fire|Fuoco]], tuttavia, osserva amabilmente:
 
-  Io [[Alone|solo]] gli sono fedele; io
-  A lui mi avvinghio eternamente.
+Io [[Alone|solo]] gli sono fedele; io
+A lui mi avvinghio eternamente.
 
 Non v'è in ciò alcuna teologia liberale.
 
@@ -8552,8 +8552,8 @@ Through the whole of the four thousand years of our recorded
 [[history]] in Europe, Pagan and Christian, has sounded that [[Sublime|sublime]]
 and subversive [[Dirge|dirge]]--
 
-  The glories of our [[Blood|blood]] and state
-  Are shadows, not substantial things.
+The glories of our [[Blood|blood]] and state
+Are shadows, not substantial things.
 
 The very [[Court]] chaplains of the great French monarchy preached
 before the _Roi Soleil,_ telling him that even his own sun would set.
@@ -8577,8 +8577,8 @@ carrying away Cabinet Ministers in a bag.  No poet writes a mournful
 ode about newspaper proprietors, even when they wear coronets,
 with the ancient burden--
 
-  The glories of our scoop and stunt
-  Are shadows, not substantial things.
+The glories of our scoop and stunt
+Are shadows, not substantial things.
 
 With the nineteenth century there came in a new and unnatural
 optimism about the duration of earthly fashions, political and
@@ -8658,15 +8658,15 @@ _XX Sull'impermanenza_
 
 Uno degli strani enigmi della politica moderna potrebbe essere formulato in questo modo. Che quando il potere era permanente, gli si rammentava sempre che era transitorio; ma quando il potere si supponeva davvero transitorio, veniva in realtà trattato come se fosse permanente. Nei giorni in cui i re potevano davvero tagliare la testa a chiunque, venivano incessantemente informati da veggenti e da saggi che essi stessi sarebbero presto stati eliminati. Quando erano veri despoti con il potere di vita e di [[Death|morte]], c'erano veri profeti o satirici che dicevano loro che la [[Death|morte]] sarebbe stata la fine della loro stessa vita. Ma nessuno lo ha mai detto, da quando si suppone che le idee democratiche e liberali prevalgano nello Stato. Nessuno ha detto al sovrano davvero temporaneo che era temporaneo, o persino che era temporale. Fin dall'inizio delle cose storiche, e quasi delle cose preistoriche, c'è stato questo ammonimento contro il potere mondano. I sovrani egizi banchettavano con lo [[skeleton|scheletro]] al banchetto. Il conquistatore romano, nel suo trionfo, aveva uno schiavo che torreggiava dietro il suo carro e sussurrava «Ricorda che sei mortale». Il [[King|re]] normanno medievale di Sicilia, come è descritto nella storia, era rammentato dal servizio religioso che Dio aveva rovesciato i potenti dai loro troni. I principi tardo-medievali avevano familiarità con l'abitudine di banchettare sotto affreschi e mosaici della [[Dance of Death|Danza della Morte]], che mostravano uno squallido [[skeleton|scheletro]] che portava via i re in un sacco. Attraverso l'intera durata dei quattromila anni della nostra [[history|storia]] documentata in Europa, pagana e cristiana, ha risuonato quel [[Sublime|sublime]] e sovversivo [[Dirge|canto funebre]] —
 
-  Le glorie del nostro [[Blood|sangue]] e del nostro stato
-  Sono ombre, non cose sostanziali.
+Le glorie del nostro [[Blood|sangue]] e del nostro stato
+Sono ombre, non cose sostanziali.
 
 I cappellani di [[Court|Corte]] stessi della grande monarchia francese predicavano dinanzi al _Roi Soleil,_ dicendogli che persino il suo stesso sole sarebbe tramontato. E poi, per qualche mutamento del tutto inspiegabile, giunse con l'Ottocento l'idea di uomini che parlavano come se essi [[Alone|soli]] potessero vivere in un'eterna aurora.
 
 Nessuno fece mai queste cose ai politici moderni. Nessuno pretese che uno [[skeleton|scheletro]] sedesse al Tavolo A, alla destra del [[Lord Mayor|Sindaco]] che presentava il Primo Ministro. Nessuno pretese che il grande e terrificante Maestro dei Brindisi, dopo aver, con voce di tuono, implorato [[Silence|silenzio]] per l'Onorevolissimo Lord Bundlebury, K.G., K.C.M.G., si sporgesse in avanti e con voce bassa e vibrante sibilasse all'orecchio di quello statista: «Ricorda che sei mortale». Persino nei giorni della monarchia costituzionale, le orazioni dal pulpito dinanzi al [[King|re]] non ci ricordano tanto le orazioni funebri sul [[King|re]]. Ma nel caso dei politici, a differenza dei re, l'intera tradizione di questa [[Truth|verità]] è totalmente scomparsa. Nessun [[artist|artista]] copre pareti e cornici con disegni decorativi della [[Death|Morte]] che porta via i Ministri del Gabinetto in un sacco. Nessun poeta scrive una mesta ode sui proprietari di giornali, persino quando portano corone, con l'antico ritornello —
 
-  Le glorie del nostro scoop e delle nostre trovate
-  Sono ombre, non cose sostanziali.
+Le glorie del nostro scoop e delle nostre trovate
+Sono ombre, non cose sostanziali.
 
 Con l'Ottocento entrò un nuovo e innaturale ottimismo circa la durata delle mode terrene, politiche e persino filosofiche. Shakespeare, vivendo sotto i Tudor, che potevano (e lo facevano) uccidere chiunque volessero uccidere, poteva scrivere in modo distaccato dell'uomo che, «rivestito di una piccola e breve autorità, gioca dinanzi all'alto cielo trucchi tanto fantastici da far piangere gli angeli». Il moderno politico eletto è in teoria rivestito di un'autorità ancor più breve. E, il cielo lo sa, gioca trucchi abbastanza fantastici; non solo da far piangere gli angeli, ma persino, forse, da far ridere gli angeli. Eppure nessun poeta o drammaturgo degli ultimi cent'anni ha mai scritto in quel modo di lui. Nessuno disse mai al popolare Primo Ministro che anch'egli sarebbe passato, neppure sei mesi prima che passasse davvero. Nessuno disse mai ai politici che sarebbero stati cibo per i vermi, neppure quando i vermi erano quasi indistinguibili dai politici. Quella lunga lamentazione letteraria e protesta contro le potenze di questo mondo, che è proseguita attraverso i secoli, e che include mille cose dal _Magnificat_ ai _Gulliver's Travels,_ in qualche strano modo si arrestò con l'epoca del governo parlamentare, che si supponeva fosse governo popolare. Di tutte le domande poste dai contestatori a un comizio politico a sostegno di un candidato parlamentare, [[Doubt|dubito]] gravemente e dolorosamente che alcun uomo si sia mai [[Rose|alzato]] dai banchi posteriori, figura triste e saturnina, per dire: «Signor Presidente, vorrei chiedere al nostro candidato se gli sia mai venuto in mente che un giorno morirà».
 

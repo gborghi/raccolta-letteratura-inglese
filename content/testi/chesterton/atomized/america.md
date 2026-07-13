@@ -16,9 +16,9 @@ tags:
 
 WHAT IS [[america|AMERICA]]?
 
-			     G.K. Chesterton
+G.K. Chesterton
 
-		      From: What I Saw in [[america|America]] (1922)
+From: What I Saw in [[america|America]] (1922)
 
 I have never managed to lose my old conviction that travel narrows
 the mind.  At least a man must make a [[Double|double]] effort of moral [[Humility|humility]]
@@ -352,9 +352,9 @@ instead of simply wondering what the devil they are doing.
 
 WHAT IS [[america|AMERICA]]?
 
-			     G.K. Chesterton
+G.K. Chesterton
 
-		      From: What I Saw in [[america|America]] (1922)
+From: What I Saw in [[america|America]] (1922)
 
 I have never managed to lose my old conviction that travel narrows
 the mind.  At least a man must make a [[Double|double]] effort of moral [[Humility|humility]]

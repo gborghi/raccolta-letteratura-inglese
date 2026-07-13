@@ -130,7 +130,7 @@ Not with a bang but a whimper.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="The Hollow Men — I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="The Hollow Men — I" data-chapter="part i" data-kind="section"></span>
 
 
 I  
@@ -156,7 +156,7 @@ The stuffed men.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="The Hollow Men — II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="The Hollow Men — II" data-chapter="part II" data-kind="section"></span>
 
 
 II  
@@ -184,7 +184,7 @@ In the twilight kingdom
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="The Hollow Men — III" data-chapter="Section 03 part iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="The Hollow Men — III" data-chapter="part III" data-kind="section"></span>
 
 
 III  
@@ -205,7 +205,7 @@ Form prayers to broken stone.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="The Hollow Men — IV" data-chapter="Section 04 part iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="The Hollow Men — IV" data-chapter="part IV" data-kind="section"></span>
 
 
 IV  
@@ -229,7 +229,7 @@ Of empty men.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="The Hollow Men — V" data-chapter="Section 05 part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="The Hollow Men — V" data-chapter="part v" data-kind="section"></span>
 
 
 V  

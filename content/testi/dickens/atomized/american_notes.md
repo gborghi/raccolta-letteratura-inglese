@@ -20,49 +20,49 @@ CIRCULATION***
 Transcribed from the 1913 Chapman & Hall, Ltd. edition by David Price,
 email ccx074@pglaf.org
 
-                           [Picture: Emigrants]
+[Picture: Emigrants]
 
 
 
 
 
-                              AMERICAN NOTES
-                                   FOR
-                           GENERAL CIRCULATION
-                                   AND
-                         PICTURES FROM [[Italy|ITALY]] {1}
+AMERICAN NOTES
+FOR
+GENERAL CIRCULATION
+AND
+PICTURES FROM [[Italy|ITALY]] {1}
 
 
-                                    BY
-                             CHARLES DICKENS
+BY
+CHARLES DICKENS
 
-                                * * * * *
+* * * * *
 
-                         WITH 8 ILLUSTRATIONS BY
-                            MARCUS STONE, R.A.
+WITH 8 ILLUSTRATIONS BY
+MARCUS STONE, R.A.
 
-                                * * * * *
+* * * * *
 
-                                  [[London|LONDON]]
-                           CHAPMAN & HALL, LTD.
-                                   1913
+[[London|LONDON]]
+CHAPMAN & HALL, LTD.
+1913
 
-                                * * * * *
+* * * * *
 
-                           I DEDICATE THIS BOOK
-                                    TO
-                          THOSE FRIENDS OF MINE
-                                IN [[america|AMERICA]]
-                   WHO, GIVING ME A WELCOME I MUST EVER
-                     GRATEFULLY AND PROUDLY REMEMBER,
-                            LEFT MY JUDGEMENT
-                                  FREE;
-                 AND WHO, LOVING THEIR COUNTRY, CAN BEAR
-                     THE [[Truth|TRUTH]], WHEN IT IS TOLD GOOD
-                           HUMOUREDLY, AND IN A
-                               KIND SPIRIT.
+I DEDICATE THIS BOOK
+TO
+THOSE FRIENDS OF MINE
+IN [[america|AMERICA]]
+WHO, GIVING ME A WELCOME I MUST EVER
+GRATEFULLY AND PROUDLY REMEMBER,
+LEFT MY JUDGEMENT
+FREE;
+AND WHO, LOVING THEIR COUNTRY, CAN BEAR
+THE [[Truth|TRUTH]], WHEN IT IS TOLD GOOD
+HUMOUREDLY, AND IN A
+KIND SPIRIT.
 
-                                * * * * *
+* * * * *
 
 
 
@@ -135,59 +135,59 @@ CONTENTS
 DEDICATION OF “AMERICAN NOTES”                                       v
 PREFACE TO THE FIRST CHEAP EDITION OF “AMERICAN NOTES”             vii
 PREFACE TO THE “CHARLES DICKENS” EDITION OF “AMERICAN NOTES”        ix
-                AMERICAN NOTES FOR GENERAL CIRCULATION
-                              CHAPTER I
+AMERICAN NOTES FOR GENERAL CIRCULATION
+CHAPTER I
 Going Away                                                           3
-                              CHAPTER II
+CHAPTER II
 The Passage out                                                     10
-                             CHAPTER III
+CHAPTER III
 Boston                                                              22
-                              CHAPTER IV
+CHAPTER IV
 An American Railroad.  Lowell and its Factory System                52
-                              CHAPTER V
+CHAPTER V
 Worcester.  The Connecticut [[River]].  Hartford.  New Haven.  To       60
 [[New York]]
-                              CHAPTER VI
+CHAPTER VI
 [[New York]]                                                            67
-                             CHAPTER VII
+CHAPTER VII
 Philadelphia, and its Solitary [[Prison]]                               81
-                             CHAPTER VIII
+CHAPTER VIII
 Washington.  The Legislature.  And the President’s [[house|House]]            94
-                              CHAPTER IX
+CHAPTER IX
 A [[Night]] Steamer on the Potomac [[River]].  Virginia [[Road]], and a        107
 Black Driver.  Richmond.  Baltimore.  The Harrisburg Mail,
 and a Glimpse of the [[City]].  A Canal Boat
-                              CHAPTER X
+CHAPTER X
 Some further Account of the Canal Boat, its Domestic Economy,      121
 and its Passengers.  [[Journey]] to Pittsburg across the
 Alleghany [[Mountains]].  Pittsburg
-                              CHAPTER XI
+CHAPTER XI
 From Pittsburg to Cincinnati in a Western Steamboat.               130
 Cincinnati
-                             CHAPTER XII
+CHAPTER XII
 From Cincinnati to Louisville in another Western Steamboat;        137
 and from Louisville to St. Louis in another.  St. Louis
-                             CHAPTER XIII
+CHAPTER XIII
 A Jaunt to the Looking-glass Prairie and back                      147
-                             CHAPTER XIV
+CHAPTER XIV
 Return to Cincinnati.  A Stage-coach Ride from that [[City]] to        153
 [[Columbus]], and thence to Sandusky.  So, by Lake Erie, to the
 Falls of Niagara
-                              CHAPTER XV
+CHAPTER XV
 In Canada; Toronto; Kingston; Montreal; Quebec; St. John’s.        167
 In the United States again; Lebanon; The Shaker Village; West
 Point
-                             CHAPTER XVI
+CHAPTER XVI
 The Passage [[Home]]                                                   182
-                             CHAPTER XVII
+CHAPTER XVII
 [[Slavery]]                                                            189
-                            CHAPTER XVIII
+CHAPTER XVIII
 Concluding Remarks                                              202
 Postscript                                                         210
 
 LIST OF ILLUSTRATIONS
 
-                                                                  PAGE
+PAGE
 EMIGRANTS                   _Marcus Stone_, _R.A._      _Frontispiece_
 THE SOLITARY PRISONER                                               90
 BLACK AND WHITE                                                    112
@@ -1626,7 +1626,7 @@ dropped her mother’s hand; put her handkerchief to her eyes; and turning
 round, clung sobbing to the matron; while her mother departed, with
 emotions as deep as those of her [[Child|child]].
 
-                               * * * * * *
+* * * * * *
 
 ‘It has been remarked in former reports, that she can distinguish
 different degrees of intellect in others, and that she soon regarded,
@@ -1859,7 +1859,7 @@ brighter and more deeply blue, glowing and rich though it had been
 before, was the scene without, contrasting with the darkness of so many
 youthful lives within!
 
-                                * * * * *
+* * * * *
 
 At SOUTH BOSTON, as it is called, in a situation excellently adapted for
 the purpose, several charitable institutions are clustered together.  One
@@ -2200,7 +2200,7 @@ just intention, honest, I could [[Hope|hope]] to convey to my readers
 one-hundredth part of the gratification, the sights I have described,
 afforded me.
 
-                                * * * * *
+* * * * *
 
 To an Englishman, accustomed to the paraphernalia of Westminster Hall, an
 American [[Court]] of Law is as odd a sight as, I suppose, an English [[Court]]
@@ -3717,7 +3717,7 @@ an even wager there will be at least one, to-morrow.  So, carrying that
 with us for our comfort, let us say, Good [[Night|night]], and climb up-stairs to
 bed.
 
-                                * * * * *
+* * * * *
 
 One day, during my stay in [[New York]], I paid a visit to the different
 public institutions on Long Island, or Rhode Island: I forget which.  One
@@ -4313,7 +4313,7 @@ at it, nor yet to turn his back upon it.  Now, it is every [[Night|night]] the
 lurking-place of a [[Ghost|ghost]]: a [[Shadow|shadow]]:—a silent something, horrible to see,
 but whether bird, or beast, or muffled human shape, he cannot tell.
 
-                     [Picture: The Solitary Prisoner]
+[Picture: The Solitary Prisoner]
 
 When he is in his cell by day, he fears the little yard without.  When he
 is in the yard, he dreads to re-enter the cell.  When [[Night|night]] comes, there
@@ -5067,7 +5067,7 @@ fancies he had poured out among them.  Long may he dispense such
 treasures with unsparing hand; and long may they remember him as
 worthily!
 
-                                * * * * *
+* * * * *
 
 The term we had assigned for the duration of our stay in Washington was
 now at an end, and we were to begin to travel; for the railroad distances
@@ -5369,7 +5369,7 @@ were safe.  The black in Sinbad’s Travels with one eye in the middle of
 his forehead which shone like a burning coal, was [[Nature|nature]]’s [[aristocrat]]
 compared with this white gentleman.
 
-                        [Picture: Black and White]
+[Picture: Black and White]
 
 It was between six and seven o’[[Clock|clock]] in the evening, when we drove to the
 hotel: in front of which, and on the top of the broad flight of steps
@@ -6832,7 +6832,7 @@ born in her mother’s [[house]]; and she had not seen her husband (to whom she
 was now returning), for twelve months: having left him a month or two
 after their [[Marriage|marriage]].
 
-                        [Picture: The Little Wife]
+[Picture: The Little Wife]
 
 [[Well]], to be sure, there never was a little woman so full of [[Hope|hope]], and
 tenderness, and [[Love|love]], and anxiety, as this little woman was: and all day
@@ -8342,7 +8342,7 @@ I felt a stronger [[Love|love]] and [[Honour|honour]] of my kind come glowing on
 and wished to God there had been many Atheists in the better part of
 human [[Nature|nature]] there, to read this simple lesson in the book of Life.
 
-                                * * * * *
+* * * * *
 
 We left Montreal for [[New York]] again, on the thirtieth of May, crossing to
 La Prairie, on the opposite shore of the St. Lawrence, in a steamboat; we
@@ -9084,19 +9084,19 @@ but it is the law.
 Public opinion is deferred to, in such cases as the following: which is
 headed in the newspapers:—
 
-                           ‘_Interesting Law-Case_.
+‘_Interesting Law-Case_.
 
-    ‘An interesting case is now on trial in the Supreme [[Court]], arising
-    out of the following facts.  A gentleman residing in Maryland had
-    allowed an aged pair of his slaves, substantial though not legal
-    [[Freedom|freedom]] for several years.  While thus living, a daughter was born to
-    them, who grew up in the same liberty, until she married a free
-    negro, and went with him to reside in Pennsylvania.  They had several
-    children, and lived unmolested until the original owner died, when
-    his heir attempted to regain them; but the magistrate before whom
-    they were brought, decided that he had no jurisdiction in the case.
-    _The owner seized the woman and her children in the night_, _and
-    carried them to Maryland_.’
+‘An interesting case is now on trial in the Supreme [[Court]], arising
+out of the following facts.  A gentleman residing in Maryland had
+allowed an aged pair of his slaves, substantial though not legal
+[[Freedom|freedom]] for several years.  While thus living, a daughter was born to
+them, who grew up in the same liberty, until she married a free
+negro, and went with him to reside in Pennsylvania.  They had several
+children, and lived unmolested until the original owner died, when
+his heir attempted to regain them; but the magistrate before whom
+they were brought, decided that he had no jurisdiction in the case.
+_The owner seized the woman and her children in the night_, _and
+carried them to Maryland_.’
 
 ‘Cash for negroes,’ ‘cash for negroes,’ ‘cash for negroes,’ is the
 heading of advertisements in great capitals down the long columns of the
@@ -9124,106 +9124,106 @@ The following are a few specimens of the advertisements in the public
 papers.  It is only four years since the oldest among them appeared; and
 others of the same [[Nature|nature]] continue to be published every day, in shoals.
 
-    ‘Ran away, Negress Caroline.  Had on a collar with one prong turned
-    down.’
+‘Ran away, Negress Caroline.  Had on a collar with one prong turned
+down.’
 
-    ‘Ran away, a black woman, Betsy.  Had an iron bar on her right leg.’
+‘Ran away, a black woman, Betsy.  Had an iron bar on her right leg.’
 
-    ‘Ran away, the negro Manuel.  Much marked with irons.’
+‘Ran away, the negro Manuel.  Much marked with irons.’
 
-    ‘Ran away, the negress Fanny.  Had on an iron band about her neck.’
+‘Ran away, the negress Fanny.  Had on an iron band about her neck.’
 
-    ‘Ran away, a negro boy about twelve years old.  Had round his neck a
-    chain dog-collar with “De Lampert” engraved on it.’
+‘Ran away, a negro boy about twelve years old.  Had round his neck a
+chain dog-collar with “De Lampert” engraved on it.’
 
-    ‘Ran away, the negro Hown.  Has a ring of iron on his left foot.
-    Also, Grise, _his wife_, having a ring and chain on the left leg.’
+‘Ran away, the negro Hown.  Has a ring of iron on his left foot.
+Also, Grise, _his wife_, having a ring and chain on the left leg.’
 
-    ‘Ran away, a negro boy named James.  Said boy was ironed when he left
-    me.’
+‘Ran away, a negro boy named James.  Said boy was ironed when he left
+me.’
 
-    ‘Committed to jail, a man who calls his name John.  He has a clog of
-    iron on his right foot which will weigh four or five pounds.’
+‘Committed to jail, a man who calls his name John.  He has a clog of
+iron on his right foot which will weigh four or five pounds.’
 
-    ‘Detained at the police jail, the negro wench, Myra.  Has several
-    marks of LASHING, and has irons on her feet.’
+‘Detained at the police jail, the negro wench, Myra.  Has several
+marks of LASHING, and has irons on her feet.’
 
-    ‘Ran away, a negro woman and two children.  A few days before she
-    went off, I burnt her with a hot iron, on the left side of her face.
-    I tried to make the letter M.’
+‘Ran away, a negro woman and two children.  A few days before she
+went off, I burnt her with a hot iron, on the left side of her face.
+I tried to make the letter M.’
 
-    ‘Ran away, a negro man named Henry; his left eye out, some scars from
-    a dirk on and under his left arm, and much scarred with the whip.’
+‘Ran away, a negro man named Henry; his left eye out, some scars from
+a dirk on and under his left arm, and much scarred with the whip.’
 
-    ‘One hundred dollars reward, for a negro fellow, [[Pompey]], 40 years
-    old.  He is branded on the left jaw.’
+‘One hundred dollars reward, for a negro fellow, [[Pompey]], 40 years
+old.  He is branded on the left jaw.’
 
-    ‘Committed to jail, a negro man.  Has no toes on the left foot.’
+‘Committed to jail, a negro man.  Has no toes on the left foot.’
 
-    ‘Ran away, a negro woman named Rachel.  Has lost all her toes except
-    the large one.’
+‘Ran away, a negro woman named Rachel.  Has lost all her toes except
+the large one.’
 
-    ‘Ran away, Sam.  He was shot a short [[Time|time]] since through the hand, and
-    has several shots in his left arm and side.’
+‘Ran away, Sam.  He was shot a short [[Time|time]] since through the hand, and
+has several shots in his left arm and side.’
 
-    ‘Ran away, my negro man Dennis.  Said negro has been shot in the left
-    arm between the shoulder and elbow, which has paralysed the left
-    hand.’
+‘Ran away, my negro man Dennis.  Said negro has been shot in the left
+arm between the shoulder and elbow, which has paralysed the left
+hand.’
 
-    ‘Ran away, my negro man named Simon.  He has been shot badly, in his
-    back and right arm.’
+‘Ran away, my negro man named Simon.  He has been shot badly, in his
+back and right arm.’
 
-    ‘Ran away, a negro named [[arthur|Arthur]].  Has a considerable scar across his
-    breast and each arm, made by a knife; loves to talk much of the
-    goodness of God.’
+‘Ran away, a negro named [[arthur|Arthur]].  Has a considerable scar across his
+breast and each arm, made by a knife; loves to talk much of the
+goodness of God.’
 
-    ‘Twenty-five dollars reward for my man Isaac.  He has a scar on his
-    forehead, caused by a blow; and one on his back, made by a shot from
-    a [[Pistol|pistol]].’
+‘Twenty-five dollars reward for my man Isaac.  He has a scar on his
+forehead, caused by a blow; and one on his back, made by a shot from
+a [[Pistol|pistol]].’
 
-    ‘Ran away, a negro girl called Mary.  Has a small scar over her eye,
-    a good many teeth missing, the letter A is branded on her cheek and
-    forehead.’
+‘Ran away, a negro girl called Mary.  Has a small scar over her eye,
+a good many teeth missing, the letter A is branded on her cheek and
+forehead.’
 
-    ‘Ran away, negro Ben.  Has a scar on his right hand; his thumb and
-    forefinger being injured by being shot last fall.  A part of the bone
-    came out.  He has also one or two large scars on his back and hips.’
+‘Ran away, negro Ben.  Has a scar on his right hand; his thumb and
+forefinger being injured by being shot last fall.  A part of the bone
+came out.  He has also one or two large scars on his back and hips.’
 
-    ‘Detained at the jail, a mulatto, named Tom.  Has a scar on the right
-    cheek, and appears to have been burned with powder on the face.’
+‘Detained at the jail, a mulatto, named Tom.  Has a scar on the right
+cheek, and appears to have been burned with powder on the face.’
 
-    ‘Ran away, a negro man named Ned.  Three of his fingers are drawn
-    into the palm of his hand by a cut.  Has a scar on the back of his
-    neck, nearly half round, done by a knife.’
+‘Ran away, a negro man named Ned.  Three of his fingers are drawn
+into the palm of his hand by a cut.  Has a scar on the back of his
+neck, nearly half round, done by a knife.’
 
-    ‘Was committed to jail, a negro man.  Says his name is Josiah.  His
-    back very much scarred by the whip; and branded on the thigh and hips
-    in three or four places, thus (J M).  The rim of his right ear has
-    been bit or cut off.’
+‘Was committed to jail, a negro man.  Says his name is Josiah.  His
+back very much scarred by the whip; and branded on the thigh and hips
+in three or four places, thus (J M).  The rim of his right ear has
+been bit or cut off.’
 
-    ‘Fifty dollars reward, for my fellow Edward.  He has a scar on the
-    corner of his mouth, two cuts on and under his arm, and the letter E
-    on his arm.’
+‘Fifty dollars reward, for my fellow Edward.  He has a scar on the
+corner of his mouth, two cuts on and under his arm, and the letter E
+on his arm.’
 
-    ‘Ran away, negro boy Ellie.  Has a scar on one of his arms from the
-    bite of a dog.’
+‘Ran away, negro boy Ellie.  Has a scar on one of his arms from the
+bite of a dog.’
 
-    ‘Ran away, from the plantation of James Surgette, the following
-    negroes: Randal, has one ear cropped; Bob, has lost one eye; Kentucky
-    Tom, has one jaw broken.’
+‘Ran away, from the plantation of James Surgette, the following
+negroes: Randal, has one ear cropped; Bob, has lost one eye; Kentucky
+Tom, has one jaw broken.’
 
-    ‘Ran away, Anthony.  One of his ears cut off, and his left hand cut
-    with an axe.’
+‘Ran away, Anthony.  One of his ears cut off, and his left hand cut
+with an axe.’
 
-    ‘Fifty dollars reward for the negro Jim Blake.  Has a piece cut out
-    of each ear, and the middle finger of the left hand cut off to the
-    second joint.’
+‘Fifty dollars reward for the negro Jim Blake.  Has a piece cut out
+of each ear, and the middle finger of the left hand cut off to the
+second joint.’
 
-    ‘Ran away, a negro woman named [[Maria]].  Has a scar on one side of her
-    cheek, by a cut.  Some scars on her back.’
+‘Ran away, a negro woman named [[Maria]].  Has a scar on one side of her
+cheek, by a cut.  Some scars on her back.’
 
-    ‘Ran away, the Mulatto wench Mary.  Has a cut on the left arm, a scar
-    on the left shoulder, and two upper teeth missing.’
+‘Ran away, the Mulatto wench Mary.  Has a cut on the left arm, a scar
+on the left shoulder, and two upper teeth missing.’
 
 I should say, perhaps, in explanation of this latter piece of
 description, that among the other blessings which public opinion secures
@@ -9231,42 +9231,42 @@ to the negroes, is the common practice of violently punching out their
 teeth.  To make them wear iron collars by day and [[Night|night]], and to worry
 them with [[dogs]], are practices almost too ordinary to deserve mention.
 
-    ‘Ran away, my man Fountain.  Has holes in his ears, a scar on the
-    right side of his forehead, has been shot in the hind part of his
-    legs, and is marked on the back with the whip.’
+‘Ran away, my man Fountain.  Has holes in his ears, a scar on the
+right side of his forehead, has been shot in the hind part of his
+legs, and is marked on the back with the whip.’
 
-    ‘Two hundred and fifty dollars reward for my negro man Jim.  He is
-    much marked with shot in his right thigh.  The shot entered on the
-    outside, halfway between the hip and knee joints.’
+‘Two hundred and fifty dollars reward for my negro man Jim.  He is
+much marked with shot in his right thigh.  The shot entered on the
+outside, halfway between the hip and knee joints.’
 
-    ‘Brought to jail, John.  Left ear cropt.’
+‘Brought to jail, John.  Left ear cropt.’
 
-    ‘Taken up, a negro man.  Is very much scarred about the face and
-    [[Body|body]], and has the left ear bit off.’
+‘Taken up, a negro man.  Is very much scarred about the face and
+[[Body|body]], and has the left ear bit off.’
 
-    ‘Ran away, a black girl, named Mary.  Has a scar on her cheek, and
-    the end of one of her toes cut off.’
+‘Ran away, a black girl, named Mary.  Has a scar on her cheek, and
+the end of one of her toes cut off.’
 
-    ‘Ran away, my Mulatto woman, Judy.  She has had her right arm broke.’
+‘Ran away, my Mulatto woman, Judy.  She has had her right arm broke.’
 
-    ‘Ran away, my negro man, Levi.  His left hand has been burnt, and I
-    think the end of his forefinger is off.’
+‘Ran away, my negro man, Levi.  His left hand has been burnt, and I
+think the end of his forefinger is off.’
 
-    ‘Ran away, a negro man, NAMED WASHINGTON.  Has lost a part of his
-    middle finger, and the end of his little finger.’
+‘Ran away, a negro man, NAMED WASHINGTON.  Has lost a part of his
+middle finger, and the end of his little finger.’
 
-    ‘Twenty-five dollars reward for my man John.  The tip of his nose is
-    bit off.’
+‘Twenty-five dollars reward for my man John.  The tip of his nose is
+bit off.’
 
-    ‘Twenty-five dollars reward for the negro slave, Sally.  Walks _as
-    though_ crippled in the back.’
+‘Twenty-five dollars reward for the negro slave, Sally.  Walks _as
+though_ crippled in the back.’
 
-    ‘Ran away, Joe Dennis.  Has a small notch in one of his ears.’
+‘Ran away, Joe Dennis.  Has a small notch in one of his ears.’
 
-    ‘Ran away, negro boy, Jack.  Has a small crop out of his left ear.’
+‘Ran away, negro boy, Jack.  Has a small crop out of his left ear.’
 
-    ‘Ran away, a negro man, named Ivory.  Has a small piece cut out of
-    the top of each ear.’
+‘Ran away, a negro man, named Ivory.  Has a small piece cut out of
+the top of each ear.’
 
 While upon the subject of ears, I may observe that a distinguished
 abolitionist in [[New York]] once received a negro’s ear, which had been cut
@@ -9308,223 +9308,223 @@ class of outrages and the rest; lead to the just presumption that the
 character of the parties concerned was formed in slave districts, and
 brutalised by slave customs.
 
-                             ‘_Horrible Tragedy_.
+‘_Horrible Tragedy_.
 
-    ‘By a slip from _The Southport Telegraph_, Wisconsin, we learn that
-    the Hon. Charles C. P. Arndt, Member of the Council for Brown county,
-    was shot dead _on the floor of the Council chamber_, by James R.
-    Vinyard, Member from Grant county.  _The affair_ grew out of a
-    nomination for Sheriff of Grant county.  Mr. E. S. Baker was
-    nominated and supported by Mr. Arndt.  This nomination was opposed by
-    Vinyard, who wanted the appointment to vest in his own brother.  In
-    the course of [[debate]], the deceased made some statements which Vinyard
-    pronounced false, and made use of violent and insulting language,
-    dealing largely in personalities, to which Mr. A. made no reply.
-    After the adjournment, Mr. A. stepped up to Vinyard, and requested
-    him to retract, which he refused to do, repeating the offensive
-    words.  Mr. Arndt then made a blow at Vinyard, who stepped back a
-    pace, drew a [[Pistol|pistol]], and shot him dead.
+‘By a slip from _The Southport Telegraph_, Wisconsin, we learn that
+the Hon. Charles C. P. Arndt, Member of the Council for Brown county,
+was shot dead _on the floor of the Council chamber_, by James R.
+Vinyard, Member from Grant county.  _The affair_ grew out of a
+nomination for Sheriff of Grant county.  Mr. E. S. Baker was
+nominated and supported by Mr. Arndt.  This nomination was opposed by
+Vinyard, who wanted the appointment to vest in his own brother.  In
+the course of [[debate]], the deceased made some statements which Vinyard
+pronounced false, and made use of violent and insulting language,
+dealing largely in personalities, to which Mr. A. made no reply.
+After the adjournment, Mr. A. stepped up to Vinyard, and requested
+him to retract, which he refused to do, repeating the offensive
+words.  Mr. Arndt then made a blow at Vinyard, who stepped back a
+pace, drew a [[Pistol|pistol]], and shot him dead.
 
-    ‘The issue appears to have been provoked on the part of Vinyard, who
-    was determined at all hazards to defeat the appointment of Baker, and
-    who, himself defeated, turned his ire and [[Revenge|revenge]] upon the
-    unfortunate Arndt.’
+‘The issue appears to have been provoked on the part of Vinyard, who
+was determined at all hazards to defeat the appointment of Baker, and
+who, himself defeated, turned his ire and [[Revenge|revenge]] upon the
+unfortunate Arndt.’
 
-                          ‘_The Wisconsin Tragedy_.
+‘_The Wisconsin Tragedy_.
 
-    Public indignation runs high in the territory of Wisconsin, in
-    relation to the murder of C. C. P. Arndt, in the Legislative Hall of
-    the Territory.  Meetings have been held in different counties of
-    Wisconsin, denouncing _the practice of secretly bearing arms in the
-    Legislative chambers of the country_.  We have seen the account of
-    the expulsion of James R. Vinyard, the perpetrator of the bloody
-    deed, and are amazed to hear, that, after this expulsion by those who
-    saw Vinyard kill Mr. Arndt in the presence of his aged father, who
-    was on a visit to see his son, little dreaming that he was to witness
-    his murder, _Judge Dunn has discharged Vinyard on bail_.  The Miners’
-    Free Press speaks _in terms of merited rebuke_ at the outrage upon
-    the feelings of the people of Wisconsin.  Vinyard was within arm’s
-    length of Mr. Arndt, when he took such deadly aim at him, that he
-    never spoke.  Vinyard might at pleasure, being so near, have only
-    wounded him, but he chose to kill him.’
+Public indignation runs high in the territory of Wisconsin, in
+relation to the murder of C. C. P. Arndt, in the Legislative Hall of
+the Territory.  Meetings have been held in different counties of
+Wisconsin, denouncing _the practice of secretly bearing arms in the
+Legislative chambers of the country_.  We have seen the account of
+the expulsion of James R. Vinyard, the perpetrator of the bloody
+deed, and are amazed to hear, that, after this expulsion by those who
+saw Vinyard kill Mr. Arndt in the presence of his aged father, who
+was on a visit to see his son, little dreaming that he was to witness
+his murder, _Judge Dunn has discharged Vinyard on bail_.  The Miners’
+Free Press speaks _in terms of merited rebuke_ at the outrage upon
+the feelings of the people of Wisconsin.  Vinyard was within arm’s
+length of Mr. Arndt, when he took such deadly aim at him, that he
+never spoke.  Vinyard might at pleasure, being so near, have only
+wounded him, but he chose to kill him.’
 
-                                  ‘_Murder_.
+‘_Murder_.
 
-    By a letter in a St. Louis paper of the ‘4th, we notice a terrible
-    outrage at Burlington, Iowa.  A Mr. Bridgman having had a difficulty
-    with a citizen of the place, Mr. Ross; a brother-in-law of the latter
-    provided himself with one of Colt’s revolving pistols, met Mr. B. in
-    the street, _and discharged the contents of five of the barrels at
-    him_: _each shot taking effect_.  Mr. B., though horribly wounded,
-    and dying, returned the [[Fire|fire]], and killed Ross on the spot.’
+By a letter in a St. Louis paper of the ‘4th, we notice a terrible
+outrage at Burlington, Iowa.  A Mr. Bridgman having had a difficulty
+with a citizen of the place, Mr. Ross; a brother-in-law of the latter
+provided himself with one of Colt’s revolving pistols, met Mr. B. in
+the street, _and discharged the contents of five of the barrels at
+him_: _each shot taking effect_.  Mr. B., though horribly wounded,
+and dying, returned the [[Fire|fire]], and killed Ross on the spot.’
 
-                     ‘_Terrible [[Death]] of Robert Potter_.
+‘_Terrible [[Death]] of Robert Potter_.
 
-    ‘From the “Caddo Gazette,” of the 12th inst., we learn the frightful
-    [[Death|death]] of Colonel Robert Potter. . . . He was beset in his [[house]] by an
-    enemy, named [[Rose]].  He sprang from his couch, seized his gun, and, in
-    his [[Night|night]]-clothes, rushed from the [[house]].  For about two hundred
-    yards his [[Speed|speed]] seemed to defy his pursuers; but, getting entangled
-    in a thicket, he was captured.  [[Rose]] told him _that he intended to
-    act a generous part_, and give him a chance for his life.  He then
-    told Potter he might run, and he should not be interrupted till he
-    reached a certain distance.  Potter started at the word of command,
-    and before a gun was fired he had reached the lake.  His first
-    impulse was to jump in the [[Water|water]] and dive for it, which he did.  [[Rose]]
-    was close behind him, and formed his men on the bank ready to shoot
-    him as he [[Rose|rose]].  In a few seconds he came up to breathe; and scarce
-    had his head reached the surface of the [[Water|water]] when it was completely
-    riddled with the shot of their guns, and he sunk, to rise no more!’
+‘From the “Caddo Gazette,” of the 12th inst., we learn the frightful
+[[Death|death]] of Colonel Robert Potter. . . . He was beset in his [[house]] by an
+enemy, named [[Rose]].  He sprang from his couch, seized his gun, and, in
+his [[Night|night]]-clothes, rushed from the [[house]].  For about two hundred
+yards his [[Speed|speed]] seemed to defy his pursuers; but, getting entangled
+in a thicket, he was captured.  [[Rose]] told him _that he intended to
+act a generous part_, and give him a chance for his life.  He then
+told Potter he might run, and he should not be interrupted till he
+reached a certain distance.  Potter started at the word of command,
+and before a gun was fired he had reached the lake.  His first
+impulse was to jump in the [[Water|water]] and dive for it, which he did.  [[Rose]]
+was close behind him, and formed his men on the bank ready to shoot
+him as he [[Rose|rose]].  In a few seconds he came up to breathe; and scarce
+had his head reached the surface of the [[Water|water]] when it was completely
+riddled with the shot of their guns, and he sunk, to rise no more!’
 
-                            ‘_Murder in Arkansas_.
+‘_Murder in Arkansas_.
 
-    ‘We understand _that a severe rencontre came off_ a few days since in
-    the Seneca Nation, between Mr. Loose, the sub-agent of the mixed band
-    of the Senecas, Quapaw, and Shawnees, and Mr. James Gillespie, of the
-    mercantile firm of Thomas G. Allison and Co., of Maysville, Benton,
-    County Ark, in which the latter was slain with a bowie-knife.  Some
-    difficulty had for some [[Time|time]] existed between the parties.  It is said
-    that Major Gillespie brought on the attack with a cane.  A severe
-    conflict ensued, during which two pistols were fired by Gillespie and
-    one by Loose.  Loose then stabbed Gillespie with one of those
-    never-failing weapons, a bowie-knife.  The [[Death|death]] of Major G. is much
-    regretted, as he was a liberal-minded and energetic man.  Since the
-    above was in type, we have learned that Major Allison has stated to
-    some of our citizens in town that Mr. Loose gave the first blow.  We
-    forbear to give any particulars, as _the matter will be the subject
-    of judicial investigation_.’
+‘We understand _that a severe rencontre came off_ a few days since in
+the Seneca Nation, between Mr. Loose, the sub-agent of the mixed band
+of the Senecas, Quapaw, and Shawnees, and Mr. James Gillespie, of the
+mercantile firm of Thomas G. Allison and Co., of Maysville, Benton,
+County Ark, in which the latter was slain with a bowie-knife.  Some
+difficulty had for some [[Time|time]] existed between the parties.  It is said
+that Major Gillespie brought on the attack with a cane.  A severe
+conflict ensued, during which two pistols were fired by Gillespie and
+one by Loose.  Loose then stabbed Gillespie with one of those
+never-failing weapons, a bowie-knife.  The [[Death|death]] of Major G. is much
+regretted, as he was a liberal-minded and energetic man.  Since the
+above was in type, we have learned that Major Allison has stated to
+some of our citizens in town that Mr. Loose gave the first blow.  We
+forbear to give any particulars, as _the matter will be the subject
+of judicial investigation_.’
 
-                                ‘_Foul Deed_.
+‘_Foul Deed_.
 
-    The steamer Thames, just from Missouri [[River|river]], brought us a handbill,
-    offering a reward of 500 dollars, for the person who assassinated
-    Lilburn W. Baggs, late Governor of this State, at Independence, on
-    the [[Night|night]] of the 6th inst.  Governor Baggs, it is stated in a written
-    memorandum, was not dead, but mortally wounded.
+The steamer Thames, just from Missouri [[River|river]], brought us a handbill,
+offering a reward of 500 dollars, for the person who assassinated
+Lilburn W. Baggs, late Governor of this State, at Independence, on
+the [[Night|night]] of the 6th inst.  Governor Baggs, it is stated in a written
+memorandum, was not dead, but mortally wounded.
 
-    ‘Since the above was written, we received a note from the clerk of
-    the Thames, giving the following particulars.  Gov. Baggs was shot by
-    some [[Villain|villain]] on Friday, 6th inst., in the evening, while sitting in a
-    room in his own [[house]] in Independence.  His son, a boy, hearing a
-    report, ran into the room, and found the Governor sitting in his
-    chair, with his jaw fallen down, and his head leaning back; on
-    discovering the injury done to his father, he gave the alarm.  Foot
-    tracks were found in the [[Garden|garden]] below the [[Window|window]], and a [[Pistol|pistol]] picked
-    up supposed to have been overloaded, and thrown from the hand of the
-    scoundrel who fired it.  Three buck shots of a heavy load, took
-    effect; one going through his mouth, one into the brain, and another
-    probably in or near the brain; all going into the back part of the
-    neck and head.  The Governor was still alive on the morning of the
-    7th; but no hopes for his recovery by his friends, and but slight
-    hopes from his physicians.
+‘Since the above was written, we received a note from the clerk of
+the Thames, giving the following particulars.  Gov. Baggs was shot by
+some [[Villain|villain]] on Friday, 6th inst., in the evening, while sitting in a
+room in his own [[house]] in Independence.  His son, a boy, hearing a
+report, ran into the room, and found the Governor sitting in his
+chair, with his jaw fallen down, and his head leaning back; on
+discovering the injury done to his father, he gave the alarm.  Foot
+tracks were found in the [[Garden|garden]] below the [[Window|window]], and a [[Pistol|pistol]] picked
+up supposed to have been overloaded, and thrown from the hand of the
+scoundrel who fired it.  Three buck shots of a heavy load, took
+effect; one going through his mouth, one into the brain, and another
+probably in or near the brain; all going into the back part of the
+neck and head.  The Governor was still alive on the morning of the
+7th; but no hopes for his recovery by his friends, and but slight
+hopes from his physicians.
 
-    ‘A man was suspected, and the Sheriff most probably has possession of
-    him by this [[Time|time]].
+‘A man was suspected, and the Sheriff most probably has possession of
+him by this [[Time|time]].
 
-    ‘The [[Pistol|pistol]] was one of a pair stolen some days previous from a baker
-    in Independence, and the legal authorities have the description of
-    the other.’
+‘The [[Pistol|pistol]] was one of a pair stolen some days previous from a baker
+in Independence, and the legal authorities have the description of
+the other.’
 
-                                ‘_Rencontre_.
+‘_Rencontre_.
 
-    ‘An unfortunate _affair_ took place on Friday evening in Chatres
-    Street, in which one of our most respectable citizens received a
-    dangerous wound, from a poignard, in the abdomen.  From the Bee (New
-    Orleans) of yesterday, we learn the following particulars.  It
-    appears that an article was published in the French side of the paper
-    on Monday last, containing some strictures on the Artillery Battalion
-    for firing their guns on [[Sunday]] morning, in answer to those from the
-    Ontario and Woodbury, and thereby much alarm was caused to the
-    families of those persons who were out all [[Night|night]] preserving the peace
-    of the [[City|city]].  Major C. Gally, Commander of the battalion, resenting
-    this, called at the office and demanded the author’s name; that of
-    Mr. P. Arpin was given to him, who was absent at the [[Time|time]].  Some
-    angry words then passed with one of the proprietors, and a challenge
-    followed; the friends of both parties tried to arrange the affair,
-    but failed to do so.  On Friday evening, about seven o’[[Clock|clock]], Major
-    Gally met Mr. P. Arpin in Chatres Street, and accosted him.  “Are you
-    Mr. Arpin?”
+‘An unfortunate _affair_ took place on Friday evening in Chatres
+Street, in which one of our most respectable citizens received a
+dangerous wound, from a poignard, in the abdomen.  From the Bee (New
+Orleans) of yesterday, we learn the following particulars.  It
+appears that an article was published in the French side of the paper
+on Monday last, containing some strictures on the Artillery Battalion
+for firing their guns on [[Sunday]] morning, in answer to those from the
+Ontario and Woodbury, and thereby much alarm was caused to the
+families of those persons who were out all [[Night|night]] preserving the peace
+of the [[City|city]].  Major C. Gally, Commander of the battalion, resenting
+this, called at the office and demanded the author’s name; that of
+Mr. P. Arpin was given to him, who was absent at the [[Time|time]].  Some
+angry words then passed with one of the proprietors, and a challenge
+followed; the friends of both parties tried to arrange the affair,
+but failed to do so.  On Friday evening, about seven o’[[Clock|clock]], Major
+Gally met Mr. P. Arpin in Chatres Street, and accosted him.  “Are you
+Mr. Arpin?”
 
-    ‘“Yes, sir.”
+‘“Yes, sir.”
 
-    ‘“Then I have to tell you that you are a—” (applying an appropriate
-    epithet).
+‘“Then I have to tell you that you are a—” (applying an appropriate
+epithet).
 
-    ‘“I shall remind you of your words, sir.”
+‘“I shall remind you of your words, sir.”
 
-    ‘“But I have said I would break my cane on your shoulders.”
+‘“But I have said I would break my cane on your shoulders.”
 
-    ‘“I know it, but I have not yet received the blow.”
+‘“I know it, but I have not yet received the blow.”
 
-    ‘At these words, Major Gally, having a cane in his hands, struck Mr.
-    Arpin across the face, and the latter drew a poignard from his pocket
-    and stabbed Major Gally in the abdomen.
+‘At these words, Major Gally, having a cane in his hands, struck Mr.
+Arpin across the face, and the latter drew a poignard from his pocket
+and stabbed Major Gally in the abdomen.
 
-    ‘Fears are entertained that the wound will be mortal.  _We understand
-    that Mr. Arpin has given security for his appearance at the Criminal
-    [[Court]] to answer the charge_.’
+‘Fears are entertained that the wound will be mortal.  _We understand
+that Mr. Arpin has given security for his appearance at the Criminal
+[[Court]] to answer the charge_.’
 
-                          ‘_Affray in Mississippi_.
+‘_Affray in Mississippi_.
 
-    ‘On the 27th ult., in an affray near Carthage, Leake county,
-    Mississippi, between James Cottingham and John Wilburn, the latter
-    was shot by the former, and so horribly wounded, that there was no
-    [[Hope|hope]] of his recovery.  On the 2nd instant, there was an affray at
-    Carthage between A. C. Sharkey and George Goff, in which the latter
-    was shot, and thought mortally wounded.  Sharkey delivered himself up
-    to the authorities, _but changed his mind and escaped_!’
+‘On the 27th ult., in an affray near Carthage, Leake county,
+Mississippi, between James Cottingham and John Wilburn, the latter
+was shot by the former, and so horribly wounded, that there was no
+[[Hope|hope]] of his recovery.  On the 2nd instant, there was an affray at
+Carthage between A. C. Sharkey and George Goff, in which the latter
+was shot, and thought mortally wounded.  Sharkey delivered himself up
+to the authorities, _but changed his mind and escaped_!’
 
-                            ‘_Personal Encounter_.
+‘_Personal Encounter_.
 
-    ‘An encounter took place in Sparta, a few days since, between the
-    barkeeper of an hotel, and a man named Bury.  It appears that Bury
-    had become somewhat noisy, _and that the barkeeper_, _determined to
-    preserve order_, _had threatened to shoot Bury_, whereupon Bury drew
-    a [[Pistol|pistol]] and shot the barkeeper down.  He was not dead at the last
-    accounts, but slight hopes were entertained of his recovery.’
+‘An encounter took place in Sparta, a few days since, between the
+barkeeper of an hotel, and a man named Bury.  It appears that Bury
+had become somewhat noisy, _and that the barkeeper_, _determined to
+preserve order_, _had threatened to shoot Bury_, whereupon Bury drew
+a [[Pistol|pistol]] and shot the barkeeper down.  He was not dead at the last
+accounts, but slight hopes were entertained of his recovery.’
 
-                                   ‘_Duel_.
+‘_Duel_.
 
-    ‘The clerk of the steamboat _Tribune_ informs us that another duel
-    was fought on Tuesday last, by Mr. Robbins, a bank officer in
-    Vicksburg, and Mr. Fall, the editor of the Vicksburg Sentinel.
-    According to the arrangement, the parties had six pistols each,
-    which, after the word “[[Fire]]!” _they were to discharge as fast as they
-    pleased_.  Fall fired two pistols without effect.  Mr. Robbins’ first
-    shot took effect in Fall’s thigh, who fell, and was unable to
-    continue the combat.’
+‘The clerk of the steamboat _Tribune_ informs us that another duel
+was fought on Tuesday last, by Mr. Robbins, a bank officer in
+Vicksburg, and Mr. Fall, the editor of the Vicksburg Sentinel.
+According to the arrangement, the parties had six pistols each,
+which, after the word “[[Fire]]!” _they were to discharge as fast as they
+pleased_.  Fall fired two pistols without effect.  Mr. Robbins’ first
+shot took effect in Fall’s thigh, who fell, and was unable to
+continue the combat.’
 
-                         ‘_Affray in Clarke County_.
+‘_Affray in Clarke County_.
 
-    ‘An _unfortunate affray_ occurred in Clarke county (MO.), near
-    Waterloo, on Tuesday the 19th ult., which originated in settling the
-    partnership concerns of Messrs. M‘Kane and M‘Allister, who had been
-    engaged in the business of distilling, and resulted in the [[Death|death]] of
-    the latter, who was shot down by Mr. M‘Kane, because of his
-    attempting to take possession of seven barrels of whiskey, the
-    property of M‘Kane, which had been knocked off to M‘Allister at a
-    sheriff’s sale at one dollar per barrel.  M‘Kane immediately fled
-    _and at the latest dates had not been taken_.
+‘An _unfortunate affray_ occurred in Clarke county (MO.), near
+Waterloo, on Tuesday the 19th ult., which originated in settling the
+partnership concerns of Messrs. M‘Kane and M‘Allister, who had been
+engaged in the business of distilling, and resulted in the [[Death|death]] of
+the latter, who was shot down by Mr. M‘Kane, because of his
+attempting to take possession of seven barrels of whiskey, the
+property of M‘Kane, which had been knocked off to M‘Allister at a
+sheriff’s sale at one dollar per barrel.  M‘Kane immediately fled
+_and at the latest dates had not been taken_.
 
-    ‘_This unfortunate affray_ caused considerable excitement in the
-    neighbourhood, as both the parties were men with large families
-    depending upon them and stood [[Well|well]] in the community.’
+‘_This unfortunate affray_ caused considerable excitement in the
+neighbourhood, as both the parties were men with large families
+depending upon them and stood [[Well|well]] in the community.’
 
 I will quote but one more paragraph, which, by reason of its monstrous
 absurdity, may be a relief to these atrocious deeds.
 
-                             ‘_Affair of Honour_.
+‘_Affair of Honour_.
 
-    ‘We have just heard the particulars of a meeting which took place on
-    Six Mile Island, on Tuesday, between two young bloods of our [[City|city]]:
-    Samuel Thurston, _aged fifteen_, and William Hine, _aged thirteen_
-    years.  They were attended by young gentlemen of the same age.  The
-    weapons used on the occasion, were a couple of Dickson’s best rifles;
-    the distance, thirty yards.  They took one [[Fire|fire]], without any damage
-    being sustained by either party, except the ball of Thurston’s gun
-    passing through the [[Crown|crown]] of Hine’s hat.  _Through the intercession
-    of the Board of Honour_, the challenge was withdrawn, and the
-    difference amicably adjusted.’
+‘We have just heard the particulars of a meeting which took place on
+Six Mile Island, on Tuesday, between two young bloods of our [[City|city]]:
+Samuel Thurston, _aged fifteen_, and William Hine, _aged thirteen_
+years.  They were attended by young gentlemen of the same age.  The
+weapons used on the occasion, were a couple of Dickson’s best rifles;
+the distance, thirty yards.  They took one [[Fire|fire]], without any damage
+being sustained by either party, except the ball of Thurston’s gun
+passing through the [[Crown|crown]] of Hine’s hat.  _Through the intercession
+of the Board of Honour_, the challenge was withdrawn, and the
+difference amicably adjusted.’
 
 If the reader will picture to himself the kind of Board of [[Honour]] which
 amicably adjusted the difference between these two little boys, who in
@@ -9901,7 +9901,7 @@ thoroughly revised.  There is no local Legislature in [[america|America]] which 
 not study Mr. Chadwick’s excellent Report upon the Sanitary Condition of
 our Labouring Classes, with immense advantage.
 
-                                * * * * *
+* * * * *
 
 I HAVE now arrived at the close of this book.  I have little reason to
 believe, from certain warnings I have had since I returned to England,
@@ -9923,11 +9923,11 @@ breast, towards those partial readers of my former books, across the
 [[Water]], who met me with an open hand, and not with one that closed upon an
 iron muzzle.
 
-                                * * * * *
+* * * * *
 
-                                 THE END
+THE END
 
-                                * * * * *
+* * * * *
 
 
 
@@ -9989,15 +9989,15 @@ this book shall last, I [[Hope|hope]] that they will form a part of it, and will
 be fairly read as inseparable from my experiences and impressions of
 [[america|America]].
 
-                                                          CHARLES DICKENS.
+CHARLES DICKENS.
 
 _May_, 1868.
 
-                                * * * * *
+* * * * *
 
-                                PRINTED BY
-                    WILLIAM CLOWES AND SONS, LIMITED,
-                           [[London|LONDON]] AND BECCLES.
+PRINTED BY
+WILLIAM CLOWES AND SONS, LIMITED,
+[[London|LONDON]] AND BECCLES.
 
 
 
@@ -10022,13 +10022,13 @@ been in [[america|America]], but sufficiently striking to one who has not.
 <span class="atom-split" data-atom="chapter_01" data-title="American Notes — Chapter 18" data-chapter="Chapter 01" data-kind="chapter"></span>
 
 
-                            CHAPTER XVIII
+CHAPTER XVIII
 Concluding Remarks                                              202
 Postscript                                                         210
 
 LIST OF ILLUSTRATIONS
 
-                                                                  PAGE
+PAGE
 EMIGRANTS                   _Marcus Stone_, _R.A._      _Frontispiece_
 THE SOLITARY PRISONER                                               90
 BLACK AND WHITE                                                    112
@@ -11548,7 +11548,7 @@ dropped her mother’s hand; put her handkerchief to her eyes; and turning
 round, clung sobbing to the matron; while her mother departed, with
 emotions as deep as those of her [[Child|child]].
 
-                               * * * * * *
+* * * * * *
 
 ‘It has been remarked in former reports, that she can distinguish
 different degrees of intellect in others, and that she soon regarded,
@@ -11793,7 +11793,7 @@ brighter and more deeply blue, glowing and rich though it had been
 before, was the scene without, contrasting with the darkness of so many
 youthful lives within!
 
-                                * * * * *
+* * * * *
 
 At SOUTH BOSTON, as it is called, in a situation excellently adapted for
 the purpose, several charitable institutions are clustered together.  One
@@ -12158,7 +12158,7 @@ afforded me.
 <span class="atom-split" data-atom="chapter_04--part_12" data-title="American Notes — Chapter 3 (part 12)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
 
-                                * * * * *
+* * * * *
 
 To an Englishman, accustomed to the paraphernalia of Westminster Hall, an
 American [[Court]] of Law is as odd a sight as, I suppose, an English [[Court]]
@@ -13750,7 +13750,7 @@ bed.
 <span class="atom-split" data-atom="chapter_07--part_06" data-title="American Notes — Chapter 6 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
-                                * * * * *
+* * * * *
 
 One day, during my stay in [[New York]], I paid a visit to the different
 public institutions on Long Island, or Rhode Island: I forget which.  One
@@ -14379,7 +14379,7 @@ but whether bird, or beast, or muffled human shape, he cannot tell.
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="American Notes — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
 
-                     [Picture: The Solitary Prisoner]
+[Picture: The Solitary Prisoner]
 
 When he is in his cell by day, he fears the little yard without.  When he
 is in the yard, he dreads to re-enter the cell.  When [[Night|night]] comes, there
@@ -15172,7 +15172,7 @@ fancies he had poured out among them.  Long may he dispense such
 treasures with unsparing hand; and long may they remember him as
 worthily!
 
-                                * * * * *
+* * * * *
 
 The term we had assigned for the duration of our stay in Washington was
 now at an end, and we were to begin to travel; for the railroad distances
@@ -15489,7 +15489,7 @@ were safe.  The black in Sinbad’s Travels with one eye in the middle of
 his forehead which shone like a burning coal, was [[Nature|nature]]’s [[aristocrat]]
 compared with this white gentleman.
 
-                        [Picture: Black and White]
+[Picture: Black and White]
 
 It was between six and seven o’[[Clock|clock]] in the evening, when we drove to the
 hotel: in front of which, and on the top of the broad flight of steps
@@ -17027,7 +17027,7 @@ after their [[Marriage|marriage]].
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="American Notes — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
 
 
-                        [Picture: The Little Wife]
+[Picture: The Little Wife]
 
 [[Well]], to be sure, there never was a little woman so full of [[Hope|hope]], and
 tenderness, and [[Love|love]], and anxiety, as this little woman was: and all day
@@ -18618,7 +18618,7 @@ human [[Nature|nature]] there, to read this simple lesson in the book of Life.
 <span class="atom-split" data-atom="chapter_16--part_05" data-title="American Notes — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
 
-                                * * * * *
+* * * * *
 
 We left Montreal for [[New York]] again, on the thirtieth of May, crossing to
 La Prairie, on the opposite shore of the St. Lawrence, in a steamboat; we
@@ -19396,19 +19396,19 @@ but it is the law.
 Public opinion is deferred to, in such cases as the following: which is
 headed in the newspapers:—
 
-                           ‘_Interesting Law-Case_.
+‘_Interesting Law-Case_.
 
-    ‘An interesting case is now on trial in the Supreme [[Court]], arising
-    out of the following facts.  A gentleman residing in Maryland had
-    allowed an aged pair of his slaves, substantial though not legal
-    [[Freedom|freedom]] for several years.  While thus living, a daughter was born to
-    them, who grew up in the same liberty, until she married a free
-    negro, and went with him to reside in Pennsylvania.  They had several
-    children, and lived unmolested until the original owner died, when
-    his heir attempted to regain them; but the magistrate before whom
-    they were brought, decided that he had no jurisdiction in the case.
-    _The owner seized the woman and her children in the night_, _and
-    carried them to Maryland_.’
+‘An interesting case is now on trial in the Supreme [[Court]], arising
+out of the following facts.  A gentleman residing in Maryland had
+allowed an aged pair of his slaves, substantial though not legal
+[[Freedom|freedom]] for several years.  While thus living, a daughter was born to
+them, who grew up in the same liberty, until she married a free
+negro, and went with him to reside in Pennsylvania.  They had several
+children, and lived unmolested until the original owner died, when
+his heir attempted to regain them; but the magistrate before whom
+they were brought, decided that he had no jurisdiction in the case.
+_The owner seized the woman and her children in the night_, _and
+carried them to Maryland_.’
 
 ‘Cash for negroes,’ ‘cash for negroes,’ ‘cash for negroes,’ is the
 heading of advertisements in great capitals down the long columns of the
@@ -19436,26 +19436,26 @@ The following are a few specimens of the advertisements in the public
 papers.  It is only four years since the oldest among them appeared; and
 others of the same [[Nature|nature]] continue to be published every day, in shoals.
 
-    ‘Ran away, Negress Caroline.  Had on a collar with one prong turned
-    down.’
+‘Ran away, Negress Caroline.  Had on a collar with one prong turned
+down.’
 
-    ‘Ran away, a black woman, Betsy.  Had an iron bar on her right leg.’
+‘Ran away, a black woman, Betsy.  Had an iron bar on her right leg.’
 
-    ‘Ran away, the negro Manuel.  Much marked with irons.’
+‘Ran away, the negro Manuel.  Much marked with irons.’
 
-    ‘Ran away, the negress Fanny.  Had on an iron band about her neck.’
+‘Ran away, the negress Fanny.  Had on an iron band about her neck.’
 
-    ‘Ran away, a negro boy about twelve years old.  Had round his neck a
-    chain dog-collar with “De Lampert” engraved on it.’
+‘Ran away, a negro boy about twelve years old.  Had round his neck a
+chain dog-collar with “De Lampert” engraved on it.’
 
-    ‘Ran away, the negro Hown.  Has a ring of iron on his left foot.
-    Also, Grise, _his wife_, having a ring and chain on the left leg.’
+‘Ran away, the negro Hown.  Has a ring of iron on his left foot.
+Also, Grise, _his wife_, having a ring and chain on the left leg.’
 
-    ‘Ran away, a negro boy named James.  Said boy was ironed when he left
-    me.’
+‘Ran away, a negro boy named James.  Said boy was ironed when he left
+me.’
 
-    ‘Committed to jail, a man who calls his name John.  He has a clog of
-    iron on his right foot which will weigh four or five pounds.’
+‘Committed to jail, a man who calls his name John.  He has a clog of
+iron on his right foot which will weigh four or five pounds.’
 
 
 
@@ -19463,85 +19463,85 @@ others of the same [[Nature|nature]] continue to be published every day, in shoa
 <span class="atom-split" data-atom="chapter_18--part_03" data-title="American Notes — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
 
 
-    ‘Detained at the police jail, the negro wench, Myra.  Has several
-    marks of LASHING, and has irons on her feet.’
+‘Detained at the police jail, the negro wench, Myra.  Has several
+marks of LASHING, and has irons on her feet.’
 
-    ‘Ran away, a negro woman and two children.  A few days before she
-    went off, I burnt her with a hot iron, on the left side of her face.
-    I tried to make the letter M.’
+‘Ran away, a negro woman and two children.  A few days before she
+went off, I burnt her with a hot iron, on the left side of her face.
+I tried to make the letter M.’
 
-    ‘Ran away, a negro man named Henry; his left eye out, some scars from
-    a dirk on and under his left arm, and much scarred with the whip.’
+‘Ran away, a negro man named Henry; his left eye out, some scars from
+a dirk on and under his left arm, and much scarred with the whip.’
 
-    ‘One hundred dollars reward, for a negro fellow, [[Pompey]], 40 years
-    old.  He is branded on the left jaw.’
+‘One hundred dollars reward, for a negro fellow, [[Pompey]], 40 years
+old.  He is branded on the left jaw.’
 
-    ‘Committed to jail, a negro man.  Has no toes on the left foot.’
+‘Committed to jail, a negro man.  Has no toes on the left foot.’
 
-    ‘Ran away, a negro woman named Rachel.  Has lost all her toes except
-    the large one.’
+‘Ran away, a negro woman named Rachel.  Has lost all her toes except
+the large one.’
 
-    ‘Ran away, Sam.  He was shot a short [[Time|time]] since through the hand, and
-    has several shots in his left arm and side.’
+‘Ran away, Sam.  He was shot a short [[Time|time]] since through the hand, and
+has several shots in his left arm and side.’
 
-    ‘Ran away, my negro man Dennis.  Said negro has been shot in the left
-    arm between the shoulder and elbow, which has paralysed the left
-    hand.’
+‘Ran away, my negro man Dennis.  Said negro has been shot in the left
+arm between the shoulder and elbow, which has paralysed the left
+hand.’
 
-    ‘Ran away, my negro man named Simon.  He has been shot badly, in his
-    back and right arm.’
+‘Ran away, my negro man named Simon.  He has been shot badly, in his
+back and right arm.’
 
-    ‘Ran away, a negro named [[arthur|Arthur]].  Has a considerable scar across his
-    breast and each arm, made by a knife; loves to talk much of the
-    goodness of God.’
+‘Ran away, a negro named [[arthur|Arthur]].  Has a considerable scar across his
+breast and each arm, made by a knife; loves to talk much of the
+goodness of God.’
 
-    ‘Twenty-five dollars reward for my man Isaac.  He has a scar on his
-    forehead, caused by a blow; and one on his back, made by a shot from
-    a [[Pistol|pistol]].’
+‘Twenty-five dollars reward for my man Isaac.  He has a scar on his
+forehead, caused by a blow; and one on his back, made by a shot from
+a [[Pistol|pistol]].’
 
-    ‘Ran away, a negro girl called Mary.  Has a small scar over her eye,
-    a good many teeth missing, the letter A is branded on her cheek and
-    forehead.’
+‘Ran away, a negro girl called Mary.  Has a small scar over her eye,
+a good many teeth missing, the letter A is branded on her cheek and
+forehead.’
 
-    ‘Ran away, negro Ben.  Has a scar on his right hand; his thumb and
-    forefinger being injured by being shot last fall.  A part of the bone
-    came out.  He has also one or two large scars on his back and hips.’
+‘Ran away, negro Ben.  Has a scar on his right hand; his thumb and
+forefinger being injured by being shot last fall.  A part of the bone
+came out.  He has also one or two large scars on his back and hips.’
 
-    ‘Detained at the jail, a mulatto, named Tom.  Has a scar on the right
-    cheek, and appears to have been burned with powder on the face.’
+‘Detained at the jail, a mulatto, named Tom.  Has a scar on the right
+cheek, and appears to have been burned with powder on the face.’
 
-    ‘Ran away, a negro man named Ned.  Three of his fingers are drawn
-    into the palm of his hand by a cut.  Has a scar on the back of his
-    neck, nearly half round, done by a knife.’
+‘Ran away, a negro man named Ned.  Three of his fingers are drawn
+into the palm of his hand by a cut.  Has a scar on the back of his
+neck, nearly half round, done by a knife.’
 
-    ‘Was committed to jail, a negro man.  Says his name is Josiah.  His
-    back very much scarred by the whip; and branded on the thigh and hips
-    in three or four places, thus (J M).  The rim of his right ear has
-    been bit or cut off.’
+‘Was committed to jail, a negro man.  Says his name is Josiah.  His
+back very much scarred by the whip; and branded on the thigh and hips
+in three or four places, thus (J M).  The rim of his right ear has
+been bit or cut off.’
 
-    ‘Fifty dollars reward, for my fellow Edward.  He has a scar on the
-    corner of his mouth, two cuts on and under his arm, and the letter E
-    on his arm.’
+‘Fifty dollars reward, for my fellow Edward.  He has a scar on the
+corner of his mouth, two cuts on and under his arm, and the letter E
+on his arm.’
 
-    ‘Ran away, negro boy Ellie.  Has a scar on one of his arms from the
-    bite of a dog.’
+‘Ran away, negro boy Ellie.  Has a scar on one of his arms from the
+bite of a dog.’
 
-    ‘Ran away, from the plantation of James Surgette, the following
-    negroes: Randal, has one ear cropped; Bob, has lost one eye; Kentucky
-    Tom, has one jaw broken.’
+‘Ran away, from the plantation of James Surgette, the following
+negroes: Randal, has one ear cropped; Bob, has lost one eye; Kentucky
+Tom, has one jaw broken.’
 
-    ‘Ran away, Anthony.  One of his ears cut off, and his left hand cut
-    with an axe.’
+‘Ran away, Anthony.  One of his ears cut off, and his left hand cut
+with an axe.’
 
-    ‘Fifty dollars reward for the negro Jim Blake.  Has a piece cut out
-    of each ear, and the middle finger of the left hand cut off to the
-    second joint.’
+‘Fifty dollars reward for the negro Jim Blake.  Has a piece cut out
+of each ear, and the middle finger of the left hand cut off to the
+second joint.’
 
-    ‘Ran away, a negro woman named [[Maria]].  Has a scar on one side of her
-    cheek, by a cut.  Some scars on her back.’
+‘Ran away, a negro woman named [[Maria]].  Has a scar on one side of her
+cheek, by a cut.  Some scars on her back.’
 
-    ‘Ran away, the Mulatto wench Mary.  Has a cut on the left arm, a scar
-    on the left shoulder, and two upper teeth missing.’
+‘Ran away, the Mulatto wench Mary.  Has a cut on the left arm, a scar
+on the left shoulder, and two upper teeth missing.’
 
 I should say, perhaps, in explanation of this latter piece of
 description, that among the other blessings which public opinion secures
@@ -19549,42 +19549,42 @@ to the negroes, is the common practice of violently punching out their
 teeth.  To make them wear iron collars by day and [[Night|night]], and to worry
 them with [[dogs]], are practices almost too ordinary to deserve mention.
 
-    ‘Ran away, my man Fountain.  Has holes in his ears, a scar on the
-    right side of his forehead, has been shot in the hind part of his
-    legs, and is marked on the back with the whip.’
+‘Ran away, my man Fountain.  Has holes in his ears, a scar on the
+right side of his forehead, has been shot in the hind part of his
+legs, and is marked on the back with the whip.’
 
-    ‘Two hundred and fifty dollars reward for my negro man Jim.  He is
-    much marked with shot in his right thigh.  The shot entered on the
-    outside, halfway between the hip and knee joints.’
+‘Two hundred and fifty dollars reward for my negro man Jim.  He is
+much marked with shot in his right thigh.  The shot entered on the
+outside, halfway between the hip and knee joints.’
 
-    ‘Brought to jail, John.  Left ear cropt.’
+‘Brought to jail, John.  Left ear cropt.’
 
-    ‘Taken up, a negro man.  Is very much scarred about the face and
-    [[Body|body]], and has the left ear bit off.’
+‘Taken up, a negro man.  Is very much scarred about the face and
+[[Body|body]], and has the left ear bit off.’
 
-    ‘Ran away, a black girl, named Mary.  Has a scar on her cheek, and
-    the end of one of her toes cut off.’
+‘Ran away, a black girl, named Mary.  Has a scar on her cheek, and
+the end of one of her toes cut off.’
 
-    ‘Ran away, my Mulatto woman, Judy.  She has had her right arm broke.’
+‘Ran away, my Mulatto woman, Judy.  She has had her right arm broke.’
 
-    ‘Ran away, my negro man, Levi.  His left hand has been burnt, and I
-    think the end of his forefinger is off.’
+‘Ran away, my negro man, Levi.  His left hand has been burnt, and I
+think the end of his forefinger is off.’
 
-    ‘Ran away, a negro man, NAMED WASHINGTON.  Has lost a part of his
-    middle finger, and the end of his little finger.’
+‘Ran away, a negro man, NAMED WASHINGTON.  Has lost a part of his
+middle finger, and the end of his little finger.’
 
-    ‘Twenty-five dollars reward for my man John.  The tip of his nose is
-    bit off.’
+‘Twenty-five dollars reward for my man John.  The tip of his nose is
+bit off.’
 
-    ‘Twenty-five dollars reward for the negro slave, Sally.  Walks _as
-    though_ crippled in the back.’
+‘Twenty-five dollars reward for the negro slave, Sally.  Walks _as
+though_ crippled in the back.’
 
-    ‘Ran away, Joe Dennis.  Has a small notch in one of his ears.’
+‘Ran away, Joe Dennis.  Has a small notch in one of his ears.’
 
-    ‘Ran away, negro boy, Jack.  Has a small crop out of his left ear.’
+‘Ran away, negro boy, Jack.  Has a small crop out of his left ear.’
 
-    ‘Ran away, a negro man, named Ivory.  Has a small piece cut out of
-    the top of each ear.’
+‘Ran away, a negro man, named Ivory.  Has a small piece cut out of
+the top of each ear.’
 
 While upon the subject of ears, I may observe that a distinguished
 abolitionist in [[New York]] once received a negro’s ear, which had been cut
@@ -19632,91 +19632,91 @@ class of outrages and the rest; lead to the just presumption that the
 character of the parties concerned was formed in slave districts, and
 brutalised by slave customs.
 
-                             ‘_Horrible Tragedy_.
+‘_Horrible Tragedy_.
 
-    ‘By a slip from _The Southport Telegraph_, Wisconsin, we learn that
-    the Hon. Charles C. P. Arndt, Member of the Council for Brown county,
-    was shot dead _on the floor of the Council chamber_, by James R.
-    Vinyard, Member from Grant county.  _The affair_ grew out of a
-    nomination for Sheriff of Grant county.  Mr. E. S. Baker was
-    nominated and supported by Mr. Arndt.  This nomination was opposed by
-    Vinyard, who wanted the appointment to vest in his own brother.  In
-    the course of [[debate]], the deceased made some statements which Vinyard
-    pronounced false, and made use of violent and insulting language,
-    dealing largely in personalities, to which Mr. A. made no reply.
-    After the adjournment, Mr. A. stepped up to Vinyard, and requested
-    him to retract, which he refused to do, repeating the offensive
-    words.  Mr. Arndt then made a blow at Vinyard, who stepped back a
-    pace, drew a [[Pistol|pistol]], and shot him dead.
+‘By a slip from _The Southport Telegraph_, Wisconsin, we learn that
+the Hon. Charles C. P. Arndt, Member of the Council for Brown county,
+was shot dead _on the floor of the Council chamber_, by James R.
+Vinyard, Member from Grant county.  _The affair_ grew out of a
+nomination for Sheriff of Grant county.  Mr. E. S. Baker was
+nominated and supported by Mr. Arndt.  This nomination was opposed by
+Vinyard, who wanted the appointment to vest in his own brother.  In
+the course of [[debate]], the deceased made some statements which Vinyard
+pronounced false, and made use of violent and insulting language,
+dealing largely in personalities, to which Mr. A. made no reply.
+After the adjournment, Mr. A. stepped up to Vinyard, and requested
+him to retract, which he refused to do, repeating the offensive
+words.  Mr. Arndt then made a blow at Vinyard, who stepped back a
+pace, drew a [[Pistol|pistol]], and shot him dead.
 
-    ‘The issue appears to have been provoked on the part of Vinyard, who
-    was determined at all hazards to defeat the appointment of Baker, and
-    who, himself defeated, turned his ire and [[Revenge|revenge]] upon the
-    unfortunate Arndt.’
+‘The issue appears to have been provoked on the part of Vinyard, who
+was determined at all hazards to defeat the appointment of Baker, and
+who, himself defeated, turned his ire and [[Revenge|revenge]] upon the
+unfortunate Arndt.’
 
-                          ‘_The Wisconsin Tragedy_.
+‘_The Wisconsin Tragedy_.
 
-    Public indignation runs high in the territory of Wisconsin, in
-    relation to the murder of C. C. P. Arndt, in the Legislative Hall of
-    the Territory.  Meetings have been held in different counties of
-    Wisconsin, denouncing _the practice of secretly bearing arms in the
-    Legislative chambers of the country_.  We have seen the account of
-    the expulsion of James R. Vinyard, the perpetrator of the bloody
-    deed, and are amazed to hear, that, after this expulsion by those who
-    saw Vinyard kill Mr. Arndt in the presence of his aged father, who
-    was on a visit to see his son, little dreaming that he was to witness
-    his murder, _Judge Dunn has discharged Vinyard on bail_.  The Miners’
-    Free Press speaks _in terms of merited rebuke_ at the outrage upon
-    the feelings of the people of Wisconsin.  Vinyard was within arm’s
-    length of Mr. Arndt, when he took such deadly aim at him, that he
-    never spoke.  Vinyard might at pleasure, being so near, have only
-    wounded him, but he chose to kill him.’
+Public indignation runs high in the territory of Wisconsin, in
+relation to the murder of C. C. P. Arndt, in the Legislative Hall of
+the Territory.  Meetings have been held in different counties of
+Wisconsin, denouncing _the practice of secretly bearing arms in the
+Legislative chambers of the country_.  We have seen the account of
+the expulsion of James R. Vinyard, the perpetrator of the bloody
+deed, and are amazed to hear, that, after this expulsion by those who
+saw Vinyard kill Mr. Arndt in the presence of his aged father, who
+was on a visit to see his son, little dreaming that he was to witness
+his murder, _Judge Dunn has discharged Vinyard on bail_.  The Miners’
+Free Press speaks _in terms of merited rebuke_ at the outrage upon
+the feelings of the people of Wisconsin.  Vinyard was within arm’s
+length of Mr. Arndt, when he took such deadly aim at him, that he
+never spoke.  Vinyard might at pleasure, being so near, have only
+wounded him, but he chose to kill him.’
 
-                                  ‘_Murder_.
+‘_Murder_.
 
-    By a letter in a St. Louis paper of the ‘4th, we notice a terrible
-    outrage at Burlington, Iowa.  A Mr. Bridgman having had a difficulty
-    with a citizen of the place, Mr. Ross; a brother-in-law of the latter
-    provided himself with one of Colt’s revolving pistols, met Mr. B. in
-    the street, _and discharged the contents of five of the barrels at
-    him_: _each shot taking effect_.  Mr. B., though horribly wounded,
-    and dying, returned the [[Fire|fire]], and killed Ross on the spot.’
+By a letter in a St. Louis paper of the ‘4th, we notice a terrible
+outrage at Burlington, Iowa.  A Mr. Bridgman having had a difficulty
+with a citizen of the place, Mr. Ross; a brother-in-law of the latter
+provided himself with one of Colt’s revolving pistols, met Mr. B. in
+the street, _and discharged the contents of five of the barrels at
+him_: _each shot taking effect_.  Mr. B., though horribly wounded,
+and dying, returned the [[Fire|fire]], and killed Ross on the spot.’
 
-                     ‘_Terrible [[Death]] of Robert Potter_.
+‘_Terrible [[Death]] of Robert Potter_.
 
-    ‘From the “Caddo Gazette,” of the 12th inst., we learn the frightful
-    [[Death|death]] of Colonel Robert Potter. . . . He was beset in his [[house]] by an
-    enemy, named [[Rose]].  He sprang from his couch, seized his gun, and, in
-    his [[Night|night]]-clothes, rushed from the [[house]].  For about two hundred
-    yards his [[Speed|speed]] seemed to defy his pursuers; but, getting entangled
-    in a thicket, he was captured.  [[Rose]] told him _that he intended to
-    act a generous part_, and give him a chance for his life.  He then
-    told Potter he might run, and he should not be interrupted till he
-    reached a certain distance.  Potter started at the word of command,
-    and before a gun was fired he had reached the lake.  His first
-    impulse was to jump in the [[Water|water]] and dive for it, which he did.  [[Rose]]
-    was close behind him, and formed his men on the bank ready to shoot
-    him as he [[Rose|rose]].  In a few seconds he came up to breathe; and scarce
-    had his head reached the surface of the [[Water|water]] when it was completely
-    riddled with the shot of their guns, and he sunk, to rise no more!’
+‘From the “Caddo Gazette,” of the 12th inst., we learn the frightful
+[[Death|death]] of Colonel Robert Potter. . . . He was beset in his [[house]] by an
+enemy, named [[Rose]].  He sprang from his couch, seized his gun, and, in
+his [[Night|night]]-clothes, rushed from the [[house]].  For about two hundred
+yards his [[Speed|speed]] seemed to defy his pursuers; but, getting entangled
+in a thicket, he was captured.  [[Rose]] told him _that he intended to
+act a generous part_, and give him a chance for his life.  He then
+told Potter he might run, and he should not be interrupted till he
+reached a certain distance.  Potter started at the word of command,
+and before a gun was fired he had reached the lake.  His first
+impulse was to jump in the [[Water|water]] and dive for it, which he did.  [[Rose]]
+was close behind him, and formed his men on the bank ready to shoot
+him as he [[Rose|rose]].  In a few seconds he came up to breathe; and scarce
+had his head reached the surface of the [[Water|water]] when it was completely
+riddled with the shot of their guns, and he sunk, to rise no more!’
 
-                            ‘_Murder in Arkansas_.
+‘_Murder in Arkansas_.
 
-    ‘We understand _that a severe rencontre came off_ a few days since in
-    the Seneca Nation, between Mr. Loose, the sub-agent of the mixed band
-    of the Senecas, Quapaw, and Shawnees, and Mr. James Gillespie, of the
-    mercantile firm of Thomas G. Allison and Co., of Maysville, Benton,
-    County Ark, in which the latter was slain with a bowie-knife.  Some
-    difficulty had for some [[Time|time]] existed between the parties.  It is said
-    that Major Gillespie brought on the attack with a cane.  A severe
-    conflict ensued, during which two pistols were fired by Gillespie and
-    one by Loose.  Loose then stabbed Gillespie with one of those
-    never-failing weapons, a bowie-knife.  The [[Death|death]] of Major G. is much
-    regretted, as he was a liberal-minded and energetic man.  Since the
-    above was in type, we have learned that Major Allison has stated to
-    some of our citizens in town that Mr. Loose gave the first blow.  We
-    forbear to give any particulars, as _the matter will be the subject
-    of judicial investigation_.’
+‘We understand _that a severe rencontre came off_ a few days since in
+the Seneca Nation, between Mr. Loose, the sub-agent of the mixed band
+of the Senecas, Quapaw, and Shawnees, and Mr. James Gillespie, of the
+mercantile firm of Thomas G. Allison and Co., of Maysville, Benton,
+County Ark, in which the latter was slain with a bowie-knife.  Some
+difficulty had for some [[Time|time]] existed between the parties.  It is said
+that Major Gillespie brought on the attack with a cane.  A severe
+conflict ensued, during which two pistols were fired by Gillespie and
+one by Loose.  Loose then stabbed Gillespie with one of those
+never-failing weapons, a bowie-knife.  The [[Death|death]] of Major G. is much
+regretted, as he was a liberal-minded and energetic man.  Since the
+above was in type, we have learned that Major Allison has stated to
+some of our citizens in town that Mr. Loose gave the first blow.  We
+forbear to give any particulars, as _the matter will be the subject
+of judicial investigation_.’
 
 
 
@@ -19724,121 +19724,121 @@ brutalised by slave customs.
 <span class="atom-split" data-atom="chapter_18--part_05" data-title="American Notes — Chapter 17 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
 
 
-                                ‘_Foul Deed_.
+‘_Foul Deed_.
 
-    The steamer Thames, just from Missouri [[River|river]], brought us a handbill,
-    offering a reward of 500 dollars, for the person who assassinated
-    Lilburn W. Baggs, late Governor of this State, at Independence, on
-    the [[Night|night]] of the 6th inst.  Governor Baggs, it is stated in a written
-    memorandum, was not dead, but mortally wounded.
+The steamer Thames, just from Missouri [[River|river]], brought us a handbill,
+offering a reward of 500 dollars, for the person who assassinated
+Lilburn W. Baggs, late Governor of this State, at Independence, on
+the [[Night|night]] of the 6th inst.  Governor Baggs, it is stated in a written
+memorandum, was not dead, but mortally wounded.
 
-    ‘Since the above was written, we received a note from the clerk of
-    the Thames, giving the following particulars.  Gov. Baggs was shot by
-    some [[Villain|villain]] on Friday, 6th inst., in the evening, while sitting in a
-    room in his own [[house]] in Independence.  His son, a boy, hearing a
-    report, ran into the room, and found the Governor sitting in his
-    chair, with his jaw fallen down, and his head leaning back; on
-    discovering the injury done to his father, he gave the alarm.  Foot
-    tracks were found in the [[Garden|garden]] below the [[Window|window]], and a [[Pistol|pistol]] picked
-    up supposed to have been overloaded, and thrown from the hand of the
-    scoundrel who fired it.  Three buck shots of a heavy load, took
-    effect; one going through his mouth, one into the brain, and another
-    probably in or near the brain; all going into the back part of the
-    neck and head.  The Governor was still alive on the morning of the
-    7th; but no hopes for his recovery by his friends, and but slight
-    hopes from his physicians.
+‘Since the above was written, we received a note from the clerk of
+the Thames, giving the following particulars.  Gov. Baggs was shot by
+some [[Villain|villain]] on Friday, 6th inst., in the evening, while sitting in a
+room in his own [[house]] in Independence.  His son, a boy, hearing a
+report, ran into the room, and found the Governor sitting in his
+chair, with his jaw fallen down, and his head leaning back; on
+discovering the injury done to his father, he gave the alarm.  Foot
+tracks were found in the [[Garden|garden]] below the [[Window|window]], and a [[Pistol|pistol]] picked
+up supposed to have been overloaded, and thrown from the hand of the
+scoundrel who fired it.  Three buck shots of a heavy load, took
+effect; one going through his mouth, one into the brain, and another
+probably in or near the brain; all going into the back part of the
+neck and head.  The Governor was still alive on the morning of the
+7th; but no hopes for his recovery by his friends, and but slight
+hopes from his physicians.
 
-    ‘A man was suspected, and the Sheriff most probably has possession of
-    him by this [[Time|time]].
+‘A man was suspected, and the Sheriff most probably has possession of
+him by this [[Time|time]].
 
-    ‘The [[Pistol|pistol]] was one of a pair stolen some days previous from a baker
-    in Independence, and the legal authorities have the description of
-    the other.’
+‘The [[Pistol|pistol]] was one of a pair stolen some days previous from a baker
+in Independence, and the legal authorities have the description of
+the other.’
 
-                                ‘_Rencontre_.
+‘_Rencontre_.
 
-    ‘An unfortunate _affair_ took place on Friday evening in Chatres
-    Street, in which one of our most respectable citizens received a
-    dangerous wound, from a poignard, in the abdomen.  From the Bee (New
-    Orleans) of yesterday, we learn the following particulars.  It
-    appears that an article was published in the French side of the paper
-    on Monday last, containing some strictures on the Artillery Battalion
-    for firing their guns on [[Sunday]] morning, in answer to those from the
-    Ontario and Woodbury, and thereby much alarm was caused to the
-    families of those persons who were out all [[Night|night]] preserving the peace
-    of the [[City|city]].  Major C. Gally, Commander of the battalion, resenting
-    this, called at the office and demanded the author’s name; that of
-    Mr. P. Arpin was given to him, who was absent at the [[Time|time]].  Some
-    angry words then passed with one of the proprietors, and a challenge
-    followed; the friends of both parties tried to arrange the affair,
-    but failed to do so.  On Friday evening, about seven o’[[Clock|clock]], Major
-    Gally met Mr. P. Arpin in Chatres Street, and accosted him.  “Are you
-    Mr. Arpin?”
+‘An unfortunate _affair_ took place on Friday evening in Chatres
+Street, in which one of our most respectable citizens received a
+dangerous wound, from a poignard, in the abdomen.  From the Bee (New
+Orleans) of yesterday, we learn the following particulars.  It
+appears that an article was published in the French side of the paper
+on Monday last, containing some strictures on the Artillery Battalion
+for firing their guns on [[Sunday]] morning, in answer to those from the
+Ontario and Woodbury, and thereby much alarm was caused to the
+families of those persons who were out all [[Night|night]] preserving the peace
+of the [[City|city]].  Major C. Gally, Commander of the battalion, resenting
+this, called at the office and demanded the author’s name; that of
+Mr. P. Arpin was given to him, who was absent at the [[Time|time]].  Some
+angry words then passed with one of the proprietors, and a challenge
+followed; the friends of both parties tried to arrange the affair,
+but failed to do so.  On Friday evening, about seven o’[[Clock|clock]], Major
+Gally met Mr. P. Arpin in Chatres Street, and accosted him.  “Are you
+Mr. Arpin?”
 
-    ‘“Yes, sir.”
+‘“Yes, sir.”
 
-    ‘“Then I have to tell you that you are a—” (applying an appropriate
-    epithet).
+‘“Then I have to tell you that you are a—” (applying an appropriate
+epithet).
 
-    ‘“I shall remind you of your words, sir.”
+‘“I shall remind you of your words, sir.”
 
-    ‘“But I have said I would break my cane on your shoulders.”
+‘“But I have said I would break my cane on your shoulders.”
 
-    ‘“I know it, but I have not yet received the blow.”
+‘“I know it, but I have not yet received the blow.”
 
-    ‘At these words, Major Gally, having a cane in his hands, struck Mr.
-    Arpin across the face, and the latter drew a poignard from his pocket
-    and stabbed Major Gally in the abdomen.
+‘At these words, Major Gally, having a cane in his hands, struck Mr.
+Arpin across the face, and the latter drew a poignard from his pocket
+and stabbed Major Gally in the abdomen.
 
-    ‘Fears are entertained that the wound will be mortal.  _We understand
-    that Mr. Arpin has given security for his appearance at the Criminal
-    [[Court]] to answer the charge_.’
+‘Fears are entertained that the wound will be mortal.  _We understand
+that Mr. Arpin has given security for his appearance at the Criminal
+[[Court]] to answer the charge_.’
 
-                          ‘_Affray in Mississippi_.
+‘_Affray in Mississippi_.
 
-    ‘On the 27th ult., in an affray near Carthage, Leake county,
-    Mississippi, between James Cottingham and John Wilburn, the latter
-    was shot by the former, and so horribly wounded, that there was no
-    [[Hope|hope]] of his recovery.  On the 2nd instant, there was an affray at
-    Carthage between A. C. Sharkey and George Goff, in which the latter
-    was shot, and thought mortally wounded.  Sharkey delivered himself up
-    to the authorities, _but changed his mind and escaped_!’
+‘On the 27th ult., in an affray near Carthage, Leake county,
+Mississippi, between James Cottingham and John Wilburn, the latter
+was shot by the former, and so horribly wounded, that there was no
+[[Hope|hope]] of his recovery.  On the 2nd instant, there was an affray at
+Carthage between A. C. Sharkey and George Goff, in which the latter
+was shot, and thought mortally wounded.  Sharkey delivered himself up
+to the authorities, _but changed his mind and escaped_!’
 
-                            ‘_Personal Encounter_.
+‘_Personal Encounter_.
 
-    ‘An encounter took place in Sparta, a few days since, between the
-    barkeeper of an hotel, and a man named Bury.  It appears that Bury
-    had become somewhat noisy, _and that the barkeeper_, _determined to
-    preserve order_, _had threatened to shoot Bury_, whereupon Bury drew
-    a [[Pistol|pistol]] and shot the barkeeper down.  He was not dead at the last
-    accounts, but slight hopes were entertained of his recovery.’
+‘An encounter took place in Sparta, a few days since, between the
+barkeeper of an hotel, and a man named Bury.  It appears that Bury
+had become somewhat noisy, _and that the barkeeper_, _determined to
+preserve order_, _had threatened to shoot Bury_, whereupon Bury drew
+a [[Pistol|pistol]] and shot the barkeeper down.  He was not dead at the last
+accounts, but slight hopes were entertained of his recovery.’
 
-                                   ‘_Duel_.
+‘_Duel_.
 
-    ‘The clerk of the steamboat _Tribune_ informs us that another duel
-    was fought on Tuesday last, by Mr. Robbins, a bank officer in
-    Vicksburg, and Mr. Fall, the editor of the Vicksburg Sentinel.
-    According to the arrangement, the parties had six pistols each,
-    which, after the word “[[Fire]]!” _they were to discharge as fast as they
-    pleased_.  Fall fired two pistols without effect.  Mr. Robbins’ first
-    shot took effect in Fall’s thigh, who fell, and was unable to
-    continue the combat.’
+‘The clerk of the steamboat _Tribune_ informs us that another duel
+was fought on Tuesday last, by Mr. Robbins, a bank officer in
+Vicksburg, and Mr. Fall, the editor of the Vicksburg Sentinel.
+According to the arrangement, the parties had six pistols each,
+which, after the word “[[Fire]]!” _they were to discharge as fast as they
+pleased_.  Fall fired two pistols without effect.  Mr. Robbins’ first
+shot took effect in Fall’s thigh, who fell, and was unable to
+continue the combat.’
 
-                         ‘_Affray in Clarke County_.
+‘_Affray in Clarke County_.
 
-    ‘An _unfortunate affray_ occurred in Clarke county (MO.), near
-    Waterloo, on Tuesday the 19th ult., which originated in settling the
-    partnership concerns of Messrs. M‘Kane and M‘Allister, who had been
-    engaged in the business of distilling, and resulted in the [[Death|death]] of
-    the latter, who was shot down by Mr. M‘Kane, because of his
-    attempting to take possession of seven barrels of whiskey, the
-    property of M‘Kane, which had been knocked off to M‘Allister at a
-    sheriff’s sale at one dollar per barrel.  M‘Kane immediately fled
-    _and at the latest dates had not been taken_.
+‘An _unfortunate affray_ occurred in Clarke county (MO.), near
+Waterloo, on Tuesday the 19th ult., which originated in settling the
+partnership concerns of Messrs. M‘Kane and M‘Allister, who had been
+engaged in the business of distilling, and resulted in the [[Death|death]] of
+the latter, who was shot down by Mr. M‘Kane, because of his
+attempting to take possession of seven barrels of whiskey, the
+property of M‘Kane, which had been knocked off to M‘Allister at a
+sheriff’s sale at one dollar per barrel.  M‘Kane immediately fled
+_and at the latest dates had not been taken_.
 
-    ‘_This unfortunate affray_ caused considerable excitement in the
-    neighbourhood, as both the parties were men with large families
-    depending upon them and stood [[Well|well]] in the community.’
+‘_This unfortunate affray_ caused considerable excitement in the
+neighbourhood, as both the parties were men with large families
+depending upon them and stood [[Well|well]] in the community.’
 
 
 
@@ -19849,18 +19849,18 @@ brutalised by slave customs.
 I will quote but one more paragraph, which, by reason of its monstrous
 absurdity, may be a relief to these atrocious deeds.
 
-                             ‘_Affair of Honour_.
+‘_Affair of Honour_.
 
-    ‘We have just heard the particulars of a meeting which took place on
-    Six Mile Island, on Tuesday, between two young bloods of our [[City|city]]:
-    Samuel Thurston, _aged fifteen_, and William Hine, _aged thirteen_
-    years.  They were attended by young gentlemen of the same age.  The
-    weapons used on the occasion, were a couple of Dickson’s best rifles;
-    the distance, thirty yards.  They took one [[Fire|fire]], without any damage
-    being sustained by either party, except the ball of Thurston’s gun
-    passing through the [[Crown|crown]] of Hine’s hat.  _Through the intercession
-    of the Board of Honour_, the challenge was withdrawn, and the
-    difference amicably adjusted.’
+‘We have just heard the particulars of a meeting which took place on
+Six Mile Island, on Tuesday, between two young bloods of our [[City|city]]:
+Samuel Thurston, _aged fifteen_, and William Hine, _aged thirteen_
+years.  They were attended by young gentlemen of the same age.  The
+weapons used on the occasion, were a couple of Dickson’s best rifles;
+the distance, thirty yards.  They took one [[Fire|fire]], without any damage
+being sustained by either party, except the ball of Thurston’s gun
+passing through the [[Crown|crown]] of Hine’s hat.  _Through the intercession
+of the Board of Honour_, the challenge was withdrawn, and the
+difference amicably adjusted.’
 
 If the reader will picture to himself the kind of Board of [[Honour]] which
 amicably adjusted the difference between these two little boys, who in
@@ -20252,7 +20252,7 @@ thoroughly revised.  There is no local Legislature in [[america|America]] which 
 not study Mr. Chadwick’s excellent Report upon the Sanitary Condition of
 our Labouring Classes, with immense advantage.
 
-                                * * * * *
+* * * * *
 
 I HAVE now arrived at the close of this book.  I have little reason to
 believe, from certain warnings I have had since I returned to England,
@@ -20280,11 +20280,11 @@ breast, towards those partial readers of my former books, across the
 [[Water]], who met me with an open hand, and not with one that closed upon an
 iron muzzle.
 
-                                * * * * *
+* * * * *
 
-                                 THE END
+THE END
 
-                                * * * * *
+* * * * *
 
 
 
@@ -20346,15 +20346,15 @@ this book shall last, I [[Hope|hope]] that they will form a part of it, and will
 be fairly read as inseparable from my experiences and impressions of
 [[america|America]].
 
-                                                          CHARLES DICKENS.
+CHARLES DICKENS.
 
 _May_, 1868.
 
-                                * * * * *
+* * * * *
 
-                                PRINTED BY
-                    WILLIAM CLOWES AND SONS, LIMITED,
-                           [[London|LONDON]] AND BECCLES.
+PRINTED BY
+WILLIAM CLOWES AND SONS, LIMITED,
+[[London|LONDON]] AND BECCLES.
 
 
 

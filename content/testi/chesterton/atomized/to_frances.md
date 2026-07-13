@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="to_frances" data-title="To Frances" data-chapter="" data-kind="intro"></span>
 
-# [[to-frances]]
 
 G.K. Chesterton to Frances Blogg (189?)
 
@@ -407,7 +406,6 @@ it led me to you.
 
 <span class="atom-split" data-atom="part--part_01" data-title="To Frances (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
 
-# [[to-frances]] (part 1)
 
 G.K. Chesterton to Frances Blogg (189?)
 
@@ -564,7 +562,6 @@ Sono costretto ad ammettere che non credo di essere bravo a far compere. General
 
 <span class="atom-split" data-atom="part--part_02" data-title="To Frances (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
-# [[to-frances]] (part 2)
 
 I rejected the article which was dearer because it had been hallowed
 by human possession, and accepted the cheap, new crude racket.
@@ -688,7 +685,6 @@ I dare not....
 
 <span class="atom-split" data-atom="part--part_03" data-title="To Frances (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
-# [[to-frances]] (part 3)
 
 ... Gilbert Keith Chesterton was born of comfortable but honest
 parents on the top of Campden [[Hill]], Kensington.  He was christened at
@@ -812,7 +808,6 @@ Frequentò per un [[Time|tempo]] una Scuola d'Arte.  Là incontrò moltissime pe
 
 <span class="atom-split" data-atom="part--part_04" data-title="To Frances (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
-# [[to-frances]] (part 4)
 
 One pleasant Saturday afternoon [his friend] Lucian said to him, 'I am
 going to take you to see the Bloggs.'  'The what?' said the unhappy man.

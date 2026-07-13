@@ -60,7 +60,7 @@ But I, I cannot read it
 (Although I run and run),  
 Of them that do not have the [[Faith|faith]],  
 And will not have the fun.  
-          (G. K. Chesterton - 1913)
+(G. K. Chesterton - 1913)
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -111,7 +111,7 @@ ma io, io non so leggerlo
 (per quanto corra e corra),  
 di coloro che non hanno la [[Faith|fede]],  
 e non vogliono avere lo spasso.  
-          (G. K. Chesterton - 1913)
+(G. K. Chesterton - 1913)
 
 
 
@@ -164,7 +164,7 @@ But I, I cannot read it
 (Although I run and run),  
 Of them that do not have the [[Faith|faith]],  
 And will not have the fun.  
-          (G. K. Chesterton - 1913)
+(G. K. Chesterton - 1913)
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -215,4 +215,4 @@ ma io, io non so leggerlo
 (per quanto corra e corra),  
 di coloro che non hanno la [[Faith|fede]],  
 e non vogliono avere lo spasso.  
-          (G. K. Chesterton - 1913)
+(G. K. Chesterton - 1913)

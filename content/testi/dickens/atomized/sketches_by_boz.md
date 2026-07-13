@@ -26770,7 +26770,7 @@ respited during his Majesty’s pleasure.
 
 
 
-<span class="atom-split" data-atom="story_01_preface" data-title="Sketches by Boz — Preface" data-chapter="Story 01 Preface" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_preface" data-title="Sketches by Boz — Preface" data-chapter="Preface" data-kind="story"></span>
 
 
 PREFACE
@@ -26797,7 +26797,7 @@ and there.
 
 
 
-<span class="atom-split" data-atom="story_06_tales" data-title="Sketches by Boz — Tales" data-chapter="Story 06 Tales" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_tales" data-title="Sketches by Boz — Tales" data-chapter="Tales" data-kind="story"></span>
 
 
 TALES
@@ -26810,7 +26810,7 @@ CHAPTER I—THE BOARDING-[[house|HOUSE]]
 
 
 
-<span class="atom-split" data-atom="story_11_sketches_of_young_gentlemen" data-title="Sketches by Boz — Sketches Of Young Gentlemen" data-chapter="Story 11 Sketches Of Young Gentlemen" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_sketches_of_young_gentlemen" data-title="Sketches by Boz — Sketches Of Young Gentlemen" data-chapter="Sketches Of Young Gentlemen" data-kind="story"></span>
 
 
 SKETCHES OF YOUNG GENTLEMEN
@@ -26892,7 +26892,7 @@ And your Dedicator shall ever pray, &c.
 
 
 
-<span class="atom-split" data-atom="story_12_the_bashful_young_gentleman" data-title="Sketches by Boz — The Bashful Young Gentleman" data-chapter="Story 12 The Bashful Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_bashful_young_gentleman" data-title="Sketches by Boz — The Bashful Young Gentleman" data-chapter="The Bashful Young Gentleman" data-kind="story"></span>
 
 
 THE BASHFUL YOUNG GENTLEMAN
@@ -27049,7 +27049,7 @@ this confident assurance to take a patient in hand.
 
 
 
-<span class="atom-split" data-atom="story_13_the_out_and_out_young_gentleman" data-title="Sketches by Boz — The Out-And-Out Young Gentleman" data-chapter="Story 13 The Out And Out Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_out_and_out_young_gentleman" data-title="Sketches by Boz — The Out-And-Out Young Gentleman" data-chapter="The Out And Out Young Gentleman" data-kind="story"></span>
 
 
 THE OUT-AND-OUT YOUNG GENTLEMAN
@@ -27176,7 +27176,7 @@ of construction.
 
 
 
-<span class="atom-split" data-atom="story_14_the_very_friendly_young_gentleman" data-title="Sketches by Boz — The Very Friendly Young Gentleman" data-chapter="Story 14 The Very Friendly Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_very_friendly_young_gentleman" data-title="Sketches by Boz — The Very Friendly Young Gentleman" data-chapter="The Very Friendly Young Gentleman" data-kind="story"></span>
 
 
 THE VERY FRIENDLY YOUNG GENTLEMAN
@@ -27325,7 +27325,7 @@ who would not have the reputation of the very friendly young gentleman?
 
 
 
-<span class="atom-split" data-atom="story_15_the_military_young_gentleman" data-title="Sketches by Boz — The Military Young Gentleman" data-chapter="Story 15 The Military Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_military_young_gentleman" data-title="Sketches by Boz — The Military Young Gentleman" data-chapter="The Military Young Gentleman" data-kind="story"></span>
 
 
 THE MILITARY YOUNG GENTLEMAN
@@ -27492,7 +27492,7 @@ in the whole world.
 
 
 
-<span class="atom-split" data-atom="story_16_the_political_young_gentleman" data-title="Sketches by Boz — The Political Young Gentleman" data-chapter="Story 16 The Political Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_political_young_gentleman" data-title="Sketches by Boz — The Political Young Gentleman" data-chapter="The Political Young Gentleman" data-kind="story"></span>
 
 
 THE POLITICAL YOUNG GENTLEMAN
@@ -27614,7 +27614,7 @@ advice to discountenance such talkers altogether.
 
 
 
-<span class="atom-split" data-atom="story_17_the_domestic_young_gentleman" data-title="Sketches by Boz — The Domestic Young Gentleman" data-chapter="Story 17 The Domestic Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_domestic_young_gentleman" data-title="Sketches by Boz — The Domestic Young Gentleman" data-chapter="The Domestic Young Gentleman" data-kind="story"></span>
 
 
 THE DOMESTIC YOUNG GENTLEMAN
@@ -27750,7 +27750,7 @@ of his harmless existence.
 
 
 
-<span class="atom-split" data-atom="story_18_the_censorious_young_gentleman" data-title="Sketches by Boz — The Censorious Young Gentleman" data-chapter="Story 18 The Censorious Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_censorious_young_gentleman" data-title="Sketches by Boz — The Censorious Young Gentleman" data-chapter="The Censorious Young Gentleman" data-kind="story"></span>
 
 
 THE CENSORIOUS YOUNG GENTLEMAN
@@ -27850,7 +27850,7 @@ exceedingly odd in Mrs. Barker’s manner.
 
 
 
-<span class="atom-split" data-atom="story_19_the_funny_young_gentleman" data-title="Sketches by Boz — The Funny Young Gentleman" data-chapter="Story 19 The Funny Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_funny_young_gentleman" data-title="Sketches by Boz — The Funny Young Gentleman" data-chapter="The Funny Young Gentleman" data-kind="story"></span>
 
 
 THE FUNNY YOUNG GENTLEMAN
@@ -27980,7 +27980,7 @@ particular case.
 
 
 
-<span class="atom-split" data-atom="story_20_the_theatrical_young_gentleman" data-title="Sketches by Boz — The Theatrical Young Gentleman" data-chapter="Story 20 The Theatrical Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_theatrical_young_gentleman" data-title="Sketches by Boz — The Theatrical Young Gentleman" data-chapter="The Theatrical Young Gentleman" data-kind="story"></span>
 
 
 THE THEATRICAL YOUNG GENTLEMAN
@@ -28109,7 +28109,7 @@ young gentlemen of their own acquaintance.
 
 
 
-<span class="atom-split" data-atom="story_22_the_young_ladies_young_gentleman" data-title="Sketches by Boz — The Young Ladies’ Young Gentleman" data-chapter="Story 22 The Young Ladies Young Gentleman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_young_ladies_young_gentleman" data-title="Sketches by Boz — The Young Ladies’ Young Gentleman" data-chapter="The Young Ladies Young Gentleman" data-kind="story"></span>
 
 
 THE YOUNG LADIES’ YOUNG GENTLEMAN
@@ -28285,7 +28285,7 @@ They are such amazingly, uncommonly, wonderfully, nice men.
 
 
 
-<span class="atom-split" data-atom="story_23_conclusion" data-title="Sketches by Boz — Conclusion" data-chapter="Story 23 Conclusion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_conclusion" data-title="Sketches by Boz — Conclusion" data-chapter="Conclusion" data-kind="story"></span>
 
 
 CONCLUSION
@@ -28349,7 +28349,7 @@ to be addressed.
 
 
 
-<span class="atom-split" data-atom="story_24_sketches_of_young_couples" data-title="Sketches by Boz — Sketches Of Young Couples" data-chapter="Story 24 Sketches Of Young Couples" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_sketches_of_young_couples" data-title="Sketches by Boz — Sketches Of Young Couples" data-chapter="Sketches Of Young Couples" data-kind="story"></span>
 
 
 SKETCHES OF YOUNG COUPLES
@@ -28456,7 +28456,7 @@ abandoned of the sex.
 
 
 
-<span class="atom-split" data-atom="story_25_the_young_couple" data-title="Sketches by Boz — The Young Couple" data-chapter="Story 25 The Young Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_young_couple" data-title="Sketches by Boz — The Young Couple" data-chapter="The Young Couple" data-kind="story"></span>
 
 
 THE YOUNG COUPLE
@@ -28631,7 +28631,7 @@ such a angel of a gentleman as Mr. Harvey’—and the other, that she
 
 
 
-<span class="atom-split" data-atom="story_26_the_formal_couple" data-title="Sketches by Boz — The Formal Couple" data-chapter="Story 26 The Formal Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_formal_couple" data-title="Sketches by Boz — The Formal Couple" data-chapter="The Formal Couple" data-kind="story"></span>
 
 
 THE FORMAL COUPLE
@@ -28748,7 +28748,7 @@ protection of the formal gentleman.
 
 
 
-<span class="atom-split" data-atom="story_27_the_loving_couple" data-title="Sketches by Boz — The Loving Couple" data-chapter="Story 27 The Loving Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_loving_couple" data-title="Sketches by Boz — The Loving Couple" data-chapter="The Loving Couple" data-kind="story"></span>
 
 
 THE LOVING COUPLE
@@ -28940,7 +28940,7 @@ congratulated each other on their disappearance.
 
 
 
-<span class="atom-split" data-atom="story_28_the_contradictory_couple" data-title="Sketches by Boz — The Contradictory Couple" data-chapter="Story 28 The Contradictory Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_contradictory_couple" data-title="Sketches by Boz — The Contradictory Couple" data-chapter="The Contradictory Couple" data-kind="story"></span>
 
 
 THE CONTRADICTORY COUPLE
@@ -29071,7 +29071,7 @@ considered trifles make up the sum of human happiness or misery.
 
 
 
-<span class="atom-split" data-atom="story_29_the_couple_who_dote_upon_their_children" data-title="Sketches by Boz — The Couple Who Dote Upon Their Children" data-chapter="Story 29 The Couple Who Dote Upon Their Children" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_couple_who_dote_upon_their_children" data-title="Sketches by Boz — The Couple Who Dote Upon Their Children" data-chapter="The Couple Who Dote Upon Their Children" data-kind="story"></span>
 
 
 THE COUPLE WHO DOTE UPON THEIR CHILDREN
@@ -29262,7 +29262,7 @@ children, therefore, are best avoided.
 
 
 
-<span class="atom-split" data-atom="story_30_the_cool_couple" data-title="Sketches by Boz — The Cool Couple" data-chapter="Story 30 The Cool Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_cool_couple" data-title="Sketches by Boz — The Cool Couple" data-chapter="The Cool Couple" data-kind="story"></span>
 
 
 THE COOL COUPLE
@@ -29375,7 +29375,7 @@ even in the best of times.
 
 
 
-<span class="atom-split" data-atom="story_31_the_plausible_couple" data-title="Sketches by Boz — The Plausible Couple" data-chapter="Story 31 The Plausible Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_plausible_couple" data-title="Sketches by Boz — The Plausible Couple" data-chapter="The Plausible Couple" data-kind="story"></span>
 
 
 THE PLAUSIBLE COUPLE
@@ -29522,7 +29522,7 @@ an immediate invitation to dinner?
 
 
 
-<span class="atom-split" data-atom="story_32_the_nice_little_couple" data-title="Sketches by Boz — The Nice Little Couple" data-chapter="Story 32 The Nice Little Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_nice_little_couple" data-title="Sketches by Boz — The Nice Little Couple" data-chapter="The Nice Little Couple" data-kind="story"></span>
 
 
 THE NICE LITTLE COUPLE
@@ -29656,7 +29656,7 @@ better; therefore, let us wish [[Well|well]] to all nice little couples, and
 
 
 
-<span class="atom-split" data-atom="story_33_the_egotistical_couple" data-title="Sketches by Boz — The Egotistical Couple" data-chapter="Story 33 The Egotistical Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_egotistical_couple" data-title="Sketches by Boz — The Egotistical Couple" data-chapter="The Egotistical Couple" data-kind="story"></span>
 
 
 THE EGOTISTICAL COUPLE
@@ -29837,7 +29837,7 @@ ostentatious hypocrisy awakens our disgust.
 
 
 
-<span class="atom-split" data-atom="story_34_the_couple_who_coddle_themselves" data-title="Sketches by Boz — The Couple Who Coddle Themselves" data-chapter="Story 34 The Couple Who Coddle Themselves" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_couple_who_coddle_themselves" data-title="Sketches by Boz — The Couple Who Coddle Themselves" data-chapter="The Couple Who Coddle Themselves" data-kind="story"></span>
 
 
 THE COUPLE WHO CODDLE THEMSELVES
@@ -29990,7 +29990,7 @@ enjoyment.
 
 
 
-<span class="atom-split" data-atom="story_35_the_old_couple" data-title="Sketches by Boz — The Old Couple" data-chapter="Story 35 The Old Couple" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_old_couple" data-title="Sketches by Boz — The Old Couple" data-chapter="The Old Couple" data-kind="story"></span>
 
 
 THE OLD COUPLE
@@ -30155,7 +30155,7 @@ those about them.
 
 
 
-<span class="atom-split" data-atom="story_36_conclusion" data-title="Sketches by Boz — Conclusion" data-chapter="Story 36 Conclusion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_conclusion" data-title="Sketches by Boz — Conclusion" data-chapter="Conclusion" data-kind="story"></span>
 
 
 CONCLUSION
@@ -30220,7 +30220,7 @@ God bless them.
 
 
 
-<span class="atom-split" data-atom="story_38_7_943" data-title="Sketches by Boz — 7,943" data-chapter="Story 38 7 943" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_7_943" data-title="Sketches by Boz — 7,943" data-chapter="7 943" data-kind="story"></span>
 
 
 7,943
@@ -30233,7 +30233,7 @@ Ditto and Eleven Brothers
 
 
 
-<span class="atom-split" data-atom="story_39_2_845" data-title="Sketches by Boz — 2,845" data-chapter="Story 39 2 845" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_2_845" data-title="Sketches by Boz — 2,845" data-chapter="2 845" data-kind="story"></span>
 
 
 2,845
@@ -30246,7 +30246,7 @@ Total
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_01" data-title="Sketches by Boz — Our Parish (part 1)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_01" data-title="Sketches by Boz — Our Parish (part 1)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 OUR PARISH
@@ -30368,7 +30368,7 @@ slightest effect!
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_02" data-title="Sketches by Boz — Our Parish (part 2)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_02" data-title="Sketches by Boz — Our Parish (part 2)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 The personages next in importance to the beadle, are the master of the
@@ -30504,7 +30504,7 @@ ex-churchwarden, and acknowledged by the curate in terms which drew
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_03" data-title="Sketches by Boz — Our Parish (part 3)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_03" data-title="Sketches by Boz — Our Parish (part 3)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 One would have supposed that, by this [[Time|time]], the theme of universal
@@ -30616,7 +30616,7 @@ by asking the youngest boy where the text was.
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_04" data-title="Sketches by Boz — Our Parish (part 4)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_04" data-title="Sketches by Boz — Our Parish (part 4)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 Thus, with the annual variation of a trip to some quiet place on the
@@ -30739,7 +30739,7 @@ one of the four Miss Willises was going to be married!
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_05" data-title="Sketches by Boz — Our Parish (part 5)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_05" data-title="Sketches by Boz — Our Parish (part 5)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 Now, where on earth the husband came from, by what feelings the poor
@@ -30853,7 +30853,7 @@ some very special purpose.
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_06" data-title="Sketches by Boz — Our Parish (part 6)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_06" data-title="Sketches by Boz — Our Parish (part 6)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 When we got up in the morning we saw that the knocker was tied up in an
@@ -30986,7 +30986,7 @@ and perseverance on both sides.
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_07" data-title="Sketches by Boz — Our Parish (part 7)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_07" data-title="Sketches by Boz — Our Parish (part 7)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 The members of the vestry could not be supposed to escape the
@@ -31094,7 +31094,7 @@ the poll, free themselves from dictation, or be slaves for ever.
 
 
 
-<span class="atom-split" data-atom="story_02_our_parish--part_08" data-title="Sketches by Boz — Our Parish (part 8)" data-chapter="Story 02 Our Parish" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_our_parish--part_08" data-title="Sketches by Boz — Our Parish (part 8)" data-chapter="Our Parish" data-kind="excerpt"></span>
 
 
 On the following day the polling began, and we never have had such a
@@ -31186,7 +31186,7 @@ at once entitle them.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_01" data-title="Sketches by Boz — Mr Bung’S Narrative (part 1)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_01" data-title="Sketches by Boz — Mr Bung’S Narrative (part 1)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 MR BUNG’S NARRATIVE
@@ -31307,7 +31307,7 @@ line.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_02" data-title="Sketches by Boz — Mr Bung’S Narrative (part 2)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_02" data-title="Sketches by Boz — Mr Bung’S Narrative (part 2)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 ‘But this is the bright side of the picture, sir, after all,’ resumed
@@ -31410,7 +31410,7 @@ was a newspaper which had been bespoke arter the next gentleman.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_03" data-title="Sketches by Boz — Mr Bung’S Narrative (part 3)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_03" data-title="Sketches by Boz — Mr Bung’S Narrative (part 3)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 ‘The lady’s lip trembled as she took the printed paper. She cast her
@@ -31524,7 +31524,7 @@ subject until that of the curate had been clearly ascertained.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_04" data-title="Sketches by Boz — Mr Bung’S Narrative (part 4)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_04" data-title="Sketches by Boz — Mr Bung’S Narrative (part 4)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 The opportunity was not long wanting. The curate preached a [[Charity|charity]]
@@ -31625,7 +31625,7 @@ circumstance to wonderfully good account in matrimonial speculations.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_05" data-title="Sketches by Boz — Mr Bung’S Narrative (part 5)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_05" data-title="Sketches by Boz — Mr Bung’S Narrative (part 5)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 In addition to the loan of the monthly boxes (which are always painted
@@ -31730,7 +31730,7 @@ invariably bespoke hospitality and another bottle.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_06" data-title="Sketches by Boz — Mr Bung’S Narrative (part 6)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_06" data-title="Sketches by Boz — Mr Bung’S Narrative (part 6)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 No man ever saw this knocker on the door of a small attorney or
@@ -31848,7 +31848,7 @@ over the wrong man; and the whole street was involved in confusion.
 
 
 
-<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_07" data-title="Sketches by Boz — Mr Bung’S Narrative (part 7)" data-chapter="Story 03 Mr BungS Narrative" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_bungs_narrative--part_07" data-title="Sketches by Boz — Mr Bung’S Narrative (part 7)" data-chapter="Mr BungS Narrative" data-kind="excerpt"></span>
 
 
 A joke’s a joke; and even practical jests are very capital in their
@@ -31994,7 +31994,7 @@ The boy was dead.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_01" data-title="Sketches by Boz — Scenes (part 1)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_01" data-title="Sketches by Boz — Scenes (part 1)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 SCENES
@@ -32114,7 +32114,7 @@ the satisfaction of all parties concerned.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_02" data-title="Sketches by Boz — Scenes (part 2)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_02" data-title="Sketches by Boz — Scenes (part 2)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The mail itself goes on to the coach-office in due course, and the
@@ -32225,7 +32225,7 @@ their own firesides.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_03" data-title="Sketches by Boz — Scenes (part 3)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_03" data-title="Sketches by Boz — Scenes (part 3)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 In the larger and better kind of streets, dining parlour curtains are
@@ -32335,7 +32335,7 @@ despairingly down, on a cold damp door-step.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_04" data-title="Sketches by Boz — Scenes (part 4)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_04" data-title="Sketches by Boz — Scenes (part 4)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Singing! How few of those who pass such a miserable creature as this,
@@ -32457,7 +32457,7 @@ within two miles round.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_05" data-title="Sketches by Boz — Scenes (part 5)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_05" data-title="Sketches by Boz — Scenes (part 5)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 One of our principal amusements is to watch the gradual progress—the
@@ -32565,7 +32565,7 @@ with tawdry striped paper.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_06" data-title="Sketches by Boz — Scenes (part 6)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_06" data-title="Sketches by Boz — Scenes (part 6)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The tobacconist remained in possession longer than any tenant within
@@ -32670,7 +32670,7 @@ or two, and then killed off for high treason.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_07" data-title="Sketches by Boz — Scenes (part 7)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_07" data-title="Sketches by Boz — Scenes (part 7)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 By degrees, however, the reports grew stronger, and more frequent, and
@@ -32777,7 +32777,7 @@ of any one of the landmarks we have mentioned in describing it.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_08" data-title="Sketches by Boz — Scenes (part 8)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_08" data-title="Sketches by Boz — Scenes (part 8)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 CHAPTER V—SEVEN DIALS
@@ -32908,7 +32908,7 @@ and anatomical fowls, are its cheerful accompaniments.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_09" data-title="Sketches by Boz — Scenes (part 9)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_09" data-title="Sketches by Boz — Scenes (part 9)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 If the external appearance of the houses, or a glance at their
@@ -33018,7 +33018,7 @@ corner.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_10" data-title="Sketches by Boz — Scenes (part 10)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_10" data-title="Sketches by Boz — Scenes (part 10)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 We were occupied in this manner the other day, endeavouring to fit a
@@ -33125,7 +33125,7 @@ murmured from the white and half-closed lips.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_11" data-title="Sketches by Boz — Scenes (part 11)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_11" data-title="Sketches by Boz — Scenes (part 11)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 A coarse round frock, with a worn cotton neckerchief, and other
@@ -33232,7 +33232,7 @@ were soon immersed in the deepest obscurity of the adjacent ‘Dials.’
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_12" data-title="Sketches by Boz — Scenes (part 12)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_12" data-title="Sketches by Boz — Scenes (part 12)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 CHAPTER VII—HACKNEY-COACH STANDS
@@ -33348,7 +33348,7 @@ a standstill.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_13" data-title="Sketches by Boz — Scenes (part 13)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_13" data-title="Sketches by Boz — Scenes (part 13)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 We have been frequently amused with the intense delight with which ‘a
@@ -33458,7 +33458,7 @@ employed for the last two centuries at least.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_14" data-title="Sketches by Boz — Scenes (part 14)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_14" data-title="Sketches by Boz — Scenes (part 14)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The red-faced gentleman in the tortoise-shell spectacles had got all
@@ -33564,7 +33564,7 @@ names in the deepest abstraction.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_15" data-title="Sketches by Boz — Scenes (part 15)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_15" data-title="Sketches by Boz — Scenes (part 15)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 There was one little dirty-faced man in a blue apron, who after a whole
@@ -33691,7 +33691,7 @@ has exhausted the subject, he goes to [[Sleep|sleep]].
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_16" data-title="Sketches by Boz — Scenes (part 16)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_16" data-title="Sketches by Boz — Scenes (part 16)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 There is another and a very different class of men, whose recreation is
@@ -33794,7 +33794,7 @@ extent of juvenile population in any other way.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_17" data-title="Sketches by Boz — Scenes (part 17)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_17" data-title="Sketches by Boz — Scenes (part 17)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Observe the inexpressible delight of the old grandmother, at Uncle
@@ -33898,7 +33898,7 @@ without ever being one atom the worse for it.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_18" data-title="Sketches by Boz — Scenes (part 18)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_18" data-title="Sketches by Boz — Scenes (part 18)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 But the party arrives, and Dando, relieved from his state of
@@ -34024,7 +34024,7 @@ that the gentleman’ll find his luggage afore he gets to Margate.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_19" data-title="Sketches by Boz — Scenes (part 19)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_19" data-title="Sketches by Boz — Scenes (part 19)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Here the stout father, thinking he is making a capital point, replies,
@@ -34140,7 +34140,7 @@ to look as if he did not belong to the family.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_20" data-title="Sketches by Boz — Scenes (part 20)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_20" data-title="Sketches by Boz — Scenes (part 20)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The first five minutes were occupied in taking the shawls off the
@@ -34239,7 +34239,7 @@ deep impression in the bosom of every female servant present.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_21" data-title="Sketches by Boz — Scenes (part 21)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_21" data-title="Sketches by Boz — Scenes (part 21)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 When Miss Woolford, and the [[Horse|horse]], and the orchestra, all stop together
@@ -34347,7 +34347,7 @@ cannot—we will not—believe it.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_22" data-title="Sketches by Boz — Scenes (part 22)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_22" data-title="Sketches by Boz — Scenes (part 22)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 CHAPTER XII—GREENWICH FAIR
@@ -34465,7 +34465,7 @@ itself in [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_23" data-title="Sketches by Boz — Scenes (part 23)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_23" data-title="Sketches by Boz — Scenes (part 23)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 But it grows dark: the crowd has gradually dispersed, and only a few
@@ -34589,7 +34589,7 @@ rings, and the curtain drops.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_24" data-title="Sketches by Boz — Scenes (part 24)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_24" data-title="Sketches by Boz — Scenes (part 24)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The exhibitions next in popularity to these itinerant theatres are the
@@ -34725,7 +34725,7 @@ as possible fighting it out.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_25" data-title="Sketches by Boz — Scenes (part 25)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_25" data-title="Sketches by Boz — Scenes (part 25)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The principal patrons of private theatres are dirty boys, low
@@ -34842,7 +34842,7 @@ unnecessary, for the gulls believe it at once.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_26" data-title="Sketches by Boz — Scenes (part 26)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_26" data-title="Sketches by Boz — Scenes (part 26)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The stout Jewess who has just entered, is the mother of the pale, bony
@@ -34954,7 +34954,7 @@ fowls to a mere combination of skin and bone.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_27" data-title="Sketches by Boz — Scenes (part 27)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_27" data-title="Sketches by Boz — Scenes (part 27)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Vague rumours of this kind, together with many others of a similar
@@ -35075,7 +35075,7 @@ that impressed the crowd with the opinion that he was an oracle.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_28" data-title="Sketches by Boz — Scenes (part 28)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_28" data-title="Sketches by Boz — Scenes (part 28)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 ‘Ah, you’re very right, sir,’ said another gentleman, with his wife,
@@ -35222,7 +35222,7 @@ become hardened in cruelty, by custom.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_29" data-title="Sketches by Boz — Scenes (part 29)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_29" data-title="Sketches by Boz — Scenes (part 29)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 If there be one thing in existence more miserable than another, it most
@@ -35318,7 +35318,7 @@ the starting of the coach.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_30" data-title="Sketches by Boz — Scenes (part 30)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_30" data-title="Sketches by Boz — Scenes (part 30)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The first stroke of six, peals from St. Martin’s church steeple, just
@@ -35432,7 +35432,7 @@ other, never can see the joke of the thing.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_31" data-title="Sketches by Boz — Scenes (part 31)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_31" data-title="Sketches by Boz — Scenes (part 31)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 We are not aware that it has ever been precisely ascertained, how many
@@ -35556,7 +35556,7 @@ and a taste for botany.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_32" data-title="Sketches by Boz — Scenes (part 32)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_32" data-title="Sketches by Boz — Scenes (part 32)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 His cabriolet was gorgeously painted—a bright red; and wherever we
@@ -35664,7 +35664,7 @@ eightpence, out he went.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_33" data-title="Sketches by Boz — Scenes (part 33)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_33" data-title="Sketches by Boz — Scenes (part 33)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The last [[Time|time]] we saw our friend was one wet evening in
@@ -35785,7 +35785,7 @@ could repress; his native daring no punishment could subdue.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_34" data-title="Sketches by Boz — Scenes (part 34)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_34" data-title="Sketches by Boz — Scenes (part 34)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 If Mr. Barker can be fairly said to have had any weakness in his
@@ -35886,7 +35886,7 @@ one, and could have emanated from no ordinary mind.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_35" data-title="Sketches by Boz — Scenes (part 35)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_35" data-title="Sketches by Boz — Scenes (part 35)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 It has now become matter of [[history]]; it is recorded in the Newgate
@@ -35997,7 +35997,7 @@ evidently congratulating himself on having made his way so far.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_36" data-title="Sketches by Boz — Scenes (part 36)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_36" data-title="Sketches by Boz — Scenes (part 36)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 ‘Go back, sir—you must _not_ come here,’ shouts the hoarse one, with
@@ -36121,7 +36121,7 @@ anecdotes of a similar description.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_37" data-title="Sketches by Boz — Scenes (part 37)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_37" data-title="Sketches by Boz — Scenes (part 37)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 There he stands, leaning on his stick; looking at the throng of
@@ -36222,7 +36222,7 @@ point.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_38" data-title="Sketches by Boz — Scenes (part 38)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_38" data-title="Sketches by Boz — Scenes (part 38)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 We needn’t tell you all this, however, for if you have an atom of
@@ -36333,7 +36333,7 @@ detains her, by way of reply.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_39" data-title="Sketches by Boz — Scenes (part 39)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_39" data-title="Sketches by Boz — Scenes (part 39)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Jane is no bad hand at repartees, and showers them about, with a degree
@@ -36443,7 +36443,7 @@ confusing each other, and running over the waiters.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_40" data-title="Sketches by Boz — Scenes (part 40)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_40" data-title="Sketches by Boz — Scenes (part 40)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Having deposited your hat and cloak, and received a remarkably small
@@ -36564,7 +36564,7 @@ anthem an effect which the newspapers, with great justice, describe as
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_41" data-title="Sketches by Boz — Scenes (part 41)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_41" data-title="Sketches by Boz — Scenes (part 41)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The other ‘loyal and patriotic’ toasts having been drunk with all due
@@ -36680,7 +36680,7 @@ act; and [[Pastoral|pastoral]] simplicity is not understood by the police.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_42" data-title="Sketches by Boz — Scenes (part 42)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_42" data-title="Sketches by Boz — Scenes (part 42)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 [[Well]]; many years ago we began to be a steady and matter-of-fact sort of
@@ -36783,7 +36783,7 @@ set of Panpipes, better known to the many, as a ‘mouth-organ.’
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_43" data-title="Sketches by Boz — Scenes (part 43)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_43" data-title="Sketches by Boz — Scenes (part 43)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 These were signs of the times, portentous omens of a coming change; and
@@ -36885,7 +36885,7 @@ emulating the appearance, of May-day sweeps!
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_44" data-title="Sketches by Boz — Scenes (part 44)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_44" data-title="Sketches by Boz — Scenes (part 44)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The first person who appeared was ‘my lord,’ habited in a blue coat and
@@ -37025,7 +37025,7 @@ precisely the kind of shop to which we wish to direct your attention.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_45" data-title="Sketches by Boz — Scenes (part 45)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_45" data-title="Sketches by Boz — Scenes (part 45)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Although the same heterogeneous mixture of things will be found at all
@@ -37135,7 +37135,7 @@ diffuses itself, almost incredible.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_46" data-title="Sketches by Boz — Scenes (part 46)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_46" data-title="Sketches by Boz — Scenes (part 46)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 We will cite two or three cases in illustration of our meaning. Six or
@@ -37242,7 +37242,7 @@ the best advantage.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_47" data-title="Sketches by Boz — Scenes (part 47)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_47" data-title="Sketches by Boz — Scenes (part 47)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The two old washerwomen, who are seated on the little bench to the left
@@ -37400,7 +37400,7 @@ auxiliaries.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_48" data-title="Sketches by Boz — Scenes (part 48)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_48" data-title="Sketches by Boz — Scenes (part 48)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 If the outside of the pawnbroker’s shop be calculated to attract the
@@ -37519,7 +37519,7 @@ you scarcer.’
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_49" data-title="Sketches by Boz — Scenes (part 49)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_49" data-title="Sketches by Boz — Scenes (part 49)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 This eloquent address produces anything but the effect desired; the
@@ -37626,7 +37626,7 @@ drink pots of half-and-half so near the last drop.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_50" data-title="Sketches by Boz — Scenes (part 50)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_50" data-title="Sketches by Boz — Scenes (part 50)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 Often have we strayed here, in sessions [[Time|time]], to catch a glimpse of the
@@ -37737,7 +37737,7 @@ proceeded with, as if nothing had occurred.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_51" data-title="Sketches by Boz — Scenes (part 51)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_51" data-title="Sketches by Boz — Scenes (part 51)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 No imaginary contrast to a case like this, could be as complete as that
@@ -37878,7 +37878,7 @@ confusion.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_52" data-title="Sketches by Boz — Scenes (part 52)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_52" data-title="Sketches by Boz — Scenes (part 52)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 It is necessary to explain here, that the buildings in the [[Prison|prison]], or
@@ -37981,7 +37981,7 @@ description of the whole.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_53" data-title="Sketches by Boz — Scenes (part 53)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_53" data-title="Sketches by Boz — Scenes (part 53)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 It was a spacious, bare, whitewashed apartment, lighted, of course, by
@@ -38082,7 +38082,7 @@ wives, but its construction is the same.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_54" data-title="Sketches by Boz — Scenes (part 54)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_54" data-title="Sketches by Boz — Scenes (part 54)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 The [[Prison|prison]] chapel is situated at the back of the governor’s [[house]]: the
@@ -38183,7 +38183,7 @@ tokens of its having been in recent use.
 
 
 
-<span class="atom-split" data-atom="story_04_scenes--part_55" data-title="Sketches by Boz — Scenes (part 55)" data-chapter="Story 04 Scenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_scenes--part_55" data-title="Sketches by Boz — Scenes (part 55)" data-chapter="Scenes" data-kind="excerpt"></span>
 
 
 In the press-room below, were three men, the [[Nature|nature]] of whose offence
@@ -38331,7 +38331,7 @@ despairing; and in two hours more will be dead.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_01" data-title="Sketches by Boz — Characters (part 1)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_01" data-title="Sketches by Boz — Characters (part 1)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 CHARACTERS
@@ -38434,7 +38434,7 @@ humbled, they may feel no [[Pain|pain]], but they never know pleasure.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_02" data-title="Sketches by Boz — Characters (part 2)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_02" data-title="Sketches by Boz — Characters (part 2)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Compare these men with another class of beings who, like them, have
@@ -38554,7 +38554,7 @@ it, but your Christmas shall be merry, and your new year a happy one!
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_03" data-title="Sketches by Boz — Characters (part 3)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_03" data-title="Sketches by Boz — Characters (part 3)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Who can be insensible to the outpourings of good feeling, and the
@@ -38675,7 +38675,7 @@ harmony again prevail.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_04" data-title="Sketches by Boz — Characters (part 4)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_04" data-title="Sketches by Boz — Characters (part 4)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 As to the dinner, it’s perfectly delightful—nothing goes wrong, and
@@ -38791,7 +38791,7 @@ talk.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_05" data-title="Sketches by Boz — Characters (part 5)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_05" data-title="Sketches by Boz — Characters (part 5)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 More [[Double|double]] knocks! what an extensive party! what an incessant hum of
@@ -38892,7 +38892,7 @@ and Hostess, and may they live to enjoy many more new years!’
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_06" data-title="Sketches by Boz — Characters (part 6)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_06" data-title="Sketches by Boz — Characters (part 6)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 The toast is drunk with acclamation; Dobble returns thanks, and the
@@ -39025,7 +39025,7 @@ another word.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_07" data-title="Sketches by Boz — Characters (part 7)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_07" data-title="Sketches by Boz — Characters (part 7)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 The concert commenced—overture on the organ. ‘How solemn!’ exclaimed
@@ -39139,7 +39139,7 @@ corners of the apartment.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_08" data-title="Sketches by Boz — Characters (part 8)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_08" data-title="Sketches by Boz — Characters (part 8)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 At the furthest table, nearest the [[Fire|fire]], with his face towards the door
@@ -39257,7 +39257,7 @@ understood almost as much about the matter as the broker himself.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_09" data-title="Sketches by Boz — Characters (part 9)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_09" data-title="Sketches by Boz — Characters (part 9)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 ‘You had better let him [[Alone|alone]], Tommy,’ said the broker, by way of
@@ -39371,7 +39371,7 @@ had received, and intimating that her recovery was extremely doubtful.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_10" data-title="Sketches by Boz — Characters (part 10)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_10" data-title="Sketches by Boz — Characters (part 10)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Some question appeared to have been raised about the [[Identity|identity]] of the
@@ -39483,7 +39483,7 @@ are at this moment alarmingly on the increase.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_11" data-title="Sketches by Boz — Characters (part 11)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_11" data-title="Sketches by Boz — Characters (part 11)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Upon a general review of the subject, and without considering it
@@ -39589,7 +39589,7 @@ agency of an oyster; and thus it happened.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_12" data-title="Sketches by Boz — Characters (part 12)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_12" data-title="Sketches by Boz — Characters (part 12)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Mr. John Dounce was returning one [[Night|night]] from the Sir Somebody’s Head,
@@ -39703,7 +39703,7 @@ warning to all uxorious old boys.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_13" data-title="Sketches by Boz — Characters (part 13)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_13" data-title="Sketches by Boz — Characters (part 13)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 CHAPTER VIII—THE MISTAKEN MILLINER. A TALE OF [[Ambition|AMBITION]]
@@ -39821,7 +39821,7 @@ think of it.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_14" data-title="Sketches by Boz — Characters (part 14)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_14" data-title="Sketches by Boz — Characters (part 14)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 When the conversation resumed its former tone, Mr. Jennings Rodolph
@@ -39931,7 +39931,7 @@ party, with great indignation.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_15" data-title="Sketches by Boz — Characters (part 15)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_15" data-title="Sketches by Boz — Characters (part 15)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 ‘Off, off, off,’ cried the rest of the audience.
@@ -40045,7 +40045,7 @@ you, sir, before you’re a quarter older, sir.’
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_16" data-title="Sketches by Boz — Characters (part 16)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_16" data-title="Sketches by Boz — Characters (part 16)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 And Signor Bellsmethi slapped Mr. Augustus Cooper on the back, as if he
@@ -40145,7 +40145,7 @@ of five-and-seventy pupils.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_17" data-title="Sketches by Boz — Characters (part 17)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_17" data-title="Sketches by Boz — Characters (part 17)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Now, whether it was the strength of the compounds, or the [[Beauty|beauty]] of the
@@ -40258,7 +40258,7 @@ evidently flattered himself it escaped observation.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_18" data-title="Sketches by Boz — Characters (part 18)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_18" data-title="Sketches by Boz — Characters (part 18)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 About two o’[[Clock|clock]], you would see him munching a French roll or a penny
@@ -40371,7 +40371,7 @@ make them acquainted with the owners thereof.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_19" data-title="Sketches by Boz — Characters (part 19)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_19" data-title="Sketches by Boz — Characters (part 19)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Mr. Thomas Potter, then, was a clerk in the [[City|city]], and Mr. Robert
@@ -40481,7 +40481,7 @@ to, in the manner most in vogue on such occasions.
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_20" data-title="Sketches by Boz — Characters (part 20)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_20" data-title="Sketches by Boz — Characters (part 20)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 ‘Give that dog a bone!’ cried one gentleman in his shirt-sleeves.
@@ -40590,7 +40590,7 @@ head to foot, with superlative contempt, and laconically replied
 
 
 
-<span class="atom-split" data-atom="story_05_characters--part_21" data-title="Sketches by Boz — Characters (part 21)" data-chapter="Story 05 Characters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_characters--part_21" data-title="Sketches by Boz — Characters (part 21)" data-chapter="Characters" data-kind="excerpt"></span>
 
 
 Now, we were perfectly aware that if two men stop in the street to look
@@ -40693,7 +40693,7 @@ misfortune; and we saw no more of the Prisoners’ Van.
 
 
 
-<span class="atom-split" data-atom="story_07_chapter_i--part_01" data-title="Sketches by Boz — Chapter I. (part 1)" data-chapter="Story 07 Chapter I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_chapter_i--part_01" data-title="Sketches by Boz — Chapter I. (part 1)" data-chapter="Chapter I" data-kind="excerpt"></span>
 
 
 CHAPTER I.
@@ -40818,7 +40818,7 @@ dressing for dinner.
 
 
 
-<span class="atom-split" data-atom="story_07_chapter_i--part_02" data-title="Sketches by Boz — Chapter I. (part 2)" data-chapter="Story 07 Chapter I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_chapter_i--part_02" data-title="Sketches by Boz — Chapter I. (part 2)" data-chapter="Chapter I" data-kind="excerpt"></span>
 
 
 ‘Are these gals ’andsome?’ inquired Mr. Simpson of Mr. Septimus Hicks,
@@ -40943,7 +40943,7 @@ full, without leading to any other result.
 
 
 
-<span class="atom-split" data-atom="story_07_chapter_i--part_03" data-title="Sketches by Boz — Chapter I. (part 3)" data-chapter="Story 07 Chapter I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_chapter_i--part_03" data-title="Sketches by Boz — Chapter I. (part 3)" data-chapter="Chapter I" data-kind="excerpt"></span>
 
 
 Mrs. Maplesone was an enterprising widow of about fifty: shrewd,
@@ -41081,7 +41081,7 @@ that way.’
 
 
 
-<span class="atom-split" data-atom="story_07_chapter_i--part_04" data-title="Sketches by Boz — Chapter I. (part 4)" data-chapter="Story 07 Chapter I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_chapter_i--part_04" data-title="Sketches by Boz — Chapter I. (part 4)" data-chapter="Chapter I" data-kind="excerpt"></span>
 
 
 ‘To be sure,’ said Simpson.
@@ -41218,7 +41218,7 @@ his waistcoat, counting from the [[Bottom|bottom]]. ‘Oh, Matilda!’
 
 
 
-<span class="atom-split" data-atom="story_07_chapter_i--part_05" data-title="Sketches by Boz — Chapter I. (part 5)" data-chapter="Story 07 Chapter I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_chapter_i--part_05" data-title="Sketches by Boz — Chapter I. (part 5)" data-chapter="Chapter I" data-kind="excerpt"></span>
 
 
 ‘What Matilda?’ inquired Hicks, starting up.
@@ -41383,7 +41383,7 @@ is, what _will_ his father say?’
 
 
 
-<span class="atom-split" data-atom="story_07_chapter_i--part_06" data-title="Sketches by Boz — Chapter I. (part 6)" data-chapter="Story 07 Chapter I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_chapter_i--part_06" data-title="Sketches by Boz — Chapter I. (part 6)" data-chapter="Chapter I" data-kind="excerpt"></span>
 
 
 Mr. Septimus Hicks looked at Mr. Calton.
@@ -41476,7 +41476,7 @@ must be reserved for another chapter.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_01" data-title="Sketches by Boz — Chapter The Second. (part 1)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_01" data-title="Sketches by Boz — Chapter The Second. (part 1)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 CHAPTER THE SECOND.
@@ -41625,7 +41625,7 @@ board anywhere.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_02" data-title="Sketches by Boz — Chapter The Second. (part 2)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_02" data-title="Sketches by Boz — Chapter The Second. (part 2)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘When I say he has no stomach,’ explained the chatty little Mrs. Tibbs,
@@ -41746,7 +41746,7 @@ boarders, and wants to tickle them.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_03" data-title="Sketches by Boz — Chapter The Second. (part 3)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_03" data-title="Sketches by Boz — Chapter The Second. (part 3)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘He wanted to kiss me as I came up the kitchen-stairs, just now,’ said
@@ -41874,7 +41874,7 @@ beauties which no one else could discover—he certainly deserved it.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_04" data-title="Sketches by Boz — Chapter The Second. (part 4)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_04" data-title="Sketches by Boz — Chapter The Second. (part 4)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘I have frequently observed a chimney-pot in College-green, Dublin,
@@ -42019,7 +42019,7 @@ retire, but was entreated to stay.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_05" data-title="Sketches by Boz — Chapter The Second. (part 5)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_05" data-title="Sketches by Boz — Chapter The Second. (part 5)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘[[Well]], my dear ma’am, and how are we?’ inquired Wosky, in a soothing
@@ -42156,7 +42156,7 @@ said Wisbottle; ‘they appeared much delighted.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_06" data-title="Sketches by Boz — Chapter The Second. (part 6)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_06" data-title="Sketches by Boz — Chapter The Second. (part 6)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘I think the white bears is partickerlerly [[Well|well]] done,’ suggested Mrs.
@@ -42291,7 +42291,7 @@ in a strong Irish brogue, ‘you may depend on having the money.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_07" data-title="Sketches by Boz — Chapter The Second. (part 7)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_07" data-title="Sketches by Boz — Chapter The Second. (part 7)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Bless my [[Soul|soul]], it’s Mr. O’Bleary!’ exclaimed Mrs. Tibbs, in a
@@ -42463,7 +42463,7 @@ therefore prefer leaving it to be imagined.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_08" data-title="Sketches by Boz — Chapter The Second. (part 8)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_08" data-title="Sketches by Boz — Chapter The Second. (part 8)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The lady whom we have hitherto described as Mrs. Bloss, is no more.
@@ -42576,7 +42576,7 @@ Augustus Minns staggered beneath the shock of the dog’s appearance.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_09" data-title="Sketches by Boz — Chapter The Second. (part 9)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_09" data-title="Sketches by Boz — Chapter The Second. (part 9)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘My dear fellow, how are you?’ said Budden, as he entered.
@@ -42715,7 +42715,7 @@ looking as much unlike a man in a hurry as possible.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_10" data-title="Sketches by Boz — Chapter The Second. (part 10)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_10" data-title="Sketches by Boz — Chapter The Second. (part 10)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Bill, take them cloths off.’ Five minutes more elapsed: at the end of
@@ -42837,7 +42837,7 @@ is _be_.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_11" data-title="Sketches by Boz — Chapter The Second. (part 11)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_11" data-title="Sketches by Boz — Chapter The Second. (part 11)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘A verb.’
@@ -42965,7 +42965,7 @@ round’ to the Swan, the coach—the last coach—had gone without him.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_12" data-title="Sketches by Boz — Chapter The Second. (part 12)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_12" data-title="Sketches by Boz — Chapter The Second. (part 12)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 It was somewhere about three o’[[Clock|clock]] in the morning, when Mr. Augustus
@@ -43091,7 +43091,7 @@ opened the conversation.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_13" data-title="Sketches by Boz — Chapter The Second. (part 13)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_13" data-title="Sketches by Boz — Chapter The Second. (part 13)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 He had sent for Miss Crumpton, he said, in consequence of the high
@@ -43218,7 +43218,7 @@ who was practising _l’été_.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_14" data-title="Sketches by Boz — Chapter The Second. (part 14)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_14" data-title="Sketches by Boz — Chapter The Second. (part 14)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Oh! he’s so handsome,’ said the first.
@@ -43352,7 +43352,7 @@ Policy of Removing the Duty on [[Bees]]’-wax.”’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_15" data-title="Sketches by Boz — Chapter The Second. (part 15)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_15" data-title="Sketches by Boz — Chapter The Second. (part 15)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘I do—I do!’ sobbed [[Lavinia]].
@@ -43505,7 +43505,7 @@ the cause of more substantial wretchedness than she ever anticipated.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_16" data-title="Sketches by Boz — Chapter The Second. (part 16)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_16" data-title="Sketches by Boz — Chapter The Second. (part 16)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 On cool reflection, Cornelius Brook Dingwall, Esq., M.P., was
@@ -43632,7 +43632,7 @@ had decreed were to be left [[Alone|alone]] altogether.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_17" data-title="Sketches by Boz — Chapter The Second. (part 17)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_17" data-title="Sketches by Boz — Chapter The Second. (part 17)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Oh, decidedly,’ said Mrs. Tuggs.
@@ -43800,7 +43800,7 @@ alongside Ramsgate Pier.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_18" data-title="Sketches by Boz — Chapter The Second. (part 18)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_18" data-title="Sketches by Boz — Chapter The Second. (part 18)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Good-bye, dear!’ said Mrs. Captain Waters to Miss Charlotta Tuggs,
@@ -43935,7 +43935,7 @@ much matter.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_19" data-title="Sketches by Boz — Chapter The Second. (part 19)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_19" data-title="Sketches by Boz — Chapter The Second. (part 19)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 There was pity, blended with malignity, in Mr. Cymon’s eye, as he
@@ -44091,7 +44091,7 @@ couple of donkeys.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_20" data-title="Sketches by Boz — Chapter The Second. (part 20)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_20" data-title="Sketches by Boz — Chapter The Second. (part 20)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 A fresh difficulty arose. Mrs. Captain Waters declared it would be
@@ -44229,7 +44229,7 @@ were even more unexceptionable than he had at first supposed.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_21" data-title="Sketches by Boz — Chapter The Second. (part 21)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_21" data-title="Sketches by Boz — Chapter The Second. (part 21)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 Taking a [[donkey]] towards his ordinary place of residence, is a very
@@ -44358,7 +44358,7 @@ murmured unintelligibly.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_22" data-title="Sketches by Boz — Chapter The Second. (part 22)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_22" data-title="Sketches by Boz — Chapter The Second. (part 22)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘And to think that even this gleam of happiness, [[Innocent|innocent]] as it is,’
@@ -44528,7 +44528,7 @@ here to dine.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_23" data-title="Sketches by Boz — Chapter The Second. (part 23)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_23" data-title="Sketches by Boz — Chapter The Second. (part 23)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Who must?’ inquired Mr. Malderton.
@@ -44660,7 +44660,7 @@ challenging him to a game at billiards.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_24" data-title="Sketches by Boz — Chapter The Second. (part 24)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_24" data-title="Sketches by Boz — Chapter The Second. (part 24)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The first object that met the anxious eyes of the expectant family on
@@ -44805,7 +44805,7 @@ very ridiculous this evening.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_25" data-title="Sketches by Boz — Chapter The Second. (part 25)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_25" data-title="Sketches by Boz — Chapter The Second. (part 25)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘No [[Doubt|doubt]] of it,’ cried everybody—and the unfortunate Tom reduced
@@ -44949,7 +44949,7 @@ second footman.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_26" data-title="Sketches by Boz — Chapter The Second. (part 26)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_26" data-title="Sketches by Boz — Chapter The Second. (part 26)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The dinner was excellent; [[Horatio]] was most attentive to Miss Teresa,
@@ -45101,7 +45101,7 @@ distinguished profession.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_27" data-title="Sketches by Boz — Chapter The Second. (part 27)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_27" data-title="Sketches by Boz — Chapter The Second. (part 27)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘N-no!’ said [[Horatio]], with a little hesitation; ‘not exactly.’
@@ -45235,7 +45235,7 @@ beheld—[[Horatio]] Sparkins!
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_28" data-title="Sketches by Boz — Chapter The Second. (part 28)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_28" data-title="Sketches by Boz — Chapter The Second. (part 28)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘We will draw a veil,’ as [[Novel|novel]]-writers say, over the scene that
@@ -45358,7 +45358,7 @@ that of a person in [[Pain|pain]].
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_29" data-title="Sketches by Boz — Chapter The Second. (part 29)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_29" data-title="Sketches by Boz — Chapter The Second. (part 29)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘I am,’ was the reply—‘very ill; not bodily, but mentally. It is not
@@ -45500,7 +45500,7 @@ from his disturbed [[Imagination|imagination]].
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_30" data-title="Sketches by Boz — Chapter The Second. (part 30)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_30" data-title="Sketches by Boz — Chapter The Second. (part 30)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The back part of Walworth, at its greatest distance from town, is a
@@ -45613,7 +45613,7 @@ by the fireplace, to await the result of his first professional visit.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_31" data-title="Sketches by Boz — Chapter The Second. (part 31)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_31" data-title="Sketches by Boz — Chapter The Second. (part 31)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 He had not remained in this position many minutes, when the noise of
@@ -45743,7 +45743,7 @@ hands, and his mother’s shame, and incurable insanity.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_32" data-title="Sketches by Boz — Chapter The Second. (part 32)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_32" data-title="Sketches by Boz — Chapter The Second. (part 32)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 For many years after this occurrence, and when profitable and arduous
@@ -45864,7 +45864,7 @@ paid by these ten fellows jointly.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_33" data-title="Sketches by Boz — Chapter The Second. (part 33)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_33" data-title="Sketches by Boz — Chapter The Second. (part 33)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Excellent, indeed!’ said Mrs. Taunton, who highly approved of this
@@ -46002,7 +46002,7 @@ pic-nics and constitutional rights.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_34" data-title="Sketches by Boz — Chapter The Second. (part 34)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_34" data-title="Sketches by Boz — Chapter The Second. (part 34)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 Mr. Alexander Briggs opposed the motion. He had the highest esteem for
@@ -46122,7 +46122,7 @@ coffee-[[house]].
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_35" data-title="Sketches by Boz — Chapter The Second. (part 35)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_35" data-title="Sketches by Boz — Chapter The Second. (part 35)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 Mr. Percy Noakes walked briskly by, and when he turned down
@@ -46245,7 +46245,7 @@ captain, whose musical talents I knew would be a great acquisition.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_36" data-title="Sketches by Boz — Chapter The Second. (part 36)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_36" data-title="Sketches by Boz — Chapter The Second. (part 36)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘In the name of the committee I have to thank you for doing so, and to
@@ -46372,7 +46372,7 @@ accompaniments.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_37" data-title="Sketches by Boz — Chapter The Second. (part 37)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_37" data-title="Sketches by Boz — Chapter The Second. (part 37)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Perhaps,’ said Mrs. Taunton, reddening, for she guessed the tenor of
@@ -46510,7 +46510,7 @@ glass of which Mr. Hardy had fixed a large black wafer.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_38" data-title="Sketches by Boz — Chapter The Second. (part 38)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_38" data-title="Sketches by Boz — Chapter The Second. (part 38)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Did you ever hear a Portuguese tambourine?’ inquired that jocular
@@ -46653,7 +46653,7 @@ coming down at the same moment.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_39" data-title="Sketches by Boz — Chapter The Second. (part 39)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_39" data-title="Sketches by Boz — Chapter The Second. (part 39)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The cloth was removed; the dessert was laid on the table; and the
@@ -46788,7 +46788,7 @@ present day.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_40" data-title="Sketches by Boz — Chapter The Second. (part 40)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_40" data-title="Sketches by Boz — Chapter The Second. (part 40)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The Winglebury Arms, in the centre of the High-street, opposite the
@@ -46908,7 +46908,7 @@ horsewhip.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_41" data-title="Sketches by Boz — Chapter The Second. (part 41)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_41" data-title="Sketches by Boz — Chapter The Second. (part 41)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Horace Hunter.
@@ -47039,7 +47039,7 @@ neckcloth, and gloves.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_42" data-title="Sketches by Boz — Chapter The Second. (part 42)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_42" data-title="Sketches by Boz — Chapter The Second. (part 42)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Miss [[Julia]] Manners!’ exclaimed the mayor at length, ‘you astonish me.’
@@ -47172,7 +47172,7 @@ promptitude.” Passionate language, certainly. Shall I see him?’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_43" data-title="Sketches by Boz — Chapter The Second. (part 43)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_43" data-title="Sketches by Boz — Chapter The Second. (part 43)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Do,’ replied Miss [[Julia]]; ‘and entreat him to act his part [[Well|well]]. I am
@@ -47314,7 +47314,7 @@ rather astonished at the man’s demeanour.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_44" data-title="Sketches by Boz — Chapter The Second. (part 44)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_44" data-title="Sketches by Boz — Chapter The Second. (part 44)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Now mind!’ ejaculated Mr. Trott, anxious to keep up the farce of
@@ -47447,7 +47447,7 @@ aloud, ‘Now, waiters, the gentleman’s ready.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_45" data-title="Sketches by Boz — Chapter The Second. (part 45)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_45" data-title="Sketches by Boz — Chapter The Second. (part 45)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 At this signal, the waiters crowded round Mr. Alexander Trott. One took
@@ -47594,7 +47594,7 @@ the first portion of the evening’s entertainments.
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_46" data-title="Sketches by Boz — Chapter The Second. (part 46)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_46" data-title="Sketches by Boz — Chapter The Second. (part 46)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘When we’re a _leetle_ more perfect, I think it will go admirably,’
@@ -47719,7 +47719,7 @@ are—he had the impudence to say, that—’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_47" data-title="Sketches by Boz — Chapter The Second. (part 47)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_47" data-title="Sketches by Boz — Chapter The Second. (part 47)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 How far the amiable Mrs. Porter might have succeeded in her pleasant
@@ -47855,7 +47855,7 @@ ring up.’
 
 
 
-<span class="atom-split" data-atom="story_08_chapter_the_second--part_48" data-title="Sketches by Boz — Chapter The Second. (part 48)" data-chapter="Story 08 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_chapter_the_second--part_48" data-title="Sketches by Boz — Chapter The Second. (part 48)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 Ting, ting, ting! went the bell again. Everybody sat down; the curtain
@@ -48014,7 +48014,7 @@ CHAPTER X—A PASSAGE IN THE LIFE OF MR. WATKINS TOTTLE
 
 
 
-<span class="atom-split" data-atom="story_09_chapter_the_first--part_01" data-title="Sketches by Boz — Chapter The First (part 1)" data-chapter="Story 09 Chapter The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_chapter_the_first--part_01" data-title="Sketches by Boz — Chapter The First (part 1)" data-chapter="Chapter The First" data-kind="excerpt"></span>
 
 
 CHAPTER THE FIRST
@@ -48144,7 +48144,7 @@ Parsons took a pinch of snuff, and mixed another glass.
 
 
 
-<span class="atom-split" data-atom="story_09_chapter_the_first--part_02" data-title="Sketches by Boz — Chapter The First (part 2)" data-chapter="Story 09 Chapter The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_chapter_the_first--part_02" data-title="Sketches by Boz — Chapter The First (part 2)" data-chapter="Chapter The First" data-kind="excerpt"></span>
 
 
 ‘Let me entreat you to be more explanatory,’ said Tottle. ‘Really, as
@@ -48277,7 +48277,7 @@ a [[Fire|fire]] alarum.
 
 
 
-<span class="atom-split" data-atom="story_09_chapter_the_first--part_03" data-title="Sketches by Boz — Chapter The First (part 3)" data-chapter="Story 09 Chapter The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_chapter_the_first--part_03" data-title="Sketches by Boz — Chapter The First (part 3)" data-chapter="Chapter The First" data-kind="excerpt"></span>
 
 
 ‘Is Mr. Parsons at [[Home|home]]?’ inquired Tottle of the man who opened the
@@ -48412,7 +48412,7 @@ at once.
 
 
 
-<span class="atom-split" data-atom="story_09_chapter_the_first--part_04" data-title="Sketches by Boz — Chapter The First (part 4)" data-chapter="Story 09 Chapter The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_chapter_the_first--part_04" data-title="Sketches by Boz — Chapter The First (part 4)" data-chapter="Chapter The First" data-kind="excerpt"></span>
 
 
 ‘What do you think of her?’ inquired Mr. Gabriel Parsons of Mr. Watkins
@@ -48535,7 +48535,7 @@ of such an opportunity. However, let me see;—where was I?’
 
 
 
-<span class="atom-split" data-atom="story_09_chapter_the_first--part_05" data-title="Sketches by Boz — Chapter The First (part 5)" data-chapter="Story 09 Chapter The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_chapter_the_first--part_05" data-title="Sketches by Boz — Chapter The First (part 5)" data-chapter="Chapter The First" data-kind="excerpt"></span>
 
 
 ‘On the dresser,’ suggested Timson.
@@ -48633,7 +48633,7 @@ the [[success]] of his wooing, are subjects for another chapter.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_01" data-title="Sketches by Boz — Chapter The Second (part 1)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_01" data-title="Sketches by Boz — Chapter The Second (part 1)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 CHAPTER THE SECOND
@@ -48749,7 +48749,7 @@ bars—painted white to look comfortable.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_02" data-title="Sketches by Boz — Chapter The Second (part 2)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_02" data-title="Sketches by Boz — Chapter The Second (part 2)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The knock was answered by a sallow-faced, red-haired, sulky boy, who,
@@ -48868,7 +48868,7 @@ father’s a man of large property, and I am his son.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_03" data-title="Sketches by Boz — Chapter The Second (part 3)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_03" data-title="Sketches by Boz — Chapter The Second (part 3)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘That’s a very strange circumstance!’ interrupted the jocose Mr.
@@ -48987,7 +48987,7 @@ mouth for me—he ain’t game.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_04" data-title="Sketches by Boz — Chapter The Second (part 4)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_04" data-title="Sketches by Boz — Chapter The Second (part 4)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Game!’ exclaimed Ikey, who had been altering the position of a
@@ -49127,7 +49127,7 @@ Gabriel, as they approached the [[house]]. ‘Mind your eye, Tottle.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_05" data-title="Sketches by Boz — Chapter The Second (part 5)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_05" data-title="Sketches by Boz — Chapter The Second (part 5)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Never [[Fear|fear]],’ replied Watkins, resolutely, as he made his way to the
@@ -49279,7 +49279,7 @@ pardon, my dear.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_06" data-title="Sketches by Boz — Chapter The Second (part 6)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_06" data-title="Sketches by Boz — Chapter The Second (part 6)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘When I was in Suffolk,’ resumed Mr. Parsons, with an impatient glance
@@ -49415,7 +49415,7 @@ sliding her chair back a few paces.—‘Speak—to me!’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_07" data-title="Sketches by Boz — Chapter The Second (part 7)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_07" data-title="Sketches by Boz — Chapter The Second (part 7)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘To you, madam—and on the subject of the state of your affections.’ The
@@ -49563,7 +49563,7 @@ Tottle’s hands, and vanished.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_08" data-title="Sketches by Boz — Chapter The Second (part 8)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_08" data-title="Sketches by Boz — Chapter The Second (part 8)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Do you observe the delicacy?’ said Tottle, appealing to Mr. Gabriel
@@ -49717,7 +49717,7 @@ just wait there till I come and take you out, there’s a good fellow.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_09" data-title="Sketches by Boz — Chapter The Second (part 9)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_09" data-title="Sketches by Boz — Chapter The Second (part 9)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 How, or at what hour, Mr. Watkins Tottle returned to Cecil-street is
@@ -49834,7 +49834,7 @@ want me; or if it is a boy, it _may_ die before it is christened.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_10" data-title="Sketches by Boz — Chapter The Second (part 10)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_10" data-title="Sketches by Boz — Chapter The Second (part 10)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘I [[Hope|hope]] not,’ said the father that expected to be, looking very [[Grave|grave]].
@@ -49969,7 +49969,7 @@ amateur skaters behind wooden chairs on the Serpentine on a frosty
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_11" data-title="Sketches by Boz — Chapter The Second (part 11)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_11" data-title="Sketches by Boz — Chapter The Second (part 11)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 Dumps paused; he could not think of walking, being rather smart for the
@@ -50098,7 +50098,7 @@ rainbow-bound little books on the different tables.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_12" data-title="Sketches by Boz — Chapter The Second (part 12)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_12" data-title="Sketches by Boz — Chapter The Second (part 12)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Ah, uncle!’ said Mr. Kitterbell, ‘how d’ye do? Allow me—Jemima, my
@@ -50224,7 +50224,7 @@ misanthropical Dumps, as he proceeded towards his destination.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_13" data-title="Sketches by Boz — Chapter The Second (part 13)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_13" data-title="Sketches by Boz — Chapter The Second (part 13)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 Rat—tat—ta-ra-ra-ra-ra-rat—knocked a hackney-coachman at Kitterbell’s
@@ -50358,7 +50358,7 @@ was decidedly the finest baby they had ever beheld—except their own.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_14" data-title="Sketches by Boz — Chapter The Second (part 14)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_14" data-title="Sketches by Boz — Chapter The Second (part 14)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The quadrilles were resumed with great spirit. Mr. Danton was
@@ -50472,7 +50472,7 @@ this hour.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_15" data-title="Sketches by Boz — Chapter The Second (part 15)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_15" data-title="Sketches by Boz — Chapter The Second (part 15)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The family of Mr. Kitterbell has considerably increased since the
@@ -50576,7 +50576,7 @@ That heart was broken, and she was dead!
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_16" data-title="Sketches by Boz — Chapter The Second (part 16)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_16" data-title="Sketches by Boz — Chapter The Second (part 16)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 The husband sunk into a chair by the bed-side, and clasped his hands
@@ -50689,7 +50689,7 @@ herself before it, ‘William has come back.’
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_17" data-title="Sketches by Boz — Chapter The Second (part 17)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_17" data-title="Sketches by Boz — Chapter The Second (part 17)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Who!’ said the man with a start.
@@ -50830,7 +50830,7 @@ young man was a prisoner, and handcuffed.
 
 
 
-<span class="atom-split" data-atom="story_10_chapter_the_second--part_18" data-title="Sketches by Boz — Chapter The Second (part 18)" data-chapter="Story 10 Chapter The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_chapter_the_second--part_18" data-title="Sketches by Boz — Chapter The Second (part 18)" data-chapter="Chapter The Second" data-kind="excerpt"></span>
 
 
 ‘Very quietly done,’ said one of the men to his companion, ‘thanks to
@@ -50977,7 +50977,7 @@ borne to the [[Grave|grave]]; and there it has long since mouldered away!
 
 
 
-<span class="atom-split" data-atom="story_21_the_poetical_young_gentleman--part_01" data-title="Sketches by Boz — The Poetical Young Gentleman (part 1)" data-chapter="Story 21 The Poetical Young Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_the_poetical_young_gentleman--part_01" data-title="Sketches by Boz — The Poetical Young Gentleman (part 1)" data-chapter="The Poetical Young Gentleman" data-kind="excerpt"></span>
 
 
 THE POETICAL YOUNG GENTLEMAN
@@ -51084,7 +51084,7 @@ slighted. [[Love]] did you say! Ha! ha! ha!’
 
 
 
-<span class="atom-split" data-atom="story_21_the_poetical_young_gentleman--part_02" data-title="Sketches by Boz — The Poetical Young Gentleman (part 2)" data-chapter="Story 21 The Poetical Young Gentleman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_the_poetical_young_gentleman--part_02" data-title="Sketches by Boz — The Poetical Young Gentleman (part 2)" data-chapter="The Poetical Young Gentleman" data-kind="excerpt"></span>
 
 
 With this, the poetical young gentleman laughs a laugh belonging only
@@ -51218,7 +51218,7 @@ often swindlers, and always fools. So pray you avoid them.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_01" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 1)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_01" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 1)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 THE MUDFOG AND OTHER SKETCHES
@@ -51336,7 +51336,7 @@ worse; and it puzzled the good people of Mudfog amazingly.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_02" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 2)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_02" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 2)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 At length, about the middle of the month of October, Mr. Tulrumble and
@@ -51464,7 +51464,7 @@ compliments, and they’d be sure to come.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_03" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 3)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_03" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 3)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 Now there happened to be in Mudfog, as somehow or other there does
@@ -51597,7 +51597,7 @@ here nor there.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_04" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 4)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_04" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 4)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 The next day, and the day following, and the day after that, Ned
@@ -51709,7 +51709,7 @@ of the first-mentioned to sit down and take something—just to drink
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_05" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 5)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_05" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 5)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 So, down Ned Twigger sat himself in his brass livery on the top of the
@@ -51842,7 +51842,7 @@ deploring his unhappiness in most dismal tones.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_06" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 6)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_06" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 6)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 What a wailing and screaming Ned’s children raised when he got [[Home|home]] at
@@ -51941,7 +51941,7 @@ sighed for the good old times of the coal-shop, and the chimney corner.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_07" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 7)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_07" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 7)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 At length old Nicholas, being thoroughly miserable, took heart of
@@ -52067,7 +52067,7 @@ that it was an accident. Pray heaven it may prove so!’
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_08" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 8)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_08" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 8)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 ‘_Tuesday_, _noon_.
@@ -52192,7 +52192,7 @@ part.’
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_09" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 9)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_09" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 9)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 ‘_Nine o’clock_.
@@ -52311,7 +52311,7 @@ cannot be too highly extolled.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_10" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 10)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_10" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 10)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 ‘Intelligence has just been brought me, that an elderly female, in a
@@ -52440,7 +52440,7 @@ galleries, and other public edifices.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_11" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 11)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_11" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 11)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 ‘The President wished to be informed how the ingenious gentleman
@@ -52554,7 +52554,7 @@ half-brother, he must decline answering it.
 
 
 
-<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_12" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 12)" data-chapter="Story 37 The Mudfog And Other Sketches" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_the_mudfog_and_other_sketches--part_12" data-title="Sketches by Boz — The Mudfog And Other Sketches (part 12)" data-chapter="The Mudfog And Other Sketches" data-kind="excerpt"></span>
 
 
 ‘SECTION B.—ANATOMY AND MEDICINE.
@@ -52691,7 +52691,7 @@ the names and numbers of children’s books principally in circulation:—
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_01" data-title="Sketches by Boz — 21,407 (part 1)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_01" data-title="Sketches by Boz — 21,407 (part 1)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 21,407
@@ -52812,7 +52812,7 @@ with so great an undertaking.
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_02" data-title="Sketches by Boz — 21,407 (part 2)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_02" data-title="Sketches by Boz — 21,407 (part 2)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘Mr. Jobba produced a forcing-[[Machine|machine]] on a [[Novel|novel]] plan, for bringing
@@ -52932,7 +52932,7 @@ that are wholly indescribable. But of such materials is our imperfect
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_03" data-title="Sketches by Boz — 21,407 (part 3)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_03" data-title="Sketches by Boz — 21,407 (part 3)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘I am happy to say that I am the first passenger on board, and shall
@@ -53069,7 +53069,7 @@ exultation about Professor Grime incompatible, I [[Fear|fear]], with true
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_04" data-title="Sketches by Boz — 21,407 (part 4)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_04" data-title="Sketches by Boz — 21,407 (part 4)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘_A quarter past twelve_.
@@ -53214,7 +53214,7 @@ last degree overwhelming.
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_05" data-title="Sketches by Boz — 21,407 (part 5)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_05" data-title="Sketches by Boz — 21,407 (part 5)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘Notwithstanding the throng of people here, I have been fortunate
@@ -53339,7 +53339,7 @@ propensities.’
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_06" data-title="Sketches by Boz — 21,407 (part 6)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_06" data-title="Sketches by Boz — 21,407 (part 6)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘_Monday_.
@@ -53452,7 +53452,7 @@ verging into a generation of bears.
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_07" data-title="Sketches by Boz — 21,407 (part 7)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_07" data-title="Sketches by Boz — 21,407 (part 7)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘After a scene of scientific enthusiasm it was resolved that this
@@ -53603,7 +53603,7 @@ arrangement.
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_08" data-title="Sketches by Boz — 21,407 (part 8)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_08" data-title="Sketches by Boz — 21,407 (part 8)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘Professor Nogo wished to be informed what amount of automaton police
@@ -53727,7 +53727,7 @@ change had been effected in her whole temperament and condition.
 
 
 
-<span class="atom-split" data-atom="story_40_21_407--part_09" data-title="Sketches by Boz — 21,407 (part 9)" data-chapter="Story 40 21 407" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_40_21_407--part_09" data-title="Sketches by Boz — 21,407 (part 9)" data-chapter="21 407" data-kind="excerpt"></span>
 
 
 ‘Mr. Pipkin (M.R.C.S.) read a short but most interesting communication
@@ -53873,7 +53873,7 @@ glorious spread it is.”’
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_01" data-title="Sketches by Boz — The Pantomime Of Life (part 1)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_01" data-title="Sketches by Boz — The Pantomime Of Life (part 1)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 THE PANTOMIME OF LIFE
@@ -53980,7 +53980,7 @@ after her with a toothless chuckle. The pantaloon to the life!
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_02" data-title="Sketches by Boz — The Pantomime Of Life (part 2)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_02" data-title="Sketches by Boz — The Pantomime Of Life (part 2)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 But the close resemblance which the clowns of the stage bear to those
@@ -54093,7 +54093,7 @@ class him with. How very odd that this never occurred to us before!
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_03" data-title="Sketches by Boz — The Pantomime Of Life (part 3)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_03" data-title="Sketches by Boz — The Pantomime Of Life (part 3)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 We will frankly own that we have been much troubled with the harlequin.
@@ -54195,7 +54195,7 @@ dramatic poet, wrote thus a year or two ago—
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_04" data-title="Sketches by Boz — The Pantomime Of Life (part 4)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_04" data-title="Sketches by Boz — The Pantomime Of Life (part 4)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 ‘All the world’s a stage,
@@ -54312,7 +54312,7 @@ upon them.
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_05" data-title="Sketches by Boz — The Pantomime Of Life (part 5)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_05" data-title="Sketches by Boz — The Pantomime Of Life (part 5)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 While the [[Lion|lion]] was exhibiting in this way, his keeper was not idle, for
@@ -54413,7 +54413,7 @@ MR. ROBERT BOLTON: THE ‘GENTLEMAN CONNECTED WITH THE PRESS’
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_06" data-title="Sketches by Boz — The Pantomime Of Life (part 6)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_06" data-title="Sketches by Boz — The Pantomime Of Life (part 6)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 In the parlour of the Green Dragon, a public-[[house]] in the immediate
@@ -54529,7 +54529,7 @@ place. Everybody was waiting, anxious for his first observation.
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_07" data-title="Sketches by Boz — The Pantomime Of Life (part 7)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_07" data-title="Sketches by Boz — The Pantomime Of Life (part 7)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 ‘Horrid murder in Westminster this morning,’ observed Mr. Bolton.
@@ -54674,7 +54674,7 @@ practical joke.
 
 
 
-<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_08" data-title="Sketches by Boz — The Pantomime Of Life (part 8)" data-chapter="Story 41 The Pantomime Of Life" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_the_pantomime_of_life--part_08" data-title="Sketches by Boz — The Pantomime Of Life (part 8)" data-chapter="The Pantomime Of Life" data-kind="excerpt"></span>
 
 
 As we whirled away, I was led insensibly into an anticipation of those

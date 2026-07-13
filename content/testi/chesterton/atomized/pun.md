@@ -101,8 +101,8 @@ a human insect, a creature who is malodorous and poisonous at once."
 But it would not have the special sort of ringing energy and emphasis
 of a couplet to the same effect:
 
-  Yet let me flap this bug with gilded wings,
-  This painted [[Child|child]] of dirt that stinks and stings.
+Yet let me flap this bug with gilded wings,
+This painted [[Child|child]] of dirt that stinks and stings.
 
 This is in one way a specially good example, because it shows
 the proximity of assonance to other verbal tricks.  If wings and stings
@@ -119,10 +119,10 @@ but it is a little laborious, and does not express either
 the detachment or the decision of such a critic of duelling.
 Hood, as a fact, did write:
 
-  So each one upwards in the air
-  His shot he did expend.
-  And may all other duels have
-  That upshot at the end.
+So each one upwards in the air
+His shot he did expend.
+And may all other duels have
+That upshot at the end.
 
 Here the verbal jest, falling so ridiculously right,
 does express, not merely the humanity of the critic, but also his
@@ -137,10 +137,10 @@ What is wanted for such fanatacisms is the note of scorn;
 and you get it with the [[Double|double]] ring of a real argument and
 a verbal gibe:
 
-  Once let the sect triumphant to their text
-  Shut Nero up from Saturday till Monday;
-  And sure as fate they will deny us next
-  To see the dandelions on a [[Sunday]].
+Once let the sect triumphant to their text
+Shut Nero up from Saturday till Monday;
+And sure as fate they will deny us next
+To see the dandelions on a [[Sunday]].
 
 That is the literary use of the trick, and is poetic as [[Well|well]] as pointed:
 a landscape as [[Well|well]] as a trap.
@@ -240,8 +240,8 @@ a human insect, a creature who is malodorous and poisonous at once."
 But it would not have the special sort of ringing energy and emphasis
 of a couplet to the same effect:
 
-  Yet let me flap this bug with gilded wings,
-  This painted [[Child|child]] of dirt that stinks and stings.
+Yet let me flap this bug with gilded wings,
+This painted [[Child|child]] of dirt that stinks and stings.
 
 This is in one way a specially good example, because it shows
 the proximity of assonance to other verbal tricks.  If wings and stings
@@ -258,10 +258,10 @@ but it is a little laborious, and does not express either
 the detachment or the decision of such a critic of duelling.
 Hood, as a fact, did write:
 
-  So each one upwards in the air
-  His shot he did expend.
-  And may all other duels have
-  That upshot at the end.
+So each one upwards in the air
+His shot he did expend.
+And may all other duels have
+That upshot at the end.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -353,8 +353,8 @@ insetto umano, una creatura che è insieme fetida e velenosa."
 Ma ciò non avrebbe la speciale sorta di sonora energia ed enfasi
 di un distico dallo stesso effetto:
 
-  Pur lasciate ch'io scacci questo insetto dalle ali dorate,
-  questo dipinto [[Child|figlio]] del fango che fetido punge.
+Pur lasciate ch'io scacci questo insetto dalle ali dorate,
+questo dipinto [[Child|figlio]] del fango che fetido punge.
 
 Questo è per un verso un esempio particolarmente buono, perché mostra
 la prossimità dell'assonanza ad altri artifici verbali.  Se «wings» e «stings»
@@ -371,10 +371,10 @@ ma è un po' laborioso, e non esprime né
 il distacco né la decisione di un simile critico del duello.
 Hood, di fatto, scrisse davvero:
 
-  Così ciascuno verso l'alto nell'aria
-  il suo colpo spese.
-  E possano tutti gli altri duelli avere
-  quell'esito alla fine.
+Così ciascuno verso l'alto nell'aria
+il suo colpo spese.
+E possano tutti gli altri duelli avere
+quell'esito alla fine.
 
 
 
@@ -394,10 +394,10 @@ What is wanted for such fanatacisms is the note of scorn;
 and you get it with the [[Double|double]] ring of a real argument and
 a verbal gibe:
 
-  Once let the sect triumphant to their text
-  Shut Nero up from Saturday till Monday;
-  And sure as fate they will deny us next
-  To see the dandelions on a [[Sunday]].
+Once let the sect triumphant to their text
+Shut Nero up from Saturday till Monday;
+And sure as fate they will deny us next
+To see the dandelions on a [[Sunday]].
 
 That is the literary use of the trick, and is poetic as [[Well|well]] as pointed:
 a landscape as [[Well|well]] as a trap.
@@ -420,10 +420,10 @@ Ciò che occorre per simili fanatismi è il tono dello scherno;
 e lo si ottiene con il [[Double|doppio]] rintocco d'un vero argomento e
 d'una frecciata verbale:
 
-  Una volta che la setta trionfante al proprio testo
-  rinchiuda Nerone dal sabato al lunedì;
-  e certo come il destino ci negheranno poi
-  di vedere i denti di leone di [[Sunday|domenica]].
+Una volta che la setta trionfante al proprio testo
+rinchiuda Nerone dal sabato al lunedì;
+e certo come il destino ci negheranno poi
+di vedere i denti di leone di [[Sunday|domenica]].
 
 Questo è l'uso letterario del trucco, ed è poetico tanto [[Well|quanto]] acuto:
 un paesaggio non [[Well|meno]] che una trappola.

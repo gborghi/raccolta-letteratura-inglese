@@ -685,7 +685,7 @@ The brave man with a [[Sword|sword]]!
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="The Ballad of Reading Gaol — Part I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="The Ballad of Reading Gaol — Part I" data-chapter="part i" data-kind="section"></span>
 
 
 I  
@@ -790,7 +790,7 @@ The kiss of Caiaphas.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="The Ballad of Reading Gaol — Part II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="The Ballad of Reading Gaol — Part II" data-chapter="part II" data-kind="section"></span>
 
 
 II  
@@ -876,7 +876,7 @@ Had caught us in its snare.
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="The Ballad of Reading Gaol — Part III" data-chapter="Section 03 part iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="The Ballad of Reading Gaol — Part III" data-chapter="part III" data-kind="section"></span>
 
 
 III  
@@ -1106,7 +1106,7 @@ More deaths than one must die.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="The Ballad of Reading Gaol — Part IV" data-chapter="Section 04 part iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="The Ballad of Reading Gaol — Part IV" data-chapter="part IV" data-kind="section"></span>
 
 
 IV  
@@ -1252,7 +1252,7 @@ And outcasts always mourn
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="The Ballad of Reading Gaol — Part V" data-chapter="Section 05 part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="The Ballad of Reading Gaol — Part V" data-chapter="part v" data-kind="section"></span>
 
 
 V  
@@ -1362,7 +1362,7 @@ Became [[Christ]]’s [[Snow|snow]]-white seal.
 
 
 
-<span class="atom-split" data-atom="section_06_part_vi" data-title="The Ballad of Reading Gaol — Part VI" data-chapter="Section 06 part vi" data-kind="section"></span>
+<span class="atom-split" data-atom="section_06_part_vi" data-title="The Ballad of Reading Gaol — Part VI" data-chapter="part VI" data-kind="section"></span>
 
 
 VI  

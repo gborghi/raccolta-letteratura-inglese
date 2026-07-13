@@ -144,10 +144,10 @@ PART ONE:  LITERATURE IN GENERAL
 SENTIMENTAL LITERATURE
 
 WE SHALL never attain to a serious and complete school of criticism
-so long as the word `sentimental' is regarded as a term of depreciation.
-That `passionate' should be a complimentary form and `sentimental'
+so long as the word ‘sentimental' is regarded as a term of depreciation.
+That ‘passionate' should be a complimentary form and ‘sentimental'
 a hostile one is as utterly unmeaning and ridiculous as it would
-be if `blue' were complimentary and `green' hostile.  The difference
+be if ‘blue' were complimentary and ‘green' hostile.  The difference
 between passion and sentiment is not, as is so often assumed,
 a difference in sincerity or wholesomeness or reality of feeling.
 It is a difference between two ways of looking at the same
@@ -481,14 +481,14 @@ deficiency in humour to search for a definition of humour.  The modern
 use of the term, however, is by no means the primary or necessary use
 of it; and it is one of the cases, rarer than is commonly supposed,
 in which derivation offers at least an approach to definition.
-Everybody knows that `Humor', in the Latin sense of `moisture'
+Everybody knows that ‘Humor', in the Latin sense of ‘moisture'
 was applied here as part of the old physiological theory,
 by which the characters of men varied according to the proportions
 of certain different secretions in the human body; as, for instance,
 that the predominance of phlegm produced the phlegmatic humour.
 By the time of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
-the word `[[Humour|humour]]' rather in the sense of `the ruling passion'.
+the word ‘[[Humour|humour]]' rather in the sense of ‘the ruling passion'.
 With this there necessarily went an idea of exaggeration;
 and by the end of the process the character of a humorist was
 more or less identical with what we should call an eccentric.
@@ -500,7 +500,7 @@ and more casual than in other countries, the eccentric long remained,
 as we should say, half unconsciously and half consciously humorous.
 The blend, and the beginnings of the modern meaning, may perhaps be dated
 at about the time of Walter Scott's Waverley Novels; when Guy Mannering
-complains of Councillor Pleydell as `a crack-brained humorist'.
+complains of Councillor Pleydell as ‘a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
 but he himself joins in the laugh and sees the [[Humour|humour]] of his [[Humour|humour]].
 Since then the word has come to be used more and more exclusively
@@ -533,7 +533,7 @@ be recognized as [[Humour|humour]].  But we rightly class Voltaire as a wit,
 because he represents the consistent human reason detesting
 an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
-more than is seen at a glance in the very word `encourage'. But it
+more than is seen at a glance in the very word ‘encourage'. But it
 is true that the wit is here a judge independent of the judges,
 unaffected by the King or the Admiral or the English Courtmartial
 or the mob.  He is abstract justice recording a contradiction.
@@ -809,7 +809,7 @@ to write about him.
 I was a great reader of novels until I began to review them,
 when I naturally left off reading them.  I do not mean to admit that I
 did them any injustice; I studied and sampled them with the purpose
-of being strictly fair; but I do not call that `[[Novel|novel]] reading'
+of being strictly fair; but I do not call that ‘[[Novel|novel]] reading'
 in the old enchanting sense.  If I read them thoroughly I still read
 them rapidly; which is quite against my instincts for the mere luxury
 of reading.  When I was a boy and really had a new adventure story,
@@ -970,10 +970,10 @@ the isolation of the bird but the stranger isolation of the man.
 "We look before and after . . . our sweetest [[songs]] are those that tell
 of saddest thought."
 
-  But if we could scorn
-  Hate and [[Pride|pride]] and [[Fear|fear]],
-  If we were things born
-  Not to shed a tear --
+But if we could scorn
+Hate and [[Pride|pride]] and [[Fear|fear]],
+If we were things born
+Not to shed a tear --
 
 There the pantheistic poet is telling a tale not told by all
 the parrots in the Zoological Gardens; but rather by the Bird
@@ -1223,7 +1223,7 @@ may say that the crime does not get rid of the [[Temptation|temptation]].
 Make a morbid decision and you will only become more morbid;
 do a lawlesss thing and you will only get into an atmosphere much
 more suffocating than that of law.  Indeed, it is a mistake to speak
-of a man as `breaking out.'  The lawless man never breaks out;
+of a man as ‘breaking out.'  The lawless man never breaks out;
 he breaks in.  He smashes a door and finds himself in another room,
 he smashes a wall and finds himself in a yet smaller one.
 The more he shatters the more his habitation shrinks.
@@ -1410,7 +1410,7 @@ and after dinner-speakers talked about the Bard or the Swan of Avon,
 until it was comparatively easy, at the end of the Victorian era,
 for somebody like Bernard Shaw to propose an Edwardian massacre
 of Bards and almost to insinuate that the swan was a goose.
-Most of the trouble came from what are called `Familiar Quotations',
+Most of the trouble came from what are called ‘Familiar Quotations',
 which were hardly even representative or [[Self|self]]-explanatory quotations.
 In almost all the [[Well|well]]-known passages from Shakespeare,
 to quote the passage is to miss the point.  It is almost needless
@@ -1600,7 +1600,7 @@ a [[Dust|dust]]-heap. Similarly, the Sultan of the Indies heard the tales
 of the four quarters of the earth while sitting on a cushion.
 The essential point, the essential lesson of these Oriental
 literatures is the clear and most moral lesson of idleness.
-Idleness is not a vice; in the old Chaucerian form of `idlesse'
+Idleness is not a vice; in the old Chaucerian form of ‘idlesse'
 it is a pleasure, and almost a virtue.  Its true name is leisure.
 It is not a trifling with unimportant things, but a vision of all
 the innumerable important things in the universe which are in
@@ -1639,14 +1639,14 @@ and the human past, in such a man; even if he only used it to rob
 the past or deceive the future.  The story of Arthur may have been
 really connected with the most fighting Christianity of falling Rome
 or with the most heathen traditions hidden in the hills of Wales.
-But the word `Mappe' or `Malory' will always mean King Arthur;
+But the word ‘Mappe' or ‘Malory' will always mean King Arthur;
 even though we find older and better origins than the Mabinogian;
-or write later and worse versions than the `Idylls of the [[King]].'
+or write later and worse versions than the ‘Idylls of the [[King]].'
 The nursery fairy-tales may have come out of Asia with the
 Indo-European race, now fortunately extinct; they may have been
 invented by some fine French lady or gentlemen like Perrault:
 they may possibly even be what they profess to be.  But we shall
-always call the best selection of such tales, `Grimm's Tales';
+always call the best selection of such tales, ‘Grimm's Tales';
 simply because it is the best collection.
 
 The historical Aesop, in so far as he was historical, would seem
@@ -1782,15 +1782,15 @@ but we have no special word for the pleasant sort of scholar
 or intellectual.  We can call the wrong sort of society person a snob,
 but we have no special name for the right sort of society person.
 Thus we are driven to the ghastly necessity, for instance,
-of calling our friends `nice'. Fancy calling Dr. Johnson `nice',
-and Fox `nice', and Nelson `nice'. It does not present very vivid
+of calling our friends ‘nice'. Fancy calling Dr. Johnson ‘nice',
+and Fox ‘nice', and Nelson ‘nice'. It does not present very vivid
 or varied portraits.
 
 I have been reading, side by side, two books about men
-who were both `nice', and whose books were `nice'. They were
+who were both ‘nice', and whose books were ‘nice'. They were
 the two great nineteenth-century tellers of tales to children.
 They were also as flatly contrary to each other at every point
-as two men could be, but if I go beyond calling them both `nice'
+as two men could be, but if I go beyond calling them both ‘nice'
 and try to compare them or say what they were like, it will quite
 certainly sound as though I were praising one and blaming the other.
 This is simply because we cannot vary praise as we vary blame.
@@ -1815,7 +1815,7 @@ kind of poetry which was supremely wild and supremely [[Innocent|innocent]].
 It was the poetry of pure nonsense, which has never been
 known in the world before and may never be known again.
 Lewis Carroll was not the only example:  Edward Lear, I think,
-was a better one; and I would put in a word for the `Katawampus'
+was a better one; and I would put in a word for the ‘Katawampus'
 and other stories of Judge Parry, that children loved at least as much.
 Lewis Carroll's letters to children prove that not only did
 he love children, but that children loved him; nevertheless I
@@ -2041,7 +2041,7 @@ of Aubrey Beardsley has been the justification of Dickens.
 
 Dickens, of course, has been a great deal handicapped by the common
 habit among his admirers of praising him for the wrong things.
-He is praised for being `true to life', while his true merit is not
+He is praised for being ‘true to life', while his true merit is not
 that he is true to life, but alive.  It is common to hear a man
 say when Dickens is accused of exaggeration, "I have met a man
 exactly like Pecksniff."  Of course, to begin with, he has not met
@@ -2059,7 +2059,7 @@ Mrs. Micawber ever existed or ever will exist in the whole domain
 of the universe, then we know that Mrs. Micawber is like life.
 We know that Dickens created as Life itself creates.
 
-This is the far higher sense in which great art is `like life',
+This is the far higher sense in which great art is ‘like life',
 far higher, that is, than the ordinary sense in which the phrase is used.
 Great literature is like life.  Not because it is accurate to the
 leaves on the tree and the pattern on the carpet and the words men
@@ -2090,7 +2090,7 @@ his intense realism and his frantic unreality, are all manifestations
 of a quite insatiable and omnivorous power of mental pleasure
 to which our period has lost the key.  He was the last of the great
 comic writers; since his time we have lost the power of realizing
-the connection between the words `great' and `comic'. We have forgotten
+the connection between the words ‘great' and ‘comic'. We have forgotten
 that Aristophanes and Rabelais stand with Aeschylus and Dante;
 that their folly was wiser and more solid than our wisdom,
 and that their levity has outlasted a hundred philosophies.
@@ -2150,12 +2150,12 @@ DISPUTES ON DICKENS
 AN INTERESTING little controversy began some time ago in the Academy
 on the position of Dickens, and it throws a flood of light on
 the real character of the temporary reaction against that great
-novelist's fame.  `E.A.B.', the able and decisive Academy critic
-is a typical representative of the school devoted to `Art' in its
+novelist's fame.  ‘E.A.B.', the able and decisive Academy critic
+is a typical representative of the school devoted to ‘Art' in its
 more technical sense, and like all the critics of that school he has
 a clear, hard and almost scientific critical method of critical test.
-Dickens falls in his eyes because of what he calls his `artistic
-ignorance and indifference' and his lack of `feeling for literature',
+Dickens falls in his eyes because of what he calls his ‘artistic
+ignorance and indifference' and his lack of ‘feeling for literature',
 all of which means that Dickens was not an artist of the particular
 pattern which French fiction in the nineteenth century has made
 essential and even popular.
@@ -2171,7 +2171,7 @@ cease to believe in religion; and if there were such a justification
 of art, most healthy-minded people would cease to believe in art.
 Touching these high matters we can endure anything except that they
 should turn out to be so small that we can even understand them.
-And so the `Art for Art's Sake' school of criticism will be found
+And so the ‘Art for Art's Sake' school of criticism will be found
 to be merely relative and in a century or so Flaubert the critic
 will be as dead and as interesting as Aristotle.  But Flaubert
 the novelist will remain impeccable and also Dickens the novelist.
@@ -2192,9 +2192,9 @@ There is a mood at the back of the whole work of Dickens as much
 as there is a mood at the back of the whole work of Maeterlinck;
 and it must be confessed with shame, as far as I am concerned,
 that our mood is the mood of Maeterlinck and not the mood of Dickens.
-To `E.A.B.' and his school, `[[Pickwick]]' is not exactly either good or bad;
+To ‘E.A.B.' and his school, ‘[[Pickwick]]' is not exactly either good or bad;
 it is simply not a [[Novel|novel]] at all.  To the very best critics of Dickens'
-[[Time|time]], `Pelleas and Melisande' would have been something not exactly
+[[Time|time]], ‘Pelleas and Melisande' would have been something not exactly
 good or bad but simply not a drama at all.  If they had seen it
 acted they would not have thought that the drama was deteriorating.
 They would only have thought that they themselves were going mad.
@@ -2217,7 +2217,7 @@ insane universe with its grinning angels, its gaping saints.
 Not the most secret volume of eighteenth-century atheism had conceived
 in its wrath and satire such a celestial parody as these painters
 had conceived in their humility and faith.  Such was the impression
-which Christian art produced on the whole of the `age des philosophes':
+which Christian art produced on the whole of the ‘age des philosophes':
 that it was an example of an almost shocking [[innocence]] like a baby's
 picture of God.
 
@@ -2256,16 +2256,16 @@ too optimistic or too conventional, they say that he had "absolutely
 no feeling for literature".
 
 When we come to examine the case of Dickens carefully, we find that this
-is exactly what has happened.  The characteristics which `E.A.B.'
+is exactly what has happened.  The characteristics which ‘E.A.B.'
 and other critics note as the defects of Dickens are in a great many
 instances the proper and inevitable modes of expressing a certain
-gigantic conviviality and cordiality.  For example, `E.A.B.'
-speaks of the formlessness of `Pickwick', but he does not notice
+gigantic conviviality and cordiality.  For example, ‘E.A.B.'
+speaks of the formlessness of ‘Pickwick', but he does not notice
 that what he calls formlessness was in fact a well-known and
 celebrated artistic form among the elder and more convivial writers.
 The sprawling and seemingly disconnected novel of comic adventure
 was a recognized and excellent form of art.  Recent criticism I
-believe is accustomed to describe it as the `picaresque' [[Novel|novel]].
+believe is accustomed to describe it as the ‘picaresque' [[Novel|novel]].
 For when we come to think of it, the whole point is very simple.
 The new impressionist method of brevity, restraint, and an adhesion
 to one central image or incident is the right and proper literary
@@ -2278,7 +2278,7 @@ them the better.  One flash of literary [[Lightning|lightning]] revealing a woma
 dead in a garret with a victorious army marching by is enough
 if the sentiment concerned is the sentiment of a pitiful irony.
 But it is not enough if the sentiment is that of the ancient
-camaraderies and immortal enterprises of the `picaresque' novel.
+camaraderies and immortal enterprises of the ‘picaresque' novel.
 
 You cannot exhibit Sam Weller in a flash of lightning.
 The whole emotional significance of Sam Weller depends upon the idea
@@ -2289,12 +2289,12 @@ misfortune we all desire to say little and that the words in a French
 short story should be few, like the words in a house of mourning.
 But the moment we come into the atmosphere of positive delight
 and exultation a new element enters in, the desire to linger.
-Books like `[[Pickwick]]' are the most lingering.  Men linger over
+Books like ‘[[Pickwick]]' are the most lingering.  Men linger over
 their walks, over their talks, over their stories, over their dinners.
 All the characters seem friends who are talking together far into
 an immortal [[Night|night]] to which no grey morning ever comes.
 
-The formlessness of `Pickwick' is therefore its form.
+The formlessness of ‘Pickwick' is therefore its form.
 This mood of exuberance has two natural expressions, the desire
 to linger and the desire to ramble.  If Pickwick and his friends
 were not continually crossing a crowded stage which was for ever
@@ -2766,7 +2766,7 @@ But in its wildest exaggerations of fanaticism, it never talks
 as if the heathen had not built bridges or produced poetry.
 They did not call the classical architecture the Vandal architecture,
 as if it had been built only by the barbarians who destroyed it.
-Yet that would have been a parallel to the very word `Gothic'
+Yet that would have been a parallel to the very word ‘Gothic'
 which we are still compelled by custom to use.  The medieval world did
 not talk about Plato and Cicero as fools occupied with futilities;
 yet that is exactly how a more modern world talked of the [[philosophy]]
@@ -2923,9 +2923,9 @@ in some gesture of eloquence or [[Pride|pride]].  No imaginative person will
 wholly fail to respond to the emotion expressed about a murdered
 [[Renaissance]] prince by a great English [[Renaissance]] poet:
 
-  He is there
-  Up like a Roman statue and will stand
-  Till [[Dawn|dawn]] has made him marble.
+He is there
+Up like a Roman statue and will stand
+Till [[Dawn|dawn]] has made him marble.
 
 But to Chaucer all this would have been utterly incomprehensible
 in connection with a church.  In that connection he would have thought
@@ -3135,8 +3135,8 @@ that if Chaucer or even Sackville, had read Mr. Kipling's poetry
 and understood it they would simply not have been able to make head
 or tail of what he meant when he said:
 
-  The hush of the dread high altar
-  Where the Abbey makes us We.
+The hush of the dread high altar
+Where the Abbey makes us We.
 
 They would not have been able to understand how a vague Darwinian
 like Cecil Rhodes, who called a lonely [[Hill|hill]] in Africa "his church",
@@ -3463,7 +3463,7 @@ Was that artificial and a superstition?  Did priests come in the dead
 of [[Night|night]] and mark out by secret signs the stones on which you
 are allowed to tread?  Were children threatened with the oubliette
 or the [[Fire|fire]] of Smithfield if they failed to step on the right stone?
-Has the Church issued a bill `Quisquam non pavemente'?"  No!  On this
+Has the Church issued a bill ‘Quisquam non pavemente'?"  No!  On this
 point on which we were really free, we invented our servitude.
 We chose to say that between the first and the third paving-stone there
 was an abyss of the eternal darkness into which we must not fall.
@@ -3595,7 +3595,7 @@ Now the whole point of a holiday was to be, within certain
 rational restraints, irresponsible.  Interfering with a holiday
 was almost like interfering with a dream.  And the whole project
 of using holidays as anything else but holidays was really absent
-from the mind.  The notion of `combining amusement with instruction'
+from the mind.  The notion of ‘combining amusement with instruction'
 would have seemed like the notion of combining [[Sleep|sleep]] with insomnia.
 Great spiritual authorities have told us to watch and pray.
 Great spiritual influences, I think, also tell us to believe and [[Sleep|sleep]].
@@ -3629,9 +3629,9 @@ railway stations will be found thronged with the bags and babies
 of innumerable families going to seaside resorts.  Each traveller is
 (I need hardly say) murmuring to himself the lines of Swinburne:
 
-  "I will go down to the great white mother...
-  Mother and maker of men, the sea;
-  I will go down to her, I and none other..."
+"I will go down to the great white mother...
+Mother and maker of men, the sea;
+I will go down to her, I and none other..."
 
 A friend of mine regards these lines as unreasonable, declaring
 that Swinburne, however much he liked sea-bathing, should not insist
@@ -3721,7 +3721,7 @@ carriage with an excellent [[Horse|horse]], with which he could drive me anywher
 and he was, as far as appearance goes, rather like a very rude beggar.
 His clothes were coarse and threadbare, his face was rugged, but sharp;
 he was always in a sweat from drudgeries.  A man who looked like
-that would be `moved on' in London if he tried to open the door
+that would be ‘moved on' in London if he tried to open the door
 of a cab.  Well, I got him to drive me away over the hills, and,
 finding that the mountains grew taller, grander, and (one might say)
 more incredible at every turn of the road, I persuaded him to make
@@ -3820,9 +3820,9 @@ By that time the little commonwealth ought to have a whole tangle
 of traditions ultimately to be traced back to the lost idea of a train.
 Perhaps people would still go religiously to the ticket-office
 at intervals, as to a kind of confessional box; and there recite
-the names of far-off and by this time fabulous places; the word `Harrow'
-sounding like the word `Heaven' or the word `Ealing' like the word
-`Eden'. For this society would of course, like every other,
+the names of far-off and by this time fabulous places; the word ‘Harrow'
+sounding like the word ‘Heaven' or the word ‘Ealing' like the word
+‘Eden'. For this society would of course, like every other,
 produce sceptics; that is men who had lost their social memory.
 All sorts of quaint ceremonials would survive, and would be scoffed
 at as irrational, because their rational origin had been obscured.
@@ -3974,10 +3974,10 @@ which the guildsmen wheeled about the streets, was sometimes
 a structure of three floors, with one scene above another.
 A parallel can be found in those tremendous lines of Francis Thompson:
 
-  East, ah, east of Himalay
-  Dwell the nations underground,
-  Hiding from the shock of Day;
-  From the sun's uprising sound.
+East, ah, east of Himalay
+Dwell the nations underground,
+Hiding from the shock of Day;
+From the sun's uprising sound.
 
 But no poetry even of the greatest poets will ever express all that is
 hidden in that image of the light of the world like a subterranean sun;
@@ -4190,7 +4190,7 @@ I can't even remember which."
 added as in feeble self-defence, "Africanus."
 
 He inquired whether I meant that the man was an African.  I feared,
-in any case, that the word `African' would not instantly summon up
+in any case, that the word ‘African' would not instantly summon up
 before his [[Imagination|imagination]] the figure of St. Augustine; or even of Hannibal.
 It would more probably suggest to him a coal-black negro.
 So I said that I was sure he was not an African; I believed
@@ -4271,7 +4271,7 @@ They understand what is really meant by the equality of the sexes:
 
 They understand that the world ends when that trinity is really broken,
 whether by confounding the persons or dividing the substance.
-They understand the word `sacrament', which is simply senseless gibberish
+They understand the word ‘sacrament', which is simply senseless gibberish
 to everybody else.  They understand that politics and economics
 and every thing practical means providing the huge human cafe with
 such tables--but separate tables.  They understand that when this
@@ -4312,7 +4312,7 @@ Constable of Beaconsfield?"  "Why, of course not," I said.
 (except perhaps the criminals) would want to have for a constable?"
 
 "Well," replied my friend doubtfully, "It's down in the
-`Daily Gazette', anyhow.  `Mr. G. K. Chesterton has been nominated
+‘Daily Gazette', anyhow.  ‘Mr. G. K. Chesterton has been nominated
 as a Parish Constable of Beaconsfield.'"
 
 "And a jolly good joke, too," I answered.  "I thought you had a more
@@ -4414,7 +4414,7 @@ The very form of his appointment breathes of a somewhat breezier age;
 for (as in my own case) he is not even asked if he will stand.
 This suggests the jolly time when there was no nonsense about wanting
 to serve your country; no buying of peerages by breeding cattle;
-no climbing into rich idleness by means of `polite work'.
+no climbing into rich idleness by means of ‘polite work'.
 
 Doubtless it is august and dignified to be a constable.
 So it is august and dignified to be a juryman; for to be a juryman
@@ -4648,7 +4648,7 @@ If once they were taken seriously in that most serious world,
 the world of Sport, enormous results will follow.  The shops
 will sell a special Slipper for Hunt-the-Slipper, or a caddy will
 follow the player with a bag full of fifteen different slippers.
-Honey-pots will mean money-pots; and there will be a `corner'
+Honey-pots will mean money-pots; and there will be a ‘corner'
 in puss-in-the-corner.
 
 Anyhow, I have enjoyed like everybody else those sports and spices
@@ -4750,16 +4750,16 @@ more sublime impudence for an older man to criticize a younger.
 Yet I will defend my own idea of the spiritual spice of life against even
 the spirituality that finds this ordinary life entirely without spice.
 I know very well that Mr. Eliot described the desolation he found
-more than the desolation he felt.  But I think that `The Waste Land'
+more than the desolation he felt.  But I think that ‘The Waste Land'
 was at least a world in which he had wandered.  And as I am describing
 the recent world, I may as [[Well|well]] describe it as he has described it,
-in `The Hollow Men'--though nobody would describe him as a hollow man.
+in ‘The Hollow Men'--though nobody would describe him as a hollow man.
 This is the impression of many impressions.
 
-  This is the way the world ends
-  This is the way the world ends
-  This is the way the world ends
-  Not with a bang but a whimper.
+This is the way the world ends
+This is the way the world ends
+This is the way the world ends
+Not with a bang but a whimper.
 
 Now forgive me if I say, in my old-world fashion, that I'm damned
 if I ever felt like that.  I recognize the great realities Mr. Eliot
@@ -4776,10 +4776,10 @@ of life, I will defend the spiritual appetite of my own age.
 I will even be so indecently frivolous as to break into song,
 and say to the young pessimists:
 
-  Some sneer; some snigger; some simper;
-  In the youth where we laughed and sang,
-  And they may end with a whimper
-  But we will end with a bang.
+Some sneer; some snigger; some simper;
+In the youth where we laughed and sang,
+And they may end with a whimper
+But we will end with a bang.
 
 ON FRAGMENTS
 
@@ -4794,7 +4794,7 @@ turned towards you with the rounded and complete expression
 of a congenital idiot, you may be certain again that he is
 nearer at that moment than at any other to knowing what you
 really are; which I fancy is the last thing that you desire.
-When we cast `an intelligent look' (as they say in books)
+When we cast ‘an intelligent look' (as they say in books)
 at a thing, it only means that we stamp our own significance upon it.
 When we look wisely at a post we see what we mean by a post.
 But when we look stupidly at a post we see what a post means.
@@ -4997,7 +4997,7 @@ THE SPICE OF LIFE.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_spice_of_life" data-title="Spice Of Life — Part 5: The Spice of Life" data-chapter="Chapter 01 The Spice of Life" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_spice_of_life" data-title="Spice Of Life — Part 5: The Spice of Life" data-chapter="The Spice of Life" data-kind="chapter"></span>
 
 
 Part Five:  The Spice of Life
@@ -5095,7 +5095,7 @@ of the Year.  Vedi pp.  173-5 per tutte le fonti.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_01" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 1)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_01" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 1)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 PART ONE:  LITERATURE IN GENERAL
@@ -5103,10 +5103,10 @@ PART ONE:  LITERATURE IN GENERAL
 SENTIMENTAL LITERATURE
 
 WE SHALL never attain to a serious and complete school of criticism
-so long as the word `sentimental' is regarded as a term of depreciation.
-That `passionate' should be a complimentary form and `sentimental'
+so long as the word ‘sentimental' is regarded as a term of depreciation.
+That ‘passionate' should be a complimentary form and ‘sentimental'
 a hostile one is as utterly unmeaning and ridiculous as it would
-be if `blue' were complimentary and `green' hostile.  The difference
+be if ‘blue' were complimentary and ‘green' hostile.  The difference
 between passion and sentiment is not, as is so often assumed,
 a difference in sincerity or wholesomeness or reality of feeling.
 It is a difference between two ways of looking at the same
@@ -5208,7 +5208,7 @@ it is at least human even where it fails to be humane.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_02" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 2)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_02" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 2)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 And of its merits there is surely something to be said:
@@ -5317,7 +5317,7 @@ the title of "Silver Blaze".
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_03" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 3)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_03" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 3)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 The second great principle is that the soul of detective fiction
@@ -5433,7 +5433,7 @@ Some may call it a bore, but it may succeed as a blind.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_04" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 4)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_04" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 4)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 Lastly the principle that the detective story like every literary
@@ -5458,14 +5458,14 @@ deficiency in humour to search for a definition of humour.  The modern
 use of the term, however, is by no means the primary or necessary use
 of it; and it is one of the cases, rarer than is commonly supposed,
 in which derivation offers at least an approach to definition.
-Everybody knows that `Humor', in the Latin sense of `moisture'
+Everybody knows that ‘Humor', in the Latin sense of ‘moisture'
 was applied here as part of the old physiological theory,
 by which the characters of men varied according to the proportions
 of certain different secretions in the human body; as, for instance,
 that the predominance of phlegm produced the phlegmatic humour.
 By the time of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
-the word `[[Humour|humour]]' rather in the sense of `the ruling passion'.
+the word ‘[[Humour|humour]]' rather in the sense of ‘the ruling passion'.
 With this there necessarily went an idea of exaggeration;
 and by the end of the process the character of a humorist was
 more or less identical with what we should call an eccentric.
@@ -5477,7 +5477,7 @@ and more casual than in other countries, the eccentric long remained,
 as we should say, half unconsciously and half consciously humorous.
 The blend, and the beginnings of the modern meaning, may perhaps be dated
 at about the time of Walter Scott's Waverley Novels; when Guy Mannering
-complains of Councillor Pleydell as `a crack-brained humorist'.
+complains of Councillor Pleydell as ‘a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
 but he himself joins in the laugh and sees the [[Humour|humour]] of his [[Humour|humour]].
 Since then the word has come to be used more and more exclusively
@@ -5510,7 +5510,7 @@ be recognized as [[Humour|humour]].  But we rightly class Voltaire as a wit,
 because he represents the consistent human reason detesting
 an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
-more than is seen at a glance in the very word `encourage'. But it
+more than is seen at a glance in the very word ‘encourage'. But it
 is true that the wit is here a judge independent of the judges,
 unaffected by the King or the Admiral or the English Courtmartial
 or the mob.  He is abstract justice recording a contradiction.
@@ -5533,7 +5533,7 @@ divine because it has, for the moment, more sense of the mysteries.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_05" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 5)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_05" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 5)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 If there be so much of enlightenment to be gathered from the history
@@ -5701,7 +5701,7 @@ ever since the time of the Book of Proverbs, the hammer of fools.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_06" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 6)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_06" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 6)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 FICTION AS FOOD
@@ -5798,7 +5798,7 @@ to write about him.
 I was a great reader of novels until I began to review them,
 when I naturally left off reading them.  I do not mean to admit that I
 did them any injustice; I studied and sampled them with the purpose
-of being strictly fair; but I do not call that `[[Novel|novel]] reading'
+of being strictly fair; but I do not call that ‘[[Novel|novel]] reading'
 in the old enchanting sense.  If I read them thoroughly I still read
 them rapidly; which is quite against my instincts for the mere luxury
 of reading.  When I was a boy and really had a new adventure story,
@@ -5818,7 +5818,7 @@ and I have never managed to be thrifty about anything else.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_07" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 7)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_07" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 7)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 But about my early [[Novel|novel]] reading I was as thrifty as a French peasant--
@@ -5947,7 +5947,7 @@ harmony or music of the spheres.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_08" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 8)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_08" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 8)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 I do not deny that the poet may write an ode to a parrot
@@ -5971,10 +5971,10 @@ the isolation of the bird but the stranger isolation of the man.
 "We look before and after . . . our sweetest [[songs]] are those that tell
 of saddest thought."
 
-  But if we could scorn
-  Hate and [[Pride|pride]] and [[Fear|fear]],
-  If we were things born
-  Not to shed a tear --
+But if we could scorn
+Hate and [[Pride|pride]] and [[Fear|fear]],
+If we were things born
+Not to shed a tear --
 
 There the pantheistic poet is telling a tale not told by all
 the parrots in the Zoological Gardens; but rather by the Bird
@@ -6054,7 +6054,7 @@ and in the meadow the tree of life."
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_09" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 9)" data-chapter="Chapter 02 LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_09" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 9)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
 
 
 Now according to the old rationalistic criticism, it was enough to say
@@ -6138,7 +6138,7 @@ finché scopriamo che quella meteora fuggitiva è qualcosa come una luce a una
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_01" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 1)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_01" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 1)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 PART TWO:  PARTICULAR BOOKS AND WRITERS
@@ -6253,7 +6253,7 @@ as he sows so shall he reap.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_02" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 2)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_02" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 2)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 This then is the basis of all [[Tragedy|tragedy]], this living and perilous
@@ -6282,7 +6282,7 @@ may say that the crime does not get rid of the [[Temptation|temptation]].
 Make a morbid decision and you will only become more morbid;
 do a lawlesss thing and you will only get into an atmosphere much
 more suffocating than that of law.  Indeed, it is a mistake to speak
-of a man as `breaking out.'  The lawless man never breaks out;
+of a man as ‘breaking out.'  The lawless man never breaks out;
 he breaks in.  He smashes a door and finds himself in another room,
 he smashes a wall and finds himself in a yet smaller one.
 The more he shatters the more his habitation shrinks.
@@ -6362,7 +6362,7 @@ a situation which crushes him as something useless.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_03" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 3)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_03" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 3)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 Shakespeare does not mean that Macbeth's emotionalism and rich
@@ -6475,7 +6475,7 @@ and after dinner-speakers talked about the Bard or the Swan of Avon,
 until it was comparatively easy, at the end of the Victorian era,
 for somebody like Bernard Shaw to propose an Edwardian massacre
 of Bards and almost to insinuate that the swan was a goose.
-Most of the trouble came from what are called `Familiar Quotations',
+Most of the trouble came from what are called ‘Familiar Quotations',
 which were hardly even representative or [[Self|self]]-explanatory quotations.
 In almost all the [[Well|well]]-known passages from Shakespeare,
 to quote the passage is to miss the point.  It is almost needless
@@ -6503,7 +6503,7 @@ ignorant of the real meaning of those words.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_04" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 4)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_04" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 4)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 Thus, in the play of [[King Lear]], there are certain words which everybody
@@ -6619,7 +6619,7 @@ all possible perfections.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_05" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 5)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_05" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 5)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 Now length in the case of the Arabian Nights is not a mere
@@ -6677,7 +6677,7 @@ a [[Dust|dust]]-heap. Similarly, the Sultan of the Indies heard the tales
 of the four quarters of the earth while sitting on a cushion.
 The essential point, the essential lesson of these Oriental
 literatures is the clear and most moral lesson of idleness.
-Idleness is not a vice; in the old Chaucerian form of `idlesse'
+Idleness is not a vice; in the old Chaucerian form of ‘idlesse'
 it is a pleasure, and almost a virtue.  Its true name is leisure.
 It is not a trifling with unimportant things, but a vision of all
 the innumerable important things in the universe which are in
@@ -6716,20 +6716,20 @@ and the human past, in such a man; even if he only used it to rob
 the past or deceive the future.  The story of Arthur may have been
 really connected with the most fighting Christianity of falling Rome
 or with the most heathen traditions hidden in the hills of Wales.
-But the word `Mappe' or `Malory' will always mean King Arthur;
+But the word ‘Mappe' or ‘Malory' will always mean King Arthur;
 even though we find older and better origins than the Mabinogian;
-or write later and worse versions than the `Idylls of the [[King]].'
+or write later and worse versions than the ‘Idylls of the [[King]].'
 The nursery fairy-tales may have come out of Asia with the
 Indo-European race, now fortunately extinct; they may have been
 invented by some fine French lady or gentlemen like Perrault:
 they may possibly even be what they profess to be.  But we shall
-always call the best selection of such tales, `Grimm's Tales';
+always call the best selection of such tales, ‘Grimm's Tales';
 simply because it is the best collection.
 
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_06" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 6)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_06" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 6)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 The historical Aesop, in so far as he was historical, would seem
@@ -6850,7 +6850,7 @@ one moral to everything.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_07" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 7)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_07" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 7)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 BOTH SIDES OF THE LOOKING-GLASS
@@ -6871,15 +6871,15 @@ but we have no special word for the pleasant sort of scholar
 or intellectual.  We can call the wrong sort of society person a snob,
 but we have no special name for the right sort of society person.
 Thus we are driven to the ghastly necessity, for instance,
-of calling our friends `nice'. Fancy calling Dr. Johnson `nice',
-and Fox `nice', and Nelson `nice'. It does not present very vivid
+of calling our friends ‘nice'. Fancy calling Dr. Johnson ‘nice',
+and Fox ‘nice', and Nelson ‘nice'. It does not present very vivid
 or varied portraits.
 
 I have been reading, side by side, two books about men
-who were both `nice', and whose books were `nice'. They were
+who were both ‘nice', and whose books were ‘nice'. They were
 the two great nineteenth-century tellers of tales to children.
 They were also as flatly contrary to each other at every point
-as two men could be, but if I go beyond calling them both `nice'
+as two men could be, but if I go beyond calling them both ‘nice'
 and try to compare them or say what they were like, it will quite
 certainly sound as though I were praising one and blaming the other.
 This is simply because we cannot vary praise as we vary blame.
@@ -6904,7 +6904,7 @@ kind of poetry which was supremely wild and supremely [[Innocent|innocent]].
 It was the poetry of pure nonsense, which has never been
 known in the world before and may never be known again.
 Lewis Carroll was not the only example:  Edward Lear, I think,
-was a better one; and I would put in a word for the `Katawampus'
+was a better one; and I would put in a word for the ‘Katawampus'
 and other stories of Judge Parry, that children loved at least as much.
 Lewis Carroll's letters to children prove that not only did
 he love children, but that children loved him; nevertheless I
@@ -6967,7 +6967,7 @@ artificial sort of fairy-tale out of triangles and syllogisms.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_08" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 8)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_08" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 8)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 Hans Andersen was not only an uncle loved by children, he was a child.
@@ -7074,7 +7074,7 @@ under the word Victory where it shone upon the ship of Nelson.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_09" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 9)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_09" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 9)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 There is only one explanation.  There can be no other; and it
@@ -7142,7 +7142,7 @@ of Aubrey Beardsley has been the justification of Dickens.
 
 Dickens, of course, has been a great deal handicapped by the common
 habit among his admirers of praising him for the wrong things.
-He is praised for being `true to life', while his true merit is not
+He is praised for being ‘true to life', while his true merit is not
 that he is true to life, but alive.  It is common to hear a man
 say when Dickens is accused of exaggeration, "I have met a man
 exactly like Pecksniff."  Of course, to begin with, he has not met
@@ -7160,7 +7160,7 @@ Mrs. Micawber ever existed or ever will exist in the whole domain
 of the universe, then we know that Mrs. Micawber is like life.
 We know that Dickens created as Life itself creates.
 
-This is the far higher sense in which great art is `like life',
+This is the far higher sense in which great art is ‘like life',
 far higher, that is, than the ordinary sense in which the phrase is used.
 Great literature is like life.  Not because it is accurate to the
 leaves on the tree and the pattern on the carpet and the words men
@@ -7191,7 +7191,7 @@ his intense realism and his frantic unreality, are all manifestations
 of a quite insatiable and omnivorous power of mental pleasure
 to which our period has lost the key.  He was the last of the great
 comic writers; since his time we have lost the power of realizing
-the connection between the words `great' and `comic'. We have forgotten
+the connection between the words ‘great' and ‘comic'. We have forgotten
 that Aristophanes and Rabelais stand with Aeschylus and Dante;
 that their folly was wiser and more solid than our wisdom,
 and that their levity has outlasted a hundred philosophies.
@@ -7207,7 +7207,7 @@ a thing obscure with excess of jesting, a positive darkness of joy.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_10" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 10)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_10" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 10)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 There are many evidences that the great truth and passion
@@ -7257,12 +7257,12 @@ DISPUTES ON DICKENS
 AN INTERESTING little controversy began some time ago in the Academy
 on the position of Dickens, and it throws a flood of light on
 the real character of the temporary reaction against that great
-novelist's fame.  `E.A.B.', the able and decisive Academy critic
-is a typical representative of the school devoted to `Art' in its
+novelist's fame.  ‘E.A.B.', the able and decisive Academy critic
+is a typical representative of the school devoted to ‘Art' in its
 more technical sense, and like all the critics of that school he has
 a clear, hard and almost scientific critical method of critical test.
-Dickens falls in his eyes because of what he calls his `artistic
-ignorance and indifference' and his lack of `feeling for literature',
+Dickens falls in his eyes because of what he calls his ‘artistic
+ignorance and indifference' and his lack of ‘feeling for literature',
 all of which means that Dickens was not an artist of the particular
 pattern which French fiction in the nineteenth century has made
 essential and even popular.
@@ -7278,7 +7278,7 @@ cease to believe in religion; and if there were such a justification
 of art, most healthy-minded people would cease to believe in art.
 Touching these high matters we can endure anything except that they
 should turn out to be so small that we can even understand them.
-And so the `Art for Art's Sake' school of criticism will be found
+And so the ‘Art for Art's Sake' school of criticism will be found
 to be merely relative and in a century or so Flaubert the critic
 will be as dead and as interesting as Aristotle.  But Flaubert
 the novelist will remain impeccable and also Dickens the novelist.
@@ -7299,9 +7299,9 @@ There is a mood at the back of the whole work of Dickens as much
 as there is a mood at the back of the whole work of Maeterlinck;
 and it must be confessed with shame, as far as I am concerned,
 that our mood is the mood of Maeterlinck and not the mood of Dickens.
-To `E.A.B.' and his school, `[[Pickwick]]' is not exactly either good or bad;
+To ‘E.A.B.' and his school, ‘[[Pickwick]]' is not exactly either good or bad;
 it is simply not a [[Novel|novel]] at all.  To the very best critics of Dickens'
-[[Time|time]], `Pelleas and Melisande' would have been something not exactly
+[[Time|time]], ‘Pelleas and Melisande' would have been something not exactly
 good or bad but simply not a drama at all.  If they had seen it
 acted they would not have thought that the drama was deteriorating.
 They would only have thought that they themselves were going mad.
@@ -7324,14 +7324,14 @@ insane universe with its grinning angels, its gaping saints.
 Not the most secret volume of eighteenth-century atheism had conceived
 in its wrath and satire such a celestial parody as these painters
 had conceived in their humility and faith.  Such was the impression
-which Christian art produced on the whole of the `age des philosophes':
+which Christian art produced on the whole of the ‘age des philosophes':
 that it was an example of an almost shocking [[innocence]] like a baby's
 picture of God.
 
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_11" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 11)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_11" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 11)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 Then came the nineteenth century when man felt again
@@ -7369,16 +7369,16 @@ too optimistic or too conventional, they say that he had "absolutely
 no feeling for literature".
 
 When we come to examine the case of Dickens carefully, we find that this
-is exactly what has happened.  The characteristics which `E.A.B.'
+is exactly what has happened.  The characteristics which ‘E.A.B.'
 and other critics note as the defects of Dickens are in a great many
 instances the proper and inevitable modes of expressing a certain
-gigantic conviviality and cordiality.  For example, `E.A.B.'
-speaks of the formlessness of `Pickwick', but he does not notice
+gigantic conviviality and cordiality.  For example, ‘E.A.B.'
+speaks of the formlessness of ‘Pickwick', but he does not notice
 that what he calls formlessness was in fact a well-known and
 celebrated artistic form among the elder and more convivial writers.
 The sprawling and seemingly disconnected novel of comic adventure
 was a recognized and excellent form of art.  Recent criticism I
-believe is accustomed to describe it as the `picaresque' [[Novel|novel]].
+believe is accustomed to describe it as the ‘picaresque' [[Novel|novel]].
 For when we come to think of it, the whole point is very simple.
 The new impressionist method of brevity, restraint, and an adhesion
 to one central image or incident is the right and proper literary
@@ -7391,7 +7391,7 @@ them the better.  One flash of literary [[Lightning|lightning]] revealing a woma
 dead in a garret with a victorious army marching by is enough
 if the sentiment concerned is the sentiment of a pitiful irony.
 But it is not enough if the sentiment is that of the ancient
-camaraderies and immortal enterprises of the `picaresque' novel.
+camaraderies and immortal enterprises of the ‘picaresque' novel.
 
 You cannot exhibit Sam Weller in a flash of lightning.
 The whole emotional significance of Sam Weller depends upon the idea
@@ -7402,12 +7402,12 @@ misfortune we all desire to say little and that the words in a French
 short story should be few, like the words in a house of mourning.
 But the moment we come into the atmosphere of positive delight
 and exultation a new element enters in, the desire to linger.
-Books like `[[Pickwick]]' are the most lingering.  Men linger over
+Books like ‘[[Pickwick]]' are the most lingering.  Men linger over
 their walks, over their talks, over their stories, over their dinners.
 All the characters seem friends who are talking together far into
 an immortal [[Night|night]] to which no grey morning ever comes.
 
-The formlessness of `Pickwick' is therefore its form.
+The formlessness of ‘Pickwick' is therefore its form.
 This mood of exuberance has two natural expressions, the desire
 to linger and the desire to ramble.  If Pickwick and his friends
 were not continually crossing a crowded stage which was for ever
@@ -7450,7 +7450,7 @@ while perceiving the nature of their error.
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_12" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 12)" data-chapter="Chapter 03 PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_12" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 12)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
 
 
 Jane Eyre is, among other things, one of the finest detective stories
@@ -7566,7 +7566,7 @@ which is in the very name of Britomart.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_01" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 1)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_01" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 1)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 PART THREE:  THOUGHT AND BELIEF
@@ -7698,7 +7698,7 @@ The open wound festered.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_02" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 2)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_02" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 2)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 We have all heard it said that the Renaissance was produced
@@ -7814,7 +7814,7 @@ Frederick of Prussia was making the problem of modern militarism.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_03" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 3)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_03" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 3)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 Perhaps the perfect moment of every mortal thing is short,
@@ -7903,7 +7903,7 @@ But in its wildest exaggerations of fanaticism, it never talks
 as if the heathen had not built bridges or produced poetry.
 They did not call the classical architecture the Vandal architecture,
 as if it had been built only by the barbarians who destroyed it.
-Yet that would have been a parallel to the very word `Gothic'
+Yet that would have been a parallel to the very word ‘Gothic'
 which we are still compelled by custom to use.  The medieval world did
 not talk about Plato and Cicero as fools occupied with futilities;
 yet that is exactly how a more modern world talked of the [[philosophy]]
@@ -7929,7 +7929,7 @@ talked of [[Monks|monks]] as if they were monkeys.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_04" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 4)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_04" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 4)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 Now the lifting of this load of obscurantism was a thing largely done
@@ -8033,7 +8033,7 @@ religious institution of the Middle Ages that managed to survive.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_05" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 5)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_05" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 5)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 The whole of this theme is, of course, subject to exaggeration
@@ -8072,9 +8072,9 @@ in some gesture of eloquence or [[Pride|pride]].  No imaginative person will
 wholly fail to respond to the emotion expressed about a murdered
 [[Renaissance]] prince by a great English [[Renaissance]] poet:
 
-  He is there
-  Up like a Roman statue and will stand
-  Till [[Dawn|dawn]] has made him marble.
+He is there
+Up like a Roman statue and will stand
+Till [[Dawn|dawn]] has made him marble.
 
 But to Chaucer all this would have been utterly incomprehensible
 in connection with a church.  In that connection he would have thought
@@ -8146,7 +8146,7 @@ for the tombs.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_06" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 6)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_06" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 6)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 All that the Abbey meant to the ethics and atmosphere of this
@@ -8262,7 +8262,7 @@ and the [[Crusades]] who so nearly made it a reality.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_07" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 7)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_07" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 7)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 The case of [[Henry V]] carries me back to an instance of which I
@@ -8296,8 +8296,8 @@ that if Chaucer or even Sackville, had read Mr. Kipling's poetry
 and understood it they would simply not have been able to make head
 or tail of what he meant when he said:
 
-  The hush of the dread high altar
-  Where the Abbey makes us We.
+The hush of the dread high altar
+Where the Abbey makes us We.
 
 They would not have been able to understand how a vague Darwinian
 like Cecil Rhodes, who called a lonely [[Hill|hill]] in Africa "his church",
@@ -8378,7 +8378,7 @@ about a lamp-post that it has a lamp.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_08" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 8)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_08" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 8)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 Now secular [[Education|education]] really means that everybody shall make a point
@@ -8498,7 +8498,7 @@ light and darkness.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_09" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 9)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_09" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 9)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 I am not writing controversially or trying to pin anybody with this
@@ -8614,7 +8614,7 @@ but things that are really quite natural and all over the place.
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_10" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 10)" data-chapter="Chapter 04 THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_10" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 10)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
 
 
 If we take children, for instance, as examples of the uncorrupted
@@ -8642,7 +8642,7 @@ Was that artificial and a superstition?  Did priests come in the dead
 of [[Night|night]] and mark out by secret signs the stones on which you
 are allowed to tread?  Were children threatened with the oubliette
 or the [[Fire|fire]] of Smithfield if they failed to step on the right stone?
-Has the Church issued a bill `Quisquam non pavemente'?"  No!  On this
+Has the Church issued a bill ‘Quisquam non pavemente'?"  No!  On this
 point on which we were really free, we invented our servitude.
 We chose to say that between the first and the third paving-stone there
 was an abyss of the eternal darkness into which we must not fall.
@@ -8752,7 +8752,7 @@ any destruction it is not, at least, upon this.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_01" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 1)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_01" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 1)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 PART FOUR:  AT HOME AND ABROAD
@@ -8780,7 +8780,7 @@ Now the whole point of a holiday was to be, within certain
 rational restraints, irresponsible.  Interfering with a holiday
 was almost like interfering with a dream.  And the whole project
 of using holidays as anything else but holidays was really absent
-from the mind.  The notion of `combining amusement with instruction'
+from the mind.  The notion of ‘combining amusement with instruction'
 would have seemed like the notion of combining [[Sleep|sleep]] with insomnia.
 Great spiritual authorities have told us to watch and pray.
 Great spiritual influences, I think, also tell us to believe and [[Sleep|sleep]].
@@ -8814,9 +8814,9 @@ railway stations will be found thronged with the bags and babies
 of innumerable families going to seaside resorts.  Each traveller is
 (I need hardly say) murmuring to himself the lines of Swinburne:
 
-  "I will go down to the great white mother...
-  Mother and maker of men, the sea;
-  I will go down to her, I and none other..."
+"I will go down to the great white mother...
+Mother and maker of men, the sea;
+I will go down to her, I and none other..."
 
 A friend of mine regards these lines as unreasonable, declaring
 that Swinburne, however much he liked sea-bathing, should not insist
@@ -8870,7 +8870,7 @@ is apparent at the same [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_02" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 2)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_02" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 2)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 I have exactly the same sensations about our old Victorian political
@@ -8912,7 +8912,7 @@ carriage with an excellent [[Horse|horse]], with which he could drive me anywher
 and he was, as far as appearance goes, rather like a very rude beggar.
 His clothes were coarse and threadbare, his face was rugged, but sharp;
 he was always in a sweat from drudgeries.  A man who looked like
-that would be `moved on' in London if he tried to open the door
+that would be ‘moved on' in London if he tried to open the door
 of a cab.  Well, I got him to drive me away over the hills, and,
 finding that the mountains grew taller, grander, and (one might say)
 more incredible at every turn of the road, I persuaded him to make
@@ -8989,7 +8989,7 @@ if not in fact.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_03" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 3)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_03" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 3)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 I wonder what would really happen if in some special convulsion
@@ -9017,9 +9017,9 @@ By that time the little commonwealth ought to have a whole tangle
 of traditions ultimately to be traced back to the lost idea of a train.
 Perhaps people would still go religiously to the ticket-office
 at intervals, as to a kind of confessional box; and there recite
-the names of far-off and by this time fabulous places; the word `Harrow'
-sounding like the word `Heaven' or the word `Ealing' like the word
-`Eden'. For this society would of course, like every other,
+the names of far-off and by this time fabulous places; the word ‘Harrow'
+sounding like the word ‘Heaven' or the word ‘Ealing' like the word
+‘Eden'. For this society would of course, like every other,
 produce sceptics; that is men who had lost their social memory.
 All sorts of quaint ceremonials would survive, and would be scoffed
 at as irrational, because their rational origin had been obscured.
@@ -9095,7 +9095,7 @@ straying from a far-off eastern land.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_04" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 4)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_04" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 4)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 I had a rather parallel experience when I first saw Rome.
@@ -9177,10 +9177,10 @@ which the guildsmen wheeled about the streets, was sometimes
 a structure of three floors, with one scene above another.
 A parallel can be found in those tremendous lines of Francis Thompson:
 
-  East, ah, east of Himalay
-  Dwell the nations underground,
-  Hiding from the shock of Day;
-  From the sun's uprising sound.
+East, ah, east of Himalay
+Dwell the nations underground,
+Hiding from the shock of Day;
+From the sun's uprising sound.
 
 But no poetry even of the greatest poets will ever express all that is
 hidden in that image of the light of the world like a subterranean sun;
@@ -9217,7 +9217,7 @@ for social duty, save to tell men to be good citizens.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_05" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 5)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_05" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 5)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 Empires pass away almost as if to accentuate the fact that cities
@@ -9329,7 +9329,7 @@ human sentiment about sites, for sites are generally shrines.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_06" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 6)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_06" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 6)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 SCIPIO AND THE CHILDREN
@@ -9405,7 +9405,7 @@ I can't even remember which."
 added as in feeble self-defence, "Africanus."
 
 He inquired whether I meant that the man was an African.  I feared,
-in any case, that the word `African' would not instantly summon up
+in any case, that the word ‘African' would not instantly summon up
 before his [[Imagination|imagination]] the figure of St. Augustine; or even of Hannibal.
 It would more probably suggest to him a coal-black negro.
 So I said that I was sure he was not an African; I believed
@@ -9457,7 +9457,7 @@ who had resolutely refused to see them.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_07" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)" data-chapter="Chapter 05 AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_07" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
 
 
 There sat at this small table a poor Frenchman with his wife and [[Child|child]];
@@ -9492,7 +9492,7 @@ They understand what is really meant by the equality of the sexes:
 
 They understand that the world ends when that trinity is really broken,
 whether by confounding the persons or dividing the substance.
-They understand the word `sacrament', which is simply senseless gibberish
+They understand the word ‘sacrament', which is simply senseless gibberish
 to everybody else.  They understand that politics and economics
 and every thing practical means providing the huge human cafe with
 such tables--but separate tables.  They understand that when this
@@ -9565,7 +9565,7 @@ per cui un mendicante è una cosa orribile.
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_01" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 1)" data-chapter="Chapter 06 THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_01" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 1)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
 
 
 PART FIVE:  THE SPICE OF LIFE
@@ -9591,7 +9591,7 @@ Constable of Beaconsfield?"  "Why, of course not," I said.
 (except perhaps the criminals) would want to have for a constable?"
 
 "Well," replied my friend doubtfully, "It's down in the
-`Daily Gazette', anyhow.  `Mr. G. K. Chesterton has been nominated
+‘Daily Gazette', anyhow.  ‘Mr. G. K. Chesterton has been nominated
 as a Parish Constable of Beaconsfield.'"
 
 "And a jolly good joke, too," I answered.  "I thought you had a more
@@ -9693,12 +9693,12 @@ The very form of his appointment breathes of a somewhat breezier age;
 for (as in my own case) he is not even asked if he will stand.
 This suggests the jolly time when there was no nonsense about wanting
 to serve your country; no buying of peerages by breeding cattle;
-no climbing into rich idleness by means of `polite work'.
+no climbing into rich idleness by means of ‘polite work'.
 
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_02" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 2)" data-chapter="Chapter 06 THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_02" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 2)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
 
 
 Doubtless it is august and dignified to be a constable.
@@ -9812,7 +9812,7 @@ a strange star of the [[Storm|storm]].
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_03" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 3)" data-chapter="Chapter 06 THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_03" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 3)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
 
 
 But there were many cases, even among more terrestrial and commonplace
@@ -9939,13 +9939,13 @@ If once they were taken seriously in that most serious world,
 the world of Sport, enormous results will follow.  The shops
 will sell a special Slipper for Hunt-the-Slipper, or a caddy will
 follow the player with a bag full of fifteen different slippers.
-Honey-pots will mean money-pots; and there will be a `corner'
+Honey-pots will mean money-pots; and there will be a ‘corner'
 in puss-in-the-corner.
 
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_04" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 4)" data-chapter="Chapter 06 THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_04" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 4)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
 
 
 Anyhow, I have enjoyed like everybody else those sports and spices
@@ -10047,22 +10047,22 @@ more sublime impudence for an older man to criticize a younger.
 Yet I will defend my own idea of the spiritual spice of life against even
 the spirituality that finds this ordinary life entirely without spice.
 I know very well that Mr. Eliot described the desolation he found
-more than the desolation he felt.  But I think that `The Waste Land'
+more than the desolation he felt.  But I think that ‘The Waste Land'
 was at least a world in which he had wandered.  And as I am describing
 the recent world, I may as [[Well|well]] describe it as he has described it,
-in `The Hollow Men'--though nobody would describe him as a hollow man.
+in ‘The Hollow Men'--though nobody would describe him as a hollow man.
 This is the impression of many impressions.
 
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_05" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 5)" data-chapter="Chapter 06 THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_05" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 5)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
 
 
-  This is the way the world ends
-  This is the way the world ends
-  This is the way the world ends
-  Not with a bang but a whimper.
+This is the way the world ends
+This is the way the world ends
+This is the way the world ends
+Not with a bang but a whimper.
 
 Now forgive me if I say, in my old-world fashion, that I'm damned
 if I ever felt like that.  I recognize the great realities Mr. Eliot
@@ -10079,10 +10079,10 @@ of life, I will defend the spiritual appetite of my own age.
 I will even be so indecently frivolous as to break into song,
 and say to the young pessimists:
 
-  Some sneer; some snigger; some simper;
-  In the youth where we laughed and sang,
-  And they may end with a whimper
-  But we will end with a bang.
+Some sneer; some snigger; some simper;
+In the youth where we laughed and sang,
+And they may end with a whimper
+But we will end with a bang.
 
 ON FRAGMENTS
 
@@ -10097,7 +10097,7 @@ turned towards you with the rounded and complete expression
 of a congenital idiot, you may be certain again that he is
 nearer at that moment than at any other to knowing what you
 really are; which I fancy is the last thing that you desire.
-When we cast `an intelligent look' (as they say in books)
+When we cast ‘an intelligent look' (as they say in books)
 at a thing, it only means that we stamp our own significance upon it.
 When we look wisely at a post we see what we mean by a post.
 But when we look stupidly at a post we see what a post means.
@@ -10186,7 +10186,7 @@ have cast lots.
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_06" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 6)" data-chapter="Chapter 06 THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_06" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 6)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
 
 
 THE SPICE OF LIFE

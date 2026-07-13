@@ -15,13 +15,13 @@ tags:
 
 
 [[cheese|Cheese]]
-				    
+
 by G.K. Chesterton
 
-Published in `Alarms and Discursions' (1910)
+Published in ‘Alarms and Discursions' (1910)
 _________________________________________________________________
 
-My forthcoming work in five volumes, `The Neglect of [[cheese|Cheese]] in
+My forthcoming work in five volumes, ‘The Neglect of [[cheese|Cheese]] in
 European Literature,' is a work of such unprecedented and laborious
 detail that it is doubtful whether I shall live to finish it.
 Some overflowings from such a fountain of information
@@ -33,7 +33,7 @@ but with too much Roman restraint.  He does not let himself
 go on [[cheese]].  The only other poet that I can think of just
 now who seems to have had some sensibility on the point
 was the nameless author of the nursery rhyme which says:
-`If all the trees were bread and cheese'--which is indeed
+‘If all the trees were bread and cheese'--which is indeed
 a rich and gigantic vision of the higher gluttony.
 If all the trees were bread and cheese there would be considerable
 deforestation in any part of England where I was living.
@@ -41,11 +41,11 @@ Wild and wide woodlands would reel and fade before me as
 rapidly as they ran after Orpheus.  Except Virgil and this
 anonymous rhymer, I can recall no verse about cheese.
 Yet it has every quality which we require in an exalted poetry.
-It is a short, strong word; it rhymes to `breeze' and `seas'
+It is a short, strong word; it rhymes to ‘breeze' and ‘seas'
 (an essential point); that it is emphatic in sound is
 admitted even by the civilization of the modern cities.
 For their citizens, with no apparent intention except emphasis,
-will often say `[[cheese|Cheese]] it!' or even `Quite the [[cheese]].'
+will often say ‘[[cheese|Cheese]] it!' or even ‘Quite the [[cheese]].'
 The substance itself is imaginative.  It is ancient--sometimes
 in the individual case, always in the type and custom.
 It is simple, being directly derived from milk, which is one of
@@ -132,10 +132,10 @@ _________________________________________________________________
 
 by G.K. Chesterton
 
-Published in `Alarms and Discursions' (1910)
+Published in ‘Alarms and Discursions' (1910)
 _________________________________________________________________
 
-My forthcoming work in five volumes, `The Neglect of [[cheese|Cheese]] in
+My forthcoming work in five volumes, ‘The Neglect of [[cheese|Cheese]] in
 European Literature,' is a work of such unprecedented and laborious
 detail that it is doubtful whether I shall live to finish it.
 Some overflowings from such a fountain of information
@@ -147,7 +147,7 @@ but with too much Roman restraint.  He does not let himself
 go on [[cheese]].  The only other poet that I can think of just
 now who seems to have had some sensibility on the point
 was the nameless author of the nursery rhyme which says:
-`If all the trees were bread and cheese'--which is indeed
+‘If all the trees were bread and cheese'--which is indeed
 a rich and gigantic vision of the higher gluttony.
 If all the trees were bread and cheese there would be considerable
 deforestation in any part of England where I was living.
@@ -155,11 +155,11 @@ Wild and wide woodlands would reel and fade before me as
 rapidly as they ran after Orpheus.  Except Virgil and this
 anonymous rhymer, I can recall no verse about cheese.
 Yet it has every quality which we require in an exalted poetry.
-It is a short, strong word; it rhymes to `breeze' and `seas'
+It is a short, strong word; it rhymes to ‘breeze' and ‘seas'
 (an essential point); that it is emphatic in sound is
 admitted even by the civilization of the modern cities.
 For their citizens, with no apparent intention except emphasis,
-will often say `[[cheese|Cheese]] it!' or even `Quite the [[cheese]].'
+will often say ‘[[cheese|Cheese]] it!' or even ‘Quite the [[cheese]].'
 The substance itself is imaginative.  It is ancient--sometimes
 in the individual case, always in the type and custom.
 It is simple, being directly derived from milk, which is one of
@@ -219,10 +219,10 @@ of her myriad tints of mood, as in the holy act of eating [[cheese]].
 
 di G.K. Chesterton
 
-Pubblicato in `Alarms and Discursions' (1910)
+Pubblicato in ‘Alarms and Discursions' (1910)
 _________________________________________________________________
 
-La mia prossima opera in cinque volumi, `La trascuratezza del [[cheese|Formaggio]] nella letteratura europea', è un lavoro di dettaglio tanto senza precedenti e laborioso che è dubbio se vivrò abbastanza per portarlo a termine. Qualche traboccamento da una simile fonte d'informazione può dunque essere concesso a irrorare queste pagine. Non so ancora spiegare del tutto la trascuratezza cui mi riferisco. I poeti sono stati misteriosamente silenziosi sul tema del [[cheese|formaggio]]. Virgilio, se ben ricordo, vi accenna parecchie volte, ma con troppa romana compostezza. Non si lascia andare sul [[cheese|formaggio]]. L'unico altro poeta che mi venga in mente ora e che paia aver avuto qualche sensibilità in proposito fu l'anonimo autore della filastrocca che dice: `Se tutti gli alberi fossero pane e formaggio' — che è davvero una ricca e gigantesca visione della più alta ghiottoneria. Se tutti gli alberi fossero pane e formaggio, ci sarebbe un notevole disboscamento in qualunque parte dell'Inghilterra dove abitassi. Boschi selvaggi e sconfinati vacillerebbero e svanirebbero davanti a me con la stessa rapidità con cui corsero dietro a Orfeo. Eccetto Virgilio e questo anonimo rimatore, non ricordo alcun verso sul formaggio. Eppure esso possiede ogni qualità che richiediamo in una poesia sublime. È una parola breve e forte; rima con `brezza' e `mari' (punto essenziale); che sia enfatica nel suono è ammesso perfino dalla civiltà delle città moderne. Poiché i loro cittadini, senza altra apparente intenzione che l'enfasi, diranno spesso `[[cheese|Cheese]] it!' o persino `Quite the [[cheese]].' La sostanza stessa è immaginifica. È antica — talvolta nel caso individuale, sempre nel tipo e nella consuetudine. È semplice, essendo direttamente derivata dal latte, che è una delle bevande ancestrali, da non corrompere alla leggera con l'[[Water|acqua]] di soda. Sapete, lo [[Hope|spero]] (benché io stesso ci abbia pensato solo ora), che i quattro fiumi dell'Eden erano latte, [[Water|acqua]], vino e birra. Le acque gassate comparvero soltanto dopo la Caduta.
+La mia prossima opera in cinque volumi, ‘La trascuratezza del [[cheese|Formaggio]] nella letteratura europea', è un lavoro di dettaglio tanto senza precedenti e laborioso che è dubbio se vivrò abbastanza per portarlo a termine. Qualche traboccamento da una simile fonte d'informazione può dunque essere concesso a irrorare queste pagine. Non so ancora spiegare del tutto la trascuratezza cui mi riferisco. I poeti sono stati misteriosamente silenziosi sul tema del [[cheese|formaggio]]. Virgilio, se ben ricordo, vi accenna parecchie volte, ma con troppa romana compostezza. Non si lascia andare sul [[cheese|formaggio]]. L'unico altro poeta che mi venga in mente ora e che paia aver avuto qualche sensibilità in proposito fu l'anonimo autore della filastrocca che dice: ‘Se tutti gli alberi fossero pane e formaggio' — che è davvero una ricca e gigantesca visione della più alta ghiottoneria. Se tutti gli alberi fossero pane e formaggio, ci sarebbe un notevole disboscamento in qualunque parte dell'Inghilterra dove abitassi. Boschi selvaggi e sconfinati vacillerebbero e svanirebbero davanti a me con la stessa rapidità con cui corsero dietro a Orfeo. Eccetto Virgilio e questo anonimo rimatore, non ricordo alcun verso sul formaggio. Eppure esso possiede ogni qualità che richiediamo in una poesia sublime. È una parola breve e forte; rima con ‘brezza' e ‘mari' (punto essenziale); che sia enfatica nel suono è ammesso perfino dalla civiltà delle città moderne. Poiché i loro cittadini, senza altra apparente intenzione che l'enfasi, diranno spesso ‘[[cheese|Cheese]] it!' o persino ‘Quite the [[cheese]].' La sostanza stessa è immaginifica. È antica — talvolta nel caso individuale, sempre nel tipo e nella consuetudine. È semplice, essendo direttamente derivata dal latte, che è una delle bevande ancestrali, da non corrompere alla leggera con l'[[Water|acqua]] di soda. Sapete, lo [[Hope|spero]] (benché io stesso ci abbia pensato solo ora), che i quattro fiumi dell'Eden erano latte, [[Water|acqua]], vino e birra. Le acque gassate comparvero soltanto dopo la Caduta.
 
 Ma il [[cheese|formaggio]] possiede un'altra qualità, che è anche l'[[Soul|anima]] stessa del [[Song|canto]]. Un tempo, nel tentativo di tenere conferenze in più luoghi contemporaneamente, feci un eccentrico [[Journey|viaggio]] attraverso l'Inghilterra, un [[Journey|viaggio]] di forma tanto irregolare e persino illogica da rendere necessario che pranzassi per quattro giorni di seguito in quattro locande sul ciglio della strada, in quattro contee diverse. In ogni locanda non avevano che pane e [[cheese|formaggio]]; né riesco a immaginare perché un uomo dovrebbe volere più di pane e [[cheese|formaggio]], se può averne a sufficienza. In ogni locanda il [[cheese|formaggio]] era buono; e in ogni locanda era diverso. C'era un nobile [[cheese|formaggio]] di Wensleydale nello Yorkshire, un [[cheese|formaggio]] Cheshire nel Cheshire, e così via. Ora, è proprio qui che la vera civiltà poetica differisce da quella civiltà meschina e meccanica che ci tiene tutti in schiavitù. Le cattive consuetudini sono universali e rigide, come il militarismo moderno. Le buone consuetudini sono universali e varie, come la cavalleria innata e l'[[Self|auto]]difesa. Sia la buona sia la cattiva civiltà ci coprono come un baldacchino, e ci proteggono da tutto ciò che sta fuori. Ma una buona civiltà si distende su di noi liberamente come un albero, variando e cedevole perché è viva. Una cattiva civiltà si erge e sporge sopra di noi come un ombrello — artificiale, matematico nella forma; non soltanto universale, ma uniforme. Così è per il contrasto tra le sostanze che variano e le sostanze che sono uguali ovunque penetrino. Per saggia condanna del cielo agli uomini fu comandato di mangiare [[cheese|formaggio]], ma non lo stesso [[cheese|formaggio]]. Essendo davvero universale, varia di valle in valle. Ma se, poniamo, paragoniamo il [[cheese|formaggio]] al sapone (sostanza assai inferiore), vedremo che il sapone tende sempre più a essere semplicemente il Sapone di [[smith|Smith]] o il Sapone di Brown, spedito automaticamente in tutto il mondo. Se i Pellirosse hanno il sapone, è il Sapone di [[smith|Smith]]. Se il Gran Lama ha il sapone, è il Sapone di Brown. Non c'è nulla di sottilmente e stranamente buddhista, nulla di teneramente tibetano, nel suo sapone. Immagino che il Gran Lama non mangi [[cheese|formaggio]] (non ne è degno), ma se lo fa è probabilmente un [[cheese|formaggio]] locale, che ha qualche reale relazione con la sua vita e la sua visione. Fiammiferi di sicurezza, cibi in scatola, medicine brevettate sono spediti in tutto il mondo; ma non sono prodotti in tutto il mondo. Perciò in essi vi è una mera morta [[Identity|identità]], mai quel morbido gioco di variazione che esiste nelle cose prodotte ovunque dal suolo, nel latte delle vacche, o nei frutti del frutteto. Puoi ottenere un whisky e soda in ogni avamposto dell'Impero: ecco perché tanti costruttori d'Impero impazziscono. Ma non stai gustando né toccando alcun ambiente, come nel sidro del Devonshire o nell'uva del Reno. Non ti stai avvicinando alla [[Nature|Natura]] in una delle sue miriadi di sfumature d'umore, come nel sacro atto di mangiare il [[cheese|formaggio]].
 

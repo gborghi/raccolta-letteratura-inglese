@@ -1969,7 +1969,7 @@ This was one of several fictional historical works that Doyle wrote during the l
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_end" data-title="RODNEY STONE — Chapter 22: THE END" data-chapter="Chapter 01 THE END" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_end" data-title="RODNEY STONE — Chapter 22: THE END" data-chapter="THE END" data-kind="chapter"></span>
 
 
 CHAPTER XXII - THE END
@@ -1984,7 +1984,7 @@ September 1, 1896.
 
 
 
-<span class="atom-split" data-atom="chapter_02_friars_oak" data-title="RODNEY STONE — Chapter 1: FRIAR’S OAK" data-chapter="Chapter 02 FRIARS OAK" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_friars_oak" data-title="RODNEY STONE — Chapter 1: FRIAR’S OAK" data-chapter="FRIARS OAK" data-kind="chapter"></span>
 
 
 CHAPTER I - FRIAR’S OAK
@@ -2031,7 +2031,7 @@ But the driver had already climbed back into his perch, laughing as loudly as an
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_walker_of_cliffe_royal" data-title="RODNEY STONE — Chapter 2: THE WALKER OF CLIFFE ROYAL" data-chapter="Chapter 03 THE WALKER OF CLIFFE ROYAL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_the_walker_of_cliffe_royal" data-title="RODNEY STONE — Chapter 2: THE WALKER OF CLIFFE ROYAL" data-chapter="THE WALKER OF CLIFFE ROYAL" data-kind="chapter"></span>
 
 
 CHAPTER II - THE WALKER OF CLIFFE ROYAL
@@ -2133,7 +2133,7 @@ So that was all we could draw from him; but, young as I was, I had heard of coas
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_play_actress_of_anstey_cro" data-title="RODNEY STONE — Chapter 3: THE PLAY-ACTRESS OF ANSTEY CROSS" data-chapter="Chapter 04 THE PLAY ACTRESS OF ANSTEY CRO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_play_actress_of_anstey_cro" data-title="RODNEY STONE — Chapter 3: THE PLAY-ACTRESS OF ANSTEY CROSS" data-chapter="THE PLAY ACTRESS OF ANSTEY CRO" data-kind="chapter"></span>
 
 
 CHAPTER III - THE PLAY-ACTRESS OF ANSTEY CROSS
@@ -2253,7 +2253,7 @@ So the promise was made, and very faithfully did Jim keep it, for many a time wh
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_peace_of_amiens" data-title="RODNEY STONE — Chapter 4: THE PEACE OF AMIENS" data-chapter="Chapter 05 THE PEACE OF AMIENS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_the_peace_of_amiens" data-title="RODNEY STONE — Chapter 4: THE PEACE OF AMIENS" data-chapter="THE PEACE OF AMIENS" data-kind="chapter"></span>
 
 
 CHAPTER IV - THE PEACE OF AMIENS
@@ -2334,7 +2334,7 @@ Away she bustled, half distracted, while my father sat moody, with his chin upon
 
 
 
-<span class="atom-split" data-atom="chapter_06_buck_tregellis" data-title="RODNEY STONE — Chapter 5: BUCK TREGELLIS" data-chapter="Chapter 06 BUCK TREGELLIS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_buck_tregellis" data-title="RODNEY STONE — Chapter 5: BUCK TREGELLIS" data-chapter="BUCK TREGELLIS" data-kind="chapter"></span>
 
 
 CHAPTER V - BUCK TREGELLIS
@@ -2458,7 +2458,7 @@ It was strange to see the gleam and passion fade out of the man’s face, and th
 
 
 
-<span class="atom-split" data-atom="chapter_07_on_the_threshold" data-title="RODNEY STONE — Chapter 6: ON THE THRESHOLD" data-chapter="Chapter 07 ON THE THRESHOLD" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_on_the_threshold" data-title="RODNEY STONE — Chapter 6: ON THE THRESHOLD" data-chapter="ON THE THRESHOLD" data-kind="chapter"></span>
 
 
 CHAPTER VI - ON THE THRESHOLD
@@ -2544,7 +2544,7 @@ To every traveller it was a sight of beauty, but to me it was the world - the gr
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_hope_of_england" data-title="RODNEY STONE — Chapter 7: THE HOPE OF ENGLAND" data-chapter="Chapter 08 THE HOPE OF ENGLAND" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_the_hope_of_england" data-title="RODNEY STONE — Chapter 7: THE HOPE OF ENGLAND" data-chapter="THE HOPE OF ENGLAND" data-kind="chapter"></span>
 
 
 CHAPTER VII - THE HOPE OF ENGLAND
@@ -2665,7 +2665,7 @@ So I carried away a last impression of his sensual, good-humoured face, his high
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_brighton_road" data-title="RODNEY STONE — Chapter 8: THE BRIGHTON ROAD" data-chapter="Chapter 09 THE BRIGHTON ROAD" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_brighton_road" data-title="RODNEY STONE — Chapter 8: THE BRIGHTON ROAD" data-chapter="THE BRIGHTON ROAD" data-kind="chapter"></span>
 
 
 CHAPTER VIII - THE BRIGHTON ROAD
@@ -2745,7 +2745,7 @@ I had the idea, which a country-bred lad brings up with him, that [[London]] was
 
 
 
-<span class="atom-split" data-atom="chapter_10_watiers" data-title="RODNEY STONE — Chapter 9: WATIER’S" data-chapter="Chapter 10 WATIERS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_watiers" data-title="RODNEY STONE — Chapter 9: WATIER’S" data-chapter="WATIERS" data-kind="chapter"></span>
 
 
 CHAPTER IX - WATIER’S
@@ -2844,7 +2844,7 @@ after him as he made his way amidst the crowd.
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_men_of_the_ring" data-title="RODNEY STONE — Chapter 10: THE MEN OF THE RING" data-chapter="Chapter 11 THE MEN OF THE RING" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_the_men_of_the_ring" data-title="RODNEY STONE — Chapter 10: THE MEN OF THE RING" data-chapter="THE MEN OF THE RING" data-kind="chapter"></span>
 
 
 CHAPTER X - THE MEN OF THE RING
@@ -2982,7 +2982,7 @@ He read it, and then passed it to the Prince, who returned it with raised eyebro
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_fight_in_the_coach_house" data-title="RODNEY STONE — Chapter 11: THE FIGHT IN THE COACH-HOUSE" data-chapter="Chapter 12 THE FIGHT IN THE COACH HOUSE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_the_fight_in_the_coach_house" data-title="RODNEY STONE — Chapter 11: THE FIGHT IN THE COACH-HOUSE" data-chapter="THE FIGHT IN THE COACH HOUSE" data-kind="chapter"></span>
 
 
 CHAPTER XI - THE FIGHT IN THE COACH-HOUSE
@@ -3136,7 +3136,7 @@ And I heartily promised that I would.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_coffee_room_of_fladongs" data-title="RODNEY STONE — Chapter 12: THE COFFEE-ROOM OF FLADONG’S" data-chapter="Chapter 13 THE COFFEE ROOM OF FLADONGS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_coffee_room_of_fladongs" data-title="RODNEY STONE — Chapter 12: THE COFFEE-ROOM OF FLADONG’S" data-chapter="THE COFFEE ROOM OF FLADONGS" data-kind="chapter"></span>
 
 
 CHAPTER XII - THE COFFEE-ROOM OF FLADONG’S
@@ -3214,7 +3214,7 @@ He may have had more to say, but his audience could wait no longer.  How they s
 
 
 
-<span class="atom-split" data-atom="chapter_14_lord_nelson" data-title="RODNEY STONE — Chapter 13: LORD NELSON" data-chapter="Chapter 14 LORD NELSON" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_lord_nelson" data-title="RODNEY STONE — Chapter 13: LORD NELSON" data-chapter="LORD NELSON" data-kind="chapter"></span>
 
 
 CHAPTER XIII - LORD [[Nelson|NELSON]]
@@ -3273,7 +3273,7 @@ The footman had suddenly precipitated himself into the room, but stood abashed b
 
 
 
-<span class="atom-split" data-atom="chapter_15_on_the_road" data-title="RODNEY STONE — Chapter 14: ON THE ROAD" data-chapter="Chapter 15 ON THE ROAD" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_on_the_road" data-title="RODNEY STONE — Chapter 14: ON THE ROAD" data-chapter="ON THE ROAD" data-kind="chapter"></span>
 
 
 CHAPTER XIV - ON THE ROAD
@@ -3376,7 +3376,7 @@ But, alas for our chance of hastening onwards!  Even my uncle’s skill could n
 
 
 
-<span class="atom-split" data-atom="chapter_16_foul_play" data-title="RODNEY STONE — Chapter 15: FOUL PLAY" data-chapter="Chapter 16 FOUL PLAY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_foul_play" data-title="RODNEY STONE — Chapter 15: FOUL PLAY" data-chapter="FOUL PLAY" data-kind="chapter"></span>
 
 
 CHAPTER XV - FOUL PLAY
@@ -3449,7 +3449,7 @@ My uncle seized the lantern from the fellow’s hand, and we all trooped behind 
 
 
 
-<span class="atom-split" data-atom="chapter_17_crawley_downs" data-title="RODNEY STONE — Chapter 16: CRAWLEY DOWNS" data-chapter="Chapter 17 CRAWLEY DOWNS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_crawley_downs" data-title="RODNEY STONE — Chapter 16: CRAWLEY DOWNS" data-chapter="CRAWLEY DOWNS" data-kind="chapter"></span>
 
 
 CHAPTER XVI - CRAWLEY DOWNS
@@ -3578,7 +3578,7 @@ There was a sudden swirl in the crowd, a rush, a shout, and high up in the air t
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_ring_side" data-title="RODNEY STONE — Chapter 17: THE RING-SIDE" data-chapter="Chapter 18 THE RING SIDE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_the_ring_side" data-title="RODNEY STONE — Chapter 17: THE RING-SIDE" data-chapter="THE RING SIDE" data-kind="chapter"></span>
 
 
 CHAPTER XVII - THE RING-SIDE
@@ -3672,7 +3672,7 @@ I had often looked upon the mighty arms and neck of the smith, but I had never b
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_smiths_last_battle" data-title="RODNEY STONE — Chapter 18: THE SMITH’S LAST BATTLE" data-chapter="Chapter 19 THE SMITHS LAST BATTLE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_the_smiths_last_battle" data-title="RODNEY STONE — Chapter 18: THE SMITH’S LAST BATTLE" data-chapter="THE SMITHS LAST BATTLE" data-kind="chapter"></span>
 
 
 CHAPTER XVIII - THE SMITH’S LAST BATTLE
@@ -3767,7 +3767,7 @@ And so those two brave-hearted fellows made their way amidst the yelping roughs,
 
 
 
-<span class="atom-split" data-atom="chapter_20_cliffe_royal" data-title="RODNEY STONE — Chapter 19: CLIFFE ROYAL" data-chapter="Chapter 20 CLIFFE ROYAL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_cliffe_royal" data-title="RODNEY STONE — Chapter 19: CLIFFE ROYAL" data-chapter="CLIFFE ROYAL" data-kind="chapter"></span>
 
 
 CHAPTER XIX - CLIFFE ROYAL
@@ -3839,7 +3839,7 @@ There was an instant of silence, broken by a deep oath from Sir Lothian Hume -
 
 
 
-<span class="atom-split" data-atom="chapter_21_lord_avon" data-title="RODNEY STONE — Chapter 20: LORD AVON" data-chapter="Chapter 21 LORD AVON" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_lord_avon" data-title="RODNEY STONE — Chapter 20: LORD AVON" data-chapter="LORD AVON" data-kind="chapter"></span>
 
 
 CHAPTER XX - LORD AVON
@@ -3924,7 +3924,7 @@ There was silence for some time, and then it was my uncle’s voice which broke 
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_valets_story" data-title="RODNEY STONE — Chapter 21: THE VALET’S STORY" data-chapter="Chapter 22 THE VALETS STORY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_the_valets_story" data-title="RODNEY STONE — Chapter 21: THE VALET’S STORY" data-chapter="THE VALETS STORY" data-kind="chapter"></span>
 
 
 CHAPTER XXI - THE VALET’S STORY
@@ -3987,7 +3987,7 @@ And so this strange conference ended.  As for me, I had sprung to the side of t
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_end" data-title="RODNEY STONE — Chapter 22: THE END" data-chapter="Chapter 23 THE END" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_the_end" data-title="RODNEY STONE — Chapter 22: THE END" data-chapter="THE END" data-kind="chapter"></span>
 
 
 CHAPTER XXII - THE END

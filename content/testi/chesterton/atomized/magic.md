@@ -26,7 +26,7 @@ with this eBook or online at www.gutenberg.org
 
 Title: [[Magic]]
 
-       A Fantastic [[Comedy]]
+A Fantastic [[Comedy]]
 
 Author: G.K. Chesterton
 
@@ -116,37 +116,37 @@ MORRIS CARLEON           LYONEL WATTS
 
 THE PRELUDE
 
-     SCENE: _A plantation of thin young trees, in a misty and rainy
+SCENE: _A plantation of thin young trees, in a misty and rainy
 
-     twilight; some woodland blossom showing the patches on the earth
+twilight; some woodland blossom showing the patches on the earth
 
-     between the stems._
+between the stems._
 
-     THE STRANGER _is discovered, a cloaked figure with a pointed hood.
+THE STRANGER _is discovered, a cloaked figure with a pointed hood.
 
-     His costume might belong to modern or any other [[Time|time]], and the
+His costume might belong to modern or any other [[Time|time]], and the
 
-     conical hood is so drawn over the head that little can be seen of
+conical hood is so drawn over the head that little can be seen of
 
-     the face._
+the face._
 
-     _A distant voice, a woman's, is heard, half-singing, half-chanting,
+_A distant voice, a woman's, is heard, half-singing, half-chanting,
 
-     unintelligible words. The cloaked figure raises its head and
+unintelligible words. The cloaked figure raises its head and
 
-     listens with interest. The [[Song|song]] draws nearer and_ PATRICIA CARLEON
+listens with interest. The [[Song|song]] draws nearer and_ PATRICIA CARLEON
 
-     _enters. She is dark and slight, and has a dreamy expression.
+_enters. She is dark and slight, and has a dreamy expression.
 
-     Though she is artistically dressed, her hair is a little wild. She
+Though she is artistically dressed, her hair is a little wild. She
 
-     has a broken branch of some flowering tree in her hand. She does
+has a broken branch of some flowering tree in her hand. She does
 
-     not notice the stranger, and though he has watched her with
+not notice the stranger, and though he has watched her with
 
-     interest, makes no sign. Suddenly she perceives him and starts
+interest, makes no sign. Suddenly she perceives him and starts
 
-     back._
+back._
 
 PATRICIA. Oh! Who are you?
 
@@ -154,13 +154,13 @@ STRANGER. Ah! Who am I? [_Commences to mutter to himself, and maps out
 
 the ground with his staff._]
 
-     I have a hat, but not to wear;
+I have a hat, but not to wear;
 
-     I wear a [[Sword|sword]], but not to slay,
+I wear a [[Sword|sword]], but not to slay,
 
-     And ever in my bag I bear
+And ever in my bag I bear
 
-     A pack of cards, but not to play.
+A pack of cards, but not to play.
 
 PATRICIA. What are you? What are you saying?
 
@@ -200,25 +200,25 @@ PATRICIA. [_Drawing back in awe._] I think you are growing taller as you
 
 speak.
 
-     [_The scene appears to fade away, and give place to the milieu of_
+[_The scene appears to fade away, and give place to the milieu of_
 
-     ACT ONE, _the Duke's drawing-room, an apartment with open French
+ACT ONE, _the Duke's drawing-room, an apartment with open French
 
-     windows or any opening large enough to show a [[Garden|garden]] and one [[house]]
+windows or any opening large enough to show a [[Garden|garden]] and one [[house]]
 
-     fairly near. It is evening, and there is a red lamp lighted in the
+fairly near. It is evening, and there is a red lamp lighted in the
 
-     [[house]] beyond. The_ REV. CYRIL [[smith|SMITH]] _is sitting with hat and
+[[house]] beyond. The_ REV. CYRIL [[smith|SMITH]] _is sitting with hat and
 
-     umbrella beside him, evidently a visitor. He is a young man with
+umbrella beside him, evidently a visitor. He is a young man with
 
-     the highest of High Church dog-collars and all the qualities of a
+the highest of High Church dog-collars and all the qualities of a
 
-     restrained fanatic. He is one of the Christian Socialist sort and
+restrained fanatic. He is one of the Christian Socialist sort and
 
-     takes his priesthood seriously. He is an honest man, and not an
+takes his priesthood seriously. He is an honest man, and not an
 
-     ass._
+ass._
 
 [_To him enters_ MR. [[Hastings|HASTINGS]] _with papers in his hand._
 
@@ -252,15 +252,15 @@ necessary.
 
 [[Hastings|HASTINGS]]. [_Cheerfully._] Oh, it won't be very long.
 
-     [_Exit._
+[_Exit._
 
-     [_Enter by the [[Garden|garden]] doors_ DR. GRIMTHORPE _reading an open paper.
+[_Enter by the [[Garden|garden]] doors_ DR. GRIMTHORPE _reading an open paper.
 
-     He is an old-fashioned practitioner, very much of a gentleman and
+He is an old-fashioned practitioner, very much of a gentleman and
 
-     very carefully dressed in a slightly antiquated style. He is about
+very carefully dressed in a slightly antiquated style. He is about
 
-     sixty years old and might have been a friend of Huxley's._
+sixty years old and might have been a friend of Huxley's._
 
 DOCTOR. [_Folding up the paper._] I beg your pardon, sir, I did not
 
@@ -342,13 +342,13 @@ here this afternoon.
 
 [[smith|SMITH]]. Conjuring? Indeed? Why is that?
 
-     _Enter_ [[Hastings|HASTINGS]] _with a letter in each hand._
+_Enter_ [[Hastings|HASTINGS]] _with a letter in each hand._
 
 [[Hastings|HASTINGS]]. His Grace will be with you presently. He asked me to deal with
 
 the business matter first of all.
 
-     [_He gives a note to each of them._
+[_He gives a note to each of them._
 
 [[smith|SMITH]]. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
 
@@ -356,7 +356,7 @@ The Duke's given L50 to the new public-[[house]].
 
 [[Hastings|HASTINGS]]. The Duke is very liberal.
 
-     [_Collects papers._
+[_Collects papers._
 
 DOCTOR. [_Examining his cheque._] Very. But this is rather curious. He
 
@@ -364,7 +364,7 @@ has also given L50 to the league for opposing the new public-[[house]].
 
 [[Hastings|HASTINGS]]. The Duke is very liberal-minded.
 
-     [_Exit._
+[_Exit._
 
 [[smith|SMITH]]. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
 
@@ -440,7 +440,7 @@ a yard of my own red lamp. It shows a lack of tact.
 
 and fairies between here and your lamp.
 
-     [_He walks to the [[Garden|garden]] [[Window|window]] and looks out._
+[_He walks to the [[Garden|garden]] [[Window|window]] and looks out._
 
 DOCTOR. [[Well]], the nephew has been in [[America]]. It stands to reason you
 
@@ -496,13 +496,13 @@ fraud, too. The conjurer satisfies nobody. That is why he satisfies the
 
 Duke.
 
-     [_Enter the_ DUKE, _with_ [[Hastings|HASTINGS]], _carrying papers. The_ DUKE _is
+[_Enter the_ DUKE, _with_ [[Hastings|HASTINGS]], _carrying papers. The_ DUKE _is
 
-     a healthy, hearty man in tweeds, with a rather wandering eye. In
+a healthy, hearty man in tweeds, with a rather wandering eye. In
 
-     the present state of the peerage it is necessary to explain that
+the present state of the peerage it is necessary to explain that
 
-     the_ DUKE, _though an ass, is a gentleman._
+the_ DUKE, _though an ass, is a gentleman._
 
 DUKE. Good-morning, Mr. [[smith|Smith]]. So sorry to have kept you waiting, but
 
@@ -546,9 +546,9 @@ all; and he does good in _his_ way. We can't be Ancient Britons, you
 
 know.
 
-     [_A prolonged and puzzled [[Silence|silence]], such as always follows the more
+[_A prolonged and puzzled [[Silence|silence]], such as always follows the more
 
-     abrupt of the_ DUKE'S _associations or disassociations of thought._
+abrupt of the_ DUKE'S _associations or disassociations of thought._
 
 [[smith|SMITH]]. [_At last, faintly._] Ancient Britons....
 
@@ -566,9 +566,9 @@ glad to see you're using the new sort of graining ... why, it all
 
 reminds one of the [[French Revolution]].
 
-     [_Another [[Silence|silence]]. As the_ DUKE _lounges alertly about the room_,
+[_Another [[Silence|silence]]. As the_ DUKE _lounges alertly about the room_,
 
-     [[smith|SMITH]] _speaks to the_ DOCTOR _in an undertone._
+[[smith|SMITH]] _speaks to the_ DOCTOR _in an undertone._
 
 [[smith|SMITH]]. Does it remind you of the [[French Revolution]]?
 
@@ -576,17 +576,17 @@ DOCTOR. As much as of anything else. His Grace never reminds me of
 
 anything.
 
-     [_A young and very high American voice is heard calling in the
+[_A young and very high American voice is heard calling in the
 
-     [[Garden|garden]]. "Say, could somebody see to one of these trunks?"_
+[[Garden|garden]]. "Say, could somebody see to one of these trunks?"_
 
-     [MR. [[Hastings|HASTINGS]] _goes out into the [[Garden|garden]]. He returns with_ MORRIS
+[MR. [[Hastings|HASTINGS]] _goes out into the [[Garden|garden]]. He returns with_ MORRIS
 
-     CARLEON, _a very young man: hardly more than a boy, but with very
+CARLEON, _a very young man: hardly more than a boy, but with very
 
-     grown-up American dress and manners. He is dark, smallish, and
+grown-up American dress and manners. He is dark, smallish, and
 
-     active; and the racial type under his Americanism is Irish._
+active; and the racial type under his Americanism is Irish._
 
 MORRIS. [_Humorously, as he puts in his head at the [[Window|window]]._] See here,
 
@@ -596,11 +596,11 @@ DOCTOR. [_Who is nearest to him, with great gravity._] Yes, only one.
 
 MORRIS. I reckon he's the one I want, anyhow. I'm his nephew.
 
-     [_The_ DUKE, _who is ruminating in the foreground, with one eye
+[_The_ DUKE, _who is ruminating in the foreground, with one eye
 
-     rather off, turns at the voice and shakes_ MORRIS _warmly by the
+rather off, turns at the voice and shakes_ MORRIS _warmly by the
 
-     hand._
+hand._
 
 DUKE. Delighted to see you, my dear boy. I hear you've been doing very
 
@@ -618,21 +618,21 @@ go-ahead methods, I'm told. [[Well]], I dare say he does a great deal of
 
 good with his money. And we can't go back to the [[Spanish Inquisition]].
 
-     [_Silence, during which the three men look at each other._
+[_Silence, during which the three men look at each other._
 
 MORRIS. [_Abruptly._] And how's Patricia?
 
 DUKE. [_A little hazily._] Oh, she's very [[Well|well]], I think. She....
 
-     [_He hesitates slightly._
+[_He hesitates slightly._
 
 MORRIS. [_Smiling._] [[Well]], then, where's Patricia?
 
-     [_There is a slightly embarrassed pause, and the_ DOCTOR _speaks._
+[_There is a slightly embarrassed pause, and the_ DOCTOR _speaks._
 
 DOCTOR. Miss Carleon is walking about the grounds, I think.
 
-     [MORRIS _goes to the [[Garden|garden]] doors and looks out._
+[MORRIS _goes to the [[Garden|garden]] doors and looks out._
 
 MORRIS. It's a mighty chilly [[Night|night]] to choose. Does my sister commonly
 
@@ -650,7 +650,7 @@ What I always call the artistic temperament! Wordsworth, you know, and
 
 all that.
 
-     [_Silence._
+[_Silence._
 
 MORRIS. [_Staring._] All what?
 
@@ -690,9 +690,9 @@ DOCTOR. [_Grimly._] I am a medicine man.
 
 MORRIS. And you don't look mythical, Doc.
 
-     [_He bites his finger and begins to pace restlessly up and down the
+[_He bites his finger and begins to pace restlessly up and down the
 
-     room._
+room._
 
 DUKE. [[Well]], you know, the artistic temperament....
 
@@ -708,9 +708,9 @@ DUKE. I am afraid you Americans aren't so advanced as I'd hoped. Why! as
 
 old Buffle used to say....
 
-     [_As he speaks a distant voice is heard singing in the [[Garden|garden]]; it
+[_As he speaks a distant voice is heard singing in the [[Garden|garden]]; it
 
-     comes nearer and nearer, and_ [[smith|SMITH]] _turns suddenly to the_ DOCTOR.
+comes nearer and nearer, and_ [[smith|SMITH]] _turns suddenly to the_ DOCTOR.
 
 [[smith|SMITH]]. Whose voice is that?
 
@@ -720,7 +720,7 @@ MORRIS. [_Walking to the [[Window|window]]._] You need not trouble. I know who i
 
 is.
 
-     _Enter_ PATRICIA CARLEON
+_Enter_ PATRICIA CARLEON
 
 [_Still agitated._] Patricia, where have you been?
 
@@ -812,7 +812,7 @@ girl who has a plaid shawl--and a Banshee. [_Sighs profoundly._] Poor
 
 old Gladstone!
 
-     [_Silence as usual._
+[_Silence as usual._
 
 [[smith|SMITH]]. [_Speaking to_ DOCTOR.] I thought you yourself considered the
 
@@ -862,9 +862,9 @@ DUKE. Capital! Capital! Why, it's like Tennyson. [_Silence._] I remember
 
 when I was an undergrad....
 
-     [_The red light disappears; no one sees it at first except_
+[_The red light disappears; no one sees it at first except_
 
-     PATRICIA, _who points excitedly._
+PATRICIA, _who points excitedly._
 
 MORRIS. What's the matter?
 
@@ -880,15 +880,15 @@ PATRICIA. [_Calmly._] I told you he walked about the [[Garden|garden]].
 
 MORRIS. If it's that fortune-teller of yours....
 
-     [_Disappears into the [[Garden|garden]], followed by the_ DOCTOR.
+[_Disappears into the [[Garden|garden]], followed by the_ DOCTOR.
 
 DUKE. [_Staring._] Somebody in the [[Garden|garden]]! Really, this Land
 
 Campaign....
 
-     [_Silence._
+[_Silence._
 
-     [MORRIS _reappears rather breathless._
+[MORRIS _reappears rather breathless._
 
 MORRIS. A spry fellow, your friend. He slipped through my hands like a
 
@@ -902,21 +902,21 @@ Duke?
 
 PATRICIA. Oh, you need not trouble. He will come if I call him.
 
-     [_She goes out into the [[Garden|garden]] and calls out some half-chanted and
+[_She goes out into the [[Garden|garden]] and calls out some half-chanted and
 
-     unintelligible words, somewhat like the [[Song|song]] preceding her
+unintelligible words, somewhat like the [[Song|song]] preceding her
 
-     entrance. The red light reappears; and there is a slight sound as
+entrance. The red light reappears; and there is a slight sound as
 
-     of fallen [[Leaves|leaves]] shuffled by approaching feet. The cloaked_
+of fallen [[Leaves|leaves]] shuffled by approaching feet. The cloaked_
 
-     STRANGER _with the pointed hood is seen standing outside the [[Garden|garden]]
+STRANGER _with the pointed hood is seen standing outside the [[Garden|garden]]
 
-     doors._
+doors._
 
 PATRICIA. You may enter all doors.
 
-     [_The figure comes into the room_
+[_The figure comes into the room_
 
 MORRIS. [_Shutting the [[Garden|garden]] doors behind him._] Now, see here, wizard,
 
@@ -988,9 +988,9 @@ the...?
 
 STRANGER. [_Bowing._] Yes. I am the Conjurer.
 
-     [_There is general laughter, except from_ PATRICIA. _As the others
+[_There is general laughter, except from_ PATRICIA. _As the others
 
-     mingle in talk, the_ STRANGER _goes up to her._
+mingle in talk, the_ STRANGER _goes up to her._
 
 STRANGER. [_Very sadly._] I am very sorry I am not a wizard.
 
@@ -1010,19 +1010,19 @@ STRANGER. And what have I stolen?
 
 PATRICIA. A fairy tale.
 
-     CURTAIN
+CURTAIN
 
 ACT II
 
-     _The same room lighted more brilliantly an hour later in the
+_The same room lighted more brilliantly an hour later in the
 
-     evening. On one side a table covered with packs of cards, pyramids,
+evening. On one side a table covered with packs of cards, pyramids,
 
-     etc., at which the_ CONJURER _in evening dress is standing quietly
+etc., at which the_ CONJURER _in evening dress is standing quietly
 
-     setting out his tricks. A little more in the foreground the_ DUKE;
+setting out his tricks. A little more in the foreground the_ DUKE;
 
-     _and_ [[Hastings|HASTINGS]] _with a number of papers._
+_and_ [[Hastings|HASTINGS]] _with a number of papers._
 
 [[Hastings|HASTINGS]]. There are only a few small matters. Here are the programmes of
 
@@ -1094,7 +1094,7 @@ DUKE. [[Well]], [[Well|well]], I'm bound to say they're very enthusiastic. Advan
 
 too--oh, certainly advanced. Like Joan of Arc.
 
-     [_Short [[Silence|silence]], in which the_ CONJURER _stares at him._]
+[_Short [[Silence|silence]], in which the_ CONJURER _stares at him._]
 
 CONJURER. _Was_ Joan of Arc a [[vegetarian|Vegetarian]]?
 
@@ -1206,7 +1206,7 @@ DUKE. [[Well]], [[Well|well]], I must go and see how Morris is. Pleasure of seei
 
 you later.
 
-     [_Exit_ DUKE, _leaving the programmes._
+[_Exit_ DUKE, _leaving the programmes._
 
 CONJURER. Why are nice men such asses? [_Turns to arrange the table._]
 
@@ -1230,15 +1230,15 @@ I am a conjurer and nothing else but a conjurer. Unless I could show I
 
 was something else, and that would be worse.
 
-     [_He begins to dash the cards rather irregularly about the table.
+[_He begins to dash the cards rather irregularly about the table.
 
-     Enter_ PATRICIA.
+Enter_ PATRICIA.
 
 PATRICIA. [_Coldly_] I beg your pardon. I came to get some programmes.
 
 My uncle wants them.
 
-     [_She walks swiftly across and takes up the programmes._
+[_She walks swiftly across and takes up the programmes._
 
 CONJURER. [_Still dashing cards about the table._] Miss Carleon, might I
 
@@ -1278,11 +1278,11 @@ such lies. You may or may not know why.
 
 PATRICIA. I know nothing about such lies.
 
-     [_She puts her hand on the handle of the door, but the_ CONJURER,
+[_She puts her hand on the handle of the door, but the_ CONJURER,
 
-     _who is sitting on the table and staring at his boots, does not
+_who is sitting on the table and staring at his boots, does not
 
-     notice the action, and goes on as in a sincere soliloquy._
+notice the action, and goes on as in a sincere soliloquy._
 
 CONJURER. I don't know whether you have any notion of what it means to a
 
@@ -1302,7 +1302,7 @@ good conversations, didn't we? I am a liar. But I told you a great deal
 
 of the [[Truth|truth]].
 
-     [_He turns and resumes the arrangement of the table._
+[_He turns and resumes the arrangement of the table._
 
 PATRICIA. [_Thinking._] Yes, you did tell me a great deal of the [[Truth|truth]].
 
@@ -1418,11 +1418,11 @@ CONJURER. [_Rising from his seat._] Yes. It was she who brought the real
 
 [[Magic|magic]].
 
-     [_Enter_ MORRIS, _in evening-dress. He walks straight up to the
+[_Enter_ MORRIS, _in evening-dress. He walks straight up to the
 
-     conjuring-table; and picks up one article after another, putting
+conjuring-table; and picks up one article after another, putting
 
-     each down with a comment._
+each down with a comment._
 
 MORRIS. I know that one. I know that. I know that. Let's see, that's the
 
@@ -1484,9 +1484,9 @@ you know, or cover....
 
 CONJURER. Yes.
 
-     [_Goes back gloomily to his table and sits on it, picking up a pack
+[_Goes back gloomily to his table and sits on it, picking up a pack
 
-     of cards and balancing it in his hand._
+of cards and balancing it in his hand._
 
 MORRIS. Ah, most mysteries are tolerably plain if you know the
 
@@ -1530,7 +1530,7 @@ DOCTOR. Which one is that?
 
 PATRICIA. The Vanishing Lady!
 
-     [_Exit_ PATRICIA.
+[_Exit_ PATRICIA.
 
 [[smith|SMITH]]. There is one part of their old apparatus I regret especially
 
@@ -1628,9 +1628,9 @@ quiet business man more often went to someone else's pocket.
 
 MORRIS. You....
 
-     [_Puts his hand to his hip. The_ DOCTOR _puts his hand on his
+[_Puts his hand to his hip. The_ DOCTOR _puts his hand on his
 
-     shoulder._
+shoulder._
 
 DOCTOR. Gentlemen, I think you are both forgetting yourselves.
 
@@ -1716,9 +1716,9 @@ that real Saints and Prophets never lived. There may be sham [[Magic|magic]] and
 
 real [[Magic|magic]] also.
 
-     [_The_ CONJURER _raises his head and listens with a strange air of
+[_The_ CONJURER _raises his head and listens with a strange air of
 
-     intentness._
+intentness._
 
 [[smith|SMITH]]. There may be turnip [[Ghosts|ghosts]] precisely because there are real
 
@@ -1766,7 +1766,7 @@ no more raise your Saints and Prophets from the dead than you'll raise
 
 the Duke's great-grandfather to [[Dance|dance]] on that wall.
 
-     [_The picture begins to sway slightly to and fro on the wall._
+[_The picture begins to sway slightly to and fro on the wall._
 
 DOCTOR. Why, the picture is moving!
 
@@ -1788,11 +1788,11 @@ They say they can make the furniture move of itself. If it does move
 
 they move it; and we mean to know how.
 
-     [_A chair falls over with a slight crash._
+[_A chair falls over with a slight crash._
 
-     [MORRIS _almost staggers and momentarily fights for breath and
+[MORRIS _almost staggers and momentarily fights for breath and
 
-     words._
+words._
 
 MORRIS. You ... why ... that ... every one knows that ... a sliding
 
@@ -1802,9 +1802,9 @@ CONJURER. [_Without looking up._] Yes. It can be done with a sliding
 
 plank.
 
-     [_The_ DOCTOR _draws nearer to_ MORRIS, _who faces about,
+[_The_ DOCTOR _draws nearer to_ MORRIS, _who faces about,
 
-     addressing him passionately._
+addressing him passionately._
 
 MORRIS. You were right on the spot, Doc, when you talked about that red
 
@@ -1824,9 +1824,9 @@ too near the lamp an hour or two ago; and it turned him into a common
 
 society clown with a white tie.
 
-     [_The lamp at the end of the [[Garden|garden]] turns blue. They all look at it
+[_The lamp at the end of the [[Garden|garden]] turns blue. They all look at it
 
-     in [[Silence|silence]]._
+in [[Silence|silence]]._
 
 MORRIS. [_Splitting the [[Silence|silence]] on a high unnatural note._] Wait a bit!
 
@@ -1856,7 +1856,7 @@ Mixture of lights! Why not? If you throw a green light on a red
 
 light....
 
-     [_Sudden [[Silence|silence]]._
+[_Sudden [[Silence|silence]]._
 
 [[smith|SMITH]]. [_Quietly to the_ DOCTOR.] You don't get blue.
 
@@ -1864,13 +1864,13 @@ DOCTOR. [_Stepping across to the_ CONJURER.] If you have done this
 
 trick, for God's sake undo it.
 
-     [_After a [[Silence|silence]], the light turns red again._
+[_After a [[Silence|silence]], the light turns red again._
 
 MORRIS. [_Dashing suddenly to the glass doors and examining them._] It's
 
 the glass! You've been doing something to the glass!
 
-     [_He stops suddenly and there is a long [[Silence|silence]]._
+[_He stops suddenly and there is a long [[Silence|silence]]._
 
 CONJURER. [_Still without moving._] I don't think you will find anything
 
@@ -1880,15 +1880,15 @@ MORRIS. [_Bursting open the glass doors with a crash._] Then I'll find
 
 out what's wrong with the lamp.
 
-     [_Disappears into the [[Garden|garden]]._
+[_Disappears into the [[Garden|garden]]._
 
 DOCTOR. It is still a wet [[Night|night]], I am afraid.
 
 [[smith|SMITH]]. Yes. And somebody else will be wandering about the [[Garden|garden]] now.
 
-     [_Through the broken glass doors_ MORRIS _can be seen marching
+[_Through the broken glass doors_ MORRIS _can be seen marching
 
-     backwards and forwards with swifter and swifter steps._
+backwards and forwards with swifter and swifter steps._
 
 [[smith|SMITH]]. I suppose in this case the Celtic twilight will not get on the
 
@@ -1896,13 +1896,13 @@ chest.
 
 DOCTOR. Oh, if it were only the chest!
 
-     _Enter_ PATRICIA.
+_Enter_ PATRICIA.
 
 PATRICIA. Where is my brother?
 
-     [_There is an embarrassed [[Silence|silence]], in which the_ CONJURER
+[_There is an embarrassed [[Silence|silence]], in which the_ CONJURER
 
-     _answers._
+_answers._
 
 CONJURER. I am afraid he is walking about in Fairyland.
 
@@ -1920,7 +1920,7 @@ fairy, and so far it has only brought you sorrow.
 
 PATRICIA. I am going out to find my brother.
 
-     [_She goes out into the [[Garden|garden]] through the open doors._
+[_She goes out into the [[Garden|garden]] through the open doors._
 
 [[smith|SMITH]]. [_After a [[Silence|silence]], very suddenly._] What is that noise? She is
 
@@ -1936,7 +1936,7 @@ DOCTOR. Sir, I can understand your being bitter, for I admit you have
 
 been uncivilly received; but to speak like that just now....
 
-     [PATRICIA _reappears at the [[Garden|garden]] doors, very pale._
+[PATRICIA _reappears at the [[Garden|garden]] doors, very pale._
 
 PATRICIA. Can I speak to the Doctor?
 
@@ -1948,9 +1948,9 @@ PATRICIA. I would prefer the Doctor.
 
 PATRICIA. I only want the Doctor.
 
-     [_She goes out again, followed by_ DR. GRIMTHORPE. _The others look
+[_She goes out again, followed by_ DR. GRIMTHORPE. _The others look
 
-     at each other._
+at each other._
 
 [[smith|SMITH]]. [_Quietly._] That last was a wonderful trick of yours.
 
@@ -1968,9 +1968,9 @@ CONJURER. And so do I.
 
 CONJURER. I wish I had never been born.
 
-     [_Exit_ CONJURER.
+[_Exit_ CONJURER.
 
-     [_A [[Silence|silence]]. The_ DOCTOR _enters, very [[Grave|grave]]._
+[_A [[Silence|silence]]. The_ DOCTOR _enters, very [[Grave|grave]]._
 
 DOCTOR. It is all right so far. We have brought him back.
 
@@ -2088,7 +2088,7 @@ Claus has insomnia. The [[Child|child]] who believes has a good [[Night|night]]'
 
 DOCTOR. You are a Pragmatist.
 
-     _Enter_ DUKE, _absent-mindedly._
+_Enter_ DUKE, _absent-mindedly._
 
 [[smith|SMITH]]. That is what the lawyers call vulgar abuse. But I do appeal to
 
@@ -2114,7 +2114,7 @@ DUKE. [_Wagging a playful finger at him._] Ah, prejudice, prejudice! You
 
 doctors, you know! [[Well]], I never had any myself.
 
-     [_Silence._
+[_Silence._
 
 DOCTOR. [_Breaking the [[Silence|silence]] in unusual exasperation._] Any what?
 
@@ -2122,7 +2122,7 @@ DUKE. [_Firmly._] Never had any Marconis myself. Wouldn't touch 'em.
 
 [_Silence._] [[Well]], I must speak to [[Hastings]].
 
-     [_Exit_ DUKE, _aimlessly._
+[_Exit_ DUKE, _aimlessly._
 
 DOCTOR. [_Exploding._] [[Well]], of all the.... [_Turns to_ [[smith|SMITH]].] You
 
@@ -2136,25 +2136,25 @@ DOCTOR. [_In a low, emphatic voice._] On my living [[Soul|soul]], I believe it
 
 must be the Duke.
 
-     CURTAIN
+CURTAIN
 
 ACT III
 
-     _Room partly darkened, a table with a lamp on it, and an empty
+_Room partly darkened, a table with a lamp on it, and an empty
 
-     chair. From room next door faint and occasional sounds of the
+chair. From room next door faint and occasional sounds of the
 
-     tossing or talking of the invalid._
+tossing or talking of the invalid._
 
-     _Enter_ DOCTOR GRIMTHORPE _with a rather careworn air, and a
+_Enter_ DOCTOR GRIMTHORPE _with a rather careworn air, and a
 
-     medicine bottle in his hand. He puts it on the table, and sits down
+medicine bottle in his hand. He puts it on the table, and sits down
 
-     in the chair as if keeping a vigil._
+in the chair as if keeping a vigil._
 
-     _Enter_ CONJURER, _carrying his bag, and cloaked for departure. As he
+_Enter_ CONJURER, _carrying his bag, and cloaked for departure. As he
 
-     crosses the room the_ DOCTOR _rises and calls after him._
+crosses the room the_ DOCTOR _rises and calls after him._
 
 DOCTOR. Forgive me, but may I detain you for one moment? I suppose you
 
@@ -2240,11 +2240,11 @@ CONJURER. [_Starts slightly._] Yes, his sister. Is she very anxious?
 
 DOCTOR. [_In a lower voice._] What would you suppose?
 
-     [CONJURER _throws himself into the chair, his cloak slipping back
+[CONJURER _throws himself into the chair, his cloak slipping back
 
-     from his evening dress. He ruminates for a short space and then
+from his evening dress. He ruminates for a short space and then
 
-     speaks._
+speaks._
 
 CONJURER. Doctor, there are about a thousand reasons why I should not
 
@@ -2256,17 +2256,17 @@ DOCTOR. [[Well]]? And why shouldn't you tell me?
 
 CONJURER. Because you wouldn't believe me if I did.
 
-     [_A [[Silence|silence]], the_ DOCTOR _looking at him curiously._
+[_A [[Silence|silence]], the_ DOCTOR _looking at him curiously._
 
-     [_Enter the_ DUKE _with papers in his hand. His usual gaiety of
+[_Enter the_ DUKE _with papers in his hand. His usual gaiety of
 
-     manner has a rather forced air, owing to the fact that by some
+manner has a rather forced air, owing to the fact that by some
 
-     vague sick-room associations he walks as if on tip-toe and begins
+vague sick-room associations he walks as if on tip-toe and begins
 
-     to speak in a sort of loud or shrill whisper. This he fortunately
+to speak in a sort of loud or shrill whisper. This he fortunately
 
-     forgets and falls into his more natural voice._
+forgets and falls into his more natural voice._
 
 DUKE. [_To_ CONJURER.] So very kind of you to have waited, Professor. I
 
@@ -2276,7 +2276,7 @@ much better than I could. Nothing like the medical mind for a scientific
 
 statement. [_Hazily._] Look at Ibsen.
 
-     [_Silence._
+[_Silence._
 
 DOCTOR. Of course [[The Professor|the Professor]] feels considerable reluctance in the
 
@@ -2312,7 +2312,7 @@ it in a broader way. Free, you know. [_With an expansive gesture._]
 
 Modern and all that! Wonderful man, Bernard [[Shaw]]!
 
-     [_Silence._
+[_Silence._
 
 DOCTOR. [_With a slight cough, resuming._] If you feel any delicacy the
 
@@ -2334,11 +2334,11 @@ may--er--procure. [_Gaily opening his cheque-book and talking slang to
 
 show there is no ill-feeling._] Come, let me call it a couple of thou.
 
-     [_The_ CONJURER _takes the cheque and looks at it in a [[Grave|grave]] and
+[_The_ CONJURER _takes the cheque and looks at it in a [[Grave|grave]] and
 
-     doubtful way. As he does so the_ RECTOR _comes slowly into the
+doubtful way. As he does so the_ RECTOR _comes slowly into the
 
-     room._
+room._
 
 CONJURER. You would really be willing to pay a sum like this to know
 
@@ -2384,13 +2384,13 @@ the cheque still in his hand._] You ask me how I really did the last
 
 trick. I will tell you how I did the last trick. I did it by [[Magic|magic]].
 
-     [_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
+[_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
 
-     [[smith|SMITH]] _starts and takes a step nearer the table. The_ CONJURER
+[[smith|SMITH]] _starts and takes a step nearer the table. The_ CONJURER
 
-     _pulls his cloak round his shoulders. This gesture, as of
+_pulls his cloak round his shoulders. This gesture, as of
 
-     departure, brings the_ DOCTOR _to his feet._
+departure, brings the_ DOCTOR _to his feet._
 
 DOCTOR. [_Astonished and angry._] Do you really mean that you take the
 
@@ -2412,11 +2412,11 @@ CONJURER. [_Contemptuously._] Yes, your Grace, one of those larger laws
 
 you were telling us about.
 
-     [_He buttons his cloak up at his throat and takes up his bag. As he
+[_He buttons his cloak up at his throat and takes up his bag. As he
 
-     does so the_ REV. [[smith|SMITH]] _steps between him and the door and stops
+does so the_ REV. [[smith|SMITH]] _steps between him and the door and stops
 
-     him for a moment._
+him for a moment._
 
 [[smith|SMITH]]. [_In a low voice._] One moment, sir.
 
@@ -2444,7 +2444,7 @@ CONJURER. Yes. And I have told you the whole [[Truth|truth]]. Go and find out if
 
 it helps you.
 
-     [_Turns again to go, but more irresolutely._
+[_Turns again to go, but more irresolutely._
 
 [[smith|SMITH]]. You know quite [[Well|well]] it will not help us.
 
@@ -2492,9 +2492,9 @@ believe in devils?
 
 CONJURER. Yes. I wish I could disbelieve.
 
-     [_Enter_ PATRICIA _pale and in the slight negligee of the amateur
+[_Enter_ PATRICIA _pale and in the slight negligee of the amateur
 
-     [[Nurse|nurse]]._
+[[Nurse|nurse]]._
 
 PATRICIA. May I speak to the Conjurer?
 
@@ -2506,9 +2506,9 @@ DOCTOR. Are there any developments?
 
 PATRICIA. I only want to speak to the Conjurer.
 
-     [_They all withdraw, either at the [[Garden|garden]] or the other doors._
+[_They all withdraw, either at the [[Garden|garden]] or the other doors._
 
-     PATRICIA _walks up to_ CONJURER.
+PATRICIA _walks up to_ CONJURER.
 
 PATRICIA. You must tell me how you did the trick. You will. I know you
 
@@ -2536,7 +2536,7 @@ CONJURER. I will tell you the very worst. I fell in [[Love|love]] with you when 
 
 first saw you.
 
-     [_Sits down and crosses his legs._
+[_Sits down and crosses his legs._
 
 PATRICIA. [_Drawing back._] You told me I looked like a [[Child|child]] and....
 
@@ -2736,9 +2736,9 @@ dear. But he--he will never believe.
 
 CONJURER. There is no bigot like the atheist. I must think.
 
-     [_Walks towards the [[Garden|garden]] windows. The other men reappear to
+[_Walks towards the [[Garden|garden]] windows. The other men reappear to
 
-     arrest his movement._
+arrest his movement._
 
 DOCTOR. Where are you going?
 
@@ -2746,15 +2746,15 @@ CONJURER. I am going to ask the God whose enemies I have served if I am
 
 still worthy to save a [[Child|child]].
 
-     [_Exit into [[Garden|garden]]. He paces up and down exactly as_ MORRIS _has
+[_Exit into [[Garden|garden]]. He paces up and down exactly as_ MORRIS _has
 
-     done. As he does so_, PATRICIA _slowly goes out; and a long [[Silence|silence]]
+done. As he does so_, PATRICIA _slowly goes out; and a long [[Silence|silence]]
 
-     follows, during which the remaining men stir and stamp very
+follows, during which the remaining men stir and stamp very
 
-     restlessly. The darkness increases. It is long before anyone
+restlessly. The darkness increases. It is long before anyone
 
-     speaks._
+speaks._
 
 DOCTOR. [_Abruptly._] Remarkable man that Conjurer. Clever man. Curious
 
@@ -2766,7 +2766,7 @@ DUKE. What's what, eh? What's what?
 
 DOCTOR. I swear I heard a footstep.
 
-     _Enter_ [[Hastings|HASTINGS]] _with papers._
+_Enter_ [[Hastings|HASTINGS]] _with papers._
 
 DUKE. Why, [[Hastings]]--[[Hastings]]--we thought you were a [[Ghost|ghost]]. You must
 
@@ -2776,7 +2776,7 @@ be--er--looking white or something.
 
 mean the Vegetarians.
 
-     [_Drops one or two papers._
+[_Drops one or two papers._
 
 DUKE. Why, [[Hastings]], you _are_ looking white.
 
@@ -2792,11 +2792,11 @@ disturbed by any private feelings of mine. I shall not trouble your
 
 Grace with them. It will not occur again.
 
-     [_Exit_ [[Hastings|HASTINGS]].
+[_Exit_ [[Hastings|HASTINGS]].
 
 DUKE. What an extraordinary fellow. I [[Wonder|wonder]] if....
 
-     [_Suddenly stops speaking._
+[_Suddenly stops speaking._
 
 DOCTOR. [_After a long [[Silence|silence]], in a low voice to_ [[smith|SMITH]].] How do you
 
@@ -2806,7 +2806,7 @@ feel?
 
 don't know which it is.
 
-     [_Another long [[Silence|silence]]._
+[_Another long [[Silence|silence]]._
 
 [[smith|SMITH]]. [_Crying out suddenly in the dark._] In God's name, go!
 
@@ -2820,7 +2820,7 @@ DOCTOR. No. [_Pause._] But I think I will go. This room is simply
 
 horrible.
 
-     [_He marches towards the door._
+[_He marches towards the door._
 
 DUKE. [_Jumping up and bustling about, altering cards, papers, etc., on
 
@@ -2832,7 +2832,7 @@ crowded. A little crowded. And I don't seem to know all the people. We
 
 can't like everybody. These large at-homes....
 
-     [_Tumbles on to a chair._
+[_Tumbles on to a chair._
 
 CONJURER. [_Reappearing at the [[Garden|garden]] doors._] Go back to hell from
 
@@ -2852,7 +2852,7 @@ Can I take your explanation to him now?
 
 CONJURER. [_Grimly._] No thank you. I will take it myself.
 
-     [_Exit into the other room._
+[_Exit into the other room._
 
 DUKE. [_Uneasily._] We all felt devilish queer just now. Wonderful
 
@@ -2860,17 +2860,17 @@ things there are in the world. [_After a pause._] I suppose it's all
 
 electricity.
 
-     [_Silence as usual._
+[_Silence as usual._
 
 [[smith|SMITH]]. I think there has been more than electricity in all this.
 
-     _Enter_ PATRICIA, _still pale, but radiant._
+_Enter_ PATRICIA, _still pale, but radiant._
 
 PATRICIA. Oh, Morris is ever so much better! The Conjurer has told him
 
 such a good story of how the trick was done.
 
-     _Enter_ CONJURER.
+_Enter_ CONJURER.
 
 DUKE. Professor, we owe you a thousand thanks!
 
@@ -2914,7 +2914,7 @@ CONJURER. Half an hour after I have left this [[house]] you will be all
 
 saying how it was done.
 
-     [CONJURER _buttons up his cloak and advances to_ PATRICIA.
+[CONJURER _buttons up his cloak and advances to_ PATRICIA.
 
 CONJURER. Good-bye.
 
@@ -2936,9 +2936,9 @@ CONJURER. I don't understand you.
 
 PATRICIA. It has come true.
 
-     CURTAIN
+CURTAIN
 
-       *       *       *       *       *
+*       *       *       *       *
 
 _A Selection from the
 
@@ -3210,7 +3210,7 @@ End of the Project Gutenberg EBook of [[Magic]], by G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/1/9/0/9/19094/
+http://www.gutenberg.org/1/9/0/9/19094/
 
 Produced by Suzanne Lybarger, Brian Janes, Melissa Er-Raqabi
 
@@ -3468,53 +3468,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -3708,11 +3708,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -3792,7 +3792,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -3820,7 +3820,7 @@ with this eBook or online at www.gutenberg.org
 
 Title: [[Magic]]
 
-       A Fantastic [[Comedy]]
+A Fantastic [[Comedy]]
 
 Author: G.K. Chesterton
 
@@ -3910,37 +3910,37 @@ MORRIS CARLEON           LYONEL WATTS
 
 THE PRELUDE
 
-     SCENE: _A plantation of thin young trees, in a misty and rainy
+SCENE: _A plantation of thin young trees, in a misty and rainy
 
-     twilight; some woodland blossom showing the patches on the earth
+twilight; some woodland blossom showing the patches on the earth
 
-     between the stems._
+between the stems._
 
-     THE STRANGER _is discovered, a cloaked figure with a pointed hood.
+THE STRANGER _is discovered, a cloaked figure with a pointed hood.
 
-     His costume might belong to modern or any other [[Time|time]], and the
+His costume might belong to modern or any other [[Time|time]], and the
 
-     conical hood is so drawn over the head that little can be seen of
+conical hood is so drawn over the head that little can be seen of
 
-     the face._
+the face._
 
-     _A distant voice, a woman's, is heard, half-singing, half-chanting,
+_A distant voice, a woman's, is heard, half-singing, half-chanting,
 
-     unintelligible words. The cloaked figure raises its head and
+unintelligible words. The cloaked figure raises its head and
 
-     listens with interest. The [[Song|song]] draws nearer and_ PATRICIA CARLEON
+listens with interest. The [[Song|song]] draws nearer and_ PATRICIA CARLEON
 
-     _enters. She is dark and slight, and has a dreamy expression.
+_enters. She is dark and slight, and has a dreamy expression.
 
-     Though she is artistically dressed, her hair is a little wild. She
+Though she is artistically dressed, her hair is a little wild. She
 
-     has a broken branch of some flowering tree in her hand. She does
+has a broken branch of some flowering tree in her hand. She does
 
-     not notice the stranger, and though he has watched her with
+not notice the stranger, and though he has watched her with
 
-     interest, makes no sign. Suddenly she perceives him and starts
+interest, makes no sign. Suddenly she perceives him and starts
 
-     back._
+back._
 
 PATRICIA. Oh! Who are you?
 
@@ -3948,13 +3948,13 @@ STRANGER. Ah! Who am I? [_Commences to mutter to himself, and maps out
 
 the ground with his staff._]
 
-     I have a hat, but not to wear;
+I have a hat, but not to wear;
 
-     I wear a [[Sword|sword]], but not to slay,
+I wear a [[Sword|sword]], but not to slay,
 
-     And ever in my bag I bear
+And ever in my bag I bear
 
-     A pack of cards, but not to play.
+A pack of cards, but not to play.
 
 PATRICIA. What are you? What are you saying?
 
@@ -3994,25 +3994,25 @@ PATRICIA. [_Drawing back in awe._] I think you are growing taller as you
 
 speak.
 
-     [_The scene appears to fade away, and give place to the milieu of_
+[_The scene appears to fade away, and give place to the milieu of_
 
-     ACT ONE, _the Duke's drawing-room, an apartment with open French
+ACT ONE, _the Duke's drawing-room, an apartment with open French
 
-     windows or any opening large enough to show a [[Garden|garden]] and one [[house]]
+windows or any opening large enough to show a [[Garden|garden]] and one [[house]]
 
-     fairly near. It is evening, and there is a red lamp lighted in the
+fairly near. It is evening, and there is a red lamp lighted in the
 
-     [[house]] beyond. The_ REV. CYRIL [[smith|SMITH]] _is sitting with hat and
+[[house]] beyond. The_ REV. CYRIL [[smith|SMITH]] _is sitting with hat and
 
-     umbrella beside him, evidently a visitor. He is a young man with
+umbrella beside him, evidently a visitor. He is a young man with
 
-     the highest of High Church dog-collars and all the qualities of a
+the highest of High Church dog-collars and all the qualities of a
 
-     restrained fanatic. He is one of the Christian Socialist sort and
+restrained fanatic. He is one of the Christian Socialist sort and
 
-     takes his priesthood seriously. He is an honest man, and not an
+takes his priesthood seriously. He is an honest man, and not an
 
-     ass._
+ass._
 
 [_To him enters_ MR. [[Hastings|HASTINGS]] _with papers in his hand._
 
@@ -4046,11 +4046,11 @@ necessary.
 
 [[Hastings|HASTINGS]]. [_Cheerfully._] Oh, it won't be very long.
 
-     [_Exit._
+[_Exit._
 
-     [_Enter by the [[Garden|garden]] doors_ DR. GRIMTHORPE _reading an open paper.
+[_Enter by the [[Garden|garden]] doors_ DR. GRIMTHORPE _reading an open paper.
 
-     He is an old-fashioned practitioner, very much of a gentleman and
+He is an old-fashioned practitioner, very much of a gentleman and
 
 
 
@@ -4058,9 +4058,9 @@ necessary.
 <span class="atom-split" data-atom="part--part_02" data-title="Magic (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-     very carefully dressed in a slightly antiquated style. He is about
+very carefully dressed in a slightly antiquated style. He is about
 
-     sixty years old and might have been a friend of Huxley's._
+sixty years old and might have been a friend of Huxley's._
 
 DOCTOR. [_Folding up the paper._] I beg your pardon, sir, I did not
 
@@ -4142,13 +4142,13 @@ here this afternoon.
 
 [[smith|SMITH]]. Conjuring? Indeed? Why is that?
 
-     _Enter_ [[Hastings|HASTINGS]] _with a letter in each hand._
+_Enter_ [[Hastings|HASTINGS]] _with a letter in each hand._
 
 [[Hastings|HASTINGS]]. His Grace will be with you presently. He asked me to deal with
 
 the business matter first of all.
 
-     [_He gives a note to each of them._
+[_He gives a note to each of them._
 
 [[smith|SMITH]]. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
 
@@ -4156,7 +4156,7 @@ The Duke's given L50 to the new public-[[house]].
 
 [[Hastings|HASTINGS]]. The Duke is very liberal.
 
-     [_Collects papers._
+[_Collects papers._
 
 DOCTOR. [_Examining his cheque._] Very. But this is rather curious. He
 
@@ -4164,7 +4164,7 @@ has also given L50 to the league for opposing the new public-[[house]].
 
 [[Hastings|HASTINGS]]. The Duke is very liberal-minded.
 
-     [_Exit._
+[_Exit._
 
 [[smith|SMITH]]. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
 
@@ -4240,7 +4240,7 @@ a yard of my own red lamp. It shows a lack of tact.
 
 and fairies between here and your lamp.
 
-     [_He walks to the [[Garden|garden]] [[Window|window]] and looks out._
+[_He walks to the [[Garden|garden]] [[Window|window]] and looks out._
 
 DOCTOR. [[Well]], the nephew has been in [[America]]. It stands to reason you
 
@@ -4261,7 +4261,7 @@ for the Celtic twilight myself. It has a tendency to get on the chest.
 
 vestito con grande cura in uno stile lievemente antiquato. Ha circa
 
-     sessant'anni e avrebbe potuto essere un amico di Huxley._
+sessant'anni e avrebbe potuto essere un amico di Huxley._
 
 DOTTORE. [_Ripiegando la carta._] Vi chiedo scusa, signore, non avevo
 
@@ -4343,13 +4343,13 @@ qui questo pomeriggio.
 
 [[smith|SMITH]]. Prestidigitazione? Davvero? E perché mai?
 
-     _Entra_ [[Hastings|HASTINGS]] _con una lettera in ciascuna mano._
+_Entra_ [[Hastings|HASTINGS]] _con una lettera in ciascuna mano._
 
 [[Hastings|HASTINGS]]. Sua Grazia sarà da voi tra poco. Mi ha chiesto di sbrigare
 
 prima di tutto la questione d'affari.
 
-     [_Consegna un biglietto a ciascuno di loro._
+[_Consegna un biglietto a ciascuno di loro._
 
 [[smith|SMITH]]. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
 
@@ -4357,7 +4357,7 @@ Il Duca ha dato 50 sterline alla nuova [[house|osteria]].
 
 [[Hastings|HASTINGS]]. Il Duca è molto liberale.
 
-     [_Raccoglie le carte._
+[_Raccoglie le carte._
 
 DOTTORE. [_Esaminando il proprio assegno._] Moltissimo. Ma questo è piuttosto curioso. Ha
 
@@ -4365,7 +4365,7 @@ dato anche 50 sterline alla lega che si oppone alla nuova [[house|osteria]].
 
 [[Hastings|HASTINGS]]. Il Duca è di mentalità molto liberale.
 
-     [_Esce._
+[_Esce._
 
 [[smith|SMITH]]. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
 
@@ -4441,7 +4441,7 @@ iarda dalla mia stessa lampada rossa. Dimostra una mancanza di tatto.
 
 e fate tra qui e la vostra lampada.
 
-     [_Cammina verso la [[Window|finestra]] del [[Garden|giardino]] e guarda fuori._
+[_Cammina verso la [[Window|finestra]] del [[Garden|giardino]] e guarda fuori._
 
 DOTTORE. [[Well|Beh]], il nipote è stato in [[America]]. Va da sé che non si
 
@@ -4502,13 +4502,13 @@ fraud, too. The conjurer satisfies nobody. That is why he satisfies the
 
 Duke.
 
-     [_Enter the_ DUKE, _with_ [[Hastings|HASTINGS]], _carrying papers. The_ DUKE _is
+[_Enter the_ DUKE, _with_ [[Hastings|HASTINGS]], _carrying papers. The_ DUKE _is
 
-     a healthy, hearty man in tweeds, with a rather wandering eye. In
+a healthy, hearty man in tweeds, with a rather wandering eye. In
 
-     the present state of the peerage it is necessary to explain that
+the present state of the peerage it is necessary to explain that
 
-     the_ DUKE, _though an ass, is a gentleman._
+the_ DUKE, _though an ass, is a gentleman._
 
 DUKE. Good-morning, Mr. [[smith|Smith]]. So sorry to have kept you waiting, but
 
@@ -4552,9 +4552,9 @@ all; and he does good in _his_ way. We can't be Ancient Britons, you
 
 know.
 
-     [_A prolonged and puzzled [[Silence|silence]], such as always follows the more
+[_A prolonged and puzzled [[Silence|silence]], such as always follows the more
 
-     abrupt of the_ DUKE'S _associations or disassociations of thought._
+abrupt of the_ DUKE'S _associations or disassociations of thought._
 
 [[smith|SMITH]]. [_At last, faintly._] Ancient Britons....
 
@@ -4572,9 +4572,9 @@ glad to see you're using the new sort of graining ... why, it all
 
 reminds one of the [[French Revolution]].
 
-     [_Another [[Silence|silence]]. As the_ DUKE _lounges alertly about the room_,
+[_Another [[Silence|silence]]. As the_ DUKE _lounges alertly about the room_,
 
-     [[smith|SMITH]] _speaks to the_ DOCTOR _in an undertone._
+[[smith|SMITH]] _speaks to the_ DOCTOR _in an undertone._
 
 [[smith|SMITH]]. Does it remind you of the [[French Revolution]]?
 
@@ -4582,17 +4582,17 @@ DOCTOR. As much as of anything else. His Grace never reminds me of
 
 anything.
 
-     [_A young and very high American voice is heard calling in the
+[_A young and very high American voice is heard calling in the
 
-     [[Garden|garden]]. "Say, could somebody see to one of these trunks?"_
+[[Garden|garden]]. "Say, could somebody see to one of these trunks?"_
 
-     [MR. [[Hastings|HASTINGS]] _goes out into the [[Garden|garden]]. He returns with_ MORRIS
+[MR. [[Hastings|HASTINGS]] _goes out into the [[Garden|garden]]. He returns with_ MORRIS
 
-     CARLEON, _a very young man: hardly more than a boy, but with very
+CARLEON, _a very young man: hardly more than a boy, but with very
 
-     grown-up American dress and manners. He is dark, smallish, and
+grown-up American dress and manners. He is dark, smallish, and
 
-     active; and the racial type under his Americanism is Irish._
+active; and the racial type under his Americanism is Irish._
 
 MORRIS. [_Humorously, as he puts in his head at the [[Window|window]]._] See here,
 
@@ -4602,11 +4602,11 @@ DOCTOR. [_Who is nearest to him, with great gravity._] Yes, only one.
 
 MORRIS. I reckon he's the one I want, anyhow. I'm his nephew.
 
-     [_The_ DUKE, _who is ruminating in the foreground, with one eye
+[_The_ DUKE, _who is ruminating in the foreground, with one eye
 
-     rather off, turns at the voice and shakes_ MORRIS _warmly by the
+rather off, turns at the voice and shakes_ MORRIS _warmly by the
 
-     hand._
+hand._
 
 DUKE. Delighted to see you, my dear boy. I hear you've been doing very
 
@@ -4624,21 +4624,21 @@ go-ahead methods, I'm told. [[Well]], I dare say he does a great deal of
 
 good with his money. And we can't go back to the [[Spanish Inquisition]].
 
-     [_Silence, during which the three men look at each other._
+[_Silence, during which the three men look at each other._
 
 MORRIS. [_Abruptly._] And how's Patricia?
 
 DUKE. [_A little hazily._] Oh, she's very [[Well|well]], I think. She....
 
-     [_He hesitates slightly._
+[_He hesitates slightly._
 
 MORRIS. [_Smiling._] [[Well]], then, where's Patricia?
 
-     [_There is a slightly embarrassed pause, and the_ DOCTOR _speaks._
+[_There is a slightly embarrassed pause, and the_ DOCTOR _speaks._
 
 DOCTOR. Miss Carleon is walking about the grounds, I think.
 
-     [MORRIS _goes to the [[Garden|garden]] doors and looks out._
+[MORRIS _goes to the [[Garden|garden]] doors and looks out._
 
 MORRIS. It's a mighty chilly [[Night|night]] to choose. Does my sister commonly
 
@@ -4697,13 +4697,13 @@ un impostore anche lui. Il prestigiatore non accontenta nessuno. Ecco perché ac
 
 Duca.
 
-     [_Entra il_ DUCA, _con_ [[Hastings|HASTINGS]], _che porta delle carte. Il_ DUCA _è
+[_Entra il_ DUCA, _con_ [[Hastings|HASTINGS]], _che porta delle carte. Il_ DUCA _è
 
-     un uomo sano e gioviale in tweed, con l'occhio piuttosto vagante. Nello
+un uomo sano e gioviale in tweed, con l'occhio piuttosto vagante. Nello
 
-     stato presente del ceto nobiliare è necessario spiegare che
+stato presente del ceto nobiliare è necessario spiegare che
 
-     il_ DUCA, _benché sciocco, è un gentiluomo._
+il_ DUCA, _benché sciocco, è un gentiluomo._
 
 DUCA. Buongiorno, signor [[smith|Smith]]. Mi dispiace tanto avervi fatto aspettare, ma
 
@@ -4747,9 +4747,9 @@ affatto; e fa del bene a _modo suo_. Non possiamo essere Antichi Britanni,
 
 sapete.
 
-     [_Un [[Silence|silenzio]] prolungato e perplesso, come sempre segue le più
+[_Un [[Silence|silenzio]] prolungato e perplesso, come sempre segue le più
 
-     brusche associazioni o dissociazioni di pensiero del_ DUCA.
+brusche associazioni o dissociazioni di pensiero del_ DUCA.
 
 [[smith|SMITH]]. [_Alla fine, con voce fioca._] Antichi Britanni....
 
@@ -4767,9 +4767,9 @@ lieto di vedere che usate il nuovo tipo di venatura ... ecco, tutto
 
 ricorda la [[French Revolution|Rivoluzione francese]].
 
-     [_Un altro [[Silence|silenzio]]. Mentre il_ DUCA _gironzola vigile per la stanza_,
+[_Un altro [[Silence|silenzio]]. Mentre il_ DUCA _gironzola vigile per la stanza_,
 
-     [[smith|SMITH]] _parla al_ DOTTORE _sottovoce._
+[[smith|SMITH]] _parla al_ DOTTORE _sottovoce._
 
 [[smith|SMITH]]. Vi ricorda la [[French Revolution|Rivoluzione francese]]?
 
@@ -4777,17 +4777,17 @@ DOTTORE. Quanto qualunque altra cosa. Sua Grazia non mi ricorda mai
 
 nulla.
 
-     [_Si ode una voce americana giovane e acutissima chiamare nel
+[_Si ode una voce americana giovane e acutissima chiamare nel
 
-     [[Garden|giardino]]. «Ehi, qualcuno potrebbe occuparsi di uno di questi bauli?»_
+[[Garden|giardino]]. «Ehi, qualcuno potrebbe occuparsi di uno di questi bauli?»_
 
-     [MR. [[Hastings|HASTINGS]] _esce nel [[Garden|giardino]]. Torna con_ MORRIS
+[MR. [[Hastings|HASTINGS]] _esce nel [[Garden|giardino]]. Torna con_ MORRIS
 
-     CARLEON, _un giovanissimo: poco più di un ragazzo, ma con abiti e modi
+CARLEON, _un giovanissimo: poco più di un ragazzo, ma con abiti e modi
 
-     americani molto adulti. È bruno, piuttosto piccolo e
+americani molto adulti. È bruno, piuttosto piccolo e
 
-     attivo; e il tipo razziale sotto il suo americanismo è irlandese._
+attivo; e il tipo razziale sotto il suo americanismo è irlandese._
 
 MORRIS. [_Con umorismo, mentre affaccia la testa alla [[Window|finestra]]._] Sentite un po',
 
@@ -4797,11 +4797,11 @@ DOTTORE. [_Che gli è più vicino, con grande gravità._] Sì, uno solo.
 
 MORRIS. Immagino sia proprio quello che cerco, comunque. Sono suo nipote.
 
-     [_Il_ DUCA, _che rumina in primo piano, con un occhio
+[_Il_ DUCA, _che rumina in primo piano, con un occhio
 
-     piuttosto altrove, si volge alla voce e stringe_ MORRIS _calorosamente per la
+piuttosto altrove, si volge alla voce e stringe_ MORRIS _calorosamente per la
 
-     mano._
+mano._
 
 DUCA. Lieto di vedervi, mio caro ragazzo. Sento che ve la siete cavata molto
 
@@ -4819,21 +4819,21 @@ molto intraprendenti, mi dicono. [[Well|Beh]], oserei dire che fa un gran
 
 bene col suo denaro. E non possiamo tornare all'[[Spanish Inquisition|Inquisizione spagnola]].
 
-     [_Silenzio, durante il quale i tre uomini si guardano l'un l'altro._
+[_Silenzio, durante il quale i tre uomini si guardano l'un l'altro._
 
 MORRIS. [_Bruscamente._] E come sta Patricia?
 
 DUCA. [_Un po' vagamente._] Oh, sta molto [[Well|bene]], credo. Lei....
 
-     [_Esita lievemente._
+[_Esita lievemente._
 
 MORRIS. [_Sorridendo._] [[Well|Beh]], allora, dov'è Patricia?
 
-     [_C'è una pausa lievemente imbarazzata, e il_ DOTTORE _parla._
+[_C'è una pausa lievemente imbarazzata, e il_ DOTTORE _parla._
 
 DOTTORE. Miss Carleon sta passeggiando per la tenuta, credo.
 
-     [MORRIS _va alle porte del [[Garden|giardino]] e guarda fuori._
+[MORRIS _va alle porte del [[Garden|giardino]] e guarda fuori._
 
 MORRIS. È una [[Night|notte]] parecchio gelida da scegliere. Mia sorella suole di solito
 
@@ -4856,7 +4856,7 @@ Quello che io chiamo sempre il temperamento artistico! Wordsworth, sapete, e
 
 all that.
 
-     [_Silence._
+[_Silence._
 
 MORRIS. [_Staring._] All what?
 
@@ -4896,9 +4896,9 @@ DOCTOR. [_Grimly._] I am a medicine man.
 
 MORRIS. And you don't look mythical, Doc.
 
-     [_He bites his finger and begins to pace restlessly up and down the
+[_He bites his finger and begins to pace restlessly up and down the
 
-     room._
+room._
 
 DUKE. [[Well]], you know, the artistic temperament....
 
@@ -4914,9 +4914,9 @@ DUKE. I am afraid you Americans aren't so advanced as I'd hoped. Why! as
 
 old Buffle used to say....
 
-     [_As he speaks a distant voice is heard singing in the [[Garden|garden]]; it
+[_As he speaks a distant voice is heard singing in the [[Garden|garden]]; it
 
-     comes nearer and nearer, and_ [[smith|SMITH]] _turns suddenly to the_ DOCTOR.
+comes nearer and nearer, and_ [[smith|SMITH]] _turns suddenly to the_ DOCTOR.
 
 [[smith|SMITH]]. Whose voice is that?
 
@@ -4926,7 +4926,7 @@ MORRIS. [_Walking to the [[Window|window]]._] You need not trouble. I know who i
 
 is.
 
-     _Enter_ PATRICIA CARLEON
+_Enter_ PATRICIA CARLEON
 
 [_Still agitated._] Patricia, where have you been?
 
@@ -5018,7 +5018,7 @@ girl who has a plaid shawl--and a Banshee. [_Sighs profoundly._] Poor
 
 old Gladstone!
 
-     [_Silence as usual._
+[_Silence as usual._
 
 [[smith|SMITH]]. [_Speaking to_ DOCTOR.] I thought you yourself considered the
 
@@ -5065,7 +5065,7 @@ last longer than the red lamps?
 
 tutto quanto.
 
-     [_Silenzio._
+[_Silenzio._
 
 MORRIS. [_Fissando._] Tutto quale?
 
@@ -5105,9 +5105,9 @@ DOTTORE. [_Cupamente._] Io sono un uomo di medicina.
 
 MORRIS. E non avete un aspetto mitico, Dottore.
 
-     [_Si morde il dito e comincia a camminare irrequieto avanti e indietro per la
+[_Si morde il dito e comincia a camminare irrequieto avanti e indietro per la
 
-     stanza._
+stanza._
 
 DUCA. [[Well|Beh]], sapete, il temperamento artistico....
 
@@ -5123,9 +5123,9 @@ DUCA. Temo che voi americani non siate così avanzati come speravo. Ma via! come
 
 diceva il vecchio Buffle....
 
-     [_Mentre parla si ode una voce lontana cantare nel [[Garden|giardino]]; si
+[_Mentre parla si ode una voce lontana cantare nel [[Garden|giardino]]; si
 
-     avvicina sempre di più, e_ [[smith|SMITH]] _si volge di scatto verso il_ DOTTORE.
+avvicina sempre di più, e_ [[smith|SMITH]] _si volge di scatto verso il_ DOTTORE.
 
 [[smith|SMITH]]. Di chi è quella voce?
 
@@ -5135,7 +5135,7 @@ MORRIS. [_Camminando verso la [[Window|finestra]]._] Non dovete disturbarvi. So 
 
 is.
 
-     _Entra_ PATRICIA CARLEON
+_Entra_ PATRICIA CARLEON
 
 [_Ancora agitato._] Patricia, dove sei stata?
 
@@ -5227,7 +5227,7 @@ irlandese che ha uno scialle scozzese--e una Banshee. [_Sospira profondamente._]
 
 vecchio Gladstone!
 
-     [_Silenzio come al solito._
+[_Silenzio come al solito._
 
 [[smith|SMITH]]. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
 
@@ -5282,9 +5282,9 @@ DUKE. Capital! Capital! Why, it's like Tennyson. [_Silence._] I remember
 
 when I was an undergrad....
 
-     [_The red light disappears; no one sees it at first except_
+[_The red light disappears; no one sees it at first except_
 
-     PATRICIA, _who points excitedly._
+PATRICIA, _who points excitedly._
 
 MORRIS. What's the matter?
 
@@ -5300,15 +5300,15 @@ PATRICIA. [_Calmly._] I told you he walked about the [[Garden|garden]].
 
 MORRIS. If it's that fortune-teller of yours....
 
-     [_Disappears into the [[Garden|garden]], followed by the_ DOCTOR.
+[_Disappears into the [[Garden|garden]], followed by the_ DOCTOR.
 
 DUKE. [_Staring._] Somebody in the [[Garden|garden]]! Really, this Land
 
 Campaign....
 
-     [_Silence._
+[_Silence._
 
-     [MORRIS _reappears rather breathless._
+[MORRIS _reappears rather breathless._
 
 MORRIS. A spry fellow, your friend. He slipped through my hands like a
 
@@ -5322,21 +5322,21 @@ Duke?
 
 PATRICIA. Oh, you need not trouble. He will come if I call him.
 
-     [_She goes out into the [[Garden|garden]] and calls out some half-chanted and
+[_She goes out into the [[Garden|garden]] and calls out some half-chanted and
 
-     unintelligible words, somewhat like the [[Song|song]] preceding her
+unintelligible words, somewhat like the [[Song|song]] preceding her
 
-     entrance. The red light reappears; and there is a slight sound as
+entrance. The red light reappears; and there is a slight sound as
 
-     of fallen [[Leaves|leaves]] shuffled by approaching feet. The cloaked_
+of fallen [[Leaves|leaves]] shuffled by approaching feet. The cloaked_
 
-     STRANGER _with the pointed hood is seen standing outside the [[Garden|garden]]
+STRANGER _with the pointed hood is seen standing outside the [[Garden|garden]]
 
-     doors._
+doors._
 
 PATRICIA. You may enter all doors.
 
-     [_The figure comes into the room_
+[_The figure comes into the room_
 
 MORRIS. [_Shutting the [[Garden|garden]] doors behind him._] Now, see here, wizard,
 
@@ -5408,9 +5408,9 @@ the...?
 
 STRANGER. [_Bowing._] Yes. I am the Conjurer.
 
-     [_There is general laughter, except from_ PATRICIA. _As the others
+[_There is general laughter, except from_ PATRICIA. _As the others
 
-     mingle in talk, the_ STRANGER _goes up to her._
+mingle in talk, the_ STRANGER _goes up to her._
 
 STRANGER. [_Very sadly._] I am very sorry I am not a wizard.
 
@@ -5430,19 +5430,19 @@ STRANGER. And what have I stolen?
 
 PATRICIA. A fairy tale.
 
-     CURTAIN
+CURTAIN
 
 ACT II
 
-     _The same room lighted more brilliantly an hour later in the
+_The same room lighted more brilliantly an hour later in the
 
-     evening. On one side a table covered with packs of cards, pyramids,
+evening. On one side a table covered with packs of cards, pyramids,
 
-     etc., at which the_ CONJURER _in evening dress is standing quietly
+etc., at which the_ CONJURER _in evening dress is standing quietly
 
-     setting out his tricks. A little more in the foreground the_ DUKE;
+setting out his tricks. A little more in the foreground the_ DUKE;
 
-     _and_ [[Hastings|HASTINGS]] _with a number of papers._
+_and_ [[Hastings|HASTINGS]] _with a number of papers._
 
 [[Hastings|HASTINGS]]. There are only a few small matters. Here are the programmes of
 
@@ -5520,7 +5520,7 @@ DUKE. [[Well]], [[Well|well]], I'm bound to say they're very enthusiastic. Advan
 
 too--oh, certainly advanced. Like Joan of Arc.
 
-     [_Short [[Silence|silence]], in which the_ CONJURER _stares at him._]
+[_Short [[Silence|silence]], in which the_ CONJURER _stares at him._]
 
 CONJURER. _Was_ Joan of Arc a [[vegetarian|Vegetarian]]?
 
@@ -5632,7 +5632,7 @@ DUKE. [[Well]], [[Well|well]], I must go and see how Morris is. Pleasure of seei
 
 you later.
 
-     [_Exit_ DUKE, _leaving the programmes._
+[_Exit_ DUKE, _leaving the programmes._
 
 CONJURER. Why are nice men such asses? [_Turns to arrange the table._]
 
@@ -5656,15 +5656,15 @@ I am a conjurer and nothing else but a conjurer. Unless I could show I
 
 was something else, and that would be worse.
 
-     [_He begins to dash the cards rather irregularly about the table.
+[_He begins to dash the cards rather irregularly about the table.
 
-     Enter_ PATRICIA.
+Enter_ PATRICIA.
 
 PATRICIA. [_Coldly_] I beg your pardon. I came to get some programmes.
 
 My uncle wants them.
 
-     [_She walks swiftly across and takes up the programmes._
+[_She walks swiftly across and takes up the programmes._
 
 CONJURER. [_Still dashing cards about the table._] Miss Carleon, might I
 
@@ -5721,7 +5721,7 @@ DUCA. [[Well|Beh]], [[Well|beh]], sono costretto a dire che sono molto entusiast
 
 anche--oh, certamente avanzati. Come Giovanna d'Arco.
 
-     [_Breve [[Silence|silenzio]], durante il quale il_ PRESTIGIATORE _lo fissa._]
+[_Breve [[Silence|silenzio]], durante il quale il_ PRESTIGIATORE _lo fissa._]
 
 PRESTIGIATORE. _Era_ Giovanna d'Arco una [[vegetarian|Vegetariana]]?
 
@@ -5833,7 +5833,7 @@ DUCA. [[Well|Beh]], [[Well|beh]], devo andare a vedere come sta Morris. Piacere 
 
 più tardi.
 
-     [_Esce_ DUCA, _lasciando i programmi._
+[_Esce_ DUCA, _lasciando i programmi._
 
 PRESTIGIATORE. Perché gli uomini simpatici sono tali sciocchi? [_Si volge a sistemare il tavolo._]
 
@@ -5857,15 +5857,15 @@ Sono un prestigiatore e nient'altro che un prestigiatore. A meno che potessi mos
 
 essere qualcos'altro, e sarebbe peggio.
 
-     [_Comincia a gettare le carte piuttosto irregolarmente sul tavolo.
+[_Comincia a gettare le carte piuttosto irregolarmente sul tavolo.
 
-     Entra_ PATRICIA.
+Entra_ PATRICIA.
 
 PATRICIA. [_Freddamente_] Vi chiedo scusa. Sono venuta a prendere dei programmi.
 
 Mio zio li vuole.
 
-     [_Attraversa rapidamente e prende i programmi._
+[_Attraversa rapidamente e prende i programmi._
 
 PRESTIGIATORE. [_Ancora gettando carte sul tavolo._] Miss Carleon, potrei
 
@@ -5910,11 +5910,11 @@ such lies. You may or may not know why.
 
 PATRICIA. I know nothing about such lies.
 
-     [_She puts her hand on the handle of the door, but the_ CONJURER,
+[_She puts her hand on the handle of the door, but the_ CONJURER,
 
-     _who is sitting on the table and staring at his boots, does not
+_who is sitting on the table and staring at his boots, does not
 
-     notice the action, and goes on as in a sincere soliloquy._
+notice the action, and goes on as in a sincere soliloquy._
 
 CONJURER. I don't know whether you have any notion of what it means to a
 
@@ -5934,7 +5934,7 @@ good conversations, didn't we? I am a liar. But I told you a great deal
 
 of the [[Truth|truth]].
 
-     [_He turns and resumes the arrangement of the table._
+[_He turns and resumes the arrangement of the table._
 
 PATRICIA. [_Thinking._] Yes, you did tell me a great deal of the [[Truth|truth]].
 
@@ -6050,11 +6050,11 @@ CONJURER. [_Rising from his seat._] Yes. It was she who brought the real
 
 [[Magic|magic]].
 
-     [_Enter_ MORRIS, _in evening-dress. He walks straight up to the
+[_Enter_ MORRIS, _in evening-dress. He walks straight up to the
 
-     conjuring-table; and picks up one article after another, putting
+conjuring-table; and picks up one article after another, putting
 
-     each down with a comment._
+each down with a comment._
 
 MORRIS. I know that one. I know that. I know that. Let's see, that's the
 
@@ -6101,11 +6101,11 @@ di bugie simili. Potete sapere o no perché.
 
 PATRICIA. Non so nulla di simili bugie.
 
-     [_Posa la mano sulla maniglia della porta, ma il_ PRESTIGIATORE,
+[_Posa la mano sulla maniglia della porta, ma il_ PRESTIGIATORE,
 
-     _che siede sul tavolo e fissa i propri stivali, non
+_che siede sul tavolo e fissa i propri stivali, non
 
-     nota il gesto, e prosegue come in un sincero soliloquio._
+nota il gesto, e prosegue come in un sincero soliloquio._
 
 PRESTIGIATORE. Non so se abbiate la minima idea di che cosa significhi per un
 
@@ -6125,7 +6125,7 @@ belle conversazioni, non è vero? Sono un bugiardo. Ma vi ho detto una gran quan
 
 di [[Truth|verità]].
 
-     [_Si volge e riprende a sistemare il tavolo._
+[_Si volge e riprende a sistemare il tavolo._
 
 PATRICIA. [_Pensando._] Sì, mi avete detto una gran quantità di [[Truth|verità]].
 
@@ -6241,11 +6241,11 @@ PRESTIGIATORE. [_Alzandosi dal suo posto._] Sì. Fu lei a portare la vera
 
 [[Magic|magia]].
 
-     [_Entra_ MORRIS, _in abito da sera. Cammina dritto verso il
+[_Entra_ MORRIS, _in abito da sera. Cammina dritto verso il
 
-     tavolo della prestidigitazione; e prende un oggetto dopo l'altro, posando
+tavolo della prestidigitazione; e prende un oggetto dopo l'altro, posando
 
-     ciascuno con un commento._
+ciascuno con un commento._
 
 MORRIS. Conosco quello. Conosco quello. Conosco quello. Vediamo, quello è il
 
@@ -6312,9 +6312,9 @@ you know, or cover....
 
 CONJURER. Yes.
 
-     [_Goes back gloomily to his table and sits on it, picking up a pack
+[_Goes back gloomily to his table and sits on it, picking up a pack
 
-     of cards and balancing it in his hand._
+of cards and balancing it in his hand._
 
 MORRIS. Ah, most mysteries are tolerably plain if you know the
 
@@ -6358,7 +6358,7 @@ DOCTOR. Which one is that?
 
 PATRICIA. The Vanishing Lady!
 
-     [_Exit_ PATRICIA.
+[_Exit_ PATRICIA.
 
 [[smith|SMITH]]. There is one part of their old apparatus I regret especially
 
@@ -6456,9 +6456,9 @@ quiet business man more often went to someone else's pocket.
 
 MORRIS. You....
 
-     [_Puts his hand to his hip. The_ DOCTOR _puts his hand on his
+[_Puts his hand to his hip. The_ DOCTOR _puts his hand on his
 
-     shoulder._
+shoulder._
 
 DOCTOR. Gentlemen, I think you are both forgetting yourselves.
 
@@ -6550,9 +6550,9 @@ that real Saints and Prophets never lived. There may be sham [[Magic|magic]] and
 
 real [[Magic|magic]] also.
 
-     [_The_ CONJURER _raises his head and listens with a strange air of
+[_The_ CONJURER _raises his head and listens with a strange air of
 
-     intentness._
+intentness._
 
 [[smith|SMITH]]. There may be turnip [[Ghosts|ghosts]] precisely because there are real
 
@@ -6600,7 +6600,7 @@ no more raise your Saints and Prophets from the dead than you'll raise
 
 the Duke's great-grandfather to [[Dance|dance]] on that wall.
 
-     [_The picture begins to sway slightly to and fro on the wall._
+[_The picture begins to sway slightly to and fro on the wall._
 
 DOCTOR. Why, the picture is moving!
 
@@ -6622,11 +6622,11 @@ They say they can make the furniture move of itself. If it does move
 
 they move it; and we mean to know how.
 
-     [_A chair falls over with a slight crash._
+[_A chair falls over with a slight crash._
 
-     [MORRIS _almost staggers and momentarily fights for breath and
+[MORRIS _almost staggers and momentarily fights for breath and
 
-     words._
+words._
 
 MORRIS. You ... why ... that ... every one knows that ... a sliding
 
@@ -6636,9 +6636,9 @@ CONJURER. [_Without looking up._] Yes. It can be done with a sliding
 
 plank.
 
-     [_The_ DOCTOR _draws nearer to_ MORRIS, _who faces about,
+[_The_ DOCTOR _draws nearer to_ MORRIS, _who faces about,
 
-     addressing him passionately._
+addressing him passionately._
 
 MORRIS. You were right on the spot, Doc, when you talked about that red
 
@@ -6658,9 +6658,9 @@ too near the lamp an hour or two ago; and it turned him into a common
 
 society clown with a white tie.
 
-     [_The lamp at the end of the [[Garden|garden]] turns blue. They all look at it
+[_The lamp at the end of the [[Garden|garden]] turns blue. They all look at it
 
-     in [[Silence|silence]]._
+in [[Silence|silence]]._
 
 MORRIS. [_Splitting the [[Silence|silence]] on a high unnatural note._] Wait a bit!
 
@@ -6696,7 +6696,7 @@ Mixture of lights! Why not? If you throw a green light on a red
 
 light....
 
-     [_Sudden [[Silence|silence]]._
+[_Sudden [[Silence|silence]]._
 
 [[smith|SMITH]]. [_Quietly to the_ DOCTOR.] You don't get blue.
 
@@ -6704,13 +6704,13 @@ DOCTOR. [_Stepping across to the_ CONJURER.] If you have done this
 
 trick, for God's sake undo it.
 
-     [_After a [[Silence|silence]], the light turns red again._
+[_After a [[Silence|silence]], the light turns red again._
 
 MORRIS. [_Dashing suddenly to the glass doors and examining them._] It's
 
 the glass! You've been doing something to the glass!
 
-     [_He stops suddenly and there is a long [[Silence|silence]]._
+[_He stops suddenly and there is a long [[Silence|silence]]._
 
 CONJURER. [_Still without moving._] I don't think you will find anything
 
@@ -6720,15 +6720,15 @@ MORRIS. [_Bursting open the glass doors with a crash._] Then I'll find
 
 out what's wrong with the lamp.
 
-     [_Disappears into the [[Garden|garden]]._
+[_Disappears into the [[Garden|garden]]._
 
 DOCTOR. It is still a wet [[Night|night]], I am afraid.
 
 [[smith|SMITH]]. Yes. And somebody else will be wandering about the [[Garden|garden]] now.
 
-     [_Through the broken glass doors_ MORRIS _can be seen marching
+[_Through the broken glass doors_ MORRIS _can be seen marching
 
-     backwards and forwards with swifter and swifter steps._
+backwards and forwards with swifter and swifter steps._
 
 [[smith|SMITH]]. I suppose in this case the Celtic twilight will not get on the
 
@@ -6736,13 +6736,13 @@ chest.
 
 DOCTOR. Oh, if it were only the chest!
 
-     _Enter_ PATRICIA.
+_Enter_ PATRICIA.
 
 PATRICIA. Where is my brother?
 
-     [_There is an embarrassed [[Silence|silence]], in which the_ CONJURER
+[_There is an embarrassed [[Silence|silence]], in which the_ CONJURER
 
-     _answers._
+_answers._
 
 CONJURER. I am afraid he is walking about in Fairyland.
 
@@ -6760,7 +6760,7 @@ fairy, and so far it has only brought you sorrow.
 
 PATRICIA. I am going out to find my brother.
 
-     [_She goes out into the [[Garden|garden]] through the open doors._
+[_She goes out into the [[Garden|garden]] through the open doors._
 
 [[smith|SMITH]]. [_After a [[Silence|silence]], very suddenly._] What is that noise? She is
 
@@ -6776,7 +6776,7 @@ DOCTOR. Sir, I can understand your being bitter, for I admit you have
 
 been uncivilly received; but to speak like that just now....
 
-     [PATRICIA _reappears at the [[Garden|garden]] doors, very pale._
+[PATRICIA _reappears at the [[Garden|garden]] doors, very pale._
 
 PATRICIA. Can I speak to the Doctor?
 
@@ -6788,9 +6788,9 @@ PATRICIA. I would prefer the Doctor.
 
 PATRICIA. I only want the Doctor.
 
-     [_She goes out again, followed by_ DR. GRIMTHORPE. _The others look
+[_She goes out again, followed by_ DR. GRIMTHORPE. _The others look
 
-     at each other._
+at each other._
 
 [[smith|SMITH]]. [_Quietly._] That last was a wonderful trick of yours.
 
@@ -6808,9 +6808,9 @@ CONJURER. And so do I.
 
 CONJURER. I wish I had never been born.
 
-     [_Exit_ CONJURER.
+[_Exit_ CONJURER.
 
-     [_A [[Silence|silence]]. The_ DOCTOR _enters, very [[Grave|grave]]._
+[_A [[Silence|silence]]. The_ DOCTOR _enters, very [[Grave|grave]]._
 
 DOCTOR. It is all right so far. We have brought him back.
 
@@ -6911,7 +6911,7 @@ Mescolanza di luci! Perché no? Se getti una luce verde su una luce
 
 rossa....
 
-     [_[[Silence|Silenzio]] improvviso._
+[_[[Silence|Silenzio]] improvviso._
 
 [[smith|SMITH]]. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
 
@@ -6919,13 +6919,13 @@ DOTTORE. [_Avvicinandosi al_ PRESTIGIATORE.] Se ha fatto lei questo
 
 trucco, per l'amor di Dio lo disfi.
 
-     [_Dopo un [[Silence|silenzio]], la luce ridiventa rossa._
+[_Dopo un [[Silence|silenzio]], la luce ridiventa rossa._
 
 MORRIS. [_Precipitandosi d'un tratto alle porte a vetri ed esaminandole._] È
 
 il vetro! Ha combinato qualcosa al vetro!
 
-     [_Si ferma di colpo e cala un lungo [[Silence|silenzio]]._
+[_Si ferma di colpo e cala un lungo [[Silence|silenzio]]._
 
 PRESTIGIATORE. [_Sempre senza muoversi._] Non credo che troverà nulla
 
@@ -6935,15 +6935,15 @@ MORRIS. [_Spalancando le porte a vetri con fracasso._] Allora scoprirò
 
 cosa c'è di sbagliato nella lampada.
 
-     [_Scompare nel [[Garden|giardino]]._
+[_Scompare nel [[Garden|giardino]]._
 
 DOTTORE. È ancora una [[Night|notte]] umida, temo.
 
 [[smith|SMITH]]. Sì. E ora qualcun altro andrà errando per il [[Garden|giardino]].
 
-     [_Attraverso le porte a vetri infrante si vede_ MORRIS _andare
+[_Attraverso le porte a vetri infrante si vede_ MORRIS _andare
 
-     avanti e indietro a passi sempre più rapidi._
+avanti e indietro a passi sempre più rapidi._
 
 [[smith|SMITH]]. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
 
@@ -6951,13 +6951,13 @@ petto.
 
 DOTTORE. Oh, se fosse solo il petto!
 
-     _Entra_ PATRICIA.
+_Entra_ PATRICIA.
 
 PATRICIA. Dov'è mio fratello?
 
-     [_Cala un [[Silence|silenzio]] imbarazzato, nel quale il_ PRESTIGIATORE
+[_Cala un [[Silence|silenzio]] imbarazzato, nel quale il_ PRESTIGIATORE
 
-     _risponde._
+_risponde._
 
 PRESTIGIATORE. Temo che stia passeggiando nel Paese delle Fate.
 
@@ -6975,7 +6975,7 @@ questa, e finora le ha portato soltanto dolore.
 
 PATRICIA. Esco a cercare mio fratello.
 
-     [_Esce nel [[Garden|giardino]] attraverso le porte aperte._
+[_Esce nel [[Garden|giardino]] attraverso le porte aperte._
 
 [[smith|SMITH]]. [_Dopo un [[Silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
 
@@ -6991,7 +6991,7 @@ DOTTORE. Signore, posso capire la sua amarezza, poiché ammetto che è stato
 
 accolto in modo incivile; ma parlare così proprio ora....
 
-     [PATRICIA _ricompare alle porte del [[Garden|giardino]], molto pallida._
+[PATRICIA _ricompare alle porte del [[Garden|giardino]], molto pallida._
 
 PATRICIA. Posso parlare col Dottore?
 
@@ -7003,9 +7003,9 @@ PATRICIA. Preferirei il Dottore.
 
 PATRICIA. Voglio soltanto il Dottore.
 
-     [_Esce di nuovo, seguita dal_ DR. GRIMTHORPE. _Gli altri si
+[_Esce di nuovo, seguita dal_ DR. GRIMTHORPE. _Gli altri si
 
-     guardano l'un l'altro._
+guardano l'un l'altro._
 
 [[smith|SMITH]]. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
 
@@ -7023,9 +7023,9 @@ PRESTIGIATORE. E lo vorrei anch'io.
 
 PRESTIGIATORE. Vorrei non essere mai nato.
 
-     [_Esce_ PRESTIGIATORE.
+[_Esce_ PRESTIGIATORE.
 
-     [_Un [[Silence|silenzio]]. Il_ DOTTORE _entra, molto [[Grave|grave]]._
+[_Un [[Silence|silenzio]]. Il_ DOTTORE _entra, molto [[Grave|grave]]._
 
 DOTTORE. Per ora va tutto bene. L'abbiamo riportato indietro.
 
@@ -7148,7 +7148,7 @@ Claus has insomnia. The [[Child|child]] who believes has a good [[Night|night]]'
 
 DOCTOR. You are a Pragmatist.
 
-     _Enter_ DUKE, _absent-mindedly._
+_Enter_ DUKE, _absent-mindedly._
 
 [[smith|SMITH]]. That is what the lawyers call vulgar abuse. But I do appeal to
 
@@ -7174,7 +7174,7 @@ DUKE. [_Wagging a playful finger at him._] Ah, prejudice, prejudice! You
 
 doctors, you know! [[Well]], I never had any myself.
 
-     [_Silence._
+[_Silence._
 
 DOCTOR. [_Breaking the [[Silence|silence]] in unusual exasperation._] Any what?
 
@@ -7182,7 +7182,7 @@ DUKE. [_Firmly._] Never had any Marconis myself. Wouldn't touch 'em.
 
 [_Silence._] [[Well]], I must speak to [[Hastings]].
 
-     [_Exit_ DUKE, _aimlessly._
+[_Exit_ DUKE, _aimlessly._
 
 DOCTOR. [_Exploding._] [[Well]], of all the.... [_Turns to_ [[smith|SMITH]].] You
 
@@ -7196,25 +7196,25 @@ DOCTOR. [_In a low, emphatic voice._] On my living [[Soul|soul]], I believe it
 
 must be the Duke.
 
-     CURTAIN
+CURTAIN
 
 ACT III
 
-     _Room partly darkened, a table with a lamp on it, and an empty
+_Room partly darkened, a table with a lamp on it, and an empty
 
-     chair. From room next door faint and occasional sounds of the
+chair. From room next door faint and occasional sounds of the
 
-     tossing or talking of the invalid._
+tossing or talking of the invalid._
 
-     _Enter_ DOCTOR GRIMTHORPE _with a rather careworn air, and a
+_Enter_ DOCTOR GRIMTHORPE _with a rather careworn air, and a
 
-     medicine bottle in his hand. He puts it on the table, and sits down
+medicine bottle in his hand. He puts it on the table, and sits down
 
-     in the chair as if keeping a vigil._
+in the chair as if keeping a vigil._
 
-     _Enter_ CONJURER, _carrying his bag, and cloaked for departure. As he
+_Enter_ CONJURER, _carrying his bag, and cloaked for departure. As he
 
-     crosses the room the_ DOCTOR _rises and calls after him._
+crosses the room the_ DOCTOR _rises and calls after him._
 
 DOCTOR. Forgive me, but may I detain you for one moment? I suppose you
 
@@ -7300,11 +7300,11 @@ CONJURER. [_Starts slightly._] Yes, his sister. Is she very anxious?
 
 DOCTOR. [_In a lower voice._] What would you suppose?
 
-     [CONJURER _throws himself into the chair, his cloak slipping back
+[CONJURER _throws himself into the chair, his cloak slipping back
 
-     from his evening dress. He ruminates for a short space and then
+from his evening dress. He ruminates for a short space and then
 
-     speaks._
+speaks._
 
 CONJURER. Doctor, there are about a thousand reasons why I should not
 
@@ -7316,7 +7316,7 @@ DOCTOR. [[Well]]? And why shouldn't you tell me?
 
 CONJURER. Because you wouldn't believe me if I did.
 
-     [_A [[Silence|silence]], the_ DOCTOR _looking at him curiously._
+[_A [[Silence|silence]], the_ DOCTOR _looking at him curiously._
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7351,7 +7351,7 @@ Natale soffre d'insonnia. Il [[Child|bambino]] che crede dorme una buona [[Night
 
 DOTTORE. Lei è un Pragmatista.
 
-     _Entra il_ DUCA, _distrattamente._
+_Entra il_ DUCA, _distrattamente._
 
 [[smith|SMITH]]. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
 
@@ -7377,7 +7377,7 @@ DUCA. [_Agitando verso di lui un dito scherzoso._] Ah, pregiudizio, pregiudizio!
 
 dottori, si sa! [[Well|Beh]], io non ne ho mai avuti.
 
-     [_Silenzio._
+[_Silenzio._
 
 DOTTORE. [_Rompendo il [[Silence|silenzio]] con insolita esasperazione._] Mai avuti che cosa?
 
@@ -7385,7 +7385,7 @@ DUCA. [_Con fermezza._] Mai avute azioni Marconi, io. Non le toccherei.
 
 [_Silenzio._] [[Well|Beh]], devo parlare con [[Hastings]].
 
-     [_Esce il_ DUCA, _senza meta._
+[_Esce il_ DUCA, _senza meta._
 
 DOTTORE. [_Esplodendo._] [[Well|Ma]], questa poi.... [_Si volge a_ [[smith|SMITH]].] Lei
 
@@ -7399,25 +7399,25 @@ DOTTORE. [_A voce bassa ed enfatica._] Sulla mia [[Soul|anima]] viva, credo che
 
 debba essere il Duca.
 
-     SIPARIO
+SIPARIO
 
 ATTO III
 
-     _Stanza in parte oscurata, un tavolo con sopra una lampada, e una
+_Stanza in parte oscurata, un tavolo con sopra una lampada, e una
 
-     sedia vuota. Dalla stanza accanto giungono suoni fiochi e saltuari
+sedia vuota. Dalla stanza accanto giungono suoni fiochi e saltuari
 
-     dell'agitarsi o del parlare del malato._
+dell'agitarsi o del parlare del malato._
 
-     _Entra il_ DOTTOR GRIMTHORPE _con un'aria piuttosto afflitta, e una
+_Entra il_ DOTTOR GRIMTHORPE _con un'aria piuttosto afflitta, e una
 
-     boccetta di medicina in mano. La posa sul tavolo, e si siede
+boccetta di medicina in mano. La posa sul tavolo, e si siede
 
-     sulla sedia come a vegliare._
+sulla sedia come a vegliare._
 
-     _Entra il_ PRESTIGIATORE, _con la sua borsa, e col mantello pronto per partire. Mentre
+_Entra il_ PRESTIGIATORE, _con la sua borsa, e col mantello pronto per partire. Mentre
 
-     attraversa la stanza il_ DOTTORE _si alza e lo richiama._
+attraversa la stanza il_ DOTTORE _si alza e lo richiama._
 
 DOTTORE. Mi perdoni, ma posso trattenerla un momento? Suppongo che lei
 
@@ -7503,11 +7503,11 @@ PRESTIGIATORE. [_Trasalendo lievemente._] Sì, sua sorella. È molto in ansia?
 
 DOTTORE. [_A voce più bassa._] Che cosa suppone lei?
 
-     [Il PRESTIGIATORE _si getta sulla sedia, il mantello scivolandogli
+[Il PRESTIGIATORE _si getta sulla sedia, il mantello scivolandogli
 
-     via dall'abito da sera. Rumina per un breve spazio e poi
+via dall'abito da sera. Rumina per un breve spazio e poi
 
-     parla._
+parla._
 
 PRESTIGIATORE. Dottore, ci sono all'incirca mille ragioni per cui non dovrei
 
@@ -7519,22 +7519,22 @@ DOTTORE. [[Well|Ebbene]]? E perché non dovrebbe dirmelo?
 
 PRESTIGIATORE. Perché non mi crederebbe se lo facessi.
 
-     [_Un [[Silence|silenzio]], il_ DOTTORE _che lo guarda incuriosito._
+[_Un [[Silence|silenzio]], il_ DOTTORE _che lo guarda incuriosito._
 
 
 
 <span class="atom-split" data-atom="part--part_12" data-title="Magic (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
 
 
-     [_Enter the_ DUKE _with papers in his hand. His usual gaiety of
+[_Enter the_ DUKE _with papers in his hand. His usual gaiety of
 
-     manner has a rather forced air, owing to the fact that by some
+manner has a rather forced air, owing to the fact that by some
 
-     vague sick-room associations he walks as if on tip-toe and begins
+vague sick-room associations he walks as if on tip-toe and begins
 
-     to speak in a sort of loud or shrill whisper. This he fortunately
+to speak in a sort of loud or shrill whisper. This he fortunately
 
-     forgets and falls into his more natural voice._
+forgets and falls into his more natural voice._
 
 DUKE. [_To_ CONJURER.] So very kind of you to have waited, Professor. I
 
@@ -7544,7 +7544,7 @@ much better than I could. Nothing like the medical mind for a scientific
 
 statement. [_Hazily._] Look at Ibsen.
 
-     [_Silence._
+[_Silence._
 
 DOCTOR. Of course [[The Professor|the Professor]] feels considerable reluctance in the
 
@@ -7580,7 +7580,7 @@ it in a broader way. Free, you know. [_With an expansive gesture._]
 
 Modern and all that! Wonderful man, Bernard [[Shaw]]!
 
-     [_Silence._
+[_Silence._
 
 DOCTOR. [_With a slight cough, resuming._] If you feel any delicacy the
 
@@ -7602,11 +7602,11 @@ may--er--procure. [_Gaily opening his cheque-book and talking slang to
 
 show there is no ill-feeling._] Come, let me call it a couple of thou.
 
-     [_The_ CONJURER _takes the cheque and looks at it in a [[Grave|grave]] and
+[_The_ CONJURER _takes the cheque and looks at it in a [[Grave|grave]] and
 
-     doubtful way. As he does so the_ RECTOR _comes slowly into the
+doubtful way. As he does so the_ RECTOR _comes slowly into the
 
-     room._
+room._
 
 CONJURER. You would really be willing to pay a sum like this to know
 
@@ -7652,13 +7652,13 @@ the cheque still in his hand._] You ask me how I really did the last
 
 trick. I will tell you how I did the last trick. I did it by [[Magic|magic]].
 
-     [_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
+[_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
 
-     [[smith|SMITH]] _starts and takes a step nearer the table. The_ CONJURER
+[[smith|SMITH]] _starts and takes a step nearer the table. The_ CONJURER
 
-     _pulls his cloak round his shoulders. This gesture, as of
+_pulls his cloak round his shoulders. This gesture, as of
 
-     departure, brings the_ DOCTOR _to his feet._
+departure, brings the_ DOCTOR _to his feet._
 
 DOCTOR. [_Astonished and angry._] Do you really mean that you take the
 
@@ -7680,11 +7680,11 @@ CONJURER. [_Contemptuously._] Yes, your Grace, one of those larger laws
 
 you were telling us about.
 
-     [_He buttons his cloak up at his throat and takes up his bag. As he
+[_He buttons his cloak up at his throat and takes up his bag. As he
 
-     does so the_ REV. [[smith|SMITH]] _steps between him and the door and stops
+does so the_ REV. [[smith|SMITH]] _steps between him and the door and stops
 
-     him for a moment._
+him for a moment._
 
 [[smith|SMITH]]. [_In a low voice._] One moment, sir.
 
@@ -7712,7 +7712,7 @@ CONJURER. Yes. And I have told you the whole [[Truth|truth]]. Go and find out if
 
 it helps you.
 
-     [_Turns again to go, but more irresolutely._
+[_Turns again to go, but more irresolutely._
 
 [[smith|SMITH]]. You know quite [[Well|well]] it will not help us.
 
@@ -7737,13 +7737,13 @@ CONJURER. I will take off my cloak when you take off your coat.
 
 [_Entra il_ DUCA _con delle carte in mano. La sua consueta giovialità di
 
-     modi ha un'aria piuttosto forzata, per il fatto che, per certe
+modi ha un'aria piuttosto forzata, per il fatto che, per certe
 
-     vaghe associazioni da camera di malato, cammina come in punta di piedi e comincia
+vaghe associazioni da camera di malato, cammina come in punta di piedi e comincia
 
-     a parlare in una sorta di sussurro alto e stridulo. Per fortuna se ne
+a parlare in una sorta di sussurro alto e stridulo. Per fortuna se ne
 
-     dimentica e ricade nella sua voce più naturale._
+dimentica e ricade nella sua voce più naturale._
 
 DUCA. [_Al_ PRESTIGIATORE.] Tanto gentile da parte sua aver aspettato, Professore.
 
@@ -7753,7 +7753,7 @@ assai meglio di quanto potrei io. Niente di meglio della mente medica per un'aff
 
 scientifica. [_Vagamente._] Guardi Ibsen.
 
-     [_Silenzio._
+[_Silenzio._
 
 DOTTORE. Naturalmente [[The Professor|il Professore]] prova una notevole riluttanza nella
 
@@ -7789,7 +7789,7 @@ in un modo più ampio. Liberamente, sa. [_Con un gesto espansivo._]
 
 Moderno e via dicendo! Uomo straordinario, Bernard [[Shaw]]!
 
-     [_Silenzio._
+[_Silenzio._
 
 DOTTORE. [_Con un lieve colpo di tosse, riprendendo._] Se prova qualche scrupolo, il
 
@@ -7811,11 +7811,11 @@ potrà... ehm... procurarsi. [_Aprendo allegramente il libretto degli assegni e 
 
 mostrare che non c'è rancore._] Su, diciamo un paio di sacchi.
 
-     [_Il_ PRESTIGIATORE _prende l'assegno e lo guarda in modo [[Grave|grave]] e
+[_Il_ PRESTIGIATORE _prende l'assegno e lo guarda in modo [[Grave|grave]] e
 
-     dubbioso. Mentre lo fa il_ RETTORE _entra lentamente nella
+dubbioso. Mentre lo fa il_ RETTORE _entra lentamente nella
 
-     stanza._
+stanza._
 
 PRESTIGIATORE. Sarebbe davvero disposto a pagare una somma simile per sapere
 
@@ -7861,13 +7861,13 @@ l'assegno ancora in mano._] Mi chiedete come ho fatto davvero l'ultimo
 
 trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la [[Magic|magia]].
 
-     [_Il_ DUCA _e il_ DOTTORE _lo fissano immobili; ma il_ REV.
+[_Il_ DUCA _e il_ DOTTORE _lo fissano immobili; ma il_ REV.
 
-     [[smith|SMITH]] _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
+[[smith|SMITH]] _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
 
-     _si stringe il mantello intorno alle spalle. Questo gesto, come di
+_si stringe il mantello intorno alle spalle. Questo gesto, come di
 
-     partenza, riporta il_ DOTTORE _in piedi._
+partenza, riporta il_ DOTTORE _in piedi._
 
 DOTTORE. [_Stupito e adirato._] Intende davvero dire che prende
 
@@ -7889,11 +7889,11 @@ PRESTIGIATORE. [_Con disprezzo._] Sì, Vostra Grazia, una di quelle leggi più v
 
 di cui ci parlava.
 
-     [_Si abbottona il mantello alla gola e prende la sua borsa. Mentre
+[_Si abbottona il mantello alla gola e prende la sua borsa. Mentre
 
-     lo fa il_ REV. [[smith|SMITH]] _si frappone tra lui e la porta e lo
+lo fa il_ REV. [[smith|SMITH]] _si frappone tra lui e la porta e lo
 
-     ferma per un momento._
+ferma per un momento._
 
 [[smith|SMITH]]. [_A voce bassa._] Un momento, signore.
 
@@ -7921,7 +7921,7 @@ PRESTIGIATORE. Sì. E io vi ho detto tutta la [[Truth|verità]]. Andate a scopri
 
 vi aiuta.
 
-     [_Si volge di nuovo per andarsene, ma più irresoluto._
+[_Si volge di nuovo per andarsene, ma più irresoluto._
 
 [[smith|SMITH]]. Lo sa [[Well|bene]] che non ci aiuterà.
 
@@ -7974,9 +7974,9 @@ believe in devils?
 
 CONJURER. Yes. I wish I could disbelieve.
 
-     [_Enter_ PATRICIA _pale and in the slight negligee of the amateur
+[_Enter_ PATRICIA _pale and in the slight negligee of the amateur
 
-     [[Nurse|nurse]]._
+[[Nurse|nurse]]._
 
 PATRICIA. May I speak to the Conjurer?
 
@@ -7988,9 +7988,9 @@ DOCTOR. Are there any developments?
 
 PATRICIA. I only want to speak to the Conjurer.
 
-     [_They all withdraw, either at the [[Garden|garden]] or the other doors._
+[_They all withdraw, either at the [[Garden|garden]] or the other doors._
 
-     PATRICIA _walks up to_ CONJURER.
+PATRICIA _walks up to_ CONJURER.
 
 PATRICIA. You must tell me how you did the trick. You will. I know you
 
@@ -8018,7 +8018,7 @@ CONJURER. I will tell you the very worst. I fell in [[Love|love]] with you when 
 
 first saw you.
 
-     [_Sits down and crosses his legs._
+[_Sits down and crosses his legs._
 
 PATRICIA. [_Drawing back._] You told me I looked like a [[Child|child]] and....
 
@@ -8177,9 +8177,9 @@ crede nei diavoli?
 
 PRESTIGIATORE. Sì. Io vorrei poter non credere.
 
-     [_Entra_ PATRICIA _pallida e nel leggero déshabillé dell'improvvisata
+[_Entra_ PATRICIA _pallida e nel leggero déshabillé dell'improvvisata
 
-     [[Nurse|infermiera]]._
+[[Nurse|infermiera]]._
 
 PATRICIA. Posso parlare col Prestigiatore?
 
@@ -8191,9 +8191,9 @@ DOTTORE. Ci sono sviluppi?
 
 PATRICIA. Voglio solo parlare col Prestigiatore.
 
-     [_Si ritirano tutti, o dalle porte del [[Garden|giardino]] o dalle altre._
+[_Si ritirano tutti, o dalle porte del [[Garden|giardino]] o dalle altre._
 
-     PATRICIA _si avvicina al_ PRESTIGIATORE.
+PATRICIA _si avvicina al_ PRESTIGIATORE.
 
 PATRICIA. Deve dirmi come ha fatto il trucco. Lo farà. So che lo
 
@@ -8221,7 +8221,7 @@ PRESTIGIATORE. Le dirò la cosa peggiore. Mi accesi d'[[Love|amore]] per lei qua
 
 vidi la prima volta.
 
-     [_Si siede e accavalla le gambe._
+[_Si siede e accavalla le gambe._
 
 PATRICIA. [_Ritraendosi._] Mi disse che sembravo una [[Child|bambina]] e....
 
@@ -8426,9 +8426,9 @@ dear. But he--he will never believe.
 
 CONJURER. There is no bigot like the atheist. I must think.
 
-     [_Walks towards the [[Garden|garden]] windows. The other men reappear to
+[_Walks towards the [[Garden|garden]] windows. The other men reappear to
 
-     arrest his movement._
+arrest his movement._
 
 DOCTOR. Where are you going?
 
@@ -8436,15 +8436,15 @@ CONJURER. I am going to ask the God whose enemies I have served if I am
 
 still worthy to save a [[Child|child]].
 
-     [_Exit into [[Garden|garden]]. He paces up and down exactly as_ MORRIS _has
+[_Exit into [[Garden|garden]]. He paces up and down exactly as_ MORRIS _has
 
-     done. As he does so_, PATRICIA _slowly goes out; and a long [[Silence|silence]]
+done. As he does so_, PATRICIA _slowly goes out; and a long [[Silence|silence]]
 
-     follows, during which the remaining men stir and stamp very
+follows, during which the remaining men stir and stamp very
 
-     restlessly. The darkness increases. It is long before anyone
+restlessly. The darkness increases. It is long before anyone
 
-     speaks._
+speaks._
 
 DOCTOR. [_Abruptly._] Remarkable man that Conjurer. Clever man. Curious
 
@@ -8456,7 +8456,7 @@ DUKE. What's what, eh? What's what?
 
 DOCTOR. I swear I heard a footstep.
 
-     _Enter_ [[Hastings|HASTINGS]] _with papers._
+_Enter_ [[Hastings|HASTINGS]] _with papers._
 
 DUKE. Why, [[Hastings]]--[[Hastings]]--we thought you were a [[Ghost|ghost]]. You must
 
@@ -8466,7 +8466,7 @@ be--er--looking white or something.
 
 mean the Vegetarians.
 
-     [_Drops one or two papers._
+[_Drops one or two papers._
 
 DUKE. Why, [[Hastings]], you _are_ looking white.
 
@@ -8482,11 +8482,11 @@ disturbed by any private feelings of mine. I shall not trouble your
 
 Grace with them. It will not occur again.
 
-     [_Exit_ [[Hastings|HASTINGS]].
+[_Exit_ [[Hastings|HASTINGS]].
 
 DUKE. What an extraordinary fellow. I [[Wonder|wonder]] if....
 
-     [_Suddenly stops speaking._
+[_Suddenly stops speaking._
 
 DOCTOR. [_After a long [[Silence|silence]], in a low voice to_ [[smith|SMITH]].] How do you
 
@@ -8496,7 +8496,7 @@ feel?
 
 don't know which it is.
 
-     [_Another long [[Silence|silence]]._
+[_Another long [[Silence|silence]]._
 
 [[smith|SMITH]]. [_Crying out suddenly in the dark._] In God's name, go!
 
@@ -8510,7 +8510,7 @@ DOCTOR. No. [_Pause._] But I think I will go. This room is simply
 
 horrible.
 
-     [_He marches towards the door._
+[_He marches towards the door._
 
 DUKE. [_Jumping up and bustling about, altering cards, papers, etc., on
 
@@ -8522,7 +8522,7 @@ crowded. A little crowded. And I don't seem to know all the people. We
 
 can't like everybody. These large at-homes....
 
-     [_Tumbles on to a chair._
+[_Tumbles on to a chair._
 
 CONJURER. [_Reappearing at the [[Garden|garden]] doors._] Go back to hell from
 
@@ -8542,7 +8542,7 @@ Can I take your explanation to him now?
 
 CONJURER. [_Grimly._] No thank you. I will take it myself.
 
-     [_Exit into the other room._
+[_Exit into the other room._
 
 DUKE. [_Uneasily._] We all felt devilish queer just now. Wonderful
 
@@ -8550,17 +8550,17 @@ things there are in the world. [_After a pause._] I suppose it's all
 
 electricity.
 
-     [_Silence as usual._
+[_Silence as usual._
 
 [[smith|SMITH]]. I think there has been more than electricity in all this.
 
-     _Enter_ PATRICIA, _still pale, but radiant._
+_Enter_ PATRICIA, _still pale, but radiant._
 
 PATRICIA. Oh, Morris is ever so much better! The Conjurer has told him
 
 such a good story of how the trick was done.
 
-     _Enter_ CONJURER.
+_Enter_ CONJURER.
 
 DUKE. Professor, we owe you a thousand thanks!
 
@@ -8639,9 +8639,9 @@ caro. Ma lui... lui non crederà mai.
 
 PRESTIGIATORE. Non c'è bigotto peggiore dell'ateo. Devo riflettere.
 
-     [_Cammina verso le finestre del [[Garden|giardino]]. Gli altri uomini ricompaiono per
+[_Cammina verso le finestre del [[Garden|giardino]]. Gli altri uomini ricompaiono per
 
-     arrestare il suo movimento._
+arrestare il suo movimento._
 
 DOTTORE. Dove va?
 
@@ -8649,15 +8649,15 @@ PRESTIGIATORE. Vado a chiedere al Dio i cui nemici ho servito se sono
 
 ancora degno di salvare un [[Child|fanciullo]].
 
-     [_Esce nel [[Garden|giardino]]. Cammina avanti e indietro esattamente come_ MORRIS _ha
+[_Esce nel [[Garden|giardino]]. Cammina avanti e indietro esattamente come_ MORRIS _ha
 
-     fatto. Mentre lo fa_, PATRICIA _esce lentamente; e segue un lungo [[Silence|silenzio]]
+fatto. Mentre lo fa_, PATRICIA _esce lentamente; e segue un lungo [[Silence|silenzio]]
 
-     durante il quale gli uomini rimasti si agitano e pestano i piedi con grande
+durante il quale gli uomini rimasti si agitano e pestano i piedi con grande
 
-     irrequietezza. L'oscurità aumenta. Passa molto tempo prima che qualcuno
+irrequietezza. L'oscurità aumenta. Passa molto tempo prima che qualcuno
 
-     parla._
+parla._
 
 DOTTORE. [_Bruscamente._] Uomo notevole, quel Prestigiatore. Uomo abile. Uomo
 
@@ -8669,7 +8669,7 @@ DUCA. Cos'è cosa, eh? Cos'è cosa?
 
 DOTTORE. Giuro che ho sentito un passo.
 
-     _Entra_ [[Hastings|HASTINGS]] _con delle carte._
+_Entra_ [[Hastings|HASTINGS]] _con delle carte._
 
 DUCA. Ma, [[Hastings]]... [[Hastings]]... la credevamo un [[Ghost|fantasma]]. Deve
 
@@ -8679,7 +8679,7 @@ essere... ehm... pallido o qualcosa del genere.
 
 i Vegetariani.
 
-     [_Lascia cadere una o due carte._
+[_Lascia cadere una o due carte._
 
 DUCA. Ma davvero, [[Hastings]], lei _è_ pallido.
 
@@ -8695,11 +8695,11 @@ disturbato da qualche mio sentimento privato. Non affliggerò Vostra
 
 Grazia con essi. Non accadrà più.
 
-     [_Esce_ [[Hastings|HASTINGS]].
+[_Esce_ [[Hastings|HASTINGS]].
 
 DUCA. Che tipo straordinario. Mi [[Wonder|domando]] se....
 
-     [_Smette di colpo di parlare._
+[_Smette di colpo di parlare._
 
 DOTTORE. [_Dopo un lungo [[Silence|silenzio]], a voce bassa a_ [[smith|SMITH]].] Come si
 
@@ -8709,7 +8709,7 @@ sente?
 
 so quale delle due.
 
-     [_Un altro lungo [[Silence|silenzio]]._
+[_Un altro lungo [[Silence|silenzio]]._
 
 [[smith|SMITH]]. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
 
@@ -8723,7 +8723,7 @@ DOTTORE. No. [_Pausa._] Ma credo che me ne andrò. Questa stanza è semplicement
 
 orribile.
 
-     [_Marcia verso la porta._
+[_Marcia verso la porta._
 
 DUCA. [_Balzando in piedi e affaccendandosi, spostando carte, fogli, ecc., sui
 
@@ -8735,7 +8735,7 @@ affollata. Un po' affollata. E mi pare di non conoscere tutti i presenti. Non
 
 possiamo piacere a tutti. Questi grandi ricevimenti....
 
-     [_Crolla su una sedia._
+[_Crolla su una sedia._
 
 PRESTIGIATORE. [_Ricomparendo alle porte del [[Garden|giardino]]._] Tornate all'inferno da cui
 
@@ -8755,7 +8755,7 @@ Posso portargli ora la sua spiegazione?
 
 PRESTIGIATORE. [_Cupamente._] No, grazie. La porterò io stesso.
 
-     [_Esce nell'altra stanza._
+[_Esce nell'altra stanza._
 
 DUCA. [_A disagio._] Ci siamo sentiti tutti diabolicamente strani poco fa. Cose
 
@@ -8763,17 +8763,17 @@ straordinarie ci sono al mondo. [_Dopo una pausa._] Suppongo che sia tutta
 
 elettricità.
 
-     [_Silenzio come al solito._
+[_Silenzio come al solito._
 
 [[smith|SMITH]]. Credo che ci sia stato più che elettricità in tutto questo.
 
-     _Entra_ PATRICIA, _ancora pallida, ma raggiante._
+_Entra_ PATRICIA, _ancora pallida, ma raggiante._
 
 PATRICIA. Oh, Morris sta tanto meglio! Il Prestigiatore gli ha raccontato
 
 una così bella storia di come fu fatto il trucco.
 
-     _Entra il_ PRESTIGIATORE.
+_Entra il_ PRESTIGIATORE.
 
 DUCA. Professore, le dobbiamo mille grazie!
 
@@ -8822,7 +8822,7 @@ CONJURER. Half an hour after I have left this [[house]] you will be all
 
 saying how it was done.
 
-     [CONJURER _buttons up his cloak and advances to_ PATRICIA.
+[CONJURER _buttons up his cloak and advances to_ PATRICIA.
 
 CONJURER. Good-bye.
 
@@ -8844,9 +8844,9 @@ CONJURER. I don't understand you.
 
 PATRICIA. It has come true.
 
-     CURTAIN
+CURTAIN
 
-       *       *       *       *       *
+*       *       *       *       *
 
 _A Selection from the
 
@@ -9124,7 +9124,7 @@ End of the Project Gutenberg EBook of [[Magic]], by G.K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/1/9/0/9/19094/
+http://www.gutenberg.org/1/9/0/9/19094/
 
 Produced by Suzanne Lybarger, Brian Janes, Melissa Er-Raqabi
 
@@ -9388,27 +9388,27 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
@@ -9571,27 +9571,27 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
@@ -9600,29 +9600,29 @@ che
 <span class="atom-split" data-atom="part--part_18" data-title="Magic (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
 
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -9791,27 +9791,27 @@ The Project Gutenberg Literary Archive Foundation is a non profit
 
 per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -10010,11 +10010,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -10094,7 +10094,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -10137,11 +10137,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -10221,7 +10221,7 @@ manteniamo gli eBook conformi a una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 

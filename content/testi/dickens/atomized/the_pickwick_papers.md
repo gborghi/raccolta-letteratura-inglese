@@ -397,7 +397,7 @@ philanthropy was his insurance office. (Vehement cheering.) He had felt
 some [[Pride|pride]]--he acknowledged it freely, and let his enemies make the most
 of it--he had felt some [[Pride|pride]] when he presented his Tittlebatian Theory
 to the world; it might be celebrated or it might not. (A cry of “It is,”
- and great cheering.) He would take the assertion of that honourable
+and great cheering.) He would take the assertion of that honourable
 Pickwickian whose voice he had just heard--it was celebrated; but if the
 fame of that treatise were to extend to the farthest confines of the
 known world, the [[Pride|pride]] with which he should reflect on the authorship of
@@ -1963,7 +1963,7 @@ any [[Doubt|doubt]] of it, for an instant, one glance at the woman’s pale face
 wasted form would have sufficiently explained the real state of the
 case. “You had better stand aside,” said I to the poor creature. “You
 can do him no good. Perhaps he will be calmer, if he does not see you.”
- She retired out of the man’s sight. He opened his eyes after a few
+She retired out of the man’s sight. He opened his eyes after a few
 seconds, and looked anxiously round.
 
 ‘“Is she gone?” he eagerly inquired.
@@ -7848,7 +7848,7 @@ down, sir.” So my father sits down, and he and the gen’l’m’n looks wery
 hard at each other. “You don’t remember me?” said the gen’l’m’n.--“Can’t
 say I do,” says my father.--“Oh, I know you,” says the gen’l’m’n:
 “know’d you when you was a boy,” says he.--“[[Well]], I don’t remember you,”
- says my father.--“That’s wery odd,” says the gen’l’m’n.”--“Wery,” says
+says my father.--“That’s wery odd,” says the gen’l’m’n.”--“Wery,” says
 my father.--“You must have a bad mem’ry, Mr. Weller,” says the
 gen’l’m’n.--“[[Well]], it is a wery bad ‘un,” says my father.--“I thought
 so,” says the gen’l’m’n. So then they pours him out a glass of wine, and
@@ -8530,7 +8530,7 @@ take his eyes off it.
 ‘“[[Well]],” said Tom, slowly undressing himself, and staring at the old
 chair all the while, which stood with a mysterious aspect by the
 bedside, “I never saw such a rum concern as that in my days. Very odd,”
- said Tom, who had got rather sage with the hot punch--“very odd.” Tom
+said Tom, who had got rather sage with the hot punch--“very odd.” Tom
 shook his head with an air of profound wisdom, and looked at the chair
 again. He couldn’t make anything of it though, so he got into bed,
 covered himself up warm, and fell asleep.
@@ -8832,7 +8832,7 @@ into consideration. “Lor, Sir!”
 
 ‘“I scorn to flatter, my dear ma’am,” said Tom Smart. “You deserve a
 very admirable husband, and whoever he is, he’ll be a very lucky man.”
- As Tom said this, his eye involuntarily wandered from the widow’s face
+As Tom said this, his eye involuntarily wandered from the widow’s face
 to the comfort around him.
 
 ‘The widow looked more puzzled than ever, and made an effort to rise.
@@ -8840,7 +8840,7 @@ Tom gently pressed her hand, as if to detain her, and she kept her seat.
 Widows, gentlemen, are not usually timorous, as my uncle used to say.
 
 ‘“I am sure I am very much obliged to you, Sir, for your good opinion,”
- said the buxom landlady, half laughing; “and if ever I marry again--”
+said the buxom landlady, half laughing; “and if ever I marry again--”
 
 ’”_If_,” said Tom Smart, looking very shrewdly out of the right-hand
 corner of his left eye. “_If_--”
@@ -8876,7 +8876,7 @@ countenance.
 
 ‘“If it is, that he wants money,” said the widow, “I know that already,
 and you needn’t trouble yourself.” ‘“Pooh, nonsense, that’s nothing,”
- said Tom Smart, “I want money. ‘Tain’t that.”
+said Tom Smart, “I want money. ‘Tain’t that.”
 
 ‘“Oh, dear, what can it be?” exclaimed the poor widow.
 
@@ -11816,9 +11816,9 @@ cats you keep, Mr. Brooks,” says I, when I’d got intimate with him.
 cats,” says I. “Other people is,” says he, a-winkin’ at me; “they ain’t
 in season till the [[Winter|winter]] though,” says he. “Not in season!” says I.
 “No,” says he, “fruits is in, cats is out.” “Why, what do you mean?”
- says I. “Mean!” says he. “That I’ll never be a party to the combination
+says I. “Mean!” says he. “That I’ll never be a party to the combination
 o’ the butchers, to keep up the price o’ meat,” says he. “Mr. Weller,”
- says he, a-squeezing my hand wery hard, and vispering in my ear--“don’t
+says he, a-squeezing my hand wery hard, and vispering in my ear--“don’t
 mention this here agin--but it’s the seasonin’ as does it. They’re all
 made o’ them noble [[Animals|animals]],” says he, a-pointin’ to a wery nice little
 tabby kitten, “and I [[Seasons|seasons]] ‘em for beefsteak, weal or kidney, ‘cording
@@ -12213,10 +12213,10 @@ in his rum way, so that I knew something was coming. “You don’t know
 there’s a declaration filed, which increases the costs materially, I
 suppose,” said Fogg. “You don’t say that, sir,” said Ramsey, starting
 back; “the [[Time|time]] was only out last [[Night|night]], Sir.” “I do say it, though,”
- said Fogg, “my clerk’s just gone to file it. Hasn’t Mr. Jackson gone to
+said Fogg, “my clerk’s just gone to file it. Hasn’t Mr. Jackson gone to
 file that declaration in Bullman and Ramsey, Mr. Wicks?” Of course I
 said yes, and then Fogg coughed again, and looked at Ramsey. “My God!”
- said Ramsey; “and here have I nearly driven myself mad, scraping this
+said Ramsey; “and here have I nearly driven myself mad, scraping this
 money together, and all to no purpose.” “None at all,” said Fogg coolly;
 “so you had better go back and scrape some more together, and bring it
 here in [[Time|time]].” “I can’t get it, by God!” said Ramsey, striking the desk
@@ -12932,7 +12932,7 @@ and they sank beneath the unnatural devotion of their youthful energies
 to their dry old books? Coming down to a later [[Time|time]], and a very
 different day, what do _you_ know of the gradual sinking beneath
 consumption, or the quick wasting of fever--the grand results of “life”
- and dissipation--which men have undergone in these same rooms? How many
+and dissipation--which men have undergone in these same rooms? How many
 vain pleaders for [[Mercy|mercy]], do you think, have turned away heart-sick from
 the lawyer’s office, to find a resting-place in the Thames, or a refuge
 in the jail? They are no ordinary houses, those. There is not a panel in
@@ -12997,10 +12997,10 @@ bedchamber, and this my sitting-room.” He made the change, and slept
 very [[Well|well]] at [[Night|night]], but suddenly found that, somehow, he couldn’t read
 in the evening: he got nervous and uncomfortable, and used to be always
 snuffing his candles and staring about him. “I can’t make this out,”
- said he, when he came [[Home|home]] from the play one [[Night|night]], and was drinking a
+said he, when he came [[Home|home]] from the play one [[Night|night]], and was drinking a
 glass of cold grog, with his back to the wall, in order that he mightn’t
 be able to fancy there was any one behind him--“I can’t make it out,”
- said he; and just then his eyes rested on the little closet that had
+said he; and just then his eyes rested on the little closet that had
 been always locked up, and a shudder ran through his whole frame from
 top to toe. “I have felt this strange feeling before,” said he, “I
 cannot help thinking there’s something wrong about that closet.” He made
@@ -13040,7 +13040,7 @@ possible, and was sitting down before the [[Fire|fire]] at [[Night|night]], drin
 first glass of two gallons of whisky he had ordered on credit, wondering
 whether it would ever be paid for, and if so, in how many years’ [[Time|time]],
 when his eyes encountered the glass doors of the wooden press. “Ah,”
- says he, “if I hadn’t been obliged to take that ugly article at the old
+says he, “if I hadn’t been obliged to take that ugly article at the old
 broker’s valuation, I might have got something comfortable for the
 money. I’ll tell you what it is, old fellow,” he said, speaking aloud to
 the press, having nothing else to speak to, “if it wouldn’t cost more to
@@ -19460,7 +19460,7 @@ and dinnin’ in his ears, till at last he couldn’t stand it no longer.
 “I’ll tell you what it is, my dear,” he says one day; “if you persewere
 in this here sort of amusement,” he says, “I’m blessed if I don’t go
 away to ‘Merriker; and that’s all about it.” “You’re a idle willin,”
- says she, “and I wish the ‘Merrikins joy of their bargain.” Arter which
+says she, “and I wish the ‘Merrikins joy of their bargain.” Arter which
 she keeps on abusin’ of him for half an hour, and then runs into the
 little parlour behind the shop, sets to a-screamin’, says he’ll be the
 [[Death|death]] on her, and falls in a fit, which lasts for three good hours--one
@@ -19487,7 +19487,7 @@ for sassages, is trousers’ buttons, ma’am.” “They’re my husband’s
 buttons!” says the widder beginnin’ to faint, “What!” screams the little
 old gen’l’m’n, turnin’ wery pale. “I see it all,” says the widder; “in a
 fit of temporary insanity he rashly converted hisself into sassages!”
- And so he had, Sir,’ said Mr. Weller, looking steadily into Mr.
+And so he had, Sir,’ said Mr. Weller, looking steadily into Mr.
 [[Pickwick]]’s horror-stricken countenance, ‘or else he’d been draw’d into
 the ingin; but however that might ha’ been, the little, old gen’l’m’n,
 who had been remarkably partial to sassages all his life, rushed out o’
@@ -21636,7 +21636,7 @@ gentlemen I look for protection, for assistance, for comfort, and for
 consolation; in single gentlemen I shall perpetually see something to
 remind me of what Mr. Bardell was when he first won my young and untried
 affections; to a single gentleman, then, shall my lodgings be let.”
- Actuated by this beautiful and touching impulse (among the best impulses
+Actuated by this beautiful and touching impulse (among the best impulses
 of our imperfect [[Nature|nature]], gentlemen), the lonely and desolate widow dried
 her [[Tears|tears]], furnished her first floor, caught her [[Innocent|innocent]] boy to her
 maternal bosom, and put the bill up in her parlour [[Window|window]]. Did it remain
@@ -22681,7 +22681,7 @@ size, was the [[Magic|magic]] name of _Pickwick_!
 
 ‘Yes, but that ain’t all,’ said Sam, again directing his master’s
 attention to the coach door; ‘not content vith writin’ up “Pick-wick,”
- they puts “Moses” afore it, vich I call addin’ insult to injury, as the
+they puts “Moses” afore it, vich I call addin’ insult to injury, as the
 parrot said ven they not only took him from his native land, but made
 him talk the English langwidge arterwards.’
 
@@ -26402,7 +26402,7 @@ afore I die; and if I ain’t struck with apoplexy, I’ll be back in five
 minits by the [[Clock|clock]].” “And wot ‘ud become o’ me if you _wos _struck with
 apoplexy?” said the turnkey. “Wy,” says the little creetur, “whoever
 found me, ‘ud bring me [[Home|home]], for I’ve got my card in my pocket, Bill,”
- he says, “No. 20, Coffee-room Flight”: and that wos true, sure enough,
+he says, “No. 20, Coffee-room Flight”: and that wos true, sure enough,
 for wen he wanted to make the acquaintance of any new-comer, he used to
 pull out a little limp card vith them words on it and nothin’ else; in
 consideration of vich, he vos alvays called Number Tventy. The turnkey
@@ -28188,7 +28188,7 @@ and not the trousers to match. “Wot’s the matter?” says the doctor.
 “Wery ill,” says the patient. “Wot have you been a-eatin’ on?” says the
 doctor. “Roast weal,” says the patient. “Wot’s the last thing you
 dewoured?” says the doctor. “Crumpets,” says the patient. “That’s it!”
- says the doctor. “I’ll send you a box of pills directly, and don’t you
+says the doctor. “I’ll send you a box of pills directly, and don’t you
 never take no more of ‘em,” he says. “No more o’ wot?” says the patient-
 -“pills?” “No; crumpets,” says the doctor. “Wy?” says the patient,
 starting up in bed; “I’ve eat four crumpets, ev’ry [[Night|night]] for fifteen
@@ -28206,7 +28206,7 @@ at once?” says the patient. “I don’t know,” says the doctor. “Do you
 think half-a-[[Crown|crown]]’s wurth ‘ud do it?” says the patient. “I think it
 might,” says the doctor. “Three shillins’ wurth ‘ud be sure to do it, I
 s’pose?” says the patient. “Certainly,” says the doctor. “Wery good,”
- says the patient; “good-[[Night|night]].” Next mornin’ he gets up, has a [[Fire|fire]] lit,
+says the patient; “good-[[Night|night]].” Next mornin’ he gets up, has a [[Fire|fire]] lit,
 orders in three shillins’ wurth o’ crumpets, toasts ‘em all, eats ‘em
 all, and blows his brains out.’
 
@@ -31519,7 +31519,7 @@ eyes earnestly fixed upon him too. He had never seen such a sea of white
 faces, red bodies, and earnest eyes, in all his born days.
 
 ‘“This is the strangest sort of thing I ever had anything to do with,”
- thought my uncle; “allow me to return you your hat, sir.”
+thought my uncle; “allow me to return you your hat, sir.”
 
 ‘The ill-looking gentleman received his three-cornered hat in [[Silence|silence]],
 looked at the hole in the middle with an inquiring air, and finally
@@ -31587,7 +31587,7 @@ man was inspecting the hole in the [[Crown|crown]] of his three-cornered hat. As
 the young lady brushed past, she dropped one of her gloves into my
 uncle’s hand, and softly whispered, with her lips so close to his face
 that he felt her warm breath on his nose, the single word “Help!”
- Gentlemen, my uncle leaped out of the coach at once, with such violence
+Gentlemen, my uncle leaped out of the coach at once, with such violence
 that it rocked on the springs again.
 
 ‘“Oh! you’ve thought better of it, have you?” said the guard, when he
@@ -34609,7 +34609,7 @@ you know.’
 gone to bed with a headache after she had read Arabella’s letter to me--
 sat herself down by my side the other evening, and began to talk over
 this [[Marriage|marriage]] affair. “[[Well]], pa,” she says, “what do you think of it?”
- “Why, my dear,” I said, “I suppose it’s all very [[Well|well]]; I [[Hope|hope]] it’s for
+“Why, my dear,” I said, “I suppose it’s all very [[Well|well]]; I [[Hope|hope]] it’s for
 the best.” I answered in this way because I was sitting before the [[Fire|fire]]
 at the [[Time|time]], drinking my grog rather thoughtfully, and I knew my
 throwing in an undecided word now and then, would induce her to continue
@@ -35385,8 +35385,8 @@ ill effects on the constitution of his noble friend.
 ‘I don’t think he ever quite recovered them,’ replied Pell; ‘in fact I’m
 sure he never did. “Pell,” he used to say to me many a [[Time|time]], “how the
 blazes you can stand the head-work you do, is a mystery to me.”--“[[Well]],”
- I used to answer, “I hardly know how I do it, upon my life.”--“Pell,”
- he’d add, sighing, and looking at me with a little envy--friendly envy,
+I used to answer, “I hardly know how I do it, upon my life.”--“Pell,”
+he’d add, sighing, and looking at me with a little envy--friendly envy,
 you know, gentlemen, mere friendly envy; I never minded it--“Pell,
 you’re a [[Wonder|wonder]]; a [[Wonder|wonder]].” Ah! you’d have liked him very much if you
 had known him, gentlemen. Bring me three-penn’orth of rum, my dear.’
@@ -36710,7 +36710,7 @@ nothing but [[Death|death]] will terminate.
 
 
 
-<span class="atom-split" data-atom="chapter_01_an_important_conference_takes" data-title="The Pickwick Papers — Chapter 56: AN IMPORTANT CONFERENCE TAKES PLACE" data-chapter="Chapter 01 AN IMPORTANT CONFERENCE TAKES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_an_important_conference_takes" data-title="The Pickwick Papers — Chapter 56: AN IMPORTANT CONFERENCE TAKES PLACE" data-chapter="AN IMPORTANT CONFERENCE TAKES" data-kind="chapter"></span>
 
 
 CHAPTER LVI.   AN IMPORTANT CONFERENCE TAKES PLACE
@@ -36839,7 +36839,7 @@ THE POSTHUMOUS PAPERS OF THE [[Pickwick|PICKWICK]] CLUB
 
 
 
-<span class="atom-split" data-atom="chapter_13_in_which_is_given_a_faithful_p" data-title="The Pickwick Papers — Chapter 15: IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO" data-chapter="Chapter 13 IN WHICH IS GIVEN A FAITHFUL P" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_in_which_is_given_a_faithful_p" data-title="The Pickwick Papers — Chapter 15: IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO" data-chapter="IN WHICH IS GIVEN A FAITHFUL P" data-kind="chapter"></span>
 
 
 CHAPTER XV. IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO
@@ -36850,7 +36850,7 @@ RECOGNITION OF AN OLD ACQUAINTANCE, AND THE COMMENCEMENT OF ANOTHER
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_01" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 1)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_01" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 1)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 CHAPTER I. THE PICKWICKIANS
@@ -36962,7 +36962,7 @@ fitted drabs.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_02" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 2)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_02" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 2)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 Mr. [[Pickwick]]’s oration upon this occasion, together with the [[debate]]
@@ -36986,7 +36986,7 @@ philanthropy was his insurance office. (Vehement cheering.) He had felt
 some [[Pride|pride]]--he acknowledged it freely, and let his enemies make the most
 of it--he had felt some [[Pride|pride]] when he presented his Tittlebatian Theory
 to the world; it might be celebrated or it might not. (A cry of “It is,”
- and great cheering.) He would take the assertion of that honourable
+and great cheering.) He would take the assertion of that honourable
 Pickwickian whose voice he had just heard--it was celebrated; but if the
 fame of that treatise were to extend to the farthest confines of the
 known world, the [[Pride|pride]] with which he should reflect on the authorship of
@@ -37081,7 +37081,7 @@ Martin’s-le-Grand.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_03" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 3)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_03" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 3)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 ‘Cab!’ said Mr. [[Pickwick]].
@@ -37231,7 +37231,7 @@ whither he was closely followed by Mr. [[Pickwick]] and his disciples.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_04" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 4)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_04" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 4)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 ‘Here, waiter!’ shouted the stranger, ringing the bell with tremendous
@@ -37358,7 +37358,7 @@ dog--valuable dog that--very.’
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_05" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 5)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_05" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 5)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 ‘Singular circumstance that,’ said Mr. [[Pickwick]]. ‘Will you allow me to
@@ -37503,7 +37503,7 @@ readiness to overlook the matter, and forget what had occurred!
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_06" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 6)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_06" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 6)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 ‘The consumption of tobacco in these towns,’ continues Mr. [[Pickwick]],
@@ -37645,7 +37645,7 @@ indefatigable visitor.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_07" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 7)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_07" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 7)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 Mr. Tupman did as he was requested; and the additional stimulus of the
@@ -37778,7 +37778,7 @@ of the trade party.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_08" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 8)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_08" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 8)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 One of the most popular personages, in his own circle, present, was a
@@ -37905,7 +37905,7 @@ forgotten whom it belongs to.’
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_09" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 9)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_09" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 9)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 Mr. Winkle,’ he called out, ‘next room but two, on the right hand.’
@@ -38039,7 +38039,7 @@ tone.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_10" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 10)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_10" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 10)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 ‘Very good,’ replied Mr. Winkle, thinking in his heart it was very bad.
@@ -38189,7 +38189,7 @@ the two friends followed him at a little distance, as he walked away.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_11" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 11)" data-chapter="Chapter 02 THE PICKWICKIANS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_pickwickians--part_11" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 11)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
 The evening grew more dull every moment, and a [[Melancholy|melancholy]] [[Wind|wind]] sounded
@@ -38384,7 +38384,7 @@ returned to their inn.
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_01" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 1)" data-chapter="Chapter 03 A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_01" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 1)" data-chapter="A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
 
 
 CHAPTER III. A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE
@@ -38515,7 +38515,7 @@ anything it was spent in the old way.
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_02" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 2)" data-chapter="Chapter 03 A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_02" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 2)" data-chapter="A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
 
 
 ‘About this [[Time|time]], and when he had been existing for upwards of a year no
@@ -38616,13 +38616,13 @@ any [[Doubt|doubt]] of it, for an instant, one glance at the woman’s pale face
 wasted form would have sufficiently explained the real state of the
 case. “You had better stand aside,” said I to the poor creature. “You
 can do him no good. Perhaps he will be calmer, if he does not see you.”
- She retired out of the man’s sight. He opened his eyes after a few
+She retired out of the man’s sight. He opened his eyes after a few
 seconds, and looked anxiously round.
 
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_03" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 3)" data-chapter="Chapter 03 A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_03" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 3)" data-chapter="A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
 
 
 ‘“Is she gone?” he eagerly inquired.
@@ -38724,7 +38724,7 @@ rattling noise in the throat--a glare of the eye--a short stifled groan-
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_04" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 4)" data-chapter="Chapter 03 A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_a_new_acquaintance_the_strolle--part_04" data-title="The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE (part 4)" data-chapter="A NEW ACQUAINTANCE THE STROLLE" data-kind="excerpt"></span>
 
 
 It would afford us the highest gratification to be enabled to record Mr.
@@ -38902,7 +38902,7 @@ concluded with the conviviality with which it had begun.
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_01" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 1)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_01" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 1)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 CHAPTER IV. A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO
@@ -39008,7 +39008,7 @@ delight were unbounded.
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_02" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 2)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_02" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 2)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 ‘Can anything be finer or more delightful?’ he inquired of Mr. Winkle.
@@ -39132,7 +39132,7 @@ else.
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_03" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 3)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_03" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 3)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 There was a fine gentle [[Wind|wind]], and Mr. [[Pickwick]]’s hat rolled sportively
@@ -39241,7 +39241,7 @@ please; nothing else wakes him--thank you. Undo the hamper, Joe.’
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_04" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 4)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_04" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 4)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 The fat boy, who had been effectually roused by the compression of a
@@ -39398,7 +39398,7 @@ deep sigh, and shook her head despondingly).
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_05" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 5)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_05" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 5)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 ‘I’m sure aunt’s talking about us,’ whispered Miss Emily Wardle to her
@@ -39534,7 +39534,7 @@ be happiness and peace?’
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_06" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 6)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_06" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 6)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 ‘God bless me, no!’ replied Mr. [[Pickwick]], edging a little from the
@@ -39677,7 +39677,7 @@ first-rate man-of-war.
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_07" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 7)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_07" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 7)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 ‘All right?’ inquired Mr. [[Pickwick]], with an inward presentiment that it
@@ -39800,7 +39800,7 @@ abandoning the chaise to its fate.
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_08" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 8)" data-chapter="Chapter 04 A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_a_field_day_and_bivouac_more_n--part_08" data-title="The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 8)" data-chapter="A FIELD DAY AND BIVOUAC MORE N" data-kind="excerpt"></span>
 
 
 An hour’s walk brought the travellers to a little [[Road|road]]-side public-
@@ -39955,7 +39955,7 @@ forward to announce them, ‘welcome, gentlemen, to Manor Farm.’
 
 
 
-<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_01" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 1)" data-chapter="Chapter 05 AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_01" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 1)" data-chapter="AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
 
 
 CHAPTER VI. AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE
@@ -40098,7 +40098,7 @@ in a proportionate degree.
 
 
 
-<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_02" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 2)" data-chapter="Chapter 05 AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_02" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 2)" data-chapter="AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
 
 
 ‘There!’ said the criminal Miller triumphantly, as he took up the odd
@@ -40220,7 +40220,7 @@ Snodgrass.
 
 
 
-<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_03" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 3)" data-chapter="Chapter 05 AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_03" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 3)" data-chapter="AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
 
 
 ‘Why, really,’ replied the clergyman, ‘it’s a very slight affair; and
@@ -40352,7 +40352,7 @@ look, if not cheerful and happy, at least tranquil and contented.
 
 
 
-<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_04" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 4)" data-chapter="Chapter 05 AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_04" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 4)" data-chapter="AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
 
 
 ‘Five or six years passed away; the boy had become a robust and [[Well|well]]-
@@ -40456,7 +40456,7 @@ remains. She lies in our little churchyard. There is no stone at her
 
 
 
-<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_05" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 5)" data-chapter="Chapter 05 AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_05" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 5)" data-chapter="AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
 
 
 ‘It had been arranged previously to the convict’s departure, that he
@@ -40555,7 +40555,7 @@ clenched, and his teeth were set, in a fierce and deadly passion.
 
 
 
-<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_06" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 6)" data-chapter="Chapter 05 AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_an_old_fashioned_card_party_th--part_06" data-title="The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 6)" data-chapter="AN OLD FASHIONED CARD PARTY TH" data-kind="excerpt"></span>
 
 
 ‘And such was the return to which he had looked through the weary
@@ -40622,7 +40622,7 @@ convict.’
 
 
 
-<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_01" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 1)" data-chapter="Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_01" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 1)" data-chapter="HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
 
 
 CHAPTER VII. HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND
@@ -40767,7 +40767,7 @@ wings--a faint click.
 
 
 
-<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_02" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 2)" data-chapter="Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_02" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 2)" data-chapter="HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
 
 
 ‘Hollo!’ said the old gentleman.
@@ -40910,7 +40910,7 @@ care of the ladies?’
 
 
 
-<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_03" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 3)" data-chapter="Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_03" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 3)" data-chapter="HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
 
 
 ‘Quite impossible,’ said Mr. Snodgrass.
@@ -41025,7 +41025,7 @@ then shook hands with him again, if possible, more warmly than before.
 
 
 
-<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_04" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 4)" data-chapter="Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_04" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 4)" data-chapter="HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
 
 
 ‘[[Well]]; and how came you here?’ said Mr. [[Pickwick]], with a smile in which
@@ -41145,7 +41145,7 @@ members of the Dingley Dell club approached Mr. [[Pickwick]], and said--
 
 
 
-<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_05" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 5)" data-chapter="Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_how_mr_winkle_instead_of_shoot--part_05" data-title="The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 5)" data-chapter="HOW MR WINKLE INSTEAD OF SHOOT" data-kind="excerpt"></span>
 
 
 ‘We are about to partake of a plain dinner at the Blue [[Lion]], Sir; we
@@ -41287,7 +41287,7 @@ go [[Home|home]] till morning, Till daylight doth appear.’
 
 
 
-<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_01" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 1)" data-chapter="Chapter 07 STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_01" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 1)" data-chapter="STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
 
 
 CHAPTER VIII. STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF
@@ -41415,7 +41415,7 @@ been going forward. Under this impression, he said with great firmness--
 
 
 
-<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_02" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 2)" data-chapter="Chapter 07 STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_02" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 2)" data-chapter="STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
 
 
 ‘What do you want here, Sir?’
@@ -41565,7 +41565,7 @@ thoroughly coincided.
 
 
 
-<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_03" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 3)" data-chapter="Chapter 07 STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_03" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 3)" data-chapter="STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
 
 
 It was the old lady’s habit on the fine [[Summer|summer]] mornings to repair to the
@@ -41704,7 +41704,7 @@ finger on his lips mysteriously, walked in, and closed the door.
 
 
 
-<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_04" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 4)" data-chapter="Chapter 07 STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_04" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 4)" data-chapter="STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
 
 
 ‘Miss Wardle,’ said Mr. Jingle, with affected earnestness, ‘forgive
@@ -41883,7 +41883,7 @@ commenced the dialogue.
 
 
 
-<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_05" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 5)" data-chapter="Chapter 07 STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_05" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 5)" data-chapter="STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt"></span>
 
 
 ‘How did I do it?’ he inquired.
@@ -41962,7 +41962,7 @@ chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_08_a_discovery_and_a_chase--part_01" data-title="The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 1)" data-chapter="Chapter 08 A DISCOVERY AND A CHASE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_a_discovery_and_a_chase--part_01" data-title="The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 1)" data-chapter="A DISCOVERY AND A CHASE" data-kind="excerpt"></span>
 
 
 CHAPTER IX. A DISCOVERY AND A CHASE
@@ -42115,7 +42115,7 @@ travellers.
 
 
 
-<span class="atom-split" data-atom="chapter_08_a_discovery_and_a_chase--part_02" data-title="The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 2)" data-chapter="Chapter 08 A DISCOVERY AND A CHASE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_a_discovery_and_a_chase--part_02" data-title="The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 2)" data-chapter="A DISCOVERY AND A CHASE" data-kind="excerpt"></span>
 
 
 ‘Mind--the seven-mile stage in less than half an hour!’ shouted Wardle.
@@ -42255,7 +42255,7 @@ the yard.
 
 
 
-<span class="atom-split" data-atom="chapter_08_a_discovery_and_a_chase--part_03" data-title="The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 3)" data-chapter="Chapter 08 A DISCOVERY AND A CHASE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_a_discovery_and_a_chase--part_03" data-title="The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 3)" data-chapter="A DISCOVERY AND A CHASE" data-kind="excerpt"></span>
 
 
 ‘Not a quarter of an hour ago, sir,’ replied the hostler, to whom the
@@ -42426,7 +42426,7 @@ after a slight cessation had again begun to pour heavily down.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_01" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 1)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_01" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 1)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 CHAPTER X. CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE
@@ -42549,7 +42549,7 @@ too! If he’s anything of a gen’l’m’n, he’s vurth a shillin’ a day, l
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_02" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 2)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_02" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 2)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 Stimulated by this inspiring reflection, Mr. Samuel brushed away with
@@ -42686,7 +42686,7 @@ steps in triumph to the Borough.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_03" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 3)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_03" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 3)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 He was yet on his way to the White Hart, when two plump gentleman and
@@ -42818,7 +42818,7 @@ visitors.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_04" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 4)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_04" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 4)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 ‘Country make,’ replied Sam.
@@ -42988,7 +42988,7 @@ friends here, are not--eh?’
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_05" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 5)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_05" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 5)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 Mr. Jingle’s face gradually relaxed; and something distantly resembling
@@ -43136,7 +43136,7 @@ reached Dingley Dell, and stood within the entrance to Manor Farm.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_06" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 6)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_06" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 6)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 CHAPTER XI. INVOLVING ANOTHER [[Journey|JOURNEY]], AND AN ANTIQUARIAN DISCOVERY;
@@ -43271,7 +43271,7 @@ turn of the lane hid the old [[house]] from their sight.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_07" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 7)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_07" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 7)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 At Muggleton they procured a conveyance to Rochester. By the [[Time|time]] they
@@ -43400,7 +43400,7 @@ which he probably meant to be very cunning.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_08" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 8)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_08" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 8)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 ‘I’ll give you ten shillings for it, at once,’ said Mr. [[Pickwick]], ‘if
@@ -43527,7 +43527,7 @@ again to mope in [[Solitude|solitude]].
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_09" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 9)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_09" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 9)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 ‘I did this for years; long, long years they were. The nights here are
@@ -43631,7 +43631,7 @@ bright edge would make!
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_10" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 10)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_10" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 10)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 ‘At last the old spirits who had been with me so often before whispered
@@ -43741,7 +43741,7 @@ it--but I spoke not a word.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_11" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 11)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_11" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 11)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 ‘I saw the sudden change that came upon him beneath my gaze. He was a
@@ -43859,7 +43859,7 @@ discovery.
 
 
 
-<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_12" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 12)" data-chapter="Chapter 09 CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_clearing_up_all_doubts_if_any--part_12" data-title="The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 12)" data-chapter="CLEARING UP ALL DOUBTS IF ANY" data-kind="excerpt"></span>
 
 
 It appears from the Transactions of the Club, then, that Mr. [[Pickwick]]
@@ -43927,7 +43927,7 @@ the littleness of his enemies.
 
 
 
-<span class="atom-split" data-atom="chapter_10_descriptive_of_a_very_importan--part_01" data-title="The Pickwick Papers — Chapter 12: DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF (part 1)" data-chapter="Chapter 10 DESCRIPTIVE OF A VERY IMPORTAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_descriptive_of_a_very_importan--part_01" data-title="The Pickwick Papers — Chapter 12: DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF (part 1)" data-chapter="DESCRIPTIVE OF A VERY IMPORTAN" data-kind="excerpt"></span>
 
 
 CHAPTER XII. DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF
@@ -44062,7 +44062,7 @@ neck, with a cataract of [[Tears|tears]] and a [[Chorus|chorus]] of sobs.
 
 
 
-<span class="atom-split" data-atom="chapter_10_descriptive_of_a_very_importan--part_02" data-title="The Pickwick Papers — Chapter 12: DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF (part 2)" data-chapter="Chapter 10 DESCRIPTIVE OF A VERY IMPORTAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_descriptive_of_a_very_importan--part_02" data-title="The Pickwick Papers — Chapter 12: DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF (part 2)" data-chapter="DESCRIPTIVE OF A VERY IMPORTAN" data-kind="excerpt"></span>
 
 
 ‘Bless my [[Soul|soul]],’ cried the astonished Mr. [[Pickwick]]; ‘Mrs. Bardell, my
@@ -44238,7 +44238,7 @@ complaint uncommon; so long life to the Pickvicks, says I!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_01" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 1)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_01" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 1)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 CHAPTER XIII. SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES
@@ -44343,7 +44343,7 @@ faced man in the balcony.
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_02" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 2)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_02" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 2)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 ‘Hurrah!’ shouted the mob, in conclusion.
@@ -44494,7 +44494,7 @@ Here the editor of the Eatanswill _Gazette_, appearing to ramble, Mr.
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_03" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 3)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_03" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 3)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 ‘Certainly.’
@@ -44643,7 +44643,7 @@ rather think they’ll amuse you.’
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_04" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 4)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_04" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 4)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 ‘I should like to hear them very much indeed,’ said Mr. [[Pickwick]].
@@ -44763,7 +44763,7 @@ down, sir.” So my father sits down, and he and the gen’l’m’n looks wery
 hard at each other. “You don’t remember me?” said the gen’l’m’n.--“Can’t
 say I do,” says my father.--“Oh, I know you,” says the gen’l’m’n:
 “know’d you when you was a boy,” says he.--“[[Well]], I don’t remember you,”
- says my father.--“That’s wery odd,” says the gen’l’m’n.”--“Wery,” says
+says my father.--“That’s wery odd,” says the gen’l’m’n.”--“Wery,” says
 my father.--“You must have a bad mem’ry, Mr. Weller,” says the
 gen’l’m’n.--“[[Well]], it is a wery bad ‘un,” says my father.--“I thought
 so,” says the gen’l’m’n. So then they pours him out a glass of wine, and
@@ -44787,7 +44787,7 @@ wery spot, and ev’ry man on ‘em was turned into the canal.’
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_05" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 5)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_05" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 5)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 ‘And got out again?’ inquired Mr. [[Pickwick]] hastily.
@@ -44934,7 +44934,7 @@ done [[Honour|honour]] to an earthquake.
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_06" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 6)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_06" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 6)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 ‘There’s Winkle,’ said Mr. Tupman, pulling his friend by the sleeve.
@@ -45055,7 +45055,7 @@ and [[Horatio]] Fizkin, Esquire, was permitted to proceed.
 
 
 
-<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_07" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 7)" data-chapter="Chapter 11 SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_some_account_of_eatanswill_of--part_07" data-title="The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 7)" data-chapter="SOME ACCOUNT OF EATANSWILL OF" data-kind="excerpt"></span>
 
 
 The speeches of the two candidates, though differing in every other
@@ -45105,7 +45105,7 @@ was returned also.
 
 
 
-<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_01" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 1)" data-chapter="Chapter 12 COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_01" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 1)" data-chapter="COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
 
 
 CHAPTER XIV. COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE
@@ -45229,7 +45229,7 @@ too, Sir,’ said the placid gentleman.
 
 
 
-<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_02" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 2)" data-chapter="Chapter 12 COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_02" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 2)" data-chapter="COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
 
 
 ‘Your health, Sir,’ said the bagman with the lonely eye, bestowing an
@@ -45343,7 +45343,7 @@ it’s over. Soho, old girl--gently--gently.”
 
 
 
-<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_03" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 3)" data-chapter="Chapter 12 COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_03" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 3)" data-chapter="COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
 
 
 ‘Whether the vixenish mare was sufficiently [[Well|well]] acquainted with the
@@ -45451,7 +45451,7 @@ persecuted individual, and had better go to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_04" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 4)" data-chapter="Chapter 12 COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_04" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 4)" data-chapter="COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
 
 
 ‘Up a wide and ancient staircase the smart girl preceded Tom, shading
@@ -45484,7 +45484,7 @@ take his eyes off it.
 ‘“[[Well]],” said Tom, slowly undressing himself, and staring at the old
 chair all the while, which stood with a mysterious aspect by the
 bedside, “I never saw such a rum concern as that in my days. Very odd,”
- said Tom, who had got rather sage with the hot punch--“very odd.” Tom
+said Tom, who had got rather sage with the hot punch--“very odd.” Tom
 shook his head with an air of profound wisdom, and looked at the chair
 again. He couldn’t make anything of it though, so he got into bed,
 covered himself up warm, and fell asleep.
@@ -45578,7 +45578,7 @@ could have sat upon him without remorse.
 
 
 
-<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_05" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 5)" data-chapter="Chapter 12 COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_05" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 5)" data-chapter="COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
 
 
 ‘“I have been a great favourite among the women in my [[Time|time]], Tom,” said
@@ -45730,7 +45730,7 @@ identical letter the old gentleman had described!
 
 
 
-<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_06" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 6)" data-chapter="Chapter 12 COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_comprising_a_brief_description--part_06" data-title="The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 6)" data-chapter="COMPRISING A BRIEF DESCRIPTION" data-kind="excerpt"></span>
 
 
 ‘“Queer sort of thing, this,” said Tom Smart, looking first at the chair
@@ -45798,7 +45798,7 @@ into consideration. “Lor, Sir!”
 
 ‘“I scorn to flatter, my dear ma’am,” said Tom Smart. “You deserve a
 very admirable husband, and whoever he is, he’ll be a very lucky man.”
- As Tom said this, his eye involuntarily wandered from the widow’s face
+As Tom said this, his eye involuntarily wandered from the widow’s face
 to the comfort around him.
 
 ‘The widow looked more puzzled than ever, and made an effort to rise.
@@ -45806,7 +45806,7 @@ Tom gently pressed her hand, as if to detain her, and she kept her seat.
 Widows, gentlemen, are not usually timorous, as my uncle used to say.
 
 ‘“I am sure I am very much obliged to you, Sir, for your good opinion,”
- said the buxom landlady, half laughing; “and if ever I marry again--”
+said the buxom landlady, half laughing; “and if ever I marry again--”
 
 ’”_If_,” said Tom Smart, looking very shrewdly out of the right-hand
 corner of his left eye. “_If_--”
@@ -45842,7 +45842,7 @@ countenance.
 
 ‘“If it is, that he wants money,” said the widow, “I know that already,
 and you needn’t trouble yourself.” ‘“Pooh, nonsense, that’s nothing,”
- said Tom Smart, “I want money. ‘Tain’t that.”
+said Tom Smart, “I want money. ‘Tain’t that.”
 
 ‘“Oh, dear, what can it be?” exclaimed the poor widow.
 
@@ -46633,7 +46633,7 @@ distance between themselves and the good old town of Bury St. Edmunds.
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_01" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 1)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_01" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 1)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 CHAPTER XVI. TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED
@@ -46755,7 +46755,7 @@ are made of slips of coarse sacking, stretched across ‘em.’
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_02" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 2)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_02" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 2)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 ‘[[Well]],’ said Mr. [[Pickwick]].
@@ -46891,7 +46891,7 @@ you, from the very first moment I saw you under the pump.’
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_03" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 3)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_03" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 3)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 Did you though?’
@@ -47036,7 +47036,7 @@ incomprehensible.’
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_04" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 4)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_04" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 4)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 ‘He is, sir, very right,’ said Mr. Trotter, ‘and I will give way no
@@ -47195,7 +47195,7 @@ Mr. Trotter’s mind, because we don’t know what they were.
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_05" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 5)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_05" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 5)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 The day wore on, evening came, and at a little before ten o’[[Clock|clock]] Sam
@@ -47330,7 +47330,7 @@ perspiration.
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_06" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 6)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_06" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 6)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 ‘What a dreadful situation,’ said Mr. [[Pickwick]], pausing to wipe his brow
@@ -47470,7 +47470,7 @@ Your friend, Mr. Charles Fitz-Marshall.’
 
 
 
-<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_07" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 7)" data-chapter="Chapter 15 TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_too_full_of_adventure_to_be_br--part_07" data-title="The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 7)" data-chapter="TOO FULL OF ADVENTURE TO BE BR" data-kind="excerpt"></span>
 
 
 ‘_My_ friend! I don’t know any such person.’
@@ -47606,7 +47606,7 @@ for once in a way, my name ain’t Weller. Good-[[Night|night]], Sir!’
 
 
 
-<span class="atom-split" data-atom="chapter_16_showing_that_an_attack_of_rheu--part_01" data-title="The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 1)" data-chapter="Chapter 16 SHOWING THAT AN ATTACK OF RHEU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_showing_that_an_attack_of_rheu--part_01" data-title="The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 1)" data-chapter="SHOWING THAT AN ATTACK OF RHEU" data-kind="excerpt"></span>
 
 
 CHAPTER XVII. SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS
@@ -47713,7 +47713,7 @@ fright.
 
 
 
-<span class="atom-split" data-atom="chapter_16_showing_that_an_attack_of_rheu--part_02" data-title="The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 2)" data-chapter="Chapter 16 SHOWING THAT AN ATTACK OF RHEU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_showing_that_an_attack_of_rheu--part_02" data-title="The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 2)" data-chapter="SHOWING THAT AN ATTACK OF RHEU" data-kind="excerpt"></span>
 
 
 ‘[[Well]]! Day after day, when school was over, and the pupils gone, did
@@ -47828,7 +47828,7 @@ been suddenly directed into a new channel.
 
 
 
-<span class="atom-split" data-atom="chapter_16_showing_that_an_attack_of_rheu--part_03" data-title="The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 3)" data-chapter="Chapter 16 SHOWING THAT AN ATTACK OF RHEU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_showing_that_an_attack_of_rheu--part_03" data-title="The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 3)" data-chapter="SHOWING THAT AN ATTACK OF RHEU" data-kind="excerpt"></span>
 
 
 ‘The circumstance which directed his thoughts into a new channel was a
@@ -47958,7 +47958,7 @@ bony apprentice with the thin legs.’
 
 
 
-<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_01" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 1)" data-chapter="Chapter 17 BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_01" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 1)" data-chapter="BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
 
 
 CHAPTER XVIII. BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF
@@ -48097,7 +48097,7 @@ stand in them at that moment.
 
 
 
-<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_02" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 2)" data-chapter="Chapter 17 BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_02" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 2)" data-chapter="BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
 
 
 Mrs. Pott read the paragraph, uttered a loud shriek, and threw herself
@@ -48242,7 +48242,7 @@ join him at Bury to-day; and we are to leave by the coach at [[Noon|noon]].’
 
 
 
-<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_03" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 3)" data-chapter="Chapter 17 BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_03" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 3)" data-chapter="BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
 
 
 ‘Oh, certainly,’ replied Mr. Winkle.
@@ -48387,7 +48387,7 @@ in [[London]], who will accept service thereof.
 
 
 
-<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_04" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 4)" data-chapter="Chapter 17 BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_briefly_illustrative_of_two_po--part_04" data-title="The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 4)" data-chapter="BRIEFLY ILLUSTRATIVE OF TWO PO" data-kind="excerpt"></span>
 
 
 We are, Sir, Your obedient servants, Dodson & Fogg.
@@ -48490,7 +48490,7 @@ Weller bent his steps towards the booking-office.
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_01" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 1)" data-chapter="Chapter 18 A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_01" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 1)" data-chapter="A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
 
 
 CHAPTER XIX. A PLEASANT DAY WITH AN UNPLEASANT TERMINATION
@@ -48620,7 +48620,7 @@ barrow, as a gross violation of all established rules and precedents.
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_02" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 2)" data-chapter="Chapter 18 A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_02" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 2)" data-chapter="A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
 
 
 It was a great objection, but not an insurmountable one. The gamekeeper
@@ -48783,7 +48783,7 @@ It _will _do it.’
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_03" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 3)" data-chapter="Chapter 18 A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_03" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 3)" data-chapter="A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
 
 
 ‘It’ll do that afore long, Sir,’ observed the tall man, in a low,
@@ -48900,9 +48900,9 @@ cats you keep, Mr. Brooks,” says I, when I’d got intimate with him.
 cats,” says I. “Other people is,” says he, a-winkin’ at me; “they ain’t
 in season till the [[Winter|winter]] though,” says he. “Not in season!” says I.
 “No,” says he, “fruits is in, cats is out.” “Why, what do you mean?”
- says I. “Mean!” says he. “That I’ll never be a party to the combination
+says I. “Mean!” says he. “That I’ll never be a party to the combination
 o’ the butchers, to keep up the price o’ meat,” says he. “Mr. Weller,”
- says he, a-squeezing my hand wery hard, and vispering in my ear--“don’t
+says he, a-squeezing my hand wery hard, and vispering in my ear--“don’t
 mention this here agin--but it’s the seasonin’ as does it. They’re all
 made o’ them noble [[Animals|animals]],” says he, a-pointin’ to a wery nice little
 tabby kitten, “and I [[Seasons|seasons]] ‘em for beefsteak, weal or kidney, ‘cording
@@ -48913,7 +48913,7 @@ minute’s notice, just as the market changes, and appetites wary!”’
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_04" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 4)" data-chapter="Chapter 18 A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_04" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 4)" data-chapter="A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
 
 
 ‘He must have been a very ingenious young man, that, Sam,’ said Mr.
@@ -49047,7 +49047,7 @@ emphatically with his stick, and summoned the head-gardener.
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_05" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 5)" data-chapter="Chapter 18 A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_pleasant_day_with_an_unpleas--part_05" data-title="The Pickwick Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION (part 5)" data-chapter="A PLEASANT DAY WITH AN UNPLEAS" data-kind="excerpt"></span>
 
 
 ‘Hunt,’ said Captain Boldwig.
@@ -49213,7 +49213,7 @@ with a magnum of extra strength for Mr. Samuel Weller.
 
 
 
-<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_01" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 1)" data-chapter="Chapter 19 SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_01" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 1)" data-chapter="SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
 
 
 CHAPTER XX. SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR
@@ -49313,10 +49313,10 @@ in his rum way, so that I knew something was coming. “You don’t know
 there’s a declaration filed, which increases the costs materially, I
 suppose,” said Fogg. “You don’t say that, sir,” said Ramsey, starting
 back; “the [[Time|time]] was only out last [[Night|night]], Sir.” “I do say it, though,”
- said Fogg, “my clerk’s just gone to file it. Hasn’t Mr. Jackson gone to
+said Fogg, “my clerk’s just gone to file it. Hasn’t Mr. Jackson gone to
 file that declaration in Bullman and Ramsey, Mr. Wicks?” Of course I
 said yes, and then Fogg coughed again, and looked at Ramsey. “My God!”
- said Ramsey; “and here have I nearly driven myself mad, scraping this
+said Ramsey; “and here have I nearly driven myself mad, scraping this
 money together, and all to no purpose.” “None at all,” said Fogg coolly;
 “so you had better go back and scrape some more together, and bring it
 here in [[Time|time]].” “I can’t get it, by God!” said Ramsey, striking the desk
@@ -49342,7 +49342,7 @@ the deepest admiration, ‘capital, isn’t he?’
 
 
 
-<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_02" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 2)" data-chapter="Chapter 19 SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_02" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 2)" data-chapter="SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
 
 
 The other three cordially subscribed to this opinion, and the anecdote
@@ -49486,7 +49486,7 @@ looked at Mr. [[Pickwick]].
 
 
 
-<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_03" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 3)" data-chapter="Chapter 19 SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_03" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 3)" data-chapter="SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
 
 
 ‘I am to understand, then,’ said Mr. [[Pickwick]], ‘that it really is your
@@ -49625,7 +49625,7 @@ his mind to see the most he could of them.
 
 
 
-<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_04" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 4)" data-chapter="Chapter 19 SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_04" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 4)" data-chapter="SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
 
 
 At first the evolutions of the stout man had escaped Mr. Weller’s
@@ -49772,7 +49772,7 @@ wouldn’t be amiss.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_05" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 5)" data-chapter="Chapter 19 SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_05" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 5)" data-chapter="SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
 
 
 ‘A glass of brandy here!’ The brandy was brought; and Mr. Weller, after
@@ -49901,7 +49901,7 @@ him.
 
 
 
-<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_06" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 6)" data-chapter="Chapter 19 SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_showing_how_dodson_and_fogg_we--part_06" data-title="The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 6)" data-chapter="SHOWING HOW DODSON AND FOGG WE" data-kind="excerpt"></span>
 
 
 ‘Is Mr. Lowten here, ma’am?’ inquired Mr. [[Pickwick]].
@@ -50044,7 +50044,7 @@ one.
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_01" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 1)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_01" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 1)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 CHAPTER XXI. IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE
@@ -50066,7 +50066,7 @@ and they sank beneath the unnatural devotion of their youthful energies
 to their dry old books? Coming down to a later [[Time|time]], and a very
 different day, what do _you_ know of the gradual sinking beneath
 consumption, or the quick wasting of fever--the grand results of “life”
- and dissipation--which men have undergone in these same rooms? How many
+and dissipation--which men have undergone in these same rooms? How many
 vain pleaders for [[Mercy|mercy]], do you think, have turned away heart-sick from
 the lawyer’s office, to find a resting-place in the Thames, or a refuge
 in the jail? They are no ordinary houses, those. There is not a panel in
@@ -50131,10 +50131,10 @@ bedchamber, and this my sitting-room.” He made the change, and slept
 very [[Well|well]] at [[Night|night]], but suddenly found that, somehow, he couldn’t read
 in the evening: he got nervous and uncomfortable, and used to be always
 snuffing his candles and staring about him. “I can’t make this out,”
- said he, when he came [[Home|home]] from the play one [[Night|night]], and was drinking a
+said he, when he came [[Home|home]] from the play one [[Night|night]], and was drinking a
 glass of cold grog, with his back to the wall, in order that he mightn’t
 be able to fancy there was any one behind him--“I can’t make it out,”
- said he; and just then his eyes rested on the little closet that had
+said he; and just then his eyes rested on the little closet that had
 been always locked up, and a shudder ran through his whole frame from
 top to toe. “I have felt this strange feeling before,” said he, “I
 cannot help thinking there’s something wrong about that closet.” He made
@@ -50154,7 +50154,7 @@ because you know nothing about it. They are funny, but not uncommon.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_02" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 2)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_02" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 2)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘Funny!’ exclaimed Mr. [[Pickwick]] involuntarily.
@@ -50180,7 +50180,7 @@ possible, and was sitting down before the [[Fire|fire]] at [[Night|night]], drin
 first glass of two gallons of whisky he had ordered on credit, wondering
 whether it would ever be paid for, and if so, in how many years’ [[Time|time]],
 when his eyes encountered the glass doors of the wooden press. “Ah,”
- says he, “if I hadn’t been obliged to take that ugly article at the old
+says he, “if I hadn’t been obliged to take that ugly article at the old
 broker’s valuation, I might have got something comfortable for the
 money. I’ll tell you what it is, old fellow,” he said, speaking aloud to
 the press, having nothing else to speak to, “if it wouldn’t cost more to
@@ -50251,7 +50251,7 @@ not true either--I shouldn’t [[Wonder|wonder]].’
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_03" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 3)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_03" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 3)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘I shan’t venture to say anything at all about it, seeing that I never
@@ -50355,7 +50355,7 @@ arrived, and she came [[Alone|alone]]. The [[Child|child]] was dead.
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_04" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 4)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_04" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 4)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘They little know, who coldly talk of the poor man’s bereavements, as a
@@ -50483,7 +50483,7 @@ had kept his oath.
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_05" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 5)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_05" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 5)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘He was traversing the scorching sands of a mighty [[Desert|desert]], barefoot and
@@ -50594,7 +50594,7 @@ there, see there!”
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_06" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 6)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_06" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 6)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘As the stranger spoke, he pointed to the sea. A faint cry died away
@@ -50713,7 +50713,7 @@ poor--very poor.”
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_07" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 7)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_07" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 7)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘“Very good,” said the attorney. “You will have the caption made to-
@@ -50846,7 +50846,7 @@ think they does, t’other day, Sammy?’
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_08" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 8)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_08" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 8)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘Goes and gets up a grand tea drinkin’ for a feller they calls their
@@ -50967,7 +50967,7 @@ Magnus--sounds [[Well|well]], I think, sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_09" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 9)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_09" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 9)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘Very,’ said Mr. [[Pickwick]].
@@ -51123,7 +51123,7 @@ together between the four walls of the Great White [[Horse]] at Ipswich.
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_10" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 10)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_10" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 10)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 It was at the door of this overgrown tavern that the [[London]] coach
@@ -51268,7 +51268,7 @@ and [[Honour|honour]] I placed implicit reliance.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_11" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 11)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_11" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 11)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘Dear me,’ said Mr. Peter Magnus, ‘that’s very unpleasant. It is a lady,
@@ -51381,7 +51381,7 @@ forth from beneath the nightcap.
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_12" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 12)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_12" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 12)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘It is the best idea,’ said Mr. [[Pickwick]] to himself, smiling till he
@@ -51509,7 +51509,7 @@ you suddenly entered it.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_13" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 13)" data-chapter="Chapter 20 IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_in_which_the_old_man_launches--part_13" data-title="The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 13)" data-chapter="IN WHICH THE OLD MAN LAUNCHES" data-kind="excerpt"></span>
 
 
 ‘If this improbable story be really true, Sir,’ said the lady, sobbing
@@ -51600,7 +51600,7 @@ buried in the profoundest meditation.
 
 
 
-<span class="atom-split" data-atom="chapter_21_in_which_mr_samuel_weller_begi--part_01" data-title="The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 1)" data-chapter="Chapter 21 IN WHICH MR SAMUEL WELLER BEGI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_in_which_mr_samuel_weller_begi--part_01" data-title="The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 1)" data-chapter="IN WHICH MR SAMUEL WELLER BEGI" data-kind="excerpt"></span>
 
 
 CHAPTER XXIII. IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES
@@ -51730,7 +51730,7 @@ slowly upon his heel, disappeared from his sight.
 
 
 
-<span class="atom-split" data-atom="chapter_21_in_which_mr_samuel_weller_begi--part_02" data-title="The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 2)" data-chapter="Chapter 21 IN WHICH MR SAMUEL WELLER BEGI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_in_which_mr_samuel_weller_begi--part_02" data-title="The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 2)" data-chapter="IN WHICH MR SAMUEL WELLER BEGI" data-kind="excerpt"></span>
 
 
 In the contemplative mood which these words had awakened, Mr. Samuel
@@ -51867,7 +51867,7 @@ sudden impulse, complied with his request.
 
 
 
-<span class="atom-split" data-atom="chapter_21_in_which_mr_samuel_weller_begi--part_03" data-title="The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 3)" data-chapter="Chapter 21 IN WHICH MR SAMUEL WELLER BEGI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_in_which_mr_samuel_weller_begi--part_03" data-title="The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 3)" data-chapter="IN WHICH MR SAMUEL WELLER BEGI" data-kind="excerpt"></span>
 
 
 ‘How,’ said Job Trotter, as they walked away, ‘how is your dear, good
@@ -52019,7 +52019,7 @@ Whether it was done in good [[Time|time]], or not, will be seen hereafter.
 
 
 
-<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_01" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 1)" data-chapter="Chapter 22 WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_01" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 1)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
 
 
 CHAPTER XXIV. WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE-
@@ -52163,7 +52163,7 @@ letter.’
 
 
 
-<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_02" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 2)" data-chapter="Chapter 22 WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_02" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 2)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
 
 
 ‘And it was all correct, was it?’ inquired Mr. [[Pickwick]].
@@ -52312,7 +52312,7 @@ amusements which he would vary occasionally, by shaking his fist in Mr.
 
 
 
-<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_03" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 3)" data-chapter="Chapter 22 WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_03" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 3)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
 
 
 Mr. [[Pickwick]], in his turn, conscious of his own [[innocence]] and rectitude,
@@ -52444,7 +52444,7 @@ Mr. Jinks looked serious instantly.
 
 
 
-<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_04" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 4)" data-chapter="Chapter 22 WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_04" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 4)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
 
 
 ‘Mr. Jinks,’ said the magistrate, ‘you’re a [[Fool|fool]].’
@@ -52592,7 +52592,7 @@ perception of Mr. [[Pickwick]]; he knew him at once.
 
 
 
-<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_05" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 5)" data-chapter="Chapter 22 WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_05" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 5)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
 
 
 ‘My name’s Tupman,’ said that gentleman.
@@ -52716,7 +52716,7 @@ to cheer too, with all his might and main.
 
 
 
-<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_06" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 6)" data-chapter="Chapter 22 WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_wherein_mr_peter_magnus_grows--part_06" data-title="The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 6)" data-chapter="WHEREIN MR PETER MAGNUS GROWS" data-kind="excerpt"></span>
 
 
 Mr. Grummer passed, and Mr. Dubbley passed, and the sedan passed, and
@@ -52804,7 +52804,7 @@ magistrate’s [[house]]; the chairmen trotting, the prisoners following, Mr.
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_01" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 1)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_01" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 1)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 CHAPTER XXV. SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC
@@ -52929,7 +52929,7 @@ into a rage.
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_02" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 2)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_02" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 2)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 ‘Score it under,’ said Sam.
@@ -53092,7 +53092,7 @@ have intention of fighting a duel with anybody.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_03" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 3)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_03" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 3)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 ‘I dare say,’ replied the magistrate, ‘I dare say--don’t you, Mr.
@@ -53238,7 +53238,7 @@ abroad!
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_04" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 4)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_04" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 4)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 ‘But after all,’ said Mr. Nupkins, brightening for a moment, after a
@@ -53365,7 +53365,7 @@ him.
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_05" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 5)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_05" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 5)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 ‘How de do, sir?’ said Mr. Muzzle, as he conducted Mr. Weller down the
@@ -53523,7 +53523,7 @@ quite a treat to see you; ain’t it, Mr. Muzzle?’
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_06" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 6)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_06" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 6)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 ‘And so glad to see us--that makes it so much more comfortable,’ said
@@ -53664,7 +53664,7 @@ syllable he uttered.
 
 
 
-<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_07" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 7)" data-chapter="Chapter 23 SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_showing_among_a_variety_of_ple--part_07" data-title="The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 7)" data-chapter="SHOWING AMONG A VARIETY OF PLE" data-kind="excerpt"></span>
 
 
 ‘And I have only to add, sir,’ said Mr. [[Pickwick]], now thoroughly angry,
@@ -53781,7 +53781,7 @@ And this was the first passage of Mr. Weller’s first [[Love|love]].
 
 
 
-<span class="atom-split" data-atom="chapter_24_which_contains_a_brief_account--part_01" data-title="The Pickwick Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE (part 1)" data-chapter="Chapter 24 WHICH CONTAINS A BRIEF ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_which_contains_a_brief_account--part_01" data-title="The Pickwick Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE (part 1)" data-chapter="WHICH CONTAINS A BRIEF ACCOUNT" data-kind="excerpt"></span>
 
 
 CHAPTER XXVI. WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE
@@ -53916,7 +53916,7 @@ Mrs. Cluppins, with sympathising [[Resignation|resignation]].
 
 
 
-<span class="atom-split" data-atom="chapter_24_which_contains_a_brief_account--part_02" data-title="The Pickwick Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE (part 2)" data-chapter="Chapter 24 WHICH CONTAINS A BRIEF ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_which_contains_a_brief_account--part_02" data-title="The Pickwick Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE (part 2)" data-chapter="WHICH CONTAINS A BRIEF ACCOUNT" data-kind="excerpt"></span>
 
 
 ‘Ah! worse luck, poor [[Lamb|lamb]]!’ said Mrs. Sanders.
@@ -54111,7 +54111,7 @@ from the sharp practice of Dodson & Fogg to boot.
 
 
 
-<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_01" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 1)" data-chapter="Chapter 25 SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_01" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 1)" data-chapter="SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
 
 
 CHAPTER XXVII. SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS
@@ -54227,7 +54227,7 @@ she blew the [[Fire|fire]].
 
 
 
-<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_02" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 2)" data-chapter="Chapter 25 SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_02" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 2)" data-chapter="SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
 
 
 Sam was so lost in the contemplation of this comfortable scene, that he
@@ -54376,7 +54376,7 @@ only vish you’d write me out the receipt, that’s all.’
 
 
 
-<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_03" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 3)" data-chapter="Chapter 25 SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_03" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 3)" data-chapter="SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
 
 
 ‘Hush!’ said Sam, ‘she’s at [[Home|home]], old feller.’
@@ -54524,7 +54524,7 @@ was going forward.
 
 
 
-<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_04" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 4)" data-chapter="Chapter 25 SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_samuel_weller_makes_a_pilgrima--part_04" data-title="The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 4)" data-chapter="SAMUEL WELLER MAKES A PILGRIMA" data-kind="excerpt"></span>
 
 
 The major part of the conversation was confined to Mrs. Weller and the
@@ -54598,7 +54598,7 @@ reflection we would impress upon the reader.
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_01" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 1)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_01" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 1)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 CHAPTER XXVIII. A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT
@@ -54699,7 +54699,7 @@ they [[Speed|speed]], more merrily than before.
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_02" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 2)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_02" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 2)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 A few small houses, scattered on either side of the [[Road|road]], betoken the
@@ -54802,7 +54802,7 @@ would rather walk. Here, Sam!’
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_03" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 3)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_03" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 3)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 ‘Sir,’ said Mr. Weller.
@@ -54937,7 +54937,7 @@ all comfortably deposited in the adjacent county.
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_04" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 4)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_04" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 4)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 But if they were social and happy outside the [[house]], what was the warmth
@@ -55049,7 +55049,7 @@ and which we should be still more unwilling to be supposed to ridicule.
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_05" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 5)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_05" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 5)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 Let us briefly say, then, that the ceremony was performed by the old
@@ -55196,7 +55196,7 @@ wish them prolonged life, and every blessing!’
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_06" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 6)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_06" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 6)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 Mr. [[Pickwick]] concluded amidst a whirlwind of applause; and once more
@@ -55323,7 +55323,7 @@ the previous [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_07" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 7)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_07" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 7)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 ‘And so your family has games in the kitchen to-[[Night|night]], my dear, has
@@ -55440,7 +55440,7 @@ whole [[Body|body]], and kissed by every one of them.
 
 
 
-<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_08" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 8)" data-chapter="Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_a_good_humoured_christmas_chap--part_08" data-title="The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 8)" data-chapter="A GOOD HUMOURED CHRISTMAS CHAP" data-kind="excerpt"></span>
 
 
 It was a pleasant thing to see Mr. [[Pickwick]] in the centre of the group,
@@ -55572,7 +55572,7 @@ if you please.
 
 
 
-<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_01" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 1)" data-chapter="Chapter 27 THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_01" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 1)" data-chapter="THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
 
 
 CHAPTER XXIX. THE STORY OF THE GOBLINS WHO STOLE A SEXTON
@@ -55676,7 +55676,7 @@ appeared to be frozen up, all was so cold and still.
 
 
 
-<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_02" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 2)" data-chapter="Chapter 27 THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_02" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 2)" data-chapter="THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
 
 
 ‘“It was the echoes,” said Gabriel Grub, raising the bottle to his lips
@@ -55818,7 +55818,7 @@ through the earth.
 
 
 
-<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_03" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 3)" data-chapter="Chapter 27 THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_03" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 3)" data-chapter="THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
 
 
 ‘When Gabriel Grub had had [[Time|time]] to fetch his breath, which the rapidity
@@ -55931,7 +55931,7 @@ with the scene; and all was brightness and splendour.
 
 
 
-<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_04" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 4)" data-chapter="Chapter 27 THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_the_story_of_the_goblins_who_s--part_04" data-title="The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 4)" data-chapter="THE STORY OF THE GOBLINS WHO S" data-kind="excerpt"></span>
 
 
 ’”_You _a miserable man!” said the [[King|king]] of the goblins, in a more
@@ -56020,7 +56020,7 @@ those which Gabriel Grub saw in the goblin’s cavern.’
 
 
 
-<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_01" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 1)" data-chapter="Chapter 28 HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_01" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 1)" data-chapter="HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
 
 
 CHAPTER XXX. HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE
@@ -56164,7 +56164,7 @@ Is it?’ inquired Mr. Allen carelessly.
 
 
 
-<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_02" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 2)" data-chapter="Chapter 28 HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_02" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 2)" data-chapter="HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
 
 
 ‘Very,’ said Bob Sawyer, with his mouth full.
@@ -56312,7 +56312,7 @@ afternoon, Sam.’
 
 
 
-<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_03" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 3)" data-chapter="Chapter 28 HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_03" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 3)" data-chapter="HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
 
 
 ‘You’re wery good, sir,’ replied Mr. Weller.
@@ -56463,7 +56463,7 @@ could see.
 
 
 
-<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_04" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 4)" data-chapter="Chapter 28 HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_how_the_pickwickians_made_and--part_04" data-title="The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 4)" data-chapter="HOW THE PICKWICKIANS MADE AND" data-kind="excerpt"></span>
 
 
 Dismay and anguish were depicted on every countenance; the males turned
@@ -56600,7 +56600,7 @@ inferences from these facts, we beg them by all means to do so.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_01" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 1)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_01" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 1)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 CHAPTER XXXI. WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES
@@ -56721,7 +56721,7 @@ hand.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_02" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 2)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_02" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 2)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 Mr. Tupman had witnessed this process in silent astonishment, when
@@ -56888,7 +56888,7 @@ and dinnin’ in his ears, till at last he couldn’t stand it no longer.
 “I’ll tell you what it is, my dear,” he says one day; “if you persewere
 in this here sort of amusement,” he says, “I’m blessed if I don’t go
 away to ‘Merriker; and that’s all about it.” “You’re a idle willin,”
- says she, “and I wish the ‘Merrikins joy of their bargain.” Arter which
+says she, “and I wish the ‘Merrikins joy of their bargain.” Arter which
 she keeps on abusin’ of him for half an hour, and then runs into the
 little parlour behind the shop, sets to a-screamin’, says he’ll be the
 [[Death|death]] on her, and falls in a fit, which lasts for three good hours--one
@@ -56915,7 +56915,7 @@ for sassages, is trousers’ buttons, ma’am.” “They’re my husband’s
 buttons!” says the widder beginnin’ to faint, “What!” screams the little
 old gen’l’m’n, turnin’ wery pale. “I see it all,” says the widder; “in a
 fit of temporary insanity he rashly converted hisself into sassages!”
- And so he had, Sir,’ said Mr. Weller, looking steadily into Mr.
+And so he had, Sir,’ said Mr. Weller, looking steadily into Mr.
 [[Pickwick]]’s horror-stricken countenance, ‘or else he’d been draw’d into
 the ingin; but however that might ha’ been, the little, old gen’l’m’n,
 who had been remarkably partial to sassages all his life, rushed out o’
@@ -56924,7 +56924,7 @@ the shop in a wild state, and was never heerd on arterwards!’
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_03" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 3)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_03" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 3)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 The relation of this affecting incident of private life brought master
@@ -57057,7 +57057,7 @@ shrugged his shoulders, and remained expressively silent.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_04" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 4)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_04" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 4)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 ‘You mean that in that case I must pay the damages?’ said Mr. [[Pickwick]],
@@ -57184,7 +57184,7 @@ personal comforts.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_05" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 5)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_05" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 5)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 The Serjeant was writing when his clients entered; he bowed abstractedly
@@ -57316,7 +57316,7 @@ he turned red, and bowed.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_06" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 6)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_06" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 6)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 Here again, Mr. Phunky should have professed to have forgotten all about
@@ -57426,7 +57426,7 @@ without ever once stopping of its own accord.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_07" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 7)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_07" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 7)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 ‘Only a quarter, and a month or so,’ replied Mr. Bob Sawyer.
@@ -57573,7 +57573,7 @@ the back parlour, closing the door after her with an awful crash.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_08" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 8)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_08" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 8)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 ‘Does Mr. Sawyer live here?’ said Mr. [[Pickwick]], when the door was
@@ -57722,7 +57722,7 @@ head.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_09" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 9)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_09" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 9)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 When the last ‘natural’ had been declared, and the profit and loss
@@ -57851,7 +57851,7 @@ the following clear understanding took place.
 
 
 
-<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_10" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 10)" data-chapter="Chapter 29 WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_which_is_all_about_the_law_and--part_10" data-title="The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 10)" data-chapter="WHICH IS ALL ABOUT THE LAW AND" data-kind="excerpt"></span>
 
 
 ‘Sawyer,’ said the scorbutic youth, in a loud voice.
@@ -58024,7 +58024,7 @@ evening.
 
 
 
-<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_01" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 1)" data-chapter="Chapter 30 MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_01" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 1)" data-chapter="MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
 
 
 CHAPTER XXXIII. MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS
@@ -58143,7 +58143,7 @@ reduced rate of one-and-sixpence each.
 
 
 
-<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_02" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 2)" data-chapter="Chapter 30 MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_02" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 2)" data-chapter="MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
 
 
 ‘I should ha’ forgot it; I should certainly ha’ forgot it!’ said Sam; so
@@ -58274,7 +58274,7 @@ vanished, returned, and disappeared.
 
 
 
-<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_03" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 3)" data-chapter="Chapter 30 MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_03" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 3)" data-chapter="MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
 
 
 ‘They seem to know your ways here,’ observed Sam.
@@ -58442,7 +58442,7 @@ winked over the top thereof, at his astonished son.
 
 
 
-<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_04" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 4)" data-chapter="Chapter 30 MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_04" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 4)" data-chapter="MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
 
 
 ‘Why, what do you mean?’ said Sam; ‘you don’t think he’s a-goin’ to be
@@ -58568,7 +58568,7 @@ before my wery eyes.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_05" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 5)" data-chapter="Chapter 30 MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_05" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 5)" data-chapter="MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
 
 
 There is little [[Doubt|doubt]] that Mr. Weller would have carried his benevolent
@@ -58683,7 +58683,7 @@ of humble life only, who soothed, consoled, and supported him? No!
 
 
 
-<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_06" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 6)" data-chapter="Chapter 30 MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_mr_weller_the_elder_delivers_s--part_06" data-title="The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 6)" data-chapter="MR WELLER THE ELDER DELIVERS S" data-kind="excerpt"></span>
 
 
 ‘He was always first oars with the fine [[City|city]] ladies.’
@@ -58822,7 +58822,7 @@ of the United Grand Junction Ebenezer Temperance Association.
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_01" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 1)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_01" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 1)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 CHAPTER XXXIV. IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE
@@ -58937,7 +58937,7 @@ this was caused by the entrance of the judge.
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_02" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 2)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_02" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 2)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 Mr. Justice Stareleigh (who sat in the absence of the Chief Justice,
@@ -59068,7 +59068,7 @@ the defendant, Serjeant Snubbin and Mr. Monkey.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_03" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 3)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_03" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 3)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘Beg your Lordship’s pardon, Phunky.’
@@ -59161,7 +59161,7 @@ gentlemen I look for protection, for assistance, for comfort, and for
 consolation; in single gentlemen I shall perpetually see something to
 remind me of what Mr. Bardell was when he first won my young and untried
 affections; to a single gentleman, then, shall my lodgings be let.”
- Actuated by this beautiful and touching impulse (among the best impulses
+Actuated by this beautiful and touching impulse (among the best impulses
 of our imperfect [[Nature|nature]], gentlemen), the lonely and desolate widow dried
 her [[Tears|tears]], furnished her first floor, caught her [[Innocent|innocent]] boy to her
 maternal bosom, and put the bill up in her parlour [[Window|window]]. Did it remain
@@ -59177,7 +59177,7 @@ defendant.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_04" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 4)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_04" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 4)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 Serjeant Buzfuz, who had proceeded with such volubility that his face
@@ -59293,7 +59293,7 @@ you!’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_05" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 5)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_05" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 5)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 Mr. Serjeant Buzfuz paused in this place, to see whether the jury smiled
@@ -59424,7 +59424,7 @@ further parley.
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_06" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 6)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_06" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 6)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘[[Nathaniel Winkle]]!’ said Mr. Skimpin.
@@ -59583,7 +59583,7 @@ effect?’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_07" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 7)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_07" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 7)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘I--I didn’t understand him so, certainly,’ said Mr. Winkle, astounded
@@ -59709,7 +59709,7 @@ did not know the difference between an ‘alley tor’ and a ‘commoney.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_08" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 8)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_08" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 8)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 By the _court_.--During the period of her keeping company with Mr.
@@ -59868,7 +59868,7 @@ Weller’?’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_09" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 9)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_09" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 9)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘Vith all the pleasure in life, sir,’ replied Sam. ‘Arter a few
@@ -60004,7 +60004,7 @@ expression, as he shook his head gravely, and said, in warning accents--
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_10" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 10)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_10" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 10)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘I know’d what ‘ud come o’ this here mode o’ doin’ bisness. Oh, Sammy,
@@ -60133,7 +60133,7 @@ and ruminated.
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_11" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 11)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_11" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 11)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘I [[Wonder|wonder]] whereabouts in Bath this coach puts up,’ said Mr. [[Pickwick]],
@@ -60254,7 +60254,7 @@ size, was the [[Magic|magic]] name of _Pickwick_!
 
 ‘Yes, but that ain’t all,’ said Sam, again directing his master’s
 attention to the coach door; ‘not content vith writin’ up “Pick-wick,”
- they puts “Moses” afore it, vich I call addin’ insult to injury, as the
+they puts “Moses” afore it, vich I call addin’ insult to injury, as the
 parrot said ven they not only took him from his native land, but made
 him talk the English langwidge arterwards.’
 
@@ -60288,7 +60288,7 @@ unprecedented.
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_12" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 12)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_12" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 12)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 Nothing worthy of special mention occurred during the [[Journey|journey]]. Mr.
@@ -60398,7 +60398,7 @@ autographs?’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_13" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 13)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_13" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 13)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 ‘I will,’ rejoined Dowler. ‘This is a long call. It’s [[Time|time]] to go. I
@@ -60527,7 +60527,7 @@ that he was greatly amused with something or other, walked merrily away.
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_14" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 14)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_14" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 14)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 At precisely twenty minutes before eight o’[[Clock|clock]] that [[Night|night]], [[Angelo]]
@@ -60661,7 +60661,7 @@ my pwogwess, to know if I wasn’t the post. Glorwious--glorwious!’
 
 
 
-<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_15" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 15)" data-chapter="Chapter 31 IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_is_wholly_devoted_to_a_full_an--part_15" data-title="The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 15)" data-chapter="IS WHOLLY DEVOTED TO A FULL AN" data-kind="excerpt"></span>
 
 
 At this anecdote his Lordship laughed very heartily, as did the
@@ -60756,7 +60756,7 @@ hot, went to bed, and to [[Sleep|sleep]], almost simultaneously.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_01" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 1)" data-chapter="Chapter 32 THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_01" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 1)" data-chapter="THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
 
 
 CHAPTER XXXVI. THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN
@@ -60867,7 +60867,7 @@ royal father, and his eyes were bedewed with [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_02" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 2)" data-chapter="Chapter 32 THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_02" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 2)" data-chapter="THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
 
 
 ‘This sagacious pig was fond of bathing in rich, moist mud. Not in
@@ -60980,7 +60980,7 @@ inclinations did not happen to point to the same quarter as their own.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_03" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 3)" data-chapter="Chapter 32 THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_03" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 3)" data-chapter="THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
 
 
 ‘When Prince Bladud had been shut up in the lofty turret for the greater
@@ -61093,7 +61093,7 @@ after everybody else has gone to bed, anything but a cheerful amusement.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_04" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 4)" data-chapter="Chapter 32 THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_chief_features_of_which_wi--part_04" data-title="The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 4)" data-chapter="THE CHIEF FEATURES OF WHICH WI" data-kind="excerpt"></span>
 
 
 This was just Mr. Dowler’s opinion, as he sat before the [[Fire|fire]], and felt
@@ -61266,7 +61266,7 @@ all this [[Time|time]]? We will state where he was, in the next chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_01" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 1)" data-chapter="Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_01" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 1)" data-chapter="HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
 
 
 CHAPTER XXXVII. HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY
@@ -61418,7 +61418,7 @@ and whistled far louder than before.
 
 
 
-<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_02" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 2)" data-chapter="Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_02" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 2)" data-chapter="HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
 
 
 ‘This way,’ said his new friend, apparently much relieved as they turned
@@ -61564,7 +61564,7 @@ satisfaction.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_03" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 3)" data-chapter="Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_03" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 3)" data-chapter="HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
 
 
 ‘No, you don’t, Sir,’ said Mr. Tuckle. ‘Very far from it, Sir.’
@@ -61711,7 +61711,7 @@ hear any remarks that the man in the long coat might wish to offer.
 
 
 
-<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_04" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 4)" data-chapter="Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_04" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 4)" data-chapter="HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
 
 
 ‘I feel a great delicacy, gentlemen, in coming for’ard,’ said the man in
@@ -61829,7 +61829,7 @@ own street-door, rang the bell, and walked quietly [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_05" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 5)" data-chapter="Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_honourably_accounts_for_mr_wel--part_05" data-title="The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 5)" data-chapter="HONOURABLY ACCOUNTS FOR MR WEL" data-kind="excerpt"></span>
 
 
 At a much earlier hour next morning than his usual [[Time|time]] of rising, Mr.
@@ -61939,7 +61939,7 @@ set forth on his pilgrimage with a light heart.
 
 
 
-<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_01" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 1)" data-chapter="Chapter 34 HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_01" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 1)" data-chapter="HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
 
 
 CHAPTER XXXVIII. HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,
@@ -62060,7 +62060,7 @@ a person than Mr. Benjamin Allen.
 
 
 
-<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_02" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 2)" data-chapter="Chapter 34 HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_02" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 2)" data-chapter="HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
 
 
 ‘[[Well]]!’ said Mr. Winkle. ‘This is indeed a pleasure I did not expect.
@@ -62201,7 +62201,7 @@ intoxication complete.
 
 
 
-<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_03" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 3)" data-chapter="Chapter 34 HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_03" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 3)" data-chapter="HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
 
 
 ‘My dear friend,’ said Mr. Ben Allen, taking advantage of Mr. Bob
@@ -62323,7 +62323,7 @@ and thus listened and looked on at the same [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_04" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 4)" data-chapter="Chapter 34 HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_04" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 4)" data-chapter="HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
 
 
 The mirth of Mr. Bob Sawyer was rapidly ripening into the furious, Mr.
@@ -62448,7 +62448,7 @@ responded the voice of the chambermaid.
 
 
 
-<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_05" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 5)" data-chapter="Chapter 34 HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_how_mr_winkle_when_he_stepped--part_05" data-title="The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 5)" data-chapter="HOW MR WINKLE WHEN HE STEPPED" data-kind="excerpt"></span>
 
 
 ‘A young man!’ exclaimed Mr. Winkle.
@@ -62579,7 +62579,7 @@ with the other inmates of the [[house]], buried in profound repose.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_01" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 1)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_01" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 1)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 CHAPTER XXXIX. MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF
@@ -62695,7 +62695,7 @@ to see you.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_02" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 2)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_02" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 2)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 The surly groom looked surlier still at this, but not sufficiently so to
@@ -62833,7 +62833,7 @@ this here Miss Arabella Allen.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_03" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 3)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_03" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 3)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘Miss who?’ said Mary, in great astonishment.
@@ -62961,7 +62961,7 @@ spirits artervards.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_04" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 4)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_04" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 4)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘Oh, what can I do to prevent these dreadful quarrels!’ exclaimed
@@ -63091,7 +63091,7 @@ gracious, what’s that?’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_05" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 5)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_05" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 5)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘That ‘ere blessed lantern ‘ull be the [[Death|death]] on us all,’ exclaimed Sam
@@ -63220,7 +63220,7 @@ part of the civilised globe.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_06" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 6)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_06" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 6)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 He threw himself back in his easy-chair, wrapped in contemplations of
@@ -63351,7 +63351,7 @@ nevertheless, which accorded both with the vehicle and his master.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_07" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 7)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_07" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 7)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 The master himself was a man of about forty, with black hair, and
@@ -63482,7 +63482,7 @@ which we have elsewhere adverted.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_08" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 8)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_08" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 8)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 The coach having turned into a very narrow and dark street, stopped
@@ -63599,7 +63599,7 @@ glancing at Mr. [[Pickwick]]’s countenance, could not forbear at the same
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_09" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 9)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_09" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 9)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘Perker,’ said Mr. [[Pickwick]], ‘let me hear no more of this, I beg. I see
@@ -63733,7 +63733,7 @@ raised in an apartment of such confined dimensions.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_10" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 10)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_10" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 10)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 Nor were the conversations of these gentlemen the only sounds that broke
@@ -63863,7 +63863,7 @@ visitors.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_11" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 11)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_11" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 11)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘[[Well]], Sam,’ said Mr. [[Pickwick]], ‘then I wish the artists would come.
@@ -63993,7 +63993,7 @@ means inviting, containing eight or nine iron bedsteads.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_12" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 12)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_12" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 12)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘There,’ said Mr. Roker, holding the door open, and looking triumphantly
@@ -64116,7 +64116,7 @@ that was force of habit.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_13" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 13)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_13" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 13)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 ‘Wy, that’s just the wery point as nobody never know’d,’ replied Sam.
@@ -64152,7 +64152,7 @@ afore I die; and if I ain’t struck with apoplexy, I’ll be back in five
 minits by the [[Clock|clock]].” “And wot ‘ud become o’ me if you _wos _struck with
 apoplexy?” said the turnkey. “Wy,” says the little creetur, “whoever
 found me, ‘ud bring me [[Home|home]], for I’ve got my card in my pocket, Bill,”
- he says, “No. 20, Coffee-room Flight”: and that wos true, sure enough,
+he says, “No. 20, Coffee-room Flight”: and that wos true, sure enough,
 for wen he wanted to make the acquaintance of any new-comer, he used to
 pull out a little limp card vith them words on it and nothin’ else; in
 consideration of vich, he vos alvays called Number Tventy. The turnkey
@@ -64222,7 +64222,7 @@ thoughts.
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_14" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 14)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_14" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 14)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 In this frame of mind he turned again into the coffee-room gallery, and
@@ -64331,7 +64331,7 @@ have the felicity of hanging up your nightcap, Sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_15" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 15)" data-chapter="Chapter 35 MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_mr_samuel_weller_being_intrust--part_15" data-title="The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 15)" data-chapter="MR SAMUEL WELLER BEING INTRUST" data-kind="excerpt"></span>
 
 
 With this, the speaker snatched that article of dress from Mr.
@@ -64511,7 +64511,7 @@ he had ‘done’ a bill and a gentleman at the same [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_01" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 1)" data-chapter="Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_01" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 1)" data-chapter="ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
 
 
 CHAPTER XLII. ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB,
@@ -64644,7 +64644,7 @@ seven, in the third.’
 
 
 
-<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_02" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 2)" data-chapter="Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_02" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 2)" data-chapter="ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
 
 
 ‘Oh,’ said Mr. [[Pickwick]]. ‘My what, did you say?’
@@ -64784,7 +64784,7 @@ looked like a drunken chaplain; which, indeed, he was.
 
 
 
-<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_03" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 3)" data-chapter="Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_03" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 3)" data-chapter="ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
 
 
 These two gentlemen having by turns perused Mr. [[Pickwick]]’s billet, the
@@ -64917,7 +64917,7 @@ didn’t know yet; he must go and see where he could move his bed to.
 
 
 
-<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_04" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 4)" data-chapter="Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_04" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 4)" data-chapter="ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
 
 
 ‘I am afraid, sir,’ said Mr. [[Pickwick]], laying his hand gently and
@@ -65029,7 +65029,7 @@ the Fleet.
 
 
 
-<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_05" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 5)" data-chapter="Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_05" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 5)" data-chapter="ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
 
 
 On the opposite side of the room an old man was seated on a small wooden
@@ -65161,7 +65161,7 @@ manner.
 
 
 
-<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_06" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 6)" data-chapter="Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_illustrative_like_the_precedin--part_06" data-title="The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB, (part 6)" data-chapter="ILLUSTRATIVE LIKE THE PRECEDIN" data-kind="excerpt"></span>
 
 
 ‘Have you seen Mr. Tupman and our other friends?’
@@ -65233,7 +65233,7 @@ Weller was gone.
 
 
 
-<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_01" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 1)" data-chapter="Chapter 37 SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_01" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 1)" data-chapter="SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
 
 
 CHAPTER XLIII. SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES
@@ -65349,7 +65349,7 @@ him!
 
 
 
-<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_02" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 2)" data-chapter="Chapter 37 SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_02" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 2)" data-chapter="SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
 
 
 ‘Vell, George,’ said Mr. Weller senior, taking off his upper coat, and
@@ -65497,7 +65497,7 @@ released his head and face.
 
 
 
-<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_03" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 3)" data-chapter="Chapter 37 SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_03" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 3)" data-chapter="SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
 
 
 ‘Samivel!’ exclaimed Mr. Weller, when he was thus enabled to behold his
@@ -65663,7 +65663,7 @@ he selected the required amount, which he handed over to Sam.
 
 
 
-<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_04" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 4)" data-chapter="Chapter 37 SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_04" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 4)" data-chapter="SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
 
 
 ‘And now, Sammy,’ said the old gentleman, when the whip-lashes, and the
@@ -65807,7 +65807,7 @@ Weller’s attention to the amount.
 
 
 
-<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_05" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 5)" data-chapter="Chapter 37 SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_showing_how_mr_samuel_weller_g--part_05" data-title="The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 5)" data-chapter="SHOWING HOW MR SAMUEL WELLER G" data-kind="excerpt"></span>
 
 
 ‘Thank you, thank you,’ said the professional gentleman, taking up
@@ -65917,7 +65917,7 @@ master’s face.
 
 
 
-<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_01" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 1)" data-chapter="Chapter 38 TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_01" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 1)" data-chapter="TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
 
 
 CHAPTER XLIV. TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE
@@ -66016,7 +66016,7 @@ and not the trousers to match. “Wot’s the matter?” says the doctor.
 “Wery ill,” says the patient. “Wot have you been a-eatin’ on?” says the
 doctor. “Roast weal,” says the patient. “Wot’s the last thing you
 dewoured?” says the doctor. “Crumpets,” says the patient. “That’s it!”
- says the doctor. “I’ll send you a box of pills directly, and don’t you
+says the doctor. “I’ll send you a box of pills directly, and don’t you
 never take no more of ‘em,” he says. “No more o’ wot?” says the patient-
 -“pills?” “No; crumpets,” says the doctor. “Wy?” says the patient,
 starting up in bed; “I’ve eat four crumpets, ev’ry [[Night|night]] for fifteen
@@ -66034,14 +66034,14 @@ at once?” says the patient. “I don’t know,” says the doctor. “Do you
 think half-a-[[Crown|crown]]’s wurth ‘ud do it?” says the patient. “I think it
 might,” says the doctor. “Three shillins’ wurth ‘ud be sure to do it, I
 s’pose?” says the patient. “Certainly,” says the doctor. “Wery good,”
- says the patient; “good-[[Night|night]].” Next mornin’ he gets up, has a [[Fire|fire]] lit,
+says the patient; “good-[[Night|night]].” Next mornin’ he gets up, has a [[Fire|fire]] lit,
 orders in three shillins’ wurth o’ crumpets, toasts ‘em all, eats ‘em
 all, and blows his brains out.’
 
 
 
 
-<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_02" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 2)" data-chapter="Chapter 38 TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_02" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 2)" data-chapter="TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
 
 
 ‘What did he do that for?’ inquired Mr. [[Pickwick]] abruptly; for he was
@@ -66191,7 +66191,7 @@ getting all the money, enters a caveat against it.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_03" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 3)" data-chapter="Chapter 38 TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_03" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 3)" data-chapter="TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
 
 
 What’s that?’ inquired Sam.
@@ -66315,7 +66315,7 @@ himself off.
 
 
 
-<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_04" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 4)" data-chapter="Chapter 38 TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_04" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 4)" data-chapter="TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
 
 
 ‘My dear friends,’ said Mr. [[Pickwick]], shaking hands alternately with Mr.
@@ -66455,7 +66455,7 @@ one moment in Mr. Winkle’s ear.
 
 
 
-<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_05" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 5)" data-chapter="Chapter 38 TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_treats_of_divers_little_matter--part_05" data-title="The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 5)" data-chapter="TREATS OF DIVERS LITTLE MATTER" data-kind="excerpt"></span>
 
 
 ‘Oh, certainly, depend upon me,’ said that gentleman aloud.
@@ -66587,7 +66587,7 @@ he died.
 
 
 
-<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_01" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 1)" data-chapter="Chapter 39 DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_01" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 1)" data-chapter="DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
 
 
 CHAPTER XLV. DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL
@@ -66731,7 +66731,7 @@ by.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_02" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 2)" data-chapter="Chapter 39 DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_02" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 2)" data-chapter="DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
 
 
 ‘You don’t mean that?’ said Sam.
@@ -66884,7 +66884,7 @@ three lumps of sugar to the tumbler.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_03" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 3)" data-chapter="Chapter 39 DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_03" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 3)" data-chapter="DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
 
 
 ‘Wery sorry to say, sir,’ said Sam, ‘that they don’t allow that
@@ -67011,7 +67011,7 @@ thought all this, but kept it to himself.
 
 
 
-<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_04" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 4)" data-chapter="Chapter 39 DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_04" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 4)" data-chapter="DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
 
 
 During the delivery of the oration, Mrs. Weller sobbed and wept at the
@@ -67153,7 +67153,7 @@ through his, and leading him away, without saying another word about it.
 
 
 
-<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_05" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 5)" data-chapter="Chapter 39 DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_05" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 5)" data-chapter="DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
 
 
 During the whole of this [[Time|time]] the countenance of Mr. Samuel Weller had
@@ -67298,7 +67298,7 @@ your room. You are tired, and not strong enough to be out long.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_06" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 6)" data-chapter="Chapter 39 DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_descriptive_of_an_affecting_in--part_06" data-title="The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 6)" data-chapter="DESCRIPTIVE OF AN AFFECTING IN" data-kind="excerpt"></span>
 
 
 Mr. [[Alfred Jingle]], without one spark of his old animation--with nothing
@@ -67423,7 +67423,7 @@ to alter one jot of his inflexible resolution.
 
 
 
-<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_01" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 1)" data-chapter="Chapter 40 RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_01" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 1)" data-chapter="RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
 
 
 CHAPTER XLVI. RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED
@@ -67575,7 +67575,7 @@ better.
 
 
 
-<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_02" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 2)" data-chapter="Chapter 40 RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_02" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 2)" data-chapter="RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
 
 
 ‘Ah, poor thing!’ said Mrs. Rogers, ‘I know what her feelin’s is, too
@@ -67703,7 +67703,7 @@ every hour in the day, ma’am?’
 
 
 
-<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_03" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 3)" data-chapter="Chapter 40 RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_03" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 3)" data-chapter="RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
 
 
 ‘My dear,’ remonstrated Mr. Raddle, ‘I didn’t mean anything, my dear.’
@@ -67847,7 +67847,7 @@ some [[Time|time]], by the stopping of the coach.
 
 
 
-<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_04" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 4)" data-chapter="Chapter 40 RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_records_a_touching_act_of_deli--part_04" data-title="The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 4)" data-chapter="RECORDS A TOUCHING ACT OF DELI" data-kind="excerpt"></span>
 
 
 ‘Bless us!’ said the lady. ‘Are we at Freeman’s [[Court]]?’
@@ -67919,7 +67919,7 @@ fainted in real downright earnest.
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_01" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 1)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_01" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 1)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 CHAPTER XLVII. IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE
@@ -68039,7 +68039,7 @@ alacrity by [[Sam Weller]].
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_02" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 2)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_02" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 2)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 ‘Mr. Perker, sir,’ said Sam, announcing the visitor to Mr. [[Pickwick]], who
@@ -68173,7 +68173,7 @@ elbow, and took snuff for two consecutive minutes, without winking.
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_03" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 3)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_03" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 3)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 ‘Is this all you have to say to me?’ inquired Mr. [[Pickwick]] mildly.
@@ -68290,7 +68290,7 @@ much [[Pride|pride]] and exultation, as if she had been his daughter.
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_04" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 4)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_04" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 4)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 ‘Delightful, my dear Sir,’ replied the little man. ‘If I were not a
@@ -68413,7 +68413,7 @@ condition.
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_05" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 5)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_05" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 5)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 At three o’[[Clock|clock]] that afternoon, Mr. [[Pickwick]] took a last look at his
@@ -68555,7 +68555,7 @@ afterwards, and kill him that way.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_06" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 6)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_06" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 6)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 Mr. Benjamin Allen gazed abstractedly on his friend for some minutes in
@@ -68692,7 +68692,7 @@ very painful and distressing.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_07" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 7)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_07" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 7)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 ‘You need not begin, ma’am,’ rejoined Mr. Bob Sawyer. ‘I can anticipate
@@ -68826,7 +68826,7 @@ rewivin’ and scientific inwention.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_08" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 8)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_08" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 8)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 ‘Strange sitivation for one o’ the family,’ observed [[Sam Weller]],
@@ -68956,7 +68956,7 @@ gen’l’m’n’s mind easy.
 
 
 
-<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_09" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 9)" data-chapter="Chapter 41 IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_is_chiefly_devoted_to_matters--part_09" data-title="The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 9)" data-chapter="IS CHIEFLY DEVOTED TO MATTERS" data-kind="excerpt"></span>
 
 
 A short pause followed these consolatory remarks of Mr. Weller. Then Mr.
@@ -69105,7 +69105,7 @@ landlord’s, and proceeded, in the words of the next chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_01" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 1)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_01" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 1)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 CHAPTER XLIX. CONTAINING THE STORY OF THE BAGMAN’S UNCLE
@@ -69223,7 +69223,7 @@ and, laying violent hands on his hat, sallied forth into the street.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_02" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 2)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_02" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 2)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘It was a wild, gusty [[Night|night]] when my uncle closed the bailie’s door, and
@@ -69322,7 +69322,7 @@ at that [[Time|time]] of [[Night|night]], they looked chill and dismal.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_03" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 3)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_03" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 3)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘My uncle rested his head upon his hands, and thought of the busy,
@@ -69445,7 +69445,7 @@ with his own eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_04" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 4)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_04" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 4)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘But, in this one glimpse of the beautiful face, my uncle saw that the
@@ -69501,7 +69501,7 @@ eyes earnestly fixed upon him too. He had never seen such a sea of white
 faces, red bodies, and earnest eyes, in all his born days.
 
 ‘“This is the strangest sort of thing I ever had anything to do with,”
- thought my uncle; “allow me to return you your hat, sir.”
+thought my uncle; “allow me to return you your hat, sir.”
 
 ‘The ill-looking gentleman received his three-cornered hat in [[Silence|silence]],
 looked at the hole in the middle with an inquiring air, and finally
@@ -69553,7 +69553,7 @@ the [[Wind|wind]] now?”
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_05" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 5)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_05" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 5)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘“Here!” cried my uncle.
@@ -69575,7 +69575,7 @@ man was inspecting the hole in the [[Crown|crown]] of his three-cornered hat. As
 the young lady brushed past, she dropped one of her gloves into my
 uncle’s hand, and softly whispered, with her lips so close to his face
 that he felt her warm breath on his nose, the single word “Help!”
- Gentlemen, my uncle leaped out of the coach at once, with such violence
+Gentlemen, my uncle leaped out of the coach at once, with such violence
 that it rocked on the springs again.
 
 ‘“Oh! you’ve thought better of it, have you?” said the guard, when he
@@ -69676,7 +69676,7 @@ wonders before, but now he began to powder away like a raving mad giant.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_06" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 6)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_06" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 6)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘At this very moment, the gentleman in sky-blue turning round, and
@@ -69801,7 +69801,7 @@ nothing. My uncle descended from his perch in a twinkling.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_07" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 7)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_07" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 7)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘“What is it, my dear?” said my uncle, looking in at the coach [[Window|window]].
@@ -69929,7 +69929,7 @@ very serious tone.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_08" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 8)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_08" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 8)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘Why not?’ asked Bob, in reply. ‘I shall save by it, you know. None of
@@ -70043,7 +70043,7 @@ triumph.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_09" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 9)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_09" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 9)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘Mr. Sawyer!’ cried Mr. [[Pickwick]], in a state of great excitement, ‘Mr.
@@ -70198,7 +70198,7 @@ five minutes he returned and declared them to be excellent.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_10" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 10)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_10" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 10)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 The quality of the lunch fully justified the eulogium which Bob had
@@ -70319,7 +70319,7 @@ along.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_11" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 11)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_11" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 11)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 About a quarter of a mile off, in a quiet, substantial-looking street,
@@ -70439,7 +70439,7 @@ at his two companions--‘and under such unfavourable circumstances.’
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_12" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 12)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_12" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 12)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 With this prelude, Mr. [[Pickwick]] placed four closely-written sides of
@@ -70571,7 +70571,7 @@ senior. ‘Once again, gentlemen, I wish you a good-[[Night|night]].’
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_13" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 13)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_13" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 13)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 Mr. [[Pickwick]] walked with angry strides into the street. Mr. Bob Sawyer,
@@ -70697,7 +70697,7 @@ takin’ his pleasure in this!’
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_14" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 14)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_14" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 14)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 Expatiating upon this learned and remarkable theory, and citing many
@@ -70832,7 +70832,7 @@ together was at once made and ratified.
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_15" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 15)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_15" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 15)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘And how are matters going on in Eatanswill?’ inquired Mr. [[Pickwick]],
@@ -70990,7 +70990,7 @@ we pen the words, _We will be there_.’
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_16" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 16)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_16" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 16)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘There, Sir,’ said Pott, folding up the paper quite exhausted, ‘that is
@@ -71133,7 +71133,7 @@ isn’t it?’
 
 
 
-<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_17" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 17)" data-chapter="Chapter 42 CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_containing_the_story_of_the_ba--part_17" data-title="The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE (part 17)" data-chapter="CONTAINING THE STORY OF THE BA" data-kind="excerpt"></span>
 
 
 ‘It really is,’ replied Mr. [[Pickwick]], shivering.
@@ -71325,7 +71325,7 @@ cleared up, the chaise companions once more turned their faces to
 
 
 
-<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_01" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 1)" data-chapter="Chapter 43 INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_01" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 1)" data-chapter="INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
 
 
 CHAPTER LII. INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE
@@ -71462,7 +71462,7 @@ Mary shook her head, and sighed too.
 
 
 
-<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_02" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 2)" data-chapter="Chapter 43 INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_02" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 2)" data-chapter="INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
 
 
 Mary sighed again--the letter was so very affecting.
@@ -71595,7 +71595,7 @@ gov’nor, ve must all come to it, one day or another.’
 
 
 
-<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_03" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 3)" data-chapter="Chapter 43 INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_03" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 3)" data-chapter="INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
 
 
 ‘So we must, Sammy,’ said Mr. Weller the elder.
@@ -71741,7 +71741,7 @@ follows--
 
 
 
-<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_04" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 4)" data-chapter="Chapter 43 INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_involving_a_serious_change_in--part_04" data-title="The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 4)" data-chapter="INVOLVING A SERIOUS CHANGE IN" data-kind="excerpt"></span>
 
 
 ‘Therefore, my boy, as I do not see the adwisability o’ stoppin here to
@@ -71922,7 +71922,7 @@ me in, and fill me a small glass of brandy. I’m out o’ breath, my boy.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_01" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 1)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_01" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 1)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 CHAPTER LIII. COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER,
@@ -72046,7 +72046,7 @@ Perker’s been about that business of yours, by the bye.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_02" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 2)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_02" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 2)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘What business?’ inquired Mr. [[Pickwick]]. ‘Mrs. Bardell’s costs?’
@@ -72190,7 +72190,7 @@ yours--a more humble one, whom I saw at Rochester?’
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_03" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 3)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_03" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 3)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘Dismal Jemmy?’ inquired Jingle.
@@ -72325,7 +72325,7 @@ inclining his pen in the direction where that gentleman was seated.
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_04" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 4)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_04" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 4)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘How do you do, Mr. [[Pickwick]]?’ said Dodson, in a loud voice.
@@ -72464,7 +72464,7 @@ to retreat towards the door with great expedition.
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_05" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 5)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_05" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 5)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘Take care, Sir,’ said Dodson, who, though he was the biggest man of the
@@ -72612,7 +72612,7 @@ the door, for [[Fear|fear]] I should go to [[Sleep|sleep]],’ said the boy.
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_06" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 6)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_06" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 6)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘[[Well]],’ said the clerk, ‘what message have you brought?’
@@ -72725,7 +72725,7 @@ you know.’
 gone to bed with a headache after she had read Arabella’s letter to me--
 sat herself down by my side the other evening, and began to talk over
 this [[Marriage|marriage]] affair. “[[Well]], pa,” she says, “what do you think of it?”
- “Why, my dear,” I said, “I suppose it’s all very [[Well|well]]; I [[Hope|hope]] it’s for
+“Why, my dear,” I said, “I suppose it’s all very [[Well|well]]; I [[Hope|hope]] it’s for
 the best.” I answered in this way because I was sitting before the [[Fire|fire]]
 at the [[Time|time]], drinking my grog rather thoughtfully, and I knew my
 throwing in an undecided word now and then, would induce her to continue
@@ -72759,7 +72759,7 @@ Mr. [[Pickwick]] started.
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_07" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 7)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_07" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 7)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘Nothing,’ replied Mr. [[Pickwick]]. ‘Pray go on.’
@@ -72890,7 +72890,7 @@ and Mr. [[Pickwick]] would return together to dinner at five o’[[Clock|clock]]
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_08" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 8)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_08" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 8)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 Charged with this message, the fat boy returned, slumbering as peaceably
@@ -73048,7 +73048,7 @@ took out one of the half-crowns and glanced at it nervously.
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_09" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 9)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_09" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 9)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘Don’t you understand me?’ said Mary, looking slily in his fat face.
@@ -73182,7 +73182,7 @@ winking, with redoubled assiduity.
 
 
 
-<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_10" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 10)" data-chapter="Chapter 44 COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_comprising_the_final_exit_of_m--part_10" data-title="The Pickwick Papers — Chapter 53: COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER, (part 10)" data-chapter="COMPRISING THE FINAL EXIT OF M" data-kind="excerpt"></span>
 
 
 ‘No, sir,’ replied the fat boy.
@@ -73372,7 +73372,7 @@ very silent, Mr. Winkle very talkative, and all of them very happy.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_01" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 1)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_01" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 1)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 CHAPTER LV. MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF
@@ -73503,7 +73503,7 @@ Pell’s immediate attendance.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_02" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 2)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_02" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 2)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 The messenger fortunately found Mr. Solomon Pell in [[Court|court]], regaling
@@ -73535,8 +73535,8 @@ ill effects on the constitution of his noble friend.
 ‘I don’t think he ever quite recovered them,’ replied Pell; ‘in fact I’m
 sure he never did. “Pell,” he used to say to me many a [[Time|time]], “how the
 blazes you can stand the head-work you do, is a mystery to me.”--“[[Well]],”
- I used to answer, “I hardly know how I do it, upon my life.”--“Pell,”
- he’d add, sighing, and looking at me with a little envy--friendly envy,
+I used to answer, “I hardly know how I do it, upon my life.”--“Pell,”
+he’d add, sighing, and looking at me with a little envy--friendly envy,
 you know, gentlemen, mere friendly envy; I never minded it--“Pell,
 you’re a [[Wonder|wonder]]; a [[Wonder|wonder]].” Ah! you’d have liked him very much if you
 had known him, gentlemen. Bring me three-penn’orth of rum, my dear.’
@@ -73630,7 +73630,7 @@ executor, I see,’ he added, casting his eyes over the paper.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_03" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 3)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_03" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 3)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 ‘I am, sir,’ replied Mr. Weller.
@@ -73756,7 +73756,7 @@ healths, gentlemen.’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_04" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 4)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_04" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 4)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 With this expression of his feelings, Mr. Solomon Pell laid three small
@@ -73906,7 +73906,7 @@ system; they’re alvays a-doin’ it here, all day long!’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_05" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 5)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_05" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 5)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 Mr. Weller and his friends had scarcely had a moment to reflect upon
@@ -74030,7 +74030,7 @@ Mr. Weller?’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_06" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 6)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_06" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 6)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 ‘Wery hearty, thank’ee, sir,’ replied the widower; ‘[[Hope|hope]] I see you [[Well|well]],
@@ -74177,7 +74177,7 @@ desperate!’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_07" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 7)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_07" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 7)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 ‘You’d better not,’ replied Sam.
@@ -74329,7 +74329,7 @@ your father; and finding that he is of my opinion--’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_08" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 8)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_08" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 8)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 ‘The lady not bein’ a widder,’ interposed Mr. Weller in explanation.
@@ -74480,7 +74480,7 @@ that she began to feel alarmed.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_09" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 9)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_09" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 9)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 ‘No, sir,’ she replied timidly.
@@ -74643,7 +74643,7 @@ thus absented himself from the society of his admiring friends.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_10" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 10)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_10" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 10)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 With this view, Mr. Wardle invited the full circle to dinner at the
@@ -74753,7 +74753,7 @@ upon the [[Road|road]].
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_11" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 11)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_11" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 11)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 In addition to these points of distraction, Wardle was intrusted with
@@ -74865,7 +74865,7 @@ never proposed again.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_12" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 12)" data-chapter="Chapter 45 MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_solomon_pell_assisted_by_a--part_12" data-title="The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 12)" data-chapter="MR SOLOMON PELL ASSISTED BY A" data-kind="excerpt"></span>
 
 
 Mr. Bob Sawyer, having previously passed through the _Gazette_, passed

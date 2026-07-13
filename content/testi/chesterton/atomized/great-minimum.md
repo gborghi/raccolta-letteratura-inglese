@@ -46,7 +46,7 @@ Yea, blessed are our eyes for they have seen:
 Let the thunder break on man and beast and bird  
 And the [[Lightning|lightning]]. It is something to have been.  
 
-		  G.K.Chesterton
+G.K.Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -122,7 +122,7 @@ Yea, blessed are our eyes for they have seen:
 Let the thunder break on man and beast and bird  
 And the [[Lightning|lightning]]. It is something to have been.  
 
-		  G.K.Chesterton
+G.K.Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>

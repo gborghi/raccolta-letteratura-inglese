@@ -25,74 +25,74 @@ CHARLES DICKENS
 
 CONTENTS
 
-            Preface
-         I. In Chancery
-        II. In Fashion
-       III. A Progress
-        IV. Telescopic Philanthropy
-         V. A Morning Adventure
-        VI. Quite at [[Home]]
-       VII. The [[Ghost]]’s Walk
-      VIII. Covering a Multitude of Sins
-        IX. Signs and Tokens
-         X. The Law-Writer
-        XI. Our Dear Brother
-       XII. On the Watch
-      XIII. Esther’s Narrative
-       XIV. Deportment
-        XV. Bell Yard
-       XVI. Tom-all-[[Alone]]’s
-      XVII. Esther’s Narrative
-     XVIII. [[Lady Dedlock]]
-       XIX. Moving On
-        XX. A New Lodger
-       XXI. The Smallweed Family
-      XXII. Mr. Bucket
-     XXIII. Esther’s Narrative
-      XXIV. An Appeal Case
-       XXV. Mrs. Snagsby Sees It All
-      XXVI. Sharpshooters
-     XXVII. More Old Soldiers Than One
-    XXVIII. The Ironmaster
-      XXIX. The Young Man
-       XXX. Esther’s Narrative
-      XXXI. [[Nurse]] and Patient
-     XXXII. The Appointed [[Time]]
-    XXXIII. Interlopers
-     XXXIV. A Turn of the Screw
-      XXXV. Esther’s Narrative
-     XXXVI. Chesney Wold
-    XXXVII. Jarndyce and Jarndyce
-   XXXVIII. A Struggle
-     XXXIX. Attorney and Client
-        XL. National and Domestic
-       XLI. In Mr. Tulkinghorn’s Room
-      XLII. In Mr. Tulkinghorn’s Chambers
-     XLIII. Esther’s Narrative
-      XLIV. The Letter and the Answer
-       XLV. In Trust
-      XLVI. Stop Him!
-     XLVII. Jo’s Will
-    XLVIII. Closing In
-      XLIX. Dutiful [[Friendship]]
-         L. Esther’s Narrative
-        LI. Enlightened
-       LII. Obstinacy
-      LIII. The Track
-       LIV. Springing a Mine
-        LV. Flight
-       LVI. Pursuit
-      LVII. Esther’s Narrative
-     LVIII. A Wintry Day and [[Night]]
-       LIX. Esther’s Narrative
-        LX. Perspective
-       LXI. A Discovery
-      LXII. Another Discovery
-     LXIII. Steel and Iron
-      LXIV. Esther’s Narrative
-       LXV. Beginning the World
-      LXVI. Down in Lincolnshire
-     LXVII. The Close of Esther’s Narrative
+Preface
+I. In Chancery
+II. In Fashion
+III. A Progress
+IV. Telescopic Philanthropy
+V. A Morning Adventure
+VI. Quite at [[Home]]
+VII. The [[Ghost]]’s Walk
+VIII. Covering a Multitude of Sins
+IX. Signs and Tokens
+X. The Law-Writer
+XI. Our Dear Brother
+XII. On the Watch
+XIII. Esther’s Narrative
+XIV. Deportment
+XV. Bell Yard
+XVI. Tom-all-[[Alone]]’s
+XVII. Esther’s Narrative
+XVIII. [[Lady Dedlock]]
+XIX. Moving On
+XX. A New Lodger
+XXI. The Smallweed Family
+XXII. Mr. Bucket
+XXIII. Esther’s Narrative
+XXIV. An Appeal Case
+XXV. Mrs. Snagsby Sees It All
+XXVI. Sharpshooters
+XXVII. More Old Soldiers Than One
+XXVIII. The Ironmaster
+XXIX. The Young Man
+XXX. Esther’s Narrative
+XXXI. [[Nurse]] and Patient
+XXXII. The Appointed [[Time]]
+XXXIII. Interlopers
+XXXIV. A Turn of the Screw
+XXXV. Esther’s Narrative
+XXXVI. Chesney Wold
+XXXVII. Jarndyce and Jarndyce
+XXXVIII. A Struggle
+XXXIX. Attorney and Client
+XL. National and Domestic
+XLI. In Mr. Tulkinghorn’s Room
+XLII. In Mr. Tulkinghorn’s Chambers
+XLIII. Esther’s Narrative
+XLIV. The Letter and the Answer
+XLV. In Trust
+XLVI. Stop Him!
+XLVII. Jo’s Will
+XLVIII. Closing In
+XLIX. Dutiful [[Friendship]]
+L. Esther’s Narrative
+LI. Enlightened
+LII. Obstinacy
+LIII. The Track
+LIV. Springing a Mine
+LV. Flight
+LVI. Pursuit
+LVII. Esther’s Narrative
+LVIII. A Wintry Day and [[Night]]
+LIX. Esther’s Narrative
+LX. Perspective
+LXI. A Discovery
+LXII. Another Discovery
+LXIII. Steel and Iron
+LXIV. Esther’s Narrative
+LXV. Beginning the World
+LXVI. Down in Lincolnshire
+LXVII. The Close of Esther’s Narrative
 
 
 
@@ -118,9 +118,9 @@ Mr. Vholes, with one or other of whom I think it must have
 originated. In such mouths I might have coupled it with an apt
 quotation from one of Shakespeare’s sonnets:
 
-                     “My [[Nature|nature]] is subdued
-   To what it works in, like the dyer’s hand:
-   Pity me, then, and wish I were renewed!”
+“My [[Nature|nature]] is subdued
+To what it works in, like the dyer’s hand:
+Pity me, then, and wish I were renewed!”
 
 But as it is wholesome that the parsimonious public should know what
 has been doing, and still is doing, in this connexion, I mention here
@@ -180,14 +180,14 @@ familiar things.
 1853
 
 
-   *Transcriber’s note. This referred to a specific page in
-    the printed book. In this Project Gutenberg edition the
-    pertinent information is in Chapter XXX, paragraph 90.
+*Transcriber’s note. This referred to a specific page in
+the printed book. In this Project Gutenberg edition the
+pertinent information is in Chapter XXX, paragraph 90.
 
-   ** Another case, very clearly described by a dentist,
-    occurred at the town of [[Columbus]], in the United States
-    of [[america|America]], quite recently. The subject was a German who
-    kept a liquor-shop and was an inveterate drunkard.
+** Another case, very clearly described by a dentist,
+occurred at the town of [[Columbus]], in the United States
+of [[america|America]], quite recently. The subject was a German who
+kept a liquor-shop and was an inveterate drunkard.
 
 
 
@@ -1303,29 +1303,29 @@ looking-glass, every stage of my own growth and change there, when,
 one November morning, I received this letter. I omit the date.
 
 
-   Old Square, [[Lincoln]]’s Inn
+Old Square, [[Lincoln]]’s Inn
 
-   Madam,
+Madam,
 
-   Jarndyce and Jarndyce
+Jarndyce and Jarndyce
 
-   Our clt Mr. Jarndyce being abt to rece into his [[house]],
-   under an Order of the Ct of Chy, a Ward of the Ct in this
-   cause, for whom he wishes to secure an elgble compn,
-   directs us to inform you that he will be glad of your
-   serces in the afsd capacity.
+Our clt Mr. Jarndyce being abt to rece into his [[house]],
+under an Order of the Ct of Chy, a Ward of the Ct in this
+cause, for whom he wishes to secure an elgble compn,
+directs us to inform you that he will be glad of your
+serces in the afsd capacity.
 
-   We have arrngd for your being forded, carriage free, pr
-   eight o’[[Clock|clock]] coach from Reading, on Monday morning next,
-   to White [[Horse]] Cellar, Piccadilly, [[London]], where one of
-   our clks will be in waiting to convey you to our offe as
-   above.
+We have arrngd for your being forded, carriage free, pr
+eight o’[[Clock|clock]] coach from Reading, on Monday morning next,
+to White [[Horse]] Cellar, Piccadilly, [[London]], where one of
+our clks will be in waiting to convey you to our offe as
+above.
 
-   We are, Madam, Your obedt Servts,
+We are, Madam, Your obedt Servts,
 
-   Kenge and Carboy
+Kenge and Carboy
 
-   Miss [[Esther Summerson]]
+Miss [[Esther Summerson]]
 
 
 Oh, never, never, never shall I forget the emotion this letter caused
@@ -2881,13 +2881,13 @@ We opened the notes. Each was a counterpart of the other and
 contained these words in a solid, plain hand.
 
 
-   I look forward, my dear, to our meeting easily and
-   without constraint on either side. I therefore have to
-   propose that we meet as old friends and take the past for
-   granted. It will be a relief to you possibly, and to me
-   certainly, and so my [[Love|love]] to you.
+I look forward, my dear, to our meeting easily and
+without constraint on either side. I therefore have to
+propose that we meet as old friends and take the past for
+granted. It will be a relief to you possibly, and to me
+certainly, and so my [[Love|love]] to you.
 
-   [[John Jarndyce]]
+[[John Jarndyce]]
 
 
 I had perhaps less reason to be surprised than either of my
@@ -4495,8 +4495,8 @@ my dear,” he returned playfully; “the little old woman of the [[Child|child]
 (I don’t mean Skimpole’s) rhyme:
 
 
-   “‘Little old woman, and whither so high?’
-    ‘To sweep the cobwebs out of the sky.’”
+“‘Little old woman, and whither so high?’
+‘To sweep the cobwebs out of the sky.’”
 
 
 “You will sweep them so neatly out of OUR sky in the course of your
@@ -12219,8 +12219,8 @@ because you are capable of profiting by this discourse which I now
 deliver for your good, because you are not a stick, or a staff, or a
 stock, or a stone, or a post, or a pillar.
 
-   O running stream of sparkling joy
-   To be a soaring human boy!
+O running stream of sparkling joy
+To be a soaring human boy!
 
 And do you cool yourself in that stream now, my young friend? No.
 Why do you not cool yourself in that stream now? Because you are in a
@@ -19786,8 +19786,8 @@ drawing-room he said he would give us a little ballad which had come
 into his head “apropos of our young friend,” and he sang one about a
 peasant boy,
 
-   “Thrown on the wide world, doomed to wander and roam,
-    Bereft of his parents, bereft of a [[Home|home]].”
+“Thrown on the wide world, doomed to wander and roam,
+Bereft of his parents, bereft of a [[Home|home]].”
 
 quite exquisitely. It was a [[Song|song]] that always made him cry, he told
 us.
@@ -23964,52 +23964,52 @@ natural and loving in my dear!—and she presently wrote him this
 little letter:
 
 
-   My dearest cousin,
+My dearest cousin,
 
-   Esther has told me all you said to her this morning. I
-   write this to repeat most earnestly for myself all that
-   she said to you and to let you know how sure I am that
-   you will sooner or later find our cousin John a pattern
-   of [[Truth|truth]], sincerity, and goodness, when you will deeply,
-   deeply grieve to have done him (without intending it) so
-   much wrong.
+Esther has told me all you said to her this morning. I
+write this to repeat most earnestly for myself all that
+she said to you and to let you know how sure I am that
+you will sooner or later find our cousin John a pattern
+of [[Truth|truth]], sincerity, and goodness, when you will deeply,
+deeply grieve to have done him (without intending it) so
+much wrong.
 
-   I do not quite know how to write what I wish to say next,
-   but I trust you will understand it as I mean it. I have
-   some fears, my dearest cousin, that it may be partly for
-   my sake you are now laying up so much unhappiness for
-   yourself—and if for yourself, for me. In case this should
-   be so, or in case you should entertain much thought of me
-   in what you are doing, I most earnestly entreat and beg
-   you to desist. You can do nothing for my sake that will
-   make me half so happy as for ever turning your back upon
-   the [[Shadow|shadow]] in which we both were born. Do not be angry
-   with me for saying this. Pray, pray, dear [[Richard]], for my
-   sake, and for your own, and in a natural repugnance for
-   that source of trouble which had its share in making us
-   both orphans when we were very young, pray, pray, let it
-   go for ever. We have reason to know by this [[Time|time]] that
-   there is no good in it and no [[Hope|hope]], that there is nothing
-   to be got from it but sorrow.
+I do not quite know how to write what I wish to say next,
+but I trust you will understand it as I mean it. I have
+some fears, my dearest cousin, that it may be partly for
+my sake you are now laying up so much unhappiness for
+yourself—and if for yourself, for me. In case this should
+be so, or in case you should entertain much thought of me
+in what you are doing, I most earnestly entreat and beg
+you to desist. You can do nothing for my sake that will
+make me half so happy as for ever turning your back upon
+the [[Shadow|shadow]] in which we both were born. Do not be angry
+with me for saying this. Pray, pray, dear [[Richard]], for my
+sake, and for your own, and in a natural repugnance for
+that source of trouble which had its share in making us
+both orphans when we were very young, pray, pray, let it
+go for ever. We have reason to know by this [[Time|time]] that
+there is no good in it and no [[Hope|hope]], that there is nothing
+to be got from it but sorrow.
 
-   My dearest cousin, it is needless for me to say that you
-   are quite free and that it is very likely you may find
-   some one whom you will [[Love|love]] much better than your first
-   fancy. I am quite sure, if you will let me say so, that
-   the object of your choice would greatly prefer to follow
-   your fortunes far and wide, however moderate or poor, and
-   see you happy, doing your duty and pursuing your chosen
-   way, than to have the [[Hope|hope]] of being, or even to be, very
-   rich with you (if such a thing were possible) at the cost
-   of dragging years of procrastination and anxiety and of
-   your indifference to other aims. You may [[Wonder|wonder]] at my
-   saying this so confidently with so little knowledge or
-   experience, but I know it for a certainty from my own
-   heart.
+My dearest cousin, it is needless for me to say that you
+are quite free and that it is very likely you may find
+some one whom you will [[Love|love]] much better than your first
+fancy. I am quite sure, if you will let me say so, that
+the object of your choice would greatly prefer to follow
+your fortunes far and wide, however moderate or poor, and
+see you happy, doing your duty and pursuing your chosen
+way, than to have the [[Hope|hope]] of being, or even to be, very
+rich with you (if such a thing were possible) at the cost
+of dragging years of procrastination and anxiety and of
+your indifference to other aims. You may [[Wonder|wonder]] at my
+saying this so confidently with so little knowledge or
+experience, but I know it for a certainty from my own
+heart.
 
-   Ever, my dearest cousin, your most affectionate
+Ever, my dearest cousin, your most affectionate
 
-   Ada
+Ada
 
 
 This note brought [[Richard]] to us very soon, but it made little change
@@ -34400,27 +34400,27 @@ She hurriedly addresses these lines to her husband, seals, and [[Leaves|leaves]]
 them on her table:
 
 
-   If I am sought for, or accused of, his murder, believe
-   that I am wholly [[Innocent|innocent]]. Believe no other good of me,
-   for I am [[Innocent|innocent]] of nothing else that you have heard,
-   or will hear, laid to my charge. He prepared me, on that
-   fatal [[Night|night]], for his disclosure of my [[Guilt|guilt]] to you. After
-   he had left me, I went out on pretence of walking in the
-   [[Garden|garden]] where I sometimes walk, but really to follow him
-   and make one last petition that he would not protract the
-   dreadful suspense on which I have been racked by him, you
-   do not know how long, but would mercifully strike next
-   morning.
+If I am sought for, or accused of, his murder, believe
+that I am wholly [[Innocent|innocent]]. Believe no other good of me,
+for I am [[Innocent|innocent]] of nothing else that you have heard,
+or will hear, laid to my charge. He prepared me, on that
+fatal [[Night|night]], for his disclosure of my [[Guilt|guilt]] to you. After
+he had left me, I went out on pretence of walking in the
+[[Garden|garden]] where I sometimes walk, but really to follow him
+and make one last petition that he would not protract the
+dreadful suspense on which I have been racked by him, you
+do not know how long, but would mercifully strike next
+morning.
 
-   I found his [[house]] dark and silent. I rang twice at his
-   door, but there was no reply, and I came [[Home|home]].
+I found his [[house]] dark and silent. I rang twice at his
+door, but there was no reply, and I came [[Home|home]].
 
-   I have no [[Home|home]] left. I will encumber you no more. May
-   you, in your just resentment, be able to forget the
-   unworthy woman on whom you have wasted a most generous
-   devotion—who avoids you only with a deeper shame than
-   that with which she hurries from herself—and who writes
-   this last adieu.
+I have no [[Home|home]] left. I will encumber you no more. May
+you, in your just resentment, be able to forget the
+unworthy woman on whom you have wasted a most generous
+devotion—who avoids you only with a deeper shame than
+that with which she hurries from herself—and who writes
+this last adieu.
 
 
 She veils and dresses quickly, [[Leaves|leaves]] all her jewels and her money,
@@ -36587,14 +36587,14 @@ It had been written in portions, at different times. I read what
 follows:
 
 
-   I came to the cottage with two objects. First, to see the
-   dear one, if I could, once more—but only to see her—not
-   to speak to her or let her know that I was near. The other
-   object, to elude pursuit and to be lost. Do not blame the
-   mother for her share. The assistance that she rendered me,
-   she rendered on my strongest assurance that it was for the
-   dear one’s good. You remember her dead [[Child|child]]. The men’s
-   consent I bought, but her help was freely given.
+I came to the cottage with two objects. First, to see the
+dear one, if I could, once more—but only to see her—not
+to speak to her or let her know that I was near. The other
+object, to elude pursuit and to be lost. Do not blame the
+mother for her share. The assistance that she rendered me,
+she rendered on my strongest assurance that it was for the
+dear one’s good. You remember her dead [[Child|child]]. The men’s
+consent I bought, but her help was freely given.
 
 
 “‘I came.’ That was written,” said my companion, “when she rested
@@ -36603,14 +36603,14 @@ there. It bears out what I made of it. I was right.”
 The next was written at another [[Time|time]]:
 
 
-   I have wandered a long distance, and for many hours, and
-   I know that I must soon die. These streets! I have no
-   purpose but to die. When I left, I had a worse, but I am
-   saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
-   fatigue are sufficient causes for my being found dead, but
-   I shall die of others, though I suffer from these. It was
-   right that all that had sustained me should give way at
-   once and that I should die of terror and my [[Conscience|conscience]].
+I have wandered a long distance, and for many hours, and
+I know that I must soon die. These streets! I have no
+purpose but to die. When I left, I had a worse, but I am
+saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
+fatigue are sufficient causes for my being found dead, but
+I shall die of others, though I suffer from these. It was
+right that all that had sustained me should give way at
+once and that I should die of terror and my [[Conscience|conscience]].
 
 
 “Take [[Courage|courage]],” said Mr. Bucket. “There’s only a few words more.”
@@ -36619,11 +36619,11 @@ Those, too, were written at another [[Time|time]]. To all appearance, almost
 in the dark:
 
 
-   I have done all I could do to be lost. I shall be soon
-   forgotten so, and shall disgrace him least. I have nothing
-   about me by which I can be recognized. This paper I part
-   with now. The place where I shall lie down, if I can get
-   so far, has been often in my mind. Farewell. Forgive.
+I have done all I could do to be lost. I shall be soon
+forgotten so, and shall disgrace him least. I have nothing
+about me by which I can be recognized. This paper I part
+with now. The place where I shall lie down, if I can get
+so far, has been often in my mind. Farewell. Forgive.
 
 
 Mr. Bucket, supporting me with his arm, lowered me gently into my
@@ -38615,43 +38615,43 @@ Herewith he hands a letter, closely written in somewhat pale ink but
 in a neat round hand, to the ironmaster, who reads as follows:
 
 
-   Miss [[Esther Summerson]],
+Miss [[Esther Summerson]],
 
-   A communication having been made to me by [[Inspector Bucket]]
-   of a letter to myself being found among the papers of a
-   certain person, I take the liberty to make known to you
-   that it was but a few lines of instruction from abroad,
-   when, where, and how to deliver an enclosed letter to a
-   young and beautiful lady, then unmarried, in England. I
-   duly observed the same.
+A communication having been made to me by [[Inspector Bucket]]
+of a letter to myself being found among the papers of a
+certain person, I take the liberty to make known to you
+that it was but a few lines of instruction from abroad,
+when, where, and how to deliver an enclosed letter to a
+young and beautiful lady, then unmarried, in England. I
+duly observed the same.
 
-   I further take the liberty to make known to you that it
-   was got from me as a proof of handwriting only and that
-   otherwise I would not have given it up, as appearing to
-   be the most harmless in my possession, without being
-   previously shot through the heart.
+I further take the liberty to make known to you that it
+was got from me as a proof of handwriting only and that
+otherwise I would not have given it up, as appearing to
+be the most harmless in my possession, without being
+previously shot through the heart.
 
-   I further take the liberty to mention that if I could have
-   supposed a certain unfortunate gentleman to have been in
-   existence, I never could and never would have rested until
-   I had discovered his retreat and shared my last farthing
-   with him, as my duty and my inclination would have equally
-   been. But he was (officially) reported drowned, and
-   assuredly went over the side of a transport-[[Ship|ship]] at [[Night|night]]
-   in an Irish harbour within a few hours of her arrival from
-   the West Indies, as I have myself heard both from officers
-   and men on board, and know to have been (officially)
-   confirmed.
+I further take the liberty to mention that if I could have
+supposed a certain unfortunate gentleman to have been in
+existence, I never could and never would have rested until
+I had discovered his retreat and shared my last farthing
+with him, as my duty and my inclination would have equally
+been. But he was (officially) reported drowned, and
+assuredly went over the side of a transport-[[Ship|ship]] at [[Night|night]]
+in an Irish harbour within a few hours of her arrival from
+the West Indies, as I have myself heard both from officers
+and men on board, and know to have been (officially)
+confirmed.
 
-   I further take the liberty to state that in my humble
-   quality as one of the rank and file, I am, and shall ever
-   continue to be, your thoroughly devoted and admiring
-   servant and that I esteem the qualities you possess above
-   all others far beyond the limits of the present dispatch.
+I further take the liberty to state that in my humble
+quality as one of the rank and file, I am, and shall ever
+continue to be, your thoroughly devoted and admiring
+servant and that I esteem the qualities you possess above
+all others far beyond the limits of the present dispatch.
 
-   I have the [[Honour|honour]] to be,
+I have the [[Honour|honour]] to be,
 
-   GEORGE
+GEORGE
 
 
 “A little formal,” observes the elder brother, refolding it with a
@@ -41371,29 +41371,29 @@ looking-glass, every stage of my own growth and change there, when,
 one November morning, I received this letter. I omit the date.
 
 
-   Old Square, [[Lincoln]]’s Inn
+Old Square, [[Lincoln]]’s Inn
 
-   Madam,
+Madam,
 
-   Jarndyce and Jarndyce
+Jarndyce and Jarndyce
 
-   Our clt Mr. Jarndyce being abt to rece into his [[house]],
-   under an Order of the Ct of Chy, a Ward of the Ct in this
-   cause, for whom he wishes to secure an elgble compn,
-   directs us to inform you that he will be glad of your
-   serces in the afsd capacity.
+Our clt Mr. Jarndyce being abt to rece into his [[house]],
+under an Order of the Ct of Chy, a Ward of the Ct in this
+cause, for whom he wishes to secure an elgble compn,
+directs us to inform you that he will be glad of your
+serces in the afsd capacity.
 
-   We have arrngd for your being forded, carriage free, pr
-   eight o’[[Clock|clock]] coach from Reading, on Monday morning next,
-   to White [[Horse]] Cellar, Piccadilly, [[London]], where one of
-   our clks will be in waiting to convey you to our offe as
-   above.
+We have arrngd for your being forded, carriage free, pr
+eight o’[[Clock|clock]] coach from Reading, on Monday morning next,
+to White [[Horse]] Cellar, Piccadilly, [[London]], where one of
+our clks will be in waiting to convey you to our offe as
+above.
 
-   We are, Madam, Your obedt Servts,
+We are, Madam, Your obedt Servts,
 
-   Kenge and Carboy
+Kenge and Carboy
 
-   Miss [[Esther Summerson]]
+Miss [[Esther Summerson]]
 
 
 Oh, never, never, never shall I forget the emotion this letter caused
@@ -43012,13 +43012,13 @@ We opened the notes. Each was a counterpart of the other and
 contained these words in a solid, plain hand.
 
 
-   I look forward, my dear, to our meeting easily and
-   without constraint on either side. I therefore have to
-   propose that we meet as old friends and take the past for
-   granted. It will be a relief to you possibly, and to me
-   certainly, and so my [[Love|love]] to you.
+I look forward, my dear, to our meeting easily and
+without constraint on either side. I therefore have to
+propose that we meet as old friends and take the past for
+granted. It will be a relief to you possibly, and to me
+certainly, and so my [[Love|love]] to you.
 
-   [[John Jarndyce]]
+[[John Jarndyce]]
 
 
 I had perhaps less reason to be surprised than either of my
@@ -44704,8 +44704,8 @@ my dear,” he returned playfully; “the little old woman of the [[Child|child]
 (I don’t mean Skimpole’s) rhyme:
 
 
-   “‘Little old woman, and whither so high?’
-    ‘To sweep the cobwebs out of the sky.’”
+“‘Little old woman, and whither so high?’
+‘To sweep the cobwebs out of the sky.’”
 
 
 “You will sweep them so neatly out of OUR sky in the course of your
@@ -52773,8 +52773,8 @@ because you are capable of profiting by this discourse which I now
 deliver for your good, because you are not a stick, or a staff, or a
 stock, or a stone, or a post, or a pillar.
 
-   O running stream of sparkling joy
-   To be a soaring human boy!
+O running stream of sparkling joy
+To be a soaring human boy!
 
 And do you cool yourself in that stream now, my young friend? No.
 Why do you not cool yourself in that stream now? Because you are in a
@@ -60670,8 +60670,8 @@ drawing-room he said he would give us a little ballad which had come
 into his head “apropos of our young friend,” and he sang one about a
 peasant boy,
 
-   “Thrown on the wide world, doomed to wander and roam,
-    Bereft of his parents, bereft of a [[Home|home]].”
+“Thrown on the wide world, doomed to wander and roam,
+Bereft of his parents, bereft of a [[Home|home]].”
 
 quite exquisitely. It was a [[Song|song]] that always made him cry, he told
 us.
@@ -65040,52 +65040,52 @@ natural and loving in my dear!—and she presently wrote him this
 little letter:
 
 
-   My dearest cousin,
+My dearest cousin,
 
-   Esther has told me all you said to her this morning. I
-   write this to repeat most earnestly for myself all that
-   she said to you and to let you know how sure I am that
-   you will sooner or later find our cousin John a pattern
-   of [[Truth|truth]], sincerity, and goodness, when you will deeply,
-   deeply grieve to have done him (without intending it) so
-   much wrong.
+Esther has told me all you said to her this morning. I
+write this to repeat most earnestly for myself all that
+she said to you and to let you know how sure I am that
+you will sooner or later find our cousin John a pattern
+of [[Truth|truth]], sincerity, and goodness, when you will deeply,
+deeply grieve to have done him (without intending it) so
+much wrong.
 
-   I do not quite know how to write what I wish to say next,
-   but I trust you will understand it as I mean it. I have
-   some fears, my dearest cousin, that it may be partly for
-   my sake you are now laying up so much unhappiness for
-   yourself—and if for yourself, for me. In case this should
-   be so, or in case you should entertain much thought of me
-   in what you are doing, I most earnestly entreat and beg
-   you to desist. You can do nothing for my sake that will
-   make me half so happy as for ever turning your back upon
-   the [[Shadow|shadow]] in which we both were born. Do not be angry
-   with me for saying this. Pray, pray, dear [[Richard]], for my
-   sake, and for your own, and in a natural repugnance for
-   that source of trouble which had its share in making us
-   both orphans when we were very young, pray, pray, let it
-   go for ever. We have reason to know by this [[Time|time]] that
-   there is no good in it and no [[Hope|hope]], that there is nothing
-   to be got from it but sorrow.
+I do not quite know how to write what I wish to say next,
+but I trust you will understand it as I mean it. I have
+some fears, my dearest cousin, that it may be partly for
+my sake you are now laying up so much unhappiness for
+yourself—and if for yourself, for me. In case this should
+be so, or in case you should entertain much thought of me
+in what you are doing, I most earnestly entreat and beg
+you to desist. You can do nothing for my sake that will
+make me half so happy as for ever turning your back upon
+the [[Shadow|shadow]] in which we both were born. Do not be angry
+with me for saying this. Pray, pray, dear [[Richard]], for my
+sake, and for your own, and in a natural repugnance for
+that source of trouble which had its share in making us
+both orphans when we were very young, pray, pray, let it
+go for ever. We have reason to know by this [[Time|time]] that
+there is no good in it and no [[Hope|hope]], that there is nothing
+to be got from it but sorrow.
 
-   My dearest cousin, it is needless for me to say that you
-   are quite free and that it is very likely you may find
-   some one whom you will [[Love|love]] much better than your first
-   fancy. I am quite sure, if you will let me say so, that
-   the object of your choice would greatly prefer to follow
-   your fortunes far and wide, however moderate or poor, and
-   see you happy, doing your duty and pursuing your chosen
-   way, than to have the [[Hope|hope]] of being, or even to be, very
-   rich with you (if such a thing were possible) at the cost
-   of dragging years of procrastination and anxiety and of
-   your indifference to other aims. You may [[Wonder|wonder]] at my
-   saying this so confidently with so little knowledge or
-   experience, but I know it for a certainty from my own
-   heart.
+My dearest cousin, it is needless for me to say that you
+are quite free and that it is very likely you may find
+some one whom you will [[Love|love]] much better than your first
+fancy. I am quite sure, if you will let me say so, that
+the object of your choice would greatly prefer to follow
+your fortunes far and wide, however moderate or poor, and
+see you happy, doing your duty and pursuing your chosen
+way, than to have the [[Hope|hope]] of being, or even to be, very
+rich with you (if such a thing were possible) at the cost
+of dragging years of procrastination and anxiety and of
+your indifference to other aims. You may [[Wonder|wonder]] at my
+saying this so confidently with so little knowledge or
+experience, but I know it for a certainty from my own
+heart.
 
-   Ever, my dearest cousin, your most affectionate
+Ever, my dearest cousin, your most affectionate
 
-   Ada
+Ada
 
 
 This note brought [[Richard]] to us very soon, but it made little change
@@ -75938,27 +75938,27 @@ She hurriedly addresses these lines to her husband, seals, and [[Leaves|leaves]]
 them on her table:
 
 
-   If I am sought for, or accused of, his murder, believe
-   that I am wholly [[Innocent|innocent]]. Believe no other good of me,
-   for I am [[Innocent|innocent]] of nothing else that you have heard,
-   or will hear, laid to my charge. He prepared me, on that
-   fatal [[Night|night]], for his disclosure of my [[Guilt|guilt]] to you. After
-   he had left me, I went out on pretence of walking in the
-   [[Garden|garden]] where I sometimes walk, but really to follow him
-   and make one last petition that he would not protract the
-   dreadful suspense on which I have been racked by him, you
-   do not know how long, but would mercifully strike next
-   morning.
+If I am sought for, or accused of, his murder, believe
+that I am wholly [[Innocent|innocent]]. Believe no other good of me,
+for I am [[Innocent|innocent]] of nothing else that you have heard,
+or will hear, laid to my charge. He prepared me, on that
+fatal [[Night|night]], for his disclosure of my [[Guilt|guilt]] to you. After
+he had left me, I went out on pretence of walking in the
+[[Garden|garden]] where I sometimes walk, but really to follow him
+and make one last petition that he would not protract the
+dreadful suspense on which I have been racked by him, you
+do not know how long, but would mercifully strike next
+morning.
 
-   I found his [[house]] dark and silent. I rang twice at his
-   door, but there was no reply, and I came [[Home|home]].
+I found his [[house]] dark and silent. I rang twice at his
+door, but there was no reply, and I came [[Home|home]].
 
-   I have no [[Home|home]] left. I will encumber you no more. May
-   you, in your just resentment, be able to forget the
-   unworthy woman on whom you have wasted a most generous
-   devotion—who avoids you only with a deeper shame than
-   that with which she hurries from herself—and who writes
-   this last adieu.
+I have no [[Home|home]] left. I will encumber you no more. May
+you, in your just resentment, be able to forget the
+unworthy woman on whom you have wasted a most generous
+devotion—who avoids you only with a deeper shame than
+that with which she hurries from herself—and who writes
+this last adieu.
 
 
 She veils and dresses quickly, [[Leaves|leaves]] all her jewels and her money,
@@ -78227,14 +78227,14 @@ It had been written in portions, at different times. I read what
 follows:
 
 
-   I came to the cottage with two objects. First, to see the
-   dear one, if I could, once more—but only to see her—not
-   to speak to her or let her know that I was near. The other
-   object, to elude pursuit and to be lost. Do not blame the
-   mother for her share. The assistance that she rendered me,
-   she rendered on my strongest assurance that it was for the
-   dear one’s good. You remember her dead [[Child|child]]. The men’s
-   consent I bought, but her help was freely given.
+I came to the cottage with two objects. First, to see the
+dear one, if I could, once more—but only to see her—not
+to speak to her or let her know that I was near. The other
+object, to elude pursuit and to be lost. Do not blame the
+mother for her share. The assistance that she rendered me,
+she rendered on my strongest assurance that it was for the
+dear one’s good. You remember her dead [[Child|child]]. The men’s
+consent I bought, but her help was freely given.
 
 
 “‘I came.’ That was written,” said my companion, “when she rested
@@ -78243,14 +78243,14 @@ there. It bears out what I made of it. I was right.”
 The next was written at another [[Time|time]]:
 
 
-   I have wandered a long distance, and for many hours, and
-   I know that I must soon die. These streets! I have no
-   purpose but to die. When I left, I had a worse, but I am
-   saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
-   fatigue are sufficient causes for my being found dead, but
-   I shall die of others, though I suffer from these. It was
-   right that all that had sustained me should give way at
-   once and that I should die of terror and my [[Conscience|conscience]].
+I have wandered a long distance, and for many hours, and
+I know that I must soon die. These streets! I have no
+purpose but to die. When I left, I had a worse, but I am
+saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
+fatigue are sufficient causes for my being found dead, but
+I shall die of others, though I suffer from these. It was
+right that all that had sustained me should give way at
+once and that I should die of terror and my [[Conscience|conscience]].
 
 
 “Take [[Courage|courage]],” said Mr. Bucket. “There’s only a few words more.”
@@ -78259,11 +78259,11 @@ Those, too, were written at another [[Time|time]]. To all appearance, almost
 in the dark:
 
 
-   I have done all I could do to be lost. I shall be soon
-   forgotten so, and shall disgrace him least. I have nothing
-   about me by which I can be recognized. This paper I part
-   with now. The place where I shall lie down, if I can get
-   so far, has been often in my mind. Farewell. Forgive.
+I have done all I could do to be lost. I shall be soon
+forgotten so, and shall disgrace him least. I have nothing
+about me by which I can be recognized. This paper I part
+with now. The place where I shall lie down, if I can get
+so far, has been often in my mind. Farewell. Forgive.
 
 
 Mr. Bucket, supporting me with his arm, lowered me gently into my
@@ -80339,43 +80339,43 @@ Herewith he hands a letter, closely written in somewhat pale ink but
 in a neat round hand, to the ironmaster, who reads as follows:
 
 
-   Miss [[Esther Summerson]],
+Miss [[Esther Summerson]],
 
-   A communication having been made to me by [[Inspector Bucket]]
-   of a letter to myself being found among the papers of a
-   certain person, I take the liberty to make known to you
-   that it was but a few lines of instruction from abroad,
-   when, where, and how to deliver an enclosed letter to a
-   young and beautiful lady, then unmarried, in England. I
-   duly observed the same.
+A communication having been made to me by [[Inspector Bucket]]
+of a letter to myself being found among the papers of a
+certain person, I take the liberty to make known to you
+that it was but a few lines of instruction from abroad,
+when, where, and how to deliver an enclosed letter to a
+young and beautiful lady, then unmarried, in England. I
+duly observed the same.
 
-   I further take the liberty to make known to you that it
-   was got from me as a proof of handwriting only and that
-   otherwise I would not have given it up, as appearing to
-   be the most harmless in my possession, without being
-   previously shot through the heart.
+I further take the liberty to make known to you that it
+was got from me as a proof of handwriting only and that
+otherwise I would not have given it up, as appearing to
+be the most harmless in my possession, without being
+previously shot through the heart.
 
-   I further take the liberty to mention that if I could have
-   supposed a certain unfortunate gentleman to have been in
-   existence, I never could and never would have rested until
-   I had discovered his retreat and shared my last farthing
-   with him, as my duty and my inclination would have equally
-   been. But he was (officially) reported drowned, and
-   assuredly went over the side of a transport-[[Ship|ship]] at [[Night|night]]
-   in an Irish harbour within a few hours of her arrival from
-   the West Indies, as I have myself heard both from officers
-   and men on board, and know to have been (officially)
-   confirmed.
+I further take the liberty to mention that if I could have
+supposed a certain unfortunate gentleman to have been in
+existence, I never could and never would have rested until
+I had discovered his retreat and shared my last farthing
+with him, as my duty and my inclination would have equally
+been. But he was (officially) reported drowned, and
+assuredly went over the side of a transport-[[Ship|ship]] at [[Night|night]]
+in an Irish harbour within a few hours of her arrival from
+the West Indies, as I have myself heard both from officers
+and men on board, and know to have been (officially)
+confirmed.
 
-   I further take the liberty to state that in my humble
-   quality as one of the rank and file, I am, and shall ever
-   continue to be, your thoroughly devoted and admiring
-   servant and that I esteem the qualities you possess above
-   all others far beyond the limits of the present dispatch.
+I further take the liberty to state that in my humble
+quality as one of the rank and file, I am, and shall ever
+continue to be, your thoroughly devoted and admiring
+servant and that I esteem the qualities you possess above
+all others far beyond the limits of the present dispatch.
 
-   I have the [[Honour|honour]] to be,
+I have the [[Honour|honour]] to be,
 
-   GEORGE
+GEORGE
 
 
 “A little formal,” observes the elder brother, refolding it with a

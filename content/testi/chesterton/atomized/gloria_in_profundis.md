@@ -54,7 +54,7 @@ Pursuing, we hunt and hound it,
 The fallen star has found it  
 In the cavern of Bethlehem.  
 
-                        Gilbert Keith Chesterton
+Gilbert Keith Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -146,7 +146,7 @@ Pursuing, we hunt and hound it,
 The fallen star has found it  
 In the cavern of Bethlehem.  
 
-                        Gilbert Keith Chesterton
+Gilbert Keith Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>

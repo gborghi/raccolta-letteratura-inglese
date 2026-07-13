@@ -20,26 +20,26 @@ G.K. Chesterton
 
 CONTENTS
 
-    I. A Discussion Somewhat in the Air
-   II. The Religion of the Stipendiary Magistrate
-  III. Some Old Curiosities
-   IV. A Discussion at [[Dawn]]
-    V. The Peacemaker
-   VI. The Other Philosopher
-  VII. The Village of Grassley-in-the-Hole
- VIII. An Interlude of Argument
-   IX. The Strange Lady
-    X. The Swords Rejoined
-   XI. A Scandal in the Village
-  XII. The [[Desert]] Island
- XIII. The [[Garden]] of Peace
-  XIV. A Museum of Souls
-   XV. The Dream of MacIan
-  XVI. The Dream of Turnbull
- XVII. The Idiot
+I. A Discussion Somewhat in the Air
+II. The Religion of the Stipendiary Magistrate
+III. Some Old Curiosities
+IV. A Discussion at [[Dawn]]
+V. The Peacemaker
+VI. The Other Philosopher
+VII. The Village of Grassley-in-the-Hole
+VIII. An Interlude of Argument
+IX. The Strange Lady
+X. The Swords Rejoined
+XI. A Scandal in the Village
+XII. The [[Desert]] Island
+XIII. The [[Garden]] of Peace
+XIV. A Museum of Souls
+XV. The Dream of MacIan
+XVI. The Dream of Turnbull
+XVII. The Idiot
 XVIII.  A [[Riddle]] of Faces
-  XIX. The Last Parley
-   XX. Dies Irae
+XIX. The Last Parley
+XX. Dies Irae
 
 I. A DISCUSSION SOMEWHAT IN THE AIR
 
@@ -1602,12 +1602,12 @@ his clerk on an omnibus in Cheapside?  Turnbull, as he stared drearily,
 murmured to himself the words of the old atheistic and revolutionary
 Swinburne who had intoxicated his youth:
 
-        "And still we ask if God or man
-        Can loosen thee Lazarus;
-        Bid thee rise up republican,
-        And save thyself and all of us.
-        But no disciple's tongue can say
-        If thou can'st take our sins away."
+"And still we ask if God or man
+Can loosen thee Lazarus;
+Bid thee rise up republican,
+And save thyself and all of us.
+But no disciple's tongue can say
+If thou can'st take our sins away."
 
 Turnbull shivered slightly as if behind the earthly morning
 he felt the evening of the world, the sunset of so many hopes.
@@ -4425,10 +4425,10 @@ of a weird ballad of his own country which describes the [[Soul|soul]]
 in Purgatory as walking on a plain full of sharp stones, and only
 saved by its own charities upon earth.
 
-        If ever thou gavest hosen and shoon
-            Every [[Night|night]] and all,
-        Sit thee down and put them on,
-            And [[Christ]] receive thy [[Soul|soul]].
+If ever thou gavest hosen and shoon
+Every [[Night|night]] and all,
+Sit thee down and put them on,
+And [[Christ]] receive thy [[Soul|soul]].
 
 Turnbull had no such lyrical meditations, but he was in an
 even worse temper.
@@ -4443,12 +4443,12 @@ Turnbull gave one glance at the crucifix--a glance at once sympathetic
 and bitter, in which was concentrated the whole of Swinburne's poem
 on the same occasion.
 
-        O hidden face of man, whereover
-            The years have woven a viewless veil,
-        If thou wert verily man's [[Lover|lover]]
-            What did thy [[Love|love]] or [[Blood|blood]] avail?
-        Thy [[Blood|blood]] the priests mix [[Poison|poison]] of,
-        And in gold shekels coin thy [[Love|love]].
+O hidden face of man, whereover
+The years have woven a viewless veil,
+If thou wert verily man's [[Lover|lover]]
+What did thy [[Love|love]] or [[Blood|blood]] avail?
+Thy [[Blood|blood]] the priests mix [[Poison|poison]] of,
+And in gold shekels coin thy [[Love|love]].
 
 Then, leaving MacIan in his attitude of [[Prayer|prayer]], Turnbull began
 to look right and left very sharply, like one looking for something.
@@ -8897,7 +8897,7 @@ of a [[Cross|cross]].
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_01" data-title="ball and cross — A Discussion Somewhat in the Air (part 1)" data-chapter="Story 01 A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_01" data-title="ball and cross — A Discussion Somewhat in the Air (part 1)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
 
 
 I. A DISCUSSION SOMEWHAT IN THE AIR
@@ -9006,7 +9006,7 @@ a foreign language."
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_02" data-title="ball and cross — A Discussion Somewhat in the Air (part 2)" data-chapter="Story 01 A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_02" data-title="ball and cross — A Discussion Somewhat in the Air (part 2)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
 
 
 "Come, come," said [[The Professor|the Professor]], encouragingly, "I'll help you out.
@@ -9117,7 +9117,7 @@ The very shape of it is a contradiction in terms."
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_03" data-title="ball and cross — A Discussion Somewhat in the Air (part 3)" data-chapter="Story 01 A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_03" data-title="ball and cross — A Discussion Somewhat in the Air (part 3)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
 
 
 "What you say is perfectly true," said [[Michael]], with serenity.
@@ -9235,7 +9235,7 @@ down a lever and the [[Ship|ship]] shot up with him in it [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_04" data-title="ball and cross — A Discussion Somewhat in the Air (part 4)" data-chapter="Story 01 A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_04" data-title="ball and cross — A Discussion Somewhat in the Air (part 4)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
 
 
 "Ha! ha!" he yelled, "what sort of a support do you find it, old fellow?"
@@ -9367,7 +9367,7 @@ better than all the saints, greater than all the heroes--man Friday.
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_05" data-title="ball and cross — A Discussion Somewhat in the Air (part 5)" data-chapter="Story 01 A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_05" data-title="ball and cross — A Discussion Somewhat in the Air (part 5)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
 
 
 In the confused colour and music of his new paradise,
@@ -9497,7 +9497,7 @@ in the world away to an asylum.
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_01" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 1)" data-chapter="Story 02 The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_01" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 1)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
 
 
 II.  THE RELIGION OF THE STIPENDIARY MAGISTRATE
@@ -9599,7 +9599,7 @@ the [[Stars|stars]] by accident.
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_02" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 2)" data-chapter="Story 02 The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_02" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 2)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
 
 
 His private tradition was equally wild and unworldly.
@@ -9710,7 +9710,7 @@ even the principles of their own existence.
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_03" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 3)" data-chapter="Story 02 The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_03" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 3)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
 
 
 The police magistrate, before whom they were hurried and tried,
@@ -9860,7 +9860,7 @@ for my own existence?"
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_04" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 4)" data-chapter="Story 02 The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_04" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 4)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
 
 
 The magistrate recovered his voice and his presence of mind.
@@ -9957,7 +9957,7 @@ The atheist drew up his head.  "And I," he said, "give my word."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_01" data-title="ball and cross — Some Old Curiosities (part 1)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_01" data-title="ball and cross — Some Old Curiosities (part 1)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 III.  SOME OLD CURIOSITIES
@@ -10080,7 +10080,7 @@ and I run you through the [[Body|body]]."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_02" data-title="ball and cross — Some Old Curiosities (part 2)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_02" data-title="ball and cross — Some Old Curiosities (part 2)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 Turnbull put the bright point of the [[Sword|sword]] against the gay
@@ -10200,7 +10200,7 @@ second to lose either.  Do as I do."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_03" data-title="ball and cross — Some Old Curiosities (part 3)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_03" data-title="ball and cross — Some Old Curiosities (part 3)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 With a bound he was beside the little cluster of his clothes and boots
@@ -10328,7 +10328,7 @@ Yes, you open for me a vista of thought."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_04" data-title="ball and cross — Some Old Curiosities (part 4)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_04" data-title="ball and cross — Some Old Curiosities (part 4)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 "Don't run into anything," said Evan, immovably.
@@ -10456,7 +10456,7 @@ by great beatitudes.
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_05" data-title="ball and cross — Some Old Curiosities (part 5)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_05" data-title="ball and cross — Some Old Curiosities (part 5)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 The next morning, five or six of the great [[London]] dailies burst
@@ -10539,12 +10539,12 @@ his clerk on an omnibus in Cheapside?  Turnbull, as he stared drearily,
 murmured to himself the words of the old atheistic and revolutionary
 Swinburne who had intoxicated his youth:
 
-        "And still we ask if God or man
-        Can loosen thee Lazarus;
-        Bid thee rise up republican,
-        And save thyself and all of us.
-        But no disciple's tongue can say
-        If thou can'st take our sins away."
+"And still we ask if God or man
+Can loosen thee Lazarus;
+Bid thee rise up republican,
+And save thyself and all of us.
+But no disciple's tongue can say
+If thou can'st take our sins away."
 
 Turnbull shivered slightly as if behind the earthly morning
 he felt the evening of the world, the sunset of so many hopes.
@@ -10562,7 +10562,7 @@ out like two householders coming out into their doorways.
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_06" data-title="ball and cross — Some Old Curiosities (part 6)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_06" data-title="ball and cross — Some Old Curiosities (part 6)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 There was a somewhat unmeaning [[Silence|silence]], and then MacIan said again:
@@ -10691,7 +10691,7 @@ for the rest of our days."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_07" data-title="ball and cross — Some Old Curiosities (part 7)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_07" data-title="ball and cross — Some Old Curiosities (part 7)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 MacIan was looking at the horizon with a rather misty look.
@@ -10846,7 +10846,7 @@ that if I thought that I should think wrong?"
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_08" data-title="ball and cross — Some Old Curiosities (part 8)" data-chapter="Story 03 Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_08" data-title="ball and cross — Some Old Curiosities (part 8)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
 
 
 "Then you are quite certain that it would be wrong to like me?"
@@ -11000,7 +11000,7 @@ in capo, avanzava serenamente verso di loro.
 
 
 
-<span class="atom-split" data-atom="story_04_the_peacemaker--part_01" data-title="ball and cross — The Peacemaker (part 1)" data-chapter="Story 04 The Peacemaker" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_peacemaker--part_01" data-title="ball and cross — The Peacemaker (part 1)" data-chapter="The Peacemaker" data-kind="excerpt"></span>
 
 
 V. THE PEACEMAKER
@@ -11137,7 +11137,7 @@ A surgeon commits bloodshed.
 
 
 
-<span class="atom-split" data-atom="story_04_the_peacemaker--part_02" data-title="ball and cross — The Peacemaker (part 2)" data-chapter="Story 04 The Peacemaker" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_peacemaker--part_02" data-title="ball and cross — The Peacemaker (part 2)" data-chapter="The Peacemaker" data-kind="excerpt"></span>
 
 
 "Ah, you're a casuist!" said the large man, wagging his head.
@@ -11273,7 +11273,7 @@ said Turnbull, quietly.  "The police are coming up the [[Hill|hill]]."
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_01" data-title="ball and cross — The Other Philosopher (part 1)" data-chapter="Story 05 The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_01" data-title="ball and cross — The Other Philosopher (part 1)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
 
 
 VI.  THE OTHER PHILOSOPHER
@@ -11405,7 +11405,7 @@ and rattle of an express train.
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_02" data-title="ball and cross — The Other Philosopher (part 2)" data-chapter="Story 05 The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_02" data-title="ball and cross — The Other Philosopher (part 2)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
 
 
 "I ought to tell you," continued MacIan, still staring stolidly
@@ -11546,7 +11546,7 @@ with your [[Summer|summer]]-[[house]] in order to arrange our..."
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_03" data-title="ball and cross — The Other Philosopher (part 3)" data-chapter="Story 05 The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_03" data-title="ball and cross — The Other Philosopher (part 3)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
 
 
 "Stop!" roared the little man in the butterfly necktie.
@@ -11676,7 +11676,7 @@ he added, "he can still see us."
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_04" data-title="ball and cross — The Other Philosopher (part 4)" data-chapter="Story 05 The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_04" data-title="ball and cross — The Other Philosopher (part 4)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
 
 
 MacIan turned his blue, blinking eyes, which seemed still misty with [[Sleep|sleep]]
@@ -11817,7 +11817,7 @@ He had never practised laughing, and it hurt him very much.
 
 
 
-<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_01" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 1)" data-chapter="Story 06 The Village of Grassley in the Hole" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_01" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 1)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt"></span>
 
 
 VII.  THE VILLAGE OF GRASSLEY-IN-THE-HOLE
@@ -11949,7 +11949,7 @@ MacIan wore an expression of sad bewilderment not uncommon with him.
 
 
 
-<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_02" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 2)" data-chapter="Story 06 The Village of Grassley in the Hole" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_02" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 2)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt"></span>
 
 
 "You may say so in a very special and emphatic sense," said Turnbull.
@@ -12079,7 +12079,7 @@ Did you not take in those things, too, along with your theology?"
 
 
 
-<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_03" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 3)" data-chapter="Story 06 The Village of Grassley in the Hole" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_03" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 3)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt"></span>
 
 
 MacIan stared along the dim village [[Road|road]], down which the last
@@ -12228,7 +12228,7 @@ and your Shaws and your Tolstoys have not even got so far."
 
 
 
-<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_01" data-title="ball and cross — An Interlude of Argument (part 1)" data-chapter="Story 07 An Interlude of Argument" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_01" data-title="ball and cross — An Interlude of Argument (part 1)" data-chapter="An Interlude of Argument" data-kind="excerpt"></span>
 
 
 VIII.  AN INTERLUDE OF ARGUMENT
@@ -12337,7 +12337,7 @@ virtue which is the result of all your theologies and sacraments."
 
 
 
-<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_02" data-title="ball and cross — An Interlude of Argument (part 2)" data-chapter="Story 07 An Interlude of Argument" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_02" data-title="ball and cross — An Interlude of Argument (part 2)" data-chapter="An Interlude of Argument" data-kind="excerpt"></span>
 
 
 "Catholic virtue is often invisible because it is the normal,"
@@ -12478,7 +12478,7 @@ And indeed they scarcely spoke another word to each other all that day.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_01" data-title="ball and cross — The Strange Lady (part 1)" data-chapter="Story 08 The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_01" data-title="ball and cross — The Strange Lady (part 1)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
 
 
 IX.  THE STRANGE LADY
@@ -12607,7 +12607,7 @@ a young lady.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_02" data-title="ball and cross — The Strange Lady (part 2)" data-chapter="Story 08 The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_02" data-title="ball and cross — The Strange Lady (part 2)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
 
 
 She was sitting bolt upright, a slender and rigid figure gripping
@@ -12719,7 +12719,7 @@ manner and pulled off his cap.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_03" data-title="ball and cross — The Strange Lady (part 3)" data-chapter="Story 08 The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_03" data-title="ball and cross — The Strange Lady (part 3)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
 
 
 For some solid seconds the lady and he merely looked at each other, and
@@ -12843,7 +12843,7 @@ All these facts were to him certain and incredible, like sacraments.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_04" data-title="ball and cross — The Strange Lady (part 4)" data-chapter="Story 08 The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_04" data-title="ball and cross — The Strange Lady (part 4)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
 
 
 When they had driven half a mile farther, a big [[Shadow|shadow]] was flung
@@ -12972,7 +12972,7 @@ or anything else, I think."  And she sighed again.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_05" data-title="ball and cross — The Strange Lady (part 5)" data-chapter="Story 08 The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_05" data-title="ball and cross — The Strange Lady (part 5)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
 
 
 She drove in [[Silence|silence]] a third of a mile before she added, as if
@@ -13088,7 +13088,7 @@ first signals of the sea.
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_01" data-title="ball and cross — The Swords Rejoined (part 1)" data-chapter="Story 09 The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_01" data-title="ball and cross — The Swords Rejoined (part 1)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
 
 
 X. THE SWORDS REJOINED
@@ -13216,7 +13216,7 @@ she replied, with inhuman honesty.
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_02" data-title="ball and cross — The Swords Rejoined (part 2)" data-chapter="Story 09 The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_02" data-title="ball and cross — The Swords Rejoined (part 2)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
 
 
 Evan stood and rolled his eyes in masculine bewilderment.
@@ -13344,7 +13344,7 @@ It was down this clamorous ladder of life that they went down to die.
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_03" data-title="ball and cross — The Swords Rejoined (part 3)" data-chapter="Story 09 The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_03" data-title="ball and cross — The Swords Rejoined (part 3)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
 
 
 They broke out upon a brown semicircle of sand, so free from human
@@ -13470,7 +13470,7 @@ denounce you as a coward to the whole of that assembled company."
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_04" data-title="ball and cross — The Swords Rejoined (part 4)" data-chapter="Story 09 The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_04" data-title="ball and cross — The Swords Rejoined (part 4)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
 
 
 Evan looked very doubtful and offered a somewhat wavering weapon;
@@ -13575,15 +13575,15 @@ of a weird ballad of his own country which describes the [[Soul|soul]]
 in Purgatory as walking on a plain full of sharp stones, and only
 saved by its own charities upon earth.
 
-        If ever thou gavest hosen and shoon
-            Every [[Night|night]] and all,
-        Sit thee down and put them on,
-            And [[Christ]] receive thy [[Soul|soul]].
+If ever thou gavest hosen and shoon
+Every [[Night|night]] and all,
+Sit thee down and put them on,
+And [[Christ]] receive thy [[Soul|soul]].
 
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_05" data-title="ball and cross — The Swords Rejoined (part 5)" data-chapter="Story 09 The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_05" data-title="ball and cross — The Swords Rejoined (part 5)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
 
 
 Turnbull had no such lyrical meditations, but he was in an
@@ -13599,12 +13599,12 @@ Turnbull gave one glance at the crucifix--a glance at once sympathetic
 and bitter, in which was concentrated the whole of Swinburne's poem
 on the same occasion.
 
-        O hidden face of man, whereover
-            The years have woven a viewless veil,
-        If thou wert verily man's [[Lover|lover]]
-            What did thy [[Love|love]] or [[Blood|blood]] avail?
-        Thy [[Blood|blood]] the priests mix [[Poison|poison]] of,
-        And in gold shekels coin thy [[Love|love]].
+O hidden face of man, whereover
+The years have woven a viewless veil,
+If thou wert verily man's [[Lover|lover]]
+What did thy [[Love|love]] or [[Blood|blood]] avail?
+Thy [[Blood|blood]] the priests mix [[Poison|poison]] of,
+And in gold shekels coin thy [[Love|love]].
 
 Then, leaving MacIan in his attitude of [[Prayer|prayer]], Turnbull began
 to look right and left very sharply, like one looking for something.
@@ -13712,7 +13712,7 @@ in the English uniform came up at a kind of half-military [[Double|double]].
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_06" data-title="ball and cross — The Swords Rejoined (part 6)" data-chapter="Story 09 The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_06" data-title="ball and cross — The Swords Rejoined (part 6)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
 
 
 Turnbull saw the stare of consternation in his enemy's face and
@@ -13878,7 +13878,7 @@ Siamo rintracciati dappertutto, perché tutti sanno di noi.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_01" data-title="ball and cross — A Scandal in the Village (part 1)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_01" data-title="ball and cross — A Scandal in the Village (part 1)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 XI.  A SCANDAL IN THE VILLAGE
@@ -13988,7 +13988,7 @@ that it all went into her prayers.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_02" data-title="ball and cross — A Scandal in the Village (part 2)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_02" data-title="ball and cross — A Scandal in the Village (part 2)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 The conventions of the Isle of St. Loup were necessarily a compromise
@@ -14094,7 +14094,7 @@ with the black elderly beard and the young ardent eyes.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_03" data-title="ball and cross — A Scandal in the Village (part 3)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_03" data-title="ball and cross — A Scandal in the Village (part 3)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 Up to the moment when Camille had hit the Count, Madeleine had
@@ -14217,7 +14217,7 @@ do as you say--I mean not to do it at all?"
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_04" data-title="ball and cross — A Scandal in the Village (part 4)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_04" data-title="ball and cross — A Scandal in the Village (part 4)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 Then it was that Bert exploded with a brutality which might have come
@@ -14351,7 +14351,7 @@ in Mr. Turnbull's singular umbrella.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_05" data-title="ball and cross — A Scandal in the Village (part 5)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_05" data-title="ball and cross — A Scandal in the Village (part 5)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 The two had a long race for the harbour; but the English police
@@ -14474,7 +14474,7 @@ and her bowsprit pointing upward, as in a sort of idiotic triumph.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_06" data-title="ball and cross — A Scandal in the Village (part 6)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_06" data-title="ball and cross — A Scandal in the Village (part 6)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 They tumbled on shore and began to unload the vessel, setting the stores
@@ -14600,7 +14600,7 @@ The consequence of which was that he nearly fell off the rock.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_07" data-title="ball and cross — A Scandal in the Village (part 7)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_07" data-title="ball and cross — A Scandal in the Village (part 7)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 On three sides of this shelly and sandy islet the sea stretched blue
@@ -14726,7 +14726,7 @@ And he was overtaken once more.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_08" data-title="ball and cross — A Scandal in the Village (part 8)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_08" data-title="ball and cross — A Scandal in the Village (part 8)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 "[[Well]], the [[Truth|truth]] is," said Turnbull, suddenly and startlingly,
@@ -14858,7 +14858,7 @@ add to [[Speed|speed]].
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_09" data-title="ball and cross — A Scandal in the Village (part 9)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_09" data-title="ball and cross — A Scandal in the Village (part 9)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 A hundred and fifty yards behind them down the centre of the empty
@@ -14965,7 +14965,7 @@ whether for kindness or for insolence.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_10" data-title="ball and cross — A Scandal in the Village (part 10)" data-chapter="Story 10 A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_10" data-title="ball and cross — A Scandal in the Village (part 10)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
 
 
 MacIan bowed.  "You can extend to us your pardon," he said,
@@ -15112,7 +15112,7 @@ and one of his elbows had a singular outward jerk as he went by.
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_01" data-title="ball and cross — A Museum of Souls (part 1)" data-chapter="Story 11 A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_01" data-title="ball and cross — A Museum of Souls (part 1)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
 
 
 XIV.  A MUSEUM OF SOULS
@@ -15239,7 +15239,7 @@ other gentleman----"
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_02" data-title="ball and cross — A Museum of Souls (part 2)" data-chapter="Story 11 A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_02" data-title="ball and cross — A Museum of Souls (part 2)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
 
 
 "The other gentleman," cried Turnbull, scornfully, "is a
@@ -15377,7 +15377,7 @@ but there is no one here who thinks he is Protoplasm."
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_03" data-title="ball and cross — A Museum of Souls (part 3)" data-chapter="Story 11 A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_03" data-title="ball and cross — A Museum of Souls (part 3)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
 
 
 "They naturally prefer a bright part," said MacIan, wearily.
@@ -15522,7 +15522,7 @@ If there's half an hour of inquiry, we are cooked."
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_04" data-title="ball and cross — A Museum of Souls (part 4)" data-chapter="Story 11 A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_04" data-title="ball and cross — A Museum of Souls (part 4)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
 
 
 MacIan looked at the grass frowningly for a few seconds, and then
@@ -15701,7 +15701,7 @@ and then he nodded without a word.
 
 
 
-<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_01" data-title="ball and cross — The Dream of MacIan (part 1)" data-chapter="Story 12 The Dream of MacIan" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_01" data-title="ball and cross — The Dream of MacIan (part 1)" data-chapter="The Dream of MacIan" data-kind="excerpt"></span>
 
 
 XV.  THE DREAM OF MACIAN
@@ -15822,7 +15822,7 @@ because our kings have come back to us."
 
 
 
-<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_02" data-title="ball and cross — The Dream of MacIan (part 2)" data-chapter="Story 12 The Dream of MacIan" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_02" data-title="ball and cross — The Dream of MacIan (part 2)" data-chapter="The Dream of MacIan" data-kind="excerpt"></span>
 
 
 "The Stuart----" began Evan, earnestly.
@@ -15996,7 +15996,7 @@ of the car.
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_01" data-title="ball and cross — The Dream of Turnbull (part 1)" data-chapter="Story 13 The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_01" data-title="ball and cross — The Dream of Turnbull (part 1)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
 
 
 XVI.  THE DREAM OF TURNBULL
@@ -16103,7 +16103,7 @@ all the [[Flowers|flowers]], but especially at the solitary man.
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_02" data-title="ball and cross — The Dream of Turnbull (part 2)" data-chapter="Story 13 The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_02" data-title="ball and cross — The Dream of Turnbull (part 2)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
 
 
 "What do you want?" shouted Turnbull.
@@ -16234,7 +16234,7 @@ the other man out of the flying [[Ship|ship]].
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_03" data-title="ball and cross — The Dream of Turnbull (part 3)" data-chapter="Story 13 The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_03" data-title="ball and cross — The Dream of Turnbull (part 3)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
 
 
 "I am an atheist," he said, in a stifled voice.
@@ -16380,7 +16380,7 @@ Then he added with a more open sneer:  "Perhaps they also have souls."
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_04" data-title="ball and cross — The Dream of Turnbull (part 4)" data-chapter="Story 13 The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_04" data-title="ball and cross — The Dream of Turnbull (part 4)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
 
 
 "They have lives!" said Turnbull, sternly; "that is quite enough for me.
@@ -16542,7 +16542,7 @@ non era ancora scomparso.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_01" data-title="ball and cross — The Idiot (part 1)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_01" data-title="ball and cross — The Idiot (part 1)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 XVII.  THE IDIOT
@@ -16673,7 +16673,7 @@ which were written, respectively, in neat black capitals B and C.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_02" data-title="ball and cross — The Idiot (part 2)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_02" data-title="ball and cross — The Idiot (part 2)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 "You go in here, sir," said the leader of the officials,
@@ -16801,7 +16801,7 @@ for the objectless iron peg in the wall.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_03" data-title="ball and cross — The Idiot (part 3)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_03" data-title="ball and cross — The Idiot (part 3)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 But in all his moods, sane or insane, intolerant or stoical,
@@ -16928,7 +16928,7 @@ looked at it with a puzzled face.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_04" data-title="ball and cross — The Idiot (part 4)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_04" data-title="ball and cross — The Idiot (part 4)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 "What is in there?" he asked.
@@ -17062,7 +17062,7 @@ he said, "I cannot help you?"
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_05" data-title="ball and cross — The Idiot (part 5)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_05" data-title="ball and cross — The Idiot (part 5)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 Then he turned to MacIan who was standing close behind him,
@@ -17196,7 +17196,7 @@ us walk free in the [[Garden|garden]] again?"
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_06" data-title="ball and cross — The Idiot (part 6)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_06" data-title="ball and cross — The Idiot (part 6)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 "I understand," said Hutton, with arched eyebrows, "that your
@@ -17321,7 +17321,7 @@ to something connected with the inspection of asylums.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_07" data-title="ball and cross — The Idiot (part 7)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_07" data-title="ball and cross — The Idiot (part 7)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 Turnbull's heart gave a leap of excitement which was half [[Hope|hope]].
@@ -17449,7 +17449,7 @@ Now the star had gone out, and there was only misery.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_08" data-title="ball and cross — The Idiot (part 8)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_08" data-title="ball and cross — The Idiot (part 8)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 Yet MacIan had the strength to answer the question where Turnbull,
@@ -17589,7 +17589,7 @@ with some hauteur.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_09" data-title="ball and cross — The Idiot (part 9)" data-chapter="Story 14 The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_09" data-title="ball and cross — The Idiot (part 9)" data-chapter="The Idiot" data-kind="excerpt"></span>
 
 
 MacIan stared at her and then at his boots, and then at the sky and then
@@ -17709,7 +17709,7 @@ finché non cadranno le [[Stars|stelle]]."  Poi alzò gli occhi all'improvviso e
 
 
 
-<span class="atom-split" data-atom="story_15_the_last_parley--part_01" data-title="ball and cross — The Last Parley (part 1)" data-chapter="Story 15 The Last Parley" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_last_parley--part_01" data-title="ball and cross — The Last Parley (part 1)" data-chapter="The Last Parley" data-kind="excerpt"></span>
 
 
 XIX.  THE LAST PARLEY
@@ -17838,7 +17838,7 @@ One never meets such old friends again except in [[A Dream|a dream]]."
 
 
 
-<span class="atom-split" data-atom="story_15_the_last_parley--part_02" data-title="ball and cross — The Last Parley (part 2)" data-chapter="Story 15 The Last Parley" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_last_parley--part_02" data-title="ball and cross — The Last Parley (part 2)" data-chapter="The Last Parley" data-kind="excerpt"></span>
 
 
 Then after a [[Silence|silence]] he cried with a rending sincerity:
@@ -17971,7 +17971,7 @@ Turnbull for the first [[Time|time]] started.
 
 
 
-<span class="atom-split" data-atom="story_15_the_last_parley--part_03" data-title="ball and cross — The Last Parley (part 3)" data-chapter="Story 15 The Last Parley" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_last_parley--part_03" data-title="ball and cross — The Last Parley (part 3)" data-chapter="The Last Parley" data-kind="excerpt"></span>
 
 
 "The ball and----" he repeated.
@@ -18103,7 +18103,7 @@ verso qualche grande collisione.
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_01" data-title="ball and cross — Dies Irae (part 1)" data-chapter="Story 16 Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_01" data-title="ball and cross — Dies Irae (part 1)" data-chapter="Dies Irae" data-kind="excerpt"></span>
 
 
 XX.  DIES IRAE
@@ -18222,7 +18222,7 @@ as that of the Crucifixion."
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_02" data-title="ball and cross — Dies Irae (part 2)" data-chapter="Story 16 Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_02" data-title="ball and cross — Dies Irae (part 2)" data-chapter="Dies Irae" data-kind="excerpt"></span>
 
 
 Turnbull growled something which was presumably assent.
@@ -18348,7 +18348,7 @@ sign of [[Sanity|sanity]]."
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_03" data-title="ball and cross — Dies Irae (part 3)" data-chapter="Story 16 Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_03" data-title="ball and cross — Dies Irae (part 3)" data-chapter="Dies Irae" data-kind="excerpt"></span>
 
 
 "Not at all--this is vengeance," answered Turnbull, quite calmly;
@@ -18480,7 +18480,7 @@ banner of defeat.
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_04" data-title="ball and cross — Dies Irae (part 4)" data-chapter="Story 16 Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_04" data-title="ball and cross — Dies Irae (part 4)" data-chapter="Dies Irae" data-kind="excerpt"></span>
 
 
 But it was not the [[Wind|wind]]; or, if it was the [[Wind|wind]], it was two winds

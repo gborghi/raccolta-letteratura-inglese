@@ -7135,7 +7135,7 @@ the spirit of liberty.
 
 
 
-<span class="atom-split" data-atom="story_04_logic_logic_and_lawn_tennis" data-title="The Thing — LOGIC AND LAWN TENNIS" data-chapter="Story 04 logic LOGIC AND LAWN TENNIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_logic_logic_and_lawn_tennis" data-title="The Thing — LOGIC AND LAWN TENNIS" data-chapter="logic LOGIC AND LAWN TENNIS" data-kind="story"></span>
 
 
 [[logic|LOGIC]] AND LAWN TENNIS
@@ -7290,7 +7290,7 @@ as it is played.
 
 
 
-<span class="atom-split" data-atom="story_06_the_usual_article" data-title="The Thing — THE USUAL ARTICLE" data-chapter="Story 06 THE USUAL ARTICLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_usual_article" data-title="The Thing — THE USUAL ARTICLE" data-chapter="THE USUAL ARTICLE" data-kind="story"></span>
 
 
 THE USUAL ARTICLE
@@ -7462,7 +7462,7 @@ and feel a faint [[Hope|hope]] that I may be mentioning it for the last [[Time|t
 
 
 
-<span class="atom-split" data-atom="story_08_what_do_they_think" data-title="The Thing — WHAT DO THEY THINK?" data-chapter="Story 08 WHAT DO THEY THINK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_what_do_they_think" data-title="The Thing — WHAT DO THEY THINK?" data-chapter="WHAT DO THEY THINK" data-kind="story"></span>
 
 
 WHAT DO THEY THINK?
@@ -7647,7 +7647,7 @@ believe nor forget.
 
 
 
-<span class="atom-split" data-atom="story_11_protestantism_a_problem_novel_novel" data-title="The Thing — PROTESTANTISM:  A PROBLEM NOVEL" data-chapter="Story 11 PROTESTANTISM A PROBLEM Novel NOVEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_protestantism_a_problem_novel_novel" data-title="The Thing — PROTESTANTISM:  A PROBLEM NOVEL" data-chapter="PROTESTANTISM A PROBLEM Novel NOVEL" data-kind="story"></span>
 
 
 PROTESTANTISM:  A PROBLEM [[Novel|NOVEL]]
@@ -7827,7 +7827,7 @@ That is the way to talk!  It is so tiring, pretending to talk sense.
 
 
 
-<span class="atom-split" data-atom="story_12_a_simple_thought" data-title="The Thing — A SIMPLE THOUGHT" data-chapter="Story 12 A SIMPLE THOUGHT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_a_simple_thought" data-title="The Thing — A SIMPLE THOUGHT" data-chapter="A SIMPLE THOUGHT" data-kind="story"></span>
 
 
 A SIMPLE THOUGHT
@@ -8011,7 +8011,7 @@ to see how long it is before they realise what has happened.
 
 
 
-<span class="atom-split" data-atom="story_13_the_call_to_the_barbarians" data-title="The Thing — THE CALL TO THE BARBARIANS" data-chapter="Story 13 THE CALL TO THE BARBARIANS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_call_to_the_barbarians" data-title="The Thing — THE CALL TO THE BARBARIANS" data-chapter="THE CALL TO THE BARBARIANS" data-kind="story"></span>
 
 
 THE CALL TO THE BARBARIANS
@@ -8167,7 +8167,7 @@ or to the Thibetan [[Desert|desert]] for [[Despair|despair]].
 
 
 
-<span class="atom-split" data-atom="story_16_the_feasts_and_the_ascetic_ascetic" data-title="The Thing — THE FEASTS AND THE ASCETIC" data-chapter="Story 16 THE FEASTS AND THE ascetic ASCETIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_feasts_and_the_ascetic_ascetic" data-title="The Thing — THE FEASTS AND THE ASCETIC" data-chapter="THE FEASTS AND THE ascetic ASCETIC" data-kind="story"></span>
 
 
 THE FEASTS AND THE [[ascetic|ASCETIC]]
@@ -8307,7 +8307,7 @@ prove it to be the [[Water|water]] of life."
 
 
 
-<span class="atom-split" data-atom="story_17_who_are_the_conspirators" data-title="The Thing — WHO ARE THE CONSPIRATORS?" data-chapter="Story 17 WHO ARE THE CONSPIRATORS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_who_are_the_conspirators" data-title="The Thing — WHO ARE THE CONSPIRATORS?" data-chapter="WHO ARE THE CONSPIRATORS" data-kind="story"></span>
 
 
 WHO ARE THE CONSPIRATORS?
@@ -8464,7 +8464,7 @@ or perhaps I should say Klosed Doors.
 
 
 
-<span class="atom-split" data-atom="story_18_the_hat_and_the_halo" data-title="The Thing — THE HAT AND THE HALO" data-chapter="Story 18 THE HAT AND THE HALO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_hat_and_the_halo" data-title="The Thing — THE HAT AND THE HALO" data-chapter="THE HAT AND THE HALO" data-kind="story"></span>
 
 
 THE HAT AND THE HALO
@@ -8663,7 +8663,7 @@ pity for the one unlucky Englishman who cannot understand.
 
 
 
-<span class="atom-split" data-atom="story_19_on_two_allegories" data-title="The Thing — ON TWO ALLEGORIES" data-chapter="Story 19 ON TWO ALLEGORIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_on_two_allegories" data-title="The Thing — ON TWO ALLEGORIES" data-chapter="ON TWO ALLEGORIES" data-kind="story"></span>
 
 
 ON TWO ALLEGORIES
@@ -8840,7 +8840,7 @@ the most ancient are the most alive.
 
 
 
-<span class="atom-split" data-atom="story_20_the_protestant_superstitions" data-title="The Thing — THE PROTESTANT SUPERSTITIONS" data-chapter="Story 20 THE PROTESTANT SUPERSTITIONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_protestant_superstitions" data-title="The Thing — THE PROTESTANT SUPERSTITIONS" data-chapter="THE PROTESTANT SUPERSTITIONS" data-kind="story"></span>
 
 
 THE PROTESTANT SUPERSTITIONS
@@ -9013,7 +9013,7 @@ I can only attribute it to Superstition.
 
 
 
-<span class="atom-split" data-atom="story_23_the_roots_of_sanity_sanity" data-title="The Thing — THE ROOTS OF SANITY" data-chapter="Story 23 THE ROOTS OF Sanity SANITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_roots_of_sanity_sanity" data-title="The Thing — THE ROOTS OF SANITY" data-chapter="THE ROOTS OF Sanity SANITY" data-kind="story"></span>
 
 
 THE ROOTS OF [[Sanity|SANITY]]
@@ -9193,7 +9193,7 @@ on being sensible.  It is left for us to be also reasonable.
 
 
 
-<span class="atom-split" data-atom="story_25_the_slavery_slavery_of_the_mind" data-title="The Thing — THE SLAVERY OF THE MIND" data-chapter="Story 25 THE Slavery SLAVERY OF THE MIND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_slavery_slavery_of_the_mind" data-title="The Thing — THE SLAVERY OF THE MIND" data-chapter="THE Slavery SLAVERY OF THE MIND" data-kind="story"></span>
 
 
 THE [[Slavery|SLAVERY]] OF THE MIND
@@ -9308,7 +9308,7 @@ hard to understand.
 
 
 
-<span class="atom-split" data-atom="story_26_inge_versus_barnes" data-title="The Thing — INGE VERSUS BARNES" data-chapter="Story 26 INGE VERSUS BARNES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_inge_versus_barnes" data-title="The Thing — INGE VERSUS BARNES" data-chapter="INGE VERSUS BARNES" data-kind="story"></span>
 
 
 INGE VERSUS BARNES
@@ -9498,7 +9498,7 @@ from Thee," when God was going up to be crucified.
 
 
 
-<span class="atom-split" data-atom="story_28_the_optimist_as_a_suicide_suicide" data-title="The Thing — THE OPTIMIST AS A SUICIDE" data-chapter="Story 28 THE OPTIMIST AS A suicide SUICIDE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_optimist_as_a_suicide_suicide" data-title="The Thing — THE OPTIMIST AS A SUICIDE" data-chapter="THE OPTIMIST AS A suicide SUICIDE" data-kind="story"></span>
 
 
 THE OPTIMIST AS A [[suicide|SUICIDE]]
@@ -9654,7 +9654,7 @@ for doing so.
 
 
 
-<span class="atom-split" data-atom="story_29_the_outline_of_the_fall" data-title="The Thing — THE OUTLINE OF THE FALL" data-chapter="Story 29 THE OUTLINE OF THE FALL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_outline_of_the_fall" data-title="The Thing — THE OUTLINE OF THE FALL" data-chapter="THE OUTLINE OF THE FALL" data-kind="story"></span>
 
 
 THE OUTLINE OF THE FALL
@@ -9834,7 +9834,7 @@ to the English name.
 
 
 
-<span class="atom-split" data-atom="story_30_the_idols_of_scotland" data-title="The Thing — THE IDOLS OF SCOTLAND" data-chapter="Story 30 THE IDOLS OF SCOTLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_idols_of_scotland" data-title="The Thing — THE IDOLS OF SCOTLAND" data-chapter="THE IDOLS OF SCOTLAND" data-kind="story"></span>
 
 
 THE IDOLS OF SCOTLAND
@@ -10009,7 +10009,7 @@ going back to get things from the wreck.
 
 
 
-<span class="atom-split" data-atom="story_31_if_they_had_believed" data-title="The Thing — IF THEY HAD BELIEVED" data-chapter="Story 31 IF THEY HAD BELIEVED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_if_they_had_believed" data-title="The Thing — IF THEY HAD BELIEVED" data-chapter="IF THEY HAD BELIEVED" data-kind="story"></span>
 
 
 IF THEY HAD BELIEVED
@@ -10205,7 +10205,7 @@ a happier England.
 
 
 
-<span class="atom-split" data-atom="story_32_peace_and_the_papacy" data-title="The Thing — PEACE AND THE PAPACY" data-chapter="Story 32 PEACE AND THE PAPACY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_peace_and_the_papacy" data-title="The Thing — PEACE AND THE PAPACY" data-chapter="PEACE AND THE PAPACY" data-kind="story"></span>
 
 
 PEACE AND THE PAPACY
@@ -10377,7 +10377,7 @@ must itself be wider than the world.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_01" data-title="The Thing — INTRODUCTION (part 1)" data-chapter="Story 01 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_01" data-title="The Thing — INTRODUCTION (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 INTRODUCTION
@@ -10484,7 +10484,7 @@ except that it is right.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Thing — INTRODUCTION (part 2)" data-chapter="Story 01 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Thing — INTRODUCTION (part 2)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 -/-
@@ -10592,7 +10592,7 @@ and preferably the right end.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_03" data-title="The Thing — INTRODUCTION (part 3)" data-chapter="Story 01 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_03" data-title="The Thing — INTRODUCTION (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 Two other characteristic passages from Mr. Mencken will serve to show
@@ -10705,7 +10705,7 @@ or whether parts of it are excellent.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_04" data-title="The Thing — INTRODUCTION (part 4)" data-chapter="Story 01 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_04" data-title="The Thing — INTRODUCTION (part 4)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 In all these instances, therefore, because of the absence of a standard of
@@ -10811,7 +10811,7 @@ walking and talking citizen in a [[City|city]] of paralytics.
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_01" data-title="The Thing — Is HUMANISM A RELIGION? (part 1)" data-chapter="Story 02 Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_01" data-title="The Thing — Is HUMANISM A RELIGION? (part 1)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
 
 
 IS HUMANISM A RELIGION?
@@ -10922,7 +10922,7 @@ not verbally but veritably the New World?
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_02" data-title="The Thing — Is HUMANISM A RELIGION? (part 2)" data-chapter="Story 02 Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_02" data-title="The Thing — Is HUMANISM A RELIGION? (part 2)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
 
 
 [[Well]] ... here is what Mr. Foerster says about the present position
@@ -11050,7 +11050,7 @@ Mr. H. L. Mencken will always be happy to oblige with the answer.
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_03" data-title="The Thing — Is HUMANISM A RELIGION? (part 3)" data-chapter="Story 02 Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_03" data-title="The Thing — Is HUMANISM A RELIGION? (part 3)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
 
 
 Now, it was just here that, for me, the business began to be odd
@@ -11162,7 +11162,7 @@ But so long as they lived they were Christian.
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_04" data-title="The Thing — Is HUMANISM A RELIGION? (part 4)" data-chapter="Story 02 Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_04" data-title="The Thing — Is HUMANISM A RELIGION? (part 4)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
 
 
 I do not therefore believe that Humanism and Religion are rivals
@@ -11240,7 +11240,7 @@ everywhere the high [[River|river]] of baptism upon an aqueduct of Rome.
 
 
 
-<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_01" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 1)" data-chapter="Story 03 THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_01" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 1)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
 
 
 THE DRIFT FROM DOMESTICITY
@@ -11362,7 +11362,7 @@ certainly not similarity.
 
 
 
-<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_02" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 2)" data-chapter="Story 03 THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_02" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 2)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
 
 
 Some social reformers try to evade this difficulty, I know,
@@ -11499,7 +11499,7 @@ organised for philanthropic purposes.
 
 
 
-<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_03" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 3)" data-chapter="Story 03 THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_03" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 3)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
 
 
 If there is this impersonal routine in commercial and even in
@@ -11629,7 +11629,7 @@ della vita, della libertà e della ricerca della felicità.
 
 
 
-<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_01" data-title="The Thing — OBSTINATE ORTHODOXY (part 1)" data-chapter="Story 05 OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_01" data-title="The Thing — OBSTINATE ORTHODOXY (part 1)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
 
 
 OBSTINATE ORTHODOXY
@@ -11777,7 +11777,7 @@ who only enthroned him for being cynical.
 
 
 
-<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_02" data-title="The Thing — OBSTINATE ORTHODOXY (part 2)" data-chapter="Story 05 OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_02" data-title="The Thing — OBSTINATE ORTHODOXY (part 2)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
 
 
 Anyhow, it is in this intellectual world, with its many fools
@@ -11886,7 +11886,7 @@ that roses grow [[Well|well]] in a clay soil."
 
 
 
-<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_03" data-title="The Thing — OBSTINATE ORTHODOXY (part 3)" data-chapter="Story 05 OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_03" data-title="The Thing — OBSTINATE ORTHODOXY (part 3)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
 
 
 In short, what the critics would call romanticism is in fact
@@ -12021,7 +12021,7 @@ Why should I?
 
 
 
-<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_01" data-title="The Thing — WHY I AM A CATHOLIC (part 1)" data-chapter="Story 07 WHY I AM A CATHOLIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_01" data-title="The Thing — WHY I AM A CATHOLIC (part 1)" data-chapter="WHY I AM A CATHOLIC" data-kind="excerpt"></span>
 
 
 WHY I AM A CATHOLIC
@@ -12141,7 +12141,7 @@ on the minister.
 
 
 
-<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_02" data-title="The Thing — WHY I AM A CATHOLIC (part 2)" data-chapter="Story 07 WHY I AM A CATHOLIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_02" data-title="The Thing — WHY I AM A CATHOLIC (part 2)" data-chapter="WHY I AM A CATHOLIC" data-kind="excerpt"></span>
 
 
 Next, Protestantism may be a negative thing.  In other words,
@@ -12277,7 +12277,7 @@ But he does not think he is in the centre; he knows.
 
 
 
-<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_01" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 1)" data-chapter="Story 09 THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_01" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 1)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
 
 
 THE MASK OF THE AGNOSTIC
@@ -12389,7 +12389,7 @@ that he begins to use his mind.  And, as some hold, does not stop.
 
 
 
-<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_02" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 2)" data-chapter="Story 09 THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_02" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 2)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
 
 
 This very unphilosophical irruption into [[philosophy]] was, however,
@@ -12493,7 +12493,7 @@ that we know.
 
 
 
-<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_03" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 3)" data-chapter="Story 09 THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_03" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 3)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
 
 
 It was in a Catholic paper that certain statements were made about
@@ -12591,7 +12591,7 @@ dai resoconti.
 
 
 
-<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_01" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 1)" data-chapter="Story 10 THE EARLY BIRD IN history HISTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_01" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 1)" data-chapter="THE EARLY BIRD IN history HISTORY" data-kind="excerpt"></span>
 
 
 THE EARLY BIRD IN [[history|HISTORY]]
@@ -12705,7 +12705,7 @@ of Daniel O'Connell as there was about that of [[Abraham Lincoln]].
 
 
 
-<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_02" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 2)" data-chapter="Story 10 THE EARLY BIRD IN history HISTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_02" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 2)" data-chapter="THE EARLY BIRD IN history HISTORY" data-kind="excerpt"></span>
 
 
 But I mean the comment here in a rather larger sense; and in a larger
@@ -12830,7 +12830,7 @@ to be first and to be forgotten.
 
 
 
-<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_01" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 1)" data-chapter="Story 14 ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_01" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 1)" data-chapter="ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt"></span>
 
 
 ON THE [[Novel|NOVEL]] WITH A PURPOSE
@@ -12952,7 +12952,7 @@ and the [[philosophy]] is put into the story.
 
 
 
-<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_02" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 2)" data-chapter="Story 14 ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_02" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 2)" data-chapter="ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt"></span>
 
 
 Yet nobody says the magazine story is propagandist.  Nobody says
@@ -13036,7 +13036,7 @@ in our fictions.
 
 
 
-<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_01" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 1)" data-chapter="Story 15 THE REVOLT AGAINST IDEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_01" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 1)" data-chapter="THE REVOLT AGAINST IDEAS" data-kind="excerpt"></span>
 
 
 THE REVOLT AGAINST IDEAS
@@ -13151,7 +13151,7 @@ only a few can succeed.
 
 
 
-<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_02" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 2)" data-chapter="Story 15 THE REVOLT AGAINST IDEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_02" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 2)" data-chapter="THE REVOLT AGAINST IDEAS" data-kind="excerpt"></span>
 
 
 In this sense we may agree with the newspaper correspondent;
@@ -13269,7 +13269,7 @@ to reason, if it will promise them a little peace.
 
 
 
-<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_01" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 1)" data-chapter="Story 21 ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_01" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 1)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
 
 
 ON [[Courage|COURAGE]] AND INDEPENDENCE
@@ -13384,7 +13384,7 @@ than my own unimportant opinions.
 
 
 
-<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_02" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 2)" data-chapter="Story 21 ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_02" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 2)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
 
 
 In any case, my own experience of the modern world tells me that Catholics
@@ -13519,7 +13519,7 @@ thought for himself.
 
 
 
-<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_01" data-title="The Thing — THE NORDIC HINDOO (part 1)" data-chapter="Story 22 THE NORDIC HINDOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_01" data-title="The Thing — THE NORDIC HINDOO (part 1)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt"></span>
 
 
 THE NORDIC HINDOO
@@ -13646,7 +13646,7 @@ up to sack the [[City|city]].
 
 
 
-<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_02" data-title="The Thing — THE NORDIC HINDOO (part 2)" data-chapter="Story 22 THE NORDIC HINDOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_02" data-title="The Thing — THE NORDIC HINDOO (part 2)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt"></span>
 
 
 And when we have reached that point, it is not difficult to see
@@ -13770,7 +13770,7 @@ the only decent object in the landscape.
 
 
 
-<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_03" data-title="The Thing — THE NORDIC HINDOO (part 3)" data-chapter="Story 22 THE NORDIC HINDOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_03" data-title="The Thing — THE NORDIC HINDOO (part 3)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt"></span>
 
 
 I mean nothing flippant when I say that the only interesting thing
@@ -13862,7 +13862,7 @@ of their solar system.
 
 
 
-<span class="atom-split" data-atom="story_24_some_of_our_errors--part_01" data-title="The Thing — SOME OF OUR ERRORS (part 1)" data-chapter="Story 24 SOME OF OUR ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_some_of_our_errors--part_01" data-title="The Thing — SOME OF OUR ERRORS (part 1)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt"></span>
 
 
 SOME OF OUR ERRORS
@@ -13970,7 +13970,7 @@ versions of Latin things often only serve to make them unpopular.
 
 
 
-<span class="atom-split" data-atom="story_24_some_of_our_errors--part_02" data-title="The Thing — SOME OF OUR ERRORS (part 2)" data-chapter="Story 24 SOME OF OUR ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_some_of_our_errors--part_02" data-title="The Thing — SOME OF OUR ERRORS (part 2)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt"></span>
 
 
 I will venture to take one example, about which I feel very strongly.
@@ -14075,7 +14075,7 @@ we stumble over a word we have vulgarised.
 
 
 
-<span class="atom-split" data-atom="story_24_some_of_our_errors--part_03" data-title="The Thing — SOME OF OUR ERRORS (part 3)" data-chapter="Story 24 SOME OF OUR ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_some_of_our_errors--part_03" data-title="The Thing — SOME OF OUR ERRORS (part 3)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt"></span>
 
 
 But the world plays havoc with all such words, whether they are
@@ -14171,7 +14171,7 @@ sapere dove gettare la colpa.
 
 
 
-<span class="atom-split" data-atom="story_27_what_we_think_about--part_01" data-title="The Thing — WHAT WE THINK ABOUT (part 1)" data-chapter="Story 27 WHAT WE THINK ABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_what_we_think_about--part_01" data-title="The Thing — WHAT WE THINK ABOUT (part 1)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt"></span>
 
 
 WHAT WE THINK ABOUT
@@ -14298,7 +14298,7 @@ than Catholicism but lower even than Mithraism.
 
 
 
-<span class="atom-split" data-atom="story_27_what_we_think_about--part_02" data-title="The Thing — WHAT WE THINK ABOUT (part 2)" data-chapter="Story 27 WHAT WE THINK ABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_what_we_think_about--part_02" data-title="The Thing — WHAT WE THINK ABOUT (part 2)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt"></span>
 
 
 As I have said before, it is very difficult to say how we can best
@@ -14410,7 +14410,7 @@ prefer his thoughts to theirs."
 
 
 
-<span class="atom-split" data-atom="story_27_what_we_think_about--part_03" data-title="The Thing — WHAT WE THINK ABOUT (part 3)" data-chapter="Story 27 WHAT WE THINK ABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_what_we_think_about--part_03" data-title="The Thing — WHAT WE THINK ABOUT (part 3)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt"></span>
 
 
 Any number of other examples could of course be given.
@@ -14516,7 +14516,7 @@ e la nenia con cui morì la vecchia vacca.
 
 
 
-<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_01" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 1)" data-chapter="Story 33 THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_01" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 1)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
 
 
 THE SPIRIT OF CHRISTMAS
@@ -14637,7 +14637,7 @@ to being amused.
 
 
 
-<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_02" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 2)" data-chapter="Story 33 THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_02" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 2)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
 
 
 Christmas might be creative.  We are told, even by those who praise

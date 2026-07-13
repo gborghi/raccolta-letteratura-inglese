@@ -440,8 +440,8 @@ outside the radius."
 Why do they only write poetry about the country?  I could turn
 every [[Lyric|lyric]] cry into Cockney.
 
-  "'My heart leaps up when I behold
-  A sky-sign in the sky,'
+"'My heart leaps up when I behold
+A sky-sign in the sky,'
 
 "as I observed in a volume which is too little read, founded on
 the older English poets.  You never saw my 'Golden Treasury Regilded;
@@ -505,14 +505,14 @@ am that sort of man myself.  We must learn to [[Love|love]] [[London]] again,
 as rustics [[Love|love]] it.  Therefore (I quote again from the great Cockney
 version of The Golden Treasury)--
 
-  "'Therefore, ye gas-pipes, ye asbestos stoves,
-  Forbode not any severing of our loves.
-  I have relinquished but your earthly sight,
-  To hold you dear in a more distant way.
-  I'll [[Love|love]] the 'buses lumbering through the wet,
-  Even more than when I lightly tripped as they.
-  The grimy colour of the [[London]] clay
-  Is lovely yet,'
+"'Therefore, ye gas-pipes, ye asbestos stoves,
+Forbode not any severing of our loves.
+I have relinquished but your earthly sight,
+To hold you dear in a more distant way.
+I'll [[Love|love]] the 'buses lumbering through the wet,
+Even more than when I lightly tripped as they.
+The grimy colour of the [[London]] clay
+Is lovely yet,'
 
 "because I have found the [[house]] where I was really born;
 the tall and quiet [[house]] from which I can see [[London]] afar off,
@@ -532,10 +532,10 @@ a long poem of the decadent period, a poem about the old gods
 of Babylon and [[Egypt]], about their blazing and obscene temples,
 their cruel and colossal faces.
 
-  "Or didst thou [[Love|love]] the God of Flies who plagued
-  the Hebrews and was splashed
-  With wine unto the waist, or Pasht who had green
-  beryls for her eyes?"
+"Or didst thou [[Love|love]] the God of Flies who plagued
+the Hebrews and was splashed
+With wine unto the waist, or Pasht who had green
+beryls for her eyes?"
 
 I read this poem because I had to review it for the _Daily News_;
 still it was genuine poetry of its kind.  It really gave out
@@ -2213,10 +2213,10 @@ swing in it!  I can imagine the Futurists round the [[Fire|fire]] in a tavern
 trolling out in [[Chorus|chorus]] some ballad with that incomparable refrain;
 shouting over their swaying flagons some such words as these:
 
-  A notion came into my head as new as it was bright
-  That [[Poems|poems]] might be written on the subject of a fight;
-  No praise was given to Lancelot, [[Achilles]], Nap or Corbett,
-  But we will sing the praises of man holding the flywheel of which the ideal
+A notion came into my head as new as it was bright
+That [[Poems|poems]] might be written on the subject of a fight;
+No praise was given to Lancelot, [[Achilles]], Nap or Corbett,
+But we will sing the praises of man holding the flywheel of which the ideal
 steering-post traverses the earth impelled itself around the circuit
 of its own orbit.
 
@@ -2225,10 +2225,10 @@ as to permit any democratic restraints upon the violence and levity
 of the luxurious classes, there would be a special verse in [[Honour|honour]]
 of the motors also:
 
-  My fathers scaled the [[Mountains|mountains]] in their pilgrimages far,
-  But I feel full of energy while sitting in a car;
-  And petrol is the perfect wine, I lick it and absorb it,
-  So we will sing the praises of man holding the flywheel of which the ideal
+My fathers scaled the [[Mountains|mountains]] in their pilgrimages far,
+But I feel full of energy while sitting in a car;
+And petrol is the perfect wine, I lick it and absorb it,
+So we will sing the praises of man holding the flywheel of which the ideal
 steering-post traverses the earth impelled itself around the circuit
 of its own orbit.
 
@@ -5027,8 +5027,8 @@ about a murder committed by a jealous sister, for the consummation
 of which a wicked miller is hanged, and the [[Chorus|chorus]] (which should
 come in a kind of burst) runs:
 
-  "And I'll be true to my [[Love|love]]
-  If my [[Love|love]]'ll be true to me."
+"And I'll be true to my [[Love|love]]
+If my [[Love|love]]'ll be true to me."
 
 The very reasonable arrangement here suggested is introduced,
 I think, as a kind of throw back to the normal, a reminder that even
@@ -5525,8 +5525,8 @@ outside the radius."
 Why do they only write poetry about the country?  I could turn
 every [[Lyric|lyric]] cry into Cockney.
 
-  "'My heart leaps up when I behold
-  A sky-sign in the sky,'
+"'My heart leaps up when I behold
+A sky-sign in the sky,'
 
 "as I observed in a volume which is too little read, founded on
 the older English poets.  You never saw my 'Golden Treasury Regilded;
@@ -5590,14 +5590,14 @@ am that sort of man myself.  We must learn to [[Love|love]] [[London]] again,
 as rustics [[Love|love]] it.  Therefore (I quote again from the great Cockney
 version of The Golden Treasury)--
 
-  "'Therefore, ye gas-pipes, ye asbestos stoves,
-  Forbode not any severing of our loves.
-  I have relinquished but your earthly sight,
-  To hold you dear in a more distant way.
-  I'll [[Love|love]] the 'buses lumbering through the wet,
-  Even more than when I lightly tripped as they.
-  The grimy colour of the [[London]] clay
-  Is lovely yet,'
+"'Therefore, ye gas-pipes, ye asbestos stoves,
+Forbode not any severing of our loves.
+I have relinquished but your earthly sight,
+To hold you dear in a more distant way.
+I'll [[Love|love]] the 'buses lumbering through the wet,
+Even more than when I lightly tripped as they.
+The grimy colour of the [[London]] clay
+Is lovely yet,'
 
 "because I have found the [[house]] where I was really born;
 the tall and quiet [[house]] from which I can see [[London]] afar off,
@@ -5617,10 +5617,10 @@ a long poem of the decadent period, a poem about the old gods
 of Babylon and [[Egypt]], about their blazing and obscene temples,
 their cruel and colossal faces.
 
-  "Or didst thou [[Love|love]] the God of Flies who plagued
-  the Hebrews and was splashed
-  With wine unto the waist, or Pasht who had green
-  beryls for her eyes?"
+"Or didst thou [[Love|love]] the God of Flies who plagued
+the Hebrews and was splashed
+With wine unto the waist, or Pasht who had green
+beryls for her eyes?"
 
 I read this poem because I had to review it for the _Daily News_;
 still it was genuine poetry of its kind.  It really gave out
@@ -7388,10 +7388,10 @@ swing in it!  I can imagine the Futurists round the [[Fire|fire]] in a tavern
 trolling out in [[Chorus|chorus]] some ballad with that incomparable refrain;
 shouting over their swaying flagons some such words as these:
 
-  A notion came into my head as new as it was bright
-  That [[Poems|poems]] might be written on the subject of a fight;
-  No praise was given to Lancelot, [[Achilles]], Nap or Corbett,
-  But we will sing the praises of man holding the flywheel of which the ideal
+A notion came into my head as new as it was bright
+That [[Poems|poems]] might be written on the subject of a fight;
+No praise was given to Lancelot, [[Achilles]], Nap or Corbett,
+But we will sing the praises of man holding the flywheel of which the ideal
 steering-post traverses the earth impelled itself around the circuit
 of its own orbit.
 
@@ -7400,10 +7400,10 @@ as to permit any democratic restraints upon the violence and levity
 of the luxurious classes, there would be a special verse in [[Honour|honour]]
 of the motors also:
 
-  My fathers scaled the [[Mountains|mountains]] in their pilgrimages far,
-  But I feel full of energy while sitting in a car;
-  And petrol is the perfect wine, I lick it and absorb it,
-  So we will sing the praises of man holding the flywheel of which the ideal
+My fathers scaled the [[Mountains|mountains]] in their pilgrimages far,
+But I feel full of energy while sitting in a car;
+And petrol is the perfect wine, I lick it and absorb it,
+So we will sing the praises of man holding the flywheel of which the ideal
 steering-post traverses the earth impelled itself around the circuit
 of its own orbit.
 
@@ -10352,8 +10352,8 @@ about a murder committed by a jealous sister, for the consummation
 of which a wicked miller is hanged, and the [[Chorus|chorus]] (which should
 come in a kind of burst) runs:
 
-  "And I'll be true to my [[Love|love]]
-  If my [[Love|love]]'ll be true to me."
+"And I'll be true to my [[Love|love]]
+If my [[Love|love]]'ll be true to me."
 
 The very reasonable arrangement here suggested is introduced,
 I think, as a kind of throw back to the normal, a reminder that even

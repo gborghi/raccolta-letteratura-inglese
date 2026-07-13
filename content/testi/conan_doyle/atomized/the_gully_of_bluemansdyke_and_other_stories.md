@@ -845,7 +845,7 @@ P. S. — You ask about the Red Lamp. It is the usual sign of the general practi
 
 
 
-<span class="atom-split" data-atom="story_01_the_gully_of_bluemansdyke" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE GULLY OF BLUEMANSDYKE." data-chapter="Story 01 THE GULLY OF BLUEMANSDYKE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_gully_of_bluemansdyke" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE GULLY OF BLUEMANSDYKE." data-chapter="THE GULLY OF BLUEMANSDYKE" data-kind="story"></span>
 
 
 THE GULLY OF BLUEMANSDYKE.
@@ -984,7 +984,7 @@ We need not detail that joyful ride to Trafalgar, nor the welcome, nor the attem
 
 
 
-<span class="atom-split" data-atom="story_02_the_parson_of_jackmans_gulch" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE PARSON OF JACKMAN’S GULCH." data-chapter="Story 02 THE PARSON OF JACKMANS GULCH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_parson_of_jackmans_gulch" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE PARSON OF JACKMAN’S GULCH." data-chapter="THE PARSON OF JACKMANS GULCH" data-kind="story"></span>
 
 
 THE PARSON OF JACKMAN’S GULCH.
@@ -1063,7 +1063,7 @@ Jackman’s Gulch recovered from this blow, and is now a flourishing township. S
 
 
 
-<span class="atom-split" data-atom="story_03_my_friend_the_murderer" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — MY FRIEND THE MURDERER." data-chapter="Story 03 MY FRIEND THE MURDERER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_my_friend_the_murderer" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — MY FRIEND THE MURDERER." data-chapter="MY FRIEND THE MURDERER" data-kind="story"></span>
 
 
 MY FRIEND THE MURDERER.
@@ -1195,7 +1195,7 @@ I cannot conclude without borrowing the account of the fatal quarrel which appea
 
 
 
-<span class="atom-split" data-atom="story_04_the_silver_hatchet" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE SILVER HATCHET." data-chapter="Story 04 THE SILVER HATCHET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_silver_hatchet" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE SILVER HATCHET." data-chapter="THE SILVER HATCHET" data-kind="story"></span>
 
 
 THE SILVER HATCHET.
@@ -1289,7 +1289,7 @@ The broken pieces of the silver hatchet were thrown into a deep pond, a clever p
 
 
 
-<span class="atom-split" data-atom="story_05_the_man_from_archangel" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE MAN FROM ARCHANGEL." data-chapter="Story 05 THE MAN FROM ARCHANGEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_man_from_archangel" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THE MAN FROM ARCHANGEL." data-chapter="THE MAN FROM ARCHANGEL" data-kind="story"></span>
 
 
 THE MAN FROM ARCHANGEL.
@@ -1376,7 +1376,7 @@ Madge and I buried them there on the shores of the desolate northern sea. They l
 
 
 
-<span class="atom-split" data-atom="story_06_that_little_square_box" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THAT LITTLE SQUARE BOX." data-chapter="Story 06 THAT LITTLE SQUARE BOX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_that_little_square_box" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — THAT LITTLE SQUARE BOX." data-chapter="THAT LITTLE SQUARE BOX" data-kind="story"></span>
 
 
 THAT LITTLE SQUARE BOX.
@@ -1564,7 +1564,7 @@ Little more need be said. It is not a subject on which I care to dwell. The whol
 
 
 
-<span class="atom-split" data-atom="story_07_a_night_among_the_nihilists" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — A NIGHT AMONG THE NIHILISTS." data-chapter="Story 07 A NIGHT AMONG THE NIHILISTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_a_night_among_the_nihilists" data-title="THE GULLY OF BLUEMANSDYKE AND OTHER STORIES — A NIGHT AMONG THE NIHILISTS." data-chapter="A NIGHT AMONG THE NIHILISTS" data-kind="story"></span>
 
 
 A NIGHT AMONG THE NIHILISTS.

@@ -16,10 +16,10 @@ tags:
 
 -=[ [[cockneys|COCKNEYS]] AND THEIR JOKES ]=-
 
-     Excerpted from All Things Considered by G. K. Chesterton; an etext in
-     progress, from an edition by John Lane Company, [[New York]], 1909.
+Excerpted from All Things Considered by G. K. Chesterton; an etext in
+progress, from an edition by John Lane Company, [[New York]], 1909.
 
-     This etext was typed by Rob Szarka.
+This etext was typed by Rob Szarka.
 
 A writer in the Yorkshire Evening Post is very angry indeed
 with my performances in this column.  His precise terms
@@ -249,10 +249,10 @@ Part of an etext in progress by Rob Szarka.
 
 -=[ [[cockneys|COCKNEYS]] AND THEIR JOKES ]=-
 
-     Excerpted from All Things Considered by G. K. Chesterton; an etext in
-     progress, from an edition by John Lane Company, [[New York]], 1909.
+Excerpted from All Things Considered by G. K. Chesterton; an etext in
+progress, from an edition by John Lane Company, [[New York]], 1909.
 
-     This etext was typed by Rob Szarka.
+This etext was typed by Rob Szarka.
 
 A writer in the Yorkshire Evening Post is very angry indeed
 with my performances in this column.  His precise terms

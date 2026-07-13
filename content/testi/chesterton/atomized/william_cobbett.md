@@ -38,9 +38,9 @@ CHAPTER I
 
 THE REVIVAL OF COBBETT
 
-This chapter is here called `The Revival of Cobbett.'
+This chapter is here called ‘The Revival of Cobbett.'
 As originally planned, only a little while ago,
-it was to have been called `The Neglect of Cobbett.'
+it was to have been called ‘The Neglect of Cobbett.'
 It is not unimportant to realise how recent has been the change.
 It is but a year or two ago that I had the great and
 (it is to be feared) the undeserved [[Honour|honour]] of reading a paper
@@ -127,7 +127,7 @@ How fortunate is the condition of the Englishman who can kick people;
 and how relatively [[Melancholy|melancholy]] that of the Frenchman who can only give
 them a blow of the foot!  If we say that two people fight like cat
 and dog, the very words seem to have in them a shindy of snaps
-and screams and scratches.  If we say `comme le chat et le chien,'
+and screams and scratches.  If we say ‘comme le chat et le chien,'
 we are depressed with the suggestion of comparative peace.
 French has of course its own depths of resounding power:
 but not this sort of battering ram of bathos.  Now nobody
@@ -148,7 +148,7 @@ have at least kept alive a purely literary tradition of Cobbett.
 But, as it happened, I added some words which I will also take
 the liberty of mentioning, because they exactly illustrate
 the stages of this re-emergence of the great writer's fame from
-the field of literature to the field of life.  `There is a serious
+the field of literature to the field of life.  ‘There is a serious
 danger that this charm in English literature may be lost.
 The comparative absence of abuse in social and senatorial life may
 take away one of the beauties of our beautiful and historic speech.
@@ -202,7 +202,7 @@ out long ago and found to be quite empty and fallacious.
 He had been preserved only for his style; and even that was
 rude and old-fashioned, especially in the quaint Saxon
 archaism of calling a spade a spade.  They little thought
-to have heard the horrid sound, the hideous word `spade'
+to have heard the horrid sound, the hideous word ‘spade'
 itself, shake the arches of St. Stephen's as with a blasphemy.
 But the question is not merely one of idioms but of ideas.
 They had always supposed at least that Cobbett's ideas
@@ -331,10 +331,10 @@ nobody else had any notion of what was really coming upon the world.
 I mean that if you had gone to Jefferson at the moment when
 he was writing the Declaration of Independence, and shown him
 the exact picture of an Oil Trust, and its present position
-in America, he would have said, `It is not to be believed.'
+in America, he would have said, ‘It is not to be believed.'
 If you had gone to Cobbett, and shown him the same thing,
 he would have said, like the bearded old gentleman in the rhyme,
-`It is just as I feared.'  If you had confronted Carnot with Caillaux,
+‘It is just as I feared.'  If you had confronted Carnot with Caillaux,
 the old revolutionist would have wondered what inconceivable
 curse could have fallen on great France of the soldiers.
 If you had confronted Cobbett with some of our similar specimens,
@@ -468,7 +468,7 @@ is to-day groping his way back past all the literature of the nineteenth;
 past all the varied Victorian romances of fashionable progress in Macaulay
 and fashionable reaction in Carlyle; till he finds far up on a high shelf
 the old thick, leather-bound volumes, with faded print and the barely
-decipherable title of `Cobbett's Register'; and taking down the book,
+decipherable title of ‘Cobbett's Register'; and taking down the book,
 amid the gathering [[Storm|storm]] and the growing darkness, reads this old story.
 
 CHAPTER II
@@ -483,13 +483,13 @@ Yet further south where the Sussex hills take on an outline at once
 more opulent and more bare there was repeated a rhyme that might run
 like a refrain through much of his story.
 
-  [[Bees]] are [[Bees|bees]] of Paradise,
-  Do the work of Jesus [[Christ]],
-  Do the work that no man can;
-  God made [[Bees|bees]] and [[Bees|bees]] make honey,
-  God made man and man makes money,
-  God made man to plough and reap and sow,
-  And God made little boys to scare away the crow.
+[[Bees]] are [[Bees|bees]] of Paradise,
+Do the work of Jesus [[Christ]],
+Do the work that no man can;
+God made [[Bees|bees]] and [[Bees|bees]] make honey,
+God made man and man makes money,
+God made man to plough and reap and sow,
+And God made little boys to scare away the crow.
 
 And so the little boy in question continued to scare away the crow,
 in obedience to that providential arrangement.
@@ -560,7 +560,7 @@ The son was perhaps all his life' a little too prone to play
 the schoolmaster; and from an early age he played the schoolmaster
 to himself.  We have many notes of his first reading;
 notably a glimpse which shows him gaping at the broad
-farcical title of `The Tale of a Tub,' so much in his own
+farcical title of ‘The Tale of a Tub,' so much in his own
 verbal fashion, and buying it and trying to understand it.
 He read it under a haystack, and it was so that there fell
 across him in his first sunshine the shadow of that dark
@@ -579,7 +579,7 @@ by running back again.
 He was a character from his earliest years.  There was a sort of calm
 impetuosity about his movements.  He set out one day to escort some
 girls to the village fair, dressed up in all his village finery.
-He saw a coach with `[[London]]' on it, and inconsequently got on to it
+He saw a coach with ‘[[London]]' on it, and inconsequently got on to it
 and went careering away, leaving his lady friends, his fair,
 his farm, and his family behind him like things of the past.
 Fortunately he met a friend of his father's in [[London]],
@@ -677,7 +677,7 @@ in simple words; and somehow such a twilight of grey and silver
 remains long in the reader's [[Memory|memory]].  At the end of a small yard
 he saw a girl with dark hair scouring out some pots and pans.
 He looked at her again and saw she was very beautiful.
-Then he said with a sort of fatal finality:  `That's the girl for me.'
+Then he said with a sort of fatal finality:  ‘That's the girl for me.'
 And indeed she was the wife who was with him when he died fifty
 years afterwards, on those Surrey hills that were his home.
 
@@ -708,7 +708,7 @@ To enter into his sense of triumph we must understand something
 that is found in him through life, and especially found in him,
 when it is generally rarest, in youth.  It is something seldom
 understood in a society without peasants; an oligarchy which can
-only understand what we call `[[Honour|honour]]' as it is understood
+only understand what we call ‘[[Honour|honour]]' as it is understood
 by gentlemen.  It was the [[Self|self]]-respect of the poor, which all
 modern industrial society has been slowly crushing to [[Death|death]].
 To find it anywhere uncrushed and even uncowed was to Cobbett
@@ -946,13 +946,13 @@ Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
 is that their [[songs]] in [[America]] have been [[songs]] of [[Exile|exile]].
 The most familiar of them represents the Irishman with his bundle
-bound for Philadelphia, or the Englishman whistling `Falmouth
+bound for Philadelphia, or the Englishman whistling ‘Falmouth
 is a fine town' as he walks down the street of Baltimore,
 or the Scotsman rising to that high note not unworthy of
 the waters of Babylon.
 
-  But still our hearts are true, our hearts are Highland,
-  And we in dreams behold the Hebrides.
+But still our hearts are true, our hearts are Highland,
+And we in dreams behold the Hebrides.
 
 So strong is such a tradition that later generations will dream
 of what they have never seen.  The nationalism is most intense where
@@ -1560,7 +1560,7 @@ It was part of the routine, of the rules of the game, of the way
 of the world.  But the man who accepts everything and defends such
 things is not in the same world with the man who risks everything,
 or even anything, to denounce them.  We may well say about Macaulay
-what he himself said about Cranmer:  `It is no great condemnation
+what he himself said about Cranmer:  ‘It is no great condemnation
 of a man to say that he did not possess heroic fortitude.'
 And it is no great condemnation of him to say that he will never come
 within a thousand miles of the man who does possess heroic fortitude,
@@ -1605,7 +1605,7 @@ Macaulay's criticism of [[Cranmer]] is more effective for everyday purposes;
 as when he says that the crime of the Tudor politician was not in being
 too indifferent to be killed, but in killing other people for things
 about which he was indifferent, and enacting laws against anyone
-`who should do from conviction what he had done from cowardice.'
+‘who should do from conviction what he had done from cowardice.'
 But there is a quality in that outburst of Cobbett about Cranmer
 which we must learn to appreciate or leave off troubling about Cobbett.
 There is a volume and a violence of humanity in such hatred; a hatred
@@ -1784,7 +1784,7 @@ for retreating, blamed for all he did and all he did not do.
 Anyhow he thought he was more useful to the reform in America
 than in gaol; and certainly we should otherwise have lost some
 protests that were much needed.  Nobody else could have done justice
-to an even more absurd plot called `the Derbyshire Insurrection,'
+to an even more absurd plot called ‘the Derbyshire Insurrection,'
 which was entirely created by an agent provocateur named [[Oliver]].
 It is typical of the wrangles that go on among reformers that if
 some of the other Radicals blamed Cobbett for escaping to [[America]],
@@ -1842,7 +1842,7 @@ any more than Shelley; and he seems to have had his
 doubts about the hopefulness of mere huckstering and
 unhampered exchange, somewhat in the manner of Cobbett.
 Now Cobbett, in his first American period, was hitting out
-at the Jacobins on the principle of `see a head and hit it';
+at the Jacobins on the principle of ‘see a head and hit it';
 and the intellectual brow of Thomas Paine was naturally prominent.
 He attacked Paine as he generally did attack people, in a highly
 personal and ferocious manner.  He said things about that
@@ -2105,7 +2105,7 @@ The Last Hundred Days of English Freedom, attacking the
 coercion acts that had threatened his liberty in England.
 It is notable that Cobbett always treated tyranny as a new thing;
 his attitude to abstract revolution was well expressed
-in the phrase, `I was born under a [[King]] and Constitution;
+in the phrase, ‘I was born under a [[King]] and Constitution;
 but I was not born under the Six Acts.'  It was a new Tory
 raid and reign of terror that had driven him into [[Exile|exile]];
 but he did not remain there long; and his conduct when he
@@ -2176,7 +2176,7 @@ into a [[River|river]], and who says that it must be true because the rock
 is till there.  As is commonly the case in the small talk of a
 scientific age, the [[Satire|satire]] is directed against popular ideas.
 As is also commonly the case in such an age, the [[Satire|satire]] is really
-very shallow.  When the critics mock a man for saying `I believe it
+very shallow.  When the critics mock a man for saying ‘I believe it
 because I have seen the rock,' nine-tenths of them could not give
 any sort of reason for their own historic beliefs, beyond saying,
 'I believe it because I saw it somewhere set out in printer's ink
@@ -2190,7 +2190,7 @@ and to that limited extent consistency is corroboration.
 It is far more superstitious to assume that print is proof.
 So far as print is concerned, the whole of history might be as
 utterly imaginationary as that mazy river and that dancing rock
-in the dizzy pipe-dream of `[[Kubla Khan]]'.
+in the dizzy pipe-dream of ‘[[Kubla Khan]]'.
 
 But there are others whose state of mind is still more extraordinary.
 They not only do not need the landscape to corroborate their [[history]],
@@ -2296,7 +2296,7 @@ in the world, with the best-balanced constitution in the world,
 by a wise and [[Well|well]]-timed progress or series of reforms, that ever
 kept in mind the need of constitutionalism and of balance.
 The Barons had extorted a constitutional charter from the [[King]], in advance
-of that feudal `age' and a foundation for parliamentary freedom.
+of that feudal ‘age' and a foundation for parliamentary freedom.
 The Commons came into the struggle for parliamentary freedom when it
 was waged against the Stuarts.  By that time the Revival of Learning
 had led to the Reformation or sweeping away of the superstition
@@ -2674,7 +2674,7 @@ concealed by a trick, his reaction was a towering passion;
 and whether that or a more patient exposition be appropriate
 to controversy, there is no doubt about which is appropriate
 to Cobbett.  He would have said that when he found a man robbing
-his hen-roost he called out `Stop, thief!' and not `Stop,
+his hen-roost he called out ‘Stop, thief!' and not ‘Stop,
 philosophical communist invading the thesis of private property!'
 He would have said that when a man told lies he called him a liar,
 and not a person insensible to the value of objective reality.
@@ -2685,17 +2685,17 @@ what he said--that is quite different and much more difficult.
 Those who suppose that he must be talking nonsense because he was talking
 too loud are much less clearheaded and even cool-headed than he was.
 Veracity has nothing to do with violence, one way or the other.
-One historian may prefer to say, `The Emperor Nero set on foot
+One historian may prefer to say, ‘The Emperor Nero set on foot
 several conspiracies against the life of Agrippina his mother,
 and expressed satisfaction when the final attempt was successful.'
-Another may say, `The bloody and treacherous tyrant foully murdered
+Another may say, ‘The bloody and treacherous tyrant foully murdered
 his own mother, and fiendishly exulted in the detestable deed.'
 But the second statement records the same fact as the first,
 and records it equally correctly.  It is accurate to say,
 'The Rev. Titus Oates declared on oath his knowledge of a
 Papist conspiracy; but his statements, which led to the execution
 of many Papists, were subsequently found to be fictitious.'
-But it is every bit as accurate to say, `The liar and perjurer Oates
+But it is every bit as accurate to say, ‘The liar and perjurer Oates
 cruelly swore away the lives of [[Innocent|innocent]] Catholics, blasphemously calling
 on God to witness to his murderous lie.'  The violent man is telling
 the [[Truth|truth]] quite as logically and precisely as the more dignified man.
@@ -2757,7 +2757,7 @@ But when he found a corpse he gave a shout; and if fools laughed
 at anyone shouting, he would shout the more, till the world
 should be shaken with that terrible cry in the [[Night|night]].
 
-It is that ringing and arresting cry of `Murder!' wrung from
+It is that ringing and arresting cry of ‘Murder!' wrung from
 him as he stumbled over those bones of the dead England,
 that distinguishes him from all his contemporaries.  It is not the mere
 discovery of the bones, or in a sense even the study of them.
@@ -2771,8 +2771,8 @@ like Egyptian mummies.  What was peculiar to Cobbett was the way
 in which he treated this question of the past as a question
 of the present.  He treated it, not as a historical point
 to be decided, but rather as a legal wrong to be righted.
-If he did not exactly answer the question, `Can these dry bones live?'
-he did say in another sense, `I know that their avenger liveth.'
+If he did not exactly answer the question, ‘Can these dry bones live?'
+he did say in another sense, ‘I know that their avenger liveth.'
 He was prepared to make those bones his business, like those of Paine;
 to be a detective in a mystery story, and present himself ex
 ossibus ultor.  One might suppose a detective story would be more
@@ -2827,7 +2827,7 @@ But he was fashionable because he assured men that medievalism
 was only a romance; and Cobbett was far less fashionable
 when he urged it as a reality.  Scott was merely sentimental
 about Mary Stuart, as he was about Charles Edward Stuart;
-he was singing `Will ye no' come back again?' to people who would
+he was singing ‘Will ye no' come back again?' to people who would
 have been a horrible nuisance to him if they had come back again.
 But Cobbett was not sentimental about Mary Tudor; he did solidly
 believe that with her the good times went; and he did really
@@ -2972,7 +2972,7 @@ buildings and even landscapes look ludicrous, like landscapes
 of topsy-turvydom, when he turned on them that Gargantuan grin.
 We shall note later how for him great [[London]] was simply;
 'the Wen,' a big boil and repulsive eruption on the [[Body|body]] politic.
-We shall see how Old Sarum was `the Accursed Hill.'
+We shall see how Old Sarum was ‘the Accursed Hill.'
 He made the Martello towers look even sillier than they look now.
 Nothing was ever better in its way than the dramatic
 derision with which he pointed at the canal at Hythe,
@@ -3097,7 +3097,7 @@ was correct as with whether it was characteristic.
 Of course, if Cobbett had treated any abstract science it would
 have become a concrete science.  If he had merely undertaken
 to set out the multiplication table it would have run:
-`Twice one useless regiment is two useless regiments;
+‘Twice one useless regiment is two useless regiments;
 twice two venal Ministers is four venal Ministers;
 twice three pluralistic parsonages is six pluralistic parsonages
 like those possessed by the Reverend Mr. Hugg of Netherwallop,'
@@ -3205,9 +3205,9 @@ more subtle than it seems.  We have noticed the same offhand
 offensiveness in his quotations in the English Grammar.
 With his artless artistry, he gives more weight to this
 abusive term by using it not so much abusively as allusively.
-Instead of saying, `This vile city is only one monstrous Wen,'
-he is careful to say quite carelessly, `I was coming from
-the Wen,' as if he were saying, `I was coming from the Wood.'
+Instead of saying, ‘This vile city is only one monstrous Wen,'
+he is careful to say quite carelessly, ‘I was coming from
+the Wen,' as if he were saying, ‘I was coming from the Wood.'
 He seems to assume that everybody knows it by that name.
 It is impossible, I say, to deal with all these details;
 we can only pick out one or two because they are symbolic
@@ -3348,7 +3348,7 @@ up a system which would make it impossible to be thrifty.
 Those who used the word thrift twenty times a day never looked
 at the word once.  If they had, they would have seen that thrift
 depends upon thriving.  In Shakespeare, it is used as practically
-meaning property or wealth; `where thrift may follow fawning.'
+meaning property or wealth; ‘where thrift may follow fawning.'
 Unfortunately, in a modern plutocracy it can only follow fawning.
 It certainly cannot follow saving.  A servant who is agreeably
 servile may possibly have a fortune by favouritism.
@@ -3401,9 +3401,9 @@ who sympathise with the poor from the outside and some who can
 sympathise from the inside.  There is one kind of man who pities
 a beggar because the beggar is so different from himself,
 and another who does it because the beggar is so similar.
-Many a perfectly sincere reformer will say, `Imagine a man
-starving in such a slum,' as he would say, `Imagine a man
-being really boiled by cannibals in a pot,' or, `Imagine that
+Many a perfectly sincere reformer will say, ‘Imagine a man
+starving in such a slum,' as he would say, ‘Imagine a man
+being really boiled by cannibals in a pot,' or, ‘Imagine that
 a man really was-chopped in pieces by Chinese torturers.'
 His phrase is a piece of perfectly honest rhetoric; but he knows
 that we do not really imagine it.  But when Cobbett writes about it,
@@ -3487,19 +3487,19 @@ in a fit of absence of mind.  It must be somewhat sadly added
 that they neglected a nation with the same absence of mind.
 Oligarchies far harsher and more arbitrary in legal form would
 probably have more responsibility in the sense of remembrance.
-A Roman official might have written in a famine, `There is
+A Roman official might have written in a famine, ‘There is
 still food enough for the citizens and even the slaves.'
 A Victorian gentleman in the Hungry Forties simply sat down
-at his groaning mahogany and said, `There is enough food.'
+at his groaning mahogany and said, ‘There is enough food.'
 A planter in South Carolina might well have been heard saying,
-`The Blockade is starving the blacks as [[Well|well]] as ourselves,'
-The merchant in Manchester was only heard saying, `There may be a slump;
+‘The Blockade is starving the blacks as [[Well|well]] as ourselves,'
+The merchant in Manchester was only heard saying, ‘There may be a slump;
 but with the next boom we shall completely recover ourselves.'
 That is the mental blank peculiar to this mentality.  They did
-not even look down with scorn and say, `We are all comfortable,
+not even look down with scorn and say, ‘We are all comfortable,
 even if these vagabonds are beggared by their own vices.'
 They looked round with complete satisfaction and said,
-`We are all comfortable.'
+‘We are all comfortable.'
 
 This distinction is simply a fact, and should not be mixed up with moral
 or sentimental recriminations.  It is a character of the condition
@@ -3546,7 +3546,7 @@ fashion how he had lashed the world like Isaiah or Juvenal,
 and refused to descend to the bathos of slapping a child.
 Cobbett had lashed the world like nobody in the world but Cobbett.
 And he had a better right than Hugo to say truly of himself
-that `thunder should be mild at [[Home|home]].'
+that ‘thunder should be mild at [[Home|home]].'
 
 But when all this element in the great Englishman has been
 allowed for, it is still true that there was one quality
@@ -3561,7 +3561,7 @@ especially so as to make men say that he had turned his coat.
 He rejoiced and exulted in a scene.  There is nothing more vivid than
 that scene on which Mr. Edward Thomas touched with great felicity,
 the great meeting which Cobbett had worked up to the point
-of a passionate enthusiasm for throwing him out.  `I stood up,'
+of a passionate enthusiasm for throwing him out.  ‘I stood up,'
 he says,'that they might see the man they had to throw out.'
 That phrase is a photograph before the days of photography;
 the picture of that big, snorting, bellicose farmer, standing up
@@ -3694,15 +3694,15 @@ and he was probably brooding, as he often did, on the very darkest
 version of their history and character, when he saw a strange object
 or ornament or accident standing up in those smooth and well-ordered
 grounds neatly fenced from the road.  It was actually in the shape
-of a cross; `big enough and broad enough to crucify a man on.'
+of a cross; ‘big enough and broad enough to crucify a man on.'
 With something that makes his staccato style sound for the first [[Time|time]]
-like broken speech, he repeats more than once, `Aye, big enough and
+like broken speech, he repeats more than once, ‘Aye, big enough and
 broad enough to crucify a man on.'  And then he says that his horse,
 who was accustomed to the ambling trot with which he rambled
 about for his adventures, was startled by the spur or the gesture
 which urged him to sudden activity.  He must have gone, he says,
 at a great and very uncommon pace as he got away from that place.
-`I think he [meaning the [[Horse|horse]]] must often have wondered what gave
+‘I think he [meaning the [[Horse|horse]]] must often have wondered what gave
 me wings that once and that once only.'
 
 That curious incident is all the more impressive because
@@ -3883,9 +3883,9 @@ and saying he would see them damned first.  Indeed, he would
 have looked forward to seeing the Ministers damned with a much
 more solemn and religious expectation.  It only illustrates
 in passing a certain individual twist that lie could always
-give to his plain talk, that where another man would say `I'll
-be hanged if you do,' or possibly `I'll be shot if you do,'
-he had the fine fastidiousness to say `I'll be broiled if you do.'
+give to his plain talk, that where another man would say ‘I'll
+be hanged if you do,' or possibly ‘I'll be shot if you do,'
+he had the fine fastidiousness to say ‘I'll be broiled if you do.'
 But when his enemies began to shoot this light thing at him
 as an arrow from his own quiver, he wore it like a feather
 in his cap.  He seized the opportunity of solidifying
@@ -3987,10 +3987,10 @@ have retorted that it was well that he should be in a padded cell.
 Yet what he shouted is of a certain curious interest and is
 worth recording.  It might be typified very tersely in what he said
 in answer to one of the leading statesmen, who said that we
-might look with confidence to the future, `because all the great
+might look with confidence to the future, ‘because all the great
 interests are prospering.'  Cobbett wrote in large letters
 like a man scrawling on a great wall or the side of a [[Hill|hill]]:
-`The working classes, then, are not a great interest.'
+‘The working classes, then, are not a great interest.'
 
 He added grimly that perhaps they might be some day.
 Those who see in Trade Union dictatorship a red dawn
@@ -4016,8 +4016,8 @@ to have the faintest notion of what the people felt or experienced.
 The only truly popular tradition about Peel has nothing to do with
 the inscriptions on the statues or the speeches on the Corn Laws.
 It is the fact that, far down in the depths of a democratic world that
-politicians never visit, the slang names for the new police were `Bobbies'
-or `Peelers.' And if we want to seize the very soul of Peel and his
+politicians never visit, the slang names for the new police were ‘Bobbies'
+or ‘Peelers.' And if we want to seize the very soul of Peel and his
 Parliamentary type, we can fix it in the fact that he organised
 a tremendously powerful and privileged gendarmerie for the control
 or coercion of the people, and thought they could be distinguished from
@@ -4232,7 +4232,7 @@ The makers of the French Pantheon, wisely combining republican and
 royal and imperial trophies, have inscribed their common monument,
 'To All the Glories of France.'  If any man as wise had stood
 by the little gravestone in the churchyard of Farnham,
-he might have traced the words, `To All the Glories of England.'
+he might have traced the words, ‘To All the Glories of England.'
 All the other leaders were falling apart into foolish party
 systems and false antitheses; into Tories who were mere squires,
 and Radicals who were mere merchants.  Windham had been his friend;
@@ -4414,9 +4414,9 @@ CHAPTER I
 
 THE REVIVAL OF COBBETT
 
-This chapter is here called `The Revival of Cobbett.'
+This chapter is here called ‘The Revival of Cobbett.'
 As originally planned, only a little while ago,
-it was to have been called `The Neglect of Cobbett.'
+it was to have been called ‘The Neglect of Cobbett.'
 It is not unimportant to realise how recent has been the change.
 It is but a year or two ago that I had the great and
 (it is to be feared) the undeserved [[Honour|honour]] of reading a paper
@@ -4503,7 +4503,7 @@ How fortunate is the condition of the Englishman who can kick people;
 and how relatively [[Melancholy|melancholy]] that of the Frenchman who can only give
 them a blow of the foot!  If we say that two people fight like cat
 and dog, the very words seem to have in them a shindy of snaps
-and screams and scratches.  If we say `comme le chat et le chien,'
+and screams and scratches.  If we say ‘comme le chat et le chien,'
 we are depressed with the suggestion of comparative peace.
 French has of course its own depths of resounding power:
 but not this sort of battering ram of bathos.  Now nobody
@@ -4524,7 +4524,7 @@ have at least kept alive a purely literary tradition of Cobbett.
 But, as it happened, I added some words which I will also take
 the liberty of mentioning, because they exactly illustrate
 the stages of this re-emergence of the great writer's fame from
-the field of literature to the field of life.  `There is a serious
+the field of literature to the field of life.  ‘There is a serious
 danger that this charm in English literature may be lost.
 The comparative absence of abuse in social and senatorial life may
 take away one of the beauties of our beautiful and historic speech.
@@ -4584,7 +4584,7 @@ out long ago and found to be quite empty and fallacious.
 He had been preserved only for his style; and even that was
 rude and old-fashioned, especially in the quaint Saxon
 archaism of calling a spade a spade.  They little thought
-to have heard the horrid sound, the hideous word `spade'
+to have heard the horrid sound, the hideous word ‘spade'
 itself, shake the arches of St. Stephen's as with a blasphemy.
 But the question is not merely one of idioms but of ideas.
 They had always supposed at least that Cobbett's ideas
@@ -4719,10 +4719,10 @@ nobody else had any notion of what was really coming upon the world.
 I mean that if you had gone to Jefferson at the moment when
 he was writing the Declaration of Independence, and shown him
 the exact picture of an Oil Trust, and its present position
-in America, he would have said, `It is not to be believed.'
+in America, he would have said, ‘It is not to be believed.'
 If you had gone to Cobbett, and shown him the same thing,
 he would have said, like the bearded old gentleman in the rhyme,
-`It is just as I feared.'  If you had confronted Carnot with Caillaux,
+‘It is just as I feared.'  If you had confronted Carnot with Caillaux,
 the old revolutionist would have wondered what inconceivable
 curse could have fallen on great France of the soldiers.
 If you had confronted Cobbett with some of our similar specimens,
@@ -4856,7 +4856,7 @@ is to-day groping his way back past all the literature of the nineteenth;
 past all the varied Victorian romances of fashionable progress in Macaulay
 and fashionable reaction in Carlyle; till he finds far up on a high shelf
 the old thick, leather-bound volumes, with faded print and the barely
-decipherable title of `Cobbett's Register'; and taking down the book,
+decipherable title of ‘Cobbett's Register'; and taking down the book,
 amid the gathering [[Storm|storm]] and the growing darkness, reads this old story.
 
 
@@ -4877,13 +4877,13 @@ Yet further south where the Sussex hills take on an outline at once
 more opulent and more bare there was repeated a rhyme that might run
 like a refrain through much of his story.
 
-  [[Bees]] are [[Bees|bees]] of Paradise,
-  Do the work of Jesus [[Christ]],
-  Do the work that no man can;
-  God made [[Bees|bees]] and [[Bees|bees]] make honey,
-  God made man and man makes money,
-  God made man to plough and reap and sow,
-  And God made little boys to scare away the crow.
+[[Bees]] are [[Bees|bees]] of Paradise,
+Do the work of Jesus [[Christ]],
+Do the work that no man can;
+God made [[Bees|bees]] and [[Bees|bees]] make honey,
+God made man and man makes money,
+God made man to plough and reap and sow,
+And God made little boys to scare away the crow.
 
 And so the little boy in question continued to scare away the crow,
 in obedience to that providential arrangement.
@@ -4954,7 +4954,7 @@ The son was perhaps all his life' a little too prone to play
 the schoolmaster; and from an early age he played the schoolmaster
 to himself.  We have many notes of his first reading;
 notably a glimpse which shows him gaping at the broad
-farcical title of `The Tale of a Tub,' so much in his own
+farcical title of ‘The Tale of a Tub,' so much in his own
 verbal fashion, and buying it and trying to understand it.
 He read it under a haystack, and it was so that there fell
 across him in his first sunshine the shadow of that dark
@@ -4973,7 +4973,7 @@ by running back again.
 He was a character from his earliest years.  There was a sort of calm
 impetuosity about his movements.  He set out one day to escort some
 girls to the village fair, dressed up in all his village finery.
-He saw a coach with `[[London]]' on it, and inconsequently got on to it
+He saw a coach with ‘[[London]]' on it, and inconsequently got on to it
 and went careering away, leaving his lady friends, his fair,
 his farm, and his family behind him like things of the past.
 Fortunately he met a friend of his father's in [[London]],
@@ -5077,7 +5077,7 @@ in simple words; and somehow such a twilight of grey and silver
 remains long in the reader's [[Memory|memory]].  At the end of a small yard
 he saw a girl with dark hair scouring out some pots and pans.
 He looked at her again and saw she was very beautiful.
-Then he said with a sort of fatal finality:  `That's the girl for me.'
+Then he said with a sort of fatal finality:  ‘That's the girl for me.'
 And indeed she was the wife who was with him when he died fifty
 years afterwards, on those Surrey hills that were his home.
 
@@ -5108,7 +5108,7 @@ To enter into his sense of triumph we must understand something
 that is found in him through life, and especially found in him,
 when it is generally rarest, in youth.  It is something seldom
 understood in a society without peasants; an oligarchy which can
-only understand what we call `[[Honour|honour]]' as it is understood
+only understand what we call ‘[[Honour|honour]]' as it is understood
 by gentlemen.  It was the [[Self|self]]-respect of the poor, which all
 modern industrial society has been slowly crushing to [[Death|death]].
 To find it anywhere uncrushed and even uncowed was to Cobbett
@@ -5411,13 +5411,13 @@ Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
 is that their [[songs]] in [[America]] have been [[songs]] of [[Exile|exile]].
 The most familiar of them represents the Irishman with his bundle
-bound for Philadelphia, or the Englishman whistling `Falmouth
+bound for Philadelphia, or the Englishman whistling ‘Falmouth
 is a fine town' as he walks down the street of Baltimore,
 or the Scotsman rising to that high note not unworthy of
 the waters of Babylon.
 
-  But still our hearts are true, our hearts are Highland,
-  And we in dreams behold the Hebrides.
+But still our hearts are true, our hearts are Highland,
+And we in dreams behold the Hebrides.
 
 So strong is such a tradition that later generations will dream
 of what they have never seen.  The nationalism is most intense where
@@ -6055,7 +6055,7 @@ It was part of the routine, of the rules of the game, of the way
 of the world.  But the man who accepts everything and defends such
 things is not in the same world with the man who risks everything,
 or even anything, to denounce them.  We may well say about Macaulay
-what he himself said about Cranmer:  `It is no great condemnation
+what he himself said about Cranmer:  ‘It is no great condemnation
 of a man to say that he did not possess heroic fortitude.'
 And it is no great condemnation of him to say that he will never come
 within a thousand miles of the man who does possess heroic fortitude,
@@ -6106,7 +6106,7 @@ Macaulay's criticism of [[Cranmer]] is more effective for everyday purposes;
 as when he says that the crime of the Tudor politician was not in being
 too indifferent to be killed, but in killing other people for things
 about which he was indifferent, and enacting laws against anyone
-`who should do from conviction what he had done from cowardice.'
+‘who should do from conviction what he had done from cowardice.'
 But there is a quality in that outburst of Cobbett about Cranmer
 which we must learn to appreciate or leave off troubling about Cobbett.
 There is a volume and a violence of humanity in such hatred; a hatred
@@ -6291,7 +6291,7 @@ for retreating, blamed for all he did and all he did not do.
 Anyhow he thought he was more useful to the reform in America
 than in gaol; and certainly we should otherwise have lost some
 protests that were much needed.  Nobody else could have done justice
-to an even more absurd plot called `the Derbyshire Insurrection,'
+to an even more absurd plot called ‘the Derbyshire Insurrection,'
 which was entirely created by an agent provocateur named [[Oliver]].
 It is typical of the wrangles that go on among reformers that if
 some of the other Radicals blamed Cobbett for escaping to [[America]],
@@ -6355,7 +6355,7 @@ any more than Shelley; and he seems to have had his
 doubts about the hopefulness of mere huckstering and
 unhampered exchange, somewhat in the manner of Cobbett.
 Now Cobbett, in his first American period, was hitting out
-at the Jacobins on the principle of `see a head and hit it';
+at the Jacobins on the principle of ‘see a head and hit it';
 and the intellectual brow of Thomas Paine was naturally prominent.
 He attacked Paine as he generally did attack people, in a highly
 personal and ferocious manner.  He said things about that
@@ -6630,7 +6630,7 @@ The Last Hundred Days of English Freedom, attacking the
 coercion acts that had threatened his liberty in England.
 It is notable that Cobbett always treated tyranny as a new thing;
 his attitude to abstract revolution was well expressed
-in the phrase, `I was born under a [[King]] and Constitution;
+in the phrase, ‘I was born under a [[King]] and Constitution;
 but I was not born under the Six Acts.'  It was a new Tory
 raid and reign of terror that had driven him into [[Exile|exile]];
 but he did not remain there long; and his conduct when he
@@ -6707,7 +6707,7 @@ into a [[River|river]], and who says that it must be true because the rock
 is till there.  As is commonly the case in the small talk of a
 scientific age, the [[Satire|satire]] is directed against popular ideas.
 As is also commonly the case in such an age, the [[Satire|satire]] is really
-very shallow.  When the critics mock a man for saying `I believe it
+very shallow.  When the critics mock a man for saying ‘I believe it
 because I have seen the rock,' nine-tenths of them could not give
 any sort of reason for their own historic beliefs, beyond saying,
 'I believe it because I saw it somewhere set out in printer's ink
@@ -6721,7 +6721,7 @@ and to that limited extent consistency is corroboration.
 It is far more superstitious to assume that print is proof.
 So far as print is concerned, the whole of history might be as
 utterly imaginationary as that mazy river and that dancing rock
-in the dizzy pipe-dream of `[[Kubla Khan]]'.
+in the dizzy pipe-dream of ‘[[Kubla Khan]]'.
 
 But there are others whose state of mind is still more extraordinary.
 They not only do not need the landscape to corroborate their [[history]],
@@ -6833,7 +6833,7 @@ in the world, with the best-balanced constitution in the world,
 by a wise and [[Well|well]]-timed progress or series of reforms, that ever
 kept in mind the need of constitutionalism and of balance.
 The Barons had extorted a constitutional charter from the [[King]], in advance
-of that feudal `age' and a foundation for parliamentary freedom.
+of that feudal ‘age' and a foundation for parliamentary freedom.
 The Commons came into the struggle for parliamentary freedom when it
 was waged against the Stuarts.  By that time the Revival of Learning
 had led to the Reformation or sweeping away of the superstition
@@ -7229,7 +7229,7 @@ concealed by a trick, his reaction was a towering passion;
 and whether that or a more patient exposition be appropriate
 to controversy, there is no doubt about which is appropriate
 to Cobbett.  He would have said that when he found a man robbing
-his hen-roost he called out `Stop, thief!' and not `Stop,
+his hen-roost he called out ‘Stop, thief!' and not ‘Stop,
 philosophical communist invading the thesis of private property!'
 He would have said that when a man told lies he called him a liar,
 and not a person insensible to the value of objective reality.
@@ -7240,17 +7240,17 @@ what he said--that is quite different and much more difficult.
 Those who suppose that he must be talking nonsense because he was talking
 too loud are much less clearheaded and even cool-headed than he was.
 Veracity has nothing to do with violence, one way or the other.
-One historian may prefer to say, `The Emperor Nero set on foot
+One historian may prefer to say, ‘The Emperor Nero set on foot
 several conspiracies against the life of Agrippina his mother,
 and expressed satisfaction when the final attempt was successful.'
-Another may say, `The bloody and treacherous tyrant foully murdered
+Another may say, ‘The bloody and treacherous tyrant foully murdered
 his own mother, and fiendishly exulted in the detestable deed.'
 But the second statement records the same fact as the first,
 and records it equally correctly.  It is accurate to say,
 'The Rev. Titus Oates declared on oath his knowledge of a
 Papist conspiracy; but his statements, which led to the execution
 of many Papists, were subsequently found to be fictitious.'
-But it is every bit as accurate to say, `The liar and perjurer Oates
+But it is every bit as accurate to say, ‘The liar and perjurer Oates
 cruelly swore away the lives of [[Innocent|innocent]] Catholics, blasphemously calling
 on God to witness to his murderous lie.'  The violent man is telling
 the [[Truth|truth]] quite as logically and precisely as the more dignified man.
@@ -7318,7 +7318,7 @@ But when he found a corpse he gave a shout; and if fools laughed
 at anyone shouting, he would shout the more, till the world
 should be shaken with that terrible cry in the [[Night|night]].
 
-It is that ringing and arresting cry of `Murder!' wrung from
+It is that ringing and arresting cry of ‘Murder!' wrung from
 him as he stumbled over those bones of the dead England,
 that distinguishes him from all his contemporaries.  It is not the mere
 discovery of the bones, or in a sense even the study of them.
@@ -7332,8 +7332,8 @@ like Egyptian mummies.  What was peculiar to Cobbett was the way
 in which he treated this question of the past as a question
 of the present.  He treated it, not as a historical point
 to be decided, but rather as a legal wrong to be righted.
-If he did not exactly answer the question, `Can these dry bones live?'
-he did say in another sense, `I know that their avenger liveth.'
+If he did not exactly answer the question, ‘Can these dry bones live?'
+he did say in another sense, ‘I know that their avenger liveth.'
 He was prepared to make those bones his business, like those of Paine;
 to be a detective in a mystery story, and present himself ex
 ossibus ultor.  One might suppose a detective story would be more
@@ -7388,7 +7388,7 @@ But he was fashionable because he assured men that medievalism
 was only a romance; and Cobbett was far less fashionable
 when he urged it as a reality.  Scott was merely sentimental
 about Mary Stuart, as he was about Charles Edward Stuart;
-he was singing `Will ye no' come back again?' to people who would
+he was singing ‘Will ye no' come back again?' to people who would
 have been a horrible nuisance to him if they had come back again.
 But Cobbett was not sentimental about Mary Tudor; he did solidly
 believe that with her the good times went; and he did really
@@ -7539,7 +7539,7 @@ buildings and even landscapes look ludicrous, like landscapes
 of topsy-turvydom, when he turned on them that Gargantuan grin.
 We shall note later how for him great [[London]] was simply;
 'the Wen,' a big boil and repulsive eruption on the [[Body|body]] politic.
-We shall see how Old Sarum was `the Accursed Hill.'
+We shall see how Old Sarum was ‘the Accursed Hill.'
 He made the Martello towers look even sillier than they look now.
 Nothing was ever better in its way than the dramatic
 derision with which he pointed at the canal at Hythe,
@@ -7670,7 +7670,7 @@ was correct as with whether it was characteristic.
 Of course, if Cobbett had treated any abstract science it would
 have become a concrete science.  If he had merely undertaken
 to set out the multiplication table it would have run:
-`Twice one useless regiment is two useless regiments;
+‘Twice one useless regiment is two useless regiments;
 twice two venal Ministers is four venal Ministers;
 twice three pluralistic parsonages is six pluralistic parsonages
 like those possessed by the Reverend Mr. Hugg of Netherwallop,'
@@ -7784,9 +7784,9 @@ more subtle than it seems.  We have noticed the same offhand
 offensiveness in his quotations in the English Grammar.
 With his artless artistry, he gives more weight to this
 abusive term by using it not so much abusively as allusively.
-Instead of saying, `This vile city is only one monstrous Wen,'
-he is careful to say quite carelessly, `I was coming from
-the Wen,' as if he were saying, `I was coming from the Wood.'
+Instead of saying, ‘This vile city is only one monstrous Wen,'
+he is careful to say quite carelessly, ‘I was coming from
+the Wen,' as if he were saying, ‘I was coming from the Wood.'
 He seems to assume that everybody knows it by that name.
 It is impossible, I say, to deal with all these details;
 we can only pick out one or two because they are symbolic
@@ -7933,7 +7933,7 @@ up a system which would make it impossible to be thrifty.
 Those who used the word thrift twenty times a day never looked
 at the word once.  If they had, they would have seen that thrift
 depends upon thriving.  In Shakespeare, it is used as practically
-meaning property or wealth; `where thrift may follow fawning.'
+meaning property or wealth; ‘where thrift may follow fawning.'
 Unfortunately, in a modern plutocracy it can only follow fawning.
 It certainly cannot follow saving.  A servant who is agreeably
 servile may possibly have a fortune by favouritism.
@@ -7986,9 +7986,9 @@ who sympathise with the poor from the outside and some who can
 sympathise from the inside.  There is one kind of man who pities
 a beggar because the beggar is so different from himself,
 and another who does it because the beggar is so similar.
-Many a perfectly sincere reformer will say, `Imagine a man
-starving in such a slum,' as he would say, `Imagine a man
-being really boiled by cannibals in a pot,' or, `Imagine that
+Many a perfectly sincere reformer will say, ‘Imagine a man
+starving in such a slum,' as he would say, ‘Imagine a man
+being really boiled by cannibals in a pot,' or, ‘Imagine that
 a man really was-chopped in pieces by Chinese torturers.'
 His phrase is a piece of perfectly honest rhetoric; but he knows
 that we do not really imagine it.  But when Cobbett writes about it,
@@ -8078,19 +8078,19 @@ in a fit of absence of mind.  It must be somewhat sadly added
 that they neglected a nation with the same absence of mind.
 Oligarchies far harsher and more arbitrary in legal form would
 probably have more responsibility in the sense of remembrance.
-A Roman official might have written in a famine, `There is
+A Roman official might have written in a famine, ‘There is
 still food enough for the citizens and even the slaves.'
 A Victorian gentleman in the Hungry Forties simply sat down
-at his groaning mahogany and said, `There is enough food.'
+at his groaning mahogany and said, ‘There is enough food.'
 A planter in South Carolina might well have been heard saying,
-`The Blockade is starving the blacks as [[Well|well]] as ourselves,'
-The merchant in Manchester was only heard saying, `There may be a slump;
+‘The Blockade is starving the blacks as [[Well|well]] as ourselves,'
+The merchant in Manchester was only heard saying, ‘There may be a slump;
 but with the next boom we shall completely recover ourselves.'
 That is the mental blank peculiar to this mentality.  They did
-not even look down with scorn and say, `We are all comfortable,
+not even look down with scorn and say, ‘We are all comfortable,
 even if these vagabonds are beggared by their own vices.'
 They looked round with complete satisfaction and said,
-`We are all comfortable.'
+‘We are all comfortable.'
 
 This distinction is simply a fact, and should not be mixed up with moral
 or sentimental recriminations.  It is a character of the condition
@@ -8137,7 +8137,7 @@ fashion how he had lashed the world like Isaiah or Juvenal,
 and refused to descend to the bathos of slapping a child.
 Cobbett had lashed the world like nobody in the world but Cobbett.
 And he had a better right than Hugo to say truly of himself
-that `thunder should be mild at [[Home|home]].'
+that ‘thunder should be mild at [[Home|home]].'
 
 
 
@@ -8158,7 +8158,7 @@ especially so as to make men say that he had turned his coat.
 He rejoiced and exulted in a scene.  There is nothing more vivid than
 that scene on which Mr. Edward Thomas touched with great felicity,
 the great meeting which Cobbett had worked up to the point
-of a passionate enthusiasm for throwing him out.  `I stood up,'
+of a passionate enthusiasm for throwing him out.  ‘I stood up,'
 he says,'that they might see the man they had to throw out.'
 That phrase is a photograph before the days of photography;
 the picture of that big, snorting, bellicose farmer, standing up
@@ -8297,15 +8297,15 @@ and he was probably brooding, as he often did, on the very darkest
 version of their history and character, when he saw a strange object
 or ornament or accident standing up in those smooth and well-ordered
 grounds neatly fenced from the road.  It was actually in the shape
-of a cross; `big enough and broad enough to crucify a man on.'
+of a cross; ‘big enough and broad enough to crucify a man on.'
 With something that makes his staccato style sound for the first [[Time|time]]
-like broken speech, he repeats more than once, `Aye, big enough and
+like broken speech, he repeats more than once, ‘Aye, big enough and
 broad enough to crucify a man on.'  And then he says that his horse,
 who was accustomed to the ambling trot with which he rambled
 about for his adventures, was startled by the spur or the gesture
 which urged him to sudden activity.  He must have gone, he says,
 at a great and very uncommon pace as he got away from that place.
-`I think he [meaning the [[Horse|horse]]] must often have wondered what gave
+‘I think he [meaning the [[Horse|horse]]] must often have wondered what gave
 me wings that once and that once only.'
 
 That curious incident is all the more impressive because
@@ -8498,9 +8498,9 @@ and saying he would see them damned first.  Indeed, he would
 have looked forward to seeing the Ministers damned with a much
 more solemn and religious expectation.  It only illustrates
 in passing a certain individual twist that lie could always
-give to his plain talk, that where another man would say `I'll
-be hanged if you do,' or possibly `I'll be shot if you do,'
-he had the fine fastidiousness to say `I'll be broiled if you do.'
+give to his plain talk, that where another man would say ‘I'll
+be hanged if you do,' or possibly ‘I'll be shot if you do,'
+he had the fine fastidiousness to say ‘I'll be broiled if you do.'
 But when his enemies began to shoot this light thing at him
 as an arrow from his own quiver, he wore it like a feather
 in his cap.  He seized the opportunity of solidifying
@@ -8608,10 +8608,10 @@ have retorted that it was well that he should be in a padded cell.
 Yet what he shouted is of a certain curious interest and is
 worth recording.  It might be typified very tersely in what he said
 in answer to one of the leading statesmen, who said that we
-might look with confidence to the future, `because all the great
+might look with confidence to the future, ‘because all the great
 interests are prospering.'  Cobbett wrote in large letters
 like a man scrawling on a great wall or the side of a [[Hill|hill]]:
-`The working classes, then, are not a great interest.'
+‘The working classes, then, are not a great interest.'
 
 He added grimly that perhaps they might be some day.
 Those who see in Trade Union dictatorship a red dawn
@@ -8637,8 +8637,8 @@ to have the faintest notion of what the people felt or experienced.
 The only truly popular tradition about Peel has nothing to do with
 the inscriptions on the statues or the speeches on the Corn Laws.
 It is the fact that, far down in the depths of a democratic world that
-politicians never visit, the slang names for the new police were `Bobbies'
-or `Peelers.' And if we want to seize the very soul of Peel and his
+politicians never visit, the slang names for the new police were ‘Bobbies'
+or ‘Peelers.' And if we want to seize the very soul of Peel and his
 Parliamentary type, we can fix it in the fact that he organised
 a tremendously powerful and privileged gendarmerie for the control
 or coercion of the people, and thought they could be distinguished from
@@ -8865,7 +8865,7 @@ The makers of the French Pantheon, wisely combining republican and
 royal and imperial trophies, have inscribed their common monument,
 'To All the Glories of France.'  If any man as wise had stood
 by the little gravestone in the churchyard of Farnham,
-he might have traced the words, `To All the Glories of England.'
+he might have traced the words, ‘To All the Glories of England.'
 All the other leaders were falling apart into foolish party
 systems and false antitheses; into Tories who were mere squires,
 and Radicals who were mere merchants.  Windham had been his friend;

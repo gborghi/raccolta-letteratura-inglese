@@ -23,7 +23,7 @@ From: All I Survey, 1933.
 ----------------------------------------------------------------------------
 
 Opening my newspaper the other day, I saw a short but emphatic
-leaderette entitled `A Relic of Medievalism'. It expressed a profound
+leaderette entitled ‘A Relic of Medievalism'. It expressed a profound
 indignation upon the fact that somewhere or other, in some fairly
 remote corner of this country, there is a turnpike-gate, with a toll.
 It insisted that this antiquated tyranny is insupportable, because it
@@ -152,7 +152,7 @@ From: All I Survey, 1933.
 ----------------------------------------------------------------------------
 
 Opening my newspaper the other day, I saw a short but emphatic
-leaderette entitled `A Relic of Medievalism'. It expressed a profound
+leaderette entitled ‘A Relic of Medievalism'. It expressed a profound
 indignation upon the fact that somewhere or other, in some fairly
 remote corner of this country, there is a turnpike-gate, with a toll.
 It insisted that this antiquated tyranny is insupportable, because it

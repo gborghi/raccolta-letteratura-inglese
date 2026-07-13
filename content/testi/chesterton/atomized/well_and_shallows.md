@@ -252,10 +252,10 @@ specially headed "The Author's Moderation" in the Bab Ballad
 about Pasha Bailey Ben--another great poem written in a tone
 of [[Melancholy|melancholy]] and disillusion.
 
-  To say that Bailey oped his eyes
-  Would feebly paint his great surprise;
-  To say it almost made him die
-  Would be to paint it much too high.
+To say that Bailey oped his eyes
+Would feebly paint his great surprise;
+To say it almost made him die
+Would be to paint it much too high.
 
 I may be allowed to open my eyes for a moment at some of the
 literary models thus commended to me; but I shall soon close them
@@ -288,8 +288,8 @@ on this particular point of conduct, I agree with Byron.
 But Byron does not stand [[Alone|alone]]; Coleridge, a person of some culture,
 could burst out boisterously and without stopping for breath:
 
-  The fair breeze blew, the white foam flew,
-  The furrow followed free.
+The fair breeze blew, the white foam flew,
+The furrow followed free.
 
 and I do not see that he could have done anything else.
 I do not think anybody could interfere with that foaming spate
@@ -524,8 +524,8 @@ but it goes on to rather more important nouns and names.
 Father Ronald Knox, in his [[Satire|satire]] on Modernism, has described
 the courteous vagueness of the [[Oxford]] manner which
 
-  .... tempering pious zeal
-  Corrected, "I believe" to "One does feel."
+.... tempering pious zeal
+Corrected, "I believe" to "One does feel."
 
 And though I have much of such courtesy to be thankful for,
 both in conversation and criticism, I must do justice
@@ -2383,8 +2383,8 @@ But it is really true that the exact and very extraordinary
 position of the procession at this moment is expressed with
 precision in the familiar lines:
 
-  "And those behind cried 'Forward!'
-  And those before cried 'Back!'"
+"And those behind cried 'Forward!'
+And those before cried 'Back!'"
 
 The camp-followers may be charging; but the pioneers are retreating.
 In other words, it is exactly the sort of bold and enquiring spirits,
@@ -3929,10 +3929,10 @@ in which Mr. Hollis, contrasting the methods of Dryden and Pope,
 quotes the whole of the latter poet's famous [[Satire|satire]] upon Addison.
 Whether or no it was like Addison, it was exactly like the critic.
 
-  "Willing to wound and yet afraid to strike,
-  Just hint a [[Doubt|doubt]] and hesitate dislike;
-  Damn with faint praise, assent with civil leer,
-  And without sneering teach the rest to sneer."
+"Willing to wound and yet afraid to strike,
+Just hint a [[Doubt|doubt]] and hesitate dislike;
+Damn with faint praise, assent with civil leer,
+And without sneering teach the rest to sneer."
 
 Again, over and above this unmistakable tone, there is the change
 in the method which I have compared to the change from laughing
@@ -6991,7 +6991,7 @@ of the truly English good [[Humour|humour]].
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="Well And Shallows — Introduction" data-chapter="Story 01 Introduction" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="Well And Shallows — Introduction" data-chapter="Introduction" data-kind="story"></span>
 
 
 INTRODUCTION
@@ -7093,7 +7093,7 @@ DOV'È IL [[Paradox|PARADOSSO]]?
 
 
 
-<span class="atom-split" data-atom="story_02_introductory_note" data-title="Well And Shallows — Introductory Note" data-chapter="Story 02 Introductory Note" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introductory_note" data-title="Well And Shallows — Introductory Note" data-chapter="Introductory Note" data-kind="story"></span>
 
 
 INTRODUCTORY NOTE
@@ -7243,7 +7243,7 @@ al mondo.
 
 
 
-<span class="atom-split" data-atom="story_04_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="Story 04 My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
 
 
 MY SIX CONVERSIONS
@@ -7430,7 +7430,7 @@ and announcing its readiness to turn into anything else.
 
 
 
-<span class="atom-split" data-atom="story_05_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="Story 05 My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
 
 
 MY SIX CONVERSIONS
@@ -7602,7 +7602,7 @@ hour have brought me to the door.
 
 
 
-<span class="atom-split" data-atom="story_07_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="Story 07 My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
 
 
 MY SIX CONVERSIONS
@@ -7776,7 +7776,7 @@ four-hundred years march from Rome.
 
 
 
-<span class="atom-split" data-atom="story_08_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="Story 08 My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
 
 
 MY SIX CONVERSIONS
@@ -7967,7 +7967,7 @@ must look elsewhere.
 
 
 
-<span class="atom-split" data-atom="story_09_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="Story 09 My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
 
 
 MY SIX CONVERSIONS
@@ -8136,7 +8136,7 @@ and political sense, that I had chosen [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="story_10_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="Story 10 My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
 
 
 MY SIX CONVERSIONS
@@ -8307,7 +8307,7 @@ deep [[Well|well]]; and the [[Truth]] is at the [[Bottom|bottom]] of it.
 
 
 
-<span class="atom-split" data-atom="story_13_levity_or_levitation" data-title="Well And Shallows — Levity--Or Levitation" data-chapter="Story 13 Levity Or Levitation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_levity_or_levitation" data-title="Well And Shallows — Levity--Or Levitation" data-chapter="Levity Or Levitation" data-kind="story"></span>
 
 
 LEVITY--OR LEVITATION
@@ -8425,7 +8425,7 @@ of the Psychic News.
 
 
 
-<span class="atom-split" data-atom="story_14_the_case_for_hermits" data-title="Well And Shallows — The Case For Hermits" data-chapter="Story 14 The Case For Hermits" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_case_for_hermits" data-title="Well And Shallows — The Case For Hermits" data-chapter="The Case For Hermits" data-kind="story"></span>
 
 
 THE CASE FOR HERMITS
@@ -8575,7 +8575,7 @@ if [[Solitude]] improved the temper?
 
 
 
-<span class="atom-split" data-atom="story_15_killing_the_nerve" data-title="Well And Shallows — Killing The Nerve" data-chapter="Story 15 Killing The Nerve" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_killing_the_nerve" data-title="Well And Shallows — Killing The Nerve" data-chapter="Killing The Nerve" data-kind="story"></span>
 
 
 KILLING THE NERVE
@@ -8700,7 +8700,7 @@ he has only seen used to sell a cosmetic or a quack medicine.
 
 
 
-<span class="atom-split" data-atom="story_16_the_case_of_claudel" data-title="Well And Shallows — The Case Of Claudel" data-chapter="Story 16 The Case Of Claudel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_case_of_claudel" data-title="Well And Shallows — The Case Of Claudel" data-chapter="The Case Of Claudel" data-kind="story"></span>
 
 
 THE CASE OF CLAUDEL
@@ -8810,7 +8810,7 @@ its youth like the eagle.
 
 
 
-<span class="atom-split" data-atom="story_18_the_backward_bolshie" data-title="Well And Shallows — The Backward Bolshie" data-chapter="Story 18 The Backward Bolshie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_backward_bolshie" data-title="Well And Shallows — The Backward Bolshie" data-chapter="The Backward Bolshie" data-kind="story"></span>
 
 
 THE BACKWARD BOLSHIE
@@ -8907,7 +8907,7 @@ is the most backward of the nations.
 
 
 
-<span class="atom-split" data-atom="story_19_the_last_turn" data-title="Well And Shallows — The Last Turn" data-chapter="Story 19 The Last Turn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_last_turn" data-title="Well And Shallows — The Last Turn" data-chapter="The Last Turn" data-kind="story"></span>
 
 
 THE LAST TURN
@@ -9073,7 +9073,7 @@ of a sect.
 
 
 
-<span class="atom-split" data-atom="story_21_three_foes_of_the_family" data-title="Well And Shallows — Three Foes Of The Family" data-chapter="Story 21 Three Foes Of The Family" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_three_foes_of_the_family" data-title="Well And Shallows — Three Foes Of The Family" data-chapter="Three Foes Of The Family" data-kind="story"></span>
 
 
 THREE FOES OF THE FAMILY
@@ -9190,7 +9190,7 @@ but at least it is more entertaining.
 
 
 
-<span class="atom-split" data-atom="story_23_the_church_and_agoraphobia" data-title="Well And Shallows — The Church And Agoraphobia" data-chapter="Story 23 The Church And Agoraphobia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_church_and_agoraphobia" data-title="Well And Shallows — The Church And Agoraphobia" data-chapter="The Church And Agoraphobia" data-kind="story"></span>
 
 
 THE CHURCH AND AGORAPHOBIA
@@ -9299,7 +9299,7 @@ which would be a small thing without it.
 
 
 
-<span class="atom-split" data-atom="story_26_trade_terms" data-title="Well And Shallows — Trade Terms" data-chapter="Story 26 Trade Terms" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_trade_terms" data-title="Well And Shallows — Trade Terms" data-chapter="Trade Terms" data-kind="story"></span>
 
 
 TRADE TERMS
@@ -9420,7 +9420,7 @@ without thinking of the Continents."
 
 
 
-<span class="atom-split" data-atom="story_28_shocking_the_modernists" data-title="Well And Shallows — Shocking The Modernists" data-chapter="Story 28 Shocking The Modernists" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_shocking_the_modernists" data-title="Well And Shallows — Shocking The Modernists" data-chapter="Shocking The Modernists" data-kind="story"></span>
 
 
 SHOCKING THE MODERNISTS
@@ -9546,7 +9546,7 @@ merely [[Supernatural|supernatural]], but is in the exact sense super-[[Supernat
 
 
 
-<span class="atom-split" data-atom="story_29_a_grammar_of_knighthood" data-title="Well And Shallows — A Grammar Of Knighthood" data-chapter="Story 29 A Grammar Of Knighthood" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_a_grammar_of_knighthood" data-title="Well And Shallows — A Grammar Of Knighthood" data-chapter="A Grammar Of Knighthood" data-kind="story"></span>
 
 
 A GRAMMAR OF KNIGHTHOOD
@@ -9678,7 +9678,7 @@ this note on his neglected name.
 
 
 
-<span class="atom-split" data-atom="story_31_sex_and_property" data-title="Well And Shallows — Sex And Property" data-chapter="Story 31 Sex And Property" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_sex_and_property" data-title="Well And Shallows — Sex And Property" data-chapter="Sex And Property" data-kind="story"></span>
 
 
 SEX AND PROPERTY
@@ -9808,7 +9808,7 @@ of George Meredith; "And eat our pot of honey on the [[Grave|grave]]."
 
 
 
-<span class="atom-split" data-atom="story_32_st_thomas_more" data-title="Well And Shallows — St.  Thomas More" data-chapter="Story 32 St Thomas More" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_st_thomas_more" data-title="Well And Shallows — St.  Thomas More" data-chapter="St Thomas More" data-kind="story"></span>
 
 
 ST.  THOMAS MORE
@@ -9982,7 +9982,7 @@ and established his station in the skies.
 
 
 
-<span class="atom-split" data-atom="story_33_the_return_of_caesar" data-title="Well And Shallows — The Return Of Caesar" data-chapter="Story 33 The Return Of Caesar" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_return_of_caesar" data-title="Well And Shallows — The Return Of Caesar" data-chapter="The Return Of Caesar" data-kind="story"></span>
 
 
 THE RETURN OF CAESAR
@@ -10115,7 +10115,7 @@ has so long allowed us to wander and to play.
 
 
 
-<span class="atom-split" data-atom="story_34_austria" data-title="Well And Shallows — Austria" data-chapter="Story 34 Austria" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_austria" data-title="Well And Shallows — Austria" data-chapter="Austria" data-kind="story"></span>
 
 
 AUSTRIA
@@ -10219,7 +10219,7 @@ to aim at the heart.
 
 
 
-<span class="atom-split" data-atom="story_35_the_scripture_reader" data-title="Well And Shallows — The Scripture Reader" data-chapter="Story 35 The Scripture Reader" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_scripture_reader" data-title="Well And Shallows — The Scripture Reader" data-chapter="The Scripture Reader" data-kind="story"></span>
 
 
 THE SCRIPTURE READER
@@ -10333,7 +10333,7 @@ ground more sacred.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_01" data-title="Well And Shallows — An Apology For Buffoons (part 1)" data-chapter="Story 03 An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_01" data-title="Well And Shallows — An Apology For Buffoons (part 1)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
 
 
 AN APOLOGY FOR BUFFOONS
@@ -10442,13 +10442,13 @@ of [[Melancholy|melancholy]] and disillusion.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_02" data-title="Well And Shallows — An Apology For Buffoons (part 2)" data-chapter="Story 03 An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_02" data-title="Well And Shallows — An Apology For Buffoons (part 2)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
 
 
-  To say that Bailey oped his eyes
-  Would feebly paint his great surprise;
-  To say it almost made him die
-  Would be to paint it much too high.
+To say that Bailey oped his eyes
+Would feebly paint his great surprise;
+To say it almost made him die
+Would be to paint it much too high.
 
 I may be allowed to open my eyes for a moment at some of the
 literary models thus commended to me; but I shall soon close them
@@ -10481,8 +10481,8 @@ on this particular point of conduct, I agree with Byron.
 But Byron does not stand [[Alone|alone]]; Coleridge, a person of some culture,
 could burst out boisterously and without stopping for breath:
 
-  The fair breeze blew, the white foam flew,
-  The furrow followed free.
+The fair breeze blew, the white foam flew,
+The furrow followed free.
 
 and I do not see that he could have done anything else.
 I do not think anybody could interfere with that foaming spate
@@ -10557,7 +10557,7 @@ any more than of art for art's sake.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_03" data-title="Well And Shallows — An Apology For Buffoons (part 3)" data-chapter="Story 03 An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_03" data-title="Well And Shallows — An Apology For Buffoons (part 3)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
 
 
 In any case, things of this sort do exist; coincidences or
@@ -10698,7 +10698,7 @@ of these temptations to flippancy.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_04" data-title="Well And Shallows — An Apology For Buffoons (part 4)" data-chapter="Story 03 An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_04" data-title="Well And Shallows — An Apology For Buffoons (part 4)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
 
 
 It is not an idle contradiction to say that Mr. [[Shaw]]
@@ -10729,8 +10729,8 @@ but it goes on to rather more important nouns and names.
 Father Ronald Knox, in his [[Satire|satire]] on Modernism, has described
 the courteous vagueness of the [[Oxford]] manner which
 
-  .... tempering pious zeal
-  Corrected, "I believe" to "One does feel."
+.... tempering pious zeal
+Corrected, "I believe" to "One does feel."
 
 And though I have much of such courtesy to be thankful for,
 both in conversation and criticism, I must do justice
@@ -10813,7 +10813,7 @@ that they are greater.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_05" data-title="Well And Shallows — An Apology For Buffoons (part 5)" data-chapter="Story 03 An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_05" data-title="Well And Shallows — An Apology For Buffoons (part 5)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
 
 
 Now the next two steps bring us to the climax of the matter.
@@ -10949,7 +10949,7 @@ halloo of the buffoon.
 
 
 
-<span class="atom-split" data-atom="story_06_my_six_conversions--part_01" data-title="Well And Shallows — My Six Conversions (part 1)" data-chapter="Story 06 My Six Conversions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_my_six_conversions--part_01" data-title="Well And Shallows — My Six Conversions (part 1)" data-chapter="My Six Conversions" data-kind="excerpt"></span>
 
 
 MY SIX CONVERSIONS
@@ -11095,7 +11095,7 @@ and the [[Catholic Church]] was right.
 
 
 
-<span class="atom-split" data-atom="story_06_my_six_conversions--part_02" data-title="Well And Shallows — My Six Conversions (part 2)" data-chapter="Story 06 My Six Conversions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_my_six_conversions--part_02" data-title="Well And Shallows — My Six Conversions (part 2)" data-chapter="My Six Conversions" data-kind="excerpt"></span>
 
 
 Any man with eyes in his head, whatever the ideas in his head,
@@ -11229,7 +11229,7 @@ Ed essi hanno tradito il passo.
 
 
 
-<span class="atom-split" data-atom="story_11_the_return_to_religion--part_01" data-title="Well And Shallows — The Return To Religion (part 1)" data-chapter="Story 11 The Return To Religion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_return_to_religion--part_01" data-title="Well And Shallows — The Return To Religion (part 1)" data-chapter="The Return To Religion" data-kind="excerpt"></span>
 
 
 THE RETURN TO RELIGION
@@ -11359,7 +11359,7 @@ in founding your sane and solid society?"
 
 
 
-<span class="atom-split" data-atom="story_11_the_return_to_religion--part_02" data-title="Well And Shallows — The Return To Religion (part 2)" data-chapter="Story 11 The Return To Religion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_return_to_religion--part_02" data-title="Well And Shallows — The Return To Religion (part 2)" data-chapter="The Return To Religion" data-kind="excerpt"></span>
 
 
 We have of course seen just lately the most dramatic exit
@@ -11470,7 +11470,7 @@ but destroy themselves; in any case they perish without a blow.
 
 
 
-<span class="atom-split" data-atom="story_11_the_return_to_religion--part_03" data-title="Well And Shallows — The Return To Religion (part 3)" data-chapter="Story 11 The Return To Religion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_return_to_religion--part_03" data-title="Well And Shallows — The Return To Religion (part 3)" data-chapter="The Return To Religion" data-kind="excerpt"></span>
 
 
 For the reply, not merely of religion but of reason and the rooted
@@ -11586,7 +11586,7 @@ e siamo ancora una volta nel mattino del mondo.
 
 
 
-<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_01" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 1)" data-chapter="Story 12 The Reaction Of The Intellectuals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_01" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 1)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt"></span>
 
 
 THE REACTION OF THE INTELLECTUALS
@@ -11710,7 +11710,7 @@ whether a pioneer is a useful pioneer or not.
 
 
 
-<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_02" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 2)" data-chapter="Story 12 The Reaction Of The Intellectuals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_02" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 2)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt"></span>
 
 
 Now, at this moment, the marching column of mankind is in an
@@ -11724,8 +11724,8 @@ But it is really true that the exact and very extraordinary
 position of the procession at this moment is expressed with
 precision in the familiar lines:
 
-  "And those behind cried 'Forward!'
-  And those before cried 'Back!'"
+"And those behind cried 'Forward!'
+And those before cried 'Back!'"
 
 The camp-followers may be charging; but the pioneers are retreating.
 In other words, it is exactly the sort of bold and enquiring spirits,
@@ -11842,7 +11842,7 @@ on the side of the cultivated and the clever.
 
 
 
-<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_03" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 3)" data-chapter="Story 12 The Reaction Of The Intellectuals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_03" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 3)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt"></span>
 
 
 Or again, it might have been that picturesque [[Paradox|paradox]];
@@ -11970,7 +11970,7 @@ di nome Pan è morto.
 
 
 
-<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_01" data-title="Well And Shallows — The Higher Nihilism (part 1)" data-chapter="Story 17 The Higher Nihilism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_01" data-title="Well And Shallows — The Higher Nihilism (part 1)" data-chapter="The Higher Nihilism" data-kind="excerpt"></span>
 
 
 THE HIGHER NIHILISM
@@ -12088,7 +12088,7 @@ and I should like to break him up again into men.
 
 
 
-<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_02" data-title="Well And Shallows — The Higher Nihilism (part 2)" data-chapter="Story 17 The Higher Nihilism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_02" data-title="Well And Shallows — The Higher Nihilism (part 2)" data-chapter="The Higher Nihilism" data-kind="excerpt"></span>
 
 
 -/-
@@ -12213,7 +12213,7 @@ are rebuilding the farms and families of [[Distributism]].
 
 
 
-<span class="atom-split" data-atom="story_20_the_new_luther--part_01" data-title="Well And Shallows — The New Luther (part 1)" data-chapter="Story 20 The New Luther" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_new_luther--part_01" data-title="Well And Shallows — The New Luther (part 1)" data-chapter="The New Luther" data-kind="excerpt"></span>
 
 
 THE NEW LUTHER
@@ -12347,7 +12347,7 @@ essence of formlessness.
 
 
 
-<span class="atom-split" data-atom="story_20_the_new_luther--part_02" data-title="Well And Shallows — The New Luther (part 2)" data-chapter="Story 20 The New Luther" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_new_luther--part_02" data-title="Well And Shallows — The New Luther (part 2)" data-chapter="The New Luther" data-kind="excerpt"></span>
 
 
 -/-
@@ -12471,7 +12471,7 @@ it is the [[Child|child]] who is ready for the new world.
 
 
 
-<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_01" data-title="Well And Shallows — The Don And The Cavalier (part 1)" data-chapter="Story 22 The Don And The Cavalier" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_01" data-title="Well And Shallows — The Don And The Cavalier (part 1)" data-chapter="The Don And The Cavalier" data-kind="excerpt"></span>
 
 
 THE DON AND THE CAVALIER
@@ -12527,10 +12527,10 @@ in which Mr. Hollis, contrasting the methods of Dryden and Pope,
 quotes the whole of the latter poet's famous [[Satire|satire]] upon Addison.
 Whether or no it was like Addison, it was exactly like the critic.
 
-  "Willing to wound and yet afraid to strike,
-  Just hint a [[Doubt|doubt]] and hesitate dislike;
-  Damn with faint praise, assent with civil leer,
-  And without sneering teach the rest to sneer."
+"Willing to wound and yet afraid to strike,
+Just hint a [[Doubt|doubt]] and hesitate dislike;
+Damn with faint praise, assent with civil leer,
+And without sneering teach the rest to sneer."
 
 Again, over and above this unmistakable tone, there is the change
 in the method which I have compared to the change from laughing
@@ -12592,7 +12592,7 @@ crest of Dryden."
 
 
 
-<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_02" data-title="Well And Shallows — The Don And The Cavalier (part 2)" data-chapter="Story 22 The Don And The Cavalier" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_02" data-title="Well And Shallows — The Don And The Cavalier (part 2)" data-chapter="The Don And The Cavalier" data-kind="excerpt"></span>
 
 
 I also came upon another critique of the book on Dryden;
@@ -12694,7 +12694,7 @@ it is over.
 
 
 
-<span class="atom-split" data-atom="story_24_back_in_the_fog--part_01" data-title="Well And Shallows — Back In The Fog (part 1)" data-chapter="Story 24 Back In The Fog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_back_in_the_fog--part_01" data-title="Well And Shallows — Back In The Fog (part 1)" data-chapter="Back In The Fog" data-kind="excerpt"></span>
 
 
 BACK IN THE FOG
@@ -12805,7 +12805,7 @@ That is what I mean by the [[London]] Fog.
 
 
 
-<span class="atom-split" data-atom="story_24_back_in_the_fog--part_02" data-title="Well And Shallows — Back In The Fog (part 2)" data-chapter="Story 24 Back In The Fog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_back_in_the_fog--part_02" data-title="Well And Shallows — Back In The Fog (part 2)" data-chapter="Back In The Fog" data-kind="excerpt"></span>
 
 
 -/-
@@ -12934,7 +12934,7 @@ or "the My Lady," he would have agreed that it was rather odd.
 
 
 
-<span class="atom-split" data-atom="story_24_back_in_the_fog--part_03" data-title="Well And Shallows — Back In The Fog (part 3)" data-chapter="Story 24 Back In The Fog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_back_in_the_fog--part_03" data-title="Well And Shallows — Back In The Fog (part 3)" data-chapter="Back In The Fog" data-kind="excerpt"></span>
 
 
 I do not forget, and indeed it would be a very thankless
@@ -13054,7 +13054,7 @@ if I returned to my own land.
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_01" data-title="Well And Shallows — A Century Of Emancipation (part 1)" data-chapter="Story 25 A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_01" data-title="Well And Shallows — A Century Of Emancipation (part 1)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
 
 
 A CENTURY OF EMANCIPATION
@@ -13191,7 +13191,7 @@ was national; that is, it was the religion of the normal citizen.
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_02" data-title="Well And Shallows — A Century Of Emancipation (part 2)" data-chapter="Story 25 A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_02" data-title="Well And Shallows — A Century Of Emancipation (part 2)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
 
 
 Now if you had asked an educated English Protestant in 1828
@@ -13324,7 +13324,7 @@ it is not solid.
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_03" data-title="Well And Shallows — A Century Of Emancipation (part 3)" data-chapter="Story 25 A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_03" data-title="Well And Shallows — A Century Of Emancipation (part 3)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
 
 
 This is the [[Truth|truth]] symbolised in the remark on the [[Prayer]]-Book [[debate|Debate]];
@@ -13448,7 +13448,7 @@ a hundred years ago the issue of Catholic Emancipation.
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_04" data-title="Well And Shallows — A Century Of Emancipation (part 4)" data-chapter="Story 25 A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_04" data-title="Well And Shallows — A Century Of Emancipation (part 4)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
 
 
 In any case, this emergence of new issues will reveal more and
@@ -13529,7 +13529,7 @@ to emerge at the end as something separate or supreme.
 
 
 
-<span class="atom-split" data-atom="story_27_frozen_free_thought--part_01" data-title="Well And Shallows — Frozen Free Thought (part 1)" data-chapter="Story 27 Frozen Free Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_frozen_free_thought--part_01" data-title="Well And Shallows — Frozen Free Thought (part 1)" data-chapter="Frozen Free Thought" data-kind="excerpt"></span>
 
 
 FROZEN FREE THOUGHT
@@ -13643,7 +13643,7 @@ the late John Morley.
 
 
 
-<span class="atom-split" data-atom="story_27_frozen_free_thought--part_02" data-title="Well And Shallows — Frozen Free Thought (part 2)" data-chapter="Story 27 Frozen Free Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_frozen_free_thought--part_02" data-title="Well And Shallows — Frozen Free Thought (part 2)" data-chapter="Frozen Free Thought" data-kind="excerpt"></span>
 
 
 Finally, here is one wonderful example of how the Freethinker
@@ -13772,7 +13772,7 @@ attacks him for attacking it.
 
 
 
-<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_01" data-title="Well And Shallows — Reflections On A Rotten Apple (part 1)" data-chapter="Story 30 Reflections On A Rotten Apple" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_01" data-title="Well And Shallows — Reflections On A Rotten Apple (part 1)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt"></span>
 
 
 REFLECTIONS ON A ROTTEN APPLE
@@ -13893,7 +13893,7 @@ it is really as simple as that.
 
 
 
-<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_02" data-title="Well And Shallows — Reflections On A Rotten Apple (part 2)" data-chapter="Story 30 Reflections On A Rotten Apple" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_02" data-title="Well And Shallows — Reflections On A Rotten Apple (part 2)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt"></span>
 
 
 Of course I do not mean that the practice is at present simple;
@@ -14011,7 +14011,7 @@ or the singular incident of Farmer Billings purchasing an umbrella.
 
 
 
-<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_03" data-title="Well And Shallows — Reflections On A Rotten Apple (part 3)" data-chapter="Story 30 Reflections On A Rotten Apple" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_03" data-title="Well And Shallows — Reflections On A Rotten Apple (part 3)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt"></span>
 
 
 As I have said, I do not imagine, or [[Desire|desire]], that things would ever
@@ -14090,7 +14090,7 @@ not leave them one intelligent instant in which to [[Despair|despair]].
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_01" data-title="Well And Shallows — An Explanation (part 1)" data-chapter="Story 36 An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_01" data-title="Well And Shallows — An Explanation (part 1)" data-chapter="An Explanation" data-kind="excerpt"></span>
 
 
 AN EXPLANATION
@@ -14230,7 +14230,7 @@ And yet I am rebuked for disliking this, even by those who avoid it.
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_02" data-title="Well And Shallows — An Explanation (part 2)" data-chapter="Story 36 An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_02" data-title="Well And Shallows — An Explanation (part 2)" data-chapter="An Explanation" data-kind="excerpt"></span>
 
 
 Similarly, I warmly respect Dr. Crespi for trying to free
@@ -14349,7 +14349,7 @@ to destroy an unlimited number of the liberties of the poor.
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_03" data-title="Well And Shallows — An Explanation (part 3)" data-chapter="Story 36 An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_03" data-title="Well And Shallows — An Explanation (part 3)" data-chapter="An Explanation" data-kind="excerpt"></span>
 
 
 The B.B.C., much to the credit of its own relatively sound
@@ -14478,7 +14478,7 @@ that the Irish would not accept it at all.
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_04" data-title="Well And Shallows — An Explanation (part 4)" data-chapter="Story 36 An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_04" data-title="Well And Shallows — An Explanation (part 4)" data-chapter="An Explanation" data-kind="excerpt"></span>
 
 
 Now the real reason why I have taken the text of these two

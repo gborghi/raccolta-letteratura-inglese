@@ -21,48 +21,48 @@ by Charlotte Brontë
 
 Contents
 
- I. BRETTON
- II. [[Paulina|PAULINA]]
- III. THE PLAYMATES
- IV. MISS MARCHMONT
- V. TURNING A NEW LEAF
- VI. [[London|LONDON]]
- VII. [[Villette|VILLETTE]]
- VIII. [[Madame Beck|MADAME BECK]]
- IX. ISIDORE
- X. DR. JOHN
- XI. THE PORTRESS’S CABINET
- XII. THE CASKET
- XIII. A SNEEZE OUT OF SEASON
- XIV. THE FÊTE
- XV. THE LONG VACATION
- XVI. AULD LANG SYNE
- XVII. LA TERRASSE
- XVIII. WE QUARREL
- XIX. THE [[Cleopatra|CLEOPATRA]]
- XX. THE CONCERT
- XXI. REACTION
- XXII. THE LETTER
- XXIII. VASHTI
- XXIV. M. DE BASSOMPIERRE
- XXV. THE LITTLE COUNTESS
- XXVI. A BURIAL
- XXVII. THE HÔTEL CRÉCY
- XXVIII. THE WATCHGUARD
- XXIX. MONSIEUR’S FÊTE
- XXX. M. PAUL
- XXXI. THE DRYAD
- XXXII. THE FIRST LETTER
- XXXIII. M. PAUL KEEPS HIS PROMISE
- XXXIV. MALEVOLA
- XXXV. FRATERNITY
- XXXVI. THE APPLE OF DISCORD
- XXXVII. SUNSHINE
- XXXVIII. CLOUD
- XXXIX. OLD AND NEW ACQUAINTANCE
- XL. THE HAPPY PAIR
- XLI. FAUBOURG CLOTILDE
- XLII. FINIS
+I. BRETTON
+II. [[Paulina|PAULINA]]
+III. THE PLAYMATES
+IV. MISS MARCHMONT
+V. TURNING A NEW LEAF
+VI. [[London|LONDON]]
+VII. [[Villette|VILLETTE]]
+VIII. [[Madame Beck|MADAME BECK]]
+IX. ISIDORE
+X. DR. JOHN
+XI. THE PORTRESS’S CABINET
+XII. THE CASKET
+XIII. A SNEEZE OUT OF SEASON
+XIV. THE FÊTE
+XV. THE LONG VACATION
+XVI. AULD LANG SYNE
+XVII. LA TERRASSE
+XVIII. WE QUARREL
+XIX. THE [[Cleopatra|CLEOPATRA]]
+XX. THE CONCERT
+XXI. REACTION
+XXII. THE LETTER
+XXIII. VASHTI
+XXIV. M. DE BASSOMPIERRE
+XXV. THE LITTLE COUNTESS
+XXVI. A BURIAL
+XXVII. THE HÔTEL CRÉCY
+XXVIII. THE WATCHGUARD
+XXIX. MONSIEUR’S FÊTE
+XXX. M. PAUL
+XXXI. THE DRYAD
+XXXII. THE FIRST LETTER
+XXXIII. M. PAUL KEEPS HIS PROMISE
+XXXIV. MALEVOLA
+XXXV. FRATERNITY
+XXXVI. THE APPLE OF DISCORD
+XXXVII. SUNSHINE
+XXXVIII. CLOUD
+XXXIX. OLD AND NEW ACQUAINTANCE
+XL. THE HAPPY PAIR
+XLI. FAUBOURG CLOTILDE
+XLII. FINIS
 
 
 
@@ -11608,48 +11608,48 @@ him, inflicting them—at [[Night|night]] he still comes [[Home|home]] to me in 
 pleasant mood, that really, I seem to live in a sort of moral
 antipodes, and on these January evenings my day rises when other
 people’s [[Night|night]] sets in.
-    “Still he needs keeping in order, and correcting, and repressing,
-    and I do him that good service; but the boy is so elastic there is
-    no such thing as vexing him thoroughly. When I think I have at last
-    driven him to the sullens, he turns on me with jokes for
-    retaliation: but you know him and all his iniquities, and I am but
-    an elderly simpleton to make him the subject of this epistle.
-    “As for me, I have had my old Bretton agent here on a visit, and
-    have been plunged overhead and ears in business matters. I do so
-    wish to regain for Graham at least some part of what his father
-    left him. He laughs to scorn my anxiety on this point, bidding me
-    look and see how he can provide for himself and me too, and asking
-    what the old lady can possibly want that she has not; hinting about
-    sky-blue turbans; accusing me of an [[Ambition|ambition]] to wear diamonds, keep
-    livery servants, have an hotel, and lead the fashion amongst the
-    English clan in [[Villette]].
-    “Talking of sky-blue turbans, I wish you had been with us the other
-    evening. He had come in really tired, and after I had given him his
-    tea, he threw himself into my chair with his customary presumption.
-    To my great delight, he dropped asleep. (You know how he teases me
-    about being drowsy; I, who never, by any chance, close an eye by
-    daylight.) While he slept, I thought he looked very bonny, Lucy:
-    [[Fool|fool]] as I am to be so proud of him; but who can help it? Show me
-    his peer. Look where I will, I see nothing like him in [[Villette]].
-    [[Well]], I took it into my head to play him a trick: so I brought out
-    the sky-blue turban, and handling it with gingerly precaution, I
-    managed to invest his brows with this grand adornment. I assure you
-    it did not at all misbecome him; he looked quite Eastern, except
-    that he is so fair. Nobody, however, can accuse him of having red
-    hair _now_—it is genuine chestnut—a dark, glossy chestnut; and when
-    I put my large cashmere about him, there was as fine a young bey,
-    dey, or pacha improvised as you would wish to see.
-    “It was good entertainment; but only half-enjoyed, since I was
-    [[Alone|alone]]: you should have been there.
-    “In due [[Time|time]] my lord awoke: the looking-glass above the fireplace
-    soon intimated to him his plight: as you may imagine, I now live
-    under threat and dread of vengeance.
-    “But to come to the gist of my letter. I know [[thursday|Thursday]] is a
-    half-holiday in the Rue Fossette: be ready, then, by five in the
-    afternoon, at which hour I will send the carriage to take you out
-    to La Terrasse. Be sure to come: you may meet some old
-    acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
-    god-daughter.—Very truly yours,
+“Still he needs keeping in order, and correcting, and repressing,
+and I do him that good service; but the boy is so elastic there is
+no such thing as vexing him thoroughly. When I think I have at last
+driven him to the sullens, he turns on me with jokes for
+retaliation: but you know him and all his iniquities, and I am but
+an elderly simpleton to make him the subject of this epistle.
+“As for me, I have had my old Bretton agent here on a visit, and
+have been plunged overhead and ears in business matters. I do so
+wish to regain for Graham at least some part of what his father
+left him. He laughs to scorn my anxiety on this point, bidding me
+look and see how he can provide for himself and me too, and asking
+what the old lady can possibly want that she has not; hinting about
+sky-blue turbans; accusing me of an [[Ambition|ambition]] to wear diamonds, keep
+livery servants, have an hotel, and lead the fashion amongst the
+English clan in [[Villette]].
+“Talking of sky-blue turbans, I wish you had been with us the other
+evening. He had come in really tired, and after I had given him his
+tea, he threw himself into my chair with his customary presumption.
+To my great delight, he dropped asleep. (You know how he teases me
+about being drowsy; I, who never, by any chance, close an eye by
+daylight.) While he slept, I thought he looked very bonny, Lucy:
+[[Fool|fool]] as I am to be so proud of him; but who can help it? Show me
+his peer. Look where I will, I see nothing like him in [[Villette]].
+[[Well]], I took it into my head to play him a trick: so I brought out
+the sky-blue turban, and handling it with gingerly precaution, I
+managed to invest his brows with this grand adornment. I assure you
+it did not at all misbecome him; he looked quite Eastern, except
+that he is so fair. Nobody, however, can accuse him of having red
+hair _now_—it is genuine chestnut—a dark, glossy chestnut; and when
+I put my large cashmere about him, there was as fine a young bey,
+dey, or pacha improvised as you would wish to see.
+“It was good entertainment; but only half-enjoyed, since I was
+[[Alone|alone]]: you should have been there.
+“In due [[Time|time]] my lord awoke: the looking-glass above the fireplace
+soon intimated to him his plight: as you may imagine, I now live
+under threat and dread of vengeance.
+“But to come to the gist of my letter. I know [[thursday|Thursday]] is a
+half-holiday in the Rue Fossette: be ready, then, by five in the
+afternoon, at which hour I will send the carriage to take you out
+to La Terrasse. Be sure to come: you may meet some old
+acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
+god-daughter.—Very truly yours,
 
 
 “LOUISA BRETTON.”
@@ -11965,15 +11965,15 @@ christening-cup.
 “Here’s to Auld Lang Syne!” said the Count; holding the glancing cup on
 high. Then, looking at Mrs. Bretton.—
 
-  “We twa ha’ paidlet i’ the burn
-      Fra morning sun till dine,
-  But seas between us braid ha’ roared
-      Sin’ auld lang syne.
+“We twa ha’ paidlet i’ the burn
+Fra morning sun till dine,
+But seas between us braid ha’ roared
+Sin’ auld lang syne.
 
-  “And surely ye’ll be your pint-stoup,
-      And surely I’ll be mine;
-  And we’ll taste a cup o’ kindness yet
-      For auld lang syne.”
+“And surely ye’ll be your pint-stoup,
+And surely I’ll be mine;
+And we’ll taste a cup o’ kindness yet
+For auld lang syne.”
 
 
 “Scotch! Scotch!” cried [[Paulina]]; “papa is talking Scotch; and Scotch he
@@ -13030,7 +13030,7 @@ over the [[Fire|fire]] one evening:—
 
 Du Heilige, rufe dein Kind zurück,
 Ich habe genossen das irdische Glück,
-    Ich habe gelebt und geliebet!
+Ich habe gelebt und geliebet!
 
 
 “Lived and loved!” said she, “is that the summit of earthly happiness,
@@ -21401,7 +21401,7 @@ of St. Paul’s.”
 
 
 
-<span class="atom-split" data-atom="chapter_26_some_illustrated_work_of_natur" data-title="Villette — Book 26: some illustrated work of natural history. Often had I seen her" data-chapter="Chapter 26 some illustrated work of natur" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_some_illustrated_work_of_natur" data-title="Villette — Book 26: some illustrated work of natural history. Often had I seen her" data-chapter="some illustrated work of natur" data-kind="chapter"></span>
 
 
 book—some illustrated work of natural [[history]]. Often had I seen her
@@ -21500,7 +21500,7 @@ darting little yellow serpent.
 
 
 
-<span class="atom-split" data-atom="chapter_31_never_hazarded_a_second_with_a" data-title="Villette — Volume 31: never hazarded a second. With all this, I had never yet been" data-chapter="Chapter 31 never hazarded a second With a" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31_never_hazarded_a_second_with_a" data-title="Villette — Volume 31: never hazarded a second. With all this, I had never yet been" data-chapter="never hazarded a second With a" data-kind="chapter"></span>
 
 
 volume—never hazarded a second. With all this, I had never yet been
@@ -33745,48 +33745,48 @@ him, inflicting them—at [[Night|night]] he still comes [[Home|home]] to me in 
 pleasant mood, that really, I seem to live in a sort of moral
 antipodes, and on these January evenings my day rises when other
 people’s [[Night|night]] sets in.
-    “Still he needs keeping in order, and correcting, and repressing,
-    and I do him that good service; but the boy is so elastic there is
-    no such thing as vexing him thoroughly. When I think I have at last
-    driven him to the sullens, he turns on me with jokes for
-    retaliation: but you know him and all his iniquities, and I am but
-    an elderly simpleton to make him the subject of this epistle.
-    “As for me, I have had my old Bretton agent here on a visit, and
-    have been plunged overhead and ears in business matters. I do so
-    wish to regain for Graham at least some part of what his father
-    left him. He laughs to scorn my anxiety on this point, bidding me
-    look and see how he can provide for himself and me too, and asking
-    what the old lady can possibly want that she has not; hinting about
-    sky-blue turbans; accusing me of an [[Ambition|ambition]] to wear diamonds, keep
-    livery servants, have an hotel, and lead the fashion amongst the
-    English clan in [[Villette]].
-    “Talking of sky-blue turbans, I wish you had been with us the other
-    evening. He had come in really tired, and after I had given him his
-    tea, he threw himself into my chair with his customary presumption.
-    To my great delight, he dropped asleep. (You know how he teases me
-    about being drowsy; I, who never, by any chance, close an eye by
-    daylight.) While he slept, I thought he looked very bonny, Lucy:
-    [[Fool|fool]] as I am to be so proud of him; but who can help it? Show me
-    his peer. Look where I will, I see nothing like him in [[Villette]].
-    [[Well]], I took it into my head to play him a trick: so I brought out
-    the sky-blue turban, and handling it with gingerly precaution, I
-    managed to invest his brows with this grand adornment. I assure you
-    it did not at all misbecome him; he looked quite Eastern, except
-    that he is so fair. Nobody, however, can accuse him of having red
-    hair _now_—it is genuine chestnut—a dark, glossy chestnut; and when
-    I put my large cashmere about him, there was as fine a young bey,
-    dey, or pacha improvised as you would wish to see.
-    “It was good entertainment; but only half-enjoyed, since I was
-    [[Alone|alone]]: you should have been there.
-    “In due [[Time|time]] my lord awoke: the looking-glass above the fireplace
-    soon intimated to him his plight: as you may imagine, I now live
-    under threat and dread of vengeance.
-    “But to come to the gist of my letter. I know [[thursday|Thursday]] is a
-    half-holiday in the Rue Fossette: be ready, then, by five in the
-    afternoon, at which hour I will send the carriage to take you out
-    to La Terrasse. Be sure to come: you may meet some old
-    acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
-    god-daughter.—Very truly yours,
+“Still he needs keeping in order, and correcting, and repressing,
+and I do him that good service; but the boy is so elastic there is
+no such thing as vexing him thoroughly. When I think I have at last
+driven him to the sullens, he turns on me with jokes for
+retaliation: but you know him and all his iniquities, and I am but
+an elderly simpleton to make him the subject of this epistle.
+“As for me, I have had my old Bretton agent here on a visit, and
+have been plunged overhead and ears in business matters. I do so
+wish to regain for Graham at least some part of what his father
+left him. He laughs to scorn my anxiety on this point, bidding me
+look and see how he can provide for himself and me too, and asking
+what the old lady can possibly want that she has not; hinting about
+sky-blue turbans; accusing me of an [[Ambition|ambition]] to wear diamonds, keep
+livery servants, have an hotel, and lead the fashion amongst the
+English clan in [[Villette]].
+“Talking of sky-blue turbans, I wish you had been with us the other
+evening. He had come in really tired, and after I had given him his
+tea, he threw himself into my chair with his customary presumption.
+To my great delight, he dropped asleep. (You know how he teases me
+about being drowsy; I, who never, by any chance, close an eye by
+daylight.) While he slept, I thought he looked very bonny, Lucy:
+[[Fool|fool]] as I am to be so proud of him; but who can help it? Show me
+his peer. Look where I will, I see nothing like him in [[Villette]].
+[[Well]], I took it into my head to play him a trick: so I brought out
+the sky-blue turban, and handling it with gingerly precaution, I
+managed to invest his brows with this grand adornment. I assure you
+it did not at all misbecome him; he looked quite Eastern, except
+that he is so fair. Nobody, however, can accuse him of having red
+hair _now_—it is genuine chestnut—a dark, glossy chestnut; and when
+I put my large cashmere about him, there was as fine a young bey,
+dey, or pacha improvised as you would wish to see.
+“It was good entertainment; but only half-enjoyed, since I was
+[[Alone|alone]]: you should have been there.
+“In due [[Time|time]] my lord awoke: the looking-glass above the fireplace
+soon intimated to him his plight: as you may imagine, I now live
+under threat and dread of vengeance.
+“But to come to the gist of my letter. I know [[thursday|Thursday]] is a
+half-holiday in the Rue Fossette: be ready, then, by five in the
+afternoon, at which hour I will send the carriage to take you out
+to La Terrasse. Be sure to come: you may meet some old
+acquaintance. Good-by, my wise, dear, [[Grave|grave]] little
+god-daughter.—Very truly yours,
 
 
 
@@ -34117,15 +34117,15 @@ christening-cup.
 “Here’s to Auld Lang Syne!” said the Count; holding the glancing cup on
 high. Then, looking at Mrs. Bretton.—
 
-  “We twa ha’ paidlet i’ the burn
-      Fra morning sun till dine,
-  But seas between us braid ha’ roared
-      Sin’ auld lang syne.
+“We twa ha’ paidlet i’ the burn
+Fra morning sun till dine,
+But seas between us braid ha’ roared
+Sin’ auld lang syne.
 
-  “And surely ye’ll be your pint-stoup,
-      And surely I’ll be mine;
-  And we’ll taste a cup o’ kindness yet
-      For auld lang syne.”
+“And surely ye’ll be your pint-stoup,
+And surely I’ll be mine;
+And we’ll taste a cup o’ kindness yet
+For auld lang syne.”
 
 
 “Scotch! Scotch!” cried [[Paulina]]; “papa is talking Scotch; and Scotch he
@@ -35136,7 +35136,7 @@ over the [[Fire|fire]] one evening:—
 
 Du Heilige, rufe dein Kind zurück,
 Ich habe genossen das irdische Glück,
-    Ich habe gelebt und geliebet!
+Ich habe gelebt und geliebet!
 
 
 “Lived and loved!” said she, “is that the summit of earthly happiness,

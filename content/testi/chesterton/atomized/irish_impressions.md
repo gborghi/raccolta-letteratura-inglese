@@ -3527,7 +3527,7 @@ The End
 
 
 
-<span class="atom-split" data-atom="story_01_two_stones_in_a_square" data-title="Irish Impressions — Two Stones in a Square" data-chapter="Story 01 Two Stones in a Square" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_two_stones_in_a_square" data-title="Irish Impressions — Two Stones in a Square" data-chapter="Two Stones in a Square" data-kind="story"></span>
 
 
 I. Two Stones in a Square
@@ -3945,7 +3945,7 @@ premonizione di concretezza nel miracolo dell'Irlanda moderna.
 
 
 
-<span class="atom-split" data-atom="story_02_the_root_of_reality" data-title="Irish Impressions — The Root of Reality" data-chapter="Story 02 The Root of Reality" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_root_of_reality" data-title="Irish Impressions — The Root of Reality" data-chapter="The Root of Reality" data-kind="story"></span>
 
 
 II. The Root of Reality
@@ -4727,7 +4727,7 @@ anche allora saranno le nostre strade a essere morte; e l'erba sarà ancora viva
 
 
 
-<span class="atom-split" data-atom="story_03_the_family_and_the_feud" data-title="Irish Impressions — The Family and the Feud" data-chapter="Story 03 The Family and the Feud" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_family_and_the_feud" data-title="Irish Impressions — The Family and the Feud" data-chapter="The Family and the Feud" data-kind="story"></span>
 
 
 III. The Family and the Feud
@@ -5298,7 +5298,7 @@ Legge non si applicherà all'Irlanda».
 
 
 
-<span class="atom-split" data-atom="story_04_the_paradox_of_labour" data-title="Irish Impressions — The Paradox of Labour" data-chapter="Story 04 The Paradox of Labour" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_paradox_of_labour" data-title="Irish Impressions — The Paradox of Labour" data-chapter="The Paradox of Labour" data-kind="story"></span>
 
 
 IV. The [[Paradox]] of Labour
@@ -5987,7 +5987,7 @@ miei padri».
 
 
 
-<span class="atom-split" data-atom="story_05_the_englishman_in_ireland" data-title="Irish Impressions — The Englishman in Ireland" data-chapter="Story 05 The Englishman in Ireland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_englishman_in_ireland" data-title="Irish Impressions — The Englishman in Ireland" data-chapter="The Englishman in Ireland" data-kind="story"></span>
 
 
 V. The Englishman in Ireland
@@ -6568,7 +6568,7 @@ poiché so molto [[Well|bene]] che egli non sentiva soltanto da inglese, ma da
 
 
 
-<span class="atom-split" data-atom="story_06_the_mistake_of_england" data-title="Irish Impressions — The Mistake of England" data-chapter="Story 06 The Mistake of England" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_mistake_of_england" data-title="Irish Impressions — The Mistake of England" data-chapter="The Mistake of England" data-kind="story"></span>
 
 
 VI. The Mistake of England
@@ -7275,7 +7275,7 @@ un'immagine alata della Vittoria; e le vie si dividono.
 
 
 
-<span class="atom-split" data-atom="story_07_the_mistake_of_ireland" data-title="Irish Impressions — The Mistake of Ireland" data-chapter="Story 07 The Mistake of Ireland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_mistake_of_ireland" data-title="Irish Impressions — The Mistake of Ireland" data-chapter="The Mistake of Ireland" data-kind="story"></span>
 
 
 VII. The Mistake of Ireland
@@ -7746,7 +7746,7 @@ who knew and loved him spoke to me for a million others in saying:
 
 
 
-<span class="atom-split" data-atom="story_08_an_example_and_a_question" data-title="Irish Impressions — An Example and a Question" data-chapter="Story 08 An Example and a Question" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_an_example_and_a_question" data-title="Irish Impressions — An Example and a Question" data-chapter="An Example and a Question" data-kind="story"></span>
 
 
 VIII. An Example and a Question
@@ -8782,7 +8782,7 @@ sopra uno strano fianco di [[Hill|collina]], e lei che incedeva come una [[Queen
 
 
 
-<span class="atom-split" data-atom="story_09_belfast_and_the_religious_problem" data-title="Irish Impressions — Belfast and the Religious Problem" data-chapter="Story 09 Belfast and the Religious Problem" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_belfast_and_the_religious_problem" data-title="Irish Impressions — Belfast and the Religious Problem" data-chapter="Belfast and the Religious Problem" data-kind="story"></span>
 
 
 IX. Belfast and the Religious Problem

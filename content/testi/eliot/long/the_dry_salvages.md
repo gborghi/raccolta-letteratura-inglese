@@ -263,7 +263,7 @@ The life of significant soil.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="The Dry Salvages — I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="The Dry Salvages — I" data-chapter="part i" data-kind="section"></span>
 
 
 I  
@@ -321,7 +321,7 @@ The bell.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="The Dry Salvages — II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="The Dry Salvages — II" data-chapter="part II" data-kind="section"></span>
 
 
 II  
@@ -404,7 +404,7 @@ Or the sudden fury, is what it always was.
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="The Dry Salvages — III" data-chapter="Section 03 part iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="The Dry Salvages — III" data-chapter="part III" data-kind="section"></span>
 
 
 III  
@@ -459,7 +459,7 @@ But fare forward, voyagers.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="The Dry Salvages — IV" data-chapter="Section 04 part iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="The Dry Salvages — IV" data-chapter="part IV" data-kind="section"></span>
 
 
 IV  
@@ -482,7 +482,7 @@ Perpetual angelus.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="The Dry Salvages — V" data-chapter="Section 05 part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="The Dry Salvages — V" data-chapter="part v" data-kind="section"></span>
 
 
 V  

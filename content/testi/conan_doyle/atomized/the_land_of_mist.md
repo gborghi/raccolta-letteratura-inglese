@@ -2228,7 +2228,7 @@ This Challenger short story was first published in Liberty Magazine, 25 February
 
 
 
-<span class="atom-split" data-atom="story_01_in_which_our_special_commissioners_make" data-title="THE LAND OF MIST — In Which Our Special Commissioners Make A Start" data-chapter="Story 01 In Which Our Special Commissioners Make" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_in_which_our_special_commissioners_make" data-title="THE LAND OF MIST — In Which Our Special Commissioners Make A Start" data-chapter="In Which Our Special Commissioners Make" data-kind="story"></span>
 
 
 1. In Which Our Special Commissioners Make A Start
@@ -2296,7 +2296,7 @@ Challenger shook his head sadly.
 
 
 
-<span class="atom-split" data-atom="story_02_which_describes_an_evening_in_strange_co" data-title="THE LAND OF MIST — Which Describes an Evening in Strange Company" data-chapter="Story 02 Which Describes an Evening in Strange Co" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_which_describes_an_evening_in_strange_co" data-title="THE LAND OF MIST — Which Describes an Evening in Strange Company" data-chapter="Which Describes an Evening in Strange Co" data-kind="story"></span>
 
 
 2. Which Describes an Evening in Strange Company
@@ -2476,7 +2476,7 @@ And so they found themselves in the street once more inhaling long draughts of t
 
 
 
-<span class="atom-split" data-atom="story_03_in_which_professor_challenger_gives_his" data-title="THE LAND OF MIST — In Which Professor Challenger Gives His Opinion" data-chapter="Story 03 In Which Professor Challenger Gives His" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_in_which_professor_challenger_gives_his" data-title="THE LAND OF MIST — In Which Professor Challenger Gives His Opinion" data-chapter="In Which Professor Challenger Gives His" data-kind="story"></span>
 
 
 3. In Which [[Professor Challenger]] Gives His Opinion
@@ -2527,7 +2527,7 @@ Atkinson shrugged his shoulders.
 
 
 
-<span class="atom-split" data-atom="story_04_which_describes_some_strange_doings_in_h" data-title="THE LAND OF MIST — Which Describes Some Strange Doings In Hammersmith" data-chapter="Story 04 Which Describes Some Strange Doings In H" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_which_describes_some_strange_doings_in_h" data-title="THE LAND OF MIST — Which Describes Some Strange Doings In Hammersmith" data-chapter="Which Describes Some Strange Doings In H" data-kind="story"></span>
 
 
 4. Which Describes Some Strange Doings In Hammersmith
@@ -2783,7 +2783,7 @@ It was like another world when they came out into the frosty air, and saw the ta
 
 
 
-<span class="atom-split" data-atom="story_05_where_our_commissioners_have_a_remarkabl" data-title="THE LAND OF MIST — Where Our Commissioners Have A Remarkable Experience" data-chapter="Story 05 Where Our Commissioners Have A Remarkabl" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_where_our_commissioners_have_a_remarkabl" data-title="THE LAND OF MIST — Where Our Commissioners Have A Remarkable Experience" data-chapter="Where Our Commissioners Have A Remarkabl" data-kind="story"></span>
 
 
 5. Where Our Commissioners Have A Remarkable Experience
@@ -2981,7 +2981,7 @@ Mr. Atkinson found himself near the psychic researchers.
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_01" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 1)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_01" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 1)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 6. In Which The Reader Is Shown The Habits Of A Notorious Criminal
@@ -3176,7 +3176,7 @@ Linden shrugged his shoulders.
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_02" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 2)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_02" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 2)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 7. In Which The Notorious Criminal Gets What The British Law Considers To Be His Deserts
@@ -3317,7 +3317,7 @@ Yes, poor Tom Linden had a bad Press. He went down into his miserable cell amid 
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_03" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 3)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_03" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 3)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 8. In Which Three Investigators Come Across A Dark Soul
@@ -3490,7 +3490,7 @@ They rose from their knees.
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_04" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 4)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_04" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 4)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 9. Which Introduces Some Very Physical Phenomena
@@ -3597,7 +3597,7 @@ Mailey looked at his wife and smiled.
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_05" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 5)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_05" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 5)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 10. De Profundis
@@ -3788,7 +3788,7 @@ This afternoon shortly after five o’clock, an old house, said to date from the
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_06" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 6)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_06" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 6)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 11. Where Silas Linden Comes Into His Own
@@ -3919,7 +3919,7 @@ which was the ditty which had won her her name. But it became too painfully evid
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_07" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 7)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_07" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 7)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 12. There Are Heights And There Are Depths
@@ -4023,7 +4023,7 @@ Malone was deeply impressed with what he had seen, and he sat up half the night 
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_08" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 8)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_08" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 8)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 13. In Which [[Professor Challenger]] Goes Forth To Battle
@@ -4086,7 +4086,7 @@ It chanced that, as he emerged upon the landing, Enid who had been engaged in he
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_09" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 9)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_09" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 9)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 14. In Which Challenger Meets A Strange Colleague
@@ -4191,7 +4191,7 @@ Challenger glared, but the peacemaking Delicia was at work in a moment.
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_10" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 10)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_10" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 10)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 15. In Which Traps Are Laid For A Great Quarry
@@ -4293,7 +4293,7 @@ McArdle put a fatherly hand upon the young man’s shoulder.
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_11" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 11)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_11" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 11)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 16. In Which Challenger Has The Experience Of His Life
@@ -4474,7 +4474,7 @@ Challenger was too proud a man to stand pity, even from his own daughter. He pul
 
 
 
-<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_12" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 12)" data-chapter="Story 06 In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_12" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 12)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt"></span>
 
 
 17. Where The Mists Clear Away

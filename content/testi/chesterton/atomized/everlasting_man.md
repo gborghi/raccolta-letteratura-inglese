@@ -22,33 +22,33 @@ by G.K. Chesterton
 
 * * *
 
- Prefatory Note
- Introduction: The Plan of This Book
+Prefatory Note
+Introduction: The Plan of This Book
 
 PART I:  ON THE CREATURE CALLED MAN
 
-    I The Man in the [[Cave]]
-   II Professors and Prehistoric Men
-  III The Antiquity of Civilisation
-   IV God and Comparative Religion
-    V Man and Mythologies
-   VI The Demons and the Philosophers
-  VII The War of the Gods and Demons
- VIII The End of the World
+I The Man in the [[Cave]]
+II Professors and Prehistoric Men
+III The Antiquity of Civilisation
+IV God and Comparative Religion
+V Man and Mythologies
+VI The Demons and the Philosophers
+VII The War of the Gods and Demons
+VIII The End of the World
 
 PART II:  ON THE MAN CALLED [[Christ|CHRIST]]
 
-    I The God in the [[Cave]]
-   II The Riddles of the Gospel
-  III The Strangest Story in the World
-   IV The Witness of the Heretics
-    V The Escape from Paganism
-   VI The Five Deaths of the [[Faith]]
+I The God in the [[Cave]]
+II The Riddles of the Gospel
+III The Strangest Story in the World
+IV The Witness of the Heretics
+V The Escape from Paganism
+VI The Five Deaths of the [[Faith]]
 
 CONCLUSION:  THE SUMMARY OF THIS BOOK
 
- Appendix I.  On Prehistoric Man
- Appendix II. On Authority and Accuracy
+Appendix I.  On Prehistoric Man
+Appendix II. On Authority and Accuracy
 
 * * *
 
@@ -6064,7 +6064,7 @@ But it is quite as much in the tone and incidental diction of the great
 poet that we feel the potential sympathy with the great event;
 and even in their own human phrases the voices of the Virgilian
 shepherds might more than once have broken upon more than the
-tenderness of [[Italy]] `Incipe, parve puer, risu cognoscere matrem.'
+tenderness of [[Italy]] ‘Incipe, parve puer, risu cognoscere matrem.'
 They might have found in that strange place all that was best
 in the last traditions of the Latins; and something better than a
 wooden idol standing up for ever for the pillar of the human family;
@@ -6920,15 +6920,15 @@ we express it in romances and regrets about childhood, in Peter Pan
 or The Child's Garden of Verses.  And we can say of the words
 of Christ with so angry an anti-Christian as Swinburne:--
 
- 'No sign that ever was given
-  To faithful or faithless eyes
-  Showed ever beyond clouds riven
-  So clear a paradise.
+'No sign that ever was given
+To faithful or faithless eyes
+Showed ever beyond clouds riven
+So clear a paradise.
 
-  Earth's creeds may be seventy times seven
-  And blood have defiled each creed
-  But if such be the kingdom of heaven
-  It must be heaven indeed.'
+Earth's creeds may be seventy times seven
+And blood have defiled each creed
+But if such be the kingdom of heaven
+It must be heaven indeed.'
 
 But that paradise was not clear until Christianity had gradually
 cleared it.  The pagan world, as such, would not have understood any
@@ -6967,7 +6967,7 @@ in his hand and note its simplicity and even its impotence;
 then suddenly expands it in flamboyant colours into all the palaces
 and pavilions full of a great name in national legend and national glory;
 and then, by yet a third overturn, shrivels into nothing once
-more with a gesture as if flinging it away `and if God so clothes
+more with a gesture as if flinging it away ‘and if God so clothes
 the grass that today is and tomorrow is cast into the oven--
 how much more' It is like the building of a good Babel tower
 by white [[Magic|magic]] in a moment and in the movement of a hand;
@@ -8057,7 +8057,7 @@ The modern critic will say lightly enough that [[Christianity]] was
 but a reaction into asceticism and anti-natural spirituality,
 a [[Dance|dance]] of fakirs furious against life and [[Love|love]].  But Manes
 the great mystic will answer them from his secret throne and cry,
-`These Christians have no right to be called spiritual;
+‘These Christians have no right to be called spiritual;
 these Christians have no title to be called ascetics, they who
 compromised with the curse of life and all the filth of the family.
 Through them the earth is still foul with fruit and harvest and
@@ -9134,7 +9134,7 @@ men have grown content with a diluted doctrine.  And again and again
 there has followed on that dilution, coming as out of the darkness
 in a crimson cataract, the strength of the red original wine.
 And we only say once more to-day as has been said many times
-by our fathers:  `Long years and centuries ago our fathers or the
+by our fathers:  ‘Long years and centuries ago our fathers or the
 founders of our people drank, as they dreamed, of the [[Blood|blood]] of God.
 Long years and centuries have passed since the strength of that giant
 vintage has been anything but a legend of the age of giants.
@@ -9672,22 +9672,22 @@ men than I may see tracks in what is to me the trackless sand.
 
 
 
-<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_01" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 1)" data-chapter="Chapter 01 ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_01" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 1)" data-chapter="ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
 
 
 PART II:  ON THE MAN CALLED [[Christ|CHRIST]]
 
-    I The God in the [[Cave]]
-   II The Riddles of the Gospel
-  III The Strangest Story in the World
-   IV The Witness of the Heretics
-    V The Escape from Paganism
-   VI The Five Deaths of the [[Faith]]
+I The God in the [[Cave]]
+II The Riddles of the Gospel
+III The Strangest Story in the World
+IV The Witness of the Heretics
+V The Escape from Paganism
+VI The Five Deaths of the [[Faith]]
 
 CONCLUSION:  THE SUMMARY OF THIS BOOK
 
- Appendix I.  On Prehistoric Man
- Appendix II. On Authority and Accuracy
+Appendix I.  On Prehistoric Man
+Appendix II. On Authority and Accuracy
 
 * * *
 
@@ -9798,17 +9798,17 @@ of the [[Faith|faith]] and have lost the light of the [[Faith|faith]].
 
 PARTE II:  SULL'UOMO CHIAMATO [[Christ|CRISTO]]
 
-    I Il Dio nella [[Cave|Grotta]]
-   II Gli enigmi del Vangelo
-  III La più strana storia del mondo
-   IV La testimonianza degli eretici
-    V La fuga dal paganesimo
-   VI Le cinque morti della [[Faith|Fede]]
+I Il Dio nella [[Cave|Grotta]]
+II Gli enigmi del Vangelo
+III La più strana storia del mondo
+IV La testimonianza degli eretici
+V La fuga dal paganesimo
+VI Le cinque morti della [[Faith|Fede]]
 
 CONCLUSIONE:  IL COMPENDIO DI QUESTO LIBRO
 
- Appendice I.  Sull'uomo preistorico
- Appendice II. Sull'autorità e l'esattezza
+Appendice I.  Sull'uomo preistorico
+Appendice II. Sull'autorità e l'esattezza
 
 * * *
 
@@ -9915,7 +9915,7 @@ della [[Faith|fede]] e hanno perduto la luce della [[Faith|fede]].
 
 
 
-<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_02" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 2)" data-chapter="Chapter 01 ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_02" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 2)" data-chapter="ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
 
 
 Now the best relation to our spiritual [[Home|home]] is to be near enough to
@@ -10123,7 +10123,7 @@ non è certo il pieno giorno degli uomini.
 
 
 
-<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_03" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 3)" data-chapter="Chapter 01 ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_03" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 3)" data-chapter="ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
 
 
 I maintain that when brought out into the daylight these two
@@ -10349,7 +10349,7 @@ bensì cavalca il drago.
 
 
 
-<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_04" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 4)" data-chapter="Chapter 01 ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_on_the_man_called_christ_chris--part_04" data-title="everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST (part 4)" data-chapter="ON THE MAN CALLED Christ CHRIS" data-kind="excerpt"></span>
 
 
 In this example, which I have taken merely because it is an example,
@@ -18576,7 +18576,7 @@ But it is quite as much in the tone and incidental diction of the great
 poet that we feel the potential sympathy with the great event;
 and even in their own human phrases the voices of the Virgilian
 shepherds might more than once have broken upon more than the
-tenderness of [[Italy]] `Incipe, parve puer, risu cognoscere matrem.'
+tenderness of [[Italy]] ‘Incipe, parve puer, risu cognoscere matrem.'
 They might have found in that strange place all that was best
 in the last traditions of the Latins; and something better than a
 wooden idol standing up for ever for the pillar of the human family;
@@ -19801,15 +19801,15 @@ we express it in romances and regrets about childhood, in Peter Pan
 or The Child's Garden of Verses.  And we can say of the words
 of Christ with so angry an anti-Christian as Swinburne:--
 
- 'No sign that ever was given
-  To faithful or faithless eyes
-  Showed ever beyond clouds riven
-  So clear a paradise.
+'No sign that ever was given
+To faithful or faithless eyes
+Showed ever beyond clouds riven
+So clear a paradise.
 
-  Earth's creeds may be seventy times seven
-  And blood have defiled each creed
-  But if such be the kingdom of heaven
-  It must be heaven indeed.'
+Earth's creeds may be seventy times seven
+And blood have defiled each creed
+But if such be the kingdom of heaven
+It must be heaven indeed.'
 
 But that paradise was not clear until Christianity had gradually
 cleared it.  The pagan world, as such, would not have understood any
@@ -19848,7 +19848,7 @@ in his hand and note its simplicity and even its impotence;
 then suddenly expands it in flamboyant colours into all the palaces
 and pavilions full of a great name in national legend and national glory;
 and then, by yet a third overturn, shrivels into nothing once
-more with a gesture as if flinging it away `and if God so clothes
+more with a gesture as if flinging it away ‘and if God so clothes
 the grass that today is and tomorrow is cast into the oven--
 how much more' It is like the building of a good Babel tower
 by white [[Magic|magic]] in a moment and in the movement of a hand;
@@ -19913,15 +19913,15 @@ lo esprimiamo in romanzi e rimpianti sull'infanzia, in Peter Pan
 o in The Child's Garden of Verses. E delle parole
 di Cristo possiamo dire, con un anticristiano tanto rabbioso quanto Swinburne:
 
- 'No sign that ever was given
-  To faithful or faithless eyes
-  Showed ever beyond clouds riven
-  So clear a paradise.
+'No sign that ever was given
+To faithful or faithless eyes
+Showed ever beyond clouds riven
+So clear a paradise.
 
-  Earth's creeds may be seventy times seven
-  And blood have defiled each creed
-  But if such be the kingdom of heaven
-  It must be heaven indeed.'
+Earth's creeds may be seventy times seven
+And blood have defiled each creed
+But if such be the kingdom of heaven
+It must be heaven indeed.'
 
 Ma quel paradiso non fu limpido finché il cristianesimo non lo ebbe a poco a poco
 rischiarato. Il mondo pagano, in quanto tale, non avrebbe compreso alcunché
@@ -19960,7 +19960,7 @@ nella mano e notarne la semplicità e persino l'impotenza;
 poi d'un tratto lo dilata in colori sgargianti in tutti i palazzi
 e i padiglioni pieni di un gran nome nella leggenda nazionale e nella gloria nazionale;
 e poi, con un terzo capovolgimento ancora, lo fa raggrinzire di nuovo nel nulla
-con un gesto come se lo gettasse via `e se Dio così riveste
+con un gesto come se lo gettasse via ‘e se Dio così riveste
 l'erba che oggi è e domani è gettata nel forno—
 quanto più' È come la costruzione di una buona torre di Babele
 mediante bianca [[Magic|magia]] in un attimo e nel movimento di una mano;
@@ -21478,7 +21478,7 @@ The modern critic will say lightly enough that [[Christianity]] was
 but a reaction into asceticism and anti-natural spirituality,
 a [[Dance|dance]] of fakirs furious against life and [[Love|love]].  But Manes
 the great mystic will answer them from his secret throne and cry,
-`These Christians have no right to be called spiritual;
+‘These Christians have no right to be called spiritual;
 these Christians have no title to be called ascetics, they who
 compromised with the curse of life and all the filth of the family.
 Through them the earth is still foul with fruit and harvest and
@@ -22729,7 +22729,7 @@ men have grown content with a diluted doctrine.  And again and again
 there has followed on that dilution, coming as out of the darkness
 in a crimson cataract, the strength of the red original wine.
 And we only say once more to-day as has been said many times
-by our fathers:  `Long years and centuries ago our fathers or the
+by our fathers:  ‘Long years and centuries ago our fathers or the
 founders of our people drank, as they dreamed, of the [[Blood|blood]] of God.
 Long years and centuries have passed since the strength of that giant
 vintage has been anything but a legend of the age of giants.

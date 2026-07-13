@@ -2661,7 +2661,7 @@ Dome of the Oratory Church, John Henry Newman’s Oratory School in Edgbaston, B
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_01" data-title="The Hedge and the Horse — M. H. (part 1)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_01" data-title="The Hedge and the Horse — M. H. (part 1)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 M. H.
@@ -2715,7 +2715,7 @@ It is a very simple art, yet success therein is attained by very few, though it 
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_02" data-title="The Hedge and the Horse — M. H. (part 2)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_02" data-title="The Hedge and the Horse — M. H. (part 2)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 John Scott Guthrie worked in two small rather dingy rooms far down town in [[New York]] — the back and front rooms on the first floor of a dingy house in a dingy street: one looking out on the dingy street, the other back on a small, more dingy court. Year after year the grimy doorway at the foot of the dark little stair bore the fading inscription:— “GRIERSON & GUTHRIE, Agents in Real Estate.” When the time had come for the pulling down of the old shack and its replacement by one of the great buildings which soar from the rock of Manhattan, John Scott Guthrie, now for some years past the sole survivor of the little firm, had become easily able to buy up the valuable site. He bought it: — but he refused to sell.
@@ -2749,7 +2749,7 @@ John Scott, nearly sixty-six at the moment of his sister’s death, was forty ye
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_03" data-title="The Hedge and the Horse — M. H. (part 3)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_03" data-title="The Hedge and the Horse — M. H. (part 3)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 He would give the boy a large allowance — five hundred pounds a quarter — and he would arrange with his agents in [[London]] that it should be paid free of tax. It was a good deal for a boy who had been living narrowly and idly with a widowed mother in a small Northumberland town, on the few hundreds of an annuity, but John Scott Guthrie had weighed the whole matter. It would not be so large a sum as to risk Wilfred’s being outrageously sponged upon. It would not tempt others to lure him into the very rich world of England, for which he would be unsuited and which John Scott, who had only heard of that world at very long range and knew nothing at all about, despised with all his heart and wholly condemned as a sink of iniquity. But it would be enough to make him fully at his ease with the few friends of equal rank whom he had made at the University and whom he had visited from time to time since he went down. He would have proper rooms in [[London]], his Club, and a life without extravagance but without ill-ease.
@@ -2775,7 +2775,7 @@ In his heart John Scott intended to make it vastly more. He did not intend to le
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_04" data-title="The Hedge and the Horse — M. H. (part 4)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_04" data-title="The Hedge and the Horse — M. H. (part 4)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 So, vaguely and in general to reassure the boy was his first task on that last morning. His second task was more difficult. It turned upon the Demon. He did not mean to ask his nephew for a pledge, but he became eloquent. The man hardly ever betrayed emotion, but here and now he was on fire with a subdued but intense flame.
@@ -2823,7 +2823,7 @@ That was the bargain struck between them. It was terminable, of course, at any m
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_05" data-title="The Hedge and the Horse — M. H. (part 5)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_05" data-title="The Hedge and the Horse — M. H. (part 5)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 That useful man took on the job. John Scott took every care that the lad should not be warned by discovering that he was watched. A few weeks would be enough. No doubt the reports would be favourable and then they should cease. Of course if they were not —
@@ -2863,7 +2863,7 @@ Ah! if ever there was a member of the Horse Club, it was William Robinson! No ma
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_06" data-title="The Hedge and the Horse — M. H. (part 6)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_06" data-title="The Hedge and the Horse — M. H. (part 6)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 His voice was loud and self-satisfied, a voice and manner exactly suited to his stance and to his emphatic clothes. His companions decried him behind his back — and followed him obediently. His heart was as good as his digestion; and — what is the very test of such a man — he could carry his liquor magnificently!
@@ -2951,7 +2951,7 @@ Mrs. Cramp had not, and stood in awe of Mr. Robinson’s assurance. The last tim
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_07" data-title="The Hedge and the Horse — M. H. (part 7)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_07" data-title="The Hedge and the Horse — M. H. (part 7)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 “Well, that’s all right,” said Bill. “Suits you, Willy, doesn’t it?”
@@ -3009,7 +3009,7 @@ He found himself in a room of a sort he had never seen before. It was long, rath
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_08" data-title="The Hedge and the Horse — M. H. (part 8)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_08" data-title="The Hedge and the Horse — M. H. (part 8)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 At the end of this main room a door stood open, through which Straddle could see tables set out. He presumed there were card-rooms also somewhere beyond, and he was right. But this first main room, which was so striking to the eye, was used for the main purpose of a main room in such places as the Pillbox; that is, for drinking.
@@ -3037,7 +3037,7 @@ The young therefore revered him and called him “Nigger” behind his back. His
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_09" data-title="The Hedge and the Horse — M. H. (part 9)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_09" data-title="The Hedge and the Horse — M. H. (part 9)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 So much for him. I am not so much concerned: with him, here, as with his wife, Lady Merriden, and she, of course, was a Bandley.
@@ -3115,7 +3115,7 @@ I think he should have been grateful to the Barnabas Bounder for the excitements
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_10" data-title="The Hedge and the Horse — M. H. (part 10)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_10" data-title="The Hedge and the Horse — M. H. (part 10)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 IV
@@ -3153,7 +3153,7 @@ One particularly vivid passage drew an extra order for forty shillings, and a po
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_11" data-title="The Hedge and the Horse — M. H. (part 11)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_11" data-title="The Hedge and the Horse — M. H. (part 11)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 To his surprise, what he got was a sharp cable on which he could draw his week’s stipend and no more, and with it came the too peremptory information that nothing more would be required of him.
@@ -3187,7 +3187,7 @@ He had borrowed the usual fiver — it had gone like a paper bag in a blast furn
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_12" data-title="The Hedge and the Horse — M. H. (part 12)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_12" data-title="The Hedge and the Horse — M. H. (part 12)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 Then, as he was approaching his friend to persuade him to go off, even as he was trying to get hold of the unsteady figure and pilot it back through the doors, he found himself in the middle of a battle royal.
@@ -3233,7 +3233,7 @@ She knew all about him. She had fully informed herself upon him. He was a certai
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_13" data-title="The Hedge and the Horse — M. H. (part 13)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_13" data-title="The Hedge and the Horse — M. H. (part 13)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 Lady Penelope was left the house in Cumberland Place, a sufficiently large income, and this one child, on whom her stepfather had settled a small income for maintenance, or rather, pin-money — three hundred a year, solid, in Gilt-Edged.
@@ -3275,7 +3275,7 @@ Joan said nothing, but she was taking it all in. She was discovering something i
 
 
 
-<span class="atom-split" data-atom="story_01_m_h--part_14" data-title="The Hedge and the Horse — M. H. (part 14)" data-chapter="Story 01 M H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_m_h--part_14" data-title="The Hedge and the Horse — M. H. (part 14)" data-chapter="M H" data-kind="excerpt"></span>
 
 
 Then Bimbo introduced some real news: quite false, like nearly all such rumours.
@@ -3329,7 +3329,7 @@ Yet had the balance not yet kicked the beam; yet was the thing still by some sma
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_01" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 1)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_01" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 1)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 JOHN SCOTT’S BABY PASSES NIGHT IN CELLS
@@ -3388,7 +3388,7 @@ Bill, royally immaculate, without a bruise, had the morning before him to do his
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_02" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 2)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_02" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 2)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 He had on him the price of freedom (though no one knows whence he had got it), the wherewithal for Wilfred’s fine; he had stood by while the Beak read poor Willy a lecture under the paternal eye of his policeman. Bill had taken that hero and his black eye home to Westminster and put him safely to bed, making a private appointment for later in the week, for Friday — it would be the 29th June. Till then Wilfred had better lie low, and make no public appearances.
@@ -3448,7 +3448,7 @@ Wilfred was a little afraid of the strength of the cigars. There was no end to B
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_03" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 3)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_03" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 3)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “What’s that mean?” said Wilfred.
@@ -3526,7 +3526,7 @@ No! No! What Bill had done with it was 104 simpler than that. He had endorsed it
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_04" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 4)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_04" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 4)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 * * * * *
@@ -3580,7 +3580,7 @@ There was nothing very violent about the evening. It was just one of your supper
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_05" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 5)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_05" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 5)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 The bookie answered with much less discretion. More than one man rose to his feet, voices rose, the women pushed back their chairs, there was the makings of a bad quarrel.
@@ -3676,7 +3676,7 @@ Wilfred Straddle was already wilting; he began hesitatingly....
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_06" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 6)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_06" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 6)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Uncle...” began Wilfred.
@@ -3736,7 +3736,7 @@ Mr. Malcolm (often erroneously appearing with the title of “Professor” in th
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_07" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 7)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_07" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 7)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Habitudo” — his name for this process — he proved to be fixed by continual repetition. His most famous experiment was that conducted upon a criminal patriotically lent him by the Home Office.
@@ -3778,7 +3778,7 @@ Then, when all was over and Wilfred had added to his embarrassments by purchasin
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_08" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 8)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_08" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 8)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 With Wilfred Straddle the art of thinking had not been reduced to precise rules. Rather did his mind walk slowly round and round, as in Spain you may see the donkeys walking the threshing floors.
@@ -3810,7 +3810,7 @@ Five pounds! Five pounds! When he had to look at every penny! But he read those 
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_09" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 9)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_09" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 9)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 The people who do the gossip work, the Social Columns, had got on to him. “Mr. Wilfred Straddle was seen here,”
@@ -3862,7 +3862,7 @@ Joan greeted him earnestly.
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_10" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 10)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_10" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 10)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “I want you to earn something.”
@@ -3948,7 +3948,7 @@ THE DOCUMENTS FROM [[America]] had come. Worms and Handler gave Wilfred Straddle
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_11" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 11)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_11" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 11)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Wilfred Guthrie Straddle abstractedly picked up the envelope with the American imprint, thanked Mr. Worms and Mr. Handler, put the envelope in his pocket, and went out. There was nothing more to be done.
@@ -3992,7 +3992,7 @@ Wilfred said we should.
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_12" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 12)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_12" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 12)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Yes,” said Wilfred miserably. “I suppose it will be different then.”
@@ -4080,7 +4080,7 @@ At Goodwood were Lady Merriden and her crowd. There were thousands of others the
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_13" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 13)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_13" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 13)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 She spotted Wilfred with determination in his face, and Joan by his side. She greeted them both — him the more warmly. She asked him there and then whether they couldn’t see him before he left [[London]].
@@ -4142,7 +4142,7 @@ Wilfred entered, in such a mood that he hardly knew where he was. The Manager gr
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_14" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 14)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_14" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 14)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Well — no sir — not just now.... Perhaps later in the year I shall come to you about that.... There may be something important later in the year, and I’m sure you would be invaluable to me. For the moment I have only come to ask you whether I can... whether you... whether we... might arrange for... for a small overdraft?”
@@ -4226,7 +4226,7 @@ He was profoundly grateful, and scribbled away as best he could to keep up with 
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_15" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 15)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_15" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 15)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Not so quick, Joan. Please/ — Joan, you’re a wonder!”
@@ -4310,7 +4310,7 @@ No doubt he would get five pounds, or even ten; after all, his name was well kno
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_16" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 16)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_16" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 16)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 But there was a ray of hope. There was a telegram from Sluys, the new harbour in Belgium, awaiting him at his rooms: —
@@ -4388,7 +4388,7 @@ It was incumbent upon William to keep the flag of the Horse Club flying, and, as
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_17" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 17)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_17" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 17)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 He led Wilfred away, as a man might be led to execution, and Stuffy and Buffy and Guffy and all the others, not excluding Polly and Dolly, a fine vacuous company, and Lady Antigua in the midst, received Wilfred amid cocktails, seeing to it that he had one himself. Wilfred asked if it might be tomato, and their well-bred guffaws were the first bit of liveliness they had had that day. Even Stuffy showed amusement, in spite of his wealth.
@@ -4450,7 +4450,7 @@ When they got out at Victoria they put their very light luggage into the cloak r
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_18" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 18)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_18" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 18)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Wilfred, with rather less than five shillings in his pocket (the rest had gone in tips to the steward and in breakfast) waited at the Club. While the Hedge waited, vacuous, alarmed, the Horse acted.
@@ -4532,7 +4532,7 @@ She hoped it might be. She indicated that she doubted it. She would have been gl
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_19" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 19)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_19" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 19)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 In the train, the nearer he got to Merriden, the more he dreaded the great wealth which he was now invading. He would have been more worried if he had known what had been going on at Merriden House during the hours of that morning when Bill had seen his tailor and the famous gunsmith had been so generous.
@@ -4606,7 +4606,7 @@ His host, the Nigger, spoke to him as genially as he could. It was not saying mu
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_20" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 20)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_20" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 20)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Well (thought the Hedge), he had to go through with it! He had engaged himself to it, and he was more frightened of backing out than of going on. He would trust to Luck. After all, he had handled a gun once or twice in his life in a small way. He had potted rabbits over the neighbours’ fields in Northumberland.
@@ -4662,7 +4662,7 @@ He got in beside her, diffident, still apologizing, blundering with his gun, whi
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_21" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 21)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_21" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 21)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “I wish I had shot myself,” said Wilfred.
@@ -4720,7 +4720,7 @@ What made all the difference to Wilfred when he arrived at the huge mid-nineteen
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_22" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 22)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_22" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 22)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Bill had brought two or three of the Semiramis argosy with him, persuading them, or the Duke or the Duchess, God knows how! Bill could do most things, and Lady Antigua had certainly been his accomplice in that plan.
@@ -4776,7 +4776,7 @@ The iron entered into Wilfred’s soul, but he said nothing.
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_23" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 23)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_23" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 23)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 The Hedge and the Horse When it came to the expedition on the river the next day (the bad luncheon basket and the insufficient wine and all the rest of it) there was nothing to be said for the day save that it was as bright above as it was dull below. The party went its solemn way, and Wilfred found himself wondering whether he really must put in another forty-eight hours, or whether he could find an opportunity for escape. Anyhow, so long as he stopped it was a saving of money.... The moment he got back to [[London]] the expenses would begin again, and the remaining margin was getting abominably narrow.
@@ -4822,7 +4822,7 @@ It made something more. It made one of those things that are only made in heaven
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_24" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 24)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_24" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 24)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “You don’t say so? God bless my soul! Who on earth is he? You don’t say so! Antigua and that bounder? Why, she wouldn’t have anything to do with Eustace, and that was years ago — silly girl. Upon my word, what next? However, you know best.”
@@ -4870,7 +4870,7 @@ The Home Secretary arrived punctual to the minute. He shook hands with Mr. Holde
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_25" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 25)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_25" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 25)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Still, it did raise his heart somewhat to hear the Home Secretary’s intelligent appreciation and careful interest in all he said as they bowled along in the very fine car. Wilfred was told what it would mean to the Socialist Party that a man of Mr. Straddle’s proved ability and great experience of the world and connections with our cousins overseas should be among them. He was told how highly the Committee in Ratsholme already thought of him; how much more highly they would think of him when they had had the honour of seeing him in the flesh. He was told (in a tone slightly deprecating) what Ratsholme was. He was now to understand that Ratsholme was lucky to get him.
@@ -4912,7 +4912,7 @@ He would insist on the Kleindrift speculation being closed. Never mind the loss 
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_26" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 26)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_26" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 26)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Misfortune anneals men. Even prolonged and increasing anxiety, though it undermines them, gives them a certain edge. Wilfred was becoming determined. He must get that money back somehow or other, or, at any rate, whatever could be saved of it. He must have something to float him until he might be getting articles regularly taken, or until he had some other form of income, however small — and Joan at least would help him to write.
@@ -4964,7 +4964,7 @@ Yes, Lord Lodiham had delicately lifted that pocket-book from Wilfred’s coat i
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_27" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 27)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_27" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 27)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Behold, therefore, what used to be called our hero, what we will for the purposes of this book call our Hedger, waking on Friday morning in his enormous bedroom at Lodiham, remembering where he was, grasping at the watch under his pillow, and finding that he had just time to get breakfast and catch his early train. He had his plan all cut and dried. He would first try to get Bill on the telephone, and if that failed he would send a telegram from the station. It was imperative he should see Bill, for on Saturday would come the vital interview with Mrs. Cramp. Were he to meet Mrs. Cramp empty-handed she would strike him dead.
@@ -5000,7 +5000,7 @@ He went to the Club, but there were no letters for him. And once again he showed
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_28" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 28)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_28" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 28)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Here’s Willy — Willy’ll weigh in!’
@@ -5070,7 +5070,7 @@ He was too well dressed for the part. He was routed off a bench on the Embankmen
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_29" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 29)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_29" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 29)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 He was tired out and dropping from want of sleep, but he compelled himself to walk quickly lest he should be questioned again, as he had already been, twice, since [[London]] had gone silent and empty.
@@ -5134,7 +5134,7 @@ One was from a Mrs. Barrington-Goyle. She had made an intolerable fuss almost a 
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_30" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 30)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_30" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 30)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Wilfred was in a sheer fog as he opened yet another letter, and that other letter did not lessen his perplexity.
@@ -5184,7 +5184,7 @@ This other lawyer, Mr. St. John, had produced a letter which explained everythin
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_31" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 31)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_31" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 31)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Mr. Guthrie had written to Messrs. A. St. John making an appointment for the fourth day after the arrival of the boat upon which he had taken his return to the States. He explained that he had done so in order to allow for any possible delays from the weather or what not, adding that he would cable upon starting. In that letter he had said that he would write further in regard to a very important and private matter. He had never yet drawn up his Will, and now wished to do so. He meant the Will to be brief, the schedule of the property and of his intentions upon it being already fixed in his mind, though not yet committed to paper. A further letter would follow, in which the details would be put before them, so that they should be ready to draw up the instrument on his arrival with the least delay.
@@ -5228,7 +5228,7 @@ The manner in which Worms and Handler received him was a singularly fine refutat
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_32" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 32)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_32" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 32)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 There was a pause. There was much of the concealed Horse in Worms, and still more of the open Horse in Handler, than the now set-up Hedger could have guessed. They took the initiative; and while he was yet casting about in his mind as to whether he might dare to ask for five hundred pounds, while he was yet wondering what those [[New York]] lawyers meant by that phrase “in reason,” they told him that they supposed a credit of a thousand pounds would meet all immediate requirements. Of course if there were further delays, nothing could be easier than to increase that sum. Meanwhile they were sure his bankers would oblige as well, and they would give him a note to those Impersonalities — which meant in the concrete the formidable Manager, the Manager who had been so suave with that “Hardly, hardly! — Eh?” only so little a time ago.
@@ -5268,7 +5268,7 @@ Once more for a moment was Wilfred Straddle at a loss. He did not like to mentio
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_33" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 33)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_33" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 33)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “Yes,” said Wilfred simply. He had no doubt it was so. But in his heart he could conceive of nothing crushing that could crush so monstrous an accumulation as that which was now within his reach.
@@ -5330,7 +5330,7 @@ In the morning the trouble began again: the usual mass of letters from lords and
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_34" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 34)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_34" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 34)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 He had no idea that elementary education played so large a part in the political emotions of his fellow-countrymen!
@@ -5380,7 +5380,7 @@ The man who opened the door said that he feared Lady Merriden was not at home.
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_35" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 35)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_35" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 35)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 “He said he was coming here this afternoon, my dear. Don’t go down now. You might meet him at the door. Wait till I’ve got off. He said he was coming late, and he might be here at any minute. Wait till I get away.”
@@ -5488,7 +5488,7 @@ Willy the Hedger, the newly re-established toff (and oh, how solidly established
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_36" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 36)" data-chapter="Story 02 John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_36" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 36)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt"></span>
 
 
 Then, suddenly, a chill struck his heart. He had dreamed of Joan and himself and the place they would seek for themselves an pick out and purchase, and he had thought that since she had such an objection to wealth he would not have all the cars that Lady Merriden had recommended for the country, but he would cherish her as only wealth can cherish.... —

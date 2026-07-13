@@ -22,7 +22,7 @@ It is not true to say I frowned,
 Or ran about the room and roared;  
 I might have simply sat and snored--  
 I [[Rose|rose]] politely in the club  
-And said, `I feel a little bored;  
+And said, ‘I feel a little bored;  
 Will someone take me to a pub?'  
 
 The new world's wisest did surround  
@@ -31,7 +31,7 @@ I did not think their views profound,
 Or their conclusions well assured;  
 The simple life I can't afford,  
 Besides, I do not like the grub--  
-I want a mash and sausage, `scored'--  
+I want a mash and sausage, ‘scored'--  
 Will someone take me to a pub?  
 
 I know where Men can still be found,  
@@ -100,7 +100,7 @@ It is not true to say I frowned,
 Or ran about the room and roared;  
 I might have simply sat and snored--  
 I [[Rose|rose]] politely in the club  
-And said, `I feel a little bored;  
+And said, ‘I feel a little bored;  
 Will someone take me to a pub?'  
 
 The new world's wisest did surround  
@@ -109,7 +109,7 @@ I did not think their views profound,
 Or their conclusions well assured;  
 The simple life I can't afford,  
 Besides, I do not like the grub--  
-I want a mash and sausage, `scored'--  
+I want a mash and sausage, ‘scored'--  
 Will someone take me to a pub?  
 
 I know where Men can still be found,  

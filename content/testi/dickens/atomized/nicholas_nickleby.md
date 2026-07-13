@@ -1862,7 +1862,7 @@ exemplary, [[Well|well]] conducted, and--’
 recommendation; ‘no [[Doubt|doubt]] of it at all. Suppose we come to business?’
 
 ‘With all my heart, sir,’ rejoined Squeers. ‘“Never postpone business,”
- is the very first lesson we instil into our commercial pupils. Master
+is the very first lesson we instil into our commercial pupils. Master
 Belling, my dear, always remember that; do you hear?’
 
 ‘Yes, sir,’ repeated Master Belling.
@@ -4694,7 +4694,7 @@ wife.
 ‘I don’t see that you want him any more than the dead,’ said
 Mrs. Squeers. ‘Don’t tell me. You can put on the cards and in the
 advertisements, “[[Education]] by Mr. [[Wackford Squeers]] and able assistants,”
- without having any assistants, can’t you? Isn’t it done every day by all
+without having any assistants, can’t you? Isn’t it done every day by all
 the masters about? I’ve no patience with you.’
 
 ‘Haven’t you!’ said Squeers, sternly. ‘Now I’ll tell you what, Mrs
@@ -12401,7 +12401,7 @@ is not a physician who is not proud of being called in to you. What
 is their unanimous declaration? “My dear doctor,” said I to Sir Tumley
 Snuffim, in this very room, the very last [[Time|time]] he came. “My dear doctor,
 what is my wife’s complaint? Tell me all. I can bear it. Is it nerves?”
- “My dear fellow,” he said, “be proud of that woman; make much of her;
+“My dear fellow,” he said, “be proud of that woman; make much of her;
 she is an ornament to the fashionable world, and to you. Her complaint
 is [[Soul|soul]]. It swells, expands, dilates--the [[Blood|blood]] fires, the pulse
 quickens, the excitement increases--Whew!”’ Here Mr. Wititterly, who, in
@@ -13919,7 +13919,7 @@ seeing the way to do it?--you astonish me! You get the distressed lady,
 and the little [[Child|child]], and the attached servant, into the poor lodgings,
 don’t you?--[[Well]], look here. The distressed lady sinks into a chair, and
 buries her face in her pocket-handkerchief. “What makes you weep, mama?”
- says the [[Child|child]]. “Don’t weep, mama, or you’ll make me weep too!”--“And
+says the [[Child|child]]. “Don’t weep, mama, or you’ll make me weep too!”--“And
 me!” says the favourite servant, rubbing his eyes with his arm. “What
 can we do to raise your spirits, dear mama?” says the little [[Child|child]].
 “Ay, what CAN we do?” says the faithful servant. “Oh, Pierre!” says
@@ -14211,10 +14211,10 @@ notices of Miss Snevellicci’s acting, extracted from different
 provincial journals, together with one poetic address in her [[Honour|honour]],
 commencing--
 
-     Sing, God of [[Love]], and tell me in what dearth
-     Thrice-gifted SNEVELLICCI came on earth,
-     To thrill us with her smile, her tear, her eye,
-     Sing, God of [[Love]], and tell me quickly why.
+Sing, God of [[Love]], and tell me in what dearth
+Thrice-gifted SNEVELLICCI came on earth,
+To thrill us with her smile, her tear, her eye,
+Sing, God of [[Love]], and tell me quickly why.
 
 Besides this effusion, there were innumerable complimentary allusions,
 also extracted from newspapers, such as--‘We observe from an
@@ -14617,7 +14617,7 @@ Miss Petowker of the Theatre Royal, Drury Lane!’
 one young person’s [[Body|body]],’ retorted Mr. Crummles, [[rolling]] up the bills
 again; ‘that is, talent of a certain sort--of a certain sort. “The [[Blood]]
 Drinker,”’ added Mr. Crummles with a prophetic sigh, ‘“The [[Blood]] Drinker”
- will die with that girl; and she’s the only sylph I ever saw, who could
+will die with that girl; and she’s the only sylph I ever saw, who could
 stand upon one leg, and play the tambourine on her other knee, LIKE a
 sylph.’
 
@@ -24718,8 +24718,8 @@ speak to you again.’
 ‘A’most!’ said John, with a broader grin than the last. ‘A’most made up
 her mind! And she wur coaxin’, and coaxin’, and wheedlin’, and wheedlin’
 a’ the blessed wa’. “Wa’at didst thou let yon chap mak’ oop tiv’ee for?”
- says I. “I deedn’t, John,” says she, a squeedgin my arm. “You deedn’t?”
- says I. “Noa,” says she, a squeedgin of me agean.’
+says I. “I deedn’t, John,” says she, a squeedgin my arm. “You deedn’t?”
+says I. “Noa,” says she, a squeedgin of me agean.’
 
 ‘Lor, John!’ interposed his pretty wife, colouring very much. ‘How can
 you talk such nonsense? As if I should have dreamt of such a thing!’
@@ -24735,7 +24735,7 @@ thou think it’s nat’ral noo, that having such a proper mun as thou
 to keep company wi’, I’d ever tak’ opp wi’ such a leetle scanty
 whipper-snapper as yon?” she says. Ha! ha! ha! She said whipper-snapper!
 “Ecod!” I says, “efther thot, neame the day, and let’s have it ower!”
- Ha! ha! ha!’
+Ha! ha! ha!’
 
 Nicholas laughed very heartily at this story, both on account of its
 telling against himself, and his being desirous to spare the blushes of
@@ -24795,7 +24795,7 @@ not wakken anybody, sir.” “Hallo, there,” he says, and then he stops.
 [[Time|time]]. “I’ll brak’ every boan in your boddy, [[Smike]],” he says, efther
 another little [[Time|time]]. Then all of a soodden, he sings oot for a loight,
 and when it cooms--ecod, such a hoorly-boorly! “Wa’at’s the matter?”
- says I. “He’s gane,” says he,--stark mad wi’ vengeance. “Have you heerd
+says I. “He’s gane,” says he,--stark mad wi’ vengeance. “Have you heerd
 nought?” “Ees,” says I, “I heerd street-door shut, no [[Time|time]] at a’ ago.
 I heerd a person run doon there” (pointing t’other wa’--eh?) “Help!” he
 cries. “I’ll help you,” says I; and off we set--the wrong wa’! Ho! ho!
@@ -28466,7 +28466,7 @@ scrap. ‘This is from the notices to correspondents, this one.’
 Nicholas read it aloud. ‘“Philo-Dramaticus. Crummles, the country
 manager and actor, cannot be more than forty-three, or forty-four
 years of age. Crummles is NOT a Prussian, having been born at Chelsea.”
- Humph!’ said Nicholas, ‘that’s an odd paragraph.’
+Humph!’ said Nicholas, ‘that’s an odd paragraph.’
 
 ‘Very,’ returned Crummles, scratching the side of his nose, and looking
 at Nicholas with an assumption of great unconcern. ‘I can’t think who
@@ -30139,9 +30139,9 @@ From out the most spare and hungry room in all this spare and hungry
 as it feebly chirruped forth the fag end of some forgotten [[Song|song]], of
 which the burden ran:
 
-     Ta--ran--tan--too,
-     Throw the old shoe,
-     And may the wedding be lucky!
+Ta--ran--tan--too,
+Throw the old shoe,
+And may the wedding be lucky!
 
 which he repeated, in the same shrill quavering notes, again and again,
 until a violent fit of coughing obliged him to desist, and to pursue in
@@ -30163,9 +30163,9 @@ The result of his cogitations appeared to be unfavourable, for he folded
 the garment once more, laid it aside, and mounted on a chair to get down
 another, chirping while he did so:
 
-     Young, loving, and fair,
-     Oh what happiness there!
-     The wedding is sure to be lucky!
+Young, loving, and fair,
+Oh what happiness there!
+The wedding is sure to be lucky!
 
 ‘They always put in “young,”’ said old [[arthur|Arthur]], ‘but [[songs]] are only
 written for the sake of rhyme, and this is a silly one that the poor
@@ -31984,7 +31984,7 @@ precious wedding! He wants somebody better than his old Peg to take care
 of him, does he? And what has he said to me, many and many a [[Time|time]], to
 keep me content with short food, small wages, and little [[Fire|fire]]? “My will,
 Peg! my will!” says he: “I’m a bachelor--no friends--no relations, Peg.”
- Lies! And now he’s to bring [[Home|home]] a new mistress, a baby-faced chit of a
+Lies! And now he’s to bring [[Home|home]] a new mistress, a baby-faced chit of a
 girl! If he wanted a wife, the [[Fool|fool]], why couldn’t he have one suitable
 to his age, and that knew his ways? She won’t come in MY way, he says.
 No, that she won’t, but you little think why, [[arthur|Arthur]] boy!’
@@ -39069,7 +39069,7 @@ exemplary, [[Well|well]] conducted, and--’
 recommendation; ‘no [[Doubt|doubt]] of it at all. Suppose we come to business?’
 
 ‘With all my heart, sir,’ rejoined Squeers. ‘“Never postpone business,”
- is the very first lesson we instil into our commercial pupils. Master
+is the very first lesson we instil into our commercial pupils. Master
 Belling, my dear, always remember that; do you hear?’
 
 ‘Yes, sir,’ repeated Master Belling.
@@ -42023,7 +42023,7 @@ wife.
 ‘I don’t see that you want him any more than the dead,’ said
 Mrs. Squeers. ‘Don’t tell me. You can put on the cards and in the
 advertisements, “[[Education]] by Mr. [[Wackford Squeers]] and able assistants,”
- without having any assistants, can’t you? Isn’t it done every day by all
+without having any assistants, can’t you? Isn’t it done every day by all
 the masters about? I’ve no patience with you.’
 
 ‘Haven’t you!’ said Squeers, sternly. ‘Now I’ll tell you what, Mrs
@@ -50072,7 +50072,7 @@ is not a physician who is not proud of being called in to you. What
 is their unanimous declaration? “My dear doctor,” said I to Sir Tumley
 Snuffim, in this very room, the very last [[Time|time]] he came. “My dear doctor,
 what is my wife’s complaint? Tell me all. I can bear it. Is it nerves?”
- “My dear fellow,” he said, “be proud of that woman; make much of her;
+“My dear fellow,” he said, “be proud of that woman; make much of her;
 she is an ornament to the fashionable world, and to you. Her complaint
 is [[Soul|soul]]. It swells, expands, dilates--the [[Blood|blood]] fires, the pulse
 quickens, the excitement increases--Whew!”’ Here Mr. Wititterly, who, in
@@ -51662,7 +51662,7 @@ seeing the way to do it?--you astonish me! You get the distressed lady,
 and the little [[Child|child]], and the attached servant, into the poor lodgings,
 don’t you?--[[Well]], look here. The distressed lady sinks into a chair, and
 buries her face in her pocket-handkerchief. “What makes you weep, mama?”
- says the [[Child|child]]. “Don’t weep, mama, or you’ll make me weep too!”--“And
+says the [[Child|child]]. “Don’t weep, mama, or you’ll make me weep too!”--“And
 me!” says the favourite servant, rubbing his eyes with his arm. “What
 can we do to raise your spirits, dear mama?” says the little [[Child|child]].
 “Ay, what CAN we do?” says the faithful servant. “Oh, Pierre!” says
@@ -51972,10 +51972,10 @@ notices of Miss Snevellicci’s acting, extracted from different
 provincial journals, together with one poetic address in her [[Honour|honour]],
 commencing--
 
-     Sing, God of [[Love]], and tell me in what dearth
-     Thrice-gifted SNEVELLICCI came on earth,
-     To thrill us with her smile, her tear, her eye,
-     Sing, God of [[Love]], and tell me quickly why.
+Sing, God of [[Love]], and tell me in what dearth
+Thrice-gifted SNEVELLICCI came on earth,
+To thrill us with her smile, her tear, her eye,
+Sing, God of [[Love]], and tell me quickly why.
 
 Besides this effusion, there were innumerable complimentary allusions,
 also extracted from newspapers, such as--‘We observe from an
@@ -52394,7 +52394,7 @@ Miss Petowker of the Theatre Royal, Drury Lane!’
 one young person’s [[Body|body]],’ retorted Mr. Crummles, [[rolling]] up the bills
 again; ‘that is, talent of a certain sort--of a certain sort. “The [[Blood]]
 Drinker,”’ added Mr. Crummles with a prophetic sigh, ‘“The [[Blood]] Drinker”
- will die with that girl; and she’s the only sylph I ever saw, who could
+will die with that girl; and she’s the only sylph I ever saw, who could
 stand upon one leg, and play the tambourine on her other knee, LIKE a
 sylph.’
 
@@ -62971,8 +62971,8 @@ speak to you again.’
 ‘A’most!’ said John, with a broader grin than the last. ‘A’most made up
 her mind! And she wur coaxin’, and coaxin’, and wheedlin’, and wheedlin’
 a’ the blessed wa’. “Wa’at didst thou let yon chap mak’ oop tiv’ee for?”
- says I. “I deedn’t, John,” says she, a squeedgin my arm. “You deedn’t?”
- says I. “Noa,” says she, a squeedgin of me agean.’
+says I. “I deedn’t, John,” says she, a squeedgin my arm. “You deedn’t?”
+says I. “Noa,” says she, a squeedgin of me agean.’
 
 ‘Lor, John!’ interposed his pretty wife, colouring very much. ‘How can
 you talk such nonsense? As if I should have dreamt of such a thing!’
@@ -62988,7 +62988,7 @@ thou think it’s nat’ral noo, that having such a proper mun as thou
 to keep company wi’, I’d ever tak’ opp wi’ such a leetle scanty
 whipper-snapper as yon?” she says. Ha! ha! ha! She said whipper-snapper!
 “Ecod!” I says, “efther thot, neame the day, and let’s have it ower!”
- Ha! ha! ha!’
+Ha! ha! ha!’
 
 
 
@@ -63054,7 +63054,7 @@ not wakken anybody, sir.” “Hallo, there,” he says, and then he stops.
 [[Time|time]]. “I’ll brak’ every boan in your boddy, [[Smike]],” he says, efther
 another little [[Time|time]]. Then all of a soodden, he sings oot for a loight,
 and when it cooms--ecod, such a hoorly-boorly! “Wa’at’s the matter?”
- says I. “He’s gane,” says he,--stark mad wi’ vengeance. “Have you heerd
+says I. “He’s gane,” says he,--stark mad wi’ vengeance. “Have you heerd
 nought?” “Ees,” says I, “I heerd street-door shut, no [[Time|time]] at a’ ago.
 I heerd a person run doon there” (pointing t’other wa’--eh?) “Help!” he
 cries. “I’ll help you,” says I; and off we set--the wrong wa’! Ho! ho!
@@ -66905,7 +66905,7 @@ scrap. ‘This is from the notices to correspondents, this one.’
 Nicholas read it aloud. ‘“Philo-Dramaticus. Crummles, the country
 manager and actor, cannot be more than forty-three, or forty-four
 years of age. Crummles is NOT a Prussian, having been born at Chelsea.”
- Humph!’ said Nicholas, ‘that’s an odd paragraph.’
+Humph!’ said Nicholas, ‘that’s an odd paragraph.’
 
 ‘Very,’ returned Crummles, scratching the side of his nose, and looking
 at Nicholas with an assumption of great unconcern. ‘I can’t think who
@@ -68656,9 +68656,9 @@ From out the most spare and hungry room in all this spare and hungry
 as it feebly chirruped forth the fag end of some forgotten [[Song|song]], of
 which the burden ran:
 
-     Ta--ran--tan--too,
-     Throw the old shoe,
-     And may the wedding be lucky!
+Ta--ran--tan--too,
+Throw the old shoe,
+And may the wedding be lucky!
 
 which he repeated, in the same shrill quavering notes, again and again,
 until a violent fit of coughing obliged him to desist, and to pursue in
@@ -68680,9 +68680,9 @@ The result of his cogitations appeared to be unfavourable, for he folded
 the garment once more, laid it aside, and mounted on a chair to get down
 another, chirping while he did so:
 
-     Young, loving, and fair,
-     Oh what happiness there!
-     The wedding is sure to be lucky!
+Young, loving, and fair,
+Oh what happiness there!
+The wedding is sure to be lucky!
 
 ‘They always put in “young,”’ said old [[arthur|Arthur]], ‘but [[songs]] are only
 written for the sake of rhyme, and this is a silly one that the poor
@@ -70585,7 +70585,7 @@ precious wedding! He wants somebody better than his old Peg to take care
 of him, does he? And what has he said to me, many and many a [[Time|time]], to
 keep me content with short food, small wages, and little [[Fire|fire]]? “My will,
 Peg! my will!” says he: “I’m a bachelor--no friends--no relations, Peg.”
- Lies! And now he’s to bring [[Home|home]] a new mistress, a baby-faced chit of a
+Lies! And now he’s to bring [[Home|home]] a new mistress, a baby-faced chit of a
 girl! If he wanted a wife, the [[Fool|fool]], why couldn’t he have one suitable
 to his age, and that knew his ways? She won’t come in MY way, he says.
 No, that she won’t, but you little think why, [[arthur|Arthur]] boy!’

@@ -16,819 +16,819 @@ tags:
 
 “In the name of the [[Prophet]]—figs!!”
 
-                    —_Cry of the Turkish fig-peddler._
+—_Cry of the Turkish fig-peddler._
 
 
 
-      I presume everybody has heard of me. My name is the Signora
+I presume everybody has heard of me. My name is the Signora
 
-      Psyche Zenobia. This I know to be a fact. Nobody but my enemies
+Psyche Zenobia. This I know to be a fact. Nobody but my enemies
 
-      ever calls me Suky Snobbs. I have been assured that Suky is but a
+ever calls me Suky Snobbs. I have been assured that Suky is but a
 
-      vulgar corruption of Psyche, which is good Greek, and means “the
+vulgar corruption of Psyche, which is good Greek, and means “the
 
-      [[Soul|soul]]” (that’s me, I’m all [[Soul|soul]]) and sometimes “a butterfly,”
+[[Soul|soul]]” (that’s me, I’m all [[Soul|soul]]) and sometimes “a butterfly,”
 
-      which latter meaning undoubtedly alludes to my appearance in my
+which latter meaning undoubtedly alludes to my appearance in my
 
-      new crimson satin dress, with the sky-blue Arabian mantelet, and
+new crimson satin dress, with the sky-blue Arabian mantelet, and
 
-      the trimmings of green agraffas, and the seven flounces of
+the trimmings of green agraffas, and the seven flounces of
 
-      orange-colored auriculas. As for Snobbs—any person who should
+orange-colored auriculas. As for Snobbs—any person who should
 
-      look at me would be instantly aware that my name wasn’t Snobbs.
+look at me would be instantly aware that my name wasn’t Snobbs.
 
-      Miss Tabitha Turnip propagated that report through sheer envy.
+Miss Tabitha Turnip propagated that report through sheer envy.
 
-      Tabitha Turnip indeed! Oh the little wretch! But what can we
+Tabitha Turnip indeed! Oh the little wretch! But what can we
 
-      expect from a turnip? [[Wonder]] if she remembers the old adage about
+expect from a turnip? [[Wonder]] if she remembers the old adage about
 
-      “[[Blood|blood]] out of a turnip,” &c.? [Mem. put her in mind of it the
+“[[Blood|blood]] out of a turnip,” &c.? [Mem. put her in mind of it the
 
-      first opportunity.] [Mem. again—pull her nose.] Where was I? Ah!
+first opportunity.] [Mem. again—pull her nose.] Where was I? Ah!
 
-      I have been assured that Snobbs is a mere corruption of Zenobia,
+I have been assured that Snobbs is a mere corruption of Zenobia,
 
-      and that Zenobia was a [[Queen|queen]]—(So am I. Dr. Moneypenny always
+and that Zenobia was a [[Queen|queen]]—(So am I. Dr. Moneypenny always
 
-      calls me the [[Queen]] of the Hearts)—and that Zenobia, as [[Well|well]] as
+calls me the [[Queen]] of the Hearts)—and that Zenobia, as [[Well|well]] as
 
-      Psyche, is good Greek, and that my father was “a Greek,” and that
+Psyche, is good Greek, and that my father was “a Greek,” and that
 
-      consequently I have a right to our patronymic, which is Zenobia
+consequently I have a right to our patronymic, which is Zenobia
 
-      and not by any means Snobbs. Nobody but Tabitha Turnip calls me
+and not by any means Snobbs. Nobody but Tabitha Turnip calls me
 
-      Suky Snobbs. I am the Signora Psyche Zenobia.
+Suky Snobbs. I am the Signora Psyche Zenobia.
 
 
 
-      As I said before, everybody has heard of me. I am that very
+As I said before, everybody has heard of me. I am that very
 
-      Signora Psyche Zenobia, so justly celebrated as corresponding
+Signora Psyche Zenobia, so justly celebrated as corresponding
 
-      secretary to the “Philadelphia, Regular, Exchange, Tea, Total,
+secretary to the “Philadelphia, Regular, Exchange, Tea, Total,
 
-      Young, Belles, Lettres, Universal, Experimental, Bibliographical,
+Young, Belles, Lettres, Universal, Experimental, Bibliographical,
 
-      Association, To, Civilize, Humanity.” Dr. Moneypenny made the
+Association, To, Civilize, Humanity.” Dr. Moneypenny made the
 
-      title for us, and says he chose it because it sounded big like an
+title for us, and says he chose it because it sounded big like an
 
-      empty rum-puncheon. (A vulgar man that sometimes—but he’s deep.)
+empty rum-puncheon. (A vulgar man that sometimes—but he’s deep.)
 
-      We all sign the initials of the society after our names, in the
+We all sign the initials of the society after our names, in the
 
-      fashion of the R. S. A., Royal Society of Arts—the S. D. U. K.,
+fashion of the R. S. A., Royal Society of Arts—the S. D. U. K.,
 
-      Society for the Diffusion of Useful Knowledge, &c, &c. Dr.
+Society for the Diffusion of Useful Knowledge, &c, &c. Dr.
 
-      Moneypenny says that S. stands for stale, and that D. U. K.
+Moneypenny says that S. stands for stale, and that D. U. K.
 
-      spells duck, (but it don’t,) that S. D. U. K. stands for Stale
+spells duck, (but it don’t,) that S. D. U. K. stands for Stale
 
-      Duck and not for Lord Brougham’s society—but then Dr. Moneypenny
+Duck and not for Lord Brougham’s society—but then Dr. Moneypenny
 
-      is such a queer man that I am never sure when he is telling me
+is such a queer man that I am never sure when he is telling me
 
-      the [[Truth|truth]]. At any rate we always add to our names the initials P.
+the [[Truth|truth]]. At any rate we always add to our names the initials P.
 
-      R. E. T. T. Y. B. L. U. E. B. A. T. C. H.—that is to say,
+R. E. T. T. Y. B. L. U. E. B. A. T. C. H.—that is to say,
 
-      Philadelphia, Regular, Exchange, Tea, Total, Young, Belles,
+Philadelphia, Regular, Exchange, Tea, Total, Young, Belles,
 
-      Lettres, Universal, Experimental, Bibliographical, Association,
+Lettres, Universal, Experimental, Bibliographical, Association,
 
-      To, Civilize, Humanity—one letter for each word, which is a
+To, Civilize, Humanity—one letter for each word, which is a
 
-      decided improvement upon Lord Brougham. Dr. Moneypenny will have
+decided improvement upon Lord Brougham. Dr. Moneypenny will have
 
-      it that our initials give our true character—but for my life I
+it that our initials give our true character—but for my life I
 
-      can’t see what he means.
+can’t see what he means.
 
 
 
-      Notwithstanding the good offices of the Doctor, and the strenuous
+Notwithstanding the good offices of the Doctor, and the strenuous
 
-      exertions of the association to get itself into notice, it met
+exertions of the association to get itself into notice, it met
 
-      with no very great [[success]] until I joined it. The [[Truth|truth]] is, the
+with no very great [[success]] until I joined it. The [[Truth|truth]] is, the
 
-      members indulged in too flippant a tone of discussion. The papers
+members indulged in too flippant a tone of discussion. The papers
 
-      read every Saturday evening were characterized less by depth than
+read every Saturday evening were characterized less by depth than
 
-      buffoonery. They were all whipped syllabub. There was no
+buffoonery. They were all whipped syllabub. There was no
 
-      investigation of first causes, first principles. There was no
+investigation of first causes, first principles. There was no
 
-      investigation of any thing at all. There was no attention paid to
+investigation of any thing at all. There was no attention paid to
 
-      that great point, the “fitness of things.” In short there was no
+that great point, the “fitness of things.” In short there was no
 
-      fine writing like this. It was all low—very! No profundity, no
+fine writing like this. It was all low—very! No profundity, no
 
-      reading, no metaphysics—nothing which the learned call
+reading, no metaphysics—nothing which the learned call
 
-      spirituality, and which the unlearned choose to stigmatize as
+spirituality, and which the unlearned choose to stigmatize as
 
-      cant. [Dr. M. says I ought to spell “cant” with a capital K—but I
+cant. [Dr. M. says I ought to spell “cant” with a capital K—but I
 
-      know better.]
+know better.]
 
 
 
-      When I joined the society it was my endeavor to introduce a
+When I joined the society it was my endeavor to introduce a
 
-      better style of thinking and writing, and all the world knows how
+better style of thinking and writing, and all the world knows how
 
-      [[Well|well]] I have succeeded. We get up as good papers now in the P. R.
+[[Well|well]] I have succeeded. We get up as good papers now in the P. R.
 
-      E. T. T. Y. B. L. U. E. B. A. T. C. H. as any to be found even in
+E. T. T. Y. B. L. U. E. B. A. T. C. H. as any to be found even in
 
-      Blackwood. I say, Blackwood, because I have been assured that the
+Blackwood. I say, Blackwood, because I have been assured that the
 
-      finest writing, upon every subject, is to be discovered in the
+finest writing, upon every subject, is to be discovered in the
 
-      pages of that justly celebrated Magazine. We now take it for our
+pages of that justly celebrated Magazine. We now take it for our
 
-      model upon all themes, and are getting into rapid notice
+model upon all themes, and are getting into rapid notice
 
-      accordingly. And, after all, it’s not so very difficult a matter
+accordingly. And, after all, it’s not so very difficult a matter
 
-      to compose an article of the genuine Blackwood stamp, if one only
+to compose an article of the genuine Blackwood stamp, if one only
 
-      goes properly about it. Of course I don’t speak of the political
+goes properly about it. Of course I don’t speak of the political
 
-      articles. Everybody knows how they are managed, since Dr.
+articles. Everybody knows how they are managed, since Dr.
 
-      Moneypenny explained it. Mr. Blackwood has a pair of
+Moneypenny explained it. Mr. Blackwood has a pair of
 
-      tailor’s-shears, and three apprentices who stand by him for
+tailor’s-shears, and three apprentices who stand by him for
 
-      orders. One hands him the “Times,” another the “Examiner” and a
+orders. One hands him the “Times,” another the “Examiner” and a
 
-      third a “Culley’s New Compendium of Slang-Whang.” Mr. B. merely
+third a “Culley’s New Compendium of Slang-Whang.” Mr. B. merely
 
-      cuts out and intersperses. It is soon done—nothing but
+cuts out and intersperses. It is soon done—nothing but
 
-      “Examiner,” “Slang-Whang,” and “Times”—then “Times,”
+“Examiner,” “Slang-Whang,” and “Times”—then “Times,”
 
-      “Slang-Whang,” and “Examiner”—and then “Times,” “Examiner,” and
+“Slang-Whang,” and “Examiner”—and then “Times,” “Examiner,” and
 
-      “Slang-Whang.”
+“Slang-Whang.”
 
 
 
-      But the chief merit of the Magazine lies in its miscellaneous
+But the chief merit of the Magazine lies in its miscellaneous
 
-      articles; and the best of these come under the head of what Dr.
+articles; and the best of these come under the head of what Dr.
 
-      Moneypenny calls the bizarreries (whatever that may mean) and
+Moneypenny calls the bizarreries (whatever that may mean) and
 
-      what everybody else calls the intensities. This is a species of
+what everybody else calls the intensities. This is a species of
 
-      writing which I have long known how to appreciate, although it is
+writing which I have long known how to appreciate, although it is
 
-      only since my late visit to Mr. Blackwood (deputed by the
+only since my late visit to Mr. Blackwood (deputed by the
 
-      society) that I have been made aware of the exact method of
+society) that I have been made aware of the exact method of
 
-      composition. This method is very simple, but not so much so as
+composition. This method is very simple, but not so much so as
 
-      the politics. Upon my calling at Mr. B.‘s, and making known to
+the politics. Upon my calling at Mr. B.‘s, and making known to
 
-      him the wishes of the society, he received me with great
+him the wishes of the society, he received me with great
 
-      civility, took me into his study, and gave me a clear explanation
+civility, took me into his study, and gave me a clear explanation
 
-      of the whole process.
+of the whole process.
 
 
 
-      “My dear madam,” said he, evidently struck with my majestic
+“My dear madam,” said he, evidently struck with my majestic
 
-      appearance, for I had on the crimson satin, with the green
+appearance, for I had on the crimson satin, with the green
 
-      agraffas, and orange-colored auriclas. “My dear madam,” said he,
+agraffas, and orange-colored auriclas. “My dear madam,” said he,
 
-      “sit down. The matter stands thus: In the first place your writer
+“sit down. The matter stands thus: In the first place your writer
 
-      of intensities must have very black ink, and a very big pen, with
+of intensities must have very black ink, and a very big pen, with
 
-      a very blunt nib. And, mark me, Miss Psyche Zenobia!” he
+a very blunt nib. And, mark me, Miss Psyche Zenobia!” he
 
-      continued, after a pause, with the most expressive energy and
+continued, after a pause, with the most expressive energy and
 
-      solemnity of manner, “mark me!—that pen—must—never be mended!
+solemnity of manner, “mark me!—that pen—must—never be mended!
 
-      Herein, madam, lies the secret, the [[Soul|soul]], of intensity. I assume
+Herein, madam, lies the secret, the [[Soul|soul]], of intensity. I assume
 
-      upon myself to say, that no individual, of however great genius
+upon myself to say, that no individual, of however great genius
 
-      ever wrote with a good pen—understand me,—a good article. You may
+ever wrote with a good pen—understand me,—a good article. You may
 
-      take, it for granted, that when manuscript can be read it is
+take, it for granted, that when manuscript can be read it is
 
-      never worth reading. This is a leading principle in our [[Faith|faith]], to
+never worth reading. This is a leading principle in our [[Faith|faith]], to
 
-      which if you cannot readily assent, our conference is at an end.”
+which if you cannot readily assent, our conference is at an end.”
 
 
 
-      He paused. But, of course, as I had no wish to put an end to the
+He paused. But, of course, as I had no wish to put an end to the
 
-      conference, I assented to a proposition so very obvious, and one,
+conference, I assented to a proposition so very obvious, and one,
 
-      too, of whose [[Truth|truth]] I had all along been sufficiently aware. He
+too, of whose [[Truth|truth]] I had all along been sufficiently aware. He
 
-      seemed pleased, and went on with his instructions.
+seemed pleased, and went on with his instructions.
 
 
 
-      “It may appear invidious in me, Miss Psyche Zenobia, to refer you
+“It may appear invidious in me, Miss Psyche Zenobia, to refer you
 
-      to any article, or set of articles, in the way of model or study,
+to any article, or set of articles, in the way of model or study,
 
-      yet perhaps I may as [[Well|well]] call your attention to a few cases. Let
+yet perhaps I may as [[Well|well]] call your attention to a few cases. Let
 
-      me see. There was ‘The Dead Alive,’ a capital thing!—the record
+me see. There was ‘The Dead Alive,’ a capital thing!—the record
 
-      of a gentleman’s sensations when entombed before the breath was
+of a gentleman’s sensations when entombed before the breath was
 
-      out of his [[Body|body]]—full of tastes, terror, sentiment, metaphysics,
+out of his [[Body|body]]—full of tastes, terror, sentiment, metaphysics,
 
-      and erudition. You would have sworn that the writer had been born
+and erudition. You would have sworn that the writer had been born
 
-      and brought up in a coffin. Then we had the ‘Confessions of an
+and brought up in a coffin. Then we had the ‘Confessions of an
 
-      Opium-eater’—fine, very fine!—glorious [[Imagination|imagination]]—deep
+Opium-eater’—fine, very fine!—glorious [[Imagination|imagination]]—deep
 
-      [[philosophy]] acute speculation—plenty of [[Fire|fire]] and fury, and a good
+[[philosophy]] acute speculation—plenty of [[Fire|fire]] and fury, and a good
 
-      spicing of the decidedly unintelligible. That was a nice bit of
+spicing of the decidedly unintelligible. That was a nice bit of
 
-      flummery, and went down the throats of the people delightfully.
+flummery, and went down the throats of the people delightfully.
 
-      They would have it that Coleridge wrote the paper—but not so. It
+They would have it that Coleridge wrote the paper—but not so. It
 
-      was composed by my pet baboon, Juniper, over a rummer of Hollands
+was composed by my pet baboon, Juniper, over a rummer of Hollands
 
-      and [[Water|water]], ‘hot, without sugar.’” [This I could scarcely have
+and [[Water|water]], ‘hot, without sugar.’” [This I could scarcely have
 
-      believed had it been anybody but Mr. Blackwood, who assured me of
+believed had it been anybody but Mr. Blackwood, who assured me of
 
-      it.] “Then there was ‘The Involuntary Experimentalist,’ all about
+it.] “Then there was ‘The Involuntary Experimentalist,’ all about
 
-      a gentleman who got baked in an oven, and came out alive and
+a gentleman who got baked in an oven, and came out alive and
 
-      [[Well|well]], although certainly done to a turn. And then there was ‘The
+[[Well|well]], although certainly done to a turn. And then there was ‘The
 
-      Diary of a Late Physician,’ where the merit lay in good rant, and
+Diary of a Late Physician,’ where the merit lay in good rant, and
 
-      indifferent Greek—both of them taking things with the public. And
+indifferent Greek—both of them taking things with the public. And
 
-      then there was ‘The Man in the Bell,’ a paper by-the-by, Miss
+then there was ‘The Man in the Bell,’ a paper by-the-by, Miss
 
-      Zenobia, which I cannot sufficiently recommend to your attention.
+Zenobia, which I cannot sufficiently recommend to your attention.
 
-      It is the [[history]] of a young person who goes to [[Sleep|sleep]] under the
+It is the [[history]] of a young person who goes to [[Sleep|sleep]] under the
 
-      clapper of a church bell, and is awakened by its tolling for a
+clapper of a church bell, and is awakened by its tolling for a
 
-      funeral. The sound drives him mad, and, accordingly, pulling out
+funeral. The sound drives him mad, and, accordingly, pulling out
 
-      his tablets, he gives a record of his sensations. Sensations are
+his tablets, he gives a record of his sensations. Sensations are
 
-      the great things after all. Should you ever be drowned or hung,
+the great things after all. Should you ever be drowned or hung,
 
-      be sure and make a note of your sensations—they will be worth to
+be sure and make a note of your sensations—they will be worth to
 
-      you ten guineas a sheet. If you wish to write forcibly, Miss
+you ten guineas a sheet. If you wish to write forcibly, Miss
 
-      Zenobia, pay minute attention to the sensations.”
+Zenobia, pay minute attention to the sensations.”
 
 
 
-      “That I certainly will, Mr. Blackwood,” said I.
+“That I certainly will, Mr. Blackwood,” said I.
 
 
 
-      “Good!” he replied. “I see you are a pupil after my own heart.
+“Good!” he replied. “I see you are a pupil after my own heart.
 
-      But I must put you au fait to the details necessary in composing
+But I must put you au fait to the details necessary in composing
 
-      what may be denominated a genuine Blackwood article of the
+what may be denominated a genuine Blackwood article of the
 
-      sensation stamp—the kind which you will understand me to say I
+sensation stamp—the kind which you will understand me to say I
 
-      consider the best for all purposes.
+consider the best for all purposes.
 
 
 
-      “The first thing requisite is to get yourself into such a scrape
+“The first thing requisite is to get yourself into such a scrape
 
-      as no one ever got into before. The oven, for instance,—that was
+as no one ever got into before. The oven, for instance,—that was
 
-      a good hit. But if you have no oven or big bell, at hand, and if
+a good hit. But if you have no oven or big bell, at hand, and if
 
-      you cannot conveniently tumble out of a balloon, or be swallowed
+you cannot conveniently tumble out of a balloon, or be swallowed
 
-      up in an earthquake, or get stuck fast in a chimney, you will
+up in an earthquake, or get stuck fast in a chimney, you will
 
-      have to be contented with simply imagining some similar
+have to be contented with simply imagining some similar
 
-      misadventure. I should prefer, however, that you have the actual
+misadventure. I should prefer, however, that you have the actual
 
-      fact to bear you out. Nothing so [[Well|well]] assists the fancy, as an
+fact to bear you out. Nothing so [[Well|well]] assists the fancy, as an
 
-      experimental knowledge of the matter in hand. ‘[[Truth]] is strange,’
+experimental knowledge of the matter in hand. ‘[[Truth]] is strange,’
 
-      you know, ‘stranger than fiction’—besides being more to the
+you know, ‘stranger than fiction’—besides being more to the
 
-      purpose.”
+purpose.”
 
 
 
-      Here I assured him I had an excellent pair of garters, and would
+Here I assured him I had an excellent pair of garters, and would
 
-      go and hang myself forthwith.
+go and hang myself forthwith.
 
 
 
-      “Good!” he replied, “do so;—although hanging is somewhat
+“Good!” he replied, “do so;—although hanging is somewhat
 
-      hacknied. Perhaps you might do better. Take a dose of Brandreth’s
+hacknied. Perhaps you might do better. Take a dose of Brandreth’s
 
-      pills, and then give us your sensations. However, my instructions
+pills, and then give us your sensations. However, my instructions
 
-      will apply equally [[Well|well]] to any variety of misadventure, and in
+will apply equally [[Well|well]] to any variety of misadventure, and in
 
-      your way [[Home|home]] you may easily get knocked in the head, or run over
+your way [[Home|home]] you may easily get knocked in the head, or run over
 
-      by an omnibus, or bitten by a mad dog, or drowned in a gutter.
+by an omnibus, or bitten by a mad dog, or drowned in a gutter.
 
-      But to proceed.
+But to proceed.
 
 
 
-      “Having determined upon your subject, you must next consider the
+“Having determined upon your subject, you must next consider the
 
-      tone, or manner, of your narration. There is the tone didactic,
+tone, or manner, of your narration. There is the tone didactic,
 
-      the tone enthusiastic, the tone natural—all commonplace enough.
+the tone enthusiastic, the tone natural—all commonplace enough.
 
-      But then there is the tone laconic, or curt, which has lately
+But then there is the tone laconic, or curt, which has lately
 
-      come much into use. It consists in short sentences. Somehow thus:
+come much into use. It consists in short sentences. Somehow thus:
 
-      Can’t be too brief. Can’t be too snappish. Always a full stop.
+Can’t be too brief. Can’t be too snappish. Always a full stop.
 
-      And never a paragraph.
+And never a paragraph.
 
 
 
-      “Then there is the tone elevated, diffusive, and interjectional.
+“Then there is the tone elevated, diffusive, and interjectional.
 
-      Some of our best novelists patronize this tone. The words must be
+Some of our best novelists patronize this tone. The words must be
 
-      all in a whirl, like a humming-top, and make a noise very
+all in a whirl, like a humming-top, and make a noise very
 
-      similar, which answers remarkably [[Well|well]] instead of meaning. This
+similar, which answers remarkably [[Well|well]] instead of meaning. This
 
-      is the best of all possible styles where the writer is in too
+is the best of all possible styles where the writer is in too
 
-      great a hurry to think.
+great a hurry to think.
 
 
 
-      “The tone metaphysical is also a good one. If you know any big
+“The tone metaphysical is also a good one. If you know any big
 
-      words this is your chance for them. Talk of the Ionic and Eleatic
+words this is your chance for them. Talk of the Ionic and Eleatic
 
-      schools—of Archytas, Gorgias, and Alcmaeon. Say something about
+schools—of Archytas, Gorgias, and Alcmaeon. Say something about
 
-      objectivity and subjectivity. Be sure and abuse a man named
+objectivity and subjectivity. Be sure and abuse a man named
 
-      Locke. Turn up your nose at things in general, and when you let
+Locke. Turn up your nose at things in general, and when you let
 
-      slip any thing a little too absurd, you need not be at the
+slip any thing a little too absurd, you need not be at the
 
-      trouble of scratching it out, but just add a footnote and say
+trouble of scratching it out, but just add a footnote and say
 
-      that you are indebted for the above profound observation to the
+that you are indebted for the above profound observation to the
 
-      ‘Kritik der reinem Vernunft,’ or to the ‘Metaphysithe
+‘Kritik der reinem Vernunft,’ or to the ‘Metaphysithe
 
-      Anfongsgrunde der Noturwissenchaft.’ This would look erudite
+Anfongsgrunde der Noturwissenchaft.’ This would look erudite
 
-      and—and—and frank.
+and—and—and frank.
 
 
 
-      “There are various other tones of equal celebrity, but I shall
+“There are various other tones of equal celebrity, but I shall
 
-      mention only two more—the tone transcendental and the tone
+mention only two more—the tone transcendental and the tone
 
-      heterogeneous. In the former the merit consists in seeing into
+heterogeneous. In the former the merit consists in seeing into
 
-      the [[Nature|nature]] of affairs a very great deal farther than anybody
+the [[Nature|nature]] of affairs a very great deal farther than anybody
 
-      else. This second sight is very efficient when properly managed.
+else. This second sight is very efficient when properly managed.
 
-      A little reading of the ‘Dial’ will carry you a great way.
+A little reading of the ‘Dial’ will carry you a great way.
 
-      Eschew, in this case, big words; get them as small as possible,
+Eschew, in this case, big words; get them as small as possible,
 
-      and write them upside down. Look over Channing’s [[Poems|poems]] and quote
+and write them upside down. Look over Channing’s [[Poems|poems]] and quote
 
-      what he says about a ‘fat little man with a delusive show of
+what he says about a ‘fat little man with a delusive show of
 
-      Can.’ Put in something about the Supernal Oneness. Don’t say a
+Can.’ Put in something about the Supernal Oneness. Don’t say a
 
-      syllable about the Infernal Twoness. Above all, study innuendo.
+syllable about the Infernal Twoness. Above all, study innuendo.
 
-      Hint everything—assert nothing. If you feel inclined to say
+Hint everything—assert nothing. If you feel inclined to say
 
-      ‘bread and butter,’ do not by any means say it outright. You may
+‘bread and butter,’ do not by any means say it outright. You may
 
-      say any thing and every thing approaching to ‘bread and butter.’
+say any thing and every thing approaching to ‘bread and butter.’
 
-      You may hint at buck-wheat cake, or you may even go so far as to
+You may hint at buck-wheat cake, or you may even go so far as to
 
-      insinuate oat-meal porridge, but if bread and butter be your real
+insinuate oat-meal porridge, but if bread and butter be your real
 
-      meaning, be cautious, my dear Miss Psyche, not on any account to
+meaning, be cautious, my dear Miss Psyche, not on any account to
 
-      say ‘bread and butter!’”
+say ‘bread and butter!’”
 
 
 
-      I assured him that I should never say it again as long as I
+I assured him that I should never say it again as long as I
 
-      lived. He kissed me and continued:
+lived. He kissed me and continued:
 
 
 
-      “As for the tone heterogeneous, it is merely a judicious mixture,
+“As for the tone heterogeneous, it is merely a judicious mixture,
 
-      in equal proportions, of all the other tones in the world, and is
+in equal proportions, of all the other tones in the world, and is
 
-      consequently made up of every thing deep, great, odd, piquant,
+consequently made up of every thing deep, great, odd, piquant,
 
-      pertinent, and pretty.
+pertinent, and pretty.
 
 
 
-      “Let us suppose now you have determined upon your incidents and
+“Let us suppose now you have determined upon your incidents and
 
-      tone. The most important portion—in fact, the [[Soul|soul]] of the whole
+tone. The most important portion—in fact, the [[Soul|soul]] of the whole
 
-      business, is yet to be attended to—I allude to the filling up. It
+business, is yet to be attended to—I allude to the filling up. It
 
-      is not to be supposed that a lady, or gentleman either, has been
+is not to be supposed that a lady, or gentleman either, has been
 
-      leading the life of a book worm. And yet above all things it is
+leading the life of a book worm. And yet above all things it is
 
-      necessary that your article have an air of erudition, or at least
+necessary that your article have an air of erudition, or at least
 
-      afford evidence of extensive general reading. Now I’ll put you in
+afford evidence of extensive general reading. Now I’ll put you in
 
-      the way of accomplishing this point. See here!” (pulling down
+the way of accomplishing this point. See here!” (pulling down
 
-      some three or four ordinary-looking volumes, and opening them at
+some three or four ordinary-looking volumes, and opening them at
 
-      random). “By casting your eye down almost any page of any book in
+random). “By casting your eye down almost any page of any book in
 
-      the world, you will be able to perceive at once a host of little
+the world, you will be able to perceive at once a host of little
 
-      scraps of either learning or _bel-esprit-ism_, which are the very
+scraps of either learning or _bel-esprit-ism_, which are the very
 
-      thing for the spicing of a Blackwood article. You might as [[Well|well]]
+thing for the spicing of a Blackwood article. You might as [[Well|well]]
 
-      note down a few while I read them to you. I shall make two
+note down a few while I read them to you. I shall make two
 
-      divisions: first, Piquant Facts for the Manufacture of Similes,
+divisions: first, Piquant Facts for the Manufacture of Similes,
 
-      and, second, Piquant Expressions to be introduced as occasion may
+and, second, Piquant Expressions to be introduced as occasion may
 
-      require. Write now!”—and I wrote as he dictated.
+require. Write now!”—and I wrote as he dictated.
 
 
 
-      “PIQUANT FACTS FOR SIMILES. ‘There were originally but three
+“PIQUANT FACTS FOR SIMILES. ‘There were originally but three
 
-      Muses—Melete, Mneme, Aœde—meditation, [[Memory|memory]], and singing.’ You
+Muses—Melete, Mneme, Aœde—meditation, [[Memory|memory]], and singing.’ You
 
-      may make a good deal of that little fact if properly worked. You
+may make a good deal of that little fact if properly worked. You
 
-      see it is not generally known, and looks _recherché_. You must be
+see it is not generally known, and looks _recherché_. You must be
 
-      careful and give the thing with a downright improviso air.
+careful and give the thing with a downright improviso air.
 
 
 
-      “Again. ‘The [[River|river]] Alpheus passed beneath the sea, and emerged
+“Again. ‘The [[River|river]] Alpheus passed beneath the sea, and emerged
 
-      without injury to the purity of its waters.’ Rather stale that,
+without injury to the purity of its waters.’ Rather stale that,
 
-      to be sure, but, if properly dressed and dished up, will look
+to be sure, but, if properly dressed and dished up, will look
 
-      quite as fresh as ever.
+quite as fresh as ever.
 
 
 
-      “Here is something better. ‘The Persian Iris appears to some
+“Here is something better. ‘The Persian Iris appears to some
 
-      persons to possess a sweet and very powerful perfume, while to
+persons to possess a sweet and very powerful perfume, while to
 
-      others it is perfectly scentless.’ Fine that, and very delicate!
+others it is perfectly scentless.’ Fine that, and very delicate!
 
-      Turn it about a little, and it will do wonders. We’ll have some
+Turn it about a little, and it will do wonders. We’ll have some
 
-      thing else in the botanical line. There’s nothing goes down so
+thing else in the botanical line. There’s nothing goes down so
 
-      [[Well|well]], especially with the help of a little Latin. Write!
+[[Well|well]], especially with the help of a little Latin. Write!
 
 
 
-      “‘_The Epidendrum Flos Aeris_, of Java, bears a very beautiful
+“‘_The Epidendrum Flos Aeris_, of Java, bears a very beautiful
 
-      flower, and will live when pulled up by the roots. The natives
+flower, and will live when pulled up by the roots. The natives
 
-      suspend it by a cord from the ceiling, and enjoy its fragrance
+suspend it by a cord from the ceiling, and enjoy its fragrance
 
-      for years.’ That’s capital! That will do for the similes. Now for
+for years.’ That’s capital! That will do for the similes. Now for
 
-      the Piquant Expressions.
+the Piquant Expressions.
 
 
 
-      “PIQUANT EXPRESSIONS. ‘_The Venerable Chinese [[Novel|novel]] Ju-Kiao-Li_.’
+“PIQUANT EXPRESSIONS. ‘_The Venerable Chinese [[Novel|novel]] Ju-Kiao-Li_.’
 
-      Good! By introducing these few words with dexterity you will
+Good! By introducing these few words with dexterity you will
 
-      evince your intimate acquaintance with the language and
+evince your intimate acquaintance with the language and
 
-      literature of the Chinese. With the aid of this you may either
+literature of the Chinese. With the aid of this you may either
 
-      get along without either Arabic, or Sanscrit, or Chickasaw. There
+get along without either Arabic, or Sanscrit, or Chickasaw. There
 
-      is no passing muster, however, without Spanish, Italian, German,
+is no passing muster, however, without Spanish, Italian, German,
 
-      Latin, and Greek. I must look you out a little specimen of each.
+Latin, and Greek. I must look you out a little specimen of each.
 
-      Any scrap will answer, because you must depend upon your own
+Any scrap will answer, because you must depend upon your own
 
-      ingenuity to make it fit into your article. Now write!
+ingenuity to make it fit into your article. Now write!
 
 
 
-      “‘_Aussi tendre que Zaire_’—as tender as Zaire-French. Alludes to
+“‘_Aussi tendre que Zaire_’—as tender as Zaire-French. Alludes to
 
-      the frequent repetition of the phrase, _la tendre Zaire_, in the
+the frequent repetition of the phrase, _la tendre Zaire_, in the
 
-      French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
+French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
 
-      only your knowledge of the language, but your general reading and
+only your knowledge of the language, but your general reading and
 
-      wit. You can say, for instance, that the chicken you were eating
+wit. You can say, for instance, that the chicken you were eating
 
-      (write an article about being choked to [[Death|death]] by a chicken-bone)
+(write an article about being choked to [[Death|death]] by a chicken-bone)
 
-      was not altogether _aussi tendre que Zaire_. Write!
+was not altogether _aussi tendre que Zaire_. Write!
 
 
 
 ‘Van muerte tan escondida,
 
-    Que no te sienta venir,
+Que no te sienta venir,
 
 Porque el plazer del morir,
 
-    No mestorne a dar la vida.’
+No mestorne a dar la vida.’
 
 
 
-      “That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O [[Death|death]]!
+“That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O [[Death|death]]!
 
-      but be sure and don’t let me see you coming, lest the pleasure I
+but be sure and don’t let me see you coming, lest the pleasure I
 
-      shall feel at your appearance should unfortunately bring me back
+shall feel at your appearance should unfortunately bring me back
 
-      again to life.’ This you may slip in quite a propos when you are
+again to life.’ This you may slip in quite a propos when you are
 
-      struggling in the last agonies with the chicken-bone. Write!
+struggling in the last agonies with the chicken-bone. Write!
 
 
 
-      ‘Il pover ‘huomo che non se’n era accorto,
+‘Il pover ‘huomo che non se’n era accorto,
 
-      Andava combattendo, e era morto.‘
+Andava combattendo, e era morto.‘
 
 
 
-      “That’s Italian, you perceive—from Ariosto. It means that a great
+“That’s Italian, you perceive—from Ariosto. It means that a great
 
-      [[Hero|hero]], in the heat of combat, not perceiving that he had been
+[[Hero|hero]], in the heat of combat, not perceiving that he had been
 
-      fairly killed, continued to fight valiantly, dead as he was. The
+fairly killed, continued to fight valiantly, dead as he was. The
 
-      application of this to your own case is obvious—for I trust, Miss
+application of this to your own case is obvious—for I trust, Miss
 
-      Psyche, that you will not neglect to kick for at least an hour
+Psyche, that you will not neglect to kick for at least an hour
 
-      and a half after you have been choked to [[Death|death]] by that
+and a half after you have been choked to [[Death|death]] by that
 
-      chicken-bone. Please to write!
+chicken-bone. Please to write!
 
 
 
-      ‘Und sterb’ich doch, no sterb’ich denn
+‘Und sterb’ich doch, no sterb’ich denn
 
-      Durch sie—durch sie!’’
+Durch sie—durch sie!’’
 
 
 
-      “That’s German—from Schiller. ‘And if I die, at least I die—for
+“That’s German—from Schiller. ‘And if I die, at least I die—for
 
-      thee—for thee!’ Here it is clear that you are apostrophizing the
+thee—for thee!’ Here it is clear that you are apostrophizing the
 
-      cause of your disaster, the chicken. Indeed what gentleman (or
+cause of your disaster, the chicken. Indeed what gentleman (or
 
-      lady either) of sense, wouldn’t die, I should like to know, for a
+lady either) of sense, wouldn’t die, I should like to know, for a
 
-      [[Well|well]] fattened capon of the right Molucca breed, stuffed with
+[[Well|well]] fattened capon of the right Molucca breed, stuffed with
 
-      capers and mushrooms, and served up in a salad-bowl, with
+capers and mushrooms, and served up in a salad-bowl, with
 
-      orange-jellies _en mosaïques_. Write! (You can get them that way
+orange-jellies _en mosaïques_. Write! (You can get them that way
 
-      at Tortoni’s)—Write, if you please!
+at Tortoni’s)—Write, if you please!
 
 
 
-      “Here is a nice little Latin phrase, and rare too, (one can’t be
+“Here is a nice little Latin phrase, and rare too, (one can’t be
 
-      too _recherché_ or brief in one’s Latin, it’s getting so
+too _recherché_ or brief in one’s Latin, it’s getting so
 
-      common—ignoratio elenchi. He has committed an ignoratio
+common—ignoratio elenchi. He has committed an ignoratio
 
-      elenchi—that is to say, he has understood the words of your
+elenchi—that is to say, he has understood the words of your
 
-      proposition, but not the idea. The man was a [[Fool|fool]], you see. Some
+proposition, but not the idea. The man was a [[Fool|fool]], you see. Some
 
-      poor fellow whom you address while choking with that
+poor fellow whom you address while choking with that
 
-      chicken-bone, and who therefore didn’t precisely understand what
+chicken-bone, and who therefore didn’t precisely understand what
 
-      you were talking about. Throw the ignoratio elenchi in his teeth,
+you were talking about. Throw the ignoratio elenchi in his teeth,
 
-      and, at once, you have him annihilated. If he dares to reply, you
+and, at once, you have him annihilated. If he dares to reply, you
 
-      can tell him from Lucan (here it is) that speeches are mere
+can tell him from Lucan (here it is) that speeches are mere
 
-      anemonae verborum, anemone words. The anemone, with great
+anemonae verborum, anemone words. The anemone, with great
 
-      brilliancy, has no smell. Or, if he begins to bluster, you may be
+brilliancy, has no smell. Or, if he begins to bluster, you may be
 
-      down upon him with insomnia Jovis, reveries of Jupiter—a phrase
+down upon him with insomnia Jovis, reveries of Jupiter—a phrase
 
-      which Silius Italicus (see here!) applies to thoughts pompous and
+which Silius Italicus (see here!) applies to thoughts pompous and
 
-      inflated. This will be sure and cut him to the heart. He can do
+inflated. This will be sure and cut him to the heart. He can do
 
-      nothing but roll over and die. Will you be kind enough to write?
+nothing but roll over and die. Will you be kind enough to write?
 
 
 
-      “In Greek we must have some thing pretty—from Demosthenes, for
+“In Greek we must have some thing pretty—from Demosthenes, for
 
-      example. Ανερο φευων και παλιν μαχεσεται. [Aner o pheugoen kai
+example. Ανερο φευων και παλιν μαχεσεται. [Aner o pheugoen kai
 
-      palin makesetai.] There is a tolerably good [[Translation|translation]] of it in
+palin makesetai.] There is a tolerably good [[Translation|translation]] of it in
 
-      Hudibras—
+Hudibras—
 
 
 
-        ‘For he that flies may fight again,
+‘For he that flies may fight again,
 
-     Which he can never do that’s slain.’
+Which he can never do that’s slain.’
 
 
 
-      In a Blackwood article nothing makes so fine a show as your
+In a Blackwood article nothing makes so fine a show as your
 
-      Greek. The very letters have an air of profundity about them.
+Greek. The very letters have an air of profundity about them.
 
-      Only observe, madam, the astute look of that Epsilon! That Phi
+Only observe, madam, the astute look of that Epsilon! That Phi
 
-      ought certainly to be a bishop! Was ever there a smarter fellow
+ought certainly to be a bishop! Was ever there a smarter fellow
 
-      than that Omicron? Just twig that Tau! In short, there is nothing
+than that Omicron? Just twig that Tau! In short, there is nothing
 
-      like Greek for a genuine sensation-paper. In the present case
+like Greek for a genuine sensation-paper. In the present case
 
-      your application is the most obvious thing in the world. Rap out
+your application is the most obvious thing in the world. Rap out
 
-      the sentence, with a huge oath, and by way of ultimatum at the
+the sentence, with a huge oath, and by way of ultimatum at the
 
-      good-for-nothing dunder-headed [[Villain|villain]] who couldn’t understand
+good-for-nothing dunder-headed [[Villain|villain]] who couldn’t understand
 
-      your plain English in relation to the chicken-bone. He’ll take
+your plain English in relation to the chicken-bone. He’ll take
 
-      the hint and be off, you may depend upon it.”
+the hint and be off, you may depend upon it.”
 
 
 
-      These were all the instructions Mr. B. could afford me upon the
+These were all the instructions Mr. B. could afford me upon the
 
-      topic in question, but I felt they would be entirely sufficient.
+topic in question, but I felt they would be entirely sufficient.
 
-      I was, at length, able to write a genuine Blackwood article, and
+I was, at length, able to write a genuine Blackwood article, and
 
-      determined to do it forthwith. In taking leave of me, Mr. B. made
+determined to do it forthwith. In taking leave of me, Mr. B. made
 
-      a proposition for the purchase of the paper when written; but as
+a proposition for the purchase of the paper when written; but as
 
-      he could offer me only fifty guineas a sheet, I thought it better
+he could offer me only fifty guineas a sheet, I thought it better
 
-      to let our society have it, than sacrifice it for so paltry a
+to let our society have it, than sacrifice it for so paltry a
 
-      sum. Notwithstanding this niggardly spirit, however, the
+sum. Notwithstanding this niggardly spirit, however, the
 
-      gentleman showed his consideration for me in all other respects,
+gentleman showed his consideration for me in all other respects,
 
-      and indeed treated me with the greatest civility. His parting
+and indeed treated me with the greatest civility. His parting
 
-      words made a deep impression upon my heart, and I [[Hope|hope]] I shall
+words made a deep impression upon my heart, and I [[Hope|hope]] I shall
 
-      always remember them with gratitude.
+always remember them with gratitude.
 
 
 
-      “My dear Miss Zenobia,” he said, while the [[Tears|tears]] stood in his
+“My dear Miss Zenobia,” he said, while the [[Tears|tears]] stood in his
 
-      eyes, “is there anything else I can do to promote the [[success]] of
+eyes, “is there anything else I can do to promote the [[success]] of
 
-      your laudable undertaking? Let me reflect! It is just possible
+your laudable undertaking? Let me reflect! It is just possible
 
-      that you may not be able, so soon as convenient, to—to—get
+that you may not be able, so soon as convenient, to—to—get
 
-      yourself drowned, or—choked with a chicken-bone, or—or
+yourself drowned, or—choked with a chicken-bone, or—or
 
-      hung,—or—bitten by a—but stay! Now I think me of it, there are a
+hung,—or—bitten by a—but stay! Now I think me of it, there are a
 
-      couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
+couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
 
-      assure you—savage, and all that—indeed just the thing for your
+assure you—savage, and all that—indeed just the thing for your
 
-      money—they’ll have you eaten up, auricula and all, in less than
+money—they’ll have you eaten up, auricula and all, in less than
 
-      five minutes (here’s my watch!)—and then only think of the
+five minutes (here’s my watch!)—and then only think of the
 
-      sensations! Here! I say—Tom!—Peter!—Dick, you [[Villain|villain]]!—let out
+sensations! Here! I say—Tom!—Peter!—Dick, you [[Villain|villain]]!—let out
 
-      those”—but as I was really in a great hurry, and had not another
+those”—but as I was really in a great hurry, and had not another
 
-      moment to spare, I was reluctantly forced to expedite my
+moment to spare, I was reluctantly forced to expedite my
 
-      departure, and accordingly took leave at once—somewhat more
+departure, and accordingly took leave at once—somewhat more
 
-      abruptly, I admit, than strict courtesy would have otherwise
+abruptly, I admit, than strict courtesy would have otherwise
 
-      allowed.
+allowed.
 
 
 
-      It was my primary object upon quitting Mr. Blackwood, to get into
+It was my primary object upon quitting Mr. Blackwood, to get into
 
-      some immediate difficulty, pursuant to his advice, and with this
+some immediate difficulty, pursuant to his advice, and with this
 
-      view I spent the greater part of the day in wandering about
+view I spent the greater part of the day in wandering about
 
-      Edinburgh, seeking for desperate adventures—adventures adequate
+Edinburgh, seeking for desperate adventures—adventures adequate
 
-      to the intensity of my feelings, and adapted to the vast
+to the intensity of my feelings, and adapted to the vast
 
-      character of the article I intended to write. In this excursion I
+character of the article I intended to write. In this excursion I
 
-      was attended by one negro servant, [[Pompey]], and my little lap-dog
+was attended by one negro servant, [[Pompey]], and my little lap-dog
 
-      [[Diana]], whom I had brought with me from Philadelphia. It was not,
+[[Diana]], whom I had brought with me from Philadelphia. It was not,
 
-      however, until late in the afternoon that I fully succeeded in my
+however, until late in the afternoon that I fully succeeded in my
 
-      arduous undertaking. An important event then happened of which
+arduous undertaking. An important event then happened of which
 
-      the following Blackwood article, in the tone heterogeneous, is
+the following Blackwood article, in the tone heterogeneous, is
 
-      the substance and result.
+the substance and result.
 
 
 
@@ -838,189 +838,189 @@ Porque el plazer del morir,
 
 “In the name of the [[Prophet]]—figs!!”
 
-                    —_Cry of the Turkish fig-peddler._
+—_Cry of the Turkish fig-peddler._
 
 
 
-      I presume everybody has heard of me. My name is the Signora
+I presume everybody has heard of me. My name is the Signora
 
-      Psyche Zenobia. This I know to be a fact. Nobody but my enemies
+Psyche Zenobia. This I know to be a fact. Nobody but my enemies
 
-      ever calls me Suky Snobbs. I have been assured that Suky is but a
+ever calls me Suky Snobbs. I have been assured that Suky is but a
 
-      vulgar corruption of Psyche, which is good Greek, and means “the
+vulgar corruption of Psyche, which is good Greek, and means “the
 
-      [[Soul|soul]]” (that’s me, I’m all [[Soul|soul]]) and sometimes “a butterfly,”
+[[Soul|soul]]” (that’s me, I’m all [[Soul|soul]]) and sometimes “a butterfly,”
 
-      which latter meaning undoubtedly alludes to my appearance in my
+which latter meaning undoubtedly alludes to my appearance in my
 
-      new crimson satin dress, with the sky-blue Arabian mantelet, and
+new crimson satin dress, with the sky-blue Arabian mantelet, and
 
-      the trimmings of green agraffas, and the seven flounces of
+the trimmings of green agraffas, and the seven flounces of
 
-      orange-colored auriculas. As for Snobbs—any person who should
+orange-colored auriculas. As for Snobbs—any person who should
 
-      look at me would be instantly aware that my name wasn’t Snobbs.
+look at me would be instantly aware that my name wasn’t Snobbs.
 
-      Miss Tabitha Turnip propagated that report through sheer envy.
+Miss Tabitha Turnip propagated that report through sheer envy.
 
-      Tabitha Turnip indeed! Oh the little wretch! But what can we
+Tabitha Turnip indeed! Oh the little wretch! But what can we
 
-      expect from a turnip? [[Wonder]] if she remembers the old adage about
+expect from a turnip? [[Wonder]] if she remembers the old adage about
 
-      “[[Blood|blood]] out of a turnip,” &c.? [Mem. put her in mind of it the
+“[[Blood|blood]] out of a turnip,” &c.? [Mem. put her in mind of it the
 
-      first opportunity.] [Mem. again—pull her nose.] Where was I? Ah!
+first opportunity.] [Mem. again—pull her nose.] Where was I? Ah!
 
-      I have been assured that Snobbs is a mere corruption of Zenobia,
+I have been assured that Snobbs is a mere corruption of Zenobia,
 
-      and that Zenobia was a [[Queen|queen]]—(So am I. Dr. Moneypenny always
+and that Zenobia was a [[Queen|queen]]—(So am I. Dr. Moneypenny always
 
-      calls me the [[Queen]] of the Hearts)—and that Zenobia, as [[Well|well]] as
+calls me the [[Queen]] of the Hearts)—and that Zenobia, as [[Well|well]] as
 
-      Psyche, is good Greek, and that my father was “a Greek,” and that
+Psyche, is good Greek, and that my father was “a Greek,” and that
 
-      consequently I have a right to our patronymic, which is Zenobia
+consequently I have a right to our patronymic, which is Zenobia
 
-      and not by any means Snobbs. Nobody but Tabitha Turnip calls me
+and not by any means Snobbs. Nobody but Tabitha Turnip calls me
 
-      Suky Snobbs. I am the Signora Psyche Zenobia.
+Suky Snobbs. I am the Signora Psyche Zenobia.
 
 
 
-      As I said before, everybody has heard of me. I am that very
+As I said before, everybody has heard of me. I am that very
 
-      Signora Psyche Zenobia, so justly celebrated as corresponding
+Signora Psyche Zenobia, so justly celebrated as corresponding
 
-      secretary to the “Philadelphia, Regular, Exchange, Tea, Total,
+secretary to the “Philadelphia, Regular, Exchange, Tea, Total,
 
-      Young, Belles, Lettres, Universal, Experimental, Bibliographical,
+Young, Belles, Lettres, Universal, Experimental, Bibliographical,
 
-      Association, To, Civilize, Humanity.” Dr. Moneypenny made the
+Association, To, Civilize, Humanity.” Dr. Moneypenny made the
 
-      title for us, and says he chose it because it sounded big like an
+title for us, and says he chose it because it sounded big like an
 
-      empty rum-puncheon. (A vulgar man that sometimes—but he’s deep.)
+empty rum-puncheon. (A vulgar man that sometimes—but he’s deep.)
 
-      We all sign the initials of the society after our names, in the
+We all sign the initials of the society after our names, in the
 
-      fashion of the R. S. A., Royal Society of Arts—the S. D. U. K.,
+fashion of the R. S. A., Royal Society of Arts—the S. D. U. K.,
 
-      Society for the Diffusion of Useful Knowledge, &c, &c. Dr.
+Society for the Diffusion of Useful Knowledge, &c, &c. Dr.
 
-      Moneypenny says that S. stands for stale, and that D. U. K.
+Moneypenny says that S. stands for stale, and that D. U. K.
 
-      spells duck, (but it don’t,) that S. D. U. K. stands for Stale
+spells duck, (but it don’t,) that S. D. U. K. stands for Stale
 
-      Duck and not for Lord Brougham’s society—but then Dr. Moneypenny
+Duck and not for Lord Brougham’s society—but then Dr. Moneypenny
 
-      is such a queer man that I am never sure when he is telling me
+is such a queer man that I am never sure when he is telling me
 
-      the [[Truth|truth]]. At any rate we always add to our names the initials P.
+the [[Truth|truth]]. At any rate we always add to our names the initials P.
 
-      R. E. T. T. Y. B. L. U. E. B. A. T. C. H.—that is to say,
+R. E. T. T. Y. B. L. U. E. B. A. T. C. H.—that is to say,
 
-      Philadelphia, Regular, Exchange, Tea, Total, Young, Belles,
+Philadelphia, Regular, Exchange, Tea, Total, Young, Belles,
 
-      Lettres, Universal, Experimental, Bibliographical, Association,
+Lettres, Universal, Experimental, Bibliographical, Association,
 
-      To, Civilize, Humanity—one letter for each word, which is a
+To, Civilize, Humanity—one letter for each word, which is a
 
-      decided improvement upon Lord Brougham. Dr. Moneypenny will have
+decided improvement upon Lord Brougham. Dr. Moneypenny will have
 
-      it that our initials give our true character—but for my life I
+it that our initials give our true character—but for my life I
 
-      can’t see what he means.
+can’t see what he means.
 
 
 
-      Notwithstanding the good offices of the Doctor, and the strenuous
+Notwithstanding the good offices of the Doctor, and the strenuous
 
-      exertions of the association to get itself into notice, it met
+exertions of the association to get itself into notice, it met
 
-      with no very great [[success]] until I joined it. The [[Truth|truth]] is, the
+with no very great [[success]] until I joined it. The [[Truth|truth]] is, the
 
-      members indulged in too flippant a tone of discussion. The papers
+members indulged in too flippant a tone of discussion. The papers
 
-      read every Saturday evening were characterized less by depth than
+read every Saturday evening were characterized less by depth than
 
-      buffoonery. They were all whipped syllabub. There was no
+buffoonery. They were all whipped syllabub. There was no
 
-      investigation of first causes, first principles. There was no
+investigation of first causes, first principles. There was no
 
-      investigation of any thing at all. There was no attention paid to
+investigation of any thing at all. There was no attention paid to
 
-      that great point, the “fitness of things.” In short there was no
+that great point, the “fitness of things.” In short there was no
 
-      fine writing like this. It was all low—very! No profundity, no
+fine writing like this. It was all low—very! No profundity, no
 
-      reading, no metaphysics—nothing which the learned call
+reading, no metaphysics—nothing which the learned call
 
-      spirituality, and which the unlearned choose to stigmatize as
+spirituality, and which the unlearned choose to stigmatize as
 
-      cant. [Dr. M. says I ought to spell “cant” with a capital K—but I
+cant. [Dr. M. says I ought to spell “cant” with a capital K—but I
 
-      know better.]
+know better.]
 
 
 
-      When I joined the society it was my endeavor to introduce a
+When I joined the society it was my endeavor to introduce a
 
-      better style of thinking and writing, and all the world knows how
+better style of thinking and writing, and all the world knows how
 
-      [[Well|well]] I have succeeded. We get up as good papers now in the P. R.
+[[Well|well]] I have succeeded. We get up as good papers now in the P. R.
 
-      E. T. T. Y. B. L. U. E. B. A. T. C. H. as any to be found even in
+E. T. T. Y. B. L. U. E. B. A. T. C. H. as any to be found even in
 
-      Blackwood. I say, Blackwood, because I have been assured that the
+Blackwood. I say, Blackwood, because I have been assured that the
 
-      finest writing, upon every subject, is to be discovered in the
+finest writing, upon every subject, is to be discovered in the
 
-      pages of that justly celebrated Magazine. We now take it for our
+pages of that justly celebrated Magazine. We now take it for our
 
-      model upon all themes, and are getting into rapid notice
+model upon all themes, and are getting into rapid notice
 
-      accordingly. And, after all, it’s not so very difficult a matter
+accordingly. And, after all, it’s not so very difficult a matter
 
-      to compose an article of the genuine Blackwood stamp, if one only
+to compose an article of the genuine Blackwood stamp, if one only
 
-      goes properly about it. Of course I don’t speak of the political
+goes properly about it. Of course I don’t speak of the political
 
-      articles. Everybody knows how they are managed, since Dr.
+articles. Everybody knows how they are managed, since Dr.
 
-      Moneypenny explained it. Mr. Blackwood has a pair of
+Moneypenny explained it. Mr. Blackwood has a pair of
 
-      tailor’s-shears, and three apprentices who stand by him for
+tailor’s-shears, and three apprentices who stand by him for
 
-      orders. One hands him the “Times,” another the “Examiner” and a
+orders. One hands him the “Times,” another the “Examiner” and a
 
-      third a “Culley’s New Compendium of Slang-Whang.” Mr. B. merely
+third a “Culley’s New Compendium of Slang-Whang.” Mr. B. merely
 
-      cuts out and intersperses. It is soon done—nothing but
+cuts out and intersperses. It is soon done—nothing but
 
-      “Examiner,” “Slang-Whang,” and “Times”—then “Times,”
+“Examiner,” “Slang-Whang,” and “Times”—then “Times,”
 
-      “Slang-Whang,” and “Examiner”—and then “Times,” “Examiner,” and
+“Slang-Whang,” and “Examiner”—and then “Times,” “Examiner,” and
 
-      “Slang-Whang.”
+“Slang-Whang.”
 
 
 
-      But the chief merit of the Magazine lies in its miscellaneous
+But the chief merit of the Magazine lies in its miscellaneous
 
-      articles; and the best of these come under the head of what Dr.
+articles; and the best of these come under the head of what Dr.
 
-      Moneypenny calls the bizarreries (whatever that may mean) and
+Moneypenny calls the bizarreries (whatever that may mean) and
 
-      what everybody else calls the intensities. This is a species of
+what everybody else calls the intensities. This is a species of
 
-      writing which I have long known how to appreciate, although it is
+writing which I have long known how to appreciate, although it is
 
-      only since my late visit to Mr. Blackwood (deputed by the
+only since my late visit to Mr. Blackwood (deputed by the
 
-      society) that I have been made aware of the exact method of
+society) that I have been made aware of the exact method of
 
-      composition. This method is very simple, but not so much so as
+composition. This method is very simple, but not so much so as
 
 
 
@@ -1028,199 +1028,199 @@ Porque el plazer del morir,
 <span class="atom-split" data-atom="part--part_02" data-title="How to Write a Blackwood Article (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      the politics. Upon my calling at Mr. B.‘s, and making known to
+the politics. Upon my calling at Mr. B.‘s, and making known to
 
-      him the wishes of the society, he received me with great
+him the wishes of the society, he received me with great
 
-      civility, took me into his study, and gave me a clear explanation
+civility, took me into his study, and gave me a clear explanation
 
-      of the whole process.
+of the whole process.
 
 
 
-      “My dear madam,” said he, evidently struck with my majestic
+“My dear madam,” said he, evidently struck with my majestic
 
-      appearance, for I had on the crimson satin, with the green
+appearance, for I had on the crimson satin, with the green
 
-      agraffas, and orange-colored auriclas. “My dear madam,” said he,
+agraffas, and orange-colored auriclas. “My dear madam,” said he,
 
-      “sit down. The matter stands thus: In the first place your writer
+“sit down. The matter stands thus: In the first place your writer
 
-      of intensities must have very black ink, and a very big pen, with
+of intensities must have very black ink, and a very big pen, with
 
-      a very blunt nib. And, mark me, Miss Psyche Zenobia!” he
+a very blunt nib. And, mark me, Miss Psyche Zenobia!” he
 
-      continued, after a pause, with the most expressive energy and
+continued, after a pause, with the most expressive energy and
 
-      solemnity of manner, “mark me!—that pen—must—never be mended!
+solemnity of manner, “mark me!—that pen—must—never be mended!
 
-      Herein, madam, lies the secret, the [[Soul|soul]], of intensity. I assume
+Herein, madam, lies the secret, the [[Soul|soul]], of intensity. I assume
 
-      upon myself to say, that no individual, of however great genius
+upon myself to say, that no individual, of however great genius
 
-      ever wrote with a good pen—understand me,—a good article. You may
+ever wrote with a good pen—understand me,—a good article. You may
 
-      take, it for granted, that when manuscript can be read it is
+take, it for granted, that when manuscript can be read it is
 
-      never worth reading. This is a leading principle in our [[Faith|faith]], to
+never worth reading. This is a leading principle in our [[Faith|faith]], to
 
-      which if you cannot readily assent, our conference is at an end.”
+which if you cannot readily assent, our conference is at an end.”
 
 
 
-      He paused. But, of course, as I had no wish to put an end to the
+He paused. But, of course, as I had no wish to put an end to the
 
-      conference, I assented to a proposition so very obvious, and one,
+conference, I assented to a proposition so very obvious, and one,
 
-      too, of whose [[Truth|truth]] I had all along been sufficiently aware. He
+too, of whose [[Truth|truth]] I had all along been sufficiently aware. He
 
-      seemed pleased, and went on with his instructions.
+seemed pleased, and went on with his instructions.
 
 
 
-      “It may appear invidious in me, Miss Psyche Zenobia, to refer you
+“It may appear invidious in me, Miss Psyche Zenobia, to refer you
 
-      to any article, or set of articles, in the way of model or study,
+to any article, or set of articles, in the way of model or study,
 
-      yet perhaps I may as [[Well|well]] call your attention to a few cases. Let
+yet perhaps I may as [[Well|well]] call your attention to a few cases. Let
 
-      me see. There was ‘The Dead Alive,’ a capital thing!—the record
+me see. There was ‘The Dead Alive,’ a capital thing!—the record
 
-      of a gentleman’s sensations when entombed before the breath was
+of a gentleman’s sensations when entombed before the breath was
 
-      out of his [[Body|body]]—full of tastes, terror, sentiment, metaphysics,
+out of his [[Body|body]]—full of tastes, terror, sentiment, metaphysics,
 
-      and erudition. You would have sworn that the writer had been born
+and erudition. You would have sworn that the writer had been born
 
-      and brought up in a coffin. Then we had the ‘Confessions of an
+and brought up in a coffin. Then we had the ‘Confessions of an
 
-      Opium-eater’—fine, very fine!—glorious [[Imagination|imagination]]—deep
+Opium-eater’—fine, very fine!—glorious [[Imagination|imagination]]—deep
 
-      [[philosophy]] acute speculation—plenty of [[Fire|fire]] and fury, and a good
+[[philosophy]] acute speculation—plenty of [[Fire|fire]] and fury, and a good
 
-      spicing of the decidedly unintelligible. That was a nice bit of
+spicing of the decidedly unintelligible. That was a nice bit of
 
-      flummery, and went down the throats of the people delightfully.
+flummery, and went down the throats of the people delightfully.
 
-      They would have it that Coleridge wrote the paper—but not so. It
+They would have it that Coleridge wrote the paper—but not so. It
 
-      was composed by my pet baboon, Juniper, over a rummer of Hollands
+was composed by my pet baboon, Juniper, over a rummer of Hollands
 
-      and [[Water|water]], ‘hot, without sugar.’” [This I could scarcely have
+and [[Water|water]], ‘hot, without sugar.’” [This I could scarcely have
 
-      believed had it been anybody but Mr. Blackwood, who assured me of
+believed had it been anybody but Mr. Blackwood, who assured me of
 
-      it.] “Then there was ‘The Involuntary Experimentalist,’ all about
+it.] “Then there was ‘The Involuntary Experimentalist,’ all about
 
-      a gentleman who got baked in an oven, and came out alive and
+a gentleman who got baked in an oven, and came out alive and
 
-      [[Well|well]], although certainly done to a turn. And then there was ‘The
+[[Well|well]], although certainly done to a turn. And then there was ‘The
 
-      Diary of a Late Physician,’ where the merit lay in good rant, and
+Diary of a Late Physician,’ where the merit lay in good rant, and
 
-      indifferent Greek—both of them taking things with the public. And
+indifferent Greek—both of them taking things with the public. And
 
-      then there was ‘The Man in the Bell,’ a paper by-the-by, Miss
+then there was ‘The Man in the Bell,’ a paper by-the-by, Miss
 
-      Zenobia, which I cannot sufficiently recommend to your attention.
+Zenobia, which I cannot sufficiently recommend to your attention.
 
-      It is the [[history]] of a young person who goes to [[Sleep|sleep]] under the
+It is the [[history]] of a young person who goes to [[Sleep|sleep]] under the
 
-      clapper of a church bell, and is awakened by its tolling for a
+clapper of a church bell, and is awakened by its tolling for a
 
-      funeral. The sound drives him mad, and, accordingly, pulling out
+funeral. The sound drives him mad, and, accordingly, pulling out
 
-      his tablets, he gives a record of his sensations. Sensations are
+his tablets, he gives a record of his sensations. Sensations are
 
-      the great things after all. Should you ever be drowned or hung,
+the great things after all. Should you ever be drowned or hung,
 
-      be sure and make a note of your sensations—they will be worth to
+be sure and make a note of your sensations—they will be worth to
 
-      you ten guineas a sheet. If you wish to write forcibly, Miss
+you ten guineas a sheet. If you wish to write forcibly, Miss
 
-      Zenobia, pay minute attention to the sensations.”
+Zenobia, pay minute attention to the sensations.”
 
 
 
-      “That I certainly will, Mr. Blackwood,” said I.
+“That I certainly will, Mr. Blackwood,” said I.
 
 
 
-      “Good!” he replied. “I see you are a pupil after my own heart.
+“Good!” he replied. “I see you are a pupil after my own heart.
 
-      But I must put you au fait to the details necessary in composing
+But I must put you au fait to the details necessary in composing
 
-      what may be denominated a genuine Blackwood article of the
+what may be denominated a genuine Blackwood article of the
 
-      sensation stamp—the kind which you will understand me to say I
+sensation stamp—the kind which you will understand me to say I
 
-      consider the best for all purposes.
+consider the best for all purposes.
 
 
 
-      “The first thing requisite is to get yourself into such a scrape
+“The first thing requisite is to get yourself into such a scrape
 
-      as no one ever got into before. The oven, for instance,—that was
+as no one ever got into before. The oven, for instance,—that was
 
-      a good hit. But if you have no oven or big bell, at hand, and if
+a good hit. But if you have no oven or big bell, at hand, and if
 
-      you cannot conveniently tumble out of a balloon, or be swallowed
+you cannot conveniently tumble out of a balloon, or be swallowed
 
-      up in an earthquake, or get stuck fast in a chimney, you will
+up in an earthquake, or get stuck fast in a chimney, you will
 
-      have to be contented with simply imagining some similar
+have to be contented with simply imagining some similar
 
-      misadventure. I should prefer, however, that you have the actual
+misadventure. I should prefer, however, that you have the actual
 
-      fact to bear you out. Nothing so [[Well|well]] assists the fancy, as an
+fact to bear you out. Nothing so [[Well|well]] assists the fancy, as an
 
-      experimental knowledge of the matter in hand. ‘[[Truth]] is strange,’
+experimental knowledge of the matter in hand. ‘[[Truth]] is strange,’
 
-      you know, ‘stranger than fiction’—besides being more to the
+you know, ‘stranger than fiction’—besides being more to the
 
-      purpose.”
+purpose.”
 
 
 
-      Here I assured him I had an excellent pair of garters, and would
+Here I assured him I had an excellent pair of garters, and would
 
-      go and hang myself forthwith.
+go and hang myself forthwith.
 
 
 
-      “Good!” he replied, “do so;—although hanging is somewhat
+“Good!” he replied, “do so;—although hanging is somewhat
 
-      hacknied. Perhaps you might do better. Take a dose of Brandreth’s
+hacknied. Perhaps you might do better. Take a dose of Brandreth’s
 
-      pills, and then give us your sensations. However, my instructions
+pills, and then give us your sensations. However, my instructions
 
-      will apply equally [[Well|well]] to any variety of misadventure, and in
+will apply equally [[Well|well]] to any variety of misadventure, and in
 
-      your way [[Home|home]] you may easily get knocked in the head, or run over
+your way [[Home|home]] you may easily get knocked in the head, or run over
 
-      by an omnibus, or bitten by a mad dog, or drowned in a gutter.
+by an omnibus, or bitten by a mad dog, or drowned in a gutter.
 
-      But to proceed.
+But to proceed.
 
 
 
-      “Having determined upon your subject, you must next consider the
+“Having determined upon your subject, you must next consider the
 
-      tone, or manner, of your narration. There is the tone didactic,
+tone, or manner, of your narration. There is the tone didactic,
 
-      the tone enthusiastic, the tone natural—all commonplace enough.
+the tone enthusiastic, the tone natural—all commonplace enough.
 
-      But then there is the tone laconic, or curt, which has lately
+But then there is the tone laconic, or curt, which has lately
 
-      come much into use. It consists in short sentences. Somehow thus:
+come much into use. It consists in short sentences. Somehow thus:
 
-      Can’t be too brief. Can’t be too snappish. Always a full stop.
+Can’t be too brief. Can’t be too snappish. Always a full stop.
 
-      And never a paragraph.
+And never a paragraph.
 
 
 
-      “Then there is the tone elevated, diffusive, and interjectional.
+“Then there is the tone elevated, diffusive, and interjectional.
 
 
 
@@ -1228,205 +1228,205 @@ Porque el plazer del morir,
 <span class="atom-split" data-atom="part--part_03" data-title="How to Write a Blackwood Article (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      Some of our best novelists patronize this tone. The words must be
+Some of our best novelists patronize this tone. The words must be
 
-      all in a whirl, like a humming-top, and make a noise very
+all in a whirl, like a humming-top, and make a noise very
 
-      similar, which answers remarkably [[Well|well]] instead of meaning. This
+similar, which answers remarkably [[Well|well]] instead of meaning. This
 
-      is the best of all possible styles where the writer is in too
+is the best of all possible styles where the writer is in too
 
-      great a hurry to think.
+great a hurry to think.
 
 
 
-      “The tone metaphysical is also a good one. If you know any big
+“The tone metaphysical is also a good one. If you know any big
 
-      words this is your chance for them. Talk of the Ionic and Eleatic
+words this is your chance for them. Talk of the Ionic and Eleatic
 
-      schools—of Archytas, Gorgias, and Alcmaeon. Say something about
+schools—of Archytas, Gorgias, and Alcmaeon. Say something about
 
-      objectivity and subjectivity. Be sure and abuse a man named
+objectivity and subjectivity. Be sure and abuse a man named
 
-      Locke. Turn up your nose at things in general, and when you let
+Locke. Turn up your nose at things in general, and when you let
 
-      slip any thing a little too absurd, you need not be at the
+slip any thing a little too absurd, you need not be at the
 
-      trouble of scratching it out, but just add a footnote and say
+trouble of scratching it out, but just add a footnote and say
 
-      that you are indebted for the above profound observation to the
+that you are indebted for the above profound observation to the
 
-      ‘Kritik der reinem Vernunft,’ or to the ‘Metaphysithe
+‘Kritik der reinem Vernunft,’ or to the ‘Metaphysithe
 
-      Anfongsgrunde der Noturwissenchaft.’ This would look erudite
+Anfongsgrunde der Noturwissenchaft.’ This would look erudite
 
-      and—and—and frank.
+and—and—and frank.
 
 
 
-      “There are various other tones of equal celebrity, but I shall
+“There are various other tones of equal celebrity, but I shall
 
-      mention only two more—the tone transcendental and the tone
+mention only two more—the tone transcendental and the tone
 
-      heterogeneous. In the former the merit consists in seeing into
+heterogeneous. In the former the merit consists in seeing into
 
-      the [[Nature|nature]] of affairs a very great deal farther than anybody
+the [[Nature|nature]] of affairs a very great deal farther than anybody
 
-      else. This second sight is very efficient when properly managed.
+else. This second sight is very efficient when properly managed.
 
-      A little reading of the ‘Dial’ will carry you a great way.
+A little reading of the ‘Dial’ will carry you a great way.
 
-      Eschew, in this case, big words; get them as small as possible,
+Eschew, in this case, big words; get them as small as possible,
 
-      and write them upside down. Look over Channing’s [[Poems|poems]] and quote
+and write them upside down. Look over Channing’s [[Poems|poems]] and quote
 
-      what he says about a ‘fat little man with a delusive show of
+what he says about a ‘fat little man with a delusive show of
 
-      Can.’ Put in something about the Supernal Oneness. Don’t say a
+Can.’ Put in something about the Supernal Oneness. Don’t say a
 
-      syllable about the Infernal Twoness. Above all, study innuendo.
+syllable about the Infernal Twoness. Above all, study innuendo.
 
-      Hint everything—assert nothing. If you feel inclined to say
+Hint everything—assert nothing. If you feel inclined to say
 
-      ‘bread and butter,’ do not by any means say it outright. You may
+‘bread and butter,’ do not by any means say it outright. You may
 
-      say any thing and every thing approaching to ‘bread and butter.’
+say any thing and every thing approaching to ‘bread and butter.’
 
-      You may hint at buck-wheat cake, or you may even go so far as to
+You may hint at buck-wheat cake, or you may even go so far as to
 
-      insinuate oat-meal porridge, but if bread and butter be your real
+insinuate oat-meal porridge, but if bread and butter be your real
 
-      meaning, be cautious, my dear Miss Psyche, not on any account to
+meaning, be cautious, my dear Miss Psyche, not on any account to
 
-      say ‘bread and butter!’”
+say ‘bread and butter!’”
 
 
 
-      I assured him that I should never say it again as long as I
+I assured him that I should never say it again as long as I
 
-      lived. He kissed me and continued:
+lived. He kissed me and continued:
 
 
 
-      “As for the tone heterogeneous, it is merely a judicious mixture,
+“As for the tone heterogeneous, it is merely a judicious mixture,
 
-      in equal proportions, of all the other tones in the world, and is
+in equal proportions, of all the other tones in the world, and is
 
-      consequently made up of every thing deep, great, odd, piquant,
+consequently made up of every thing deep, great, odd, piquant,
 
-      pertinent, and pretty.
+pertinent, and pretty.
 
 
 
-      “Let us suppose now you have determined upon your incidents and
+“Let us suppose now you have determined upon your incidents and
 
-      tone. The most important portion—in fact, the [[Soul|soul]] of the whole
+tone. The most important portion—in fact, the [[Soul|soul]] of the whole
 
-      business, is yet to be attended to—I allude to the filling up. It
+business, is yet to be attended to—I allude to the filling up. It
 
-      is not to be supposed that a lady, or gentleman either, has been
+is not to be supposed that a lady, or gentleman either, has been
 
-      leading the life of a book worm. And yet above all things it is
+leading the life of a book worm. And yet above all things it is
 
-      necessary that your article have an air of erudition, or at least
+necessary that your article have an air of erudition, or at least
 
-      afford evidence of extensive general reading. Now I’ll put you in
+afford evidence of extensive general reading. Now I’ll put you in
 
-      the way of accomplishing this point. See here!” (pulling down
+the way of accomplishing this point. See here!” (pulling down
 
-      some three or four ordinary-looking volumes, and opening them at
+some three or four ordinary-looking volumes, and opening them at
 
-      random). “By casting your eye down almost any page of any book in
+random). “By casting your eye down almost any page of any book in
 
-      the world, you will be able to perceive at once a host of little
+the world, you will be able to perceive at once a host of little
 
-      scraps of either learning or _bel-esprit-ism_, which are the very
+scraps of either learning or _bel-esprit-ism_, which are the very
 
-      thing for the spicing of a Blackwood article. You might as [[Well|well]]
+thing for the spicing of a Blackwood article. You might as [[Well|well]]
 
-      note down a few while I read them to you. I shall make two
+note down a few while I read them to you. I shall make two
 
-      divisions: first, Piquant Facts for the Manufacture of Similes,
+divisions: first, Piquant Facts for the Manufacture of Similes,
 
-      and, second, Piquant Expressions to be introduced as occasion may
+and, second, Piquant Expressions to be introduced as occasion may
 
-      require. Write now!”—and I wrote as he dictated.
+require. Write now!”—and I wrote as he dictated.
 
 
 
-      “PIQUANT FACTS FOR SIMILES. ‘There were originally but three
+“PIQUANT FACTS FOR SIMILES. ‘There were originally but three
 
-      Muses—Melete, Mneme, Aœde—meditation, [[Memory|memory]], and singing.’ You
+Muses—Melete, Mneme, Aœde—meditation, [[Memory|memory]], and singing.’ You
 
-      may make a good deal of that little fact if properly worked. You
+may make a good deal of that little fact if properly worked. You
 
-      see it is not generally known, and looks _recherché_. You must be
+see it is not generally known, and looks _recherché_. You must be
 
-      careful and give the thing with a downright improviso air.
+careful and give the thing with a downright improviso air.
 
 
 
-      “Again. ‘The [[River|river]] Alpheus passed beneath the sea, and emerged
+“Again. ‘The [[River|river]] Alpheus passed beneath the sea, and emerged
 
-      without injury to the purity of its waters.’ Rather stale that,
+without injury to the purity of its waters.’ Rather stale that,
 
-      to be sure, but, if properly dressed and dished up, will look
+to be sure, but, if properly dressed and dished up, will look
 
-      quite as fresh as ever.
+quite as fresh as ever.
 
 
 
-      “Here is something better. ‘The Persian Iris appears to some
+“Here is something better. ‘The Persian Iris appears to some
 
-      persons to possess a sweet and very powerful perfume, while to
+persons to possess a sweet and very powerful perfume, while to
 
-      others it is perfectly scentless.’ Fine that, and very delicate!
+others it is perfectly scentless.’ Fine that, and very delicate!
 
-      Turn it about a little, and it will do wonders. We’ll have some
+Turn it about a little, and it will do wonders. We’ll have some
 
-      thing else in the botanical line. There’s nothing goes down so
+thing else in the botanical line. There’s nothing goes down so
 
-      [[Well|well]], especially with the help of a little Latin. Write!
+[[Well|well]], especially with the help of a little Latin. Write!
 
 
 
-      “‘_The Epidendrum Flos Aeris_, of Java, bears a very beautiful
+“‘_The Epidendrum Flos Aeris_, of Java, bears a very beautiful
 
-      flower, and will live when pulled up by the roots. The natives
+flower, and will live when pulled up by the roots. The natives
 
-      suspend it by a cord from the ceiling, and enjoy its fragrance
+suspend it by a cord from the ceiling, and enjoy its fragrance
 
-      for years.’ That’s capital! That will do for the similes. Now for
+for years.’ That’s capital! That will do for the similes. Now for
 
-      the Piquant Expressions.
+the Piquant Expressions.
 
 
 
-      “PIQUANT EXPRESSIONS. ‘_The Venerable Chinese [[Novel|novel]] Ju-Kiao-Li_.’
+“PIQUANT EXPRESSIONS. ‘_The Venerable Chinese [[Novel|novel]] Ju-Kiao-Li_.’
 
-      Good! By introducing these few words with dexterity you will
+Good! By introducing these few words with dexterity you will
 
-      evince your intimate acquaintance with the language and
+evince your intimate acquaintance with the language and
 
-      literature of the Chinese. With the aid of this you may either
+literature of the Chinese. With the aid of this you may either
 
-      get along without either Arabic, or Sanscrit, or Chickasaw. There
+get along without either Arabic, or Sanscrit, or Chickasaw. There
 
-      is no passing muster, however, without Spanish, Italian, German,
+is no passing muster, however, without Spanish, Italian, German,
 
-      Latin, and Greek. I must look you out a little specimen of each.
+Latin, and Greek. I must look you out a little specimen of each.
 
-      Any scrap will answer, because you must depend upon your own
+Any scrap will answer, because you must depend upon your own
 
-      ingenuity to make it fit into your article. Now write!
+ingenuity to make it fit into your article. Now write!
 
 
 
-      “‘_Aussi tendre que Zaire_’—as tender as Zaire-French. Alludes to
+“‘_Aussi tendre que Zaire_’—as tender as Zaire-French. Alludes to
 
-      the frequent repetition of the phrase, _la tendre Zaire_, in the
+the frequent repetition of the phrase, _la tendre Zaire_, in the
 
-      French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
+French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
 
 
 
@@ -1434,238 +1434,238 @@ Porque el plazer del morir,
 <span class="atom-split" data-atom="part--part_04" data-title="How to Write a Blackwood Article (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      only your knowledge of the language, but your general reading and
+only your knowledge of the language, but your general reading and
 
-      wit. You can say, for instance, that the chicken you were eating
+wit. You can say, for instance, that the chicken you were eating
 
-      (write an article about being choked to [[Death|death]] by a chicken-bone)
+(write an article about being choked to [[Death|death]] by a chicken-bone)
 
-      was not altogether _aussi tendre que Zaire_. Write!
+was not altogether _aussi tendre que Zaire_. Write!
 
 
 
 ‘Van muerte tan escondida,
 
-    Que no te sienta venir,
+Que no te sienta venir,
 
 Porque el plazer del morir,
 
-    No mestorne a dar la vida.’
+No mestorne a dar la vida.’
 
 
 
-      “That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O [[Death|death]]!
+“That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O [[Death|death]]!
 
-      but be sure and don’t let me see you coming, lest the pleasure I
+but be sure and don’t let me see you coming, lest the pleasure I
 
-      shall feel at your appearance should unfortunately bring me back
+shall feel at your appearance should unfortunately bring me back
 
-      again to life.’ This you may slip in quite a propos when you are
+again to life.’ This you may slip in quite a propos when you are
 
-      struggling in the last agonies with the chicken-bone. Write!
+struggling in the last agonies with the chicken-bone. Write!
 
 
 
-      ‘Il pover ‘huomo che non se’n era accorto,
+‘Il pover ‘huomo che non se’n era accorto,
 
-      Andava combattendo, e era morto.‘
+Andava combattendo, e era morto.‘
 
 
 
-      “That’s Italian, you perceive—from Ariosto. It means that a great
+“That’s Italian, you perceive—from Ariosto. It means that a great
 
-      [[Hero|hero]], in the heat of combat, not perceiving that he had been
+[[Hero|hero]], in the heat of combat, not perceiving that he had been
 
-      fairly killed, continued to fight valiantly, dead as he was. The
+fairly killed, continued to fight valiantly, dead as he was. The
 
-      application of this to your own case is obvious—for I trust, Miss
+application of this to your own case is obvious—for I trust, Miss
 
-      Psyche, that you will not neglect to kick for at least an hour
+Psyche, that you will not neglect to kick for at least an hour
 
-      and a half after you have been choked to [[Death|death]] by that
+and a half after you have been choked to [[Death|death]] by that
 
-      chicken-bone. Please to write!
+chicken-bone. Please to write!
 
 
 
-      ‘Und sterb’ich doch, no sterb’ich denn
+‘Und sterb’ich doch, no sterb’ich denn
 
-      Durch sie—durch sie!’’
+Durch sie—durch sie!’’
 
 
 
-      “That’s German—from Schiller. ‘And if I die, at least I die—for
+“That’s German—from Schiller. ‘And if I die, at least I die—for
 
-      thee—for thee!’ Here it is clear that you are apostrophizing the
+thee—for thee!’ Here it is clear that you are apostrophizing the
 
-      cause of your disaster, the chicken. Indeed what gentleman (or
+cause of your disaster, the chicken. Indeed what gentleman (or
 
-      lady either) of sense, wouldn’t die, I should like to know, for a
+lady either) of sense, wouldn’t die, I should like to know, for a
 
-      [[Well|well]] fattened capon of the right Molucca breed, stuffed with
+[[Well|well]] fattened capon of the right Molucca breed, stuffed with
 
-      capers and mushrooms, and served up in a salad-bowl, with
+capers and mushrooms, and served up in a salad-bowl, with
 
-      orange-jellies _en mosaïques_. Write! (You can get them that way
+orange-jellies _en mosaïques_. Write! (You can get them that way
 
-      at Tortoni’s)—Write, if you please!
+at Tortoni’s)—Write, if you please!
 
 
 
-      “Here is a nice little Latin phrase, and rare too, (one can’t be
+“Here is a nice little Latin phrase, and rare too, (one can’t be
 
-      too _recherché_ or brief in one’s Latin, it’s getting so
+too _recherché_ or brief in one’s Latin, it’s getting so
 
-      common—ignoratio elenchi. He has committed an ignoratio
+common—ignoratio elenchi. He has committed an ignoratio
 
-      elenchi—that is to say, he has understood the words of your
+elenchi—that is to say, he has understood the words of your
 
-      proposition, but not the idea. The man was a [[Fool|fool]], you see. Some
+proposition, but not the idea. The man was a [[Fool|fool]], you see. Some
 
-      poor fellow whom you address while choking with that
+poor fellow whom you address while choking with that
 
-      chicken-bone, and who therefore didn’t precisely understand what
+chicken-bone, and who therefore didn’t precisely understand what
 
-      you were talking about. Throw the ignoratio elenchi in his teeth,
+you were talking about. Throw the ignoratio elenchi in his teeth,
 
-      and, at once, you have him annihilated. If he dares to reply, you
+and, at once, you have him annihilated. If he dares to reply, you
 
-      can tell him from Lucan (here it is) that speeches are mere
+can tell him from Lucan (here it is) that speeches are mere
 
-      anemonae verborum, anemone words. The anemone, with great
+anemonae verborum, anemone words. The anemone, with great
 
-      brilliancy, has no smell. Or, if he begins to bluster, you may be
+brilliancy, has no smell. Or, if he begins to bluster, you may be
 
-      down upon him with insomnia Jovis, reveries of Jupiter—a phrase
+down upon him with insomnia Jovis, reveries of Jupiter—a phrase
 
-      which Silius Italicus (see here!) applies to thoughts pompous and
+which Silius Italicus (see here!) applies to thoughts pompous and
 
-      inflated. This will be sure and cut him to the heart. He can do
+inflated. This will be sure and cut him to the heart. He can do
 
-      nothing but roll over and die. Will you be kind enough to write?
+nothing but roll over and die. Will you be kind enough to write?
 
 
 
-      “In Greek we must have some thing pretty—from Demosthenes, for
+“In Greek we must have some thing pretty—from Demosthenes, for
 
-      example. Ανερο φευων και παλιν μαχεσεται. [Aner o pheugoen kai
+example. Ανερο φευων και παλιν μαχεσεται. [Aner o pheugoen kai
 
-      palin makesetai.] There is a tolerably good [[Translation|translation]] of it in
+palin makesetai.] There is a tolerably good [[Translation|translation]] of it in
 
-      Hudibras—
+Hudibras—
 
 
 
-        ‘For he that flies may fight again,
+‘For he that flies may fight again,
 
-     Which he can never do that’s slain.’
+Which he can never do that’s slain.’
 
 
 
-      In a Blackwood article nothing makes so fine a show as your
+In a Blackwood article nothing makes so fine a show as your
 
-      Greek. The very letters have an air of profundity about them.
+Greek. The very letters have an air of profundity about them.
 
-      Only observe, madam, the astute look of that Epsilon! That Phi
+Only observe, madam, the astute look of that Epsilon! That Phi
 
-      ought certainly to be a bishop! Was ever there a smarter fellow
+ought certainly to be a bishop! Was ever there a smarter fellow
 
-      than that Omicron? Just twig that Tau! In short, there is nothing
+than that Omicron? Just twig that Tau! In short, there is nothing
 
-      like Greek for a genuine sensation-paper. In the present case
+like Greek for a genuine sensation-paper. In the present case
 
-      your application is the most obvious thing in the world. Rap out
+your application is the most obvious thing in the world. Rap out
 
-      the sentence, with a huge oath, and by way of ultimatum at the
+the sentence, with a huge oath, and by way of ultimatum at the
 
-      good-for-nothing dunder-headed [[Villain|villain]] who couldn’t understand
+good-for-nothing dunder-headed [[Villain|villain]] who couldn’t understand
 
-      your plain English in relation to the chicken-bone. He’ll take
+your plain English in relation to the chicken-bone. He’ll take
 
-      the hint and be off, you may depend upon it.”
+the hint and be off, you may depend upon it.”
 
 
 
-      These were all the instructions Mr. B. could afford me upon the
+These were all the instructions Mr. B. could afford me upon the
 
-      topic in question, but I felt they would be entirely sufficient.
+topic in question, but I felt they would be entirely sufficient.
 
-      I was, at length, able to write a genuine Blackwood article, and
+I was, at length, able to write a genuine Blackwood article, and
 
-      determined to do it forthwith. In taking leave of me, Mr. B. made
+determined to do it forthwith. In taking leave of me, Mr. B. made
 
-      a proposition for the purchase of the paper when written; but as
+a proposition for the purchase of the paper when written; but as
 
-      he could offer me only fifty guineas a sheet, I thought it better
+he could offer me only fifty guineas a sheet, I thought it better
 
-      to let our society have it, than sacrifice it for so paltry a
+to let our society have it, than sacrifice it for so paltry a
 
-      sum. Notwithstanding this niggardly spirit, however, the
+sum. Notwithstanding this niggardly spirit, however, the
 
-      gentleman showed his consideration for me in all other respects,
+gentleman showed his consideration for me in all other respects,
 
-      and indeed treated me with the greatest civility. His parting
+and indeed treated me with the greatest civility. His parting
 
-      words made a deep impression upon my heart, and I [[Hope|hope]] I shall
+words made a deep impression upon my heart, and I [[Hope|hope]] I shall
 
-      always remember them with gratitude.
+always remember them with gratitude.
 
 
 
-      “My dear Miss Zenobia,” he said, while the [[Tears|tears]] stood in his
+“My dear Miss Zenobia,” he said, while the [[Tears|tears]] stood in his
 
-      eyes, “is there anything else I can do to promote the [[success]] of
+eyes, “is there anything else I can do to promote the [[success]] of
 
-      your laudable undertaking? Let me reflect! It is just possible
+your laudable undertaking? Let me reflect! It is just possible
 
-      that you may not be able, so soon as convenient, to—to—get
+that you may not be able, so soon as convenient, to—to—get
 
-      yourself drowned, or—choked with a chicken-bone, or—or
+yourself drowned, or—choked with a chicken-bone, or—or
 
-      hung,—or—bitten by a—but stay! Now I think me of it, there are a
+hung,—or—bitten by a—but stay! Now I think me of it, there are a
 
-      couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
+couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
 
-      assure you—savage, and all that—indeed just the thing for your
+assure you—savage, and all that—indeed just the thing for your
 
-      money—they’ll have you eaten up, auricula and all, in less than
+money—they’ll have you eaten up, auricula and all, in less than
 
-      five minutes (here’s my watch!)—and then only think of the
+five minutes (here’s my watch!)—and then only think of the
 
-      sensations! Here! I say—Tom!—Peter!—Dick, you [[Villain|villain]]!—let out
+sensations! Here! I say—Tom!—Peter!—Dick, you [[Villain|villain]]!—let out
 
-      those”—but as I was really in a great hurry, and had not another
+those”—but as I was really in a great hurry, and had not another
 
-      moment to spare, I was reluctantly forced to expedite my
+moment to spare, I was reluctantly forced to expedite my
 
-      departure, and accordingly took leave at once—somewhat more
+departure, and accordingly took leave at once—somewhat more
 
-      abruptly, I admit, than strict courtesy would have otherwise
+abruptly, I admit, than strict courtesy would have otherwise
 
-      allowed.
+allowed.
 
 
 
-      It was my primary object upon quitting Mr. Blackwood, to get into
+It was my primary object upon quitting Mr. Blackwood, to get into
 
-      some immediate difficulty, pursuant to his advice, and with this
+some immediate difficulty, pursuant to his advice, and with this
 
-      view I spent the greater part of the day in wandering about
+view I spent the greater part of the day in wandering about
 
-      Edinburgh, seeking for desperate adventures—adventures adequate
+Edinburgh, seeking for desperate adventures—adventures adequate
 
-      to the intensity of my feelings, and adapted to the vast
+to the intensity of my feelings, and adapted to the vast
 
-      character of the article I intended to write. In this excursion I
+character of the article I intended to write. In this excursion I
 
-      was attended by one negro servant, [[Pompey]], and my little lap-dog
+was attended by one negro servant, [[Pompey]], and my little lap-dog
 
-      [[Diana]], whom I had brought with me from Philadelphia. It was not,
+[[Diana]], whom I had brought with me from Philadelphia. It was not,
 
-      however, until late in the afternoon that I fully succeeded in my
+however, until late in the afternoon that I fully succeeded in my
 
-      arduous undertaking. An important event then happened of which
+arduous undertaking. An important event then happened of which
 
-      the following Blackwood article, in the tone heterogeneous, is
+the following Blackwood article, in the tone heterogeneous, is
 
-      the substance and result.
+the substance and result.

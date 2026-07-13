@@ -13,26 +13,25 @@ tags:
 
 <span class="atom-split" data-atom="innocence" data-title="The Innocence of Father Brown" data-chapter="" data-kind="intro"></span>
 
-# [[innocence]]
 
 THE [[innocence|INNOCENCE]] OF [[Father Brown|FATHER BROWN]]
 
-                             Contents
+Contents
 
-                  The Blue [[Cross]]
-                  The Secret [[Garden]]
-                  The Queer Feet
-                  The Flying [[Stars]]
-                  The Invisible Man
-                  The [[Honour]] of Israel Gow
-                  The Wrong Shape
-                  The Sins of Prince Saradine
-                  The Hammer of God
-                  The Eye of [[Apollo]]
-                  The Sign of the Broken [[Sword]]
-                  The Three Tools of [[Death]]
+The Blue [[Cross]]
+The Secret [[Garden]]
+The Queer Feet
+The Flying [[Stars]]
+The Invisible Man
+The [[Honour]] of Israel Gow
+The Wrong Shape
+The Sins of Prince Saradine
+The Hammer of God
+The Eye of [[Apollo]]
+The Sign of the Broken [[Sword]]
+The Three Tools of [[Death]]
 
-                          The Blue [[Cross]]
+The Blue [[Cross]]
 
 Between the silver ribbon of morning and the green glittering
 ribbon of sea, the boat touched Harwich and let loose a swarm
@@ -446,8 +445,8 @@ those foreign parsons that are running about.  They had a cheap
 and quiet little lunch, and one of them paid for it and went out.
 The other was just going out to join him when I looked at my change
 again and found he'd paid me more than three times too much.
-`Here,' I says to the chap who was nearly out of the door,
-`you've paid too much.'  `Oh,' he says, very cool, `have we?'
+‘Here,' I says to the chap who was nearly out of the door,
+‘you've paid too much.'  ‘Oh,' he says, very cool, ‘have we?'
 'Yes,' I says, and picks up the bill to show him.
 [[Well]], that was a knock-out."
 
@@ -458,9 +457,9 @@ But now I saw I'd put 14s., as plain as paint."
 
 "[[Well]]?" cried Valentin, moving slowly, but with burning eyes, "and then?"
 
-"The parson at the door he says all serene, `Sorry to confuse
-your accounts, but it'll pay for the window.'  `What [[Window|window]]?'
-I says.  `The one I'm going to break,' he says, and smashed
+"The parson at the door he says all serene, ‘Sorry to confuse
+your accounts, but it'll pay for the window.'  ‘What [[Window|window]]?'
+I says.  ‘The one I'm going to break,' he says, and smashed
 that blessed pane with his umbrella."
 
 All three inquirers made an exclamation; and the inspector
@@ -507,8 +506,8 @@ confession of eagerness, "for Heaven's sake tell us what happened exactly."
 "Well," said the woman a little doubtfully, "the clergymen came
 in about half an hour ago and bought some peppermints and talked
 a bit, and then went off towards the Heath.  But a second after,
-one of them runs back into the shop and says, `Have I left a parcel!'
-[[Well]], I looked everywhere and couldn't see one; so he says, `Never mind;
+one of them runs back into the shop and says, ‘Have I left a parcel!'
+[[Well]], I looked everywhere and couldn't see one; so he says, ‘Never mind;
 but if it should turn up, please post it to this address,'
 and he left me the address and a shilling for my trouble.
 And sure enough, though I thought I'd looked everywhere, I found he'd
@@ -659,7 +658,7 @@ Think the moon is a blue moon, a single elephantine sapphire.
 But don't fancy that all that frantic astronomy would make
 the smallest difference to the reason and justice of conduct.
 On plains of opal, under cliffs cut out of pearl, you would still
-find a notice-board, `Thou shalt not steal.'"
+find a notice-board, ‘Thou shalt not steal.'"
 
 Valentin was just in the act of rising from his rigid and crouching
 attitude and creeping away as softly as might be, felled by the one
@@ -840,7 +839,7 @@ He stepped back and swept Valentin a great bow.
 And they both stood an instant uncovered while the little Essex
 priest blinked about for his umbrella.
 
-                         The Secret [[Garden]]
+The Secret [[Garden]]
 
 Aristide Valentin, Chief of the [[Paris]] Police, was late for his dinner,
 and some of his guests began to arrive before him.  These were, however,
@@ -1700,7 +1699,7 @@ A touch and a glance showed him that there was a small box of pills
 at Valentin's elbow, and that Valentin was dead in his chair;
 and on the blind face of the [[suicide]] was more than the [[Pride|pride]] of Cato.
 
-                          The Queer Feet
+The Queer Feet
 
 If you meet a member of that select club, "The Twelve True Fishermen,"
 entering the Vernon Hotel for the annual club dinner, you will observe,
@@ -2470,7 +2469,7 @@ that palace of pleasures.  The golden gates closed behind him,
 and he went at a brisk walk through the damp, dark streets
 in search of a penny omnibus.
 
-                         The Flying [[Stars]]
+The Flying [[Stars]]
 
 "The most beautiful crime I ever committed," [[Flambeau]] would say in his
 highly moral old age, "was also, by a singular coincidence, my last.
@@ -2624,7 +2623,7 @@ of the colonel, the [[Wonder|wonder]] of the whole group.
 
 "I'll put 'em back now, my dear," said Fischer, returning the case
 to the tails of his coat.  "I had to be careful of 'em coming down.
-They're the three great African diamonds called `The Flying Stars,'
+They're the three great African diamonds called ‘The Flying Stars,'
 because they've been stolen so often.  All the big criminals are on the track;
 but even the rough men about in the streets and hotels could hardly have
 kept their hands off them.  I might have lost them on the road here.
@@ -2970,7 +2969,7 @@ but that always means a Falling Star at last."
 
 The silver, sparkling figure above seems to lean forward in the laurels and,
 confident of escape, listens to the little figure below.
-      "You never did anything better, Flambeau.  It was clever to
+"You never did anything better, Flambeau.  It was clever to
 come from Canada (with a Paris ticket, I suppose) just a week
 after Mrs. Adams died, when no one was in a mood to ask questions.
 It was cleverer to have marked down the Flying Stars and the very day
@@ -3047,7 +3046,7 @@ in his height of good humour, even told the priest that though he himself
 had broader views, he could respect those whose creed required them
 to be cloistered and ignorant of this world.
 
-                         The Invisible Man
+The Invisible Man
 
 In the cool blue twilight of two steep streets in Camden Town, the shop
 at the corner, a confectioner's, glowed like the butt of a cigar.
@@ -3157,13 +3156,13 @@ bring back the cake."
 
 "Well, you must listen to the story first," said Laura, persistently.
 "To begin with, I must tell you that my father owned the inn called
-the `Red Fish' at Ludbury, and I used to serve people in the bar."
+the ‘Red Fish' at Ludbury, and I used to serve people in the bar."
 
 "I have often wondered," he said, "why there was a kind of a Christian
 air about this one confectioner's shop."
 
 "Ludbury is a sleepy, grassy little hole in the Eastern Counties,
-and the only kind of people who ever came to the `Red Fish'
+and the only kind of people who ever came to the ‘Red Fish'
 were occasional commercial travellers, and for the rest,
 the most awful people you can see, only you've never seen them.
 I mean little, loungy men, who had just enough to live on
@@ -3240,10 +3239,10 @@ and I only got it last week."
 The man called Angus emptied his coffee-cup and regarded her with mild
 and patient eyes.  Her own mouth took a slight twist of laughter
 as she resumed, "I suppose you've seen on the hoardings all about
-this `Smythe's Silent Service'? Or you must be the only person that
+this ‘Smythe's Silent Service'? Or you must be the only person that
 hasn't. Oh, I don't know much about it, it's some clockwork invention
 for doing all the housework by machinery.  You know the sort of thing:
-`Press a Button--A Butler who Never Drinks.'  `Turn a Handle--Ten Housemaids
+‘Press a Button--A Butler who Never Drinks.'  ‘Turn a Handle--Ten Housemaids
 who Never Flirt.'  You must have seen the advertisements.
 [[Well]], whatever these machines are, they are making pots of money;
 and they are making it all for that little imp whom I knew down
@@ -3280,7 +3279,7 @@ asked Angus, with some interest.
 Laura suddenly shuddered, and then said, with an unshaken
 voice, "Yes.  Just when I had finished reading the second
 letter from Isidore Smythe announcing his [[success]].
-Just then, I heard Welkin say, `He shan't have you, though.'
+Just then, I heard Welkin say, ‘He shan't have you, though.'
 It was quite plain, as if he were in the room.  It is awful,
 I think I must be mad."
 
@@ -3697,13 +3696,13 @@ this story anywhere else.
 
 "Have you ever noticed this--that people never answer what you say?
 They answer what you mean--or what they think you mean.
-Suppose one lady says to another in a country house, `Is anybody
-staying with you?' the lady doesn't answer `Yes; the butler,
+Suppose one lady says to another in a country house, ‘Is anybody
+staying with you?' the lady doesn't answer ‘Yes; the butler,
 the three footmen, the parlourmaid, and so on,' though the
 parlourmaid may be in the room, or the butler behind her chair.
-She says `There is nobody staying with us,' meaning nobody
+She says ‘There is nobody staying with us,' meaning nobody
 of the sort you mean.  But suppose a doctor inquiring into
-an epidemic asks, `Who is staying in the house?' then the lady
+an epidemic asks, ‘Who is staying in the house?' then the lady
 will remember the butler, the parlourmaid, and the rest.
 All language is used like that; you never get a question
 answered literally, even when you get it answered truly.
@@ -3771,7 +3770,7 @@ The postman, instead of turning naturally, had ducked and tumbled against
 the garden fence.  He was a lean fair-bearded man of very ordinary appearance,
 but as he turned an alarmed face over his shoulder, all three men were fixed
 with an almost fiendish squint.
-                            * * * * * *
+* * * * * *
 
 Flambeau went back to his sabres, purple rugs and Persian cat, having many
 things to attend to.  John Turnbull Angus went back to the lady at the shop,
@@ -3779,7 +3778,7 @@ with whom that imprudent young man contrives to be extremely comfortable.
 But Father Brown walked those snow-covered hills under the stars for many
 hours with a murderer, and what they said to each other will never be known.
 
-                     The Honour of Israel Gow
+The Honour of Israel Gow
 
 A stormy evening of olive and silver was closing in, as Father Brown,
 wrapped in a grey Scotch plaid, came to the end of a grey Scotch valley
@@ -3807,8 +3806,8 @@ of that palace of lies that was built up around Mary Queen of Scots.
 
 The rhyme in the country-side attested the motive and the result
 of their machinations candidly:
-                 As green sap to the simmer trees
-                 Is red gold to the Ogilvies.
+As green sap to the simmer trees
+Is red gold to the Ogilvies.
 
 For many centuries there had never been a decent lord in Glengyle Castle;
 and with the Victorian era one would have thought that all eccentricities
@@ -4324,8 +4323,8 @@ It is a study in the savage living logic that has been the religion
 of this race.
 
 "That old local rhyme about the house of Glengyle--
-                 As green sap to the simmer trees
-                 Is red gold to the Ogilvies--
+As green sap to the simmer trees
+Is red gold to the Ogilvies--
 was literal as well as metaphorical.  It did not merely
 mean that the Glengyles sought for wealth; it was also true
 that they literally gathered gold; they had a huge collection
@@ -4398,7 +4397,7 @@ that strange being, the just miser, digging at the desecrated grave,
 the plaid round his throat thrashing out in the mountain wind;
 the sober top hat on his head.
 
-                          The Wrong Shape
+The Wrong Shape
 
 Certain of the great roads going north out of London continue far
 into the country a sort of attenuated and interrupted spectre of
@@ -4792,12 +4791,12 @@ Storm was certainly coming.
 
 "When that Indian spoke to us," went on Brown in a conversational undertone,
 "I had a sort of vision, a vision of him and all his universe.
-Yet he only said the same thing three times.  When first he said `I
+Yet he only said the same thing three times.  When first he said ‘I
 want nothing,' it meant only that he was impenetrable, that Asia
-does not give itself away.  Then he said again, `I want nothing,'
+does not give itself away.  Then he said again, ‘I want nothing,'
 and I knew that he meant that he was sufficient to himself, like a cosmos,
 that he needed no God, neither admitted any sins.  And when he said
-the third time, `I want nothing,' he said it with blazing eyes.
+the third time, ‘I want nothing,' he said it with blazing eyes.
 And I knew that he meant literally what he said; that nothing was
 his [[Desire|desire]] and his [[Home|home]]; that he was weary for nothing as for wine;
 that annihilation, the mere destruction of everything or anything--"
@@ -4916,7 +4915,7 @@ that monarch's abdication.
 when the priest patted him easily on the shoulder.
 
 "Make it up with Mr. Atkinson, my friend," he said.
-"Beg a mutual pardon and say `Good night.'  We need not
+"Beg a mutual pardon and say ‘Good night.'  We need not
 detain him any longer."  Then, as Atkinson rose somewhat
 doubtfully and gathered his hat and stick and went towards
 the garden gate, Father Brown said in a more serious voice:
@@ -5021,7 +5020,7 @@ of paper.  It was crookeder than the dagger that killed him."
 
 "You mean the paper on which Quinton confessed his suicide," said Flambeau.
 
-"I mean the paper on which Quinton wrote, `I die by my own hand,'"
+"I mean the paper on which Quinton wrote, ‘I die by my own hand,'"
 answered [[Father Brown]].  "The shape of that paper, my friend,
 was the wrong shape; the wrong shape, if ever I have seen it
 in this wicked world."
@@ -5071,7 +5070,7 @@ looked at the ground, and said, in a low, distinct voice:
 "No," said [[Father Brown]].  "Quinton wrote it all right."
 
 "[[Well]], there you are," said the aggravated [[Flambeau]]; "Quinton wrote,
-`I die by my own hand,' with his own hand on a plain piece of paper."
+‘I die by my own hand,' with his own hand on a plain piece of paper."
 
 "Of the wrong shape," said the priest calmly.
 
@@ -5085,7 +5084,7 @@ Does that suggest anything to you?"
 
 A light dawned on Flambeau's face, and he said:
 "There was something else written by Quinton, some other words.
-`They will tell you I die by my own hand,' or `Do not believe that--'"
+‘They will tell you I die by my own hand,' or ‘Do not believe that--'"
 
 "Hotter, as the children say," said his friend.  "But the piece was hardly
 half an inch across; there was no room for one word, let alone five.
@@ -5174,7 +5173,7 @@ even read me the last paragraph, which was something like this:
 
 gigantic, managed to lift himself on his elbow and gasp in his
 
-nephew's ear:  `I die by my own hand, yet I die murdered!'"  It so
+nephew's ear:  ‘I die by my own hand, yet I die murdered!'"  It so
 
 happened by one chance out of a hundred, that those last words
 
@@ -5252,13 +5251,13 @@ have remorse, just as if one were in Byron's [[Poems|poems]]!  I cannot
 
 write any more.
 
-                                 James [[Erskine]] Harris.            
+James [[Erskine]] Harris.            
 
 [[Father Brown]] carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
 waterproofs of several policemen gleamed in the [[Road|road]] outside.
 
-                    The Sins of Prince Saradine
+The Sins of Prince Saradine
 
 When [[Flambeau]] took his month's holiday from his office in Westminster
 he took it in a small sailing-boat, so small that it passed much
@@ -5945,7 +5944,7 @@ and the younger, the captain, was the sort that sinks to the [[Bottom|bottom]].
 This squalid officer fell from beggar to blackmailer,
 and one ugly day he got his hold upon his brother, the prince.
 Obviously it was for no light matter, for Prince Paul Saradine
-was frankly `fast,' and had no reputation to lose as to the mere
+was frankly ‘fast,' and had no reputation to lose as to the mere
 sins of society.  In plain fact, it was a hanging matter,
 and Stephen literally had a rope round his brother's neck.
 He had somehow discovered the truth about the Sicilian affair,
@@ -5975,7 +5974,7 @@ and his foes fell prostrate before him.  He gave up the race
 round the world, and he gave up his address to young Antonelli;
 then he gave up everything to his brother.  He sent Stephen
 money enough for smart clothes and easy travel, with a letter
-saying roughly:  `This is all I have left.  You have cleaned me out.
+saying roughly:  ‘This is all I have left.  You have cleaned me out.
 I still have a little [[house]] in Norfolk, with servants and
 a cellar, and if you want more from me you must take that.
 Come and take possession if you like, and I will live there quietly
@@ -6021,7 +6020,7 @@ in the faint glow of his cigar; it was scrawled with green ink.
 
 "Don't you remember his original invitation to you?"
 he asked, "and the compliment to your criminal exploit?
-`That trick of yours,' he says, `of getting one [[Detective|detective]]
+‘That trick of yours,' he says, ‘of getting one [[Detective|detective]]
 to arrest the other'? He has just copied your trick.
 With an enemy on each side of him, he slipped swiftly out
 of the way and let them collide and kill each other."
@@ -6046,7 +6045,7 @@ the next moment it swayed their little boat and swelled their sail,
 and carried them onward down the winding [[River|river]] to happier places
 and the homes of harmless men.
 
-                         The Hammer of God
+The Hammer of God
 
 The little village of Bohun Beacon was perched on a [[Hill|hill]] so steep that
 the tall spire of its church seemed only like the peak of a small mountain.
@@ -6459,7 +6458,7 @@ After an instant they dropped, and he cried:  "That was the word
 I wanted; you have said the word."
 
 Then he continued, mastering his discomposure:  "The words you said were,
-`No man but an idiot would pick up the small hammer.'"
+‘No man but an idiot would pick up the small hammer.'"
 
 "Yes," said the doctor.  "Well?"
 
@@ -6761,7 +6760,7 @@ into the sunlight by the smithy.  Wilfred Bohun carefully unlatched
 the wooden gate of the yard, and going up to the inspector, said:
 "I wish to give myself up; I have killed my brother."
 
-                         The Eye of Apollo
+The Eye of Apollo
 
 That singular smoky sparkle, at once a confusion and a transparency, which is
 the strange secret of the Thames, was changing more and more from its grey
@@ -7421,7 +7420,7 @@ their strength.  There came a crash and a scream down the street,
 and the priest of Apollo did not start or look round.
 I did not know what it was.  But I knew that he was expecting it."
 
-                   The Sign of the Broken Sword
+The Sign of the Broken Sword
 
 The thousand arms of the forest were grey, and its million fingers silver.
 In a sky of dark green-blue-like slate the stars were bleak and
@@ -7615,10 +7614,10 @@ and who afterwards married her.  He was one of those who were
 captured by Olivier, and, like all the rest except the general,
 appears to have been bounteously treated and promptly set free.
 Some twenty years afterwards this man, then Lieutenant-Colonel Keith,
-published a sort of autobiography called `A British Officer
+published a sort of autobiography called ‘A British Officer
 in Burmah and Brazil.'  In the place where the reader looks
 eagerly for some account of the mystery of St. Clare's disaster
-may be found the following words:  `Everywhere else in this book
+may be found the following words:  ‘Everywhere else in this book
 I have narrated things exactly as they occurred, holding as I
 do the old-fashioned opinion that the glory of England is old
 enough to take care of itself.  The exception I shall make is
@@ -7750,7 +7749,7 @@ Needless to say, the Brazilians blew great gaps in them with artillery,
 which they could only return with spirited but lessening rifle fire.
 Yet they never broke; and Olivier's curt account ends with a strong
 tribute of admiration for the mystic valour of these imbeciles.
-`Our line then advanced finally,' writes Olivier, `and drove them
+‘Our line then advanced finally,' writes Olivier, ‘and drove them
 into the river; we captured General St. Clare himself and several
 other officers.  The colonel and the major had both fallen in the battle.
 I cannot resist saying that few finer sights can have been seen
@@ -7770,7 +7769,7 @@ This latter was a certain Colonel Clancy, a big bull of an Irishman;
 and it would seem that he died almost as much of rage as of bullets.
 He, at any rate, was not responsible for that ridiculous raid;
 it must have been imposed on him by the general.  His last edifying words,
-according to my informant, were these:  `And there goes the damned old
+according to my informant, were these:  ‘And there goes the damned old
 [[donkey]] with the end of his [[Sword|sword]] knocked off.  I wish it was his head.'
 You will remark that everyone seems to have noticed this detail about
 the broken [[Sword|sword]] blade, though most people regard it somewhat more reverently
@@ -7829,7 +7828,7 @@ and fell into emphatic though confidential speech.
 What struck our friend the diarist most was his special disposition
 to discuss matters with Major Murray; but, indeed, such a selection,
 so long as it was not marked, was in no way unnatural.
-The two men were made for sympathy; they were men who `read
+The two men were made for sympathy; they were men who ‘read
 their Bibles'; they were both the old Evangelical type of officer.
 However this may be, it is certain that when the general mounted
 again he was still talking earnestly to Murray; and that as he walked
@@ -8157,7 +8156,7 @@ They sat down on the comfortable padded benches.
 
 "Or brandy," said Flambeau.
 
-                     The Three Tools of Death
+The Three Tools of Death
 
 Both by calling and conviction Father Brown knew better than
 most of us, that every man is dignified when he is dead.
@@ -8635,7 +8634,7 @@ the crime myself."
 
 "I was in this room next to them," she explained; "both doors
 were closed, but I suddenly heard a voice, such as I had never
-heard on earth, roaring `Hell, hell, hell,' again and again,
+heard on earth, roaring ‘Hell, hell, hell,' again and again,
 and then the two doors shook with the first explosion
 of the revolver.  Thrice again the thing banged before I
 got the two doors open and found the room full of smoke;
@@ -8745,11 +8744,10 @@ I can't stop for the inquiry."
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_01" data-title="The Innocence of Father Brown — The Blue Cross (part 1)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_01" data-title="The Innocence of Father Brown — The Blue Cross (part 1)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 1)
 
-                          The Blue [[Cross]]
+The Blue [[Cross]]
 
 Between the silver ribbon of morning and the green glittering
 ribbon of sea, the boat touched Harwich and let loose a swarm
@@ -8962,9 +8960,8 @@ di quattro pollici.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_02" data-title="The Innocence of Father Brown — The Blue Cross (part 2)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_02" data-title="The Innocence of Father Brown — The Blue Cross (part 2)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 2)
 
 He alighted at Liverpool Street, however, quite conscientiously
 secure that he had not missed the criminal so far.  He then went to
@@ -9167,9 +9164,8 @@ e ordinario. Suonò il campanello per il cameriere.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_03" data-title="The Innocence of Father Brown — The Blue Cross (part 3)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_03" data-title="The Innocence of Father Brown — The Blue Cross (part 3)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 3)
 
 When that official hurried up, fuzzy-haired and somewhat
 blear-eyed at that early hour, the [[Detective|detective]] (who was not without
@@ -9424,9 +9420,8 @@ di fronte da un ispettore e da un uomo in abiti civili.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_04" data-title="The Innocence of Father Brown — The Blue Cross (part 4)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_04" data-title="The Innocence of Father Brown — The Blue Cross (part 4)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 4)
 
 "[[Well]], sir," began the former, with smiling importance,
 "and what may--?"
@@ -9518,8 +9513,8 @@ those foreign parsons that are running about.  They had a cheap
 and quiet little lunch, and one of them paid for it and went out.
 The other was just going out to join him when I looked at my change
 again and found he'd paid me more than three times too much.
-`Here,' I says to the chap who was nearly out of the door,
-`you've paid too much.'  `Oh,' he says, very cool, `have we?'
+‘Here,' I says to the chap who was nearly out of the door,
+‘you've paid too much.'  ‘Oh,' he says, very cool, ‘have we?'
 'Yes,' I says, and picks up the bill to show him.
 [[Well]], that was a knock-out."
 
@@ -9530,9 +9525,9 @@ But now I saw I'd put 14s., as plain as paint."
 
 "[[Well]]?" cried Valentin, moving slowly, but with burning eyes, "and then?"
 
-"The parson at the door he says all serene, `Sorry to confuse
-your accounts, but it'll pay for the window.'  `What [[Window|window]]?'
-I says.  `The one I'm going to break,' he says, and smashed
+"The parson at the door he says all serene, ‘Sorry to confuse
+your accounts, but it'll pay for the window.'  ‘What [[Window|window]]?'
+I says.  ‘The one I'm going to break,' he says, and smashed
 that blessed pane with his umbrella."
 
 All three inquirers made an exclamation; and the inspector
@@ -9705,9 +9700,8 @@ ne ebbe bisogno.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_05" data-title="The Innocence of Father Brown — The Blue Cross (part 5)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_05" data-title="The Innocence of Father Brown — The Blue Cross (part 5)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 5)
 
 An angular, elderly young woman in the shop had regarded his elegant
 appearance with a merely automatic inquiry; but when she saw
@@ -9727,8 +9721,8 @@ confession of eagerness, "for Heaven's sake tell us what happened exactly."
 "Well," said the woman a little doubtfully, "the clergymen came
 in about half an hour ago and bought some peppermints and talked
 a bit, and then went off towards the Heath.  But a second after,
-one of them runs back into the shop and says, `Have I left a parcel!'
-[[Well]], I looked everywhere and couldn't see one; so he says, `Never mind;
+one of them runs back into the shop and says, ‘Have I left a parcel!'
+[[Well]], I looked everywhere and couldn't see one; so he says, ‘Never mind;
 but if it should turn up, please post it to this address,'
 and he left me the address and a shilling for my trouble.
 And sure enough, though I thought I'd looked everywhere, I found he'd
@@ -9951,9 +9945,8 @@ silenzio di morte, udì per la prima volta le parole degli strani preti.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_06" data-title="The Innocence of Father Brown — The Blue Cross (part 6)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_06" data-title="The Innocence of Father Brown — The Blue Cross (part 6)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 6)
 
 After he had listened for a minute and a half, he was gripped
 by a devilish doubt.  Perhaps he had dragged the two English
@@ -10007,7 +10000,7 @@ Think the moon is a blue moon, a single elephantine sapphire.
 But don't fancy that all that frantic astronomy would make
 the smallest difference to the reason and justice of conduct.
 On plains of opal, under cliffs cut out of pearl, you would still
-find a notice-board, `Thou shalt not steal.'"
+find a notice-board, ‘Thou shalt not steal.'"
 
 Valentin was just in the act of rising from his rigid and crouching
 attitude and creeping away as softly as might be, felled by the one
@@ -10239,9 +10232,8 @@ E poi lasciai indietro quello giusto.»
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_07" data-title="The Innocence of Father Brown — The Blue Cross (part 7)" data-chapter="Story 01 The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_07" data-title="The Innocence of Father Brown — The Blue Cross (part 7)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
 
-# [[innocence]] — The Blue [[Cross]] (part 7)
 
 "Left it behind?" repeated [[Flambeau]], and for the first [[Time|time]] there
 was another note in his voice beside his triumph.
@@ -10437,11 +10429,10 @@ dell'Essex sbatteva le palpebre in cerca del suo ombrello.
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_01" data-title="The Innocence of Father Brown — The Secret Garden (part 1)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_01" data-title="The Innocence of Father Brown — The Secret Garden (part 1)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 1)
 
-                         The Secret [[Garden]]
+The Secret [[Garden]]
 
 Aristide Valentin, Chief of the [[Paris]] Police, was late for his dinner,
 and some of his guests began to arrive before him.  These were, however,
@@ -10658,9 +10649,8 @@ ritardo era già divenuto un problema domestico, ed egli fu spedito a tutta
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_02" data-title="The Innocence of Father Brown — The Secret Garden (part 2)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_02" data-title="The Innocence of Father Brown — The Secret Garden (part 2)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 2)
 
 Except on one point the Galloways were genial and casual enough.
 So long as Lady Margaret did not take the arm of that adventurer
@@ -10894,9 +10884,8 @@ venuto vestito per una simile occasione.
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_03" data-title="The Innocence of Father Brown — The Secret Garden (part 3)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_03" data-title="The Innocence of Father Brown — The Secret Garden (part 3)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 3)
 
 Valentin went down on his hands and knees and examined with his
 closest professional attention the grass and ground for some
@@ -11158,9 +11147,8 @@ aveva infine trovato mentre passeggiava di nuovo nel [[Garden|giardino]].
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_04" data-title="The Innocence of Father Brown — The Secret Garden (part 4)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_04" data-title="The Innocence of Father Brown — The Secret Garden (part 4)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 4)
 
 The Irish officer stood up disordered and defiant on the threshold.
 "What do you want with me?" he cried.
@@ -11428,9 +11416,8 @@ dall'applauso.
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_05" data-title="The Innocence of Father Brown — The Secret Garden (part 5)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_05" data-title="The Innocence of Father Brown — The Secret Garden (part 5)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 5)
 
 For Neil O'Brien, indeed, that gesture was the turning-point of existence.
 By the [[Time|time]] he was wandering in the mysterious [[Garden|garden]] again in
@@ -11666,9 +11653,8 @@ mentre era sballottato nell'[[Water|acqua]].
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_06" data-title="The Innocence of Father Brown — The Secret Garden (part 6)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_06" data-title="The Innocence of Father Brown — The Secret Garden (part 6)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 6)
 
 "Good morning, Commandant O'Brien," said Valentin, with quiet cordiality.
 "You have heard of Brayne's last experiment in butchery, I suppose?"
@@ -11933,9 +11919,8 @@ cadde.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_07" data-title="The Innocence of Father Brown — The Secret Garden (part 7)" data-chapter="Story 02 The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_07" data-title="The Innocence of Father Brown — The Secret Garden (part 7)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
 
-# [[innocence]] — The Secret [[Garden]] (part 7)
 
 "[[Well]]," said the doctor slowly, "that seems plausible enough.
 But my next two questions will stump anyone."
@@ -12217,11 +12202,10 @@ di Catone.
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_01" data-title="The Innocence of Father Brown — The Queer Feet (part 1)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_01" data-title="The Innocence of Father Brown — The Queer Feet (part 1)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 1)
 
-                          The Queer Feet
+The Queer Feet
 
 If you meet a member of that select club, "The Twelve True Fishermen,"
 entering the Vernon Hotel for the annual club dinner, you will observe,
@@ -12359,9 +12343,8 @@ Se sono riuscito in qualche misura a rendere l’atmosfera di questo tremendo al
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_02" data-title="The Innocence of Father Brown — The Queer Feet (part 2)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_02" data-title="The Innocence of Father Brown — The Queer Feet (part 2)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 2)
 
 In this office sat the representative of the proprietor (nobody in this place
 ever appeared in person if he could help it), and just beyond the office,
@@ -12483,9 +12466,8 @@ Proprio mentre giungeva a questa solida certezza, il passo mutò in quello più 
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_03" data-title="The Innocence of Father Brown — The Queer Feet (part 3)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_03" data-title="The Innocence of Father Brown — The Queer Feet (part 3)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 3)
 
 The rational part of him (whether the wiser or not) regained its supremacy.
 He remembered that the proprietor had told him that he should lock the door,
@@ -12661,9 +12643,8 @@ Le prime due portate della cena dei Dodici Veri Pescatori erano procedute con pl
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_04" data-title="The Innocence of Father Brown — The Queer Feet (part 4)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_04" data-title="The Innocence of Father Brown — The Queer Feet (part 4)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 4)
 
 As has been remarked, there were twenty-four seats at
 the terrace table, and only twelve members of the club.
@@ -12820,9 +12801,8 @@ Il signor Audley aveva ancora un’aria troppo sconcertata per essere davvero l�
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_05" data-title="The Innocence of Father Brown — The Queer Feet (part 5)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_05" data-title="The Innocence of Father Brown — The Queer Feet (part 5)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 5)
 
 The proprietor repeated the open-handed gesture with even greater helplessness
 and in a flash all the men at the table were on their feet.
@@ -13017,9 +12997,8 @@ Alla fine disse tranquillamente al prete: «Dev’essere stato un tipo in gamba,
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_06" data-title="The Innocence of Father Brown — The Queer Feet (part 6)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_06" data-title="The Innocence of Father Brown — The Queer Feet (part 6)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 6)
 
 "I mean you," said the colonel, with a short laugh.  "I don't
 want to get the fellow jailed; make yourself easy about that.
@@ -13142,9 +13121,8 @@ Il Colonnello Pound lo guardò acutamente, ma i miti occhi grigi di chi parlava 
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_07" data-title="The Innocence of Father Brown — The Queer Feet (part 7)" data-chapter="Story 03 The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_07" data-title="The Innocence of Father Brown — The Queer Feet (part 7)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
 
-# [[innocence]] — The Queer Feet (part 7)
 
 "His worst moment was when the waiters stood in a row; but even
 then he contrived to lean against the wall just round the corner
@@ -13240,11 +13218,10 @@ E dicendo «Buona sera», spinse i pesanti battenti di quel palazzo dei piaceri.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_01" data-title="The Innocence of Father Brown — The Flying Stars (part 1)" data-chapter="Story 04 The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_01" data-title="The Innocence of Father Brown — The Flying Stars (part 1)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
 
-# [[innocence]] — The Flying [[Stars]] (part 1)
 
-                         The Flying [[Stars]]
+The Flying [[Stars]]
 
 "The most beautiful crime I ever committed," [[Flambeau]] would say in his
 highly moral old age, "was also, by a singular coincidence, my last.
@@ -13480,9 +13457,8 @@ grossi guanti di pelliccia.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_02" data-title="The Innocence of Father Brown — The Flying Stars (part 2)" data-chapter="Story 04 The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_02" data-title="The Innocence of Father Brown — The Flying Stars (part 2)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
 
-# [[innocence]] — The Flying [[Stars]] (part 2)
 
 Long before this revelation was complete the two big doors of the porch
 had opened in the middle, and Colonel Adams (father of the furry
@@ -13522,7 +13498,7 @@ of the colonel, the [[Wonder|wonder]] of the whole group.
 
 "I'll put 'em back now, my dear," said Fischer, returning the case
 to the tails of his coat.  "I had to be careful of 'em coming down.
-They're the three great African diamonds called `The Flying Stars,'
+They're the three great African diamonds called ‘The Flying Stars,'
 because they've been stolen so often.  All the big criminals are on the track;
 but even the rough men about in the streets and hotels could hardly have
 kept their hands off them.  I might have lost them on the road here.
@@ -13727,9 +13703,8 @@ Che cos'è, di grazia?»
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_03" data-title="The Innocence of Father Brown — The Flying Stars (part 3)" data-chapter="Story 04 The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_03" data-title="The Innocence of Father Brown — The Flying Stars (part 3)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
 
-# [[innocence]] — The Flying [[Stars]] (part 3)
 
 "Letting a top hat sit on you, for instance," said the Socialist.
 
@@ -13962,9 +13937,8 @@ popolare tanto assurda quanto appropriata.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_04" data-title="The Innocence of Father Brown — The Flying Stars (part 4)" data-chapter="Story 04 The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_04" data-title="The Innocence of Father Brown — The Flying Stars (part 4)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
 
-# [[innocence]] — The Flying [[Stars]] (part 4)
 
 The climax of this, as of all else, was the moment when the two
 front doors at the back of the scene flew open, showing the lovely
@@ -14203,9 +14177,8 @@ e Padre Brown si chinò sul comico poliziotto prostrato.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_05" data-title="The Innocence of Father Brown — The Flying Stars (part 5)" data-chapter="Story 04 The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_05" data-title="The Innocence of Father Brown — The Flying Stars (part 5)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
 
-# [[innocence]] — The Flying [[Stars]] (part 5)
 
 "Chloroform," he said as he rose; "I only guessed it just now."
 
@@ -14243,7 +14216,7 @@ but that always means a Falling Star at last."
 
 The silver, sparkling figure above seems to lean forward in the laurels and,
 confident of escape, listens to the little figure below.
-      "You never did anything better, Flambeau.  It was clever to
+"You never did anything better, Flambeau.  It was clever to
 come from Canada (with a Paris ticket, I suppose) just a week
 after Mrs. Adams died, when no one was in a mood to ask questions.
 It was cleverer to have marked down the Flying Stars and the very day
@@ -14359,7 +14332,7 @@ ma questo alla fine significa sempre una Stella Cadente.»
 
 La figura d'argento scintillante lassù sembra protendersi in avanti tra gli allori e,
 sicura della fuga, ascolta la piccola figura in basso.
-      «Non hai mai fatto nulla di meglio, Flambeau. È stato ingegnoso
+«Non hai mai fatto nulla di meglio, Flambeau. È stato ingegnoso
 venire dal Canada (con un biglietto per Parigi, suppongo) appena una settimana
 dopo la morte della signora Adams, quando nessuno era in vena di fare domande.
 È stato ancora più ingegnoso aver preso di mira le Stelle Volanti e il giorno preciso
@@ -14438,11 +14411,10 @@ che fossero chiusi in convento e ignari di questo mondo.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_01" data-title="The Innocence of Father Brown — The Invisible Man (part 1)" data-chapter="Story 05 The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_01" data-title="The Innocence of Father Brown — The Invisible Man (part 1)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
 
-# [[innocence]] — The Invisible Man (part 1)
 
-                         The Invisible Man
+The Invisible Man
 
 In the cool blue twilight of two steep streets in Camden Town, the shop
 at the corner, a confectioner's, glowed like the butt of a cigar.
@@ -14552,13 +14524,13 @@ bring back the cake."
 
 "Well, you must listen to the story first," said Laura, persistently.
 "To begin with, I must tell you that my father owned the inn called
-the `Red Fish' at Ludbury, and I used to serve people in the bar."
+the ‘Red Fish' at Ludbury, and I used to serve people in the bar."
 
 "I have often wondered," he said, "why there was a kind of a Christian
 air about this one confectioner's shop."
 
 "Ludbury is a sleepy, grassy little hole in the Eastern Counties,
-and the only kind of people who ever came to the `Red Fish'
+and the only kind of people who ever came to the ‘Red Fish'
 were occasional commercial travellers, and for the rest,
 the most awful people you can see, only you've never seen them.
 I mean little, loungy men, who had just enough to live on
@@ -14735,9 +14707,8 @@ al banco, facendo un canguro saltellante con cinque sigari.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_02" data-title="The Innocence of Father Brown — The Invisible Man (part 2)" data-chapter="Story 05 The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_02" data-title="The Innocence of Father Brown — The Invisible Man (part 2)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
 
-# [[innocence]] — The Invisible Man (part 2)
 
 "The other fellow was more silent and more ordinary; but somehow
 he alarmed me much more than poor little Smythe.  He was very
@@ -14788,10 +14759,10 @@ and I only got it last week."
 The man called Angus emptied his coffee-cup and regarded her with mild
 and patient eyes.  Her own mouth took a slight twist of laughter
 as she resumed, "I suppose you've seen on the hoardings all about
-this `Smythe's Silent Service'? Or you must be the only person that
+this ‘Smythe's Silent Service'? Or you must be the only person that
 hasn't. Oh, I don't know much about it, it's some clockwork invention
 for doing all the housework by machinery.  You know the sort of thing:
-`Press a Button--A Butler who Never Drinks.'  `Turn a Handle--Ten Housemaids
+‘Press a Button--A Butler who Never Drinks.'  ‘Turn a Handle--Ten Housemaids
 who Never Flirt.'  You must have seen the advertisements.
 [[Well]], whatever these machines are, they are making pots of money;
 and they are making it all for that little imp whom I knew down
@@ -14828,7 +14799,7 @@ asked Angus, with some interest.
 Laura suddenly shuddered, and then said, with an unshaken
 voice, "Yes.  Just when I had finished reading the second
 letter from Isidore Smythe announcing his [[success]].
-Just then, I heard Welkin say, `He shan't have you, though.'
+Just then, I heard Welkin say, ‘He shan't have you, though.'
 It was quite plain, as if he were in the room.  It is awful,
 I think I must be mad."
 
@@ -14984,9 +14955,8 @@ l’anima della rivalità.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_03" data-title="The Innocence of Father Brown — The Invisible Man (part 3)" data-chapter="Story 05 The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_03" data-title="The Innocence of Father Brown — The Invisible Man (part 3)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
 
-# [[innocence]] — The Invisible Man (part 3)
 
 Mr. Smythe, however, made no allusion to the ultimate ground
 of their antagonism, but said simply and explosively,
@@ -15267,9 +15237,8 @@ L’inchiostro rosso su di esso in realtà non era asciutto, e il messaggio dice
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_04" data-title="The Innocence of Father Brown — The Invisible Man (part 4)" data-chapter="Story 05 The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_04" data-title="The Innocence of Father Brown — The Invisible Man (part 4)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
 
-# [[innocence]] — The Invisible Man (part 4)
 
 There was a short silence, and then Isidore Smythe said quietly,
 "Would you like a little whiskey?  I rather feel as if I should."
@@ -15522,9 +15491,8 @@ con aria vacua come un pesce.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_05" data-title="The Innocence of Father Brown — The Invisible Man (part 5)" data-chapter="Story 05 The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_05" data-title="The Innocence of Father Brown — The Invisible Man (part 5)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
 
-# [[innocence]] — The Invisible Man (part 5)
 
 The others all looked down also; and Flambeau used a fierce
 exclamation and a French gesture.  For it was unquestionably true
@@ -15652,13 +15620,13 @@ this story anywhere else.
 
 "Have you ever noticed this--that people never answer what you say?
 They answer what you mean--or what they think you mean.
-Suppose one lady says to another in a country house, `Is anybody
-staying with you?' the lady doesn't answer `Yes; the butler,
+Suppose one lady says to another in a country house, ‘Is anybody
+staying with you?' the lady doesn't answer ‘Yes; the butler,
 the three footmen, the parlourmaid, and so on,' though the
 parlourmaid may be in the room, or the butler behind her chair.
-She says `There is nobody staying with us,' meaning nobody
+She says ‘There is nobody staying with us,' meaning nobody
 of the sort you mean.  But suppose a doctor inquiring into
-an epidemic asks, `Who is staying in the house?' then the lady
+an epidemic asks, ‘Who is staying in the house?' then the lady
 will remember the butler, the parlourmaid, and the rest.
 All language is used like that; you never get a question
 answered literally, even when you get it answered truly.
@@ -15815,9 +15783,8 @@ non lo notarono mai.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_06" data-title="The Innocence of Father Brown — The Invisible Man (part 6)" data-chapter="Story 05 The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_06" data-title="The Innocence of Father Brown — The Invisible Man (part 6)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
 
-# [[innocence]] — The Invisible Man (part 6)
 
 "An invisible man?" inquired Angus, raising his red eyebrows.
 "A mentally invisible man," said Father Brown.
@@ -15877,7 +15844,7 @@ The postman, instead of turning naturally, had ducked and tumbled against
 the garden fence.  He was a lean fair-bearded man of very ordinary appearance,
 but as he turned an alarmed face over his shoulder, all three men were fixed
 with an almost fiendish squint.
-                            * * * * * *
+* * * * * *
 
 Flambeau went back to his sabres, purple rugs and Persian cat, having many
 things to attend to.  John Turnbull Angus went back to the lady at the shop,
@@ -15946,7 +15913,7 @@ Il postino, invece di voltarsi con naturalezza, si abbassò e ruzzolò contro
 lo steccato del giardino. Era un uomo magro, dalla barba chiara, d’aspetto assai comune,
 ma nel voltare un viso allarmato al di sopra della spalla, tutti e tre gli uomini furono inchiodati
 da uno strabismo quasi diabolico.
-                            * * * * * *
+* * * * * *
 
 Flambeau tornò alle sue sciabole, ai tappeti purpurei e al gatto persiano, avendo molte
 cose da sbrigare. John Turnbull Angus tornò dalla signora alla bottega,
@@ -15956,11 +15923,10 @@ ore insieme a un assassino, e ciò che si dissero l’un l’altro non si saprà
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_01" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 1)" data-chapter="Story 06 The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_01" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 1)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
 
-# [[innocence]] — The [[Honour]] of Israel Gow (part 1)
 
-                     The Honour of Israel Gow
+The Honour of Israel Gow
 
 A stormy evening of olive and silver was closing in, as Father Brown,
 wrapped in a grey Scotch plaid, came to the end of a grey Scotch valley
@@ -15988,8 +15954,8 @@ of that palace of lies that was built up around Mary Queen of Scots.
 
 The rhyme in the country-side attested the motive and the result
 of their machinations candidly:
-                 As green sap to the simmer trees
-                 Is red gold to the Ogilvies.
+As green sap to the simmer trees
+Is red gold to the Ogilvies.
 
 For many centuries there had never been a decent lord in Glengyle Castle;
 and with the Victorian era one would have thought that all eccentricities
@@ -16102,8 +16068,8 @@ di quel palazzo di menzogne che fu edificato attorno a Maria Stuarda regina di S
 
 La filastrocca corrente nelle campagne attestava candidamente il movente e l’esito
 dei loro maneggi:
-                 Come verde linfa agli alberi d’estate,
-                 così è l’oro rosso agli Ogilvie.
+Come verde linfa agli alberi d’estate,
+così è l’oro rosso agli Ogilvie.
 
 Per molti secoli non vi era mai stato un signore rispettabile nel castello di Glengyle;
 e con l’era vittoriana si sarebbe pensato che ogni eccentricità
@@ -16187,9 +16153,8 @@ Padre Brown la fissò con aria passiva e rispose:
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_02" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 2)" data-chapter="Story 06 The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_02" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 2)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
 
-# [[innocence]] — The [[Honour]] of Israel Gow (part 2)
 
 "I can understand there must have been something odd about the man,
 or he wouldn't have buried himself alive--nor been in such a hurry
@@ -16444,9 +16409,8 @@ tenevano le candele in mano quando esploravano le caverne».
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_03" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 3)" data-chapter="Story 06 The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_03" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 3)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
 
-# [[innocence]] — The [[Honour]] of Israel Gow (part 3)
 
 "Is that all?" asked Flambeau after a long pause.
 "Have we got to the dull truth at last?"
@@ -16693,9 +16657,8 @@ come a un bastone.
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_04" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 4)" data-chapter="Story 06 The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_04" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 4)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
 
-# [[innocence]] — The [[Honour]] of Israel Gow (part 4)
 
 "Go on," said the priest very gently.  "We are only trying to find the truth.
 What are you afraid of?"
@@ -16964,9 +16927,8 @@ come fanno gli uomini in chiesa.
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_05" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 5)" data-chapter="Story 06 The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_05" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 5)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
 
-# [[innocence]] — The [[Honour]] of Israel Gow (part 5)
 
 All the corners of the sky were brightening into blue and silver;
 the birds were chattering in the tiny garden trees;
@@ -17027,8 +16989,8 @@ It is a study in the savage living logic that has been the religion
 of this race.
 
 "That old local rhyme about the house of Glengyle--
-                 As green sap to the simmer trees
-                 Is red gold to the Ogilvies--
+As green sap to the simmer trees
+Is red gold to the Ogilvies--
 was literal as well as metaphorical.  It did not merely
 mean that the Glengyles sought for wealth; it was also true
 that they literally gathered gold; they had a huge collection
@@ -17163,8 +17125,8 @@ uomo sulla terra, forse, che non ha preso più del suo dovuto.
 di questa razza.
 
 «Quell’antica filastrocca locale sulla casa di Glengyle —
-                 Come verde linfa agli alberi d’estate,
-                 così è l’oro rosso agli Ogilvie —
+Come verde linfa agli alberi d’estate,
+così è l’oro rosso agli Ogilvie —
 era letterale non meno che metaforica.  Non voleva soltanto
 dire che i Glengyle cercavano la ricchezza; era anche vero
 che essi raccoglievano letteralmente oro; possedevano una enorme collezione
@@ -17239,11 +17201,10 @@ il sobrio cilindro sul capo.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_01" data-title="The Innocence of Father Brown — The Wrong Shape (part 1)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_01" data-title="The Innocence of Father Brown — The Wrong Shape (part 1)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 1)
 
-                          The Wrong Shape
+The Wrong Shape
 
 Certain of the great roads going north out of London continue far
 into the country a sort of attenuated and interrupted spectre of
@@ -17456,9 +17417,8 @@ di quei bastoncini snodati.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_02" data-title="The Innocence of Father Brown — The Wrong Shape (part 2)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_02" data-title="The Innocence of Father Brown — The Wrong Shape (part 2)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 2)
 
 "I say," he said breathlessly, "I want to see old Quinton.  I must see him.
 Has he gone?"
@@ -17735,9 +17695,8 @@ più immobile di una montagna.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_03" data-title="The Innocence of Father Brown — The Wrong Shape (part 3)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_03" data-title="The Innocence of Father Brown — The Wrong Shape (part 3)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 3)
 
 "Who is that?" cried Father Brown, stepping back with a hissing
 intake of his breath.
@@ -18010,9 +17969,8 @@ rimasero soli insieme.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_04" data-title="The Innocence of Father Brown — The Wrong Shape (part 4)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_04" data-title="The Innocence of Father Brown — The Wrong Shape (part 4)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 4)
 
 Father Brown was silent and motionless for half a minute, then he said:
 "Superstition is irreligious, but there is something in the air
@@ -18036,12 +17994,12 @@ Storm was certainly coming.
 
 "When that Indian spoke to us," went on Brown in a conversational undertone,
 "I had a sort of vision, a vision of him and all his universe.
-Yet he only said the same thing three times.  When first he said `I
+Yet he only said the same thing three times.  When first he said ‘I
 want nothing,' it meant only that he was impenetrable, that Asia
-does not give itself away.  Then he said again, `I want nothing,'
+does not give itself away.  Then he said again, ‘I want nothing,'
 and I knew that he meant that he was sufficient to himself, like a cosmos,
 that he needed no God, neither admitted any sins.  And when he said
-the third time, `I want nothing,' he said it with blazing eyes.
+the third time, ‘I want nothing,' he said it with blazing eyes.
 And I knew that he meant literally what he said; that nothing was
 his [[Desire|desire]] and his [[Home|home]]; that he was weary for nothing as for wine;
 that annihilation, the mere destruction of everything or anything--"
@@ -18160,12 +18118,12 @@ La tempesta stava certamente arrivando.
 
 «Quando quell'indiano ci ha rivolto la parola», proseguì Brown in tono discorsivo e sommesso,
 «ho avuto una sorta di visione, una visione di lui e di tutto il suo universo.
-Eppure non ha detto che tre volte la stessa cosa. Quando disse la prima volta `Non
+Eppure non ha detto che tre volte la stessa cosa. Quando disse la prima volta ‘Non
 desidero nulla', voleva dire soltanto che era impenetrabile, che l'Asia
-non si dà mai. Poi disse di nuovo `Non desidero nulla',
+non si dà mai. Poi disse di nuovo ‘Non desidero nulla',
 e capii che intendeva dire che era sufficiente a se stesso, come un cosmo,
 che non aveva bisogno di alcun Dio, né ammetteva alcun peccato. E quando disse
-la terza volta `Non desidero nulla', lo disse con occhi fiammeggianti.
+la terza volta ‘Non desidero nulla', lo disse con occhi fiammeggianti.
 E capii che intendeva alla lettera ciò che diceva; che il nulla era
 il suo [[Desire|desiderio]] e la sua [[Home|dimora]]; che spasimava per il nulla come per il vino;
 che l'annientamento, la mera distruzione di ogni cosa o di qualunque cosa...»
@@ -18261,9 +18219,8 @@ E, con indignazione del collega, cominciò a contarli.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_05" data-title="The Innocence of Father Brown — The Wrong Shape (part 5)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_05" data-title="The Innocence of Father Brown — The Wrong Shape (part 5)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 5)
 
 "That's all right," he said, with an apologetic smile.
 "Twenty-three sheets cut and twenty-two corners cut off them.
@@ -18290,7 +18247,7 @@ that monarch's abdication.
 when the priest patted him easily on the shoulder.
 
 "Make it up with Mr. Atkinson, my friend," he said.
-"Beg a mutual pardon and say `Good night.'  We need not
+"Beg a mutual pardon and say ‘Good night.'  We need not
 detain him any longer."  Then, as Atkinson rose somewhat
 doubtfully and gathered his hat and stick and went towards
 the garden gate, Father Brown said in a more serious voice:
@@ -18423,7 +18380,7 @@ l'abdicazione di quel monarca.
 quando il prete gli diede un colpetto leggero sulla spalla.
 
 «Faccia pace con il signor Atkinson, amico mio», disse.
-«Chiedetevi mutuo perdono e ditevi `Buona notte'. Non è più necessario
+«Chiedetevi mutuo perdono e ditevi ‘Buona notte'. Non è più necessario
 trattenerlo.» Poi, mentre Atkinson si rialzava un po'
 esitante e raccoglieva cappello e bastone e s'incamminava verso
 il cancello del giardino, Padre Brown disse con voce più grave:
@@ -18530,11 +18487,10 @@ di carta. Era più storta del pugnale che lo uccise.»
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_06" data-title="The Innocence of Father Brown — The Wrong Shape (part 6)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_06" data-title="The Innocence of Father Brown — The Wrong Shape (part 6)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 6)
 
-"I mean the paper on which Quinton wrote, `I die by my own hand,'"
+"I mean the paper on which Quinton wrote, ‘I die by my own hand,'"
 answered [[Father Brown]].  "The shape of that paper, my friend,
 was the wrong shape; the wrong shape, if ever I have seen it
 in this wicked world."
@@ -18584,7 +18540,7 @@ looked at the ground, and said, in a low, distinct voice:
 "No," said [[Father Brown]].  "Quinton wrote it all right."
 
 "[[Well]], there you are," said the aggravated [[Flambeau]]; "Quinton wrote,
-`I die by my own hand,' with his own hand on a plain piece of paper."
+‘I die by my own hand,' with his own hand on a plain piece of paper."
 
 "Of the wrong shape," said the priest calmly.
 
@@ -18598,7 +18554,7 @@ Does that suggest anything to you?"
 
 A light dawned on Flambeau's face, and he said:
 "There was something else written by Quinton, some other words.
-`They will tell you I die by my own hand,' or `Do not believe that--'"
+‘They will tell you I die by my own hand,' or ‘Do not believe that--'"
 
 "Hotter, as the children say," said his friend.  "But the piece was hardly
 half an inch across; there was no room for one word, let alone five.
@@ -18687,14 +18643,14 @@ even read me the last paragraph, which was something like this:
 
 gigantic, managed to lift himself on his elbow and gasp in his
 
-nephew's ear:  `I die by my own hand, yet I die murdered!'"  It so
+nephew's ear:  ‘I die by my own hand, yet I die murdered!'"  It so
 
 happened by one chance out of a hundred, that those last words
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Intendo il foglio su cui Quinton scrisse `Muoio per mia propria mano'»,
+«Intendo il foglio su cui Quinton scrisse ‘Muoio per mia propria mano'»,
 rispose [[Father Brown|Padre Brown]]. «La forma di quel foglio, amico mio,
 era la forma sbagliata; la forma sbagliata, se mai ne ho vista una
 in questo mondo malvagio.»
@@ -18744,7 +18700,7 @@ guardò il suolo, e disse, con voce bassa e distinta:
 «No», disse [[Father Brown|Padre Brown]]. «Quinton la scrisse davvero.»
 
 «[[Well|Ebbene]], eccoci qua», disse l'esasperato [[Flambeau]]; «Quinton scrisse
-`Muoio per mia propria mano', di sua propria mano, su un semplice foglio di carta.»
+‘Muoio per mia propria mano', di sua propria mano, su un semplice foglio di carta.»
 
 «Della forma sbagliata», disse il prete con calma.
 
@@ -18758,7 +18714,7 @@ Questo ti suggerisce qualcosa?»
 
 Una luce albeggiò sul volto di Flambeau, ed egli disse:
 «C'era qualcos'altro scritto da Quinton, qualche altra parola.
-`Vi diranno che muoio per mia propria mano', o `Non crediate che...'»
+‘Vi diranno che muoio per mia propria mano', o ‘Non crediate che...'»
 
 «Più caldo, come dicono i bambini», disse l'amico. «Ma il pezzo era largo
 appena mezzo pollice; non c'era spazio per una parola, figuriamoci per cinque.
@@ -18847,15 +18803,14 @@ mi lesse persino l'ultimo paragrafo, che suonava press'a poco così:
 
 gigantesco, riuscì a sollevarsi sul gomito e a rantolare all'orecchio del
 
-nipote: `Muoio per mia propria mano, eppure muoio assassinato!'» Accadde
+nipote: ‘Muoio per mia propria mano, eppure muoio assassinato!'» Accadde
 
 così, per un caso su cento, che quelle ultime parole
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_07" data-title="The Innocence of Father Brown — The Wrong Shape (part 7)" data-chapter="Story 07 The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_07" data-title="The Innocence of Father Brown — The Wrong Shape (part 7)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
 
-# [[innocence]] — The Wrong Shape (part 7)
 
 were written at the top of a new sheet of paper.
 I left the room,
@@ -18931,7 +18886,7 @@ have remorse, just as if one were in Byron's [[Poems|poems]]!  I cannot
 
 write any more.
 
-                                 James [[Erskine]] Harris.            
+James [[Erskine]] Harris.            
 
 [[Father Brown]] carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
@@ -18940,11 +18895,10 @@ waterproofs of several policemen gleamed in the [[Road|road]] outside.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_01" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 1)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_01" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 1)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 1)
 
-                    The Sins of Prince Saradine
+The Sins of Prince Saradine
 
 When [[Flambeau]] took his month's holiday from his office in Westminster
 he took it in a small sailing-boat, so small that it passed much
@@ -19155,9 +19109,8 @@ ed egli si limitò a indicare il [[River|fiume]] verso la sua ansa successiva.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_02" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 2)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_02" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 2)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 2)
 
 The boat took many such grassy corners and followed many such reedy
 and silent reaches of [[River|river]]; but before the search had become monotonous
@@ -19368,9 +19321,8 @@ Questo era tutto ciò che Paul, il maggiordomo, avrebbe detto, e Paul era eviden
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_03" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 3)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_03" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 3)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 3)
 
 The Italian housekeeper was somewhat more communicative, being,
 as Brown fancied, somewhat less content.  Her tone about her
@@ -19601,9 +19553,8 @@ che i viaggi fossero così poco rispettabili o così divertenti.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_04" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 4)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_04" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 4)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 4)
 
 Indeed, with all his dignity of a man of the world,
 Prince Saradine radiated to such sensitive observers as the priest,
@@ -19846,9 +19797,8 @@ di frettolosa cortesia.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_05" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 5)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_05" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 5)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 5)
 
 "That is all right," he said, panting and in halting English.
 "I have insulted.  I will give satisfaction.  Marco, open the case."
@@ -20079,9 +20029,8 @@ erano tagliati fuori come su uno scoglio nel Pacifico.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_06" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 6)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_06" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 6)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 6)
 
 Almost as he had the thought the ringing of the rapiers quickened
 to a rattle, the prince's arms flew up, and the point shot out behind
@@ -20320,9 +20269,8 @@ come se stesse soffocando, ma il suo volto non mutò.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_07" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 7)" data-chapter="Story 08 The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_07" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 7)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sins of Prince Saradine (part 7)
 
 "My God!" cried [[Flambeau]] after a pause, "he's laughing!"
 
@@ -20348,7 +20296,7 @@ and the younger, the captain, was the sort that sinks to the [[Bottom|bottom]].
 This squalid officer fell from beggar to blackmailer,
 and one ugly day he got his hold upon his brother, the prince.
 Obviously it was for no light matter, for Prince Paul Saradine
-was frankly `fast,' and had no reputation to lose as to the mere
+was frankly ‘fast,' and had no reputation to lose as to the mere
 sins of society.  In plain fact, it was a hanging matter,
 and Stephen literally had a rope round his brother's neck.
 He had somehow discovered the truth about the Sicilian affair,
@@ -20378,7 +20326,7 @@ and his foes fell prostrate before him.  He gave up the race
 round the world, and he gave up his address to young Antonelli;
 then he gave up everything to his brother.  He sent Stephen
 money enough for smart clothes and easy travel, with a letter
-saying roughly:  `This is all I have left.  You have cleaned me out.
+saying roughly:  ‘This is all I have left.  You have cleaned me out.
 I still have a little [[house]] in Norfolk, with servants and
 a cellar, and if you want more from me you must take that.
 Come and take possession if you like, and I will live there quietly
@@ -20424,7 +20372,7 @@ in the faint glow of his cigar; it was scrawled with green ink.
 
 "Don't you remember his original invitation to you?"
 he asked, "and the compliment to your criminal exploit?
-`That trick of yours,' he says, `of getting one [[Detective|detective]]
+‘That trick of yours,' he says, ‘of getting one [[Detective|detective]]
 to arrest the other'? He has just copied your trick.
 With an enemy on each side of him, he slipped swiftly out
 of the way and let them collide and kill each other."
@@ -20476,7 +20424,7 @@ e il minore, il capitano, era il tipo che affonda in [[Bottom|fondo]].
 Questo squallido ufficiale scese da accattone a ricattatore,
 e un brutto giorno mise la mano addosso a suo fratello, il principe.
 Ovviamente non era per faccenda da poco, poiché il principe Paul Saradine
-era francamente `dissoluto', e non aveva reputazione da perdere quanto ai meri
+era francamente ‘dissoluto', e non aveva reputazione da perdere quanto ai meri
 peccati della società. In parole povere, era faccenda da forca,
 e Stephen aveva letteralmente una corda al collo del fratello.
 Aveva in qualche modo scoperto la verità sulla faccenda siciliana,
@@ -20506,7 +20454,7 @@ e i suoi nemici caddero prostrati davanti a lui. Rinunciò alla corsa
 intorno al mondo, e diede il proprio indirizzo al giovane Antonelli;
 poi cedette ogni cosa a suo fratello. Mandò a Stephen
 denaro sufficiente per eleganti abiti e comodi viaggi, con una lettera
-che diceva grosso modo: `Questo è tutto ciò che mi resta. Mi hai ripulito.
+che diceva grosso modo: ‘Questo è tutto ciò che mi resta. Mi hai ripulito.
 Mi resta ancora una piccola [[house|casa]] nel Norfolk, con dei domestici e
 una cantina, e se vuoi di più da me devi prenderti quella.
 Vieni a prenderne possesso se ti va, e io vivrò là quietamente
@@ -20552,7 +20500,7 @@ nel debole bagliore del suo sigaro; era scarabocchiato con inchiostro verde.
 
 «Non ricordi il suo invito originale a te?»
 chiese, «e il complimento alla tua impresa criminale?
-`Quel vostro trucco', dice, `di far arrestare un [[Detective|detective]]
+‘Quel vostro trucco', dice, ‘di far arrestare un [[Detective|detective]]
 dall'altro'? Ha semplicemente copiato il tuo trucco.
 Con un nemico da ciascun lato, sgusciò via rapidamente
 e li lasciò collidere e uccidersi a vicenda.»
@@ -20579,11 +20527,10 @@ e le dimore di uomini innocui.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_01" data-title="The Innocence of Father Brown — The Hammer of God (part 1)" data-chapter="Story 09 The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_01" data-title="The Innocence of Father Brown — The Hammer of God (part 1)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
 
-# [[innocence]] — The Hammer of God (part 1)
 
-                         The Hammer of God
+The Hammer of God
 
 The little village of Bohun Beacon was perched on a [[Hill|hill]] so steep that
 the tall spire of its church seemed only like the peak of a small mountain.
@@ -20812,9 +20759,8 @@ a un trofeo appeso nell'antica sala di famiglia.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_02" data-title="The Innocence of Father Brown — The Hammer of God (part 2)" data-chapter="Story 09 The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_02" data-title="The Innocence of Father Brown — The Hammer of God (part 2)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
 
-# [[innocence]] — The Hammer of God (part 2)
 
 "The blacksmith is away at Greenford," said Wilfred quietly;
 "the [[Time|time]] of his return is unsettled."
@@ -21041,9 +20987,8 @@ sarebbe assolto dal furto della colonna di Nelson.»
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_03" data-title="The Innocence of Father Brown — The Hammer of God (part 3)" data-chapter="Story 09 The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_03" data-title="The Innocence of Father Brown — The Hammer of God (part 3)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
 
-# [[innocence]] — The Hammer of God (part 3)
 
 "That's what I say," repeated the cobbler obstinately; "there's only one
 man that could have done it, and he's the man that would have done it.
@@ -21310,9 +21255,8 @@ come la grande chiesa sopra di loro.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_04" data-title="The Innocence of Father Brown — The Hammer of God (part 4)" data-chapter="Story 09 The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_04" data-title="The Innocence of Father Brown — The Hammer of God (part 4)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
 
-# [[innocence]] — The Hammer of God (part 4)
 
 One of those silences struck the group which are more strange and
 insufferable than any speech.  Madly, in order to make conversation,
@@ -21375,7 +21319,7 @@ After an instant they dropped, and he cried:  "That was the word
 I wanted; you have said the word."
 
 Then he continued, mastering his discomposure:  "The words you said were,
-`No man but an idiot would pick up the small hammer.'"
+‘No man but an idiot would pick up the small hammer.'"
 
 "Yes," said the doctor.  "Well?"
 
@@ -21583,9 +21527,8 @@ volando mezzo miglio sopra siepi e campi.»
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_05" data-title="The Innocence of Father Brown — The Hammer of God (part 5)" data-chapter="Story 09 The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_05" data-title="The Innocence of Father Brown — The Hammer of God (part 5)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
 
-# [[innocence]] — The Hammer of God (part 5)
 
 The inspector laughed amicably and said:  "No, I think you can be
 considered out of it, though it's one of the rummiest coincidences
@@ -21868,9 +21811,8 @@ pareva posarsi sul paese assolato come un acquazzone.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_06" data-title="The Innocence of Father Brown — The Hammer of God (part 6)" data-chapter="Story 09 The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_06" data-title="The Innocence of Father Brown — The Hammer of God (part 6)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
 
-# [[innocence]] — The Hammer of God (part 6)
 
 "I think there is something rather dangerous about standing on these high
 places even to pray," said Father Brown.  "Heights were made to be looked at,
@@ -22063,11 +22005,10 @@ il chiavistello del cancello di legno del cortile, e avvicinatosi all'ispettore,
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_01" data-title="The Innocence of Father Brown — The Eye of Apollo (part 1)" data-chapter="Story 10 The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_01" data-title="The Innocence of Father Brown — The Eye of Apollo (part 1)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
 
-# [[innocence]] — The Eye of [[Apollo]] (part 1)
 
-                         The Eye of Apollo
+The Eye of Apollo
 
 That singular smoky sparkle, at once a confusion and a transparency, which is
 the strange secret of the Thames, was changing more and more from its grey
@@ -22215,9 +22156,8 @@ La sua rigida rapidità e la sua fredda impazienza avevano molto divertito Flamb
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_02" data-title="The Innocence of Father Brown — The Eye of Apollo (part 2)" data-chapter="Story 10 The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_02" data-title="The Innocence of Father Brown — The Eye of Apollo (part 2)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
 
-# [[innocence]] — The Eye of [[Apollo]] (part 2)
 
 She certainly had a temper, of a snappy, practical sort; the gestures
 of her thin, elegant hands were abrupt or even destructive.
@@ -22351,9 +22291,8 @@ Un fragore e uno schianto, come lo scoscio rovesciato di un razzo, fu spaccato d
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_03" data-title="The Innocence of Father Brown — The Eye of Apollo (part 3)" data-chapter="Story 10 The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_03" data-title="The Innocence of Father Brown — The Eye of Apollo (part 3)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
 
-# [[innocence]] — The Eye of [[Apollo]] (part 3)
 
 At last the tall figure and titanic energy of Flambeau appeared
 in the doorway of the mansions and dominated the little mob.
@@ -22513,9 +22452,8 @@ Nel lungo e attonito silenzio della stanza il profeta di Apollo lentamente si al
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_04" data-title="The Innocence of Father Brown — The Eye of Apollo (part 4)" data-chapter="Story 10 The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_04" data-title="The Innocence of Father Brown — The Eye of Apollo (part 4)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
 
-# [[innocence]] — The Eye of [[Apollo]] (part 4)
 
 "Reader of the books of evil, one more word before I blow away
 your baseless nightmares for ever.  Not even faintly could you
@@ -22657,9 +22595,8 @@ Kalon il profeta si tenne lontano dal foglio con quella leale inconsapevolezza c
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_05" data-title="The Innocence of Father Brown — The Eye of Apollo (part 5)" data-chapter="Story 10 The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_05" data-title="The Innocence of Father Brown — The Eye of Apollo (part 5)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
 
-# [[innocence]] — The Eye of [[Apollo]] (part 5)
 
 An instant afterwards that pontiff, in his splendid sweeping draperies,
 had crossed the room in two great strides, and was towering over Joan Stacey,
@@ -22884,9 +22821,8 @@ La signorina Joan Stacey si infilò con uno spillo il suo pratico cappello nero 
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_06" data-title="The Innocence of Father Brown — The Eye of Apollo (part 6)" data-chapter="Story 10 The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_06" data-title="The Innocence of Father Brown — The Eye of Apollo (part 6)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
 
-# [[innocence]] — The Eye of [[Apollo]] (part 6)
 
 There was a pause, and the priest went on in a gentle and even broken voice.
 "Whether or no that devil deliberately made her blind, there is
@@ -22978,11 +22914,10 @@ Padre Brown ebbe una sorta di soprassalto.
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_01" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 1)" data-chapter="Story 11 The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_01" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 1)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sign of the Broken [[Sword]] (part 1)
 
-                   The Sign of the Broken Sword
+The Sign of the Broken Sword
 
 The thousand arms of the forest were grey, and its million fingers silver.
 In a sky of dark green-blue-like slate the stars were bleak and
@@ -23142,9 +23077,8 @@ Discesero il sentiero scosceso, riabbassarono il chiavistello del cancello arrug
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_02" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 2)" data-chapter="Story 11 The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_02" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 2)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sign of the Broken [[Sword]] (part 2)
 
 "If not wholly untrue, it is at least very inadequate,"
 continued Brown; "for in point of fact, all that the public
@@ -23223,10 +23157,10 @@ and who afterwards married her.  He was one of those who were
 captured by Olivier, and, like all the rest except the general,
 appears to have been bounteously treated and promptly set free.
 Some twenty years afterwards this man, then Lieutenant-Colonel Keith,
-published a sort of autobiography called `A British Officer
+published a sort of autobiography called ‘A British Officer
 in Burmah and Brazil.'  In the place where the reader looks
 eagerly for some account of the mystery of St. Clare's disaster
-may be found the following words:  `Everywhere else in this book
+may be found the following words:  ‘Everywhere else in this book
 I have narrated things exactly as they occurred, holding as I
 do the old-fashioned opinion that the glory of England is old
 enough to take care of itself.  The exception I shall make is
@@ -23280,9 +23214,8 @@ Una grande luna gelata, simile a una lucente palla di neve, cominciò a mostrars
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_03" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 3)" data-chapter="Story 11 The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_03" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 3)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sign of the Broken [[Sword]] (part 3)
 
 He strode on, breathing hard, his black head and bull neck forward,
 like a man winning a walking race.  The little priest,
@@ -23389,7 +23322,7 @@ Needless to say, the Brazilians blew great gaps in them with artillery,
 which they could only return with spirited but lessening rifle fire.
 Yet they never broke; and Olivier's curt account ends with a strong
 tribute of admiration for the mystic valour of these imbeciles.
-`Our line then advanced finally,' writes Olivier, `and drove them
+‘Our line then advanced finally,' writes Olivier, ‘and drove them
 into the river; we captured General St. Clare himself and several
 other officers.  The colonel and the major had both fallen in the battle.
 I cannot resist saying that few finer sights can have been seen
@@ -23409,7 +23342,7 @@ This latter was a certain Colonel Clancy, a big bull of an Irishman;
 and it would seem that he died almost as much of rage as of bullets.
 He, at any rate, was not responsible for that ridiculous raid;
 it must have been imposed on him by the general.  His last edifying words,
-according to my informant, were these:  `And there goes the damned old
+according to my informant, were these:  ‘And there goes the damned old
 [[donkey]] with the end of his [[Sword|sword]] knocked off.  I wish it was his head.'
 You will remark that everyone seems to have noticed this detail about
 the broken [[Sword|sword]] blade, though most people regard it somewhat more reverently
@@ -23464,9 +23397,8 @@ Furono ben presto nelle viscere più segrete del bosco, e sentirono stretto atto
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_04" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 4)" data-chapter="Story 11 The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_04" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 4)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sign of the Broken [[Sword]] (part 4)
 
 Their path through the woodland began to go upward,
 and the speaker paused a little for breath before he went on.
@@ -23521,7 +23453,7 @@ and fell into emphatic though confidential speech.
 What struck our friend the diarist most was his special disposition
 to discuss matters with Major Murray; but, indeed, such a selection,
 so long as it was not marked, was in no way unnatural.
-The two men were made for sympathy; they were men who `read
+The two men were made for sympathy; they were men who ‘read
 their Bibles'; they were both the old Evangelical type of officer.
 However this may be, it is certain that when the general mounted
 again he was still talking earnestly to Murray; and that as he walked
@@ -23602,9 +23534,8 @@ Una mezza luce trapelò attraverso la rete di rami sopra di loro, gettando il fa
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_05" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 5)" data-chapter="Story 11 The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_05" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 5)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sign of the Broken [[Sword]] (part 5)
 
 "Well, what is there in that?" growled Flambeau; "it was a twopence coloured
 sort of incident; the old man's blade breaking in his last battle.
@@ -23796,9 +23727,8 @@ La voce proseguì: «Olivier, come sapete, era un donchisciotte, e non voleva pe
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_06" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 6)" data-chapter="Story 11 The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_06" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 6)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
 
-# [[innocence]] — The Sign of the Broken [[Sword]] (part 6)
 
 The wintry road curved over a ridge in cutting frost, with cruel
 black shapes of bush and thicket; but Flambeau fancied that
@@ -23990,11 +23920,10 @@ Si tuffarono nella taverna dalle tende rosse, che all’interno non era solo acc
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_01" data-title="The Innocence of Father Brown — The Three Tools of Death (part 1)" data-chapter="Story 12 The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_01" data-title="The Innocence of Father Brown — The Three Tools of Death (part 1)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
 
-# [[innocence]] — The Three Tools of [[Death]] (part 1)
 
-                     The Three Tools of Death
+The Three Tools of Death
 
 Both by calling and conviction Father Brown knew better than
 most of us, that every man is dignified when he is dead.
@@ -24165,9 +24094,8 @@ Una finestra si aprì nella mente di Merton e vi lasciò entrare quella strana l
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_02" data-title="The Innocence of Father Brown — The Three Tools of Death (part 2)" data-chapter="Story 12 The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_02" data-title="The Innocence of Father Brown — The Three Tools of Death (part 2)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
 
-# [[innocence]] — The Three Tools of [[Death]] (part 2)
 
 "You see," said Father Brown, blinking modestly, "I'm not sure that
 the Armstrong cheerfulness is so very cheerful--for other people.
@@ -24375,9 +24303,8 @@ E fece un momentaneo movimento con le due mani inguantate di nero.
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_03" data-title="The Innocence of Father Brown — The Three Tools of Death (part 3)" data-chapter="Story 12 The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_03" data-title="The Innocence of Father Brown — The Three Tools of Death (part 3)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
 
-# [[innocence]] — The Three Tools of [[Death]] (part 3)
 
 "What do you mean?" asked the other sharply.  "Haven't you arrested him?"
 
@@ -24588,9 +24515,8 @@ La soffitta, che era il rifugio privato del segretario (e una cella piuttosto pi
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_04" data-title="The Innocence of Father Brown — The Three Tools of Death (part 4)" data-chapter="Story 12 The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_04" data-title="The Innocence of Father Brown — The Three Tools of Death (part 4)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
 
-# [[innocence]] — The Three Tools of [[Death]] (part 4)
 
 At a sufficiently delicate sign, the police gathered round
 the large man to lead him away; but their unobtrusiveness was
@@ -24655,7 +24581,7 @@ the crime myself."
 
 "I was in this room next to them," she explained; "both doors
 were closed, but I suddenly heard a voice, such as I had never
-heard on earth, roaring `Hell, hell, hell,' again and again,
+heard on earth, roaring ‘Hell, hell, hell,' again and again,
 and then the two doors shook with the first explosion
 of the revolver.  Thrice again the thing banged before I
 got the two doors open and found the room full of smoke;

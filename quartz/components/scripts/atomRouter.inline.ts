@@ -90,6 +90,21 @@ function el<K extends keyof HTMLElementTagNameMap>(
   return e
 }
 
+// The emitted title is the full "Work — Chapter (part N)"; crumb/TOC only want the
+// chapter/part portion (the work title is already in the page header + breadcrumb).
+function chapterOf(t: string): string {
+  return t.replace(/^.*—\s*/, "")
+}
+// TOC leaf under a chapter group: strip the repeated chapter name so a part reads
+// just "Parte 3" instead of "II The Maniac (part 3)".
+function leafLabel(a: Atom): string {
+  let s = chapterOf(a.title)
+  if (a.chapter && s.startsWith(a.chapter)) {
+    s = s.slice(a.chapter.length).replace(/^[\s—–-]+/, "").trim() || s
+  }
+  return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Parte $1")
+}
+
 function build(reader: HTMLElement) {
   if (reader.dataset.mounted) return
   reader.dataset.mounted = "1"
@@ -127,6 +142,16 @@ function build(reader: HTMLElement) {
   // ---- reader chrome ----
   const worktitle = reader.dataset.worktitle || document.title
   const bar = el("div", "ar-bar")
+  // Desktop-only toggle for the global Explorer/search left sidebar. On a reading
+  // page the reader supplies its own work-nav (ar-toc), so the site sidebar is
+  // collapsed by default and opened on demand as a drawer.
+  const navBtn = el("button", "ar-navbtn", "&#9776;")
+  navBtn.setAttribute("aria-label", "Esplora e cerca")
+  navBtn.title = "Esplora e cerca"
+  navBtn.onclick = (e) => {
+    e.stopPropagation()
+    document.body.classList.toggle("left-open")
+  }
   const tocBtn = el("button", "ar-tocbtn", "&#9776;")
   tocBtn.setAttribute("aria-label", "Indice")
   const crumb = el("div", "ar-crumb")
@@ -143,7 +168,7 @@ function build(reader: HTMLElement) {
   prevBtn.setAttribute("aria-label", "Precedente")
   nextBtn.setAttribute("aria-label", "Successivo")
   pager.append(prevBtn, nextBtn)
-  bar.append(tocBtn, crumb, spacer)
+  bar.append(navBtn, tocBtn, crumb, spacer)
   if (anyIt) bar.append(langWrap)
   bar.append(pager)
 
@@ -182,7 +207,7 @@ function build(reader: HTMLElement) {
       tocList.append(li)
     }
     const li = el("li")
-    const link = el("a", "ar-toc-link", a.title.replace(/^.*—\s*/, "") || a.id)
+    const link = el("a", "ar-toc-link", leafLabel(a) || a.id)
     link.href = `#${a.id}`
     link.dataset.id = a.id
     li.append(link)
@@ -207,12 +232,15 @@ function build(reader: HTMLElement) {
     if (lang === "it" && !a.it.length && anyIt) {
       pane.append(el("p", "ar-notr", "— traduzione non disponibile per questa sezione —"))
     }
-    // crumb + counter
+    // crumb + counter: chapter in bold, then the leaf only when it adds info
     const pos = idx(a.id) + 1
-    const label = a.kind === "intro" ? a.title || "Inizio" : a.title
+    const leaf = a.kind === "intro" ? a.title || "Inizio" : leafLabel(a)
+    const showLeaf = !a.chapter || leaf !== a.chapter
     crumb.innerHTML =
-      (a.chapter ? `<b>${a.chapter}</b> &middot; ` : "") +
-      `${label} <span class="ar-count">${pos} / ${order.length}</span>`
+      (a.chapter ? `<b>${a.chapter}</b>` : "") +
+      (a.chapter && showLeaf ? " &middot; " : "") +
+      (showLeaf ? leaf : "") +
+      ` <span class="ar-count">${pos} / ${order.length}</span>`
     // toc active
     toc.querySelectorAll(".ar-toc-link").forEach((l) =>
       l.classList.toggle("active", (l as HTMLElement).dataset.id === a.id),
@@ -307,6 +335,13 @@ function build(reader: HTMLElement) {
       go(id, true)
     }
   })
+  // click outside the open left-sidebar drawer closes it
+  document.addEventListener("click", (e) => {
+    if (!document.body.classList.contains("left-open")) return
+    const t = e.target as HTMLElement
+    if (t.closest?.(".sidebar.left") || t.closest?.(".ar-navbtn")) return
+    document.body.classList.remove("left-open")
+  })
   window.addEventListener("popstate", () => go(current(), false))
   document.addEventListener("keydown", (e) => {
     if ((e.target as HTMLElement).matches?.("input,textarea")) return
@@ -324,9 +359,12 @@ function build(reader: HTMLElement) {
 }
 
 function init() {
-  document
-    .querySelectorAll<HTMLElement>("div.atom-reader")
-    .forEach((r) => build(r))
+  const readers = document.querySelectorAll<HTMLElement>("div.atom-reader")
+  // reading pages collapse the global left sidebar (see build()); leaving one must
+  // restore normal layout for the next SPA-navigated page.
+  document.body.classList.toggle("reading-page", readers.length > 0)
+  if (!readers.length) document.body.classList.remove("left-open")
+  readers.forEach((r) => build(r))
 }
 
 document.addEventListener("nav", init)

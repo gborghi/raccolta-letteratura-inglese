@@ -16,14 +16,14 @@ tags:
 
 [[manalive|Manalive]]
 
-		     by G. K. Chesterton
+by G. K. Chesterton
 
-       First published 1912 by Thomas Nelson and Sons
+First published 1912 by Thomas Nelson and Sons
 
- Electronic edition MANALIV0 published 1993 by Jim Henry III, 
- Jim.Henry@pobox.com, http://www.pobox.com/~Jim.Henry/etext/
+Electronic edition MANALIV0 published 1993 by Jim Henry III, 
+Jim.Henry@pobox.com, http://www.pobox.com/~Jim.Henry/etext/
 
- Edited by Martin Ward (martin@gkc.org.uk)
+Edited by Martin Ward (martin@gkc.org.uk)
 
 PLEASE report any typos you may happen to notice, such as misplaced
 punctuation and the like, to
@@ -35,30 +35,30 @@ Or send email to JIM HENRY on Jim.Henry@pobox.com
 Thank you!  I [[Hope|hope]] you enjoy reading _Manalive_ as much as I have.
 I will soon be releasing _Tales of the Long Bow_, also by G. K. Chesterton.
 
-			   Table of Contents
+Table of Contents
 
-   Part I: The Enigmas of [[Innocent]] [[smith|Smith]]
-      I.   How the Great [[Wind]] Came to Beacon [[house|House]]    
-      II.  The Luggage of an Optimist                 
-      III. The Banner of Beacon                       
-      IV.  The [[Garden]] of the God                      
-      V.   The Allegorical Practical Joker            
+Part I: The Enigmas of [[Innocent]] [[smith|Smith]]
+I.   How the Great [[Wind]] Came to Beacon [[house|House]]    
+II.  The Luggage of an Optimist                 
+III. The Banner of Beacon                       
+IV.  The [[Garden]] of the God                      
+V.   The Allegorical Practical Joker            
 
-  Part II: The Explanations of [[Innocent]] [[smith|Smith]]
-      I.   The Eye of [[Death]]; or, the Murder Charge    
-      II.  The Two Curates; or, the Burglary Charge   
-      III. The Round [[Road]]; or, the Desertion Charge   
-      IV.  The Wild Weddings; or, the Polygamy Charge 
-      V.   How the Great [[Wind]] went from Beacon [[house|House]]  
+Part II: The Explanations of [[Innocent]] [[smith|Smith]]
+I.   The Eye of [[Death]]; or, the Murder Charge    
+II.  The Two Curates; or, the Burglary Charge   
+III. The Round [[Road]]; or, the Desertion Charge   
+IV.  The Wild Weddings; or, the Polygamy Charge 
+V.   How the Great [[Wind]] went from Beacon [[house|House]]  
 
-			   Part I
+Part I
 
-		The Enigmas of [[Innocent]] [[smith|Smith]]
+The Enigmas of [[Innocent]] [[smith|Smith]]
 
-			  Chapter I
+Chapter I
 
-		   How the Great [[Wind]] Came
-		       to Beacon [[house|House]]
+How the Great [[Wind]] Came
+to Beacon [[house|House]]
 
 A [[Wind|wind]] sprang high in the west, like a wave of unreasonable happiness,
 and tore eastward across England, trailing with it the frosty scent
@@ -317,7 +317,7 @@ I'm sorry to say, put the matter beyond a [[Doubt|doubt]]."
 
 "It's a shame to joke about such things," said Inglewood, in his honest,
 embarrassed way; "the telegram was [[smith|Smith]]'s illness, not [[smith|Smith]].  The actual
-words were, `Man found alive with two legs.'"
+words were, ‘Man found alive with two legs.'"
 
 "Alive with two legs," repeated Michael, frowning.  "Perhaps a version
 of alive and kicking?  I don't know much about people out of their senses;
@@ -441,8 +441,8 @@ Oddly enough, Michael Moon, though more of a humourist, was touched on
 a tenderer nerve, half remembered the old, young theatricals with Rosamund,
 and was amused to find himself almost quoting Shakespeare--
 
-	"For valour.  Is not love a Hercules,
-	 Still climbing trees in the Hesperides?"
+"For valour.  Is not love a Hercules,
+Still climbing trees in the Hesperides?"
 
 Even the immovable man of science had a bright, bewildered sensation
 that the Time Machine had given a great jerk, and gone forward
@@ -523,9 +523,9 @@ The strident, tearing gale in that garden carried away
 the stranger's card to join the wild waste paper of the universe;
 and that great western wind shook the whole house and passed.
 
-			 Chapter II
+Chapter II
 
-		 The Luggage of an Optimist
+The Luggage of an Optimist
 
 We all remember the fairy tales of science in our infancy, which played
 with the supposition that large animals could jump in the proportion
@@ -900,8 +900,8 @@ of artillery into a vulgar but spirited tune.
 Rosamund's voice came up rich and strong in the words of some fatuous,
 fashionable coon song:-
 
-	"Darkies sing a song on the old plantation,
-	 Sing it as we sang it in days long since gone by."
+"Darkies sing a song on the old plantation,
+Sing it as we sang it in days long since gone by."
 
 Inglewood's brown eyes softened and saddened still more as he continued
 his monologue of resignation to such a rollicking and romantic tune.
@@ -951,9 +951,9 @@ death out of that machine gun?"
 "Oh, that!" said Smith, throwing it a single glance; "I deal life
 out of that," and he went bounding down the stairs.
 
-			 Chapter III
+Chapter III
 
-		    The Banner of Beacon
+The Banner of Beacon
 
 All next day at Beacon House there was a crazy sense that it was
 everybody's birthday.  It is the fashion to talk of institutions
@@ -1002,10 +1002,10 @@ and Inglewood severely beating Inglewood with an umbrella--
 Innocent Smith wanted to have enlarged and put up in the hall,
 like a sort of fresco, with the inscription,--
 
-	"Self-reverence, self-knowledge, self-control--
-	 These three alone will make a man a prig."
+"Self-reverence, self-knowledge, self-control--
+These three alone will make a man a prig."
 
-						-- Tennyson.
+-- Tennyson.
 
 Nothing, again, could be more prosaic and impenetrable than
 the domestic energies of Miss Diana Duke.  But Innocent had somehow
@@ -1135,14 +1135,14 @@ of Beacon.  Let us cut the painter, and begin to be happy together,
 as if we were on a desert island."
 
 "I know that desert island," said Michael Moon; "it only
-exists in the `Swiss Family Robinson.'  A man feels a strange
+exists in the ‘Swiss Family Robinson.'  A man feels a strange
 [[Desire|desire]] for some sort of vegetable milk, and crash comes down
 some unexpected cocoa-nut from some undiscovered monkey.
 A literary man feels inclined to pen a [[Sonnet|sonnet]], and at once
 an officious porcupine rushes out of a thicket and shoots out
 one of his quills."
 
-"Don't you say a word against the `Swiss Family Robinson,'"
+"Don't you say a word against the ‘Swiss Family Robinson,'"
 cried Innocent with great warmth.  "It mayn't be
 exact science, but it's dead accurate philosophy.
 When you're really shipwrecked, you do really find what you want.
@@ -1156,7 +1156,7 @@ go to the grave without guessing; we'd find materials for everything--
 christening, marriage, or funeral; yes, even for a coronation--
 if we didn't decide to be a republic."
 
-"A coronation on `Swiss Family' lines, I suppose," said [[Michael]], laughing.
+"A coronation on ‘Swiss Family' lines, I suppose," said [[Michael]], laughing.
 "Oh, I know you would find everything in that atmosphere.  If we wanted
 such a simple thing, for instance, as a Coronation Canopy, we should
 walk down beyond the geraniums and find the Canopy Tree in full bloom.
@@ -1231,14 +1231,14 @@ except that it looks like a [[Jewel|jewel]]?  Leave off buying and selling,
 and start looking!  Open your eyes, and you'll wake up in
 the New Jerusalem.
 
-	"All is gold that glitters--
-	   Tree and tower of brass;
-	 Rolls the golden evening air
-	   Down the golden grass.
-	 Kick the cry to Jericho,
-	   How yellow mud is sold;
-	 All is gold that glitters,
-	   For the glitter is the gold."
+"All is gold that glitters--
+Tree and tower of brass;
+Rolls the golden evening air
+Down the golden grass.
+Kick the cry to Jericho,
+How yellow mud is sold;
+All is gold that glitters,
+For the glitter is the gold."
 
 "And who wrote that?" asked Rosamund, amused.
 
@@ -1397,9 +1397,9 @@ but beyond the hedge and railings, in the [[Road|road]] outside
 the [[Garden|garden]] gate, a hansom cab was waiting, with the yellow
 Gladstone bag on top of it.
 
-			 Chapter IV
+Chapter IV
 
-		    The [[Garden]] of the God
+The [[Garden]] of the God
 
 [[Diana]] Duke seemed inexplicably irritated at the abrupt entrance
 and utterance of the other girl.
@@ -1483,7 +1483,7 @@ for [[Truth|truth]] is in this [[Garden|garden]] to-[[Night|night]]."
 He kept two big blue magnetic eyes fixed on her face.
 "Is my name [[Moon]]?" he asked.  "Is your name Hunt?  On my [[Honour|honour]],
 they sound to me as quaint and as distant as Red Indian names.
-It's as if your name was `Swim' and my name was `Sunrise.' But our
+It's as if your name was ‘Swim' and my name was ‘Sunrise.' But our
 real names are Husband and Wife, as they were when we fell asleep."
 
 "It is no good," said Rosamund, with real [[Tears|tears]] in her eyes;
@@ -1723,7 +1723,7 @@ blue eyes quietly fixed on Rosamund's face all the [[Time|time]].
 He spoke with a not inexcusable frigidity.
 
 "Really, Miss Hunt," he said, "you are not yet very reassuring.
-You sent me this wire only half an hour ago:  `Come at once,
+You sent me this wire only half an hour ago:  ‘Come at once,
 if possible, with another doctor.  Man--Innocent Smith--gone mad
 on premises, and doing dreadful things.  Do you know anything of him?'
 I went round at once to a distinguished colleague of mine, a doctor
@@ -1898,9 +1898,9 @@ Then her eyes strayed to Michael, who was leaning on the gate;
 but he continued to lean on it without moving, with his face turned
 away towards the darkening road.
 
-			  Chapter V
+Chapter V
 
-	       The Allegorical Practical Joker
+The Allegorical Practical Joker
 
 The criminal specialist who had come with Dr. Warner was a somewhat
 more urbane and even dapper figure than he had appeared when
@@ -2218,7 +2218,7 @@ up when he fell over the flower-pot."
 "And the High Court of Beacon," replied Moon with hauteur,
 "has special powers in all cases concerning lunatics,
 flower-pots, and doctors who fall down in gardens.
-It's in our very first charter from Edward I:  `Si medicus
+It's in our very first charter from Edward I:  ‘Si medicus
 quisquam in horto prostratus--'"
 
 "Out of the way!" cried Warner with sudden fury, "or we will force
@@ -2277,7 +2277,7 @@ are in charge of it."
 haven't even had the decency to consult Mrs. Duke."
 
 "Oh, that's no use," said [[Diana]] in an undertone to Rosamund; "Auntie can't
-say `Bo!' to a goose."
+say ‘Bo!' to a goose."
 
 "I am glad to hear it," answered Michael, "for with such a flock of geese
 to say it to, the horrid expletive might be constantly on her lips.
@@ -2321,7 +2321,7 @@ Is it anybody's interest here to wash this linen in public?
 "Come, I'll take each of you in order.  Once take Smith outside that gate,
 and you take him into the front page of the evening papers.  I know;
 I've written the front page myself.  Miss Duke, do you or your aunt want
-a sort of notice stuck up over your boarding-house--`Doctors shot here.'?
+a sort of notice stuck up over your boarding-house--‘Doctors shot here.'?
 No, no--doctors are rubbish, as I said; but you don't want the rubbish
 shot here.  [[arthur|Arthur]], suppose I am right, or suppose I am wrong.
 [[smith|Smith]] has appeared as an old schoolfellow of yours.  Mark my words,
@@ -2756,14 +2756,14 @@ Homer Danton Michaelangelo Shakespeare Brakespeare--"
 "that's my real name."  And he broke a branch, and one or two [[Autumn|autumn]]
 [[Leaves|leaves]] fluttered away across the [[Moon|moon]].
 
-			   Part II
+Part II
 
-	     The Explanations of [[Innocent]] [[smith|Smith]]
+The Explanations of [[Innocent]] [[smith|Smith]]
 
-			  Chapter I
+Chapter I
 
-		      The Eye of [[Death]];
-		    or, the Murder Charge
+The Eye of [[Death]];
+or, the Murder Charge
 
 The dining-room of the Dukes had been set out for the [[Court]]
 of Beacon with a certain impromptu pomposity that seemed somehow
@@ -2843,7 +2843,7 @@ of Boston, and continued:  "There is but one result of this happier
 and humaner outlook which concerns the wretched man before us.
 It is that thoroughly elucidated by a Milwaukee doctor,
 our great secret-guessing Sonnenschein, in his great work,
-`The Destructive Type.'  We do not denounce Smith as a murderer,
+‘The Destructive Type.'  We do not denounce Smith as a murderer,
 but rather as a murderous man.  The type is such that its very life--
 I might say its very health--is in killing.  Some hold that it is
 not properly an aberration, but a newer and even a higher creature.
@@ -2973,7 +2973,7 @@ a natural tendency to get murdered?  Is it not at least
 a hypothesis holding the field that Dr. Warner is such a man?
 I do not speak without the book, any more than my learned friend.
 The whole matter is expounded in Dr. Moonenschein's monumental work,
-`The Destructible Doctor,' with diagrams, showing the various ways
+‘The Destructible Doctor,' with diagrams, showing the various ways
 in which such a person as Dr. Warner may be resolved into his elements.
 In the light of these facts--"
 
@@ -2984,7 +2984,7 @@ My principal wants to do a bit of talkin'."
 Dr. Pym was indeed on his feet, looking pallid and rather vicious.
 "I have strictly CON-fined myself," he said nasally,
 "to books to which immediate reference can be made.
-I have Sonnenschein's `Destructive Type' here on the table,
+I have Sonnenschein's ‘Destructive Type' here on the table,
 if the defence wish to see it.  Where is this wonderful work
 on Destructability Mr. Moon is talking about?  Does it exist?
 Can he produce it?"
@@ -3019,7 +3019,7 @@ It was all I had to throw, all the soft things being porned,
 and if your Docter Warner doesn't like having sorsepans thrown at him,
 don't let him wear his hat in a respectable woman's parler, and tell
 him to leave orf smiling or tell us the joke.--Yours respectfully,
-					       Hannah Miles.
+Hannah Miles.
 
 "The other letter is from a physician of some note in Dublin,
 with whom Dr. Warner was once engaged in consultation.
@@ -3029,7 +3029,7 @@ He writes as follows:--
 and which, moreover, I have never been able to explain.
 My own branch of medicine is not mental; and I should be glad to have
 the view of a mental specialist on my singular momentary and indeed
-almost automatic action.  To say that I `pulled Dr. Warner's nose,'
+almost automatic action.  To say that I ‘pulled Dr. Warner's nose,'
 is, however, inaccurate in a respect that strikes me as important.
 That I punched his nose I must cheerfully admit (I need not say with
 what regret); but pulling seems to me to imply a precision of objective
@@ -3190,10 +3190,10 @@ isolated authorship.  The [[Truth|truth]] is, it has been a composite production
 and we have even had some difference of opinion about the adjectives.
 But every word of it is true.--We are, yours faithfully,
 
-				     "Wilfred Emerson Eames,
-		   Warden of Brakespeare College, Cambridge.
+"Wilfred Emerson Eames,
+Warden of Brakespeare College, Cambridge.
 
-					    "[[Innocent]] [[smith|Smith]].
+"[[Innocent]] [[smith|Smith]].
 
 "The enclosed statement," continued Inglewood, "runs as follows:--
 
@@ -3359,18 +3359,18 @@ pupil [[smith|Smith]] in the matter of mere years, but older by centuries
 in the two essential respects of having a European reputation
 and a bald head.
 
-"`I came, against the rules, at this unearthly hour,' said Smith, who was
+"‘I came, against the rules, at this unearthly hour,' said Smith, who was
 nothing to the eye except a very big man trying to make himself small,
-`because I am coming to the conclusion that existence is really too rotten.
+‘because I am coming to the conclusion that existence is really too rotten.
 I know all the arguments of the thinkers that think otherwise--bishops,
 and agnostics, and those sort of people.  And knowing you were the greatest
 living authority on the pessimist thinkers--'
 
-"`All thinkers,' said Eames, `are pessimist thinkers.'
+"‘All thinkers,' said Eames, ‘are pessimist thinkers.'
 
 "After a patch of pause, not the first--for this depressing conversation
 had gone on for some hours with alternations of cynicism and [[Silence|silence]]--
-the Warden continued with his air of weary brilliancy:  `It's all a question
+the Warden continued with his air of weary brilliancy:  ‘It's all a question
 of wrong calculation.  The moth flies into the candle because he doesn't
 happen to know that the game is not worth the candle.  The wasp gets
 into the jam in hearty and hopeful efforts to get the jam into him.
@@ -3382,7 +3382,7 @@ of everything they do.  Their discordant colours are cries of pain.
 Look at the brick villas beyond the college on this side of the river.
 There's one with spotted blinds; look at it! just go and look at it!'
 
-"`Of course,' he went on dreamily, `one or two men see the sober
+"‘Of course,' he went on dreamily, ‘one or two men see the sober
 fact a long way off--they go mad.  Do you notice that maniacs mostly
 try either to destroy other things, or (if they are thoughtful)
 to destroy themselves?  The madman is the man behind the scenes,
@@ -3390,22 +3390,22 @@ like the man that wanders about the coulisse of a theater.
 He has only opened the wrong door and come into the right place.
 He sees things at the right angle.  But the common world--'
 
-"`Oh, hang the common world!' said the sullen [[smith|Smith]], letting his fist
+"‘Oh, hang the common world!' said the sullen [[smith|Smith]], letting his fist
 fall on the table in an idle [[Despair|despair]].
 
-"`Let's give it a bad name first,' said the Professor calmly,
-`and then hang it.  A puppy with hydrophobia would probably struggle
+"‘Let's give it a bad name first,' said the Professor calmly,
+‘and then hang it.  A puppy with hydrophobia would probably struggle
 for life while we killed it; but if we were kind we should kill it.
 So an omniscient god would put us out of our [[Pain|pain]].
 He would strike us dead.'
 
-"`Why doesn't he strike us dead?' asked the undergraduate abstractedly,
+"‘Why doesn't he strike us dead?' asked the undergraduate abstractedly,
 plunging his hands into his pockets.
 
-"`He is dead himself,' said the philosopher; `that is where
+"‘He is dead himself,' said the philosopher; ‘that is where
 he is really enviable.'
 
-"`To any one who thinks,' proceeded Eames, `the pleasures of life,
+"‘To any one who thinks,' proceeded Eames, ‘the pleasures of life,
 trivial and soon tasteless, are bribes to bring us into a torture chamber.
 We all see that for any thinking man mere extinction is the... What
 are you doing?... Are you mad?... Put that thing down.'
@@ -3419,19 +3419,19 @@ Then he saw behind it the chambered barrel and cocked hammer of
 a revolver, and behind that the flushed and rather heavy face of Smith,
 apparently quite unchanged, or even more mild than before.
 
-"`I'll help you out of your hole, old man,' said [[smith|Smith]],
-with rough tenderness.  `I'll put the puppy out of his pain.'
+"‘I'll help you out of your hole, old man,' said [[smith|Smith]],
+with rough tenderness.  ‘I'll put the puppy out of his pain.'
 
-"Emerson Eames retreated towards the window.  `Do you mean
+"Emerson Eames retreated towards the window.  ‘Do you mean
 to kill me?' he cried.
 
-"`It's not a thing I'd do for every one,' said Smith with emotion;
-`but you and I seem to have got so intimate to-[[Night|night]], somehow.
+"‘It's not a thing I'd do for every one,' said Smith with emotion;
+‘but you and I seem to have got so intimate to-[[Night|night]], somehow.
 I know all your troubles now, and the only cure, old chap.'
 
-"`Put that thing down,' shouted the Warden.
+"‘Put that thing down,' shouted the Warden.
 
-"`It'll soon be over, you know,' said [[smith|Smith]] with the air of a
+"‘It'll soon be over, you know,' said [[smith|Smith]] with the air of a
 sympathetic dentist.  And as the Warden made a run for the [[Window|window]]
 and balcony, his benefactor followed him with a firm step
 and a compassionate expression.
@@ -3454,25 +3454,25 @@ and chimneys pendent in the pools, they felt [[Alone|alone]] in space.
 They felt as if they were looking over the edge from the North Pole
 and seeing the South Pole below.
 
-"`Hang the world, we said,' observed Smith, `and the world is hanged.
+"‘Hang the world, we said,' observed Smith, ‘and the world is hanged.
 "He has hanged the world upon nothing," says the [[Bible]].  Do you like being
 hanged upon nothing?  I'm going to be hanged upon something myself.
 I'm going to swing for you... Dear, tender old phrase,' he murmured;
-`never true till this moment.  I am going to swing for you.
+‘never true till this moment.  I am going to swing for you.
 For you, dear friend.  For your sake.  At your express desire.'
 
-"`Help!' cried the Warden of Brakespeare College; `help!'
+"‘Help!' cried the Warden of Brakespeare College; ‘help!'
 
-"`The puppy struggles,' said the undergraduate, with an eye of pity,
-`the poor puppy struggles.  How fortunate it is that I am wiser
+"‘The puppy struggles,' said the undergraduate, with an eye of pity,
+‘the poor puppy struggles.  How fortunate it is that I am wiser
 and kinder than he,' and he sighted his weapon so as exactly to cover
 the upper part of Eames's bald head.
 
-"`[[smith|Smith]],' said the philosopher with a sudden change to a sort
-of ghastly lucidity, `I shall go mad.'
+"‘[[smith|Smith]],' said the philosopher with a sudden change to a sort
+of ghastly lucidity, ‘I shall go mad.'
 
-"`And so look at things from the right angle,' observed [[smith|Smith]],
-sighing gently.  `Ah, but madness is only a palliative at best,
+"‘And so look at things from the right angle,' observed [[smith|Smith]],
+sighing gently.  ‘Ah, but madness is only a palliative at best,
 a drug.  The only cure is an operation--an operation that is
 always successful:  death.'
 
@@ -3507,28 +3507,28 @@ He wondered for the first time what people lived in them.
 "Suddenly he called out with mere querulous authority,
 as he might have called to a student to shut a door.
 
-"`Let me come off this place,' he cried; `I can't bear it.'
+"‘Let me come off this place,' he cried; ‘I can't bear it.'
 
-"`I rather [[Doubt|doubt]] if it will bear you,' said [[smith|Smith]] critically;
-`but before you break your neck, or I blow out your brains,
+"‘I rather [[Doubt|doubt]] if it will bear you,' said [[smith|Smith]] critically;
+‘but before you break your neck, or I blow out your brains,
 or let you back into this room (on which complex points I
 am undecided) I want the metaphysical point cleared up.
 Do I understand that you want to get back to life?'
 
-"`I'd give anything to get back,' replied the unhappy professor.
+"‘I'd give anything to get back,' replied the unhappy professor.
 
-"`Give anything!' cried Smith; `then, blast your impudence,
+"‘Give anything!' cried Smith; ‘then, blast your impudence,
 give us a [[Song|song]]!'
 
-"`What song do you mean?' demanded the exasperated Eames; `what [[Song|song]]?'
+"‘What song do you mean?' demanded the exasperated Eames; ‘what [[Song|song]]?'
 
-"`A hymn, I think, would be most appropriate,' answered the other gravely.
-`I'll let you off if you'll repeat after me the words--
+"‘A hymn, I think, would be most appropriate,' answered the other gravely.
+‘I'll let you off if you'll repeat after me the words--
 
-	"`I thank the goodness and the grace
-	    That on my birth have smiled.
-	  And perched me on this curious place,
-	    A happy English child.'
+"‘I thank the goodness and the grace
+That on my birth have smiled.
+And perched me on this curious place,
+A happy English child.'
 
 "Dr. Emerson Eames having briefly complied, his persecutor abruptly
 told him to hold his hands up in the air.  Vaguely connecting this
@@ -3537,30 +3537,30 @@ Mr. Eames held them up, very stiffly, but without marked surprise.
 A bird alighting on his stone seat took no more notice of him
 than of a comic statue.
 
-"`You are now engaged in public worship,' remarked [[smith|Smith]] severely,
-`and before I have done with you, you shall thank God for the very ducks
+"‘You are now engaged in public worship,' remarked [[smith|Smith]] severely,
+‘and before I have done with you, you shall thank God for the very ducks
 on the pond.'
 
 "The celebrated pessimist half articulately expressed his perfect
 readiness to thank God for the ducks on the pond.
 
-"`Not forgetting the drakes,' said [[smith|Smith]] sternly.
-(Eames weakly conceded the drakes.) `Not forgetting anything, please.
+"‘Not forgetting the drakes,' said [[smith|Smith]] sternly.
+(Eames weakly conceded the drakes.) ‘Not forgetting anything, please.
 You shall thank heaven for churches and chapels and villas
 and vulgar people and puddles and pots and pans and sticks
 and rags and bones and spotted blinds.'
 
-"`All right, all right,' repeated the victim in [[Despair|despair]];
-`sticks and rags and bones and blinds.'
+"‘All right, all right,' repeated the victim in [[Despair|despair]];
+‘sticks and rags and bones and blinds.'
 
-"`Spotted blinds, I think we said,' remarked [[smith|Smith]] with a
+"‘Spotted blinds, I think we said,' remarked [[smith|Smith]] with a
 rogueish ruthlessness, and wagging the [[Pistol|pistol]]-barrel at him
 like a long metallic finger.
 
-"`Spotted blinds,' said Emerson Eames faintly.
+"‘Spotted blinds,' said Emerson Eames faintly.
 
-"`You can't say fairer than that,' admitted the younger man,
-`and now I'll just tell you this to wind up with.
+"‘You can't say fairer than that,' admitted the younger man,
+‘and now I'll just tell you this to wind up with.
 If you really were what you profess to be, I don't see that it
 would matter to snail or seraph if you broke your impious stiff
 neck and dashed out all your drivelling devil-worshipping brains.
@@ -3571,12 +3571,12 @@ so as not to hit you (I am a good shot, you may be glad to hear),
 and then we will go in and have some breakfast.'
 
 "He then let off two barrels in the air, which the Professor
-endured with singular firmness, and then said, `But don't [[Fire|fire]]
+endured with singular firmness, and then said, ‘But don't [[Fire|fire]]
 them all off.'
 
-"`Why not' asked the other buoyantly.
+"‘Why not' asked the other buoyantly.
 
-"`Keep them,' asked his companion, `for the next man you meet
+"‘Keep them,' asked his companion, ‘for the next man you meet
 who talks as we were talking.'
 
 "It was at this moment that Smith, looking down, perceived apoplectic
@@ -3591,32 +3591,32 @@ He was astonished to find the gigantic Smith heavily shaken,
 and sitting with his shaggy head on his hands.  When addressed,
 he lifted a very pale face.
 
-"`Why, what is the matter?' asked Eames, whose own nerves had by this
+"‘Why, what is the matter?' asked Eames, whose own nerves had by this
 [[Time|time]] twittered themselves quiet, like the morning [[Birds|birds]].
 
-"`I must ask your indulgence,' said Smith, rather brokenly.
-`I must ask you to realize that I have just had an escape from [[Death|death]].'
+"‘I must ask your indulgence,' said Smith, rather brokenly.
+‘I must ask you to realize that I have just had an escape from [[Death|death]].'
 
-"`YOU have had an escape from death?' repeated the Professor
-in not unpardonable irritation.  `[[Well]], of all the cheek--'
+"‘YOU have had an escape from death?' repeated the Professor
+in not unpardonable irritation.  ‘[[Well]], of all the cheek--'
 
-"`Oh, don't you understand, don't you understand?' cried the pale
-young man impatiently.  `I had to do it, Eames; I had to prove
+"‘Oh, don't you understand, don't you understand?' cried the pale
+young man impatiently.  ‘I had to do it, Eames; I had to prove
 you wrong or die.  When a man's young, he nearly always has
 some one whom he thinks the top-[[Water|water]] mark of the mind of man--
 some one who knows all about it, if anybody knows.
 
-"`Well, you were that to me; you spoke with authority,
+"‘Well, you were that to me; you spoke with authority,
 and not as the scribes.  Nobody could comfort me if YOU
 said there was no comfort.  If you really thought there was
 nothing anywhere, it was because you had been there to see.
 Don't you see that I HAD to prove you didn't really mean it?--
 or else drown myself in the canal.'
 
-"`[[Well]],' said Eames hesitatingly, `I think perhaps you confuse--'
+"‘[[Well]],' said Eames hesitatingly, ‘I think perhaps you confuse--'
 
-"`Oh, don't tell me that!' cried [[smith|Smith]] with the sudden clairvoyance
-of mental [[Pain|pain]]; `don't tell me I confuse enjoyment of existence
+"‘Oh, don't tell me that!' cried [[smith|Smith]] with the sudden clairvoyance
+of mental [[Pain|pain]]; ‘don't tell me I confuse enjoyment of existence
 with the Will to Live!  That's German, and German is High Dutch,
 and High Dutch is Double Dutch.  The thing I saw shining in your eyes
 when you dangled on that bridge was enjoyment of life and not "the
@@ -3628,25 +3628,25 @@ between the houses.  It was THOSE things you hated leaving, not Life,
 whatever that is.  Eames, we've been to the brink of death together;
 won't you admit I'm right?'
 
-"`Yes', said Eames very slowly, `I think you are right.
+"‘Yes', said Eames very slowly, ‘I think you are right.
 You shall have a First!'
 
-"`Right!' cried [[smith|Smith]], springing up reanimated.  `I've passed
+"‘Right!' cried [[smith|Smith]], springing up reanimated.  ‘I've passed
 with honours, and now let me go and see about being sent down.'
 
-"`You needn't be sent down,' said Eames with the quiet confidence
-of twelve years of intrigue.  `Everything with us comes from
+"‘You needn't be sent down,' said Eames with the quiet confidence
+of twelve years of intrigue.  ‘Everything with us comes from
 the man on top to the people just round him:  I am the man on top,
 and I shall tell the people round me the truth.'
 
 "The massive Mr. Smith rose and went firmly to the window,
-but he spoke with equal firmness.  `I must be sent down,' he said,
-`and the people must not be told the truth.'
+but he spoke with equal firmness.  ‘I must be sent down,' he said,
+‘and the people must not be told the truth.'
 
-"`And why not' asked the other.
+"‘And why not' asked the other.
 
-"`Because I mean to follow your advice,' answered the massive youth,
-`I mean to keep the remaining shots for people in the shameful state
+"‘Because I mean to follow your advice,' answered the massive youth,
+‘I mean to keep the remaining shots for people in the shameful state
 you and I were in last [[Night|night]]--I wish we could even plead drunkenness.
 I mean to keep those bullets for pessimists--pills for pale people.
 And in this way I want to walk the world like a wonderful surprise--
@@ -3659,10 +3659,10 @@ I am going to hold a [[Pistol|pistol]] to the head of the Modern Man.  But I
 shall not use it to kill him--only to bring him to life.
 I begin to see a new meaning in being the [[skeleton]] at the feast.'
 
-"`You can scarcely be called a skeleton,' said Dr. Eames, smiling.
+"‘You can scarcely be called a skeleton,' said Dr. Eames, smiling.
 
-"`That comes of being so much at the feast,' answered the massive youth.
-`No skeleton can keep his figure if he is always dining out.
+"‘That comes of being so much at the feast,' answered the massive youth.
+‘No skeleton can keep his figure if he is always dining out.
 But that is not quite what I meant:  what I mean is that I caught
 a kind of glimpse of the meaning of death and all that--the skull
 and cross-bones, the ~memento mori~. It isn't only meant to remind
@@ -3672,16 +3672,16 @@ young by death.  Providence has to cut immortality into lengths for us,
 as nurses cut the bread and butter into fingers.'
 
 "Then he added suddenly in a voice of unnatural actuality,
-`But I know something now, Eames.  I knew it when I saw
+‘But I know something now, Eames.  I knew it when I saw
 the clouds turn pink.'
 
-"`What do you mean?' asked Eames.  `What did you know?'
+"‘What do you mean?' asked Eames.  ‘What did you know?'
 
-"`I knew for the first time that murder is really wrong.'
+"‘I knew for the first time that murder is really wrong.'
 
 "He gripped Dr. Eames's hand and groped his way somewhat unsteadily
 to the door.  Before he had vanished through it he had added,
-`It's very dangerous, though, when a man thinks for a split second
+‘It's very dangerous, though, when a man thinks for a split second
 that he understands [[Death|death]].'
 
 "Dr. Eames remained in repose and rumination some hours after his
@@ -3700,18 +3700,18 @@ of the story; and if their version of the thing be questioned, they,
 the undersigned persons, would deucedly [[Well|well]] like to know who does
 know about it if they don't.
 
-"The undersigned persons will now adjourn to `The Spotted Dog'
+"The undersigned persons will now adjourn to ‘The Spotted Dog'
 for beer.  Farewell.
 
-			      "(Signed) James Emerson Eames,
-		   Warden of Brakespeare College, Cambridge.
+"(Signed) James Emerson Eames,
+Warden of Brakespeare College, Cambridge.
 
-					   "Innocent Smith."
+"Innocent Smith."
 
-			 Chapter II
+Chapter II
 
-		      The Two Curates;
-		   or, the Burglary Charge
+The Two Curates;
+or, the Burglary Charge
 
 Arthur Inglewood handed the document he had just read to the leaders
 of the prosecution, who examined it with their heads together.
@@ -3999,7 +3999,7 @@ went roaring down another passage.
 "Then follows the truly extraordinary part of my story.  When he had got
 us outside, in a mean backyard of blistered grass leading into a lane
 with a very lonely-looking lamp-post, this giant addressed me as follows:
-`You're [[Well|well]] out of that, sir; now you'd better come along with me.
+‘You're [[Well|well]] out of that, sir; now you'd better come along with me.
 I want you to help me in an act of social justice, such as we've all
 been talking about.  Come along!'  And turning his big back abruptly,
 he led us down the lean old lane with the one lean old lamp-post,
@@ -4018,14 +4018,14 @@ and certainly--but I digress.
 faded behind us in a way that certainly depressed the mind.
 The large man in front of us looked larger and larger in the haze.
 He did not turn round, but he said with his huge back to us,
-`All that talking's no good; we want a little practical Socialism.'
+‘All that talking's no good; we want a little practical Socialism.'
 
-"`I quite agree,' said Percy; `but I always like to understand things
+"‘I quite agree,' said Percy; ‘but I always like to understand things
 in theory before I put them into practice.'
 
-"`Oh, you just leave that to me,' said the practical Socialist,
+"‘Oh, you just leave that to me,' said the practical Socialist,
 or whatever he was, with the most terrifying vagueness.
-`I have a way with me.  I'm a Permeator.'
+‘I have a way with me.  I'm a Permeator.'
 
 "I could not imagine what he meant, but my companion laughed,
 so I was sufficiently reassured to continue the unaccountable journey
@@ -4053,27 +4053,27 @@ walking along the top of a garden wall like a tom cat.
 and let loose my just reprobation, balancing myself as best I
 could all the time.
 
-"`It's a right-of-way,' declared my indefensible informant.
-`It's closed to traffic once in a hundred years.'
+"‘It's a right-of-way,' declared my indefensible informant.
+‘It's closed to traffic once in a hundred years.'
 
-"`Mr. Percy, Mr. Percy!'  I called out; `you are not going
+"‘Mr. Percy, Mr. Percy!'  I called out; ‘you are not going
 on with this blackguard?'
 
-"`Why, I think so,' answered my unhappy colleague flippantly.
-`I think you and I are bigger blackguards than he is,
+"‘Why, I think so,' answered my unhappy colleague flippantly.
+‘I think you and I are bigger blackguards than he is,
 whatever he is.'
 
-"`I am a burglar,' explained the big creature quite calmly.
-`I am a member of the Fabian Society.  I take back the wealth stolen
+"‘I am a burglar,' explained the big creature quite calmly.
+‘I am a member of the Fabian Society.  I take back the wealth stolen
 by the capitalist, not by sweeping civil war and revolution, but by reform
 fitted to the special occasion--here a little and there a little.
 Do you see that fifth house along the terrace with the flat roof?
 I'm permeating that one to-night.'
 
-"`Whether this is a crime or a joke,' I cried, `I desire to be quit of it.'
+"‘Whether this is a crime or a joke,' I cried, ‘I desire to be quit of it.'
 
-"`The ladder is just behind you,' answered the creature
-with horrible courtesy; `and, before you go, do let me give
+"‘The ladder is just behind you,' answered the creature
+with horrible courtesy; ‘and, before you go, do let me give
 you my card.'
 
 "If I had had the presence of mind to show any proper spirit I
@@ -4098,7 +4098,7 @@ of what such courses may lead to in many cases; and I saw them no more.
 Mr. Inglewood, is undoubtedly that of the burglar in question.
 When I got home that night I looked at his card, and he was inscribed
 there under the name of Innocent Smith.--Yours faithfully,
-				      John Clement Hawkins."
+John Clement Hawkins."
 
 Moon merely went through the form of glancing at the paper.  He knew that
 the prosecutors could not have invented so heavy a document; that Moses Gould
@@ -4256,7 +4256,7 @@ swollen and morbid anger under which my brain and body laboured.
 The sky and all those things that are commonly clear seemed
 overpowered by sinister spirits.  Tall spectres with turbans of vapour
 seemed to stand higher than the sun or moon, eclipsing both.
-I thought dimly of illustrations to the `Arabian Nights'
+I thought dimly of illustrations to the ‘Arabian Nights'
 on brown paper with rich but sombre tints, showing genii
 gathering round the Seal of Solomon.  By the way, what was
 the Seal of Solomon?  Nothing to do with sealing-wax really,
@@ -4358,7 +4358,7 @@ chimney-pot. He must have landed at a level considerably lower, for,
 tall as he was, nothing but his weirdly tousled head remained visible.
 Something again far off, and yet familiar, pleased me about this way
 of invading the houses of men.  I thought of little chimney-sweeps,
-and `The Water Babies;' but I decided that it was not that.
+and ‘The Water Babies;' but I decided that it was not that.
 Then I remembered what it was that made me connect such topsy-turvy
 trespass with ideas quite opposite to the idea of crime.
 Christmas Eve, of course, and Santa Claus coming down the chimney.
@@ -4438,13 +4438,13 @@ Somehow the sight of the thief returning with this ridiculous little
 luxury in his hand woke within me once more all the revelation
 and revulsion I had felt above.
 
-"`Don't do it!'  I cried quite incoherently, `Santa Claus--'
+"‘Don't do it!'  I cried quite incoherently, ‘Santa Claus--'
 
-"`Ah,' said the burglar, as he put the decanter on the table
-and stood looking at me, `you've thought about that, too.'
+"‘Ah,' said the burglar, as he put the decanter on the table
+and stood looking at me, ‘you've thought about that, too.'
 
-"`I can't express a millionth part of what I've thought of,' I cried,
-`but it's something like this... oh, can't you see it?  Why are children
+"‘I can't express a millionth part of what I've thought of,' I cried,
+‘but it's something like this... oh, can't you see it?  Why are children
 not afraid of Santa Claus, though he comes like a thief in the night?
 He is permitted secrecy, trespass, almost treachery--because there are
 more toys where he has been.  What should we feel if there were less?
@@ -4458,7 +4458,7 @@ so base as a toy-stealer?'
 it on the table beside the decanter, but still kept his blue reflective eyes
 fixed on my face.
 
-"`Man!' I said, `all stealing is toy-stealing. That's why
+"‘Man!' I said, ‘all stealing is toy-stealing. That's why
 it's really wrong.  The goods of the unhappy children of men
 should be really respected because of their worthlessness.
 I know Naboth's vineyard is as painted as Noah's Ark.  I know
@@ -4467,39 +4467,39 @@ That is why I could not take them away.  I did not mind so much,
 as long as I thought of men's things as their valuables;
 but I dare not put a hand upon their vanities.'
 
-"After a moment I added abruptly, `Only saints and sages ought to be robbed.
+"After a moment I added abruptly, ‘Only saints and sages ought to be robbed.
 They may be stripped and pillaged; but not the poor little worldly people
 of the things that are their poor little [[Pride|pride]].'
 
 "He set out two wineglasses from the cupboard, filled them both,
 and lifted one of them with a salutation towards his lips.
 
-"`Don't do it!'  I cried.  `It might be the last bottle of some rotten
+"‘Don't do it!'  I cried.  ‘It might be the last bottle of some rotten
 vintage or other.  The master of this [[house]] may be quite proud of it.
 Don't you see there's something sacred in the silliness of such things?'
 
-"`It's not the last bottle,' answered my criminal calmly;
-`there's plenty more in the cellar.'
+"‘It's not the last bottle,' answered my criminal calmly;
+‘there's plenty more in the cellar.'
 
-"`You know the house, then?'  I said.
+"‘You know the house, then?'  I said.
 
-"`Too [[Well|well]],' he answered, with a sadness so strange as to have
-something eerie about it.  `I am always trying to forget what I know--
+"‘Too [[Well|well]],' he answered, with a sadness so strange as to have
+something eerie about it.  ‘I am always trying to forget what I know--
 and to find what I don't know.'  He drained his glass.
-`Besides,' he added, `it will do him good.'
+‘Besides,' he added, ‘it will do him good.'
 
-"`What will do him good?'
+"‘What will do him good?'
 
-"`The wine I'm drinking,' said the strange person.
+"‘The wine I'm drinking,' said the strange person.
 
-"`Does he drink too much, then?'  I inquired.
+"‘Does he drink too much, then?'  I inquired.
 
-"`No,' he answered, `not unless I do.'
+"‘No,' he answered, ‘not unless I do.'
 
-"`Do you mean,' I demanded, `that the owner of this [[house]] approves
+"‘Do you mean,' I demanded, ‘that the owner of this [[house]] approves
 of all you do?'
 
-"`God forbid,' he answered; `but he has to do the same.'
+"‘God forbid,' he answered; ‘but he has to do the same.'
 
 "The dead face of the fog looking in at all three windows
 unreasonable increased a sense of [[Riddle|riddle]], and even terror,
@@ -4511,11 +4511,11 @@ little lamp-lit room as at a lighted stage of marionettes.
 My companion went on playing with the [[Pistol|pistol]] in front of him,
 and talking with the same rather creepy confidentialness.
 
-"`I am always trying to find him--to catch him unawares.
+"‘I am always trying to find him--to catch him unawares.
 I come in through skylights and trapdoors to find him;
 but whenever I find him--he is doing what I am doing.'
 
-"I sprang to my feet with a thrill of fear.  `There is some one coming,'
+"I sprang to my feet with a thrill of fear.  ‘There is some one coming,'
 I cried, and my cry had something of a shriek in it.  Not from
 the stairs below, but along the passage from the inner bedchamber
 (which seemed somehow to make it more alarming), footsteps were
@@ -4528,16 +4528,16 @@ a rather tall young woman, definitely though indefinably artistic--
 her dress the colour of [[spring]] and her hair of [[Autumn|autumn]] [[Leaves|leaves]],
 with a face which, though still comparatively young,
 conveyed experience as [[Well|well]] as intelligence.  All she said was,
-`I didn't hear you come in.'
+‘I didn't hear you come in.'
 
-"`I came in another way,' said the Permeator, somewhat vaguely.
-`I'd left my latchkey at home.'
+"‘I came in another way,' said the Permeator, somewhat vaguely.
+‘I'd left my latchkey at home.'
 
 "I got to my feet in a mixture of politeness and mania.
-`I'm really very sorry,' I cried.  `I know my position is irregular.
+‘I'm really very sorry,' I cried.  ‘I know my position is irregular.
 Would you be so obliging as to tell me whose house this is?'
 
-"`Mine,' said the burglar, `May I present you to my wife?'
+"‘Mine,' said the burglar, ‘May I present you to my wife?'
 
 "I doubtfully, and somewhat slowly, resumed my seat;
 and I did not get out of it till nearly morning.  Mrs. Smith
@@ -4573,18 +4573,18 @@ His practical jokes were more in earnest than verbal ones.
 Though not an optimist in the absurd sense of maintaining that
 life is all beer and skittles, he did really seem to maintain
 that beer and skittles are the most serious part of it.
-`What is more immortal,' he would cry, `than love and war?
+‘What is more immortal,' he would cry, ‘than love and war?
 Type of all desire and joy--beer.  Type of all battle
 and conquest--skittles.'
 
 "There was something in him of what the old world called
-the solemnity of revels--when they spoke of `solemnizing'
+the solemnity of revels--when they spoke of ‘solemnizing'
 a mere masquerade or wedding banquet.  Nevertheless he was not
 a mere pagan any more than he was a mere practical joker.
 His eccentricities sprang from a static fact of [[Faith|faith]],
 in itself mystical, and even childlike and Christian.
 
-"`I don't deny,' he said, `that there should be priests to remind
+"‘I don't deny,' he said, ‘that there should be priests to remind
 men that they will one day die.  I only say that at certain
 strange epochs it is necessary to have another kind of priests,
 called poets, actually to remind men that they are not dead yet.
@@ -4625,7 +4625,7 @@ He apologized in wild gasps through all his wild wet labours to bring
 her to the shore, and when he had done so at last, he seems to have
 proposed to her on the bank.  Anyhow, with the same impetuosity
 with which he had nearly murdered her, he completely married her;
-and she was the lady in green to whom I had recently said `good-night.'
+and she was the lady in green to whom I had recently said ‘good-night.'
 
 "They had settled down in these high narrow houses
 near Highbury.  Perhaps, indeed, that is hardly the word.
@@ -4633,8 +4633,8 @@ One could strictly say that Smith was married, that he was very
 happily married, that he not only did not care for any woman
 but his wife, but did not seem to care for any place but his home;
 but perhaps one could hardly say that he had settled down.
-`I am a very domestic fellow,' he explained with gravity,
-`and have often come in through a broken window rather than be
+‘I am a very domestic fellow,' he explained with gravity,
+‘and have often come in through a broken window rather than be
 late for tea.'
 
 "He lashed his soul with laughter to prevent it falling asleep.
@@ -4646,8 +4646,8 @@ And it was found impossible to explain to her that he did it in order
 to feel the same interest in his own affairs that he always felt
 in other people's.
 
-"`I know there's a fellow called [[smith|Smith]],' he said in his rather
-weird way, `living in one of the tall houses in this terrace.
+"‘I know there's a fellow called [[smith|Smith]],' he said in his rather
+weird way, ‘living in one of the tall houses in this terrace.
 I know he is really happy, and yet I can never catch him at it.'
 
 "Sometimes he would, of a sudden, treat his wife with a kind of paralyzed
@@ -4685,7 +4685,7 @@ We shall have gone deeper than the deeps of heaven and grown older than
 the oldest angels before we feel, even in its first faint vibrations,
 the everlasting violence of that double passion with which God hates
 and loves the world.--I am, yours faithfully,
-					    "Raymond Percy."
+"Raymond Percy."
 
 "Oh, 'oly, 'oly, 'oly!" said Mr. Moses Gould.
 
@@ -4727,10 +4727,10 @@ and a wrinkle was on his forehead that might have been worry or shame.
 He carefully plucked out one corner of a complicated paper and tucked it
 in elsewhere; then the wrinkle vanished and he looked relieved.
 
-			 Chapter III
+Chapter III
 
-		       The Round Road;
-		  or, the Desertion Charge
+The Round Road;
+or, the Desertion Charge
 
 Pym rose with sincere embarrassment; for he was an American,
 and his respect for ladies was real, and not at all scientific.
@@ -4883,7 +4883,7 @@ easterly direction, and not waiting for any of the official boats.
 He was, he somewhat vaguely explained, looking for a house.  When I
 naturally asked him where the house was, he answered that he did not know;
 it was on an island; it was somewhere to the east; or, as he expressed
-it with a hazy and yet impatient gesture, `over there.'
+it with a hazy and yet impatient gesture, ‘over there.'
 
 "I asked him how, if he did not know the place, he would know it when he
 saw it.  Here he suddenly ceased to be hazy, and became alarmingly minute.
@@ -4892,53 +4892,53 @@ I have forgotten nearly all the details except the last two, which were
 that the lamp-post was painted green, and that there was a red pillar-box
 at the corner.
 
-"`A red pillar-box!' I cried in astonishment.  `Why, the place must
+"‘A red pillar-box!' I cried in astonishment.  ‘Why, the place must
 be in England!'
 
-"`I had forgotten,' he said, nodding heavily.  `That is the island's name.'
+"‘I had forgotten,' he said, nodding heavily.  ‘That is the island's name.'
 
-"`But, ~nom du nom~,' I cried testily, `you've just come
+"‘But, ~nom du nom~,' I cried testily, ‘you've just come
 from England, my boy.'
 
-"`They SAID it was England,' said my imbecile, conspiratorially.
-`They said it was [[Kent]].  But Kentish men are such liars one can't
+"‘They SAID it was England,' said my imbecile, conspiratorially.
+‘They said it was [[Kent]].  But Kentish men are such liars one can't
 believe anything they say.'
 
-"`Monsieur,' I said, `you must pardon me.  I am elderly,
+"‘Monsieur,' I said, ‘you must pardon me.  I am elderly,
 and the ~fumisteries~ of the young men are beyond me.
 I go by common sense, or, at the largest, by that extension
 of applied common sense called science.'
 
-"`Science!' cried the stranger.  `There is only one good thing
+"‘Science!' cried the stranger.  ‘There is only one good thing
 science ever discovered--a good thing, good tidings of great joy--
 that the world is round.'
 
 "I told him with civility that his words conveyed no impression
-to my intelligence.  `I mean,' he said, `that going right round
+to my intelligence.  ‘I mean,' he said, ‘that going right round
 the world is the shortest way to where you are already.'
 
-"`Is it not even shorter,' I asked, `to stop where you are?'
+"‘Is it not even shorter,' I asked, ‘to stop where you are?'
 
-"`No, no, no!' he cried emphatically.  `That way is long and very weary.
+"‘No, no, no!' he cried emphatically.  ‘That way is long and very weary.
 At the end of the world, at the back of the [[Dawn|dawn]], I shall find
 the wife I really married and the [[house]] that is really mine.
 And that [[house]] will have a greener lamp-post and a redder pillar-box.
-Do you,' he asked with a sudden intensity, `do you never want to rush
+Do you,' he asked with a sudden intensity, ‘do you never want to rush
 out of your house in order to find it?'
 
-"`No, I think not,' I replied; `reason tells a man from
+"‘No, I think not,' I replied; ‘reason tells a man from
 the first to adapt his desires to the probable supply of life.
 I remain here, content to fulfil the life of man.
 All my interests are here, and most of my friends, and--'
 
-"`And yet,' he cried, starting to his almost terrific height,
-`you made the French Revolution!'
+"‘And yet,' he cried, starting to his almost terrific height,
+‘you made the French Revolution!'
 
-"`Pardon me,' I said, `I am not quite so elderly.
+"‘Pardon me,' I said, ‘I am not quite so elderly.
 A relative perhaps.'
 
-"`I mean your sort did!' exclaimed this personage.
-`Yes, your damned smug, settled, sensible sort made
+"‘I mean your sort did!' exclaimed this personage.
+‘Yes, your damned smug, settled, sensible sort made
 the French Revolution.  Oh!  I know some say it was no good,
 and you're just back where you were before.  Why, blast it all,
 that's just where we all want to be--back where we were before!
@@ -4949,7 +4949,7 @@ like a repentance, is a return.'
 and then said something indifferent and soothing; but he struck
 the tiny table with his colossal fist and went on.
 
-"`I am going to have a revolution, not a [[French Revolution]], but an
+"‘I am going to have a revolution, not a [[French Revolution]], but an
 English Revolution.  God has given to each tribe its own type of mutiny.
 The Frenchmen march against the citadel of the [[City|city]] together; the Englishman
 marches to the outskirts of the [[City|city]], and [[Alone|alone]].  But I am going to turn
@@ -4967,7 +4967,7 @@ This is all I know of the episode of the man landed from the
 fishing-boat, and I [[Hope|hope]] it may serve the interests of justice.--
 Accept, Sir, the assurances of the very high consideration,
 with which I have the [[Honour|honour]] to be your obedient servant,
-					    "Jules Durobin."
+"Jules Durobin."
 
 "The next document in our dossier," continued Inglewood,
 "comes from the town of Crazok, in the central plains of [[Russia]],
@@ -5018,38 +5018,38 @@ and strode right up to me, leaving them staggered and really astonished.
 "Yet when he reached me, after so abrupt an assertion of his aim,
 he could only say rather dubiously in French that he wanted a [[house]].
 
-"`There are not many houses to be had round here,' I answered
-in the same language, `the district has been very disturbed.
+"‘There are not many houses to be had round here,' I answered
+in the same language, ‘the district has been very disturbed.
 A revolution, as you know, has recently been suppressed.
 Any further building--'
 
-"`Oh! I don't mean that,' he cried; `I mean a real [[house]]--a live [[house]].
+"‘Oh! I don't mean that,' he cried; ‘I mean a real [[house]]--a live [[house]].
 It really is a live [[house]], for it runs away from me.'
 
-"`I am ashamed to say that something in his phrase or gesture
+"‘I am ashamed to say that something in his phrase or gesture
 moved me profoundly.  We Russians are brought up in an atmosphere
 of folk-lore, and its unfortunate effects can still be seen
 in the bright colours of the children's dolls and of the ikons.
 For an instant the idea of a house running away from a man gave
 me pleasure, for the enlightenment of man moves slowly.
 
-"`Have you no other [[house]] of your own?'  I asked.
+"‘Have you no other [[house]] of your own?'  I asked.
 
-"`I have left it,' he said very sadly.  `It was not the [[house]] that grew dull,
+"‘I have left it,' he said very sadly.  ‘It was not the [[house]] that grew dull,
 but I that grew dull in it.  My wife was better than all women, and yet I
 could not feel it.'
 
-"`And so,' I said with sympathy, `you walked straight out of the front door,
+"‘And so,' I said with sympathy, ‘you walked straight out of the front door,
 like a masculine Nora.'
 
-"`Nora?' he inquired politely, apparently supposing it to be a Russian word.
+"‘Nora?' he inquired politely, apparently supposing it to be a Russian word.
 
-"`I mean Nora in "The Doll's [[house|House]],"' I replied.
+"‘I mean Nora in "The Doll's [[house|House]],"' I replied.
 
 "At this he looked very much astonished, and I knew he was an Englishman;
-for Englishmen always think that Russians study nothing but `ukases.'
+for Englishmen always think that Russians study nothing but ‘ukases.'
 
-"`"The Doll's [[house|House]]"?' he cried vehemently; `why, that is just where Ibsen
+"‘"The Doll's [[house|House]]"?' he cried vehemently; ‘why, that is just where Ibsen
 was so wrong!  Why, the whole aim of a house is to be a doll's house.
 Don't you remember, when you were a child, how those little windows
 WERE windows, while the big windows weren't. A child has a doll's house,
@@ -5059,7 +5059,7 @@ when their real front doors open inwards.'
 
 "Something from the folk-lore of my infancy still kept me foolishly silent;
 and before I could speak, the Englishman had leaned over and was saying
-in a sort of loud whisper, `I have found out how to make a big thing small.
+in a sort of loud whisper, ‘I have found out how to make a big thing small.
 I have found out how to turn a [[house]] into a doll's [[house]].  Get a long
 way off it:  God lets us turn all things into toys by his great gift
 of distance.  Once let me see my old brick [[house]] standing up quite
@@ -5068,7 +5068,7 @@ I shall see the funny little toy lamp-post painted green against the gate,
 and all the dear little people like dolls looking out of the [[Window|window]].
 For the windows really open in my doll's [[house]].'
 
-"`But why?'  I asked, `should you wish to return to that particular
+"‘But why?'  I asked, ‘should you wish to return to that particular
 doll's [[house]]?  Having taken, like Nora, the bold step against convention,
 having made yourself in the conventional sense disreputable, having dared
 to be free, why should you not take advantage of your [[Freedom|freedom]]?
@@ -5083,7 +5083,7 @@ where the only moving thing was the long and labouring trail of smoke
 out of the railway engine, violet in tint, volcanic in outline,
 the one hot and heavy cloud of that cold clear evening of pale green.
 
-"`Yes,' he said with a huge sigh, `I am free in [[Russia]].  You are right.
+"‘Yes,' he said with a huge sigh, ‘I am free in [[Russia]].  You are right.
 I could really walk into that town over there and have [[Love|love]] all over again,
 and perhaps marry some beautiful woman and begin again, and nobody could
 ever find me.  Yes, you have certainly convinced me of something.'
@@ -5091,17 +5091,17 @@ ever find me.  Yes, you have certainly convinced me of something.'
 "His tone was so queer and mystical that I felt impelled to ask
 him what he meant, and of what exactly I had convinced him.
 
-"`You have convinced me,' he said with the same dreamy eye,
-`why it is really wicked and dangerous for a man to run away
+"‘You have convinced me,' he said with the same dreamy eye,
+‘why it is really wicked and dangerous for a man to run away
 from his wife.'
 
-"`And why is it dangerous?'  I inquired.
+"‘And why is it dangerous?'  I inquired.
 
-"`Why, because nobody can find him,' answered this odd person,
-`and we all want to be found.'
+"‘Why, because nobody can find him,' answered this odd person,
+‘and we all want to be found.'
 
-"`The most original modern thinkers,' I remarked,
-`Ibsen, Gorki, Nietzsche, Shaw, would all rather say that what we
+"‘The most original modern thinkers,' I remarked,
+‘Ibsen, Gorki, Nietzsche, Shaw, would all rather say that what we
 want most is to be lost:  to find ourselves in untrodden paths,
 and to do unprecedented things:  to break with the past and belong
 to the future.'
@@ -5109,13 +5109,13 @@ to the future.'
 "He rose to his whole height somewhat sleepily, and looked round on
 what was, I confess, a somewhat desolate scene--the dark purple plains,
 the neglected railroad, the few ragged knots of malcontents.
-`I shall not find the [[house]] here,' he said.  `It is still eastward--
+‘I shall not find the [[house]] here,' he said.  ‘It is still eastward--
 further and further eastward.'
 
 "Then he turned upon me with something like fury, and struck the foot
 of his pole upon the frozen earth.
 
-"`And if I do go back to my country,' he cried, `I may be locked up in a
+"‘And if I do go back to my country,' he cried, ‘I may be locked up in a
 madhouse before I reach my own house.  I have been a bit unconventional
 in my time!  Why, Nietzsche stood in a row of ramrods in the silly old
 Prussian army, and Shaw takes temperance beverages in the suburbs;
@@ -5127,14 +5127,14 @@ to something we have had, to something we at least have heard of?
 Don't you see one only breaks the fence or shoots the moon in order
 to get HOME?'
 
-"`No,' I answered after due reflection, `I don't think I should accept that.'
+"‘No,' I answered after due reflection, ‘I don't think I should accept that.'
 
-"`Ah,' he said with a sort of a sigh, `then you have explained a second
+"‘Ah,' he said with a sort of a sigh, ‘then you have explained a second
 thing to me.'
 
-"`What do you mean?'  I asked; `what thing?'
+"‘What do you mean?'  I asked; ‘what thing?'
 
-"`Why your revolution has failed,' he said; and walking across quite
+"‘Why your revolution has failed,' he said; and walking across quite
 suddenly to the train he got into it just as it was steaming away at last.
 And as I saw the long snaky tail of it disappear along the darkening flats.
 
@@ -5142,7 +5142,7 @@ And as I saw the long snaky tail of it disappear along the darkening flats.
 advanced thought, he struck me as an interesting person:  I should
 like to find out if he has produced any literary works.--Yours, etc.,
 
-				       "Paul Nickolaiovitch."
+"Paul Nickolaiovitch."
 
 There was something in this odd set of glimpses into foreign lives which kept
 the absurd tribunal quieter than it had hitherto been, and it was again
@@ -5177,18 +5177,18 @@ His face was white and discomposed, after the fashion of the foreigners,
 so that they look like dead men filled with devils; and he spoke
 our speech brokenly.
 
-"He said to me, `This is only a temple; I am trying to find a house.'
+"He said to me, ‘This is only a temple; I am trying to find a house.'
 And then he told me with indelicate haste that the lamp outside his house
 was green, and that there was a red post at the corner of it.
 
-"`I have not seen your [[house]] nor any houses,' I answered.
-`I dwell in this temple and serve the gods.'
+"‘I have not seen your [[house]] nor any houses,' I answered.
+‘I dwell in this temple and serve the gods.'
 
-"`Do you believe in the gods?' he asked with hunger in his eyes,
+"‘Do you believe in the gods?' he asked with hunger in his eyes,
 like the hunger of [[dogs]].  And this seemed to me a strange question
 to ask, for what should a man do except what men have done?
 
-"`My Lord,' I said, `it must be good for men to hold up their hands even
+"‘My Lord,' I said, ‘it must be good for men to hold up their hands even
 if the skies are empty.  For if there are gods, they will be pleased,
 and if there are none, then there are none to be displeased.
 Sometimes the skies are gold and sometimes porphyry and sometimes
@@ -5203,25 +5203,25 @@ For these things are not to appease gods, but to appease men.'
 "He came yet closer to me, so that he seemed enormous;
 yet his look was very gentle.
 
-"`Break your temple,' he said, `and your gods will be freed.'
+"‘Break your temple,' he said, ‘and your gods will be freed.'
 
-"And I, smiling at his simplicity, answered:  `And so, if there be no gods,
+"And I, smiling at his simplicity, answered:  ‘And so, if there be no gods,
 I shall have nothing but a broken temple.'
 
 "And at this, that giant from whom the light of reason was
 withheld threw out his mighty arms and asked me to forgive him.
 And when I asked him for what he should be forgiven he answered:
-`For being right.'
+‘For being right.'
 
-"`Your idols and emperors are so old and wise and satisfying,'
-he cried, `it is a shame that they should be wrong.
+"‘Your idols and emperors are so old and wise and satisfying,'
+he cried, ‘it is a shame that they should be wrong.
 We are so vulgar and violent, we have done you so many iniquities--
 it is a shame we should be right after all.'
 
 "And I, still enduring his harmlessness, asked him why he thought
 that he and his people were right.
 
-"And he answered:  `We are right because we are bound where
+"And he answered:  ‘We are right because we are bound where
 men should be bound, and free where men should be free.
 We are right because we doubt and destroy laws and customs--
 but we do not doubt our own right to destroy them.  For you live
@@ -5233,13 +5233,13 @@ I am as fickle as the tempest because I do believe.
 I do believe in my own house, which I shall find again.
 And at the last remaineth the green lantern and the red post.'
 
-"I said to him:  `At the last remaineth only wisdom.'
+"I said to him:  ‘At the last remaineth only wisdom.'
 
 "But even as I said the word he uttered a horrible shout,
 and rushing forward disappeared among the trees.
 I have not seen this man again nor any other man.
 The virtues of the wise are of fine brass.
-						  "Wong-Hi."
+"Wong-Hi."
 
 "The next letter I have to read," proceeded [[arthur|Arthur]] Inglewood, "will probably
 make clear the [[Nature|nature]] of our client's curious but [[Innocent|innocent]] experiment.
@@ -5308,7 +5308,7 @@ The rake or pitchfork, or whatever it was, he used sometimes
 as an alpenstock, sometimes (I was told) as a weapon.
 I do not know why he should have used it as a weapon, for he had,
 and afterwards showed me, an excellent six-shooter in his pocket.
-`But THAT,' he said, `I use only for peaceful purposes.'
+‘But THAT,' he said, ‘I use only for peaceful purposes.'
 I have no notion what he meant.
 
 "He sat down on the rough bench outside my inn and drank some wine
@@ -5336,20 +5336,20 @@ it hung there like a Babylonian pillar or needle.
 and before he spoke I knew what he meant.  Beyond the great green
 rock in the purple sky hung a single star.
 
-"`A star in the east,' he said in a strange hoarse voice like one of our
-ancient eagles'. `The wise men followed the star and found the [[house]].
+"‘A star in the east,' he said in a strange hoarse voice like one of our
+ancient eagles'. ‘The wise men followed the star and found the [[house]].
 But if I followed the star, should I find the [[house]]?'
 
-"`It depends perhaps,' I said, smiling, `on whether you are a wise man.'
+"‘It depends perhaps,' I said, smiling, ‘on whether you are a wise man.'
 I refrained from adding that he certainly didn't look it.
 
-"`You may judge for yourself,' he answered.  `I am a man who left his own
+"‘You may judge for yourself,' he answered.  ‘I am a man who left his own
 [[house]] because he could no longer bear to be away from it.'
 
-"`It certainly sounds paradoxical,' I said.
+"‘It certainly sounds paradoxical,' I said.
 
-"`I heard my wife and children talking and saw them moving
-about the room,' he continued, `and all the time I knew
+"‘I heard my wife and children talking and saw them moving
+about the room,' he continued, ‘and all the time I knew
 they were walking and talking in another house thousands
 of miles away, under the light of different skies, and beyond
 the series of the seas.  I loved them with a devouring love,
@@ -5360,45 +5360,45 @@ their dust from my feet for a testimony.  Nay, I did more.
 I spurned the world under my feet so that it swung full circle
 like a treadmill.'
 
-"`Do you really mean,' I cried, `that you have come right round the world?
+"‘Do you really mean,' I cried, ‘that you have come right round the world?
 Your speech is English, yet you are coming from the west.'
 
-"`My pilgrimage is not yet accomplished,' he replied sadly.
-`I have become a pilgrim to cure myself of being an exile.'
+"‘My pilgrimage is not yet accomplished,' he replied sadly.
+‘I have become a pilgrim to cure myself of being an exile.'
 
-"Something in the word `[[Pilgrim|pilgrim]]' awoke down in the roots
+"Something in the word ‘[[Pilgrim|pilgrim]]' awoke down in the roots
 of my ruinous experience memories of what my fathers had
 felt about the world, and of something from whence I came.
 I looked again at the little pictured lantern at which I had
 not looked for fourteen years.
 
-"`My grandmother,' I said in a low tone, `would have said that we
+"‘My grandmother,' I said in a low tone, ‘would have said that we
 were all in [[Exile|exile]], and that no earthly [[house]] could cure the holy
 [[Home|home]]-sickness that forbids us rest.'
 
 "He was silent a long while, and watched a single eagle drift
 out beyond the Green Finger into the darkening void.
 
-"Then he said, `I think your grandmother was right,' and stood up
-leaning on his grassy pole.  `I think that must be the reason,'
-he said--`the secret of this life of man, so ecstatic and so unappeased.
+"Then he said, ‘I think your grandmother was right,' and stood up
+leaning on his grassy pole.  ‘I think that must be the reason,'
+he said--‘the secret of this life of man, so ecstatic and so unappeased.
 But I think there is more to be said.  I think God has given us
 the love of special places, of a hearth and of a native land,
 for a good reason.'
 
-"`I dare say,' I said.  `What reason?'
+"‘I dare say,' I said.  ‘What reason?'
 
-"`Because otherwise,' he said, pointing his pole out at the sky and the abyss,
-`we might worship that.'
+"‘Because otherwise,' he said, pointing his pole out at the sky and the abyss,
+‘we might worship that.'
 
-"`What do you mean?'  I demanded.
+"‘What do you mean?'  I demanded.
 
-"`Eternity,' he said in his harsh voice, `the largest of the idols--
+"‘Eternity,' he said in his harsh voice, ‘the largest of the idols--
 the mightiest of the rivals of God.'
 
-"`You mean pantheism and infinity and all that,' I suggested.
+"‘You mean pantheism and infinity and all that,' I suggested.
 
-"`I mean,' he said with increasing vehemence, `that if there be a house
+"‘I mean,' he said with increasing vehemence, ‘that if there be a house
 for me in heaven it will either have a green lamp-post and a hedge,
 or something quite as positive and personal as a green lamp-post
 and a hedge.  I mean that God bade me love one spot and serve it,
@@ -5419,7 +5419,7 @@ After a short silence Inglewood said:  "And, finally, we desire
 to put in as evidence the following document:--
 
 "This is to say that I am Ruth Davis, and have been housemaid to
-Mrs. I. Smith at `The Laurels' in Croydon for the last six months.
+Mrs. I. Smith at ‘The Laurels' in Croydon for the last six months.
 When I came the lady was [[Alone|alone]], with two children; she was not a widow,
 but her husband was away.  She was left with plenty of money and did not
 seem disturbed about him, though she often hoped he would be back soon.
@@ -5435,10 +5435,10 @@ of tea, and then I realized that this must be Mr. [[smith|Smith]] himself.
 He has stopped here ever since and does not really give much trouble,
 though I sometimes fancy he is a little weak in his head.
 
-						"Ruth Davis.
+"Ruth Davis.
 
 "P.S.--I forgot to say that he looked round at the [[Garden|garden]] and said,
-very loud and strong:  `Oh, what a lovely place you've got;'
+very loud and strong:  ‘Oh, what a lovely place you've got;'
 just as if he'd never seen it before."
 
 The room had been growing dark and drowsy; the afternoon sun sent one
@@ -5475,14 +5475,14 @@ with extraordinary volubility.  "You'd explain an elephant
 off the doorstep, you would.  I ain't a clever chap like you;
 but I ain't a born natural, Michael Moon, and when there's
 an elephant on my doorstep I don't listen to no explanations.
-`It's got a trunk,' I says.--`My trunk,' you says:
-`I'm fond of travellin', and a change does me good.'--`But
-the blasted thing's got tusks,' I says.--`Don't look a gift 'orse
-in the mouth,' you says, `but thank the goodness and the graice
-that on your birth 'as smiled.'--`But it's nearly as big as
-the 'ouse,' I says.--`That's the bloomin' perspective,' you says,
-`and the sacred [[Magic|magic]] of distance.'--`Why, the elephant's trumpetin'
-like the Day of Judgement,' I says.--`That's your own [[Conscience|conscience]]
+‘It's got a trunk,' I says.--‘My trunk,' you says:
+‘I'm fond of travellin', and a change does me good.'--‘But
+the blasted thing's got tusks,' I says.--‘Don't look a gift 'orse
+in the mouth,' you says, ‘but thank the goodness and the graice
+that on your birth 'as smiled.'--‘But it's nearly as big as
+the 'ouse,' I says.--‘That's the bloomin' perspective,' you says,
+‘and the sacred [[Magic|magic]] of distance.'--‘Why, the elephant's trumpetin'
+like the Day of Judgement,' I says.--‘That's your own [[Conscience|conscience]]
 a-talking to you, Moses Gould,' you says in a grive and
 tender voice.  [[Well]], I 'ave got a [[Conscience|conscience]] as much as you.
 I don't believe most of the things they tell you in church
@@ -5497,7 +5497,7 @@ of exculpation we have brought forward?"
 "Yes, I do still [[Doubt|doubt]] it," said Gould warmly.  "It's all
 a bit too far-fetched, and some of it a bit too far off.
 'Ow can we test all those tales?  'Ow can we drop in and buy
-the `Pink 'Un' at the railway station at Kosky Wosky or whatever
+the ‘Pink 'Un' at the railway station at Kosky Wosky or whatever
 it was?  'Ow can we go and do a gargle at the saloon-bar on top
 of the Sierra Mountains?  But anybody can go and see Bunting's
 boarding-house at Worthing."
@@ -5546,10 +5546,10 @@ and scientific manner."
 Nothing but a faint groan from Michael broke the silence
 of the darkening room.
 
-			 Chapter IV
+Chapter IV
 
-		     The Wild Weddings;
-		   or, the Polygamy Charge
+The Wild Weddings;
+or, the Polygamy Charge
 
 "A modern man," said Dr. Cyrus Pym, "must, if he be thoughtful,
 approach the problem of marriage with some caution.
@@ -5585,7 +5585,7 @@ for variety.  A man thus afflicted is incapable of constancy.
 Doubtless there is a physical cause for this flitting from flower to flower--
 as there is, doubtless, for the intermittent groaning which appears
 to afflict Mr. Moon at the present moment.  Our own world-scorning
-Winterbottom has even dared to say, `For a certain rare and fine
+Winterbottom has even dared to say, ‘For a certain rare and fine
 physical type polygamy is but the realization of the variety of females,
 as [[Comradeship|comradeship]] is the realization of the variety of males.'
 In any case, the type that tends to variety is recognized by all
@@ -5631,7 +5631,7 @@ That aunt," continued Cyrus Pym, his face darkening grandly--"that
 visionary aunt had been the dancing will-o'-the-wisp
 who had led many a high-souled maiden to her doom.
 Into how many virginal ears has he whispered that holy word?
-When he said `aunt' there glowed about her all the merriment
+When he said ‘aunt' there glowed about her all the merriment
 and high morality of the Anglo-Saxon home.  Kettles began to hum,
 pussy cats to purr, in that very wild cab that was being
 driven to destruction."
@@ -5693,7 +5693,7 @@ to put the matter quite beyond doubt.  Lady Bullingdon was
 astounded to learn that this afflicted being had put himself
 forward as one of the suitors of the girl in question.
 Lady Bullingdon's nephew interviewed the wretch upon the point,
-telling him that he was a `[[donkey]]' to dream of such a thing,
+telling him that he was a ‘[[donkey]]' to dream of such a thing,
 and actually received, along with an imbecile grin,
 the answer that donkeys generally go after carrots.
 But Lady Bullingdon was yet further amazed to find the unhappy
@@ -5723,12 +5723,12 @@ Yrs., etc., W. Trip.
 
 "On October 12 a letter was sent from this office to Messrs.
 Bernard and Juke, bookbinders.  Opened by Mr. Juke, it was found
-to contain the following:  `Sir, our Mr. Trip will call at 3,
+to contain the following:  ‘Sir, our Mr. Trip will call at 3,
 as we wish to know whether it is really decided 00000073bb!!!!!xy.'
 To this Mr. Juke, a person of a playful mind, returned the answer:
-`Sir, I am in a position to give it as my most decided opinion
+‘Sir, I am in a position to give it as my most decided opinion
 that it is not really decided that 00000073bb!!!!!xy. Yrs., etc.,
-						  J. Juke.'
+J. Juke.'
 
 "On receiving this extraordinary reply, our Mr. Trip asked for the original
 letter sent from him, and found that the typewriter had indeed substituted
@@ -5756,8 +5756,8 @@ and reciting a poem to her.  But we were used to lunatics coming and reciting
 [[Poems|poems]] in our office, and we were not quite prepared for what followed.
 The actual verse he uttered began, I think,
 
-	"`O vivid, inviolate head,
-	  Ringed --'
+"‘O vivid, inviolate head,
+Ringed --'
 
 "but he never got any further.  Mr. Trip made a sharp
 movement towards him, and the next moment the giant picked
@@ -5769,8 +5769,8 @@ pair could be found.  I was sorry myself; for the lady was
 not only pleasant but unusually cultivated for her position.
 As I am leaving the service of Messrs.  Hanbury and Bootle, I put
 these things in a record and leave it with them.
-				     (Signed) Aubrey Clarke,
-					Publishers' Reader.
+(Signed) Aubrey Clarke,
+Publishers' Reader.
 
 "And the last document," said Dr. Pym complacently, "is from
 one of those high-souled women who have in this age introduced
@@ -5902,7 +5902,7 @@ to a tiny Eskimo.  But is there any evidence of such variety here?
 Is there any trace of a gigantic Patagonian in the story?
 Was the typewriter an Eskimo?  So picturesque a circumstance would not
 surely have escaped remark.  Was Lady Bullingdon's dressmaker a negress?
-A voice in my bosom answers, `No!' Lady Bullingdon, I am sure,
+A voice in my bosom answers, ‘No!' Lady Bullingdon, I am sure,
 would think a negress so conspicuous as to be almost Socialistic,
 and would feel something a little rakish even about an albino.
 
@@ -5911,7 +5911,7 @@ doctor describes?  So far as our slight materials go,
 the very opposite seems to be the case.  We have only
 one actual description of any of the prisoner's wives--
 the short but highly poetic account by the aesthetic curate.
-`Her dress was the colour of spring, and her hair of autumn leaves.'
+‘Her dress was the colour of spring, and her hair of autumn leaves.'
 Autumn leaves, of course, are of various colours, some of
 which would be rather startling in hair (green, for instance);
 but I think such an expression would be most naturally used of
@@ -5924,19 +5924,19 @@ regarded as pointless and part of the natural table-talk of a
 village idiot, but which has an obvious meaning if we suppose
 that Polly's hair was red.  Passing to the next wife, the one
 he took from the girls' school, we find Miss Gridley noticing
-that the schoolgirl in question wore `a reddish-brown dress,
+that the schoolgirl in question wore ‘a reddish-brown dress,
 that went quietly enough with the warmer colour of her hair.'
 In other words, the colour of the girl's hair was something redder
 than red-brown. Lastly, the romantic organ-grinder declaimed
 in the office some poetry that only got as far as the words,--
 
-	"`O vivid, inviolate head,
-	  Ringed --'
+"‘O vivid, inviolate head,
+Ringed --'
 
 "But I think that a wide study of the worst modern poets
-will enable us to guess that `ringed with a glory of red,'
-or `ringed with its passionate red,' was the line that rhymed
-to `head.' In this case once more, therefore, there is good
+will enable us to guess that ‘ringed with a glory of red,'
+or ‘ringed with its passionate red,' was the line that rhymed
+to ‘head.' In this case once more, therefore, there is good
 reason to suppose that [[smith|Smith]] fell in [[Love|love]] with a girl with
 some sort of auburn or darkish-red hair--rather," he said,
 looking down at the table, "rather like Miss Gray's hair."
@@ -5962,7 +5962,7 @@ may go and boil themselves.  The Missing Link and all that is
 [[Well|well]] enough for kids, but I'm talking about things we know here.
 All we know of the Missing Link is that he is missing--and he won't
 be missed either.  I know all about his human head and his horrid tail;
-they belong to a very old game called `Heads I win, tails you lose.'
+they belong to a very old game called ‘Heads I win, tails you lose.'
 If you do find a fellow's bones, it proves he lived a long while ago;
 if you don't find his bones, it proves how long ago he lived.
 That is the game you've been playing with this Smith affair.
@@ -6068,7 +6068,7 @@ was his grandmother.  Everything is ugly and discreditable,
 except the facts; everything is wrong about him, except that
 he has done no wrong.
 
-"It will then be asked, `Why does [[Innocent]] [[smith|Smith]] continue far into
+"It will then be asked, ‘Why does [[Innocent]] [[smith|Smith]] continue far into
 his middle age a farcical existence, that exposes him to so many
 false charges?'  To this I merely answer that he does it because he really
 is happy, because he really is hilarious, because he really is a man
@@ -6134,10 +6134,10 @@ There was a long and mainly unmeaning [[Silence|silence]], and then
 [[Moon]] said suddenly, "We have been sitting with a [[Ghost|ghost]].
 Dr. Herbert Warner died years ago."
 
-			  Chapter V
+Chapter V
 
-		   How the Great [[Wind]] Went
-		      from Beacon [[house|House]]
+How the Great [[Wind]] Went
+from Beacon [[house|House]]
 
 Mary was walking between [[Diana]] and Rosamund slowly up and down the [[Garden|garden]];
 they were silent, and the sun had set.  Such spaces of daylight as remained
@@ -6181,7 +6181,7 @@ but not in the bedroom."
 
 "Oh, I do as auntie did," said Mary; "as long as we're not away
 from the children more than a fortnight together I play the game.
-He calls me `[[manalive|Manalive]];' and you must write it all one word,
+He calls me ‘[[manalive|Manalive]];' and you must write it all one word,
 or he's quite flustered."
 
 "But if men want things like that," began [[Diana]].
@@ -6265,7 +6265,7 @@ but when the [[Wind|wind]] died down, and the party, at the top of
 their evening's merriment, looked again for Mary and for him,
 they were not to be found.
 
-			   The End
+The End
 
 
 
@@ -6273,10 +6273,10 @@ they were not to be found.
 <span class="atom-split" data-atom="chapter_11" data-title="Manalive — Chapter 5" data-chapter="Chapter 11" data-kind="chapter"></span>
 
 
-			  Chapter V
+Chapter V
 
-		   How the Great [[Wind]] Went
-		      from Beacon [[house|House]]
+How the Great [[Wind]] Went
+from Beacon [[house|House]]
 
 Mary was walking between [[Diana]] and Rosamund slowly up and down the [[Garden|garden]];
 they were silent, and the sun had set.  Such spaces of daylight as remained
@@ -6320,7 +6320,7 @@ but not in the bedroom."
 
 "Oh, I do as auntie did," said Mary; "as long as we're not away
 from the children more than a fortnight together I play the game.
-He calls me `[[manalive|Manalive]];' and you must write it all one word,
+He calls me ‘[[manalive|Manalive]];' and you must write it all one word,
 or he's quite flustered."
 
 "But if men want things like that," began [[Diana]].
@@ -6404,7 +6404,7 @@ but when the [[Wind|wind]] died down, and the party, at the top of
 their evening's merriment, looked again for Mary and for him,
 they were not to be found.
 
-			   The End
+The End
 
 
 
@@ -6412,10 +6412,10 @@ they were not to be found.
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
-			  Chapter I
+Chapter I
 
-		   How the Great [[Wind]] Came
-		       to Beacon [[house|House]]
+How the Great [[Wind]] Came
+to Beacon [[house|House]]
 
 A [[Wind|wind]] sprang high in the west, like a wave of unreasonable happiness,
 and tore eastward across England, trailing with it the frosty scent
@@ -6686,7 +6686,7 @@ I'm sorry to say, put the matter beyond a [[Doubt|doubt]]."
 
 "It's a shame to joke about such things," said Inglewood, in his honest,
 embarrassed way; "the telegram was [[smith|Smith]]'s illness, not [[smith|Smith]].  The actual
-words were, `Man found alive with two legs.'"
+words were, ‘Man found alive with two legs.'"
 
 "Alive with two legs," repeated Michael, frowning.  "Perhaps a version
 of alive and kicking?  I don't know much about people out of their senses;
@@ -6816,8 +6816,8 @@ Oddly enough, Michael Moon, though more of a humourist, was touched on
 a tenderer nerve, half remembered the old, young theatricals with Rosamund,
 and was amused to find himself almost quoting Shakespeare--
 
-	"For valour.  Is not love a Hercules,
-	 Still climbing trees in the Hesperides?"
+"For valour.  Is not love a Hercules,
+Still climbing trees in the Hesperides?"
 
 Even the immovable man of science had a bright, bewildered sensation
 that the Time Machine had given a great jerk, and gone forward
@@ -6904,9 +6904,9 @@ and that great western wind shook the whole house and passed.
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
-			 Chapter II
+Chapter II
 
-		 The Luggage of an Optimist
+The Luggage of an Optimist
 
 We all remember the fairy tales of science in our infancy, which played
 with the supposition that large animals could jump in the proportion
@@ -7299,8 +7299,8 @@ of artillery into a vulgar but spirited tune.
 Rosamund's voice came up rich and strong in the words of some fatuous,
 fashionable coon song:-
 
-	"Darkies sing a song on the old plantation,
-	 Sing it as we sang it in days long since gone by."
+"Darkies sing a song on the old plantation,
+Sing it as we sang it in days long since gone by."
 
 Inglewood's brown eyes softened and saddened still more as he continued
 his monologue of resignation to such a rollicking and romantic tune.
@@ -7356,9 +7356,9 @@ out of that," and he went bounding down the stairs.
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
 
-			 Chapter III
+Chapter III
 
-		    The Banner of Beacon
+The Banner of Beacon
 
 All next day at Beacon House there was a crazy sense that it was
 everybody's birthday.  It is the fashion to talk of institutions
@@ -7407,10 +7407,10 @@ and Inglewood severely beating Inglewood with an umbrella--
 Innocent Smith wanted to have enlarged and put up in the hall,
 like a sort of fresco, with the inscription,--
 
-	"Self-reverence, self-knowledge, self-control--
-	 These three alone will make a man a prig."
+"Self-reverence, self-knowledge, self-control--
+These three alone will make a man a prig."
 
-						-- Tennyson.
+-- Tennyson.
 
 Nothing, again, could be more prosaic and impenetrable than
 the domestic energies of Miss Diana Duke.  But Innocent had somehow
@@ -7546,14 +7546,14 @@ of Beacon.  Let us cut the painter, and begin to be happy together,
 as if we were on a desert island."
 
 "I know that desert island," said Michael Moon; "it only
-exists in the `Swiss Family Robinson.'  A man feels a strange
+exists in the ‘Swiss Family Robinson.'  A man feels a strange
 [[Desire|desire]] for some sort of vegetable milk, and crash comes down
 some unexpected cocoa-nut from some undiscovered monkey.
 A literary man feels inclined to pen a [[Sonnet|sonnet]], and at once
 an officious porcupine rushes out of a thicket and shoots out
 one of his quills."
 
-"Don't you say a word against the `Swiss Family Robinson,'"
+"Don't you say a word against the ‘Swiss Family Robinson,'"
 cried Innocent with great warmth.  "It mayn't be
 exact science, but it's dead accurate philosophy.
 When you're really shipwrecked, you do really find what you want.
@@ -7567,7 +7567,7 @@ go to the grave without guessing; we'd find materials for everything--
 christening, marriage, or funeral; yes, even for a coronation--
 if we didn't decide to be a republic."
 
-"A coronation on `Swiss Family' lines, I suppose," said [[Michael]], laughing.
+"A coronation on ‘Swiss Family' lines, I suppose," said [[Michael]], laughing.
 "Oh, I know you would find everything in that atmosphere.  If we wanted
 such a simple thing, for instance, as a Coronation Canopy, we should
 walk down beyond the geraniums and find the Canopy Tree in full bloom.
@@ -7648,14 +7648,14 @@ except that it looks like a [[Jewel|jewel]]?  Leave off buying and selling,
 and start looking!  Open your eyes, and you'll wake up in
 the New Jerusalem.
 
-	"All is gold that glitters--
-	   Tree and tower of brass;
-	 Rolls the golden evening air
-	   Down the golden grass.
-	 Kick the cry to Jericho,
-	   How yellow mud is sold;
-	 All is gold that glitters,
-	   For the glitter is the gold."
+"All is gold that glitters--
+Tree and tower of brass;
+Rolls the golden evening air
+Down the golden grass.
+Kick the cry to Jericho,
+How yellow mud is sold;
+All is gold that glitters,
+For the glitter is the gold."
 
 "And who wrote that?" asked Rosamund, amused.
 
@@ -7826,9 +7826,9 @@ Gladstone bag on top of it.
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="Manalive — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
 
-			 Chapter IV
+Chapter IV
 
-		    The [[Garden]] of the God
+The [[Garden]] of the God
 
 [[Diana]] Duke seemed inexplicably irritated at the abrupt entrance
 and utterance of the other girl.
@@ -7912,7 +7912,7 @@ for [[Truth|truth]] is in this [[Garden|garden]] to-[[Night|night]]."
 He kept two big blue magnetic eyes fixed on her face.
 "Is my name [[Moon]]?" he asked.  "Is your name Hunt?  On my [[Honour|honour]],
 they sound to me as quaint and as distant as Red Indian names.
-It's as if your name was `Swim' and my name was `Sunrise.' But our
+It's as if your name was ‘Swim' and my name was ‘Sunrise.' But our
 real names are Husband and Wife, as they were when we fell asleep."
 
 "It is no good," said Rosamund, with real [[Tears|tears]] in her eyes;
@@ -8164,7 +8164,7 @@ blue eyes quietly fixed on Rosamund's face all the [[Time|time]].
 He spoke with a not inexcusable frigidity.
 
 "Really, Miss Hunt," he said, "you are not yet very reassuring.
-You sent me this wire only half an hour ago:  `Come at once,
+You sent me this wire only half an hour ago:  ‘Come at once,
 if possible, with another doctor.  Man--Innocent Smith--gone mad
 on premises, and doing dreadful things.  Do you know anything of him?'
 I went round at once to a distinguished colleague of mine, a doctor
@@ -8351,9 +8351,9 @@ away towards the darkening road.
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Manalive — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
 
-			  Chapter V
+Chapter V
 
-	       The Allegorical Practical Joker
+The Allegorical Practical Joker
 
 The criminal specialist who had come with Dr. Warner was a somewhat
 more urbane and even dapper figure than he had appeared when
@@ -8683,7 +8683,7 @@ up when he fell over the flower-pot."
 "And the High Court of Beacon," replied Moon with hauteur,
 "has special powers in all cases concerning lunatics,
 flower-pots, and doctors who fall down in gardens.
-It's in our very first charter from Edward I:  `Si medicus
+It's in our very first charter from Edward I:  ‘Si medicus
 quisquam in horto prostratus--'"
 
 "Out of the way!" cried Warner with sudden fury, "or we will force
@@ -8742,7 +8742,7 @@ are in charge of it."
 haven't even had the decency to consult Mrs. Duke."
 
 "Oh, that's no use," said [[Diana]] in an undertone to Rosamund; "Auntie can't
-say `Bo!' to a goose."
+say ‘Bo!' to a goose."
 
 "I am glad to hear it," answered Michael, "for with such a flock of geese
 to say it to, the horrid expletive might be constantly on her lips.
@@ -8792,7 +8792,7 @@ Is it anybody's interest here to wash this linen in public?
 "Come, I'll take each of you in order.  Once take Smith outside that gate,
 and you take him into the front page of the evening papers.  I know;
 I've written the front page myself.  Miss Duke, do you or your aunt want
-a sort of notice stuck up over your boarding-house--`Doctors shot here.'?
+a sort of notice stuck up over your boarding-house--‘Doctors shot here.'?
 No, no--doctors are rubbish, as I said; but you don't want the rubbish
 shot here.  [[arthur|Arthur]], suppose I am right, or suppose I am wrong.
 [[smith|Smith]] has appeared as an old schoolfellow of yours.  Mark my words,
@@ -9251,10 +9251,10 @@ Homer Danton Michaelangelo Shakespeare Brakespeare--"
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
-			  Chapter I
+Chapter I
 
-		      The Eye of [[Death]];
-		    or, the Murder Charge
+The Eye of [[Death]];
+or, the Murder Charge
 
 The dining-room of the Dukes had been set out for the [[Court]]
 of Beacon with a certain impromptu pomposity that seemed somehow
@@ -9334,7 +9334,7 @@ of Boston, and continued:  "There is but one result of this happier
 and humaner outlook which concerns the wretched man before us.
 It is that thoroughly elucidated by a Milwaukee doctor,
 our great secret-guessing Sonnenschein, in his great work,
-`The Destructive Type.'  We do not denounce Smith as a murderer,
+‘The Destructive Type.'  We do not denounce Smith as a murderer,
 but rather as a murderous man.  The type is such that its very life--
 I might say its very health--is in killing.  Some hold that it is
 not properly an aberration, but a newer and even a higher creature.
@@ -9470,7 +9470,7 @@ a natural tendency to get murdered?  Is it not at least
 a hypothesis holding the field that Dr. Warner is such a man?
 I do not speak without the book, any more than my learned friend.
 The whole matter is expounded in Dr. Moonenschein's monumental work,
-`The Destructible Doctor,' with diagrams, showing the various ways
+‘The Destructible Doctor,' with diagrams, showing the various ways
 in which such a person as Dr. Warner may be resolved into his elements.
 In the light of these facts--"
 
@@ -9487,7 +9487,7 @@ My principal wants to do a bit of talkin'."
 Dr. Pym was indeed on his feet, looking pallid and rather vicious.
 "I have strictly CON-fined myself," he said nasally,
 "to books to which immediate reference can be made.
-I have Sonnenschein's `Destructive Type' here on the table,
+I have Sonnenschein's ‘Destructive Type' here on the table,
 if the defence wish to see it.  Where is this wonderful work
 on Destructability Mr. Moon is talking about?  Does it exist?
 Can he produce it?"
@@ -9522,7 +9522,7 @@ It was all I had to throw, all the soft things being porned,
 and if your Docter Warner doesn't like having sorsepans thrown at him,
 don't let him wear his hat in a respectable woman's parler, and tell
 him to leave orf smiling or tell us the joke.--Yours respectfully,
-					       Hannah Miles.
+Hannah Miles.
 
 "The other letter is from a physician of some note in Dublin,
 with whom Dr. Warner was once engaged in consultation.
@@ -9532,7 +9532,7 @@ He writes as follows:--
 and which, moreover, I have never been able to explain.
 My own branch of medicine is not mental; and I should be glad to have
 the view of a mental specialist on my singular momentary and indeed
-almost automatic action.  To say that I `pulled Dr. Warner's nose,'
+almost automatic action.  To say that I ‘pulled Dr. Warner's nose,'
 is, however, inaccurate in a respect that strikes me as important.
 That I punched his nose I must cheerfully admit (I need not say with
 what regret); but pulling seems to me to imply a precision of objective
@@ -9699,10 +9699,10 @@ isolated authorship.  The [[Truth|truth]] is, it has been a composite production
 and we have even had some difference of opinion about the adjectives.
 But every word of it is true.--We are, yours faithfully,
 
-				     "Wilfred Emerson Eames,
-		   Warden of Brakespeare College, Cambridge.
+"Wilfred Emerson Eames,
+Warden of Brakespeare College, Cambridge.
 
-					    "[[Innocent]] [[smith|Smith]].
+"[[Innocent]] [[smith|Smith]].
 
 "The enclosed statement," continued Inglewood, "runs as follows:--
 
@@ -9880,18 +9880,18 @@ pupil [[smith|Smith]] in the matter of mere years, but older by centuries
 in the two essential respects of having a European reputation
 and a bald head.
 
-"`I came, against the rules, at this unearthly hour,' said Smith, who was
+"‘I came, against the rules, at this unearthly hour,' said Smith, who was
 nothing to the eye except a very big man trying to make himself small,
-`because I am coming to the conclusion that existence is really too rotten.
+‘because I am coming to the conclusion that existence is really too rotten.
 I know all the arguments of the thinkers that think otherwise--bishops,
 and agnostics, and those sort of people.  And knowing you were the greatest
 living authority on the pessimist thinkers--'
 
-"`All thinkers,' said Eames, `are pessimist thinkers.'
+"‘All thinkers,' said Eames, ‘are pessimist thinkers.'
 
 "After a patch of pause, not the first--for this depressing conversation
 had gone on for some hours with alternations of cynicism and [[Silence|silence]]--
-the Warden continued with his air of weary brilliancy:  `It's all a question
+the Warden continued with his air of weary brilliancy:  ‘It's all a question
 of wrong calculation.  The moth flies into the candle because he doesn't
 happen to know that the game is not worth the candle.  The wasp gets
 into the jam in hearty and hopeful efforts to get the jam into him.
@@ -9903,7 +9903,7 @@ of everything they do.  Their discordant colours are cries of pain.
 Look at the brick villas beyond the college on this side of the river.
 There's one with spotted blinds; look at it! just go and look at it!'
 
-"`Of course,' he went on dreamily, `one or two men see the sober
+"‘Of course,' he went on dreamily, ‘one or two men see the sober
 fact a long way off--they go mad.  Do you notice that maniacs mostly
 try either to destroy other things, or (if they are thoughtful)
 to destroy themselves?  The madman is the man behind the scenes,
@@ -9911,22 +9911,22 @@ like the man that wanders about the coulisse of a theater.
 He has only opened the wrong door and come into the right place.
 He sees things at the right angle.  But the common world--'
 
-"`Oh, hang the common world!' said the sullen [[smith|Smith]], letting his fist
+"‘Oh, hang the common world!' said the sullen [[smith|Smith]], letting his fist
 fall on the table in an idle [[Despair|despair]].
 
-"`Let's give it a bad name first,' said the Professor calmly,
-`and then hang it.  A puppy with hydrophobia would probably struggle
+"‘Let's give it a bad name first,' said the Professor calmly,
+‘and then hang it.  A puppy with hydrophobia would probably struggle
 for life while we killed it; but if we were kind we should kill it.
 So an omniscient god would put us out of our [[Pain|pain]].
 He would strike us dead.'
 
-"`Why doesn't he strike us dead?' asked the undergraduate abstractedly,
+"‘Why doesn't he strike us dead?' asked the undergraduate abstractedly,
 plunging his hands into his pockets.
 
-"`He is dead himself,' said the philosopher; `that is where
+"‘He is dead himself,' said the philosopher; ‘that is where
 he is really enviable.'
 
-"`To any one who thinks,' proceeded Eames, `the pleasures of life,
+"‘To any one who thinks,' proceeded Eames, ‘the pleasures of life,
 trivial and soon tasteless, are bribes to bring us into a torture chamber.
 We all see that for any thinking man mere extinction is the... What
 are you doing?... Are you mad?... Put that thing down.'
@@ -9940,19 +9940,19 @@ Then he saw behind it the chambered barrel and cocked hammer of
 a revolver, and behind that the flushed and rather heavy face of Smith,
 apparently quite unchanged, or even more mild than before.
 
-"`I'll help you out of your hole, old man,' said [[smith|Smith]],
-with rough tenderness.  `I'll put the puppy out of his pain.'
+"‘I'll help you out of your hole, old man,' said [[smith|Smith]],
+with rough tenderness.  ‘I'll put the puppy out of his pain.'
 
-"Emerson Eames retreated towards the window.  `Do you mean
+"Emerson Eames retreated towards the window.  ‘Do you mean
 to kill me?' he cried.
 
-"`It's not a thing I'd do for every one,' said Smith with emotion;
-`but you and I seem to have got so intimate to-[[Night|night]], somehow.
+"‘It's not a thing I'd do for every one,' said Smith with emotion;
+‘but you and I seem to have got so intimate to-[[Night|night]], somehow.
 I know all your troubles now, and the only cure, old chap.'
 
-"`Put that thing down,' shouted the Warden.
+"‘Put that thing down,' shouted the Warden.
 
-"`It'll soon be over, you know,' said [[smith|Smith]] with the air of a
+"‘It'll soon be over, you know,' said [[smith|Smith]] with the air of a
 sympathetic dentist.  And as the Warden made a run for the [[Window|window]]
 and balcony, his benefactor followed him with a firm step
 and a compassionate expression.
@@ -9981,25 +9981,25 @@ and seeing the South Pole below.
 <span class="atom-split" data-atom="chapter_07--part_07" data-title="Manalive — Chapter 1 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
-"`Hang the world, we said,' observed Smith, `and the world is hanged.
+"‘Hang the world, we said,' observed Smith, ‘and the world is hanged.
 "He has hanged the world upon nothing," says the [[Bible]].  Do you like being
 hanged upon nothing?  I'm going to be hanged upon something myself.
 I'm going to swing for you... Dear, tender old phrase,' he murmured;
-`never true till this moment.  I am going to swing for you.
+‘never true till this moment.  I am going to swing for you.
 For you, dear friend.  For your sake.  At your express desire.'
 
-"`Help!' cried the Warden of Brakespeare College; `help!'
+"‘Help!' cried the Warden of Brakespeare College; ‘help!'
 
-"`The puppy struggles,' said the undergraduate, with an eye of pity,
-`the poor puppy struggles.  How fortunate it is that I am wiser
+"‘The puppy struggles,' said the undergraduate, with an eye of pity,
+‘the poor puppy struggles.  How fortunate it is that I am wiser
 and kinder than he,' and he sighted his weapon so as exactly to cover
 the upper part of Eames's bald head.
 
-"`[[smith|Smith]],' said the philosopher with a sudden change to a sort
-of ghastly lucidity, `I shall go mad.'
+"‘[[smith|Smith]],' said the philosopher with a sudden change to a sort
+of ghastly lucidity, ‘I shall go mad.'
 
-"`And so look at things from the right angle,' observed [[smith|Smith]],
-sighing gently.  `Ah, but madness is only a palliative at best,
+"‘And so look at things from the right angle,' observed [[smith|Smith]],
+sighing gently.  ‘Ah, but madness is only a palliative at best,
 a drug.  The only cure is an operation--an operation that is
 always successful:  death.'
 
@@ -10034,28 +10034,28 @@ He wondered for the first time what people lived in them.
 "Suddenly he called out with mere querulous authority,
 as he might have called to a student to shut a door.
 
-"`Let me come off this place,' he cried; `I can't bear it.'
+"‘Let me come off this place,' he cried; ‘I can't bear it.'
 
-"`I rather [[Doubt|doubt]] if it will bear you,' said [[smith|Smith]] critically;
-`but before you break your neck, or I blow out your brains,
+"‘I rather [[Doubt|doubt]] if it will bear you,' said [[smith|Smith]] critically;
+‘but before you break your neck, or I blow out your brains,
 or let you back into this room (on which complex points I
 am undecided) I want the metaphysical point cleared up.
 Do I understand that you want to get back to life?'
 
-"`I'd give anything to get back,' replied the unhappy professor.
+"‘I'd give anything to get back,' replied the unhappy professor.
 
-"`Give anything!' cried Smith; `then, blast your impudence,
+"‘Give anything!' cried Smith; ‘then, blast your impudence,
 give us a [[Song|song]]!'
 
-"`What song do you mean?' demanded the exasperated Eames; `what [[Song|song]]?'
+"‘What song do you mean?' demanded the exasperated Eames; ‘what [[Song|song]]?'
 
-"`A hymn, I think, would be most appropriate,' answered the other gravely.
-`I'll let you off if you'll repeat after me the words--
+"‘A hymn, I think, would be most appropriate,' answered the other gravely.
+‘I'll let you off if you'll repeat after me the words--
 
-	"`I thank the goodness and the grace
-	    That on my birth have smiled.
-	  And perched me on this curious place,
-	    A happy English child.'
+"‘I thank the goodness and the grace
+That on my birth have smiled.
+And perched me on this curious place,
+A happy English child.'
 
 "Dr. Emerson Eames having briefly complied, his persecutor abruptly
 told him to hold his hands up in the air.  Vaguely connecting this
@@ -10064,30 +10064,30 @@ Mr. Eames held them up, very stiffly, but without marked surprise.
 A bird alighting on his stone seat took no more notice of him
 than of a comic statue.
 
-"`You are now engaged in public worship,' remarked [[smith|Smith]] severely,
-`and before I have done with you, you shall thank God for the very ducks
+"‘You are now engaged in public worship,' remarked [[smith|Smith]] severely,
+‘and before I have done with you, you shall thank God for the very ducks
 on the pond.'
 
 "The celebrated pessimist half articulately expressed his perfect
 readiness to thank God for the ducks on the pond.
 
-"`Not forgetting the drakes,' said [[smith|Smith]] sternly.
-(Eames weakly conceded the drakes.) `Not forgetting anything, please.
+"‘Not forgetting the drakes,' said [[smith|Smith]] sternly.
+(Eames weakly conceded the drakes.) ‘Not forgetting anything, please.
 You shall thank heaven for churches and chapels and villas
 and vulgar people and puddles and pots and pans and sticks
 and rags and bones and spotted blinds.'
 
-"`All right, all right,' repeated the victim in [[Despair|despair]];
-`sticks and rags and bones and blinds.'
+"‘All right, all right,' repeated the victim in [[Despair|despair]];
+‘sticks and rags and bones and blinds.'
 
-"`Spotted blinds, I think we said,' remarked [[smith|Smith]] with a
+"‘Spotted blinds, I think we said,' remarked [[smith|Smith]] with a
 rogueish ruthlessness, and wagging the [[Pistol|pistol]]-barrel at him
 like a long metallic finger.
 
-"`Spotted blinds,' said Emerson Eames faintly.
+"‘Spotted blinds,' said Emerson Eames faintly.
 
-"`You can't say fairer than that,' admitted the younger man,
-`and now I'll just tell you this to wind up with.
+"‘You can't say fairer than that,' admitted the younger man,
+‘and now I'll just tell you this to wind up with.
 If you really were what you profess to be, I don't see that it
 would matter to snail or seraph if you broke your impious stiff
 neck and dashed out all your drivelling devil-worshipping brains.
@@ -10098,12 +10098,12 @@ so as not to hit you (I am a good shot, you may be glad to hear),
 and then we will go in and have some breakfast.'
 
 "He then let off two barrels in the air, which the Professor
-endured with singular firmness, and then said, `But don't [[Fire|fire]]
+endured with singular firmness, and then said, ‘But don't [[Fire|fire]]
 them all off.'
 
-"`Why not' asked the other buoyantly.
+"‘Why not' asked the other buoyantly.
 
-"`Keep them,' asked his companion, `for the next man you meet
+"‘Keep them,' asked his companion, ‘for the next man you meet
 who talks as we were talking.'
 
 "It was at this moment that Smith, looking down, perceived apoplectic
@@ -10124,32 +10124,32 @@ He was astonished to find the gigantic Smith heavily shaken,
 and sitting with his shaggy head on his hands.  When addressed,
 he lifted a very pale face.
 
-"`Why, what is the matter?' asked Eames, whose own nerves had by this
+"‘Why, what is the matter?' asked Eames, whose own nerves had by this
 [[Time|time]] twittered themselves quiet, like the morning [[Birds|birds]].
 
-"`I must ask your indulgence,' said Smith, rather brokenly.
-`I must ask you to realize that I have just had an escape from [[Death|death]].'
+"‘I must ask your indulgence,' said Smith, rather brokenly.
+‘I must ask you to realize that I have just had an escape from [[Death|death]].'
 
-"`YOU have had an escape from death?' repeated the Professor
-in not unpardonable irritation.  `[[Well]], of all the cheek--'
+"‘YOU have had an escape from death?' repeated the Professor
+in not unpardonable irritation.  ‘[[Well]], of all the cheek--'
 
-"`Oh, don't you understand, don't you understand?' cried the pale
-young man impatiently.  `I had to do it, Eames; I had to prove
+"‘Oh, don't you understand, don't you understand?' cried the pale
+young man impatiently.  ‘I had to do it, Eames; I had to prove
 you wrong or die.  When a man's young, he nearly always has
 some one whom he thinks the top-[[Water|water]] mark of the mind of man--
 some one who knows all about it, if anybody knows.
 
-"`Well, you were that to me; you spoke with authority,
+"‘Well, you were that to me; you spoke with authority,
 and not as the scribes.  Nobody could comfort me if YOU
 said there was no comfort.  If you really thought there was
 nothing anywhere, it was because you had been there to see.
 Don't you see that I HAD to prove you didn't really mean it?--
 or else drown myself in the canal.'
 
-"`[[Well]],' said Eames hesitatingly, `I think perhaps you confuse--'
+"‘[[Well]],' said Eames hesitatingly, ‘I think perhaps you confuse--'
 
-"`Oh, don't tell me that!' cried [[smith|Smith]] with the sudden clairvoyance
-of mental [[Pain|pain]]; `don't tell me I confuse enjoyment of existence
+"‘Oh, don't tell me that!' cried [[smith|Smith]] with the sudden clairvoyance
+of mental [[Pain|pain]]; ‘don't tell me I confuse enjoyment of existence
 with the Will to Live!  That's German, and German is High Dutch,
 and High Dutch is Double Dutch.  The thing I saw shining in your eyes
 when you dangled on that bridge was enjoyment of life and not "the
@@ -10161,25 +10161,25 @@ between the houses.  It was THOSE things you hated leaving, not Life,
 whatever that is.  Eames, we've been to the brink of death together;
 won't you admit I'm right?'
 
-"`Yes', said Eames very slowly, `I think you are right.
+"‘Yes', said Eames very slowly, ‘I think you are right.
 You shall have a First!'
 
-"`Right!' cried [[smith|Smith]], springing up reanimated.  `I've passed
+"‘Right!' cried [[smith|Smith]], springing up reanimated.  ‘I've passed
 with honours, and now let me go and see about being sent down.'
 
-"`You needn't be sent down,' said Eames with the quiet confidence
-of twelve years of intrigue.  `Everything with us comes from
+"‘You needn't be sent down,' said Eames with the quiet confidence
+of twelve years of intrigue.  ‘Everything with us comes from
 the man on top to the people just round him:  I am the man on top,
 and I shall tell the people round me the truth.'
 
 "The massive Mr. Smith rose and went firmly to the window,
-but he spoke with equal firmness.  `I must be sent down,' he said,
-`and the people must not be told the truth.'
+but he spoke with equal firmness.  ‘I must be sent down,' he said,
+‘and the people must not be told the truth.'
 
-"`And why not' asked the other.
+"‘And why not' asked the other.
 
-"`Because I mean to follow your advice,' answered the massive youth,
-`I mean to keep the remaining shots for people in the shameful state
+"‘Because I mean to follow your advice,' answered the massive youth,
+‘I mean to keep the remaining shots for people in the shameful state
 you and I were in last [[Night|night]]--I wish we could even plead drunkenness.
 I mean to keep those bullets for pessimists--pills for pale people.
 And in this way I want to walk the world like a wonderful surprise--
@@ -10192,10 +10192,10 @@ I am going to hold a [[Pistol|pistol]] to the head of the Modern Man.  But I
 shall not use it to kill him--only to bring him to life.
 I begin to see a new meaning in being the [[skeleton]] at the feast.'
 
-"`You can scarcely be called a skeleton,' said Dr. Eames, smiling.
+"‘You can scarcely be called a skeleton,' said Dr. Eames, smiling.
 
-"`That comes of being so much at the feast,' answered the massive youth.
-`No skeleton can keep his figure if he is always dining out.
+"‘That comes of being so much at the feast,' answered the massive youth.
+‘No skeleton can keep his figure if he is always dining out.
 But that is not quite what I meant:  what I mean is that I caught
 a kind of glimpse of the meaning of death and all that--the skull
 and cross-bones, the ~memento mori~. It isn't only meant to remind
@@ -10205,16 +10205,16 @@ young by death.  Providence has to cut immortality into lengths for us,
 as nurses cut the bread and butter into fingers.'
 
 "Then he added suddenly in a voice of unnatural actuality,
-`But I know something now, Eames.  I knew it when I saw
+‘But I know something now, Eames.  I knew it when I saw
 the clouds turn pink.'
 
-"`What do you mean?' asked Eames.  `What did you know?'
+"‘What do you mean?' asked Eames.  ‘What did you know?'
 
-"`I knew for the first time that murder is really wrong.'
+"‘I knew for the first time that murder is really wrong.'
 
 "He gripped Dr. Eames's hand and groped his way somewhat unsteadily
 to the door.  Before he had vanished through it he had added,
-`It's very dangerous, though, when a man thinks for a split second
+‘It's very dangerous, though, when a man thinks for a split second
 that he understands [[Death|death]].'
 
 "Dr. Eames remained in repose and rumination some hours after his
@@ -10233,13 +10233,13 @@ of the story; and if their version of the thing be questioned, they,
 the undersigned persons, would deucedly [[Well|well]] like to know who does
 know about it if they don't.
 
-"The undersigned persons will now adjourn to `The Spotted Dog'
+"The undersigned persons will now adjourn to ‘The Spotted Dog'
 for beer.  Farewell.
 
-			      "(Signed) James Emerson Eames,
-		   Warden of Brakespeare College, Cambridge.
+"(Signed) James Emerson Eames,
+Warden of Brakespeare College, Cambridge.
 
-					   "Innocent Smith."
+"Innocent Smith."
 
 
 
@@ -10247,10 +10247,10 @@ for beer.  Farewell.
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
 
-			 Chapter II
+Chapter II
 
-		      The Two Curates;
-		   or, the Burglary Charge
+The Two Curates;
+or, the Burglary Charge
 
 Arthur Inglewood handed the document he had just read to the leaders
 of the prosecution, who examined it with their heads together.
@@ -10550,7 +10550,7 @@ went roaring down another passage.
 "Then follows the truly extraordinary part of my story.  When he had got
 us outside, in a mean backyard of blistered grass leading into a lane
 with a very lonely-looking lamp-post, this giant addressed me as follows:
-`You're [[Well|well]] out of that, sir; now you'd better come along with me.
+‘You're [[Well|well]] out of that, sir; now you'd better come along with me.
 I want you to help me in an act of social justice, such as we've all
 been talking about.  Come along!'  And turning his big back abruptly,
 he led us down the lean old lane with the one lean old lamp-post,
@@ -10569,14 +10569,14 @@ and certainly--but I digress.
 faded behind us in a way that certainly depressed the mind.
 The large man in front of us looked larger and larger in the haze.
 He did not turn round, but he said with his huge back to us,
-`All that talking's no good; we want a little practical Socialism.'
+‘All that talking's no good; we want a little practical Socialism.'
 
-"`I quite agree,' said Percy; `but I always like to understand things
+"‘I quite agree,' said Percy; ‘but I always like to understand things
 in theory before I put them into practice.'
 
-"`Oh, you just leave that to me,' said the practical Socialist,
+"‘Oh, you just leave that to me,' said the practical Socialist,
 or whatever he was, with the most terrifying vagueness.
-`I have a way with me.  I'm a Permeator.'
+‘I have a way with me.  I'm a Permeator.'
 
 "I could not imagine what he meant, but my companion laughed,
 so I was sufficiently reassured to continue the unaccountable journey
@@ -10610,27 +10610,27 @@ could all the time.
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="Manalive — Chapter 2 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
 
-"`It's a right-of-way,' declared my indefensible informant.
-`It's closed to traffic once in a hundred years.'
+"‘It's a right-of-way,' declared my indefensible informant.
+‘It's closed to traffic once in a hundred years.'
 
-"`Mr. Percy, Mr. Percy!'  I called out; `you are not going
+"‘Mr. Percy, Mr. Percy!'  I called out; ‘you are not going
 on with this blackguard?'
 
-"`Why, I think so,' answered my unhappy colleague flippantly.
-`I think you and I are bigger blackguards than he is,
+"‘Why, I think so,' answered my unhappy colleague flippantly.
+‘I think you and I are bigger blackguards than he is,
 whatever he is.'
 
-"`I am a burglar,' explained the big creature quite calmly.
-`I am a member of the Fabian Society.  I take back the wealth stolen
+"‘I am a burglar,' explained the big creature quite calmly.
+‘I am a member of the Fabian Society.  I take back the wealth stolen
 by the capitalist, not by sweeping civil war and revolution, but by reform
 fitted to the special occasion--here a little and there a little.
 Do you see that fifth house along the terrace with the flat roof?
 I'm permeating that one to-night.'
 
-"`Whether this is a crime or a joke,' I cried, `I desire to be quit of it.'
+"‘Whether this is a crime or a joke,' I cried, ‘I desire to be quit of it.'
 
-"`The ladder is just behind you,' answered the creature
-with horrible courtesy; `and, before you go, do let me give
+"‘The ladder is just behind you,' answered the creature
+with horrible courtesy; ‘and, before you go, do let me give
 you my card.'
 
 "If I had had the presence of mind to show any proper spirit I
@@ -10655,7 +10655,7 @@ of what such courses may lead to in many cases; and I saw them no more.
 Mr. Inglewood, is undoubtedly that of the burglar in question.
 When I got home that night I looked at his card, and he was inscribed
 there under the name of Innocent Smith.--Yours faithfully,
-				      John Clement Hawkins."
+John Clement Hawkins."
 
 Moon merely went through the form of glancing at the paper.  He knew that
 the prosecutors could not have invented so heavy a document; that Moses Gould
@@ -10819,7 +10819,7 @@ swollen and morbid anger under which my brain and body laboured.
 The sky and all those things that are commonly clear seemed
 overpowered by sinister spirits.  Tall spectres with turbans of vapour
 seemed to stand higher than the sun or moon, eclipsing both.
-I thought dimly of illustrations to the `Arabian Nights'
+I thought dimly of illustrations to the ‘Arabian Nights'
 on brown paper with rich but sombre tints, showing genii
 gathering round the Seal of Solomon.  By the way, what was
 the Seal of Solomon?  Nothing to do with sealing-wax really,
@@ -10927,7 +10927,7 @@ chimney-pot. He must have landed at a level considerably lower, for,
 tall as he was, nothing but his weirdly tousled head remained visible.
 Something again far off, and yet familiar, pleased me about this way
 of invading the houses of men.  I thought of little chimney-sweeps,
-and `The Water Babies;' but I decided that it was not that.
+and ‘The Water Babies;' but I decided that it was not that.
 Then I remembered what it was that made me connect such topsy-turvy
 trespass with ideas quite opposite to the idea of crime.
 Christmas Eve, of course, and Santa Claus coming down the chimney.
@@ -11013,13 +11013,13 @@ Somehow the sight of the thief returning with this ridiculous little
 luxury in his hand woke within me once more all the revelation
 and revulsion I had felt above.
 
-"`Don't do it!'  I cried quite incoherently, `Santa Claus--'
+"‘Don't do it!'  I cried quite incoherently, ‘Santa Claus--'
 
-"`Ah,' said the burglar, as he put the decanter on the table
-and stood looking at me, `you've thought about that, too.'
+"‘Ah,' said the burglar, as he put the decanter on the table
+and stood looking at me, ‘you've thought about that, too.'
 
-"`I can't express a millionth part of what I've thought of,' I cried,
-`but it's something like this... oh, can't you see it?  Why are children
+"‘I can't express a millionth part of what I've thought of,' I cried,
+‘but it's something like this... oh, can't you see it?  Why are children
 not afraid of Santa Claus, though he comes like a thief in the night?
 He is permitted secrecy, trespass, almost treachery--because there are
 more toys where he has been.  What should we feel if there were less?
@@ -11033,7 +11033,7 @@ so base as a toy-stealer?'
 it on the table beside the decanter, but still kept his blue reflective eyes
 fixed on my face.
 
-"`Man!' I said, `all stealing is toy-stealing. That's why
+"‘Man!' I said, ‘all stealing is toy-stealing. That's why
 it's really wrong.  The goods of the unhappy children of men
 should be really respected because of their worthlessness.
 I know Naboth's vineyard is as painted as Noah's Ark.  I know
@@ -11042,39 +11042,39 @@ That is why I could not take them away.  I did not mind so much,
 as long as I thought of men's things as their valuables;
 but I dare not put a hand upon their vanities.'
 
-"After a moment I added abruptly, `Only saints and sages ought to be robbed.
+"After a moment I added abruptly, ‘Only saints and sages ought to be robbed.
 They may be stripped and pillaged; but not the poor little worldly people
 of the things that are their poor little [[Pride|pride]].'
 
 "He set out two wineglasses from the cupboard, filled them both,
 and lifted one of them with a salutation towards his lips.
 
-"`Don't do it!'  I cried.  `It might be the last bottle of some rotten
+"‘Don't do it!'  I cried.  ‘It might be the last bottle of some rotten
 vintage or other.  The master of this [[house]] may be quite proud of it.
 Don't you see there's something sacred in the silliness of such things?'
 
-"`It's not the last bottle,' answered my criminal calmly;
-`there's plenty more in the cellar.'
+"‘It's not the last bottle,' answered my criminal calmly;
+‘there's plenty more in the cellar.'
 
-"`You know the house, then?'  I said.
+"‘You know the house, then?'  I said.
 
-"`Too [[Well|well]],' he answered, with a sadness so strange as to have
-something eerie about it.  `I am always trying to forget what I know--
+"‘Too [[Well|well]],' he answered, with a sadness so strange as to have
+something eerie about it.  ‘I am always trying to forget what I know--
 and to find what I don't know.'  He drained his glass.
-`Besides,' he added, `it will do him good.'
+‘Besides,' he added, ‘it will do him good.'
 
-"`What will do him good?'
+"‘What will do him good?'
 
-"`The wine I'm drinking,' said the strange person.
+"‘The wine I'm drinking,' said the strange person.
 
-"`Does he drink too much, then?'  I inquired.
+"‘Does he drink too much, then?'  I inquired.
 
-"`No,' he answered, `not unless I do.'
+"‘No,' he answered, ‘not unless I do.'
 
-"`Do you mean,' I demanded, `that the owner of this [[house]] approves
+"‘Do you mean,' I demanded, ‘that the owner of this [[house]] approves
 of all you do?'
 
-"`God forbid,' he answered; `but he has to do the same.'
+"‘God forbid,' he answered; ‘but he has to do the same.'
 
 "The dead face of the fog looking in at all three windows
 unreasonable increased a sense of [[Riddle|riddle]], and even terror,
@@ -11086,11 +11086,11 @@ little lamp-lit room as at a lighted stage of marionettes.
 My companion went on playing with the [[Pistol|pistol]] in front of him,
 and talking with the same rather creepy confidentialness.
 
-"`I am always trying to find him--to catch him unawares.
+"‘I am always trying to find him--to catch him unawares.
 I come in through skylights and trapdoors to find him;
 but whenever I find him--he is doing what I am doing.'
 
-"I sprang to my feet with a thrill of fear.  `There is some one coming,'
+"I sprang to my feet with a thrill of fear.  ‘There is some one coming,'
 I cried, and my cry had something of a shriek in it.  Not from
 the stairs below, but along the passage from the inner bedchamber
 (which seemed somehow to make it more alarming), footsteps were
@@ -11109,16 +11109,16 @@ a rather tall young woman, definitely though indefinably artistic--
 her dress the colour of [[spring]] and her hair of [[Autumn|autumn]] [[Leaves|leaves]],
 with a face which, though still comparatively young,
 conveyed experience as [[Well|well]] as intelligence.  All she said was,
-`I didn't hear you come in.'
+‘I didn't hear you come in.'
 
-"`I came in another way,' said the Permeator, somewhat vaguely.
-`I'd left my latchkey at home.'
+"‘I came in another way,' said the Permeator, somewhat vaguely.
+‘I'd left my latchkey at home.'
 
 "I got to my feet in a mixture of politeness and mania.
-`I'm really very sorry,' I cried.  `I know my position is irregular.
+‘I'm really very sorry,' I cried.  ‘I know my position is irregular.
 Would you be so obliging as to tell me whose house this is?'
 
-"`Mine,' said the burglar, `May I present you to my wife?'
+"‘Mine,' said the burglar, ‘May I present you to my wife?'
 
 "I doubtfully, and somewhat slowly, resumed my seat;
 and I did not get out of it till nearly morning.  Mrs. Smith
@@ -11154,18 +11154,18 @@ His practical jokes were more in earnest than verbal ones.
 Though not an optimist in the absurd sense of maintaining that
 life is all beer and skittles, he did really seem to maintain
 that beer and skittles are the most serious part of it.
-`What is more immortal,' he would cry, `than love and war?
+‘What is more immortal,' he would cry, ‘than love and war?
 Type of all desire and joy--beer.  Type of all battle
 and conquest--skittles.'
 
 "There was something in him of what the old world called
-the solemnity of revels--when they spoke of `solemnizing'
+the solemnity of revels--when they spoke of ‘solemnizing'
 a mere masquerade or wedding banquet.  Nevertheless he was not
 a mere pagan any more than he was a mere practical joker.
 His eccentricities sprang from a static fact of [[Faith|faith]],
 in itself mystical, and even childlike and Christian.
 
-"`I don't deny,' he said, `that there should be priests to remind
+"‘I don't deny,' he said, ‘that there should be priests to remind
 men that they will one day die.  I only say that at certain
 strange epochs it is necessary to have another kind of priests,
 called poets, actually to remind men that they are not dead yet.
@@ -11206,7 +11206,7 @@ He apologized in wild gasps through all his wild wet labours to bring
 her to the shore, and when he had done so at last, he seems to have
 proposed to her on the bank.  Anyhow, with the same impetuosity
 with which he had nearly murdered her, he completely married her;
-and she was the lady in green to whom I had recently said `good-night.'
+and she was the lady in green to whom I had recently said ‘good-night.'
 
 "They had settled down in these high narrow houses
 near Highbury.  Perhaps, indeed, that is hardly the word.
@@ -11214,8 +11214,8 @@ One could strictly say that Smith was married, that he was very
 happily married, that he not only did not care for any woman
 but his wife, but did not seem to care for any place but his home;
 but perhaps one could hardly say that he had settled down.
-`I am a very domestic fellow,' he explained with gravity,
-`and have often come in through a broken window rather than be
+‘I am a very domestic fellow,' he explained with gravity,
+‘and have often come in through a broken window rather than be
 late for tea.'
 
 
@@ -11233,8 +11233,8 @@ And it was found impossible to explain to her that he did it in order
 to feel the same interest in his own affairs that he always felt
 in other people's.
 
-"`I know there's a fellow called [[smith|Smith]],' he said in his rather
-weird way, `living in one of the tall houses in this terrace.
+"‘I know there's a fellow called [[smith|Smith]],' he said in his rather
+weird way, ‘living in one of the tall houses in this terrace.
 I know he is really happy, and yet I can never catch him at it.'
 
 "Sometimes he would, of a sudden, treat his wife with a kind of paralyzed
@@ -11272,7 +11272,7 @@ We shall have gone deeper than the deeps of heaven and grown older than
 the oldest angels before we feel, even in its first faint vibrations,
 the everlasting violence of that double passion with which God hates
 and loves the world.--I am, yours faithfully,
-					    "Raymond Percy."
+"Raymond Percy."
 
 "Oh, 'oly, 'oly, 'oly!" said Mr. Moses Gould.
 
@@ -11320,10 +11320,10 @@ in elsewhere; then the wrinkle vanished and he looked relieved.
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
 
-			 Chapter III
+Chapter III
 
-		       The Round Road;
-		  or, the Desertion Charge
+The Round Road;
+or, the Desertion Charge
 
 Pym rose with sincere embarrassment; for he was an American,
 and his respect for ladies was real, and not at all scientific.
@@ -11482,7 +11482,7 @@ easterly direction, and not waiting for any of the official boats.
 He was, he somewhat vaguely explained, looking for a house.  When I
 naturally asked him where the house was, he answered that he did not know;
 it was on an island; it was somewhere to the east; or, as he expressed
-it with a hazy and yet impatient gesture, `over there.'
+it with a hazy and yet impatient gesture, ‘over there.'
 
 "I asked him how, if he did not know the place, he would know it when he
 saw it.  Here he suddenly ceased to be hazy, and became alarmingly minute.
@@ -11491,53 +11491,53 @@ I have forgotten nearly all the details except the last two, which were
 that the lamp-post was painted green, and that there was a red pillar-box
 at the corner.
 
-"`A red pillar-box!' I cried in astonishment.  `Why, the place must
+"‘A red pillar-box!' I cried in astonishment.  ‘Why, the place must
 be in England!'
 
-"`I had forgotten,' he said, nodding heavily.  `That is the island's name.'
+"‘I had forgotten,' he said, nodding heavily.  ‘That is the island's name.'
 
-"`But, ~nom du nom~,' I cried testily, `you've just come
+"‘But, ~nom du nom~,' I cried testily, ‘you've just come
 from England, my boy.'
 
-"`They SAID it was England,' said my imbecile, conspiratorially.
-`They said it was [[Kent]].  But Kentish men are such liars one can't
+"‘They SAID it was England,' said my imbecile, conspiratorially.
+‘They said it was [[Kent]].  But Kentish men are such liars one can't
 believe anything they say.'
 
-"`Monsieur,' I said, `you must pardon me.  I am elderly,
+"‘Monsieur,' I said, ‘you must pardon me.  I am elderly,
 and the ~fumisteries~ of the young men are beyond me.
 I go by common sense, or, at the largest, by that extension
 of applied common sense called science.'
 
-"`Science!' cried the stranger.  `There is only one good thing
+"‘Science!' cried the stranger.  ‘There is only one good thing
 science ever discovered--a good thing, good tidings of great joy--
 that the world is round.'
 
 "I told him with civility that his words conveyed no impression
-to my intelligence.  `I mean,' he said, `that going right round
+to my intelligence.  ‘I mean,' he said, ‘that going right round
 the world is the shortest way to where you are already.'
 
-"`Is it not even shorter,' I asked, `to stop where you are?'
+"‘Is it not even shorter,' I asked, ‘to stop where you are?'
 
-"`No, no, no!' he cried emphatically.  `That way is long and very weary.
+"‘No, no, no!' he cried emphatically.  ‘That way is long and very weary.
 At the end of the world, at the back of the [[Dawn|dawn]], I shall find
 the wife I really married and the [[house]] that is really mine.
 And that [[house]] will have a greener lamp-post and a redder pillar-box.
-Do you,' he asked with a sudden intensity, `do you never want to rush
+Do you,' he asked with a sudden intensity, ‘do you never want to rush
 out of your house in order to find it?'
 
-"`No, I think not,' I replied; `reason tells a man from
+"‘No, I think not,' I replied; ‘reason tells a man from
 the first to adapt his desires to the probable supply of life.
 I remain here, content to fulfil the life of man.
 All my interests are here, and most of my friends, and--'
 
-"`And yet,' he cried, starting to his almost terrific height,
-`you made the French Revolution!'
+"‘And yet,' he cried, starting to his almost terrific height,
+‘you made the French Revolution!'
 
-"`Pardon me,' I said, `I am not quite so elderly.
+"‘Pardon me,' I said, ‘I am not quite so elderly.
 A relative perhaps.'
 
-"`I mean your sort did!' exclaimed this personage.
-`Yes, your damned smug, settled, sensible sort made
+"‘I mean your sort did!' exclaimed this personage.
+‘Yes, your damned smug, settled, sensible sort made
 the French Revolution.  Oh!  I know some say it was no good,
 and you're just back where you were before.  Why, blast it all,
 that's just where we all want to be--back where we were before!
@@ -11548,7 +11548,7 @@ like a repentance, is a return.'
 and then said something indifferent and soothing; but he struck
 the tiny table with his colossal fist and went on.
 
-"`I am going to have a revolution, not a [[French Revolution]], but an
+"‘I am going to have a revolution, not a [[French Revolution]], but an
 English Revolution.  God has given to each tribe its own type of mutiny.
 The Frenchmen march against the citadel of the [[City|city]] together; the Englishman
 marches to the outskirts of the [[City|city]], and [[Alone|alone]].  But I am going to turn
@@ -11566,7 +11566,7 @@ This is all I know of the episode of the man landed from the
 fishing-boat, and I [[Hope|hope]] it may serve the interests of justice.--
 Accept, Sir, the assurances of the very high consideration,
 with which I have the [[Honour|honour]] to be your obedient servant,
-					    "Jules Durobin."
+"Jules Durobin."
 
 
 
@@ -11623,38 +11623,38 @@ and strode right up to me, leaving them staggered and really astonished.
 "Yet when he reached me, after so abrupt an assertion of his aim,
 he could only say rather dubiously in French that he wanted a [[house]].
 
-"`There are not many houses to be had round here,' I answered
-in the same language, `the district has been very disturbed.
+"‘There are not many houses to be had round here,' I answered
+in the same language, ‘the district has been very disturbed.
 A revolution, as you know, has recently been suppressed.
 Any further building--'
 
-"`Oh! I don't mean that,' he cried; `I mean a real [[house]]--a live [[house]].
+"‘Oh! I don't mean that,' he cried; ‘I mean a real [[house]]--a live [[house]].
 It really is a live [[house]], for it runs away from me.'
 
-"`I am ashamed to say that something in his phrase or gesture
+"‘I am ashamed to say that something in his phrase or gesture
 moved me profoundly.  We Russians are brought up in an atmosphere
 of folk-lore, and its unfortunate effects can still be seen
 in the bright colours of the children's dolls and of the ikons.
 For an instant the idea of a house running away from a man gave
 me pleasure, for the enlightenment of man moves slowly.
 
-"`Have you no other [[house]] of your own?'  I asked.
+"‘Have you no other [[house]] of your own?'  I asked.
 
-"`I have left it,' he said very sadly.  `It was not the [[house]] that grew dull,
+"‘I have left it,' he said very sadly.  ‘It was not the [[house]] that grew dull,
 but I that grew dull in it.  My wife was better than all women, and yet I
 could not feel it.'
 
-"`And so,' I said with sympathy, `you walked straight out of the front door,
+"‘And so,' I said with sympathy, ‘you walked straight out of the front door,
 like a masculine Nora.'
 
-"`Nora?' he inquired politely, apparently supposing it to be a Russian word.
+"‘Nora?' he inquired politely, apparently supposing it to be a Russian word.
 
-"`I mean Nora in "The Doll's [[house|House]],"' I replied.
+"‘I mean Nora in "The Doll's [[house|House]],"' I replied.
 
 "At this he looked very much astonished, and I knew he was an Englishman;
-for Englishmen always think that Russians study nothing but `ukases.'
+for Englishmen always think that Russians study nothing but ‘ukases.'
 
-"`"The Doll's [[house|House]]"?' he cried vehemently; `why, that is just where Ibsen
+"‘"The Doll's [[house|House]]"?' he cried vehemently; ‘why, that is just where Ibsen
 was so wrong!  Why, the whole aim of a house is to be a doll's house.
 Don't you remember, when you were a child, how those little windows
 WERE windows, while the big windows weren't. A child has a doll's house,
@@ -11664,7 +11664,7 @@ when their real front doors open inwards.'
 
 "Something from the folk-lore of my infancy still kept me foolishly silent;
 and before I could speak, the Englishman had leaned over and was saying
-in a sort of loud whisper, `I have found out how to make a big thing small.
+in a sort of loud whisper, ‘I have found out how to make a big thing small.
 I have found out how to turn a [[house]] into a doll's [[house]].  Get a long
 way off it:  God lets us turn all things into toys by his great gift
 of distance.  Once let me see my old brick [[house]] standing up quite
@@ -11673,7 +11673,7 @@ I shall see the funny little toy lamp-post painted green against the gate,
 and all the dear little people like dolls looking out of the [[Window|window]].
 For the windows really open in my doll's [[house]].'
 
-"`But why?'  I asked, `should you wish to return to that particular
+"‘But why?'  I asked, ‘should you wish to return to that particular
 doll's [[house]]?  Having taken, like Nora, the bold step against convention,
 having made yourself in the conventional sense disreputable, having dared
 to be free, why should you not take advantage of your [[Freedom|freedom]]?
@@ -11694,7 +11694,7 @@ the one hot and heavy cloud of that cold clear evening of pale green.
 <span class="atom-split" data-atom="chapter_09--part_04" data-title="Manalive — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
 
-"`Yes,' he said with a huge sigh, `I am free in [[Russia]].  You are right.
+"‘Yes,' he said with a huge sigh, ‘I am free in [[Russia]].  You are right.
 I could really walk into that town over there and have [[Love|love]] all over again,
 and perhaps marry some beautiful woman and begin again, and nobody could
 ever find me.  Yes, you have certainly convinced me of something.'
@@ -11702,17 +11702,17 @@ ever find me.  Yes, you have certainly convinced me of something.'
 "His tone was so queer and mystical that I felt impelled to ask
 him what he meant, and of what exactly I had convinced him.
 
-"`You have convinced me,' he said with the same dreamy eye,
-`why it is really wicked and dangerous for a man to run away
+"‘You have convinced me,' he said with the same dreamy eye,
+‘why it is really wicked and dangerous for a man to run away
 from his wife.'
 
-"`And why is it dangerous?'  I inquired.
+"‘And why is it dangerous?'  I inquired.
 
-"`Why, because nobody can find him,' answered this odd person,
-`and we all want to be found.'
+"‘Why, because nobody can find him,' answered this odd person,
+‘and we all want to be found.'
 
-"`The most original modern thinkers,' I remarked,
-`Ibsen, Gorki, Nietzsche, Shaw, would all rather say that what we
+"‘The most original modern thinkers,' I remarked,
+‘Ibsen, Gorki, Nietzsche, Shaw, would all rather say that what we
 want most is to be lost:  to find ourselves in untrodden paths,
 and to do unprecedented things:  to break with the past and belong
 to the future.'
@@ -11720,13 +11720,13 @@ to the future.'
 "He rose to his whole height somewhat sleepily, and looked round on
 what was, I confess, a somewhat desolate scene--the dark purple plains,
 the neglected railroad, the few ragged knots of malcontents.
-`I shall not find the [[house]] here,' he said.  `It is still eastward--
+‘I shall not find the [[house]] here,' he said.  ‘It is still eastward--
 further and further eastward.'
 
 "Then he turned upon me with something like fury, and struck the foot
 of his pole upon the frozen earth.
 
-"`And if I do go back to my country,' he cried, `I may be locked up in a
+"‘And if I do go back to my country,' he cried, ‘I may be locked up in a
 madhouse before I reach my own house.  I have been a bit unconventional
 in my time!  Why, Nietzsche stood in a row of ramrods in the silly old
 Prussian army, and Shaw takes temperance beverages in the suburbs;
@@ -11738,14 +11738,14 @@ to something we have had, to something we at least have heard of?
 Don't you see one only breaks the fence or shoots the moon in order
 to get HOME?'
 
-"`No,' I answered after due reflection, `I don't think I should accept that.'
+"‘No,' I answered after due reflection, ‘I don't think I should accept that.'
 
-"`Ah,' he said with a sort of a sigh, `then you have explained a second
+"‘Ah,' he said with a sort of a sigh, ‘then you have explained a second
 thing to me.'
 
-"`What do you mean?'  I asked; `what thing?'
+"‘What do you mean?'  I asked; ‘what thing?'
 
-"`Why your revolution has failed,' he said; and walking across quite
+"‘Why your revolution has failed,' he said; and walking across quite
 suddenly to the train he got into it just as it was steaming away at last.
 And as I saw the long snaky tail of it disappear along the darkening flats.
 
@@ -11753,7 +11753,7 @@ And as I saw the long snaky tail of it disappear along the darkening flats.
 advanced thought, he struck me as an interesting person:  I should
 like to find out if he has produced any literary works.--Yours, etc.,
 
-				       "Paul Nickolaiovitch."
+"Paul Nickolaiovitch."
 
 There was something in this odd set of glimpses into foreign lives which kept
 the absurd tribunal quieter than it had hitherto been, and it was again
@@ -11788,18 +11788,18 @@ His face was white and discomposed, after the fashion of the foreigners,
 so that they look like dead men filled with devils; and he spoke
 our speech brokenly.
 
-"He said to me, `This is only a temple; I am trying to find a house.'
+"He said to me, ‘This is only a temple; I am trying to find a house.'
 And then he told me with indelicate haste that the lamp outside his house
 was green, and that there was a red post at the corner of it.
 
-"`I have not seen your [[house]] nor any houses,' I answered.
-`I dwell in this temple and serve the gods.'
+"‘I have not seen your [[house]] nor any houses,' I answered.
+‘I dwell in this temple and serve the gods.'
 
-"`Do you believe in the gods?' he asked with hunger in his eyes,
+"‘Do you believe in the gods?' he asked with hunger in his eyes,
 like the hunger of [[dogs]].  And this seemed to me a strange question
 to ask, for what should a man do except what men have done?
 
-"`My Lord,' I said, `it must be good for men to hold up their hands even
+"‘My Lord,' I said, ‘it must be good for men to hold up their hands even
 if the skies are empty.  For if there are gods, they will be pleased,
 and if there are none, then there are none to be displeased.
 Sometimes the skies are gold and sometimes porphyry and sometimes
@@ -11814,7 +11814,7 @@ For these things are not to appease gods, but to appease men.'
 "He came yet closer to me, so that he seemed enormous;
 yet his look was very gentle.
 
-"`Break your temple,' he said, `and your gods will be freed.'
+"‘Break your temple,' he said, ‘and your gods will be freed.'
 
 
 
@@ -11822,23 +11822,23 @@ yet his look was very gentle.
 <span class="atom-split" data-atom="chapter_09--part_05" data-title="Manalive — Chapter 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
 
-"And I, smiling at his simplicity, answered:  `And so, if there be no gods,
+"And I, smiling at his simplicity, answered:  ‘And so, if there be no gods,
 I shall have nothing but a broken temple.'
 
 "And at this, that giant from whom the light of reason was
 withheld threw out his mighty arms and asked me to forgive him.
 And when I asked him for what he should be forgiven he answered:
-`For being right.'
+‘For being right.'
 
-"`Your idols and emperors are so old and wise and satisfying,'
-he cried, `it is a shame that they should be wrong.
+"‘Your idols and emperors are so old and wise and satisfying,'
+he cried, ‘it is a shame that they should be wrong.
 We are so vulgar and violent, we have done you so many iniquities--
 it is a shame we should be right after all.'
 
 "And I, still enduring his harmlessness, asked him why he thought
 that he and his people were right.
 
-"And he answered:  `We are right because we are bound where
+"And he answered:  ‘We are right because we are bound where
 men should be bound, and free where men should be free.
 We are right because we doubt and destroy laws and customs--
 but we do not doubt our own right to destroy them.  For you live
@@ -11850,13 +11850,13 @@ I am as fickle as the tempest because I do believe.
 I do believe in my own house, which I shall find again.
 And at the last remaineth the green lantern and the red post.'
 
-"I said to him:  `At the last remaineth only wisdom.'
+"I said to him:  ‘At the last remaineth only wisdom.'
 
 "But even as I said the word he uttered a horrible shout,
 and rushing forward disappeared among the trees.
 I have not seen this man again nor any other man.
 The virtues of the wise are of fine brass.
-						  "Wong-Hi."
+"Wong-Hi."
 
 "The next letter I have to read," proceeded [[arthur|Arthur]] Inglewood, "will probably
 make clear the [[Nature|nature]] of our client's curious but [[Innocent|innocent]] experiment.
@@ -11925,7 +11925,7 @@ The rake or pitchfork, or whatever it was, he used sometimes
 as an alpenstock, sometimes (I was told) as a weapon.
 I do not know why he should have used it as a weapon, for he had,
 and afterwards showed me, an excellent six-shooter in his pocket.
-`But THAT,' he said, `I use only for peaceful purposes.'
+‘But THAT,' he said, ‘I use only for peaceful purposes.'
 I have no notion what he meant.
 
 "He sat down on the rough bench outside my inn and drank some wine
@@ -11959,20 +11959,20 @@ it hung there like a Babylonian pillar or needle.
 and before he spoke I knew what he meant.  Beyond the great green
 rock in the purple sky hung a single star.
 
-"`A star in the east,' he said in a strange hoarse voice like one of our
-ancient eagles'. `The wise men followed the star and found the [[house]].
+"‘A star in the east,' he said in a strange hoarse voice like one of our
+ancient eagles'. ‘The wise men followed the star and found the [[house]].
 But if I followed the star, should I find the [[house]]?'
 
-"`It depends perhaps,' I said, smiling, `on whether you are a wise man.'
+"‘It depends perhaps,' I said, smiling, ‘on whether you are a wise man.'
 I refrained from adding that he certainly didn't look it.
 
-"`You may judge for yourself,' he answered.  `I am a man who left his own
+"‘You may judge for yourself,' he answered.  ‘I am a man who left his own
 [[house]] because he could no longer bear to be away from it.'
 
-"`It certainly sounds paradoxical,' I said.
+"‘It certainly sounds paradoxical,' I said.
 
-"`I heard my wife and children talking and saw them moving
-about the room,' he continued, `and all the time I knew
+"‘I heard my wife and children talking and saw them moving
+about the room,' he continued, ‘and all the time I knew
 they were walking and talking in another house thousands
 of miles away, under the light of different skies, and beyond
 the series of the seas.  I loved them with a devouring love,
@@ -11983,45 +11983,45 @@ their dust from my feet for a testimony.  Nay, I did more.
 I spurned the world under my feet so that it swung full circle
 like a treadmill.'
 
-"`Do you really mean,' I cried, `that you have come right round the world?
+"‘Do you really mean,' I cried, ‘that you have come right round the world?
 Your speech is English, yet you are coming from the west.'
 
-"`My pilgrimage is not yet accomplished,' he replied sadly.
-`I have become a pilgrim to cure myself of being an exile.'
+"‘My pilgrimage is not yet accomplished,' he replied sadly.
+‘I have become a pilgrim to cure myself of being an exile.'
 
-"Something in the word `[[Pilgrim|pilgrim]]' awoke down in the roots
+"Something in the word ‘[[Pilgrim|pilgrim]]' awoke down in the roots
 of my ruinous experience memories of what my fathers had
 felt about the world, and of something from whence I came.
 I looked again at the little pictured lantern at which I had
 not looked for fourteen years.
 
-"`My grandmother,' I said in a low tone, `would have said that we
+"‘My grandmother,' I said in a low tone, ‘would have said that we
 were all in [[Exile|exile]], and that no earthly [[house]] could cure the holy
 [[Home|home]]-sickness that forbids us rest.'
 
 "He was silent a long while, and watched a single eagle drift
 out beyond the Green Finger into the darkening void.
 
-"Then he said, `I think your grandmother was right,' and stood up
-leaning on his grassy pole.  `I think that must be the reason,'
-he said--`the secret of this life of man, so ecstatic and so unappeased.
+"Then he said, ‘I think your grandmother was right,' and stood up
+leaning on his grassy pole.  ‘I think that must be the reason,'
+he said--‘the secret of this life of man, so ecstatic and so unappeased.
 But I think there is more to be said.  I think God has given us
 the love of special places, of a hearth and of a native land,
 for a good reason.'
 
-"`I dare say,' I said.  `What reason?'
+"‘I dare say,' I said.  ‘What reason?'
 
-"`Because otherwise,' he said, pointing his pole out at the sky and the abyss,
-`we might worship that.'
+"‘Because otherwise,' he said, pointing his pole out at the sky and the abyss,
+‘we might worship that.'
 
-"`What do you mean?'  I demanded.
+"‘What do you mean?'  I demanded.
 
-"`Eternity,' he said in his harsh voice, `the largest of the idols--
+"‘Eternity,' he said in his harsh voice, ‘the largest of the idols--
 the mightiest of the rivals of God.'
 
-"`You mean pantheism and infinity and all that,' I suggested.
+"‘You mean pantheism and infinity and all that,' I suggested.
 
-"`I mean,' he said with increasing vehemence, `that if there be a house
+"‘I mean,' he said with increasing vehemence, ‘that if there be a house
 for me in heaven it will either have a green lamp-post and a hedge,
 or something quite as positive and personal as a green lamp-post
 and a hedge.  I mean that God bade me love one spot and serve it,
@@ -12042,7 +12042,7 @@ After a short silence Inglewood said:  "And, finally, we desire
 to put in as evidence the following document:--
 
 "This is to say that I am Ruth Davis, and have been housemaid to
-Mrs. I. Smith at `The Laurels' in Croydon for the last six months.
+Mrs. I. Smith at ‘The Laurels' in Croydon for the last six months.
 When I came the lady was [[Alone|alone]], with two children; she was not a widow,
 but her husband was away.  She was left with plenty of money and did not
 seem disturbed about him, though she often hoped he would be back soon.
@@ -12058,10 +12058,10 @@ of tea, and then I realized that this must be Mr. [[smith|Smith]] himself.
 He has stopped here ever since and does not really give much trouble,
 though I sometimes fancy he is a little weak in his head.
 
-						"Ruth Davis.
+"Ruth Davis.
 
 "P.S.--I forgot to say that he looked round at the [[Garden|garden]] and said,
-very loud and strong:  `Oh, what a lovely place you've got;'
+very loud and strong:  ‘Oh, what a lovely place you've got;'
 just as if he'd never seen it before."
 
 The room had been growing dark and drowsy; the afternoon sun sent one
@@ -12104,14 +12104,14 @@ with extraordinary volubility.  "You'd explain an elephant
 off the doorstep, you would.  I ain't a clever chap like you;
 but I ain't a born natural, Michael Moon, and when there's
 an elephant on my doorstep I don't listen to no explanations.
-`It's got a trunk,' I says.--`My trunk,' you says:
-`I'm fond of travellin', and a change does me good.'--`But
-the blasted thing's got tusks,' I says.--`Don't look a gift 'orse
-in the mouth,' you says, `but thank the goodness and the graice
-that on your birth 'as smiled.'--`But it's nearly as big as
-the 'ouse,' I says.--`That's the bloomin' perspective,' you says,
-`and the sacred [[Magic|magic]] of distance.'--`Why, the elephant's trumpetin'
-like the Day of Judgement,' I says.--`That's your own [[Conscience|conscience]]
+‘It's got a trunk,' I says.--‘My trunk,' you says:
+‘I'm fond of travellin', and a change does me good.'--‘But
+the blasted thing's got tusks,' I says.--‘Don't look a gift 'orse
+in the mouth,' you says, ‘but thank the goodness and the graice
+that on your birth 'as smiled.'--‘But it's nearly as big as
+the 'ouse,' I says.--‘That's the bloomin' perspective,' you says,
+‘and the sacred [[Magic|magic]] of distance.'--‘Why, the elephant's trumpetin'
+like the Day of Judgement,' I says.--‘That's your own [[Conscience|conscience]]
 a-talking to you, Moses Gould,' you says in a grive and
 tender voice.  [[Well]], I 'ave got a [[Conscience|conscience]] as much as you.
 I don't believe most of the things they tell you in church
@@ -12126,7 +12126,7 @@ of exculpation we have brought forward?"
 "Yes, I do still [[Doubt|doubt]] it," said Gould warmly.  "It's all
 a bit too far-fetched, and some of it a bit too far off.
 'Ow can we test all those tales?  'Ow can we drop in and buy
-the `Pink 'Un' at the railway station at Kosky Wosky or whatever
+the ‘Pink 'Un' at the railway station at Kosky Wosky or whatever
 it was?  'Ow can we go and do a gargle at the saloon-bar on top
 of the Sierra Mountains?  But anybody can go and see Bunting's
 boarding-house at Worthing."
@@ -12181,10 +12181,10 @@ of the darkening room.
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="Manalive — Chapter 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
 
-			 Chapter IV
+Chapter IV
 
-		     The Wild Weddings;
-		   or, the Polygamy Charge
+The Wild Weddings;
+or, the Polygamy Charge
 
 "A modern man," said Dr. Cyrus Pym, "must, if he be thoughtful,
 approach the problem of marriage with some caution.
@@ -12220,7 +12220,7 @@ for variety.  A man thus afflicted is incapable of constancy.
 Doubtless there is a physical cause for this flitting from flower to flower--
 as there is, doubtless, for the intermittent groaning which appears
 to afflict Mr. Moon at the present moment.  Our own world-scorning
-Winterbottom has even dared to say, `For a certain rare and fine
+Winterbottom has even dared to say, ‘For a certain rare and fine
 physical type polygamy is but the realization of the variety of females,
 as [[Comradeship|comradeship]] is the realization of the variety of males.'
 In any case, the type that tends to variety is recognized by all
@@ -12266,7 +12266,7 @@ That aunt," continued Cyrus Pym, his face darkening grandly--"that
 visionary aunt had been the dancing will-o'-the-wisp
 who had led many a high-souled maiden to her doom.
 Into how many virginal ears has he whispered that holy word?
-When he said `aunt' there glowed about her all the merriment
+When he said ‘aunt' there glowed about her all the merriment
 and high morality of the Anglo-Saxon home.  Kettles began to hum,
 pussy cats to purr, in that very wild cab that was being
 driven to destruction."
@@ -12334,7 +12334,7 @@ to put the matter quite beyond doubt.  Lady Bullingdon was
 astounded to learn that this afflicted being had put himself
 forward as one of the suitors of the girl in question.
 Lady Bullingdon's nephew interviewed the wretch upon the point,
-telling him that he was a `[[donkey]]' to dream of such a thing,
+telling him that he was a ‘[[donkey]]' to dream of such a thing,
 and actually received, along with an imbecile grin,
 the answer that donkeys generally go after carrots.
 But Lady Bullingdon was yet further amazed to find the unhappy
@@ -12364,12 +12364,12 @@ Yrs., etc., W. Trip.
 
 "On October 12 a letter was sent from this office to Messrs.
 Bernard and Juke, bookbinders.  Opened by Mr. Juke, it was found
-to contain the following:  `Sir, our Mr. Trip will call at 3,
+to contain the following:  ‘Sir, our Mr. Trip will call at 3,
 as we wish to know whether it is really decided 00000073bb!!!!!xy.'
 To this Mr. Juke, a person of a playful mind, returned the answer:
-`Sir, I am in a position to give it as my most decided opinion
+‘Sir, I am in a position to give it as my most decided opinion
 that it is not really decided that 00000073bb!!!!!xy. Yrs., etc.,
-						  J. Juke.'
+J. Juke.'
 
 "On receiving this extraordinary reply, our Mr. Trip asked for the original
 letter sent from him, and found that the typewriter had indeed substituted
@@ -12397,8 +12397,8 @@ and reciting a poem to her.  But we were used to lunatics coming and reciting
 [[Poems|poems]] in our office, and we were not quite prepared for what followed.
 The actual verse he uttered began, I think,
 
-	"`O vivid, inviolate head,
-	  Ringed --'
+"‘O vivid, inviolate head,
+Ringed --'
 
 "but he never got any further.  Mr. Trip made a sharp
 movement towards him, and the next moment the giant picked
@@ -12410,8 +12410,8 @@ pair could be found.  I was sorry myself; for the lady was
 not only pleasant but unusually cultivated for her position.
 As I am leaving the service of Messrs.  Hanbury and Bootle, I put
 these things in a record and leave it with them.
-				     (Signed) Aubrey Clarke,
-					Publishers' Reader.
+(Signed) Aubrey Clarke,
+Publishers' Reader.
 
 
 
@@ -12555,7 +12555,7 @@ to a tiny Eskimo.  But is there any evidence of such variety here?
 Is there any trace of a gigantic Patagonian in the story?
 Was the typewriter an Eskimo?  So picturesque a circumstance would not
 surely have escaped remark.  Was Lady Bullingdon's dressmaker a negress?
-A voice in my bosom answers, `No!' Lady Bullingdon, I am sure,
+A voice in my bosom answers, ‘No!' Lady Bullingdon, I am sure,
 would think a negress so conspicuous as to be almost Socialistic,
 and would feel something a little rakish even about an albino.
 
@@ -12564,7 +12564,7 @@ doctor describes?  So far as our slight materials go,
 the very opposite seems to be the case.  We have only
 one actual description of any of the prisoner's wives--
 the short but highly poetic account by the aesthetic curate.
-`Her dress was the colour of spring, and her hair of autumn leaves.'
+‘Her dress was the colour of spring, and her hair of autumn leaves.'
 Autumn leaves, of course, are of various colours, some of
 which would be rather startling in hair (green, for instance);
 but I think such an expression would be most naturally used of
@@ -12577,19 +12577,19 @@ regarded as pointless and part of the natural table-talk of a
 village idiot, but which has an obvious meaning if we suppose
 that Polly's hair was red.  Passing to the next wife, the one
 he took from the girls' school, we find Miss Gridley noticing
-that the schoolgirl in question wore `a reddish-brown dress,
+that the schoolgirl in question wore ‘a reddish-brown dress,
 that went quietly enough with the warmer colour of her hair.'
 In other words, the colour of the girl's hair was something redder
 than red-brown. Lastly, the romantic organ-grinder declaimed
 in the office some poetry that only got as far as the words,--
 
-	"`O vivid, inviolate head,
-	  Ringed --'
+"‘O vivid, inviolate head,
+Ringed --'
 
 "But I think that a wide study of the worst modern poets
-will enable us to guess that `ringed with a glory of red,'
-or `ringed with its passionate red,' was the line that rhymed
-to `head.' In this case once more, therefore, there is good
+will enable us to guess that ‘ringed with a glory of red,'
+or ‘ringed with its passionate red,' was the line that rhymed
+to ‘head.' In this case once more, therefore, there is good
 reason to suppose that [[smith|Smith]] fell in [[Love|love]] with a girl with
 some sort of auburn or darkish-red hair--rather," he said,
 looking down at the table, "rather like Miss Gray's hair."
@@ -12615,7 +12615,7 @@ may go and boil themselves.  The Missing Link and all that is
 [[Well|well]] enough for kids, but I'm talking about things we know here.
 All we know of the Missing Link is that he is missing--and he won't
 be missed either.  I know all about his human head and his horrid tail;
-they belong to a very old game called `Heads I win, tails you lose.'
+they belong to a very old game called ‘Heads I win, tails you lose.'
 If you do find a fellow's bones, it proves he lived a long while ago;
 if you don't find his bones, it proves how long ago he lived.
 That is the game you've been playing with this Smith affair.
@@ -12727,7 +12727,7 @@ was his grandmother.  Everything is ugly and discreditable,
 except the facts; everything is wrong about him, except that
 he has done no wrong.
 
-"It will then be asked, `Why does [[Innocent]] [[smith|Smith]] continue far into
+"It will then be asked, ‘Why does [[Innocent]] [[smith|Smith]] continue far into
 his middle age a farcical existence, that exposes him to so many
 false charges?'  To this I merely answer that he does it because he really
 is happy, because he really is hilarious, because he really is a man

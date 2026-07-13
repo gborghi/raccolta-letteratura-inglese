@@ -29,16 +29,16 @@ CONTENTS
 
 CHAPTER
 
-   I "THE MYTH OF STEVENSON"
-  II IN THE COUNTRY OF SKELT
- III YOUTH AND EDINBURGH
-  IV THE REACTION TO [[Romance|ROMANCE]]
-   V THE SCOTTISH STORIES
-  VI THE STYLE OF STEVENSON
- VII EXPERIMENT AND RANGE
+I "THE MYTH OF STEVENSON"
+II IN THE COUNTRY OF SKELT
+III YOUTH AND EDINBURGH
+IV THE REACTION TO [[Romance|ROMANCE]]
+V THE SCOTTISH STORIES
+VI THE STYLE OF STEVENSON
+VII EXPERIMENT AND RANGE
 VIII THE LIMITS OF A CRAFT
-  IX THE [[philosophy|PHILOSOPHY]] OF GESTURE
-   X THE MORAL OF STEVENSON
+IX THE [[philosophy|PHILOSOPHY]] OF GESTURE
+X THE MORAL OF STEVENSON
 
 * * * *
 
@@ -1355,10 +1355,10 @@ one of the great historical documents of this [[history]].
 No image could make them bow their heads with more hopelessness
 and helplessness of [[Despair|despair]] than that famous one:
 
-  "We are none other than a moving row
-   Of [[Magic|magic]] [[Shadow|shadow]]-shapes that come and go
-   Around the sun-illumined lantern held
-   At midnight by the Master of the show."
+"We are none other than a moving row
+Of [[Magic|magic]] [[Shadow|shadow]]-shapes that come and go
+Around the sun-illumined lantern held
+At midnight by the Master of the show."
 
 And no image could make the infant Stevenson kick his little legs
 with keener joy.  His answer, in effect, to the [[philosophy]] of the
@@ -3900,16 +3900,16 @@ THE END
 
 CHAPTER
 
-   I "THE MYTH OF STEVENSON"
-  II IN THE COUNTRY OF SKELT
- III YOUTH AND EDINBURGH
-  IV THE REACTION TO [[Romance|ROMANCE]]
-   V THE SCOTTISH STORIES
-  VI THE STYLE OF STEVENSON
- VII EXPERIMENT AND RANGE
+I "THE MYTH OF STEVENSON"
+II IN THE COUNTRY OF SKELT
+III YOUTH AND EDINBURGH
+IV THE REACTION TO [[Romance|ROMANCE]]
+V THE SCOTTISH STORIES
+VI THE STYLE OF STEVENSON
+VII EXPERIMENT AND RANGE
 VIII THE LIMITS OF A CRAFT
-  IX THE [[philosophy|PHILOSOPHY]] OF GESTURE
-   X THE MORAL OF STEVENSON
+IX THE [[philosophy|PHILOSOPHY]] OF GESTURE
+X THE MORAL OF STEVENSON
 
 * * * *
 
@@ -3918,16 +3918,16 @@ VIII THE LIMITS OF A CRAFT
 
 CAPITOLO
 
-   I "IL MITO DI STEVENSON"
-  II NEL PAESE DI SKELT
- III GIOVINEZZA ED EDIMBURGO
-  IV LA REAZIONE VERSO IL [[Romance|ROMANZESCO]]
-   V I RACCONTI SCOZZESI
-  VI LO STILE DI STEVENSON
- VII SPERIMENTAZIONE E VARIETÀ
+I "IL MITO DI STEVENSON"
+II NEL PAESE DI SKELT
+III GIOVINEZZA ED EDIMBURGO
+IV LA REAZIONE VERSO IL [[Romance|ROMANZESCO]]
+V I RACCONTI SCOZZESI
+VI LO STILE DI STEVENSON
+VII SPERIMENTAZIONE E VARIETÀ
 VIII I LIMITI DI UN MESTIERE
-  IX LA [[philosophy|FILOSOFIA]] DEL GESTO
-   X LA MORALE DI STEVENSON
+IX LA [[philosophy|FILOSOFIA]] DEL GESTO
+X LA MORALE DI STEVENSON
 
 * * * *
 
@@ -5315,10 +5315,10 @@ one of the great historical documents of this [[history]].
 No image could make them bow their heads with more hopelessness
 and helplessness of [[Despair|despair]] than that famous one:
 
-  "We are none other than a moving row
-   Of [[Magic|magic]] [[Shadow|shadow]]-shapes that come and go
-   Around the sun-illumined lantern held
-   At midnight by the Master of the show."
+"We are none other than a moving row
+Of [[Magic|magic]] [[Shadow|shadow]]-shapes that come and go
+Around the sun-illumined lantern held
+At midnight by the Master of the show."
 
 And no image could make the infant Stevenson kick his little legs
 with keener joy.  His answer, in effect, to the [[philosophy]] of the

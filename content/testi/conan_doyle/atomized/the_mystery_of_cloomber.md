@@ -1135,7 +1135,7 @@ This novel was first published in 1890 by Chatto and Windus. It tells the story 
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_hegira_of_the_wests_from_e" data-title="THE MYSTERY OF CLOOMBER — Chapter 1: THE HEGIRA OF THE WESTS FROM EDINBURGH" data-chapter="Chapter 01 THE HEGIRA OF THE WESTS FROM E" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_hegira_of_the_wests_from_e" data-title="THE MYSTERY OF CLOOMBER — Chapter 1: THE HEGIRA OF THE WESTS FROM EDINBURGH" data-chapter="THE HEGIRA OF THE WESTS FROM E" data-kind="chapter"></span>
 
 
 CHAPTER I. THE HEGIRA OF THE WESTS FROM EDINBURGH
@@ -1157,7 +1157,7 @@ Our mother had been dead for some years, so that there were only myself, my fath
 
 
 
-<span class="atom-split" data-atom="chapter_03_of_a_young_man_with_a_grey_hea" data-title="THE MYSTERY OF CLOOMBER — Chapter 4: OF A YOUNG MAN WITH A GREY HEAD" data-chapter="Chapter 03 OF A YOUNG MAN WITH A GREY HEA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_of_a_young_man_with_a_grey_hea" data-title="THE MYSTERY OF CLOOMBER — Chapter 4: OF A YOUNG MAN WITH A GREY HEAD" data-chapter="OF A YOUNG MAN WITH A GREY HEA" data-kind="chapter"></span>
 
 
 CHAPTER IV. OF A YOUNG MAN WITH A GREY HEAD
@@ -1205,7 +1205,7 @@ The lonely, isolated Hall, and the strange, impending catastrophe which hung ove
 
 
 
-<span class="atom-split" data-atom="chapter_04_how_four_of_us_came_to_be_unde" data-title="THE MYSTERY OF CLOOMBER — Chapter 5: HOW FOUR OF US CAME TO BE UNDER THE SHADOW OF CLOOMBER" data-chapter="Chapter 04 HOW FOUR OF US CAME TO BE UNDE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_how_four_of_us_came_to_be_unde" data-title="THE MYSTERY OF CLOOMBER — Chapter 5: HOW FOUR OF US CAME TO BE UNDER THE SHADOW OF CLOOMBER" data-chapter="HOW FOUR OF US CAME TO BE UNDE" data-kind="chapter"></span>
 
 
 CHAPTER V. HOW FOUR OF US CAME TO BE UNDER THE SHADOW OF CLOOMBER
@@ -1287,7 +1287,7 @@ Following the direction of her gaze, I felt a sudden thrill of fear pass through
 
 
 
-<span class="atom-split" data-atom="chapter_05_how_i_came_to_be_enlisted_as_o" data-title="THE MYSTERY OF CLOOMBER — Chapter 6: HOW I CAME TO BE ENLISTED AS ONE OF THE GARRISON OF CLOOMBER" data-chapter="Chapter 05 HOW I CAME TO BE ENLISTED AS O" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_how_i_came_to_be_enlisted_as_o" data-title="THE MYSTERY OF CLOOMBER — Chapter 6: HOW I CAME TO BE ENLISTED AS ONE OF THE GARRISON OF CLOOMBER" data-chapter="HOW I CAME TO BE ENLISTED AS O" data-kind="chapter"></span>
 
 
 CHAPTER VI. HOW I CAME TO BE ENLISTED AS ONE OF THE GARRISON OF CLOOMBER
@@ -1328,7 +1328,7 @@ I held up my hand in the darkness before I turned to sleep that night, and I swo
 
 
 
-<span class="atom-split" data-atom="chapter_06_of_corporal_rufus_smith_and_hi" data-title="THE MYSTERY OF CLOOMBER — Chapter 7: OF CORPORAL RUFUS SMITH AND HIS COMING TO CLOOMBER" data-chapter="Chapter 06 OF CORPORAL RUFUS SMITH AND HI" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_of_corporal_rufus_smith_and_hi" data-title="THE MYSTERY OF CLOOMBER — Chapter 7: OF CORPORAL RUFUS SMITH AND HIS COMING TO CLOOMBER" data-chapter="OF CORPORAL RUFUS SMITH AND HI" data-kind="chapter"></span>
 
 
 CHAPTER VII. OF CORPORAL RUFUS SMITH AND HIS COMING TO CLOOMBER
@@ -1421,7 +1421,7 @@ Israel Stakes, the coachman, proved to be unable to read or write, but Mr. Mathe
 
 
 
-<span class="atom-split" data-atom="chapter_07_statement_of_israel_stakes" data-title="THE MYSTERY OF CLOOMBER — Chapter 8: STATEMENT OF ISRAEL STAKES" data-chapter="Chapter 07 STATEMENT OF ISRAEL STAKES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_statement_of_israel_stakes" data-title="THE MYSTERY OF CLOOMBER — Chapter 8: STATEMENT OF ISRAEL STAKES" data-chapter="STATEMENT OF ISRAEL STAKES" data-kind="chapter"></span>
 
 
 CHAPTER VIII. STATEMENT OF ISRAEL STAKES
@@ -1510,7 +1510,7 @@ I’ve tauld ye a’ aboot it noo, and I havena a word tae add or tae withdraw. 
 
 
 
-<span class="atom-split" data-atom="chapter_08_narrative_of_john_easterling_f" data-title="THE MYSTERY OF CLOOMBER — Chapter 9: NARRATIVE OF JOHN EASTERLING, F.R.C.P.EDIN" data-chapter="Chapter 08 NARRATIVE OF JOHN EASTERLING F" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_narrative_of_john_easterling_f" data-title="THE MYSTERY OF CLOOMBER — Chapter 9: NARRATIVE OF JOHN EASTERLING, F.R.C.P.EDIN" data-chapter="NARRATIVE OF JOHN EASTERLING F" data-kind="chapter"></span>
 
 
 CHAPTER IX. NARRATIVE OF JOHN EASTERLING, F.R.C.P.EDIN.
@@ -1570,7 +1570,7 @@ I observed, however, during our single interview, that his reflexes were feeble,
 
 
 
-<span class="atom-split" data-atom="chapter_09_of_the_letter_which_came_from" data-title="THE MYSTERY OF CLOOMBER — Chapter 10: OF THE LETTER WHICH CAME FROM THE HALL" data-chapter="Chapter 09 OF THE LETTER WHICH CAME FROM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_of_the_letter_which_came_from" data-title="THE MYSTERY OF CLOOMBER — Chapter 10: OF THE LETTER WHICH CAME FROM THE HALL" data-chapter="OF THE LETTER WHICH CAME FROM" data-kind="chapter"></span>
 
 
 CHAPTER X. OF THE LETTER WHICH CAME FROM THE HALL
@@ -1592,7 +1592,7 @@ Those few intervening days, however, would, we feared, be dreary, long ones. And
 
 
 
-<span class="atom-split" data-atom="chapter_10_of_the_casting_away_of_the_bar" data-title="THE MYSTERY OF CLOOMBER — Chapter 11: OF THE CASTING AWAY OF THE BARQUE “BELINDA”" data-chapter="Chapter 10 OF THE CASTING AWAY OF THE BAR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_of_the_casting_away_of_the_bar" data-title="THE MYSTERY OF CLOOMBER — Chapter 11: OF THE CASTING AWAY OF THE BARQUE “BELINDA”" data-chapter="OF THE CASTING AWAY OF THE BAR" data-kind="chapter"></span>
 
 
 CHAPTER XI. OF THE CASTING AWAY OF THE BARQUE “BELINDA”
@@ -1705,7 +1705,7 @@ So saying I stumbled off to my bedroom, and throwing myself upon the couch was s
 
 
 
-<span class="atom-split" data-atom="chapter_11_of_the_three_foreign_men_upon" data-title="THE MYSTERY OF CLOOMBER — Chapter 12: OF THE THREE FOREIGN MEN UPON THE COAST" data-chapter="Chapter 11 OF THE THREE FOREIGN MEN UPON" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_of_the_three_foreign_men_upon" data-title="THE MYSTERY OF CLOOMBER — Chapter 12: OF THE THREE FOREIGN MEN UPON THE COAST" data-chapter="OF THE THREE FOREIGN MEN UPON" data-kind="chapter"></span>
 
 
 CHAPTER XII. OF THE THREE FOREIGN MEN UPON THE COAST
@@ -1766,7 +1766,7 @@ The wagonette had just finished loading up when we arrived, and the chief places
 
 
 
-<span class="atom-split" data-atom="chapter_12_in_which_i_see_that_which_has" data-title="THE MYSTERY OF CLOOMBER — Chapter 13: IN WHICH I SEE THAT WHICH HAS BEEN SEEN BY FEW" data-chapter="Chapter 12 IN WHICH I SEE THAT WHICH HAS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_in_which_i_see_that_which_has" data-title="THE MYSTERY OF CLOOMBER — Chapter 13: IN WHICH I SEE THAT WHICH HAS BEEN SEEN BY FEW" data-chapter="IN WHICH I SEE THAT WHICH HAS" data-kind="chapter"></span>
 
 
 CHAPTER XIII. IN WHICH I SEE THAT WHICH HAS BEEN SEEN BY FEW
@@ -1885,7 +1885,7 @@ At last, however, the tea was brought, and the tea was taken, the curtains were 
 
 
 
-<span class="atom-split" data-atom="chapter_13_of_the_visitor_who_ran_down_th" data-title="THE MYSTERY OF CLOOMBER — Chapter 14: OF THE VISITOR WHO RAN DOWN THE ROAD IN THE NIGHT-TIME" data-chapter="Chapter 13 OF THE VISITOR WHO RAN DOWN TH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_of_the_visitor_who_ran_down_th" data-title="THE MYSTERY OF CLOOMBER — Chapter 14: OF THE VISITOR WHO RAN DOWN THE ROAD IN THE NIGHT-TIME" data-chapter="OF THE VISITOR WHO RAN DOWN TH" data-kind="chapter"></span>
 
 
 CHAPTER XIV. OF THE VISITOR WHO RAN DOWN THE ROAD IN THE NIGHT-TIME
@@ -1985,7 +1985,7 @@ I have the narrative lying before me now, and I copy it verbatim. If it contains
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_day_book_of_john_berthier" data-title="THE MYSTERY OF CLOOMBER — Chapter 15: THE DAY-BOOK OF JOHN BERTHIER HEATHERSTONE" data-chapter="Chapter 14 THE DAY BOOK OF JOHN BERTHIER" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_the_day_book_of_john_berthier" data-title="THE MYSTERY OF CLOOMBER — Chapter 15: THE DAY-BOOK OF JOHN BERTHIER HEATHERSTONE" data-chapter="THE DAY BOOK OF JOHN BERTHIER" data-kind="chapter"></span>
 
 
 CHAPTER XV. THE DAY-BOOK OF JOHN BERTHIER HEATHERSTONE
@@ -2105,7 +2105,7 @@ It was going on for dawn by the time that I had finished this extraordinary narr
 
 
 
-<span class="atom-split" data-atom="chapter_15_at_the_hole_of_cree" data-title="THE MYSTERY OF CLOOMBER — Chapter 16: AT THE HOLE OF CREE" data-chapter="Chapter 15 AT THE HOLE OF CREE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_at_the_hole_of_cree" data-title="THE MYSTERY OF CLOOMBER — Chapter 16: AT THE HOLE OF CREE" data-chapter="AT THE HOLE OF CREE" data-kind="chapter"></span>
 
 
 CHAPTER XVI. AT THE HOLE OF CREE
@@ -2199,7 +2199,7 @@ This novel was first published in 1890 by Chatto and Windus. It tells the story 
 
 
 
-<span class="atom-split" data-atom="chapter_02_of_the_strange_manner_in_which--part_01" data-title="THE MYSTERY OF CLOOMBER — Chapter 2: OF THE STRANGE MANNER IN WHICH A TENANT CAME TO CLOOMBER (part 1)" data-chapter="Chapter 02 OF THE STRANGE MANNER IN WHICH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_of_the_strange_manner_in_which--part_01" data-title="THE MYSTERY OF CLOOMBER — Chapter 2: OF THE STRANGE MANNER IN WHICH A TENANT CAME TO CLOOMBER (part 1)" data-chapter="OF THE STRANGE MANNER IN WHICH" data-kind="excerpt"></span>
 
 
 CHAPTER II. OF THE STRANGE MANNER IN WHICH A TENANT CAME TO CLOOMBER
@@ -2251,7 +2251,7 @@ I bade my companion good-night, and struck off across the moors for the cheery, 
 
 
 
-<span class="atom-split" data-atom="chapter_02_of_the_strange_manner_in_which--part_02" data-title="THE MYSTERY OF CLOOMBER — Chapter 2: OF THE STRANGE MANNER IN WHICH A TENANT CAME TO CLOOMBER (part 2)" data-chapter="Chapter 02 OF THE STRANGE MANNER IN WHICH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_of_the_strange_manner_in_which--part_02" data-title="THE MYSTERY OF CLOOMBER — Chapter 2: OF THE STRANGE MANNER IN WHICH A TENANT CAME TO CLOOMBER (part 2)" data-chapter="OF THE STRANGE MANNER IN WHICH" data-kind="excerpt"></span>
 
 
 CHAPTER III. OF OUR FURTHER ACQUAINTANCE WITH MAJOR-GENERAL J. B. HEATHERSTONE

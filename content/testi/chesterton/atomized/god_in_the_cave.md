@@ -18,7 +18,7 @@ tags:
 
 The God in the [[Cave]]
 
-			       G.K.CHESTERTON
+G.K.CHESTERTON
 
 "The place that the shepherds found was not an academy or an
 abstract republic; it was not a place of myths... explained
@@ -199,7 +199,7 @@ in that first festival of Christmas, feasted also in their own fashion.
 
 Il Dio nella [[Cave|Grotta]]
 
-			       G.K. CHESTERTON
+G.K. CHESTERTON
 
 «Il luogo che i pastori trovarono non era un'accademia né una
 repubblica astratta; non era un luogo di miti... spiegati
@@ -382,7 +382,7 @@ in quel primo festino di Natale banchettarono anch'essi a modo loro.
 
 The God in the [[Cave]]
 
-			       G.K.CHESTERTON
+G.K.CHESTERTON
 
 "The place that the shepherds found was not an academy or an
 abstract republic; it was not a place of myths... explained
@@ -472,7 +472,7 @@ of the [[Mountains|mountains]].  The shepherds had found their Shepherd.
 
 Il Dio nella [[Cave|Grotta]]
 
-			       G.K. CHESTERTON
+G.K. CHESTERTON
 
 «Il luogo che i pastori trovarono non era un'accademia né una
 repubblica astratta; non era un luogo di miti... spiegati

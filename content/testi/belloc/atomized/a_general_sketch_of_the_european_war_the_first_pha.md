@@ -1654,7 +1654,7 @@ That is the vision that should remain with those who desire to understand the fu
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_first_operations" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS" data-chapter="Chapter 01 THE FIRST OPERATIONS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_first_operations" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS" data-chapter="THE FIRST OPERATIONS" data-kind="chapter"></span>
 
 
 PART III. THE FIRST OPERATIONS.
@@ -1720,7 +1720,7 @@ A GENERAL SKETCH OF THE EUROPEAN WAR.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_01" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 1)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_01" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 1)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 PART I. THE GENERAL CAUSES OF THE WAR.
@@ -1758,7 +1758,7 @@ Sketch 1.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_02" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 2)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_02" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 2)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 “From that moment we have incontestably stood in the sight of all as the strongest people in the world, and yet because other and lesser nations had the start of us, our actual international position, our foreign possessions, the security that should be due to so supreme an achievement, did not correspond to our real strength and abilities. England had vast dependencies, and had staked out the unoccupied world as her colonies. We had no colonies and no dependencies. [[France]], though decadent, was a menace to our peace upon the West. We could have achieved the thorough conquest and dismemberment of [[France]] at any time in the last forty years, and yet during the whole of that time [[France]] was adding to her foreign possessions in Tunis, Madagascar, and Tonkin, latterly in Morocco, while we were obtaining nothing. The barbarous Russians were increasing constantly in numbers, and somewhat perfecting their insufficient military machine without any interference from us, grave as was the menace from them upon our Eastern frontier.
@@ -1794,7 +1794,7 @@ And the consequence of such a conflict in ideals and wills translated into pract
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_03" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 3)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_03" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 3)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 * * *
@@ -1826,7 +1826,7 @@ For instance, if a convention of international morals has arisen — as it did a
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_04" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 4)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_04" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 4)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 Or, again, treaties solemnly ratified between two Governments are generally regarded as binding. And certainly a nation that never kept such a treaty for more than a week would find itself in a position where it was impossible to make any treaties at all. Still, if upon a vague calculation of men’s memories, the acuteness of the circumstance, the advantage ultimately to follow, and so on, it be to the advantage of Prussia to break such solemn treaty, then such a treaty should be broken.
@@ -1848,7 +1848,7 @@ But we note — the fatal mark in all German history — that the unity is not c
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_05" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 5)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_05" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 5)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 (4) Austria.
@@ -1880,7 +1880,7 @@ But it is from this German quarter and from the emperor at their head that the h
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_06" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 6)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_06" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 6)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 In a word, if you could interrogate the Genius of the Hapsburgs and ask it for what their dominion stood, it would tell you that for uninterrupted centuries they had stood for the German effort to repress or to overcome pressure upon the German peoples from the East. And that is still their rôle. They have come into this war, for instance, as the servants of Prussia, not because Prussia threatened or overawed them, but because they felt they had, in common with Prussia, the mission of withstanding the Slav, or of tolerating the Slav only as a subject; because, that is, they feared, and were determined to resist, Russia, and the smaller Slavonic States, notably Servia to the south, which are in the retinue of Russia.
@@ -1908,7 +1908,7 @@ It was about this moment that Prussia committed what the future historian will r
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_07" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 7)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_07" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 7)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 Secondly, the German Empire developed a new and very large maritime commerce. This second thing did not follow, as some have imagined it does, from the first. [[Germany]] might have exported largely without exporting in her own ships. The creation of [[Germany]]’s new mercantile marine was a deliberate part of the general Prussian policy of expansion. It was heavily subsidized, especially directed into the form of great international passenger lines, and carefully co-ordinated with the rest of the Prussian scheme throughout the world.
@@ -1932,7 +1932,7 @@ The true origin of disturbance, the first overt act upon which you can put your 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_08" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 8)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_08" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 8)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 The first result of this revolution, followed as it inevitably was by the temporary weakening in international power which accompanies all civil war at its outset, was the declaration by Austria that she would regard the provinces of Bosnia and Herzegovina — hitherto only administrated by her and nominally still Turkish — as her own territory.
@@ -1958,7 +1958,7 @@ The heavy burden thus suddenly imposed upon the French led to very considerable 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_09" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 9)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_09" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 9)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 Whether this novel strain upon the French people could have been long continued we shall never know, for, in the heat of the debates provoked by this measure and its maintenance, came the last events which determined the great catastrophe.
@@ -1988,7 +1988,7 @@ Upon that same day, Saturday, July 25th, the English Foreign Office, through Sir
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_10" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 10)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_10" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 10)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 What happened upon the next day, Sunday, is exceedingly important. The German Government refused to accept the idea of such a conference, but at the same time the German Ambassador in London, Prince Lichnowski, was instructed to say that the principle of such a conference, or at least of mediation by the four Powers, was agreeable to Berlin. The meaning of this double move was that the German Government would do everything it could to retard the entry into the business of the Western Powers, but would do nothing to prevent Russia, Servia, and the Slav civilization as a whole from suffering final humiliation or war.
@@ -2016,7 +2016,7 @@ Many have criticized the hesitation, or long weighing of circumstance, which ast
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_11" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 11)" data-chapter="Chapter 02 THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_general_causes_of_the_war--part_11" data-title="A General Sketch of the European War, the First Phase — Part 1: THE GENERAL CAUSES OF THE WAR (part 11)" data-chapter="THE GENERAL CAUSES OF THE WAR" data-kind="excerpt"></span>
 
 
 Upon one specific point a specific question was asked of her Government. To Great Britain, as we have seen in these pages, the keeping from the North Sea coast of all great hostile Powers is a vital thing. The navigable Scheldt, Antwerp, the approaches to the Straits of Dover, are, and have been since the rise of British sea-power, either in the hands of a small State or innocuous to us through treaty. Today they are the possession of Belgium, an independent State erected by treaty after the great war, and neutralized by a further guarantee in 1839. This neutrality of Belgium had been guaranteed in a solemn treaty not only by [[France]] and England, but by Prussia herself; and the British Government put to the French and to the Germans alike the question whether (now they were at war) that neutrality would be respected. The French replied in the affirmative; the Germans, virtually, in the negative. But it must not be said that this violation of international law and of her own word by [[Germany]] automatically caused war with England.
@@ -2036,7 +2036,7 @@ The Foreign Office’s thesis underlying the declaration of its spokesman, Sir E
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_01" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 1)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_01" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 1)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 PART II. THE FORCES OPPOSED.
@@ -2082,7 +2082,7 @@ It is well to carry this in mind during the remainder of our study of this war, 
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_02" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 2)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_02" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 2)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 3. The third thing that strikes one in such a map of the belligerent area is the way in which the Germanic body stands in the middle facing its two groups of enemies East and West.
@@ -2132,7 +2132,7 @@ The second is more material. The Governments of the two countries, their means o
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_03" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 3)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_03" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 3)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 It so happens, also, that the communications of the two Germanic empires are exactly suited to their central position. There is sufficient fast communication from north to south to serve all the purposes necessary to the intellectual conduct of a war; there is a most admirable communication from east to west for the material conduct of that war upon two fronts. Whenever it may be necessary to move troops from the French frontier to the Russian, or from the Russian to the French, or for [[Germany]] to borrow Hungarian cavalry for the Rhine, or for Austria to borrow German army corps to protect Galicia, all that is needed is three or four days in which to entrain and move these great masses of men. There is no area in Europe which is better suited by nature for thus fighting upon two land frontiers than is the area of the combined Austrian and German Empire.
@@ -2164,7 +2164,7 @@ Were Switzerland, Alsace-Lorraine, and the Rhineland, upon the one hand, the Hun
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_04" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 4)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_04" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 4)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Sketch 10.
@@ -2206,7 +2206,7 @@ The whole situation is one in which he is quite certain that a defensive war, lo
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_05" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 5)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_05" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 5)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Here, again, the ideal situation for him would be to possess against the invader some such arrangement as is suggested by Sketch 11. In this arrangement, if one were compelled unfortunately to consider four special districts as more important than the mass of one’s territory, one would have the advantage of knowing that they were clearly distinguishable into less and more important, and the further advantage of knowing that the more important the territory was, the more central it was and the better protected against invasion.
@@ -2236,7 +2236,7 @@ Now the reason that each of these must at all costs be preserved from invasion i
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_06" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 6)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_06" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 6)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 We may take it, then, that the retention of Belgium is in German eyes now quite indispensable. “If I abandon Belgium,” she says, “it is much more than a strategic retreat; it is a political confession of failure, and the moral support behind me at home will break down.”
@@ -2256,7 +2256,7 @@ Now put yourself in the position of the men who must make a decision between the
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_07" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 7)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_07" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 7)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 The four corners are differently defensible — Alsace-Lorraine and Belgium only by artifice, and with great numbers of men; Silesia only so long as Austria (and Hungary) stand firm. East Prussia has her natural arrangement of lakes to make invasion tedious, and to permit defence with small numbers.
@@ -2304,7 +2304,7 @@ So long as her fleet is certainly superior to that of the enemy, and has only to
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_08" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 8)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_08" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 8)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 (e) She is open to fear aggression upon any one of her independent colonies oversea, and yet she is not able to draw upon them for the whole of their potential strength, or, indeed, for more than a very small proportion of it. In other words, the British Fleet guarantees some fifteen million of European race beyond the seas from attack by the enemy, but cannot draw from these fifteen million more than an insignificant fraction of the million of men and more which, fully armed, they might furnish; nor has she any control over their finance, so as to be able to count upon the full weight of their wealth; nor can she claim their resources in goods and munitions. She can only obtain these by paying for them.
@@ -2334,7 +2334,7 @@ Russia’s geographical disadvantage was twofold. First, she had no outlet to an
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_09" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 9)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_09" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 9)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 The fact that Russia was ill supplied with railways, and hardly supplied at all with hard roads (in a climate where the thaw turned her deep soil into a mass of mud) is political rather than geographical, but it must be remembered in connection with this difficulty of supply.
@@ -2374,7 +2374,7 @@ To the difficulty provided by the desire for concealment necessary in all milita
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_10" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 10)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_10" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 10)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 In spite of these difficulties, I believe it to be possible to put before the general reader a clear and simple table of the numbers a knowledge of which any judgment of the war involves, and to be fairly certain that this table will, when full details are available, be discovered not too inaccurate.
@@ -2412,7 +2412,7 @@ The fault of this method is twofold. First, that only actual experience can tell
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_11" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 11)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_11" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 11)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 At the end of the retreat from Moscow each army corps of the Grand Army still preserved its name, each regiment its nominal identity. And the roll was called by Ney, for instance, before the Beresina, division by division and regiment by regiment, and even in the regiments company by company; but in most of these last there was no one to answer, and there is a story of one regiment for which one surviving man answered with regularity until he also died. What fights is numbers of living men — not headings; and if five army corps are present, each having lost two-fifths of its men, three full army corps are a match for them.
@@ -2442,7 +2442,7 @@ The enemy sets out with 32 men, of whom he bids 10 men against the Russians, and
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_12" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 12)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_12" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 12)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Sketch 14.
@@ -2476,7 +2476,7 @@ We can now sum up and say that, apart from wastage, the forces arrayed against e
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_13" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 13)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_13" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 13)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Luckily such figures are wholly changed by the enormous rate of the enemy’s wastage. The Russians had lost men almost as rapidly as the enemy, but the Russian losses could be and were made good. The handicap of the blockade under which Russia suffered permitted her to maintain only a certain number at the front, but she could continually draft in support of those numbers; and though she lost in the first seven months of the war quite four hundred thousand in prisoners, and perhaps three-quarters of a million in other casualties, her strength of somewhat over three millions was maintained at the close of the first period.
@@ -2514,7 +2514,7 @@ Now it is clearly demonstrable from the coincidence of dates, from the exact tim
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_14" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 14)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_14" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 14)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Under those circumstances, Berlin with her ally at Vienna had the immense numerical advantage over the French and the Russians when war was suddenly forced upon those countries on the 31st of July last year.
@@ -2564,7 +2564,7 @@ Now, the Germans maintained in this connection not only, as I have said, that th
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_15" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 15)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_15" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 15)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Well, in the matter of this theory, the war conclusively proved the following points: —
@@ -2598,7 +2598,7 @@ First, the successful bringing into the field of very large howitzers, which, th
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_16" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 16)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_16" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 16)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Secondly, the high explosives of recent years, coupled with the vast size of this new mobile howitzer shell, is capable, when the howitzer shell strikes modern fortification, of doing grievous damage which, repeated over several days, turns the fort into a mass of ruins.
@@ -2628,7 +2628,7 @@ For instance, supposing five men are acting against three. Five is more than thr
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_17" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 17)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_17" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 17)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 As in every art, the developments of these elementary first principles become, with variations of time and place, indefinitely numerous and various. Upon their variety depends all the interest of military history. And there is one method in particular whereby the lesser number may hope to pin and destroy the power of the greater upon which the French tradition relied, and the value of which modern German criticism refused.
@@ -2680,7 +2680,7 @@ First, that there shall be room for the troops composing each corner to be deplo
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_18" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 18)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_18" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 18)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 In this posture he awaits the enemy.
@@ -2728,7 +2728,7 @@ Next you have the delay caused by the conversion of direction through a whole ri
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_19" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 19)" data-chapter="Chapter 03 THE FORCES OPPOSED" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_forces_opposed--part_19" data-title="A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 19)" data-chapter="THE FORCES OPPOSED" data-kind="excerpt"></span>
 
 
 Sketch 29.
@@ -2762,7 +2762,7 @@ Sketch 32.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_01" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 1)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_01" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 1)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 PART III. THE FIRST OPERATIONS.
@@ -2794,7 +2794,7 @@ It has been represented too often as a sort of meeting-place, where must always 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_02" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 2)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_02" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 2)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 The entries into this plain are very clearly defined by natural limits. It is barred a few hours’ march beyond the German frontier by the broad and deep river Meuse, which here runs from the rough and difficult Ardennes country up to the Dutch frontier. The whole passage is no more than twelve miles across, and at the corner of it, where the Meuse bends, is the fortress of Liége. West of this fortress the upper reaches of the river run, roughly east and west upon Namur, and after Namur turn south again, passing through a very deep ravine that extends roughly from the French town of Mezières to Namur through the Ardennes country. The Belgian Plain is therefore like a bottle with a narrow neck, a bottle defined by the Dutch frontier and the Middle Meuse on either side, and a neck extending only from the Ardennes country to the Dutch frontier, with the fortress of Liége barring the way. Now the main blow was to be delivered ultimately upon the line Namur-Charleroi-Mons. That is, the situation was roughly that of the accompanying diagram: by the bottle neck at D the whole mass of troops must pass — or most of them — which are later to strike on the front AB. To reach that front was available to the invader the vast network of Belgian railways RRR crammed with rolling stock, and provided such opportunities for rapid advance as no other district in Europe could show. But all this system converged upon the main line which ran through the ring of forts round Liége, L, and so passed through Aix-la-Chapelle, A, and to [[Germany]].
@@ -2828,7 +2828,7 @@ During those forty-eight hours, the big howitzer, which is the type of the heavy
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_03" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 3)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_03" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 3)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 With the morning of Friday, the 7th August, the first bodies of German infantry entered the town. The forts on the north and two remaining western forts upon the south of the river were still untaken, and until a large breach should be made in the northern forts at least, the railway communication of the German advance into the Belgian plain was still impeded. Great masses of the enemy, and, in proportion to those masses, still greater masses of advance stores were brought in.
@@ -2864,7 +2864,7 @@ Far more important than this display was the opening on the evening of the same 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_04" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 4)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_04" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 4)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Once Namur was entered, the reduction of the forts was not of immediate importance, though it was immediately and successfully achieved. For the German business was not here, as at Liége, to grasp a railway within the zone of the fortifications, but to destroy the buttress upon which the French depended for their defensive position, and to prevent the French from holding the crossings over the two rivers Sambre and Meuse at their junction.
@@ -2906,7 +2906,7 @@ All this is, of course, put merely diagrammatically, and a diagram is something 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_05" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 5)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_05" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 5)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Sketch 39.
@@ -2946,7 +2946,7 @@ Beginning from the left, we have barely two army corps actually present of the B
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_06" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 6)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_06" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 6)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 We may then call the whole of the operative corner (if we exclude certain cavalry reserves far back, which never came into play) just over 300,000 men. That there were as many as 310,000 is improbable.
@@ -2998,7 +2998,7 @@ It was not till the early afternoon of the Sunday that contact was first taken s
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_07" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 7)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_07" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 7)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 It was at this moment in the afternoon — that is, about five o’clock — that the French General Staff communicated to Sir John French information bearing two widely different characteristics: the first that it came late; the second that had it not come when it did, the whole army, French as well as British, would have been turned.
@@ -3034,7 +3034,7 @@ What he proposed to do was, while engaging the British contingent of less than t
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_08" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 8)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_08" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 8)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 The thing may be represented on a sketch map in this form.
@@ -3080,7 +3080,7 @@ In proportion as the pursuers are numerous (mobility being equal) compared with 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_09" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 9)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_09" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 9)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 The accomplishment of such a task, the maintenance of the “operative corner” in being during its ordeal of retreat before vastly superior numbers, and in particular the exceedingly perilous retirement of the British contingent at what was, during the first part of the strain, the extreme of the line, are what we are now about to follow.
@@ -3112,7 +3112,7 @@ On the other hand, from the nature of the topography in this section of the Fran
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_10" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 10)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_10" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 10)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Sketch 53.
@@ -3142,7 +3142,7 @@ The French had begun, after the recuperation following upon the war of 1870, an 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_11" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 11)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_11" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 11)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 But when the French had completed this scheme of fortification, Europe heard it proposed by certain authorities in Prussia that, as the cost of invading [[France]] through the now fortified zone would be considerable, the German forces should not hesitate to originate yet another step in the breakdown of European morality, and to sacrifice in their attack upon [[France]] the neutrality of Belgium, of which Prussia was herself a guarantor.
@@ -3166,7 +3166,7 @@ It was not yet daylight upon the morning of Tuesday, August 25th, when the move 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_12" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 12)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_12" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 12)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Delays, with the criticism of which this short summary has no concern, had forbidden the whole force which should have been present with the British Army in Flanders at the outset of the campaign to arrive in time, and the contingents that had already come up had taken the shock, as we have already described, in the absence of the 4th Division. This 4th Division had only begun to detrain from the junction at Le Cateau at the same hour that General Sir John French was reading that Sunday message which prompted his immediate retirement from before Mons. When the full official history of the war comes to be written, few things will prove of more credit to the Expeditionary Force and its command than the way in which this belated division — belated through no fault of the soldiers — was incorporated with the already existing organization, in the very midst of its retreat, and helped to support the army. There are few parallels in history to the successful accomplishment of so delicate and perilous an operation.
@@ -3194,7 +3194,7 @@ Although the German bodies which were attempting the outflanking had not yet all
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_13" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 13)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_13" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 13)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 The obvious action to take in such a position as that in which the 2nd Corps found themselves was to break contact with the enemy, to call for support from the 1st Corps, and to maintain the retreat as indefatigably as it had already been maintained in the preceding twenty-four hours.
@@ -3222,7 +3222,7 @@ But this 1st Corps, though set an easier task than the 2nd (which, at the extrem
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_14" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 14)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_14" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 14)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Sketch 58.
@@ -3256,7 +3256,7 @@ Meanwhile the 4th French Army, which had also been retiring rapidly parallel to 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_15" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 15)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_15" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 15)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Sketch 61.
@@ -3294,7 +3294,7 @@ Meanwhile you would not only be risking this peril, but you would also be wastin
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_16" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 16)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_16" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 16)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 It is far better to pursue the original plan to continue the retreat as far as the dotted line from Paris to Verdun, where you will have the whole German force at its farthest limit of effort and corresponding exhaustion, and where you will have, after the salutary delay of the few intervening days, your large mass of manœuvre, SS, close by to Paris and ready to strike.
@@ -3324,7 +3324,7 @@ With this position, of what it meant in immediate alternatives to the enemy, I w
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_17" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 17)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_17" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 17)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 But to understand a campaign, one must seize not only the topographical positions of troops, nor only their number: one must also gauge the temper of their commanders and of the political opinion at home behind them, for upon this moral factor everything ultimately depends. The men that fight are living men, and the motive power is the soul.
@@ -3354,7 +3354,7 @@ Details of the action are wholly lacking. We depend even for what may be said at
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_18" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 18)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_18" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 18)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Nancy itself was saved. The French counter-offensive was organized on the 23rd of August, at a moment when the German line lay from St. Dié northwards and westwards up to positions just in front of Nancy. It was delivered about a week later. That counter-offensive which ultimately saved Nancy belongs to the next volume, for it did not develop its strength until after Sedan Day, and after the end of the great sweep on Paris.
@@ -3390,7 +3390,7 @@ Observe the problem. Two men, a left-hand man and a right-hand man, go out to en
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_19" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 19)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_19" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 19)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Seeing the paucity of Russian communications, and the physical necessity under which the Russians were, on account of the position of their depots and centres of mobilization, of first putting the mass of their men on the south, the physical impossibility under which they lay of putting the mass of their men in the north for the moment, the plan was a sound one; but its success depended entirely upon the tenacity of the second Austrian army, which would have to meet large, and might have to meet superior, numbers.
@@ -3412,7 +3412,7 @@ The first outpost actions with the enemy, and even the more vigorous struggles w
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_20" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 20)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_20" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 20)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 To this great series of actions, which history will probably know by the name of Lemberg, we will now turn.
@@ -3446,7 +3446,7 @@ If you suffer defeat in front of a great modern town, and have to retreat throug
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_21" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 21)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_21" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 21)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 There is very much more than this. A great town cannot but contain, if you have long occupied it, the material of your organization; you will probably abandon documents which the enemy should not see. You will certainly, in the pressure of such a flight, lose accumulated stores. Again, the transverse streets are so many points of “leakage,” into which your congested columns will bulge out and get confused. Again, you will be almost necessarily dealing with the complication of a mass of civilian conditions which should never be allowed to interrupt a military operation.
@@ -3476,7 +3476,7 @@ The Prussian, or rather the Prussian aristocracy, which, by achieving the leader
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_22" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 22)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_22" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 22)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 That lake country well merits a particular description, for its topography has powerfully affected the war in the East; but for the moment we must chiefly grasp the political character following upon the history of this land. The chief noble of “Borussia,” the governing duke, acquired, not from the empire nor perhaps in the eyes of Europe, but from the Polish monarchy, the title of king, and it must never be forgotten that the capital at Berlin, and the “Mark” — that is, the frontier march — of Brandenburg, though now the centre, are neither the origins nor the pride of the Hohenzollern power. They were kings of Prussia because Prussia was extraneous to the European system. There came a moment, as I have pointed out in an earlier page in this book, when the Prussian kingship and the electorate of Brandenburg coincided in one person. All men of education know, and all men whatsoever feel, what influence an historical origin will have upon national outlook. East Prussia, therefore, remains to-day something of a political fetish. Its towns may be called colonies of the Germans, the birthplaces or the residences of men famous in the German story. Its country-sides, although still largely inhabited by a population of servile memories and habits not thoroughly welded with their masters, do not take up great space in the view the German takes of the region. He sees rather the German landowner, the German bailiff, the German schoolmaster, and the numerous German tenants of the wealthier type who, though a minority, form the chief part of this social system. We shall see later what this miscalculation cost the great landowners during the Russian invasion, but we must note in passing that it is a miscalculation common to every people. Only that which is articulate in the States stands out large in the social perspective during periods of order and of peace.
@@ -3504,7 +3504,7 @@ The impression of the district is most clearly conveyed from some sandy summit, 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_23" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 23)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_23" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 23)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 The military character of such a region will be clear. It is, in the technical language of military art, a labyrinth of defiles. Care has been expended upon the province, especially in the last two generations, and each narrow passage between the principal sheets of water carries a road, often a hard causeway. A considerable system of railways takes advantage of the same natural narrow issues; but even to those familiar with the country, the complexity of these narrow dry gates or defiles, and their comparative rarity (contrasted with the vast extent of waterlogged soil or of open pool), render an advance against any opposition perilous, and even an unopposed advance slow, and dependent upon very careful Staff work. Columns in their progress are for hours out of touch one with the other, and an unexpected check in some one narrow must be met by the force there present alone, for it will not be able to obtain immediate reinforcement.
@@ -3538,7 +3538,7 @@ Here, then, you have a quadrilateral of railways about fifty miles in length. Wi
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_24" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 24)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_24" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 24)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 The Russian commander, Samsonoff, with his army running from Allenstein southwards, was facing towards the west. He had with him perhaps 200,000 men, perhaps a trifle less. His reconnaissance was faulty, partly because the aeroplanes could discover little in that wooded country, partly because the Staff work was imperfect, and his Intelligence Department not well informed by his cavalry patrols. He thought he had against him to the west only weak forces. As a fact, the Germans were sending against him what they themselves admit to be 150,000 men, and what were quite possibly nearer 200,000, for they had drawn largely upon the troops within [[Germany]]. They had brought round by sea many of the troops shut up in Königsberg, and they had brought up the garrisons upon the Vistula. Further, they possessed, drawn from these garrisons, a great superiority in that arm which throughout all the earlier part of the great war was the German stand-by — heavy artillery, and big howitzers capable of use in the field.
@@ -3568,7 +3568,7 @@ Let the reader put himself into the position of a German subject in his own stat
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_25" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 25)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_25" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 25)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 Let the reader further remember that in this the Germans’ rooted faith their army was for them at once its cause and its expression; then only can he conceive what attitude the mind of such men would assume upon the news from East and from West during those days — the news of the avalanche in [[France]] and the news of Tannenberg. It would seem to the crowd in Berlin during the great festival which marked the time that they were indeed a part of something not only necessarily invincible, but of a different kind in military superiority from other men.
@@ -3590,7 +3590,7 @@ Comprehend the mood of the French, contrast and oppose it to that of the Germans
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_26" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 26)" data-chapter="Chapter 04 THE FIRST OPERATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_26" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 26)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt"></span>
 
 
 By an accident comparatively recent, the protagonist of chaos in these things happened to be that rigid but curiously amorphous power which Prussia has wielded for many years to no defined end. The protagonist upon the other side of the arena was that same Romanized Gaul which had ever since the fall of the Empire least lost the continuity with the past whereby we live.

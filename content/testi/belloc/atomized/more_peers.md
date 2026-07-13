@@ -541,7 +541,7 @@ Here is a picture of the incident.
 
 
 
-<span class="atom-split" data-atom="story_01_lord_roehampton" data-title="More Peers — Lord Roehampton" data-chapter="Story 01 Lord Roehampton" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_lord_roehampton" data-title="More Peers — Lord Roehampton" data-chapter="Lord Roehampton" data-kind="story"></span>
 
 
 Lord Roehampton
@@ -655,7 +655,7 @@ Gets it beforehand; and in gold.
 
 
 
-<span class="atom-split" data-atom="story_02_lord_calvin" data-title="More Peers — Lord Calvin" data-chapter="Story 02 Lord Calvin" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_lord_calvin" data-title="More Peers — Lord Calvin" data-chapter="Lord Calvin" data-kind="story"></span>
 
 
 Lord Calvin
@@ -675,7 +675,7 @@ They went on sitting with their fellow-peers.
 
 
 
-<span class="atom-split" data-atom="story_03_lord_henry_chase" data-title="More Peers — Lord Henry Chase" data-chapter="Story 03 Lord Henry Chase" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_lord_henry_chase" data-title="More Peers — Lord Henry Chase" data-chapter="Lord Henry Chase" data-kind="story"></span>
 
 
 Lord Henry Chase
@@ -705,7 +705,7 @@ He gave them to a Hospital.
 
 
 
-<span class="atom-split" data-atom="story_04_lord_heygate" data-title="More Peers — Lord Heygate" data-chapter="Story 04 Lord Heygate" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_lord_heygate" data-title="More Peers — Lord Heygate" data-chapter="Lord Heygate" data-kind="story"></span>
 
 
 Lord Heygate
@@ -731,7 +731,7 @@ About Lord Epsom and his horse.
 
 
 
-<span class="atom-split" data-atom="story_05_lord_epsom" data-title="More Peers — Lord Epsom" data-chapter="Story 05 Lord Epsom" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_lord_epsom" data-title="More Peers — Lord Epsom" data-chapter="Lord Epsom" data-kind="story"></span>
 
 
 Lord Epsom
@@ -775,7 +775,7 @@ He had the Hunter led away.
 
 
 
-<span class="atom-split" data-atom="story_06_lord_finchley" data-title="More Peers — Lord Finchley" data-chapter="Story 06 Lord Finchley" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_lord_finchley" data-title="More Peers — Lord Finchley" data-chapter="Lord Finchley" data-kind="story"></span>
 
 
 Lord Finchley
@@ -795,7 +795,7 @@ To give employment to the artisan.
 
 
 
-<span class="atom-split" data-atom="story_07_lord_ali_baba" data-title="More Peers — Lord Ali-Baba" data-chapter="Story 07 Lord Ali Baba" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_lord_ali_baba" data-title="More Peers — Lord Ali-Baba" data-chapter="Lord Ali Baba" data-kind="story"></span>
 
 
 Lord Ali-Baba
@@ -835,7 +835,7 @@ His Lordship yielded up the ghost.
 
 
 
-<span class="atom-split" data-atom="story_08_lord_hippo" data-title="More Peers — Lord Hippo" data-chapter="Story 08 Lord Hippo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_lord_hippo" data-title="More Peers — Lord Hippo" data-chapter="Lord Hippo" data-kind="story"></span>
 
 
 Lord Hippo
@@ -933,7 +933,7 @@ that he had backed the Winner!
 
 
 
-<span class="atom-split" data-atom="story_09_lord_uncle_tom" data-title="More Peers — Lord Uncle Tom" data-chapter="Story 09 Lord Uncle Tom" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_lord_uncle_tom" data-title="More Peers — Lord Uncle Tom" data-chapter="Lord Uncle Tom" data-kind="story"></span>
 
 
 Lord Uncle Tom
@@ -975,7 +975,7 @@ He sickened, paled, and died.
 
 
 
-<span class="atom-split" data-atom="story_10_lord_lucky" data-title="More Peers — Lord Lucky" data-chapter="Story 10 Lord Lucky" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_lord_lucky" data-title="More Peers — Lord Lucky" data-chapter="Lord Lucky" data-kind="story"></span>
 
 
 Lord Lucky
@@ -1063,7 +1063,7 @@ Of asking Meyer to lunch with him.
 
 
 
-<span class="atom-split" data-atom="story_11_lord_canton" data-title="More Peers — Lord Canton" data-chapter="Story 11 Lord Canton" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_lord_canton" data-title="More Peers — Lord Canton" data-chapter="Lord Canton" data-kind="story"></span>
 
 
 Lord Canton
@@ -1087,7 +1087,7 @@ Appears to be the reason that he died.
 
 
 
-<span class="atom-split" data-atom="story_12_lord_abbott" data-title="More Peers — Lord Abbott" data-chapter="Story 12 Lord Abbott" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_lord_abbott" data-title="More Peers — Lord Abbott" data-chapter="Lord Abbott" data-kind="story"></span>
 
 
 Lord Abbott

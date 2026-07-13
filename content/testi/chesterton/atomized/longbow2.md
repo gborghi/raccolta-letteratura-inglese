@@ -13,31 +13,30 @@ tags:
 
 <span class="atom-split" data-atom="longbow2" data-title="Tales of the Long Bow" data-chapter="" data-kind="intro"></span>
 
-# [[longbow2]]
 
 Tales of the Long Bow
 
 by G. K. Chesterton
 
 First published 1925 by Cassell and Company, Ltd.
-                              
+
 Electronic Edition 1993 by Jim Henry III, Jim.Henry@pobox.com,
 http://www.pobox.com/~Jim.Henry/etext/
 
-                               Contents
+Contents
 
-  I.    The Unpresentable Appearance of Colonel Crane
-  II.   The Improbable [[success|Success]] of Mr. Owen Hood
-  III.  The Unobtrusive Traffic of Captain Pierce
-  IV.   The Elusive Companion of Parson White
-  V.    The Exclusive Luxury of Enoch Oates
-  VI.   The Unthinkable Theory of Professor Green
-  VII.  The Unprecedented Architecture of Commander Blair
-  VIII. The Ultimate Ultimatum of the League of the Long Bow
+I.    The Unpresentable Appearance of Colonel Crane
+II.   The Improbable [[success|Success]] of Mr. Owen Hood
+III.  The Unobtrusive Traffic of Captain Pierce
+IV.   The Elusive Companion of Parson White
+V.    The Exclusive Luxury of Enoch Oates
+VI.   The Unthinkable Theory of Professor Green
+VII.  The Unprecedented Architecture of Commander Blair
+VIII. The Ultimate Ultimatum of the League of the Long Bow
 
-                          Chapter I
+Chapter I
 
-        The Unpresentable Appearance of Colonel Crane
+The Unpresentable Appearance of Colonel Crane
 
 These tales concern the doing of things recognized as
 impossible to do; impossible to believe; and, as the weary reader
@@ -595,7 +594,7 @@ Only my friend, in the heat of rejecting and ridiculing the notion,
 made use of a hasty expression.  I might almost say he made a
 rash vow."
 
-"My exact words were," said Colonel Crane solemnly:  "`If you can
+"My exact words were," said Colonel Crane solemnly:  "‘If you can
 do that, I'll eat my hat.'"
 
 He leaned forward thoughtfully and began to eat it.  Then he resumed
@@ -844,7 +843,7 @@ she said.  "Well, do you know, it really does make a difference.
 Literary people let words get between them and things.  We do
 at least look at the things and not the names of the things. 
 You think a cabbage is comic because the name sound comic and
-even vulgar; something between `cab' and `garbage,' I suppose. 
+even vulgar; something between ‘cab' and ‘garbage,' I suppose. 
 But a cabbage isn't really comic or vulgar.  You wouldn't think
 so if you simply had to paint it.  Haven't you seen Dutch and
 Flemish galleries, and don't you know what great men painted cabbages? 
@@ -999,7 +998,7 @@ There was a silence, and Hood sat gazing with his owlish face at
 the dim pools in which the dark woods were mirrored.  At last he said:
 
 "Moss isn't the only thing found on that.  Sometimes there
-is the word `Resurgam'."
+is the word ‘Resurgam'."
 
 "[[Well]], I [[Hope|hope]] you will," said Crane genially.  "But the trumpet
 will have to be pretty loud to wake you up.  It's my opinion you'll
@@ -1323,7 +1322,7 @@ tipped off the shore will fall into the [[River|river]], because I don't
 understand hydraulics.  I don't know whether your machinery makes
 a hell of a noise every morning, for I've never studied acoustics. 
 I don't know whether it stinks or not, because I haven't read
-your expert's book on `The Nose.'  But I know all about adaptation
+your expert's book on ‘The Nose.'  But I know all about adaptation
 to environment.  I know that some of the lower organisms do really
 change with their changing conditions.  I know there are creatures
 so low that they do survive by surrendering to every succession of mud
@@ -1517,7 +1516,7 @@ you know."
 There was a silence and then Hood spoke suddenly in a loud
 and cheerful voice.
 
-"Well, what I say is, `Vote for Hunter,'" he said heartily. 
+"Well, what I say is, ‘Vote for Hunter,'" he said heartily. 
 "After all, why not vote for Hunter?  Good old Hunter!  I [[Hope|hope]]
 he'll be a member of Parliament.  I [[Hope|hope]] he'll be Prime Minister. 
 I [[Hope|hope]] he'll be President of the World State that Wells talks about. 
@@ -1762,7 +1761,7 @@ That you are going to let this [[Night|night]] of triumph pass without
 kindling a hundred flames to light the path of the conqueror? 
 Do you realize that the hearts of a whole people have spontaneously
 stirred and chosen him?  That the [[Suffering|suffering]] poor murmured in their
-[[Sleep|sleep]] `Vote for Hunter' long before the Caucus came by a providential
+[[Sleep|sleep]] ‘Vote for Hunter' long before the Caucus came by a providential
 coincidence to the same conclusion?  Would not the people in The Hole
 set fire to their last poor sticks of furniture to do him honour? 
 Why, from this chair alone--"
@@ -1789,7 +1788,7 @@ to our island as our old national tradition of landscape-painting
 in water-colour; never was that water-colour so luminous or so
 delicate as when dedicated to these holy waters.  It was in such
 a scene that one of the most exquisite of our elder poets repeated
-as a burden to his meditations the single line, `Sweet Thames,
+as a burden to his meditations the single line, ‘Sweet Thames,
 run softly till I end my [[Song|song]].'
 
 "Rumours have been heard of some intention to trouble these waters;
@@ -1841,7 +1840,7 @@ Is he something like Old Moore?"
 "Only an old friend," said Hood hastily, "only an old friend of mine. 
 It's what he said that's so important.  He didn't like my moping
 about with books and a fishing-rod, and he said, standing on that
-very island, `You may know a lot; but I don't think you'll ever set
+very island, ‘You may know a lot; but I don't think you'll ever set
 the Thames on fire.  I'll eat my hat if you do.'"
 
 But the story of how Old Crane ate his hat is one upon which some readers
@@ -1905,7 +1904,7 @@ and eggs to boast of.  They ought to be quartered on the Royal Arms:
 three pigs passant and three poached eggs on a chevron.  It was bacon
 and eggs that gave all that morning glory to the English poets;
 it must have been a man who had a breakfast like this who could
-rise with that giant gesture:  `[[Night]]'s candles are burnt out;
+rise with that giant gesture:  ‘[[Night]]'s candles are burnt out;
 and jocund day--'"
 
 "Bacon did write Shakespeare, in fact," said the Colonel.
@@ -2472,7 +2471,7 @@ seemed to start from a trance and struck his hands together.
 
 "Come back to what word?" asked his friend.
 
-"`Impossible,'" answered Owen Hood.  "It's the word that runs
+"‘Impossible,'" answered Owen Hood.  "It's the word that runs
 through his whole life, and ours too for that matter.  Don't you
 see what he has done?"
 
@@ -2561,7 +2560,7 @@ he'd rather it was somebody like you, and not one of the new gentlemen."
 "Well, I'm glad I'm an old gentleman, any how," he answered
 somewhat mollified.  "But really this prevalence of common
 sense is getting quite dangerous.  Will nothing rouse you all
-to a little unreality; to saying, so to speak, `O, for the wings
+to a little unreality; to saying, so to speak, ‘O, for the wings
 of a pig that I might flee away and be at rest.'  What would you
 say if I turned the [[World Upside Down|world upside down]] and set my foot upon
 the sun and [[Moon|moon]]?"
@@ -2706,14 +2705,14 @@ he added to Pierce.  "That is a shock that still threatens you."
 "Why, what's the matter with him?" inquired Pierce.
 
 "Nothing," observed Crane in his more staccato style.  "Has a taste
-for starting a letter with `Yours Truly' and ending it with `Dear Sir';
+for starting a letter with ‘Yours Truly' and ending it with ‘Dear Sir';
 that's all."
 
 "I should rather like to hear that letter," observed the young man.
 
 "So you shall," answered Hood, "there's nothing confidential in it;
 and if there were, you wouldn't find it out merely by reading it. 
-The Rev. Wilding White, called by some of his critics `Wild White,'
+The Rev. Wilding White, called by some of his critics ‘Wild White,'
 is one of those country parsons, to be found in corners of the English
 countryside, of whom their old college friends usually think in order
 to wonder what the devil their parishioners think of them.  As a matter
@@ -2732,7 +2731,7 @@ It was written in what had once been a good hand-writing of the
 bolder sort, but which had degenerated through excessive energy
 and haste into an illegible scrawl.  It appeared to run as follows:
 
-"`My dear Owen,--My mind is quite made up; though I know the sort
+"‘My dear Owen,--My mind is quite made up; though I know the sort
 of legal long-winded things you will say against it; I know
 especially one thing a leathery old lawyer like you is bound to say;
 but as a matter of fact even you can't say it in a case like this,
@@ -2753,7 +2752,7 @@ he feels that the [[Time|time]] has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 
-"`I've got a lot to tell you about the new arrangement, which works
+"‘I've got a lot to tell you about the new arrangement, which works
 much better even than I hoped.  I was afraid at first it would
 really be an encumbrance, as you know it's always supposed to be. 
 But there are more things, and all the rest of it, and God
@@ -2768,7 +2767,7 @@ bear no more.
 "You are not used to the epistolary method," said Hood indulgently;
 "you haven't got into the swing of the style.  It goes on:"
 
-"`Of course, he's a big pot down here, and all sorts of skunks
+"‘Of course, he's a big pot down here, and all sorts of skunks
 are afraid of him and pretend to boycott me.  Nobody could expect
 anything else of those pineapple people, but I confess I was
 surprised at Parkinson.  Sally of course is as sound as ever;
@@ -2792,7 +2791,7 @@ of fiction and film-drama if Snowdrop were the daughter of the lady,
 when she had married Another.  But there seems to be something
 more about Snowdrop, that little sunbeam in the [[house]]:"
 
-"`Snowdrop tries to enter our ways, as they always do; but, of course,
+"‘Snowdrop tries to enter our ways, as they always do; but, of course,
 it would be awkward if she played tricks.  How alarmed they would
 all be if she took it into her head to walk about on two legs,
 like everybody else.'"
@@ -2816,7 +2815,7 @@ must be a pony.  It seems a likely enough name for a pony.  I thought
 at first it was a dog or a cat, but alarming seems a strong word
 even for a dog or a cat sitting up to beg.  But a pony on its hind
 legs might be a little alarming, especially when you're riding it. 
-Only I can't fit this view in with the next sentence:  `I've taught
+Only I can't fit this view in with the next sentence:  ‘I've taught
 her to reach down the things I want.'"
 
 "Lord!" cried Pierce.  "It's a monkey!"
@@ -2825,7 +2824,7 @@ her to reach down the things I want.'"
 the weird Asiatic atmosphere.  But a monkey on two legs is even less
 unusual than a dog on two legs.  Moreover, the reference to Asiatic
 mystery seems really to refer to something else and not to any animal
-at all.  For he ends up by saying:  `I feel now as if my mind were
+at all.  For he ends up by saying:  ‘I feel now as if my mind were
 moving in much larger and more ancient spaces of time or eternity;
 and as if what I thought at first was an oriental atmosphere was only
 an atmosphere of the orient in the sense of dayspring and the dawn. 
@@ -2944,7 +2943,7 @@ by the way, that I had a letter from him too.  Came the day
 after I heard yours.  Shorter, and perhaps a little plainer." 
 And he handed the letter to Hood, who read it out slowly:
 
-"`I never knew the old British populace, here in Avalon itself,
+"‘I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
 Nobody dared help me move my [[house]] again; said it was illegal
 and they were afraid of the police.  But Snowdrop helped, and we
@@ -3254,13 +3253,13 @@ in the form of another letter from the parson to the lawyer.
 "Now that we know the secret," said Pierce cheerfully, "even his
 account of it ought to be quite clear."
 
-"Quite clear," replied Hood calmly.  "His letter begins, `Dear Owen,
+"Quite clear," replied Hood calmly.  "His letter begins, ‘Dear Owen,
 I am really tremendously grateful in spite of all I used to say
 about leather and about horse-hair.'"
 
 "About what?" asked Pierce.
 
-"Horse-hair," said Hood with severity.  "He goes on, `The [[Truth|truth]]
+"Horse-hair," said Hood with severity.  "He goes on, ‘The [[Truth|truth]]
 is they thought they could do what they liked with me because I
 always boasted that I hadn't got one, and never wanted to have one;
 but when they found I had got one, and I must really say a jolly
@@ -3278,7 +3277,7 @@ and he had a jolly good one."
 word competition."
 
 "I've got the prize," observed Hood placidly.  "The missing word
-is `solicitor.' What he means is that the police took liberties
+is ‘solicitor.' What he means is that the police took liberties
 with him because they knew he would not have a lawyer.  And he
 is perfectly right; for when I took the matter up on his behalf,
 I soon found that they had put themselves on the wrong side of the law
@@ -3327,7 +3326,7 @@ give me Mr. White."
 
 "Oh, very well," replied Hood, "if you prefer his text to
 my exposition, he describes the same situation as follows: 
-`I ought to be grateful, being perfectly happy after all this muddle;
+‘I ought to be grateful, being perfectly happy after all this muddle;
 I suppose one ought to be careful about nomenclature; but it
 never even occurred to me that her nose would be out of joint. 
 Rather funny to be talking about noses, isn't it, for I suppose
@@ -3388,7 +3387,7 @@ a lady of any delicacy to deduce an elephant."
 said Pierce.  "Where did he get the elephant?"
 
 "He says something about that too," said Hood, referring to the letter. 
-"He says, `I may be a quarrelsome fellow.  But quarrels sometimes do good. 
+"He says, ‘I may be a quarrelsome fellow.  But quarrels sometimes do good. 
 And though it wasn't actually one of Captain Pierce's caravans--'"
 
 "No, hang it all!" cried Pierce.  "This is really too much! 
@@ -3837,7 +3836,7 @@ In the publicity line there's nothing like saying you can do what
 folks say can't be done.  Flying in the face of proverbs instead
 of providence, I reckon.  It catches on at once.  We got to work,
 and got out the first advertisement in no time; just a blank space
-with `We Can Do It' in the middle.  Got folks wondering for a week
+with ‘We Can Do It' in the middle.  Got folks wondering for a week
 what it was."
 
 "I [[Hope|hope]], sir," said Pierce in a low voice, "that you will not
@@ -3847,7 +3846,7 @@ for a week what it was."
 "[[Well]]," said Oates, "we found we could subject the pigskin and
 bristles to a new gelat'nous process for making artificial silk,
 and we figured that publicity would do the rest.  We came out
-with the second set of posters:  `She Wants it Now'... `The
+with the second set of posters:  ‘She Wants it Now'... ‘The
 Most Wonderful Woman on Earth is waiting by the Old Fireside,
 hoping you'll bring her [[Home|home]] a Pig's Whisper Purse.'"
 
@@ -3855,7 +3854,7 @@ hoping you'll bring her [[Home|home]] a Pig's Whisper Purse.'"
 
 "I see you're on the notion," proceeded the unmoved American. 
 "We called 'em Pig's Whisper Purses after the smartest and most
-popular poster we ever had:  `There was a Lady Loved a Swine.' 
+popular poster we ever had:  ‘There was a Lady Loved a Swine.' 
 You know the nursery rhyme, I guess; featured a slap-up princess
 whispering in a pig's ear.  I tell you there isn't a smart woman
 in the States now that can do without one of our pig-silk purses,
@@ -4078,7 +4077,7 @@ He produced her photograph with a paralysing promptitude; it represented
 a very regal lady dressed up to the nines, probably for the occasion,
 with very brilliant eyes and an elaborate load of light hair.
 
-"`I believe in your star, Enoch,' she said; `you stick to Pork,'"
+"‘I believe in your star, Enoch,' she said; ‘you stick to Pork,'"
 said Oates, with tender reminiscence, "and so we saw it through."
 
 Pierce, who had been speculating with involuntary irreverence on
@@ -4217,7 +4216,7 @@ English estate out here.  He was going to play the philanthropist,
 and have a model estate with all the regular trimmings; heads hygienically
 shaved by machinery every morning; and the cottagers admitted once
 a month into their own front gardens and told to keep off the grass. 
-But I said to him:  `If you're going to give things to people,
+But I said to him:  ‘If you're going to give things to people,
 why not give 'em?  If you give your friend a plant in a pot,
 you don't send him an inspector from the Society for the Prevention
 of Cruelty to Vegetables to see he waters it properly.  If you give
@@ -4297,7 +4296,7 @@ they usually have in observatories."
 
 "Couldn't be partly a gun and partly a telescope?" pleaded Pierce,
 reluctant to abandon his first fancy.  "I've often seen the phrase
-`shooting stars,' but perhaps I've got the grammar and sense of
+‘shooting stars,' but perhaps I've got the grammar and sense of
 it wrong.  The young man lodging with the farmer may be following
 one of the local sports--the local substitute for duck-shooting!"
 
@@ -4318,9 +4317,9 @@ farmers must be treated like small squires and not like tenants or serfs.
 
 "Yes, sir," said the girl.  "They say Mr. Green is a great astronomer."
 
-"I doubt if you ought to call me `sir,'" said Pierce reflectively. 
+"I doubt if you ought to call me ‘sir,'" said Pierce reflectively. 
 "It suggests rather the forgotten feudalism than the new equality. 
-Perhaps you might oblige me by saying `Yes, citizen,' then we could
+Perhaps you might oblige me by saying ‘Yes, citizen,' then we could
 continue our talk about Citizen Green on an equal footing.  By the way,
 pardon me, let me present Citizen Crane."
 
@@ -4329,7 +4328,7 @@ enthusiasm for his new title; but Pierce went on.
 
 "Rather rum to call ourselves citizens when we're all so glad to be out
 of the city.  We really want some term suitable to rural equality. 
-The Socialists have spoilt `Comrade'; you can't be a comrade without
+The Socialists have spoilt ‘Comrade'; you can't be a comrade without
 a Liberty tie and a pointed beard.  Morris had a good notion of one
 man calling another Neighbour.  That sounds a little more rustic. 
 I suppose," he added wistfully to the girl, "I suppose I could not
@@ -4553,7 +4552,7 @@ delight at the crowning coincidence of a fairy-tale.
 Green put up his hand to his hair; and after a short [[Silence|silence]]
 said suddenly, like a man recalling a recondite Greek quotation:
 
-"Why, I've heard that somewhere.  There was something else--`The
+"Why, I've heard that somewhere.  There was something else--‘The
 little dog laughed--'"
 
 Then something happened, which was in the world of ideas much
@@ -4693,15 +4692,15 @@ The Colonel, sitting at his club with his favourite daily paper
 spread out before him, was regarding with a grave wonder a paragraph
 that began with the following head-lines:
 
-              AMAZING SCENE AT SCIENTIFIC CONGRESS
+AMAZING SCENE AT SCIENTIFIC CONGRESS
 
-                 LECTURER GOES MAD AND ESCAPES
+LECTURER GOES MAD AND ESCAPES
 
 "A scene equally distressing and astonishing took place at the third
 meeting of the Astronomical Society now holding its congress
 at Bath.  Professor Oliver Green, one of the most promising of
 the younger astronomers, was set down in the syllabus to deliver
-a lecture on `Relativity in Relation to Planetary Motion.' 
+a lecture on ‘Relativity in Relation to Planetary Motion.' 
 About an hour before the lecture, however, the authorities received
 a telegram from Professor Green, altering the subject of his address
 on the ground that he had just discovered a new star, and wished
@@ -4720,9 +4719,9 @@ a still more improbable of a more mobile but equally monstrous form
 of life, resting on four trunks or columns which swung in rotation,
 and terminating in some curious curved appendages, when a young man
 in the front row, whose demeanour had shown an increasing levity,
-called out abruptly:  `Why, that's a cow!'  To this the professor,
+called out abruptly:  ‘Why, that's a cow!'  To this the professor,
 abandoning abruptly all pretence of scientific dignity, replied by
-shouting in a voice like thunder:  `Yes, of course it's a cow;
+shouting in a voice like thunder:  ‘Yes, of course it's a cow;
 and you fellows would never have noticed a cow, even if she jumped
 over the [[Moon|moon]]!'  The unfortunate professor then began to rave
 in the most incoherent manner, throwing his arms about and shouting
@@ -5047,7 +5046,7 @@ they like."
 other examples.  They say that Owen Hood, another of these eccentrics,
 has actually bought one of these little farms and stuck it all round
 with absurd battlements and a moat and drawbridge, with the motto
-`The Englishman's House is his Castle.'"
+‘The Englishman's House is his Castle.'"
 
 "I think," said the Prime Minister quietly, "that however English
 the Englishman may be, he will find his castle is a castle in Spain;
@@ -5172,14 +5171,14 @@ though the name escapes me."
 
 "Rosewood Castle," said Mr. Low rather sulkily.
 
-"But I say," cried Sir Horace, rising, "what becomes of `Don't
+"But I say," cried Sir Horace, rising, "what becomes of ‘Don't
 Nationalize but Rationalize'?"
 
-"I suppose," replied Eden lightly, "it will have to be `Don't
+"I suppose," replied Eden lightly, "it will have to be ‘Don't
 Rationalize but Nationalize.'  It comes to the same thing. 
 Besides, we can easily get a new motto of some sort.  For instance,
 we, after all, are the patriotic party, the national party. 
-What about `Let the Nationalists Nationalize'?"
+What about ‘Let the Nationalists Nationalize'?"
 
 "[[Well]], all I can say is--" began Normantowers explosively.
 
@@ -5279,15 +5278,15 @@ servants brought it in.  How the devil did it get out here in the [[Garden|garde
 He ripped it open with his finger and remained for some [[Time|time]] staring
 in [[Mystification|mystification]] at its contents.
 
-                                             "Welkin [[Castle]],
-                                            Sept. 4th, 19--.
+"Welkin [[Castle]],
+Sept. 4th, 19--.
 
 "Dear Lord Eden,--As I understand you are making public provision
 for the future disposal of our historic national castles,
 such as Warbridge [[Castle]], I should much appreciate any information
 about your intentions touching Welkin [[Castle]], my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
-                                         "Welkyn of Welkin."
+"Welkyn of Welkin."
 
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
 but I can't recall him at the moment.  And where is Welkin [[Castle]]? 
@@ -5312,8 +5311,8 @@ though this was lying not on the table but on the turf just beside it.
 It was unstamped like the other and addressed in the same handwriting;
 but its tone was more stern.
 
-                                             "Welkin [[Castle]],
-                                             Oct. 6th, 19--.
+"Welkin [[Castle]],
+Oct. 6th, 19--.
 
 "My Lord,--As you seem to have decided to continue your sweeping
 scheme of confiscation, as in the case of Warbridge [[Castle]],
@@ -5323,7 +5322,7 @@ the fortress of my fathers to the [[Death|death]].  Moreover, I have decided
 to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
-                                          Welkyn of Welkin."
+Welkyn of Welkin."
 
 The historic and even heroic traditions of Welkin [[Castle]] kept a
 dozen of the Prime Minister's private secretaries busy for a week,
@@ -5539,7 +5538,7 @@ could never understand.
 
 "Quite poetical, isn't it?" he said drily.  "Wasn't it Victor
 Hugo or some French poet who said something about politics and
-the clouds?... The people say, `Bah, the poet is in the clouds. 
+the clouds?... The people say, ‘Bah, the poet is in the clouds. 
 So is the thunderbolt.'"
 
 "Thunderbolts!" said Normantowers contemptuously.  "What can
@@ -5604,9 +5603,9 @@ on in a minute."
 do I want it uninterrupted.  I mean while I'm here.  A little
 of your scientific conversation goes a long way with me; I know
 what you're like when you're really chatty.  Professor Green will say
-in his satirical way `9920.05,' to which you will reply with quiet
-[[Humour|humour]] `75.007.' This will be too good an opening for a witty
-fellow like the Professor, who will instantly retort `982.09.' Not
+in his satirical way ‘9920.05,' to which you will reply with quiet
+[[Humour|humour]] ‘75.007.' This will be too good an opening for a witty
+fellow like the Professor, who will instantly retort ‘982.09.' Not
 in the best taste perhaps, but a great [[Temptation|temptation]] in the heat of [[debate]]."
 
 "Commander Blair," said [[The Professor|the Professor]], "is very kind to let me
@@ -5736,7 +5735,7 @@ like glass; and she could make you listen to [[Silence|silence]] like a [[Song|s
 It wasn't a pose with her, it was a poem; there are people like that,
 but very few of them like her.  I tried to keep up my end by telling
 her about the wonders of science, and the great new architecture
-of the air.  And then Sheila used to say, `And what is the good
+of the air.  And then Sheila used to say, ‘And what is the good
 of them to me, when you HAVE built them.  I can see a castle
 build itself without hands out of gigantic rocks of clear jewels
 in the sky every night.'  And she would point to where crimson
@@ -5878,7 +5877,7 @@ of the valley."
 "I hope I'm not quite so old as that," answered Elizabeth.
 
 "Listen to this," cried her husband, turning over the pages
-of the book.  "`According to the general belief, which prevailed
+of the book.  "‘According to the general belief, which prevailed
 until the recent [[success]] of the agrarian movement of the Long Bow,
 it was overwhelmingly improbable that a revolutionary change could
 be effected in England.  The recent [[success]] of the agrarian protest--'"
@@ -5903,7 +5902,7 @@ isn't quite so easy, what with Turks and all that.  It's all very
 "Never you mind about the United States," said Hood easily; "I think
 I'm rather in favour of the Heptarchy.  You just listen to this;
 the [[Epic|epic]] of our own Heptarchy, the story of our own dear little
-domestic war.  `The recent success of the agrarian protest--'"
+domestic war.  ‘The recent success of the agrarian protest--'"
 
 He was interrupted again by the arrival of two more guests;
 by the silent entrance of Colonel Crane and the very noisy entrance
@@ -5998,7 +5997,7 @@ however, showed an indifference to this new issue and a disposition
 to go back on the old demand for milk; in which matter, they said,
 there was an unfair advantage for the man who possessed a cow over
 the man who only possessed a can.  But the story that Hunter had
-rivalled the agrarian slogan by proclaiming the policy of `Three
+rivalled the agrarian slogan by proclaiming the policy of ‘Three
 Areas and a Can' was in all probability a flippant invention of his enemies.
 
 "These agrarian strikes had already occurred at intervals before they
@@ -6056,7 +6055,7 @@ of them--Captain Hilary Pierce, late of the Flying Corps.
 "But if this was true of such trifles as half a dozen of Prime Ministers,
 it was even truer and more trying in the practical matter of party
 programmes and proposals.  The heading of each party programme
-with the old promise `Every Man a Millionaire' had of course become
+with the old promise ‘Every Man a Millionaire' had of course become
 merely formal, like a decorative pattern or border.  But it cannot be
 denied that the universal use of this phrase, combined with the equally
 universal sense of the unfairness of expecting any politician to carry
@@ -6108,7 +6107,7 @@ or any of the clerks to assist him in lifting it out of the cab.
 of the League of the Long Bow stood solid and loyal and dependable. 
 The Long Bowmen had become popular by the nickname of the Liars. 
 Everywhere the jest or catchword was repeated like a song,
-`Only the Liars Tell the [[Truth]].'  They found more and more men
+‘Only the Liars Tell the [[Truth]].'  They found more and more men
 to work and fight for them, because it was known that they would
 pay whatever wages they promised, and refuse to promise anything
 that they could not perform.  The nickname became an ironical symbol
@@ -6122,8 +6121,8 @@ vows about white elephants or flying pigs.  Hence, when they came
 to stand for a policy of peasant proprietorship, and were enabled
 by the money of an American crank to establish it in a widespread
 fashion across the west of England, they took the more serious task
-with the same tenacity.  When their foes mocked them with `the myth
-of three acres and a cow,' they answered:  `Yes, it is as mythical
+with the same tenacity.  When their foes mocked them with ‘the myth
+of three acres and a cow,' they answered:  ‘Yes, it is as mythical
 as the cow that jumped over the [[Moon|moon]].  But our myths come true.'
 
 "The inexplicable and indeed incredible conclusion of the story was due
@@ -6193,8 +6192,8 @@ men who know that publicity is the [[Soul|soul]] of business.  For some
 prejudice that had prevented soldiers and sailors from advertising
 the best methods of defeating the enemy; and we can all recall
 those brilliantly coloured announcements which used to brighten
-so many hoardings in those days, `Sink in Smith's Submarine;
-Pleasure Trips for Patriots.'  Or `Duffin's Portable Dug-Out Makes
+so many hoardings in those days, ‘Sink in Smith's Submarine;
+Pleasure Trips for Patriots.'  Or ‘Duffin's Portable Dug-Out Makes
 War a Luxury.'  Advertisement cannot fail to effect its aim;
 the name of an aeroplane that had been written on the sky in pink
 and pea-green lights could not but become a symbol of the conquest
@@ -6315,21 +6314,21 @@ they could produce their own rude mediaeval weapons everywhere.
 It was in vain that Professor Hake delivered a series of popular
 lectures, proving to the lower classes that in the long run it
 would be to their economic advantage to be killed in battle. 
-Captain Pierce is reported to have said:  `I believe the Professor is
+Captain Pierce is reported to have said:  ‘I believe the Professor is
 a botanist as well as an economist; but as a botanist he has not yet
 discovered that guns and arrows do not grow on trees.  Bows and arrows do.'
 
 "But the incident which history will have most difficulty in explaining,
 and which it may perhaps refer to the region of myth or romance,
 is the crowning victory commonly called the Battle of the Bows. 
-It was indeed originally called `The Battle of the Bows of God';
+It was indeed originally called ‘The Battle of the Bows of God';
 in reference to some strangely fantastic boast, equally strangely fulfilled,
 that is said to have been uttered by the celebrated Parson White,
 a sort of popular chaplain who seems to have been the Friar Tuck
 of this new band of [[Robin Hood]].  Coming on a sort of embassy to Sir
 Horace Hunter, this clergyman is said to have threatened the [[government|Government]]
 with something like a miracle.  When rallied about the archaic
-sport of the long bow, he replied:  `Yes, we have long bows and we
+sport of the long bow, he replied:  ‘Yes, we have long bows and we
 shall have longer bows; the longest bows the world has ever seen;
 bows taller than houses; bows given to us by God Himself and big
 enough for His gigantic angels.'
@@ -6384,12 +6383,12 @@ Owen Hood paused in the act of lighting a cigar.
 
 "Yes," he said grimly.  "I believe I can tell you exactly
 what he said.  I've watched him off and on for twenty years. 
-I bet he began by saying:  `I don't profess to be a religious man.'"
+I bet he began by saying:  ‘I don't profess to be a religious man.'"
 
 "Right, quite right," cried the cleric bounding upon his chair in a
-joyous manner, "that's exactly how he began.  `I don't profess to be
+joyous manner, "that's exactly how he began.  ‘I don't profess to be
 a religious man, but I trust I have some reverence and good taste. 
-I don't drag religion into politics.'  And I said:  `No, I don't
+I don't drag religion into politics.'  And I said:  ‘No, I don't
 think you do.'"
 
 A moment after, he bounded, as it were, in a new direction. 
@@ -6418,7 +6417,7 @@ on [[Fire|fire]]; you cannot set the Tiber or the Ganges on [[Fire|fire]],
 because the habit of speech has never been heard of.
 What's the good of talking about white elephants in countries
 where they are only white elephants?  Go and say to a Frenchman,
-`Pour mon chateau, je le trouve un elephant blanc'
+‘Pour mon chateau, je le trouve un elephant blanc'
 and he will send two Parisian alienists to look at you seriously,
 like a man who says that his motor-car is a green giraffe.
 There is no point in telling Czecho-Slovakian pigs to fly,
@@ -6545,7 +6544,7 @@ each one of us his Vita Nuova?"
 
 "No, sir," said Mr. Archer.
 
-     *     *     *     *     *     *     *     *     *
+*     *     *     *     *     *     *     *     *
 
 Thus does the chronicler of the League of the Long Bow come to
 the end of his singularly unproductive and unprofitable labours,
@@ -6576,11 +6575,10 @@ it is generally very difficult to find the arrow--or the boy.
 
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Tales of the Long Bow — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 1)
 
-                          Chapter I
+Chapter I
 
-        The Unpresentable Appearance of Colonel Crane
+The Unpresentable Appearance of Colonel Crane
 
 These tales concern the doing of things recognized as
 impossible to do; impossible to believe; and, as the weary reader
@@ -6708,7 +6706,6 @@ the moment, however, he was not looking at the idol, but at the scarecrow.
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Tales of the Long Bow — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 2)
 
 "By the way, Archer," he said, "don't you think the scarecrow wants
 a new hat?"
@@ -6837,7 +6834,6 @@ instead of "What a funny hat!"
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="Tales of the Long Bow — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 3)
 
 As to why he corrected himself, a true picture of what passed through
 his mind might sound rather fanciful in itself.  It would be less
@@ -6944,7 +6940,6 @@ at the moment to call all houses hats and all visitors vegetables.
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="Tales of the Long Bow — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 4)
 
 When Crane came out of his front gate that morning he found his
 neighbour Vernon-[[smith|Smith]] standing outside, between the spreading
@@ -7065,7 +7060,6 @@ the real reason.  I might even say I promise you shall SEE the real reason."
 
 <span class="atom-split" data-atom="chapter_01--part_05" data-title="Tales of the Long Bow — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 5)
 
 The Colonel took an intense interest in the appointments of the
 luncheon next day.  With subconscious surprise he found himself
@@ -7166,7 +7160,7 @@ Only my friend, in the heat of rejecting and ridiculing the notion,
 made use of a hasty expression.  I might almost say he made a
 rash vow."
 
-"My exact words were," said Colonel Crane solemnly:  "`If you can
+"My exact words were," said Colonel Crane solemnly:  "‘If you can
 do that, I'll eat my hat.'"
 
 He leaned forward thoughtfully and began to eat it.  Then he resumed
@@ -7189,7 +7183,6 @@ the vow or wager; for one ought always to lose something on a wager."
 
 <span class="atom-split" data-atom="chapter_01--part_06" data-title="Tales of the Long Bow — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 6)
 
 And he rose from the table with a gesture of apology.
 
@@ -7313,7 +7306,6 @@ in a disproportionate fashion, though all that she said was:
 
 <span class="atom-split" data-atom="chapter_01--part_07" data-title="Tales of the Long Bow — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 1 (part 7)
 
 "What became of your old hat?"
 
@@ -7429,7 +7421,7 @@ she said.  "Well, do you know, it really does make a difference.
 Literary people let words get between them and things.  We do
 at least look at the things and not the names of the things. 
 You think a cabbage is comic because the name sound comic and
-even vulgar; something between `cab' and `garbage,' I suppose. 
+even vulgar; something between ‘cab' and ‘garbage,' I suppose. 
 But a cabbage isn't really comic or vulgar.  You wouldn't think
 so if you simply had to paint it.  Haven't you seen Dutch and
 Flemish galleries, and don't you know what great men painted cabbages? 
@@ -7472,7 +7464,6 @@ and an interval must be allowed him before such torments are renewed.
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Tales of the Long Bow — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 1)
 
 Chapter II
 
@@ -7591,7 +7582,7 @@ There was a silence, and Hood sat gazing with his owlish face at
 the dim pools in which the dark woods were mirrored.  At last he said:
 
 "Moss isn't the only thing found on that.  Sometimes there
-is the word `Resurgam'."
+is the word ‘Resurgam'."
 
 "[[Well]], I [[Hope|hope]] you will," said Crane genially.  "But the trumpet
 will have to be pretty loud to wake you up.  It's my opinion you'll
@@ -7602,7 +7593,6 @@ be too late for the Day of Judgement."
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Tales of the Long Bow — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 2)
 
 "Now if this were a true dramatic dialogue," remarked Hood,
 "I should answer that it would be better for you if you were. 
@@ -7720,7 +7710,6 @@ talking to a wandering lunatic.
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="Tales of the Long Bow — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 3)
 
 That was the beginning of what was for Owen Hood a crawling [[nightmare]]. 
 The change advanced slowly, by a process covering years, but it
@@ -7836,7 +7825,6 @@ a light of somewhat sinister understanding dawned on his long face.
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="Tales of the Long Bow — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 4)
 
 On this occasion [[The Professor|the Professor]] advanced an even more interesting theory. 
 He was a big, blond man with blinking eyes and a bull neck;
@@ -7936,7 +7924,7 @@ tipped off the shore will fall into the [[River|river]], because I don't
 understand hydraulics.  I don't know whether your machinery makes
 a hell of a noise every morning, for I've never studied acoustics. 
 I don't know whether it stinks or not, because I haven't read
-your expert's book on `The Nose.'  But I know all about adaptation
+your expert's book on ‘The Nose.'  But I know all about adaptation
 to environment.  I know that some of the lower organisms do really
 change with their changing conditions.  I know there are creatures
 so low that they do survive by surrendering to every succession of mud
@@ -7979,7 +7967,6 @@ known as "hands," which moved to and fro in it.
 
 <span class="atom-split" data-atom="chapter_02--part_05" data-title="Tales of the Long Bow — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 5)
 
 Hood took no interest in the election; but while it was proceeding
 he followed the matter a little further in another form.  He was
@@ -8106,7 +8093,6 @@ been were rows of little houses like boxes, built of dirty yellow brick.
 
 <span class="atom-split" data-atom="chapter_02--part_06" data-title="Tales of the Long Bow — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 6)
 
 Hood spoke.  "And when you shall see the abomination of desolation
 sitting in the Holy of Holies--isn't that when the world is supposed
@@ -8144,7 +8130,7 @@ you know."
 There was a silence and then Hood spoke suddenly in a loud
 and cheerful voice.
 
-"Well, what I say is, `Vote for Hunter,'" he said heartily. 
+"Well, what I say is, ‘Vote for Hunter,'" he said heartily. 
 "After all, why not vote for Hunter?  Good old Hunter!  I [[Hope|hope]]
 he'll be a member of Parliament.  I [[Hope|hope]] he'll be Prime Minister. 
 I [[Hope|hope]] he'll be President of the World State that Wells talks about. 
@@ -8246,7 +8232,6 @@ The catch in her voice came again and [[Silence|silence]] caught and held her.
 
 <span class="atom-split" data-atom="chapter_02--part_07" data-title="Tales of the Long Bow — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 7)
 
 He took one stride forward as into the heart of a whirlwind;
 and they met on the top of that windy [[Hill|hill]] as if they had come
@@ -8381,7 +8366,6 @@ a husband standing for Parliament.
 
 <span class="atom-split" data-atom="chapter_02--part_08" data-title="Tales of the Long Bow — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 2 (part 8)
 
 "We've rounded up all those people down Bleak Row," said Dr. Hunter. 
 "No good going down The Hole and those filthy places.  No vote there. 
@@ -8403,7 +8387,7 @@ That you are going to let this [[Night|night]] of triumph pass without
 kindling a hundred flames to light the path of the conqueror? 
 Do you realize that the hearts of a whole people have spontaneously
 stirred and chosen him?  That the [[Suffering|suffering]] poor murmured in their
-[[Sleep|sleep]] `Vote for Hunter' long before the Caucus came by a providential
+[[Sleep|sleep]] ‘Vote for Hunter' long before the Caucus came by a providential
 coincidence to the same conclusion?  Would not the people in The Hole
 set fire to their last poor sticks of furniture to do him honour? 
 Why, from this chair alone--"
@@ -8430,7 +8414,7 @@ to our island as our old national tradition of landscape-painting
 in water-colour; never was that water-colour so luminous or so
 delicate as when dedicated to these holy waters.  It was in such
 a scene that one of the most exquisite of our elder poets repeated
-as a burden to his meditations the single line, `Sweet Thames,
+as a burden to his meditations the single line, ‘Sweet Thames,
 run softly till I end my [[Song|song]].'
 
 "Rumours have been heard of some intention to trouble these waters;
@@ -8482,7 +8466,7 @@ Is he something like Old Moore?"
 "Only an old friend," said Hood hastily, "only an old friend of mine. 
 It's what he said that's so important.  He didn't like my moping
 about with books and a fishing-rod, and he said, standing on that
-very island, `You may know a lot; but I don't think you'll ever set
+very island, ‘You may know a lot; but I don't think you'll ever set
 the Thames on fire.  I'll eat my hat if you do.'"
 
 But the story of how Old Crane ate his hat is one upon which some readers
@@ -8497,7 +8481,6 @@ of Captain Pierce, and their trials are for a time deferred.
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Tales of the Long Bow — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 1)
 
 Chapter III
 
@@ -8553,7 +8536,7 @@ and eggs to boast of.  They ought to be quartered on the Royal Arms:
 three pigs passant and three poached eggs on a chevron.  It was bacon
 and eggs that gave all that morning glory to the English poets;
 it must have been a man who had a breakfast like this who could
-rise with that giant gesture:  `[[Night]]'s candles are burnt out;
+rise with that giant gesture:  ‘[[Night]]'s candles are burnt out;
 and jocund day--'"
 
 "Bacon did write Shakespeare, in fact," said the Colonel.
@@ -8624,7 +8607,6 @@ he seemed transfigured as with flame.
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="Tales of the Long Bow — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 2)
 
 "What's all this infernal insane foolery?" he demanded.  "Who has
 the damned impudence to tell the Hardys they mustn't keep pigs? 
@@ -8754,7 +8736,6 @@ of the Blue Boar."
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="Tales of the Long Bow — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 3)
 
 "Loud and prolonged cheers," said Crane politely, "and now come
 away and don't spoil the peroration.  Owen wants to potter about
@@ -8878,7 +8859,6 @@ is whelmed in war."
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="Tales of the Long Bow — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 4)
 
 He disappeared like a flash behind the high bank and the wall,
 and Joan went back in [[Silence|silence]] to the inn.
@@ -8993,7 +8973,6 @@ sight to see the old lady clear a hedge and skedaddle across a meadow."
 
 <span class="atom-split" data-atom="chapter_03--part_05" data-title="Tales of the Long Bow — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 5)
 
 Hood looked at him under bended brows and his mouth began to work.
 
@@ -9121,7 +9100,6 @@ like a brightly coloured feather.
 
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="Tales of the Long Bow — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 6)
 
 "People are coming down in parachutes," said the Colonel shortly.
 
@@ -9155,7 +9133,7 @@ seemed to start from a trance and struck his hands together.
 
 "Come back to what word?" asked his friend.
 
-"`Impossible,'" answered Owen Hood.  "It's the word that runs
+"‘Impossible,'" answered Owen Hood.  "It's the word that runs
 through his whole life, and ours too for that matter.  Don't you
 see what he has done?"
 
@@ -9244,7 +9222,7 @@ he'd rather it was somebody like you, and not one of the new gentlemen."
 "Well, I'm glad I'm an old gentleman, any how," he answered
 somewhat mollified.  "But really this prevalence of common
 sense is getting quite dangerous.  Will nothing rouse you all
-to a little unreality; to saying, so to speak, `O, for the wings
+to a little unreality; to saying, so to speak, ‘O, for the wings
 of a pig that I might flee away and be at rest.'  What would you
 say if I turned the [[World Upside Down|world upside down]] and set my foot upon
 the sun and [[Moon|moon]]?"
@@ -9254,7 +9232,6 @@ the sun and [[Moon|moon]]?"
 
 <span class="atom-split" data-atom="chapter_03--part_07" data-title="Tales of the Long Bow — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 3 (part 7)
 
 "I should say," replied Joan Hardy, still smiling, "that you wanted
 somebody to look after you."
@@ -9413,7 +9390,6 @@ procedono all'indietro.
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="Tales of the Long Bow — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 1)
 
 Chapter IV
 
@@ -9480,14 +9456,14 @@ he added to Pierce.  "That is a shock that still threatens you."
 "Why, what's the matter with him?" inquired Pierce.
 
 "Nothing," observed Crane in his more staccato style.  "Has a taste
-for starting a letter with `Yours Truly' and ending it with `Dear Sir';
+for starting a letter with ‘Yours Truly' and ending it with ‘Dear Sir';
 that's all."
 
 "I should rather like to hear that letter," observed the young man.
 
 "So you shall," answered Hood, "there's nothing confidential in it;
 and if there were, you wouldn't find it out merely by reading it. 
-The Rev. Wilding White, called by some of his critics `Wild White,'
+The Rev. Wilding White, called by some of his critics ‘Wild White,'
 is one of those country parsons, to be found in corners of the English
 countryside, of whom their old college friends usually think in order
 to wonder what the devil their parishioners think of them.  As a matter
@@ -9506,7 +9482,7 @@ It was written in what had once been a good hand-writing of the
 bolder sort, but which had degenerated through excessive energy
 and haste into an illegible scrawl.  It appeared to run as follows:
 
-"`My dear Owen,--My mind is quite made up; though I know the sort
+"‘My dear Owen,--My mind is quite made up; though I know the sort
 of legal long-winded things you will say against it; I know
 especially one thing a leathery old lawyer like you is bound to say;
 but as a matter of fact even you can't say it in a case like this,
@@ -9527,7 +9503,7 @@ he feels that the [[Time|time]] has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 
-"`I've got a lot to tell you about the new arrangement, which works
+"‘I've got a lot to tell you about the new arrangement, which works
 much better even than I hoped.  I was afraid at first it would
 really be an encumbrance, as you know it's always supposed to be. 
 But there are more things, and all the rest of it, and God
@@ -9539,7 +9515,6 @@ Asiatic feeling sometimes.'"
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="Tales of the Long Bow — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 2)
 
 "Yes," said the Colonel, "it does."
 
@@ -9549,7 +9524,7 @@ bear no more.
 "You are not used to the epistolary method," said Hood indulgently;
 "you haven't got into the swing of the style.  It goes on:"
 
-"`Of course, he's a big pot down here, and all sorts of skunks
+"‘Of course, he's a big pot down here, and all sorts of skunks
 are afraid of him and pretend to boycott me.  Nobody could expect
 anything else of those pineapple people, but I confess I was
 surprised at Parkinson.  Sally of course is as sound as ever;
@@ -9573,7 +9548,7 @@ of fiction and film-drama if Snowdrop were the daughter of the lady,
 when she had married Another.  But there seems to be something
 more about Snowdrop, that little sunbeam in the [[house]]:"
 
-"`Snowdrop tries to enter our ways, as they always do; but, of course,
+"‘Snowdrop tries to enter our ways, as they always do; but, of course,
 it would be awkward if she played tricks.  How alarmed they would
 all be if she took it into her head to walk about on two legs,
 like everybody else.'"
@@ -9597,7 +9572,7 @@ must be a pony.  It seems a likely enough name for a pony.  I thought
 at first it was a dog or a cat, but alarming seems a strong word
 even for a dog or a cat sitting up to beg.  But a pony on its hind
 legs might be a little alarming, especially when you're riding it. 
-Only I can't fit this view in with the next sentence:  `I've taught
+Only I can't fit this view in with the next sentence:  ‘I've taught
 her to reach down the things I want.'"
 
 "Lord!" cried Pierce.  "It's a monkey!"
@@ -9606,7 +9581,7 @@ her to reach down the things I want.'"
 the weird Asiatic atmosphere.  But a monkey on two legs is even less
 unusual than a dog on two legs.  Moreover, the reference to Asiatic
 mystery seems really to refer to something else and not to any animal
-at all.  For he ends up by saying:  `I feel now as if my mind were
+at all.  For he ends up by saying:  ‘I feel now as if my mind were
 moving in much larger and more ancient spaces of time or eternity;
 and as if what I thought at first was an oriental atmosphere was only
 an atmosphere of the orient in the sense of dayspring and the dawn. 
@@ -9674,7 +9649,6 @@ to somebody who didn't seem to be there."
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="Tales of the Long Bow — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 3)
 
 Hilary Pierce, fired by his detective fever, made a good many
 more inquiries about the Rev. Wilding White, both of his two old
@@ -9732,7 +9706,7 @@ by the way, that I had a letter from him too.  Came the day
 after I heard yours.  Shorter, and perhaps a little plainer." 
 And he handed the letter to Hood, who read it out slowly:
 
-"`I never knew the old British populace, here in Avalon itself,
+"‘I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
 Nobody dared help me move my [[house]] again; said it was illegal
 and they were afraid of the police.  But Snowdrop helped, and we
@@ -9788,7 +9762,6 @@ the first man to mount upon wings.
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="Tales of the Long Bow — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 4)
 
 Perhaps this literally flying figure shone the more vividly in
 their memories because, when they saw it again, it was in a subtle
@@ -9906,7 +9879,6 @@ and derision.
 
 <span class="atom-split" data-atom="chapter_04--part_05" data-title="Tales of the Long Bow — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 5)
 
 "I will tell you one more thing I learnt before I left those parts. 
 I left them at once, partly because I really had an appointment
@@ -10026,7 +9998,6 @@ And that's what the big shed was really for."
 
 <span class="atom-split" data-atom="chapter_04--part_06" data-title="Tales of the Long Bow — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 6)
 
 "Look here," said the inspector, recovering from his astonishment
 and breaking in on these felicitations.  "I don't understand
@@ -10063,13 +10034,13 @@ in the form of another letter from the parson to the lawyer.
 "Now that we know the secret," said Pierce cheerfully, "even his
 account of it ought to be quite clear."
 
-"Quite clear," replied Hood calmly.  "His letter begins, `Dear Owen,
+"Quite clear," replied Hood calmly.  "His letter begins, ‘Dear Owen,
 I am really tremendously grateful in spite of all I used to say
 about leather and about horse-hair.'"
 
 "About what?" asked Pierce.
 
-"Horse-hair," said Hood with severity.  "He goes on, `The [[Truth|truth]]
+"Horse-hair," said Hood with severity.  "He goes on, ‘The [[Truth|truth]]
 is they thought they could do what they liked with me because I
 always boasted that I hadn't got one, and never wanted to have one;
 but when they found I had got one, and I must really say a jolly
@@ -10087,7 +10058,7 @@ and he had a jolly good one."
 word competition."
 
 "I've got the prize," observed Hood placidly.  "The missing word
-is `solicitor.' What he means is that the police took liberties
+is ‘solicitor.' What he means is that the police took liberties
 with him because they knew he would not have a lawyer.  And he
 is perfectly right; for when I took the matter up on his behalf,
 I soon found that they had put themselves on the wrong side of the law
@@ -10136,7 +10107,7 @@ give me Mr. White."
 
 "Oh, very well," replied Hood, "if you prefer his text to
 my exposition, he describes the same situation as follows: 
-`I ought to be grateful, being perfectly happy after all this muddle;
+‘I ought to be grateful, being perfectly happy after all this muddle;
 I suppose one ought to be careful about nomenclature; but it
 never even occurred to me that her nose would be out of joint. 
 Rather funny to be talking about noses, isn't it, for I suppose
@@ -10149,7 +10120,6 @@ Talk about a spire pointing to the [[Stars|stars]]--'"
 
 <span class="atom-split" data-atom="chapter_04--part_07" data-title="Tales of the Long Bow — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 4 (part 7)
 
 "I think," said Crane, interposing mildly, "that it would be
 better if you resumed your duties as official interpreter. 
@@ -10204,7 +10174,7 @@ a lady of any delicacy to deduce an elephant."
 said Pierce.  "Where did he get the elephant?"
 
 "He says something about that too," said Hood, referring to the letter. 
-"He says, `I may be a quarrelsome fellow.  But quarrels sometimes do good. 
+"He says, ‘I may be a quarrelsome fellow.  But quarrels sometimes do good. 
 And though it wasn't actually one of Captain Pierce's caravans--'"
 
 "No, hang it all!" cried Pierce.  "This is really too much! 
@@ -10263,7 +10233,6 @@ and for the moment the threat must hang like thunder in the air.
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Tales of the Long Bow — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 5 (part 1)
 
 Chapter V
 
@@ -10383,7 +10352,6 @@ the American Indians.  Possibly he will come back in feathers and war-paint."
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="Tales of the Long Bow — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 5 (part 2)
 
 "He'll come back scalped, I suppose," said White hopefully. 
 "I suppose being scalped is all the rage in the best Red Indian society?"
@@ -10505,7 +10473,6 @@ like that of night; a sublime and even starry background."
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="Tales of the Long Bow — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 5 (part 3)
 
 "It was against that background of ancient night," went on the young
 man dreamily, "that the fantastic shapes and fiery colours of our
@@ -10639,7 +10606,6 @@ of seven hundred and fifty-one thousand dollars."
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="Tales of the Long Bow — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 5 (part 4)
 
 "Seven hundred and fifty-one thousand dollars," murmured Owen Hood. 
 "How soothing it all seems."
@@ -10681,7 +10647,7 @@ In the publicity line there's nothing like saying you can do what
 folks say can't be done.  Flying in the face of proverbs instead
 of providence, I reckon.  It catches on at once.  We got to work,
 and got out the first advertisement in no time; just a blank space
-with `We Can Do It' in the middle.  Got folks wondering for a week
+with ‘We Can Do It' in the middle.  Got folks wondering for a week
 what it was."
 
 "I [[Hope|hope]], sir," said Pierce in a low voice, "that you will not
@@ -10691,7 +10657,7 @@ for a week what it was."
 "[[Well]]," said Oates, "we found we could subject the pigskin and
 bristles to a new gelat'nous process for making artificial silk,
 and we figured that publicity would do the rest.  We came out
-with the second set of posters:  `She Wants it Now'... `The
+with the second set of posters:  ‘She Wants it Now'... ‘The
 Most Wonderful Woman on Earth is waiting by the Old Fireside,
 hoping you'll bring her [[Home|home]] a Pig's Whisper Purse.'"
 
@@ -10699,7 +10665,7 @@ hoping you'll bring her [[Home|home]] a Pig's Whisper Purse.'"
 
 "I see you're on the notion," proceeded the unmoved American. 
 "We called 'em Pig's Whisper Purses after the smartest and most
-popular poster we ever had:  `There was a Lady Loved a Swine.' 
+popular poster we ever had:  ‘There was a Lady Loved a Swine.' 
 You know the nursery rhyme, I guess; featured a slap-up princess
 whispering in a pig's ear.  I tell you there isn't a smart woman
 in the States now that can do without one of our pig-silk purses,
@@ -10775,7 +10741,6 @@ I mean, why I rather approve of people being backgrounds."
 
 <span class="atom-split" data-atom="chapter_05--part_05" data-title="Tales of the Long Bow — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 5 (part 5)
 
 "I said I had found out something by going round the world,"
 said Crane.  "You young people think I am an old Tory; but remember
@@ -10906,7 +10871,6 @@ every nation assumes that every other nation is a sort of mild madhouse.
 
 <span class="atom-split" data-atom="chapter_05--part_06" data-title="Tales of the Long Bow — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 5 (part 6)
 
 Mr. Enoch Oates received his guest with great hospitality and pressed
 on him cocktails of various occult names and strange colours,
@@ -10936,7 +10900,7 @@ He produced her photograph with a paralysing promptitude; it represented
 a very regal lady dressed up to the nines, probably for the occasion,
 with very brilliant eyes and an elaborate load of light hair.
 
-"`I believe in your star, Enoch,' she said; `you stick to Pork,'"
+"‘I believe in your star, Enoch,' she said; ‘you stick to Pork,'"
 said Oates, with tender reminiscence, "and so we saw it through."
 
 Pierce, who had been speculating with involuntary irreverence on
@@ -11016,7 +10980,6 @@ which those who would endure to the end may read at some later date.
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="Tales of the Long Bow — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 1)
 
 Chapter VI
 
@@ -11082,7 +11045,7 @@ English estate out here.  He was going to play the philanthropist,
 and have a model estate with all the regular trimmings; heads hygienically
 shaved by machinery every morning; and the cottagers admitted once
 a month into their own front gardens and told to keep off the grass. 
-But I said to him:  `If you're going to give things to people,
+But I said to him:  ‘If you're going to give things to people,
 why not give 'em?  If you give your friend a plant in a pot,
 you don't send him an inspector from the Society for the Prevention
 of Cruelty to Vegetables to see he waters it properly.  If you give
@@ -11138,7 +11101,6 @@ down and took precautions."
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="Tales of the Long Bow — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 2)
 
 "But what the devil can he want with a gun?" muttered Pierce,
 peering at the dark outline.
@@ -11169,7 +11131,7 @@ they usually have in observatories."
 
 "Couldn't be partly a gun and partly a telescope?" pleaded Pierce,
 reluctant to abandon his first fancy.  "I've often seen the phrase
-`shooting stars,' but perhaps I've got the grammar and sense of
+‘shooting stars,' but perhaps I've got the grammar and sense of
 it wrong.  The young man lodging with the farmer may be following
 one of the local sports--the local substitute for duck-shooting!"
 
@@ -11190,9 +11152,9 @@ farmers must be treated like small squires and not like tenants or serfs.
 
 "Yes, sir," said the girl.  "They say Mr. Green is a great astronomer."
 
-"I doubt if you ought to call me `sir,'" said Pierce reflectively. 
+"I doubt if you ought to call me ‘sir,'" said Pierce reflectively. 
 "It suggests rather the forgotten feudalism than the new equality. 
-Perhaps you might oblige me by saying `Yes, citizen,' then we could
+Perhaps you might oblige me by saying ‘Yes, citizen,' then we could
 continue our talk about Citizen Green on an equal footing.  By the way,
 pardon me, let me present Citizen Crane."
 
@@ -11201,7 +11163,7 @@ enthusiasm for his new title; but Pierce went on.
 
 "Rather rum to call ourselves citizens when we're all so glad to be out
 of the city.  We really want some term suitable to rural equality. 
-The Socialists have spoilt `Comrade'; you can't be a comrade without
+The Socialists have spoilt ‘Comrade'; you can't be a comrade without
 a Liberty tie and a pointed beard.  Morris had a good notion of one
 man calling another Neighbour.  That sounds a little more rustic. 
 I suppose," he added wistfully to the girl, "I suppose I could not
@@ -11273,7 +11235,6 @@ of the Higher Mathematics, far beyond the flight of his little aeroplane.
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="Tales of the Long Bow — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 3)
 
 [[The Professor]] had begun, as he always began, by saying that it was
 quite easy to explain; which was doubtless true, as he was always
@@ -11388,7 +11349,6 @@ observed Margery Dale conversationally.
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="Tales of the Long Bow — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 4)
 
 "I don't know," he said, slightly stirred to the defensive. 
 "I'm sure I could make you see--I don't mean you aren't clever,
@@ -11439,7 +11399,7 @@ delight at the crowning coincidence of a fairy-tale.
 Green put up his hand to his hair; and after a short [[Silence|silence]]
 said suddenly, like a man recalling a recondite Greek quotation:
 
-"Why, I've heard that somewhere.  There was something else--`The
+"Why, I've heard that somewhere.  There was something else--‘The
 little dog laughed--'"
 
 Then something happened, which was in the world of ideas much
@@ -11527,7 +11487,6 @@ moving and shifting and changing."
 
 <span class="atom-split" data-atom="chapter_06--part_05" data-title="Tales of the Long Bow — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 5)
 
 "Yes," said Owen Hood; "I begin to have some dim idea of what you
 are talking about."
@@ -11586,15 +11545,15 @@ The Colonel, sitting at his club with his favourite daily paper
 spread out before him, was regarding with a grave wonder a paragraph
 that began with the following head-lines:
 
-              AMAZING SCENE AT SCIENTIFIC CONGRESS
+AMAZING SCENE AT SCIENTIFIC CONGRESS
 
-                 LECTURER GOES MAD AND ESCAPES
+LECTURER GOES MAD AND ESCAPES
 
 "A scene equally distressing and astonishing took place at the third
 meeting of the Astronomical Society now holding its congress
 at Bath.  Professor Oliver Green, one of the most promising of
 the younger astronomers, was set down in the syllabus to deliver
-a lecture on `Relativity in Relation to Planetary Motion.' 
+a lecture on ‘Relativity in Relation to Planetary Motion.' 
 About an hour before the lecture, however, the authorities received
 a telegram from Professor Green, altering the subject of his address
 on the ground that he had just discovered a new star, and wished
@@ -11613,9 +11572,9 @@ a still more improbable of a more mobile but equally monstrous form
 of life, resting on four trunks or columns which swung in rotation,
 and terminating in some curious curved appendages, when a young man
 in the front row, whose demeanour had shown an increasing levity,
-called out abruptly:  `Why, that's a cow!'  To this the professor,
+called out abruptly:  ‘Why, that's a cow!'  To this the professor,
 abandoning abruptly all pretence of scientific dignity, replied by
-shouting in a voice like thunder:  `Yes, of course it's a cow;
+shouting in a voice like thunder:  ‘Yes, of course it's a cow;
 and you fellows would never have noticed a cow, even if she jumped
 over the [[Moon|moon]]!'  The unfortunate professor then began to rave
 in the most incoherent manner, throwing his arms about and shouting
@@ -11638,7 +11597,6 @@ further scandal.
 
 <span class="atom-split" data-atom="chapter_06--part_06" data-title="Tales of the Long Bow — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 6)
 
 "At this point, however, a still more extraordinary development
 took place.  The young man in the front row, who had several times
@@ -11756,7 +11714,6 @@ so that they pointed to that spot.
 
 <span class="atom-split" data-atom="chapter_06--part_07" data-title="Tales of the Long Bow — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 6 (part 7)
 
 As the path dropped to the level and she began to walk by farms
 and villages, the [[Storm|storm]] in her mind began to settle and she recovered
@@ -11877,7 +11834,6 @@ will be drawing near its explanation and its end.
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Tales of the Long Bow — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 1)
 
 Chapter VII
 
@@ -11961,7 +11917,7 @@ they like."
 other examples.  They say that Owen Hood, another of these eccentrics,
 has actually bought one of these little farms and stuck it all round
 with absurd battlements and a moat and drawbridge, with the motto
-`The Englishman's House is his Castle.'"
+‘The Englishman's House is his Castle.'"
 
 "I think," said the Prime Minister quietly, "that however English
 the Englishman may be, he will find his castle is a castle in Spain;
@@ -11991,7 +11947,6 @@ hint that you yourself--"
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="Tales of the Long Bow — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 2)
 
 "I take it to mean," said Mr. Oates with great deliberation,
 "that you'll tell your lawyers it'll pay them to pick a hole
@@ -12093,14 +12048,14 @@ though the name escapes me."
 
 "Rosewood Castle," said Mr. Low rather sulkily.
 
-"But I say," cried Sir Horace, rising, "what becomes of `Don't
+"But I say," cried Sir Horace, rising, "what becomes of ‘Don't
 Nationalize but Rationalize'?"
 
-"I suppose," replied Eden lightly, "it will have to be `Don't
+"I suppose," replied Eden lightly, "it will have to be ‘Don't
 Rationalize but Nationalize.'  It comes to the same thing. 
 Besides, we can easily get a new motto of some sort.  For instance,
 we, after all, are the patriotic party, the national party. 
-What about `Let the Nationalists Nationalize'?"
+What about ‘Let the Nationalists Nationalize'?"
 
 "[[Well]], all I can say is--" began Normantowers explosively.
 
@@ -12136,7 +12091,6 @@ you are Lord Lieutenant of that county."
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="Tales of the Long Bow — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 3)
 
 Little Lord Normantowers was staring, with his stiff hair all
 standing on end; but a new look was dawning in his shrewd though
@@ -12207,15 +12161,15 @@ servants brought it in.  How the devil did it get out here in the [[Garden|garde
 He ripped it open with his finger and remained for some [[Time|time]] staring
 in [[Mystification|mystification]] at its contents.
 
-                                             "Welkin [[Castle]],
-                                            Sept. 4th, 19--.
+"Welkin [[Castle]],
+Sept. 4th, 19--.
 
 "Dear Lord Eden,--As I understand you are making public provision
 for the future disposal of our historic national castles,
 such as Warbridge [[Castle]], I should much appreciate any information
 about your intentions touching Welkin [[Castle]], my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
-                                         "Welkyn of Welkin."
+"Welkyn of Welkin."
 
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
 but I can't recall him at the moment.  And where is Welkin [[Castle]]? 
@@ -12240,8 +12194,8 @@ though this was lying not on the table but on the turf just beside it.
 It was unstamped like the other and addressed in the same handwriting;
 but its tone was more stern.
 
-                                             "Welkin [[Castle]],
-                                             Oct. 6th, 19--.
+"Welkin [[Castle]],
+Oct. 6th, 19--.
 
 "My Lord,--As you seem to have decided to continue your sweeping
 scheme of confiscation, as in the case of Warbridge [[Castle]],
@@ -12251,7 +12205,7 @@ the fortress of my fathers to the [[Death|death]].  Moreover, I have decided
 to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
-                                          Welkyn of Welkin."
+Welkyn of Welkin."
 
 The historic and even heroic traditions of Welkin [[Castle]] kept a
 dozen of the Prime Minister's private secretaries busy for a week,
@@ -12275,7 +12229,6 @@ then he said as he [[Rose|rose]] from his chair:
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="Tales of the Long Bow — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 4)
 
 "I think I will have a talk to our American friend Mr. Oates."
 
@@ -12402,7 +12355,6 @@ Houses In The Clouds As Not To Own Your Own Houses On The Earth."
 
 <span class="atom-split" data-atom="chapter_07--part_05" data-title="Tales of the Long Bow — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 5)
 
 Then followed a passage of somewhat less solid political value,
 in which the acute reader might trace the influence of the poetical
@@ -12481,7 +12433,7 @@ could never understand.
 
 "Quite poetical, isn't it?" he said drily.  "Wasn't it Victor
 Hugo or some French poet who said something about politics and
-the clouds?... The people say, `Bah, the poet is in the clouds. 
+the clouds?... The people say, ‘Bah, the poet is in the clouds. 
 So is the thunderbolt.'"
 
 "Thunderbolts!" said Normantowers contemptuously.  "What can
@@ -12531,7 +12483,6 @@ charge of the flying castle.
 
 <span class="atom-split" data-atom="chapter_07--part_06" data-title="Tales of the Long Bow — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 6)
 
 On the platform on which he alighted stood a table covered
 with papers, with almost more papers than Lord Eden's table. 
@@ -12553,9 +12504,9 @@ on in a minute."
 do I want it uninterrupted.  I mean while I'm here.  A little
 of your scientific conversation goes a long way with me; I know
 what you're like when you're really chatty.  Professor Green will say
-in his satirical way `9920.05,' to which you will reply with quiet
-[[Humour|humour]] `75.007.' This will be too good an opening for a witty
-fellow like the Professor, who will instantly retort `982.09.' Not
+in his satirical way ‘9920.05,' to which you will reply with quiet
+[[Humour|humour]] ‘75.007.' This will be too good an opening for a witty
+fellow like the Professor, who will instantly retort ‘982.09.' Not
 in the best taste perhaps, but a great [[Temptation|temptation]] in the heat of [[debate]]."
 
 "Commander Blair," said [[The Professor|the Professor]], "is very kind to let me
@@ -12670,7 +12621,6 @@ It's [[Time|time]] I told you the true story of the [[Castle]] in the Air."
 
 <span class="atom-split" data-atom="chapter_07--part_07" data-title="Tales of the Long Bow — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 7 (part 7)
 
 He smoked silently for a moment, and then said:
 
@@ -12692,7 +12642,7 @@ like glass; and she could make you listen to [[Silence|silence]] like a [[Song|s
 It wasn't a pose with her, it was a poem; there are people like that,
 but very few of them like her.  I tried to keep up my end by telling
 her about the wonders of science, and the great new architecture
-of the air.  And then Sheila used to say, `And what is the good
+of the air.  And then Sheila used to say, ‘And what is the good
 of them to me, when you HAVE built them.  I can see a castle
 build itself without hands out of gigantic rocks of clear jewels
 in the sky every night.'  And she would point to where crimson
@@ -12770,7 +12720,6 @@ and broken-spirited reader may find rest at last.
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="Tales of the Long Bow — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 1)
 
 Chapter VIII
 
@@ -12841,7 +12790,7 @@ of the valley."
 "I hope I'm not quite so old as that," answered Elizabeth.
 
 "Listen to this," cried her husband, turning over the pages
-of the book.  "`According to the general belief, which prevailed
+of the book.  "‘According to the general belief, which prevailed
 until the recent [[success]] of the agrarian movement of the Long Bow,
 it was overwhelmingly improbable that a revolutionary change could
 be effected in England.  The recent [[success]] of the agrarian protest--'"
@@ -12866,7 +12815,7 @@ isn't quite so easy, what with Turks and all that.  It's all very
 "Never you mind about the United States," said Hood easily; "I think
 I'm rather in favour of the Heptarchy.  You just listen to this;
 the [[Epic|epic]] of our own Heptarchy, the story of our own dear little
-domestic war.  `The recent success of the agrarian protest--'"
+domestic war.  ‘The recent success of the agrarian protest--'"
 
 He was interrupted again by the arrival of two more guests;
 by the silent entrance of Colonel Crane and the very noisy entrance
@@ -12899,7 +12848,6 @@ work to do.
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="Tales of the Long Bow — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 2)
 
 "The recent success of the agrarian protest," began Hood cheerfully
 as his wife rose swiftly to receive two more visitors.  These were
@@ -12968,7 +12916,7 @@ however, showed an indifference to this new issue and a disposition
 to go back on the old demand for milk; in which matter, they said,
 there was an unfair advantage for the man who possessed a cow over
 the man who only possessed a can.  But the story that Hunter had
-rivalled the agrarian slogan by proclaiming the policy of `Three
+rivalled the agrarian slogan by proclaiming the policy of ‘Three
 Areas and a Can' was in all probability a flippant invention of his enemies.
 
 "These agrarian strikes had already occurred at intervals before they
@@ -13028,12 +12976,11 @@ of them--Captain Hilary Pierce, late of the Flying Corps.
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="Tales of the Long Bow — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 3)
 
 "But if this was true of such trifles as half a dozen of Prime Ministers,
 it was even truer and more trying in the practical matter of party
 programmes and proposals.  The heading of each party programme
-with the old promise `Every Man a Millionaire' had of course become
+with the old promise ‘Every Man a Millionaire' had of course become
 merely formal, like a decorative pattern or border.  But it cannot be
 denied that the universal use of this phrase, combined with the equally
 universal sense of the unfairness of expecting any politician to carry
@@ -13085,7 +13032,7 @@ or any of the clerks to assist him in lifting it out of the cab.
 of the League of the Long Bow stood solid and loyal and dependable. 
 The Long Bowmen had become popular by the nickname of the Liars. 
 Everywhere the jest or catchword was repeated like a song,
-`Only the Liars Tell the [[Truth]].'  They found more and more men
+‘Only the Liars Tell the [[Truth]].'  They found more and more men
 to work and fight for them, because it was known that they would
 pay whatever wages they promised, and refuse to promise anything
 that they could not perform.  The nickname became an ironical symbol
@@ -13099,8 +13046,8 @@ vows about white elephants or flying pigs.  Hence, when they came
 to stand for a policy of peasant proprietorship, and were enabled
 by the money of an American crank to establish it in a widespread
 fashion across the west of England, they took the more serious task
-with the same tenacity.  When their foes mocked them with `the myth
-of three acres and a cow,' they answered:  `Yes, it is as mythical
+with the same tenacity.  When their foes mocked them with ‘the myth
+of three acres and a cow,' they answered:  ‘Yes, it is as mythical
 as the cow that jumped over the [[Moon|moon]].  But our myths come true.'
 
 "The inexplicable and indeed incredible conclusion of the story was due
@@ -13131,7 +13078,6 @@ since the Middle Ages.
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="Tales of the Long Bow — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 4)
 
 "It is said that the men of the Long Bow carried their mediaeval
 symbolism so far as to wear [[Lincoln]] green as their uniform when they
@@ -13177,8 +13123,8 @@ men who know that publicity is the [[Soul|soul]] of business.  For some
 prejudice that had prevented soldiers and sailors from advertising
 the best methods of defeating the enemy; and we can all recall
 those brilliantly coloured announcements which used to brighten
-so many hoardings in those days, `Sink in Smith's Submarine;
-Pleasure Trips for Patriots.'  Or `Duffin's Portable Dug-Out Makes
+so many hoardings in those days, ‘Sink in Smith's Submarine;
+Pleasure Trips for Patriots.'  Or ‘Duffin's Portable Dug-Out Makes
 War a Luxury.'  Advertisement cannot fail to effect its aim;
 the name of an aeroplane that had been written on the sky in pink
 and pea-green lights could not but become a symbol of the conquest
@@ -13240,7 +13186,6 @@ country of a much more primitive and sometimes almost prehistoric kind.
 
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="Tales of the Long Bow — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 5)
 
 "It is admitted of course by all students that the victories
 of Crane and Pierce were gross violations of strategic science. 
@@ -13306,21 +13251,21 @@ they could produce their own rude mediaeval weapons everywhere.
 It was in vain that Professor Hake delivered a series of popular
 lectures, proving to the lower classes that in the long run it
 would be to their economic advantage to be killed in battle. 
-Captain Pierce is reported to have said:  `I believe the Professor is
+Captain Pierce is reported to have said:  ‘I believe the Professor is
 a botanist as well as an economist; but as a botanist he has not yet
 discovered that guns and arrows do not grow on trees.  Bows and arrows do.'
 
 "But the incident which history will have most difficulty in explaining,
 and which it may perhaps refer to the region of myth or romance,
 is the crowning victory commonly called the Battle of the Bows. 
-It was indeed originally called `The Battle of the Bows of God';
+It was indeed originally called ‘The Battle of the Bows of God';
 in reference to some strangely fantastic boast, equally strangely fulfilled,
 that is said to have been uttered by the celebrated Parson White,
 a sort of popular chaplain who seems to have been the Friar Tuck
 of this new band of [[Robin Hood]].  Coming on a sort of embassy to Sir
 Horace Hunter, this clergyman is said to have threatened the [[government|Government]]
 with something like a miracle.  When rallied about the archaic
-sport of the long bow, he replied:  `Yes, we have long bows and we
+sport of the long bow, he replied:  ‘Yes, we have long bows and we
 shall have longer bows; the longest bows the world has ever seen;
 bows taller than houses; bows given to us by God Himself and big
 enough for His gigantic angels.'
@@ -13346,7 +13291,6 @@ entrance appeared to be.
 
 <span class="atom-split" data-atom="chapter_08--part_06" data-title="Tales of the Long Bow — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 6)
 
 "Then something happened, which even those who saw it and survived
 cannot describe.  The dark trees seemed to spring up to twice
@@ -13382,12 +13326,12 @@ Owen Hood paused in the act of lighting a cigar.
 
 "Yes," he said grimly.  "I believe I can tell you exactly
 what he said.  I've watched him off and on for twenty years. 
-I bet he began by saying:  `I don't profess to be a religious man.'"
+I bet he began by saying:  ‘I don't profess to be a religious man.'"
 
 "Right, quite right," cried the cleric bounding upon his chair in a
-joyous manner, "that's exactly how he began.  `I don't profess to be
+joyous manner, "that's exactly how he began.  ‘I don't profess to be
 a religious man, but I trust I have some reverence and good taste. 
-I don't drag religion into politics.'  And I said:  `No, I don't
+I don't drag religion into politics.'  And I said:  ‘No, I don't
 think you do.'"
 
 A moment after, he bounded, as it were, in a new direction. 
@@ -13416,7 +13360,7 @@ on [[Fire|fire]]; you cannot set the Tiber or the Ganges on [[Fire|fire]],
 because the habit of speech has never been heard of.
 What's the good of talking about white elephants in countries
 where they are only white elephants?  Go and say to a Frenchman,
-`Pour mon chateau, je le trouve un elephant blanc'
+‘Pour mon chateau, je le trouve un elephant blanc'
 and he will send two Parisian alienists to look at you seriously,
 like a man who says that his motor-car is a green giraffe.
 There is no point in telling Czecho-Slovakian pigs to fly,
@@ -13466,7 +13410,6 @@ digging up so much along with it.
 
 <span class="atom-split" data-atom="chapter_08--part_07" data-title="Tales of the Long Bow — Chapter 8 (part 7)" data-chapter="Chapter 08" data-kind="excerpt"></span>
 
-# [[longbow2]] — Chapter 8 (part 7)
 
 "Queer thing," he said, "how true it is what Hilary once said about
 acting an [[Allegory|allegory]] without knowing it.  Never had a notion of what I
@@ -13550,7 +13493,7 @@ each one of us his Vita Nuova?"
 
 "No, sir," said Mr. Archer.
 
-     *     *     *     *     *     *     *     *     *
+*     *     *     *     *     *     *     *     *
 
 Thus does the chronicler of the League of the Long Bow come to
 the end of his singularly unproductive and unprofitable labours,

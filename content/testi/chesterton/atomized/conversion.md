@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="conversion" data-title="The Catholic Church and Conversion" data-chapter="" data-kind="intro"></span>
 
-# [[conversion]]
 
 THE [[Catholic Church|CATHOLIC CHURCH]] AND [[conversion|CONVERSION]]
 
@@ -2312,9 +2311,8 @@ with the great dome over all.
 
 
 
-<span class="atom-split" data-atom="chapter_06_a_note_on_present_prospects" data-title="The Catholic Church and Conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS" data-chapter="Chapter 06 A NOTE ON PRESENT PROSPECTS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_a_note_on_present_prospects" data-title="The Catholic Church and Conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS" data-chapter="A NOTE ON PRESENT PROSPECTS" data-kind="chapter"></span>
 
-# [[conversion]] — Chapter 6: A NOTE ON PRESENT PROSPECTS
 
 CHAPTER VI:  A NOTE ON PRESENT PROSPECTS
 
@@ -2434,9 +2432,8 @@ with the great dome over all.
 
 
 
-<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_01" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)" data-chapter="Chapter 01 INTRODUCTORY A NEW RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_01" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)" data-chapter="INTRODUCTORY A NEW RELIGION" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)
 
 CHAPTER I:  INTRODUCTORY:  A NEW RELIGION
 
@@ -2565,9 +2562,8 @@ to recognise in any study of modern [[conversion]].
 
 
 
-<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_02" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)" data-chapter="Chapter 01 INTRODUCTORY A NEW RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_02" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)" data-chapter="INTRODUCTORY A NEW RELIGION" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)
 
 I am not going to talk about numbers and statistics, though I
 may say something about them later.  The first fact to realise is
@@ -2649,9 +2645,8 @@ of a Children's Crusade.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_01" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 1)" data-chapter="Chapter 02 THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_01" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 1)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 1)
 
 CHAPTER II:  THE OBVIOUS BLUNDERS
 
@@ -2804,9 +2799,8 @@ least of all that of the man in the street.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_02" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)" data-chapter="Chapter 02 THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_02" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 2)
 
 Similarly, I could never take seriously the [[Fear|fear]] of the priest,
 as of something unnatural and unholy; a dangerous man in the [[Home|home]].
@@ -2948,9 +2942,8 @@ were curiously inaccurate.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_03" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)" data-chapter="Chapter 02 THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_03" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 3)
 
 It is strange to me to go back to these things now, and to think
 that I ever took them even as seriously as that.  But I was not
@@ -3089,9 +3082,8 @@ and the name of Rome.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_04" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 4)" data-chapter="Chapter 02 THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_04" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 4)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 4)
 
 The [[Catholic Church]] loves nations as she loves men; because they
 are her children.  But they certainly are her children,
@@ -3165,9 +3157,8 @@ before they had even named our fatherland.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_01" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 1)" data-chapter="Chapter 03 THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_01" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 1)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 3: THE REAL OBSTACLES (part 1)
 
 CHAPTER III:  THE REAL OBSTACLES
 
@@ -3298,9 +3289,8 @@ that mountain of magnanimity.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_02" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 2)" data-chapter="Chapter 03 THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_02" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 2)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 3: THE REAL OBSTACLES (part 2)
 
 It is the same with all the other points of attack,
 especially the old ones.  The man who has come so far
@@ -3498,9 +3488,8 @@ It is that in which the man is trying not to be converted.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_03" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 3)" data-chapter="Chapter 03 THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_03" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 3)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 3: THE REAL OBSTACLES (part 3)
 
 He has come too near to the [[Truth|truth]], and has forgotten that [[Truth|truth]]
 is a magnet, with the powers of attraction and repulsion.
@@ -3608,9 +3597,8 @@ but rather of the Church finding him out.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_04" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 4)" data-chapter="Chapter 03 THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_04" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 4)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 3: THE REAL OBSTACLES (part 4)
 
 This note on the stages of [[conversion]] is necessarily very negative
 and inadequate.  There is in the last second of [[Time|time]] or hair's
@@ -3757,9 +3745,8 @@ it is much too large to describe and we will proceed to describe it.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_01" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 1)" data-chapter="Chapter 04 THE WORLD INSIDE OUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_01" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 1)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 4: THE WORLD INSIDE OUT (part 1)
 
 CHAPTER IV:  THE WORLD INSIDE OUT
 
@@ -3882,9 +3869,8 @@ only by the life of Christendom.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_02" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 2)" data-chapter="Chapter 04 THE WORLD INSIDE OUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_02" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 2)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 4: THE WORLD INSIDE OUT (part 2)
 
 It is not easy to express this enormous inversion which I have
 here tried to suggest in the image of a world turned inside out.
@@ -3995,9 +3981,8 @@ to being a Catholic.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_03" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 3)" data-chapter="Chapter 04 THE WORLD INSIDE OUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_03" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 3)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 4: THE WORLD INSIDE OUT (part 3)
 
 When the [[convert]] has once seen the world like that,
 with one balance of ideas and a number of other ideas that
@@ -4155,9 +4140,8 @@ was larger; and everything else has been comparatively small.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_01" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)" data-chapter="Chapter 05 THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_01" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)
 
 CHAPTER V:  THE EXCEPTION PROVES THE RULE
 
@@ -4276,9 +4260,8 @@ thought was nonsense.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_02" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 2)" data-chapter="Chapter 05 THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_02" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 2)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE (part 2)
 
 As will be seen in a moment, I do not mean in the least that the
 [[Catholic Church]] is arbitrary in the sense of never giving reasons;
@@ -4390,9 +4373,8 @@ If I ceased to be a Catholic I could not again be a Communist.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_03" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)" data-chapter="Chapter 05 THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_03" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)
 
 As it happens, my story was almost exactly the same in connection
 with Spiritualism.  There again I was modern when I was young,
@@ -4509,9 +4491,8 @@ I was wrong as that I have found out why I was right.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_04" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 4)" data-chapter="Chapter 05 THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_04" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 4)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
 
-# [[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE (part 4)
 
 In this we find the supreme example of the exception that proves
 the rule.  The rule, of which I have given a rough outline in

@@ -15,8 +15,8 @@ tags:
 
 
 For [[lovers|Lovers]] Only
-				      
-		An Impetuous Painter and A Discerning Critic
+
+An Impetuous Painter and A Discerning Critic
 _________________________________________________________________
 
 Gabriel Gale was energetically painting a new sign for the Rising Sun Inn
@@ -79,7 +79,7 @@ From Chesterton's The Poet and the Lunatics
 
 For [[lovers|Lovers]] Only
 
-		An Impetuous Painter and A Discerning Critic
+An Impetuous Painter and A Discerning Critic
 _________________________________________________________________
 
 Gabriel Gale was energetically painting a new sign for the Rising Sun Inn
@@ -139,7 +139,7 @@ From Chesterton's The Poet and the Lunatics
 
 Solo per [[lovers|Innamorati]]
 
-		Un pittore impetuoso e una critica perspicace
+Un pittore impetuoso e una critica perspicace
 _________________________________________________________________
 
 Gabriel Gale stava dipingendo con energia una nuova insegna per la locanda del Sole Nascente

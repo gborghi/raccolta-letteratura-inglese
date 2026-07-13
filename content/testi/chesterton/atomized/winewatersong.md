@@ -43,59 +43,59 @@ produced from images generously made available by The
 
 Internet Archive/American Libraries.)
 
-  [ Transcriber's Notes:
+[ Transcriber's Notes:
 
-    Every effort has been made to replicate this text as faithfully as
+Every effort has been made to replicate this text as faithfully as
 
-    possible, including inconsistencies in spelling and hyphenation;
+possible, including inconsistencies in spelling and hyphenation;
 
-    no changes have been made to the original text.
+no changes have been made to the original text.
 
-    Italic text has been marked with _underscores_.
+Italic text has been marked with _underscores_.
 
-    Bold italic text has been marked with =equals signs=.
+Bold italic text has been marked with =equals signs=.
 
-  ]
+]
 
 WINE, [[Water|WATER]], AND [[Song|SONG]]
 
 BY THE SAME AUTHOR
 
-  CHARLES DICKENS
+CHARLES DICKENS
 
-  THE BALLAD OF THE WHITE [[Horse|HORSE]]
+THE BALLAD OF THE WHITE [[Horse|HORSE]]
 
-  THE FLYING INN
+THE FLYING INN
 
-  ALL THINGS CONSIDERED
+ALL THINGS CONSIDERED
 
-  TREMENDOUS TRIFLES
+TREMENDOUS TRIFLES
 
-  ALARMS AND DISCURSIONS
+ALARMS AND DISCURSIONS
 
-  A MISCELLANY OF MEN
+A MISCELLANY OF MEN
 
-  WINE, [[Water|WATER]]
+WINE, [[Water|WATER]]
 
-  AND [[Song|SONG]]
+AND [[Song|SONG]]
 
-  BY
+BY
 
-  G. K. CHESTERTON
+G. K. CHESTERTON
 
-  THIRD EDITION
+THIRD EDITION
 
-  METHUEN & CO. LTD.
+METHUEN & CO. LTD.
 
-  36 ESSEX STREET W.C.
+36 ESSEX STREET W.C.
 
-  [[London|LONDON]]
+[[London|LONDON]]
 
-  First Published      August  6th 1915
+First Published      August  6th 1915
 
-  Second Edition       August 10th 1915
+Second Edition       August 10th 1915
 
-  Third Edition        August 23rd 1915
+Third Edition        August 23rd 1915
 
 NOTE
 
@@ -109,413 +109,413 @@ Witness=, where they originally appeared.
 
 CONTENTS
 
-                                     Page
+Page
 
-  The Englishman                        9
+The Englishman                        9
 
-  Wine and [[Water]]                       11
+Wine and [[Water]]                       11
 
-  The [[Song]] against Grocers             15
+The [[Song]] against Grocers             15
 
-  The [[rolling|Rolling]] English [[Road]]             20
+The [[rolling|Rolling]] English [[Road]]             20
 
-  The [[Song]] of [[quoodle|Quoodle]]                  24
+The [[Song]] of [[quoodle|Quoodle]]                  24
 
-  Pioneers, O Pioneers                 27
+Pioneers, O Pioneers                 27
 
-  The Logical [[vegetarian|Vegetarian]]               31
+The Logical [[vegetarian|Vegetarian]]               31
 
-  "The Saracen's Head"                 34
+"The Saracen's Head"                 34
 
-  The Good Rich Man                    37
+The Good Rich Man                    37
 
-  The [[Song]] against [[songs|Songs]]               42
+The [[Song]] against [[songs|Songs]]               42
 
-  Me Heart                             45
+Me Heart                             45
 
-  The [[Song]] of the Oak                  49
+The [[Song]] of the Oak                  49
 
-  The [[Road]] to Roundabout               53
+The [[Road]] to Roundabout               53
 
-  The [[Song]] of the Strange [[ascetic|Ascetic]]      57
+The [[Song]] of the Strange [[ascetic|Ascetic]]      57
 
-  The [[Song]] of Right and Wrong          60
+The [[Song]] of Right and Wrong          60
 
-  Who Goes [[Home]]?                       63
+Who Goes [[Home]]?                       63
 
 WINE, [[Water|WATER]], AND [[Song|SONG]]
 
 The Englishman
 
-  St. George he was for England,
+St. George he was for England,
 
-  And before he killed the dragon
+And before he killed the dragon
 
-  He drank a pint of English ale
+He drank a pint of English ale
 
-  Out of an English flagon.
+Out of an English flagon.
 
-  For though he fast right readily
+For though he fast right readily
 
-  In hair-shirt or in mail,
+In hair-shirt or in mail,
 
-  It isn't safe to give him cakes
+It isn't safe to give him cakes
 
-  Unless you give him ale.
+Unless you give him ale.
 
-  St. George he was for England,
+St. George he was for England,
 
-  And right gallantly set free
+And right gallantly set free
 
-  The lady left for dragon's meat
+The lady left for dragon's meat
 
-  And tied up to a tree;
+And tied up to a tree;
 
-  But since he stood for England
+But since he stood for England
 
-  And knew what England means,
+And knew what England means,
 
-  Unless you give him bacon
+Unless you give him bacon
 
-  You mustn't give him beans.
+You mustn't give him beans.
 
-  St. George he is for England,
+St. George he is for England,
 
-  And shall wear the shield he wore
+And shall wear the shield he wore
 
-  When we go out in armour
+When we go out in armour
 
-  With the battle-[[Cross|cross]] before.
+With the battle-[[Cross|cross]] before.
 
-  But though he is jolly company
+But though he is jolly company
 
-  And very pleased to dine,
+And very pleased to dine,
 
-  It isn't safe to give him nuts
+It isn't safe to give him nuts
 
-  Unless you give him wine.
+Unless you give him wine.
 
 Wine and [[Water]]
 
-  Old Noah he had an ostrich farm and fowls on the largest scale,
+Old Noah he had an ostrich farm and fowls on the largest scale,
 
-  He ate his egg with a ladle in an egg-cup big as a pail,
+He ate his egg with a ladle in an egg-cup big as a pail,
 
-  And the soup he took was Elephant Soup and the fish he took was Whale,
+And the soup he took was Elephant Soup and the fish he took was Whale,
 
-  But they all were small to the cellar he took when he set out to sail,
+But they all were small to the cellar he took when he set out to sail,
 
-  And Noah he often said to his wife when he sat down to dine,
+And Noah he often said to his wife when he sat down to dine,
 
-  "I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+"I don't care where the [[Water|water]] goes if it doesn't get into the wine."
 
-  The cataract of the cliff of heaven fell blinding off the brink
+The cataract of the cliff of heaven fell blinding off the brink
 
-  As if it would wash the [[Stars|stars]] away as suds go down a sink,
+As if it would wash the [[Stars|stars]] away as suds go down a sink,
 
-  The seven heavens came roaring down for the throats of hell to drink,
+The seven heavens came roaring down for the throats of hell to drink,
 
-  And Noah he cocked his eye and said, "It looks like rain, I think,
+And Noah he cocked his eye and said, "It looks like rain, I think,
 
-  The [[Water|water]] has drowned the Matterhorn as deep as a Mendip mine,
+The [[Water|water]] has drowned the Matterhorn as deep as a Mendip mine,
 
-  But I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+But I don't care where the [[Water|water]] goes if it doesn't get into the wine."
 
-  But Noah he sinned, and we have sinned; on tipsy feet we trod,
+But Noah he sinned, and we have sinned; on tipsy feet we trod,
 
-  Till a great big black teetotaller was sent to us for a rod,
+Till a great big black teetotaller was sent to us for a rod,
 
-  And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
+And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
 
-  For the Curse of [[Water]] has come again because of the wrath of God,
+For the Curse of [[Water]] has come again because of the wrath of God,
 
-  And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
+And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
 
-  But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
+But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
 
 The [[Song]] Against Grocers
 
-  God made the wicked [[grocer|Grocer]]
+God made the wicked [[grocer|Grocer]]
 
-  For a mystery and a sign,
+For a mystery and a sign,
 
-  That men might shun the awful shops
+That men might shun the awful shops
 
-  And go to inns to dine;
+And go to inns to dine;
 
-  Where the bacon's on the rafter
+Where the bacon's on the rafter
 
-  And the wine is in the wood,
+And the wine is in the wood,
 
-  And God that made good laughter
+And God that made good laughter
 
-  Has seen that they are good.
+Has seen that they are good.
 
-  The evil-hearted [[grocer|Grocer]]
+The evil-hearted [[grocer|Grocer]]
 
-  Would call his mother "Ma'am,"
+Would call his mother "Ma'am,"
 
-  And bow at her and bob at her,
+And bow at her and bob at her,
 
-  Her aged [[Soul|soul]] to damn,
+Her aged [[Soul|soul]] to damn,
 
-  And rub his horrid hands and ask
+And rub his horrid hands and ask
 
-  What article was next,
+What article was next,
 
-  Though =mortis in articulo=
+Though =mortis in articulo=
 
-  Should be her proper text.
+Should be her proper text.
 
-  His props are not his children,
+His props are not his children,
 
-  But pert lads underpaid,
+But pert lads underpaid,
 
-  Who call out "Cash!" and bang about
+Who call out "Cash!" and bang about
 
-  To work his wicked trade;
+To work his wicked trade;
 
-  He keeps a lady in a cage
+He keeps a lady in a cage
 
-  Most cruelly all day,
+Most cruelly all day,
 
-  And makes her count and calls her "Miss"
+And makes her count and calls her "Miss"
 
-  Until she fades away.
+Until she fades away.
 
-  The righteous minds of innkeepers
+The righteous minds of innkeepers
 
-  Induce them now and then
+Induce them now and then
 
-  To crack a bottle with a friend
+To crack a bottle with a friend
 
-  Or treat unmoneyed men,
+Or treat unmoneyed men,
 
-  But who hath seen the [[grocer|Grocer]]
+But who hath seen the [[grocer|Grocer]]
 
-  Treat housemaids to his teas
+Treat housemaids to his teas
 
-  Or crack a bottle of fish-sauce
+Or crack a bottle of fish-sauce
 
-  Or stand a man a [[cheese]]?
+Or stand a man a [[cheese]]?
 
-  He sells us sands of Araby
+He sells us sands of Araby
 
-  As sugar for cash down;
+As sugar for cash down;
 
-  He sweeps his shop and sells the [[Dust|dust]]
+He sweeps his shop and sells the [[Dust|dust]]
 
-  The purest salt in town,
+The purest salt in town,
 
-  He crams with cans of poisoned meat
+He crams with cans of poisoned meat
 
-  Poor subjects of the [[King]],
+Poor subjects of the [[King]],
 
-  And when they die by thousands
+And when they die by thousands
 
-  Why, he laughs like anything.
+Why, he laughs like anything.
 
-  The wicked [[grocer|Grocer]] groces
+The wicked [[grocer|Grocer]] groces
 
-  In spirits and in wine,
+In spirits and in wine,
 
-  Not frankly and in fellowship
+Not frankly and in fellowship
 
-  As men in inns do dine;
+As men in inns do dine;
 
-  But packed with soap and sardines
+But packed with soap and sardines
 
-  And carried off by grooms,
+And carried off by grooms,
 
-  For to be snatched by Duchesses
+For to be snatched by Duchesses
 
-  And drunk in dressing-rooms.
+And drunk in dressing-rooms.
 
-  The hell-instructed [[grocer|Grocer]]
+The hell-instructed [[grocer|Grocer]]
 
-  Has a temple made of tin,
+Has a temple made of tin,
 
-  And the ruin of good innkeepers
+And the ruin of good innkeepers
 
-  Is loudly urged therein;
+Is loudly urged therein;
 
-  But now the sands are running out
+But now the sands are running out
 
-  From sugar of a sort,
+From sugar of a sort,
 
-  The [[grocer|Grocer]] trembles; for his [[Time|time]],
+The [[grocer|Grocer]] trembles; for his [[Time|time]],
 
-  Just like his weight, is short.
+Just like his weight, is short.
 
 The [[rolling|Rolling]] English [[Road]]
 
-  Before the Roman came to Rye or out to Severn strode,
+Before the Roman came to Rye or out to Severn strode,
 
-  The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
+The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
 
-  A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
+A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
 
-  And after him the parson ran, the sexton and the squire;
+And after him the parson ran, the sexton and the squire;
 
-  A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
+A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
 
-  The [[Night|night]] we went to Birmingham by way of Beachy Head.
+The [[Night|night]] we went to Birmingham by way of Beachy Head.
 
-  I knew no harm of Bonaparte and plenty of the Squire,
+I knew no harm of Bonaparte and plenty of the Squire,
 
-  And for to fight the Frenchman I did not much [[Desire|desire]];
+And for to fight the Frenchman I did not much [[Desire|desire]];
 
-  But I did bash their baggonets because they came arrayed
+But I did bash their baggonets because they came arrayed
 
-  To straighten out the crooked [[Road|road]] an English drunkard made,
+To straighten out the crooked [[Road|road]] an English drunkard made,
 
-  Where you and I went down the lane with ale-mugs in our hands,
+Where you and I went down the lane with ale-mugs in our hands,
 
-  The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
+The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
 
-  His sins they were forgiven him; or why do [[Flowers|flowers]] run
+His sins they were forgiven him; or why do [[Flowers|flowers]] run
 
-  Behind him; and the hedges all strengthing in the sun?
+Behind him; and the hedges all strengthing in the sun?
 
-  The wild thing went from left to right and knew not which was which,
+The wild thing went from left to right and knew not which was which,
 
-  But the wild [[Rose|rose]] was above him when they found him in the ditch.
+But the wild [[Rose|rose]] was above him when they found him in the ditch.
 
-  God pardon us, nor harden us; we did not see so clear
+God pardon us, nor harden us; we did not see so clear
 
-  The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
+The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
 
-  My friends, we will not go again or ape an ancient rage,
+My friends, we will not go again or ape an ancient rage,
 
-  Or stretch the folly of our youth to be the shame of age,
+Or stretch the folly of our youth to be the shame of age,
 
-  But walk with clearer eyes and ears this path that wandereth,
+But walk with clearer eyes and ears this path that wandereth,
 
-  And see undrugged in evening light the decent inn of [[Death|death]];
+And see undrugged in evening light the decent inn of [[Death|death]];
 
-  For there is good news yet to hear and fine things to be seen,
+For there is good news yet to hear and fine things to be seen,
 
-  Before we go to Paradise by way of Kensal Green.
+Before we go to Paradise by way of Kensal Green.
 
 The [[Song]] of [[quoodle|Quoodle]]
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  The fallen sons of Eve;
+The fallen sons of Eve;
 
-  Even the smell of roses
+Even the smell of roses
 
-  Is not what they supposes;
+Is not what they supposes;
 
-  But more than mind discloses
+But more than mind discloses
 
-  And more than men believe.
+And more than men believe.
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  They cannot even tell
+They cannot even tell
 
-  When door and darkness closes
+When door and darkness closes
 
-  The park a Jew encloses,
+The park a Jew encloses,
 
-  Where even the Law of Moses
+Where even the Law of Moses
 
-  Will let you steal a smell.
+Will let you steal a smell.
 
-  The brilliant smell of [[Water|water]],
+The brilliant smell of [[Water|water]],
 
-  The brave smell of a stone,
+The brave smell of a stone,
 
-  The smell of dew and thunder,
+The smell of dew and thunder,
 
-  The old bones buried under,
+The old bones buried under,
 
-  Are things in which they blunder
+Are things in which they blunder
 
-  And err, if left [[Alone|alone]].
+And err, if left [[Alone|alone]].
 
-  The [[Wind|wind]] from [[Winter|winter]] forests,
+The [[Wind|wind]] from [[Winter|winter]] forests,
 
-  The scent of scentless [[Flowers|flowers]],
+The scent of scentless [[Flowers|flowers]],
 
-  The breath of brides' adorning,
+The breath of brides' adorning,
 
-  The smell of snare and warning,
+The smell of snare and warning,
 
-  The smell of [[Sunday]] morning,
+The smell of [[Sunday]] morning,
 
-  God gave to us for ours.
+God gave to us for ours.
 
-  . . . . .
+. . . . .
 
-  And [[quoodle|Quoodle]] here discloses
+And [[quoodle|Quoodle]] here discloses
 
-  All things that [[quoodle|Quoodle]] can,
+All things that [[quoodle|Quoodle]] can,
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  And goodness only knowses
+And goodness only knowses
 
-  The Noselessness of Man.
+The Noselessness of Man.
 
 Pioneers, O Pioneers
 
-  Nebuchadnezzar the [[King]] of the Jews
+Nebuchadnezzar the [[King]] of the Jews
 
-  Suffered from new and original views,
+Suffered from new and original views,
 
-  He crawled on his hands and knees, it's said,
+He crawled on his hands and knees, it's said,
 
-  With grass in his mouth and a [[Crown|crown]] on his head.
+With grass in his mouth and a [[Crown|crown]] on his head.
 
-        With a wowtyiddly, etc.
+With a wowtyiddly, etc.
 
-  Those in traditional paths that trod
+Those in traditional paths that trod
 
-  Thought the thing was a curse from God,
+Thought the thing was a curse from God,
 
-  But a Pioneer men always abuse
+But a Pioneer men always abuse
 
-  Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[King]] of the Jews.
 
-  Black Lord Foulon the Frenchman slew
+Black Lord Foulon the Frenchman slew
 
-  Thought it a Futurist thing to do.
+Thought it a Futurist thing to do.
 
-  He offered them grass instead of bread.
+He offered them grass instead of bread.
 
-  So they stuffed him with grass when they cut off his head.
+So they stuffed him with grass when they cut off his head.
 
-        With a wowtyiddly, etc.
+With a wowtyiddly, etc.
 
-  For the [[Pride|pride]] of his [[Soul|soul]] he perished then--
+For the [[Pride|pride]] of his [[Soul|soul]] he perished then--
 
-  But of course it is always of [[Pride]] that men,
+But of course it is always of [[Pride]] that men,
 
-  A Man in Advance of his Age accuse,
+A Man in Advance of his Age accuse,
 
-  Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[King]] of the Jews.
 
-  Simeon Scudder of Styx, in Maine,
+Simeon Scudder of Styx, in Maine,
 
-  Thought of the thing and was at it again.
+Thought of the thing and was at it again.
 
-  He gave good grass and [[Water|water]] in pails
+He gave good grass and [[Water|water]] in pails
 
-  To a thousand Irishmen hammering rails.
+To a thousand Irishmen hammering rails.
 
-        With a wowtyiddly, etc.
+With a wowtyiddly, etc.
 
-  Appetites differ; and tied to a stake
+Appetites differ; and tied to a stake
 
-  He was tarred and feathered for [[Conscience]]' Sake.
+He was tarred and feathered for [[Conscience]]' Sake.
 
-  But stoning the prophets is ancient news,
+But stoning the prophets is ancient news,
 
-  Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[King]] of the Jews.
 
 The Logical [[vegetarian|Vegetarian]]
 
@@ -529,617 +529,617 @@ instead of filling their goblets with the [[Blood|blood]] of bulls and elephants
 
 as all conventional meat-eaters do, I suppose."--Dalroy.
 
-    You will find me drinking rum,
+You will find me drinking rum,
 
-    Like a sailor in a slum,
+Like a sailor in a slum,
 
-  You will find me drinking beer like a Bavarian.
+You will find me drinking beer like a Bavarian.
 
-    You will find me drinking gin
+You will find me drinking gin
 
-    In the lowest kind of inn,
+In the lowest kind of inn,
 
-  Because I am a rigid [[vegetarian|Vegetarian]].
+Because I am a rigid [[vegetarian|Vegetarian]].
 
-    So I cleared the inn of wine,
+So I cleared the inn of wine,
 
-    And I tried to climb the sign,
+And I tried to climb the sign,
 
-  And I tried to hail the constable as "Marion."
+And I tried to hail the constable as "Marion."
 
-    But he said I couldn't speak,
+But he said I couldn't speak,
 
-    And he bowled me to the Beak
+And he bowled me to the Beak
 
-  Because I was a Happy [[vegetarian|Vegetarian]].
+Because I was a Happy [[vegetarian|Vegetarian]].
 
-    Oh, I knew a Doctor Gluck,
+Oh, I knew a Doctor Gluck,
 
-    And his nose it had a hook,
+And his nose it had a hook,
 
-  And his attitudes were anything but Aryan;
+And his attitudes were anything but Aryan;
 
-    So I gave him all the pork
+So I gave him all the pork
 
-    That I had, upon a fork;
+That I had, upon a fork;
 
-  Because I am myself a [[vegetarian|Vegetarian]].
+Because I am myself a [[vegetarian|Vegetarian]].
 
-    I am silent in the Club,
+I am silent in the Club,
 
-    I am silent in the pub.,
+I am silent in the pub.,
 
-  I am silent on a bally peak in Darien;
+I am silent on a bally peak in Darien;
 
-    For I stuff away for life
+For I stuff away for life
 
-    Shoving peas in with a knife,
+Shoving peas in with a knife,
 
-  Because I am at heart a [[vegetarian|Vegetarian]].
+Because I am at heart a [[vegetarian|Vegetarian]].
 
-    No more the milk of cows
+No more the milk of cows
 
-    Shall pollute my private [[house]]
+Shall pollute my private [[house]]
 
-  Than the milk of the wild mares of the Barbarian;
+Than the milk of the wild mares of the Barbarian;
 
-    I will stick to port and sherry,
+I will stick to port and sherry,
 
-    For they are so very, very,
+For they are so very, very,
 
-  So very, very, very [[vegetarian|Vegetarian]].
+So very, very, very [[vegetarian|Vegetarian]].
 
 "The Saracen's Head"
 
-  "The Saracen's Head" looks down the lane,
+"The Saracen's Head" looks down the lane,
 
-  Where we shall never drink wine again,
+Where we shall never drink wine again,
 
-  For the wicked old women who feel [[Well|well]]-bred
+For the wicked old women who feel [[Well|well]]-bred
 
-  Have turned to a tea-shop "The Saracen's Head."
+Have turned to a tea-shop "The Saracen's Head."
 
-  "The Saracen's Head" out of Araby came,
+"The Saracen's Head" out of Araby came,
 
-  [[King]] [[Richard]] riding in arms like flame,
+[[King]] [[Richard]] riding in arms like flame,
 
-  And where he established his folk to be fed
+And where he established his folk to be fed
 
-  He set up a spear--and the Saracen's Head.
+He set up a spear--and the Saracen's Head.
 
-  But "The Saracen's Head" outlived the Kings,
+But "The Saracen's Head" outlived the Kings,
 
-  It thought and it thought of most horrible things,
+It thought and it thought of most horrible things,
 
-  Of Health and of Soap and of Standard Bread,
+Of Health and of Soap and of Standard Bread,
 
-  And of Saracen drinks at "The Saracen's Head."
+And of Saracen drinks at "The Saracen's Head."
 
-  So "The Saracen's Head" fulfils its name,
+So "The Saracen's Head" fulfils its name,
 
-  They drink no wine--a ridiculous game--
+They drink no wine--a ridiculous game--
 
-  And I shall [[Wonder|wonder]] until I'm dead,
+And I shall [[Wonder|wonder]] until I'm dead,
 
-  How it ever came into the Saracen's Head.
+How it ever came into the Saracen's Head.
 
 The Good Rich Man
 
-  Mr. Mandragon, the Millionaire, he wouldn't have wine or wife,
+Mr. Mandragon, the Millionaire, he wouldn't have wine or wife,
 
-  He couldn't endure complexity: he lived the Simple Life.
+He couldn't endure complexity: he lived the Simple Life.
 
-  He ordered his lunch by megaphone in manly, simple tones,
+He ordered his lunch by megaphone in manly, simple tones,
 
-  And used all his motors for canvassing voters, and twenty telephones;
+And used all his motors for canvassing voters, and twenty telephones;
 
-  Besides a dandy little [[Machine|machine]],
+Besides a dandy little [[Machine|machine]],
 
-  Cunning and neat as ever was seen,
+Cunning and neat as ever was seen,
 
-  With a hundred pulleys and cranks between,
+With a hundred pulleys and cranks between,
 
-  Made of metal and kept quite clean,
+Made of metal and kept quite clean,
 
-  To hoist him out of his healthful bed on every day of his life,
+To hoist him out of his healthful bed on every day of his life,
 
-  And wash him and dress him and shave him and brush him
+And wash him and dress him and shave him and brush him
 
-        --to live the Simple Life.
+--to live the Simple Life.
 
-  Mr. Mandragon was most refined and quietly, neatly dressed,
+Mr. Mandragon was most refined and quietly, neatly dressed,
 
-  Say all the American newspapers that know refinement best;
+Say all the American newspapers that know refinement best;
 
-  Quiet and neat the hat and hair and the coat quiet and neat,
+Quiet and neat the hat and hair and the coat quiet and neat,
 
-  A trouser worn upon either leg, while boots adorn the feet;
+A trouser worn upon either leg, while boots adorn the feet;
 
-  And not, as any one would expect,
+And not, as any one would expect,
 
-  A Tiger's Skin all striped and specked,
+A Tiger's Skin all striped and specked,
 
-  And a Peacock Hat with the tail erect,
+And a Peacock Hat with the tail erect,
 
-  A scarlet tunic with sunflowers decked,
+A scarlet tunic with sunflowers decked,
 
-  Which might have had a more marked effect,
+Which might have had a more marked effect,
 
-  And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
+And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
 
-  But Fame and the Flagon, for Mr. Mandragon
+But Fame and the Flagon, for Mr. Mandragon
 
-        --obscured the Simple Life.
+--obscured the Simple Life.
 
-  Mr. Mandragon, the Millionaire, I am happy to say, is dead;
+Mr. Mandragon, the Millionaire, I am happy to say, is dead;
 
-  He enjoyed a quiet funeral in a Crematorium shed.
+He enjoyed a quiet funeral in a Crematorium shed.
 
-  And he lies there fluffy and soft and grey and certainly quite refined;
+And he lies there fluffy and soft and grey and certainly quite refined;
 
-  When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind,
+When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind,
 
-  Or been eaten by wolves athirst for [[Blood|blood]],
+Or been eaten by wolves athirst for [[Blood|blood]],
 
-  Or burnt on a good tall pyre of wood,
+Or burnt on a good tall pyre of wood,
 
-  In a towering flame, as a heathen should,
+In a towering flame, as a heathen should,
 
-  Or even sat with us here at food,
+Or even sat with us here at food,
 
-  Merrily taking twopenny ale and pork with a pocket-knife;
+Merrily taking twopenny ale and pork with a pocket-knife;
 
-  But this was luxury not for one that went for the Simple Life.
+But this was luxury not for one that went for the Simple Life.
 
 The [[Song]] Against [[songs|Songs]]
 
-  The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
+The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
 
-  The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
+The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
 
-  The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
+The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
 
-  And the brightest things in Baudelaire are anything else but gay.
+And the brightest things in Baudelaire are anything else but gay.
 
-  But who will write us a riding [[Song|song]],
+But who will write us a riding [[Song|song]],
 
-  Or a hunting [[Song|song]] or a drinking [[Song|song]],
+Or a hunting [[Song|song]] or a drinking [[Song|song]],
 
-  Fit for them that arose and rode
+Fit for them that arose and rode
 
-  When day and the wine were red?
+When day and the wine were red?
 
-  But bring me a quart of claret out,
+But bring me a quart of claret out,
 
-  And I will write you a clinking [[Song|song]],
+And I will write you a clinking [[Song|song]],
 
-  A [[Song|song]] of war and a [[Song|song]] of wine
+A [[Song|song]] of war and a [[Song|song]] of wine
 
-  And a [[Song|song]] to wake the dead.
+And a [[Song|song]] to wake the dead.
 
-  The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
+The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
 
-  The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
+The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
 
-  The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
+The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
 
-  And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
+And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
 
-  But who will write us a riding [[Song|song]]
+But who will write us a riding [[Song|song]]
 
-  Or a fighting [[Song|song]] or a drinking [[Song|song]],
+Or a fighting [[Song|song]] or a drinking [[Song|song]],
 
-  Fit for the fathers of you and me,
+Fit for the fathers of you and me,
 
-  That knew how to think and thrive?
+That knew how to think and thrive?
 
-  But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
+But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
 
-  Is simply an utterly stinking [[Song|song]],
+Is simply an utterly stinking [[Song|song]],
 
-  To [[Double|double]] you up and drag you down
+To [[Double|double]] you up and drag you down
 
-  And damn your [[Soul|soul]] alive.
+And damn your [[Soul|soul]] alive.
 
 Me Heart
 
-  I come from Castlepatrick, and me heart is on me sleeve,
+I come from Castlepatrick, and me heart is on me sleeve,
 
-  And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit it with me leave,
+And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit it with me leave,
 
-  It shines there for an epaulette, as golden as a flame,
+It shines there for an epaulette, as golden as a flame,
 
-  As naked as me ancestors, as noble as me name.
+As naked as me ancestors, as noble as me name.
 
-  For I come from Castlepatrick, and me heart is on me sleeve,
+For I come from Castlepatrick, and me heart is on me sleeve,
 
-  But a lady stole it from me on St. Gallowglass's Eve.
+But a lady stole it from me on St. Gallowglass's Eve.
 
-  The folk that live in Liverpool, their heart is in their boots;
+The folk that live in Liverpool, their heart is in their boots;
 
-  They go to hell like lambs, they do, because the hooter hoots.
+They go to hell like lambs, they do, because the hooter hoots.
 
-  Where men may not be dancin', though the wheels may [[Dance|dance]] all day;
+Where men may not be dancin', though the wheels may [[Dance|dance]] all day;
 
-  And men may not be smokin'; but only chimneys may.
+And men may not be smokin'; but only chimneys may.
 
-  But I come from Castlepatrick, and me heart is on me sleeve,
+But I come from Castlepatrick, and me heart is on me sleeve,
 
-  But a lady stole it from me on St. Poleander's Eve.
+But a lady stole it from me on St. Poleander's Eve.
 
-  The folk that live in black Belfast, their heart is in their mouth,
+The folk that live in black Belfast, their heart is in their mouth,
 
-  They see us making murders in the meadows of the South;
+They see us making murders in the meadows of the South;
 
-  They think a plough's a rack, they do, and cattle-calls are creeds,
+They think a plough's a rack, they do, and cattle-calls are creeds,
 
-  And they think we're burnin' witches when we're only burnin' weeds;
+And they think we're burnin' witches when we're only burnin' weeds;
 
-  But I come from Castlepatrick, and me heart is on me sleeve;
+But I come from Castlepatrick, and me heart is on me sleeve;
 
-  But a lady stole it from me on St. Barnabas's Eve.
+But a lady stole it from me on St. Barnabas's Eve.
 
 The [[Song]] of the Oak
 
-  The Druids waved their golden knives
+The Druids waved their golden knives
 
-  And danced around the Oak
+And danced around the Oak
 
-  When they had sacrificed a man;
+When they had sacrificed a man;
 
-  But though the learned search and scan,
+But though the learned search and scan,
 
-  No single modern person can
+No single modern person can
 
-  Entirely see the joke.
+Entirely see the joke.
 
-  But though they cut the throats of men
+But though they cut the throats of men
 
-  They cut not down the tree,
+They cut not down the tree,
 
-  And from the [[Blood|blood]] the saplings sprang
+And from the [[Blood|blood]] the saplings sprang
 
-  Of oak-woods yet to be.
+Of oak-woods yet to be.
 
-    But Ivywood, Lord Ivywood,
+But Ivywood, Lord Ivywood,
 
-    He rots the tree as ivy would,
+He rots the tree as ivy would,
 
-    He clings and crawls as ivy would
+He clings and crawls as ivy would
 
-    About the sacred tree.
+About the sacred tree.
 
-  [[King]] Charles he fled from Worcester fight
+[[King]] Charles he fled from Worcester fight
 
-  And hid him in an Oak;
+And hid him in an Oak;
 
-  In convent schools no man of tact
+In convent schools no man of tact
 
-  Would trace and praise his every act,
+Would trace and praise his every act,
 
-  Or argue that he was in fact
+Or argue that he was in fact
 
-  A strict and sainted bloke,
+A strict and sainted bloke,
 
-  But not by him the sacred woods
+But not by him the sacred woods
 
-  Have lost their fancies free,
+Have lost their fancies free,
 
-  And though he was extremely big
+And though he was extremely big
 
-  He did not break the tree.
+He did not break the tree.
 
-    But Ivywood, Lord Ivywood,
+But Ivywood, Lord Ivywood,
 
-    He breaks the tree as ivy would,
+He breaks the tree as ivy would,
 
-    And eats the woods as ivy would
+And eats the woods as ivy would
 
-    Between us and the sea.
+Between us and the sea.
 
-  Great Collingwood walked down the glade
+Great Collingwood walked down the glade
 
-  And flung the acorns free,
+And flung the acorns free,
 
-  That oaks might still be in the grove
+That oaks might still be in the grove
 
-  As oaken as the beams above,
+As oaken as the beams above,
 
-  When the great [[Lover]] sailors [[Love|love]]
+When the great [[Lover]] sailors [[Love|love]]
 
-  Was kissed by [[Death]] at sea.
+Was kissed by [[Death]] at sea.
 
-  But though for him the oak-trees fell
+But though for him the oak-trees fell
 
-  To build the oaken ships,
+To build the oaken ships,
 
-  The woodman worshipped what he smote
+The woodman worshipped what he smote
 
-  And honoured even the chips.
+And honoured even the chips.
 
-    But Ivywood, Lord Ivywood,
+But Ivywood, Lord Ivywood,
 
-    He hates the tree as ivy would,
+He hates the tree as ivy would,
 
-    As the dragon of the ivy would
+As the dragon of the ivy would
 
-    That has us in his grips.
+That has us in his grips.
 
 The [[Road]] to Roundabout
 
-  Some say that Guy of Warwick,
+Some say that Guy of Warwick,
 
-  The man that killed the Cow
+The man that killed the Cow
 
-  And brake the mighty Boar alive
+And brake the mighty Boar alive
 
-  Beyond the Bridge at Slough;
+Beyond the Bridge at Slough;
 
-  Went up against a Loathly Worm
+Went up against a Loathly Worm
 
-  That wasted all the Downs,
+That wasted all the Downs,
 
-  And so the roads they twist and squirm
+And so the roads they twist and squirm
 
-  (If I may be allowed the term)
+(If I may be allowed the term)
 
-  From the writhing of the stricken Worm
+From the writhing of the stricken Worm
 
-  That died in seven towns.
+That died in seven towns.
 
-    I see no scientific proof
+I see no scientific proof
 
-    That this idea is sound,
+That this idea is sound,
 
-    And I should say they wound about
+And I should say they wound about
 
-    To find the town of Roundabout,
+To find the town of Roundabout,
 
-    The merry town of Roundabout,
+The merry town of Roundabout,
 
-    That makes the world go round.
+That makes the world go round.
 
-  Some say that Robin Goodfellow,
+Some say that Robin Goodfellow,
 
-  Whose lantern lights the meads
+Whose lantern lights the meads
 
-  (To steal a phrase Sir Walter Scott
+(To steal a phrase Sir Walter Scott
 
-  In heaven no longer needs),
+In heaven no longer needs),
 
-  Such [[Dance|dance]] around the trysting-place
+Such [[Dance|dance]] around the trysting-place
 
-  The moonstruck [[Lover|lover]] leads;
+The moonstruck [[Lover|lover]] leads;
 
-  Which superstition I should scout
+Which superstition I should scout
 
-  There is more [[Faith|faith]] in honest [[Doubt|doubt]]
+There is more [[Faith|faith]] in honest [[Doubt|doubt]]
 
-  (As Tennyson has pointed out)
+(As Tennyson has pointed out)
 
-  Than in those nasty creeds.
+Than in those nasty creeds.
 
-    But peace and righteousness (St. John)
+But peace and righteousness (St. John)
 
-    In Roundabout can kiss,
+In Roundabout can kiss,
 
-    And since that's all that's found about
+And since that's all that's found about
 
-    The pleasant town of Roundabout,
+The pleasant town of Roundabout,
 
-    The roads they simply bound about
+The roads they simply bound about
 
-    To find out where it is.
+To find out where it is.
 
-  Some say that when Sir Lancelot
+Some say that when Sir Lancelot
 
-  Went forth to find the Grail,
+Went forth to find the Grail,
 
-  Grey Merlin wrinkled up the roads
+Grey Merlin wrinkled up the roads
 
-  For [[Hope|hope]] that he should fail;
+For [[Hope|hope]] that he should fail;
 
-  All roads led back to Lyonesse
+All roads led back to Lyonesse
 
-  And Camelot in the Vale,
+And Camelot in the Vale,
 
-  I cannot yield assent to this
+I cannot yield assent to this
 
-  Extravagant hypothesis,
+Extravagant hypothesis,
 
-  The plain, shrewd Briton will dismiss
+The plain, shrewd Briton will dismiss
 
-  Such rumours (=Daily Mail=).
+Such rumours (=Daily Mail=).
 
-    But in the streets of Roundabout
+But in the streets of Roundabout
 
-    Are no such factions found,
+Are no such factions found,
 
-    Or theories to expound about,
+Or theories to expound about,
 
-    Or roll upon the ground about,
+Or roll upon the ground about,
 
-    In the happy town of Roundabout,
+In the happy town of Roundabout,
 
-    That makes the world go round.
+That makes the world go round.
 
 The [[Song]] of the Strange [[ascetic|Ascetic]]
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have praised the purple vine,
+I'd have praised the purple vine,
 
-  My slaves should dig the vineyards,
+My slaves should dig the vineyards,
 
-    And I would drink the wine;
+And I would drink the wine;
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And his slaves grow lean and grey,
+And his slaves grow lean and grey,
 
-  That he may drink some tepid milk
+That he may drink some tepid milk
 
-    Exactly twice a day.
+Exactly twice a day.
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have crowned Neoera's curls,
+I'd have crowned Neoera's curls,
 
-  And filled my life with [[Love|love]] affairs,
+And filled my life with [[Love|love]] affairs,
 
-    My [[house]] with dancing girls;
+My [[house]] with dancing girls;
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And to lecture rooms is forced,
+And to lecture rooms is forced,
 
-  Where his aunts, who are not married,
+Where his aunts, who are not married,
 
-    Demand to be divorced.
+Demand to be divorced.
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have sent my armies forth,
+I'd have sent my armies forth,
 
-  And dragged behind my chariots
+And dragged behind my chariots
 
-    The Chieftains of the North.
+The Chieftains of the North.
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And he drives the dreary quill,
+And he drives the dreary quill,
 
-  To lend the poor that funny cash
+To lend the poor that funny cash
 
-    That makes them poorer still.
+That makes them poorer still.
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have piled my pyre on high,
+I'd have piled my pyre on high,
 
-  And in a great red whirlwind
+And in a great red whirlwind
 
-    Gone roaring to the sky;
+Gone roaring to the sky;
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And a richer man than I;
+And a richer man than I;
 
-  And they put him in an oven,
+And they put him in an oven,
 
-    Just as if he were a pie.
+Just as if he were a pie.
 
-  Now who that runs can read it,
+Now who that runs can read it,
 
-    The [[Riddle|riddle]] that I write,
+The [[Riddle|riddle]] that I write,
 
-  Of why this poor old sinner,
+Of why this poor old sinner,
 
-    Should sin without delight--?
+Should sin without delight--?
 
-  But I, I cannot read it
+But I, I cannot read it
 
-    (Although I run and run),
+(Although I run and run),
 
-  Of them that do not have the [[Faith|faith]],
+Of them that do not have the [[Faith|faith]],
 
-    And will not have the fun.
+And will not have the fun.
 
 The [[Song]] of Right and Wrong
 
-  Feast on wine or fast on [[Water|water]],
+Feast on wine or fast on [[Water|water]],
 
-  And your [[Honour|honour]] shall stand sure,
+And your [[Honour|honour]] shall stand sure,
 
-  God Almighty's son and daughter
+God Almighty's son and daughter
 
-  He the valiant, she the pure;
+He the valiant, she the pure;
 
-  If an angel out of heaven
+If an angel out of heaven
 
-  Brings you other things to drink,
+Brings you other things to drink,
 
-  Thank him for his kind attentions,
+Thank him for his kind attentions,
 
-  Go and pour them down the sink.
+Go and pour them down the sink.
 
-  Tea is like the East he grows in,
+Tea is like the East he grows in,
 
-  A great yellow Mandarin
+A great yellow Mandarin
 
-  With urbanity of manner
+With urbanity of manner
 
-  And unconsciousness of sin;
+And unconsciousness of sin;
 
-  All the women, like a harem,
+All the women, like a harem,
 
-  At his pig-tail troop along;
+At his pig-tail troop along;
 
-  And, like all the East he grows in,
+And, like all the East he grows in,
 
-  He is [[Poison]] when he's strong.
+He is [[Poison]] when he's strong.
 
-  Tea, although an Oriental,
+Tea, although an Oriental,
 
-  Is a gentleman at least;
+Is a gentleman at least;
 
-  Cocoa is a cad and coward,
+Cocoa is a cad and coward,
 
-  Cocoa is a vulgar beast,
+Cocoa is a vulgar beast,
 
-  Cocoa is a dull, disloyal,
+Cocoa is a dull, disloyal,
 
-  Lying, crawling cad and clown,
+Lying, crawling cad and clown,
 
-  And may very [[Well|well]] be grateful
+And may very [[Well|well]] be grateful
 
-  To the [[Fool|fool]] that takes him down.
+To the [[Fool|fool]] that takes him down.
 
-  As for all the windy waters,
+As for all the windy waters,
 
-  They were rained like tempests down
+They were rained like tempests down
 
-  When good drink had been dishonoured
+When good drink had been dishonoured
 
-  By the tipplers of the town;
+By the tipplers of the town;
 
-  When red wine had brought red ruin
+When red wine had brought red ruin
 
-  And the [[Death|death]]-[[Dance|dance]] of our times,
+And the [[Death|death]]-[[Dance|dance]] of our times,
 
-  Heaven sent us Soda [[Water]]
+Heaven sent us Soda [[Water]]
 
-  As a torment for our crimes.
+As a torment for our crimes.
 
 Who Goes [[Home]]?
 
-  In the [[City|city]] set upon slime and loam
+In the [[City|city]] set upon slime and loam
 
-  They cry in their parliament "Who goes [[Home|home]]?"
+They cry in their parliament "Who goes [[Home|home]]?"
 
-  And there comes no answer in arch or dome,
+And there comes no answer in arch or dome,
 
-  For none in the [[City|city]] of graves goes [[Home|home]].
+For none in the [[City|city]] of graves goes [[Home|home]].
 
-  Yet these shall perish and understand,
+Yet these shall perish and understand,
 
-  For God has pity on this great land.
+For God has pity on this great land.
 
-  Men that are men again; who goes [[Home|home]]?
+Men that are men again; who goes [[Home|home]]?
 
-  Tocsin and trumpeter! Who goes [[Home|home]]?
+Tocsin and trumpeter! Who goes [[Home|home]]?
 
-  For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
+For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
 
-  And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].
+And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].
 
-  And a voice valedictory.... Who is for Victory?
+And a voice valedictory.... Who is for Victory?
 
-  Who is for Liberty? Who goes [[Home|home]]?
+Who is for Liberty? Who goes [[Home|home]]?
 
-  Printed in Great Britain by
+Printed in Great Britain by
 
-  UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[London|LONDON]]
+UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[London|LONDON]]
 
 SOME DELIGHTFUL BOOKS BY G. K. CHESTERTON
 
@@ -1195,7 +1195,7 @@ End of Project Gutenberg's Wine, [[Water]], and [[Song]], by Gilbert Keith Chest
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/3/5/1/1/35115/
+http://www.gutenberg.org/3/5/1/1/35115/
 
 Produced by Jana Srna, Bryan Ness and the Online Distributed
 
@@ -1455,53 +1455,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -1695,11 +1695,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -1779,7 +1779,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -1825,59 +1825,59 @@ produced from images generously made available by The
 
 Internet Archive/American Libraries.)
 
-  [ Transcriber's Notes:
+[ Transcriber's Notes:
 
-    Every effort has been made to replicate this text as faithfully as
+Every effort has been made to replicate this text as faithfully as
 
-    possible, including inconsistencies in spelling and hyphenation;
+possible, including inconsistencies in spelling and hyphenation;
 
-    no changes have been made to the original text.
+no changes have been made to the original text.
 
-    Italic text has been marked with _underscores_.
+Italic text has been marked with _underscores_.
 
-    Bold italic text has been marked with =equals signs=.
+Bold italic text has been marked with =equals signs=.
 
-  ]
+]
 
 WINE, [[Water|WATER]], AND [[Song|SONG]]
 
 BY THE SAME AUTHOR
 
-  CHARLES DICKENS
+CHARLES DICKENS
 
-  THE BALLAD OF THE WHITE [[Horse|HORSE]]
+THE BALLAD OF THE WHITE [[Horse|HORSE]]
 
-  THE FLYING INN
+THE FLYING INN
 
-  ALL THINGS CONSIDERED
+ALL THINGS CONSIDERED
 
-  TREMENDOUS TRIFLES
+TREMENDOUS TRIFLES
 
-  ALARMS AND DISCURSIONS
+ALARMS AND DISCURSIONS
 
-  A MISCELLANY OF MEN
+A MISCELLANY OF MEN
 
-  WINE, [[Water|WATER]]
+WINE, [[Water|WATER]]
 
-  AND [[Song|SONG]]
+AND [[Song|SONG]]
 
-  BY
+BY
 
-  G. K. CHESTERTON
+G. K. CHESTERTON
 
-  THIRD EDITION
+THIRD EDITION
 
-  METHUEN & CO. LTD.
+METHUEN & CO. LTD.
 
-  36 ESSEX STREET W.C.
+36 ESSEX STREET W.C.
 
-  [[London|LONDON]]
+[[London|LONDON]]
 
-  First Published      August  6th 1915
+First Published      August  6th 1915
 
-  Second Edition       August 10th 1915
+Second Edition       August 10th 1915
 
-  Third Edition        August 23rd 1915
+Third Edition        August 23rd 1915
 
 NOTE
 
@@ -1891,193 +1891,193 @@ Witness=, where they originally appeared.
 
 CONTENTS
 
-                                     Page
+Page
 
-  The Englishman                        9
+The Englishman                        9
 
-  Wine and [[Water]]                       11
+Wine and [[Water]]                       11
 
-  The [[Song]] against Grocers             15
+The [[Song]] against Grocers             15
 
-  The [[rolling|Rolling]] English [[Road]]             20
+The [[rolling|Rolling]] English [[Road]]             20
 
-  The [[Song]] of [[quoodle|Quoodle]]                  24
+The [[Song]] of [[quoodle|Quoodle]]                  24
 
-  Pioneers, O Pioneers                 27
+Pioneers, O Pioneers                 27
 
-  The Logical [[vegetarian|Vegetarian]]               31
+The Logical [[vegetarian|Vegetarian]]               31
 
-  "The Saracen's Head"                 34
+"The Saracen's Head"                 34
 
-  The Good Rich Man                    37
+The Good Rich Man                    37
 
-  The [[Song]] against [[songs|Songs]]               42
+The [[Song]] against [[songs|Songs]]               42
 
-  Me Heart                             45
+Me Heart                             45
 
-  The [[Song]] of the Oak                  49
+The [[Song]] of the Oak                  49
 
-  The [[Road]] to Roundabout               53
+The [[Road]] to Roundabout               53
 
-  The [[Song]] of the Strange [[ascetic|Ascetic]]      57
+The [[Song]] of the Strange [[ascetic|Ascetic]]      57
 
-  The [[Song]] of Right and Wrong          60
+The [[Song]] of Right and Wrong          60
 
-  Who Goes [[Home]]?                       63
+Who Goes [[Home]]?                       63
 
 WINE, [[Water|WATER]], AND [[Song|SONG]]
 
 The Englishman
 
-  St. George he was for England,
+St. George he was for England,
 
-  And before he killed the dragon
+And before he killed the dragon
 
-  He drank a pint of English ale
+He drank a pint of English ale
 
-  Out of an English flagon.
+Out of an English flagon.
 
-  For though he fast right readily
+For though he fast right readily
 
-  In hair-shirt or in mail,
+In hair-shirt or in mail,
 
-  It isn't safe to give him cakes
+It isn't safe to give him cakes
 
-  Unless you give him ale.
+Unless you give him ale.
 
-  St. George he was for England,
+St. George he was for England,
 
-  And right gallantly set free
+And right gallantly set free
 
-  The lady left for dragon's meat
+The lady left for dragon's meat
 
-  And tied up to a tree;
+And tied up to a tree;
 
-  But since he stood for England
+But since he stood for England
 
-  And knew what England means,
+And knew what England means,
 
-  Unless you give him bacon
+Unless you give him bacon
 
-  You mustn't give him beans.
+You mustn't give him beans.
 
-  St. George he is for England,
+St. George he is for England,
 
-  And shall wear the shield he wore
+And shall wear the shield he wore
 
-  When we go out in armour
+When we go out in armour
 
-  With the battle-[[Cross|cross]] before.
+With the battle-[[Cross|cross]] before.
 
-  But though he is jolly company
+But though he is jolly company
 
-  And very pleased to dine,
+And very pleased to dine,
 
-  It isn't safe to give him nuts
+It isn't safe to give him nuts
 
-  Unless you give him wine.
+Unless you give him wine.
 
 Wine and [[Water]]
 
-  Old Noah he had an ostrich farm and fowls on the largest scale,
+Old Noah he had an ostrich farm and fowls on the largest scale,
 
-  He ate his egg with a ladle in an egg-cup big as a pail,
+He ate his egg with a ladle in an egg-cup big as a pail,
 
-  And the soup he took was Elephant Soup and the fish he took was Whale,
+And the soup he took was Elephant Soup and the fish he took was Whale,
 
-  But they all were small to the cellar he took when he set out to sail,
+But they all were small to the cellar he took when he set out to sail,
 
-  And Noah he often said to his wife when he sat down to dine,
+And Noah he often said to his wife when he sat down to dine,
 
-  "I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+"I don't care where the [[Water|water]] goes if it doesn't get into the wine."
 
-  The cataract of the cliff of heaven fell blinding off the brink
+The cataract of the cliff of heaven fell blinding off the brink
 
-  As if it would wash the [[Stars|stars]] away as suds go down a sink,
+As if it would wash the [[Stars|stars]] away as suds go down a sink,
 
-  The seven heavens came roaring down for the throats of hell to drink,
+The seven heavens came roaring down for the throats of hell to drink,
 
-  And Noah he cocked his eye and said, "It looks like rain, I think,
+And Noah he cocked his eye and said, "It looks like rain, I think,
 
-  The [[Water|water]] has drowned the Matterhorn as deep as a Mendip mine,
+The [[Water|water]] has drowned the Matterhorn as deep as a Mendip mine,
 
-  But I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+But I don't care where the [[Water|water]] goes if it doesn't get into the wine."
 
-  But Noah he sinned, and we have sinned; on tipsy feet we trod,
+But Noah he sinned, and we have sinned; on tipsy feet we trod,
 
-  Till a great big black teetotaller was sent to us for a rod,
+Till a great big black teetotaller was sent to us for a rod,
 
-  And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
+And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
 
-  For the Curse of [[Water]] has come again because of the wrath of God,
+For the Curse of [[Water]] has come again because of the wrath of God,
 
-  And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
+And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
 
-  But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
+But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
 
 The [[Song]] Against Grocers
 
-  God made the wicked [[grocer|Grocer]]
+God made the wicked [[grocer|Grocer]]
 
-  For a mystery and a sign,
+For a mystery and a sign,
 
-  That men might shun the awful shops
+That men might shun the awful shops
 
-  And go to inns to dine;
+And go to inns to dine;
 
-  Where the bacon's on the rafter
+Where the bacon's on the rafter
 
-  And the wine is in the wood,
+And the wine is in the wood,
 
-  And God that made good laughter
+And God that made good laughter
 
-  Has seen that they are good.
+Has seen that they are good.
 
-  The evil-hearted [[grocer|Grocer]]
+The evil-hearted [[grocer|Grocer]]
 
-  Would call his mother "Ma'am,"
+Would call his mother "Ma'am,"
 
-  And bow at her and bob at her,
+And bow at her and bob at her,
 
-  Her aged [[Soul|soul]] to damn,
+Her aged [[Soul|soul]] to damn,
 
-  And rub his horrid hands and ask
+And rub his horrid hands and ask
 
-  What article was next,
+What article was next,
 
-  Though =mortis in articulo=
+Though =mortis in articulo=
 
-  Should be her proper text.
+Should be her proper text.
 
-  His props are not his children,
+His props are not his children,
 
-  But pert lads underpaid,
+But pert lads underpaid,
 
-  Who call out "Cash!" and bang about
+Who call out "Cash!" and bang about
 
-  To work his wicked trade;
+To work his wicked trade;
 
-  He keeps a lady in a cage
+He keeps a lady in a cage
 
-  Most cruelly all day,
+Most cruelly all day,
 
-  And makes her count and calls her "Miss"
+And makes her count and calls her "Miss"
 
-  Until she fades away.
+Until she fades away.
 
-  The righteous minds of innkeepers
+The righteous minds of innkeepers
 
-  Induce them now and then
+Induce them now and then
 
-  To crack a bottle with a friend
+To crack a bottle with a friend
 
-  Or treat unmoneyed men,
+Or treat unmoneyed men,
 
-  But who hath seen the [[grocer|Grocer]]
+But who hath seen the [[grocer|Grocer]]
 
-  Treat housemaids to his teas
+Treat housemaids to his teas
 
-  Or crack a bottle of fish-sauce
+Or crack a bottle of fish-sauce
 
 
 
@@ -2085,225 +2085,225 @@ The [[Song]] Against Grocers
 <span class="atom-split" data-atom="part--part_02" data-title="WineWaterSong (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-  Or stand a man a [[cheese]]?
+Or stand a man a [[cheese]]?
 
-  He sells us sands of Araby
+He sells us sands of Araby
 
-  As sugar for cash down;
+As sugar for cash down;
 
-  He sweeps his shop and sells the [[Dust|dust]]
+He sweeps his shop and sells the [[Dust|dust]]
 
-  The purest salt in town,
+The purest salt in town,
 
-  He crams with cans of poisoned meat
+He crams with cans of poisoned meat
 
-  Poor subjects of the [[King]],
+Poor subjects of the [[King]],
 
-  And when they die by thousands
+And when they die by thousands
 
-  Why, he laughs like anything.
+Why, he laughs like anything.
 
-  The wicked [[grocer|Grocer]] groces
+The wicked [[grocer|Grocer]] groces
 
-  In spirits and in wine,
+In spirits and in wine,
 
-  Not frankly and in fellowship
+Not frankly and in fellowship
 
-  As men in inns do dine;
+As men in inns do dine;
 
-  But packed with soap and sardines
+But packed with soap and sardines
 
-  And carried off by grooms,
+And carried off by grooms,
 
-  For to be snatched by Duchesses
+For to be snatched by Duchesses
 
-  And drunk in dressing-rooms.
+And drunk in dressing-rooms.
 
-  The hell-instructed [[grocer|Grocer]]
+The hell-instructed [[grocer|Grocer]]
 
-  Has a temple made of tin,
+Has a temple made of tin,
 
-  And the ruin of good innkeepers
+And the ruin of good innkeepers
 
-  Is loudly urged therein;
+Is loudly urged therein;
 
-  But now the sands are running out
+But now the sands are running out
 
-  From sugar of a sort,
+From sugar of a sort,
 
-  The [[grocer|Grocer]] trembles; for his [[Time|time]],
+The [[grocer|Grocer]] trembles; for his [[Time|time]],
 
-  Just like his weight, is short.
+Just like his weight, is short.
 
 The [[rolling|Rolling]] English [[Road]]
 
-  Before the Roman came to Rye or out to Severn strode,
+Before the Roman came to Rye or out to Severn strode,
 
-  The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
+The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
 
-  A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
+A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
 
-  And after him the parson ran, the sexton and the squire;
+And after him the parson ran, the sexton and the squire;
 
-  A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
+A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
 
-  The [[Night|night]] we went to Birmingham by way of Beachy Head.
+The [[Night|night]] we went to Birmingham by way of Beachy Head.
 
-  I knew no harm of Bonaparte and plenty of the Squire,
+I knew no harm of Bonaparte and plenty of the Squire,
 
-  And for to fight the Frenchman I did not much [[Desire|desire]];
+And for to fight the Frenchman I did not much [[Desire|desire]];
 
-  But I did bash their baggonets because they came arrayed
+But I did bash their baggonets because they came arrayed
 
-  To straighten out the crooked [[Road|road]] an English drunkard made,
+To straighten out the crooked [[Road|road]] an English drunkard made,
 
-  Where you and I went down the lane with ale-mugs in our hands,
+Where you and I went down the lane with ale-mugs in our hands,
 
-  The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
+The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
 
-  His sins they were forgiven him; or why do [[Flowers|flowers]] run
+His sins they were forgiven him; or why do [[Flowers|flowers]] run
 
-  Behind him; and the hedges all strengthing in the sun?
+Behind him; and the hedges all strengthing in the sun?
 
-  The wild thing went from left to right and knew not which was which,
+The wild thing went from left to right and knew not which was which,
 
-  But the wild [[Rose|rose]] was above him when they found him in the ditch.
+But the wild [[Rose|rose]] was above him when they found him in the ditch.
 
-  God pardon us, nor harden us; we did not see so clear
+God pardon us, nor harden us; we did not see so clear
 
-  The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
+The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
 
-  My friends, we will not go again or ape an ancient rage,
+My friends, we will not go again or ape an ancient rage,
 
-  Or stretch the folly of our youth to be the shame of age,
+Or stretch the folly of our youth to be the shame of age,
 
-  But walk with clearer eyes and ears this path that wandereth,
+But walk with clearer eyes and ears this path that wandereth,
 
-  And see undrugged in evening light the decent inn of [[Death|death]];
+And see undrugged in evening light the decent inn of [[Death|death]];
 
-  For there is good news yet to hear and fine things to be seen,
+For there is good news yet to hear and fine things to be seen,
 
-  Before we go to Paradise by way of Kensal Green.
+Before we go to Paradise by way of Kensal Green.
 
 The [[Song]] of [[quoodle|Quoodle]]
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  The fallen sons of Eve;
+The fallen sons of Eve;
 
-  Even the smell of roses
+Even the smell of roses
 
-  Is not what they supposes;
+Is not what they supposes;
 
-  But more than mind discloses
+But more than mind discloses
 
-  And more than men believe.
+And more than men believe.
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  They cannot even tell
+They cannot even tell
 
-  When door and darkness closes
+When door and darkness closes
 
-  The park a Jew encloses,
+The park a Jew encloses,
 
-  Where even the Law of Moses
+Where even the Law of Moses
 
-  Will let you steal a smell.
+Will let you steal a smell.
 
-  The brilliant smell of [[Water|water]],
+The brilliant smell of [[Water|water]],
 
-  The brave smell of a stone,
+The brave smell of a stone,
 
-  The smell of dew and thunder,
+The smell of dew and thunder,
 
-  The old bones buried under,
+The old bones buried under,
 
-  Are things in which they blunder
+Are things in which they blunder
 
-  And err, if left [[Alone|alone]].
+And err, if left [[Alone|alone]].
 
-  The [[Wind|wind]] from [[Winter|winter]] forests,
+The [[Wind|wind]] from [[Winter|winter]] forests,
 
-  The scent of scentless [[Flowers|flowers]],
+The scent of scentless [[Flowers|flowers]],
 
-  The breath of brides' adorning,
+The breath of brides' adorning,
 
-  The smell of snare and warning,
+The smell of snare and warning,
 
-  The smell of [[Sunday]] morning,
+The smell of [[Sunday]] morning,
 
-  God gave to us for ours.
+God gave to us for ours.
 
-  . . . . .
+. . . . .
 
-  And [[quoodle|Quoodle]] here discloses
+And [[quoodle|Quoodle]] here discloses
 
-  All things that [[quoodle|Quoodle]] can,
+All things that [[quoodle|Quoodle]] can,
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  They haven't got no noses,
+They haven't got no noses,
 
-  And goodness only knowses
+And goodness only knowses
 
-  The Noselessness of Man.
+The Noselessness of Man.
 
 Pioneers, O Pioneers
 
-  Nebuchadnezzar the [[King]] of the Jews
+Nebuchadnezzar the [[King]] of the Jews
 
-  Suffered from new and original views,
+Suffered from new and original views,
 
-  He crawled on his hands and knees, it's said,
+He crawled on his hands and knees, it's said,
 
-  With grass in his mouth and a [[Crown|crown]] on his head.
+With grass in his mouth and a [[Crown|crown]] on his head.
 
-        With a wowtyiddly, etc.
+With a wowtyiddly, etc.
 
-  Those in traditional paths that trod
+Those in traditional paths that trod
 
-  Thought the thing was a curse from God,
+Thought the thing was a curse from God,
 
-  But a Pioneer men always abuse
+But a Pioneer men always abuse
 
-  Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[King]] of the Jews.
 
-  Black Lord Foulon the Frenchman slew
+Black Lord Foulon the Frenchman slew
 
-  Thought it a Futurist thing to do.
+Thought it a Futurist thing to do.
 
-  He offered them grass instead of bread.
+He offered them grass instead of bread.
 
-  So they stuffed him with grass when they cut off his head.
+So they stuffed him with grass when they cut off his head.
 
-        With a wowtyiddly, etc.
+With a wowtyiddly, etc.
 
-  For the [[Pride|pride]] of his [[Soul|soul]] he perished then--
+For the [[Pride|pride]] of his [[Soul|soul]] he perished then--
 
-  But of course it is always of [[Pride]] that men,
+But of course it is always of [[Pride]] that men,
 
-  A Man in Advance of his Age accuse,
+A Man in Advance of his Age accuse,
 
-  Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[King]] of the Jews.
 
-  Simeon Scudder of Styx, in Maine,
+Simeon Scudder of Styx, in Maine,
 
-  Thought of the thing and was at it again.
+Thought of the thing and was at it again.
 
-  He gave good grass and [[Water|water]] in pails
+He gave good grass and [[Water|water]] in pails
 
-  To a thousand Irishmen hammering rails.
+To a thousand Irishmen hammering rails.
 
-        With a wowtyiddly, etc.
+With a wowtyiddly, etc.
 
-  Appetites differ; and tied to a stake
+Appetites differ; and tied to a stake
 
-  He was tarred and feathered for [[Conscience]]' Sake.
+He was tarred and feathered for [[Conscience]]' Sake.
 
-  But stoning the prophets is ancient news,
+But stoning the prophets is ancient news,
 
-  Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[King]] of the Jews.
 
 The Logical [[vegetarian|Vegetarian]]
 
@@ -2317,47 +2317,47 @@ instead of filling their goblets with the [[Blood|blood]] of bulls and elephants
 
 as all conventional meat-eaters do, I suppose."--Dalroy.
 
-    You will find me drinking rum,
+You will find me drinking rum,
 
-    Like a sailor in a slum,
+Like a sailor in a slum,
 
-  You will find me drinking beer like a Bavarian.
+You will find me drinking beer like a Bavarian.
 
-    You will find me drinking gin
+You will find me drinking gin
 
-    In the lowest kind of inn,
+In the lowest kind of inn,
 
-  Because I am a rigid [[vegetarian|Vegetarian]].
+Because I am a rigid [[vegetarian|Vegetarian]].
 
-    So I cleared the inn of wine,
+So I cleared the inn of wine,
 
-    And I tried to climb the sign,
+And I tried to climb the sign,
 
-  And I tried to hail the constable as "Marion."
+And I tried to hail the constable as "Marion."
 
-    But he said I couldn't speak,
+But he said I couldn't speak,
 
-    And he bowled me to the Beak
+And he bowled me to the Beak
 
-  Because I was a Happy [[vegetarian|Vegetarian]].
+Because I was a Happy [[vegetarian|Vegetarian]].
 
-    Oh, I knew a Doctor Gluck,
+Oh, I knew a Doctor Gluck,
 
-    And his nose it had a hook,
+And his nose it had a hook,
 
-  And his attitudes were anything but Aryan;
+And his attitudes were anything but Aryan;
 
-    So I gave him all the pork
+So I gave him all the pork
 
-    That I had, upon a fork;
+That I had, upon a fork;
 
-  Because I am myself a [[vegetarian|Vegetarian]].
+Because I am myself a [[vegetarian|Vegetarian]].
 
-    I am silent in the Club,
+I am silent in the Club,
 
-    I am silent in the pub.,
+I am silent in the pub.,
 
-  I am silent on a bally peak in Darien;
+I am silent on a bally peak in Darien;
 
 
 
@@ -2365,235 +2365,235 @@ as all conventional meat-eaters do, I suppose."--Dalroy.
 <span class="atom-split" data-atom="part--part_03" data-title="WineWaterSong (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-    For I stuff away for life
+For I stuff away for life
 
-    Shoving peas in with a knife,
+Shoving peas in with a knife,
 
-  Because I am at heart a [[vegetarian|Vegetarian]].
+Because I am at heart a [[vegetarian|Vegetarian]].
 
-    No more the milk of cows
+No more the milk of cows
 
-    Shall pollute my private [[house]]
+Shall pollute my private [[house]]
 
-  Than the milk of the wild mares of the Barbarian;
+Than the milk of the wild mares of the Barbarian;
 
-    I will stick to port and sherry,
+I will stick to port and sherry,
 
-    For they are so very, very,
+For they are so very, very,
 
-  So very, very, very [[vegetarian|Vegetarian]].
+So very, very, very [[vegetarian|Vegetarian]].
 
 "The Saracen's Head"
 
-  "The Saracen's Head" looks down the lane,
+"The Saracen's Head" looks down the lane,
 
-  Where we shall never drink wine again,
+Where we shall never drink wine again,
 
-  For the wicked old women who feel [[Well|well]]-bred
+For the wicked old women who feel [[Well|well]]-bred
 
-  Have turned to a tea-shop "The Saracen's Head."
+Have turned to a tea-shop "The Saracen's Head."
 
-  "The Saracen's Head" out of Araby came,
+"The Saracen's Head" out of Araby came,
 
-  [[King]] [[Richard]] riding in arms like flame,
+[[King]] [[Richard]] riding in arms like flame,
 
-  And where he established his folk to be fed
+And where he established his folk to be fed
 
-  He set up a spear--and the Saracen's Head.
+He set up a spear--and the Saracen's Head.
 
-  But "The Saracen's Head" outlived the Kings,
+But "The Saracen's Head" outlived the Kings,
 
-  It thought and it thought of most horrible things,
+It thought and it thought of most horrible things,
 
-  Of Health and of Soap and of Standard Bread,
+Of Health and of Soap and of Standard Bread,
 
-  And of Saracen drinks at "The Saracen's Head."
+And of Saracen drinks at "The Saracen's Head."
 
-  So "The Saracen's Head" fulfils its name,
+So "The Saracen's Head" fulfils its name,
 
-  They drink no wine--a ridiculous game--
+They drink no wine--a ridiculous game--
 
-  And I shall [[Wonder|wonder]] until I'm dead,
+And I shall [[Wonder|wonder]] until I'm dead,
 
-  How it ever came into the Saracen's Head.
+How it ever came into the Saracen's Head.
 
 The Good Rich Man
 
-  Mr. Mandragon, the Millionaire, he wouldn't have wine or wife,
+Mr. Mandragon, the Millionaire, he wouldn't have wine or wife,
 
-  He couldn't endure complexity: he lived the Simple Life.
+He couldn't endure complexity: he lived the Simple Life.
 
-  He ordered his lunch by megaphone in manly, simple tones,
+He ordered his lunch by megaphone in manly, simple tones,
 
-  And used all his motors for canvassing voters, and twenty telephones;
+And used all his motors for canvassing voters, and twenty telephones;
 
-  Besides a dandy little [[Machine|machine]],
+Besides a dandy little [[Machine|machine]],
 
-  Cunning and neat as ever was seen,
+Cunning and neat as ever was seen,
 
-  With a hundred pulleys and cranks between,
+With a hundred pulleys and cranks between,
 
-  Made of metal and kept quite clean,
+Made of metal and kept quite clean,
 
-  To hoist him out of his healthful bed on every day of his life,
+To hoist him out of his healthful bed on every day of his life,
 
-  And wash him and dress him and shave him and brush him
+And wash him and dress him and shave him and brush him
 
-        --to live the Simple Life.
+--to live the Simple Life.
 
-  Mr. Mandragon was most refined and quietly, neatly dressed,
+Mr. Mandragon was most refined and quietly, neatly dressed,
 
-  Say all the American newspapers that know refinement best;
+Say all the American newspapers that know refinement best;
 
-  Quiet and neat the hat and hair and the coat quiet and neat,
+Quiet and neat the hat and hair and the coat quiet and neat,
 
-  A trouser worn upon either leg, while boots adorn the feet;
+A trouser worn upon either leg, while boots adorn the feet;
 
-  And not, as any one would expect,
+And not, as any one would expect,
 
-  A Tiger's Skin all striped and specked,
+A Tiger's Skin all striped and specked,
 
-  And a Peacock Hat with the tail erect,
+And a Peacock Hat with the tail erect,
 
-  A scarlet tunic with sunflowers decked,
+A scarlet tunic with sunflowers decked,
 
-  Which might have had a more marked effect,
+Which might have had a more marked effect,
 
-  And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
+And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
 
-  But Fame and the Flagon, for Mr. Mandragon
+But Fame and the Flagon, for Mr. Mandragon
 
-        --obscured the Simple Life.
+--obscured the Simple Life.
 
-  Mr. Mandragon, the Millionaire, I am happy to say, is dead;
+Mr. Mandragon, the Millionaire, I am happy to say, is dead;
 
-  He enjoyed a quiet funeral in a Crematorium shed.
+He enjoyed a quiet funeral in a Crematorium shed.
 
-  And he lies there fluffy and soft and grey and certainly quite refined;
+And he lies there fluffy and soft and grey and certainly quite refined;
 
-  When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind,
+When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind,
 
-  Or been eaten by wolves athirst for [[Blood|blood]],
+Or been eaten by wolves athirst for [[Blood|blood]],
 
-  Or burnt on a good tall pyre of wood,
+Or burnt on a good tall pyre of wood,
 
-  In a towering flame, as a heathen should,
+In a towering flame, as a heathen should,
 
-  Or even sat with us here at food,
+Or even sat with us here at food,
 
-  Merrily taking twopenny ale and pork with a pocket-knife;
+Merrily taking twopenny ale and pork with a pocket-knife;
 
-  But this was luxury not for one that went for the Simple Life.
+But this was luxury not for one that went for the Simple Life.
 
 The [[Song]] Against [[songs|Songs]]
 
-  The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
+The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
 
-  The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
+The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
 
-  The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
+The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
 
-  And the brightest things in Baudelaire are anything else but gay.
+And the brightest things in Baudelaire are anything else but gay.
 
-  But who will write us a riding [[Song|song]],
+But who will write us a riding [[Song|song]],
 
-  Or a hunting [[Song|song]] or a drinking [[Song|song]],
+Or a hunting [[Song|song]] or a drinking [[Song|song]],
 
-  Fit for them that arose and rode
+Fit for them that arose and rode
 
-  When day and the wine were red?
+When day and the wine were red?
 
-  But bring me a quart of claret out,
+But bring me a quart of claret out,
 
-  And I will write you a clinking [[Song|song]],
+And I will write you a clinking [[Song|song]],
 
-  A [[Song|song]] of war and a [[Song|song]] of wine
+A [[Song|song]] of war and a [[Song|song]] of wine
 
-  And a [[Song|song]] to wake the dead.
+And a [[Song|song]] to wake the dead.
 
-  The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
+The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
 
-  The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
+The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
 
-  The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
+The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
 
-  And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
+And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
 
-  But who will write us a riding [[Song|song]]
+But who will write us a riding [[Song|song]]
 
-  Or a fighting [[Song|song]] or a drinking [[Song|song]],
+Or a fighting [[Song|song]] or a drinking [[Song|song]],
 
-  Fit for the fathers of you and me,
+Fit for the fathers of you and me,
 
-  That knew how to think and thrive?
+That knew how to think and thrive?
 
-  But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
+But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
 
-  Is simply an utterly stinking [[Song|song]],
+Is simply an utterly stinking [[Song|song]],
 
-  To [[Double|double]] you up and drag you down
+To [[Double|double]] you up and drag you down
 
-  And damn your [[Soul|soul]] alive.
+And damn your [[Soul|soul]] alive.
 
 Me Heart
 
-  I come from Castlepatrick, and me heart is on me sleeve,
+I come from Castlepatrick, and me heart is on me sleeve,
 
-  And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit it with me leave,
+And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit it with me leave,
 
-  It shines there for an epaulette, as golden as a flame,
+It shines there for an epaulette, as golden as a flame,
 
-  As naked as me ancestors, as noble as me name.
+As naked as me ancestors, as noble as me name.
 
-  For I come from Castlepatrick, and me heart is on me sleeve,
+For I come from Castlepatrick, and me heart is on me sleeve,
 
-  But a lady stole it from me on St. Gallowglass's Eve.
+But a lady stole it from me on St. Gallowglass's Eve.
 
-  The folk that live in Liverpool, their heart is in their boots;
+The folk that live in Liverpool, their heart is in their boots;
 
-  They go to hell like lambs, they do, because the hooter hoots.
+They go to hell like lambs, they do, because the hooter hoots.
 
-  Where men may not be dancin', though the wheels may [[Dance|dance]] all day;
+Where men may not be dancin', though the wheels may [[Dance|dance]] all day;
 
-  And men may not be smokin'; but only chimneys may.
+And men may not be smokin'; but only chimneys may.
 
-  But I come from Castlepatrick, and me heart is on me sleeve,
+But I come from Castlepatrick, and me heart is on me sleeve,
 
-  But a lady stole it from me on St. Poleander's Eve.
+But a lady stole it from me on St. Poleander's Eve.
 
-  The folk that live in black Belfast, their heart is in their mouth,
+The folk that live in black Belfast, their heart is in their mouth,
 
-  They see us making murders in the meadows of the South;
+They see us making murders in the meadows of the South;
 
-  They think a plough's a rack, they do, and cattle-calls are creeds,
+They think a plough's a rack, they do, and cattle-calls are creeds,
 
-  And they think we're burnin' witches when we're only burnin' weeds;
+And they think we're burnin' witches when we're only burnin' weeds;
 
-  But I come from Castlepatrick, and me heart is on me sleeve;
+But I come from Castlepatrick, and me heart is on me sleeve;
 
-  But a lady stole it from me on St. Barnabas's Eve.
+But a lady stole it from me on St. Barnabas's Eve.
 
 The [[Song]] of the Oak
 
-  The Druids waved their golden knives
+The Druids waved their golden knives
 
-  And danced around the Oak
+And danced around the Oak
 
-  When they had sacrificed a man;
+When they had sacrificed a man;
 
-  But though the learned search and scan,
+But though the learned search and scan,
 
-  No single modern person can
+No single modern person can
 
-  Entirely see the joke.
+Entirely see the joke.
 
-  But though they cut the throats of men
+But though they cut the throats of men
 
-  They cut not down the tree,
+They cut not down the tree,
 
-  And from the [[Blood|blood]] the saplings sprang
+And from the [[Blood|blood]] the saplings sprang
 
-  Of oak-woods yet to be.
+Of oak-woods yet to be.
 
 
 
@@ -2601,335 +2601,335 @@ The [[Song]] of the Oak
 <span class="atom-split" data-atom="part--part_04" data-title="WineWaterSong (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-    But Ivywood, Lord Ivywood,
+But Ivywood, Lord Ivywood,
 
-    He rots the tree as ivy would,
+He rots the tree as ivy would,
 
-    He clings and crawls as ivy would
+He clings and crawls as ivy would
 
-    About the sacred tree.
+About the sacred tree.
 
-  [[King]] Charles he fled from Worcester fight
+[[King]] Charles he fled from Worcester fight
 
-  And hid him in an Oak;
+And hid him in an Oak;
 
-  In convent schools no man of tact
+In convent schools no man of tact
 
-  Would trace and praise his every act,
+Would trace and praise his every act,
 
-  Or argue that he was in fact
+Or argue that he was in fact
 
-  A strict and sainted bloke,
+A strict and sainted bloke,
 
-  But not by him the sacred woods
+But not by him the sacred woods
 
-  Have lost their fancies free,
+Have lost their fancies free,
 
-  And though he was extremely big
+And though he was extremely big
 
-  He did not break the tree.
+He did not break the tree.
 
-    But Ivywood, Lord Ivywood,
+But Ivywood, Lord Ivywood,
 
-    He breaks the tree as ivy would,
+He breaks the tree as ivy would,
 
-    And eats the woods as ivy would
+And eats the woods as ivy would
 
-    Between us and the sea.
+Between us and the sea.
 
-  Great Collingwood walked down the glade
+Great Collingwood walked down the glade
 
-  And flung the acorns free,
+And flung the acorns free,
 
-  That oaks might still be in the grove
+That oaks might still be in the grove
 
-  As oaken as the beams above,
+As oaken as the beams above,
 
-  When the great [[Lover]] sailors [[Love|love]]
+When the great [[Lover]] sailors [[Love|love]]
 
-  Was kissed by [[Death]] at sea.
+Was kissed by [[Death]] at sea.
 
-  But though for him the oak-trees fell
+But though for him the oak-trees fell
 
-  To build the oaken ships,
+To build the oaken ships,
 
-  The woodman worshipped what he smote
+The woodman worshipped what he smote
 
-  And honoured even the chips.
+And honoured even the chips.
 
-    But Ivywood, Lord Ivywood,
+But Ivywood, Lord Ivywood,
 
-    He hates the tree as ivy would,
+He hates the tree as ivy would,
 
-    As the dragon of the ivy would
+As the dragon of the ivy would
 
-    That has us in his grips.
+That has us in his grips.
 
 The [[Road]] to Roundabout
 
-  Some say that Guy of Warwick,
+Some say that Guy of Warwick,
 
-  The man that killed the Cow
+The man that killed the Cow
 
-  And brake the mighty Boar alive
+And brake the mighty Boar alive
 
-  Beyond the Bridge at Slough;
+Beyond the Bridge at Slough;
 
-  Went up against a Loathly Worm
+Went up against a Loathly Worm
 
-  That wasted all the Downs,
+That wasted all the Downs,
 
-  And so the roads they twist and squirm
+And so the roads they twist and squirm
 
-  (If I may be allowed the term)
+(If I may be allowed the term)
 
-  From the writhing of the stricken Worm
+From the writhing of the stricken Worm
 
-  That died in seven towns.
+That died in seven towns.
 
-    I see no scientific proof
+I see no scientific proof
 
-    That this idea is sound,
+That this idea is sound,
 
-    And I should say they wound about
+And I should say they wound about
 
-    To find the town of Roundabout,
+To find the town of Roundabout,
 
-    The merry town of Roundabout,
+The merry town of Roundabout,
 
-    That makes the world go round.
+That makes the world go round.
 
-  Some say that Robin Goodfellow,
+Some say that Robin Goodfellow,
 
-  Whose lantern lights the meads
+Whose lantern lights the meads
 
-  (To steal a phrase Sir Walter Scott
+(To steal a phrase Sir Walter Scott
 
-  In heaven no longer needs),
+In heaven no longer needs),
 
-  Such [[Dance|dance]] around the trysting-place
+Such [[Dance|dance]] around the trysting-place
 
-  The moonstruck [[Lover|lover]] leads;
+The moonstruck [[Lover|lover]] leads;
 
-  Which superstition I should scout
+Which superstition I should scout
 
-  There is more [[Faith|faith]] in honest [[Doubt|doubt]]
+There is more [[Faith|faith]] in honest [[Doubt|doubt]]
 
-  (As Tennyson has pointed out)
+(As Tennyson has pointed out)
 
-  Than in those nasty creeds.
+Than in those nasty creeds.
 
-    But peace and righteousness (St. John)
+But peace and righteousness (St. John)
 
-    In Roundabout can kiss,
+In Roundabout can kiss,
 
-    And since that's all that's found about
+And since that's all that's found about
 
-    The pleasant town of Roundabout,
+The pleasant town of Roundabout,
 
-    The roads they simply bound about
+The roads they simply bound about
 
-    To find out where it is.
+To find out where it is.
 
-  Some say that when Sir Lancelot
+Some say that when Sir Lancelot
 
-  Went forth to find the Grail,
+Went forth to find the Grail,
 
-  Grey Merlin wrinkled up the roads
+Grey Merlin wrinkled up the roads
 
-  For [[Hope|hope]] that he should fail;
+For [[Hope|hope]] that he should fail;
 
-  All roads led back to Lyonesse
+All roads led back to Lyonesse
 
-  And Camelot in the Vale,
+And Camelot in the Vale,
 
-  I cannot yield assent to this
+I cannot yield assent to this
 
-  Extravagant hypothesis,
+Extravagant hypothesis,
 
-  The plain, shrewd Briton will dismiss
+The plain, shrewd Briton will dismiss
 
-  Such rumours (=Daily Mail=).
+Such rumours (=Daily Mail=).
 
-    But in the streets of Roundabout
+But in the streets of Roundabout
 
-    Are no such factions found,
+Are no such factions found,
 
-    Or theories to expound about,
+Or theories to expound about,
 
-    Or roll upon the ground about,
+Or roll upon the ground about,
 
-    In the happy town of Roundabout,
+In the happy town of Roundabout,
 
-    That makes the world go round.
+That makes the world go round.
 
 The [[Song]] of the Strange [[ascetic|Ascetic]]
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have praised the purple vine,
+I'd have praised the purple vine,
 
-  My slaves should dig the vineyards,
+My slaves should dig the vineyards,
 
-    And I would drink the wine;
+And I would drink the wine;
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And his slaves grow lean and grey,
+And his slaves grow lean and grey,
 
-  That he may drink some tepid milk
+That he may drink some tepid milk
 
-    Exactly twice a day.
+Exactly twice a day.
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have crowned Neoera's curls,
+I'd have crowned Neoera's curls,
 
-  And filled my life with [[Love|love]] affairs,
+And filled my life with [[Love|love]] affairs,
 
-    My [[house]] with dancing girls;
+My [[house]] with dancing girls;
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And to lecture rooms is forced,
+And to lecture rooms is forced,
 
-  Where his aunts, who are not married,
+Where his aunts, who are not married,
 
-    Demand to be divorced.
+Demand to be divorced.
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have sent my armies forth,
+I'd have sent my armies forth,
 
-  And dragged behind my chariots
+And dragged behind my chariots
 
-    The Chieftains of the North.
+The Chieftains of the North.
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And he drives the dreary quill,
+And he drives the dreary quill,
 
-  To lend the poor that funny cash
+To lend the poor that funny cash
 
-    That makes them poorer still.
+That makes them poorer still.
 
-  If I had been a Heathen,
+If I had been a Heathen,
 
-    I'd have piled my pyre on high,
+I'd have piled my pyre on high,
 
-  And in a great red whirlwind
+And in a great red whirlwind
 
-    Gone roaring to the sky;
+Gone roaring to the sky;
 
-  But Higgins is a Heathen,
+But Higgins is a Heathen,
 
-    And a richer man than I;
+And a richer man than I;
 
-  And they put him in an oven,
+And they put him in an oven,
 
-    Just as if he were a pie.
+Just as if he were a pie.
 
-  Now who that runs can read it,
+Now who that runs can read it,
 
-    The [[Riddle|riddle]] that I write,
+The [[Riddle|riddle]] that I write,
 
-  Of why this poor old sinner,
+Of why this poor old sinner,
 
-    Should sin without delight--?
+Should sin without delight--?
 
-  But I, I cannot read it
+But I, I cannot read it
 
-    (Although I run and run),
+(Although I run and run),
 
-  Of them that do not have the [[Faith|faith]],
+Of them that do not have the [[Faith|faith]],
 
-    And will not have the fun.
+And will not have the fun.
 
 The [[Song]] of Right and Wrong
 
-  Feast on wine or fast on [[Water|water]],
+Feast on wine or fast on [[Water|water]],
 
-  And your [[Honour|honour]] shall stand sure,
+And your [[Honour|honour]] shall stand sure,
 
-  God Almighty's son and daughter
+God Almighty's son and daughter
 
-  He the valiant, she the pure;
+He the valiant, she the pure;
 
-  If an angel out of heaven
+If an angel out of heaven
 
-  Brings you other things to drink,
+Brings you other things to drink,
 
-  Thank him for his kind attentions,
+Thank him for his kind attentions,
 
-  Go and pour them down the sink.
+Go and pour them down the sink.
 
-  Tea is like the East he grows in,
+Tea is like the East he grows in,
 
-  A great yellow Mandarin
+A great yellow Mandarin
 
-  With urbanity of manner
+With urbanity of manner
 
-  And unconsciousness of sin;
+And unconsciousness of sin;
 
-  All the women, like a harem,
+All the women, like a harem,
 
-  At his pig-tail troop along;
+At his pig-tail troop along;
 
-  And, like all the East he grows in,
+And, like all the East he grows in,
 
-  He is [[Poison]] when he's strong.
+He is [[Poison]] when he's strong.
 
-  Tea, although an Oriental,
+Tea, although an Oriental,
 
-  Is a gentleman at least;
+Is a gentleman at least;
 
-  Cocoa is a cad and coward,
+Cocoa is a cad and coward,
 
-  Cocoa is a vulgar beast,
+Cocoa is a vulgar beast,
 
-  Cocoa is a dull, disloyal,
+Cocoa is a dull, disloyal,
 
-  Lying, crawling cad and clown,
+Lying, crawling cad and clown,
 
-  And may very [[Well|well]] be grateful
+And may very [[Well|well]] be grateful
 
-  To the [[Fool|fool]] that takes him down.
+To the [[Fool|fool]] that takes him down.
 
-  As for all the windy waters,
+As for all the windy waters,
 
-  They were rained like tempests down
+They were rained like tempests down
 
-  When good drink had been dishonoured
+When good drink had been dishonoured
 
-  By the tipplers of the town;
+By the tipplers of the town;
 
-  When red wine had brought red ruin
+When red wine had brought red ruin
 
-  And the [[Death|death]]-[[Dance|dance]] of our times,
+And the [[Death|death]]-[[Dance|dance]] of our times,
 
-  Heaven sent us Soda [[Water]]
+Heaven sent us Soda [[Water]]
 
-  As a torment for our crimes.
+As a torment for our crimes.
 
 Who Goes [[Home]]?
 
-  In the [[City|city]] set upon slime and loam
+In the [[City|city]] set upon slime and loam
 
-  They cry in their parliament "Who goes [[Home|home]]?"
+They cry in their parliament "Who goes [[Home|home]]?"
 
-  And there comes no answer in arch or dome,
+And there comes no answer in arch or dome,
 
-  For none in the [[City|city]] of graves goes [[Home|home]].
+For none in the [[City|city]] of graves goes [[Home|home]].
 
-  Yet these shall perish and understand,
+Yet these shall perish and understand,
 
-  For God has pity on this great land.
+For God has pity on this great land.
 
-  Men that are men again; who goes [[Home|home]]?
+Men that are men again; who goes [[Home|home]]?
 
-  Tocsin and trumpeter! Who goes [[Home|home]]?
+Tocsin and trumpeter! Who goes [[Home|home]]?
 
-  For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
+For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
 
 
 
@@ -2937,15 +2937,15 @@ Who Goes [[Home]]?
 <span class="atom-split" data-atom="part--part_05" data-title="WineWaterSong (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-  And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].
+And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].
 
-  And a voice valedictory.... Who is for Victory?
+And a voice valedictory.... Who is for Victory?
 
-  Who is for Liberty? Who goes [[Home|home]]?
+Who is for Liberty? Who goes [[Home|home]]?
 
-  Printed in Great Britain by
+Printed in Great Britain by
 
-  UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[London|LONDON]]
+UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[London|LONDON]]
 
 SOME DELIGHTFUL BOOKS BY G. K. CHESTERTON
 
@@ -3001,7 +3001,7 @@ End of Project Gutenberg's Wine, [[Water]], and [[Song]], by Gilbert Keith Chest
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/3/5/1/1/35115/
+http://www.gutenberg.org/3/5/1/1/35115/
 
 Produced by Jana Srna, Bryan Ness and the Online Distributed
 
@@ -3267,53 +3267,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -3454,53 +3454,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -3705,11 +3705,11 @@ For additional contact information:
 <span class="atom-split" data-atom="part--part_08" data-title="WineWaterSong (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
 
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -3789,7 +3789,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -3804,9 +3804,9 @@ subscribe to our email newsletter to hear about new eBooks.
 
 Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -3886,7 +3886,7 @@ manteniamo gli eBook conformi a una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 

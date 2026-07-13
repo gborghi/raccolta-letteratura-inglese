@@ -16,21 +16,21 @@ tags:
 
 [[eternities|Eternities]]  
 
-			G.K.Chesterton  
+G.K.Chesterton  
 
 I cannot count the pebbles in the brook.  
-  [[Well]] hath He spoken: "Swear not by thy head.  
-  Thou knowest not the hairs," though He, we read,  
+[[Well]] hath He spoken: "Swear not by thy head.  
+Thou knowest not the hairs," though He, we read,  
 Writes that wild number in His own strange book.  
 
 I cannot count the sands or search the seas,  
-  [[Death]] cometh, and I leave so much untrod.  
-  Grant my immortal aureole, O my God,  
+[[Death]] cometh, and I leave so much untrod.  
+Grant my immortal aureole, O my God,  
 And I will name the [[Leaves|leaves]] upon the trees,  
 
 In heaven I shall stand on gold and glass,  
-  Still brooding earth's arithmetic to spell;  
-  Or see the fading of the fires of hell  
+Still brooding earth's arithmetic to spell;  
+Or see the fading of the fires of hell  
 Ere I have thanked my God for all the grass.
 
 
@@ -41,18 +41,18 @@ Ere I have thanked my God for all the grass.
 G.K.Chesterton  
 
 Non so contare i ciottoli nel ruscello.  
-  [[Well|Bene]] Egli ha parlato: "Non giurare sul tuo capo.  
-  Tu non conosci i capelli", benché Egli, leggiamo,  
+[[Well|Bene]] Egli ha parlato: "Non giurare sul tuo capo.  
+Tu non conosci i capelli", benché Egli, leggiamo,  
 scriva quel numero selvaggio nel Suo strano libro.  
 
 Non so contare le sabbie né scandagliare i mari,  
-  la [[Death|Morte]] viene, e lascio tanto sentiero non calcato.  
-  Concedimi l'aureola immortale, o mio Dio,  
+la [[Death|Morte]] viene, e lascio tanto sentiero non calcato.  
+Concedimi l'aureola immortale, o mio Dio,  
 e nominerò le [[Leaves|foglie]] sopra gli alberi,  
 
 In cielo starò su oro e cristallo,  
-  ancora rimuginando l'aritmetica della terra;  
-  o vedrò svanire i fuochi dell'inferno  
+ancora rimuginando l'aritmetica della terra;  
+o vedrò svanire i fuochi dell'inferno  
 prima d'aver ringraziato il mio Dio per tutta l'erba.
 
 
@@ -62,21 +62,21 @@ prima d'aver ringraziato il mio Dio per tutta l'erba.
 
 [[eternities|Eternities]]  
 
-			G.K.Chesterton  
+G.K.Chesterton  
 
 I cannot count the pebbles in the brook.  
-  [[Well]] hath He spoken: "Swear not by thy head.  
-  Thou knowest not the hairs," though He, we read,  
+[[Well]] hath He spoken: "Swear not by thy head.  
+Thou knowest not the hairs," though He, we read,  
 Writes that wild number in His own strange book.  
 
 I cannot count the sands or search the seas,  
-  [[Death]] cometh, and I leave so much untrod.  
-  Grant my immortal aureole, O my God,  
+[[Death]] cometh, and I leave so much untrod.  
+Grant my immortal aureole, O my God,  
 And I will name the [[Leaves|leaves]] upon the trees,  
 
 In heaven I shall stand on gold and glass,  
-  Still brooding earth's arithmetic to spell;  
-  Or see the fading of the fires of hell  
+Still brooding earth's arithmetic to spell;  
+Or see the fading of the fires of hell  
 Ere I have thanked my God for all the grass.
 
 
@@ -87,16 +87,16 @@ Ere I have thanked my God for all the grass.
 G.K.Chesterton  
 
 Non so contare i ciottoli nel ruscello.  
-  [[Well|Bene]] Egli ha parlato: "Non giurare sul tuo capo.  
-  Tu non conosci i capelli", benché Egli, leggiamo,  
+[[Well|Bene]] Egli ha parlato: "Non giurare sul tuo capo.  
+Tu non conosci i capelli", benché Egli, leggiamo,  
 scriva quel numero selvaggio nel Suo strano libro.  
 
 Non so contare le sabbie né scandagliare i mari,  
-  la [[Death|Morte]] viene, e lascio tanto sentiero non calcato.  
-  Concedimi l'aureola immortale, o mio Dio,  
+la [[Death|Morte]] viene, e lascio tanto sentiero non calcato.  
+Concedimi l'aureola immortale, o mio Dio,  
 e nominerò le [[Leaves|foglie]] sopra gli alberi,  
 
 In cielo starò su oro e cristallo,  
-  ancora rimuginando l'aritmetica della terra;  
-  o vedrò svanire i fuochi dell'inferno  
+ancora rimuginando l'aritmetica della terra;  
+o vedrò svanire i fuochi dell'inferno  
 prima d'aver ringraziato il mio Dio per tutta l'erba.

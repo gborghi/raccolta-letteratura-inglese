@@ -775,7 +775,7 @@ I split the difference and use the two.
 
 
 
-<span class="atom-split" data-atom="story_01_dedication" data-title="A Moral Alphabet — DEDICATION." data-chapter="Story 01 DEDICATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_dedication" data-title="A Moral Alphabet — DEDICATION." data-chapter="DEDICATION" data-kind="story"></span>
 
 
 DEDICATION.
@@ -787,7 +787,7 @@ ON PAGE 49.
 
 
 
-<span class="atom-split" data-atom="story_02_the_alphabet--part_01" data-title="A Moral Alphabet — THE ALPHABET. (part 1)" data-chapter="Story 02 THE ALPHABET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_alphabet--part_01" data-title="A Moral Alphabet — THE ALPHABET. (part 1)" data-chapter="THE ALPHABET" data-kind="excerpt"></span>
 
 
 THE ALPHABET.
@@ -1139,7 +1139,7 @@ Not infrequently nuggets of value are found.
 
 
 
-<span class="atom-split" data-atom="story_02_the_alphabet--part_02" data-title="A Moral Alphabet — THE ALPHABET. (part 2)" data-chapter="Story 02 THE ALPHABET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_alphabet--part_02" data-title="A Moral Alphabet — THE ALPHABET. (part 2)" data-chapter="THE ALPHABET" data-kind="excerpt"></span>
 
 
 They bring us the gold when their labours are ended,

@@ -116,8 +116,8 @@ by the Christian notion that nothing is inevitable--no, not even
 what has already happened.  Mr. Belloc has put the Polish ideal
 into lines dedicated to a great Polish shrine--
 
-  [[Hope]] of the Half-Defeated; [[house]] of gold;
-  Shrine of the [[Sword|sword]] and tower of ivory.[3]
+[[Hope]] of the Half-Defeated; [[house]] of gold;
+Shrine of the [[Sword|sword]] and tower of ivory.[3]
 
 Before I leave these Polish cavaliers I may remark that I had
 another chance of seeing them at the jumping competitions in the
@@ -296,8 +296,8 @@ by the Christian notion that nothing is inevitable--no, not even
 what has already happened.  Mr. Belloc has put the Polish ideal
 into lines dedicated to a great Polish shrine--
 
-  [[Hope]] of the Half-Defeated; [[house]] of gold;
-  Shrine of the [[Sword|sword]] and tower of ivory.[3]
+[[Hope]] of the Half-Defeated; [[house]] of gold;
+Shrine of the [[Sword|sword]] and tower of ivory.[3]
 
 Before I leave these Polish cavaliers I may remark that I had
 another chance of seeing them at the jumping competitions in the
@@ -358,8 +358,8 @@ dalla nozione cristiana che nulla è inevitabile--no, nemmeno
 ciò che è già accaduto.  Il signor Belloc ha trasfuso l'ideale polacco
 in versi dedicati a un grande santuario polacco--
 
-  [[Hope|Speranza]] dei Mezzo-Sconfitti; [[house|casa]] d'oro;
-  Santuario della [[Sword|spada]] e torre d'avorio.[3]
+[[Hope|Speranza]] dei Mezzo-Sconfitti; [[house|casa]] d'oro;
+Santuario della [[Sword|spada]] e torre d'avorio.[3]
 
 Prima di lasciare questi cavalieri polacchi posso osservare che ebbi
 un'altra occasione di vederli alle gare di salto nel

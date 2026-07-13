@@ -148,7 +148,7 @@ And I know that this was meant to discourage him."
 "These sentimental and moral views of art," began my friend,
 but I broke into his words as a light broke into my mind.
 "Let me say to you," I said, "what Jaurès said to Liebknecht at
-the Socialist Conference:  `You have not died on the barricades.'
+the Socialist Conference:  ‘You have not died on the barricades.'
 You are an Englishman, as I am, and you ought to be as amiable as I am.
 These people have some right to be terrible in art, for they
 have been terrible in politics.  They may endure mock tortures
@@ -165,7 +165,7 @@ of the revolutionary mood.  Frenchmen, seeking revolution,
 may find the humiliation of humanity inspiring.  But God forbid
 that two pleasure-seeking Englishmen should ever find it pleasant!"
 
-				     -- G. K. Chesterton.
+-- G. K. Chesterton.
 
 
 
@@ -429,7 +429,7 @@ And I know that this was meant to discourage him."
 "These sentimental and moral views of art," began my friend,
 but I broke into his words as a light broke into my mind.
 "Let me say to you," I said, "what Jaurès said to Liebknecht at
-the Socialist Conference:  `You have not died on the barricades.'
+the Socialist Conference:  ‘You have not died on the barricades.'
 You are an Englishman, as I am, and you ought to be as amiable as I am.
 These people have some right to be terrible in art, for they
 have been terrible in politics.  They may endure mock tortures
@@ -446,7 +446,7 @@ of the revolutionary mood.  Frenchmen, seeking revolution,
 may find the humiliation of humanity inspiring.  But God forbid
 that two pleasure-seeking Englishmen should ever find it pleasant!"
 
-				     -- G. K. Chesterton.
+-- G. K. Chesterton.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -478,7 +478,7 @@ incoraggiare l'uomo. E so che questo era fatto per scoraggiarlo."
 "Queste sentimentali e morali concezioni dell'arte," cominciò il mio
 amico, ma irruppi nelle sue parole come una luce irruppe nella mia
 mente. "Lasci che le dica," dissi, "ciò che Jaurès disse a Liebknecht
-al Congresso socialista: `Voi non siete morto sulle barricate.' Voi
+al Congresso socialista: ‘Voi non siete morto sulle barricate.' Voi
 siete un inglese, come me, e dovreste essere amabile quanto lo sono io.
 Questa gente ha un certo diritto di essere terribile nell'arte, perché
 è stata terribile in politica. Possono sopportare finte torture sulla
@@ -494,4 +494,4 @@ rivoluzionario. I francesi, cercando la rivoluzione, possono trovare
 ispirante l'umiliazione dell'umanità. Ma Dio non voglia che due inglesi
 in cerca di piacere la trovino mai piacevole!"
 
-				     -- G. K. Chesterton.
+-- G. K. Chesterton.

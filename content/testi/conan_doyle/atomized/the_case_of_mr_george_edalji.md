@@ -263,7 +263,7 @@ In 1908 a wealthy 82-year-old woman named Marion Gilchrist, was bludgeoned to de
 
 
 
-<span class="atom-split" data-atom="story_01_the_case_of_mr_george_edalji" data-title="THE CASE OF MR. GEORGE EDALJI — THE CASE OF MR. GEORGE EDALJI" data-chapter="Story 01 THE CASE OF MR GEORGE EDALJI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_case_of_mr_george_edalji" data-title="THE CASE OF MR. GEORGE EDALJI — THE CASE OF MR. GEORGE EDALJI" data-chapter="THE CASE OF MR GEORGE EDALJI" data-kind="story"></span>
 
 
 THE CASE OF MR. GEORGE EDALJI
@@ -367,7 +367,7 @@ Arthur Conan Doyle Undershaw, Hindhead January, 1907.
 
 
 
-<span class="atom-split" data-atom="story_02_case_of_george_edalji_letter_from_sir_a" data-title="THE CASE OF MR. GEORGE EDALJI — CASE OF GEORGE EDALJI: LETTER FROM SIR A. CONAN DOYLE" data-chapter="Story 02 CASE OF GEORGE EDALJI LETTER FROM SIR A" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_case_of_george_edalji_letter_from_sir_a" data-title="THE CASE OF MR. GEORGE EDALJI — CASE OF GEORGE EDALJI: LETTER FROM SIR A. CONAN DOYLE" data-chapter="CASE OF GEORGE EDALJI LETTER FROM SIR A" data-kind="story"></span>
 
 
 CASE OF GEORGE EDALJI: LETTER FROM SIR A. CONAN DOYLE
@@ -391,7 +391,7 @@ There are many other documents connected with this case which I should wish to d
 
 
 
-<span class="atom-split" data-atom="story_03_who_wrote_the_letters_no_2" data-title="THE CASE OF MR. GEORGE EDALJI — WHO WROTE THE LETTERS? — No. 2" data-chapter="Story 03 WHO WROTE THE LETTERS No 2" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_who_wrote_the_letters_no_2" data-title="THE CASE OF MR. GEORGE EDALJI — WHO WROTE THE LETTERS? — No. 2" data-chapter="WHO WROTE THE LETTERS No 2" data-kind="story"></span>
 
 
 WHO WROTE THE LETTERS? — No. 2
@@ -421,7 +421,7 @@ I will pursue the subject in a concluding letter.
 
 
 
-<span class="atom-split" data-atom="story_04_the_martin_molton_letters_no_3" data-title="THE CASE OF MR. GEORGE EDALJI — THE “MARTIN MOLTON” LETTERS — No. 3." data-chapter="Story 04 THE MARTIN MOLTON LETTERS No 3" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_martin_molton_letters_no_3" data-title="THE CASE OF MR. GEORGE EDALJI — THE “MARTIN MOLTON” LETTERS — No. 3." data-chapter="THE MARTIN MOLTON LETTERS No 3" data-kind="story"></span>
 
 
 THE “MARTIN MOLTON” LETTERS — No. 3.
@@ -445,7 +445,7 @@ Undershaw, May 20 .
 
 
 
-<span class="atom-split" data-atom="story_05_statement_of_the_case_against_royden_sha" data-title="THE CASE OF MR. GEORGE EDALJI — STATEMENT OF THE CASE AGAINST ROYDEN SHARP" data-chapter="Story 05 STATEMENT OF THE CASE AGAINST ROYDEN SHA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_statement_of_the_case_against_royden_sha" data-title="THE CASE OF MR. GEORGE EDALJI — STATEMENT OF THE CASE AGAINST ROYDEN SHARP" data-chapter="STATEMENT OF THE CASE AGAINST ROYDEN SHA" data-kind="story"></span>
 
 
 STATEMENT OF THE CASE AGAINST ROYDEN SHARP
@@ -460,7 +460,7 @@ Royden Sharp was in all respects peculiarly fitted to have done these crimes, an
 
 
 
-<span class="atom-split" data-atom="story_06_evidence_of_his_character_before_the_cri" data-title="THE CASE OF MR. GEORGE EDALJI — EVIDENCE OF HIS CHARACTER BEFORE THE CRIMES" data-chapter="Story 06 EVIDENCE OF HIS CHARACTER BEFORE THE CRI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_evidence_of_his_character_before_the_cri" data-title="THE CASE OF MR. GEORGE EDALJI — EVIDENCE OF HIS CHARACTER BEFORE THE CRIMES" data-chapter="EVIDENCE OF HIS CHARACTER BEFORE THE CRI" data-kind="story"></span>
 
 
 EVIDENCE OF HIS CHARACTER BEFORE THE CRIMES
@@ -486,7 +486,7 @@ During the time that the Edalji family had been deluged with anonymous letters f
 
 
 
-<span class="atom-split" data-atom="story_07_mr_wynnes_statement" data-title="THE CASE OF MR. GEORGE EDALJI — MR. WYNNE’S STATEMENT" data-chapter="Story 07 MR WYNNES STATEMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_mr_wynnes_statement" data-title="THE CASE OF MR. GEORGE EDALJI — MR. WYNNE’S STATEMENT" data-chapter="MR WYNNES STATEMENT" data-kind="story"></span>
 
 
 MR. WYNNE’S STATEMENT

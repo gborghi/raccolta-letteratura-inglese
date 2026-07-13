@@ -205,7 +205,7 @@ Stretching before and after.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Burnt Norton — I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Burnt Norton — I" data-chapter="part i" data-kind="section"></span>
 
 
 I  
@@ -261,7 +261,7 @@ Point to one end, which is always present.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="Burnt Norton — II" data-chapter="Section 02 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="Burnt Norton — II" data-chapter="part II" data-kind="section"></span>
 
 
 II  
@@ -317,7 +317,7 @@ Only through [[Time|time]] [[Time|time]] is conquered.
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="Burnt Norton — III" data-chapter="Section 03 part iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="Burnt Norton — III" data-chapter="part III" data-kind="section"></span>
 
 
 III  
@@ -362,7 +362,7 @@ Of [[Time|time]] past and [[Time|time]] future.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="Burnt Norton — IV" data-chapter="Section 04 part iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="Burnt Norton — IV" data-chapter="part IV" data-kind="section"></span>
 
 
 IV  
@@ -380,7 +380,7 @@ At the still point of the turning world.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="Burnt Norton — V" data-chapter="Section 05 part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="Burnt Norton — V" data-chapter="part v" data-kind="section"></span>
 
 
 V  

@@ -2243,7 +2243,7 @@ Hilaire Belloc, 1915
 
 
 
-<span class="atom-split" data-atom="chapter_01_sixteen" data-title="The Emerald of Catherine the Great — Chapter 1: SIXTEEN" data-chapter="Chapter 01 SIXTEEN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_sixteen" data-title="The Emerald of Catherine the Great — Chapter 1: SIXTEEN" data-chapter="SIXTEEN" data-kind="chapter"></span>
 
 
 CHAPTER SIXTEEN
@@ -2447,7 +2447,7 @@ Such was the plan of George Whaley. Once more he recited, but in an undertone, a
 
 
 
-<span class="atom-split" data-atom="chapter_12_eleven" data-title="The Emerald of Catherine the Great — Chapter 12: ELEVEN" data-chapter="Chapter 12 ELEVEN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_eleven" data-title="The Emerald of Catherine the Great — Chapter 12: ELEVEN" data-chapter="ELEVEN" data-kind="chapter"></span>
 
 
 CHAPTER ELEVEN
@@ -2543,7 +2543,7 @@ With a sigh he turned towards the door of the library, within which room, alone,
 
 
 
-<span class="atom-split" data-atom="chapter_14_thirteen" data-title="The Emerald of Catherine the Great — Chapter 14: THIRTEEN" data-chapter="Chapter 14 THIRTEEN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_thirteen" data-title="The Emerald of Catherine the Great — Chapter 14: THIRTEEN" data-chapter="THIRTEEN" data-kind="chapter"></span>
 
 
 CHAPTER THIRTEEN
@@ -3837,7 +3837,7 @@ With which words he transferred himself into the sixth dimension, and the Devil,
 
 
 
-<span class="atom-split" data-atom="chapter_13_twelve--part_01" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 1)" data-chapter="Chapter 13 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_twelve--part_01" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 CHAPTER TWELVE
@@ -3905,7 +3905,7 @@ And those sham-ancient polished parquet squares, their very base modern pitch pi
 
 
 
-<span class="atom-split" data-atom="chapter_13_twelve--part_02" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 2)" data-chapter="Chapter 13 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_twelve--part_02" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 2)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 But to my tale....
@@ -3977,7 +3977,7 @@ With clamouring echo which shook those ancient walls, square after square of Aus
 
 
 
-<span class="atom-split" data-atom="chapter_13_twelve--part_03" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 3)" data-chapter="Chapter 13 TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_twelve--part_03" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 3)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
 A few moments later, when the Master of the House peeped out into the hall, he found all dark and deserted. He was pleased to think that his guests had suspected nothing.
@@ -4029,7 +4029,7 @@ And de Bohun left him to it, ardently praying with what was left of his childhoo
 
 
 
-<span class="atom-split" data-atom="chapter_15_fourteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 1)" data-chapter="Chapter 15 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fourteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 1)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER FOURTEEN
@@ -4133,7 +4133,7 @@ He repeated that phrase three times and fixed them to their stations; then he ra
 
 
 
-<span class="atom-split" data-atom="chapter_15_fourteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 2)" data-chapter="Chapter 15 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fourteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 2)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 He found the deliverer at the door of the West Room.
@@ -4217,7 +4217,7 @@ Collop stepped in between. “Pay no attention, Mr. Dee Boe Hun. I got my clue, 
 
 
 
-<span class="atom-split" data-atom="chapter_15_fourteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 3)" data-chapter="Chapter 15 FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fourteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 3)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
 
 
 “Look here, Boy,” said de Bohun, fatigued with such recitals: “if you’ve got anything to say, say it. Mr. Collop and I are pressed.”
@@ -4313,7 +4313,7 @@ Nor did Lord Galton wince — though that parrot had suddenly revealed to him a 
 
 
 
-<span class="atom-split" data-atom="chapter_16_fifteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 1)" data-chapter="Chapter 16 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_fifteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 1)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER FIFTEEN
@@ -4365,7 +4365,7 @@ There were no little marks — but no matter. He had done his best to suggest th
 
 
 
-<span class="atom-split" data-atom="chapter_16_fifteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 2)" data-chapter="Chapter 16 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_fifteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 2)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 The guests looked — or at least, most of them did — at their host. But he was modestly regarding the carpet.
@@ -4415,7 +4415,7 @@ The Home Secretary had detained McTaggart, catching his arm as he turned to go, 
 
 
 
-<span class="atom-split" data-atom="chapter_16_fifteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 3)" data-chapter="Chapter 16 FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_fifteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 3)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
 
 
 Mr. Collop bowed again in the aforesaid manner.
@@ -4455,7 +4455,7 @@ De Bohun had sunk back into his chair, now at last at rest. There were still ine
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 1)" data-chapter="Chapter 17 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 1)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 CHAPTER SIXTEEN
@@ -4523,7 +4523,7 @@ Let me not do Humphrey de Bohun injustice. He had never yet in his life taken an
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 2)" data-chapter="Chapter 17 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 2)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 “The emerald!” he kept on shouting, as George Whaley, groaning, pulled himself up miserably, like a wounded sea lion. “When the hell am I to hear the last of the emerald ... you and your emerald! ... all of you and your emeralds! ... I wish to God! ...” A blasphemy was almost on his lips; he had almost said that he wished the emerald had been strangled at birth, and by such a phrase would he have forfeited the luck of the Boneses.
@@ -4585,7 +4585,7 @@ The butler put his hand upon the old red brick wall. His adventures were beginni
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 3)" data-chapter="Chapter 17 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 3)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 “Yes, yer did!” came again from the uplifted purple face. “Yer told me with yer own lips that you knew yerself it was in the ‘ands of the ‘ighest.”
@@ -4641,7 +4641,7 @@ George Whaley, with his accumulated savings, purchased immediately upon his leav
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_04" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 4)" data-chapter="Chapter 17 SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_04" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
 
 
 Ethelbert, a bright lad of nineteen, ordered by his master into the special constabulary during the third General Strike — I use the conventional numeration — was so unfortunate as to crack smartly upon the head a high dignitary of the Church of [[England]], and was thereupon put in prison at the instance of Lady Sophia — the eminent cleric’s wife — who would take no denial. Upon release, the General Strike being still in progress — it was the first of the really long General Strikes, as you will remember, he joined the regular police force, which is ever ready to welcome men of varied experience and initiative. But he never developed the intelligence required for the agent provocateur, in which capacity such members of the service as have had personal experience of the cells are commonly employed. He is now past thirty and doing clerical work in the Lost Property Department.

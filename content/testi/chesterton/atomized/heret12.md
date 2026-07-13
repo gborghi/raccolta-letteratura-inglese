@@ -13,7 +13,6 @@ tags:
 
 <span class="atom-split" data-atom="heret12" data-title="Heretics" data-chapter="" data-kind="intro"></span>
 
-# [[heret12]]
 
 HERETICS
 
@@ -54,10 +53,10 @@ to dark and serious ballads.  During the dark days of 1940, when Britain
 stood virtually [[Alone|alone]] against the armed might of Nazi [[Germany]], these lines
 from his 1911 Ballad of the White [[Horse]] were often quoted:
 
-    I tell you naught for your comfort,
-    Yea, naught for your [[Desire|desire]],
-    Save that the sky grows darker yet
-    And the sea rises higher.
+I tell you naught for your comfort,
+Yea, naught for your [[Desire|desire]],
+Save that the sky grows darker yet
+And the sea rises higher.
 
 Though not written for a scholarly audience, his biographies of
 authors and historical figures like Charles Dickens and St. Francis
@@ -93,26 +92,26 @@ Ignatius Press is systematically publishing his collected writings.
 
 Table of Contents
 
- 1.  Introductory Remarks on the Importance of Orthodoxy
- 2.  On the Negative Spirit
- 3.  On Mr. Rudyard Kipling and Making the World Small
- 4.  Mr. Bernard [[Shaw]]
- 5.  Mr. H. G. Wells and the Giants
- 6.  Christmas and the Esthetes
- 7.  Omar and the Sacred Vine
- 8.  The Mildness of the Yellow Press
- 9.  The Moods of Mr. George Moore
- 10. On Sandals and Simplicity
- 11. Science and the Savages
- 12. Paganism and Mr. Lowes Dickinson
- 13. Celts and Celtophiles
- 14. On Certain Modern Writers and the Institution of the Family
- 15. On Smart Novelists and the Smart Set
- 16. On Mr. McCabe and a Divine Frivolity
- 17. On the Wit of Whistler
- 18. The Fallacy of the Young Nation
- 19. Slum Novelists and the Slums
- 20. Concluding Remarks on the Importance of Orthodoxy
+1.  Introductory Remarks on the Importance of Orthodoxy
+2.  On the Negative Spirit
+3.  On Mr. Rudyard Kipling and Making the World Small
+4.  Mr. Bernard [[Shaw]]
+5.  Mr. H. G. Wells and the Giants
+6.  Christmas and the Esthetes
+7.  Omar and the Sacred Vine
+8.  The Mildness of the Yellow Press
+9.  The Moods of Mr. George Moore
+10. On Sandals and Simplicity
+11. Science and the Savages
+12. Paganism and Mr. Lowes Dickinson
+13. Celts and Celtophiles
+14. On Certain Modern Writers and the Institution of the Family
+15. On Smart Novelists and the Smart Set
+16. On Mr. McCabe and a Divine Frivolity
+17. On the Wit of Whistler
+18. The Fallacy of the Young Nation
+19. Slum Novelists and the Slums
+20. Concluding Remarks on the Importance of Orthodoxy
 
 I. Introductory Remarks on the Importance of Orthodoxy
 
@@ -857,12 +856,12 @@ is English.  There is no harshness in saying this, for, to do
 him justice, he avows it with his usual picturesque candour.
 In a very interesting poem, he says that--
 
-  "If England was what England seems"
+"If England was what England seems"
 
 --that is, weak and inefficient; if England were not what (as he believes)
 she is--that is, powerful and practical--
 
-  "How quick we'd chuck 'er! But she ain't!"
+"How quick we'd chuck 'er! But she ain't!"
 
 He admits, that is, that his devotion is the result of a criticism,
 and this is quite enough to put it in another category altogether from
@@ -872,8 +871,8 @@ some difficulty in keeping a shrill irritation out of his language.
 The frame of mind which he really describes with [[Beauty|beauty]] and nobility is
 the frame of mind of the cosmopolitan man who has seen men and cities.
 
-  "For to admire and for to see,
-   For to be'old this world so wide."
+"For to admire and for to see,
+For to be'old this world so wide."
 
 He is a perfect master of that light [[Melancholy|melancholy]] with which a man
 looks back on having been the citizen of many communities,
@@ -1006,8 +1005,8 @@ As for his bluffness and toughness and appeals to common sense,
 all that is, of course, simply the first trick of rhetoric.
 He fronts his audiences with the venerable affectation of [[Mark Antony]]--
 
-  "I am no orator, as [[Brutus]] is;
-   But as you know me all, a plain blunt man."
+"I am no orator, as [[Brutus]] is;
+But as you know me all, a plain blunt man."
 
 It is the whole difference between the aim of the orator and
 the aim of any other [[Artist|artist]], such as the poet or the sculptor.
@@ -1311,8 +1310,8 @@ How different the Pagan and Stoical feeling was from this has
 been admirably expressed in a famous quotation.  Addison makes
 the great Stoic say--
 
-  "'Tis not in mortals to command [[success]];
-   But we'll do more, [[Sempronius]], we'll deserve it."
+"'Tis not in mortals to command [[success]];
+But we'll do more, [[Sempronius]], we'll deserve it."
 
 But the spirit of [[Romance]] and Christendom, the spirit which is in every [[Lover|lover]],
 the spirit which has bestridden the earth with European adventure,
@@ -1705,8 +1704,8 @@ in his desolate [[Pride|pride]], "He who has never hoped can never [[Despair|des
 The Man-God of old answers from his awful [[Hill|hill]], "Was ever sorrow
 like unto my sorrow?"  A great man is not a man so strong that he feels
 less than other men; he is a man so strong that he feels more.
-And when Nietszche says, "A new commandment I give to you, `be hard,'"
-he is really saying, "A new commandment I give to you, `be dead.'"
+And when Nietszche says, "A new commandment I give to you, ‘be hard,'"
+he is really saying, "A new commandment I give to you, ‘be dead.'"
 Sensibility is the definition of life.
 
 I recur for a last word to Jack the Giant-Killer. I have dwelt on
@@ -2037,8 +2036,8 @@ as unsavoury as a dose of camomile.  Whole heavens above it,
 from the point of view of sentiment, though not of style,
 rises the splendour of some old English drinking-[[Song|song]]--
 
-  "Then pass the bowl, my comrades all,
-   And let the zider vlow."
+"Then pass the bowl, my comrades all,
+And let the zider vlow."
 
 For this [[Song|song]] was caught up by happy men to express the worth
 of truly worthy things, of brotherhood and garrulity, and the brief
@@ -2056,10 +2055,10 @@ that terrible theism which can imagine nothing else but deity,
 and which denies altogether the outlines of human personality
 and human will.
 
-  "The ball no question makes of Ayes or Noes,
-   But Here or There as strikes the Player goes;
-   And He that tossed you down into the field,
-   He knows about it all--he knows--he knows."
+"The ball no question makes of Ayes or Noes,
+But Here or There as strikes the Player goes;
+And He that tossed you down into the field,
+He knows about it all--he knows--he knows."
 
 A Christian thinker such as Augustine or [[Dante]] would object to this
 because it ignores free-will, which is the valour and dignity of the [[Soul|soul]].
@@ -4331,7 +4330,7 @@ But how a serious social student can think of curing the
 thoughtlessness of our generation by strained paradoxes; of giving
 people a sane grasp of social problems by literary sleight-of-hand;
 of settling important questions by a reckless shower of
-rocket-metaphors and inaccurate `facts,' and the substitution
+rocket-metaphors and inaccurate ‘facts,' and the substitution
 of imagination for judgment, I cannot see."
 
 I quote this passage with a particular pleasure, because Mr. McCabe certainly
@@ -4722,11 +4721,11 @@ effective points.  He compares Whistler's laughter to the laughter
 of another man who was a great man as well as a great artist.
 "His attitude to the public was exactly the attitude taken up
 by Robert Browning, who suffered as long a period of neglect
-and mistake, in those lines of `The Ring and the Book'--
+and mistake, in those lines of ‘The Ring and the Book'--
 
- "`[[Well]], British Public, ye who like me not,
-   (God [[Love|love]] you!) and will have your proper laugh
-   At the dark question; laugh it!  I'd laugh first.'
+"‘[[Well]], British Public, ye who like me not,
+(God [[Love|love]] you!) and will have your proper laugh
+At the dark question; laugh it!  I'd laugh first.'
 
 "Mr. Whistler," adds Professor Raleigh, "always laughed first."
 The [[Truth|truth]] is, I believe, that Whistler never laughed at all.
@@ -6085,9 +6084,8 @@ End of this Project Gutenberg Etext of Heretics, by G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_08_the_moods_of_mr_george_moore" data-title="Heretics — The Moods of Mr. George Moore" data-chapter="Story 08 The Moods of Mr George Moore" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_moods_of_mr_george_moore" data-title="Heretics — The Moods of Mr. George Moore" data-chapter="The Moods of Mr George Moore" data-kind="story"></span>
 
-# [[heret12]] — The Moods of Mr. George Moore
 
 IX.  The Moods of Mr. George Moore
 
@@ -6234,9 +6232,8 @@ Se paragoniamo questa solenne follia con la lieta follia con cui Stevenson tesse
 
 
 
-<span class="atom-split" data-atom="story_09_on_sandals_and_simplicity" data-title="Heretics — On Sandals and Simplicity" data-chapter="Story 09 On Sandals and Simplicity" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_sandals_and_simplicity" data-title="Heretics — On Sandals and Simplicity" data-chapter="On Sandals and Simplicity" data-kind="story"></span>
 
-# [[heret12]] — On Sandals and Simplicity
 
 X. On Sandals and Simplicity
 
@@ -6533,9 +6530,8 @@ una faccenda tanto pratica quanto la salute.
 
 
 
-<span class="atom-split" data-atom="story_12_celts_and_celtophiles" data-title="Heretics — Celts and Celtophiles" data-chapter="Story 12 Celts and Celtophiles" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_celts_and_celtophiles" data-title="Heretics — Celts and Celtophiles" data-chapter="Celts and Celtophiles" data-kind="story"></span>
 
-# [[heret12]] — Celts and Celtophiles
 
 XIII.  Celts and Celtophiles
 
@@ -6852,9 +6848,8 @@ In materia di visioni, l'Irlanda è più di una nazione:
 
 
 
-<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_01" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Story 01 Introductory Remarks on the Importance o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_01" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
 
-# [[heret12]] — Introductory Remarks on the Importance of Orthodoxy (part 1)
 
 I. Introductory Remarks on the Importance of Orthodoxy
 
@@ -7087,9 +7082,8 @@ le medesime cose per cui lo fece un galeotto per averle praticate.
 
 
 
-<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_02" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Story 01 Introductory Remarks on the Importance o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_02" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
 
-# [[heret12]] — Introductory Remarks on the Importance of Orthodoxy (part 2)
 
 Now, in our [[Time|time]], [[philosophy]] or religion, our theory,
 that is, about ultimate things, has been driven out,
@@ -7318,9 +7312,8 @@ Non c'è nulla che fallisca quanto il [[success|successo]].
 
 
 
-<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_03" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Story 01 Introductory Remarks on the Importance o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_03" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
 
-# [[heret12]] — Introductory Remarks on the Importance of Orthodoxy (part 3)
 
 And having discovered that opportunism does fail, I have
 been induced to look at it more largely, and in consequence
@@ -7433,9 +7426,8 @@ al buio.
 
 
 
-<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_01" data-title="Heretics — On the Negative Spirit (part 1)" data-chapter="Story 02 On the Negative Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_01" data-title="Heretics — On the Negative Spirit (part 1)" data-chapter="On the Negative Spirit" data-kind="excerpt"></span>
 
-# [[heret12]] — On the Negative Spirit (part 1)
 
 II.  On the Negative Spirit
 
@@ -7574,9 +7566,8 @@ Ora, è questa grande lacuna dell'etica moderna, l'assenza di vivide immagini di
 
 
 
-<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_02" data-title="Heretics — On the Negative Spirit (part 2)" data-chapter="Story 02 On the Negative Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_02" data-title="Heretics — On the Negative Spirit (part 2)" data-chapter="On the Negative Spirit" data-kind="excerpt"></span>
 
-# [[heret12]] — On the Negative Spirit (part 2)
 
 I do not wish the reader to confuse me for a moment with those vague
 persons who imagine that Ibsen is what they call a pessimist.
@@ -7738,9 +7729,8 @@ Il caso del discorso generale sul «progresso» è, in verità, un caso estremo.
 
 
 
-<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_01" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 1)" data-chapter="Story 03 On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_01" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 1)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
 
-# [[heret12]] — On Mr. Rudyard Kipling and Making the World Small (part 1)
 
 III.  On Mr. Rudyard Kipling and Making the World Small
 
@@ -7967,9 +7957,8 @@ Poiché, dal momento in cui abbiamo una visione dell'universo, lo possediamo.
 
 
 
-<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_02" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 2)" data-chapter="Story 03 On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_02" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 2)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
 
-# [[heret12]] — On Mr. Rudyard Kipling and Making the World Small (part 2)
 
 Now, the message of Rudyard Kipling, that upon which he has
 really concentrated, is the only thing worth worrying
@@ -8060,12 +8049,12 @@ is English.  There is no harshness in saying this, for, to do
 him justice, he avows it with his usual picturesque candour.
 In a very interesting poem, he says that--
 
-  "If England was what England seems"
+"If England was what England seems"
 
 --that is, weak and inefficient; if England were not what (as he believes)
 she is--that is, powerful and practical--
 
-  "How quick we'd chuck 'er! But she ain't!"
+"How quick we'd chuck 'er! But she ain't!"
 
 He admits, that is, that his devotion is the result of a criticism,
 and this is quite enough to put it in another category altogether from
@@ -8167,12 +8156,12 @@ Egli ammira l'Inghilterra perché è forte, non perché
 giustizia, egli lo confessa con la sua consueta pittoresca schiettezza.
 In una poesia assai interessante, egli dice che...
 
-  «Se l'Inghilterra fosse ciò che l'Inghilterra sembra»
+«Se l'Inghilterra fosse ciò che l'Inghilterra sembra»
 
 ...cioè, debole e inefficiente; se l'Inghilterra non fosse ciò che (com'egli crede)
 è, cioè, potente e pratica...
 
-  «Con che sveltezza la molleremmo! Ma non lo è!»
+«Con che sveltezza la molleremmo! Ma non lo è!»
 
 Egli ammette, cioè, che la sua devozione è il risultato di una critica,
 e questo basta ampiamente a collocarla in una categoria del tutto diversa da
@@ -8184,12 +8173,11 @@ lo stato d'animo dell'uomo cosmopolita che ha veduto uomini e città.
 
 
 
-<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_03" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 3)" data-chapter="Story 03 On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_03" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 3)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
 
-# [[heret12]] — On Mr. Rudyard Kipling and Making the World Small (part 3)
 
-  "For to admire and for to see,
-   For to be'old this world so wide."
+"For to admire and for to see,
+For to be'old this world so wide."
 
 He is a perfect master of that light [[Melancholy|melancholy]] with which a man
 looks back on having been the citizen of many communities,
@@ -8298,7 +8286,7 @@ only to find the sun cockney and the [[Stars|stars]] suburban.
 <span class="qlang-split" data-lang="it"></span>
 
 «Per ammirare e per vedere,
-   per contemplar questo mondo così vasto.»
+per contemplar questo mondo così vasto.»
 
 Egli è perfetto maestro di quella lieve [[Melancholy|malinconia]] con cui un uomo
 ripensa all'essere stato cittadino di molte comunità,
@@ -8405,9 +8393,8 @@ solo per trovare il sole plebeo e le [[Stars|stelle]] suburbane.
 
 
 
-<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_01" data-title="Heretics — Mr. Bernard Shaw (part 1)" data-chapter="Story 04 Mr Bernard Shaw" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_01" data-title="Heretics — Mr. Bernard Shaw (part 1)" data-chapter="Mr Bernard Shaw" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. Bernard [[Shaw]] (part 1)
 
 IV.  Mr. Bernard [[Shaw]]
 
@@ -8437,8 +8424,8 @@ As for his bluffness and toughness and appeals to common sense,
 all that is, of course, simply the first trick of rhetoric.
 He fronts his audiences with the venerable affectation of [[Mark Antony]]--
 
-  "I am no orator, as [[Brutus]] is;
-   But as you know me all, a plain blunt man."
+"I am no orator, as [[Brutus]] is;
+But as you know me all, a plain blunt man."
 
 It is the whole difference between the aim of the orator and
 the aim of any other [[Artist|artist]], such as the poet or the sculptor.
@@ -8517,8 +8504,8 @@ IV.  Il signor Bernard [[Shaw]]
 
 Nei bei tempi andati, prima che sorgessero le morbosità moderne, quando il buon vecchio Ibsen riempiva il mondo di gioia salubre, e i garbati racconti del dimenticato Emile Zola tenevano allegri e puri i nostri focolari, si soleva ritenere uno svantaggio l'essere frainteso. È lecito dubitare che sia sempre, o anche solo per lo più, uno svantaggio. L'uomo che viene frainteso ha sempre questo vantaggio sui suoi nemici: che essi non conoscono il suo punto debole né il suo piano di battaglia. Vanno contro un uccello con le reti e contro un pesce con le frecce. Di questa situazione vi sono parecchi esempi moderni. Il signor Chamberlain, per esempio, ne è uno assai buono. Egli elude o vince di continuo i suoi avversari perché le sue reali facoltà e mancanze sono del tutto diverse da quelle che gli si attribuiscono, tanto dagli amici quanto dai nemici. I suoi amici lo dipingono come un uomo d'azione infaticabile; i suoi avversari lo dipingono come un rozzo uomo d'affari; quando invece, di fatto, non è né l'uno né l'altro, ma un mirabile oratore romantico e romantico attore. Egli possiede una facoltà che è l'[[Soul|anima]] del [[Melodrama|melodramma]]: la facoltà di fingere, anche quando lo sorregge una schiacciante maggioranza, di avere le spalle al muro. Ché tutte le folle sono cavalleresche almeno in questo, che i loro eroi debbono fare qualche mostra di sventura: quella sorta di ipocrisia è l'omaggio che la forza rende alla debolezza. Egli parla scioccamente eppure assai nobilmente della propria [[City|città]] che non l'ha mai abbandonato. Porta un fiore fiammeggiante e stravagante, come un decadente poeta minore. Quanto alla sua schiettezza, alla sua durezza e ai suoi appelli al buon senso, tutto ciò, s'intende, non è che il primo trucco della retorica. Egli affronta il suo pubblico con la venerabile affettazione di [[Mark Antony]]:
 
-  «Non sono un oratore, come lo è [[Brutus]];
-   ma, come tutti mi conoscete, un uomo schietto e rude.»
+«Non sono un oratore, come lo è [[Brutus]];
+ma, come tutti mi conoscete, un uomo schietto e rude.»
 
 Sta tutta qui la differenza tra il fine dell'oratore e il fine di ogni altro [[Artist|artista]], quale il poeta o lo scultore. Il fine dello scultore è di convincerci che egli è uno scultore; il fine dell'oratore è di convincerci che egli non è un oratore. Basta che il signor Chamberlain venga scambiato per un uomo pratico, e la partita è vinta. Non ha che da comporre un tema sull'impero, e la gente dirà che questi uomini schietti sanno dire grandi cose nelle grandi occasioni. Non ha che da lasciarsi andare alle vaste e vaghe nozioni comuni a tutti gli artisti di secondo rango, e la gente dirà che, in fin dei conti, sono gli uomini d'affari ad avere gli ideali più alti. Tutti i suoi disegni sono finiti in fumo; non ha toccato nulla che non abbia confuso. Attorno alla sua figura vi è un pathos celtico; come i Gaeli nella citazione di Matthew Arnold, «egli mosse a battaglia, ma sempre cadde». È una montagna di proposte, una montagna di fallimenti; ma pur sempre una montagna. E una montagna è sempre romantica.
 
@@ -8526,9 +8513,8 @@ Vi è nel mondo moderno un altro uomo che potrebbe dirsi l'antitesi del signor C
 
 
 
-<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_02" data-title="Heretics — Mr. Bernard Shaw (part 2)" data-chapter="Story 04 Mr Bernard Shaw" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_02" data-title="Heretics — Mr. Bernard Shaw (part 2)" data-chapter="Mr Bernard Shaw" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. Bernard [[Shaw]] (part 2)
 
 The [[Truth|truth]] is, that it is quite an error to suppose that absence
 of definite convictions gives the mind [[Freedom|freedom]] and agility.
@@ -8678,9 +8664,8 @@ Ché la [[Truth|verità]] è che il signor [[Shaw]] non ha mai visto le cose com
 
 
 
-<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_03" data-title="Heretics — Mr. Bernard Shaw (part 3)" data-chapter="Story 04 Mr Bernard Shaw" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_03" data-title="Heretics — Mr. Bernard Shaw (part 3)" data-chapter="Mr Bernard Shaw" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. Bernard [[Shaw]] (part 3)
 
 The [[Truth|truth]] is, that all genuine appreciation rests on a certain
 mystery of [[Humility|humility]] and almost of darkness.  The man who said,
@@ -8747,9 +8732,8 @@ Ora questo è, lo dico deliberatamente, l'unico difetto nella [[Greatness|grande
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_01" data-title="Heretics — Mr. H. G. Wells and the Giants (part 1)" data-chapter="Story 05 Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_01" data-title="Heretics — Mr. H. G. Wells and the Giants (part 1)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. H. G. Wells and the Giants (part 1)
 
 V. Mr. H. G. Wells and the Giants
 
@@ -8798,8 +8782,8 @@ How different the Pagan and Stoical feeling was from this has
 been admirably expressed in a famous quotation.  Addison makes
 the great Stoic say--
 
-  "'Tis not in mortals to command [[success]];
-   But we'll do more, [[Sempronius]], we'll deserve it."
+"'Tis not in mortals to command [[success]];
+But we'll do more, [[Sempronius]], we'll deserve it."
 
 But the spirit of [[Romance]] and Christendom, the spirit which is in every [[Lover|lover]],
 the spirit which has bestridden the earth with European adventure,
@@ -8897,8 +8881,8 @@ Dovremmo saper penetrare in un ipocrita abbastanza a fondo da scorgere perfino l
 
 Vi è un esempio notevole di un'accusa ingiusta d'ipocrisia. Si rimprovera sempre ai religiosi del passato, come segno d'incoerenza e di doppiezza, di aver unito una professione di quasi strisciante [[Humility|umiltà]] a un'aspra lotta per il [[success|successo]] terreno, e a considerevoli trionfi nel conseguirlo. Si avverte come una impostura che un uomo si mostri assai scrupoloso nel definirsi un miserabile peccatore, e anche assai scrupoloso nel definirsi [[King of France|Re di Francia]]. Ma la [[Truth|verità]] è che non v'è maggiore incoerenza consapevole fra l'[[Humility|umiltà]] di un cristiano e la sua rapacità di quanta ve ne sia fra l'[[Humility|umiltà]] di un [[Lover|innamorato]] e la rapacità di un [[Lover|innamorato]]. La [[Truth|verità]] è che non vi sono cose per le quali gli uomini compiano sforzi tanto erculei quanto le cose di cui sanno di essere indegni. Non vi fu mai un uomo [[Love|innamorato]] che non dichiarasse che, tendendo ogni nervo fino a spezzarlo, avrebbe avuto il suo [[Desire|desiderio]]. E non vi fu mai un uomo [[Love|innamorato]] che non dichiarasse anche di non meritarlo. Tutto il segreto del [[success|successo]] pratico della Cristianità sta nell'[[Humility|umiltà]] cristiana, per quanto imperfettamente realizzata. Poiché, tolta ogni questione di merito o di ricompensa, l'[[Soul|anima]] si trova d'un tratto libera per viaggi incredibili. Se domandiamo a un uomo di senno quanto egli meriti, la sua mente si ritrae istintivamente e all'istante. È dubbio che meriti sei piedi di terra. Ma se gli chiedete che cosa possa conquistare — egli può conquistare le [[Stars|stelle]]. Nasce così ciò che si chiama [[Romance|Romanzo]], prodotto puramente cristiano. Un uomo non può meritare le avventure; non può guadagnarsi draghi e ippogrifi. L'Europa medievale, che affermò l'[[Humility|umiltà]], conquistò il [[Romance|Romanzo]]; la civiltà che conquistò il [[Romance|Romanzo]] ha conquistato l'intero globo abitabile. Quanto diverso fosse da tutto ciò il sentimento pagano e stoico è stato mirabilmente espresso in una celebre citazione. Addison fa dire al grande Stoico:
 
-  «Non è dato ai mortali comandare al [[success|successo]];
-   ma faremo di più, [[Sempronius|Sempronio]]: lo meriteremo.»
+«Non è dato ai mortali comandare al [[success|successo]];
+ma faremo di più, [[Sempronius|Sempronio]]: lo meriteremo.»
 
 Ma lo spirito del [[Romance|Romanzo]] e della Cristianità, lo spirito che è in ogni [[Lover|innamorato]], lo spirito che ha cavalcato la terra con l'avventura europea, è tutto l'opposto. Non è dato ai mortali meritare il [[success|successo]]. Ma faremo di più, [[Sempronius|Sempronio]]: lo otterremo.
 
@@ -8908,9 +8892,8 @@ L'esempio più citato ai giorni nostri è ciò che si chiama l'[[Humility|umilt�
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_02" data-title="Heretics — Mr. H. G. Wells and the Giants (part 2)" data-chapter="Story 05 Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_02" data-title="Heretics — Mr. H. G. Wells and the Giants (part 2)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. H. G. Wells and the Giants (part 2)
 
 Now, this arresting, mental [[Humility|humility]] in Mr. H. G. Wells may be,
 like a great many other things that are vital and vivid, difficult to
@@ -9059,9 +9042,8 @@ Il signor Wells, tuttavia, non è abbastanza sciolto dalla più angusta veduta s
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_03" data-title="Heretics — Mr. H. G. Wells and the Giants (part 3)" data-chapter="Story 05 Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_03" data-title="Heretics — Mr. H. G. Wells and the Giants (part 3)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. H. G. Wells and the Giants (part 3)
 
 But I think the main mistake of Mr. Wells's [[philosophy]] is a somewhat
 deeper one, one that he expresses in a very entertaining manner
@@ -9181,9 +9163,8 @@ E ora mi torna alla mente che il signor H. G. Wells ha in effetti scritto un del
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_04" data-title="Heretics — Mr. H. G. Wells and the Giants (part 4)" data-chapter="Story 05 Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_04" data-title="Heretics — Mr. H. G. Wells and the Giants (part 4)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. H. G. Wells and the Giants (part 4)
 
 "The Food of the Gods" is the tale of "Jack the Giant-Killer"
 told from the point of view of the giant.  This has not,
@@ -9252,8 +9233,8 @@ in his desolate [[Pride|pride]], "He who has never hoped can never [[Despair|des
 The Man-God of old answers from his awful [[Hill|hill]], "Was ever sorrow
 like unto my sorrow?"  A great man is not a man so strong that he feels
 less than other men; he is a man so strong that he feels more.
-And when Nietszche says, "A new commandment I give to you, `be hard,'"
-he is really saying, "A new commandment I give to you, `be dead.'"
+And when Nietszche says, "A new commandment I give to you, ‘be hard,'"
+he is really saying, "A new commandment I give to you, ‘be dead.'"
 Sensibility is the definition of life.
 
 I recur for a last word to Jack the Giant-Killer. I have dwelt on
@@ -9309,9 +9290,8 @@ Torno per un'ultima parola a Jack l'ammazzagiganti. Mi sono soffermato su questa
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_05" data-title="Heretics — Mr. H. G. Wells and the Giants (part 5)" data-chapter="Story 05 Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_05" data-title="Heretics — Mr. H. G. Wells and the Giants (part 5)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. H. G. Wells and the Giants (part 5)
 
 VI.  Christmas and the Aesthetes
 
@@ -9429,9 +9409,8 @@ E la medesima antitesi esiste a proposito di un'altra religione moderna — inte
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_06" data-title="Heretics — Mr. H. G. Wells and the Giants (part 6)" data-chapter="Story 05 Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_06" data-title="Heretics — Mr. H. G. Wells and the Giants (part 6)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
 
-# [[heret12]] — Mr. H. G. Wells and the Giants (part 6)
 
 But if the wisdom of Comte was insufficient, the folly of Comte
 was wisdom.  In an age of dusty modernity, when [[Beauty|beauty]] was thought
@@ -9550,9 +9529,8 @@ E ora devo toccare una faccenda assai triste. Vi è nel mondo moderno una classe
 
 
 
-<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_01" data-title="Heretics — Omar and the Sacred Vine (part 1)" data-chapter="Story 06 Omar and the Sacred Vine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_01" data-title="Heretics — Omar and the Sacred Vine (part 1)" data-chapter="Omar and the Sacred Vine" data-kind="excerpt"></span>
 
-# [[heret12]] — Omar and the Sacred Vine (part 1)
 
 VII.  Omar and the Sacred Vine
 
@@ -9637,8 +9615,8 @@ as unsavoury as a dose of camomile.  Whole heavens above it,
 from the point of view of sentiment, though not of style,
 rises the splendour of some old English drinking-[[Song|song]]--
 
-  "Then pass the bowl, my comrades all,
-   And let the zider vlow."
+"Then pass the bowl, my comrades all,
+And let the zider vlow."
 
 For this [[Song|song]] was caught up by happy men to express the worth
 of truly worthy things, of brotherhood and garrulity, and the brief
@@ -9669,21 +9647,20 @@ Da più di trent'anni l'[[Shadow|ombra]] e la gloria di una grande figura orient
 
 Un Orientale pensoso e aggraziato giace sotto il cespuglio di [[Rose|rose]] con la sua brocca di vino e il suo rotolo di [[Poems|poesie]].  Può sembrare strano che i pensieri di chiunque, nel momento stesso in cui lo contempla, volino indietro fino all'oscuro capezzale dove il medico centellina il brandy.  Può sembrare ancor più strano che tornino al grigio disgraziato che trema per il gin a Houndsditch.  Ma una grande [[unity|unità]] filosofica lega i tre in un vincolo malvagio.  Il gozzovigliare di vino di Omar Khayyam è cattivo non perché sia gozzovigliare di vino.  È cattivo, e molto cattivo, perché è un gozzovigliare di vino medicinale.  È il bere di un uomo che beve perché non è felice.  Il suo è il vino che esclude l'universo, non il vino che lo rivela.  Non è un bere poetico, che è gioioso e istintivo; è un bere razionale, prosaico come un investimento, sgradevole come una dose di camomilla.  Interi cieli al di sopra di esso, dal punto di vista del sentimento se non dello stile, si leva lo splendore di qualche vecchia [[Song|canzone]] inglese da taverna:
 
-  «E allora fate girar la coppa, compagni miei,
-   e lasciate che scorra il sidro.»
+«E allora fate girar la coppa, compagni miei,
+e lasciate che scorra il sidro.»
 
 Poiché questa [[Song|canzone]] fu intonata da uomini felici per esprimere il valore di cose veramente degne, della fratellanza e della loquacità, e del breve e amabile ozio dei poveri.  Naturalmente, gran parte dei rimproveri più ottusi mossi contro la [[morality|morale]] omariana sono falsi e puerili come tali rimproveri di solito sono.  Un critico, di cui ho letto l'opera, ebbe l'incredibile insipienza di chiamare Omar un ateo e un materialista.  È quasi impossibile per un Orientale essere l'uno o l'altro; l'Oriente intende la metafisica troppo [[Well|bene]] per questo.  Naturalmente, la vera obiezione che un cristiano filosofo muoverebbe alla religione di Omar non è che egli non dia posto a Dio, bensì che ne dia troppo.  Il suo è quel terribile teismo che non riesce a immaginare nient'altro se non la divinità, e che nega del tutto i contorni della personalità umana e della volontà umana.
 
 
 
-<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_02" data-title="Heretics — Omar and the Sacred Vine (part 2)" data-chapter="Story 06 Omar and the Sacred Vine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_02" data-title="Heretics — Omar and the Sacred Vine (part 2)" data-chapter="Omar and the Sacred Vine" data-kind="excerpt"></span>
 
-# [[heret12]] — Omar and the Sacred Vine (part 2)
 
-  "The ball no question makes of Ayes or Noes,
-   But Here or There as strikes the Player goes;
-   And He that tossed you down into the field,
-   He knows about it all--he knows--he knows."
+"The ball no question makes of Ayes or Noes,
+But Here or There as strikes the Player goes;
+And He that tossed you down into the field,
+He knows about it all--he knows--he knows."
 
 A Christian thinker such as Augustine or [[Dante]] would object to this
 because it ignores free-will, which is the valour and dignity of the [[Soul|soul]].
@@ -9798,9 +9775,9 @@ know of when you go and where."
 <span class="qlang-split" data-lang="it"></span>
 
 «La palla non solleva questione di Sì o di No,
-   ma di Qua o di Là, dove la spinge il colpo del Giocatore;
-   e Colui che ti ha gettato giù nel campo,
-   Egli sa tutto di ciò — lo sa — lo sa.»
+ma di Qua o di Là, dove la spinge il colpo del Giocatore;
+e Colui che ti ha gettato giù nel campo,
+Egli sa tutto di ciò — lo sa — lo sa.»
 
 Un pensatore cristiano come Agostino o [[Dante]] obietterebbe a questo perché ignora il libero arbitrio, che è il valore e la dignità dell'[[Soul|anima]].  La contesa del più alto [[Christianity|Cristianesimo]] con questo scetticismo non consiste minimamente nel fatto che lo scetticismo neghi l'esistenza di Dio; consiste nel fatto che esso nega l'esistenza dell'uomo.
 
@@ -9814,9 +9791,8 @@ L'effetto di Omar (o di Fitzgerald) sull'altro mondo possiamo lasciarlo perdere;
 
 
 
-<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_01" data-title="Heretics — The Mildness of the Yellow Press (part 1)" data-chapter="Story 07 The Mildness of the Yellow Press" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_01" data-title="Heretics — The Mildness of the Yellow Press (part 1)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt"></span>
 
-# [[heret12]] — The Mildness of the Yellow Press (part 1)
 
 VIII.  The Mildness of the Yellow Press
 
@@ -9936,9 +9912,8 @@ Del vero giornalismo sensazionalistico, quale esiste in Francia, in Irlanda e in
 
 
 
-<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_02" data-title="Heretics — The Mildness of the Yellow Press (part 2)" data-chapter="Story 07 The Mildness of the Yellow Press" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_02" data-title="Heretics — The Mildness of the Yellow Press (part 2)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt"></span>
 
-# [[heret12]] — The Mildness of the Yellow Press (part 2)
 
 Some hold that such papers as these are scarcely the proper
 objects of so serious a consideration; but that can scarcely
@@ -10064,9 +10039,8 @@ Non voglio insozzare questa cosa perfetta con un commento; le parole di Mercurio
 
 
 
-<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_03" data-title="Heretics — The Mildness of the Yellow Press (part 3)" data-chapter="Story 07 The Mildness of the Yellow Press" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_03" data-title="Heretics — The Mildness of the Yellow Press (part 3)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt"></span>
 
-# [[heret12]] — The Mildness of the Yellow Press (part 3)
 
 "A little common sense impresses American working-men more than
 high-flown argument.  A speaker who, as he made his points,
@@ -10184,9 +10158,8 @@ L'unica domanda ora è quanto più a lungo durerà la finzione che i giornalisti
 
 
 
-<span class="atom-split" data-atom="story_10_science_and_the_savages--part_01" data-title="Heretics — Science and the Savages (part 1)" data-chapter="Story 10 Science and the Savages" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_science_and_the_savages--part_01" data-title="Heretics — Science and the Savages (part 1)" data-chapter="Science and the Savages" data-kind="excerpt"></span>
 
-# [[heret12]] — Science and the Savages (part 1)
 
 XI.  Science and the Savages
 
@@ -10308,9 +10281,8 @@ L'ovvia [[Truth|verità]] è che, nel momento in cui una qualsiasi materia è pa
 
 
 
-<span class="atom-split" data-atom="story_10_science_and_the_savages--part_02" data-title="Heretics — Science and the Savages (part 2)" data-chapter="Story 10 Science and the Savages" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_science_and_the_savages--part_02" data-title="Heretics — Science and the Savages (part 2)" data-chapter="Science and the Savages" data-kind="excerpt"></span>
 
-# [[heret12]] — Science and the Savages (part 2)
 
 As one of the enormous follies of folk-lore, let us take
 the case of the transmigration of stories, and the alleged
@@ -10441,9 +10413,8 @@ Forse la più patetica di tutte le illusioni dei moderni studiosi della credenza
 
 
 
-<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_01" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 1)" data-chapter="Story 11 Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_01" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 1)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
 
-# [[heret12]] — Paganism and Mr. Lowes Dickinson (part 1)
 
 XII.  Paganism and Mr. Lowes Dickinson
 
@@ -10664,9 +10635,8 @@ irragionevoli quanto è possibile esserlo.
 
 
 
-<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_02" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 2)" data-chapter="Story 11 Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_02" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 2)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
 
-# [[heret12]] — Paganism and Mr. Lowes Dickinson (part 2)
 
 As the word "unreasonable" is open to misunderstanding, the matter
 may be more accurately put by saying that each one of these Christian
@@ -10894,9 +10864,8 @@ cioè perché la civiltà cristiana doveva scoprirla o morire.
 
 
 
-<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_03" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 3)" data-chapter="Story 11 Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_03" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 3)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
 
-# [[heret12]] — Paganism and Mr. Lowes Dickinson (part 3)
 
 The great psychological discovery of Paganism, which turned it
 into [[Christianity]], can be expressed with some accuracy in one phrase.
@@ -11223,9 +11192,8 @@ finiremo nel [[Christianity|cristianesimo]].
 
 
 
-<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_01" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 1)" data-chapter="Story 13 On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_01" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 1)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
 
-# [[heret12]] — On Certain Modern Writers and the Institution of the Family (part 1)
 
 XIV.  On Certain Modern Writers and the Institution of the Family
 
@@ -11454,9 +11422,8 @@ Di fatto, la odiano per la sua forza.
 
 
 
-<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_02" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 2)" data-chapter="Story 13 On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_02" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 2)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
 
-# [[heret12]] — On Certain Modern Writers and the Institution of the Family (part 2)
 
 Of course, this shrinking from the brutal vivacity and brutal
 variety of common men is a perfectly reasonable and excusable
@@ -11681,9 +11648,8 @@ Il nonno è stupido, come il mondo; è vecchio, come il mondo.
 
 
 
-<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_03" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 3)" data-chapter="Story 13 On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_03" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 3)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
 
-# [[heret12]] — On Certain Modern Writers and the Institution of the Family (part 3)
 
 Those who wish, rightly or wrongly, to step out of all this, do definitely
 wish to step into a narrower world.  They are dismayed and terrified
@@ -11940,9 +11906,8 @@ universo debole come loro stessi.
 
 
 
-<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_01" data-title="Heretics — On Smart Novelists and the Smart Set (part 1)" data-chapter="Story 14 On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_01" data-title="Heretics — On Smart Novelists and the Smart Set (part 1)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
 
-# [[heret12]] — On Smart Novelists and the Smart Set (part 1)
 
 XV.  On Smart Novelists and the Smart Set
 
@@ -12155,9 +12120,8 @@ altro giovane possiede le [[Stars|stelle]].
 
 
 
-<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_02" data-title="Heretics — On Smart Novelists and the Smart Set (part 2)" data-chapter="Story 14 On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_02" data-title="Heretics — On Smart Novelists and the Smart Set (part 2)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
 
-# [[heret12]] — On Smart Novelists and the Smart Set (part 2)
 
 Mr. [[Hope]], however, is a very mild case, and in him there
 is not only an element of [[Romance|romance]], but also a fine element
@@ -12364,9 +12328,8 @@ mi sia consentito di affrontarlo per una via più tortuosa.
 
 
 
-<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_03" data-title="Heretics — On Smart Novelists and the Smart Set (part 3)" data-chapter="Story 14 On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_03" data-title="Heretics — On Smart Novelists and the Smart Set (part 3)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
 
-# [[heret12]] — On Smart Novelists and the Smart Set (part 3)
 
 The haunting element of ineffectualness which runs through so much
 of the witty and epigrammatic fiction fashionable during the last
@@ -12755,9 +12718,8 @@ delle cui glorie fu che non seppe descrivere un gentiluomo.
 
 
 
-<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_01" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 1)" data-chapter="Story 15 On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_01" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 1)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
 
-# [[heret12]] — On Mr. McCabe and a Divine Frivolity (part 1)
 
 XVI.  On Mr. McCabe and a Divine Frivolity
 
@@ -12847,7 +12809,7 @@ But how a serious social student can think of curing the
 thoughtlessness of our generation by strained paradoxes; of giving
 people a sane grasp of social problems by literary sleight-of-hand;
 of settling important questions by a reckless shower of
-rocket-metaphors and inaccurate `facts,' and the substitution
+rocket-metaphors and inaccurate ‘facts,' and the substitution
 of imagination for judgment, I cannot see."
 
 I quote this passage with a particular pleasure, because Mr. McCabe certainly
@@ -12875,9 +12837,8 @@ Cito questo passo con particolare piacere, perché il signor McCabe non può cer
 
 
 
-<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_02" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 2)" data-chapter="Story 15 On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_02" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 2)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
 
-# [[heret12]] — On Mr. McCabe and a Divine Frivolity (part 2)
 
 Mr. McCabe thinks that I am not serious but only funny,
 because Mr. McCabe thinks that funny is the opposite of serious.
@@ -13021,9 +12982,8 @@ Sono, in verità, lieto di scoprire che il signor McCabe annovera il signor Shaw
 
 
 
-<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_03" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 3)" data-chapter="Story 15 On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_03" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 3)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
 
-# [[heret12]] — On Mr. McCabe and a Divine Frivolity (part 3)
 
 All this, however, is a parenthesis.  The thing with which I am
 here immediately concerned is Mr. McCabe's appeal to me not to be
@@ -13181,9 +13141,8 @@ Quando, dunque, il signor McCabe dice di dare alle danze dell'Alhambra (e ai mie
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_01" data-title="Heretics — On the Wit of Whistler (part 1)" data-chapter="Story 16 On the Wit of Whistler" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_01" data-title="Heretics — On the Wit of Whistler (part 1)" data-chapter="On the Wit of Whistler" data-kind="excerpt"></span>
 
-# [[heret12]] — On the Wit of Whistler (part 1)
 
 XVII.  On the Wit of Whistler
 
@@ -13291,7 +13250,7 @@ effective points.  He compares Whistler's laughter to the laughter
 of another man who was a great man as well as a great artist.
 "His attitude to the public was exactly the attitude taken up
 by Robert Browning, who suffered as long a period of neglect
-and mistake, in those lines of `The Ring and the Book'--
+and mistake, in those lines of ‘The Ring and the Book'--
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13402,17 +13361,16 @@ tratti più efficaci.  Egli paragona il riso di Whistler al riso
 di un altro uomo che fu un grande uomo oltre che un grande artista.
 «Il suo atteggiamento verso il pubblico era esattamente l'atteggiamento assunto
 da Robert Browning, che patì un periodo altrettanto lungo di misconoscimento
-e di equivoco, in quei versi di `The Ring and the Book`—
+e di equivoco, in quei versi di ‘The Ring and the Book‘—
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_02" data-title="Heretics — On the Wit of Whistler (part 2)" data-chapter="Story 16 On the Wit of Whistler" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_02" data-title="Heretics — On the Wit of Whistler (part 2)" data-chapter="On the Wit of Whistler" data-kind="excerpt"></span>
 
-# [[heret12]] — On the Wit of Whistler (part 2)
 
- "`[[Well]], British Public, ye who like me not,
-   (God [[Love|love]] you!) and will have your proper laugh
-   At the dark question; laugh it!  I'd laugh first.'
+"‘[[Well]], British Public, ye who like me not,
+(God [[Love|love]] you!) and will have your proper laugh
+At the dark question; laugh it!  I'd laugh first.'
 
 "Mr. Whistler," adds Professor Raleigh, "always laughed first."
 The [[Truth|truth]] is, I believe, that Whistler never laughed at all.
@@ -13519,9 +13477,9 @@ help him to be an exceptional lawyer.
 
 <span class="qlang-split" data-lang="it"></span>
 
-"`[[Well|Ebbene]], pubblico britannico, tu che non mi ami,
-   (Iddio ti [[Love|ami]]!) e vuoi farti la tua bella risata
-   sull'oscura questione; ridine pure!  Io riderei per primo.'
+"‘[[Well|Ebbene]], pubblico britannico, tu che non mi ami,
+(Iddio ti [[Love|ami]]!) e vuoi farti la tua bella risata
+sull'oscura questione; ridine pure!  Io riderei per primo.'
 
 «Il signor Whistler», aggiunge il professor Raleigh, «rideva sempre per primo».
 La [[Truth|verità]], io credo, è che Whistler non rise mai affatto.
@@ -13627,9 +13585,8 @@ aiutarlo a essere un avvocato eccezionale.
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_03" data-title="Heretics — On the Wit of Whistler (part 3)" data-chapter="Story 16 On the Wit of Whistler" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_03" data-title="Heretics — On the Wit of Whistler (part 3)" data-chapter="On the Wit of Whistler" data-kind="excerpt"></span>
 
-# [[heret12]] — On the Wit of Whistler (part 3)
 
 Whistler never ceased to be an [[Artist|artist]].  As Mr. Max Beerbohm pointed
 out in one of his extraordinarily sensible and sincere critiques,
@@ -13736,9 +13693,8 @@ uomo di terz'ordine è superiore agli altri uomini, come Whistler.
 
 
 
-<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_01" data-title="Heretics — The Fallacy of the Young Nation (part 1)" data-chapter="Story 17 The Fallacy of the Young Nation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_01" data-title="Heretics — The Fallacy of the Young Nation (part 1)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt"></span>
 
-# [[heret12]] — The Fallacy of the Young Nation (part 1)
 
 XVIII.  The Fallacy of the Young Nation
 
@@ -13879,9 +13835,8 @@ Coloro che dicono che un ideale è una cosa pericolosa, che illude e inebria, ha
 
 
 
-<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_02" data-title="Heretics — The Fallacy of the Young Nation (part 2)" data-chapter="Story 17 The Fallacy of the Young Nation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_02" data-title="Heretics — The Fallacy of the Young Nation (part 2)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt"></span>
 
-# [[heret12]] — The Fallacy of the Young Nation (part 2)
 
 The matter may, perhaps, be illustrated by a parallel from our
 modern politics.  When men tell us that the old Liberal politicians
@@ -14051,9 +14006,8 @@ Naturalmente possiamo usare la metafora della giovinezza a proposito dell'[[Amer
 
 
 
-<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_03" data-title="Heretics — The Fallacy of the Young Nation (part 3)" data-chapter="Story 17 The Fallacy of the Young Nation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_03" data-title="Heretics — The Fallacy of the Young Nation (part 3)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt"></span>
 
-# [[heret12]] — The Fallacy of the Young Nation (part 3)
 
 A similar attempt is made, and with even less [[success]], to represent
 the literature of the colonies as something fresh and vigorous
@@ -14201,9 +14155,8 @@ Ma quando veniamo all'ultima prova della nazionalità, la prova dell'arte e dell
 
 
 
-<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_01" data-title="Heretics — Slum Novelists and the Slums (part 1)" data-chapter="Story 18 Slum Novelists and the Slums" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_01" data-title="Heretics — Slum Novelists and the Slums (part 1)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt"></span>
 
-# [[heret12]] — Slum Novelists and the Slums (part 1)
 
 XIX.  Slum Novelists and the Slums
 
@@ -14327,9 +14280,8 @@ Il dispotismo ereditario è dunque, nella sua essenza e nel suo sentimento, demo
 
 
 
-<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_02" data-title="Heretics — Slum Novelists and the Slums (part 2)" data-chapter="Story 18 Slum Novelists and the Slums" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_02" data-title="Heretics — Slum Novelists and the Slums (part 2)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt"></span>
 
-# [[heret12]] — Slum Novelists and the Slums (part 2)
 
 But the thing which is really required for the proper working of [[democracy]]
 is not merely the democratic system, or even the democratic [[philosophy]],
@@ -14434,9 +14386,8 @@ Siamo dunque antidemocratici nella nostra religione, come è provato dai nostri 
 
 
 
-<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_03" data-title="Heretics — Slum Novelists and the Slums (part 3)" data-chapter="Story 18 Slum Novelists and the Slums" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_03" data-title="Heretics — Slum Novelists and the Slums (part 3)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt"></span>
 
-# [[heret12]] — Slum Novelists and the Slums (part 3)
 
 A poor man is a man who has not got much money.  This may seem
 a simple and unnecessary description, but in the face of a great
@@ -14609,9 +14560,8 @@ Un enorme ostacolo si frappone alla sua realtà. Gli uomini che la scrivono, e g
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_01" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Story 19 Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_01" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
 
-# [[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 1)
 
 XX.  Concluding Remarks on the Importance of Orthodoxy
 
@@ -14767,9 +14717,8 @@ La ragione, in verità, è semplicissima. Un uomo non può essere abbastanza sag
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_02" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Story 19 Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_02" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
 
-# [[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 2)
 
 In concluding this book, therefore, I would ask, first and foremost,
 that men such as these of whom I have spoken should not be insulted
@@ -14886,9 +14835,8 @@ Una comune esitazione dei nostri giorni, riguardo all'uso di convinzioni estreme
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_03" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Story 19 Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_03" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
 
-# [[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 3)
 
 There are people, however, who dig somewhat deeper than this
 into the possible evils of dogma.  It is felt by many that strong
@@ -15012,9 +14960,8 @@ In breve, dunque, liquidiamo i due pericoli opposti del bigottismo e del [[Fanat
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_04" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 4)" data-chapter="Story 19 Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_04" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 4)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
 
-# [[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 4)
 
 This latter situation is certainly possible; in fact, it is the situation
 of the whole modern world.  The modern world is filled with men who hold

@@ -86,19 +86,19 @@ CONTENTS
 
 CHAP.                                           PAGE
 
-      INTRODUCTION                                 7
+INTRODUCTION                                 7
 
-    I THE VICTORIAN COMPROMISE AND ITS ENEMIES    12
+I THE VICTORIAN COMPROMISE AND ITS ENEMIES    12
 
-   II THE GREAT VICTORIAN NOVELISTS               90
+II THE GREAT VICTORIAN NOVELISTS               90
 
-  III THE GREAT VICTORIAN POETS                  156
+III THE GREAT VICTORIAN POETS                  156
 
-   IV THE BREAK-UP OF THE COMPROMISE             204
+IV THE BREAK-UP OF THE COMPROMISE             204
 
-      BIBLIOGRAPHICAL NOTE                       253
+BIBLIOGRAPHICAL NOTE                       253
 
-      INDEX                                      255
+INDEX                                      255
 
 The Editors wish to explain that this book is not put forward as an
 
@@ -336,11 +336,11 @@ Shakespeare seems rather proud of talking nonsense: I never can read
 
 that rousing and mounting description of the [[Storm|storm]], where it comes to--
 
-    "Who take the ruffian billows by the top,
+"Who take the ruffian billows by the top,
 
-    Curling their monstrous heads, and _hanging_ them
+Curling their monstrous heads, and _hanging_ them
 
-    With deafening clamour in the slippery clouds."
+With deafening clamour in the slippery clouds."
 
 without seeing an immense balloon rising from the ground, with
 
@@ -4096,9 +4096,9 @@ he actually says of those who live nearest to that [[Nature]] he was always
 
 praising--
 
-    "Have they but held her laws and [[Nature|nature]] dear,
+"Have they but held her laws and [[Nature|nature]] dear,
 
-    They mouth no sentence of inverted wit";
+They mouth no sentence of inverted wit";
 
 which certainly was what Meredith himself was doing most of the [[Time|time]].
 
@@ -4576,11 +4576,11 @@ _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-    "Of [[Freedom|freedom]] in her regal seat,
+"Of [[Freedom|freedom]] in her regal seat,
 
-    Of England; not the schoolboy heat,
+Of England; not the schoolboy heat,
 
-    The blind hysterics of the Celt"
+The blind hysterics of the Celt"
 
 he quite literally did not know one word of what he was talking about;
 
@@ -4662,9 +4662,9 @@ make the main poem mean exactly what he did not mean. Thus, these two
 
 lines which simply say that
 
-    "Lancelot was the first in tournament,
+"Lancelot was the first in tournament,
 
-    But [[arthur|Arthur]] mightiest in the battle-field"
+But [[arthur|Arthur]] mightiest in the battle-field"
 
 do really express what he meant to express about [[arthur|Arthur]] being after all
 
@@ -4684,13 +4684,13 @@ has always seemed to me splendid, and which does express what the whole
 
 poem should express--but hardly does.
 
-    "That we may lift from out the [[Dust|dust]],
+"That we may lift from out the [[Dust|dust]],
 
-    A voice as unto him that hears
+A voice as unto him that hears
 
-    A cry above the conquered years
+A cry above the conquered years
 
-    Of one that ever works, and trust."
+Of one that ever works, and trust."
 
 The poem should have been a cry above the conquered years. It might [[Well|well]]
 
@@ -4992,9 +4992,9 @@ any positive political fact, such as the final fall of Napoleon.
 
 Tennyson wrote these profoundly foolish lines--
 
-    "He thought to quell the stubborn hearts of oak
+"He thought to quell the stubborn hearts of oak
 
-    Madman!"
+Madman!"
 
 as if the defeat of an English regiment were a violation of the laws of
 
@@ -5004,7 +5004,7 @@ Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napol
 
 in one line
 
-    "And kings crept out again to feel the sun."
+"And kings crept out again to feel the sun."
 
 Talleyrand would have clapped his horrible old hands at that. Her
 
@@ -5204,9 +5204,9 @@ one small "e" gets outside the monosyllable. Through all his
 
 interminable tragedies, he was fondest of lines like--
 
-    "If ever I leave off to [[Honour|honour]] you
+"If ever I leave off to [[Honour|honour]] you
 
-    God give me shame; I were the worst churl born."
+God give me shame; I were the worst churl born."
 
 The dramas were far from being short and dramatic; but the words really
 
@@ -5226,21 +5226,21 @@ is, not that he is smooth and without ridges, but that he always crests
 
 the ridge triumphantly and Browning often does not--
 
-    "On thy bosom though many a kiss be,
+"On thy bosom though many a kiss be,
 
-    There are none such as knew it of old.
+There are none such as knew it of old.
 
-    Was it Alciphron once or Arisbe,
+Was it Alciphron once or Arisbe,
 
-    Male ringlets or feminine gold,
+Male ringlets or feminine gold,
 
-    That thy lips met with under the statue
+That thy lips met with under the statue
 
-    Whence a look shot out sharp after thieves
+Whence a look shot out sharp after thieves
 
-    From the eyes of the [[Garden|garden]]-god at you
+From the eyes of the [[Garden|garden]]-god at you
 
-    Across the fig-[[Leaves|leaves]]."
+Across the fig-[[Leaves|leaves]]."
 
 Look at the rhymes in that verse, and you will see they are as stiff a
 
@@ -5424,15 +5424,15 @@ are successful in the same sense as "Pinnacled dim in the intense inane"
 
 or "Through verdurous glooms and winding mossy ways." But--
 
-    "Indeed, indeed, repentance oft before
+"Indeed, indeed, repentance oft before
 
-    I swore; but was I sober when I swore?"
+I swore; but was I sober when I swore?"
 
 is equally successful in the same sense as--
 
-    "Damn with faint praise, assent with civil leer
+"Damn with faint praise, assent with civil leer
 
-    And without sneering teach the rest to sneer."
+And without sneering teach the rest to sneer."
 
 It thus earned a right to be considered the complete expression of that
 
@@ -5518,17 +5518,17 @@ moments; which were (if they had only known it) much more mediæval than
 
 their mediæval moments. Swinburne could write--
 
-    "We shall see Buonaparte the bastard
+"We shall see Buonaparte the bastard
 
-    Kick heels with his throat in a rope."
+Kick heels with his throat in a rope."
 
 One has an uneasy feeling that William Morris would have written
 
 something like--
 
-    "And the kin of the ill [[King|king]] Bonaparte
+"And the kin of the ill [[King|king]] Bonaparte
 
-    Hath a high gallows for all his part."
+Hath a high gallows for all his part."
 
 Rossetti could, for once in a way, write poetry about a real woman and
 
@@ -5686,11 +5686,11 @@ he made a manly attempt to tread down the decadents and return to the
 
 right reason of Wordsworth--
 
-        "I have not paid the world
+"I have not paid the world
 
-    The evil and the insolent courtesy
+The evil and the insolent courtesy
 
-    Of offering it my baseness as a gift."
+Of offering it my baseness as a gift."
 
 But none of them were able even to understand Francis Thompson; his
 
@@ -6230,7 +6230,7 @@ just going too far. "Plant lilies at my head" has something wrong about
 
 it; something silly that is not there in--
 
-    "And put a grey stone at my head"
+"And put a grey stone at my head"
 
 in the old ballad. But even where Wilde was right, he had a way of being
 
@@ -6244,11 +6244,11 @@ as hostile to the art and civilisation that were his only gods; but ends
 
 by saying--
 
-                                  "And yet
+"And yet
 
-    These Christs that die upon the barricades
+These Christs that die upon the barricades
 
-    God knows that I am with them--in some ways."
+God knows that I am with them--in some ways."
 
 Now that is really very true; that is the way a man of wide reading and
 
@@ -7044,7 +7044,7 @@ forces, gold was sighted from far in a sort of cynical romanticism: the
 
 guns opened across Africa; and the great [[Queen|queen]] died.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 Of what will now be the future of so separate and almost secretive an
 
@@ -7332,7 +7332,7 @@ G. K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/1/8/6/3/18639/
+http://www.gutenberg.org/1/8/6/3/18639/
 
 Produced by Karina Aleksandrova, [[Juliet]] Sutherland and the
 
@@ -7588,53 +7588,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -7828,11 +7828,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -7912,7 +7912,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -8040,11 +8040,11 @@ Shakespeare seems rather proud of talking nonsense: I never can read
 
 that rousing and mounting description of the [[Storm|storm]], where it comes to--
 
-    "Who take the ruffian billows by the top,
+"Who take the ruffian billows by the top,
 
-    Curling their monstrous heads, and _hanging_ them
+Curling their monstrous heads, and _hanging_ them
 
-    With deafening clamour in the slippery clouds."
+With deafening clamour in the slippery clouds."
 
 without seeing an immense balloon rising from the ground, with
 
@@ -11932,9 +11932,9 @@ he actually says of those who live nearest to that [[Nature]] he was always
 
 praising--
 
-    "Have they but held her laws and [[Nature|nature]] dear,
+"Have they but held her laws and [[Nature|nature]] dear,
 
-    They mouth no sentence of inverted wit";
+They mouth no sentence of inverted wit";
 
 which certainly was what Meredith himself was doing most of the [[Time|time]].
 
@@ -12430,11 +12430,11 @@ _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-    "Of [[Freedom|freedom]] in her regal seat,
+"Of [[Freedom|freedom]] in her regal seat,
 
-    Of England; not the schoolboy heat,
+Of England; not the schoolboy heat,
 
-    The blind hysterics of the Celt"
+The blind hysterics of the Celt"
 
 he quite literally did not know one word of what he was talking about;
 
@@ -12516,9 +12516,9 @@ make the main poem mean exactly what he did not mean. Thus, these two
 
 lines which simply say that
 
-    "Lancelot was the first in tournament,
+"Lancelot was the first in tournament,
 
-    But [[arthur|Arthur]] mightiest in the battle-field"
+But [[arthur|Arthur]] mightiest in the battle-field"
 
 do really express what he meant to express about [[arthur|Arthur]] being after all
 
@@ -12544,13 +12544,13 @@ poem should express--but hardly does.
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="Victorian Age — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
 
 
-    "That we may lift from out the [[Dust|dust]],
+"That we may lift from out the [[Dust|dust]],
 
-    A voice as unto him that hears
+A voice as unto him that hears
 
-    A cry above the conquered years
+A cry above the conquered years
 
-    Of one that ever works, and trust."
+Of one that ever works, and trust."
 
 The poem should have been a cry above the conquered years. It might [[Well|well]]
 
@@ -12858,9 +12858,9 @@ any positive political fact, such as the final fall of Napoleon.
 
 Tennyson wrote these profoundly foolish lines--
 
-    "He thought to quell the stubborn hearts of oak
+"He thought to quell the stubborn hearts of oak
 
-    Madman!"
+Madman!"
 
 as if the defeat of an English regiment were a violation of the laws of
 
@@ -12870,7 +12870,7 @@ Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napol
 
 in one line
 
-    "And kings crept out again to feel the sun."
+"And kings crept out again to feel the sun."
 
 Talleyrand would have clapped his horrible old hands at that. Her
 
@@ -13082,9 +13082,9 @@ one small "e" gets outside the monosyllable. Through all his
 
 interminable tragedies, he was fondest of lines like--
 
-    "If ever I leave off to [[Honour|honour]] you
+"If ever I leave off to [[Honour|honour]] you
 
-    God give me shame; I were the worst churl born."
+God give me shame; I were the worst churl born."
 
 The dramas were far from being short and dramatic; but the words really
 
@@ -13104,21 +13104,21 @@ is, not that he is smooth and without ridges, but that he always crests
 
 the ridge triumphantly and Browning often does not--
 
-    "On thy bosom though many a kiss be,
+"On thy bosom though many a kiss be,
 
-    There are none such as knew it of old.
+There are none such as knew it of old.
 
-    Was it Alciphron once or Arisbe,
+Was it Alciphron once or Arisbe,
 
-    Male ringlets or feminine gold,
+Male ringlets or feminine gold,
 
-    That thy lips met with under the statue
+That thy lips met with under the statue
 
-    Whence a look shot out sharp after thieves
+Whence a look shot out sharp after thieves
 
-    From the eyes of the [[Garden|garden]]-god at you
+From the eyes of the [[Garden|garden]]-god at you
 
-    Across the fig-[[Leaves|leaves]]."
+Across the fig-[[Leaves|leaves]]."
 
 Look at the rhymes in that verse, and you will see they are as stiff a
 
@@ -13308,15 +13308,15 @@ are successful in the same sense as "Pinnacled dim in the intense inane"
 
 or "Through verdurous glooms and winding mossy ways." But--
 
-    "Indeed, indeed, repentance oft before
+"Indeed, indeed, repentance oft before
 
-    I swore; but was I sober when I swore?"
+I swore; but was I sober when I swore?"
 
 is equally successful in the same sense as--
 
-    "Damn with faint praise, assent with civil leer
+"Damn with faint praise, assent with civil leer
 
-    And without sneering teach the rest to sneer."
+And without sneering teach the rest to sneer."
 
 It thus earned a right to be considered the complete expression of that
 
@@ -13402,17 +13402,17 @@ moments; which were (if they had only known it) much more mediæval than
 
 their mediæval moments. Swinburne could write--
 
-    "We shall see Buonaparte the bastard
+"We shall see Buonaparte the bastard
 
-    Kick heels with his throat in a rope."
+Kick heels with his throat in a rope."
 
 One has an uneasy feeling that William Morris would have written
 
 something like--
 
-    "And the kin of the ill [[King|king]] Bonaparte
+"And the kin of the ill [[King|king]] Bonaparte
 
-    Hath a high gallows for all his part."
+Hath a high gallows for all his part."
 
 Rossetti could, for once in a way, write poetry about a real woman and
 
@@ -13576,11 +13576,11 @@ he made a manly attempt to tread down the decadents and return to the
 
 right reason of Wordsworth--
 
-        "I have not paid the world
+"I have not paid the world
 
-    The evil and the insolent courtesy
+The evil and the insolent courtesy
 
-    Of offering it my baseness as a gift."
+Of offering it my baseness as a gift."
 
 But none of them were able even to understand Francis Thompson; his
 
@@ -14144,7 +14144,7 @@ just going too far. "Plant lilies at my head" has something wrong about
 
 it; something silly that is not there in--
 
-    "And put a grey stone at my head"
+"And put a grey stone at my head"
 
 in the old ballad. But even where Wilde was right, he had a way of being
 
@@ -14158,11 +14158,11 @@ as hostile to the art and civilisation that were his only gods; but ends
 
 by saying--
 
-                                  "And yet
+"And yet
 
-    These Christs that die upon the barricades
+These Christs that die upon the barricades
 
-    God knows that I am with them--in some ways."
+God knows that I am with them--in some ways."
 
 Now that is really very true; that is the way a man of wide reading and
 
@@ -14988,7 +14988,7 @@ guns opened across Africa; and the great [[Queen|queen]] died.
 <span class="atom-split" data-atom="chapter_04--part_09" data-title="Victorian Age — Chapter 4 (part 9)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
 
-       *       *       *       *       *
+*       *       *       *       *
 
 Of what will now be the future of so separate and almost secretive an
 
@@ -15282,7 +15282,7 @@ G. K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/1/8/6/3/18639/
+http://www.gutenberg.org/1/8/6/3/18639/
 
 Produced by Karina Aleksandrova, [[Juliet]] Sutherland and the
 
@@ -15544,53 +15544,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -15737,53 +15737,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -15982,11 +15982,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -16066,7 +16066,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -16201,11 +16201,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -16285,7 +16285,7 @@ manteniamo gli eBook conformi a una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 

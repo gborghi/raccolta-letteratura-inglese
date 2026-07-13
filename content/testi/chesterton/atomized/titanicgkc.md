@@ -52,7 +52,7 @@ Down in [[Death|death]]'s throat with thunderings--
 Ah, though the unreal things have grown,  
 Believe me, there are real things.  
 
-		ENVOY.  
+ENVOY.  
 
 Prince, though your hair is not your own  
 And half your face held on by strings,  
@@ -64,7 +64,7 @@ And if you sat, you'd smash your throne--
 
 Una Ballata di Cose Teatrali  
 
-		 Di G.K. Chesterton 
+Di G.K. Chesterton 
 
 [Da un programma-ricordo prodotto per un evento benefico  
 a [[London|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
@@ -100,7 +100,7 @@ giù nella gola della [[Death|morte]] tra i tuoni--
 ah, per quanto le cose irreali siano cresciute,  
 credetemi, esistono cose reali.  
 
-		CONGEDO.  
+CONGEDO.  
 
 Principe, benché i tuoi capelli non siano i tuoi  
 e metà del tuo volto sia retta da spaghi,  
@@ -150,7 +150,7 @@ Down in [[Death|death]]'s throat with thunderings--
 Ah, though the unreal things have grown,  
 Believe me, there are real things.  
 
-		ENVOY.  
+ENVOY.  
 
 Prince, though your hair is not your own  
 And half your face held on by strings,  
@@ -162,7 +162,7 @@ And if you sat, you'd smash your throne--
 
 Una Ballata di Cose Teatrali  
 
-		 Di G.K. Chesterton 
+Di G.K. Chesterton 
 
 [Da un programma-ricordo prodotto per un evento benefico  
 a [[London|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
@@ -198,7 +198,7 @@ giù nella gola della [[Death|morte]] tra i tuoni--
 ah, per quanto le cose irreali siano cresciute,  
 credetemi, esistono cose reali.  
 
-		CONGEDO.  
+CONGEDO.  
 
 Principe, benché i tuoi capelli non siano i tuoi  
 e metà del tuo volto sia retta da spaghi,  

@@ -1857,19 +1857,19 @@ never been rubbed down by an old English University.  The reader
 will remember that when the Periwinkle-girl was adored by two Dukes,
 the poet added--
 
-  "A third adorer had the girl,
-    A man of lowly station;
-   A miserable grovelling Earl
-    Besought her approbation."
+"A third adorer had the girl,
+A man of lowly station;
+A miserable grovelling Earl
+Besought her approbation."
 
 Perhaps, indeed, some allusion to our University system, and to
 the universal clash in it of all the classes of the community,
 may be found in the verse a little farther on, which says--
 
-  "He'd had, it happily befell,
-    A decent [[Education|education]];
-  His views would have befitted [[Well|well]]
-    A far superior station."
+"He'd had, it happily befell,
+A decent [[Education|education]];
+His views would have befitted [[Well|well]]
+A far superior station."
 
 Possibly there was as simple a chasm between Lord Curzon and Lord Milner.
 But I am afraid that the chasm will become almost imperceptible,
@@ -3373,8 +3373,8 @@ a noble Roman reporter, would be that since he could not report
 the whole of the speech, he should report some of the speech.
 He might say--"Mr. [[Mark Antony]], in the course of his speech, said--
 
- 'When that the poor have cried Cæsar hath wept:
-  [[Ambition]] should be made of sterner stuff.'"
+'When that the poor have cried Cæsar hath wept:
+[[Ambition]] should be made of sterner stuff.'"
 
 In that case one good, solid argument of [[Mark Antony]] would be
 correctly reported.  The third and far higher course for the Roman
@@ -4228,8 +4228,8 @@ only in some particular thing.  Have you ever noticed that strange
 line of Tennyson, in which he confesses, half consciously,
 how very _conventional_ progress is?--
 
-  "Let the great world spin for ever down the ringing
-  grooves of change."
+"Let the great world spin for ever down the ringing
+grooves of change."
 
 Even in praising change, he takes for a simile the most unchanging thing.
 He calls our modern change a groove.  And it is a groove;
@@ -4828,8 +4828,8 @@ familiar with the practice of physical assault), he has, I say,
 called up a hundred times the picture of the terrible [[Freedom|freedom]]
 of the fairies, who typify the ultimate anarchy of art--
 
-  "Where nobody grows old or weary or wise,
-  Where nobody grows old or godly or [[Grave|grave]]."
+"Where nobody grows old or weary or wise,
+Where nobody grows old or godly or [[Grave|grave]]."
 
 But, after all (it is a shocking thing to say), I [[Doubt|doubt]] whether
 Mr. Yeats really knows the real [[philosophy]] of the fairies.  He is not
@@ -5625,7 +5625,7 @@ End of Project Gutenberg's All Things Considered, by G. K. Chesterton
 
 ***** This file should be named 11505-8.txt or 11505-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/1/5/0/11505/
+http://www.gutenberg.net/1/1/5/0/11505/
 
 Produced by Robert Shimmin, jayam and the Online Distributed Proofreading
 Team
@@ -5775,33 +5775,33 @@ access to or distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
@@ -5913,9 +5913,9 @@ information can be found at the Foundation's web site and official
 page at http://pglaf.org
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -5975,7 +5975,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
@@ -5988,10 +5988,10 @@ download any of these eBooks directly, rather than using the regular
 search system you may utilize the following addresses and just
 download by the etext year.
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 filed in a different way.  The year of a release date is no longer part
@@ -6000,18 +6000,18 @@ identical to the filename).  The path to the file is made up of single
 digits corresponding to all but the last digit in the filename.  For
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 
 
-<span class="atom-split" data-atom="story_01_the_case_for_the_ephemeral_ephemeral" data-title="AllThingsConsidered-8 — THE CASE FOR THE EPHEMERAL" data-chapter="Story 01 THE CASE FOR THE ephemeral EPHEMERAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_case_for_the_ephemeral_ephemeral" data-title="AllThingsConsidered-8 — THE CASE FOR THE EPHEMERAL" data-chapter="THE CASE FOR THE ephemeral EPHEMERAL" data-kind="story"></span>
 
 
 THE CASE FOR THE [[ephemeral|EPHEMERAL]]
@@ -6201,7 +6201,7 @@ L'ultima accusa contro questo libro è la peggiore di tutte. È semplicemente qu
 
 
 
-<span class="atom-split" data-atom="story_03_the_fallacy_of_success_success" data-title="AllThingsConsidered-8 — THE FALLACY OF SUCCESS" data-chapter="Story 03 THE FALLACY OF success SUCCESS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_fallacy_of_success_success" data-title="AllThingsConsidered-8 — THE FALLACY OF SUCCESS" data-chapter="THE FALLACY OF success SUCCESS" data-kind="story"></span>
 
 
 THE FALLACY OF [[success|SUCCESS]]
@@ -6423,7 +6423,7 @@ Almeno, [[Hope|speriamo]] di vivere tutti abbastanza a lungo da vedere questi as
 
 
 
-<span class="atom-split" data-atom="story_04_on_running_after_one_s_hat" data-title="AllThingsConsidered-8 — ON RUNNING AFTER ONE'S HAT" data-chapter="Story 04 ON RUNNING AFTER ONE S HAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_running_after_one_s_hat" data-title="AllThingsConsidered-8 — ON RUNNING AFTER ONE'S HAT" data-chapter="ON RUNNING AFTER ONE S HAT" data-kind="story"></span>
 
 
 ON RUNNING AFTER ONE'S HAT
@@ -6671,7 +6671,7 @@ l'[[Water|acqua]] è buona con ogni cosa tranne che col vino.
 
 
 
-<span class="atom-split" data-atom="story_06_conceit_and_caricature" data-title="AllThingsConsidered-8 — CONCEIT AND CARICATURE" data-chapter="Story 06 CONCEIT AND CARICATURE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_conceit_and_caricature" data-title="AllThingsConsidered-8 — CONCEIT AND CARICATURE" data-chapter="CONCEIT AND CARICATURE" data-kind="story"></span>
 
 
 CONCEIT AND CARICATURE
@@ -6867,7 +6867,7 @@ Affine a questa questione è quella consimile su cui tanto spesso udiamo un [[In
 
 
 
-<span class="atom-split" data-atom="story_07_patriotism_and_sport" data-title="AllThingsConsidered-8 — PATRIOTISM AND SPORT" data-chapter="Story 07 PATRIOTISM AND SPORT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_patriotism_and_sport" data-title="AllThingsConsidered-8 — PATRIOTISM AND SPORT" data-chapter="PATRIOTISM AND SPORT" data-kind="story"></span>
 
 
 PATRIOTISM AND SPORT.
@@ -7043,7 +7043,7 @@ Nell'epoca di Waterloo esisteva un generale atletismo alla buona, alla carlona, 
 
 
 
-<span class="atom-split" data-atom="story_08_an_essay_essay_on_two_cities" data-title="AllThingsConsidered-8 — AN ESSAY ON TWO CITIES" data-chapter="Story 08 AN Essay ESSAY ON TWO CITIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_an_essay_essay_on_two_cities" data-title="AllThingsConsidered-8 — AN ESSAY ON TWO CITIES" data-chapter="AN Essay ESSAY ON TWO CITIES" data-kind="story"></span>
 
 
 AN [[Essay|ESSAY]] ON TWO CITIES.
@@ -7189,7 +7189,7 @@ Purtroppo, ho notato in molti aspetti della nostra [[Education|istruzione]] popo
 
 
 
-<span class="atom-split" data-atom="story_09_french_and_english" data-title="AllThingsConsidered-8 — FRENCH AND ENGLISH" data-chapter="Story 09 FRENCH AND ENGLISH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_french_and_english" data-title="AllThingsConsidered-8 — FRENCH AND ENGLISH" data-chapter="FRENCH AND ENGLISH" data-kind="story"></span>
 
 
 FRENCH AND ENGLISH
@@ -7357,7 +7357,7 @@ Quando mi trovavo a [[Paris|Parigi]] non molto [[Time|tempo]] fa, andai con un m
 
 
 
-<span class="atom-split" data-atom="story_10_the_zola_controversy" data-title="AllThingsConsidered-8 — THE ZOLA CONTROVERSY" data-chapter="Story 10 THE ZOLA CONTROVERSY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_zola_controversy" data-title="AllThingsConsidered-8 — THE ZOLA CONTROVERSY" data-chapter="THE ZOLA CONTROVERSY" data-kind="story"></span>
 
 
 THE ZOLA CONTROVERSY
@@ -7540,7 +7540,7 @@ Questa è, s'intende, l'intera questione di Zola. Sono adulto, e non mi tormento
 
 
 
-<span class="atom-split" data-atom="story_12_woman" data-title="AllThingsConsidered-8 — WOMAN" data-chapter="Story 12 WOMAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_woman" data-title="AllThingsConsidered-8 — WOMAN" data-chapter="WOMAN" data-kind="story"></span>
 
 
 WOMAN
@@ -7736,7 +7736,7 @@ Ho anch'io le mie piccole idee sulla possibile emancipazione della donna; ma sup
 
 
 
-<span class="atom-split" data-atom="story_13_the_modern_martyr" data-title="AllThingsConsidered-8 — THE MODERN MARTYR" data-chapter="Story 13 THE MODERN MARTYR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_modern_martyr" data-title="AllThingsConsidered-8 — THE MODERN MARTYR" data-chapter="THE MODERN MARTYR" data-kind="story"></span>
 
 
 THE MODERN MARTYR
@@ -7910,7 +7910,7 @@ Oppure, di nuovo, la cosa potrebbe essere posta in questo modo. I martirî moder
 
 
 
-<span class="atom-split" data-atom="story_14_on_political_secrecy" data-title="AllThingsConsidered-8 — ON POLITICAL SECRECY" data-chapter="Story 14 ON POLITICAL SECRECY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_on_political_secrecy" data-title="AllThingsConsidered-8 — ON POLITICAL SECRECY" data-chapter="ON POLITICAL SECRECY" data-kind="story"></span>
 
 
 ON POLITICAL SECRECY
@@ -8262,7 +8262,7 @@ In verità non ci manca nulla, tranne la religione.
 
 
 
-<span class="atom-split" data-atom="story_15_edward_vii_and_scotland" data-title="AllThingsConsidered-8 — EDWARD VII.  AND SCOTLAND" data-chapter="Story 15 EDWARD VII AND SCOTLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_edward_vii_and_scotland" data-title="AllThingsConsidered-8 — EDWARD VII.  AND SCOTLAND" data-chapter="EDWARD VII AND SCOTLAND" data-kind="story"></span>
 
 
 EDWARD VII.  AND SCOTLAND
@@ -8620,7 +8620,7 @@ quelli che pure più facilmente collegavamo alla terra.
 
 
 
-<span class="atom-split" data-atom="story_16_thoughts_around_koepenick" data-title="AllThingsConsidered-8 — THOUGHTS AROUND KOEPENICK" data-chapter="Story 16 THOUGHTS AROUND KOEPENICK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_thoughts_around_koepenick" data-title="AllThingsConsidered-8 — THOUGHTS AROUND KOEPENICK" data-chapter="THOUGHTS AROUND KOEPENICK" data-kind="story"></span>
 
 
 THOUGHTS AROUND KOEPENICK
@@ -8817,7 +8817,7 @@ La nostra tendenza, da molti secoli a questa parte, è stata non tanto quella di
 
 
 
-<span class="atom-split" data-atom="story_18_limericks_and_counsels_of_perfection" data-title="AllThingsConsidered-8 — LIMERICKS AND COUNSELS OF PERFECTION" data-chapter="Story 18 LIMERICKS AND COUNSELS OF PERFECTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_limericks_and_counsels_of_perfection" data-title="AllThingsConsidered-8 — LIMERICKS AND COUNSELS OF PERFECTION" data-chapter="LIMERICKS AND COUNSELS OF PERFECTION" data-kind="story"></span>
 
 
 LIMERICKS AND COUNSELS OF PERFECTION
@@ -8988,7 +8988,7 @@ Terzo: farei del mio meglio per introdurre dovunque la pratica degli articoli fi
 
 
 
-<span class="atom-split" data-atom="story_19_anonymity_and_further_counsels" data-title="AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS" data-chapter="Story 19 ANONYMITY AND FURTHER COUNSELS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_anonymity_and_further_counsels" data-title="AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS" data-chapter="ANONYMITY AND FURTHER COUNSELS" data-kind="story"></span>
 
 
 ANONYMITY AND FURTHER COUNSELS
@@ -9135,7 +9135,7 @@ Infine, si dovrebbe imporre in pratica per consuetudine (giacché si dà il caso
 
 
 
-<span class="atom-split" data-atom="story_20_on_the_cryptic_and_the_elliptic" data-title="AllThingsConsidered-8 — ON THE CRYPTIC AND THE ELLIPTIC" data-chapter="Story 20 ON THE CRYPTIC AND THE ELLIPTIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_on_the_cryptic_and_the_elliptic" data-title="AllThingsConsidered-8 — ON THE CRYPTIC AND THE ELLIPTIC" data-chapter="ON THE CRYPTIC AND THE ELLIPTIC" data-kind="story"></span>
 
 
 ON THE CRYPTIC AND THE ELLIPTIC
@@ -9211,8 +9211,8 @@ a noble Roman reporter, would be that since he could not report
 the whole of the speech, he should report some of the speech.
 He might say--"Mr. [[Mark Antony]], in the course of his speech, said--
 
- 'When that the poor have cried Cæsar hath wept:
-  [[Ambition]] should be made of sterner stuff.'"
+'When that the poor have cried Cæsar hath wept:
+[[Ambition]] should be made of sterner stuff.'"
 
 In that case one good, solid argument of [[Mark Antony]] would be
 correctly reported.  The third and far higher course for the Roman
@@ -9402,8 +9402,8 @@ di un nobile cronista romano, sarebbe stato che, non potendo riportare
 l'intero discorso, ne riportasse una parte. Egli
 potrebbe dire: «Il signor [[Mark Antony]], nel corso del suo discorso, ha detto:
 
- "Quando i poveri han pianto, Cesare ha pianto:
-  d'una stoffa più dura dovrebbe esser fatta l'[[Ambition|ambizione]]."»
+"Quando i poveri han pianto, Cesare ha pianto:
+d'una stoffa più dura dovrebbe esser fatta l'[[Ambition|ambizione]]."»
 
 In tal caso un buon, solido argomento di [[Mark Antony]] verrebbe
 riportato correttamente. La terza e assai più alta via per il cronista
@@ -9519,7 +9519,7 @@ che riporta un discorso con troppa abilità fa sì che esso non significhi più 
 
 
 
-<span class="atom-split" data-atom="story_21_the_worship_of_the_wealthy" data-title="AllThingsConsidered-8 — THE WORSHIP OF THE WEALTHY" data-chapter="Story 21 THE WORSHIP OF THE WEALTHY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_worship_of_the_wealthy" data-title="AllThingsConsidered-8 — THE WORSHIP OF THE WEALTHY" data-chapter="THE WORSHIP OF THE WEALTHY" data-kind="story"></span>
 
 
 THE WORSHIP OF THE WEALTHY
@@ -9668,7 +9668,7 @@ Ma questo procedimento, già abbastanza assurdo quando applicato alla vita ordin
 
 
 
-<span class="atom-split" data-atom="story_22_science_and_religion" data-title="AllThingsConsidered-8 — SCIENCE AND RELIGION" data-chapter="Story 22 SCIENCE AND RELIGION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_science_and_religion" data-title="AllThingsConsidered-8 — SCIENCE AND RELIGION" data-chapter="SCIENCE AND RELIGION" data-kind="story"></span>
 
 
 SCIENCE AND RELIGION
@@ -9832,7 +9832,7 @@ Naturalmente la vera [[Truth|verità]] è che la scienza non ha introdotto nella
 
 
 
-<span class="atom-split" data-atom="story_23_the_methuselahite_methuselahite" data-title="AllThingsConsidered-8 — THE METHUSELAHITE" data-chapter="Story 23 THE methuselahite METHUSELAHITE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_methuselahite_methuselahite" data-title="AllThingsConsidered-8 — THE METHUSELAHITE" data-chapter="THE methuselahite METHUSELAHITE" data-kind="story"></span>
 
 
 THE [[methuselahite|METHUSELAHITE]]
@@ -9939,7 +9939,7 @@ Poiché, in verità, la debolezza di questo culto della mera vita naturale (che 
 
 
 
-<span class="atom-split" data-atom="story_24_spiritualism" data-title="AllThingsConsidered-8 — SPIRITUALISM" data-chapter="Story 24 SPIRITUALISM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_spiritualism" data-title="AllThingsConsidered-8 — SPIRITUALISM" data-chapter="SPIRITUALISM" data-kind="story"></span>
 
 
 SPIRITUALISM.
@@ -10101,7 +10101,7 @@ Questa è la vera distinzione fra l'indagine in questo dipartimento e l'indagine
 
 
 
-<span class="atom-split" data-atom="story_25_the_error_of_impartiality" data-title="AllThingsConsidered-8 — THE ERROR OF IMPARTIALITY" data-chapter="Story 25 THE ERROR OF IMPARTIALITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_error_of_impartiality" data-title="AllThingsConsidered-8 — THE ERROR OF IMPARTIALITY" data-chapter="THE ERROR OF IMPARTIALITY" data-kind="story"></span>
 
 
 THE ERROR OF IMPARTIALITY
@@ -10220,7 +10220,7 @@ Non pareva venire in mente a simili polemisti che, se il cardinale Newman era da
 
 
 
-<span class="atom-split" data-atom="story_26_phonetic_spelling" data-title="AllThingsConsidered-8 — PHONETIC SPELLING" data-chapter="Story 26 PHONETIC SPELLING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_phonetic_spelling" data-title="AllThingsConsidered-8 — PHONETIC SPELLING" data-chapter="PHONETIC SPELLING" data-kind="story"></span>
 
 
 PHONETIC SPELLING
@@ -10356,7 +10356,7 @@ Ecco un caso appena accaduto. Un certo magistrato disse a qualcuno che stava int
 
 
 
-<span class="atom-split" data-atom="story_27_humanitarianism_humanitarianism_and_stre" data-title="AllThingsConsidered-8 — HUMANITARIANISM AND STRENGTH" data-chapter="Story 27 Humanitarianism HUMANITARIANISM AND STRE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_humanitarianism_humanitarianism_and_stre" data-title="AllThingsConsidered-8 — HUMANITARIANISM AND STRENGTH" data-chapter="Humanitarianism HUMANITARIANISM AND STRE" data-kind="story"></span>
 
 
 [[Humanitarianism|HUMANITARIANISM]] AND STRENGTH
@@ -10384,8 +10384,8 @@ only in some particular thing.  Have you ever noticed that strange
 line of Tennyson, in which he confesses, half consciously,
 how very _conventional_ progress is?--
 
-  "Let the great world spin for ever down the ringing
-  grooves of change."
+"Let the great world spin for ever down the ringing
+grooves of change."
 
 Even in praising change, he takes for a simile the most unchanging thing.
 He calls our modern change a groove.  And it is a groove;
@@ -10542,8 +10542,8 @@ agree about nothing any more than you can quarrel about nothing.
 
 Qualcuno mi scrive lamentandosi di qualcosa che ho detto a proposito del progresso. Ho dimenticato che cosa dissi, ma sono del tutto certo che fosse (come un certo Mr. Douglas in una poesia che ho parimenti dimenticato) tenero e sincero. In ogni caso, ecco quel che dico ora. La [[history|storia]] umana è tanto ricca e intricata che si può costruire una tesi a favore di qualsiasi corso di miglioramento o di regresso. Potrei dimostrare che il mondo è andato facendosi più democratico, poiché il suffragio inglese è di certo divenuto più democratico. Potrei del pari dimostrare che il mondo è andato facendosi più aristocratico, poiché le Public Schools inglesi sono di certo divenute più aristocratiche. Potrei provare il declino del militarismo con il declino della fustigazione; potrei provare l'incremento del militarismo con l'incremento degli eserciti permanenti e della coscrizione. Ma per questa via posso provare qualunque cosa. Posso provare che il mondo è sempre andato facendosi più verde. Solo di recente gli uomini hanno inventato l'assenzio e la _Westminster Gazette_. Potrei provare che il mondo si è fatto meno verde. Non ci sono più i forestali di [[Robin Hood]], e i campi vanno coprendosi di case. Potrei mostrare che il mondo era meno rosso di kaki o più rosso dei nuovi francobolli da un penny. Ma in tutti i casi il progresso significa progresso soltanto in qualche cosa particolare. Avete mai notato quello strano verso di Tennyson, in cui egli confessa, per metà consapevolmente, quanto sia _convenzionale_ il progresso?—
 
-  «Lascia che il vasto mondo ruoti in eterno giù per i risonanti
-  solchi del mutamento.»
+«Lascia che il vasto mondo ruoti in eterno giù per i risonanti
+solchi del mutamento.»
 
 Persino nel lodare il mutamento, egli prende a similitudine la cosa più immutabile. Chiama solco il nostro mutamento moderno. Ed è un solco; forse non ci fu mai nulla di tanto solcato.
 
@@ -10563,7 +10563,7 @@ Non posso fare a meno di pensare che vi sia qualche [[Shadow|ombra]] di questo i
 
 
 
-<span class="atom-split" data-atom="story_28_wine_when_it_is_red" data-title="AllThingsConsidered-8 — WINE WHEN IT IS RED" data-chapter="Story 28 WINE WHEN IT IS RED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_wine_when_it_is_red" data-title="AllThingsConsidered-8 — WINE WHEN IT IS RED" data-chapter="WINE WHEN IT IS RED" data-kind="story"></span>
 
 
 WINE WHEN IT IS RED
@@ -10704,7 +10704,7 @@ Il medico, naturalmente, dovrebbe poter fare molto per frenare quei casi individ
 
 
 
-<span class="atom-split" data-atom="story_29_demagogues_and_mystagogues" data-title="AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES" data-chapter="Story 29 DEMAGOGUES AND MYSTAGOGUES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_demagogues_and_mystagogues" data-title="AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES" data-chapter="DEMAGOGUES AND MYSTAGOGUES" data-kind="story"></span>
 
 
 DEMAGOGUES AND MYSTAGOGUES
@@ -10875,7 +10875,7 @@ L'unica cosa da fare o da dire in risposta, suppongo, sarebbe applicare a nostra
 
 
 
-<span class="atom-split" data-atom="story_30_the_eatanswill_gazette" data-title="AllThingsConsidered-8 — THE &quot;EATANSWILL GAZETTE&quot;" data-chapter="Story 30 THE EATANSWILL GAZETTE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_eatanswill_gazette" data-title="AllThingsConsidered-8 — THE &quot;EATANSWILL GAZETTE&quot;" data-chapter="THE EATANSWILL GAZETTE" data-kind="story"></span>
 
 
 THE "EATANSWILL GAZETTE."
@@ -11053,7 +11053,7 @@ Devo confessare, tuttavia, che propendo per la parte di Sudbury nella disputa. C
 
 
 
-<span class="atom-split" data-atom="story_31_fairy_tales" data-title="AllThingsConsidered-8 — FAIRY TALES" data-chapter="Story 31 FAIRY TALES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_fairy_tales" data-title="AllThingsConsidered-8 — FAIRY TALES" data-chapter="FAIRY TALES" data-kind="story"></span>
 
 
 FAIRY TALES
@@ -11083,8 +11083,8 @@ familiar with the practice of physical assault), he has, I say,
 called up a hundred times the picture of the terrible [[Freedom|freedom]]
 of the fairies, who typify the ultimate anarchy of art--
 
-  "Where nobody grows old or weary or wise,
-  Where nobody grows old or godly or [[Grave|grave]]."
+"Where nobody grows old or weary or wise,
+Where nobody grows old or godly or [[Grave|grave]]."
 
 But, after all (it is a shocking thing to say), I [[Doubt|doubt]] whether
 Mr. Yeats really knows the real [[philosophy]] of the fairies.  He is not
@@ -11178,8 +11178,8 @@ LE FIABE
 
 Certune persone solenni e superficiali (giacché quasi tutte le persone assai superficiali sono solenni) hanno dichiarato che le fiabe sono immorali; e fondano tale accusa su qualche circostanza accidentale o su qualche increscioso incidente nella guerra fra i giganti e i fanciulli, su taluni casi in cui questi ultimi si sono abbandonati a inganni poco caritatevoli, o addirittura a burle. L'obiezione, tuttavia, non è soltanto falsa, ma per l'appunto il rovescio dei fatti. Le fiabe, alla radice, non sono soltanto morali nel senso di essere [[Innocent|innocenti]], ma morali nel senso di essere didattiche, morali nel senso di essere moraleggianti. Sta tutto [[Well|bene]] parlare della [[Freedom|libertà]] del paese delle fate, ma di [[Freedom|libertà]], in quel paese, ce n'era assai poca, stando alle migliori relazioni ufficiali. Il signor W.B. Yeats e altre anime moderne dalla fine sensibilità, avvertendo che la vita moderna è pressappoco una [[Slavery|schiavitù]] tra le più nere che mai abbiano oppresso il genere umano (e su questo hanno pienamente ragione), hanno descritto il regno degli elfi soprattutto come un luogo di assoluta agiatezza e abbandono: un luogo dove l'[[Soul|anima]] può volgersi in ogni direzione a suo talento, come il [[Wind|vento]]. La scienza condanna l'idea di un Dio capriccioso; ma la scuola del signor Yeats lascia intendere che, in quel mondo, ciascuno è un dio capriccioso. Il signor Yeats medesimo ha detto cento volte, in quello stile letterario mesto e splendido che ne fa il primo fra tutti i poeti che oggi scrivono in inglese (non dirò fra tutti i poeti inglesi, ché gli irlandesi hanno pratica dell'aggressione fisica), ha, dico, evocato cento volte l'immagine della terribile [[Freedom|libertà]] delle fate, che simboleggiano l'ultima anarchia dell'arte:
 
-  «Dove nessuno diventa vecchio o stanco o saggio,
-  Dove nessuno diventa vecchio o pio o [[Grave|grave]].»
+«Dove nessuno diventa vecchio o stanco o saggio,
+Dove nessuno diventa vecchio o pio o [[Grave|grave]].»
 
 Ma, dopotutto (è cosa sconvolgente da dire), [[Doubt|dubito]] che il signor Yeats conosca davvero la vera [[philosophy|filosofia]] delle fate. Egli non è abbastanza semplice; non è abbastanza sciocco. Benché non stia a me dirlo, in fatto di buona, solida sciocchezza umana metterei al tappeto il signor Yeats un giorno qualunque. Le fate mi vogliono più bene che al signor Yeats; possono darla a bere più a me. E dubito assai che questo senso degli spiriti liberi e selvaggi sulla cresta della [[Hill|collina]] o dell'onda sia davvero lo spirito centrale e semplice del folklore. Credo che i poeti abbiano commesso un errore: poiché il mondo delle fiabe è un mondo più luminoso e più vario del nostro, l'hanno immaginato meno morale; in realtà è più luminoso e più vario proprio perché è più morale. Si supponga che un uomo potesse nascere in una [[Prison|prigione]] moderna. È impossibile, s'intende, giacché nulla di umano può accadere in una [[Prison|prigione]] moderna, benché talvolta potesse accadere in un antico sotterraneo. Una [[Prison|prigione]] moderna è sempre inumana, anche quando non è disumana. Ma si supponga che un uomo nascesse in una [[Prison|prigione]] moderna, e si fosse assuefatto al mortale [[Silence|silenzio]] e alla ripugnante indifferenza; e si supponga che poi venisse d'un tratto lasciato libero in mezzo alla vita e alle risa di Fleet Street. Penserebbe, s'intende, che i letterati di Fleet Street fossero una razza libera e felice; eppure quanto tristemente, quanto ironicamente è vero il contrario! E così, di rimando, questi affaticati servi della gleba di Fleet Street, quando colgono un barlume delle fate, credono che le fate siano assolutamente libere. Ma le fate somigliano ai giornalisti in questo e in molti altri rispetti. Le fate e i giornalisti hanno un'apparente allegria e una fallace [[Beauty|bellezza]]. Le fate e i giornalisti paiono leggiadri e senza legge; paiono, gli uni e le altre, troppo squisiti per abbassarsi alla bruttezza del dovere quotidiano. Ma è un'illusione creata dall'improvvisa dolcezza della loro presenza. I giornalisti vivono sotto la legge; e così, di fatto, il paese delle fate.
 
@@ -11189,7 +11189,7 @@ Questa grande idea, dunque, è la spina dorsale di tutto il folklore: l'idea che
 
 
 
-<span class="atom-split" data-atom="story_32_tom_jones_jones_and_morality_morality" data-title="AllThingsConsidered-8 — TOM JONES AND MORALITY" data-chapter="Story 32 TOM Jones JONES AND morality MORALITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_tom_jones_jones_and_morality_morality" data-title="AllThingsConsidered-8 — TOM JONES AND MORALITY" data-chapter="TOM Jones JONES AND morality MORALITY" data-kind="story"></span>
 
 
 TOM [[Jones|JONES]] AND [[morality|MORALITY]]
@@ -11373,7 +11373,7 @@ Questa concezione più antica e più salda del giusto come qualcosa che esiste a
 
 
 
-<span class="atom-split" data-atom="story_33_the_maid_of_orleans" data-title="AllThingsConsidered-8 — THE MAID OF ORLEANS" data-chapter="Story 33 THE MAID OF ORLEANS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_maid_of_orleans" data-title="AllThingsConsidered-8 — THE MAID OF ORLEANS" data-chapter="THE MAID OF ORLEANS" data-kind="story"></span>
 
 
 THE MAID OF ORLEANS
@@ -11532,7 +11532,7 @@ Non spetta a noi spiegare questa figura fiammeggiante nei termini della nostra c
 
 
 
-<span class="atom-split" data-atom="story_34_a_dead_poet" data-title="AllThingsConsidered-8 — A DEAD POET" data-chapter="Story 34 A DEAD POET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_a_dead_poet" data-title="AllThingsConsidered-8 — A DEAD POET" data-chapter="A DEAD POET" data-kind="story"></span>
 
 
 A DEAD POET
@@ -11681,7 +11681,7 @@ Ora, le persone di indole poetica come Francis Thompson, stando così le cose, t
 
 
 
-<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_01" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 1)" data-chapter="Story 02 cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_01" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 1)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
 
 
 [[cockneys|COCKNEYS]] AND THEIR JOKES
@@ -11792,7 +11792,7 @@ Credo fermamente nel valore di tutte le nozioni volgari, e specialmente delle fa
 
 
 
-<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_02" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 2)" data-chapter="Story 02 cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_02" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 2)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
 
 
 Quite equally subtle and spiritual is the idea at the back
@@ -11930,7 +11930,7 @@ Ma c'è un altro caso più piacevole e più attuale. I giornali popolari si osti
 
 
 
-<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_01" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)" data-chapter="Story 05 THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_01" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
 
 
 THE VOTE AND THE [[house|HOUSE]]
@@ -12063,7 +12063,7 @@ La maggioranza delle persone raffinate dei nostri giorni si può generalmente ud
 
 
 
-<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_02" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 2)" data-chapter="Story 05 THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_02" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 2)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
 
 
 If it is true that the Commons' [[house|House]] will not hold all the Commons,
@@ -12166,7 +12166,7 @@ E lo stesso avviene nei rapporti tra un'anomalia e la mente logica. Il pessimist
 
 
 
-<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_01" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)" data-chapter="Story 11 Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_01" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
 
 
 [[Oxford|OXFORD]] FROM WITHOUT
@@ -12255,19 +12255,19 @@ never been rubbed down by an old English University.  The reader
 will remember that when the Periwinkle-girl was adored by two Dukes,
 the poet added--
 
-  "A third adorer had the girl,
-    A man of lowly station;
-   A miserable grovelling Earl
-    Besought her approbation."
+"A third adorer had the girl,
+A man of lowly station;
+A miserable grovelling Earl
+Besought her approbation."
 
 Perhaps, indeed, some allusion to our University system, and to
 the universal clash in it of all the classes of the community,
 may be found in the verse a little farther on, which says--
 
-  "He'd had, it happily befell,
-    A decent [[Education|education]];
-  His views would have befitted [[Well|well]]
-    A far superior station."
+"He'd had, it happily befell,
+A decent [[Education|education]];
+His views would have befitted [[Well|well]]
+A far superior station."
 
 Possibly there was as simple a chasm between Lord Curzon and Lord Milner.
 But I am afraid that the chasm will become almost imperceptible,
@@ -12307,17 +12307,17 @@ Quei tre nomi prostrano il mio intelletto. Il resto dell'argomentazione lo compr
 
 Vi è, tuttavia, una mite ma assai evidente [[Truth|verità]] che forse varrebbe la pena di ricordare. Ed è questa: che nessuna di quelle tre eccellenti persone è, o è mai stata, un povero nel senso in cui quella parola è intesa dalla schiacciante maggioranza della nazione inglese. A [[Oxford]] non esistono poveri nel senso in cui è povera la maggioranza degli uomini che si incontrano per strada. Il fatto stesso che lo scrittore dell'_Outlook_ possa parlare di gente simile come di poveri dimostra che egli non comprende quale sia il problema moderno. La sua specie di povero mi ricorda piuttosto il Conte della ballata di quel grande satirico inglese, Sir W.S. Gilbert, le cui spigolosità (spigolosità assai acute) non erano mai state, [[Fear|temo]], smussate da un'antica Università inglese. Il lettore ricorderà che, quando la fanciulla del Pervinca era adorata da due Duchi, il poeta aggiunse...
 
-  «Un terzo spasimante ebbe la ragazza,
-    uomo di umile condizione;
-   un miserabile Conte strisciante
-    ne implorava l'approvazione.»
+«Un terzo spasimante ebbe la ragazza,
+uomo di umile condizione;
+un miserabile Conte strisciante
+ne implorava l'approvazione.»
 
 Forse, in verità, qualche allusione al nostro sistema universitario, e all'universale collisione in esso di tutte le classi della comunità, si potrebbe rinvenire nella strofa poco più avanti, che dice...
 
-  «Aveva avuto, per felice sorte,
-    una [[Education|educazione]] decorosa;
-  le sue vedute si sarebbero addette [[Well|bene]]
-    a una condizione assai superiore.»
+«Aveva avuto, per felice sorte,
+una [[Education|educazione]] decorosa;
+le sue vedute si sarebbero addette [[Well|bene]]
+a una condizione assai superiore.»
 
 Forse fra Lord Curzon e Lord Milner correva un abisso altrettanto semplice. Ma temo che l'abisso diverrà quasi impercettibile, una crepa microscopica, se lo paragoniamo all'abisso che separa l'uno o entrambi dal popolo di questo paese.
 
@@ -12325,7 +12325,7 @@ Naturalmente la [[Truth|verità]] è esattamente come l'ha esposta il Vescovo di
 
 
 
-<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_02" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 2)" data-chapter="Story 11 Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_02" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 2)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
 
 
 To pretend that the [[aristocrat]] meets all classes at [[Oxford]] is too
@@ -12432,7 +12432,7 @@ L'umanità, sognando da sempre una razza felice, libera, fantasiosa e serena, l'
 
 
 
-<span class="atom-split" data-atom="story_17_the_boy--part_01" data-title="AllThingsConsidered-8 — THE BOY (part 1)" data-chapter="Story 17 THE BOY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_boy--part_01" data-title="AllThingsConsidered-8 — THE BOY (part 1)" data-chapter="THE BOY" data-kind="excerpt"></span>
 
 
 THE BOY
@@ -12567,7 +12567,7 @@ Un esempio si può trovare in casi come quello della bravata del ragazzo e della
 
 
 
-<span class="atom-split" data-atom="story_17_the_boy--part_02" data-title="AllThingsConsidered-8 — THE BOY (part 2)" data-chapter="Story 17 THE BOY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_boy--part_02" data-title="AllThingsConsidered-8 — THE BOY (part 2)" data-chapter="THE BOY" data-kind="excerpt"></span>
 
 
 There is another case of the thing that I mean.  Why on earth do
@@ -12677,7 +12677,7 @@ Se qualcuno nutre il minimo [[Doubt|dubbio]] su questa negligenza della [[Truth|
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_01" data-title="AllThingsConsidered-8 — CHRISTMAS (part 1)" data-chapter="Story 35 CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_01" data-title="AllThingsConsidered-8 — CHRISTMAS (part 1)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
 
 
 CHRISTMAS
@@ -12810,7 +12810,7 @@ Un altro esempio della stessa illogicità l'ho osservato l'altro giorno a una sp
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_02" data-title="AllThingsConsidered-8 — CHRISTMAS (part 2)" data-chapter="Story 35 CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_02" data-title="AllThingsConsidered-8 — CHRISTMAS (part 2)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
 
 
 Let us be consistent, therefore, about Christmas, and either keep
@@ -12923,7 +12923,7 @@ Non è raro oggigiorno che gli estremi folli, nella realtà, si incontrino. Cos�
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_03" data-title="AllThingsConsidered-8 — CHRISTMAS (part 3)" data-chapter="Story 35 CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_03" data-title="AllThingsConsidered-8 — CHRISTMAS (part 3)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
 
 
 Now, whether torturing an animal is or is not an immoral thing, it is,
@@ -12997,7 +12997,7 @@ End of Project Gutenberg's All Things Considered, by G. K. Chesterton
 
 ***** This file should be named 11505-8.txt or 11505-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/1/5/0/11505/
+http://www.gutenberg.net/1/1/5/0/11505/
 
 Produced by Robert Shimmin, jayam and the Online Distributed Proofreading
 Team
@@ -13049,7 +13049,7 @@ Fine di «All Things Considered» del Project Gutenberg, di G. K. Chesterton
 
 ***** Questo file dovrebbe chiamarsi 11505-8.txt oppure 11505-8.zip *****
 Questo e tutti i file associati, in vari formati, si trovano in:
-        http://www.gutenberg.net/1/1/5/0/11505/
+http://www.gutenberg.net/1/1/5/0/11505/
 
 Prodotto da Robert Shimmin, jayam e l'Online Distributed Proofreading
 Team
@@ -13088,7 +13088,7 @@ http://gutenberg.net/license).
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_04" data-title="AllThingsConsidered-8 — CHRISTMAS (part 4)" data-chapter="Story 35 CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_04" data-title="AllThingsConsidered-8 — CHRISTMAS (part 4)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -13304,7 +13304,7 @@ come specificato nel paragrafo 1.E.1.
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_05" data-title="AllThingsConsidered-8 — CHRISTMAS (part 5)" data-chapter="Story 35 CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_05" data-title="AllThingsConsidered-8 — CHRISTMAS (part 5)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
 
 
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
@@ -13316,33 +13316,33 @@ access to or distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
@@ -13427,33 +13427,33 @@ accesso a, o per distribuire opere elettroniche Project Gutenberg-tm a condizion
 che
 
 - Voi paghiate un diritto d'autore del 20% degli utili lordi che ricavate dall'
-     uso di opere Project Gutenberg-tm calcolati usando il metodo
-     che già usate per calcolare le imposte a voi applicabili. Il diritto è
-     dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
-     ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
-     Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
-     devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
-     fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
-     inviati alla Project Gutenberg Literary Archive Foundation all'
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
-     Project Gutenberg Literary Archive Foundation».
+uso di opere Project Gutenberg-tm calcolati usando il metodo
+che già usate per calcolare le imposte a voi applicabili. Il diritto è
+dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
+ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
+Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
+devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
+fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
+inviati alla Project Gutenberg Literary Archive Foundation all'
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
+Project Gutenberg Literary Archive Foundation».
 
 - Voi forniate un rimborso completo di qualsiasi somma pagata da un utente che vi notifichi
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
-     non accetta i termini della Licenza completa Project Gutenberg-tm.
-     Dovete richiedere a un tale utente di restituire o
-     distruggere tutte le copie delle opere possedute in un supporto fisico
-     e di cessare ogni uso e ogni accesso alle altre copie di
-     opere Project Gutenberg-tm.
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
+non accetta i termini della Licenza completa Project Gutenberg-tm.
+Dovete richiedere a un tale utente di restituire o
+distruggere tutte le copie delle opere possedute in un supporto fisico
+e di cessare ogni uso e ogni accesso alle altre copie di
+opere Project Gutenberg-tm.
 
 - Voi forniate, in accordo con il paragrafo 1.F.3, un rimborso completo di qualsiasi
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni
-     dal ricevimento dell'opera.
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni
+dal ricevimento dell'opera.
 
 - Voi vi conformiate a tutti gli altri termini di questo accordo per la libera
-     distribuzione di opere Project Gutenberg-tm.
+distribuzione di opere Project Gutenberg-tm.
 
 1.E.9. Se desiderate far pagare una tariffa o distribuire un'opera elettronica
 Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli
@@ -13528,7 +13528,7 @@ opera Project Gutenberg-tm, e (c) qualsiasi Difetto da voi causato.
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_06" data-title="AllThingsConsidered-8 — CHRISTMAS (part 6)" data-chapter="Story 35 CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_06" data-title="AllThingsConsidered-8 — CHRISTMAS (part 6)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
 
 
 Section  2.  Information about the Mission of Project Gutenberg-tm
@@ -13570,9 +13570,9 @@ information can be found at the Foundation's web site and official
 page at http://pglaf.org
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -13632,7 +13632,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
@@ -13645,10 +13645,10 @@ download any of these eBooks directly, rather than using the regular
 search system you may utilize the following addresses and just
 download by the etext year.
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Or /etext 05, 04, 03, 02, 01, 00, 99,
-     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+(Or /etext 05, 04, 03, 02, 01, 00, 99,
+98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 filed in a different way.  The year of a release date is no longer part
@@ -13657,13 +13657,13 @@ identical to the filename).  The path to the file is made up of single
 digits corresponding to all but the last digit in the filename.  For
 example an eBook of filename 10234 would be found at:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 or filename 24689 would be found at:
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13707,9 +13707,9 @@ aggiornate si trovano sul sito web della Fondazione e sulla pagina ufficiale
 all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 Literary Archive Foundation
@@ -13768,7 +13768,7 @@ nuovi nomi di file e numeri etext.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.net
+http://www.gutenberg.net
 
 Questo sito web include informazioni sul Project Gutenberg-tm,
 inclusi come fare donazioni alla Project Gutenberg Literary
@@ -13781,10 +13781,10 @@ scaricare uno qualsiasi di questi eBook direttamente, invece di usare il consuet
 sistema di ricerca, potete utilizzare i seguenti indirizzi e semplicemente
 scaricare per anno etext.
 
-     http://www.gutenberg.net/etext06
+http://www.gutenberg.net/etext06
 
-    (Oppure /etext 05, 04, 03, 02, 01, 00, 99,
-     98, 97, 96, 95, 94, 93, 92, 92, 91 o 90)
+(Oppure /etext 05, 04, 03, 02, 01, 00, 99,
+98, 97, 96, 95, 94, 93, 92, 92, 91 o 90)
 
 Gli eBook pubblicati a partire dal novembre 2003, con numeri etext OLTRE #10000, sono
 archiviati in modo diverso. L'anno di una data di rilascio non è più parte
@@ -13793,10 +13793,10 @@ identico al nome del file). Il percorso del file è composto da singole
 cifre corrispondenti a tutte le cifre del nome del file tranne l'ultima. Per
 esempio, un eBook con nome di file 10234 si troverebbe in:
 
-     http://www.gutenberg.net/1/0/2/3/10234
+http://www.gutenberg.net/1/0/2/3/10234
 
 oppure il nome di file 24689 si troverebbe in:
-     http://www.gutenberg.net/2/4/6/8/24689
+http://www.gutenberg.net/2/4/6/8/24689
 
 Un metodo alternativo per localizzare gli eBook:
-     http://www.gutenberg.net/GUTINDEX.ALL
+http://www.gutenberg.net/GUTINDEX.ALL

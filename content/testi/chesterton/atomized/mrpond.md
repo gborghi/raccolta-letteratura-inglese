@@ -3380,9 +3380,9 @@ as they went out of the gate, and only a Scottish poet can describe
 
 what they did then:
 
-     And the tane went hame with the ither; and then,
+And the tane went hame with the ither; and then,
 
-     The tither went hame with the ither again.
+The tither went hame with the ither again.
 
 "And for hours and weeks and months they never turned aside from
 
@@ -7230,11 +7230,11 @@ refusing Lancelot at the last, says in words that had for me a ring
 
 of iron:
 
-     "For [[Well|well]] ye wot that of this life
+"For [[Well|well]] ye wot that of this life
 
-     There comes but lewd and bitter strife
+There comes but lewd and bitter strife
 
-     And [[Death|death]] of men and great travail.
+And [[Death|death]] of men and great travail.
 
 "I had hung round all that sort of thing, and yet never quite
 
@@ -9929,7 +9929,7 @@ The Paradoxes of Mr Pond by G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_01" data-title="MrPond — A Tall Story (part 1)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_01" data-title="MrPond — A Tall Story (part 1)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 VIII.  A Tall Story
@@ -10117,7 +10117,7 @@ nonsense, isn't it?  Oh, I know people say in a general way that
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_02" data-title="MrPond — A Tall Story (part 2)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_02" data-title="MrPond — A Tall Story (part 2)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 there's too much discipline in the German army.  But you can't have
@@ -10323,7 +10323,7 @@ every way, but especially in saving him needless trouble.  He will
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_03" data-title="MrPond — A Tall Story (part 3)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_03" data-title="MrPond — A Tall Story (part 3)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 be occupied enough reviewing the troops; see that everything is
@@ -10521,7 +10521,7 @@ a European institution.  He would be deplored and deified by our
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_04" data-title="MrPond — A Tall Story (part 4)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_04" data-title="MrPond — A Tall Story (part 4)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 allies, by our friends, even by our fellow-Germans.  Do you want to
@@ -10727,7 +10727,7 @@ indulge in imaginative ideas for their own sake.  But because he
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_05" data-title="MrPond — A Tall Story (part 5)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_05" data-title="MrPond — A Tall Story (part 5)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 also was in some imperfect manner human, he could not but feel, on
@@ -11107,7 +11107,7 @@ una sorta di luminoso e radioso relitto, tutto ciò che restava di uno di
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_06" data-title="MrPond — A Tall Story (part 6)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_06" data-title="MrPond — A Tall Story (part 6)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 those superb white horses and white horsemen of his old brigade.
@@ -11303,7 +11303,7 @@ in this tale, was worthy of the accident that made him the herald
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_07" data-title="MrPond — A Tall Story (part 7)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_07" data-title="MrPond — A Tall Story (part 7)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 of a more generous policy.  He came with the [[Speed|speed]] of that noble
@@ -11501,7 +11501,7 @@ and rather . . . you know.  But--"
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_08" data-title="MrPond — A Tall Story (part 8)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_08" data-title="MrPond — A Tall Story (part 8)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 Mr. Pond interposed with delicacy and firmness:  "I [[Wonder|wonder]] whether
@@ -11691,7 +11691,7 @@ reveal.  But he worked [[Well|well]] for his client; and the two had
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_09" data-title="MrPond — A Tall Story (part 9)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_09" data-title="MrPond — A Tall Story (part 9)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 necessarily become in a way companions-in-arms.  Of one thing Pond
@@ -11885,7 +11885,7 @@ you believe it.  Perhaps the most serious result of our
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_10" data-title="MrPond — A Tall Story (part 10)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_10" data-title="MrPond — A Tall Story (part 10)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 investigations is this.  It is now quite clearly established that
@@ -12089,7 +12089,7 @@ like.  Even Violet Varney likes him.  Joan Varney loves him.  And
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_11" data-title="MrPond — A Tall Story (part 11)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_11" data-title="MrPond — A Tall Story (part 11)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 yet they all give evidence to contradict him or, at least, show he
@@ -12285,7 +12285,7 @@ the open street of his intention to go to his infamous club, where
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_12" data-title="MrPond — A Tall Story (part 12)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_12" data-title="MrPond — A Tall Story (part 12)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 women are slandered and men drugged with alcohol.  After the shock
@@ -12479,7 +12479,7 @@ less personal and intimate than his interview with Joan (about
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_13" data-title="MrPond — A Tall Story (part 13)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_13" data-title="MrPond — A Tall Story (part 13)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 which he always refused to say a word to anybody), the ardent
@@ -12663,7 +12663,7 @@ called Poetry; or perhaps I ought to say it's generally called
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_14" data-title="MrPond — A Tall Story (part 14)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_14" data-title="MrPond — A Tall Story (part 14)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 Recitation.  It's been suppressed by the police in all the English
@@ -12853,7 +12853,7 @@ His friend Gahagan, that ginger-haired giant and somewhat flippant
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_15" data-title="MrPond — A Tall Story (part 15)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_15" data-title="MrPond — A Tall Story (part 15)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 Irish dandy, declared that Pond put in these senseless phrases
@@ -13047,7 +13047,7 @@ It happened that Mr. Pond himself had been present at a little
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_16" data-title="MrPond — A Tall Story (part 16)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_16" data-title="MrPond — A Tall Story (part 16)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 party where there was high [[debate]] about the murder as a mystery.
@@ -13247,7 +13247,7 @@ anyhow, so frail and easy to destroy.  Cutting short its life is
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_17" data-title="MrPond — A Tall Story (part 17)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_17" data-title="MrPond — A Tall Story (part 17)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 worse than murder; it's infanticide.  It's like killing a baby
@@ -13441,7 +13441,7 @@ have ever heard, the most rambling was the narrative we have just
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_18" data-title="MrPond — A Tall Story (part 18)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_18" data-title="MrPond — A Tall Story (part 18)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 been privileged to hear from you.  First you tell us that two
@@ -13524,9 +13524,9 @@ as they went out of the gate, and only a Scottish poet can describe
 
 what they did then:
 
-     And the tane went hame with the ither; and then,
+And the tane went hame with the ither; and then,
 
-     The tither went hame with the ither again.
+The tither went hame with the ither again.
 
 "And for hours and weeks and months they never turned aside from
 
@@ -13641,7 +13641,7 @@ already said, he was a devout worshipper in the same dingy kirk as
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_19" data-title="MrPond — A Tall Story (part 19)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_19" data-title="MrPond — A Tall Story (part 19)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 the late James Haggis; that is, one of the extreme irreconcilable
@@ -13843,7 +13843,7 @@ pretended to believe in the Ten Commandments.  He was good to
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_20" data-title="MrPond — A Tall Story (part 20)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_20" data-title="MrPond — A Tall Story (part 20)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 individuals, but the crowd suffered; you are good to the crowd and
@@ -14039,7 +14039,7 @@ trick, until he twiddled it so as to show it was one of those
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_21" data-title="MrPond — A Tall Story (part 21)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_21" data-title="MrPond — A Tall Story (part 21)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 pencils sold by most stationers, with red at one end and blue at
@@ -14239,7 +14239,7 @@ he nearly got killed."
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_22" data-title="MrPond — A Tall Story (part 22)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_22" data-title="MrPond — A Tall Story (part 22)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 reminiscently, "before he turned the sixth shot on himself."
@@ -14623,7 +14623,7 @@ Chiuse la bocca di scatto, mentre un discreto bussare risuonava alla
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_23" data-title="MrPond — A Tall Story (part 23)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_23" data-title="MrPond — A Tall Story (part 23)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 the door, and Sir [[Hubert]]'s clerk glided in to say he had discharged
@@ -15003,7 +15003,7 @@ col suo consueto istinto per le comodità della vita; poi aggiunse:
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_24" data-title="MrPond — A Tall Story (part 24)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_24" data-title="MrPond — A Tall Story (part 24)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 "I [[Hope|hope]] you don't disagree with that second precaution of mine."
@@ -15415,7 +15415,7 @@ Vi fu un altro [[Silence|silenzio]] di crescente [[Mystification|smarrimento]], 
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_25" data-title="MrPond — A Tall Story (part 25)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_25" data-title="MrPond — A Tall Story (part 25)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 gathering darkness outside.  And then Pond observed suddenly:
@@ -15799,7 +15799,7 @@ i calzoni. Poi si tuffò nella borsa e ne trasse una mostruosa
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_26" data-title="MrPond — A Tall Story (part 26)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_26" data-title="MrPond — A Tall Story (part 26)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 grinning and glaring white mask, picked out with red ornaments, and
@@ -16179,7 +16179,7 @@ dentro il quadrato o il recinto logico, come un rettangolo in
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_27" data-title="MrPond — A Tall Story (part 27)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_27" data-title="MrPond — A Tall Story (part 27)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 geometry.  I was thinking all the [[Time|time]] about one thing: what would
@@ -16555,7 +16555,7 @@ Gahagan. Gahagan gustava le ostriche, eppure non si poteva dire che gli
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_28" data-title="MrPond — A Tall Story (part 28)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_28" data-title="MrPond — A Tall Story (part 28)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 for them, being a careless card; and the towers of oyster-shells
@@ -16935,7 +16935,7 @@ giovane bruno e scattante che era un funzionario del [[government|Governo]], in 
 
 
 
-<span class="atom-split" data-atom="story_04_a_tall_story--part_29" data-title="MrPond — A Tall Story (part 29)" data-chapter="Story 04 A Tall Story" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_a_tall_story--part_29" data-title="MrPond — A Tall Story (part 29)" data-chapter="A Tall Story" data-kind="excerpt"></span>
 
 
 believing in the [[government|Government]]; or at least in the principles of the
@@ -17135,7 +17135,7 @@ spot in the corner of the crowded café.  He planted himself before
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_01" data-title="MrPond — Louis; and shouted as if on parade: (part 1)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_01" data-title="MrPond — Louis; and shouted as if on parade: (part 1)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 M. Louis; and shouted as if on parade:
@@ -17343,7 +17343,7 @@ revolutions not only in this country but definitely in this
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_02" data-title="MrPond — Louis; and shouted as if on parade: (part 2)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_02" data-title="MrPond — Louis; and shouted as if on parade: (part 2)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 capital.  [[Well]], our friend in the white hat seems to me to be
@@ -17545,7 +17545,7 @@ the second inference involves some suggestions that are rather
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_03" data-title="MrPond — Louis; and shouted as if on parade: (part 3)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_03" data-title="MrPond — Louis; and shouted as if on parade: (part 3)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 delicate; especially if I may say so, for a man in your position."
@@ -17747,7 +17747,7 @@ it hypocritically or for hire.  A man can argue FOR principles not
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_04" data-title="MrPond — Louis; and shouted as if on parade: (part 4)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_04" data-title="MrPond — Louis; and shouted as if on parade: (part 4)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 his own.  But a man cannot argue FROM principles not his own; the
@@ -17939,7 +17939,7 @@ would promote his worldly prospects, or gain him any rewards or
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_05" data-title="MrPond — Louis; and shouted as if on parade: (part 5)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_05" data-title="MrPond — Louis; and shouted as if on parade: (part 5)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 decorations for scientific research.  The official scientific
@@ -18141,7 +18141,7 @@ itself was an Asiatic game, and can be traced through the gilded
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_06" data-title="MrPond — Louis; and shouted as if on parade: (part 6)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_06" data-title="MrPond — Louis; and shouted as if on parade: (part 6)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 jungle of Persian and Indian illuminations, so there was something
@@ -18339,7 +18339,7 @@ Gahagan calmly.  "Most of us naturally sat like stone statues under
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_07" data-title="MrPond — Louis; and shouted as if on parade: (part 7)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_07" data-title="MrPond — Louis; and shouted as if on parade: (part 7)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 such a thunder-bolt of a threat.  But young Pitt-Palmer, with his
@@ -18759,7 +18759,7 @@ mascalzone, non sarebbe certo stato un ladro. In verità,
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_08" data-title="MrPond — Louis; and shouted as if on parade: (part 8)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_08" data-title="MrPond — Louis; and shouted as if on parade: (part 8)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 after a heathen fashion, he was a bit of a [[Hero|hero]].  Perhaps it was
@@ -18947,7 +18947,7 @@ incongruous but grotesquely congruous; as in a hideous camaraderie.
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_09" data-title="MrPond — Louis; and shouted as if on parade: (part 9)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_09" data-title="MrPond — Louis; and shouted as if on parade: (part 9)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 Of course, this was a mood, and a morbid one; they really had been
@@ -19036,11 +19036,11 @@ refusing Lancelot at the last, says in words that had for me a ring
 
 of iron:
 
-     "For [[Well|well]] ye wot that of this life
+"For [[Well|well]] ye wot that of this life
 
-     There comes but lewd and bitter strife
+There comes but lewd and bitter strife
 
-     And [[Death|death]] of men and great travail.
+And [[Death|death]] of men and great travail.
 
 "I had hung round all that sort of thing, and yet never quite
 
@@ -19231,11 +19231,11 @@ rifiutando Lancillotto all'ultimo, dice in parole che per me avevano un tintinni
 
 di ferro:
 
-     "Ché [[Well|ben]] tu sai che di questa vita
+"Ché [[Well|ben]] tu sai che di questa vita
 
-     null'altro viene che rissa turpe e amara
+null'altro viene che rissa turpe e amara
 
-     e [[Death|morte]] d'uomini e grande travaglio.
+e [[Death|morte]] d'uomini e grande travaglio.
 
 "Avevo gironzolato attorno a tutte quelle cose, e pure non mi ero mai
 
@@ -19339,7 +19339,7 @@ confessare che non uccisi l'uomo. A confessare che non feci mai la
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_10" data-title="MrPond — Louis; and shouted as if on parade: (part 10)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_10" data-title="MrPond — Louis; and shouted as if on parade: (part 10)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 To confess that I am not a dangerous man . . . [[Well|well]], anyhow, after
@@ -19723,7 +19723,7 @@ Ma, almeno, era troppo pieno di tatto per scusarsi, o persino troppo
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_11" data-title="MrPond — Louis; and shouted as if on parade: (part 11)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_11" data-title="MrPond — Louis; and shouted as if on parade: (part 11)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 obviously to change the subject.
@@ -20139,7 +20139,7 @@ accaddero di [[Night|notte]].
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_12" data-title="MrPond — Louis; and shouted as if on parade: (part 12)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_12" data-title="MrPond — Louis; and shouted as if on parade: (part 12)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 They happened in the vicar's [[Garden|garden]], close to the balcony of the
@@ -20515,7 +20515,7 @@ impalcatura del suo fogliame era scossa come da un impossibilmente localizzato
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_13" data-title="MrPond — Louis; and shouted as if on parade: (part 13)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_13" data-title="MrPond — Louis; and shouted as if on parade: (part 13)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 earthquake.  Then we saw that long legs like a giant's were
@@ -20903,7 +20903,7 @@ non importa se le ombre fossero ingannevoli o
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_14" data-title="MrPond — Louis; and shouted as if on parade: (part 14)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_14" data-title="MrPond — Louis; and shouted as if on parade: (part 14)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 not; because I saw the real people a minute or two afterwards.
@@ -21299,7 +21299,7 @@ Gahagan gridò; gridò così forte che gli altri erano quasi troppo
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_15" data-title="MrPond — Louis; and shouted as if on parade: (part 15)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_15" data-title="MrPond — Louis; and shouted as if on parade: (part 15)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 surprised to notice that it was a shout of laughter, but not very
@@ -21687,7 +21687,7 @@ appunti, che ha certamente detto che 'Qualcuno attraversò di corsa il sentiero
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_16" data-title="MrPond — Louis; and shouted as if on parade: (part 16)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_16" data-title="MrPond — Louis; and shouted as if on parade: (part 16)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 and began to climb the creeper.'"
@@ -22079,7 +22079,7 @@ come se lo avesse reso fisicamente muto.
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_17" data-title="MrPond — Louis; and shouted as if on parade: (part 17)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_17" data-title="MrPond — Louis; and shouted as if on parade: (part 17)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 are all nonsense, and your trying to turn them against him is worse
@@ -22475,7 +22475,7 @@ straordinario; uno era troppo piccolo per essere notato, un altro
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_18" data-title="MrPond — Louis; and shouted as if on parade: (part 18)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_18" data-title="MrPond — Louis; and shouted as if on parade: (part 18)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 too tall to be seen; one was apparently paralysed in a hospital and
@@ -22855,7 +22855,7 @@ dichiarò, rimosso con riluttanza e in spirito brontolone dagli
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_19" data-title="MrPond — Louis; and shouted as if on parade: (part 19)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_19" data-title="MrPond — Louis; and shouted as if on parade: (part 19)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 workmen employed on the job; and by the [[Time|time]] she had reached the
@@ -23247,7 +23247,7 @@ mai; si chinò sotto l'intelaiatura dell'impalcatura e si precipitò nella
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_20" data-title="MrPond — Louis; and shouted as if on parade: (part 20)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_20" data-title="MrPond — Louis; and shouted as if on parade: (part 20)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 room, crying out as she came:
@@ -23631,7 +23631,7 @@ o insinuare una parola, contro i vostri compagni o chiunque sia legato a
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_21" data-title="MrPond — Louis; and shouted as if on parade: (part 21)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_21" data-title="MrPond — Louis; and shouted as if on parade: (part 21)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 them.  But after all--[[Well|well]], sir, there is the country, isn't
@@ -24039,7 +24039,7 @@ di ferro e legno dipinto di colori sgargianti; e i suoi pensieri
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_22" data-title="MrPond — Louis; and shouted as if on parade: (part 22)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_22" data-title="MrPond — Louis; and shouted as if on parade: (part 22)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 crept slowly back to that shop across the [[Road|road]] that was hung with
@@ -24443,7 +24443,7 @@ dei pantaloni; concedendosi una passeggiata per le strade quasi interamente
 
 
 
-<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_23" data-title="MrPond — Louis; and shouted as if on parade: (part 23)" data-chapter="Story 05 Louis and shouted as if on parade" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_23" data-title="MrPond — Louis; and shouted as if on parade: (part 23)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt"></span>
 
 
 deserted streets at [[Night|night]].  Just round here, especially, the

@@ -2553,7 +2553,7 @@ Amen.
 
 
 
-<span class="atom-split" data-atom="story_01_preface" data-title="Caliban’s Guide to Letters — PREFACE." data-chapter="Story 01 PREFACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_preface" data-title="Caliban’s Guide to Letters — PREFACE." data-chapter="PREFACE" data-kind="story"></span>
 
 
 PREFACE.
@@ -2571,7 +2571,7 @@ If the Work can raise the income of but one poor journalist, or produce earnings
 
 
 
-<span class="atom-split" data-atom="story_08_the_personal_par" data-title="Caliban’s Guide to Letters — THE PERSONAL PAR." data-chapter="Story 08 THE PERSONAL PAR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_personal_par" data-title="Caliban’s Guide to Letters — THE PERSONAL PAR." data-chapter="THE PERSONAL PAR" data-kind="story"></span>
 
 
 THE PERSONAL PAR.
@@ -2637,7 +2637,7 @@ It is well known that the Bishop of Pontygarry has no sympathy with the extreme 
 
 
 
-<span class="atom-split" data-atom="story_09_the_topographical_article" data-title="Caliban’s Guide to Letters — THE TOPOGRAPHICAL ARTICLE." data-chapter="Story 09 THE TOPOGRAPHICAL ARTICLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_topographical_article" data-title="Caliban’s Guide to Letters — THE TOPOGRAPHICAL ARTICLE." data-chapter="THE TOPOGRAPHICAL ARTICLE" data-kind="story"></span>
 
 
 THE TOPOGRAPHICAL ARTICLE.
@@ -2713,7 +2713,7 @@ James Bayley.
 
 
 
-<span class="atom-split" data-atom="story_10_on_editing" data-title="Caliban’s Guide to Letters — ON EDITING." data-chapter="Story 10 ON EDITING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_on_editing" data-title="Caliban’s Guide to Letters — ON EDITING." data-chapter="ON EDITING" data-kind="story"></span>
 
 
 ON EDITING.
@@ -2763,7 +2763,7 @@ February 8th, 19 — . — The Standard has a large map of the North of France, 
 
 
 
-<span class="atom-split" data-atom="story_12_special_prose" data-title="Caliban’s Guide to Letters — SPECIAL PROSE." data-chapter="Story 12 SPECIAL PROSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_special_prose" data-title="Caliban’s Guide to Letters — SPECIAL PROSE." data-chapter="SPECIAL PROSE" data-kind="story"></span>
 
 
 SPECIAL PROSE.
@@ -2877,7 +2877,7 @@ All envelopes to be marked “Appreciation.” Accounts monthly. All cheques to 
 
 
 
-<span class="atom-split" data-atom="story_13_appendix" data-title="Caliban’s Guide to Letters — APPENDIX" data-chapter="Story 13 APPENDIX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_appendix" data-title="Caliban’s Guide to Letters — APPENDIX" data-chapter="APPENDIX" data-kind="story"></span>
 
 
 APPENDIX
@@ -3222,7 +3222,7 @@ Verse up to 1/- a line. See preceding page, not reckoned in cols. or 1000 words.
 
 
 
-<span class="atom-split" data-atom="story_14_note_on_titles" data-title="Caliban’s Guide to Letters — NOTE ON TITLES." data-chapter="Story 14 NOTE ON TITLES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_note_on_titles" data-title="Caliban’s Guide to Letters — NOTE ON TITLES." data-chapter="NOTE ON TITLES" data-kind="story"></span>
 
 
 NOTE ON TITLES.
@@ -3242,7 +3242,7 @@ Colonials are called “The Honourable.”
 
 
 
-<span class="atom-split" data-atom="story_15_note_on_style" data-title="Caliban’s Guide to Letters — NOTE ON STYLE." data-chapter="Story 15 NOTE ON STYLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_note_on_style" data-title="Caliban’s Guide to Letters — NOTE ON STYLE." data-chapter="NOTE ON STYLE" data-kind="story"></span>
 
 
 NOTE ON STYLE.
@@ -3274,7 +3274,7 @@ The fifth canon of style is, that when you are bored with writing and do not kno
 
 
 
-<span class="atom-split" data-atom="story_16_the_ode" data-title="Caliban’s Guide to Letters — THE ODE." data-chapter="Story 16 THE ODE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_ode" data-title="Caliban’s Guide to Letters — THE ODE." data-chapter="THE ODE" data-kind="story"></span>
 
 
 THE ODE.
@@ -3420,7 +3420,7 @@ I suggest, as a subject for this exercise, a Funeral Ode upon the same statesman
 
 
 
-<span class="atom-split" data-atom="story_17_on_remainders_and_pulping" data-title="Caliban’s Guide to Letters — ON REMAINDERS AND PULPING." data-chapter="Story 17 ON REMAINDERS AND PULPING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_on_remainders_and_pulping" data-title="Caliban’s Guide to Letters — ON REMAINDERS AND PULPING." data-chapter="ON REMAINDERS AND PULPING" data-kind="story"></span>
 
 
 ON REMAINDERS AND PULPING.
@@ -3444,7 +3444,7 @@ Amen.
 
 
 
-<span class="atom-split" data-atom="story_02_introduction--part_01" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 1)" data-chapter="Story 02 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_introduction--part_01" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 INTRODUCTION.
@@ -3478,7 +3478,7 @@ I hardly know where to begin the recital of his numerous activities in the perio
 
 
 
-<span class="atom-split" data-atom="story_02_introduction--part_02" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 2)" data-chapter="Story 02 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_introduction--part_02" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 2)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 He wrote regularly, in his earlier years, for The Seventh Monarchy, The Banner, The Christian, The Free Trader, Household Words, Good Words, The Quiver, Chatterbox, The Home Circle, and The Sunday Monitor. During the last twenty years his work has continually appeared in the Daily Telegraph, the Times, the Siècle, and the Tribuna. In the last two his work was translated.
@@ -3506,7 +3506,7 @@ On another occasion, when some foreigner was reported in the papers as having do
 
 
 
-<span class="atom-split" data-atom="story_02_introduction--part_03" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 3)" data-chapter="Story 02 INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_introduction--part_03" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 It must not be imagined from these lines that he defended the gross excesses of the [[London]] mob — especially in the matter of strong waters — or that he wholly approved of our policy. “Peace in our time, Oh, Lord!” was his constant cry, and against militarism he thundered fearlessly. I have heard him apply to it a word that never passed his lips in any other connection — the word Damnable.
@@ -3528,7 +3528,7 @@ Finally, let me offer to his family, and to his numerous circle, such apologies 
 
 
 
-<span class="atom-split" data-atom="story_03_reviewing--part_01" data-title="Caliban’s Guide to Letters — REVIEWING. (part 1)" data-chapter="Story 03 REVIEWING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_reviewing--part_01" data-title="Caliban’s Guide to Letters — REVIEWING. (part 1)" data-chapter="REVIEWING" data-kind="excerpt"></span>
 
 
 REVIEWING.
@@ -3570,7 +3570,7 @@ Nothing in this mortal life is permanent, and the changes that are native to the
 
 
 
-<span class="atom-split" data-atom="story_03_reviewing--part_02" data-title="Caliban’s Guide to Letters — REVIEWING. (part 2)" data-chapter="Story 03 REVIEWING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_reviewing--part_02" data-title="Caliban’s Guide to Letters — REVIEWING. (part 2)" data-chapter="REVIEWING" data-kind="excerpt"></span>
 
 
 The Reviewer of whom I speak was as wise as he was honourable. He saw at once what was needed. He wrote another and much longer article, beginning —
@@ -3632,7 +3632,7 @@ It is necessary first to procure a few forms, such as are sold by Messrs. Chatsw
 
 
 
-<span class="atom-split" data-atom="story_03_reviewing--part_03" data-title="Caliban’s Guide to Letters — REVIEWING. (part 3)" data-chapter="Story 03 REVIEWING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_reviewing--part_03" data-title="Caliban’s Guide to Letters — REVIEWING. (part 3)" data-chapter="REVIEWING" data-kind="excerpt"></span>
 
 
 “Mr. —— has hardly seized the pure beauty of”
@@ -3770,7 +3770,7 @@ is a line that we are sure Mr. Mayhem would reconsider in his better moments: �
 
 
 
-<span class="atom-split" data-atom="story_03_reviewing--part_04" data-title="Caliban’s Guide to Letters — REVIEWING. (part 4)" data-chapter="Story 03 REVIEWING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_reviewing--part_04" data-title="Caliban’s Guide to Letters — REVIEWING. (part 4)" data-chapter="REVIEWING" data-kind="excerpt"></span>
 
 
 “Babbler of Hell, importunate mad fiend, dead canker, crested worm,” are vigorous and original, but do not save the sonnet. And as to the last two lines,
@@ -3840,7 +3840,7 @@ ON POLITICAL APPEALS.
 
 
 
-<span class="atom-split" data-atom="story_04_political_appeals--part_01" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 1)" data-chapter="Story 04 POLITICAL APPEALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_political_appeals--part_01" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 1)" data-chapter="POLITICAL APPEALS" data-kind="excerpt"></span>
 
 
 POLITICAL APPEALS.
@@ -3904,7 +3904,7 @@ Lord Chesterfield (angrily) — Lord Squab, be worthy of your son-in-law’s.
 
 
 
-<span class="atom-split" data-atom="story_04_political_appeals--part_02" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 2)" data-chapter="Story 04 POLITICAL APPEALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_political_appeals--part_02" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 2)" data-chapter="POLITICAL APPEALS" data-kind="excerpt"></span>
 
 
 Henry V. — My Lords! my Lords! What do you with your swords?
@@ -4130,7 +4130,7 @@ I earnestly beseech the reader of this text-book, especially if he be young, to 
 
 
 
-<span class="atom-split" data-atom="story_04_political_appeals--part_03" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 3)" data-chapter="Story 04 POLITICAL APPEALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_political_appeals--part_03" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 3)" data-chapter="POLITICAL APPEALS" data-kind="excerpt"></span>
 
 
 I had some little hesitation what model to put before the student. This book does not profess to be more than an introduction to the elements of our science; I therefore omitted what had first seemed to me of some value, the letters written on a special commission to Pondicherry during the plague and famine in that unhappy and ill-governed remnant of a falling empire. The articles on the tortures in the Phillipines were never printed, and might mislead. I have preferred to show Priestcraft and Liberty in their eternal struggle as they appeared to me in the character of Special Commissioner for Out and About during the troubles of 1901. It is clear, and I think unbiassed; it opens indeed in that light fashion which is a concession to contemporary journalism: but the half-frivolous exterior conceals a permanent missionary purpose. Its carefully collected array of facts give, I suggest, a vivid picture of one particular battlefield; that whereon there rage to-day the opposed forces which will destroy or save the French people. The beginner could not have a better introduction to his struggle against the infamies of Clericalism. Let him ask himself (as Mr. Gardy, M.P., asked in a letter to Out and About) the indignant question, “Could such things happen here in England?”
@@ -4150,7 +4150,7 @@ At that one sitting the excellent hierarch received no less a sum than 1053 fran
 
 
 
-<span class="atom-split" data-atom="story_04_political_appeals--part_04" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 4)" data-chapter="Story 04 POLITICAL APPEALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_political_appeals--part_04" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 4)" data-chapter="POLITICAL APPEALS" data-kind="excerpt"></span>
 
 
 It will seem astonishing to the author of Village Communities in Western Europe to hear of so large a sum as £40 being subscribed by the congregation of this remote village, and it would seem still more astonishing to him could he see the very large chapel erected over the spring of St. Loup. I do not say that he would understand the phenomenon, but I do say that he would become a more perturbed and therefore a wiser man did he know the following four facts: — (1) That the freehold value of the village and its communal land, amounting to the sum of a poor £20,000, was not in the possession of a landlord, but in that of these wretched peasants. (2) That the one rich man of the neighbourhood, a retired glove-maker, being also a fanatic, presented his subscriptions in such a manner that they were never heard of. He had, moreover, an abhorrence for the regulation of charity. (3) That the master mason in the neighbouring town had in his youth been guilty of several mortal sins, and was so weak as to imagine that a special tender would in such a case make a kind of reparation; and (4) that the labourers employed were too ignorant to cheat and too illiterate to combine.
@@ -4170,7 +4170,7 @@ An old Sapper General, who had devised the special obturator for light quick-fir
 
 
 
-<span class="atom-split" data-atom="story_04_political_appeals--part_05" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 5)" data-chapter="Story 04 POLITICAL APPEALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_political_appeals--part_05" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 5)" data-chapter="POLITICAL APPEALS" data-kind="excerpt"></span>
 
 
 Two monks, who had walked all the way from Spain, settled in a house near the well. A pilgrim, who had also evidently come from a prodigious distance on foot, but gave false information as to his movements, was arrested by the police and subsequently released. The arrest was telegraphed to the Times and much commented upon, but the suicide of a prominent [[London]] solicitor and other important news prevented any mention of his release.
@@ -4196,7 +4196,7 @@ The Government is that of a practical and commonsense people. It will guide or p
 
 
 
-<span class="atom-split" data-atom="story_05_the_short_story--part_01" data-title="Caliban’s Guide to Letters — THE SHORT STORY. (part 1)" data-chapter="Story 05 THE SHORT STORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_short_story--part_01" data-title="Caliban’s Guide to Letters — THE SHORT STORY. (part 1)" data-chapter="THE SHORT STORY" data-kind="excerpt"></span>
 
 
 THE SHORT STORY.
@@ -4258,7 +4258,7 @@ That model was constructed especially with the view to guide the beginner. Its h
 
 
 
-<span class="atom-split" data-atom="story_05_the_short_story--part_02" data-title="Caliban’s Guide to Letters — THE SHORT STORY. (part 2)" data-chapter="Story 05 THE SHORT STORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_short_story--part_02" data-title="Caliban’s Guide to Letters — THE SHORT STORY. (part 2)" data-chapter="THE SHORT STORY" data-kind="excerpt"></span>
 
 
 THE ACCIDENT TO MR. THORPE.
@@ -4276,7 +4276,7 @@ And to understand what kind of thing followed his fall into the water, I must ex
 
 
 
-<span class="atom-split" data-atom="story_05_the_short_story--part_03" data-title="Caliban’s Guide to Letters — THE SHORT STORY. (part 3)" data-chapter="Story 05 THE SHORT STORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_short_story--part_03" data-title="Caliban’s Guide to Letters — THE SHORT STORY. (part 3)" data-chapter="THE SHORT STORY" data-kind="excerpt"></span>
 
 
 Well then, nothing had ever happened to Mr. Thorpe before, and what was the result? Why that this aqueous adventure of his began to grow and possess him as you and I are possessed by our more important feats, by our different distant journeys, our bold speculations, our meeting with grand acquaintances, our outwitting of the law; and I am sorry to say that Mr. Thorpe in a very short time began to lie prodigiously. The symptoms of this perversion first appeared a few days after the accident, at a lunch which he attended (with the other directors of the Marine Glue Company) in the City. The company was in process of negotiating a very difficult piece of business, that required all the attention of the directors, and, as is usual under such circumstances, they fell to telling amusing tales to one another. One of them had just finished his story of how a nephew of his narrowly escaped lynching at Leadville, Colorado, when Mr. Thorpe, who had been making ponderous jokes all the morning, was suddenly observed to grow thoughtful, and (after first ascertaining with some care that there was no one present who had seen him fall in) he astonished the company by saying: “I cannot hear of such escapes from death without awe. It was but the other day that I was saved as by a miracle from drowning.” Then he added, after a little pause, “My whole life seemed to pass before me in a moment.”
@@ -4298,7 +4298,7 @@ Many other things that followed this, the law-suit, the quarrel of the nephew wi
 
 
 
-<span class="atom-split" data-atom="story_06_the_short_lyric--part_01" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 1)" data-chapter="Story 06 THE SHORT LYRIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_short_lyric--part_01" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 1)" data-chapter="THE SHORT LYRIC" data-kind="excerpt"></span>
 
 
 THE SHORT LYRIC.
@@ -4364,7 +4364,7 @@ Peter was so much encouraged by this, that he sent his verses at once to Mr. McG
 
 
 
-<span class="atom-split" data-atom="story_06_the_short_lyric--part_02" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 2)" data-chapter="Story 06 THE SHORT LYRIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_short_lyric--part_02" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 2)" data-chapter="THE SHORT LYRIC" data-kind="excerpt"></span>
 
 
 “My dear Peter,
@@ -4440,7 +4440,7 @@ Embittered by such an experience, my friend Gurney returned to his home, and wro
 
 
 
-<span class="atom-split" data-atom="story_06_the_short_lyric--part_03" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 3)" data-chapter="Story 06 THE SHORT LYRIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_short_lyric--part_03" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 3)" data-chapter="THE SHORT LYRIC" data-kind="excerpt"></span>
 
 
 To-day everyone who reads these lines is envious of Mr. Peter Gurney’s fame. He is the leader of the whole Cobbley school, the master of his own cousin, Mr. Peter Davey, and without question the model upon which Mr. Henry Hawk, Mr. Daniel Witton, and Mr. John Stuart have framed their poetic manner. He suffered and was strong. He condescended to prose, and kept his verse in reserve. The result no poet can ignore.
@@ -4520,7 +4520,7 @@ But that first holy rapture cannot be recovered. We must work by rule. The rules
 
 
 
-<span class="atom-split" data-atom="story_06_the_short_lyric--part_04" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 4)" data-chapter="Story 06 THE SHORT LYRIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_short_lyric--part_04" data-title="Caliban’s Guide to Letters — THE SHORT LYRIC. (part 4)" data-chapter="THE SHORT LYRIC" data-kind="excerpt"></span>
 
 
 (5) Leave out relatives;
@@ -4598,7 +4598,7 @@ To see the yellow mustard grow!
 
 
 
-<span class="atom-split" data-atom="story_07_the_interview--part_01" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 1)" data-chapter="Story 07 THE INTERVIEW" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_interview--part_01" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 1)" data-chapter="THE INTERVIEW" data-kind="excerpt"></span>
 
 
 THE INTERVIEW.
@@ -4682,7 +4682,7 @@ He added the awful words that death might find us at any moment, and that then w
 
 
 
-<span class="atom-split" data-atom="story_07_the_interview--part_02" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 2)" data-chapter="Story 07 THE INTERVIEW" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_interview--part_02" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 2)" data-chapter="THE INTERVIEW" data-kind="excerpt"></span>
 
 
 It seems unworthy, after the relation of this intimate domestic scene, to add any words of exhortation to the reader and student.
@@ -4732,7 +4732,7 @@ I found myself in a richly-furnished room, surrounded by curious relics of trave
 
 
 
-<span class="atom-split" data-atom="story_07_the_interview--part_03" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 3)" data-chapter="Story 07 THE INTERVIEW" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_interview--part_03" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 3)" data-chapter="THE INTERVIEW" data-kind="excerpt"></span>
 
 
 I said I should be delighted to excuse him.
@@ -4804,7 +4804,7 @@ And there was a silence, during which the grand words went on running in my head
 
 
 
-<span class="atom-split" data-atom="story_07_the_interview--part_04" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 4)" data-chapter="Story 07 THE INTERVIEW" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_interview--part_04" data-title="Caliban’s Guide to Letters — THE INTERVIEW. (part 4)" data-chapter="THE INTERVIEW" data-kind="excerpt"></span>
 
 
 “Well,” said he, genially, anticipating my applause, “Good-bye. But before you go please let me beg you to tell the public that I lately wrote something for the Times a great deal better than anything else I have ever written. Nobody seems to read the Times,” he continued, in a tone of slight petulance, “and I have not seen it quoted anywhere. I wonder if it is properly known? Please tell people that that little note about ‘copyright’ is only for fun. Anyone may use it who likes — I had a paragraph put in the papers to say so. It’s like this—” He then added a few conventional words of God-speed, and I left him. I have never seen him since.
@@ -4944,7 +4944,7 @@ PERSONAL PARS.
 
 
 
-<span class="atom-split" data-atom="story_11_on_revelations--part_01" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 1)" data-chapter="Story 11 ON REVELATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_on_revelations--part_01" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 1)" data-chapter="ON REVELATIONS" data-kind="excerpt"></span>
 
 
 ON REVELATIONS.
@@ -4996,7 +4996,7 @@ The note ran: —
 
 
 
-<span class="atom-split" data-atom="story_11_on_revelations--part_02" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 2)" data-chapter="Story 11 ON REVELATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_on_revelations--part_02" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 2)" data-chapter="ON REVELATIONS" data-kind="excerpt"></span>
 
 
 I told Dr. Caliban, that in my opinion, on the one hand, there might be something in it; while on the other hand, that there might not.
@@ -5078,7 +5078,7 @@ Minister (wearily) — Oh! yes ... I walk about.... I used to walk a lot in Irel
 
 
 
-<span class="atom-split" data-atom="story_11_on_revelations--part_03" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 3)" data-chapter="Story 11 ON REVELATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_on_revelations--part_03" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 3)" data-chapter="ON REVELATIONS" data-kind="excerpt"></span>
 
 
 Doctor — Well, Mr. —— , a little rest will do you all the good in the world. You have the Easter recess in which to take a thorough rest. Do not lie in bed all day; get up about five and drive to your club. Whatever you do, don’t write or think, and don’t let them worry you with callers. (The Doctor here prepared to leave).
@@ -5198,7 +5198,7 @@ My dear Mr. Kruger. — Your position is at once interesting and peculiar, and d
 
 
 
-<span class="atom-split" data-atom="story_11_on_revelations--part_04" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 4)" data-chapter="Story 11 ON REVELATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_on_revelations--part_04" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 4)" data-chapter="ON REVELATIONS" data-kind="excerpt"></span>
 
 
 Believe me, my dear Mr. Kruger, with the fullest and warmest sympathy for such of your grievances as may be legitimate, and with the ardent prayer that the result of this deplorable quarrel may turn out to be the best for both parties,

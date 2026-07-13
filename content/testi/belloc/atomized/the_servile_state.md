@@ -1115,7 +1115,7 @@ ENDNOTES
 
 
 
-<span class="atom-split" data-atom="story_01_synopsis_of_the_servile_state" data-title="The Servile State — Synopsis of the Servile State" data-chapter="Story 01 Synopsis of the Servile State" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_synopsis_of_the_servile_state" data-title="The Servile State — Synopsis of the Servile State" data-chapter="Synopsis of the Servile State" data-kind="story"></span>
 
 
 Synopsis of the Servile State
@@ -1171,7 +1171,7 @@ Conclusion
 
 
 
-<span class="atom-split" data-atom="story_02_introduction_the_subject_of_this_book" data-title="The Servile State — Introduction. The Subject of This Book" data-chapter="Story 02 Introduction The Subject of This Book" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introduction_the_subject_of_this_book" data-title="The Servile State — Introduction. The Subject of This Book" data-chapter="Introduction The Subject of This Book" data-kind="story"></span>
 
 
 Introduction. The Subject of This Book
@@ -1227,7 +1227,7 @@ Such is the scheme I design for this book.
 
 
 
-<span class="atom-split" data-atom="story_04_section_two_our_civilisation_was_origina" data-title="The Servile State — Section Two. Our Civilisation Was Originally Servile" data-chapter="Story 04 Section Two Our Civilisation Was Origina" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_section_two_our_civilisation_was_origina" data-title="The Servile State — Section Two. Our Civilisation Was Originally Servile" data-chapter="Section Two Our Civilisation Was Origina" data-kind="story"></span>
 
 
 Section Two. Our Civilisation Was Originally Servile
@@ -1289,7 +1289,7 @@ Among the by-products of this experiment, very slowly emerging from the old Paga
 
 
 
-<span class="atom-split" data-atom="story_03_section_one_definitions--part_01" data-title="The Servile State — Section One. Definitions (part 1)" data-chapter="Story 03 Section One Definitions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_section_one_definitions--part_01" data-title="The Servile State — Section One. Definitions (part 1)" data-chapter="Section One Definitions" data-kind="excerpt"></span>
 
 
 Section One. Definitions
@@ -1329,7 +1329,7 @@ An ideal society in which the means of production should be in the hands of the 
 
 
 
-<span class="atom-split" data-atom="story_03_section_one_definitions--part_02" data-title="The Servile State — Section One. Definitions (part 2)" data-chapter="Story 03 Section One Definitions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_section_one_definitions--part_02" data-title="The Servile State — Section One. Definitions (part 2)" data-chapter="Section One Definitions" data-kind="excerpt"></span>
 
 
 A society in which private property in land and capital, that is, the ownership and therefore the control of the means of production, is confined to some number of free citizens not large enough to determine the social mass of the State, while the rest have not such property and are therefore proletarian, we call Capitalist; and the method by which wealth is produced in such a society can only be the application of labour, the determining mass of which must necessarily be proletarian, to land and capital, in such fashion that, of the total wealth produced, the Proletariat which labours shall only receive a portion.
@@ -1363,7 +1363,7 @@ Many would argue that a man so compelled to labour, guaranteed against insecurit
 
 
 
-<span class="atom-split" data-atom="story_03_section_one_definitions--part_03" data-title="The Servile State — Section One. Definitions (part 3)" data-chapter="Story 03 Section One Definitions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_section_one_definitions--part_03" data-title="The Servile State — Section One. Definitions (part 3)" data-chapter="Section One Definitions" data-kind="excerpt"></span>
 
 
 We must then, throughout this inquiry, keep strictly to the economic aspect of the case. Only when that is established and when the modern tendency to the re-establishment of [[Slavery|slavery]] is clear, are we free to discuss the advantages and disadvantages of the revolution through which we are passing.
@@ -1395,7 +1395,7 @@ What of a month, a year, ten years, a lifetime? Suppose an extreme case, and a d
 
 
 
-<span class="atom-split" data-atom="story_03_section_one_definitions--part_04" data-title="The Servile State — Section One. Definitions (part 4)" data-chapter="Story 03 Section One Definitions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_section_one_definitions--part_04" data-title="The Servile State — Section One. Definitions (part 4)" data-chapter="Section One Definitions" data-kind="excerpt"></span>
 
 
 As undoubtedly as it would not be making him a slave in the first case, it would be making him a slave in the second.
@@ -1429,7 +1429,7 @@ One could prove the tendency towards the Servile State in [[England]] to-day to 
 
 
 
-<span class="atom-split" data-atom="story_05_section_three_how_the_servile_institutio--part_01" data-title="The Servile State — Section Three. How the Servile Institution Was for a Time Dissolved (part 1)" data-chapter="Story 05 Section Three How the Servile Institutio" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_section_three_how_the_servile_institutio--part_01" data-title="The Servile State — Section Three. How the Servile Institution Was for a Time Dissolved (part 1)" data-chapter="Section Three How the Servile Institutio" data-kind="excerpt"></span>
 
 
 Section Three. How the Servile Institution Was for a Time Dissolved
@@ -1465,7 +1465,7 @@ The old absolutely owned estate had come to be divided into three portions. One 
 
 
 
-<span class="atom-split" data-atom="story_05_section_three_how_the_servile_institutio--part_02" data-title="The Servile State — Section Three. How the Servile Institution Was for a Time Dissolved (part 2)" data-chapter="Story 05 Section Three How the Servile Institutio" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_section_three_how_the_servile_institutio--part_02" data-title="The Servile State — Section Three. How the Servile Institution Was for a Time Dissolved (part 2)" data-chapter="Section Three How the Servile Institutio" data-kind="excerpt"></span>
 
 
 Upon the first of these portions, Domain, wealth was produced by the obedience of the Slave for certain fixed hours of labour. He must come so many days a week, or upon such and such occasions (all fixed and customary), to till the land of the Domain for his Lord, and all the produce of this must be handed over to the Lord though, of course, a daily wage in kind was allowed, for the labourer must live.
@@ -1493,7 +1493,7 @@ There was a period of apprenticeship at a man’s entry into a Guild, during whi
 
 
 
-<span class="atom-split" data-atom="story_05_section_three_how_the_servile_institutio--part_03" data-title="The Servile State — Section Three. How the Servile Institution Was for a Time Dissolved (part 3)" data-chapter="Story 05 Section Three How the Servile Institutio" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_section_three_how_the_servile_institutio--part_03" data-title="The Servile State — Section Three. How the Servile Institution Was for a Time Dissolved (part 3)" data-chapter="Section Three How the Servile Institutio" data-kind="excerpt"></span>
 
 
 These three forms under which labour was exercised the serf, secure in his position, and burdened only with regular dues, which were but a fraction of his produce; the freeholder, a man independent save for money dues, which were more of a tax than a rent; the Guild, in which well-divided capital worked co-operatively for craft production, for transport and for commerce — all three between them were making for a society which should be based upon the principle of property. All, or most, — the normal family — should own. And on ownership the freedom of the State should repose.
@@ -1523,7 +1523,7 @@ The Industrial System was a growth proceeding from [[Capitalism]], not its cause
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_01" data-title="The Servile State — Section Four. How the Distributive State Failed (part 1)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_01" data-title="The Servile State — Section Four. How the Distributive State Failed (part 1)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 Section Four. How the Distributive State Failed
@@ -1555,7 +1555,7 @@ There was no reason why this state of affairs should not gradually have led to t
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_02" data-title="The Servile State — Section Four. How the Distributive State Failed (part 2)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_02" data-title="The Servile State — Section Four. How the Distributive State Failed (part 2)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 It is important to grasp clearly the nature of this operation, for the whole economic future of [[England]] was to flow from it.
@@ -1583,7 +1583,7 @@ The process was in full swing before Henry died. Unfortunately for England, he l
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_03" data-title="The Servile State — Section Four. How the Distributive State Failed (part 3)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_03" data-title="The Servile State — Section Four. How the Distributive State Failed (part 3)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 In the place of a powerful Crown disposing of revenues far greater than that of any subject, you had a Crown at its wit’s end for money, and dominated by subjects some of whom were its equals in wealth, and who could, especially through the action of Parliament (which they now controlled), do much what they willed with Government.
@@ -1615,7 +1615,7 @@ To that question an answer almost as universal as it is unintelligent has been g
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_04" data-title="The Servile State — Section Four. How the Distributive State Failed (part 4)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_04" data-title="The Servile State — Section Four. How the Distributive State Failed (part 4)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 It is astonishing that a statement so unhistorical should have gained so general a credence. Indeed, were the main truths of English history taught in our schools and universities to-day, were educated men familiar with the determining and major facts of the national past, such follies could never have taken root. The vast growth of the proletariat, the concentration of ownership into the hands of a few owners, and the exploitation by those owners of the mass of the community, had no fatal or necessary connection with the discovery of new and perpetually improving methods of production. The evil proceeded indirect historical sequence, proceeded patently and demonstrably, from the fact that [[England]], the seed-plot of the Industrial System, was already captured by a wealthy oligarchy before the series of great discoveries began.
@@ -1635,7 +1635,7 @@ It was upon this account that the [[Industrial Revolution]], as it is called, to
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_05" data-title="The Servile State — Section Four. How the Distributive State Failed (part 5)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_05" data-title="The Servile State — Section Four. How the Distributive State Failed (part 5)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 The spread of economic oligarchy was everywhere, and not in industry alone. The great landlords destroyed deliberately and of set purpose and to their own ad vantage the common rights over common land. The small plutocracy with which they were knit up, and with whose mercantile elements they were now fused, directed everything to its own ends. That strong central government which should protect the community against the rapacity of a few had gone generations before. [[Capitalism]] triumphant wielded all the mechanism of legislation and of information too. It still holds them; and there is not an example of so-called “Social Reform” to-day which is not demonstrably (though often subconsciously) directed to the further entrenchment and confirmation of an industrial society in which it is taken for granted that a few shall own, that the vast majority shall live at a wage under them, and that all the bulk of Englishmen may hope for is the amelioration of their lot by regulations and by control from above — but not by property; not by freedom.
@@ -1669,7 +1669,7 @@ The moral base upon which our laws are still administered and our conventions ra
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_06" data-title="The Servile State — Section Four. How the Distributive State Failed (part 6)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_06" data-title="The Servile State — Section Four. How the Distributive State Failed (part 6)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 The sanction upon which social life reposes is, in our moral theory, the legal punishment enforceable in our Courts, and the basis presupposed for the security and material happiness of our citizens is the possession of goods which shall guarantee us from anxiety and permit us an independence of action in the midst of our fellowmen.
@@ -1701,7 +1701,7 @@ As a matter of fact, where a few possess the means of production perfectly free 
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_07" data-title="The Servile State — Section Four. How the Distributive State Failed (part 7)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_07" data-title="The Servile State — Section Four. How the Distributive State Failed (part 7)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 Imagine the dispossessed to be ideally perfect cowards, the possessors to consider nothing whatsoever except the buying of their labour in the cheapest market — and the system would break down from the death of children and of out-o’-works and of women. You would not have a State in mere decline such as ours is. You would have a State manifestly and patently perishing.
@@ -1727,7 +1727,7 @@ I might have treated the matter empirically, taking for granted the observation 
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_08" data-title="The Servile State — Section Four. How the Distributive State Failed (part 8)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_08" data-title="The Servile State — Section Four. How the Distributive State Failed (part 8)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 We are clearly no longer possessed of that absolutely political freedom which true [[Capitalism]] essentially demands. The insecurity involved, coupled with the divorce between our traditional morals and the facts of society, have already introduced such novel features as the permission of conspiracy among both possessors and non-possessors, the compulsory provision of security through State action, and all these reforms, implicit or explicit, the tendency of which I am about to examine.
@@ -1763,7 +1763,7 @@ The first model we call [[Socialism]] or the Collectivist State; the second we c
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_09" data-title="The Servile State — Section Four. How the Distributive State Failed (part 9)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_09" data-title="The Servile State — Section Four. How the Distributive State Failed (part 9)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 With so much elucidated, I will proceed to show in my next section why the second model, involving the redistribution of property, is rejected as impracticable by our existing Capitalist Society, and why, therefore, the model chosen by reformers is the first model, that of a Collectivist State.
@@ -1805,7 +1805,7 @@ In a word, the man who desires to re-establish property as an institution normal
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_10" data-title="The Servile State — Section Four. How the Distributive State Failed (part 10)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_10" data-title="The Servile State — Section Four. How the Distributive State Failed (part 10)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 It is not the purpose of this book to show how and under what difficulties a condition of well-divided property might be restored and might take the place (even in [[England]]) of that [[Capitalism]] which is now no longer either stable or tolerable; but for the purposes of contrast and to emphasise my argument I will proceed, before showing how the Collectivist unconsciously makes for the Servile State, to show what difficulties surround the Distributive solution and why, therefore, the Collectivist solution appeals so much more readily to men living under [[Capitalism]].
@@ -1829,7 +1829,7 @@ So true is all this that the stupider kind of Collectivist will often talk of a 
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_11" data-title="The Servile State — Section Four. How the Distributive State Failed (part 11)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_11" data-title="The Servile State — Section Four. How the Distributive State Failed (part 11)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 The whole scheme of Collectivism presents, so far as the proletarian mass of a Capitalist State is concerned, nothing unknown at all, but a promise of some increment in wages and a certainty of far greater ease of mind.
@@ -1863,7 +1863,7 @@ I say that men attempting to achieve Collectivism or [[Socialism]] as the remedy
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_12" data-title="The Servile State — Section Four. How the Distributive State Failed (part 12)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_12" data-title="The Servile State — Section Four. How the Distributive State Failed (part 12)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 The Socialist movement, the first of the three factors in this drift, is itself made up of two kinds of men: there is (a) the man who regards the public ownership of the means of production (and the consequent compulsion of all citizens to work under the direction of the State) as the only feasible solution of our modern social ills. There is also (b) the man who loves the Collectivist ideal in itself, who does not pursue it so much because it is a solution of modern [[Capitalism]], as because it is an ordered and regular form of society which appeals to him in itself. He loves to consider the ideal of a State in which land and capital shall be held by public officials who shall order other men about and so preserve them from the consequences of their vice, ignorance, and folly.
@@ -1895,7 +1895,7 @@ To drop the metaphor, all those things in the true Socialist’s demand which ar
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_13" data-title="The Servile State — Section Four. How the Distributive State Failed (part 13)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_13" data-title="The Servile State — Section Four. How the Distributive State Failed (part 13)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 When the transformation is complete there will be no ground left, nor any demand or necessity, for public ownership. The reformer only asked for it in order to secure security and sufficiency: he has obtained his demand.
@@ -1935,7 +1935,7 @@ It is your “Practical Man” who says: “Whatever you theorists and doctrinai
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_14" data-title="The Servile State — Section Four. How the Distributive State Failed (part 14)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_14" data-title="The Servile State — Section Four. How the Distributive State Failed (part 14)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 It is not difficult to discern that the Practical Man in social reform is exactly the same animal as the Practical Man in every other department of human energy, and may be discovered suffering from the same twin disabilities which stamp the Practical Man where-ever found: these twin disabilities are an inability to define his own first principles and an inability to follow the consequences proceeding from his own action. Both these disabilities proceed from one simple and deplorable form of impotence, the inability to think.
@@ -1967,7 +1967,7 @@ But, as we have seen, the Capitalist State is not a stable, and therefore not a 
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_15" data-title="The Servile State — Section Four. How the Distributive State Failed (part 15)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_15" data-title="The Servile State — Section Four. How the Distributive State Failed (part 15)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 The strength of this memory or tradition is the first element we have to bear in mind in our problem, when we examine how far a particular proletariat, such as the English proletariat to-day, is ready to accept the Servile State, which would condemn it to a perpetual loss of property and of all the free habit which property engenders.
@@ -1993,7 +1993,7 @@ Of this gambling chance and the effect it has upon men’s minds we may say that
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_16" data-title="The Servile State — Section Four. How the Distributive State Failed (part 16)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_16" data-title="The Servile State — Section Four. How the Distributive State Failed (part 16)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 These two factors, then, the memory of an older condition of economic freedom, and the effect of a hope individuals might entertain of escaping from the wage-earning class, the two factors which might act most strongly against the acceptation of the Servile State by that class, have so fallen in value that they offer but little opposition to the third factor in the situation which is making so strongly for the Servile State, and which consists in the necessity all men acutely feel for sufficiency and for security. It is this third factor alone which need be seriously considered to-day, when we ask ourselves how far the material upon which social reform is working, that is, the masses of the people, may be ready to accept the change.
@@ -2027,7 +2027,7 @@ Substitute for the term “employee” in one of our new laws the term “serf,�
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_17" data-title="The Servile State — Section Four. How the Distributive State Failed (part 17)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_17" data-title="The Servile State — Section Four. How the Distributive State Failed (part 17)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 All forces, then, are making for the Servile State in this the final phase of our evil Capitalist society in [[England]]. The generous reformer is canalised towards it; the ungenerous one finds it a very mirror of his ideal; the herd of “practical” men meet at every stage in its inception the “practical” steps which they expected and demanded; while that proletarian mass upon whom the experiment is being tried have lost the tradition of property and of freedom which might resist the change, and are most powerfully inclined to its acceptance by the positive benefits which it confers.
@@ -2071,7 +2071,7 @@ But it is not a deadlock if the Capitalist is a fool. The State can go to the Ca
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_18" data-title="The Servile State — Section Four. How the Distributive State Failed (part 18)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_18" data-title="The Servile State — Section Four. How the Distributive State Failed (part 18)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 Out of what does this extra amount come? Out of the State’s power to tax.
@@ -2113,7 +2113,7 @@ I need hardly add that as a matter of fact the so-called “Socialist” and con
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_19" data-title="The Servile State — Section Four. How the Distributive State Failed (part 19)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_19" data-title="The Servile State — Section Four. How the Distributive State Failed (part 19)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 But these practical considerations of the way in which sham Socialist experiments are working belong rather to my next section, in which I shall deal with the actual beginnings of the Servile State in our midst.
@@ -2153,7 +2153,7 @@ There had existed from all time in every community, and there was founded upon c
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_20" data-title="The Servile State — Section Four. How the Distributive State Failed (part 20)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_20" data-title="The Servile State — Section Four. How the Distributive State Failed (part 20)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 The point is subtle, but, as I say, fundamental. It involved no distinction of status between employer and employed.
@@ -2193,7 +2193,7 @@ They fall roughly into three categories: —
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_21" data-title="The Servile State — Section Four. How the Distributive State Failed (part 21)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_21" data-title="The Servile State — Section Four. How the Distributive State Failed (part 21)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 (3) Measures which compel a man lacking the means of production to labour, though he may have made no contract to that effect.
@@ -2235,7 +2235,7 @@ Such schemes definitely divide citizens into two classes, the Capitalist and the
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_22" data-title="The Servile State — Section Four. How the Distributive State Failed (part 22)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_22" data-title="The Servile State — Section Four. How the Distributive State Failed (part 22)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 When this first experiment in a minimum wage was being debated in Parliament, what was the great issue of debate? Upon what did those who were the most ardent reformers particularly insist? Not that the miners should have an avenue open to them for obtaining possession of the mines; not even that the State should have an avenue open to it for obtaining such possession; but that the minimum wage should be fixed at a certain satisfactory level! That, as our recent experience testifies for all of us, was the crux of the quarrel. And that such a point should be the crux, not the socialisation of the mines, nor the admission of the proletariat to the means of production, but only a sufficiency and a security of wage, is amply significant of the perhaps irresistible forces which are making in the direction for which I argue in this book.
@@ -2271,7 +2271,7 @@ The first of these forms is the compulsion which the Courts will exercise upon e
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_23" data-title="The Servile State — Section Four. How the Distributive State Failed (part 23)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_23" data-title="The Servile State — Section Four. How the Distributive State Failed (part 23)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 As to the first form: —
@@ -2295,7 +2295,7 @@ The second is equally clear. In the production of wheat the healthy and skilled 
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_24" data-title="The Servile State — Section Four. How the Distributive State Failed (part 24)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_24" data-title="The Servile State — Section Four. How the Distributive State Failed (part 24)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 There remains one last remark to be made upon the concrete side of my subject. I have in this last section illustrated the tendency towards the Servile State from actual laws and actual projects with which all are to-day familiar in English industrial society, and I have shown how these are certainly establishing the proletariat in a novel, but to them satisfactory, Servile Status.
@@ -2327,7 +2327,7 @@ With these concrete examples showing how Collectivism, in attempting its practic
 
 
 
-<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_25" data-title="The Servile State — Section Four. How the Distributive State Failed (part 25)" data-chapter="Story 06 Section Four How the Distributive State" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_section_four_how_the_distributive_state--part_25" data-title="The Servile State — Section Four. How the Distributive State Failed (part 25)" data-chapter="Section Four How the Distributive State" data-kind="excerpt"></span>
 
 
 I believe I have proved my case.

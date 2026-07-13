@@ -19,7 +19,7 @@ cited below.  Maisie Ward references this material as being some of his
 best and also, ironically, some of his earliest.  Haw, George, ed.
 The Religious Doubts of [[democracy|Democracy]].  [[London]]:  MacMillan, 1904.
 
-                        [[Christianity]] and Rationalism
+[[Christianity]] and Rationalism
 
 My friend, Mr. George Haw, has asked me to state, in one or two articles,
 my general belief on the subject of [[Christianity]], to be inserted in
@@ -326,7 +326,7 @@ citata qui sotto.  Maisie Ward indica queste pagine come tra le sue
 migliori e, ironicamente, anche tra le sue più precoci.  Haw, George, a cura di.
 The Religious Doubts of [[democracy|Democracy]].  [[London|Londra]]:  MacMillan, 1904.
 
-                        [[Christianity]] e il Razionalismo
+[[Christianity]] e il Razionalismo
 
 Il mio amico, il signor George Haw, mi ha chiesto di esporre, in uno o due articoli,
 la mia opinione generale in materia di [[Christianity|Cristianesimo]], da pubblicarsi
@@ -635,7 +635,7 @@ cited below.  Maisie Ward references this material as being some of his
 best and also, ironically, some of his earliest.  Haw, George, ed.
 The Religious Doubts of [[democracy|Democracy]].  [[London]]:  MacMillan, 1904.
 
-                        [[Christianity]] and Rationalism
+[[Christianity]] and Rationalism
 
 My friend, Mr. George Haw, has asked me to state, in one or two articles,
 my general belief on the subject of [[Christianity]], to be inserted in
@@ -737,7 +737,7 @@ citata qui sotto.  Maisie Ward indica queste pagine come tra le sue
 migliori e, ironicamente, anche tra le sue più precoci.  Haw, George, a cura di.
 The Religious Doubts of [[democracy|Democracy]].  [[London|Londra]]:  MacMillan, 1904.
 
-                        [[Christianity]] e il Razionalismo
+[[Christianity]] e il Razionalismo
 
 Il mio amico, il signor George Haw, mi ha chiesto di esporre, in uno o due articoli,
 la mia opinione generale in materia di [[Christianity|Cristianesimo]], da pubblicarsi

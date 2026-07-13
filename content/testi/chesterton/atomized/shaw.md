@@ -1292,7 +1292,7 @@ As far as I can make out, it was almost entirely female.
 When a book came out called A GIRL AMONG THE ANARCHISTS, G. B. S. was
 provoked to a sort of explosive reminiscence.  "A girl among
 the anarchists!" he exclaimed to his present biographer;
-"if they had said `A man among the anarchists' it would
+"if they had said ‘A man among the anarchists' it would
 have been more of an adventure."  He is ready to tell other
 tales of this eccentric environment, most of which does
 not convey an impression of a very bracing atmosphere.
@@ -5748,7 +5748,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_to_the_first_edition" data-title="Shaw — INTRODUCTION TO THE FIRST EDITION" data-chapter="Story 01 INTRODUCTION TO THE FIRST EDITION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction_to_the_first_edition" data-title="Shaw — INTRODUCTION TO THE FIRST EDITION" data-chapter="INTRODUCTION TO THE FIRST EDITION" data-kind="story"></span>
 
 
 Introduction to the First Edition
@@ -5780,7 +5780,7 @@ G. K. C.
 
 
 
-<span class="atom-split" data-atom="story_02_the_problem_of_a_preface" data-title="Shaw — THE PROBLEM OF A PREFACE" data-chapter="Story 02 THE PROBLEM OF A PREFACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_problem_of_a_preface" data-title="Shaw — THE PROBLEM OF A PREFACE" data-chapter="THE PROBLEM OF A PREFACE" data-kind="story"></span>
 
 
 The Problem of a Preface
@@ -5870,7 +5870,7 @@ is Mr. Bernard [[Shaw]] himself, the man of many introductions.
 
 
 
-<span class="atom-split" data-atom="story_03_the_irishman--part_01" data-title="Shaw — THE IRISHMAN (part 1)" data-chapter="Story 03 THE IRISHMAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_irishman--part_01" data-title="Shaw — THE IRISHMAN (part 1)" data-chapter="THE IRISHMAN" data-kind="excerpt"></span>
 
 
 The Irishman
@@ -5995,7 +5995,7 @@ of Milo; all that there is of him is admirable.
 
 
 
-<span class="atom-split" data-atom="story_03_the_irishman--part_02" data-title="Shaw — THE IRISHMAN (part 2)" data-chapter="Story 03 THE IRISHMAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_irishman--part_02" data-title="Shaw — THE IRISHMAN (part 2)" data-chapter="THE IRISHMAN" data-kind="excerpt"></span>
 
 
 But in any case this Irish [[innocence]] is peculiar and fundamental
@@ -6120,7 +6120,7 @@ of my coat?"
 
 
 
-<span class="atom-split" data-atom="story_03_the_irishman--part_03" data-title="Shaw — THE IRISHMAN (part 3)" data-chapter="Story 03 THE IRISHMAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_irishman--part_03" data-title="Shaw — THE IRISHMAN (part 3)" data-chapter="THE IRISHMAN" data-kind="excerpt"></span>
 
 
 But there is a second cause which creates the English fallacy
@@ -6223,7 +6223,7 @@ In other words, he entered England as an Irishman.
 
 
 
-<span class="atom-split" data-atom="story_04_the_puritan--part_01" data-title="Shaw — THE PURITAN (part 1)" data-chapter="Story 04 THE PURITAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_puritan--part_01" data-title="Shaw — THE PURITAN (part 1)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
 
 
 The Puritan
@@ -6385,7 +6385,7 @@ as hate England.
 
 
 
-<span class="atom-split" data-atom="story_04_the_puritan--part_02" data-title="Shaw — THE PURITAN (part 2)" data-chapter="Story 04 THE PURITAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_puritan--part_02" data-title="Shaw — THE PURITAN (part 2)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
 
 
 I will not dogmatise upon the difficult question as to whether
@@ -6506,7 +6506,7 @@ His favourite author is Bunyan.
 
 
 
-<span class="atom-split" data-atom="story_04_the_puritan--part_03" data-title="Shaw — THE PURITAN (part 3)" data-chapter="Story 04 THE PURITAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_puritan--part_03" data-title="Shaw — THE PURITAN (part 3)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
 
 
 But along with what was inspiring and direct in [[Puritanism]] Bernard [[Shaw]]
@@ -6623,7 +6623,7 @@ Into what kind of world did he step?
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_01" data-title="Shaw — THE PROGRESSIVE (part 1)" data-chapter="Story 05 THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_01" data-title="Shaw — THE PROGRESSIVE (part 1)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
 
 
 The Progressive
@@ -6741,7 +6741,7 @@ of an escape from the curse of Adam.
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_02" data-title="Shaw — THE PROGRESSIVE (part 2)" data-chapter="Story 05 THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_02" data-title="Shaw — THE PROGRESSIVE (part 2)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
 
 
 Bernard [[Shaw]] happened to be born in an epoch, or rather at the end
@@ -6901,7 +6901,7 @@ with original and suggestive thoughts.
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_03" data-title="Shaw — THE PROGRESSIVE (part 3)" data-chapter="Story 05 THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_03" data-title="Shaw — THE PROGRESSIVE (part 3)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
 
 
 But while Bernard [[Shaw]] pleasantly surprised innumerable cranks
@@ -7012,7 +7012,7 @@ was to take the gilt off the gingerbread.
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_04" data-title="Shaw — THE PROGRESSIVE (part 4)" data-chapter="Story 05 THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_04" data-title="Shaw — THE PROGRESSIVE (part 4)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
 
 
 Now I have no particular objection to people who take the gilt
@@ -7066,7 +7066,7 @@ As far as I can make out, it was almost entirely female.
 When a book came out called A GIRL AMONG THE ANARCHISTS, G. B. S. was
 provoked to a sort of explosive reminiscence.  "A girl among
 the anarchists!" he exclaimed to his present biographer;
-"if they had said `A man among the anarchists' it would
+"if they had said ‘A man among the anarchists' it would
 have been more of an adventure."  He is ready to tell other
 tales of this eccentric environment, most of which does
 not convey an impression of a very bracing atmosphere.
@@ -7128,7 +7128,7 @@ is a sort of cosmic housekeeping; that God Himself is very economical,
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_05" data-title="Shaw — THE PROGRESSIVE (part 5)" data-chapter="Story 05 THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_05" data-title="Shaw — THE PROGRESSIVE (part 5)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
 
 
 This combination of the widest kindness and consideration
@@ -7239,7 +7239,7 @@ brutality wriggled like worms.
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_06" data-title="Shaw — THE PROGRESSIVE (part 6)" data-chapter="Story 05 THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_06" data-title="Shaw — THE PROGRESSIVE (part 6)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
 
 
 In this quarrel one cannot wish [[Shaw]] even an inch less contemptuous,
@@ -7369,7 +7369,7 @@ neglect to salute a passion so implacable and so pure.
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_01" data-title="Shaw — THE CRITIC (part 1)" data-chapter="Story 06 THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_01" data-title="Shaw — THE CRITIC (part 1)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
 
 
 The Critic
@@ -7488,7 +7488,7 @@ before the single eye.
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_02" data-title="Shaw — THE CRITIC (part 2)" data-chapter="Story 06 THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_02" data-title="Shaw — THE CRITIC (part 2)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
 
 
 Added to the effect of the amiable dogmatic voice and lean,
@@ -7598,7 +7598,7 @@ and mystery in the [[Biography|biography]].
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_03" data-title="Shaw — THE CRITIC (part 3)" data-chapter="Story 06 THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_03" data-title="Shaw — THE CRITIC (part 3)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
 
 
 For the purpose of our present generalisation it is only
@@ -7724,7 +7724,7 @@ the stony earth and the star against the abyss.
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_04" data-title="Shaw — THE CRITIC (part 4)" data-chapter="Story 06 THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_04" data-title="Shaw — THE CRITIC (part 4)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
 
 
 His misunderstanding of Shakespeare arose largely from the fact
@@ -7838,7 +7838,7 @@ it is the Puritan suddenly refusing to be the mere Progressive.
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_05" data-title="Shaw — THE CRITIC (part 5)" data-chapter="Story 06 THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_05" data-title="Shaw — THE CRITIC (part 5)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
 
 
 But this attitude obviously laid on the ethical [[Lover|lover]] of Ibsen
@@ -7942,7 +7942,7 @@ whose name is Everyman and whose [[Honour|honour]] we have all in our keeping.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_01" data-title="Shaw — THE DRAMATIST (part 1)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_01" data-title="Shaw — THE DRAMATIST (part 1)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 The Dramatist
@@ -8046,7 +8046,7 @@ because a perfectly rational army would run away.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_02" data-title="Shaw — THE DRAMATIST (part 2)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_02" data-title="Shaw — THE DRAMATIST (part 2)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 The brain of Bernard [[Shaw]] was like a wedge in the literal sense.
@@ -8156,7 +8156,7 @@ to run [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_03" data-title="Shaw — THE DRAMATIST (part 3)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_03" data-title="Shaw — THE DRAMATIST (part 3)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 There are one or two errors in the play; and they are all due
@@ -8277,7 +8277,7 @@ will ever find themselves behind it.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_04" data-title="Shaw — THE DRAMATIST (part 4)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_04" data-title="Shaw — THE DRAMATIST (part 4)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 But it is irritating to think what diamonds, what dazzling silver
@@ -8396,7 +8396,7 @@ and was suddenly stopped by the Censor of Plays.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_05" data-title="Shaw — THE DRAMATIST (part 5)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_05" data-title="Shaw — THE DRAMATIST (part 5)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 The Censor of Plays is a small and accidental
@@ -8536,7 +8536,7 @@ But it is an aesthetic repulsion, and a right one.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_06" data-title="Shaw — THE DRAMATIST (part 6)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_06" data-title="Shaw — THE DRAMATIST (part 6)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 But I have only dwelt on this particular fighting phase because it
@@ -8647,7 +8647,7 @@ contained two others about which it is easier to speak.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_07" data-title="Shaw — THE DRAMATIST (part 7)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_07" data-title="Shaw — THE DRAMATIST (part 7)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 The third play in order in the series called PLAYS FOR PURITANS
@@ -8766,7 +8766,7 @@ and as dead as [[The Sphinx|the Sphinx]].
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_08" data-title="Shaw — THE DRAMATIST (part 8)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_08" data-title="Shaw — THE DRAMATIST (part 8)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 But whether the Shavian Caesar is a sound ideal or no,
@@ -8909,7 +8909,7 @@ that you were born once.
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_09" data-title="Shaw — THE DRAMATIST (part 9)" data-chapter="Story 07 THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_09" data-title="Shaw — THE DRAMATIST (part 9)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
 
 
 Some of the incidental wit in the Caesarian drama is excellent
@@ -9051,7 +9051,7 @@ and it has made him all his enemies.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_01" data-title="Shaw — THE PHILOSOPHER (part 1)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_01" data-title="Shaw — THE PHILOSOPHER (part 1)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 The Philosopher
@@ -9179,7 +9179,7 @@ to do it for him.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_02" data-title="Shaw — THE PHILOSOPHER (part 2)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_02" data-title="Shaw — THE PHILOSOPHER (part 2)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 Sometimes, especially in his later plays, he allows his clear
@@ -9295,7 +9295,7 @@ which ties safely together the whole bundle of human life.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_03" data-title="Shaw — THE PHILOSOPHER (part 3)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_03" data-title="Shaw — THE PHILOSOPHER (part 3)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 This blindness to [[Paradox|paradox]] everywhere perplexes his outlook.
@@ -9417,7 +9417,7 @@ They always sing the praises of "true [[lovers]]," and that is the final
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_04" data-title="Shaw — THE PHILOSOPHER (part 4)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_04" data-title="Shaw — THE PHILOSOPHER (part 4)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 The same is true of Mr. [[Shaw]]'s refusal to understand the [[Love|love]] of
@@ -9524,7 +9524,7 @@ and not as the scribes.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_05" data-title="Shaw — THE PHILOSOPHER (part 5)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_05" data-title="Shaw — THE PHILOSOPHER (part 5)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 This is the first and finest item of the original Bernard [[Shaw]] creed:
@@ -9663,7 +9663,7 @@ with which we shall shortly be concerned.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_06" data-title="Shaw — THE PHILOSOPHER (part 6)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_06" data-title="Shaw — THE PHILOSOPHER (part 6)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 JOHN BULL'S OTHER ISLAND represents a realism somewhat more tinged
@@ -9771,7 +9771,7 @@ the intoxication of the spirit, the wine of the [[Blood|blood]] of God.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_07" data-title="Shaw — THE PHILOSOPHER (part 7)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_07" data-title="Shaw — THE PHILOSOPHER (part 7)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 There are indeed doctrines of Nietzsche that are not Christian,
@@ -9887,7 +9887,7 @@ as ninety-nine hundredths of a man in a suburban villa.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_08" data-title="Shaw — THE PHILOSOPHER (part 8)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_08" data-title="Shaw — THE PHILOSOPHER (part 8)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 It is characteristic of him to say that he rushed into print
@@ -9991,7 +9991,7 @@ when he is emotional.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_09" data-title="Shaw — THE PHILOSOPHER (part 9)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_09" data-title="Shaw — THE PHILOSOPHER (part 9)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 There is one really noble moment when Anne offers for all her cynical
@@ -10099,7 +10099,7 @@ only for the thing [[unborn]], is the peak of his utterance as a [[Prophet|proph
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_10" data-title="Shaw — THE PHILOSOPHER (part 10)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_10" data-title="Shaw — THE PHILOSOPHER (part 10)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 The two important plays that he has since given
@@ -10235,7 +10235,7 @@ into his own.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_11" data-title="Shaw — THE PHILOSOPHER (part 11)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_11" data-title="Shaw — THE PHILOSOPHER (part 11)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 The method of his life has remained mostly unchanged.
@@ -10343,7 +10343,7 @@ with his fingers in his ears.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_12" data-title="Shaw — THE PHILOSOPHER (part 12)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_12" data-title="Shaw — THE PHILOSOPHER (part 12)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 Bernard [[Shaw]] has occupied much of his life in trying to
@@ -10456,7 +10456,7 @@ Let us eat, drink, and be serious.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_13" data-title="Shaw — THE PHILOSOPHER (part 13)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_13" data-title="Shaw — THE PHILOSOPHER (part 13)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 The second of the two points on which I think [[Shaw]] has done definite
@@ -10576,7 +10576,7 @@ in which the work of [[Shaw]] has been good as [[Well|well]] as great.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_14" data-title="Shaw — THE PHILOSOPHER (part 14)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_14" data-title="Shaw — THE PHILOSOPHER (part 14)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 In the first place, and quite apart from all particular theories,
@@ -10690,7 +10690,7 @@ him sharply, saying, "There is a Man in the Street."
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_15" data-title="Shaw — THE PHILOSOPHER (part 15)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_15" data-title="Shaw — THE PHILOSOPHER (part 15)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 The second phase of the man's really fruitful efficacy is in a sense
@@ -10820,7 +10820,7 @@ on the stage.
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_16" data-title="Shaw — THE PHILOSOPHER (part 16)" data-chapter="Story 08 THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_16" data-title="Shaw — THE PHILOSOPHER (part 16)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
 
 
 Lastly, he has obliterated the mere cynic.  He has been so much
@@ -10944,7 +10944,7 @@ FINE
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_01" data-title="Shaw — THE LATER PHASES (part 1)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_01" data-title="Shaw — THE LATER PHASES (part 1)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 THE LATER PHASES*
@@ -11070,7 +11070,7 @@ would not be something that ten million men had said before.
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_02" data-title="Shaw — THE LATER PHASES (part 2)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_02" data-title="Shaw — THE LATER PHASES (part 2)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 As I have lightly and even irresponsibly hinted, I have not
@@ -11198,7 +11198,7 @@ from the annoying omission of having never been born.
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_03" data-title="Shaw — THE LATER PHASES (part 3)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_03" data-title="Shaw — THE LATER PHASES (part 3)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 Never being born might be great fun, if we could really live
@@ -11320,7 +11320,7 @@ and Prussian sabres.
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_04" data-title="Shaw — THE LATER PHASES (part 4)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_04" data-title="Shaw — THE LATER PHASES (part 4)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 The moral of all this is, I repeat, that he had a less direct
@@ -11447,7 +11447,7 @@ Mr. [[Shaw]] was quite content with believing that he could see through it.
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_05" data-title="Shaw — THE LATER PHASES (part 5)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_05" data-title="Shaw — THE LATER PHASES (part 5)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 Anyhow, nearly everybody was a Pacifist soon after the War.
@@ -11586,7 +11586,7 @@ happens on the Continent.
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_06" data-title="Shaw — THE LATER PHASES (part 6)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_06" data-title="Shaw — THE LATER PHASES (part 6)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 This business about Creative Evolution, noted in my book
@@ -11694,7 +11694,7 @@ which everybody we know of needs very much indeed.
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_07" data-title="Shaw — THE LATER PHASES (part 7)" data-chapter="Story 09 THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_07" data-title="Shaw — THE LATER PHASES (part 7)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
 
 
 Thus, in the Shavian atmosphere, the philosopher is not trying to get

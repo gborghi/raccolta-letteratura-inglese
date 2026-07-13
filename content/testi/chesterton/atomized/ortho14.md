@@ -13,17 +13,16 @@ tags:
 
 <span class="atom-split" data-atom="ortho14" data-title="Orthodoxy" data-chapter="" data-kind="intro"></span>
 
-# [[ortho14]]
 
 ORTHODOXY
 
-                              BY
+BY
 
-                     GILBERT K. CHESTERTON
+GILBERT K. CHESTERTON
 
 PREFACE
 
-     This book is meant to be a companion to "Heretics,"
+This book is meant to be a companion to "Heretics,"
 and to put the positive side in addition to the negative. 
 Many critics complained of the book called "Heretics" because
 it merely criticised current philosophies without offering any
@@ -43,7 +42,7 @@ by the Christian Theology.  The writer regards it as amounting to
 a convincing creed.  But if it is not that it is at least
 a repeated and surprising coincidence.
 
-                                                Gilbert K. Chesterton.
+Gilbert K. Chesterton.
 
 CONTENTS
 
@@ -69,7 +68,7 @@ ORTHODOXY
 
 I INTRODUCTION IN DEFENCE OF EVERYTHING ELSE
 
-     THE only possible excuse for this book is that it is an
+THE only possible excuse for this book is that it is an
 answer to a challenge.  Even a bad shot is dignified when he
 accepts a duel.  When some [[Time|time]] ago I published a series of
 hasty but sincere papers, under the name of "Heretics,"
@@ -89,7 +88,7 @@ to state the [[philosophy]] in which I have come to believe.
 I will not call it my [[philosophy]]; for I did not make it.
 God and humanity made it; and it made me.
 
-     I have often had a fancy for writing a [[Romance|romance]] about an
+I have often had a fancy for writing a [[Romance|romance]] about an
 English yachtsman who slightly miscalculated his course and
 discovered England under the impression that it was a new
 island in the South Seas.  I always find, however, that I am
@@ -121,7 +120,7 @@ monstrous and ancient lamps, how can this world give us at once
 the fascination of a strange town and the comfort and [[Honour|honour]] of
 being our own town?
 
-     To show that a [[Faith|faith]] or a [[philosophy]] is true from every
+To show that a [[Faith|faith]] or a [[philosophy]] is true from every
 standpoint would be too big an undertaking even for a much
 bigger book than this; it is necessary to follow one path of
 argument; and this is the path that I here propose to follow.
@@ -150,7 +149,7 @@ We need to be happy in this wonderland without once being merely
 comfortable.  It is THIS achievement of my creed that I shall
 chiefly pursue in these pages.
 
-     But I have a peculiar reason for mentioning the man in a yacht,
+But I have a peculiar reason for mentioning the man in a yacht,
 who discovered England.  For I am that man in a yacht.
 I discovered England.  I do not see how this book can avoid
 being egotistical; and I do not quite see (to tell the [[Truth|truth]])
@@ -180,7 +179,7 @@ with the heartiest sentiments to all the jolly people who
 hate what I write, and regard it (very justly, for all I know),
 as a piece of poor clowning or a single tiresome joke.
 
-     For if this book is a joke it is a joke against me.  I am
+For if this book is a joke it is a joke against me.  I am
 the man who with the utmost daring discovered what had been
 discovered before.  If there is an element of farce in what
 follows, the farce is at my own expense; for this book explains
@@ -208,7 +207,7 @@ first to find England; I thought I was the first to find Europe.
 I did try to found a heresy of my own; and when I had put the
 last touches to it, I discovered that it was orthodoxy.
 
-     It may be that somebody will be entertained by the account
+It may be that somebody will be entertained by the account
 of this happy fiasco.  It might amuse a friend or an enemy to
 read how I gradually learnt from the [[Truth|truth]] of some stray legend
 or from the falsehood of some dominant [[philosophy]], things that
@@ -224,7 +223,7 @@ this book.  But there is in everything a reasonable division of labour.
 I have written the book, and nothing on earth would induce me to
 read it.
 
-     I add one purely pedantic note which comes, as a note
+I add one purely pedantic note which comes, as a note
 naturally should, at the beginning of the book.  These essays
 are concerned only to discuss the actual fact that the central
 Christian theology (sufficiently summarized in the Apostles' Creed)
@@ -245,7 +244,7 @@ me another challenge, and I will write him another book.
 
 II THE MANIAC
 
-     Thoroughly worldly people never understand even the world;
+Thoroughly worldly people never understand even the world;
 they rely altogether on a few cynical maxims which are not
 true.  Once I remember walking with a prosperous publisher,
 who made a remark which I had often heard before; it is, indeed,
@@ -274,14 +273,14 @@ because he believes in himself. Complete [[Self|self]]-confidence is
 not merely a sin; complete [[Self|self]]-confidence is a weakness. 
 Believing utterly in one's [[Self|self]] is a hysterical and superstitious
 belief like believing in Joanna Southcote:  the man who has it
-has `Hanwell' written on his face as plain as it is written on
+has ‘Hanwell' written on his face as plain as it is written on
 that omnibus."  And to all this my friend the publisher made this
 very deep and effective reply, "Well, if a man is not to believe
 in himself, in what is he to believe?"  After a long pause I replied,
 "I will go home and write a book in answer to that question." 
 This is the book that I have written in answer to it.
 
-     But I think this book may well start where our argument started
+But I think this book may well start where our argument started
 --in the neighbourhood of the mad-house.  Modern masters of
 science are much impressed with the need of beginning all
 inquiry with a fact.  The ancient masters of religion were
@@ -306,7 +305,7 @@ or he must deny the present union between God and man,
 as all Christians do.  The new theologians seem to think it
 a highly rationalistic solution to deny the cat.
 
-     In this remarkable situation it is plainly not now possible
+In this remarkable situation it is plainly not now possible
 (with any hope of a universal appeal) to start, as our fathers did,
 with the fact of sin.  This very fact which was to them (and is to me)
 as plain as a pikestaff, is the very fact that has been specially
@@ -320,7 +319,7 @@ theories were once judged by whether they tended to make a man lose
 his soul, so for our present purpose all modern thoughts and theories
 may be judged by whether they tend to make a man lose his wits.
 
-     It is true that some speak lightly and loosely of insanity
+It is true that some speak lightly and loosely of insanity
 as in itself attractive.  But a moment's thought will show that
 if disease is beautiful, it is generally some one else's disease.
 A blind man may be picturesque; but it requires two eyes
@@ -348,7 +347,7 @@ The fairy tale discusses what a sane man will do in a mad world.
 The sober realistic novel of to-day discusses what an essential lunatic
 will do in a dull world.
 
-     Let us begin, then, with the mad-house; from this evil and
+Let us begin, then, with the mad-house; from this evil and
 fantastic inn let us set forth on our intellectual journey.
 Now, if we are to glance at the philosophy of sanity, the first
 thing to do in the matter is to blot out one big and common mistake. 
@@ -397,7 +396,7 @@ exaltation and expansion, a world to stretch himself in.  The poet
 only asks to get his head into the heavens.  It is the logician who
 seeks to get the heavens into his head.  And it is his head that splits.
 
-     It is a small matter, but not irrelevant, that this
+It is a small matter, but not irrelevant, that this
 striking mistake is commonly supported by a striking misquotation.
 We have all heard people cite the celebrated line of Dryden as
 "Great genius is to madness near allied."  But Dryden did not say
@@ -417,7 +416,7 @@ the mind to reckon up the mind.  A flippant person has asked
 why we say, "As mad as a hatter."  A more flippant person might
 answer that a hatter is mad because he has to measure the human head.
 
-     And if great reasoners are often maniacal, it is equally
+And if great reasoners are often maniacal, it is equally
 true that maniacs are commonly great reasoners.  When I was
 engaged in a controversy with the CLARION on the matter of free will,
 that able writer Mr. R.B.Suthers said that free will was lunacy,
@@ -458,7 +457,7 @@ Indeed, the common phrase for insanity is in this respect a
 misleading one.  The madman is not the man who has lost his reason.
 The madman is the man who has lost everything except his reason.
 
-     The madman's explanation of a thing is always complete,
+The madman's explanation of a thing is always complete,
 and often in a purely rational sense satisfactory.  Or, to speak
 more strictly, the insane explanation, if not conclusive,
 is at least unanswerable; this may be observed specially in the
@@ -474,7 +473,7 @@ authorities to do.  Or if a man says that he is Jesus Christ,
 it is no answer to tell him that the world denies his divinity;
 for the world denied Christ's.
 
-     Nevertheless he is wrong.  But if we attempt to trace his error
+Nevertheless he is wrong.  But if we attempt to trace his error
 in exact terms, we shall not find it quite so easy as we had supposed. 
 Perhaps the nearest we can get to expressing it is to say this: 
 that his mind moves in a perfect but narrow circle.  A small circle
@@ -533,7 +532,7 @@ more of you there would be, if the hammer of a higher God could smash
 your small cosmos, scattering the stars like spangles, and leave you
 in the open, free like other men to look up as well as down!"
 
-     And it must be remembered that the most purely practical
+And it must be remembered that the most purely practical
 science does take this view of mental evil; it does not seek to
 argue with it like a heresy but simply to snap it like a spell. 
 Neither modern science nor ancient religion believes in complete
@@ -569,7 +568,7 @@ the Kingdom of Heaven as a child, but to enter it as an imbecile,
 rather than with your whole intellect to be cast into hell
 --or into Hanwell.
 
-     Such is the madman of experience; he is commonly a reasoner,
+Such is the madman of experience; he is commonly a reasoner,
 frequently a successful reasoner.  Doubtless he could be
 vanquished in mere reason, and the case against him put logically.
 But it can be put much more precisely in more general and even
@@ -593,7 +592,7 @@ and if the universe is paved with it, it is still white on black.
 Like the lunatic, they cannot alter their standpoint; they
 cannot make a mental effort and suddenly see it black on white.
 
-     Take first the more obvious case of materialism.  As an
+Take first the more obvious case of materialism.  As an
 explanation of the world, materialism has a sort of insane simplicity.
 It has just the quality of the madman's argument; we have at
 once the sense of it covering everything and the sense of it
@@ -610,7 +609,7 @@ or first love or fear upon the sea.  The earth is so very large,
 and the cosmos is so very small.  The cosmos is about the
 smallest hole that a man can hide his head in.
 
-     It must be understood that I am not now discussing the relation
+It must be understood that I am not now discussing the relation
 of these creeds to truth; but, for the present, solely their relation
 to health.  Later in the argument I hope to attack the question
 of objective verity; here I speak only of a phenomenon of psychology. 
@@ -636,7 +635,7 @@ and (according to Haeckel) the whole of life is something much
 more grey, narrow, and trivial than many separate aspects of it. 
 The parts seem greater than the whole.
 
-     For we must remember that the materialist philosophy
+For we must remember that the materialist philosophy
 (whether true or not) is certainly much more limiting than any religion. 
 In one sense, of course, all intelligent ideas are narrow. 
 They cannot be broader than themselves.  A Christian is only
@@ -667,7 +666,7 @@ just as the interesting person before mentioned is quite sure
 that he is simply and solely a chicken.  Materialists and madmen
 never have doubts.
 
-     Spiritual doctrines do not actually limit the mind as do
+Spiritual doctrines do not actually limit the mind as do
 materialistic denials.  Even if I believe in immortality I need not
 think about it.  But if I disbelieve in immortality I must not
 think about it.  In the first case the road is open and I can
@@ -700,7 +699,7 @@ to resist temptations, to incite mobs, to make New Year resolutions,
 to pardon sinners, to rebuke tyrants, or even to say "thank you"
 for the mustard.
 
-     In passing from this subject I may note that there is
+In passing from this subject I may note that there is
 a queer fallacy to the effect that materialistic fatalism is in
 some way favourable to mercy, to the abolition of cruel punishments
 or punishments of any kind.  This is startlingly the reverse of
@@ -723,7 +722,7 @@ Considered as a figure, therefore, the materialist has the fantastic
 outline of the figure of the madman.  Both take up a position
 at once unanswerable and intolerable.
 
-     Of course it is not only of the materialist that all this
+Of course it is not only of the materialist that all this
 is true.  The same would apply to the other extreme of
 speculative logic.  There is a sceptic far more terrible than
 he who believes that everything began in matter.  It is possible
@@ -749,7 +748,7 @@ his own insane pencil on the walls of his cell.  But over his
 cell shall be written, with dreadful truth, "He believes in
 himself."
 
-     All that concerns us here, however, is to note that this
+All that concerns us here, however, is to note that this
 panegoistic extreme of thought exhibits the same paradox as
 the other extreme of materialism.  It is equally complete in theory
 and equally crippling in practice.  For the sake of simplicity,
@@ -782,7 +781,7 @@ supercilious theosophists and higher scientists of to-day is,
 indeed, very well presented by a serpent eating his tail,
 a degraded animal who destroys even himself.
 
-     This chapter is purely practical and is concerned with
+This chapter is purely practical and is concerned with
 what actually is the chief mark and element of insanity; we may
 say in summary that it is reason used without root, reason in
 the void.  The man who begins to think without the proper first
@@ -836,7 +835,7 @@ can grow without changing.  The circle returns upon itself and
 is bound.  The cross opens its arms to the four winds; it is a
 signpost for free travellers.
 
-     Symbols alone are of even a cloudy value in speaking of
+Symbols alone are of even a cloudy value in speaking of
 this deep matter; and another symbol from physical nature will
 express sufficiently well the real place of mysticism before mankind. 
 The one created thing which we cannot look at is the one thing
@@ -860,7 +859,7 @@ and has given to them all her name.
 
 III THE SUICIDE OF THOUGHT
 
-     The phrases of the street are not only forcible but subtle: 
+The phrases of the street are not only forcible but subtle: 
 for a figure of speech can often get into a crack too small for
 a definition.  Phrases like "put out" or "off colour" might
 have been coined by Mr. Henry James in an agony of verbal
@@ -876,7 +875,7 @@ I could not express myself more exactly than by saying that he
 has a heroically large and generous heart; but not a heart in
 the right place.  And this is so of the typical society of our time.
 
-     The modern world is not evil; in some ways the modern
+The modern world is not evil; in some ways the modern
 world is far too good.  It is full of wild and wasted virtues.
 When a religious scheme is shattered (as Christianity was
 shattered at the Reformation), it is not merely the vices that
@@ -907,7 +906,7 @@ righteousness and peace kiss each other.  Now they do not even bow.
 But a much stronger case than these two of truth and pity can be
 found in the remarkable case of the dislocation of humility.
 
-     It is only with one aspect of humility that we are here concerned. 
+It is only with one aspect of humility that we are here concerned. 
 Humility was largely meant as a restraint upon the arrogance and
 infinity of the appetite of man.  He was always outstripping
 his mercies with his own newly invented needs. His very power of
@@ -924,7 +923,7 @@ gigantesque imagination, which is, perhaps, the mightiest of the pleasures
 of man, is at bottom entirely humble.  It is impossible without
 humility to enjoy anything--even pride.
 
-     But what we suffer from to-day is humility in the wrong
+But what we suffer from to-day is humility in the wrong
 place.  Modesty has moved from the organ of ambition.  Modesty
 has settled upon the organ of conviction; where it was never
 meant to be.  A man was meant to be doubtful about himself, but
@@ -944,7 +943,7 @@ the old humility made a man doubtful about his efforts, which
 might make him work harder.  But the new humility makes a man
 doubtful about his aims, which will make him stop working altogether.
 
-     At any street corner we may meet a man who utters the frantic
+At any street corner we may meet a man who utters the frantic
 and blasphemous statement that he may be wrong.  Every day one
 comes across somebody who says that of course his view may not
 be the right one.  Of course his view must be the right one, or
@@ -957,14 +956,14 @@ The meek do inherit the earth; but the modern sceptics are too
 meek even to claim their inheritance.  It is exactly this
 intellectual helplessness which is our second problem.
 
-     The last chapter has been concerned only with a fact of
+The last chapter has been concerned only with a fact of
 observation:  that what peril of morbidity there is for man
 comes rather from his reason than his imagination.  It was not
 meant to attack the authority of reason; rather it is the
 ultimate purpose to defend it.  For it needs defence.  The whole
 modern world is at war with reason; and the tower already reels.
 
-     The sages, it is often said, can see no answer to the riddle
+The sages, it is often said, can see no answer to the riddle
 of religion.  But the trouble with our sages is not that they
 cannot see the answer; it is that they cannot even see the riddle.
 They are like children so stupid as to notice nothing paradoxical
@@ -984,7 +983,7 @@ Against it religious authority was reared, rightly or wrongly,
 as a barrier.  And against it something certainly must be reared
 as a barrier, if our race is to avoid ruin.
 
-     That peril is that the human intellect is free to destroy itself. 
+That peril is that the human intellect is free to destroy itself. 
 Just as one generation could prevent the very existence of the
 next generation, by all entering a monastery or jumping into the sea,
 so one set of thinkers can in some degree prevent further thinking
@@ -1000,7 +999,7 @@ bewildered ape?"  The young sceptic says, "I have a right to think
 for myself."  But the old sceptic, the complete sceptic, says,
 "I have no right to think for myself.  I have no right to think at all."
 
-     There is a thought that stops thought.  That is the only
+There is a thought that stops thought.  That is the only
 thought that ought to be stopped.  That is the ultimate evil
 against which all religious authority was aimed.  It only
 appears at the end of decadent ages like our own:  and already
@@ -1032,7 +1031,7 @@ a long-division sum.  With a long and sustained tug we have
 attempted to pull the mitre off pontifical man; and his head has
 come off with it.
 
-     Lest this should be called loose assertion, it is perhaps desirable,
+Lest this should be called loose assertion, it is perhaps desirable,
 though dull, to run rapidly through the chief modern fashions of thought
 which have this effect of stopping thought itself.  Materialism
 and the view of everything as a personal illusion have some such effect;
@@ -1042,7 +1041,7 @@ But in these cases the effect is indirect and doubtful.  In some cases
 it is direct and clear; notably in the case of what is generally
 called evolution.
 
-     Evolution is a good example of that modern intelligence which,
+Evolution is a good example of that modern intelligence which,
 if it destroys anything, destroys itself.  Evolution is either
 an innocent scientific description of how certain earthly things
 came about; or, if it is anything more than this, it is an attack
@@ -1064,7 +1063,7 @@ therefore I am."  The philosophic evolutionist reverses and
 negatives the epigram.  He says, "I am not; therefore I
 cannot think."
 
-     Then there is the opposite attack on thought:  that urged
+Then there is the opposite attack on thought:  that urged
 by Mr. H.G.Wells when he insists that every separate thing is
 "unique," and there are no categories at all.  This also is
 merely destructive.  Thinking means connecting things, and stops
@@ -1076,7 +1075,7 @@ he utters not merely a misstatement, but a contradiction in terms.
 If all chairs were quite different, you could not call them
 "all chairs."
 
-     Akin to these is the false theory of progress, which maintains
+Akin to these is the false theory of progress, which maintains
 that we alter the test instead of trying to pass the test.  We often
 hear it said, for instance, "What is right in one age is wrong
 in another."  This is quite reasonable, if it means that there is
@@ -1095,7 +1094,7 @@ people has succeeded more in being miserable than another
 succeeded in being happy.  It would be like discussing whether
 Milton was more puritanical than a pig is fat.
 
-     It is true that a man (a silly man) might make change
+It is true that a man (a silly man) might make change
 itself his object or ideal.  But as an ideal, change itself
 becomes unchangeable.  If the change-worshipper wishes to
 estimate his own progress, he must be sternly loyal to the ideal
@@ -1105,14 +1104,14 @@ that when Tennyson, in a wild and rather weak manner, welcomed
 the idea of infinite alteration in society, he instinctively
 took a metaphor which suggests an imprisoned tedium.  He wrote--
 
-     "Let the great world spin for ever down the ringing grooves
-          of change."
+"Let the great world spin for ever down the ringing grooves
+of change."
 
 He thought of change itself as an unchangeable groove; and so it
 is.  Change is about the narrowest and hardest groove that a man
 can get into.
 
-     The main point here, however, is that this idea of a
+The main point here, however, is that this idea of a
 fundamental alteration in the standard is one of the things that
 make thought about the past or future simply impossible. The theory
 of a complete change of standards in human history does not
@@ -1120,7 +1119,7 @@ merely deprive us of the pleasure of honouring our fathers;
 it deprives us even of the more modern and aristocratic pleasure
 of despising them.
 
-     This bald summary of the thought-destroying forces of our
+This bald summary of the thought-destroying forces of our
 time would not be complete without some reference to pragmatism;
 for though I have here used and should everywhere defend the
 pragmatist method as a preliminary guide to truth, there is an
@@ -1142,7 +1141,7 @@ nonsense of the human sense of actual choice.  The pragmatist,
 who professes to be specially human, makes nonsense of the human
 sense of actual fact.
 
-     To sum up our contention so far, we may say that the most
+To sum up our contention so far, we may say that the most
 characteristic current philosophies have not only a touch of mania,
 but a touch of suicidal mania.  The mere questioner has knocked
 his head against the limits of human thought; and cracked it. 
@@ -1179,7 +1178,7 @@ questions in the darkest corners and on the wildest peaks.  We
 have found all the questions that can be found.  It is time we
 gave up looking for questions and began looking for answers.
 
-     But one more word must be added.  At the beginning of this
+But one more word must be added.  At the beginning of this
 preliminary negative sketch I said that our mental ruin has
 been wrought by wild reason, not by wild imagination.  A man
 does not go mad because he makes a statue a mile high, but he
@@ -1220,7 +1219,7 @@ doctrine of the divine authority of will, they think they can
 break out of the doomed fortress of rationalism.  They think
 they can escape.
 
-     But they cannot escape.  This pure praise of volition ends
+But they cannot escape.  This pure praise of volition ends
 in the same break up and blank as the mere pursuit of logic.
 Exactly as complete free thought involves the doubting of
 thought itself, so the acceptation of mere "willing" really
@@ -1240,7 +1239,7 @@ choose one course as better than another.  And yet choosing one
 course as better than another is the very definition of the will
 you are praising.
 
-     The worship of will is the negation of will.  To admire
+The worship of will is the negation of will.  To admire
 mere choice is to refuse to choose.  If Mr. Bernard Shaw comes
 up to me and says, "Will something," that is tantamount to
 saying, "I do not mind what you will," and that is tantamount
@@ -1254,7 +1253,7 @@ He rebels against the law and tells us to will something or anything.
 But we have willed something.  We have willed the law against
 which he rebels.
 
-     All the will-worshippers, from Nietzsche to Mr. Davidson,
+All the will-worshippers, from Nietzsche to Mr. Davidson,
 are really quite empty of volition.  They cannot will, they can
 hardly wish.  And if any one wants a proof of this, it can be found
 quite easily.  It can be found in this fact:  that they always talk
@@ -1298,7 +1297,7 @@ they constitute the THING he is doing.  The painter is glad
 that the canvas is flat.  The sculptor is glad that the clay is
 colourless.
 
-     In case the point is not clear, an historic example may illustrate it. 
+In case the point is not clear, an historic example may illustrate it. 
 The French Revolution was really an heroic and decisive thing,
 because the Jacobins willed something definite and limited. 
 They desired the freedoms of democracy, but also all the vetoes
@@ -1343,7 +1342,7 @@ Therefore the modern man in revolt has become practically useless
 for all purposes of revolt.  By rebelling against everything he has
 lost his right to rebel against anything.
 
-     It may be added that the same blank and bankruptcy can be
+It may be added that the same blank and bankruptcy can be
 observed in all fierce and terrible types of literature,
 especially in satire.  Satire may be mad and anarchic, but it
 presupposes an admitted superiority in certain things over others;
@@ -1365,7 +1364,7 @@ Nietzscheism would end in imbecility.  Thinking in isolation
 and with pride ends in being an idiot.  Every man who will not
 have softening of the heart must at last have softening of the brain.
 
-     This last attempt to evade intellectualism ends in intellectualism,
+This last attempt to evade intellectualism ends in intellectualism,
 and therefore in death.  The sortie has failed.  The wild worship
 of lawlessness and the materialist worship of law end in the same void. 
 Nietzsche scales staggering mountains, but he turns up ultimately
@@ -1380,7 +1379,7 @@ at the crossroads, and one hates all the roads and the other
 likes all the roads. The result is--well, some things are not
 hard to calculate. They stand at the cross-roads.
 
-     Here I end (thank God) the first and dullest business of
+Here I end (thank God) the first and dullest business of
 this book--the rough review of recent thought.  After this I begin
 to sketch a view of life which may not interest my reader, but which,
 at any rate, interests me.  In front of me, as I close this page,
@@ -1458,7 +1457,7 @@ without seam woven from the top throughout.
 
 IV THE ETHICS OF ELFLAND
 
-     When the business man rebukes the idealism of his office-boy,
+When the business man rebukes the idealism of his office-boy,
 it is commonly in some such speech as this:  "Ah, yes, when one
 is young, one has these ideals in the abstract and these castles
 in the air; but in middle age they all break up like clouds,
@@ -1481,7 +1480,7 @@ It is the reality that is often a fraud.  As much as I ever did,
 more than I ever did, I believe in Liberalism.  But there was a
 rosy time of innocence when I believed in Liberals.
 
-     I take this instance of one of the enduring faiths because,
+I take this instance of one of the enduring faiths because,
 having now to trace the roots of my personal speculation,
 this may be counted, I think, as the only positive bias. 
 I was brought up a Liberal, and have always believed in democracy,
@@ -1501,7 +1500,7 @@ startling than any caricature.  Death is more tragic even than
 death by starvation.  Having a nose is more comic even than
 having a Norman nose.
 
-     This is the first principle of democracy:  that the
+This is the first principle of democracy:  that the
 essential things in men are the things they hold in common,
 not the things they hold separately.  And the second principle
 is merely this:  that the political instinct or desire is one of
@@ -1527,7 +1526,7 @@ men themselves--the mating of the sexes, the rearing of the young,
 the laws of the state.  This is democracy; and in this I have
 always believed.
 
-     But there is one thing that I have never from my youth up
+But there is one thing that I have never from my youth up
 been able to understand.  I have never been able to understand
 where people got the idea that democracy was in some way
 opposed to tradition.  It is obvious that tradition is only
@@ -1564,7 +1563,7 @@ these shall vote by tombstones.  It is all quite regular and
 official, for most tombstones, like most ballot papers, are
 marked with a cross.
 
-     I have first to say, therefore, that if I have had a bias,
+I have first to say, therefore, that if I have had a bias,
 it was always a bias in favour of democracy, and therefore of tradition. 
 Before we come to any theoretic or logical beginnings I am content
 to allow for that personal equation; I have always been more
@@ -1576,7 +1575,7 @@ people who see life from the outside.  I would always trust the
 old wives' fables against the old maids' facts.  As long as wit
 is mother wit it can be as wild as it pleases.
 
-     Now, I have to put together a general position, and I
+Now, I have to put together a general position, and I
 pretend to no training in such things.  I propose to do it,
 therefore, by writing down one after another the three or four
 fundamental ideas which I have found for myself, pretty much in
@@ -1591,7 +1590,7 @@ democracy I could hardly make my mental experience clear.
 As it is, I do not know whether I can make it clear, but I now
 propose to try.
 
-     My first and last philosophy, that which I believe in with
+My first and last philosophy, that which I believe in with
 unbroken certainty, I learnt in the nursery.  I generally
 learnt it from a nurse; that is, from the solemn and
 star-appointed priestess at once of democracy and tradition.
@@ -1615,7 +1614,7 @@ because they said that Nature was divine.  Old nurses do not
 tell children about the grass, but about the fairies that dance
 on the grass; and the old Greeks could not see the trees for the dryads.
 
-     But I deal here with what ethic and philosophy come from
+But I deal here with what ethic and philosophy come from
 being fed on fairy tales.  If I were describing them in detail
 I could note many noble and healthy principles that arise from
 them.  There is the chivalrous lesson of "Jack the Giant Killer";
@@ -1635,7 +1634,7 @@ and shall retain when I cannot write.  I am concerned with a
 certain way of looking at life, which was created in me by the
 fairy tales, but has since been meekly ratified by the mere facts.
 
-     It might be stated this way.  There are certain sequences
+It might be stated this way.  There are certain sequences
 or developments (cases of one thing following another), which are,
 in the true sense of the word, reasonable.  They are, in the
 true sense of the word, necessary.  Such are mathematical and
@@ -1679,7 +1678,7 @@ climbed up to Heaven; but that does not at all confuse our
 convictions on the philosophical question of how many beans
 make five.
 
-     Here is the peculiar perfection of tone and truth in the
+Here is the peculiar perfection of tone and truth in the
 nursery tales.  The man of science says, "Cut the stalk, and
 the apple will fall"; but he says it calmly, as if the one idea
 really led up to the other.  The witch in the fairy tale says,
@@ -1700,7 +1699,7 @@ They feel that because one incomprehensible thing constantly
 follows another incomprehensible thing the two together somehow
 make up a comprehensible thing.  Two black riddles make a white answer.
 
-     In fairyland we avoid the word "law"; but in the land of
+In fairyland we avoid the word "law"; but in the land of
 science they are singularly fond of it.  Thus they will call
 some interesting conjecture about how forgotten folks pronounced
 the alphabet, Grimm's Law.  But Grimm's Law is far less intellectual
@@ -1742,7 +1741,7 @@ They express the arbitrariness of the fact and its mystery.
 A tree grows fruit because it is a MAGIC tree.  Water runs downhill
 because it is bewitched. The sun shines because it is bewitched.
 
-     I deny altogether that this is fantastic or even mystical. 
+I deny altogether that this is fantastic or even mystical. 
 We may have some mysticism later on; but this fairy-tale
 language about things is simply rational and agnostic.  It is
 the only way I can express in words my clear and definite
@@ -1767,7 +1766,7 @@ But the cool rationalist from fairyland does not see why,
 in the abstract, the apple tree should not grow crimson tulips;
 it sometimes does in his country.
 
-     This elementary wonder, however, is not a mere fancy
+This elementary wonder, however, is not a mere fancy
 derived from the fairy tales; on the contrary, all the fire of
 the fairy tales is derived from this.  Just as we all like love
 tales because there is an instinct of sex, we all like
@@ -1803,7 +1802,7 @@ levels of our life we forget that we have forgotten.  All that
 we call spirit and art and ecstasy only means that for one awful
 instant we remember that we forget.
 
-     But though (like the man without memory in the novel)
+But though (like the man without memory in the novel)
 we walk the streets with a sort of half-witted admiration,
 still it is admiration.  It is admiration in English and not
 only admiration in Latin.  The wonder has a positive element
@@ -1824,7 +1823,7 @@ he put in my stockings the gift of two miraculous legs?
 We thank people for birthday presents of cigars and slippers. 
 Can I thank no one for the birthday present of birth?
 
-     There were, then, these two first feelings, indefensible
+There were, then, these two first feelings, indefensible
 and indisputable.  The world was a shock, but it was not merely shocking;
 existence was a surprise, but it was a pleasant surprise.  In fact,
 all my first views were exactly uttered in a riddle that stuck
@@ -1834,13 +1833,13 @@ That says succinctly all that I am saying.  God made the frog jump;
 but the frog prefers jumping. But when these things are settled
 there enters the second great principle of the fairy philosophy.
 
-     Any one can see it who will simply read "Grimm's Fairy Tales"
+Any one can see it who will simply read "Grimm's Fairy Tales"
 or the fine collections of Mr. Andrew Lang.  For the pleasure
 of pedantry I will call it the Doctrine of Conditional Joy. 
 Touchstone talked of much virtue in an "if"; according to elfin
 ethics all virtue is in an "if."  The note of the fairy utterance
 always is, "You may live in a palace of gold and sapphire,
-if you do not say the word `cow'"; or "You may live happily
+if you do not say the word ‘cow'"; or "You may live happily
 with the [[King]]'s daughter, if you do not show her an onion." 
 The vision always hangs upon a veto.  All the dizzy and colossal
 things conceded depend upon one small thing withheld. All the
@@ -1849,8 +1848,8 @@ thing that is forbidden.  Mr. W.B.Yeats, in his exquisite and
 piercing elfin poetry, describes the elves as lawless; they plunge
 in [[Innocent|innocent]] anarchy on the unbridled horses of the air--
 
-     "Ride on the crest of the dishevelled tide,
-     And [[Dance|dance]] upon the [[Mountains|mountains]] like a flame."
+"Ride on the crest of the dishevelled tide,
+And [[Dance|dance]] upon the [[Mountains|mountains]] like a flame."
 
 It is a dreadful thing to say that Mr. W.B.Yeats does not
 understand fairyland.  But I do say it.  He is an ironical Irishman,
@@ -1868,7 +1867,7 @@ A word is forgotten, and cities perish.  A lamp is lit, and [[Love|love]]
 flies away.  A flower is plucked, and human lives are forfeited. 
 An apple is eaten, and the [[Hope|hope]] of God is gone.
 
-     This is the tone of fairy tales, and it is certainly not
+This is the tone of fairy tales, and it is certainly not
 lawlessness or even liberty, though men under a mean modern
 tyranny may think it liberty by comparison.  People out of
 Portland Gaol might think Fleet Street free; but closer study
@@ -1891,7 +1890,7 @@ and when the heavens were compared to the terrible crystal I can
 remember a shudder.  I was afraid that God would drop the cosmos
 with a crash.
 
-     Remember, however, that to be breakable is not the same as
+Remember, however, that to be breakable is not the same as
 to be perishable.  Strike a glass, and it will not endure an instant;
 simply do not strike it, and it will endure a thousand years. 
 Such, it seemed, was the joy of man, either in elfland or on earth;
@@ -1915,7 +1914,7 @@ The veto might [[Well|well]] be as wild as the vision; it might be as
 startling as the sun, as elusive as the waters, as fantastic and
 terrible as the towering trees.
 
-     For this reason (we may call it the fairy godmother [[philosophy]])
+For this reason (we may call it the fairy godmother [[philosophy]])
 I never could join the young men of my [[Time|time]] in feeling what they
 called the general sentiment of REVOLT.  I should have resisted,
 let us [[Hope|hope]], any rules that were evil, and with these and their
@@ -1955,7 +1954,7 @@ Oscar Wilde said that sunsets were not valued because we could
 not pay for sunsets.  But Oscar Wilde was wrong; we can pay
 for sunsets.  We can pay for them by not being Oscar Wilde.
 
-     [[Well]], I left the fairy tales lying on the floor of the nursery,
+[[Well]], I left the fairy tales lying on the floor of the nursery,
 and I have not found any books so sensible since.  I left the [[Nurse|nurse]] guardian
 of tradition and [[democracy]], and I have not found any modern type
 so sanely radical or so sanely conservative.  But the matter
@@ -1976,7 +1975,7 @@ that collision created two sudden and spontaneous sentiments,
 which I have had ever since and which, crude as they were,
 have since hardened into convictions.
 
-     First, I found the whole modern world talking scientific fatalism;
+First, I found the whole modern world talking scientific fatalism;
 saying that everything is as it must always have been, being unfolded
 without fault from the beginning.  The leaf on the tree is green
 because it could never have been anything else.  Now, the fairy-tale
@@ -1993,7 +1992,7 @@ them, nothing ever really had happened since the beginning of the
 world.  Nothing ever had happened since existence had happened; and
 even about the date of that they were not very sure.
 
-     The modern world as I found it was solid for modern Calvinism,
+The modern world as I found it was solid for modern Calvinism,
 for the necessity of things being as they are.  But when I came to
 ask them I found they had really no proof of this unavoidable repetition
 in things except the fact that the things were repeated.  Now, the mere
@@ -2012,7 +2011,7 @@ The sun would make me see him if he [[Rose|rose]] a thousand times.  The recurre
 of the universe [[Rose|rose]] to the maddening rhythm of an incantation,
 and I began to see an idea.
 
-     All the towering materialism which dominates the modern mind
+All the towering materialism which dominates the modern mind
 rests ultimately upon one assumption; a false assumption. It is
 supposed that if a thing goes on repeating itself it is probably dead;
 a piece of clockwork.  People feel that if the universe was
@@ -2058,7 +2057,7 @@ by mere choice, and at any instant it may stop.  Man may stand on
 the earth generation after generation, and yet each birth be his
 positively last appearance.
 
-     This was my first conviction; made by the shock of my childish
+This was my first conviction; made by the shock of my childish
 emotions meeting the modern creed in mid-career.  I had always
 vaguely felt facts to be miracles in the sense that they are wonderful: 
 now I began to think them miracles in the stricter sense that they
@@ -2070,7 +2069,7 @@ that this world of ours has some purpose; and if there is a purpose,
 there is a person.  I had always felt life first as a story: and if
 there is a story there is a story-teller.
 
-     But modern thought also hit my second human tradition. 
+But modern thought also hit my second human tradition. 
 It went against the fairy feeling about strict limits and conditions. 
 The one thing it loved to talk about was expansion and largeness. 
 Herbert Spencer would have been greatly annoyed if any one had
@@ -2095,7 +2094,7 @@ have in an exaggerated way represented the earth as wicked.  But
 Mr. Wells and his school made the heavens wicked.  We should lift
 up our eyes to the [[Stars|stars]] from whence would come our ruin.
 
-     But the expansion of which I speak was much more evil than all this. 
+But the expansion of which I speak was much more evil than all this. 
 I have remarked that the materialist, like the madman, is in [[Prison|prison]];
 in the [[Prison|prison]] of one thought.  These people seemed to think it
 singularly inspiring to keep on saying that the [[Prison|prison]] was very large. 
@@ -2112,7 +2111,7 @@ of the universe had nothing to show us except more and more
 infinite corridors of space lit by ghastly suns and empty of all
 that is divine.
 
-     In fairyland there had been a real law; a law that could be broken,
+In fairyland there had been a real law; a law that could be broken,
 for the definition of a law is something that can be broken.
 But the machinery of this cosmic [[Prison|prison]] was something that could
 not be broken; for we ourselves were only a part of its machinery. 
@@ -2126,7 +2125,7 @@ but it is not free. One went into larger and larger windowless rooms,
 rooms big with Babylonian perspective; but one never found the
 smallest [[Window|window]] or a whisper of outer air.
 
-     Their infernal parallels seemed to expand with distance;
+Their infernal parallels seemed to expand with distance;
 but for me all good things come to a point, swords for instance. 
 So finding the boast of the big cosmos so unsatisfactory to my
 emotions I began to argue about it a little; and I soon found that
@@ -2146,7 +2145,7 @@ sane a sentiment to rejoice that the sun is no larger than it is.
 A man chooses to have an emotion about the largeness of the world;
 why should he not choose to have an emotion about its smallness?
 
-     It happened that I had that emotion.  When one is fond of
+It happened that I had that emotion.  When one is fond of
 anything one addresses it by diminutives, even if it is an elephant
 or a life-guardsman.  The reason is, that anything, however huge,
 that can be conceived of as complete, can be conceived of as small. 
@@ -2169,7 +2168,7 @@ extravagance.  To them [[Stars|stars]] were an unending income of halfpence;
 but I felt about the golden sun and the silver [[Moon|moon]] as a schoolboy
 feels if he has one sovereign and one shilling.
 
-     These subconscious convictions are best hit off by the colour
+These subconscious convictions are best hit off by the colour
 and tone of certain tales.  Thus I have said that stories of [[Magic|magic]]
 [[Alone|alone]] can express my sense that life is not only a pleasure but a
 kind of eccentric privilege.  I may express this other feeling of
@@ -2193,7 +2192,7 @@ and it was common to say that many a man was a Great Might-Have-Been.
 To me it is a more solid and startling fact that any man in the
 street is a Great Might-Not-Have-Been.
 
-     But I really felt (the fancy may seem foolish) as if all the
+But I really felt (the fancy may seem foolish) as if all the
 order and number of things were the romantic remnant of Crusoe's [[Ship|ship]]. 
 That there are two sexes and one sun, was like the fact that there
 were two guns and one axe.  It was poignantly urgent that none
@@ -2207,7 +2206,7 @@ it is a natural cant to talk of a [[Jewel|jewel]] as peerless and priceless,
 of this [[Jewel|jewel]] it is literally true.  This cosmos is indeed without
 peer and without price:  for there cannot be another one.
 
-     Thus ends, in unavoidable inadequacy, the attempt to utter the
+Thus ends, in unavoidable inadequacy, the attempt to utter the
 unutterable things.  These are my ultimate attitudes towards life;
 the soils for the seeds of doctrine.  These in some dark way
 I thought before I could write, and felt before I could think: 
@@ -2235,7 +2234,7 @@ of Christian theology.
 
 V THE [[Flag|FLAG]] OF THE WORLD
 
-     When I was a boy there were two curious men running about
+When I was a boy there were two curious men running about
 who were called the optimist and the pessimist.  I constantly
 used the words myself, but I cheerfully confess that I never had
 any very special idea of what they meant.  The only thing which
@@ -2260,7 +2259,7 @@ contact with the earth from moment to moment, and that happier
 thinker who considers rather our primary power of vision and of
 choice of [[Road|road]].
 
-     But this is a deep mistake in this alternative of the optimist
+But this is a deep mistake in this alternative of the optimist
 and the pessimist.  The assumption of it is that a man criticises
 this world as if he were [[house]]-hunting, as if he were being
 shown over a new suite of apartments.  If a man came to this world
@@ -2274,7 +2273,7 @@ and often won heroic victories for the [[Flag|flag]] long before he has ever enl
 To put shortly what seems the essential matter, he has a loyalty
 long before he has any admiration.
 
-     In the last chapter it has been said that the primary feeling
+In the last chapter it has been said that the primary feeling
 that this world is strange and yet attractive is best expressed
 in fairy tales.  The reader may, if he likes, put down the next stage
 to that bellicose and even jingo literature which commonly comes next
@@ -2294,7 +2293,7 @@ All optimistic thoughts about England and all pessimistic thoughts
 about her are alike reasons for the English patriot.  Similarly,
 optimism and pessimism are alike arguments for the cosmic patriot.
 
-     Let us suppose we are confronted with a desperate thing--say Pimlico. 
+Let us suppose we are confronted with a desperate thing--say Pimlico. 
 If we think what is really best for Pimlico we shall find the
 thread of thought leads to the throne or the mystic and the arbitrary. 
 It is not enough for a man to disapprove of Pimlico:  in that case he
@@ -2318,7 +2317,7 @@ or encircling some sacred [[Well|well]].  People first paid [[Honour|honour]] to
 and afterwards gained glory for it.  Men did not [[Love|love]] Rome because
 she was great.  She was great because they had loved her.
 
-     The eighteenth-century theories of the social contract have been
+The eighteenth-century theories of the social contract have been
 exposed to much clumsy criticism in our [[Time|time]]; in so far as they meant
 that there is at the back of all historic [[government]] an idea of
 content and co-operation, they were demonstrably right.  But they really
@@ -2339,7 +2338,7 @@ certain ark across a certain [[Desert|desert]].  Anarchy was evil because it
 endangered the sanctity. And only when they made a holy day for God
 did they find they had made a holiday for men.
 
-     If it be granted that this primary devotion to a place or thing
+If it be granted that this primary devotion to a place or thing
 is a source of creative energy, we can pass on to a very peculiar fact. 
 Let us reiterate for an instant that the only right optimism is
 a sort of universal patriotism.  What is the matter with the pessimist? 
@@ -2349,7 +2348,7 @@ without undue bitterness, by saying that he is the candid friend.
 And what is the matter with the candid friend?  There we strike
 the rock of real life and immutable human [[Nature|nature]].
 
-     I venture to say that what is bad in the candid friend is
+I venture to say that what is bad in the candid friend is
 simply that he is not candid.  He is keeping something back--
 his own gloomy pleasure in saying unpleasant things.  He has a
 secret [[Desire|desire]] to hurt, not merely to help.  This is certainly,
@@ -2376,7 +2375,7 @@ down with smallpox; but we want to know whether this is stated by
 some great philosopher who wants to curse the gods, or only by some
 common clergyman who wants to help the men.
 
-     The evil of the pessimist is, then, not that he chastises gods and men,
+The evil of the pessimist is, then, not that he chastises gods and men,
 but that he does not [[Love|love]] what he chastises--he has not this primary
 and [[Supernatural|supernatural]] loyalty to things.  What is the evil of the man
 commonly called an optimist?  Obviously, it is felt that the optimist,
@@ -2389,7 +2388,7 @@ All this (which is true of a type of optimist) leads us to the one
 really interesting point of psychology, which could not be explained
 without it.
 
-     We say there must be a primal loyalty to life: 
+We say there must be a primal loyalty to life: 
 the only question is, shall it be a natural or a [[Supernatural|supernatural]] loyalty?
 If you like to put it so, shall it be a reasonable or an unreasonable loyalty? 
 Now, the extraordinary thing is that the bad optimism (the whitewashing,
@@ -2424,7 +2423,7 @@ Nowhere else is patriotism more purely abstract and arbitrary; and
 nowhere else is [[Reform|reform]] more drastic and sweeping.  The more transcendental
 is your patriotism, the more practical are your politics.
 
-     Perhaps the most everyday instance of this point is in the case
+Perhaps the most everyday instance of this point is in the case
 of women; and their strange and strong loyalty.  Some stupid people
 started the idea that because women obviously back up their own people
 through everything, therefore women are blind and do not see anything. 
@@ -2442,7 +2441,7 @@ the fanatic can safely be a sceptic.  [[Love]] is not blind; that is
 the last thing that it is.  [[Love]] is bound; and the more it is bound
 the less it is blind.
 
-     This at least had come to be my position about all that was called
+This at least had come to be my position about all that was called
 optimism, pessimism, and improvement.  Before any cosmic act of [[Reform|reform]]
 we must have a cosmic oath of allegiance. A man must be interested in life,
 then he could be disinterested in his views of it.  "My son
@@ -2456,12 +2455,12 @@ very common in this age; it was perfectly put in those quiet lines of
 Matthew Arnold which are more piercingly blasphemous than
 the shrieks of Schopenhauer--
 
-         "Enough we live: --and if a life,
-          With large results so little rife,
-          Though bearable, seem hardly worth
-          This pomp of worlds, this [[Pain|pain]] of birth."
+"Enough we live: --and if a life,
+With large results so little rife,
+Though bearable, seem hardly worth
+This pomp of worlds, this [[Pain|pain]] of birth."
 
-     I know this feeling fills our epoch, and I think it freezes our epoch. 
+I know this feeling fills our epoch, and I think it freezes our epoch. 
 For our [[titanic|Titanic]] purposes of [[Faith|faith]] and revolution, what we need is
 not the cold acceptance of the world as a compromise, but some way
 in which we can heartily hate and heartily [[Love|love]] it.  We do not want
@@ -2470,7 +2469,7 @@ we want a fiercer delight and a fiercer discontent.  We have to feel
 the universe at once as an ogre's [[Castle|castle]], to be stormed, and yet as
 our own cottage, to which we can return at evening.
 
-     No one doubts that an ordinary man can get on with this world: 
+No one doubts that an ordinary man can get on with this world: 
 but we demand not strength enough to get on with it, but strength
 enough to get it on.  Can he hate it enough to change it, and yet
 [[Love|love]] it enough to think it worth changing?  Can he look up at its
@@ -2483,7 +2482,7 @@ I maintain, it is the rational optimist who fails, the irrational
 optimist who succeeds.  He is ready to smash the whole universe
 for the sake of itself.
 
-     I put these things not in their mature logical sequence,
+I put these things not in their mature logical sequence,
 but as they came:  and this view was cleared and sharpened by
 an accident of the [[Time|time]].  Under the lengthening [[Shadow|shadow]] of Ibsen,
 an argument arose whether it was not a very nice thing to murder
@@ -2518,7 +2517,7 @@ than in Mr. Archer's suicidal automatic machines.  There is a meaning
 in burying the [[suicide]] apart.  The man's crime is different from
 other crimes--for it makes even crimes impossible.
 
-     About the same [[Time|time]] I read a solemn flippancy by some free thinker: 
+About the same [[Time|time]] I read a solemn flippancy by some free thinker: 
 he said that a [[suicide]] was only the same as a martyr. The open fallacy
 of this helped to clear the question. Obviously a [[suicide]] is the
 opposite of a martyr.  A martyr is a man who cares so much for
@@ -2542,7 +2541,7 @@ afar off like a field of [[Flowers|flowers]].  All this has seemed to many the
 very poetry of pessimism.  Yet there is the stake at the crossroads
 to show what [[Christianity]] thought of the pessimist.
 
-     This was the first of the long train of enigmas with which [[Christianity]]
+This was the first of the long train of enigmas with which [[Christianity]]
 entered the discussion.  And there went with it a peculiarity
 of which I shall have to speak more markedly, as a note of all
 Christian notions, but which distinctly began in this one. 
@@ -2559,7 +2558,7 @@ could heal cities in pestilence.  Another man flung away life;
 he was so bad that his bones would pollute his brethren's. 
 I am not saying this fierceness was right; but why was it so fierce?
 
-     Here it was that I first found that my wandering feet were in
+Here it was that I first found that my wandering feet were in
 some beaten track.  [[Christianity]] had also felt this opposition
 of the martyr to the [[suicide]]:  had it perhaps felt it for the same reason? 
 Had [[Christianity]] felt what I felt, but could not (and cannot) express--
@@ -2570,7 +2569,7 @@ trying to combine.  [[Christianity]] was accused, at one and the same [[Time|tim
 of being too optimistic about the universe and of being too pessimistic
 about the world.  The coincidence made me suddenly stand still.
 
-     An imbecile habit has arisen in modern controversy of saying
+An imbecile habit has arisen in modern controversy of saying
 that such and such a creed can be held in one age but cannot
 be held in another.  Some dogma, we are told, was credible in the
 twelfth century, but is not credible in the twentieth. 
@@ -2592,7 +2591,7 @@ in answer to our question.  And the more I thought about when and how
 [[Christianity]] had come into the world, the more I felt that it had
 actually come to answer this question.
 
-     It is commonly the loose and latitudinarian Christians who pay
+It is commonly the loose and latitudinarian Christians who pay
 quite indefensible compliments to [[Christianity]].  They talk as if
 there had never been any piety or pity until [[Christianity]] came,
 a point on which any mediaeval would have been eager to correct them. 
@@ -2640,7 +2639,7 @@ was not left [[Alone|alone]] with the Inner Light, but definitely recognized
 an outer light, fair as the sun, clear as the [[Moon|moon]], terrible as
 an army with banners.
 
-     All the same, it will be as [[Well|well]] if [[Jones]] does not worship
+All the same, it will be as [[Well|well]] if [[Jones]] does not worship
 the sun and [[Moon|moon]].  If he does, there is a tendency for him to
 imitate them; to say, that because the sun burns [[Insects|insects]] alive,
 he may burn [[Insects|insects]] alive.  He thinks that because the sun gives people
@@ -2670,7 +2669,7 @@ we can all go mad about [[Sexuality|sexuality]]. Mere optimism had reached its
 insane and appropriate termination.  The theory that everything was good
 had become an orgy of everything that was bad.
 
-     On the other side our idealist pessimists were represented by
+On the other side our idealist pessimists were represented by
 the old remnant of the Stoics.  Marcus Aurelius and his friends
 had really given up the idea of any god in the universe and looked only
 to the god within.  They had no [[Hope|hope]] of any virtue in [[Nature|nature]],
@@ -2684,7 +2683,7 @@ did not care enough about them to knock them down.  In this dilemma
 a singular answer, which the world eventually accepted as THE answer.
 It was the answer then, and I think it is the answer now.
 
-     This answer was like the slash of a [[Sword|sword]]; it sundered; it did not
+This answer was like the slash of a [[Sword|sword]]; it sundered; it did not
 in any sense sentimentally unite.  Briefly, it divided God from the cosmos. 
 That transcendence and distinctness of the deity which some
 Christians now want to remove from [[Christianity]], was really the
@@ -2710,7 +2709,7 @@ the evolutionary principle that all growth is a branching out.
 A woman loses a [[Child|child]] even in having a [[Child|child]].  All creation is separation. 
 Birth is as solemn a parting as [[Death|death]].
 
-     It was the prime philosophic principle of [[Christianity]] that
+It was the prime philosophic principle of [[Christianity]] that
 this [[divorce]] in the divine act of making (such as severs the poet
 from the poem or the mother from the new-born [[Child|child]]) was the
 true description of the act whereby the absolute energy made the world. 
@@ -2735,7 +2734,7 @@ He can shake his [[Sword|sword]] at the dragon, even if it is everything;
 even if the empty heavens over his head are only the huge arch of
 its open jaws.
 
-     And then followed an experience impossible to describe.
+And then followed an experience impossible to describe.
 It was as if I had been blundering about since my birth with
 two huge and unmanageable machines, of different shapes and without
 apparent connection--the world and the Christian tradition. 
@@ -2778,7 +2777,7 @@ for, according to [[Christianity]], we were indeed the survivors of a wreck,
 the crew of a golden [[Ship|ship]] that had gone down before the beginning
 of the world.
 
-     But the important matter was this, that it entirely reversed
+But the important matter was this, that it entirely reversed
 the reason for optimism.  And the instant the reversal was made
 it felt like the abrupt ease when a bone is put back in the socket. 
 I had often called myself an optimist, to avoid the too evident
@@ -2804,7 +2803,7 @@ and why I could feel homesick at [[Home|home]].
 
 VI THE PARADOXES OF [[Christianity|CHRISTIANITY]]
 
-     The real trouble with this world of ours is not that it is
+The real trouble with this world of ours is not that it is
 an unreasonable world, nor even that it is a reasonable one.
 The commonest kind of trouble is that it is nearly reasonable,
 but not quite.  Life is not an illogicality; yet it is a trap for logicians. 
@@ -2824,7 +2823,7 @@ on one side, would deduce that there was another heart on the
 other.  And just then, where he most felt he was right,
 he would be wrong.
 
-     It is this silent swerving from accuracy by an inch that is
+It is this silent swerving from accuracy by an inch that is
 the [[Uncanny|uncanny]] element in everything.  It seems a sort of secret treason
 in the universe.  An apple or an orange is round enough to get itself
 called round, and yet is not round after all.  The earth itself
@@ -2841,7 +2840,7 @@ because they are so fond of flat country.  Scientific men are also
 still organizing expeditions to find a man's heart; and when they
 try to find it, they generally get on the wrong side of him.
 
-     Now, actual insight or inspiration is best tested by whether
+Now, actual insight or inspiration is best tested by whether
 it guesses these hidden malformations or surprises.  If our mathematician
 from the [[Moon|moon]] saw the two arms and the two ears, he might deduce
 the two shoulder-blades and the two halves of the brain.  But if he
@@ -2860,7 +2859,7 @@ in this chapter to point this out; to show that whenever we feel
 there is something odd in Christian theology, we shall generally find
 that there is something odd in the [[Truth|truth]].
 
-     I have alluded to an unmeaning phrase to the effect that
+I have alluded to an unmeaning phrase to the effect that
 such and such a creed cannot be believed in our age.  Of course,
 anything can be believed in any age.  But, oddly enough,
 there really is a sense in which a creed, if it is believed at all,
@@ -2886,7 +2885,7 @@ A stick might fit a hole or a stone a hollow by accident.
 But a key and a lock are both complex.  And if a key fits a lock,
 you know it is the right key.
 
-     But this involved accuracy of the thing makes it very difficult
+But this involved accuracy of the thing makes it very difficult
 to do what I now have to do, to describe this accumulation of [[Truth|truth]]. 
 It is very hard for a man to defend anything of which he is
 entirely convinced.  It is comparatively easy when he is only
@@ -2905,7 +2904,7 @@ The whole case for civilization is that the case for it is complex.
 It has done so many things.  But that very multiplicity of proof
 which ought to make reply overwhelming makes reply impossible.
 
-     There is, therefore, about all complete conviction a kind of
+There is, therefore, about all complete conviction a kind of
 huge helplessness.  The belief is so big that it takes a long [[Time|time]] to
 get it into action.  And this hesitation chiefly arises,
 oddly enough, from an indifference about where one should begin. 
@@ -2942,7 +2941,7 @@ As I laid down the last of Colonel Ingersoll's atheistic lectures
 the dreadful thought broke across my mind, "Almost thou persuadest me
 to be a Christian."  I was in a desperate way.
 
-     This odd effect of the great agnostics in arousing doubts deeper
+This odd effect of the great agnostics in arousing doubts deeper
 than their own might be illustrated in many ways. I take only one. 
 As I read and re-read all the non-Christian or anti-Christian accounts
 of the [[Faith|faith]], from Huxley to Bradlaugh, a slow and awful impression
@@ -2961,7 +2960,7 @@ not come across the thing I mean, I will give such instances
 as I remember at random of this [[Self|self]]-contradiction in the sceptical attack. 
 I give four or five of them; there are fifty more.
 
-     Thus, for instance, I was much moved by the eloquent attack
+Thus, for instance, I was much moved by the eloquent attack
 on [[Christianity]] as a thing of inhuman gloom; for I thought
 (and still think) sincere pessimism the unpardonable sin. 
 Insincere pessimism is a social accomplishment, rather agreeable
@@ -2992,8 +2991,8 @@ green and [[Rose|rose]]-coloured spectacles.  I rolled on my tongue
 with a terrible joy, as did all young men of that [[Time|time]],
 the taunts which Swinburne hurled at the dreariness of the creed--
 
-     "Thou hast conquered, O pale Galilaean, the world has
-          grown gray with Thy breath."
+"Thou hast conquered, O pale Galilaean, the world has
+grown gray with Thy breath."
 
 But when I read the same poet's accounts of paganism (as in "Atalanta"),
 I gathered that the world was, if possible, more gray before
@@ -3006,7 +3005,7 @@ perhaps, those might not be the very best judges of the relation
 of religion to happiness who, by their own account, had neither one
 nor the other.
 
-     It must be understood that I did not conclude hastily that
+It must be understood that I did not conclude hastily that
 the accusations were false or the accusers fools.  I simply deduced
 that [[Christianity]] must be something even weirder and wickeder
 than they made out.  A thing might have these two opposite vices;
@@ -3016,7 +3015,7 @@ At this point my thoughts were only of the odd shape of
 the Christian religion; I did not allege any odd shape in
 the rationalistic mind.
 
-     Here is another case of the same kind.  I felt that a strong case
+Here is another case of the same kind.  I felt that a strong case
 against [[Christianity]] lay in the charge that there is something timid,
 monkish, and unmanly about all that is called "Christian,"
 especially in its attitude towards resistance and fighting. 
@@ -3052,7 +3051,7 @@ and second because it was always fighting?  In what world of riddles
 was born this monstrous murder and this monstrous meekness? 
 The shape of [[Christianity]] grew a queerer shape every instant.
 
-     I take a third case; the strangest of all, because it involves
+I take a third case; the strangest of all, because it involves
 the one real objection to the [[Faith|faith]].  The one real objection to
 the Christian religion is simply that it is one religion. 
 The world is a big place, full of very different kinds of people. 
@@ -3097,7 +3096,7 @@ because ethics had never changed.  We must not trust the ethics of Bossuet,
 because ethics had changed.  They changed in two hundred years,
 but not in two thousand.
 
-     This began to be alarming.  It looked not so much as if [[Christianity]]
+This began to be alarming.  It looked not so much as if [[Christianity]]
 was bad enough to include any vices, but rather as if any stick was
 good enough to beat [[Christianity]] with.  What again could this
 astonishing thing be like which people were so anxious to
@@ -3132,7 +3131,7 @@ prevents the world from going to the [[dogs]]."  In the same conversation
 a free-thinker, a friend of mine, blamed [[Christianity]] for despising Jews,
 and then despised it himself for being Jewish.
 
-     I wished to be quite fair then, and I wish to be quite fair now;
+I wished to be quite fair then, and I wish to be quite fair now;
 and I did not conclude that the attack on [[Christianity]] was all wrong. 
 I only concluded that if [[Christianity]] was wrong, it was very wrong
 indeed.  Such hostile horrors might be combined in one thing, but
@@ -3156,7 +3155,7 @@ The only explanation which immediately occurred to my mind was
 that [[Christianity]] did not come from heaven, but from hell. 
 Really, if Jesus of Nazareth was not [[Christ]], He must have been Antichrist.
 
-     And then in a quiet hour a strange thought struck me
+And then in a quiet hour a strange thought struck me
 like a still thunderbolt.  There had suddenly come into my mind
 another explanation.  Suppose we heard an unknown man spoken of
 by many men.  Suppose we were puzzled to hear that some men said
@@ -3192,7 +3191,7 @@ any insanity involved in the matter at all it was in the trousers,
 not in the simply falling robe.  If there was any insanity at all,
 it was in the extravagant entrees, not in the bread and wine.
 
-     I went over all the cases, and I found the key fitted so far. 
+I went over all the cases, and I found the key fitted so far. 
 The fact that Swinburne was irritated at the unhappiness of Christians
 and yet more irritated at their happiness was easily explained.  It
 was no longer a complication of diseases in [[Christianity]],
@@ -3204,7 +3203,7 @@ In the same way the Malthusians by instinct attacked [[Christianity]];
 not because there is anything especially anti-Malthusian about [[Christianity]],
 but because there is something a little anti-human about Malthusianism.
 
-     Nevertheless it could not, I felt, be quite true that
+Nevertheless it could not, I felt, be quite true that
 [[Christianity]] was merely sensible and stood in the middle.
 There was really an element in it of emphasis and even frenzy
 which had justified the secularists in their superficial criticism. 
@@ -3236,7 +3235,7 @@ nor yet a being half human and half not, like a centaur,
 but both things at once and both things thoroughly, very man
 and very God.  Now let me trace this notion as I found it.
 
-     All sane men can see that [[Sanity|sanity]] is some kind of equilibrium;
+All sane men can see that [[Sanity|sanity]] is some kind of equilibrium;
 that one may be mad and eat too much, or mad and eat too little. 
 Some moderns have indeed appeared with vague versions of progress
 and evolution which seeks to destroy the MESON or balance of Aristotle. 
@@ -3249,7 +3248,7 @@ with the question of how that balance can be kept.  That was the problem
 which Paganism tried to solve:  that was the problem which I think
 [[Christianity]] solved and solved in a very strange way.
 
-     Paganism declared that virtue was in a balance;
+Paganism declared that virtue was in a balance;
 [[Christianity]] declared it was in a conflict:  the collision
 of two passions apparently opposite.  Of course they were
 not really inconsistent; but they were such that it was hard
@@ -3266,7 +3265,7 @@ This [[Paradox|paradox]] is the whole principle of [[Courage|courage]]; even of 
 or quite brutal [[Courage|courage]].  A man cut off by the sea may save his life
 if he will risk it on the precipice.
 
-     He can only get away from [[Death|death]] by continually stepping
+He can only get away from [[Death|death]] by continually stepping
 within an inch of it.  A soldier surrounded by enemies, if he is
 to cut his way out, needs to combine a strong [[Desire|desire]] for living with
 a strange carelessness about dying.  He must not merely cling to life,
@@ -3284,7 +3283,7 @@ lances the banner of the mystery of chivalry:  the Christian [[Courage|courage]]
 which is a disdain of [[Death|death]]; not the Chinese [[Courage|courage]], which is
 a disdain of life.
 
-     And now I began to find that this duplex passion was the
+And now I began to find that this duplex passion was the
 Christian key to ethics everywhere.  Everywhere the creed made
 a moderation out of the still crash of two impetuous emotions. 
 Take, for instance, the matter of modesty, of the balance between
@@ -3309,7 +3308,7 @@ Alice in Wonderland.  Thus it loses both the poetry of being proud
 and the poetry of being humble. [[Christianity]] sought by this same
 strange expedient to save both of them.
 
-     It separated the two ideas and then exaggerated them both. 
+It separated the two ideas and then exaggerated them both. 
 In one way Man was to be haughtier than he had ever been before;
 in another way he was to be humbler than he had ever been before. 
 In so far as I am Man I am the chief of creatures.  In so far as I am
@@ -3342,7 +3341,7 @@ by keeping them both, and keeping them both furious.  The Church was
 positive on both points.  One can hardly think too little of one's [[Self|self]]. 
 One can hardly think too much of one's [[Soul|soul]].
 
-     Take another case:  the complicated question of [[Charity|charity]],
+Take another case:  the complicated question of [[Charity|charity]],
 which some highly uncharitable idealists seem to think quite easy. 
 [[Charity]] is a [[Paradox|paradox]], like modesty and [[Courage|courage]].  Stated baldly,
 [[Charity|charity]] certainly means one of two things--pardoning unpardonable acts,
@@ -3368,7 +3367,7 @@ wrath and [[Love|love]] to run wild.  And the more I considered [[Christianity]]
 the more I found that while it had established a rule and order,
 the chief aim of that order was to give room for good things to run wild.
 
-     Mental and emotional liberty are not so simple as they look. 
+Mental and emotional liberty are not so simple as they look. 
 Really they require almost as careful a balance of laws and conditions
 as do social and political liberty.  The ordinary aesthetic anarchist
 who sets out to feel everything freely gets knotted at last in
@@ -3393,7 +3392,7 @@ between divine and diabolic, the revolt and ruin of the world,
 their optimism and pessimism, as pure poetry, could be loosened
 like cataracts.
 
-     St. Francis, in praising all good, could be a more shouting
+St. Francis, in praising all good, could be a more shouting
 optimist than Walt Whitman.  St. Jerome, in denouncing all evil,
 could paint the world blacker than Schopenhauer. Both passions were free
 because both were kept in their place. The optimist could pour out
@@ -3424,7 +3423,7 @@ Our ethical teachers write mildly against the power of millionaires;
 but we are not likely to see Mr. Rockefeller, or any modern [[Tyrant|tyrant]],
 publicly whipped in Westminster Abbey.
 
-     Thus, the [[Double|double]] charges of the secularists, though throwing
+Thus, the [[Double|double]] charges of the secularists, though throwing
 nothing but darkness and confusion on themselves, throw a real light
 on the [[Faith|faith]].  It is true that the historic Church has at once
 emphasised celibacy and emphasised the family; has at once
@@ -3443,7 +3442,7 @@ It is not a mixture like russet or purple; it is rather like
 a shot silk, for a shot silk is always at right angles, and is in
 the pattern of the [[Cross|cross]].
 
-     So it is also, of course, with the contradictory charges of the
+So it is also, of course, with the contradictory charges of the
 anti-Christians about submission and slaughter.  It IS true that
 the Church told some men to fight and others not to fight;
 and it IS true that those who fought were like thunderbolts
@@ -3473,7 +3472,7 @@ instead of the [[Lion|lion]] eating the [[Lamb|lamb]].  The real problem is--
 Can the [[Lion|lion]] lie down with the [[Lamb|lamb]] and still retain his royal ferocity? 
 THAT is the problem the Church attempted; THAT is the miracle she achieved.
 
-     This is what I have called guessing the hidden eccentricities of life. 
+This is what I have called guessing the hidden eccentricities of life. 
 This is knowing that a man's heart is to the left and not in the middle. 
 This is knowing not only that the earth is round, but knowing exactly
 where it is flat. Christian doctrine detected the oddities of life. 
@@ -3490,7 +3489,7 @@ Any one might say, "Neither swagger nor grovel"; and it would have been
 a limit. But to say, "Here you can swagger and there you can grovel"--
 that was an emancipation.
 
-     This was the big fact about Christian ethics; the discovery
+This was the big fact about Christian ethics; the discovery
 of the new balance.  Paganism had been like a pillar of marble,
 upright because proportioned with symmetry. [[Christianity]] was like
 a huge and ragged and romantic rock, which, though it sways on its
@@ -3525,7 +3524,7 @@ that the Frenchman may the more safely be swift and experimental.
 We will make an equipoise out of these excesses.  The absurdity
 called [[Germany]] shall correct the insanity called France."
 
-     Last and most important, it is exactly this which explains
+Last and most important, it is exactly this which explains
 what is so inexplicable to all the modern critics of the [[history]] of
 [[Christianity]].  I mean the monstrous wars about small points of theology,
 the earthquakes of emotion about a gesture or a word. 
@@ -3554,7 +3553,7 @@ or break all the Easter eggs. Doctrines had to be defined within
 strict limits, even in order that man might enjoy general human liberties. 
 The Church had to be careful, if only that the world might be careless.
 
-     This is the thrilling [[Romance|romance]] of Orthodoxy.  People have fallen
+This is the thrilling [[Romance|romance]] of Orthodoxy.  People have fallen
 into a foolish habit of speaking of orthodoxy as something heavy,
 humdrum, and safe.  There never was anything so perilous or
 so exciting as orthodoxy.  It was [[Sanity|sanity]]:  and to be sane is
@@ -3590,7 +3589,7 @@ reeling but erect.
 
 VII THE ETERNAL REVOLUTION
 
-     The following propositions have been urged:  First,
+The following propositions have been urged:  First,
 that some [[Faith|faith]] in our life is required even to improve it; second,
 that some dissatisfaction with things as they are is necessary
 even in order to be satisfied; third, that to have this necessary
@@ -3611,7 +3610,7 @@ the facades of the mediaeval cathedrals, thronged with shouting faces
 and open mouths.  The prophecy has fulfilled itself:  the very stones
 cry out.
 
-     If these things be conceded, though only for argument,
+If these things be conceded, though only for argument,
 we may take up where we left it the thread of the thought of the
 natural man, called by the Scotch (with regrettable familiarity),
 "The Old Man."  We can ask the next question so obviously in front of us. 
@@ -3622,7 +3621,7 @@ the symbol of [[Madness|madness]] and of mere rationalism.  Evolution is only go
 if it produces good; good is only good if it helps evolution. 
 The elephant stands on the tortoise, and the tortoise on the elephant.
 
-     Obviously, it will not do to take our ideal from
+Obviously, it will not do to take our ideal from
 the principle in [[Nature|nature]]; for the simple reason that (except for some
 human or divine theory), there is no principle in [[Nature|nature]].
 For instance, the cheap anti-democrat of to-day will tell you solemnly
@@ -3651,13 +3650,13 @@ things are superior.  You cannot even say that the cat scores
 unless there is a system of scoring.  You cannot even say that
 the cat gets the best of it unless there is some best to be got.
 
-     We cannot, then, get the ideal itself from [[Nature|nature]],
+We cannot, then, get the ideal itself from [[Nature|nature]],
 and as we follow here the first and natural speculation,
 we will leave out (for the present) the idea of getting it from God. 
 We must have our own vision.  But the attempts of most moderns
 to express it are highly vague.
 
-     Some fall back simply on the [[Clock|clock]]: they talk as if mere passage
+Some fall back simply on the [[Clock|clock]]: they talk as if mere passage
 through [[Time|time]] brought some superiority; so that even a man of the first
 mental calibre carelessly uses the phrase that human [[morality]] is never
 up to date.  How can anything be up to date? -- a date has
@@ -3675,7 +3674,7 @@ it is a mere phrase from a steeple or a weathercock. "Tommy was a good boy"
 is a pure philosophical statement, worthy of Plato or [[aquinas|Aquinas]]. 
 "Tommy lived the higher life" is a gross metaphor from a ten-foot rule.
 
-     This, incidentally, is almost the whole weakness of Nietzsche,
+This, incidentally, is almost the whole weakness of Nietzsche,
 whom some are representing as a bold and strong thinker. 
 No one will deny that he was a poetical and suggestive thinker;
 but he was quite the reverse of strong.  He was not at all bold. 
@@ -3695,7 +3694,7 @@ evolution to produce.  And if he does not know, certainly the
 ordinary evolutionists, who talk about things being "higher,"
 do not know either.
 
-     Then again, some people fall back on sheer submission
+Then again, some people fall back on sheer submission
 and sitting still.  [[Nature]] is going to do something some day;
 nobody knows what, and nobody knows when.  We have no reason for acting,
 and no reason for not acting.  If anything happens it is right: 
@@ -3704,7 +3703,7 @@ anticipate [[Nature|nature]] by doing something, by doing anything.  Because we
 may possibly grow wings they cut off their legs.  Yet [[Nature|nature]] may be
 trying to make them centipedes for all they know.
 
-     Lastly, there is a fourth class of people who take whatever it is
+Lastly, there is a fourth class of people who take whatever it is
 that they happen to want, and say that that is the ultimate aim
 of evolution.  And these are the only sensible people. 
 This is the only really healthy way with the word evolution,
@@ -3723,7 +3722,7 @@ We have said we must be fond of this world, even in order to change it.
 We now add that we must be fond of another world (real or imaginary)
 in order to have something to change it to.
 
-     We need not [[debate]] about the mere words evolution or progress: 
+We need not [[debate]] about the mere words evolution or progress: 
 personally I prefer to call it [[Reform|reform]].  For [[Reform|reform]] implies form. 
 It implies that we are trying to shape the world in a particular image;
 to make it something that we see already in our minds.  Evolution is
@@ -3733,7 +3732,7 @@ But [[Reform|reform]] is a metaphor for reasonable and determined men:  it means
 that we see a certain thing out of shape and we mean to put it into shape.
 And we know what shape.
 
-     Now here comes in the whole collapse and huge blunder of our age. 
+Now here comes in the whole collapse and huge blunder of our age. 
 We have mixed up two different things, two opposite things. 
 Progress should mean that we are always changing the world
 to suit the vision.  Progress does mean (just now) that we are always
@@ -3746,7 +3745,7 @@ It does mean that the New Jerusalem is always walking away from us.
 We are not altering the real to suit the ideal.  We are altering the ideal: 
 it is easier.
 
-     Silly examples are always simpler; let us suppose a man wanted
+Silly examples are always simpler; let us suppose a man wanted
 a particular kind of world; say, a blue world.  He would have
 no cause to complain of the slightness or swiftness of his task;
 he might toil for a long [[Time|time]] at the transformation; he could work away
@@ -3791,7 +3790,7 @@ Cunninghame Grahame, Bernard [[Shaw]] and Auberon Herbert,
 who between them, with bowed gigantic backs, bore up the throne of
 the Archbishop of Canterbury.
 
-     We may say broadly that free thought is the best of all the
+We may say broadly that free thought is the best of all the
 safeguards against [[Freedom|freedom]].  Managed in a modern style the emancipation
 of the slave's mind is the best way of preventing the emancipation of
 the slave.  Teach him to worry about whether he wants to be free,
@@ -3816,7 +3815,7 @@ exactly the same.  No ideal will remain long enough to be realized,
 or even partly realized.  The modern young man will never change
 his environment; for he will always change his mind.
 
-     This, therefore, is our first requirement about the ideal
+This, therefore, is our first requirement about the ideal
 towards which progress is directed; it must be fixed.  Whistler used
 to make many rapid studies of a sitter; it did not matter if he tore
 up twenty portraits.  But it would matter if he looked up twenty times,
@@ -3832,7 +3831,7 @@ satisfied with working?  How can we make sure that the portrait painter
 will throw the portrait out of [[Window|window]] instead of taking the natural
 and more human course of throwing the sitter out of [[Window|window]]?
 
-     A strict rule is not only necessary for ruling; it is also
+A strict rule is not only necessary for ruling; it is also
 necessary for rebelling.  This fixed and familiar ideal is necessary
 to any sort of revolution.  Man will sometimes act slowly
 upon new ideas; but he will only act swiftly upon old ideas.  If I am
@@ -3867,7 +3866,7 @@ behind the current [[morality]], why should not philanthropists be in
 front of it?  What on earth is the current [[morality]], except in its
 literal sense--the [[morality]] that is always running away?
 
-     Thus we may say that a permanent ideal is as necessary
+Thus we may say that a permanent ideal is as necessary
 to the innovator as to the conservative; it is necessary whether
 we wish the [[King|king]]'s orders to be promptly executed or whether we only
 wish the [[King|king]] to be promptly executed.  The guillotine has many sins,
@@ -3883,7 +3882,7 @@ for founding a system for ever, as in China, or for altering it
 every month as in the early [[French Revolution]], it is equally necessary
 that the vision should be a fixed vision.  This is our first requirement.
 
-     When I had written this down, I felt once again the presence of
+When I had written this down, I felt once again the presence of
 something else in the discussion:  as a man hears a church bell above
 the sound of the street.  Something seemed to be saying,
 "My ideal at least is fixed; for it was fixed before the foundations
@@ -3907,7 +3906,7 @@ if they are sinful.  I lift my prehistoric legend to defy all your [[history]].
 Your vision is not merely a fixture:  it is a fact."  I paused to note
 the new coincidence of [[Christianity]]:  but I passed on.
 
-     I passed on to the next necessity of any ideal of progress. 
+I passed on to the next necessity of any ideal of progress. 
 Some people (as we have said) seem to believe in an automatic and
 impersonal progress in the [[Nature|nature]] of things.  But it is clear that no
 political activity can be encouraged by saying that progress is
@@ -3917,7 +3916,7 @@ we need not trouble to improve. The pure doctrine of progress is the
 best of all reasons for not being a progressive.  But it is to none
 of these obvious comments that I wish primarily to call attention.
 
-     The only arresting point is this:  that if we suppose improvement
+The only arresting point is this:  that if we suppose improvement
 to be natural, it must be fairly simple.  The world might conceivably
 be working towards one consummation, but hardly towards any particular
 arrangement of many qualities. To take our original simile: 
@@ -3932,7 +3931,7 @@ The world, through mere [[Time|time]], might grow black like an old picture,
 or white like an old coat; but if it is turned into a particular piece
 of black and white art--then there is an [[artist]].
 
-     If the distinction be not evident, I give an ordinary instance. 
+If the distinction be not evident, I give an ordinary instance. 
 We constantly hear a particularly cosmic creed from the modern humanitarians;
 
 I use the word humanitarian in the ordinary sense, as meaning one
@@ -3958,7 +3957,7 @@ things might--one feels, be a mere brute unconscious tendency,
 like that of a species to produce fewer and fewer children. 
 This drift may be really evolutionary, because it is stupid.
 
-     Darwinism can be used to back up two mad moralities, but it cannot
+Darwinism can be used to back up two mad moralities, but it cannot
 be used to back up a single sane one.  The kinship and competition
 of all living creatures can be used as a reason for being insanely cruel
 or insanely sentimental; but not for a healthy [[Love|love]] of [[Animals|animals]]. 
@@ -3970,7 +3969,7 @@ the tiger to imitate you, it is a shorter way to imitate the tiger.
 But in neither case does evolution tell you how to treat a tiger
 reasonably, that is, to admire his stripes while avoiding his claws.
 
-     If you want to treat a tiger reasonably, you must go back to
+If you want to treat a tiger reasonably, you must go back to
 the [[Garden|garden]] of Eden.  For the obstinate reminder continued to recur: 
 only the [[Supernatural|supernatural]] has taken a sane view of [[Nature]]. 
 The essence of all pantheism, evolutionism, and modern cosmic religion
@@ -3988,7 +3987,7 @@ But [[Nature]] is not solemn to Francis of Assisi or to George Herbert.
 To St. Francis, [[Nature]] is a sister, and even a younger sister: 
 a little, dancing sister, to be laughed at as [[Well|well]] as loved.
 
-     This, however, is hardly our main point at present;
+This, however, is hardly our main point at present;
 I have admitted it only in order to show how constantly,
 and as it were accidentally, the key would fit the smallest doors. 
 Our main point is here, that if there be a mere trend
@@ -4041,7 +4040,7 @@ It will be an exact and perilous balance; like that of a desperate [[Romance|rom
 Man must have just enough [[Faith|faith]] in himself to have adventures,
 and just enough [[Doubt|doubt]] of himself to enjoy them.
 
-     This, then, is our second requirement for the ideal of progress. 
+This, then, is our second requirement for the ideal of progress. 
 First, it must be fixed; second, it must be composite.  It must not
 (if it is to satisfy our souls) be the mere victory of some one thing
 swallowing up everything else, [[Love|love]] or [[Pride|pride]] or peace or adventure;
@@ -4067,7 +4066,7 @@ and architectural proportions, a [[City|city]] in which each of you can contribu
 exactly the right amount of your own colour to the many coloured
 coat of Joseph."
 
-     Twice again, therefore, [[Christianity]] had come in with the exact answer
+Twice again, therefore, [[Christianity]] had come in with the exact answer
 that I required.  I had said, "The ideal must be fixed," and the Church
 had answered, "Mine is literally fixed, for it existed before anything else."
 I said secondly, "It must be artistically combined, like a picture";
@@ -4078,7 +4077,7 @@ And of all the three it is infinitely the hardest to express.
 Perhaps it might be put thus:  that we need watchfulness even in Utopia,
 lest we fall from Utopia as we fell from Eden.
 
-     We have remarked that one reason offered for being a progressive
+We have remarked that one reason offered for being a progressive
 is that things naturally tend to grow better.  But the only real reason
 for being a progressive is that things naturally tend to grow worse. 
 The corruption in things is not only the best argument for being progressive;
@@ -4125,7 +4124,7 @@ to fight again against the proposal of a censorship of the press.
 We do not need a censorship of the press.  We have a censorship
 by the press.
 
-     This startling swiftness with which popular systems turn oppressive
+This startling swiftness with which popular systems turn oppressive
 is the third fact for which we shall ask our perfect theory of progress
 to allow.  It must always be on the look out for every privilege
 being abused, for every working right becoming a wrong. 
@@ -4139,7 +4138,7 @@ I felt that I was really at last on the side of the revolutionary.
 And then I caught my breath again:  for I remembered that
 I was once again on the side of the orthodox.
 
-     [[Christianity]] spoke again and said:  "I have always maintained
+[[Christianity]] spoke again and said:  "I have always maintained
 that men were naturally backsliders; that human virtue tended
 of its own [[Nature|nature]] to rust or to rot; I have always said that
 human beings as such go wrong, especially happy human beings,
@@ -4150,7 +4149,7 @@ you would call it, as I do, the doctrine of [[Original Sin|original sin]].
 You may call it the cosmic advance as much as you like;
 I call it what it is--the Fall."
 
-     I have spoken of orthodoxy coming in like a [[Sword|sword]];
+I have spoken of orthodoxy coming in like a [[Sword|sword]];
 here I confess it came in like a battle-axe.  For really
 (when I came to think of it) [[Christianity]] is the only thing left
 that has any real right to question the power of the [[Well|well]]-nurtured
@@ -4194,7 +4193,7 @@ to govern them?  On the ordinary environment argument the matter
 is fairly manifest.  The comfortable class must be merely our
 vanguard in Utopia.
 
-     Is there any answer to the proposition that those who have had
+Is there any answer to the proposition that those who have had
 the best opportunities will probably be our best guides?
 Is there any answer to the argument that those who have breathed
 clean air had better decide for those who have breathed foul? 
@@ -4245,7 +4244,7 @@ Marlborough a crossing sweeper?  In the best Utopia,
 I must be prepared for the moral fall of any man in any position
 at any moment; especially for my fall from my position at this moment.
 
-     Much vague and sentimental journalism has been poured out
+Much vague and sentimental journalism has been poured out
 to the effect that [[Christianity]] is akin to [[democracy]], and most of it
 is scarcely strong or clear enough to refute the fact that the two things
 have often quarrelled.  The real ground upon which [[Christianity]] and
@@ -4263,7 +4262,7 @@ Carlyle was quite wrong; we have not got to [[Crown|crown]] the exceptional man
 who knows he can rule.  Rather we must [[Crown|crown]] the much more exceptional man
 who knows he can't.
 
-     Now, this is one of the two or three vital defences of working [[democracy]]. 
+Now, this is one of the two or three vital defences of working [[democracy]]. 
 The mere machinery of voting is not [[democracy]], though at present
 it is not easy to effect any simpler democratic method.  But even the
 machinery of voting is profoundly Christian in this practical sense--
@@ -4283,12 +4282,12 @@ Or if there is some slight defect in canvassing, that is in its
 perfect and rounded piety, it is only because it may possibly neglect
 to encourage the modesty of the canvasser.
 
-     Aristocracy is not an institution:  aristocracy is a sin;
+Aristocracy is not an institution:  aristocracy is a sin;
 generally a very venial one.  It is merely the drift or slide of men
 into a sort of natural pomposity and praise of the powerful,
 which is the most easy and obvious affair in the world.
 
-     It is one of the hundred answers to the fugitive perversion of
+It is one of the hundred answers to the fugitive perversion of
 modern "force" that the promptest and boldest agencies are also
 the most fragile or full of sensibility.  The swiftest things
 are the softest things.  A bird is active, because a bird is soft. 
@@ -4326,7 +4325,7 @@ a good joke in PUNCH.  For solemnity flows out of men naturally;
 but laughter is a leap.  It is easy to be heavy: hard to be light. 
 [[Satan]] fell by the force of gravity.
 
-     Now, it is the peculiar [[Honour|honour]] of Europe since it has been
+Now, it is the peculiar [[Honour|honour]] of Europe since it has been
 Christian that while it has had aristocracy it has always
 at the back of its heart treated aristocracy as a weakness--
 generally as a weakness that must be allowed for.  If any one wishes
@@ -4358,7 +4357,7 @@ but it has one great merit that overlaps even these.  The great and
 very obvious merit of the English aristocracy is that nobody could
 possibly take it seriously.
 
-     In short, I had spelled out slowly, as usual, the need for an
+In short, I had spelled out slowly, as usual, the need for an
 equal law in Utopia; and, as usual, I found that [[Christianity]]
 had been there before me.  The whole [[history]] of my Utopia
 has the same amusing sadness.  I was always rushing out of
@@ -4375,7 +4374,7 @@ in the New Jerusalem, I will take this one case of the matter of [[Marriage|marr
 as indicating the converging drift, I may say the converging crash
 of all the rest.
 
-     When the ordinary opponents of Socialism talk about impossibilities
+When the ordinary opponents of Socialism talk about impossibilities
 and alterations in human [[Nature|nature]] they always miss an important distinction. 
 In modern ideal conceptions of society there are some desires that are
 possibly not attainable:  but there are some desires that are not desirable. 
@@ -4415,7 +4414,7 @@ of any social paradise; I should ask to be kept to my bargain,
 to have my oaths and engagements taken seriously; I should ask Utopia
 to avenge my [[Honour|honour]] on myself.
 
-     All my modern Utopian friends look at each other rather doubtfully,
+All my modern Utopian friends look at each other rather doubtfully,
 for their ultimate [[Hope|hope]] is the dissolution of all special ties. 
 But again I seem to hear, like a kind of echo, an answer
 from beyond the world.  "You will have real obligations,
@@ -4424,7 +4423,7 @@ But the hardest obligation and the steepest adventure is to get there."
 
 VIII THE [[Romance|ROMANCE]] OF ORTHODOXY
 
-     It is customary to complain of the bustle and strenuousness
+It is customary to complain of the bustle and strenuousness
 of our epoch.  But in [[Truth|truth]] the chief mark of our epoch is
 a profound laziness and fatigue; and the fact is that the real laziness
 is the cause of the apparent bustle.  Take one quite external case;
@@ -4453,7 +4452,7 @@ The long words are not the hard words, it is the short words
 that are hard.  There is much more metaphysical subtlety
 in the word "damn" than in the word "degeneration."
 
-     But these long comfortable words that save modern people
+But these long comfortable words that save modern people
 the toil of reasoning have one particular aspect in which they are
 especially ruinous and confusing.  This difficulty occurs
 when the same long word is used in different connections to mean
@@ -4466,7 +4465,7 @@ as a moral taunt.  So, to take a cheaper instance, the man who
 hates "progressives" in [[London]] always calls himself a "progressive"
 in South Africa.
 
-     A confusion quite as unmeaning as this has arisen in connection
+A confusion quite as unmeaning as this has arisen in connection
 with the word "liberal" as applied to religion and as applied
 to politics and society.  It is often suggested that all Liberals
 ought to be freethinkers, because they ought to [[Love|love]] everything
@@ -4482,7 +4481,7 @@ the improbability of personal [[Immortality|immortality]] and so on.  And none o
 these ideas are particularly liberal.  Nay, indeed almost all these ideas
 are definitely illiberal, as it is the purpose of this chapter to show.
 
-     In the few following pages I propose to point out as rapidly as possible
+In the few following pages I propose to point out as rapidly as possible
 that on every single one of the matters most strongly insisted on
 by liberalisers of theology their effect upon social practice would be
 definitely illiberal. Almost every contemporary proposal to bring
@@ -4499,7 +4498,7 @@ alliance with oppression--and that is orthodoxy.  I may, it is true,
 twist orthodoxy so as partly to justify a [[Tyrant|tyrant]].  But I can easily
 make up a German [[philosophy]] to justify him entirely.
 
-     Now let us take in order the innovations that are the notes of
+Now let us take in order the innovations that are the notes of
 the new theology or the modernist church.  We concluded the last chapter
 with the discovery of one of them. The very doctrine which is called
 the most old-fashioned was found to be the only safeguard of
@@ -4508,7 +4507,7 @@ was found to be the only strength of the people.  In short, we found
 that the only logical negation of oligarchy was in the affirmation of
 [[Original Sin|original sin]].  So it is, I maintain, in all the other cases.
 
-     I take the most obvious instance first, the case of miracles. 
+I take the most obvious instance first, the case of miracles. 
 For some extraordinary reason, there is a fixed notion that it is
 more liberal to disbelieve in miracles than to believe in them. 
 Why, I cannot imagine, nor can anybody tell me.  For some
@@ -4548,7 +4547,7 @@ in a fixed and godless fate; a deep and sincere [[Faith|faith]] in the
 incurable routine of the cosmos.  The doubts of the agnostic were only
 the dogmas of the monist.
 
-     Of the fact and evidence of the [[Supernatural|supernatural]] I will speak afterwards. 
+Of the fact and evidence of the [[Supernatural|supernatural]] I will speak afterwards. 
 Here we are only concerned with this clear point; that in so far as
 the liberal idea of [[Freedom|freedom]] can be said to be on either side
 in the discussion about miracles, it is obviously on the side of miracles. 
@@ -4569,7 +4568,7 @@ binds the Creator Himself; it [[Chains|chains]] up God as the [[Apocalypse]]
 chained the devil.  It [[Leaves|leaves]] nothing free in the universe. 
 And those who assist this process are called the "liberal theologians."
 
-     This, as I say, is the lightest and most evident case.
+This, as I say, is the lightest and most evident case.
 The assumption that there is something in the [[Doubt|doubt]] of miracles
 akin to liberality or [[Reform|reform]] is literally the opposite of the [[Truth|truth]]. 
 If a man cannot believe in miracles there is an end of the matter;
@@ -4591,7 +4590,7 @@ to wish to make it immortal?  No, if it is desirable that man should
 triumph over the cruelty of [[Nature|nature]] or custom, then miracles are
 certainly desirable; we will discuss afterwards whether they are possible.
 
-     But I must pass on to the larger cases of this curious error;
+But I must pass on to the larger cases of this curious error;
 the notion that the "liberalising" of religion in some way helps
 the liberation of the world.  The second example of it can be found
 in the question of pantheism--or rather of a certain modern attitude
@@ -4599,7 +4598,7 @@ which is often called immanentism, and which often is Buddhism.
 But this is so much more difficult a matter that I must approach it
 with rather more preparation.
 
-     The things said most confidently by advanced persons to
+The things said most confidently by advanced persons to
 crowded audiences are generally those quite opposite to the fact;
 it is actually our truisms that are untrue.  Here is a case. 
 There is a phrase of facile liberality uttered again and again
@@ -4631,7 +4630,7 @@ have newspapers.  Creeds that exist to destroy each other
 both have scriptures, just as armies that exist to destroy each other
 both have guns.
 
-     The great example of this alleged [[Identity|identity]] of all human religions
+The great example of this alleged [[Identity|identity]] of all human religions
 is the alleged spiritual [[Identity|identity]] of Buddhism and [[Christianity]]. 
 Those who adopt this theory generally avoid the ethics of most other creeds,
 except, indeed, Confucianism, which they like because it is not a creed. 
@@ -4643,7 +4642,7 @@ and towards Thugs and fetish worshippers their attitude may even
 be called cold.  But in the case of the great religion of Gautama
 they feel sincerely a similarity.
 
-     Students of popular science, like Mr. Blatchford, are always insisting
+Students of popular science, like Mr. Blatchford, are always insisting
 that [[Christianity]] and Buddhism are very much alike, especially Buddhism. 
 This is generally believed, and I believed it myself until I read
 a book giving the reasons for it.  The reasons were of two kinds: 
@@ -4683,7 +4682,7 @@ agrees that there is some way out.  But as to what is the way out,
 I do not think that there are two institutions in the universe
 which contradict each other so flatly as Buddhism and [[Christianity]].
 
-     Even when I thought, with most other [[Well|well]]-informed,
+Even when I thought, with most other [[Well|well]]-informed,
 though unscholarly, people, that Buddhism and [[Christianity]] were alike,
 there was one thing about them that always perplexed me; I mean
 the startling difference in their type of religious art.  I do not mean
@@ -4705,7 +4704,7 @@ a peculiar intentness inwards.  The Christian is staring with
 a frantic intentness outwards.  If we follow that clue steadily
 we shall find some interesting things.
 
-     A short [[Time|time]] ago Mrs. Besant, in an interesting [[Essay|essay]],
+A short [[Time|time]] ago Mrs. Besant, in an interesting [[Essay|essay]],
 announced that there was only one religion in the world, that all faiths
 were only versions or perversions of it, and that she was quite prepared
 to say what it was.  According to Mrs. Besant this universal Church
@@ -4727,7 +4726,7 @@ it must be a monotonous courtship.  If the world is full of real selves,
 they can be really unselfish selves.  But upon Mrs. Besant's principle
 the whole cosmos is only one enormously selfish person.
 
-     It is just here that Buddhism is on the side of modern pantheism
+It is just here that Buddhism is on the side of modern pantheism
 and immanence.  And it is just here that [[Christianity]] is on the side
 of humanity and liberty and [[Love|love]].  [[Love]] desires personality;
 therefore [[Love|love]] desires division.  It is the instinct of [[Christianity]]
@@ -4767,7 +4766,7 @@ brother and brother that they should for an aeon hate each other.
 But the Father also was a [[Sword|sword]], which in the black beginning
 separated brother and brother, so that they should [[Love|love]] each other at last.
 
-     This is the meaning of that almost insane happiness in the eyes
+This is the meaning of that almost insane happiness in the eyes
 of the mediaeval saint in the picture.  This is the meaning of
 the sealed eyes of the superb Buddhist image.  The Christian saint
 is happy because he has verily been cut off from the world;
@@ -4791,14 +4790,14 @@ written under the inspiration of Garibaldi and the revolt of [[Italy]]
 he proclaimed the newer religion and the purer God which should wither up
 all the priests of the world:
 
-    "What doest thou now
-     Looking Godward to cry
-     I am I, thou art thou,
-     I am low, thou art high,
-     I am thou that thou seekest to find him, find thou but thyself,
-          thou art I."
+"What doest thou now
+Looking Godward to cry
+I am I, thou art thou,
+I am low, thou art high,
+I am thou that thou seekest to find him, find thou but thyself,
+thou art I."
 
-     Of which the immediate and evident deduction is that
+Of which the immediate and evident deduction is that
 tyrants are as much the sons of God as Garibaldis; and that
 [[King]] Bomba of Naples having, with the utmost [[success]], "found himself"
 is identical with the ultimate good in all things. The [[Truth|truth]] is
@@ -4822,7 +4821,7 @@ deeper rings of the labyrinth of our own ego.  But only we of Christendom
 have said that we should hunt God like an eagle upon the [[Mountains|mountains]]: 
 and we have killed all monsters in the chase.
 
-     Here again, therefore, we find that in so far as we value [[democracy]]
+Here again, therefore, we find that in so far as we value [[democracy]]
 and the [[Self|self]]-renewing energies of the west, we are much more likely
 to find them in the old theology than the new.  If we want [[Reform|reform]],
 we must adhere to orthodoxy: especially in this matter (so much disputed
@@ -4835,7 +4834,7 @@ righteous indignation--Christendom. Insisting that God is inside man,
 man is always inside himself.  By insisting that God transcends man,
 man has transcended himself.
 
-     If we take any other doctrine that has been called old-fashioned
+If we take any other doctrine that has been called old-fashioned
 we shall find the case the same.  It is the same, for instance,
 in the deep matter of the Trinity.  Unitarians (a sect never to be mentioned
 without a special respect for their distinguished intellectual dignity
@@ -4869,7 +4868,7 @@ from the dry places and the dreadful suns, come the cruel children
 of the lonely God; the real Unitarians who with scimitar in hand
 have laid waste the world.  For it is not [[Well|well]] for God to be [[Alone|alone]].
 
-     Again, the same is true of that difficult matter of
+Again, the same is true of that difficult matter of
 the danger of the [[Soul|soul]], which has unsettled so many just minds. 
 To [[Hope|hope]] for all souls is imperative; and it is quite tenable that
 their salvation is inevitable.  It is tenable, but it is not
@@ -4891,7 +4890,7 @@ not that he would lose his [[Soul|soul]], but that he must take care that he did
 In Christian morals, in short, it is wicked to call a man "damned": 
 but it is strictly religious and philosophic to call him damnable.
 
-     All [[Christianity]] concentrates on the man at the [[Cross|cross]]-roads. 
+All [[Christianity]] concentrates on the man at the [[Cross|cross]]-roads. 
 The vast and shallow philosophies, the huge syntheses of humbug,
 all talk about ages and evolution and ultimate developments. 
 The true [[philosophy]] is concerned with the instant.  Will a man take
@@ -4911,7 +4910,7 @@ a serial story in a magazine:  life ends with the promise (or menace)
 life imitates the serial and [[Leaves|leaves]] off at the exciting moment. 
 For [[Death|death]] is distinctly an exciting moment.
 
-     But the point is that a story is exciting because it has in it
+But the point is that a story is exciting because it has in it
 so strong an element of will, of what theology calls free-will. 
 You cannot finish a sum how you like.  But you can finish a story
 how you like.  When somebody discovered the Differential Calculus
@@ -4938,7 +4937,7 @@ he may be a patient.  But if he is to be saved from forging, he must be
 not a patient but an IMPATIENT.  He must be personally impatient with forgery. 
 All moral [[Reform|reform]] must start in the active not the passive will.
 
-     Here again we reach the same substantial conclusion. 
+Here again we reach the same substantial conclusion. 
 In so far as we [[Desire|desire]] the definite reconstructions and
 the dangerous revolutions which have distinguished European civilization,
 we shall not discourage the thought of possible ruin; we shall rather
@@ -4947,7 +4946,7 @@ how right things are, of course we shall only say that they must go right.
 But if we particularly want to MAKE them go right, we must insist
 that they may go wrong.
 
-     Lastly, this [[Truth|truth]] is yet again true in the case of the common
+Lastly, this [[Truth|truth]] is yet again true in the case of the common
 modern attempts to diminish or to explain away the divinity of [[Christ]]. 
 The thing may be true or not; that I shall deal with before I end. 
 But if the divinity is true it is certainly terribly revolutionary. 
@@ -4983,7 +4982,7 @@ choose a god.  They will find only one divinity who ever uttered
 their isolation; only one religion in which God seemed for an instant
 to be an atheist.
 
-     These can be called the essentials of the old orthodoxy,
+These can be called the essentials of the old orthodoxy,
 of which the chief merit is that it is the natural fountain of revolution
 and [[Reform|reform]]; and of which the chief defect is that it is obviously
 only an abstract assertion.  Its main advantage is that it is
@@ -5048,7 +5047,7 @@ The Titans did not scale heaven; but they laid waste the world.
 
 IX AUTHORITY AND THE ADVENTURER
 
-     The last chapter has been concerned with the contention
+The last chapter has been concerned with the contention
 that orthodoxy is not only (as is often urged) the only safe guardian
 of [[morality]] or order, but is also the only logical guardian of liberty,
 innovation and advance.  If we wish to pull down the prosperous oppressor
@@ -5074,7 +5073,7 @@ favour of fixed rules and clear dogmas.  The RULES of a club
 are occasionally in favour of the poor member.  The drift of a club
 is always in favour of the rich one.
 
-     And now we come to the crucial question which truly concludes
+And now we come to the crucial question which truly concludes
 the whole matter.  A reasonable agnostic, if he has happened to
 agree with me so far, may justly turn round and say, "You have found
 a practical [[philosophy]] in the doctrine of the Fall; very [[Well|well]]. 
@@ -5101,7 +5100,7 @@ and leave all the rest, all the absolute dogmas that are
 in their [[Nature|nature]] incomprehensible?"  This is the real question;
 this is the last question; and it is a pleasure to try to answer it.
 
-     The first answer is simply to say that I am a rationalist. 
+The first answer is simply to say that I am a rationalist. 
 I like to have some intellectual justification for my intuitions. 
 If I am treating man as a fallen being it is an intellectual convenience
 to me to believe that he fell; and I find, for some odd
@@ -5121,7 +5120,7 @@ should be thought to suffer from the absence of the ordinary apologetic
 I will here very briefly summarise my own arguments and conclusions
 on the purely objective or scientific [[Truth|truth]] of the matter.
 
-     If I am asked, as a purely intellectual question,
+If I am asked, as a purely intellectual question,
 why I believe in [[Christianity]], I can only answer, "For the same reason
 that an intelligent agnostic disbelieves in [[Christianity]]."
 I believe in it quite rationally upon the evidence.  But the evidence
@@ -5180,7 +5179,7 @@ So that this first superficial reason for materialism is, if anything,
 a reason for its opposite; it is exactly where biology [[Leaves|leaves]] off
 that all religion begins.
 
-     It would be the same if I examined the second of the three
+It would be the same if I examined the second of the three
 chance rationalist arguments; the argument that all that we call divine
 began in some darkness and terror.  When I did attempt to examine
 the foundations of this modern idea I simply found that there were none. 
@@ -5201,7 +5200,7 @@ Learned men literally say that this pre-historic calamity cannot
 be true because every race of mankind remembers it.  I cannot keep pace
 with these paradoxes.
 
-     And if we took the third chance instance, it would be the same;
+And if we took the third chance instance, it would be the same;
 the view that priests darken and embitter the world.  I look at the world
 and simply discover that they don't.  Those countries in Europe
 which are still influenced by priests, are exactly the countries
@@ -5218,7 +5217,7 @@ They did not fall over; but when their friends returned to them
 they were all huddled in terror in the centre of the island;
 and their [[Song|song]] had ceased.
 
-     Thus these three facts of experience, such facts as go to make
+Thus these three facts of experience, such facts as go to make
 an agnostic, are, in this view, turned totally round.  I am left saying,
 "Give me an explanation, first, of the towering eccentricity of man
 among the brutes; second, of the vast human tradition of
@@ -5242,7 +5241,7 @@ man in the street in being guided by three or four odd facts
 all pointing to something; only when I came to look at the facts
 I always found they pointed to something else.
 
-     I have given an imaginary triad of such ordinary anti-Christian arguments;
+I have given an imaginary triad of such ordinary anti-Christian arguments;
 if that be too narrow a basis I will give on the spur of the moment another. 
 These are the kind of thoughts which in combination create the impression
 that [[Christianity]] is something weak and diseased.  First, for instance,
@@ -5282,7 +5281,7 @@ beside each other.  The one explanation of the Gospel language
 that does explain it, is that it is the survey of one who
 from some [[Supernatural|supernatural]] height beholds some more startling synthesis.
 
-     I take in order the next instance offered:  the idea that [[Christianity]]
+I take in order the next instance offered:  the idea that [[Christianity]]
 belongs to the Dark Ages.  Here I did not satisfy myself with reading
 modern generalisations; I read a little [[history]].  And in [[history]]
 I found that [[Christianity]], so far from belonging to the Dark Ages,
@@ -5310,7 +5309,7 @@ is the thing we have all heard said of it.  How can we say that
 the Church wishes to bring us back into the Dark Ages? 
 The Church was the only thing that ever brought us out of them.
 
-     I added in this second trinity of objections an idle instance
+I added in this second trinity of objections an idle instance
 taken from those who feel such people as the Irish to be weakened
 or made stagnant by superstition.  I only added it because this is
 a peculiar case of a statement of fact that turns out to be
@@ -5346,7 +5345,7 @@ with so fixed a [[Faith|faith]] in justice that they get what they ask,
 while others go empty away; so that the most helpless island of the Empire
 can actually help itself?"
 
-     There is an answer:  it is an answer to say that the energy
+There is an answer:  it is an answer to say that the energy
 is truly from outside the world; that it is psychic, or at least
 one of the results of a real psychical disturbance.  The highest gratitude
 and respect are due to the great human civilizations such as the old Egyptian
@@ -5368,7 +5367,7 @@ was about to be gathered in [[Silence|silence]] to Assyria and Babylon,
 something entered into its [[Body|body]].  And Europe has had a strange life--
 it is not too much to say that it has had the JUMPS--ever since.
 
-     I have dealt at length with such typical triads of [[Doubt|doubt]]
+I have dealt at length with such typical triads of [[Doubt|doubt]]
 in order to convey the main contention--that my own case for [[Christianity]]
 is rational; but it is not simple.  It is an accumulation of varied facts,
 like the attitude of the ordinary agnostic.  But the ordinary agnostic
@@ -5383,7 +5382,7 @@ in peculiarly bright colours and gay with gold; because modern science
 is moving away from the [[Supernatural|supernatural]], but it isn't, it is moving towards
 the [[Supernatural|supernatural]] with the rapidity of a railway train.
 
-     But among these million facts all flowing one way there is,
+But among these million facts all flowing one way there is,
 of course, one question sufficiently solid and separate to be
 treated briefly, but by itself; I mean the objective occurrence
 of the [[Supernatural|supernatural]].  In another chapter I have indicated
@@ -5440,7 +5439,7 @@ stupid because they say they have seen Iceland.  It is only fair to add
 that there is another argument that the unbeliever may rationally use
 against miracles, though he himself generally forgets to use it.
 
-     He may say that there has been in many miraculous stories
+He may say that there has been in many miraculous stories
 a notion of spiritual preparation and acceptance:  in short,
 that the miracle could only come to him who believed in it. 
 It may be so, and if it is so how are we to test it?  If we are inquiring
@@ -5462,7 +5461,7 @@ can see visions--even then, if you are interested in visions it is
 no point to object to believers."  You are still arguing in a circle--
 in that old mad circle with which this book began.
 
-     The question of whether miracles ever occur is a question
+The question of whether miracles ever occur is a question
 of common sense and of ordinary historical [[Imagination|imagination]]:  not of any
 final physical experiment.  One may here surely dismiss that
 quite brainless piece of pedantry which talks about the need for
@@ -5483,7 +5482,7 @@ certain extraordinary sympathies do not arise.  It is as if I said that
 I could not tell if there was a fog because the air was not clear enough;
 or as if I insisted on perfect sunlight in order to see a solar eclipse.
 
-     As a common-sense conclusion, such as those to which we come
+As a common-sense conclusion, such as those to which we come
 about sex or about midnight ([[Well|well]] knowing that many details must
 in their own [[Nature|nature]] be concealed) I conclude that miracles do happen. 
 I am forced to it by a conspiracy of facts:  the fact that the men
@@ -5506,7 +5505,7 @@ good or bad.  A false [[Ghost|ghost]] disproves the reality of [[Ghosts|ghosts]]
 as much as a forged banknote disproves the existence of
 the Bank of England--if anything, it proves its existence.
 
-     Given this conviction that the spiritual phenomena do occur
+Given this conviction that the spiritual phenomena do occur
 (my evidence for which is complex but rational), we then collide with
 one of the worst mental evils of the age.  The greatest disaster
 of the nineteenth century was this:  that men began to use the word
@@ -5552,7 +5551,7 @@ like [[Water|water]], and comforting like [[Fire|fire]]; until I find some place
 where I am literally at [[Home|home]].  And there is only one such place
 to be found.
 
-     I have now said enough to show (to any one to whom
+I have now said enough to show (to any one to whom
 such an explanation is essential) that I have in the ordinary
 arena of [[Apologetics|apologetics]], a ground of belief.  In pure records of experiment
 (if these be taken democratically without contempt or favour)
@@ -5562,7 +5561,7 @@ that this curt discussion is my real reason for accepting [[Christianity]]
 instead of taking the moral good of [[Christianity]] as I should take it
 out of Confucianism.
 
-     I have another far more solid and central ground for
+I have another far more solid and central ground for
 submitting to it as a [[Faith|faith]], instead of merely picking up hints
 from it as a scheme.  And that is this:  that the Christian Church
 in its practical relation to my [[Soul|soul]] is a living teacher, not a dead one. 
@@ -5603,7 +5602,7 @@ They talk of the masculine woman; but every man is a feminised man.
 And if ever men walk to Westminster to protest against this
 female privilege, I shall not join their procession.
 
-     For I remember with certainty this fixed psychological fact;
+For I remember with certainty this fixed psychological fact;
 that the very [[Time|time]] when I was most under a woman's authority,
 I was most full of flame and adventure.  Exactly because when my mother
 said that ants bit they did bite, and because [[Snow|snow]] did come in [[Winter|winter]]
@@ -5619,7 +5618,7 @@ Inch by inch I might discover what was the object of the ugly shape
 called a rake; or form some shadowy conjecture as to why my parents
 kept a cat.
 
-     So, since I have accepted Christendom as a mother and not merely
+So, since I have accepted Christendom as a mother and not merely
 as a chance example, I have found Europe and the world once more
 like the little [[Garden|garden]] where I stared at the symbolic shapes
 of cat and rake; I look at everything with the old elvish ignorance
@@ -5651,7 +5650,7 @@ experience is against me, as it is on the subject of Bach.
 Celibacy is one flower in my father's [[Garden|garden]], of which I have not been told
 the sweet or terrible name.  But I may be told it any day.
 
-     This, therefore, is, in conclusion, my reason for accepting
+This, therefore, is, in conclusion, my reason for accepting
 the religion and not merely the scattered and secular truths
 out of the religion.  I do it because the thing has not merely
 told this [[Truth|truth]] or that [[Truth|truth]], but has revealed itself as
@@ -5684,7 +5683,7 @@ for [[Christianity]] is the only frame for pagan [[Freedom|freedom]].  But in th
 modern [[philosophy]] the case is opposite; it is its outer ring
 that is obviously artistic and emancipated; its [[Despair|despair]] is within.
 
-     And its [[Despair|despair]] is this, that it does not really believe
+And its [[Despair|despair]] is this, that it does not really believe
 that there is any meaning in the universe; therefore it cannot [[Hope|hope]]
 to find any [[Romance|romance]]; its romances will have no plots.  A man cannot expect
 any adventures in the land of anarchy.  But a man can expect
@@ -5696,7 +5695,7 @@ like the tools or pictures in my father's [[house]]; for it is my father's [[hou
 I end where I began--at the right end.  I have entered at last
 the gate of all good [[philosophy]].  I have come into my second [[Childhood|childhood]].
 
-     But this larger and more adventurous Christian universe
+But this larger and more adventurous Christian universe
 has one final mark difficult to express; yet as a conclusion
 of the whole matter I will attempt to express it.  All the real argument
 about religion turns on the question of whether a man who was born
@@ -5720,7 +5719,7 @@ It is only since I have known orthodoxy that I have known mental emancipation.
 But, in conclusion, it has one special application to the ultimate
 idea of joy.
 
-     It is said that Paganism is a religion of joy and [[Christianity]] of sorrow;
+It is said that Paganism is a religion of joy and [[Christianity]] of sorrow;
 it would be just as easy to prove that Paganism is pure sorrow and
 [[Christianity]] pure joy.  Such conflicts mean nothing and lead nowhere. 
 Everything human must have in it both joy and sorrow; the only matter
@@ -5753,7 +5752,7 @@ streets of Florence than in the theatre of Athens or the open [[Garden|garden]]
 of Epicurus.  Giotto lived in a gloomier town than Euripides,
 but he lived in a gayer universe.
 
-     The mass of men have been forced to be gay about the little things,
+The mass of men have been forced to be gay about the little things,
 but sad about the big ones.  Nevertheless (I offer my last dogma defiantly)
 it is not native to man to be so.  Man is more himself,
 man is more manlike, when joy is the fundamental thing in him,
@@ -5786,7 +5785,7 @@ than we could take the tremendous levities of the angels.
 So we sit perhaps in a starry chamber of [[Silence|silence]], while the laughter
 of the heavens is too loud for us to hear.
 
-     Joy, which was the small publicity of the pagan, is the gigantic secret
+Joy, which was the small publicity of the pagan, is the gigantic secret
 of the Christian.  And as I close this chaotic volume I open again
 the strange small book from which all [[Christianity]] came;
 and I am again haunted by a kind of confirmation.  The tremendous figure
@@ -5813,13 +5812,12 @@ End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_02_preface" data-title="Orthodoxy — Preface" data-chapter="Story 02 Preface" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_preface" data-title="Orthodoxy — Preface" data-chapter="Preface" data-kind="story"></span>
 
-# [[ortho14]] — Preface
 
 PREFACE
 
-     This book is meant to be a companion to "Heretics,"
+This book is meant to be a companion to "Heretics,"
 and to put the positive side in addition to the negative. 
 Many critics complained of the book called "Heretics" because
 it merely criticised current philosophies without offering any
@@ -5839,7 +5837,7 @@ by the Christian Theology.  The writer regards it as amounting to
 a convincing creed.  But if it is not that it is at least
 a repeated and surprising coincidence.
 
-                                                Gilbert K. Chesterton.
+Gilbert K. Chesterton.
 
 CONTENTS
 
@@ -5866,11 +5864,11 @@ IX.   Authority and the Adventurer
 
 PREFAZIONE
 
-     Questo libro vuol essere il compagno di «Eretici», e aggiungere il lato positivo a quello negativo. Molti critici mossero rimprovero al volume intitolato «Eretici», perché esso si limitava a criticare le filosofie correnti senza offrire alcuna [[philosophy|filosofia]] alternativa. Questo libro è un tentativo di raccogliere quella sfida. Esso è inevitabilmente affermativo e perciò inevitabilmente autobiografico. Chi scrive si è visto ricacciato press'a poco nella stessa difficoltà che assillò il Newman quando compose la sua Apologia: si è visto costretto a essere egotista solo per poter essere sincero. Per quanto tutto il resto possa differire, il movente, nei due casi, è il medesimo. È intenzione di chi scrive tentare una spiegazione, non del se la [[Faith|Fede]] cristiana possa essere creduta, bensì del come egli, personalmente, sia giunto a crederla. Il libro è dunque ordinato secondo il principio positivo di un [[Riddle|indovinello]] e della sua soluzione. Esso tratta dapprima di tutte le solitarie e sincere speculazioni di chi scrive, e poi del modo sorprendente in cui esse furono d'un tratto tutte appagate dalla Teologia cristiana. Chi scrive lo reputa un credo convincente. Ma se anche non lo fosse, è quanto meno una ripetuta e sbalorditiva coincidenza.
+Questo libro vuol essere il compagno di «Eretici», e aggiungere il lato positivo a quello negativo. Molti critici mossero rimprovero al volume intitolato «Eretici», perché esso si limitava a criticare le filosofie correnti senza offrire alcuna [[philosophy|filosofia]] alternativa. Questo libro è un tentativo di raccogliere quella sfida. Esso è inevitabilmente affermativo e perciò inevitabilmente autobiografico. Chi scrive si è visto ricacciato press'a poco nella stessa difficoltà che assillò il Newman quando compose la sua Apologia: si è visto costretto a essere egotista solo per poter essere sincero. Per quanto tutto il resto possa differire, il movente, nei due casi, è il medesimo. È intenzione di chi scrive tentare una spiegazione, non del se la [[Faith|Fede]] cristiana possa essere creduta, bensì del come egli, personalmente, sia giunto a crederla. Il libro è dunque ordinato secondo il principio positivo di un [[Riddle|indovinello]] e della sua soluzione. Esso tratta dapprima di tutte le solitarie e sincere speculazioni di chi scrive, e poi del modo sorprendente in cui esse furono d'un tratto tutte appagate dalla Teologia cristiana. Chi scrive lo reputa un credo convincente. Ma se anche non lo fosse, è quanto meno una ripetuta e sbalorditiva coincidenza.
 
-                                                Gilbert K. Chesterton.
+Gilbert K. Chesterton.
 
-    INDICE  
+INDICE  
 
 I.    Introduzione in difesa di tutto il resto
 
@@ -5892,14 +5890,13 @@ IX.   L'autorità e l'avventuriero
 
 
 
-<span class="atom-split" data-atom="story_03_orthodoxy" data-title="Orthodoxy — Orthodoxy" data-chapter="Story 03 Orthodoxy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_orthodoxy" data-title="Orthodoxy — Orthodoxy" data-chapter="Orthodoxy" data-kind="story"></span>
 
-# [[ortho14]] — Orthodoxy
 
 ORTHODOXY
 I INTRODUCTION IN DEFENCE OF EVERYTHING ELSE
 
-     THE only possible excuse for this book is that it is an
+THE only possible excuse for this book is that it is an
 answer to a challenge.  Even a bad shot is dignified when he
 accepts a duel.  When some [[Time|time]] ago I published a series of
 hasty but sincere papers, under the name of "Heretics,"
@@ -5919,7 +5916,7 @@ to state the [[philosophy]] in which I have come to believe.
 I will not call it my [[philosophy]]; for I did not make it.
 God and humanity made it; and it made me.
 
-     I have often had a fancy for writing a [[Romance|romance]] about an
+I have often had a fancy for writing a [[Romance|romance]] about an
 English yachtsman who slightly miscalculated his course and
 discovered England under the impression that it was a new
 island in the South Seas.  I always find, however, that I am
@@ -5951,7 +5948,7 @@ monstrous and ancient lamps, how can this world give us at once
 the fascination of a strange town and the comfort and [[Honour|honour]] of
 being our own town?
 
-     To show that a [[Faith|faith]] or a [[philosophy]] is true from every
+To show that a [[Faith|faith]] or a [[philosophy]] is true from every
 standpoint would be too big an undertaking even for a much
 bigger book than this; it is necessary to follow one path of
 argument; and this is the path that I here propose to follow.
@@ -5980,7 +5977,7 @@ We need to be happy in this wonderland without once being merely
 comfortable.  It is THIS achievement of my creed that I shall
 chiefly pursue in these pages.
 
-     But I have a peculiar reason for mentioning the man in a yacht,
+But I have a peculiar reason for mentioning the man in a yacht,
 who discovered England.  For I am that man in a yacht.
 I discovered England.  I do not see how this book can avoid
 being egotistical; and I do not quite see (to tell the [[Truth|truth]])
@@ -6010,7 +6007,7 @@ with the heartiest sentiments to all the jolly people who
 hate what I write, and regard it (very justly, for all I know),
 as a piece of poor clowning or a single tiresome joke.
 
-     For if this book is a joke it is a joke against me.  I am
+For if this book is a joke it is a joke against me.  I am
 the man who with the utmost daring discovered what had been
 discovered before.  If there is an element of farce in what
 follows, the farce is at my own expense; for this book explains
@@ -6038,7 +6035,7 @@ first to find England; I thought I was the first to find Europe.
 I did try to found a heresy of my own; and when I had put the
 last touches to it, I discovered that it was orthodoxy.
 
-     It may be that somebody will be entertained by the account
+It may be that somebody will be entertained by the account
 of this happy fiasco.  It might amuse a friend or an enemy to
 read how I gradually learnt from the [[Truth|truth]] of some stray legend
 or from the falsehood of some dominant [[philosophy]], things that
@@ -6054,7 +6051,7 @@ this book.  But there is in everything a reasonable division of labour.
 I have written the book, and nothing on earth would induce me to
 read it.
 
-     I add one purely pedantic note which comes, as a note
+I add one purely pedantic note which comes, as a note
 naturally should, at the beginning of the book.  These essays
 are concerned only to discuss the actual fact that the central
 Christian theology (sufficiently summarized in the Apostles' Creed)
@@ -6079,7 +6076,7 @@ me another challenge, and I will write him another book.
 ORTODOSSIA
 I INTRODUZIONE IN DIFESA DI TUTTO IL RESTO
 
-     L'unica scusa possibile per questo libro è che esso costituisce una
+L'unica scusa possibile per questo libro è che esso costituisce una
 risposta a una sfida. Perfino un cattivo tiratore acquista dignità quando
 accetta un duello. Quando qualche [[Time|tempo]] fa pubblicai una serie di
 scritti frettolosi ma sinceri, sotto il titolo di «Eretici»,
@@ -6099,7 +6096,7 @@ di esporre la [[philosophy|filosofia]] in cui sono giunto a credere.
 Non la chiamerò la mia [[philosophy|filosofia]]; poiché non l'ho fatta io.
 La fecero Dio e l'umanità; ed essa fece me.
 
-     Ho spesso accarezzato la fantasia di scrivere un [[Romance|romanzo]] su un
+Ho spesso accarezzato la fantasia di scrivere un [[Romance|romanzo]] su un
 velista inglese che, sbagliando di poco i suoi calcoli di rotta,
 scoprì l'Inghilterra nella convinzione che si trattasse di una nuova
 isola nei Mari del Sud. Trovo però immancabilmente di essere
@@ -6131,7 +6128,7 @@ lampade mostruose e antiche, come può questo mondo darci nel contempo
 il fascino di una città sconosciuta e il conforto e l'[[Honour|onore]] di essere
 la nostra propria città?
 
-     Mostrare che una [[Faith|fede]] o una [[philosophy|filosofia]] è vera da ogni
+Mostrare che una [[Faith|fede]] o una [[philosophy|filosofia]] è vera da ogni
 punto di vista sarebbe un'impresa troppo grande perfino per un libro
 molto più grande di questo; è necessario seguire un solo sentiero
 argomentativo; ed è questo il sentiero che qui mi propongo di seguire.
@@ -6160,7 +6157,7 @@ Abbiamo bisogno di essere felici in questo paese delle meraviglie senza mai esse
 semplicemente comodi. È QUESTO risultato del mio credo che soprattutto
 perseguirò in queste pagine.
 
-     Ma ho una ragione particolare per menzionare l'uomo sullo yacht,
+Ma ho una ragione particolare per menzionare l'uomo sullo yacht,
 colui che scoprì l'Inghilterra. Perché io sono quell'uomo sullo yacht.
 Io scoprii l'Inghilterra. Non vedo come questo libro possa evitare
 di essere egotistico; e non vedo affatto (a dire il [[Truth|vero]])
@@ -6190,7 +6187,7 @@ con i più cordiali sentimenti a tutte le brave persone che
 detestano ciò che scrivo, e lo considerano (assai giustamente, per quel che ne so)
 un misero pezzo di buffoneria o una singola, tediosa facezia.
 
-     Perché, se questo libro è una facezia, è una facezia a mie spese. Io sono
+Perché, se questo libro è una facezia, è una facezia a mie spese. Io sono
 l'uomo che con la massima audacia scoprì ciò che era stato
 scoperto prima. Se vi è un elemento di farsa in ciò che
 segue, la farsa è a mie spese; poiché questo libro spiega
@@ -6218,7 +6215,7 @@ primo a trovare l'Inghilterra; io credevo di essere il primo a trovare l'Europa.
 Tentai davvero di fondare un'eresia tutta mia; e quando vi ebbi dato gli
 ultimi ritocchi, scoprii che era l'ortodossia.
 
-     Può darsi che qualcuno si diverta al resoconto
+Può darsi che qualcuno si diverta al resoconto
 di questo felice fiasco. Potrebbe divertire un amico o un nemico
 leggere come a poco a poco appresi dalla [[Truth|verità]] di qualche leggenda sparsa
 o dalla falsità di qualche [[philosophy|filosofia]] dominante cose che
@@ -6234,7 +6231,7 @@ questo libro. Ma in ogni cosa vi è una ragionevole divisione del lavoro.
 Io ho scritto il libro, e nulla al mondo mi indurrebbe a
 leggerlo.
 
-     Aggiungo una nota puramente pedantesca che viene, come una nota
+Aggiungo una nota puramente pedantesca che viene, come una nota
 naturalmente dovrebbe, all'inizio del libro. Questi saggi
 si occupano soltanto di discutere il fatto concreto che la teologia
 cristiana centrale (sufficientemente riassunta nel Credo degli Apostoli)
@@ -6255,13 +6252,12 @@ un'altra sfida, e gli scriverò un altro libro.
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_01" data-title="Orthodoxy — Ii The Maniac (part 1)" data-chapter="Story 04 Ii The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_01" data-title="Orthodoxy — II The Maniac (part 1)" data-chapter="II The Maniac" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ii The Maniac (part 1)
 
 II THE MANIAC
 
-     Thoroughly worldly people never understand even the world;
+Thoroughly worldly people never understand even the world;
 they rely altogether on a few cynical maxims which are not
 true.  Once I remember walking with a prosperous publisher,
 who made a remark which I had often heard before; it is, indeed,
@@ -6290,14 +6286,14 @@ because he believes in himself. Complete [[Self|self]]-confidence is
 not merely a sin; complete [[Self|self]]-confidence is a weakness. 
 Believing utterly in one's [[Self|self]] is a hysterical and superstitious
 belief like believing in Joanna Southcote:  the man who has it
-has `Hanwell' written on his face as plain as it is written on
+has ‘Hanwell' written on his face as plain as it is written on
 that omnibus."  And to all this my friend the publisher made this
 very deep and effective reply, "Well, if a man is not to believe
 in himself, in what is he to believe?"  After a long pause I replied,
 "I will go home and write a book in answer to that question." 
 This is the book that I have written in answer to it.
 
-     But I think this book may well start where our argument started
+But I think this book may well start where our argument started
 --in the neighbourhood of the mad-house.  Modern masters of
 science are much impressed with the need of beginning all
 inquiry with a fact.  The ancient masters of religion were
@@ -6322,7 +6318,7 @@ or he must deny the present union between God and man,
 as all Christians do.  The new theologians seem to think it
 a highly rationalistic solution to deny the cat.
 
-     In this remarkable situation it is plainly not now possible
+In this remarkable situation it is plainly not now possible
 (with any hope of a universal appeal) to start, as our fathers did,
 with the fact of sin.  This very fact which was to them (and is to me)
 as plain as a pikestaff, is the very fact that has been specially
@@ -6336,7 +6332,7 @@ theories were once judged by whether they tended to make a man lose
 his soul, so for our present purpose all modern thoughts and theories
 may be judged by whether they tend to make a man lose his wits.
 
-     It is true that some speak lightly and loosely of insanity
+It is true that some speak lightly and loosely of insanity
 as in itself attractive.  But a moment's thought will show that
 if disease is beautiful, it is generally some one else's disease.
 A blind man may be picturesque; but it requires two eyes
@@ -6369,21 +6365,20 @@ will do in a dull world.
 
 II IL MANIACO
 
-     Le persone assolutamente mondane non comprendono mai neppure il mondo; si affidano interamente a poche massime ciniche che non sono vere. Ricordo che una volta passeggiavo con un prospero editore, il quale fece un'osservazione che avevo già udito spesso; è, in verità, quasi un motto del mondo moderno. Eppure l'avevo udita una volta di troppo, e vidi d'un tratto che non conteneva nulla. L'editore disse di un tale: «Quell'uomo farà strada; crede in se stesso». E ricordo che, mentre alzavo il capo per ascoltare, il mio occhio colse un omnibus sul quale era scritto «Hanwell». Gli dissi: «Volete che vi dica dove si trovano gli uomini che più credono in se stessi? Perché posso dirvelo. Conosco uomini che credono in se stessi più colossalmente di Napoleone o di Cesare. So dove fiammeggia la stella fissa della certezza e del [[success|successo]]. Posso guidarvi ai troni dei Superuomini. Gli uomini che davvero credono in se stessi sono tutti nei manicomi». Egli rispose blandamente che, dopotutto, vi erano parecchi uomini che credevano in se stessi e che non erano in manicomio. «Sì, ce ne sono», ribattei, «e voi fra tutti dovreste conoscerli. Quel poeta ubriaco dal quale non voleste prendere una tetra [[Tragedy|tragedia]], egli credeva in se stesso. Quell'anziano ministro con un [[Epic|poema epico]] dal quale vi nascondevate in una stanza sul retro, egli credeva in se stesso. Se consultaste la vostra esperienza d'affari invece della vostra brutta [[philosophy|filosofia]] individualistica, sapreste che il credere in se stessi è uno dei segni più comuni di una canaglia. Gli attori che non sanno recitare credono in se stessi; e i debitori che non vogliono pagare. Sarebbe molto più vero dire che un uomo certamente fallirà, perché crede in se stesso. La completa fiducia nel [[Self|proprio io]] non è soltanto un peccato; la completa fiducia nel [[Self|proprio io]] è una debolezza. Credere assolutamente nel proprio [[Self|io]] è una credenza isterica e superstiziosa, come credere in Joanna Southcote: chi la nutre ha 'Hanwell' scritto in faccia altrettanto chiaramente di quanto lo sia su quell'omnibus». E a tutto questo il mio amico editore fece questa replica profonda ed efficace: «Ebbene, se un uomo non deve credere in se stesso, in che cosa deve credere?». Dopo una lunga pausa risposi: «Andrò a casa e scriverò un libro in risposta a questa domanda». Questo è il libro che ho scritto in risposta a essa.
+Le persone assolutamente mondane non comprendono mai neppure il mondo; si affidano interamente a poche massime ciniche che non sono vere. Ricordo che una volta passeggiavo con un prospero editore, il quale fece un'osservazione che avevo già udito spesso; è, in verità, quasi un motto del mondo moderno. Eppure l'avevo udita una volta di troppo, e vidi d'un tratto che non conteneva nulla. L'editore disse di un tale: «Quell'uomo farà strada; crede in se stesso». E ricordo che, mentre alzavo il capo per ascoltare, il mio occhio colse un omnibus sul quale era scritto «Hanwell». Gli dissi: «Volete che vi dica dove si trovano gli uomini che più credono in se stessi? Perché posso dirvelo. Conosco uomini che credono in se stessi più colossalmente di Napoleone o di Cesare. So dove fiammeggia la stella fissa della certezza e del [[success|successo]]. Posso guidarvi ai troni dei Superuomini. Gli uomini che davvero credono in se stessi sono tutti nei manicomi». Egli rispose blandamente che, dopotutto, vi erano parecchi uomini che credevano in se stessi e che non erano in manicomio. «Sì, ce ne sono», ribattei, «e voi fra tutti dovreste conoscerli. Quel poeta ubriaco dal quale non voleste prendere una tetra [[Tragedy|tragedia]], egli credeva in se stesso. Quell'anziano ministro con un [[Epic|poema epico]] dal quale vi nascondevate in una stanza sul retro, egli credeva in se stesso. Se consultaste la vostra esperienza d'affari invece della vostra brutta [[philosophy|filosofia]] individualistica, sapreste che il credere in se stessi è uno dei segni più comuni di una canaglia. Gli attori che non sanno recitare credono in se stessi; e i debitori che non vogliono pagare. Sarebbe molto più vero dire che un uomo certamente fallirà, perché crede in se stesso. La completa fiducia nel [[Self|proprio io]] non è soltanto un peccato; la completa fiducia nel [[Self|proprio io]] è una debolezza. Credere assolutamente nel proprio [[Self|io]] è una credenza isterica e superstiziosa, come credere in Joanna Southcote: chi la nutre ha 'Hanwell' scritto in faccia altrettanto chiaramente di quanto lo sia su quell'omnibus». E a tutto questo il mio amico editore fece questa replica profonda ed efficace: «Ebbene, se un uomo non deve credere in se stesso, in che cosa deve credere?». Dopo una lunga pausa risposi: «Andrò a casa e scriverò un libro in risposta a questa domanda». Questo è il libro che ho scritto in risposta a essa.
 
-     Ma penso che questo libro possa ben cominciare là dove è cominciato il nostro ragionamento: nei pressi del manicomio. I moderni maestri della scienza sono molto impressionati dalla necessità di iniziare ogni indagine con un fatto. Gli antichi maestri della religione ne erano impressionati esattamente allo stesso modo. Essi cominciavano con il fatto del peccato, un fatto pratico come le patate. Che l'uomo potesse o no essere lavato in acque miracolose, non v'era comunque alcun dubbio che avesse bisogno di lavarsi. Ma certi capi religiosi di Londra, non semplici materialisti, hanno cominciato ai nostri giorni non a negare l'acqua assai contestabile, bensì a negare l'incontestabile sporcizia. Certi nuovi teologi contestano il peccato originale, che è l'unica parte della teologia cristiana che possa davvero essere dimostrata. Alcuni seguaci del reverendo R. J. Campbell, nella loro spiritualità fin troppo schizzinosa, ammettono la divina assenza di peccato, che non riescono a vedere nemmeno nei loro sogni. Ma essi negano essenzialmente il peccato umano, che possono vedere per strada. I santi più forti e gli scettici più forti presero entrambi il male positivo come punto di partenza del loro ragionamento. Se è vero (come certamente lo è) che un uomo può provare una felicità squisita nello scorticare un gatto, allora il filosofo religioso può trarre soltanto una di due deduzioni. Deve o negare l'esistenza di Dio, come fanno tutti gli atei; oppure negare l'attuale unione fra Dio e l'uomo, come fanno tutti i cristiani. I nuovi teologi sembrano ritenere una soluzione altamente razionalistica il negare il gatto.
+Ma penso che questo libro possa ben cominciare là dove è cominciato il nostro ragionamento: nei pressi del manicomio. I moderni maestri della scienza sono molto impressionati dalla necessità di iniziare ogni indagine con un fatto. Gli antichi maestri della religione ne erano impressionati esattamente allo stesso modo. Essi cominciavano con il fatto del peccato, un fatto pratico come le patate. Che l'uomo potesse o no essere lavato in acque miracolose, non v'era comunque alcun dubbio che avesse bisogno di lavarsi. Ma certi capi religiosi di Londra, non semplici materialisti, hanno cominciato ai nostri giorni non a negare l'acqua assai contestabile, bensì a negare l'incontestabile sporcizia. Certi nuovi teologi contestano il peccato originale, che è l'unica parte della teologia cristiana che possa davvero essere dimostrata. Alcuni seguaci del reverendo R. J. Campbell, nella loro spiritualità fin troppo schizzinosa, ammettono la divina assenza di peccato, che non riescono a vedere nemmeno nei loro sogni. Ma essi negano essenzialmente il peccato umano, che possono vedere per strada. I santi più forti e gli scettici più forti presero entrambi il male positivo come punto di partenza del loro ragionamento. Se è vero (come certamente lo è) che un uomo può provare una felicità squisita nello scorticare un gatto, allora il filosofo religioso può trarre soltanto una di due deduzioni. Deve o negare l'esistenza di Dio, come fanno tutti gli atei; oppure negare l'attuale unione fra Dio e l'uomo, come fanno tutti i cristiani. I nuovi teologi sembrano ritenere una soluzione altamente razionalistica il negare il gatto.
 
-     In questa notevole situazione non è evidentemente più possibile ora (con qualche speranza di un appello universale) cominciare, come facevano i nostri padri, con il fatto del peccato. Proprio questo fatto, che per loro era (e per me è) chiaro come il sole, è proprio il fatto che è stato particolarmente diluito o negato. Ma per quanto i moderni neghino l'esistenza del peccato, non credo che abbiano ancora negato l'esistenza del manicomio. Siamo tutti ancora d'accordo che esiste un crollo dell'intelletto tanto inconfondibile quanto il crollo di una casa. Gli uomini negano l'inferno, ma non ancora Hanwell. Ai fini del nostro ragionamento primario l'uno può benissimo stare là dove stava l'altro. Voglio dire che, come un tempo tutti i pensieri e le teorie venivano giudicati a seconda che tendessero a far perdere all'uomo la sua anima, così ai nostri fini presenti tutti i pensieri e le teorie moderne possono essere giudicati a seconda che tendano a far perdere all'uomo il senno.
+In questa notevole situazione non è evidentemente più possibile ora (con qualche speranza di un appello universale) cominciare, come facevano i nostri padri, con il fatto del peccato. Proprio questo fatto, che per loro era (e per me è) chiaro come il sole, è proprio il fatto che è stato particolarmente diluito o negato. Ma per quanto i moderni neghino l'esistenza del peccato, non credo che abbiano ancora negato l'esistenza del manicomio. Siamo tutti ancora d'accordo che esiste un crollo dell'intelletto tanto inconfondibile quanto il crollo di una casa. Gli uomini negano l'inferno, ma non ancora Hanwell. Ai fini del nostro ragionamento primario l'uno può benissimo stare là dove stava l'altro. Voglio dire che, come un tempo tutti i pensieri e le teorie venivano giudicati a seconda che tendessero a far perdere all'uomo la sua anima, così ai nostri fini presenti tutti i pensieri e le teorie moderne possono essere giudicati a seconda che tendano a far perdere all'uomo il senno.
 
-     È vero che alcuni parlano con leggerezza e con vaghezza della follia come di cosa in sé attraente. Ma un momento di riflessione mostrerà che, se la malattia è bella, in genere è la malattia di qualcun altro. Un cieco può essere pittoresco; ma per vedere il quadro occorrono due occhi. E similmente perfino la più sfrenata poesia della follia può essere goduta soltanto dai sani. Per il folle la sua follia è del tutto prosaica, perché è del tutto vera. Un uomo che si crede un pollo è per se stesso ordinario quanto un pollo. Un uomo che si crede un pezzo di vetro è per se stesso insulso quanto un pezzo di vetro. È l'omogeneità della sua mente che lo rende insulso, e che lo rende folle. È soltanto perché noi vediamo l'ironia della sua idea che lo troviamo persino divertente; è soltanto perché egli non vede l'ironia della sua idea che viene messo a Hanwell. In breve, le stranezze colpiscono soltanto le persone ordinarie. Le stranezze non colpiscono le persone strane. Ecco perché le persone ordinarie hanno una vita molto più eccitante; mentre le persone strane si lamentano sempre della monotonia della vita. Ecco anche perché i romanzi nuovi muoiono così presto, e perché le vecchie fiabe durano in eterno. La vecchia fiaba fa dell'eroe un normale ragazzo umano; sono le sue avventure a essere sorprendenti; lo sorprendono perché egli è normale. Ma nel moderno romanzo psicologico l'eroe è anormale; il centro non è centrale. Di conseguenza le avventure più feroci non riescono a colpirlo adeguatamente, e il libro è monotono. Si può ricavare una storia da un eroe fra i draghi; ma non da un drago fra i draghi. La fiaba discute ciò che un uomo sano farà in un mondo folle. Il sobrio romanzo realistico d'oggi discute ciò che un pazzo essenziale farà in un mondo insulso.
+È vero che alcuni parlano con leggerezza e con vaghezza della follia come di cosa in sé attraente. Ma un momento di riflessione mostrerà che, se la malattia è bella, in genere è la malattia di qualcun altro. Un cieco può essere pittoresco; ma per vedere il quadro occorrono due occhi. E similmente perfino la più sfrenata poesia della follia può essere goduta soltanto dai sani. Per il folle la sua follia è del tutto prosaica, perché è del tutto vera. Un uomo che si crede un pollo è per se stesso ordinario quanto un pollo. Un uomo che si crede un pezzo di vetro è per se stesso insulso quanto un pezzo di vetro. È l'omogeneità della sua mente che lo rende insulso, e che lo rende folle. È soltanto perché noi vediamo l'ironia della sua idea che lo troviamo persino divertente; è soltanto perché egli non vede l'ironia della sua idea che viene messo a Hanwell. In breve, le stranezze colpiscono soltanto le persone ordinarie. Le stranezze non colpiscono le persone strane. Ecco perché le persone ordinarie hanno una vita molto più eccitante; mentre le persone strane si lamentano sempre della monotonia della vita. Ecco anche perché i romanzi nuovi muoiono così presto, e perché le vecchie fiabe durano in eterno. La vecchia fiaba fa dell'eroe un normale ragazzo umano; sono le sue avventure a essere sorprendenti; lo sorprendono perché egli è normale. Ma nel moderno romanzo psicologico l'eroe è anormale; il centro non è centrale. Di conseguenza le avventure più feroci non riescono a colpirlo adeguatamente, e il libro è monotono. Si può ricavare una storia da un eroe fra i draghi; ma non da un drago fra i draghi. La fiaba discute ciò che un uomo sano farà in un mondo folle. Il sobrio romanzo realistico d'oggi discute ciò che un pazzo essenziale farà in un mondo insulso.
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_02" data-title="Orthodoxy — Ii The Maniac (part 2)" data-chapter="Story 04 Ii The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_02" data-title="Orthodoxy — II The Maniac (part 2)" data-chapter="II The Maniac" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ii The Maniac (part 2)
 
-     Let us begin, then, with the mad-house; from this evil and
+Let us begin, then, with the mad-house; from this evil and
 fantastic inn let us set forth on our intellectual journey.
 Now, if we are to glance at the philosophy of sanity, the first
 thing to do in the matter is to blot out one big and common mistake. 
@@ -6432,7 +6427,7 @@ exaltation and expansion, a world to stretch himself in.  The poet
 only asks to get his head into the heavens.  It is the logician who
 seeks to get the heavens into his head.  And it is his head that splits.
 
-     It is a small matter, but not irrelevant, that this
+It is a small matter, but not irrelevant, that this
 striking mistake is commonly supported by a striking misquotation.
 We have all heard people cite the celebrated line of Dryden as
 "Great genius is to madness near allied."  But Dryden did not say
@@ -6452,7 +6447,7 @@ the mind to reckon up the mind.  A flippant person has asked
 why we say, "As mad as a hatter."  A more flippant person might
 answer that a hatter is mad because he has to measure the human head.
 
-     And if great reasoners are often maniacal, it is equally
+And if great reasoners are often maniacal, it is equally
 true that maniacs are commonly great reasoners.  When I was
 engaged in a controversy with the CLARION on the matter of free will,
 that able writer Mr. R.B.Suthers said that free will was lunacy,
@@ -6498,17 +6493,16 @@ The madman is the man who has lost everything except his reason.
 
 Cominciamo dunque dal manicomio; da questa locanda malvagia e fantastica muoviamo per il nostro viaggio intellettuale. Ora, se dobbiamo gettare uno sguardo alla filosofia della sanità mentale, la prima cosa da fare in proposito è cancellare un grande e comune errore. C'è dovunque, alla deriva, l'idea che l'immaginazione, e specialmente l'immaginazione mistica, sia pericolosa per l'equilibrio mentale dell'uomo. Dei poeti si parla comunemente come di persone psicologicamente inaffidabili; e in genere c'è una vaga associazione tra l'intrecciare allori nei capelli e il ficcarvi pagliuzze. I fatti e la storia contraddicono assolutamente questa opinione. La maggior parte dei grandissimi poeti è stata non solo sana, ma estremamente concreta negli affari; e se Shakespeare tenne davvero le briglie dei cavalli, fu perché era di gran lunga l'uomo più affidabile a cui affidarle. L'immaginazione non genera follia. Ciò che invece genera follia è precisamente la ragione. I poeti non impazziscono; ma i giocatori di scacchi sì. I matematici impazziscono, e i cassieri; ma gli artisti creativi assai di rado. Non sto affatto, come si vedrà, attaccando la logica: dico soltanto che questo pericolo risiede nella logica, non nell'immaginazione. La paternità artistica è sana quanto la paternità fisica. Inoltre, è degno di nota che, quando un poeta fu davvero morboso, ciò accadde comunemente perché aveva nel cervello qualche punto debole di razionalità. Poe, per esempio, fu davvero morboso; non perché fosse poetico, ma perché era particolarmente analitico. Perfino gli scacchi erano troppo poetici per lui; detestava gli scacchi perché erano pieni di cavalieri e di torri, come un poema. Preferiva dichiaratamente i dischi neri della dama, perché somigliavano di più ai meri puntini neri su un diagramma. Forse il caso più forte di tutti è questo: che un solo grande poeta inglese impazzì, Cowper. Ed egli fu decisamente reso folle dalla logica, dalla brutta ed estranea logica della predestinazione. La poesia non era la malattia, ma la medicina; la poesia in parte lo mantenne sano. Talvolta riusciva a dimenticare il rosso e assetato inferno verso cui lo trascinava il suo orribile necessitarismo, fra le ampie acque e i bianchi e piatti gigli dell'Ouse. Fu dannato da Giovanni Calvino; fu quasi salvato da John Gilpin. Dovunque vediamo che gli uomini non impazziscono sognando. I critici sono molto più folli dei poeti. Omero è abbastanza completo e sereno; sono i suoi critici a farlo a stravaganti brandelli. Shakespeare è pienamente se stesso; sono soltanto alcuni dei suoi critici ad aver scoperto che era qualcun altro. E benché san Giovanni Evangelista vedesse molti strani mostri nella sua visione, non vide alcuna creatura tanto selvaggia quanto uno dei suoi stessi commentatori. Il fatto generale è semplice. La poesia è sana perché galleggia agevolmente in un mare infinito; la ragione cerca di attraversare il mare infinito, e così di renderlo finito. Il risultato è l'esaurimento mentale, come l'esaurimento fisico del signor Holbein. Accettare ogni cosa è un esercizio, comprendere ogni cosa uno sforzo. Il poeta desidera soltanto esaltazione ed espansione, un mondo in cui distendersi. Il poeta chiede soltanto di ficcare il capo nei cieli. È il logico che cerca di ficcarsi i cieli nel capo. Ed è il suo capo che si spacca.
 
-     È cosa da poco, ma non irrilevante, che questo clamoroso errore sia comunemente sostenuto da una clamorosa citazione errata. Abbiamo tutti udito qualcuno citare il celebre verso di Dryden come «Il grande genio è affine alla follia». Ma Dryden non disse che il grande genio era affine alla follia. Dryden era egli stesso un grande genio, e sapeva meglio. Sarebbe stato difficile trovare un uomo più romantico di lui, o più assennato. Ciò che Dryden disse fu questo: «Gli spiriti acuti sono spesso affini alla follia»; e questo è vero. È la pura prontezza dell'intelletto a essere in pericolo di un crollo. Inoltre la gente farebbe bene a ricordare di quale sorta d'uomo Dryden stesse parlando. Non stava parlando di un visionario ultraterreno come Vaughan o George Herbert. Stava parlando di un cinico uomo di mondo, uno scettico, un diplomatico, un grande politico pratico. Simili uomini sono davvero affini alla follia. Il loro incessante calcolo del proprio cervello e del cervello altrui è un mestiere pericoloso. È sempre rischioso per la mente fare i conti con la mente. Una persona frivola ha chiesto perché diciamo «Matto come un cappellaio». Una persona ancor più frivola potrebbe rispondere che un cappellaio è matto perché deve misurare la testa umana.
+È cosa da poco, ma non irrilevante, che questo clamoroso errore sia comunemente sostenuto da una clamorosa citazione errata. Abbiamo tutti udito qualcuno citare il celebre verso di Dryden come «Il grande genio è affine alla follia». Ma Dryden non disse che il grande genio era affine alla follia. Dryden era egli stesso un grande genio, e sapeva meglio. Sarebbe stato difficile trovare un uomo più romantico di lui, o più assennato. Ciò che Dryden disse fu questo: «Gli spiriti acuti sono spesso affini alla follia»; e questo è vero. È la pura prontezza dell'intelletto a essere in pericolo di un crollo. Inoltre la gente farebbe bene a ricordare di quale sorta d'uomo Dryden stesse parlando. Non stava parlando di un visionario ultraterreno come Vaughan o George Herbert. Stava parlando di un cinico uomo di mondo, uno scettico, un diplomatico, un grande politico pratico. Simili uomini sono davvero affini alla follia. Il loro incessante calcolo del proprio cervello e del cervello altrui è un mestiere pericoloso. È sempre rischioso per la mente fare i conti con la mente. Una persona frivola ha chiesto perché diciamo «Matto come un cappellaio». Una persona ancor più frivola potrebbe rispondere che un cappellaio è matto perché deve misurare la testa umana.
 
-     E se i grandi ragionatori sono spesso maniaci, è altrettanto vero che i maniaci sono comunemente grandi ragionatori. Quando ero impegnato in una controversia con il CLARION intorno alla questione del libero arbitrio, quell'abile scrittore che è il signor R. B. Suthers disse che il libero arbitrio era follia, perché significava azioni senza causa, e le azioni di un folle sarebbero senza causa. Non mi soffermo qui sul disastroso passo falso della logica determinista. È ovvio che, se qualche azione, anche quella di un folle, può essere senza causa, il determinismo è finito. Se la catena della causalità può essere spezzata per un pazzo, può essere spezzata per un uomo. Ma il mio scopo è indicare qualcosa di più pratico. Era naturale, forse, che un moderno socialista marxista non sapesse nulla del libero arbitrio. Ma era certamente notevole che un moderno socialista marxista non sapesse nulla dei folli. Il signor Suthers evidentemente non sapeva nulla dei folli. L'ultima cosa che si può dire di un folle è che le sue azioni sono senza causa. Se alcuni atti umani possono vagamente dirsi senza causa, sono i piccoli atti di un uomo sano; il fischiettare mentre cammina; il falciare l'erba con un bastone; lo sbattere i talloni o lo stropicciarsi le mani. È l'uomo felice a fare le cose inutili; l'uomo malato non è abbastanza forte per starsene ozioso. Sono proprio azioni sbadate e senza causa come queste che il folle non potrebbe mai comprendere; poiché il folle (come il determinista) in genere vede troppa causa in ogni cosa. Il folle leggerebbe un significato cospiratorio in quelle attività vuote. Penserebbe che il falciare l'erba fosse un attacco alla proprietà privata. Penserebbe che lo sbattere i talloni fosse un segnale a un complice. Se il folle potesse per un istante diventare sbadato, diventerebbe sano di mente. Chiunque abbia avuto la sventura di parlare con persone nel cuore o al margine del disturbo mentale sa che la loro qualità più sinistra è un'orribile chiarezza di dettagli; un collegare una cosa con l'altra in una mappa più elaborata di un labirinto. Se discuti con un folle, è estremamente probabile che tu abbia la peggio; poiché in molti modi la sua mente si muove tanto più rapida per non essere trattenuta dalle cose che accompagnano il buon giudizio. Egli non è ostacolato dal senso dell'umorismo né dalla carità, né dalle mute certezze dell'esperienza. È tanto più logico per aver perduto certi sani affetti. In verità la frase comune con cui si designa la follia è, sotto questo aspetto, fuorviante. Il folle non è l'uomo che ha perduto la ragione. Il folle è l'uomo che ha perduto tutto tranne la ragione.
+E se i grandi ragionatori sono spesso maniaci, è altrettanto vero che i maniaci sono comunemente grandi ragionatori. Quando ero impegnato in una controversia con il CLARION intorno alla questione del libero arbitrio, quell'abile scrittore che è il signor R. B. Suthers disse che il libero arbitrio era follia, perché significava azioni senza causa, e le azioni di un folle sarebbero senza causa. Non mi soffermo qui sul disastroso passo falso della logica determinista. È ovvio che, se qualche azione, anche quella di un folle, può essere senza causa, il determinismo è finito. Se la catena della causalità può essere spezzata per un pazzo, può essere spezzata per un uomo. Ma il mio scopo è indicare qualcosa di più pratico. Era naturale, forse, che un moderno socialista marxista non sapesse nulla del libero arbitrio. Ma era certamente notevole che un moderno socialista marxista non sapesse nulla dei folli. Il signor Suthers evidentemente non sapeva nulla dei folli. L'ultima cosa che si può dire di un folle è che le sue azioni sono senza causa. Se alcuni atti umani possono vagamente dirsi senza causa, sono i piccoli atti di un uomo sano; il fischiettare mentre cammina; il falciare l'erba con un bastone; lo sbattere i talloni o lo stropicciarsi le mani. È l'uomo felice a fare le cose inutili; l'uomo malato non è abbastanza forte per starsene ozioso. Sono proprio azioni sbadate e senza causa come queste che il folle non potrebbe mai comprendere; poiché il folle (come il determinista) in genere vede troppa causa in ogni cosa. Il folle leggerebbe un significato cospiratorio in quelle attività vuote. Penserebbe che il falciare l'erba fosse un attacco alla proprietà privata. Penserebbe che lo sbattere i talloni fosse un segnale a un complice. Se il folle potesse per un istante diventare sbadato, diventerebbe sano di mente. Chiunque abbia avuto la sventura di parlare con persone nel cuore o al margine del disturbo mentale sa che la loro qualità più sinistra è un'orribile chiarezza di dettagli; un collegare una cosa con l'altra in una mappa più elaborata di un labirinto. Se discuti con un folle, è estremamente probabile che tu abbia la peggio; poiché in molti modi la sua mente si muove tanto più rapida per non essere trattenuta dalle cose che accompagnano il buon giudizio. Egli non è ostacolato dal senso dell'umorismo né dalla carità, né dalle mute certezze dell'esperienza. È tanto più logico per aver perduto certi sani affetti. In verità la frase comune con cui si designa la follia è, sotto questo aspetto, fuorviante. Il folle non è l'uomo che ha perduto la ragione. Il folle è l'uomo che ha perduto tutto tranne la ragione.
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_03" data-title="Orthodoxy — Ii The Maniac (part 3)" data-chapter="Story 04 Ii The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_03" data-title="Orthodoxy — II The Maniac (part 3)" data-chapter="II The Maniac" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ii The Maniac (part 3)
 
-     The madman's explanation of a thing is always complete,
+The madman's explanation of a thing is always complete,
 and often in a purely rational sense satisfactory.  Or, to speak
 more strictly, the insane explanation, if not conclusive,
 is at least unanswerable; this may be observed specially in the
@@ -6524,7 +6518,7 @@ authorities to do.  Or if a man says that he is Jesus Christ,
 it is no answer to tell him that the world denies his divinity;
 for the world denied Christ's.
 
-     Nevertheless he is wrong.  But if we attempt to trace his error
+Nevertheless he is wrong.  But if we attempt to trace his error
 in exact terms, we shall not find it quite so easy as we had supposed. 
 Perhaps the nearest we can get to expressing it is to say this: 
 that his mind moves in a perfect but narrow circle.  A small circle
@@ -6583,7 +6577,7 @@ more of you there would be, if the hammer of a higher God could smash
 your small cosmos, scattering the stars like spangles, and leave you
 in the open, free like other men to look up as well as down!"
 
-     And it must be remembered that the most purely practical
+And it must be remembered that the most purely practical
 science does take this view of mental evil; it does not seek to
 argue with it like a heresy but simply to snap it like a spell. 
 Neither modern science nor ancient religion believes in complete
@@ -6624,17 +6618,16 @@ rather than with your whole intellect to be cast into hell
 
 La spiegazione che il folle dà di una cosa è sempre completa, e spesso, in senso puramente razionale, soddisfacente. O, per dirla più esattamente, la spiegazione folle, se non conclusiva, è quanto meno inconfutabile; ciò può osservarsi specialmente nelle due o tre specie più comuni di follia. Se un uomo dice (per esempio) che gli uomini hanno ordito una cospirazione contro di lui, non potete contestarlo se non dicendo che tutti gli uomini negano di essere cospiratori; il che è esattamente ciò che farebbero i cospiratori. La sua spiegazione copre i fatti quanto la vostra. Oppure, se un uomo dice di essere il legittimo re d'Inghilterra, non è una risposta completa il dire che le autorità esistenti lo chiamano folle; poiché, se egli fosse re d'Inghilterra, quella potrebbe essere la cosa più saggia che le autorità esistenti potessero fare. Oppure, se un uomo dice di essere Gesù Cristo, non è una risposta il dirgli che il mondo nega la sua divinità; poiché il mondo negò quella di Cristo.
 
-     Ciononostante egli ha torto. Ma se tentiamo di rintracciare il suo errore in termini esatti, non lo troveremo così facile come avevamo supposto. Forse la cosa più vicina a cui possiamo giungere per esprimerlo è dire questo: che la sua mente si muove in un cerchio perfetto ma angusto. Un piccolo cerchio è tanto infinito quanto un grande cerchio; ma, per quanto sia altrettanto infinito, non è altrettanto grande. Allo stesso modo la spiegazione folle è tanto completa quanto quella sana, ma non è altrettanto grande. Una pallottola è tonda quanto il mondo, ma non è il mondo. Esiste una cosa come una angusta universalità; esiste una cosa come una piccola e ristretta eternità; la potete vedere in molte religioni moderne. Ora, parlando in modo del tutto esteriore ed empirico, possiamo dire che il segno più forte e più inconfondibile della follia è questa combinazione tra una completezza logica e una contrazione spirituale. La teoria del folle spiega un gran numero di cose, ma non le spiega in modo grande. Voglio dire che, se voi o io avessimo a che fare con una mente che sta diventando morbosa, ci preoccuperemmo soprattutto non tanto di darle argomenti quanto di darle aria, di convincerla che vi era qualcosa di più pulito e di più fresco fuori dal soffocamento di un unico argomento. Supponiamo, per esempio, che si tratti del primo caso che ho preso come tipico; supponiamo che sia il caso di un uomo che accusava tutti di cospirare contro di lui. Se potessimo esprimere i nostri più profondi sentimenti di protesta e di appello contro questa ossessione, suppongo che diremmo qualcosa di simile: «Oh, ammetto che avete le vostre ragioni e le sapete a memoria, e che molte cose si incastrano l'una nell'altra come dite. Ammetto che la vostra spiegazione spiega moltissimo; ma quante cose lascia fuori! Non ci sono altre storie al mondo oltre alla vostra; e sono forse tutti gli uomini indaffarati con i vostri affari? Ammettiamo pure i dettagli; forse quando l'uomo per la strada non pareva vedervi era solo la sua astuzia; forse quando il poliziotto vi chiese il nome era solo perché lo conosceva già. Ma quanto più felici sareste se soltanto sapeste che a questa gente di voi non importa nulla! Quanto più grande sarebbe la vostra vita se il vostro io potesse rimpicciolirsi in essa; se poteste davvero guardare gli altri uomini con comune curiosità e piacere; se poteste vederli camminare come sono, nel loro soleggiato egoismo e nella loro virile indifferenza! Cominciereste a interessarvi a loro, perché essi non si interessano a voi. Uscireste da questo minuscolo e pacchiano teatro in cui il vostro piccolo intreccio viene sempre recitato, e vi ritrovereste sotto un cielo più libero, in una via piena di splendidi sconosciuti». Oppure, supponendo che si tratti del secondo caso di follia, quello di un uomo che rivendica la corona, il vostro impulso sarebbe di rispondere: «Va bene! Forse voi sapete di essere il re d'Inghilterra; ma perché vi importa? Fate un solo magnifico sforzo e sarete un essere umano e guarderete dall'alto tutti i re della terra». Oppure potrebbe essere il terzo caso, quello del folle che si diceva Cristo. Se dicessimo ciò che sentiamo, diremmo: «Dunque voi siete il Creatore e il Redentore del mondo: ma che piccolo mondo dev'essere! Che minuscolo cielo dovete abitare, con angeli non più grandi di farfalle! Com'è triste dover essere Dio; e un Dio inadeguato! Non c'è davvero una vita più piena e un amore più meraviglioso del vostro; ed è davvero nella vostra piccola e dolorosa pietà che ogni carne deve riporre la sua fede? Quanto più felici sareste, quanto più di voi ci sarebbe, se il martello di un Dio più alto potesse frantumare il vostro piccolo cosmo, spargendo le stelle come lustrini, e lasciarvi all'aperto, liberi come gli altri uomini di guardare in su non meno che in giù!».
+Ciononostante egli ha torto. Ma se tentiamo di rintracciare il suo errore in termini esatti, non lo troveremo così facile come avevamo supposto. Forse la cosa più vicina a cui possiamo giungere per esprimerlo è dire questo: che la sua mente si muove in un cerchio perfetto ma angusto. Un piccolo cerchio è tanto infinito quanto un grande cerchio; ma, per quanto sia altrettanto infinito, non è altrettanto grande. Allo stesso modo la spiegazione folle è tanto completa quanto quella sana, ma non è altrettanto grande. Una pallottola è tonda quanto il mondo, ma non è il mondo. Esiste una cosa come una angusta universalità; esiste una cosa come una piccola e ristretta eternità; la potete vedere in molte religioni moderne. Ora, parlando in modo del tutto esteriore ed empirico, possiamo dire che il segno più forte e più inconfondibile della follia è questa combinazione tra una completezza logica e una contrazione spirituale. La teoria del folle spiega un gran numero di cose, ma non le spiega in modo grande. Voglio dire che, se voi o io avessimo a che fare con una mente che sta diventando morbosa, ci preoccuperemmo soprattutto non tanto di darle argomenti quanto di darle aria, di convincerla che vi era qualcosa di più pulito e di più fresco fuori dal soffocamento di un unico argomento. Supponiamo, per esempio, che si tratti del primo caso che ho preso come tipico; supponiamo che sia il caso di un uomo che accusava tutti di cospirare contro di lui. Se potessimo esprimere i nostri più profondi sentimenti di protesta e di appello contro questa ossessione, suppongo che diremmo qualcosa di simile: «Oh, ammetto che avete le vostre ragioni e le sapete a memoria, e che molte cose si incastrano l'una nell'altra come dite. Ammetto che la vostra spiegazione spiega moltissimo; ma quante cose lascia fuori! Non ci sono altre storie al mondo oltre alla vostra; e sono forse tutti gli uomini indaffarati con i vostri affari? Ammettiamo pure i dettagli; forse quando l'uomo per la strada non pareva vedervi era solo la sua astuzia; forse quando il poliziotto vi chiese il nome era solo perché lo conosceva già. Ma quanto più felici sareste se soltanto sapeste che a questa gente di voi non importa nulla! Quanto più grande sarebbe la vostra vita se il vostro io potesse rimpicciolirsi in essa; se poteste davvero guardare gli altri uomini con comune curiosità e piacere; se poteste vederli camminare come sono, nel loro soleggiato egoismo e nella loro virile indifferenza! Cominciereste a interessarvi a loro, perché essi non si interessano a voi. Uscireste da questo minuscolo e pacchiano teatro in cui il vostro piccolo intreccio viene sempre recitato, e vi ritrovereste sotto un cielo più libero, in una via piena di splendidi sconosciuti». Oppure, supponendo che si tratti del secondo caso di follia, quello di un uomo che rivendica la corona, il vostro impulso sarebbe di rispondere: «Va bene! Forse voi sapete di essere il re d'Inghilterra; ma perché vi importa? Fate un solo magnifico sforzo e sarete un essere umano e guarderete dall'alto tutti i re della terra». Oppure potrebbe essere il terzo caso, quello del folle che si diceva Cristo. Se dicessimo ciò che sentiamo, diremmo: «Dunque voi siete il Creatore e il Redentore del mondo: ma che piccolo mondo dev'essere! Che minuscolo cielo dovete abitare, con angeli non più grandi di farfalle! Com'è triste dover essere Dio; e un Dio inadeguato! Non c'è davvero una vita più piena e un amore più meraviglioso del vostro; ed è davvero nella vostra piccola e dolorosa pietà che ogni carne deve riporre la sua fede? Quanto più felici sareste, quanto più di voi ci sarebbe, se il martello di un Dio più alto potesse frantumare il vostro piccolo cosmo, spargendo le stelle come lustrini, e lasciarvi all'aperto, liberi come gli altri uomini di guardare in su non meno che in giù!».
 
-     E bisogna ricordare che la scienza più puramente pratica prende davvero questa posizione di fronte al male mentale; non cerca di discutere con esso come con un'eresia, ma semplicemente di spezzarlo come un incantesimo. Né la scienza moderna né l'antica religione credono nel pensiero completamente libero. La teologia rimprovera certi pensieri chiamandoli blasfemi. La scienza rimprovera certi pensieri chiamandoli morbosi. Per esempio, alcune società religiose scoraggiavano più o meno gli uomini dal pensare al sesso. La nuova società scientifica scoraggia decisamente gli uomini dal pensare alla morte; è un fatto, ma è considerato un fatto morboso. E nel trattare coloro la cui morbosità ha un tocco di mania, la scienza moderna si cura assai meno della pura logica di quanto se ne curi un derviscio danzante. In questi casi non basta che l'uomo infelice desideri la verità; egli deve desiderare la salute. Nulla può salvarlo se non una cieca fame di normalità, come quella di una bestia. Un uomo non può liberarsi dal male mentale col pensiero; poiché è proprio l'organo del pensiero a essersi ammalato, a essere diventato ingovernabile e, per così dire, indipendente. Egli può essere salvato soltanto dalla volontà o dalla fede. Nel momento in cui la sua mera ragione si muove, si muove nel vecchio solco circolare; egli girerà e rigirerà lungo il suo cerchio logico, proprio come un uomo in una carrozza di terza classe sull'Inner Circle girerà e rigirerà lungo l'Inner Circle, a meno che non compia l'atto volontario, vigoroso e mistico di scendere a Gower Street. La decisione è qui l'unica faccenda che conti; una porta deve essere chiusa per sempre. Ogni rimedio è un rimedio disperato. Ogni cura è una cura miracolosa. Curare un folle non è discutere con un filosofo; è scacciare un demonio. E per quanto quietamente medici e psicologi possano procedere nella faccenda, il loro atteggiamento è profondamente intollerante: intollerante quanto Maria la Sanguinaria. Il loro atteggiamento è in realtà questo: che l'uomo deve smettere di pensare, se vuole continuare a vivere. Il loro consiglio è un consiglio di amputazione intellettuale. Se il tuo CAPO ti scandalizza, taglialo via; poiché è meglio entrare nel Regno dei Cieli non semplicemente come un bambino, ma come un imbecille, piuttosto che con tutto il tuo intelletto essere gettato all'inferno, o a Hanwell.
+E bisogna ricordare che la scienza più puramente pratica prende davvero questa posizione di fronte al male mentale; non cerca di discutere con esso come con un'eresia, ma semplicemente di spezzarlo come un incantesimo. Né la scienza moderna né l'antica religione credono nel pensiero completamente libero. La teologia rimprovera certi pensieri chiamandoli blasfemi. La scienza rimprovera certi pensieri chiamandoli morbosi. Per esempio, alcune società religiose scoraggiavano più o meno gli uomini dal pensare al sesso. La nuova società scientifica scoraggia decisamente gli uomini dal pensare alla morte; è un fatto, ma è considerato un fatto morboso. E nel trattare coloro la cui morbosità ha un tocco di mania, la scienza moderna si cura assai meno della pura logica di quanto se ne curi un derviscio danzante. In questi casi non basta che l'uomo infelice desideri la verità; egli deve desiderare la salute. Nulla può salvarlo se non una cieca fame di normalità, come quella di una bestia. Un uomo non può liberarsi dal male mentale col pensiero; poiché è proprio l'organo del pensiero a essersi ammalato, a essere diventato ingovernabile e, per così dire, indipendente. Egli può essere salvato soltanto dalla volontà o dalla fede. Nel momento in cui la sua mera ragione si muove, si muove nel vecchio solco circolare; egli girerà e rigirerà lungo il suo cerchio logico, proprio come un uomo in una carrozza di terza classe sull'Inner Circle girerà e rigirerà lungo l'Inner Circle, a meno che non compia l'atto volontario, vigoroso e mistico di scendere a Gower Street. La decisione è qui l'unica faccenda che conti; una porta deve essere chiusa per sempre. Ogni rimedio è un rimedio disperato. Ogni cura è una cura miracolosa. Curare un folle non è discutere con un filosofo; è scacciare un demonio. E per quanto quietamente medici e psicologi possano procedere nella faccenda, il loro atteggiamento è profondamente intollerante: intollerante quanto Maria la Sanguinaria. Il loro atteggiamento è in realtà questo: che l'uomo deve smettere di pensare, se vuole continuare a vivere. Il loro consiglio è un consiglio di amputazione intellettuale. Se il tuo CAPO ti scandalizza, taglialo via; poiché è meglio entrare nel Regno dei Cieli non semplicemente come un bambino, ma come un imbecille, piuttosto che con tutto il tuo intelletto essere gettato all'inferno, o a Hanwell.
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_04" data-title="Orthodoxy — Ii The Maniac (part 4)" data-chapter="Story 04 Ii The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_04" data-title="Orthodoxy — II The Maniac (part 4)" data-chapter="II The Maniac" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ii The Maniac (part 4)
 
-     Such is the madman of experience; he is commonly a reasoner,
+Such is the madman of experience; he is commonly a reasoner,
 frequently a successful reasoner.  Doubtless he could be
 vanquished in mere reason, and the case against him put logically.
 But it can be put much more precisely in more general and even
@@ -6658,7 +6651,7 @@ and if the universe is paved with it, it is still white on black.
 Like the lunatic, they cannot alter their standpoint; they
 cannot make a mental effort and suddenly see it black on white.
 
-     Take first the more obvious case of materialism.  As an
+Take first the more obvious case of materialism.  As an
 explanation of the world, materialism has a sort of insane simplicity.
 It has just the quality of the madman's argument; we have at
 once the sense of it covering everything and the sense of it
@@ -6675,7 +6668,7 @@ or first love or fear upon the sea.  The earth is so very large,
 and the cosmos is so very small.  The cosmos is about the
 smallest hole that a man can hide his head in.
 
-     It must be understood that I am not now discussing the relation
+It must be understood that I am not now discussing the relation
 of these creeds to truth; but, for the present, solely their relation
 to health.  Later in the argument I hope to attack the question
 of objective verity; here I speak only of a phenomenon of psychology. 
@@ -6701,7 +6694,7 @@ and (according to Haeckel) the whole of life is something much
 more grey, narrow, and trivial than many separate aspects of it. 
 The parts seem greater than the whole.
 
-     For we must remember that the materialist philosophy
+For we must remember that the materialist philosophy
 (whether true or not) is certainly much more limiting than any religion. 
 In one sense, of course, all intelligent ideas are narrow. 
 They cannot be broader than themselves.  A Christian is only
@@ -6732,7 +6725,7 @@ just as the interesting person before mentioned is quite sure
 that he is simply and solely a chicken.  Materialists and madmen
 never have doubts.
 
-     Spiritual doctrines do not actually limit the mind as do
+Spiritual doctrines do not actually limit the mind as do
 materialistic denials.  Even if I believe in immortality I need not
 think about it.  But if I disbelieve in immortality I must not
 think about it.  In the first case the road is open and I can
@@ -6770,21 +6763,20 @@ for the mustard.
 
 Tale è il folle dell'esperienza; egli è comunemente un ragionatore, e spesso un ragionatore vittorioso. Senza dubbio potrebbe essere vinto sul terreno della pura ragione, e le argomentazioni contro di lui potrebbero essere esposte logicamente. Ma possono essere esposte molto più precisamente in termini più generali e persino estetici. Egli si trova nella prigione pulita e bene illuminata di un'unica idea: è affilato fino a un solo punto doloroso. È privo di sana esitazione e di sana complessità. Ora, come spiego nell'introduzione, ho deciso in questi primi capitoli di dare non tanto un diagramma di una dottrina quanto alcune immagini di un punto di vista. E ho descritto a lungo la mia visione del maniaco per questa ragione: che, proprio come sono colpito dal maniaco, così sono colpito dalla maggior parte dei pensatori moderni. Quell'inconfondibile umore o nota che odo da Hanwell, lo odo anche da metà delle cattedre della scienza e dei seggi del sapere di oggi; e la maggior parte dei medici pazzi sono medici pazzi in più di un senso. Tutti costoro hanno esattamente quella combinazione che abbiamo notato: la combinazione di una ragione espansiva ed esaustiva con un contratto buon senso. Sono universali soltanto nel senso che prendono una sola magra spiegazione e la spingono molto lontano. Ma un disegno può estendersi in eterno e restare pur sempre un piccolo disegno. Essi vedono una scacchiera bianca su fondo nero, e se l'universo ne è lastricato, è pur sempre bianco su nero. Come il folle, non possono mutare il loro punto di vista; non possono compiere uno sforzo mentale e vedere d'un tratto nero su bianco.
 
-     Prendiamo per primo il caso più ovvio del materialismo. Come spiegazione del mondo, il materialismo ha una sorta di folle semplicità. Ha proprio la qualità dell'argomentazione del folle; abbiamo insieme la sensazione che esso copra ogni cosa e la sensazione che lasci fuori ogni cosa. Contemplate qualche abile e sincero materialista, come per esempio il signor McCabe, e proverete esattamente questa singolare sensazione. Egli comprende ogni cosa, e ogni cosa non pare degna di essere compresa. Il suo cosmo può essere completo in ogni rivetto e ingranaggio, ma il suo cosmo è pur sempre più piccolo del nostro mondo. In qualche modo il suo schema, come il lucido schema del folle, sembra inconsapevole delle energie estranee e della grande indifferenza della terra; non pensa alle cose reali della terra, ai popoli in lotta o alle madri orgogliose, o al primo amore o alla paura sul mare. La terra è così grande, e il cosmo è così piccolo. Il cosmo è all'incirca il più piccolo buco in cui un uomo possa nascondere la testa.
+Prendiamo per primo il caso più ovvio del materialismo. Come spiegazione del mondo, il materialismo ha una sorta di folle semplicità. Ha proprio la qualità dell'argomentazione del folle; abbiamo insieme la sensazione che esso copra ogni cosa e la sensazione che lasci fuori ogni cosa. Contemplate qualche abile e sincero materialista, come per esempio il signor McCabe, e proverete esattamente questa singolare sensazione. Egli comprende ogni cosa, e ogni cosa non pare degna di essere compresa. Il suo cosmo può essere completo in ogni rivetto e ingranaggio, ma il suo cosmo è pur sempre più piccolo del nostro mondo. In qualche modo il suo schema, come il lucido schema del folle, sembra inconsapevole delle energie estranee e della grande indifferenza della terra; non pensa alle cose reali della terra, ai popoli in lotta o alle madri orgogliose, o al primo amore o alla paura sul mare. La terra è così grande, e il cosmo è così piccolo. Il cosmo è all'incirca il più piccolo buco in cui un uomo possa nascondere la testa.
 
-     Deve intendersi che non sto ora discutendo il rapporto di questi credi con la verità; ma, per il momento, soltanto il loro rapporto con la salute. Più avanti nel ragionamento spero di affrontare la questione della verità oggettiva; qui parlo soltanto di un fenomeno di psicologia. Non tento per il momento di dimostrare a Haeckel che il materialismo è falso, non più di quanto tentassi di dimostrare all'uomo che si credeva Cristo che egli fosse in errore. Osservo qui semplicemente il fatto che entrambi i casi hanno lo stesso genere di completezza e lo stesso genere di incompletezza. Potete spiegare la detenzione di un uomo a Hanwell da parte di un pubblico indifferente dicendo che si tratta della crocifissione di un dio del quale il mondo non è degno. La spiegazione spiega davvero. Similmente potete spiegare l'ordine dell'universo dicendo che tutte le cose, perfino le anime degli uomini, sono foglie che inevitabilmente si schiudono su un albero del tutto inconsapevole: il cieco destino della materia. La spiegazione spiega davvero, benché, s'intende, non tanto completamente quanto quella del folle. Ma il punto qui è che la normale mente umana non solo si oppone a entrambe, ma sente verso entrambe la medesima obiezione. La sua approssimativa formulazione è che, se l'uomo di Hanwell è il vero Dio, egli non è granché come dio. E, similmente, se il cosmo del materialista è il vero cosmo, esso non è granché come cosmo. La cosa si è rimpicciolita. La divinità è meno divina di molti uomini; e (secondo Haeckel) l'intera vita è qualcosa di molto più grigio, angusto e insignificante di molti suoi aspetti separati. Le parti sembrano più grandi del tutto.
+Deve intendersi che non sto ora discutendo il rapporto di questi credi con la verità; ma, per il momento, soltanto il loro rapporto con la salute. Più avanti nel ragionamento spero di affrontare la questione della verità oggettiva; qui parlo soltanto di un fenomeno di psicologia. Non tento per il momento di dimostrare a Haeckel che il materialismo è falso, non più di quanto tentassi di dimostrare all'uomo che si credeva Cristo che egli fosse in errore. Osservo qui semplicemente il fatto che entrambi i casi hanno lo stesso genere di completezza e lo stesso genere di incompletezza. Potete spiegare la detenzione di un uomo a Hanwell da parte di un pubblico indifferente dicendo che si tratta della crocifissione di un dio del quale il mondo non è degno. La spiegazione spiega davvero. Similmente potete spiegare l'ordine dell'universo dicendo che tutte le cose, perfino le anime degli uomini, sono foglie che inevitabilmente si schiudono su un albero del tutto inconsapevole: il cieco destino della materia. La spiegazione spiega davvero, benché, s'intende, non tanto completamente quanto quella del folle. Ma il punto qui è che la normale mente umana non solo si oppone a entrambe, ma sente verso entrambe la medesima obiezione. La sua approssimativa formulazione è che, se l'uomo di Hanwell è il vero Dio, egli non è granché come dio. E, similmente, se il cosmo del materialista è il vero cosmo, esso non è granché come cosmo. La cosa si è rimpicciolita. La divinità è meno divina di molti uomini; e (secondo Haeckel) l'intera vita è qualcosa di molto più grigio, angusto e insignificante di molti suoi aspetti separati. Le parti sembrano più grandi del tutto.
 
-     Poiché dobbiamo ricordare che la filosofia materialista (vera o no) è certamente molto più limitante di qualsiasi religione. In un senso, s'intende, tutte le idee intelligenti sono anguste. Non possono essere più ampie di se stesse. Un cristiano è limitato soltanto nello stesso senso in cui è limitato un ateo. Egli non può ritenere falso il cristianesimo e continuare a essere cristiano; e l'ateo non può ritenere falso l'ateismo e continuare a essere ateo. Ma accade che vi sia un senso del tutto particolare in cui il materialismo ha più restrizioni dello spiritualismo. Il signor McCabe mi ritiene uno schiavo perché non mi è permesso credere nel determinismo. Io ritengo il signor McCabe uno schiavo perché non gli è permesso credere nelle fate. Ma se esaminiamo i due veti, vedremo che il suo è in realtà molto più un puro veto del mio. Il cristiano è del tutto libero di credere che vi sia una considerevole quantità di ordine stabilito e di sviluppo inevitabile nell'universo. Ma al materialista non è permesso ammettere nella sua immacolata macchina il minimo granello di spiritualismo o di miracolo. Al povero signor McCabe non è permesso conservare nemmeno il più minuscolo folletto, sebbene esso possa nascondersi in una primula. Il cristiano ammette che l'universo è molteplice e persino eterogeneo, proprio come un uomo sano sa di essere complesso. L'uomo sano sa di avere un tocco della bestia, un tocco del demonio, un tocco del santo, un tocco del cittadino. Anzi, l'uomo davvero sano sa di avere un tocco del folle. Ma il mondo del materialista è del tutto semplice e solido, proprio come il folle è del tutto certo di essere sano. Il materialista è certo che la storia sia stata semplicemente e unicamente una catena di causalità, proprio come l'interessante personaggio prima menzionato è del tutto certo di essere semplicemente e unicamente un pollo. I materialisti e i folli non hanno mai dubbi.
+Poiché dobbiamo ricordare che la filosofia materialista (vera o no) è certamente molto più limitante di qualsiasi religione. In un senso, s'intende, tutte le idee intelligenti sono anguste. Non possono essere più ampie di se stesse. Un cristiano è limitato soltanto nello stesso senso in cui è limitato un ateo. Egli non può ritenere falso il cristianesimo e continuare a essere cristiano; e l'ateo non può ritenere falso l'ateismo e continuare a essere ateo. Ma accade che vi sia un senso del tutto particolare in cui il materialismo ha più restrizioni dello spiritualismo. Il signor McCabe mi ritiene uno schiavo perché non mi è permesso credere nel determinismo. Io ritengo il signor McCabe uno schiavo perché non gli è permesso credere nelle fate. Ma se esaminiamo i due veti, vedremo che il suo è in realtà molto più un puro veto del mio. Il cristiano è del tutto libero di credere che vi sia una considerevole quantità di ordine stabilito e di sviluppo inevitabile nell'universo. Ma al materialista non è permesso ammettere nella sua immacolata macchina il minimo granello di spiritualismo o di miracolo. Al povero signor McCabe non è permesso conservare nemmeno il più minuscolo folletto, sebbene esso possa nascondersi in una primula. Il cristiano ammette che l'universo è molteplice e persino eterogeneo, proprio come un uomo sano sa di essere complesso. L'uomo sano sa di avere un tocco della bestia, un tocco del demonio, un tocco del santo, un tocco del cittadino. Anzi, l'uomo davvero sano sa di avere un tocco del folle. Ma il mondo del materialista è del tutto semplice e solido, proprio come il folle è del tutto certo di essere sano. Il materialista è certo che la storia sia stata semplicemente e unicamente una catena di causalità, proprio come l'interessante personaggio prima menzionato è del tutto certo di essere semplicemente e unicamente un pollo. I materialisti e i folli non hanno mai dubbi.
 
-     Le dottrine spirituali non limitano realmente la mente come fanno le negazioni materialiste. Anche se credo nell'immortalità, non sono costretto a pensarci. Ma se non credo nell'immortalità, non devo pensarci. Nel primo caso la strada è aperta e posso andare tanto lontano quanto voglio; nel secondo la strada è sbarrata. Ma il caso è ancora più forte, e il parallelo con la follia è ancora più strano. Poiché la nostra tesi contro la teoria esaustiva e logica del folle era che, a torto o a ragione, essa distruggeva gradualmente la sua umanità. Ora, l'accusa contro le principali deduzioni del materialista è che, a torto o a ragione, esse distruggono gradualmente la sua umanità; non intendo soltanto la bontà, intendo la speranza, il coraggio, la poesia, l'iniziativa, tutto ciò che è umano. Per esempio, quando il materialismo conduce gli uomini al completo fatalismo (come generalmente fa), è del tutto vano fingere che esso sia in qualche senso una forza liberatrice. È assurdo dire che state particolarmente promuovendo la libertà quando usate il libero pensiero soltanto per distruggere il libero arbitrio. I deterministi vengono per legare, non per sciogliere. Ben possono chiamare la loro legge la «catena» della causalità. È la peggiore catena che abbia mai avvinto un essere umano. Potete usare, se volete, il linguaggio della libertà a proposito dell'insegnamento materialista, ma è ovvio che esso è, nel suo complesso, tanto inapplicabile quanto lo sarebbe lo stesso linguaggio applicato a un uomo rinchiuso in un manicomio. Potete dire, se volete, che l'uomo è libero di credersi un uovo in camicia. Ma è certamente un fatto più massiccio e importante che, se è un uovo in camicia, non è libero di mangiare, bere, dormire, camminare o fumare una sigaretta. Similmente potete dire, se volete, che l'ardito speculatore determinista è libero di non credere nella realtà della volontà. Ma è un fatto molto più massiccio e importante che egli non è libero di sollevare, di maledire, di ringraziare, di giustificare, di esortare, di punire, di resistere alle tentazioni, di incitare le folle, di prendere propositi per l'anno nuovo, di perdonare i peccatori, di rimproverare i tiranni, o persino di dire «grazie» per la senape.
+Le dottrine spirituali non limitano realmente la mente come fanno le negazioni materialiste. Anche se credo nell'immortalità, non sono costretto a pensarci. Ma se non credo nell'immortalità, non devo pensarci. Nel primo caso la strada è aperta e posso andare tanto lontano quanto voglio; nel secondo la strada è sbarrata. Ma il caso è ancora più forte, e il parallelo con la follia è ancora più strano. Poiché la nostra tesi contro la teoria esaustiva e logica del folle era che, a torto o a ragione, essa distruggeva gradualmente la sua umanità. Ora, l'accusa contro le principali deduzioni del materialista è che, a torto o a ragione, esse distruggono gradualmente la sua umanità; non intendo soltanto la bontà, intendo la speranza, il coraggio, la poesia, l'iniziativa, tutto ciò che è umano. Per esempio, quando il materialismo conduce gli uomini al completo fatalismo (come generalmente fa), è del tutto vano fingere che esso sia in qualche senso una forza liberatrice. È assurdo dire che state particolarmente promuovendo la libertà quando usate il libero pensiero soltanto per distruggere il libero arbitrio. I deterministi vengono per legare, non per sciogliere. Ben possono chiamare la loro legge la «catena» della causalità. È la peggiore catena che abbia mai avvinto un essere umano. Potete usare, se volete, il linguaggio della libertà a proposito dell'insegnamento materialista, ma è ovvio che esso è, nel suo complesso, tanto inapplicabile quanto lo sarebbe lo stesso linguaggio applicato a un uomo rinchiuso in un manicomio. Potete dire, se volete, che l'uomo è libero di credersi un uovo in camicia. Ma è certamente un fatto più massiccio e importante che, se è un uovo in camicia, non è libero di mangiare, bere, dormire, camminare o fumare una sigaretta. Similmente potete dire, se volete, che l'ardito speculatore determinista è libero di non credere nella realtà della volontà. Ma è un fatto molto più massiccio e importante che egli non è libero di sollevare, di maledire, di ringraziare, di giustificare, di esortare, di punire, di resistere alle tentazioni, di incitare le folle, di prendere propositi per l'anno nuovo, di perdonare i peccatori, di rimproverare i tiranni, o persino di dire «grazie» per la senape.
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_05" data-title="Orthodoxy — Ii The Maniac (part 5)" data-chapter="Story 04 Ii The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_05" data-title="Orthodoxy — II The Maniac (part 5)" data-chapter="II The Maniac" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ii The Maniac (part 5)
 
-     In passing from this subject I may note that there is
+In passing from this subject I may note that there is
 a queer fallacy to the effect that materialistic fatalism is in
 some way favourable to mercy, to the abolition of cruel punishments
 or punishments of any kind.  This is startlingly the reverse of
@@ -6807,7 +6799,7 @@ Considered as a figure, therefore, the materialist has the fantastic
 outline of the figure of the madman.  Both take up a position
 at once unanswerable and intolerable.
 
-     Of course it is not only of the materialist that all this
+Of course it is not only of the materialist that all this
 is true.  The same would apply to the other extreme of
 speculative logic.  There is a sceptic far more terrible than
 he who believes that everything began in matter.  It is possible
@@ -6833,7 +6825,7 @@ his own insane pencil on the walls of his cell.  But over his
 cell shall be written, with dreadful truth, "He believes in
 himself."
 
-     All that concerns us here, however, is to note that this
+All that concerns us here, however, is to note that this
 panegoistic extreme of thought exhibits the same paradox as
 the other extreme of materialism.  It is equally complete in theory
 and equally crippling in practice.  For the sake of simplicity,
@@ -6866,7 +6858,7 @@ supercilious theosophists and higher scientists of to-day is,
 indeed, very well presented by a serpent eating his tail,
 a degraded animal who destroys even himself.
 
-     This chapter is purely practical and is concerned with
+This chapter is purely practical and is concerned with
 what actually is the chief mark and element of insanity; we may
 say in summary that it is reason used without root, reason in
 the void.  The man who begins to think without the proper first
@@ -6920,7 +6912,7 @@ can grow without changing.  The circle returns upon itself and
 is bound.  The cross opens its arms to the four winds; it is a
 signpost for free travellers.
 
-     Symbols alone are of even a cloudy value in speaking of
+Symbols alone are of even a cloudy value in speaking of
 this deep matter; and another symbol from physical nature will
 express sufficiently well the real place of mysticism before mankind. 
 The one created thing which we cannot look at is the one thing
@@ -6947,23 +6939,22 @@ and has given to them all her name.
 
 Nel congedarmi da questo argomento posso notare che esiste una strana fallacia secondo cui il fatalismo materialista sarebbe in qualche modo favorevole alla misericordia, all'abolizione delle punizioni crudeli o delle punizioni di qualsiasi genere. Questo è sorprendentemente l'opposto della verità. È del tutto sostenibile che la dottrina della necessità non faccia alcuna differenza; che lasci il fustigatore a fustigare e l'amico benevolo a esortare come prima. Ma è ovvio che, se ferma l'uno o l'altro, ferma la benevola esortazione. Che i peccati siano inevitabili non impedisce la punizione; se impedisce qualcosa, impedisce la persuasione. Il determinismo è tanto probabile che conduca alla crudeltà quanto è certo che conduca alla codardia. Il determinismo non è incompatibile con il trattamento crudele dei criminali. Ciò con cui è (forse) incompatibile è il trattamento generoso dei criminali; con qualsiasi appello ai loro sentimenti migliori o incoraggiamento nella loro lotta morale. Il determinista non crede nell'appellarsi alla volontà, ma crede nel mutare l'ambiente. Egli non deve dire al peccatore: «Va' e non peccare più», perché il peccatore non può farne a meno. Ma può metterlo nell'olio bollente; poiché l'olio bollente è un ambiente. Considerato come figura, dunque, il materialista ha il fantastico contorno della figura del folle. Entrambi assumono una posizione al tempo stesso inconfutabile e intollerabile.
 
-     Naturalmente non è soltanto del materialista che tutto ciò è vero. Lo stesso si applicherebbe all'altro estremo della logica speculativa. C'è uno scettico assai più terribile di colui che crede che tutto abbia avuto inizio nella materia. È possibile incontrare lo scettico che crede che tutto abbia avuto inizio in se stesso. Egli non dubita dell'esistenza degli angeli o dei demoni, ma dell'esistenza degli uomini e delle vacche. Per lui i suoi stessi amici sono una mitologia inventata da lui. Egli ha creato il proprio padre e la propria madre. Questa orribile fantasticheria ha in sé qualcosa di decisamente attraente per l'egoismo alquanto mistico dei nostri giorni. Quell'editore che pensava che gli uomini avrebbero fatto strada se avessero creduto in se stessi, quei cercatori del Superuomo che lo cercano sempre nello specchio, quegli scrittori che parlano di imprimere la propria personalità invece di creare vita per il mondo, tutta questa gente ha in realtà soltanto un pollice di distanza tra sé e questo terribile vuoto. Poi, quando questo benigno mondo tutt'intorno all'uomo sarà stato cancellato come una menzogna; quando gli amici svaniranno in fantasmi, e le fondamenta del mondo verranno meno; poi, quando l'uomo, non credendo in nulla e in nessun uomo, sarà solo nel proprio incubo, allora il grande motto individualistico gli verrà scritto sopra in ironia vendicatrice. Le stelle non saranno che puntini nel buio del suo stesso cervello; il volto di sua madre non sarà che uno schizzo tracciato dalla sua stessa matita folle sulle pareti della sua cella. Ma sopra la sua cella sarà scritto, con terribile verità: «Egli crede in se stesso».
+Naturalmente non è soltanto del materialista che tutto ciò è vero. Lo stesso si applicherebbe all'altro estremo della logica speculativa. C'è uno scettico assai più terribile di colui che crede che tutto abbia avuto inizio nella materia. È possibile incontrare lo scettico che crede che tutto abbia avuto inizio in se stesso. Egli non dubita dell'esistenza degli angeli o dei demoni, ma dell'esistenza degli uomini e delle vacche. Per lui i suoi stessi amici sono una mitologia inventata da lui. Egli ha creato il proprio padre e la propria madre. Questa orribile fantasticheria ha in sé qualcosa di decisamente attraente per l'egoismo alquanto mistico dei nostri giorni. Quell'editore che pensava che gli uomini avrebbero fatto strada se avessero creduto in se stessi, quei cercatori del Superuomo che lo cercano sempre nello specchio, quegli scrittori che parlano di imprimere la propria personalità invece di creare vita per il mondo, tutta questa gente ha in realtà soltanto un pollice di distanza tra sé e questo terribile vuoto. Poi, quando questo benigno mondo tutt'intorno all'uomo sarà stato cancellato come una menzogna; quando gli amici svaniranno in fantasmi, e le fondamenta del mondo verranno meno; poi, quando l'uomo, non credendo in nulla e in nessun uomo, sarà solo nel proprio incubo, allora il grande motto individualistico gli verrà scritto sopra in ironia vendicatrice. Le stelle non saranno che puntini nel buio del suo stesso cervello; il volto di sua madre non sarà che uno schizzo tracciato dalla sua stessa matita folle sulle pareti della sua cella. Ma sopra la sua cella sarà scritto, con terribile verità: «Egli crede in se stesso».
 
-     Tutto ciò che qui ci riguarda, tuttavia, è notare che questo estremo panegoistico del pensiero mostra il medesimo paradosso dell'altro estremo, il materialismo. È ugualmente completo in teoria e ugualmente paralizzante in pratica. Per semplicità, è più facile enunciare la nozione dicendo che un uomo può credere di essere sempre in un sogno. Ora, è ovvio che non gli si può dare alcuna prova positiva del fatto che egli non stia sognando, per la semplice ragione che non si può offrire alcuna prova che non possa essere offerta in un sogno. Ma se quell'uomo cominciasse a dare fuoco a Londra dicendo che la sua governante lo chiamerà presto per la colazione, noi lo prenderemmo e lo metteremmo insieme ad altri logici in un luogo cui si è spesso alluso nel corso di questo capitolo. L'uomo che non può credere ai propri sensi, e l'uomo che non può credere a nient'altro, sono entrambi folli, ma la loro follia è provata non da alcun errore nel loro ragionamento, bensì dal manifesto sbaglio dell'intera loro vita. Entrambi si sono rinchiusi in due scatole, dipinte all'interno col sole e le stelle; entrambi sono incapaci di uscirne, l'uno verso la salute e la felicità del cielo, l'altro persino verso la salute e la felicità della terra. La loro posizione è del tutto ragionevole; anzi, in un senso è infinitamente ragionevole, proprio come una monetina da tre soldi è infinitamente circolare. Ma esiste una cosa come un'infinità meschina, un'eternità vile e servile. È divertente notare che molti dei moderni, siano essi scettici o mistici, hanno preso come loro segno un certo simbolo orientale, che è proprio il simbolo di questa ultima nullità. Quando vogliono rappresentare l'eternità, la rappresentano con un serpente che si tiene la coda in bocca. C'è un sarcasmo sconcertante nell'immagine di quel pasto tanto insoddisfacente. L'eternità dei fatalisti materialisti, l'eternità dei pessimisti orientali, l'eternità degli sprezzanti teosofi e degli scienziati superiori d'oggi è, in verità, molto ben rappresentata da un serpente che si divora la coda, un animale degradato che distrugge persino se stesso.
+Tutto ciò che qui ci riguarda, tuttavia, è notare che questo estremo panegoistico del pensiero mostra il medesimo paradosso dell'altro estremo, il materialismo. È ugualmente completo in teoria e ugualmente paralizzante in pratica. Per semplicità, è più facile enunciare la nozione dicendo che un uomo può credere di essere sempre in un sogno. Ora, è ovvio che non gli si può dare alcuna prova positiva del fatto che egli non stia sognando, per la semplice ragione che non si può offrire alcuna prova che non possa essere offerta in un sogno. Ma se quell'uomo cominciasse a dare fuoco a Londra dicendo che la sua governante lo chiamerà presto per la colazione, noi lo prenderemmo e lo metteremmo insieme ad altri logici in un luogo cui si è spesso alluso nel corso di questo capitolo. L'uomo che non può credere ai propri sensi, e l'uomo che non può credere a nient'altro, sono entrambi folli, ma la loro follia è provata non da alcun errore nel loro ragionamento, bensì dal manifesto sbaglio dell'intera loro vita. Entrambi si sono rinchiusi in due scatole, dipinte all'interno col sole e le stelle; entrambi sono incapaci di uscirne, l'uno verso la salute e la felicità del cielo, l'altro persino verso la salute e la felicità della terra. La loro posizione è del tutto ragionevole; anzi, in un senso è infinitamente ragionevole, proprio come una monetina da tre soldi è infinitamente circolare. Ma esiste una cosa come un'infinità meschina, un'eternità vile e servile. È divertente notare che molti dei moderni, siano essi scettici o mistici, hanno preso come loro segno un certo simbolo orientale, che è proprio il simbolo di questa ultima nullità. Quando vogliono rappresentare l'eternità, la rappresentano con un serpente che si tiene la coda in bocca. C'è un sarcasmo sconcertante nell'immagine di quel pasto tanto insoddisfacente. L'eternità dei fatalisti materialisti, l'eternità dei pessimisti orientali, l'eternità degli sprezzanti teosofi e degli scienziati superiori d'oggi è, in verità, molto ben rappresentata da un serpente che si divora la coda, un animale degradato che distrugge persino se stesso.
 
-     Questo capitolo è puramente pratico e riguarda ciò che effettivamente è il segno e l'elemento principale della follia; possiamo dire in sintesi che si tratta della ragione usata senza radice, della ragione nel vuoto. L'uomo che comincia a pensare senza i debiti princìpi primi impazzisce; comincia a pensare dal capo sbagliato. E per il resto di queste pagine dobbiamo cercare di scoprire quale sia il capo giusto. Ma possiamo domandarci, in conclusione, se questo è ciò che rende folli gli uomini, che cosa è che li mantiene sani? Entro la fine di questo libro spero di dare una risposta definita, che alcuni riterranno fin troppo definita. Ma per il momento è possibile, nel medesimo modo puramente pratico, dare una risposta generale su ciò che, nella reale storia umana, mantiene sani gli uomini. Il misticismo mantiene sani gli uomini. Finché avete il mistero avete la salute; quando distruggete il mistero create la morbosità. L'uomo comune è sempre stato sano perché l'uomo comune è sempre stato un mistico. Egli ha concesso spazio al crepuscolo. Ha sempre avuto un piede sulla terra e l'altro nel regno delle fate. Si è sempre lasciato libero di dubitare dei propri dèi; ma (a differenza dell'agnostico d'oggi) libero anche di credere in essi. Ha sempre avuto più a cuore la verità che la coerenza. Se vedeva due verità che parevano contraddirsi a vicenda, prendeva le due verità e la contraddizione insieme a esse. La sua vista spirituale è stereoscopica, come la sua vista fisica: vede due immagini diverse allo stesso tempo e tuttavia vede tanto meglio per questo. Così ha sempre creduto che vi fosse una cosa come il fato, ma anche una cosa come il libero arbitrio. Così credeva che i bambini fossero davvero il regno dei cieli, ma che ciononostante dovessero essere obbedienti al regno della terra. Ammirava la giovinezza perché era giovane e la vecchiaia perché non lo era. È proprio questo equilibrio di apparenti contraddizioni che è stato l'intera galleggiabilità dell'uomo sano. L'intero segreto del misticismo è questo: che l'uomo può comprendere ogni cosa con l'aiuto di ciò che non comprende. Il logico morboso cerca di rendere ogni cosa lucida, e riesce a rendere ogni cosa misteriosa. Il mistico permette a una cosa di essere misteriosa, e ogni altra cosa diventa lucida. Il determinista rende del tutto chiara la teoria della causalità, e poi scopre di non poter dire «per favore» alla cameriera. Il cristiano permette che il libero arbitrio rimanga un sacro mistero; ma proprio per questo i suoi rapporti con la cameriera diventano di una scintillante e cristallina limpidezza. Egli pone il seme del dogma in una tenebra centrale; ma esso germoglia in tutte le direzioni con abbondante salute naturale. Come abbiamo preso il cerchio a simbolo della ragione e della follia, possiamo benissimo prendere la croce a simbolo insieme del mistero e della salute. Il buddhismo è centripeto, ma il cristianesimo è centrifugo: erompe verso l'esterno. Poiché il cerchio è perfetto e infinito per sua natura; ma è fissato per sempre nella sua dimensione; non può mai farsi più grande o più piccolo. La croce, invece, benché abbia nel suo cuore una collisione e una contraddizione, può estendere le sue quattro braccia in eterno senza mutare forma. Poiché ha un paradosso nel suo centro, essa può crescere senza cambiare. Il cerchio ritorna su se stesso ed è avvinto. La croce apre le sue braccia ai quattro venti; è un cartello indicatore per i viaggiatori liberi.
+Questo capitolo è puramente pratico e riguarda ciò che effettivamente è il segno e l'elemento principale della follia; possiamo dire in sintesi che si tratta della ragione usata senza radice, della ragione nel vuoto. L'uomo che comincia a pensare senza i debiti princìpi primi impazzisce; comincia a pensare dal capo sbagliato. E per il resto di queste pagine dobbiamo cercare di scoprire quale sia il capo giusto. Ma possiamo domandarci, in conclusione, se questo è ciò che rende folli gli uomini, che cosa è che li mantiene sani? Entro la fine di questo libro spero di dare una risposta definita, che alcuni riterranno fin troppo definita. Ma per il momento è possibile, nel medesimo modo puramente pratico, dare una risposta generale su ciò che, nella reale storia umana, mantiene sani gli uomini. Il misticismo mantiene sani gli uomini. Finché avete il mistero avete la salute; quando distruggete il mistero create la morbosità. L'uomo comune è sempre stato sano perché l'uomo comune è sempre stato un mistico. Egli ha concesso spazio al crepuscolo. Ha sempre avuto un piede sulla terra e l'altro nel regno delle fate. Si è sempre lasciato libero di dubitare dei propri dèi; ma (a differenza dell'agnostico d'oggi) libero anche di credere in essi. Ha sempre avuto più a cuore la verità che la coerenza. Se vedeva due verità che parevano contraddirsi a vicenda, prendeva le due verità e la contraddizione insieme a esse. La sua vista spirituale è stereoscopica, come la sua vista fisica: vede due immagini diverse allo stesso tempo e tuttavia vede tanto meglio per questo. Così ha sempre creduto che vi fosse una cosa come il fato, ma anche una cosa come il libero arbitrio. Così credeva che i bambini fossero davvero il regno dei cieli, ma che ciononostante dovessero essere obbedienti al regno della terra. Ammirava la giovinezza perché era giovane e la vecchiaia perché non lo era. È proprio questo equilibrio di apparenti contraddizioni che è stato l'intera galleggiabilità dell'uomo sano. L'intero segreto del misticismo è questo: che l'uomo può comprendere ogni cosa con l'aiuto di ciò che non comprende. Il logico morboso cerca di rendere ogni cosa lucida, e riesce a rendere ogni cosa misteriosa. Il mistico permette a una cosa di essere misteriosa, e ogni altra cosa diventa lucida. Il determinista rende del tutto chiara la teoria della causalità, e poi scopre di non poter dire «per favore» alla cameriera. Il cristiano permette che il libero arbitrio rimanga un sacro mistero; ma proprio per questo i suoi rapporti con la cameriera diventano di una scintillante e cristallina limpidezza. Egli pone il seme del dogma in una tenebra centrale; ma esso germoglia in tutte le direzioni con abbondante salute naturale. Come abbiamo preso il cerchio a simbolo della ragione e della follia, possiamo benissimo prendere la croce a simbolo insieme del mistero e della salute. Il buddhismo è centripeto, ma il cristianesimo è centrifugo: erompe verso l'esterno. Poiché il cerchio è perfetto e infinito per sua natura; ma è fissato per sempre nella sua dimensione; non può mai farsi più grande o più piccolo. La croce, invece, benché abbia nel suo cuore una collisione e una contraddizione, può estendere le sue quattro braccia in eterno senza mutare forma. Poiché ha un paradosso nel suo centro, essa può crescere senza cambiare. Il cerchio ritorna su se stesso ed è avvinto. La croce apre le sue braccia ai quattro venti; è un cartello indicatore per i viaggiatori liberi.
 
-     Soltanto i simboli hanno anche solo un nebuloso valore nel parlare di questa profonda materia; e un altro simbolo tratto dalla natura fisica esprimerà a sufficienza il vero posto del misticismo di fronte all'umanità. L'unica cosa creata che non possiamo guardare è l'unica cosa alla cui luce guardiamo ogni altra cosa. Come il sole a mezzogiorno, il misticismo spiega ogni altra cosa con il fulgore della propria vittoriosa invisibilità. L'intellettualismo distaccato è (nel senso esatto di una frase popolare) tutto chiaro di luna; poiché è luce senza calore, ed è luce secondaria, riflessa da un mondo morto. Ma i Greci avevano ragione quando fecero di Apollo il dio insieme dell'immaginazione e della sanità mentale; poiché egli era al tempo stesso il patrono della poesia e il patrono della guarigione. Dei dogmi necessari e di uno speciale credo parlerò più avanti. Ma quel trascendentalismo per cui tutti gli uomini vivono ha primariamente in gran parte la posizione del sole nel cielo. Ne siamo consapevoli come di una sorta di splendida confusione; è qualcosa insieme di splendente e di informe, al tempo stesso un fulgore e una macchia sfocata. Ma il cerchio della luna è chiaro e inconfondibile, ricorrente e inevitabile, come il cerchio di Euclide su una lavagna. Poiché la luna è del tutto ragionevole; e la luna è la madre dei lunatici e ha dato loro tutti il proprio nome.
+Soltanto i simboli hanno anche solo un nebuloso valore nel parlare di questa profonda materia; e un altro simbolo tratto dalla natura fisica esprimerà a sufficienza il vero posto del misticismo di fronte all'umanità. L'unica cosa creata che non possiamo guardare è l'unica cosa alla cui luce guardiamo ogni altra cosa. Come il sole a mezzogiorno, il misticismo spiega ogni altra cosa con il fulgore della propria vittoriosa invisibilità. L'intellettualismo distaccato è (nel senso esatto di una frase popolare) tutto chiaro di luna; poiché è luce senza calore, ed è luce secondaria, riflessa da un mondo morto. Ma i Greci avevano ragione quando fecero di Apollo il dio insieme dell'immaginazione e della sanità mentale; poiché egli era al tempo stesso il patrono della poesia e il patrono della guarigione. Dei dogmi necessari e di uno speciale credo parlerò più avanti. Ma quel trascendentalismo per cui tutti gli uomini vivono ha primariamente in gran parte la posizione del sole nel cielo. Ne siamo consapevoli come di una sorta di splendida confusione; è qualcosa insieme di splendente e di informe, al tempo stesso un fulgore e una macchia sfocata. Ma il cerchio della luna è chiaro e inconfondibile, ricorrente e inevitabile, come il cerchio di Euclide su una lavagna. Poiché la luna è del tutto ragionevole; e la luna è la madre dei lunatici e ha dato loro tutti il proprio nome.
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_01" data-title="Orthodoxy — Iii The Suicide Of Thought (part 1)" data-chapter="Story 05 Iii The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_01" data-title="Orthodoxy — III The Suicide Of Thought (part 1)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iii The Suicide Of Thought (part 1)
 
 III THE SUICIDE OF THOUGHT
 
-     The phrases of the street are not only forcible but subtle: 
+The phrases of the street are not only forcible but subtle: 
 for a figure of speech can often get into a crack too small for
 a definition.  Phrases like "put out" or "off colour" might
 have been coined by Mr. Henry James in an agony of verbal
@@ -6979,7 +6970,7 @@ I could not express myself more exactly than by saying that he
 has a heroically large and generous heart; but not a heart in
 the right place.  And this is so of the typical society of our time.
 
-     The modern world is not evil; in some ways the modern
+The modern world is not evil; in some ways the modern
 world is far too good.  It is full of wild and wasted virtues.
 When a religious scheme is shattered (as Christianity was
 shattered at the Reformation), it is not merely the vices that
@@ -7010,7 +7001,7 @@ righteousness and peace kiss each other.  Now they do not even bow.
 But a much stronger case than these two of truth and pity can be
 found in the remarkable case of the dislocation of humility.
 
-     It is only with one aspect of humility that we are here concerned. 
+It is only with one aspect of humility that we are here concerned. 
 Humility was largely meant as a restraint upon the arrogance and
 infinity of the appetite of man.  He was always outstripping
 his mercies with his own newly invented needs. His very power of
@@ -7027,7 +7018,7 @@ gigantesque imagination, which is, perhaps, the mightiest of the pleasures
 of man, is at bottom entirely humble.  It is impossible without
 humility to enjoy anything--even pride.
 
-     But what we suffer from to-day is humility in the wrong
+But what we suffer from to-day is humility in the wrong
 place.  Modesty has moved from the organ of ambition.  Modesty
 has settled upon the organ of conviction; where it was never
 meant to be.  A man was meant to be doubtful about himself, but
@@ -7047,7 +7038,7 @@ the old humility made a man doubtful about his efforts, which
 might make him work harder.  But the new humility makes a man
 doubtful about his aims, which will make him stop working altogether.
 
-     At any street corner we may meet a man who utters the frantic
+At any street corner we may meet a man who utters the frantic
 and blasphemous statement that he may be wrong.  Every day one
 comes across somebody who says that of course his view may not
 be the right one.  Of course his view must be the right one, or
@@ -7060,7 +7051,7 @@ The meek do inherit the earth; but the modern sceptics are too
 meek even to claim their inheritance.  It is exactly this
 intellectual helplessness which is our second problem.
 
-     The last chapter has been concerned only with a fact of
+The last chapter has been concerned only with a fact of
 observation:  that what peril of morbidity there is for man
 comes rather from his reason than his imagination.  It was not
 meant to attack the authority of reason; rather it is the
@@ -7072,25 +7063,24 @@ modern world is at war with reason; and the tower already reels.
 
 III IL SUICIDIO DEL PENSIERO
 
-     Le espressioni della strada non sono soltanto efficaci, ma sottili: una figura retorica riesce spesso a insinuarsi in una fessura troppo angusta per una definizione. Locuzioni come «spiazzato» o «giù di corda» avrebbero potuto essere coniate dal signor Henry James in un'agonia di precisione verbale. E non c'è verità più sottile di quella racchiusa nella frase quotidiana che dice di un uomo di avere «il cuore al posto giusto». Essa implica l'idea di una giusta proporzione; non soltanto una certa funzione esiste, ma è correttamente collegata alle altre funzioni. Anzi, la negazione di questa frase descriverebbe con singolare esattezza la misericordia alquanto morbosa e la tenerezza perversa dei moderni più rappresentativi. Se, per esempio, dovessi descrivere con equità il carattere del signor Bernard Shaw, non potrei esprimermi con maggior precisione che dicendo che egli possiede un cuore eroicamente grande e generoso; ma non un cuore al posto giusto. E così è della società tipica del nostro tempo.
+Le espressioni della strada non sono soltanto efficaci, ma sottili: una figura retorica riesce spesso a insinuarsi in una fessura troppo angusta per una definizione. Locuzioni come «spiazzato» o «giù di corda» avrebbero potuto essere coniate dal signor Henry James in un'agonia di precisione verbale. E non c'è verità più sottile di quella racchiusa nella frase quotidiana che dice di un uomo di avere «il cuore al posto giusto». Essa implica l'idea di una giusta proporzione; non soltanto una certa funzione esiste, ma è correttamente collegata alle altre funzioni. Anzi, la negazione di questa frase descriverebbe con singolare esattezza la misericordia alquanto morbosa e la tenerezza perversa dei moderni più rappresentativi. Se, per esempio, dovessi descrivere con equità il carattere del signor Bernard Shaw, non potrei esprimermi con maggior precisione che dicendo che egli possiede un cuore eroicamente grande e generoso; ma non un cuore al posto giusto. E così è della società tipica del nostro tempo.
 
-     Il mondo moderno non è malvagio; per certi versi il mondo moderno è fin troppo buono. È pieno di virtù selvagge e sprecate. Quando un ordinamento religioso va in frantumi (come il cristianesimo andò in frantumi con la Riforma), non sono soltanto i vizi a essere sguinzagliati. I vizi, in effetti, vengono sguinzagliati, e vagano facendo danni. Ma anche le virtù vengono sguinzagliate; e le virtù vagano più selvaggiamente, e le virtù fanno danni più terribili. Il mondo moderno è pieno delle antiche virtù cristiane impazzite. Le virtù sono impazzite perché sono state isolate le une dalle altre e vagano solitarie. Così alcuni scienziati hanno a cuore la verità; e la loro verità è spietata. Così alcuni umanitari hanno a cuore soltanto la pietà; e la loro pietà (mi dispiace dirlo) è spesso menzognera. Per esempio, il signor Blatchford attacca il cristianesimo perché è invasato da una sola virtù cristiana: la virtù puramente mistica e quasi irrazionale della carità. Ha la bizzarra idea che renderà più facile perdonare i peccati affermando che non vi sono peccati da perdonare. Il signor Blatchford non è soltanto un cristiano dei primi tempi, è l'unico cristiano dei primi tempi che avrebbe davvero meritato d'essere divorato dai leoni. Poiché nel suo caso l'accusa pagana è davvero vera: la sua misericordia significherebbe pura anarchia. Egli è realmente il nemico del genere umano — perché è tanto umano. All'estremo opposto possiamo collocare l'acre realista, che ha deliberatamente ucciso in se stesso ogni piacere umano nei racconti lieti o nella guarigione del cuore. Torquemada torturava gli uomini fisicamente per amore della verità morale. Zola torturava gli uomini moralmente per amore della verità fisica. Ma ai tempi di Torquemada esisteva almeno un sistema che poteva in qualche misura fare in modo che giustizia e pace si baciassero. Ora non si scambiano nemmeno un inchino. Ma un caso ben più forte di questi due, della verità e della pietà, si può trovare nel notevole caso della dislocazione dell'umiltà.
+Il mondo moderno non è malvagio; per certi versi il mondo moderno è fin troppo buono. È pieno di virtù selvagge e sprecate. Quando un ordinamento religioso va in frantumi (come il cristianesimo andò in frantumi con la Riforma), non sono soltanto i vizi a essere sguinzagliati. I vizi, in effetti, vengono sguinzagliati, e vagano facendo danni. Ma anche le virtù vengono sguinzagliate; e le virtù vagano più selvaggiamente, e le virtù fanno danni più terribili. Il mondo moderno è pieno delle antiche virtù cristiane impazzite. Le virtù sono impazzite perché sono state isolate le une dalle altre e vagano solitarie. Così alcuni scienziati hanno a cuore la verità; e la loro verità è spietata. Così alcuni umanitari hanno a cuore soltanto la pietà; e la loro pietà (mi dispiace dirlo) è spesso menzognera. Per esempio, il signor Blatchford attacca il cristianesimo perché è invasato da una sola virtù cristiana: la virtù puramente mistica e quasi irrazionale della carità. Ha la bizzarra idea che renderà più facile perdonare i peccati affermando che non vi sono peccati da perdonare. Il signor Blatchford non è soltanto un cristiano dei primi tempi, è l'unico cristiano dei primi tempi che avrebbe davvero meritato d'essere divorato dai leoni. Poiché nel suo caso l'accusa pagana è davvero vera: la sua misericordia significherebbe pura anarchia. Egli è realmente il nemico del genere umano — perché è tanto umano. All'estremo opposto possiamo collocare l'acre realista, che ha deliberatamente ucciso in se stesso ogni piacere umano nei racconti lieti o nella guarigione del cuore. Torquemada torturava gli uomini fisicamente per amore della verità morale. Zola torturava gli uomini moralmente per amore della verità fisica. Ma ai tempi di Torquemada esisteva almeno un sistema che poteva in qualche misura fare in modo che giustizia e pace si baciassero. Ora non si scambiano nemmeno un inchino. Ma un caso ben più forte di questi due, della verità e della pietà, si può trovare nel notevole caso della dislocazione dell'umiltà.
 
-     È soltanto di un aspetto dell'umiltà che qui ci occupiamo. L'umiltà era in gran parte concepita come un freno all'arroganza e all'infinità dell'appetito dell'uomo. Egli superava sempre di corsa i propri beni con bisogni di sua invenzione. La sua stessa capacità di godimento distruggeva metà delle sue gioie. Chiedendo il piacere, perdeva il piacere più grande; poiché il piacere più grande è la sorpresa. Divenne perciò evidente che, se un uomo voleva rendere grande il suo mondo, doveva sempre farsi piccolo. Persino le visioni superbe, le città altissime e i pinnacoli vertiginosi sono creazioni dell'umiltà. I giganti che calpestano le foreste come fossero erba sono creazioni dell'umiltà. Le torri che svaniscono verso l'alto al di sopra della più solitaria delle stelle sono creazioni dell'umiltà. Poiché le torri non sono alte se non le guardiamo dal basso; e i giganti non sono giganti se non sono più grandi di noi. Tutta questa immaginazione gigantesca, che è forse il più possente dei piaceri dell'uomo, è in fondo interamente umile. È impossibile, senza umiltà, godere di alcunché — persino dell'orgoglio.
+È soltanto di un aspetto dell'umiltà che qui ci occupiamo. L'umiltà era in gran parte concepita come un freno all'arroganza e all'infinità dell'appetito dell'uomo. Egli superava sempre di corsa i propri beni con bisogni di sua invenzione. La sua stessa capacità di godimento distruggeva metà delle sue gioie. Chiedendo il piacere, perdeva il piacere più grande; poiché il piacere più grande è la sorpresa. Divenne perciò evidente che, se un uomo voleva rendere grande il suo mondo, doveva sempre farsi piccolo. Persino le visioni superbe, le città altissime e i pinnacoli vertiginosi sono creazioni dell'umiltà. I giganti che calpestano le foreste come fossero erba sono creazioni dell'umiltà. Le torri che svaniscono verso l'alto al di sopra della più solitaria delle stelle sono creazioni dell'umiltà. Poiché le torri non sono alte se non le guardiamo dal basso; e i giganti non sono giganti se non sono più grandi di noi. Tutta questa immaginazione gigantesca, che è forse il più possente dei piaceri dell'uomo, è in fondo interamente umile. È impossibile, senza umiltà, godere di alcunché — persino dell'orgoglio.
 
-     Ma ciò di cui soffriamo oggi è l'umiltà collocata nel posto sbagliato. La modestia si è spostata dall'organo dell'ambizione. La modestia si è insediata sull'organo della convinzione; dove non doveva mai stare. L'uomo era fatto per essere dubbioso di se stesso, ma privo di dubbi sulla verità; questo è stato esattamente rovesciato. Oggigiorno la parte di sé che l'uomo afferma è proprio la parte che non dovrebbe affermare — se stesso. La parte di cui dubita è proprio la parte di cui non dovrebbe dubitare — la Ragione Divina. Huxley predicava un'umiltà paga di imparare dalla Natura. Ma il nuovo scettico è tanto umile da dubitare di poter persino imparare. Sbaglieremmo dunque se avessimo detto avventatamente che non c'è alcuna umiltà tipica del nostro tempo. La verità è che esiste una vera umiltà tipica del nostro tempo; ma si dà il caso che sia in pratica un'umiltà più velenosa delle più sfrenate prostrazioni dell'asceta. L'antica umiltà era uno sprone che impediva all'uomo di fermarsi; non un chiodo nello stivale che gli impediva di procedere. Poiché l'antica umiltà rendeva l'uomo dubbioso dei propri sforzi, il che poteva indurlo a lavorare più duramente. Ma la nuova umiltà rende l'uomo dubbioso dei propri fini, il che lo indurrà a cessare del tutto di lavorare.
+Ma ciò di cui soffriamo oggi è l'umiltà collocata nel posto sbagliato. La modestia si è spostata dall'organo dell'ambizione. La modestia si è insediata sull'organo della convinzione; dove non doveva mai stare. L'uomo era fatto per essere dubbioso di se stesso, ma privo di dubbi sulla verità; questo è stato esattamente rovesciato. Oggigiorno la parte di sé che l'uomo afferma è proprio la parte che non dovrebbe affermare — se stesso. La parte di cui dubita è proprio la parte di cui non dovrebbe dubitare — la Ragione Divina. Huxley predicava un'umiltà paga di imparare dalla Natura. Ma il nuovo scettico è tanto umile da dubitare di poter persino imparare. Sbaglieremmo dunque se avessimo detto avventatamente che non c'è alcuna umiltà tipica del nostro tempo. La verità è che esiste una vera umiltà tipica del nostro tempo; ma si dà il caso che sia in pratica un'umiltà più velenosa delle più sfrenate prostrazioni dell'asceta. L'antica umiltà era uno sprone che impediva all'uomo di fermarsi; non un chiodo nello stivale che gli impediva di procedere. Poiché l'antica umiltà rendeva l'uomo dubbioso dei propri sforzi, il che poteva indurlo a lavorare più duramente. Ma la nuova umiltà rende l'uomo dubbioso dei propri fini, il che lo indurrà a cessare del tutto di lavorare.
 
-     A qualunque angolo di strada possiamo imbatterci in un uomo che pronuncia la frenetica e blasfema affermazione di poter essere in errore. Ogni giorno s'incontra qualcuno che dice che, naturalmente, la sua opinione potrebbe non essere quella giusta. Naturalmente la sua opinione deve essere quella giusta, altrimenti non è la sua opinione. Siamo sulla buona strada per generare una razza di uomini troppo mentalmente modesti per credere nella tavola pitagorica. Corriamo il rischio di veder comparire filosofi che dubitano della legge di gravità come di una loro semplice fantasticheria. Gli schernitori dei tempi antichi erano troppo orgogliosi per lasciarsi convincere; ma questi sono troppo umili per lasciarsi convincere. I miti erediteranno la terra; ma gli scettici moderni sono troppo miti persino per reclamare la propria eredità. È proprio questa impotenza intellettuale il nostro secondo problema.
+A qualunque angolo di strada possiamo imbatterci in un uomo che pronuncia la frenetica e blasfema affermazione di poter essere in errore. Ogni giorno s'incontra qualcuno che dice che, naturalmente, la sua opinione potrebbe non essere quella giusta. Naturalmente la sua opinione deve essere quella giusta, altrimenti non è la sua opinione. Siamo sulla buona strada per generare una razza di uomini troppo mentalmente modesti per credere nella tavola pitagorica. Corriamo il rischio di veder comparire filosofi che dubitano della legge di gravità come di una loro semplice fantasticheria. Gli schernitori dei tempi antichi erano troppo orgogliosi per lasciarsi convincere; ma questi sono troppo umili per lasciarsi convincere. I miti erediteranno la terra; ma gli scettici moderni sono troppo miti persino per reclamare la propria eredità. È proprio questa impotenza intellettuale il nostro secondo problema.
 
-     Il capitolo precedente si è occupato soltanto di un dato di osservazione: che il pericolo di morbosità per l'uomo proviene dalla sua ragione piuttosto che dalla sua immaginazione. Non intendeva attaccare l'autorità della ragione; anzi, è mio scopo ultimo difenderla. Poiché essa ha bisogno di difesa. Il mondo moderno intero è in guerra con la ragione; e la torre già vacilla.
+Il capitolo precedente si è occupato soltanto di un dato di osservazione: che il pericolo di morbosità per l'uomo proviene dalla sua ragione piuttosto che dalla sua immaginazione. Non intendeva attaccare l'autorità della ragione; anzi, è mio scopo ultimo difenderla. Poiché essa ha bisogno di difesa. Il mondo moderno intero è in guerra con la ragione; e la torre già vacilla.
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_02" data-title="Orthodoxy — Iii The Suicide Of Thought (part 2)" data-chapter="Story 05 Iii The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_02" data-title="Orthodoxy — III The Suicide Of Thought (part 2)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iii The Suicide Of Thought (part 2)
 
-     The sages, it is often said, can see no answer to the riddle
+The sages, it is often said, can see no answer to the riddle
 of religion.  But the trouble with our sages is not that they
 cannot see the answer; it is that they cannot even see the riddle.
 They are like children so stupid as to notice nothing paradoxical
@@ -7110,7 +7100,7 @@ Against it religious authority was reared, rightly or wrongly,
 as a barrier.  And against it something certainly must be reared
 as a barrier, if our race is to avoid ruin.
 
-     That peril is that the human intellect is free to destroy itself. 
+That peril is that the human intellect is free to destroy itself. 
 Just as one generation could prevent the very existence of the
 next generation, by all entering a monastery or jumping into the sea,
 so one set of thinkers can in some degree prevent further thinking
@@ -7126,7 +7116,7 @@ bewildered ape?"  The young sceptic says, "I have a right to think
 for myself."  But the old sceptic, the complete sceptic, says,
 "I have no right to think for myself.  I have no right to think at all."
 
-     There is a thought that stops thought.  That is the only
+There is a thought that stops thought.  That is the only
 thought that ought to be stopped.  That is the ultimate evil
 against which all religious authority was aimed.  It only
 appears at the end of decadent ages like our own:  and already
@@ -7158,7 +7148,7 @@ a long-division sum.  With a long and sustained tug we have
 attempted to pull the mitre off pontifical man; and his head has
 come off with it.
 
-     Lest this should be called loose assertion, it is perhaps desirable,
+Lest this should be called loose assertion, it is perhaps desirable,
 though dull, to run rapidly through the chief modern fashions of thought
 which have this effect of stopping thought itself.  Materialism
 and the view of everything as a personal illusion have some such effect;
@@ -7168,7 +7158,7 @@ But in these cases the effect is indirect and doubtful.  In some cases
 it is direct and clear; notably in the case of what is generally
 called evolution.
 
-     Evolution is a good example of that modern intelligence which,
+Evolution is a good example of that modern intelligence which,
 if it destroys anything, destroys itself.  Evolution is either
 an innocent scientific description of how certain earthly things
 came about; or, if it is anything more than this, it is an attack
@@ -7190,7 +7180,7 @@ therefore I am."  The philosophic evolutionist reverses and
 negatives the epigram.  He says, "I am not; therefore I
 cannot think."
 
-     Then there is the opposite attack on thought:  that urged
+Then there is the opposite attack on thought:  that urged
 by Mr. H.G.Wells when he insists that every separate thing is
 "unique," and there are no categories at all.  This also is
 merely destructive.  Thinking means connecting things, and stops
@@ -7207,23 +7197,22 @@ If all chairs were quite different, you could not call them
 
 I sapienti, si dice spesso, non riescono a vedere alcuna risposta all'enigma della religione. Ma il guaio dei nostri sapienti non è che non riescono a vedere la risposta; è che non riescono nemmeno a vedere l'enigma. Sono come bambini tanto stupidi da non notare nulla di paradossale nell'affermazione scherzosa che una porta non è una porta. I latitudinari moderni parlano, per esempio, dell'autorità in religione non soltanto come se in essa non vi fosse alcuna ragione, ma come se non vi fosse mai stata alcuna ragione per essa. Oltre a non vederne il fondamento filosofico, non ne vedono nemmeno la causa storica. L'autorità religiosa è stata spesso, senza dubbio, oppressiva o irragionevole; proprio come ogni sistema giuridico (e specialmente il nostro attuale) è stato insensibile e pieno di una crudele apatia. È razionale attaccare la polizia; anzi, è glorioso. Ma i critici moderni dell'autorità religiosa sono come uomini che attaccassero la polizia senza aver mai sentito parlare di scassinatori. Poiché esiste un pericolo grande e concreto per la mente umana: un pericolo tanto pratico quanto uno scasso. Contro di esso l'autorità religiosa fu eretta, a torto o a ragione, come una barriera. E contro di esso qualcosa dev'essere certamente eretto come barriera, se la nostra razza vuole evitare la rovina.
 
-     Quel pericolo è che l'intelletto umano è libero di distruggere se stesso. Proprio come una generazione potrebbe impedire la stessa esistenza della generazione successiva, entrando tutta in monastero o gettandosi in mare, così un gruppo di pensatori può in certa misura impedire ogni ulteriore pensiero, insegnando alla generazione successiva che non v'è alcuna validità in alcun pensiero umano. È ozioso parlare sempre dell'alternativa fra ragione e fede. La ragione è essa stessa una questione di fede. È un atto di fede affermare che i nostri pensieri abbiano una qualsiasi relazione con la realtà. Se sei un semplice scettico, prima o poi dovrai porti la domanda: «Perché mai qualcosa dovrebbe funzionare a dovere, persino l'osservazione e la deduzione? Perché la buona logica non dovrebbe essere fuorviante quanto la cattiva logica? Non sono forse entrambe moti nel cervello di una scimmia sconcertata?». Il giovane scettico dice: «Ho il diritto di pensare con la mia testa». Ma il vecchio scettico, lo scettico completo, dice: «Non ho alcun diritto di pensare con la mia testa. Non ho alcun diritto di pensare affatto».
+Quel pericolo è che l'intelletto umano è libero di distruggere se stesso. Proprio come una generazione potrebbe impedire la stessa esistenza della generazione successiva, entrando tutta in monastero o gettandosi in mare, così un gruppo di pensatori può in certa misura impedire ogni ulteriore pensiero, insegnando alla generazione successiva che non v'è alcuna validità in alcun pensiero umano. È ozioso parlare sempre dell'alternativa fra ragione e fede. La ragione è essa stessa una questione di fede. È un atto di fede affermare che i nostri pensieri abbiano una qualsiasi relazione con la realtà. Se sei un semplice scettico, prima o poi dovrai porti la domanda: «Perché mai qualcosa dovrebbe funzionare a dovere, persino l'osservazione e la deduzione? Perché la buona logica non dovrebbe essere fuorviante quanto la cattiva logica? Non sono forse entrambe moti nel cervello di una scimmia sconcertata?». Il giovane scettico dice: «Ho il diritto di pensare con la mia testa». Ma il vecchio scettico, lo scettico completo, dice: «Non ho alcun diritto di pensare con la mia testa. Non ho alcun diritto di pensare affatto».
 
-     C'è un pensiero che arresta il pensiero. È l'unico pensiero che andrebbe arrestato. È il male estremo contro cui mirava ogni autorità religiosa. Esso compare soltanto al termine delle epoche decadenti come la nostra: e già il signor H. G. Wells ne ha innalzato il vessillo rovinoso; ha scritto un delicato saggio di scetticismo intitolato «Doubts of the Instrument». In esso mette in dubbio il cervello stesso, e si adopera per togliere ogni realtà a tutte le proprie affermazioni, passate, presenti e future. Ma fu proprio contro questa remota rovina che tutti i sistemi militari della religione furono in origine schierati e disposti. I credo e le crociate, le gerarchie e le orribili persecuzioni non furono organizzati, come ignorantemente si dice, per la soppressione della ragione. Furono organizzati per la difficile difesa della ragione. L'uomo, per un cieco istinto, sapeva che se una volta le cose fossero state selvaggiamente messe in dubbio, la ragione sarebbe potuta essere messa in dubbio per prima. L'autorità dei sacerdoti di assolvere, l'autorità dei papi di definire l'autorità, persino quella degli inquisitori di terrorizzare: queste erano tutte soltanto oscure difese erette attorno a un'unica autorità centrale, più indimostrabile, più soprannaturale di tutte — l'autorità dell'uomo di pensare. Ora sappiamo che è così; non abbiamo scusa per non saperlo. Poiché possiamo udire lo scetticismo che si abbatte fragorosamente attraverso l'antica cerchia delle autorità, e nel medesimo istante possiamo vedere la ragione oscillare sul suo trono. Nella misura in cui la religione se ne va, la ragione se ne va. Poiché sono entrambe della stessa specie, primaria e autoritativa. Sono entrambe metodi di prova che non possono essere essi stessi provati. E nell'atto di distruggere l'idea dell'autorità divina abbiamo in gran parte distrutto l'idea di quell'autorità umana per cui eseguiamo una divisione. Con uno strattone lungo e ostinato abbiamo tentato di strappare la mitra all'uomo pontificale; e la sua testa è venuta via insieme a essa.
+C'è un pensiero che arresta il pensiero. È l'unico pensiero che andrebbe arrestato. È il male estremo contro cui mirava ogni autorità religiosa. Esso compare soltanto al termine delle epoche decadenti come la nostra: e già il signor H. G. Wells ne ha innalzato il vessillo rovinoso; ha scritto un delicato saggio di scetticismo intitolato «Doubts of the Instrument». In esso mette in dubbio il cervello stesso, e si adopera per togliere ogni realtà a tutte le proprie affermazioni, passate, presenti e future. Ma fu proprio contro questa remota rovina che tutti i sistemi militari della religione furono in origine schierati e disposti. I credo e le crociate, le gerarchie e le orribili persecuzioni non furono organizzati, come ignorantemente si dice, per la soppressione della ragione. Furono organizzati per la difficile difesa della ragione. L'uomo, per un cieco istinto, sapeva che se una volta le cose fossero state selvaggiamente messe in dubbio, la ragione sarebbe potuta essere messa in dubbio per prima. L'autorità dei sacerdoti di assolvere, l'autorità dei papi di definire l'autorità, persino quella degli inquisitori di terrorizzare: queste erano tutte soltanto oscure difese erette attorno a un'unica autorità centrale, più indimostrabile, più soprannaturale di tutte — l'autorità dell'uomo di pensare. Ora sappiamo che è così; non abbiamo scusa per non saperlo. Poiché possiamo udire lo scetticismo che si abbatte fragorosamente attraverso l'antica cerchia delle autorità, e nel medesimo istante possiamo vedere la ragione oscillare sul suo trono. Nella misura in cui la religione se ne va, la ragione se ne va. Poiché sono entrambe della stessa specie, primaria e autoritativa. Sono entrambe metodi di prova che non possono essere essi stessi provati. E nell'atto di distruggere l'idea dell'autorità divina abbiamo in gran parte distrutto l'idea di quell'autorità umana per cui eseguiamo una divisione. Con uno strattone lungo e ostinato abbiamo tentato di strappare la mitra all'uomo pontificale; e la sua testa è venuta via insieme a essa.
 
-     Perché questo non venga tacciato di affermazione avventata, è forse opportuno, benché noioso, passare rapidamente in rassegna le principali mode di pensiero moderne che hanno questo effetto di arrestare il pensiero stesso. Il materialismo e la concezione di ogni cosa come illusione personale hanno un qualche effetto del genere; poiché se la mente è meccanica, il pensiero non può essere granché entusiasmante, e se il cosmo è irreale, non c'è nulla a cui pensare. Ma in questi casi l'effetto è indiretto e incerto. In alcuni casi è diretto e chiaro; segnatamente nel caso di ciò che comunemente si chiama evoluzione.
+Perché questo non venga tacciato di affermazione avventata, è forse opportuno, benché noioso, passare rapidamente in rassegna le principali mode di pensiero moderne che hanno questo effetto di arrestare il pensiero stesso. Il materialismo e la concezione di ogni cosa come illusione personale hanno un qualche effetto del genere; poiché se la mente è meccanica, il pensiero non può essere granché entusiasmante, e se il cosmo è irreale, non c'è nulla a cui pensare. Ma in questi casi l'effetto è indiretto e incerto. In alcuni casi è diretto e chiaro; segnatamente nel caso di ciò che comunemente si chiama evoluzione.
 
-     L'evoluzione è un buon esempio di quell'intelligenza moderna che, se distrugge qualcosa, distrugge se stessa. L'evoluzione è o un'innocente descrizione scientifica di come certe cose terrene abbiano avuto origine; oppure, se è qualcosa di più di questo, è un attacco al pensiero stesso. Se l'evoluzione distrugge qualcosa, non distrugge la religione ma il razionalismo. Se l'evoluzione significa semplicemente che una cosa positiva chiamata scimmia si è mutata assai lentamente in una cosa positiva chiamata uomo, allora è priva di pungiglione anche per l'ortodosso più rigoroso; poiché un Dio personale potrebbe benissimo fare le cose lentamente come rapidamente, specie se, come il Dio cristiano, fosse fuori dal tempo. Ma se significa qualcosa di più, significa che non esiste nessuna scimmia da mutare, né alcun uomo in cui essa possa mutarsi. Significa che non esiste una cosa tale quale una cosa. Nel migliore dei casi, esiste una sola cosa, ed è un flusso di tutto e di qualsiasi cosa. Questo è un attacco non alla fede, ma alla mente; non puoi pensare se non ci sono cose a cui pensare. Non puoi pensare se non sei separato dall'oggetto del pensiero. Cartesio disse: «Penso, dunque sono». L'evoluzionista filosofico rovescia e nega l'epigramma. Dice: «Non sono; dunque non posso pensare».
+L'evoluzione è un buon esempio di quell'intelligenza moderna che, se distrugge qualcosa, distrugge se stessa. L'evoluzione è o un'innocente descrizione scientifica di come certe cose terrene abbiano avuto origine; oppure, se è qualcosa di più di questo, è un attacco al pensiero stesso. Se l'evoluzione distrugge qualcosa, non distrugge la religione ma il razionalismo. Se l'evoluzione significa semplicemente che una cosa positiva chiamata scimmia si è mutata assai lentamente in una cosa positiva chiamata uomo, allora è priva di pungiglione anche per l'ortodosso più rigoroso; poiché un Dio personale potrebbe benissimo fare le cose lentamente come rapidamente, specie se, come il Dio cristiano, fosse fuori dal tempo. Ma se significa qualcosa di più, significa che non esiste nessuna scimmia da mutare, né alcun uomo in cui essa possa mutarsi. Significa che non esiste una cosa tale quale una cosa. Nel migliore dei casi, esiste una sola cosa, ed è un flusso di tutto e di qualsiasi cosa. Questo è un attacco non alla fede, ma alla mente; non puoi pensare se non ci sono cose a cui pensare. Non puoi pensare se non sei separato dall'oggetto del pensiero. Cartesio disse: «Penso, dunque sono». L'evoluzionista filosofico rovescia e nega l'epigramma. Dice: «Non sono; dunque non posso pensare».
 
-     C'è poi l'attacco opposto al pensiero: quello sostenuto dal signor H. G. Wells quando insiste sul fatto che ogni singola cosa è «unica», e che non esistono affatto categorie. Anche questo è puramente distruttivo. Pensare significa collegare le cose, e si arresta se esse non possono essere collegate. È appena il caso di dire che questo scetticismo, vietando il pensiero, vieta necessariamente la parola; un uomo non può aprir bocca senza contraddirlo. Così, quando il signor Wells dice (come fece da qualche parte): «Tutte le sedie sono del tutto diverse», egli non pronuncia soltanto un'inesattezza, ma una contraddizione nei termini. Se tutte le sedie fossero del tutto diverse, non potresti chiamarle «tutte le sedie».
+C'è poi l'attacco opposto al pensiero: quello sostenuto dal signor H. G. Wells quando insiste sul fatto che ogni singola cosa è «unica», e che non esistono affatto categorie. Anche questo è puramente distruttivo. Pensare significa collegare le cose, e si arresta se esse non possono essere collegate. È appena il caso di dire che questo scetticismo, vietando il pensiero, vieta necessariamente la parola; un uomo non può aprir bocca senza contraddirlo. Così, quando il signor Wells dice (come fece da qualche parte): «Tutte le sedie sono del tutto diverse», egli non pronuncia soltanto un'inesattezza, ma una contraddizione nei termini. Se tutte le sedie fossero del tutto diverse, non potresti chiamarle «tutte le sedie».
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_03" data-title="Orthodoxy — Iii The Suicide Of Thought (part 3)" data-chapter="Story 05 Iii The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_03" data-title="Orthodoxy — III The Suicide Of Thought (part 3)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iii The Suicide Of Thought (part 3)
 
-     Akin to these is the false theory of progress, which maintains
+Akin to these is the false theory of progress, which maintains
 that we alter the test instead of trying to pass the test.  We often
 hear it said, for instance, "What is right in one age is wrong
 in another."  This is quite reasonable, if it means that there is
@@ -7242,7 +7231,7 @@ people has succeeded more in being miserable than another
 succeeded in being happy.  It would be like discussing whether
 Milton was more puritanical than a pig is fat.
 
-     It is true that a man (a silly man) might make change
+It is true that a man (a silly man) might make change
 itself his object or ideal.  But as an ideal, change itself
 becomes unchangeable.  If the change-worshipper wishes to
 estimate his own progress, he must be sternly loyal to the ideal
@@ -7252,14 +7241,14 @@ that when Tennyson, in a wild and rather weak manner, welcomed
 the idea of infinite alteration in society, he instinctively
 took a metaphor which suggests an imprisoned tedium.  He wrote--
 
-     "Let the great world spin for ever down the ringing grooves
-          of change."
+"Let the great world spin for ever down the ringing grooves
+of change."
 
 He thought of change itself as an unchangeable groove; and so it
 is.  Change is about the narrowest and hardest groove that a man
 can get into.
 
-     The main point here, however, is that this idea of a
+The main point here, however, is that this idea of a
 fundamental alteration in the standard is one of the things that
 make thought about the past or future simply impossible. The theory
 of a complete change of standards in human history does not
@@ -7267,7 +7256,7 @@ merely deprive us of the pleasure of honouring our fathers;
 it deprives us even of the more modern and aristocratic pleasure
 of despising them.
 
-     This bald summary of the thought-destroying forces of our
+This bald summary of the thought-destroying forces of our
 time would not be complete without some reference to pragmatism;
 for though I have here used and should everywhere defend the
 pragmatist method as a preliminary guide to truth, there is an
@@ -7289,7 +7278,7 @@ nonsense of the human sense of actual choice.  The pragmatist,
 who professes to be specially human, makes nonsense of the human
 sense of actual fact.
 
-     To sum up our contention so far, we may say that the most
+To sum up our contention so far, we may say that the most
 characteristic current philosophies have not only a touch of mania,
 but a touch of suicidal mania.  The mere questioner has knocked
 his head against the limits of human thought; and cracked it. 
@@ -7326,7 +7315,7 @@ questions in the darkest corners and on the wildest peaks.  We
 have found all the questions that can be found.  It is time we
 gave up looking for questions and began looking for answers.
 
-     But one more word must be added.  At the beginning of this
+But one more word must be added.  At the beginning of this
 preliminary negative sketch I said that our mental ruin has
 been wrought by wild reason, not by wild imagination.  A man
 does not go mad because he makes a statue a mile high, but he
@@ -7372,28 +7361,27 @@ they can escape.
 
 Affine a queste è la falsa teoria del progresso, che sostiene che noi alteriamo la prova invece di cercare di superarla. Spesso sentiamo dire, per esempio: «Ciò che è giusto in un'epoca è sbagliato in un'altra». Questo è del tutto ragionevole, se significa che esiste un fine fisso, e che certi metodi lo raggiungono in certi tempi e non in altri. Se le donne, poniamo, desiderano essere eleganti, può darsi che in un'epoca migliorino ingrassando e in un'altra dimagrendo. Ma non puoi dire che migliorano cessando di voler essere eleganti e cominciando a voler essere oblunghe. Se lo standard cambia, come può esserci miglioramento, che presuppone uno standard? Nietzsche mise in circolazione l'idea insensata che gli uomini un tempo cercassero come bene ciò che ora chiamiamo male; se così fosse, non potremmo parlare di superarli o persino di restare al di sotto di loro. Come puoi raggiungere Tizio se cammini nella direzione opposta? Non puoi discutere se un popolo sia riuscito meglio a essere infelice di quanto un altro sia riuscito a essere felice. Sarebbe come discutere se Milton fosse più puritano di quanto un maiale sia grasso.
 
-     È vero che un uomo (un uomo sciocco) potrebbe fare del cambiamento stesso il proprio scopo o ideale. Ma come ideale, il cambiamento stesso diventa immutabile. Se l'adoratore del cambiamento vuole valutare il proprio progresso, deve essere severamente fedele all'ideale del cambiamento; non deve mettersi a civettare allegramente con l'ideale della monotonia. Il progresso stesso non può progredire. Vale la pena osservare, di sfuggita, che quando Tennyson, in maniera sfrenata e piuttosto fiacca, salutò l'idea di un'infinita alterazione della società, prese istintivamente una metafora che suggerisce un tedio imprigionato. Egli scrisse —
+È vero che un uomo (un uomo sciocco) potrebbe fare del cambiamento stesso il proprio scopo o ideale. Ma come ideale, il cambiamento stesso diventa immutabile. Se l'adoratore del cambiamento vuole valutare il proprio progresso, deve essere severamente fedele all'ideale del cambiamento; non deve mettersi a civettare allegramente con l'ideale della monotonia. Il progresso stesso non può progredire. Vale la pena osservare, di sfuggita, che quando Tennyson, in maniera sfrenata e piuttosto fiacca, salutò l'idea di un'infinita alterazione della società, prese istintivamente una metafora che suggerisce un tedio imprigionato. Egli scrisse —
 
-     «Lasciate che il gran mondo rotei in eterno lungo i risonanti solchi
-          del cambiamento».
+«Lasciate che il gran mondo rotei in eterno lungo i risonanti solchi
+del cambiamento».
 
 Egli pensava al cambiamento stesso come a un solco immutabile; e così è. Il cambiamento è forse il solco più stretto e duro in cui un uomo possa cacciarsi.
 
-     Il punto principale, qui, è tuttavia che questa idea di un'alterazione fondamentale dello standard è una di quelle cose che rendono semplicemente impossibile pensare al passato o al futuro. La teoria di un completo mutamento degli standard nella storia umana non ci priva soltanto del piacere di onorare i nostri padri; ci priva persino del piacere più moderno e aristocratico di disprezzarli.
+Il punto principale, qui, è tuttavia che questa idea di un'alterazione fondamentale dello standard è una di quelle cose che rendono semplicemente impossibile pensare al passato o al futuro. La teoria di un completo mutamento degli standard nella storia umana non ci priva soltanto del piacere di onorare i nostri padri; ci priva persino del piacere più moderno e aristocratico di disprezzarli.
 
-     Questo scarno resoconto delle forze distruttrici del pensiero del nostro tempo non sarebbe completo senza qualche riferimento al pragmatismo; poiché, sebbene qui io abbia usato e dovunque difenderei il metodo pragmatista come guida preliminare alla verità, esiste un'applicazione estrema di esso che comporta l'assenza di qualsiasi verità. Il mio pensiero può essere espresso brevemente così. Concordo con i pragmatisti sul fatto che l'apparente verità oggettiva non è tutta la questione; che c'è un bisogno autoritativo di credere alle cose necessarie alla mente umana. Ma dico che una di quelle necessità è precisamente la credenza nella verità oggettiva. Il pragmatista dice all'uomo di pensare ciò che deve pensare e di non curarsi dell'Assoluto. Ma proprio una delle cose che egli deve pensare è l'Assoluto. Questa filosofia, in effetti, è una specie di paradosso verbale. Il pragmatismo è una questione di bisogni umani; e uno dei primi bisogni umani è quello di essere qualcosa di più di un pragmatista. Il pragmatismo estremo è disumano tanto quanto il determinismo che esso attacca con tanta forza. Il determinista (che, per rendergli giustizia, non pretende di essere un essere umano) rende assurdo il senso umano della scelta reale. Il pragmatista, che professa di essere specialmente umano, rende assurdo il senso umano del fatto reale.
+Questo scarno resoconto delle forze distruttrici del pensiero del nostro tempo non sarebbe completo senza qualche riferimento al pragmatismo; poiché, sebbene qui io abbia usato e dovunque difenderei il metodo pragmatista come guida preliminare alla verità, esiste un'applicazione estrema di esso che comporta l'assenza di qualsiasi verità. Il mio pensiero può essere espresso brevemente così. Concordo con i pragmatisti sul fatto che l'apparente verità oggettiva non è tutta la questione; che c'è un bisogno autoritativo di credere alle cose necessarie alla mente umana. Ma dico che una di quelle necessità è precisamente la credenza nella verità oggettiva. Il pragmatista dice all'uomo di pensare ciò che deve pensare e di non curarsi dell'Assoluto. Ma proprio una delle cose che egli deve pensare è l'Assoluto. Questa filosofia, in effetti, è una specie di paradosso verbale. Il pragmatismo è una questione di bisogni umani; e uno dei primi bisogni umani è quello di essere qualcosa di più di un pragmatista. Il pragmatismo estremo è disumano tanto quanto il determinismo che esso attacca con tanta forza. Il determinista (che, per rendergli giustizia, non pretende di essere un essere umano) rende assurdo il senso umano della scelta reale. Il pragmatista, che professa di essere specialmente umano, rende assurdo il senso umano del fatto reale.
 
-     Per riassumere finora la nostra tesi, possiamo dire che le filosofie correnti più caratteristiche hanno non solo un tocco di mania, ma un tocco di mania suicida. Il puro dubbioso ha sbattuto la testa contro i limiti del pensiero umano; e se l'è spaccata. È questo che rende tanto vani gli ammonimenti degli ortodossi e le vanterie degli avanzati sulla pericolosa fanciullezza del libero pensiero. Ciò che abbiamo davanti agli occhi non è la fanciullezza del libero pensiero; è la vecchiaia e la dissoluzione finale del libero pensiero. È inutile che vescovi e pii pezzi grossi discutano quali cose spaventose accadranno se lo scetticismo sfrenato seguirà il suo corso. Lo ha già seguito. È inutile che eloquenti atei parlino delle grandi verità che verranno rivelate una volta che vedremo cominciare il libero pensiero. Lo abbiamo visto finire. Non ha più domande da porre; ha messo in dubbio se stesso. Non puoi evocare visione più sfrenata di una città in cui gli uomini si chiedono se abbiano un qualche io. Non puoi immaginare mondo più scettico di quello in cui gli uomini dubitano che esista un mondo. Esso avrebbe certamente raggiunto la sua bancarotta più rapidamente e nettamente se non fosse stato debolmente ostacolato dall'applicazione di indifendibili leggi contro la blasfemia o dall'assurda pretesa che l'Inghilterra moderna sia cristiana. Ma la bancarotta l'avrebbe raggiunta comunque. Gli atei militanti sono tuttora ingiustamente perseguitati; ma piuttosto perché sono una vecchia minoranza che perché ne sono una nuova. Il libero pensiero ha esaurito la propria libertà. È stanco del proprio successo. Se qualche entusiasta libero pensatore ora saluta la libertà filosofica come l'alba, è soltanto come l'uomo di Mark Twain che uscì avvolto nelle coperte per veder sorgere il sole e giunse giusto in tempo per vederlo tramontare. Se qualche spaventato curato dice ancora che sarà terribile se le tenebre del libero pensiero si diffonderanno, possiamo soltanto rispondergli con le alte e potenti parole del signor Belloc: «Non lasciarti turbare, ti scongiuro, dall'accrescersi di forze già in dissoluzione. Hai scambiato l'ora della notte: è già mattino». Non ci restano più domande da porre. Abbiamo cercato domande negli angoli più oscuri e sulle vette più selvagge. Abbiamo trovato tutte le domande che si possono trovare. È tempo che smettiamo di cercare domande e cominciamo a cercare risposte.
+Per riassumere finora la nostra tesi, possiamo dire che le filosofie correnti più caratteristiche hanno non solo un tocco di mania, ma un tocco di mania suicida. Il puro dubbioso ha sbattuto la testa contro i limiti del pensiero umano; e se l'è spaccata. È questo che rende tanto vani gli ammonimenti degli ortodossi e le vanterie degli avanzati sulla pericolosa fanciullezza del libero pensiero. Ciò che abbiamo davanti agli occhi non è la fanciullezza del libero pensiero; è la vecchiaia e la dissoluzione finale del libero pensiero. È inutile che vescovi e pii pezzi grossi discutano quali cose spaventose accadranno se lo scetticismo sfrenato seguirà il suo corso. Lo ha già seguito. È inutile che eloquenti atei parlino delle grandi verità che verranno rivelate una volta che vedremo cominciare il libero pensiero. Lo abbiamo visto finire. Non ha più domande da porre; ha messo in dubbio se stesso. Non puoi evocare visione più sfrenata di una città in cui gli uomini si chiedono se abbiano un qualche io. Non puoi immaginare mondo più scettico di quello in cui gli uomini dubitano che esista un mondo. Esso avrebbe certamente raggiunto la sua bancarotta più rapidamente e nettamente se non fosse stato debolmente ostacolato dall'applicazione di indifendibili leggi contro la blasfemia o dall'assurda pretesa che l'Inghilterra moderna sia cristiana. Ma la bancarotta l'avrebbe raggiunta comunque. Gli atei militanti sono tuttora ingiustamente perseguitati; ma piuttosto perché sono una vecchia minoranza che perché ne sono una nuova. Il libero pensiero ha esaurito la propria libertà. È stanco del proprio successo. Se qualche entusiasta libero pensatore ora saluta la libertà filosofica come l'alba, è soltanto come l'uomo di Mark Twain che uscì avvolto nelle coperte per veder sorgere il sole e giunse giusto in tempo per vederlo tramontare. Se qualche spaventato curato dice ancora che sarà terribile se le tenebre del libero pensiero si diffonderanno, possiamo soltanto rispondergli con le alte e potenti parole del signor Belloc: «Non lasciarti turbare, ti scongiuro, dall'accrescersi di forze già in dissoluzione. Hai scambiato l'ora della notte: è già mattino». Non ci restano più domande da porre. Abbiamo cercato domande negli angoli più oscuri e sulle vette più selvagge. Abbiamo trovato tutte le domande che si possono trovare. È tempo che smettiamo di cercare domande e cominciamo a cercare risposte.
 
-     Ma bisogna aggiungere ancora una parola. All'inizio di questo preliminare schizzo negativo dissi che la nostra rovina mentale è stata provocata dalla ragione sfrenata, non dall'immaginazione sfrenata. Un uomo non impazzisce perché fa una statua alta un miglio, ma può impazzire calcolandola pollice quadrato per pollice quadrato. Ora, una scuola di pensatori ha visto questo e vi si è avventata come su un mezzo per rinnovare la salute pagana del mondo. Vedono che la ragione distrugge; ma la Volontà, dicono, crea. L'autorità ultima, dicono, sta nella volontà, non nella ragione. Il punto supremo non è perché un uomo esiga una cosa, ma il fatto che egli la esiga. Non ho spazio per tracciare o esporre questa filosofia della Volontà. Venne, suppongo, attraverso Nietzsche, che predicava qualcosa chiamato egoismo. Il che, in effetti, era abbastanza ingenuo; poiché Nietzsche negava l'egoismo semplicemente predicandolo. Predicare qualcosa significa regalarlo. Prima l'egoista chiama la vita una guerra senza pietà, e poi si dà la massima cura possibile per addestrare i suoi nemici alla guerra. Predicare l'egoismo significa praticare l'altruismo. Ma comunque sia cominciata, questa concezione è abbastanza comune nella letteratura corrente. La principale difesa di questi pensatori è che non sono pensatori; sono facitori. Dicono che la scelta è essa stessa la cosa divina. Così il signor Bernard Shaw ha attaccato l'antica idea che le azioni degli uomini debbano essere giudicate secondo lo standard del desiderio di felicità. Egli dice che un uomo non agisce per la propria felicità, ma per la propria volontà. Non dice: «La marmellata mi renderà felice», ma «Voglio la marmellata». E in tutto ciò altri lo seguono con entusiasmo ancora maggiore. Il signor John Davidson, poeta notevole, ne è così appassionatamente eccitato da essere costretto a scrivere in prosa. Pubblica una breve pièce con parecchie lunghe prefazioni. Ciò è abbastanza naturale nel caso del signor Shaw, poiché tutte le sue pièce sono prefazioni: il signor Shaw è (sospetto) l'unico uomo sulla terra che non abbia mai scritto una sola poesia. Ma che il signor Davidson (che sa scrivere poesia eccellente) scriva invece laboriosa metafisica in difesa di questa dottrina della volontà dimostra pur sempre che la dottrina della volontà ha fatto presa sugli uomini. Persino il signor H. G. Wells ne ha parlato per metà il linguaggio; dicendo che si dovrebbero valutare le azioni non come un pensatore, ma come un artista, dicendo: «Sento che questa curva è giusta», oppure «quella linea dovrà andare così». Sono tutti eccitati; e ne hanno ben donde. Poiché grazie a questa dottrina dell'autorità divina della volontà credono di poter fare irruzione fuori dalla fortezza condannata del razionalismo. Credono di potersi mettere in salvo.
+Ma bisogna aggiungere ancora una parola. All'inizio di questo preliminare schizzo negativo dissi che la nostra rovina mentale è stata provocata dalla ragione sfrenata, non dall'immaginazione sfrenata. Un uomo non impazzisce perché fa una statua alta un miglio, ma può impazzire calcolandola pollice quadrato per pollice quadrato. Ora, una scuola di pensatori ha visto questo e vi si è avventata come su un mezzo per rinnovare la salute pagana del mondo. Vedono che la ragione distrugge; ma la Volontà, dicono, crea. L'autorità ultima, dicono, sta nella volontà, non nella ragione. Il punto supremo non è perché un uomo esiga una cosa, ma il fatto che egli la esiga. Non ho spazio per tracciare o esporre questa filosofia della Volontà. Venne, suppongo, attraverso Nietzsche, che predicava qualcosa chiamato egoismo. Il che, in effetti, era abbastanza ingenuo; poiché Nietzsche negava l'egoismo semplicemente predicandolo. Predicare qualcosa significa regalarlo. Prima l'egoista chiama la vita una guerra senza pietà, e poi si dà la massima cura possibile per addestrare i suoi nemici alla guerra. Predicare l'egoismo significa praticare l'altruismo. Ma comunque sia cominciata, questa concezione è abbastanza comune nella letteratura corrente. La principale difesa di questi pensatori è che non sono pensatori; sono facitori. Dicono che la scelta è essa stessa la cosa divina. Così il signor Bernard Shaw ha attaccato l'antica idea che le azioni degli uomini debbano essere giudicate secondo lo standard del desiderio di felicità. Egli dice che un uomo non agisce per la propria felicità, ma per la propria volontà. Non dice: «La marmellata mi renderà felice», ma «Voglio la marmellata». E in tutto ciò altri lo seguono con entusiasmo ancora maggiore. Il signor John Davidson, poeta notevole, ne è così appassionatamente eccitato da essere costretto a scrivere in prosa. Pubblica una breve pièce con parecchie lunghe prefazioni. Ciò è abbastanza naturale nel caso del signor Shaw, poiché tutte le sue pièce sono prefazioni: il signor Shaw è (sospetto) l'unico uomo sulla terra che non abbia mai scritto una sola poesia. Ma che il signor Davidson (che sa scrivere poesia eccellente) scriva invece laboriosa metafisica in difesa di questa dottrina della volontà dimostra pur sempre che la dottrina della volontà ha fatto presa sugli uomini. Persino il signor H. G. Wells ne ha parlato per metà il linguaggio; dicendo che si dovrebbero valutare le azioni non come un pensatore, ma come un artista, dicendo: «Sento che questa curva è giusta», oppure «quella linea dovrà andare così». Sono tutti eccitati; e ne hanno ben donde. Poiché grazie a questa dottrina dell'autorità divina della volontà credono di poter fare irruzione fuori dalla fortezza condannata del razionalismo. Credono di potersi mettere in salvo.
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_04" data-title="Orthodoxy — Iii The Suicide Of Thought (part 4)" data-chapter="Story 05 Iii The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_04" data-title="Orthodoxy — III The Suicide Of Thought (part 4)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iii The Suicide Of Thought (part 4)
 
-     But they cannot escape.  This pure praise of volition ends
+But they cannot escape.  This pure praise of volition ends
 in the same break up and blank as the mere pursuit of logic.
 Exactly as complete free thought involves the doubting of
 thought itself, so the acceptation of mere "willing" really
@@ -7413,7 +7401,7 @@ choose one course as better than another.  And yet choosing one
 course as better than another is the very definition of the will
 you are praising.
 
-     The worship of will is the negation of will.  To admire
+The worship of will is the negation of will.  To admire
 mere choice is to refuse to choose.  If Mr. Bernard Shaw comes
 up to me and says, "Will something," that is tantamount to
 saying, "I do not mind what you will," and that is tantamount
@@ -7427,7 +7415,7 @@ He rebels against the law and tells us to will something or anything.
 But we have willed something.  We have willed the law against
 which he rebels.
 
-     All the will-worshippers, from Nietzsche to Mr. Davidson,
+All the will-worshippers, from Nietzsche to Mr. Davidson,
 are really quite empty of volition.  They cannot will, they can
 hardly wish.  And if any one wants a proof of this, it can be found
 quite easily.  It can be found in this fact:  that they always talk
@@ -7471,7 +7459,7 @@ they constitute the THING he is doing.  The painter is glad
 that the canvas is flat.  The sculptor is glad that the clay is
 colourless.
 
-     In case the point is not clear, an historic example may illustrate it. 
+In case the point is not clear, an historic example may illustrate it. 
 The French Revolution was really an heroic and decisive thing,
 because the Jacobins willed something definite and limited. 
 They desired the freedoms of democracy, but also all the vetoes
@@ -7521,19 +7509,18 @@ lost his right to rebel against anything.
 
 Ma non possono mettersi in salvo. Questa pura lode della volizione finisce nella stessa disgregazione e nello stesso vuoto della semplice ricerca della logica. Esattamente come il libero pensiero completo comporta il dubbio del pensiero stesso, così l'accettazione del puro «volere» paralizza in realtà la volontà. Il signor Bernard Shaw non ha colto la reale differenza tra l'antica prova utilitaristica del piacere (goffa, s'intende, e facilmente travisata) e quella che egli propone. La reale differenza tra la prova della felicità e la prova della volontà è semplicemente che la prova della felicità è una prova e l'altra no. Puoi discutere se l'atto di un uomo che si getta da una rupe fosse diretto verso la felicità; non puoi discutere se derivasse dalla volontà. Naturalmente ne derivava. Puoi lodare un'azione dicendo che è calcolata per procurare piacere o dolore, per scoprire la verità o per salvare l'anima. Ma non puoi lodare un'azione perché mostra volontà; poiché dire questo equivale semplicemente a dire che è un'azione. Con questa lode della volontà non puoi realmente scegliere un corso come migliore di un altro. Eppure scegliere un corso come migliore di un altro è la definizione stessa della volontà che stai lodando.
 
-     Il culto della volontà è la negazione della volontà. Ammirare la pura scelta è rifiutarsi di scegliere. Se il signor Bernard Shaw mi si accosta e dice: «Vuoi qualcosa», ciò equivale a dire: «Non m'importa cosa tu voglia», e ciò equivale a dire: «Non ho alcuna volontà in proposito». Non puoi ammirare la volontà in generale, perché l'essenza della volontà è che è particolare. Un brillante anarchico come il signor John Davidson prova irritazione contro la morale comune, e perciò invoca la volontà — la volontà di qualsiasi cosa. Vuole soltanto che l'umanità voglia qualcosa. Ma l'umanità vuole davvero qualcosa. Vuole la morale comune. Egli si ribella alla legge e ci dice di volere qualcosa o qualsiasi cosa. Ma noi abbiamo voluto qualcosa. Abbiamo voluto la legge contro cui egli si ribella.
+Il culto della volontà è la negazione della volontà. Ammirare la pura scelta è rifiutarsi di scegliere. Se il signor Bernard Shaw mi si accosta e dice: «Vuoi qualcosa», ciò equivale a dire: «Non m'importa cosa tu voglia», e ciò equivale a dire: «Non ho alcuna volontà in proposito». Non puoi ammirare la volontà in generale, perché l'essenza della volontà è che è particolare. Un brillante anarchico come il signor John Davidson prova irritazione contro la morale comune, e perciò invoca la volontà — la volontà di qualsiasi cosa. Vuole soltanto che l'umanità voglia qualcosa. Ma l'umanità vuole davvero qualcosa. Vuole la morale comune. Egli si ribella alla legge e ci dice di volere qualcosa o qualsiasi cosa. Ma noi abbiamo voluto qualcosa. Abbiamo voluto la legge contro cui egli si ribella.
 
-     Tutti gli adoratori della volontà, da Nietzsche al signor Davidson, sono in realtà del tutto privi di volizione. Non sanno volere, sanno a malapena desiderare. E se qualcuno vuole una prova di questo, la si può trovare assai facilmente. La si può trovare in questo fatto: che parlano sempre della volontà come di qualcosa che si espande e prorompe. Ma è tutto il contrario. Ogni atto di volontà è un atto di autolimitazione. Desiderare l'azione è desiderare la limitazione. In quel senso ogni atto è un atto di sacrificio di sé. Quando scegli una cosa qualunque, rifiuti tutto il resto. Quell'obiezione, che gli uomini di questa scuola solevano muovere all'atto del matrimonio, è in realtà un'obiezione a ogni atto. Ogni atto è una selezione e un'esclusione irrevocabili. Proprio come quando sposi una donna rinunci a tutte le altre, così quando imbocchi un corso d'azione rinunci a tutti gli altri corsi. Se diventi re d'Inghilterra, rinunci alla carica di sagrestano a Brompton. Se vai a Roma, sacrifichi una vita ricca e suggestiva a Wimbledon. È l'esistenza di questo lato negativo o limitante della volontà a rendere gran parte dei discorsi degli anarchici adoratori della volontà poco più che insensata. Per esempio, il signor John Davidson ci dice di non aver nulla a che fare con il «Non devi»; ma è certamente ovvio che il «Non devi» è soltanto uno dei necessari corollari dell'«Io voglio». «Andrò alla parata del Lord Mayor, e tu non devi fermarmi». L'anarchismo ci esorta a essere audaci artisti creativi, e a non curarci di leggi o limiti. Ma è impossibile essere un artista e non curarsi di leggi e limiti. L'arte è limitazione; l'essenza di ogni quadro è la cornice. Se disegni una giraffa, devi disegnarla col collo lungo. Se, nel tuo audace modo creativo, ti ritieni libero di disegnare una giraffa col collo corto, scoprirai in realtà che non sei libero di disegnare una giraffa. Nell'istante in cui metti piede nel mondo dei fatti, metti piede in un mondo di limiti. Puoi liberare le cose da leggi estranee o accidentali, ma non dalle leggi della loro stessa natura. Puoi, se vuoi, liberare una tigre dalle sbarre; ma non liberarla dalle sue strisce. Non liberare un cammello dal peso della sua gobba: potresti liberarlo dall'essere un cammello. Non andare in giro da demagogo, incoraggiando i triangoli a evadere dalla prigione dei loro tre lati. Se un triangolo evade dai suoi tre lati, la sua vita giunge a una fine lamentevole. Qualcuno scrisse un'opera intitolata «The Loves of the Triangles»; non l'ho mai letta, ma sono certo che se i triangoli furono mai amati, furono amati per essere triangolari. Questo è certamente il caso di ogni creazione artistica, che è per certi versi l'esempio più decisivo di pura volontà. L'artista ama le proprie limitazioni: esse costituiscono la cosa che egli sta facendo. Il pittore è lieto che la tela sia piatta. Lo scultore è lieto che l'argilla sia incolore.
+Tutti gli adoratori della volontà, da Nietzsche al signor Davidson, sono in realtà del tutto privi di volizione. Non sanno volere, sanno a malapena desiderare. E se qualcuno vuole una prova di questo, la si può trovare assai facilmente. La si può trovare in questo fatto: che parlano sempre della volontà come di qualcosa che si espande e prorompe. Ma è tutto il contrario. Ogni atto di volontà è un atto di autolimitazione. Desiderare l'azione è desiderare la limitazione. In quel senso ogni atto è un atto di sacrificio di sé. Quando scegli una cosa qualunque, rifiuti tutto il resto. Quell'obiezione, che gli uomini di questa scuola solevano muovere all'atto del matrimonio, è in realtà un'obiezione a ogni atto. Ogni atto è una selezione e un'esclusione irrevocabili. Proprio come quando sposi una donna rinunci a tutte le altre, così quando imbocchi un corso d'azione rinunci a tutti gli altri corsi. Se diventi re d'Inghilterra, rinunci alla carica di sagrestano a Brompton. Se vai a Roma, sacrifichi una vita ricca e suggestiva a Wimbledon. È l'esistenza di questo lato negativo o limitante della volontà a rendere gran parte dei discorsi degli anarchici adoratori della volontà poco più che insensata. Per esempio, il signor John Davidson ci dice di non aver nulla a che fare con il «Non devi»; ma è certamente ovvio che il «Non devi» è soltanto uno dei necessari corollari dell'«Io voglio». «Andrò alla parata del Lord Mayor, e tu non devi fermarmi». L'anarchismo ci esorta a essere audaci artisti creativi, e a non curarci di leggi o limiti. Ma è impossibile essere un artista e non curarsi di leggi e limiti. L'arte è limitazione; l'essenza di ogni quadro è la cornice. Se disegni una giraffa, devi disegnarla col collo lungo. Se, nel tuo audace modo creativo, ti ritieni libero di disegnare una giraffa col collo corto, scoprirai in realtà che non sei libero di disegnare una giraffa. Nell'istante in cui metti piede nel mondo dei fatti, metti piede in un mondo di limiti. Puoi liberare le cose da leggi estranee o accidentali, ma non dalle leggi della loro stessa natura. Puoi, se vuoi, liberare una tigre dalle sbarre; ma non liberarla dalle sue strisce. Non liberare un cammello dal peso della sua gobba: potresti liberarlo dall'essere un cammello. Non andare in giro da demagogo, incoraggiando i triangoli a evadere dalla prigione dei loro tre lati. Se un triangolo evade dai suoi tre lati, la sua vita giunge a una fine lamentevole. Qualcuno scrisse un'opera intitolata «The Loves of the Triangles»; non l'ho mai letta, ma sono certo che se i triangoli furono mai amati, furono amati per essere triangolari. Questo è certamente il caso di ogni creazione artistica, che è per certi versi l'esempio più decisivo di pura volontà. L'artista ama le proprie limitazioni: esse costituiscono la cosa che egli sta facendo. Il pittore è lieto che la tela sia piatta. Lo scultore è lieto che l'argilla sia incolore.
 
-     Nel caso il punto non fosse chiaro, un esempio storico può illustrarlo. La Rivoluzione francese fu davvero una cosa eroica e decisiva, perché i giacobini vollero qualcosa di definito e limitato. Desideravano le libertà della democrazia, ma anche tutti i veti della democrazia. Volevano avere i voti e non avere i titoli. Il repubblicanesimo ebbe un lato ascetico in Franklin o Robespierre così come un lato espansivo in Danton o Wilkes. Perciò hanno creato qualcosa dotato di sostanza e forma solide, la quadrata eguaglianza sociale e la ricchezza contadina della Francia. Ma da allora la mente rivoluzionaria o speculativa d'Europa si è indebolita ritraendosi da ogni proposta a causa dei limiti di quella proposta. Il liberalismo è stato degradato in liberalità. Gli uomini hanno tentato di trasformare «rivoluzionare» da verbo transitivo a verbo intransitivo. Il giacobino sapeva dirti non solo il sistema contro cui si sarebbe ribellato, ma (ciò che più contava) il sistema contro cui non si sarebbe ribellato, il sistema di cui si sarebbe fidato. Ma il nuovo ribelle è uno Scettico, e non si fida interamente di nulla. Non ha alcuna lealtà; perciò non può mai essere davvero un rivoluzionario. E il fatto che dubiti di tutto gli si mette realmente di traverso quando vuole denunciare qualcosa. Poiché ogni denuncia implica una qualche dottrina morale; e il rivoluzionario moderno dubita non solo dell'istituzione che denuncia, ma della dottrina in nome della quale la denuncia. Così egli scrive un libro lamentando che l'oppressione imperiale oltraggia la purezza delle donne, e poi scrive un altro libro (sul problema sessuale) in cui l'oltraggia egli stesso. Maledice il Sultano perché le ragazze cristiane perdono la loro verginità, e poi maledice la signora Grundy perché la conservano. Come politico griderà che la guerra è uno spreco di vite, e poi, come filosofo, che tutta la vita è uno spreco di tempo. Un pessimista russo denuncerà un poliziotto per aver ucciso un contadino, e poi dimostrerà con i più elevati principi filosofici che il contadino avrebbe dovuto uccidersi da sé. Un uomo denuncia il matrimonio come una menzogna, e poi denuncia i libertini aristocratici per averlo trattato come una menzogna. Chiama una bandiera un ninnolo, e poi biasima gli oppressori della Polonia o dell'Irlanda perché portano via quel ninnolo. L'uomo di questa scuola va prima a un comizio politico, dove si lamenta che i selvaggi siano trattati come se fossero bestie; poi prende cappello e ombrello e si reca a un convegno scientifico, dove dimostra che essi sono praticamente bestie. In breve, il rivoluzionario moderno, essendo uno scettico infinito, è sempre intento a minare le proprie mine. Nel suo libro di politica attacca gli uomini per aver calpestato la morale; nel suo libro di etica attacca la morale per aver calpestato gli uomini. Perciò l'uomo moderno in rivolta è diventato praticamente inutile a ogni scopo di rivolta. Ribellandosi contro tutto ha perso il diritto di ribellarsi contro alcunché.
+Nel caso il punto non fosse chiaro, un esempio storico può illustrarlo. La Rivoluzione francese fu davvero una cosa eroica e decisiva, perché i giacobini vollero qualcosa di definito e limitato. Desideravano le libertà della democrazia, ma anche tutti i veti della democrazia. Volevano avere i voti e non avere i titoli. Il repubblicanesimo ebbe un lato ascetico in Franklin o Robespierre così come un lato espansivo in Danton o Wilkes. Perciò hanno creato qualcosa dotato di sostanza e forma solide, la quadrata eguaglianza sociale e la ricchezza contadina della Francia. Ma da allora la mente rivoluzionaria o speculativa d'Europa si è indebolita ritraendosi da ogni proposta a causa dei limiti di quella proposta. Il liberalismo è stato degradato in liberalità. Gli uomini hanno tentato di trasformare «rivoluzionare» da verbo transitivo a verbo intransitivo. Il giacobino sapeva dirti non solo il sistema contro cui si sarebbe ribellato, ma (ciò che più contava) il sistema contro cui non si sarebbe ribellato, il sistema di cui si sarebbe fidato. Ma il nuovo ribelle è uno Scettico, e non si fida interamente di nulla. Non ha alcuna lealtà; perciò non può mai essere davvero un rivoluzionario. E il fatto che dubiti di tutto gli si mette realmente di traverso quando vuole denunciare qualcosa. Poiché ogni denuncia implica una qualche dottrina morale; e il rivoluzionario moderno dubita non solo dell'istituzione che denuncia, ma della dottrina in nome della quale la denuncia. Così egli scrive un libro lamentando che l'oppressione imperiale oltraggia la purezza delle donne, e poi scrive un altro libro (sul problema sessuale) in cui l'oltraggia egli stesso. Maledice il Sultano perché le ragazze cristiane perdono la loro verginità, e poi maledice la signora Grundy perché la conservano. Come politico griderà che la guerra è uno spreco di vite, e poi, come filosofo, che tutta la vita è uno spreco di tempo. Un pessimista russo denuncerà un poliziotto per aver ucciso un contadino, e poi dimostrerà con i più elevati principi filosofici che il contadino avrebbe dovuto uccidersi da sé. Un uomo denuncia il matrimonio come una menzogna, e poi denuncia i libertini aristocratici per averlo trattato come una menzogna. Chiama una bandiera un ninnolo, e poi biasima gli oppressori della Polonia o dell'Irlanda perché portano via quel ninnolo. L'uomo di questa scuola va prima a un comizio politico, dove si lamenta che i selvaggi siano trattati come se fossero bestie; poi prende cappello e ombrello e si reca a un convegno scientifico, dove dimostra che essi sono praticamente bestie. In breve, il rivoluzionario moderno, essendo uno scettico infinito, è sempre intento a minare le proprie mine. Nel suo libro di politica attacca gli uomini per aver calpestato la morale; nel suo libro di etica attacca la morale per aver calpestato gli uomini. Perciò l'uomo moderno in rivolta è diventato praticamente inutile a ogni scopo di rivolta. Ribellandosi contro tutto ha perso il diritto di ribellarsi contro alcunché.
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_05" data-title="Orthodoxy — Iii The Suicide Of Thought (part 5)" data-chapter="Story 05 Iii The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_05" data-title="Orthodoxy — III The Suicide Of Thought (part 5)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iii The Suicide Of Thought (part 5)
 
-     It may be added that the same blank and bankruptcy can be
+It may be added that the same blank and bankruptcy can be
 observed in all fierce and terrible types of literature,
 especially in satire.  Satire may be mad and anarchic, but it
 presupposes an admitted superiority in certain things over others;
@@ -7555,7 +7542,7 @@ Nietzscheism would end in imbecility.  Thinking in isolation
 and with pride ends in being an idiot.  Every man who will not
 have softening of the heart must at last have softening of the brain.
 
-     This last attempt to evade intellectualism ends in intellectualism,
+This last attempt to evade intellectualism ends in intellectualism,
 and therefore in death.  The sortie has failed.  The wild worship
 of lawlessness and the materialist worship of law end in the same void. 
 Nietzsche scales staggering mountains, but he turns up ultimately
@@ -7570,7 +7557,7 @@ at the crossroads, and one hates all the roads and the other
 likes all the roads. The result is--well, some things are not
 hard to calculate. They stand at the cross-roads.
 
-     Here I end (thank God) the first and dullest business of
+Here I end (thank God) the first and dullest business of
 this book--the rough review of recent thought.  After this I begin
 to sketch a view of life which may not interest my reader, but which,
 at any rate, interests me.  In front of me, as I close this page,
@@ -7651,19 +7638,18 @@ without seam woven from the top throughout.
 
 Si può aggiungere che la stessa vacuità e bancarotta si possono osservare in tutti i tipi feroci e terribili di letteratura, specie nella satira. La satira può essere folle e anarchica, ma presuppone una riconosciuta superiorità di certe cose su altre; presuppone uno standard. Quando i monelli per strada ridono della pinguedine di qualche illustre giornalista, stanno inconsapevolmente assumendo uno standard di scultura greca. Si appellano all'Apollo di marmo. E la curiosa scomparsa della satira dalla nostra letteratura è un esempio delle cose feroci che sbiadiscono per mancanza di un qualche principio su cui essere feroci. Nietzsche aveva un certo talento naturale per il sarcasmo: sapeva sogghignare, benché non sapesse ridere; ma c'è sempre qualcosa di incorporeo e privo di peso nella sua satira, semplicemente perché non ha dietro di sé alcuna massa di morale comune. Egli è di per sé più assurdo di qualsiasi cosa denunci. Ma, in verità, Nietzsche starà benissimo come tipo dell'intero fallimento della violenza astratta. Il rammollimento del cervello che alla fine lo colse non fu un incidente fisico. Se Nietzsche non fosse finito nell'imbecillità, il nietzscheismo finirebbe nell'imbecillità. Pensare nell'isolamento e con orgoglio finisce col rendere idioti. Ogni uomo che non voglia avere il rammollimento del cuore deve infine avere il rammollimento del cervello.
 
-     Questo ultimo tentativo di sfuggire all'intellettualismo finisce nell'intellettualismo, e perciò nella morte. La sortita è fallita. Il selvaggio culto dell'assenza di legge e il culto materialista della legge finiscono nel medesimo vuoto. Nietzsche scala montagne vertiginose, ma alla fine sbuca in Tibet. Si siede accanto a Tolstoj nella terra del nulla e del Nirvana. Sono entrambi impotenti — l'uno perché non deve afferrare nulla, l'altro perché non deve lasciar andare nulla. La volontà del tolstoiano è congelata da un istinto buddista secondo cui tutte le azioni particolari sono malvagie. Ma la volontà del nietzscheano è congelata in modo del tutto identico dalla sua concezione secondo cui tutte le azioni particolari sono buone; poiché se tutte le azioni particolari sono buone, nessuna di esse è particolare. Stanno al bivio, e l'uno odia tutte le strade e l'altro ama tutte le strade. Il risultato è — be', certe cose non sono difficili da calcolare. Stanno al bivio.
+Questo ultimo tentativo di sfuggire all'intellettualismo finisce nell'intellettualismo, e perciò nella morte. La sortita è fallita. Il selvaggio culto dell'assenza di legge e il culto materialista della legge finiscono nel medesimo vuoto. Nietzsche scala montagne vertiginose, ma alla fine sbuca in Tibet. Si siede accanto a Tolstoj nella terra del nulla e del Nirvana. Sono entrambi impotenti — l'uno perché non deve afferrare nulla, l'altro perché non deve lasciar andare nulla. La volontà del tolstoiano è congelata da un istinto buddista secondo cui tutte le azioni particolari sono malvagie. Ma la volontà del nietzscheano è congelata in modo del tutto identico dalla sua concezione secondo cui tutte le azioni particolari sono buone; poiché se tutte le azioni particolari sono buone, nessuna di esse è particolare. Stanno al bivio, e l'uno odia tutte le strade e l'altro ama tutte le strade. Il risultato è — be', certe cose non sono difficili da calcolare. Stanno al bivio.
 
-     Qui pongo fine (grazie a Dio) alla prima e più tediosa faccenda di questo libro — la rozza rassegna del pensiero recente. Dopo questo comincio ad abbozzare una visione della vita che forse non interesserà il mio lettore, ma che, in ogni caso, interessa me. Davanti a me, mentre chiudo questa pagina, c'è un mucchio di libri moderni che ho sfogliato a tale scopo — un mucchio di ingegnosità, un mucchio di futilità. Per l'accidente del mio presente distacco, posso vedere l'inevitabile schianto delle filosofie di Schopenhauer e Tolstoj, Nietzsche e Shaw, con la stessa chiarezza con cui un inevitabile schianto ferroviario potrebbe essere visto da un pallone aerostatico. Sono tutti sulla strada del vuoto del manicomio. Poiché la follia si può definire come l'uso dell'attività mentale in modo da raggiungere l'impotenza mentale; ed essi l'hanno quasi raggiunta. Chi crede di essere fatto di vetro pensa fino alla distruzione del pensiero; poiché il vetro non può pensare. Così chi vuole non rifiutare nulla vuole la distruzione della volontà; poiché la volontà non è soltanto la scelta di qualcosa, ma il rifiuto di quasi tutto. E mentre rigiro e rimescolo gli abili, meravigliosi, tediosi e inutili libri moderni, il titolo di uno di essi mi inchioda lo sguardo. Si intitola «Jeanne d'Arc», di Anatole France. Vi ho soltanto dato un'occhiata, ma un'occhiata è bastata a rammentarmi la «Vie de Jésus» di Renan. Ha lo stesso strano metodo dello scettico reverente. Scredita storie soprannaturali che hanno qualche fondamento, semplicemente raccontando storie naturali che non ne hanno alcuno. Poiché non possiamo credere a ciò che un santo fece, dovremmo far finta di sapere esattamente ciò che egli provò. Ma non menziono nessuno dei due libri per criticarlo, bensì perché l'accidentale accostamento dei nomi ha evocato due sorprendenti immagini di Sanità mentale che hanno annientato tutti i libri che avevo davanti. Giovanna d'Arco non rimase piantata al bivio, né rifiutando tutti i sentieri come Tolstoj, né accettandoli tutti come Nietzsche. Scelse un sentiero, e lo percorse come una folgore. Eppure Giovanna, quando mi misi a pensare a lei, aveva in sé tutto ciò che era vero tanto in Tolstoj quanto in Nietzsche, tutto ciò che in ciascuno di loro era persino tollerabile. Pensai a tutto ciò che è nobile in Tolstoj, il piacere nelle cose semplici, specie nella semplice pietà, le realtà concrete della terra, la reverenza per i poveri, la dignità della schiena curva. Giovanna d'Arco aveva tutto questo e con questa grande aggiunta, che ella sopportava la povertà oltre ad ammirarla; laddove Tolstoj è soltanto un tipico aristocratico che cerca di scoprirne il segreto. E poi pensai a tutto ciò che di coraggioso, fiero e patetico c'era nel povero Nietzsche, e al suo ammutinamento contro la vacuità e la timidezza del nostro tempo. Pensai al suo grido per l'estatico equilibrio del pericolo, alla sua fame per l'impeto dei grandi cavalli, al suo grido alle armi. Ebbene, Giovanna d'Arco aveva tutto questo, e di nuovo con questa differenza, che ella non lodava il combattere, ma combatteva. Sappiamo che non aveva paura di un esercito, mentre Nietzsche, per quanto ne sappiamo, aveva paura di una mucca. Tolstoj lodava soltanto il contadino; ella era il contadino. Nietzsche lodava soltanto il guerriero; ella era il guerriero. Li batté entrambi sul terreno dei loro stessi ideali antagonisti; fu più gentile dell'uno, più violenta dell'altro. Eppure fu una persona perfettamente pratica che fece qualcosa, mentre essi sono sfrenati speculatori che non fanno nulla. Era impossibile che non mi attraversasse la mente il pensiero che lei e la sua fede possedessero forse un qualche segreto di unità e utilità morale che è andato perduto. E con quel pensiero ne venne uno più grande, e la figura colossale del suo Maestro aveva anch'essa attraversato il teatro dei miei pensieri. La medesima difficoltà moderna che oscurava la materia di Anatole France oscurava anche quella di Ernest Renan. Anche Renan divideva la pietà del suo eroe dalla combattività del suo eroe. Renan giunse persino a rappresentare la giusta collera a Gerusalemme come un semplice esaurimento nervoso dopo le idilliache aspettative della Galilea. Come se vi fosse una qualche incoerenza tra l'avere amore per l'umanità e l'avere odio per la disumanità! Gli altruisti, con voci esili e deboli, denunciano Cristo come un egoista. Gli egoisti (con voci ancora più esili e deboli) lo denunciano come un altruista. Nella nostra atmosfera presente simili cavilli sono abbastanza comprensibili. L'amore di un eroe è più terribile dell'odio di un tiranno. L'odio di un eroe è più generoso dell'amore di un filantropo. Esiste un'immensa ed eroica sanità mentale di cui i moderni possono raccogliere soltanto i frammenti. Esiste un gigante di cui vediamo aggirarsi soltanto le braccia e le gambe mozzate. Hanno lacerato l'anima di Cristo in sciocche strisce, etichettate egoismo e altruismo, e sono ugualmente sconcertati dalla sua folle magnificenza e dalla sua folle mitezza. Si sono spartiti le sue vesti tra loro, e per la sua tunica hanno tirato a sorte; benché la tunica fosse senza cuciture, tessuta tutta dall'alto.
+Qui pongo fine (grazie a Dio) alla prima e più tediosa faccenda di questo libro — la rozza rassegna del pensiero recente. Dopo questo comincio ad abbozzare una visione della vita che forse non interesserà il mio lettore, ma che, in ogni caso, interessa me. Davanti a me, mentre chiudo questa pagina, c'è un mucchio di libri moderni che ho sfogliato a tale scopo — un mucchio di ingegnosità, un mucchio di futilità. Per l'accidente del mio presente distacco, posso vedere l'inevitabile schianto delle filosofie di Schopenhauer e Tolstoj, Nietzsche e Shaw, con la stessa chiarezza con cui un inevitabile schianto ferroviario potrebbe essere visto da un pallone aerostatico. Sono tutti sulla strada del vuoto del manicomio. Poiché la follia si può definire come l'uso dell'attività mentale in modo da raggiungere l'impotenza mentale; ed essi l'hanno quasi raggiunta. Chi crede di essere fatto di vetro pensa fino alla distruzione del pensiero; poiché il vetro non può pensare. Così chi vuole non rifiutare nulla vuole la distruzione della volontà; poiché la volontà non è soltanto la scelta di qualcosa, ma il rifiuto di quasi tutto. E mentre rigiro e rimescolo gli abili, meravigliosi, tediosi e inutili libri moderni, il titolo di uno di essi mi inchioda lo sguardo. Si intitola «Jeanne d'Arc», di Anatole France. Vi ho soltanto dato un'occhiata, ma un'occhiata è bastata a rammentarmi la «Vie de Jésus» di Renan. Ha lo stesso strano metodo dello scettico reverente. Scredita storie soprannaturali che hanno qualche fondamento, semplicemente raccontando storie naturali che non ne hanno alcuno. Poiché non possiamo credere a ciò che un santo fece, dovremmo far finta di sapere esattamente ciò che egli provò. Ma non menziono nessuno dei due libri per criticarlo, bensì perché l'accidentale accostamento dei nomi ha evocato due sorprendenti immagini di Sanità mentale che hanno annientato tutti i libri che avevo davanti. Giovanna d'Arco non rimase piantata al bivio, né rifiutando tutti i sentieri come Tolstoj, né accettandoli tutti come Nietzsche. Scelse un sentiero, e lo percorse come una folgore. Eppure Giovanna, quando mi misi a pensare a lei, aveva in sé tutto ciò che era vero tanto in Tolstoj quanto in Nietzsche, tutto ciò che in ciascuno di loro era persino tollerabile. Pensai a tutto ciò che è nobile in Tolstoj, il piacere nelle cose semplici, specie nella semplice pietà, le realtà concrete della terra, la reverenza per i poveri, la dignità della schiena curva. Giovanna d'Arco aveva tutto questo e con questa grande aggiunta, che ella sopportava la povertà oltre ad ammirarla; laddove Tolstoj è soltanto un tipico aristocratico che cerca di scoprirne il segreto. E poi pensai a tutto ciò che di coraggioso, fiero e patetico c'era nel povero Nietzsche, e al suo ammutinamento contro la vacuità e la timidezza del nostro tempo. Pensai al suo grido per l'estatico equilibrio del pericolo, alla sua fame per l'impeto dei grandi cavalli, al suo grido alle armi. Ebbene, Giovanna d'Arco aveva tutto questo, e di nuovo con questa differenza, che ella non lodava il combattere, ma combatteva. Sappiamo che non aveva paura di un esercito, mentre Nietzsche, per quanto ne sappiamo, aveva paura di una mucca. Tolstoj lodava soltanto il contadino; ella era il contadino. Nietzsche lodava soltanto il guerriero; ella era il guerriero. Li batté entrambi sul terreno dei loro stessi ideali antagonisti; fu più gentile dell'uno, più violenta dell'altro. Eppure fu una persona perfettamente pratica che fece qualcosa, mentre essi sono sfrenati speculatori che non fanno nulla. Era impossibile che non mi attraversasse la mente il pensiero che lei e la sua fede possedessero forse un qualche segreto di unità e utilità morale che è andato perduto. E con quel pensiero ne venne uno più grande, e la figura colossale del suo Maestro aveva anch'essa attraversato il teatro dei miei pensieri. La medesima difficoltà moderna che oscurava la materia di Anatole France oscurava anche quella di Ernest Renan. Anche Renan divideva la pietà del suo eroe dalla combattività del suo eroe. Renan giunse persino a rappresentare la giusta collera a Gerusalemme come un semplice esaurimento nervoso dopo le idilliache aspettative della Galilea. Come se vi fosse una qualche incoerenza tra l'avere amore per l'umanità e l'avere odio per la disumanità! Gli altruisti, con voci esili e deboli, denunciano Cristo come un egoista. Gli egoisti (con voci ancora più esili e deboli) lo denunciano come un altruista. Nella nostra atmosfera presente simili cavilli sono abbastanza comprensibili. L'amore di un eroe è più terribile dell'odio di un tiranno. L'odio di un eroe è più generoso dell'amore di un filantropo. Esiste un'immensa ed eroica sanità mentale di cui i moderni possono raccogliere soltanto i frammenti. Esiste un gigante di cui vediamo aggirarsi soltanto le braccia e le gambe mozzate. Hanno lacerato l'anima di Cristo in sciocche strisce, etichettate egoismo e altruismo, e sono ugualmente sconcertati dalla sua folle magnificenza e dalla sua folle mitezza. Si sono spartiti le sue vesti tra loro, e per la sua tunica hanno tirato a sorte; benché la tunica fosse senza cuciture, tessuta tutta dall'alto.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_01" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 1)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_01" data-title="Orthodoxy — IV The Ethics Of Elfland (part 1)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 1)
 
 IV THE ETHICS OF ELFLAND
 
-     When the business man rebukes the idealism of his office-boy,
+When the business man rebukes the idealism of his office-boy,
 it is commonly in some such speech as this:  "Ah, yes, when one
 is young, one has these ideals in the abstract and these castles
 in the air; but in middle age they all break up like clouds,
@@ -7686,7 +7672,7 @@ It is the reality that is often a fraud.  As much as I ever did,
 more than I ever did, I believe in Liberalism.  But there was a
 rosy time of innocence when I believed in Liberals.
 
-     I take this instance of one of the enduring faiths because,
+I take this instance of one of the enduring faiths because,
 having now to trace the roots of my personal speculation,
 this may be counted, I think, as the only positive bias. 
 I was brought up a Liberal, and have always believed in democracy,
@@ -7706,7 +7692,7 @@ startling than any caricature.  Death is more tragic even than
 death by starvation.  Having a nose is more comic even than
 having a Norman nose.
 
-     This is the first principle of democracy:  that the
+This is the first principle of democracy:  that the
 essential things in men are the things they hold in common,
 not the things they hold separately.  And the second principle
 is merely this:  that the political instinct or desire is one of
@@ -7732,7 +7718,7 @@ men themselves--the mating of the sexes, the rearing of the young,
 the laws of the state.  This is democracy; and in this I have
 always believed.
 
-     But there is one thing that I have never from my youth up
+But there is one thing that I have never from my youth up
 been able to understand.  I have never been able to understand
 where people got the idea that democracy was in some way
 opposed to tradition.  It is obvious that tradition is only
@@ -7774,21 +7760,20 @@ marked with a cross.
 
 IV L'ETICA DELL'ELFILANDIA
 
-     Quando l'uomo d'affari rimprovera l'idealismo del suo garzone di bottega, lo fa comunemente con qualche discorso di questo tenore: «Ah, sì, quando si è giovani si nutrono tutti questi ideali astratti e si costruiscono castelli in aria; ma nella mezza età essi si dissolvono come nubi, e si scende a credere nella politica pratica, a servirsi degli strumenti che si hanno e ad andare avanti nel mondo così com'è». Così, per lo meno, mi parlavano da ragazzo quei vecchi venerabili e filantropi che ora riposano nelle loro onorate tombe. Ma da allora sono cresciuto e ho scoperto che quei vecchi filantropi dicevano bugie. Ciò che è realmente accaduto è esattamente l'opposto di quanto essi predicevano. Dicevano che avrei perduto i miei ideali e cominciato a credere nei metodi dei politici pratici. Ebbene, non ho perduto affatto i miei ideali; la mia fede nei princìpi fondamentali è esattamente quella di sempre. Ciò che ho perduto è la mia vecchia fede fanciullesca nella politica pratica. Mi sta ancora a cuore, quanto mai, la Battaglia di Armageddon; ma non mi importa più tanto delle Elezioni Generali. Da bimbo, al solo sentirle nominare, sobbalzavo sulle ginocchia di mia madre. No: la visione è sempre solida e degna di fede. La visione è sempre un fatto. È la realtà che spesso è un imbroglio. Quanto vi ho sempre creduto, e più ancora, credo nel Liberalismo. Ma vi fu un roseo tempo d'innocenza in cui credevo nei liberali.
+Quando l'uomo d'affari rimprovera l'idealismo del suo garzone di bottega, lo fa comunemente con qualche discorso di questo tenore: «Ah, sì, quando si è giovani si nutrono tutti questi ideali astratti e si costruiscono castelli in aria; ma nella mezza età essi si dissolvono come nubi, e si scende a credere nella politica pratica, a servirsi degli strumenti che si hanno e ad andare avanti nel mondo così com'è». Così, per lo meno, mi parlavano da ragazzo quei vecchi venerabili e filantropi che ora riposano nelle loro onorate tombe. Ma da allora sono cresciuto e ho scoperto che quei vecchi filantropi dicevano bugie. Ciò che è realmente accaduto è esattamente l'opposto di quanto essi predicevano. Dicevano che avrei perduto i miei ideali e cominciato a credere nei metodi dei politici pratici. Ebbene, non ho perduto affatto i miei ideali; la mia fede nei princìpi fondamentali è esattamente quella di sempre. Ciò che ho perduto è la mia vecchia fede fanciullesca nella politica pratica. Mi sta ancora a cuore, quanto mai, la Battaglia di Armageddon; ma non mi importa più tanto delle Elezioni Generali. Da bimbo, al solo sentirle nominare, sobbalzavo sulle ginocchia di mia madre. No: la visione è sempre solida e degna di fede. La visione è sempre un fatto. È la realtà che spesso è un imbroglio. Quanto vi ho sempre creduto, e più ancora, credo nel Liberalismo. Ma vi fu un roseo tempo d'innocenza in cui credevo nei liberali.
 
-     Prendo questo esempio di una delle fedi durature perché, dovendo ora rintracciare le radici delle mie personali speculazioni, esso può contare, credo, come l'unica inclinazione positiva. Sono stato educato da liberale, e ho sempre creduto nella democrazia, nell'elementare dottrina liberale di un'umanità che si governa da sé. Se qualcuno trova questa frase vaga o logora, non posso che fermarmi un istante a spiegare che il principio della democrazia, quale io lo intendo, si può enunciare in due proposizioni. La prima è questa: che le cose comuni a tutti gli uomini sono più importanti delle cose proprie di qualche uomo. Le cose ordinarie sono più preziose delle cose straordinarie; anzi, sono più straordinarie. L'Uomo è qualcosa di più tremendo degli uomini; qualcosa di più strano. Il senso del miracolo dell'umanità stessa dovrebbe essere sempre più vivo in noi di ogni meraviglia di potenza, d'intelletto, d'arte o di civiltà. Il semplice uomo su due gambe, in quanto tale, dovrebbe apparirci qualcosa di più straziante di ogni musica e di più sconvolgente di ogni caricatura. La morte è più tragica persino della morte per fame. Avere un naso è più comico persino che avere un naso normanno.
+Prendo questo esempio di una delle fedi durature perché, dovendo ora rintracciare le radici delle mie personali speculazioni, esso può contare, credo, come l'unica inclinazione positiva. Sono stato educato da liberale, e ho sempre creduto nella democrazia, nell'elementare dottrina liberale di un'umanità che si governa da sé. Se qualcuno trova questa frase vaga o logora, non posso che fermarmi un istante a spiegare che il principio della democrazia, quale io lo intendo, si può enunciare in due proposizioni. La prima è questa: che le cose comuni a tutti gli uomini sono più importanti delle cose proprie di qualche uomo. Le cose ordinarie sono più preziose delle cose straordinarie; anzi, sono più straordinarie. L'Uomo è qualcosa di più tremendo degli uomini; qualcosa di più strano. Il senso del miracolo dell'umanità stessa dovrebbe essere sempre più vivo in noi di ogni meraviglia di potenza, d'intelletto, d'arte o di civiltà. Il semplice uomo su due gambe, in quanto tale, dovrebbe apparirci qualcosa di più straziante di ogni musica e di più sconvolgente di ogni caricatura. La morte è più tragica persino della morte per fame. Avere un naso è più comico persino che avere un naso normanno.
 
-     Questo è il primo principio della democrazia: che le cose essenziali negli uomini sono quelle che essi hanno in comune, non quelle che possiedono separatamente. E il secondo principio è semplicemente questo: che l'istinto o il desiderio politico è una di queste cose che essi hanno in comune. Innamorarsi è più poetico che mettersi a poetare. La tesi democratica è che governare (contribuire a reggere la tribù) è una cosa come innamorarsi, e non una cosa come mettersi a poetare. Non è qualcosa di analogo al suonare l'organo in chiesa, al dipingere su pergamena, allo scoprire il Polo Nord (quella insidiosa abitudine), al fare il giro della morte, all'essere Astronomo Reale, e così via. Queste cose, infatti, non vogliamo affatto che un uomo le faccia, a meno che non le faccia bene. È, al contrario, una cosa analoga allo scrivere le proprie lettere d'amore o al soffiarsi il proprio naso. Queste cose vogliamo che un uomo le faccia da sé, anche se le fa male. Non sto qui argomentando la verità di alcuna di queste concezioni; so che certi moderni chiedono di farsi scegliere la moglie dagli scienziati, e per quel che ne so potrebbero presto chiedere di farsi soffiare il naso dalle infermiere. Dico soltanto che l'umanità riconosce queste universali funzioni umane, e che la democrazia annovera il governo tra esse. In breve, la fede democratica è questa: che le cose più tremendamente importanti devono essere lasciate agli uomini comuni stessi — l'unione dei sessi, l'allevamento dei figli, le leggi dello Stato. Questa è la democrazia; e in questo ho sempre creduto.
+Questo è il primo principio della democrazia: che le cose essenziali negli uomini sono quelle che essi hanno in comune, non quelle che possiedono separatamente. E il secondo principio è semplicemente questo: che l'istinto o il desiderio politico è una di queste cose che essi hanno in comune. Innamorarsi è più poetico che mettersi a poetare. La tesi democratica è che governare (contribuire a reggere la tribù) è una cosa come innamorarsi, e non una cosa come mettersi a poetare. Non è qualcosa di analogo al suonare l'organo in chiesa, al dipingere su pergamena, allo scoprire il Polo Nord (quella insidiosa abitudine), al fare il giro della morte, all'essere Astronomo Reale, e così via. Queste cose, infatti, non vogliamo affatto che un uomo le faccia, a meno che non le faccia bene. È, al contrario, una cosa analoga allo scrivere le proprie lettere d'amore o al soffiarsi il proprio naso. Queste cose vogliamo che un uomo le faccia da sé, anche se le fa male. Non sto qui argomentando la verità di alcuna di queste concezioni; so che certi moderni chiedono di farsi scegliere la moglie dagli scienziati, e per quel che ne so potrebbero presto chiedere di farsi soffiare il naso dalle infermiere. Dico soltanto che l'umanità riconosce queste universali funzioni umane, e che la democrazia annovera il governo tra esse. In breve, la fede democratica è questa: che le cose più tremendamente importanti devono essere lasciate agli uomini comuni stessi — l'unione dei sessi, l'allevamento dei figli, le leggi dello Stato. Questa è la democrazia; e in questo ho sempre creduto.
 
-     Ma c'è una cosa che, fin dalla giovinezza, non sono mai riuscito a capire. Non sono mai riuscito a capire da dove la gente abbia tratto l'idea che la democrazia sia in qualche modo contrapposta alla tradizione. È evidente che la tradizione non è altro che la democrazia estesa nel tempo. Essa consiste nell'affidarsi a un consenso di comuni voci umane piuttosto che a qualche testimonianza isolata o arbitraria. L'uomo che cita un qualche storico tedesco contro la tradizione della Chiesa cattolica, per esempio, si appella in senso stretto all'aristocrazia. Si appella alla superiorità di un solo esperto contro la tremenda autorità di una moltitudine. È facilissimo capire perché una leggenda venga trattata, e debba essere trattata, con più rispetto di un libro di storia. La leggenda è generalmente creata dalla maggioranza degli abitanti del villaggio, che sono sani di mente. Il libro è generalmente scritto dall'unico uomo del villaggio che è pazzo. Coloro che obiettano contro la tradizione che gli uomini del passato erano ignoranti vadano pure a sostenerlo al Carlton Club, insieme all'affermazione che gli elettori dei bassifondi sono ignoranti. A noi non serve. Se attribuiamo grande importanza all'opinione degli uomini comuni, quando è unanime, nel trattare le questioni quotidiane, non c'è ragione di ignorarla quando trattiamo di storia o di leggenda. La tradizione si può definire come un'estensione del diritto di voto. La tradizione significa dare il voto alla più oscura di tutte le classi: i nostri antenati. È la democrazia dei morti. La tradizione rifiuta di sottomettersi alla piccola e arrogante oligarchia di coloro che semplicemente si trovano per caso a passeggiare in giro. Tutti i democratici si oppongono a che gli uomini siano squalificati dall'accidente della nascita; la tradizione si oppone a che siano squalificati dall'accidente della morte. La democrazia ci dice di non trascurare l'opinione di un uomo dabbene, foss'anche il nostro stalliere; la tradizione ci chiede di non trascurare l'opinione di un uomo dabbene, foss'anche nostro padre. Io, in ogni caso, non riesco a separare le due idee di democrazia e di tradizione; mi sembra evidente che siano la stessa idea. Vorremo i morti nei nostri consigli. Gli antichi Greci votavano con le pietre; questi voteranno con le pietre tombali. È tutto perfettamente regolare e ufficiale, poiché la maggior parte delle pietre tombali, come la maggior parte delle schede elettorali, è contrassegnata da una croce.
+Ma c'è una cosa che, fin dalla giovinezza, non sono mai riuscito a capire. Non sono mai riuscito a capire da dove la gente abbia tratto l'idea che la democrazia sia in qualche modo contrapposta alla tradizione. È evidente che la tradizione non è altro che la democrazia estesa nel tempo. Essa consiste nell'affidarsi a un consenso di comuni voci umane piuttosto che a qualche testimonianza isolata o arbitraria. L'uomo che cita un qualche storico tedesco contro la tradizione della Chiesa cattolica, per esempio, si appella in senso stretto all'aristocrazia. Si appella alla superiorità di un solo esperto contro la tremenda autorità di una moltitudine. È facilissimo capire perché una leggenda venga trattata, e debba essere trattata, con più rispetto di un libro di storia. La leggenda è generalmente creata dalla maggioranza degli abitanti del villaggio, che sono sani di mente. Il libro è generalmente scritto dall'unico uomo del villaggio che è pazzo. Coloro che obiettano contro la tradizione che gli uomini del passato erano ignoranti vadano pure a sostenerlo al Carlton Club, insieme all'affermazione che gli elettori dei bassifondi sono ignoranti. A noi non serve. Se attribuiamo grande importanza all'opinione degli uomini comuni, quando è unanime, nel trattare le questioni quotidiane, non c'è ragione di ignorarla quando trattiamo di storia o di leggenda. La tradizione si può definire come un'estensione del diritto di voto. La tradizione significa dare il voto alla più oscura di tutte le classi: i nostri antenati. È la democrazia dei morti. La tradizione rifiuta di sottomettersi alla piccola e arrogante oligarchia di coloro che semplicemente si trovano per caso a passeggiare in giro. Tutti i democratici si oppongono a che gli uomini siano squalificati dall'accidente della nascita; la tradizione si oppone a che siano squalificati dall'accidente della morte. La democrazia ci dice di non trascurare l'opinione di un uomo dabbene, foss'anche il nostro stalliere; la tradizione ci chiede di non trascurare l'opinione di un uomo dabbene, foss'anche nostro padre. Io, in ogni caso, non riesco a separare le due idee di democrazia e di tradizione; mi sembra evidente che siano la stessa idea. Vorremo i morti nei nostri consigli. Gli antichi Greci votavano con le pietre; questi voteranno con le pietre tombali. È tutto perfettamente regolare e ufficiale, poiché la maggior parte delle pietre tombali, come la maggior parte delle schede elettorali, è contrassegnata da una croce.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_02" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 2)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_02" data-title="Orthodoxy — IV The Ethics Of Elfland (part 2)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 2)
 
-     I have first to say, therefore, that if I have had a bias,
+I have first to say, therefore, that if I have had a bias,
 it was always a bias in favour of democracy, and therefore of tradition. 
 Before we come to any theoretic or logical beginnings I am content
 to allow for that personal equation; I have always been more
@@ -7800,7 +7785,7 @@ people who see life from the outside.  I would always trust the
 old wives' fables against the old maids' facts.  As long as wit
 is mother wit it can be as wild as it pleases.
 
-     Now, I have to put together a general position, and I
+Now, I have to put together a general position, and I
 pretend to no training in such things.  I propose to do it,
 therefore, by writing down one after another the three or four
 fundamental ideas which I have found for myself, pretty much in
@@ -7815,7 +7800,7 @@ democracy I could hardly make my mental experience clear.
 As it is, I do not know whether I can make it clear, but I now
 propose to try.
 
-     My first and last philosophy, that which I believe in with
+My first and last philosophy, that which I believe in with
 unbroken certainty, I learnt in the nursery.  I generally
 learnt it from a nurse; that is, from the solemn and
 star-appointed priestess at once of democracy and tradition.
@@ -7839,7 +7824,7 @@ because they said that Nature was divine.  Old nurses do not
 tell children about the grass, but about the fairies that dance
 on the grass; and the old Greeks could not see the trees for the dryads.
 
-     But I deal here with what ethic and philosophy come from
+But I deal here with what ethic and philosophy come from
 being fed on fairy tales.  If I were describing them in detail
 I could note many noble and healthy principles that arise from
 them.  There is the chivalrous lesson of "Jack the Giant Killer";
@@ -7859,7 +7844,7 @@ and shall retain when I cannot write.  I am concerned with a
 certain way of looking at life, which was created in me by the
 fairy tales, but has since been meekly ratified by the mere facts.
 
-     It might be stated this way.  There are certain sequences
+It might be stated this way.  There are certain sequences
 or developments (cases of one thing following another), which are,
 in the true sense of the word, reasonable.  They are, in the
 true sense of the word, necessary.  Such are mathematical and
@@ -8023,11 +8008,10 @@ facciano cinque.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_03" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 3)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_03" data-title="Orthodoxy — IV The Ethics Of Elfland (part 3)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 3)
 
-     Here is the peculiar perfection of tone and truth in the
+Here is the peculiar perfection of tone and truth in the
 nursery tales.  The man of science says, "Cut the stalk, and
 the apple will fall"; but he says it calmly, as if the one idea
 really led up to the other.  The witch in the fairy tale says,
@@ -8048,7 +8032,7 @@ They feel that because one incomprehensible thing constantly
 follows another incomprehensible thing the two together somehow
 make up a comprehensible thing.  Two black riddles make a white answer.
 
-     In fairyland we avoid the word "law"; but in the land of
+In fairyland we avoid the word "law"; but in the land of
 science they are singularly fond of it.  Thus they will call
 some interesting conjecture about how forgotten folks pronounced
 the alphabet, Grimm's Law.  But Grimm's Law is far less intellectual
@@ -8090,7 +8074,7 @@ They express the arbitrariness of the fact and its mystery.
 A tree grows fruit because it is a MAGIC tree.  Water runs downhill
 because it is bewitched. The sun shines because it is bewitched.
 
-     I deny altogether that this is fantastic or even mystical. 
+I deny altogether that this is fantastic or even mystical. 
 We may have some mysticism later on; but this fairy-tale
 language about things is simply rational and agnostic.  It is
 the only way I can express in words my clear and definite
@@ -8115,7 +8099,7 @@ But the cool rationalist from fairyland does not see why,
 in the abstract, the apple tree should not grow crimson tulips;
 it sometimes does in his country.
 
-     This elementary wonder, however, is not a mere fancy
+This elementary wonder, however, is not a mere fancy
 derived from the fairy tales; on the contrary, all the fire of
 the fairy tales is derived from this.  Just as we all like love
 tales because there is an instinct of sex, we all like
@@ -8174,7 +8158,7 @@ una cosa incomprensibile segue di continuo un'altra cosa
 incomprensibile, le due insieme in qualche modo compongano una cosa
 comprensibile. Due enigmi neri fanno una risposta bianca.
 
-     Nel paese delle fate evitiamo la parola «legge»; ma nel paese
+Nel paese delle fate evitiamo la parola «legge»; ma nel paese
 della scienza le sono singolarmente affezionati. Così chiamano una
 qualche curiosa congettura su come pronunciassero l'alfabeto genti
 ormai dimenticate: la legge di Grimm. Ma la legge di Grimm è assai
@@ -8219,7 +8203,7 @@ esprimono l'arbitrarietà del fatto e il suo mistero. Un albero
 produce frutti perché è un albero MAGICO. L'acqua scorre in giù
 perché è stregata. Il sole splende perché è stregato.
 
-     Nego del tutto che questo sia fantastico o anche solo mistico.
+Nego del tutto che questo sia fantastico o anche solo mistico.
 Potremo avere un po' di misticismo più avanti; ma questo linguaggio
 fiabesco intorno alle cose è semplicemente razionale e agnostico. È
 l'unico modo in cui posso esprimere a parole la mia chiara e precisa
@@ -8243,7 +8227,7 @@ mele. Ma il freddo razionalista venuto dal paese delle fate non vede
 perché, in astratto, il melo non dovrebbe produrre tulipani cremisi;
 nel suo paese talvolta accade.
 
-     Questo stupore elementare, tuttavia, non è una semplice
+Questo stupore elementare, tuttavia, non è una semplice
 fantasia derivata dalle fiabe; al contrario, tutto il fuoco delle
 fiabe deriva da esso. Proprio come tutti amiamo le storie d'amore
 perché c'è un istinto del sesso, tutti amiamo le storie stupefacenti
@@ -8281,11 +8265,10 @@ solo istante terribile, ricordiamo di dimenticare.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_04" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 4)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_04" data-title="Orthodoxy — IV The Ethics Of Elfland (part 4)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 4)
 
-     But though (like the man without memory in the novel)
+But though (like the man without memory in the novel)
 we walk the streets with a sort of half-witted admiration,
 still it is admiration.  It is admiration in English and not
 only admiration in Latin.  The wonder has a positive element
@@ -8306,7 +8289,7 @@ he put in my stockings the gift of two miraculous legs?
 We thank people for birthday presents of cigars and slippers. 
 Can I thank no one for the birthday present of birth?
 
-     There were, then, these two first feelings, indefensible
+There were, then, these two first feelings, indefensible
 and indisputable.  The world was a shock, but it was not merely shocking;
 existence was a surprise, but it was a pleasant surprise.  In fact,
 all my first views were exactly uttered in a riddle that stuck
@@ -8316,13 +8299,13 @@ That says succinctly all that I am saying.  God made the frog jump;
 but the frog prefers jumping. But when these things are settled
 there enters the second great principle of the fairy philosophy.
 
-     Any one can see it who will simply read "Grimm's Fairy Tales"
+Any one can see it who will simply read "Grimm's Fairy Tales"
 or the fine collections of Mr. Andrew Lang.  For the pleasure
 of pedantry I will call it the Doctrine of Conditional Joy. 
 Touchstone talked of much virtue in an "if"; according to elfin
 ethics all virtue is in an "if."  The note of the fairy utterance
 always is, "You may live in a palace of gold and sapphire,
-if you do not say the word `cow'"; or "You may live happily
+if you do not say the word ‘cow'"; or "You may live happily
 with the [[King]]'s daughter, if you do not show her an onion." 
 The vision always hangs upon a veto.  All the dizzy and colossal
 things conceded depend upon one small thing withheld. All the
@@ -8331,8 +8314,8 @@ thing that is forbidden.  Mr. W.B.Yeats, in his exquisite and
 piercing elfin poetry, describes the elves as lawless; they plunge
 in [[Innocent|innocent]] anarchy on the unbridled horses of the air--
 
-     "Ride on the crest of the dishevelled tide,
-     And [[Dance|dance]] upon the [[Mountains|mountains]] like a flame."
+"Ride on the crest of the dishevelled tide,
+And [[Dance|dance]] upon the [[Mountains|mountains]] like a flame."
 
 It is a dreadful thing to say that Mr. W.B.Yeats does not
 understand fairyland.  But I do say it.  He is an ironical Irishman,
@@ -8350,7 +8333,7 @@ A word is forgotten, and cities perish.  A lamp is lit, and [[Love|love]]
 flies away.  A flower is plucked, and human lives are forfeited. 
 An apple is eaten, and the [[Hope|hope]] of God is gone.
 
-     This is the tone of fairy tales, and it is certainly not
+This is the tone of fairy tales, and it is certainly not
 lawlessness or even liberty, though men under a mean modern
 tyranny may think it liberty by comparison.  People out of
 Portland Gaol might think Fleet Street free; but closer study
@@ -8373,7 +8356,7 @@ and when the heavens were compared to the terrible crystal I can
 remember a shudder.  I was afraid that God would drop the cosmos
 with a crash.
 
-     Remember, however, that to be breakable is not the same as
+Remember, however, that to be breakable is not the same as
 to be perishable.  Strike a glass, and it will not endure an instant;
 simply do not strike it, and it will endure a thousand years. 
 Such, it seemed, was the joy of man, either in elfland or on earth;
@@ -8421,7 +8404,7 @@ mi metteva nelle calze il dono di due gambe miracolose?
 Ringraziamo la gente per i regali di compleanno di sigari e pantofole.
 Non posso ringraziare nessuno per il regalo di compleanno della nascita?
 
-     C'erano dunque questi due primi sentimenti, indifendibili
+C'erano dunque questi due primi sentimenti, indifendibili
 e indiscutibili. Il mondo era uno shock, ma non era semplicemente sconvolgente;
 l'esistenza era una sorpresa, ma era una sorpresa piacevole. In verità,
 tutte le mie prime visioni erano espresse esattamente in un indovinello che mi si era
@@ -8431,13 +8414,13 @@ Questo dice succintamente tutto ciò che io sto dicendo. Dio fece saltare la ran
 ma la rana preferisce saltare. Ma quando queste cose sono stabilite,
 ecco entrare in scena il secondo grande principio della filosofia fatata.
 
-     Chiunque può scorgerlo, purché legga anche solo le «Fiabe dei Grimm»
+Chiunque può scorgerlo, purché legga anche solo le «Fiabe dei Grimm»
 o le belle raccolte del signor Andrew Lang. Per il gusto
 della pedanteria lo chiamerò la Dottrina della Gioia Condizionata.
 Touchstone parlava di molta virtù racchiusa in un «se»; secondo
 l'etica degli elfi tutta la virtù sta in un «se». La cifra dell'annuncio fatato
 è sempre: «Potrai vivere in un palazzo d'oro e di zaffiro,
-purché tu non pronunci la parola `mucca'»; oppure «Potrai vivere felice
+purché tu non pronunci la parola ‘mucca'»; oppure «Potrai vivere felice
 con la figlia del [[King|Re]], purché tu non le mostri una cipolla».
 La visione è sempre appesa a un divieto. Tutte le vertiginose e colossali
 cose concesse dipendono da una piccola cosa negata. Tutte le
@@ -8446,8 +8429,8 @@ cosa che è proibita. Il signor W.B. Yeats, nella sua squisita e
 penetrante poesia elfica, descrive gli elfi come senza legge; essi si gettano
 in una anarchia [[Innocent|innocente]] sui cavalli sfrenati dell'aria...
 
-     «Cavalca sulla cresta dell'onda scarmigliata,
-     e [[Dance|danza]] sulle [[Mountains|montagne]] come una fiamma».
+«Cavalca sulla cresta dell'onda scarmigliata,
+e [[Dance|danza]] sulle [[Mountains|montagne]] come una fiamma».
 
 È una cosa terribile dire che il signor W.B. Yeats non
 comprende il paese delle fate. Ma io lo dico. È un irlandese ironico,
@@ -8465,7 +8448,7 @@ Si dimentica una parola, e le città periscono. Si accende una lampada, e l'[[Lo
 vola via. Si coglie un fiore, e vite umane sono perdute.
 Si mangia una mela, e la [[Hope|speranza]] di Dio è svanita.
 
-     Questo è il tono delle fiabe, e non è certo
+Questo è il tono delle fiabe, e non è certo
 illegalità né tantomeno libertà, per quanto uomini soggetti a una meschina
 tirannia moderna possano crederla libertà per contrasto. Chi esce
 dal carcere di Portland potrebbe credere libera Fleet Street; ma uno studio più attento
@@ -8488,7 +8471,7 @@ e quando i cieli venivano paragonati al cristallo terribile, mi ricordo
 un brivido. Avevo paura che Dio lasciasse cadere il cosmo
 con un fracasso.
 
-     Si ricordi, però, che essere frangibile non è la stessa cosa
+Si ricordi, però, che essere frangibile non è la stessa cosa
 che essere perituro. Percuoti un vetro, e non durerà un istante;
 semplicemente non percuoterlo, e durerà mille anni.
 Tale, così pareva, era la gioia dell'uomo, sia nel paese degli elfi sia sulla terra;
@@ -8514,11 +8497,10 @@ terribile come gli alberi torreggianti.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_05" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 5)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_05" data-title="Orthodoxy — IV The Ethics Of Elfland (part 5)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 5)
 
-     For this reason (we may call it the fairy godmother [[philosophy]])
+For this reason (we may call it the fairy godmother [[philosophy]])
 I never could join the young men of my [[Time|time]] in feeling what they
 called the general sentiment of REVOLT.  I should have resisted,
 let us [[Hope|hope]], any rules that were evil, and with these and their
@@ -8558,7 +8540,7 @@ Oscar Wilde said that sunsets were not valued because we could
 not pay for sunsets.  But Oscar Wilde was wrong; we can pay
 for sunsets.  We can pay for them by not being Oscar Wilde.
 
-     [[Well]], I left the fairy tales lying on the floor of the nursery,
+[[Well]], I left the fairy tales lying on the floor of the nursery,
 and I have not found any books so sensible since.  I left the [[Nurse|nurse]] guardian
 of tradition and [[democracy]], and I have not found any modern type
 so sanely radical or so sanely conservative.  But the matter
@@ -8579,7 +8561,7 @@ that collision created two sudden and spontaneous sentiments,
 which I have had ever since and which, crude as they were,
 have since hardened into convictions.
 
-     First, I found the whole modern world talking scientific fatalism;
+First, I found the whole modern world talking scientific fatalism;
 saying that everything is as it must always have been, being unfolded
 without fault from the beginning.  The leaf on the tree is green
 because it could never have been anything else.  Now, the fairy-tale
@@ -8596,7 +8578,7 @@ them, nothing ever really had happened since the beginning of the
 world.  Nothing ever had happened since existence had happened; and
 even about the date of that they were not very sure.
 
-     The modern world as I found it was solid for modern Calvinism,
+The modern world as I found it was solid for modern Calvinism,
 for the necessity of things being as they are.  But when I came to
 ask them I found they had really no proof of this unavoidable repetition
 in things except the fact that the things were repeated.  Now, the mere
@@ -8620,19 +8602,18 @@ and I began to see an idea.
 
 Per questa ragione (possiamo chiamarla la [[philosophy|filosofia]] della fata madrina) non ho mai potuto unirmi ai giovani del mio [[Time|tempo]] nel provare ciò che essi chiamavano il sentimento generale della RIVOLTA. Avrei resistito, [[Hope|voglio sperare]], a qualunque regola fosse malvagia, e di queste e della loro definizione mi occuperò in un altro capitolo. Ma non mi sentivo disposto a resistere a una regola solo perché era misteriosa. I feudi talvolta si tengono in virtù di forme insensate, la rottura di un bastoncello o il pagamento di un grano di pepe: io ero disposto a tenere l'immenso feudo della terra e del cielo in virtù di una qualunque simile fantasia feudale. Non poteva [[Well|certo]] essere più stravagante del fatto che mi fosse concesso di tenerlo affatto. A questo punto adduco un solo esempio etico per mostrare ciò che intendo. Non ho mai potuto unirmi al comune mormorio di quella generazione nascente contro la monogamia, perché nessuna restrizione riguardo al sesso mi pareva tanto strana e inaspettata quanto il sesso stesso. Poter essere ammesso, come [[Endymion|Endimione]], a fare l'[[Love|amore]] con la [[Moon|luna]], e poi lamentarsi che Giove tenesse le proprie lune in un harem, mi sembrava (nutrito com'ero di fiabe come quella di [[Endymion|Endimione]]) un volgare anticlimax. Restar fedele a una sola donna è un piccolo prezzo anche solo per vedere una donna. Lamentarsi di potermi sposare una volta sola era come lamentarsi di esser nato una volta sola. Era incommensurabile con la terribile emozione di cui si parlava. Rivelava non una sensibilità esagerata al sesso, ma una curiosa insensibilità ad esso. È uno [[Fool|sciocco]] l'uomo che si lamenta di non poter entrare nell'Eden per cinque porte alla volta. La poligamia è una mancanza di consapevolezza del sesso; è come uno che colga cinque pere in pura distrazione. Gli esteti toccarono gli ultimi folli limiti del linguaggio nel loro elogio delle cose belle. Il pappo del cardo li faceva piangere; uno scarabeo lucente li faceva cadere in ginocchio. Eppure la loro emozione non mi impressionò mai per un istante, e per questa ragione: che non veniva loro in mente di pagare il proprio piacere con una qualche sorta di sacrificio simbolico. Gli uomini (sentivo) potrebbero digiunare quaranta giorni pur di udir cantare un merlo. Gli uomini potrebbero attraversare il [[Fire|fuoco]] per trovare una primula. Eppure questi [[lovers|amanti]] della [[Beauty|bellezza]] non riuscivano nemmeno a restar sobri per il merlo. Non volevano affrontare il comune [[Marriage|matrimonio]] cristiano per rendere il dovuto alla primula. Certo si potrebbe pagare una gioia straordinaria con una morale ordinaria. Oscar Wilde disse che i tramonti non erano apprezzati perché non potevamo pagarli. Ma Oscar Wilde si sbagliava; noi possiamo pagare i tramonti. Possiamo pagarli non essendo Oscar Wilde.
 
-     [[Well|Ebbene]], lasciai le fiabe sparse sul pavimento della stanza dei bambini, e da allora non ho più trovato libri altrettanto sensati. Lasciai la [[Nurse|bambinaia]], custode della tradizione e della [[democracy|democrazia]], e non ho più trovato alcun tipo moderno tanto sanamente radicale o tanto sanamente conservatore. Ma ciò che merita un commento importante era questo: che quando uscii per la prima volta nell'atmosfera mentale del mondo moderno, scoprii che il mondo moderno si opponeva positivamente su due punti alla mia [[Nurse|bambinaia]] e alle fiabe della nursery. Mi ci è voluto molto [[Time|tempo]] per scoprire che il mondo moderno ha torto e la mia [[Nurse|bambinaia]] aveva ragione. La cosa davvero curiosa era questa: che il pensiero moderno contraddiceva questo credo fondamentale della mia fanciullezza nelle sue due dottrine più essenziali. Ho spiegato che le fiabe fondarono in me due convinzioni: primo, che questo mondo è un luogo selvaggio e sorprendente, che avrebbe potuto essere ben diverso, ma che è del tutto delizioso; secondo, che dinanzi a questa selvatichezza e a questa delizia si può [[Well|ben]] essere modesti e sottomettersi alle più bizzarre limitazioni di una così bizzarra benevolenza. Ma trovai il mondo moderno intero che scorreva come un'alta marea contro entrambe queste mie tenerezze; e l'urto di quella collisione generò due sentimenti improvvisi e spontanei, che ho avuto da allora in poi e che, per quanto grezzi fossero, si sono da allora induriti in convinzioni.
+[[Well|Ebbene]], lasciai le fiabe sparse sul pavimento della stanza dei bambini, e da allora non ho più trovato libri altrettanto sensati. Lasciai la [[Nurse|bambinaia]], custode della tradizione e della [[democracy|democrazia]], e non ho più trovato alcun tipo moderno tanto sanamente radicale o tanto sanamente conservatore. Ma ciò che merita un commento importante era questo: che quando uscii per la prima volta nell'atmosfera mentale del mondo moderno, scoprii che il mondo moderno si opponeva positivamente su due punti alla mia [[Nurse|bambinaia]] e alle fiabe della nursery. Mi ci è voluto molto [[Time|tempo]] per scoprire che il mondo moderno ha torto e la mia [[Nurse|bambinaia]] aveva ragione. La cosa davvero curiosa era questa: che il pensiero moderno contraddiceva questo credo fondamentale della mia fanciullezza nelle sue due dottrine più essenziali. Ho spiegato che le fiabe fondarono in me due convinzioni: primo, che questo mondo è un luogo selvaggio e sorprendente, che avrebbe potuto essere ben diverso, ma che è del tutto delizioso; secondo, che dinanzi a questa selvatichezza e a questa delizia si può [[Well|ben]] essere modesti e sottomettersi alle più bizzarre limitazioni di una così bizzarra benevolenza. Ma trovai il mondo moderno intero che scorreva come un'alta marea contro entrambe queste mie tenerezze; e l'urto di quella collisione generò due sentimenti improvvisi e spontanei, che ho avuto da allora in poi e che, per quanto grezzi fossero, si sono da allora induriti in convinzioni.
 
-     Primo, trovai il mondo moderno intero a parlare di fatalismo scientifico; a dire che tutto è come dev'essere sempre stato, dispiegandosi senza errore fin dal principio. La foglia sull'albero è verde perché non avrebbe mai potuto essere altro. Ora, il filosofo delle fiabe si rallegra che la foglia sia verde proprio perché avrebbe potuto essere scarlatta. Si sente come se essa fosse divenuta verde un istante prima ch'egli la guardasse. È lieto che la [[Snow|neve]] sia bianca sulla base rigorosamente razionale che avrebbe potuto essere nera. Ogni colore ha in sé una qualità ardita, come di scelta; il rosso delle rose di [[Garden|giardino]] non è solo deciso ma drammatico, come [[Blood|sangue]] improvvisamente versato. Egli sente che qualcosa è stato FATTO. Ma i grandi deterministi del diciannovesimo secolo erano fortemente contrari a questa sensazione istintiva che qualcosa fosse accaduto un istante prima. Anzi, secondo loro, nulla era mai realmente accaduto dall'inizio del mondo. Nulla era mai accaduto da quando era accaduta l'esistenza; e persino sulla data di ciò non erano molto sicuri.
+Primo, trovai il mondo moderno intero a parlare di fatalismo scientifico; a dire che tutto è come dev'essere sempre stato, dispiegandosi senza errore fin dal principio. La foglia sull'albero è verde perché non avrebbe mai potuto essere altro. Ora, il filosofo delle fiabe si rallegra che la foglia sia verde proprio perché avrebbe potuto essere scarlatta. Si sente come se essa fosse divenuta verde un istante prima ch'egli la guardasse. È lieto che la [[Snow|neve]] sia bianca sulla base rigorosamente razionale che avrebbe potuto essere nera. Ogni colore ha in sé una qualità ardita, come di scelta; il rosso delle rose di [[Garden|giardino]] non è solo deciso ma drammatico, come [[Blood|sangue]] improvvisamente versato. Egli sente che qualcosa è stato FATTO. Ma i grandi deterministi del diciannovesimo secolo erano fortemente contrari a questa sensazione istintiva che qualcosa fosse accaduto un istante prima. Anzi, secondo loro, nulla era mai realmente accaduto dall'inizio del mondo. Nulla era mai accaduto da quando era accaduta l'esistenza; e persino sulla data di ciò non erano molto sicuri.
 
-     Il mondo moderno, così come lo trovai, era compatto a favore di un calvinismo moderno, della necessità che le cose siano come sono. Ma quando venni a interrogarli, scoprii che in realtà non avevano alcuna prova di questa inevitabile ripetizione delle cose, se non il fatto che le cose si ripetevano. Ora, la mera ripetizione rendeva per me le cose più bizzarre, non più razionali. Era come se, avendo visto un naso di forma curiosa per la strada e avendolo liquidato come un caso, avessi poi visto altri sei nasi della stessa stupefacente forma. Avrei immaginato per un momento che dovesse trattarsi di qualche società segreta locale. Così un elefante con la proboscide era strano; ma tutti gli elefanti con la proboscide avevano l'aria di un complotto. Parlo qui soltanto di un'emozione, e di un'emozione al tempo stesso ostinata e sottile. Ma la ripetizione nella [[Nature|Natura]] mi sembrava talvolta una ripetizione concitata, come quella di un maestro adirato che dice la stessa cosa più e più volte. L'erba pareva farmi segnali con tutte le sue dita insieme; le [[Stars|stelle]] affollate parevano decise a farsi comprendere. Il sole mi avrebbe costretto a vederlo, fosse [[Rose|sorto]] mille volte. Le ricorrenze dell'universo [[Rose|salivano]] al ritmo folle di un incantesimo, e cominciai a intravedere un'idea.
+Il mondo moderno, così come lo trovai, era compatto a favore di un calvinismo moderno, della necessità che le cose siano come sono. Ma quando venni a interrogarli, scoprii che in realtà non avevano alcuna prova di questa inevitabile ripetizione delle cose, se non il fatto che le cose si ripetevano. Ora, la mera ripetizione rendeva per me le cose più bizzarre, non più razionali. Era come se, avendo visto un naso di forma curiosa per la strada e avendolo liquidato come un caso, avessi poi visto altri sei nasi della stessa stupefacente forma. Avrei immaginato per un momento che dovesse trattarsi di qualche società segreta locale. Così un elefante con la proboscide era strano; ma tutti gli elefanti con la proboscide avevano l'aria di un complotto. Parlo qui soltanto di un'emozione, e di un'emozione al tempo stesso ostinata e sottile. Ma la ripetizione nella [[Nature|Natura]] mi sembrava talvolta una ripetizione concitata, come quella di un maestro adirato che dice la stessa cosa più e più volte. L'erba pareva farmi segnali con tutte le sue dita insieme; le [[Stars|stelle]] affollate parevano decise a farsi comprendere. Il sole mi avrebbe costretto a vederlo, fosse [[Rose|sorto]] mille volte. Le ricorrenze dell'universo [[Rose|salivano]] al ritmo folle di un incantesimo, e cominciai a intravedere un'idea.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_06" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 6)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_06" data-title="Orthodoxy — IV The Ethics Of Elfland (part 6)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 6)
 
-     All the towering materialism which dominates the modern mind
+All the towering materialism which dominates the modern mind
 rests ultimately upon one assumption; a false assumption. It is
 supposed that if a thing goes on repeating itself it is probably dead;
 a piece of clockwork.  People feel that if the universe was
@@ -8678,7 +8659,7 @@ by mere choice, and at any instant it may stop.  Man may stand on
 the earth generation after generation, and yet each birth be his
 positively last appearance.
 
-     This was my first conviction; made by the shock of my childish
+This was my first conviction; made by the shock of my childish
 emotions meeting the modern creed in mid-career.  I had always
 vaguely felt facts to be miracles in the sense that they are wonderful: 
 now I began to think them miracles in the stricter sense that they
@@ -8690,7 +8671,7 @@ that this world of ours has some purpose; and if there is a purpose,
 there is a person.  I had always felt life first as a story: and if
 there is a story there is a story-teller.
 
-     But modern thought also hit my second human tradition. 
+But modern thought also hit my second human tradition. 
 It went against the fairy feeling about strict limits and conditions. 
 The one thing it loved to talk about was expansion and largeness. 
 Herbert Spencer would have been greatly annoyed if any one had
@@ -8715,7 +8696,7 @@ have in an exaggerated way represented the earth as wicked.  But
 Mr. Wells and his school made the heavens wicked.  We should lift
 up our eyes to the [[Stars|stars]] from whence would come our ruin.
 
-     But the expansion of which I speak was much more evil than all this. 
+But the expansion of which I speak was much more evil than all this. 
 I have remarked that the materialist, like the madman, is in [[Prison|prison]];
 in the [[Prison|prison]] of one thought.  These people seemed to think it
 singularly inspiring to keep on saying that the [[Prison|prison]] was very large. 
@@ -8737,19 +8718,18 @@ that is divine.
 
 Tutto il torreggiante materialismo che domina la mente moderna riposa in ultima analisi su un solo presupposto: un presupposto falso. Si suppone che una cosa, se continua a ripetersi, sia probabilmente morta; un congegno a orologeria. La gente sente che, se l'universo fosse personale, varierebbe; che se il sole fosse vivo, si metterebbe a [[Dance|danzare]]. È una fallacia perfino rispetto ai fatti noti. Perché la variazione nelle vicende umane vi è introdotta, di regola, non dalla vita, ma dalla [[Death|morte]]; dallo spegnersi o dallo spezzarsi della loro forza o del loro [[Desire|desiderio]]. Un uomo varia i propri movimenti a causa di qualche lieve elemento di insuccesso o di stanchezza. Sale su un omnibus perché è stanco di camminare; oppure cammina perché è stanco di stare seduto. Ma se la sua vita e la sua gioia fossero tanto gigantesche da non stancarsi mai di andare a Islington, egli andrebbe a Islington con la stessa regolarità con cui il Tamigi va a Sheerness. La stessa [[Speed|velocità]] ed estasi della sua vita avrebbero l'immobilità della [[Death|morte]]. Il sole sorge ogni mattina. Io non mi alzo ogni mattina; ma la variazione è dovuta non alla mia attività, bensì alla mia inazione. Ora, per dirla con una frase popolare, potrebbe essere vero che il sole sorge regolarmente perché non si stanca mai di sorgere. La sua consuetudine potrebbe essere dovuta non a una mancanza di vita, ma a un impeto di vita. La cosa che intendo si può vedere, per esempio, nei bambini, quando trovano un gioco o uno scherzo di cui godono in modo particolare. Un [[Child|bambino]] scalcia ritmicamente le gambe per eccesso, non per difetto, di vita. Poiché i bambini hanno una vitalità traboccante, poiché sono nello spirito fieri e liberi, per questo vogliono che le cose siano ripetute e immutate. Dicono sempre: «Rifallo»; e la persona adulta lo rifà finché non è quasi morta. Perché le persone adulte non sono abbastanza forti da esultare nella monotonia. Ma forse Dio è abbastanza forte da esultare nella monotonia. È possibile che Dio dica ogni mattina «Rifallo» al sole; e ogni sera «Rifallo» alla [[Moon|luna]]. Può darsi che non sia una necessità automatica a rendere tutte le margherite uguali; può darsi che Dio faccia ogni margherita separatamente, ma non si sia mai stancato di farle. Può darsi che Egli abbia l'eterno appetito dell'infanzia; perché noi abbiamo peccato e siamo invecchiati, e nostro Padre è più giovane di noi. La ripetizione nella [[Nature|Natura]] può non essere un mero ricorrere; può essere un ENCORE teatrale. Il Cielo può gridare ENCORE all'uccello che ha deposto un uovo. Se l'essere umano concepisce e dà alla luce un [[Child|bambino]] umano anziché dare alla luce un pesce, o un pipistrello, o un grifone, la ragione può non essere che siamo fissati in un destino animale privo di vita o di scopo. Può darsi che la nostra piccola [[Tragedy|tragedia]] abbia commosso gli dèi, che essi la ammirino dalle loro stellate gallerie, e che alla fine di ogni dramma umano l'uomo sia richiamato ancora e ancora davanti al sipario. La ripetizione può proseguire per milioni di anni, per pura scelta, e in ogni istante può cessare. L'uomo può stare sulla terra generazione dopo generazione, e tuttavia ogni nascita essere la sua positivamente ultima apparizione.
 
-     Questa fu la mia prima convinzione, prodotta dall'urto delle mie emozioni infantili che incontravano, in piena corsa, il credo moderno. Avevo sempre vagamente sentito i fatti come miracoli nel senso che sono meravigliosi: ora cominciavo a pensarli miracoli nel senso più stretto che erano VOLUTI. Voglio dire che erano, o potevano essere, ripetuti esercizi di qualche volontà. Insomma, avevo sempre creduto che il mondo comportasse la [[Magic|magia]]: ora pensavo che forse comportasse un mago. E ciò indicava un'emozione profonda sempre presente e subcosciente: che questo nostro mondo ha uno scopo; e se c'è uno scopo, c'è una persona. Avevo sempre sentito la vita, per prima cosa, come una storia: e se c'è una storia, c'è un narratore.
+Questa fu la mia prima convinzione, prodotta dall'urto delle mie emozioni infantili che incontravano, in piena corsa, il credo moderno. Avevo sempre vagamente sentito i fatti come miracoli nel senso che sono meravigliosi: ora cominciavo a pensarli miracoli nel senso più stretto che erano VOLUTI. Voglio dire che erano, o potevano essere, ripetuti esercizi di qualche volontà. Insomma, avevo sempre creduto che il mondo comportasse la [[Magic|magia]]: ora pensavo che forse comportasse un mago. E ciò indicava un'emozione profonda sempre presente e subcosciente: che questo nostro mondo ha uno scopo; e se c'è uno scopo, c'è una persona. Avevo sempre sentito la vita, per prima cosa, come una storia: e se c'è una storia, c'è un narratore.
 
-     Ma il pensiero moderno colpì anche la mia seconda tradizione umana. Andava contro il sentimento fiabesco riguardo ai limiti e alle condizioni rigorose. L'unica cosa di cui amava parlare era l'espansione e la grandezza. Herbert Spencer si sarebbe grandemente irritato se qualcuno lo avesse chiamato imperialista, e perciò è altamente deplorevole che nessuno lo abbia fatto. Ma egli era un imperialista del genere più basso. Rese popolare quella spregevole idea che la dimensione del sistema solare dovrebbe intimidire il dogma spirituale dell'uomo. Perché mai un uomo dovrebbe cedere la propria dignità al sistema solare più di quanto la cederebbe a una balena? Se la mera dimensione prova che l'uomo non è l'immagine di Dio, allora una balena potrebbe essere l'immagine di Dio; un'immagine alquanto informe; ciò che si potrebbe chiamare un ritratto impressionista. È del tutto vano argomentare che l'uomo è piccolo in confronto al cosmo; perché l'uomo è sempre stato piccolo in confronto all'albero più vicino. Ma Herbert Spencer, nel suo impetuoso imperialismo, insisteva che noi fossimo in qualche modo stati conquistati e annessi dall'universo astronomico. Parlava degli uomini e dei loro ideali esattamente come il più insolente unionista parla degli irlandesi e dei loro ideali. Trasformava l'umanità in una piccola nazionalità. E la sua malefica influenza si può scorgere perfino nei più vivaci e onorevoli tra gli autori scientifici successivi; segnatamente nei primi romanzi del signor H.G. Wells. Molti moralisti hanno rappresentato, in modo esagerato, la terra come malvagia. Ma il signor Wells e la sua scuola resero malvagi i cieli. Dovremmo levare gli occhi alle [[Stars|stelle]] dalle quali verrebbe la nostra rovina.
+Ma il pensiero moderno colpì anche la mia seconda tradizione umana. Andava contro il sentimento fiabesco riguardo ai limiti e alle condizioni rigorose. L'unica cosa di cui amava parlare era l'espansione e la grandezza. Herbert Spencer si sarebbe grandemente irritato se qualcuno lo avesse chiamato imperialista, e perciò è altamente deplorevole che nessuno lo abbia fatto. Ma egli era un imperialista del genere più basso. Rese popolare quella spregevole idea che la dimensione del sistema solare dovrebbe intimidire il dogma spirituale dell'uomo. Perché mai un uomo dovrebbe cedere la propria dignità al sistema solare più di quanto la cederebbe a una balena? Se la mera dimensione prova che l'uomo non è l'immagine di Dio, allora una balena potrebbe essere l'immagine di Dio; un'immagine alquanto informe; ciò che si potrebbe chiamare un ritratto impressionista. È del tutto vano argomentare che l'uomo è piccolo in confronto al cosmo; perché l'uomo è sempre stato piccolo in confronto all'albero più vicino. Ma Herbert Spencer, nel suo impetuoso imperialismo, insisteva che noi fossimo in qualche modo stati conquistati e annessi dall'universo astronomico. Parlava degli uomini e dei loro ideali esattamente come il più insolente unionista parla degli irlandesi e dei loro ideali. Trasformava l'umanità in una piccola nazionalità. E la sua malefica influenza si può scorgere perfino nei più vivaci e onorevoli tra gli autori scientifici successivi; segnatamente nei primi romanzi del signor H.G. Wells. Molti moralisti hanno rappresentato, in modo esagerato, la terra come malvagia. Ma il signor Wells e la sua scuola resero malvagi i cieli. Dovremmo levare gli occhi alle [[Stars|stelle]] dalle quali verrebbe la nostra rovina.
 
-     Ma l'espansione di cui parlo era assai più malefica di tutto questo. Ho osservato che il materialista, come il pazzo, è in [[Prison|prigione]]; nella [[Prison|prigione]] di un solo pensiero. Costoro sembravano trovare singolarmente esaltante il ripetere di continuo che la [[Prison|prigione]] era molto grande. La dimensione di questo universo scientifico non offriva alcuna novità, alcun sollievo. Il cosmo proseguiva in eterno, ma neppure nella sua più selvaggia costellazione poteva esservi qualcosa di davvero interessante; qualcosa, per esempio, come il [[Forgiveness|perdono]] o il libero arbitrio. La grandiosità o l'infinità del segreto del suo cosmo non vi aggiungeva nulla. Era come dire a un prigioniero nel carcere di Reading che gli avrebbe fatto piacere sapere che il carcere ora copriva metà della contea. Il carceriere non avrebbe nulla da mostrare all'uomo se non corridoi di pietra sempre più lunghi, illuminati da luci spettrali e vuoti di tutto ciò che è umano. Così questi espansori dell'universo non avevano nulla da mostrarci se non corridoi di spazio sempre più infiniti, illuminati da soli spettrali e vuoti di tutto ciò che è divino.
+Ma l'espansione di cui parlo era assai più malefica di tutto questo. Ho osservato che il materialista, come il pazzo, è in [[Prison|prigione]]; nella [[Prison|prigione]] di un solo pensiero. Costoro sembravano trovare singolarmente esaltante il ripetere di continuo che la [[Prison|prigione]] era molto grande. La dimensione di questo universo scientifico non offriva alcuna novità, alcun sollievo. Il cosmo proseguiva in eterno, ma neppure nella sua più selvaggia costellazione poteva esservi qualcosa di davvero interessante; qualcosa, per esempio, come il [[Forgiveness|perdono]] o il libero arbitrio. La grandiosità o l'infinità del segreto del suo cosmo non vi aggiungeva nulla. Era come dire a un prigioniero nel carcere di Reading che gli avrebbe fatto piacere sapere che il carcere ora copriva metà della contea. Il carceriere non avrebbe nulla da mostrare all'uomo se non corridoi di pietra sempre più lunghi, illuminati da luci spettrali e vuoti di tutto ciò che è umano. Così questi espansori dell'universo non avevano nulla da mostrarci se non corridoi di spazio sempre più infiniti, illuminati da soli spettrali e vuoti di tutto ciò che è divino.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_07" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 7)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_07" data-title="Orthodoxy — IV The Ethics Of Elfland (part 7)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 7)
 
-     In fairyland there had been a real law; a law that could be broken,
+In fairyland there had been a real law; a law that could be broken,
 for the definition of a law is something that can be broken.
 But the machinery of this cosmic [[Prison|prison]] was something that could
 not be broken; for we ourselves were only a part of its machinery. 
@@ -8763,7 +8743,7 @@ but it is not free. One went into larger and larger windowless rooms,
 rooms big with Babylonian perspective; but one never found the
 smallest [[Window|window]] or a whisper of outer air.
 
-     Their infernal parallels seemed to expand with distance;
+Their infernal parallels seemed to expand with distance;
 but for me all good things come to a point, swords for instance. 
 So finding the boast of the big cosmos so unsatisfactory to my
 emotions I began to argue about it a little; and I soon found that
@@ -8783,7 +8763,7 @@ sane a sentiment to rejoice that the sun is no larger than it is.
 A man chooses to have an emotion about the largeness of the world;
 why should he not choose to have an emotion about its smallness?
 
-     It happened that I had that emotion.  When one is fond of
+It happened that I had that emotion.  When one is fond of
 anything one addresses it by diminutives, even if it is an elephant
 or a life-guardsman.  The reason is, that anything, however huge,
 that can be conceived of as complete, can be conceived of as small. 
@@ -8806,7 +8786,7 @@ extravagance.  To them [[Stars|stars]] were an unending income of halfpence;
 but I felt about the golden sun and the silver [[Moon|moon]] as a schoolboy
 feels if he has one sovereign and one shilling.
 
-     These subconscious convictions are best hit off by the colour
+These subconscious convictions are best hit off by the colour
 and tone of certain tales.  Thus I have said that stories of [[Magic|magic]]
 [[Alone|alone]] can express my sense that life is not only a pleasure but a
 kind of eccentric privilege.  I may express this other feeling of
@@ -8830,7 +8810,7 @@ and it was common to say that many a man was a Great Might-Have-Been.
 To me it is a more solid and startling fact that any man in the
 street is a Great Might-Not-Have-Been.
 
-     But I really felt (the fancy may seem foolish) as if all the
+But I really felt (the fancy may seem foolish) as if all the
 order and number of things were the romantic remnant of Crusoe's [[Ship|ship]]. 
 That there are two sexes and one sun, was like the fact that there
 were two guns and one axe.  It was poignantly urgent that none
@@ -8849,21 +8829,20 @@ peer and without price:  for there cannot be another one.
 
 Nel paese delle fate esisteva una legge vera; una legge che poteva essere infranta, giacché la definizione stessa di una legge è di essere qualcosa che si può infrangere. Ma il meccanismo di questa [[Prison|prigione]] cosmica era qualcosa che non poteva essere infranto; poiché noi stessi non eravamo che una parte del suo meccanismo. O eravamo incapaci di compiere le cose, oppure eravamo destinati a compierle. L'idea della condizione mistica svaniva del tutto; non si può avere né la fermezza di osservare le leggi né il piacere di trasgredirle. La vastità di questo universo non aveva nulla di quella freschezza e di quell'aereo prorompere che abbiamo lodato nell'universo del poeta. Questo universo moderno è alla lettera un impero; vale a dire che era immenso, ma non è libero. Si passava in stanze sempre più grandi e prive di finestre, stanze enormi di prospettiva babilonese; ma non si trovava mai la più piccola [[Window|finestra]] né un sussurro d'aria esterna.
 
-     Le loro infernali parallele parevano dilatarsi con la distanza; ma per me tutte le cose buone convergono in una punta, le spade per esempio. Sicché, trovando il vanto del grande cosmo tanto insoddisfacente per le mie emozioni, cominciai a ragionarci sopra un poco; e presto scoprii che l'intero atteggiamento era ancora più superficiale di quanto ci si potesse aspettare. Secondo costoro il cosmo era una cosa sola perché aveva un'unica regola inviolata. Solo che (dicevano) pur essendo una cosa sola, è anche l'unica cosa che esista. Perché, dunque, darsi tanta pena di chiamarlo grande? Non c'è nulla con cui paragonarlo. Sarebbe altrettanto ragionevole chiamarlo piccolo. Un uomo può dire: «Mi piace questo vasto cosmo, con la sua ressa di [[Stars|stelle]] e la sua folla di creature svariate». Ma, se è per questo, perché un uomo non dovrebbe dire: «Mi piace questo cosmo piccolo e accogliente, con il suo numero decoroso di [[Stars|stelle]] e una provvista di bestiame tanto linda quanta ne desidero vedere»? L'una vale l'altra; sono entrambi puri sentimenti. È puro sentimento rallegrarsi che il sole sia più grande della terra; è un sentimento altrettanto sensato rallegrarsi che il sole non sia più grande di quel che è. Un uomo sceglie di provare un'emozione per la grandezza del mondo; perché non dovrebbe scegliere di provarne una per la sua piccolezza?
+Le loro infernali parallele parevano dilatarsi con la distanza; ma per me tutte le cose buone convergono in una punta, le spade per esempio. Sicché, trovando il vanto del grande cosmo tanto insoddisfacente per le mie emozioni, cominciai a ragionarci sopra un poco; e presto scoprii che l'intero atteggiamento era ancora più superficiale di quanto ci si potesse aspettare. Secondo costoro il cosmo era una cosa sola perché aveva un'unica regola inviolata. Solo che (dicevano) pur essendo una cosa sola, è anche l'unica cosa che esista. Perché, dunque, darsi tanta pena di chiamarlo grande? Non c'è nulla con cui paragonarlo. Sarebbe altrettanto ragionevole chiamarlo piccolo. Un uomo può dire: «Mi piace questo vasto cosmo, con la sua ressa di [[Stars|stelle]] e la sua folla di creature svariate». Ma, se è per questo, perché un uomo non dovrebbe dire: «Mi piace questo cosmo piccolo e accogliente, con il suo numero decoroso di [[Stars|stelle]] e una provvista di bestiame tanto linda quanta ne desidero vedere»? L'una vale l'altra; sono entrambi puri sentimenti. È puro sentimento rallegrarsi che il sole sia più grande della terra; è un sentimento altrettanto sensato rallegrarsi che il sole non sia più grande di quel che è. Un uomo sceglie di provare un'emozione per la grandezza del mondo; perché non dovrebbe scegliere di provarne una per la sua piccolezza?
 
-     Accadde che io provassi proprio quell'emozione. Quando si ama qualcosa, la si chiama con vezzeggiativi, foss'anche un elefante o un granatiere delle guardie. La ragione è che qualunque cosa, per quanto enorme, che possa essere concepita come completa, può essere concepita come piccola. Se i baffi militareschi non suggerissero una [[Sword|spada]] né le zanne una coda, allora l'oggetto sarebbe vasto perché sarebbe incommensurabile. Ma nel momento in cui puoi immaginare un granatiere, puoi immaginare un granatiere piccolo. Nel momento in cui vedi davvero un elefante, puoi chiamarlo «Piccino». Se puoi fare la statua di una cosa, puoi farne anche la statuetta. Costoro professavano che l'universo fosse una cosa sola e coerente; ma non amavano l'universo. Io invece amavo terribilmente l'universo e volevo chiamarlo con un vezzeggiativo. Lo facevo spesso; e non parve mai dispiacersene. In realtà e in [[Truth|verità]] sentivo che questi oscuri dogmi della vitalità si esprimevano meglio chiamando il mondo piccolo che chiamandolo grande. Perché intorno all'infinito c'era una specie di noncuranza che era il rovescio della cura fiera e devota che sentivo nel toccare l'inestimabile valore e il pericolo della vita. Essi mostravano soltanto una squallida distesa deserta; ma io sentivo una sorta di sacra parsimonia. Poiché l'economia è assai più romantica dello sperpero. Per loro le [[Stars|stelle]] erano una rendita infinita di spiccioli; ma io provavo, davanti al sole d'oro e alla [[Moon|luna]] d'argento, ciò che prova uno scolaro se possiede una sovrana e uno scellino.
+Accadde che io provassi proprio quell'emozione. Quando si ama qualcosa, la si chiama con vezzeggiativi, foss'anche un elefante o un granatiere delle guardie. La ragione è che qualunque cosa, per quanto enorme, che possa essere concepita come completa, può essere concepita come piccola. Se i baffi militareschi non suggerissero una [[Sword|spada]] né le zanne una coda, allora l'oggetto sarebbe vasto perché sarebbe incommensurabile. Ma nel momento in cui puoi immaginare un granatiere, puoi immaginare un granatiere piccolo. Nel momento in cui vedi davvero un elefante, puoi chiamarlo «Piccino». Se puoi fare la statua di una cosa, puoi farne anche la statuetta. Costoro professavano che l'universo fosse una cosa sola e coerente; ma non amavano l'universo. Io invece amavo terribilmente l'universo e volevo chiamarlo con un vezzeggiativo. Lo facevo spesso; e non parve mai dispiacersene. In realtà e in [[Truth|verità]] sentivo che questi oscuri dogmi della vitalità si esprimevano meglio chiamando il mondo piccolo che chiamandolo grande. Perché intorno all'infinito c'era una specie di noncuranza che era il rovescio della cura fiera e devota che sentivo nel toccare l'inestimabile valore e il pericolo della vita. Essi mostravano soltanto una squallida distesa deserta; ma io sentivo una sorta di sacra parsimonia. Poiché l'economia è assai più romantica dello sperpero. Per loro le [[Stars|stelle]] erano una rendita infinita di spiccioli; ma io provavo, davanti al sole d'oro e alla [[Moon|luna]] d'argento, ciò che prova uno scolaro se possiede una sovrana e uno scellino.
 
-     Queste convinzioni subconscie si colgono al meglio nel colore e nel tono di certi racconti. Così ho detto che le storie di [[Magic|magia]] [[Alone|soltanto]] possono esprimere il mio sentimento che la vita non è soltanto un piacere, ma una sorta di stravagante privilegio. Posso esprimere quest'altro sentimento di comodità cosmica accennando a un altro libro sempre letto nella fanciullezza, «Robinson Crusoe», che lessi all'incirca in quel [[Time|tempo]], e che deve la sua eterna vivacità al fatto di celebrare la poesia dei limiti, anzi, persino la selvaggia [[Romance|avventura]] della prudenza. Crusoe è un uomo su un piccolo scoglio con pochi conforti appena strappati al mare: la cosa migliore del libro è semplicemente l'elenco degli oggetti salvati dal relitto. Il più grande dei [[Poems|poemi]] è un inventario. Ogni utensile da cucina diventa ideale perché Crusoe avrebbe potuto lasciarlo cadere in mare. È un buon esercizio, nelle ore vuote o brutte della giornata, guardare una cosa qualsiasi, il secchio del carbone o la libreria, e pensare quanto si potrebbe essere felici di averla portata in salvo dalla [[Ship|nave]] che affonda fino all'isola solitaria. Ma è un esercizio ancora migliore ricordare come tutte le cose abbiano avuto questo scampo per un pelo: ogni cosa è stata salvata da un naufragio. Ogni uomo ha vissuto un'unica avventura terribile: come un parto nascosto e intempestivo egli non era stato, come i bimbi che mai vedono la luce. Nella mia fanciullezza si parlava molto di uomini di genio limitati o rovinati: ed era comune dire che più d'uno era stato un Grande-Che-Avrebbe-Potuto-Essere. Per me è un fatto assai più solido e sorprendente che qualunque uomo per la strada sia un Grande-Che-Avrebbe-Potuto-Non-Essere.
+Queste convinzioni subconscie si colgono al meglio nel colore e nel tono di certi racconti. Così ho detto che le storie di [[Magic|magia]] [[Alone|soltanto]] possono esprimere il mio sentimento che la vita non è soltanto un piacere, ma una sorta di stravagante privilegio. Posso esprimere quest'altro sentimento di comodità cosmica accennando a un altro libro sempre letto nella fanciullezza, «Robinson Crusoe», che lessi all'incirca in quel [[Time|tempo]], e che deve la sua eterna vivacità al fatto di celebrare la poesia dei limiti, anzi, persino la selvaggia [[Romance|avventura]] della prudenza. Crusoe è un uomo su un piccolo scoglio con pochi conforti appena strappati al mare: la cosa migliore del libro è semplicemente l'elenco degli oggetti salvati dal relitto. Il più grande dei [[Poems|poemi]] è un inventario. Ogni utensile da cucina diventa ideale perché Crusoe avrebbe potuto lasciarlo cadere in mare. È un buon esercizio, nelle ore vuote o brutte della giornata, guardare una cosa qualsiasi, il secchio del carbone o la libreria, e pensare quanto si potrebbe essere felici di averla portata in salvo dalla [[Ship|nave]] che affonda fino all'isola solitaria. Ma è un esercizio ancora migliore ricordare come tutte le cose abbiano avuto questo scampo per un pelo: ogni cosa è stata salvata da un naufragio. Ogni uomo ha vissuto un'unica avventura terribile: come un parto nascosto e intempestivo egli non era stato, come i bimbi che mai vedono la luce. Nella mia fanciullezza si parlava molto di uomini di genio limitati o rovinati: ed era comune dire che più d'uno era stato un Grande-Che-Avrebbe-Potuto-Essere. Per me è un fatto assai più solido e sorprendente che qualunque uomo per la strada sia un Grande-Che-Avrebbe-Potuto-Non-Essere.
 
-     Ma sentivo davvero (il capriccio potrà parere sciocco) come se tutto l'ordine e il numero delle cose fossero il romantico residuo della [[Ship|nave]] di Crusoe. Che vi siano due sessi e un solo sole, era come il fatto che vi fossero due fucili e un'ascia. Era straziantemente urgente che nessuno andasse perduto; ma, chissà come, era piuttosto divertente che nessuno potesse essere aggiunto. Gli alberi e i pianeti parevano cose salvate dal relitto: e quando vidi il Cervino fui lieto che non fosse stato trascurato nella confusione. Provavo un senso di parsimonia riguardo alle [[Stars|stelle]] come se fossero zaffiri (così vengono chiamate nell'Eden di [[Milton]]): ammassavo le colline come un tesoro. Poiché l'universo è un unico [[Jewel|gioiello]], e mentre è un luogo comune naturale parlare di un [[Jewel|gioiello]] come impareggiabile e inestimabile, di questo [[Jewel|gioiello]] è letteralmente vero. Questo cosmo è davvero senza pari e senza prezzo: perché non ce ne può essere un altro.
+Ma sentivo davvero (il capriccio potrà parere sciocco) come se tutto l'ordine e il numero delle cose fossero il romantico residuo della [[Ship|nave]] di Crusoe. Che vi siano due sessi e un solo sole, era come il fatto che vi fossero due fucili e un'ascia. Era straziantemente urgente che nessuno andasse perduto; ma, chissà come, era piuttosto divertente che nessuno potesse essere aggiunto. Gli alberi e i pianeti parevano cose salvate dal relitto: e quando vidi il Cervino fui lieto che non fosse stato trascurato nella confusione. Provavo un senso di parsimonia riguardo alle [[Stars|stelle]] come se fossero zaffiri (così vengono chiamate nell'Eden di [[Milton]]): ammassavo le colline come un tesoro. Poiché l'universo è un unico [[Jewel|gioiello]], e mentre è un luogo comune naturale parlare di un [[Jewel|gioiello]] come impareggiabile e inestimabile, di questo [[Jewel|gioiello]] è letteralmente vero. Questo cosmo è davvero senza pari e senza prezzo: perché non ce ne può essere un altro.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_08" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 8)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_08" data-title="Orthodoxy — IV The Ethics Of Elfland (part 8)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 8)
 
-     Thus ends, in unavoidable inadequacy, the attempt to utter the
+Thus ends, in unavoidable inadequacy, the attempt to utter the
 unutterable things.  These are my ultimate attitudes towards life;
 the soils for the seeds of doctrine.  These in some dark way
 I thought before I could write, and felt before I could think: 
@@ -8891,7 +8870,7 @@ of Christian theology.
 
 V THE [[Flag|FLAG]] OF THE WORLD
 
-     When I was a boy there were two curious men running about
+When I was a boy there were two curious men running about
 who were called the optimist and the pessimist.  I constantly
 used the words myself, but I cheerfully confess that I never had
 any very special idea of what they meant.  The only thing which
@@ -8916,7 +8895,7 @@ contact with the earth from moment to moment, and that happier
 thinker who considers rather our primary power of vision and of
 choice of [[Road|road]].
 
-     But this is a deep mistake in this alternative of the optimist
+But this is a deep mistake in this alternative of the optimist
 and the pessimist.  The assumption of it is that a man criticises
 this world as if he were [[house]]-hunting, as if he were being
 shown over a new suite of apartments.  If a man came to this world
@@ -8930,7 +8909,7 @@ and often won heroic victories for the [[Flag|flag]] long before he has ever enl
 To put shortly what seems the essential matter, he has a loyalty
 long before he has any admiration.
 
-     In the last chapter it has been said that the primary feeling
+In the last chapter it has been said that the primary feeling
 that this world is strange and yet attractive is best expressed
 in fairy tales.  The reader may, if he likes, put down the next stage
 to that bellicose and even jingo literature which commonly comes next
@@ -8950,7 +8929,7 @@ All optimistic thoughts about England and all pessimistic thoughts
 about her are alike reasons for the English patriot.  Similarly,
 optimism and pessimism are alike arguments for the cosmic patriot.
 
-     Let us suppose we are confronted with a desperate thing--say Pimlico. 
+Let us suppose we are confronted with a desperate thing--say Pimlico. 
 If we think what is really best for Pimlico we shall find the
 thread of thought leads to the throne or the mystic and the arbitrary. 
 It is not enough for a man to disapprove of Pimlico:  in that case he
@@ -8981,21 +8960,20 @@ Così finisce, in un'inevitabile insufficienza, il tentativo di dire le cose ind
 
 V LA [[Flag|BANDIERA]] DEL MONDO
 
-     Quando ero ragazzo c'erano due curiosi personaggi che andavano in giro e che venivano chiamati l'ottimista e il pessimista. Io stesso usavo di continuo queste parole, ma confesso allegramente di non aver mai avuto un'idea molto precisa di ciò che significassero. L'unica cosa che si potesse considerare evidente era che non potevano voler dire ciò che dicevano; poiché la consueta spiegazione verbale era che l'ottimista giudicava questo mondo buono quanto poteva esserlo, mentre il pessimista lo giudicava cattivo quanto poteva esserlo. Essendo entrambe queste affermazioni palesemente farneticante nonsenso, bisognava andare in cerca di altre spiegazioni. Un ottimista non poteva significare un uomo che giudicava tutto giusto e niente sbagliato. Perché ciò è privo di senso; è come chiamare tutto destro e niente sinistro. Tutto sommato, giunsi alla conclusione che l'ottimista giudicava tutto buono tranne il pessimista, e che il pessimista giudicava tutto cattivo, tranne sé stesso. Sarebbe ingiusto omettere del tutto dall'elenco la definizione misteriosa ma suggestiva che si dice sia stata data da una bambina: «Un ottimista è un uomo che ti guarda gli occhi, e un pessimista è un uomo che ti guarda i piedi». Non sono sicuro che non sia la migliore definizione di tutte. C'è persino una sorta di [[Truth|verità]] allegorica in essa. Poiché forse si potrebbe tracciare una proficua distinzione tra quel pensatore più tetro che pensa soltanto al nostro contatto con la terra istante per istante, e quel pensatore più felice che considera piuttosto la nostra facoltà primaria della visione e della scelta della [[Road|strada]].
+Quando ero ragazzo c'erano due curiosi personaggi che andavano in giro e che venivano chiamati l'ottimista e il pessimista. Io stesso usavo di continuo queste parole, ma confesso allegramente di non aver mai avuto un'idea molto precisa di ciò che significassero. L'unica cosa che si potesse considerare evidente era che non potevano voler dire ciò che dicevano; poiché la consueta spiegazione verbale era che l'ottimista giudicava questo mondo buono quanto poteva esserlo, mentre il pessimista lo giudicava cattivo quanto poteva esserlo. Essendo entrambe queste affermazioni palesemente farneticante nonsenso, bisognava andare in cerca di altre spiegazioni. Un ottimista non poteva significare un uomo che giudicava tutto giusto e niente sbagliato. Perché ciò è privo di senso; è come chiamare tutto destro e niente sinistro. Tutto sommato, giunsi alla conclusione che l'ottimista giudicava tutto buono tranne il pessimista, e che il pessimista giudicava tutto cattivo, tranne sé stesso. Sarebbe ingiusto omettere del tutto dall'elenco la definizione misteriosa ma suggestiva che si dice sia stata data da una bambina: «Un ottimista è un uomo che ti guarda gli occhi, e un pessimista è un uomo che ti guarda i piedi». Non sono sicuro che non sia la migliore definizione di tutte. C'è persino una sorta di [[Truth|verità]] allegorica in essa. Poiché forse si potrebbe tracciare una proficua distinzione tra quel pensatore più tetro che pensa soltanto al nostro contatto con la terra istante per istante, e quel pensatore più felice che considera piuttosto la nostra facoltà primaria della visione e della scelta della [[Road|strada]].
 
-     Ma in questa alternativa tra l'ottimista e il pessimista si annida un profondo errore. Il presupposto è che un uomo giudichi questo mondo come se fosse in cerca di una [[house|casa]], come se gli venisse mostrato un nuovo appartamento. Se un uomo giungesse a questo mondo da qualche altro mondo in pieno possesso delle sue facoltà, potrebbe discutere se il vantaggio dei boschi di mezza estate compensi lo svantaggio dei [[dogs|cani]] rabbiosi, proprio come chi cerca un alloggio potrebbe bilanciare la presenza di un telefono con l'assenza di una vista sul mare. Ma nessun uomo si trova in quella posizione. Un uomo appartiene a questo mondo prima ancora di cominciare a chiedersi se sia bello appartenervi. Ha combattuto per la [[Flag|bandiera]], e spesso ha riportato vittorie eroiche per la [[Flag|bandiera]] molto prima di essersi mai arruolato. Per dire in breve ciò che pare la cosa essenziale, egli ha una lealtà molto prima di avere una qualsiasi ammirazione.
+Ma in questa alternativa tra l'ottimista e il pessimista si annida un profondo errore. Il presupposto è che un uomo giudichi questo mondo come se fosse in cerca di una [[house|casa]], come se gli venisse mostrato un nuovo appartamento. Se un uomo giungesse a questo mondo da qualche altro mondo in pieno possesso delle sue facoltà, potrebbe discutere se il vantaggio dei boschi di mezza estate compensi lo svantaggio dei [[dogs|cani]] rabbiosi, proprio come chi cerca un alloggio potrebbe bilanciare la presenza di un telefono con l'assenza di una vista sul mare. Ma nessun uomo si trova in quella posizione. Un uomo appartiene a questo mondo prima ancora di cominciare a chiedersi se sia bello appartenervi. Ha combattuto per la [[Flag|bandiera]], e spesso ha riportato vittorie eroiche per la [[Flag|bandiera]] molto prima di essersi mai arruolato. Per dire in breve ciò che pare la cosa essenziale, egli ha una lealtà molto prima di avere una qualsiasi ammirazione.
 
-     Nel capitolo precedente si è detto che il sentimento primario per cui questo mondo è strano eppure attraente trova la sua migliore espressione nelle fiabe. Il lettore può, se vuole, ascrivere lo stadio successivo a quella letteratura bellicosa e persino sciovinista che di solito viene subito dopo nella [[history|storia]] di un ragazzo. Dobbiamo tutti molta sana [[morality|moralità]] ai romanzetti da quattro soldi. Quale che ne sia la ragione, mi sembrava e ancora mi sembra che il nostro atteggiamento verso la vita possa essere meglio espresso nei termini di una sorta di lealtà militare che nei termini di critica e approvazione. La mia accettazione dell'universo non è ottimismo, è piuttosto qualcosa come il patriottismo. È una questione di lealtà primaria. Il mondo non è una [[house|pensione]] a Brighton, che dobbiamo lasciare perché è miserabile. È la fortezza della nostra famiglia, con la [[Flag|bandiera]] che sventola sulla torre, e quanto più è miserabile tanto meno dovremmo lasciarla. Il punto non è che questo mondo sia troppo triste per essere [[Love|amato]] o troppo lieto per non essere [[Love|amato]]; il punto è che quando [[Love|ami]] davvero una cosa, la sua letizia è una ragione per amarla, e la sua tristezza una ragione per amarla di più. Tutti i pensieri ottimisti sull'Inghilterra e tutti i pensieri pessimisti su di lei sono egualmente ragioni per il patriota inglese. Similmente, ottimismo e pessimismo sono egualmente argomenti per il patriota cosmico.
+Nel capitolo precedente si è detto che il sentimento primario per cui questo mondo è strano eppure attraente trova la sua migliore espressione nelle fiabe. Il lettore può, se vuole, ascrivere lo stadio successivo a quella letteratura bellicosa e persino sciovinista che di solito viene subito dopo nella [[history|storia]] di un ragazzo. Dobbiamo tutti molta sana [[morality|moralità]] ai romanzetti da quattro soldi. Quale che ne sia la ragione, mi sembrava e ancora mi sembra che il nostro atteggiamento verso la vita possa essere meglio espresso nei termini di una sorta di lealtà militare che nei termini di critica e approvazione. La mia accettazione dell'universo non è ottimismo, è piuttosto qualcosa come il patriottismo. È una questione di lealtà primaria. Il mondo non è una [[house|pensione]] a Brighton, che dobbiamo lasciare perché è miserabile. È la fortezza della nostra famiglia, con la [[Flag|bandiera]] che sventola sulla torre, e quanto più è miserabile tanto meno dovremmo lasciarla. Il punto non è che questo mondo sia troppo triste per essere [[Love|amato]] o troppo lieto per non essere [[Love|amato]]; il punto è che quando [[Love|ami]] davvero una cosa, la sua letizia è una ragione per amarla, e la sua tristezza una ragione per amarla di più. Tutti i pensieri ottimisti sull'Inghilterra e tutti i pensieri pessimisti su di lei sono egualmente ragioni per il patriota inglese. Similmente, ottimismo e pessimismo sono egualmente argomenti per il patriota cosmico.
 
-     Supponiamo di trovarci di fronte a una cosa disperata: diciamo Pimlico. Se pensiamo a ciò che è davvero meglio per Pimlico, scopriremo che il filo del pensiero conduce al trono o al mistico e all'arbitrario. Non basta che un uomo disapprovi Pimlico: in tal caso si taglierà semplicemente la gola o si trasferirà a Chelsea. Né, di certo, basta che un uomo approvi Pimlico: perché allora Pimlico resterà Pimlico, il che sarebbe spaventoso. L'unica via d'uscita sembra essere che qualcuno [[Love|ami]] Pimlico: che la [[Love|ami]] con un legame trascendentale e senza alcuna ragione terrena. Se sorgesse un uomo che amasse Pimlico, allora Pimlico si leverebbe in torri d'avorio e in pinnacoli d'oro; Pimlico si adornerebbe come fa una donna quando è amata. Poiché l'ornamento non è dato per nascondere cose orribili: ma per adornare cose già adorabili. Una madre non dà al suo [[Child|bambino]] un fiocco azzurro perché egli è tanto brutto senza. Un [[Lover|innamorato]] non dà a una ragazza una collana per nasconderle il collo. Se gli uomini amassero Pimlico come le madri [[Love|amano]] i figli, arbitrariamente, perché è LORO, Pimlico in un anno o due potrebbe essere più bella di Firenze. Alcuni lettori diranno che questa è una mera fantasia. Rispondo che questa è la [[history|storia]] reale del genere umano. Questo, di fatto, è il modo in cui le città divennero grandi. Risalite alle più oscure radici della civiltà e le troverete annodate attorno a qualche pietra sacra o cingenti qualche [[Well|pozzo]] sacro. Dapprima la gente rese [[Honour|onore]] a un luogo e in seguito ne trasse gloria. Gli uomini non [[Love|amarono]] Roma perché era grande. Era grande perché l'avevano amata.
+Supponiamo di trovarci di fronte a una cosa disperata: diciamo Pimlico. Se pensiamo a ciò che è davvero meglio per Pimlico, scopriremo che il filo del pensiero conduce al trono o al mistico e all'arbitrario. Non basta che un uomo disapprovi Pimlico: in tal caso si taglierà semplicemente la gola o si trasferirà a Chelsea. Né, di certo, basta che un uomo approvi Pimlico: perché allora Pimlico resterà Pimlico, il che sarebbe spaventoso. L'unica via d'uscita sembra essere che qualcuno [[Love|ami]] Pimlico: che la [[Love|ami]] con un legame trascendentale e senza alcuna ragione terrena. Se sorgesse un uomo che amasse Pimlico, allora Pimlico si leverebbe in torri d'avorio e in pinnacoli d'oro; Pimlico si adornerebbe come fa una donna quando è amata. Poiché l'ornamento non è dato per nascondere cose orribili: ma per adornare cose già adorabili. Una madre non dà al suo [[Child|bambino]] un fiocco azzurro perché egli è tanto brutto senza. Un [[Lover|innamorato]] non dà a una ragazza una collana per nasconderle il collo. Se gli uomini amassero Pimlico come le madri [[Love|amano]] i figli, arbitrariamente, perché è LORO, Pimlico in un anno o due potrebbe essere più bella di Firenze. Alcuni lettori diranno che questa è una mera fantasia. Rispondo che questa è la [[history|storia]] reale del genere umano. Questo, di fatto, è il modo in cui le città divennero grandi. Risalite alle più oscure radici della civiltà e le troverete annodate attorno a qualche pietra sacra o cingenti qualche [[Well|pozzo]] sacro. Dapprima la gente rese [[Honour|onore]] a un luogo e in seguito ne trasse gloria. Gli uomini non [[Love|amarono]] Roma perché era grande. Era grande perché l'avevano amata.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_09" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 9)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_09" data-title="Orthodoxy — IV The Ethics Of Elfland (part 9)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 9)
 
-     The eighteenth-century theories of the social contract have been
+The eighteenth-century theories of the social contract have been
 exposed to much clumsy criticism in our [[Time|time]]; in so far as they meant
 that there is at the back of all historic [[government]] an idea of
 content and co-operation, they were demonstrably right.  But they really
@@ -9016,7 +8994,7 @@ certain ark across a certain [[Desert|desert]].  Anarchy was evil because it
 endangered the sanctity. And only when they made a holy day for God
 did they find they had made a holiday for men.
 
-     If it be granted that this primary devotion to a place or thing
+If it be granted that this primary devotion to a place or thing
 is a source of creative energy, we can pass on to a very peculiar fact. 
 Let us reiterate for an instant that the only right optimism is
 a sort of universal patriotism.  What is the matter with the pessimist? 
@@ -9026,7 +9004,7 @@ without undue bitterness, by saying that he is the candid friend.
 And what is the matter with the candid friend?  There we strike
 the rock of real life and immutable human [[Nature|nature]].
 
-     I venture to say that what is bad in the candid friend is
+I venture to say that what is bad in the candid friend is
 simply that he is not candid.  He is keeping something back--
 his own gloomy pleasure in saying unpleasant things.  He has a
 secret [[Desire|desire]] to hurt, not merely to help.  This is certainly,
@@ -9053,7 +9031,7 @@ down with smallpox; but we want to know whether this is stated by
 some great philosopher who wants to curse the gods, or only by some
 common clergyman who wants to help the men.
 
-     The evil of the pessimist is, then, not that he chastises gods and men,
+The evil of the pessimist is, then, not that he chastises gods and men,
 but that he does not [[Love|love]] what he chastises--he has not this primary
 and [[Supernatural|supernatural]] loyalty to things.  What is the evil of the man
 commonly called an optimist?  Obviously, it is felt that the optimist,
@@ -9066,7 +9044,7 @@ All this (which is true of a type of optimist) leads us to the one
 really interesting point of psychology, which could not be explained
 without it.
 
-     We say there must be a primal loyalty to life: 
+We say there must be a primal loyalty to life: 
 the only question is, shall it be a natural or a [[Supernatural|supernatural]] loyalty?
 If you like to put it so, shall it be a reasonable or an unreasonable loyalty? 
 Now, the extraordinary thing is that the bad optimism (the whitewashing,
@@ -9106,21 +9084,20 @@ is your patriotism, the more practical are your politics.
 
 Le teorie settecentesche del contratto sociale sono state esposte a molte goffe critiche nel nostro [[Time|tempo]]; nella misura in cui intendevano dire che dietro a ogni [[government|governo]] storico sta un'idea di consenso e di cooperazione, avevano dimostrabilmente ragione. Ma avevano davvero torto nella misura in cui suggerivano che gli uomini avessero mai mirato all'ordine o all'etica in modo diretto, mediante un cosciente scambio di interessi. La [[morality|moralità]] non ebbe inizio quando un uomo disse a un altro: «Non ti colpirò se tu non colpirai me»; di una simile transazione non c'è la minima traccia. C'È invece traccia che entrambi gli uomini abbiano detto: «Non dobbiamo colpirci l'un l'altro nel luogo sacro». Conquistarono la loro [[morality|moralità]] custodendo la loro religione. Non coltivarono il [[Courage|coraggio]]. Combatterono per il santuario, e si accorsero di essere diventati coraggiosi. Non coltivarono la pulizia. Si purificarono per l'altare, e si accorsero di essere puri. La [[history|storia]] degli Ebrei è l'unico documento antico noto alla maggior parte degli Inglesi, e i fatti possono essere giudicati a sufficienza da essa. I Dieci Comandamenti, che si sono trovati sostanzialmente comuni al genere umano, erano meri ordini militari; un codice di disposizioni di reggimento, emanate per proteggere una certa arca attraverso un certo [[Desert|deserto]]. L'anarchia era un male perché metteva in pericolo la santità. E solo quando fecero un giorno santo per Dio si accorsero di aver fatto un giorno di festa per gli uomini.
 
-     Se si concede che questa devozione primaria verso un luogo o una cosa è fonte di energia creatrice, possiamo passare a un fatto assai singolare. Ribadiamo per un istante che l'unico ottimismo giusto è una sorta di patriottismo universale. Che cos'ha che non va il pessimista? Credo lo si possa dire affermando che egli è l'anti-patriota cosmico. E che cos'ha che non va l'anti-patriota? Credo lo si possa dire, senza eccessiva acredine, affermando che egli è l'amico sincero. E che cos'ha che non va l'amico sincero? Qui urtiamo contro la roccia della vita reale e dell'immutabile [[Nature|natura]] umana.
+Se si concede che questa devozione primaria verso un luogo o una cosa è fonte di energia creatrice, possiamo passare a un fatto assai singolare. Ribadiamo per un istante che l'unico ottimismo giusto è una sorta di patriottismo universale. Che cos'ha che non va il pessimista? Credo lo si possa dire affermando che egli è l'anti-patriota cosmico. E che cos'ha che non va l'anti-patriota? Credo lo si possa dire, senza eccessiva acredine, affermando che egli è l'amico sincero. E che cos'ha che non va l'amico sincero? Qui urtiamo contro la roccia della vita reale e dell'immutabile [[Nature|natura]] umana.
 
-     Ardisco affermare che ciò che di cattivo c'è nell'amico sincero è semplicemente che egli non è sincero. Egli tiene qualcosa nascosto: il proprio cupo piacere nel dire cose sgradevoli. Ha un segreto [[Desire|desiderio]] di ferire, non semplicemente di aiutare. È questo, io credo, che di certo rende un certo tipo di anti-patriota irritante per i cittadini sani. Non parlo (s'intende) di quell'anti-patriottismo che irrita soltanto gli agenti di cambio febbrili e le attricette svenevoli; quello non è che patriottismo che parla senza giri di parole. Un uomo che dica che nessun patriota dovrebbe attaccare la guerra boera finché non sia finita non merita una risposta intelligente; egli sta dicendo che nessun buon figlio dovrebbe avvertire la madre che sta per cadere da una rupe finché non ci sia caduta. Ma esiste un anti-patriota che onestamente adira gli uomini onesti, e la sua spiegazione è, io credo, quella che ho suggerito: egli è l'amico sincero non sincero; l'uomo che dice: «Mi dispiace dover dire che siamo rovinati», e non gli dispiace affatto. E lo si può dire, senza retorica, un traditore; poiché egli si serve di quella brutta conoscenza che gli fu concessa per rafforzare l'esercito, per distogliere la gente dall'arruolarsi. Poiché gli è consentito di essere pessimista in qualità di consigliere militare, egli si fa pessimista in qualità di sergente reclutatore. Proprio allo stesso modo il pessimista (che è l'anti-patriota cosmico) si serve della [[Freedom|libertà]] che la vita concede ai propri consiglieri per allontanare il popolo dalla sua [[Flag|bandiera]]. Ammesso che egli affermi soltanto fatti, resta pur sempre essenziale sapere quali siano le sue emozioni, quale sia il suo movente. Può darsi che milleduecento uomini a Tottenham siano colpiti dal vaiolo; ma noi vogliamo sapere se ciò venga affermato da qualche grande filosofo che vuole maledire gli dèi, o soltanto da qualche comune parroco che vuole aiutare quegli uomini.
+Ardisco affermare che ciò che di cattivo c'è nell'amico sincero è semplicemente che egli non è sincero. Egli tiene qualcosa nascosto: il proprio cupo piacere nel dire cose sgradevoli. Ha un segreto [[Desire|desiderio]] di ferire, non semplicemente di aiutare. È questo, io credo, che di certo rende un certo tipo di anti-patriota irritante per i cittadini sani. Non parlo (s'intende) di quell'anti-patriottismo che irrita soltanto gli agenti di cambio febbrili e le attricette svenevoli; quello non è che patriottismo che parla senza giri di parole. Un uomo che dica che nessun patriota dovrebbe attaccare la guerra boera finché non sia finita non merita una risposta intelligente; egli sta dicendo che nessun buon figlio dovrebbe avvertire la madre che sta per cadere da una rupe finché non ci sia caduta. Ma esiste un anti-patriota che onestamente adira gli uomini onesti, e la sua spiegazione è, io credo, quella che ho suggerito: egli è l'amico sincero non sincero; l'uomo che dice: «Mi dispiace dover dire che siamo rovinati», e non gli dispiace affatto. E lo si può dire, senza retorica, un traditore; poiché egli si serve di quella brutta conoscenza che gli fu concessa per rafforzare l'esercito, per distogliere la gente dall'arruolarsi. Poiché gli è consentito di essere pessimista in qualità di consigliere militare, egli si fa pessimista in qualità di sergente reclutatore. Proprio allo stesso modo il pessimista (che è l'anti-patriota cosmico) si serve della [[Freedom|libertà]] che la vita concede ai propri consiglieri per allontanare il popolo dalla sua [[Flag|bandiera]]. Ammesso che egli affermi soltanto fatti, resta pur sempre essenziale sapere quali siano le sue emozioni, quale sia il suo movente. Può darsi che milleduecento uomini a Tottenham siano colpiti dal vaiolo; ma noi vogliamo sapere se ciò venga affermato da qualche grande filosofo che vuole maledire gli dèi, o soltanto da qualche comune parroco che vuole aiutare quegli uomini.
 
-     Il male del pessimista, dunque, non è che egli castighi gli dèi e gli uomini, ma che egli non [[Love|ama]] ciò che castiga: non ha questa fedeltà primaria e [[Supernatural|soprannaturale]] verso le cose. Qual è il male dell'uomo comunemente chiamato ottimista? Ovviamente, si avverte che l'ottimista, volendo difendere l'[[Honour|onore]] di questo mondo, difenderà l'indifendibile. Egli è lo sciovinista dell'universo; dirà: «Il mio cosmo, nel giusto o nel torto». Sarà meno incline alla [[Reform|riforma]] delle cose; più incline a una sorta di risposta ufficiale da banco del governo a ogni attacco, rabbonendo tutti con rassicurazioni. Egli non laverà il mondo, ma lo imbiancherà a calce. Tutto ciò (che è vero di un certo tipo di ottimista) ci conduce all'unico punto di psicologia davvero interessante, che senza di esso non potrebbe essere spiegato.
+Il male del pessimista, dunque, non è che egli castighi gli dèi e gli uomini, ma che egli non [[Love|ama]] ciò che castiga: non ha questa fedeltà primaria e [[Supernatural|soprannaturale]] verso le cose. Qual è il male dell'uomo comunemente chiamato ottimista? Ovviamente, si avverte che l'ottimista, volendo difendere l'[[Honour|onore]] di questo mondo, difenderà l'indifendibile. Egli è lo sciovinista dell'universo; dirà: «Il mio cosmo, nel giusto o nel torto». Sarà meno incline alla [[Reform|riforma]] delle cose; più incline a una sorta di risposta ufficiale da banco del governo a ogni attacco, rabbonendo tutti con rassicurazioni. Egli non laverà il mondo, ma lo imbiancherà a calce. Tutto ciò (che è vero di un certo tipo di ottimista) ci conduce all'unico punto di psicologia davvero interessante, che senza di esso non potrebbe essere spiegato.
 
-     Diciamo che deve esistere una fedeltà primordiale alla vita: l'unica questione è se debba essere una fedeltà naturale o [[Supernatural|soprannaturale]]. Se preferite metterla così, se debba essere una fedeltà ragionevole o irragionevole. Ora, la cosa straordinaria è che il cattivo ottimismo (l'imbiancare a calce, la fiacca difesa di ogni cosa) entra in gioco con l'ottimismo ragionevole. L'ottimismo razionale conduce alla stagnazione: è l'ottimismo irrazionale che conduce alla [[Reform|riforma]]. Lasciate che mi spieghi ricorrendo ancora una volta al parallelo del patriottismo. L'uomo che con maggior probabilità rovinerà il luogo che ama è precisamente l'uomo che lo ama con una ragione. L'uomo che migliorerà il luogo è l'uomo che lo ama senza una ragione. Se un uomo ama qualche particolarità di Pimlico (il che pare improbabile), potrà ritrovarsi a difendere quella particolarità contro Pimlico stessa. Ma se egli ama semplicemente Pimlico in sé, potrà raderla al suolo e trasformarla nella Nuova Gerusalemme. Non nego che la [[Reform|riforma]] possa essere eccessiva; dico soltanto che è il patriota mistico a riformare. La mera compiacenza sciovinista di [[Self|sé]] è più comune fra coloro che hanno qualche ragione pedantesca per il loro patriottismo. I peggiori sciovinisti non [[Love|amano]] l'Inghilterra, ma una teoria dell'Inghilterra. Se [[Love|amiamo]] l'Inghilterra perché è un impero, potremmo sopravvalutare il [[success|successo]] con cui governiamo gli Indù. Ma se la [[Love|amiamo]] soltanto perché è una nazione, possiamo affrontare qualunque evento: poiché essa sarebbe una nazione anche se gli Indù governassero noi. Così pure, soltanto coloro il cui patriottismo dipende dalla [[history|storia]] permetteranno al loro patriottismo di falsificare la [[history|storia]]. Un uomo che ama l'Inghilterra perché è inglese non baderà a come essa sorse. Ma un uomo che ama l'Inghilterra perché è anglosassone potrà andare contro tutti i fatti per la sua fantasticheria. Potrà finire (come Carlyle e Freeman) col sostenere che la conquista normanna fu una conquista sassone. Potrà finire nella più totale irragionevolezza, perché ha una ragione. Un uomo che ama la Francia perché è militare attenuerà le colpe dell'esercito del 1870. Ma un uomo che ama la Francia perché è la Francia migliorerà l'esercito del 1870. È esattamente ciò che hanno fatto i Francesi, e la Francia è un buon esempio del [[Paradox|paradosso]] all'opera. In nessun altro luogo il patriottismo è più puramente astratto e arbitrario; e in nessun altro luogo la [[Reform|riforma]] è più drastica e radicale. Quanto più trascendentale è il vostro patriottismo, tanto più pratica è la vostra politica.
+Diciamo che deve esistere una fedeltà primordiale alla vita: l'unica questione è se debba essere una fedeltà naturale o [[Supernatural|soprannaturale]]. Se preferite metterla così, se debba essere una fedeltà ragionevole o irragionevole. Ora, la cosa straordinaria è che il cattivo ottimismo (l'imbiancare a calce, la fiacca difesa di ogni cosa) entra in gioco con l'ottimismo ragionevole. L'ottimismo razionale conduce alla stagnazione: è l'ottimismo irrazionale che conduce alla [[Reform|riforma]]. Lasciate che mi spieghi ricorrendo ancora una volta al parallelo del patriottismo. L'uomo che con maggior probabilità rovinerà il luogo che ama è precisamente l'uomo che lo ama con una ragione. L'uomo che migliorerà il luogo è l'uomo che lo ama senza una ragione. Se un uomo ama qualche particolarità di Pimlico (il che pare improbabile), potrà ritrovarsi a difendere quella particolarità contro Pimlico stessa. Ma se egli ama semplicemente Pimlico in sé, potrà raderla al suolo e trasformarla nella Nuova Gerusalemme. Non nego che la [[Reform|riforma]] possa essere eccessiva; dico soltanto che è il patriota mistico a riformare. La mera compiacenza sciovinista di [[Self|sé]] è più comune fra coloro che hanno qualche ragione pedantesca per il loro patriottismo. I peggiori sciovinisti non [[Love|amano]] l'Inghilterra, ma una teoria dell'Inghilterra. Se [[Love|amiamo]] l'Inghilterra perché è un impero, potremmo sopravvalutare il [[success|successo]] con cui governiamo gli Indù. Ma se la [[Love|amiamo]] soltanto perché è una nazione, possiamo affrontare qualunque evento: poiché essa sarebbe una nazione anche se gli Indù governassero noi. Così pure, soltanto coloro il cui patriottismo dipende dalla [[history|storia]] permetteranno al loro patriottismo di falsificare la [[history|storia]]. Un uomo che ama l'Inghilterra perché è inglese non baderà a come essa sorse. Ma un uomo che ama l'Inghilterra perché è anglosassone potrà andare contro tutti i fatti per la sua fantasticheria. Potrà finire (come Carlyle e Freeman) col sostenere che la conquista normanna fu una conquista sassone. Potrà finire nella più totale irragionevolezza, perché ha una ragione. Un uomo che ama la Francia perché è militare attenuerà le colpe dell'esercito del 1870. Ma un uomo che ama la Francia perché è la Francia migliorerà l'esercito del 1870. È esattamente ciò che hanno fatto i Francesi, e la Francia è un buon esempio del [[Paradox|paradosso]] all'opera. In nessun altro luogo il patriottismo è più puramente astratto e arbitrario; e in nessun altro luogo la [[Reform|riforma]] è più drastica e radicale. Quanto più trascendentale è il vostro patriottismo, tanto più pratica è la vostra politica.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_10" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 10)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_10" data-title="Orthodoxy — IV The Ethics Of Elfland (part 10)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 10)
 
-     Perhaps the most everyday instance of this point is in the case
+Perhaps the most everyday instance of this point is in the case
 of women; and their strange and strong loyalty.  Some stupid people
 started the idea that because women obviously back up their own people
 through everything, therefore women are blind and do not see anything. 
@@ -9138,7 +9115,7 @@ the fanatic can safely be a sceptic.  [[Love]] is not blind; that is
 the last thing that it is.  [[Love]] is bound; and the more it is bound
 the less it is blind.
 
-     This at least had come to be my position about all that was called
+This at least had come to be my position about all that was called
 optimism, pessimism, and improvement.  Before any cosmic act of [[Reform|reform]]
 we must have a cosmic oath of allegiance. A man must be interested in life,
 then he could be disinterested in his views of it.  "My son
@@ -9152,12 +9129,12 @@ very common in this age; it was perfectly put in those quiet lines of
 Matthew Arnold which are more piercingly blasphemous than
 the shrieks of Schopenhauer--
 
-         "Enough we live: --and if a life,
-          With large results so little rife,
-          Though bearable, seem hardly worth
-          This pomp of worlds, this [[Pain|pain]] of birth."
+"Enough we live: --and if a life,
+With large results so little rife,
+Though bearable, seem hardly worth
+This pomp of worlds, this [[Pain|pain]] of birth."
 
-     I know this feeling fills our epoch, and I think it freezes our epoch. 
+I know this feeling fills our epoch, and I think it freezes our epoch. 
 For our [[titanic|Titanic]] purposes of [[Faith|faith]] and revolution, what we need is
 not the cold acceptance of the world as a compromise, but some way
 in which we can heartily hate and heartily [[Love|love]] it.  We do not want
@@ -9166,7 +9143,7 @@ we want a fiercer delight and a fiercer discontent.  We have to feel
 the universe at once as an ogre's [[Castle|castle]], to be stormed, and yet as
 our own cottage, to which we can return at evening.
 
-     No one doubts that an ordinary man can get on with this world: 
+No one doubts that an ordinary man can get on with this world: 
 but we demand not strength enough to get on with it, but strength
 enough to get it on.  Can he hate it enough to change it, and yet
 [[Love|love]] it enough to think it worth changing?  Can he look up at its
@@ -9179,7 +9156,7 @@ I maintain, it is the rational optimist who fails, the irrational
 optimist who succeeds.  He is ready to smash the whole universe
 for the sake of itself.
 
-     I put these things not in their mature logical sequence,
+I put these things not in their mature logical sequence,
 but as they came:  and this view was cleared and sharpened by
 an accident of the [[Time|time]].  Under the lengthening [[Shadow|shadow]] of Ibsen,
 an argument arose whether it was not a very nice thing to murder
@@ -9214,7 +9191,7 @@ than in Mr. Archer's suicidal automatic machines.  There is a meaning
 in burying the [[suicide]] apart.  The man's crime is different from
 other crimes--for it makes even crimes impossible.
 
-     About the same [[Time|time]] I read a solemn flippancy by some free thinker: 
+About the same [[Time|time]] I read a solemn flippancy by some free thinker: 
 he said that a [[suicide]] was only the same as a martyr. The open fallacy
 of this helped to clear the question. Obviously a [[suicide]] is the
 opposite of a martyr.  A martyr is a man who cares so much for
@@ -9243,28 +9220,27 @@ to show what [[Christianity]] thought of the pessimist.
 
 Forse l'esempio più quotidiano di questo punto è quello delle donne, e della loro strana e tenace lealtà. Certe persone sciocche misero in giro l'idea che, poiché è evidente che le donne sostengono i propri cari attraverso ogni cosa, esse debbano perciò essere cieche e non vedere nulla. Difficilmente possono aver conosciuto una sola donna. Le medesime donne che sono pronte a difendere i loro uomini a spada tratta sono, nei rapporti personali con l'uomo, quasi morbosamente lucide sulla debolezza delle sue scuse o sulla durezza della sua testa. L'amico di un uomo gli vuole bene ma lo [[Leaves|lascia]] com'è: la moglie lo ama ed è sempre intenta a trasformarlo in qualcun altro. Le donne che sono mistiche assolute nel loro credo sono ciniche assolute nella loro critica. Thackeray lo espresse [[Well|bene]] quando fece sì che la madre di Pendennis, la quale adorava il figlio come un dio, presumesse tuttavia che egli, come uomo, avrebbe sbagliato. Ne sottovalutava la virtù, benché ne sopravvalutasse il valore. Il devoto è del tutto libero di criticare; il fanatico può senza pericolo essere scettico. L'[[Love|amore]] non è cieco; questa è l'ultima cosa che esso sia. L'[[Love|amore]] è vincolato; e quanto più è vincolato, tanto meno è cieco.
 
-     A questo, per lo meno, ero giunto nella mia posizione riguardo a tutto ciò che si chiamava ottimismo, pessimismo e miglioramento. Prima di qualunque atto cosmico di [[Reform|riforma]] dobbiamo prestare un cosmico giuramento di fedeltà. Un uomo deve interessarsi alla vita, per poter poi essere disinteressato nelle opinioni su di essa. «Figlio mio, dammi il tuo cuore»; il cuore dev'essere fissato sulla cosa giusta: nel momento stesso in cui abbiamo un cuore fisso, abbiamo la mano libera. Devo fermarmi un istante per prevenire un'ovvia obiezione. Si dirà che la persona ragionevole accetta il mondo come una mescolanza di bene e di male, con una decorosa soddisfazione e una decorosa [[Endurance|sopportazione]]. Ma è precisamente questo l'atteggiamento che io sostengo essere difettoso. Esso è, lo so, assai comune in quest'epoca; fu perfettamente espresso in quei versi sommessi di Matthew Arnold, che sono più acutamente blasfemi delle strida di Schopenhauer:
+A questo, per lo meno, ero giunto nella mia posizione riguardo a tutto ciò che si chiamava ottimismo, pessimismo e miglioramento. Prima di qualunque atto cosmico di [[Reform|riforma]] dobbiamo prestare un cosmico giuramento di fedeltà. Un uomo deve interessarsi alla vita, per poter poi essere disinteressato nelle opinioni su di essa. «Figlio mio, dammi il tuo cuore»; il cuore dev'essere fissato sulla cosa giusta: nel momento stesso in cui abbiamo un cuore fisso, abbiamo la mano libera. Devo fermarmi un istante per prevenire un'ovvia obiezione. Si dirà che la persona ragionevole accetta il mondo come una mescolanza di bene e di male, con una decorosa soddisfazione e una decorosa [[Endurance|sopportazione]]. Ma è precisamente questo l'atteggiamento che io sostengo essere difettoso. Esso è, lo so, assai comune in quest'epoca; fu perfettamente espresso in quei versi sommessi di Matthew Arnold, che sono più acutamente blasfemi delle strida di Schopenhauer:
 
-         «Ci basta vivere: — e se una vita,
-          di grandi frutti tanto poco ricca,
-          per quanto sopportabile, par degna appena
-          di questa pompa di mondi, di questo [[Pain|dolore]] della nascita.»
+«Ci basta vivere: — e se una vita,
+di grandi frutti tanto poco ricca,
+per quanto sopportabile, par degna appena
+di questa pompa di mondi, di questo [[Pain|dolore]] della nascita.»
 
-     So che questo sentimento riempie la nostra epoca, e credo che la nostra epoca esso la agghiacci. Per i nostri [[titanic|titanici]] scopi di [[Faith|fede]] e di rivoluzione, ciò di cui abbiamo bisogno non è la fredda accettazione del mondo come un compromesso, ma un modo in cui possiamo di tutto cuore odiarlo e di tutto cuore [[Love|amarlo]]. Non vogliamo che gioia e collera si neutralizzino a vicenda e producano una scontrosa contentezza; vogliamo un più fiero diletto e un più fiero scontento. Dobbiamo sentire l'universo, a un tempo, come il [[Castle|castello]] di un orco, da prendere d'assalto, e insieme come la nostra casetta, alla quale la sera possiamo far ritorno.
+So che questo sentimento riempie la nostra epoca, e credo che la nostra epoca esso la agghiacci. Per i nostri [[titanic|titanici]] scopi di [[Faith|fede]] e di rivoluzione, ciò di cui abbiamo bisogno non è la fredda accettazione del mondo come un compromesso, ma un modo in cui possiamo di tutto cuore odiarlo e di tutto cuore [[Love|amarlo]]. Non vogliamo che gioia e collera si neutralizzino a vicenda e producano una scontrosa contentezza; vogliamo un più fiero diletto e un più fiero scontento. Dobbiamo sentire l'universo, a un tempo, come il [[Castle|castello]] di un orco, da prendere d'assalto, e insieme come la nostra casetta, alla quale la sera possiamo far ritorno.
 
-     Nessuno dubita che un uomo comune possa cavarsela con questo mondo: ma noi non chiediamo forza sufficiente a cavarcela con esso, bensì forza sufficiente a farlo procedere. Può egli odiarlo abbastanza da mutarlo, e insieme [[Love|amarlo]] abbastanza da ritenerlo degno di essere mutato? Può egli levare lo sguardo al suo colossale bene senza provare una sola volta acquiescenza? Può egli levare lo sguardo al suo colossale male senza provare una sola volta [[Despair|disperazione]]? Può egli, insomma, essere a un tempo non solo pessimista e ottimista, ma pessimista fanatico e ottimista fanatico? È abbastanza pagano da morire per il mondo, e abbastanza cristiano da morire ad esso? In questa combinazione, io sostengo, è l'ottimista razionale a fallire, e l'ottimista irrazionale a riuscire. Egli è pronto a mandare in pezzi l'intero universo per amore di se stesso.
+Nessuno dubita che un uomo comune possa cavarsela con questo mondo: ma noi non chiediamo forza sufficiente a cavarcela con esso, bensì forza sufficiente a farlo procedere. Può egli odiarlo abbastanza da mutarlo, e insieme [[Love|amarlo]] abbastanza da ritenerlo degno di essere mutato? Può egli levare lo sguardo al suo colossale bene senza provare una sola volta acquiescenza? Può egli levare lo sguardo al suo colossale male senza provare una sola volta [[Despair|disperazione]]? Può egli, insomma, essere a un tempo non solo pessimista e ottimista, ma pessimista fanatico e ottimista fanatico? È abbastanza pagano da morire per il mondo, e abbastanza cristiano da morire ad esso? In questa combinazione, io sostengo, è l'ottimista razionale a fallire, e l'ottimista irrazionale a riuscire. Egli è pronto a mandare in pezzi l'intero universo per amore di se stesso.
 
-     Espongo queste cose non nella loro matura sequenza logica, ma così come mi vennero: e questa visione fu chiarita e affinata da un caso fortuito del [[Time|tempo]]. Sotto l'[[Shadow|ombra]] che si allungava di Ibsen, sorse un dibattito se non fosse una cosa graziosissima uccidere se [[Self|stessi]]. [[Grave|Gravi]] moderni ci dicevano che non dovevamo neppure dire «pover'uomo» di chi si fosse fatto saltare le cervella, poiché costui era una persona da invidiare, e se le era fatte saltare soltanto in ragione della loro eccezionale eccellenza. Il signor William Archer arrivò a suggerire che nell'[[Golden Age|età dell'oro]] vi sarebbero state macchinette a gettone, per mezzo delle quali un uomo avrebbe potuto uccidersi per un soldo. In tutto ciò mi ritrovai profondamente ostile a molti che si dicevano liberali e umanitari. Il [[suicide|suicidio]] non è soltanto un peccato, è il peccato. È il male ultimo e assoluto, il rifiuto di prendere interesse all'esistenza; il rifiuto di prestare il giuramento di lealtà alla vita. L'uomo che uccide un uomo, uccide un uomo. L'uomo che uccide se stesso, uccide tutti gli uomini; per quanto lo riguarda, egli cancella il mondo. Il suo atto è peggiore (considerato simbolicamente) di qualunque stupro o attentato dinamitardo. Poiché esso distrugge ogni edificio: esso insulta ogni donna. Il ladro si accontenta dei diamanti; ma il [[suicide|suicida]] no: questo è il suo delitto. Egli non può essere corrotto, neppure dalle pietre fiammeggianti della [[City|Città]] celeste. Il ladro fa un complimento alle cose che ruba, se non al loro proprietario. Ma il [[suicide|suicida]] insulta ogni cosa sulla terra col non rubarla. Egli contamina ogni fiore col rifiutarsi di vivere per amor suo. Non c'è minima creatura nel cosmo a cui la sua [[Death|morte]] non sia uno scherno. Quando un uomo si impicca a un albero, le [[Leaves|foglie]] potrebbero cadere per l'ira e gli [[Birds|uccelli]] volare via furibondi: poiché ciascuno ha ricevuto un affronto personale. Certo, vi possono essere patetiche giustificazioni emotive per l'atto. Ve ne sono spesso per lo stupro, e ve ne sono quasi sempre per la dinamite. Ma se si viene alle idee chiare e al significato intelligente delle cose, allora c'è assai più [[Truth|verità]] razionale e filosofica nella sepoltura al [[Cross|crocevia]] e nel palo conficcato attraverso il [[Body|corpo]], che nelle macchine automatiche suicide del signor Archer. C'è un significato nel seppellire il [[suicide|suicida]] in disparte. Il delitto di quest'uomo è diverso dagli altri delitti — poiché rende impossibili perfino i delitti.
+Espongo queste cose non nella loro matura sequenza logica, ma così come mi vennero: e questa visione fu chiarita e affinata da un caso fortuito del [[Time|tempo]]. Sotto l'[[Shadow|ombra]] che si allungava di Ibsen, sorse un dibattito se non fosse una cosa graziosissima uccidere se [[Self|stessi]]. [[Grave|Gravi]] moderni ci dicevano che non dovevamo neppure dire «pover'uomo» di chi si fosse fatto saltare le cervella, poiché costui era una persona da invidiare, e se le era fatte saltare soltanto in ragione della loro eccezionale eccellenza. Il signor William Archer arrivò a suggerire che nell'[[Golden Age|età dell'oro]] vi sarebbero state macchinette a gettone, per mezzo delle quali un uomo avrebbe potuto uccidersi per un soldo. In tutto ciò mi ritrovai profondamente ostile a molti che si dicevano liberali e umanitari. Il [[suicide|suicidio]] non è soltanto un peccato, è il peccato. È il male ultimo e assoluto, il rifiuto di prendere interesse all'esistenza; il rifiuto di prestare il giuramento di lealtà alla vita. L'uomo che uccide un uomo, uccide un uomo. L'uomo che uccide se stesso, uccide tutti gli uomini; per quanto lo riguarda, egli cancella il mondo. Il suo atto è peggiore (considerato simbolicamente) di qualunque stupro o attentato dinamitardo. Poiché esso distrugge ogni edificio: esso insulta ogni donna. Il ladro si accontenta dei diamanti; ma il [[suicide|suicida]] no: questo è il suo delitto. Egli non può essere corrotto, neppure dalle pietre fiammeggianti della [[City|Città]] celeste. Il ladro fa un complimento alle cose che ruba, se non al loro proprietario. Ma il [[suicide|suicida]] insulta ogni cosa sulla terra col non rubarla. Egli contamina ogni fiore col rifiutarsi di vivere per amor suo. Non c'è minima creatura nel cosmo a cui la sua [[Death|morte]] non sia uno scherno. Quando un uomo si impicca a un albero, le [[Leaves|foglie]] potrebbero cadere per l'ira e gli [[Birds|uccelli]] volare via furibondi: poiché ciascuno ha ricevuto un affronto personale. Certo, vi possono essere patetiche giustificazioni emotive per l'atto. Ve ne sono spesso per lo stupro, e ve ne sono quasi sempre per la dinamite. Ma se si viene alle idee chiare e al significato intelligente delle cose, allora c'è assai più [[Truth|verità]] razionale e filosofica nella sepoltura al [[Cross|crocevia]] e nel palo conficcato attraverso il [[Body|corpo]], che nelle macchine automatiche suicide del signor Archer. C'è un significato nel seppellire il [[suicide|suicida]] in disparte. Il delitto di quest'uomo è diverso dagli altri delitti — poiché rende impossibili perfino i delitti.
 
-     Verso lo stesso [[Time|tempo]] lessi una solenne frivolezza di un libero pensatore: egli diceva che il [[suicide|suicida]] non era altro che la stessa cosa del martire. La palese fallacia di ciò contribuì a chiarire la questione. Evidentemente un [[suicide|suicida]] è l'opposto di un martire. Il martire è un uomo che si cura tanto di qualcosa fuori di sé, da dimenticare la propria vita personale. Il [[suicide|suicida]] è un uomo che si cura tanto poco di qualunque cosa fuori di sé, da voler vedere la fine di ogni cosa. L'uno vuole che qualcosa cominci: l'altro vuole che tutto finisca. In altre parole, il martire è nobile, precisamente perché (per quanto rinunci al mondo o esecri tutta l'umanità) confessa questo legame ultimo con la vita; egli pone il proprio cuore fuori di sé: muore affinché qualcosa viva. Il [[suicide|suicida]] è ignobile perché non ha questo legame con l'essere: è un puro distruttore; spiritualmente, egli distrugge l'universo. E allora mi ricordai del palo e del [[Cross|crocevia]], e dello strano fatto che il [[Christianity|Cristianesimo]] avesse mostrato questa bizzarra durezza verso il [[suicide|suicida]]. Poiché il [[Christianity|Cristianesimo]] aveva mostrato un selvaggio incoraggiamento verso il martire. Il [[Christianity|Cristianesimo]] storico fu accusato, non del tutto senza ragione, di spingere il [[Martyrdom|martirio]] e l'ascetismo fino a un punto desolato e pessimistico. I primi martiri cristiani parlavano della [[Death|morte]] con una felicità spaventosa. Bestemmiavano i bei doveri del [[Body|corpo]]: fiutavano da lontano la [[Grave|tomba]] come un campo di [[Flowers|fiori]]. Tutto questo è parso a molti la poesia stessa del pessimismo. Eppure c'è il palo al crocevia a mostrare che cosa il [[Christianity|Cristianesimo]] pensasse del pessimista.
+Verso lo stesso [[Time|tempo]] lessi una solenne frivolezza di un libero pensatore: egli diceva che il [[suicide|suicida]] non era altro che la stessa cosa del martire. La palese fallacia di ciò contribuì a chiarire la questione. Evidentemente un [[suicide|suicida]] è l'opposto di un martire. Il martire è un uomo che si cura tanto di qualcosa fuori di sé, da dimenticare la propria vita personale. Il [[suicide|suicida]] è un uomo che si cura tanto poco di qualunque cosa fuori di sé, da voler vedere la fine di ogni cosa. L'uno vuole che qualcosa cominci: l'altro vuole che tutto finisca. In altre parole, il martire è nobile, precisamente perché (per quanto rinunci al mondo o esecri tutta l'umanità) confessa questo legame ultimo con la vita; egli pone il proprio cuore fuori di sé: muore affinché qualcosa viva. Il [[suicide|suicida]] è ignobile perché non ha questo legame con l'essere: è un puro distruttore; spiritualmente, egli distrugge l'universo. E allora mi ricordai del palo e del [[Cross|crocevia]], e dello strano fatto che il [[Christianity|Cristianesimo]] avesse mostrato questa bizzarra durezza verso il [[suicide|suicida]]. Poiché il [[Christianity|Cristianesimo]] aveva mostrato un selvaggio incoraggiamento verso il martire. Il [[Christianity|Cristianesimo]] storico fu accusato, non del tutto senza ragione, di spingere il [[Martyrdom|martirio]] e l'ascetismo fino a un punto desolato e pessimistico. I primi martiri cristiani parlavano della [[Death|morte]] con una felicità spaventosa. Bestemmiavano i bei doveri del [[Body|corpo]]: fiutavano da lontano la [[Grave|tomba]] come un campo di [[Flowers|fiori]]. Tutto questo è parso a molti la poesia stessa del pessimismo. Eppure c'è il palo al crocevia a mostrare che cosa il [[Christianity|Cristianesimo]] pensasse del pessimista.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_11" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 11)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_11" data-title="Orthodoxy — IV The Ethics Of Elfland (part 11)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 11)
 
-     This was the first of the long train of enigmas with which [[Christianity]]
+This was the first of the long train of enigmas with which [[Christianity]]
 entered the discussion.  And there went with it a peculiarity
 of which I shall have to speak more markedly, as a note of all
 Christian notions, but which distinctly began in this one. 
@@ -9281,7 +9257,7 @@ could heal cities in pestilence.  Another man flung away life;
 he was so bad that his bones would pollute his brethren's. 
 I am not saying this fierceness was right; but why was it so fierce?
 
-     Here it was that I first found that my wandering feet were in
+Here it was that I first found that my wandering feet were in
 some beaten track.  [[Christianity]] had also felt this opposition
 of the martyr to the [[suicide]]:  had it perhaps felt it for the same reason? 
 Had [[Christianity]] felt what I felt, but could not (and cannot) express--
@@ -9292,7 +9268,7 @@ trying to combine.  [[Christianity]] was accused, at one and the same [[Time|tim
 of being too optimistic about the universe and of being too pessimistic
 about the world.  The coincidence made me suddenly stand still.
 
-     An imbecile habit has arisen in modern controversy of saying
+An imbecile habit has arisen in modern controversy of saying
 that such and such a creed can be held in one age but cannot
 be held in another.  Some dogma, we are told, was credible in the
 twelfth century, but is not credible in the twentieth. 
@@ -9314,7 +9290,7 @@ in answer to our question.  And the more I thought about when and how
 [[Christianity]] had come into the world, the more I felt that it had
 actually come to answer this question.
 
-     It is commonly the loose and latitudinarian Christians who pay
+It is commonly the loose and latitudinarian Christians who pay
 quite indefensible compliments to [[Christianity]].  They talk as if
 there had never been any piety or pity until [[Christianity]] came,
 a point on which any mediaeval would have been eager to correct them. 
@@ -9367,19 +9343,18 @@ an army with banners.
 
 Questo fu il primo di quella lunga teoria di enigmi con cui il [[Christianity|Cristianesimo]] entrò nella discussione. E lo accompagnava una peculiarità di cui dovrò parlare con maggior insistenza, come tratto distintivo di tutte le nozioni cristiane, ma che precisamente ebbe qui il suo principio. L'atteggiamento cristiano verso il martire e il [[suicide|suicida]] non era quello che così spesso si afferma nella morale moderna. Non era una questione di grado. Non si trattava di dover tracciare una linea da qualche parte, sicché il [[Self|sé]]-uccisore nell'esaltazione cadesse al di qua della linea, e il [[Self|sé]]-uccisore nella tristezza appena al di là. Il sentimento cristiano evidentemente non era soltanto che il [[suicide|suicida]] portasse il [[Martyrdom|martirio]] troppo oltre. Il sentimento cristiano era furiosamente a favore dell'uno e furiosamente contro l'altro: queste due cose che tanto si somigliavano stavano ai due estremi opposti del cielo e dell'inferno. Un uomo gettava via la propria vita; ed era così buono che le sue ossa disseccate potevano risanare intere città dalla peste. Un altro uomo gettava via la vita; ed era così malvagio che le sue ossa avrebbero contaminato quelle dei suoi fratelli. Non dico che questa ferocia fosse giusta; ma perché era così feroce?
 
-     Fu qui che per la prima volta scoprii che i miei passi erranti battevano un sentiero già tracciato. Anche il [[Christianity|Cristianesimo]] aveva sentito questa opposizione del martire al [[suicide|suicida]]: l'aveva forse sentita per la medesima ragione? Aveva il [[Christianity|Cristianesimo]] sentito ciò che io sentivo, ma non potevo (e non posso) esprimere: questo bisogno di una prima lealtà alle cose, e poi di una [[Reform|riforma]] rovinosa delle cose? Allora mi ricordai che era proprio l'accusa mossa al [[Christianity|Cristianesimo]] quella di combinare queste due cose che io tentavo follemente di combinare. Il [[Christianity|Cristianesimo]] veniva accusato, in uno stesso e medesimo [[Time|tempo]], di essere troppo ottimista riguardo all'universo e troppo pessimista riguardo al mondo. La coincidenza mi fece d'un tratto arrestare immobile.
+Fu qui che per la prima volta scoprii che i miei passi erranti battevano un sentiero già tracciato. Anche il [[Christianity|Cristianesimo]] aveva sentito questa opposizione del martire al [[suicide|suicida]]: l'aveva forse sentita per la medesima ragione? Aveva il [[Christianity|Cristianesimo]] sentito ciò che io sentivo, ma non potevo (e non posso) esprimere: questo bisogno di una prima lealtà alle cose, e poi di una [[Reform|riforma]] rovinosa delle cose? Allora mi ricordai che era proprio l'accusa mossa al [[Christianity|Cristianesimo]] quella di combinare queste due cose che io tentavo follemente di combinare. Il [[Christianity|Cristianesimo]] veniva accusato, in uno stesso e medesimo [[Time|tempo]], di essere troppo ottimista riguardo all'universo e troppo pessimista riguardo al mondo. La coincidenza mi fece d'un tratto arrestare immobile.
 
-     Un'abitudine imbecille è sorta nella controversia moderna: quella di dire che un dato credo può essere sostenuto in un'epoca ma non in un'altra. Un certo dogma, ci vien detto, era credibile nel dodicesimo secolo, ma non è credibile nel ventesimo. Tanto [[Well|varrebbe]] dire che una certa [[philosophy|filosofia]] può essere creduta il lunedì, ma non può esserlo il martedì. Tanto [[Well|varrebbe]] dire di una visione del cosmo che essa si conviene alle tre e mezza, ma non si conviene alle quattro e mezza. Ciò che un uomo può credere dipende dalla sua [[philosophy|filosofia]], non dall'[[Clock|orologio]] né dal secolo. Se un uomo crede in una legge naturale inalterabile, non può credere in alcun miracolo in alcuna epoca. Se un uomo crede in una volontà che sta dietro la legge, può credere in qualsiasi miracolo in qualsiasi epoca. Supponiamo, per amor di ragionamento, di avere a che fare con un caso di guarigione taumaturgica. Un materialista del dodicesimo secolo non poteva crederci più di quanto vi possa credere un materialista del ventesimo. Ma uno Scientista Cristiano del ventesimo secolo può crederci tanto quanto un cristiano del dodicesimo. È semplicemente questione della teoria che un uomo ha delle cose. Perciò, nel considerare qualsiasi risposta storica, il punto non è se essa fu data ai nostri [[Time|tempi]], ma se fu data in risposta alla nostra domanda. E quanto più riflettevo su quando e come il [[Christianity|Cristianesimo]] fosse venuto nel mondo, tanto più sentivo che era venuto proprio a rispondere a questa domanda.
+Un'abitudine imbecille è sorta nella controversia moderna: quella di dire che un dato credo può essere sostenuto in un'epoca ma non in un'altra. Un certo dogma, ci vien detto, era credibile nel dodicesimo secolo, ma non è credibile nel ventesimo. Tanto [[Well|varrebbe]] dire che una certa [[philosophy|filosofia]] può essere creduta il lunedì, ma non può esserlo il martedì. Tanto [[Well|varrebbe]] dire di una visione del cosmo che essa si conviene alle tre e mezza, ma non si conviene alle quattro e mezza. Ciò che un uomo può credere dipende dalla sua [[philosophy|filosofia]], non dall'[[Clock|orologio]] né dal secolo. Se un uomo crede in una legge naturale inalterabile, non può credere in alcun miracolo in alcuna epoca. Se un uomo crede in una volontà che sta dietro la legge, può credere in qualsiasi miracolo in qualsiasi epoca. Supponiamo, per amor di ragionamento, di avere a che fare con un caso di guarigione taumaturgica. Un materialista del dodicesimo secolo non poteva crederci più di quanto vi possa credere un materialista del ventesimo. Ma uno Scientista Cristiano del ventesimo secolo può crederci tanto quanto un cristiano del dodicesimo. È semplicemente questione della teoria che un uomo ha delle cose. Perciò, nel considerare qualsiasi risposta storica, il punto non è se essa fu data ai nostri [[Time|tempi]], ma se fu data in risposta alla nostra domanda. E quanto più riflettevo su quando e come il [[Christianity|Cristianesimo]] fosse venuto nel mondo, tanto più sentivo che era venuto proprio a rispondere a questa domanda.
 
-     Sono di solito i cristiani rilassati e latitudinari a rivolgere al [[Christianity|Cristianesimo]] complimenti del tutto insostenibili. Parlano come se non fosse mai esistita pietà o compassione prima che il [[Christianity|Cristianesimo]] venisse, punto sul quale qualsiasi uomo del medioevo sarebbe stato ansioso di correggerli. Sostengono che la cosa notevole del [[Christianity|Cristianesimo]] fosse di essere stato il primo a predicare la semplicità o l'[[Self|auto]]-dominio, o l'interiorità e la sincerità. Mi giudicheranno assai gretto (qualunque cosa ciò significhi) se dico che la cosa notevole del [[Christianity|Cristianesimo]] fu di essere stato il primo a predicare il [[Christianity|Cristianesimo]]. La sua peculiarità era di essere peculiare, e la semplicità e la sincerità non sono peculiari, ma ideali ovvii per tutta l'umanità. Il [[Christianity|Cristianesimo]] fu la risposta a un [[Riddle|indovinello]], non l'ultimo truismo pronunciato dopo una lunga conversazione. Proprio l'altro giorno ho letto, in un eccellente settimanale di tono puritano, l'osservazione che il [[Christianity|Cristianesimo]], spogliato della sua armatura di dogma (come chi parlasse di un uomo spogliato della sua armatura di ossa), si rivelava non essere altro che la dottrina quacchera della Luce Interiore. Ora, se dicessi che il [[Christianity|Cristianesimo]] venne nel mondo appositamente per distruggere la dottrina della Luce Interiore, sarebbe un'esagerazione. Ma sarebbe molto più vicino alla [[Truth|verità]]. Gli ultimi Stoici, come Marco Aurelio, erano esattamente coloro che credevano nella Luce Interiore. La loro dignità, la loro stanchezza, la loro triste cura esteriore per gli altri, la loro incurabile cura interiore per se stessi, tutto era dovuto alla Luce Interiore, ed esisteva solo per quella tetra illuminazione. Si noti che Marco Aurelio insiste, come sempre fanno questi moralisti introspettivi, sulle piccole cose fatte o non fatte; ed è perché non ha odio né [[Love|amore]] bastante a fare una rivoluzione morale. Si alza di buon mattino, proprio come i nostri aristocratici che praticano la Vita Semplice si alzano di buon mattino; perché tale altruismo è molto più facile che porre fine ai giochi dell'anfiteatro o restituire al popolo inglese la sua terra. Marco Aurelio è il più intollerabile dei tipi umani. È un egoista disinteressato. Un egoista disinteressato è un uomo che ha [[Pride|orgoglio]] senza la scusa della passione. Di tutte le forme concepibili di illuminazione, la peggiore è ciò che costoro chiamano la Luce Interiore. Di tutte le religioni orribili, la più orribile è l'adorazione del dio che sta dentro. Chiunque conosca [[Body|qualcuno]] sa come funzionerebbe; chiunque conosca qualcuno del Centro del Pensiero Superiore sa come funziona davvero. Che [[Jones]] adori il dio dentro di sé finisce per significare, in ultima analisi, che [[Jones]] adori [[Jones]]. Che [[Jones]] adori il sole o la [[Moon|luna]], qualsiasi cosa piuttosto che la Luce Interiore; che [[Jones]] adori i gatti o i coccodrilli, se ne trova per la sua strada, ma non il dio che sta dentro. Il [[Christianity|Cristianesimo]] venne nel mondo anzitutto per affermare con violenza che l'uomo doveva non solo guardare in dentro, ma guardare in fuori, per contemplare con stupore ed entusiasmo una compagnia divina e un capitano divino. L'unico spasso dell'essere cristiano era che l'uomo non veniva lasciato [[Alone|solo]] con la Luce Interiore, ma riconosceva distintamente una luce esteriore, bella come il sole, chiara come la [[Moon|luna]], terribile come un esercito schierato a bandiere spiegate.
+Sono di solito i cristiani rilassati e latitudinari a rivolgere al [[Christianity|Cristianesimo]] complimenti del tutto insostenibili. Parlano come se non fosse mai esistita pietà o compassione prima che il [[Christianity|Cristianesimo]] venisse, punto sul quale qualsiasi uomo del medioevo sarebbe stato ansioso di correggerli. Sostengono che la cosa notevole del [[Christianity|Cristianesimo]] fosse di essere stato il primo a predicare la semplicità o l'[[Self|auto]]-dominio, o l'interiorità e la sincerità. Mi giudicheranno assai gretto (qualunque cosa ciò significhi) se dico che la cosa notevole del [[Christianity|Cristianesimo]] fu di essere stato il primo a predicare il [[Christianity|Cristianesimo]]. La sua peculiarità era di essere peculiare, e la semplicità e la sincerità non sono peculiari, ma ideali ovvii per tutta l'umanità. Il [[Christianity|Cristianesimo]] fu la risposta a un [[Riddle|indovinello]], non l'ultimo truismo pronunciato dopo una lunga conversazione. Proprio l'altro giorno ho letto, in un eccellente settimanale di tono puritano, l'osservazione che il [[Christianity|Cristianesimo]], spogliato della sua armatura di dogma (come chi parlasse di un uomo spogliato della sua armatura di ossa), si rivelava non essere altro che la dottrina quacchera della Luce Interiore. Ora, se dicessi che il [[Christianity|Cristianesimo]] venne nel mondo appositamente per distruggere la dottrina della Luce Interiore, sarebbe un'esagerazione. Ma sarebbe molto più vicino alla [[Truth|verità]]. Gli ultimi Stoici, come Marco Aurelio, erano esattamente coloro che credevano nella Luce Interiore. La loro dignità, la loro stanchezza, la loro triste cura esteriore per gli altri, la loro incurabile cura interiore per se stessi, tutto era dovuto alla Luce Interiore, ed esisteva solo per quella tetra illuminazione. Si noti che Marco Aurelio insiste, come sempre fanno questi moralisti introspettivi, sulle piccole cose fatte o non fatte; ed è perché non ha odio né [[Love|amore]] bastante a fare una rivoluzione morale. Si alza di buon mattino, proprio come i nostri aristocratici che praticano la Vita Semplice si alzano di buon mattino; perché tale altruismo è molto più facile che porre fine ai giochi dell'anfiteatro o restituire al popolo inglese la sua terra. Marco Aurelio è il più intollerabile dei tipi umani. È un egoista disinteressato. Un egoista disinteressato è un uomo che ha [[Pride|orgoglio]] senza la scusa della passione. Di tutte le forme concepibili di illuminazione, la peggiore è ciò che costoro chiamano la Luce Interiore. Di tutte le religioni orribili, la più orribile è l'adorazione del dio che sta dentro. Chiunque conosca [[Body|qualcuno]] sa come funzionerebbe; chiunque conosca qualcuno del Centro del Pensiero Superiore sa come funziona davvero. Che [[Jones]] adori il dio dentro di sé finisce per significare, in ultima analisi, che [[Jones]] adori [[Jones]]. Che [[Jones]] adori il sole o la [[Moon|luna]], qualsiasi cosa piuttosto che la Luce Interiore; che [[Jones]] adori i gatti o i coccodrilli, se ne trova per la sua strada, ma non il dio che sta dentro. Il [[Christianity|Cristianesimo]] venne nel mondo anzitutto per affermare con violenza che l'uomo doveva non solo guardare in dentro, ma guardare in fuori, per contemplare con stupore ed entusiasmo una compagnia divina e un capitano divino. L'unico spasso dell'essere cristiano era che l'uomo non veniva lasciato [[Alone|solo]] con la Luce Interiore, ma riconosceva distintamente una luce esteriore, bella come il sole, chiara come la [[Moon|luna]], terribile come un esercito schierato a bandiere spiegate.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_12" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 12)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_12" data-title="Orthodoxy — IV The Ethics Of Elfland (part 12)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 12)
 
-     All the same, it will be as [[Well|well]] if [[Jones]] does not worship
+All the same, it will be as [[Well|well]] if [[Jones]] does not worship
 the sun and [[Moon|moon]].  If he does, there is a tendency for him to
 imitate them; to say, that because the sun burns [[Insects|insects]] alive,
 he may burn [[Insects|insects]] alive.  He thinks that because the sun gives people
@@ -9409,7 +9384,7 @@ we can all go mad about [[Sexuality|sexuality]]. Mere optimism had reached its
 insane and appropriate termination.  The theory that everything was good
 had become an orgy of everything that was bad.
 
-     On the other side our idealist pessimists were represented by
+On the other side our idealist pessimists were represented by
 the old remnant of the Stoics.  Marcus Aurelius and his friends
 had really given up the idea of any god in the universe and looked only
 to the god within.  They had no [[Hope|hope]] of any virtue in [[Nature|nature]],
@@ -9423,7 +9398,7 @@ did not care enough about them to knock them down.  In this dilemma
 a singular answer, which the world eventually accepted as THE answer.
 It was the answer then, and I think it is the answer now.
 
-     This answer was like the slash of a [[Sword|sword]]; it sundered; it did not
+This answer was like the slash of a [[Sword|sword]]; it sundered; it did not
 in any sense sentimentally unite.  Briefly, it divided God from the cosmos. 
 That transcendence and distinctness of the deity which some
 Christians now want to remove from [[Christianity]], was really the
@@ -9449,7 +9424,7 @@ the evolutionary principle that all growth is a branching out.
 A woman loses a [[Child|child]] even in having a [[Child|child]].  All creation is separation. 
 Birth is as solemn a parting as [[Death|death]].
 
-     It was the prime philosophic principle of [[Christianity]] that
+It was the prime philosophic principle of [[Christianity]] that
 this [[divorce]] in the divine act of making (such as severs the poet
 from the poem or the mother from the new-born [[Child|child]]) was the
 true description of the act whereby the absolute energy made the world. 
@@ -9508,7 +9483,7 @@ Poiché la terra è benigna, possiamo imitare tutte le sue crudeltà.  Poiché l
 appropriata conclusione.  La teoria che tutto fosse buono era diventata un'orgia
 di tutto ciò che era cattivo.
 
-     Dall'altro versante i nostri idealisti pessimisti erano rappresentati
+Dall'altro versante i nostri idealisti pessimisti erano rappresentati
 dall'antico residuo degli Stoici.  Marco Aurelio e i suoi amici avevano davvero
 abbandonato l'idea di un qualche dio nell'universo e guardavano soltanto al dio
 interiore.  Non nutrivano alcuna [[Hope|speranza]] di virtù nella
@@ -9523,7 +9498,7 @@ abbastanza da abbatterle.  In questo dilemma (il medesimo del nostro) il
 risposta singolare, che il mondo alla fine accettò come LA risposta.  Era la
 risposta allora, e credo sia la risposta anche adesso.
 
-     Questa risposta fu come il fendente di una [[Sword|spada]]; separò; non unì
+Questa risposta fu come il fendente di una [[Sword|spada]]; separò; non unì
 in alcun senso sentimentalmente.  In breve, divise Dio dal cosmo.  Quella
 trascendenza e distinzione della divinità che alcuni cristiani ora vogliono
 togliere dal [[Christianity|Cristianesimo]] era in realtà l'unica ragione per cui
@@ -9548,7 +9523,7 @@ Una donna perde un [[Child|figlio]] proprio nell'avere un [[Child|figlio]].  Ogn
 creazione è separazione.  La nascita è un commiato solenne quanto la
 [[Death|morte]].
 
-     Era il primo principio filosofico del [[Christianity|Cristianesimo]] che
+Era il primo principio filosofico del [[Christianity|Cristianesimo]] che
 questo [[divorce|divorzio]] nell'atto divino del fare (tale da separare il poeta
 dal poema o la madre dal [[Child|figlio]] appena nato) fosse la vera descrizione
 dell'atto con cui l'energia assoluta fece il mondo.  Secondo la maggior parte dei
@@ -9575,11 +9550,10 @@ delle sue fauci spalancate.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_13" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 13)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_13" data-title="Orthodoxy — IV The Ethics Of Elfland (part 13)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 13)
 
-     And then followed an experience impossible to describe.
+And then followed an experience impossible to describe.
 It was as if I had been blundering about since my birth with
 two huge and unmanageable machines, of different shapes and without
 apparent connection--the world and the Christian tradition. 
@@ -9622,7 +9596,7 @@ for, according to [[Christianity]], we were indeed the survivors of a wreck,
 the crew of a golden [[Ship|ship]] that had gone down before the beginning
 of the world.
 
-     But the important matter was this, that it entirely reversed
+But the important matter was this, that it entirely reversed
 the reason for optimism.  And the instant the reversal was made
 it felt like the abrupt ease when a bone is put back in the socket. 
 I had often called myself an optimist, to avoid the too evident
@@ -9648,7 +9622,7 @@ and why I could feel homesick at [[Home|home]].
 
 VI THE PARADOXES OF [[Christianity|CHRISTIANITY]]
 
-     The real trouble with this world of ours is not that it is
+The real trouble with this world of ours is not that it is
 an unreasonable world, nor even that it is a reasonable one.
 The commonest kind of trouble is that it is nearly reasonable,
 but not quite.  Life is not an illogicality; yet it is a trap for logicians. 
@@ -9668,7 +9642,7 @@ on one side, would deduce that there was another heart on the
 other.  And just then, where he most felt he was right,
 he would be wrong.
 
-     It is this silent swerving from accuracy by an inch that is
+It is this silent swerving from accuracy by an inch that is
 the [[Uncanny|uncanny]] element in everything.  It seems a sort of secret treason
 in the universe.  An apple or an orange is round enough to get itself
 called round, and yet is not round after all.  The earth itself
@@ -9690,21 +9664,20 @@ try to find it, they generally get on the wrong side of him.
 
 E allora seguì un'esperienza impossibile da descrivere. Era come se, fin dalla nascita, mi fossi aggirato a tentoni con due macchine enormi e ingovernabili, di forma diversa e senza alcun collegamento apparente: il mondo e la tradizione cristiana. Nel mondo avevo trovato questa lacuna: il fatto che in qualche modo si debba trovare la via per amare il mondo senza fidarsene; che in qualche modo si debba [[Love|amare]] il mondo senza essere mondani. E nella teologia cristiana avevo trovato questo elemento sporgente, simile a una sorta di dura punta, l'insistenza dogmatica che Dio fosse personale e avesse fatto un mondo separato da Sé. La punta del dogma si incastrava esattamente nella lacuna del mondo: era stata evidentemente concepita per andare lì, e allora cominciò ad accadere la cosa strana. Non appena queste due parti delle due macchine si furono unite, una dopo l'altra tutte le altre parti combaciarono e andarono a posto con una sinistra esattezza. Potevo udire bullone dopo bullone, in tutto quel congegno, cadere al proprio posto con una sorta di scatto di sollievo. Sistemata bene una parte, tutte le altre ripetevano quella medesima rettitudine, come [[Clock|orologio]] dopo [[Clock|orologio]] batte il [[Noon|mezzogiorno]]. Istinto dopo istinto trovava risposta in dottrina dopo dottrina. O, per variare la metafora, ero come chi si è addentrato in un paese ostile per prendere un'alta fortezza. E quando quella rocca fu caduta, tutto il paese si arrese e si consolidò dietro di me. L'intera terra si illuminò, per così dire, fino ai primi campi della mia [[Childhood|fanciullezza]]. Tutte quelle fantasie cieche della prima età, che nel quarto capitolo ho invano cercato di tracciare sull'oscurità, divennero d'un tratto trasparenti e sensate. Avevo ragione quando sentivo che le rose erano rosse per una sorta di scelta: era la scelta divina. Avevo ragione quando sentivo che avrei quasi preferito dire che l'erba era del colore sbagliato piuttosto che dire che doveva per necessità essere di quel colore: essa poteva davvero essere di qualunque altro. Il mio senso che la felicità pendesse dal folle filo di una condizione voleva pur dire qualcosa, a conti fatti: significava l'intera dottrina della Caduta. Perfino quei mostri di idee, oscuri e informi, che non sono stato in grado di descrivere, e ancor meno di difendere, entrarono quietamente al loro posto come colossali cariatidi del credo. La fantasia che il cosmo non fosse vasto e vuoto, ma piccolo e accogliente, aveva ora un significato compiuto, poiché tutto ciò che è opera d'arte dev'essere piccolo agli occhi dell'[[artist|artista]]; per Dio le [[Stars|stelle]] potrebbero essere solo piccole e care, come diamanti. E il mio istinto ossessivo che in qualche modo il bene non fosse un semplice strumento da usare, ma una reliquia da custodire, come i beni salvati dalla [[Ship|nave]] di Crusoe: perfino quello era stato il selvaggio sussurro di qualcosa in origine saggio, poiché, secondo il [[Christianity|Cristianesimo]], noi eravamo davvero i superstiti di un naufragio, l'equipaggio di una [[Ship|nave]] d'oro affondata prima del principio del mondo.
 
-     Ma la cosa importante era questa: che tutto ciò capovolgeva interamente la ragione dell'ottimismo. E nell'istante in cui il capovolgimento fu compiuto, esso diede un senso di brusco sollievo, come quando un osso torna al suo incavo. Mi ero spesso definito ottimista, per evitare la troppo evidente bestemmia del pessimismo. Ma tutto l'ottimismo dell'epoca era stato falso e scoraggiante per questa ragione: che aveva sempre cercato di provare che noi ci adattiamo al mondo. L'ottimismo cristiano si fonda sul fatto che noi NON ci adattiamo al mondo. Avevo cercato di essere felice dicendomi che l'uomo è un animale, come ogni altro che cerca il proprio cibo da Dio. Ma ora ero davvero felice, perché avevo appreso che l'uomo è una mostruosità. Avevo avuto ragione nel sentire tutte le cose come strane, poiché io stesso ero al tempo stesso peggiore e migliore di tutte le cose. Il piacere dell'ottimista era prosaico, perché indugiava sulla naturalezza di ogni cosa; il piacere cristiano era poetico, perché indugiava sull'innaturalezza di ogni cosa alla luce del [[Supernatural|soprannaturale]]. Il filosofo moderno mi aveva ripetuto più e più volte che ero al posto giusto, e io mi ero pur sentito depresso, anche nell'acquiescenza. Ma avevo udito che ero al posto SBAGLIATO, e la mia [[Soul|anima]] cantò di gioia, come un uccello a [[spring|primavera]]. Quella conoscenza scoprì e illuminò camere dimenticate nella [[house|casa]] buia dell'infanzia. Ora sapevo perché l'erba mi era sempre parsa bizzarra come la barba verde di un gigante, e perché potevo sentire nostalgia perfino stando a [[Home|casa]].
+Ma la cosa importante era questa: che tutto ciò capovolgeva interamente la ragione dell'ottimismo. E nell'istante in cui il capovolgimento fu compiuto, esso diede un senso di brusco sollievo, come quando un osso torna al suo incavo. Mi ero spesso definito ottimista, per evitare la troppo evidente bestemmia del pessimismo. Ma tutto l'ottimismo dell'epoca era stato falso e scoraggiante per questa ragione: che aveva sempre cercato di provare che noi ci adattiamo al mondo. L'ottimismo cristiano si fonda sul fatto che noi NON ci adattiamo al mondo. Avevo cercato di essere felice dicendomi che l'uomo è un animale, come ogni altro che cerca il proprio cibo da Dio. Ma ora ero davvero felice, perché avevo appreso che l'uomo è una mostruosità. Avevo avuto ragione nel sentire tutte le cose come strane, poiché io stesso ero al tempo stesso peggiore e migliore di tutte le cose. Il piacere dell'ottimista era prosaico, perché indugiava sulla naturalezza di ogni cosa; il piacere cristiano era poetico, perché indugiava sull'innaturalezza di ogni cosa alla luce del [[Supernatural|soprannaturale]]. Il filosofo moderno mi aveva ripetuto più e più volte che ero al posto giusto, e io mi ero pur sentito depresso, anche nell'acquiescenza. Ma avevo udito che ero al posto SBAGLIATO, e la mia [[Soul|anima]] cantò di gioia, come un uccello a [[spring|primavera]]. Quella conoscenza scoprì e illuminò camere dimenticate nella [[house|casa]] buia dell'infanzia. Ora sapevo perché l'erba mi era sempre parsa bizzarra come la barba verde di un gigante, e perché potevo sentire nostalgia perfino stando a [[Home|casa]].
 
 VI I PARADOSSI DEL [[Christianity|CRISTIANESIMO]]
 
-     Il vero guaio di questo nostro mondo non è che sia un mondo irragionevole, e nemmeno che sia un mondo ragionevole. Il tipo di guaio più comune è che esso è quasi ragionevole, ma non del tutto. La vita non è un'illogicità; eppure è una trappola per i logici. Sembra appena un po' più matematica e regolare di quanto non sia; la sua esattezza è manifesta, ma la sua inesattezza è nascosta; la sua selvatichezza sta in agguato. Do un esempio grossolano di ciò che intendo. Supponiamo che una qualche creatura matematica venuta dalla [[Moon|luna]] si mettesse a fare i conti del [[Body|corpo]] umano; vedrebbe subito che la cosa essenziale al riguardo era che esso è duplice. Un uomo è due uomini: quello di destra somiglia esattamente a quello di sinistra. Notato che c'era un braccio a destra e uno a sinistra, una gamba a destra e una a sinistra, potrebbe spingersi oltre e trovare ancora su ciascun lato lo stesso numero di dita delle mani, lo stesso numero di dita dei piedi, occhi gemelli, orecchie gemelle, narici gemelle, e perfino lobi gemelli del cervello. Alla fine lo prenderebbe per legge; e allora, là dove trovasse un cuore da un lato, dedurrebbe che ce n'era un altro dall'altro lato. E proprio allora, là dove più si sentirebbe nel giusto, sarebbe in errore.
+Il vero guaio di questo nostro mondo non è che sia un mondo irragionevole, e nemmeno che sia un mondo ragionevole. Il tipo di guaio più comune è che esso è quasi ragionevole, ma non del tutto. La vita non è un'illogicità; eppure è una trappola per i logici. Sembra appena un po' più matematica e regolare di quanto non sia; la sua esattezza è manifesta, ma la sua inesattezza è nascosta; la sua selvatichezza sta in agguato. Do un esempio grossolano di ciò che intendo. Supponiamo che una qualche creatura matematica venuta dalla [[Moon|luna]] si mettesse a fare i conti del [[Body|corpo]] umano; vedrebbe subito che la cosa essenziale al riguardo era che esso è duplice. Un uomo è due uomini: quello di destra somiglia esattamente a quello di sinistra. Notato che c'era un braccio a destra e uno a sinistra, una gamba a destra e una a sinistra, potrebbe spingersi oltre e trovare ancora su ciascun lato lo stesso numero di dita delle mani, lo stesso numero di dita dei piedi, occhi gemelli, orecchie gemelle, narici gemelle, e perfino lobi gemelli del cervello. Alla fine lo prenderebbe per legge; e allora, là dove trovasse un cuore da un lato, dedurrebbe che ce n'era un altro dall'altro lato. E proprio allora, là dove più si sentirebbe nel giusto, sarebbe in errore.
 
-     È questo silenzioso scarto dall'esattezza di un pollice a costituire l'elemento [[Uncanny|perturbante]] in ogni cosa. Pare una sorta di segreto tradimento nell'universo. Una mela o un'arancia è abbastanza tonda da farsi chiamare tonda, eppure, a conti fatti, tonda non è. La terra stessa ha la forma di un'arancia per attirare qualche ingenuo astronomo a chiamarla globo. Un filo d'erba si chiama così dalla lama di una [[Sword|spada]], perché termina a punta; ma non è vero. Ovunque nelle cose c'è questo elemento del quieto e dell'incalcolabile. Esso sfugge ai razionalisti, ma non sfugge mai fino all'ultimo momento. Dalla grande curva della nostra terra si potrebbe facilmente inferire che ogni suo pollice fosse così curvato. Sembrerebbe razionale che, come un uomo ha un cervello su entrambi i lati, così debba avere un cuore su entrambi i lati. Eppure gli uomini di scienza organizzano ancora spedizioni per trovare il Polo Nord, perché sono tanto affezionati ai paesi piatti. Gli uomini di scienza organizzano ancora spedizioni anche per trovare il cuore di un uomo; e quando cercano di trovarlo, in genere finiscono dalla parte sbagliata.
+È questo silenzioso scarto dall'esattezza di un pollice a costituire l'elemento [[Uncanny|perturbante]] in ogni cosa. Pare una sorta di segreto tradimento nell'universo. Una mela o un'arancia è abbastanza tonda da farsi chiamare tonda, eppure, a conti fatti, tonda non è. La terra stessa ha la forma di un'arancia per attirare qualche ingenuo astronomo a chiamarla globo. Un filo d'erba si chiama così dalla lama di una [[Sword|spada]], perché termina a punta; ma non è vero. Ovunque nelle cose c'è questo elemento del quieto e dell'incalcolabile. Esso sfugge ai razionalisti, ma non sfugge mai fino all'ultimo momento. Dalla grande curva della nostra terra si potrebbe facilmente inferire che ogni suo pollice fosse così curvato. Sembrerebbe razionale che, come un uomo ha un cervello su entrambi i lati, così debba avere un cuore su entrambi i lati. Eppure gli uomini di scienza organizzano ancora spedizioni per trovare il Polo Nord, perché sono tanto affezionati ai paesi piatti. Gli uomini di scienza organizzano ancora spedizioni anche per trovare il cuore di un uomo; e quando cercano di trovarlo, in genere finiscono dalla parte sbagliata.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_14" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 14)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_14" data-title="Orthodoxy — IV The Ethics Of Elfland (part 14)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 14)
 
-     Now, actual insight or inspiration is best tested by whether
+Now, actual insight or inspiration is best tested by whether
 it guesses these hidden malformations or surprises.  If our mathematician
 from the [[Moon|moon]] saw the two arms and the two ears, he might deduce
 the two shoulder-blades and the two halves of the brain.  But if he
@@ -9723,7 +9696,7 @@ in this chapter to point this out; to show that whenever we feel
 there is something odd in Christian theology, we shall generally find
 that there is something odd in the [[Truth|truth]].
 
-     I have alluded to an unmeaning phrase to the effect that
+I have alluded to an unmeaning phrase to the effect that
 such and such a creed cannot be believed in our age.  Of course,
 anything can be believed in any age.  But, oddly enough,
 there really is a sense in which a creed, if it is believed at all,
@@ -9749,7 +9722,7 @@ A stick might fit a hole or a stone a hollow by accident.
 But a key and a lock are both complex.  And if a key fits a lock,
 you know it is the right key.
 
-     But this involved accuracy of the thing makes it very difficult
+But this involved accuracy of the thing makes it very difficult
 to do what I now have to do, to describe this accumulation of [[Truth|truth]]. 
 It is very hard for a man to defend anything of which he is
 entirely convinced.  It is comparatively easy when he is only
@@ -9768,7 +9741,7 @@ The whole case for civilization is that the case for it is complex.
 It has done so many things.  But that very multiplicity of proof
 which ought to make reply overwhelming makes reply impossible.
 
-     There is, therefore, about all complete conviction a kind of
+There is, therefore, about all complete conviction a kind of
 huge helplessness.  The belief is so big that it takes a long [[Time|time]] to
 get it into action.  And this hesitation chiefly arises,
 oddly enough, from an indifference about where one should begin. 
@@ -9810,19 +9783,18 @@ to be a Christian."  I was in a desperate way.
 
 Ora, la vera intuizione o ispirazione si mette alla prova al meglio nel vedere se essa indovina queste malformazioni nascoste o queste sorprese. Se il nostro matematico venuto dalla [[Moon|luna]] vedesse le due braccia e le due orecchie, potrebbe dedurne le due scapole e le due metà del cervello. Ma se indovinasse che il cuore di quell'uomo si trova al posto giusto, allora lo chiamerei qualcosa di più di un matematico. Ora, questa è esattamente la pretesa che da allora sono giunto a rivendicare per il [[Christianity|cristianesimo]]. Non semplicemente che esso deduca verità logiche, ma che, quando all'improvviso diventa illogico, ha trovato, per così dire, una [[Truth|verità]] illogica. Non solo va nel verso giusto riguardo alle cose, ma va anche nel verso sbagliato (se così si può dire) esattamente là dove le cose vanno nel verso sbagliato. Il suo disegno si accorda con le irregolarità segrete, e si aspetta l'inaspettato. È semplice riguardo alla [[Truth|verità]] semplice; ma è ostinato riguardo alla [[Truth|verità]] sottile. Ammetterà che un uomo ha due mani, non ammetterà (per quanto tutti i modernisti glielo implorino con i loro lamenti) l'ovvia deduzione che egli abbia due cuori. Il mio unico scopo in questo capitolo è mettere in luce questo; mostrare che, ogni qual volta sentiamo che c'è qualcosa di strano nella teologia cristiana, generalmente scopriremo che c'è qualcosa di strano nella [[Truth|verità]].
 
-     Ho accennato a una frase priva di senso, secondo cui questo o quel credo non può essere abbracciato nella nostra epoca. Naturalmente, qualsiasi cosa può essere creduta in qualsiasi epoca. Ma, per quanto strano, c'è davvero un senso in cui un credo, se lo si abbraccia, può essere abbracciato più saldamente in una società complessa che in una società semplice. Se un uomo trova vero il [[Christianity|cristianesimo]] a Birmingham, ha in realtà ragioni più chiare per la propria [[Faith|fede]] di quante ne avrebbe se lo avesse trovato vero in Mercia. Perché più complicata appare la coincidenza, meno essa può essere una coincidenza. Se i fiocchi di neve cadessero, mettiamo, nella forma del cuore del Midlothian, potrebbe trattarsi di un caso. Ma se i fiocchi di neve cadessero nella forma esatta del labirinto di Hampton [[Court]], credo che si potrebbe chiamarlo un miracolo. È proprio come di un tale miracolo che da allora sono giunto a sentire riguardo alla [[philosophy|filosofia]] del [[Christianity|cristianesimo]]. La complicazione del nostro mondo moderno dimostra la [[Truth|verità]] del credo in modo più perfetto di qualunque dei problemi elementari delle epoche della [[Faith|fede]]. Fu a Notting [[Hill]] e a Battersea che cominciai a vedere che il [[Christianity|cristianesimo]] era vero. Ecco perché la [[Faith|fede]] possiede quell'elaborazione di dottrine e di particolari che tanto affligge coloro che ammirano il [[Christianity|cristianesimo]] senza credere in esso. Quando una volta si crede in un credo, si è fieri della sua complessità, come gli scienziati sono fieri della complessità della scienza. Ciò mostra quanto sia ricco di scoperte. Se ha ragione in tutto, è un complimento dire che ha ragione in modo elaborato. Un bastone potrebbe adattarsi a un foro, o una pietra a un incavo, per puro caso. Ma una chiave e una serratura sono entrambe complesse. E se una chiave si adatta a una serratura, sai che è la chiave giusta.
+Ho accennato a una frase priva di senso, secondo cui questo o quel credo non può essere abbracciato nella nostra epoca. Naturalmente, qualsiasi cosa può essere creduta in qualsiasi epoca. Ma, per quanto strano, c'è davvero un senso in cui un credo, se lo si abbraccia, può essere abbracciato più saldamente in una società complessa che in una società semplice. Se un uomo trova vero il [[Christianity|cristianesimo]] a Birmingham, ha in realtà ragioni più chiare per la propria [[Faith|fede]] di quante ne avrebbe se lo avesse trovato vero in Mercia. Perché più complicata appare la coincidenza, meno essa può essere una coincidenza. Se i fiocchi di neve cadessero, mettiamo, nella forma del cuore del Midlothian, potrebbe trattarsi di un caso. Ma se i fiocchi di neve cadessero nella forma esatta del labirinto di Hampton [[Court]], credo che si potrebbe chiamarlo un miracolo. È proprio come di un tale miracolo che da allora sono giunto a sentire riguardo alla [[philosophy|filosofia]] del [[Christianity|cristianesimo]]. La complicazione del nostro mondo moderno dimostra la [[Truth|verità]] del credo in modo più perfetto di qualunque dei problemi elementari delle epoche della [[Faith|fede]]. Fu a Notting [[Hill]] e a Battersea che cominciai a vedere che il [[Christianity|cristianesimo]] era vero. Ecco perché la [[Faith|fede]] possiede quell'elaborazione di dottrine e di particolari che tanto affligge coloro che ammirano il [[Christianity|cristianesimo]] senza credere in esso. Quando una volta si crede in un credo, si è fieri della sua complessità, come gli scienziati sono fieri della complessità della scienza. Ciò mostra quanto sia ricco di scoperte. Se ha ragione in tutto, è un complimento dire che ha ragione in modo elaborato. Un bastone potrebbe adattarsi a un foro, o una pietra a un incavo, per puro caso. Ma una chiave e una serratura sono entrambe complesse. E se una chiave si adatta a una serratura, sai che è la chiave giusta.
 
-     Ma questa complicata precisione della cosa rende assai difficile fare ciò che ora devo fare, cioè descrivere questo accumulo di [[Truth|verità]]. È molto arduo per un uomo difendere qualcosa di cui è interamente convinto. È comparativamente facile quando ne è solo parzialmente convinto. Ne è parzialmente convinto perché ha trovato questa o quella prova della cosa, e può esporla. Ma un uomo non è veramente convinto di una teoria filosofica quando scopre che qualcosa la dimostra. È veramente convinto solo quando scopre che ogni cosa la dimostra. E più ragioni convergenti trova che puntano verso questa convinzione, più resta sconcertato se gli si chiede all'improvviso di riassumerle. Così, se si chiedesse a un uomo ordinariamente intelligente, su due piedi: «Perché preferisci la civiltà alla barbarie?», egli si guarderebbe intorno smarrito, oggetto dopo oggetto, e non saprebbe rispondere se non vagamente: «Be', c'è quella libreria... e i carboni nel secchio del carbone... e i pianoforti... e i poliziotti». L'intero argomento a favore della civiltà è che l'argomento a suo favore è complesso. Essa ha compiuto tante cose. Ma proprio quella molteplicità di prove che dovrebbe rendere la risposta schiacciante rende la risposta impossibile.
+Ma questa complicata precisione della cosa rende assai difficile fare ciò che ora devo fare, cioè descrivere questo accumulo di [[Truth|verità]]. È molto arduo per un uomo difendere qualcosa di cui è interamente convinto. È comparativamente facile quando ne è solo parzialmente convinto. Ne è parzialmente convinto perché ha trovato questa o quella prova della cosa, e può esporla. Ma un uomo non è veramente convinto di una teoria filosofica quando scopre che qualcosa la dimostra. È veramente convinto solo quando scopre che ogni cosa la dimostra. E più ragioni convergenti trova che puntano verso questa convinzione, più resta sconcertato se gli si chiede all'improvviso di riassumerle. Così, se si chiedesse a un uomo ordinariamente intelligente, su due piedi: «Perché preferisci la civiltà alla barbarie?», egli si guarderebbe intorno smarrito, oggetto dopo oggetto, e non saprebbe rispondere se non vagamente: «Be', c'è quella libreria... e i carboni nel secchio del carbone... e i pianoforti... e i poliziotti». L'intero argomento a favore della civiltà è che l'argomento a suo favore è complesso. Essa ha compiuto tante cose. Ma proprio quella molteplicità di prove che dovrebbe rendere la risposta schiacciante rende la risposta impossibile.
 
-     Vi è, dunque, in ogni convinzione completa una sorta di immensa impotenza. La fede è così grande che occorre molto [[Time|tempo]] per metterla in azione. E questa esitazione nasce principalmente, per quanto strano, da un'indifferenza circa il punto da cui si dovrebbe cominciare. Tutte le strade portano a Roma; il che è una delle ragioni per cui molte persone non vi arrivano mai. Nel caso di questa difesa della convinzione cristiana confesso che comincerei l'argomentazione con una cosa tanto volentieri quanto con un'altra; la comincerei con una rapa o con un tassametro. Ma se devo essere in qualche modo attento a rendere chiaro il mio significato, sarà, credo, più saggio proseguire gli argomenti in corso dell'ultimo capitolo, che si era preoccupato di sostenere la prima di queste mistiche coincidenze, o piuttosto ratifiche. Tutto ciò che avevo fino ad allora udito della teologia cristiana mi aveva estraniato da essa. Ero un pagano all'età di dodici anni, e un agnostico completo all'età di sedici; e non riesco a capire come qualcuno possa oltrepassare i diciassette anni senza essersi posto una domanda tanto semplice. Conservavo, sì, una nebulosa reverenza per una divinità cosmica e un grande interesse storico per il Fondatore del [[Christianity|cristianesimo]]. Ma certamente Lo consideravo un uomo; benché forse pensassi che, anche su quel punto, Egli avesse un vantaggio su alcuni dei Suoi critici moderni. Leggevo la letteratura scientifica e scettica del mio [[Time|tempo]] — tutta, almeno, quella che riuscivo a trovare scritta in inglese e a portata di mano; e non leggevo nient'altro; voglio dire che non leggevo nient'altro su nessun altro registro di [[philosophy|filosofia]]. I romanzetti da quattro soldi che pure leggevo appartenevano invero a una sana ed eroica tradizione del [[Christianity|cristianesimo]]; ma allora non lo sapevo. Non lessi mai una riga di [[Apologetics|apologetica]] cristiana. Ne leggo quanto meno posso anche ora. Furono Huxley e Herbert Spencer e Bradlaugh a ricondurmi alla teologia ortodossa. Essi seminarono nella mia mente i miei primi selvaggi dubbi sul [[Doubt|dubbio]]. Le nostre nonne avevano perfettamente ragione quando dicevano che Tom Paine e i liberi pensatori sconvolgevano la mente. È così. Sconvolsero orribilmente la mia. Il razionalista mi indusse a domandarmi se la ragione servisse in qualche modo a qualcosa; e quando ebbi finito Herbert Spencer ero giunto fino al punto di dubitare (per la prima [[Time|volta]]) che l'evoluzione fosse mai avvenuta. Mentre posavo l'ultima delle conferenze ateistiche del colonnello Ingersoll, il terribile pensiero mi attraversò la mente: «Per poco non mi persuadi a farmi cristiano». Ero ridotto a mal partito.
+Vi è, dunque, in ogni convinzione completa una sorta di immensa impotenza. La fede è così grande che occorre molto [[Time|tempo]] per metterla in azione. E questa esitazione nasce principalmente, per quanto strano, da un'indifferenza circa il punto da cui si dovrebbe cominciare. Tutte le strade portano a Roma; il che è una delle ragioni per cui molte persone non vi arrivano mai. Nel caso di questa difesa della convinzione cristiana confesso che comincerei l'argomentazione con una cosa tanto volentieri quanto con un'altra; la comincerei con una rapa o con un tassametro. Ma se devo essere in qualche modo attento a rendere chiaro il mio significato, sarà, credo, più saggio proseguire gli argomenti in corso dell'ultimo capitolo, che si era preoccupato di sostenere la prima di queste mistiche coincidenze, o piuttosto ratifiche. Tutto ciò che avevo fino ad allora udito della teologia cristiana mi aveva estraniato da essa. Ero un pagano all'età di dodici anni, e un agnostico completo all'età di sedici; e non riesco a capire come qualcuno possa oltrepassare i diciassette anni senza essersi posto una domanda tanto semplice. Conservavo, sì, una nebulosa reverenza per una divinità cosmica e un grande interesse storico per il Fondatore del [[Christianity|cristianesimo]]. Ma certamente Lo consideravo un uomo; benché forse pensassi che, anche su quel punto, Egli avesse un vantaggio su alcuni dei Suoi critici moderni. Leggevo la letteratura scientifica e scettica del mio [[Time|tempo]] — tutta, almeno, quella che riuscivo a trovare scritta in inglese e a portata di mano; e non leggevo nient'altro; voglio dire che non leggevo nient'altro su nessun altro registro di [[philosophy|filosofia]]. I romanzetti da quattro soldi che pure leggevo appartenevano invero a una sana ed eroica tradizione del [[Christianity|cristianesimo]]; ma allora non lo sapevo. Non lessi mai una riga di [[Apologetics|apologetica]] cristiana. Ne leggo quanto meno posso anche ora. Furono Huxley e Herbert Spencer e Bradlaugh a ricondurmi alla teologia ortodossa. Essi seminarono nella mia mente i miei primi selvaggi dubbi sul [[Doubt|dubbio]]. Le nostre nonne avevano perfettamente ragione quando dicevano che Tom Paine e i liberi pensatori sconvolgevano la mente. È così. Sconvolsero orribilmente la mia. Il razionalista mi indusse a domandarmi se la ragione servisse in qualche modo a qualcosa; e quando ebbi finito Herbert Spencer ero giunto fino al punto di dubitare (per la prima [[Time|volta]]) che l'evoluzione fosse mai avvenuta. Mentre posavo l'ultima delle conferenze ateistiche del colonnello Ingersoll, il terribile pensiero mi attraversò la mente: «Per poco non mi persuadi a farmi cristiano». Ero ridotto a mal partito.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_15" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 15)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_15" data-title="Orthodoxy — IV The Ethics Of Elfland (part 15)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 15)
 
-     This odd effect of the great agnostics in arousing doubts deeper
+This odd effect of the great agnostics in arousing doubts deeper
 than their own might be illustrated in many ways. I take only one. 
 As I read and re-read all the non-Christian or anti-Christian accounts
 of the [[Faith|faith]], from Huxley to Bradlaugh, a slow and awful impression
@@ -9841,7 +9813,7 @@ not come across the thing I mean, I will give such instances
 as I remember at random of this [[Self|self]]-contradiction in the sceptical attack. 
 I give four or five of them; there are fifty more.
 
-     Thus, for instance, I was much moved by the eloquent attack
+Thus, for instance, I was much moved by the eloquent attack
 on [[Christianity]] as a thing of inhuman gloom; for I thought
 (and still think) sincere pessimism the unpardonable sin. 
 Insincere pessimism is a social accomplishment, rather agreeable
@@ -9872,8 +9844,8 @@ green and [[Rose|rose]]-coloured spectacles.  I rolled on my tongue
 with a terrible joy, as did all young men of that [[Time|time]],
 the taunts which Swinburne hurled at the dreariness of the creed--
 
-     "Thou hast conquered, O pale Galilaean, the world has
-          grown gray with Thy breath."
+"Thou hast conquered, O pale Galilaean, the world has
+grown gray with Thy breath."
 
 But when I read the same poet's accounts of paganism (as in "Atalanta"),
 I gathered that the world was, if possible, more gray before
@@ -9886,7 +9858,7 @@ perhaps, those might not be the very best judges of the relation
 of religion to happiness who, by their own account, had neither one
 nor the other.
 
-     It must be understood that I did not conclude hastily that
+It must be understood that I did not conclude hastily that
 the accusations were false or the accusers fools.  I simply deduced
 that [[Christianity]] must be something even weirder and wickeder
 than they made out.  A thing might have these two opposite vices;
@@ -9896,7 +9868,7 @@ At this point my thoughts were only of the odd shape of
 the Christian religion; I did not allege any odd shape in
 the rationalistic mind.
 
-     Here is another case of the same kind.  I felt that a strong case
+Here is another case of the same kind.  I felt that a strong case
 against [[Christianity]] lay in the charge that there is something timid,
 monkish, and unmanly about all that is called "Christian,"
 especially in its attitude towards resistance and fighting. 
@@ -9937,24 +9909,23 @@ The shape of [[Christianity]] grew a queerer shape every instant.
 
 Questo curioso effetto dei grandi agnostici, capaci di suscitare dubbi più profondi dei loro stessi dubbi, potrebbe essere illustrato in molti modi. Ne prendo uno soltanto. A mano a mano che leggevo e rileggevo tutti i resoconti non cristiani o anticristiani della [[Faith|fede]], da Huxley a Bradlaugh, un'impressione lenta e tremenda si formava a poco a poco, ma con crescente nitidezza, nella mia mente: l'impressione che il [[Christianity|Cristianesimo]] dovesse essere una cosa quanto mai straordinaria. Perché non solo (per quanto capivo) il [[Christianity|Cristianesimo]] possedeva i vizi più fiammeggianti, ma sembrava avere un talento mistico per combinare vizi che parevano l'uno con l'altro incompatibili. Lo si attaccava da ogni parte e per ogni motivo contraddittorio. Non appena un razionalista aveva dimostrato che era troppo spostato verso oriente, un altro dimostrava con pari chiarezza che era troppo spostato verso occidente. Non appena la mia indignazione si era placata dinanzi alla sua angolosa e aggressiva quadratura, ecco che ero di nuovo chiamato a notare e a condannare la sua snervante e sensuale rotondità. Nel caso in cui qualche lettore non si sia mai imbattuto nella cosa che intendo, darò gli esempi che ricordo, presi a caso, di questa [[Self|auto]]-contraddizione nell'attacco scettico. Ne do quattro o cinque; ce ne sono altri cinquanta.
 
-     Così, per esempio, fui molto scosso dall'eloquente attacco al [[Christianity|Cristianesimo]] come cosa di cupezza disumana; perché ritenevo (e ritengo tuttora) che il pessimismo sincero sia il peccato imperdonabile. Il pessimismo insincero è un'abilità mondana, anzi piuttosto gradevole; e per fortuna quasi tutto il pessimismo è insincero. Ma se il [[Christianity|Cristianesimo]] era, come costoro dicevano, una cosa puramente pessimistica e ostile alla vita, allora ero prontissimo a far saltare in aria la [[Cathedral|Cattedrale]] di San Paolo. Ma ecco la cosa straordinaria. Costoro mi provarono nel Capitolo I (con mia piena soddisfazione) che il [[Christianity|Cristianesimo]] era troppo pessimistico; e poi, nel Capitolo II, cominciarono a provarmi che era di gran lunga troppo ottimistico. Una delle accuse contro il [[Christianity|Cristianesimo]] era che impediva agli uomini, con [[Tears|lacrime]] e terrori morbosi, di cercare la gioia e la libertà nel grembo della [[Nature|Natura]]. Ma un'altra accusa era che esso confortava gli uomini con una [[Providence|provvidenza]] fittizia, e li metteva in una stanza da bambini tutta rosa e bianca. Un grande agnostico chiedeva perché la [[Nature|Natura]] non fosse abbastanza bella, e perché fosse tanto difficile essere liberi. Un altro grande agnostico obiettava che l'ottimismo cristiano, «la veste di finzione tessuta da mani pie», ci nascondeva il fatto che la [[Nature|Natura]] era brutta, e che era impossibile essere liberi. Un razionalista aveva appena finito di chiamare il [[Christianity|Cristianesimo]] un [[nightmare|incubo]], che un altro cominciava a chiamarlo il paradiso di uno [[Fool|sciocco]]. Questo mi lasciava perplesso; le accuse parevano contraddittorie. Il [[Christianity|Cristianesimo]] non poteva essere insieme la maschera nera su un mondo bianco, e insieme la maschera bianca su un mondo nero. La condizione del cristiano non poteva essere a un tempo tanto comoda da rendere vile chi vi si aggrappa, e tanto scomoda da rendere [[Fool|sciocco]] chi la sopporta. Se falsava la visione umana, doveva falsarla in un senso o nell'altro; non poteva portare a un tempo occhiali verdi e occhiali color di [[Rose|rosa]]. Facevo rotolare sulla lingua, con terribile gioia, come tutti i giovani di quel [[Time|tempo]], gli scherni che Swinburne scagliava contro lo squallore del credo:
+Così, per esempio, fui molto scosso dall'eloquente attacco al [[Christianity|Cristianesimo]] come cosa di cupezza disumana; perché ritenevo (e ritengo tuttora) che il pessimismo sincero sia il peccato imperdonabile. Il pessimismo insincero è un'abilità mondana, anzi piuttosto gradevole; e per fortuna quasi tutto il pessimismo è insincero. Ma se il [[Christianity|Cristianesimo]] era, come costoro dicevano, una cosa puramente pessimistica e ostile alla vita, allora ero prontissimo a far saltare in aria la [[Cathedral|Cattedrale]] di San Paolo. Ma ecco la cosa straordinaria. Costoro mi provarono nel Capitolo I (con mia piena soddisfazione) che il [[Christianity|Cristianesimo]] era troppo pessimistico; e poi, nel Capitolo II, cominciarono a provarmi che era di gran lunga troppo ottimistico. Una delle accuse contro il [[Christianity|Cristianesimo]] era che impediva agli uomini, con [[Tears|lacrime]] e terrori morbosi, di cercare la gioia e la libertà nel grembo della [[Nature|Natura]]. Ma un'altra accusa era che esso confortava gli uomini con una [[Providence|provvidenza]] fittizia, e li metteva in una stanza da bambini tutta rosa e bianca. Un grande agnostico chiedeva perché la [[Nature|Natura]] non fosse abbastanza bella, e perché fosse tanto difficile essere liberi. Un altro grande agnostico obiettava che l'ottimismo cristiano, «la veste di finzione tessuta da mani pie», ci nascondeva il fatto che la [[Nature|Natura]] era brutta, e che era impossibile essere liberi. Un razionalista aveva appena finito di chiamare il [[Christianity|Cristianesimo]] un [[nightmare|incubo]], che un altro cominciava a chiamarlo il paradiso di uno [[Fool|sciocco]]. Questo mi lasciava perplesso; le accuse parevano contraddittorie. Il [[Christianity|Cristianesimo]] non poteva essere insieme la maschera nera su un mondo bianco, e insieme la maschera bianca su un mondo nero. La condizione del cristiano non poteva essere a un tempo tanto comoda da rendere vile chi vi si aggrappa, e tanto scomoda da rendere [[Fool|sciocco]] chi la sopporta. Se falsava la visione umana, doveva falsarla in un senso o nell'altro; non poteva portare a un tempo occhiali verdi e occhiali color di [[Rose|rosa]]. Facevo rotolare sulla lingua, con terribile gioia, come tutti i giovani di quel [[Time|tempo]], gli scherni che Swinburne scagliava contro lo squallore del credo:
 
-     «Hai vinto, o pallido Galileo, il mondo si è
-          fatto grigio al tuo respiro».
+«Hai vinto, o pallido Galileo, il mondo si è
+fatto grigio al tuo respiro».
 
 Ma quando lessi i resoconti dello stesso poeta sul paganesimo (come in «Atalanta»), ne ricavai che il mondo, semmai, era più grigio prima che il Galileo vi alitasse sopra che non dopo. Il poeta sosteneva, in verità, in astratto, che la vita stessa fosse buia come la pece. E tuttavia, in qualche modo, il [[Christianity|Cristianesimo]] l'aveva incupita. Proprio colui che denunciava il [[Christianity|Cristianesimo]] per il suo pessimismo era egli stesso un pessimista. Pensai che ci dovesse essere qualcosa che non andava. E per un istante di follia mi passò per la [[Cross|mente]] che, forse, non fossero i migliori giudici del rapporto tra la religione e la felicità proprio coloro che, per loro stessa ammissione, non possedevano né l'una né l'altra.
 
-     Si intenda bene che non conclusi frettolosamente che le accuse fossero false o gli accusatori degli sciocchi. Dedussi semplicemente che il [[Christianity|Cristianesimo]] doveva essere qualcosa di ancora più strano e più malvagio di quanto essi lo dipingessero. Una cosa poteva ben avere questi due vizi opposti; ma doveva essere una cosa assai bizzarra, se li aveva. Un uomo poteva essere troppo grasso in un punto e troppo magro in un altro; ma sarebbe stato di forma ben strana. A questo punto i miei pensieri riguardavano soltanto la forma strana della religione cristiana; non attribuivo alcuna forma strana alla mente razionalistica.
+Si intenda bene che non conclusi frettolosamente che le accuse fossero false o gli accusatori degli sciocchi. Dedussi semplicemente che il [[Christianity|Cristianesimo]] doveva essere qualcosa di ancora più strano e più malvagio di quanto essi lo dipingessero. Una cosa poteva ben avere questi due vizi opposti; ma doveva essere una cosa assai bizzarra, se li aveva. Un uomo poteva essere troppo grasso in un punto e troppo magro in un altro; ma sarebbe stato di forma ben strana. A questo punto i miei pensieri riguardavano soltanto la forma strana della religione cristiana; non attribuivo alcuna forma strana alla mente razionalistica.
 
-     Ecco un altro caso dello stesso genere. Sentivo che un forte argomento contro il [[Christianity|Cristianesimo]] stava nell'accusa che vi è qualcosa di timido, di monacale e di poco virile in tutto ciò che si dice «cristiano», specialmente nel suo atteggiamento verso la resistenza e la lotta. I grandi scettici dell'Ottocento erano in gran parte virili. Bradlaugh in modo espansivo, Huxley in modo riservato, erano decisamente uomini. In confronto, sembrava sostenibile che vi fosse qualcosa di debole e di troppo paziente nei precetti cristiani. Il [[Paradox|paradosso]] evangelico dell'altra guancia, il fatto che i preti non combattessero mai, cento cose rendevano plausibile l'accusa che il [[Christianity|Cristianesimo]] fosse un tentativo di rendere l'uomo troppo simile a una pecora. Lo leggevo e ci credevo, e se non avessi letto nulla di diverso, avrei continuato a crederci. Ma lessi qualcosa di ben diverso. Voltai la pagina successiva del mio manuale agnostico, e il mio cervello si capovolse. Ora scoprivo che dovevo odiare il [[Christianity|Cristianesimo]] non perché combatteva troppo poco, ma perché combatteva troppo. Il [[Christianity|Cristianesimo]], a quanto pareva, era la madre delle guerre. Il [[Christianity|Cristianesimo]] aveva inondato il mondo di [[Blood|sangue]]. Mi ero infuriato per bene con il cristiano, perché non si adirava mai. E ora mi si diceva di adirarmi con lui perché la sua ira era stata la cosa più immensa e più orribile della [[history|storia]] umana; perché la sua ira aveva impregnato la terra ed era salita fumante verso il sole. Proprio coloro che rimproveravano al [[Christianity|Cristianesimo]] la mitezza e la non resistenza dei monasteri erano proprio coloro che gli rimproveravano anche la violenza e il valore delle [[Crusades|Crociate]]. Era colpa del povero vecchio [[Christianity|Cristianesimo]] (in un modo o nell'altro) sia che Edoardo il Confessore non combattesse, sia che [[Richard|Riccardo]] Cuor di Leone combattesse. I quaccheri (così ci si diceva) erano gli unici cristiani caratteristici; eppure i massacri di Cromwell e di Alva erano crimini tipicamente cristiani. Che cosa poteva mai significare tutto questo? Che cos'era questo [[Christianity|Cristianesimo]] che sempre proibiva la guerra e sempre produceva guerre? Quale poteva essere la [[Nature|natura]] di una cosa che si poteva rimproverare dapprima perché non voleva combattere, e poi perché combatteva di continuo? In quale mondo di enigmi era nato questo mostruoso assassinio e questa mostruosa mitezza? La forma del [[Christianity|Cristianesimo]] si faceva più bizzarra a ogni istante.
+Ecco un altro caso dello stesso genere. Sentivo che un forte argomento contro il [[Christianity|Cristianesimo]] stava nell'accusa che vi è qualcosa di timido, di monacale e di poco virile in tutto ciò che si dice «cristiano», specialmente nel suo atteggiamento verso la resistenza e la lotta. I grandi scettici dell'Ottocento erano in gran parte virili. Bradlaugh in modo espansivo, Huxley in modo riservato, erano decisamente uomini. In confronto, sembrava sostenibile che vi fosse qualcosa di debole e di troppo paziente nei precetti cristiani. Il [[Paradox|paradosso]] evangelico dell'altra guancia, il fatto che i preti non combattessero mai, cento cose rendevano plausibile l'accusa che il [[Christianity|Cristianesimo]] fosse un tentativo di rendere l'uomo troppo simile a una pecora. Lo leggevo e ci credevo, e se non avessi letto nulla di diverso, avrei continuato a crederci. Ma lessi qualcosa di ben diverso. Voltai la pagina successiva del mio manuale agnostico, e il mio cervello si capovolse. Ora scoprivo che dovevo odiare il [[Christianity|Cristianesimo]] non perché combatteva troppo poco, ma perché combatteva troppo. Il [[Christianity|Cristianesimo]], a quanto pareva, era la madre delle guerre. Il [[Christianity|Cristianesimo]] aveva inondato il mondo di [[Blood|sangue]]. Mi ero infuriato per bene con il cristiano, perché non si adirava mai. E ora mi si diceva di adirarmi con lui perché la sua ira era stata la cosa più immensa e più orribile della [[history|storia]] umana; perché la sua ira aveva impregnato la terra ed era salita fumante verso il sole. Proprio coloro che rimproveravano al [[Christianity|Cristianesimo]] la mitezza e la non resistenza dei monasteri erano proprio coloro che gli rimproveravano anche la violenza e il valore delle [[Crusades|Crociate]]. Era colpa del povero vecchio [[Christianity|Cristianesimo]] (in un modo o nell'altro) sia che Edoardo il Confessore non combattesse, sia che [[Richard|Riccardo]] Cuor di Leone combattesse. I quaccheri (così ci si diceva) erano gli unici cristiani caratteristici; eppure i massacri di Cromwell e di Alva erano crimini tipicamente cristiani. Che cosa poteva mai significare tutto questo? Che cos'era questo [[Christianity|Cristianesimo]] che sempre proibiva la guerra e sempre produceva guerre? Quale poteva essere la [[Nature|natura]] di una cosa che si poteva rimproverare dapprima perché non voleva combattere, e poi perché combatteva di continuo? In quale mondo di enigmi era nato questo mostruoso assassinio e questa mostruosa mitezza? La forma del [[Christianity|Cristianesimo]] si faceva più bizzarra a ogni istante.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_16" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 16)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_16" data-title="Orthodoxy — IV The Ethics Of Elfland (part 16)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 16)
 
-     I take a third case; the strangest of all, because it involves
+I take a third case; the strangest of all, because it involves
 the one real objection to the [[Faith|faith]].  The one real objection to
 the Christian religion is simply that it is one religion. 
 The world is a big place, full of very different kinds of people. 
@@ -9999,7 +9970,7 @@ because ethics had never changed.  We must not trust the ethics of Bossuet,
 because ethics had changed.  They changed in two hundred years,
 but not in two thousand.
 
-     This began to be alarming.  It looked not so much as if [[Christianity]]
+This began to be alarming.  It looked not so much as if [[Christianity]]
 was bad enough to include any vices, but rather as if any stick was
 good enough to beat [[Christianity]] with.  What again could this
 astonishing thing be like which people were so anxious to
@@ -10034,7 +10005,7 @@ prevents the world from going to the [[dogs]]."  In the same conversation
 a free-thinker, a friend of mine, blamed [[Christianity]] for despising Jews,
 and then despised it himself for being Jewish.
 
-     I wished to be quite fair then, and I wish to be quite fair now;
+I wished to be quite fair then, and I wish to be quite fair now;
 and I did not conclude that the attack on [[Christianity]] was all wrong. 
 I only concluded that if [[Christianity]] was wrong, it was very wrong
 indeed.  Such hostile horrors might be combined in one thing, but
@@ -10106,7 +10077,7 @@ perché l'etica non era mai cambiata.  Non dovevamo fidarci dell'etica di Bossue
 perché l'etica era cambiata.  Erano cambiate in duecento anni,
 ma non in duemila.
 
-     La cosa cominciava a farsi allarmante.  Sembrava non tanto che il [[Christianity|Cristianesimo]]
+La cosa cominciava a farsi allarmante.  Sembrava non tanto che il [[Christianity|Cristianesimo]]
 fosse abbastanza cattivo da includere ogni vizio, quanto piuttosto che ogni bastone fosse
 buono abbastanza per bastonare il [[Christianity|Cristianesimo]].  Che cosa poteva mai essere
 questa cosa stupefacente che le persone erano così ansiose di
@@ -10141,7 +10112,7 @@ impedisce al mondo di andare in [[dogs|malora]]».  Nella medesima conversazione
 un libero pensatore, un mio amico, biasimò il [[Christianity|Cristianesimo]] perché disprezzava gli ebrei,
 e poi lo disprezzò lui stesso perché era ebraico.
 
-     Volevo essere del tutto equo allora, e voglio essere del tutto equo ora;
+Volevo essere del tutto equo allora, e voglio essere del tutto equo ora;
 e non conclusi che l'attacco al [[Christianity|Cristianesimo]] fosse tutto sbagliato.
 Conclusi soltanto che se il [[Christianity|Cristianesimo]] era sbagliato, lo era in modo davvero
 gravissimo.  Simili orrori ostili potevano combinarsi in una sola cosa, ma
@@ -10167,11 +10138,10 @@ In verità, se Gesù di Nazaret non era il [[Christ|Cristo]], doveva essere l'An
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_17" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 17)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_17" data-title="Orthodoxy — IV The Ethics Of Elfland (part 17)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 17)
 
-     And then in a quiet hour a strange thought struck me
+And then in a quiet hour a strange thought struck me
 like a still thunderbolt.  There had suddenly come into my mind
 another explanation.  Suppose we heard an unknown man spoken of
 by many men.  Suppose we were puzzled to hear that some men said
@@ -10207,7 +10177,7 @@ any insanity involved in the matter at all it was in the trousers,
 not in the simply falling robe.  If there was any insanity at all,
 it was in the extravagant entrees, not in the bread and wine.
 
-     I went over all the cases, and I found the key fitted so far. 
+I went over all the cases, and I found the key fitted so far. 
 The fact that Swinburne was irritated at the unhappiness of Christians
 and yet more irritated at their happiness was easily explained.  It
 was no longer a complication of diseases in [[Christianity]],
@@ -10219,7 +10189,7 @@ In the same way the Malthusians by instinct attacked [[Christianity]];
 not because there is anything especially anti-Malthusian about [[Christianity]],
 but because there is something a little anti-human about Malthusianism.
 
-     Nevertheless it could not, I felt, be quite true that
+Nevertheless it could not, I felt, be quite true that
 [[Christianity]] was merely sensible and stood in the middle.
 There was really an element in it of emphasis and even frenzy
 which had justified the secularists in their superficial criticism. 
@@ -10251,7 +10221,7 @@ nor yet a being half human and half not, like a centaur,
 but both things at once and both things thoroughly, very man
 and very God.  Now let me trace this notion as I found it.
 
-     All sane men can see that [[Sanity|sanity]] is some kind of equilibrium;
+All sane men can see that [[Sanity|sanity]] is some kind of equilibrium;
 that one may be mad and eat too much, or mad and eat too little. 
 Some moderns have indeed appeared with vague versions of progress
 and evolution which seeks to destroy the MESON or balance of Aristotle. 
@@ -10264,7 +10234,7 @@ with the question of how that balance can be kept.  That was the problem
 which Paganism tried to solve:  that was the problem which I think
 [[Christianity]] solved and solved in a very strange way.
 
-     Paganism declared that virtue was in a balance;
+Paganism declared that virtue was in a balance;
 [[Christianity]] declared it was in a conflict:  the collision
 of two passions apparently opposite.  Of course they were
 not really inconsistent; but they were such that it was hard
@@ -10320,7 +10290,7 @@ c'era qualche follia, essa stava nei pantaloni,
 non nell'abito che scende semplice. Se v'era una qualsiasi follia,
 stava negli stravaganti entrées, non nel pane e nel vino.
 
-     Passai in rassegna tutti i casi, e trovai che sin qui la chiave calzava.
+Passai in rassegna tutti i casi, e trovai che sin qui la chiave calzava.
 Il fatto che Swinburne fosse irritato dall'infelicità dei cristiani
 e ancor più irritato dalla loro felicità si spiegava facilmente. Non era più
 una complicazione di malattie nel [[Christianity|Cristianesimo]],
@@ -10332,7 +10302,7 @@ Allo stesso modo i malthusiani per istinto attaccavano il [[Christianity|Cristia
 non perché vi sia nel [[Christianity|Cristianesimo]] qualcosa di particolarmente anti-malthusiano,
 ma perché vi è nel malthusianesimo qualcosa di un po' anti-umano.
 
-     Nondimeno non poteva, sentivo, essere del tutto vero che
+Nondimeno non poteva, sentivo, essere del tutto vero che
 il [[Christianity|Cristianesimo]] fosse semplicemente assennato e stesse nel mezzo.
 V'era in esso davvero un elemento di enfasi e persino di frenesia
 che aveva dato ragione ai secolaristi nella loro critica superficiale.
@@ -10364,7 +10334,7 @@ né un essere metà umano e metà no, come un centauro,
 ma entrambe le cose a un tempo, ed entrambe compiutamente: verissimo uomo
 e verissimo Dio. Ora lasciatemi rintracciare questa nozione così come la trovai.
 
-     Ogni uomo sano di mente vede che la [[Sanity|sanità di mente]] è una sorta di equilibrio;
+Ogni uomo sano di mente vede che la [[Sanity|sanità di mente]] è una sorta di equilibrio;
 che si può essere folli e mangiare troppo, oppure folli e mangiare troppo poco.
 Alcuni moderni sono in verità comparsi con vaghe versioni del progresso
 e dell'evoluzione che cercano di distruggere il MESON, ossia l'equilibrio di Aristotele.
@@ -10377,7 +10347,7 @@ con la domanda su come quell'equilibrio possa essere tenuto. Questo era il probl
 che il paganesimo tentò di risolvere: questo era il problema che, io credo,
 il [[Christianity|Cristianesimo]] risolse, e risolse in modo assai strano.
 
-     Il paganesimo dichiarava che la virtù stava in un equilibrio;
+Il paganesimo dichiarava che la virtù stava in un equilibrio;
 il [[Christianity|Cristianesimo]] dichiarava che stava in un conflitto: la collisione
 di due passioni apparentemente opposte. Naturalmente non erano
 davvero incoerenti; ma erano tali che riusciva difficile
@@ -10396,11 +10366,10 @@ se avrà l'ardire di rischiarla sul precipizio.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_18" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 18)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_18" data-title="Orthodoxy — IV The Ethics Of Elfland (part 18)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 18)
 
-     He can only get away from [[Death|death]] by continually stepping
+He can only get away from [[Death|death]] by continually stepping
 within an inch of it.  A soldier surrounded by enemies, if he is
 to cut his way out, needs to combine a strong [[Desire|desire]] for living with
 a strange carelessness about dying.  He must not merely cling to life,
@@ -10418,7 +10387,7 @@ lances the banner of the mystery of chivalry:  the Christian [[Courage|courage]]
 which is a disdain of [[Death|death]]; not the Chinese [[Courage|courage]], which is
 a disdain of life.
 
-     And now I began to find that this duplex passion was the
+And now I began to find that this duplex passion was the
 Christian key to ethics everywhere.  Everywhere the creed made
 a moderation out of the still crash of two impetuous emotions. 
 Take, for instance, the matter of modesty, of the balance between
@@ -10443,7 +10412,7 @@ Alice in Wonderland.  Thus it loses both the poetry of being proud
 and the poetry of being humble. [[Christianity]] sought by this same
 strange expedient to save both of them.
 
-     It separated the two ideas and then exaggerated them both. 
+It separated the two ideas and then exaggerated them both. 
 In one way Man was to be haughtier than he had ever been before;
 in another way he was to be humbler than he had ever been before. 
 In so far as I am Man I am the chief of creatures.  In so far as I am
@@ -10476,7 +10445,7 @@ by keeping them both, and keeping them both furious.  The Church was
 positive on both points.  One can hardly think too little of one's [[Self|self]]. 
 One can hardly think too much of one's [[Soul|soul]].
 
-     Take another case:  the complicated question of [[Charity|charity]],
+Take another case:  the complicated question of [[Charity|charity]],
 which some highly uncharitable idealists seem to think quite easy. 
 [[Charity]] is a [[Paradox|paradox]], like modesty and [[Courage|courage]].  Stated baldly,
 [[Charity|charity]] certainly means one of two things--pardoning unpardonable acts,
@@ -10523,7 +10492,7 @@ le lance europee lo stendardo del mistero della cavalleria: il [[Courage|coraggi
 che è un disprezzo della [[Death|morte]]; non il [[Courage|coraggio]] cinese, che è
 un disprezzo della vita.
 
-     E cominciai allora a scoprire che questa duplice passione era la
+E cominciai allora a scoprire che questa duplice passione era la
 chiave cristiana all'etica in ogni ambito. Ovunque il credo ricavava
 una moderazione dallo scontro immobile di due emozioni impetuose.
 Si prenda, per esempio, la questione della modestia, dell'equilibrio tra
@@ -10548,7 +10517,7 @@ Alice nel Paese delle Meraviglie. Così perde tanto la poesia dell'essere orgogl
 quanto la poesia dell'essere umili. Il [[Christianity|Cristianesimo]] cercò, con questo stesso
 strano espediente, di salvare entrambe.
 
-     Separò le due idee e poi le esagerò entrambe.
+Separò le due idee e poi le esagerò entrambe.
 Per un verso l'Uomo doveva essere più altero di quanto fosse mai stato prima;
 per un altro verso doveva essere più umile di quanto fosse mai stato prima.
 In quanto sono Uomo, sono il principe delle creature. In quanto sono
@@ -10581,7 +10550,7 @@ conservandoli entrambi, e conservandoli entrambi furiosi. La Chiesa fu
 affermativa su ambedue i punti. Difficilmente si può pensare troppo poco del proprio [[Self|sé]].
 Difficilmente si può pensare troppo della propria [[Soul|anima]].
 
-     Si prenda un altro caso: la complicata questione della [[Charity|carità]],
+Si prenda un altro caso: la complicata questione della [[Charity|carità]],
 che certi idealisti assai poco caritatevoli sembrano ritenere del tutto facile.
 La [[Charity|carità]] è un [[Paradox|paradosso]], come la modestia e il [[Courage|coraggio]]. Detta crudamente,
 la [[Charity|carità]] significa certamente una di due cose: perdonare atti imperdonabili,
@@ -10609,11 +10578,10 @@ lo scopo principale di quell'ordine era dare spazio alle cose buone perché corr
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_19" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 19)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_19" data-title="Orthodoxy — IV The Ethics Of Elfland (part 19)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 19)
 
-     Mental and emotional liberty are not so simple as they look. 
+Mental and emotional liberty are not so simple as they look. 
 Really they require almost as careful a balance of laws and conditions
 as do social and political liberty.  The ordinary aesthetic anarchist
 who sets out to feel everything freely gets knotted at last in
@@ -10638,7 +10606,7 @@ between divine and diabolic, the revolt and ruin of the world,
 their optimism and pessimism, as pure poetry, could be loosened
 like cataracts.
 
-     St. Francis, in praising all good, could be a more shouting
+St. Francis, in praising all good, could be a more shouting
 optimist than Walt Whitman.  St. Jerome, in denouncing all evil,
 could paint the world blacker than Schopenhauer. Both passions were free
 because both were kept in their place. The optimist could pour out
@@ -10669,7 +10637,7 @@ Our ethical teachers write mildly against the power of millionaires;
 but we are not likely to see Mr. Rockefeller, or any modern [[Tyrant|tyrant]],
 publicly whipped in Westminster Abbey.
 
-     Thus, the [[Double|double]] charges of the secularists, though throwing
+Thus, the [[Double|double]] charges of the secularists, though throwing
 nothing but darkness and confusion on themselves, throw a real light
 on the [[Faith|faith]].  It is true that the historic Church has at once
 emphasised celibacy and emphasised the family; has at once
@@ -10688,7 +10656,7 @@ It is not a mixture like russet or purple; it is rather like
 a shot silk, for a shot silk is always at right angles, and is in
 the pattern of the [[Cross|cross]].
 
-     So it is also, of course, with the contradictory charges of the
+So it is also, of course, with the contradictory charges of the
 anti-Christians about submission and slaughter.  It IS true that
 the Church told some men to fight and others not to fight;
 and it IS true that those who fought were like thunderbolts
@@ -10745,7 +10713,7 @@ tra il divino e il diabolico, la rivolta e la rovina del mondo,
 il loro ottimismo e il loro pessimismo, come pura poesia, potevano essere scatenati
 come cateratte.
 
-     San Francesco, nel lodare ogni bene, poteva essere un ottimista più clamoroso
+San Francesco, nel lodare ogni bene, poteva essere un ottimista più clamoroso
 di Walt Whitman. San Girolamo, nel denunciare ogni male,
 poteva dipingere il mondo più nero di Schopenhauer. Entrambe le passioni erano libere
 perché entrambe erano tenute al loro posto. L'ottimista poteva riversare
@@ -10776,7 +10744,7 @@ I nostri maestri di etica scrivono blandamente contro il potere dei milionari;
 ma non è probabile che vedremo il signor Rockefeller, o alcun [[Tyrant|tiranno]] moderno,
 frustato pubblicamente nell'abbazia di Westminster.
 
-     Così, le [[Double|duplici]] accuse dei laicisti, per quanto gettino
+Così, le [[Double|duplici]] accuse dei laicisti, per quanto gettino
 null'altro che tenebra e confusione su se stessi, gettano una luce reale
 sulla [[Faith|fede]]. È vero che la Chiesa storica ha nel medesimo tempo
 esaltato il celibato ed esaltato la famiglia; è stata nel medesimo tempo
@@ -10795,7 +10763,7 @@ Non è una mescolanza come il rossiccio o il porpora; è piuttosto come
 una seta cangiante, poiché una seta cangiante è sempre ad angolo retto, ed è nel
 disegno della [[Cross|croce]].
 
-     Così è anche, naturalmente, con le accuse contraddittorie degli
+Così è anche, naturalmente, con le accuse contraddittorie degli
 anticristiani riguardo alla sottomissione e al massacro. È vero che
 la Chiesa disse ad alcuni uomini di combattere e ad altri di non combattere;
 ed è vero che coloro che combattevano erano come folgori
@@ -10827,11 +10795,10 @@ QUESTO è il problema che la Chiesa tentò; QUESTO è il miracolo che ella comp�
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_20" data-title="Orthodoxy — Iv The Ethics Of Elfland (part 20)" data-chapter="Story 06 Iv The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_20" data-title="Orthodoxy — IV The Ethics Of Elfland (part 20)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
 
-# [[ortho14]] — Iv The Ethics Of Elfland (part 20)
 
-     This is what I have called guessing the hidden eccentricities of life. 
+This is what I have called guessing the hidden eccentricities of life. 
 This is knowing that a man's heart is to the left and not in the middle. 
 This is knowing not only that the earth is round, but knowing exactly
 where it is flat. Christian doctrine detected the oddities of life. 
@@ -10848,7 +10815,7 @@ Any one might say, "Neither swagger nor grovel"; and it would have been
 a limit. But to say, "Here you can swagger and there you can grovel"--
 that was an emancipation.
 
-     This was the big fact about Christian ethics; the discovery
+This was the big fact about Christian ethics; the discovery
 of the new balance.  Paganism had been like a pillar of marble,
 upright because proportioned with symmetry. [[Christianity]] was like
 a huge and ragged and romantic rock, which, though it sways on its
@@ -10883,7 +10850,7 @@ that the Frenchman may the more safely be swift and experimental.
 We will make an equipoise out of these excesses.  The absurdity
 called [[Germany]] shall correct the insanity called France."
 
-     Last and most important, it is exactly this which explains
+Last and most important, it is exactly this which explains
 what is so inexplicable to all the modern critics of the [[history]] of
 [[Christianity]].  I mean the monstrous wars about small points of theology,
 the earthquakes of emotion about a gesture or a word. 
@@ -10912,7 +10879,7 @@ or break all the Easter eggs. Doctrines had to be defined within
 strict limits, even in order that man might enjoy general human liberties. 
 The Church had to be careful, if only that the world might be careless.
 
-     This is the thrilling [[Romance|romance]] of Orthodoxy.  People have fallen
+This is the thrilling [[Romance|romance]] of Orthodoxy.  People have fallen
 into a foolish habit of speaking of orthodoxy as something heavy,
 humdrum, and safe.  There never was anything so perilous or
 so exciting as orthodoxy.  It was [[Sanity|sanity]]:  and to be sane is
@@ -10966,7 +10933,7 @@ Chiunque potrebbe dire: «Non spavaldeggiare e non strisciare»; e sarebbe stato
 un limite. Ma dire: «Qui puoi spavaldeggiare e là puoi strisciare»—
 quella fu un'emancipazione.
 
-     Questo era il grande fatto dell'etica cristiana: la scoperta
+Questo era il grande fatto dell'etica cristiana: la scoperta
 del nuovo equilibrio. Il paganesimo era stato come una colonna di marmo,
 diritta perché proporzionata con simmetria. Il [[Christianity|Cristianesimo]] era come
 un'immane, scabra e romantica rupe che, benché oscilli sul suo
@@ -11001,7 +10968,7 @@ affinché il Francese possa tanto più sicuramente essere rapido e sperimentale.
 Faremo un contrappeso di questi eccessi. L'assurdità
 chiamata [[Germany|Germania]] correggerà la follia chiamata Francia».
 
-     Da ultimo, e più importante, è proprio questo a spiegare
+Da ultimo, e più importante, è proprio questo a spiegare
 ciò che riesce tanto inesplicabile a tutti i critici moderni della [[history|storia]] del
 [[Christianity|Cristianesimo]]. Intendo le guerre mostruose su piccoli punti di teologia,
 i terremoti d'emozione per un gesto o una parola.
@@ -11030,7 +10997,7 @@ o rompere tutte le uova di Pasqua. Le dottrine dovevano essere definite entro
 limiti severi, anche solo affinché l'uomo potesse godere delle comuni libertà umane.
 La Chiesa doveva essere attenta, non foss'altro perché il mondo potesse essere spensierato.
 
-     Questo è il palpitante [[Romance|romanzo]] dell'Ortodossia. La gente è caduta
+Questo è il palpitante [[Romance|romanzo]] dell'Ortodossia. La gente è caduta
 nella sciocca abitudine di parlare dell'ortodossia come di qualcosa di pesante,
 monotono e sicuro. Non ci fu mai nulla di così pericoloso o
 di così eccitante come l'ortodossia. Era [[Sanity|sanità di mente]]: ed essere sani di mente
@@ -11066,13 +11033,12 @@ vacillante ma eretta.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_01" data-title="Orthodoxy — Vii The Eternal Revolution (part 1)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_01" data-title="Orthodoxy — VII The Eternal Revolution (part 1)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 1)
 
 VII THE ETERNAL REVOLUTION
 
-     The following propositions have been urged:  First,
+The following propositions have been urged:  First,
 that some [[Faith|faith]] in our life is required even to improve it; second,
 that some dissatisfaction with things as they are is necessary
 even in order to be satisfied; third, that to have this necessary
@@ -11093,7 +11059,7 @@ the facades of the mediaeval cathedrals, thronged with shouting faces
 and open mouths.  The prophecy has fulfilled itself:  the very stones
 cry out.
 
-     If these things be conceded, though only for argument,
+If these things be conceded, though only for argument,
 we may take up where we left it the thread of the thought of the
 natural man, called by the Scotch (with regrettable familiarity),
 "The Old Man."  We can ask the next question so obviously in front of us. 
@@ -11104,7 +11070,7 @@ the symbol of [[Madness|madness]] and of mere rationalism.  Evolution is only go
 if it produces good; good is only good if it helps evolution. 
 The elephant stands on the tortoise, and the tortoise on the elephant.
 
-     Obviously, it will not do to take our ideal from
+Obviously, it will not do to take our ideal from
 the principle in [[Nature|nature]]; for the simple reason that (except for some
 human or divine theory), there is no principle in [[Nature|nature]].
 For instance, the cheap anti-democrat of to-day will tell you solemnly
@@ -11133,13 +11099,13 @@ things are superior.  You cannot even say that the cat scores
 unless there is a system of scoring.  You cannot even say that
 the cat gets the best of it unless there is some best to be got.
 
-     We cannot, then, get the ideal itself from [[Nature|nature]],
+We cannot, then, get the ideal itself from [[Nature|nature]],
 and as we follow here the first and natural speculation,
 we will leave out (for the present) the idea of getting it from God. 
 We must have our own vision.  But the attempts of most moderns
 to express it are highly vague.
 
-     Some fall back simply on the [[Clock|clock]]: they talk as if mere passage
+Some fall back simply on the [[Clock|clock]]: they talk as if mere passage
 through [[Time|time]] brought some superiority; so that even a man of the first
 mental calibre carelessly uses the phrase that human [[morality]] is never
 up to date.  How can anything be up to date? -- a date has
@@ -11157,7 +11123,7 @@ it is a mere phrase from a steeple or a weathercock. "Tommy was a good boy"
 is a pure philosophical statement, worthy of Plato or [[aquinas|Aquinas]]. 
 "Tommy lived the higher life" is a gross metaphor from a ten-foot rule.
 
-     This, incidentally, is almost the whole weakness of Nietzsche,
+This, incidentally, is almost the whole weakness of Nietzsche,
 whom some are representing as a bold and strong thinker. 
 No one will deny that he was a poetical and suggestive thinker;
 but he was quite the reverse of strong.  He was not at all bold. 
@@ -11182,7 +11148,7 @@ do not know either.
 
 VII LA RIVOLUZIONE ETERNA
 
-     Sono state sostenute le seguenti proposizioni: primo,
+Sono state sostenute le seguenti proposizioni: primo,
 che una qualche [[Faith|fede]] nella nostra vita è necessaria anche solo per migliorarla; secondo,
 che una qualche insoddisfazione per le cose come stanno è indispensabile
 persino per poter essere soddisfatti; terzo, che per avere questa necessaria
@@ -11203,7 +11169,7 @@ le facciate delle cattedrali medievali, gremite di volti gridanti
 e di bocche spalancate. La profezia si è adempiuta da sé: le pietre stesse
 gridano.
 
-     Se queste cose si concedono, foss'anche solo per amor di discussione,
+Se queste cose si concedono, foss'anche solo per amor di discussione,
 possiamo riprendere là dove l'avevamo lasciato il filo del pensiero dell'uomo
 naturale, chiamato dagli scozzesi (con deplorevole familiarità)
 «il Vecchio Adamo». Possiamo porci la domanda successiva, così ovviamente davanti a noi.
@@ -11214,7 +11180,7 @@ a simbolo della [[Madness|follia]] e del mero razionalismo. L'evoluzione è buon
 soltanto se produce il bene; il bene è buono soltanto se favorisce l'evoluzione.
 L'elefante sta sulla tartaruga, e la tartaruga sull'elefante.
 
-     Evidentemente, non è possibile ricavare il nostro ideale
+Evidentemente, non è possibile ricavare il nostro ideale
 dal principio insito nella [[Nature|natura]]; per la semplice ragione che (salvo una qualche
 teoria umana o divina) nella [[Nature|natura]] non esiste alcun principio.
 Per esempio, l'antidemocratico da quattro soldi di oggi ti dirà solennemente
@@ -11243,13 +11209,13 @@ cose siano superiori. Non puoi nemmeno dire che il gatto segni un punto
 se non esiste un sistema di punteggio. Non puoi nemmeno dire che
 il gatto abbia la meglio se non c'è una qualche meglio da avere.
 
-     Non possiamo, dunque, ricavare l'ideale stesso dalla [[Nature|natura]],
+Non possiamo, dunque, ricavare l'ideale stesso dalla [[Nature|natura]],
 e poiché qui seguiamo la prima e naturale speculazione,
 lasceremo da parte (per ora) l'idea di ricavarlo da Dio.
 Dobbiamo avere la nostra propria visione. Ma i tentativi della maggior parte dei moderni
 di esprimerla sono estremamente vaghi.
 
-     Alcuni ripiegano semplicemente sull'[[Clock|orologio]]: parlano come se il mero passaggio
+Alcuni ripiegano semplicemente sull'[[Clock|orologio]]: parlano come se il mero passaggio
 attraverso il [[Time|tempo]] recasse con sé una qualche superiorità; tanto che persino un uomo del primo
 calibro intellettuale usa con noncuranza la frase secondo cui la [[morality|morale]] umana non è mai
 al passo coi tempi. Come può qualcosa essere al passo coi tempi? — una data non ha
@@ -11267,7 +11233,7 @@ di cose che sono «alte». È perlomeno l'esatto contrario di intellettuale;
 è una pura affermazione filosofica, degna di Platone o di [[aquinas|Tommaso d'Aquino]].
 «Tommy visse la vita superiore» è una grossolana metafora tratta da un metro da tre passi.
 
-     Questa, per inciso, è quasi tutta la debolezza di Nietzsche,
+Questa, per inciso, è quasi tutta la debolezza di Nietzsche,
 che alcuni rappresentano come un pensatore audace e forte.
 Nessuno negherà che fosse un pensatore poetico e suggestivo;
 ma era esattamente il contrario di forte. Non era affatto audace.
@@ -11289,11 +11255,10 @@ non lo sanno nemmeno loro.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_02" data-title="Orthodoxy — Vii The Eternal Revolution (part 2)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_02" data-title="Orthodoxy — VII The Eternal Revolution (part 2)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 2)
 
-     Then again, some people fall back on sheer submission
+Then again, some people fall back on sheer submission
 and sitting still.  [[Nature]] is going to do something some day;
 nobody knows what, and nobody knows when.  We have no reason for acting,
 and no reason for not acting.  If anything happens it is right: 
@@ -11302,7 +11267,7 @@ anticipate [[Nature|nature]] by doing something, by doing anything.  Because we
 may possibly grow wings they cut off their legs.  Yet [[Nature|nature]] may be
 trying to make them centipedes for all they know.
 
-     Lastly, there is a fourth class of people who take whatever it is
+Lastly, there is a fourth class of people who take whatever it is
 that they happen to want, and say that that is the ultimate aim
 of evolution.  And these are the only sensible people. 
 This is the only really healthy way with the word evolution,
@@ -11321,7 +11286,7 @@ We have said we must be fond of this world, even in order to change it.
 We now add that we must be fond of another world (real or imaginary)
 in order to have something to change it to.
 
-     We need not [[debate]] about the mere words evolution or progress: 
+We need not [[debate]] about the mere words evolution or progress: 
 personally I prefer to call it [[Reform|reform]].  For [[Reform|reform]] implies form. 
 It implies that we are trying to shape the world in a particular image;
 to make it something that we see already in our minds.  Evolution is
@@ -11331,7 +11296,7 @@ But [[Reform|reform]] is a metaphor for reasonable and determined men:  it means
 that we see a certain thing out of shape and we mean to put it into shape.
 And we know what shape.
 
-     Now here comes in the whole collapse and huge blunder of our age. 
+Now here comes in the whole collapse and huge blunder of our age. 
 We have mixed up two different things, two opposite things. 
 Progress should mean that we are always changing the world
 to suit the vision.  Progress does mean (just now) that we are always
@@ -11344,7 +11309,7 @@ It does mean that the New Jerusalem is always walking away from us.
 We are not altering the real to suit the ideal.  We are altering the ideal: 
 it is easier.
 
-     Silly examples are always simpler; let us suppose a man wanted
+Silly examples are always simpler; let us suppose a man wanted
 a particular kind of world; say, a blue world.  He would have
 no cause to complain of the slightness or swiftness of his task;
 he might toil for a long [[Time|time]] at the transformation; he could work away
@@ -11401,7 +11366,7 @@ anticipare la [[Nature|natura]] facendo qualcosa, facendo qualunque cosa.  Poich
 forse un giorno ci spunteranno le ali, ecco che si tagliano le gambe.  Eppure la [[Nature|natura]] potrebbe
 star cercando di farne dei millepiedi, per quel che ne sanno.
 
-     Vi è infine una quarta categoria di persone, quelle che prendono ciò che
+Vi è infine una quarta categoria di persone, quelle che prendono ciò che
 per caso desiderano e affermano che quello è lo scopo ultimo
 dell'evoluzione.  E sono le uniche persone assennate.
 Questo è l'unico modo davvero sano di trattare la parola evoluzione:
@@ -11420,7 +11385,7 @@ Abbiamo detto che dobbiamo amare questo mondo, se non altro per poterlo mutare.
 Aggiungiamo ora che dobbiamo amare un altro mondo (reale o immaginario)
 per avere qualcosa in cui mutarlo.
 
-     Non occorre [[debate|disputare]] sulle mere parole evoluzione o progresso:
+Non occorre [[debate|disputare]] sulle mere parole evoluzione o progresso:
 personalmente preferisco chiamarla [[Reform|riforma]].  Perché [[Reform|riforma]] implica forma.
 Implica che noi cerchiamo di plasmare il mondo secondo una determinata immagine;
 di renderlo qualcosa che già vediamo nella nostra mente.  L'evoluzione è
@@ -11430,7 +11395,7 @@ Ma la [[Reform|riforma]] è una metafora per uomini ragionevoli e risoluti:  sig
 che vediamo una certa cosa deforme e intendiamo darle forma.
 E sappiamo quale forma.
 
-     Ed ecco che qui si insinua l'intero crollo e l'enorme abbaglio della nostra epoca.
+Ed ecco che qui si insinua l'intero crollo e l'enorme abbaglio della nostra epoca.
 Abbiamo confuso due cose diverse, due cose opposte.
 Progresso dovrebbe significare che mutiamo di continuo il mondo
 per adattarlo alla visione.  Progresso significa (proprio adesso) che mutiamo di continuo
@@ -11443,7 +11408,7 @@ Significa invece che la Nuova Gerusalemme si allontana sempre da noi.
 Non stiamo alterando il reale per adattarlo all'ideale.  Stiamo alterando l'ideale:
 è più facile.
 
-     Gli esempi sciocchi sono sempre i più semplici; supponiamo che un uomo desiderasse
+Gli esempi sciocchi sono sempre i più semplici; supponiamo che un uomo desiderasse
 un particolare tipo di mondo; poniamo, un mondo azzurro.  Egli non avrebbe
 motivo di lamentarsi dell'esiguità o della rapidità del suo compito;
 potrebbe faticare per un lungo [[Time|tempo]] alla trasformazione; potrebbe darsi da fare
@@ -11490,11 +11455,10 @@ dell'Arcivescovo di Canterbury.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_03" data-title="Orthodoxy — Vii The Eternal Revolution (part 3)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_03" data-title="Orthodoxy — VII The Eternal Revolution (part 3)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 3)
 
-     We may say broadly that free thought is the best of all the
+We may say broadly that free thought is the best of all the
 safeguards against [[Freedom|freedom]].  Managed in a modern style the emancipation
 of the slave's mind is the best way of preventing the emancipation of
 the slave.  Teach him to worry about whether he wants to be free,
@@ -11519,7 +11483,7 @@ exactly the same.  No ideal will remain long enough to be realized,
 or even partly realized.  The modern young man will never change
 his environment; for he will always change his mind.
 
-     This, therefore, is our first requirement about the ideal
+This, therefore, is our first requirement about the ideal
 towards which progress is directed; it must be fixed.  Whistler used
 to make many rapid studies of a sitter; it did not matter if he tore
 up twenty portraits.  But it would matter if he looked up twenty times,
@@ -11535,7 +11499,7 @@ satisfied with working?  How can we make sure that the portrait painter
 will throw the portrait out of [[Window|window]] instead of taking the natural
 and more human course of throwing the sitter out of [[Window|window]]?
 
-     A strict rule is not only necessary for ruling; it is also
+A strict rule is not only necessary for ruling; it is also
 necessary for rebelling.  This fixed and familiar ideal is necessary
 to any sort of revolution.  Man will sometimes act slowly
 upon new ideas; but he will only act swiftly upon old ideas.  If I am
@@ -11570,7 +11534,7 @@ behind the current [[morality]], why should not philanthropists be in
 front of it?  What on earth is the current [[morality]], except in its
 literal sense--the [[morality]] that is always running away?
 
-     Thus we may say that a permanent ideal is as necessary
+Thus we may say that a permanent ideal is as necessary
 to the innovator as to the conservative; it is necessary whether
 we wish the [[King|king]]'s orders to be promptly executed or whether we only
 wish the [[King|king]] to be promptly executed.  The guillotine has many sins,
@@ -11591,19 +11555,18 @@ that the vision should be a fixed vision.  This is our first requirement.
 
 Possiamo dire, in linea generale, che il libero pensiero è la migliore fra tutte le difese contro la [[Freedom|libertà]]. Gestita alla maniera moderna, l'emancipazione della mente dello schiavo è il modo più sicuro di impedire l'emancipazione dello schiavo. Insegnategli a tormentarsi sul fatto se voglia o no essere libero, ed egli non si libererà. Di nuovo si potrà obiettare che questo esempio è remoto o estremo. Ma, di nuovo, esso è esattamente vero per gli uomini che ci circondano nelle strade. È vero che lo schiavo negro, essendo un barbaro degradato, avrà probabilmente o un umano affetto di fedeltà, o un umano affetto per la libertà. Ma l'uomo che vediamo ogni giorno — l'operaio nella fabbrica del signor Gradgrind, il piccolo impiegato nell'ufficio del signor Gradgrind — costui è troppo travagliato nella mente per credere nella [[Freedom|libertà]]. Lo si tiene quieto a forza di letteratura rivoluzionaria. Lo si calma e lo si tiene al suo posto con una costante successione di sfrenate filosofie. Un giorno è marxista, il giorno dopo nietzscheano, il giorno appresso (probabilmente) un Superuomo; e schiavo tutti i giorni. L'unica cosa che rimane dopo tutte le filosofie è la fabbrica. L'unico uomo che ci guadagna da tutte le filosofie è Gradgrind. Gli converrebbe rifornire la sua ilotìa commerciale di letteratura scettica. E ora che ci penso, naturalmente, Gradgrind è celebre per le biblioteche che dona. Dà prova di buon senso. Tutti i libri moderni stanno dalla sua parte. Finché la visione del cielo muta di continuo, la visione della terra rimarrà esattamente la stessa. Nessun ideale durerà abbastanza a lungo da essere realizzato, o anche solo in parte realizzato. Il giovane moderno non muterà mai il proprio ambiente; perché muterà sempre idea.
 
-     Questo, dunque, è il nostro primo requisito riguardo all'ideale verso cui è diretto il progresso: esso dev'essere fisso. Whistler era solito fare molti schizzi rapidi di un soggetto in posa; non aveva importanza se stracciava venti ritratti. Ma avrebbe avuto importanza se avesse alzato gli occhi venti volte, e ogni [[Time|volta]] avesse visto una persona nuova posare placidamente per il suo ritratto. Così non ha importanza (relativamente parlando) quante volte l'umanità fallisca nell'imitare il proprio ideale; perché allora tutti i suoi vecchi fallimenti sono fecondi. Ma ha una tremenda importanza quante volte l'umanità muti il proprio ideale; perché allora tutti i suoi vecchi fallimenti sono sterili. La questione diventa dunque questa: come possiamo mantenere l'[[artist|artista]] scontento dei suoi quadri, impedendogli però di essere vitalmente scontento della sua arte? Come possiamo fare in modo che un uomo sia sempre insoddisfatto della propria opera, e tuttavia sempre soddisfatto del lavorare? Come possiamo assicurarci che il ritrattista getti il ritratto dalla [[Window|finestra]] invece di prendere la via naturale e più umana di gettare il soggetto dalla [[Window|finestra]]?
+Questo, dunque, è il nostro primo requisito riguardo all'ideale verso cui è diretto il progresso: esso dev'essere fisso. Whistler era solito fare molti schizzi rapidi di un soggetto in posa; non aveva importanza se stracciava venti ritratti. Ma avrebbe avuto importanza se avesse alzato gli occhi venti volte, e ogni [[Time|volta]] avesse visto una persona nuova posare placidamente per il suo ritratto. Così non ha importanza (relativamente parlando) quante volte l'umanità fallisca nell'imitare il proprio ideale; perché allora tutti i suoi vecchi fallimenti sono fecondi. Ma ha una tremenda importanza quante volte l'umanità muti il proprio ideale; perché allora tutti i suoi vecchi fallimenti sono sterili. La questione diventa dunque questa: come possiamo mantenere l'[[artist|artista]] scontento dei suoi quadri, impedendogli però di essere vitalmente scontento della sua arte? Come possiamo fare in modo che un uomo sia sempre insoddisfatto della propria opera, e tuttavia sempre soddisfatto del lavorare? Come possiamo assicurarci che il ritrattista getti il ritratto dalla [[Window|finestra]] invece di prendere la via naturale e più umana di gettare il soggetto dalla [[Window|finestra]]?
 
-     Una regola rigorosa non è necessaria soltanto per governare; è necessaria anche per ribellarsi. Questo ideale fisso e familiare è necessario a ogni sorta di rivoluzione. L'uomo talvolta agirà lentamente in base a idee nuove; ma agirà rapidamente solo in base a idee antiche. Se non devo far altro che galleggiare o dileguarmi o evolvermi, potrà essere verso qualcosa di anarchico; ma se devo far tumulto, dev'essere per qualcosa di rispettabile. In ciò sta tutta la debolezza di certe scuole di progresso e di evoluzione morale. Esse suggeriscono che vi sia stato un lento movimento verso la [[morality|moralità]], con un impercettibile mutamento etico in ogni anno o in ogni istante. Vi è un solo grande svantaggio in questa teoria. Essa parla di un lento movimento verso la giustizia; ma non consente un movimento rapido. Non è concesso a un uomo di levarsi in piedi e dichiarare che un certo stato di cose è intrinsecamente intollerabile. Per chiarire la faccenda, è meglio ricorrere a un esempio specifico. Certi vegetariani idealisti, come il signor Salt, dicono che è ormai giunto il [[Time|tempo]] di non mangiare più carne; per implicazione essi presuppongono che in un [[Time|tempo]] fosse giusto mangiare carne, e suggeriscono (con parole che si potrebbero citare) che un giorno potrà essere sbagliato mangiare latte e uova. Non discuto qui la questione di che cosa sia giusto verso gli [[Animals|animali]]. Dico soltanto che qualunque cosa sia giusta dovrebbe, in date condizioni, essere giustizia pronta. Se un animale subisce un torto, dovremmo poter accorrere in suo soccorso. Ma come possiamo accorrere se siamo, forse, in anticipo sul nostro [[Time|tempo]]? Come possiamo correre a prendere un treno che potrebbe non arrivare prima di qualche secolo? Come posso denunciare un uomo perché scuoia i gatti, se egli è solo ora ciò che io potrei forse diventare bevendo un bicchiere di latte? Una splendida e folle setta russa andava in giro togliendo tutto il bestiame da tutti i carri. Come posso trovare il [[Courage|coraggio]] di togliere il [[Horse|cavallo]] dalla mia carrozza da nolo, quando non so se il mio orologio evoluzionista vada solo un po' avanti o quello del [[cabman|vetturino]] un po' indietro? Supponiamo che io dica a uno sfruttatore: «La [[Slavery|schiavitù]] si addiceva a uno stadio dell'evoluzione». E supponiamo che egli risponda: «E lo sfruttamento si addice a questo stadio dell'evoluzione». Come posso ribattere se non esiste alcun criterio eterno? Se gli sfruttatori possono essere indietro rispetto alla [[morality|moralità]] corrente, perché i filantropi non dovrebbero esserle davanti? Che cosa mai è la [[morality|moralità]] corrente, se non nel suo senso letterale — la [[morality|moralità]] che è sempre in fuga?
+Una regola rigorosa non è necessaria soltanto per governare; è necessaria anche per ribellarsi. Questo ideale fisso e familiare è necessario a ogni sorta di rivoluzione. L'uomo talvolta agirà lentamente in base a idee nuove; ma agirà rapidamente solo in base a idee antiche. Se non devo far altro che galleggiare o dileguarmi o evolvermi, potrà essere verso qualcosa di anarchico; ma se devo far tumulto, dev'essere per qualcosa di rispettabile. In ciò sta tutta la debolezza di certe scuole di progresso e di evoluzione morale. Esse suggeriscono che vi sia stato un lento movimento verso la [[morality|moralità]], con un impercettibile mutamento etico in ogni anno o in ogni istante. Vi è un solo grande svantaggio in questa teoria. Essa parla di un lento movimento verso la giustizia; ma non consente un movimento rapido. Non è concesso a un uomo di levarsi in piedi e dichiarare che un certo stato di cose è intrinsecamente intollerabile. Per chiarire la faccenda, è meglio ricorrere a un esempio specifico. Certi vegetariani idealisti, come il signor Salt, dicono che è ormai giunto il [[Time|tempo]] di non mangiare più carne; per implicazione essi presuppongono che in un [[Time|tempo]] fosse giusto mangiare carne, e suggeriscono (con parole che si potrebbero citare) che un giorno potrà essere sbagliato mangiare latte e uova. Non discuto qui la questione di che cosa sia giusto verso gli [[Animals|animali]]. Dico soltanto che qualunque cosa sia giusta dovrebbe, in date condizioni, essere giustizia pronta. Se un animale subisce un torto, dovremmo poter accorrere in suo soccorso. Ma come possiamo accorrere se siamo, forse, in anticipo sul nostro [[Time|tempo]]? Come possiamo correre a prendere un treno che potrebbe non arrivare prima di qualche secolo? Come posso denunciare un uomo perché scuoia i gatti, se egli è solo ora ciò che io potrei forse diventare bevendo un bicchiere di latte? Una splendida e folle setta russa andava in giro togliendo tutto il bestiame da tutti i carri. Come posso trovare il [[Courage|coraggio]] di togliere il [[Horse|cavallo]] dalla mia carrozza da nolo, quando non so se il mio orologio evoluzionista vada solo un po' avanti o quello del [[cabman|vetturino]] un po' indietro? Supponiamo che io dica a uno sfruttatore: «La [[Slavery|schiavitù]] si addiceva a uno stadio dell'evoluzione». E supponiamo che egli risponda: «E lo sfruttamento si addice a questo stadio dell'evoluzione». Come posso ribattere se non esiste alcun criterio eterno? Se gli sfruttatori possono essere indietro rispetto alla [[morality|moralità]] corrente, perché i filantropi non dovrebbero esserle davanti? Che cosa mai è la [[morality|moralità]] corrente, se non nel suo senso letterale — la [[morality|moralità]] che è sempre in fuga?
 
-     Possiamo dunque dire che un ideale permanente è tanto necessario all'innovatore quanto al conservatore; è necessario sia che desideriamo che gli ordini del [[King|re]] vengano prontamente eseguiti, sia che desideriamo soltanto che il [[King|re]] venga prontamente giustiziato. La ghigliottina ha molti peccati, ma per renderle giustizia non c'è nulla di evoluzionista in essa. Il prediletto argomento evoluzionista trova la sua migliore risposta nella scure. L'Evoluzionista dice: «Dove tracciate la linea?»; il Rivoluzionario risponde: «La traccio QUI: esattamente fra la vostra testa e il vostro [[Body|corpo]]». In ogni dato momento deve esistere un giusto e uno sbagliato astratti, se si vuole vibrare un qualsiasi colpo; deve esistere qualcosa di eterno, se si vuole che accada qualcosa di improvviso. Perciò, per tutti gli scopi umani intelligibili, sia per mutare le cose sia per mantenerle come sono, sia per fondare un sistema in eterno, come in Cina, sia per mutarlo ogni mese, come nella prima [[French Revolution|Rivoluzione francese]], è ugualmente necessario che la visione sia una visione fissa. Questo è il nostro primo requisito.
+Possiamo dunque dire che un ideale permanente è tanto necessario all'innovatore quanto al conservatore; è necessario sia che desideriamo che gli ordini del [[King|re]] vengano prontamente eseguiti, sia che desideriamo soltanto che il [[King|re]] venga prontamente giustiziato. La ghigliottina ha molti peccati, ma per renderle giustizia non c'è nulla di evoluzionista in essa. Il prediletto argomento evoluzionista trova la sua migliore risposta nella scure. L'Evoluzionista dice: «Dove tracciate la linea?»; il Rivoluzionario risponde: «La traccio QUI: esattamente fra la vostra testa e il vostro [[Body|corpo]]». In ogni dato momento deve esistere un giusto e uno sbagliato astratti, se si vuole vibrare un qualsiasi colpo; deve esistere qualcosa di eterno, se si vuole che accada qualcosa di improvviso. Perciò, per tutti gli scopi umani intelligibili, sia per mutare le cose sia per mantenerle come sono, sia per fondare un sistema in eterno, come in Cina, sia per mutarlo ogni mese, come nella prima [[French Revolution|Rivoluzione francese]], è ugualmente necessario che la visione sia una visione fissa. Questo è il nostro primo requisito.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_04" data-title="Orthodoxy — Vii The Eternal Revolution (part 4)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_04" data-title="Orthodoxy — VII The Eternal Revolution (part 4)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 4)
 
-     When I had written this down, I felt once again the presence of
+When I had written this down, I felt once again the presence of
 something else in the discussion:  as a man hears a church bell above
 the sound of the street.  Something seemed to be saying,
 "My ideal at least is fixed; for it was fixed before the foundations
@@ -11627,7 +11590,7 @@ if they are sinful.  I lift my prehistoric legend to defy all your [[history]].
 Your vision is not merely a fixture:  it is a fact."  I paused to note
 the new coincidence of [[Christianity]]:  but I passed on.
 
-     I passed on to the next necessity of any ideal of progress. 
+I passed on to the next necessity of any ideal of progress. 
 Some people (as we have said) seem to believe in an automatic and
 impersonal progress in the [[Nature|nature]] of things.  But it is clear that no
 political activity can be encouraged by saying that progress is
@@ -11637,7 +11600,7 @@ we need not trouble to improve. The pure doctrine of progress is the
 best of all reasons for not being a progressive.  But it is to none
 of these obvious comments that I wish primarily to call attention.
 
-     The only arresting point is this:  that if we suppose improvement
+The only arresting point is this:  that if we suppose improvement
 to be natural, it must be fairly simple.  The world might conceivably
 be working towards one consummation, but hardly towards any particular
 arrangement of many qualities. To take our original simile: 
@@ -11652,7 +11615,7 @@ The world, through mere [[Time|time]], might grow black like an old picture,
 or white like an old coat; but if it is turned into a particular piece
 of black and white art--then there is an [[artist]].
 
-     If the distinction be not evident, I give an ordinary instance. 
+If the distinction be not evident, I give an ordinary instance. 
 We constantly hear a particularly cosmic creed from the modern humanitarians;
 
 I use the word humanitarian in the ordinary sense, as meaning one
@@ -11678,7 +11641,7 @@ things might--one feels, be a mere brute unconscious tendency,
 like that of a species to produce fewer and fewer children. 
 This drift may be really evolutionary, because it is stupid.
 
-     Darwinism can be used to back up two mad moralities, but it cannot
+Darwinism can be used to back up two mad moralities, but it cannot
 be used to back up a single sane one.  The kinship and competition
 of all living creatures can be used as a reason for being insanely cruel
 or insanely sentimental; but not for a healthy [[Love|love]] of [[Animals|animals]]. 
@@ -11690,7 +11653,7 @@ the tiger to imitate you, it is a shorter way to imitate the tiger.
 But in neither case does evolution tell you how to treat a tiger
 reasonably, that is, to admire his stripes while avoiding his claws.
 
-     If you want to treat a tiger reasonably, you must go back to
+If you want to treat a tiger reasonably, you must go back to
 the [[Garden|garden]] of Eden.  For the obstinate reminder continued to recur: 
 only the [[Supernatural|supernatural]] has taken a sane view of [[Nature]]. 
 The essence of all pantheism, evolutionism, and modern cosmic religion
@@ -11713,25 +11676,24 @@ a little, dancing sister, to be laughed at as [[Well|well]] as loved.
 
 Quando ebbi scritto tutto questo, avvertii ancora una volta la presenza di qualcos'altro nel dibattito: come chi ode il rintocco di una campana al di sopra del frastuono della strada. Qualcosa pareva dire: «Il mio ideale, almeno, è fisso; poiché fu fissato prima che il mondo avesse fondamenta. La mia visione della perfezione non può di certo essere mutata; poiché si chiama Eden. Tu puoi mutare il luogo verso cui vai; ma non puoi mutare il luogo da cui sei venuto. Per l'ortodosso vi è sempre motivo di rivoluzione; poiché nel cuore degli uomini Dio è stato posto sotto i piedi di [[Satan|Satana]]. Nel mondo di lassù l'inferno un tempo si ribellò al cielo. Ma in questo mondo è il cielo a ribellarsi contro l'inferno. Per l'ortodosso vi può essere sempre una rivoluzione; poiché una rivoluzione è una restaurazione. In ogni istante tu puoi vibrare un colpo in nome di quella perfezione che nessun uomo ha più veduto dai tempi di Adamo. Nessuna consuetudine immutabile, nessuna evoluzione mutevole potrà mai rendere il bene originario altro che bene. L'uomo può aver avuto concubine da tanto tempo quanto le vacche hanno avuto le corna: eppure esse non sono parte di lui, se sono peccaminose. Gli uomini possono essere stati sotto oppressione da quando i pesci sono sotto l'[[Water|acqua]]; eppure non dovrebbero esserlo, se l'oppressione è peccaminosa. La catena può parere naturale allo schiavo, o il belletto alla meretrice, quanto il piumaggio all'uccello o la tana alla volpe; eppure non lo sono, se sono peccaminosi. Innalzo la mia leggenda preistorica a sfidare tutta la vostra [[history|storia]]. La vostra visione non è soltanto qualcosa di stabilito: è un fatto». Mi soffermai a osservare la nuova coincidenza del [[Christianity|Cristianesimo]]: ma proseguii.
 
-     Proseguii verso la necessità successiva di ogni ideale di progresso. Alcuni (come s'è detto) paiono credere in un progresso automatico e impersonale, insito nella [[Nature|natura]] delle cose. Ma è chiaro che nessuna attività politica può essere incoraggiata dal dire che il progresso è naturale e inevitabile; ciò non è una ragione per essere attivi, bensì piuttosto una ragione per essere pigri. Se siamo destinati a migliorare, non abbiamo bisogno di darci pena di migliorare. La pura dottrina del progresso è la migliore fra tutte le ragioni per non essere un progressista. Ma non è a nessuno di questi ovvii rilievi che desidero anzitutto richiamare l'attenzione.
+Proseguii verso la necessità successiva di ogni ideale di progresso. Alcuni (come s'è detto) paiono credere in un progresso automatico e impersonale, insito nella [[Nature|natura]] delle cose. Ma è chiaro che nessuna attività politica può essere incoraggiata dal dire che il progresso è naturale e inevitabile; ciò non è una ragione per essere attivi, bensì piuttosto una ragione per essere pigri. Se siamo destinati a migliorare, non abbiamo bisogno di darci pena di migliorare. La pura dottrina del progresso è la migliore fra tutte le ragioni per non essere un progressista. Ma non è a nessuno di questi ovvii rilievi che desidero anzitutto richiamare l'attenzione.
 
-     L'unico punto che colpisce è questo: che se supponiamo il miglioramento naturale, esso dev'essere abbastanza semplice. Il mondo potrebbe forse concepibilmente muovere verso un unico compimento, ma difficilmente verso una particolare disposizione di molte qualità. Per riprendere la nostra similitudine iniziale: la [[Nature|Natura]] da sé sola può farsi via via più azzurra; e questo è un processo tanto semplice da poter essere impersonale. Ma la [[Nature|Natura]] non può dipingere un quadro accurato, fatto di molti colori scelti, a meno che la [[Nature|Natura]] non sia personale. Se la fine del mondo dovesse essere mera tenebra o mera luce, potrebbe giungere lentamente e inevitabilmente come il crepuscolo o l'[[Dawn|alba]]. Ma se la fine del mondo dev'essere un elaborato e artistico chiaroscuro, allora vi dev'essere in essa un disegno, umano o divino. Il mondo, per il mero scorrere del [[Time|tempo]], potrebbe annerirsi come un vecchio quadro, o imbiancarsi come un vecchio soprabito; ma se viene mutato in una particolare opera d'arte in bianco e nero — allora c'è un [[artist|artista]].
+L'unico punto che colpisce è questo: che se supponiamo il miglioramento naturale, esso dev'essere abbastanza semplice. Il mondo potrebbe forse concepibilmente muovere verso un unico compimento, ma difficilmente verso una particolare disposizione di molte qualità. Per riprendere la nostra similitudine iniziale: la [[Nature|Natura]] da sé sola può farsi via via più azzurra; e questo è un processo tanto semplice da poter essere impersonale. Ma la [[Nature|Natura]] non può dipingere un quadro accurato, fatto di molti colori scelti, a meno che la [[Nature|Natura]] non sia personale. Se la fine del mondo dovesse essere mera tenebra o mera luce, potrebbe giungere lentamente e inevitabilmente come il crepuscolo o l'[[Dawn|alba]]. Ma se la fine del mondo dev'essere un elaborato e artistico chiaroscuro, allora vi dev'essere in essa un disegno, umano o divino. Il mondo, per il mero scorrere del [[Time|tempo]], potrebbe annerirsi come un vecchio quadro, o imbiancarsi come un vecchio soprabito; ma se viene mutato in una particolare opera d'arte in bianco e nero — allora c'è un [[artist|artista]].
 
-     Se la distinzione non risulta evidente, ne offro un esempio ordinario. Sentiamo di continuo un credo particolarmente cosmico da parte dei moderni umanitari;
+Se la distinzione non risulta evidente, ne offro un esempio ordinario. Sentiamo di continuo un credo particolarmente cosmico da parte dei moderni umanitari;
 
 io uso la parola umanitario nel suo senso comune, per indicare colui che sostiene i diritti di tutte le creature contro quelli dell'umanità. Costoro suggeriscono che nel corso delle età siamo divenuti sempre più umani, vale a dire che, l'uno dopo l'altro, gruppi o categorie di esseri — schiavi, bambini, donne, vacche o che so io — sono stati gradualmente ammessi alla [[Mercy|misericordia]] o alla giustizia. Dicono che un tempo ritenevamo giusto mangiare gli uomini (non lo ritenevamo); ma qui non mi occupo della loro [[history|storia]], che è quanto mai antistorica. Di fatto, l'antropofagia è certamente cosa decadente, non primitiva. È assai più probabile che l'uomo moderno mangi carne umana per affettazione di quanto l'uomo primitivo l'abbia mai mangiata per ignoranza. Qui mi limito a seguire le linee del loro argomento, che consiste nel sostenere che l'uomo è stato progressivamente più mite, prima verso i cittadini, poi verso gli schiavi, poi verso gli [[Animals|animali]] e infine (presumibilmente) verso le piante. Ritengo sbagliato sedermi sopra un uomo. Presto riterrò sbagliato sedermi sopra un [[Horse|cavallo]]. Alla fine (suppongo) riterrò sbagliato sedermi sopra una sedia. Ecco dove spinge l'argomento. E in favore di questo argomento si può dire che è possibile parlarne in termini di evoluzione o di progresso inevitabile. Una perpetua tendenza a toccare sempre meno cose potrebbe — si sente — essere una mera cieca tendenza inconscia, come quella di una specie a generare sempre meno figli. Questa deriva potrebbe essere davvero evolutiva, appunto perché è stupida.
 
-     Il darwinismo può essere usato a sostegno di due morali folli, ma non può essere usato a sostegno di una sola morale sana. La parentela e la competizione di tutte le creature viventi possono essere usate come ragione per essere follemente crudeli o follemente sentimentali; ma non per un sano [[Love|amore]] degli [[Animals|animali]]. Su basi evoluzioniste puoi essere disumano, o puoi essere assurdamente umanitario; ma non puoi essere umano. Che tu e una tigre siate una cosa sola può essere una ragione per essere teneri con la tigre. Oppure può essere una ragione per essere crudeli quanto la tigre. È una via per addestrare la tigre a imitare te, ed è una via più breve imitare la tigre. Ma in nessuno dei due casi l'evoluzione ti dice come trattare una tigre ragionevolmente, vale a dire ammirarne le strisce evitandone gli artigli.
+Il darwinismo può essere usato a sostegno di due morali folli, ma non può essere usato a sostegno di una sola morale sana. La parentela e la competizione di tutte le creature viventi possono essere usate come ragione per essere follemente crudeli o follemente sentimentali; ma non per un sano [[Love|amore]] degli [[Animals|animali]]. Su basi evoluzioniste puoi essere disumano, o puoi essere assurdamente umanitario; ma non puoi essere umano. Che tu e una tigre siate una cosa sola può essere una ragione per essere teneri con la tigre. Oppure può essere una ragione per essere crudeli quanto la tigre. È una via per addestrare la tigre a imitare te, ed è una via più breve imitare la tigre. Ma in nessuno dei due casi l'evoluzione ti dice come trattare una tigre ragionevolmente, vale a dire ammirarne le strisce evitandone gli artigli.
 
-     Se vuoi trattare una tigre ragionevolmente, devi tornare al [[Garden|giardino]] dell'Eden. Poiché l'ostinato monito continuava a ripresentarsi: solo il [[Supernatural|soprannaturale]] ha assunto una visione sana della [[Nature|Natura]]. L'essenza di ogni panteismo, evoluzionismo e moderna religione cosmica sta davvero in questa proposizione: che la [[Nature|Natura]] è nostra madre. Sfortunatamente, se consideri la [[Nature|Natura]] come una madre, scopri che è una matrigna. Il punto cardine del [[Christianity|Cristianesimo]] era questo: che la [[Nature|Natura]] non è nostra madre: la [[Nature|Natura]] è nostra sorella. Possiamo essere fieri della sua [[Beauty|bellezza]], poiché abbiamo lo stesso padre; ma essa non ha autorità su di noi; dobbiamo ammirarla, non imitarla. Ciò conferisce al piacere tipicamente cristiano di questa terra una strana nota di leggerezza che è quasi frivolezza. La [[Nature|Natura]] era una madre solenne per gli adoratori di Iside e di Cibele. La [[Nature|Natura]] era una madre solenne per Wordsworth o per Emerson. Ma la [[Nature|Natura]] non è solenne per Francesco d'Assisi o per George Herbert. Per san Francesco la [[Nature|Natura]] è una sorella, e persino una sorella minore: una piccola sorella danzante, di cui ridere [[Well|tanto]] quanto amarla.
+Se vuoi trattare una tigre ragionevolmente, devi tornare al [[Garden|giardino]] dell'Eden. Poiché l'ostinato monito continuava a ripresentarsi: solo il [[Supernatural|soprannaturale]] ha assunto una visione sana della [[Nature|Natura]]. L'essenza di ogni panteismo, evoluzionismo e moderna religione cosmica sta davvero in questa proposizione: che la [[Nature|Natura]] è nostra madre. Sfortunatamente, se consideri la [[Nature|Natura]] come una madre, scopri che è una matrigna. Il punto cardine del [[Christianity|Cristianesimo]] era questo: che la [[Nature|Natura]] non è nostra madre: la [[Nature|Natura]] è nostra sorella. Possiamo essere fieri della sua [[Beauty|bellezza]], poiché abbiamo lo stesso padre; ma essa non ha autorità su di noi; dobbiamo ammirarla, non imitarla. Ciò conferisce al piacere tipicamente cristiano di questa terra una strana nota di leggerezza che è quasi frivolezza. La [[Nature|Natura]] era una madre solenne per gli adoratori di Iside e di Cibele. La [[Nature|Natura]] era una madre solenne per Wordsworth o per Emerson. Ma la [[Nature|Natura]] non è solenne per Francesco d'Assisi o per George Herbert. Per san Francesco la [[Nature|Natura]] è una sorella, e persino una sorella minore: una piccola sorella danzante, di cui ridere [[Well|tanto]] quanto amarla.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_05" data-title="Orthodoxy — Vii The Eternal Revolution (part 5)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_05" data-title="Orthodoxy — VII The Eternal Revolution (part 5)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 5)
 
-     This, however, is hardly our main point at present;
+This, however, is hardly our main point at present;
 I have admitted it only in order to show how constantly,
 and as it were accidentally, the key would fit the smallest doors. 
 Our main point is here, that if there be a mere trend
@@ -11784,7 +11746,7 @@ It will be an exact and perilous balance; like that of a desperate [[Romance|rom
 Man must have just enough [[Faith|faith]] in himself to have adventures,
 and just enough [[Doubt|doubt]] of himself to enjoy them.
 
-     This, then, is our second requirement for the ideal of progress. 
+This, then, is our second requirement for the ideal of progress. 
 First, it must be fixed; second, it must be composite.  It must not
 (if it is to satisfy our souls) be the mere victory of some one thing
 swallowing up everything else, [[Love|love]] or [[Pride|pride]] or peace or adventure;
@@ -11810,7 +11772,7 @@ and architectural proportions, a [[City|city]] in which each of you can contribu
 exactly the right amount of your own colour to the many coloured
 coat of Joseph."
 
-     Twice again, therefore, [[Christianity]] had come in with the exact answer
+Twice again, therefore, [[Christianity]] had come in with the exact answer
 that I required.  I had said, "The ideal must be fixed," and the Church
 had answered, "Mine is literally fixed, for it existed before anything else."
 I said secondly, "It must be artistically combined, like a picture";
@@ -11821,7 +11783,7 @@ And of all the three it is infinitely the hardest to express.
 Perhaps it might be put thus:  that we need watchfulness even in Utopia,
 lest we fall from Utopia as we fell from Eden.
 
-     We have remarked that one reason offered for being a progressive
+We have remarked that one reason offered for being a progressive
 is that things naturally tend to grow better.  But the only real reason
 for being a progressive is that things naturally tend to grow worse. 
 The corruption in things is not only the best argument for being progressive;
@@ -11924,7 +11886,7 @@ Sarà un equilibrio esatto e pericoloso; come quello di un disperato [[Romance|r
 L'uomo deve avere in sé giusto tanta [[Faith|fede]] da vivere avventure,
 e giusto tanto [[Doubt|dubbio]] di sé da goderne.
 
-     Questo, dunque, è il nostro secondo requisito per l'ideale di progresso.
+Questo, dunque, è il nostro secondo requisito per l'ideale di progresso.
 Primo, esso dev'essere fisso; secondo, dev'essere composito. Non dev'essere
 (se ha da appagare le nostre anime) la mera vittoria di una sola cosa
 che inghiotte tutto il resto, [[Love|amore]] o [[Pride|orgoglio]] o pace o avventura;
@@ -11950,7 +11912,7 @@ e dalle proporzioni architettoniche, una [[City|città]] in cui ciascuno di voi 
 esattamente con la giusta misura del proprio colore alla veste dai molti colori
 di Giuseppe».
 
-     Due volte ancora, dunque, il [[Christianity|Cristianesimo]] era intervenuto con l'esatta risposta
+Due volte ancora, dunque, il [[Christianity|Cristianesimo]] era intervenuto con l'esatta risposta
 di cui avevo bisogno. Avevo detto: «L'ideale dev'essere fisso», e la Chiesa
 aveva risposto: «Il mio è letteralmente fisso, poiché esisteva prima di ogni altra cosa».
 Dissi in secondo luogo: «Dev'essere combinato artisticamente, come un quadro»;
@@ -11961,7 +11923,7 @@ E di tutte e tre è di gran lunga la più difficile da esprimere.
 Forse la si potrebbe formulare così: che ci occorre vigilanza persino nell'Utopia,
 per non cadere dall'Utopia come cademmo dall'Eden.
 
-     Abbiamo osservato che una ragione addotta per essere progressisti
+Abbiamo osservato che una ragione addotta per essere progressisti
 è che le cose tendono naturalmente a migliorare. Ma l'unica vera ragione
 per essere progressisti è che le cose tendono naturalmente a peggiorare.
 La corruzione nelle cose non è soltanto il miglior argomento per essere progressisti;
@@ -12010,11 +11972,10 @@ da parte della stampa.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_06" data-title="Orthodoxy — Vii The Eternal Revolution (part 6)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_06" data-title="Orthodoxy — VII The Eternal Revolution (part 6)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 6)
 
-     This startling swiftness with which popular systems turn oppressive
+This startling swiftness with which popular systems turn oppressive
 is the third fact for which we shall ask our perfect theory of progress
 to allow.  It must always be on the look out for every privilege
 being abused, for every working right becoming a wrong. 
@@ -12028,7 +11989,7 @@ I felt that I was really at last on the side of the revolutionary.
 And then I caught my breath again:  for I remembered that
 I was once again on the side of the orthodox.
 
-     [[Christianity]] spoke again and said:  "I have always maintained
+[[Christianity]] spoke again and said:  "I have always maintained
 that men were naturally backsliders; that human virtue tended
 of its own [[Nature|nature]] to rust or to rot; I have always said that
 human beings as such go wrong, especially happy human beings,
@@ -12039,7 +12000,7 @@ you would call it, as I do, the doctrine of [[Original Sin|original sin]].
 You may call it the cosmic advance as much as you like;
 I call it what it is--the Fall."
 
-     I have spoken of orthodoxy coming in like a [[Sword|sword]];
+I have spoken of orthodoxy coming in like a [[Sword|sword]];
 here I confess it came in like a battle-axe.  For really
 (when I came to think of it) [[Christianity]] is the only thing left
 that has any real right to question the power of the [[Well|well]]-nurtured
@@ -12083,7 +12044,7 @@ to govern them?  On the ordinary environment argument the matter
 is fairly manifest.  The comfortable class must be merely our
 vanguard in Utopia.
 
-     Is there any answer to the proposition that those who have had
+Is there any answer to the proposition that those who have had
 the best opportunities will probably be our best guides?
 Is there any answer to the argument that those who have breathed
 clean air had better decide for those who have breathed foul? 
@@ -12139,19 +12100,18 @@ at any moment; especially for my fall from my position at this moment.
 
 Questa sorprendente rapidità con cui i sistemi popolari si fanno oppressivi è il terzo fatto per il quale chiederemo alla nostra teoria perfetta del progresso di lasciare spazio. Essa dovrà sempre stare in guardia perché ogni privilegio non venga abusato, perché ogni diritto operante non si tramuti in un torto. In questa faccenda sto interamente dalla parte dei rivoluzionari. Hanno pienamente ragione a sospettare sempre delle istituzioni umane; hanno ragione a non riporre la loro fiducia nei principi né in alcun [[Child|figlio]] dell'uomo. Il capo scelto per essere l'amico del popolo diviene il nemico del popolo; il giornale nato per dire la [[Truth|verità]] ora esiste per impedire che la [[Truth|verità]] sia detta. Qui, dico, sentii di trovarmi finalmente davvero dalla parte del rivoluzionario. E allora trattenni di nuovo il fiato: perché mi ricordai che una volta di più mi trovavo dalla parte dell'ortodosso.
 
-     Il [[Christianity|Cristianesimo]] parlò ancora e disse: «Ho sempre sostenuto che gli uomini fossero per natura inclini a ricadere; che la virtù umana tendesse per sua stessa [[Nature|natura]] ad arrugginirsi o a marcire; ho sempre detto che gli esseri umani in quanto tali vanno per la cattiva strada, specialmente gli esseri umani felici, specialmente gli esseri umani superbi e prosperi. Questa rivoluzione eterna, questo sospetto mantenuto attraverso i secoli, tu (essendo un vago moderno) lo chiami la dottrina del progresso. Se tu fossi un filosofo, lo chiameresti, come faccio io, la dottrina del [[Original Sin|peccato originale]]. Puoi chiamarlo l'avanzata cosmica quanto ti pare; io lo chiamo per quel che è: la Caduta».
+Il [[Christianity|Cristianesimo]] parlò ancora e disse: «Ho sempre sostenuto che gli uomini fossero per natura inclini a ricadere; che la virtù umana tendesse per sua stessa [[Nature|natura]] ad arrugginirsi o a marcire; ho sempre detto che gli esseri umani in quanto tali vanno per la cattiva strada, specialmente gli esseri umani felici, specialmente gli esseri umani superbi e prosperi. Questa rivoluzione eterna, questo sospetto mantenuto attraverso i secoli, tu (essendo un vago moderno) lo chiami la dottrina del progresso. Se tu fossi un filosofo, lo chiameresti, come faccio io, la dottrina del [[Original Sin|peccato originale]]. Puoi chiamarlo l'avanzata cosmica quanto ti pare; io lo chiamo per quel che è: la Caduta».
 
-     Ho detto che l'ortodossia entrava in scena come una [[Sword|spada]]; qui confesso che entrò come una scure da battaglia. Perché in verità (quando venni a rifletterci) il [[Christianity|Cristianesimo]] è l'unica cosa rimasta che abbia un qualche reale diritto di mettere in dubbio il potere di chi è [[Well|ben]] nutrito o di [[Well|buona]] nascita. Ho ascoltato abbastanza spesso socialisti, o perfino democratici, sostenere che le condizioni fisiche dei poveri devono per forza degradarli mentalmente e moralmente. Ho ascoltato uomini di scienza (e vi sono ancora uomini di scienza non ostili alla [[democracy|democrazia]]) sostenere che, se dessimo ai poveri condizioni più salubri, il vizio e il male sparirebbero. Li ho ascoltati con un'attenzione orribile, con un fascino spaventoso. Perché era come guardare un uomo che sega con energia dall'albero il ramo su cui è seduto. Se questi felici democratici potessero provare la loro tesi, colpirebbero a morte la [[democracy|democrazia]]. Se i poveri sono a tal punto totalmente demoralizzati, può essere pratico oppure no risollevarli. Ma è certamente del tutto pratico privarli del voto. Se l'uomo con una brutta camera da letto non sa dare un buon voto, allora la prima e più rapida deduzione è che non debba dare voto alcuno. La classe dominante potrebbe non irragionevolmente dire: «Potrebbe volerci un po' di [[Time|tempo]] per [[Reform|riformare]] la sua camera da letto. Ma se è quel bruto che dite, gli occorrerà pochissimo [[Time|tempo]] per rovinare il nostro paese. Perciò coglieremo il vostro suggerimento e non gliene daremo l'occasione». Mi riempie di orribile divertimento osservare il modo in cui il socialista zelante getta industriosamente le fondamenta di ogni aristocrazia, dilungandosi blandamente sull'evidente inettitudine dei poveri a governare. È come sentire qualcuno, a un ricevimento serale, scusarsi di essere entrato senza abito da sera, e spiegare che si è di recente ubriacato, che ha l'abitudine personale di togliersi i vestiti per strada, e per giunta che si è appena cambiato dalla divisa da [[Prison|prigione]]. Da un momento all'altro, si sente, il padrone di casa potrebbe dire che davvero, se la faccenda è così grave, non c'è affatto bisogno che entri. Così accade quando l'ordinario socialista, col volto raggiante, dimostra che i poveri, dopo le loro esperienze disastrose, non possono essere davvero degni di fiducia. Da un momento all'altro i ricchi potrebbero dire: «[[Well|Benissimo]], allora, non ci fideremo di loro», e sbattergli la porta in faccia. Sulla base della veduta del signor Blatchford intorno all'ereditarietà e all'ambiente, le ragioni dell'aristocrazia sono del tutto schiaccianti. Se case pulite e aria pulita fanno anime pulite, perché non dare il potere (per il momento, quantomeno) a coloro che indubbiamente hanno l'aria pulita? Se condizioni migliori renderanno i poveri più adatti a governare se stessi, perché condizioni migliori non dovrebbero già rendere i ricchi più adatti a governarli? Secondo l'ordinario argomento dell'ambiente la faccenda è abbastanza manifesta. La classe agiata dev'essere semplicemente la nostra avanguardia in Utopia.
+Ho detto che l'ortodossia entrava in scena come una [[Sword|spada]]; qui confesso che entrò come una scure da battaglia. Perché in verità (quando venni a rifletterci) il [[Christianity|Cristianesimo]] è l'unica cosa rimasta che abbia un qualche reale diritto di mettere in dubbio il potere di chi è [[Well|ben]] nutrito o di [[Well|buona]] nascita. Ho ascoltato abbastanza spesso socialisti, o perfino democratici, sostenere che le condizioni fisiche dei poveri devono per forza degradarli mentalmente e moralmente. Ho ascoltato uomini di scienza (e vi sono ancora uomini di scienza non ostili alla [[democracy|democrazia]]) sostenere che, se dessimo ai poveri condizioni più salubri, il vizio e il male sparirebbero. Li ho ascoltati con un'attenzione orribile, con un fascino spaventoso. Perché era come guardare un uomo che sega con energia dall'albero il ramo su cui è seduto. Se questi felici democratici potessero provare la loro tesi, colpirebbero a morte la [[democracy|democrazia]]. Se i poveri sono a tal punto totalmente demoralizzati, può essere pratico oppure no risollevarli. Ma è certamente del tutto pratico privarli del voto. Se l'uomo con una brutta camera da letto non sa dare un buon voto, allora la prima e più rapida deduzione è che non debba dare voto alcuno. La classe dominante potrebbe non irragionevolmente dire: «Potrebbe volerci un po' di [[Time|tempo]] per [[Reform|riformare]] la sua camera da letto. Ma se è quel bruto che dite, gli occorrerà pochissimo [[Time|tempo]] per rovinare il nostro paese. Perciò coglieremo il vostro suggerimento e non gliene daremo l'occasione». Mi riempie di orribile divertimento osservare il modo in cui il socialista zelante getta industriosamente le fondamenta di ogni aristocrazia, dilungandosi blandamente sull'evidente inettitudine dei poveri a governare. È come sentire qualcuno, a un ricevimento serale, scusarsi di essere entrato senza abito da sera, e spiegare che si è di recente ubriacato, che ha l'abitudine personale di togliersi i vestiti per strada, e per giunta che si è appena cambiato dalla divisa da [[Prison|prigione]]. Da un momento all'altro, si sente, il padrone di casa potrebbe dire che davvero, se la faccenda è così grave, non c'è affatto bisogno che entri. Così accade quando l'ordinario socialista, col volto raggiante, dimostra che i poveri, dopo le loro esperienze disastrose, non possono essere davvero degni di fiducia. Da un momento all'altro i ricchi potrebbero dire: «[[Well|Benissimo]], allora, non ci fideremo di loro», e sbattergli la porta in faccia. Sulla base della veduta del signor Blatchford intorno all'ereditarietà e all'ambiente, le ragioni dell'aristocrazia sono del tutto schiaccianti. Se case pulite e aria pulita fanno anime pulite, perché non dare il potere (per il momento, quantomeno) a coloro che indubbiamente hanno l'aria pulita? Se condizioni migliori renderanno i poveri più adatti a governare se stessi, perché condizioni migliori non dovrebbero già rendere i ricchi più adatti a governarli? Secondo l'ordinario argomento dell'ambiente la faccenda è abbastanza manifesta. La classe agiata dev'essere semplicemente la nostra avanguardia in Utopia.
 
-     Vi è forse qualche risposta alla proposizione che coloro i quali hanno avuto le migliori opportunità saranno probabilmente le nostre guide migliori? Vi è forse qualche risposta all'argomento che coloro i quali hanno respirato aria pulita farebbero meglio a decidere per coloro che hanno respirato aria corrotta? Per quel che ne so, vi è una sola risposta, e quella risposta è il [[Christianity|Cristianesimo]]. Solo la Chiesa cristiana può opporre una qualsiasi obiezione razionale a una completa fiducia nei ricchi. Poiché essa ha sostenuto fin dal principio che il pericolo non stava nell'ambiente dell'uomo, bensì nell'uomo. Di più, ha sostenuto che, se veniamo a parlare di un ambiente pericoloso, il più pericoloso di tutti gli ambienti è l'ambiente comodo. So bene che la manifattura più moderna si è davvero occupata di tentare di produrre un ago di grandezza abnorme. So bene che i più recenti biologi sono stati soprattutto ansiosi di scoprire un cammello molto piccolo. Ma se rimpiccioliamo il cammello al minimo, o allarghiamo la cruna dell'ago al massimo, se, in breve, ammettiamo che le parole di [[Christ|Cristo]] abbiano significato il meno che potessero significare, le sue parole devono almeno significare questo: che i ricchi non sono granché propensi a essere moralmente degni di fiducia. Il [[Christianity|Cristianesimo]], anche annacquato, è abbastanza rovente da far bollire l'intera società moderna riducendola in brandelli. Il mero minimo della Chiesa sarebbe un ultimatum mortale al mondo. Poiché l'intero mondo moderno è assolutamente fondato sull'assunto non che i ricchi siano necessari (il che è sostenibile), bensì che i ricchi siano degni di fiducia, il che (per un cristiano) non è sostenibile. Sentirete in eterno, in tutte le discussioni sui giornali, sulle società, sulle aristocrazie o sulla politica di partito, questo argomento che il ricco non può essere corrotto. Il fatto è, naturalmente, che il ricco è corrotto; è già stato corrotto. È per questo che è un ricco. Tutta la tesi del [[Christianity|Cristianesimo]] è che un uomo dipendente dai lussi di questa vita è un uomo corrotto, spiritualmente corrotto, politicamente corrotto, finanziariamente corrotto. Vi è una cosa che [[Christ|Cristo]] e tutti i santi cristiani hanno detto con una sorta di feroce monotonia. Hanno detto semplicemente che essere ricchi significa trovarsi in un pericolo particolare di naufragio morale. Non è dimostrabilmente anticristiano uccidere i ricchi come violatori di una giustizia definibile. Non è dimostrabilmente anticristiano [[Crown|incoronare]] i ricchi come comodi reggitori della società. Non è certamente anticristiano [[Rebel|ribellarsi]] ai ricchi o sottomettersi ai ricchi. Ma è del tutto certamente anticristiano fidarsi dei ricchi, considerare i ricchi come moralmente più sicuri dei poveri. Un cristiano può dire con coerenza: «Rispetto il rango di quell'uomo, benché egli prenda tangenti». Ma un cristiano non può dire, come tutti gli uomini moderni vanno dicendo a pranzo e a colazione: «Un uomo di quel rango non prenderebbe tangenti». Poiché è parte del dogma cristiano che qualsiasi uomo in qualsiasi rango possa prendere tangenti. È parte del dogma cristiano; e accade altresì, per una curiosa coincidenza, che sia parte dell'ovvia [[history|storia]] umana. Quando la gente dice che un uomo «in quella posizione» sarebbe incorruttibile, non c'è bisogno di tirare in ballo il [[Christianity|Cristianesimo]] nella discussione. Lord Bacon era un lustrascarpe? Il duca di Marlborough era uno spazzino d'incrocio? Nella migliore delle Utopie, devo essere pronto alla caduta morale di qualsiasi uomo in qualsiasi posizione in qualsiasi momento; specialmente alla mia caduta dalla mia posizione in questo momento.
+Vi è forse qualche risposta alla proposizione che coloro i quali hanno avuto le migliori opportunità saranno probabilmente le nostre guide migliori? Vi è forse qualche risposta all'argomento che coloro i quali hanno respirato aria pulita farebbero meglio a decidere per coloro che hanno respirato aria corrotta? Per quel che ne so, vi è una sola risposta, e quella risposta è il [[Christianity|Cristianesimo]]. Solo la Chiesa cristiana può opporre una qualsiasi obiezione razionale a una completa fiducia nei ricchi. Poiché essa ha sostenuto fin dal principio che il pericolo non stava nell'ambiente dell'uomo, bensì nell'uomo. Di più, ha sostenuto che, se veniamo a parlare di un ambiente pericoloso, il più pericoloso di tutti gli ambienti è l'ambiente comodo. So bene che la manifattura più moderna si è davvero occupata di tentare di produrre un ago di grandezza abnorme. So bene che i più recenti biologi sono stati soprattutto ansiosi di scoprire un cammello molto piccolo. Ma se rimpiccioliamo il cammello al minimo, o allarghiamo la cruna dell'ago al massimo, se, in breve, ammettiamo che le parole di [[Christ|Cristo]] abbiano significato il meno che potessero significare, le sue parole devono almeno significare questo: che i ricchi non sono granché propensi a essere moralmente degni di fiducia. Il [[Christianity|Cristianesimo]], anche annacquato, è abbastanza rovente da far bollire l'intera società moderna riducendola in brandelli. Il mero minimo della Chiesa sarebbe un ultimatum mortale al mondo. Poiché l'intero mondo moderno è assolutamente fondato sull'assunto non che i ricchi siano necessari (il che è sostenibile), bensì che i ricchi siano degni di fiducia, il che (per un cristiano) non è sostenibile. Sentirete in eterno, in tutte le discussioni sui giornali, sulle società, sulle aristocrazie o sulla politica di partito, questo argomento che il ricco non può essere corrotto. Il fatto è, naturalmente, che il ricco è corrotto; è già stato corrotto. È per questo che è un ricco. Tutta la tesi del [[Christianity|Cristianesimo]] è che un uomo dipendente dai lussi di questa vita è un uomo corrotto, spiritualmente corrotto, politicamente corrotto, finanziariamente corrotto. Vi è una cosa che [[Christ|Cristo]] e tutti i santi cristiani hanno detto con una sorta di feroce monotonia. Hanno detto semplicemente che essere ricchi significa trovarsi in un pericolo particolare di naufragio morale. Non è dimostrabilmente anticristiano uccidere i ricchi come violatori di una giustizia definibile. Non è dimostrabilmente anticristiano [[Crown|incoronare]] i ricchi come comodi reggitori della società. Non è certamente anticristiano [[Rebel|ribellarsi]] ai ricchi o sottomettersi ai ricchi. Ma è del tutto certamente anticristiano fidarsi dei ricchi, considerare i ricchi come moralmente più sicuri dei poveri. Un cristiano può dire con coerenza: «Rispetto il rango di quell'uomo, benché egli prenda tangenti». Ma un cristiano non può dire, come tutti gli uomini moderni vanno dicendo a pranzo e a colazione: «Un uomo di quel rango non prenderebbe tangenti». Poiché è parte del dogma cristiano che qualsiasi uomo in qualsiasi rango possa prendere tangenti. È parte del dogma cristiano; e accade altresì, per una curiosa coincidenza, che sia parte dell'ovvia [[history|storia]] umana. Quando la gente dice che un uomo «in quella posizione» sarebbe incorruttibile, non c'è bisogno di tirare in ballo il [[Christianity|Cristianesimo]] nella discussione. Lord Bacon era un lustrascarpe? Il duca di Marlborough era uno spazzino d'incrocio? Nella migliore delle Utopie, devo essere pronto alla caduta morale di qualsiasi uomo in qualsiasi posizione in qualsiasi momento; specialmente alla mia caduta dalla mia posizione in questo momento.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_07" data-title="Orthodoxy — Vii The Eternal Revolution (part 7)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_07" data-title="Orthodoxy — VII The Eternal Revolution (part 7)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 7)
 
-     Much vague and sentimental journalism has been poured out
+Much vague and sentimental journalism has been poured out
 to the effect that [[Christianity]] is akin to [[democracy]], and most of it
 is scarcely strong or clear enough to refute the fact that the two things
 have often quarrelled.  The real ground upon which [[Christianity]] and
@@ -12169,7 +12129,7 @@ Carlyle was quite wrong; we have not got to [[Crown|crown]] the exceptional man
 who knows he can rule.  Rather we must [[Crown|crown]] the much more exceptional man
 who knows he can't.
 
-     Now, this is one of the two or three vital defences of working [[democracy]]. 
+Now, this is one of the two or three vital defences of working [[democracy]]. 
 The mere machinery of voting is not [[democracy]], though at present
 it is not easy to effect any simpler democratic method.  But even the
 machinery of voting is profoundly Christian in this practical sense--
@@ -12189,12 +12149,12 @@ Or if there is some slight defect in canvassing, that is in its
 perfect and rounded piety, it is only because it may possibly neglect
 to encourage the modesty of the canvasser.
 
-     Aristocracy is not an institution:  aristocracy is a sin;
+Aristocracy is not an institution:  aristocracy is a sin;
 generally a very venial one.  It is merely the drift or slide of men
 into a sort of natural pomposity and praise of the powerful,
 which is the most easy and obvious affair in the world.
 
-     It is one of the hundred answers to the fugitive perversion of
+It is one of the hundred answers to the fugitive perversion of
 modern "force" that the promptest and boldest agencies are also
 the most fragile or full of sensibility.  The swiftest things
 are the softest things.  A bird is active, because a bird is soft. 
@@ -12232,7 +12192,7 @@ a good joke in PUNCH.  For solemnity flows out of men naturally;
 but laughter is a leap.  It is easy to be heavy: hard to be light. 
 [[Satan]] fell by the force of gravity.
 
-     Now, it is the peculiar [[Honour|honour]] of Europe since it has been
+Now, it is the peculiar [[Honour|honour]] of Europe since it has been
 Christian that while it has had aristocracy it has always
 at the back of its heart treated aristocracy as a weakness--
 generally as a weakness that must be allowed for.  If any one wishes
@@ -12269,21 +12229,20 @@ possibly take it seriously.
 
 Molto giornalismo vago e sentimentale è stato riversato per sostenere che il [[Christianity|Cristianesimo]] è affine alla [[democracy|democrazia]], e per la maggior parte è appena abbastanza vigoroso o limpido da confutare il fatto che le due cose hanno spesso litigato. Il vero terreno su cui il [[Christianity|Cristianesimo]] e la [[democracy|democrazia]] sono una cosa sola è assai più profondo. L'unica idea specialmente e peculiarmente anticristiana è l'idea di Carlyle: l'idea che debba governare l'uomo che si sente in grado di governare. Qualunque altra cosa sia cristiana, questa è pagana. Se la nostra [[Faith|fede]] esprime un qualche commento sul [[government|governo]], quel commento non può che essere questo: che debba governare l'uomo che NON crede di essere in grado di governare. L'[[Hero|eroe]] di Carlyle può dire: «Sarò [[King|re]]»; ma il santo cristiano deve dire: «Nolo episcopari». Se il grande [[Paradox|paradosso]] del [[Christianity|Cristianesimo]] significa qualcosa, significa questo: che dobbiamo prendere la [[Crown|corona]] nelle nostre mani e andare a caccia per i luoghi aridi e gli angoli oscuri della terra finché non troviamo l'unico uomo che si sente indegno di portarla. Carlyle aveva del tutto torto; non dobbiamo affatto [[Crown|incoronare]] l'uomo eccezionale che sa di poter governare. Dobbiamo piuttosto [[Crown|incoronare]] l'uomo assai più eccezionale che sa di non poterlo fare.
 
-     Ora, questa è una delle due o tre difese vitali della [[democracy|democrazia]] operante. Il mero meccanismo del voto non è la [[democracy|democrazia]], per quanto oggigiorno non sia facile attuare un metodo democratico più semplice. Ma anche il meccanismo del voto è profondamente cristiano in questo senso pratico: che è un tentativo di cogliere l'opinione di coloro che sarebbero troppo modesti per offrirla. È un'avventura mistica; è dare fiducia in modo speciale a coloro che non si fidano di sé stessi. Quell'enigma è strettamente peculiare della Cristianità. Non c'è nulla di davvero umile nell'abnegazione del buddista; il mite indù è mite, ma non è remissivo. Ma c'è qualcosa di psicologicamente cristiano nell'idea di cercare l'opinione dell'oscuro piuttosto che seguire l'ovvia via di accogliere l'opinione dell'eminente. Dire che votare è particolarmente cristiano può sembrare alquanto curioso. Dire che fare propaganda elettorale è cristiano può sembrare del tutto folle. Eppure la propaganda elettorale è molto cristiana nella sua idea prima. Essa incoraggia l'umile; dice all'uomo modesto: «Amico, sali più in alto». O se c'è qualche lieve difetto nella propaganda elettorale, che ne intacca la perfetta e compiuta pietà, è soltanto perché essa può forse trascurare di incoraggiare la modestia di chi la fa.
+Ora, questa è una delle due o tre difese vitali della [[democracy|democrazia]] operante. Il mero meccanismo del voto non è la [[democracy|democrazia]], per quanto oggigiorno non sia facile attuare un metodo democratico più semplice. Ma anche il meccanismo del voto è profondamente cristiano in questo senso pratico: che è un tentativo di cogliere l'opinione di coloro che sarebbero troppo modesti per offrirla. È un'avventura mistica; è dare fiducia in modo speciale a coloro che non si fidano di sé stessi. Quell'enigma è strettamente peculiare della Cristianità. Non c'è nulla di davvero umile nell'abnegazione del buddista; il mite indù è mite, ma non è remissivo. Ma c'è qualcosa di psicologicamente cristiano nell'idea di cercare l'opinione dell'oscuro piuttosto che seguire l'ovvia via di accogliere l'opinione dell'eminente. Dire che votare è particolarmente cristiano può sembrare alquanto curioso. Dire che fare propaganda elettorale è cristiano può sembrare del tutto folle. Eppure la propaganda elettorale è molto cristiana nella sua idea prima. Essa incoraggia l'umile; dice all'uomo modesto: «Amico, sali più in alto». O se c'è qualche lieve difetto nella propaganda elettorale, che ne intacca la perfetta e compiuta pietà, è soltanto perché essa può forse trascurare di incoraggiare la modestia di chi la fa.
 
-     L'aristocrazia non è un'istituzione: l'aristocrazia è un peccato; in genere assai veniale. Non è che il lasciarsi andare o scivolare degli uomini in una sorta di naturale pomposità ed esaltazione del potente, che è la faccenda più facile e ovvia del mondo.
+L'aristocrazia non è un'istituzione: l'aristocrazia è un peccato; in genere assai veniale. Non è che il lasciarsi andare o scivolare degli uomini in una sorta di naturale pomposità ed esaltazione del potente, che è la faccenda più facile e ovvia del mondo.
 
-     È una delle cento risposte alla fuggevole perversione della «forza» moderna il fatto che gli agenti più pronti e arditi siano anche i più fragili o pieni di sensibilità. Le cose più veloci sono le più morbide. Un uccello è attivo, perché un uccello è morbido. Una pietra è impotente, perché una pietra è dura. La pietra deve, per sua [[Nature|natura]], andare verso il basso, perché la durezza è debolezza. L'uccello può, per sua [[Nature|natura]], andare verso l'alto, perché la fragilità è forza. Nella forza perfetta c'è una sorta di frivolezza, una leggerezza aerea che sa mantenersi in aria. Gli indagatori moderni della [[history|storia]] miracolosa hanno solennemente ammesso che una caratteristica dei grandi santi è il loro potere di «levitazione». Potrebbero spingersi oltre; una caratteristica dei grandi santi è il loro potere di levità. Gli angeli possono volare perché sanno prendersi alla leggera. Questo è sempre stato l'istinto della Cristianità, e specialmente l'istinto dell'arte cristiana. Si ricordi come Fra Angelico raffigurava tutti i suoi angeli, non soltanto come [[Birds|uccelli]], ma quasi come farfalle. Si ricordi come l'arte medievale più intensa fosse piena di drappeggi luminosi e svolazzanti, di piedi rapidi e saltellanti. Era l'unica cosa che i moderni preraffaelliti non riuscirono a imitare nei preraffaelliti autentici. Burne-[[Jones]] non poté mai recuperare la profonda levità del Medioevo. Nei vecchi dipinti cristiani il cielo sopra ogni figura è come un paracadute azzurro o dorato. Ogni figura sembra pronta a spiccare il volo e fluttuare nei cieli. Il mantello lacero del mendicante lo sosterrà in alto come le piume raggianti degli angeli. Ma i re nel loro pesante oro e i superbi nelle loro vesti di porpora sprofonderanno tutti, per loro [[Nature|natura]], verso il basso, poiché la [[Pride|superbia]] non può innalzarsi alla levità o alla levitazione. La [[Pride|superbia]] è il trascinamento verso il basso di tutte le cose in una comoda solennità. Ci si «adagia» in una sorta di egoistica serietà; ma bisogna innalzarsi a un allegro oblio di [[Self|sé]]. Un uomo «cade» in una cupa fantasticheria; si protende verso un cielo azzurro. La serietà non è una virtù. Sarebbe un'eresia, ma un'eresia assai più sensata, dire che la serietà è un vizio. È in realtà una naturale inclinazione o caduta nel prendere sé [[Self|stessi]] gravemente, perché è la cosa più facile da fare. È molto più facile scrivere un buon articolo di fondo sul TIMES che una buona battuta sul PUNCH. Poiché la solennità sgorga dagli uomini naturalmente; ma il riso è un salto. È facile essere pesanti: difficile essere leggeri. [[Satan|Satana]] cadde per la forza di gravità.
+È una delle cento risposte alla fuggevole perversione della «forza» moderna il fatto che gli agenti più pronti e arditi siano anche i più fragili o pieni di sensibilità. Le cose più veloci sono le più morbide. Un uccello è attivo, perché un uccello è morbido. Una pietra è impotente, perché una pietra è dura. La pietra deve, per sua [[Nature|natura]], andare verso il basso, perché la durezza è debolezza. L'uccello può, per sua [[Nature|natura]], andare verso l'alto, perché la fragilità è forza. Nella forza perfetta c'è una sorta di frivolezza, una leggerezza aerea che sa mantenersi in aria. Gli indagatori moderni della [[history|storia]] miracolosa hanno solennemente ammesso che una caratteristica dei grandi santi è il loro potere di «levitazione». Potrebbero spingersi oltre; una caratteristica dei grandi santi è il loro potere di levità. Gli angeli possono volare perché sanno prendersi alla leggera. Questo è sempre stato l'istinto della Cristianità, e specialmente l'istinto dell'arte cristiana. Si ricordi come Fra Angelico raffigurava tutti i suoi angeli, non soltanto come [[Birds|uccelli]], ma quasi come farfalle. Si ricordi come l'arte medievale più intensa fosse piena di drappeggi luminosi e svolazzanti, di piedi rapidi e saltellanti. Era l'unica cosa che i moderni preraffaelliti non riuscirono a imitare nei preraffaelliti autentici. Burne-[[Jones]] non poté mai recuperare la profonda levità del Medioevo. Nei vecchi dipinti cristiani il cielo sopra ogni figura è come un paracadute azzurro o dorato. Ogni figura sembra pronta a spiccare il volo e fluttuare nei cieli. Il mantello lacero del mendicante lo sosterrà in alto come le piume raggianti degli angeli. Ma i re nel loro pesante oro e i superbi nelle loro vesti di porpora sprofonderanno tutti, per loro [[Nature|natura]], verso il basso, poiché la [[Pride|superbia]] non può innalzarsi alla levità o alla levitazione. La [[Pride|superbia]] è il trascinamento verso il basso di tutte le cose in una comoda solennità. Ci si «adagia» in una sorta di egoistica serietà; ma bisogna innalzarsi a un allegro oblio di [[Self|sé]]. Un uomo «cade» in una cupa fantasticheria; si protende verso un cielo azzurro. La serietà non è una virtù. Sarebbe un'eresia, ma un'eresia assai più sensata, dire che la serietà è un vizio. È in realtà una naturale inclinazione o caduta nel prendere sé [[Self|stessi]] gravemente, perché è la cosa più facile da fare. È molto più facile scrivere un buon articolo di fondo sul TIMES che una buona battuta sul PUNCH. Poiché la solennità sgorga dagli uomini naturalmente; ma il riso è un salto. È facile essere pesanti: difficile essere leggeri. [[Satan|Satana]] cadde per la forza di gravità.
 
-     Ora, è il peculiare [[Honour|onore]] dell'Europa, da quando è divenuta cristiana, che pur avendo avuto l'aristocrazia abbia sempre, in fondo al cuore, trattato l'aristocrazia come una debolezza: in genere come una debolezza di cui bisogna tener conto. Se qualcuno desidera apprezzare questo punto, esca dal [[Christianity|Cristianesimo]] in qualche altra atmosfera filosofica. Metta a confronto, per esempio, le classi d'Europa con le caste dell'India. Là l'aristocrazia è assai più tremenda, perché è assai più intellettuale. Si sente seriamente che la scala delle classi è una scala di valori spirituali; che il fornaio è migliore del macellaio in un senso invisibile e sacro. Ma nessun [[Christianity|Cristianesimo]], neppure il più ignorante o perverso, ha mai suggerito che un baronetto fosse migliore di un macellaio in quel senso sacro. Nessun [[Christianity|Cristianesimo]], per quanto ignorante o stravagante, ha mai suggerito che un duca non sarebbe stato dannato. Nella società pagana può esserci stata (non lo so) una tale seria divisione tra l'uomo libero e lo schiavo. Ma nella società cristiana abbiamo sempre considerato il gentiluomo una sorta di scherzo, benché ammetta che in alcune grandi [[Crusades|crociate]] e concili si sia guadagnato il diritto di essere chiamato uno scherzo pratico. Ma noi in Europa non abbiamo mai preso davvero, e alla radice delle nostre anime, l'aristocrazia sul serio. È solo qualche occasionale straniero non europeo (come il dottor Oscar Levy, l'unico nietzscheano intelligente) che riesce anche solo per un momento a prendere l'aristocrazia sul serio. Sarà forse un mero pregiudizio patriottico, benché io non lo creda, ma mi pare che l'aristocrazia inglese non sia soltanto il tipo, ma sia la [[Crown|corona]] e il fiore di tutte le aristocrazie reali; possiede tutte le virtù oligarchiche non [[Well|meno]] che tutti i difetti. È disinvolta, è gentile, è coraggiosa nelle questioni ovvie; ma ha un grande pregio che supera perfino questi. Il grande e assai ovvio pregio dell'aristocrazia inglese è che nessuno potrebbe mai prenderla sul serio.
+Ora, è il peculiare [[Honour|onore]] dell'Europa, da quando è divenuta cristiana, che pur avendo avuto l'aristocrazia abbia sempre, in fondo al cuore, trattato l'aristocrazia come una debolezza: in genere come una debolezza di cui bisogna tener conto. Se qualcuno desidera apprezzare questo punto, esca dal [[Christianity|Cristianesimo]] in qualche altra atmosfera filosofica. Metta a confronto, per esempio, le classi d'Europa con le caste dell'India. Là l'aristocrazia è assai più tremenda, perché è assai più intellettuale. Si sente seriamente che la scala delle classi è una scala di valori spirituali; che il fornaio è migliore del macellaio in un senso invisibile e sacro. Ma nessun [[Christianity|Cristianesimo]], neppure il più ignorante o perverso, ha mai suggerito che un baronetto fosse migliore di un macellaio in quel senso sacro. Nessun [[Christianity|Cristianesimo]], per quanto ignorante o stravagante, ha mai suggerito che un duca non sarebbe stato dannato. Nella società pagana può esserci stata (non lo so) una tale seria divisione tra l'uomo libero e lo schiavo. Ma nella società cristiana abbiamo sempre considerato il gentiluomo una sorta di scherzo, benché ammetta che in alcune grandi [[Crusades|crociate]] e concili si sia guadagnato il diritto di essere chiamato uno scherzo pratico. Ma noi in Europa non abbiamo mai preso davvero, e alla radice delle nostre anime, l'aristocrazia sul serio. È solo qualche occasionale straniero non europeo (come il dottor Oscar Levy, l'unico nietzscheano intelligente) che riesce anche solo per un momento a prendere l'aristocrazia sul serio. Sarà forse un mero pregiudizio patriottico, benché io non lo creda, ma mi pare che l'aristocrazia inglese non sia soltanto il tipo, ma sia la [[Crown|corona]] e il fiore di tutte le aristocrazie reali; possiede tutte le virtù oligarchiche non [[Well|meno]] che tutti i difetti. È disinvolta, è gentile, è coraggiosa nelle questioni ovvie; ma ha un grande pregio che supera perfino questi. Il grande e assai ovvio pregio dell'aristocrazia inglese è che nessuno potrebbe mai prenderla sul serio.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_08" data-title="Orthodoxy — Vii The Eternal Revolution (part 8)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_08" data-title="Orthodoxy — VII The Eternal Revolution (part 8)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 8)
 
-     In short, I had spelled out slowly, as usual, the need for an
+In short, I had spelled out slowly, as usual, the need for an
 equal law in Utopia; and, as usual, I found that [[Christianity]]
 had been there before me.  The whole [[history]] of my Utopia
 has the same amusing sadness.  I was always rushing out of
@@ -12300,7 +12259,7 @@ in the New Jerusalem, I will take this one case of the matter of [[Marriage|marr
 as indicating the converging drift, I may say the converging crash
 of all the rest.
 
-     When the ordinary opponents of Socialism talk about impossibilities
+When the ordinary opponents of Socialism talk about impossibilities
 and alterations in human [[Nature|nature]] they always miss an important distinction. 
 In modern ideal conceptions of society there are some desires that are
 possibly not attainable:  but there are some desires that are not desirable. 
@@ -12340,7 +12299,7 @@ of any social paradise; I should ask to be kept to my bargain,
 to have my oaths and engagements taken seriously; I should ask Utopia
 to avenge my [[Honour|honour]] on myself.
 
-     All my modern Utopian friends look at each other rather doubtfully,
+All my modern Utopian friends look at each other rather doubtfully,
 for their ultimate [[Hope|hope]] is the dissolution of all special ties. 
 But again I seem to hear, like a kind of echo, an answer
 from beyond the world.  "You will have real obligations,
@@ -12349,7 +12308,7 @@ But the hardest obligation and the steepest adventure is to get there."
 
 VIII THE [[Romance|ROMANCE]] OF ORTHODOXY
 
-     It is customary to complain of the bustle and strenuousness
+It is customary to complain of the bustle and strenuousness
 of our epoch.  But in [[Truth|truth]] the chief mark of our epoch is
 a profound laziness and fatigue; and the fact is that the real laziness
 is the cause of the apparent bustle.  Take one quite external case;
@@ -12398,7 +12357,7 @@ nella Nuova Gerusalemme, prenderò questo unico caso della questione del [[Marri
 come indice della deriva convergente, direi anzi del crollo convergente
 di tutto il resto.
 
-     Quando i soliti avversari del socialismo parlano di impossibilità
+Quando i soliti avversari del socialismo parlano di impossibilità
 e di mutamenti nella [[Nature|natura]] umana, mancano sempre una distinzione importante. 
 Nelle moderne concezioni ideali della società vi sono alcuni desideri che
 forse non sono attingibili: ma vi sono anche alcuni desideri che non sono desiderabili. 
@@ -12438,7 +12397,7 @@ a qualunque paradiso sociale; chiederei di essere tenuto fermo al mio patto,
 di veder presi sul serio i miei giuramenti e i miei impegni; chiederei all'Utopia
 di vendicare il mio [[Honour|onore]] su me stesso.
 
-     Tutti i miei moderni amici utopisti si guardano l'un l'altro alquanto dubbiosi,
+Tutti i miei moderni amici utopisti si guardano l'un l'altro alquanto dubbiosi,
 poiché la loro [[Hope|speranza]] ultima è la dissoluzione di tutti i legami particolari. 
 Ma di nuovo mi pare di udire, come una specie di eco, una risposta
 al di là del mondo.  «Avrai obblighi reali,
@@ -12447,7 +12406,7 @@ Ma l'obbligo più duro e l'avventura più ardua è arrivarci».
 
 VIII IL [[Romance|ROMANZESCO]] DELL'ORTODOSSIA
 
-     È consuetudine lamentarsi del trambusto e dell'affannarsi
+È consuetudine lamentarsi del trambusto e dell'affannarsi
 della nostra epoca.  Ma in [[Truth|verità]] il tratto principale della nostra epoca è
 una profonda pigrizia e stanchezza; e il fatto è che è proprio la vera pigrizia
 la causa dell'apparente trambusto.  Si prenda un caso del tutto esteriore:
@@ -12478,11 +12437,10 @@ nella parola «dannazione» che nella parola «degenerazione».
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_09" data-title="Orthodoxy — Vii The Eternal Revolution (part 9)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_09" data-title="Orthodoxy — VII The Eternal Revolution (part 9)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 9)
 
-     But these long comfortable words that save modern people
+But these long comfortable words that save modern people
 the toil of reasoning have one particular aspect in which they are
 especially ruinous and confusing.  This difficulty occurs
 when the same long word is used in different connections to mean
@@ -12495,7 +12453,7 @@ as a moral taunt.  So, to take a cheaper instance, the man who
 hates "progressives" in [[London]] always calls himself a "progressive"
 in South Africa.
 
-     A confusion quite as unmeaning as this has arisen in connection
+A confusion quite as unmeaning as this has arisen in connection
 with the word "liberal" as applied to religion and as applied
 to politics and society.  It is often suggested that all Liberals
 ought to be freethinkers, because they ought to [[Love|love]] everything
@@ -12511,7 +12469,7 @@ the improbability of personal [[Immortality|immortality]] and so on.  And none o
 these ideas are particularly liberal.  Nay, indeed almost all these ideas
 are definitely illiberal, as it is the purpose of this chapter to show.
 
-     In the few following pages I propose to point out as rapidly as possible
+In the few following pages I propose to point out as rapidly as possible
 that on every single one of the matters most strongly insisted on
 by liberalisers of theology their effect upon social practice would be
 definitely illiberal. Almost every contemporary proposal to bring
@@ -12528,7 +12486,7 @@ alliance with oppression--and that is orthodoxy.  I may, it is true,
 twist orthodoxy so as partly to justify a [[Tyrant|tyrant]].  But I can easily
 make up a German [[philosophy]] to justify him entirely.
 
-     Now let us take in order the innovations that are the notes of
+Now let us take in order the innovations that are the notes of
 the new theology or the modernist church.  We concluded the last chapter
 with the discovery of one of them. The very doctrine which is called
 the most old-fashioned was found to be the only safeguard of
@@ -12537,7 +12495,7 @@ was found to be the only strength of the people.  In short, we found
 that the only logical negation of oligarchy was in the affirmation of
 [[Original Sin|original sin]].  So it is, I maintain, in all the other cases.
 
-     I take the most obvious instance first, the case of miracles. 
+I take the most obvious instance first, the case of miracles. 
 For some extraordinary reason, there is a fixed notion that it is
 more liberal to disbelieve in miracles than to believe in them. 
 Why, I cannot imagine, nor can anybody tell me.  For some
@@ -12582,21 +12540,20 @@ the dogmas of the monist.
 
 Ma queste lunghe e comode parole, che risparmiano all'uomo moderno la fatica di ragionare, hanno un aspetto particolare per cui riescono specialmente rovinose e confuse. La difficoltà si presenta quando la medesima parola lunga viene adoperata in contesti diversi per significare cose del tutto diverse. Così, per prendere un esempio [[Well|ben]] noto, la parola «idealista» ha un significato in quanto pezzo di [[philosophy|filosofia]] e tutt'altro in quanto pezzo di retorica morale. Allo stesso modo i materialisti scientifici hanno avuto giusto motivo di lamentarsi che si confondesse «materialista» come termine di cosmologia con «materialista» come insulto morale. Così, per prendere un esempio più dozzinale, l'uomo che detesta i «progressisti» a [[London|Londra]] si proclama sempre «progressista» in Sudafrica.
 
-     Una confusione altrettanto insensata è sorta a proposito della parola «liberale» applicata alla religione e applicata alla politica e alla società. Si suggerisce spesso che tutti i liberali dovrebbero essere liberi pensatori, poiché dovrebbero [[Love|amare]] tutto ciò che è libero. Tanto varrebbe dire che tutti gli idealisti dovrebbero essere fautori dell'Alta Chiesa, poiché dovrebbero [[Well|ben]] [[Love|amare]] tutto ciò che è alto. Tanto varrebbe [[Well|ben]] dire che i fautori della Bassa Chiesa dovrebbero amare la Messa bassa, o che i fautori della Chiesa larga dovrebbero amare le battute grasse. La cosa è un mero accidente di parole. Nell'Europa moderna reale un libero pensatore non significa un uomo che pensa con la propria testa. Significa un uomo che, avendo pensato con la propria testa, è giunto a una particolare classe di conclusioni: l'origine materiale dei fenomeni, l'impossibilità dei miracoli, l'improbabilità dell'[[Immortality|immortalità]] personale e così via. E nessuna di queste idee è particolarmente liberale. Anzi, quasi tutte queste idee sono decisamente illiberali, come questo capitolo si propone di mostrare.
+Una confusione altrettanto insensata è sorta a proposito della parola «liberale» applicata alla religione e applicata alla politica e alla società. Si suggerisce spesso che tutti i liberali dovrebbero essere liberi pensatori, poiché dovrebbero [[Love|amare]] tutto ciò che è libero. Tanto varrebbe dire che tutti gli idealisti dovrebbero essere fautori dell'Alta Chiesa, poiché dovrebbero [[Well|ben]] [[Love|amare]] tutto ciò che è alto. Tanto varrebbe [[Well|ben]] dire che i fautori della Bassa Chiesa dovrebbero amare la Messa bassa, o che i fautori della Chiesa larga dovrebbero amare le battute grasse. La cosa è un mero accidente di parole. Nell'Europa moderna reale un libero pensatore non significa un uomo che pensa con la propria testa. Significa un uomo che, avendo pensato con la propria testa, è giunto a una particolare classe di conclusioni: l'origine materiale dei fenomeni, l'impossibilità dei miracoli, l'improbabilità dell'[[Immortality|immortalità]] personale e così via. E nessuna di queste idee è particolarmente liberale. Anzi, quasi tutte queste idee sono decisamente illiberali, come questo capitolo si propone di mostrare.
 
-     Nelle poche pagine che seguono mi propongo di segnalare quanto più rapidamente possibile che, su ognuna delle questioni su cui più insistono i liberalizzatori della teologia, il loro effetto sulla pratica sociale risulterebbe decisamente illiberale. Quasi ogni proposta contemporanea di introdurre la [[Freedom|libertà]] nella Chiesa è semplicemente una proposta di introdurre la tirannide nel mondo. Perché liberare la Chiesa, oggi, non significa nemmeno liberarla in tutte le direzioni. Significa liberare quel curioso insieme di dogmi vagamente detti scientifici: i dogmi del monismo, del panteismo, dell'arianesimo o della necessità. E ognuno di questi (e li prenderemo a uno a uno) si può dimostrare essere il naturale alleato dell'oppressione. Anzi, è una circostanza notevole (invero non poi così notevole, se ci si riflette) che la maggior parte delle cose sono alleate dell'oppressione. C'è una cosa sola che non può mai spingersi oltre un certo punto nella sua alleanza con l'oppressione: ed è l'ortodossia. Posso, è vero, torcere l'ortodossia in modo da giustificare in parte un [[Tyrant|tiranno]]. Ma posso ben più facilmente inventare una [[philosophy|filosofia]] tedesca che lo giustifichi per intero.
+Nelle poche pagine che seguono mi propongo di segnalare quanto più rapidamente possibile che, su ognuna delle questioni su cui più insistono i liberalizzatori della teologia, il loro effetto sulla pratica sociale risulterebbe decisamente illiberale. Quasi ogni proposta contemporanea di introdurre la [[Freedom|libertà]] nella Chiesa è semplicemente una proposta di introdurre la tirannide nel mondo. Perché liberare la Chiesa, oggi, non significa nemmeno liberarla in tutte le direzioni. Significa liberare quel curioso insieme di dogmi vagamente detti scientifici: i dogmi del monismo, del panteismo, dell'arianesimo o della necessità. E ognuno di questi (e li prenderemo a uno a uno) si può dimostrare essere il naturale alleato dell'oppressione. Anzi, è una circostanza notevole (invero non poi così notevole, se ci si riflette) che la maggior parte delle cose sono alleate dell'oppressione. C'è una cosa sola che non può mai spingersi oltre un certo punto nella sua alleanza con l'oppressione: ed è l'ortodossia. Posso, è vero, torcere l'ortodossia in modo da giustificare in parte un [[Tyrant|tiranno]]. Ma posso ben più facilmente inventare una [[philosophy|filosofia]] tedesca che lo giustifichi per intero.
 
-     Prendiamo ora in ordine le innovazioni che sono i tratti distintivi della nuova teologia o della Chiesa modernista. Abbiamo concluso il capitolo precedente con la scoperta di una di esse. Proprio quella dottrina che si dice la più antiquata si è rivelata l'unica salvaguardia delle nuove democrazie della terra. La dottrina in apparenza più impopolare si è rivelata l'unica forza del popolo. In breve, abbiamo scoperto che l'unica negazione logica dell'oligarchia stava nell'affermazione del [[Original Sin|peccato originale]]. Così è, sostengo, in tutti gli altri casi.
+Prendiamo ora in ordine le innovazioni che sono i tratti distintivi della nuova teologia o della Chiesa modernista. Abbiamo concluso il capitolo precedente con la scoperta di una di esse. Proprio quella dottrina che si dice la più antiquata si è rivelata l'unica salvaguardia delle nuove democrazie della terra. La dottrina in apparenza più impopolare si è rivelata l'unica forza del popolo. In breve, abbiamo scoperto che l'unica negazione logica dell'oligarchia stava nell'affermazione del [[Original Sin|peccato originale]]. Così è, sostengo, in tutti gli altri casi.
 
-     Prendo per primo l'esempio più ovvio, il caso dei miracoli. Per qualche straordinaria ragione, esiste un'idea fissa secondo cui sarebbe più liberale non credere ai miracoli che crederci. Perché, non riesco a immaginarlo, né alcuno sa dirmelo. Per qualche inconcepibile motivo un ecclesiastico «largo» o «liberale» significa sempre un uomo che desidera almeno diminuire il numero dei miracoli; non significa mai un uomo che desidera accrescerne il numero. Significa sempre un uomo libero di non credere che [[Christ|Cristo]] sia uscito dal Suo [[Grave|sepolcro]]; non significa mai un uomo libero di credere che la sua stessa zia sia uscita dal proprio [[Grave|sepolcro]]. È frequente veder nascere guai in una parrocchia perché il parroco non può ammettere che San Pietro abbia camminato sull'[[Water|acqua]]; eppure quanto di rado troviamo guai in una parrocchia perché l'ecclesiastico afferma che suo padre ha camminato sulla Serpentine? E ciò non perché (come ribatterebbe all'istante lo svelto disputatore secolarista) i miracoli non possano essere creduti nella nostra esperienza. Non perché «i miracoli non accadono», come nel dogma che Matthew Arnold recitava con semplice [[Faith|fede]]. Nel nostro [[Time|tempo]] si ALLEGA che siano accadute cose più [[Supernatural|soprannaturali]] di quante ne sarebbero state possibili ottant'anni fa. Gli uomini di scienza credono a simili prodigi assai più di un tempo: i più sconcertanti, e persino orribili, portenti della mente e dello spirito vengono di continuo svelati dalla psicologia moderna. Cose che almeno la vecchia scienza avrebbe francamente respinto come miracoli vengono asserite di ora in ora dalla nuova scienza. L'unica cosa ancora abbastanza antiquata da respingere i miracoli è la Nuova Teologia. Ma in [[Truth|verità]] questa nozione, che sia «libero» negare i miracoli, non ha nulla a che fare con le prove a loro favore o contro di essi. È un pregiudizio verbale senza vita, la cui vita e il cui principio originari non stavano nella [[Freedom|libertà]] di pensiero, ma semplicemente nel dogma del materialismo. L'uomo dell'Ottocento non rifiutava di credere alla [[Resurrection|Risurrezione]] perché il suo liberale [[Christianity|cristianesimo]] gli permetteva di [[Doubt|dubitarne]]. La rifiutava perché il suo rigidissimo materialismo non gli permetteva di crederci. Tennyson, uomo assai tipico dell'Ottocento, espresse uno degli istintivi luoghi comuni dei suoi contemporanei quando disse che nel loro onesto [[Doubt|dubbio]] c'era [[Faith|fede]]. E c'era davvero. Quelle parole racchiudono una [[Truth|verità]] profonda e persino orribile. Nel loro [[Doubt|dubbio]] dei miracoli c'era una [[Faith|fede]] in un destino fisso e senza Dio; una [[Faith|fede]] profonda e sincera nella incurabile routine del cosmo. I dubbi dell'agnostico erano soltanto i dogmi del monista.
+Prendo per primo l'esempio più ovvio, il caso dei miracoli. Per qualche straordinaria ragione, esiste un'idea fissa secondo cui sarebbe più liberale non credere ai miracoli che crederci. Perché, non riesco a immaginarlo, né alcuno sa dirmelo. Per qualche inconcepibile motivo un ecclesiastico «largo» o «liberale» significa sempre un uomo che desidera almeno diminuire il numero dei miracoli; non significa mai un uomo che desidera accrescerne il numero. Significa sempre un uomo libero di non credere che [[Christ|Cristo]] sia uscito dal Suo [[Grave|sepolcro]]; non significa mai un uomo libero di credere che la sua stessa zia sia uscita dal proprio [[Grave|sepolcro]]. È frequente veder nascere guai in una parrocchia perché il parroco non può ammettere che San Pietro abbia camminato sull'[[Water|acqua]]; eppure quanto di rado troviamo guai in una parrocchia perché l'ecclesiastico afferma che suo padre ha camminato sulla Serpentine? E ciò non perché (come ribatterebbe all'istante lo svelto disputatore secolarista) i miracoli non possano essere creduti nella nostra esperienza. Non perché «i miracoli non accadono», come nel dogma che Matthew Arnold recitava con semplice [[Faith|fede]]. Nel nostro [[Time|tempo]] si ALLEGA che siano accadute cose più [[Supernatural|soprannaturali]] di quante ne sarebbero state possibili ottant'anni fa. Gli uomini di scienza credono a simili prodigi assai più di un tempo: i più sconcertanti, e persino orribili, portenti della mente e dello spirito vengono di continuo svelati dalla psicologia moderna. Cose che almeno la vecchia scienza avrebbe francamente respinto come miracoli vengono asserite di ora in ora dalla nuova scienza. L'unica cosa ancora abbastanza antiquata da respingere i miracoli è la Nuova Teologia. Ma in [[Truth|verità]] questa nozione, che sia «libero» negare i miracoli, non ha nulla a che fare con le prove a loro favore o contro di essi. È un pregiudizio verbale senza vita, la cui vita e il cui principio originari non stavano nella [[Freedom|libertà]] di pensiero, ma semplicemente nel dogma del materialismo. L'uomo dell'Ottocento non rifiutava di credere alla [[Resurrection|Risurrezione]] perché il suo liberale [[Christianity|cristianesimo]] gli permetteva di [[Doubt|dubitarne]]. La rifiutava perché il suo rigidissimo materialismo non gli permetteva di crederci. Tennyson, uomo assai tipico dell'Ottocento, espresse uno degli istintivi luoghi comuni dei suoi contemporanei quando disse che nel loro onesto [[Doubt|dubbio]] c'era [[Faith|fede]]. E c'era davvero. Quelle parole racchiudono una [[Truth|verità]] profonda e persino orribile. Nel loro [[Doubt|dubbio]] dei miracoli c'era una [[Faith|fede]] in un destino fisso e senza Dio; una [[Faith|fede]] profonda e sincera nella incurabile routine del cosmo. I dubbi dell'agnostico erano soltanto i dogmi del monista.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_10" data-title="Orthodoxy — Vii The Eternal Revolution (part 10)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_10" data-title="Orthodoxy — VII The Eternal Revolution (part 10)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 10)
 
-     Of the fact and evidence of the [[Supernatural|supernatural]] I will speak afterwards. 
+Of the fact and evidence of the [[Supernatural|supernatural]] I will speak afterwards. 
 Here we are only concerned with this clear point; that in so far as
 the liberal idea of [[Freedom|freedom]] can be said to be on either side
 in the discussion about miracles, it is obviously on the side of miracles. 
@@ -12617,7 +12574,7 @@ binds the Creator Himself; it [[Chains|chains]] up God as the [[Apocalypse]]
 chained the devil.  It [[Leaves|leaves]] nothing free in the universe. 
 And those who assist this process are called the "liberal theologians."
 
-     This, as I say, is the lightest and most evident case.
+This, as I say, is the lightest and most evident case.
 The assumption that there is something in the [[Doubt|doubt]] of miracles
 akin to liberality or [[Reform|reform]] is literally the opposite of the [[Truth|truth]]. 
 If a man cannot believe in miracles there is an end of the matter;
@@ -12639,7 +12596,7 @@ to wish to make it immortal?  No, if it is desirable that man should
 triumph over the cruelty of [[Nature|nature]] or custom, then miracles are
 certainly desirable; we will discuss afterwards whether they are possible.
 
-     But I must pass on to the larger cases of this curious error;
+But I must pass on to the larger cases of this curious error;
 the notion that the "liberalising" of religion in some way helps
 the liberation of the world.  The second example of it can be found
 in the question of pantheism--or rather of a certain modern attitude
@@ -12647,7 +12604,7 @@ which is often called immanentism, and which often is Buddhism.
 But this is so much more difficult a matter that I must approach it
 with rather more preparation.
 
-     The things said most confidently by advanced persons to
+The things said most confidently by advanced persons to
 crowded audiences are generally those quite opposite to the fact;
 it is actually our truisms that are untrue.  Here is a case. 
 There is a phrase of facile liberality uttered again and again
@@ -12679,7 +12636,7 @@ have newspapers.  Creeds that exist to destroy each other
 both have scriptures, just as armies that exist to destroy each other
 both have guns.
 
-     The great example of this alleged [[Identity|identity]] of all human religions
+The great example of this alleged [[Identity|identity]] of all human religions
 is the alleged spiritual [[Identity|identity]] of Buddhism and [[Christianity]]. 
 Those who adopt this theory generally avoid the ethics of most other creeds,
 except, indeed, Confucianism, which they like because it is not a creed. 
@@ -12696,21 +12653,20 @@ they feel sincerely a similarity.
 
 Del fatto e delle prove del [[Supernatural|soprannaturale]] parlerò in seguito. Qui ci occupiamo soltanto di questo punto chiarissimo: che, nella misura in cui si possa dire che l'idea liberale della [[Freedom|libertà]] stia da una delle due parti nella disputa sui miracoli, essa sta con ogni evidenza dalla parte dei miracoli. La [[Reform|Riforma]] o (nell'unico senso tollerabile) il progresso significa semplicemente il graduale controllo della materia da parte della mente. Un miracolo significa semplicemente il rapido controllo della materia da parte della mente. Se volete sfamare il popolo, potrete pensare che sfamarlo miracolosamente nel deserto sia impossibile — ma non potete pensare che sia illiberale. Se davvero desiderate che i bambini poveri vadano al mare, non potete pensare che sia illiberale che vi giungano a cavallo di draghi volanti; potete soltanto pensare che sia improbabile. Una vacanza, come il liberalismo, significa soltanto la libertà dell'uomo. Un miracolo significa soltanto la libertà di Dio. Potete in coscienza negare l'una o l'altra, ma non potete chiamare il vostro diniego un trionfo dell'idea liberale. La [[Catholic Church|Chiesa cattolica]] credeva che l'uomo e Dio possedessero entrambi una sorta di [[Freedom|libertà]] spirituale. Il calvinismo tolse la [[Freedom|libertà]] all'uomo, ma la lasciò a Dio. Il materialismo scientifico incatena il Creatore stesso; [[Chains|incatena]] Dio come l'[[Apocalypse|Apocalisse]] incatenò il diavolo. Non [[Leaves|lascia]] nulla di libero nell'universo. E coloro che assecondano questo processo si chiamano i «teologi liberali».
 
-     Questo, come dico, è il caso più lieve ed evidente. La supposizione che vi sia nel [[Doubt|dubbio]] sui miracoli qualcosa di affine alla liberalità o alla [[Reform|riforma]] è letteralmente l'opposto della [[Truth|verità]]. Se un uomo non riesce a credere ai miracoli, la faccenda è chiusa; egli non è particolarmente liberale, ma è perfettamente onorevole e logico, che sono cose di gran lunga migliori. Ma se riesce a credere ai miracoli, allora è certamente più liberale a farlo; perché essi significano, in primo luogo, la [[Freedom|libertà]] dell'[[Soul|anima]], e in secondo luogo, il suo dominio sulla tirannia delle circostanze. A volte questa [[Truth|verità]] viene ignorata in modo singolarmente ingenuo, perfino dagli uomini più capaci. Per esempio, il signor Bernard [[Shaw]] parla con cordiale e antiquato disprezzo dell'idea dei miracoli, come se fossero una sorta di venir meno alla [[Faith|fede]] da parte della [[Nature|natura]]: sembra stranamente inconsapevole che i miracoli sono soltanto i [[Flowers|fiori]] ultimi del suo albero prediletto, la dottrina dell'onnipotenza della volontà. Allo stesso modo egli chiama il [[Desire|desiderio]] di [[Immortality|immortalità]] una meschina egoismo, dimenticando di aver appena chiamato il [[Desire|desiderio]] di vita un egoismo sano ed eroico. Come può essere nobile voler rendere infinita la propria vita e nondimeno spregevole volerla rendere immortale? No, se è desiderabile che l'uomo trionfi sulla crudeltà della [[Nature|natura]] o della consuetudine, allora i miracoli sono certamente desiderabili; discuteremo in seguito se siano possibili.
+Questo, come dico, è il caso più lieve ed evidente. La supposizione che vi sia nel [[Doubt|dubbio]] sui miracoli qualcosa di affine alla liberalità o alla [[Reform|riforma]] è letteralmente l'opposto della [[Truth|verità]]. Se un uomo non riesce a credere ai miracoli, la faccenda è chiusa; egli non è particolarmente liberale, ma è perfettamente onorevole e logico, che sono cose di gran lunga migliori. Ma se riesce a credere ai miracoli, allora è certamente più liberale a farlo; perché essi significano, in primo luogo, la [[Freedom|libertà]] dell'[[Soul|anima]], e in secondo luogo, il suo dominio sulla tirannia delle circostanze. A volte questa [[Truth|verità]] viene ignorata in modo singolarmente ingenuo, perfino dagli uomini più capaci. Per esempio, il signor Bernard [[Shaw]] parla con cordiale e antiquato disprezzo dell'idea dei miracoli, come se fossero una sorta di venir meno alla [[Faith|fede]] da parte della [[Nature|natura]]: sembra stranamente inconsapevole che i miracoli sono soltanto i [[Flowers|fiori]] ultimi del suo albero prediletto, la dottrina dell'onnipotenza della volontà. Allo stesso modo egli chiama il [[Desire|desiderio]] di [[Immortality|immortalità]] una meschina egoismo, dimenticando di aver appena chiamato il [[Desire|desiderio]] di vita un egoismo sano ed eroico. Come può essere nobile voler rendere infinita la propria vita e nondimeno spregevole volerla rendere immortale? No, se è desiderabile che l'uomo trionfi sulla crudeltà della [[Nature|natura]] o della consuetudine, allora i miracoli sono certamente desiderabili; discuteremo in seguito se siano possibili.
 
-     Ma devo passare ai casi più ampi di questo curioso errore: l'idea che il «liberalizzare» la religione aiuti in qualche modo la liberazione del mondo. Il secondo esempio se ne trova nella questione del panteismo — o piuttosto di un certo atteggiamento moderno che spesso si chiama immanentismo, e che spesso è buddhismo. Ma questa è materia tanto più difficile che devo accostarmivi con qualche preparazione in più.
+Ma devo passare ai casi più ampi di questo curioso errore: l'idea che il «liberalizzare» la religione aiuti in qualche modo la liberazione del mondo. Il secondo esempio se ne trova nella questione del panteismo — o piuttosto di un certo atteggiamento moderno che spesso si chiama immanentismo, e che spesso è buddhismo. Ma questa è materia tanto più difficile che devo accostarmivi con qualche preparazione in più.
 
-     Le cose dette con maggior sicurezza dalle persone d'avanguardia ad affollati uditori sono in genere del tutto contrarie al fatto; sono proprio i nostri truismi a essere falsi. Ecco un caso. Vi è una frase di facile liberalità pronunciata più e più volte nelle società etiche e nei parlamenti delle religioni: «le religioni della terra differiscono nei riti e nelle forme, ma sono le stesse in ciò che insegnano». È falso; è l'opposto del fatto. Le religioni della terra non differiscono granché nei riti e nelle forme; differiscono grandemente in ciò che insegnano. È come se un uomo dicesse: «Non lasciatevi ingannare dal fatto che il CHURCH TIMES e il FREETHINKER appaiono del tutto diversi, che l'uno è dipinto su pergamena e l'altro inciso nel marmo, che l'uno è triangolare e l'altro ettagonale; leggeteli e vedrete che dicono la stessa cosa». La [[Truth|verità]] è, naturalmente, che essi sono simili in tutto tranne che nel fatto di non dire la stessa cosa. Un agente di cambio ateo di Surbiton somiglia esattamente a un agente di cambio swedenborghiano di Wimbledon. Potete girargli attorno e sottoporli allo studio più personale e offensivo senza scorgere nulla di swedenborghiano nel cappello o alcunché di particolarmente empio nell'ombrello. È esattamente nelle loro anime che sono divisi. Così la [[Truth|verità]] è che la difficoltà di tutti i credi della terra non sta, come si pretende in questa massima da quattro soldi, nel fatto che concordino nel significato ma differiscano nel meccanismo. È esattamente il contrario. Concordano nel meccanismo; quasi ogni grande religione della terra opera con gli stessi metodi esterni, con sacerdoti, scritture, altari, confraternite giurate, feste speciali. Concordano nel modo di insegnare; ciò su cui differiscono è la cosa da insegnare. Gli ottimisti pagani e i pessimisti orientali avrebbero entrambi i loro templi, proprio come i liberali e i conservatori avrebbero entrambi i loro giornali. Credi che esistono per distruggersi a vicenda hanno entrambi le loro scritture, proprio come eserciti che esistono per distruggersi a vicenda hanno entrambi i loro cannoni.
+Le cose dette con maggior sicurezza dalle persone d'avanguardia ad affollati uditori sono in genere del tutto contrarie al fatto; sono proprio i nostri truismi a essere falsi. Ecco un caso. Vi è una frase di facile liberalità pronunciata più e più volte nelle società etiche e nei parlamenti delle religioni: «le religioni della terra differiscono nei riti e nelle forme, ma sono le stesse in ciò che insegnano». È falso; è l'opposto del fatto. Le religioni della terra non differiscono granché nei riti e nelle forme; differiscono grandemente in ciò che insegnano. È come se un uomo dicesse: «Non lasciatevi ingannare dal fatto che il CHURCH TIMES e il FREETHINKER appaiono del tutto diversi, che l'uno è dipinto su pergamena e l'altro inciso nel marmo, che l'uno è triangolare e l'altro ettagonale; leggeteli e vedrete che dicono la stessa cosa». La [[Truth|verità]] è, naturalmente, che essi sono simili in tutto tranne che nel fatto di non dire la stessa cosa. Un agente di cambio ateo di Surbiton somiglia esattamente a un agente di cambio swedenborghiano di Wimbledon. Potete girargli attorno e sottoporli allo studio più personale e offensivo senza scorgere nulla di swedenborghiano nel cappello o alcunché di particolarmente empio nell'ombrello. È esattamente nelle loro anime che sono divisi. Così la [[Truth|verità]] è che la difficoltà di tutti i credi della terra non sta, come si pretende in questa massima da quattro soldi, nel fatto che concordino nel significato ma differiscano nel meccanismo. È esattamente il contrario. Concordano nel meccanismo; quasi ogni grande religione della terra opera con gli stessi metodi esterni, con sacerdoti, scritture, altari, confraternite giurate, feste speciali. Concordano nel modo di insegnare; ciò su cui differiscono è la cosa da insegnare. Gli ottimisti pagani e i pessimisti orientali avrebbero entrambi i loro templi, proprio come i liberali e i conservatori avrebbero entrambi i loro giornali. Credi che esistono per distruggersi a vicenda hanno entrambi le loro scritture, proprio come eserciti che esistono per distruggersi a vicenda hanno entrambi i loro cannoni.
 
-     Il grande esempio di questa pretesa [[Identity|identità]] di tutte le religioni umane è la pretesa [[Identity|identità]] spirituale del buddhismo e del [[Christianity|cristianesimo]]. Coloro che adottano questa teoria evitano in genere l'etica della maggior parte degli altri credi, tranne, invero, il confucianesimo, che apprezzano perché non è un credo. Ma sono cauti nelle loro lodi del maomettanesimo, limitandosi in genere a imporne la [[morality|morale]] soltanto per il ristoro delle classi inferiori. Di rado suggeriscono la concezione maomettana del [[Marriage|matrimonio]] (a favore della quale ci sarebbe molto da dire), e verso i Thugs e gli adoratori di feticci il loro atteggiamento può addirittura dirsi freddo. Ma nel caso della grande religione di Gautama avvertono sinceramente una somiglianza.
+Il grande esempio di questa pretesa [[Identity|identità]] di tutte le religioni umane è la pretesa [[Identity|identità]] spirituale del buddhismo e del [[Christianity|cristianesimo]]. Coloro che adottano questa teoria evitano in genere l'etica della maggior parte degli altri credi, tranne, invero, il confucianesimo, che apprezzano perché non è un credo. Ma sono cauti nelle loro lodi del maomettanesimo, limitandosi in genere a imporne la [[morality|morale]] soltanto per il ristoro delle classi inferiori. Di rado suggeriscono la concezione maomettana del [[Marriage|matrimonio]] (a favore della quale ci sarebbe molto da dire), e verso i Thugs e gli adoratori di feticci il loro atteggiamento può addirittura dirsi freddo. Ma nel caso della grande religione di Gautama avvertono sinceramente una somiglianza.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_11" data-title="Orthodoxy — Vii The Eternal Revolution (part 11)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_11" data-title="Orthodoxy — VII The Eternal Revolution (part 11)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 11)
 
-     Students of popular science, like Mr. Blatchford, are always insisting
+Students of popular science, like Mr. Blatchford, are always insisting
 that [[Christianity]] and Buddhism are very much alike, especially Buddhism. 
 This is generally believed, and I believed it myself until I read
 a book giving the reasons for it.  The reasons were of two kinds: 
@@ -12750,7 +12706,7 @@ agrees that there is some way out.  But as to what is the way out,
 I do not think that there are two institutions in the universe
 which contradict each other so flatly as Buddhism and [[Christianity]].
 
-     Even when I thought, with most other [[Well|well]]-informed,
+Even when I thought, with most other [[Well|well]]-informed,
 though unscholarly, people, that Buddhism and [[Christianity]] were alike,
 there was one thing about them that always perplexed me; I mean
 the startling difference in their type of religious art.  I do not mean
@@ -12772,7 +12728,7 @@ a peculiar intentness inwards.  The Christian is staring with
 a frantic intentness outwards.  If we follow that clue steadily
 we shall find some interesting things.
 
-     A short [[Time|time]] ago Mrs. Besant, in an interesting [[Essay|essay]],
+A short [[Time|time]] ago Mrs. Besant, in an interesting [[Essay|essay]],
 announced that there was only one religion in the world, that all faiths
 were only versions or perversions of it, and that she was quite prepared
 to say what it was.  According to Mrs. Besant this universal Church
@@ -12794,7 +12750,7 @@ it must be a monotonous courtship.  If the world is full of real selves,
 they can be really unselfish selves.  But upon Mrs. Besant's principle
 the whole cosmos is only one enormously selfish person.
 
-     It is just here that Buddhism is on the side of modern pantheism
+It is just here that Buddhism is on the side of modern pantheism
 and immanence.  And it is just here that [[Christianity]] is on the side
 of humanity and liberty and [[Love|love]].  [[Love]] desires personality;
 therefore [[Love|love]] desires division.  It is the instinct of [[Christianity]]
@@ -12839,19 +12795,18 @@ separated brother and brother, so that they should [[Love|love]] each other at l
 
 Gli studiosi di scienza divulgativa, come il signor Blatchford, insistono sempre nel dire che il [[Christianity|Cristianesimo]] e il Buddhismo si somigliano moltissimo, e il Buddhismo in special modo. È una cosa che si crede comunemente, e io stesso la credevo, finché non lessi un libro che ne adduceva le ragioni. Le ragioni erano di due specie: somiglianze che non significavano nulla, perché comuni a tutta l'umanità, e somiglianze che non erano affatto somiglianze. L'autore spiegava solennemente che le due fedi si somigliavano in cose nelle quali tutte le fedi si somigliano, oppure le descriveva come simili in qualche punto nel quale sono con tutta evidenza diversissime. Così, come esempio della prima classe, diceva che sia il [[Christ|Cristo]] sia il Buddha furono chiamati dalla voce divina che scendeva dal cielo, come se ci si aspettasse che la voce divina uscisse dalla carbonaia. Oppure, ancora, si adduceva con gravità che questi due maestri orientali, per una singolare coincidenza, ebbero entrambi a che fare con la lavanda dei piedi. Tanto [[Well|varrebbe]] dire che era una coincidenza notevole che entrambi avessero dei piedi da lavare. E l'altra classe di somiglianze era quella delle cose che semplicemente non erano simili. Così questo conciliatore delle due religioni richiama con fervore l'attenzione sul fatto che, in certe feste religiose, la veste del Lama viene stracciata in pezzi per rispetto, e i brandelli tenuti in gran conto. Ma questo è il rovescio di una somiglianza, perché le vesti del [[Christ|Cristo]] non furono stracciate in pezzi per rispetto, ma per scherno; e i brandelli non furono tenuti in gran conto se non per quel che avrebbero reso nelle botteghe dei cenciaioli. È un po' come alludere all'evidente connessione tra le due cerimonie della [[Sword|spada]]: quando essa sfiora la spalla di un uomo, e quando gli mozza la testa. Per l'uomo non c'è affatto somiglianza. Questi brandelli di puerile pedanteria conterebbero invero assai poco se non fosse altresì vero che anche le presunte somiglianze filosofiche sono di queste due specie, o provando troppo o non provando nulla. Che il Buddhismo approvi la [[Mercy|misericordia]] o l'[[Self|autodominio]] non equivale a dire che esso somigli in modo speciale al [[Christianity|Cristianesimo]]; equivale soltanto a dire che non è del tutto dissimile da ogni umana esistenza. I buddhisti disapprovano in teoria la crudeltà o l'eccesso perché tutti gli esseri umani sani di mente disapprovano in teoria la crudeltà o l'eccesso. Ma dire che il Buddhismo e il [[Christianity|Cristianesimo]] diano la stessa [[philosophy|filosofia]] di queste cose è semplicemente falso. Tutta l'umanità conviene che siamo presi in una rete di peccato. La maggior parte dell'umanità conviene che vi sia una qualche via d'uscita. Ma quanto a quale sia la via d'uscita, non credo che esistano nell'universo due istituzioni che si contraddicano l'un l'altra così piattamente come il Buddhismo e il [[Christianity|Cristianesimo]].
 
-     Persino quando pensavo, come la maggior parte delle altre persone [[Well|bene]] informate, benché non erudite, che il Buddhismo e il [[Christianity|Cristianesimo]] fossero simili, c'era in essi una cosa che sempre mi lasciava perplesso; intendo la sconcertante differenza nel loro tipo di arte religiosa. Non intendo nello stile tecnico della rappresentazione, ma nelle cose che essa era manifestamente destinata a rappresentare. Non potrebbero esservi due ideali più opposti di un santo cristiano in una [[Cathedral|cattedrale]] gotica e di un santo buddhista in un tempio cinese. L'opposizione sussiste in ogni punto; ma forse il modo più breve di enunciarla è che il santo buddhista ha sempre gli occhi chiusi, mentre il santo cristiano li ha sempre spalancatissimi. Il santo buddhista ha un [[Body|corpo]] liscio e armonioso, ma gli occhi pesanti e suggellati dal [[Sleep|sonno]]. Il [[Body|corpo]] del santo medievale è consunto fino alle ossa scarne, ma gli occhi sono spaventosamente vivi. Non può esservi alcuna reale comunità di spirito tra forze che hanno prodotto simboli tanto diversi. Ammesso pure che entrambe le immagini siano stravaganze, perversioni del credo puro, dev'essere una divergenza reale quella che ha potuto produrre stravaganze così opposte. Il buddhista guarda con una peculiare intensità verso l'interno. Il cristiano fissa con una frenetica intensità verso l'esterno. Se seguiamo quel filo con costanza, troveremo alcune cose interessanti.
+Persino quando pensavo, come la maggior parte delle altre persone [[Well|bene]] informate, benché non erudite, che il Buddhismo e il [[Christianity|Cristianesimo]] fossero simili, c'era in essi una cosa che sempre mi lasciava perplesso; intendo la sconcertante differenza nel loro tipo di arte religiosa. Non intendo nello stile tecnico della rappresentazione, ma nelle cose che essa era manifestamente destinata a rappresentare. Non potrebbero esservi due ideali più opposti di un santo cristiano in una [[Cathedral|cattedrale]] gotica e di un santo buddhista in un tempio cinese. L'opposizione sussiste in ogni punto; ma forse il modo più breve di enunciarla è che il santo buddhista ha sempre gli occhi chiusi, mentre il santo cristiano li ha sempre spalancatissimi. Il santo buddhista ha un [[Body|corpo]] liscio e armonioso, ma gli occhi pesanti e suggellati dal [[Sleep|sonno]]. Il [[Body|corpo]] del santo medievale è consunto fino alle ossa scarne, ma gli occhi sono spaventosamente vivi. Non può esservi alcuna reale comunità di spirito tra forze che hanno prodotto simboli tanto diversi. Ammesso pure che entrambe le immagini siano stravaganze, perversioni del credo puro, dev'essere una divergenza reale quella che ha potuto produrre stravaganze così opposte. Il buddhista guarda con una peculiare intensità verso l'interno. Il cristiano fissa con una frenetica intensità verso l'esterno. Se seguiamo quel filo con costanza, troveremo alcune cose interessanti.
 
-     Poco [[Time|tempo]] fa la signora Besant, in un interessante [[Essay|saggio]], annunciò che vi era una sola religione al mondo, che tutte le fedi ne erano soltanto versioni o perversioni, e che era del tutto pronta a dire quale fosse. Secondo la signora Besant questa Chiesa universale è semplicemente l'[[Self|io]] universale. È la dottrina secondo cui siamo in realtà tutti una sola persona; secondo cui non vi sono reali muri di individualità tra uomo e uomo. Se posso esprimermi così, ella non ci dice di [[Love|amare]] il nostro prossimo; ci dice di essere il nostro prossimo. Questa è la ponderata e suggestiva descrizione che la signora Besant dà della religione nella quale tutti gli uomini devono trovarsi d'accordo. E in vita mia non ho mai udito proposta con la quale io dissenta più violentemente. Io voglio [[Love|amare]] il mio prossimo non perché egli sia me, ma precisamente perché egli non è me. Voglio adorare il mondo, non come si ama uno specchio, perché è il proprio [[Self|io]], ma come si ama una donna, perché è interamente diversa. Se le anime sono separate, l'[[Love|amore]] è possibile. Se le anime sono unite, l'[[Love|amore]] è evidentemente impossibile. Si può dire, in senso lato, che un uomo [[Love|ami]] se stesso, ma difficilmente può [[Love|innamorarsi]] di sé, o, se lo fa, dev'essere un corteggiamento monotono. Se il mondo è pieno di io reali, essi possono essere io realmente disinteressati. Ma secondo il principio della signora Besant l'intero cosmo è soltanto un'unica persona enormemente egoista.
+Poco [[Time|tempo]] fa la signora Besant, in un interessante [[Essay|saggio]], annunciò che vi era una sola religione al mondo, che tutte le fedi ne erano soltanto versioni o perversioni, e che era del tutto pronta a dire quale fosse. Secondo la signora Besant questa Chiesa universale è semplicemente l'[[Self|io]] universale. È la dottrina secondo cui siamo in realtà tutti una sola persona; secondo cui non vi sono reali muri di individualità tra uomo e uomo. Se posso esprimermi così, ella non ci dice di [[Love|amare]] il nostro prossimo; ci dice di essere il nostro prossimo. Questa è la ponderata e suggestiva descrizione che la signora Besant dà della religione nella quale tutti gli uomini devono trovarsi d'accordo. E in vita mia non ho mai udito proposta con la quale io dissenta più violentemente. Io voglio [[Love|amare]] il mio prossimo non perché egli sia me, ma precisamente perché egli non è me. Voglio adorare il mondo, non come si ama uno specchio, perché è il proprio [[Self|io]], ma come si ama una donna, perché è interamente diversa. Se le anime sono separate, l'[[Love|amore]] è possibile. Se le anime sono unite, l'[[Love|amore]] è evidentemente impossibile. Si può dire, in senso lato, che un uomo [[Love|ami]] se stesso, ma difficilmente può [[Love|innamorarsi]] di sé, o, se lo fa, dev'essere un corteggiamento monotono. Se il mondo è pieno di io reali, essi possono essere io realmente disinteressati. Ma secondo il principio della signora Besant l'intero cosmo è soltanto un'unica persona enormemente egoista.
 
-     È proprio qui che il Buddhismo sta dalla parte del panteismo moderno e dell'immanenza. Ed è proprio qui che il [[Christianity|Cristianesimo]] sta dalla parte dell'umanità e della libertà e dell'[[Love|amore]]. L'[[Love|Amore]] desidera la personalità; perciò l'[[Love|amore]] desidera la divisione. È l'istinto del [[Christianity|Cristianesimo]] a rallegrarsi che Dio abbia infranto l'universo in piccoli pezzi, perché sono pezzi viventi. È suo istinto dire «figlioletti, [[Love|amatevi]] gli uni gli altri» piuttosto che dire a un'unica grande persona di [[Love|amare]] se stessa. Questo è l'abisso intellettuale tra il Buddhismo e il [[Christianity|Cristianesimo]]: che per il buddhista o il teosofo la personalità è la caduta dell'uomo, mentre per il cristiano è il disegno di Dio, l'intero punto della sua idea cosmica. L'[[Soul|anima]] del mondo dei teosofi chiede all'uomo di [[Love|amarla]] soltanto affinché l'uomo possa gettarsi in essa. Ma il centro divino del [[Christianity|Cristianesimo]] gettò in realtà l'uomo fuori di sé, affinché egli potesse [[Love|amarlo]]. La divinità orientale è come un gigante che avesse perduto la gamba o la mano e andasse sempre cercando di ritrovarla; ma la potenza cristiana è come un gigante che, in una strana generosità, si recidesse la mano destra, così che questa potesse di propria spontanea volontà stringergli la mano. Torniamo alla stessa instancabile nota che tocca la [[Nature|natura]] del [[Christianity|Cristianesimo]]: tutte le filosofie moderne sono [[Chains|catene]] che collegano e incatenano; il [[Christianity|Cristianesimo]] è una [[Sword|spada]] che separa e libera. Nessun'altra [[philosophy|filosofia]] fa sì che Dio si rallegri realmente della separazione dell'universo in anime viventi. Ma secondo il [[Christianity|Cristianesimo]] ortodosso questa separazione tra Dio e l'uomo è sacra, perché è eterna. Affinché un uomo possa [[Love|amare]] Dio è necessario che vi sia non soltanto un Dio da amare, ma anche un uomo che lo [[Love|ami]]. Tutte quelle vaghe menti teosofiche, per le quali l'universo è un immenso crogiuolo, sono precisamente le menti che istintivamente rifuggono da quella parola sismica dei nostri Vangeli, che dichiara che il Figlio di Dio venne non con la pace ma con una [[Sword|spada]] che divide. La parola suona interamente vera anche considerata per ciò che manifestamente è: l'affermazione che ogni uomo il quale predichi il vero [[Love|amore]] è destinato a generare odio. Ciò è vero della fraternità democratica quanto dell'[[Divine Love|amore divino]]: l'[[Love|amore]] fittizio finisce nel compromesso e nella [[philosophy|filosofia]] comune; ma l'[[Love|amore]] vero è sempre finito nel sangue. Eppure vi è un'altra e ancor più tremenda [[Truth|verità]] dietro l'ovvio significato di questa affermazione di nostro Signore. Secondo Lui stesso il Figlio era una [[Sword|spada]] che separava fratello da fratello, affinché per un'era si odiassero l'un l'altro. Ma anche il Padre era una [[Sword|spada]], che nel nero principio separò fratello da fratello, affinché essi alfine si [[Love|amassero]] l'un l'altro.
+È proprio qui che il Buddhismo sta dalla parte del panteismo moderno e dell'immanenza. Ed è proprio qui che il [[Christianity|Cristianesimo]] sta dalla parte dell'umanità e della libertà e dell'[[Love|amore]]. L'[[Love|Amore]] desidera la personalità; perciò l'[[Love|amore]] desidera la divisione. È l'istinto del [[Christianity|Cristianesimo]] a rallegrarsi che Dio abbia infranto l'universo in piccoli pezzi, perché sono pezzi viventi. È suo istinto dire «figlioletti, [[Love|amatevi]] gli uni gli altri» piuttosto che dire a un'unica grande persona di [[Love|amare]] se stessa. Questo è l'abisso intellettuale tra il Buddhismo e il [[Christianity|Cristianesimo]]: che per il buddhista o il teosofo la personalità è la caduta dell'uomo, mentre per il cristiano è il disegno di Dio, l'intero punto della sua idea cosmica. L'[[Soul|anima]] del mondo dei teosofi chiede all'uomo di [[Love|amarla]] soltanto affinché l'uomo possa gettarsi in essa. Ma il centro divino del [[Christianity|Cristianesimo]] gettò in realtà l'uomo fuori di sé, affinché egli potesse [[Love|amarlo]]. La divinità orientale è come un gigante che avesse perduto la gamba o la mano e andasse sempre cercando di ritrovarla; ma la potenza cristiana è come un gigante che, in una strana generosità, si recidesse la mano destra, così che questa potesse di propria spontanea volontà stringergli la mano. Torniamo alla stessa instancabile nota che tocca la [[Nature|natura]] del [[Christianity|Cristianesimo]]: tutte le filosofie moderne sono [[Chains|catene]] che collegano e incatenano; il [[Christianity|Cristianesimo]] è una [[Sword|spada]] che separa e libera. Nessun'altra [[philosophy|filosofia]] fa sì che Dio si rallegri realmente della separazione dell'universo in anime viventi. Ma secondo il [[Christianity|Cristianesimo]] ortodosso questa separazione tra Dio e l'uomo è sacra, perché è eterna. Affinché un uomo possa [[Love|amare]] Dio è necessario che vi sia non soltanto un Dio da amare, ma anche un uomo che lo [[Love|ami]]. Tutte quelle vaghe menti teosofiche, per le quali l'universo è un immenso crogiuolo, sono precisamente le menti che istintivamente rifuggono da quella parola sismica dei nostri Vangeli, che dichiara che il Figlio di Dio venne non con la pace ma con una [[Sword|spada]] che divide. La parola suona interamente vera anche considerata per ciò che manifestamente è: l'affermazione che ogni uomo il quale predichi il vero [[Love|amore]] è destinato a generare odio. Ciò è vero della fraternità democratica quanto dell'[[Divine Love|amore divino]]: l'[[Love|amore]] fittizio finisce nel compromesso e nella [[philosophy|filosofia]] comune; ma l'[[Love|amore]] vero è sempre finito nel sangue. Eppure vi è un'altra e ancor più tremenda [[Truth|verità]] dietro l'ovvio significato di questa affermazione di nostro Signore. Secondo Lui stesso il Figlio era una [[Sword|spada]] che separava fratello da fratello, affinché per un'era si odiassero l'un l'altro. Ma anche il Padre era una [[Sword|spada]], che nel nero principio separò fratello da fratello, affinché essi alfine si [[Love|amassero]] l'un l'altro.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_12" data-title="Orthodoxy — Vii The Eternal Revolution (part 12)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_12" data-title="Orthodoxy — VII The Eternal Revolution (part 12)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 12)
 
-     This is the meaning of that almost insane happiness in the eyes
+This is the meaning of that almost insane happiness in the eyes
 of the mediaeval saint in the picture.  This is the meaning of
 the sealed eyes of the superb Buddhist image.  The Christian saint
 is happy because he has verily been cut off from the world;
@@ -12875,14 +12830,14 @@ written under the inspiration of Garibaldi and the revolt of [[Italy]]
 he proclaimed the newer religion and the purer God which should wither up
 all the priests of the world:
 
-    "What doest thou now
-     Looking Godward to cry
-     I am I, thou art thou,
-     I am low, thou art high,
-     I am thou that thou seekest to find him, find thou but thyself,
-          thou art I."
+"What doest thou now
+Looking Godward to cry
+I am I, thou art thou,
+I am low, thou art high,
+I am thou that thou seekest to find him, find thou but thyself,
+thou art I."
 
-     Of which the immediate and evident deduction is that
+Of which the immediate and evident deduction is that
 tyrants are as much the sons of God as Garibaldis; and that
 [[King]] Bomba of Naples having, with the utmost [[success]], "found himself"
 is identical with the ultimate good in all things. The [[Truth|truth]] is
@@ -12906,7 +12861,7 @@ deeper rings of the labyrinth of our own ego.  But only we of Christendom
 have said that we should hunt God like an eagle upon the [[Mountains|mountains]]: 
 and we have killed all monsters in the chase.
 
-     Here again, therefore, we find that in so far as we value [[democracy]]
+Here again, therefore, we find that in so far as we value [[democracy]]
 and the [[Self|self]]-renewing energies of the west, we are much more likely
 to find them in the old theology than the new.  If we want [[Reform|reform]],
 we must adhere to orthodoxy: especially in this matter (so much disputed
@@ -12919,7 +12874,7 @@ righteous indignation--Christendom. Insisting that God is inside man,
 man is always inside himself.  By insisting that God transcends man,
 man has transcended himself.
 
-     If we take any other doctrine that has been called old-fashioned
+If we take any other doctrine that has been called old-fashioned
 we shall find the case the same.  It is the same, for instance,
 in the deep matter of the Trinity.  Unitarians (a sect never to be mentioned
 without a special respect for their distinguished intellectual dignity
@@ -12980,14 +12935,14 @@ scritti sotto l'ispirazione di Garibaldi e della rivolta d'[[Italy|Italia]],
 egli proclamava la religione più nuova e il Dio più puro che avrebbe dovuto disseccare
 tutti i sacerdoti del mondo:
 
-    "Che fai tu ora
-     volgendoti a gridare verso Dio
-     io sono io, tu sei tu,
-     io sono in basso, tu sei in alto,
-     io sono te, che tu cerchi di trovarlo, trova solo te stesso,
-          tu sei me."
+"Che fai tu ora
+volgendoti a gridare verso Dio
+io sono io, tu sei tu,
+io sono in basso, tu sei in alto,
+io sono te, che tu cerchi di trovarlo, trova solo te stesso,
+tu sei me."
 
-     Da cui la deduzione immediata ed evidente è che
+Da cui la deduzione immediata ed evidente è che
 i tiranni sono figli di Dio non meno dei Garibaldi; e che
 [[King|re]] Bomba di Napoli, avendo, col massimo [[success|successo]], "trovato se stesso",
 è identico al bene ultimo di tutte le cose. La [[Truth|verità]] è
@@ -13011,7 +12966,7 @@ profondi del labirinto del nostro stesso io. Ma soltanto noi della Cristianità
 abbiamo detto che dovremmo dare la caccia a Dio come a un'aquila sulle [[Mountains|montagne]]:
 e nella caccia abbiamo ucciso ogni mostro.
 
-     Anche qui, dunque, troviamo che, nella misura in cui teniamo alla [[democracy|democrazia]]
+Anche qui, dunque, troviamo che, nella misura in cui teniamo alla [[democracy|democrazia]]
 e alle energie di [[Self|auto]]-rinnovamento dell'Occidente, siamo assai più propensi
 a trovarle nella vecchia teologia che nella nuova. Se vogliamo la [[Reform|riforma]],
 dobbiamo aderire all'ortodossia: specialmente in questa materia (così dibattuta
@@ -13024,7 +12979,7 @@ la sacra indignazione — la Cristianità. Insistendo che Dio è dentro l'uomo,
 l'uomo è sempre dentro se stesso. Insistendo che Dio trascende l'uomo,
 l'uomo ha trasceso se stesso.
 
-     Se prendiamo qualsiasi altra dottrina che sia stata detta antiquata,
+Se prendiamo qualsiasi altra dottrina che sia stata detta antiquata,
 troveremo che il caso è lo stesso. È lo stesso, per esempio,
 nella profonda materia della Trinità. Gli unitariani (una setta da non menzionarsi mai
 senza un particolare rispetto per la loro insigne dignità intellettuale
@@ -13060,11 +13015,10 @@ hanno devastato il mondo. Poiché non è [[Well|bene]] che Dio sia [[Alone|solo]
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_13" data-title="Orthodoxy — Vii The Eternal Revolution (part 13)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_13" data-title="Orthodoxy — VII The Eternal Revolution (part 13)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 13)
 
-     Again, the same is true of that difficult matter of
+Again, the same is true of that difficult matter of
 the danger of the [[Soul|soul]], which has unsettled so many just minds. 
 To [[Hope|hope]] for all souls is imperative; and it is quite tenable that
 their salvation is inevitable.  It is tenable, but it is not
@@ -13086,7 +13040,7 @@ not that he would lose his [[Soul|soul]], but that he must take care that he did
 In Christian morals, in short, it is wicked to call a man "damned": 
 but it is strictly religious and philosophic to call him damnable.
 
-     All [[Christianity]] concentrates on the man at the [[Cross|cross]]-roads. 
+All [[Christianity]] concentrates on the man at the [[Cross|cross]]-roads. 
 The vast and shallow philosophies, the huge syntheses of humbug,
 all talk about ages and evolution and ultimate developments. 
 The true [[philosophy]] is concerned with the instant.  Will a man take
@@ -13106,7 +13060,7 @@ a serial story in a magazine:  life ends with the promise (or menace)
 life imitates the serial and [[Leaves|leaves]] off at the exciting moment. 
 For [[Death|death]] is distinctly an exciting moment.
 
-     But the point is that a story is exciting because it has in it
+But the point is that a story is exciting because it has in it
 so strong an element of will, of what theology calls free-will. 
 You cannot finish a sum how you like.  But you can finish a story
 how you like.  When somebody discovered the Differential Calculus
@@ -13133,7 +13087,7 @@ he may be a patient.  But if he is to be saved from forging, he must be
 not a patient but an IMPATIENT.  He must be personally impatient with forgery. 
 All moral [[Reform|reform]] must start in the active not the passive will.
 
-     Here again we reach the same substantial conclusion. 
+Here again we reach the same substantial conclusion. 
 In so far as we [[Desire|desire]] the definite reconstructions and
 the dangerous revolutions which have distinguished European civilization,
 we shall not discourage the thought of possible ruin; we shall rather
@@ -13142,7 +13096,7 @@ how right things are, of course we shall only say that they must go right.
 But if we particularly want to MAKE them go right, we must insist
 that they may go wrong.
 
-     Lastly, this [[Truth|truth]] is yet again true in the case of the common
+Lastly, this [[Truth|truth]] is yet again true in the case of the common
 modern attempts to diminish or to explain away the divinity of [[Christ]]. 
 The thing may be true or not; that I shall deal with before I end. 
 But if the divinity is true it is certainly terribly revolutionary. 
@@ -13203,7 +13157,7 @@ non che avrebbe perduto l'[[Soul|anima]], ma che doveva badare a non perderla.
 Nella morale cristiana, in breve, è cosa malvagia chiamare un uomo «dannato»:
 ma è cosa rigorosamente religiosa e filosofica chiamarlo dannabile.
 
-     Tutta la [[Christianity|cristianità]] si concentra sull'uomo al [[Cross|crocevia]].
+Tutta la [[Christianity|cristianità]] si concentra sull'uomo al [[Cross|crocevia]].
 Le vaste e superficiali filosofie, le enormi sintesi di ciarpame,
 parlano tutte di epoche e di evoluzione e di sviluppi ultimi.
 La vera [[philosophy|filosofia]] si occupa dell'istante. Prenderà l'uomo
@@ -13223,7 +13177,7 @@ a un romanzo a puntate su una rivista: la vita finisce con la promessa (o la min
 la vita imita il romanzo a puntate e si [[Leaves|interrompe]] nel momento più emozionante.
 Perché la [[Death|morte]] è, senza dubbio, un momento emozionante.
 
-     Ma il punto è che una storia è emozionante perché contiene in sé
+Ma il punto è che una storia è emozionante perché contiene in sé
 un elemento così forte di volontà, di ciò che la teologia chiama libero arbitrio.
 Non puoi finire un'addizione come ti pare. Ma puoi finire una storia
 come ti pare. Quando qualcuno scoprì il calcolo differenziale
@@ -13250,7 +13204,7 @@ può essere un paziente. Ma se deve essere salvato dal falsificare, deve essere
 non un paziente ma un IMPAZIENTE. Deve essere personalmente impaziente col falso.
 Ogni [[Reform|riforma]] morale deve cominciare nella volontà attiva, non nella passiva.
 
-     Anche qui giungiamo alla medesima sostanziale conclusione.
+Anche qui giungiamo alla medesima sostanziale conclusione.
 Nella misura in cui [[Desire|desideriamo]] le ricostruzioni precise e
 le pericolose rivoluzioni che hanno contraddistinto la civiltà europea,
 non scoraggeremo il pensiero di una possibile rovina; anzi lo
@@ -13259,7 +13213,7 @@ quanto le cose siano giuste, certo diremo soltanto che devono andar bene.
 Ma se vogliamo in particolare FARLE andar bene, dobbiamo insistere
 sul fatto che possono andar male.
 
-     Infine, questa [[Truth|verità]] è ancora una volta vera nel caso dei comuni
+Infine, questa [[Truth|verità]] è ancora una volta vera nel caso dei comuni
 tentativi moderni di sminuire o di spiegar via la divinità di [[Christ|Cristo]].
 La cosa può essere vera o no; di ciò tratterò prima di concludere.
 Ma se la divinità è vera, essa è certamente terribilmente rivoluzionaria.
@@ -13297,11 +13251,10 @@ essere un ateo.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_14" data-title="Orthodoxy — Vii The Eternal Revolution (part 14)" data-chapter="Story 07 Vii The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_14" data-title="Orthodoxy — VII The Eternal Revolution (part 14)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
 
-# [[ortho14]] — Vii The Eternal Revolution (part 14)
 
-     These can be called the essentials of the old orthodoxy,
+These can be called the essentials of the old orthodoxy,
 of which the chief merit is that it is the natural fountain of revolution
 and [[Reform|reform]]; and of which the chief defect is that it is obviously
 only an abstract assertion.  Its main advantage is that it is
@@ -13373,13 +13326,12 @@ E tuttavia la cosa pende dai cieli senza un graffio. I suoi avversari non riesco
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_01" data-title="Orthodoxy — Ix Authority And The Adventurer (part 1)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_01" data-title="Orthodoxy — IX Authority And The Adventurer (part 1)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 1)
 
 IX AUTHORITY AND THE ADVENTURER
 
-     The last chapter has been concerned with the contention
+The last chapter has been concerned with the contention
 that orthodoxy is not only (as is often urged) the only safe guardian
 of [[morality]] or order, but is also the only logical guardian of liberty,
 innovation and advance.  If we wish to pull down the prosperous oppressor
@@ -13405,7 +13357,7 @@ favour of fixed rules and clear dogmas.  The RULES of a club
 are occasionally in favour of the poor member.  The drift of a club
 is always in favour of the rich one.
 
-     And now we come to the crucial question which truly concludes
+And now we come to the crucial question which truly concludes
 the whole matter.  A reasonable agnostic, if he has happened to
 agree with me so far, may justly turn round and say, "You have found
 a practical [[philosophy]] in the doctrine of the Fall; very [[Well|well]]. 
@@ -13432,7 +13384,7 @@ and leave all the rest, all the absolute dogmas that are
 in their [[Nature|nature]] incomprehensible?"  This is the real question;
 this is the last question; and it is a pleasure to try to answer it.
 
-     The first answer is simply to say that I am a rationalist. 
+The first answer is simply to say that I am a rationalist. 
 I like to have some intellectual justification for my intuitions. 
 If I am treating man as a fallen being it is an intellectual convenience
 to me to believe that he fell; and I find, for some odd
@@ -13452,7 +13404,7 @@ should be thought to suffer from the absence of the ordinary apologetic
 I will here very briefly summarise my own arguments and conclusions
 on the purely objective or scientific [[Truth|truth]] of the matter.
 
-     If I am asked, as a purely intellectual question,
+If I am asked, as a purely intellectual question,
 why I believe in [[Christianity]], I can only answer, "For the same reason
 that an intelligent agnostic disbelieves in [[Christianity]]."
 I believe in it quite rationally upon the evidence.  But the evidence
@@ -13516,21 +13468,20 @@ that all religion begins.
 
 IX L'AUTORITÀ E L'AVVENTURIERO
 
-     Il capitolo precedente si è occupato della tesi secondo cui l'ortodossia non è soltanto (come spesso si sostiene) l'unica custode sicura della [[morality|moralità]] o dell'ordine, ma è anche l'unica custode logica della libertà, dell'innovazione e del progresso. Se vogliamo abbattere l'oppressore prospero non possiamo farlo con la nuova dottrina della perfettibilità umana; possiamo farlo con l'antica dottrina del [[Original Sin|Peccato Originale]]. Se vogliamo sradicare le crudeltà connaturate o risollevare le popolazioni perdute non possiamo farlo con la teoria scientifica secondo cui la materia precede la mente; possiamo farlo con la teoria [[Supernatural|soprannaturale]] secondo cui la mente precede la materia. Se vogliamo in modo particolare destare gli uomini alla vigilanza sociale e all'infaticabile ricerca dell'azione, non possiamo giovarvi molto insistendo sul Dio Immanente e sulla Luce Interiore: poiché questi sono, tutt'al più, ragioni di appagamento; possiamo invece giovarvi assai insistendo sul Dio trascendente e sul barlume che vola e si sottrae; perché ciò significa divina inquietudine. Se vogliamo in particolare affermare l'idea di un generoso equilibrio contro quella di una spaventosa autocrazia, saremo istintivamente trinitari piuttosto che unitari. Se [[Desire|desideriamo]] che la civiltà europea sia un'incursione e un salvataggio, insisteremo piuttosto sul fatto che le anime sono in reale pericolo che non sul fatto che il loro pericolo sia in fondo irreale. E se vogliamo esaltare il reietto e il crocifisso, preferiremo pensare che a essere crocifisso sia stato un vero Dio, piuttosto che un semplice saggio o [[Hero|eroe]]. Soprattutto, se vogliamo proteggere i poveri saremo a favore di regole fisse e di dogmi chiari. Le REGOLE di un circolo sono di quando in quando a favore del socio povero. La tendenza di un circolo è sempre a favore di quello ricco.
+Il capitolo precedente si è occupato della tesi secondo cui l'ortodossia non è soltanto (come spesso si sostiene) l'unica custode sicura della [[morality|moralità]] o dell'ordine, ma è anche l'unica custode logica della libertà, dell'innovazione e del progresso. Se vogliamo abbattere l'oppressore prospero non possiamo farlo con la nuova dottrina della perfettibilità umana; possiamo farlo con l'antica dottrina del [[Original Sin|Peccato Originale]]. Se vogliamo sradicare le crudeltà connaturate o risollevare le popolazioni perdute non possiamo farlo con la teoria scientifica secondo cui la materia precede la mente; possiamo farlo con la teoria [[Supernatural|soprannaturale]] secondo cui la mente precede la materia. Se vogliamo in modo particolare destare gli uomini alla vigilanza sociale e all'infaticabile ricerca dell'azione, non possiamo giovarvi molto insistendo sul Dio Immanente e sulla Luce Interiore: poiché questi sono, tutt'al più, ragioni di appagamento; possiamo invece giovarvi assai insistendo sul Dio trascendente e sul barlume che vola e si sottrae; perché ciò significa divina inquietudine. Se vogliamo in particolare affermare l'idea di un generoso equilibrio contro quella di una spaventosa autocrazia, saremo istintivamente trinitari piuttosto che unitari. Se [[Desire|desideriamo]] che la civiltà europea sia un'incursione e un salvataggio, insisteremo piuttosto sul fatto che le anime sono in reale pericolo che non sul fatto che il loro pericolo sia in fondo irreale. E se vogliamo esaltare il reietto e il crocifisso, preferiremo pensare che a essere crocifisso sia stato un vero Dio, piuttosto che un semplice saggio o [[Hero|eroe]]. Soprattutto, se vogliamo proteggere i poveri saremo a favore di regole fisse e di dogmi chiari. Le REGOLE di un circolo sono di quando in quando a favore del socio povero. La tendenza di un circolo è sempre a favore di quello ricco.
 
-     E ora giungiamo alla questione cruciale che davvero conclude l'intera faccenda. Un ragionevole agnostico, se per caso si è trovato d'accordo con me fin qui, può giustamente voltarsi e dire: «Avete trovato una [[philosophy|filosofia]] pratica nella dottrina della Caduta; [[Well|benissimo]]. Avete trovato un aspetto della [[democracy|democrazia]] oggi pericolosamente trascurato saggiamente affermato nel [[Original Sin|Peccato Originale]]; d'accordo. Avete trovato una [[Truth|verità]] nella dottrina dell'inferno; me ne rallegro con voi. Siete convinto che gli adoratori di un Dio personale guardino verso l'esterno e siano progressivi; me ne rallegro con loro. Ma anche ammesso che quelle dottrine racchiudano quelle verità, perché non potete prendere le verità e lasciare le dottrine? Concesso che tutta la società moderna si fidi troppo dei ricchi perché non tiene conto della debolezza umana; concesso che le epoche ortodosse abbiano avuto un grande vantaggio perché (credendo nella Caduta) tenevano conto della debolezza umana, perché non potete semplicemente tenere conto della debolezza umana senza credere nella Caduta? Se avete scoperto che l'idea della dannazione rappresenta una sana idea di pericolo, perché non potete semplicemente prendere l'idea del pericolo e lasciare l'idea della dannazione? Se vedete chiaramente il nòcciolo di buon senso dentro il guscio dell'ortodossia cristiana, perché non potete semplicemente prendere il nòcciolo e lasciare il guscio? Perché non potete (per usare quella frase fatta dei giornali che io, in quanto agnostico di elevata dottrina, mi vergogno un poco di usare) perché non potete semplicemente prendere ciò che vi è di buono nel [[Christianity|Cristianesimo]], ciò che potete definire prezioso, ciò che potete comprendere, e lasciare tutto il resto, tutti i dogmi assoluti che sono per loro [[Nature|natura]] incomprensibili?». Questa è la vera domanda; questa è l'ultima domanda; ed è un piacere provare a rispondervi.
+E ora giungiamo alla questione cruciale che davvero conclude l'intera faccenda. Un ragionevole agnostico, se per caso si è trovato d'accordo con me fin qui, può giustamente voltarsi e dire: «Avete trovato una [[philosophy|filosofia]] pratica nella dottrina della Caduta; [[Well|benissimo]]. Avete trovato un aspetto della [[democracy|democrazia]] oggi pericolosamente trascurato saggiamente affermato nel [[Original Sin|Peccato Originale]]; d'accordo. Avete trovato una [[Truth|verità]] nella dottrina dell'inferno; me ne rallegro con voi. Siete convinto che gli adoratori di un Dio personale guardino verso l'esterno e siano progressivi; me ne rallegro con loro. Ma anche ammesso che quelle dottrine racchiudano quelle verità, perché non potete prendere le verità e lasciare le dottrine? Concesso che tutta la società moderna si fidi troppo dei ricchi perché non tiene conto della debolezza umana; concesso che le epoche ortodosse abbiano avuto un grande vantaggio perché (credendo nella Caduta) tenevano conto della debolezza umana, perché non potete semplicemente tenere conto della debolezza umana senza credere nella Caduta? Se avete scoperto che l'idea della dannazione rappresenta una sana idea di pericolo, perché non potete semplicemente prendere l'idea del pericolo e lasciare l'idea della dannazione? Se vedete chiaramente il nòcciolo di buon senso dentro il guscio dell'ortodossia cristiana, perché non potete semplicemente prendere il nòcciolo e lasciare il guscio? Perché non potete (per usare quella frase fatta dei giornali che io, in quanto agnostico di elevata dottrina, mi vergogno un poco di usare) perché non potete semplicemente prendere ciò che vi è di buono nel [[Christianity|Cristianesimo]], ciò che potete definire prezioso, ciò che potete comprendere, e lasciare tutto il resto, tutti i dogmi assoluti che sono per loro [[Nature|natura]] incomprensibili?». Questa è la vera domanda; questa è l'ultima domanda; ed è un piacere provare a rispondervi.
 
-     La prima risposta è semplicemente dire che io sono un razionalista. Mi piace avere qualche giustificazione intellettuale per le mie intuizioni. Se tratto l'uomo come un essere caduto, per me è una comodità intellettuale credere che sia caduto; e trovo, per qualche strana ragione psicologica, di saper trattare meglio l'esercizio del libero arbitrio di un uomo se credo che egli lo possieda. Ma in questa materia io sono ancora più decisamente razionalista. Non ho intenzione di trasformare questo libro in una delle solite [[Apologetics|apologetiche]] cristiane; sarei lieto di incontrare in qualsiasi altro [[Time|momento]] i nemici del [[Christianity|Cristianesimo]] in quell'arena più ovvia. Qui mi limito a dare un resoconto della mia crescita nella certezza spirituale. Ma posso indugiare a osservare che quanto più consideravo i meri argomenti astratti contro la cosmologia cristiana, tanto meno li stimavo. Voglio dire che, avendo trovato che l'atmosfera morale dell'Incarnazione era buon senso, guardai poi agli affermati argomenti intellettuali contro l'Incarnazione e li trovai puro nonsenso. Nel caso si pensasse che l'argomentazione soffra dell'assenza della consueta apologetica, riassumerò qui molto brevemente le mie argomentazioni e conclusioni sulla [[Truth|verità]] puramente oggettiva o scientifica della questione.
+La prima risposta è semplicemente dire che io sono un razionalista. Mi piace avere qualche giustificazione intellettuale per le mie intuizioni. Se tratto l'uomo come un essere caduto, per me è una comodità intellettuale credere che sia caduto; e trovo, per qualche strana ragione psicologica, di saper trattare meglio l'esercizio del libero arbitrio di un uomo se credo che egli lo possieda. Ma in questa materia io sono ancora più decisamente razionalista. Non ho intenzione di trasformare questo libro in una delle solite [[Apologetics|apologetiche]] cristiane; sarei lieto di incontrare in qualsiasi altro [[Time|momento]] i nemici del [[Christianity|Cristianesimo]] in quell'arena più ovvia. Qui mi limito a dare un resoconto della mia crescita nella certezza spirituale. Ma posso indugiare a osservare che quanto più consideravo i meri argomenti astratti contro la cosmologia cristiana, tanto meno li stimavo. Voglio dire che, avendo trovato che l'atmosfera morale dell'Incarnazione era buon senso, guardai poi agli affermati argomenti intellettuali contro l'Incarnazione e li trovai puro nonsenso. Nel caso si pensasse che l'argomentazione soffra dell'assenza della consueta apologetica, riassumerò qui molto brevemente le mie argomentazioni e conclusioni sulla [[Truth|verità]] puramente oggettiva o scientifica della questione.
 
-     Se mi si chiede, come pura questione intellettuale, perché io creda nel [[Christianity|Cristianesimo]], posso solo rispondere: «Per la stessa ragione per cui un intelligente agnostico non crede nel [[Christianity|Cristianesimo]]». Vi credo del tutto razionalmente, sulla base delle prove. Ma le prove, nel mio caso come in quello dell'intelligente agnostico, non stanno realmente in questa o quella pretesa dimostrazione; stanno in un enorme accumulo di fatti piccoli ma unanimi. Il laicista non è da biasimare perché le sue obiezioni al [[Christianity|Cristianesimo]] sono disparate e persino frammentarie; è proprio tale prova frammentaria che convince la mente. Voglio dire che un uomo può [[Well|ben]] essere meno convinto di una [[philosophy|filosofia]] da quattro libri che da un libro, una battaglia, un paesaggio e un vecchio amico. Il fatto stesso che le cose siano di generi diversi accresce l'importanza del fatto che tutte convergono verso una sola conclusione. Ora, la non-[[Christianity|cristianità]] dell'uomo colto medio di oggi è quasi sempre, per rendergli giustizia, fatta di queste esperienze slegate ma vive. Posso solo dire che le mie prove a favore del [[Christianity|Cristianesimo]] sono dello stesso genere vivido ma vario delle sue prove contro di esso. Poiché quando guardo a queste varie verità anticristiane, scopro semplicemente che nessuna di esse è vera. Scopro che la vera corrente e la vera forza di tutti i fatti scorrono nella direzione opposta. Prendiamo dei casi. Più di un uomo moderno assennato deve aver abbandonato il [[Christianity|Cristianesimo]] sotto la pressione di tre convinzioni convergenti come queste: primo, che gli uomini, per forma, struttura e [[Sexuality|sessualità]], sono in fin dei conti molto simili alle bestie, una semplice varietà del regno animale; secondo, che la religione primordiale sorse dall'ignoranza e dalla [[Fear|paura]]; terzo, che i sacerdoti hanno afflitto le società di amarezza e cupezza. Quei tre argomenti anticristiani sono assai diversi; ma sono tutti del tutto logici e legittimi; e tutti convergono. La sola obiezione che si può muovere loro (io scopro) è che sono tutti falsi. Se smettete di guardare libri sulle bestie e sugli uomini, se cominciate a guardare le bestie e gli uomini, allora (se avete un po' di [[Humour|umorismo]] o di [[Imagination|immaginazione]], un qualche senso del frenetico o del farsesco) osserverete che la cosa sorprendente non è quanto l'uomo sia simile ai bruti, ma quanto sia dissimile. È la mostruosa misura della sua divergenza che richiede una spiegazione. Che l'uomo e il bruto siano simili è, in un certo senso, un truismo; ma che, essendo così simili, debbano poi essere così follemente dissimili, questo è lo sconcerto e l'enigma. Che una scimmia abbia mani è di gran lunga meno interessante per il filosofo del fatto che, avendo mani, essa non ne faccia quasi nulla; non gioca agli aliossi né suona il violino; non scolpisce il marmo né trincia il montone. Si parla di architettura barbarica e di arte degradata. Ma gli elefanti non costruiscono colossali templi d'avorio, nemmeno in stile rococò; i cammelli non dipingono nemmeno brutti quadri, benché forniti del materiale di molti pennelli di pelo di cammello. Certi sognatori moderni dicono che le formiche e le [[Bees|api]] hanno una società superiore alla nostra. Hanno, in effetti, una civiltà; ma proprio quella [[Truth|verità]] ci ricorda soltanto che è una civiltà inferiore. Chi ha mai trovato un [[Hill|formicaio]] adorno delle statue di formiche celebri? Chi ha mai visto un alveare intagliato con le immagini di splendide regine di un tempo? No; l'abisso fra l'uomo e le altre creature può avere una spiegazione naturale, ma è un abisso. Parliamo di [[Animals|animali]] selvaggi; ma l'uomo è l'unico animale selvaggio. È l'uomo che ha rotto gli argini. Tutti gli altri [[Animals|animali]] sono [[Animals|animali]] mansueti; seguono la rude rispettabilità della tribù o del tipo. Tutti gli altri [[Animals|animali]] sono [[Animals|animali]] domestici; l'uomo [[Alone|soltanto]] è sempre indomestico, sia come libertino sia come monaco. Cosicché questa prima superficiale ragione a favore del materialismo è, semmai, una ragione a favore del suo contrario; è esattamente là dove la biologia [[Leaves|cessa]] che ogni religione comincia.
+Se mi si chiede, come pura questione intellettuale, perché io creda nel [[Christianity|Cristianesimo]], posso solo rispondere: «Per la stessa ragione per cui un intelligente agnostico non crede nel [[Christianity|Cristianesimo]]». Vi credo del tutto razionalmente, sulla base delle prove. Ma le prove, nel mio caso come in quello dell'intelligente agnostico, non stanno realmente in questa o quella pretesa dimostrazione; stanno in un enorme accumulo di fatti piccoli ma unanimi. Il laicista non è da biasimare perché le sue obiezioni al [[Christianity|Cristianesimo]] sono disparate e persino frammentarie; è proprio tale prova frammentaria che convince la mente. Voglio dire che un uomo può [[Well|ben]] essere meno convinto di una [[philosophy|filosofia]] da quattro libri che da un libro, una battaglia, un paesaggio e un vecchio amico. Il fatto stesso che le cose siano di generi diversi accresce l'importanza del fatto che tutte convergono verso una sola conclusione. Ora, la non-[[Christianity|cristianità]] dell'uomo colto medio di oggi è quasi sempre, per rendergli giustizia, fatta di queste esperienze slegate ma vive. Posso solo dire che le mie prove a favore del [[Christianity|Cristianesimo]] sono dello stesso genere vivido ma vario delle sue prove contro di esso. Poiché quando guardo a queste varie verità anticristiane, scopro semplicemente che nessuna di esse è vera. Scopro che la vera corrente e la vera forza di tutti i fatti scorrono nella direzione opposta. Prendiamo dei casi. Più di un uomo moderno assennato deve aver abbandonato il [[Christianity|Cristianesimo]] sotto la pressione di tre convinzioni convergenti come queste: primo, che gli uomini, per forma, struttura e [[Sexuality|sessualità]], sono in fin dei conti molto simili alle bestie, una semplice varietà del regno animale; secondo, che la religione primordiale sorse dall'ignoranza e dalla [[Fear|paura]]; terzo, che i sacerdoti hanno afflitto le società di amarezza e cupezza. Quei tre argomenti anticristiani sono assai diversi; ma sono tutti del tutto logici e legittimi; e tutti convergono. La sola obiezione che si può muovere loro (io scopro) è che sono tutti falsi. Se smettete di guardare libri sulle bestie e sugli uomini, se cominciate a guardare le bestie e gli uomini, allora (se avete un po' di [[Humour|umorismo]] o di [[Imagination|immaginazione]], un qualche senso del frenetico o del farsesco) osserverete che la cosa sorprendente non è quanto l'uomo sia simile ai bruti, ma quanto sia dissimile. È la mostruosa misura della sua divergenza che richiede una spiegazione. Che l'uomo e il bruto siano simili è, in un certo senso, un truismo; ma che, essendo così simili, debbano poi essere così follemente dissimili, questo è lo sconcerto e l'enigma. Che una scimmia abbia mani è di gran lunga meno interessante per il filosofo del fatto che, avendo mani, essa non ne faccia quasi nulla; non gioca agli aliossi né suona il violino; non scolpisce il marmo né trincia il montone. Si parla di architettura barbarica e di arte degradata. Ma gli elefanti non costruiscono colossali templi d'avorio, nemmeno in stile rococò; i cammelli non dipingono nemmeno brutti quadri, benché forniti del materiale di molti pennelli di pelo di cammello. Certi sognatori moderni dicono che le formiche e le [[Bees|api]] hanno una società superiore alla nostra. Hanno, in effetti, una civiltà; ma proprio quella [[Truth|verità]] ci ricorda soltanto che è una civiltà inferiore. Chi ha mai trovato un [[Hill|formicaio]] adorno delle statue di formiche celebri? Chi ha mai visto un alveare intagliato con le immagini di splendide regine di un tempo? No; l'abisso fra l'uomo e le altre creature può avere una spiegazione naturale, ma è un abisso. Parliamo di [[Animals|animali]] selvaggi; ma l'uomo è l'unico animale selvaggio. È l'uomo che ha rotto gli argini. Tutti gli altri [[Animals|animali]] sono [[Animals|animali]] mansueti; seguono la rude rispettabilità della tribù o del tipo. Tutti gli altri [[Animals|animali]] sono [[Animals|animali]] domestici; l'uomo [[Alone|soltanto]] è sempre indomestico, sia come libertino sia come monaco. Cosicché questa prima superficiale ragione a favore del materialismo è, semmai, una ragione a favore del suo contrario; è esattamente là dove la biologia [[Leaves|cessa]] che ogni religione comincia.
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_02" data-title="Orthodoxy — Ix Authority And The Adventurer (part 2)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_02" data-title="Orthodoxy — IX Authority And The Adventurer (part 2)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 2)
 
-     It would be the same if I examined the second of the three
+It would be the same if I examined the second of the three
 chance rationalist arguments; the argument that all that we call divine
 began in some darkness and terror.  When I did attempt to examine
 the foundations of this modern idea I simply found that there were none. 
@@ -13551,7 +13502,7 @@ Learned men literally say that this pre-historic calamity cannot
 be true because every race of mankind remembers it.  I cannot keep pace
 with these paradoxes.
 
-     And if we took the third chance instance, it would be the same;
+And if we took the third chance instance, it would be the same;
 the view that priests darken and embitter the world.  I look at the world
 and simply discover that they don't.  Those countries in Europe
 which are still influenced by priests, are exactly the countries
@@ -13568,7 +13519,7 @@ They did not fall over; but when their friends returned to them
 they were all huddled in terror in the centre of the island;
 and their [[Song|song]] had ceased.
 
-     Thus these three facts of experience, such facts as go to make
+Thus these three facts of experience, such facts as go to make
 an agnostic, are, in this view, turned totally round.  I am left saying,
 "Give me an explanation, first, of the towering eccentricity of man
 among the brutes; second, of the vast human tradition of
@@ -13592,7 +13543,7 @@ man in the street in being guided by three or four odd facts
 all pointing to something; only when I came to look at the facts
 I always found they pointed to something else.
 
-     I have given an imaginary triad of such ordinary anti-Christian arguments;
+I have given an imaginary triad of such ordinary anti-Christian arguments;
 if that be too narrow a basis I will give on the spur of the moment another. 
 These are the kind of thoughts which in combination create the impression
 that [[Christianity]] is something weak and diseased.  First, for instance,
@@ -13656,7 +13607,7 @@ Uomini dotti dicono, alla lettera, che questa preistorica calamità non può
 essere vera proprio perché ogni razza dell'umanità la ricorda.  Non riesco a tenere il passo
 con questi paradossi.
 
-     E se prendessimo il terzo esempio scelto a caso, sarebbe lo stesso;
+E se prendessimo il terzo esempio scelto a caso, sarebbe lo stesso;
 la tesi secondo cui i preti oscurano e inaspriscono il mondo.  Io guardo il mondo
 e scopro semplicemente che non lo fanno.  Quei paesi d'Europa
 che sono ancora influenzati dai preti sono esattamente i paesi
@@ -13673,7 +13624,7 @@ Non caddero giù; ma quando i loro amici tornarono da loro
 li trovarono tutti rannicchiati per il terrore al centro dell'isola;
 e il loro [[Song|canto]] era cessato.
 
-     Così questi tre fatti dell'esperienza, i fatti stessi che concorrono a fare
+Così questi tre fatti dell'esperienza, i fatti stessi che concorrono a fare
 un agnostico, sono, in questa prospettiva, capovolti del tutto.  Mi ritrovo a dire:
 «Datemi una spiegazione, primo, della torreggiante eccentricità dell'uomo
 tra i bruti; secondo, della vasta tradizione umana di
@@ -13697,7 +13648,7 @@ della strada nel lasciarmi guidare da tre o quattro fatti bizzarri
 che tutti additano qualcosa; solo che, quando venni a guardare i fatti,
 scoprii sempre che essi additavano qualcos'altro.
 
-     Ho fornito una triade immaginaria di simili ordinari argomenti anticristiani;
+Ho fornito una triade immaginaria di simili ordinari argomenti anticristiani;
 se questa base fosse troppo angusta, ne fornirò lì per lì un'altra.
 Sono questi i generi di pensieri che, combinati, creano l'impressione
 che il [[Christianity|Cristianesimo]] sia qualcosa di debole e malato.  Primo, per esempio,
@@ -13739,11 +13690,10 @@ da qualche altezza [[Supernatural|soprannaturale]] contempla una sintesi ancor p
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_03" data-title="Orthodoxy — Ix Authority And The Adventurer (part 3)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_03" data-title="Orthodoxy — IX Authority And The Adventurer (part 3)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 3)
 
-     I take in order the next instance offered:  the idea that [[Christianity]]
+I take in order the next instance offered:  the idea that [[Christianity]]
 belongs to the Dark Ages.  Here I did not satisfy myself with reading
 modern generalisations; I read a little [[history]].  And in [[history]]
 I found that [[Christianity]], so far from belonging to the Dark Ages,
@@ -13771,7 +13721,7 @@ is the thing we have all heard said of it.  How can we say that
 the Church wishes to bring us back into the Dark Ages? 
 The Church was the only thing that ever brought us out of them.
 
-     I added in this second trinity of objections an idle instance
+I added in this second trinity of objections an idle instance
 taken from those who feel such people as the Irish to be weakened
 or made stagnant by superstition.  I only added it because this is
 a peculiar case of a statement of fact that turns out to be
@@ -13807,7 +13757,7 @@ with so fixed a [[Faith|faith]] in justice that they get what they ask,
 while others go empty away; so that the most helpless island of the Empire
 can actually help itself?"
 
-     There is an answer:  it is an answer to say that the energy
+There is an answer:  it is an answer to say that the energy
 is truly from outside the world; that it is psychic, or at least
 one of the results of a real psychical disturbance.  The highest gratitude
 and respect are due to the great human civilizations such as the old Egyptian
@@ -13829,7 +13779,7 @@ was about to be gathered in [[Silence|silence]] to Assyria and Babylon,
 something entered into its [[Body|body]].  And Europe has had a strange life--
 it is not too much to say that it has had the JUMPS--ever since.
 
-     I have dealt at length with such typical triads of [[Doubt|doubt]]
+I have dealt at length with such typical triads of [[Doubt|doubt]]
 in order to convey the main contention--that my own case for [[Christianity]]
 is rational; but it is not simple.  It is an accumulation of varied facts,
 like the attitude of the ordinary agnostic.  But the ordinary agnostic
@@ -13875,7 +13825,7 @@ In una parola, la cosa più assurda che si possa dire della Chiesa
 la Chiesa desidera ricondurci nei Secoli Bui?
 La Chiesa fu l'unica cosa che mai ce ne trasse fuori.
 
-     In questa seconda triade di obiezioni aggiungevo un'istanza oziosa,
+In questa seconda triade di obiezioni aggiungevo un'istanza oziosa,
 tratta da coloro che sentono un popolo come quello irlandese indebolito
 o reso stagnante dalla superstizione. La aggiungevo soltanto perché è
 un caso peculiare di un'affermazione di fatto che si rivela
@@ -13911,7 +13861,7 @@ con una [[Faith|fede]] nella giustizia così salda che essi ottengono ciò che c
 mentre altri se ne vanno a mani vuote; sicché la più impotente isola dell'Impero
 può davvero aiutare se stessa?»
 
-     C'è una risposta: è una risposta dire che l'energia
+C'è una risposta: è una risposta dire che l'energia
 proviene veramente dal di fuori del mondo; che è psichica, o almeno
 uno degli esiti di un reale turbamento psichico. La più alta gratitudine
 e il più alto rispetto sono dovuti alle grandi civiltà umane, come l'antica egizia
@@ -13933,7 +13883,7 @@ stava per essere raccolta nel [[Silence|silenzio]] presso l'Assiria e Babilonia,
 qualcosa entrò nel suo [[Body|corpo]]. E da allora l'Europa ha avuto una strana vita:
 non è troppo dire che da allora ha avuto i SUSSULTI.
 
-     Ho trattato a lungo simili triadi tipiche di [[Doubt|dubbio]]
+Ho trattato a lungo simili triadi tipiche di [[Doubt|dubbio]]
 per trasmettere la tesi principale: che la mia stessa argomentazione a favore del [[Christianity|Cristianesimo]]
 è razionale, ma non è semplice. È un accumulo di fatti svariati,
 come l'atteggiamento dell'agnostico ordinario. Ma l'agnostico ordinario
@@ -13950,11 +13900,10 @@ il [[Supernatural|soprannaturale]] con la rapidità di un treno.
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_04" data-title="Orthodoxy — Ix Authority And The Adventurer (part 4)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_04" data-title="Orthodoxy — IX Authority And The Adventurer (part 4)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 4)
 
-     But among these million facts all flowing one way there is,
+But among these million facts all flowing one way there is,
 of course, one question sufficiently solid and separate to be
 treated briefly, but by itself; I mean the objective occurrence
 of the [[Supernatural|supernatural]].  In another chapter I have indicated
@@ -14011,7 +13960,7 @@ stupid because they say they have seen Iceland.  It is only fair to add
 that there is another argument that the unbeliever may rationally use
 against miracles, though he himself generally forgets to use it.
 
-     He may say that there has been in many miraculous stories
+He may say that there has been in many miraculous stories
 a notion of spiritual preparation and acceptance:  in short,
 that the miracle could only come to him who believed in it. 
 It may be so, and if it is so how are we to test it?  If we are inquiring
@@ -14033,7 +13982,7 @@ can see visions--even then, if you are interested in visions it is
 no point to object to believers."  You are still arguing in a circle--
 in that old mad circle with which this book began.
 
-     The question of whether miracles ever occur is a question
+The question of whether miracles ever occur is a question
 of common sense and of ordinary historical [[Imagination|imagination]]:  not of any
 final physical experiment.  One may here surely dismiss that
 quite brainless piece of pedantry which talks about the need for
@@ -14059,17 +14008,16 @@ or as if I insisted on perfect sunlight in order to see a solar eclipse.
 
 Ma fra questo milione di fatti che scorrono tutti nella medesima direzione ve n'è, si capisce, uno abbastanza solido e distinto da dover essere trattato brevemente, ma a sé stante: intendo l'obiettivo verificarsi del [[Supernatural|soprannaturale]]. In un altro capitolo ho segnalato la fallacia dell'usuale supposizione che il mondo debba essere impersonale perché è ordinato. Una persona è propensa a [[Desire|desiderare]] una cosa ordinata esattamente quanto una cosa disordinata. Ma la mia stessa positiva convinzione che la creazione personale sia più concepibile del fato materiale è, lo ammetto, in un certo senso indiscutibile. Non la chiamerò [[Faith|fede]] né intuizione, perché quelle parole si mescolano alla pura emozione: è rigorosamente una convinzione intellettuale; ma è una convinzione intellettuale PRIMARIA, come la certezza del [[Self|sé]] o del bene del vivere. Chiunque lo voglia, dunque, può pure definire la mia fede in Dio semplicemente mistica; la frase non merita che ci si azzuffi. Ma la mia convinzione che i miracoli siano avvenuti nella [[history|storia]] umana non è affatto una convinzione mistica; io vi credo su prove umane, come credo alla scoperta dell'[[america|America]]. Su questo punto c'è un semplice fatto logico che chiede soltanto di essere enunciato e chiarito. In un modo o nell'altro è sorta la straordinaria idea che chi non crede ai miracoli li consideri con freddezza e imparzialità, mentre chi vi crede li accetti solo in connessione con qualche dogma. Il fatto sta esattamente all'opposto. Coloro che credono ai miracoli li accettano (a torto o a ragione) perché ne hanno le prove. Coloro che non credono ai miracoli li negano (a torto o a ragione) perché hanno una dottrina che vi si oppone. La cosa aperta, ovvia, democratica è credere a una vecchia venditrice di mele quando testimonia di un miracolo, esattamente come le si crede quando testimonia di un assassinio. Il procedimento schietto e popolare è fidarsi della parola del contadino intorno al [[Ghost|fantasma]] esattamente quanto ci si fida della sua parola intorno al padrone di casa. Essendo un contadino, egli nutrirà probabilmente una buona dose di sano agnosticismo verso entrambi. Eppure si potrebbe riempire il British Museum con le testimonianze pronunciate dai contadini a favore del [[Ghost|fantasma]]. Se si tratta di testimonianza umana, c'è una cateratta soffocante di testimonianza umana a favore del [[Supernatural|soprannaturale]]. Se la si respinge, si può intendere soltanto una di due cose. Si respinge il racconto del contadino sul [[Ghost|fantasma]] o perché l'uomo è un contadino, o perché il racconto è un racconto di [[Ghost|fantasmi]]. Ossia: o si nega il principio fondamentale della [[democracy|democrazia]], oppure si afferma il principio fondamentale del materialismo, cioè l'astratta impossibilità del miracolo. Si ha pieno diritto di farlo; ma in tal caso il dogmatico siete voi. Siamo noi cristiani ad accettare ogni prova reale; siete voi razionalisti a rifiutare le prove reali, costretti a ciò dal vostro credo. Ma io non sono costretto da alcun credo in questa materia, e guardando con imparzialità a certi miracoli di tempi medievali e moderni sono giunto alla conclusione che essi avvennero. Ogni argomento contro questi semplici fatti è sempre un argomento circolare. Se dico: «I documenti medievali attestano certi miracoli tanto quanto attestano certe battaglie», mi rispondono: «Ma i medievali erano superstiziosi»; se voglio sapere in che cosa erano superstiziosi, l'unica risposta ultima è che credevano nei miracoli. Se dico: «Un contadino ha visto un [[Ghost|fantasma]]», mi si dice: «Ma i contadini sono così creduloni». Se domando: «Perché creduloni?», l'unica risposta è che vedono [[Ghosts|fantasmi]]. L'Islanda è impossibile perché soltanto marinai stupidi l'hanno vista; e i marinai sono stupidi soltanto perché dicono di aver visto l'Islanda. È giusto aggiungere che c'è un altro argomento che l'incredulo può razionalmente usare contro i miracoli, benché egli stesso di solito dimentichi di usarlo.
 
-     Egli può dire che in molte storie di miracoli era presente una nozione di preparazione e di accettazione spirituale: insomma, che il miracolo poteva venire soltanto a chi vi credeva. Può darsi che sia così; e se è così, come potremo verificarlo? Se stiamo indagando se certi risultati seguono alla [[Faith|fede]], è inutile ripetere stancamente che (nel caso avvengano) essi seguono alla [[Faith|fede]]. Se la [[Faith|fede]] è una delle condizioni, chi è privo di [[Faith|fede]] ha il più sano dei diritti di ridere. Ma non ha alcun diritto di giudicare. Essere credenti sarà magari, se volete, brutto quanto essere ubriachi; eppure, se stessimo estraendo fatti psicologici dagli ubriachi, sarebbe assurdo continuare a rinfacciar loro di essere stati ubriachi. Supponiamo di indagare se gli uomini in collera vedano davvero una nebbia rossa dinanzi agli occhi. Supponiamo che sessanta eccellenti capifamiglia giurino che, adirati, hanno visto questa nube cremisi: sarebbe certo assurdo rispondere: «Oh, ma voi ammettete che in quel [[Time|momento]] eravate in collera». Essi potrebbero ragionevolmente ribattere (in un [[Chorus|coro]] stentoreo): «Come diamine potremmo scoprire, senza essere in collera, se le persone in collera vedono rosso?». Così i santi e gli asceti potrebbero razionalmente replicare: «Supponiamo che la questione sia se i credenti possano avere visioni: anche allora, se v'interessate delle visioni, non è il caso di obiettare che siano credenti». State ancora ragionando in cerchio, in quell'antico cerchio folle con cui questo libro è cominciato.
+Egli può dire che in molte storie di miracoli era presente una nozione di preparazione e di accettazione spirituale: insomma, che il miracolo poteva venire soltanto a chi vi credeva. Può darsi che sia così; e se è così, come potremo verificarlo? Se stiamo indagando se certi risultati seguono alla [[Faith|fede]], è inutile ripetere stancamente che (nel caso avvengano) essi seguono alla [[Faith|fede]]. Se la [[Faith|fede]] è una delle condizioni, chi è privo di [[Faith|fede]] ha il più sano dei diritti di ridere. Ma non ha alcun diritto di giudicare. Essere credenti sarà magari, se volete, brutto quanto essere ubriachi; eppure, se stessimo estraendo fatti psicologici dagli ubriachi, sarebbe assurdo continuare a rinfacciar loro di essere stati ubriachi. Supponiamo di indagare se gli uomini in collera vedano davvero una nebbia rossa dinanzi agli occhi. Supponiamo che sessanta eccellenti capifamiglia giurino che, adirati, hanno visto questa nube cremisi: sarebbe certo assurdo rispondere: «Oh, ma voi ammettete che in quel [[Time|momento]] eravate in collera». Essi potrebbero ragionevolmente ribattere (in un [[Chorus|coro]] stentoreo): «Come diamine potremmo scoprire, senza essere in collera, se le persone in collera vedono rosso?». Così i santi e gli asceti potrebbero razionalmente replicare: «Supponiamo che la questione sia se i credenti possano avere visioni: anche allora, se v'interessate delle visioni, non è il caso di obiettare che siano credenti». State ancora ragionando in cerchio, in quell'antico cerchio folle con cui questo libro è cominciato.
 
-     La questione se i miracoli avvengano mai è una questione di buon senso e di ordinaria [[Imagination|immaginazione]] storica: non di alcun esperimento fisico definitivo. Si può qui senz'altro liquidare quella pedanteria del tutto cervellotica che parla della necessità di «condizioni scientifiche» a proposito dei presunti fenomeni spirituali. Se domandiamo se un'[[Soul|anima]] morta possa comunicare con una vivente, è ridicolo insistere che ciò avvenga in condizioni nelle quali due anime viventi in senno non comunicherebbero mai seriamente l'una con l'altra. Il fatto che i [[Ghosts|fantasmi]] preferiscano l'oscurità non smentisce l'esistenza dei [[Ghosts|fantasmi]] più di quanto il fatto che gli [[lovers|innamorati]] preferiscano l'oscurità smentisca l'esistenza dell'[[Love|amore]]. Se scegliete di dire: «Crederò che la signorina Brown abbia chiamato il suo fidanzato "pervinca", o con qualsiasi altro appellativo affettuoso, purché ripeta la parola davanti a diciassette psicologi», allora io risponderò: «[[Well|Benissimo]]: se queste sono le vostre condizioni, non giungerete mai alla [[Truth|verità]], perché di certo lei non lo dirà». È tanto antiscientifico quanto antifilosofico stupirsi che in un'atmosfera priva di simpatia non sorgano certe straordinarie simpatie. È come se dicessi di non poter capire se ci fosse nebbia perché l'aria non era abbastanza limpida; o come se pretendessi la perfetta luce del sole per osservare un'eclissi solare.
+La questione se i miracoli avvengano mai è una questione di buon senso e di ordinaria [[Imagination|immaginazione]] storica: non di alcun esperimento fisico definitivo. Si può qui senz'altro liquidare quella pedanteria del tutto cervellotica che parla della necessità di «condizioni scientifiche» a proposito dei presunti fenomeni spirituali. Se domandiamo se un'[[Soul|anima]] morta possa comunicare con una vivente, è ridicolo insistere che ciò avvenga in condizioni nelle quali due anime viventi in senno non comunicherebbero mai seriamente l'una con l'altra. Il fatto che i [[Ghosts|fantasmi]] preferiscano l'oscurità non smentisce l'esistenza dei [[Ghosts|fantasmi]] più di quanto il fatto che gli [[lovers|innamorati]] preferiscano l'oscurità smentisca l'esistenza dell'[[Love|amore]]. Se scegliete di dire: «Crederò che la signorina Brown abbia chiamato il suo fidanzato "pervinca", o con qualsiasi altro appellativo affettuoso, purché ripeta la parola davanti a diciassette psicologi», allora io risponderò: «[[Well|Benissimo]]: se queste sono le vostre condizioni, non giungerete mai alla [[Truth|verità]], perché di certo lei non lo dirà». È tanto antiscientifico quanto antifilosofico stupirsi che in un'atmosfera priva di simpatia non sorgano certe straordinarie simpatie. È come se dicessi di non poter capire se ci fosse nebbia perché l'aria non era abbastanza limpida; o come se pretendessi la perfetta luce del sole per osservare un'eclissi solare.
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_05" data-title="Orthodoxy — Ix Authority And The Adventurer (part 5)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_05" data-title="Orthodoxy — IX Authority And The Adventurer (part 5)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 5)
 
-     As a common-sense conclusion, such as those to which we come
+As a common-sense conclusion, such as those to which we come
 about sex or about midnight ([[Well|well]] knowing that many details must
 in their own [[Nature|nature]] be concealed) I conclude that miracles do happen. 
 I am forced to it by a conspiracy of facts:  the fact that the men
@@ -14092,7 +14040,7 @@ good or bad.  A false [[Ghost|ghost]] disproves the reality of [[Ghosts|ghosts]]
 as much as a forged banknote disproves the existence of
 the Bank of England--if anything, it proves its existence.
 
-     Given this conviction that the spiritual phenomena do occur
+Given this conviction that the spiritual phenomena do occur
 (my evidence for which is complex but rational), we then collide with
 one of the worst mental evils of the age.  The greatest disaster
 of the nineteenth century was this:  that men began to use the word
@@ -14138,7 +14086,7 @@ like [[Water|water]], and comforting like [[Fire|fire]]; until I find some place
 where I am literally at [[Home|home]].  And there is only one such place
 to be found.
 
-     I have now said enough to show (to any one to whom
+I have now said enough to show (to any one to whom
 such an explanation is essential) that I have in the ordinary
 arena of [[Apologetics|apologetics]], a ground of belief.  In pure records of experiment
 (if these be taken democratically without contempt or favour)
@@ -14148,7 +14096,7 @@ that this curt discussion is my real reason for accepting [[Christianity]]
 instead of taking the moral good of [[Christianity]] as I should take it
 out of Confucianism.
 
-     I have another far more solid and central ground for
+I have another far more solid and central ground for
 submitting to it as a [[Faith|faith]], instead of merely picking up hints
 from it as a scheme.  And that is this:  that the Christian Church
 in its practical relation to my [[Soul|soul]] is a living teacher, not a dead one. 
@@ -14215,7 +14163,7 @@ buono o cattivo che sia. Un falso [[Ghost|fantasma]] confuta la realtà dei [[Gh
 quanto una banconota contraffatta confuta l'esistenza
 della Banca d'Inghilterra — semmai, ne prova l'esistenza.
 
-     Data questa convinzione che i fenomeni spirituali avvengono davvero
+Data questa convinzione che i fenomeni spirituali avvengono davvero
 (le mie prove al riguardo sono complesse ma razionali), ci scontriamo allora
 con uno dei peggiori mali mentali dell'epoca. Il più grande disastro
 del diciannovesimo secolo fu questo: che gli uomini cominciarono a usare la parola
@@ -14261,7 +14209,7 @@ come l'[[Water|acqua]], e di confortante come il [[Fire|fuoco]]; finché non tro
 dove io sia, alla lettera, a [[Home|casa]] mia. E un solo luogo simile
 si può trovare.
 
-     Ho detto ormai abbastanza per mostrare (a chiunque, per lui,
+Ho detto ormai abbastanza per mostrare (a chiunque, per lui,
 una tale spiegazione sia essenziale) che possiedo, nell'ordinaria
 arena dell'[[Apologetics|apologetica]], un fondamento di fede. Nei puri resoconti d'esperienza
 (se presi democraticamente, senza disprezzo né favore)
@@ -14271,7 +14219,7 @@ che questa spiccia discussione sia la mia vera ragione per accettare il [[Christ
 anziché prendere il bene morale del [[Christianity|Cristianesimo]] come lo prenderei
 dal Confucianesimo.
 
-     Ho un altro fondamento, assai più solido e centrale, per
+Ho un altro fondamento, assai più solido e centrale, per
 sottomettermi a esso come a una [[Faith|fede]], anziché limitarmi a raccogliere spunti
 da esso come da uno schema. Ed è questo: che la Chiesa cristiana
 nel suo rapporto pratico con la mia [[Soul|anima]] è un maestro vivo, non un maestro morto.
@@ -14314,11 +14262,10 @@ privilegio femminile, io non mi unirò al loro corteo.
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_06" data-title="Orthodoxy — Ix Authority And The Adventurer (part 6)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_06" data-title="Orthodoxy — IX Authority And The Adventurer (part 6)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 6)
 
-     For I remember with certainty this fixed psychological fact;
+For I remember with certainty this fixed psychological fact;
 that the very [[Time|time]] when I was most under a woman's authority,
 I was most full of flame and adventure.  Exactly because when my mother
 said that ants bit they did bite, and because [[Snow|snow]] did come in [[Winter|winter]]
@@ -14334,7 +14281,7 @@ Inch by inch I might discover what was the object of the ugly shape
 called a rake; or form some shadowy conjecture as to why my parents
 kept a cat.
 
-     So, since I have accepted Christendom as a mother and not merely
+So, since I have accepted Christendom as a mother and not merely
 as a chance example, I have found Europe and the world once more
 like the little [[Garden|garden]] where I stared at the symbolic shapes
 of cat and rake; I look at everything with the old elvish ignorance
@@ -14366,7 +14313,7 @@ experience is against me, as it is on the subject of Bach.
 Celibacy is one flower in my father's [[Garden|garden]], of which I have not been told
 the sweet or terrible name.  But I may be told it any day.
 
-     This, therefore, is, in conclusion, my reason for accepting
+This, therefore, is, in conclusion, my reason for accepting
 the religion and not merely the scattered and secular truths
 out of the religion.  I do it because the thing has not merely
 told this [[Truth|truth]] or that [[Truth|truth]], but has revealed itself as
@@ -14399,7 +14346,7 @@ for [[Christianity]] is the only frame for pagan [[Freedom|freedom]].  But in th
 modern [[philosophy]] the case is opposite; it is its outer ring
 that is obviously artistic and emancipated; its [[Despair|despair]] is within.
 
-     And its [[Despair|despair]] is this, that it does not really believe
+And its [[Despair|despair]] is this, that it does not really believe
 that there is any meaning in the universe; therefore it cannot [[Hope|hope]]
 to find any [[Romance|romance]]; its romances will have no plots.  A man cannot expect
 any adventures in the land of anarchy.  But a man can expect
@@ -14416,19 +14363,18 @@ the gate of all good [[philosophy]].  I have come into my second [[Childhood|chi
 
 Perché ricordo con certezza questo dato psicologico immutabile: che proprio nel [[Time|tempo]] in cui più mi trovavo sotto l'autorità di una donna, ero anche più colmo di fiamma e d'avventura. Appunto perché, quando mia madre diceva che le formiche mordono, mordevano davvero, e perché la [[Snow|neve]] veniva d'[[Winter|inverno]] (come lei diceva); perciò il mondo intero era per me una terra di fate colma di meravigliosi adempimenti, ed era come vivere in un'età ebraica, quando profezia dopo profezia si avverava. Uscivo, [[Child|bambino]], nel [[Garden|giardino]], ed esso era per me un luogo tremendo, precisamente perché ne possedevo la chiave: se non avessi tenuto alcuna chiave non sarebbe stato tremendo, ma domestico. Una landa deserta e senza significato non è nemmeno impressionante. Ma il [[Garden|giardino]] dell'[[Childhood|infanzia]] era affascinante, appunto perché ogni cosa aveva un significato fisso che, a suo tempo, poteva essere scoperto. Pollice a pollice potevo scoprire quale fosse lo scopo di quella brutta forma chiamata rastrello; o formulare qualche ombrosa congettura sul perché i miei genitori tenessero un gatto.
 
-     Così, poiché ho accolto la Cristianità come una madre e non come un semplice esempio casuale, ho ritrovato l'Europa e il mondo nuovamente simili al piccolo [[Garden|giardino]] in cui fissavo le forme simboliche del gatto e del rastrello; guardo ogni cosa con l'antica ignoranza e aspettazione da folletto. Questo o quel rito o dottrina può apparire brutto e straordinario come un rastrello; ma ho scoperto per esperienza che tali cose finiscono in qualche modo in erba e [[Flowers|fiori]]. Un ecclesiastico può sembrare inutile come un gatto, ma è anche altrettanto affascinante, poiché ci dev'essere una qualche strana ragione per la sua esistenza. Ne offro un esempio su cento; io non ho in me alcuna affinità istintiva con quell'entusiasmo per la verginità fisica, che è certo stato una nota della [[Christianity|Cristianità]] storica. Ma quando guardo non me stesso bensì il mondo, mi accorgo che questo entusiasmo non è soltanto una nota della [[Christianity|Cristianità]], ma una nota del Paganesimo, una nota dell'alta [[Nature|natura]] umana in molte sfere. I Greci sentirono la verginità quando scolpirono Artemide, i Romani quando ammantarono le vestali, il peggiore e il più selvaggio dei grandi drammaturghi elisabettiani si aggrappò alla letterale purezza di una donna come al pilastro centrale del mondo. Soprattutto, il mondo moderno (persino mentre schernisce l'[[innocence|innocenza]] sessuale) si è gettato in una generosa idolatria dell'[[innocence|innocenza]] sessuale: il grande culto moderno dei fanciulli. Poiché ogni uomo che ama i fanciulli converrà che la loro peculiare [[Beauty|bellezza]] è ferita anche solo da un cenno di sesso fisico. Con tutta questa esperienza umana, alleata all'autorità cristiana, concludo semplicemente che io ho torto e la chiesa ragione; o piuttosto che io sono difettoso, mentre la chiesa è universale. Ci vuole ogni sorta d'uomini per fare una chiesa; essa non mi chiede di essere celibe. Ma il fatto che io non abbia alcun apprezzamento per i celibi, lo accetto come accetto il fatto di non avere orecchio per la musica. La migliore esperienza umana è contro di me, come lo è a proposito di Bach. Il celibato è un fiore nel [[Garden|giardino]] di mio padre, di cui non mi è stato detto il nome dolce o terribile. Ma potrebbe essermi detto un giorno qualunque.
+Così, poiché ho accolto la Cristianità come una madre e non come un semplice esempio casuale, ho ritrovato l'Europa e il mondo nuovamente simili al piccolo [[Garden|giardino]] in cui fissavo le forme simboliche del gatto e del rastrello; guardo ogni cosa con l'antica ignoranza e aspettazione da folletto. Questo o quel rito o dottrina può apparire brutto e straordinario come un rastrello; ma ho scoperto per esperienza che tali cose finiscono in qualche modo in erba e [[Flowers|fiori]]. Un ecclesiastico può sembrare inutile come un gatto, ma è anche altrettanto affascinante, poiché ci dev'essere una qualche strana ragione per la sua esistenza. Ne offro un esempio su cento; io non ho in me alcuna affinità istintiva con quell'entusiasmo per la verginità fisica, che è certo stato una nota della [[Christianity|Cristianità]] storica. Ma quando guardo non me stesso bensì il mondo, mi accorgo che questo entusiasmo non è soltanto una nota della [[Christianity|Cristianità]], ma una nota del Paganesimo, una nota dell'alta [[Nature|natura]] umana in molte sfere. I Greci sentirono la verginità quando scolpirono Artemide, i Romani quando ammantarono le vestali, il peggiore e il più selvaggio dei grandi drammaturghi elisabettiani si aggrappò alla letterale purezza di una donna come al pilastro centrale del mondo. Soprattutto, il mondo moderno (persino mentre schernisce l'[[innocence|innocenza]] sessuale) si è gettato in una generosa idolatria dell'[[innocence|innocenza]] sessuale: il grande culto moderno dei fanciulli. Poiché ogni uomo che ama i fanciulli converrà che la loro peculiare [[Beauty|bellezza]] è ferita anche solo da un cenno di sesso fisico. Con tutta questa esperienza umana, alleata all'autorità cristiana, concludo semplicemente che io ho torto e la chiesa ragione; o piuttosto che io sono difettoso, mentre la chiesa è universale. Ci vuole ogni sorta d'uomini per fare una chiesa; essa non mi chiede di essere celibe. Ma il fatto che io non abbia alcun apprezzamento per i celibi, lo accetto come accetto il fatto di non avere orecchio per la musica. La migliore esperienza umana è contro di me, come lo è a proposito di Bach. Il celibato è un fiore nel [[Garden|giardino]] di mio padre, di cui non mi è stato detto il nome dolce o terribile. Ma potrebbe essermi detto un giorno qualunque.
 
-     Questa, dunque, è, in conclusione, la mia ragione per accettare la religione e non soltanto le sparse e secolari verità estratte dalla religione. Lo faccio perché quella cosa non ha soltanto detto questa [[Truth|verità]] o quella [[Truth|verità]], ma ha rivelato se stessa come una cosa che dice il [[Truth|vero]]. Tutte le altre filosofie dicono le cose che palesemente sembrano vere; solo questa [[philosophy|filosofia]] ha detto, ancora e ancora, la cosa che non sembra vera, ma è vera. [[Alone|Sola]] fra tutti i credi essa è convincente là dove non è attraente; risulta aver ragione, come mio padre nel [[Garden|giardino]]. I teosofi, per esempio, predicheranno un'idea ovviamente attraente come la reincarnazione; ma se attendiamo i suoi esiti logici, sono la superciliosità spirituale e la crudeltà della casta. Poiché, se un uomo è mendicante per i propri peccati prenatali, la gente tenderà a disprezzare il mendicante. Ma la [[Christianity|Cristianità]] predica un'idea ovviamente non attraente, come il [[Original Sin|peccato originale]]; ma quando ne attendiamo gli esiti, sono il pathos e la fratellanza, e un tuono di riso e di pietà; poiché solo con il [[Original Sin|peccato originale]] possiamo insieme compiangere il mendicante e diffidare del [[King|re]]. Gli uomini di scienza ci offrono la salute, un ovvio beneficio; è solo dopo che scopriamo che, per salute, essi intendono la [[Slavery|schiavitù]] del corpo e il tedio dello spirito. L'ortodossia ci fa sobbalzare sull'orlo improvviso dell'inferno; è solo dopo che ci accorgiamo che il salto era un esercizio atletico assai benefico per la nostra salute. È solo dopo che ci accorgiamo che questo pericolo è la radice di ogni dramma e [[Romance|romanzo]]. L'argomento più forte a favore della grazia divina è semplicemente la sua sgraziatezza. Le parti impopolari della [[Christianity|Cristianità]], a esaminarle, risultano essere i puntelli stessi del popolo. L'anello esterno della [[Christianity|Cristianità]] è una rigida guardia di rinunce etiche e di sacerdoti di professione; ma dentro quella guardia disumana troverai l'antica vita umana che danza come i bambini e beve vino come gli uomini; poiché la [[Christianity|Cristianità]] è l'unica cornice per la [[Freedom|libertà]] pagana. Ma nella [[philosophy|filosofia]] moderna il caso è opposto; è il suo anello esterno a essere ovviamente artistico ed emancipato; la sua [[Despair|disperazione]] è all'interno.
+Questa, dunque, è, in conclusione, la mia ragione per accettare la religione e non soltanto le sparse e secolari verità estratte dalla religione. Lo faccio perché quella cosa non ha soltanto detto questa [[Truth|verità]] o quella [[Truth|verità]], ma ha rivelato se stessa come una cosa che dice il [[Truth|vero]]. Tutte le altre filosofie dicono le cose che palesemente sembrano vere; solo questa [[philosophy|filosofia]] ha detto, ancora e ancora, la cosa che non sembra vera, ma è vera. [[Alone|Sola]] fra tutti i credi essa è convincente là dove non è attraente; risulta aver ragione, come mio padre nel [[Garden|giardino]]. I teosofi, per esempio, predicheranno un'idea ovviamente attraente come la reincarnazione; ma se attendiamo i suoi esiti logici, sono la superciliosità spirituale e la crudeltà della casta. Poiché, se un uomo è mendicante per i propri peccati prenatali, la gente tenderà a disprezzare il mendicante. Ma la [[Christianity|Cristianità]] predica un'idea ovviamente non attraente, come il [[Original Sin|peccato originale]]; ma quando ne attendiamo gli esiti, sono il pathos e la fratellanza, e un tuono di riso e di pietà; poiché solo con il [[Original Sin|peccato originale]] possiamo insieme compiangere il mendicante e diffidare del [[King|re]]. Gli uomini di scienza ci offrono la salute, un ovvio beneficio; è solo dopo che scopriamo che, per salute, essi intendono la [[Slavery|schiavitù]] del corpo e il tedio dello spirito. L'ortodossia ci fa sobbalzare sull'orlo improvviso dell'inferno; è solo dopo che ci accorgiamo che il salto era un esercizio atletico assai benefico per la nostra salute. È solo dopo che ci accorgiamo che questo pericolo è la radice di ogni dramma e [[Romance|romanzo]]. L'argomento più forte a favore della grazia divina è semplicemente la sua sgraziatezza. Le parti impopolari della [[Christianity|Cristianità]], a esaminarle, risultano essere i puntelli stessi del popolo. L'anello esterno della [[Christianity|Cristianità]] è una rigida guardia di rinunce etiche e di sacerdoti di professione; ma dentro quella guardia disumana troverai l'antica vita umana che danza come i bambini e beve vino come gli uomini; poiché la [[Christianity|Cristianità]] è l'unica cornice per la [[Freedom|libertà]] pagana. Ma nella [[philosophy|filosofia]] moderna il caso è opposto; è il suo anello esterno a essere ovviamente artistico ed emancipato; la sua [[Despair|disperazione]] è all'interno.
 
-     E la sua [[Despair|disperazione]] è questa: che essa in realtà non crede vi sia alcun significato nell'universo; perciò non può [[Hope|sperare]] di trovare alcun [[Romance|romanzo]]; i suoi romanzi non avranno trame. Un uomo non può aspettarsi alcuna avventura nella terra dell'anarchia. Ma un uomo può aspettarsi avventure a non finire se va viaggiando nella terra dell'autorità. Non si trova alcun significato in una giungla di scetticismo; ma troverà sempre più significati l'uomo che cammina attraverso una foresta di dottrina e di disegno. Qui ogni cosa ha una storia legata alla coda, come gli attrezzi o i quadri nella [[house|casa]] di mio padre; poiché è la [[house|casa]] di mio padre. Finisco dove ho cominciato: al capo giusto. Sono entrato finalmente per la porta di ogni buona [[philosophy|filosofia]]. Sono giunto nella mia seconda [[Childhood|infanzia]].
+E la sua [[Despair|disperazione]] è questa: che essa in realtà non crede vi sia alcun significato nell'universo; perciò non può [[Hope|sperare]] di trovare alcun [[Romance|romanzo]]; i suoi romanzi non avranno trame. Un uomo non può aspettarsi alcuna avventura nella terra dell'anarchia. Ma un uomo può aspettarsi avventure a non finire se va viaggiando nella terra dell'autorità. Non si trova alcun significato in una giungla di scetticismo; ma troverà sempre più significati l'uomo che cammina attraverso una foresta di dottrina e di disegno. Qui ogni cosa ha una storia legata alla coda, come gli attrezzi o i quadri nella [[house|casa]] di mio padre; poiché è la [[house|casa]] di mio padre. Finisco dove ho cominciato: al capo giusto. Sono entrato finalmente per la porta di ogni buona [[philosophy|filosofia]]. Sono giunto nella mia seconda [[Childhood|infanzia]].
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_07" data-title="Orthodoxy — Ix Authority And The Adventurer (part 7)" data-chapter="Story 08 Ix Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_07" data-title="Orthodoxy — IX Authority And The Adventurer (part 7)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
 
-# [[ortho14]] — Ix Authority And The Adventurer (part 7)
 
-     But this larger and more adventurous Christian universe
+But this larger and more adventurous Christian universe
 has one final mark difficult to express; yet as a conclusion
 of the whole matter I will attempt to express it.  All the real argument
 about religion turns on the question of whether a man who was born
@@ -14452,7 +14398,7 @@ It is only since I have known orthodoxy that I have known mental emancipation.
 But, in conclusion, it has one special application to the ultimate
 idea of joy.
 
-     It is said that Paganism is a religion of joy and [[Christianity]] of sorrow;
+It is said that Paganism is a religion of joy and [[Christianity]] of sorrow;
 it would be just as easy to prove that Paganism is pure sorrow and
 [[Christianity]] pure joy.  Such conflicts mean nothing and lead nowhere. 
 Everything human must have in it both joy and sorrow; the only matter
@@ -14485,7 +14431,7 @@ streets of Florence than in the theatre of Athens or the open [[Garden|garden]]
 of Epicurus.  Giotto lived in a gloomier town than Euripides,
 but he lived in a gayer universe.
 
-     The mass of men have been forced to be gay about the little things,
+The mass of men have been forced to be gay about the little things,
 but sad about the big ones.  Nevertheless (I offer my last dogma defiantly)
 it is not native to man to be so.  Man is more himself,
 man is more manlike, when joy is the fundamental thing in him,
@@ -14518,7 +14464,7 @@ than we could take the tremendous levities of the angels.
 So we sit perhaps in a starry chamber of [[Silence|silence]], while the laughter
 of the heavens is too loud for us to hear.
 
-     Joy, which was the small publicity of the pagan, is the gigantic secret
+Joy, which was the small publicity of the pagan, is the gigantic secret
 of the Christian.  And as I close this chaotic volume I open again
 the strange small book from which all [[Christianity]] came;
 and I am again haunted by a kind of confirmation.  The tremendous figure
@@ -14569,7 +14515,7 @@ queste pagine ebbero inizio, la prova della cella imbottita e della porta aperta
 Ma, in conclusione, essa ha una speciale applicazione all'idea
 ultima della gioia.
 
-     Si dice che il Paganesimo sia una religione di gioia e il [[Christianity|Cristianesimo]] una religione di dolore;
+Si dice che il Paganesimo sia una religione di gioia e il [[Christianity|Cristianesimo]] una religione di dolore;
 sarebbe altrettanto facile dimostrare che il Paganesimo è puro dolore e
 il [[Christianity|Cristianesimo]] pura gioia.  Tali conflitti non significano nulla e non conducono in alcun luogo.
 Tutto ciò che è umano deve contenere in sé tanto la gioia quanto il dolore; l'unica cosa
@@ -14602,7 +14548,7 @@ di Firenze che nel teatro di Atene o nell'aperto [[Garden|giardino]]
 di Epicuro.  Giotto visse in una città più cupa di quella di Euripide,
 ma visse in un universo più gaio.
 
-     La massa degli uomini è stata costretta a essere gaia riguardo alle piccole cose,
+La massa degli uomini è stata costretta a essere gaia riguardo alle piccole cose,
 ma triste riguardo alle grandi.  Ciononostante (offro il mio ultimo dogma con sfida)
 non è connaturato all'uomo essere così.  L'uomo è più se stesso,
 l'uomo è più simile all'uomo, quando la gioia è la cosa fondamentale in lui,
@@ -14635,7 +14581,7 @@ di quanta ne potremmo avere di fronte alle tremende leggerezze degli angeli.
 Così sediamo forse in una stellata camera di [[Silence|silenzio]], mentre la risata
 dei cieli è troppo forte perché la possiamo udire.
 
-     La gioia, che era la piccola pubblicità del pagano, è il gigantesco segreto
+La gioia, che era la piccola pubblicità del pagano, è il gigantesco segreto
 del cristiano.  E mentre chiudo questo caotico volume riapro
 il piccolo libro strano da cui è venuto tutto il [[Christianity|Cristianesimo]];
 e di nuovo mi sento perseguitato da una sorta di conferma.  La tremenda figura

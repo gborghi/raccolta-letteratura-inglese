@@ -78,7 +78,7 @@ PREFACE.
 
 This little book was written before either “[[Jane Eyre]]” or “[[Shirley]],”
 
- and yet no indulgence can be solicited for it on the plea of a first
+and yet no indulgence can be solicited for it on the plea of a first
 
 attempt. A first attempt it certainly was not, as the pen which wrote it
 
@@ -1162,7 +1162,7 @@ said, she had had young curates to lodge in her [[house]] who were nothing
 
 equal to me for steadiness and quietness. Tim was “a religious man”
 
- himself; indeed, he was “a joined Methodist,” which did not (be it
+himself; indeed, he was “a joined Methodist,” which did not (be it
 
 understood) prevent him from being at the same [[Time|time]] an engrained rascal,
 
@@ -1866,7 +1866,7 @@ had more of will and [[Ambition|ambition]] than his [[Body|body]] had of fibre a
 
 Perhaps, in these incompatibilities of the “physique” with the “morale,”
 
- lay the secret of that fitful gloom; he WOULD but COULD not, and the
+lay the secret of that fitful gloom; he WOULD but COULD not, and the
 
 athletic mind scowled scorn on its more fragile companion. As to his
 
@@ -2068,7 +2068,7 @@ or running away with an heiress.”
 
 “I leave such shifts to be put in practice by those who devise them,”
 
- said I, rising.
+said I, rising.
 
 “And even that is hopeless,” he went on coolly. “What widow would have
 
@@ -2140,7 +2140,7 @@ still numb; I could not write till they had regained vitality, so I
 
 went on thinking, and still the theme of my thoughts was the “climax.”
 
- [[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
+[[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
 
 “Come, [[William Crimsworth]],” said my [[Conscience|conscience]], or whatever it is that
 
@@ -2852,7 +2852,7 @@ on: “I have an appointment for seven o’[[Clock|clock]].”
 
 “[[Well]], then I’ll go.” He got up. “You’ll not meddle with trade again?”
 
- said he, leaning his elbow on the mantelpiece.
+said he, leaning his elbow on the mantelpiece.
 
 “No; I think not.”
 
@@ -3624,7 +3624,7 @@ l’instruction, l’adresse fait tout autant que le savoir.”
 
 From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
- as Monsieur said with a certain air of complacency. It was a very small
+as Monsieur said with a certain air of complacency. It was a very small
 
 room, with an excessively small bed, but M. Pelet gave me to understand
 
@@ -4292,7 +4292,7 @@ myself as to whether I should change my ordinary attire for something
 
 smarter. At last I concluded it would be a waste of labour. “Doubtless,”
 
- thought I, “she is some stiff old maid; for though the daughter of
+thought I, “she is some stiff old maid; for though the daughter of
 
 Madame Reuter, she may [[Well|well]] number upwards of forty winters; besides, if
 
@@ -4820,7 +4820,7 @@ hot-blooded Maroon, she showed her [[Well|well]]-set teeth sparkling between
 
 them, and treated me at the same [[Time|time]] to a smile “de sa facon.”
 
- Beautiful as Pauline Borghese, she looked at the moment scarcely purer
+Beautiful as Pauline Borghese, she looked at the moment scarcely purer
 
 than [[Lucrece]] de Borgia. Caroline was of noble family. I heard her
 
@@ -5116,7 +5116,7 @@ napkin, and said my heretical grace to myself, he civilly despatched a
 
 servant to the kitchen, to bring me a plate of “puree aux carottes”
 
- (for this was a maigre-day), and before sending away the first course,
+(for this was a maigre-day), and before sending away the first course,
 
 reserved for me a portion of the stock-fish of which it consisted.
 
@@ -5716,7 +5716,7 @@ form angular and rigid but proportionate, age fifteen.
 
 Juanna was not very thin, but she had a gaunt visage, and her “regard”
 
- was fierce and hungry; narrow as was her brow, it presented space enough
+was fierce and hungry; narrow as was her brow, it presented space enough
 
 for the legible graving of two words, Mutiny and Hate; in some one of
 
@@ -6756,7 +6756,7 @@ before two, and on reaching the schoolroom door, before I opened it, I
 
 heard a rapid, gabbling sound, which warned me that the “priere du midi”
 
- was not yet concluded. I waited the termination thereof; it would have
+was not yet concluded. I waited the termination thereof; it would have
 
 been impious to intrude my heretical presence during its progress. How
 
@@ -7838,7 +7838,7 @@ of careful study before you are in a condition to write English with
 
 absolute correctness. Attend: I will point out some principal defects.”
 
- And I went through it carefully, noting every error, and demonstrating
+And I went through it carefully, noting every error, and demonstrating
 
 why they were errors, and how the words or phrases ought to have been
 
@@ -8220,7 +8220,7 @@ be difficult, because those who know I have been a lace-mender will
 
 despise me, as the pupils here despise me. Pourtant j’ai mon projet,”
 
- she added in a lower tone.
+she added in a lower tone.
 
 “What is it?”
 
@@ -8814,7 +8814,7 @@ she was putting on her bonnet, I stopped short and asked:--
 
 “Sylvie, do you know Mdlle. Henri’s address? I have some books of hers,”
 
- I added carelessly, “and I should wish to send them to her.”
+I added carelessly, “and I should wish to send them to her.”
 
 “No, monsieur,” replied Sylvie; “but perhaps Rosalie, the portress, will
 
@@ -9074,7 +9074,7 @@ off one to the right, and another to the left, urging and hurrying
 
 circumstances. I’ll tell you what I like best to do, monsieur, shall I?”
 
- She looked up again; she had compounded her glance [[Well|well]] this [[Time|time]]--much
+She looked up again; she had compounded her glance [[Well|well]] this [[Time|time]]--much
 
 archness, more deference, a spicy dash of coquetry, an unveiled
 
@@ -10070,7 +10070,7 @@ compactly she arranged them in the grate.
 
 “It is her whole stock, and she will exhaust it out of hospitality,”
 
- thought I.
+thought I.
 
 “What are you going to do?” I asked: “not surely to light a [[Fire|fire]] this
 
@@ -10312,7 +10312,7 @@ Canaan.”
 
 “[[Well]], [[Well|well]]--ere long I shall pay you another visit; good evening now,”
 
- and I left her rather abruptly; I had much ado to resist a strong inward
+and I left her rather abruptly; I had much ado to resist a strong inward
 
 impulse, urging me to take a warmer, more expressive leave: what so
 
@@ -11012,7 +11012,7 @@ resolutions to merit and rise, [[Rose|rose]] in array against me; and here I was
 
 about to plunge into the gulf of absolute destitution; “and all this,”
 
- suggested an inward voice, “because you [[Fear|fear]] an evil which may never
+suggested an inward voice, “because you [[Fear|fear]] an evil which may never
 
 happen!” “It will happen; you KNOW it will,” answered that stubborn
 
@@ -12178,7 +12178,7 @@ morning; I shall be back here in six weeks, and possibly I may call
 
 and see you again; I [[Wonder|wonder]] whether you’ll be still out of place!”
 
- he laughed, as mockingly, as heartlessly as Mephistopheles, and so
+he laughed, as mockingly, as heartlessly as Mephistopheles, and so
 
 laughing, vanished.
 
@@ -12596,29 +12596,29 @@ when a voice rewarded the attention of my strained ear--so low, so
 
 [[house]].
 
-    “‘And ne’er but once, my son,’ he said,
+“‘And ne’er but once, my son,’ he said,
 
-      ‘Was yon dark cavern trod;
+‘Was yon dark cavern trod;
 
-      In persecution’s iron days,
+In persecution’s iron days,
 
-       When the land was left by God.
+When the land was left by God.
 
-      From Bewley’s bog, with slaughter red,
+From Bewley’s bog, with slaughter red,
 
-       A wanderer hither drew;
+A wanderer hither drew;
 
-      And oft he stopp’d and turn’d his head,
+And oft he stopp’d and turn’d his head,
 
-       As by fits the [[Night|night]]-winds blew.
+As by fits the [[Night|night]]-winds blew.
 
-      For trampling round by Cheviot-edge
+For trampling round by Cheviot-edge
 
-       Were heard the troopers keen;
+Were heard the troopers keen;
 
-      And frequent from the Whitelaw ridge
+And frequent from the Whitelaw ridge
 
-       The [[Death|death]]-shot flash’d between.’” etc. etc.
+The [[Death|death]]-shot flash’d between.’” etc. etc.
 
 The old Scotch ballad was partly recited, then dropt; a pause ensued;
 
@@ -12626,45 +12626,45 @@ then another strain followed, in French, of which the purport,
 
 translated, ran as follows:--
 
-     I gave, at first, attention close;
+I gave, at first, attention close;
 
-      Then interest warm ensued;
+Then interest warm ensued;
 
-     From interest, as improvement [[Rose|rose]],
+From interest, as improvement [[Rose|rose]],
 
-      Succeeded gratitude.
+Succeeded gratitude.
 
-     Obedience was no effort soon,
+Obedience was no effort soon,
 
-      And labour was no [[Pain|pain]];
+And labour was no [[Pain|pain]];
 
-     If tired, a word, a glance [[Alone|alone]]
+If tired, a word, a glance [[Alone|alone]]
 
-      Would give me strength again.
+Would give me strength again.
 
-     From others of the studious band,
+From others of the studious band,
 
-      Ere long he singled me;
+Ere long he singled me;
 
-     But only by more close demand,
+But only by more close demand,
 
-      And sterner urgency.
+And sterner urgency.
 
-     The task he from another took,
+The task he from another took,
 
-      From me he did reject;
+From me he did reject;
 
-     He would no slight omission brook,
+He would no slight omission brook,
 
-      And suffer no defect.
+And suffer no defect.
 
-     If my companions went astray,
+If my companions went astray,
 
-      He scarce their wanderings blam’d;
+He scarce their wanderings blam’d;
 
-     If I but falter’d in the way,
+If I but falter’d in the way,
 
-      His anger fiercely flam’d.
+His anger fiercely flam’d.
 
 Something stirred in an adjoining chamber; it would not do to be
 
@@ -12776,229 +12776,229 @@ satisfied. I translate as before, and my [[Translation|translation]] is nearly l
 
 it continued thus:--
 
-     When sickness stay’d awhile my course,
+When sickness stay’d awhile my course,
 
-      He seem’d impatient still,
+He seem’d impatient still,
 
-     Because his pupil’s flagging force
+Because his pupil’s flagging force
 
-      Could not obey his will.
+Could not obey his will.
 
-     One day when summoned to the bed
+One day when summoned to the bed
 
-      Where [[Pain|pain]] and I did strive,
+Where [[Pain|pain]] and I did strive,
 
-     I heard him, as he bent his head,
+I heard him, as he bent his head,
 
-      Say, “God, she must revive!”
+Say, “God, she must revive!”
 
-     I felt his hand, with gentle stress,
+I felt his hand, with gentle stress,
 
-      A moment laid on mine,
+A moment laid on mine,
 
-     And wished to mark my consciousness
+And wished to mark my consciousness
 
-      By some responsive sign.
+By some responsive sign.
 
-     But pow’rless then to speak or move,
+But pow’rless then to speak or move,
 
-      I only felt, within,
+I only felt, within,
 
-     The sense of [[Hope]], the strength of [[Love]],
+The sense of [[Hope]], the strength of [[Love]],
 
-      Their healing work begin.
+Their healing work begin.
 
-     And as he from the room withdrew,
+And as he from the room withdrew,
 
-      My heart his steps pursued;
+My heart his steps pursued;
 
-     I long’d to prove, by efforts new;
+I long’d to prove, by efforts new;
 
-      My speechless gratitude.
+My speechless gratitude.
 
-     When once again I took my place,
+When once again I took my place,
 
-      Long vacant, in the class,
+Long vacant, in the class,
 
-     Th’ unfrequent smile across his face
+Th’ unfrequent smile across his face
 
-      Did for one moment pass.
+Did for one moment pass.
 
-     The lessons done; the signal made
+The lessons done; the signal made
 
-      Of glad release and play,
+Of glad release and play,
 
-     He, as he passed, an instant stay’d,
+He, as he passed, an instant stay’d,
 
-      One kindly word to say.
+One kindly word to say.
 
-    “Jane, till to-morrow you are free
+“Jane, till to-morrow you are free
 
-      From tedious task and rule;
+From tedious task and rule;
 
-     This afternoon I must not see
+This afternoon I must not see
 
-      That yet pale face in school.
+That yet pale face in school.
 
-    “Seek in the [[Garden|garden]]-shades a seat,
+“Seek in the [[Garden|garden]]-shades a seat,
 
-      Far from the play-ground din;
+Far from the play-ground din;
 
-     The sun is warm, the air is sweet:
+The sun is warm, the air is sweet:
 
-      Stay till I call you in.”
+Stay till I call you in.”
 
-     A long and pleasant afternoon
+A long and pleasant afternoon
 
-      I passed in those green bowers;
+I passed in those green bowers;
 
-     All silent, tranquil, and [[Alone|alone]]
+All silent, tranquil, and [[Alone|alone]]
 
-      With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
+With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
 
-     Yet, when my master’s voice I heard
+Yet, when my master’s voice I heard
 
-      Call, from the [[Window|window]], “Jane!”
+Call, from the [[Window|window]], “Jane!”
 
-      I entered, joyful, at the word,
+I entered, joyful, at the word,
 
-      The busy [[house]] again.
+The busy [[house]] again.
 
-     He, in the hall, paced up and down;
+He, in the hall, paced up and down;
 
-      He paused as I passed by;
+He paused as I passed by;
 
-     His forehead stern relaxed its frown:
+His forehead stern relaxed its frown:
 
-      He raised his deep-set eye.
+He raised his deep-set eye.
 
-    “Not quite so pale,” he murmured low.
+“Not quite so pale,” he murmured low.
 
-      “Now Jane, go rest awhile.”
+“Now Jane, go rest awhile.”
 
-      And as I smiled, his smoothened brow
+And as I smiled, his smoothened brow
 
-      Returned as glad a smile.
+Returned as glad a smile.
 
-     My perfect health restored, he took
+My perfect health restored, he took
 
-      His mien austere again;
+His mien austere again;
 
-     And, as before, he would not brook
+And, as before, he would not brook
 
-      The slightest fault from Jane.
+The slightest fault from Jane.
 
-     The longest task, the hardest theme
+The longest task, the hardest theme
 
-      Fell to my share as erst,
+Fell to my share as erst,
 
-     And still I toiled to place my name
+And still I toiled to place my name
 
-      In every study first.
+In every study first.
 
-     He yet begrudged and stinted praise,
+He yet begrudged and stinted praise,
 
-      But I had learnt to read
+But I had learnt to read
 
-     The secret meaning of his face,
+The secret meaning of his face,
 
-      And that was my best meed.
+And that was my best meed.
 
-     Even when his hasty temper spoke
+Even when his hasty temper spoke
 
-      In tones that sorrow stirred,
+In tones that sorrow stirred,
 
-     My grief was lulled as soon as woke
+My grief was lulled as soon as woke
 
-      By some relenting word.
+By some relenting word.
 
-     And when he lent some precious book,
+And when he lent some precious book,
 
-      Or gave some fragrant flower,
+Or gave some fragrant flower,
 
-     I did not quail to Envy’s look,
+I did not quail to Envy’s look,
 
-      Upheld by Pleasure’s power.
+Upheld by Pleasure’s power.
 
-     At last our school ranks took their ground,
+At last our school ranks took their ground,
 
-      The hard-fought field I won;
+The hard-fought field I won;
 
-     The prize, a laurel-wreath, was bound
+The prize, a laurel-wreath, was bound
 
-      My throbbing forehead on.
+My throbbing forehead on.
 
-     Low at my master’s knee I bent,
+Low at my master’s knee I bent,
 
-      The offered [[Crown|crown]] to meet;
+The offered [[Crown|crown]] to meet;
 
-     Its green [[Leaves|leaves]] through my temples sent
+Its green [[Leaves|leaves]] through my temples sent
 
-      A thrill as wild as sweet.
+A thrill as wild as sweet.
 
-     The strong pulse of [[Ambition]] struck
+The strong pulse of [[Ambition]] struck
 
-      In every vein I owned;
+In every vein I owned;
 
-     At the same instant, bleeding broke
+At the same instant, bleeding broke
 
-      A secret, inward wound.
+A secret, inward wound.
 
-     The hour of triumph was to me
+The hour of triumph was to me
 
-      The hour of sorrow sore;
+The hour of sorrow sore;
 
-     A day hence I must [[Cross|cross]] the sea,
+A day hence I must [[Cross|cross]] the sea,
 
-      Ne’er to recross it more.
+Ne’er to recross it more.
 
-     An hour hence, in my master’s room
+An hour hence, in my master’s room
 
-      I with him sat [[Alone|alone]],
+I with him sat [[Alone|alone]],
 
-     And told him what a dreary gloom
+And told him what a dreary gloom
 
-      O’er joy had parting thrown.
+O’er joy had parting thrown.
 
-     He little said; the [[Time|time]] was brief,
+He little said; the [[Time|time]] was brief,
 
-      The [[Ship|ship]] was soon to sail,
+The [[Ship|ship]] was soon to sail,
 
-     And while I sobbed in bitter grief,
+And while I sobbed in bitter grief,
 
-      My master but looked pale.
+My master but looked pale.
 
-     They called in haste; he bade me go,
+They called in haste; he bade me go,
 
-      Then snatched me back again;
+Then snatched me back again;
 
-     He held me fast and murmured low,
+He held me fast and murmured low,
 
-     “Why will they part us, Jane?”
+“Why will they part us, Jane?”
 
-    “Were you not happy in my care?
+“Were you not happy in my care?
 
-      Did I not faithful prove?
+Did I not faithful prove?
 
-     Will others to my darling bear
+Will others to my darling bear
 
-      As true, as deep a [[Love|love]]?
+As true, as deep a [[Love|love]]?
 
-    “O God, watch o’er my foster [[Child|child]]!
+“O God, watch o’er my foster [[Child|child]]!
 
-      O guard her gentle head!
+O guard her gentle head!
 
-     When minds are high and tempests wild
+When minds are high and tempests wild
 
-      Protection round her spread!
+Protection round her spread!
 
-    “They call again; leave then my breast;
+“They call again; leave then my breast;
 
-      Quit thy true shelter, Jane;
+Quit thy true shelter, Jane;
 
-     But when deceived, repulsed, opprest,
+But when deceived, repulsed, opprest,
 
-      Come [[Home|home]] to me again!”
+Come [[Home|home]] to me again!”
 
 I read--then dreamily made marks on the margin with my pencil; thinking
 
@@ -13156,7 +13156,7 @@ you are kind, very kind to the attentive and industrious, even if they
 
 are not clever. Master, I should be GLAD to live with you always;”
 
- and she made a sort of movement, as if she would have clung to me, but
+and she made a sort of movement, as if she would have clung to me, but
 
 restraining herself she only added with earnest emphasis--“Master, I
 
@@ -14342,7 +14342,7 @@ developed shape than that perverse, ill-thriven [[Child|child]] can boast.”
 
 “Bribe a seraph to fetch you a coal of [[Fire|fire]] from heaven, if you will,”
 
- said I, “and with it kindle life in the tallest, fattest, most boneless,
+said I, “and with it kindle life in the tallest, fattest, most boneless,
 
 fullest-blooded of Ruben’s painted women--leave me only my Alpine peri,
 
@@ -15040,7 +15040,7 @@ should have probably failed, and died weary and disappointed, despised
 
 and of no account, like other single women. But I’m not an old maid,”
 
- she added quickly. “I should have been, though, but for my master. I
+she added quickly. “I should have been, though, but for my master. I
 
 should never have suited any man but Professor Crimsworth--no other
 
@@ -15784,7 +15784,7 @@ PREFACE.
 
 This little book was written before either “[[Jane Eyre]]” or “[[Shirley]],”
 
- and yet no indulgence can be solicited for it on the plea of a first
+and yet no indulgence can be solicited for it on the plea of a first
 
 attempt. A first attempt it certainly was not, as the pen which wrote it
 
@@ -15916,7 +15916,7 @@ myself as to whether I should change my ordinary attire for something
 
 smarter. At last I concluded it would be a waste of labour. “Doubtless,”
 
- thought I, “she is some stiff old maid; for though the daughter of
+thought I, “she is some stiff old maid; for though the daughter of
 
 Madame Reuter, she may [[Well|well]] number upwards of forty winters; besides, if
 
@@ -16184,7 +16184,7 @@ napkin, and said my heretical grace to myself, he civilly despatched a
 
 servant to the kitchen, to bring me a plate of “puree aux carottes”
 
- (for this was a maigre-day), and before sending away the first course,
+(for this was a maigre-day), and before sending away the first course,
 
 reserved for me a portion of the stock-fish of which it consisted.
 
@@ -16885,7 +16885,7 @@ wore off, the real material appeared below, and they laid her aside as a
 
 
 
-<span class="atom-split" data-atom="chapter_02_introductory--part_01" data-title="The Professor — Chapter 1: INTRODUCTORY (part 1)" data-chapter="Chapter 02 INTRODUCTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_introductory--part_01" data-title="The Professor — Chapter 1: INTRODUCTORY (part 1)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
 
 
 CHAPTER I. INTRODUCTORY.
@@ -17065,7 +17065,7 @@ Of this I was apprised by the occasional short letters I received from
 
 
 
-<span class="atom-split" data-atom="chapter_02_introductory--part_02" data-title="The Professor — Chapter 1: INTRODUCTORY (part 2)" data-chapter="Chapter 02 INTRODUCTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_introductory--part_02" data-title="The Professor — Chapter 1: INTRODUCTORY (part 2)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
 
 
 him, some three or four times a year; which said letters never concluded
@@ -17249,7 +17249,7 @@ meeting, betrayed any warmth, any enthusiasm; that I had saluted this
 
 
 
-<span class="atom-split" data-atom="chapter_02_introductory--part_03" data-title="The Professor — Chapter 1: INTRODUCTORY (part 3)" data-chapter="Chapter 02 INTRODUCTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_introductory--part_03" data-title="The Professor — Chapter 1: INTRODUCTORY (part 3)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
 
 
 man with a quiet and steady phlegm.
@@ -17902,7 +17902,7 @@ said, she had had young curates to lodge in her [[house]] who were nothing
 
 equal to me for steadiness and quietness. Tim was “a religious man”
 
- himself; indeed, he was “a joined Methodist,” which did not (be it
+himself; indeed, he was “a joined Methodist,” which did not (be it
 
 understood) prevent him from being at the same [[Time|time]] an engrained rascal,
 
@@ -18630,7 +18630,7 @@ had more of will and [[Ambition|ambition]] than his [[Body|body]] had of fibre a
 
 Perhaps, in these incompatibilities of the “physique” with the “morale,”
 
- lay the secret of that fitful gloom; he WOULD but COULD not, and the
+lay the secret of that fitful gloom; he WOULD but COULD not, and the
 
 athletic mind scowled scorn on its more fragile companion. As to his
 
@@ -18838,7 +18838,7 @@ or running away with an heiress.”
 
 “I leave such shifts to be put in practice by those who devise them,”
 
- said I, rising.
+said I, rising.
 
 “And even that is hopeless,” he went on coolly. “What widow would have
 
@@ -18916,7 +18916,7 @@ still numb; I could not write till they had regained vitality, so I
 
 went on thinking, and still the theme of my thoughts was the “climax.”
 
- [[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
+[[Self]]-dissatisfaction troubled exceedingly the current of my meditations.
 
 “Come, [[William Crimsworth]],” said my [[Conscience|conscience]], or whatever it is that
 
@@ -19646,7 +19646,7 @@ on: “I have an appointment for seven o’[[Clock|clock]].”
 
 “[[Well]], then I’ll go.” He got up. “You’ll not meddle with trade again?”
 
- said he, leaning his elbow on the mantelpiece.
+said he, leaning his elbow on the mantelpiece.
 
 “No; I think not.”
 
@@ -20448,7 +20448,7 @@ l’instruction, l’adresse fait tout autant que le savoir.”
 
 From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
- as Monsieur said with a certain air of complacency. It was a very small
+as Monsieur said with a certain air of complacency. It was a very small
 
 room, with an excessively small bed, but M. Pelet gave me to understand
 
@@ -21414,7 +21414,7 @@ hot-blooded Maroon, she showed her [[Well|well]]-set teeth sparkling between
 
 them, and treated me at the same [[Time|time]] to a smile “de sa facon.”
 
- Beautiful as Pauline Borghese, she looked at the moment scarcely purer
+Beautiful as Pauline Borghese, she looked at the moment scarcely purer
 
 than [[Lucrece]] de Borgia. Caroline was of noble family. I heard her
 
@@ -21958,7 +21958,7 @@ form angular and rigid but proportionate, age fifteen.
 
 Juanna was not very thin, but she had a gaunt visage, and her “regard”
 
- was fierce and hungry; narrow as was her brow, it presented space enough
+was fierce and hungry; narrow as was her brow, it presented space enough
 
 for the legible graving of two words, Mutiny and Hate; in some one of
 
@@ -23034,7 +23034,7 @@ before two, and on reaching the schoolroom door, before I opened it, I
 
 heard a rapid, gabbling sound, which warned me that the “priere du midi”
 
- was not yet concluded. I waited the termination thereof; it would have
+was not yet concluded. I waited the termination thereof; it would have
 
 been impious to intrude my heretical presence during its progress. How
 
@@ -23796,7 +23796,7 @@ of careful study before you are in a condition to write English with
 
 absolute correctness. Attend: I will point out some principal defects.”
 
- And I went through it carefully, noting every error, and demonstrating
+And I went through it carefully, noting every error, and demonstrating
 
 why they were errors, and how the words or phrases ought to have been
 
@@ -24190,7 +24190,7 @@ be difficult, because those who know I have been a lace-mender will
 
 despise me, as the pupils here despise me. Pourtant j’ai mon projet,”
 
- she added in a lower tone.
+she added in a lower tone.
 
 “What is it?”
 
@@ -24802,7 +24802,7 @@ she was putting on her bonnet, I stopped short and asked:--
 
 “Sylvie, do you know Mdlle. Henri’s address? I have some books of hers,”
 
- I added carelessly, “and I should wish to send them to her.”
+I added carelessly, “and I should wish to send them to her.”
 
 “No, monsieur,” replied Sylvie; “but perhaps Rosalie, the portress, will
 
@@ -25068,7 +25068,7 @@ off one to the right, and another to the left, urging and hurrying
 
 circumstances. I’ll tell you what I like best to do, monsieur, shall I?”
 
- She looked up again; she had compounded her glance [[Well|well]] this [[Time|time]]--much
+She looked up again; she had compounded her glance [[Well|well]] this [[Time|time]]--much
 
 archness, more deference, a spicy dash of coquetry, an unveiled
 
@@ -26100,7 +26100,7 @@ compactly she arranged them in the grate.
 
 “It is her whole stock, and she will exhaust it out of hospitality,”
 
- thought I.
+thought I.
 
 “What are you going to do?” I asked: “not surely to light a [[Fire|fire]] this
 
@@ -26348,7 +26348,7 @@ Canaan.”
 
 “[[Well]], [[Well|well]]--ere long I shall pay you another visit; good evening now,”
 
- and I left her rather abruptly; I had much ado to resist a strong inward
+and I left her rather abruptly; I had much ado to resist a strong inward
 
 impulse, urging me to take a warmer, more expressive leave: what so
 
@@ -27072,7 +27072,7 @@ resolutions to merit and rise, [[Rose|rose]] in array against me; and here I was
 
 about to plunge into the gulf of absolute destitution; “and all this,”
 
- suggested an inward voice, “because you [[Fear|fear]] an evil which may never
+suggested an inward voice, “because you [[Fear|fear]] an evil which may never
 
 happen!” “It will happen; you KNOW it will,” answered that stubborn
 
@@ -28280,7 +28280,7 @@ morning; I shall be back here in six weeks, and possibly I may call
 
 and see you again; I [[Wonder|wonder]] whether you’ll be still out of place!”
 
- he laughed, as mockingly, as heartlessly as Mephistopheles, and so
+he laughed, as mockingly, as heartlessly as Mephistopheles, and so
 
 laughing, vanished.
 
@@ -28710,29 +28710,29 @@ when a voice rewarded the attention of my strained ear--so low, so
 
 [[house]].
 
-    “‘And ne’er but once, my son,’ he said,
+“‘And ne’er but once, my son,’ he said,
 
-      ‘Was yon dark cavern trod;
+‘Was yon dark cavern trod;
 
-      In persecution’s iron days,
+In persecution’s iron days,
 
-       When the land was left by God.
+When the land was left by God.
 
-      From Bewley’s bog, with slaughter red,
+From Bewley’s bog, with slaughter red,
 
-       A wanderer hither drew;
+A wanderer hither drew;
 
-      And oft he stopp’d and turn’d his head,
+And oft he stopp’d and turn’d his head,
 
-       As by fits the [[Night|night]]-winds blew.
+As by fits the [[Night|night]]-winds blew.
 
-      For trampling round by Cheviot-edge
+For trampling round by Cheviot-edge
 
-       Were heard the troopers keen;
+Were heard the troopers keen;
 
-      And frequent from the Whitelaw ridge
+And frequent from the Whitelaw ridge
 
-       The [[Death|death]]-shot flash’d between.’” etc. etc.
+The [[Death|death]]-shot flash’d between.’” etc. etc.
 
 The old Scotch ballad was partly recited, then dropt; a pause ensued;
 
@@ -28740,45 +28740,45 @@ then another strain followed, in French, of which the purport,
 
 translated, ran as follows:--
 
-     I gave, at first, attention close;
+I gave, at first, attention close;
 
-      Then interest warm ensued;
+Then interest warm ensued;
 
-     From interest, as improvement [[Rose|rose]],
+From interest, as improvement [[Rose|rose]],
 
-      Succeeded gratitude.
+Succeeded gratitude.
 
-     Obedience was no effort soon,
+Obedience was no effort soon,
 
-      And labour was no [[Pain|pain]];
+And labour was no [[Pain|pain]];
 
-     If tired, a word, a glance [[Alone|alone]]
+If tired, a word, a glance [[Alone|alone]]
 
-      Would give me strength again.
+Would give me strength again.
 
-     From others of the studious band,
+From others of the studious band,
 
-      Ere long he singled me;
+Ere long he singled me;
 
-     But only by more close demand,
+But only by more close demand,
 
-      And sterner urgency.
+And sterner urgency.
 
-     The task he from another took,
+The task he from another took,
 
-      From me he did reject;
+From me he did reject;
 
-     He would no slight omission brook,
+He would no slight omission brook,
 
-      And suffer no defect.
+And suffer no defect.
 
-     If my companions went astray,
+If my companions went astray,
 
-      He scarce their wanderings blam’d;
+He scarce their wanderings blam’d;
 
-     If I but falter’d in the way,
+If I but falter’d in the way,
 
-      His anger fiercely flam’d.
+His anger fiercely flam’d.
 
 Something stirred in an adjoining chamber; it would not do to be
 
@@ -28896,167 +28896,167 @@ satisfied. I translate as before, and my [[Translation|translation]] is nearly l
 
 it continued thus:--
 
-     When sickness stay’d awhile my course,
+When sickness stay’d awhile my course,
 
-      He seem’d impatient still,
+He seem’d impatient still,
 
-     Because his pupil’s flagging force
+Because his pupil’s flagging force
 
-      Could not obey his will.
+Could not obey his will.
 
-     One day when summoned to the bed
+One day when summoned to the bed
 
-      Where [[Pain|pain]] and I did strive,
+Where [[Pain|pain]] and I did strive,
 
-     I heard him, as he bent his head,
+I heard him, as he bent his head,
 
-      Say, “God, she must revive!”
+Say, “God, she must revive!”
 
-     I felt his hand, with gentle stress,
+I felt his hand, with gentle stress,
 
-      A moment laid on mine,
+A moment laid on mine,
 
-     And wished to mark my consciousness
+And wished to mark my consciousness
 
-      By some responsive sign.
+By some responsive sign.
 
-     But pow’rless then to speak or move,
+But pow’rless then to speak or move,
 
-      I only felt, within,
+I only felt, within,
 
-     The sense of [[Hope]], the strength of [[Love]],
+The sense of [[Hope]], the strength of [[Love]],
 
-      Their healing work begin.
+Their healing work begin.
 
-     And as he from the room withdrew,
+And as he from the room withdrew,
 
-      My heart his steps pursued;
+My heart his steps pursued;
 
-     I long’d to prove, by efforts new;
+I long’d to prove, by efforts new;
 
-      My speechless gratitude.
+My speechless gratitude.
 
-     When once again I took my place,
+When once again I took my place,
 
-      Long vacant, in the class,
+Long vacant, in the class,
 
-     Th’ unfrequent smile across his face
+Th’ unfrequent smile across his face
 
-      Did for one moment pass.
+Did for one moment pass.
 
-     The lessons done; the signal made
+The lessons done; the signal made
 
-      Of glad release and play,
+Of glad release and play,
 
-     He, as he passed, an instant stay’d,
+He, as he passed, an instant stay’d,
 
-      One kindly word to say.
+One kindly word to say.
 
-    “Jane, till to-morrow you are free
+“Jane, till to-morrow you are free
 
-      From tedious task and rule;
+From tedious task and rule;
 
-     This afternoon I must not see
+This afternoon I must not see
 
-      That yet pale face in school.
+That yet pale face in school.
 
-    “Seek in the [[Garden|garden]]-shades a seat,
+“Seek in the [[Garden|garden]]-shades a seat,
 
-      Far from the play-ground din;
+Far from the play-ground din;
 
-     The sun is warm, the air is sweet:
+The sun is warm, the air is sweet:
 
-      Stay till I call you in.”
+Stay till I call you in.”
 
-     A long and pleasant afternoon
+A long and pleasant afternoon
 
-      I passed in those green bowers;
+I passed in those green bowers;
 
-     All silent, tranquil, and [[Alone|alone]]
+All silent, tranquil, and [[Alone|alone]]
 
-      With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
+With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
 
-     Yet, when my master’s voice I heard
+Yet, when my master’s voice I heard
 
-      Call, from the [[Window|window]], “Jane!”
+Call, from the [[Window|window]], “Jane!”
 
-      I entered, joyful, at the word,
+I entered, joyful, at the word,
 
-      The busy [[house]] again.
+The busy [[house]] again.
 
-     He, in the hall, paced up and down;
+He, in the hall, paced up and down;
 
-      He paused as I passed by;
+He paused as I passed by;
 
-     His forehead stern relaxed its frown:
+His forehead stern relaxed its frown:
 
-      He raised his deep-set eye.
+He raised his deep-set eye.
 
-    “Not quite so pale,” he murmured low.
+“Not quite so pale,” he murmured low.
 
-      “Now Jane, go rest awhile.”
+“Now Jane, go rest awhile.”
 
-      And as I smiled, his smoothened brow
+And as I smiled, his smoothened brow
 
-      Returned as glad a smile.
+Returned as glad a smile.
 
-     My perfect health restored, he took
+My perfect health restored, he took
 
-      His mien austere again;
+His mien austere again;
 
-     And, as before, he would not brook
+And, as before, he would not brook
 
-      The slightest fault from Jane.
+The slightest fault from Jane.
 
-     The longest task, the hardest theme
+The longest task, the hardest theme
 
-      Fell to my share as erst,
+Fell to my share as erst,
 
-     And still I toiled to place my name
+And still I toiled to place my name
 
-      In every study first.
+In every study first.
 
-     He yet begrudged and stinted praise,
+He yet begrudged and stinted praise,
 
-      But I had learnt to read
+But I had learnt to read
 
-     The secret meaning of his face,
+The secret meaning of his face,
 
-      And that was my best meed.
+And that was my best meed.
 
-     Even when his hasty temper spoke
+Even when his hasty temper spoke
 
-      In tones that sorrow stirred,
+In tones that sorrow stirred,
 
-     My grief was lulled as soon as woke
+My grief was lulled as soon as woke
 
-      By some relenting word.
+By some relenting word.
 
-     And when he lent some precious book,
+And when he lent some precious book,
 
-      Or gave some fragrant flower,
+Or gave some fragrant flower,
 
-     I did not quail to Envy’s look,
+I did not quail to Envy’s look,
 
-      Upheld by Pleasure’s power.
+Upheld by Pleasure’s power.
 
-     At last our school ranks took their ground,
+At last our school ranks took their ground,
 
-      The hard-fought field I won;
+The hard-fought field I won;
 
-     The prize, a laurel-wreath, was bound
+The prize, a laurel-wreath, was bound
 
-      My throbbing forehead on.
+My throbbing forehead on.
 
-     Low at my master’s knee I bent,
+Low at my master’s knee I bent,
 
-      The offered [[Crown|crown]] to meet;
+The offered [[Crown|crown]] to meet;
 
-     Its green [[Leaves|leaves]] through my temples sent
+Its green [[Leaves|leaves]] through my temples sent
 
-      A thrill as wild as sweet.
+A thrill as wild as sweet.
 
-     The strong pulse of [[Ambition]] struck
+The strong pulse of [[Ambition]] struck
 
 
 
@@ -29064,67 +29064,67 @@ it continued thus:--
 <span class="atom-split" data-atom="chapter_24--part_03" data-title="The Professor — Chapter 23 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
 
 
-      In every vein I owned;
+In every vein I owned;
 
-     At the same instant, bleeding broke
+At the same instant, bleeding broke
 
-      A secret, inward wound.
+A secret, inward wound.
 
-     The hour of triumph was to me
+The hour of triumph was to me
 
-      The hour of sorrow sore;
+The hour of sorrow sore;
 
-     A day hence I must [[Cross|cross]] the sea,
+A day hence I must [[Cross|cross]] the sea,
 
-      Ne’er to recross it more.
+Ne’er to recross it more.
 
-     An hour hence, in my master’s room
+An hour hence, in my master’s room
 
-      I with him sat [[Alone|alone]],
+I with him sat [[Alone|alone]],
 
-     And told him what a dreary gloom
+And told him what a dreary gloom
 
-      O’er joy had parting thrown.
+O’er joy had parting thrown.
 
-     He little said; the [[Time|time]] was brief,
+He little said; the [[Time|time]] was brief,
 
-      The [[Ship|ship]] was soon to sail,
+The [[Ship|ship]] was soon to sail,
 
-     And while I sobbed in bitter grief,
+And while I sobbed in bitter grief,
 
-      My master but looked pale.
+My master but looked pale.
 
-     They called in haste; he bade me go,
+They called in haste; he bade me go,
 
-      Then snatched me back again;
+Then snatched me back again;
 
-     He held me fast and murmured low,
+He held me fast and murmured low,
 
-     “Why will they part us, Jane?”
+“Why will they part us, Jane?”
 
-    “Were you not happy in my care?
+“Were you not happy in my care?
 
-      Did I not faithful prove?
+Did I not faithful prove?
 
-     Will others to my darling bear
+Will others to my darling bear
 
-      As true, as deep a [[Love|love]]?
+As true, as deep a [[Love|love]]?
 
-    “O God, watch o’er my foster [[Child|child]]!
+“O God, watch o’er my foster [[Child|child]]!
 
-      O guard her gentle head!
+O guard her gentle head!
 
-     When minds are high and tempests wild
+When minds are high and tempests wild
 
-      Protection round her spread!
+Protection round her spread!
 
-    “They call again; leave then my breast;
+“They call again; leave then my breast;
 
-      Quit thy true shelter, Jane;
+Quit thy true shelter, Jane;
 
-     But when deceived, repulsed, opprest,
+But when deceived, repulsed, opprest,
 
-      Come [[Home|home]] to me again!”
+Come [[Home|home]] to me again!”
 
 I read--then dreamily made marks on the margin with my pencil; thinking
 
@@ -29282,7 +29282,7 @@ you are kind, very kind to the attentive and industrious, even if they
 
 are not clever. Master, I should be GLAD to live with you always;”
 
- and she made a sort of movement, as if she would have clung to me, but
+and she made a sort of movement, as if she would have clung to me, but
 
 
 
@@ -30510,7 +30510,7 @@ developed shape than that perverse, ill-thriven [[Child|child]] can boast.”
 
 “Bribe a seraph to fetch you a coal of [[Fire|fire]] from heaven, if you will,”
 
- said I, “and with it kindle life in the tallest, fattest, most boneless,
+said I, “and with it kindle life in the tallest, fattest, most boneless,
 
 fullest-blooded of Ruben’s painted women--leave me only my Alpine peri,
 
@@ -31232,7 +31232,7 @@ should have probably failed, and died weary and disappointed, despised
 
 and of no account, like other single women. But I’m not an old maid,”
 
- she added quickly. “I should have been, though, but for my master. I
+she added quickly. “I should have been, though, but for my master. I
 
 should never have suited any man but Professor Crimsworth--no other
 

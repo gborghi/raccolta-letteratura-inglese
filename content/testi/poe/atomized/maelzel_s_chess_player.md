@@ -16,1829 +16,1829 @@ tags:
 
 Perhaps no exhibition of the kind has ever elicited so general
 
-      attention as the Chess-Player of Maelzel. Wherever seen it has
+attention as the Chess-Player of Maelzel. Wherever seen it has
 
-      been an object of intense curiosity, to all persons who think.
+been an object of intense curiosity, to all persons who think.
 
-      Yet the question of its _modus operandi_ is still undetermined.
+Yet the question of its _modus operandi_ is still undetermined.
 
-      Nothing has been written on this topic which can be considered as
+Nothing has been written on this topic which can be considered as
 
-      decisive—and accordingly we find every where men of mechanical
+decisive—and accordingly we find every where men of mechanical
 
-      genius, of great general acuteness, and discriminative
+genius, of great general acuteness, and discriminative
 
-      understanding, who make no scruple in pronouncing the Automaton a
+understanding, who make no scruple in pronouncing the Automaton a
 
-      _pure machine_, unconnected with human agency in its movements,
+_pure machine_, unconnected with human agency in its movements,
 
-      and consequently, beyond all comparison, the most astonishing of
+and consequently, beyond all comparison, the most astonishing of
 
-      the inventions of mankind. And such it would undoubtedly be, were
+the inventions of mankind. And such it would undoubtedly be, were
 
-      they right in their supposition. Assuming this hypothesis, it
+they right in their supposition. Assuming this hypothesis, it
 
-      would be grossly absurd to compare with the Chess-Player, any
+would be grossly absurd to compare with the Chess-Player, any
 
-      similar thing of either modern or ancient days. Yet there have
+similar thing of either modern or ancient days. Yet there have
 
-      been many and wonderful automata. In Brewster’s Letters on
+been many and wonderful automata. In Brewster’s Letters on
 
-      Natural [[Magic]], we have an account of the most remarkable. Among
+Natural [[Magic]], we have an account of the most remarkable. Among
 
-      these may be mentioned, as having beyond [[Doubt|doubt]] existed, firstly,
+these may be mentioned, as having beyond [[Doubt|doubt]] existed, firstly,
 
-      the coach invented by M. Camus for the amusement of Louis XIV
+the coach invented by M. Camus for the amusement of Louis XIV
 
-      when a [[Child|child]]. A table, about four feet square, was introduced,
+when a [[Child|child]]. A table, about four feet square, was introduced,
 
-      into the room appropriated for the exhibition. Upon this table
+into the room appropriated for the exhibition. Upon this table
 
-      was placed a carriage, six inches in length, made of wood, and
+was placed a carriage, six inches in length, made of wood, and
 
-      drawn by two horses of the same material. One [[Window|window]] being down,
+drawn by two horses of the same material. One [[Window|window]] being down,
 
-      a lady was seen on the back seat. A coachman held the reins on
+a lady was seen on the back seat. A coachman held the reins on
 
-      the box, and a footman and page were in their places behind. M.
+the box, and a footman and page were in their places behind. M.
 
-      Camus now touched a [[spring]]; whereupon the coachman smacked his
+Camus now touched a [[spring]]; whereupon the coachman smacked his
 
-      whip, and the horses proceeded in a natural manner, along the
+whip, and the horses proceeded in a natural manner, along the
 
-      edge of the table, drawing after them the carriage. Having gone
+edge of the table, drawing after them the carriage. Having gone
 
-      as far as possible in this direction, a sudden turn was made to
+as far as possible in this direction, a sudden turn was made to
 
-      the left, and the vehicle was driven at right angles to its
+the left, and the vehicle was driven at right angles to its
 
-      former course, and still closely along the edge of the table. In
+former course, and still closely along the edge of the table. In
 
-      this way the coach proceeded until it arrived opposite the chair
+this way the coach proceeded until it arrived opposite the chair
 
-      of the young prince. It then stopped, the page descended and
+of the young prince. It then stopped, the page descended and
 
-      opened the door, the lady alighted, and presented a petition to
+opened the door, the lady alighted, and presented a petition to
 
-      her sovereign. She then re-entered. The page put up the steps,
+her sovereign. She then re-entered. The page put up the steps,
 
-      closed the door, and resumed his station. The coachman whipped
+closed the door, and resumed his station. The coachman whipped
 
-      his horses, and the carriage was driven back to its original
+his horses, and the carriage was driven back to its original
 
-      position.
+position.
 
 
 
-      The magician of M. Maillardet is also worthy of notice. We copy
+The magician of M. Maillardet is also worthy of notice. We copy
 
-      the following account of it from the _Letters_ before mentioned
+the following account of it from the _Letters_ before mentioned
 
-      of Dr. B., who derived his information principally from the
+of Dr. B., who derived his information principally from the
 
-      Edinburgh Encyclopaedia.
+Edinburgh Encyclopaedia.
 
 
 
-      “One of the most popular pieces of mechanism which we have seen,
+“One of the most popular pieces of mechanism which we have seen,
 
-      Is the Magician constructed by M. Maillardet, for the purpose of
+Is the Magician constructed by M. Maillardet, for the purpose of
 
-      answering certain given questions. A figure, dressed like a
+answering certain given questions. A figure, dressed like a
 
-      magician, appears seated at the [[Bottom|bottom]] of a wall, holding a wand
+magician, appears seated at the [[Bottom|bottom]] of a wall, holding a wand
 
-      in one hand, and a book in the other A number of questions, ready
+in one hand, and a book in the other A number of questions, ready
 
-      prepared, are inscribed on oval medallions, and the spectator
+prepared, are inscribed on oval medallions, and the spectator
 
-      takes any of these he chooses and to which he wishes an answer,
+takes any of these he chooses and to which he wishes an answer,
 
-      and having placed it in a drawer ready to receive it, the drawer
+and having placed it in a drawer ready to receive it, the drawer
 
-      shuts with a [[spring]] till the answer is returned. The magician
+shuts with a [[spring]] till the answer is returned. The magician
 
-      then arises from his seat, bows his head, describes circles with
+then arises from his seat, bows his head, describes circles with
 
-      his wand, and consulting the book as If in deep thought, he lifts
+his wand, and consulting the book as If in deep thought, he lifts
 
-      it towards his face. Having thus appeared to ponder over the
+it towards his face. Having thus appeared to ponder over the
 
-      proposed question he raises his wand, and striking with it the
+proposed question he raises his wand, and striking with it the
 
-      wall above his head, two folding doors fly open, and display an
+wall above his head, two folding doors fly open, and display an
 
-      appropriate answer to the question. The doors again close, the
+appropriate answer to the question. The doors again close, the
 
-      magician resumes his original position, and the drawer opens to
+magician resumes his original position, and the drawer opens to
 
-      return the medallion. There are twenty of these medallions, all
+return the medallion. There are twenty of these medallions, all
 
-      containing different questions, to which the magician returns the
+containing different questions, to which the magician returns the
 
-      most suitable and striking answers. The medallions are thin
+most suitable and striking answers. The medallions are thin
 
-      plates of brass, of an elliptical form, exactly resembling each
+plates of brass, of an elliptical form, exactly resembling each
 
-      other. Some of the medallions have a question inscribed on each
+other. Some of the medallions have a question inscribed on each
 
-      side, both of which the magician answered in succession. If the
+side, both of which the magician answered in succession. If the
 
-      drawer is shut without a medallion being put into it, the
+drawer is shut without a medallion being put into it, the
 
-      magician rises, consults his book, shakes his head, and resumes
+magician rises, consults his book, shakes his head, and resumes
 
-      his seat. The folding doors remain shut, and the drawer is
+his seat. The folding doors remain shut, and the drawer is
 
-      returned empty. If two medallions are put into the drawer
+returned empty. If two medallions are put into the drawer
 
-      together, an answer is returned only to the lower one. When the
+together, an answer is returned only to the lower one. When the
 
-      machinery is wound up, the movements continue about an hour,
+machinery is wound up, the movements continue about an hour,
 
-      during which [[Time|time]] about fifty questions may be answered. The
+during which [[Time|time]] about fifty questions may be answered. The
 
-      inventor stated that the means by which the different medallions
+inventor stated that the means by which the different medallions
 
-      acted upon the machinery, so as to produce the proper answers to
+acted upon the machinery, so as to produce the proper answers to
 
-      the questions which they contained, were extremely simple.”
+the questions which they contained, were extremely simple.”
 
 
 
-      The duck of Vaucanson was still more remarkable. It was _of _the
+The duck of Vaucanson was still more remarkable. It was _of _the
 
-      size of life, and so perfect an [[Imitation|imitation]] of the living animal
+size of life, and so perfect an [[Imitation|imitation]] of the living animal
 
-      that all the spectators were deceived. It executed, says
+that all the spectators were deceived. It executed, says
 
-      Brewster, all the natural movements and gestures, it ate and
+Brewster, all the natural movements and gestures, it ate and
 
-      drank with avidity, performed all the quick motions of the head
+drank with avidity, performed all the quick motions of the head
 
-      and throat which are peculiar to the duck, and like it muddled
+and throat which are peculiar to the duck, and like it muddled
 
-      the [[Water|water]] which it drank with its bill. It produced also the
+the [[Water|water]] which it drank with its bill. It produced also the
 
-      sound of quacking in the most natural manner. In the anatomical
+sound of quacking in the most natural manner. In the anatomical
 
-      structure the [[artist]] exhibited the highest skill. Every bone in
+structure the [[artist]] exhibited the highest skill. Every bone in
 
-      the real duck had its representative In the automaton, and its
+the real duck had its representative In the automaton, and its
 
-      wings were anatomically exact. Every cavity, apophysis, and
+wings were anatomically exact. Every cavity, apophysis, and
 
-      curvature was imitated, and each bone executed its proper
+curvature was imitated, and each bone executed its proper
 
-      movements. When corn was thrown down before it, the duck
+movements. When corn was thrown down before it, the duck
 
-      stretched out its neck to pick it up, swallowed, and digested it.
+stretched out its neck to pick it up, swallowed, and digested it.
 
-      {*1}
+{*1}
 
 
 
-      But if these machines were ingenious, what shall we think of the
+But if these machines were ingenious, what shall we think of the
 
-      calculating [[Machine|machine]] of Mr. Babbage? What shall we think of an
+calculating [[Machine|machine]] of Mr. Babbage? What shall we think of an
 
-      engine of wood and metal which can not only compute astronomical
+engine of wood and metal which can not only compute astronomical
 
-      and navigation tables to any given extent, but render the
+and navigation tables to any given extent, but render the
 
-      exactitude of its operations mathematically certain through its
+exactitude of its operations mathematically certain through its
 
-      power of correcting its possible errors? What shall we think of a
+power of correcting its possible errors? What shall we think of a
 
-      [[Machine|machine]] which can not only accomplish all this, but actually
+[[Machine|machine]] which can not only accomplish all this, but actually
 
-      print off its elaborate results, when obtained, without the
+print off its elaborate results, when obtained, without the
 
-      slightest intervention of the intellect of man? It will, perhaps,
+slightest intervention of the intellect of man? It will, perhaps,
 
-      be said, in reply, that a [[Machine|machine]] such as we have described is
+be said, in reply, that a [[Machine|machine]] such as we have described is
 
-      altogether above comparison with the Chess-Player of Maelzel. By
+altogether above comparison with the Chess-Player of Maelzel. By
 
-      no means—it is altogether beneath it—that is to say provided we
+no means—it is altogether beneath it—that is to say provided we
 
-      assume (what should never for a moment be assumed) that the
+assume (what should never for a moment be assumed) that the
 
-      Chess-Player is a _pure [[Machine|machine]], _and performs its operations
+Chess-Player is a _pure [[Machine|machine]], _and performs its operations
 
-      without any immediate human agency. Arithmetical or algebraical
+without any immediate human agency. Arithmetical or algebraical
 
-      calculations are, from their very [[Nature|nature]], fixed and determinate.
+calculations are, from their very [[Nature|nature]], fixed and determinate.
 
-      Certain _data _being given, certain results necessarily and
+Certain _data _being given, certain results necessarily and
 
-      inevitably follow. These results have dependence upon nothing,
+inevitably follow. These results have dependence upon nothing,
 
-      and are influenced by nothing but the _data _originally given.
+and are influenced by nothing but the _data _originally given.
 
-      And the question to be solved proceeds, or should proceed, to its
+And the question to be solved proceeds, or should proceed, to its
 
-      final determination, by a succession of unerring steps liable to
+final determination, by a succession of unerring steps liable to
 
-      no change, and subject to no modification. This being the case,
+no change, and subject to no modification. This being the case,
 
-      we can without difficulty conceive the _possibility _of so
+we can without difficulty conceive the _possibility _of so
 
-      arranging a piece of mechanism, that upon starting In accordance
+arranging a piece of mechanism, that upon starting In accordance
 
-      with the _data _of the question to be solved, it should continue
+with the _data _of the question to be solved, it should continue
 
-      its movements regularly, progressively, and undeviatingly towards
+its movements regularly, progressively, and undeviatingly towards
 
-      the required solution, since these movements, however complex,
+the required solution, since these movements, however complex,
 
-      are never imagined to be otherwise than finite and determinate.
+are never imagined to be otherwise than finite and determinate.
 
-      But the case is widely different with the Chess-Player. With him
+But the case is widely different with the Chess-Player. With him
 
-      there is no determinate progression. No one move in chess
+there is no determinate progression. No one move in chess
 
-      necessarily follows upon any one other. From no particular
+necessarily follows upon any one other. From no particular
 
-      disposition of the men at one period of a game can we predicate
+disposition of the men at one period of a game can we predicate
 
-      their disposition at a different period. Let us place the _first
+their disposition at a different period. Let us place the _first
 
-      move _in a game of chess, in juxta-position with the _data _of an
+move _in a game of chess, in juxta-position with the _data _of an
 
-      algebraical question, and their great difference will be
+algebraical question, and their great difference will be
 
-      immediately perceived. From the latter—from the _data—_the second
+immediately perceived. From the latter—from the _data—_the second
 
-      step of the question, dependent thereupon, inevitably follows. It
+step of the question, dependent thereupon, inevitably follows. It
 
-      is modelled by the _data. _It must be _thus _and not otherwise.
+is modelled by the _data. _It must be _thus _and not otherwise.
 
-      But from the first move in the game of chess no especial second
+But from the first move in the game of chess no especial second
 
-      move follows of necessity. In the algebraical question, as it
+move follows of necessity. In the algebraical question, as it
 
-      proceeds towards solution, the _certainty _of its operations
+proceeds towards solution, the _certainty _of its operations
 
-      remains altogether unimpaired. The second step having been a
+remains altogether unimpaired. The second step having been a
 
-      consequence of the _data, _the third step is equally a
+consequence of the _data, _the third step is equally a
 
-      consequence of the second, the fourth of the third, the fifth of
+consequence of the second, the fourth of the third, the fifth of
 
-      the fourth, and so on, _and not possibly otherwise, _to the end.
+the fourth, and so on, _and not possibly otherwise, _to the end.
 
-      But in proportion to the progress made in a game of chess, is the
+But in proportion to the progress made in a game of chess, is the
 
-      _uncertainty _of each ensuing move. A few moves having been made,
+_uncertainty _of each ensuing move. A few moves having been made,
 
-      _no _step is certain. Different spectators of the game would
+_no _step is certain. Different spectators of the game would
 
-      advise different moves. All is then dependent upon the variable
+advise different moves. All is then dependent upon the variable
 
-      judgment of the players. Now even granting (what should not be
+judgment of the players. Now even granting (what should not be
 
-      granted) that the movements of the Automaton Chess-Player were in
+granted) that the movements of the Automaton Chess-Player were in
 
-      themselves determinate, they would be necessarily interrupted and
+themselves determinate, they would be necessarily interrupted and
 
-      disarranged by the indeterminate will of his antagonist. There is
+disarranged by the indeterminate will of his antagonist. There is
 
-      then no analogy whatever between the operations of the
+then no analogy whatever between the operations of the
 
-      Chess-Player, and those of the calculating [[Machine|machine]] of Mr.
+Chess-Player, and those of the calculating [[Machine|machine]] of Mr.
 
-      Babbage, and if we choose to call the former a _pure [[Machine|machine]] _we
+Babbage, and if we choose to call the former a _pure [[Machine|machine]] _we
 
-      must be prepared to admit that it is, beyond all comparison, the
+must be prepared to admit that it is, beyond all comparison, the
 
-      most wonderful of the inventions of mankind. Its original
+most wonderful of the inventions of mankind. Its original
 
-      projector, however, Baron Kempelen, had no scruple in declaring
+projector, however, Baron Kempelen, had no scruple in declaring
 
-      it to be a “very ordinary piece of mechanism—a _bagatelle _whose
+it to be a “very ordinary piece of mechanism—a _bagatelle _whose
 
-      effects appeared so marvellous only from the boldness of the
+effects appeared so marvellous only from the boldness of the
 
-      conception, and the fortunate choice of the methods adopted for
+conception, and the fortunate choice of the methods adopted for
 
-      promoting the illusion.” But it is needless to dwell upon this
+promoting the illusion.” But it is needless to dwell upon this
 
-      point. It is quite certain that the operations of the Automaton
+point. It is quite certain that the operations of the Automaton
 
-      are regulated by _mind, _and by nothing else. Indeed this matter
+are regulated by _mind, _and by nothing else. Indeed this matter
 
-      is susceptible of a mathematical demonstration, _a priori. _The
+is susceptible of a mathematical demonstration, _a priori. _The
 
-      only question then is of the _manner _in which human agency is
+only question then is of the _manner _in which human agency is
 
-      brought to bear. Before entering upon this subject it would be as
+brought to bear. Before entering upon this subject it would be as
 
-      [[Well|well]] to give a brief [[history]] and description of the Chess-Player
+[[Well|well]] to give a brief [[history]] and description of the Chess-Player
 
-      for the benefit of such of our readers as may never have had an
+for the benefit of such of our readers as may never have had an
 
-      opportunity of witnessing Mr. Maelzel’s exhibition.
+opportunity of witnessing Mr. Maelzel’s exhibition.
 
 
 
-      The Automaton Chess-Player was invented in 1769, by Baron
+The Automaton Chess-Player was invented in 1769, by Baron
 
-      Kempelen, a nobleman of Presburg, in Hungary, who afterwards
+Kempelen, a nobleman of Presburg, in Hungary, who afterwards
 
-      disposed of it, together with the secret of its operations, to
+disposed of it, together with the secret of its operations, to
 
-      its present possessor. {2*} Soon after its completion it was
+its present possessor. {2*} Soon after its completion it was
 
-      exhibited in Presburg, [[Paris]], Vienna, and other continental
+exhibited in Presburg, [[Paris]], Vienna, and other continental
 
-      cities. In 1783 and 1784, it was taken to [[London]] by Mr. Maelzel.
+cities. In 1783 and 1784, it was taken to [[London]] by Mr. Maelzel.
 
-      Of late years it has visited the principal towns in the United
+Of late years it has visited the principal towns in the United
 
-      States. Wherever seen, the most intense curiosity was excited by
+States. Wherever seen, the most intense curiosity was excited by
 
-      its appearance, and numerous have been the attempts, by men of
+its appearance, and numerous have been the attempts, by men of
 
-      all classes, to fathom the mystery of its evolutions. The cut on
+all classes, to fathom the mystery of its evolutions. The cut on
 
-      this page gives a tolerable representation of the figure as seen
+this page gives a tolerable representation of the figure as seen
 
-      by the citizens of Richmond a few weeks ago. The right arm,
+by the citizens of Richmond a few weeks ago. The right arm,
 
-      however, should lie more at length upon the box, a chess-board
+however, should lie more at length upon the box, a chess-board
 
-      should appear upon it, and the cushion should not be seen while
+should appear upon it, and the cushion should not be seen while
 
-      the pipe is held. Some immaterial alterations have been made in
+the pipe is held. Some immaterial alterations have been made in
 
-      the costume of the player since it came into the possession of
+the costume of the player since it came into the possession of
 
-      Maelzel—the plume, for example, was not originally worn. {image
+Maelzel—the plume, for example, was not originally worn. {image
 
-      of automaton}
+of automaton}
 
 
 
-      At the hour appointed for exhibition, a curtain is withdrawn, or
+At the hour appointed for exhibition, a curtain is withdrawn, or
 
-      folding doors are thrown open, and the [[Machine|machine]] rolled to within
+folding doors are thrown open, and the [[Machine|machine]] rolled to within
 
-      about twelve feet of the nearest of the spectators, between whom
+about twelve feet of the nearest of the spectators, between whom
 
-      and it (the [[Machine|machine]]) a rope is stretched. A figure is seen
+and it (the [[Machine|machine]]) a rope is stretched. A figure is seen
 
-      habited as a Turk, and seated, with its legs crossed, at a large
+habited as a Turk, and seated, with its legs crossed, at a large
 
-      box apparently of maple wood, which serves it as a table. The
+box apparently of maple wood, which serves it as a table. The
 
-      exhibiter will, if requested, roll the [[Machine|machine]] to any portion of
+exhibiter will, if requested, roll the [[Machine|machine]] to any portion of
 
-      the room, suffer it to remain altogether on any designated spot,
+the room, suffer it to remain altogether on any designated spot,
 
-      or even shift its location repeatedly during the progress of a
+or even shift its location repeatedly during the progress of a
 
-      game. The [[Bottom|bottom]] of the box is elevated considerably above the
+game. The [[Bottom|bottom]] of the box is elevated considerably above the
 
-      floor by means of the castors or brazen rollers on which it
+floor by means of the castors or brazen rollers on which it
 
-      moves, a clear view of the surface immediately beneath the
+moves, a clear view of the surface immediately beneath the
 
-      Automaton being thus afforded to the spectators. The chair on
+Automaton being thus afforded to the spectators. The chair on
 
-      which the figure sits is affixed permanently to the box. On the
+which the figure sits is affixed permanently to the box. On the
 
-      top of this latter is a chess-board, also permanently affixed.
+top of this latter is a chess-board, also permanently affixed.
 
-      The right arm of the Chess-Player is extended at full length
+The right arm of the Chess-Player is extended at full length
 
-      before him, at right angles with his [[Body|body]], and lying, in an
+before him, at right angles with his [[Body|body]], and lying, in an
 
-      apparently careless position, by the side of the board. The back
+apparently careless position, by the side of the board. The back
 
-      of the hand is upwards. The board itself is eighteen inches
+of the hand is upwards. The board itself is eighteen inches
 
-      square. The left arm of the figure is bent at the elbow, and in
+square. The left arm of the figure is bent at the elbow, and in
 
-      the left hand is a pipe. A green drapery conceals the back of the
+the left hand is a pipe. A green drapery conceals the back of the
 
-      Turk, and falls partially over the front of both shoulders. To
+Turk, and falls partially over the front of both shoulders. To
 
-      judge from the external appearance of the box, it is divided into
+judge from the external appearance of the box, it is divided into
 
-      five compartments—three cupboards of equal dimensions, and two
+five compartments—three cupboards of equal dimensions, and two
 
-      drawers occupying that portion of the chest lying beneath the
+drawers occupying that portion of the chest lying beneath the
 
-      cupboards. The foregoing observations apply to the appearance of
+cupboards. The foregoing observations apply to the appearance of
 
-      the Automaton upon its first introduction into the presence of
+the Automaton upon its first introduction into the presence of
 
-      the spectators.
+the spectators.
 
 
 
-      Maelzel now informs the company that he will disclose to their
+Maelzel now informs the company that he will disclose to their
 
-      view the mechanism of the [[Machine|machine]]. Taking from his pocket a bunch
+view the mechanism of the [[Machine|machine]]. Taking from his pocket a bunch
 
-      of keys he unlocks with one of them, door marked ~ in the cut
+of keys he unlocks with one of them, door marked ~ in the cut
 
-      above, and throws the cupboard fully open to the inspection of
+above, and throws the cupboard fully open to the inspection of
 
-      all present. Its whole interior is apparently filled with wheels,
+all present. Its whole interior is apparently filled with wheels,
 
-      pinions, levers, and other machinery, crowded very closely
+pinions, levers, and other machinery, crowded very closely
 
-      together, so that the eye can penetrate but a little distance
+together, so that the eye can penetrate but a little distance
 
-      into the mass. Leaving this door open to its full extent, he goes
+into the mass. Leaving this door open to its full extent, he goes
 
-      now round to the back of the box, and raising the drapery of the
+now round to the back of the box, and raising the drapery of the
 
-      figure, opens another door situated precisely in the rear of the
+figure, opens another door situated precisely in the rear of the
 
-      one first opened. Holding a lighted candle at this door, and
+one first opened. Holding a lighted candle at this door, and
 
-      shifting the position of the whole [[Machine|machine]] repeatedly at the same
+shifting the position of the whole [[Machine|machine]] repeatedly at the same
 
-      [[Time|time]], a bright light is thrown entirely through the cupboard,
+[[Time|time]], a bright light is thrown entirely through the cupboard,
 
-      which is now clearly seen to be full, completely full, of
+which is now clearly seen to be full, completely full, of
 
-      machinery. The spectators being satisfied of this fact, Maelzel
+machinery. The spectators being satisfied of this fact, Maelzel
 
-      closes the back door, locks it, takes the key from the lock, lets
+closes the back door, locks it, takes the key from the lock, lets
 
-      fall the drapery of the figure, and comes round to the front. The
+fall the drapery of the figure, and comes round to the front. The
 
-      door marked I, it will be remembered, is still open. The
+door marked I, it will be remembered, is still open. The
 
-      exhibiter now proceeds to open the drawer which lies beneath the
+exhibiter now proceeds to open the drawer which lies beneath the
 
-      cupboards at the [[Bottom|bottom]] of the box—for although there are
+cupboards at the [[Bottom|bottom]] of the box—for although there are
 
-      apparently two drawers, there is really only one—the two handles
+apparently two drawers, there is really only one—the two handles
 
-      and two key holes being intended merely for ornament. Having
+and two key holes being intended merely for ornament. Having
 
-      opened this drawer to its full extent, a small cushion, and a set
+opened this drawer to its full extent, a small cushion, and a set
 
-      of chessmen, fixed in a frame work made to support them
+of chessmen, fixed in a frame work made to support them
 
-      perpendicularly, are discovered. Leaving this drawer, as [[Well|well]] as
+perpendicularly, are discovered. Leaving this drawer, as [[Well|well]] as
 
-      cupboard No. 1 open, Maelzel now unlocks door No. 2, and door No.
+cupboard No. 1 open, Maelzel now unlocks door No. 2, and door No.
 
-      3, which are discovered to be folding doors, opening into one and
+3, which are discovered to be folding doors, opening into one and
 
-      the same compartment. To the right of this compartment, however,
+the same compartment. To the right of this compartment, however,
 
-      (that is to say the spectators’ right) a small division, six
+(that is to say the spectators’ right) a small division, six
 
-      inches wide, and filled with machinery, is partitioned off. The
+inches wide, and filled with machinery, is partitioned off. The
 
-      main compartment itself (in speaking of that portion of the box
+main compartment itself (in speaking of that portion of the box
 
-      visible upon opening doors 2 and 3, we shall always call it the
+visible upon opening doors 2 and 3, we shall always call it the
 
-      main compartment) is lined with dark cloth and contains no
+main compartment) is lined with dark cloth and contains no
 
-      machinery whatever beyond two pieces of steel, quadrant-shaped,
+machinery whatever beyond two pieces of steel, quadrant-shaped,
 
-      and situated one in each of the rear top corners of the
+and situated one in each of the rear top corners of the
 
-      compartment. A small protuberance about eight inches square, and
+compartment. A small protuberance about eight inches square, and
 
-      also covered with dark cloth, lies on the floor of the
+also covered with dark cloth, lies on the floor of the
 
-      compartment near the rear corner on the spectators’ left hand.
+compartment near the rear corner on the spectators’ left hand.
 
-      Leaving doors No. 2 and No. 3 open as [[Well|well]] as the drawer, and
+Leaving doors No. 2 and No. 3 open as [[Well|well]] as the drawer, and
 
-      door No. I, the exhibiter now goes round to the back of the main
+door No. I, the exhibiter now goes round to the back of the main
 
-      compartment, and, unlocking another door there, displays clearly
+compartment, and, unlocking another door there, displays clearly
 
-      all the interior of the main compartment, by introducing a candle
+all the interior of the main compartment, by introducing a candle
 
-      behind it and within it. The whole box being thus apparently
+behind it and within it. The whole box being thus apparently
 
-      disclosed to the scrutiny of the company, Maelzel, still leaving
+disclosed to the scrutiny of the company, Maelzel, still leaving
 
-      the doors and drawer open, rolls the Automaton entirely round,
+the doors and drawer open, rolls the Automaton entirely round,
 
-      and exposes the back of the Turk by lifting up the drapery. A
+and exposes the back of the Turk by lifting up the drapery. A
 
-      door about ten inches square is thrown open in the loins of the
+door about ten inches square is thrown open in the loins of the
 
-      figure, and a smaller one also in the left thigh. The interior of
+figure, and a smaller one also in the left thigh. The interior of
 
-      the figure, as seen through these apertures, appears to be
+the figure, as seen through these apertures, appears to be
 
-      crowded with machinery. In general, every spectator is now
+crowded with machinery. In general, every spectator is now
 
-      thoroughly satisfied of having beheld and completely scrutinized,
+thoroughly satisfied of having beheld and completely scrutinized,
 
-      at one and the same [[Time|time]], every individual portion of the
+at one and the same [[Time|time]], every individual portion of the
 
-      Automaton, and the idea of any person being concealed in the
+Automaton, and the idea of any person being concealed in the
 
-      interior, during so complete an exhibition of that interior, if
+interior, during so complete an exhibition of that interior, if
 
-      ever entertained, is immediately dismissed as preposterous in the
+ever entertained, is immediately dismissed as preposterous in the
 
-      extreme.
+extreme.
 
 
 
-      M. Maelzel, having rolled the [[Machine|machine]] back into its original
+M. Maelzel, having rolled the [[Machine|machine]] back into its original
 
-      position, now informs the company that the Automaton will play a
+position, now informs the company that the Automaton will play a
 
-      game of chess with any one disposed to encounter him. This
+game of chess with any one disposed to encounter him. This
 
-      challenge being accepted, a small table is prepared for the
+challenge being accepted, a small table is prepared for the
 
-      antagonist, and placed close by the rope, but on the spectators’
+antagonist, and placed close by the rope, but on the spectators’
 
-      side of it, and so situated as not to prevent the company from
+side of it, and so situated as not to prevent the company from
 
-      obtaining a full view of the Automaton. From a drawer in this
+obtaining a full view of the Automaton. From a drawer in this
 
-      table is taken a set of chess-men, and Maelzel arranges them
+table is taken a set of chess-men, and Maelzel arranges them
 
-      generally, but not always, with his own hands, on the chess
+generally, but not always, with his own hands, on the chess
 
-      board, which consists merely of the usual number of squares
+board, which consists merely of the usual number of squares
 
-      painted upon the table. The antagonist having taken his seat, the
+painted upon the table. The antagonist having taken his seat, the
 
-      exhibiter approaches the drawer of the box, and takes therefrom
+exhibiter approaches the drawer of the box, and takes therefrom
 
-      the cushion, which, after removing the pipe from the hand of the
+the cushion, which, after removing the pipe from the hand of the
 
-      Automaton, he places under its left arm as a support. Then taking
+Automaton, he places under its left arm as a support. Then taking
 
-      also from the drawer the Automaton’s set of chess-men, he
+also from the drawer the Automaton’s set of chess-men, he
 
-      arranges them upon the chessboard before the figure. He now
+arranges them upon the chessboard before the figure. He now
 
-      proceeds to close the doors and to lock them—leaving the bunch of
+proceeds to close the doors and to lock them—leaving the bunch of
 
-      keys in door No. 1. He also closes the drawer, and, finally,
+keys in door No. 1. He also closes the drawer, and, finally,
 
-      winds up the [[Machine|machine]], by applying a key to an aperture in the
+winds up the [[Machine|machine]], by applying a key to an aperture in the
 
-      left end (the spectators’ left) of the box. The game now
+left end (the spectators’ left) of the box. The game now
 
-      commences—the Automaton taking the first move. The duration of
+commences—the Automaton taking the first move. The duration of
 
-      the contest is usually limited to half an hour, but if it be not
+the contest is usually limited to half an hour, but if it be not
 
-      finished at the expiration of this period, and the antagonist
+finished at the expiration of this period, and the antagonist
 
-      still contend that he can beat the Automaton, M. Maelzel has
+still contend that he can beat the Automaton, M. Maelzel has
 
-      seldom any objection to continue it. Not to weary the company, is
+seldom any objection to continue it. Not to weary the company, is
 
-      the ostensible, and no [[Doubt|doubt]] the real object of the limitation.
+the ostensible, and no [[Doubt|doubt]] the real object of the limitation.
 
-      It Wits of course be understood that when a move is made at his
+It Wits of course be understood that when a move is made at his
 
-      own table, by the antagonist, the corresponding move is made at
+own table, by the antagonist, the corresponding move is made at
 
-      the box of the Automaton, by Maelzel himself, who then acts as
+the box of the Automaton, by Maelzel himself, who then acts as
 
-      the representative of the antagonist. On the other hand, when the
+the representative of the antagonist. On the other hand, when the
 
-      Turk moves, the corresponding move is made at the table of the
+Turk moves, the corresponding move is made at the table of the
 
-      antagonist, also by M. Maelzel, who then acts as the
+antagonist, also by M. Maelzel, who then acts as the
 
-      representative of the Automaton. In this manner it is necessary
+representative of the Automaton. In this manner it is necessary
 
-      that the exhibiter should often pass from one table to the other.
+that the exhibiter should often pass from one table to the other.
 
-      He also frequently goes in rear of the figure to remove the
+He also frequently goes in rear of the figure to remove the
 
-      chess-men which it has taken, and which it deposits, when taken,
+chess-men which it has taken, and which it deposits, when taken,
 
-      on the box to the left (to its own left) of the board. When the
+on the box to the left (to its own left) of the board. When the
 
-      Automaton hesitates in relation to its move, the exhibiter is
+Automaton hesitates in relation to its move, the exhibiter is
 
-      occasionally seen to place himself very near its right side, and
+occasionally seen to place himself very near its right side, and
 
-      to lay his hand, now and then, in a careless manner upon the box.
+to lay his hand, now and then, in a careless manner upon the box.
 
-      He has also a peculiar shuffle with his feet, calculated to
+He has also a peculiar shuffle with his feet, calculated to
 
-      induce suspicion of collusion with the [[Machine|machine]] in minds which are
+induce suspicion of collusion with the [[Machine|machine]] in minds which are
 
-      more cunning than sagacious. These peculiarities are, no [[Doubt|doubt]],
+more cunning than sagacious. These peculiarities are, no [[Doubt|doubt]],
 
-      mere mannerisms of M. Maelzel, or, if he is aware of them at all,
+mere mannerisms of M. Maelzel, or, if he is aware of them at all,
 
-      he puts them in practice with a view of exciting in the
+he puts them in practice with a view of exciting in the
 
-      spectators a false idea of the pure mechanism in the Automaton.
+spectators a false idea of the pure mechanism in the Automaton.
 
 
 
-      The Turk plays with his left hand. All the movements of the arm
+The Turk plays with his left hand. All the movements of the arm
 
-      are at right angles. In this manner, the hand (which is gloved
+are at right angles. In this manner, the hand (which is gloved
 
-      and bent in a natural way,) being brought directly above the
+and bent in a natural way,) being brought directly above the
 
-      piece to be moved, descends finally upon it, the fingers
+piece to be moved, descends finally upon it, the fingers
 
-      receiving it, in most cases, without difficulty. Occasionally,
+receiving it, in most cases, without difficulty. Occasionally,
 
-      however, when the piece is not precisely in its proper situation,
+however, when the piece is not precisely in its proper situation,
 
-      the Automaton fails in his attempt at seizing it. When this
+the Automaton fails in his attempt at seizing it. When this
 
-      occurs, no second effort is made, but the arm continues its
+occurs, no second effort is made, but the arm continues its
 
-      movement in the direction originally intended, precisely as if
+movement in the direction originally intended, precisely as if
 
-      the piece were in the fingers. Having thus designated the spot
+the piece were in the fingers. Having thus designated the spot
 
-      whither the move should have been made, the arm returns to its
+whither the move should have been made, the arm returns to its
 
-      cushion, and Maelzel performs the evolution which the Automaton
+cushion, and Maelzel performs the evolution which the Automaton
 
-      pointed out. At every movement of the figure machinery is heard
+pointed out. At every movement of the figure machinery is heard
 
-      in motion. During the progress of the game, the figure now and
+in motion. During the progress of the game, the figure now and
 
-      then rolls its eyes, as if surveying the board, moves its head,
+then rolls its eyes, as if surveying the board, moves its head,
 
-      and pronounces the word _echec _(check) when necessary. {*3} If a
+and pronounces the word _echec _(check) when necessary. {*3} If a
 
-      false move be made by his antagonist, he raps briskly on the box
+false move be made by his antagonist, he raps briskly on the box
 
-      with the fingers of his right hand, shakes his head roughly, and
+with the fingers of his right hand, shakes his head roughly, and
 
-      replacing the piece falsely moved, in its former situation,
+replacing the piece falsely moved, in its former situation,
 
-      assumes the next move himself. Upon beating the game, he waves
+assumes the next move himself. Upon beating the game, he waves
 
-      his head with an air of triumph, looks round complacently upon
+his head with an air of triumph, looks round complacently upon
 
-      the spectators, and drawing his left arm farther back than usual,
+the spectators, and drawing his left arm farther back than usual,
 
-      suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
+suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
 
-      the Turk is victorious—once or twice he has been beaten. The game
+the Turk is victorious—once or twice he has been beaten. The game
 
-      being ended, Maelzel will again if desired, exhibit the mechanism
+being ended, Maelzel will again if desired, exhibit the mechanism
 
-      of the box, in the same manner as before. The [[Machine|machine]] is then
+of the box, in the same manner as before. The [[Machine|machine]] is then
 
-      rolled back, and a curtain hides it from the view of the company.
+rolled back, and a curtain hides it from the view of the company.
 
 
 
-      There have been many attempts at solving the mystery of the
+There have been many attempts at solving the mystery of the
 
-      Automaton. The most general opinion in relation to it, an opinion
+Automaton. The most general opinion in relation to it, an opinion
 
-      too not unfrequently adopted by men who should have known better,
+too not unfrequently adopted by men who should have known better,
 
-      was, as we have before said, that no immediate human agency was
+was, as we have before said, that no immediate human agency was
 
-      employed—in other words, that the [[Machine|machine]] was purely a [[Machine|machine]]
+employed—in other words, that the [[Machine|machine]] was purely a [[Machine|machine]]
 
-      and nothing else. Many, however maintained that the exhibiter
+and nothing else. Many, however maintained that the exhibiter
 
-      himself regulated the movements of the figure by mechanical means
+himself regulated the movements of the figure by mechanical means
 
-      operating through the feet of the box. Others again, spoke
+operating through the feet of the box. Others again, spoke
 
-      confidently of a magnet. Of the first of these opinions we shall
+confidently of a magnet. Of the first of these opinions we shall
 
-      say nothing at present more than we have already said. In
+say nothing at present more than we have already said. In
 
-      relation to the second it is only necessary to repeat what we
+relation to the second it is only necessary to repeat what we
 
-      have before stated, that the [[Machine|machine]] is rolled about on castors,
+have before stated, that the [[Machine|machine]] is rolled about on castors,
 
-      and will, at the request of a spectator, be moved to and fro to
+and will, at the request of a spectator, be moved to and fro to
 
-      any portion of the room, even during the progress of a game. The
+any portion of the room, even during the progress of a game. The
 
-      supposition of the magnet is also untenable—for if a magnet were
+supposition of the magnet is also untenable—for if a magnet were
 
-      the agent, any other magnet in the pocket of a spectator would
+the agent, any other magnet in the pocket of a spectator would
 
-      disarrange the entire mechanism. The exhibiter, however, will
+disarrange the entire mechanism. The exhibiter, however, will
 
-      suffer the most powerful loadstone to remain even upon the box
+suffer the most powerful loadstone to remain even upon the box
 
-      during the whole of the exhibition.
+during the whole of the exhibition.
 
 
 
-      The first attempt at a written explanation of the secret, at
+The first attempt at a written explanation of the secret, at
 
-      least the first attempt of which we ourselves have any knowledge,
+least the first attempt of which we ourselves have any knowledge,
 
-      was made in a large pamphlet printed at [[Paris]] in 1785. The
+was made in a large pamphlet printed at [[Paris]] in 1785. The
 
-      author’s hypothesis amounted to this—that a [[Dwarf|dwarf]] actuated the
+author’s hypothesis amounted to this—that a [[Dwarf|dwarf]] actuated the
 
-      [[Machine|machine]]. This [[Dwarf|dwarf]] he supposed to conceal himself during the
+[[Machine|machine]]. This [[Dwarf|dwarf]] he supposed to conceal himself during the
 
-      opening of the box by thrusting his legs into two hollow
+opening of the box by thrusting his legs into two hollow
 
-      cylinders, which were represented to be (but which are not) among
+cylinders, which were represented to be (but which are not) among
 
-      the machinery in the cupboard No. I, while his [[Body|body]] was out of
+the machinery in the cupboard No. I, while his [[Body|body]] was out of
 
-      the box entirely, and covered by the drapery of the Turk. When
+the box entirely, and covered by the drapery of the Turk. When
 
-      the doors were shut, the [[Dwarf|dwarf]] was enabled to bring his [[Body|body]]
+the doors were shut, the [[Dwarf|dwarf]] was enabled to bring his [[Body|body]]
 
-      within the box—the noise produced by some portion of the
+within the box—the noise produced by some portion of the
 
-      machinery allowing him to do so unheard, and also to close the
+machinery allowing him to do so unheard, and also to close the
 
-      door by which he entered. The interior of the automaton being
+door by which he entered. The interior of the automaton being
 
-      then exhibited, and no person discovered, the spectators, says
+then exhibited, and no person discovered, the spectators, says
 
-      the author of this pamphlet, are satisfied that no one is within
+the author of this pamphlet, are satisfied that no one is within
 
-      any portion of the [[Machine|machine]]. This whole hypothesis was too
+any portion of the [[Machine|machine]]. This whole hypothesis was too
 
-      obviously absurd to require comment, or refutation, and
+obviously absurd to require comment, or refutation, and
 
-      accordingly we find that it attracted very little attention.
+accordingly we find that it attracted very little attention.
 
 
 
-      In 1789 a book was published at Dresden by M. I. F. Freyhere in
+In 1789 a book was published at Dresden by M. I. F. Freyhere in
 
-      which another endeavor was made to unravel the mystery. Mr.
+which another endeavor was made to unravel the mystery. Mr.
 
-      Freyhere’s book was a pretty large one, and copiously illustrated
+Freyhere’s book was a pretty large one, and copiously illustrated
 
-      by colored engravings. His supposition was that “a [[Well|well]]-taught
+by colored engravings. His supposition was that “a [[Well|well]]-taught
 
-      boy very thin and tall of his age (sufficiently so that he could
+boy very thin and tall of his age (sufficiently so that he could
 
-      be concealed in a drawer almost immediately under the
+be concealed in a drawer almost immediately under the
 
-      chess-board”) played the game of chess and effected all the
+chess-board”) played the game of chess and effected all the
 
-      evolutions of the Automaton. This idea, although even more silly
+evolutions of the Automaton. This idea, although even more silly
 
-      than that of the Parisian author, met with a better reception,
+than that of the Parisian author, met with a better reception,
 
-      and was in some measure believed to be the true solution of the
+and was in some measure believed to be the true solution of the
 
-      [[Wonder|wonder]], until the inventor put an end to the discussion by
+[[Wonder|wonder]], until the inventor put an end to the discussion by
 
-      [[Suffering|suffering]] a close examination of the top of the box.
+[[Suffering|suffering]] a close examination of the top of the box.
 
 
 
-      These bizarre attempts at explanation were followed by others
+These bizarre attempts at explanation were followed by others
 
-      equally bizarre. Of late years however, an anonymous writer, by a
+equally bizarre. Of late years however, an anonymous writer, by a
 
-      course of reasoning exceedingly unphilosophical, has contrived to
+course of reasoning exceedingly unphilosophical, has contrived to
 
-      blunder upon a plausible solution—although we cannot consider it
+blunder upon a plausible solution—although we cannot consider it
 
-      altogether the true one. His [[Essay]] was first published in a
+altogether the true one. His [[Essay]] was first published in a
 
-      Baltimore weekly paper, was illustrated by cuts, and was entitled
+Baltimore weekly paper, was illustrated by cuts, and was entitled
 
-      “An attempt to analyze the Automaton Chess-Player of M. Maelzel.”
+“An attempt to analyze the Automaton Chess-Player of M. Maelzel.”
 
-      This [[Essay]] we suppose to have been the original of the _pamphlet
+This [[Essay]] we suppose to have been the original of the _pamphlet
 
-      to _which Sir David Brewster alludes in his letters on Natural
+to _which Sir David Brewster alludes in his letters on Natural
 
-      [[Magic]], and which he has no hesitation in declaring a thorough and
+[[Magic]], and which he has no hesitation in declaring a thorough and
 
-      satisfactory explanation. The _results _of the analysis are
+satisfactory explanation. The _results _of the analysis are
 
-      undoubtedly, in the main, just; but we can only account for
+undoubtedly, in the main, just; but we can only account for
 
-      Brewster’s pronouncing the [[Essay]] a thorough and satisfactory
+Brewster’s pronouncing the [[Essay]] a thorough and satisfactory
 
-      explanation, by supposing him to have bestowed upon it a very
+explanation, by supposing him to have bestowed upon it a very
 
-      cursory and inattentive perusal. In the compendium of the [[Essay]],
+cursory and inattentive perusal. In the compendium of the [[Essay]],
 
-      made use of in the Letters on Natural [[Magic]], it is quite
+made use of in the Letters on Natural [[Magic]], it is quite
 
-      impossible to arrive at any distinct conclusion in regard to the
+impossible to arrive at any distinct conclusion in regard to the
 
-      adequacy or inadequacy of the analysis, on account of the gross
+adequacy or inadequacy of the analysis, on account of the gross
 
-      misarrangement and deficiency of the letters of reference
+misarrangement and deficiency of the letters of reference
 
-      employed. The same fault is to be found in the “Attempt &c.,” as
+employed. The same fault is to be found in the “Attempt &c.,” as
 
-      we originally saw it. The solution consists in a series of minute
+we originally saw it. The solution consists in a series of minute
 
-      explanations, (accompanied by wood-cuts, the whole occupying many
+explanations, (accompanied by wood-cuts, the whole occupying many
 
-      pages) in which the object is to show the _possibility _of _so
+pages) in which the object is to show the _possibility _of _so
 
-      shifting the partitions _of the box, as to allow a human being,
+shifting the partitions _of the box, as to allow a human being,
 
-      concealed in the interior, to move portions of his [[Body|body]] from one
+concealed in the interior, to move portions of his [[Body|body]] from one
 
-      part of the box to another, during the exhibition of the
+part of the box to another, during the exhibition of the
 
-      mechanism—thus eluding the scrutiny of the spectators. There can
+mechanism—thus eluding the scrutiny of the spectators. There can
 
-      be no [[Doubt|doubt]], as we have before observed, and as we will presently
+be no [[Doubt|doubt]], as we have before observed, and as we will presently
 
-      endeavor to show, that the principle, or rather the result, of
+endeavor to show, that the principle, or rather the result, of
 
-      this solution is the true one. Some person is concealed in the
+this solution is the true one. Some person is concealed in the
 
-      box during the whole [[Time|time]] of exhibiting the interior. We object,
+box during the whole [[Time|time]] of exhibiting the interior. We object,
 
-      however, to the whole verbose description of the _manner _in
+however, to the whole verbose description of the _manner _in
 
-      which the partitions are shifted, to accommodate the movements of
+which the partitions are shifted, to accommodate the movements of
 
-      the person concealed. We object to it as a mere theory assumed in
+the person concealed. We object to it as a mere theory assumed in
 
-      the first place, and to which circumstances are afterwards made
+the first place, and to which circumstances are afterwards made
 
-      to adapt themselves. It was not, and could not have been, arrived
+to adapt themselves. It was not, and could not have been, arrived
 
-      at by any inductive reasoning. In whatever way the shifting is
+at by any inductive reasoning. In whatever way the shifting is
 
-      managed, it is of course concealed at every step from
+managed, it is of course concealed at every step from
 
-      observation. To show that certain movements might possibly be
+observation. To show that certain movements might possibly be
 
-      effected in a certain way, is very far from showing that they are
+effected in a certain way, is very far from showing that they are
 
-      actually so effected. There may be an infinity of other methods
+actually so effected. There may be an infinity of other methods
 
-      by which the same results may be obtained. The probability of the
+by which the same results may be obtained. The probability of the
 
-      one assumed proving the correct one is then as [[unity]] to infinity.
+one assumed proving the correct one is then as [[unity]] to infinity.
 
-      But, in reality, this particular point, the shifting of the
+But, in reality, this particular point, the shifting of the
 
-      partitions, is of no consequence whatever. It was altogether
+partitions, is of no consequence whatever. It was altogether
 
-      unnecessary to devote seven or eight pages for the purpose of
+unnecessary to devote seven or eight pages for the purpose of
 
-      proving what no one in his senses would deny—viz: that the
+proving what no one in his senses would deny—viz: that the
 
-      wonderful mechanical genius of Baron Kempelen could invent the
+wonderful mechanical genius of Baron Kempelen could invent the
 
-      necessary means for shutting a door or slipping aside a pannel,
+necessary means for shutting a door or slipping aside a pannel,
 
-      with a human agent too at his service in actual contact with the
+with a human agent too at his service in actual contact with the
 
-      pannel or the door, and the whole operations carried on, as the
+pannel or the door, and the whole operations carried on, as the
 
-      author of the [[Essay]] himself shows, and as we shall attempt to
+author of the [[Essay]] himself shows, and as we shall attempt to
 
-      show more fully hereafter, entirely out of reach of the
+show more fully hereafter, entirely out of reach of the
 
-      observation of the spectators.
+observation of the spectators.
 
 
 
-      In attempting ourselves an explanation of the Automaton, we will,
+In attempting ourselves an explanation of the Automaton, we will,
 
-      in the first place, endeavor to show how its operations are
+in the first place, endeavor to show how its operations are
 
-      effected, and afterwards describe, as briefly as possible, the
+effected, and afterwards describe, as briefly as possible, the
 
-      [[Nature|nature]] of the _observations _from which we have deduced our
+[[Nature|nature]] of the _observations _from which we have deduced our
 
-      result.
+result.
 
 
 
-      It will be necessary for a proper understanding of the subject,
+It will be necessary for a proper understanding of the subject,
 
-      that we repeat here in a few words, the routine adopted by the
+that we repeat here in a few words, the routine adopted by the
 
-      exhibiter in disclosing the interior of the box—a routine from
+exhibiter in disclosing the interior of the box—a routine from
 
-      which he _never _deviates in any material particular. In the
+which he _never _deviates in any material particular. In the
 
-      first place he opens the door No. I. Leaving this open, he goes
+first place he opens the door No. I. Leaving this open, he goes
 
-      round to the rear of the box, and opens a door precisely at the
+round to the rear of the box, and opens a door precisely at the
 
-      back of door No. I. To this back door he holds a lighted candle.
+back of door No. I. To this back door he holds a lighted candle.
 
-      He then _closes the back door, _locks it, and, coming round to
+He then _closes the back door, _locks it, and, coming round to
 
-      the front, opens the drawer to its full extent. This done, he
+the front, opens the drawer to its full extent. This done, he
 
-      opens the doors No. 2 and No. 3, (the folding doors) and displays
+opens the doors No. 2 and No. 3, (the folding doors) and displays
 
-      the interior of the main compartment. Leaving open the main
+the interior of the main compartment. Leaving open the main
 
-      compartment, the drawer, and the front door of cupboard No. I, he
+compartment, the drawer, and the front door of cupboard No. I, he
 
-      now goes to the rear again, and throws open the back door of the
+now goes to the rear again, and throws open the back door of the
 
-      main compartment. In shutting up the box no particular order is
+main compartment. In shutting up the box no particular order is
 
-      observed, except that the folding doors are always closed before
+observed, except that the folding doors are always closed before
 
-      the drawer.
+the drawer.
 
 
 
-      Now, let us suppose that when the [[Machine|machine]] is first rolled into
+Now, let us suppose that when the [[Machine|machine]] is first rolled into
 
-      the presence of the spectators, a man is already within it. His
+the presence of the spectators, a man is already within it. His
 
-      [[Body|body]] is situated behind the dense machinery in cupboard No. T.
+[[Body|body]] is situated behind the dense machinery in cupboard No. T.
 
-      (the rear portion of which machinery is so contrived as to slip
+(the rear portion of which machinery is so contrived as to slip
 
-      _en masse, _from the main compartment to the cupboard No. I, as
+_en masse, _from the main compartment to the cupboard No. I, as
 
-      occasion may require,) and his legs lie at full length in the
+occasion may require,) and his legs lie at full length in the
 
-      main compartment. When Maelzel opens the door No. I, the man
+main compartment. When Maelzel opens the door No. I, the man
 
-      within is not in any danger of discovery, for the keenest eye
+within is not in any danger of discovery, for the keenest eye
 
-      cannot penetrate more than about two inches into the darkness
+cannot penetrate more than about two inches into the darkness
 
-      within. But the case is otherwise when the back door of the
+within. But the case is otherwise when the back door of the
 
-      cupboard No. I, is opened. A bright light then pervades the
+cupboard No. I, is opened. A bright light then pervades the
 
-      cupboard, and the [[Body|body]] of the man would be discovered if it were
+cupboard, and the [[Body|body]] of the man would be discovered if it were
 
-      there. But it is not. The putting the key in the lock of the back
+there. But it is not. The putting the key in the lock of the back
 
-      door was a signal on hearing which the person concealed brought
+door was a signal on hearing which the person concealed brought
 
-      his [[Body|body]] forward to an angle as acute as possible—throwing it
+his [[Body|body]] forward to an angle as acute as possible—throwing it
 
-      altogether, or nearly so, into the main compartment. This,
+altogether, or nearly so, into the main compartment. This,
 
-      however, is a painful position, and cannot be long maintained.
+however, is a painful position, and cannot be long maintained.
 
-      Accordingly we find that Maelzel _closes the back door. _This
+Accordingly we find that Maelzel _closes the back door. _This
 
-      being done, there is no reason why the [[Body|body]] of the man may not
+being done, there is no reason why the [[Body|body]] of the man may not
 
-      resume its former situation—for the cupboard is again so dark as
+resume its former situation—for the cupboard is again so dark as
 
-      to defy scrutiny. The drawer is now opened, and the legs of the
+to defy scrutiny. The drawer is now opened, and the legs of the
 
-      person within drop down behind it in the space it formerly
+person within drop down behind it in the space it formerly
 
-      occupied. {*4} There is, consequently, now no longer any part of
+occupied. {*4} There is, consequently, now no longer any part of
 
-      the man in the main compartment—his [[Body|body]] being behind the
+the man in the main compartment—his [[Body|body]] being behind the
 
-      machinery in cupboard No. 1, and his legs in the space occupied
+machinery in cupboard No. 1, and his legs in the space occupied
 
-      by the drawer. The exhibiter, therefore, finds himself at liberty
+by the drawer. The exhibiter, therefore, finds himself at liberty
 
-      to display the main compartment. This he does—opening both its
+to display the main compartment. This he does—opening both its
 
-      back and front doors—and no person Is discovered. The spectators
+back and front doors—and no person Is discovered. The spectators
 
-      are now satisfied that the whole of the box is exposed to
+are now satisfied that the whole of the box is exposed to
 
-      view—and exposed too, all portions of it at one and the same
+view—and exposed too, all portions of it at one and the same
 
-      [[Time|time]]. But of course this is not the case. They neither see the
+[[Time|time]]. But of course this is not the case. They neither see the
 
-      space behind the drawer, nor the interior of cupboard No. 1—the
+space behind the drawer, nor the interior of cupboard No. 1—the
 
-      front door of which latter the exhibiter virtually shuts in
+front door of which latter the exhibiter virtually shuts in
 
-      shutting its back door. Maelzel, having now rolled the [[Machine|machine]]
+shutting its back door. Maelzel, having now rolled the [[Machine|machine]]
 
-      around, lifted up the drapery of the Turk, opened the doors in
+around, lifted up the drapery of the Turk, opened the doors in
 
-      his back and thigh, and shown his trunk to be full of machinery,
+his back and thigh, and shown his trunk to be full of machinery,
 
-      brings the whole back into its original position, and closes the
+brings the whole back into its original position, and closes the
 
-      doors. The man within is now at liberty to move about. He gets up
+doors. The man within is now at liberty to move about. He gets up
 
-      into the [[Body|body]] of the Turk just so high as to bring his eyes above
+into the [[Body|body]] of the Turk just so high as to bring his eyes above
 
-      the level of the chess-board. It is very probable that he seats
+the level of the chess-board. It is very probable that he seats
 
-      himself upon the little square block or protuberance which is
+himself upon the little square block or protuberance which is
 
-      seen in a corner of the main compartment when the doors are open.
+seen in a corner of the main compartment when the doors are open.
 
-      In this position he sees the chess-board through the bosom of the
+In this position he sees the chess-board through the bosom of the
 
-      Turk which is of gauze. Bringing his right arm across his breast
+Turk which is of gauze. Bringing his right arm across his breast
 
-      he actuates the little machinery necessary to guide the left arm
+he actuates the little machinery necessary to guide the left arm
 
-      and the fingers of the figure. This machinery is situated just
+and the fingers of the figure. This machinery is situated just
 
-      beneath the left shoulder of the Turk, and is consequently easily
+beneath the left shoulder of the Turk, and is consequently easily
 
-      reached by the right hand of the man concealed, if we suppose his
+reached by the right hand of the man concealed, if we suppose his
 
-      right arm brought across the breast. The motions of the head and
+right arm brought across the breast. The motions of the head and
 
-      eyes, and of the right arm of the figure, as [[Well|well]] as the sound
+eyes, and of the right arm of the figure, as [[Well|well]] as the sound
 
-      _echec _are produced by other mechanism in the interior, and
+_echec _are produced by other mechanism in the interior, and
 
-      actuated at will by the man within. The whole of this
+actuated at will by the man within. The whole of this
 
-      mechanism—that is to say all the mechanism essential to the
+mechanism—that is to say all the mechanism essential to the
 
-      [[Machine|machine]]—is most probably contained within the little cupboard (of
+[[Machine|machine]]—is most probably contained within the little cupboard (of
 
-      about six inches in breadth) partitioned off at the right (the
+about six inches in breadth) partitioned off at the right (the
 
-      spectators’ right) of the main compartment.
+spectators’ right) of the main compartment.
 
 
 
-      In this analysis of the operations of the Automaton, we have
+In this analysis of the operations of the Automaton, we have
 
-      purposely avoided any allusion to the manner in which the
+purposely avoided any allusion to the manner in which the
 
-      partitions are shifted, and it will now be readily comprehended
+partitions are shifted, and it will now be readily comprehended
 
-      that this point is a matter of no importance, since, by mechanism
+that this point is a matter of no importance, since, by mechanism
 
-      within the ability of any common carpenter, it might be effected
+within the ability of any common carpenter, it might be effected
 
-      in an infinity of different ways, and since we have shown that,
+in an infinity of different ways, and since we have shown that,
 
-      however performed, it is performed out of the view of the
+however performed, it is performed out of the view of the
 
-      spectators. Our result is founded upon the following
+spectators. Our result is founded upon the following
 
-      _observations _taken during frequent visits to the exhibition of
+_observations _taken during frequent visits to the exhibition of
 
-      Maelzel. {*5}
+Maelzel. {*5}
 
 
 
-      I. The moves of the Turk are not made at regular intervals of
+I. The moves of the Turk are not made at regular intervals of
 
-      [[Time|time]], but accommodate themselves to the moves of the
+[[Time|time]], but accommodate themselves to the moves of the
 
-      antagonist—although this point (of regularity) so important in
+antagonist—although this point (of regularity) so important in
 
-      all kinds of mechanical contrivance, might have been readily
+all kinds of mechanical contrivance, might have been readily
 
-      brought about by limiting the [[Time|time]] allowed for the moves of the
+brought about by limiting the [[Time|time]] allowed for the moves of the
 
-      antagonist. For example, if this limit were three minutes, the
+antagonist. For example, if this limit were three minutes, the
 
-      moves of the Automaton might be made at any given intervals
+moves of the Automaton might be made at any given intervals
 
-      longer than three minutes. The fact then of irregularity, when
+longer than three minutes. The fact then of irregularity, when
 
-      regularity might have been so easily attained, goes to prove that
+regularity might have been so easily attained, goes to prove that
 
-      regularity is unimportant to the action of the Automaton—in other
+regularity is unimportant to the action of the Automaton—in other
 
-      words, that the Automaton is not a _pure [[Machine|machine]]._
+words, that the Automaton is not a _pure [[Machine|machine]]._
 
 
 
-      2. When the Automaton is about to move a piece, a distinct motion
+2. When the Automaton is about to move a piece, a distinct motion
 
-      is observable just beneath the left shoulder, and which motion
+is observable just beneath the left shoulder, and which motion
 
-      agitates in a slight degree, the drapery covering the front of
+agitates in a slight degree, the drapery covering the front of
 
-      the left shoulder. This motion invariably precedes, by about two
+the left shoulder. This motion invariably precedes, by about two
 
-      seconds, the movement of the arm itself—and the arm never, in any
+seconds, the movement of the arm itself—and the arm never, in any
 
-      instance, moves without this preparatory motion in the shoulder.
+instance, moves without this preparatory motion in the shoulder.
 
-      Now let the antagonist move a piece, and let the corresponding
+Now let the antagonist move a piece, and let the corresponding
 
-      move be made by Maelzel, as usual, upon the board of the
+move be made by Maelzel, as usual, upon the board of the
 
-      Automaton. Then let the antagonist narrowly watch the Automaton,
+Automaton. Then let the antagonist narrowly watch the Automaton,
 
-      until he detect the preparatory motion in the shoulder.
+until he detect the preparatory motion in the shoulder.
 
-      Immediately upon detecting this motion, and before the arm itself
+Immediately upon detecting this motion, and before the arm itself
 
-      begins to move, let him withdraw his piece, as if perceiving an
+begins to move, let him withdraw his piece, as if perceiving an
 
-      error in his manœuvre. It will then be seen that the movement of
+error in his manœuvre. It will then be seen that the movement of
 
-      the arm, which, in all other cases, immediately succeeds the
+the arm, which, in all other cases, immediately succeeds the
 
-      motion in the shoulder, is withheld—is not made—although Maelzel
+motion in the shoulder, is withheld—is not made—although Maelzel
 
-      has not yet performed, on the board of the Automaton, any move
+has not yet performed, on the board of the Automaton, any move
 
-      corresponding to the withdrawal of the antagonist. In this case,
+corresponding to the withdrawal of the antagonist. In this case,
 
-      that the Automaton was about to move is evident—and that he did
+that the Automaton was about to move is evident—and that he did
 
-      not move, was an effect plainly produced by the withdrawal of the
+not move, was an effect plainly produced by the withdrawal of the
 
-      antagonist, and without any intervention of Maelzel.
+antagonist, and without any intervention of Maelzel.
 
 
 
-      This fact fully proves, 1—that the intervention of Maelzel, in
+This fact fully proves, 1—that the intervention of Maelzel, in
 
-      performing the moves of the antagonist on the board of the
+performing the moves of the antagonist on the board of the
 
-      Automaton, is not essential to the movements of the Automaton,
+Automaton, is not essential to the movements of the Automaton,
 
-      2—that its movements are regulated by _mind—_by some person who
+2—that its movements are regulated by _mind—_by some person who
 
-      sees the board of the antagonist, 3—that its movements are not
+sees the board of the antagonist, 3—that its movements are not
 
-      regulated by the mind of Maelzel, whose back was turned towards
+regulated by the mind of Maelzel, whose back was turned towards
 
-      the antagonist at the withdrawal of his move.
+the antagonist at the withdrawal of his move.
 
 
 
-      3. The Automaton does not invariably win the game. Were the
+3. The Automaton does not invariably win the game. Were the
 
-      [[Machine|machine]] a pure [[Machine|machine]] this would not be the case—it would always
+[[Machine|machine]] a pure [[Machine|machine]] this would not be the case—it would always
 
-      win. The _principle _being discovered by which a [[Machine|machine]] can be
+win. The _principle _being discovered by which a [[Machine|machine]] can be
 
-      made to _play _a game of chess, an extension of the same
+made to _play _a game of chess, an extension of the same
 
-      principle would enable it to win a game—a farther extension would
+principle would enable it to win a game—a farther extension would
 
-      enable it to win _all _games—that is, to beat any possible game
+enable it to win _all _games—that is, to beat any possible game
 
-      of an antagonist. A little consideration will convince any one
+of an antagonist. A little consideration will convince any one
 
-      that the difficulty of making a [[Machine|machine]] beat all games, Is not in
+that the difficulty of making a [[Machine|machine]] beat all games, Is not in
 
-      the least degree greater, as regards the principle of the
+the least degree greater, as regards the principle of the
 
-      operations necessary, than that of making it beat a single game.
+operations necessary, than that of making it beat a single game.
 
-      If then we regard the Chess-Player as a [[Machine|machine]], we must suppose,
+If then we regard the Chess-Player as a [[Machine|machine]], we must suppose,
 
-      (what is highly improbable,) that its inventor preferred leaving
+(what is highly improbable,) that its inventor preferred leaving
 
-      it incomplete to perfecting it—a supposition rendered still more
+it incomplete to perfecting it—a supposition rendered still more
 
-      absurd, when we reflect that the leaving it incomplete would
+absurd, when we reflect that the leaving it incomplete would
 
-      afford an argument against the possibility of its being a pure
+afford an argument against the possibility of its being a pure
 
-      [[Machine|machine]]—the very argument we now adduce.
+[[Machine|machine]]—the very argument we now adduce.
 
 
 
-      4. When the situation of the game is difficult or complex, we
+4. When the situation of the game is difficult or complex, we
 
-      never perceive the Turk either shake his head or roll his eyes.
+never perceive the Turk either shake his head or roll his eyes.
 
-      It is only when his next move is obvious, or when the game is so
+It is only when his next move is obvious, or when the game is so
 
-      circumstanced that to a man in the Automaton’s place there would
+circumstanced that to a man in the Automaton’s place there would
 
-      be no necessity for reflection. Now these peculiar movements of
+be no necessity for reflection. Now these peculiar movements of
 
-      the head and eyes are movements customary with persons engaged in
+the head and eyes are movements customary with persons engaged in
 
-      meditation, and the ingenious Baron Kempelen would have adapted
+meditation, and the ingenious Baron Kempelen would have adapted
 
-      these movements (were the [[Machine|machine]] a pure [[Machine|machine]]) to occasions
+these movements (were the [[Machine|machine]] a pure [[Machine|machine]]) to occasions
 
-      proper for their display—that is, to occasions of complexity. But
+proper for their display—that is, to occasions of complexity. But
 
-      the reverse is seen to be the case, and this reverse applies
+the reverse is seen to be the case, and this reverse applies
 
-      precisely to our supposition of a man in the interior. When
+precisely to our supposition of a man in the interior. When
 
-      engaged in meditation about the game he has no [[Time|time]] to think of
+engaged in meditation about the game he has no [[Time|time]] to think of
 
-      setting in motion the mechanism of the Automaton by which are
+setting in motion the mechanism of the Automaton by which are
 
-      moved the head and the eyes. When the game, however, is obvious,
+moved the head and the eyes. When the game, however, is obvious,
 
-      he has [[Time|time]] to look about him, and, accordingly, we see the head
+he has [[Time|time]] to look about him, and, accordingly, we see the head
 
-      shake and the eyes roll.
+shake and the eyes roll.
 
 
 
-      5. When the [[Machine|machine]] is rolled round to allow the spectators an
+5. When the [[Machine|machine]] is rolled round to allow the spectators an
 
-      examination of the back of the Turk, and when his drapery is
+examination of the back of the Turk, and when his drapery is
 
-      lifted up and the doors in the trunk and thigh thrown open, the
+lifted up and the doors in the trunk and thigh thrown open, the
 
-      interior of the trunk is seen to be crowded with machinery. In
+interior of the trunk is seen to be crowded with machinery. In
 
-      scrutinizing this machinery while the Automaton was in motion,
+scrutinizing this machinery while the Automaton was in motion,
 
-      that is to say while the whole [[Machine|machine]] was moving on the castors,
+that is to say while the whole [[Machine|machine]] was moving on the castors,
 
-      it appeared to us that certain portions of the mechanism changed
+it appeared to us that certain portions of the mechanism changed
 
-      their shape and position in a degree too great to be accounted
+their shape and position in a degree too great to be accounted
 
-      for by the simple laws of perspective; and subsequent
+for by the simple laws of perspective; and subsequent
 
-      examinations convinced us that these undue alterations were
+examinations convinced us that these undue alterations were
 
-      attributable to mirrors in the interior of the trunk. The
+attributable to mirrors in the interior of the trunk. The
 
-      introduction of mirrors among the machinery could not have been
+introduction of mirrors among the machinery could not have been
 
-      intended to influence, in any degree, the machinery itself. Their
+intended to influence, in any degree, the machinery itself. Their
 
-      operation, whatever that operation should prove to be, must
+operation, whatever that operation should prove to be, must
 
-      necessarily have reference to the eye of the spectator. We at
+necessarily have reference to the eye of the spectator. We at
 
-      once concluded that these mirrors were so placed to multiply to
+once concluded that these mirrors were so placed to multiply to
 
-      the vision some few pieces of machinery within the trunk so as to
+the vision some few pieces of machinery within the trunk so as to
 
-      give it the appearance of being crowded with mechanism. Now the
+give it the appearance of being crowded with mechanism. Now the
 
-      direct inference from this is that the [[Machine|machine]] is not a pure
+direct inference from this is that the [[Machine|machine]] is not a pure
 
-      [[Machine|machine]]. For if it were, the inventor, so far from wishing its
+[[Machine|machine]]. For if it were, the inventor, so far from wishing its
 
-      mechanism to appear complex, and using [[Deception|deception]] for the purpose
+mechanism to appear complex, and using [[Deception|deception]] for the purpose
 
-      of giving it this appearance, would have been especially desirous
+of giving it this appearance, would have been especially desirous
 
-      of convincing those who witnessed his exhibition, of the
+of convincing those who witnessed his exhibition, of the
 
-      _simplicity _of the means by which results so wonderful were
+_simplicity _of the means by which results so wonderful were
 
-      brought about.
+brought about.
 
 
 
-      6. The external appearance, and, especially, the deportment of
+6. The external appearance, and, especially, the deportment of
 
-      the Turk, are, when we consider them as imitations of _life, _but
+the Turk, are, when we consider them as imitations of _life, _but
 
-      very indifferent imitations. The countenance evinces no
+very indifferent imitations. The countenance evinces no
 
-      ingenuity, and is surpassed, in its resemblance to the human
+ingenuity, and is surpassed, in its resemblance to the human
 
-      face, by the very commonest of wax-works. The eyes roll
+face, by the very commonest of wax-works. The eyes roll
 
-      unnaturally in the head, without any corresponding motions of the
+unnaturally in the head, without any corresponding motions of the
 
-      lids or brows. The arm, particularly, performs its operations in
+lids or brows. The arm, particularly, performs its operations in
 
-      an exceedingly stiff, awkward, jerking, and rectangular manner.
+an exceedingly stiff, awkward, jerking, and rectangular manner.
 
-      Now, all this is the result either of inability in Maelzel to do
+Now, all this is the result either of inability in Maelzel to do
 
-      better, or of intentional neglect—accidental neglect being out of
+better, or of intentional neglect—accidental neglect being out of
 
-      the question, when we consider that the whole [[Time|time]] of the
+the question, when we consider that the whole [[Time|time]] of the
 
-      ingenious proprietor is occupied in the improvement of his
+ingenious proprietor is occupied in the improvement of his
 
-      machines. Most assuredly we must not refer the unlife-like
+machines. Most assuredly we must not refer the unlife-like
 
-      appearances to inability—for all the rest of Maelzel’s automata
+appearances to inability—for all the rest of Maelzel’s automata
 
-      are evidence of his full ability to copy the motions and
+are evidence of his full ability to copy the motions and
 
-      peculiarities of life with the most wonderful exactitude. The
+peculiarities of life with the most wonderful exactitude. The
 
-      rope-dancers, for example, are inimitable. When the clown laughs,
+rope-dancers, for example, are inimitable. When the clown laughs,
 
-      his lips, his eyes, his eye-brows, and eyelids—indeed, all the
+his lips, his eyes, his eye-brows, and eyelids—indeed, all the
 
-      features of his countenance—are imbued with their appropriate
+features of his countenance—are imbued with their appropriate
 
-      expressions. In both him and his companion, every gesture is so
+expressions. In both him and his companion, every gesture is so
 
-      entirely easy, and free from the semblance of artificiality,
+entirely easy, and free from the semblance of artificiality,
 
-      that, were it not for the diminutiveness of their size, and the
+that, were it not for the diminutiveness of their size, and the
 
-      fact of their being passed from one spectator to another previous
+fact of their being passed from one spectator to another previous
 
-      to their exhibition on the rope, it would be difficult to
+to their exhibition on the rope, it would be difficult to
 
-      convince any assemblage of persons that these wooden automata
+convince any assemblage of persons that these wooden automata
 
-      were not living creatures. We cannot, therefore, [[Doubt|doubt]] Mr.
+were not living creatures. We cannot, therefore, [[Doubt|doubt]] Mr.
 
-      Maelzel’s ability, and we must necessarily suppose that he
+Maelzel’s ability, and we must necessarily suppose that he
 
-      intentionally suffered his Chess Player to remain the same
+intentionally suffered his Chess Player to remain the same
 
-      artificial and unnatural figure which Baron Kempelen (no [[Doubt|doubt]]
+artificial and unnatural figure which Baron Kempelen (no [[Doubt|doubt]]
 
-      also through design) originally made it. What this design was it
+also through design) originally made it. What this design was it
 
-      is not difficult to conceive. Were the Automaton life-like in its
+is not difficult to conceive. Were the Automaton life-like in its
 
-      motions, the spectator would be more apt to attribute its
+motions, the spectator would be more apt to attribute its
 
-      operations to their true cause, (that is, to human agency within)
+operations to their true cause, (that is, to human agency within)
 
-      than he is now, when the awkward and rectangular manœuvres convey
+than he is now, when the awkward and rectangular manœuvres convey
 
-      the idea of pure and unaided mechanism.
+the idea of pure and unaided mechanism.
 
 
 
-      7. When, a short [[Time|time]] previous to the commencement of the game,
+7. When, a short [[Time|time]] previous to the commencement of the game,
 
-      the Automaton is wound up by the exhibiter as usual, an ear in
+the Automaton is wound up by the exhibiter as usual, an ear in
 
-      any degree accustomed to the sounds produced in winding up a
+any degree accustomed to the sounds produced in winding up a
 
-      system of machinery, will not fail to discover, instantaneously,
+system of machinery, will not fail to discover, instantaneously,
 
-      that the axis turned by the key in the box of the Chess-Player,
+that the axis turned by the key in the box of the Chess-Player,
 
-      cannot possibly be connected with either a weight, a [[spring]], or
+cannot possibly be connected with either a weight, a [[spring]], or
 
-      any system of machinery whatever. The inference here is the same
+any system of machinery whatever. The inference here is the same
 
-      as in our last observation. The winding up is inessential to the
+as in our last observation. The winding up is inessential to the
 
-      operations of the Automaton, and is performed with the design of
+operations of the Automaton, and is performed with the design of
 
-      exciting in the spectators the false idea of mechanism.
+exciting in the spectators the false idea of mechanism.
 
 
 
-      8. When the question is demanded explicitly of Maelzel—“Is the
+8. When the question is demanded explicitly of Maelzel—“Is the
 
-      Automaton a pure [[Machine|machine]] or not?” his reply is invariably the
+Automaton a pure [[Machine|machine]] or not?” his reply is invariably the
 
-      same—“I will say nothing about it.” Now the notoriety of the
+same—“I will say nothing about it.” Now the notoriety of the
 
-      Automaton, and the great curiosity it has every where excited,
+Automaton, and the great curiosity it has every where excited,
 
-      are owing more especially to the prevalent opinion that it is a
+are owing more especially to the prevalent opinion that it is a
 
-      pure [[Machine|machine]], than to any other circumstance. Of course, then, it
+pure [[Machine|machine]], than to any other circumstance. Of course, then, it
 
-      is the interest of the proprietor to represent it as a pure
+is the interest of the proprietor to represent it as a pure
 
-      [[Machine|machine]]. And what more obvious, and more effectual method could
+[[Machine|machine]]. And what more obvious, and more effectual method could
 
-      there be of impressing the spectators with this desired idea,
+there be of impressing the spectators with this desired idea,
 
-      than a positive and explicit declaration to that effect? On the
+than a positive and explicit declaration to that effect? On the
 
-      other hand, what more obvious and effectual method could there be
+other hand, what more obvious and effectual method could there be
 
-      of exciting a disbelief in the Automaton’s being a pure [[Machine|machine]],
+of exciting a disbelief in the Automaton’s being a pure [[Machine|machine]],
 
-      than by withholding such explicit declaration? For, people will
+than by withholding such explicit declaration? For, people will
 
-      naturally reason thus,—It is Maelzel’s interest to represent this
+naturally reason thus,—It is Maelzel’s interest to represent this
 
-      thing a pure [[Machine|machine]]—he refuses to do so, directly, in words,
+thing a pure [[Machine|machine]]—he refuses to do so, directly, in words,
 
-      although he does not scruple, and is evidently anxious to do so,
+although he does not scruple, and is evidently anxious to do so,
 
-      indirectly by actions—were it actually what he wishes to
+indirectly by actions—were it actually what he wishes to
 
-      represent it by actions, he would gladly avail himself of the
+represent it by actions, he would gladly avail himself of the
 
-      more direct testimony of words—the inference is, that a
+more direct testimony of words—the inference is, that a
 
-      consciousness of its not being a pure [[Machine|machine]], is the reason of
+consciousness of its not being a pure [[Machine|machine]], is the reason of
 
-      his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
+his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
 
-      words may.
+words may.
 
 
 
-      9. When, in exhibiting the interior of the box, Maelzel has
+9. When, in exhibiting the interior of the box, Maelzel has
 
-      thrown open the door No. I, and also the door immediately behind
+thrown open the door No. I, and also the door immediately behind
 
-      it, he holds a lighted candle at the back door (as mentioned
+it, he holds a lighted candle at the back door (as mentioned
 
-      above) and moves the entire [[Machine|machine]] to and fro with a view of
+above) and moves the entire [[Machine|machine]] to and fro with a view of
 
-      convincing the company that the cupboard No. 1 is entirely filled
+convincing the company that the cupboard No. 1 is entirely filled
 
-      with machinery. When the [[Machine|machine]] is thus moved about, it will be
+with machinery. When the [[Machine|machine]] is thus moved about, it will be
 
-      apparent to any careful observer, that whereas that portion of
+apparent to any careful observer, that whereas that portion of
 
-      the machinery near the front door No. 1, is perfectly steady and
+the machinery near the front door No. 1, is perfectly steady and
 
-      unwavering, the portion farther within fluctuates, in a very
+unwavering, the portion farther within fluctuates, in a very
 
-      slight degree, with the movements of the [[Machine|machine]]. This
+slight degree, with the movements of the [[Machine|machine]]. This
 
-      circumstance first aroused in us the suspicion that the more
+circumstance first aroused in us the suspicion that the more
 
-      remote portion of the machinery was so arranged as to be easily
+remote portion of the machinery was so arranged as to be easily
 
-      slipped, _en masse, _from its position when occasion should
+slipped, _en masse, _from its position when occasion should
 
-      require it. This occasion we have already stated to occur when
+require it. This occasion we have already stated to occur when
 
-      the man concealed within brings his [[Body|body]] into an erect position
+the man concealed within brings his [[Body|body]] into an erect position
 
-      upon the closing of the back door.
+upon the closing of the back door.
 
 
 
-      10. Sir David Brewster states the figure of the Turk to be of the
+10. Sir David Brewster states the figure of the Turk to be of the
 
-      size of life—but in fact it is far above the ordinary size.
+size of life—but in fact it is far above the ordinary size.
 
-      Nothing is more easy than to err in our notions of magnitude. The
+Nothing is more easy than to err in our notions of magnitude. The
 
-      [[Body|body]] of the Automaton is generally insulated, and, having no
+[[Body|body]] of the Automaton is generally insulated, and, having no
 
-      means of immediately comparing it with any human form, we suffer
+means of immediately comparing it with any human form, we suffer
 
-      ourselves to consider it as of ordinary dimensions. This mistake
+ourselves to consider it as of ordinary dimensions. This mistake
 
-      may, however, be corrected by observing the Chess-Player when, as
+may, however, be corrected by observing the Chess-Player when, as
 
-      is sometimes the case, the exhibiter approaches it. Mr. Maelzel,
+is sometimes the case, the exhibiter approaches it. Mr. Maelzel,
 
-      to be sure, is not very tall, but upon drawing near the [[Machine|machine]],
+to be sure, is not very tall, but upon drawing near the [[Machine|machine]],
 
-      his head will be found at least eighteen inches below the head of
+his head will be found at least eighteen inches below the head of
 
-      the Turk, although the latter, it will be remembered, is in a
+the Turk, although the latter, it will be remembered, is in a
 
-      sitting position.
+sitting position.
 
 
 
-      11. The box behind which the Automaton is placed, is precisely
+11. The box behind which the Automaton is placed, is precisely
 
-      three feet six inches long, two feet four inches deep, and two
+three feet six inches long, two feet four inches deep, and two
 
-      feet six inches high. These dimensions are fully sufficient for
+feet six inches high. These dimensions are fully sufficient for
 
-      the accommodation of a man very much above the common size—and
+the accommodation of a man very much above the common size—and
 
-      the main compartment [[Alone|alone]] is capable of holding any ordinary man
+the main compartment [[Alone|alone]] is capable of holding any ordinary man
 
-      in the position we have mentioned as assumed by the person
+in the position we have mentioned as assumed by the person
 
-      concealed. As these are facts, which any one who doubts them may
+concealed. As these are facts, which any one who doubts them may
 
-      prove by actual calculation, we deem it unnecessary to dwell upon
+prove by actual calculation, we deem it unnecessary to dwell upon
 
-      them. We will only suggest that, although the top of the box is
+them. We will only suggest that, although the top of the box is
 
-      apparently a board of about three inches in thickness, the
+apparently a board of about three inches in thickness, the
 
-      spectator may satisfy himself by stooping and looking up at it
+spectator may satisfy himself by stooping and looking up at it
 
-      when the main compartment is open, that it is in reality very
+when the main compartment is open, that it is in reality very
 
-      thin. The height of the drawer also will be misconceived by those
+thin. The height of the drawer also will be misconceived by those
 
-      who examine it in a cursory manner. There is a space of about
+who examine it in a cursory manner. There is a space of about
 
-      three inches between the top of the drawer as seen from the
+three inches between the top of the drawer as seen from the
 
-      exterior, and the [[Bottom|bottom]] of the cupboard—a space which must be
+exterior, and the [[Bottom|bottom]] of the cupboard—a space which must be
 
-      included in the height of the drawer. These contrivances to make
+included in the height of the drawer. These contrivances to make
 
-      the room within the box appear less than it actually is, are
+the room within the box appear less than it actually is, are
 
-      referrible to a design on the part of the inventor, to impress
+referrible to a design on the part of the inventor, to impress
 
-      the company again with a false idea, viz. that no human being can
+the company again with a false idea, viz. that no human being can
 
-      be accommodated within the box.
+be accommodated within the box.
 
 
 
-      12. The interior of the main compartment is lined throughout with
+12. The interior of the main compartment is lined throughout with
 
-      _cloth. _This cloth we suppose to have a twofold object. A
+_cloth. _This cloth we suppose to have a twofold object. A
 
-      portion of _it _may form, when tightly stretched, the only
+portion of _it _may form, when tightly stretched, the only
 
-      partitions which there is any necessity for removing during the
+partitions which there is any necessity for removing during the
 
-      changes of the man’s position, viz: the partition between the
+changes of the man’s position, viz: the partition between the
 
-      rear of the main compartment and the rear of the cupboard No. 1,
+rear of the main compartment and the rear of the cupboard No. 1,
 
-      and the partition between the main compartment, and the space
+and the partition between the main compartment, and the space
 
-      behind the drawer when open. If we imagine this to be the case,
+behind the drawer when open. If we imagine this to be the case,
 
-      the difficulty of shifting the partitions vanishes at once, if
+the difficulty of shifting the partitions vanishes at once, if
 
-      indeed any such difficulty could be supposed under any
+indeed any such difficulty could be supposed under any
 
-      circumstances to exist. The second object of the cloth is to
+circumstances to exist. The second object of the cloth is to
 
-      deaden and render indistinct all sounds occasioned by the
+deaden and render indistinct all sounds occasioned by the
 
-      movements of the person within.
+movements of the person within.
 
 
 
-      13. The antagonist (as we have before observed) is not suffered
+13. The antagonist (as we have before observed) is not suffered
 
-      to play at the board of the Automaton, but is seated at some
+to play at the board of the Automaton, but is seated at some
 
-      distance from the [[Machine|machine]]. The reason which, most probably, would
+distance from the [[Machine|machine]]. The reason which, most probably, would
 
-      be assigned for this circumstance, if the question were demanded,
+be assigned for this circumstance, if the question were demanded,
 
-      is, that were the antagonist otherwise situated, his person would
+is, that were the antagonist otherwise situated, his person would
 
-      intervene between the [[Machine|machine]] and the spectators, and preclude
+intervene between the [[Machine|machine]] and the spectators, and preclude
 
-      the latter from a distinct view. But this difficulty might be
+the latter from a distinct view. But this difficulty might be
 
-      easily obviated, either by elevating the seats of the company, or
+easily obviated, either by elevating the seats of the company, or
 
-      by turning the end of the box towards them during the game. The
+by turning the end of the box towards them during the game. The
 
-      true cause of the restriction is, perhaps, very different. Were
+true cause of the restriction is, perhaps, very different. Were
 
-      the antagonist seated in contact with the box, the secret would
+the antagonist seated in contact with the box, the secret would
 
-      be liable to discovery, by his detecting, with the aid of a quick
+be liable to discovery, by his detecting, with the aid of a quick
 
-      car, the breathings of the man concealed.
+car, the breathings of the man concealed.
 
 
 
-      14. Although M. Maelzel, in disclosing the interior of the
+14. Although M. Maelzel, in disclosing the interior of the
 
-      [[Machine|machine]], sometimes slightly deviates from the _routine _which we
+[[Machine|machine]], sometimes slightly deviates from the _routine _which we
 
-      have pointed out, yet _reeler in _any instance does he _so
+have pointed out, yet _reeler in _any instance does he _so
 
-      _deviate from it as to interfere with our solution. For example,
+_deviate from it as to interfere with our solution. For example,
 
-      he has been known to open, first of all, the drawer—but he never
+he has been known to open, first of all, the drawer—but he never
 
-      opens the main compartment without first closing the back door of
+opens the main compartment without first closing the back door of
 
-      cupboard No. 1—he never opens the main compartment without first
+cupboard No. 1—he never opens the main compartment without first
 
-      pulling out the drawer—he never shuts the drawer without first
+pulling out the drawer—he never shuts the drawer without first
 
-      shutting the main compartment—he never opens the back door of
+shutting the main compartment—he never opens the back door of
 
-      cupboard No. 1 while the main compartment is open—and the game of
+cupboard No. 1 while the main compartment is open—and the game of
 
-      chess is never commenced until the whole [[Machine|machine]] is closed. Now
+chess is never commenced until the whole [[Machine|machine]] is closed. Now
 
-      if it were observed that _never, in any single instance, _did M.
+if it were observed that _never, in any single instance, _did M.
 
-      Maelzel differ from the routine we have pointed out as necessary
+Maelzel differ from the routine we have pointed out as necessary
 
-      to our solution, it would be one of the strongest possible
+to our solution, it would be one of the strongest possible
 
-      arguments in corroboration of it—but the argument becomes
+arguments in corroboration of it—but the argument becomes
 
-      infinitely strengthened if we duly consider the circumstance that
+infinitely strengthened if we duly consider the circumstance that
 
-      he _does occasionally _deviate from the routine but never does
+he _does occasionally _deviate from the routine but never does
 
-      _so _deviate as to falsify the solution.
+_so _deviate as to falsify the solution.
 
 
 
-      15. There are six candles on the board of the Automaton during
+15. There are six candles on the board of the Automaton during
 
-      exhibition. The question naturally arises—“Why are so many
+exhibition. The question naturally arises—“Why are so many
 
-      employed, when a single candle, or, at farthest, two, would have
+employed, when a single candle, or, at farthest, two, would have
 
-      been amply sufficient to afford the spectators a clear view of
+been amply sufficient to afford the spectators a clear view of
 
-      the board, in a room otherwise so [[Well|well]] lit up as the exhibition
+the board, in a room otherwise so [[Well|well]] lit up as the exhibition
 
-      room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
+room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
 
-      [[Machine|machine]], _there can be no necessity for so much light, or indeed
+[[Machine|machine]], _there can be no necessity for so much light, or indeed
 
-      any light at all, to enable _it _to perform its operations—and
+any light at all, to enable _it _to perform its operations—and
 
-      when, especially, only a single candle is placed upon the table
+when, especially, only a single candle is placed upon the table
 
-      of the antagonist?” The first and most obvious inference is, that
+of the antagonist?” The first and most obvious inference is, that
 
-      so strong a light is requisite to enable the man within to see
+so strong a light is requisite to enable the man within to see
 
-      through the transparent material (probably fine gauze) of which
+through the transparent material (probably fine gauze) of which
 
-      the breast of the Turk is composed. But when we consider the
+the breast of the Turk is composed. But when we consider the
 
-      arrangement of the candles, another reason immediately presents
+arrangement of the candles, another reason immediately presents
 
-      itself. There are six lights (as we have said before) in all.
+itself. There are six lights (as we have said before) in all.
 
-      Three of these are on each side of the figure. Those most remote
+Three of these are on each side of the figure. Those most remote
 
-      from the spectators are the longest—those in the middle are about
+from the spectators are the longest—those in the middle are about
 
-      two inches shorter—and those nearest the company about two inches
+two inches shorter—and those nearest the company about two inches
 
-      shorter still—and the candles on one side differ in height from
+shorter still—and the candles on one side differ in height from
 
-      the candles respectively opposite on the other, by a ratio
+the candles respectively opposite on the other, by a ratio
 
-      different from two inches—that is to say, the longest candle on
+different from two inches—that is to say, the longest candle on
 
-      one side is about three inches shorter than the longest candle on
+one side is about three inches shorter than the longest candle on
 
-      the other, and so on. Thus it will be seen that no two of the
+the other, and so on. Thus it will be seen that no two of the
 
-      candles are of the same height, and thus also the difficulty of
+candles are of the same height, and thus also the difficulty of
 
-      ascertaining the _material _of the breast of the figure (against
+ascertaining the _material _of the breast of the figure (against
 
-      which the light is especially directed) is greatly augmented by
+which the light is especially directed) is greatly augmented by
 
-      the dazzling effect of the complicated crossings of the
+the dazzling effect of the complicated crossings of the
 
-      rays—crossings which are brought about by placing the centres of
+rays—crossings which are brought about by placing the centres of
 
-      radiation all upon different levels.
+radiation all upon different levels.
 
 
 
-      16. While the Chess-Player was in possession of Baron Kempelen,
+16. While the Chess-Player was in possession of Baron Kempelen,
 
-      it was more than once observed, first, that an Italian in the
+it was more than once observed, first, that an Italian in the
 
-      suite of the Baron was never visible during the playing of a game
+suite of the Baron was never visible during the playing of a game
 
-      at chess by the Turk, and, secondly, that the Italian being taken
+at chess by the Turk, and, secondly, that the Italian being taken
 
-      seriously ill, the exhibition was suspended until his recovery.
+seriously ill, the exhibition was suspended until his recovery.
 
-      This Italian professed a _total _ignorance of the game of chess,
+This Italian professed a _total _ignorance of the game of chess,
 
-      although all others of the suite played [[Well|well]]. Similar
+although all others of the suite played [[Well|well]]. Similar
 
-      observations have been made since the Automaton has been
+observations have been made since the Automaton has been
 
-      purchased by Maelzel. There is a man, _Schlumberoer, _who attends
+purchased by Maelzel. There is a man, _Schlumberoer, _who attends
 
-      him wherever he goes, but who has no ostensible occupation other
+him wherever he goes, but who has no ostensible occupation other
 
-      than that of assisting in the packing and unpacking of the
+than that of assisting in the packing and unpacking of the
 
-      automata. This man is about the medium size, and has a remarkable
+automata. This man is about the medium size, and has a remarkable
 
-      stoop in the shoulders. Whether he professes to play chess or
+stoop in the shoulders. Whether he professes to play chess or
 
-      not, we are not informed. It is quite certain, however, that he
+not, we are not informed. It is quite certain, however, that he
 
-      is never to be seen during the exhibition of the Chess-Player,
+is never to be seen during the exhibition of the Chess-Player,
 
-      although frequently visible just before and just after the
+although frequently visible just before and just after the
 
-      exhibition. Moreover, some years ago Maelzel visited Richmond
+exhibition. Moreover, some years ago Maelzel visited Richmond
 
-      with his automata, and exhibited them, we believe, in the [[house]]
+with his automata, and exhibited them, we believe, in the [[house]]
 
-      now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
+now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
 
-      was suddenly taken ill, and during his illness there was no
+was suddenly taken ill, and during his illness there was no
 
-      exhibition of the Chess-Player. These facts are [[Well|well]] known to
+exhibition of the Chess-Player. These facts are [[Well|well]] known to
 
-      many of our citizens. The reason assigned for the suspension of
+many of our citizens. The reason assigned for the suspension of
 
-      the Chess-Player’s performances, was _not _the illness of
+the Chess-Player’s performances, was _not _the illness of
 
-      _Schlumberger. _The inferences from all this we leave, without
+_Schlumberger. _The inferences from all this we leave, without
 
-      farther comment, to the reader.
+farther comment, to the reader.
 
 
 
-      17. The Turk plays with his _left_ arm. A circumstance so
+17. The Turk plays with his _left_ arm. A circumstance so
 
-      remarkable cannot be accidental. Brewster takes no notice of it
+remarkable cannot be accidental. Brewster takes no notice of it
 
-      whatever beyond a mere statement, we believe, that such is the
+whatever beyond a mere statement, we believe, that such is the
 
-      fact. The early writers of treatises on the Automaton, seem not
+fact. The early writers of treatises on the Automaton, seem not
 
-      to have observed the matter at all, and have no reference to it.
+to have observed the matter at all, and have no reference to it.
 
-      The author of the pamphlet alluded to by Brewster, mentions it,
+The author of the pamphlet alluded to by Brewster, mentions it,
 
-      but acknowledges his inability to account for it. Yet it is
+but acknowledges his inability to account for it. Yet it is
 
-      obviously from such prominent discrepancies or incongruities as
+obviously from such prominent discrepancies or incongruities as
 
-      this that deductions are to be made (if made at all) which shall
+this that deductions are to be made (if made at all) which shall
 
-      lead us to the [[Truth|truth]].
+lead us to the [[Truth|truth]].
 
 
 
-      The circumstance of the Automaton’s playing with his left hand
+The circumstance of the Automaton’s playing with his left hand
 
-      cannot have connexion with the operations of the [[Machine|machine]],
+cannot have connexion with the operations of the [[Machine|machine]],
 
-      considered merely as such. Any mechanical arrangement which would
+considered merely as such. Any mechanical arrangement which would
 
-      cause the figure to move, in any given manner, the left
+cause the figure to move, in any given manner, the left
 
-      arm—could, if reversed, cause it to move, in the same manner, the
+arm—could, if reversed, cause it to move, in the same manner, the
 
-      right. But these principles cannot be extended to the human
+right. But these principles cannot be extended to the human
 
-      organization, wherein there is a marked and radical difference in
+organization, wherein there is a marked and radical difference in
 
-      the construction, and, at all events, in the powers, of the right
+the construction, and, at all events, in the powers, of the right
 
-      and left arms. Reflecting upon this latter fact, we naturally
+and left arms. Reflecting upon this latter fact, we naturally
 
-      refer the incongruity noticeable in the Chess-Player to this
+refer the incongruity noticeable in the Chess-Player to this
 
-      peculiarity in the human organization. If so, we must imagine
+peculiarity in the human organization. If so, we must imagine
 
-      some _reversion—_for the Chess-Player plays precisely as a man
+some _reversion—_for the Chess-Player plays precisely as a man
 
-      _would not. _These ideas, once entertained, are sufficient of
+_would not. _These ideas, once entertained, are sufficient of
 
-      themselves, to suggest the notion of a man in the interior. A few
+themselves, to suggest the notion of a man in the interior. A few
 
-      more imperceptible steps lead us, finally, to the result. The
+more imperceptible steps lead us, finally, to the result. The
 
-      Automaton plays with his left arm, because under no other
+Automaton plays with his left arm, because under no other
 
-      circumstances could the man within play with his right—a
+circumstances could the man within play with his right—a
 
-      _desideratum _of course. Let us, for example, imagine the
+_desideratum _of course. Let us, for example, imagine the
 
-      Automaton to play with his right arm. To reach the machinery
+Automaton to play with his right arm. To reach the machinery
 
-      which moves the arm, and which we have before explained to lie
+which moves the arm, and which we have before explained to lie
 
-      just beneath the shoulder, it would be necessary for the man
+just beneath the shoulder, it would be necessary for the man
 
-      within either to use his right arm in an exceedingly painful and
+within either to use his right arm in an exceedingly painful and
 
-      awkward position, (viz. brought up close to his [[Body|body]] and tightly
+awkward position, (viz. brought up close to his [[Body|body]] and tightly
 
-      compressed between his [[Body|body]] and the side of the Automaton,) or
+compressed between his [[Body|body]] and the side of the Automaton,) or
 
-      else to use his left arm brought across his breast. In neither
+else to use his left arm brought across his breast. In neither
 
-      case could he act with the requisite ease or precision. On the
+case could he act with the requisite ease or precision. On the
 
-      contrary, the Automaton playing, as it actually does, with the
+contrary, the Automaton playing, as it actually does, with the
 
-      left arm, all difficulties vanish. The right arm of the man
+left arm, all difficulties vanish. The right arm of the man
 
-      within is brought across his breast, and his right fingers act,
+within is brought across his breast, and his right fingers act,
 
-      without any constraint, upon the machinery in the shoulder of the
+without any constraint, upon the machinery in the shoulder of the
 
-      figure.
+figure.
 
 
 
-      We do not believe that any reasonable objections can be urged
+We do not believe that any reasonable objections can be urged
 
-      against this solution of the Automaton Chess-Player.
+against this solution of the Automaton Chess-Player.
 
 
 
@@ -1848,181 +1848,181 @@ Perhaps no exhibition of the kind has ever elicited so general
 
 Perhaps no exhibition of the kind has ever elicited so general
 
-      attention as the Chess-Player of Maelzel. Wherever seen it has
+attention as the Chess-Player of Maelzel. Wherever seen it has
 
-      been an object of intense curiosity, to all persons who think.
+been an object of intense curiosity, to all persons who think.
 
-      Yet the question of its _modus operandi_ is still undetermined.
+Yet the question of its _modus operandi_ is still undetermined.
 
-      Nothing has been written on this topic which can be considered as
+Nothing has been written on this topic which can be considered as
 
-      decisive—and accordingly we find every where men of mechanical
+decisive—and accordingly we find every where men of mechanical
 
-      genius, of great general acuteness, and discriminative
+genius, of great general acuteness, and discriminative
 
-      understanding, who make no scruple in pronouncing the Automaton a
+understanding, who make no scruple in pronouncing the Automaton a
 
-      _pure machine_, unconnected with human agency in its movements,
+_pure machine_, unconnected with human agency in its movements,
 
-      and consequently, beyond all comparison, the most astonishing of
+and consequently, beyond all comparison, the most astonishing of
 
-      the inventions of mankind. And such it would undoubtedly be, were
+the inventions of mankind. And such it would undoubtedly be, were
 
-      they right in their supposition. Assuming this hypothesis, it
+they right in their supposition. Assuming this hypothesis, it
 
-      would be grossly absurd to compare with the Chess-Player, any
+would be grossly absurd to compare with the Chess-Player, any
 
-      similar thing of either modern or ancient days. Yet there have
+similar thing of either modern or ancient days. Yet there have
 
-      been many and wonderful automata. In Brewster’s Letters on
+been many and wonderful automata. In Brewster’s Letters on
 
-      Natural [[Magic]], we have an account of the most remarkable. Among
+Natural [[Magic]], we have an account of the most remarkable. Among
 
-      these may be mentioned, as having beyond [[Doubt|doubt]] existed, firstly,
+these may be mentioned, as having beyond [[Doubt|doubt]] existed, firstly,
 
-      the coach invented by M. Camus for the amusement of Louis XIV
+the coach invented by M. Camus for the amusement of Louis XIV
 
-      when a [[Child|child]]. A table, about four feet square, was introduced,
+when a [[Child|child]]. A table, about four feet square, was introduced,
 
-      into the room appropriated for the exhibition. Upon this table
+into the room appropriated for the exhibition. Upon this table
 
-      was placed a carriage, six inches in length, made of wood, and
+was placed a carriage, six inches in length, made of wood, and
 
-      drawn by two horses of the same material. One [[Window|window]] being down,
+drawn by two horses of the same material. One [[Window|window]] being down,
 
-      a lady was seen on the back seat. A coachman held the reins on
+a lady was seen on the back seat. A coachman held the reins on
 
-      the box, and a footman and page were in their places behind. M.
+the box, and a footman and page were in their places behind. M.
 
-      Camus now touched a [[spring]]; whereupon the coachman smacked his
+Camus now touched a [[spring]]; whereupon the coachman smacked his
 
-      whip, and the horses proceeded in a natural manner, along the
+whip, and the horses proceeded in a natural manner, along the
 
-      edge of the table, drawing after them the carriage. Having gone
+edge of the table, drawing after them the carriage. Having gone
 
-      as far as possible in this direction, a sudden turn was made to
+as far as possible in this direction, a sudden turn was made to
 
-      the left, and the vehicle was driven at right angles to its
+the left, and the vehicle was driven at right angles to its
 
-      former course, and still closely along the edge of the table. In
+former course, and still closely along the edge of the table. In
 
-      this way the coach proceeded until it arrived opposite the chair
+this way the coach proceeded until it arrived opposite the chair
 
-      of the young prince. It then stopped, the page descended and
+of the young prince. It then stopped, the page descended and
 
-      opened the door, the lady alighted, and presented a petition to
+opened the door, the lady alighted, and presented a petition to
 
-      her sovereign. She then re-entered. The page put up the steps,
+her sovereign. She then re-entered. The page put up the steps,
 
-      closed the door, and resumed his station. The coachman whipped
+closed the door, and resumed his station. The coachman whipped
 
-      his horses, and the carriage was driven back to its original
+his horses, and the carriage was driven back to its original
 
-      position.
+position.
 
 
 
-      The magician of M. Maillardet is also worthy of notice. We copy
+The magician of M. Maillardet is also worthy of notice. We copy
 
-      the following account of it from the _Letters_ before mentioned
+the following account of it from the _Letters_ before mentioned
 
-      of Dr. B., who derived his information principally from the
+of Dr. B., who derived his information principally from the
 
-      Edinburgh Encyclopaedia.
+Edinburgh Encyclopaedia.
 
 
 
-      “One of the most popular pieces of mechanism which we have seen,
+“One of the most popular pieces of mechanism which we have seen,
 
-      Is the Magician constructed by M. Maillardet, for the purpose of
+Is the Magician constructed by M. Maillardet, for the purpose of
 
-      answering certain given questions. A figure, dressed like a
+answering certain given questions. A figure, dressed like a
 
-      magician, appears seated at the [[Bottom|bottom]] of a wall, holding a wand
+magician, appears seated at the [[Bottom|bottom]] of a wall, holding a wand
 
-      in one hand, and a book in the other A number of questions, ready
+in one hand, and a book in the other A number of questions, ready
 
-      prepared, are inscribed on oval medallions, and the spectator
+prepared, are inscribed on oval medallions, and the spectator
 
-      takes any of these he chooses and to which he wishes an answer,
+takes any of these he chooses and to which he wishes an answer,
 
-      and having placed it in a drawer ready to receive it, the drawer
+and having placed it in a drawer ready to receive it, the drawer
 
-      shuts with a [[spring]] till the answer is returned. The magician
+shuts with a [[spring]] till the answer is returned. The magician
 
-      then arises from his seat, bows his head, describes circles with
+then arises from his seat, bows his head, describes circles with
 
-      his wand, and consulting the book as If in deep thought, he lifts
+his wand, and consulting the book as If in deep thought, he lifts
 
-      it towards his face. Having thus appeared to ponder over the
+it towards his face. Having thus appeared to ponder over the
 
-      proposed question he raises his wand, and striking with it the
+proposed question he raises his wand, and striking with it the
 
-      wall above his head, two folding doors fly open, and display an
+wall above his head, two folding doors fly open, and display an
 
-      appropriate answer to the question. The doors again close, the
+appropriate answer to the question. The doors again close, the
 
-      magician resumes his original position, and the drawer opens to
+magician resumes his original position, and the drawer opens to
 
-      return the medallion. There are twenty of these medallions, all
+return the medallion. There are twenty of these medallions, all
 
-      containing different questions, to which the magician returns the
+containing different questions, to which the magician returns the
 
-      most suitable and striking answers. The medallions are thin
+most suitable and striking answers. The medallions are thin
 
-      plates of brass, of an elliptical form, exactly resembling each
+plates of brass, of an elliptical form, exactly resembling each
 
-      other. Some of the medallions have a question inscribed on each
+other. Some of the medallions have a question inscribed on each
 
-      side, both of which the magician answered in succession. If the
+side, both of which the magician answered in succession. If the
 
-      drawer is shut without a medallion being put into it, the
+drawer is shut without a medallion being put into it, the
 
-      magician rises, consults his book, shakes his head, and resumes
+magician rises, consults his book, shakes his head, and resumes
 
-      his seat. The folding doors remain shut, and the drawer is
+his seat. The folding doors remain shut, and the drawer is
 
-      returned empty. If two medallions are put into the drawer
+returned empty. If two medallions are put into the drawer
 
-      together, an answer is returned only to the lower one. When the
+together, an answer is returned only to the lower one. When the
 
-      machinery is wound up, the movements continue about an hour,
+machinery is wound up, the movements continue about an hour,
 
-      during which [[Time|time]] about fifty questions may be answered. The
+during which [[Time|time]] about fifty questions may be answered. The
 
-      inventor stated that the means by which the different medallions
+inventor stated that the means by which the different medallions
 
-      acted upon the machinery, so as to produce the proper answers to
+acted upon the machinery, so as to produce the proper answers to
 
-      the questions which they contained, were extremely simple.”
+the questions which they contained, were extremely simple.”
 
 
 
-      The duck of Vaucanson was still more remarkable. It was _of _the
+The duck of Vaucanson was still more remarkable. It was _of _the
 
-      size of life, and so perfect an [[Imitation|imitation]] of the living animal
+size of life, and so perfect an [[Imitation|imitation]] of the living animal
 
-      that all the spectators were deceived. It executed, says
+that all the spectators were deceived. It executed, says
 
-      Brewster, all the natural movements and gestures, it ate and
+Brewster, all the natural movements and gestures, it ate and
 
-      drank with avidity, performed all the quick motions of the head
+drank with avidity, performed all the quick motions of the head
 
-      and throat which are peculiar to the duck, and like it muddled
+and throat which are peculiar to the duck, and like it muddled
 
-      the [[Water|water]] which it drank with its bill. It produced also the
+the [[Water|water]] which it drank with its bill. It produced also the
 
-      sound of quacking in the most natural manner. In the anatomical
+sound of quacking in the most natural manner. In the anatomical
 
-      structure the [[artist]] exhibited the highest skill. Every bone in
+structure the [[artist]] exhibited the highest skill. Every bone in
 
-      the real duck had its representative In the automaton, and its
+the real duck had its representative In the automaton, and its
 
-      wings were anatomically exact. Every cavity, apophysis, and
+wings were anatomically exact. Every cavity, apophysis, and
 
-      curvature was imitated, and each bone executed its proper
+curvature was imitated, and each bone executed its proper
 
-      movements. When corn was thrown down before it, the duck
+movements. When corn was thrown down before it, the duck
 
 
 
@@ -2030,181 +2030,181 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_02" data-title="Maelzel's Chess-Player (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      stretched out its neck to pick it up, swallowed, and digested it.
+stretched out its neck to pick it up, swallowed, and digested it.
 
-      {*1}
+{*1}
 
 
 
-      But if these machines were ingenious, what shall we think of the
+But if these machines were ingenious, what shall we think of the
 
-      calculating [[Machine|machine]] of Mr. Babbage? What shall we think of an
+calculating [[Machine|machine]] of Mr. Babbage? What shall we think of an
 
-      engine of wood and metal which can not only compute astronomical
+engine of wood and metal which can not only compute astronomical
 
-      and navigation tables to any given extent, but render the
+and navigation tables to any given extent, but render the
 
-      exactitude of its operations mathematically certain through its
+exactitude of its operations mathematically certain through its
 
-      power of correcting its possible errors? What shall we think of a
+power of correcting its possible errors? What shall we think of a
 
-      [[Machine|machine]] which can not only accomplish all this, but actually
+[[Machine|machine]] which can not only accomplish all this, but actually
 
-      print off its elaborate results, when obtained, without the
+print off its elaborate results, when obtained, without the
 
-      slightest intervention of the intellect of man? It will, perhaps,
+slightest intervention of the intellect of man? It will, perhaps,
 
-      be said, in reply, that a [[Machine|machine]] such as we have described is
+be said, in reply, that a [[Machine|machine]] such as we have described is
 
-      altogether above comparison with the Chess-Player of Maelzel. By
+altogether above comparison with the Chess-Player of Maelzel. By
 
-      no means—it is altogether beneath it—that is to say provided we
+no means—it is altogether beneath it—that is to say provided we
 
-      assume (what should never for a moment be assumed) that the
+assume (what should never for a moment be assumed) that the
 
-      Chess-Player is a _pure [[Machine|machine]], _and performs its operations
+Chess-Player is a _pure [[Machine|machine]], _and performs its operations
 
-      without any immediate human agency. Arithmetical or algebraical
+without any immediate human agency. Arithmetical or algebraical
 
-      calculations are, from their very [[Nature|nature]], fixed and determinate.
+calculations are, from their very [[Nature|nature]], fixed and determinate.
 
-      Certain _data _being given, certain results necessarily and
+Certain _data _being given, certain results necessarily and
 
-      inevitably follow. These results have dependence upon nothing,
+inevitably follow. These results have dependence upon nothing,
 
-      and are influenced by nothing but the _data _originally given.
+and are influenced by nothing but the _data _originally given.
 
-      And the question to be solved proceeds, or should proceed, to its
+And the question to be solved proceeds, or should proceed, to its
 
-      final determination, by a succession of unerring steps liable to
+final determination, by a succession of unerring steps liable to
 
-      no change, and subject to no modification. This being the case,
+no change, and subject to no modification. This being the case,
 
-      we can without difficulty conceive the _possibility _of so
+we can without difficulty conceive the _possibility _of so
 
-      arranging a piece of mechanism, that upon starting In accordance
+arranging a piece of mechanism, that upon starting In accordance
 
-      with the _data _of the question to be solved, it should continue
+with the _data _of the question to be solved, it should continue
 
-      its movements regularly, progressively, and undeviatingly towards
+its movements regularly, progressively, and undeviatingly towards
 
-      the required solution, since these movements, however complex,
+the required solution, since these movements, however complex,
 
-      are never imagined to be otherwise than finite and determinate.
+are never imagined to be otherwise than finite and determinate.
 
-      But the case is widely different with the Chess-Player. With him
+But the case is widely different with the Chess-Player. With him
 
-      there is no determinate progression. No one move in chess
+there is no determinate progression. No one move in chess
 
-      necessarily follows upon any one other. From no particular
+necessarily follows upon any one other. From no particular
 
-      disposition of the men at one period of a game can we predicate
+disposition of the men at one period of a game can we predicate
 
-      their disposition at a different period. Let us place the _first
+their disposition at a different period. Let us place the _first
 
-      move _in a game of chess, in juxta-position with the _data _of an
+move _in a game of chess, in juxta-position with the _data _of an
 
-      algebraical question, and their great difference will be
+algebraical question, and their great difference will be
 
-      immediately perceived. From the latter—from the _data—_the second
+immediately perceived. From the latter—from the _data—_the second
 
-      step of the question, dependent thereupon, inevitably follows. It
+step of the question, dependent thereupon, inevitably follows. It
 
-      is modelled by the _data. _It must be _thus _and not otherwise.
+is modelled by the _data. _It must be _thus _and not otherwise.
 
-      But from the first move in the game of chess no especial second
+But from the first move in the game of chess no especial second
 
-      move follows of necessity. In the algebraical question, as it
+move follows of necessity. In the algebraical question, as it
 
-      proceeds towards solution, the _certainty _of its operations
+proceeds towards solution, the _certainty _of its operations
 
-      remains altogether unimpaired. The second step having been a
+remains altogether unimpaired. The second step having been a
 
-      consequence of the _data, _the third step is equally a
+consequence of the _data, _the third step is equally a
 
-      consequence of the second, the fourth of the third, the fifth of
+consequence of the second, the fourth of the third, the fifth of
 
-      the fourth, and so on, _and not possibly otherwise, _to the end.
+the fourth, and so on, _and not possibly otherwise, _to the end.
 
-      But in proportion to the progress made in a game of chess, is the
+But in proportion to the progress made in a game of chess, is the
 
-      _uncertainty _of each ensuing move. A few moves having been made,
+_uncertainty _of each ensuing move. A few moves having been made,
 
-      _no _step is certain. Different spectators of the game would
+_no _step is certain. Different spectators of the game would
 
-      advise different moves. All is then dependent upon the variable
+advise different moves. All is then dependent upon the variable
 
-      judgment of the players. Now even granting (what should not be
+judgment of the players. Now even granting (what should not be
 
-      granted) that the movements of the Automaton Chess-Player were in
+granted) that the movements of the Automaton Chess-Player were in
 
-      themselves determinate, they would be necessarily interrupted and
+themselves determinate, they would be necessarily interrupted and
 
-      disarranged by the indeterminate will of his antagonist. There is
+disarranged by the indeterminate will of his antagonist. There is
 
-      then no analogy whatever between the operations of the
+then no analogy whatever between the operations of the
 
-      Chess-Player, and those of the calculating [[Machine|machine]] of Mr.
+Chess-Player, and those of the calculating [[Machine|machine]] of Mr.
 
-      Babbage, and if we choose to call the former a _pure [[Machine|machine]] _we
+Babbage, and if we choose to call the former a _pure [[Machine|machine]] _we
 
-      must be prepared to admit that it is, beyond all comparison, the
+must be prepared to admit that it is, beyond all comparison, the
 
-      most wonderful of the inventions of mankind. Its original
+most wonderful of the inventions of mankind. Its original
 
-      projector, however, Baron Kempelen, had no scruple in declaring
+projector, however, Baron Kempelen, had no scruple in declaring
 
-      it to be a “very ordinary piece of mechanism—a _bagatelle _whose
+it to be a “very ordinary piece of mechanism—a _bagatelle _whose
 
-      effects appeared so marvellous only from the boldness of the
+effects appeared so marvellous only from the boldness of the
 
-      conception, and the fortunate choice of the methods adopted for
+conception, and the fortunate choice of the methods adopted for
 
-      promoting the illusion.” But it is needless to dwell upon this
+promoting the illusion.” But it is needless to dwell upon this
 
-      point. It is quite certain that the operations of the Automaton
+point. It is quite certain that the operations of the Automaton
 
-      are regulated by _mind, _and by nothing else. Indeed this matter
+are regulated by _mind, _and by nothing else. Indeed this matter
 
-      is susceptible of a mathematical demonstration, _a priori. _The
+is susceptible of a mathematical demonstration, _a priori. _The
 
-      only question then is of the _manner _in which human agency is
+only question then is of the _manner _in which human agency is
 
-      brought to bear. Before entering upon this subject it would be as
+brought to bear. Before entering upon this subject it would be as
 
-      [[Well|well]] to give a brief [[history]] and description of the Chess-Player
+[[Well|well]] to give a brief [[history]] and description of the Chess-Player
 
-      for the benefit of such of our readers as may never have had an
+for the benefit of such of our readers as may never have had an
 
-      opportunity of witnessing Mr. Maelzel’s exhibition.
+opportunity of witnessing Mr. Maelzel’s exhibition.
 
 
 
-      The Automaton Chess-Player was invented in 1769, by Baron
+The Automaton Chess-Player was invented in 1769, by Baron
 
-      Kempelen, a nobleman of Presburg, in Hungary, who afterwards
+Kempelen, a nobleman of Presburg, in Hungary, who afterwards
 
-      disposed of it, together with the secret of its operations, to
+disposed of it, together with the secret of its operations, to
 
-      its present possessor. {2*} Soon after its completion it was
+its present possessor. {2*} Soon after its completion it was
 
-      exhibited in Presburg, [[Paris]], Vienna, and other continental
+exhibited in Presburg, [[Paris]], Vienna, and other continental
 
-      cities. In 1783 and 1784, it was taken to [[London]] by Mr. Maelzel.
+cities. In 1783 and 1784, it was taken to [[London]] by Mr. Maelzel.
 
-      Of late years it has visited the principal towns in the United
+Of late years it has visited the principal towns in the United
 
-      States. Wherever seen, the most intense curiosity was excited by
+States. Wherever seen, the most intense curiosity was excited by
 
-      its appearance, and numerous have been the attempts, by men of
+its appearance, and numerous have been the attempts, by men of
 
-      all classes, to fathom the mystery of its evolutions. The cut on
+all classes, to fathom the mystery of its evolutions. The cut on
 
-      this page gives a tolerable representation of the figure as seen
+this page gives a tolerable representation of the figure as seen
 
-      by the citizens of Richmond a few weeks ago. The right arm,
+by the citizens of Richmond a few weeks ago. The right arm,
 
-      however, should lie more at length upon the box, a chess-board
+however, should lie more at length upon the box, a chess-board
 
 
 
@@ -2212,181 +2212,181 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_03" data-title="Maelzel's Chess-Player (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      should appear upon it, and the cushion should not be seen while
+should appear upon it, and the cushion should not be seen while
 
-      the pipe is held. Some immaterial alterations have been made in
+the pipe is held. Some immaterial alterations have been made in
 
-      the costume of the player since it came into the possession of
+the costume of the player since it came into the possession of
 
-      Maelzel—the plume, for example, was not originally worn. {image
+Maelzel—the plume, for example, was not originally worn. {image
 
-      of automaton}
+of automaton}
 
 
 
-      At the hour appointed for exhibition, a curtain is withdrawn, or
+At the hour appointed for exhibition, a curtain is withdrawn, or
 
-      folding doors are thrown open, and the [[Machine|machine]] rolled to within
+folding doors are thrown open, and the [[Machine|machine]] rolled to within
 
-      about twelve feet of the nearest of the spectators, between whom
+about twelve feet of the nearest of the spectators, between whom
 
-      and it (the [[Machine|machine]]) a rope is stretched. A figure is seen
+and it (the [[Machine|machine]]) a rope is stretched. A figure is seen
 
-      habited as a Turk, and seated, with its legs crossed, at a large
+habited as a Turk, and seated, with its legs crossed, at a large
 
-      box apparently of maple wood, which serves it as a table. The
+box apparently of maple wood, which serves it as a table. The
 
-      exhibiter will, if requested, roll the [[Machine|machine]] to any portion of
+exhibiter will, if requested, roll the [[Machine|machine]] to any portion of
 
-      the room, suffer it to remain altogether on any designated spot,
+the room, suffer it to remain altogether on any designated spot,
 
-      or even shift its location repeatedly during the progress of a
+or even shift its location repeatedly during the progress of a
 
-      game. The [[Bottom|bottom]] of the box is elevated considerably above the
+game. The [[Bottom|bottom]] of the box is elevated considerably above the
 
-      floor by means of the castors or brazen rollers on which it
+floor by means of the castors or brazen rollers on which it
 
-      moves, a clear view of the surface immediately beneath the
+moves, a clear view of the surface immediately beneath the
 
-      Automaton being thus afforded to the spectators. The chair on
+Automaton being thus afforded to the spectators. The chair on
 
-      which the figure sits is affixed permanently to the box. On the
+which the figure sits is affixed permanently to the box. On the
 
-      top of this latter is a chess-board, also permanently affixed.
+top of this latter is a chess-board, also permanently affixed.
 
-      The right arm of the Chess-Player is extended at full length
+The right arm of the Chess-Player is extended at full length
 
-      before him, at right angles with his [[Body|body]], and lying, in an
+before him, at right angles with his [[Body|body]], and lying, in an
 
-      apparently careless position, by the side of the board. The back
+apparently careless position, by the side of the board. The back
 
-      of the hand is upwards. The board itself is eighteen inches
+of the hand is upwards. The board itself is eighteen inches
 
-      square. The left arm of the figure is bent at the elbow, and in
+square. The left arm of the figure is bent at the elbow, and in
 
-      the left hand is a pipe. A green drapery conceals the back of the
+the left hand is a pipe. A green drapery conceals the back of the
 
-      Turk, and falls partially over the front of both shoulders. To
+Turk, and falls partially over the front of both shoulders. To
 
-      judge from the external appearance of the box, it is divided into
+judge from the external appearance of the box, it is divided into
 
-      five compartments—three cupboards of equal dimensions, and two
+five compartments—three cupboards of equal dimensions, and two
 
-      drawers occupying that portion of the chest lying beneath the
+drawers occupying that portion of the chest lying beneath the
 
-      cupboards. The foregoing observations apply to the appearance of
+cupboards. The foregoing observations apply to the appearance of
 
-      the Automaton upon its first introduction into the presence of
+the Automaton upon its first introduction into the presence of
 
-      the spectators.
+the spectators.
 
 
 
-      Maelzel now informs the company that he will disclose to their
+Maelzel now informs the company that he will disclose to their
 
-      view the mechanism of the [[Machine|machine]]. Taking from his pocket a bunch
+view the mechanism of the [[Machine|machine]]. Taking from his pocket a bunch
 
-      of keys he unlocks with one of them, door marked ~ in the cut
+of keys he unlocks with one of them, door marked ~ in the cut
 
-      above, and throws the cupboard fully open to the inspection of
+above, and throws the cupboard fully open to the inspection of
 
-      all present. Its whole interior is apparently filled with wheels,
+all present. Its whole interior is apparently filled with wheels,
 
-      pinions, levers, and other machinery, crowded very closely
+pinions, levers, and other machinery, crowded very closely
 
-      together, so that the eye can penetrate but a little distance
+together, so that the eye can penetrate but a little distance
 
-      into the mass. Leaving this door open to its full extent, he goes
+into the mass. Leaving this door open to its full extent, he goes
 
-      now round to the back of the box, and raising the drapery of the
+now round to the back of the box, and raising the drapery of the
 
-      figure, opens another door situated precisely in the rear of the
+figure, opens another door situated precisely in the rear of the
 
-      one first opened. Holding a lighted candle at this door, and
+one first opened. Holding a lighted candle at this door, and
 
-      shifting the position of the whole [[Machine|machine]] repeatedly at the same
+shifting the position of the whole [[Machine|machine]] repeatedly at the same
 
-      [[Time|time]], a bright light is thrown entirely through the cupboard,
+[[Time|time]], a bright light is thrown entirely through the cupboard,
 
-      which is now clearly seen to be full, completely full, of
+which is now clearly seen to be full, completely full, of
 
-      machinery. The spectators being satisfied of this fact, Maelzel
+machinery. The spectators being satisfied of this fact, Maelzel
 
-      closes the back door, locks it, takes the key from the lock, lets
+closes the back door, locks it, takes the key from the lock, lets
 
-      fall the drapery of the figure, and comes round to the front. The
+fall the drapery of the figure, and comes round to the front. The
 
-      door marked I, it will be remembered, is still open. The
+door marked I, it will be remembered, is still open. The
 
-      exhibiter now proceeds to open the drawer which lies beneath the
+exhibiter now proceeds to open the drawer which lies beneath the
 
-      cupboards at the [[Bottom|bottom]] of the box—for although there are
+cupboards at the [[Bottom|bottom]] of the box—for although there are
 
-      apparently two drawers, there is really only one—the two handles
+apparently two drawers, there is really only one—the two handles
 
-      and two key holes being intended merely for ornament. Having
+and two key holes being intended merely for ornament. Having
 
-      opened this drawer to its full extent, a small cushion, and a set
+opened this drawer to its full extent, a small cushion, and a set
 
-      of chessmen, fixed in a frame work made to support them
+of chessmen, fixed in a frame work made to support them
 
-      perpendicularly, are discovered. Leaving this drawer, as [[Well|well]] as
+perpendicularly, are discovered. Leaving this drawer, as [[Well|well]] as
 
-      cupboard No. 1 open, Maelzel now unlocks door No. 2, and door No.
+cupboard No. 1 open, Maelzel now unlocks door No. 2, and door No.
 
-      3, which are discovered to be folding doors, opening into one and
+3, which are discovered to be folding doors, opening into one and
 
-      the same compartment. To the right of this compartment, however,
+the same compartment. To the right of this compartment, however,
 
-      (that is to say the spectators’ right) a small division, six
+(that is to say the spectators’ right) a small division, six
 
-      inches wide, and filled with machinery, is partitioned off. The
+inches wide, and filled with machinery, is partitioned off. The
 
-      main compartment itself (in speaking of that portion of the box
+main compartment itself (in speaking of that portion of the box
 
-      visible upon opening doors 2 and 3, we shall always call it the
+visible upon opening doors 2 and 3, we shall always call it the
 
-      main compartment) is lined with dark cloth and contains no
+main compartment) is lined with dark cloth and contains no
 
-      machinery whatever beyond two pieces of steel, quadrant-shaped,
+machinery whatever beyond two pieces of steel, quadrant-shaped,
 
-      and situated one in each of the rear top corners of the
+and situated one in each of the rear top corners of the
 
-      compartment. A small protuberance about eight inches square, and
+compartment. A small protuberance about eight inches square, and
 
-      also covered with dark cloth, lies on the floor of the
+also covered with dark cloth, lies on the floor of the
 
-      compartment near the rear corner on the spectators’ left hand.
+compartment near the rear corner on the spectators’ left hand.
 
-      Leaving doors No. 2 and No. 3 open as [[Well|well]] as the drawer, and
+Leaving doors No. 2 and No. 3 open as [[Well|well]] as the drawer, and
 
-      door No. I, the exhibiter now goes round to the back of the main
+door No. I, the exhibiter now goes round to the back of the main
 
-      compartment, and, unlocking another door there, displays clearly
+compartment, and, unlocking another door there, displays clearly
 
-      all the interior of the main compartment, by introducing a candle
+all the interior of the main compartment, by introducing a candle
 
-      behind it and within it. The whole box being thus apparently
+behind it and within it. The whole box being thus apparently
 
-      disclosed to the scrutiny of the company, Maelzel, still leaving
+disclosed to the scrutiny of the company, Maelzel, still leaving
 
-      the doors and drawer open, rolls the Automaton entirely round,
+the doors and drawer open, rolls the Automaton entirely round,
 
-      and exposes the back of the Turk by lifting up the drapery. A
+and exposes the back of the Turk by lifting up the drapery. A
 
-      door about ten inches square is thrown open in the loins of the
+door about ten inches square is thrown open in the loins of the
 
-      figure, and a smaller one also in the left thigh. The interior of
+figure, and a smaller one also in the left thigh. The interior of
 
-      the figure, as seen through these apertures, appears to be
+the figure, as seen through these apertures, appears to be
 
-      crowded with machinery. In general, every spectator is now
+crowded with machinery. In general, every spectator is now
 
-      thoroughly satisfied of having beheld and completely scrutinized,
+thoroughly satisfied of having beheld and completely scrutinized,
 
-      at one and the same [[Time|time]], every individual portion of the
+at one and the same [[Time|time]], every individual portion of the
 
-      Automaton, and the idea of any person being concealed in the
+Automaton, and the idea of any person being concealed in the
 
 
 
@@ -2394,181 +2394,181 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_04" data-title="Maelzel's Chess-Player (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      interior, during so complete an exhibition of that interior, if
+interior, during so complete an exhibition of that interior, if
 
-      ever entertained, is immediately dismissed as preposterous in the
+ever entertained, is immediately dismissed as preposterous in the
 
-      extreme.
+extreme.
 
 
 
-      M. Maelzel, having rolled the [[Machine|machine]] back into its original
+M. Maelzel, having rolled the [[Machine|machine]] back into its original
 
-      position, now informs the company that the Automaton will play a
+position, now informs the company that the Automaton will play a
 
-      game of chess with any one disposed to encounter him. This
+game of chess with any one disposed to encounter him. This
 
-      challenge being accepted, a small table is prepared for the
+challenge being accepted, a small table is prepared for the
 
-      antagonist, and placed close by the rope, but on the spectators’
+antagonist, and placed close by the rope, but on the spectators’
 
-      side of it, and so situated as not to prevent the company from
+side of it, and so situated as not to prevent the company from
 
-      obtaining a full view of the Automaton. From a drawer in this
+obtaining a full view of the Automaton. From a drawer in this
 
-      table is taken a set of chess-men, and Maelzel arranges them
+table is taken a set of chess-men, and Maelzel arranges them
 
-      generally, but not always, with his own hands, on the chess
+generally, but not always, with his own hands, on the chess
 
-      board, which consists merely of the usual number of squares
+board, which consists merely of the usual number of squares
 
-      painted upon the table. The antagonist having taken his seat, the
+painted upon the table. The antagonist having taken his seat, the
 
-      exhibiter approaches the drawer of the box, and takes therefrom
+exhibiter approaches the drawer of the box, and takes therefrom
 
-      the cushion, which, after removing the pipe from the hand of the
+the cushion, which, after removing the pipe from the hand of the
 
-      Automaton, he places under its left arm as a support. Then taking
+Automaton, he places under its left arm as a support. Then taking
 
-      also from the drawer the Automaton’s set of chess-men, he
+also from the drawer the Automaton’s set of chess-men, he
 
-      arranges them upon the chessboard before the figure. He now
+arranges them upon the chessboard before the figure. He now
 
-      proceeds to close the doors and to lock them—leaving the bunch of
+proceeds to close the doors and to lock them—leaving the bunch of
 
-      keys in door No. 1. He also closes the drawer, and, finally,
+keys in door No. 1. He also closes the drawer, and, finally,
 
-      winds up the [[Machine|machine]], by applying a key to an aperture in the
+winds up the [[Machine|machine]], by applying a key to an aperture in the
 
-      left end (the spectators’ left) of the box. The game now
+left end (the spectators’ left) of the box. The game now
 
-      commences—the Automaton taking the first move. The duration of
+commences—the Automaton taking the first move. The duration of
 
-      the contest is usually limited to half an hour, but if it be not
+the contest is usually limited to half an hour, but if it be not
 
-      finished at the expiration of this period, and the antagonist
+finished at the expiration of this period, and the antagonist
 
-      still contend that he can beat the Automaton, M. Maelzel has
+still contend that he can beat the Automaton, M. Maelzel has
 
-      seldom any objection to continue it. Not to weary the company, is
+seldom any objection to continue it. Not to weary the company, is
 
-      the ostensible, and no [[Doubt|doubt]] the real object of the limitation.
+the ostensible, and no [[Doubt|doubt]] the real object of the limitation.
 
-      It Wits of course be understood that when a move is made at his
+It Wits of course be understood that when a move is made at his
 
-      own table, by the antagonist, the corresponding move is made at
+own table, by the antagonist, the corresponding move is made at
 
-      the box of the Automaton, by Maelzel himself, who then acts as
+the box of the Automaton, by Maelzel himself, who then acts as
 
-      the representative of the antagonist. On the other hand, when the
+the representative of the antagonist. On the other hand, when the
 
-      Turk moves, the corresponding move is made at the table of the
+Turk moves, the corresponding move is made at the table of the
 
-      antagonist, also by M. Maelzel, who then acts as the
+antagonist, also by M. Maelzel, who then acts as the
 
-      representative of the Automaton. In this manner it is necessary
+representative of the Automaton. In this manner it is necessary
 
-      that the exhibiter should often pass from one table to the other.
+that the exhibiter should often pass from one table to the other.
 
-      He also frequently goes in rear of the figure to remove the
+He also frequently goes in rear of the figure to remove the
 
-      chess-men which it has taken, and which it deposits, when taken,
+chess-men which it has taken, and which it deposits, when taken,
 
-      on the box to the left (to its own left) of the board. When the
+on the box to the left (to its own left) of the board. When the
 
-      Automaton hesitates in relation to its move, the exhibiter is
+Automaton hesitates in relation to its move, the exhibiter is
 
-      occasionally seen to place himself very near its right side, and
+occasionally seen to place himself very near its right side, and
 
-      to lay his hand, now and then, in a careless manner upon the box.
+to lay his hand, now and then, in a careless manner upon the box.
 
-      He has also a peculiar shuffle with his feet, calculated to
+He has also a peculiar shuffle with his feet, calculated to
 
-      induce suspicion of collusion with the [[Machine|machine]] in minds which are
+induce suspicion of collusion with the [[Machine|machine]] in minds which are
 
-      more cunning than sagacious. These peculiarities are, no [[Doubt|doubt]],
+more cunning than sagacious. These peculiarities are, no [[Doubt|doubt]],
 
-      mere mannerisms of M. Maelzel, or, if he is aware of them at all,
+mere mannerisms of M. Maelzel, or, if he is aware of them at all,
 
-      he puts them in practice with a view of exciting in the
+he puts them in practice with a view of exciting in the
 
-      spectators a false idea of the pure mechanism in the Automaton.
+spectators a false idea of the pure mechanism in the Automaton.
 
 
 
-      The Turk plays with his left hand. All the movements of the arm
+The Turk plays with his left hand. All the movements of the arm
 
-      are at right angles. In this manner, the hand (which is gloved
+are at right angles. In this manner, the hand (which is gloved
 
-      and bent in a natural way,) being brought directly above the
+and bent in a natural way,) being brought directly above the
 
-      piece to be moved, descends finally upon it, the fingers
+piece to be moved, descends finally upon it, the fingers
 
-      receiving it, in most cases, without difficulty. Occasionally,
+receiving it, in most cases, without difficulty. Occasionally,
 
-      however, when the piece is not precisely in its proper situation,
+however, when the piece is not precisely in its proper situation,
 
-      the Automaton fails in his attempt at seizing it. When this
+the Automaton fails in his attempt at seizing it. When this
 
-      occurs, no second effort is made, but the arm continues its
+occurs, no second effort is made, but the arm continues its
 
-      movement in the direction originally intended, precisely as if
+movement in the direction originally intended, precisely as if
 
-      the piece were in the fingers. Having thus designated the spot
+the piece were in the fingers. Having thus designated the spot
 
-      whither the move should have been made, the arm returns to its
+whither the move should have been made, the arm returns to its
 
-      cushion, and Maelzel performs the evolution which the Automaton
+cushion, and Maelzel performs the evolution which the Automaton
 
-      pointed out. At every movement of the figure machinery is heard
+pointed out. At every movement of the figure machinery is heard
 
-      in motion. During the progress of the game, the figure now and
+in motion. During the progress of the game, the figure now and
 
-      then rolls its eyes, as if surveying the board, moves its head,
+then rolls its eyes, as if surveying the board, moves its head,
 
-      and pronounces the word _echec _(check) when necessary. {*3} If a
+and pronounces the word _echec _(check) when necessary. {*3} If a
 
-      false move be made by his antagonist, he raps briskly on the box
+false move be made by his antagonist, he raps briskly on the box
 
-      with the fingers of his right hand, shakes his head roughly, and
+with the fingers of his right hand, shakes his head roughly, and
 
-      replacing the piece falsely moved, in its former situation,
+replacing the piece falsely moved, in its former situation,
 
-      assumes the next move himself. Upon beating the game, he waves
+assumes the next move himself. Upon beating the game, he waves
 
-      his head with an air of triumph, looks round complacently upon
+his head with an air of triumph, looks round complacently upon
 
-      the spectators, and drawing his left arm farther back than usual,
+the spectators, and drawing his left arm farther back than usual,
 
-      suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
+suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
 
-      the Turk is victorious—once or twice he has been beaten. The game
+the Turk is victorious—once or twice he has been beaten. The game
 
-      being ended, Maelzel will again if desired, exhibit the mechanism
+being ended, Maelzel will again if desired, exhibit the mechanism
 
-      of the box, in the same manner as before. The [[Machine|machine]] is then
+of the box, in the same manner as before. The [[Machine|machine]] is then
 
-      rolled back, and a curtain hides it from the view of the company.
+rolled back, and a curtain hides it from the view of the company.
 
 
 
-      There have been many attempts at solving the mystery of the
+There have been many attempts at solving the mystery of the
 
-      Automaton. The most general opinion in relation to it, an opinion
+Automaton. The most general opinion in relation to it, an opinion
 
-      too not unfrequently adopted by men who should have known better,
+too not unfrequently adopted by men who should have known better,
 
-      was, as we have before said, that no immediate human agency was
+was, as we have before said, that no immediate human agency was
 
-      employed—in other words, that the [[Machine|machine]] was purely a [[Machine|machine]]
+employed—in other words, that the [[Machine|machine]] was purely a [[Machine|machine]]
 
-      and nothing else. Many, however maintained that the exhibiter
+and nothing else. Many, however maintained that the exhibiter
 
-      himself regulated the movements of the figure by mechanical means
+himself regulated the movements of the figure by mechanical means
 
-      operating through the feet of the box. Others again, spoke
+operating through the feet of the box. Others again, spoke
 
-      confidently of a magnet. Of the first of these opinions we shall
+confidently of a magnet. Of the first of these opinions we shall
 
 
 
@@ -2576,179 +2576,179 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_05" data-title="Maelzel's Chess-Player (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-      say nothing at present more than we have already said. In
+say nothing at present more than we have already said. In
 
-      relation to the second it is only necessary to repeat what we
+relation to the second it is only necessary to repeat what we
 
-      have before stated, that the [[Machine|machine]] is rolled about on castors,
+have before stated, that the [[Machine|machine]] is rolled about on castors,
 
-      and will, at the request of a spectator, be moved to and fro to
+and will, at the request of a spectator, be moved to and fro to
 
-      any portion of the room, even during the progress of a game. The
+any portion of the room, even during the progress of a game. The
 
-      supposition of the magnet is also untenable—for if a magnet were
+supposition of the magnet is also untenable—for if a magnet were
 
-      the agent, any other magnet in the pocket of a spectator would
+the agent, any other magnet in the pocket of a spectator would
 
-      disarrange the entire mechanism. The exhibiter, however, will
+disarrange the entire mechanism. The exhibiter, however, will
 
-      suffer the most powerful loadstone to remain even upon the box
+suffer the most powerful loadstone to remain even upon the box
 
-      during the whole of the exhibition.
+during the whole of the exhibition.
 
 
 
-      The first attempt at a written explanation of the secret, at
+The first attempt at a written explanation of the secret, at
 
-      least the first attempt of which we ourselves have any knowledge,
+least the first attempt of which we ourselves have any knowledge,
 
-      was made in a large pamphlet printed at [[Paris]] in 1785. The
+was made in a large pamphlet printed at [[Paris]] in 1785. The
 
-      author’s hypothesis amounted to this—that a [[Dwarf|dwarf]] actuated the
+author’s hypothesis amounted to this—that a [[Dwarf|dwarf]] actuated the
 
-      [[Machine|machine]]. This [[Dwarf|dwarf]] he supposed to conceal himself during the
+[[Machine|machine]]. This [[Dwarf|dwarf]] he supposed to conceal himself during the
 
-      opening of the box by thrusting his legs into two hollow
+opening of the box by thrusting his legs into two hollow
 
-      cylinders, which were represented to be (but which are not) among
+cylinders, which were represented to be (but which are not) among
 
-      the machinery in the cupboard No. I, while his [[Body|body]] was out of
+the machinery in the cupboard No. I, while his [[Body|body]] was out of
 
-      the box entirely, and covered by the drapery of the Turk. When
+the box entirely, and covered by the drapery of the Turk. When
 
-      the doors were shut, the [[Dwarf|dwarf]] was enabled to bring his [[Body|body]]
+the doors were shut, the [[Dwarf|dwarf]] was enabled to bring his [[Body|body]]
 
-      within the box—the noise produced by some portion of the
+within the box—the noise produced by some portion of the
 
-      machinery allowing him to do so unheard, and also to close the
+machinery allowing him to do so unheard, and also to close the
 
-      door by which he entered. The interior of the automaton being
+door by which he entered. The interior of the automaton being
 
-      then exhibited, and no person discovered, the spectators, says
+then exhibited, and no person discovered, the spectators, says
 
-      the author of this pamphlet, are satisfied that no one is within
+the author of this pamphlet, are satisfied that no one is within
 
-      any portion of the [[Machine|machine]]. This whole hypothesis was too
+any portion of the [[Machine|machine]]. This whole hypothesis was too
 
-      obviously absurd to require comment, or refutation, and
+obviously absurd to require comment, or refutation, and
 
-      accordingly we find that it attracted very little attention.
+accordingly we find that it attracted very little attention.
 
 
 
-      In 1789 a book was published at Dresden by M. I. F. Freyhere in
+In 1789 a book was published at Dresden by M. I. F. Freyhere in
 
-      which another endeavor was made to unravel the mystery. Mr.
+which another endeavor was made to unravel the mystery. Mr.
 
-      Freyhere’s book was a pretty large one, and copiously illustrated
+Freyhere’s book was a pretty large one, and copiously illustrated
 
-      by colored engravings. His supposition was that “a [[Well|well]]-taught
+by colored engravings. His supposition was that “a [[Well|well]]-taught
 
-      boy very thin and tall of his age (sufficiently so that he could
+boy very thin and tall of his age (sufficiently so that he could
 
-      be concealed in a drawer almost immediately under the
+be concealed in a drawer almost immediately under the
 
-      chess-board”) played the game of chess and effected all the
+chess-board”) played the game of chess and effected all the
 
-      evolutions of the Automaton. This idea, although even more silly
+evolutions of the Automaton. This idea, although even more silly
 
-      than that of the Parisian author, met with a better reception,
+than that of the Parisian author, met with a better reception,
 
-      and was in some measure believed to be the true solution of the
+and was in some measure believed to be the true solution of the
 
-      [[Wonder|wonder]], until the inventor put an end to the discussion by
+[[Wonder|wonder]], until the inventor put an end to the discussion by
 
-      [[Suffering|suffering]] a close examination of the top of the box.
+[[Suffering|suffering]] a close examination of the top of the box.
 
 
 
-      These bizarre attempts at explanation were followed by others
+These bizarre attempts at explanation were followed by others
 
-      equally bizarre. Of late years however, an anonymous writer, by a
+equally bizarre. Of late years however, an anonymous writer, by a
 
-      course of reasoning exceedingly unphilosophical, has contrived to
+course of reasoning exceedingly unphilosophical, has contrived to
 
-      blunder upon a plausible solution—although we cannot consider it
+blunder upon a plausible solution—although we cannot consider it
 
-      altogether the true one. His [[Essay]] was first published in a
+altogether the true one. His [[Essay]] was first published in a
 
-      Baltimore weekly paper, was illustrated by cuts, and was entitled
+Baltimore weekly paper, was illustrated by cuts, and was entitled
 
-      “An attempt to analyze the Automaton Chess-Player of M. Maelzel.”
+“An attempt to analyze the Automaton Chess-Player of M. Maelzel.”
 
-      This [[Essay]] we suppose to have been the original of the _pamphlet
+This [[Essay]] we suppose to have been the original of the _pamphlet
 
-      to _which Sir David Brewster alludes in his letters on Natural
+to _which Sir David Brewster alludes in his letters on Natural
 
-      [[Magic]], and which he has no hesitation in declaring a thorough and
+[[Magic]], and which he has no hesitation in declaring a thorough and
 
-      satisfactory explanation. The _results _of the analysis are
+satisfactory explanation. The _results _of the analysis are
 
-      undoubtedly, in the main, just; but we can only account for
+undoubtedly, in the main, just; but we can only account for
 
-      Brewster’s pronouncing the [[Essay]] a thorough and satisfactory
+Brewster’s pronouncing the [[Essay]] a thorough and satisfactory
 
-      explanation, by supposing him to have bestowed upon it a very
+explanation, by supposing him to have bestowed upon it a very
 
-      cursory and inattentive perusal. In the compendium of the [[Essay]],
+cursory and inattentive perusal. In the compendium of the [[Essay]],
 
-      made use of in the Letters on Natural [[Magic]], it is quite
+made use of in the Letters on Natural [[Magic]], it is quite
 
-      impossible to arrive at any distinct conclusion in regard to the
+impossible to arrive at any distinct conclusion in regard to the
 
-      adequacy or inadequacy of the analysis, on account of the gross
+adequacy or inadequacy of the analysis, on account of the gross
 
-      misarrangement and deficiency of the letters of reference
+misarrangement and deficiency of the letters of reference
 
-      employed. The same fault is to be found in the “Attempt &c.,” as
+employed. The same fault is to be found in the “Attempt &c.,” as
 
-      we originally saw it. The solution consists in a series of minute
+we originally saw it. The solution consists in a series of minute
 
-      explanations, (accompanied by wood-cuts, the whole occupying many
+explanations, (accompanied by wood-cuts, the whole occupying many
 
-      pages) in which the object is to show the _possibility _of _so
+pages) in which the object is to show the _possibility _of _so
 
-      shifting the partitions _of the box, as to allow a human being,
+shifting the partitions _of the box, as to allow a human being,
 
-      concealed in the interior, to move portions of his [[Body|body]] from one
+concealed in the interior, to move portions of his [[Body|body]] from one
 
-      part of the box to another, during the exhibition of the
+part of the box to another, during the exhibition of the
 
-      mechanism—thus eluding the scrutiny of the spectators. There can
+mechanism—thus eluding the scrutiny of the spectators. There can
 
-      be no [[Doubt|doubt]], as we have before observed, and as we will presently
+be no [[Doubt|doubt]], as we have before observed, and as we will presently
 
-      endeavor to show, that the principle, or rather the result, of
+endeavor to show, that the principle, or rather the result, of
 
-      this solution is the true one. Some person is concealed in the
+this solution is the true one. Some person is concealed in the
 
-      box during the whole [[Time|time]] of exhibiting the interior. We object,
+box during the whole [[Time|time]] of exhibiting the interior. We object,
 
-      however, to the whole verbose description of the _manner _in
+however, to the whole verbose description of the _manner _in
 
-      which the partitions are shifted, to accommodate the movements of
+which the partitions are shifted, to accommodate the movements of
 
-      the person concealed. We object to it as a mere theory assumed in
+the person concealed. We object to it as a mere theory assumed in
 
-      the first place, and to which circumstances are afterwards made
+the first place, and to which circumstances are afterwards made
 
-      to adapt themselves. It was not, and could not have been, arrived
+to adapt themselves. It was not, and could not have been, arrived
 
-      at by any inductive reasoning. In whatever way the shifting is
+at by any inductive reasoning. In whatever way the shifting is
 
-      managed, it is of course concealed at every step from
+managed, it is of course concealed at every step from
 
-      observation. To show that certain movements might possibly be
+observation. To show that certain movements might possibly be
 
-      effected in a certain way, is very far from showing that they are
+effected in a certain way, is very far from showing that they are
 
-      actually so effected. There may be an infinity of other methods
+actually so effected. There may be an infinity of other methods
 
-      by which the same results may be obtained. The probability of the
+by which the same results may be obtained. The probability of the
 
-      one assumed proving the correct one is then as [[unity]] to infinity.
+one assumed proving the correct one is then as [[unity]] to infinity.
 
-      But, in reality, this particular point, the shifting of the
+But, in reality, this particular point, the shifting of the
 
 
 
@@ -2756,183 +2756,183 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_06" data-title="Maelzel's Chess-Player (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
 
 
-      partitions, is of no consequence whatever. It was altogether
+partitions, is of no consequence whatever. It was altogether
 
-      unnecessary to devote seven or eight pages for the purpose of
+unnecessary to devote seven or eight pages for the purpose of
 
-      proving what no one in his senses would deny—viz: that the
+proving what no one in his senses would deny—viz: that the
 
-      wonderful mechanical genius of Baron Kempelen could invent the
+wonderful mechanical genius of Baron Kempelen could invent the
 
-      necessary means for shutting a door or slipping aside a pannel,
+necessary means for shutting a door or slipping aside a pannel,
 
-      with a human agent too at his service in actual contact with the
+with a human agent too at his service in actual contact with the
 
-      pannel or the door, and the whole operations carried on, as the
+pannel or the door, and the whole operations carried on, as the
 
-      author of the [[Essay]] himself shows, and as we shall attempt to
+author of the [[Essay]] himself shows, and as we shall attempt to
 
-      show more fully hereafter, entirely out of reach of the
+show more fully hereafter, entirely out of reach of the
 
-      observation of the spectators.
+observation of the spectators.
 
 
 
-      In attempting ourselves an explanation of the Automaton, we will,
+In attempting ourselves an explanation of the Automaton, we will,
 
-      in the first place, endeavor to show how its operations are
+in the first place, endeavor to show how its operations are
 
-      effected, and afterwards describe, as briefly as possible, the
+effected, and afterwards describe, as briefly as possible, the
 
-      [[Nature|nature]] of the _observations _from which we have deduced our
+[[Nature|nature]] of the _observations _from which we have deduced our
 
-      result.
+result.
 
 
 
-      It will be necessary for a proper understanding of the subject,
+It will be necessary for a proper understanding of the subject,
 
-      that we repeat here in a few words, the routine adopted by the
+that we repeat here in a few words, the routine adopted by the
 
-      exhibiter in disclosing the interior of the box—a routine from
+exhibiter in disclosing the interior of the box—a routine from
 
-      which he _never _deviates in any material particular. In the
+which he _never _deviates in any material particular. In the
 
-      first place he opens the door No. I. Leaving this open, he goes
+first place he opens the door No. I. Leaving this open, he goes
 
-      round to the rear of the box, and opens a door precisely at the
+round to the rear of the box, and opens a door precisely at the
 
-      back of door No. I. To this back door he holds a lighted candle.
+back of door No. I. To this back door he holds a lighted candle.
 
-      He then _closes the back door, _locks it, and, coming round to
+He then _closes the back door, _locks it, and, coming round to
 
-      the front, opens the drawer to its full extent. This done, he
+the front, opens the drawer to its full extent. This done, he
 
-      opens the doors No. 2 and No. 3, (the folding doors) and displays
+opens the doors No. 2 and No. 3, (the folding doors) and displays
 
-      the interior of the main compartment. Leaving open the main
+the interior of the main compartment. Leaving open the main
 
-      compartment, the drawer, and the front door of cupboard No. I, he
+compartment, the drawer, and the front door of cupboard No. I, he
 
-      now goes to the rear again, and throws open the back door of the
+now goes to the rear again, and throws open the back door of the
 
-      main compartment. In shutting up the box no particular order is
+main compartment. In shutting up the box no particular order is
 
-      observed, except that the folding doors are always closed before
+observed, except that the folding doors are always closed before
 
-      the drawer.
+the drawer.
 
 
 
-      Now, let us suppose that when the [[Machine|machine]] is first rolled into
+Now, let us suppose that when the [[Machine|machine]] is first rolled into
 
-      the presence of the spectators, a man is already within it. His
+the presence of the spectators, a man is already within it. His
 
-      [[Body|body]] is situated behind the dense machinery in cupboard No. T.
+[[Body|body]] is situated behind the dense machinery in cupboard No. T.
 
-      (the rear portion of which machinery is so contrived as to slip
+(the rear portion of which machinery is so contrived as to slip
 
-      _en masse, _from the main compartment to the cupboard No. I, as
+_en masse, _from the main compartment to the cupboard No. I, as
 
-      occasion may require,) and his legs lie at full length in the
+occasion may require,) and his legs lie at full length in the
 
-      main compartment. When Maelzel opens the door No. I, the man
+main compartment. When Maelzel opens the door No. I, the man
 
-      within is not in any danger of discovery, for the keenest eye
+within is not in any danger of discovery, for the keenest eye
 
-      cannot penetrate more than about two inches into the darkness
+cannot penetrate more than about two inches into the darkness
 
-      within. But the case is otherwise when the back door of the
+within. But the case is otherwise when the back door of the
 
-      cupboard No. I, is opened. A bright light then pervades the
+cupboard No. I, is opened. A bright light then pervades the
 
-      cupboard, and the [[Body|body]] of the man would be discovered if it were
+cupboard, and the [[Body|body]] of the man would be discovered if it were
 
-      there. But it is not. The putting the key in the lock of the back
+there. But it is not. The putting the key in the lock of the back
 
-      door was a signal on hearing which the person concealed brought
+door was a signal on hearing which the person concealed brought
 
-      his [[Body|body]] forward to an angle as acute as possible—throwing it
+his [[Body|body]] forward to an angle as acute as possible—throwing it
 
-      altogether, or nearly so, into the main compartment. This,
+altogether, or nearly so, into the main compartment. This,
 
-      however, is a painful position, and cannot be long maintained.
+however, is a painful position, and cannot be long maintained.
 
-      Accordingly we find that Maelzel _closes the back door. _This
+Accordingly we find that Maelzel _closes the back door. _This
 
-      being done, there is no reason why the [[Body|body]] of the man may not
+being done, there is no reason why the [[Body|body]] of the man may not
 
-      resume its former situation—for the cupboard is again so dark as
+resume its former situation—for the cupboard is again so dark as
 
-      to defy scrutiny. The drawer is now opened, and the legs of the
+to defy scrutiny. The drawer is now opened, and the legs of the
 
-      person within drop down behind it in the space it formerly
+person within drop down behind it in the space it formerly
 
-      occupied. {*4} There is, consequently, now no longer any part of
+occupied. {*4} There is, consequently, now no longer any part of
 
-      the man in the main compartment—his [[Body|body]] being behind the
+the man in the main compartment—his [[Body|body]] being behind the
 
-      machinery in cupboard No. 1, and his legs in the space occupied
+machinery in cupboard No. 1, and his legs in the space occupied
 
-      by the drawer. The exhibiter, therefore, finds himself at liberty
+by the drawer. The exhibiter, therefore, finds himself at liberty
 
-      to display the main compartment. This he does—opening both its
+to display the main compartment. This he does—opening both its
 
-      back and front doors—and no person Is discovered. The spectators
+back and front doors—and no person Is discovered. The spectators
 
-      are now satisfied that the whole of the box is exposed to
+are now satisfied that the whole of the box is exposed to
 
-      view—and exposed too, all portions of it at one and the same
+view—and exposed too, all portions of it at one and the same
 
-      [[Time|time]]. But of course this is not the case. They neither see the
+[[Time|time]]. But of course this is not the case. They neither see the
 
-      space behind the drawer, nor the interior of cupboard No. 1—the
+space behind the drawer, nor the interior of cupboard No. 1—the
 
-      front door of which latter the exhibiter virtually shuts in
+front door of which latter the exhibiter virtually shuts in
 
-      shutting its back door. Maelzel, having now rolled the [[Machine|machine]]
+shutting its back door. Maelzel, having now rolled the [[Machine|machine]]
 
-      around, lifted up the drapery of the Turk, opened the doors in
+around, lifted up the drapery of the Turk, opened the doors in
 
-      his back and thigh, and shown his trunk to be full of machinery,
+his back and thigh, and shown his trunk to be full of machinery,
 
-      brings the whole back into its original position, and closes the
+brings the whole back into its original position, and closes the
 
-      doors. The man within is now at liberty to move about. He gets up
+doors. The man within is now at liberty to move about. He gets up
 
-      into the [[Body|body]] of the Turk just so high as to bring his eyes above
+into the [[Body|body]] of the Turk just so high as to bring his eyes above
 
-      the level of the chess-board. It is very probable that he seats
+the level of the chess-board. It is very probable that he seats
 
-      himself upon the little square block or protuberance which is
+himself upon the little square block or protuberance which is
 
-      seen in a corner of the main compartment when the doors are open.
+seen in a corner of the main compartment when the doors are open.
 
-      In this position he sees the chess-board through the bosom of the
+In this position he sees the chess-board through the bosom of the
 
-      Turk which is of gauze. Bringing his right arm across his breast
+Turk which is of gauze. Bringing his right arm across his breast
 
-      he actuates the little machinery necessary to guide the left arm
+he actuates the little machinery necessary to guide the left arm
 
-      and the fingers of the figure. This machinery is situated just
+and the fingers of the figure. This machinery is situated just
 
-      beneath the left shoulder of the Turk, and is consequently easily
+beneath the left shoulder of the Turk, and is consequently easily
 
-      reached by the right hand of the man concealed, if we suppose his
+reached by the right hand of the man concealed, if we suppose his
 
-      right arm brought across the breast. The motions of the head and
+right arm brought across the breast. The motions of the head and
 
-      eyes, and of the right arm of the figure, as [[Well|well]] as the sound
+eyes, and of the right arm of the figure, as [[Well|well]] as the sound
 
-      _echec _are produced by other mechanism in the interior, and
+_echec _are produced by other mechanism in the interior, and
 
-      actuated at will by the man within. The whole of this
+actuated at will by the man within. The whole of this
 
-      mechanism—that is to say all the mechanism essential to the
+mechanism—that is to say all the mechanism essential to the
 
-      [[Machine|machine]]—is most probably contained within the little cupboard (of
+[[Machine|machine]]—is most probably contained within the little cupboard (of
 
-      about six inches in breadth) partitioned off at the right (the
+about six inches in breadth) partitioned off at the right (the
 
 
 
@@ -2940,191 +2940,191 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_07" data-title="Maelzel's Chess-Player (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
 
 
-      spectators’ right) of the main compartment.
+spectators’ right) of the main compartment.
 
 
 
-      In this analysis of the operations of the Automaton, we have
+In this analysis of the operations of the Automaton, we have
 
-      purposely avoided any allusion to the manner in which the
+purposely avoided any allusion to the manner in which the
 
-      partitions are shifted, and it will now be readily comprehended
+partitions are shifted, and it will now be readily comprehended
 
-      that this point is a matter of no importance, since, by mechanism
+that this point is a matter of no importance, since, by mechanism
 
-      within the ability of any common carpenter, it might be effected
+within the ability of any common carpenter, it might be effected
 
-      in an infinity of different ways, and since we have shown that,
+in an infinity of different ways, and since we have shown that,
 
-      however performed, it is performed out of the view of the
+however performed, it is performed out of the view of the
 
-      spectators. Our result is founded upon the following
+spectators. Our result is founded upon the following
 
-      _observations _taken during frequent visits to the exhibition of
+_observations _taken during frequent visits to the exhibition of
 
-      Maelzel. {*5}
+Maelzel. {*5}
 
 
 
-      I. The moves of the Turk are not made at regular intervals of
+I. The moves of the Turk are not made at regular intervals of
 
-      [[Time|time]], but accommodate themselves to the moves of the
+[[Time|time]], but accommodate themselves to the moves of the
 
-      antagonist—although this point (of regularity) so important in
+antagonist—although this point (of regularity) so important in
 
-      all kinds of mechanical contrivance, might have been readily
+all kinds of mechanical contrivance, might have been readily
 
-      brought about by limiting the [[Time|time]] allowed for the moves of the
+brought about by limiting the [[Time|time]] allowed for the moves of the
 
-      antagonist. For example, if this limit were three minutes, the
+antagonist. For example, if this limit were three minutes, the
 
-      moves of the Automaton might be made at any given intervals
+moves of the Automaton might be made at any given intervals
 
-      longer than three minutes. The fact then of irregularity, when
+longer than three minutes. The fact then of irregularity, when
 
-      regularity might have been so easily attained, goes to prove that
+regularity might have been so easily attained, goes to prove that
 
-      regularity is unimportant to the action of the Automaton—in other
+regularity is unimportant to the action of the Automaton—in other
 
-      words, that the Automaton is not a _pure [[Machine|machine]]._
+words, that the Automaton is not a _pure [[Machine|machine]]._
 
 
 
-      2. When the Automaton is about to move a piece, a distinct motion
+2. When the Automaton is about to move a piece, a distinct motion
 
-      is observable just beneath the left shoulder, and which motion
+is observable just beneath the left shoulder, and which motion
 
-      agitates in a slight degree, the drapery covering the front of
+agitates in a slight degree, the drapery covering the front of
 
-      the left shoulder. This motion invariably precedes, by about two
+the left shoulder. This motion invariably precedes, by about two
 
-      seconds, the movement of the arm itself—and the arm never, in any
+seconds, the movement of the arm itself—and the arm never, in any
 
-      instance, moves without this preparatory motion in the shoulder.
+instance, moves without this preparatory motion in the shoulder.
 
-      Now let the antagonist move a piece, and let the corresponding
+Now let the antagonist move a piece, and let the corresponding
 
-      move be made by Maelzel, as usual, upon the board of the
+move be made by Maelzel, as usual, upon the board of the
 
-      Automaton. Then let the antagonist narrowly watch the Automaton,
+Automaton. Then let the antagonist narrowly watch the Automaton,
 
-      until he detect the preparatory motion in the shoulder.
+until he detect the preparatory motion in the shoulder.
 
-      Immediately upon detecting this motion, and before the arm itself
+Immediately upon detecting this motion, and before the arm itself
 
-      begins to move, let him withdraw his piece, as if perceiving an
+begins to move, let him withdraw his piece, as if perceiving an
 
-      error in his manœuvre. It will then be seen that the movement of
+error in his manœuvre. It will then be seen that the movement of
 
-      the arm, which, in all other cases, immediately succeeds the
+the arm, which, in all other cases, immediately succeeds the
 
-      motion in the shoulder, is withheld—is not made—although Maelzel
+motion in the shoulder, is withheld—is not made—although Maelzel
 
-      has not yet performed, on the board of the Automaton, any move
+has not yet performed, on the board of the Automaton, any move
 
-      corresponding to the withdrawal of the antagonist. In this case,
+corresponding to the withdrawal of the antagonist. In this case,
 
-      that the Automaton was about to move is evident—and that he did
+that the Automaton was about to move is evident—and that he did
 
-      not move, was an effect plainly produced by the withdrawal of the
+not move, was an effect plainly produced by the withdrawal of the
 
-      antagonist, and without any intervention of Maelzel.
+antagonist, and without any intervention of Maelzel.
 
 
 
-      This fact fully proves, 1—that the intervention of Maelzel, in
+This fact fully proves, 1—that the intervention of Maelzel, in
 
-      performing the moves of the antagonist on the board of the
+performing the moves of the antagonist on the board of the
 
-      Automaton, is not essential to the movements of the Automaton,
+Automaton, is not essential to the movements of the Automaton,
 
-      2—that its movements are regulated by _mind—_by some person who
+2—that its movements are regulated by _mind—_by some person who
 
-      sees the board of the antagonist, 3—that its movements are not
+sees the board of the antagonist, 3—that its movements are not
 
-      regulated by the mind of Maelzel, whose back was turned towards
+regulated by the mind of Maelzel, whose back was turned towards
 
-      the antagonist at the withdrawal of his move.
+the antagonist at the withdrawal of his move.
 
 
 
-      3. The Automaton does not invariably win the game. Were the
+3. The Automaton does not invariably win the game. Were the
 
-      [[Machine|machine]] a pure [[Machine|machine]] this would not be the case—it would always
+[[Machine|machine]] a pure [[Machine|machine]] this would not be the case—it would always
 
-      win. The _principle _being discovered by which a [[Machine|machine]] can be
+win. The _principle _being discovered by which a [[Machine|machine]] can be
 
-      made to _play _a game of chess, an extension of the same
+made to _play _a game of chess, an extension of the same
 
-      principle would enable it to win a game—a farther extension would
+principle would enable it to win a game—a farther extension would
 
-      enable it to win _all _games—that is, to beat any possible game
+enable it to win _all _games—that is, to beat any possible game
 
-      of an antagonist. A little consideration will convince any one
+of an antagonist. A little consideration will convince any one
 
-      that the difficulty of making a [[Machine|machine]] beat all games, Is not in
+that the difficulty of making a [[Machine|machine]] beat all games, Is not in
 
-      the least degree greater, as regards the principle of the
+the least degree greater, as regards the principle of the
 
-      operations necessary, than that of making it beat a single game.
+operations necessary, than that of making it beat a single game.
 
-      If then we regard the Chess-Player as a [[Machine|machine]], we must suppose,
+If then we regard the Chess-Player as a [[Machine|machine]], we must suppose,
 
-      (what is highly improbable,) that its inventor preferred leaving
+(what is highly improbable,) that its inventor preferred leaving
 
-      it incomplete to perfecting it—a supposition rendered still more
+it incomplete to perfecting it—a supposition rendered still more
 
-      absurd, when we reflect that the leaving it incomplete would
+absurd, when we reflect that the leaving it incomplete would
 
-      afford an argument against the possibility of its being a pure
+afford an argument against the possibility of its being a pure
 
-      [[Machine|machine]]—the very argument we now adduce.
+[[Machine|machine]]—the very argument we now adduce.
 
 
 
-      4. When the situation of the game is difficult or complex, we
+4. When the situation of the game is difficult or complex, we
 
-      never perceive the Turk either shake his head or roll his eyes.
+never perceive the Turk either shake his head or roll his eyes.
 
-      It is only when his next move is obvious, or when the game is so
+It is only when his next move is obvious, or when the game is so
 
-      circumstanced that to a man in the Automaton’s place there would
+circumstanced that to a man in the Automaton’s place there would
 
-      be no necessity for reflection. Now these peculiar movements of
+be no necessity for reflection. Now these peculiar movements of
 
-      the head and eyes are movements customary with persons engaged in
+the head and eyes are movements customary with persons engaged in
 
-      meditation, and the ingenious Baron Kempelen would have adapted
+meditation, and the ingenious Baron Kempelen would have adapted
 
-      these movements (were the [[Machine|machine]] a pure [[Machine|machine]]) to occasions
+these movements (were the [[Machine|machine]] a pure [[Machine|machine]]) to occasions
 
-      proper for their display—that is, to occasions of complexity. But
+proper for their display—that is, to occasions of complexity. But
 
-      the reverse is seen to be the case, and this reverse applies
+the reverse is seen to be the case, and this reverse applies
 
-      precisely to our supposition of a man in the interior. When
+precisely to our supposition of a man in the interior. When
 
-      engaged in meditation about the game he has no [[Time|time]] to think of
+engaged in meditation about the game he has no [[Time|time]] to think of
 
-      setting in motion the mechanism of the Automaton by which are
+setting in motion the mechanism of the Automaton by which are
 
-      moved the head and the eyes. When the game, however, is obvious,
+moved the head and the eyes. When the game, however, is obvious,
 
-      he has [[Time|time]] to look about him, and, accordingly, we see the head
+he has [[Time|time]] to look about him, and, accordingly, we see the head
 
-      shake and the eyes roll.
+shake and the eyes roll.
 
 
 
-      5. When the [[Machine|machine]] is rolled round to allow the spectators an
+5. When the [[Machine|machine]] is rolled round to allow the spectators an
 
-      examination of the back of the Turk, and when his drapery is
+examination of the back of the Turk, and when his drapery is
 
-      lifted up and the doors in the trunk and thigh thrown open, the
+lifted up and the doors in the trunk and thigh thrown open, the
 
-      interior of the trunk is seen to be crowded with machinery. In
+interior of the trunk is seen to be crowded with machinery. In
 
-      scrutinizing this machinery while the Automaton was in motion,
+scrutinizing this machinery while the Automaton was in motion,
 
 
 
@@ -3132,181 +3132,181 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_08" data-title="Maelzel's Chess-Player (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
 
 
-      that is to say while the whole [[Machine|machine]] was moving on the castors,
+that is to say while the whole [[Machine|machine]] was moving on the castors,
 
-      it appeared to us that certain portions of the mechanism changed
+it appeared to us that certain portions of the mechanism changed
 
-      their shape and position in a degree too great to be accounted
+their shape and position in a degree too great to be accounted
 
-      for by the simple laws of perspective; and subsequent
+for by the simple laws of perspective; and subsequent
 
-      examinations convinced us that these undue alterations were
+examinations convinced us that these undue alterations were
 
-      attributable to mirrors in the interior of the trunk. The
+attributable to mirrors in the interior of the trunk. The
 
-      introduction of mirrors among the machinery could not have been
+introduction of mirrors among the machinery could not have been
 
-      intended to influence, in any degree, the machinery itself. Their
+intended to influence, in any degree, the machinery itself. Their
 
-      operation, whatever that operation should prove to be, must
+operation, whatever that operation should prove to be, must
 
-      necessarily have reference to the eye of the spectator. We at
+necessarily have reference to the eye of the spectator. We at
 
-      once concluded that these mirrors were so placed to multiply to
+once concluded that these mirrors were so placed to multiply to
 
-      the vision some few pieces of machinery within the trunk so as to
+the vision some few pieces of machinery within the trunk so as to
 
-      give it the appearance of being crowded with mechanism. Now the
+give it the appearance of being crowded with mechanism. Now the
 
-      direct inference from this is that the [[Machine|machine]] is not a pure
+direct inference from this is that the [[Machine|machine]] is not a pure
 
-      [[Machine|machine]]. For if it were, the inventor, so far from wishing its
+[[Machine|machine]]. For if it were, the inventor, so far from wishing its
 
-      mechanism to appear complex, and using [[Deception|deception]] for the purpose
+mechanism to appear complex, and using [[Deception|deception]] for the purpose
 
-      of giving it this appearance, would have been especially desirous
+of giving it this appearance, would have been especially desirous
 
-      of convincing those who witnessed his exhibition, of the
+of convincing those who witnessed his exhibition, of the
 
-      _simplicity _of the means by which results so wonderful were
+_simplicity _of the means by which results so wonderful were
 
-      brought about.
+brought about.
 
 
 
-      6. The external appearance, and, especially, the deportment of
+6. The external appearance, and, especially, the deportment of
 
-      the Turk, are, when we consider them as imitations of _life, _but
+the Turk, are, when we consider them as imitations of _life, _but
 
-      very indifferent imitations. The countenance evinces no
+very indifferent imitations. The countenance evinces no
 
-      ingenuity, and is surpassed, in its resemblance to the human
+ingenuity, and is surpassed, in its resemblance to the human
 
-      face, by the very commonest of wax-works. The eyes roll
+face, by the very commonest of wax-works. The eyes roll
 
-      unnaturally in the head, without any corresponding motions of the
+unnaturally in the head, without any corresponding motions of the
 
-      lids or brows. The arm, particularly, performs its operations in
+lids or brows. The arm, particularly, performs its operations in
 
-      an exceedingly stiff, awkward, jerking, and rectangular manner.
+an exceedingly stiff, awkward, jerking, and rectangular manner.
 
-      Now, all this is the result either of inability in Maelzel to do
+Now, all this is the result either of inability in Maelzel to do
 
-      better, or of intentional neglect—accidental neglect being out of
+better, or of intentional neglect—accidental neglect being out of
 
-      the question, when we consider that the whole [[Time|time]] of the
+the question, when we consider that the whole [[Time|time]] of the
 
-      ingenious proprietor is occupied in the improvement of his
+ingenious proprietor is occupied in the improvement of his
 
-      machines. Most assuredly we must not refer the unlife-like
+machines. Most assuredly we must not refer the unlife-like
 
-      appearances to inability—for all the rest of Maelzel’s automata
+appearances to inability—for all the rest of Maelzel’s automata
 
-      are evidence of his full ability to copy the motions and
+are evidence of his full ability to copy the motions and
 
-      peculiarities of life with the most wonderful exactitude. The
+peculiarities of life with the most wonderful exactitude. The
 
-      rope-dancers, for example, are inimitable. When the clown laughs,
+rope-dancers, for example, are inimitable. When the clown laughs,
 
-      his lips, his eyes, his eye-brows, and eyelids—indeed, all the
+his lips, his eyes, his eye-brows, and eyelids—indeed, all the
 
-      features of his countenance—are imbued with their appropriate
+features of his countenance—are imbued with their appropriate
 
-      expressions. In both him and his companion, every gesture is so
+expressions. In both him and his companion, every gesture is so
 
-      entirely easy, and free from the semblance of artificiality,
+entirely easy, and free from the semblance of artificiality,
 
-      that, were it not for the diminutiveness of their size, and the
+that, were it not for the diminutiveness of their size, and the
 
-      fact of their being passed from one spectator to another previous
+fact of their being passed from one spectator to another previous
 
-      to their exhibition on the rope, it would be difficult to
+to their exhibition on the rope, it would be difficult to
 
-      convince any assemblage of persons that these wooden automata
+convince any assemblage of persons that these wooden automata
 
-      were not living creatures. We cannot, therefore, [[Doubt|doubt]] Mr.
+were not living creatures. We cannot, therefore, [[Doubt|doubt]] Mr.
 
-      Maelzel’s ability, and we must necessarily suppose that he
+Maelzel’s ability, and we must necessarily suppose that he
 
-      intentionally suffered his Chess Player to remain the same
+intentionally suffered his Chess Player to remain the same
 
-      artificial and unnatural figure which Baron Kempelen (no [[Doubt|doubt]]
+artificial and unnatural figure which Baron Kempelen (no [[Doubt|doubt]]
 
-      also through design) originally made it. What this design was it
+also through design) originally made it. What this design was it
 
-      is not difficult to conceive. Were the Automaton life-like in its
+is not difficult to conceive. Were the Automaton life-like in its
 
-      motions, the spectator would be more apt to attribute its
+motions, the spectator would be more apt to attribute its
 
-      operations to their true cause, (that is, to human agency within)
+operations to their true cause, (that is, to human agency within)
 
-      than he is now, when the awkward and rectangular manœuvres convey
+than he is now, when the awkward and rectangular manœuvres convey
 
-      the idea of pure and unaided mechanism.
+the idea of pure and unaided mechanism.
 
 
 
-      7. When, a short [[Time|time]] previous to the commencement of the game,
+7. When, a short [[Time|time]] previous to the commencement of the game,
 
-      the Automaton is wound up by the exhibiter as usual, an ear in
+the Automaton is wound up by the exhibiter as usual, an ear in
 
-      any degree accustomed to the sounds produced in winding up a
+any degree accustomed to the sounds produced in winding up a
 
-      system of machinery, will not fail to discover, instantaneously,
+system of machinery, will not fail to discover, instantaneously,
 
-      that the axis turned by the key in the box of the Chess-Player,
+that the axis turned by the key in the box of the Chess-Player,
 
-      cannot possibly be connected with either a weight, a [[spring]], or
+cannot possibly be connected with either a weight, a [[spring]], or
 
-      any system of machinery whatever. The inference here is the same
+any system of machinery whatever. The inference here is the same
 
-      as in our last observation. The winding up is inessential to the
+as in our last observation. The winding up is inessential to the
 
-      operations of the Automaton, and is performed with the design of
+operations of the Automaton, and is performed with the design of
 
-      exciting in the spectators the false idea of mechanism.
+exciting in the spectators the false idea of mechanism.
 
 
 
-      8. When the question is demanded explicitly of Maelzel—“Is the
+8. When the question is demanded explicitly of Maelzel—“Is the
 
-      Automaton a pure [[Machine|machine]] or not?” his reply is invariably the
+Automaton a pure [[Machine|machine]] or not?” his reply is invariably the
 
-      same—“I will say nothing about it.” Now the notoriety of the
+same—“I will say nothing about it.” Now the notoriety of the
 
-      Automaton, and the great curiosity it has every where excited,
+Automaton, and the great curiosity it has every where excited,
 
-      are owing more especially to the prevalent opinion that it is a
+are owing more especially to the prevalent opinion that it is a
 
-      pure [[Machine|machine]], than to any other circumstance. Of course, then, it
+pure [[Machine|machine]], than to any other circumstance. Of course, then, it
 
-      is the interest of the proprietor to represent it as a pure
+is the interest of the proprietor to represent it as a pure
 
-      [[Machine|machine]]. And what more obvious, and more effectual method could
+[[Machine|machine]]. And what more obvious, and more effectual method could
 
-      there be of impressing the spectators with this desired idea,
+there be of impressing the spectators with this desired idea,
 
-      than a positive and explicit declaration to that effect? On the
+than a positive and explicit declaration to that effect? On the
 
-      other hand, what more obvious and effectual method could there be
+other hand, what more obvious and effectual method could there be
 
-      of exciting a disbelief in the Automaton’s being a pure [[Machine|machine]],
+of exciting a disbelief in the Automaton’s being a pure [[Machine|machine]],
 
-      than by withholding such explicit declaration? For, people will
+than by withholding such explicit declaration? For, people will
 
-      naturally reason thus,—It is Maelzel’s interest to represent this
+naturally reason thus,—It is Maelzel’s interest to represent this
 
-      thing a pure [[Machine|machine]]—he refuses to do so, directly, in words,
+thing a pure [[Machine|machine]]—he refuses to do so, directly, in words,
 
-      although he does not scruple, and is evidently anxious to do so,
+although he does not scruple, and is evidently anxious to do so,
 
-      indirectly by actions—were it actually what he wishes to
+indirectly by actions—were it actually what he wishes to
 
-      represent it by actions, he would gladly avail himself of the
+represent it by actions, he would gladly avail himself of the
 
-      more direct testimony of words—the inference is, that a
+more direct testimony of words—the inference is, that a
 
-      consciousness of its not being a pure [[Machine|machine]], is the reason of
+consciousness of its not being a pure [[Machine|machine]], is the reason of
 
 
 
@@ -3314,191 +3314,191 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_09" data-title="Maelzel's Chess-Player (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
 
 
-      his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
+his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
 
-      words may.
+words may.
 
 
 
-      9. When, in exhibiting the interior of the box, Maelzel has
+9. When, in exhibiting the interior of the box, Maelzel has
 
-      thrown open the door No. I, and also the door immediately behind
+thrown open the door No. I, and also the door immediately behind
 
-      it, he holds a lighted candle at the back door (as mentioned
+it, he holds a lighted candle at the back door (as mentioned
 
-      above) and moves the entire [[Machine|machine]] to and fro with a view of
+above) and moves the entire [[Machine|machine]] to and fro with a view of
 
-      convincing the company that the cupboard No. 1 is entirely filled
+convincing the company that the cupboard No. 1 is entirely filled
 
-      with machinery. When the [[Machine|machine]] is thus moved about, it will be
+with machinery. When the [[Machine|machine]] is thus moved about, it will be
 
-      apparent to any careful observer, that whereas that portion of
+apparent to any careful observer, that whereas that portion of
 
-      the machinery near the front door No. 1, is perfectly steady and
+the machinery near the front door No. 1, is perfectly steady and
 
-      unwavering, the portion farther within fluctuates, in a very
+unwavering, the portion farther within fluctuates, in a very
 
-      slight degree, with the movements of the [[Machine|machine]]. This
+slight degree, with the movements of the [[Machine|machine]]. This
 
-      circumstance first aroused in us the suspicion that the more
+circumstance first aroused in us the suspicion that the more
 
-      remote portion of the machinery was so arranged as to be easily
+remote portion of the machinery was so arranged as to be easily
 
-      slipped, _en masse, _from its position when occasion should
+slipped, _en masse, _from its position when occasion should
 
-      require it. This occasion we have already stated to occur when
+require it. This occasion we have already stated to occur when
 
-      the man concealed within brings his [[Body|body]] into an erect position
+the man concealed within brings his [[Body|body]] into an erect position
 
-      upon the closing of the back door.
+upon the closing of the back door.
 
 
 
-      10. Sir David Brewster states the figure of the Turk to be of the
+10. Sir David Brewster states the figure of the Turk to be of the
 
-      size of life—but in fact it is far above the ordinary size.
+size of life—but in fact it is far above the ordinary size.
 
-      Nothing is more easy than to err in our notions of magnitude. The
+Nothing is more easy than to err in our notions of magnitude. The
 
-      [[Body|body]] of the Automaton is generally insulated, and, having no
+[[Body|body]] of the Automaton is generally insulated, and, having no
 
-      means of immediately comparing it with any human form, we suffer
+means of immediately comparing it with any human form, we suffer
 
-      ourselves to consider it as of ordinary dimensions. This mistake
+ourselves to consider it as of ordinary dimensions. This mistake
 
-      may, however, be corrected by observing the Chess-Player when, as
+may, however, be corrected by observing the Chess-Player when, as
 
-      is sometimes the case, the exhibiter approaches it. Mr. Maelzel,
+is sometimes the case, the exhibiter approaches it. Mr. Maelzel,
 
-      to be sure, is not very tall, but upon drawing near the [[Machine|machine]],
+to be sure, is not very tall, but upon drawing near the [[Machine|machine]],
 
-      his head will be found at least eighteen inches below the head of
+his head will be found at least eighteen inches below the head of
 
-      the Turk, although the latter, it will be remembered, is in a
+the Turk, although the latter, it will be remembered, is in a
 
-      sitting position.
+sitting position.
 
 
 
-      11. The box behind which the Automaton is placed, is precisely
+11. The box behind which the Automaton is placed, is precisely
 
-      three feet six inches long, two feet four inches deep, and two
+three feet six inches long, two feet four inches deep, and two
 
-      feet six inches high. These dimensions are fully sufficient for
+feet six inches high. These dimensions are fully sufficient for
 
-      the accommodation of a man very much above the common size—and
+the accommodation of a man very much above the common size—and
 
-      the main compartment [[Alone|alone]] is capable of holding any ordinary man
+the main compartment [[Alone|alone]] is capable of holding any ordinary man
 
-      in the position we have mentioned as assumed by the person
+in the position we have mentioned as assumed by the person
 
-      concealed. As these are facts, which any one who doubts them may
+concealed. As these are facts, which any one who doubts them may
 
-      prove by actual calculation, we deem it unnecessary to dwell upon
+prove by actual calculation, we deem it unnecessary to dwell upon
 
-      them. We will only suggest that, although the top of the box is
+them. We will only suggest that, although the top of the box is
 
-      apparently a board of about three inches in thickness, the
+apparently a board of about three inches in thickness, the
 
-      spectator may satisfy himself by stooping and looking up at it
+spectator may satisfy himself by stooping and looking up at it
 
-      when the main compartment is open, that it is in reality very
+when the main compartment is open, that it is in reality very
 
-      thin. The height of the drawer also will be misconceived by those
+thin. The height of the drawer also will be misconceived by those
 
-      who examine it in a cursory manner. There is a space of about
+who examine it in a cursory manner. There is a space of about
 
-      three inches between the top of the drawer as seen from the
+three inches between the top of the drawer as seen from the
 
-      exterior, and the [[Bottom|bottom]] of the cupboard—a space which must be
+exterior, and the [[Bottom|bottom]] of the cupboard—a space which must be
 
-      included in the height of the drawer. These contrivances to make
+included in the height of the drawer. These contrivances to make
 
-      the room within the box appear less than it actually is, are
+the room within the box appear less than it actually is, are
 
-      referrible to a design on the part of the inventor, to impress
+referrible to a design on the part of the inventor, to impress
 
-      the company again with a false idea, viz. that no human being can
+the company again with a false idea, viz. that no human being can
 
-      be accommodated within the box.
+be accommodated within the box.
 
 
 
-      12. The interior of the main compartment is lined throughout with
+12. The interior of the main compartment is lined throughout with
 
-      _cloth. _This cloth we suppose to have a twofold object. A
+_cloth. _This cloth we suppose to have a twofold object. A
 
-      portion of _it _may form, when tightly stretched, the only
+portion of _it _may form, when tightly stretched, the only
 
-      partitions which there is any necessity for removing during the
+partitions which there is any necessity for removing during the
 
-      changes of the man’s position, viz: the partition between the
+changes of the man’s position, viz: the partition between the
 
-      rear of the main compartment and the rear of the cupboard No. 1,
+rear of the main compartment and the rear of the cupboard No. 1,
 
-      and the partition between the main compartment, and the space
+and the partition between the main compartment, and the space
 
-      behind the drawer when open. If we imagine this to be the case,
+behind the drawer when open. If we imagine this to be the case,
 
-      the difficulty of shifting the partitions vanishes at once, if
+the difficulty of shifting the partitions vanishes at once, if
 
-      indeed any such difficulty could be supposed under any
+indeed any such difficulty could be supposed under any
 
-      circumstances to exist. The second object of the cloth is to
+circumstances to exist. The second object of the cloth is to
 
-      deaden and render indistinct all sounds occasioned by the
+deaden and render indistinct all sounds occasioned by the
 
-      movements of the person within.
+movements of the person within.
 
 
 
-      13. The antagonist (as we have before observed) is not suffered
+13. The antagonist (as we have before observed) is not suffered
 
-      to play at the board of the Automaton, but is seated at some
+to play at the board of the Automaton, but is seated at some
 
-      distance from the [[Machine|machine]]. The reason which, most probably, would
+distance from the [[Machine|machine]]. The reason which, most probably, would
 
-      be assigned for this circumstance, if the question were demanded,
+be assigned for this circumstance, if the question were demanded,
 
-      is, that were the antagonist otherwise situated, his person would
+is, that were the antagonist otherwise situated, his person would
 
-      intervene between the [[Machine|machine]] and the spectators, and preclude
+intervene between the [[Machine|machine]] and the spectators, and preclude
 
-      the latter from a distinct view. But this difficulty might be
+the latter from a distinct view. But this difficulty might be
 
-      easily obviated, either by elevating the seats of the company, or
+easily obviated, either by elevating the seats of the company, or
 
-      by turning the end of the box towards them during the game. The
+by turning the end of the box towards them during the game. The
 
-      true cause of the restriction is, perhaps, very different. Were
+true cause of the restriction is, perhaps, very different. Were
 
-      the antagonist seated in contact with the box, the secret would
+the antagonist seated in contact with the box, the secret would
 
-      be liable to discovery, by his detecting, with the aid of a quick
+be liable to discovery, by his detecting, with the aid of a quick
 
-      car, the breathings of the man concealed.
+car, the breathings of the man concealed.
 
 
 
-      14. Although M. Maelzel, in disclosing the interior of the
+14. Although M. Maelzel, in disclosing the interior of the
 
-      [[Machine|machine]], sometimes slightly deviates from the _routine _which we
+[[Machine|machine]], sometimes slightly deviates from the _routine _which we
 
-      have pointed out, yet _reeler in _any instance does he _so
+have pointed out, yet _reeler in _any instance does he _so
 
-      _deviate from it as to interfere with our solution. For example,
+_deviate from it as to interfere with our solution. For example,
 
-      he has been known to open, first of all, the drawer—but he never
+he has been known to open, first of all, the drawer—but he never
 
-      opens the main compartment without first closing the back door of
+opens the main compartment without first closing the back door of
 
-      cupboard No. 1—he never opens the main compartment without first
+cupboard No. 1—he never opens the main compartment without first
 
-      pulling out the drawer—he never shuts the drawer without first
+pulling out the drawer—he never shuts the drawer without first
 
-      shutting the main compartment—he never opens the back door of
+shutting the main compartment—he never opens the back door of
 
-      cupboard No. 1 while the main compartment is open—and the game of
+cupboard No. 1 while the main compartment is open—and the game of
 
 
 
@@ -3506,222 +3506,222 @@ Perhaps no exhibition of the kind has ever elicited so general
 <span class="atom-split" data-atom="part--part_10" data-title="Maelzel's Chess-Player (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
 
 
-      chess is never commenced until the whole [[Machine|machine]] is closed. Now
+chess is never commenced until the whole [[Machine|machine]] is closed. Now
 
-      if it were observed that _never, in any single instance, _did M.
+if it were observed that _never, in any single instance, _did M.
 
-      Maelzel differ from the routine we have pointed out as necessary
+Maelzel differ from the routine we have pointed out as necessary
 
-      to our solution, it would be one of the strongest possible
+to our solution, it would be one of the strongest possible
 
-      arguments in corroboration of it—but the argument becomes
+arguments in corroboration of it—but the argument becomes
 
-      infinitely strengthened if we duly consider the circumstance that
+infinitely strengthened if we duly consider the circumstance that
 
-      he _does occasionally _deviate from the routine but never does
+he _does occasionally _deviate from the routine but never does
 
-      _so _deviate as to falsify the solution.
+_so _deviate as to falsify the solution.
 
 
 
-      15. There are six candles on the board of the Automaton during
+15. There are six candles on the board of the Automaton during
 
-      exhibition. The question naturally arises—“Why are so many
+exhibition. The question naturally arises—“Why are so many
 
-      employed, when a single candle, or, at farthest, two, would have
+employed, when a single candle, or, at farthest, two, would have
 
-      been amply sufficient to afford the spectators a clear view of
+been amply sufficient to afford the spectators a clear view of
 
-      the board, in a room otherwise so [[Well|well]] lit up as the exhibition
+the board, in a room otherwise so [[Well|well]] lit up as the exhibition
 
-      room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
+room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
 
-      [[Machine|machine]], _there can be no necessity for so much light, or indeed
+[[Machine|machine]], _there can be no necessity for so much light, or indeed
 
-      any light at all, to enable _it _to perform its operations—and
+any light at all, to enable _it _to perform its operations—and
 
-      when, especially, only a single candle is placed upon the table
+when, especially, only a single candle is placed upon the table
 
-      of the antagonist?” The first and most obvious inference is, that
+of the antagonist?” The first and most obvious inference is, that
 
-      so strong a light is requisite to enable the man within to see
+so strong a light is requisite to enable the man within to see
 
-      through the transparent material (probably fine gauze) of which
+through the transparent material (probably fine gauze) of which
 
-      the breast of the Turk is composed. But when we consider the
+the breast of the Turk is composed. But when we consider the
 
-      arrangement of the candles, another reason immediately presents
+arrangement of the candles, another reason immediately presents
 
-      itself. There are six lights (as we have said before) in all.
+itself. There are six lights (as we have said before) in all.
 
-      Three of these are on each side of the figure. Those most remote
+Three of these are on each side of the figure. Those most remote
 
-      from the spectators are the longest—those in the middle are about
+from the spectators are the longest—those in the middle are about
 
-      two inches shorter—and those nearest the company about two inches
+two inches shorter—and those nearest the company about two inches
 
-      shorter still—and the candles on one side differ in height from
+shorter still—and the candles on one side differ in height from
 
-      the candles respectively opposite on the other, by a ratio
+the candles respectively opposite on the other, by a ratio
 
-      different from two inches—that is to say, the longest candle on
+different from two inches—that is to say, the longest candle on
 
-      one side is about three inches shorter than the longest candle on
+one side is about three inches shorter than the longest candle on
 
-      the other, and so on. Thus it will be seen that no two of the
+the other, and so on. Thus it will be seen that no two of the
 
-      candles are of the same height, and thus also the difficulty of
+candles are of the same height, and thus also the difficulty of
 
-      ascertaining the _material _of the breast of the figure (against
+ascertaining the _material _of the breast of the figure (against
 
-      which the light is especially directed) is greatly augmented by
+which the light is especially directed) is greatly augmented by
 
-      the dazzling effect of the complicated crossings of the
+the dazzling effect of the complicated crossings of the
 
-      rays—crossings which are brought about by placing the centres of
+rays—crossings which are brought about by placing the centres of
 
-      radiation all upon different levels.
+radiation all upon different levels.
 
 
 
-      16. While the Chess-Player was in possession of Baron Kempelen,
+16. While the Chess-Player was in possession of Baron Kempelen,
 
-      it was more than once observed, first, that an Italian in the
+it was more than once observed, first, that an Italian in the
 
-      suite of the Baron was never visible during the playing of a game
+suite of the Baron was never visible during the playing of a game
 
-      at chess by the Turk, and, secondly, that the Italian being taken
+at chess by the Turk, and, secondly, that the Italian being taken
 
-      seriously ill, the exhibition was suspended until his recovery.
+seriously ill, the exhibition was suspended until his recovery.
 
-      This Italian professed a _total _ignorance of the game of chess,
+This Italian professed a _total _ignorance of the game of chess,
 
-      although all others of the suite played [[Well|well]]. Similar
+although all others of the suite played [[Well|well]]. Similar
 
-      observations have been made since the Automaton has been
+observations have been made since the Automaton has been
 
-      purchased by Maelzel. There is a man, _Schlumberoer, _who attends
+purchased by Maelzel. There is a man, _Schlumberoer, _who attends
 
-      him wherever he goes, but who has no ostensible occupation other
+him wherever he goes, but who has no ostensible occupation other
 
-      than that of assisting in the packing and unpacking of the
+than that of assisting in the packing and unpacking of the
 
-      automata. This man is about the medium size, and has a remarkable
+automata. This man is about the medium size, and has a remarkable
 
-      stoop in the shoulders. Whether he professes to play chess or
+stoop in the shoulders. Whether he professes to play chess or
 
-      not, we are not informed. It is quite certain, however, that he
+not, we are not informed. It is quite certain, however, that he
 
-      is never to be seen during the exhibition of the Chess-Player,
+is never to be seen during the exhibition of the Chess-Player,
 
-      although frequently visible just before and just after the
+although frequently visible just before and just after the
 
-      exhibition. Moreover, some years ago Maelzel visited Richmond
+exhibition. Moreover, some years ago Maelzel visited Richmond
 
-      with his automata, and exhibited them, we believe, in the [[house]]
+with his automata, and exhibited them, we believe, in the [[house]]
 
-      now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
+now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
 
-      was suddenly taken ill, and during his illness there was no
+was suddenly taken ill, and during his illness there was no
 
-      exhibition of the Chess-Player. These facts are [[Well|well]] known to
+exhibition of the Chess-Player. These facts are [[Well|well]] known to
 
-      many of our citizens. The reason assigned for the suspension of
+many of our citizens. The reason assigned for the suspension of
 
-      the Chess-Player’s performances, was _not _the illness of
+the Chess-Player’s performances, was _not _the illness of
 
-      _Schlumberger. _The inferences from all this we leave, without
+_Schlumberger. _The inferences from all this we leave, without
 
-      farther comment, to the reader.
+farther comment, to the reader.
 
 
 
-      17. The Turk plays with his _left_ arm. A circumstance so
+17. The Turk plays with his _left_ arm. A circumstance so
 
-      remarkable cannot be accidental. Brewster takes no notice of it
+remarkable cannot be accidental. Brewster takes no notice of it
 
-      whatever beyond a mere statement, we believe, that such is the
+whatever beyond a mere statement, we believe, that such is the
 
-      fact. The early writers of treatises on the Automaton, seem not
+fact. The early writers of treatises on the Automaton, seem not
 
-      to have observed the matter at all, and have no reference to it.
+to have observed the matter at all, and have no reference to it.
 
-      The author of the pamphlet alluded to by Brewster, mentions it,
+The author of the pamphlet alluded to by Brewster, mentions it,
 
-      but acknowledges his inability to account for it. Yet it is
+but acknowledges his inability to account for it. Yet it is
 
-      obviously from such prominent discrepancies or incongruities as
+obviously from such prominent discrepancies or incongruities as
 
-      this that deductions are to be made (if made at all) which shall
+this that deductions are to be made (if made at all) which shall
 
-      lead us to the [[Truth|truth]].
+lead us to the [[Truth|truth]].
 
 
 
-      The circumstance of the Automaton’s playing with his left hand
+The circumstance of the Automaton’s playing with his left hand
 
-      cannot have connexion with the operations of the [[Machine|machine]],
+cannot have connexion with the operations of the [[Machine|machine]],
 
-      considered merely as such. Any mechanical arrangement which would
+considered merely as such. Any mechanical arrangement which would
 
-      cause the figure to move, in any given manner, the left
+cause the figure to move, in any given manner, the left
 
-      arm—could, if reversed, cause it to move, in the same manner, the
+arm—could, if reversed, cause it to move, in the same manner, the
 
-      right. But these principles cannot be extended to the human
+right. But these principles cannot be extended to the human
 
-      organization, wherein there is a marked and radical difference in
+organization, wherein there is a marked and radical difference in
 
-      the construction, and, at all events, in the powers, of the right
+the construction, and, at all events, in the powers, of the right
 
-      and left arms. Reflecting upon this latter fact, we naturally
+and left arms. Reflecting upon this latter fact, we naturally
 
-      refer the incongruity noticeable in the Chess-Player to this
+refer the incongruity noticeable in the Chess-Player to this
 
-      peculiarity in the human organization. If so, we must imagine
+peculiarity in the human organization. If so, we must imagine
 
-      some _reversion—_for the Chess-Player plays precisely as a man
+some _reversion—_for the Chess-Player plays precisely as a man
 
-      _would not. _These ideas, once entertained, are sufficient of
+_would not. _These ideas, once entertained, are sufficient of
 
-      themselves, to suggest the notion of a man in the interior. A few
+themselves, to suggest the notion of a man in the interior. A few
 
-      more imperceptible steps lead us, finally, to the result. The
+more imperceptible steps lead us, finally, to the result. The
 
-      Automaton plays with his left arm, because under no other
+Automaton plays with his left arm, because under no other
 
-      circumstances could the man within play with his right—a
+circumstances could the man within play with his right—a
 
-      _desideratum _of course. Let us, for example, imagine the
+_desideratum _of course. Let us, for example, imagine the
 
-      Automaton to play with his right arm. To reach the machinery
+Automaton to play with his right arm. To reach the machinery
 
-      which moves the arm, and which we have before explained to lie
+which moves the arm, and which we have before explained to lie
 
-      just beneath the shoulder, it would be necessary for the man
+just beneath the shoulder, it would be necessary for the man
 
-      within either to use his right arm in an exceedingly painful and
+within either to use his right arm in an exceedingly painful and
 
-      awkward position, (viz. brought up close to his [[Body|body]] and tightly
+awkward position, (viz. brought up close to his [[Body|body]] and tightly
 
-      compressed between his [[Body|body]] and the side of the Automaton,) or
+compressed between his [[Body|body]] and the side of the Automaton,) or
 
-      else to use his left arm brought across his breast. In neither
+else to use his left arm brought across his breast. In neither
 
-      case could he act with the requisite ease or precision. On the
+case could he act with the requisite ease or precision. On the
 
-      contrary, the Automaton playing, as it actually does, with the
+contrary, the Automaton playing, as it actually does, with the
 
-      left arm, all difficulties vanish. The right arm of the man
+left arm, all difficulties vanish. The right arm of the man
 
-      within is brought across his breast, and his right fingers act,
+within is brought across his breast, and his right fingers act,
 
-      without any constraint, upon the machinery in the shoulder of the
+without any constraint, upon the machinery in the shoulder of the
 
-      figure.
+figure.
 
 
 
-      We do not believe that any reasonable objections can be urged
+We do not believe that any reasonable objections can be urged
 
-      against this solution of the Automaton Chess-Player.
+against this solution of the Automaton Chess-Player.

@@ -330,7 +330,7 @@ and naked narrative as this.
 
 IN DIFESA DEI PENNY DREADFUL
 
-          G.K. Chesterton
+G.K. Chesterton
 
 (Da "The Defendant", pubblicato in "The Wayfarer's Library" da J. M. Dent and Sons Ltd, [[London|Londra]], 1901)
 

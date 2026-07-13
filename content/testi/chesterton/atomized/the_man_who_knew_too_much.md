@@ -9804,7 +9804,7 @@ who knew too much knew what is worth knowing.
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_01" data-title="The Man Who Knew Too Much — The Face in the Target (part 1)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_01" data-title="The Man Who Knew Too Much — The Face in the Target (part 1)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 I - The Face in the Target
@@ -9990,7 +9990,7 @@ He stopped, and before the next word came something had happened
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_02" data-title="The Man Who Knew Too Much — The Face in the Target (part 2)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_02" data-title="The Man Who Knew Too Much — The Face in the Target (part 2)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 almost too quickly and completely to be realized. From behind the
@@ -10170,7 +10170,7 @@ it could vanish.
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_03" data-title="The Man Who Knew Too Much — The Face in the Target (part 3)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_03" data-title="The Man Who Knew Too Much — The Face in the Target (part 3)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 the social reformer? I mean the man who's fighting for the new
@@ -10352,7 +10352,7 @@ black, restless eyes. Taciturn as he was, the investigator succeeded
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_04" data-title="The Man Who Knew Too Much — The Face in the Target (part 4)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_04" data-title="The Man Who Knew Too Much — The Face in the Target (part 4)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 at last in extracting a scrap of information from him, by dint of
@@ -10532,7 +10532,7 @@ after him with the same idle perseverance, and found him staring
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_05" data-title="The Man Who Knew Too Much — The Face in the Target (part 5)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_05" data-title="The Man Who Knew Too Much — The Face in the Target (part 5)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 through a gap in giant weeds and thorns at the flat face of a
@@ -10710,7 +10710,7 @@ Mr. Halkett and also (by way of a parenthesis) to his host, Mr.
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_06" data-title="The Man Who Knew Too Much — The Face in the Target (part 6)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_06" data-title="The Man Who Knew Too Much — The Face in the Target (part 6)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 Jenkins, a commonplace little man in loud tweeds, whom everybody
@@ -10894,7 +10894,7 @@ cousin's account of his bad shooting. He'd shot a cockade off a hat
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_07" data-title="The Man Who Knew Too Much — The Face in the Target (part 7)" data-chapter="Story 01 The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_07" data-title="The Man Who Knew Too Much — The Face in the Target (part 7)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
 
 
 and a weathercock off a building. Now, in fact, a man must shoot
@@ -11092,7 +11092,7 @@ and then he added:
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_01" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 1)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_01" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 1)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 II - The Vanishing Prince
@@ -11269,7 +11269,7 @@ moment the pursuers stepped on to the balcony it broke under them,
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_02" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 2)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_02" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 2)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 and they dropped pell-mell into the eddying waters, while [[Michael]],
@@ -11443,7 +11443,7 @@ primitive Irish chieftains who fell fighting against the sea.
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_03" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 3)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_03" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 3)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 Walter Carey. "I suppose they were your witnesses. But why do they
@@ -11616,7 +11616,7 @@ Something in its plain and primitive shape vaguely suggested the
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_04" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 4)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_04" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 4)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 even the colors were hardly created, when there was only blank
@@ -11794,7 +11794,7 @@ like a large shelf. It was reached only by a ladder, and it seemed
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_05" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 5)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_05" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 5)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 to be as bare as the bare walls. Wilson completed his survey of the
@@ -11972,7 +11972,7 @@ do you mean?" he cried. "How can you possibly see a man?"
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_06" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 6)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_06" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 6)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 "I see him coming across the moor. He's making a bee line across the
@@ -12153,7 +12153,7 @@ acrobat and rent the revolver out of the [[Detective|detective]]'s hand.
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_07" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 7)" data-chapter="Story 02 The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_07" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 7)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
 
 
 of Irish [[Tragedy|tragedy]]—you who come to kill me, wading through the [[Blood|blood]]
@@ -12351,7 +12351,7 @@ that he knew too much.
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_01" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)" data-chapter="Story 03 The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_01" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
 
 
 III - The [[Soul]] of the Schoolboy
@@ -12531,7 +12531,7 @@ supposed to belong. Other causes combined to concentrate official
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_02" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 2)" data-chapter="Story 03 The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_02" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 2)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
 
 
 vigilance upon it; there had been a scare about spies carrying
@@ -12712,7 +12712,7 @@ Unluckily at this point Summers Minor, whose attention had somewhat
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_03" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)" data-chapter="Story 03 The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_03" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
 
 
 strayed from the religious wars of the ninth century, caught sight
@@ -12890,7 +12890,7 @@ Uncle; I am all right. Meet you at the hotel later on," and then the
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_04" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 4)" data-chapter="Story 03 The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_04" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 4)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
 
 
 signature.
@@ -13072,7 +13072,7 @@ vulgar sense. The police always seem to think that silver is stolen
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_05" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 5)" data-chapter="Story 03 The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_05" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 5)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
 
 
 for the sake of silver, but a thing like that might [[Well|well]] be stolen
@@ -13260,7 +13260,7 @@ that fairy [[Ship|ship]].
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_01" data-title="The Man Who Knew Too Much — The Bottomless Well (part 1)" data-chapter="Story 04 The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_01" data-title="The Man Who Knew Too Much — The Bottomless Well (part 1)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
 
 
 IV - The Bottomless [[Well]]
@@ -13443,7 +13443,7 @@ rather stiffly.
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_02" data-title="The Man Who Knew Too Much — The Bottomless Well (part 2)" data-chapter="Story 04 The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_02" data-title="The Man Who Knew Too Much — The Bottomless Well (part 2)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
 
 
 point of view. Lord [[Hastings]] himself is an Arab legend. That is
@@ -13625,7 +13625,7 @@ of the rut of the most rotten ideal."
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_03" data-title="The Man Who Knew Too Much — The Bottomless Well (part 3)" data-chapter="Story 04 The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_03" data-title="The Man Who Knew Too Much — The Bottomless Well (part 3)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
 
 
 direction," answered Fisher; "a pretty endless sort of direction, a
@@ -13797,7 +13797,7 @@ in front of the bottomless [[Well|well]], and a few yards from it, in a
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_04" data-title="The Man Who Knew Too Much — The Bottomless Well (part 4)" data-chapter="Story 04 The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_04" data-title="The Man Who Knew Too Much — The Bottomless Well (part 4)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
 
 
 moonlight almost as broad as daylight, they saw what they had come
@@ -13976,7 +13976,7 @@ you the woman's part of the story. But how do you know about the
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_05" data-title="The Man Who Knew Too Much — The Bottomless Well (part 5)" data-chapter="Story 04 The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_05" data-title="The Man Who Knew Too Much — The Bottomless Well (part 5)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
 
 
 letter?"
@@ -14147,7 +14147,7 @@ like that would ruin us here. Had you any guess of this at the
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_06" data-title="The Man Who Knew Too Much — The Bottomless Well (part 6)" data-chapter="Story 04 The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_06" data-title="The Man Who Knew Too Much — The Bottomless Well (part 6)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
 
 
 start?"
@@ -14313,7 +14313,7 @@ strolled away toward the bottomless [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_01" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 1)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_01" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 1)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 V - The Fad of the Fisherman
@@ -14499,7 +14499,7 @@ one of the smaller seats of Sir Isaac Hook, the master of much
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_02" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 2)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_02" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 2)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 shipping and many newspapers. He entered by the gate giving on the
@@ -14672,7 +14672,7 @@ background of the stream beyond. The fisherman seemed to be seated
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_03" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 3)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_03" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 3)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 against the stump of a tree and facing toward the other bank, so
@@ -14848,7 +14848,7 @@ indifference, and they helped themselves to breakfast from the
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_04" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 4)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_04" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 4)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 sideboard at intervals during the hours verging upon lunch. So that
@@ -15030,7 +15030,7 @@ quite still, and for some seconds he looked like a tailor's dummy
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_05" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 5)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_05" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 5)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 standing and staring outside some antiquated shop. Then March heard
@@ -15207,7 +15207,7 @@ The duke continued to stare, but he seemed unable to speak.
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_06" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 6)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_06" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 6)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 "You see, it's rather a curious situation. If you have a motive for
@@ -15389,7 +15389,7 @@ of his escape."
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_07" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 7)" data-chapter="Story 05 The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_07" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 7)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
 
 
 be exactly consumed with Corsican [[Revenge|revenge]] because somebody has
@@ -15621,7 +15621,7 @@ lenza e scappare."
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_01" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 1)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_01" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 1)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 VI - The Hole in the Wall
@@ -15801,7 +15801,7 @@ the suburban drawing-rooms with the Celtic twilight. Whereas anyone
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_02" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 2)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_02" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 2)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 acquainted with the facts knows that 'Hollinwall' simply means 'the
@@ -15982,7 +15982,7 @@ The old wall running round the park kept that inclosure itself still
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_03" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 3)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_03" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 3)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 entirely rural and romantic, and one could easily imagine that the
@@ -16165,7 +16165,7 @@ conscious of a noise audible in the frozen [[Silence|silence]] of the [[Night|ni
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_04" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 4)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_04" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 4)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 was not a particularly loud noise, but it seemed to consist of a
@@ -16340,7 +16340,7 @@ wouldn't have said much at the moment, though possibly a good deal
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_05" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 5)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_05" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 5)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 afterward. We should have found him stamping and damning up and down
@@ -16517,7 +16517,7 @@ like a bloodthirsty maniac for no reason in the world. And because
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_06" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 6)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_06" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 6)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 he could have hit my brother and didn't, you deduce that he did.
@@ -16699,7 +16699,7 @@ somehow they knew subconsciously that the whole tale had taken a new
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_07" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 7)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_07" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 7)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 and terrible turn, when they saw the prince stand in the gap of the
@@ -16881,7 +16881,7 @@ the wrinkled brow and patient face of Horne Fisher, still dressed as
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_08" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 8)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_08" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 8)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 a hermit and apparently practicing something of the [[Solitude|solitude]] of a
@@ -17061,7 +17061,7 @@ deliberately, with the kitchen chopper, at that special place; and I
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_09" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 9)" data-chapter="Story 06 The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_09" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 9)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
 
 
 myself heard the hammering and did not understand it. The place had
@@ -17253,7 +17253,7 @@ restasse sul mio cranio calvo."
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_01" data-title="The Man Who Knew Too Much — The Temple of Silence (part 1)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_01" data-title="The Man Who Knew Too Much — The Temple of Silence (part 1)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 VII - The Temple of [[Silence]]
@@ -17435,7 +17435,7 @@ leaving the rest to their coffee and cigars. This had been a figure
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_02" data-title="The Man Who Knew Too Much — The Temple of Silence (part 2)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_02" data-title="The Man Who Knew Too Much — The Temple of Silence (part 2)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 of some interest—a young Cambridge man named Eric Hughes who was
@@ -17610,7 +17610,7 @@ means, and, of course, he's right. He's always right."
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_03" data-title="The Man Who Knew Too Much — The Temple of Silence (part 3)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_03" data-title="The Man Who Knew Too Much — The Temple of Silence (part 3)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 smile.
@@ -17796,7 +17796,7 @@ his pursuer with a stare.
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_04" data-title="The Man Who Knew Too Much — The Temple of Silence (part 4)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_04" data-title="The Man Who Knew Too Much — The Temple of Silence (part 4)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 The agent stared still more, but assented civilly, and led the other
@@ -17973,7 +17973,7 @@ a short phrase of thanks and farewell, and went out into the street,
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_05" data-title="The Man Who Knew Too Much — The Temple of Silence (part 5)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_05" data-title="The Man Who Knew Too Much — The Temple of Silence (part 5)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 still very thoughtful.
@@ -18153,7 +18153,7 @@ aware that people of your sort take me for a thief, and I suppose
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_06" data-title="The Man Who Knew Too Much — The Temple of Silence (part 6)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_06" data-title="The Man Who Knew Too Much — The Temple of Silence (part 6)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 you will try to land me in jail."
@@ -18337,7 +18337,7 @@ that his name was Franz Werner.
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_07" data-title="The Man Who Knew Too Much — The Temple of Silence (part 7)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_07" data-title="The Man Who Knew Too Much — The Temple of Silence (part 7)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 occasion, and I shall remain standing. Possibly you know that I am
@@ -18514,7 +18514,7 @@ struggling, toward the doorway. Even in the bewilderment of the
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_08" data-title="The Man Who Knew Too Much — The Temple of Silence (part 8)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_08" data-title="The Man Who Knew Too Much — The Temple of Silence (part 8)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 battle he was conscious that the door was standing open. Somebody
@@ -18692,7 +18692,7 @@ might happen in a moment.
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_09" data-title="The Man Who Knew Too Much — The Temple of Silence (part 9)" data-chapter="Story 07 The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_09" data-title="The Man Who Knew Too Much — The Temple of Silence (part 9)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
 
 
 may hold a candle to show me your infernal face."
@@ -18840,7 +18840,7 @@ across the vast green park to the gray horizon.
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_01" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 1)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_01" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 1)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 VIII - The Vengeance of the Statue
@@ -19023,7 +19023,7 @@ sir. I am enjoying an emotion that is entirely new to me; a happy
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_02" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 2)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_02" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 2)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 sensation I never remember having had before."
@@ -19200,7 +19200,7 @@ to a [[Road|road]] along the ridge above; and a zigzag path scaled the slope
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_03" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 3)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_03" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 3)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 in sharp angles, turning to and fro amid evergreens so somber that
@@ -19382,7 +19382,7 @@ of ours. It's been a bit of a shock to me, I can tell you; though I
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_04" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 4)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_04" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 4)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 suppose it's illogical. After all, I was full of admiration at
@@ -19560,7 +19560,7 @@ fashion, and look down on the wreck he had made. But the wreck he
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_05" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 5)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_05" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 5)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 had made here was not only a wreck of stone.
@@ -19734,7 +19734,7 @@ their day's [[Journey|journey]] consisted in coasting eastward amid the
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_06" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 6)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_06" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 6)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 unconversational noise of those uncomfortable engines. But when they
@@ -19905,7 +19905,7 @@ deadly wound, everything else went from me; I dropped my [[Sword|sword]] and
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_07" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 7)" data-chapter="Story 08 The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_07" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 7)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
 
 
 ran as if to lift him up. As I bent toward him something happened

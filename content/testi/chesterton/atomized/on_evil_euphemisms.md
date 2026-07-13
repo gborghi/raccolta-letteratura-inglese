@@ -121,8 +121,8 @@ private enterprises in the interests of private persons.  It means
 paying compliments in public; but not offering criticisms in public.
 We should all be very much surprised if we walked out of the front
 door one morning and saw a hoarding on one side of the [[Road|road]] saying:
-`Use Miggle's Milk; It Is All Cream,' and a hoarding on the other side
-of the road inscribed:  `Don't Use Miggle's Milk; It's Nearly All [[Water]].'
+‘Use Miggle's Milk; It Is All Cream,' and a hoarding on the other side
+of the road inscribed:  ‘Don't Use Miggle's Milk; It's Nearly All [[Water]].'
 The modern world would be much upset if I were allowed
 to set up a flaming sky-sign proclaiming my precise opinion
 of the Colonial Port Wine praised in the flaming sign opposite.
@@ -153,7 +153,7 @@ sympathize still more; but nobody need sympathize with publicity
 experts picking pleasant expressions for unpleasant things;
 and I for one prefer the coarse language of our fathers.
 
-                      ------------------
+------------------
 
 [Transcribed by Anthony Caetano]
 
@@ -373,8 +373,8 @@ private enterprises in the interests of private persons.  It means
 paying compliments in public; but not offering criticisms in public.
 We should all be very much surprised if we walked out of the front
 door one morning and saw a hoarding on one side of the [[Road|road]] saying:
-`Use Miggle's Milk; It Is All Cream,' and a hoarding on the other side
-of the road inscribed:  `Don't Use Miggle's Milk; It's Nearly All [[Water]].'
+‘Use Miggle's Milk; It Is All Cream,' and a hoarding on the other side
+of the road inscribed:  ‘Don't Use Miggle's Milk; It's Nearly All [[Water]].'
 The modern world would be much upset if I were allowed
 to set up a flaming sky-sign proclaiming my precise opinion
 of the Colonial Port Wine praised in the flaming sign opposite.
@@ -405,7 +405,7 @@ sympathize still more; but nobody need sympathize with publicity
 experts picking pleasant expressions for unpleasant things;
 and I for one prefer the coarse language of our fathers.
 
-                      ------------------
+------------------
 
 [Transcribed by Anthony Caetano]
 
@@ -424,8 +424,8 @@ imprese private nell'interesse di persone private. Significa
 fare complimenti in pubblico; ma non muovere critiche in pubblico.
 Resteremmo tutti assai sorpresi se, uscendo dalla porta di
 casa una mattina, vedessimo un cartellone su un lato della [[Road|strada]] che dice:
-`Usate il Latte di Miggle; È Tutta Panna', e un cartellone sull'altro lato
-della strada con su scritto: `Non Usate il Latte di Miggle; È Quasi Tutt'[[Water|Acqua]].'
+‘Usate il Latte di Miggle; È Tutta Panna', e un cartellone sull'altro lato
+della strada con su scritto: ‘Non Usate il Latte di Miggle; È Quasi Tutt'[[Water|Acqua]].'
 Il mondo moderno resterebbe assai turbato se mi si permettesse
 di erigere un'insegna luminosa fiammeggiante che proclami la mia precisa opinione
 sul Vino di Porto Coloniale lodato nell'insegna fiammeggiante di fronte.
@@ -456,6 +456,6 @@ ancor di più; ma nessuno ha da simpatizzare con gli esperti di pubblicità
 che scelgono espressioni piacevoli per cose spiacevoli;
 e io, per parte mia, preferisco il linguaggio ruvido dei nostri padri.
 
-                      ------------------
+------------------
 
 [Trascritto da Anthony Caetano]

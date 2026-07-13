@@ -45,7 +45,7 @@ When Man is the Turk, and the Atheist,
 Essene, Erastian[,] Whig,  
 And the Thug and the Druse and the Catholic  
 And the crew of the Captain's gig.  
-		(G. K. Chesterton - 1914)  
+(G. K. Chesterton - 1914)  
 
 [The reference to "the crew of the Captain's gig" is from the poem "The Yarn  
 of the [[Nancy]] Bell" by Gilbert.]
@@ -81,7 +81,7 @@ Quando l'Uomo è il Turco, e l'Ateo,
 Esseno, Erastiano[,] Whig,  
 e il Thug e il Druso e il Cattolico  
 e la ciurma del canotto del Capitano.  
-		(G. K. Chesterton - 1914)  
+(G. K. Chesterton - 1914)  
 
 [Il riferimento alla «ciurma del canotto del Capitano» è tratto dalla poesia «The Yarn  
 of the [[Nancy]] Bell» di Gilbert.]
@@ -122,7 +122,7 @@ When Man is the Turk, and the Atheist,
 Essene, Erastian[,] Whig,  
 And the Thug and the Druse and the Catholic  
 And the crew of the Captain's gig.  
-		(G. K. Chesterton - 1914)  
+(G. K. Chesterton - 1914)  
 
 [The reference to "the crew of the Captain's gig" is from the poem "The Yarn  
 of the [[Nancy]] Bell" by Gilbert.]
@@ -158,7 +158,7 @@ Quando l'Uomo è il Turco, e l'Ateo,
 Esseno, Erastiano[,] Whig,  
 e il Thug e il Druso e il Cattolico  
 e la ciurma del canotto del Capitano.  
-		(G. K. Chesterton - 1914)  
+(G. K. Chesterton - 1914)  
 
 [Il riferimento alla «ciurma del canotto del Capitano» è tratto dalla poesia «The Yarn  
 of the [[Nancy]] Bell» di Gilbert.]

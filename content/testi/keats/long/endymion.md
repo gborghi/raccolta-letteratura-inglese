@@ -4282,7 +4282,7 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="section_01_book_i" data-title="Endymion — Book I" data-chapter="Section 01 book i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_book_i" data-title="Endymion — Book I" data-chapter="book i" data-kind="section"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK I
@@ -5312,7 +5312,7 @@ They stept into the boat, and launch’d from land.
 
 
 
-<span class="atom-split" data-atom="section_02_book_ii" data-title="Endymion — Book II" data-chapter="Section 02 book ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_book_ii" data-title="Endymion — Book II" data-chapter="book II" data-kind="section"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK II
@@ -6374,7 +6374,7 @@ He saw the giant sea above his head.
 
 
 
-<span class="atom-split" data-atom="section_03_book_iii" data-title="Endymion — Book III" data-chapter="Section 03 book iii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_book_iii" data-title="Endymion — Book III" data-chapter="book III" data-kind="section"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK III
@@ -7491,7 +7491,7 @@ How happy once again in grassy nest!
 
 
 
-<span class="atom-split" data-atom="section_04_book_iv" data-title="Endymion — Book IV" data-chapter="Section 04 book iv" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_book_iv" data-title="Endymion — Book IV" data-chapter="book IV" data-kind="section"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK IV

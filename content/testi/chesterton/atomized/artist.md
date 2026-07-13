@@ -17,141 +17,141 @@ tags:
 ON THE DISASTROUS SPREAD OF AESTHETICISM IN ALL CLASSES  
 
 Impetuously I sprang from bed,  
-  Long before lunch was up,  
+Long before lunch was up,  
 That I might drain the dizzy dew  
-  From the day's first golden cup.  
+From the day's first golden cup.  
 
 In swift devouring ecstasy  
-  Each toil in turn was done;  
+Each toil in turn was done;  
 I had done lying on the lawn  
-  Three minutes after one.  
+Three minutes after one.  
 
 For me, as Mr. Wordsworth says,  
-  The duties shine like [[Stars|stars]];  
+The duties shine like [[Stars|stars]];  
 I formed my uncle's character,  
-  Decreasing his cigars.  
+Decreasing his cigars.  
 
 But could my kind engross me?  No!  
-  Stern Art-what sons escape her?  
+Stern Art-what sons escape her?  
 Soon I was drawing Gladstone's nose  
-  On scraps of blotting paper.  
+On scraps of blotting paper.  
 
 Then on-to play one-fingered tunes  
-  Upon my aunt's piano.  
+Upon my aunt's piano.  
 In short, I have a headlong [[Soul|soul]],  
-  I much resemble Hanno.  
+I much resemble Hanno.  
 
 (Forgive the entrance of the not  
-  Too cogent Carthaginian.  
+Too cogent Carthaginian.  
 It may have been to make a rhyme;  
-  I lean to that opinion.)  
+I lean to that opinion.)  
 
 Then my great work of book research  
-  Till dusk I took in hand-  
+Till dusk I took in hand-  
 The forming of a final, sound  
-  Opinion on The Strand.  
+Opinion on The Strand.  
 
 But when I quenched the midnight oil,  
-  And closed the Referee,  
+And closed the Referee,  
 Whose thirty volumes folio  
-  I take to bed with me,  
+I take to bed with me,  
 
 I had a rather funny dream,  
-  Intense, that is, and mystic;  
+Intense, that is, and mystic;  
 I dreamed that, with one leap and yell,  
-  The world became artistic.  
+The world became artistic.  
 
 The Shopmen, when their souls were still,  
-  Declined to open shops-  
+Declined to open shops-  
 And Cooks recorded frames of mind  
-  In sad and subtle chops.  
+In sad and subtle chops.  
 
 The [[Stars|stars]] were weary of routine:  
-  The trees in the plantation  
+The trees in the plantation  
 Were growing every fruit at once,  
-  In search of sensation.  
+In search of sensation.  
 
 The [[Moon|moon]] went for a moonlight stroll,  
-  And tried to be a bard,  
+And tried to be a bard,  
 And gazed enraptured at itself:  
-  I left it trying hard.  
+I left it trying hard.  
 
 The sea had nothing but a mood  
-  Of 'vague ironic gloom,'  
+Of 'vague ironic gloom,'  
 With which t'explain its presence in  
-  My upstairs drawing-room.  
+My upstairs drawing-room.  
 
 The sun had read a little book  
-  That struck him with a notion:  
+That struck him with a notion:  
 He drowned himself and all his fires  
-  Deep in a hissing ocean.  
+Deep in a hissing ocean.  
 
 Then all was dark, lawless, and lost:  
-  I heard great devilish wings:  
+I heard great devilish wings:  
 I knew that Art had won, and snapt  
-  The Covenant of Things.  
+The Covenant of Things.  
 
 I cried aloud, and I awoke,  
-  New labours in my head.  
+New labours in my head.  
 I set my teeth, and manfully  
-  Began to lie in bed.  
+Began to lie in bed.  
 
 Toiling, rejoicing, sorrowing,  
-  So I my life conduct.  
+So I my life conduct.  
 Each morning see some task begun,  
-  Each evening see it chucked.  
+Each evening see it chucked.  
 
 But still, in sudden moods of dusk,  
-  I hear those great weird wings,  
+I hear those great weird wings,  
 Feel vaguely thankful to the vast  
-  Stupidity of things.  
+Stupidity of things.  
 
-           Envoi  
+Envoi  
 
 Clear was the [[Night|night]]:  the [[Moon|moon]] was young  
-  The larkspurs in the plots  
+The larkspurs in the plots  
 Mingled their orange with the gold  
-  Of the forget-me-nots.  
+Of the forget-me-nots.  
 
 The poppies seemed a silver mist:  
-  So darkly fell the gloom.  
+So darkly fell the gloom.  
 You scarce had guessed yon crimson streaks  
-  Were buttercups in bloom.  
+Were buttercups in bloom.  
 
 But one thing moved:  a little [[Child|child]]  
-  Crashed through the flower and fern:  
+Crashed through the flower and fern:  
 And all my [[Soul|soul]] [[Rose|rose]] up to greet  
-  The sage of whom I learn.  
+The sage of whom I learn.  
 
 I looked into his awful eyes:  
-  I waited his decree:  
+I waited his decree:  
 I made ingenious attempts  
-  To sit upon his knee.  
+To sit upon his knee.  
 
 The babe upraised his wondering eyes,  
-  And timidly he said,  
+And timidly he said,  
 "A trend towards experiment  
-  In modern minds is bred.  
+In modern minds is bred.  
 
 "I feel the will to roam, to learn  
-  By test, experience, nous,  
+By test, experience, nous,  
 That [[Fire|fire]] is hot and ocean deep,  
-  And wolves carnivorous.  
+And wolves carnivorous.  
 
 "My brain demands complexity,"  
-  The lisping cherub cried.  
+The lisping cherub cried.  
 I looked at him, and only said,  
-  "Go on.  The world is wide."  
+"Go on.  The world is wide."  
 
 A tear rolled down his pinafore,  
-  "Yet from my life must pass  
+"Yet from my life must pass  
 The simple [[Love|love]] of sun and [[Moon|moon]],  
-  The old games in the grass;  
+The old games in the grass;  
 
 "Now that my back is to my [[Home|home]]  
-  Could these again be found?"  
+Could these again be found?"  
 I looked on him and only said,  
-  "Go on.  The world is round."
+"Go on.  The world is round."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -159,141 +159,141 @@ I looked on him and only said,
 SULLA DISASTROSA DIFFUSIONE DELL'ESTETISMO IN OGNI CLASSE  
 
 Impetuoso balzai dal letto,  
-  Assai prima che il pranzo fosse pronto,  
+Assai prima che il pranzo fosse pronto,  
 Per poter tracannare la rugiada vertiginosa  
-  Dalla prima aurea coppa del giorno.  
+Dalla prima aurea coppa del giorno.  
 
 In rapida, divorante estasi  
-  Ogni fatica a turno fu compiuta;  
+Ogni fatica a turno fu compiuta;  
 Avevo finito di giacere sul prato  
-  Tre minuti dopo l'una.  
+Tre minuti dopo l'una.  
 
 Per me, come dice il signor Wordsworth,  
-  I doveri splendono come [[Stars|stelle]];  
+I doveri splendono come [[Stars|stelle]];  
 Formai il carattere di mio zio,  
-  Diminuendo i suoi sigari.  
+Diminuendo i suoi sigari.  
 
 Ma poteva la mia specie assorbirmi?  No!  
-  Severa è l'Arte—quali figli le sfuggono?  
+Severa è l'Arte—quali figli le sfuggono?  
 Presto disegnavo il naso di Gladstone  
-  Su ritagli di carta assorbente.  
+Su ritagli di carta assorbente.  
 
 Poi avanti—a suonare arie con un solo dito  
-  Sul pianoforte di mia zia.  
+Sul pianoforte di mia zia.  
 In breve, ho un'[[Soul|anima]] impetuosa,  
-  Assomiglio molto ad Annone.  
+Assomiglio molto ad Annone.  
 
 (Perdonate l'ingresso del non  
-  Troppo cogente Cartaginese.  
+Troppo cogente Cartaginese.  
 Fu forse per fare una rima;  
-  Propendo per tale opinione.)  
+Propendo per tale opinione.)  
 
 Poi la mia grande opera di ricerca libresca  
-  Fino al crepuscolo intrapresi—  
+Fino al crepuscolo intrapresi—  
 Il formarmi un'opinione finale e solida  
-  Su The Strand.  
+Su The Strand.  
 
 Ma quando spensi la lampada di mezzanotte,  
-  E chiusi il Referee,  
+E chiusi il Referee,  
 I cui trenta volumi in folio  
-  Porto a letto con me,  
+Porto a letto con me,  
 
 Feci un sogno alquanto buffo,  
-  Intenso, cioè, e mistico;  
+Intenso, cioè, e mistico;  
 Sognai che, con un balzo e un urlo,  
-  Il mondo divenne artistico.  
+Il mondo divenne artistico.  
 
 I Bottegai, quando le loro anime furon quiete,  
-  Rifiutarono d'aprire bottega—  
+Rifiutarono d'aprire bottega—  
 E i Cuochi registravano stati d'animo  
-  In tristi e sottili braciole.  
+In tristi e sottili braciole.  
 
 Le [[Stars|stelle]] eran stanche della routine:  
-  Gli alberi nella piantagione  
+Gli alberi nella piantagione  
 Facevan crescere ogni frutto in una volta,  
-  In cerca di sensazione.  
+In cerca di sensazione.  
 
 La [[Moon|luna]] andò a passeggio al chiaro di luna,  
-  E tentò d'esser bardo,  
+E tentò d'esser bardo,  
 E si contemplò rapita in sé stessa:  
-  La lasciai che si sforzava assai.  
+La lasciai che si sforzava assai.  
 
 Il mare non aveva che un umore  
-  Di 'vaga ironica tetraggine,'  
+Di 'vaga ironica tetraggine,'  
 Con cui spiegare la sua presenza  
-  Nel mio salotto al piano di sopra.  
+Nel mio salotto al piano di sopra.  
 
 Il sole aveva letto un libretto  
-  Che lo colpì con un'idea:  
+Che lo colpì con un'idea:  
 Annegò sé stesso e tutti i suoi fuochi  
-  Nel fondo d'un oceano sibilante.  
+Nel fondo d'un oceano sibilante.  
 
 Poi tutto fu buio, senza legge, e perduto:  
-  Udii grandi ali diaboliche:  
+Udii grandi ali diaboliche:  
 Seppi che l'Arte aveva vinto, e spezzato  
-  Il Patto delle Cose.  
+Il Patto delle Cose.  
 
 Gridai forte, e mi svegliai,  
-  Nuove fatiche in capo.  
+Nuove fatiche in capo.  
 Strinsi i denti, e virilmente  
-  Cominciai a giacere a letto.  
+Cominciai a giacere a letto.  
 
 Faticando, gioendo, dolendomi,  
-  Così conduco la mia vita.  
+Così conduco la mia vita.  
 Ogni mattina vede un compito iniziato,  
-  Ogni sera lo vede buttato via.  
+Ogni sera lo vede buttato via.  
 
 Ma ancora, in improvvisi umori di crepuscolo,  
-  Odo quelle grandi, strane ali,  
+Odo quelle grandi, strane ali,  
 E vagamente grato mi sento alla vasta  
-  Stupidità delle cose.  
+Stupidità delle cose.  
 
-           Envoi  
+Envoi  
 
 Chiara era la [[Night|notte]]:  la [[Moon|luna]] era giovane  
-  Le speronelle nelle aiuole  
+Le speronelle nelle aiuole  
 Mescolavano il loro arancio con l'oro  
-  Dei nontiscordardimé.  
+Dei nontiscordardimé.  
 
 I papaveri parevan bruma d'argento:  
-  Così cupa scendeva la tenebra.  
+Così cupa scendeva la tenebra.  
 A stento avresti indovinato che quelle strisce cremisi  
-  Erano ranuncoli in fiore.  
+Erano ranuncoli in fiore.  
 
 Ma una cosa si mosse:  un piccolo [[Child|fanciullo]]  
-  Irruppe tra il fiore e la felce:  
+Irruppe tra il fiore e la felce:  
 E tutta la mia [[Soul|anima]] si [[Rose|levò]] a salutare  
-  Il saggio da cui apprendo.  
+Il saggio da cui apprendo.  
 
 Guardai nei suoi occhi tremendi:  
-  Attesi il suo decreto:  
+Attesi il suo decreto:  
 Feci ingegnosi tentativi  
-  Di sedermi sul suo ginocchio.  
+Di sedermi sul suo ginocchio.  
 
 Il pargolo levò i suoi occhi meravigliati,  
-  E timidamente disse,  
+E timidamente disse,  
 "Una tendenza all'esperimento  
-  si genera nelle menti moderne.  
+si genera nelle menti moderne.  
 
 "Sento la voglia di vagare, d'apprendere  
-  per prova, esperienza, senno,  
+per prova, esperienza, senno,  
 Che il [[Fire|fuoco]] è caldo e l'oceano profondo,  
-  E i lupi carnivori.  
+E i lupi carnivori.  
 
 "Il mio cervello esige complessità,"  
-  gridò il cherubino balbettante.  
+gridò il cherubino balbettante.  
 Lo guardai, e dissi soltanto,  
-  "Prosegui.  Il mondo è vasto."  
+"Prosegui.  Il mondo è vasto."  
 
 Una lacrima gli rotolò sul grembiulino,  
-  "Eppure dalla mia vita deve svanire  
+"Eppure dalla mia vita deve svanire  
 Il semplice [[Love|amore]] del sole e della [[Moon|luna]],  
-  Gli antichi giochi nell'erba;  
+Gli antichi giochi nell'erba;  
 
 "Ora che volgo le spalle alla mia [[Home|casa]]  
-  potrei ritrovarli ancora?"  
+potrei ritrovarli ancora?"  
 Lo guardai e dissi soltanto,  
-  "Prosegui.  Il mondo è rotondo."
+"Prosegui.  Il mondo è rotondo."
 
 
 
@@ -303,141 +303,141 @@ Lo guardai e dissi soltanto,
 ON THE DISASTROUS SPREAD OF AESTHETICISM IN ALL CLASSES  
 
 Impetuously I sprang from bed,  
-  Long before lunch was up,  
+Long before lunch was up,  
 That I might drain the dizzy dew  
-  From the day's first golden cup.  
+From the day's first golden cup.  
 
 In swift devouring ecstasy  
-  Each toil in turn was done;  
+Each toil in turn was done;  
 I had done lying on the lawn  
-  Three minutes after one.  
+Three minutes after one.  
 
 For me, as Mr. Wordsworth says,  
-  The duties shine like [[Stars|stars]];  
+The duties shine like [[Stars|stars]];  
 I formed my uncle's character,  
-  Decreasing his cigars.  
+Decreasing his cigars.  
 
 But could my kind engross me?  No!  
-  Stern Art-what sons escape her?  
+Stern Art-what sons escape her?  
 Soon I was drawing Gladstone's nose  
-  On scraps of blotting paper.  
+On scraps of blotting paper.  
 
 Then on-to play one-fingered tunes  
-  Upon my aunt's piano.  
+Upon my aunt's piano.  
 In short, I have a headlong [[Soul|soul]],  
-  I much resemble Hanno.  
+I much resemble Hanno.  
 
 (Forgive the entrance of the not  
-  Too cogent Carthaginian.  
+Too cogent Carthaginian.  
 It may have been to make a rhyme;  
-  I lean to that opinion.)  
+I lean to that opinion.)  
 
 Then my great work of book research  
-  Till dusk I took in hand-  
+Till dusk I took in hand-  
 The forming of a final, sound  
-  Opinion on The Strand.  
+Opinion on The Strand.  
 
 But when I quenched the midnight oil,  
-  And closed the Referee,  
+And closed the Referee,  
 Whose thirty volumes folio  
-  I take to bed with me,  
+I take to bed with me,  
 
 I had a rather funny dream,  
-  Intense, that is, and mystic;  
+Intense, that is, and mystic;  
 I dreamed that, with one leap and yell,  
-  The world became artistic.  
+The world became artistic.  
 
 The Shopmen, when their souls were still,  
-  Declined to open shops-  
+Declined to open shops-  
 And Cooks recorded frames of mind  
-  In sad and subtle chops.  
+In sad and subtle chops.  
 
 The [[Stars|stars]] were weary of routine:  
-  The trees in the plantation  
+The trees in the plantation  
 Were growing every fruit at once,  
-  In search of sensation.  
+In search of sensation.  
 
 The [[Moon|moon]] went for a moonlight stroll,  
-  And tried to be a bard,  
+And tried to be a bard,  
 And gazed enraptured at itself:  
-  I left it trying hard.  
+I left it trying hard.  
 
 The sea had nothing but a mood  
-  Of 'vague ironic gloom,'  
+Of 'vague ironic gloom,'  
 With which t'explain its presence in  
-  My upstairs drawing-room.  
+My upstairs drawing-room.  
 
 The sun had read a little book  
-  That struck him with a notion:  
+That struck him with a notion:  
 He drowned himself and all his fires  
-  Deep in a hissing ocean.  
+Deep in a hissing ocean.  
 
 Then all was dark, lawless, and lost:  
-  I heard great devilish wings:  
+I heard great devilish wings:  
 I knew that Art had won, and snapt  
-  The Covenant of Things.  
+The Covenant of Things.  
 
 I cried aloud, and I awoke,  
-  New labours in my head.  
+New labours in my head.  
 I set my teeth, and manfully  
-  Began to lie in bed.  
+Began to lie in bed.  
 
 Toiling, rejoicing, sorrowing,  
-  So I my life conduct.  
+So I my life conduct.  
 Each morning see some task begun,  
-  Each evening see it chucked.  
+Each evening see it chucked.  
 
 But still, in sudden moods of dusk,  
-  I hear those great weird wings,  
+I hear those great weird wings,  
 Feel vaguely thankful to the vast  
-  Stupidity of things.  
+Stupidity of things.  
 
-           Envoi  
+Envoi  
 
 Clear was the [[Night|night]]:  the [[Moon|moon]] was young  
-  The larkspurs in the plots  
+The larkspurs in the plots  
 Mingled their orange with the gold  
-  Of the forget-me-nots.  
+Of the forget-me-nots.  
 
 The poppies seemed a silver mist:  
-  So darkly fell the gloom.  
+So darkly fell the gloom.  
 You scarce had guessed yon crimson streaks  
-  Were buttercups in bloom.  
+Were buttercups in bloom.  
 
 But one thing moved:  a little [[Child|child]]  
-  Crashed through the flower and fern:  
+Crashed through the flower and fern:  
 And all my [[Soul|soul]] [[Rose|rose]] up to greet  
-  The sage of whom I learn.  
+The sage of whom I learn.  
 
 I looked into his awful eyes:  
-  I waited his decree:  
+I waited his decree:  
 I made ingenious attempts  
-  To sit upon his knee.  
+To sit upon his knee.  
 
 The babe upraised his wondering eyes,  
-  And timidly he said,  
+And timidly he said,  
 "A trend towards experiment  
-  In modern minds is bred.  
+In modern minds is bred.  
 
 "I feel the will to roam, to learn  
-  By test, experience, nous,  
+By test, experience, nous,  
 That [[Fire|fire]] is hot and ocean deep,  
-  And wolves carnivorous.  
+And wolves carnivorous.  
 
 "My brain demands complexity,"  
-  The lisping cherub cried.  
+The lisping cherub cried.  
 I looked at him, and only said,  
-  "Go on.  The world is wide."  
+"Go on.  The world is wide."  
 
 A tear rolled down his pinafore,  
-  "Yet from my life must pass  
+"Yet from my life must pass  
 The simple [[Love|love]] of sun and [[Moon|moon]],  
-  The old games in the grass;  
+The old games in the grass;  
 
 "Now that my back is to my [[Home|home]]  
-  Could these again be found?"  
+Could these again be found?"  
 I looked on him and only said,  
-  "Go on.  The world is round."
+"Go on.  The world is round."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -445,138 +445,138 @@ I looked on him and only said,
 SULLA DISASTROSA DIFFUSIONE DELL'ESTETISMO IN OGNI CLASSE  
 
 Impetuoso balzai dal letto,  
-  Assai prima che il pranzo fosse pronto,  
+Assai prima che il pranzo fosse pronto,  
 Per poter tracannare la rugiada vertiginosa  
-  Dalla prima aurea coppa del giorno.  
+Dalla prima aurea coppa del giorno.  
 
 In rapida, divorante estasi  
-  Ogni fatica a turno fu compiuta;  
+Ogni fatica a turno fu compiuta;  
 Avevo finito di giacere sul prato  
-  Tre minuti dopo l'una.  
+Tre minuti dopo l'una.  
 
 Per me, come dice il signor Wordsworth,  
-  I doveri splendono come [[Stars|stelle]];  
+I doveri splendono come [[Stars|stelle]];  
 Formai il carattere di mio zio,  
-  Diminuendo i suoi sigari.  
+Diminuendo i suoi sigari.  
 
 Ma poteva la mia specie assorbirmi?  No!  
-  Severa è l'Arte—quali figli le sfuggono?  
+Severa è l'Arte—quali figli le sfuggono?  
 Presto disegnavo il naso di Gladstone  
-  Su ritagli di carta assorbente.  
+Su ritagli di carta assorbente.  
 
 Poi avanti—a suonare arie con un solo dito  
-  Sul pianoforte di mia zia.  
+Sul pianoforte di mia zia.  
 In breve, ho un'[[Soul|anima]] impetuosa,  
-  Assomiglio molto ad Annone.  
+Assomiglio molto ad Annone.  
 
 (Perdonate l'ingresso del non  
-  Troppo cogente Cartaginese.  
+Troppo cogente Cartaginese.  
 Fu forse per fare una rima;  
-  Propendo per tale opinione.)  
+Propendo per tale opinione.)  
 
 Poi la mia grande opera di ricerca libresca  
-  Fino al crepuscolo intrapresi—  
+Fino al crepuscolo intrapresi—  
 Il formarmi un'opinione finale e solida  
-  Su The Strand.  
+Su The Strand.  
 
 Ma quando spensi la lampada di mezzanotte,  
-  E chiusi il Referee,  
+E chiusi il Referee,  
 I cui trenta volumi in folio  
-  Porto a letto con me,  
+Porto a letto con me,  
 
 Feci un sogno alquanto buffo,  
-  Intenso, cioè, e mistico;  
+Intenso, cioè, e mistico;  
 Sognai che, con un balzo e un urlo,  
-  Il mondo divenne artistico.  
+Il mondo divenne artistico.  
 
 I Bottegai, quando le loro anime furon quiete,  
-  Rifiutarono d'aprire bottega—  
+Rifiutarono d'aprire bottega—  
 E i Cuochi registravano stati d'animo  
-  In tristi e sottili braciole.  
+In tristi e sottili braciole.  
 
 Le [[Stars|stelle]] eran stanche della routine:  
-  Gli alberi nella piantagione  
+Gli alberi nella piantagione  
 Facevan crescere ogni frutto in una volta,  
-  In cerca di sensazione.  
+In cerca di sensazione.  
 
 La [[Moon|luna]] andò a passeggio al chiaro di luna,  
-  E tentò d'esser bardo,  
+E tentò d'esser bardo,  
 E si contemplò rapita in sé stessa:  
-  La lasciai che si sforzava assai.  
+La lasciai che si sforzava assai.  
 
 Il mare non aveva che un umore  
-  Di 'vaga ironica tetraggine,'  
+Di 'vaga ironica tetraggine,'  
 Con cui spiegare la sua presenza  
-  Nel mio salotto al piano di sopra.  
+Nel mio salotto al piano di sopra.  
 
 Il sole aveva letto un libretto  
-  Che lo colpì con un'idea:  
+Che lo colpì con un'idea:  
 Annegò sé stesso e tutti i suoi fuochi  
-  Nel fondo d'un oceano sibilante.  
+Nel fondo d'un oceano sibilante.  
 
 Poi tutto fu buio, senza legge, e perduto:  
-  Udii grandi ali diaboliche:  
+Udii grandi ali diaboliche:  
 Seppi che l'Arte aveva vinto, e spezzato  
-  Il Patto delle Cose.  
+Il Patto delle Cose.  
 
 Gridai forte, e mi svegliai,  
-  Nuove fatiche in capo.  
+Nuove fatiche in capo.  
 Strinsi i denti, e virilmente  
-  Cominciai a giacere a letto.  
+Cominciai a giacere a letto.  
 
 Faticando, gioendo, dolendomi,  
-  Così conduco la mia vita.  
+Così conduco la mia vita.  
 Ogni mattina vede un compito iniziato,  
-  Ogni sera lo vede buttato via.  
+Ogni sera lo vede buttato via.  
 
 Ma ancora, in improvvisi umori di crepuscolo,  
-  Odo quelle grandi, strane ali,  
+Odo quelle grandi, strane ali,  
 E vagamente grato mi sento alla vasta  
-  Stupidità delle cose.  
+Stupidità delle cose.  
 
-           Envoi  
+Envoi  
 
 Chiara era la [[Night|notte]]:  la [[Moon|luna]] era giovane  
-  Le speronelle nelle aiuole  
+Le speronelle nelle aiuole  
 Mescolavano il loro arancio con l'oro  
-  Dei nontiscordardimé.  
+Dei nontiscordardimé.  
 
 I papaveri parevan bruma d'argento:  
-  Così cupa scendeva la tenebra.  
+Così cupa scendeva la tenebra.  
 A stento avresti indovinato che quelle strisce cremisi  
-  Erano ranuncoli in fiore.  
+Erano ranuncoli in fiore.  
 
 Ma una cosa si mosse:  un piccolo [[Child|fanciullo]]  
-  Irruppe tra il fiore e la felce:  
+Irruppe tra il fiore e la felce:  
 E tutta la mia [[Soul|anima]] si [[Rose|levò]] a salutare  
-  Il saggio da cui apprendo.  
+Il saggio da cui apprendo.  
 
 Guardai nei suoi occhi tremendi:  
-  Attesi il suo decreto:  
+Attesi il suo decreto:  
 Feci ingegnosi tentativi  
-  Di sedermi sul suo ginocchio.  
+Di sedermi sul suo ginocchio.  
 
 Il pargolo levò i suoi occhi meravigliati,  
-  E timidamente disse,  
+E timidamente disse,  
 "Una tendenza all'esperimento  
-  si genera nelle menti moderne.  
+si genera nelle menti moderne.  
 
 "Sento la voglia di vagare, d'apprendere  
-  per prova, esperienza, senno,  
+per prova, esperienza, senno,  
 Che il [[Fire|fuoco]] è caldo e l'oceano profondo,  
-  E i lupi carnivori.  
+E i lupi carnivori.  
 
 "Il mio cervello esige complessità,"  
-  gridò il cherubino balbettante.  
+gridò il cherubino balbettante.  
 Lo guardai, e dissi soltanto,  
-  "Prosegui.  Il mondo è vasto."  
+"Prosegui.  Il mondo è vasto."  
 
 Una lacrima gli rotolò sul grembiulino,  
-  "Eppure dalla mia vita deve svanire  
+"Eppure dalla mia vita deve svanire  
 Il semplice [[Love|amore]] del sole e della [[Moon|luna]],  
-  Gli antichi giochi nell'erba;  
+Gli antichi giochi nell'erba;  
 
 "Ora che volgo le spalle alla mia [[Home|casa]]  
-  potrei ritrovarli ancora?"  
+potrei ritrovarli ancora?"  
 Lo guardai e dissi soltanto,  
-  "Prosegui.  Il mondo è rotondo."
+"Prosegui.  Il mondo è rotondo."

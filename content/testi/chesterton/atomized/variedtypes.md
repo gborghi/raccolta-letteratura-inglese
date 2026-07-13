@@ -66,7 +66,7 @@ Kensington.
 
 CONTENTS
 
-                                       Page
+Page
 
 Charlotte Brontë                         3
 
@@ -1028,13 +1028,13 @@ in a [[spring]] morning when all the limbs are swinging and all the [[Blood|bloo
 
 alive in the [[Body|body]], the lips may be caught repeating:
 
-  "Oh, there's not a joy the world can give like that it takes away,
+"Oh, there's not a joy the world can give like that it takes away,
 
-  When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
+When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
 
-  'Tis not upon the cheek of youth the blush that fades so fast,
+'Tis not upon the cheek of youth the blush that fades so fast,
 
-  But the tender bloom of heart is gone ere youth itself be past."
+But the tender bloom of heart is gone ere youth itself be past."
 
 That automatic recitation is the answer to the whole pessimism of Byron.
 
@@ -1102,7 +1102,7 @@ at least a [[Fool|fool]] could not be a poet. If we take, for the sake of
 
 example, such a line as Pope's:
 
-  "Damn with faint praise, assent with civil leer,"
+"Damn with faint praise, assent with civil leer,"
 
 the test is comparatively simple. A great poet would not have written
 
@@ -1112,7 +1112,7 @@ Supposing that a [[Lyric|lyric]] poet of the new school really had to deal with
 
 such an idea as that expressed in Pope's line about Man:
 
-  "A being darkly wise and rudely great,"
+"A being darkly wise and rudely great,"
 
 Is it really so certain that he would go deeper into the matter than
 
@@ -1124,29 +1124,29 @@ The one thing that he would really be, would be longer. Instead of
 
 writing,
 
-  "A being darkly wise and rudely great,"
+"A being darkly wise and rudely great,"
 
 the contemporary poet, in his elaborately ornamented book of verses,
 
 would produce something like the following:
 
-  "A creature
+"A creature
 
-  Of feature
+Of feature
 
-  More dark, more dark, more dark than skies,
+More dark, more dark, more dark than skies,
 
-  Yea, darkly wise, yea, darkly wise:
+Yea, darkly wise, yea, darkly wise:
 
-  Darkly wise as a formless fate.
+Darkly wise as a formless fate.
 
-  And if he be great,
+And if he be great,
 
-  If he be great, then rudely great,
+If he be great, then rudely great,
 
-  Rudely great as a plough that plies,
+Rudely great as a plough that plies,
 
-  And darkly wise, and darkly wise."
+And darkly wise, and darkly wise."
 
 Have we really learnt to think more broadly? Or have we only learnt to
 
@@ -1310,11 +1310,11 @@ splendid and spirited account of the insane valour and inspired cunning
 
 of the
 
-  "daring pilot in extremity,"
+"daring pilot in extremity,"
 
 who was more untrustworthy in calm than in [[Storm|storm]], and
 
-  "Steered too near the rocks to boast his wit."
+"Steered too near the rocks to boast his wit."
 
 The whole is, so far as it goes, a sound and picturesque version of the
 
@@ -1408,15 +1408,15 @@ have said, go quietly and read Pope's "Atticus," they would see how a
 
 great satirist approaches a great enemy:
 
-  "Peace to all such! But were there one whose fires
+"Peace to all such! But were there one whose fires
 
-  True genius kindles, and fair fame inspires,
+True genius kindles, and fair fame inspires,
 
-  Blest with each talent, and each art to please,
+Blest with each talent, and each art to please,
 
-  And born to write, converse, and live with ease.
+And born to write, converse, and live with ease.
 
-  Should such a man--"
+Should such a man--"
 
 And then follows the torrent of that terrible criticism. Pope was not
 
@@ -1434,21 +1434,21 @@ everlasting colours he painted the picture of the evil of the literary
 
 temperament:
 
-  "Bear, like the Turk, no brother near the throne,
+"Bear, like the Turk, no brother near the throne,
 
-  View him with scornful, yet with jealous eyes,
+View him with scornful, yet with jealous eyes,
 
-  And hate for arts that caused himself to rise.
+And hate for arts that caused himself to rise.
 
-         *       *       *       *       *
+*       *       *       *       *
 
-  Like Cato give his little Senate laws,
+Like Cato give his little Senate laws,
 
-  And sit attentive to his own applause.
+And sit attentive to his own applause.
 
-  While wits and templars every sentence raise,
+While wits and templars every sentence raise,
 
-  And [[Wonder|wonder]] with a foolish face of praise."
+And [[Wonder|wonder]] with a foolish face of praise."
 
 This is the kind of thing which really goes to the mark at which it
 
@@ -1502,13 +1502,13 @@ any other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-  "A book of verses underneath the bough,
+"A book of verses underneath the bough,
 
-  A loaf of bread, a jug of wine, and thou
+A loaf of bread, a jug of wine, and thou
 
-  Beside me singing in the wilderness--
+Beside me singing in the wilderness--
 
-  O wilderness were Paradise enow."
+O wilderness were Paradise enow."
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -1520,13 +1520,13 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-  "From quiet [[Home|home]] and first beginning
+"From quiet [[Home|home]] and first beginning
 
-    Out to the undiscovered ends--
+Out to the undiscovered ends--
 
-  There's nothing worth the wear of winning
+There's nothing worth the wear of winning
 
-    But laughter and the [[Love|love]] of friends."
+But laughter and the [[Love|love]] of friends."
 
 Here we have a perfect example of the main important fact, that all true
 
@@ -2898,7 +2898,7 @@ start, and regards man as an animal who has preferences, as a bird has
 
 feathers.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 Thus it was with Carlyle: he startled men by attacking not arguments,
 
@@ -3282,13 +3282,13 @@ truest sense. It was born of an almost babyish receptiveness; it was the
 
 work of men who had eyes to [[Wonder|wonder]] and men who had ears to hear.
 
-  "[[King]] Solomon brought merchant men
+"[[King]] Solomon brought merchant men
 
-    Because of his [[Desire|desire]]
+Because of his [[Desire|desire]]
 
-  With peacocks, apes, and ivory,
+With peacocks, apes, and ivory,
 
-    From Tarshish unto Tyre."
+From Tarshish unto Tyre."
 
 But this proceeding was not a part of the wisdom of Solomon; it was a
 
@@ -3470,13 +3470,13 @@ the bovine stupidity and bovine fury of this world is accurately summed
 
 up in the celebrated verse of Mr. Edward Lear:
 
-  "There was an old man who said, 'How
+"There was an old man who said, 'How
 
-  Shall I flee from this terrible cow?
+Shall I flee from this terrible cow?
 
-  I will sit on a stile and continue to smile
+I will sit on a stile and continue to smile
 
-  Till I soften the heart of this cow.'"
+Till I soften the heart of this cow.'"
 
 Their confidence in human [[Nature|nature]] is really honourable and magnificent;
 
@@ -4748,19 +4748,19 @@ which we find in most [[Parody|parody]]--which we find in all American [[Parody|
 
 which we never find in the parodies of Bret Harte.
 
-  "The skies they were ashen and sober,
+"The skies they were ashen and sober,
 
-  The streets they were dirty and drear,
+The streets they were dirty and drear,
 
-  It was the dark month of October,
+It was the dark month of October,
 
-  In that most immemorial year.
+In that most immemorial year.
 
-  Like the skies, I was perfectly sober,
+Like the skies, I was perfectly sober,
 
-  But my thoughts they were palsied and sear,
+But my thoughts they were palsied and sear,
 
-  Yes, my thoughts were decidedly queer."
+Yes, my thoughts were decidedly queer."
 
 This could only be written by a genuine admirer of [[Edgar]] Allan Poe, who
 
@@ -5152,9 +5152,9 @@ long range. It is wonderful and splendid that we treasure, not the
 
 may say to him, as M. Rostand says to the Austrian Prince:
 
-  "Dors, ce n'est pas toujours la Légende qui ment:
+"Dors, ce n'est pas toujours la Légende qui ment:
 
-  Une rêve est parfois moins trompeur qu'un document."
+Une rêve est parfois moins trompeur qu'un document."
 
 To have a man so simple and so honourable to represent us in the
 
@@ -6330,9 +6330,9 @@ this, one of the most sentimental and elemental of his [[Poems|poems]], opens wi
 
 the two lines:
 
-  "Move eastward, happy earth, and leave
+"Move eastward, happy earth, and leave
 
-  Yon orange sunset waning slow."
+Yon orange sunset waning slow."
 
 Rivers had often been commanded to flow by poets, and [[Flowers|flowers]] to blossom
 
@@ -6362,9 +6362,9 @@ original for a poet to defend conventionality than to defend a cart-load
 
 of revolutions. His really sound and essential conception of Liberty,
 
-  "Turning to scorn with lips divine
+"Turning to scorn with lips divine
 
-  The falsehood of extremes,"
+The falsehood of extremes,"
 
 is as good a definition of Liberalism as has been uttered in poetry in
 
@@ -6458,9 +6458,9 @@ really abandoned herself with the valour and decision of an anchorite
 
 abandoning the world. Such a couplet as:
 
-  "Our Euripides, the human,
+"Our Euripides, the human,
 
-  With his dropping of warm [[Tears|tears]],"
+With his dropping of warm [[Tears|tears]],"
 
 gives to most of us a sickly and nauseous sensation. Nothing can be [[Well|well]]
 
@@ -6510,15 +6510,15 @@ curse of the Elizabethans is upon her, that she cannot leave anything
 
 [[Alone|alone]], she cannot write a single line without a conceit:
 
-  "And the eyes of the peacock fans
+"And the eyes of the peacock fans
 
-  Winked at the alien glory,"
+Winked at the alien glory,"
 
 she said of the Papal fans in the presence of the Italian tricolour:
 
-  "And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
+"And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
 
-  And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
+And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
 
 is her description of a beautiful and aristocratic lady. The notion of
 
@@ -6695,7 +6695,7 @@ the colour of an Italian [[City|city]] or the [[Soul|soul]] of a silent village 
 
 
 
-<span class="atom-split" data-atom="story_01_published_september_1905" data-title="VariedTypes — Published September, 1905" data-chapter="Story 01 Published September 1905" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_published_september_1905" data-title="VariedTypes — Published September, 1905" data-chapter="Published September 1905" data-kind="story"></span>
 
 
 PUBLISHED SEPTEMBER, 1905
@@ -6711,7 +6711,7 @@ Speaker_.
 
 
 
-<span class="atom-split" data-atom="story_02_g_k_c" data-title="VariedTypes — G.K.C." data-chapter="Story 02 G K C" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_g_k_c" data-title="VariedTypes — G.K.C." data-chapter="G K C" data-kind="story"></span>
 
 
 G.K.C.
@@ -6720,7 +6720,7 @@ Kensington.
 
 CONTENTS
 
-                                       Page
+Page
 
 Charlotte Brontë                         3
 
@@ -7055,7 +7055,7 @@ heart of all things and the end of travel.
 
 
 
-<span class="atom-split" data-atom="story_06_rostand" data-title="VariedTypes — Rostand" data-chapter="Story 06 Rostand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_rostand" data-title="VariedTypes — Rostand" data-chapter="Rostand" data-kind="story"></span>
 
 
 ROSTAND
@@ -7647,7 +7647,7 @@ e in un senso sacratissimo e tremendo, _Vive l'Empereur_.
 
 
 
-<span class="atom-split" data-atom="story_09_savonarola" data-title="VariedTypes — Savonarola" data-chapter="Story 09 Savonarola" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_savonarola" data-title="VariedTypes — Savonarola" data-chapter="Savonarola" data-kind="story"></span>
 
 
 SAVONAROLA
@@ -8159,7 +8159,7 @@ che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più sa
 
 
 
-<span class="atom-split" data-atom="story_12_alfred_the_great" data-title="VariedTypes — Alfred The Great" data-chapter="Story 12 Alfred The Great" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_alfred_the_great" data-title="VariedTypes — Alfred The Great" data-chapter="Alfred The Great" data-kind="story"></span>
 
 
 ALFRED THE GREAT
@@ -8278,9 +8278,9 @@ long range. It is wonderful and splendid that we treasure, not the
 
 may say to him, as M. Rostand says to the Austrian Prince:
 
-  "Dors, ce n'est pas toujours la Légende qui ment:
+"Dors, ce n'est pas toujours la Légende qui ment:
 
-  Une rêve est parfois moins trompeur qu'un document."
+Une rêve est parfois moins trompeur qu'un document."
 
 To have a man so simple and so honourable to represent us in the
 
@@ -8525,9 +8525,9 @@ lunga gittata. È meraviglioso e splendido che noi facciamo tesoro, non della
 
 dirgli, come M. Rostand dice al Principe austriaco:
 
-  "Dors, ce n'est pas toujours la Légende qui ment:
+"Dors, ce n'est pas toujours la Légende qui ment:
 
-  Une rêve est parfois moins trompeur qu'un document."
+Une rêve est parfois moins trompeur qu'un document."
 
 Avere un uomo così semplice e così onorevole a rappresentarci nelle
 
@@ -8655,7 +8655,7 @@ grande [[King|re]].
 
 
 
-<span class="atom-split" data-atom="story_14_the_german_emperor" data-title="VariedTypes — The German Emperor" data-chapter="Story 14 The German Emperor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_german_emperor" data-title="VariedTypes — The German Emperor" data-chapter="The German Emperor" data-kind="story"></span>
 
 
 THE GERMAN EMPEROR
@@ -9175,7 +9175,7 @@ minore; un poeta minore, ma pur sempre un poeta.
 
 
 
-<span class="atom-split" data-atom="story_15_tennyson" data-title="VariedTypes — Tennyson" data-chapter="Story 15 Tennyson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_tennyson" data-title="VariedTypes — Tennyson" data-chapter="Tennyson" data-kind="story"></span>
 
 
 TENNYSON
@@ -9346,9 +9346,9 @@ this, one of the most sentimental and elemental of his [[Poems|poems]], opens wi
 
 the two lines:
 
-  "Move eastward, happy earth, and leave
+"Move eastward, happy earth, and leave
 
-  Yon orange sunset waning slow."
+Yon orange sunset waning slow."
 
 Rivers had often been commanded to flow by poets, and [[Flowers|flowers]] to blossom
 
@@ -9378,9 +9378,9 @@ original for a poet to defend conventionality than to defend a cart-load
 
 of revolutions. His really sound and essential conception of Liberty,
 
-  "Turning to scorn with lips divine
+"Turning to scorn with lips divine
 
-  The falsehood of extremes,"
+The falsehood of extremes,"
 
 is as good a definition of Liberalism as has been uttered in poetry in
 
@@ -9603,9 +9603,9 @@ questa, una delle più sentimentali ed elementari delle sue [[Poems|poesie]], si
 
 i due versi:
 
-  "Muoviti verso oriente, terra felice, e lascia
+"Muoviti verso oriente, terra felice, e lascia
 
-  Quell'arancione tramonto che lento declina."
+Quell'arancione tramonto che lento declina."
 
 Ai fiumi era stato spesso comandato dai poeti di scorrere, e ai [[Flowers|fiori]] di sbocciare
 
@@ -9635,9 +9635,9 @@ originale, per un poeta, difendere la convenzionalità che difendere una carrett
 
 di rivoluzioni. La sua concezione davvero sana ed essenziale della Libertà,
 
-  "Volgendo a scherno con labbra divine
+"Volgendo a scherno con labbra divine
 
-  la falsità degli estremi",
+la falsità degli estremi",
 
 è una definizione del liberalismo buona quanto ogni altra sia stata pronunciata in poesia nel
 
@@ -9691,7 +9691,7 @@ come ogni poeta, egli fu l'apostolo della santità delle parole.
 
 
 
-<span class="atom-split" data-atom="story_16_elizabeth_barrett_browning" data-title="VariedTypes — Elizabeth Barrett Browning" data-chapter="Story 16 Elizabeth Barrett Browning" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_elizabeth_barrett_browning" data-title="VariedTypes — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
 
 
 ELIZABETH BARRETT BROWNING
@@ -9736,9 +9736,9 @@ really abandoned herself with the valour and decision of an anchorite
 
 abandoning the world. Such a couplet as:
 
-  "Our Euripides, the human,
+"Our Euripides, the human,
 
-  With his dropping of warm [[Tears|tears]],"
+With his dropping of warm [[Tears|tears]],"
 
 gives to most of us a sickly and nauseous sensation. Nothing can be [[Well|well]]
 
@@ -9788,15 +9788,15 @@ curse of the Elizabethans is upon her, that she cannot leave anything
 
 [[Alone|alone]], she cannot write a single line without a conceit:
 
-  "And the eyes of the peacock fans
+"And the eyes of the peacock fans
 
-  Winked at the alien glory,"
+Winked at the alien glory,"
 
 she said of the Papal fans in the presence of the Italian tricolour:
 
-  "And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
+"And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
 
-  And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
+And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
 
 is her description of a beautiful and aristocratic lady. The notion of
 
@@ -10015,9 +10015,9 @@ si abbandonava davvero con il valore e la decisione di un anacoreta
 
 che abbandona il mondo. Un distico come:
 
-  "Il nostro Euripide, l'umano,
+"Il nostro Euripide, l'umano,
 
-  Con il suo stillare di calde [[Tears|lacrime]],"
+Con il suo stillare di calde [[Tears|lacrime]],"
 
 dà ai più di noi una sensazione stucchevole e nauseante. Nulla si può [[Well|bene]]
 
@@ -10067,15 +10067,15 @@ maledizione degli elisabettiani grava su di lei: non sa lasciare nulla
 
 [[Alone|in pace]], non sa scrivere un solo verso senza un concetto arguto:
 
-  "E gli occhi dei ventagli di pavone
+"E gli occhi dei ventagli di pavone
 
-  Ammiccarono all'estranea gloria,"
+Ammiccarono all'estranea gloria,"
 
 disse dei ventagli papali in presenza del tricolore italiano:
 
-  "E un regale [[Blood|sangue]] manda sguardi a turbare il suo occhio principesco,
+"E un regale [[Blood|sangue]] manda sguardi a turbare il suo occhio principesco,
 
-  E l'[[Shadow|ombra]] della [[Crown|corona]] d'un monarca s'addolcisce nei suoi capelli,"
+E l'[[Shadow|ombra]] della [[Crown|corona]] d'un monarca s'addolcisce nei suoi capelli,"
 
 è la sua descrizione di una bella e aristocratica dama. L'idea di
 
@@ -10251,7 +10251,7 @@ il colore di una [[City|città]] italiana o l'[[Soul|anima]] di un silenzioso vi
 
 
 
-<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_01" data-title="VariedTypes — William Morris And His School (part 1)" data-chapter="Story 03 William Morris And His School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_01" data-title="VariedTypes — William Morris And His School (part 1)" data-chapter="William Morris And His School" data-kind="excerpt"></span>
 
 
 WILLIAM MORRIS AND HIS SCHOOL
@@ -10425,7 +10425,7 @@ family in England has had its taste cunningly and treacherously
 
 
 
-<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_02" data-title="VariedTypes — William Morris And His School (part 2)" data-chapter="Story 03 William Morris And His School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_02" data-title="VariedTypes — William Morris And His School (part 2)" data-chapter="William Morris And His School" data-kind="excerpt"></span>
 
 
 improved, and if we look back at the early Victorian drawing-rooms it is
@@ -10613,7 +10613,7 @@ greyness of [[Death|death]], but the greyness of [[Dawn|dawn]].
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_01" data-title="VariedTypes — Optimism Of Byron (part 1)" data-chapter="Story 04 Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_01" data-title="VariedTypes — Optimism Of Byron (part 1)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
 
 
 OPTIMISM OF BYRON
@@ -10789,7 +10789,7 @@ not upon the fact that they blamed everything, but upon the fact that
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_02" data-title="VariedTypes — Optimism Of Byron (part 2)" data-chapter="Story 04 Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_02" data-title="VariedTypes — Optimism Of Byron (part 2)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
 
 
 they praised something. They heaped curses upon man, but they used man
@@ -10902,13 +10902,13 @@ in a [[spring]] morning when all the limbs are swinging and all the [[Blood|bloo
 
 alive in the [[Body|body]], the lips may be caught repeating:
 
-  "Oh, there's not a joy the world can give like that it takes away,
+"Oh, there's not a joy the world can give like that it takes away,
 
-  When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
+When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
 
-  'Tis not upon the cheek of youth the blush that fades so fast,
+'Tis not upon the cheek of youth the blush that fades so fast,
 
-  But the tender bloom of heart is gone ere youth itself be past."
+But the tender bloom of heart is gone ere youth itself be past."
 
 That automatic recitation is the answer to the whole pessimism of Byron.
 
@@ -10965,7 +10965,7 @@ out of a hat without having learnt to be a conjuror. Therefore, it may
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_03" data-title="VariedTypes — Optimism Of Byron (part 3)" data-chapter="Story 04 Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_03" data-title="VariedTypes — Optimism Of Byron (part 3)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
 
 
 be submitted, there was a certain discipline in the old antithetical
@@ -10982,7 +10982,7 @@ at least a [[Fool|fool]] could not be a poet. If we take, for the sake of
 
 example, such a line as Pope's:
 
-  "Damn with faint praise, assent with civil leer,"
+"Damn with faint praise, assent with civil leer,"
 
 the test is comparatively simple. A great poet would not have written
 
@@ -10992,7 +10992,7 @@ Supposing that a [[Lyric|lyric]] poet of the new school really had to deal with
 
 such an idea as that expressed in Pope's line about Man:
 
-  "A being darkly wise and rudely great,"
+"A being darkly wise and rudely great,"
 
 Is it really so certain that he would go deeper into the matter than
 
@@ -11004,29 +11004,29 @@ The one thing that he would really be, would be longer. Instead of
 
 writing,
 
-  "A being darkly wise and rudely great,"
+"A being darkly wise and rudely great,"
 
 the contemporary poet, in his elaborately ornamented book of verses,
 
 would produce something like the following:
 
-  "A creature
+"A creature
 
-  Of feature
+Of feature
 
-  More dark, more dark, more dark than skies,
+More dark, more dark, more dark than skies,
 
-  Yea, darkly wise, yea, darkly wise:
+Yea, darkly wise, yea, darkly wise:
 
-  Darkly wise as a formless fate.
+Darkly wise as a formless fate.
 
-  And if he be great,
+And if he be great,
 
-  If he be great, then rudely great,
+If he be great, then rudely great,
 
-  Rudely great as a plough that plies,
+Rudely great as a plough that plies,
 
-  And darkly wise, and darkly wise."
+And darkly wise, and darkly wise."
 
 Have we really learnt to think more broadly? Or have we only learnt to
 
@@ -11155,7 +11155,7 @@ ever touches; that is the man against whom it is directed. The one
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_04" data-title="VariedTypes — Optimism Of Byron (part 4)" data-chapter="Story 04 Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_04" data-title="VariedTypes — Optimism Of Byron (part 4)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
 
 
 person for whom the whole [[Satire|satire]] has been written in vain is the man
@@ -11196,11 +11196,11 @@ splendid and spirited account of the insane valour and inspired cunning
 
 of the
 
-  "daring pilot in extremity,"
+"daring pilot in extremity,"
 
 who was more untrustworthy in calm than in [[Storm|storm]], and
 
-  "Steered too near the rocks to boast his wit."
+"Steered too near the rocks to boast his wit."
 
 The whole is, so far as it goes, a sound and picturesque version of the
 
@@ -11294,15 +11294,15 @@ have said, go quietly and read Pope's "Atticus," they would see how a
 
 great satirist approaches a great enemy:
 
-  "Peace to all such! But were there one whose fires
+"Peace to all such! But were there one whose fires
 
-  True genius kindles, and fair fame inspires,
+True genius kindles, and fair fame inspires,
 
-  Blest with each talent, and each art to please,
+Blest with each talent, and each art to please,
 
-  And born to write, converse, and live with ease.
+And born to write, converse, and live with ease.
 
-  Should such a man--"
+Should such a man--"
 
 And then follows the torrent of that terrible criticism. Pope was not
 
@@ -11320,21 +11320,21 @@ everlasting colours he painted the picture of the evil of the literary
 
 temperament:
 
-  "Bear, like the Turk, no brother near the throne,
+"Bear, like the Turk, no brother near the throne,
 
-  View him with scornful, yet with jealous eyes,
+View him with scornful, yet with jealous eyes,
 
-  And hate for arts that caused himself to rise.
+And hate for arts that caused himself to rise.
 
-         *       *       *       *       *
+*       *       *       *       *
 
-  Like Cato give his little Senate laws,
+Like Cato give his little Senate laws,
 
-  And sit attentive to his own applause.
+And sit attentive to his own applause.
 
-  While wits and templars every sentence raise,
+While wits and templars every sentence raise,
 
-  And [[Wonder|wonder]] with a foolish face of praise."
+And [[Wonder|wonder]] with a foolish face of praise."
 
 This is the kind of thing which really goes to the mark at which it
 
@@ -11393,11 +11393,11 @@ splendido e vivace ritratto del valore folle e dell'astuzia ispirata
 
 dell'
 
-  "pilota audace nell'estremo pericolo,"
+"pilota audace nell'estremo pericolo,"
 
 che era più infido nella bonaccia che nella [[Storm|tempesta]], e
 
-  "Sterzò troppo vicino agli scogli per vantare il suo ingegno."
+"Sterzò troppo vicino agli scogli per vantare il suo ingegno."
 
 Il tutto è, per quanto vale, una versione fondata e pittoresca del
 
@@ -11491,15 +11491,15 @@ ho detto, andare tranquillamente a leggere l'«Attico» di Pope, vedrebbero come
 
 grande satirico si accosta a un grande nemico:
 
-  "Pace a tutti costoro! Ma se vi fosse uno i cui fuochi
+"Pace a tutti costoro! Ma se vi fosse uno i cui fuochi
 
-    vero genio accende, e bella fama ispira,
+vero genio accende, e bella fama ispira,
 
-    benedetto d'ogni talento, e d'ogni arte del piacere,
+benedetto d'ogni talento, e d'ogni arte del piacere,
 
-    e nato per scrivere, conversare e vivere con agio.
+e nato per scrivere, conversare e vivere con agio.
 
-  Dovesse un tal uomo—"
+Dovesse un tal uomo—"
 
 E poi segue il torrente di quella terribile critica. Pope non era
 
@@ -11517,21 +11517,21 @@ eterni colori dipinse il quadro del male del temperamento
 
 letterario:
 
-  "Non tollerare, come il Turco, alcun fratello presso il trono,
+"Non tollerare, come il Turco, alcun fratello presso il trono,
 
-    guardarlo con occhi sprezzanti, eppure gelosi,
+guardarlo con occhi sprezzanti, eppure gelosi,
 
-    e odiare per le arti che innalzarono lui stesso.
+e odiare per le arti che innalzarono lui stesso.
 
-         *       *       *       *       *
+*       *       *       *       *
 
-    Come Catone dettare leggi al suo piccolo Senato,
+Come Catone dettare leggi al suo piccolo Senato,
 
-    e sedere attento al proprio applauso.
+e sedere attento al proprio applauso.
 
-    Mentre gli arguti e i templari esaltano ogni frase,
+Mentre gli arguti e i templari esaltano ogni frase,
 
-  e si [[Wonder|meravigliano]] con sciocca faccia di lode."
+e si [[Wonder|meravigliano]] con sciocca faccia di lode."
 
 Questo è il genere di cosa che davvero colpisce il segno a cui
 
@@ -11551,7 +11551,7 @@ meriti, non possiamo nemmeno fargli del male.
 
 
 
-<span class="atom-split" data-atom="story_05_francis--part_01" data-title="VariedTypes — Francis (part 1)" data-chapter="Story 05 Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_francis--part_01" data-title="VariedTypes — Francis (part 1)" data-chapter="Francis" data-kind="excerpt"></span>
 
 
 FRANCIS
@@ -11590,13 +11590,13 @@ any other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-  "A book of verses underneath the bough,
+"A book of verses underneath the bough,
 
-  A loaf of bread, a jug of wine, and thou
+A loaf of bread, a jug of wine, and thou
 
-  Beside me singing in the wilderness--
+Beside me singing in the wilderness--
 
-  O wilderness were Paradise enow."
+O wilderness were Paradise enow."
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -11608,13 +11608,13 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-  "From quiet [[Home|home]] and first beginning
+"From quiet [[Home|home]] and first beginning
 
-    Out to the undiscovered ends--
+Out to the undiscovered ends--
 
-  There's nothing worth the wear of winning
+There's nothing worth the wear of winning
 
-    But laughter and the [[Love|love]] of friends."
+But laughter and the [[Love|love]] of friends."
 
 Here we have a perfect example of the main important fact, that all true
 
@@ -11765,13 +11765,13 @@ qualunque altra cosa si voglia elencare sono superflue. Quando Omar
 
 Khayyam dice:
 
-  "Un libro di versi sotto il ramo,
+"Un libro di versi sotto il ramo,
 
-  una pagnotta, una brocca di vino, e tu
+una pagnotta, una brocca di vino, e tu
 
-  accanto a me che canti nel deserto—
+accanto a me che canti nel deserto—
 
-  oh, il deserto sarebbe già Paradiso."
+oh, il deserto sarebbe già Paradiso."
 
 È chiaro che egli parla in tono tanto ascetico quanto
 
@@ -11783,13 +11783,13 @@ moltiplicarsi cento volte. Uno dei più genuinamente poetici dei nostri
 
 poeti più giovani dice, come l'unica cosa certa, che
 
-  "Dalla quieta [[Home|casa]] e dal primo inizio
+"Dalla quieta [[Home|casa]] e dal primo inizio
 
-      verso i confini inesplorati —
+verso i confini inesplorati —
 
-    nulla vale la fatica del conquistare
+nulla vale la fatica del conquistare
 
-    se non il riso e l'[[Love|amore]] degli amici."
+se non il riso e l'[[Love|amore]] degli amici."
 
 Qui abbiamo un esempio perfetto del fatto principale e importante, che ogni vera
 
@@ -11903,7 +11903,7 @@ il tono di un libro devozionale. Un libro devozionale è cosa eccellente,
 
 
 
-<span class="atom-split" data-atom="story_05_francis--part_02" data-title="VariedTypes — Francis (part 2)" data-chapter="Story 05 Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_francis--part_02" data-title="VariedTypes — Francis (part 2)" data-chapter="Francis" data-kind="excerpt"></span>
 
 
 but we do not look in it for the portrait of a man, for the same reason
@@ -12279,7 +12279,7 @@ i lineamenti di un nuovo amico.
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="VariedTypes — Charles Ii (part 1)" data-chapter="Story 07 Charles Ii" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="VariedTypes — Charles II (part 1)" data-chapter="Charles II" data-kind="excerpt"></span>
 
 
 CHARLES II
@@ -12627,7 +12627,7 @@ cosa senza nome, ignorata dai codici logici. La cortesia ha in verità in sé
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="VariedTypes — Charles Ii (part 2)" data-chapter="Story 07 Charles Ii" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="VariedTypes — Charles II (part 2)" data-chapter="Charles II" data-kind="excerpt"></span>
 
 
 something mystical; like religion, it is everywhere understood and
@@ -12971,7 +12971,7 @@ enumerare e ordinare tutta l'opera del maestro e distribuire lode e biasimo
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="VariedTypes — Charles Ii (part 3)" data-chapter="Story 07 Charles Ii" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="VariedTypes — Charles II (part 3)" data-chapter="Charles II" data-kind="excerpt"></span>
 
 
 with decision and even severity, without ever thinking for a moment of
@@ -13315,7 +13315,7 @@ in ciascun campo, ma per far ogni cosa troppo [[Well|bene]] in ciascun campo. Co
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_04" data-title="VariedTypes — Charles Ii (part 4)" data-chapter="Story 07 Charles Ii" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_04" data-title="VariedTypes — Charles II (part 4)" data-chapter="Charles II" data-kind="excerpt"></span>
 
 
 pirate, or Puritan, his disguises were so good that most people could
@@ -13475,7 +13475,7 @@ Baildon. Chatto & Windus.
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_01" data-title="VariedTypes — Thomas Carlyle (part 1)" data-chapter="Story 08 Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_01" data-title="VariedTypes — Thomas Carlyle (part 1)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
 
 
 THOMAS CARLYLE
@@ -13811,7 +13811,7 @@ La loro colpa è che, per un'inevitabile abitudine psicologica, tendono a
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_02" data-title="VariedTypes — Thomas Carlyle (part 2)" data-chapter="Story 08 Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_02" data-title="VariedTypes — Thomas Carlyle (part 2)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
 
 
 forget that there are two parts of a logical process, the first the
@@ -13852,7 +13852,7 @@ start, and regards man as an animal who has preferences, as a bird has
 
 feathers.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 Thus it was with Carlyle: he startled men by attacking not arguments,
 
@@ -13985,7 +13985,7 @@ to-day seems obliged to prove that gout and unrequited [[Love|love]] make him
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_03" data-title="VariedTypes — Thomas Carlyle (part 3)" data-chapter="Story 08 Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_03" data-title="VariedTypes — Thomas Carlyle (part 3)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
 
 
 [[Dance|dance]] with joy, and the pessimist of to-day to prove that sunshine and a
@@ -14329,7 +14329,7 @@ assai inefficaci baionette del Ministero della Guerra britannico. È naturale, s
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_04" data-title="VariedTypes — Thomas Carlyle (part 4)" data-chapter="Story 08 Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_04" data-title="VariedTypes — Thomas Carlyle (part 4)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
 
 
 to the Jingo, for a man to kill other people with gunpowder and himself
@@ -14418,13 +14418,13 @@ truest sense. It was born of an almost babyish receptiveness; it was the
 
 work of men who had eyes to [[Wonder|wonder]] and men who had ears to hear.
 
-  "[[King]] Solomon brought merchant men
+"[[King]] Solomon brought merchant men
 
-    Because of his [[Desire|desire]]
+Because of his [[Desire|desire]]
 
-  With peacocks, apes, and ivory,
+With peacocks, apes, and ivory,
 
-    From Tarshish unto Tyre."
+From Tarshish unto Tyre."
 
 But this proceeding was not a part of the wisdom of Solomon; it was a
 
@@ -14587,13 +14587,13 @@ senso più vero. Nacque da una ricettività quasi infantile; fu l'
 
 opera di uomini che avevano occhi per [[Wonder|meravigliarsi]] e uomini che avevano orecchi per udire.
 
-  "[[King|Re]] Salomone fece venire i mercanti
+"[[King|Re]] Salomone fece venire i mercanti
 
-    Per via del suo [[Desire|desiderio]]
+Per via del suo [[Desire|desiderio]]
 
-  Con pavoni, scimmie e avorio,
+Con pavoni, scimmie e avorio,
 
-    Da Tarsis fino a Tiro."
+Da Tarsis fino a Tiro."
 
 Ma questo procedere non era parte della saggezza di Salomone; era
 
@@ -14669,7 +14669,7 @@ che abita un angolo di un uomo grande e buono.
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_05" data-title="VariedTypes — Thomas Carlyle (part 5)" data-chapter="Story 08 Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_05" data-title="VariedTypes — Thomas Carlyle (part 5)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
 
 
 It is difficult in every case to reconcile [[tolstoy|Tolstoy]] the great [[artist]] with
@@ -14780,13 +14780,13 @@ the bovine stupidity and bovine fury of this world is accurately summed
 
 up in the celebrated verse of Mr. Edward Lear:
 
-  "There was an old man who said, 'How
+"There was an old man who said, 'How
 
-  Shall I flee from this terrible cow?
+Shall I flee from this terrible cow?
 
-  I will sit on a stile and continue to smile
+I will sit on a stile and continue to smile
 
-  Till I soften the heart of this cow.'"
+Till I soften the heart of this cow.'"
 
 Their confidence in human [[Nature|nature]] is really honourable and magnificent;
 
@@ -14953,13 +14953,13 @@ la bovina stupidità e la bovina furia di questo mondo è accuratamente riassunt
 
 nel celebre verso del signor Edward Lear:
 
-  "C'era un vecchio che disse: 'Come
+"C'era un vecchio che disse: 'Come
 
-  potrò fuggire da questa terribile mucca?
+potrò fuggire da questa terribile mucca?
 
-  Siederò su una staccionata e seguiterò a sorridere
+Siederò su una staccionata e seguiterò a sorridere
 
-  finché non intenerisca il cuore di questa mucca.'"
+finché non intenerisca il cuore di questa mucca.'"
 
 La loro fiducia nella [[Nature|natura]] umana è davvero onorevole e magnifica;
 
@@ -15017,7 +15017,7 @@ Ragnarok, un crepuscolo degli dèi. L'uomo del diciannovesimo secolo,
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_06" data-title="VariedTypes — Thomas Carlyle (part 6)" data-chapter="Story 08 Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_06" data-title="VariedTypes — Thomas Carlyle (part 6)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
 
 
 like a schoolboy of sixteen, believes that his [[Doubt|doubt]] and depression are
@@ -15429,7 +15429,7 @@ sole si oscurò in pieno mezzogiorno.
 
 
 
-<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_01" data-title="VariedTypes — The Position Of Sir Walter Scott (part 1)" data-chapter="Story 10 The Position Of Sir Walter Scott" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_01" data-title="VariedTypes — The Position Of Sir Walter Scott (part 1)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
 
 
 THE POSITION OF SIR WALTER SCOTT
@@ -15765,7 +15765,7 @@ Roy intrappolato nella Tolbooth, e messo di fronte al balivo Nicol Jarvie,
 
 
 
-<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_02" data-title="VariedTypes — The Position Of Sir Walter Scott (part 2)" data-chapter="Story 10 The Position Of Sir Walter Scott" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_02" data-title="VariedTypes — The Position Of Sir Walter Scott (part 2)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
 
 
 draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the dazzling
@@ -16093,7 +16093,7 @@ di disprezzare uno qualsiasi dei suoi personaggi. Non sdegnava il più ripugnant
 
 
 
-<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_03" data-title="VariedTypes — The Position Of Sir Walter Scott (part 3)" data-chapter="Story 10 The Position Of Sir Walter Scott" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_03" data-title="VariedTypes — The Position Of Sir Walter Scott (part 3)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
 
 
 miscreant as the realist of to-day commonly scorns his own [[Hero|hero]]. Though
@@ -16533,7 +16533,7 @@ confuso e indifendibile e ispirante e sano quanto lui.
 
 
 
-<span class="atom-split" data-atom="story_11_bret_harte--part_01" data-title="VariedTypes — Bret Harte (part 1)" data-chapter="Story 11 Bret Harte" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_bret_harte--part_01" data-title="VariedTypes — Bret Harte (part 1)" data-chapter="Bret Harte" data-kind="excerpt"></span>
 
 
 BRET HARTE
@@ -16865,7 +16865,7 @@ aveva un reale potere di imitare i grandi autori, come nelle sue parodie su
 
 
 
-<span class="atom-split" data-atom="story_11_bret_harte--part_02" data-title="VariedTypes — Bret Harte (part 2)" data-chapter="Story 11 Bret Harte" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_bret_harte--part_02" data-title="VariedTypes — Bret Harte (part 2)" data-chapter="Bret Harte" data-kind="excerpt"></span>
 
 
 Dumas, on Victor Hugo, on Charlotte Brontë. This means, and can only
@@ -16928,19 +16928,19 @@ which we find in most [[Parody|parody]]--which we find in all American [[Parody|
 
 which we never find in the parodies of Bret Harte.
 
-  "The skies they were ashen and sober,
+"The skies they were ashen and sober,
 
-  The streets they were dirty and drear,
+The streets they were dirty and drear,
 
-  It was the dark month of October,
+It was the dark month of October,
 
-  In that most immemorial year.
+In that most immemorial year.
 
-  Like the skies, I was perfectly sober,
+Like the skies, I was perfectly sober,
 
-  But my thoughts they were palsied and sear,
+But my thoughts they were palsied and sear,
 
-  Yes, my thoughts were decidedly queer."
+Yes, my thoughts were decidedly queer."
 
 This could only be written by a genuine admirer of [[Edgar]] Allan Poe, who
 
@@ -17105,19 +17105,19 @@ che troviamo nella maggior parte della [[Parody|parodia]], che troviamo in tutta
 
 che non troviamo mai nelle parodie di Bret Harte.
 
-  "I cieli erano cinerei e sobri,
+"I cieli erano cinerei e sobri,
 
-  le vie erano lorde e desolate,
+le vie erano lorde e desolate,
 
-  era il fosco mese d'ottobre,
+era il fosco mese d'ottobre,
 
-  in quell'anno più immemore che ci sia.
+in quell'anno più immemore che ci sia.
 
-  Come i cieli, io ero perfettamente sobrio,
+Come i cieli, io ero perfettamente sobrio,
 
-  ma i miei pensieri erano paralizzati e aridi,
+ma i miei pensieri erano paralizzati e aridi,
 
-  sì, i miei pensieri erano decisamente strani."
+sì, i miei pensieri erano decisamente strani."
 
 Questo poteva essere scritto solo da un genuino ammiratore di [[Edgar]] Allan Poe, che
 
@@ -17221,7 +17221,7 @@ viste di peggio là dentro."
 
 
 
-<span class="atom-split" data-atom="story_11_bret_harte--part_03" data-title="VariedTypes — Bret Harte (part 3)" data-chapter="Story 11 Bret Harte" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_bret_harte--part_03" data-title="VariedTypes — Bret Harte (part 3)" data-chapter="Bret Harte" data-kind="excerpt"></span>
 
 
 To be rebuked thus is like being rebuked by the Pyramids or by the
@@ -17577,7 +17577,7 @@ ancora più raro, raro fino alla mostruosità, trovare un uomo che non
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_01" data-title="VariedTypes — Maeterlinck (part 1)" data-chapter="Story 13 Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_01" data-title="VariedTypes — Maeterlinck (part 1)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
 
 
 MAETERLINCK
@@ -17921,7 +17921,7 @@ qualsiasi cosa. Può essere [[A Dream|un sogno]], può essere uno scherzo, può 
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_02" data-title="VariedTypes — Maeterlinck (part 2)" data-chapter="Story 13 Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_02" data-title="VariedTypes — Maeterlinck (part 2)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
 
 
 thing of which we are certain is this human [[Soul|soul]]. This human [[Soul|soul]] finds
@@ -18265,7 +18265,7 @@ testa contro quel soffitto per vent'anni non abbia migliorato il temperamento de
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_03" data-title="VariedTypes — Maeterlinck (part 3)" data-chapter="Story 13 Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_03" data-title="VariedTypes — Maeterlinck (part 3)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
 
 
 pictures--"an opening into [[Eternity|eternity]]."
@@ -18613,7 +18613,7 @@ spetta il merito di aver inventato un nuovo genere di monarchia; in cui la
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_04" data-title="VariedTypes — Maeterlinck (part 4)" data-chapter="Story 13 Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_04" data-title="VariedTypes — Maeterlinck (part 4)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
 
 
 [[Crown]], by relinquishing the whole of that political and legal department

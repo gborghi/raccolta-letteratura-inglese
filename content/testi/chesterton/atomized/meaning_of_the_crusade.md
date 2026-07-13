@@ -16,9 +16,9 @@ tags:
 
 The Meaning of the Crusade
 
-		 By G.K. Chesterton 
+By G.K. Chesterton 
 
-	   From "The New Jerusalem" 1920
+From "The New Jerusalem" 1920
 
 There are three examples of Western work on the great eastern slope
 of the Mount of Olives; and they form a sort of triangle illustrating
@@ -748,9 +748,9 @@ upon the wall of Jerusalem.
 
 The Meaning of the Crusade
 
-		 By G.K. Chesterton 
+By G.K. Chesterton 
 
-	   From "The New Jerusalem" 1920
+From "The New Jerusalem" 1920
 
 There are three examples of Western work on the great eastern slope
 of the Mount of Olives; and they form a sort of triangle illustrating
@@ -884,9 +884,9 @@ upon the [[Hill|hill]].
 
 Il significato della Crociata
 
-		 Di G.K. Chesterton 
+Di G.K. Chesterton 
 
-	   Da "The New Jerusalem" 1920
+Da "The New Jerusalem" 1920
 
 Vi sono tre esempi di opera occidentale sul grande pendio orientale del Monte degli Ulivi; ed essi formano una sorta di triangolo che illustra la [[Truth|verità]] intorno alle diverse influenze dell'Occidente sull'Oriente. Ai piedi del [[Hill|colle]] sta il [[Garden|giardino]] tenuto dai francescani sul presunto sito del Getsemani, e che racchiude il canuto olivo che si suppone sia il terribile albero dell'agonia di [[Christ|Cristo]]. Data la grande età e la lenta crescita degli olivi, la tradizione non è tanto irragionevole quanto alcuni potrebbero credere. Ma che sia o no storicamente giusta, essa non è artisticamente sbagliata. L'istinto, se era soltanto un istinto, che spinse gli uomini a fissarsi su questa strana crescita di legno grigio e contorto, era un vero istinto immaginativo. Una delle strane qualità di questo strano albero meridionale è la sua durezza quasi sconcertante; colpire accidentalmente il ramo di un olivo è come colpire la roccia. Con la sua superficie petrosa, la statura stentata, e i suoi strani fori e cavità, esso somiglia spesso più a una grotta che a un albero. Perciò non pare tanto innaturale che venga trattato come una santa grotta; o che questa strana vegetazione pretenda di ergersi per sempre come un monumento scolpito. Persino lo scintillante o tremulo fogliame argenteo dell'olivo vivente potrebbe [[Well|bene]] avere una leggenda come quella del pioppo tremulo; come se fosse ingrigito di [[Fear|paura]] dinanzi all'apocalittico [[Paradox|paradosso]] di una divina visione di [[Death|morte]]. Un [[Child|bambino]] di uno dei villaggi mi disse, in inglese stentato, che era il luogo dove Dio diceva le sue preghiere. Io per primo non saprei chiedere un'affermazione più bella o più fiera di tutto ciò che separa il cristiano dal musulmano o dall'ebreo; <credo quia impossibile>.
 

@@ -17,13 +17,13 @@ tags:
 Transcribed from the 1867/68 Chapman and Hall_ Works of Charles Dickens_,
 _Volume_ 4, _Christmas Books_ by David Price, email ccx074@pglaf.org
 
-                   [Picture: Public domain book cover]
+[Picture: Public domain book cover]
 
 
 
 
 
-                            THE BATTLE OF LIFE
+THE BATTLE OF LIFE
 
 
 Part the First
@@ -1389,7 +1389,7 @@ replying in the affirmative, Mr. Snitchey suited the action to the word,
 and they groped their way out of the council-chamber, now dark as the
 subject, or the law in general.
 
-                                * * * * *
+* * * * *
 
 My story passes to a quiet little study, where, on that same [[Night|night]], the
 sisters and the hale old Doctor sat by a cheerful fireside.  Grace was
@@ -2942,7 +2942,7 @@ jack—with a dreadful click every now and then as if it had met with some
 mortal accident to its head, in a fit of giddiness—and all the other
 preparations in the kitchen for their dinner.
 
-                                * * * * *
+* * * * *
 
 To-morrow was a bright and peaceful day; and nowhere were the [[Autumn|autumn]]
 tints more beautifully seen, than from the quiet orchard of the Doctor’s
@@ -3288,7 +3288,7 @@ Battle-Fields; and it is a world we need be careful how we libel, Heaven
 forgive us, for it is a world of sacred mysteries, and its Creator only
 knows what lies beneath the surface of His lightest image!’
 
-                                * * * * *
+* * * * *
 
 You would not be the better pleased with my rude pen, if it dissected and
 laid open to your view the transports of this family, long severed and
@@ -3421,7 +3421,7 @@ supplication for [[Forgiveness|forgiveness]], when I knew her merit and my deep
 unworthiness.  In a few days I shall quit this place for ever.  I entreat
 your pardon.  Do as you would be done by!  Forget and Forgive!’
 
-                                * * * * *
+* * * * *
 
 [[Time|TIME]]—from whom I had the latter portion of this story, and with whom I
 have the pleasure of a personal acquaintance of some five-and-thirty
@@ -4864,7 +4864,7 @@ replying in the affirmative, Mr. Snitchey suited the action to the word,
 and they groped their way out of the council-chamber, now dark as the
 subject, or the law in general.
 
-                                * * * * *
+* * * * *
 
 My story passes to a quiet little study, where, on that same [[Night|night]], the
 sisters and the hale old Doctor sat by a cheerful fireside.  Grace was
@@ -6486,7 +6486,7 @@ jack—with a dreadful click every now and then as if it had met with some
 mortal accident to its head, in a fit of giddiness—and all the other
 preparations in the kitchen for their dinner.
 
-                                * * * * *
+* * * * *
 
 To-morrow was a bright and peaceful day; and nowhere were the [[Autumn|autumn]]
 tints more beautifully seen, than from the quiet orchard of the Doctor’s
@@ -6850,7 +6850,7 @@ Battle-Fields; and it is a world we need be careful how we libel, Heaven
 forgive us, for it is a world of sacred mysteries, and its Creator only
 knows what lies beneath the surface of His lightest image!’
 
-                                * * * * *
+* * * * *
 
 You would not be the better pleased with my rude pen, if it dissected and
 laid open to your view the transports of this family, long severed and
@@ -6989,7 +6989,7 @@ supplication for [[Forgiveness|forgiveness]], when I knew her merit and my deep
 unworthiness.  In a few days I shall quit this place for ever.  I entreat
 your pardon.  Do as you would be done by!  Forget and Forgive!’
 
-                                * * * * *
+* * * * *
 
 [[Time|TIME]]—from whom I had the latter portion of this story, and with whom I
 have the pleasure of a personal acquaintance of some five-and-thirty

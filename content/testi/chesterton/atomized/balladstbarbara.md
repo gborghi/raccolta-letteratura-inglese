@@ -26,7 +26,7 @@ with this eBook or online at www.gutenberg.org
 
 Title: The Ballad of St. Barbara  
 
-       And Other Verses  
+And Other Verses  
 
 Author: Gilbert Keith Chesterton  
 
@@ -46,2751 +46,2751 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)  
 
-                       The Ballad of St. Barbara  
+The Ballad of St. Barbara  
 
-                           AND OTHER VERSES  
+AND OTHER VERSES  
 
-                                  BY  
+BY  
 
-                       GILBERT KEITH CHESTERTON  
+GILBERT KEITH CHESTERTON  
 
-                                [[London|LONDON]]  
+[[London|LONDON]]  
 
-                             CECIL PALMER  
+CECIL PALMER  
 
-                 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
 
-                                 FIRST  
+FIRST  
 
-                                EDITION  
+EDITION  
 
-                                 1922  
+1922  
 
-                               COPYRIGHT  
+COPYRIGHT  
 
-    TO F. C. IN MEMORIAM PALESTINE, '19  
+TO F. C. IN MEMORIAM PALESTINE, '19  
 
-    Do you remember one immortal  
+Do you remember one immortal  
 
-    Lost moment out of [[Time|time]] and space,  
+Lost moment out of [[Time|time]] and space,  
 
-    What [[Time|time]] we thought, who passed the portal  
+What [[Time|time]] we thought, who passed the portal  
 
-    Of that divine disastrous place  
+Of that divine disastrous place  
 
-    Where Life was slain and [[Truth]] was slandered  
+Where Life was slain and [[Truth]] was slandered  
 
-    On that one holier [[Hill|hill]] than Rome,  
+On that one holier [[Hill|hill]] than Rome,  
 
-    How far abroad our bodies wandered  
+How far abroad our bodies wandered  
 
-    That evening when our souls came [[Home|home]]?  
+That evening when our souls came [[Home|home]]?  
 
-    The mystic [[City|city]] many-gated,  
+The mystic [[City|city]] many-gated,  
 
-    With monstrous columns, was your own:  
+With monstrous columns, was your own:  
 
-    Herodian stones fell down and waited  
+Herodian stones fell down and waited  
 
-    Two thousand years to be your throne.  
+Two thousand years to be your throne.  
 
-    In the grey rocks the burning blossom  
+In the grey rocks the burning blossom  
 
-    Glowed terrible as the sacred [[Blood|blood]]:  
+Glowed terrible as the sacred [[Blood|blood]]:  
 
-    It was no stranger to your bosom  
+It was no stranger to your bosom  
 
-    Than bluebells of an English wood.  
+Than bluebells of an English wood.  
 
-    Do you remember a [[Road|road]] that follows  
+Do you remember a [[Road|road]] that follows  
 
-    The way of unforgotten feet,  
+The way of unforgotten feet,  
 
-    Where from the waste of rocks and hollows  
+Where from the waste of rocks and hollows  
 
-    Climb up the crawling crooked street  
+Climb up the crawling crooked street  
 
-    The stages of one towering drama  
+The stages of one towering drama  
 
-    Always ahead and out of sight ...  
+Always ahead and out of sight ...  
 
-    Do you remember Aceldama  
+Do you remember Aceldama  
 
-    And the jackal barking in the [[Night|night]]?  
+And the jackal barking in the [[Night|night]]?  
 
-    Life is not void or stuff for scorners:  
+Life is not void or stuff for scorners:  
 
-    We have laughed loud and kept our [[Love|love]],  
+We have laughed loud and kept our [[Love|love]],  
 
-    We have heard singers in tavern corners  
+We have heard singers in tavern corners  
 
-    And not forgotten the [[Birds|birds]] above:  
+And not forgotten the [[Birds|birds]] above:  
 
-    We have known smiters and sons of thunder  
+We have known smiters and sons of thunder  
 
-    And not unworthily walked with them,  
+And not unworthily walked with them,  
 
-    We have grown wiser and lost not [[Wonder|wonder]];  
+We have grown wiser and lost not [[Wonder|wonder]];  
 
-    And we have seen Jerusalem.  
+And we have seen Jerusalem.  
 
-    CONTENTS  
+CONTENTS  
 
-                                                  PAGE  
+PAGE  
 
-    To F. C. In Memoriam Palestine, '19            vii  
+To F. C. In Memoriam Palestine, '19            vii  
 
-    The Ballad of St. Barbara                        1  
+The Ballad of St. Barbara                        1  
 
-    [[elegy|Elegy]] in a Country Churchyard                   13  
+[[elegy|Elegy]] in a Country Churchyard                   13  
 
-    The [[Sword]] of Surprise                           14  
+The [[Sword]] of Surprise                           14  
 
-    A Wedding in War-[[Time|time]]                           15  
+A Wedding in War-[[Time|time]]                           15  
 
-    The Mystery                                     18  
+The Mystery                                     18  
 
-    "The Myth of [[Arthur]]"                            19  
+"The Myth of [[Arthur]]"                            19  
 
-    The Old [[Song]]                                    20  
+The Old [[Song]]                                    20  
 
-    The Trinkets                                    24  
+The Trinkets                                    24  
 
-    The Philanthropist                              26  
+The Philanthropist                              26  
 
-    On the Downs                                    27  
+On the Downs                                    27  
 
-    The Red Sea                                     30  
+The Red Sea                                     30  
 
-    For a War Memorial                              32  
+For a War Memorial                              32  
 
-    [[Memory]]                                          33  
+[[Memory]]                                          33  
 
-    The English Graves                              35  
+The English Graves                              35  
 
-    [[nightmare|Nightmare]]                                       37  
+[[nightmare|Nightmare]]                                       37  
 
-    A Second [[Childhood]]                              40  
+A Second [[Childhood]]                              40  
 
-    "Mediævalism"                                   43  
+"Mediævalism"                                   43  
 
-    Poland                                          46  
+Poland                                          46  
 
-    The Hunting of the Dragon                       48  
+The Hunting of the Dragon                       48  
 
-    [[Sonnet]]                                          51  
+[[Sonnet]]                                          51  
 
-    Fantasia                                        52  
+Fantasia                                        52  
 
-    A Christmas [[carol|Carol]]                               54  
+A Christmas [[carol|Carol]]                               54  
 
-    To Captain Fryatt                               56  
+To Captain Fryatt                               56  
 
-    For Four Guilds:  
+For Four Guilds:  
 
-        I. The Glass-Stainers                       57  
+I. The Glass-Stainers                       57  
 
-       II. The Bridge-Builders                      59  
+II. The Bridge-Builders                      59  
 
-      III. The Stone-Masons                         62  
+III. The Stone-Masons                         62  
 
-       IV. The Bell-Ringers                         64  
+IV. The Bell-Ringers                         64  
 
-    The [[convert|Convert]]                                     67  
+The [[convert|Convert]]                                     67  
 
-    [[songs|Songs]] of [[Education]]:  
+[[songs|Songs]] of [[Education]]:  
 
-        I. [[history|History]]                                  71  
+I. [[history|History]]                                  71  
 
-       II. Geography                                74  
+II. Geography                                74  
 
-      III. For the Crêche                           76  
+III. For the Crêche                           76  
 
-       IV. Citizenship                              78  
+IV. Citizenship                              78  
 
-        V. The Higher Mathematics                   80  
+V. The Higher Mathematics                   80  
 
-       VI. Hygiene                                  82  
+VI. Hygiene                                  82  
 
-    THE BALLAD OF ST. BARBARA  
+THE BALLAD OF ST. BARBARA  
 
-    _(St. Barbara is the patron saint of artillery and of those in  
+_(St. Barbara is the patron saint of artillery and of those in  
 
-    danger of sudden [[Death|death]].)_  
+danger of sudden [[Death|death]].)_  
 
-    When the long grey lines came flooding upon [[Paris]] in the plain,  
+When the long grey lines came flooding upon [[Paris]] in the plain,  
 
-    We stood and drank of the last free air we never could taste again:  
+We stood and drank of the last free air we never could taste again:  
 
-    They had led us back from the lost battle, to halt we knew not where  
+They had led us back from the lost battle, to halt we knew not where  
 
-    And stilled us; and our gaping guns were dumb with our [[Despair|despair]].  
+And stilled us; and our gaping guns were dumb with our [[Despair|despair]].  
 
-    The grey tribes flowed for ever from the infinite lifeless lands  
+The grey tribes flowed for ever from the infinite lifeless lands  
 
-    And a Norman to a Breton spoke, his chin upon his hands.  
+And a Norman to a Breton spoke, his chin upon his hands.  
 
-    "There was an end to Ilium; and an end came to Rome;  
+"There was an end to Ilium; and an end came to Rome;  
 
-    And a man plays on a painted stage in the land that he calls [[Home|home]];  
+And a man plays on a painted stage in the land that he calls [[Home|home]];  
 
-    Arch after arch of triumph, but floor beyond falling floor,  
+Arch after arch of triumph, but floor beyond falling floor,  
 
-    That lead to a low door at last; and beyond there is no door."  
+That lead to a low door at last; and beyond there is no door."  
 
-    And the Breton to the Norman spoke, like a small [[Child|child]] spoke he,  
+And the Breton to the Norman spoke, like a small [[Child|child]] spoke he,  
 
-    And his sea-blue eyes were empty as his [[Home|home]] beside the sea:  
+And his sea-blue eyes were empty as his [[Home|home]] beside the sea:  
 
-    "There are more windows in one [[house]] than there are eyes to see,  
+"There are more windows in one [[house]] than there are eyes to see,  
 
-    There are more doors in a man's [[house]], but God has hid the key:  
+There are more doors in a man's [[house]], but God has hid the key:  
 
-    Ruin is a builder of windows; her legend witnesseth  
+Ruin is a builder of windows; her legend witnesseth  
 
-    Barbara, the saint of gunners, and a stay in sudden [[Death|death]]."  
+Barbara, the saint of gunners, and a stay in sudden [[Death|death]]."  
 
-    It seemed the [[Wheel|wheel]] of the world stood still an instant in its turning,  
+It seemed the [[Wheel|wheel]] of the world stood still an instant in its turning,  
 
-    More than the kings of the earth that turned with the turning of Valmy  
+More than the kings of the earth that turned with the turning of Valmy  
 
-      mill:  
+mill:  
 
-    While trickled the idle tale and the sea-blue eyes were burning,  
+While trickled the idle tale and the sea-blue eyes were burning,  
 
-    Still as the heart of a whirlwind the heart of the world stood still.  
+Still as the heart of a whirlwind the heart of the world stood still.  
 
-        "Barbara the beautiful  
+"Barbara the beautiful  
 
-        Had praise of lute and pen:  
+Had praise of lute and pen:  
 
-        Her hair was like a [[Summer|summer]] [[Night|night]]  
+Her hair was like a [[Summer|summer]] [[Night|night]]  
 
-        Dark and desired of men.  
+Dark and desired of men.  
 
-        Her feet like [[Birds|birds]] from far away  
+Her feet like [[Birds|birds]] from far away  
 
-        That linger and light in [[Doubt|doubt]];  
+That linger and light in [[Doubt|doubt]];  
 
-        And her face was like a [[Window|window]]  
+And her face was like a [[Window|window]]  
 
-        Where a man's first [[Love|love]] looked out.  
+Where a man's first [[Love|love]] looked out.  
 
-        Her sire was master of many slaves  
+Her sire was master of many slaves  
 
-        A hard man of his hands;  
+A hard man of his hands;  
 
-        They built a tower about her  
+They built a tower about her  
 
-        In the desolate golden lands,  
+In the desolate golden lands,  
 
-        Sealed as the tyrants sealed their tombs,  
+Sealed as the tyrants sealed their tombs,  
 
-        Planned with an ancient plan,  
+Planned with an ancient plan,  
 
-        And set two windows in the tower  
+And set two windows in the tower  
 
-        Like the two eyes of a man."  
+Like the two eyes of a man."  
 
-    Our guns were set toward the foe; we had no word, for firing.  
+Our guns were set toward the foe; we had no word, for firing.  
 
-    Grey in the gateway of St. Gond the Guard of the [[Tyrant|tyrant]] shone;  
+Grey in the gateway of St. Gond the Guard of the [[Tyrant|tyrant]] shone;  
 
-    Dark with the fate of a falling star, retiring and retiring,  
+Dark with the fate of a falling star, retiring and retiring,  
 
-    The Breton line went backward and the Breton tale went on.  
+The Breton line went backward and the Breton tale went on.  
 
-        "Her father had sailed across the sea  
+"Her father had sailed across the sea  
 
-        From the harbour of Africa  
+From the harbour of Africa  
 
-        When all the slaves took up their tools  
+When all the slaves took up their tools  
 
-        For the bidding of Barbara.  
+For the bidding of Barbara.  
 
-        She smote the bare wall with her hand  
+She smote the bare wall with her hand  
 
-        And bad them smite again;  
+And bad them smite again;  
 
-        She poured them wealth of wine and meat  
+She poured them wealth of wine and meat  
 
-        To stay them in their [[Pain|pain]].  
+To stay them in their [[Pain|pain]].  
 
-        And cried through the lifted thunder  
+And cried through the lifted thunder  
 
-        Of thronging hammer and hod  
+Of thronging hammer and hod  
 
-        'Throw open the third [[Window|window]]  
+'Throw open the third [[Window|window]]  
 
-        In the third name of God.'  
+In the third name of God.'  
 
-        Then the hearts failed and the tools fell,  
+Then the hearts failed and the tools fell,  
 
-        And far towards the foam,  
+And far towards the foam,  
 
-        Men saw a [[Shadow|shadow]] on the sands  
+Men saw a [[Shadow|shadow]] on the sands  
 
-        And her father coming [[Home|home]]."  
+And her father coming [[Home|home]]."  
 
-    Speak low and low, along the line the whispered word is flying  
+Speak low and low, along the line the whispered word is flying  
 
-    Before the touch, before the [[Time|time]], we may not loose a breath:  
+Before the touch, before the [[Time|time]], we may not loose a breath:  
 
-    Their guns must mash us to the mire and there be no replying,  
+Their guns must mash us to the mire and there be no replying,  
 
-    Till the hand is raised to fling us for the final dice to [[Death|death]].  
+Till the hand is raised to fling us for the final dice to [[Death|death]].  
 
-        "There were two windows in your tower,  
+"There were two windows in your tower,  
 
-        Barbara, Barbara,  
+Barbara, Barbara,  
 
-        For all between the sun and [[Moon|moon]]  
+For all between the sun and [[Moon|moon]]  
 
-        In the lands of Africa.  
+In the lands of Africa.  
 
-        Hath a man three eyes, Barbara,  
+Hath a man three eyes, Barbara,  
 
-        A bird three wings,  
+A bird three wings,  
 
-        That you have riven roof and wall  
+That you have riven roof and wall  
 
-        To look upon vain things?"  
+To look upon vain things?"  
 
-        Her voice was like a wandering thing  
+Her voice was like a wandering thing  
 
-        That falters yet is free,  
+That falters yet is free,  
 
-        Whose [[Soul|soul]] has drunk in a distant land  
+Whose [[Soul|soul]] has drunk in a distant land  
 
-        Of the rivers of liberty.  
+Of the rivers of liberty.  
 
-        "There are more wings than the [[Wind|wind]] knows  
+"There are more wings than the [[Wind|wind]] knows  
 
-        Or eyes than see the sun  
+Or eyes than see the sun  
 
-        In the light of the lost [[Window|window]]  
+In the light of the lost [[Window|window]]  
 
-        And the [[Wind|wind]] of the doors undone.  
+And the [[Wind|wind]] of the doors undone.  
 
-        For out of the first lattice  
+For out of the first lattice  
 
-        Are the red lands that break  
+Are the red lands that break  
 
-        And out of the second lattice  
+And out of the second lattice  
 
-        Sea like a green snake,  
+Sea like a green snake,  
 
-        But out of the third lattice  
+But out of the third lattice  
 
-        Under low eaves like wings  
+Under low eaves like wings  
 
-        Is a new corner of the sky  
+Is a new corner of the sky  
 
-        And the other side of things."  
+And the other side of things."  
 
-    It opened in the inmost place an instant beyond uttering,  
+It opened in the inmost place an instant beyond uttering,  
 
-    A casement and a chasm and a thunder of doors undone,  
+A casement and a chasm and a thunder of doors undone,  
 
-    A seraph's strong wing shaken out the shock of its unshuttering,  
+A seraph's strong wing shaken out the shock of its unshuttering,  
 
-    That split the shattered sunlight from a light behind the sun.  
+That split the shattered sunlight from a light behind the sun.  
 
-        "Then he drew [[Sword|sword]] and drave her  
+"Then he drew [[Sword|sword]] and drave her  
 
-        Where the judges sat and said  
+Where the judges sat and said  
 
-        'Caesar sits above the gods,  
+'Caesar sits above the gods,  
 
-        Barbara the maid.  
+Barbara the maid.  
 
-        Caesar hath made a treaty  
+Caesar hath made a treaty  
 
-        With the [[Moon|moon]] and with the sun,  
+With the [[Moon|moon]] and with the sun,  
 
-        All the gods that men can praise  
+All the gods that men can praise  
 
-        Praise him every one.  
+Praise him every one.  
 
-        There is peace with the anointed  
+There is peace with the anointed  
 
-        Of the scarlet oils of Bel,  
+Of the scarlet oils of Bel,  
 
-        With the Fish God, where the whirlpool  
+With the Fish God, where the whirlpool  
 
-        Is a winding stair to hell,  
+Is a winding stair to hell,  
 
-        With the pathless pyramids of slime,  
+With the pathless pyramids of slime,  
 
-        Where the mitred negro lifts  
+Where the mitred negro lifts  
 
-        To his black cherub in the cloud  
+To his black cherub in the cloud  
 
-        Abominable gifts,  
+Abominable gifts,  
 
-        With the leprous silver cities  
+With the leprous silver cities  
 
-        Where the dumb priests [[Dance|dance]] and nod,  
+Where the dumb priests [[Dance|dance]] and nod,  
 
-        But not with the three windows  
+But not with the three windows  
 
-        And the last name of God.'"  
+And the last name of God.'"  
 
-    They are firing, we are falling, and the red skies rend and shiver us,  
+They are firing, we are falling, and the red skies rend and shiver us,  
 
-    Barbara, Barbara, we may not loose a breath--  
+Barbara, Barbara, we may not loose a breath--  
 
-    Be at the bursting doors of doom, and in the dark deliver us,  
+Be at the bursting doors of doom, and in the dark deliver us,  
 
-    Who loosen the last [[Window|window]] on the sun of sudden [[Death|death]].  
+Who loosen the last [[Window|window]] on the sun of sudden [[Death|death]].  
 
-        "Barbara the beautiful  
+"Barbara the beautiful  
 
-        Stood up as [[Queen|queen]] set free,  
+Stood up as [[Queen|queen]] set free,  
 
-        Whose mouth is set to a terrible cup  
+Whose mouth is set to a terrible cup  
 
-        And the trumpet of liberty.  
+And the trumpet of liberty.  
 
-        'I have looked forth from a [[Window|window]]  
+'I have looked forth from a [[Window|window]]  
 
-        That no man now shall bar,  
+That no man now shall bar,  
 
-        Caesar's toppling battle-towers  
+Caesar's toppling battle-towers  
 
-        Shall never stretch so far.  
+Shall never stretch so far.  
 
-        The slaves are dancing in their [[Chains|chains]],  
+The slaves are dancing in their [[Chains|chains]],  
 
-        The [[Child|child]] laughs at the rod,  
+The [[Child|child]] laughs at the rod,  
 
-        Because of the bird of the three wings,  
+Because of the bird of the three wings,  
 
-        And the third face of God.'  
+And the third face of God.'  
 
-        The [[Sword|sword]] upon his shoulder  
+The [[Sword|sword]] upon his shoulder  
 
-        Shifted and shone and fell,  
+Shifted and shone and fell,  
 
-        And Barbara lay very small  
+And Barbara lay very small  
 
-        And crumpled like a shell."  
+And crumpled like a shell."  
 
-    What wall upon what hinges turned stands open like a door?  
+What wall upon what hinges turned stands open like a door?  
 
-    Too simple for the sight of [[Faith|faith]], too huge for human eyes,  
+Too simple for the sight of [[Faith|faith]], too huge for human eyes,  
 
-    What light upon what ancient way shines to a far-off floor,  
+What light upon what ancient way shines to a far-off floor,  
 
-    The line of the lost land of France or the plains of Paradise?  
+The line of the lost land of France or the plains of Paradise?  
 
-        "Caesar smiled above the gods,  
+"Caesar smiled above the gods,  
 
-        His lip of stone was curled,  
+His lip of stone was curled,  
 
-        His iron armies wound like [[Chains|chains]]  
+His iron armies wound like [[Chains|chains]]  
 
-        Round and round the world,  
+Round and round the world,  
 
-        And the strong slayer of his own  
+And the strong slayer of his own  
 
-        That cut down flesh for grass,  
+That cut down flesh for grass,  
 
-        Smiled too, and went to his own tower  
+Smiled too, and went to his own tower  
 
-        Like a walking tower of brass,  
+Like a walking tower of brass,  
 
-        And the [[songs]] ceased and the slaves were dumb;  
+And the [[songs]] ceased and the slaves were dumb;  
 
-        And far towards the foam  
+And far towards the foam  
 
-        Men saw a [[Shadow|shadow]] on the sands;  
+Men saw a [[Shadow|shadow]] on the sands;  
 
-        And her father coming [[Home|home]]....  
+And her father coming [[Home|home]]....  
 
-        [[Blood]] of his [[Blood|blood]] upon the [[Sword|sword]]  
+[[Blood]] of his [[Blood|blood]] upon the [[Sword|sword]]  
 
-        Stood red but never dry.  
+Stood red but never dry.  
 
-        He wiped it slowly, till the blade  
+He wiped it slowly, till the blade  
 
-        Was blue as the blue sky.  
+Was blue as the blue sky.  
 
-        But the blue sky split with a thunder-crack,  
+But the blue sky split with a thunder-crack,  
 
-        Spat down a blinding brand,  
+Spat down a blinding brand,  
 
-        And all of him lay back and flat  
+And all of him lay back and flat  
 
-        As his [[Shadow|shadow]] on the sand."  
+As his [[Shadow|shadow]] on the sand."  
 
-    The touch and the tornado; all our guns give tongue together  
+The touch and the tornado; all our guns give tongue together  
 
-    St. Barbara for the gunnery and God defend the right,  
+St. Barbara for the gunnery and God defend the right,  
 
-    They are stopped and gapped and battered as we blast away the weather.  
+They are stopped and gapped and battered as we blast away the weather.  
 
-    Building [[Window|window]] upon [[Window|window]] to our lady of the light.  
+Building [[Window|window]] upon [[Window|window]] to our lady of the light.  
 
-    For the light is come on Liberty, her foes are falling, falling,  
+For the light is come on Liberty, her foes are falling, falling,  
 
-    They are reeling, they are running, as the shameful years have run,  
+They are reeling, they are running, as the shameful years have run,  
 
-    She is risen for all the humble, she has heard the conquered calling,  
+She is risen for all the humble, she has heard the conquered calling,  
 
-    St. Barbara of the Gunners, with her hand upon the gun.  
+St. Barbara of the Gunners, with her hand upon the gun.  
 
-    They are burst asunder in the midst that eat of their own flatteries,  
+They are burst asunder in the midst that eat of their own flatteries,  
 
-    Whose lip is curled to order as its barbered hair is curled....  
+Whose lip is curled to order as its barbered hair is curled....  
 
-    Blast of the [[Beauty|beauty]] of sudden [[Death|death]], St. Barbara of the batteries!  
+Blast of the [[Beauty|beauty]] of sudden [[Death|death]], St. Barbara of the batteries!  
 
-    That blow the new white [[Window|window]] in the wall of all the world.  
+That blow the new white [[Window|window]] in the wall of all the world.  
 
-    For the hand is raised behind us, and the bolt smites hard  
+For the hand is raised behind us, and the bolt smites hard  
 
-    Through the rending of the doorways, through the [[Death|death]]-gap of the  
+Through the rending of the doorways, through the [[Death|death]]-gap of the  
 
-      Guard,  
+Guard,  
 
-    For the cry of the Three Colours is in Condé and beyond  
+For the cry of the Three Colours is in Condé and beyond  
 
-    And the Guard is flung for carrion in the graveyard of St. Gond,  
+And the Guard is flung for carrion in the graveyard of St. Gond,  
 
-    Through Mondemont and out of it, through Morin marsh and on  
+Through Mondemont and out of it, through Morin marsh and on  
 
-    With earthquake of salutation the impossible thing is gone,  
+With earthquake of salutation the impossible thing is gone,  
 
-    Gaul, charioted and charging, great Gaul upon a gun,  
+Gaul, charioted and charging, great Gaul upon a gun,  
 
-    Tip-toe on all her thousand years and trumpeting to the sun:  
+Tip-toe on all her thousand years and trumpeting to the sun:  
 
-    As day returns, as [[Death|death]] returns, swung backwards and swung [[Home|home]],  
+As day returns, as [[Death|death]] returns, swung backwards and swung [[Home|home]],  
 
-    Back on the barbarous reign returns the battering-ram of Rome.  
+Back on the barbarous reign returns the battering-ram of Rome.  
 
-    While that that the east held hard and hot like pincers in a forge,  
+While that that the east held hard and hot like pincers in a forge,  
 
-    Came like the west [[Wind|wind]] roaring up the cannon of St. George,  
+Came like the west [[Wind|wind]] roaring up the cannon of St. George,  
 
-    Where the hunt is up and racing over stream and swamp and tarn  
+Where the hunt is up and racing over stream and swamp and tarn  
 
-    And their batteries, black with battle, hold the bridgeheads of the  
+And their batteries, black with battle, hold the bridgeheads of the  
 
-      Marne  
+Marne  
 
-    And across the carnage of the Guard, by [[Paris]] in the plain,  
+And across the carnage of the Guard, by [[Paris]] in the plain,  
 
-    The Normans to the Bretons cried and the Bretons cheered again....  
+The Normans to the Bretons cried and the Bretons cheered again....  
 
-    But he that told the tale went [[Home|home]] to his [[house]] beside the sea  
+But he that told the tale went [[Home|home]] to his [[house]] beside the sea  
 
-    And burned before St. Barbara, the light of the windows three,  
+And burned before St. Barbara, the light of the windows three,  
 
-    Three candles for an unknown thing, never to come again,  
+Three candles for an unknown thing, never to come again,  
 
-    That opened like the eye of God on [[Paris]] in the plain.  
+That opened like the eye of God on [[Paris]] in the plain.  
 
-    [[elegy|ELEGY]] IN A COUNTRY CHURCHYARD  
+[[elegy|ELEGY]] IN A COUNTRY CHURCHYARD  
 
-    The men that worked for England  
+The men that worked for England  
 
-    They have their graves at [[Home|home]]:  
+They have their graves at [[Home|home]]:  
 
-    And [[Bees|bees]] and [[Birds|birds]] of England  
+And [[Bees|bees]] and [[Birds|birds]] of England  
 
-    About the [[Cross|cross]] can roam.  
+About the [[Cross|cross]] can roam.  
 
-    But they that fought for England,  
+But they that fought for England,  
 
-    Following a falling star,  
+Following a falling star,  
 
-    Alas, alas for England  
+Alas, alas for England  
 
-    They have their graves afar.  
+They have their graves afar.  
 
-    And they that rule in England,  
+And they that rule in England,  
 
-    In stately conclave met,  
+In stately conclave met,  
 
-    Alas, alas for England  
+Alas, alas for England  
 
-    They have no graves as yet.  
+They have no graves as yet.  
 
-    THE [[Sword|SWORD]] OF SURPRISE  
+THE [[Sword|SWORD]] OF SURPRISE  
 
-    Sunder me from my bones, O [[Sword|sword]] of God,  
+Sunder me from my bones, O [[Sword|sword]] of God,  
 
-    Till they stand stark and strange as do the trees;  
+Till they stand stark and strange as do the trees;  
 
-    That I whose heart goes up with the soaring woods  
+That I whose heart goes up with the soaring woods  
 
-    May marvel as much at these.  
+May marvel as much at these.  
 
-    Sunder me from my [[Blood|blood]] that in the dark  
+Sunder me from my [[Blood|blood]] that in the dark  
 
-    I hear that red ancestral [[River|river]] run,  
+I hear that red ancestral [[River|river]] run,  
 
-    Like branching buried floods that find the sea  
+Like branching buried floods that find the sea  
 
-    But never see the sun.  
+But never see the sun.  
 
-    Give me miraculous eyes to see my eyes,  
+Give me miraculous eyes to see my eyes,  
 
-    Those [[rolling]] mirrors made alive in me,  
+Those [[rolling]] mirrors made alive in me,  
 
-    Terrible crystal more incredible  
+Terrible crystal more incredible  
 
-    Than all the things they see.  
+Than all the things they see.  
 
-    Sunder me from my [[Soul|soul]], that I may see  
+Sunder me from my [[Soul|soul]], that I may see  
 
-    The sins like streaming wounds, the life's brave beat;  
+The sins like streaming wounds, the life's brave beat;  
 
-    Till I shall save myself, as I would save  
+Till I shall save myself, as I would save  
 
-    A stranger in the street.  
+A stranger in the street.  
 
-    A WEDDING IN WAR-[[Time|TIME]]  
+A WEDDING IN WAR-[[Time|TIME]]  
 
-    Our God who made two [[lovers]] in a [[Garden|garden]],  
+Our God who made two [[lovers]] in a [[Garden|garden]],  
 
-    And smote them separate and set them free,  
+And smote them separate and set them free,  
 
-    Their four eyes wild for [[Wonder|wonder]] and wrath and pardon  
+Their four eyes wild for [[Wonder|wonder]] and wrath and pardon  
 
-    And their kiss thunder as lips of land and sea:  
+And their kiss thunder as lips of land and sea:  
 
-    Each rapt unendingly beyond the other,  
+Each rapt unendingly beyond the other,  
 
-    Two starry worlds of unknown gods at war,  
+Two starry worlds of unknown gods at war,  
 
-    Wife and not mate, a man and not a brother,  
+Wife and not mate, a man and not a brother,  
 
-    We thank thee thou hast made us what we are.  
+We thank thee thou hast made us what we are.  
 
-    Make not the grey slime of infinity  
+Make not the grey slime of infinity  
 
-    To swamp these [[Flowers|flowers]] thou madest one by one;  
+To swamp these [[Flowers|flowers]] thou madest one by one;  
 
-    Let not the [[Night|night]] that was thine enemy  
+Let not the [[Night|night]] that was thine enemy  
 
-    Mix a mad twilight of the [[Moon|moon]] and sun;  
+Mix a mad twilight of the [[Moon|moon]] and sun;  
 
-    Waken again to thunderclap and clamour  
+Waken again to thunderclap and clamour  
 
-    The [[Wonder|wonder]] of our sundering and the [[Song|song]],  
+The [[Wonder|wonder]] of our sundering and the [[Song|song]],  
 
-    Or break our hearts with thine hell-shattering hammer  
+Or break our hearts with thine hell-shattering hammer  
 
-    But leave a shade between us all day long.  
+But leave a shade between us all day long.  
 
-    Shade of high shame and honourable blindness  
+Shade of high shame and honourable blindness  
 
-    When youth, in [[Storm|storm]] of dizzy and distant things,  
+When youth, in [[Storm|storm]] of dizzy and distant things,  
 
-    Finds the wild windfall of a little kindness  
+Finds the wild windfall of a little kindness  
 
-    And shakes to think that all the world has wings.  
+And shakes to think that all the world has wings.  
 
-    When the one head that turns the heavens in turning  
+When the one head that turns the heavens in turning  
 
-    Moves yet as lightly as a lingering bird,  
+Moves yet as lightly as a lingering bird,  
 
-    And red and random, blown astray but burning,  
+And red and random, blown astray but burning,  
 
-    Like a lost spark goes by the glorious word.  
+Like a lost spark goes by the glorious word.  
 
-    Make not this sex, this other side of things,  
+Make not this sex, this other side of things,  
 
-    A thing less distant than the world's [[Desire|desire]];  
+A thing less distant than the world's [[Desire|desire]];  
 
-    What colour to the end of evening clings  
+What colour to the end of evening clings  
 
-    And what far cry of frontiers and what [[Fire|fire]]  
+And what far cry of frontiers and what [[Fire|fire]]  
 
-    Fallen too far beyond the sun for seeking,  
+Fallen too far beyond the sun for seeking,  
 
-    Let it divide us though our kingdom come;  
+Let it divide us though our kingdom come;  
 
-    With a far signal in our secret speaking  
+With a far signal in our secret speaking  
 
-    To hang the proud horizon in our [[Home|home]].  
+To hang the proud horizon in our [[Home|home]].  
 
-    Once we were one, a shapeless cloud that lingers  
+Once we were one, a shapeless cloud that lingers  
 
-    Loading the seas and shutting out the skies,  
+Loading the seas and shutting out the skies,  
 
-    One with the woods, a [[Monster|monster]] of myriad fingers,  
+One with the woods, a [[Monster|monster]] of myriad fingers,  
 
-    You laid on me no finger of surprise.  
+You laid on me no finger of surprise.  
 
-    One with the [[Stars|stars]], a god with myriad eyes,  
+One with the [[Stars|stars]], a god with myriad eyes,  
 
-    I saw you nowhere and was blind for scorn:  
+I saw you nowhere and was blind for scorn:  
 
-    One till the world was riven and the rise  
+One till the world was riven and the rise  
 
-    Of the white days when you and I were born.  
+Of the white days when you and I were born.  
 
-    Darkens the world: the world-old fetters rattle;  
+Darkens the world: the world-old fetters rattle;  
 
-    And these that have no [[Hope|hope]] behind the sun  
+And these that have no [[Hope|hope]] behind the sun  
 
-    May feed like bondmen and may breed like cattle,  
+May feed like bondmen and may breed like cattle,  
 
-    One in the darkness as the dead are one;  
+One in the darkness as the dead are one;  
 
-    Us if the rended [[Grave|grave]] give up its glory  
+Us if the rended [[Grave|grave]] give up its glory  
 
-    Trumpets shall summon asunder and face to face:  
+Trumpets shall summon asunder and face to face:  
 
-    We will be strangers in so strange a story  
+We will be strangers in so strange a story  
 
-    And [[Wonder|wonder]], meeting in so wild a place.  
+And [[Wonder|wonder]], meeting in so wild a place.  
 
-    Ah, not in vain or utterly for loss  
+Ah, not in vain or utterly for loss  
 
-    Come even the black [[Flag|flag]] and the battle-hordes,  
+Come even the black [[Flag|flag]] and the battle-hordes,  
 
-    If these grey devils flee the sign of the [[Cross|cross]]  
+If these grey devils flee the sign of the [[Cross|cross]]  
 
-    Even in the symbol of the crossing swords.  
+Even in the symbol of the crossing swords.  
 
-    Nor shall [[Death|death]] [[Doubt|doubt]] Who made our souls alive  
+Nor shall [[Death|death]] [[Doubt|doubt]] Who made our souls alive  
 
-    Swords meeting and not stakes set side by side,  
+Swords meeting and not stakes set side by side,  
 
-    Bade us in the sunburst and the thunder thrive  
+Bade us in the sunburst and the thunder thrive  
 
-    Earthquake and [[Dawn]]; the bridegroom and the bride.  
+Earthquake and [[Dawn]]; the bridegroom and the bride.  
 
-    [[Death]] and not [[Dreams|dreams]] or [[Doubt|doubt]] of things undying,  
+[[Death]] and not [[Dreams|dreams]] or [[Doubt|doubt]] of things undying,  
 
-    Of whose the holy hearth or whose the [[Sword|sword]];  
+Of whose the holy hearth or whose the [[Sword|sword]];  
 
-    Though sacred spirits dissever in strong crying  
+Though sacred spirits dissever in strong crying  
 
-    Into Thy hands, but Thy two hands, O Lord,  
+Into Thy hands, but Thy two hands, O Lord,  
 
-    Though not in Earth as once in Eden standing  
+Though not in Earth as once in Eden standing  
 
-    So plain again we see Thee what thou art,  
+So plain again we see Thee what thou art,  
 
-    As in this blaze, the blasting and the branding  
+As in this blaze, the blasting and the branding  
 
-    Of this wild wedding where we meet and part.  
+Of this wild wedding where we meet and part.  
 
-    THE MYSTERY  
+THE MYSTERY  
 
-    If sunset clouds could grow on trees  
+If sunset clouds could grow on trees  
 
-    It would but match the may in flower;  
+It would but match the may in flower;  
 
-    And skies be underneath the seas  
+And skies be underneath the seas  
 
-    No topsyturvier than a shower.  
+No topsyturvier than a shower.  
 
-    If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
+If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
 
-    They were no wilder than a cloud;  
+They were no wilder than a cloud;  
 
-    Yet all my praise is mean as slander,  
+Yet all my praise is mean as slander,  
 
-    Mean as these mean words spoken aloud.  
+Mean as these mean words spoken aloud.  
 
-    And never more than now I know  
+And never more than now I know  
 
-    That man's first heaven is far behind;  
+That man's first heaven is far behind;  
 
-    Unless the blazing seraph's blow  
+Unless the blazing seraph's blow  
 
-    Has left him in the [[Garden|garden]] blind.  
+Has left him in the [[Garden|garden]] blind.  
 
-    Witness, O Sun that blinds our eyes,  
+Witness, O Sun that blinds our eyes,  
 
-    Unthinkable and unthankable [[King]],  
+Unthinkable and unthankable [[King]],  
 
-    That though all other [[Wonder|wonder]] dies  
+That though all other [[Wonder|wonder]] dies  
 
-    I [[Wonder|wonder]] at not wondering.  
+I [[Wonder|wonder]] at not wondering.  
 
-    "THE MYTH OF [[Arthur|ARTHUR]]"  
+"THE MYTH OF [[Arthur|ARTHUR]]"  
 
-    O learned man who never learned to learn,  
+O learned man who never learned to learn,  
 
-    Save to deduce, by timid steps and small,  
+Save to deduce, by timid steps and small,  
 
-    From towering smoke that [[Fire|fire]] can never burn  
+From towering smoke that [[Fire|fire]] can never burn  
 
-    And from tall tales that men were never tall.  
+And from tall tales that men were never tall.  
 
-    Say, have you thought what manner of man it is  
+Say, have you thought what manner of man it is  
 
-    Of whom men say "He could strike giants down"?  
+Of whom men say "He could strike giants down"?  
 
-    Or what strong memories over [[Time|time]]'s abyss  
+Or what strong memories over [[Time|time]]'s abyss  
 
-    Bore up the pomp of Camelot and the [[Crown|crown]].  
+Bore up the pomp of Camelot and the [[Crown|crown]].  
 
-    And why one banner all the background fills,  
+And why one banner all the background fills,  
 
-    Beyond the pageants of so many spears,  
+Beyond the pageants of so many spears,  
 
-    And by what witchery in the western hills  
+And by what witchery in the western hills  
 
-    A throne stands empty for a thousand years.  
+A throne stands empty for a thousand years.  
 
-    Who hold, unheeding this immense impact,  
+Who hold, unheeding this immense impact,  
 
-    Immortal story for a mortal sin;  
+Immortal story for a mortal sin;  
 
-    Lest human [[Fable|fable]] touch historic fact,  
+Lest human [[Fable|fable]] touch historic fact,  
 
-    Chase myths like moths, and fight them with a pin.  
+Chase myths like moths, and fight them with a pin.  
 
-    Take comfort; rest--there needs not this ado.  
+Take comfort; rest--there needs not this ado.  
 
-    You shall not be a myth, I promise you.  
+You shall not be a myth, I promise you.  
 
-    THE OLD [[Song|SONG]]  
+THE OLD [[Song|SONG]]  
 
-    _(On the Embankment in stormy weather.)_  
+_(On the Embankment in stormy weather.)_  
 
-    A livid sky on [[London]]  
+A livid sky on [[London]]  
 
-    And like iron steeds that rear  
+And like iron steeds that rear  
 
-    A shock of engines halted,  
+A shock of engines halted,  
 
-    And I knew the end was near:  
+And I knew the end was near:  
 
-    And something said that far away, over the hills and far away,  
+And something said that far away, over the hills and far away,  
 
-    There came a crawling thunder and the end of all things here.  
+There came a crawling thunder and the end of all things here.  
 
-    For [[London]] Bridge is broken down, broken down, broken down,  
+For [[London]] Bridge is broken down, broken down, broken down,  
 
-    As digging lets the daylight on the sunken streets of yore,  
+As digging lets the daylight on the sunken streets of yore,  
 
-    The [[Lightning|lightning]] looked on [[London]] town, the broken bridge of [[London]] town,  
+The [[Lightning|lightning]] looked on [[London]] town, the broken bridge of [[London]] town,  
 
-    The ending of a broken [[Road|road]] where men shall go no more.  
+The ending of a broken [[Road|road]] where men shall go no more.  
 
-    I saw the kings of [[London]] town,  
+I saw the kings of [[London]] town,  
 
-    The kings that buy and sell,  
+The kings that buy and sell,  
 
-    That built it up with penny loaves  
+That built it up with penny loaves  
 
-    And penny lies as [[Well|well]]:  
+And penny lies as [[Well|well]]:  
 
-    And where the streets were paved with gold, the shrivelled paper shone  
+And where the streets were paved with gold, the shrivelled paper shone  
 
-      for gold,  
+for gold,  
 
-    The scorching light of promises that pave the streets of hell.  
+The scorching light of promises that pave the streets of hell.  
 
-    For penny loaves will melt away, melt away, melt away,  
+For penny loaves will melt away, melt away, melt away,  
 
-    Mock the mean that haggled in the grain they did not grow;  
+Mock the mean that haggled in the grain they did not grow;  
 
-    With hungry faces in the gate, a hundred thousand in the gate,  
+With hungry faces in the gate, a hundred thousand in the gate,  
 
-    A thunder-flash on [[London]] and the finding of the foe.  
+A thunder-flash on [[London]] and the finding of the foe.  
 
-    I heard the hundred pin-makers  
+I heard the hundred pin-makers  
 
-    Slow down their racking din,  
+Slow down their racking din,  
 
-    Till in the stillness men could hear  
+Till in the stillness men could hear  
 
-    The dropping of the pin:  
+The dropping of the pin:  
 
-    And somewhere men without the wall, beneath the wood, without the wall,  
+And somewhere men without the wall, beneath the wood, without the wall,  
 
-    Had found the place where [[London]] ends and England can begin.  
+Had found the place where [[London]] ends and England can begin.  
 
-    For pins and needles bend and break, bend and break, bend and break,  
+For pins and needles bend and break, bend and break, bend and break,  
 
-    Faster than the breaking spears or the bending of the bow  
+Faster than the breaking spears or the bending of the bow  
 
-    Of pageants pale in thunder-light, 'twixt thunder-load and  
+Of pageants pale in thunder-light, 'twixt thunder-load and  
 
-      thunder-light,  
+thunder-light,  
 
-    The Hundreds marching on the hills in the wars of long ago.  
+The Hundreds marching on the hills in the wars of long ago.  
 
-    I saw great Cobbett riding,  
+I saw great Cobbett riding,  
 
-    The horseman of the shires;  
+The horseman of the shires;  
 
-    And his face was red with judgment  
+And his face was red with judgment  
 
-    And a light of Luddite fires:  
+And a light of Luddite fires:  
 
-    And south to Sussex and the sea the lights leapt up for liberty,  
+And south to Sussex and the sea the lights leapt up for liberty,  
 
-    The trumpet of the yeomanry, the hammer of the squires;  
+The trumpet of the yeomanry, the hammer of the squires;  
 
-    For bars of iron rust away, rust away, rust away,  
+For bars of iron rust away, rust away, rust away,  
 
-    Rend before the hammer and the horseman riding in,  
+Rend before the hammer and the horseman riding in,  
 
-    Crying that all men at the last, and at the worst and at the last,  
+Crying that all men at the last, and at the worst and at the last,  
 
-    Have found the place where England ends and England can begin.  
+Have found the place where England ends and England can begin.  
 
-    His [[Horse|horse]]-hoofs go before you,  
+His [[Horse|horse]]-hoofs go before you,  
 
-    Far beyond your bursting tyres;  
+Far beyond your bursting tyres;  
 
-    And [[Time|time]] is bridged behind him  
+And [[Time|time]] is bridged behind him  
 
-    And our sons are with our sires.  
+And our sons are with our sires.  
 
-    A trailing meteor on the Downs he rides above the rotting towns,  
+A trailing meteor on the Downs he rides above the rotting towns,  
 
-    The Horseman of [[Apocalypse]], the Rider of the Shires.  
+The Horseman of [[Apocalypse]], the Rider of the Shires.  
 
-    For [[London]] Bridge is broken down, broken down, broken down;  
+For [[London]] Bridge is broken down, broken down, broken down;  
 
-    Blow the horn of Huntingdon from Scotland to the sea--  
+Blow the horn of Huntingdon from Scotland to the sea--  
 
-    ... Only a flash of thunder-light, a flying dream of thunder-light,  
+... Only a flash of thunder-light, a flying dream of thunder-light,  
 
-    Had shown under the shattered sky a people that were free.  
+Had shown under the shattered sky a people that were free.  
 
-    THE TRINKETS  
+THE TRINKETS  
 
-    A wandering world of rivers,  
+A wandering world of rivers,  
 
-    A wavering world of trees,  
+A wavering world of trees,  
 
-    If the world grow dim and dizzy  
+If the world grow dim and dizzy  
 
-    With all changes and degrees,  
+With all changes and degrees,  
 
-    It is but Our Lady's [[Mirror|mirror]]  
+It is but Our Lady's [[Mirror|mirror]]  
 
-    Hung dreaming in its place,  
+Hung dreaming in its place,  
 
-    Shining with only shadows  
+Shining with only shadows  
 
-    Till she wakes it with her face.  
+Till she wakes it with her face.  
 
-    The standing whirlpool of the [[Stars|stars]],  
+The standing whirlpool of the [[Stars|stars]],  
 
-    The [[Wheel|wheel]] of all the world,  
+The [[Wheel|wheel]] of all the world,  
 
-    Is a ring on Our Lady's finger  
+Is a ring on Our Lady's finger  
 
-    With the suns and moons empearled  
+With the suns and moons empearled  
 
-    With [[Stars|stars]] for stones to please her  
+With [[Stars|stars]] for stones to please her  
 
-    Who sits playing with her rings  
+Who sits playing with her rings  
 
-    With the great heart that a woman has  
+With the great heart that a woman has  
 
-    And the [[Love|love]] of little things.  
+And the [[Love|love]] of little things.  
 
-    Wings of the whirlwind of the world  
+Wings of the whirlwind of the world  
 
-    From here to Ispahan,  
+From here to Ispahan,  
 
-    Spurning the flying forests  
+Spurning the flying forests  
 
-    Are light as Our Lady's fan:  
+Are light as Our Lady's fan:  
 
-    For all things violent here and vain  
+For all things violent here and vain  
 
-    Lie open and all at ease  
+Lie open and all at ease  
 
-    Where God has girded heaven to guard  
+Where God has girded heaven to guard  
 
-    Her holy vanities.  
+Her holy vanities.  
 
-    THE PHILANTHROPIST  
+THE PHILANTHROPIST  
 
-    _(With apologies to a beautiful poem.)_  
+_(With apologies to a beautiful poem.)_  
 
-    Abou Ben Adhem (may his tribe decrease  
+Abou Ben Adhem (may his tribe decrease  
 
-    By cautious birth-control and die in peace)  
+By cautious birth-control and die in peace)  
 
-    Mellow with learning lightly took the word  
+Mellow with learning lightly took the word  
 
-    That marked him not with them that [[Love|love]] the Lord,  
+That marked him not with them that [[Love|love]] the Lord,  
 
-    And told the angel of the book and pen  
+And told the angel of the book and pen  
 
-    "Write me as one that loves his fellow-men:  
+"Write me as one that loves his fellow-men:  
 
-    For them [[Alone|alone]] I labour; to reclaim  
+For them [[Alone|alone]] I labour; to reclaim  
 
-    The ragged roaming Bedouin and to tame  
+The ragged roaming Bedouin and to tame  
 
-    To ordered service; to uproot their vine  
+To ordered service; to uproot their vine  
 
-    Who mock the [[Prophet]], being mad with wine,  
+Who mock the [[Prophet]], being mad with wine,  
 
-    Let daylight through their tents and through their lives,  
+Let daylight through their tents and through their lives,  
 
-    Number their camels, even count their wives,  
+Number their camels, even count their wives,  
 
-    Plot out the [[Desert|desert]] into streets and squares;  
+Plot out the [[Desert|desert]] into streets and squares;  
 
-    And count it a more fruitful work than theirs  
+And count it a more fruitful work than theirs  
 
-    Who lift a vain and visionary [[Love|love]]  
+Who lift a vain and visionary [[Love|love]]  
 
-    To your vague Allah in the skies above."  
+To your vague Allah in the skies above."  
 
-    Gently replied the angel of the pen:  
+Gently replied the angel of the pen:  
 
-    "Labour in peace and [[Love|love]] your fellow-men:  
+"Labour in peace and [[Love|love]] your fellow-men:  
 
-    And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
+And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
 
-    Only [[Fear|fear]] God; for you have cause to [[Fear|fear]]."  
+Only [[Fear|fear]] God; for you have cause to [[Fear|fear]]."  
 
-    ON THE DOWNS  
+ON THE DOWNS  
 
-    When you came over the top of the world  
+When you came over the top of the world  
 
-    In the great day on the Downs,  
+In the great day on the Downs,  
 
-    The air was crisp and the clouds were curled,  
+The air was crisp and the clouds were curled,  
 
-    When you came over the top of the world,  
+When you came over the top of the world,  
 
-    And under your feet were spire and street  
+And under your feet were spire and street  
 
-    And seven English towns.  
+And seven English towns.  
 
-    And I could not think that the [[Pride|pride]] was perished  
+And I could not think that the [[Pride|pride]] was perished  
 
-    As you came over the down;  
+As you came over the down;  
 
-    Liberty, chivalry, all we cherished,  
+Liberty, chivalry, all we cherished,  
 
-    Lost in a rattle of pelf and perished;  
+Lost in a rattle of pelf and perished;  
 
-    Or the land we [[Love|love]] that you walked above  
+Or the land we [[Love|love]] that you walked above  
 
-    Withering town by town.  
+Withering town by town.  
 
-    For you came out on the dome of the earth  
+For you came out on the dome of the earth  
 
-    Like a vision of victory,  
+Like a vision of victory,  
 
-    Out on the great green dome of the earth  
+Out on the great green dome of the earth  
 
-    As the great blue dome of the sky for girth,  
+As the great blue dome of the sky for girth,  
 
-    And under your feet the shires could meet  
+And under your feet the shires could meet  
 
-    And your eyes went out to sea.  
+And your eyes went out to sea.  
 
-    Under your feet the towns were seven,  
+Under your feet the towns were seven,  
 
-    Alive and [[Alone|alone]] on high,  
+Alive and [[Alone|alone]] on high,  
 
-    Your back to the broad white wall of heaven;  
+Your back to the broad white wall of heaven;  
 
-    You were one and the towns were seven,  
+You were one and the towns were seven,  
 
-    Single and one as the soaring sun  
+Single and one as the soaring sun  
 
-    And your head upheld the sky.  
+And your head upheld the sky.  
 
-    And I thought of a thundering [[Flag|flag]] unfurled  
+And I thought of a thundering [[Flag|flag]] unfurled  
 
-    And the roar of the burghers' bell:  
+And the roar of the burghers' bell:  
 
-    Beacons crackled and bolts were hurled  
+Beacons crackled and bolts were hurled  
 
-    As you came over the top of the world;  
+As you came over the top of the world;  
 
-    And under your feet were chance and cheat  
+And under your feet were chance and cheat  
 
-    And the slime of the slopes of hell.  
+And the slime of the slopes of hell.  
 
-    It has not been as the great [[Wind|wind]] spoke  
+It has not been as the great [[Wind|wind]] spoke  
 
-    On the great green down that day:  
+On the great green down that day:  
 
-    We have seen, wherever the wide [[Wind|wind]] spoke,  
+We have seen, wherever the wide [[Wind|wind]] spoke,  
 
-    [[Slavery]] slaying the English folk:  
+[[Slavery]] slaying the English folk:  
 
-    The robbers of land we have seen command  
+The robbers of land we have seen command  
 
-    The rulers of land obey.  
+The rulers of land obey.  
 
-    We have seen the gigantic golden worms  
+We have seen the gigantic golden worms  
 
-    In the [[Garden|garden]] of paradise:  
+In the [[Garden|garden]] of paradise:  
 
-    We have seen the great and the wise make terms  
+We have seen the great and the wise make terms  
 
-    With the peace of snakes and the [[Pride|pride]] of worms,  
+With the peace of snakes and the [[Pride|pride]] of worms,  
 
-    and them that plant make covenant  
+and them that plant make covenant  
 
-    With the locust and the lice.  
+With the locust and the lice.  
 
-    And the [[Wind|wind]] blows and the world goes on  
+And the [[Wind|wind]] blows and the world goes on  
 
-    And the world can say that we,  
+And the world can say that we,  
 
-    Who stood on the cliffs where the quarries shone,  
+Who stood on the cliffs where the quarries shone,  
 
-    Stood upon clouds that the sun shone on:  
+Stood upon clouds that the sun shone on:  
 
-    And the clouds dissunder and drown in thunder  
+And the clouds dissunder and drown in thunder  
 
-    The news that will never be.  
+The news that will never be.  
 
-    Lady of all that have loved the people,  
+Lady of all that have loved the people,  
 
-    Light over roads astray,  
+Light over roads astray,  
 
-    Maze of steading and street and steeple,  
+Maze of steading and street and steeple,  
 
-    Great as a heart that has loved the people:  
+Great as a heart that has loved the people:  
 
-    Stand on the [[Crown|crown]] of the soaring down,  
+Stand on the [[Crown|crown]] of the soaring down,  
 
-    Lift up your arms and pray.  
+Lift up your arms and pray.  
 
-    Only you I have not forgotten  
+Only you I have not forgotten  
 
-    For wreck of the world's renown,  
+For wreck of the world's renown,  
 
-    Rending and ending of things gone rotten,  
+Rending and ending of things gone rotten,  
 
-    Only the face of you unforgotten:  
+Only the face of you unforgotten:  
 
-    And your head upthrown in the skies [[Alone|alone]]  
+And your head upthrown in the skies [[Alone|alone]]  
 
-    As you came over the down.  
+As you came over the down.  
 
-    THE RED SEA  
+THE RED SEA  
 
-    Our souls shall be Leviathans  
+Our souls shall be Leviathans  
 
-    In purple seas of wine  
+In purple seas of wine  
 
-    When drunkenness is dead with [[Death|death]],  
+When drunkenness is dead with [[Death|death]],  
 
-    And drink is all divine;  
+And drink is all divine;  
 
-    Learning in those immortal vats  
+Learning in those immortal vats  
 
-    What mortal vineyards mean;  
+What mortal vineyards mean;  
 
-    For only in heaven we shall know  
+For only in heaven we shall know  
 
-    How happy we have been.  
+How happy we have been.  
 
-    Like clouds that wallow in the [[Wind|wind]]  
+Like clouds that wallow in the [[Wind|wind]]  
 
-    Be free to drift and drink;  
+Be free to drift and drink;  
 
-    Tower without insolence when we rise,  
+Tower without insolence when we rise,  
 
-    Without surrender sink:  
+Without surrender sink:  
 
-    [[Dreams]] dizzy and crazy we shall know  
+[[Dreams]] dizzy and crazy we shall know  
 
-    And have no need to write  
+And have no need to write  
 
-    Our blameless blasphemies of praise,  
+Our blameless blasphemies of praise,  
 
-    Our nightmares of delight.  
+Our nightmares of delight.  
 
-    For so in such misshapen shape  
+For so in such misshapen shape  
 
-    The vision came to me,  
+The vision came to me,  
 
-    Where such titanian dolphins dark  
+Where such titanian dolphins dark  
 
-    Roll in a sunset sea:  
+Roll in a sunset sea:  
 
-    Dark with dense colours, strange and strong  
+Dark with dense colours, strange and strong  
 
-    As terrible true [[Love|love]],  
+As terrible true [[Love|love]],  
 
-    Haloed like fish in phospher light  
+Haloed like fish in phospher light  
 
-    The holy monsters move.  
+The holy monsters move.  
 
-    Measure is here and law, to learn,  
+Measure is here and law, to learn,  
 
-    When [[Honour|honour]] rules it so,  
+When [[Honour|honour]] rules it so,  
 
-    To lift the glass and lay it down  
+To lift the glass and lay it down  
 
-    Or break the glass and go.  
+Or break the glass and go.  
 
-    But when the world's New [[deluge|Deluge]] boils  
+But when the world's New [[deluge|Deluge]] boils  
 
-    From the New Noah's vine,  
+From the New Noah's vine,  
 
-    Our souls shall be Leviathans  
+Our souls shall be Leviathans  
 
-    In sanguine seas of wine.  
+In sanguine seas of wine.  
 
-    FOR A WAR MEMORIAL  
+FOR A WAR MEMORIAL  
 
-    _(Suggested [[Inscription]] probably not selected by the  
+_(Suggested [[Inscription]] probably not selected by the  
 
-    Committee.)_  
+Committee.)_  
 
-    The hucksters haggle in the mart  
+The hucksters haggle in the mart  
 
-    The cars and carts go by;  
+The cars and carts go by;  
 
-    Senates and schools go droning on;  
+Senates and schools go droning on;  
 
-    For dead things cannot die.  
+For dead things cannot die.  
 
-    A [[Storm|storm]] stooped on the place of tombs  
+A [[Storm|storm]] stooped on the place of tombs  
 
-    With bolts to blast and rive;  
+With bolts to blast and rive;  
 
-    But these be names of many men  
+But these be names of many men  
 
-    The [[Lightning|lightning]] found alive.  
+The [[Lightning|lightning]] found alive.  
 
-    If usurers rule and rights [[Decay|decay]]  
+If usurers rule and rights [[Decay|decay]]  
 
-    And visions view once more  
+And visions view once more  
 
-    Great Carthage like a golden shell  
+Great Carthage like a golden shell  
 
-    Gape hollow on the shore,  
+Gape hollow on the shore,  
 
-    Still to the last of crumbling [[Time|time]]  
+Still to the last of crumbling [[Time|time]]  
 
-    Upon this stone be read  
+Upon this stone be read  
 
-    How many men of England died  
+How many men of England died  
 
-    To prove they were not dead.  
+To prove they were not dead.  
 
-    [[Memory|MEMORY]]  
+[[Memory|MEMORY]]  
 
-    If I ever go back to Baltimore,  
+If I ever go back to Baltimore,  
 
-    The [[City|city]] of Maryland,  
+The [[City|city]] of Maryland,  
 
-    I shall miss again as I missed before  
+I shall miss again as I missed before  
 
-    A thousand things of the world in store,  
+A thousand things of the world in store,  
 
-    The story standing in every door  
+The story standing in every door  
 
-    That beckons with every hand.  
+That beckons with every hand.  
 
-    I shall not know where the bonds were riven  
+I shall not know where the bonds were riven  
 
-    And a hundred faiths set free,  
+And a hundred faiths set free,  
 
-    Where a wandering cavalier had given  
+Where a wandering cavalier had given  
 
-    Her hundredth name to the [[Queen]] of Heaven,  
+Her hundredth name to the [[Queen]] of Heaven,  
 
-    And made oblation of feuds forgiven  
+And made oblation of feuds forgiven  
 
-    To Our Lady of Liberty.  
+To Our Lady of Liberty.  
 
-    I shall not travel the tracks of fame  
+I shall not travel the tracks of fame  
 
-    Where the war was not to the strong;  
+Where the war was not to the strong;  
 
-    When Lee the last of the heroes came  
+When Lee the last of the heroes came  
 
-    With the Men of the South and a [[Flag|flag]] like flame,  
+With the Men of the South and a [[Flag|flag]] like flame,  
 
-    And called the land by its lovely name  
+And called the land by its lovely name  
 
-    In the unforgotten [[Song|song]].  
+In the unforgotten [[Song|song]].  
 
-    If ever I [[Cross|cross]] the sea and stray  
+If ever I [[Cross|cross]] the sea and stray  
 
-    To the [[City|city]] of Maryland,  
+To the [[City|city]] of Maryland,  
 
-    I will sit on a stone and watch or pray  
+I will sit on a stone and watch or pray  
 
-    For a stranger's [[Child|child]] that was there one day:  
+For a stranger's [[Child|child]] that was there one day:  
 
-    And the [[Child|child]] will never come back to play,  
+And the [[Child|child]] will never come back to play,  
 
-    And no-one will understand.  
+And no-one will understand.  
 
-    THE ENGLISH GRAVES  
+THE ENGLISH GRAVES  
 
-    Were I that wandering citizen whose [[City|city]] is the world,  
+Were I that wandering citizen whose [[City|city]] is the world,  
 
-    I would not weep for all that fell before the flags were furled;  
+I would not weep for all that fell before the flags were furled;  
 
-    I would not let one murmur mar the trumpets volleying forth  
+I would not let one murmur mar the trumpets volleying forth  
 
-    How God grew weary of the kings, and the cold hell in the north.  
+How God grew weary of the kings, and the cold hell in the north.  
 
-    But we whose hearts are homing [[Birds|birds]] have heavier thoughts of [[Home|home]],  
+But we whose hearts are homing [[Birds|birds]] have heavier thoughts of [[Home|home]],  
 
-    Though the great eagles burn with gold on [[Paris]] or on Rome,  
+Though the great eagles burn with gold on [[Paris]] or on Rome,  
 
-    Who stand beside our dead and stare, like seers at an eclipse,  
+Who stand beside our dead and stare, like seers at an eclipse,  
 
-    At the [[Riddle|riddle]] of the island tale and the twilight of the ships.  
+At the [[Riddle|riddle]] of the island tale and the twilight of the ships.  
 
-    For these were simple men that loved with hands and feet and eyes,  
+For these were simple men that loved with hands and feet and eyes,  
 
-    Whose souls were humbled to the hills and narrowed to the skies,  
+Whose souls were humbled to the hills and narrowed to the skies,  
 
-    The hundred little lands within one little land that lie,  
+The hundred little lands within one little land that lie,  
 
-    Where Severn seeks the sunset isles or Sussex scales the sky.  
+Where Severn seeks the sunset isles or Sussex scales the sky.  
 
-    And what is theirs, though banners blow on Warsaw risen again,  
+And what is theirs, though banners blow on Warsaw risen again,  
 
-    Or ancient laughter walks in gold through the vineyards of Lorraine,  
+Or ancient laughter walks in gold through the vineyards of Lorraine,  
 
-    Their dead are marked on English stones, their loves on English trees,  
+Their dead are marked on English stones, their loves on English trees,  
 
-    How little is the prize they win, how mean a coin for these--  
+How little is the prize they win, how mean a coin for these--  
 
-    How small a shrivelled laurel-leaf lies crumpled here and curled:  
+How small a shrivelled laurel-leaf lies crumpled here and curled:  
 
-    They died to save their country and they only saved the world.  
+They died to save their country and they only saved the world.  
 
-    [[nightmare|NIGHTMARE]]  
+[[nightmare|NIGHTMARE]]  
 
-    The silver and violet leopard of the [[Night|night]]  
+The silver and violet leopard of the [[Night|night]]  
 
-    Spotted with [[Stars|stars]] and smooth with [[Silence|silence]] sprang;  
+Spotted with [[Stars|stars]] and smooth with [[Silence|silence]] sprang;  
 
-    And though three doors stood open, the end of light  
+And though three doors stood open, the end of light  
 
-    Closed like a trap; and stillness was a clang.  
+Closed like a trap; and stillness was a clang.  
 
-    Under the leopard sky of lurid [[Stars|stars]]  
+Under the leopard sky of lurid [[Stars|stars]]  
 
-    I strove with evil [[Sleep|sleep]] the hot [[Night|night]] long,  
+I strove with evil [[Sleep|sleep]] the hot [[Night|night]] long,  
 
-    [[Dreams]] dumb and swollen of triumphs without wars,  
+[[Dreams]] dumb and swollen of triumphs without wars,  
 
-    Of tongueless trumpet and unanswering gong.  
+Of tongueless trumpet and unanswering gong.  
 
-    I saw a pale imperial pomp go by,  
+I saw a pale imperial pomp go by,  
 
-    Helmet and hornèd mitre and heavy wreath;  
+Helmet and hornèd mitre and heavy wreath;  
 
-    Their high strange ensigns hung upon the sky  
+Their high strange ensigns hung upon the sky  
 
-    And their great shields were like the doors of [[Death|death]].  
+And their great shields were like the doors of [[Death|death]].  
 
-    Their mitres were as moving pyramids  
+Their mitres were as moving pyramids  
 
-    And all their crowns as marching towers were tall;  
+And all their crowns as marching towers were tall;  
 
-    Their eyes were cold under their carven lids  
+Their eyes were cold under their carven lids  
 
-    And the same carven smile was on them all.  
+And the same carven smile was on them all.  
 
-    Over a paven plain that seemed unending  
+Over a paven plain that seemed unending  
 
-    They passed unfaltering till it found an end  
+They passed unfaltering till it found an end  
 
-    In one long shallow step; and these descending  
+In one long shallow step; and these descending  
 
-    Fared forth anew as long away to wend.  
+Fared forth anew as long away to wend.  
 
-    I thought they travelled for a thousand years;  
+I thought they travelled for a thousand years;  
 
-    And at the end was nothing for them all,  
+And at the end was nothing for them all,  
 
-    For all that splendour of sceptres and of spears,  
+For all that splendour of sceptres and of spears,  
 
-    But a new step, another easy fall.  
+But a new step, another easy fall.  
 
-    The smile of stone seemed but a little less,  
+The smile of stone seemed but a little less,  
 
-    The load of silver but a little more:  
+The load of silver but a little more:  
 
-    And ever was that terraced wilderness  
+And ever was that terraced wilderness  
 
-    And falling plain paved like a palace floor.  
+And falling plain paved like a palace floor.  
 
-    Rust red as gore crawled on their arms of might  
+Rust red as gore crawled on their arms of might  
 
-    And on their faces wrinkles and not scars:  
+And on their faces wrinkles and not scars:  
 
-    Till the dream suddenly ended; noise and light  
+Till the dream suddenly ended; noise and light  
 
-    Loosened the tyranny of the tropic [[Stars|stars]].  
+Loosened the tyranny of the tropic [[Stars|stars]].  
 
-    But over them like a subterranean sun  
+But over them like a subterranean sun  
 
-    I saw the sign of all the fiends that fell;  
+I saw the sign of all the fiends that fell;  
 
-    And a wild voice cried "Hasten and be done,  
+And a wild voice cried "Hasten and be done,  
 
-    Is there no steepness in the stairs of hell?"  
+Is there no steepness in the stairs of hell?"  
 
-    He that returns, He that remains the same,  
+He that returns, He that remains the same,  
 
-    Turned the round real world, His iron vice;  
+Turned the round real world, His iron vice;  
 
-    Down the grey [[Garden|garden]] paths a bird called twice,  
+Down the grey [[Garden|garden]] paths a bird called twice,  
 
-    And through three doors mysterious daylight came.  
+And through three doors mysterious daylight came.  
 
-    A SECOND [[Childhood|CHILDHOOD]]  
+A SECOND [[Childhood|CHILDHOOD]]  
 
-    When all my days are ending  
+When all my days are ending  
 
-    And I have no [[Song|song]] to sing,  
+And I have no [[Song|song]] to sing,  
 
-    I think I shall not be too old  
+I think I shall not be too old  
 
-    To stare at everything;  
+To stare at everything;  
 
-    As I stared once at a nursery door  
+As I stared once at a nursery door  
 
-    Or a tall tree and a swing.  
+Or a tall tree and a swing.  
 
-    Wherein God's ponderous [[Mercy|mercy]] hangs  
+Wherein God's ponderous [[Mercy|mercy]] hangs  
 
-    On all my sins and me,  
+On all my sins and me,  
 
-    Because He does not take away  
+Because He does not take away  
 
-    The terror from the tree  
+The terror from the tree  
 
-    And stones still shine along the [[Road|road]]  
+And stones still shine along the [[Road|road]]  
 
-    That are and cannot be.  
+That are and cannot be.  
 
-    Men grow too old for [[Love|love]], my [[Love|love]],  
+Men grow too old for [[Love|love]], my [[Love|love]],  
 
-    Men grow too old for wine,  
+Men grow too old for wine,  
 
-    But I shall not grow too old to see  
+But I shall not grow too old to see  
 
-    Unearthly daylight shine,  
+Unearthly daylight shine,  
 
-    Changing my chamber's [[Dust|dust]] to [[Snow|snow]]  
+Changing my chamber's [[Dust|dust]] to [[Snow|snow]]  
 
-    Till I [[Doubt|doubt]] if it be mine.  
+Till I [[Doubt|doubt]] if it be mine.  
 
-    Behold, the crowning mercies melt,  
+Behold, the crowning mercies melt,  
 
-    The first surprises stay;  
+The first surprises stay;  
 
-    And in my dross is dropped a gift  
+And in my dross is dropped a gift  
 
-    For which I dare not pray:  
+For which I dare not pray:  
 
-    That a man grow used to grief and joy  
+That a man grow used to grief and joy  
 
-    But not to [[Night|night]] and day.  
+But not to [[Night|night]] and day.  
 
-    Men grow too old for [[Love|love]], my [[Love|love]],  
+Men grow too old for [[Love|love]], my [[Love|love]],  
 
-    Men grow too old for lies;  
+Men grow too old for lies;  
 
-    But I shall not grow too old to see  
+But I shall not grow too old to see  
 
-    Enormous [[Night|night]] arise,  
+Enormous [[Night|night]] arise,  
 
-    A cloud that is larger than the world  
+A cloud that is larger than the world  
 
-    And a [[Monster|monster]] made of eyes.  
+And a [[Monster|monster]] made of eyes.  
 
-    Nor am I worthy to unloose  
+Nor am I worthy to unloose  
 
-    The latchet of my shoe;  
+The latchet of my shoe;  
 
-    Or shake the [[Dust|dust]] from off my feet  
+Or shake the [[Dust|dust]] from off my feet  
 
-    Or the staff that bears me through  
+Or the staff that bears me through  
 
-    On ground that is too good to last,  
+On ground that is too good to last,  
 
-    Too solid to be true.  
+Too solid to be true.  
 
-    Men grow too old to woo, my [[Love|love]],  
+Men grow too old to woo, my [[Love|love]],  
 
-    Men grow too old to wed:  
+Men grow too old to wed:  
 
-    But I shall not grow too old to see  
+But I shall not grow too old to see  
 
-    Hung crazily overhead  
+Hung crazily overhead  
 
-    Incredible rafters when I wake  
+Incredible rafters when I wake  
 
-    And find I am not dead.  
+And find I am not dead.  
 
-    A thrill of thunder in my hair:  
+A thrill of thunder in my hair:  
 
-    Though blackening clouds be plain,  
+Though blackening clouds be plain,  
 
-    Still I am stung and startled  
+Still I am stung and startled  
 
-    By the first drop of the rain:  
+By the first drop of the rain:  
 
-    [[Romance]] and [[Pride|pride]] and passion pass  
+[[Romance]] and [[Pride|pride]] and passion pass  
 
-    And these are what remain.  
+And these are what remain.  
 
-    Strange crawling carpets of the grass,  
+Strange crawling carpets of the grass,  
 
-    Wide windows of the sky:  
+Wide windows of the sky:  
 
-    So in this perilous grace of God  
+So in this perilous grace of God  
 
-    With all my sins go I:  
+With all my sins go I:  
 
-    And things grow new though I grow old,  
+And things grow new though I grow old,  
 
-    Though I grow old and die.  
+Though I grow old and die.  
 
-    "MEDIÆVALISM"  
+"MEDIÆVALISM"  
 
-    If men should rise and return to the noise and [[Time|time]] of the tourney,  
+If men should rise and return to the noise and [[Time|time]] of the tourney,  
 
-    The name and fame of the tabard, the tangle of gules and gold,  
+The name and fame of the tabard, the tangle of gules and gold,  
 
-    Would these things stand and suffice for the bourne of a backward  
+Would these things stand and suffice for the bourne of a backward  
 
-      [[Journey|journey]],  
+[[Journey|journey]],  
 
-    A light on our days returning, as it was in the days of old?  
+A light on our days returning, as it was in the days of old?  
 
-    Nay, there is none rides back to pick up a glove or a feather,  
+Nay, there is none rides back to pick up a glove or a feather,  
 
-    Though the gauntlet rang with [[Honour|honour]] or the plume was more than a  
+Though the gauntlet rang with [[Honour|honour]] or the plume was more than a  
 
-      [[Crown|crown]]:  
+[[Crown|crown]]:  
 
-    And hushed is the holy trumpet that called the nations together  
+And hushed is the holy trumpet that called the nations together  
 
-    And under the Horns of Hattin the [[Hope|hope]] of the world went down.  
+And under the Horns of Hattin the [[Hope|hope]] of the world went down.  
 
-    Ah, not in remembrance stored, but out of oblivion starting,  
+Ah, not in remembrance stored, but out of oblivion starting,  
 
-    Because you have sought new homes and all that you sought is so,  
+Because you have sought new homes and all that you sought is so,  
 
-    Because you had trodden the [[Fire|fire]] and barred the door in departing,  
+Because you had trodden the [[Fire|fire]] and barred the door in departing,  
 
-    Returns in your chosen [[Exile|exile]] the glory of long ago.  
+Returns in your chosen [[Exile|exile]] the glory of long ago.  
 
-    Not then when you barred the door, not then when you trod the embers,  
+Not then when you barred the door, not then when you trod the embers,  
 
-    But now, at your new [[Road|road]]'s end, you have seen the face of a fate,  
+But now, at your new [[Road|road]]'s end, you have seen the face of a fate,  
 
-    That not as a [[Child|child]] looks back, and not as a [[Fool|fool]] remembers,  
+That not as a [[Child|child]] looks back, and not as a [[Fool|fool]] remembers,  
 
-    All that men took too lightly and all that they [[Love|love]] too late.  
+All that men took too lightly and all that they [[Love|love]] too late.  
 
-    It is you that have made no rubric for saints, no raiment for [[lovers]],  
+It is you that have made no rubric for saints, no raiment for [[lovers]],  
 
-    Your caps that cry for a feather, your roofs that sigh for a spire:  
+Your caps that cry for a feather, your roofs that sigh for a spire:  
 
-    Is it [[A Dream|a dream]] from the dead if your own [[Decay|decay]] discovers  
+Is it [[A Dream|a dream]] from the dead if your own [[Decay|decay]] discovers  
 
-    Alive in your rotting graveyard the worm of the world's [[Desire|desire]]?  
+Alive in your rotting graveyard the worm of the world's [[Desire|desire]]?  
 
-    Therefore the old trees tower, that the green trees grow and are  
+Therefore the old trees tower, that the green trees grow and are  
 
-      stunted:  
+stunted:  
 
-    Therefore these dead men mock you, that you the living are dead:  
+Therefore these dead men mock you, that you the living are dead:  
 
-    Since ever you battered the saints and the tools of your crafts were  
+Since ever you battered the saints and the tools of your crafts were  
 
-      blunted,  
+blunted,  
 
-    Or shattered the glass in its glory and loaded yourselves with the  
+Or shattered the glass in its glory and loaded yourselves with the  
 
-      lead.  
+lead.  
 
-    When the usurer hunts the squire as the squire has hunted the peasant,  
+When the usurer hunts the squire as the squire has hunted the peasant,  
 
-    As sheep that are eaten of worms where men were eaten of sheep:  
+As sheep that are eaten of worms where men were eaten of sheep:  
 
-    Now is the judgment of earth, and the weighing of past and present,  
+Now is the judgment of earth, and the weighing of past and present,  
 
-    Who scorn to weep over ruins, behold your ruin and weep.  
+Who scorn to weep over ruins, behold your ruin and weep.  
 
-    Have ye not known, ye fools, that have made the present a [[Prison|prison]],  
+Have ye not known, ye fools, that have made the present a [[Prison|prison]],  
 
-    That thirst can remember [[Water|water]] and hunger remember bread?  
+That thirst can remember [[Water|water]] and hunger remember bread?  
 
-    We went not gathering [[Ghosts|ghosts]]; but the shriek of your shame is arisen  
+We went not gathering [[Ghosts|ghosts]]; but the shriek of your shame is arisen  
 
-    Out of your own black Babel too loud; and it woke the dead.  
+Out of your own black Babel too loud; and it woke the dead.  
 
-    POLAND  
+POLAND  
 
-    Augurs that watched archaic [[Birds|birds]]  
+Augurs that watched archaic [[Birds|birds]]  
 
-    Such plumèd prodigies might read,  
+Such plumèd prodigies might read,  
 
-    The eagles that were [[Double|double]]-faced,  
+The eagles that were [[Double|double]]-faced,  
 
-    The eagle that was black indeed;  
+The eagle that was black indeed;  
 
-    And when the battle-[[Birds|birds]] went down  
+And when the battle-[[Birds|birds]] went down  
 
-    And in their track the vultures come,  
+And in their track the vultures come,  
 
-    We know what pardon and what peace  
+We know what pardon and what peace  
 
-    Will keep our little masters dumb.  
+Will keep our little masters dumb.  
 
-    The men that sell what others make,  
+The men that sell what others make,  
 
-    As vultures eat what others slay,  
+As vultures eat what others slay,  
 
-    Will prove in matching plume with plume  
+Will prove in matching plume with plume  
 
-    That naught is black and all is grey;  
+That naught is black and all is grey;  
 
-    Grey as those dingy doves that once,  
+Grey as those dingy doves that once,  
 
-    By money-changers palmed and priced,  
+By money-changers palmed and priced,  
 
-    Amid the crash of tables flapped  
+Amid the crash of tables flapped  
 
-    And huddled from the wrath of [[Christ]].  
+And huddled from the wrath of [[Christ]].  
 
-    But raised for ever for a sign  
+But raised for ever for a sign  
 
-    Since God made anger glorious,  
+Since God made anger glorious,  
 
-    Where eagles black and vultures grey  
+Where eagles black and vultures grey  
 
-    Flocked back about the heroic [[house]],  
+Flocked back about the heroic [[house]],  
 
-    Where war is holier than peace,  
+Where war is holier than peace,  
 
-    Where hate is holier than [[Love|love]],  
+Where hate is holier than [[Love|love]],  
 
-    Shone terrible as the Holy [[Ghost]]  
+Shone terrible as the Holy [[Ghost]]  
 
-    An eagle whiter than a dove.  
+An eagle whiter than a dove.  
 
-    THE HUNTING OF THE DRAGON  
+THE HUNTING OF THE DRAGON  
 
-    When we went hunting the Dragon  
+When we went hunting the Dragon  
 
-    In the days when we were young,  
+In the days when we were young,  
 
-    We tossed the bright world over our shoulder  
+We tossed the bright world over our shoulder  
 
-    As bugle and baldrick slung;  
+As bugle and baldrick slung;  
 
-    Never was world so wild and fair  
+Never was world so wild and fair  
 
-    As what went by on the [[Wind|wind]],  
+As what went by on the [[Wind|wind]],  
 
-    Never such fields of paradise  
+Never such fields of paradise  
 
-    As the fields we left behind:  
+As the fields we left behind:  
 
-      For this is the best of a rest for men  
+For this is the best of a rest for men  
 
-      That men should rise and ride  
+That men should rise and ride  
 
-      Making a flying fairyland  
+Making a flying fairyland  
 
-      Of market and country-side,  
+Of market and country-side,  
 
-      Wings on the cottage, wings on the wood,  
+Wings on the cottage, wings on the wood,  
 
-      Wings upon pot and pan,  
+Wings upon pot and pan,  
 
-      For the hunting of the Dragon  
+For the hunting of the Dragon  
 
-      That is the life of a man.  
+That is the life of a man.  
 
-    For men grow weary of fairyland  
+For men grow weary of fairyland  
 
-    When the Dragon is [[A Dream|a dream]],  
+When the Dragon is [[A Dream|a dream]],  
 
-    And tire of the talking bird in the tree,  
+And tire of the talking bird in the tree,  
 
-    The singing fish in the stream;  
+The singing fish in the stream;  
 
-    And the wandering [[Stars|stars]] grow stale, grow stale,  
+And the wandering [[Stars|stars]] grow stale, grow stale,  
 
-    And the [[Wonder|wonder]] is stiff with scorn;  
+And the [[Wonder|wonder]] is stiff with scorn;  
 
-    For this is the [[Honour|honour]] of fairyland  
+For this is the [[Honour|honour]] of fairyland  
 
-    And the following of the horn;  
+And the following of the horn;  
 
-      [[Beauty]] on [[Beauty|beauty]] called us back  
+[[Beauty]] on [[Beauty|beauty]] called us back  
 
-      When we could rise and ride,  
+When we could rise and ride,  
 
-      And a woman looked out of every [[Window|window]]  
+And a woman looked out of every [[Window|window]]  
 
-      As wonderful as a bride:  
+As wonderful as a bride:  
 
-      And the tavern-sign as a tabard blazed,  
+And the tavern-sign as a tabard blazed,  
 
-      And the children cheered and ran,  
+And the children cheered and ran,  
 
-      For the [[Love|love]] of the hate of the Dragon  
+For the [[Love|love]] of the hate of the Dragon  
 
-      That is the [[Pride|pride]] of a man.  
+That is the [[Pride|pride]] of a man.  
 
-    The sages called him a [[Shadow|shadow]]  
+The sages called him a [[Shadow|shadow]]  
 
-    And the light went out of the sun:  
+And the light went out of the sun:  
 
-    And the wise men told us that all was [[Well|well]]  
+And the wise men told us that all was [[Well|well]]  
 
-    And all was weary and one:  
+And all was weary and one:  
 
-    And then, and then, in the quiet [[Garden|garden]],  
+And then, and then, in the quiet [[Garden|garden]],  
 
-    With never a weed to kill,  
+With never a weed to kill,  
 
-    We knew that his shining tail had shone  
+We knew that his shining tail had shone  
 
-    In the white [[Road|road]] over the [[Hill|hill]]:  
+In the white [[Road|road]] over the [[Hill|hill]]:  
 
-    We knew that the clouds were flakes of flame,  
+We knew that the clouds were flakes of flame,  
 
-    We knew that the sunset [[Fire|fire]]  
+We knew that the sunset [[Fire|fire]]  
 
-    Was red with the [[Blood|blood]] of the Dragon  
+Was red with the [[Blood|blood]] of the Dragon  
 
-    Whose [[Death|death]] is the world's [[Desire|desire]].  
+Whose [[Death|death]] is the world's [[Desire|desire]].  
 
-      For the horn was blown in the heart of the [[Night|night]]  
+For the horn was blown in the heart of the [[Night|night]]  
 
-      That men should rise and ride,  
+That men should rise and ride,  
 
-      Keeping the tryst of a terrible jest  
+Keeping the tryst of a terrible jest  
 
-      Never for long untried;  
+Never for long untried;  
 
-      Drinking a dreadful [[Blood|blood]] for wine,  
+Drinking a dreadful [[Blood|blood]] for wine,  
 
-      Never in cup or can,  
+Never in cup or can,  
 
-      The [[Death|death]] of a deathless Dragon,  
+The [[Death|death]] of a deathless Dragon,  
 
-      That is the life of a man.  
+That is the life of a man.  
 
-    [[Sonnet|SONNET]]  
+[[Sonnet|SONNET]]  
 
-    High on the wall that holds Jerusalem  
+High on the wall that holds Jerusalem  
 
-    I saw one stand under the [[Stars|stars]] like stone.  
+I saw one stand under the [[Stars|stars]] like stone.  
 
-    And when I perish it shall not be known  
+And when I perish it shall not be known  
 
-    Whether he lived, some strolling son of Shem,  
+Whether he lived, some strolling son of Shem,  
 
-    Or was some great [[Ghost|ghost]] wearing the diadem  
+Or was some great [[Ghost|ghost]] wearing the diadem  
 
-    Of Solomon or Saladin on a throne:  
+Of Solomon or Saladin on a throne:  
 
-    I only know, the features being unshown,  
+I only know, the features being unshown,  
 
-    I did not dare draw near and look on them.  
+I did not dare draw near and look on them.  
 
-    Did ye not guess ... the diadem might be  
+Did ye not guess ... the diadem might be  
 
-    Plaited in stranger style by hands of hate ...  
+Plaited in stranger style by hands of hate ...  
 
-    But when I looked, the wall was desolate  
+But when I looked, the wall was desolate  
 
-    And the grey starlight powdered tower and tree:  
+And the grey starlight powdered tower and tree:  
 
-    And vast and vague beyond the Golden Gate  
+And vast and vague beyond the Golden Gate  
 
-    Heaved Moab of the [[Mountains|mountains]] like a sea.  
+Heaved Moab of the [[Mountains|mountains]] like a sea.  
 
-    FANTASIA  
+FANTASIA  
 
-    The happy men that lose their heads  
+The happy men that lose their heads  
 
-    They find their heads in heaven,  
+They find their heads in heaven,  
 
-    As cherub heads with cherub wings,  
+As cherub heads with cherub wings,  
 
-    And cherub haloes even:  
+And cherub haloes even:  
 
-    Out of the infinite evening lands  
+Out of the infinite evening lands  
 
-    Along the sunset sea,  
+Along the sunset sea,  
 
-    Leaving the purple fields behind,  
+Leaving the purple fields behind,  
 
-    The cherub wings beat down the [[Wind|wind]]  
+The cherub wings beat down the [[Wind|wind]]  
 
-    Back to the groping [[Body|body]] and blind  
+Back to the groping [[Body|body]] and blind  
 
-    As the bird back to the tree.  
+As the bird back to the tree.  
 
-    Whether the plumes be passion-red  
+Whether the plumes be passion-red  
 
-    For him that truly dies  
+For him that truly dies  
 
-    By headsmen's blade or battle-axe,  
+By headsmen's blade or battle-axe,  
 
-    Or blue like butterflies,  
+Or blue like butterflies,  
 
-    For him that lost it in a lane  
+For him that lost it in a lane  
 
-    In April's fits and starts,  
+In April's fits and starts,  
 
-    His folly is forgiven then:  
+His folly is forgiven then:  
 
-    But higher, and far beyond our ken,  
+But higher, and far beyond our ken,  
 
-    Is the healing of the unhappy men,  
+Is the healing of the unhappy men,  
 
-    The men that lost their hearts.  
+The men that lost their hearts.  
 
-    Is there not pardon for the brave  
+Is there not pardon for the brave  
 
-    And broad release above,  
+And broad release above,  
 
-    Who lost their heads for liberty  
+Who lost their heads for liberty  
 
-    Or lost their hearts for [[Love|love]]?  
+Or lost their hearts for [[Love|love]]?  
 
-    Or is the wise man wise indeed  
+Or is the wise man wise indeed  
 
-    Whom larger thoughts keep whole?  
+Whom larger thoughts keep whole?  
 
-    Who sees life equal like a chart,  
+Who sees life equal like a chart,  
 
-    Made strong to play the saner part,  
+Made strong to play the saner part,  
 
-    And keep his head and keep his heart,  
+And keep his head and keep his heart,  
 
-    And only lose his [[Soul|soul]].  
+And only lose his [[Soul|soul]].  
 
-    A CHRISTMAS [[carol|CAROL]]  
+A CHRISTMAS [[carol|CAROL]]  
 
-    _(The Chief Constable has issued a statement declaring that  
+_(The Chief Constable has issued a statement declaring that  
 
-    [[carol]] singing in the streets by children is illegal, and morally  
+[[carol]] singing in the streets by children is illegal, and morally  
 
-    and physically injurious. He appeals to the public to discourage  
+and physically injurious. He appeals to the public to discourage  
 
-    the practice.--Daily Paper.)_  
+the practice.--Daily Paper.)_  
 
-    God rest you merry gentlemen,  
+God rest you merry gentlemen,  
 
-    Let nothing you dismay;  
+Let nothing you dismay;  
 
-    The Herald Angels cannot sing,  
+The Herald Angels cannot sing,  
 
-    The cops arrest them on the wing,  
+The cops arrest them on the wing,  
 
-    And warn them of the docketing  
+And warn them of the docketing  
 
-    Of anything they say.  
+Of anything they say.  
 
-    God rest you merry gentlemen,  
+God rest you merry gentlemen,  
 
-    May nothing you dismay:  
+May nothing you dismay:  
 
-    On your reposeful cities lie  
+On your reposeful cities lie  
 
-    Deep [[Silence|silence]], broken only by  
+Deep [[Silence|silence]], broken only by  
 
-    The motor horn's melodious cry,  
+The motor horn's melodious cry,  
 
-    The hooter's happy bray.  
+The hooter's happy bray.  
 
-    So, when the [[Song|song]] of children ceased  
+So, when the [[Song|song]] of children ceased  
 
-    And Herod was obeyed,  
+And Herod was obeyed,  
 
-    In his high hall Corinthian  
+In his high hall Corinthian  
 
-    With purple and with peacock fan,  
+With purple and with peacock fan,  
 
-    Rested that merry gentleman;  
+Rested that merry gentleman;  
 
-    And nothing him dismayed.  
+And nothing him dismayed.  
 
-    TO CAPTAIN FRYATT  
+TO CAPTAIN FRYATT  
 
-    Trampled yet red is the last of the embers,  
+Trampled yet red is the last of the embers,  
 
-    Red the last cloud of a sun that has set;  
+Red the last cloud of a sun that has set;  
 
-    What of your sleeping though Flanders remembers,  
+What of your sleeping though Flanders remembers,  
 
-    What of your waking, if England forget?  
+What of your waking, if England forget?  
 
-    Why should you share in the hearts that we harden,  
+Why should you share in the hearts that we harden,  
 
-    In the shame of our [[Nature|nature]], who see it and live?  
+In the shame of our [[Nature|nature]], who see it and live?  
 
-    How more than the godly the greedy can pardon,  
+How more than the godly the greedy can pardon,  
 
-    How [[Well|well]] and how quickly the hungry forgive.  
+How [[Well|well]] and how quickly the hungry forgive.  
 
-    Ah, [[Well|well]] if the soil of the stranger had wrapped you,  
+Ah, [[Well|well]] if the soil of the stranger had wrapped you,  
 
-    While the lords that you served and the friends that you knew  
+While the lords that you served and the friends that you knew  
 
-    Hawk in the marts of the tyrants that trapped you,  
+Hawk in the marts of the tyrants that trapped you,  
 
-    Tout in the shops of the butchers that slew.  
+Tout in the shops of the butchers that slew.  
 
-    Why should you wake for a realm that is rotten,  
+Why should you wake for a realm that is rotten,  
 
-    Stuffed with their bribes and as dead to their debts?  
+Stuffed with their bribes and as dead to their debts?  
 
-    [[Sleep]] and forget us, as we have forgotten;  
+[[Sleep]] and forget us, as we have forgotten;  
 
-    For Flanders remembers and England forgets.  
+For Flanders remembers and England forgets.  
 
-    FOR FOUR GUILDS  
+FOR FOUR GUILDS  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    I. THE GLASS-STAINERS  
+I. THE GLASS-STAINERS  
 
-    To every Man his Mystery,  
+To every Man his Mystery,  
 
-    A trade and only one:  
+A trade and only one:  
 
-    The masons make the hives of men,  
+The masons make the hives of men,  
 
-    The domes of grey or dun,  
+The domes of grey or dun,  
 
-    But we have wrought in [[Rose|rose]] and gold  
+But we have wrought in [[Rose|rose]] and gold  
 
-    The houses of the sun.  
+The houses of the sun.  
 
-    The shipwrights build the houses high,  
+The shipwrights build the houses high,  
 
-    Whose green foundations sway  
+Whose green foundations sway  
 
-    Alive with fish like little flames,  
+Alive with fish like little flames,  
 
-    When the [[Wind|wind]] goes out to slay.  
+When the [[Wind|wind]] goes out to slay.  
 
-    But we abide with painted sails  
+But we abide with painted sails  
 
-    The cyclone of the day.  
+The cyclone of the day.  
 
-    The weavers make the clothes of men  
+The weavers make the clothes of men  
 
-    And coats for everyone;  
+And coats for everyone;  
 
-    They walk the streets like sunset clouds;  
+They walk the streets like sunset clouds;  
 
-    But we have woven and spun  
+But we have woven and spun  
 
-    In scarlet or in golden-green  
+In scarlet or in golden-green  
 
-    The gay coats of the sun.  
+The gay coats of the sun.  
 
-    You whom the usurers and the lords  
+You whom the usurers and the lords  
 
-    With insolent liveries trod,  
+With insolent liveries trod,  
 
-    Deep in dark church behold, above  
+Deep in dark church behold, above  
 
-    Their lance-lengths by a rod,  
+Their lance-lengths by a rod,  
 
-    Where we have blazed the tabard  
+Where we have blazed the tabard  
 
-    Of the trumpeter of God.  
+Of the trumpeter of God.  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    II. THE BRIDGE-BUILDERS  
+II. THE BRIDGE-BUILDERS  
 
-    In the world's whitest morning  
+In the world's whitest morning  
 
-    As hoary with [[Hope|hope]],  
+As hoary with [[Hope|hope]],  
 
-    The Builder of Bridges  
+The Builder of Bridges  
 
-    Was priest and was pope:  
+Was priest and was pope:  
 
-    And the mitre of mystery  
+And the mitre of mystery  
 
-    And the canopy his,  
+And the canopy his,  
 
-    Who darkened the chasms  
+Who darkened the chasms  
 
-    And domed the abyss.  
+And domed the abyss.  
 
-    To eastward and westward  
+To eastward and westward  
 
-    Spread wings at his word  
+Spread wings at his word  
 
-    The arch with the key-stone  
+The arch with the key-stone  
 
-    That stoops like a bird;  
+That stoops like a bird;  
 
-    That rides the wild air  
+That rides the wild air  
 
-    And the daylight cast under;  
+And the daylight cast under;  
 
-    The highway of danger,  
+The highway of danger,  
 
-    The gateway of [[Wonder|wonder]].  
+The gateway of [[Wonder|wonder]].  
 
-    Of his throne were the thunders  
+Of his throne were the thunders  
 
-    That rivet and fix  
+That rivet and fix  
 
-    Wild weddings of strangers  
+Wild weddings of strangers  
 
-    That meet and not mix;  
+That meet and not mix;  
 
-    The town and the cornland;  
+The town and the cornland;  
 
-    The bride and the groom:  
+The bride and the groom:  
 
-    In the breaking of bridges  
+In the breaking of bridges  
 
-    Is treason and doom.  
+Is treason and doom.  
 
-    But he bade us, who fashion  
+But he bade us, who fashion  
 
-    The [[Road|road]] that can fly,  
+The [[Road|road]] that can fly,  
 
-    That we build not too heavy  
+That we build not too heavy  
 
-    And build not too high:  
+And build not too high:  
 
-    Seeing alway that under  
+Seeing alway that under  
 
-    The dark arch's bend  
+The dark arch's bend  
 
-    Shine [[Death|death]] and white daylight  
+Shine [[Death|death]] and white daylight  
 
-    Unchanged to the end.  
+Unchanged to the end.  
 
-    Who walk on his [[Mercy|mercy]]  
+Who walk on his [[Mercy|mercy]]  
 
-    Walk light, as he saith,  
+Walk light, as he saith,  
 
-    Seeing that our life  
+Seeing that our life  
 
-    Is a bridge above [[Death|death]];  
+Is a bridge above [[Death|death]];  
 
-    And the world and its gardens  
+And the world and its gardens  
 
-    And hills, as ye heard,  
+And hills, as ye heard,  
 
-    Are born above space  
+Are born above space  
 
-    On the wings of a bird.  
+On the wings of a bird.  
 
-    Not high and not heavy  
+Not high and not heavy  
 
-    Is building of his:  
+Is building of his:  
 
-    When ye seal up the flood  
+When ye seal up the flood  
 
-    And forget the abyss,  
+And forget the abyss,  
 
-    When your towers are uplifted,  
+When your towers are uplifted,  
 
-    Your banners unfurled,  
+Your banners unfurled,  
 
-    In the breaking of bridges  
+In the breaking of bridges  
 
-    Is the end of the world.  
+Is the end of the world.  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    III. THE STONE-MASONS  
+III. THE STONE-MASONS  
 
-    We have graven the mountain of God with hands,  
+We have graven the mountain of God with hands,  
 
-    As our hands were graven of God, they say,  
+As our hands were graven of God, they say,  
 
-    Where the seraphs burn in the sun like brands  
+Where the seraphs burn in the sun like brands  
 
-    And the devils carry the rains away;  
+And the devils carry the rains away;  
 
-    Making a thrift of the throats of hell,  
+Making a thrift of the throats of hell,  
 
-    Our [[gargoyles]] gather the roaring rain,  
+Our [[gargoyles]] gather the roaring rain,  
 
-    Whose yawn is more than a frozen yell  
+Whose yawn is more than a frozen yell  
 
-    And their very vomiting not in vain.  
+And their very vomiting not in vain.  
 
-    Wilder than all that a tongue can utter,  
+Wilder than all that a tongue can utter,  
 
-    Wiser than all that is told in words,  
+Wiser than all that is told in words,  
 
-    The wings of stone of the soaring gutter  
+The wings of stone of the soaring gutter  
 
-    Fly out and follow the flight of the [[Birds|birds]];  
+Fly out and follow the flight of the [[Birds|birds]];  
 
-    The rush and rout of the angel wars  
+The rush and rout of the angel wars  
 
-    Stand out above the astounded street,  
+Stand out above the astounded street,  
 
-    Where we flung our gutters against the [[Stars|stars]]  
+Where we flung our gutters against the [[Stars|stars]]  
 
-    For a sign that the first and the last shall meet.  
+For a sign that the first and the last shall meet.  
 
-    We have graven the forest of heaven with hands,  
+We have graven the forest of heaven with hands,  
 
-    Being great with a mirth too gross for [[Pride|pride]],  
+Being great with a mirth too gross for [[Pride|pride]],  
 
-    In the stone that battered him Stephen stands  
+In the stone that battered him Stephen stands  
 
-    And Peter himself is petrified:  
+And Peter himself is petrified:  
 
-    Such hands as have grubbed in the glebe for bread  
+Such hands as have grubbed in the glebe for bread  
 
-    Have bidden the blank rock blossom and thrive,  
+Have bidden the blank rock blossom and thrive,  
 
-    Such hands as have stricken a live man dead  
+Such hands as have stricken a live man dead  
 
-    Have struck, and stricken the dead alive.  
+Have struck, and stricken the dead alive.  
 
-    Fold your hands before heaven in praying,  
+Fold your hands before heaven in praying,  
 
-    Lift up your hands into heaven and cry;  
+Lift up your hands into heaven and cry;  
 
-    But look where our dizziest spires are saying  
+But look where our dizziest spires are saying  
 
-    What the hands of a man did up in the sky:  
+What the hands of a man did up in the sky:  
 
-    Drenched before you have heard the thunder,  
+Drenched before you have heard the thunder,  
 
-    White before you have felt the [[Snow|snow]];  
+White before you have felt the [[Snow|snow]];  
 
-    For the giants lift up their hands to [[Wonder|wonder]]  
+For the giants lift up their hands to [[Wonder|wonder]]  
 
-    How high the hands of a man could go.  
+How high the hands of a man could go.  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    IV. THE BELL-RINGERS  
+IV. THE BELL-RINGERS  
 
-    The angels are singing like [[Birds|birds]] in a tree  
+The angels are singing like [[Birds|birds]] in a tree  
 
-    In the organ of good St. Cecily:  
+In the organ of good St. Cecily:  
 
-    And the parson reads with his hand upon  
+And the parson reads with his hand upon  
 
-    The graven eagle of great St. John:  
+The graven eagle of great St. John:  
 
-    But never the fluted pipes shall go  
+But never the fluted pipes shall go  
 
-    Like the fifes of an army all a-row,  
+Like the fifes of an army all a-row,  
 
-    Merrily marching down the street  
+Merrily marching down the street  
 
-    To the marts where the busy and idle meet;  
+To the marts where the busy and idle meet;  
 
-    And never the brazen bird shall fly  
+And never the brazen bird shall fly  
 
-    Out of the [[Window|window]] and into the sky,  
+Out of the [[Window|window]] and into the sky,  
 
-    Till men in cities and shires and ships  
+Till men in cities and shires and ships  
 
-    Look up at the living [[Apocalypse]].  
+Look up at the living [[Apocalypse]].  
 
-    But all can hark at the dark of even  
+But all can hark at the dark of even  
 
-    [[The Bells|The bells]] that bay like the hounds of heaven,  
+[[The Bells|The bells]] that bay like the hounds of heaven,  
 
-    Tolling and telling that over and under,  
+Tolling and telling that over and under,  
 
-    In the ways of the air like a wandering thunder,  
+In the ways of the air like a wandering thunder,  
 
-    The hunt is up over hills untrod:  
+The hunt is up over hills untrod:  
 
-    For the [[Wind|wind]] is the way of the [[dogs]] of God:  
+For the [[Wind|wind]] is the way of the [[dogs]] of God:  
 
-    From the [[Tyrant|tyrant]]'s tower to the outlaw's den  
+From the [[Tyrant|tyrant]]'s tower to the outlaw's den  
 
-    Hunting the souls of the sons of men.  
+Hunting the souls of the sons of men.  
 
-    Ruler and robber and pedlar and peer,  
+Ruler and robber and pedlar and peer,  
 
-    Who will not harken and yet will hear;  
+Who will not harken and yet will hear;  
 
-    Filling men's heads with the hurry and hum  
+Filling men's heads with the hurry and hum  
 
-    Making them welcome before they come.  
+Making them welcome before they come.  
 
-    And we poor men stand under the steeple  
+And we poor men stand under the steeple  
 
-    Drawing the cords that can draw the people,  
+Drawing the cords that can draw the people,  
 
-    And in our leash like the leaping [[dogs]]  
+And in our leash like the leaping [[dogs]]  
 
-    Are God's most deafening demagogues:  
+Are God's most deafening demagogues:  
 
-    And we are but little, like dwarfs underground,  
+And we are but little, like dwarfs underground,  
 
-    While hang up in heaven the houses of sound,  
+While hang up in heaven the houses of sound,  
 
-    Moving like [[Mountains|mountains]] that [[Faith|faith]] sets free,  
+Moving like [[Mountains|mountains]] that [[Faith|faith]] sets free,  
 
-    Yawning like caverns that roar with the sea,  
+Yawning like caverns that roar with the sea,  
 
-    As awfully loaded, as airily buoyed,  
+As awfully loaded, as airily buoyed,  
 
-    Armoured archangels that trample the void:  
+Armoured archangels that trample the void:  
 
-    Wild as with dancing and weighty with dooms,  
+Wild as with dancing and weighty with dooms,  
 
-    Heavy as their panoply, light as their plumes.  
+Heavy as their panoply, light as their plumes.  
 
-    Neither preacher nor priest are we:  
+Neither preacher nor priest are we:  
 
-    Each man mount to his own degree:  
+Each man mount to his own degree:  
 
-    Only remember that just such a cord  
+Only remember that just such a cord  
 
-    Tosses in heaven the trumpet and [[Sword|sword]];  
+Tosses in heaven the trumpet and [[Sword|sword]];  
 
-    Souls on their terraces, saints on their towers,  
+Souls on their terraces, saints on their towers,  
 
-    Rise up in arms at alarum like ours:  
+Rise up in arms at alarum like ours:  
 
-    Glow like great watchfires that redden the skies  
+Glow like great watchfires that redden the skies  
 
-    Titans whose wings are a glory of eyes,  
+Titans whose wings are a glory of eyes,  
 
-    Crowned constellations by twelves and by sevens,  
+Crowned constellations by twelves and by sevens,  
 
-    Domed dominations more old than the heavens,  
+Domed dominations more old than the heavens,  
 
-    Virtues that thunder and thrones that endure  
+Virtues that thunder and thrones that endure  
 
-    Sway like a bell to the prayers of the poor.  
+Sway like a bell to the prayers of the poor.  
 
-    THE [[convert|CONVERT]]  
+THE [[convert|CONVERT]]  
 
-    After one moment when I bowed my head  
+After one moment when I bowed my head  
 
-    And the whole world turned over and came upright,  
+And the whole world turned over and came upright,  
 
-    And I came out where the old [[Road|road]] shone white,  
+And I came out where the old [[Road|road]] shone white,  
 
-    I walked the ways and heard what all men said,  
+I walked the ways and heard what all men said,  
 
-    Forests of tongues, like [[Autumn|autumn]] [[Leaves|leaves]] unshed,  
+Forests of tongues, like [[Autumn|autumn]] [[Leaves|leaves]] unshed,  
 
-    Being not unlovable but strange and light;  
+Being not unlovable but strange and light;  
 
-    Old riddles and new creeds, not in despite  
+Old riddles and new creeds, not in despite  
 
-    But softly, as men smile about the dead.  
+But softly, as men smile about the dead.  
 
-    The sages have a hundred maps to give  
+The sages have a hundred maps to give  
 
-    That trace their crawling cosmos like a tree,  
+That trace their crawling cosmos like a tree,  
 
-    They rattle reason out through many a sieve  
+They rattle reason out through many a sieve  
 
-    That stores the sand and lets the gold go free:  
+That stores the sand and lets the gold go free:  
 
-    And all these things are less than [[Dust|dust]] to me  
+And all these things are less than [[Dust|dust]] to me  
 
-    Because my name is Lazarus and I live.  
+Because my name is Lazarus and I live.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]  
+[[songs|SONGS]] OF [[Education|EDUCATION]]  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    I. [[history|HISTORY]]  
+I. [[history|HISTORY]]  
 
-    _Form 991785, Sub-Section D_  
+_Form 991785, Sub-Section D_  
 
-    The Roman threw us a [[Road|road]], a [[Road|road]],  
+The Roman threw us a [[Road|road]], a [[Road|road]],  
 
-    And sighed and strolled away:  
+And sighed and strolled away:  
 
-    The Saxon gave us a raid, a raid,  
+The Saxon gave us a raid, a raid,  
 
-    A raid that came to stay;  
+A raid that came to stay;  
 
-    The Dane went west, but the Dane confessed  
+The Dane went west, but the Dane confessed  
 
-    That he went a bit too far;  
+That he went a bit too far;  
 
-    And we all became, by another name,  
+And we all became, by another name,  
 
-    The Imperial race we are.  
+The Imperial race we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The Imperial race, the inscrutable race,  
+The Imperial race, the inscrutable race,  
 
-    The invincible race we are.  
+The invincible race we are.  
 
-    Though Sussex hills are bare, are bare,  
+Though Sussex hills are bare, are bare,  
 
-    And Sussex weald is wide,  
+And Sussex weald is wide,  
 
-    From Chichester to Chester  
+From Chichester to Chester  
 
-    Men saw the Norman ride;  
+Men saw the Norman ride;  
 
-    He threw his [[Sword|sword]] in the air and sang  
+He threw his [[Sword|sword]] in the air and sang  
 
-    To a sort of a light guitar;  
+To a sort of a light guitar;  
 
-    It was all the same, for we all became  
+It was all the same, for we all became  
 
-    The identical nobs we are.  
+The identical nobs we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The identical nobs, individual nobs  
+The identical nobs, individual nobs  
 
-    Unmistakable nobs we are.  
+Unmistakable nobs we are.  
 
-    The people lived on the land, the land,  
+The people lived on the land, the land,  
 
-    They pottered about and prayed;  
+They pottered about and prayed;  
 
-    They built a [[Cathedral|cathedral]] here and there  
+They built a [[Cathedral|cathedral]] here and there  
 
-    Or went on a small crusade:  
+Or went on a small crusade:  
 
-    Till the bones of Becket were bundled out  
+Till the bones of Becket were bundled out  
 
-    For the fun of a fat White Czar,  
+For the fun of a fat White Czar,  
 
-    And we all became, in spoil and flame,  
+And we all became, in spoil and flame,  
 
-    The intelligent lot we are.  
+The intelligent lot we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The intelligent lot, the intuitive lot,  
+The intelligent lot, the intuitive lot,  
 
-    The infallible lot we are.  
+The infallible lot we are.  
 
-    O Warwick woods are green, are green,  
+O Warwick woods are green, are green,  
 
-    But Warwick trees can fall:  
+But Warwick trees can fall:  
 
-    And Birmingham grew so big, so big,  
+And Birmingham grew so big, so big,  
 
-    And Stratford stayed so small.  
+And Stratford stayed so small.  
 
-    Till the hooter howled to the morning lark  
+Till the hooter howled to the morning lark  
 
-    That sang to the morning star;  
+That sang to the morning star;  
 
-    And we all became, in [[Freedom|freedom]]'s name,  
+And we all became, in [[Freedom|freedom]]'s name,  
 
-    The fortunate chaps we are.  
+The fortunate chaps we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The fortunate chaps, felicitous chaps,  
+The fortunate chaps, felicitous chaps,  
 
-    The fairy-like chaps we are.  
+The fairy-like chaps we are.  
 
-    The people they left the land, the land,  
+The people they left the land, the land,  
 
-    But they went on working hard;  
+But they went on working hard;  
 
-    And the village green that had got mislaid  
+And the village green that had got mislaid  
 
-    Turned up in the squire's back-yard:  
+Turned up in the squire's back-yard:  
 
-    But twenty men of us all got work  
+But twenty men of us all got work  
 
-    On a bit of his motor car;  
+On a bit of his motor car;  
 
-    And we all became, with the world's acclaim,  
+And we all became, with the world's acclaim,  
 
-    The marvellous mugs we are:  
+The marvellous mugs we are:  
 
-    _Chorus_  
+_Chorus_  
 
-    The marvellous mugs, miraculous mugs,  
+The marvellous mugs, miraculous mugs,  
 
-    The mystical mugs we are.  
+The mystical mugs we are.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    II. GEOGRAPHY  
+II. GEOGRAPHY  
 
-    _Form 17955301, Sub-Section Z_  
+_Form 17955301, Sub-Section Z_  
 
-    The earth is a place on which England is found,  
+The earth is a place on which England is found,  
 
-    And you find it however you twirl the globe round;  
+And you find it however you twirl the globe round;  
 
-    For the spots are all red and the rest is all grey,  
+For the spots are all red and the rest is all grey,  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    Gibraltar's a rock that you see very plain,  
+Gibraltar's a rock that you see very plain,  
 
-    And attached to its base is the district of Spain.  
+And attached to its base is the district of Spain.  
 
-    And the island of Malta is marked further on,  
+And the island of Malta is marked further on,  
 
-    Where some natives were known as the Knights of St. John.  
+Where some natives were known as the Knights of St. John.  
 
-    Then Cyprus, and east to the Suez Canal,  
+Then Cyprus, and east to the Suez Canal,  
 
-    That was conquered by Dizzy and Rothschild his pal  
+That was conquered by Dizzy and Rothschild his pal  
 
-    With the [[Sword]] of the Lord in the old English way;  
+With the [[Sword]] of the Lord in the old English way;  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    Our principal imports come far as Cape Horn;  
+Our principal imports come far as Cape Horn;  
 
-    For necessities, cocoa; for luxuries, corn;  
+For necessities, cocoa; for luxuries, corn;  
 
-    Thus Brahmins are born for the rice-field, and thus,  
+Thus Brahmins are born for the rice-field, and thus,  
 
-    The Gods made the Greeks to grow currants for us;  
+The Gods made the Greeks to grow currants for us;  
 
-    Tobacco and petrol and Jazzing and Jews:  
+Tobacco and petrol and Jazzing and Jews:  
 
-    The Jazzing will pass but the Jews they will stay;  
+The Jazzing will pass but the Jews they will stay;  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    Our principal exports, all labelled and packed,  
+Our principal exports, all labelled and packed,  
 
-    At the ends of the earth are delivered intact:  
+At the ends of the earth are delivered intact:  
 
-    Our soap or our salmon can travel in tins  
+Our soap or our salmon can travel in tins  
 
-    Between the two poles and as like as two pins;  
+Between the two poles and as like as two pins;  
 
-    So that Lancashire merchants whenever they like  
+So that Lancashire merchants whenever they like  
 
-    Can [[Water|water]] the beer of a man in Klondike  
+Can [[Water|water]] the beer of a man in Klondike  
 
-    Or [[Poison|poison]] the meat of a man in Bombay;  
+Or [[Poison|poison]] the meat of a man in Bombay;  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    The day of St. George is a musty affair  
+The day of St. George is a musty affair  
 
-    Which Russians and Greeks are permitted to share;  
+Which Russians and Greeks are permitted to share;  
 
-    The day of Trafalgar is Spanish in name  
+The day of Trafalgar is Spanish in name  
 
-    And the Spaniards refuse to pronounce it the same;  
+And the Spaniards refuse to pronounce it the same;  
 
-    But the Day of the Empire from Canada came  
+But the Day of the Empire from Canada came  
 
-    With Morden and Borden and Beaverbrook's fame  
+With Morden and Borden and Beaverbrook's fame  
 
-    And saintly seraphical souls such as they:  
+And saintly seraphical souls such as they:  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    III. FOR THE CRÊCHE  
+III. FOR THE CRÊCHE  
 
-    _Form 8277059, Sub-Section K_  
+_Form 8277059, Sub-Section K_  
 
-    I remember my mother, the day that we met,  
+I remember my mother, the day that we met,  
 
-    A thing I shall never entirely forget;  
+A thing I shall never entirely forget;  
 
-    And I toy with the fancy that, young as I am,  
+And I toy with the fancy that, young as I am,  
 
-    I should know her again if we met in a tram.  
+I should know her again if we met in a tram.  
 
-      But mother is happy in turning a crank  
+But mother is happy in turning a crank  
 
-      That increases the balance at somebody's bank;  
+That increases the balance at somebody's bank;  
 
-      And I feel satisfaction that mother is free  
+And I feel satisfaction that mother is free  
 
-      From the sinister task of attending to me.  
+From the sinister task of attending to me.  
 
-    They have brightened our room, that is spacious and cool,  
+They have brightened our room, that is spacious and cool,  
 
-    With diagrams used in the Idiot School,  
+With diagrams used in the Idiot School,  
 
-    And Books for the Blind that will teach us to see;  
+And Books for the Blind that will teach us to see;  
 
-    But mother is happy, for mother is free.  
+But mother is happy, for mother is free.  
 
-      For mother is dancing up forty-eight floors,  
+For mother is dancing up forty-eight floors,  
 
-      For [[Love|love]] of the Leeds International Stores,  
+For [[Love|love]] of the Leeds International Stores,  
 
-      And the flame of that [[Faith|faith]] might perhaps have grown cold,  
+And the flame of that [[Faith|faith]] might perhaps have grown cold,  
 
-      With the care of a baby of seven weeks old.  
+With the care of a baby of seven weeks old.  
 
-    For mother is happy in greasing a [[Wheel|wheel]]  
+For mother is happy in greasing a [[Wheel|wheel]]  
 
-    For somebody else, who is cornering Steel;  
+For somebody else, who is cornering Steel;  
 
-    And though our one meeting was not very long,  
+And though our one meeting was not very long,  
 
-    She took the occasion to sing me this [[Song|song]]:  
+She took the occasion to sing me this [[Song|song]]:  
 
-      "O, hush thee, my baby, the [[Time|time]] soon will come  
+"O, hush thee, my baby, the [[Time|time]] soon will come  
 
-      When thy [[Sleep|sleep]] will be broken with hooting and hum;  
+When thy [[Sleep|sleep]] will be broken with hooting and hum;  
 
-      There are handles want turning and turning all day,  
+There are handles want turning and turning all day,  
 
-      And knobs to be pressed in the usual way;  
+And knobs to be pressed in the usual way;  
 
-    O, hush thee, my baby, take rest while I croon,  
+O, hush thee, my baby, take rest while I croon,  
 
-    For Progress comes early, and [[Freedom]] too soon."  
+For Progress comes early, and [[Freedom]] too soon."  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    IV. CITIZENSHIP  
+IV. CITIZENSHIP  
 
-    _Form 8889512, Sub-Section Q_  
+_Form 8889512, Sub-Section Q_  
 
-    How slowly learns the [[Child|child]] at school  
+How slowly learns the [[Child|child]] at school  
 
-    The names of all the nobs that rule  
+The names of all the nobs that rule  
 
-    From Ponsonby to Pennant;  
+From Ponsonby to Pennant;  
 
-    Ere his bewildered mind find rest,  
+Ere his bewildered mind find rest,  
 
-    Knowing his host can be a Guest,  
+Knowing his host can be a Guest,  
 
-    His landlord is a Tennant.  
+His landlord is a Tennant.  
 
-    He knew not, at the age of three,  
+He knew not, at the age of three,  
 
-    What Lord St. Leger next will be  
+What Lord St. Leger next will be  
 
-    Or what he was before;  
+Or what he was before;  
 
-    A Primrose in the social swim  
+A Primrose in the social swim  
 
-    A Mr. Primrose is to him,  
+A Mr. Primrose is to him,  
 
-    And he is nothing more.  
+And he is nothing more.  
 
-    But soon, about the age of ten,  
+But soon, about the age of ten,  
 
-    He finds he is a Citizen,  
+He finds he is a Citizen,  
 
-    And knows his way about;  
+And knows his way about;  
 
-    Can pause within, or just beyond,  
+Can pause within, or just beyond,  
 
-    The line 'twixt Mond and Demi-Mond,  
+The line 'twixt Mond and Demi-Mond,  
 
-    'Twixt Getting On--or Out.  
+'Twixt Getting On--or Out.  
 
-    The Citizen will take his share  
+The Citizen will take his share  
 
-    (In every sense) as bull and bear;  
+(In every sense) as bull and bear;  
 
-    Nor need this oral ditty  
+Nor need this oral ditty  
 
-    Invoke the philologic pen  
+Invoke the philologic pen  
 
-    To show you that a Citizen  
+To show you that a Citizen  
 
-    Means Something in the [[City]].  
+Means Something in the [[City]].  
 
-    Thus gains he, with the virile gown,  
+Thus gains he, with the virile gown,  
 
-    The fasces and the civic [[Crown|crown]],  
+The fasces and the civic [[Crown|crown]],  
 
-    The forum of the free;  
+The forum of the free;  
 
-    Not more to Rome's high law allied  
+Not more to Rome's high law allied  
 
-    Is Devonport in all his [[Pride|pride]]  
+Is Devonport in all his [[Pride|pride]]  
 
-    Or Lipton's [[Self|self]] than he.  
+Or Lipton's [[Self|self]] than he.  
 
-    For he will learn, if he will try,  
+For he will learn, if he will try,  
 
-    The deep interior truths whereby  
+The deep interior truths whereby  
 
-    We rule the Commonwealth;  
+We rule the Commonwealth;  
 
-    What is the Food-Controller's fee  
+What is the Food-Controller's fee  
 
-    And whether the Health Ministry  
+And whether the Health Ministry  
 
-    Are in it for their health.  
+Are in it for their health.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    V. THE HIGHER MATHEMATICS  
+V. THE HIGHER MATHEMATICS  
 
-    _Form 339125, Sub-Section M_  
+_Form 339125, Sub-Section M_  
 
-            Twice one is two,  
+Twice one is two,  
 
-            Twice two is four,  
+Twice two is four,  
 
-    But twice two is ninety-six if you know the way to score.  
+But twice two is ninety-six if you know the way to score.  
 
-            Half of two is one,  
+Half of two is one,  
 
-            Half of four is two,  
+Half of four is two,  
 
-    But half of four is forty per cent. if your name is Montagu:  
+But half of four is forty per cent. if your name is Montagu:  
 
-      For everything else is on the square  
+For everything else is on the square  
 
-      If done by the best quadratics;  
+If done by the best quadratics;  
 
-      And nothing is low in High Finance  
+And nothing is low in High Finance  
 
-      Or the Higher Mathematics.  
+Or the Higher Mathematics.  
 
-            A straight line is straight  
+A straight line is straight  
 
-            And a square mile is flat:  
+And a square mile is flat:  
 
-    But you learn in trigonometrics a trick worth two of that.  
+But you learn in trigonometrics a trick worth two of that.  
 
-            Two straight lines  
+Two straight lines  
 
-            Can't enclose a Space,  
+Can't enclose a Space,  
 
-    But they can enclose a Corner to support the Chosen Race:  
+But they can enclose a Corner to support the Chosen Race:  
 
-      For you never know what Dynamics do  
+For you never know what Dynamics do  
 
-      With the lower truths of Statics;  
+With the lower truths of Statics;  
 
-      And half of two is a touring car  
+And half of two is a touring car  
 
-      In the Higher Mathematics.  
+In the Higher Mathematics.  
 
-            There is a place apart  
+There is a place apart  
 
-            Beyond the solar ray,  
+Beyond the solar ray,  
 
-    Where parallel straight lines can meet in an unofficial way.  
+Where parallel straight lines can meet in an unofficial way.  
 
-            There is a room that holds  
+There is a room that holds  
 
-            The examiner or his clerks,  
+The examiner or his clerks,  
 
-    Where you can square the circle or the man that gives the marks.  
+Where you can square the circle or the man that gives the marks.  
 
-      Where you hide in the cellar and then look down  
+Where you hide in the cellar and then look down  
 
-      On the poets that live in the attics;  
+On the poets that live in the attics;  
 
-      For the whole of the [[house]] is upside down  
+For the whole of the [[house]] is upside down  
 
-      In the Higher Mathematics.  
+In the Higher Mathematics.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    VI. HYGIENE  
+VI. HYGIENE  
 
-    _Form 394411102, Sub-Section X_  
+_Form 394411102, Sub-Section X_  
 
-    _"All practical Eugenists are agreed on the importance of  
+_"All practical Eugenists are agreed on the importance of  
 
-    [[Sleep|sleep]]."--The Eugenic Congress._  
+[[Sleep|sleep]]."--The Eugenic Congress._  
 
-    When Science taught mankind to breathe  
+When Science taught mankind to breathe  
 
-    A little while ago,  
+A little while ago,  
 
-    Only a wise and thoughtful few  
+Only a wise and thoughtful few  
 
-    Were really in the know:  
+Were really in the know:  
 
-    Nor could the Youth his features wreathe,  
+Nor could the Youth his features wreathe,  
 
-    Puffing from all the lungs beneath:  
+Puffing from all the lungs beneath:  
 
-    When Duty whispered softly "Breathe!"  
+When Duty whispered softly "Breathe!"  
 
-    The Youth would answer "Blow!"  
+The Youth would answer "Blow!"  
 
-    When Science proved with lucid care  
+When Science proved with lucid care  
 
-    The need of Exercise,  
+The need of Exercise,  
 
-    Our thoughtless Youth was climbing trees  
+Our thoughtless Youth was climbing trees  
 
-    Or lightly blacking eyes:  
+Or lightly blacking eyes:  
 
-    To reckless idlers breaking bounds  
+To reckless idlers breaking bounds  
 
-    For football or for hare-and-hounds,  
+For football or for hare-and-hounds,  
 
-    Or fighting hard for fourteen rounds,  
+Or fighting hard for fourteen rounds,  
 
-    It came as a surprise.  
+It came as a surprise.  
 
-    But when she boldly counsels [[Sleep]]  
+But when she boldly counsels [[Sleep]]  
 
-    To persons when in bed,  
+To persons when in bed,  
 
-    Then, then indeed men blush to see  
+Then, then indeed men blush to see  
 
-    The daybreak blushing red:  
+The daybreak blushing red:  
 
-    The early risers whom we term  
+The early risers whom we term  
 
-    Healthy, grow sickly and infirm;  
+Healthy, grow sickly and infirm;  
 
-    The Early Bird who caught the Worm  
+The Early Bird who caught the Worm  
 
-    Will catch the Germ instead.  
+Will catch the Germ instead.  
 
-    For this at least be Science praised  
+For this at least be Science praised  
 
-    If all the rest be rot,  
+If all the rest be rot,  
 
-    That now she snubs the priggish [[Child|child]]  
+That now she snubs the priggish [[Child|child]]  
 
-    That quits too soon his cot:  
+That quits too soon his cot:  
 
-    The pharisaic pachyderm  
+The pharisaic pachyderm  
 
-    Of spiritual [[Pride|pride]] shall squirm:  
+Of spiritual [[Pride|pride]] shall squirm:  
 
-    The Early Bird catches the worm,  
+The Early Bird catches the worm,  
 
-    The Worm that dieth not.  
+The Worm that dieth not.  
 
-                            THE ARDEN PRESS  
+THE ARDEN PRESS  
 
-                     STAMFORD STREET [[London|LONDON]], S.E.1  
+STAMFORD STREET [[London|LONDON]], S.E.1  
 
 End of the Project Gutenberg EBook of The Ballad of St. Barbara, by  
 
@@ -2802,7 +2802,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:  
 
-        http://www.gutenberg.org/3/2/1/6/32167/  
+http://www.gutenberg.org/3/2/1/6/32167/  
 
 Produced by Irma Spehar, Markus Brenner and the Online  
 
@@ -3062,53 +3062,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method  
+the use of Project Gutenberg-tm works calculated using the method  
 
-     you already use to calculate your applicable taxes.  The fee is  
+you already use to calculate your applicable taxes.  The fee is  
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he  
+owed to the owner of the Project Gutenberg-tm trademark, but he  
 
-     has agreed to donate royalties under this paragraph to the  
+has agreed to donate royalties under this paragraph to the  
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments  
+Project Gutenberg Literary Archive Foundation.  Royalty payments  
 
-     must be paid within 60 days following each date on which you  
+must be paid within 60 days following each date on which you  
 
-     prepare (or are legally required to prepare) your periodic tax  
+prepare (or are legally required to prepare) your periodic tax  
 
-     returns.  Royalty payments should be clearly marked as such and  
+returns.  Royalty payments should be clearly marked as such and  
 
-     sent to the Project Gutenberg Literary Archive Foundation at the  
+sent to the Project Gutenberg Literary Archive Foundation at the  
 
-     address specified in Section 4, "Information about donations to  
+address specified in Section 4, "Information about donations to  
 
-     the Project Gutenberg Literary Archive Foundation."  
+the Project Gutenberg Literary Archive Foundation."  
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he  
+you in writing (or by e-mail) within 30 days of receipt that s/he  
 
-     does not agree to the terms of the full Project Gutenberg-tm  
+does not agree to the terms of the full Project Gutenberg-tm  
 
-     License.  You must require such a user to return or  
+License.  You must require such a user to return or  
 
-     destroy all copies of the works possessed in a physical medium  
+destroy all copies of the works possessed in a physical medium  
 
-     and discontinue all use of and all access to other copies of  
+and discontinue all use of and all access to other copies of  
 
-     Project Gutenberg-tm works.  
+Project Gutenberg-tm works.  
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the  
+money paid for a work or a replacement copy, if a defect in the  
 
-     electronic work is discovered and reported to you within 90 days  
+electronic work is discovered and reported to you within 90 days  
 
-     of receipt of the work.  
+of receipt of the work.  
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.  
+distribution of Project Gutenberg-tm works.  
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
@@ -3302,11 +3302,11 @@ page at http://pglaf.org
 
 For additional contact information:  
 
-     Dr. Gregory B. Newby  
+Dr. Gregory B. Newby  
 
-     Chief Executive and Director  
+Chief Executive and Director  
 
-     gbnewby@pglaf.org  
+gbnewby@pglaf.org  
 
 Section 4.  Information about Donations to the Project Gutenberg  
 
@@ -3386,7 +3386,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:  
 
-     http://www.gutenberg.org  
+http://www.gutenberg.org  
 
 This Web site includes information about Project Gutenberg-tm,  
 
@@ -3411,7 +3411,7 @@ con questo eBook o disponibile online all'indirizzo www.gutenberg.org
 
 Titolo: The Ballad of St. Barbara  
 
-       E altri versi  
+E altri versi  
 
 Autore: Gilbert Keith Chesterton  
 
@@ -3431,2751 +3431,2751 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-                       La Ballata di Santa Barbara  
+La Ballata di Santa Barbara  
 
-                           E ALTRI VERSI  
+E ALTRI VERSI  
 
-                                  BY  
+BY  
 
-                       GILBERT KEITH CHESTERTON  
+GILBERT KEITH CHESTERTON  
 
-                                [[London|LONDRA]]  
+[[London|LONDRA]]  
 
-                             CECIL PALMER  
+CECIL PALMER  
 
-                 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
 
-                                 PRIMA  
+PRIMA  
 
-                                EDIZIONE  
+EDIZIONE  
 
-                                 1922  
+1922  
 
-                               COPYRIGHT  
+COPYRIGHT  
 
-    A F. C. IN MEMORIAM PALESTINA, '19  
+A F. C. IN MEMORIAM PALESTINA, '19  
 
-    Ricordi tu un immortale  
+Ricordi tu un immortale  
 
-    attimo perduto fuori dal [[Time|tempo]] e dallo spazio,  
+attimo perduto fuori dal [[Time|tempo]] e dallo spazio,  
 
-    nell'[[Time|ora]] in cui pensammo, noi che varcammo la soglia  
+nell'[[Time|ora]] in cui pensammo, noi che varcammo la soglia  
 
-    di quel luogo divino e disastroso  
+di quel luogo divino e disastroso  
 
-    dove la Vita fu uccisa e la [[Truth|Verità]] calunniata  
+dove la Vita fu uccisa e la [[Truth|Verità]] calunniata  
 
-    su quell'unico [[Hill|colle]] più santo di Roma,  
+su quell'unico [[Hill|colle]] più santo di Roma,  
 
-    quanto lontano vagarono i nostri corpi  
+quanto lontano vagarono i nostri corpi  
 
-    quella sera in cui le nostre anime tornarono a [[Home|casa]]?  
+quella sera in cui le nostre anime tornarono a [[Home|casa]]?  
 
-    La mistica [[City|città]] dalle molte porte,  
+La mistica [[City|città]] dalle molte porte,  
 
-    dalle colonne mostruose, era la tua:  
+dalle colonne mostruose, era la tua:  
 
-    pietre erodiane caddero e attesero  
+pietre erodiane caddero e attesero  
 
-    duemila anni per farsi tuo trono.  
+duemila anni per farsi tuo trono.  
 
-    Fra le rocce grigie il fiore ardente  
+Fra le rocce grigie il fiore ardente  
 
-    splendeva terribile come il sacro [[Blood|sangue]]:  
+splendeva terribile come il sacro [[Blood|sangue]]:  
 
-    non era più estraneo al tuo seno  
+non era più estraneo al tuo seno  
 
-    delle campanule di un bosco inglese.  
+delle campanule di un bosco inglese.  
 
-    Ricordi tu una [[Road|strada]] che segue  
+Ricordi tu una [[Road|strada]] che segue  
 
-    il cammino di piedi non dimenticati,  
+il cammino di piedi non dimenticati,  
 
-    dove dal deserto di rocce e di cavità  
+dove dal deserto di rocce e di cavità  
 
-    s'inerpica su per la via tortuosa e strisciante  
+s'inerpica su per la via tortuosa e strisciante  
 
-    le stazioni di un unico dramma torreggiante  
+le stazioni di un unico dramma torreggiante  
 
-    sempre più avanti e fuori dalla vista...  
+sempre più avanti e fuori dalla vista...  
 
-    Ricordi tu Aceldama  
+Ricordi tu Aceldama  
 
-    e lo sciacallo che latrava nella [[Night|notte]]?  
+e lo sciacallo che latrava nella [[Night|notte]]?  
 
-    La vita non è vuota, né materia per gli schernitori:  
+La vita non è vuota, né materia per gli schernitori:  
 
-    abbiamo riso forte e serbato il nostro [[Love|amore]],  
+abbiamo riso forte e serbato il nostro [[Love|amore]],  
 
-    abbiamo udito cantori negli angoli delle taverne  
+abbiamo udito cantori negli angoli delle taverne  
 
-    e non dimenticato gli [[Birds|uccelli]] lassù:  
+e non dimenticato gli [[Birds|uccelli]] lassù:  
 
-    abbiamo conosciuto percussori e figli del tuono  
+abbiamo conosciuto percussori e figli del tuono  
 
-    e non indegnamente camminato con loro,  
+e non indegnamente camminato con loro,  
 
-    siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];  
+siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];  
 
-    e abbiamo veduto Gerusalemme.  
+e abbiamo veduto Gerusalemme.  
 
-    INDICE  
+INDICE  
 
-                                                  PAG.  
+PAG.  
 
-    A F. C. In Memoriam Palestina, '19             vii  
+A F. C. In Memoriam Palestina, '19             vii  
 
-    La Ballata di Santa Barbara                      1  
+La Ballata di Santa Barbara                      1  
 
-    [[elegy|Elegia]] in un cimitero di campagna             13  
+[[elegy|Elegia]] in un cimitero di campagna             13  
 
-    La [[Sword|Spada]] della Sorpresa                       14  
+La [[Sword|Spada]] della Sorpresa                       14  
 
-    Nozze in [[Time|tempo]] di guerra                       15  
+Nozze in [[Time|tempo]] di guerra                       15  
 
-    Il Mistero                                      18  
+Il Mistero                                      18  
 
-    «Il Mito di [[Arthur|Artù]]»                            19  
+«Il Mito di [[Arthur|Artù]]»                            19  
 
-    La Vecchia [[Song|Canzone]]                             20  
+La Vecchia [[Song|Canzone]]                             20  
 
-    I Ninnoli                                       24  
+I Ninnoli                                       24  
 
-    Il Filantropo                                   26  
+Il Filantropo                                   26  
 
-    Sulle Downs                                     27  
+Sulle Downs                                     27  
 
-    Il Mar Rosso                                    30  
+Il Mar Rosso                                    30  
 
-    Per un Monumento ai Caduti                      32  
+Per un Monumento ai Caduti                      32  
 
-    [[Memory|Memoria]]                                     33  
+[[Memory|Memoria]]                                     33  
 
-    Le Tombe Inglesi                                35  
+Le Tombe Inglesi                                35  
 
-    [[nightmare|Incubo]]                                   37  
+[[nightmare|Incubo]]                                   37  
 
-    Una Seconda [[Childhood|Infanzia]]                     40  
+Una Seconda [[Childhood|Infanzia]]                     40  
 
-    «Medievalismo»                                  43  
+«Medievalismo»                                  43  
 
-    Polonia                                         46  
+Polonia                                         46  
 
-    La Caccia al Drago                              48  
+La Caccia al Drago                              48  
 
-    [[Sonnet|Sonetto]]                                    51  
+[[Sonnet|Sonetto]]                                    51  
 
-    Fantasia                                        52  
+Fantasia                                        52  
 
-    Un [[carol|Canto]] di Natale                          54  
+Un [[carol|Canto]] di Natale                          54  
 
-    Al Capitano Fryatt                              56  
+Al Capitano Fryatt                              56  
 
-    Per Quattro Corporazioni:  
+Per Quattro Corporazioni:  
 
-        I. I Maestri Vetrai                         57  
+I. I Maestri Vetrai                         57  
 
-       II. I Costruttori di Ponti                   59  
+II. I Costruttori di Ponti                   59  
 
-      III. Gli Scalpellini                          62  
+III. Gli Scalpellini                          62  
 
-       IV. I Campanari                              64  
+IV. I Campanari                              64  
 
-    Il [[convert|Convertito]]                              67  
+Il [[convert|Convertito]]                              67  
 
-    [[songs|Canti]] dell'[[Education|Educazione]]:  
+[[songs|Canti]] dell'[[Education|Educazione]]:  
 
-        I. [[history|Storia]]                             71  
+I. [[history|Storia]]                             71  
 
-       II. Geografia                               74  
+II. Geografia                               74  
 
-      III. Per l'Asilo                             76  
+III. Per l'Asilo                             76  
 
-       IV. Cittadinanza                            78  
+IV. Cittadinanza                            78  
 
-        V. Le Alte Matematiche                     80  
+V. Le Alte Matematiche                     80  
 
-       VI. Igiene                                  82  
+VI. Igiene                                  82  
 
-    LA BALLATA DI SANTA BARBARA  
+LA BALLATA DI SANTA BARBARA  
 
-    _(Santa Barbara è la patrona dell'artiglieria e di coloro che sono in  
+_(Santa Barbara è la patrona dell'artiglieria e di coloro che sono in  
 
-    pericolo di [[Death|morte]] improvvisa.)_  
+pericolo di [[Death|morte]] improvvisa.)_  
 
-    Quando le lunghe file grigie dilagarono su [[Paris|Parigi]] nella pianura,  
+Quando le lunghe file grigie dilagarono su [[Paris|Parigi]] nella pianura,  
 
-    ci fermammo e bevemmo l'ultima aria libera che mai più avremmo gustato:  
+ci fermammo e bevemmo l'ultima aria libera che mai più avremmo gustato:  
 
-    ci avevano ricondotti dalla battaglia perduta, a fermarci non sapevamo dove  
+ci avevano ricondotti dalla battaglia perduta, a fermarci non sapevamo dove  
 
-    e ci acquietarono; e i nostri cannoni spalancati tacevano per la nostra [[Despair|disperazione]].  
+e ci acquietarono; e i nostri cannoni spalancati tacevano per la nostra [[Despair|disperazione]].  
 
-    Le tribù grigie fluivano senza fine dalle infinite terre senza vita  
+Le tribù grigie fluivano senza fine dalle infinite terre senza vita  
 
-    e un Normanno parlò a un Bretone, il mento sulle mani.  
+e un Normanno parlò a un Bretone, il mento sulle mani.  
 
-    «Vi fu una fine per Ilio; e una fine venne per Roma;  
+«Vi fu una fine per Ilio; e una fine venne per Roma;  
 
-    e un uomo recita su un palco dipinto nella terra che chiama [[Home|casa]];  
+e un uomo recita su un palco dipinto nella terra che chiama [[Home|casa]];  
 
-    Arco dopo arco di trionfo, ma piano oltre piano che rovina,  
+Arco dopo arco di trionfo, ma piano oltre piano che rovina,  
 
-    che conducono infine a una porta bassa; e oltre non v'è porta».  
+che conducono infine a una porta bassa; e oltre non v'è porta».  
 
-    E il Bretone parlò al Normanno, come un piccolo [[Child|fanciullo]] parlò,  
+E il Bretone parlò al Normanno, come un piccolo [[Child|fanciullo]] parlò,  
 
-    e i suoi occhi azzurri come il mare erano vuoti come la sua [[Home|casa]] presso il mare:  
+e i suoi occhi azzurri come il mare erano vuoti come la sua [[Home|casa]] presso il mare:  
 
-    «Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
+«Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
 
-    vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
+vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
 
-    La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
+La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
 
-    Barbara, la santa dei cannonieri, e sostegno nella [[Death|morte]] improvvisa».  
+Barbara, la santa dei cannonieri, e sostegno nella [[Death|morte]] improvvisa».  
 
-    Parve che la [[Wheel|ruota]] del mondo si fermasse un istante nel suo girare,  
+Parve che la [[Wheel|ruota]] del mondo si fermasse un istante nel suo girare,  
 
-    più dei re della terra che giravano col volgere del mulino di  
+più dei re della terra che giravano col volgere del mulino di  
 
-      Valmy:  
+Valmy:  
 
-    Mentre stillava l'ozioso racconto e gli occhi azzurri come il mare ardevano,  
+Mentre stillava l'ozioso racconto e gli occhi azzurri come il mare ardevano,  
 
-    Immoto come il cuore di un turbine, il cuore del mondo si fermò.  
+Immoto come il cuore di un turbine, il cuore del mondo si fermò.  
 
-        «Barbara la bella  
+«Barbara la bella  
 
-        ebbe lode di liuto e di penna:  
+ebbe lode di liuto e di penna:  
 
-        i suoi capelli erano come una [[Night|notte]] d'[[Summer|estate]]  
+i suoi capelli erano come una [[Night|notte]] d'[[Summer|estate]]  
 
-        scura e desiderata dagli uomini.  
+scura e desiderata dagli uomini.  
 
-        I suoi piedi come [[Birds|uccelli]] venuti da lontano  
+I suoi piedi come [[Birds|uccelli]] venuti da lontano  
 
-        che indugiano e si posano nel [[Doubt|dubbio]];  
+che indugiano e si posano nel [[Doubt|dubbio]];  
 
-        e il suo volto era come una [[Window|finestra]]  
+e il suo volto era come una [[Window|finestra]]  
 
-        donde s'affacciava il primo [[Love|amore]] di un uomo.  
+donde s'affacciava il primo [[Love|amore]] di un uomo.  
 
-        Suo padre era signore di molti schiavi,  
+Suo padre era signore di molti schiavi,  
 
-        uomo duro e di mano pesante;  
+uomo duro e di mano pesante;  
 
-        le eressero attorno una torre  
+le eressero attorno una torre  
 
-        nelle desolate terre dorate,  
+nelle desolate terre dorate,  
 
-        sigillata come i tiranni sigillavano le loro tombe,  
+sigillata come i tiranni sigillavano le loro tombe,  
 
-        disegnata secondo un antico disegno,  
+disegnata secondo un antico disegno,  
 
-        e posero due finestre nella torre  
+e posero due finestre nella torre  
 
-        come i due occhi di un uomo».  
+come i due occhi di un uomo».  
 
-    I nostri cannoni erano puntati verso il nemico; non avevamo ordine di far fuoco.  
+I nostri cannoni erano puntati verso il nemico; non avevamo ordine di far fuoco.  
 
-    Grigia nel varco di St. Gond splendeva la Guardia del [[Tyrant|tiranno]];  
+Grigia nel varco di St. Gond splendeva la Guardia del [[Tyrant|tiranno]];  
 
-    Cupa del destino di una stella cadente, ritirandosi e ritirandosi,  
+Cupa del destino di una stella cadente, ritirandosi e ritirandosi,  
 
-    la linea bretone indietreggiava e il racconto bretone proseguiva.  
+la linea bretone indietreggiava e il racconto bretone proseguiva.  
 
-        «Suo padre aveva veleggiato oltre il mare  
+«Suo padre aveva veleggiato oltre il mare  
 
-        dal porto d'Africa  
+dal porto d'Africa  
 
-        quando tutti gli schiavi ripresero gli attrezzi  
+quando tutti gli schiavi ripresero gli attrezzi  
 
-        al comando di Barbara.  
+al comando di Barbara.  
 
-        Ella percosse il nudo muro con la mano  
+Ella percosse il nudo muro con la mano  
 
-        e ordinò loro di percuotere ancora;  
+e ordinò loro di percuotere ancora;  
 
-        versò loro ricchezza di vino e di carne  
+versò loro ricchezza di vino e di carne  
 
-        per sostenerli nella loro [[Pain|pena]].  
+per sostenerli nella loro [[Pain|pena]].  
 
-        E gridò tra il tuono levato  
+E gridò tra il tuono levato  
 
-        del martello e della gerla accalcati  
+del martello e della gerla accalcati  
 
-        'Spalancate la terza [[Window|finestra]]  
+'Spalancate la terza [[Window|finestra]]  
 
-        nel terzo nome di Dio.'  
+nel terzo nome di Dio.'  
 
-        Allora i cuori vennero meno e gli attrezzi caddero,  
+Allora i cuori vennero meno e gli attrezzi caddero,  
 
-        e lontano verso la spuma,  
+e lontano verso la spuma,  
 
-        gli uomini videro un'[[Shadow|ombra]] sulle sabbie  
+gli uomini videro un'[[Shadow|ombra]] sulle sabbie  
 
-        e suo padre che tornava a [[Home|casa]]».  
+e suo padre che tornava a [[Home|casa]]».  
 
-    Parlate piano, sempre più piano, lungo la linea vola la parola sussurrata  
+Parlate piano, sempre più piano, lungo la linea vola la parola sussurrata  
 
-    prima del tocco, prima del [[Time|momento]], non possiamo esalare un respiro:  
+prima del tocco, prima del [[Time|momento]], non possiamo esalare un respiro:  
 
-    i loro cannoni devono schiacciarci nel fango, e non vi sia risposta,  
+i loro cannoni devono schiacciarci nel fango, e non vi sia risposta,  
 
-    finché la mano si levi a gettarci come dado finale verso la [[Death|morte]].  
+finché la mano si levi a gettarci come dado finale verso la [[Death|morte]].  
 
-        «Vi erano due finestre nella tua torre,  
+«Vi erano due finestre nella tua torre,  
 
-        Barbara, Barbara,  
+Barbara, Barbara,  
 
-        per tutto ciò che è tra il sole e la [[Moon|luna]]  
+per tutto ciò che è tra il sole e la [[Moon|luna]]  
 
-        nelle terre d'Africa.  
+nelle terre d'Africa.  
 
-        Ha forse tre occhi un uomo, Barbara,  
+Ha forse tre occhi un uomo, Barbara,  
 
-        un uccello tre ali,  
+un uccello tre ali,  
 
-        che tu abbia squarciato tetto e muro  
+che tu abbia squarciato tetto e muro  
 
-        per contemplare cose vane?»  
+per contemplare cose vane?»  
 
-        La sua voce era come cosa vagante  
+La sua voce era come cosa vagante  
 
-        che vacilla eppure è libera,  
+che vacilla eppure è libera,  
 
-        la cui [[Soul|anima]] ha bevuto in una terra lontana  
+la cui [[Soul|anima]] ha bevuto in una terra lontana  
 
-        ai fiumi della libertà.  
+ai fiumi della libertà.  
 
-        «Vi sono più ali di quante ne sappia il [[Wind|vento]]  
+«Vi sono più ali di quante ne sappia il [[Wind|vento]]  
 
-        o più occhi di quanti vedano il sole  
+o più occhi di quanti vedano il sole  
 
-        nella luce della [[Window|finestra]] perduta  
+nella luce della [[Window|finestra]] perduta  
 
-        e nel [[Wind|vento]] delle porte disserrate.  
+e nel [[Wind|vento]] delle porte disserrate.  
 
-        Ché dalla prima grata  
+Ché dalla prima grata  
 
-        sono le terre rosse che si spezzano  
+sono le terre rosse che si spezzano  
 
-        e dalla seconda grata  
+e dalla seconda grata  
 
-        il mare come un serpente verde,  
+il mare come un serpente verde,  
 
-        ma dalla terza grata  
+ma dalla terza grata  
 
-        sotto bassi cornicioni come ali  
+sotto bassi cornicioni come ali  
 
-        è un nuovo angolo del cielo  
+è un nuovo angolo del cielo  
 
-        e l'altro lato delle cose».  
+e l'altro lato delle cose».  
 
-    Si aprì nel luogo più intimo un istante al di là di ogni parola,  
+Si aprì nel luogo più intimo un istante al di là di ogni parola,  
 
-    un'imposta e un abisso e un tuono di porte disserrate,  
+un'imposta e un abisso e un tuono di porte disserrate,  
 
-    la forte ala di un serafino scosse via l'urto del suo spalancarsi,  
+la forte ala di un serafino scosse via l'urto del suo spalancarsi,  
 
-    che divise la luce del sole frantumata da una luce dietro il sole.  
+che divise la luce del sole frantumata da una luce dietro il sole.  
 
-        «Allora egli sguainò la [[Sword|spada]] e la sospinse  
+«Allora egli sguainò la [[Sword|spada]] e la sospinse  
 
-        dove sedevano i giudici, e disse  
+dove sedevano i giudici, e disse  
 
-        'Cesare siede al di sopra degli dèi,  
+'Cesare siede al di sopra degli dèi,  
 
-        Barbara, fanciulla.  
+Barbara, fanciulla.  
 
-        Cesare ha stretto un patto  
+Cesare ha stretto un patto  
 
-        con la [[Moon|luna]] e con il sole,  
+con la [[Moon|luna]] e con il sole,  
 
-        tutti gli dèi che gli uomini possono lodare  
+tutti gli dèi che gli uomini possono lodare  
 
-        lo lodano a uno a uno.  
+lo lodano a uno a uno.  
 
-        Vi è pace con l'unto  
+Vi è pace con l'unto  
 
-        degli oli scarlatti di Bel,  
+degli oli scarlatti di Bel,  
 
-        con il Dio Pesce, là dove il gorgo  
+con il Dio Pesce, là dove il gorgo  
 
-        è una scala tortuosa verso l'inferno,  
+è una scala tortuosa verso l'inferno,  
 
-        con le piramidi di melma senza sentieri,  
+con le piramidi di melma senza sentieri,  
 
-        dove il negro mitrato leva  
+dove il negro mitrato leva  
 
-        al suo nero cherubino nella nube  
+al suo nero cherubino nella nube  
 
-        doni abominevoli,  
+doni abominevoli,  
 
-        con le lebbrose città d'argento  
+con le lebbrose città d'argento  
 
-        dove i muti sacerdoti [[Dance|danzano]] e chinano il capo,  
+dove i muti sacerdoti [[Dance|danzano]] e chinano il capo,  
 
-        ma non con le tre finestre  
+ma non con le tre finestre  
 
-        e l'ultimo nome di Dio.'»  
+e l'ultimo nome di Dio.'»  
 
-    Sparano, noi cadiamo, e i cieli rossi ci squarciano e ci fanno tremare,  
+Sparano, noi cadiamo, e i cieli rossi ci squarciano e ci fanno tremare,  
 
-    Barbara, Barbara, non possiamo esalare un respiro—  
+Barbara, Barbara, non possiamo esalare un respiro—  
 
-    Sii alle porte che scoppiano del destino, e nel buio liberaci,  
+Sii alle porte che scoppiano del destino, e nel buio liberaci,  
 
-    noi che disserriamo l'ultima [[Window|finestra]] sul sole della [[Death|morte]] improvvisa.  
+noi che disserriamo l'ultima [[Window|finestra]] sul sole della [[Death|morte]] improvvisa.  
 
-        «Barbara la bella  
+«Barbara la bella  
 
-        si levò come [[Queen|regina]] resa libera,  
+si levò come [[Queen|regina]] resa libera,  
 
-        la cui bocca è accostata a una coppa terribile  
+la cui bocca è accostata a una coppa terribile  
 
-        e alla tromba della libertà.  
+e alla tromba della libertà.  
 
-        'Ho guardato fuori da una [[Window|finestra]]  
+'Ho guardato fuori da una [[Window|finestra]]  
 
-        che nessun uomo ormai sbarrerà,  
+che nessun uomo ormai sbarrerà,  
 
-        le vacillanti torri da guerra di Cesare  
+le vacillanti torri da guerra di Cesare  
 
-        non giungeranno mai tanto lontano.  
+non giungeranno mai tanto lontano.  
 
-        Gli schiavi danzano nelle loro [[Chains|catene]],  
+Gli schiavi danzano nelle loro [[Chains|catene]],  
 
-        il [[Child|fanciullo]] ride della verga,  
+il [[Child|fanciullo]] ride della verga,  
 
-        per via dell'uccello dalle tre ali,  
+per via dell'uccello dalle tre ali,  
 
-        e del terzo volto di Dio.'  
+e del terzo volto di Dio.'  
 
-        La [[Sword|spada]] sulla sua spalla  
+La [[Sword|spada]] sulla sua spalla  
 
-        si mosse e brillò e cadde,  
+si mosse e brillò e cadde,  
 
-        e Barbara giacque piccolissima  
+e Barbara giacque piccolissima  
 
-        e accartocciata come un guscio».  
+e accartocciata come un guscio».  
 
-    Quale muro su quali cardini girato sta aperto come una porta?  
+Quale muro su quali cardini girato sta aperto come una porta?  
 
-    Troppo semplice per lo sguardo della [[Faith|fede]], troppo immenso per occhi umani,  
+Troppo semplice per lo sguardo della [[Faith|fede]], troppo immenso per occhi umani,  
 
-    quale luce su quale antica via risplende verso un pavimento lontano,  
+quale luce su quale antica via risplende verso un pavimento lontano,  
 
-    la linea della terra perduta di Francia o le pianure del Paradiso?  
+la linea della terra perduta di Francia o le pianure del Paradiso?  
 
-        «Cesare sorrise al di sopra degli dèi,  
+«Cesare sorrise al di sopra degli dèi,  
 
-        il suo labbro di pietra era arricciato,  
+il suo labbro di pietra era arricciato,  
 
-        i suoi eserciti di ferro si avvolgevano come [[Chains|catene]]  
+i suoi eserciti di ferro si avvolgevano come [[Chains|catene]]  
 
-        intorno e intorno al mondo,  
+intorno e intorno al mondo,  
 
-        e il forte uccisore dei suoi stessi  
+e il forte uccisore dei suoi stessi  
 
-        che falciava la carne come erba,  
+che falciava la carne come erba,  
 
-        sorrise anch'egli, e andò alla propria torre  
+sorrise anch'egli, e andò alla propria torre  
 
-        come una torre di bronzo che cammina,  
+come una torre di bronzo che cammina,  
 
-        e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
+e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
 
-        e lontano verso la spuma  
+e lontano verso la spuma  
 
-        gli uomini videro un'[[Shadow|ombra]] sulle sabbie;  
+gli uomini videro un'[[Shadow|ombra]] sulle sabbie;  
 
-        e suo padre che tornava a [[Home|casa]]....  
+e suo padre che tornava a [[Home|casa]]....  
 
-        [[Blood|Sangue]] del suo [[Blood|sangue]] sulla [[Sword|spada]]  
+[[Blood|Sangue]] del suo [[Blood|sangue]] sulla [[Sword|spada]]  
 
-        stava rosso ma mai asciutto.  
+stava rosso ma mai asciutto.  
 
-        Egli la terse lentamente, finché la lama  
+Egli la terse lentamente, finché la lama  
 
-        fu azzurra come l'azzurro cielo.  
+fu azzurra come l'azzurro cielo.  
 
-        Ma il cielo azzurro si spaccò con uno schianto di tuono,  
+Ma il cielo azzurro si spaccò con uno schianto di tuono,  
 
-        sputò giù un tizzone accecante,  
+sputò giù un tizzone accecante,  
 
-        e tutto di lui giacque riverso e disteso  
+e tutto di lui giacque riverso e disteso  
 
-        come la sua [[Shadow|ombra]] sulla sabbia».  
+come la sua [[Shadow|ombra]] sulla sabbia».  
 
-    Il tocco e il turbine; tutti i nostri cannoni danno voce insieme  
+Il tocco e il turbine; tutti i nostri cannoni danno voce insieme  
 
-    Santa Barbara per l'artiglieria e Dio difenda il diritto,  
+Santa Barbara per l'artiglieria e Dio difenda il diritto,  
 
-    Sono fermati e squarciati e martoriati mentre spazziamo via il tempo con le cannonate.  
+Sono fermati e squarciati e martoriati mentre spazziamo via il tempo con le cannonate.  
 
-    Erigendo [[Window|finestra]] su [[Window|finestra]] alla nostra signora della luce.  
+Erigendo [[Window|finestra]] su [[Window|finestra]] alla nostra signora della luce.  
 
-    Ché la luce è venuta sulla Libertà, i suoi nemici cadono, cadono,  
+Ché la luce è venuta sulla Libertà, i suoi nemici cadono, cadono,  
 
-    barcollano, fuggono, come sono fuggiti gli anni vergognosi,  
+barcollano, fuggono, come sono fuggiti gli anni vergognosi,  
 
-    Ella è risorta per tutti gli umili, ha udito i vinti che chiamano,  
+Ella è risorta per tutti gli umili, ha udito i vinti che chiamano,  
 
-    Santa Barbara dei Cannonieri, con la mano sul cannone.  
+Santa Barbara dei Cannonieri, con la mano sul cannone.  
 
-    Sono squarciati nel mezzo coloro che si nutrono delle proprie adulazioni,  
+Sono squarciati nel mezzo coloro che si nutrono delle proprie adulazioni,  
 
-    il cui labbro è arricciato su comando come sono arricciati i loro capelli curati....  
+il cui labbro è arricciato su comando come sono arricciati i loro capelli curati....  
 
-    Deflagrazione della [[Beauty|bellezza]] della [[Death|morte]] improvvisa, Santa Barbara delle batterie!  
+Deflagrazione della [[Beauty|bellezza]] della [[Death|morte]] improvvisa, Santa Barbara delle batterie!  
 
-    che aprono col fuoco la nuova bianca [[Window|finestra]] nel muro di tutto il mondo.  
+che aprono col fuoco la nuova bianca [[Window|finestra]] nel muro di tutto il mondo.  
 
-    Ché la mano è levata dietro di noi, e il fulmine colpisce duro  
+Ché la mano è levata dietro di noi, e il fulmine colpisce duro  
 
-    attraverso lo squarcio delle porte, attraverso la breccia di [[Death|morte]] della  
+attraverso lo squarcio delle porte, attraverso la breccia di [[Death|morte]] della  
 
-      Guardia,  
+Guardia,  
 
-    Ché il grido dei Tre Colori è a Condé e oltre  
+Ché il grido dei Tre Colori è a Condé e oltre  
 
-    e la Guardia è gettata come carogna nel cimitero di St. Gond,  
+e la Guardia è gettata come carogna nel cimitero di St. Gond,  
 
-    attraverso Mondemont e fuori di esso, attraverso la palude del Morin e avanti  
+attraverso Mondemont e fuori di esso, attraverso la palude del Morin e avanti  
 
-    Con un terremoto di saluto la cosa impossibile se n'è andata,  
+Con un terremoto di saluto la cosa impossibile se n'è andata,  
 
-    la Gallia, sul carro e alla carica, la grande Gallia sopra un cannone,  
+la Gallia, sul carro e alla carica, la grande Gallia sopra un cannone,  
 
-    in punta di piedi su tutti i suoi mille anni e squillante verso il sole:  
+in punta di piedi su tutti i suoi mille anni e squillante verso il sole:  
 
-    Come torna il giorno, come torna la [[Death|morte]], scagliato indietro e scagliato a [[Home|casa]],  
+Come torna il giorno, come torna la [[Death|morte]], scagliato indietro e scagliato a [[Home|casa]],  
 
-    sul barbaro regno ritorna l'ariete di Roma.  
+sul barbaro regno ritorna l'ariete di Roma.  
 
-    Mentre a oriente si stringeva duro e rovente come tenaglie in una fucina,  
+Mentre a oriente si stringeva duro e rovente come tenaglie in una fucina,  
 
-    venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,  
+venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,  
 
-    dove la caccia è aperta e corre su torrente e palude e laghetto  
+dove la caccia è aperta e corre su torrente e palude e laghetto  
 
-    e le loro batterie, nere di battaglia, tengono le teste di ponte della  
+e le loro batterie, nere di battaglia, tengono le teste di ponte della  
 
-      Marna  
+Marna  
 
-    e attraverso la carneficina della Guardia, presso [[Paris|Parigi]] nella pianura,  
+e attraverso la carneficina della Guardia, presso [[Paris|Parigi]] nella pianura,  
 
-    i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
+i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
 
-    Ma colui che narrò il racconto tornò a [[Home|casa]], alla sua [[house|dimora]] presso il mare  
+Ma colui che narrò il racconto tornò a [[Home|casa]], alla sua [[house|dimora]] presso il mare  
 
-    e arse dinanzi a Santa Barbara la luce delle tre finestre,  
+e arse dinanzi a Santa Barbara la luce delle tre finestre,  
 
-    tre candele per una cosa ignota, mai più a tornare,  
+tre candele per una cosa ignota, mai più a tornare,  
 
-    che s'era aperta come l'occhio di Dio su [[Paris|Parigi]] nella pianura.  
+che s'era aperta come l'occhio di Dio su [[Paris|Parigi]] nella pianura.  
 
-    [[elegy|ELEGIA]] IN UN CIMITERO DI CAMPAGNA  
+[[elegy|ELEGIA]] IN UN CIMITERO DI CAMPAGNA  
 
-    Gli uomini che lavorarono per l'Inghilterra  
+Gli uomini che lavorarono per l'Inghilterra  
 
-    hanno le loro tombe in [[Home|patria]]:  
+hanno le loro tombe in [[Home|patria]]:  
 
-    e le [[Bees|api]] e gli [[Birds|uccelli]] d'Inghilterra  
+e le [[Bees|api]] e gli [[Birds|uccelli]] d'Inghilterra  
 
-    possono errare attorno alla [[Cross|croce]].  
+possono errare attorno alla [[Cross|croce]].  
 
-    Ma coloro che combatterono per l'Inghilterra,  
+Ma coloro che combatterono per l'Inghilterra,  
 
-    seguendo una stella cadente,  
+seguendo una stella cadente,  
 
-    ahimè, ahimè per l'Inghilterra,  
+ahimè, ahimè per l'Inghilterra,  
 
-    hanno le loro tombe lontano.  
+hanno le loro tombe lontano.  
 
-    E coloro che governano l'Inghilterra,  
+E coloro che governano l'Inghilterra,  
 
-    riuniti in solenne concilio,  
+riuniti in solenne concilio,  
 
-    ahimè, ahimè per l'Inghilterra,  
+ahimè, ahimè per l'Inghilterra,  
 
-    non hanno ancora tombe.  
+non hanno ancora tombe.  
 
-    LA [[Sword|SPADA]] DELLA SORPRESA  
+LA [[Sword|SPADA]] DELLA SORPRESA  
 
-    Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
 
-    finché stiano nude e strane come gli alberi;  
+finché stiano nude e strane come gli alberi;  
 
-    perché io, il cui cuore s'innalza con i boschi svettanti,  
+perché io, il cui cuore s'innalza con i boschi svettanti,  
 
-    possa stupirmi altrettanto di esse.  
+possa stupirmi altrettanto di esse.  
 
-    Dividimi dal mio [[Blood|sangue]], affinché nel buio  
+Dividimi dal mio [[Blood|sangue]], affinché nel buio  
 
-    io oda scorrere quel rosso [[River|fiume]] ancestrale,  
+io oda scorrere quel rosso [[River|fiume]] ancestrale,  
 
-    come sepolte fiumane ramificate che trovano il mare  
+come sepolte fiumane ramificate che trovano il mare  
 
-    ma non vedono mai il sole.  
+ma non vedono mai il sole.  
 
-    Dammi occhi miracolosi per vedere i miei occhi,  
+Dammi occhi miracolosi per vedere i miei occhi,  
 
-    quegli specchi [[rolling|roteanti]] resi vivi in me,  
+quegli specchi [[rolling|roteanti]] resi vivi in me,  
 
-    terribile cristallo più incredibile  
+terribile cristallo più incredibile  
 
-    di tutte le cose che vedono.  
+di tutte le cose che vedono.  
 
-    Dividimi dalla mia [[Soul|anima]], affinché io veda  
+Dividimi dalla mia [[Soul|anima]], affinché io veda  
 
-    i peccati come ferite grondanti, il coraggioso pulsare della vita;  
+i peccati come ferite grondanti, il coraggioso pulsare della vita;  
 
-    finché io salvi me stesso, come vorrei salvare  
+finché io salvi me stesso, come vorrei salvare  
 
-    un estraneo per la strada.  
+un estraneo per la strada.  
 
-    NOZZE IN [[Time|TEMPO]] DI GUERRA  
+NOZZE IN [[Time|TEMPO]] DI GUERRA  
 
-    Dio nostro, che facesti due [[lovers|amanti]] in un [[Garden|giardino]],  
+Dio nostro, che facesti due [[lovers|amanti]] in un [[Garden|giardino]],  
 
-    e li percuotesti separandoli e li rendesti liberi,  
+e li percuotesti separandoli e li rendesti liberi,  
 
-    i loro quattro occhi folli di [[Wonder|meraviglia]] e d'ira e di perdono  
+i loro quattro occhi folli di [[Wonder|meraviglia]] e d'ira e di perdono  
 
-    e il loro bacio un tuono come labbra di terra e di mare:  
+e il loro bacio un tuono come labbra di terra e di mare:  
 
-    ciascuno rapito senza fine oltre l'altro,  
+ciascuno rapito senza fine oltre l'altro,  
 
-    due mondi stellati di dèi ignoti in guerra,  
+due mondi stellati di dèi ignoti in guerra,  
 
-    moglie e non compagna, un uomo e non un fratello,  
+moglie e non compagna, un uomo e non un fratello,  
 
-    ti ringraziamo d'averci fatti ciò che siamo.  
+ti ringraziamo d'averci fatti ciò che siamo.  
 
-    Non fare che la grigia melma dell'infinito  
+Non fare che la grigia melma dell'infinito  
 
-    sommerga questi [[Flowers|fiori]] che creasti a uno a uno;  
+sommerga questi [[Flowers|fiori]] che creasti a uno a uno;  
 
-    non permettere che la [[Night|notte]], che ti fu nemica,  
+non permettere che la [[Night|notte]], che ti fu nemica,  
 
-    mescoli un folle crepuscolo di [[Moon|luna]] e sole;  
+mescoli un folle crepuscolo di [[Moon|luna]] e sole;  
 
-    Ridesta ancora, in scoppio di tuono e clamore,  
+Ridesta ancora, in scoppio di tuono e clamore,  
 
-    la [[Wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
+la [[Wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
 
-    o spezzaci i cuori col tuo martello che frantuma l'inferno  
+o spezzaci i cuori col tuo martello che frantuma l'inferno  
 
-    ma lascia un'ombra fra noi per tutto il giorno.  
+ma lascia un'ombra fra noi per tutto il giorno.  
 
-    Ombra di alta vergogna e onorevole cecità  
+Ombra di alta vergogna e onorevole cecità  
 
-    quando la giovinezza, nella [[Storm|tempesta]] di cose vertiginose e lontane,  
+quando la giovinezza, nella [[Storm|tempesta]] di cose vertiginose e lontane,  
 
-    trova il selvaggio dono improvviso di una piccola gentilezza  
+trova il selvaggio dono improvviso di una piccola gentilezza  
 
-    e trema al pensiero che tutto il mondo abbia ali.  
+e trema al pensiero che tutto il mondo abbia ali.  
 
-    Quando l'unico capo che, volgendosi, volge i cieli  
+Quando l'unico capo che, volgendosi, volge i cieli  
 
-    si muove tuttavia lieve come un uccello che indugia,  
+si muove tuttavia lieve come un uccello che indugia,  
 
-    e rosso e casuale, sospinto fuori rotta ma ardente,  
+e rosso e casuale, sospinto fuori rotta ma ardente,  
 
-    come una favilla perduta passa la gloriosa parola.  
+come una favilla perduta passa la gloriosa parola.  
 
-    Non fare di questo sesso, quest'altro lato delle cose,  
+Non fare di questo sesso, quest'altro lato delle cose,  
 
-    una cosa meno distante del [[Desire|desiderio]] del mondo;  
+una cosa meno distante del [[Desire|desiderio]] del mondo;  
 
-    Quale colore si aggrappa alla fine della sera  
+Quale colore si aggrappa alla fine della sera  
 
-    e quale lontano grido di frontiere e quale [[Fire|fuoco]]  
+e quale lontano grido di frontiere e quale [[Fire|fuoco]]  
 
-    caduto troppo lontano oltre il sole per esser cercato,  
+caduto troppo lontano oltre il sole per esser cercato,  
 
-    ci divida pure, benché venga il nostro regno;  
+ci divida pure, benché venga il nostro regno;  
 
-    con un segnale lontano nel nostro parlare segreto  
+con un segnale lontano nel nostro parlare segreto  
 
-    per appendere il fiero orizzonte nella nostra [[Home|casa]].  
+per appendere il fiero orizzonte nella nostra [[Home|casa]].  
 
-    Un tempo eravamo uno, informe nube che indugia  
+Un tempo eravamo uno, informe nube che indugia  
 
-    gravando i mari e serrando fuori i cieli,  
+gravando i mari e serrando fuori i cieli,  
 
-    uno con i boschi, un [[Monster|mostro]] dalle miriadi di dita,  
+uno con i boschi, un [[Monster|mostro]] dalle miriadi di dita,  
 
-    non posasti su di me alcun dito di sorpresa.  
+non posasti su di me alcun dito di sorpresa.  
 
-    Uno con le [[Stars|stelle]], un dio dalle miriadi di occhi,  
+Uno con le [[Stars|stelle]], un dio dalle miriadi di occhi,  
 
-    non ti vidi in alcun luogo e fui cieco per disprezzo:  
+non ti vidi in alcun luogo e fui cieco per disprezzo:  
 
-    uno finché il mondo fu squarciato e il sorgere  
+uno finché il mondo fu squarciato e il sorgere  
 
-    dei bianchi giorni in cui io e te nascemmo.  
+dei bianchi giorni in cui io e te nascemmo.  
 
-    Si oscura il mondo: tintinnano i ceppi antichi quanto il mondo;  
+Si oscura il mondo: tintinnano i ceppi antichi quanto il mondo;  
 
-    e questi che non hanno [[Hope|speranza]] dietro il sole  
+e questi che non hanno [[Hope|speranza]] dietro il sole  
 
-    possono nutrirsi come servi e figliare come bestiame,  
+possono nutrirsi come servi e figliare come bestiame,  
 
-    uno nelle tenebre come sono uno i morti;  
+uno nelle tenebre come sono uno i morti;  
 
-    Noi, se la [[Grave|tomba]] squarciata renderà la sua gloria,  
+Noi, se la [[Grave|tomba]] squarciata renderà la sua gloria,  
 
-    le trombe ci chiameranno l'uno dall'altro e faccia a faccia:  
+le trombe ci chiameranno l'uno dall'altro e faccia a faccia:  
 
-    saremo estranei in una storia così strana  
+saremo estranei in una storia così strana  
 
-    e [[Wonder|stupiremo]], incontrandoci in un luogo così selvaggio.  
+e [[Wonder|stupiremo]], incontrandoci in un luogo così selvaggio.  
 
-    Ah, non invano né interamente in perdita  
+Ah, non invano né interamente in perdita  
 
-    vengono persino la nera [[Flag|bandiera]] e le orde di battaglia,  
+vengono persino la nera [[Flag|bandiera]] e le orde di battaglia,  
 
-    se questi grigi demoni fuggono il segno della [[Cross|croce]]  
+se questi grigi demoni fuggono il segno della [[Cross|croce]]  
 
-    anche nel simbolo delle spade incrociate.  
+anche nel simbolo delle spade incrociate.  
 
-    Né la [[Death|morte]] porrà in [[Doubt|dubbio]] Colui che rese vive le nostre anime  
+Né la [[Death|morte]] porrà in [[Doubt|dubbio]] Colui che rese vive le nostre anime  
 
-    spade che si incontrano e non pali affiancati,  
+spade che si incontrano e non pali affiancati,  
 
-    ci comandò di prosperare nel prorompere del sole e nel tuono,  
+ci comandò di prosperare nel prorompere del sole e nel tuono,  
 
-    terremoto e [[Dawn|Aurora]]; lo sposo e la sposa.  
+terremoto e [[Dawn|Aurora]]; lo sposo e la sposa.  
 
-    [[Death|Morte]] e non [[Dreams|sogni]] né [[Doubt|dubbio]] di cose che non muoiono,  
+[[Death|Morte]] e non [[Dreams|sogni]] né [[Doubt|dubbio]] di cose che non muoiono,  
 
-    di chi sia il sacro focolare o di chi la [[Sword|spada]];  
+di chi sia il sacro focolare o di chi la [[Sword|spada]];  
 
-    benché sacri spiriti si dividano in forte grido  
+benché sacri spiriti si dividano in forte grido  
 
-    nelle Tue mani, ma le Tue due mani, o Signore,  
+nelle Tue mani, ma le Tue due mani, o Signore,  
 
-    benché non sulla Terra come un tempo ritti in Eden  
+benché non sulla Terra come un tempo ritti in Eden  
 
-    così chiaramente di nuovo Ti vediamo qual sei,  
+così chiaramente di nuovo Ti vediamo qual sei,  
 
-    come in questa vampa, la deflagrazione e il marchio  
+come in questa vampa, la deflagrazione e il marchio  
 
-    di queste selvagge nozze dove ci incontriamo e ci separiamo.  
+di queste selvagge nozze dove ci incontriamo e ci separiamo.  
 
-    IL MISTERO  
+IL MISTERO  
 
-    Se le nubi del tramonto potessero crescere sugli alberi  
+Se le nubi del tramonto potessero crescere sugli alberi  
 
-    non farebbero che pareggiare il biancospino in fiore;  
+non farebbero che pareggiare il biancospino in fiore;  
 
-    e se i cieli stessero sotto i mari  
+e se i cieli stessero sotto i mari  
 
-    non sarebbe più a rovescio d'un acquazzone.  
+non sarebbe più a rovescio d'un acquazzone.  
 
-    Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
+Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
 
-    non sarebbero più selvaggi d'una nube;  
+non sarebbero più selvaggi d'una nube;  
 
-    eppure ogni mia lode è meschina come una calunnia,  
+eppure ogni mia lode è meschina come una calunnia,  
 
-    meschina come queste meschine parole dette ad alta voce.  
+meschina come queste meschine parole dette ad alta voce.  
 
-    E mai più di ora io so  
+E mai più di ora io so  
 
-    che il primo cielo dell'uomo è assai lontano dietro di noi;  
+che il primo cielo dell'uomo è assai lontano dietro di noi;  
 
-    a meno che il colpo del serafino fiammeggiante  
+a meno che il colpo del serafino fiammeggiante  
 
-    non l'abbia lasciato cieco nel [[Garden|giardino]].  
+non l'abbia lasciato cieco nel [[Garden|giardino]].  
 
-    Sii testimone, o Sole che accechi i nostri occhi,  
+Sii testimone, o Sole che accechi i nostri occhi,  
 
-    impensabile e irringraziabile [[King|Re]],  
+impensabile e irringraziabile [[King|Re]],  
 
-    che, benché ogni altra [[Wonder|meraviglia]] muoia,  
+che, benché ogni altra [[Wonder|meraviglia]] muoia,  
 
-    io mi [[Wonder|stupisco]] di non stupirmi.  
+io mi [[Wonder|stupisco]] di non stupirmi.  
 
-    «IL MITO DI [[Arthur|ARTÙ]]»  
+«IL MITO DI [[Arthur|ARTÙ]]»  
 
-    O dotto che mai imparasti a imparare,  
+O dotto che mai imparasti a imparare,  
 
-    se non a dedurre, con timidi e piccoli passi,  
+se non a dedurre, con timidi e piccoli passi,  
 
-    dal fumo torreggiante che il [[Fire|fuoco]] non può mai bruciare  
+dal fumo torreggiante che il [[Fire|fuoco]] non può mai bruciare  
 
-    e da racconti alti che gli uomini non furono mai alti.  
+e da racconti alti che gli uomini non furono mai alti.  
 
-    Dimmi, hai tu pensato quale sorta d'uomo sia  
+Dimmi, hai tu pensato quale sorta d'uomo sia  
 
-    colui di cui gli uomini dicono «Egli poteva abbattere i giganti»?  
+colui di cui gli uomini dicono «Egli poteva abbattere i giganti»?  
 
-    O quali forti memorie sull'abisso del [[Time|tempo]]  
+O quali forti memorie sull'abisso del [[Time|tempo]]  
 
-    sostennero la pompa di Camelot e la [[Crown|corona]].  
+sostennero la pompa di Camelot e la [[Crown|corona]].  
 
-    E perché un solo stendardo riempie tutto lo sfondo,  
+E perché un solo stendardo riempie tutto lo sfondo,  
 
-    oltre i cortei di tante lance,  
+oltre i cortei di tante lance,  
 
-    e per quale stregoneria fra le colline occidentali  
+e per quale stregoneria fra le colline occidentali  
 
-    un trono sta vuoto da mille anni.  
+un trono sta vuoto da mille anni.  
 
-    Voi che ritenete, incuranti di questo immenso impatto,  
+Voi che ritenete, incuranti di questo immenso impatto,  
 
-    la storia immortale un peccato mortale;  
+la storia immortale un peccato mortale;  
 
-    per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
+per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
 
-    inseguite i miti come falene, e combatteteli con uno spillo.  
+inseguite i miti come falene, e combatteteli con uno spillo.  
 
-    Consolatevi; riposate—non occorre tanto affanno.  
+Consolatevi; riposate—non occorre tanto affanno.  
 
-    Non sarete un mito, ve lo prometto.  
+Non sarete un mito, ve lo prometto.  
 
-    LA VECCHIA [[Song|CANZONE]]  
+LA VECCHIA [[Song|CANZONE]]  
 
-    _(Sull'Embankment in tempo di tempesta.)_  
+_(Sull'Embankment in tempo di tempesta.)_  
 
-    Un cielo livido su [[London|Londra]]  
+Un cielo livido su [[London|Londra]]  
 
-    e come destrieri di ferro che s'impennano  
+e come destrieri di ferro che s'impennano  
 
-    un urto di macchine fermatesi,  
+un urto di macchine fermatesi,  
 
-    e seppi che la fine era vicina:  
+e seppi che la fine era vicina:  
 
-    e qualcosa disse che lontano, oltre i colli e lontano,  
+e qualcosa disse che lontano, oltre i colli e lontano,  
 
-    veniva un tuono strisciante e la fine di ogni cosa quaggiù.  
+veniva un tuono strisciante e la fine di ogni cosa quaggiù.  
 
-    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
+Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
 
-    come lo scavo lascia entrare la luce sulle vie sommerse d'un tempo,  
+come lo scavo lascia entrare la luce sulle vie sommerse d'un tempo,  
 
-    il [[Lightning|lampo]] guardò la città di [[London|Londra]], il ponte spezzato della città di [[London|Londra]],  
+il [[Lightning|lampo]] guardò la città di [[London|Londra]], il ponte spezzato della città di [[London|Londra]],  
 
-    la fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
+la fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
 
-    Vidi i re della città di [[London|Londra]],  
+Vidi i re della città di [[London|Londra]],  
 
-    i re che comprano e vendono,  
+i re che comprano e vendono,  
 
-    che la edificarono con pagnotte da un penny  
+che la edificarono con pagnotte da un penny  
 
-    e con menzogne da un penny [[Well|pure]]:  
+e con menzogne da un penny [[Well|pure]]:  
 
-    E dove le vie erano lastricate d'oro, la carta avvizzita brillava  
+E dove le vie erano lastricate d'oro, la carta avvizzita brillava  
 
-      come oro,  
+come oro,  
 
-    la luce cocente delle promesse che lastricano le vie dell'inferno.  
+la luce cocente delle promesse che lastricano le vie dell'inferno.  
 
-    Ché le pagnotte da un penny si scioglieranno, si scioglieranno, si scioglieranno,  
+Ché le pagnotte da un penny si scioglieranno, si scioglieranno, si scioglieranno,  
 
-    schernendo i meschini che mercanteggiarono il grano che non coltivarono;  
+schernendo i meschini che mercanteggiarono il grano che non coltivarono;  
 
-    Con volti affamati alla porta, centomila alla porta,  
+Con volti affamati alla porta, centomila alla porta,  
 
-    un lampo di tuono su [[London|Londra]] e il ritrovamento del nemico.  
+un lampo di tuono su [[London|Londra]] e il ritrovamento del nemico.  
 
-    Udii i cento fabbricanti di spilli  
+Udii i cento fabbricanti di spilli  
 
-    rallentare il loro fragore straziante,  
+rallentare il loro fragore straziante,  
 
-    finché nel silenzio si poté udire  
+finché nel silenzio si poté udire  
 
-    il cadere dello spillo:  
+il cadere dello spillo:  
 
-    E in qualche luogo, uomini fuori le mura, sotto il bosco, fuori le mura,  
+E in qualche luogo, uomini fuori le mura, sotto il bosco, fuori le mura,  
 
-    avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
+avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
 
-    Ché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
+Ché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
 
-    più in fretta delle lance che si rompono o del piegarsi dell'arco  
+più in fretta delle lance che si rompono o del piegarsi dell'arco  
 
-    di cortei pallidi nella luce del tuono, tra il carico del tuono e  
+di cortei pallidi nella luce del tuono, tra il carico del tuono e  
 
-      la luce del tuono,  
+la luce del tuono,  
 
-    le Centurie in marcia sui colli nelle guerre di tanto tempo fa.  
+le Centurie in marcia sui colli nelle guerre di tanto tempo fa.  
 
-    Vidi il grande Cobbett cavalcare,  
+Vidi il grande Cobbett cavalcare,  
 
-    il cavaliere delle contee;  
+il cavaliere delle contee;  
 
-    e il suo volto era rosso di giudizio  
+e il suo volto era rosso di giudizio  
 
-    e d'una luce di fuochi luddisti:  
+e d'una luce di fuochi luddisti:  
 
-    e a sud verso il Sussex e il mare i lumi balzarono su per la libertà,  
+e a sud verso il Sussex e il mare i lumi balzarono su per la libertà,  
 
-    la tromba dei liberi coltivatori, il martello dei signorotti;  
+la tromba dei liberi coltivatori, il martello dei signorotti;  
 
-    Ché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
+Ché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
 
-    si squarciano dinanzi al martello e al cavaliere che irrompe,  
+si squarciano dinanzi al martello e al cavaliere che irrompe,  
 
-    gridando che tutti gli uomini alla fine, e al peggio e alla fine,  
+gridando che tutti gli uomini alla fine, e al peggio e alla fine,  
 
-    hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
+hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
 
-    Gli zoccoli del suo [[Horse|cavallo]] ti precedono,  
+Gli zoccoli del suo [[Horse|cavallo]] ti precedono,  
 
-    assai oltre le vostre gomme che scoppiano;  
+assai oltre le vostre gomme che scoppiano;  
 
-    e il [[Time|tempo]] è ricongiunto dietro di lui  
+e il [[Time|tempo]] è ricongiunto dietro di lui  
 
-    e i nostri figli sono con i nostri padri.  
+e i nostri figli sono con i nostri padri.  
 
-    Meteora scia sulle Downs, egli cavalca sopra le città in putrefazione,  
+Meteora scia sulle Downs, egli cavalca sopra le città in putrefazione,  
 
-    il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
+il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
 
-    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
+Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
 
-    Suonate il corno di Huntingdon dalla Scozia al mare—  
+Suonate il corno di Huntingdon dalla Scozia al mare—  
 
-    ... Solo un lampo di luce di tuono, un sogno fuggente di luce di tuono,  
+... Solo un lampo di luce di tuono, un sogno fuggente di luce di tuono,  
 
-    aveva mostrato sotto il cielo frantumato un popolo che era libero.  
+aveva mostrato sotto il cielo frantumato un popolo che era libero.  
 
-    I NINNOLI  
+I NINNOLI  
 
-    Un mondo errante di fiumi,  
+Un mondo errante di fiumi,  
 
-    un mondo tremulo di alberi,  
+un mondo tremulo di alberi,  
 
-    se il mondo si fa fosco e vertiginoso  
+se il mondo si fa fosco e vertiginoso  
 
-    con tutti i mutamenti e i gradi,  
+con tutti i mutamenti e i gradi,  
 
-    non è che lo [[Mirror|Specchio]] della Madonna  
+non è che lo [[Mirror|Specchio]] della Madonna  
 
-    appeso a sognare al suo posto,  
+appeso a sognare al suo posto,  
 
-    che riluce di sole ombre  
+che riluce di sole ombre  
 
-    finché ella lo desta col suo volto.  
+finché ella lo desta col suo volto.  
 
-    Il gorgo immoto delle [[Stars|stelle]],  
+Il gorgo immoto delle [[Stars|stelle]],  
 
-    la [[Wheel|ruota]] di tutto il mondo,  
+la [[Wheel|ruota]] di tutto il mondo,  
 
-    è un anello al dito della Madonna  
+è un anello al dito della Madonna  
 
-    con i soli e le lune imperlati  
+con i soli e le lune imperlati  
 
-    con [[Stars|stelle]] per gemme a farle piacere  
+con [[Stars|stelle]] per gemme a farle piacere  
 
-    a lei che siede giocando con i suoi anelli  
+a lei che siede giocando con i suoi anelli  
 
-    col gran cuore che ha una donna  
+col gran cuore che ha una donna  
 
-    e l'[[Love|amore]] delle piccole cose.  
+e l'[[Love|amore]] delle piccole cose.  
 
-    Ali del turbine del mondo  
+Ali del turbine del mondo  
 
-    di qui fino a Ispahan,  
+di qui fino a Ispahan,  
 
-    sdegnando le foreste volanti  
+sdegnando le foreste volanti  
 
-    sono lievi come il ventaglio della Madonna:  
+sono lievi come il ventaglio della Madonna:  
 
-    Ché tutte le cose qui violente e vane  
+Ché tutte le cose qui violente e vane  
 
-    giacciono aperte e del tutto quiete  
+giacciono aperte e del tutto quiete  
 
-    là dove Dio ha cinto il cielo a custodire  
+là dove Dio ha cinto il cielo a custodire  
 
-    le sue sante vanità.  
+le sue sante vanità.  
 
 IL FILANTROPO  
 
-    _(Con le nostre scuse a una bella poesia.)_  
+_(Con le nostre scuse a una bella poesia.)_  
 
-    Abou Ben Adhem (possa la sua tribù decrescere  
+Abou Ben Adhem (possa la sua tribù decrescere  
 
-    per prudente controllo delle nascite, e morire in pace)  
+per prudente controllo delle nascite, e morire in pace)  
 
-    mite di dottrina, prese con leggerezza la parola  
+mite di dottrina, prese con leggerezza la parola  
 
-    che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
 
-    e disse all'angelo del libro e della penna  
+e disse all'angelo del libro e della penna  
 
-    «Iscrivimi come uno che ama i suoi simili:  
+«Iscrivimi come uno che ama i suoi simili:  
 
-    per essi [[Alone|soli]] io m'affatico; per ricondurre  
+per essi [[Alone|soli]] io m'affatico; per ricondurre  
 
-    il cencioso Beduino vagabondo, e per domarlo  
+il cencioso Beduino vagabondo, e per domarlo  
 
-    a un ordinato servizio; per sradicare la vite di coloro  
+a un ordinato servizio; per sradicare la vite di coloro  
 
-    che scherniscono il [[Prophet|Profeta]], folli di vino,  
+che scherniscono il [[Prophet|Profeta]], folli di vino,  
 
-    per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
 
-    contare i loro cammelli, e persino le loro mogli,  
+contare i loro cammelli, e persino le loro mogli,  
 
-    tracciare il [[Desert|deserto]] in strade e piazze;  
+tracciare il [[Desert|deserto]] in strade e piazze;  
 
-    e stimarlo opera più feconda di quella di coloro  
+e stimarlo opera più feconda di quella di coloro  
 
-    che innalzano un vano e visionario [[Love|amore]]  
+che innalzano un vano e visionario [[Love|amore]]  
 
-    al vostro vago Allah nei cieli lassù».  
+al vostro vago Allah nei cieli lassù».  
 
-    Dolcemente rispose l'angelo della penna:  
+Dolcemente rispose l'angelo della penna:  
 
-    «Affaticati in pace e [[Love|ama]] i tuoi simili:  
+«Affaticati in pace e [[Love|ama]] i tuoi simili:  
 
-    e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
 
-    soltanto [[Fear|temi]] Dio; ché hai ragione di [[Fear|temere]].»  
+soltanto [[Fear|temi]] Dio; ché hai ragione di [[Fear|temere]].»  
 
-    SULLE DOWNS  
+SULLE DOWNS  
 
-    Quando venisti oltre il colmo del mondo  
+Quando venisti oltre il colmo del mondo  
 
-    nel gran giorno sulle Downs,  
+nel gran giorno sulle Downs,  
 
-    l'aria era frizzante e le nubi arricciate,  
+l'aria era frizzante e le nubi arricciate,  
 
-    quando venisti oltre il colmo del mondo,  
+quando venisti oltre il colmo del mondo,  
 
-    e sotto i tuoi piedi erano guglia e via  
+e sotto i tuoi piedi erano guglia e via  
 
-    e sette città inglesi.  
+e sette città inglesi.  
 
-    E non potevo credere che l'[[Pride|orgoglio]] fosse perito  
+E non potevo credere che l'[[Pride|orgoglio]] fosse perito  
 
-    mentre venivi oltre la down;  
+mentre venivi oltre la down;  
 
-    Libertà, cavalleria, tutto ciò che ci fu caro,  
+Libertà, cavalleria, tutto ciò che ci fu caro,  
 
-    perduto in un tintinnio di lucro e perito;  
+perduto in un tintinnio di lucro e perito;  
 
-    o la terra che [[Love|amiamo]], sopra la quale camminavi,  
+o la terra che [[Love|amiamo]], sopra la quale camminavi,  
 
-    che avvizziva città dopo città.  
+che avvizziva città dopo città.  
 
-    Ché tu spuntasti sulla cupola della terra  
+Ché tu spuntasti sulla cupola della terra  
 
-    come una visione di vittoria,  
+come una visione di vittoria,  
 
-    fuori sulla grande verde cupola della terra  
+fuori sulla grande verde cupola della terra  
 
-    come la grande azzurra cupola del cielo per cintura,  
+come la grande azzurra cupola del cielo per cintura,  
 
-    e sotto i tuoi piedi le contee potevano incontrarsi  
+e sotto i tuoi piedi le contee potevano incontrarsi  
 
-    e i tuoi occhi si spingevano al mare.  
+e i tuoi occhi si spingevano al mare.  
 
-    Sotto i tuoi piedi le città erano sette,  
+Sotto i tuoi piedi le città erano sette,  
 
-    vive e [[Alone|sole]] nell'alto,  
+vive e [[Alone|sole]] nell'alto,  
 
-    la schiena all'ampio bianco muro del cielo;  
+la schiena all'ampio bianco muro del cielo;  
 
-    tu eri una e le città erano sette,  
+tu eri una e le città erano sette,  
 
-    unica e sola come il sole che s'innalza  
+unica e sola come il sole che s'innalza  
 
-    e il tuo capo sorreggeva il cielo.  
+e il tuo capo sorreggeva il cielo.  
 
-    E pensai a una tonante [[Flag|bandiera]] spiegata  
+E pensai a una tonante [[Flag|bandiera]] spiegata  
 
-    e al fragore della campana dei borghesi:  
+e al fragore della campana dei borghesi:  
 
-    i fanali crepitavano e i dardi erano scagliati  
+i fanali crepitavano e i dardi erano scagliati  
 
-    mentre venivi oltre il colmo del mondo;  
+mentre venivi oltre il colmo del mondo;  
 
-    e sotto i tuoi piedi erano sorte e inganno  
+e sotto i tuoi piedi erano sorte e inganno  
 
-    e la melma dei pendii dell'inferno.  
+e la melma dei pendii dell'inferno.  
 
-    Non è andata come parlò il gran [[Wind|vento]]  
+Non è andata come parlò il gran [[Wind|vento]]  
 
-    sulla grande verde down quel giorno:  
+sulla grande verde down quel giorno:  
 
-    Abbiamo visto, ovunque parlasse l'ampio [[Wind|vento]],  
+Abbiamo visto, ovunque parlasse l'ampio [[Wind|vento]],  
 
-    la [[Slavery|Schiavitù]] che uccide la gente inglese:  
+la [[Slavery|Schiavitù]] che uccide la gente inglese:  
 
-    i ladri di terra li abbiamo visti comandare  
+i ladri di terra li abbiamo visti comandare  
 
-    i signori della terra obbedire.  
+i signori della terra obbedire.  
 
-    Abbiamo visto i giganteschi vermi dorati  
+Abbiamo visto i giganteschi vermi dorati  
 
-    nel [[Garden|giardino]] del paradiso:  
+nel [[Garden|giardino]] del paradiso:  
 
-    Abbiamo visto i grandi e i saggi venire a patti  
+Abbiamo visto i grandi e i saggi venire a patti  
 
-    con la pace dei serpenti e l'[[Pride|orgoglio]] dei vermi,  
+con la pace dei serpenti e l'[[Pride|orgoglio]] dei vermi,  
 
-    e coloro che piantano stringere alleanza  
+e coloro che piantano stringere alleanza  
 
-    con la locusta e i pidocchi.  
+con la locusta e i pidocchi.  
 
-    E il [[Wind|vento]] soffia e il mondo va avanti  
+E il [[Wind|vento]] soffia e il mondo va avanti  
 
-    e il mondo può dire che noi,  
+e il mondo può dire che noi,  
 
-    che stemmo sulle scogliere dove brillavano le cave,  
+che stemmo sulle scogliere dove brillavano le cave,  
 
-    stemmo su nubi su cui splendeva il sole:  
+stemmo su nubi su cui splendeva il sole:  
 
-    e le nubi si dissolvono e affogano nel tuono  
+e le nubi si dissolvono e affogano nel tuono  
 
-    la notizia che mai sarà.  
+la notizia che mai sarà.  
 
-    Signora di tutti coloro che hanno amato il popolo,  
+Signora di tutti coloro che hanno amato il popolo,  
 
-    luce sopra le strade smarrite,  
+luce sopra le strade smarrite,  
 
-    labirinto di poderi e vie e campanili,  
+labirinto di poderi e vie e campanili,  
 
-    grande come un cuore che ha amato il popolo:  
+grande come un cuore che ha amato il popolo:  
 
-    Stai sulla [[Crown|sommità]] della down svettante,  
+Stai sulla [[Crown|sommità]] della down svettante,  
 
-    leva le braccia e prega.  
+leva le braccia e prega.  
 
-    Te sola non ho dimenticato  
+Te sola non ho dimenticato  
 
-    per il naufragio della fama del mondo,  
+per il naufragio della fama del mondo,  
 
-    lacerarsi e finire di cose imputridite,  
+lacerarsi e finire di cose imputridite,  
 
-    Solo il tuo volto indimenticato:  
+Solo il tuo volto indimenticato:  
 
-    e il tuo capo levato ai cieli [[Alone|solo]]  
+e il tuo capo levato ai cieli [[Alone|solo]]  
 
-    quando venivi oltre la collina.  
+quando venivi oltre la collina.  
 
-    IL MAR ROSSO  
+IL MAR ROSSO  
 
-    Le nostre anime saranno Leviatani  
+Le nostre anime saranno Leviatani  
 
-    in purpurei mari di vino  
+in purpurei mari di vino  
 
-    quando l'ebbrezza sarà morta con la [[Death|morte]],  
+quando l'ebbrezza sarà morta con la [[Death|morte]],  
 
-    e il bere sarà tutto divino;  
+e il bere sarà tutto divino;  
 
-    apprendendo in quei tini immortali  
+apprendendo in quei tini immortali  
 
-    che cosa significhino i vigneti mortali;  
+che cosa significhino i vigneti mortali;  
 
-    poiché solo in cielo sapremo  
+poiché solo in cielo sapremo  
 
-    quanto siamo stati felici.  
+quanto siamo stati felici.  
 
-    Come nubi che si rotolano nel [[Wind|vento]]  
+Come nubi che si rotolano nel [[Wind|vento]]  
 
-    siate liberi di andare alla deriva e bere;  
+siate liberi di andare alla deriva e bere;  
 
-    torreggiare senza insolenza quando sorgiamo,  
+torreggiare senza insolenza quando sorgiamo,  
 
-    senza resa affondare:  
+senza resa affondare:  
 
-    [[Dreams|Sogni]] vertiginosi e folli conosceremo  
+[[Dreams|Sogni]] vertiginosi e folli conosceremo  
 
-    e non avremo bisogno di scrivere  
+e non avremo bisogno di scrivere  
 
-    le nostre innocenti bestemmie di lode,  
+le nostre innocenti bestemmie di lode,  
 
-    i nostri incubi di delizia.  
+i nostri incubi di delizia.  
 
-    Poiché così, in forma tanto deforme,  
+Poiché così, in forma tanto deforme,  
 
-    la visione mi venne,  
+la visione mi venne,  
 
-    dove tali delfini titanici e oscuri  
+dove tali delfini titanici e oscuri  
 
-    si rotolano in un mare al tramonto:  
+si rotolano in un mare al tramonto:  
 
-    cupi di colori densi, strani e forti  
+cupi di colori densi, strani e forti  
 
-    come il terribile e vero [[Love|amore]],  
+come il terribile e vero [[Love|amore]],  
 
-    aureolati come pesci in luce di fosforo  
+aureolati come pesci in luce di fosforo  
 
-    si muovono i mostri santi.  
+si muovono i mostri santi.  
 
-    Qui è misura e legge, da apprendere,  
+Qui è misura e legge, da apprendere,  
 
-    quando l'[[Honour|onore]] così comanda,  
+quando l'[[Honour|onore]] così comanda,  
 
-    alzare il calice e posarlo  
+alzare il calice e posarlo  
 
-    o spezzare il calice e andare.  
+o spezzare il calice e andare.  
 
-    Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
+Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
 
-    dalla vigna del Nuovo Noè,  
+dalla vigna del Nuovo Noè,  
 
-    Le nostre anime saranno Leviatani  
+Le nostre anime saranno Leviatani  
 
-    in sanguigni mari di vino.  
+in sanguigni mari di vino.  
 
-    PER UN MONUMENTO AI CADUTI  
+PER UN MONUMENTO AI CADUTI  
 
-    _([[Inscription|Iscrizione]] suggerita, probabilmente non scelta dalla_  
+_([[Inscription|Iscrizione]] suggerita, probabilmente non scelta dalla_  
 
-    _Commissione.)_  
+_Commissione.)_  
 
-    I merciai mercanteggiano al mercato,  
+I merciai mercanteggiano al mercato,  
 
-    le auto e i carri passano;  
+le auto e i carri passano;  
 
-    senati e scuole proseguono ronzando;  
+senati e scuole proseguono ronzando;  
 
-    poiché le cose morte non possono morire.  
+poiché le cose morte non possono morire.  
 
-    Una [[Storm|tempesta]] calò sul luogo delle tombe  
+Una [[Storm|tempesta]] calò sul luogo delle tombe  
 
-    con folgori per schiantare e squarciare;  
+con folgori per schiantare e squarciare;  
 
-    ma questi sono nomi di molti uomini  
+ma questi sono nomi di molti uomini  
 
-    che il [[Lightning|fulmine]] trovò vivi.  
+che il [[Lightning|fulmine]] trovò vivi.  
 
-    Se gli usurai regnano e i diritti [[Decay|decadono]]  
+Se gli usurai regnano e i diritti [[Decay|decadono]]  
 
-    e le visioni scorgono ancora una volta  
+e le visioni scorgono ancora una volta  
 
-    la grande Cartagine come una conchiglia d'oro  
+la grande Cartagine come una conchiglia d'oro  
 
-    spalancarsi vuota sulla riva,  
+spalancarsi vuota sulla riva,  
 
-    fino all'ultimo del [[Time|tempo]] che si sgretola  
+fino all'ultimo del [[Time|tempo]] che si sgretola  
 
-    su questa pietra si legga  
+su questa pietra si legga  
 
-    quanti uomini d'Inghilterra morirono  
+quanti uomini d'Inghilterra morirono  
 
-    per provare che non erano morti.  
+per provare che non erano morti.  
 
-    [[Memory|MEMORIA]]  
+[[Memory|MEMORIA]]  
 
-    Se mai tornerò a Baltimora,  
+Se mai tornerò a Baltimora,  
 
-    la [[City|città]] del Maryland,  
+la [[City|città]] del Maryland,  
 
-    di nuovo mi mancheranno, come già mi mancarono,  
+di nuovo mi mancheranno, come già mi mancarono,  
 
-    mille cose che il mondo tiene in serbo,  
+mille cose che il mondo tiene in serbo,  
 
-    la storia che sta in ogni porta  
+la storia che sta in ogni porta  
 
-    e con ogni mano fa cenno.  
+e con ogni mano fa cenno.  
 
-    Non saprò dove i legami furono spezzati  
+Non saprò dove i legami furono spezzati  
 
-    e cento fedi liberate,  
+e cento fedi liberate,  
 
-    dove un cavaliere errante aveva dato  
+dove un cavaliere errante aveva dato  
 
-    il suo centesimo nome alla [[Queen|Regina]] del Cielo,  
+il suo centesimo nome alla [[Queen|Regina]] del Cielo,  
 
-    e fece oblazione di faide perdonate  
+e fece oblazione di faide perdonate  
 
-    a Nostra Signora della Libertà.  
+a Nostra Signora della Libertà.  
 
-    Non percorrerò i sentieri della gloria  
+Non percorrerò i sentieri della gloria  
 
-    dove la guerra non arrise ai forti;  
+dove la guerra non arrise ai forti;  
 
-    quando Lee, l'ultimo degli eroi, venne  
+quando Lee, l'ultimo degli eroi, venne  
 
-    con gli Uomini del Sud e una [[Flag|bandiera]] come fiamma,  
+con gli Uomini del Sud e una [[Flag|bandiera]] come fiamma,  
 
-    e chiamò la terra col suo dolce nome  
+e chiamò la terra col suo dolce nome  
 
-    nel [[Song|canto]] indimenticato.  
+nel [[Song|canto]] indimenticato.  
 
-    Se mai [[Cross|attraverserò]] il mare e vagherò  
+Se mai [[Cross|attraverserò]] il mare e vagherò  
 
-    fino alla [[City|città]] del Maryland,  
+fino alla [[City|città]] del Maryland,  
 
-    siederò su una pietra a vegliare o pregare  
+siederò su una pietra a vegliare o pregare  
 
-    per il [[Child|bambino]] d'uno straniero che vi fu un giorno:  
+per il [[Child|bambino]] d'uno straniero che vi fu un giorno:  
 
-    e il [[Child|bambino]] non tornerà mai più a giocare,  
+e il [[Child|bambino]] non tornerà mai più a giocare,  
 
-    e nessuno capirà.  
+e nessuno capirà.  
 
-    LE TOMBE INGLESI  
+LE TOMBE INGLESI  
 
-    Fossi io quel cittadino errante la cui [[City|città]] è il mondo,  
+Fossi io quel cittadino errante la cui [[City|città]] è il mondo,  
 
-    non piangerei tutto ciò che cadde prima che le bandiere fossero ammainate;  
+non piangerei tutto ciò che cadde prima che le bandiere fossero ammainate;  
 
-    non lascerei che un solo mormorio guastasse le trombe che squillano  
+non lascerei che un solo mormorio guastasse le trombe che squillano  
 
-    come Dio si stancò dei re, e del freddo inferno del nord.  
+come Dio si stancò dei re, e del freddo inferno del nord.  
 
-    Ma noi, i cui cuori sono [[Birds|uccelli]] che tornano al nido, abbiamo pensieri più gravi della [[Home|casa]],  
+Ma noi, i cui cuori sono [[Birds|uccelli]] che tornano al nido, abbiamo pensieri più gravi della [[Home|casa]],  
 
-    benché le grandi aquile ardano d'oro su [[Paris|Parigi]] o su Roma,  
+benché le grandi aquile ardano d'oro su [[Paris|Parigi]] o su Roma,  
 
-    noi che stiamo presso i nostri morti e fissiamo, come veggenti a un'eclissi,  
+noi che stiamo presso i nostri morti e fissiamo, come veggenti a un'eclissi,  
 
-    l'[[Riddle|enigma]] della storia dell'isola e il crepuscolo delle navi.  
+l'[[Riddle|enigma]] della storia dell'isola e il crepuscolo delle navi.  
 
-    Poiché questi erano uomini semplici che amavano con mani e piedi e occhi,  
+Poiché questi erano uomini semplici che amavano con mani e piedi e occhi,  
 
-    le cui anime s'umiliavano alle colline e si restringevano ai cieli,  
+le cui anime s'umiliavano alle colline e si restringevano ai cieli,  
 
-    le cento piccole terre che giacciono dentro un'unica piccola terra,  
+le cento piccole terre che giacciono dentro un'unica piccola terra,  
 
-    dove il Severn cerca le isole del tramonto o il Sussex scala il cielo.  
+dove il Severn cerca le isole del tramonto o il Sussex scala il cielo.  
 
-    E ciò che è loro, benché i vessilli sventolino su Varsavia risorta,  
+E ciò che è loro, benché i vessilli sventolino su Varsavia risorta,  
 
-    o l'antico riso cammini in oro tra le vigne della Lorena,  
+o l'antico riso cammini in oro tra le vigne della Lorena,  
 
-    i loro morti sono segnati su pietre inglesi, i loro amori su alberi inglesi,  
+i loro morti sono segnati su pietre inglesi, i loro amori su alberi inglesi,  
 
-    quanto è piccolo il premio che vincono, quanto misera moneta per costoro--  
+quanto è piccolo il premio che vincono, quanto misera moneta per costoro--  
 
-    quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:  
+quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:  
 
-    morirono per salvare il loro paese e salvarono soltanto il mondo.  
+morirono per salvare il loro paese e salvarono soltanto il mondo.  
 
-    [[nightmare|INCUBO]]  
+[[nightmare|INCUBO]]  
 
-    Il leopardo d'argento e viola della [[Night|notte]]  
+Il leopardo d'argento e viola della [[Night|notte]]  
 
-    chiazzato di [[Stars|stelle]] e liscio di [[Silence|silenzio]] balzò;  
+chiazzato di [[Stars|stelle]] e liscio di [[Silence|silenzio]] balzò;  
 
-    e benché tre porte fossero aperte, la fine della luce  
+e benché tre porte fossero aperte, la fine della luce  
 
-    si chiuse come una trappola; e l'immobilità fu un clangore.  
+si chiuse come una trappola; e l'immobilità fu un clangore.  
 
-    Sotto il cielo di leopardo dalle [[Stars|stelle]] fosche  
+Sotto il cielo di leopardo dalle [[Stars|stelle]] fosche  
 
-    lottai col malvagio [[Sleep|sonno]] per tutta la calda [[Night|notte]],  
+lottai col malvagio [[Sleep|sonno]] per tutta la calda [[Night|notte]],  
 
-    [[Dreams|Sogni]] muti e gonfi di trionfi senza guerre,  
+[[Dreams|Sogni]] muti e gonfi di trionfi senza guerre,  
 
-    di tromba senza lingua e gong che non risponde.  
+di tromba senza lingua e gong che non risponde.  
 
-    Vidi passare un pallido fasto imperiale,  
+Vidi passare un pallido fasto imperiale,  
 
-    elmo e mitra cornuta e pesante corona;  
+elmo e mitra cornuta e pesante corona;  
 
-    le loro alte e strane insegne pendevano dal cielo  
+le loro alte e strane insegne pendevano dal cielo  
 
-    e i loro grandi scudi erano come le porte della [[Death|morte]].  
+e i loro grandi scudi erano come le porte della [[Death|morte]].  
 
-    Le loro mitre erano come piramidi in cammino  
+Le loro mitre erano come piramidi in cammino  
 
-    e tutte le loro corone alte come torri in marcia;  
+e tutte le loro corone alte come torri in marcia;  
 
-    i loro occhi erano freddi sotto le palpebre scolpite  
+i loro occhi erano freddi sotto le palpebre scolpite  
 
-    e lo stesso sorriso scolpito era su tutti loro.  
+e lo stesso sorriso scolpito era su tutti loro.  
 
-    Su una pianura lastricata che pareva senza fine  
+Su una pianura lastricata che pareva senza fine  
 
-    passavano senza vacillare finché essa trovò un termine  
+passavano senza vacillare finché essa trovò un termine  
 
-    in un lungo e basso gradino; e costoro, scendendo,  
+in un lungo e basso gradino; e costoro, scendendo,  
 
-    ripresero il cammino, di nuovo con lunga via da percorrere.  
+ripresero il cammino, di nuovo con lunga via da percorrere.  
 
-    Pensai che viaggiassero da mille anni;  
+Pensai che viaggiassero da mille anni;  
 
-    e alla fine non v'era nulla per tutti loro,  
+e alla fine non v'era nulla per tutti loro,  
 
-    malgrado tutto quello splendore di scettri e di lance,  
+malgrado tutto quello splendore di scettri e di lance,  
 
-    se non un nuovo gradino, un'altra facile caduta.  
+se non un nuovo gradino, un'altra facile caduta.  
 
-    Il sorriso di pietra pareva solo un poco meno,  
+Il sorriso di pietra pareva solo un poco meno,  
 
-    il carico d'argento solo un poco più:  
+il carico d'argento solo un poco più:  
 
-    e sempre v'era quella desolazione a terrazze  
+e sempre v'era quella desolazione a terrazze  
 
-    e la pianura digradante lastricata come il pavimento d'un palazzo.  
+e la pianura digradante lastricata come il pavimento d'un palazzo.  
 
-    Ruggine rossa come sangue strisciava sulle loro armi possenti  
+Ruggine rossa come sangue strisciava sulle loro armi possenti  
 
-    e sui loro volti rughe e non cicatrici:  
+e sui loro volti rughe e non cicatrici:  
 
-    finché il sogno d'un tratto finì; rumore e luce  
+finché il sogno d'un tratto finì; rumore e luce  
 
-    sciolsero la tirannia delle [[Stars|stelle]] tropicali.  
+sciolsero la tirannia delle [[Stars|stelle]] tropicali.  
 
-    Ma sopra di loro, come un sole sotterraneo,  
+Ma sopra di loro, come un sole sotterraneo,  
 
-    vidi il segno di tutti i demoni caduti;  
+vidi il segno di tutti i demoni caduti;  
 
-    e una voce selvaggia gridò «Affrèttati e finiscila,  
+e una voce selvaggia gridò «Affrèttati e finiscila,  
 
-    non v'è ripidezza nelle scale dell'inferno?»  
+non v'è ripidezza nelle scale dell'inferno?»  
 
-    Colui che ritorna, Colui che rimane il medesimo,  
+Colui che ritorna, Colui che rimane il medesimo,  
 
-    girò il mondo reale e rotondo, la Sua morsa di ferro;  
+girò il mondo reale e rotondo, la Sua morsa di ferro;  
 
-    giù per i grigi sentieri del [[Garden|giardino]] un uccello chiamò due volte,  
+giù per i grigi sentieri del [[Garden|giardino]] un uccello chiamò due volte,  
 
-    e attraverso tre porte entrò la misteriosa luce del giorno.  
+e attraverso tre porte entrò la misteriosa luce del giorno.  
 
-    UNA SECONDA [[Childhood|INFANZIA]]  
+UNA SECONDA [[Childhood|INFANZIA]]  
 
-    Quando tutti i miei giorni finiranno  
+Quando tutti i miei giorni finiranno  
 
-    e non avrò più [[Song|canto]] da cantare,  
+e non avrò più [[Song|canto]] da cantare,  
 
-    penso che non sarò troppo vecchio  
+penso che non sarò troppo vecchio  
 
-    per fissare ogni cosa;  
+per fissare ogni cosa;  
 
-    come un tempo fissavo la porta d'una stanza di bimbi  
+come un tempo fissavo la porta d'una stanza di bimbi  
 
-    o un albero alto e un'altalena.  
+o un albero alto e un'altalena.  
 
-    In cui la ponderosa [[Mercy|misericordia]] di Dio pende  
+In cui la ponderosa [[Mercy|misericordia]] di Dio pende  
 
-    su tutti i miei peccati e su me,  
+su tutti i miei peccati e su me,  
 
-    perché Egli non toglie  
+perché Egli non toglie  
 
-    il terrore dall'albero  
+il terrore dall'albero  
 
-    e le pietre ancora brillano lungo la [[Road|strada]]  
+e le pietre ancora brillano lungo la [[Road|strada]]  
 
-    che sono e non possono essere.  
+che sono e non possono essere.  
 
-    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
 
-    gli uomini invecchiano troppo per il vino,  
+gli uomini invecchiano troppo per il vino,  
 
-    ma io non invecchierò troppo per vedere  
+ma io non invecchierò troppo per vedere  
 
-    splendere una luce ultraterrena,  
+splendere una luce ultraterrena,  
 
-    mutando la [[Dust|polvere]] della mia stanza in [[Snow|neve]]  
+mutando la [[Dust|polvere]] della mia stanza in [[Snow|neve]]  
 
-    finché [[Doubt|dubito]] che sia mia.  
+finché [[Doubt|dubito]] che sia mia.  
 
-    Ecco, le supreme misericordie si sciolgono,  
+Ecco, le supreme misericordie si sciolgono,  
 
-    le prime meraviglie restano;  
+le prime meraviglie restano;  
 
-    e nella mia scoria è caduto un dono  
+e nella mia scoria è caduto un dono  
 
-    per il quale non oso pregare:  
+per il quale non oso pregare:  
 
-    che un uomo s'abitui al dolore e alla gioia  
+che un uomo s'abitui al dolore e alla gioia  
 
-    ma non alla [[Night|notte]] e al giorno.  
+ma non alla [[Night|notte]] e al giorno.  
 
-    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
 
-    gli uomini invecchiano troppo per le menzogne;  
+gli uomini invecchiano troppo per le menzogne;  
 
-    ma io non invecchierò troppo per vedere  
+ma io non invecchierò troppo per vedere  
 
-    sorgere l'enorme [[Night|notte]],  
+sorgere l'enorme [[Night|notte]],  
 
-    una nube più grande del mondo  
+una nube più grande del mondo  
 
-    e un [[Monster|mostro]] fatto di occhi.  
+e un [[Monster|mostro]] fatto di occhi.  
 
-    Né son degno di sciogliere  
+Né son degno di sciogliere  
 
-    il legaccio del mio calzare;  
+il legaccio del mio calzare;  
 
-    o scuotere la [[Dust|polvere]] dai miei piedi  
+o scuotere la [[Dust|polvere]] dai miei piedi  
 
-    o il bastone che mi sorregge  
+o il bastone che mi sorregge  
 
-    su un suolo troppo bello per durare,  
+su un suolo troppo bello per durare,  
 
-    troppo solido per esser vero.  
+troppo solido per esser vero.  
 
-    Gli uomini invecchiano troppo per corteggiare, [[Love|amore]] mio,  
+Gli uomini invecchiano troppo per corteggiare, [[Love|amore]] mio,  
 
-    gli uomini invecchiano troppo per sposarsi:  
+gli uomini invecchiano troppo per sposarsi:  
 
-    ma io non invecchierò troppo per vedere  
+ma io non invecchierò troppo per vedere  
 
-    appese follemente lassù  
+appese follemente lassù  
 
-    incredibili travi quando mi desto  
+incredibili travi quando mi desto  
 
-    e scopro che non sono morto.  
+e scopro che non sono morto.  
 
-    Un brivido di tuono tra i capelli:  
+Un brivido di tuono tra i capelli:  
 
-    benché nubi che s'anneriscono siano manifeste,  
+benché nubi che s'anneriscono siano manifeste,  
 
-    ancora sono punto e trasalisco  
+ancora sono punto e trasalisco  
 
-    alla prima goccia di pioggia:  
+alla prima goccia di pioggia:  
 
-    [[Romance|il romanzesco]] e l'[[Pride|orgoglio]] e la passione passano  
+[[Romance|il romanzesco]] e l'[[Pride|orgoglio]] e la passione passano  
 
-    e questi sono ciò che resta.  
+e questi sono ciò che resta.  
 
-    Strani tappeti striscianti dell'erba,  
+Strani tappeti striscianti dell'erba,  
 
-    ampie finestre del cielo:  
+ampie finestre del cielo:  
 
-    così, in questa perigliosa grazia di Dio,  
+così, in questa perigliosa grazia di Dio,  
 
-    con tutti i miei peccati io vado:  
+con tutti i miei peccati io vado:  
 
-    e le cose si fanno nuove benché io invecchi,  
+e le cose si fanno nuove benché io invecchi,  
 
-    benché io invecchi e muoia.  
+benché io invecchi e muoia.  
 
-    «MEDIEVALISMO»  
+«MEDIEVALISMO»  
 
-    Se gli uomini sorgessero e tornassero al frastuono e al [[Time|tempo]] del torneo,  
+Se gli uomini sorgessero e tornassero al frastuono e al [[Time|tempo]] del torneo,  
 
-    al nome e alla fama della tabarda, all'intrico di rosso e d'oro,  
+al nome e alla fama della tabarda, all'intrico di rosso e d'oro,  
 
-    reggerebbero queste cose e basterebbero come meta d'un [[Journey|viaggio]]  
+reggerebbero queste cose e basterebbero come meta d'un [[Journey|viaggio]]  
 
-      all'indietro,  
+all'indietro,  
 
-    una luce che ritorna sui nostri giorni, come era nei giorni antichi?  
+una luce che ritorna sui nostri giorni, come era nei giorni antichi?  
 
-    No, nessuno cavalca indietro a raccogliere un guanto o una piuma,  
+No, nessuno cavalca indietro a raccogliere un guanto o una piuma,  
 
-    benché il guanto d'arme risuonasse d'[[Honour|onore]] o il pennacchio valesse più d'una  
+benché il guanto d'arme risuonasse d'[[Honour|onore]] o il pennacchio valesse più d'una  
 
-      [[Crown|corona]]:  
+[[Crown|corona]]:  
 
-    e tace la tromba santa che chiamava a raccolta le nazioni  
+e tace la tromba santa che chiamava a raccolta le nazioni  
 
-    e sotto i Corni di Hattin la [[Hope|speranza]] del mondo tramontò.  
+e sotto i Corni di Hattin la [[Hope|speranza]] del mondo tramontò.  
 
-    Ah, non serbata nel ricordo, ma balzando fuori dall'oblio,  
+Ah, non serbata nel ricordo, ma balzando fuori dall'oblio,  
 
-    perché avete cercato nuove dimore e tutto ciò che cercaste è così,  
+perché avete cercato nuove dimore e tutto ciò che cercaste è così,  
 
-    perché avevate calpestato il [[Fire|fuoco]] e sbarrato la porta nel partire,  
+perché avevate calpestato il [[Fire|fuoco]] e sbarrato la porta nel partire,  
 
-    ritorna nel vostro [[Exile|esilio]] prescelto la gloria di tanto tempo fa.  
+ritorna nel vostro [[Exile|esilio]] prescelto la gloria di tanto tempo fa.  
 
-    Non allora, quando sbarraste la porta, non allora, quando calpestaste le braci,  
+Non allora, quando sbarraste la porta, non allora, quando calpestaste le braci,  
 
-    ma ora, al termine della vostra nuova [[Road|strada]], avete visto il volto d'un fato,  
+ma ora, al termine della vostra nuova [[Road|strada]], avete visto il volto d'un fato,  
 
-    che non come un [[Child|bambino]] guarda indietro, e non come uno [[Fool|sciocco]] ricorda,  
+che non come un [[Child|bambino]] guarda indietro, e non come uno [[Fool|sciocco]] ricorda,  
 
-    tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[Love|amano]] troppo tardi.  
+tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[Love|amano]] troppo tardi.  
 
-    Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
+Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
 
-    i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
+i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
 
-    è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[Decay|disfacimento]] scopre  
+è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[Decay|disfacimento]] scopre  
 
-    vivo nel vostro cimitero in putrefazione il verme del [[Desire|desiderio]] del mondo?  
+vivo nel vostro cimitero in putrefazione il verme del [[Desire|desiderio]] del mondo?  
 
-    Perciò i vecchi alberi torreggiano, perché i verdi alberi crescano e restino  
+Perciò i vecchi alberi torreggiano, perché i verdi alberi crescano e restino  
 
-      stentati:  
+stentati:  
 
-    perciò questi morti vi deridono, perché voi, i vivi, siete morti:  
+perciò questi morti vi deridono, perché voi, i vivi, siete morti:  
 
-    da quando percuoteste i santi e gli strumenti dei vostri mestieri furono  
+da quando percuoteste i santi e gli strumenti dei vostri mestieri furono  
 
-      spuntati,  
+spuntati,  
 
-    o frantumaste il vetro nella sua gloria e vi caricaste del  
+o frantumaste il vetro nella sua gloria e vi caricaste del  
 
-      piombo.  
+piombo.  
 
-    Quando l'usuraio dà la caccia allo scudiero come lo scudiero ha dato la caccia al contadino,  
+Quando l'usuraio dà la caccia allo scudiero come lo scudiero ha dato la caccia al contadino,  
 
-    come pecore divorate dai vermi là dove gli uomini furono divorati dalle pecore:  
+come pecore divorate dai vermi là dove gli uomini furono divorati dalle pecore:  
 
-    ora è il giudizio della terra, e la pesatura del passato e del presente,  
+ora è il giudizio della terra, e la pesatura del passato e del presente,  
 
-    voi che sdegnate di piangere sulle rovine, contemplate la vostra rovina e piangete.  
+voi che sdegnate di piangere sulle rovine, contemplate la vostra rovina e piangete.  
 
-    Non avete saputo, o sciocchi, voi che avete fatto del presente una [[Prison|prigione]],  
+Non avete saputo, o sciocchi, voi che avete fatto del presente una [[Prison|prigione]],  
 
-    che la sete può ricordare l'[[Water|acqua]] e la fame ricordare il pane?  
+che la sete può ricordare l'[[Water|acqua]] e la fame ricordare il pane?  
 
-    Non andammo a raccogliere [[Ghosts|fantasmi]]; ma lo strido della vostra vergogna si è levato  
+Non andammo a raccogliere [[Ghosts|fantasmi]]; ma lo strido della vostra vergogna si è levato  
 
-    dalla vostra stessa nera Babele troppo forte; e ha destato i morti.  
+dalla vostra stessa nera Babele troppo forte; e ha destato i morti.  
 
-    POLONIA  
+POLONIA  
 
-    Gli àuguri che osservavano [[Birds|uccelli]] arcaici  
+Gli àuguri che osservavano [[Birds|uccelli]] arcaici  
 
-    potrebbero leggere tali prodigi piumati,  
+potrebbero leggere tali prodigi piumati,  
 
-    le aquile che erano a [[Double|doppia]] faccia,  
+le aquile che erano a [[Double|doppia]] faccia,  
 
-    l'aquila che era nera davvero;  
+l'aquila che era nera davvero;  
 
-    e quando gli [[Birds|uccelli]] da battaglia caddero  
+e quando gli [[Birds|uccelli]] da battaglia caddero  
 
-    e sulla loro scia vengono gli avvoltoi,  
+e sulla loro scia vengono gli avvoltoi,  
 
-    sappiamo quale perdono e quale pace  
+sappiamo quale perdono e quale pace  
 
-    terranno muti i nostri piccoli padroni.  
+terranno muti i nostri piccoli padroni.  
 
-    Gli uomini che vendono ciò che altri fanno,  
+Gli uomini che vendono ciò che altri fanno,  
 
-    come gli avvoltoi mangiano ciò che altri uccidono,  
+come gli avvoltoi mangiano ciò che altri uccidono,  
 
-    proveranno, accostando piuma a piuma,  
+proveranno, accostando piuma a piuma,  
 
-    che nulla è nero e tutto è grigio;  
+che nulla è nero e tutto è grigio;  
 
-    grigio come quelle squallide colombe che un tempo,  
+grigio come quelle squallide colombe che un tempo,  
 
-    palpate e prezzate dai cambiavalute,  
+palpate e prezzate dai cambiavalute,  
 
-    tra il fracasso dei tavoli sbatterono le ali  
+tra il fracasso dei tavoli sbatterono le ali  
 
-    e s'accalcarono per sfuggire all'ira di [[Christ|Cristo]].  
+e s'accalcarono per sfuggire all'ira di [[Christ|Cristo]].  
 
-    Ma innalzata per sempre come un segno,  
+Ma innalzata per sempre come un segno,  
 
-    da quando Dio rese gloriosa l'ira,  
+da quando Dio rese gloriosa l'ira,  
 
-    là dove aquile nere e avvoltoi grigi  
+là dove aquile nere e avvoltoi grigi  
 
-    tornarono a stormo intorno all'eroica [[house|casa]],  
+tornarono a stormo intorno all'eroica [[house|casa]],  
 
-    dove la guerra è più santa della pace,  
+dove la guerra è più santa della pace,  
 
-    dove l'odio è più santo dell'[[Love|amore]],  
+dove l'odio è più santo dell'[[Love|amore]],  
 
-    splendette, terribile come lo [[Ghost|Spirito]] Santo,  
+splendette, terribile come lo [[Ghost|Spirito]] Santo,  
 
-    un'aquila più bianca d'una colomba.  
+un'aquila più bianca d'una colomba.  
 
-    LA CACCIA AL DRAGO  
+LA CACCIA AL DRAGO  
 
-    Quando andavamo a caccia del Drago  
+Quando andavamo a caccia del Drago  
 
-    nei giorni in cui eravamo giovani,  
+nei giorni in cui eravamo giovani,  
 
-    ci gettammo il mondo lucente sulla spalla  
+ci gettammo il mondo lucente sulla spalla  
 
-    come corno e budriere a tracolla;  
+come corno e budriere a tracolla;  
 
-    mai vi fu mondo così selvaggio e bello  
+mai vi fu mondo così selvaggio e bello  
 
-    come quello che passava sul [[Wind|vento]],  
+come quello che passava sul [[Wind|vento]],  
 
-    mai tali campi di paradiso  
+mai tali campi di paradiso  
 
-    come i campi che lasciammo dietro:  
+come i campi che lasciammo dietro:  
 
-      poiché questo è il meglio d'un riposo per gli uomini,  
+poiché questo è il meglio d'un riposo per gli uomini,  
 
-      che gli uomini sorgano e cavalchino  
+che gli uomini sorgano e cavalchino  
 
-      facendo una fatata terra volante  
+facendo una fatata terra volante  
 
-      di mercato e di campagna,  
+di mercato e di campagna,  
 
-      ali sul casolare, ali sul bosco,  
+ali sul casolare, ali sul bosco,  
 
-      ali su pentola e tegame,  
+ali su pentola e tegame,  
 
-      per la caccia al Drago:  
+per la caccia al Drago:  
 
-      questa è la vita d'un uomo.  
+questa è la vita d'un uomo.  
 
-    Poiché gli uomini si stancano della terra fatata  
+Poiché gli uomini si stancano della terra fatata  
 
-    quando il Drago è [[A Dream|un sogno]],  
+quando il Drago è [[A Dream|un sogno]],  
 
-    e si stancano dell'uccello parlante sull'albero,  
+e si stancano dell'uccello parlante sull'albero,  
 
-    del pesce che canta nel ruscello;  
+del pesce che canta nel ruscello;  
 
-    e le [[Stars|stelle]] erranti si fanno stantie, si fanno stantie,  
+e le [[Stars|stelle]] erranti si fanno stantie, si fanno stantie,  
 
-    e la [[Wonder|meraviglia]] s'irrigidisce di scherno;  
+e la [[Wonder|meraviglia]] s'irrigidisce di scherno;  
 
-    poiché questo è l'[[Honour|onore]] della terra fatata  
+poiché questo è l'[[Honour|onore]] della terra fatata  
 
-    e il seguire del corno;  
+e il seguire del corno;  
 
-      [[Beauty|Bellezza]] su [[Beauty|bellezza]] ci richiamava  
+[[Beauty|Bellezza]] su [[Beauty|bellezza]] ci richiamava  
 
-      quando potevamo sorgere e cavalcare,  
+quando potevamo sorgere e cavalcare,  
 
-      e una donna s'affacciava a ogni [[Window|finestra]]  
+e una donna s'affacciava a ogni [[Window|finestra]]  
 
-      meravigliosa come una sposa:  
+meravigliosa come una sposa:  
 
-      e l'insegna della taverna sfolgorava come una tabarda,  
+e l'insegna della taverna sfolgorava come una tabarda,  
 
-      e i bambini esultavano e correvano,  
+e i bambini esultavano e correvano,  
 
-      per l'[[Love|amore]] dell'odio del Drago:  
+per l'[[Love|amore]] dell'odio del Drago:  
 
-      questo è l'[[Pride|orgoglio]] d'un uomo.  
+questo è l'[[Pride|orgoglio]] d'un uomo.  
 
-    I sapienti lo chiamarono un'[[Shadow|ombra]]  
+I sapienti lo chiamarono un'[[Shadow|ombra]]  
 
-    e la luce si spense dal sole:  
+e la luce si spense dal sole:  
 
-    e i savi ci dissero che tutto andava [[Well|bene]]  
+e i savi ci dissero che tutto andava [[Well|bene]]  
 
-    e tutto era stanco e uno solo:  
+e tutto era stanco e uno solo:  
 
-    e allora, e allora, nel quieto [[Garden|giardino]],  
+e allora, e allora, nel quieto [[Garden|giardino]],  
 
-    senza mai un'erbaccia da estirpare,  
+senza mai un'erbaccia da estirpare,  
 
-    sapemmo che la sua coda lucente aveva brillato  
+sapemmo che la sua coda lucente aveva brillato  
 
-    nella bianca [[Road|strada]] oltre la [[Hill|collina]]:  
+nella bianca [[Road|strada]] oltre la [[Hill|collina]]:  
 
-    sapemmo che le nubi erano falde di fiamma,  
+sapemmo che le nubi erano falde di fiamma,  
 
-    sapemmo che il [[Fire|fuoco]] del tramonto  
+sapemmo che il [[Fire|fuoco]] del tramonto  
 
-    era rosso del [[Blood|sangue]] del Drago  
+era rosso del [[Blood|sangue]] del Drago  
 
-    la cui [[Death|morte]] è il [[Desire|desiderio]] del mondo.  
+la cui [[Death|morte]] è il [[Desire|desiderio]] del mondo.  
 
-      Poiché il corno fu suonato nel cuore della [[Night|notte]],  
+Poiché il corno fu suonato nel cuore della [[Night|notte]],  
 
-      che gli uomini sorgano e cavalchino,  
+che gli uomini sorgano e cavalchino,  
 
-      mantenendo il convegno d'un terribile scherzo  
+mantenendo il convegno d'un terribile scherzo  
 
-      mai a lungo lasciato intentato;  
+mai a lungo lasciato intentato;  
 
-      bevendo un tremendo [[Blood|sangue]] per vino,  
+bevendo un tremendo [[Blood|sangue]] per vino,  
 
-      mai in coppa o in boccale,  
+mai in coppa o in boccale,  
 
-      la [[Death|morte]] d'un Drago senza morte,  
+la [[Death|morte]] d'un Drago senza morte,  
 
-      questa è la vita d'un uomo.  
+questa è la vita d'un uomo.  
 
-    [[Sonnet|SONETTO]]  
+[[Sonnet|SONETTO]]  
 
-    In alto sul muro che cinge Gerusalemme  
+In alto sul muro che cinge Gerusalemme  
 
-    vidi uno stare sotto le [[Stars|stelle]] come pietra.  
+vidi uno stare sotto le [[Stars|stelle]] come pietra.  
 
-    E quando perirò non si saprà  
+E quando perirò non si saprà  
 
-    se egli visse, qualche vagante figlio di Sem,  
+se egli visse, qualche vagante figlio di Sem,  
 
-    o fu qualche grande [[Ghost|spettro]] che portava il diadema  
+o fu qualche grande [[Ghost|spettro]] che portava il diadema  
 
-    di Salomone o del Saladino su un trono:  
+di Salomone o del Saladino su un trono:  
 
-    so soltanto, restando i lineamenti nascosti,  
+so soltanto, restando i lineamenti nascosti,  
 
-    che non osai avvicinarmi e guardarli.  
+che non osai avvicinarmi e guardarli.  
 
-    Non indovinaste... che il diadema potesse essere  
+Non indovinaste... che il diadema potesse essere  
 
-    intrecciato in foggia più strana da mani d'odio...  
+intrecciato in foggia più strana da mani d'odio...  
 
-    Ma quando guardai, il muro era desolato  
+Ma quando guardai, il muro era desolato  
 
-    e la grigia luce delle stelle incipriava torre e albero:  
+e la grigia luce delle stelle incipriava torre e albero:  
 
-    e vasto e vago oltre la Porta d'Oro  
+e vasto e vago oltre la Porta d'Oro  
 
-    s'ergeva Moab dei [[Mountains|monti]] come un mare.  
+s'ergeva Moab dei [[Mountains|monti]] come un mare.  
 
-    FANTASIA  
+FANTASIA  
 
-    Gli uomini felici che perdono la testa  
+Gli uomini felici che perdono la testa  
 
-    ritrovano la loro testa in cielo,  
+ritrovano la loro testa in cielo,  
 
-    come teste di cherubino con ali di cherubino,  
+come teste di cherubino con ali di cherubino,  
 
-    e persino aureole di cherubino:  
+e persino aureole di cherubino:  
 
-    dalle infinite terre della sera  
+dalle infinite terre della sera  
 
-    lungo il mare del tramonto,  
+lungo il mare del tramonto,  
 
-    lasciandosi dietro i campi purpurei,  
+lasciandosi dietro i campi purpurei,  
 
-    le ali di cherubino battono giù per il [[Wind|vento]]  
+le ali di cherubino battono giù per il [[Wind|vento]]  
 
-    verso il [[Body|corpo]] brancolante e cieco  
+verso il [[Body|corpo]] brancolante e cieco  
 
-    come l'uccello all'albero.  
+come l'uccello all'albero.  
 
-    Che le piume siano rosse di passione  
+Che le piume siano rosse di passione  
 
-    per colui che davvero muore  
+per colui che davvero muore  
 
-    per lama del boia o per scure di guerra,  
+per lama del boia o per scure di guerra,  
 
-    o azzurre come farfalle,  
+o azzurre come farfalle,  
 
-    per colui che la perdette in un viottolo  
+per colui che la perdette in un viottolo  
 
-    tra gli scatti e i sussulti d'aprile,  
+tra gli scatti e i sussulti d'aprile,  
 
-    la sua follia è allora perdonata:  
+la sua follia è allora perdonata:  
 
-    ma più in alto, e assai oltre il nostro sguardo,  
+ma più in alto, e assai oltre il nostro sguardo,  
 
-    è la guarigione degli uomini infelici,  
+è la guarigione degli uomini infelici,  
 
-    gli uomini che perdettero il cuore.  
+gli uomini che perdettero il cuore.  
 
-    Non v'è perdono per i valorosi  
+Non v'è perdono per i valorosi  
 
-    e ampia liberazione lassù,  
+e ampia liberazione lassù,  
 
-    per chi perse la testa per la libertà  
+per chi perse la testa per la libertà  
 
-    o perse il cuore per [[Love|amore]]?  
+o perse il cuore per [[Love|amore]]?  
 
-    O è forse davvero saggio il saggio  
+O è forse davvero saggio il saggio  
 
-    che pensieri più ampi mantengono intero?  
+che pensieri più ampi mantengono intero?  
 
-    che vede la vita uniforme come una carta,  
+che vede la vita uniforme come una carta,  
 
-    fatto forte per recitare la parte più assennata,  
+fatto forte per recitare la parte più assennata,  
 
-    e serba la testa e serba il cuore,  
+e serba la testa e serba il cuore,  
 
-    e perde soltanto l'[[Soul|anima]].  
+e perde soltanto l'[[Soul|anima]].  
 
-    UN [[carol|CANTO]] DI NATALE  
+UN [[carol|CANTO]] DI NATALE  
 
-    _(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
+_(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
 
-    _il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
+_il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
 
-    _e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
+_e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
 
-    _tale usanza.--Quotidiano.)_  
+_tale usanza.--Quotidiano.)_  
 
-    Dio vi conservi lieti, o signori,  
+Dio vi conservi lieti, o signori,  
 
-    nulla vi sgomenti;  
+nulla vi sgomenti;  
 
-    gli Angeli Araldi non possono cantare,  
+gli Angeli Araldi non possono cantare,  
 
-    i poliziotti li arrestano a volo,  
+i poliziotti li arrestano a volo,  
 
-    e li ammoniscono della registrazione  
+e li ammoniscono della registrazione  
 
-    di qualunque cosa dicano.  
+di qualunque cosa dicano.  
 
-    Dio vi conservi lieti, o signori,  
+Dio vi conservi lieti, o signori,  
 
-    che nulla vi sgomenti:  
+che nulla vi sgomenti:  
 
-    sulle vostre città riposanti giace  
+sulle vostre città riposanti giace  
 
-    un profondo [[Silence|silenzio]], rotto solo  
+un profondo [[Silence|silenzio]], rotto solo  
 
-    dal grido melodioso del clacson,  
+dal grido melodioso del clacson,  
 
-    dal lieto raglio della sirena.  
+dal lieto raglio della sirena.  
 
-    Così, quando il [[Song|canto]] dei bambini cessò  
+Così, quando il [[Song|canto]] dei bambini cessò  
 
-    ed Erode fu obbedito,  
+ed Erode fu obbedito,  
 
-    nella sua alta sala corinzia  
+nella sua alta sala corinzia  
 
-    con la porpora e col ventaglio di pavone,  
+con la porpora e col ventaglio di pavone,  
 
-    riposava quel lieto signore;  
+riposava quel lieto signore;  
 
-    e nulla lo sgomentava.  
+e nulla lo sgomentava.  
 
-    AL CAPITANO FRYATT  
+AL CAPITANO FRYATT  
 
-    Calpestata eppur rossa è l'ultima delle braci,  
+Calpestata eppur rossa è l'ultima delle braci,  
 
-    rossa l'ultima nube d'un sole tramontato;  
+rossa l'ultima nube d'un sole tramontato;  
 
-    che importa del tuo dormire, se pur le Fiandre ricordano,  
+che importa del tuo dormire, se pur le Fiandre ricordano,  
 
-    che importa del tuo destarti, se l'Inghilterra dimentica?  
+che importa del tuo destarti, se l'Inghilterra dimentica?  
 
-    Perché dovresti aver parte nei cuori che induriamo,  
+Perché dovresti aver parte nei cuori che induriamo,  
 
-    nella vergogna della nostra [[Nature|natura]], noi che la vediamo e viviamo?  
+nella vergogna della nostra [[Nature|natura]], noi che la vediamo e viviamo?  
 
-    Quanto più dei pii sanno perdonare gli avidi,  
+Quanto più dei pii sanno perdonare gli avidi,  
 
-    quanto [[Well|bene]] e quanto presto perdonano gli affamati.  
+quanto [[Well|bene]] e quanto presto perdonano gli affamati.  
 
-    Ah, [[Well|bene]] sarebbe stato se il suolo dello straniero t'avesse avvolto,  
+Ah, [[Well|bene]] sarebbe stato se il suolo dello straniero t'avesse avvolto,  
 
-    mentre i signori che servisti e gli amici che conoscesti  
+mentre i signori che servisti e gli amici che conoscesti  
 
-    vendono per i mercati dei tiranni che t'intrapparono,  
+vendono per i mercati dei tiranni che t'intrapparono,  
 
-    fanno i procacciatori nelle botteghe dei macellai che uccisero.  
+fanno i procacciatori nelle botteghe dei macellai che uccisero.  
 
-    Perché dovresti destarti per un regno che è marcio,  
+Perché dovresti destarti per un regno che è marcio,  
 
-    rimpinzato delle loro tangenti e morto ai loro debiti?  
+rimpinzato delle loro tangenti e morto ai loro debiti?  
 
-    [[Sleep|Dormi]] e dimenticaci, come noi abbiamo dimenticato;  
+[[Sleep|Dormi]] e dimenticaci, come noi abbiamo dimenticato;  
 
-    poiché le Fiandre ricordano e l'Inghilterra dimentica.  
+poiché le Fiandre ricordano e l'Inghilterra dimentica.  
 
-    PER QUATTRO CORPORAZIONI  
+PER QUATTRO CORPORAZIONI  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    I. I MAESTRI DELLE VETRATE  
+I. I MAESTRI DELLE VETRATE  
 
-    A ogni Uomo il suo Mistero,  
+A ogni Uomo il suo Mistero,  
 
-    un mestiere e uno solo:  
+un mestiere e uno solo:  
 
-    i muratori fanno gli alveari degli uomini,  
+i muratori fanno gli alveari degli uomini,  
 
-    le cupole grigie o fosche,  
+le cupole grigie o fosche,  
 
-    ma noi abbiamo foggiato in [[Rose|rosa]] e oro  
+ma noi abbiamo foggiato in [[Rose|rosa]] e oro  
 
-    le case del sole.  
+le case del sole.  
 
-    I maestri d'ascia costruiscono le case alte,  
+I maestri d'ascia costruiscono le case alte,  
 
-    le cui verdi fondamenta ondeggiano  
+le cui verdi fondamenta ondeggiano  
 
-    vive di pesci come piccole fiamme,  
+vive di pesci come piccole fiamme,  
 
-    quando il [[Wind|vento]] esce a uccidere.  
+quando il [[Wind|vento]] esce a uccidere.  
 
-    Ma noi sfidiamo con vele dipinte  
+Ma noi sfidiamo con vele dipinte  
 
-    il ciclone del giorno.  
+il ciclone del giorno.  
 
-    I tessitori fanno le vesti degli uomini  
+I tessitori fanno le vesti degli uomini  
 
-    e mantelli per tutti;  
+e mantelli per tutti;  
 
-    camminano per le vie come nubi del tramonto;  
+camminano per le vie come nubi del tramonto;  
 
-    ma noi abbiamo tessuto e filato  
+ma noi abbiamo tessuto e filato  
 
-    in scarlatto o in verde dorato  
+in scarlatto o in verde dorato  
 
-    i gai mantelli del sole.  
+i gai mantelli del sole.  
 
-    Voi che gli usurai e i signori  
+Voi che gli usurai e i signori  
 
-    con insolenti livree calpestarono,  
+con insolenti livree calpestarono,  
 
-    nel fondo della buia chiesa mirate, sopra  
+nel fondo della buia chiesa mirate, sopra  
 
-    le loro lance d'una pertica,  
+le loro lance d'una pertica,  
 
-    dove noi abbiamo blasonato la tabarda  
+dove noi abbiamo blasonato la tabarda  
 
-    del trombettiere di Dio.  
+del trombettiere di Dio.  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    II. I COSTRUTTORI DI PONTI  
+II. I COSTRUTTORI DI PONTI  
 
-    Nel più bianco mattino del mondo  
+Nel più bianco mattino del mondo  
 
-    canuto di [[Hope|speranza]],  
+canuto di [[Hope|speranza]],  
 
-    il Costruttore di Ponti  
+il Costruttore di Ponti  
 
-    era prete ed era papa:  
+era prete ed era papa:  
 
-    e la mitra del mistero  
+e la mitra del mistero  
 
-    e il baldacchino erano suoi,  
+e il baldacchino erano suoi,  
 
-    lui che oscurava gli abissi  
+lui che oscurava gli abissi  
 
-    e incupolava la voragine.  
+e incupolava la voragine.  
 
-    A oriente e a occidente  
+A oriente e a occidente  
 
-    spiegava le ali al suo comando  
+spiegava le ali al suo comando  
 
-    l'arco con la chiave di volta  
+l'arco con la chiave di volta  
 
-    che si china come un uccello;  
+che si china come un uccello;  
 
-    che cavalca l'aria selvaggia  
+che cavalca l'aria selvaggia  
 
-    e la luce del giorno gettata sotto;  
+e la luce del giorno gettata sotto;  
 
-    la via maestra del pericolo,  
+la via maestra del pericolo,  
 
-    il portale della [[Wonder|meraviglia]].  
+il portale della [[Wonder|meraviglia]].  
 
-    Del suo trono erano i tuoni  
+Del suo trono erano i tuoni  
 
-    che inchiodano e fissano  
+che inchiodano e fissano  
 
-    selvagge nozze di stranieri  
+selvagge nozze di stranieri  
 
-    che s'incontrano e non si mescolano;  
+che s'incontrano e non si mescolano;  
 
-    la città e il campo di grano;  
+la città e il campo di grano;  
 
-    la sposa e lo sposo:  
+la sposa e lo sposo:  
 
-    nello spezzarsi dei ponti  
+nello spezzarsi dei ponti  
 
-    è tradimento e rovina.  
+è tradimento e rovina.  
 
-    Ma egli ci comandò, noi che foggiamo  
+Ma egli ci comandò, noi che foggiamo  
 
-    la [[Road|strada]] che sa volare,  
+la [[Road|strada]] che sa volare,  
 
-    di non costruire troppo pesante  
+di non costruire troppo pesante  
 
-    e di non costruire troppo alto:  
+e di non costruire troppo alto:  
 
-    vedendo sempre che sotto  
+vedendo sempre che sotto  
 
-    la curva dell'arco oscuro  
+la curva dell'arco oscuro  
 
-    brillano la [[Death|morte]] e la bianca luce del giorno  
+brillano la [[Death|morte]] e la bianca luce del giorno  
 
-    immutate fino alla fine.  
+immutate fino alla fine.  
 
-    Chi cammina sulla sua [[Mercy|misericordia]]  
+Chi cammina sulla sua [[Mercy|misericordia]]  
 
-    cammina leggero, com'egli dice,  
+cammina leggero, com'egli dice,  
 
-    vedendo che la nostra vita  
+vedendo che la nostra vita  
 
-    è un ponte sopra la [[Death|morte]];  
+è un ponte sopra la [[Death|morte]];  
 
-    e il mondo e i suoi giardini  
+e il mondo e i suoi giardini  
 
-    e i colli, come udiste,  
+e i colli, come udiste,  
 
-    sono nati sopra lo spazio  
+sono nati sopra lo spazio  
 
-    sulle ali d'un uccello.  
+sulle ali d'un uccello.  
 
-    Non alto e non pesante  
+Non alto e non pesante  
 
-    è il costruire di lui:  
+è il costruire di lui:  
 
-    quando sigillate la piena  
+quando sigillate la piena  
 
-    e dimenticate l'abisso,  
+e dimenticate l'abisso,  
 
-    quando le vostre torri sono innalzate,  
+quando le vostre torri sono innalzate,  
 
-    i vostri vessilli spiegati,  
+i vostri vessilli spiegati,  
 
-    nello spezzarsi dei ponti  
+nello spezzarsi dei ponti  
 
-    è la fine del mondo.  
+è la fine del mondo.  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    III. GLI SCALPELLINI  
+III. GLI SCALPELLINI  
 
-    Abbiamo scolpito la montagna di Dio con le mani,  
+Abbiamo scolpito la montagna di Dio con le mani,  
 
-    come le nostre mani furono scolpite da Dio, dicono,  
+come le nostre mani furono scolpite da Dio, dicono,  
 
-    dove i serafini ardono nel sole come tizzoni  
+dove i serafini ardono nel sole come tizzoni  
 
-    e i diavoli portano via le piogge;  
+e i diavoli portano via le piogge;  
 
-    facendo tesoro delle gole dell'inferno,  
+facendo tesoro delle gole dell'inferno,  
 
-    i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
+i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
 
-    il cui sbadiglio è più d'un urlo congelato  
+il cui sbadiglio è più d'un urlo congelato  
 
-    e il cui stesso vomitare non è vano.  
+e il cui stesso vomitare non è vano.  
 
-    Più selvagge di tutto ciò che una lingua può proferire,  
+Più selvagge di tutto ciò che una lingua può proferire,  
 
-    più sagge di tutto ciò che è detto in parole,  
+più sagge di tutto ciò che è detto in parole,  
 
-    le ali di pietra della grondaia che s'innalza  
+le ali di pietra della grondaia che s'innalza  
 
-    volano fuori e seguono il volo degli [[Birds|uccelli]];  
+volano fuori e seguono il volo degli [[Birds|uccelli]];  
 
-    l'impeto e la disfatta delle guerre angeliche  
+l'impeto e la disfatta delle guerre angeliche  
 
-    si stagliano sopra la via stupefatta,  
+si stagliano sopra la via stupefatta,  
 
-    dove scagliammo le nostre grondaie contro le [[Stars|stelle]]  
+dove scagliammo le nostre grondaie contro le [[Stars|stelle]]  
 
-    in segno che il primo e l'ultimo s'incontreranno.  
+in segno che il primo e l'ultimo s'incontreranno.  
 
-    Abbiamo scolpito la foresta del cielo con le mani,  
+Abbiamo scolpito la foresta del cielo con le mani,  
 
-    grandi d'un'allegria troppo greve per l'[[Pride|orgoglio]],  
+grandi d'un'allegria troppo greve per l'[[Pride|orgoglio]],  
 
-    nella pietra che lo percosse sta Stefano  
+nella pietra che lo percosse sta Stefano  
 
-    e Pietro stesso è pietrificato:  
+e Pietro stesso è pietrificato:  
 
-    mani come quelle che frugarono la zolla per il pane  
+mani come quelle che frugarono la zolla per il pane  
 
-    hanno comandato alla nuda roccia di fiorire e prosperare,  
+hanno comandato alla nuda roccia di fiorire e prosperare,  
 
-    mani come quelle che colpirono a morte un uomo vivo  
+mani come quelle che colpirono a morte un uomo vivo  
 
-    hanno colpito, e destato in vita i morti.  
+hanno colpito, e destato in vita i morti.  
 
-    Giungete le mani davanti al cielo pregando,  
+Giungete le mani davanti al cielo pregando,  
 
-    levate le mani al cielo e gridate;  
+levate le mani al cielo e gridate;  
 
-    ma guardate dove le nostre guglie più vertiginose dicono  
+ma guardate dove le nostre guglie più vertiginose dicono  
 
-    ciò che le mani d'un uomo fecero lassù nel cielo:  
+ciò che le mani d'un uomo fecero lassù nel cielo:  
 
-    fradici prima che abbiate udito il tuono,  
+fradici prima che abbiate udito il tuono,  
 
-    bianchi prima che abbiate sentito la [[Snow|neve]];  
+bianchi prima che abbiate sentito la [[Snow|neve]];  
 
-    poiché i giganti levano le mani a [[Wonder|meravigliarsi]]  
+poiché i giganti levano le mani a [[Wonder|meravigliarsi]]  
 
-    di quanto in alto le mani d'un uomo potessero salire.  
+di quanto in alto le mani d'un uomo potessero salire.  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    IV. I CAMPANARI  
+IV. I CAMPANARI  
 
-    Gli angeli cantano come [[Birds|uccelli]] su un albero  
+Gli angeli cantano come [[Birds|uccelli]] su un albero  
 
-    nell'organo della buona santa Cecilia:  
+nell'organo della buona santa Cecilia:  
 
-    e il parroco legge con la mano posata  
+e il parroco legge con la mano posata  
 
-    sull'aquila scolpita del grande san Giovanni:  
+sull'aquila scolpita del grande san Giovanni:  
 
-    ma mai le canne scanalate andranno  
+ma mai le canne scanalate andranno  
 
-    come i pifferi d'un esercito tutto in fila,  
+come i pifferi d'un esercito tutto in fila,  
 
-    marciando allegri giù per la via  
+marciando allegri giù per la via  
 
-    verso i mercati dove s'incontrano l'affaccendato e l'ozioso;  
+verso i mercati dove s'incontrano l'affaccendato e l'ozioso;  
 
-    e mai l'uccello di bronzo volerà  
+e mai l'uccello di bronzo volerà  
 
-    fuori dalla [[Window|finestra]] e su nel cielo,  
+fuori dalla [[Window|finestra]] e su nel cielo,  
 
-    finché gli uomini in città e contee e navi  
+finché gli uomini in città e contee e navi  
 
-    guardino in alto la vivente [[Apocalypse|Apocalisse]].  
+guardino in alto la vivente [[Apocalypse|Apocalisse]].  
 
-    Ma tutti possono ascoltare nel buio della sera  
+Ma tutti possono ascoltare nel buio della sera  
 
-    [[The Bells|le campane]] che latrano come i mastini del cielo,  
+[[The Bells|le campane]] che latrano come i mastini del cielo,  
 
-    rintoccando e annunciando che sopra e sotto,  
+rintoccando e annunciando che sopra e sotto,  
 
-    per le vie dell'aria come un tuono errante,  
+per le vie dell'aria come un tuono errante,  
 
-    la caccia è aperta su colli mai calcati:  
+la caccia è aperta su colli mai calcati:  
 
-    poiché il [[Wind|vento]] è la via dei [[dogs|cani]] di Dio:  
+poiché il [[Wind|vento]] è la via dei [[dogs|cani]] di Dio:  
 
-    dalla torre del [[Tyrant|tiranno]] alla tana del fuorilegge  
+dalla torre del [[Tyrant|tiranno]] alla tana del fuorilegge  
 
-    cacciando le anime dei figli degli uomini.  
+cacciando le anime dei figli degli uomini.  
 
-    Sovrano e ladro e merciaio e pari,  
+Sovrano e ladro e merciaio e pari,  
 
-    che non vogliono ascoltare e pure udranno;  
+che non vogliono ascoltare e pure udranno;  
 
-    riempiendo le teste degli uomini di fretta e ronzio  
+riempiendo le teste degli uomini di fretta e ronzio  
 
-    rendendoli benvenuti prima che vengano.  
+rendendoli benvenuti prima che vengano.  
 
-    E noi, poveri uomini, stiamo sotto il campanile  
+E noi, poveri uomini, stiamo sotto il campanile  
 
-    tirando le corde che sanno tirare il popolo,  
+tirando le corde che sanno tirare il popolo,  
 
-    e al nostro guinzaglio come i [[dogs|cani]] che balzano  
+e al nostro guinzaglio come i [[dogs|cani]] che balzano  
 
-    siamo i più assordanti demagoghi di Dio:  
+siamo i più assordanti demagoghi di Dio:  
 
-    e siamo ben piccoli, come nani sottoterra,  
+e siamo ben piccoli, come nani sottoterra,  
 
-    mentre pendono su nel cielo le case del suono,  
+mentre pendono su nel cielo le case del suono,  
 
-    muovendosi come [[Mountains|monti]] che la [[Faith|fede]] libera,  
+muovendosi come [[Mountains|monti]] che la [[Faith|fede]] libera,  
 
-    sbadigliando come caverne che rombano col mare,  
+sbadigliando come caverne che rombano col mare,  
 
-    così tremendamente cariche, così ariosamente sospese,  
+così tremendamente cariche, così ariosamente sospese,  
 
-    arcangeli corazzati che calpestano il vuoto:  
+arcangeli corazzati che calpestano il vuoto:  
 
-    selvagge come in una danza e greve di fati,  
+selvagge come in una danza e greve di fati,  
 
-    pesanti come la loro panoplia, lievi come le loro piume.  
+pesanti come la loro panoplia, lievi come le loro piume.  
 
-    Né predicatori né preti siamo:  
+Né predicatori né preti siamo:  
 
-    ogni uomo salga al proprio grado:  
+ogni uomo salga al proprio grado:  
 
-    solo ricordate che proprio una tal corda  
+solo ricordate che proprio una tal corda  
 
-    scaglia in cielo la tromba e la [[Sword|spada]];  
+scaglia in cielo la tromba e la [[Sword|spada]];  
 
-    anime sulle loro terrazze, santi sulle loro torri,  
+anime sulle loro terrazze, santi sulle loro torri,  
 
-    sorgono in armi a un allarme come il nostro:  
+sorgono in armi a un allarme come il nostro:  
 
-    risplendono come grandi fuochi di vedetta che arrossano i cieli  
+risplendono come grandi fuochi di vedetta che arrossano i cieli  
 
-    Titani le cui ali sono una gloria di occhi,  
+Titani le cui ali sono una gloria di occhi,  
 
-    costellazioni coronate a dodici e a sette,  
+costellazioni coronate a dodici e a sette,  
 
-    dominazioni incupolate più antiche dei cieli,  
+dominazioni incupolate più antiche dei cieli,  
 
-    Virtù che tuonano e Troni che durano  
+Virtù che tuonano e Troni che durano  
 
-    oscillano come una campana alle preghiere dei poveri.  
+oscillano come una campana alle preghiere dei poveri.  
 
-    IL [[convert|CONVERTITO]]  
+IL [[convert|CONVERTITO]]  
 
-    Dopo un solo istante in cui chinai il capo  
+Dopo un solo istante in cui chinai il capo  
 
-    e il mondo intero si capovolse e si rimise ritto,  
+e il mondo intero si capovolse e si rimise ritto,  
 
-    e uscii là dove la vecchia [[Road|strada]] biancheggiava,  
+e uscii là dove la vecchia [[Road|strada]] biancheggiava,  
 
-    percorsi le vie e udii ciò che tutti dicevano,  
+percorsi le vie e udii ciò che tutti dicevano,  
 
-    foreste di lingue, come [[Leaves|foglie]] d'[[Autumn|autunno]] non cadute,  
+foreste di lingue, come [[Leaves|foglie]] d'[[Autumn|autunno]] non cadute,  
 
-    non prive d'amabilità, ma strane e lievi;  
+non prive d'amabilità, ma strane e lievi;  
 
-    vecchi enigmi e nuovi credi, non per dispetto  
+vecchi enigmi e nuovi credi, non per dispetto  
 
-    ma dolcemente, come si sorride dei morti.  
+ma dolcemente, come si sorride dei morti.  
 
-    I sapienti hanno cento mappe da dare  
+I sapienti hanno cento mappe da dare  
 
-    che tracciano il loro cosmo strisciante come un albero,  
+che tracciano il loro cosmo strisciante come un albero,  
 
-    scuotono fuori la ragione attraverso più d'un vaglio  
+scuotono fuori la ragione attraverso più d'un vaglio  
 
-    che serba la sabbia e lascia libero l'oro:  
+che serba la sabbia e lascia libero l'oro:  
 
-    e tutte queste cose sono meno della [[Dust|polvere]] per me  
+e tutte queste cose sono meno della [[Dust|polvere]] per me  
 
-    perché il mio nome è Lazzaro e io vivo.  
+perché il mio nome è Lazzaro e io vivo.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    I. [[history|STORIA]]  
+I. [[history|STORIA]]  
 
-    _Modulo 991785, Sottosezione D_  
+_Modulo 991785, Sottosezione D_  
 
-    Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
+Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
 
-    e sospirò e se ne andò a passeggio:  
+e sospirò e se ne andò a passeggio:  
 
-    il Sassone ci diede una scorreria, una scorreria,  
+il Sassone ci diede una scorreria, una scorreria,  
 
-    una scorreria venuta per restare;  
+una scorreria venuta per restare;  
 
-    il Danese andò a ovest, ma il Danese confessò  
+il Danese andò a ovest, ma il Danese confessò  
 
-    d'essere andato un po' troppo oltre;  
+d'essere andato un po' troppo oltre;  
 
-    e tutti diventammo, sotto un altro nome,  
+e tutti diventammo, sotto un altro nome,  
 
-    la razza Imperiale che siamo.  
+la razza Imperiale che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    La razza Imperiale, la razza imperscrutabile,  
+La razza Imperiale, la razza imperscrutabile,  
 
-    la razza invincibile che siamo.  
+la razza invincibile che siamo.  
 
-    Benché i colli del Sussex siano nudi, nudi,  
+Benché i colli del Sussex siano nudi, nudi,  
 
-    e ampia la boscaglia del Sussex,  
+e ampia la boscaglia del Sussex,  
 
-    da Chichester a Chester  
+da Chichester a Chester  
 
-    gli uomini videro il Normanno cavalcare;  
+gli uomini videro il Normanno cavalcare;  
 
-    gettò la sua [[Sword|spada]] in aria e cantò  
+gettò la sua [[Sword|spada]] in aria e cantò  
 
-    a una specie di leggera chitarra;  
+a una specie di leggera chitarra;  
 
-    fu tutt'uno, poiché tutti diventammo  
+fu tutt'uno, poiché tutti diventammo  
 
-    gli identici gran signori che siamo.  
+gli identici gran signori che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    Gli identici gran signori, i singolari gran signori,  
+Gli identici gran signori, i singolari gran signori,  
 
-    gl'inconfondibili gran signori che siamo.  
+gl'inconfondibili gran signori che siamo.  
 
-    Il popolo viveva sulla terra, sulla terra,  
+Il popolo viveva sulla terra, sulla terra,  
 
-    s'affaccendava alla meglio e pregava;  
+s'affaccendava alla meglio e pregava;  
 
-    costruivano una [[Cathedral|cattedrale]] qua e là  
+costruivano una [[Cathedral|cattedrale]] qua e là  
 
-    o andavano a una piccola crociata:  
+o andavano a una piccola crociata:  
 
-    finché le ossa di Becket furono sbattute fuori  
+finché le ossa di Becket furono sbattute fuori  
 
-    per lo spasso d'un grasso Zar Bianco,  
+per lo spasso d'un grasso Zar Bianco,  
 
-    e tutti diventammo, tra saccheggio e fiamma,  
+e tutti diventammo, tra saccheggio e fiamma,  
 
-    la razza intelligente che siamo.  
+la razza intelligente che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    La razza intelligente, la razza intuitiva,  
+La razza intelligente, la razza intuitiva,  
 
-    la razza infallibile che siamo.  
+la razza infallibile che siamo.  
 
-    Oh, i boschi di Warwick son verdi, son verdi,  
+Oh, i boschi di Warwick son verdi, son verdi,  
 
-    ma gli alberi di Warwick possono cadere:  
+ma gli alberi di Warwick possono cadere:  
 
-    e Birmingham crebbe così grande, così grande,  
+e Birmingham crebbe così grande, così grande,  
 
-    e Stratford rimase così piccola.  
+e Stratford rimase così piccola.  
 
-    finché la sirena ululò all'allodola mattutina  
+finché la sirena ululò all'allodola mattutina  
 
-    che cantava alla stella del mattino;  
+che cantava alla stella del mattino;  
 
-    e tutti diventammo, in nome della [[Freedom|libertà]],  
+e tutti diventammo, in nome della [[Freedom|libertà]],  
 
-    i fortunati tizi che siamo.  
+i fortunati tizi che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    I fortunati tizi, i felici tizi,  
+I fortunati tizi, i felici tizi,  
 
-    i fatati tizi che siamo.  
+i fatati tizi che siamo.  
 
-    Il popolo lasciò la terra, la terra,  
+Il popolo lasciò la terra, la terra,  
 
-    ma continuò a lavorare sodo;  
+ma continuò a lavorare sodo;  
 
-    e il prato del villaggio che s'era smarrito  
+e il prato del villaggio che s'era smarrito  
 
-    spuntò nel cortile del signorotto:  
+spuntò nel cortile del signorotto:  
 
-    ma venti di noi trovammo lavoro  
+ma venti di noi trovammo lavoro  
 
-    su un pezzo della sua automobile;  
+su un pezzo della sua automobile;  
 
-    e tutti diventammo, col plauso del mondo,  
+e tutti diventammo, col plauso del mondo,  
 
-    i meravigliosi gonzi che siamo:  
+i meravigliosi gonzi che siamo:  
 
-    _Coro_  
+_Coro_  
 
-    I meravigliosi gonzi, i miracolosi gonzi,  
+I meravigliosi gonzi, i miracolosi gonzi,  
 
-    i mistici gonzi che siamo.  
+i mistici gonzi che siamo.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    II. GEOGRAFIA  
+II. GEOGRAFIA  
 
-    _Modulo 17955301, Sottosezione Z_  
+_Modulo 17955301, Sottosezione Z_  
 
-    La terra è un luogo dove si trova l'Inghilterra,  
+La terra è un luogo dove si trova l'Inghilterra,  
 
-    e la si trova comunque si faccia roteare il globo;  
+e la si trova comunque si faccia roteare il globo;  
 
-    poiché le macchie sono tutte rosse e il resto è tutto grigio,  
+poiché le macchie sono tutte rosse e il resto è tutto grigio,  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Gibilterra è una rocca che si vede benissimo,  
+Gibilterra è una rocca che si vede benissimo,  
 
-    e attaccato alla sua base è il distretto della Spagna.  
+e attaccato alla sua base è il distretto della Spagna.  
 
-    E l'isola di Malta è segnata più in là,  
+E l'isola di Malta è segnata più in là,  
 
-    dove certi nativi erano noti come i Cavalieri di San Giovanni.  
+dove certi nativi erano noti come i Cavalieri di San Giovanni.  
 
-    Poi Cipro, e a est fino al Canale di Suez,  
+Poi Cipro, e a est fino al Canale di Suez,  
 
-    che fu conquistato da Dizzy e da Rothschild suo compare  
+che fu conquistato da Dizzy e da Rothschild suo compare  
 
-    con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
+con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Le nostre principali importazioni vengono da lontano come Capo Horn;  
+Le nostre principali importazioni vengono da lontano come Capo Horn;  
 
-    per necessità, cacao; per lussi, grano;  
+per necessità, cacao; per lussi, grano;  
 
-    così i Bramini nascono per la risaia, e così  
+così i Bramini nascono per la risaia, e così  
 
-    gli Dèi fecero i Greci perché coltivassero uva passa per noi;  
+gli Dèi fecero i Greci perché coltivassero uva passa per noi;  
 
-    Tabacco e benzina e Jazz ed Ebrei:  
+Tabacco e benzina e Jazz ed Ebrei:  
 
-    il Jazz passerà ma gli Ebrei resteranno;  
+il Jazz passerà ma gli Ebrei resteranno;  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Le nostre principali esportazioni, tutte etichettate e imballate,  
+Le nostre principali esportazioni, tutte etichettate e imballate,  
 
-    ai confini della terra sono consegnate intatte:  
+ai confini della terra sono consegnate intatte:  
 
-    Il nostro sapone o il nostro salmone possono viaggiare in scatola  
+Il nostro sapone o il nostro salmone possono viaggiare in scatola  
 
-    tra i due poli e uguali come due spilli;  
+tra i due poli e uguali come due spilli;  
 
-    così che i mercanti del Lancashire, quando vogliono,  
+così che i mercanti del Lancashire, quando vogliono,  
 
-    possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
+possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
 
-    o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
+o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Il giorno di San Giorgio è una faccenda ammuffita  
+Il giorno di San Giorgio è una faccenda ammuffita  
 
-    che a Russi e Greci è concesso di spartire;  
+che a Russi e Greci è concesso di spartire;  
 
-    il giorno di Trafalgar è spagnolo di nome  
+il giorno di Trafalgar è spagnolo di nome  
 
-    e gli Spagnoli rifiutano di pronunciarlo allo stesso modo;  
+e gli Spagnoli rifiutano di pronunciarlo allo stesso modo;  
 
-    ma il Giorno dell'Impero venne dal Canada  
+ma il Giorno dell'Impero venne dal Canada  
 
-    con Morden e Borden e la fama di Beaverbrook  
+con Morden e Borden e la fama di Beaverbrook  
 
-    e anime sante e serafiche come loro:  
+e anime sante e serafiche come loro:  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    III. PER L'ASILO NIDO  
+III. PER L'ASILO NIDO  
 
-    _Modulo 8277059, Sottosezione K_  
+_Modulo 8277059, Sottosezione K_  
 
-    Ricordo mia madre, il giorno che c'incontrammo,  
+Ricordo mia madre, il giorno che c'incontrammo,  
 
-    una cosa che non dimenticherò mai del tutto;  
+una cosa che non dimenticherò mai del tutto;  
 
-    e mi diverto a fantasticare che, per quanto giovane io sia,  
+e mi diverto a fantasticare che, per quanto giovane io sia,  
 
-    la riconoscerei se c'incontrassimo in un tram.  
+la riconoscerei se c'incontrassimo in un tram.  
 
-      Ma la mamma è felice di girare una manovella  
+Ma la mamma è felice di girare una manovella  
 
-      che accresce il saldo nella banca di qualcuno;  
+che accresce il saldo nella banca di qualcuno;  
 
-      e provo soddisfazione che la mamma sia libera  
+e provo soddisfazione che la mamma sia libera  
 
-      dal sinistro compito d'occuparsi di me.  
+dal sinistro compito d'occuparsi di me.  
 
-    Hanno rallegrato la nostra stanza, spaziosa e fresca,  
+Hanno rallegrato la nostra stanza, spaziosa e fresca,  
 
-    con diagrammi usati nella Scuola per Idioti,  
+con diagrammi usati nella Scuola per Idioti,  
 
-    e Libri per Ciechi che c'insegneranno a vedere;  
+e Libri per Ciechi che c'insegneranno a vedere;  
 
-    ma la mamma è felice, perché la mamma è libera.  
+ma la mamma è felice, perché la mamma è libera.  
 
-      Poiché la mamma danza su per quarantotto piani,  
+Poiché la mamma danza su per quarantotto piani,  
 
-      per [[Love|amore]] dei Leeds International Stores,  
+per [[Love|amore]] dei Leeds International Stores,  
 
-      e la fiamma di quella [[Faith|fede]] forse si sarebbe raffreddata,  
+e la fiamma di quella [[Faith|fede]] forse si sarebbe raffreddata,  
 
-      con la cura d'un bimbo di sette settimane.  
+con la cura d'un bimbo di sette settimane.  
 
-    Poiché la mamma è felice d'ingrassare una [[Wheel|ruota]]  
+Poiché la mamma è felice d'ingrassare una [[Wheel|ruota]]  
 
-    per qualcun altro, che accaparra l'Acciaio;  
+per qualcun altro, che accaparra l'Acciaio;  
 
-    e benché il nostro unico incontro non fosse molto lungo,  
+e benché il nostro unico incontro non fosse molto lungo,  
 
-    colse l'occasione di cantarmi questo [[Song|canto]]:  
+colse l'occasione di cantarmi questo [[Song|canto]]:  
 
-      «Oh, taci, bimbo mio, presto verrà il [[Time|tempo]]  
+«Oh, taci, bimbo mio, presto verrà il [[Time|tempo]]  
 
-      in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
+in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
 
-      ci sono manovelle da girare e girare tutto il giorno,  
+ci sono manovelle da girare e girare tutto il giorno,  
 
-      e bottoni da premere nel solito modo;  
+e bottoni da premere nel solito modo;  
 
-    oh, taci, bimbo mio, riposa mentre canto sommessa,  
+oh, taci, bimbo mio, riposa mentre canto sommessa,  
 
-    poiché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto.»  
+poiché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto.»  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    IV. CITTADINANZA  
+IV. CITTADINANZA  
 
-    _Modulo 8889512, Sottosezione Q_  
+_Modulo 8889512, Sottosezione Q_  
 
-    Con quanta lentezza impara il [[Child|fanciullo]] a scuola  
+Con quanta lentezza impara il [[Child|fanciullo]] a scuola  
 
-    i nomi di tutti i gran signori che governano  
+i nomi di tutti i gran signori che governano  
 
-    da Ponsonby a Pennant;  
+da Ponsonby a Pennant;  
 
-    prima che la sua mente smarrita trovi requie,  
+prima che la sua mente smarrita trovi requie,  
 
-    sapendo che il suo ospitante può essere un Guest,  
+sapendo che il suo ospitante può essere un Guest,  
 
-    il suo padrone di casa è un Tennant.  
+il suo padrone di casa è un Tennant.  
 
-    Non sapeva, all'età di tre anni,  
+Non sapeva, all'età di tre anni,  
 
-    che cosa Lord St. Leger diventerà poi  
+che cosa Lord St. Leger diventerà poi  
 
-    o che cosa fu prima;  
+o che cosa fu prima;  
 
-    una Primrose nel vortice mondano  
+una Primrose nel vortice mondano  
 
-    è per lui solo un signor Primrose,  
+è per lui solo un signor Primrose,  
 
-    e null'altro egli è.  
+e null'altro egli è.  
 
-    Ma presto, verso i dieci anni,  
+Ma presto, verso i dieci anni,  
 
-    scopre d'essere un Cittadino,  
+scopre d'essere un Cittadino,  
 
-    e sa muoversi nel mondo;  
+e sa muoversi nel mondo;  
 
-    sa fermarsi entro, o appena oltre,  
+sa fermarsi entro, o appena oltre,  
 
-    la linea tra il Mond e il Demi-Mond,  
+la linea tra il Mond e il Demi-Mond,  
 
-    tra il Farsi Strada--o il Farsi Fuori.  
+tra il Farsi Strada--o il Farsi Fuori.  
 
-    Il Cittadino prenderà la sua parte  
+Il Cittadino prenderà la sua parte  
 
-    (in ogni senso) come rialzista e ribassista;  
+(in ogni senso) come rialzista e ribassista;  
 
-    né occorre a questa canzonetta orale  
+né occorre a questa canzonetta orale  
 
-    invocare la penna del filologo  
+invocare la penna del filologo  
 
-    per mostrarvi che un Cittadino  
+per mostrarvi che un Cittadino  
 
-    significa Qualcosa nella [[City|Città]].  
+significa Qualcosa nella [[City|Città]].  
 
-    Così egli guadagna, con la toga virile,  
+Così egli guadagna, con la toga virile,  
 
-    i fasci e la [[Crown|corona]] civica,  
+i fasci e la [[Crown|corona]] civica,  
 
-    il foro dei liberi;  
+il foro dei liberi;  
 
-    non più alla legge suprema di Roma alleato  
+non più alla legge suprema di Roma alleato  
 
-    è Devonport in tutto il suo [[Pride|orgoglio]]  
+è Devonport in tutto il suo [[Pride|orgoglio]]  
 
-    o Lipton in [[Self|persona]] di quanto lo sia lui.  
+o Lipton in [[Self|persona]] di quanto lo sia lui.  
 
-    Poiché egli imparerà, se ci proverà,  
+Poiché egli imparerà, se ci proverà,  
 
-    le profonde verità intime per cui  
+le profonde verità intime per cui  
 
-    governiamo il Commonwealth;  
+governiamo il Commonwealth;  
 
-    qual è l'onorario del Controllore degli Alimenti  
+qual è l'onorario del Controllore degli Alimenti  
 
-    e se il Ministero della Salute  
+e se il Ministero della Salute  
 
-    ci stia per la propria salute.  
+ci stia per la propria salute.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    V. LE MATEMATICHE SUPERIORI  
+V. LE MATEMATICHE SUPERIORI  
 
-    _Modulo 339125, Sottosezione M_  
+_Modulo 339125, Sottosezione M_  
 
-            Due volte uno fa due,  
+Due volte uno fa due,  
 
-            due volte due fa quattro,  
+due volte due fa quattro,  
 
-    ma due volte due fa novantasei se sai come far punti.  
+ma due volte due fa novantasei se sai come far punti.  
 
-            La metà di due è uno,  
+La metà di due è uno,  
 
-            la metà di quattro è due,  
+la metà di quattro è due,  
 
-    ma la metà di quattro è il quaranta per cento se ti chiami Montagu:  
+ma la metà di quattro è il quaranta per cento se ti chiami Montagu:  
 
-      poiché ogni altra cosa è in squadra  
+poiché ogni altra cosa è in squadra  
 
-      se fatta con le migliori quadratiche;  
+se fatta con le migliori quadratiche;  
 
-      e nulla è basso nell'Alta Finanza  
+e nulla è basso nell'Alta Finanza  
 
-      o nelle Matematiche Superiori.  
+o nelle Matematiche Superiori.  
 
-            Una linea retta è retta  
+Una linea retta è retta  
 
-            e un miglio quadrato è piatto:  
+e un miglio quadrato è piatto:  
 
-    ma nella trigonometria impari un trucco che ne vale due.  
+ma nella trigonometria impari un trucco che ne vale due.  
 
-            Due linee rette  
+Due linee rette  
 
-            non possono racchiudere uno Spazio,  
+non possono racchiudere uno Spazio,  
 
-    ma possono racchiudere un Angolo per sostenere la Razza Eletta:  
+ma possono racchiudere un Angolo per sostenere la Razza Eletta:  
 
-      poiché non sai mai che cosa faccia la Dinamica  
+poiché non sai mai che cosa faccia la Dinamica  
 
-      con le verità inferiori della Statica;  
+con le verità inferiori della Statica;  
 
-      e la metà di due è un'automobile da turismo  
+e la metà di due è un'automobile da turismo  
 
-      nelle Matematiche Superiori.  
+nelle Matematiche Superiori.  
 
-            C'è un luogo appartato  
+C'è un luogo appartato  
 
-            oltre il raggio solare,  
+oltre il raggio solare,  
 
-    dove rette parallele possono incontrarsi in modo ufficioso.  
+dove rette parallele possono incontrarsi in modo ufficioso.  
 
-            C'è una stanza che ospita  
+C'è una stanza che ospita  
 
-            l'esaminatore o i suoi scrivani,  
+l'esaminatore o i suoi scrivani,  
 
-    dove puoi quadrare il cerchio, o l'uomo che assegna i voti.  
+dove puoi quadrare il cerchio, o l'uomo che assegna i voti.  
 
-      dove ti nascondi in cantina e poi guardi dall'alto  
+dove ti nascondi in cantina e poi guardi dall'alto  
 
-      i poeti che vivono nelle soffitte;  
+i poeti che vivono nelle soffitte;  
 
-      poiché tutta la [[house|casa]] è a rovescio  
+poiché tutta la [[house|casa]] è a rovescio  
 
-      nelle Matematiche Superiori.  
+nelle Matematiche Superiori.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    VI. IGIENE  
+VI. IGIENE  
 
-    _Modulo 394411102, Sottosezione X_  
+_Modulo 394411102, Sottosezione X_  
 
-    _«Tutti gli eugenisti pratici concordano sull'importanza del_  
+_«Tutti gli eugenisti pratici concordano sull'importanza del_  
 
-    _[[Sleep|sonno]].»--Il Congresso Eugenetico._  
+_[[Sleep|sonno]].»--Il Congresso Eugenetico._  
 
-    Quando la Scienza insegnò all'umanità a respirare  
+Quando la Scienza insegnò all'umanità a respirare  
 
-    poco tempo fa,  
+poco tempo fa,  
 
-    solo pochi savi e riflessivi  
+solo pochi savi e riflessivi  
 
-    erano davvero al corrente:  
+erano davvero al corrente:  
 
-    né il Giovane poteva atteggiare il volto,  
+né il Giovane poteva atteggiare il volto,  
 
-    sbuffando da tutti i polmoni di sotto:  
+sbuffando da tutti i polmoni di sotto:  
 
-    quando il Dovere sussurrò piano «Respira!»  
+quando il Dovere sussurrò piano «Respira!»  
 
-    il Giovane rispondeva «E soffia!»  
+il Giovane rispondeva «E soffia!»  
 
-    Quando la Scienza provò con lucida cura  
+Quando la Scienza provò con lucida cura  
 
-    la necessità dell'Esercizio,  
+la necessità dell'Esercizio,  
 
-    il nostro sventato Giovane s'arrampicava sugli alberi  
+il nostro sventato Giovane s'arrampicava sugli alberi  
 
-    o pestava allegramente gli occhi altrui:  
+o pestava allegramente gli occhi altrui:  
 
-    per gli sconsiderati sfaccendati che sforavano i limiti  
+per gli sconsiderati sfaccendati che sforavano i limiti  
 
-    per il football o per la caccia alla lepre,  
+per il football o per la caccia alla lepre,  
 
-    o battendosi accanitamente per quattordici riprese,  
+o battendosi accanitamente per quattordici riprese,  
 
-    giunse come una sorpresa.  
+giunse come una sorpresa.  
 
-    Ma quando essa arditamente consiglia il [[Sleep|Sonno]]  
+Ma quando essa arditamente consiglia il [[Sleep|Sonno]]  
 
-    alle persone quando sono a letto,  
+alle persone quando sono a letto,  
 
-    allora, allora sì che gli uomini arrossiscono nel vedere  
+allora, allora sì che gli uomini arrossiscono nel vedere  
 
-    l'alba arrossire di rosso:  
+l'alba arrossire di rosso:  
 
-    i mattinieri che noi chiamiamo  
+i mattinieri che noi chiamiamo  
 
-    sani, si fanno malaticci e infermi;  
+sani, si fanno malaticci e infermi;  
 
-    l'Uccello Mattiniero che acchiappava il Verme  
+l'Uccello Mattiniero che acchiappava il Verme  
 
-    acchiapperà invece il Germe.  
+acchiapperà invece il Germe.  
 
-    Per questo almeno sia lodata la Scienza,  
+Per questo almeno sia lodata la Scienza,  
 
-    se tutto il resto è fandonia,  
+se tutto il resto è fandonia,  
 
-    che ora essa rimbrotta il [[Child|fanciullo]] presuntuoso  
+che ora essa rimbrotta il [[Child|fanciullo]] presuntuoso  
 
-    che lascia troppo presto la culla:  
+che lascia troppo presto la culla:  
 
-    il pachiderma farisaico  
+il pachiderma farisaico  
 
-    dell'[[Pride|orgoglio]] spirituale si contorcerà:  
+dell'[[Pride|orgoglio]] spirituale si contorcerà:  
 
-    l'Uccello Mattiniero acchiappa il verme,  
+l'Uccello Mattiniero acchiappa il verme,  
 
-    il Verme che non muore.  
+il Verme che non muore.  
 
-                            THE ARDEN PRESS  
+THE ARDEN PRESS  
 
-                     STAMFORD STREET [[London|LONDRA]], S.E.1  
+STAMFORD STREET [[London|LONDRA]], S.E.1  
 
 Fine dell'eBook del Progetto Gutenberg The Ballad of St. Barbara, di  
 
@@ -6187,7 +6187,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/3/2/1/6/32167/  
+http://www.gutenberg.org/3/2/1/6/32167/  
 
 Prodotto da Irma Spehar, Markus Brenner e il Team di  
 
@@ -6447,53 +6447,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -6687,11 +6687,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -6771,7 +6771,7 @@ manteniamo gli eBook conformi a una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 
@@ -6798,7 +6798,7 @@ with this eBook or online at www.gutenberg.org
 
 Title: The Ballad of St. Barbara  
 
-       And Other Verses  
+And Other Verses  
 
 Author: Gilbert Keith Chesterton  
 
@@ -6818,533 +6818,533 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)  
 
-                       The Ballad of St. Barbara  
+The Ballad of St. Barbara  
 
-                           AND OTHER VERSES  
+AND OTHER VERSES  
 
-                                  BY  
+BY  
 
-                       GILBERT KEITH CHESTERTON  
+GILBERT KEITH CHESTERTON  
 
-                                [[London|LONDON]]  
+[[London|LONDON]]  
 
-                             CECIL PALMER  
+CECIL PALMER  
 
-                 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
 
-                                 FIRST  
+FIRST  
 
-                                EDITION  
+EDITION  
 
-                                 1922  
+1922  
 
-                               COPYRIGHT  
+COPYRIGHT  
 
-    TO F. C. IN MEMORIAM PALESTINE, '19  
+TO F. C. IN MEMORIAM PALESTINE, '19  
 
-    Do you remember one immortal  
+Do you remember one immortal  
 
-    Lost moment out of [[Time|time]] and space,  
+Lost moment out of [[Time|time]] and space,  
 
-    What [[Time|time]] we thought, who passed the portal  
+What [[Time|time]] we thought, who passed the portal  
 
-    Of that divine disastrous place  
+Of that divine disastrous place  
 
-    Where Life was slain and [[Truth]] was slandered  
+Where Life was slain and [[Truth]] was slandered  
 
-    On that one holier [[Hill|hill]] than Rome,  
+On that one holier [[Hill|hill]] than Rome,  
 
-    How far abroad our bodies wandered  
+How far abroad our bodies wandered  
 
-    That evening when our souls came [[Home|home]]?  
+That evening when our souls came [[Home|home]]?  
 
-    The mystic [[City|city]] many-gated,  
+The mystic [[City|city]] many-gated,  
 
-    With monstrous columns, was your own:  
+With monstrous columns, was your own:  
 
-    Herodian stones fell down and waited  
+Herodian stones fell down and waited  
 
-    Two thousand years to be your throne.  
+Two thousand years to be your throne.  
 
-    In the grey rocks the burning blossom  
+In the grey rocks the burning blossom  
 
-    Glowed terrible as the sacred [[Blood|blood]]:  
+Glowed terrible as the sacred [[Blood|blood]]:  
 
-    It was no stranger to your bosom  
+It was no stranger to your bosom  
 
-    Than bluebells of an English wood.  
+Than bluebells of an English wood.  
 
-    Do you remember a [[Road|road]] that follows  
+Do you remember a [[Road|road]] that follows  
 
-    The way of unforgotten feet,  
+The way of unforgotten feet,  
 
-    Where from the waste of rocks and hollows  
+Where from the waste of rocks and hollows  
 
-    Climb up the crawling crooked street  
+Climb up the crawling crooked street  
 
-    The stages of one towering drama  
+The stages of one towering drama  
 
-    Always ahead and out of sight ...  
+Always ahead and out of sight ...  
 
-    Do you remember Aceldama  
+Do you remember Aceldama  
 
-    And the jackal barking in the [[Night|night]]?  
+And the jackal barking in the [[Night|night]]?  
 
-    Life is not void or stuff for scorners:  
+Life is not void or stuff for scorners:  
 
-    We have laughed loud and kept our [[Love|love]],  
+We have laughed loud and kept our [[Love|love]],  
 
-    We have heard singers in tavern corners  
+We have heard singers in tavern corners  
 
-    And not forgotten the [[Birds|birds]] above:  
+And not forgotten the [[Birds|birds]] above:  
 
-    We have known smiters and sons of thunder  
+We have known smiters and sons of thunder  
 
-    And not unworthily walked with them,  
+And not unworthily walked with them,  
 
-    We have grown wiser and lost not [[Wonder|wonder]];  
+We have grown wiser and lost not [[Wonder|wonder]];  
 
-    And we have seen Jerusalem.  
+And we have seen Jerusalem.  
 
-    CONTENTS  
+CONTENTS  
 
-                                                  PAGE  
+PAGE  
 
-    To F. C. In Memoriam Palestine, '19            vii  
+To F. C. In Memoriam Palestine, '19            vii  
 
-    The Ballad of St. Barbara                        1  
+The Ballad of St. Barbara                        1  
 
-    [[elegy|Elegy]] in a Country Churchyard                   13  
+[[elegy|Elegy]] in a Country Churchyard                   13  
 
-    The [[Sword]] of Surprise                           14  
+The [[Sword]] of Surprise                           14  
 
-    A Wedding in War-[[Time|time]]                           15  
+A Wedding in War-[[Time|time]]                           15  
 
-    The Mystery                                     18  
+The Mystery                                     18  
 
-    "The Myth of [[Arthur]]"                            19  
+"The Myth of [[Arthur]]"                            19  
 
-    The Old [[Song]]                                    20  
+The Old [[Song]]                                    20  
 
-    The Trinkets                                    24  
+The Trinkets                                    24  
 
-    The Philanthropist                              26  
+The Philanthropist                              26  
 
-    On the Downs                                    27  
+On the Downs                                    27  
 
-    The Red Sea                                     30  
+The Red Sea                                     30  
 
-    For a War Memorial                              32  
+For a War Memorial                              32  
 
-    [[Memory]]                                          33  
+[[Memory]]                                          33  
 
-    The English Graves                              35  
+The English Graves                              35  
 
-    [[nightmare|Nightmare]]                                       37  
+[[nightmare|Nightmare]]                                       37  
 
-    A Second [[Childhood]]                              40  
+A Second [[Childhood]]                              40  
 
-    "Mediævalism"                                   43  
+"Mediævalism"                                   43  
 
-    Poland                                          46  
+Poland                                          46  
 
-    The Hunting of the Dragon                       48  
+The Hunting of the Dragon                       48  
 
-    [[Sonnet]]                                          51  
+[[Sonnet]]                                          51  
 
-    Fantasia                                        52  
+Fantasia                                        52  
 
-    A Christmas [[carol|Carol]]                               54  
+A Christmas [[carol|Carol]]                               54  
 
-    To Captain Fryatt                               56  
+To Captain Fryatt                               56  
 
-    For Four Guilds:  
+For Four Guilds:  
 
-        I. The Glass-Stainers                       57  
+I. The Glass-Stainers                       57  
 
-       II. The Bridge-Builders                      59  
+II. The Bridge-Builders                      59  
 
-      III. The Stone-Masons                         62  
+III. The Stone-Masons                         62  
 
-       IV. The Bell-Ringers                         64  
+IV. The Bell-Ringers                         64  
 
-    The [[convert|Convert]]                                     67  
+The [[convert|Convert]]                                     67  
 
-    [[songs|Songs]] of [[Education]]:  
+[[songs|Songs]] of [[Education]]:  
 
-        I. [[history|History]]                                  71  
+I. [[history|History]]                                  71  
 
-       II. Geography                                74  
+II. Geography                                74  
 
-      III. For the Crêche                           76  
+III. For the Crêche                           76  
 
-       IV. Citizenship                              78  
+IV. Citizenship                              78  
 
-        V. The Higher Mathematics                   80  
+V. The Higher Mathematics                   80  
 
-       VI. Hygiene                                  82  
+VI. Hygiene                                  82  
 
-    THE BALLAD OF ST. BARBARA  
+THE BALLAD OF ST. BARBARA  
 
-    _(St. Barbara is the patron saint of artillery and of those in  
+_(St. Barbara is the patron saint of artillery and of those in  
 
-    danger of sudden [[Death|death]].)_  
+danger of sudden [[Death|death]].)_  
 
-    When the long grey lines came flooding upon [[Paris]] in the plain,  
+When the long grey lines came flooding upon [[Paris]] in the plain,  
 
-    We stood and drank of the last free air we never could taste again:  
+We stood and drank of the last free air we never could taste again:  
 
-    They had led us back from the lost battle, to halt we knew not where  
+They had led us back from the lost battle, to halt we knew not where  
 
-    And stilled us; and our gaping guns were dumb with our [[Despair|despair]].  
+And stilled us; and our gaping guns were dumb with our [[Despair|despair]].  
 
-    The grey tribes flowed for ever from the infinite lifeless lands  
+The grey tribes flowed for ever from the infinite lifeless lands  
 
-    And a Norman to a Breton spoke, his chin upon his hands.  
+And a Norman to a Breton spoke, his chin upon his hands.  
 
-    "There was an end to Ilium; and an end came to Rome;  
+"There was an end to Ilium; and an end came to Rome;  
 
-    And a man plays on a painted stage in the land that he calls [[Home|home]];  
+And a man plays on a painted stage in the land that he calls [[Home|home]];  
 
-    Arch after arch of triumph, but floor beyond falling floor,  
+Arch after arch of triumph, but floor beyond falling floor,  
 
-    That lead to a low door at last; and beyond there is no door."  
+That lead to a low door at last; and beyond there is no door."  
 
-    And the Breton to the Norman spoke, like a small [[Child|child]] spoke he,  
+And the Breton to the Norman spoke, like a small [[Child|child]] spoke he,  
 
-    And his sea-blue eyes were empty as his [[Home|home]] beside the sea:  
+And his sea-blue eyes were empty as his [[Home|home]] beside the sea:  
 
-    "There are more windows in one [[house]] than there are eyes to see,  
+"There are more windows in one [[house]] than there are eyes to see,  
 
-    There are more doors in a man's [[house]], but God has hid the key:  
+There are more doors in a man's [[house]], but God has hid the key:  
 
-    Ruin is a builder of windows; her legend witnesseth  
+Ruin is a builder of windows; her legend witnesseth  
 
-    Barbara, the saint of gunners, and a stay in sudden [[Death|death]]."  
+Barbara, the saint of gunners, and a stay in sudden [[Death|death]]."  
 
-    It seemed the [[Wheel|wheel]] of the world stood still an instant in its turning,  
+It seemed the [[Wheel|wheel]] of the world stood still an instant in its turning,  
 
-    More than the kings of the earth that turned with the turning of Valmy  
+More than the kings of the earth that turned with the turning of Valmy  
 
-      mill:  
+mill:  
 
-    While trickled the idle tale and the sea-blue eyes were burning,  
+While trickled the idle tale and the sea-blue eyes were burning,  
 
-    Still as the heart of a whirlwind the heart of the world stood still.  
+Still as the heart of a whirlwind the heart of the world stood still.  
 
-        "Barbara the beautiful  
+"Barbara the beautiful  
 
-        Had praise of lute and pen:  
+Had praise of lute and pen:  
 
-        Her hair was like a [[Summer|summer]] [[Night|night]]  
+Her hair was like a [[Summer|summer]] [[Night|night]]  
 
-        Dark and desired of men.  
+Dark and desired of men.  
 
-        Her feet like [[Birds|birds]] from far away  
+Her feet like [[Birds|birds]] from far away  
 
-        That linger and light in [[Doubt|doubt]];  
+That linger and light in [[Doubt|doubt]];  
 
-        And her face was like a [[Window|window]]  
+And her face was like a [[Window|window]]  
 
-        Where a man's first [[Love|love]] looked out.  
+Where a man's first [[Love|love]] looked out.  
 
-        Her sire was master of many slaves  
+Her sire was master of many slaves  
 
-        A hard man of his hands;  
+A hard man of his hands;  
 
-        They built a tower about her  
+They built a tower about her  
 
-        In the desolate golden lands,  
+In the desolate golden lands,  
 
-        Sealed as the tyrants sealed their tombs,  
+Sealed as the tyrants sealed their tombs,  
 
-        Planned with an ancient plan,  
+Planned with an ancient plan,  
 
-        And set two windows in the tower  
+And set two windows in the tower  
 
-        Like the two eyes of a man."  
+Like the two eyes of a man."  
 
-    Our guns were set toward the foe; we had no word, for firing.  
+Our guns were set toward the foe; we had no word, for firing.  
 
-    Grey in the gateway of St. Gond the Guard of the [[Tyrant|tyrant]] shone;  
+Grey in the gateway of St. Gond the Guard of the [[Tyrant|tyrant]] shone;  
 
-    Dark with the fate of a falling star, retiring and retiring,  
+Dark with the fate of a falling star, retiring and retiring,  
 
-    The Breton line went backward and the Breton tale went on.  
+The Breton line went backward and the Breton tale went on.  
 
-        "Her father had sailed across the sea  
+"Her father had sailed across the sea  
 
-        From the harbour of Africa  
+From the harbour of Africa  
 
-        When all the slaves took up their tools  
+When all the slaves took up their tools  
 
-        For the bidding of Barbara.  
+For the bidding of Barbara.  
 
-        She smote the bare wall with her hand  
+She smote the bare wall with her hand  
 
-        And bad them smite again;  
+And bad them smite again;  
 
-        She poured them wealth of wine and meat  
+She poured them wealth of wine and meat  
 
-        To stay them in their [[Pain|pain]].  
+To stay them in their [[Pain|pain]].  
 
-        And cried through the lifted thunder  
+And cried through the lifted thunder  
 
-        Of thronging hammer and hod  
+Of thronging hammer and hod  
 
-        'Throw open the third [[Window|window]]  
+'Throw open the third [[Window|window]]  
 
-        In the third name of God.'  
+In the third name of God.'  
 
-        Then the hearts failed and the tools fell,  
+Then the hearts failed and the tools fell,  
 
-        And far towards the foam,  
+And far towards the foam,  
 
-        Men saw a [[Shadow|shadow]] on the sands  
+Men saw a [[Shadow|shadow]] on the sands  
 
-        And her father coming [[Home|home]]."  
+And her father coming [[Home|home]]."  
 
-    Speak low and low, along the line the whispered word is flying  
+Speak low and low, along the line the whispered word is flying  
 
-    Before the touch, before the [[Time|time]], we may not loose a breath:  
+Before the touch, before the [[Time|time]], we may not loose a breath:  
 
-    Their guns must mash us to the mire and there be no replying,  
+Their guns must mash us to the mire and there be no replying,  
 
-    Till the hand is raised to fling us for the final dice to [[Death|death]].  
+Till the hand is raised to fling us for the final dice to [[Death|death]].  
 
-        "There were two windows in your tower,  
+"There were two windows in your tower,  
 
-        Barbara, Barbara,  
+Barbara, Barbara,  
 
-        For all between the sun and [[Moon|moon]]  
+For all between the sun and [[Moon|moon]]  
 
-        In the lands of Africa.  
+In the lands of Africa.  
 
-        Hath a man three eyes, Barbara,  
+Hath a man three eyes, Barbara,  
 
-        A bird three wings,  
+A bird three wings,  
 
-        That you have riven roof and wall  
+That you have riven roof and wall  
 
-        To look upon vain things?"  
+To look upon vain things?"  
 
-        Her voice was like a wandering thing  
+Her voice was like a wandering thing  
 
-        That falters yet is free,  
+That falters yet is free,  
 
-        Whose [[Soul|soul]] has drunk in a distant land  
+Whose [[Soul|soul]] has drunk in a distant land  
 
-        Of the rivers of liberty.  
+Of the rivers of liberty.  
 
-        "There are more wings than the [[Wind|wind]] knows  
+"There are more wings than the [[Wind|wind]] knows  
 
-        Or eyes than see the sun  
+Or eyes than see the sun  
 
-        In the light of the lost [[Window|window]]  
+In the light of the lost [[Window|window]]  
 
-        And the [[Wind|wind]] of the doors undone.  
+And the [[Wind|wind]] of the doors undone.  
 
-        For out of the first lattice  
+For out of the first lattice  
 
-        Are the red lands that break  
+Are the red lands that break  
 
-        And out of the second lattice  
+And out of the second lattice  
 
-        Sea like a green snake,  
+Sea like a green snake,  
 
-        But out of the third lattice  
+But out of the third lattice  
 
-        Under low eaves like wings  
+Under low eaves like wings  
 
-        Is a new corner of the sky  
+Is a new corner of the sky  
 
-        And the other side of things."  
+And the other side of things."  
 
-    It opened in the inmost place an instant beyond uttering,  
+It opened in the inmost place an instant beyond uttering,  
 
-    A casement and a chasm and a thunder of doors undone,  
+A casement and a chasm and a thunder of doors undone,  
 
-    A seraph's strong wing shaken out the shock of its unshuttering,  
+A seraph's strong wing shaken out the shock of its unshuttering,  
 
-    That split the shattered sunlight from a light behind the sun.  
+That split the shattered sunlight from a light behind the sun.  
 
-        "Then he drew [[Sword|sword]] and drave her  
+"Then he drew [[Sword|sword]] and drave her  
 
-        Where the judges sat and said  
+Where the judges sat and said  
 
-        'Caesar sits above the gods,  
+'Caesar sits above the gods,  
 
-        Barbara the maid.  
+Barbara the maid.  
 
-        Caesar hath made a treaty  
+Caesar hath made a treaty  
 
-        With the [[Moon|moon]] and with the sun,  
+With the [[Moon|moon]] and with the sun,  
 
-        All the gods that men can praise  
+All the gods that men can praise  
 
-        Praise him every one.  
+Praise him every one.  
 
-        There is peace with the anointed  
+There is peace with the anointed  
 
-        Of the scarlet oils of Bel,  
+Of the scarlet oils of Bel,  
 
-        With the Fish God, where the whirlpool  
+With the Fish God, where the whirlpool  
 
-        Is a winding stair to hell,  
+Is a winding stair to hell,  
 
-        With the pathless pyramids of slime,  
+With the pathless pyramids of slime,  
 
-        Where the mitred negro lifts  
+Where the mitred negro lifts  
 
-        To his black cherub in the cloud  
+To his black cherub in the cloud  
 
-        Abominable gifts,  
+Abominable gifts,  
 
-        With the leprous silver cities  
+With the leprous silver cities  
 
-        Where the dumb priests [[Dance|dance]] and nod,  
+Where the dumb priests [[Dance|dance]] and nod,  
 
-        But not with the three windows  
+But not with the three windows  
 
-        And the last name of God.'"  
+And the last name of God.'"  
 
-    They are firing, we are falling, and the red skies rend and shiver us,  
+They are firing, we are falling, and the red skies rend and shiver us,  
 
-    Barbara, Barbara, we may not loose a breath--  
+Barbara, Barbara, we may not loose a breath--  
 
-    Be at the bursting doors of doom, and in the dark deliver us,  
+Be at the bursting doors of doom, and in the dark deliver us,  
 
-    Who loosen the last [[Window|window]] on the sun of sudden [[Death|death]].  
+Who loosen the last [[Window|window]] on the sun of sudden [[Death|death]].  
 
-        "Barbara the beautiful  
+"Barbara the beautiful  
 
-        Stood up as [[Queen|queen]] set free,  
+Stood up as [[Queen|queen]] set free,  
 
-        Whose mouth is set to a terrible cup  
+Whose mouth is set to a terrible cup  
 
-        And the trumpet of liberty.  
+And the trumpet of liberty.  
 
-        'I have looked forth from a [[Window|window]]  
+'I have looked forth from a [[Window|window]]  
 
-        That no man now shall bar,  
+That no man now shall bar,  
 
-        Caesar's toppling battle-towers  
+Caesar's toppling battle-towers  
 
-        Shall never stretch so far.  
+Shall never stretch so far.  
 
-        The slaves are dancing in their [[Chains|chains]],  
+The slaves are dancing in their [[Chains|chains]],  
 
-        The [[Child|child]] laughs at the rod,  
+The [[Child|child]] laughs at the rod,  
 
-        Because of the bird of the three wings,  
+Because of the bird of the three wings,  
 
-        And the third face of God.'  
+And the third face of God.'  
 
-        The [[Sword|sword]] upon his shoulder  
+The [[Sword|sword]] upon his shoulder  
 
-        Shifted and shone and fell,  
+Shifted and shone and fell,  
 
-        And Barbara lay very small  
+And Barbara lay very small  
 
-        And crumpled like a shell."  
+And crumpled like a shell."  
 
-    What wall upon what hinges turned stands open like a door?  
+What wall upon what hinges turned stands open like a door?  
 
-    Too simple for the sight of [[Faith|faith]], too huge for human eyes,  
+Too simple for the sight of [[Faith|faith]], too huge for human eyes,  
 
-    What light upon what ancient way shines to a far-off floor,  
+What light upon what ancient way shines to a far-off floor,  
 
-    The line of the lost land of France or the plains of Paradise?  
+The line of the lost land of France or the plains of Paradise?  
 
-        "Caesar smiled above the gods,  
+"Caesar smiled above the gods,  
 
-        His lip of stone was curled,  
+His lip of stone was curled,  
 
-        His iron armies wound like [[Chains|chains]]  
+His iron armies wound like [[Chains|chains]]  
 
-        Round and round the world,  
+Round and round the world,  
 
-        And the strong slayer of his own  
+And the strong slayer of his own  
 
-        That cut down flesh for grass,  
+That cut down flesh for grass,  
 
-        Smiled too, and went to his own tower  
+Smiled too, and went to his own tower  
 
-        Like a walking tower of brass,  
+Like a walking tower of brass,  
 
-        And the [[songs]] ceased and the slaves were dumb;  
+And the [[songs]] ceased and the slaves were dumb;  
 
-        And far towards the foam  
+And far towards the foam  
 
-        Men saw a [[Shadow|shadow]] on the sands;  
+Men saw a [[Shadow|shadow]] on the sands;  
 
-        And her father coming [[Home|home]]....  
+And her father coming [[Home|home]]....  
 
-        [[Blood]] of his [[Blood|blood]] upon the [[Sword|sword]]  
+[[Blood]] of his [[Blood|blood]] upon the [[Sword|sword]]  
 
-        Stood red but never dry.  
+Stood red but never dry.  
 
-        He wiped it slowly, till the blade  
+He wiped it slowly, till the blade  
 
-        Was blue as the blue sky.  
+Was blue as the blue sky.  
 
-        But the blue sky split with a thunder-crack,  
+But the blue sky split with a thunder-crack,  
 
-        Spat down a blinding brand,  
+Spat down a blinding brand,  
 
-        And all of him lay back and flat  
+And all of him lay back and flat  
 
-        As his [[Shadow|shadow]] on the sand."  
+As his [[Shadow|shadow]] on the sand."  
 
-    The touch and the tornado; all our guns give tongue together  
+The touch and the tornado; all our guns give tongue together  
 
-    St. Barbara for the gunnery and God defend the right,  
+St. Barbara for the gunnery and God defend the right,  
 
-    They are stopped and gapped and battered as we blast away the weather.  
+They are stopped and gapped and battered as we blast away the weather.  
 
-    Building [[Window|window]] upon [[Window|window]] to our lady of the light.  
+Building [[Window|window]] upon [[Window|window]] to our lady of the light.  
 
-    For the light is come on Liberty, her foes are falling, falling,  
+For the light is come on Liberty, her foes are falling, falling,  
 
-    They are reeling, they are running, as the shameful years have run,  
+They are reeling, they are running, as the shameful years have run,  
 
-    She is risen for all the humble, she has heard the conquered calling,  
+She is risen for all the humble, she has heard the conquered calling,  
 
-    St. Barbara of the Gunners, with her hand upon the gun.  
+St. Barbara of the Gunners, with her hand upon the gun.  
 
-    They are burst asunder in the midst that eat of their own flatteries,  
+They are burst asunder in the midst that eat of their own flatteries,  
 
-    Whose lip is curled to order as its barbered hair is curled....  
+Whose lip is curled to order as its barbered hair is curled....  
 
-    Blast of the [[Beauty|beauty]] of sudden [[Death|death]], St. Barbara of the batteries!  
+Blast of the [[Beauty|beauty]] of sudden [[Death|death]], St. Barbara of the batteries!  
 
-    That blow the new white [[Window|window]] in the wall of all the world.  
+That blow the new white [[Window|window]] in the wall of all the world.  
 
-    For the hand is raised behind us, and the bolt smites hard  
+For the hand is raised behind us, and the bolt smites hard  
 
-    Through the rending of the doorways, through the [[Death|death]]-gap of the  
+Through the rending of the doorways, through the [[Death|death]]-gap of the  
 
-      Guard,  
+Guard,  
 
-    For the cry of the Three Colours is in Condé and beyond  
+For the cry of the Three Colours is in Condé and beyond  
 
-    And the Guard is flung for carrion in the graveyard of St. Gond,  
+And the Guard is flung for carrion in the graveyard of St. Gond,  
 
-    Through Mondemont and out of it, through Morin marsh and on  
+Through Mondemont and out of it, through Morin marsh and on  
 
-    With earthquake of salutation the impossible thing is gone,  
+With earthquake of salutation the impossible thing is gone,  
 
-    Gaul, charioted and charging, great Gaul upon a gun,  
+Gaul, charioted and charging, great Gaul upon a gun,  
 
-    Tip-toe on all her thousand years and trumpeting to the sun:  
+Tip-toe on all her thousand years and trumpeting to the sun:  
 
-    As day returns, as [[Death|death]] returns, swung backwards and swung [[Home|home]],  
+As day returns, as [[Death|death]] returns, swung backwards and swung [[Home|home]],  
 
-    Back on the barbarous reign returns the battering-ram of Rome.  
+Back on the barbarous reign returns the battering-ram of Rome.  
 
-    While that that the east held hard and hot like pincers in a forge,  
+While that that the east held hard and hot like pincers in a forge,  
 
-    Came like the west [[Wind|wind]] roaring up the cannon of St. George,  
+Came like the west [[Wind|wind]] roaring up the cannon of St. George,  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7361,7 +7361,7 @@ con questo eBook o disponibile online all'indirizzo www.gutenberg.org
 
 Titolo: The Ballad of St. Barbara  
 
-       E altri versi  
+E altri versi  
 
 Autore: Gilbert Keith Chesterton  
 
@@ -7381,4690 +7381,4690 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-                       La Ballata di Santa Barbara  
+La Ballata di Santa Barbara  
 
-                           E ALTRI VERSI  
+E ALTRI VERSI  
 
-                                  BY  
+BY  
 
-                       GILBERT KEITH CHESTERTON  
+GILBERT KEITH CHESTERTON  
 
-                                [[London|LONDRA]]  
+[[London|LONDRA]]  
 
-                             CECIL PALMER  
+CECIL PALMER  
 
-                 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
 
-                                 PRIMA  
+PRIMA  
 
-                                EDIZIONE  
+EDIZIONE  
 
-                                 1922  
+1922  
 
-                               COPYRIGHT  
+COPYRIGHT  
 
-    A F. C. IN MEMORIAM PALESTINA, '19  
+A F. C. IN MEMORIAM PALESTINA, '19  
 
-    Ricordi tu un immortale  
+Ricordi tu un immortale  
 
-    attimo perduto fuori dal [[Time|tempo]] e dallo spazio,  
+attimo perduto fuori dal [[Time|tempo]] e dallo spazio,  
 
-    nell'[[Time|ora]] in cui pensammo, noi che varcammo la soglia  
+nell'[[Time|ora]] in cui pensammo, noi che varcammo la soglia  
 
-    di quel luogo divino e disastroso  
+di quel luogo divino e disastroso  
 
-    dove la Vita fu uccisa e la [[Truth|Verità]] calunniata  
+dove la Vita fu uccisa e la [[Truth|Verità]] calunniata  
 
-    su quell'unico [[Hill|colle]] più santo di Roma,  
+su quell'unico [[Hill|colle]] più santo di Roma,  
 
-    quanto lontano vagarono i nostri corpi  
+quanto lontano vagarono i nostri corpi  
 
-    quella sera in cui le nostre anime tornarono a [[Home|casa]]?  
+quella sera in cui le nostre anime tornarono a [[Home|casa]]?  
 
-    La mistica [[City|città]] dalle molte porte,  
+La mistica [[City|città]] dalle molte porte,  
 
-    dalle colonne mostruose, era la tua:  
+dalle colonne mostruose, era la tua:  
 
-    pietre erodiane caddero e attesero  
+pietre erodiane caddero e attesero  
 
-    duemila anni per farsi tuo trono.  
+duemila anni per farsi tuo trono.  
 
-    Fra le rocce grigie il fiore ardente  
+Fra le rocce grigie il fiore ardente  
 
-    splendeva terribile come il sacro [[Blood|sangue]]:  
+splendeva terribile come il sacro [[Blood|sangue]]:  
 
-    non era più estraneo al tuo seno  
+non era più estraneo al tuo seno  
 
-    delle campanule di un bosco inglese.  
+delle campanule di un bosco inglese.  
 
-    Ricordi tu una [[Road|strada]] che segue  
+Ricordi tu una [[Road|strada]] che segue  
 
-    il cammino di piedi non dimenticati,  
+il cammino di piedi non dimenticati,  
 
-    dove dal deserto di rocce e di cavità  
+dove dal deserto di rocce e di cavità  
 
-    s'inerpica su per la via tortuosa e strisciante  
+s'inerpica su per la via tortuosa e strisciante  
 
-    le stazioni di un unico dramma torreggiante  
+le stazioni di un unico dramma torreggiante  
 
-    sempre più avanti e fuori dalla vista...  
+sempre più avanti e fuori dalla vista...  
 
-    Ricordi tu Aceldama  
+Ricordi tu Aceldama  
 
-    e lo sciacallo che latrava nella [[Night|notte]]?  
+e lo sciacallo che latrava nella [[Night|notte]]?  
 
-    La vita non è vuota, né materia per gli schernitori:  
+La vita non è vuota, né materia per gli schernitori:  
 
-    abbiamo riso forte e serbato il nostro [[Love|amore]],  
+abbiamo riso forte e serbato il nostro [[Love|amore]],  
 
-    abbiamo udito cantori negli angoli delle taverne  
+abbiamo udito cantori negli angoli delle taverne  
 
-    e non dimenticato gli [[Birds|uccelli]] lassù:  
+e non dimenticato gli [[Birds|uccelli]] lassù:  
 
-    abbiamo conosciuto percussori e figli del tuono  
+abbiamo conosciuto percussori e figli del tuono  
 
-    e non indegnamente camminato con loro,  
+e non indegnamente camminato con loro,  
 
-    siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];  
+siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];  
 
-    e abbiamo veduto Gerusalemme.  
+e abbiamo veduto Gerusalemme.  
 
-    INDICE  
+INDICE  
 
-                                                  PAG.  
+PAG.  
 
-    A F. C. In Memoriam Palestina, '19             vii  
+A F. C. In Memoriam Palestina, '19             vii  
 
-    La Ballata di Santa Barbara                      1  
+La Ballata di Santa Barbara                      1  
 
-    [[elegy|Elegia]] in un cimitero di campagna             13  
+[[elegy|Elegia]] in un cimitero di campagna             13  
 
-    La [[Sword|Spada]] della Sorpresa                       14  
+La [[Sword|Spada]] della Sorpresa                       14  
 
-    Nozze in [[Time|tempo]] di guerra                       15  
+Nozze in [[Time|tempo]] di guerra                       15  
 
-    Il Mistero                                      18  
+Il Mistero                                      18  
 
-    «Il Mito di [[Arthur|Artù]]»                            19  
+«Il Mito di [[Arthur|Artù]]»                            19  
 
-    La Vecchia [[Song|Canzone]]                             20  
+La Vecchia [[Song|Canzone]]                             20  
 
-    I Ninnoli                                       24  
+I Ninnoli                                       24  
 
-    Il Filantropo                                   26  
+Il Filantropo                                   26  
 
-    Sulle Downs                                     27  
+Sulle Downs                                     27  
 
-    Il Mar Rosso                                    30  
+Il Mar Rosso                                    30  
 
-    Per un Monumento ai Caduti                      32  
+Per un Monumento ai Caduti                      32  
 
-    [[Memory|Memoria]]                                     33  
+[[Memory|Memoria]]                                     33  
 
-    Le Tombe Inglesi                                35  
+Le Tombe Inglesi                                35  
 
-    [[nightmare|Incubo]]                                   37  
+[[nightmare|Incubo]]                                   37  
 
-    Una Seconda [[Childhood|Infanzia]]                     40  
+Una Seconda [[Childhood|Infanzia]]                     40  
 
-    «Medievalismo»                                  43  
+«Medievalismo»                                  43  
 
-    Polonia                                         46  
+Polonia                                         46  
 
-    La Caccia al Drago                              48  
+La Caccia al Drago                              48  
 
-    [[Sonnet|Sonetto]]                                    51  
+[[Sonnet|Sonetto]]                                    51  
 
-    Fantasia                                        52  
+Fantasia                                        52  
 
-    Un [[carol|Canto]] di Natale                          54  
+Un [[carol|Canto]] di Natale                          54  
 
-    Al Capitano Fryatt                              56  
+Al Capitano Fryatt                              56  
 
-    Per Quattro Corporazioni:  
+Per Quattro Corporazioni:  
 
-        I. I Maestri Vetrai                         57  
+I. I Maestri Vetrai                         57  
 
-       II. I Costruttori di Ponti                   59  
+II. I Costruttori di Ponti                   59  
 
-      III. Gli Scalpellini                          62  
+III. Gli Scalpellini                          62  
 
-       IV. I Campanari                              64  
+IV. I Campanari                              64  
 
-    Il [[convert|Convertito]]                              67  
+Il [[convert|Convertito]]                              67  
 
-    [[songs|Canti]] dell'[[Education|Educazione]]:  
+[[songs|Canti]] dell'[[Education|Educazione]]:  
 
-        I. [[history|Storia]]                             71  
+I. [[history|Storia]]                             71  
 
-       II. Geografia                               74  
+II. Geografia                               74  
 
-      III. Per l'Asilo                             76  
+III. Per l'Asilo                             76  
 
-       IV. Cittadinanza                            78  
+IV. Cittadinanza                            78  
 
-        V. Le Alte Matematiche                     80  
+V. Le Alte Matematiche                     80  
 
-       VI. Igiene                                  82  
+VI. Igiene                                  82  
 
-    LA BALLATA DI SANTA BARBARA  
+LA BALLATA DI SANTA BARBARA  
 
-    _(Santa Barbara è la patrona dell'artiglieria e di coloro che sono in  
+_(Santa Barbara è la patrona dell'artiglieria e di coloro che sono in  
 
-    pericolo di [[Death|morte]] improvvisa.)_  
+pericolo di [[Death|morte]] improvvisa.)_  
 
-    Quando le lunghe file grigie dilagarono su [[Paris|Parigi]] nella pianura,  
+Quando le lunghe file grigie dilagarono su [[Paris|Parigi]] nella pianura,  
 
-    ci fermammo e bevemmo l'ultima aria libera che mai più avremmo gustato:  
+ci fermammo e bevemmo l'ultima aria libera che mai più avremmo gustato:  
 
-    ci avevano ricondotti dalla battaglia perduta, a fermarci non sapevamo dove  
+ci avevano ricondotti dalla battaglia perduta, a fermarci non sapevamo dove  
 
-    e ci acquietarono; e i nostri cannoni spalancati tacevano per la nostra [[Despair|disperazione]].  
+e ci acquietarono; e i nostri cannoni spalancati tacevano per la nostra [[Despair|disperazione]].  
 
-    Le tribù grigie fluivano senza fine dalle infinite terre senza vita  
+Le tribù grigie fluivano senza fine dalle infinite terre senza vita  
 
-    e un Normanno parlò a un Bretone, il mento sulle mani.  
+e un Normanno parlò a un Bretone, il mento sulle mani.  
 
-    «Vi fu una fine per Ilio; e una fine venne per Roma;  
+«Vi fu una fine per Ilio; e una fine venne per Roma;  
 
-    e un uomo recita su un palco dipinto nella terra che chiama [[Home|casa]];  
+e un uomo recita su un palco dipinto nella terra che chiama [[Home|casa]];  
 
-    Arco dopo arco di trionfo, ma piano oltre piano che rovina,  
+Arco dopo arco di trionfo, ma piano oltre piano che rovina,  
 
-    che conducono infine a una porta bassa; e oltre non v'è porta».  
+che conducono infine a una porta bassa; e oltre non v'è porta».  
 
-    E il Bretone parlò al Normanno, come un piccolo [[Child|fanciullo]] parlò,  
+E il Bretone parlò al Normanno, come un piccolo [[Child|fanciullo]] parlò,  
 
-    e i suoi occhi azzurri come il mare erano vuoti come la sua [[Home|casa]] presso il mare:  
+e i suoi occhi azzurri come il mare erano vuoti come la sua [[Home|casa]] presso il mare:  
 
-    «Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
+«Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
 
-    vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
+vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
 
-    La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
+La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
 
-    Barbara, la santa dei cannonieri, e sostegno nella [[Death|morte]] improvvisa».  
+Barbara, la santa dei cannonieri, e sostegno nella [[Death|morte]] improvvisa».  
 
-    Parve che la [[Wheel|ruota]] del mondo si fermasse un istante nel suo girare,  
+Parve che la [[Wheel|ruota]] del mondo si fermasse un istante nel suo girare,  
 
-    più dei re della terra che giravano col volgere del mulino di  
+più dei re della terra che giravano col volgere del mulino di  
 
-      Valmy:  
+Valmy:  
 
-    Mentre stillava l'ozioso racconto e gli occhi azzurri come il mare ardevano,  
+Mentre stillava l'ozioso racconto e gli occhi azzurri come il mare ardevano,  
 
-    Immoto come il cuore di un turbine, il cuore del mondo si fermò.  
+Immoto come il cuore di un turbine, il cuore del mondo si fermò.  
 
-        «Barbara la bella  
+«Barbara la bella  
 
-        ebbe lode di liuto e di penna:  
+ebbe lode di liuto e di penna:  
 
-        i suoi capelli erano come una [[Night|notte]] d'[[Summer|estate]]  
+i suoi capelli erano come una [[Night|notte]] d'[[Summer|estate]]  
 
-        scura e desiderata dagli uomini.  
+scura e desiderata dagli uomini.  
 
-        I suoi piedi come [[Birds|uccelli]] venuti da lontano  
+I suoi piedi come [[Birds|uccelli]] venuti da lontano  
 
-        che indugiano e si posano nel [[Doubt|dubbio]];  
+che indugiano e si posano nel [[Doubt|dubbio]];  
 
-        e il suo volto era come una [[Window|finestra]]  
+e il suo volto era come una [[Window|finestra]]  
 
-        donde s'affacciava il primo [[Love|amore]] di un uomo.  
+donde s'affacciava il primo [[Love|amore]] di un uomo.  
 
-        Suo padre era signore di molti schiavi,  
+Suo padre era signore di molti schiavi,  
 
-        uomo duro e di mano pesante;  
+uomo duro e di mano pesante;  
 
-        le eressero attorno una torre  
+le eressero attorno una torre  
 
-        nelle desolate terre dorate,  
+nelle desolate terre dorate,  
 
-        sigillata come i tiranni sigillavano le loro tombe,  
+sigillata come i tiranni sigillavano le loro tombe,  
 
-        disegnata secondo un antico disegno,  
+disegnata secondo un antico disegno,  
 
-        e posero due finestre nella torre  
+e posero due finestre nella torre  
 
-        come i due occhi di un uomo».  
+come i due occhi di un uomo».  
 
-    I nostri cannoni erano puntati verso il nemico; non avevamo ordine di far fuoco.  
+I nostri cannoni erano puntati verso il nemico; non avevamo ordine di far fuoco.  
 
-    Grigia nel varco di St. Gond splendeva la Guardia del [[Tyrant|tiranno]];  
+Grigia nel varco di St. Gond splendeva la Guardia del [[Tyrant|tiranno]];  
 
-    Cupa del destino di una stella cadente, ritirandosi e ritirandosi,  
+Cupa del destino di una stella cadente, ritirandosi e ritirandosi,  
 
-    la linea bretone indietreggiava e il racconto bretone proseguiva.  
+la linea bretone indietreggiava e il racconto bretone proseguiva.  
 
-        «Suo padre aveva veleggiato oltre il mare  
+«Suo padre aveva veleggiato oltre il mare  
 
-        dal porto d'Africa  
+dal porto d'Africa  
 
-        quando tutti gli schiavi ripresero gli attrezzi  
+quando tutti gli schiavi ripresero gli attrezzi  
 
-        al comando di Barbara.  
+al comando di Barbara.  
 
-        Ella percosse il nudo muro con la mano  
+Ella percosse il nudo muro con la mano  
 
-        e ordinò loro di percuotere ancora;  
+e ordinò loro di percuotere ancora;  
 
-        versò loro ricchezza di vino e di carne  
+versò loro ricchezza di vino e di carne  
 
-        per sostenerli nella loro [[Pain|pena]].  
+per sostenerli nella loro [[Pain|pena]].  
 
-        E gridò tra il tuono levato  
+E gridò tra il tuono levato  
 
-        del martello e della gerla accalcati  
+del martello e della gerla accalcati  
 
-        'Spalancate la terza [[Window|finestra]]  
+'Spalancate la terza [[Window|finestra]]  
 
-        nel terzo nome di Dio.'  
+nel terzo nome di Dio.'  
 
-        Allora i cuori vennero meno e gli attrezzi caddero,  
+Allora i cuori vennero meno e gli attrezzi caddero,  
 
-        e lontano verso la spuma,  
+e lontano verso la spuma,  
 
-        gli uomini videro un'[[Shadow|ombra]] sulle sabbie  
+gli uomini videro un'[[Shadow|ombra]] sulle sabbie  
 
-        e suo padre che tornava a [[Home|casa]]».  
+e suo padre che tornava a [[Home|casa]]».  
 
-    Parlate piano, sempre più piano, lungo la linea vola la parola sussurrata  
+Parlate piano, sempre più piano, lungo la linea vola la parola sussurrata  
 
-    prima del tocco, prima del [[Time|momento]], non possiamo esalare un respiro:  
+prima del tocco, prima del [[Time|momento]], non possiamo esalare un respiro:  
 
-    i loro cannoni devono schiacciarci nel fango, e non vi sia risposta,  
+i loro cannoni devono schiacciarci nel fango, e non vi sia risposta,  
 
-    finché la mano si levi a gettarci come dado finale verso la [[Death|morte]].  
+finché la mano si levi a gettarci come dado finale verso la [[Death|morte]].  
 
-        «Vi erano due finestre nella tua torre,  
+«Vi erano due finestre nella tua torre,  
 
-        Barbara, Barbara,  
+Barbara, Barbara,  
 
-        per tutto ciò che è tra il sole e la [[Moon|luna]]  
+per tutto ciò che è tra il sole e la [[Moon|luna]]  
 
-        nelle terre d'Africa.  
+nelle terre d'Africa.  
 
-        Ha forse tre occhi un uomo, Barbara,  
+Ha forse tre occhi un uomo, Barbara,  
 
-        un uccello tre ali,  
+un uccello tre ali,  
 
-        che tu abbia squarciato tetto e muro  
+che tu abbia squarciato tetto e muro  
 
-        per contemplare cose vane?»  
+per contemplare cose vane?»  
 
-        La sua voce era come cosa vagante  
+La sua voce era come cosa vagante  
 
-        che vacilla eppure è libera,  
+che vacilla eppure è libera,  
 
-        la cui [[Soul|anima]] ha bevuto in una terra lontana  
+la cui [[Soul|anima]] ha bevuto in una terra lontana  
 
-        ai fiumi della libertà.  
+ai fiumi della libertà.  
 
-        «Vi sono più ali di quante ne sappia il [[Wind|vento]]  
+«Vi sono più ali di quante ne sappia il [[Wind|vento]]  
 
-        o più occhi di quanti vedano il sole  
+o più occhi di quanti vedano il sole  
 
-        nella luce della [[Window|finestra]] perduta  
+nella luce della [[Window|finestra]] perduta  
 
-        e nel [[Wind|vento]] delle porte disserrate.  
+e nel [[Wind|vento]] delle porte disserrate.  
 
-        Ché dalla prima grata  
+Ché dalla prima grata  
 
-        sono le terre rosse che si spezzano  
+sono le terre rosse che si spezzano  
 
-        e dalla seconda grata  
+e dalla seconda grata  
 
-        il mare come un serpente verde,  
+il mare come un serpente verde,  
 
-        ma dalla terza grata  
+ma dalla terza grata  
 
-        sotto bassi cornicioni come ali  
+sotto bassi cornicioni come ali  
 
-        è un nuovo angolo del cielo  
+è un nuovo angolo del cielo  
 
-        e l'altro lato delle cose».  
+e l'altro lato delle cose».  
 
-    Si aprì nel luogo più intimo un istante al di là di ogni parola,  
+Si aprì nel luogo più intimo un istante al di là di ogni parola,  
 
-    un'imposta e un abisso e un tuono di porte disserrate,  
+un'imposta e un abisso e un tuono di porte disserrate,  
 
-    la forte ala di un serafino scosse via l'urto del suo spalancarsi,  
+la forte ala di un serafino scosse via l'urto del suo spalancarsi,  
 
-    che divise la luce del sole frantumata da una luce dietro il sole.  
+che divise la luce del sole frantumata da una luce dietro il sole.  
 
-        «Allora egli sguainò la [[Sword|spada]] e la sospinse  
+«Allora egli sguainò la [[Sword|spada]] e la sospinse  
 
-        dove sedevano i giudici, e disse  
+dove sedevano i giudici, e disse  
 
-        'Cesare siede al di sopra degli dèi,  
+'Cesare siede al di sopra degli dèi,  
 
-        Barbara, fanciulla.  
+Barbara, fanciulla.  
 
-        Cesare ha stretto un patto  
+Cesare ha stretto un patto  
 
-        con la [[Moon|luna]] e con il sole,  
+con la [[Moon|luna]] e con il sole,  
 
-        tutti gli dèi che gli uomini possono lodare  
+tutti gli dèi che gli uomini possono lodare  
 
-        lo lodano a uno a uno.  
+lo lodano a uno a uno.  
 
-        Vi è pace con l'unto  
+Vi è pace con l'unto  
 
-        degli oli scarlatti di Bel,  
+degli oli scarlatti di Bel,  
 
-        con il Dio Pesce, là dove il gorgo  
+con il Dio Pesce, là dove il gorgo  
 
-        è una scala tortuosa verso l'inferno,  
+è una scala tortuosa verso l'inferno,  
 
-        con le piramidi di melma senza sentieri,  
+con le piramidi di melma senza sentieri,  
 
-        dove il negro mitrato leva  
+dove il negro mitrato leva  
 
-        al suo nero cherubino nella nube  
+al suo nero cherubino nella nube  
 
-        doni abominevoli,  
+doni abominevoli,  
 
-        con le lebbrose città d'argento  
+con le lebbrose città d'argento  
 
-        dove i muti sacerdoti [[Dance|danzano]] e chinano il capo,  
+dove i muti sacerdoti [[Dance|danzano]] e chinano il capo,  
 
-        ma non con le tre finestre  
+ma non con le tre finestre  
 
-        e l'ultimo nome di Dio.'»  
+e l'ultimo nome di Dio.'»  
 
-    Sparano, noi cadiamo, e i cieli rossi ci squarciano e ci fanno tremare,  
+Sparano, noi cadiamo, e i cieli rossi ci squarciano e ci fanno tremare,  
 
-    Barbara, Barbara, non possiamo esalare un respiro—  
+Barbara, Barbara, non possiamo esalare un respiro—  
 
-    Sii alle porte che scoppiano del destino, e nel buio liberaci,  
+Sii alle porte che scoppiano del destino, e nel buio liberaci,  
 
-    noi che disserriamo l'ultima [[Window|finestra]] sul sole della [[Death|morte]] improvvisa.  
+noi che disserriamo l'ultima [[Window|finestra]] sul sole della [[Death|morte]] improvvisa.  
 
-        «Barbara la bella  
+«Barbara la bella  
 
-        si levò come [[Queen|regina]] resa libera,  
+si levò come [[Queen|regina]] resa libera,  
 
-        la cui bocca è accostata a una coppa terribile  
+la cui bocca è accostata a una coppa terribile  
 
-        e alla tromba della libertà.  
+e alla tromba della libertà.  
 
-        'Ho guardato fuori da una [[Window|finestra]]  
+'Ho guardato fuori da una [[Window|finestra]]  
 
-        che nessun uomo ormai sbarrerà,  
+che nessun uomo ormai sbarrerà,  
 
-        le vacillanti torri da guerra di Cesare  
+le vacillanti torri da guerra di Cesare  
 
-        non giungeranno mai tanto lontano.  
+non giungeranno mai tanto lontano.  
 
-        Gli schiavi danzano nelle loro [[Chains|catene]],  
+Gli schiavi danzano nelle loro [[Chains|catene]],  
 
-        il [[Child|fanciullo]] ride della verga,  
+il [[Child|fanciullo]] ride della verga,  
 
-        per via dell'uccello dalle tre ali,  
+per via dell'uccello dalle tre ali,  
 
-        e del terzo volto di Dio.'  
+e del terzo volto di Dio.'  
 
-        La [[Sword|spada]] sulla sua spalla  
+La [[Sword|spada]] sulla sua spalla  
 
-        si mosse e brillò e cadde,  
+si mosse e brillò e cadde,  
 
-        e Barbara giacque piccolissima  
+e Barbara giacque piccolissima  
 
-        e accartocciata come un guscio».  
+e accartocciata come un guscio».  
 
-    Quale muro su quali cardini girato sta aperto come una porta?  
+Quale muro su quali cardini girato sta aperto come una porta?  
 
-    Troppo semplice per lo sguardo della [[Faith|fede]], troppo immenso per occhi umani,  
+Troppo semplice per lo sguardo della [[Faith|fede]], troppo immenso per occhi umani,  
 
-    quale luce su quale antica via risplende verso un pavimento lontano,  
+quale luce su quale antica via risplende verso un pavimento lontano,  
 
-    la linea della terra perduta di Francia o le pianure del Paradiso?  
+la linea della terra perduta di Francia o le pianure del Paradiso?  
 
-        «Cesare sorrise al di sopra degli dèi,  
+«Cesare sorrise al di sopra degli dèi,  
 
-        il suo labbro di pietra era arricciato,  
+il suo labbro di pietra era arricciato,  
 
-        i suoi eserciti di ferro si avvolgevano come [[Chains|catene]]  
+i suoi eserciti di ferro si avvolgevano come [[Chains|catene]]  
 
-        intorno e intorno al mondo,  
+intorno e intorno al mondo,  
 
-        e il forte uccisore dei suoi stessi  
+e il forte uccisore dei suoi stessi  
 
-        che falciava la carne come erba,  
+che falciava la carne come erba,  
 
-        sorrise anch'egli, e andò alla propria torre  
+sorrise anch'egli, e andò alla propria torre  
 
-        come una torre di bronzo che cammina,  
+come una torre di bronzo che cammina,  
 
-        e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
+e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
 
-        e lontano verso la spuma  
+e lontano verso la spuma  
 
-        gli uomini videro un'[[Shadow|ombra]] sulle sabbie;  
+gli uomini videro un'[[Shadow|ombra]] sulle sabbie;  
 
-        e suo padre che tornava a [[Home|casa]]....  
+e suo padre che tornava a [[Home|casa]]....  
 
-        [[Blood|Sangue]] del suo [[Blood|sangue]] sulla [[Sword|spada]]  
+[[Blood|Sangue]] del suo [[Blood|sangue]] sulla [[Sword|spada]]  
 
-        stava rosso ma mai asciutto.  
+stava rosso ma mai asciutto.  
 
-        Egli la terse lentamente, finché la lama  
+Egli la terse lentamente, finché la lama  
 
-        fu azzurra come l'azzurro cielo.  
+fu azzurra come l'azzurro cielo.  
 
-        Ma il cielo azzurro si spaccò con uno schianto di tuono,  
+Ma il cielo azzurro si spaccò con uno schianto di tuono,  
 
-        sputò giù un tizzone accecante,  
+sputò giù un tizzone accecante,  
 
-        e tutto di lui giacque riverso e disteso  
+e tutto di lui giacque riverso e disteso  
 
-        come la sua [[Shadow|ombra]] sulla sabbia».  
+come la sua [[Shadow|ombra]] sulla sabbia».  
 
-    Il tocco e il turbine; tutti i nostri cannoni danno voce insieme  
+Il tocco e il turbine; tutti i nostri cannoni danno voce insieme  
 
-    Santa Barbara per l'artiglieria e Dio difenda il diritto,  
+Santa Barbara per l'artiglieria e Dio difenda il diritto,  
 
-    Sono fermati e squarciati e martoriati mentre spazziamo via il tempo con le cannonate.  
+Sono fermati e squarciati e martoriati mentre spazziamo via il tempo con le cannonate.  
 
-    Erigendo [[Window|finestra]] su [[Window|finestra]] alla nostra signora della luce.  
+Erigendo [[Window|finestra]] su [[Window|finestra]] alla nostra signora della luce.  
 
-    Ché la luce è venuta sulla Libertà, i suoi nemici cadono, cadono,  
+Ché la luce è venuta sulla Libertà, i suoi nemici cadono, cadono,  
 
-    barcollano, fuggono, come sono fuggiti gli anni vergognosi,  
+barcollano, fuggono, come sono fuggiti gli anni vergognosi,  
 
-    Ella è risorta per tutti gli umili, ha udito i vinti che chiamano,  
+Ella è risorta per tutti gli umili, ha udito i vinti che chiamano,  
 
-    Santa Barbara dei Cannonieri, con la mano sul cannone.  
+Santa Barbara dei Cannonieri, con la mano sul cannone.  
 
-    Sono squarciati nel mezzo coloro che si nutrono delle proprie adulazioni,  
+Sono squarciati nel mezzo coloro che si nutrono delle proprie adulazioni,  
 
-    il cui labbro è arricciato su comando come sono arricciati i loro capelli curati....  
+il cui labbro è arricciato su comando come sono arricciati i loro capelli curati....  
 
-    Deflagrazione della [[Beauty|bellezza]] della [[Death|morte]] improvvisa, Santa Barbara delle batterie!  
+Deflagrazione della [[Beauty|bellezza]] della [[Death|morte]] improvvisa, Santa Barbara delle batterie!  
 
-    che aprono col fuoco la nuova bianca [[Window|finestra]] nel muro di tutto il mondo.  
+che aprono col fuoco la nuova bianca [[Window|finestra]] nel muro di tutto il mondo.  
 
-    Ché la mano è levata dietro di noi, e il fulmine colpisce duro  
+Ché la mano è levata dietro di noi, e il fulmine colpisce duro  
 
-    attraverso lo squarcio delle porte, attraverso la breccia di [[Death|morte]] della  
+attraverso lo squarcio delle porte, attraverso la breccia di [[Death|morte]] della  
 
-      Guardia,  
+Guardia,  
 
-    Ché il grido dei Tre Colori è a Condé e oltre  
+Ché il grido dei Tre Colori è a Condé e oltre  
 
-    e la Guardia è gettata come carogna nel cimitero di St. Gond,  
+e la Guardia è gettata come carogna nel cimitero di St. Gond,  
 
-    attraverso Mondemont e fuori di esso, attraverso la palude del Morin e avanti  
+attraverso Mondemont e fuori di esso, attraverso la palude del Morin e avanti  
 
-    Con un terremoto di saluto la cosa impossibile se n'è andata,  
+Con un terremoto di saluto la cosa impossibile se n'è andata,  
 
-    la Gallia, sul carro e alla carica, la grande Gallia sopra un cannone,  
+la Gallia, sul carro e alla carica, la grande Gallia sopra un cannone,  
 
-    in punta di piedi su tutti i suoi mille anni e squillante verso il sole:  
+in punta di piedi su tutti i suoi mille anni e squillante verso il sole:  
 
-    Come torna il giorno, come torna la [[Death|morte]], scagliato indietro e scagliato a [[Home|casa]],  
+Come torna il giorno, come torna la [[Death|morte]], scagliato indietro e scagliato a [[Home|casa]],  
 
-    sul barbaro regno ritorna l'ariete di Roma.  
+sul barbaro regno ritorna l'ariete di Roma.  
 
-    Mentre a oriente si stringeva duro e rovente come tenaglie in una fucina,  
+Mentre a oriente si stringeva duro e rovente come tenaglie in una fucina,  
 
-    venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,
+venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,
 
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="BalladStBarbara (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-    Where the hunt is up and racing over stream and swamp and tarn  
+Where the hunt is up and racing over stream and swamp and tarn  
 
-    And their batteries, black with battle, hold the bridgeheads of the  
+And their batteries, black with battle, hold the bridgeheads of the  
 
-      Marne  
+Marne  
 
-    And across the carnage of the Guard, by [[Paris]] in the plain,  
+And across the carnage of the Guard, by [[Paris]] in the plain,  
 
-    The Normans to the Bretons cried and the Bretons cheered again....  
+The Normans to the Bretons cried and the Bretons cheered again....  
 
-    But he that told the tale went [[Home|home]] to his [[house]] beside the sea  
+But he that told the tale went [[Home|home]] to his [[house]] beside the sea  
 
-    And burned before St. Barbara, the light of the windows three,  
+And burned before St. Barbara, the light of the windows three,  
 
-    Three candles for an unknown thing, never to come again,  
+Three candles for an unknown thing, never to come again,  
 
-    That opened like the eye of God on [[Paris]] in the plain.  
+That opened like the eye of God on [[Paris]] in the plain.  
 
-    [[elegy|ELEGY]] IN A COUNTRY CHURCHYARD  
+[[elegy|ELEGY]] IN A COUNTRY CHURCHYARD  
 
-    The men that worked for England  
+The men that worked for England  
 
-    They have their graves at [[Home|home]]:  
+They have their graves at [[Home|home]]:  
 
-    And [[Bees|bees]] and [[Birds|birds]] of England  
+And [[Bees|bees]] and [[Birds|birds]] of England  
 
-    About the [[Cross|cross]] can roam.  
+About the [[Cross|cross]] can roam.  
 
-    But they that fought for England,  
+But they that fought for England,  
 
-    Following a falling star,  
+Following a falling star,  
 
-    Alas, alas for England  
+Alas, alas for England  
 
-    They have their graves afar.  
+They have their graves afar.  
 
-    And they that rule in England,  
+And they that rule in England,  
 
-    In stately conclave met,  
+In stately conclave met,  
 
-    Alas, alas for England  
+Alas, alas for England  
 
-    They have no graves as yet.  
+They have no graves as yet.  
 
-    THE [[Sword|SWORD]] OF SURPRISE  
+THE [[Sword|SWORD]] OF SURPRISE  
 
-    Sunder me from my bones, O [[Sword|sword]] of God,  
+Sunder me from my bones, O [[Sword|sword]] of God,  
 
-    Till they stand stark and strange as do the trees;  
+Till they stand stark and strange as do the trees;  
 
-    That I whose heart goes up with the soaring woods  
+That I whose heart goes up with the soaring woods  
 
-    May marvel as much at these.  
+May marvel as much at these.  
 
-    Sunder me from my [[Blood|blood]] that in the dark  
+Sunder me from my [[Blood|blood]] that in the dark  
 
-    I hear that red ancestral [[River|river]] run,  
+I hear that red ancestral [[River|river]] run,  
 
-    Like branching buried floods that find the sea  
+Like branching buried floods that find the sea  
 
-    But never see the sun.  
+But never see the sun.  
 
-    Give me miraculous eyes to see my eyes,  
+Give me miraculous eyes to see my eyes,  
 
-    Those [[rolling]] mirrors made alive in me,  
+Those [[rolling]] mirrors made alive in me,  
 
-    Terrible crystal more incredible  
+Terrible crystal more incredible  
 
-    Than all the things they see.  
+Than all the things they see.  
 
-    Sunder me from my [[Soul|soul]], that I may see  
+Sunder me from my [[Soul|soul]], that I may see  
 
-    The sins like streaming wounds, the life's brave beat;  
+The sins like streaming wounds, the life's brave beat;  
 
-    Till I shall save myself, as I would save  
+Till I shall save myself, as I would save  
 
-    A stranger in the street.  
+A stranger in the street.  
 
-    A WEDDING IN WAR-[[Time|TIME]]  
+A WEDDING IN WAR-[[Time|TIME]]  
 
-    Our God who made two [[lovers]] in a [[Garden|garden]],  
+Our God who made two [[lovers]] in a [[Garden|garden]],  
 
-    And smote them separate and set them free,  
+And smote them separate and set them free,  
 
-    Their four eyes wild for [[Wonder|wonder]] and wrath and pardon  
+Their four eyes wild for [[Wonder|wonder]] and wrath and pardon  
 
-    And their kiss thunder as lips of land and sea:  
+And their kiss thunder as lips of land and sea:  
 
-    Each rapt unendingly beyond the other,  
+Each rapt unendingly beyond the other,  
 
-    Two starry worlds of unknown gods at war,  
+Two starry worlds of unknown gods at war,  
 
-    Wife and not mate, a man and not a brother,  
+Wife and not mate, a man and not a brother,  
 
-    We thank thee thou hast made us what we are.  
+We thank thee thou hast made us what we are.  
 
-    Make not the grey slime of infinity  
+Make not the grey slime of infinity  
 
-    To swamp these [[Flowers|flowers]] thou madest one by one;  
+To swamp these [[Flowers|flowers]] thou madest one by one;  
 
-    Let not the [[Night|night]] that was thine enemy  
+Let not the [[Night|night]] that was thine enemy  
 
-    Mix a mad twilight of the [[Moon|moon]] and sun;  
+Mix a mad twilight of the [[Moon|moon]] and sun;  
 
-    Waken again to thunderclap and clamour  
+Waken again to thunderclap and clamour  
 
-    The [[Wonder|wonder]] of our sundering and the [[Song|song]],  
+The [[Wonder|wonder]] of our sundering and the [[Song|song]],  
 
-    Or break our hearts with thine hell-shattering hammer  
+Or break our hearts with thine hell-shattering hammer  
 
-    But leave a shade between us all day long.  
+But leave a shade between us all day long.  
 
-    Shade of high shame and honourable blindness  
+Shade of high shame and honourable blindness  
 
-    When youth, in [[Storm|storm]] of dizzy and distant things,  
+When youth, in [[Storm|storm]] of dizzy and distant things,  
 
-    Finds the wild windfall of a little kindness  
+Finds the wild windfall of a little kindness  
 
-    And shakes to think that all the world has wings.  
+And shakes to think that all the world has wings.  
 
-    When the one head that turns the heavens in turning  
+When the one head that turns the heavens in turning  
 
-    Moves yet as lightly as a lingering bird,  
+Moves yet as lightly as a lingering bird,  
 
-    And red and random, blown astray but burning,  
+And red and random, blown astray but burning,  
 
-    Like a lost spark goes by the glorious word.  
+Like a lost spark goes by the glorious word.  
 
-    Make not this sex, this other side of things,  
+Make not this sex, this other side of things,  
 
-    A thing less distant than the world's [[Desire|desire]];  
+A thing less distant than the world's [[Desire|desire]];  
 
-    What colour to the end of evening clings  
+What colour to the end of evening clings  
 
-    And what far cry of frontiers and what [[Fire|fire]]  
+And what far cry of frontiers and what [[Fire|fire]]  
 
-    Fallen too far beyond the sun for seeking,  
+Fallen too far beyond the sun for seeking,  
 
-    Let it divide us though our kingdom come;  
+Let it divide us though our kingdom come;  
 
-    With a far signal in our secret speaking  
+With a far signal in our secret speaking  
 
-    To hang the proud horizon in our [[Home|home]].  
+To hang the proud horizon in our [[Home|home]].  
 
-    Once we were one, a shapeless cloud that lingers  
+Once we were one, a shapeless cloud that lingers  
 
-    Loading the seas and shutting out the skies,  
+Loading the seas and shutting out the skies,  
 
-    One with the woods, a [[Monster|monster]] of myriad fingers,  
+One with the woods, a [[Monster|monster]] of myriad fingers,  
 
-    You laid on me no finger of surprise.  
+You laid on me no finger of surprise.  
 
-    One with the [[Stars|stars]], a god with myriad eyes,  
+One with the [[Stars|stars]], a god with myriad eyes,  
 
-    I saw you nowhere and was blind for scorn:  
+I saw you nowhere and was blind for scorn:  
 
-    One till the world was riven and the rise  
+One till the world was riven and the rise  
 
-    Of the white days when you and I were born.  
+Of the white days when you and I were born.  
 
-    Darkens the world: the world-old fetters rattle;  
+Darkens the world: the world-old fetters rattle;  
 
-    And these that have no [[Hope|hope]] behind the sun  
+And these that have no [[Hope|hope]] behind the sun  
 
-    May feed like bondmen and may breed like cattle,  
+May feed like bondmen and may breed like cattle,  
 
-    One in the darkness as the dead are one;  
+One in the darkness as the dead are one;  
 
-    Us if the rended [[Grave|grave]] give up its glory  
+Us if the rended [[Grave|grave]] give up its glory  
 
-    Trumpets shall summon asunder and face to face:  
+Trumpets shall summon asunder and face to face:  
 
-    We will be strangers in so strange a story  
+We will be strangers in so strange a story  
 
-    And [[Wonder|wonder]], meeting in so wild a place.  
+And [[Wonder|wonder]], meeting in so wild a place.  
 
-    Ah, not in vain or utterly for loss  
+Ah, not in vain or utterly for loss  
 
-    Come even the black [[Flag|flag]] and the battle-hordes,  
+Come even the black [[Flag|flag]] and the battle-hordes,  
 
-    If these grey devils flee the sign of the [[Cross|cross]]  
+If these grey devils flee the sign of the [[Cross|cross]]  
 
-    Even in the symbol of the crossing swords.  
+Even in the symbol of the crossing swords.  
 
-    Nor shall [[Death|death]] [[Doubt|doubt]] Who made our souls alive  
+Nor shall [[Death|death]] [[Doubt|doubt]] Who made our souls alive  
 
-    Swords meeting and not stakes set side by side,  
+Swords meeting and not stakes set side by side,  
 
-    Bade us in the sunburst and the thunder thrive  
+Bade us in the sunburst and the thunder thrive  
 
-    Earthquake and [[Dawn]]; the bridegroom and the bride.  
+Earthquake and [[Dawn]]; the bridegroom and the bride.  
 
-    [[Death]] and not [[Dreams|dreams]] or [[Doubt|doubt]] of things undying,  
+[[Death]] and not [[Dreams|dreams]] or [[Doubt|doubt]] of things undying,  
 
-    Of whose the holy hearth or whose the [[Sword|sword]];  
+Of whose the holy hearth or whose the [[Sword|sword]];  
 
-    Though sacred spirits dissever in strong crying  
+Though sacred spirits dissever in strong crying  
 
-    Into Thy hands, but Thy two hands, O Lord,  
+Into Thy hands, but Thy two hands, O Lord,  
 
-    Though not in Earth as once in Eden standing  
+Though not in Earth as once in Eden standing  
 
-    So plain again we see Thee what thou art,  
+So plain again we see Thee what thou art,  
 
-    As in this blaze, the blasting and the branding  
+As in this blaze, the blasting and the branding  
 
-    Of this wild wedding where we meet and part.  
+Of this wild wedding where we meet and part.  
 
-    THE MYSTERY  
+THE MYSTERY  
 
-    If sunset clouds could grow on trees  
+If sunset clouds could grow on trees  
 
-    It would but match the may in flower;  
+It would but match the may in flower;  
 
-    And skies be underneath the seas  
+And skies be underneath the seas  
 
-    No topsyturvier than a shower.  
+No topsyturvier than a shower.  
 
-    If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
+If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
 
-    They were no wilder than a cloud;  
+They were no wilder than a cloud;  
 
-    Yet all my praise is mean as slander,  
+Yet all my praise is mean as slander,  
 
-    Mean as these mean words spoken aloud.  
+Mean as these mean words spoken aloud.  
 
-    And never more than now I know  
+And never more than now I know  
 
-    That man's first heaven is far behind;  
+That man's first heaven is far behind;  
 
-    Unless the blazing seraph's blow  
+Unless the blazing seraph's blow  
 
-    Has left him in the [[Garden|garden]] blind.  
+Has left him in the [[Garden|garden]] blind.  
 
-    Witness, O Sun that blinds our eyes,  
+Witness, O Sun that blinds our eyes,  
 
-    Unthinkable and unthankable [[King]],  
+Unthinkable and unthankable [[King]],  
 
-    That though all other [[Wonder|wonder]] dies  
+That though all other [[Wonder|wonder]] dies  
 
-    I [[Wonder|wonder]] at not wondering.  
+I [[Wonder|wonder]] at not wondering.  
 
-    "THE MYTH OF [[Arthur|ARTHUR]]"  
+"THE MYTH OF [[Arthur|ARTHUR]]"  
 
-    O learned man who never learned to learn,  
+O learned man who never learned to learn,  
 
-    Save to deduce, by timid steps and small,  
+Save to deduce, by timid steps and small,  
 
-    From towering smoke that [[Fire|fire]] can never burn  
+From towering smoke that [[Fire|fire]] can never burn  
 
-    And from tall tales that men were never tall.  
+And from tall tales that men were never tall.  
 
-    Say, have you thought what manner of man it is  
+Say, have you thought what manner of man it is  
 
-    Of whom men say "He could strike giants down"?  
+Of whom men say "He could strike giants down"?  
 
-    Or what strong memories over [[Time|time]]'s abyss  
+Or what strong memories over [[Time|time]]'s abyss  
 
-    Bore up the pomp of Camelot and the [[Crown|crown]].  
+Bore up the pomp of Camelot and the [[Crown|crown]].  
 
-    And why one banner all the background fills,  
+And why one banner all the background fills,  
 
-    Beyond the pageants of so many spears,  
+Beyond the pageants of so many spears,  
 
-    And by what witchery in the western hills  
+And by what witchery in the western hills  
 
-    A throne stands empty for a thousand years.  
+A throne stands empty for a thousand years.  
 
-    Who hold, unheeding this immense impact,  
+Who hold, unheeding this immense impact,  
 
-    Immortal story for a mortal sin;  
+Immortal story for a mortal sin;  
 
-    Lest human [[Fable|fable]] touch historic fact,  
+Lest human [[Fable|fable]] touch historic fact,  
 
-    Chase myths like moths, and fight them with a pin.  
+Chase myths like moths, and fight them with a pin.  
 
-    Take comfort; rest--there needs not this ado.  
+Take comfort; rest--there needs not this ado.  
 
-    You shall not be a myth, I promise you.  
+You shall not be a myth, I promise you.  
 
-    THE OLD [[Song|SONG]]  
+THE OLD [[Song|SONG]]  
 
-    _(On the Embankment in stormy weather.)_  
+_(On the Embankment in stormy weather.)_  
 
-    A livid sky on [[London]]  
+A livid sky on [[London]]  
 
-    And like iron steeds that rear  
+And like iron steeds that rear  
 
-    A shock of engines halted,  
+A shock of engines halted,  
 
-    And I knew the end was near:  
+And I knew the end was near:  
 
-    And something said that far away, over the hills and far away,  
+And something said that far away, over the hills and far away,  
 
-    There came a crawling thunder and the end of all things here.  
+There came a crawling thunder and the end of all things here.  
 
-    For [[London]] Bridge is broken down, broken down, broken down,  
+For [[London]] Bridge is broken down, broken down, broken down,  
 
-    As digging lets the daylight on the sunken streets of yore,  
+As digging lets the daylight on the sunken streets of yore,  
 
-    The [[Lightning|lightning]] looked on [[London]] town, the broken bridge of [[London]] town,  
+The [[Lightning|lightning]] looked on [[London]] town, the broken bridge of [[London]] town,  
 
-    The ending of a broken [[Road|road]] where men shall go no more.  
+The ending of a broken [[Road|road]] where men shall go no more.  
 
-    I saw the kings of [[London]] town,  
+I saw the kings of [[London]] town,  
 
-    The kings that buy and sell,  
+The kings that buy and sell,  
 
-    That built it up with penny loaves  
+That built it up with penny loaves  
 
-    And penny lies as [[Well|well]]:  
+And penny lies as [[Well|well]]:  
 
-    And where the streets were paved with gold, the shrivelled paper shone  
+And where the streets were paved with gold, the shrivelled paper shone  
 
-      for gold,  
+for gold,  
 
-    The scorching light of promises that pave the streets of hell.  
+The scorching light of promises that pave the streets of hell.  
 
-    For penny loaves will melt away, melt away, melt away,  
+For penny loaves will melt away, melt away, melt away,  
 
-    Mock the mean that haggled in the grain they did not grow;  
+Mock the mean that haggled in the grain they did not grow;  
 
-    With hungry faces in the gate, a hundred thousand in the gate,  
+With hungry faces in the gate, a hundred thousand in the gate,  
 
-    A thunder-flash on [[London]] and the finding of the foe.  
+A thunder-flash on [[London]] and the finding of the foe.  
 
-    I heard the hundred pin-makers  
+I heard the hundred pin-makers  
 
-    Slow down their racking din,  
+Slow down their racking din,  
 
-    Till in the stillness men could hear  
+Till in the stillness men could hear  
 
-    The dropping of the pin:  
+The dropping of the pin:  
 
-    And somewhere men without the wall, beneath the wood, without the wall,  
+And somewhere men without the wall, beneath the wood, without the wall,  
 
-    Had found the place where [[London]] ends and England can begin.  
+Had found the place where [[London]] ends and England can begin.  
 
-    For pins and needles bend and break, bend and break, bend and break,  
+For pins and needles bend and break, bend and break, bend and break,  
 
-    Faster than the breaking spears or the bending of the bow  
+Faster than the breaking spears or the bending of the bow  
 
-    Of pageants pale in thunder-light, 'twixt thunder-load and  
+Of pageants pale in thunder-light, 'twixt thunder-load and  
 
-      thunder-light,  
+thunder-light,  
 
-    The Hundreds marching on the hills in the wars of long ago.  
+The Hundreds marching on the hills in the wars of long ago.  
 
-    I saw great Cobbett riding,  
+I saw great Cobbett riding,  
 
-    The horseman of the shires;  
+The horseman of the shires;  
 
-    And his face was red with judgment  
+And his face was red with judgment  
 
-    And a light of Luddite fires:  
+And a light of Luddite fires:  
 
-    And south to Sussex and the sea the lights leapt up for liberty,  
+And south to Sussex and the sea the lights leapt up for liberty,  
 
-    The trumpet of the yeomanry, the hammer of the squires;  
+The trumpet of the yeomanry, the hammer of the squires;  
 
-    For bars of iron rust away, rust away, rust away,  
+For bars of iron rust away, rust away, rust away,  
 
-    Rend before the hammer and the horseman riding in,  
+Rend before the hammer and the horseman riding in,  
 
-    Crying that all men at the last, and at the worst and at the last,  
+Crying that all men at the last, and at the worst and at the last,  
 
-    Have found the place where England ends and England can begin.  
+Have found the place where England ends and England can begin.  
 
-    His [[Horse|horse]]-hoofs go before you,  
+His [[Horse|horse]]-hoofs go before you,  
 
-    Far beyond your bursting tyres;  
+Far beyond your bursting tyres;  
 
-    And [[Time|time]] is bridged behind him  
+And [[Time|time]] is bridged behind him  
 
-    And our sons are with our sires.  
+And our sons are with our sires.  
 
-    A trailing meteor on the Downs he rides above the rotting towns,  
+A trailing meteor on the Downs he rides above the rotting towns,  
 
-    The Horseman of [[Apocalypse]], the Rider of the Shires.  
+The Horseman of [[Apocalypse]], the Rider of the Shires.  
 
-    For [[London]] Bridge is broken down, broken down, broken down;  
+For [[London]] Bridge is broken down, broken down, broken down;  
 
-    Blow the horn of Huntingdon from Scotland to the sea--  
+Blow the horn of Huntingdon from Scotland to the sea--  
 
-    ... Only a flash of thunder-light, a flying dream of thunder-light,  
+... Only a flash of thunder-light, a flying dream of thunder-light,  
 
-    Had shown under the shattered sky a people that were free.  
+Had shown under the shattered sky a people that were free.  
 
-    THE TRINKETS  
+THE TRINKETS  
 
-    A wandering world of rivers,  
+A wandering world of rivers,  
 
-    A wavering world of trees,  
+A wavering world of trees,  
 
-    If the world grow dim and dizzy  
+If the world grow dim and dizzy  
 
-    With all changes and degrees,  
+With all changes and degrees,  
 
-    It is but Our Lady's [[Mirror|mirror]]  
+It is but Our Lady's [[Mirror|mirror]]  
 
-    Hung dreaming in its place,  
+Hung dreaming in its place,  
 
-    Shining with only shadows  
+Shining with only shadows  
 
-    Till she wakes it with her face.  
+Till she wakes it with her face.  
 
-    The standing whirlpool of the [[Stars|stars]],  
+The standing whirlpool of the [[Stars|stars]],  
 
-    The [[Wheel|wheel]] of all the world,  
+The [[Wheel|wheel]] of all the world,  
 
-    Is a ring on Our Lady's finger  
+Is a ring on Our Lady's finger  
 
-    With the suns and moons empearled  
+With the suns and moons empearled  
 
-    With [[Stars|stars]] for stones to please her  
+With [[Stars|stars]] for stones to please her  
 
-    Who sits playing with her rings  
+Who sits playing with her rings  
 
-    With the great heart that a woman has  
+With the great heart that a woman has  
 
-    And the [[Love|love]] of little things.  
+And the [[Love|love]] of little things.  
 
-    Wings of the whirlwind of the world  
+Wings of the whirlwind of the world  
 
-    From here to Ispahan,  
+From here to Ispahan,  
 
-    Spurning the flying forests  
+Spurning the flying forests  
 
-    Are light as Our Lady's fan:  
+Are light as Our Lady's fan:  
 
-    For all things violent here and vain  
+For all things violent here and vain  
 
-    Lie open and all at ease  
+Lie open and all at ease  
 
-    Where God has girded heaven to guard  
+Where God has girded heaven to guard  
 
-    Her holy vanities.  
+Her holy vanities.  
 
-    THE PHILANTHROPIST  
+THE PHILANTHROPIST  
 
-    _(With apologies to a beautiful poem.)_  
+_(With apologies to a beautiful poem.)_  
 
-    Abou Ben Adhem (may his tribe decrease  
+Abou Ben Adhem (may his tribe decrease  
 
-    By cautious birth-control and die in peace)  
+By cautious birth-control and die in peace)  
 
-    Mellow with learning lightly took the word  
+Mellow with learning lightly took the word  
 
-    That marked him not with them that [[Love|love]] the Lord,  
+That marked him not with them that [[Love|love]] the Lord,  
 
-    And told the angel of the book and pen  
+And told the angel of the book and pen  
 
-    "Write me as one that loves his fellow-men:  
+"Write me as one that loves his fellow-men:  
 
-    For them [[Alone|alone]] I labour; to reclaim  
+For them [[Alone|alone]] I labour; to reclaim  
 
-    The ragged roaming Bedouin and to tame  
+The ragged roaming Bedouin and to tame  
 
-    To ordered service; to uproot their vine  
+To ordered service; to uproot their vine  
 
-    Who mock the [[Prophet]], being mad with wine,  
+Who mock the [[Prophet]], being mad with wine,  
 
-    Let daylight through their tents and through their lives,  
+Let daylight through their tents and through their lives,  
 
-    Number their camels, even count their wives,  
+Number their camels, even count their wives,  
 
-    Plot out the [[Desert|desert]] into streets and squares;  
+Plot out the [[Desert|desert]] into streets and squares;  
 
-    And count it a more fruitful work than theirs  
+And count it a more fruitful work than theirs  
 
-    Who lift a vain and visionary [[Love|love]]  
+Who lift a vain and visionary [[Love|love]]  
 
-    To your vague Allah in the skies above."  
+To your vague Allah in the skies above."  
 
-    Gently replied the angel of the pen:  
+Gently replied the angel of the pen:  
 
-    "Labour in peace and [[Love|love]] your fellow-men:  
+"Labour in peace and [[Love|love]] your fellow-men:  
 
-    And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
+And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
 
-    Only [[Fear|fear]] God; for you have cause to [[Fear|fear]]."  
+Only [[Fear|fear]] God; for you have cause to [[Fear|fear]]."  
 
-    ON THE DOWNS  
+ON THE DOWNS  
 
-    When you came over the top of the world  
+When you came over the top of the world  
 
-    In the great day on the Downs,  
+In the great day on the Downs,  
 
-    The air was crisp and the clouds were curled,  
+The air was crisp and the clouds were curled,  
 
-    When you came over the top of the world,  
+When you came over the top of the world,  
 
-    And under your feet were spire and street  
+And under your feet were spire and street  
 
-    And seven English towns.  
+And seven English towns.  
 
-    And I could not think that the [[Pride|pride]] was perished  
+And I could not think that the [[Pride|pride]] was perished  
 
-    As you came over the down;  
+As you came over the down;  
 
-    Liberty, chivalry, all we cherished,  
+Liberty, chivalry, all we cherished,  
 
-    Lost in a rattle of pelf and perished;  
+Lost in a rattle of pelf and perished;  
 
-    Or the land we [[Love|love]] that you walked above  
+Or the land we [[Love|love]] that you walked above  
 
-    Withering town by town.  
+Withering town by town.  
 
-    For you came out on the dome of the earth  
+For you came out on the dome of the earth  
 
-    Like a vision of victory,  
+Like a vision of victory,  
 
-    Out on the great green dome of the earth  
+Out on the great green dome of the earth  
 
-    As the great blue dome of the sky for girth,  
+As the great blue dome of the sky for girth,  
 
-    And under your feet the shires could meet  
+And under your feet the shires could meet  
 
-    And your eyes went out to sea.  
+And your eyes went out to sea.  
 
-    Under your feet the towns were seven,  
+Under your feet the towns were seven,  
 
-    Alive and [[Alone|alone]] on high,  
+Alive and [[Alone|alone]] on high,  
 
-    Your back to the broad white wall of heaven;  
+Your back to the broad white wall of heaven;  
 
-    You were one and the towns were seven,  
+You were one and the towns were seven,  
 
-    Single and one as the soaring sun  
+Single and one as the soaring sun  
 
-    And your head upheld the sky.  
+And your head upheld the sky.  
 
-    And I thought of a thundering [[Flag|flag]] unfurled  
+And I thought of a thundering [[Flag|flag]] unfurled  
 
-    And the roar of the burghers' bell:  
+And the roar of the burghers' bell:  
 
-    Beacons crackled and bolts were hurled  
+Beacons crackled and bolts were hurled  
 
-    As you came over the top of the world;  
+As you came over the top of the world;  
 
-    And under your feet were chance and cheat  
+And under your feet were chance and cheat  
 
-    And the slime of the slopes of hell.  
+And the slime of the slopes of hell.  
 
-    It has not been as the great [[Wind|wind]] spoke  
+It has not been as the great [[Wind|wind]] spoke  
 
-    On the great green down that day:  
+On the great green down that day:  
 
-    We have seen, wherever the wide [[Wind|wind]] spoke,  
+We have seen, wherever the wide [[Wind|wind]] spoke,  
 
-    [[Slavery]] slaying the English folk:  
+[[Slavery]] slaying the English folk:  
 
-    The robbers of land we have seen command  
+The robbers of land we have seen command  
 
-    The rulers of land obey.  
+The rulers of land obey.  
 
-    We have seen the gigantic golden worms  
+We have seen the gigantic golden worms  
 
-    In the [[Garden|garden]] of paradise:  
+In the [[Garden|garden]] of paradise:  
 
-    We have seen the great and the wise make terms  
+We have seen the great and the wise make terms  
 
-    With the peace of snakes and the [[Pride|pride]] of worms,  
+With the peace of snakes and the [[Pride|pride]] of worms,  
 
-    and them that plant make covenant  
+and them that plant make covenant  
 
-    With the locust and the lice.  
+With the locust and the lice.  
 
-    And the [[Wind|wind]] blows and the world goes on  
+And the [[Wind|wind]] blows and the world goes on  
 
-    And the world can say that we,  
+And the world can say that we,  
 
-    Who stood on the cliffs where the quarries shone,  
+Who stood on the cliffs where the quarries shone,  
 
-    Stood upon clouds that the sun shone on:  
+Stood upon clouds that the sun shone on:  
 
-    And the clouds dissunder and drown in thunder  
+And the clouds dissunder and drown in thunder  
 
-    The news that will never be.  
+The news that will never be.  
 
-    Lady of all that have loved the people,  
+Lady of all that have loved the people,  
 
-    Light over roads astray,  
+Light over roads astray,  
 
-    Maze of steading and street and steeple,  
+Maze of steading and street and steeple,  
 
-    Great as a heart that has loved the people:  
+Great as a heart that has loved the people:  
 
-    Stand on the [[Crown|crown]] of the soaring down,  
+Stand on the [[Crown|crown]] of the soaring down,  
 
-    Lift up your arms and pray.  
+Lift up your arms and pray.  
 
-    Only you I have not forgotten  
+Only you I have not forgotten  
 
-    For wreck of the world's renown,  
+For wreck of the world's renown,  
 
-    Rending and ending of things gone rotten,  
+Rending and ending of things gone rotten,  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 dove la caccia è aperta e corre su torrente e palude e laghetto  
 
-    e le loro batterie, nere di battaglia, tengono le teste di ponte della  
+e le loro batterie, nere di battaglia, tengono le teste di ponte della  
 
-      Marna  
+Marna  
 
-    e attraverso la carneficina della Guardia, presso [[Paris|Parigi]] nella pianura,  
+e attraverso la carneficina della Guardia, presso [[Paris|Parigi]] nella pianura,  
 
-    i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
+i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
 
-    Ma colui che narrò il racconto tornò a [[Home|casa]], alla sua [[house|dimora]] presso il mare  
+Ma colui che narrò il racconto tornò a [[Home|casa]], alla sua [[house|dimora]] presso il mare  
 
-    e arse dinanzi a Santa Barbara la luce delle tre finestre,  
+e arse dinanzi a Santa Barbara la luce delle tre finestre,  
 
-    tre candele per una cosa ignota, mai più a tornare,  
+tre candele per una cosa ignota, mai più a tornare,  
 
-    che s'era aperta come l'occhio di Dio su [[Paris|Parigi]] nella pianura.  
+che s'era aperta come l'occhio di Dio su [[Paris|Parigi]] nella pianura.  
 
-    [[elegy|ELEGIA]] IN UN CIMITERO DI CAMPAGNA  
+[[elegy|ELEGIA]] IN UN CIMITERO DI CAMPAGNA  
 
-    Gli uomini che lavorarono per l'Inghilterra  
+Gli uomini che lavorarono per l'Inghilterra  
 
-    hanno le loro tombe in [[Home|patria]]:  
+hanno le loro tombe in [[Home|patria]]:  
 
-    e le [[Bees|api]] e gli [[Birds|uccelli]] d'Inghilterra  
+e le [[Bees|api]] e gli [[Birds|uccelli]] d'Inghilterra  
 
-    possono errare attorno alla [[Cross|croce]].  
+possono errare attorno alla [[Cross|croce]].  
 
-    Ma coloro che combatterono per l'Inghilterra,  
+Ma coloro che combatterono per l'Inghilterra,  
 
-    seguendo una stella cadente,  
+seguendo una stella cadente,  
 
-    ahimè, ahimè per l'Inghilterra,  
+ahimè, ahimè per l'Inghilterra,  
 
-    hanno le loro tombe lontano.  
+hanno le loro tombe lontano.  
 
-    E coloro che governano l'Inghilterra,  
+E coloro che governano l'Inghilterra,  
 
-    riuniti in solenne concilio,  
+riuniti in solenne concilio,  
 
-    ahimè, ahimè per l'Inghilterra,  
+ahimè, ahimè per l'Inghilterra,  
 
-    non hanno ancora tombe.  
+non hanno ancora tombe.  
 
-    LA [[Sword|SPADA]] DELLA SORPRESA  
+LA [[Sword|SPADA]] DELLA SORPRESA  
 
-    Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
 
-    finché stiano nude e strane come gli alberi;  
+finché stiano nude e strane come gli alberi;  
 
-    perché io, il cui cuore s'innalza con i boschi svettanti,  
+perché io, il cui cuore s'innalza con i boschi svettanti,  
 
-    possa stupirmi altrettanto di esse.  
+possa stupirmi altrettanto di esse.  
 
-    Dividimi dal mio [[Blood|sangue]], affinché nel buio  
+Dividimi dal mio [[Blood|sangue]], affinché nel buio  
 
-    io oda scorrere quel rosso [[River|fiume]] ancestrale,  
+io oda scorrere quel rosso [[River|fiume]] ancestrale,  
 
-    come sepolte fiumane ramificate che trovano il mare  
+come sepolte fiumane ramificate che trovano il mare  
 
-    ma non vedono mai il sole.  
+ma non vedono mai il sole.  
 
-    Dammi occhi miracolosi per vedere i miei occhi,  
+Dammi occhi miracolosi per vedere i miei occhi,  
 
-    quegli specchi [[rolling|roteanti]] resi vivi in me,  
+quegli specchi [[rolling|roteanti]] resi vivi in me,  
 
-    terribile cristallo più incredibile  
+terribile cristallo più incredibile  
 
-    di tutte le cose che vedono.  
+di tutte le cose che vedono.  
 
-    Dividimi dalla mia [[Soul|anima]], affinché io veda  
+Dividimi dalla mia [[Soul|anima]], affinché io veda  
 
-    i peccati come ferite grondanti, il coraggioso pulsare della vita;  
+i peccati come ferite grondanti, il coraggioso pulsare della vita;  
 
-    finché io salvi me stesso, come vorrei salvare  
+finché io salvi me stesso, come vorrei salvare  
 
-    un estraneo per la strada.  
+un estraneo per la strada.  
 
-    NOZZE IN [[Time|TEMPO]] DI GUERRA  
+NOZZE IN [[Time|TEMPO]] DI GUERRA  
 
-    Dio nostro, che facesti due [[lovers|amanti]] in un [[Garden|giardino]],  
+Dio nostro, che facesti due [[lovers|amanti]] in un [[Garden|giardino]],  
 
-    e li percuotesti separandoli e li rendesti liberi,  
+e li percuotesti separandoli e li rendesti liberi,  
 
-    i loro quattro occhi folli di [[Wonder|meraviglia]] e d'ira e di perdono  
+i loro quattro occhi folli di [[Wonder|meraviglia]] e d'ira e di perdono  
 
-    e il loro bacio un tuono come labbra di terra e di mare:  
+e il loro bacio un tuono come labbra di terra e di mare:  
 
-    ciascuno rapito senza fine oltre l'altro,  
+ciascuno rapito senza fine oltre l'altro,  
 
-    due mondi stellati di dèi ignoti in guerra,  
+due mondi stellati di dèi ignoti in guerra,  
 
-    moglie e non compagna, un uomo e non un fratello,  
+moglie e non compagna, un uomo e non un fratello,  
 
-    ti ringraziamo d'averci fatti ciò che siamo.  
+ti ringraziamo d'averci fatti ciò che siamo.  
 
-    Non fare che la grigia melma dell'infinito  
+Non fare che la grigia melma dell'infinito  
 
-    sommerga questi [[Flowers|fiori]] che creasti a uno a uno;  
+sommerga questi [[Flowers|fiori]] che creasti a uno a uno;  
 
-    non permettere che la [[Night|notte]], che ti fu nemica,  
+non permettere che la [[Night|notte]], che ti fu nemica,  
 
-    mescoli un folle crepuscolo di [[Moon|luna]] e sole;  
+mescoli un folle crepuscolo di [[Moon|luna]] e sole;  
 
-    Ridesta ancora, in scoppio di tuono e clamore,  
+Ridesta ancora, in scoppio di tuono e clamore,  
 
-    la [[Wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
+la [[Wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
 
-    o spezzaci i cuori col tuo martello che frantuma l'inferno  
+o spezzaci i cuori col tuo martello che frantuma l'inferno  
 
-    ma lascia un'ombra fra noi per tutto il giorno.  
+ma lascia un'ombra fra noi per tutto il giorno.  
 
-    Ombra di alta vergogna e onorevole cecità  
+Ombra di alta vergogna e onorevole cecità  
 
-    quando la giovinezza, nella [[Storm|tempesta]] di cose vertiginose e lontane,  
+quando la giovinezza, nella [[Storm|tempesta]] di cose vertiginose e lontane,  
 
-    trova il selvaggio dono improvviso di una piccola gentilezza  
+trova il selvaggio dono improvviso di una piccola gentilezza  
 
-    e trema al pensiero che tutto il mondo abbia ali.  
+e trema al pensiero che tutto il mondo abbia ali.  
 
-    Quando l'unico capo che, volgendosi, volge i cieli  
+Quando l'unico capo che, volgendosi, volge i cieli  
 
-    si muove tuttavia lieve come un uccello che indugia,  
+si muove tuttavia lieve come un uccello che indugia,  
 
-    e rosso e casuale, sospinto fuori rotta ma ardente,  
+e rosso e casuale, sospinto fuori rotta ma ardente,  
 
-    come una favilla perduta passa la gloriosa parola.  
+come una favilla perduta passa la gloriosa parola.  
 
-    Non fare di questo sesso, quest'altro lato delle cose,  
+Non fare di questo sesso, quest'altro lato delle cose,  
 
-    una cosa meno distante del [[Desire|desiderio]] del mondo;  
+una cosa meno distante del [[Desire|desiderio]] del mondo;  
 
-    Quale colore si aggrappa alla fine della sera  
+Quale colore si aggrappa alla fine della sera  
 
-    e quale lontano grido di frontiere e quale [[Fire|fuoco]]  
+e quale lontano grido di frontiere e quale [[Fire|fuoco]]  
 
-    caduto troppo lontano oltre il sole per esser cercato,  
+caduto troppo lontano oltre il sole per esser cercato,  
 
-    ci divida pure, benché venga il nostro regno;  
+ci divida pure, benché venga il nostro regno;  
 
-    con un segnale lontano nel nostro parlare segreto  
+con un segnale lontano nel nostro parlare segreto  
 
-    per appendere il fiero orizzonte nella nostra [[Home|casa]].  
+per appendere il fiero orizzonte nella nostra [[Home|casa]].  
 
-    Un tempo eravamo uno, informe nube che indugia  
+Un tempo eravamo uno, informe nube che indugia  
 
-    gravando i mari e serrando fuori i cieli,  
+gravando i mari e serrando fuori i cieli,  
 
-    uno con i boschi, un [[Monster|mostro]] dalle miriadi di dita,  
+uno con i boschi, un [[Monster|mostro]] dalle miriadi di dita,  
 
-    non posasti su di me alcun dito di sorpresa.  
+non posasti su di me alcun dito di sorpresa.  
 
-    Uno con le [[Stars|stelle]], un dio dalle miriadi di occhi,  
+Uno con le [[Stars|stelle]], un dio dalle miriadi di occhi,  
 
-    non ti vidi in alcun luogo e fui cieco per disprezzo:  
+non ti vidi in alcun luogo e fui cieco per disprezzo:  
 
-    uno finché il mondo fu squarciato e il sorgere  
+uno finché il mondo fu squarciato e il sorgere  
 
-    dei bianchi giorni in cui io e te nascemmo.  
+dei bianchi giorni in cui io e te nascemmo.  
 
-    Si oscura il mondo: tintinnano i ceppi antichi quanto il mondo;  
+Si oscura il mondo: tintinnano i ceppi antichi quanto il mondo;  
 
-    e questi che non hanno [[Hope|speranza]] dietro il sole  
+e questi che non hanno [[Hope|speranza]] dietro il sole  
 
-    possono nutrirsi come servi e figliare come bestiame,  
+possono nutrirsi come servi e figliare come bestiame,  
 
-    uno nelle tenebre come sono uno i morti;  
+uno nelle tenebre come sono uno i morti;  
 
-    Noi, se la [[Grave|tomba]] squarciata renderà la sua gloria,  
+Noi, se la [[Grave|tomba]] squarciata renderà la sua gloria,  
 
-    le trombe ci chiameranno l'uno dall'altro e faccia a faccia:  
+le trombe ci chiameranno l'uno dall'altro e faccia a faccia:  
 
-    saremo estranei in una storia così strana  
+saremo estranei in una storia così strana  
 
-    e [[Wonder|stupiremo]], incontrandoci in un luogo così selvaggio.  
+e [[Wonder|stupiremo]], incontrandoci in un luogo così selvaggio.  
 
-    Ah, non invano né interamente in perdita  
+Ah, non invano né interamente in perdita  
 
-    vengono persino la nera [[Flag|bandiera]] e le orde di battaglia,  
+vengono persino la nera [[Flag|bandiera]] e le orde di battaglia,  
 
-    se questi grigi demoni fuggono il segno della [[Cross|croce]]  
+se questi grigi demoni fuggono il segno della [[Cross|croce]]  
 
-    anche nel simbolo delle spade incrociate.  
+anche nel simbolo delle spade incrociate.  
 
-    Né la [[Death|morte]] porrà in [[Doubt|dubbio]] Colui che rese vive le nostre anime  
+Né la [[Death|morte]] porrà in [[Doubt|dubbio]] Colui che rese vive le nostre anime  
 
-    spade che si incontrano e non pali affiancati,  
+spade che si incontrano e non pali affiancati,  
 
-    ci comandò di prosperare nel prorompere del sole e nel tuono,  
+ci comandò di prosperare nel prorompere del sole e nel tuono,  
 
-    terremoto e [[Dawn|Aurora]]; lo sposo e la sposa.  
+terremoto e [[Dawn|Aurora]]; lo sposo e la sposa.  
 
-    [[Death|Morte]] e non [[Dreams|sogni]] né [[Doubt|dubbio]] di cose che non muoiono,  
+[[Death|Morte]] e non [[Dreams|sogni]] né [[Doubt|dubbio]] di cose che non muoiono,  
 
-    di chi sia il sacro focolare o di chi la [[Sword|spada]];  
+di chi sia il sacro focolare o di chi la [[Sword|spada]];  
 
-    benché sacri spiriti si dividano in forte grido  
+benché sacri spiriti si dividano in forte grido  
 
-    nelle Tue mani, ma le Tue due mani, o Signore,  
+nelle Tue mani, ma le Tue due mani, o Signore,  
 
-    benché non sulla Terra come un tempo ritti in Eden  
+benché non sulla Terra come un tempo ritti in Eden  
 
-    così chiaramente di nuovo Ti vediamo qual sei,  
+così chiaramente di nuovo Ti vediamo qual sei,  
 
-    come in questa vampa, la deflagrazione e il marchio  
+come in questa vampa, la deflagrazione e il marchio  
 
-    di queste selvagge nozze dove ci incontriamo e ci separiamo.  
+di queste selvagge nozze dove ci incontriamo e ci separiamo.  
 
-    IL MISTERO  
+IL MISTERO  
 
-    Se le nubi del tramonto potessero crescere sugli alberi  
+Se le nubi del tramonto potessero crescere sugli alberi  
 
-    non farebbero che pareggiare il biancospino in fiore;  
+non farebbero che pareggiare il biancospino in fiore;  
 
-    e se i cieli stessero sotto i mari  
+e se i cieli stessero sotto i mari  
 
-    non sarebbe più a rovescio d'un acquazzone.  
+non sarebbe più a rovescio d'un acquazzone.  
 
-    Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
+Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
 
-    non sarebbero più selvaggi d'una nube;  
+non sarebbero più selvaggi d'una nube;  
 
-    eppure ogni mia lode è meschina come una calunnia,  
+eppure ogni mia lode è meschina come una calunnia,  
 
-    meschina come queste meschine parole dette ad alta voce.  
+meschina come queste meschine parole dette ad alta voce.  
 
-    E mai più di ora io so  
+E mai più di ora io so  
 
-    che il primo cielo dell'uomo è assai lontano dietro di noi;  
+che il primo cielo dell'uomo è assai lontano dietro di noi;  
 
-    a meno che il colpo del serafino fiammeggiante  
+a meno che il colpo del serafino fiammeggiante  
 
-    non l'abbia lasciato cieco nel [[Garden|giardino]].  
+non l'abbia lasciato cieco nel [[Garden|giardino]].  
 
-    Sii testimone, o Sole che accechi i nostri occhi,  
+Sii testimone, o Sole che accechi i nostri occhi,  
 
-    impensabile e irringraziabile [[King|Re]],  
+impensabile e irringraziabile [[King|Re]],  
 
-    che, benché ogni altra [[Wonder|meraviglia]] muoia,  
+che, benché ogni altra [[Wonder|meraviglia]] muoia,  
 
-    io mi [[Wonder|stupisco]] di non stupirmi.  
+io mi [[Wonder|stupisco]] di non stupirmi.  
 
-    «IL MITO DI [[Arthur|ARTÙ]]»  
+«IL MITO DI [[Arthur|ARTÙ]]»  
 
-    O dotto che mai imparasti a imparare,  
+O dotto che mai imparasti a imparare,  
 
-    se non a dedurre, con timidi e piccoli passi,  
+se non a dedurre, con timidi e piccoli passi,  
 
-    dal fumo torreggiante che il [[Fire|fuoco]] non può mai bruciare  
+dal fumo torreggiante che il [[Fire|fuoco]] non può mai bruciare  
 
-    e da racconti alti che gli uomini non furono mai alti.  
+e da racconti alti che gli uomini non furono mai alti.  
 
-    Dimmi, hai tu pensato quale sorta d'uomo sia  
+Dimmi, hai tu pensato quale sorta d'uomo sia  
 
-    colui di cui gli uomini dicono «Egli poteva abbattere i giganti»?  
+colui di cui gli uomini dicono «Egli poteva abbattere i giganti»?  
 
-    O quali forti memorie sull'abisso del [[Time|tempo]]  
+O quali forti memorie sull'abisso del [[Time|tempo]]  
 
-    sostennero la pompa di Camelot e la [[Crown|corona]].  
+sostennero la pompa di Camelot e la [[Crown|corona]].  
 
-    E perché un solo stendardo riempie tutto lo sfondo,  
+E perché un solo stendardo riempie tutto lo sfondo,  
 
-    oltre i cortei di tante lance,  
+oltre i cortei di tante lance,  
 
-    e per quale stregoneria fra le colline occidentali  
+e per quale stregoneria fra le colline occidentali  
 
-    un trono sta vuoto da mille anni.  
+un trono sta vuoto da mille anni.  
 
-    Voi che ritenete, incuranti di questo immenso impatto,  
+Voi che ritenete, incuranti di questo immenso impatto,  
 
-    la storia immortale un peccato mortale;  
+la storia immortale un peccato mortale;  
 
-    per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
+per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
 
-    inseguite i miti come falene, e combatteteli con uno spillo.  
+inseguite i miti come falene, e combatteteli con uno spillo.  
 
-    Consolatevi; riposate—non occorre tanto affanno.  
+Consolatevi; riposate—non occorre tanto affanno.  
 
-    Non sarete un mito, ve lo prometto.  
+Non sarete un mito, ve lo prometto.  
 
-    LA VECCHIA [[Song|CANZONE]]  
+LA VECCHIA [[Song|CANZONE]]  
 
-    _(Sull'Embankment in tempo di tempesta.)_  
+_(Sull'Embankment in tempo di tempesta.)_  
 
-    Un cielo livido su [[London|Londra]]  
+Un cielo livido su [[London|Londra]]  
 
-    e come destrieri di ferro che s'impennano  
+e come destrieri di ferro che s'impennano  
 
-    un urto di macchine fermatesi,  
+un urto di macchine fermatesi,  
 
-    e seppi che la fine era vicina:  
+e seppi che la fine era vicina:  
 
-    e qualcosa disse che lontano, oltre i colli e lontano,  
+e qualcosa disse che lontano, oltre i colli e lontano,  
 
-    veniva un tuono strisciante e la fine di ogni cosa quaggiù.  
+veniva un tuono strisciante e la fine di ogni cosa quaggiù.  
 
-    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
+Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
 
-    come lo scavo lascia entrare la luce sulle vie sommerse d'un tempo,  
+come lo scavo lascia entrare la luce sulle vie sommerse d'un tempo,  
 
-    il [[Lightning|lampo]] guardò la città di [[London|Londra]], il ponte spezzato della città di [[London|Londra]],  
+il [[Lightning|lampo]] guardò la città di [[London|Londra]], il ponte spezzato della città di [[London|Londra]],  
 
-    la fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
+la fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
 
-    Vidi i re della città di [[London|Londra]],  
+Vidi i re della città di [[London|Londra]],  
 
-    i re che comprano e vendono,  
+i re che comprano e vendono,  
 
-    che la edificarono con pagnotte da un penny  
+che la edificarono con pagnotte da un penny  
 
-    e con menzogne da un penny [[Well|pure]]:  
+e con menzogne da un penny [[Well|pure]]:  
 
-    E dove le vie erano lastricate d'oro, la carta avvizzita brillava  
+E dove le vie erano lastricate d'oro, la carta avvizzita brillava  
 
-      come oro,  
+come oro,  
 
-    la luce cocente delle promesse che lastricano le vie dell'inferno.  
+la luce cocente delle promesse che lastricano le vie dell'inferno.  
 
-    Ché le pagnotte da un penny si scioglieranno, si scioglieranno, si scioglieranno,  
+Ché le pagnotte da un penny si scioglieranno, si scioglieranno, si scioglieranno,  
 
-    schernendo i meschini che mercanteggiarono il grano che non coltivarono;  
+schernendo i meschini che mercanteggiarono il grano che non coltivarono;  
 
-    Con volti affamati alla porta, centomila alla porta,  
+Con volti affamati alla porta, centomila alla porta,  
 
-    un lampo di tuono su [[London|Londra]] e il ritrovamento del nemico.  
+un lampo di tuono su [[London|Londra]] e il ritrovamento del nemico.  
 
-    Udii i cento fabbricanti di spilli  
+Udii i cento fabbricanti di spilli  
 
-    rallentare il loro fragore straziante,  
+rallentare il loro fragore straziante,  
 
-    finché nel silenzio si poté udire  
+finché nel silenzio si poté udire  
 
-    il cadere dello spillo:  
+il cadere dello spillo:  
 
-    E in qualche luogo, uomini fuori le mura, sotto il bosco, fuori le mura,  
+E in qualche luogo, uomini fuori le mura, sotto il bosco, fuori le mura,  
 
-    avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
+avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
 
-    Ché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
+Ché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
 
-    più in fretta delle lance che si rompono o del piegarsi dell'arco  
+più in fretta delle lance che si rompono o del piegarsi dell'arco  
 
-    di cortei pallidi nella luce del tuono, tra il carico del tuono e  
+di cortei pallidi nella luce del tuono, tra il carico del tuono e  
 
-      la luce del tuono,  
+la luce del tuono,  
 
-    le Centurie in marcia sui colli nelle guerre di tanto tempo fa.  
+le Centurie in marcia sui colli nelle guerre di tanto tempo fa.  
 
-    Vidi il grande Cobbett cavalcare,  
+Vidi il grande Cobbett cavalcare,  
 
-    il cavaliere delle contee;  
+il cavaliere delle contee;  
 
-    e il suo volto era rosso di giudizio  
+e il suo volto era rosso di giudizio  
 
-    e d'una luce di fuochi luddisti:  
+e d'una luce di fuochi luddisti:  
 
-    e a sud verso il Sussex e il mare i lumi balzarono su per la libertà,  
+e a sud verso il Sussex e il mare i lumi balzarono su per la libertà,  
 
-    la tromba dei liberi coltivatori, il martello dei signorotti;  
+la tromba dei liberi coltivatori, il martello dei signorotti;  
 
-    Ché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
+Ché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
 
-    si squarciano dinanzi al martello e al cavaliere che irrompe,  
+si squarciano dinanzi al martello e al cavaliere che irrompe,  
 
-    gridando che tutti gli uomini alla fine, e al peggio e alla fine,  
+gridando che tutti gli uomini alla fine, e al peggio e alla fine,  
 
-    hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
+hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
 
-    Gli zoccoli del suo [[Horse|cavallo]] ti precedono,  
+Gli zoccoli del suo [[Horse|cavallo]] ti precedono,  
 
-    assai oltre le vostre gomme che scoppiano;  
+assai oltre le vostre gomme che scoppiano;  
 
-    e il [[Time|tempo]] è ricongiunto dietro di lui  
+e il [[Time|tempo]] è ricongiunto dietro di lui  
 
-    e i nostri figli sono con i nostri padri.  
+e i nostri figli sono con i nostri padri.  
 
-    Meteora scia sulle Downs, egli cavalca sopra le città in putrefazione,  
+Meteora scia sulle Downs, egli cavalca sopra le città in putrefazione,  
 
-    il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
+il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
 
-    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
+Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
 
-    Suonate il corno di Huntingdon dalla Scozia al mare—  
+Suonate il corno di Huntingdon dalla Scozia al mare—  
 
-    ... Solo un lampo di luce di tuono, un sogno fuggente di luce di tuono,  
+... Solo un lampo di luce di tuono, un sogno fuggente di luce di tuono,  
 
-    aveva mostrato sotto il cielo frantumato un popolo che era libero.  
+aveva mostrato sotto il cielo frantumato un popolo che era libero.  
 
-    I NINNOLI  
+I NINNOLI  
 
-    Un mondo errante di fiumi,  
+Un mondo errante di fiumi,  
 
-    un mondo tremulo di alberi,  
+un mondo tremulo di alberi,  
 
-    se il mondo si fa fosco e vertiginoso  
+se il mondo si fa fosco e vertiginoso  
 
-    con tutti i mutamenti e i gradi,  
+con tutti i mutamenti e i gradi,  
 
-    non è che lo [[Mirror|Specchio]] della Madonna  
+non è che lo [[Mirror|Specchio]] della Madonna  
 
-    appeso a sognare al suo posto,  
+appeso a sognare al suo posto,  
 
-    che riluce di sole ombre  
+che riluce di sole ombre  
 
-    finché ella lo desta col suo volto.  
+finché ella lo desta col suo volto.  
 
-    Il gorgo immoto delle [[Stars|stelle]],  
+Il gorgo immoto delle [[Stars|stelle]],  
 
-    la [[Wheel|ruota]] di tutto il mondo,  
+la [[Wheel|ruota]] di tutto il mondo,  
 
-    è un anello al dito della Madonna  
+è un anello al dito della Madonna  
 
-    con i soli e le lune imperlati  
+con i soli e le lune imperlati  
 
-    con [[Stars|stelle]] per gemme a farle piacere  
+con [[Stars|stelle]] per gemme a farle piacere  
 
-    a lei che siede giocando con i suoi anelli  
+a lei che siede giocando con i suoi anelli  
 
-    col gran cuore che ha una donna  
+col gran cuore che ha una donna  
 
-    e l'[[Love|amore]] delle piccole cose.  
+e l'[[Love|amore]] delle piccole cose.  
 
-    Ali del turbine del mondo  
+Ali del turbine del mondo  
 
-    di qui fino a Ispahan,  
+di qui fino a Ispahan,  
 
-    sdegnando le foreste volanti  
+sdegnando le foreste volanti  
 
-    sono lievi come il ventaglio della Madonna:  
+sono lievi come il ventaglio della Madonna:  
 
-    Ché tutte le cose qui violente e vane  
+Ché tutte le cose qui violente e vane  
 
-    giacciono aperte e del tutto quiete  
+giacciono aperte e del tutto quiete  
 
-    là dove Dio ha cinto il cielo a custodire  
+là dove Dio ha cinto il cielo a custodire  
 
-    le sue sante vanità.  
+le sue sante vanità.  
 
 IL FILANTROPO  
 
-    _(Con le nostre scuse a una bella poesia.)_  
+_(Con le nostre scuse a una bella poesia.)_  
 
-    Abou Ben Adhem (possa la sua tribù decrescere  
+Abou Ben Adhem (possa la sua tribù decrescere  
 
-    per prudente controllo delle nascite, e morire in pace)  
+per prudente controllo delle nascite, e morire in pace)  
 
-    mite di dottrina, prese con leggerezza la parola  
+mite di dottrina, prese con leggerezza la parola  
 
-    che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
 
-    e disse all'angelo del libro e della penna  
+e disse all'angelo del libro e della penna  
 
-    «Iscrivimi come uno che ama i suoi simili:  
+«Iscrivimi come uno che ama i suoi simili:  
 
-    per essi [[Alone|soli]] io m'affatico; per ricondurre  
+per essi [[Alone|soli]] io m'affatico; per ricondurre  
 
-    il cencioso Beduino vagabondo, e per domarlo  
+il cencioso Beduino vagabondo, e per domarlo  
 
-    a un ordinato servizio; per sradicare la vite di coloro  
+a un ordinato servizio; per sradicare la vite di coloro  
 
-    che scherniscono il [[Prophet|Profeta]], folli di vino,  
+che scherniscono il [[Prophet|Profeta]], folli di vino,  
 
-    per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
 
-    contare i loro cammelli, e persino le loro mogli,  
+contare i loro cammelli, e persino le loro mogli,  
 
-    tracciare il [[Desert|deserto]] in strade e piazze;  
+tracciare il [[Desert|deserto]] in strade e piazze;  
 
-    e stimarlo opera più feconda di quella di coloro  
+e stimarlo opera più feconda di quella di coloro  
 
-    che innalzano un vano e visionario [[Love|amore]]  
+che innalzano un vano e visionario [[Love|amore]]  
 
-    al vostro vago Allah nei cieli lassù».  
+al vostro vago Allah nei cieli lassù».  
 
-    Dolcemente rispose l'angelo della penna:  
+Dolcemente rispose l'angelo della penna:  
 
-    «Affaticati in pace e [[Love|ama]] i tuoi simili:  
+«Affaticati in pace e [[Love|ama]] i tuoi simili:  
 
-    e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
 
-    soltanto [[Fear|temi]] Dio; ché hai ragione di [[Fear|temere]].»  
+soltanto [[Fear|temi]] Dio; ché hai ragione di [[Fear|temere]].»  
 
-    SULLE DOWNS  
+SULLE DOWNS  
 
-    Quando venisti oltre il colmo del mondo  
+Quando venisti oltre il colmo del mondo  
 
-    nel gran giorno sulle Downs,  
+nel gran giorno sulle Downs,  
 
-    l'aria era frizzante e le nubi arricciate,  
+l'aria era frizzante e le nubi arricciate,  
 
-    quando venisti oltre il colmo del mondo,  
+quando venisti oltre il colmo del mondo,  
 
-    e sotto i tuoi piedi erano guglia e via  
+e sotto i tuoi piedi erano guglia e via  
 
-    e sette città inglesi.  
+e sette città inglesi.  
 
-    E non potevo credere che l'[[Pride|orgoglio]] fosse perito  
+E non potevo credere che l'[[Pride|orgoglio]] fosse perito  
 
-    mentre venivi oltre la down;  
+mentre venivi oltre la down;  
 
-    Libertà, cavalleria, tutto ciò che ci fu caro,  
+Libertà, cavalleria, tutto ciò che ci fu caro,  
 
-    perduto in un tintinnio di lucro e perito;  
+perduto in un tintinnio di lucro e perito;  
 
-    o la terra che [[Love|amiamo]], sopra la quale camminavi,  
+o la terra che [[Love|amiamo]], sopra la quale camminavi,  
 
-    che avvizziva città dopo città.  
+che avvizziva città dopo città.  
 
-    Ché tu spuntasti sulla cupola della terra  
+Ché tu spuntasti sulla cupola della terra  
 
-    come una visione di vittoria,  
+come una visione di vittoria,  
 
-    fuori sulla grande verde cupola della terra  
+fuori sulla grande verde cupola della terra  
 
-    come la grande azzurra cupola del cielo per cintura,  
+come la grande azzurra cupola del cielo per cintura,  
 
-    e sotto i tuoi piedi le contee potevano incontrarsi  
+e sotto i tuoi piedi le contee potevano incontrarsi  
 
-    e i tuoi occhi si spingevano al mare.  
+e i tuoi occhi si spingevano al mare.  
 
-    Sotto i tuoi piedi le città erano sette,  
+Sotto i tuoi piedi le città erano sette,  
 
-    vive e [[Alone|sole]] nell'alto,  
+vive e [[Alone|sole]] nell'alto,  
 
-    la schiena all'ampio bianco muro del cielo;  
+la schiena all'ampio bianco muro del cielo;  
 
-    tu eri una e le città erano sette,  
+tu eri una e le città erano sette,  
 
-    unica e sola come il sole che s'innalza  
+unica e sola come il sole che s'innalza  
 
-    e il tuo capo sorreggeva il cielo.  
+e il tuo capo sorreggeva il cielo.  
 
-    E pensai a una tonante [[Flag|bandiera]] spiegata  
+E pensai a una tonante [[Flag|bandiera]] spiegata  
 
-    e al fragore della campana dei borghesi:  
+e al fragore della campana dei borghesi:  
 
-    i fanali crepitavano e i dardi erano scagliati  
+i fanali crepitavano e i dardi erano scagliati  
 
-    mentre venivi oltre il colmo del mondo;  
+mentre venivi oltre il colmo del mondo;  
 
-    e sotto i tuoi piedi erano sorte e inganno  
+e sotto i tuoi piedi erano sorte e inganno  
 
-    e la melma dei pendii dell'inferno.  
+e la melma dei pendii dell'inferno.  
 
-    Non è andata come parlò il gran [[Wind|vento]]  
+Non è andata come parlò il gran [[Wind|vento]]  
 
-    sulla grande verde down quel giorno:  
+sulla grande verde down quel giorno:  
 
-    Abbiamo visto, ovunque parlasse l'ampio [[Wind|vento]],  
+Abbiamo visto, ovunque parlasse l'ampio [[Wind|vento]],  
 
-    la [[Slavery|Schiavitù]] che uccide la gente inglese:  
+la [[Slavery|Schiavitù]] che uccide la gente inglese:  
 
-    i ladri di terra li abbiamo visti comandare  
+i ladri di terra li abbiamo visti comandare  
 
-    i signori della terra obbedire.  
+i signori della terra obbedire.  
 
-    Abbiamo visto i giganteschi vermi dorati  
+Abbiamo visto i giganteschi vermi dorati  
 
-    nel [[Garden|giardino]] del paradiso:  
+nel [[Garden|giardino]] del paradiso:  
 
-    Abbiamo visto i grandi e i saggi venire a patti  
+Abbiamo visto i grandi e i saggi venire a patti  
 
-    con la pace dei serpenti e l'[[Pride|orgoglio]] dei vermi,  
+con la pace dei serpenti e l'[[Pride|orgoglio]] dei vermi,  
 
-    e coloro che piantano stringere alleanza  
+e coloro che piantano stringere alleanza  
 
-    con la locusta e i pidocchi.  
+con la locusta e i pidocchi.  
 
-    E il [[Wind|vento]] soffia e il mondo va avanti  
+E il [[Wind|vento]] soffia e il mondo va avanti  
 
-    e il mondo può dire che noi,  
+e il mondo può dire che noi,  
 
-    che stemmo sulle scogliere dove brillavano le cave,  
+che stemmo sulle scogliere dove brillavano le cave,  
 
-    stemmo su nubi su cui splendeva il sole:  
+stemmo su nubi su cui splendeva il sole:  
 
-    e le nubi si dissolvono e affogano nel tuono  
+e le nubi si dissolvono e affogano nel tuono  
 
-    la notizia che mai sarà.  
+la notizia che mai sarà.  
 
-    Signora di tutti coloro che hanno amato il popolo,  
+Signora di tutti coloro che hanno amato il popolo,  
 
-    luce sopra le strade smarrite,  
+luce sopra le strade smarrite,  
 
-    labirinto di poderi e vie e campanili,  
+labirinto di poderi e vie e campanili,  
 
-    grande come un cuore che ha amato il popolo:  
+grande come un cuore che ha amato il popolo:  
 
-    Stai sulla [[Crown|sommità]] della down svettante,  
+Stai sulla [[Crown|sommità]] della down svettante,  
 
-    leva le braccia e prega.  
+leva le braccia e prega.  
 
-    Te sola non ho dimenticato  
+Te sola non ho dimenticato  
 
-    per il naufragio della fama del mondo,  
+per il naufragio della fama del mondo,  
 
-    lacerarsi e finire di cose imputridite,
+lacerarsi e finire di cose imputridite,
 
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="BalladStBarbara (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-    Only the face of you unforgotten:  
+Only the face of you unforgotten:  
 
-    And your head upthrown in the skies [[Alone|alone]]  
+And your head upthrown in the skies [[Alone|alone]]  
 
-    As you came over the down.  
+As you came over the down.  
 
-    THE RED SEA  
+THE RED SEA  
 
-    Our souls shall be Leviathans  
+Our souls shall be Leviathans  
 
-    In purple seas of wine  
+In purple seas of wine  
 
-    When drunkenness is dead with [[Death|death]],  
+When drunkenness is dead with [[Death|death]],  
 
-    And drink is all divine;  
+And drink is all divine;  
 
-    Learning in those immortal vats  
+Learning in those immortal vats  
 
-    What mortal vineyards mean;  
+What mortal vineyards mean;  
 
-    For only in heaven we shall know  
+For only in heaven we shall know  
 
-    How happy we have been.  
+How happy we have been.  
 
-    Like clouds that wallow in the [[Wind|wind]]  
+Like clouds that wallow in the [[Wind|wind]]  
 
-    Be free to drift and drink;  
+Be free to drift and drink;  
 
-    Tower without insolence when we rise,  
+Tower without insolence when we rise,  
 
-    Without surrender sink:  
+Without surrender sink:  
 
-    [[Dreams]] dizzy and crazy we shall know  
+[[Dreams]] dizzy and crazy we shall know  
 
-    And have no need to write  
+And have no need to write  
 
-    Our blameless blasphemies of praise,  
+Our blameless blasphemies of praise,  
 
-    Our nightmares of delight.  
+Our nightmares of delight.  
 
-    For so in such misshapen shape  
+For so in such misshapen shape  
 
-    The vision came to me,  
+The vision came to me,  
 
-    Where such titanian dolphins dark  
+Where such titanian dolphins dark  
 
-    Roll in a sunset sea:  
+Roll in a sunset sea:  
 
-    Dark with dense colours, strange and strong  
+Dark with dense colours, strange and strong  
 
-    As terrible true [[Love|love]],  
+As terrible true [[Love|love]],  
 
-    Haloed like fish in phospher light  
+Haloed like fish in phospher light  
 
-    The holy monsters move.  
+The holy monsters move.  
 
-    Measure is here and law, to learn,  
+Measure is here and law, to learn,  
 
-    When [[Honour|honour]] rules it so,  
+When [[Honour|honour]] rules it so,  
 
-    To lift the glass and lay it down  
+To lift the glass and lay it down  
 
-    Or break the glass and go.  
+Or break the glass and go.  
 
-    But when the world's New [[deluge|Deluge]] boils  
+But when the world's New [[deluge|Deluge]] boils  
 
-    From the New Noah's vine,  
+From the New Noah's vine,  
 
-    Our souls shall be Leviathans  
+Our souls shall be Leviathans  
 
-    In sanguine seas of wine.  
+In sanguine seas of wine.  
 
-    FOR A WAR MEMORIAL  
+FOR A WAR MEMORIAL  
 
-    _(Suggested [[Inscription]] probably not selected by the  
+_(Suggested [[Inscription]] probably not selected by the  
 
-    Committee.)_  
+Committee.)_  
 
-    The hucksters haggle in the mart  
+The hucksters haggle in the mart  
 
-    The cars and carts go by;  
+The cars and carts go by;  
 
-    Senates and schools go droning on;  
+Senates and schools go droning on;  
 
-    For dead things cannot die.  
+For dead things cannot die.  
 
-    A [[Storm|storm]] stooped on the place of tombs  
+A [[Storm|storm]] stooped on the place of tombs  
 
-    With bolts to blast and rive;  
+With bolts to blast and rive;  
 
-    But these be names of many men  
+But these be names of many men  
 
-    The [[Lightning|lightning]] found alive.  
+The [[Lightning|lightning]] found alive.  
 
-    If usurers rule and rights [[Decay|decay]]  
+If usurers rule and rights [[Decay|decay]]  
 
-    And visions view once more  
+And visions view once more  
 
-    Great Carthage like a golden shell  
+Great Carthage like a golden shell  
 
-    Gape hollow on the shore,  
+Gape hollow on the shore,  
 
-    Still to the last of crumbling [[Time|time]]  
+Still to the last of crumbling [[Time|time]]  
 
-    Upon this stone be read  
+Upon this stone be read  
 
-    How many men of England died  
+How many men of England died  
 
-    To prove they were not dead.  
+To prove they were not dead.  
 
-    [[Memory|MEMORY]]  
+[[Memory|MEMORY]]  
 
-    If I ever go back to Baltimore,  
+If I ever go back to Baltimore,  
 
-    The [[City|city]] of Maryland,  
+The [[City|city]] of Maryland,  
 
-    I shall miss again as I missed before  
+I shall miss again as I missed before  
 
-    A thousand things of the world in store,  
+A thousand things of the world in store,  
 
-    The story standing in every door  
+The story standing in every door  
 
-    That beckons with every hand.  
+That beckons with every hand.  
 
-    I shall not know where the bonds were riven  
+I shall not know where the bonds were riven  
 
-    And a hundred faiths set free,  
+And a hundred faiths set free,  
 
-    Where a wandering cavalier had given  
+Where a wandering cavalier had given  
 
-    Her hundredth name to the [[Queen]] of Heaven,  
+Her hundredth name to the [[Queen]] of Heaven,  
 
-    And made oblation of feuds forgiven  
+And made oblation of feuds forgiven  
 
-    To Our Lady of Liberty.  
+To Our Lady of Liberty.  
 
-    I shall not travel the tracks of fame  
+I shall not travel the tracks of fame  
 
-    Where the war was not to the strong;  
+Where the war was not to the strong;  
 
-    When Lee the last of the heroes came  
+When Lee the last of the heroes came  
 
-    With the Men of the South and a [[Flag|flag]] like flame,  
+With the Men of the South and a [[Flag|flag]] like flame,  
 
-    And called the land by its lovely name  
+And called the land by its lovely name  
 
-    In the unforgotten [[Song|song]].  
+In the unforgotten [[Song|song]].  
 
-    If ever I [[Cross|cross]] the sea and stray  
+If ever I [[Cross|cross]] the sea and stray  
 
-    To the [[City|city]] of Maryland,  
+To the [[City|city]] of Maryland,  
 
-    I will sit on a stone and watch or pray  
+I will sit on a stone and watch or pray  
 
-    For a stranger's [[Child|child]] that was there one day:  
+For a stranger's [[Child|child]] that was there one day:  
 
-    And the [[Child|child]] will never come back to play,  
+And the [[Child|child]] will never come back to play,  
 
-    And no-one will understand.  
+And no-one will understand.  
 
-    THE ENGLISH GRAVES  
+THE ENGLISH GRAVES  
 
-    Were I that wandering citizen whose [[City|city]] is the world,  
+Were I that wandering citizen whose [[City|city]] is the world,  
 
-    I would not weep for all that fell before the flags were furled;  
+I would not weep for all that fell before the flags were furled;  
 
-    I would not let one murmur mar the trumpets volleying forth  
+I would not let one murmur mar the trumpets volleying forth  
 
-    How God grew weary of the kings, and the cold hell in the north.  
+How God grew weary of the kings, and the cold hell in the north.  
 
-    But we whose hearts are homing [[Birds|birds]] have heavier thoughts of [[Home|home]],  
+But we whose hearts are homing [[Birds|birds]] have heavier thoughts of [[Home|home]],  
 
-    Though the great eagles burn with gold on [[Paris]] or on Rome,  
+Though the great eagles burn with gold on [[Paris]] or on Rome,  
 
-    Who stand beside our dead and stare, like seers at an eclipse,  
+Who stand beside our dead and stare, like seers at an eclipse,  
 
-    At the [[Riddle|riddle]] of the island tale and the twilight of the ships.  
+At the [[Riddle|riddle]] of the island tale and the twilight of the ships.  
 
-    For these were simple men that loved with hands and feet and eyes,  
+For these were simple men that loved with hands and feet and eyes,  
 
-    Whose souls were humbled to the hills and narrowed to the skies,  
+Whose souls were humbled to the hills and narrowed to the skies,  
 
-    The hundred little lands within one little land that lie,  
+The hundred little lands within one little land that lie,  
 
-    Where Severn seeks the sunset isles or Sussex scales the sky.  
+Where Severn seeks the sunset isles or Sussex scales the sky.  
 
-    And what is theirs, though banners blow on Warsaw risen again,  
+And what is theirs, though banners blow on Warsaw risen again,  
 
-    Or ancient laughter walks in gold through the vineyards of Lorraine,  
+Or ancient laughter walks in gold through the vineyards of Lorraine,  
 
-    Their dead are marked on English stones, their loves on English trees,  
+Their dead are marked on English stones, their loves on English trees,  
 
-    How little is the prize they win, how mean a coin for these--  
+How little is the prize they win, how mean a coin for these--  
 
-    How small a shrivelled laurel-leaf lies crumpled here and curled:  
+How small a shrivelled laurel-leaf lies crumpled here and curled:  
 
-    They died to save their country and they only saved the world.  
+They died to save their country and they only saved the world.  
 
-    [[nightmare|NIGHTMARE]]  
+[[nightmare|NIGHTMARE]]  
 
-    The silver and violet leopard of the [[Night|night]]  
+The silver and violet leopard of the [[Night|night]]  
 
-    Spotted with [[Stars|stars]] and smooth with [[Silence|silence]] sprang;  
+Spotted with [[Stars|stars]] and smooth with [[Silence|silence]] sprang;  
 
-    And though three doors stood open, the end of light  
+And though three doors stood open, the end of light  
 
-    Closed like a trap; and stillness was a clang.  
+Closed like a trap; and stillness was a clang.  
 
-    Under the leopard sky of lurid [[Stars|stars]]  
+Under the leopard sky of lurid [[Stars|stars]]  
 
-    I strove with evil [[Sleep|sleep]] the hot [[Night|night]] long,  
+I strove with evil [[Sleep|sleep]] the hot [[Night|night]] long,  
 
-    [[Dreams]] dumb and swollen of triumphs without wars,  
+[[Dreams]] dumb and swollen of triumphs without wars,  
 
-    Of tongueless trumpet and unanswering gong.  
+Of tongueless trumpet and unanswering gong.  
 
-    I saw a pale imperial pomp go by,  
+I saw a pale imperial pomp go by,  
 
-    Helmet and hornèd mitre and heavy wreath;  
+Helmet and hornèd mitre and heavy wreath;  
 
-    Their high strange ensigns hung upon the sky  
+Their high strange ensigns hung upon the sky  
 
-    And their great shields were like the doors of [[Death|death]].  
+And their great shields were like the doors of [[Death|death]].  
 
-    Their mitres were as moving pyramids  
+Their mitres were as moving pyramids  
 
-    And all their crowns as marching towers were tall;  
+And all their crowns as marching towers were tall;  
 
-    Their eyes were cold under their carven lids  
+Their eyes were cold under their carven lids  
 
-    And the same carven smile was on them all.  
+And the same carven smile was on them all.  
 
-    Over a paven plain that seemed unending  
+Over a paven plain that seemed unending  
 
-    They passed unfaltering till it found an end  
+They passed unfaltering till it found an end  
 
-    In one long shallow step; and these descending  
+In one long shallow step; and these descending  
 
-    Fared forth anew as long away to wend.  
+Fared forth anew as long away to wend.  
 
-    I thought they travelled for a thousand years;  
+I thought they travelled for a thousand years;  
 
-    And at the end was nothing for them all,  
+And at the end was nothing for them all,  
 
-    For all that splendour of sceptres and of spears,  
+For all that splendour of sceptres and of spears,  
 
-    But a new step, another easy fall.  
+But a new step, another easy fall.  
 
-    The smile of stone seemed but a little less,  
+The smile of stone seemed but a little less,  
 
-    The load of silver but a little more:  
+The load of silver but a little more:  
 
-    And ever was that terraced wilderness  
+And ever was that terraced wilderness  
 
-    And falling plain paved like a palace floor.  
+And falling plain paved like a palace floor.  
 
-    Rust red as gore crawled on their arms of might  
+Rust red as gore crawled on their arms of might  
 
-    And on their faces wrinkles and not scars:  
+And on their faces wrinkles and not scars:  
 
-    Till the dream suddenly ended; noise and light  
+Till the dream suddenly ended; noise and light  
 
-    Loosened the tyranny of the tropic [[Stars|stars]].  
+Loosened the tyranny of the tropic [[Stars|stars]].  
 
-    But over them like a subterranean sun  
+But over them like a subterranean sun  
 
-    I saw the sign of all the fiends that fell;  
+I saw the sign of all the fiends that fell;  
 
-    And a wild voice cried "Hasten and be done,  
+And a wild voice cried "Hasten and be done,  
 
-    Is there no steepness in the stairs of hell?"  
+Is there no steepness in the stairs of hell?"  
 
-    He that returns, He that remains the same,  
+He that returns, He that remains the same,  
 
-    Turned the round real world, His iron vice;  
+Turned the round real world, His iron vice;  
 
-    Down the grey [[Garden|garden]] paths a bird called twice,  
+Down the grey [[Garden|garden]] paths a bird called twice,  
 
-    And through three doors mysterious daylight came.  
+And through three doors mysterious daylight came.  
 
-    A SECOND [[Childhood|CHILDHOOD]]  
+A SECOND [[Childhood|CHILDHOOD]]  
 
-    When all my days are ending  
+When all my days are ending  
 
-    And I have no [[Song|song]] to sing,  
+And I have no [[Song|song]] to sing,  
 
-    I think I shall not be too old  
+I think I shall not be too old  
 
-    To stare at everything;  
+To stare at everything;  
 
-    As I stared once at a nursery door  
+As I stared once at a nursery door  
 
-    Or a tall tree and a swing.  
+Or a tall tree and a swing.  
 
-    Wherein God's ponderous [[Mercy|mercy]] hangs  
+Wherein God's ponderous [[Mercy|mercy]] hangs  
 
-    On all my sins and me,  
+On all my sins and me,  
 
-    Because He does not take away  
+Because He does not take away  
 
-    The terror from the tree  
+The terror from the tree  
 
-    And stones still shine along the [[Road|road]]  
+And stones still shine along the [[Road|road]]  
 
-    That are and cannot be.  
+That are and cannot be.  
 
-    Men grow too old for [[Love|love]], my [[Love|love]],  
+Men grow too old for [[Love|love]], my [[Love|love]],  
 
-    Men grow too old for wine,  
+Men grow too old for wine,  
 
-    But I shall not grow too old to see  
+But I shall not grow too old to see  
 
-    Unearthly daylight shine,  
+Unearthly daylight shine,  
 
-    Changing my chamber's [[Dust|dust]] to [[Snow|snow]]  
+Changing my chamber's [[Dust|dust]] to [[Snow|snow]]  
 
-    Till I [[Doubt|doubt]] if it be mine.  
+Till I [[Doubt|doubt]] if it be mine.  
 
-    Behold, the crowning mercies melt,  
+Behold, the crowning mercies melt,  
 
-    The first surprises stay;  
+The first surprises stay;  
 
-    And in my dross is dropped a gift  
+And in my dross is dropped a gift  
 
-    For which I dare not pray:  
+For which I dare not pray:  
 
-    That a man grow used to grief and joy  
+That a man grow used to grief and joy  
 
-    But not to [[Night|night]] and day.  
+But not to [[Night|night]] and day.  
 
-    Men grow too old for [[Love|love]], my [[Love|love]],  
+Men grow too old for [[Love|love]], my [[Love|love]],  
 
-    Men grow too old for lies;  
+Men grow too old for lies;  
 
-    But I shall not grow too old to see  
+But I shall not grow too old to see  
 
-    Enormous [[Night|night]] arise,  
+Enormous [[Night|night]] arise,  
 
-    A cloud that is larger than the world  
+A cloud that is larger than the world  
 
-    And a [[Monster|monster]] made of eyes.  
+And a [[Monster|monster]] made of eyes.  
 
-    Nor am I worthy to unloose  
+Nor am I worthy to unloose  
 
-    The latchet of my shoe;  
+The latchet of my shoe;  
 
-    Or shake the [[Dust|dust]] from off my feet  
+Or shake the [[Dust|dust]] from off my feet  
 
-    Or the staff that bears me through  
+Or the staff that bears me through  
 
-    On ground that is too good to last,  
+On ground that is too good to last,  
 
-    Too solid to be true.  
+Too solid to be true.  
 
-    Men grow too old to woo, my [[Love|love]],  
+Men grow too old to woo, my [[Love|love]],  
 
-    Men grow too old to wed:  
+Men grow too old to wed:  
 
-    But I shall not grow too old to see  
+But I shall not grow too old to see  
 
-    Hung crazily overhead  
+Hung crazily overhead  
 
-    Incredible rafters when I wake  
+Incredible rafters when I wake  
 
-    And find I am not dead.  
+And find I am not dead.  
 
-    A thrill of thunder in my hair:  
+A thrill of thunder in my hair:  
 
-    Though blackening clouds be plain,  
+Though blackening clouds be plain,  
 
-    Still I am stung and startled  
+Still I am stung and startled  
 
-    By the first drop of the rain:  
+By the first drop of the rain:  
 
-    [[Romance]] and [[Pride|pride]] and passion pass  
+[[Romance]] and [[Pride|pride]] and passion pass  
 
-    And these are what remain.  
+And these are what remain.  
 
-    Strange crawling carpets of the grass,  
+Strange crawling carpets of the grass,  
 
-    Wide windows of the sky:  
+Wide windows of the sky:  
 
-    So in this perilous grace of God  
+So in this perilous grace of God  
 
-    With all my sins go I:  
+With all my sins go I:  
 
-    And things grow new though I grow old,  
+And things grow new though I grow old,  
 
-    Though I grow old and die.  
+Though I grow old and die.  
 
-    "MEDIÆVALISM"  
+"MEDIÆVALISM"  
 
-    If men should rise and return to the noise and [[Time|time]] of the tourney,  
+If men should rise and return to the noise and [[Time|time]] of the tourney,  
 
-    The name and fame of the tabard, the tangle of gules and gold,  
+The name and fame of the tabard, the tangle of gules and gold,  
 
-    Would these things stand and suffice for the bourne of a backward  
+Would these things stand and suffice for the bourne of a backward  
 
-      [[Journey|journey]],  
+[[Journey|journey]],  
 
-    A light on our days returning, as it was in the days of old?  
+A light on our days returning, as it was in the days of old?  
 
-    Nay, there is none rides back to pick up a glove or a feather,  
+Nay, there is none rides back to pick up a glove or a feather,  
 
-    Though the gauntlet rang with [[Honour|honour]] or the plume was more than a  
+Though the gauntlet rang with [[Honour|honour]] or the plume was more than a  
 
-      [[Crown|crown]]:  
+[[Crown|crown]]:  
 
-    And hushed is the holy trumpet that called the nations together  
+And hushed is the holy trumpet that called the nations together  
 
-    And under the Horns of Hattin the [[Hope|hope]] of the world went down.  
+And under the Horns of Hattin the [[Hope|hope]] of the world went down.  
 
-    Ah, not in remembrance stored, but out of oblivion starting,  
+Ah, not in remembrance stored, but out of oblivion starting,  
 
-    Because you have sought new homes and all that you sought is so,  
+Because you have sought new homes and all that you sought is so,  
 
-    Because you had trodden the [[Fire|fire]] and barred the door in departing,  
+Because you had trodden the [[Fire|fire]] and barred the door in departing,  
 
-    Returns in your chosen [[Exile|exile]] the glory of long ago.  
+Returns in your chosen [[Exile|exile]] the glory of long ago.  
 
-    Not then when you barred the door, not then when you trod the embers,  
+Not then when you barred the door, not then when you trod the embers,  
 
-    But now, at your new [[Road|road]]'s end, you have seen the face of a fate,  
+But now, at your new [[Road|road]]'s end, you have seen the face of a fate,  
 
-    That not as a [[Child|child]] looks back, and not as a [[Fool|fool]] remembers,  
+That not as a [[Child|child]] looks back, and not as a [[Fool|fool]] remembers,  
 
-    All that men took too lightly and all that they [[Love|love]] too late.  
+All that men took too lightly and all that they [[Love|love]] too late.  
 
-    It is you that have made no rubric for saints, no raiment for [[lovers]],  
+It is you that have made no rubric for saints, no raiment for [[lovers]],  
 
-    Your caps that cry for a feather, your roofs that sigh for a spire:  
+Your caps that cry for a feather, your roofs that sigh for a spire:  
 
-    Is it [[A Dream|a dream]] from the dead if your own [[Decay|decay]] discovers  
+Is it [[A Dream|a dream]] from the dead if your own [[Decay|decay]] discovers  
 
-    Alive in your rotting graveyard the worm of the world's [[Desire|desire]]?  
+Alive in your rotting graveyard the worm of the world's [[Desire|desire]]?  
 
-    Therefore the old trees tower, that the green trees grow and are  
+Therefore the old trees tower, that the green trees grow and are  
 
-      stunted:  
+stunted:  
 
-    Therefore these dead men mock you, that you the living are dead:  
+Therefore these dead men mock you, that you the living are dead:  
 
-    Since ever you battered the saints and the tools of your crafts were  
+Since ever you battered the saints and the tools of your crafts were  
 
-      blunted,  
+blunted,  
 
-    Or shattered the glass in its glory and loaded yourselves with the  
+Or shattered the glass in its glory and loaded yourselves with the  
 
-      lead.  
+lead.  
 
-    When the usurer hunts the squire as the squire has hunted the peasant,  
+When the usurer hunts the squire as the squire has hunted the peasant,  
 
-    As sheep that are eaten of worms where men were eaten of sheep:  
+As sheep that are eaten of worms where men were eaten of sheep:  
 
-    Now is the judgment of earth, and the weighing of past and present,  
+Now is the judgment of earth, and the weighing of past and present,  
 
-    Who scorn to weep over ruins, behold your ruin and weep.  
+Who scorn to weep over ruins, behold your ruin and weep.  
 
-    Have ye not known, ye fools, that have made the present a [[Prison|prison]],  
+Have ye not known, ye fools, that have made the present a [[Prison|prison]],  
 
-    That thirst can remember [[Water|water]] and hunger remember bread?  
+That thirst can remember [[Water|water]] and hunger remember bread?  
 
-    We went not gathering [[Ghosts|ghosts]]; but the shriek of your shame is arisen  
+We went not gathering [[Ghosts|ghosts]]; but the shriek of your shame is arisen  
 
-    Out of your own black Babel too loud; and it woke the dead.  
+Out of your own black Babel too loud; and it woke the dead.  
 
-    POLAND  
+POLAND  
 
-    Augurs that watched archaic [[Birds|birds]]  
+Augurs that watched archaic [[Birds|birds]]  
 
-    Such plumèd prodigies might read,  
+Such plumèd prodigies might read,  
 
-    The eagles that were [[Double|double]]-faced,  
+The eagles that were [[Double|double]]-faced,  
 
-    The eagle that was black indeed;  
+The eagle that was black indeed;  
 
-    And when the battle-[[Birds|birds]] went down  
+And when the battle-[[Birds|birds]] went down  
 
-    And in their track the vultures come,  
+And in their track the vultures come,  
 
-    We know what pardon and what peace  
+We know what pardon and what peace  
 
-    Will keep our little masters dumb.  
+Will keep our little masters dumb.  
 
-    The men that sell what others make,  
+The men that sell what others make,  
 
-    As vultures eat what others slay,  
+As vultures eat what others slay,  
 
-    Will prove in matching plume with plume  
+Will prove in matching plume with plume  
 
-    That naught is black and all is grey;  
+That naught is black and all is grey;  
 
-    Grey as those dingy doves that once,  
+Grey as those dingy doves that once,  
 
-    By money-changers palmed and priced,  
+By money-changers palmed and priced,  
 
-    Amid the crash of tables flapped  
+Amid the crash of tables flapped  
 
-    And huddled from the wrath of [[Christ]].  
+And huddled from the wrath of [[Christ]].  
 
-    But raised for ever for a sign  
+But raised for ever for a sign  
 
-    Since God made anger glorious,  
+Since God made anger glorious,  
 
-    Where eagles black and vultures grey  
+Where eagles black and vultures grey  
 
-    Flocked back about the heroic [[house]],  
+Flocked back about the heroic [[house]],  
 
-    Where war is holier than peace,  
+Where war is holier than peace,  
 
-    Where hate is holier than [[Love|love]],  
+Where hate is holier than [[Love|love]],  
 
-    Shone terrible as the Holy [[Ghost]]  
+Shone terrible as the Holy [[Ghost]]  
 
-    An eagle whiter than a dove.  
+An eagle whiter than a dove.  
 
-    THE HUNTING OF THE DRAGON  
+THE HUNTING OF THE DRAGON  
 
-    When we went hunting the Dragon  
+When we went hunting the Dragon  
 
-    In the days when we were young,  
+In the days when we were young,  
 
-    We tossed the bright world over our shoulder  
+We tossed the bright world over our shoulder  
 
-    As bugle and baldrick slung;  
+As bugle and baldrick slung;  
 
-    Never was world so wild and fair  
+Never was world so wild and fair  
 
-    As what went by on the [[Wind|wind]],  
+As what went by on the [[Wind|wind]],  
 
-    Never such fields of paradise  
+Never such fields of paradise  
 
-    As the fields we left behind:  
+As the fields we left behind:  
 
-      For this is the best of a rest for men  
+For this is the best of a rest for men  
 
-      That men should rise and ride  
+That men should rise and ride  
 
-      Making a flying fairyland  
+Making a flying fairyland  
 
-      Of market and country-side,  
+Of market and country-side,  
 
-      Wings on the cottage, wings on the wood,  
+Wings on the cottage, wings on the wood,  
 
-      Wings upon pot and pan,  
+Wings upon pot and pan,  
 
-      For the hunting of the Dragon  
+For the hunting of the Dragon  
 
-      That is the life of a man.  
+That is the life of a man.  
 
-    For men grow weary of fairyland  
+For men grow weary of fairyland  
 
-    When the Dragon is [[A Dream|a dream]],  
+When the Dragon is [[A Dream|a dream]],  
 
-    And tire of the talking bird in the tree,  
+And tire of the talking bird in the tree,  
 
-    The singing fish in the stream;  
+The singing fish in the stream;  
 
-    And the wandering [[Stars|stars]] grow stale, grow stale,  
+And the wandering [[Stars|stars]] grow stale, grow stale,  
 
-    And the [[Wonder|wonder]] is stiff with scorn;  
+And the [[Wonder|wonder]] is stiff with scorn;  
 
-    For this is the [[Honour|honour]] of fairyland  
+For this is the [[Honour|honour]] of fairyland  
 
-    And the following of the horn;  
+And the following of the horn;  
 
-      [[Beauty]] on [[Beauty|beauty]] called us back  
+[[Beauty]] on [[Beauty|beauty]] called us back  
 
-      When we could rise and ride,  
+When we could rise and ride,  
 
-      And a woman looked out of every [[Window|window]]  
+And a woman looked out of every [[Window|window]]  
 
-      As wonderful as a bride:  
+As wonderful as a bride:  
 
-      And the tavern-sign as a tabard blazed,  
+And the tavern-sign as a tabard blazed,  
 
-      And the children cheered and ran,  
+And the children cheered and ran,  
 
-      For the [[Love|love]] of the hate of the Dragon  
+For the [[Love|love]] of the hate of the Dragon  
 
-      That is the [[Pride|pride]] of a man.  
+That is the [[Pride|pride]] of a man.  
 
-    The sages called him a [[Shadow|shadow]]  
+The sages called him a [[Shadow|shadow]]  
 
-    And the light went out of the sun:  
+And the light went out of the sun:  
 
-    And the wise men told us that all was [[Well|well]]  
+And the wise men told us that all was [[Well|well]]  
 
-    And all was weary and one:  
+And all was weary and one:  
 
-    And then, and then, in the quiet [[Garden|garden]],  
+And then, and then, in the quiet [[Garden|garden]],  
 
-    With never a weed to kill,  
+With never a weed to kill,  
 
-    We knew that his shining tail had shone  
+We knew that his shining tail had shone  
 
-    In the white [[Road|road]] over the [[Hill|hill]]:  
+In the white [[Road|road]] over the [[Hill|hill]]:  
 
-    We knew that the clouds were flakes of flame,  
+We knew that the clouds were flakes of flame,  
 
-    We knew that the sunset [[Fire|fire]]  
+We knew that the sunset [[Fire|fire]]  
 
-    Was red with the [[Blood|blood]] of the Dragon  
+Was red with the [[Blood|blood]] of the Dragon  
 
-    Whose [[Death|death]] is the world's [[Desire|desire]].  
+Whose [[Death|death]] is the world's [[Desire|desire]].  
 
-      For the horn was blown in the heart of the [[Night|night]]  
+For the horn was blown in the heart of the [[Night|night]]  
 
-      That men should rise and ride,  
+That men should rise and ride,  
 
-      Keeping the tryst of a terrible jest  
+Keeping the tryst of a terrible jest  
 
-      Never for long untried;  
+Never for long untried;  
 
-      Drinking a dreadful [[Blood|blood]] for wine,  
+Drinking a dreadful [[Blood|blood]] for wine,  
 
-      Never in cup or can,  
+Never in cup or can,  
 
-      The [[Death|death]] of a deathless Dragon,  
+The [[Death|death]] of a deathless Dragon,  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Solo il tuo volto indimenticato:  
 
-    e il tuo capo levato ai cieli [[Alone|solo]]  
+e il tuo capo levato ai cieli [[Alone|solo]]  
 
-    quando venivi oltre la collina.  
+quando venivi oltre la collina.  
 
-    IL MAR ROSSO  
+IL MAR ROSSO  
 
-    Le nostre anime saranno Leviatani  
+Le nostre anime saranno Leviatani  
 
-    in purpurei mari di vino  
+in purpurei mari di vino  
 
-    quando l'ebbrezza sarà morta con la [[Death|morte]],  
+quando l'ebbrezza sarà morta con la [[Death|morte]],  
 
-    e il bere sarà tutto divino;  
+e il bere sarà tutto divino;  
 
-    apprendendo in quei tini immortali  
+apprendendo in quei tini immortali  
 
-    che cosa significhino i vigneti mortali;  
+che cosa significhino i vigneti mortali;  
 
-    poiché solo in cielo sapremo  
+poiché solo in cielo sapremo  
 
-    quanto siamo stati felici.  
+quanto siamo stati felici.  
 
-    Come nubi che si rotolano nel [[Wind|vento]]  
+Come nubi che si rotolano nel [[Wind|vento]]  
 
-    siate liberi di andare alla deriva e bere;  
+siate liberi di andare alla deriva e bere;  
 
-    torreggiare senza insolenza quando sorgiamo,  
+torreggiare senza insolenza quando sorgiamo,  
 
-    senza resa affondare:  
+senza resa affondare:  
 
-    [[Dreams|Sogni]] vertiginosi e folli conosceremo  
+[[Dreams|Sogni]] vertiginosi e folli conosceremo  
 
-    e non avremo bisogno di scrivere  
+e non avremo bisogno di scrivere  
 
-    le nostre innocenti bestemmie di lode,  
+le nostre innocenti bestemmie di lode,  
 
-    i nostri incubi di delizia.  
+i nostri incubi di delizia.  
 
-    Poiché così, in forma tanto deforme,  
+Poiché così, in forma tanto deforme,  
 
-    la visione mi venne,  
+la visione mi venne,  
 
-    dove tali delfini titanici e oscuri  
+dove tali delfini titanici e oscuri  
 
-    si rotolano in un mare al tramonto:  
+si rotolano in un mare al tramonto:  
 
-    cupi di colori densi, strani e forti  
+cupi di colori densi, strani e forti  
 
-    come il terribile e vero [[Love|amore]],  
+come il terribile e vero [[Love|amore]],  
 
-    aureolati come pesci in luce di fosforo  
+aureolati come pesci in luce di fosforo  
 
-    si muovono i mostri santi.  
+si muovono i mostri santi.  
 
-    Qui è misura e legge, da apprendere,  
+Qui è misura e legge, da apprendere,  
 
-    quando l'[[Honour|onore]] così comanda,  
+quando l'[[Honour|onore]] così comanda,  
 
-    alzare il calice e posarlo  
+alzare il calice e posarlo  
 
-    o spezzare il calice e andare.  
+o spezzare il calice e andare.  
 
-    Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
+Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
 
-    dalla vigna del Nuovo Noè,  
+dalla vigna del Nuovo Noè,  
 
-    Le nostre anime saranno Leviatani  
+Le nostre anime saranno Leviatani  
 
-    in sanguigni mari di vino.  
+in sanguigni mari di vino.  
 
-    PER UN MONUMENTO AI CADUTI  
+PER UN MONUMENTO AI CADUTI  
 
-    _([[Inscription|Iscrizione]] suggerita, probabilmente non scelta dalla_  
+_([[Inscription|Iscrizione]] suggerita, probabilmente non scelta dalla_  
 
-    _Commissione.)_  
+_Commissione.)_  
 
-    I merciai mercanteggiano al mercato,  
+I merciai mercanteggiano al mercato,  
 
-    le auto e i carri passano;  
+le auto e i carri passano;  
 
-    senati e scuole proseguono ronzando;  
+senati e scuole proseguono ronzando;  
 
-    poiché le cose morte non possono morire.  
+poiché le cose morte non possono morire.  
 
-    Una [[Storm|tempesta]] calò sul luogo delle tombe  
+Una [[Storm|tempesta]] calò sul luogo delle tombe  
 
-    con folgori per schiantare e squarciare;  
+con folgori per schiantare e squarciare;  
 
-    ma questi sono nomi di molti uomini  
+ma questi sono nomi di molti uomini  
 
-    che il [[Lightning|fulmine]] trovò vivi.  
+che il [[Lightning|fulmine]] trovò vivi.  
 
-    Se gli usurai regnano e i diritti [[Decay|decadono]]  
+Se gli usurai regnano e i diritti [[Decay|decadono]]  
 
-    e le visioni scorgono ancora una volta  
+e le visioni scorgono ancora una volta  
 
-    la grande Cartagine come una conchiglia d'oro  
+la grande Cartagine come una conchiglia d'oro  
 
-    spalancarsi vuota sulla riva,  
+spalancarsi vuota sulla riva,  
 
-    fino all'ultimo del [[Time|tempo]] che si sgretola  
+fino all'ultimo del [[Time|tempo]] che si sgretola  
 
-    su questa pietra si legga  
+su questa pietra si legga  
 
-    quanti uomini d'Inghilterra morirono  
+quanti uomini d'Inghilterra morirono  
 
-    per provare che non erano morti.  
+per provare che non erano morti.  
 
-    [[Memory|MEMORIA]]  
+[[Memory|MEMORIA]]  
 
-    Se mai tornerò a Baltimora,  
+Se mai tornerò a Baltimora,  
 
-    la [[City|città]] del Maryland,  
+la [[City|città]] del Maryland,  
 
-    di nuovo mi mancheranno, come già mi mancarono,  
+di nuovo mi mancheranno, come già mi mancarono,  
 
-    mille cose che il mondo tiene in serbo,  
+mille cose che il mondo tiene in serbo,  
 
-    la storia che sta in ogni porta  
+la storia che sta in ogni porta  
 
-    e con ogni mano fa cenno.  
+e con ogni mano fa cenno.  
 
-    Non saprò dove i legami furono spezzati  
+Non saprò dove i legami furono spezzati  
 
-    e cento fedi liberate,  
+e cento fedi liberate,  
 
-    dove un cavaliere errante aveva dato  
+dove un cavaliere errante aveva dato  
 
-    il suo centesimo nome alla [[Queen|Regina]] del Cielo,  
+il suo centesimo nome alla [[Queen|Regina]] del Cielo,  
 
-    e fece oblazione di faide perdonate  
+e fece oblazione di faide perdonate  
 
-    a Nostra Signora della Libertà.  
+a Nostra Signora della Libertà.  
 
-    Non percorrerò i sentieri della gloria  
+Non percorrerò i sentieri della gloria  
 
-    dove la guerra non arrise ai forti;  
+dove la guerra non arrise ai forti;  
 
-    quando Lee, l'ultimo degli eroi, venne  
+quando Lee, l'ultimo degli eroi, venne  
 
-    con gli Uomini del Sud e una [[Flag|bandiera]] come fiamma,  
+con gli Uomini del Sud e una [[Flag|bandiera]] come fiamma,  
 
-    e chiamò la terra col suo dolce nome  
+e chiamò la terra col suo dolce nome  
 
-    nel [[Song|canto]] indimenticato.  
+nel [[Song|canto]] indimenticato.  
 
-    Se mai [[Cross|attraverserò]] il mare e vagherò  
+Se mai [[Cross|attraverserò]] il mare e vagherò  
 
-    fino alla [[City|città]] del Maryland,  
+fino alla [[City|città]] del Maryland,  
 
-    siederò su una pietra a vegliare o pregare  
+siederò su una pietra a vegliare o pregare  
 
-    per il [[Child|bambino]] d'uno straniero che vi fu un giorno:  
+per il [[Child|bambino]] d'uno straniero che vi fu un giorno:  
 
-    e il [[Child|bambino]] non tornerà mai più a giocare,  
+e il [[Child|bambino]] non tornerà mai più a giocare,  
 
-    e nessuno capirà.  
+e nessuno capirà.  
 
-    LE TOMBE INGLESI  
+LE TOMBE INGLESI  
 
-    Fossi io quel cittadino errante la cui [[City|città]] è il mondo,  
+Fossi io quel cittadino errante la cui [[City|città]] è il mondo,  
 
-    non piangerei tutto ciò che cadde prima che le bandiere fossero ammainate;  
+non piangerei tutto ciò che cadde prima che le bandiere fossero ammainate;  
 
-    non lascerei che un solo mormorio guastasse le trombe che squillano  
+non lascerei che un solo mormorio guastasse le trombe che squillano  
 
-    come Dio si stancò dei re, e del freddo inferno del nord.  
+come Dio si stancò dei re, e del freddo inferno del nord.  
 
-    Ma noi, i cui cuori sono [[Birds|uccelli]] che tornano al nido, abbiamo pensieri più gravi della [[Home|casa]],  
+Ma noi, i cui cuori sono [[Birds|uccelli]] che tornano al nido, abbiamo pensieri più gravi della [[Home|casa]],  
 
-    benché le grandi aquile ardano d'oro su [[Paris|Parigi]] o su Roma,  
+benché le grandi aquile ardano d'oro su [[Paris|Parigi]] o su Roma,  
 
-    noi che stiamo presso i nostri morti e fissiamo, come veggenti a un'eclissi,  
+noi che stiamo presso i nostri morti e fissiamo, come veggenti a un'eclissi,  
 
-    l'[[Riddle|enigma]] della storia dell'isola e il crepuscolo delle navi.  
+l'[[Riddle|enigma]] della storia dell'isola e il crepuscolo delle navi.  
 
-    Poiché questi erano uomini semplici che amavano con mani e piedi e occhi,  
+Poiché questi erano uomini semplici che amavano con mani e piedi e occhi,  
 
-    le cui anime s'umiliavano alle colline e si restringevano ai cieli,  
+le cui anime s'umiliavano alle colline e si restringevano ai cieli,  
 
-    le cento piccole terre che giacciono dentro un'unica piccola terra,  
+le cento piccole terre che giacciono dentro un'unica piccola terra,  
 
-    dove il Severn cerca le isole del tramonto o il Sussex scala il cielo.  
+dove il Severn cerca le isole del tramonto o il Sussex scala il cielo.  
 
-    E ciò che è loro, benché i vessilli sventolino su Varsavia risorta,  
+E ciò che è loro, benché i vessilli sventolino su Varsavia risorta,  
 
-    o l'antico riso cammini in oro tra le vigne della Lorena,  
+o l'antico riso cammini in oro tra le vigne della Lorena,  
 
-    i loro morti sono segnati su pietre inglesi, i loro amori su alberi inglesi,  
+i loro morti sono segnati su pietre inglesi, i loro amori su alberi inglesi,  
 
-    quanto è piccolo il premio che vincono, quanto misera moneta per costoro--  
+quanto è piccolo il premio che vincono, quanto misera moneta per costoro--  
 
-    quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:  
+quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:  
 
-    morirono per salvare il loro paese e salvarono soltanto il mondo.  
+morirono per salvare il loro paese e salvarono soltanto il mondo.  
 
-    [[nightmare|INCUBO]]  
+[[nightmare|INCUBO]]  
 
-    Il leopardo d'argento e viola della [[Night|notte]]  
+Il leopardo d'argento e viola della [[Night|notte]]  
 
-    chiazzato di [[Stars|stelle]] e liscio di [[Silence|silenzio]] balzò;  
+chiazzato di [[Stars|stelle]] e liscio di [[Silence|silenzio]] balzò;  
 
-    e benché tre porte fossero aperte, la fine della luce  
+e benché tre porte fossero aperte, la fine della luce  
 
-    si chiuse come una trappola; e l'immobilità fu un clangore.  
+si chiuse come una trappola; e l'immobilità fu un clangore.  
 
-    Sotto il cielo di leopardo dalle [[Stars|stelle]] fosche  
+Sotto il cielo di leopardo dalle [[Stars|stelle]] fosche  
 
-    lottai col malvagio [[Sleep|sonno]] per tutta la calda [[Night|notte]],  
+lottai col malvagio [[Sleep|sonno]] per tutta la calda [[Night|notte]],  
 
-    [[Dreams|Sogni]] muti e gonfi di trionfi senza guerre,  
+[[Dreams|Sogni]] muti e gonfi di trionfi senza guerre,  
 
-    di tromba senza lingua e gong che non risponde.  
+di tromba senza lingua e gong che non risponde.  
 
-    Vidi passare un pallido fasto imperiale,  
+Vidi passare un pallido fasto imperiale,  
 
-    elmo e mitra cornuta e pesante corona;  
+elmo e mitra cornuta e pesante corona;  
 
-    le loro alte e strane insegne pendevano dal cielo  
+le loro alte e strane insegne pendevano dal cielo  
 
-    e i loro grandi scudi erano come le porte della [[Death|morte]].  
+e i loro grandi scudi erano come le porte della [[Death|morte]].  
 
-    Le loro mitre erano come piramidi in cammino  
+Le loro mitre erano come piramidi in cammino  
 
-    e tutte le loro corone alte come torri in marcia;  
+e tutte le loro corone alte come torri in marcia;  
 
-    i loro occhi erano freddi sotto le palpebre scolpite  
+i loro occhi erano freddi sotto le palpebre scolpite  
 
-    e lo stesso sorriso scolpito era su tutti loro.  
+e lo stesso sorriso scolpito era su tutti loro.  
 
-    Su una pianura lastricata che pareva senza fine  
+Su una pianura lastricata che pareva senza fine  
 
-    passavano senza vacillare finché essa trovò un termine  
+passavano senza vacillare finché essa trovò un termine  
 
-    in un lungo e basso gradino; e costoro, scendendo,  
+in un lungo e basso gradino; e costoro, scendendo,  
 
-    ripresero il cammino, di nuovo con lunga via da percorrere.  
+ripresero il cammino, di nuovo con lunga via da percorrere.  
 
-    Pensai che viaggiassero da mille anni;  
+Pensai che viaggiassero da mille anni;  
 
-    e alla fine non v'era nulla per tutti loro,  
+e alla fine non v'era nulla per tutti loro,  
 
-    malgrado tutto quello splendore di scettri e di lance,  
+malgrado tutto quello splendore di scettri e di lance,  
 
-    se non un nuovo gradino, un'altra facile caduta.  
+se non un nuovo gradino, un'altra facile caduta.  
 
-    Il sorriso di pietra pareva solo un poco meno,  
+Il sorriso di pietra pareva solo un poco meno,  
 
-    il carico d'argento solo un poco più:  
+il carico d'argento solo un poco più:  
 
-    e sempre v'era quella desolazione a terrazze  
+e sempre v'era quella desolazione a terrazze  
 
-    e la pianura digradante lastricata come il pavimento d'un palazzo.  
+e la pianura digradante lastricata come il pavimento d'un palazzo.  
 
-    Ruggine rossa come sangue strisciava sulle loro armi possenti  
+Ruggine rossa come sangue strisciava sulle loro armi possenti  
 
-    e sui loro volti rughe e non cicatrici:  
+e sui loro volti rughe e non cicatrici:  
 
-    finché il sogno d'un tratto finì; rumore e luce  
+finché il sogno d'un tratto finì; rumore e luce  
 
-    sciolsero la tirannia delle [[Stars|stelle]] tropicali.  
+sciolsero la tirannia delle [[Stars|stelle]] tropicali.  
 
-    Ma sopra di loro, come un sole sotterraneo,  
+Ma sopra di loro, come un sole sotterraneo,  
 
-    vidi il segno di tutti i demoni caduti;  
+vidi il segno di tutti i demoni caduti;  
 
-    e una voce selvaggia gridò «Affrèttati e finiscila,  
+e una voce selvaggia gridò «Affrèttati e finiscila,  
 
-    non v'è ripidezza nelle scale dell'inferno?»  
+non v'è ripidezza nelle scale dell'inferno?»  
 
-    Colui che ritorna, Colui che rimane il medesimo,  
+Colui che ritorna, Colui che rimane il medesimo,  
 
-    girò il mondo reale e rotondo, la Sua morsa di ferro;  
+girò il mondo reale e rotondo, la Sua morsa di ferro;  
 
-    giù per i grigi sentieri del [[Garden|giardino]] un uccello chiamò due volte,  
+giù per i grigi sentieri del [[Garden|giardino]] un uccello chiamò due volte,  
 
-    e attraverso tre porte entrò la misteriosa luce del giorno.  
+e attraverso tre porte entrò la misteriosa luce del giorno.  
 
-    UNA SECONDA [[Childhood|INFANZIA]]  
+UNA SECONDA [[Childhood|INFANZIA]]  
 
-    Quando tutti i miei giorni finiranno  
+Quando tutti i miei giorni finiranno  
 
-    e non avrò più [[Song|canto]] da cantare,  
+e non avrò più [[Song|canto]] da cantare,  
 
-    penso che non sarò troppo vecchio  
+penso che non sarò troppo vecchio  
 
-    per fissare ogni cosa;  
+per fissare ogni cosa;  
 
-    come un tempo fissavo la porta d'una stanza di bimbi  
+come un tempo fissavo la porta d'una stanza di bimbi  
 
-    o un albero alto e un'altalena.  
+o un albero alto e un'altalena.  
 
-    In cui la ponderosa [[Mercy|misericordia]] di Dio pende  
+In cui la ponderosa [[Mercy|misericordia]] di Dio pende  
 
-    su tutti i miei peccati e su me,  
+su tutti i miei peccati e su me,  
 
-    perché Egli non toglie  
+perché Egli non toglie  
 
-    il terrore dall'albero  
+il terrore dall'albero  
 
-    e le pietre ancora brillano lungo la [[Road|strada]]  
+e le pietre ancora brillano lungo la [[Road|strada]]  
 
-    che sono e non possono essere.  
+che sono e non possono essere.  
 
-    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
 
-    gli uomini invecchiano troppo per il vino,  
+gli uomini invecchiano troppo per il vino,  
 
-    ma io non invecchierò troppo per vedere  
+ma io non invecchierò troppo per vedere  
 
-    splendere una luce ultraterrena,  
+splendere una luce ultraterrena,  
 
-    mutando la [[Dust|polvere]] della mia stanza in [[Snow|neve]]  
+mutando la [[Dust|polvere]] della mia stanza in [[Snow|neve]]  
 
-    finché [[Doubt|dubito]] che sia mia.  
+finché [[Doubt|dubito]] che sia mia.  
 
-    Ecco, le supreme misericordie si sciolgono,  
+Ecco, le supreme misericordie si sciolgono,  
 
-    le prime meraviglie restano;  
+le prime meraviglie restano;  
 
-    e nella mia scoria è caduto un dono  
+e nella mia scoria è caduto un dono  
 
-    per il quale non oso pregare:  
+per il quale non oso pregare:  
 
-    che un uomo s'abitui al dolore e alla gioia  
+che un uomo s'abitui al dolore e alla gioia  
 
-    ma non alla [[Night|notte]] e al giorno.  
+ma non alla [[Night|notte]] e al giorno.  
 
-    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
 
-    gli uomini invecchiano troppo per le menzogne;  
+gli uomini invecchiano troppo per le menzogne;  
 
-    ma io non invecchierò troppo per vedere  
+ma io non invecchierò troppo per vedere  
 
-    sorgere l'enorme [[Night|notte]],  
+sorgere l'enorme [[Night|notte]],  
 
-    una nube più grande del mondo  
+una nube più grande del mondo  
 
-    e un [[Monster|mostro]] fatto di occhi.  
+e un [[Monster|mostro]] fatto di occhi.  
 
-    Né son degno di sciogliere  
+Né son degno di sciogliere  
 
-    il legaccio del mio calzare;  
+il legaccio del mio calzare;  
 
-    o scuotere la [[Dust|polvere]] dai miei piedi  
+o scuotere la [[Dust|polvere]] dai miei piedi  
 
-    o il bastone che mi sorregge  
+o il bastone che mi sorregge  
 
-    su un suolo troppo bello per durare,  
+su un suolo troppo bello per durare,  
 
-    troppo solido per esser vero.  
+troppo solido per esser vero.  
 
-    Gli uomini invecchiano troppo per corteggiare, [[Love|amore]] mio,  
+Gli uomini invecchiano troppo per corteggiare, [[Love|amore]] mio,  
 
-    gli uomini invecchiano troppo per sposarsi:  
+gli uomini invecchiano troppo per sposarsi:  
 
-    ma io non invecchierò troppo per vedere  
+ma io non invecchierò troppo per vedere  
 
-    appese follemente lassù  
+appese follemente lassù  
 
-    incredibili travi quando mi desto  
+incredibili travi quando mi desto  
 
-    e scopro che non sono morto.  
+e scopro che non sono morto.  
 
-    Un brivido di tuono tra i capelli:  
+Un brivido di tuono tra i capelli:  
 
-    benché nubi che s'anneriscono siano manifeste,  
+benché nubi che s'anneriscono siano manifeste,  
 
-    ancora sono punto e trasalisco  
+ancora sono punto e trasalisco  
 
-    alla prima goccia di pioggia:  
+alla prima goccia di pioggia:  
 
-    [[Romance|il romanzesco]] e l'[[Pride|orgoglio]] e la passione passano  
+[[Romance|il romanzesco]] e l'[[Pride|orgoglio]] e la passione passano  
 
-    e questi sono ciò che resta.  
+e questi sono ciò che resta.  
 
-    Strani tappeti striscianti dell'erba,  
+Strani tappeti striscianti dell'erba,  
 
-    ampie finestre del cielo:  
+ampie finestre del cielo:  
 
-    così, in questa perigliosa grazia di Dio,  
+così, in questa perigliosa grazia di Dio,  
 
-    con tutti i miei peccati io vado:  
+con tutti i miei peccati io vado:  
 
-    e le cose si fanno nuove benché io invecchi,  
+e le cose si fanno nuove benché io invecchi,  
 
-    benché io invecchi e muoia.  
+benché io invecchi e muoia.  
 
-    «MEDIEVALISMO»  
+«MEDIEVALISMO»  
 
-    Se gli uomini sorgessero e tornassero al frastuono e al [[Time|tempo]] del torneo,  
+Se gli uomini sorgessero e tornassero al frastuono e al [[Time|tempo]] del torneo,  
 
-    al nome e alla fama della tabarda, all'intrico di rosso e d'oro,  
+al nome e alla fama della tabarda, all'intrico di rosso e d'oro,  
 
-    reggerebbero queste cose e basterebbero come meta d'un [[Journey|viaggio]]  
+reggerebbero queste cose e basterebbero come meta d'un [[Journey|viaggio]]  
 
-      all'indietro,  
+all'indietro,  
 
-    una luce che ritorna sui nostri giorni, come era nei giorni antichi?  
+una luce che ritorna sui nostri giorni, come era nei giorni antichi?  
 
-    No, nessuno cavalca indietro a raccogliere un guanto o una piuma,  
+No, nessuno cavalca indietro a raccogliere un guanto o una piuma,  
 
-    benché il guanto d'arme risuonasse d'[[Honour|onore]] o il pennacchio valesse più d'una  
+benché il guanto d'arme risuonasse d'[[Honour|onore]] o il pennacchio valesse più d'una  
 
-      [[Crown|corona]]:  
+[[Crown|corona]]:  
 
-    e tace la tromba santa che chiamava a raccolta le nazioni  
+e tace la tromba santa che chiamava a raccolta le nazioni  
 
-    e sotto i Corni di Hattin la [[Hope|speranza]] del mondo tramontò.  
+e sotto i Corni di Hattin la [[Hope|speranza]] del mondo tramontò.  
 
-    Ah, non serbata nel ricordo, ma balzando fuori dall'oblio,  
+Ah, non serbata nel ricordo, ma balzando fuori dall'oblio,  
 
-    perché avete cercato nuove dimore e tutto ciò che cercaste è così,  
+perché avete cercato nuove dimore e tutto ciò che cercaste è così,  
 
-    perché avevate calpestato il [[Fire|fuoco]] e sbarrato la porta nel partire,  
+perché avevate calpestato il [[Fire|fuoco]] e sbarrato la porta nel partire,  
 
-    ritorna nel vostro [[Exile|esilio]] prescelto la gloria di tanto tempo fa.  
+ritorna nel vostro [[Exile|esilio]] prescelto la gloria di tanto tempo fa.  
 
-    Non allora, quando sbarraste la porta, non allora, quando calpestaste le braci,  
+Non allora, quando sbarraste la porta, non allora, quando calpestaste le braci,  
 
-    ma ora, al termine della vostra nuova [[Road|strada]], avete visto il volto d'un fato,  
+ma ora, al termine della vostra nuova [[Road|strada]], avete visto il volto d'un fato,  
 
-    che non come un [[Child|bambino]] guarda indietro, e non come uno [[Fool|sciocco]] ricorda,  
+che non come un [[Child|bambino]] guarda indietro, e non come uno [[Fool|sciocco]] ricorda,  
 
-    tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[Love|amano]] troppo tardi.  
+tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[Love|amano]] troppo tardi.  
 
-    Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
+Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
 
-    i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
+i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
 
-    è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[Decay|disfacimento]] scopre  
+è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[Decay|disfacimento]] scopre  
 
-    vivo nel vostro cimitero in putrefazione il verme del [[Desire|desiderio]] del mondo?  
+vivo nel vostro cimitero in putrefazione il verme del [[Desire|desiderio]] del mondo?  
 
-    Perciò i vecchi alberi torreggiano, perché i verdi alberi crescano e restino  
+Perciò i vecchi alberi torreggiano, perché i verdi alberi crescano e restino  
 
-      stentati:  
+stentati:  
 
-    perciò questi morti vi deridono, perché voi, i vivi, siete morti:  
+perciò questi morti vi deridono, perché voi, i vivi, siete morti:  
 
-    da quando percuoteste i santi e gli strumenti dei vostri mestieri furono  
+da quando percuoteste i santi e gli strumenti dei vostri mestieri furono  
 
-      spuntati,  
+spuntati,  
 
-    o frantumaste il vetro nella sua gloria e vi caricaste del  
+o frantumaste il vetro nella sua gloria e vi caricaste del  
 
-      piombo.  
+piombo.  
 
-    Quando l'usuraio dà la caccia allo scudiero come lo scudiero ha dato la caccia al contadino,  
+Quando l'usuraio dà la caccia allo scudiero come lo scudiero ha dato la caccia al contadino,  
 
-    come pecore divorate dai vermi là dove gli uomini furono divorati dalle pecore:  
+come pecore divorate dai vermi là dove gli uomini furono divorati dalle pecore:  
 
-    ora è il giudizio della terra, e la pesatura del passato e del presente,  
+ora è il giudizio della terra, e la pesatura del passato e del presente,  
 
-    voi che sdegnate di piangere sulle rovine, contemplate la vostra rovina e piangete.  
+voi che sdegnate di piangere sulle rovine, contemplate la vostra rovina e piangete.  
 
-    Non avete saputo, o sciocchi, voi che avete fatto del presente una [[Prison|prigione]],  
+Non avete saputo, o sciocchi, voi che avete fatto del presente una [[Prison|prigione]],  
 
-    che la sete può ricordare l'[[Water|acqua]] e la fame ricordare il pane?  
+che la sete può ricordare l'[[Water|acqua]] e la fame ricordare il pane?  
 
-    Non andammo a raccogliere [[Ghosts|fantasmi]]; ma lo strido della vostra vergogna si è levato  
+Non andammo a raccogliere [[Ghosts|fantasmi]]; ma lo strido della vostra vergogna si è levato  
 
-    dalla vostra stessa nera Babele troppo forte; e ha destato i morti.  
+dalla vostra stessa nera Babele troppo forte; e ha destato i morti.  
 
-    POLONIA  
+POLONIA  
 
-    Gli àuguri che osservavano [[Birds|uccelli]] arcaici  
+Gli àuguri che osservavano [[Birds|uccelli]] arcaici  
 
-    potrebbero leggere tali prodigi piumati,  
+potrebbero leggere tali prodigi piumati,  
 
-    le aquile che erano a [[Double|doppia]] faccia,  
+le aquile che erano a [[Double|doppia]] faccia,  
 
-    l'aquila che era nera davvero;  
+l'aquila che era nera davvero;  
 
-    e quando gli [[Birds|uccelli]] da battaglia caddero  
+e quando gli [[Birds|uccelli]] da battaglia caddero  
 
-    e sulla loro scia vengono gli avvoltoi,  
+e sulla loro scia vengono gli avvoltoi,  
 
-    sappiamo quale perdono e quale pace  
+sappiamo quale perdono e quale pace  
 
-    terranno muti i nostri piccoli padroni.  
+terranno muti i nostri piccoli padroni.  
 
-    Gli uomini che vendono ciò che altri fanno,  
+Gli uomini che vendono ciò che altri fanno,  
 
-    come gli avvoltoi mangiano ciò che altri uccidono,  
+come gli avvoltoi mangiano ciò che altri uccidono,  
 
-    proveranno, accostando piuma a piuma,  
+proveranno, accostando piuma a piuma,  
 
-    che nulla è nero e tutto è grigio;  
+che nulla è nero e tutto è grigio;  
 
-    grigio come quelle squallide colombe che un tempo,  
+grigio come quelle squallide colombe che un tempo,  
 
-    palpate e prezzate dai cambiavalute,  
+palpate e prezzate dai cambiavalute,  
 
-    tra il fracasso dei tavoli sbatterono le ali  
+tra il fracasso dei tavoli sbatterono le ali  
 
-    e s'accalcarono per sfuggire all'ira di [[Christ|Cristo]].  
+e s'accalcarono per sfuggire all'ira di [[Christ|Cristo]].  
 
-    Ma innalzata per sempre come un segno,  
+Ma innalzata per sempre come un segno,  
 
-    da quando Dio rese gloriosa l'ira,  
+da quando Dio rese gloriosa l'ira,  
 
-    là dove aquile nere e avvoltoi grigi  
+là dove aquile nere e avvoltoi grigi  
 
-    tornarono a stormo intorno all'eroica [[house|casa]],  
+tornarono a stormo intorno all'eroica [[house|casa]],  
 
-    dove la guerra è più santa della pace,  
+dove la guerra è più santa della pace,  
 
-    dove l'odio è più santo dell'[[Love|amore]],  
+dove l'odio è più santo dell'[[Love|amore]],  
 
-    splendette, terribile come lo [[Ghost|Spirito]] Santo,  
+splendette, terribile come lo [[Ghost|Spirito]] Santo,  
 
-    un'aquila più bianca d'una colomba.  
+un'aquila più bianca d'una colomba.  
 
-    LA CACCIA AL DRAGO  
+LA CACCIA AL DRAGO  
 
-    Quando andavamo a caccia del Drago  
+Quando andavamo a caccia del Drago  
 
-    nei giorni in cui eravamo giovani,  
+nei giorni in cui eravamo giovani,  
 
-    ci gettammo il mondo lucente sulla spalla  
+ci gettammo il mondo lucente sulla spalla  
 
-    come corno e budriere a tracolla;  
+come corno e budriere a tracolla;  
 
-    mai vi fu mondo così selvaggio e bello  
+mai vi fu mondo così selvaggio e bello  
 
-    come quello che passava sul [[Wind|vento]],  
+come quello che passava sul [[Wind|vento]],  
 
-    mai tali campi di paradiso  
+mai tali campi di paradiso  
 
-    come i campi che lasciammo dietro:  
+come i campi che lasciammo dietro:  
 
-      poiché questo è il meglio d'un riposo per gli uomini,  
+poiché questo è il meglio d'un riposo per gli uomini,  
 
-      che gli uomini sorgano e cavalchino  
+che gli uomini sorgano e cavalchino  
 
-      facendo una fatata terra volante  
+facendo una fatata terra volante  
 
-      di mercato e di campagna,  
+di mercato e di campagna,  
 
-      ali sul casolare, ali sul bosco,  
+ali sul casolare, ali sul bosco,  
 
-      ali su pentola e tegame,  
+ali su pentola e tegame,  
 
-      per la caccia al Drago:  
+per la caccia al Drago:  
 
-      questa è la vita d'un uomo.  
+questa è la vita d'un uomo.  
 
-    Poiché gli uomini si stancano della terra fatata  
+Poiché gli uomini si stancano della terra fatata  
 
-    quando il Drago è [[A Dream|un sogno]],  
+quando il Drago è [[A Dream|un sogno]],  
 
-    e si stancano dell'uccello parlante sull'albero,  
+e si stancano dell'uccello parlante sull'albero,  
 
-    del pesce che canta nel ruscello;  
+del pesce che canta nel ruscello;  
 
-    e le [[Stars|stelle]] erranti si fanno stantie, si fanno stantie,  
+e le [[Stars|stelle]] erranti si fanno stantie, si fanno stantie,  
 
-    e la [[Wonder|meraviglia]] s'irrigidisce di scherno;  
+e la [[Wonder|meraviglia]] s'irrigidisce di scherno;  
 
-    poiché questo è l'[[Honour|onore]] della terra fatata  
+poiché questo è l'[[Honour|onore]] della terra fatata  
 
-    e il seguire del corno;  
+e il seguire del corno;  
 
-      [[Beauty|Bellezza]] su [[Beauty|bellezza]] ci richiamava  
+[[Beauty|Bellezza]] su [[Beauty|bellezza]] ci richiamava  
 
-      quando potevamo sorgere e cavalcare,  
+quando potevamo sorgere e cavalcare,  
 
-      e una donna s'affacciava a ogni [[Window|finestra]]  
+e una donna s'affacciava a ogni [[Window|finestra]]  
 
-      meravigliosa come una sposa:  
+meravigliosa come una sposa:  
 
-      e l'insegna della taverna sfolgorava come una tabarda,  
+e l'insegna della taverna sfolgorava come una tabarda,  
 
-      e i bambini esultavano e correvano,  
+e i bambini esultavano e correvano,  
 
-      per l'[[Love|amore]] dell'odio del Drago:  
+per l'[[Love|amore]] dell'odio del Drago:  
 
-      questo è l'[[Pride|orgoglio]] d'un uomo.  
+questo è l'[[Pride|orgoglio]] d'un uomo.  
 
-    I sapienti lo chiamarono un'[[Shadow|ombra]]  
+I sapienti lo chiamarono un'[[Shadow|ombra]]  
 
-    e la luce si spense dal sole:  
+e la luce si spense dal sole:  
 
-    e i savi ci dissero che tutto andava [[Well|bene]]  
+e i savi ci dissero che tutto andava [[Well|bene]]  
 
-    e tutto era stanco e uno solo:  
+e tutto era stanco e uno solo:  
 
-    e allora, e allora, nel quieto [[Garden|giardino]],  
+e allora, e allora, nel quieto [[Garden|giardino]],  
 
-    senza mai un'erbaccia da estirpare,  
+senza mai un'erbaccia da estirpare,  
 
-    sapemmo che la sua coda lucente aveva brillato  
+sapemmo che la sua coda lucente aveva brillato  
 
-    nella bianca [[Road|strada]] oltre la [[Hill|collina]]:  
+nella bianca [[Road|strada]] oltre la [[Hill|collina]]:  
 
-    sapemmo che le nubi erano falde di fiamma,  
+sapemmo che le nubi erano falde di fiamma,  
 
-    sapemmo che il [[Fire|fuoco]] del tramonto  
+sapemmo che il [[Fire|fuoco]] del tramonto  
 
-    era rosso del [[Blood|sangue]] del Drago  
+era rosso del [[Blood|sangue]] del Drago  
 
-    la cui [[Death|morte]] è il [[Desire|desiderio]] del mondo.  
+la cui [[Death|morte]] è il [[Desire|desiderio]] del mondo.  
 
-      Poiché il corno fu suonato nel cuore della [[Night|notte]],  
+Poiché il corno fu suonato nel cuore della [[Night|notte]],  
 
-      che gli uomini sorgano e cavalchino,  
+che gli uomini sorgano e cavalchino,  
 
-      mantenendo il convegno d'un terribile scherzo  
+mantenendo il convegno d'un terribile scherzo  
 
-      mai a lungo lasciato intentato;  
+mai a lungo lasciato intentato;  
 
-      bevendo un tremendo [[Blood|sangue]] per vino,  
+bevendo un tremendo [[Blood|sangue]] per vino,  
 
-      mai in coppa o in boccale,  
+mai in coppa o in boccale,  
 
-      la [[Death|morte]] d'un Drago senza morte,
+la [[Death|morte]] d'un Drago senza morte,
 
 
 
 <span class="atom-split" data-atom="part--part_04" data-title="BalladStBarbara (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      That is the life of a man.  
+That is the life of a man.  
 
-    [[Sonnet|SONNET]]  
+[[Sonnet|SONNET]]  
 
-    High on the wall that holds Jerusalem  
+High on the wall that holds Jerusalem  
 
-    I saw one stand under the [[Stars|stars]] like stone.  
+I saw one stand under the [[Stars|stars]] like stone.  
 
-    And when I perish it shall not be known  
+And when I perish it shall not be known  
 
-    Whether he lived, some strolling son of Shem,  
+Whether he lived, some strolling son of Shem,  
 
-    Or was some great [[Ghost|ghost]] wearing the diadem  
+Or was some great [[Ghost|ghost]] wearing the diadem  
 
-    Of Solomon or Saladin on a throne:  
+Of Solomon or Saladin on a throne:  
 
-    I only know, the features being unshown,  
+I only know, the features being unshown,  
 
-    I did not dare draw near and look on them.  
+I did not dare draw near and look on them.  
 
-    Did ye not guess ... the diadem might be  
+Did ye not guess ... the diadem might be  
 
-    Plaited in stranger style by hands of hate ...  
+Plaited in stranger style by hands of hate ...  
 
-    But when I looked, the wall was desolate  
+But when I looked, the wall was desolate  
 
-    And the grey starlight powdered tower and tree:  
+And the grey starlight powdered tower and tree:  
 
-    And vast and vague beyond the Golden Gate  
+And vast and vague beyond the Golden Gate  
 
-    Heaved Moab of the [[Mountains|mountains]] like a sea.  
+Heaved Moab of the [[Mountains|mountains]] like a sea.  
 
-    FANTASIA  
+FANTASIA  
 
-    The happy men that lose their heads  
+The happy men that lose their heads  
 
-    They find their heads in heaven,  
+They find their heads in heaven,  
 
-    As cherub heads with cherub wings,  
+As cherub heads with cherub wings,  
 
-    And cherub haloes even:  
+And cherub haloes even:  
 
-    Out of the infinite evening lands  
+Out of the infinite evening lands  
 
-    Along the sunset sea,  
+Along the sunset sea,  
 
-    Leaving the purple fields behind,  
+Leaving the purple fields behind,  
 
-    The cherub wings beat down the [[Wind|wind]]  
+The cherub wings beat down the [[Wind|wind]]  
 
-    Back to the groping [[Body|body]] and blind  
+Back to the groping [[Body|body]] and blind  
 
-    As the bird back to the tree.  
+As the bird back to the tree.  
 
-    Whether the plumes be passion-red  
+Whether the plumes be passion-red  
 
-    For him that truly dies  
+For him that truly dies  
 
-    By headsmen's blade or battle-axe,  
+By headsmen's blade or battle-axe,  
 
-    Or blue like butterflies,  
+Or blue like butterflies,  
 
-    For him that lost it in a lane  
+For him that lost it in a lane  
 
-    In April's fits and starts,  
+In April's fits and starts,  
 
-    His folly is forgiven then:  
+His folly is forgiven then:  
 
-    But higher, and far beyond our ken,  
+But higher, and far beyond our ken,  
 
-    Is the healing of the unhappy men,  
+Is the healing of the unhappy men,  
 
-    The men that lost their hearts.  
+The men that lost their hearts.  
 
-    Is there not pardon for the brave  
+Is there not pardon for the brave  
 
-    And broad release above,  
+And broad release above,  
 
-    Who lost their heads for liberty  
+Who lost their heads for liberty  
 
-    Or lost their hearts for [[Love|love]]?  
+Or lost their hearts for [[Love|love]]?  
 
-    Or is the wise man wise indeed  
+Or is the wise man wise indeed  
 
-    Whom larger thoughts keep whole?  
+Whom larger thoughts keep whole?  
 
-    Who sees life equal like a chart,  
+Who sees life equal like a chart,  
 
-    Made strong to play the saner part,  
+Made strong to play the saner part,  
 
-    And keep his head and keep his heart,  
+And keep his head and keep his heart,  
 
-    And only lose his [[Soul|soul]].  
+And only lose his [[Soul|soul]].  
 
-    A CHRISTMAS [[carol|CAROL]]  
+A CHRISTMAS [[carol|CAROL]]  
 
-    _(The Chief Constable has issued a statement declaring that  
+_(The Chief Constable has issued a statement declaring that  
 
-    [[carol]] singing in the streets by children is illegal, and morally  
+[[carol]] singing in the streets by children is illegal, and morally  
 
-    and physically injurious. He appeals to the public to discourage  
+and physically injurious. He appeals to the public to discourage  
 
-    the practice.--Daily Paper.)_  
+the practice.--Daily Paper.)_  
 
-    God rest you merry gentlemen,  
+God rest you merry gentlemen,  
 
-    Let nothing you dismay;  
+Let nothing you dismay;  
 
-    The Herald Angels cannot sing,  
+The Herald Angels cannot sing,  
 
-    The cops arrest them on the wing,  
+The cops arrest them on the wing,  
 
-    And warn them of the docketing  
+And warn them of the docketing  
 
-    Of anything they say.  
+Of anything they say.  
 
-    God rest you merry gentlemen,  
+God rest you merry gentlemen,  
 
-    May nothing you dismay:  
+May nothing you dismay:  
 
-    On your reposeful cities lie  
+On your reposeful cities lie  
 
-    Deep [[Silence|silence]], broken only by  
+Deep [[Silence|silence]], broken only by  
 
-    The motor horn's melodious cry,  
+The motor horn's melodious cry,  
 
-    The hooter's happy bray.  
+The hooter's happy bray.  
 
-    So, when the [[Song|song]] of children ceased  
+So, when the [[Song|song]] of children ceased  
 
-    And Herod was obeyed,  
+And Herod was obeyed,  
 
-    In his high hall Corinthian  
+In his high hall Corinthian  
 
-    With purple and with peacock fan,  
+With purple and with peacock fan,  
 
-    Rested that merry gentleman;  
+Rested that merry gentleman;  
 
-    And nothing him dismayed.  
+And nothing him dismayed.  
 
-    TO CAPTAIN FRYATT  
+TO CAPTAIN FRYATT  
 
-    Trampled yet red is the last of the embers,  
+Trampled yet red is the last of the embers,  
 
-    Red the last cloud of a sun that has set;  
+Red the last cloud of a sun that has set;  
 
-    What of your sleeping though Flanders remembers,  
+What of your sleeping though Flanders remembers,  
 
-    What of your waking, if England forget?  
+What of your waking, if England forget?  
 
-    Why should you share in the hearts that we harden,  
+Why should you share in the hearts that we harden,  
 
-    In the shame of our [[Nature|nature]], who see it and live?  
+In the shame of our [[Nature|nature]], who see it and live?  
 
-    How more than the godly the greedy can pardon,  
+How more than the godly the greedy can pardon,  
 
-    How [[Well|well]] and how quickly the hungry forgive.  
+How [[Well|well]] and how quickly the hungry forgive.  
 
-    Ah, [[Well|well]] if the soil of the stranger had wrapped you,  
+Ah, [[Well|well]] if the soil of the stranger had wrapped you,  
 
-    While the lords that you served and the friends that you knew  
+While the lords that you served and the friends that you knew  
 
-    Hawk in the marts of the tyrants that trapped you,  
+Hawk in the marts of the tyrants that trapped you,  
 
-    Tout in the shops of the butchers that slew.  
+Tout in the shops of the butchers that slew.  
 
-    Why should you wake for a realm that is rotten,  
+Why should you wake for a realm that is rotten,  
 
-    Stuffed with their bribes and as dead to their debts?  
+Stuffed with their bribes and as dead to their debts?  
 
-    [[Sleep]] and forget us, as we have forgotten;  
+[[Sleep]] and forget us, as we have forgotten;  
 
-    For Flanders remembers and England forgets.  
+For Flanders remembers and England forgets.  
 
-    FOR FOUR GUILDS  
+FOR FOUR GUILDS  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    I. THE GLASS-STAINERS  
+I. THE GLASS-STAINERS  
 
-    To every Man his Mystery,  
+To every Man his Mystery,  
 
-    A trade and only one:  
+A trade and only one:  
 
-    The masons make the hives of men,  
+The masons make the hives of men,  
 
-    The domes of grey or dun,  
+The domes of grey or dun,  
 
-    But we have wrought in [[Rose|rose]] and gold  
+But we have wrought in [[Rose|rose]] and gold  
 
-    The houses of the sun.  
+The houses of the sun.  
 
-    The shipwrights build the houses high,  
+The shipwrights build the houses high,  
 
-    Whose green foundations sway  
+Whose green foundations sway  
 
-    Alive with fish like little flames,  
+Alive with fish like little flames,  
 
-    When the [[Wind|wind]] goes out to slay.  
+When the [[Wind|wind]] goes out to slay.  
 
-    But we abide with painted sails  
+But we abide with painted sails  
 
-    The cyclone of the day.  
+The cyclone of the day.  
 
-    The weavers make the clothes of men  
+The weavers make the clothes of men  
 
-    And coats for everyone;  
+And coats for everyone;  
 
-    They walk the streets like sunset clouds;  
+They walk the streets like sunset clouds;  
 
-    But we have woven and spun  
+But we have woven and spun  
 
-    In scarlet or in golden-green  
+In scarlet or in golden-green  
 
-    The gay coats of the sun.  
+The gay coats of the sun.  
 
-    You whom the usurers and the lords  
+You whom the usurers and the lords  
 
-    With insolent liveries trod,  
+With insolent liveries trod,  
 
-    Deep in dark church behold, above  
+Deep in dark church behold, above  
 
-    Their lance-lengths by a rod,  
+Their lance-lengths by a rod,  
 
-    Where we have blazed the tabard  
+Where we have blazed the tabard  
 
-    Of the trumpeter of God.  
+Of the trumpeter of God.  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    II. THE BRIDGE-BUILDERS  
+II. THE BRIDGE-BUILDERS  
 
-    In the world's whitest morning  
+In the world's whitest morning  
 
-    As hoary with [[Hope|hope]],  
+As hoary with [[Hope|hope]],  
 
-    The Builder of Bridges  
+The Builder of Bridges  
 
-    Was priest and was pope:  
+Was priest and was pope:  
 
-    And the mitre of mystery  
+And the mitre of mystery  
 
-    And the canopy his,  
+And the canopy his,  
 
-    Who darkened the chasms  
+Who darkened the chasms  
 
-    And domed the abyss.  
+And domed the abyss.  
 
-    To eastward and westward  
+To eastward and westward  
 
-    Spread wings at his word  
+Spread wings at his word  
 
-    The arch with the key-stone  
+The arch with the key-stone  
 
-    That stoops like a bird;  
+That stoops like a bird;  
 
-    That rides the wild air  
+That rides the wild air  
 
-    And the daylight cast under;  
+And the daylight cast under;  
 
-    The highway of danger,  
+The highway of danger,  
 
-    The gateway of [[Wonder|wonder]].  
+The gateway of [[Wonder|wonder]].  
 
-    Of his throne were the thunders  
+Of his throne were the thunders  
 
-    That rivet and fix  
+That rivet and fix  
 
-    Wild weddings of strangers  
+Wild weddings of strangers  
 
-    That meet and not mix;  
+That meet and not mix;  
 
-    The town and the cornland;  
+The town and the cornland;  
 
-    The bride and the groom:  
+The bride and the groom:  
 
-    In the breaking of bridges  
+In the breaking of bridges  
 
-    Is treason and doom.  
+Is treason and doom.  
 
-    But he bade us, who fashion  
+But he bade us, who fashion  
 
-    The [[Road|road]] that can fly,  
+The [[Road|road]] that can fly,  
 
-    That we build not too heavy  
+That we build not too heavy  
 
-    And build not too high:  
+And build not too high:  
 
-    Seeing alway that under  
+Seeing alway that under  
 
-    The dark arch's bend  
+The dark arch's bend  
 
-    Shine [[Death|death]] and white daylight  
+Shine [[Death|death]] and white daylight  
 
-    Unchanged to the end.  
+Unchanged to the end.  
 
-    Who walk on his [[Mercy|mercy]]  
+Who walk on his [[Mercy|mercy]]  
 
-    Walk light, as he saith,  
+Walk light, as he saith,  
 
-    Seeing that our life  
+Seeing that our life  
 
-    Is a bridge above [[Death|death]];  
+Is a bridge above [[Death|death]];  
 
-    And the world and its gardens  
+And the world and its gardens  
 
-    And hills, as ye heard,  
+And hills, as ye heard,  
 
-    Are born above space  
+Are born above space  
 
-    On the wings of a bird.  
+On the wings of a bird.  
 
-    Not high and not heavy  
+Not high and not heavy  
 
-    Is building of his:  
+Is building of his:  
 
-    When ye seal up the flood  
+When ye seal up the flood  
 
-    And forget the abyss,  
+And forget the abyss,  
 
-    When your towers are uplifted,  
+When your towers are uplifted,  
 
-    Your banners unfurled,  
+Your banners unfurled,  
 
-    In the breaking of bridges  
+In the breaking of bridges  
 
-    Is the end of the world.  
+Is the end of the world.  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    III. THE STONE-MASONS  
+III. THE STONE-MASONS  
 
-    We have graven the mountain of God with hands,  
+We have graven the mountain of God with hands,  
 
-    As our hands were graven of God, they say,  
+As our hands were graven of God, they say,  
 
-    Where the seraphs burn in the sun like brands  
+Where the seraphs burn in the sun like brands  
 
-    And the devils carry the rains away;  
+And the devils carry the rains away;  
 
-    Making a thrift of the throats of hell,  
+Making a thrift of the throats of hell,  
 
-    Our [[gargoyles]] gather the roaring rain,  
+Our [[gargoyles]] gather the roaring rain,  
 
-    Whose yawn is more than a frozen yell  
+Whose yawn is more than a frozen yell  
 
-    And their very vomiting not in vain.  
+And their very vomiting not in vain.  
 
-    Wilder than all that a tongue can utter,  
+Wilder than all that a tongue can utter,  
 
-    Wiser than all that is told in words,  
+Wiser than all that is told in words,  
 
-    The wings of stone of the soaring gutter  
+The wings of stone of the soaring gutter  
 
-    Fly out and follow the flight of the [[Birds|birds]];  
+Fly out and follow the flight of the [[Birds|birds]];  
 
-    The rush and rout of the angel wars  
+The rush and rout of the angel wars  
 
-    Stand out above the astounded street,  
+Stand out above the astounded street,  
 
-    Where we flung our gutters against the [[Stars|stars]]  
+Where we flung our gutters against the [[Stars|stars]]  
 
-    For a sign that the first and the last shall meet.  
+For a sign that the first and the last shall meet.  
 
-    We have graven the forest of heaven with hands,  
+We have graven the forest of heaven with hands,  
 
-    Being great with a mirth too gross for [[Pride|pride]],  
+Being great with a mirth too gross for [[Pride|pride]],  
 
-    In the stone that battered him Stephen stands  
+In the stone that battered him Stephen stands  
 
-    And Peter himself is petrified:  
+And Peter himself is petrified:  
 
-    Such hands as have grubbed in the glebe for bread  
+Such hands as have grubbed in the glebe for bread  
 
-    Have bidden the blank rock blossom and thrive,  
+Have bidden the blank rock blossom and thrive,  
 
-    Such hands as have stricken a live man dead  
+Such hands as have stricken a live man dead  
 
-    Have struck, and stricken the dead alive.  
+Have struck, and stricken the dead alive.  
 
-    Fold your hands before heaven in praying,  
+Fold your hands before heaven in praying,  
 
-    Lift up your hands into heaven and cry;  
+Lift up your hands into heaven and cry;  
 
-    But look where our dizziest spires are saying  
+But look where our dizziest spires are saying  
 
-    What the hands of a man did up in the sky:  
+What the hands of a man did up in the sky:  
 
-    Drenched before you have heard the thunder,  
+Drenched before you have heard the thunder,  
 
-    White before you have felt the [[Snow|snow]];  
+White before you have felt the [[Snow|snow]];  
 
-    For the giants lift up their hands to [[Wonder|wonder]]  
+For the giants lift up their hands to [[Wonder|wonder]]  
 
-    How high the hands of a man could go.  
+How high the hands of a man could go.  
 
-    FOR FOUR GUILDS:  
+FOR FOUR GUILDS:  
 
-    IV. THE BELL-RINGERS  
+IV. THE BELL-RINGERS  
 
-    The angels are singing like [[Birds|birds]] in a tree  
+The angels are singing like [[Birds|birds]] in a tree  
 
-    In the organ of good St. Cecily:  
+In the organ of good St. Cecily:  
 
-    And the parson reads with his hand upon  
+And the parson reads with his hand upon  
 
-    The graven eagle of great St. John:  
+The graven eagle of great St. John:  
 
-    But never the fluted pipes shall go  
+But never the fluted pipes shall go  
 
-    Like the fifes of an army all a-row,  
+Like the fifes of an army all a-row,  
 
-    Merrily marching down the street  
+Merrily marching down the street  
 
-    To the marts where the busy and idle meet;  
+To the marts where the busy and idle meet;  
 
-    And never the brazen bird shall fly  
+And never the brazen bird shall fly  
 
-    Out of the [[Window|window]] and into the sky,  
+Out of the [[Window|window]] and into the sky,  
 
-    Till men in cities and shires and ships  
+Till men in cities and shires and ships  
 
-    Look up at the living [[Apocalypse]].  
+Look up at the living [[Apocalypse]].  
 
-    But all can hark at the dark of even  
+But all can hark at the dark of even  
 
-    [[The Bells|The bells]] that bay like the hounds of heaven,  
+[[The Bells|The bells]] that bay like the hounds of heaven,  
 
-    Tolling and telling that over and under,  
+Tolling and telling that over and under,  
 
-    In the ways of the air like a wandering thunder,  
+In the ways of the air like a wandering thunder,  
 
-    The hunt is up over hills untrod:  
+The hunt is up over hills untrod:  
 
-    For the [[Wind|wind]] is the way of the [[dogs]] of God:  
+For the [[Wind|wind]] is the way of the [[dogs]] of God:  
 
-    From the [[Tyrant|tyrant]]'s tower to the outlaw's den  
+From the [[Tyrant|tyrant]]'s tower to the outlaw's den  
 
-    Hunting the souls of the sons of men.  
+Hunting the souls of the sons of men.  
 
-    Ruler and robber and pedlar and peer,  
+Ruler and robber and pedlar and peer,  
 
-    Who will not harken and yet will hear;  
+Who will not harken and yet will hear;  
 
-    Filling men's heads with the hurry and hum  
+Filling men's heads with the hurry and hum  
 
-    Making them welcome before they come.  
+Making them welcome before they come.  
 
-    And we poor men stand under the steeple  
+And we poor men stand under the steeple  
 
-    Drawing the cords that can draw the people,  
+Drawing the cords that can draw the people,  
 
-    And in our leash like the leaping [[dogs]]  
+And in our leash like the leaping [[dogs]]  
 
-    Are God's most deafening demagogues:  
+Are God's most deafening demagogues:  
 
-    And we are but little, like dwarfs underground,  
+And we are but little, like dwarfs underground,  
 
-    While hang up in heaven the houses of sound,  
+While hang up in heaven the houses of sound,  
 
-    Moving like [[Mountains|mountains]] that [[Faith|faith]] sets free,  
+Moving like [[Mountains|mountains]] that [[Faith|faith]] sets free,  
 
-    Yawning like caverns that roar with the sea,  
+Yawning like caverns that roar with the sea,  
 
-    As awfully loaded, as airily buoyed,  
+As awfully loaded, as airily buoyed,  
 
-    Armoured archangels that trample the void:  
+Armoured archangels that trample the void:  
 
-    Wild as with dancing and weighty with dooms,  
+Wild as with dancing and weighty with dooms,  
 
-    Heavy as their panoply, light as their plumes.  
+Heavy as their panoply, light as their plumes.  
 
-    Neither preacher nor priest are we:  
+Neither preacher nor priest are we:  
 
-    Each man mount to his own degree:  
+Each man mount to his own degree:  
 
-    Only remember that just such a cord  
+Only remember that just such a cord  
 
-    Tosses in heaven the trumpet and [[Sword|sword]];  
+Tosses in heaven the trumpet and [[Sword|sword]];  
 
-    Souls on their terraces, saints on their towers,  
+Souls on their terraces, saints on their towers,  
 
-    Rise up in arms at alarum like ours:  
+Rise up in arms at alarum like ours:  
 
-    Glow like great watchfires that redden the skies  
+Glow like great watchfires that redden the skies  
 
-    Titans whose wings are a glory of eyes,  
+Titans whose wings are a glory of eyes,  
 
-    Crowned constellations by twelves and by sevens,  
+Crowned constellations by twelves and by sevens,  
 
-    Domed dominations more old than the heavens,  
+Domed dominations more old than the heavens,  
 
-    Virtues that thunder and thrones that endure  
+Virtues that thunder and thrones that endure  
 
-    Sway like a bell to the prayers of the poor.  
+Sway like a bell to the prayers of the poor.  
 
-    THE [[convert|CONVERT]]  
+THE [[convert|CONVERT]]  
 
-    After one moment when I bowed my head  
+After one moment when I bowed my head  
 
-    And the whole world turned over and came upright,  
+And the whole world turned over and came upright,  
 
-    And I came out where the old [[Road|road]] shone white,  
+And I came out where the old [[Road|road]] shone white,  
 
-    I walked the ways and heard what all men said,  
+I walked the ways and heard what all men said,  
 
-    Forests of tongues, like [[Autumn|autumn]] [[Leaves|leaves]] unshed,  
+Forests of tongues, like [[Autumn|autumn]] [[Leaves|leaves]] unshed,  
 
-    Being not unlovable but strange and light;  
+Being not unlovable but strange and light;  
 
-    Old riddles and new creeds, not in despite  
+Old riddles and new creeds, not in despite  
 
-    But softly, as men smile about the dead.  
+But softly, as men smile about the dead.  
 
-    The sages have a hundred maps to give  
+The sages have a hundred maps to give  
 
-    That trace their crawling cosmos like a tree,  
+That trace their crawling cosmos like a tree,  
 
-    They rattle reason out through many a sieve  
+They rattle reason out through many a sieve  
 
-    That stores the sand and lets the gold go free:  
+That stores the sand and lets the gold go free:  
 
-    And all these things are less than [[Dust|dust]] to me  
+And all these things are less than [[Dust|dust]] to me  
 
-    Because my name is Lazarus and I live.  
+Because my name is Lazarus and I live.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]  
+[[songs|SONGS]] OF [[Education|EDUCATION]]  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    I. [[history|HISTORY]]  
+I. [[history|HISTORY]]  
 
-    _Form 991785, Sub-Section D_  
+_Form 991785, Sub-Section D_  
 
-    The Roman threw us a [[Road|road]], a [[Road|road]],  
+The Roman threw us a [[Road|road]], a [[Road|road]],  
 
-    And sighed and strolled away:  
+And sighed and strolled away:  
 
-    The Saxon gave us a raid, a raid,  
+The Saxon gave us a raid, a raid,  
 
-    A raid that came to stay;  
+A raid that came to stay;  
 
-    The Dane went west, but the Dane confessed  
+The Dane went west, but the Dane confessed  
 
-    That he went a bit too far;  
+That he went a bit too far;  
 
-    And we all became, by another name,  
+And we all became, by another name,  
 
-    The Imperial race we are.  
+The Imperial race we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The Imperial race, the inscrutable race,  
+The Imperial race, the inscrutable race,  
 
-    The invincible race we are.  
+The invincible race we are.  
 
-    Though Sussex hills are bare, are bare,  
+Though Sussex hills are bare, are bare,  
 
-    And Sussex weald is wide,  
+And Sussex weald is wide,  
 
-    From Chichester to Chester  
+From Chichester to Chester  
 
-    Men saw the Norman ride;  
+Men saw the Norman ride;  
 
-    He threw his [[Sword|sword]] in the air and sang  
+He threw his [[Sword|sword]] in the air and sang  
 
-    To a sort of a light guitar;  
+To a sort of a light guitar;  
 
-    It was all the same, for we all became  
+It was all the same, for we all became  
 
-    The identical nobs we are.  
+The identical nobs we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The identical nobs, individual nobs  
+The identical nobs, individual nobs  
 
-    Unmistakable nobs we are.  
+Unmistakable nobs we are.  
 
-    The people lived on the land, the land,  
+The people lived on the land, the land,  
 
-    They pottered about and prayed;  
+They pottered about and prayed;  
 
-    They built a [[Cathedral|cathedral]] here and there  
+They built a [[Cathedral|cathedral]] here and there  
 
-    Or went on a small crusade:  
+Or went on a small crusade:  
 
-    Till the bones of Becket were bundled out  
+Till the bones of Becket were bundled out  
 
-    For the fun of a fat White Czar,  
+For the fun of a fat White Czar,  
 
-    And we all became, in spoil and flame,  
+And we all became, in spoil and flame,  
 
-    The intelligent lot we are.  
+The intelligent lot we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The intelligent lot, the intuitive lot,  
+The intelligent lot, the intuitive lot,  
 
-    The infallible lot we are.  
+The infallible lot we are.  
 
-    O Warwick woods are green, are green,  
+O Warwick woods are green, are green,  
 
-    But Warwick trees can fall:  
+But Warwick trees can fall:  
 
-    And Birmingham grew so big, so big,  
+And Birmingham grew so big, so big,  
 
-    And Stratford stayed so small.  
+And Stratford stayed so small.  
 
-    Till the hooter howled to the morning lark  
+Till the hooter howled to the morning lark  
 
-    That sang to the morning star;  
+That sang to the morning star;  
 
-    And we all became, in [[Freedom|freedom]]'s name,  
+And we all became, in [[Freedom|freedom]]'s name,  
 
-    The fortunate chaps we are.  
+The fortunate chaps we are.  
 
-    _Chorus_  
+_Chorus_  
 
-    The fortunate chaps, felicitous chaps,  
+The fortunate chaps, felicitous chaps,  
 
-    The fairy-like chaps we are.  
+The fairy-like chaps we are.  
 
-    The people they left the land, the land,  
+The people they left the land, the land,  
 
-    But they went on working hard;  
+But they went on working hard;  
 
-    And the village green that had got mislaid  
+And the village green that had got mislaid  
 
-    Turned up in the squire's back-yard:  
+Turned up in the squire's back-yard:  
 
-    But twenty men of us all got work  
+But twenty men of us all got work  
 
-    On a bit of his motor car;  
+On a bit of his motor car;  
 
-    And we all became, with the world's acclaim,  
+And we all became, with the world's acclaim,  
 
-    The marvellous mugs we are:  
+The marvellous mugs we are:  
 
-    _Chorus_  
+_Chorus_  
 
-    The marvellous mugs, miraculous mugs,  
+The marvellous mugs, miraculous mugs,  
 
-    The mystical mugs we are.  
+The mystical mugs we are.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    II. GEOGRAPHY  
+II. GEOGRAPHY  
 
-    _Form 17955301, Sub-Section Z_  
+_Form 17955301, Sub-Section Z_  
 
-    The earth is a place on which England is found,  
+The earth is a place on which England is found,  
 
-    And you find it however you twirl the globe round;  
+And you find it however you twirl the globe round;  
 
-    For the spots are all red and the rest is all grey,  
+For the spots are all red and the rest is all grey,  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    Gibraltar's a rock that you see very plain,  
+Gibraltar's a rock that you see very plain,  
 
-    And attached to its base is the district of Spain.  
+And attached to its base is the district of Spain.  
 
-    And the island of Malta is marked further on,  
+And the island of Malta is marked further on,  
 
-    Where some natives were known as the Knights of St. John.  
+Where some natives were known as the Knights of St. John.  
 
-    Then Cyprus, and east to the Suez Canal,  
+Then Cyprus, and east to the Suez Canal,  
 
-    That was conquered by Dizzy and Rothschild his pal  
+That was conquered by Dizzy and Rothschild his pal  
 
-    With the [[Sword]] of the Lord in the old English way;  
+With the [[Sword]] of the Lord in the old English way;  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    Our principal imports come far as Cape Horn;  
+Our principal imports come far as Cape Horn;  
 
-    For necessities, cocoa; for luxuries, corn;  
+For necessities, cocoa; for luxuries, corn;  
 
-    Thus Brahmins are born for the rice-field, and thus,  
+Thus Brahmins are born for the rice-field, and thus,  
 
-    The Gods made the Greeks to grow currants for us;  
+The Gods made the Greeks to grow currants for us;  
 
-    Tobacco and petrol and Jazzing and Jews:  
+Tobacco and petrol and Jazzing and Jews:  
 
-    The Jazzing will pass but the Jews they will stay;  
+The Jazzing will pass but the Jews they will stay;  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    Our principal exports, all labelled and packed,  
+Our principal exports, all labelled and packed,  
 
-    At the ends of the earth are delivered intact:  
+At the ends of the earth are delivered intact:  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 questa è la vita d'un uomo.  
 
-    [[Sonnet|SONETTO]]  
+[[Sonnet|SONETTO]]  
 
-    In alto sul muro che cinge Gerusalemme  
+In alto sul muro che cinge Gerusalemme  
 
-    vidi uno stare sotto le [[Stars|stelle]] come pietra.  
+vidi uno stare sotto le [[Stars|stelle]] come pietra.  
 
-    E quando perirò non si saprà  
+E quando perirò non si saprà  
 
-    se egli visse, qualche vagante figlio di Sem,  
+se egli visse, qualche vagante figlio di Sem,  
 
-    o fu qualche grande [[Ghost|spettro]] che portava il diadema  
+o fu qualche grande [[Ghost|spettro]] che portava il diadema  
 
-    di Salomone o del Saladino su un trono:  
+di Salomone o del Saladino su un trono:  
 
-    so soltanto, restando i lineamenti nascosti,  
+so soltanto, restando i lineamenti nascosti,  
 
-    che non osai avvicinarmi e guardarli.  
+che non osai avvicinarmi e guardarli.  
 
-    Non indovinaste... che il diadema potesse essere  
+Non indovinaste... che il diadema potesse essere  
 
-    intrecciato in foggia più strana da mani d'odio...  
+intrecciato in foggia più strana da mani d'odio...  
 
-    Ma quando guardai, il muro era desolato  
+Ma quando guardai, il muro era desolato  
 
-    e la grigia luce delle stelle incipriava torre e albero:  
+e la grigia luce delle stelle incipriava torre e albero:  
 
-    e vasto e vago oltre la Porta d'Oro  
+e vasto e vago oltre la Porta d'Oro  
 
-    s'ergeva Moab dei [[Mountains|monti]] come un mare.  
+s'ergeva Moab dei [[Mountains|monti]] come un mare.  
 
-    FANTASIA  
+FANTASIA  
 
-    Gli uomini felici che perdono la testa  
+Gli uomini felici che perdono la testa  
 
-    ritrovano la loro testa in cielo,  
+ritrovano la loro testa in cielo,  
 
-    come teste di cherubino con ali di cherubino,  
+come teste di cherubino con ali di cherubino,  
 
-    e persino aureole di cherubino:  
+e persino aureole di cherubino:  
 
-    dalle infinite terre della sera  
+dalle infinite terre della sera  
 
-    lungo il mare del tramonto,  
+lungo il mare del tramonto,  
 
-    lasciandosi dietro i campi purpurei,  
+lasciandosi dietro i campi purpurei,  
 
-    le ali di cherubino battono giù per il [[Wind|vento]]  
+le ali di cherubino battono giù per il [[Wind|vento]]  
 
-    verso il [[Body|corpo]] brancolante e cieco  
+verso il [[Body|corpo]] brancolante e cieco  
 
-    come l'uccello all'albero.  
+come l'uccello all'albero.  
 
-    Che le piume siano rosse di passione  
+Che le piume siano rosse di passione  
 
-    per colui che davvero muore  
+per colui che davvero muore  
 
-    per lama del boia o per scure di guerra,  
+per lama del boia o per scure di guerra,  
 
-    o azzurre come farfalle,  
+o azzurre come farfalle,  
 
-    per colui che la perdette in un viottolo  
+per colui che la perdette in un viottolo  
 
-    tra gli scatti e i sussulti d'aprile,  
+tra gli scatti e i sussulti d'aprile,  
 
-    la sua follia è allora perdonata:  
+la sua follia è allora perdonata:  
 
-    ma più in alto, e assai oltre il nostro sguardo,  
+ma più in alto, e assai oltre il nostro sguardo,  
 
-    è la guarigione degli uomini infelici,  
+è la guarigione degli uomini infelici,  
 
-    gli uomini che perdettero il cuore.  
+gli uomini che perdettero il cuore.  
 
-    Non v'è perdono per i valorosi  
+Non v'è perdono per i valorosi  
 
-    e ampia liberazione lassù,  
+e ampia liberazione lassù,  
 
-    per chi perse la testa per la libertà  
+per chi perse la testa per la libertà  
 
-    o perse il cuore per [[Love|amore]]?  
+o perse il cuore per [[Love|amore]]?  
 
-    O è forse davvero saggio il saggio  
+O è forse davvero saggio il saggio  
 
-    che pensieri più ampi mantengono intero?  
+che pensieri più ampi mantengono intero?  
 
-    che vede la vita uniforme come una carta,  
+che vede la vita uniforme come una carta,  
 
-    fatto forte per recitare la parte più assennata,  
+fatto forte per recitare la parte più assennata,  
 
-    e serba la testa e serba il cuore,  
+e serba la testa e serba il cuore,  
 
-    e perde soltanto l'[[Soul|anima]].  
+e perde soltanto l'[[Soul|anima]].  
 
-    UN [[carol|CANTO]] DI NATALE  
+UN [[carol|CANTO]] DI NATALE  
 
-    _(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
+_(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
 
-    _il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
+_il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
 
-    _e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
+_e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
 
-    _tale usanza.--Quotidiano.)_  
+_tale usanza.--Quotidiano.)_  
 
-    Dio vi conservi lieti, o signori,  
+Dio vi conservi lieti, o signori,  
 
-    nulla vi sgomenti;  
+nulla vi sgomenti;  
 
-    gli Angeli Araldi non possono cantare,  
+gli Angeli Araldi non possono cantare,  
 
-    i poliziotti li arrestano a volo,  
+i poliziotti li arrestano a volo,  
 
-    e li ammoniscono della registrazione  
+e li ammoniscono della registrazione  
 
-    di qualunque cosa dicano.  
+di qualunque cosa dicano.  
 
-    Dio vi conservi lieti, o signori,  
+Dio vi conservi lieti, o signori,  
 
-    che nulla vi sgomenti:  
+che nulla vi sgomenti:  
 
-    sulle vostre città riposanti giace  
+sulle vostre città riposanti giace  
 
-    un profondo [[Silence|silenzio]], rotto solo  
+un profondo [[Silence|silenzio]], rotto solo  
 
-    dal grido melodioso del clacson,  
+dal grido melodioso del clacson,  
 
-    dal lieto raglio della sirena.  
+dal lieto raglio della sirena.  
 
-    Così, quando il [[Song|canto]] dei bambini cessò  
+Così, quando il [[Song|canto]] dei bambini cessò  
 
-    ed Erode fu obbedito,  
+ed Erode fu obbedito,  
 
-    nella sua alta sala corinzia  
+nella sua alta sala corinzia  
 
-    con la porpora e col ventaglio di pavone,  
+con la porpora e col ventaglio di pavone,  
 
-    riposava quel lieto signore;  
+riposava quel lieto signore;  
 
-    e nulla lo sgomentava.  
+e nulla lo sgomentava.  
 
-    AL CAPITANO FRYATT  
+AL CAPITANO FRYATT  
 
-    Calpestata eppur rossa è l'ultima delle braci,  
+Calpestata eppur rossa è l'ultima delle braci,  
 
-    rossa l'ultima nube d'un sole tramontato;  
+rossa l'ultima nube d'un sole tramontato;  
 
-    che importa del tuo dormire, se pur le Fiandre ricordano,  
+che importa del tuo dormire, se pur le Fiandre ricordano,  
 
-    che importa del tuo destarti, se l'Inghilterra dimentica?  
+che importa del tuo destarti, se l'Inghilterra dimentica?  
 
-    Perché dovresti aver parte nei cuori che induriamo,  
+Perché dovresti aver parte nei cuori che induriamo,  
 
-    nella vergogna della nostra [[Nature|natura]], noi che la vediamo e viviamo?  
+nella vergogna della nostra [[Nature|natura]], noi che la vediamo e viviamo?  
 
-    Quanto più dei pii sanno perdonare gli avidi,  
+Quanto più dei pii sanno perdonare gli avidi,  
 
-    quanto [[Well|bene]] e quanto presto perdonano gli affamati.  
+quanto [[Well|bene]] e quanto presto perdonano gli affamati.  
 
-    Ah, [[Well|bene]] sarebbe stato se il suolo dello straniero t'avesse avvolto,  
+Ah, [[Well|bene]] sarebbe stato se il suolo dello straniero t'avesse avvolto,  
 
-    mentre i signori che servisti e gli amici che conoscesti  
+mentre i signori che servisti e gli amici che conoscesti  
 
-    vendono per i mercati dei tiranni che t'intrapparono,  
+vendono per i mercati dei tiranni che t'intrapparono,  
 
-    fanno i procacciatori nelle botteghe dei macellai che uccisero.  
+fanno i procacciatori nelle botteghe dei macellai che uccisero.  
 
-    Perché dovresti destarti per un regno che è marcio,  
+Perché dovresti destarti per un regno che è marcio,  
 
-    rimpinzato delle loro tangenti e morto ai loro debiti?  
+rimpinzato delle loro tangenti e morto ai loro debiti?  
 
-    [[Sleep|Dormi]] e dimenticaci, come noi abbiamo dimenticato;  
+[[Sleep|Dormi]] e dimenticaci, come noi abbiamo dimenticato;  
 
-    poiché le Fiandre ricordano e l'Inghilterra dimentica.  
+poiché le Fiandre ricordano e l'Inghilterra dimentica.  
 
-    PER QUATTRO CORPORAZIONI  
+PER QUATTRO CORPORAZIONI  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    I. I MAESTRI DELLE VETRATE  
+I. I MAESTRI DELLE VETRATE  
 
-    A ogni Uomo il suo Mistero,  
+A ogni Uomo il suo Mistero,  
 
-    un mestiere e uno solo:  
+un mestiere e uno solo:  
 
-    i muratori fanno gli alveari degli uomini,  
+i muratori fanno gli alveari degli uomini,  
 
-    le cupole grigie o fosche,  
+le cupole grigie o fosche,  
 
-    ma noi abbiamo foggiato in [[Rose|rosa]] e oro  
+ma noi abbiamo foggiato in [[Rose|rosa]] e oro  
 
-    le case del sole.  
+le case del sole.  
 
-    I maestri d'ascia costruiscono le case alte,  
+I maestri d'ascia costruiscono le case alte,  
 
-    le cui verdi fondamenta ondeggiano  
+le cui verdi fondamenta ondeggiano  
 
-    vive di pesci come piccole fiamme,  
+vive di pesci come piccole fiamme,  
 
-    quando il [[Wind|vento]] esce a uccidere.  
+quando il [[Wind|vento]] esce a uccidere.  
 
-    Ma noi sfidiamo con vele dipinte  
+Ma noi sfidiamo con vele dipinte  
 
-    il ciclone del giorno.  
+il ciclone del giorno.  
 
-    I tessitori fanno le vesti degli uomini  
+I tessitori fanno le vesti degli uomini  
 
-    e mantelli per tutti;  
+e mantelli per tutti;  
 
-    camminano per le vie come nubi del tramonto;  
+camminano per le vie come nubi del tramonto;  
 
-    ma noi abbiamo tessuto e filato  
+ma noi abbiamo tessuto e filato  
 
-    in scarlatto o in verde dorato  
+in scarlatto o in verde dorato  
 
-    i gai mantelli del sole.  
+i gai mantelli del sole.  
 
-    Voi che gli usurai e i signori  
+Voi che gli usurai e i signori  
 
-    con insolenti livree calpestarono,  
+con insolenti livree calpestarono,  
 
-    nel fondo della buia chiesa mirate, sopra  
+nel fondo della buia chiesa mirate, sopra  
 
-    le loro lance d'una pertica,  
+le loro lance d'una pertica,  
 
-    dove noi abbiamo blasonato la tabarda  
+dove noi abbiamo blasonato la tabarda  
 
-    del trombettiere di Dio.  
+del trombettiere di Dio.  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    II. I COSTRUTTORI DI PONTI  
+II. I COSTRUTTORI DI PONTI  
 
-    Nel più bianco mattino del mondo  
+Nel più bianco mattino del mondo  
 
-    canuto di [[Hope|speranza]],  
+canuto di [[Hope|speranza]],  
 
-    il Costruttore di Ponti  
+il Costruttore di Ponti  
 
-    era prete ed era papa:  
+era prete ed era papa:  
 
-    e la mitra del mistero  
+e la mitra del mistero  
 
-    e il baldacchino erano suoi,  
+e il baldacchino erano suoi,  
 
-    lui che oscurava gli abissi  
+lui che oscurava gli abissi  
 
-    e incupolava la voragine.  
+e incupolava la voragine.  
 
-    A oriente e a occidente  
+A oriente e a occidente  
 
-    spiegava le ali al suo comando  
+spiegava le ali al suo comando  
 
-    l'arco con la chiave di volta  
+l'arco con la chiave di volta  
 
-    che si china come un uccello;  
+che si china come un uccello;  
 
-    che cavalca l'aria selvaggia  
+che cavalca l'aria selvaggia  
 
-    e la luce del giorno gettata sotto;  
+e la luce del giorno gettata sotto;  
 
-    la via maestra del pericolo,  
+la via maestra del pericolo,  
 
-    il portale della [[Wonder|meraviglia]].  
+il portale della [[Wonder|meraviglia]].  
 
-    Del suo trono erano i tuoni  
+Del suo trono erano i tuoni  
 
-    che inchiodano e fissano  
+che inchiodano e fissano  
 
-    selvagge nozze di stranieri  
+selvagge nozze di stranieri  
 
-    che s'incontrano e non si mescolano;  
+che s'incontrano e non si mescolano;  
 
-    la città e il campo di grano;  
+la città e il campo di grano;  
 
-    la sposa e lo sposo:  
+la sposa e lo sposo:  
 
-    nello spezzarsi dei ponti  
+nello spezzarsi dei ponti  
 
-    è tradimento e rovina.  
+è tradimento e rovina.  
 
-    Ma egli ci comandò, noi che foggiamo  
+Ma egli ci comandò, noi che foggiamo  
 
-    la [[Road|strada]] che sa volare,  
+la [[Road|strada]] che sa volare,  
 
-    di non costruire troppo pesante  
+di non costruire troppo pesante  
 
-    e di non costruire troppo alto:  
+e di non costruire troppo alto:  
 
-    vedendo sempre che sotto  
+vedendo sempre che sotto  
 
-    la curva dell'arco oscuro  
+la curva dell'arco oscuro  
 
-    brillano la [[Death|morte]] e la bianca luce del giorno  
+brillano la [[Death|morte]] e la bianca luce del giorno  
 
-    immutate fino alla fine.  
+immutate fino alla fine.  
 
-    Chi cammina sulla sua [[Mercy|misericordia]]  
+Chi cammina sulla sua [[Mercy|misericordia]]  
 
-    cammina leggero, com'egli dice,  
+cammina leggero, com'egli dice,  
 
-    vedendo che la nostra vita  
+vedendo che la nostra vita  
 
-    è un ponte sopra la [[Death|morte]];  
+è un ponte sopra la [[Death|morte]];  
 
-    e il mondo e i suoi giardini  
+e il mondo e i suoi giardini  
 
-    e i colli, come udiste,  
+e i colli, come udiste,  
 
-    sono nati sopra lo spazio  
+sono nati sopra lo spazio  
 
-    sulle ali d'un uccello.  
+sulle ali d'un uccello.  
 
-    Non alto e non pesante  
+Non alto e non pesante  
 
-    è il costruire di lui:  
+è il costruire di lui:  
 
-    quando sigillate la piena  
+quando sigillate la piena  
 
-    e dimenticate l'abisso,  
+e dimenticate l'abisso,  
 
-    quando le vostre torri sono innalzate,  
+quando le vostre torri sono innalzate,  
 
-    i vostri vessilli spiegati,  
+i vostri vessilli spiegati,  
 
-    nello spezzarsi dei ponti  
+nello spezzarsi dei ponti  
 
-    è la fine del mondo.  
+è la fine del mondo.  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    III. GLI SCALPELLINI  
+III. GLI SCALPELLINI  
 
-    Abbiamo scolpito la montagna di Dio con le mani,  
+Abbiamo scolpito la montagna di Dio con le mani,  
 
-    come le nostre mani furono scolpite da Dio, dicono,  
+come le nostre mani furono scolpite da Dio, dicono,  
 
-    dove i serafini ardono nel sole come tizzoni  
+dove i serafini ardono nel sole come tizzoni  
 
-    e i diavoli portano via le piogge;  
+e i diavoli portano via le piogge;  
 
-    facendo tesoro delle gole dell'inferno,  
+facendo tesoro delle gole dell'inferno,  
 
-    i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
+i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
 
-    il cui sbadiglio è più d'un urlo congelato  
+il cui sbadiglio è più d'un urlo congelato  
 
-    e il cui stesso vomitare non è vano.  
+e il cui stesso vomitare non è vano.  
 
-    Più selvagge di tutto ciò che una lingua può proferire,  
+Più selvagge di tutto ciò che una lingua può proferire,  
 
-    più sagge di tutto ciò che è detto in parole,  
+più sagge di tutto ciò che è detto in parole,  
 
-    le ali di pietra della grondaia che s'innalza  
+le ali di pietra della grondaia che s'innalza  
 
-    volano fuori e seguono il volo degli [[Birds|uccelli]];  
+volano fuori e seguono il volo degli [[Birds|uccelli]];  
 
-    l'impeto e la disfatta delle guerre angeliche  
+l'impeto e la disfatta delle guerre angeliche  
 
-    si stagliano sopra la via stupefatta,  
+si stagliano sopra la via stupefatta,  
 
-    dove scagliammo le nostre grondaie contro le [[Stars|stelle]]  
+dove scagliammo le nostre grondaie contro le [[Stars|stelle]]  
 
-    in segno che il primo e l'ultimo s'incontreranno.  
+in segno che il primo e l'ultimo s'incontreranno.  
 
-    Abbiamo scolpito la foresta del cielo con le mani,  
+Abbiamo scolpito la foresta del cielo con le mani,  
 
-    grandi d'un'allegria troppo greve per l'[[Pride|orgoglio]],  
+grandi d'un'allegria troppo greve per l'[[Pride|orgoglio]],  
 
-    nella pietra che lo percosse sta Stefano  
+nella pietra che lo percosse sta Stefano  
 
-    e Pietro stesso è pietrificato:  
+e Pietro stesso è pietrificato:  
 
-    mani come quelle che frugarono la zolla per il pane  
+mani come quelle che frugarono la zolla per il pane  
 
-    hanno comandato alla nuda roccia di fiorire e prosperare,  
+hanno comandato alla nuda roccia di fiorire e prosperare,  
 
-    mani come quelle che colpirono a morte un uomo vivo  
+mani come quelle che colpirono a morte un uomo vivo  
 
-    hanno colpito, e destato in vita i morti.  
+hanno colpito, e destato in vita i morti.  
 
-    Giungete le mani davanti al cielo pregando,  
+Giungete le mani davanti al cielo pregando,  
 
-    levate le mani al cielo e gridate;  
+levate le mani al cielo e gridate;  
 
-    ma guardate dove le nostre guglie più vertiginose dicono  
+ma guardate dove le nostre guglie più vertiginose dicono  
 
-    ciò che le mani d'un uomo fecero lassù nel cielo:  
+ciò che le mani d'un uomo fecero lassù nel cielo:  
 
-    fradici prima che abbiate udito il tuono,  
+fradici prima che abbiate udito il tuono,  
 
-    bianchi prima che abbiate sentito la [[Snow|neve]];  
+bianchi prima che abbiate sentito la [[Snow|neve]];  
 
-    poiché i giganti levano le mani a [[Wonder|meravigliarsi]]  
+poiché i giganti levano le mani a [[Wonder|meravigliarsi]]  
 
-    di quanto in alto le mani d'un uomo potessero salire.  
+di quanto in alto le mani d'un uomo potessero salire.  
 
-    PER QUATTRO CORPORAZIONI:  
+PER QUATTRO CORPORAZIONI:  
 
-    IV. I CAMPANARI  
+IV. I CAMPANARI  
 
-    Gli angeli cantano come [[Birds|uccelli]] su un albero  
+Gli angeli cantano come [[Birds|uccelli]] su un albero  
 
-    nell'organo della buona santa Cecilia:  
+nell'organo della buona santa Cecilia:  
 
-    e il parroco legge con la mano posata  
+e il parroco legge con la mano posata  
 
-    sull'aquila scolpita del grande san Giovanni:  
+sull'aquila scolpita del grande san Giovanni:  
 
-    ma mai le canne scanalate andranno  
+ma mai le canne scanalate andranno  
 
-    come i pifferi d'un esercito tutto in fila,  
+come i pifferi d'un esercito tutto in fila,  
 
-    marciando allegri giù per la via  
+marciando allegri giù per la via  
 
-    verso i mercati dove s'incontrano l'affaccendato e l'ozioso;  
+verso i mercati dove s'incontrano l'affaccendato e l'ozioso;  
 
-    e mai l'uccello di bronzo volerà  
+e mai l'uccello di bronzo volerà  
 
-    fuori dalla [[Window|finestra]] e su nel cielo,  
+fuori dalla [[Window|finestra]] e su nel cielo,  
 
-    finché gli uomini in città e contee e navi  
+finché gli uomini in città e contee e navi  
 
-    guardino in alto la vivente [[Apocalypse|Apocalisse]].  
+guardino in alto la vivente [[Apocalypse|Apocalisse]].  
 
-    Ma tutti possono ascoltare nel buio della sera  
+Ma tutti possono ascoltare nel buio della sera  
 
-    [[The Bells|le campane]] che latrano come i mastini del cielo,  
+[[The Bells|le campane]] che latrano come i mastini del cielo,  
 
-    rintoccando e annunciando che sopra e sotto,  
+rintoccando e annunciando che sopra e sotto,  
 
-    per le vie dell'aria come un tuono errante,  
+per le vie dell'aria come un tuono errante,  
 
-    la caccia è aperta su colli mai calcati:  
+la caccia è aperta su colli mai calcati:  
 
-    poiché il [[Wind|vento]] è la via dei [[dogs|cani]] di Dio:  
+poiché il [[Wind|vento]] è la via dei [[dogs|cani]] di Dio:  
 
-    dalla torre del [[Tyrant|tiranno]] alla tana del fuorilegge  
+dalla torre del [[Tyrant|tiranno]] alla tana del fuorilegge  
 
-    cacciando le anime dei figli degli uomini.  
+cacciando le anime dei figli degli uomini.  
 
-    Sovrano e ladro e merciaio e pari,  
+Sovrano e ladro e merciaio e pari,  
 
-    che non vogliono ascoltare e pure udranno;  
+che non vogliono ascoltare e pure udranno;  
 
-    riempiendo le teste degli uomini di fretta e ronzio  
+riempiendo le teste degli uomini di fretta e ronzio  
 
-    rendendoli benvenuti prima che vengano.  
+rendendoli benvenuti prima che vengano.  
 
-    E noi, poveri uomini, stiamo sotto il campanile  
+E noi, poveri uomini, stiamo sotto il campanile  
 
-    tirando le corde che sanno tirare il popolo,  
+tirando le corde che sanno tirare il popolo,  
 
-    e al nostro guinzaglio come i [[dogs|cani]] che balzano  
+e al nostro guinzaglio come i [[dogs|cani]] che balzano  
 
-    siamo i più assordanti demagoghi di Dio:  
+siamo i più assordanti demagoghi di Dio:  
 
-    e siamo ben piccoli, come nani sottoterra,  
+e siamo ben piccoli, come nani sottoterra,  
 
-    mentre pendono su nel cielo le case del suono,  
+mentre pendono su nel cielo le case del suono,  
 
-    muovendosi come [[Mountains|monti]] che la [[Faith|fede]] libera,  
+muovendosi come [[Mountains|monti]] che la [[Faith|fede]] libera,  
 
-    sbadigliando come caverne che rombano col mare,  
+sbadigliando come caverne che rombano col mare,  
 
-    così tremendamente cariche, così ariosamente sospese,  
+così tremendamente cariche, così ariosamente sospese,  
 
-    arcangeli corazzati che calpestano il vuoto:  
+arcangeli corazzati che calpestano il vuoto:  
 
-    selvagge come in una danza e greve di fati,  
+selvagge come in una danza e greve di fati,  
 
-    pesanti come la loro panoplia, lievi come le loro piume.  
+pesanti come la loro panoplia, lievi come le loro piume.  
 
-    Né predicatori né preti siamo:  
+Né predicatori né preti siamo:  
 
-    ogni uomo salga al proprio grado:  
+ogni uomo salga al proprio grado:  
 
-    solo ricordate che proprio una tal corda  
+solo ricordate che proprio una tal corda  
 
-    scaglia in cielo la tromba e la [[Sword|spada]];  
+scaglia in cielo la tromba e la [[Sword|spada]];  
 
-    anime sulle loro terrazze, santi sulle loro torri,  
+anime sulle loro terrazze, santi sulle loro torri,  
 
-    sorgono in armi a un allarme come il nostro:  
+sorgono in armi a un allarme come il nostro:  
 
-    risplendono come grandi fuochi di vedetta che arrossano i cieli  
+risplendono come grandi fuochi di vedetta che arrossano i cieli  
 
-    Titani le cui ali sono una gloria di occhi,  
+Titani le cui ali sono una gloria di occhi,  
 
-    costellazioni coronate a dodici e a sette,  
+costellazioni coronate a dodici e a sette,  
 
-    dominazioni incupolate più antiche dei cieli,  
+dominazioni incupolate più antiche dei cieli,  
 
-    Virtù che tuonano e Troni che durano  
+Virtù che tuonano e Troni che durano  
 
-    oscillano come una campana alle preghiere dei poveri.  
+oscillano come una campana alle preghiere dei poveri.  
 
-    IL [[convert|CONVERTITO]]  
+IL [[convert|CONVERTITO]]  
 
-    Dopo un solo istante in cui chinai il capo  
+Dopo un solo istante in cui chinai il capo  
 
-    e il mondo intero si capovolse e si rimise ritto,  
+e il mondo intero si capovolse e si rimise ritto,  
 
-    e uscii là dove la vecchia [[Road|strada]] biancheggiava,  
+e uscii là dove la vecchia [[Road|strada]] biancheggiava,  
 
-    percorsi le vie e udii ciò che tutti dicevano,  
+percorsi le vie e udii ciò che tutti dicevano,  
 
-    foreste di lingue, come [[Leaves|foglie]] d'[[Autumn|autunno]] non cadute,  
+foreste di lingue, come [[Leaves|foglie]] d'[[Autumn|autunno]] non cadute,  
 
-    non prive d'amabilità, ma strane e lievi;  
+non prive d'amabilità, ma strane e lievi;  
 
-    vecchi enigmi e nuovi credi, non per dispetto  
+vecchi enigmi e nuovi credi, non per dispetto  
 
-    ma dolcemente, come si sorride dei morti.  
+ma dolcemente, come si sorride dei morti.  
 
-    I sapienti hanno cento mappe da dare  
+I sapienti hanno cento mappe da dare  
 
-    che tracciano il loro cosmo strisciante come un albero,  
+che tracciano il loro cosmo strisciante come un albero,  
 
-    scuotono fuori la ragione attraverso più d'un vaglio  
+scuotono fuori la ragione attraverso più d'un vaglio  
 
-    che serba la sabbia e lascia libero l'oro:  
+che serba la sabbia e lascia libero l'oro:  
 
-    e tutte queste cose sono meno della [[Dust|polvere]] per me  
+e tutte queste cose sono meno della [[Dust|polvere]] per me  
 
-    perché il mio nome è Lazzaro e io vivo.  
+perché il mio nome è Lazzaro e io vivo.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    I. [[history|STORIA]]  
+I. [[history|STORIA]]  
 
-    _Modulo 991785, Sottosezione D_  
+_Modulo 991785, Sottosezione D_  
 
-    Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
+Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
 
-    e sospirò e se ne andò a passeggio:  
+e sospirò e se ne andò a passeggio:  
 
-    il Sassone ci diede una scorreria, una scorreria,  
+il Sassone ci diede una scorreria, una scorreria,  
 
-    una scorreria venuta per restare;  
+una scorreria venuta per restare;  
 
-    il Danese andò a ovest, ma il Danese confessò  
+il Danese andò a ovest, ma il Danese confessò  
 
-    d'essere andato un po' troppo oltre;  
+d'essere andato un po' troppo oltre;  
 
-    e tutti diventammo, sotto un altro nome,  
+e tutti diventammo, sotto un altro nome,  
 
-    la razza Imperiale che siamo.  
+la razza Imperiale che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    La razza Imperiale, la razza imperscrutabile,  
+La razza Imperiale, la razza imperscrutabile,  
 
-    la razza invincibile che siamo.  
+la razza invincibile che siamo.  
 
-    Benché i colli del Sussex siano nudi, nudi,  
+Benché i colli del Sussex siano nudi, nudi,  
 
-    e ampia la boscaglia del Sussex,  
+e ampia la boscaglia del Sussex,  
 
-    da Chichester a Chester  
+da Chichester a Chester  
 
-    gli uomini videro il Normanno cavalcare;  
+gli uomini videro il Normanno cavalcare;  
 
-    gettò la sua [[Sword|spada]] in aria e cantò  
+gettò la sua [[Sword|spada]] in aria e cantò  
 
-    a una specie di leggera chitarra;  
+a una specie di leggera chitarra;  
 
-    fu tutt'uno, poiché tutti diventammo  
+fu tutt'uno, poiché tutti diventammo  
 
-    gli identici gran signori che siamo.  
+gli identici gran signori che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    Gli identici gran signori, i singolari gran signori,  
+Gli identici gran signori, i singolari gran signori,  
 
-    gl'inconfondibili gran signori che siamo.  
+gl'inconfondibili gran signori che siamo.  
 
-    Il popolo viveva sulla terra, sulla terra,  
+Il popolo viveva sulla terra, sulla terra,  
 
-    s'affaccendava alla meglio e pregava;  
+s'affaccendava alla meglio e pregava;  
 
-    costruivano una [[Cathedral|cattedrale]] qua e là  
+costruivano una [[Cathedral|cattedrale]] qua e là  
 
-    o andavano a una piccola crociata:  
+o andavano a una piccola crociata:  
 
-    finché le ossa di Becket furono sbattute fuori  
+finché le ossa di Becket furono sbattute fuori  
 
-    per lo spasso d'un grasso Zar Bianco,  
+per lo spasso d'un grasso Zar Bianco,  
 
-    e tutti diventammo, tra saccheggio e fiamma,  
+e tutti diventammo, tra saccheggio e fiamma,  
 
-    la razza intelligente che siamo.  
+la razza intelligente che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    La razza intelligente, la razza intuitiva,  
+La razza intelligente, la razza intuitiva,  
 
-    la razza infallibile che siamo.  
+la razza infallibile che siamo.  
 
-    Oh, i boschi di Warwick son verdi, son verdi,  
+Oh, i boschi di Warwick son verdi, son verdi,  
 
-    ma gli alberi di Warwick possono cadere:  
+ma gli alberi di Warwick possono cadere:  
 
-    e Birmingham crebbe così grande, così grande,  
+e Birmingham crebbe così grande, così grande,  
 
-    e Stratford rimase così piccola.  
+e Stratford rimase così piccola.  
 
-    finché la sirena ululò all'allodola mattutina  
+finché la sirena ululò all'allodola mattutina  
 
-    che cantava alla stella del mattino;  
+che cantava alla stella del mattino;  
 
-    e tutti diventammo, in nome della [[Freedom|libertà]],  
+e tutti diventammo, in nome della [[Freedom|libertà]],  
 
-    i fortunati tizi che siamo.  
+i fortunati tizi che siamo.  
 
-    _Coro_  
+_Coro_  
 
-    I fortunati tizi, i felici tizi,  
+I fortunati tizi, i felici tizi,  
 
-    i fatati tizi che siamo.  
+i fatati tizi che siamo.  
 
-    Il popolo lasciò la terra, la terra,  
+Il popolo lasciò la terra, la terra,  
 
-    ma continuò a lavorare sodo;  
+ma continuò a lavorare sodo;  
 
-    e il prato del villaggio che s'era smarrito  
+e il prato del villaggio che s'era smarrito  
 
-    spuntò nel cortile del signorotto:  
+spuntò nel cortile del signorotto:  
 
-    ma venti di noi trovammo lavoro  
+ma venti di noi trovammo lavoro  
 
-    su un pezzo della sua automobile;  
+su un pezzo della sua automobile;  
 
-    e tutti diventammo, col plauso del mondo,  
+e tutti diventammo, col plauso del mondo,  
 
-    i meravigliosi gonzi che siamo:  
+i meravigliosi gonzi che siamo:  
 
-    _Coro_  
+_Coro_  
 
-    I meravigliosi gonzi, i miracolosi gonzi,  
+I meravigliosi gonzi, i miracolosi gonzi,  
 
-    i mistici gonzi che siamo.  
+i mistici gonzi che siamo.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    II. GEOGRAFIA  
+II. GEOGRAFIA  
 
-    _Modulo 17955301, Sottosezione Z_  
+_Modulo 17955301, Sottosezione Z_  
 
-    La terra è un luogo dove si trova l'Inghilterra,  
+La terra è un luogo dove si trova l'Inghilterra,  
 
-    e la si trova comunque si faccia roteare il globo;  
+e la si trova comunque si faccia roteare il globo;  
 
-    poiché le macchie sono tutte rosse e il resto è tutto grigio,  
+poiché le macchie sono tutte rosse e il resto è tutto grigio,  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Gibilterra è una rocca che si vede benissimo,  
+Gibilterra è una rocca che si vede benissimo,  
 
-    e attaccato alla sua base è il distretto della Spagna.  
+e attaccato alla sua base è il distretto della Spagna.  
 
-    E l'isola di Malta è segnata più in là,  
+E l'isola di Malta è segnata più in là,  
 
-    dove certi nativi erano noti come i Cavalieri di San Giovanni.  
+dove certi nativi erano noti come i Cavalieri di San Giovanni.  
 
-    Poi Cipro, e a est fino al Canale di Suez,  
+Poi Cipro, e a est fino al Canale di Suez,  
 
-    che fu conquistato da Dizzy e da Rothschild suo compare  
+che fu conquistato da Dizzy e da Rothschild suo compare  
 
-    con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
+con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Le nostre principali importazioni vengono da lontano come Capo Horn;  
+Le nostre principali importazioni vengono da lontano come Capo Horn;  
 
-    per necessità, cacao; per lussi, grano;  
+per necessità, cacao; per lussi, grano;  
 
-    così i Bramini nascono per la risaia, e così  
+così i Bramini nascono per la risaia, e così  
 
-    gli Dèi fecero i Greci perché coltivassero uva passa per noi;  
+gli Dèi fecero i Greci perché coltivassero uva passa per noi;  
 
-    Tabacco e benzina e Jazz ed Ebrei:  
+Tabacco e benzina e Jazz ed Ebrei:  
 
-    il Jazz passerà ma gli Ebrei resteranno;  
+il Jazz passerà ma gli Ebrei resteranno;  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Le nostre principali esportazioni, tutte etichettate e imballate,  
+Le nostre principali esportazioni, tutte etichettate e imballate,  
 
-    ai confini della terra sono consegnate intatte:
+ai confini della terra sono consegnate intatte:
 
 
 
 <span class="atom-split" data-atom="part--part_05" data-title="BalladStBarbara (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
 
-    Our soap or our salmon can travel in tins  
+Our soap or our salmon can travel in tins  
 
-    Between the two poles and as like as two pins;  
+Between the two poles and as like as two pins;  
 
-    So that Lancashire merchants whenever they like  
+So that Lancashire merchants whenever they like  
 
-    Can [[Water|water]] the beer of a man in Klondike  
+Can [[Water|water]] the beer of a man in Klondike  
 
-    Or [[Poison|poison]] the meat of a man in Bombay;  
+Or [[Poison|poison]] the meat of a man in Bombay;  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    The day of St. George is a musty affair  
+The day of St. George is a musty affair  
 
-    Which Russians and Greeks are permitted to share;  
+Which Russians and Greeks are permitted to share;  
 
-    The day of Trafalgar is Spanish in name  
+The day of Trafalgar is Spanish in name  
 
-    And the Spaniards refuse to pronounce it the same;  
+And the Spaniards refuse to pronounce it the same;  
 
-    But the Day of the Empire from Canada came  
+But the Day of the Empire from Canada came  
 
-    With Morden and Borden and Beaverbrook's fame  
+With Morden and Borden and Beaverbrook's fame  
 
-    And saintly seraphical souls such as they:  
+And saintly seraphical souls such as they:  
 
-    And that is the meaning of Empire Day.  
+And that is the meaning of Empire Day.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    III. FOR THE CRÊCHE  
+III. FOR THE CRÊCHE  
 
-    _Form 8277059, Sub-Section K_  
+_Form 8277059, Sub-Section K_  
 
-    I remember my mother, the day that we met,  
+I remember my mother, the day that we met,  
 
-    A thing I shall never entirely forget;  
+A thing I shall never entirely forget;  
 
-    And I toy with the fancy that, young as I am,  
+And I toy with the fancy that, young as I am,  
 
-    I should know her again if we met in a tram.  
+I should know her again if we met in a tram.  
 
-      But mother is happy in turning a crank  
+But mother is happy in turning a crank  
 
-      That increases the balance at somebody's bank;  
+That increases the balance at somebody's bank;  
 
-      And I feel satisfaction that mother is free  
+And I feel satisfaction that mother is free  
 
-      From the sinister task of attending to me.  
+From the sinister task of attending to me.  
 
-    They have brightened our room, that is spacious and cool,  
+They have brightened our room, that is spacious and cool,  
 
-    With diagrams used in the Idiot School,  
+With diagrams used in the Idiot School,  
 
-    And Books for the Blind that will teach us to see;  
+And Books for the Blind that will teach us to see;  
 
-    But mother is happy, for mother is free.  
+But mother is happy, for mother is free.  
 
-      For mother is dancing up forty-eight floors,  
+For mother is dancing up forty-eight floors,  
 
-      For [[Love|love]] of the Leeds International Stores,  
+For [[Love|love]] of the Leeds International Stores,  
 
-      And the flame of that [[Faith|faith]] might perhaps have grown cold,  
+And the flame of that [[Faith|faith]] might perhaps have grown cold,  
 
-      With the care of a baby of seven weeks old.  
+With the care of a baby of seven weeks old.  
 
-    For mother is happy in greasing a [[Wheel|wheel]]  
+For mother is happy in greasing a [[Wheel|wheel]]  
 
-    For somebody else, who is cornering Steel;  
+For somebody else, who is cornering Steel;  
 
-    And though our one meeting was not very long,  
+And though our one meeting was not very long,  
 
-    She took the occasion to sing me this [[Song|song]]:  
+She took the occasion to sing me this [[Song|song]]:  
 
-      "O, hush thee, my baby, the [[Time|time]] soon will come  
+"O, hush thee, my baby, the [[Time|time]] soon will come  
 
-      When thy [[Sleep|sleep]] will be broken with hooting and hum;  
+When thy [[Sleep|sleep]] will be broken with hooting and hum;  
 
-      There are handles want turning and turning all day,  
+There are handles want turning and turning all day,  
 
-      And knobs to be pressed in the usual way;  
+And knobs to be pressed in the usual way;  
 
-    O, hush thee, my baby, take rest while I croon,  
+O, hush thee, my baby, take rest while I croon,  
 
-    For Progress comes early, and [[Freedom]] too soon."  
+For Progress comes early, and [[Freedom]] too soon."  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    IV. CITIZENSHIP  
+IV. CITIZENSHIP  
 
-    _Form 8889512, Sub-Section Q_  
+_Form 8889512, Sub-Section Q_  
 
-    How slowly learns the [[Child|child]] at school  
+How slowly learns the [[Child|child]] at school  
 
-    The names of all the nobs that rule  
+The names of all the nobs that rule  
 
-    From Ponsonby to Pennant;  
+From Ponsonby to Pennant;  
 
-    Ere his bewildered mind find rest,  
+Ere his bewildered mind find rest,  
 
-    Knowing his host can be a Guest,  
+Knowing his host can be a Guest,  
 
-    His landlord is a Tennant.  
+His landlord is a Tennant.  
 
-    He knew not, at the age of three,  
+He knew not, at the age of three,  
 
-    What Lord St. Leger next will be  
+What Lord St. Leger next will be  
 
-    Or what he was before;  
+Or what he was before;  
 
-    A Primrose in the social swim  
+A Primrose in the social swim  
 
-    A Mr. Primrose is to him,  
+A Mr. Primrose is to him,  
 
-    And he is nothing more.  
+And he is nothing more.  
 
-    But soon, about the age of ten,  
+But soon, about the age of ten,  
 
-    He finds he is a Citizen,  
+He finds he is a Citizen,  
 
-    And knows his way about;  
+And knows his way about;  
 
-    Can pause within, or just beyond,  
+Can pause within, or just beyond,  
 
-    The line 'twixt Mond and Demi-Mond,  
+The line 'twixt Mond and Demi-Mond,  
 
-    'Twixt Getting On--or Out.  
+'Twixt Getting On--or Out.  
 
-    The Citizen will take his share  
+The Citizen will take his share  
 
-    (In every sense) as bull and bear;  
+(In every sense) as bull and bear;  
 
-    Nor need this oral ditty  
+Nor need this oral ditty  
 
-    Invoke the philologic pen  
+Invoke the philologic pen  
 
-    To show you that a Citizen  
+To show you that a Citizen  
 
-    Means Something in the [[City]].  
+Means Something in the [[City]].  
 
-    Thus gains he, with the virile gown,  
+Thus gains he, with the virile gown,  
 
-    The fasces and the civic [[Crown|crown]],  
+The fasces and the civic [[Crown|crown]],  
 
-    The forum of the free;  
+The forum of the free;  
 
-    Not more to Rome's high law allied  
+Not more to Rome's high law allied  
 
-    Is Devonport in all his [[Pride|pride]]  
+Is Devonport in all his [[Pride|pride]]  
 
-    Or Lipton's [[Self|self]] than he.  
+Or Lipton's [[Self|self]] than he.  
 
-    For he will learn, if he will try,  
+For he will learn, if he will try,  
 
-    The deep interior truths whereby  
+The deep interior truths whereby  
 
-    We rule the Commonwealth;  
+We rule the Commonwealth;  
 
-    What is the Food-Controller's fee  
+What is the Food-Controller's fee  
 
-    And whether the Health Ministry  
+And whether the Health Ministry  
 
-    Are in it for their health.  
+Are in it for their health.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    V. THE HIGHER MATHEMATICS  
+V. THE HIGHER MATHEMATICS  
 
-    _Form 339125, Sub-Section M_  
+_Form 339125, Sub-Section M_  
 
-            Twice one is two,  
+Twice one is two,  
 
-            Twice two is four,  
+Twice two is four,  
 
-    But twice two is ninety-six if you know the way to score.  
+But twice two is ninety-six if you know the way to score.  
 
-            Half of two is one,  
+Half of two is one,  
 
-            Half of four is two,  
+Half of four is two,  
 
-    But half of four is forty per cent. if your name is Montagu:  
+But half of four is forty per cent. if your name is Montagu:  
 
-      For everything else is on the square  
+For everything else is on the square  
 
-      If done by the best quadratics;  
+If done by the best quadratics;  
 
-      And nothing is low in High Finance  
+And nothing is low in High Finance  
 
-      Or the Higher Mathematics.  
+Or the Higher Mathematics.  
 
-            A straight line is straight  
+A straight line is straight  
 
-            And a square mile is flat:  
+And a square mile is flat:  
 
-    But you learn in trigonometrics a trick worth two of that.  
+But you learn in trigonometrics a trick worth two of that.  
 
-            Two straight lines  
+Two straight lines  
 
-            Can't enclose a Space,  
+Can't enclose a Space,  
 
-    But they can enclose a Corner to support the Chosen Race:  
+But they can enclose a Corner to support the Chosen Race:  
 
-      For you never know what Dynamics do  
+For you never know what Dynamics do  
 
-      With the lower truths of Statics;  
+With the lower truths of Statics;  
 
-      And half of two is a touring car  
+And half of two is a touring car  
 
-      In the Higher Mathematics.  
+In the Higher Mathematics.  
 
-            There is a place apart  
+There is a place apart  
 
-            Beyond the solar ray,  
+Beyond the solar ray,  
 
-    Where parallel straight lines can meet in an unofficial way.  
+Where parallel straight lines can meet in an unofficial way.  
 
-            There is a room that holds  
+There is a room that holds  
 
-            The examiner or his clerks,  
+The examiner or his clerks,  
 
-    Where you can square the circle or the man that gives the marks.  
+Where you can square the circle or the man that gives the marks.  
 
-      Where you hide in the cellar and then look down  
+Where you hide in the cellar and then look down  
 
-      On the poets that live in the attics;  
+On the poets that live in the attics;  
 
-      For the whole of the [[house]] is upside down  
+For the whole of the [[house]] is upside down  
 
-      In the Higher Mathematics.  
+In the Higher Mathematics.  
 
-    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+[[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    VI. HYGIENE  
+VI. HYGIENE  
 
-    _Form 394411102, Sub-Section X_  
+_Form 394411102, Sub-Section X_  
 
-    _"All practical Eugenists are agreed on the importance of  
+_"All practical Eugenists are agreed on the importance of  
 
-    [[Sleep|sleep]]."--The Eugenic Congress._  
+[[Sleep|sleep]]."--The Eugenic Congress._  
 
-    When Science taught mankind to breathe  
+When Science taught mankind to breathe  
 
-    A little while ago,  
+A little while ago,  
 
-    Only a wise and thoughtful few  
+Only a wise and thoughtful few  
 
-    Were really in the know:  
+Were really in the know:  
 
-    Nor could the Youth his features wreathe,  
+Nor could the Youth his features wreathe,  
 
-    Puffing from all the lungs beneath:  
+Puffing from all the lungs beneath:  
 
-    When Duty whispered softly "Breathe!"  
+When Duty whispered softly "Breathe!"  
 
-    The Youth would answer "Blow!"  
+The Youth would answer "Blow!"  
 
-    When Science proved with lucid care  
+When Science proved with lucid care  
 
-    The need of Exercise,  
+The need of Exercise,  
 
-    Our thoughtless Youth was climbing trees  
+Our thoughtless Youth was climbing trees  
 
-    Or lightly blacking eyes:  
+Or lightly blacking eyes:  
 
-    To reckless idlers breaking bounds  
+To reckless idlers breaking bounds  
 
-    For football or for hare-and-hounds,  
+For football or for hare-and-hounds,  
 
-    Or fighting hard for fourteen rounds,  
+Or fighting hard for fourteen rounds,  
 
-    It came as a surprise.  
+It came as a surprise.  
 
-    But when she boldly counsels [[Sleep]]  
+But when she boldly counsels [[Sleep]]  
 
-    To persons when in bed,  
+To persons when in bed,  
 
-    Then, then indeed men blush to see  
+Then, then indeed men blush to see  
 
-    The daybreak blushing red:  
+The daybreak blushing red:  
 
-    The early risers whom we term  
+The early risers whom we term  
 
-    Healthy, grow sickly and infirm;  
+Healthy, grow sickly and infirm;  
 
-    The Early Bird who caught the Worm  
+The Early Bird who caught the Worm  
 
-    Will catch the Germ instead.  
+Will catch the Germ instead.  
 
-    For this at least be Science praised  
+For this at least be Science praised  
 
-    If all the rest be rot,  
+If all the rest be rot,  
 
-    That now she snubs the priggish [[Child|child]]  
+That now she snubs the priggish [[Child|child]]  
 
-    That quits too soon his cot:  
+That quits too soon his cot:  
 
-    The pharisaic pachyderm  
+The pharisaic pachyderm  
 
-    Of spiritual [[Pride|pride]] shall squirm:  
+Of spiritual [[Pride|pride]] shall squirm:  
 
-    The Early Bird catches the worm,  
+The Early Bird catches the worm,  
 
-    The Worm that dieth not.  
+The Worm that dieth not.  
 
-                            THE ARDEN PRESS  
+THE ARDEN PRESS  
 
-                     STAMFORD STREET [[London|LONDON]], S.E.1  
+STAMFORD STREET [[London|LONDON]], S.E.1  
 
 End of the Project Gutenberg EBook of The Ballad of St. Barbara, by  
 
@@ -12076,7 +12076,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:  
 
-        http://www.gutenberg.org/3/2/1/6/32167/  
+http://www.gutenberg.org/3/2/1/6/32167/  
 
 Produced by Irma Spehar, Markus Brenner and the Online  
 
@@ -12313,311 +12313,311 @@ distribute copies of a Project Gutenberg-tm work in a format other than
 
 Il nostro sapone o il nostro salmone possono viaggiare in scatola  
 
-    tra i due poli e uguali come due spilli;  
+tra i due poli e uguali come due spilli;  
 
-    così che i mercanti del Lancashire, quando vogliono,  
+così che i mercanti del Lancashire, quando vogliono,  
 
-    possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
+possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
 
-    o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
+o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    Il giorno di San Giorgio è una faccenda ammuffita  
+Il giorno di San Giorgio è una faccenda ammuffita  
 
-    che a Russi e Greci è concesso di spartire;  
+che a Russi e Greci è concesso di spartire;  
 
-    il giorno di Trafalgar è spagnolo di nome  
+il giorno di Trafalgar è spagnolo di nome  
 
-    e gli Spagnoli rifiutano di pronunciarlo allo stesso modo;  
+e gli Spagnoli rifiutano di pronunciarlo allo stesso modo;  
 
-    ma il Giorno dell'Impero venne dal Canada  
+ma il Giorno dell'Impero venne dal Canada  
 
-    con Morden e Borden e la fama di Beaverbrook  
+con Morden e Borden e la fama di Beaverbrook  
 
-    e anime sante e serafiche come loro:  
+e anime sante e serafiche come loro:  
 
-    e questo è il senso del Giorno dell'Impero.  
+e questo è il senso del Giorno dell'Impero.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    III. PER L'ASILO NIDO  
+III. PER L'ASILO NIDO  
 
-    _Modulo 8277059, Sottosezione K_  
+_Modulo 8277059, Sottosezione K_  
 
-    Ricordo mia madre, il giorno che c'incontrammo,  
+Ricordo mia madre, il giorno che c'incontrammo,  
 
-    una cosa che non dimenticherò mai del tutto;  
+una cosa che non dimenticherò mai del tutto;  
 
-    e mi diverto a fantasticare che, per quanto giovane io sia,  
+e mi diverto a fantasticare che, per quanto giovane io sia,  
 
-    la riconoscerei se c'incontrassimo in un tram.  
+la riconoscerei se c'incontrassimo in un tram.  
 
-      Ma la mamma è felice di girare una manovella  
+Ma la mamma è felice di girare una manovella  
 
-      che accresce il saldo nella banca di qualcuno;  
+che accresce il saldo nella banca di qualcuno;  
 
-      e provo soddisfazione che la mamma sia libera  
+e provo soddisfazione che la mamma sia libera  
 
-      dal sinistro compito d'occuparsi di me.  
+dal sinistro compito d'occuparsi di me.  
 
-    Hanno rallegrato la nostra stanza, spaziosa e fresca,  
+Hanno rallegrato la nostra stanza, spaziosa e fresca,  
 
-    con diagrammi usati nella Scuola per Idioti,  
+con diagrammi usati nella Scuola per Idioti,  
 
-    e Libri per Ciechi che c'insegneranno a vedere;  
+e Libri per Ciechi che c'insegneranno a vedere;  
 
-    ma la mamma è felice, perché la mamma è libera.  
+ma la mamma è felice, perché la mamma è libera.  
 
-      Poiché la mamma danza su per quarantotto piani,  
+Poiché la mamma danza su per quarantotto piani,  
 
-      per [[Love|amore]] dei Leeds International Stores,  
+per [[Love|amore]] dei Leeds International Stores,  
 
-      e la fiamma di quella [[Faith|fede]] forse si sarebbe raffreddata,  
+e la fiamma di quella [[Faith|fede]] forse si sarebbe raffreddata,  
 
-      con la cura d'un bimbo di sette settimane.  
+con la cura d'un bimbo di sette settimane.  
 
-    Poiché la mamma è felice d'ingrassare una [[Wheel|ruota]]  
+Poiché la mamma è felice d'ingrassare una [[Wheel|ruota]]  
 
-    per qualcun altro, che accaparra l'Acciaio;  
+per qualcun altro, che accaparra l'Acciaio;  
 
-    e benché il nostro unico incontro non fosse molto lungo,  
+e benché il nostro unico incontro non fosse molto lungo,  
 
-    colse l'occasione di cantarmi questo [[Song|canto]]:  
+colse l'occasione di cantarmi questo [[Song|canto]]:  
 
-      «Oh, taci, bimbo mio, presto verrà il [[Time|tempo]]  
+«Oh, taci, bimbo mio, presto verrà il [[Time|tempo]]  
 
-      in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
+in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
 
-      ci sono manovelle da girare e girare tutto il giorno,  
+ci sono manovelle da girare e girare tutto il giorno,  
 
-      e bottoni da premere nel solito modo;  
+e bottoni da premere nel solito modo;  
 
-    oh, taci, bimbo mio, riposa mentre canto sommessa,  
+oh, taci, bimbo mio, riposa mentre canto sommessa,  
 
-    poiché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto.»  
+poiché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto.»  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    IV. CITTADINANZA  
+IV. CITTADINANZA  
 
-    _Modulo 8889512, Sottosezione Q_  
+_Modulo 8889512, Sottosezione Q_  
 
-    Con quanta lentezza impara il [[Child|fanciullo]] a scuola  
+Con quanta lentezza impara il [[Child|fanciullo]] a scuola  
 
-    i nomi di tutti i gran signori che governano  
+i nomi di tutti i gran signori che governano  
 
-    da Ponsonby a Pennant;  
+da Ponsonby a Pennant;  
 
-    prima che la sua mente smarrita trovi requie,  
+prima che la sua mente smarrita trovi requie,  
 
-    sapendo che il suo ospitante può essere un Guest,  
+sapendo che il suo ospitante può essere un Guest,  
 
-    il suo padrone di casa è un Tennant.  
+il suo padrone di casa è un Tennant.  
 
-    Non sapeva, all'età di tre anni,  
+Non sapeva, all'età di tre anni,  
 
-    che cosa Lord St. Leger diventerà poi  
+che cosa Lord St. Leger diventerà poi  
 
-    o che cosa fu prima;  
+o che cosa fu prima;  
 
-    una Primrose nel vortice mondano  
+una Primrose nel vortice mondano  
 
-    è per lui solo un signor Primrose,  
+è per lui solo un signor Primrose,  
 
-    e null'altro egli è.  
+e null'altro egli è.  
 
-    Ma presto, verso i dieci anni,  
+Ma presto, verso i dieci anni,  
 
-    scopre d'essere un Cittadino,  
+scopre d'essere un Cittadino,  
 
-    e sa muoversi nel mondo;  
+e sa muoversi nel mondo;  
 
-    sa fermarsi entro, o appena oltre,  
+sa fermarsi entro, o appena oltre,  
 
-    la linea tra il Mond e il Demi-Mond,  
+la linea tra il Mond e il Demi-Mond,  
 
-    tra il Farsi Strada--o il Farsi Fuori.  
+tra il Farsi Strada--o il Farsi Fuori.  
 
-    Il Cittadino prenderà la sua parte  
+Il Cittadino prenderà la sua parte  
 
-    (in ogni senso) come rialzista e ribassista;  
+(in ogni senso) come rialzista e ribassista;  
 
-    né occorre a questa canzonetta orale  
+né occorre a questa canzonetta orale  
 
-    invocare la penna del filologo  
+invocare la penna del filologo  
 
-    per mostrarvi che un Cittadino  
+per mostrarvi che un Cittadino  
 
-    significa Qualcosa nella [[City|Città]].  
+significa Qualcosa nella [[City|Città]].  
 
-    Così egli guadagna, con la toga virile,  
+Così egli guadagna, con la toga virile,  
 
-    i fasci e la [[Crown|corona]] civica,  
+i fasci e la [[Crown|corona]] civica,  
 
-    il foro dei liberi;  
+il foro dei liberi;  
 
-    non più alla legge suprema di Roma alleato  
+non più alla legge suprema di Roma alleato  
 
-    è Devonport in tutto il suo [[Pride|orgoglio]]  
+è Devonport in tutto il suo [[Pride|orgoglio]]  
 
-    o Lipton in [[Self|persona]] di quanto lo sia lui.  
+o Lipton in [[Self|persona]] di quanto lo sia lui.  
 
-    Poiché egli imparerà, se ci proverà,  
+Poiché egli imparerà, se ci proverà,  
 
-    le profonde verità intime per cui  
+le profonde verità intime per cui  
 
-    governiamo il Commonwealth;  
+governiamo il Commonwealth;  
 
-    qual è l'onorario del Controllore degli Alimenti  
+qual è l'onorario del Controllore degli Alimenti  
 
-    e se il Ministero della Salute  
+e se il Ministero della Salute  
 
-    ci stia per la propria salute.  
+ci stia per la propria salute.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    V. LE MATEMATICHE SUPERIORI  
+V. LE MATEMATICHE SUPERIORI  
 
-    _Modulo 339125, Sottosezione M_  
+_Modulo 339125, Sottosezione M_  
 
-            Due volte uno fa due,  
+Due volte uno fa due,  
 
-            due volte due fa quattro,  
+due volte due fa quattro,  
 
-    ma due volte due fa novantasei se sai come far punti.  
+ma due volte due fa novantasei se sai come far punti.  
 
-            La metà di due è uno,  
+La metà di due è uno,  
 
-            la metà di quattro è due,  
+la metà di quattro è due,  
 
-    ma la metà di quattro è il quaranta per cento se ti chiami Montagu:  
+ma la metà di quattro è il quaranta per cento se ti chiami Montagu:  
 
-      poiché ogni altra cosa è in squadra  
+poiché ogni altra cosa è in squadra  
 
-      se fatta con le migliori quadratiche;  
+se fatta con le migliori quadratiche;  
 
-      e nulla è basso nell'Alta Finanza  
+e nulla è basso nell'Alta Finanza  
 
-      o nelle Matematiche Superiori.  
+o nelle Matematiche Superiori.  
 
-            Una linea retta è retta  
+Una linea retta è retta  
 
-            e un miglio quadrato è piatto:  
+e un miglio quadrato è piatto:  
 
-    ma nella trigonometria impari un trucco che ne vale due.  
+ma nella trigonometria impari un trucco che ne vale due.  
 
-            Due linee rette  
+Due linee rette  
 
-            non possono racchiudere uno Spazio,  
+non possono racchiudere uno Spazio,  
 
-    ma possono racchiudere un Angolo per sostenere la Razza Eletta:  
+ma possono racchiudere un Angolo per sostenere la Razza Eletta:  
 
-      poiché non sai mai che cosa faccia la Dinamica  
+poiché non sai mai che cosa faccia la Dinamica  
 
-      con le verità inferiori della Statica;  
+con le verità inferiori della Statica;  
 
-      e la metà di due è un'automobile da turismo  
+e la metà di due è un'automobile da turismo  
 
-      nelle Matematiche Superiori.  
+nelle Matematiche Superiori.  
 
-            C'è un luogo appartato  
+C'è un luogo appartato  
 
-            oltre il raggio solare,  
+oltre il raggio solare,  
 
-    dove rette parallele possono incontrarsi in modo ufficioso.  
+dove rette parallele possono incontrarsi in modo ufficioso.  
 
-            C'è una stanza che ospita  
+C'è una stanza che ospita  
 
-            l'esaminatore o i suoi scrivani,  
+l'esaminatore o i suoi scrivani,  
 
-    dove puoi quadrare il cerchio, o l'uomo che assegna i voti.  
+dove puoi quadrare il cerchio, o l'uomo che assegna i voti.  
 
-      dove ti nascondi in cantina e poi guardi dall'alto  
+dove ti nascondi in cantina e poi guardi dall'alto  
 
-      i poeti che vivono nelle soffitte;  
+i poeti che vivono nelle soffitte;  
 
-      poiché tutta la [[house|casa]] è a rovescio  
+poiché tutta la [[house|casa]] è a rovescio  
 
-      nelle Matematiche Superiori.  
+nelle Matematiche Superiori.  
 
-    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+[[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
 
-    VI. IGIENE  
+VI. IGIENE  
 
-    _Modulo 394411102, Sottosezione X_  
+_Modulo 394411102, Sottosezione X_  
 
-    _«Tutti gli eugenisti pratici concordano sull'importanza del_  
+_«Tutti gli eugenisti pratici concordano sull'importanza del_  
 
-    _[[Sleep|sonno]].»--Il Congresso Eugenetico._  
+_[[Sleep|sonno]].»--Il Congresso Eugenetico._  
 
-    Quando la Scienza insegnò all'umanità a respirare  
+Quando la Scienza insegnò all'umanità a respirare  
 
-    poco tempo fa,  
+poco tempo fa,  
 
-    solo pochi savi e riflessivi  
+solo pochi savi e riflessivi  
 
-    erano davvero al corrente:  
+erano davvero al corrente:  
 
-    né il Giovane poteva atteggiare il volto,  
+né il Giovane poteva atteggiare il volto,  
 
-    sbuffando da tutti i polmoni di sotto:  
+sbuffando da tutti i polmoni di sotto:  
 
-    quando il Dovere sussurrò piano «Respira!»  
+quando il Dovere sussurrò piano «Respira!»  
 
-    il Giovane rispondeva «E soffia!»  
+il Giovane rispondeva «E soffia!»  
 
-    Quando la Scienza provò con lucida cura  
+Quando la Scienza provò con lucida cura  
 
-    la necessità dell'Esercizio,  
+la necessità dell'Esercizio,  
 
-    il nostro sventato Giovane s'arrampicava sugli alberi  
+il nostro sventato Giovane s'arrampicava sugli alberi  
 
-    o pestava allegramente gli occhi altrui:  
+o pestava allegramente gli occhi altrui:  
 
-    per gli sconsiderati sfaccendati che sforavano i limiti  
+per gli sconsiderati sfaccendati che sforavano i limiti  
 
-    per il football o per la caccia alla lepre,  
+per il football o per la caccia alla lepre,  
 
-    o battendosi accanitamente per quattordici riprese,  
+o battendosi accanitamente per quattordici riprese,  
 
-    giunse come una sorpresa.  
+giunse come una sorpresa.  
 
-    Ma quando essa arditamente consiglia il [[Sleep|Sonno]]  
+Ma quando essa arditamente consiglia il [[Sleep|Sonno]]  
 
-    alle persone quando sono a letto,  
+alle persone quando sono a letto,  
 
-    allora, allora sì che gli uomini arrossiscono nel vedere  
+allora, allora sì che gli uomini arrossiscono nel vedere  
 
-    l'alba arrossire di rosso:  
+l'alba arrossire di rosso:  
 
-    i mattinieri che noi chiamiamo  
+i mattinieri che noi chiamiamo  
 
-    sani, si fanno malaticci e infermi;  
+sani, si fanno malaticci e infermi;  
 
-    l'Uccello Mattiniero che acchiappava il Verme  
+l'Uccello Mattiniero che acchiappava il Verme  
 
-    acchiapperà invece il Germe.  
+acchiapperà invece il Germe.  
 
-    Per questo almeno sia lodata la Scienza,  
+Per questo almeno sia lodata la Scienza,  
 
-    se tutto il resto è fandonia,  
+se tutto il resto è fandonia,  
 
-    che ora essa rimbrotta il [[Child|fanciullo]] presuntuoso  
+che ora essa rimbrotta il [[Child|fanciullo]] presuntuoso  
 
-    che lascia troppo presto la culla:  
+che lascia troppo presto la culla:  
 
-    il pachiderma farisaico  
+il pachiderma farisaico  
 
-    dell'[[Pride|orgoglio]] spirituale si contorcerà:  
+dell'[[Pride|orgoglio]] spirituale si contorcerà:  
 
-    l'Uccello Mattiniero acchiappa il verme,  
+l'Uccello Mattiniero acchiappa il verme,  
 
-    il Verme che non muore.  
+il Verme che non muore.  
 
-                            THE ARDEN PRESS  
+THE ARDEN PRESS  
 
-                     STAMFORD STREET [[London|LONDRA]], S.E.1  
+STAMFORD STREET [[London|LONDRA]], S.E.1  
 
 Fine dell'eBook del Progetto Gutenberg The Ballad of St. Barbara, di  
 
@@ -12629,7 +12629,7 @@ Gilbert Keith Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/3/2/1/6/32167/  
+http://www.gutenberg.org/3/2/1/6/32167/  
 
 Prodotto da Irma Spehar, Markus Brenner e il Team di  
 
@@ -12894,53 +12894,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method  
+the use of Project Gutenberg-tm works calculated using the method  
 
-     you already use to calculate your applicable taxes.  The fee is  
+you already use to calculate your applicable taxes.  The fee is  
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he  
+owed to the owner of the Project Gutenberg-tm trademark, but he  
 
-     has agreed to donate royalties under this paragraph to the  
+has agreed to donate royalties under this paragraph to the  
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments  
+Project Gutenberg Literary Archive Foundation.  Royalty payments  
 
-     must be paid within 60 days following each date on which you  
+must be paid within 60 days following each date on which you  
 
-     prepare (or are legally required to prepare) your periodic tax  
+prepare (or are legally required to prepare) your periodic tax  
 
-     returns.  Royalty payments should be clearly marked as such and  
+returns.  Royalty payments should be clearly marked as such and  
 
-     sent to the Project Gutenberg Literary Archive Foundation at the  
+sent to the Project Gutenberg Literary Archive Foundation at the  
 
-     address specified in Section 4, "Information about donations to  
+address specified in Section 4, "Information about donations to  
 
-     the Project Gutenberg Literary Archive Foundation."  
+the Project Gutenberg Literary Archive Foundation."  
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he  
+you in writing (or by e-mail) within 30 days of receipt that s/he  
 
-     does not agree to the terms of the full Project Gutenberg-tm  
+does not agree to the terms of the full Project Gutenberg-tm  
 
-     License.  You must require such a user to return or  
+License.  You must require such a user to return or  
 
-     destroy all copies of the works possessed in a physical medium  
+destroy all copies of the works possessed in a physical medium  
 
-     and discontinue all use of and all access to other copies of  
+and discontinue all use of and all access to other copies of  
 
-     Project Gutenberg-tm works.  
+Project Gutenberg-tm works.  
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the  
+money paid for a work or a replacement copy, if a defect in the  
 
-     electronic work is discovered and reported to you within 90 days  
+electronic work is discovered and reported to you within 90 days  
 
-     of receipt of the work.  
+of receipt of the work.  
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.  
+distribution of Project Gutenberg-tm works.  
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
@@ -13134,11 +13134,11 @@ page at http://pglaf.org
 
 For additional contact information:  
 
-     Dr. Gregory B. Newby  
+Dr. Gregory B. Newby  
 
-     Chief Executive and Director  
+Chief Executive and Director  
 
-     gbnewby@pglaf.org  
+gbnewby@pglaf.org  
 
 Section 4.  Information about Donations to the Project Gutenberg  
 
@@ -13218,7 +13218,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:  
 
-     http://www.gutenberg.org  
+http://www.gutenberg.org  
 
 This Web site includes information about Project Gutenberg-tm,  
 
@@ -13259,53 +13259,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -13499,11 +13499,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -13583,7 +13583,7 @@ manteniamo gli eBook conformi a una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 

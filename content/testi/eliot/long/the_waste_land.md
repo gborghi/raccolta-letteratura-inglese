@@ -1178,7 +1178,7 @@ Also F. H. Bradley, Appearance and Reality, p. 306. ‘My external sensations ar
 
 
 
-<span class="atom-split" data-atom="section_01_i_the_burial_of_the_dead" data-title="I. The Burial of the Dead" data-chapter="Section 01 i the burial of the dead" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_i_the_burial_of_the_dead" data-title="I. The Burial of the Dead" data-chapter="i the burial of the dead" data-kind="section"></span>
 
 
 I. The Burial of the Dead  
@@ -1396,7 +1396,7 @@ Good [[Night|night]], ladies, good [[Night|night]], sweet ladies, good [[Night|n
 
 
 
-<span class="atom-split" data-atom="section_02_ii_a_game_of_chess" data-title="II. A Game of Chess" data-chapter="Section 02 ii a game of chess" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_ii_a_game_of_chess" data-title="II. A Game of Chess" data-chapter="II a game of chess" data-kind="section"></span>
 
 
 II. A Game of Chess  
@@ -1691,7 +1691,7 @@ Inexplicable splendour of Ionian white and gold.
 
 
 
-<span class="atom-split" data-atom="section_03_iii_the_fire_sermon" data-title="III. The Fire Sermon" data-chapter="Section 03 iii the fire sermon" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_iii_the_fire_sermon" data-title="III. The Fire Sermon" data-chapter="III the fire sermon" data-kind="section"></span>
 
 
 III. The [[Fire]] Sermon  
@@ -1880,7 +1880,7 @@ Consider Phlebas, who was once handsome and tall as you.
 
 
 
-<span class="atom-split" data-atom="section_04_iv_death_by_water" data-title="IV. Death by Water" data-chapter="Section 04 iv death by water" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_iv_death_by_water" data-title="IV. Death by Water" data-chapter="IV death by water" data-kind="section"></span>
 
 
 IV. [[Death]] by [[Water]]  
@@ -2045,7 +2045,7 @@ Datta. Dayadhvam. Damyata.
 
 
 
-<span class="atom-split" data-atom="section_05_v_what_the_thunder_said" data-title="V. What the Thunder said" data-chapter="Section 05 v what the thunder said" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_v_what_the_thunder_said" data-title="V. What the Thunder said" data-chapter="v what the thunder said" data-kind="section"></span>
 
 
 V. What the Thunder said  

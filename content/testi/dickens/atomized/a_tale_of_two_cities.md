@@ -24,61 +24,61 @@ By Charles Dickens
 CONTENTS
 
 
-     Book the First--Recalled to Life
+Book the First--Recalled to Life
 
-     CHAPTER I      The Period
-     CHAPTER II     The Mail
-     CHAPTER III    The [[Night]] Shadows
-     CHAPTER IV     The Preparation
-     CHAPTER V      The Wine-shop
-     CHAPTER VI     The Shoemaker
-
-
-     Book the Second--the Golden Thread
-
-     CHAPTER I      Five Years Later
-     CHAPTER II     A Sight
-     CHAPTER III    A Disappointment
-     CHAPTER IV     Congratulatory
-     CHAPTER V      The Jackal
-     CHAPTER VI     Hundreds of People
-     CHAPTER VII    Monseigneur in Town
-     CHAPTER VIII   Monseigneur in the Country
-     CHAPTER IX     The Gorgon’s Head
-     CHAPTER X      Two Promises
-     CHAPTER XI     A Companion Picture
-     CHAPTER XII    The Fellow of Delicacy
-     CHAPTER XIII   The Fellow of no Delicacy
-     CHAPTER XIV    The Honest Tradesman
-     CHAPTER XV     Knitting
-     CHAPTER XVI    Still Knitting
-     CHAPTER XVII   One [[Night]]
-     CHAPTER XVIII  Nine Days
-     CHAPTER XIX    An Opinion
-     CHAPTER XX     A Plea
-     CHAPTER XXI    Echoing Footsteps
-     CHAPTER XXII   The Sea Still Rises
-     CHAPTER XXIII  [[Fire]] Rises
-     CHAPTER XXIV   Drawn to the Loadstone Rock
+CHAPTER I      The Period
+CHAPTER II     The Mail
+CHAPTER III    The [[Night]] Shadows
+CHAPTER IV     The Preparation
+CHAPTER V      The Wine-shop
+CHAPTER VI     The Shoemaker
 
 
-     Book the Third--the Track of a [[Storm]]
+Book the Second--the Golden Thread
 
-     CHAPTER I      In Secret
-     CHAPTER II     The Grindstone
-     CHAPTER III    The [[Shadow]]
-     CHAPTER IV     Calm in [[Storm]]
-     CHAPTER V      The Wood-sawyer
-     CHAPTER VI     Triumph
-     CHAPTER VII    A Knock at the Door
-     CHAPTER VIII   A Hand at Cards
-     CHAPTER IX     The Game Made
-     CHAPTER X      The Substance of the [[Shadow]]
-     CHAPTER XI     Dusk
-     CHAPTER XII    Darkness
-     CHAPTER XIII   Fifty-two
-     CHAPTER XIV    The Knitting Done
-     CHAPTER XV     The Footsteps Die Out For Ever
+CHAPTER I      Five Years Later
+CHAPTER II     A Sight
+CHAPTER III    A Disappointment
+CHAPTER IV     Congratulatory
+CHAPTER V      The Jackal
+CHAPTER VI     Hundreds of People
+CHAPTER VII    Monseigneur in Town
+CHAPTER VIII   Monseigneur in the Country
+CHAPTER IX     The Gorgon’s Head
+CHAPTER X      Two Promises
+CHAPTER XI     A Companion Picture
+CHAPTER XII    The Fellow of Delicacy
+CHAPTER XIII   The Fellow of no Delicacy
+CHAPTER XIV    The Honest Tradesman
+CHAPTER XV     Knitting
+CHAPTER XVI    Still Knitting
+CHAPTER XVII   One [[Night]]
+CHAPTER XVIII  Nine Days
+CHAPTER XIX    An Opinion
+CHAPTER XX     A Plea
+CHAPTER XXI    Echoing Footsteps
+CHAPTER XXII   The Sea Still Rises
+CHAPTER XXIII  [[Fire]] Rises
+CHAPTER XXIV   Drawn to the Loadstone Rock
+
+
+Book the Third--the Track of a [[Storm]]
+
+CHAPTER I      In Secret
+CHAPTER II     The Grindstone
+CHAPTER III    The [[Shadow]]
+CHAPTER IV     Calm in [[Storm]]
+CHAPTER V      The Wood-sawyer
+CHAPTER VI     Triumph
+CHAPTER VII    A Knock at the Door
+CHAPTER VIII   A Hand at Cards
+CHAPTER IX     The Game Made
+CHAPTER X      The Substance of the [[Shadow]]
+CHAPTER XI     Dusk
+CHAPTER XII    Darkness
+CHAPTER XIII   Fifty-two
+CHAPTER XIV    The Knitting Done
+CHAPTER XV     The Footsteps Die Out For Ever
 
 
 
@@ -387,7 +387,7 @@ It’s not long, you see, guard. Jerry, say that my answer was, RECALLED
 TO LIFE.”
 
 Jerry started in his saddle. “That’s a Blazing strange answer, too,”
- said he, at his hoarsest.
+said he, at his hoarsest.
 
 “Take that message back, and they will know that I received this, as
 [[Well|well]] as if I wrote. Make the best of your way. Good [[Night|night]].”
@@ -569,7 +569,7 @@ The answer was always the same: “Almost eighteen years.”
 
 The answers to this question were various and contradictory. Sometimes
 the broken reply was, “Wait! It would kill me if I saw her too soon.”
- Sometimes, it was given in a tender rain of [[Tears|tears]], and then it was,
+Sometimes, it was given in a tender rain of [[Tears|tears]], and then it was,
 “Take me to her.” Sometimes it was staring and bewildered, and then it
 was, “I don’t know her. I don’t understand.”
 
@@ -1400,7 +1400,7 @@ in his face, nor any openness of aspect left, but had become a secret,
 angry, dangerous man.
 
 “It is very high; it is a little difficult. Better to begin slowly.”
- Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began
+Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began
 ascending the stairs.
 
 “Is he [[Alone|alone]]?” the latter whispered.
@@ -3229,7 +3229,7 @@ Darnay. It was an infamous prosecution, grossly infamous; but not the
 less likely to succeed on that account.”
 
 “You have laid me under an obligation to you for life--in two senses,”
- said his late client, taking his hand.
+said his late client, taking his hand.
 
 “I have done my best for you, Mr. Darnay; and my best is as good as
 another man’s, I believe.”
@@ -3252,7 +3252,7 @@ do yet. Speak for yourself.”
 
 “I speak for myself,” answered Mr. Lorry, “and for Mr. Darnay, and for
 Miss Lucie, and--Miss Lucie, do you not think I may speak for us all?”
- He asked her the question pointedly, and with a glance at her father.
+He asked her the question pointedly, and with a glance at her father.
 
 His face had become frozen, as it were, in a very curious look at
 Darnay: an intent look, deepening into a frown of dislike and distrust,
@@ -3390,7 +3390,7 @@ flung his glass over his shoulder against the wall, where it shivered to
 pieces; then, rang the bell, and ordered in another.
 
 “That’s a fair young lady to hand to a coach in the dark, Mr. Darnay!”
- he said, filling his new goblet.
+he said, filling his new goblet.
 
 A slight frown and a laconic “Yes,” were the answer.
 
@@ -3666,7 +3666,7 @@ do, you do. You were always in the front rank, and I was always behind.”
 Carton. At this, he laughed again, and they both laughed.
 
 “Before Shrewsbury, and at Shrewsbury, and ever since Shrewsbury,”
- pursued Carton, “you have fallen into your rank, and I have fallen into
+pursued Carton, “you have fallen into your rank, and I have fallen into
 mine. Even when we were fellow-students in the Student-Quarter of [[Paris]],
 picking up French, and French law, and other French crumbs that we
 didn’t get much good of, you were always somewhere, and I was always
@@ -3904,7 +3904,7 @@ she exaggerated it.
 paid me for it; which she certainly should never have done, you may take
 your affidavit, if I could have afforded to keep either myself or her
 for nothing--since she was ten years old. And it’s really very hard,”
- said [[Miss Pross]].
+said [[Miss Pross]].
 
 Not seeing with precision what was very hard, Mr. Lorry shook his head;
 using that important part of himself as a sort of fairy cloak that would
@@ -4223,7 +4223,7 @@ the echoes out to be the echoes of all the footsteps that are coming
 by-and-bye into our lives.”
 
 “There is a great crowd coming one day into our lives, if that be so,”
- [[Sydney Carton]] struck in, in his moody way.
+[[Sydney Carton]] struck in, in his moody way.
 
 The footsteps were incessant, and the hurry of them became more and more
 rapid. The corner echoed and re-echoed with the tread of feet; some,
@@ -5457,7 +5457,7 @@ He complied as to the chair, but appeared to find the speaking on less
 easy.
 
 “I have had the happiness, [[Doctor Manette]], of being so intimate here,”
- so he at length began, “for some year and a half, that I [[Hope|hope]] the topic
+so he at length began, “for some year and a half, that I [[Hope|hope]] the topic
 on which I am about to touch may not--”
 
 He was stayed by the Doctor’s putting out his hand to stop him. When he
@@ -5826,7 +5826,7 @@ Why do I do it?”
 get on.”
 
 “You don’t get on with your account of your matrimonial intentions,”
- answered Carton, with a careless air; “I wish you would keep to that. As
+answered Carton, with a careless air; “I wish you would keep to that. As
 to me--will you never understand that I am incorrigible?”
 
 He asked the question with some appearance of scorn.
@@ -6482,7 +6482,7 @@ considered essential to the dignity of the position. The position
 appeared by no means to please him, however, with an increasing rabble
 surrounding the coach, deriding him, making grimaces at him, and
 incessantly groaning and calling out: “Yah! Spies! Tst! Yaha! Spies!”
- with many compliments too numerous and forcible to repeat.
+with many compliments too numerous and forcible to repeat.
 
 Funerals had at all times a remarkable attraction for Mr. Cruncher; he
 always pricked up his senses, and became excited, when a funeral passed
@@ -7682,7 +7682,7 @@ out for him, took to her knitting again, and hummed a little [[Song|song]] over
 it.
 
 “You seem to know this quarter [[Well|well]]; that is to say, better than I do?”
- observed Defarge.
+observed Defarge.
 
 “Not at all, but I [[Hope|hope]] to know it better. I am so profoundly interested
 in its miserable inhabitants.”
@@ -7690,7 +7690,7 @@ in its miserable inhabitants.”
 “Hah!” muttered Defarge.
 
 “The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
- pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
+pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
 associations with your name.”
 
 “Indeed!” said Defarge, with much indifference.
@@ -9204,7 +9204,7 @@ table, beat them to pieces in a few blows.
 
 “Hold the light higher!” he said, wrathfully, to the turnkey. “Look
 among those fragments with care, Jacques. And see! Here is my knife,”
- throwing it to him; “rip open that bed, and search the straw. Hold the
+throwing it to him; “rip open that bed, and search the straw. Hold the
 light higher, you!”
 
 With a menacing look at the turnkey he crawled upon the hearth, and,
@@ -9336,7 +9336,7 @@ murmur came rushing along.
 
 Defarge came in breathless, pulled off a red cap he wore, and looked
 around him! “Listen, everywhere!” said madame again. “Listen to him!”
- Defarge stood, panting, against a background of eager eyes and open
+Defarge stood, panting, against a background of eager eyes and open
 mouths, formed outside the door; all those within the wine-shop had
 sprung to their feet.
 
@@ -10254,7 +10254,7 @@ He helped Mr. Lorry to wrap himself in a number of coats and cloaks,
 and went out with him from the warm atmosphere of the old Bank, into the
 misty air of Fleet-street. “My [[Love|love]] to Lucie, and to little Lucie,” said
 Mr. Lorry at parting, “and take precious care of them till I come back.”
- [[Charles Darnay]] shook his head and doubtfully smiled, as the carriage
+[[Charles Darnay]] shook his head and doubtfully smiled, as the carriage
 rolled away.
 
 That [[Night|night]]--it was the fourteenth of August--he sat up late, and wrote
@@ -11133,9 +11133,9 @@ Manette?”
 Defarge gave into his anxious hand, an open scrap of paper. It bore the
 words in the Doctor’s writing:
 
-    “Charles is safe, but I cannot safely leave this place yet.
-     I have obtained the favour that the bearer has a short note
-     from Charles to his wife.  Let the bearer see his wife.”
+“Charles is safe, but I cannot safely leave this place yet.
+I have obtained the favour that the bearer has a short note
+from Charles to his wife.  Let the bearer see his wife.”
 
 It was dated from La Force, within an hour.
 
@@ -11170,9 +11170,9 @@ tidings Mr. Lorry gave her of her husband, and clasped the hand that
 delivered his note--little thinking what it had been doing near him in
 the [[Night|night]], and might, but for a chance, have done to him.
 
-     “DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
-      influence around me.  You cannot answer this.
-      Kiss our [[Child|child]] for me.”
+“DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
+influence around me.  You cannot answer this.
+Kiss our [[Child|child]] for me.”
 
 That was all the writing. It was so much, however, to her who received
 it, that she turned from Defarge to his wife, and kissed one of the
@@ -11698,7 +11698,7 @@ kiss your hand towards that highest shelving roof.”
 “no.”
 
 A footstep in the [[Snow|snow]]. [[Madame Defarge]]. “I salute you, citizeness,”
- from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
+from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
 [[Madame Defarge]] gone, like a [[Shadow|shadow]] over the white [[Road|road]].
 
 “Give me your arm, my [[Love|love]]. Pass from here with an air of cheerfulness
@@ -11896,7 +11896,7 @@ in the eyes of the Republic?
 
 The populace cried enthusiastically, “No!” and the President rang his
 bell to quiet them. Which it did not, for they continued to cry “No!”
- until they left off, of their own will.
+until they left off, of their own will.
 
 The President required the name of that citizen. The accused explained
 that the citizen was his first witness. He also referred with confidence
@@ -12108,7 +12108,7 @@ have a precious [[Time|time]] of it. We want wine, among the rest. Nice toasts
 these Redheads will be drinking, wherever we buy it.”
 
 “It will be much the same to your knowledge, miss, I should think,”
- retorted Jerry, “whether they drink your health or the Old Un’s.”
+retorted Jerry, “whether they drink your health or the Old Un’s.”
 
 “Who’s he?” said [[Miss Pross]].
 
@@ -12803,7 +12803,7 @@ me?”
 “Not very much. You are a turnkey at the Conciergerie?”
 
 “I tell you once for all, there is no such thing as an escape possible,”
- said the spy, firmly.
+said the spy, firmly.
 
 “Why need you tell me what I have not asked? You are a turnkey at the
 Conciergerie?”
@@ -13350,7 +13350,7 @@ it fell. Patriots, I speak the [[Truth|truth]]!”
 It was The Vengeance who, amidst the warm commendations of the audience,
 thus assisted the proceedings. The President rang his bell; but, The
 Vengeance, warming with encouragement, shrieked, “I defy that bell!”
- wherein she was likewise much commended.
+wherein she was likewise much commended.
 
 “Inform the Tribunal of what you did that day within the Bastille,
 citizen.”
@@ -13465,7 +13465,7 @@ place, constraining my mind not to wander from the task. Where I make
 the broken marks that follow here, I leave off for the [[Time|time]], and put my
 paper in its hiding-place.
 
-        *****
+*****
 
 “The carriage left the streets behind, passed the North Barrier, and
 emerged upon the country [[Road|road]]. At two-thirds of a league from the
@@ -13542,7 +13542,7 @@ are no medicines to be obtained in this lonely place.’
 a case of medicines here;’ and brought it from a closet, and put it on
 the table.
 
-        *****
+*****
 
 “I opened some of the bottles, smelt them, and put the stoppers to my
 lips. If I had wanted to use anything save narcotic medicines that were
@@ -13581,7 +13581,7 @@ before the elder said:
 
 “‘You had better see,’ he carelessly answered; and took up a light.
 
-        *****
+*****
 
 “The other patient lay in a back room across a second staircase, which
 was a species of loft over a stable. There was a low plastered ceiling
@@ -13748,7 +13748,7 @@ forefinger drew a [[Cross|cross]] in the air. He stood for an instant with the
 finger yet raised, and as it dropped, he dropped with it, and I laid him
 down dead.
 
-        *****
+*****
 
 “When I returned to the bedside of the young woman, I found her raving
 in precisely the same order of continuity. I knew that this might last
@@ -13807,7 +13807,7 @@ was troubled in my mind with what I had heard and seen.
 pulse and the heart. There was life, and no more. Looking round as I
 resumed my seat, I found both the brothers intent upon me.
 
-        *****
+*****
 
 “I write with so much difficulty, the cold is so severe, I am so
 fearful of being detected and consigned to an underground cell and total
@@ -13864,7 +13864,7 @@ nothing.
 “They exchanged looks, but bent their heads to me as I bent mine to
 them, and we parted without another word on either side.
 
-        *****
+*****
 
 “I am weary, weary, weary--worn down by misery. I cannot read what I
 have written with this gaunt hand.
@@ -13887,7 +13887,7 @@ compromised by possessing the knowledge that I possessed.
 It was the last day of the year. The letter was lying before me just
 completed, when I was told that a lady waited, who wished to see me.
 
-        *****
+*****
 
 “I am growing more and more unequal to the task I have set myself. It is
 so cold, so dark, my senses are so benumbed, and the gloom upon me is so
@@ -13916,7 +13916,7 @@ inducement to come to me, relying on my confidence, had been the [[Hope|hope]]
 that I could tell her the name and place of abode. Whereas, to this
 wretched hour I am ignorant of both.
 
-        *****
+*****
 
 “These scraps of paper fail me. One was taken from me, with a warning,
 yesterday. I must finish my record to-day.
@@ -14261,9 +14261,9 @@ Defarge brought him the wine, and gave him Good Evening.
 drink to the Republic.”
 
 Defarge went back to the counter, and said, “Certainly, a little like.”
- Madame sternly retorted, “I tell you a good deal like.” Jacques Three
+Madame sternly retorted, “I tell you a good deal like.” Jacques Three
 pacifically remarked, “He is so much in your mind, see you, madame.”
- The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
+The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
 are looking forward with so much pleasure to seeing him once more
 to-morrow!”
 
@@ -14993,7 +14993,7 @@ fingers, and touched his lips.
 
 “Hush! Yes, my poor sister; to the last.”
 
-        *****
+*****
 
 The same shadows that are falling on the [[Prison|prison]], are falling, in that
 same hour of the early afternoon, on the Barrier with the crowd about
@@ -15066,7 +15066,7 @@ looks upward. There is terror in the carriage, there is weeping, there
 is the heavy breathing of the insensible traveller.
 
 “Are we not going too slowly? Can they not be induced to go faster?”
- asks Lucie, clinging to the old man.
+asks Lucie, clinging to the old man.
 
 “It would seem like flight, my darling. I must not urge them too much;
 it would rouse suspicion.”
@@ -15519,7 +15519,7 @@ at naught.
 “Woman imbecile and pig-like!” said [[Madame Defarge]], frowning. “I take no
 answer from you. I demand to see her. Either tell her that I demand
 to see her, or stand out of the way of the door and let me go to her!”
- This, with an angry explanatory wave of her right arm.
+This, with an angry explanatory wave of her right arm.
 
 “I little thought,” said [[Miss Pross]], “that I should ever want to
 understand your nonsensical language; but I would give all I have,
@@ -15692,7 +15692,7 @@ of the Creator, never reverses his transformations. “If thou be changed
 into this shape by the will of God,” say the seers to the enchanted, in
 the wise Arabian stories, “then remain so! But, if thou wear this
 form through mere passing conjuration, then resume thy former aspect!”
- Changeless and hopeless, the tumbrils roll along.
+Changeless and hopeless, the tumbrils roll along.
 
 As the sombre wheels of the six carts go round, they seem to plough up
 a long crooked furrow among the populace in the streets. Ridges of faces
@@ -15868,7 +15868,7 @@ on of many footsteps in the outskirts of the crowd, so that it swells
 forward in a mass, like one great heave of [[Water|water]], all flashes away.
 Twenty-Three.
 
-        *****
+*****
 
 They said of him, about the [[City|city]] that [[Night|night]], that it was the
 peacefullest man’s face ever beheld there. Many added that he looked
@@ -16222,7 +16222,7 @@ It’s not long, you see, guard. Jerry, say that my answer was, RECALLED
 TO LIFE.”
 
 Jerry started in his saddle. “That’s a Blazing strange answer, too,”
- said he, at his hoarsest.
+said he, at his hoarsest.
 
 “Take that message back, and they will know that I received this, as
 [[Well|well]] as if I wrote. Make the best of your way. Good [[Night|night]].”
@@ -16407,7 +16407,7 @@ The answer was always the same: “Almost eighteen years.”
 
 The answers to this question were various and contradictory. Sometimes
 the broken reply was, “Wait! It would kill me if I saw her too soon.”
- Sometimes, it was given in a tender rain of [[Tears|tears]], and then it was,
+Sometimes, it was given in a tender rain of [[Tears|tears]], and then it was,
 “Take me to her.” Sometimes it was staring and bewildered, and then it
 was, “I don’t know her. I don’t understand.”
 
@@ -16821,7 +16821,7 @@ Why do I do it?”
 get on.”
 
 “You don’t get on with your account of your matrimonial intentions,”
- answered Carton, with a careless air; “I wish you would keep to that. As
+answered Carton, with a careless air; “I wish you would keep to that. As
 to me--will you never understand that I am incorrigible?”
 
 He asked the question with some appearance of scorn.
@@ -17549,7 +17549,7 @@ murmur came rushing along.
 
 Defarge came in breathless, pulled off a red cap he wore, and looked
 around him! “Listen, everywhere!” said madame again. “Listen to him!”
- Defarge stood, panting, against a background of eager eyes and open
+Defarge stood, panting, against a background of eager eyes and open
 mouths, formed outside the door; all those within the wine-shop had
 sprung to their feet.
 
@@ -17791,9 +17791,9 @@ Manette?”
 Defarge gave into his anxious hand, an open scrap of paper. It bore the
 words in the Doctor’s writing:
 
-    “Charles is safe, but I cannot safely leave this place yet.
-     I have obtained the favour that the bearer has a short note
-     from Charles to his wife.  Let the bearer see his wife.”
+“Charles is safe, but I cannot safely leave this place yet.
+I have obtained the favour that the bearer has a short note
+from Charles to his wife.  Let the bearer see his wife.”
 
 It was dated from La Force, within an hour.
 
@@ -17828,9 +17828,9 @@ tidings Mr. Lorry gave her of her husband, and clasped the hand that
 delivered his note--little thinking what it had been doing near him in
 the [[Night|night]], and might, but for a chance, have done to him.
 
-     “DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
-      influence around me.  You cannot answer this.
-      Kiss our [[Child|child]] for me.”
+“DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
+influence around me.  You cannot answer this.
+Kiss our [[Child|child]] for me.”
 
 That was all the writing. It was so much, however, to her who received
 it, that she turned from Defarge to his wife, and kissed one of the
@@ -18034,7 +18034,7 @@ have a precious [[Time|time]] of it. We want wine, among the rest. Nice toasts
 these Redheads will be drinking, wherever we buy it.”
 
 “It will be much the same to your knowledge, miss, I should think,”
- retorted Jerry, “whether they drink your health or the Old Un’s.”
+retorted Jerry, “whether they drink your health or the Old Un’s.”
 
 “Who’s he?” said [[Miss Pross]].
 
@@ -19179,7 +19179,7 @@ in his face, nor any openness of aspect left, but had become a secret,
 angry, dangerous man.
 
 “It is very high; it is a little difficult. Better to begin slowly.”
- Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began
+Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began
 ascending the stairs.
 
 “Is he [[Alone|alone]]?” the latter whispered.
@@ -21073,7 +21073,7 @@ Darnay. It was an infamous prosecution, grossly infamous; but not the
 less likely to succeed on that account.”
 
 “You have laid me under an obligation to you for life--in two senses,”
- said his late client, taking his hand.
+said his late client, taking his hand.
 
 “I have done my best for you, Mr. Darnay; and my best is as good as
 another man’s, I believe.”
@@ -21096,7 +21096,7 @@ do yet. Speak for yourself.”
 
 “I speak for myself,” answered Mr. Lorry, “and for Mr. Darnay, and for
 Miss Lucie, and--Miss Lucie, do you not think I may speak for us all?”
- He asked her the question pointedly, and with a glance at her father.
+He asked her the question pointedly, and with a glance at her father.
 
 His face had become frozen, as it were, in a very curious look at
 Darnay: an intent look, deepening into a frown of dislike and distrust,
@@ -21240,7 +21240,7 @@ flung his glass over his shoulder against the wall, where it shivered to
 pieces; then, rang the bell, and ordered in another.
 
 “That’s a fair young lady to hand to a coach in the dark, Mr. Darnay!”
- he said, filling his new goblet.
+he said, filling his new goblet.
 
 A slight frown and a laconic “Yes,” were the answer.
 
@@ -21525,7 +21525,7 @@ do, you do. You were always in the front rank, and I was always behind.”
 Carton. At this, he laughed again, and they both laughed.
 
 “Before Shrewsbury, and at Shrewsbury, and ever since Shrewsbury,”
- pursued Carton, “you have fallen into your rank, and I have fallen into
+pursued Carton, “you have fallen into your rank, and I have fallen into
 mine. Even when we were fellow-students in the Student-Quarter of [[Paris]],
 picking up French, and French law, and other French crumbs that we
 didn’t get much good of, you were always somewhere, and I was always
@@ -21772,7 +21772,7 @@ she exaggerated it.
 paid me for it; which she certainly should never have done, you may take
 your affidavit, if I could have afforded to keep either myself or her
 for nothing--since she was ten years old. And it’s really very hard,”
- said [[Miss Pross]].
+said [[Miss Pross]].
 
 Not seeing with precision what was very hard, Mr. Lorry shook his head;
 using that important part of himself as a sort of fairy cloak that would
@@ -22103,7 +22103,7 @@ the echoes out to be the echoes of all the footsteps that are coming
 by-and-bye into our lives.”
 
 “There is a great crowd coming one day into our lives, if that be so,”
- [[Sydney Carton]] struck in, in his moody way.
+[[Sydney Carton]] struck in, in his moody way.
 
 The footsteps were incessant, and the hurry of them became more and more
 rapid. The corner echoed and re-echoed with the tread of feet; some,
@@ -23128,7 +23128,7 @@ He complied as to the chair, but appeared to find the speaking on less
 easy.
 
 “I have had the happiness, [[Doctor Manette]], of being so intimate here,”
- so he at length began, “for some year and a half, that I [[Hope|hope]] the topic
+so he at length began, “for some year and a half, that I [[Hope|hope]] the topic
 on which I am about to touch may not--”
 
 He was stayed by the Doctor’s putting out his hand to stop him. When he
@@ -23787,7 +23787,7 @@ considered essential to the dignity of the position. The position
 appeared by no means to please him, however, with an increasing rabble
 surrounding the coach, deriding him, making grimaces at him, and
 incessantly groaning and calling out: “Yah! Spies! Tst! Yaha! Spies!”
- with many compliments too numerous and forcible to repeat.
+with many compliments too numerous and forcible to repeat.
 
 Funerals had at all times a remarkable attraction for Mr. Cruncher; he
 always pricked up his senses, and became excited, when a funeral passed
@@ -25041,7 +25041,7 @@ out for him, took to her knitting again, and hummed a little [[Song|song]] over
 it.
 
 “You seem to know this quarter [[Well|well]]; that is to say, better than I do?”
- observed Defarge.
+observed Defarge.
 
 “Not at all, but I [[Hope|hope]] to know it better. I am so profoundly interested
 in its miserable inhabitants.”
@@ -25049,7 +25049,7 @@ in its miserable inhabitants.”
 “Hah!” muttered Defarge.
 
 “The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
- pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
+pursued the spy, “that I have the [[Honour|honour]] of cherishing some interesting
 associations with your name.”
 
 “Indeed!” said Defarge, with much indifference.
@@ -26231,7 +26231,7 @@ table, beat them to pieces in a few blows.
 
 “Hold the light higher!” he said, wrathfully, to the turnkey. “Look
 among those fragments with care, Jacques. And see! Here is my knife,”
- throwing it to him; “rip open that bed, and search the straw. Hold the
+throwing it to him; “rip open that bed, and search the straw. Hold the
 light higher, you!”
 
 With a menacing look at the turnkey he crawled upon the hearth, and,
@@ -27093,7 +27093,7 @@ He helped Mr. Lorry to wrap himself in a number of coats and cloaks,
 and went out with him from the warm atmosphere of the old Bank, into the
 misty air of Fleet-street. “My [[Love|love]] to Lucie, and to little Lucie,” said
 Mr. Lorry at parting, “and take precious care of them till I come back.”
- [[Charles Darnay]] shook his head and doubtfully smiled, as the carriage
+[[Charles Darnay]] shook his head and doubtfully smiled, as the carriage
 rolled away.
 
 That [[Night|night]]--it was the fourteenth of August--he sat up late, and wrote
@@ -28357,7 +28357,7 @@ kiss your hand towards that highest shelving roof.”
 “no.”
 
 A footstep in the [[Snow|snow]]. [[Madame Defarge]]. “I salute you, citizeness,”
- from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
+from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
 [[Madame Defarge]] gone, like a [[Shadow|shadow]] over the white [[Road|road]].
 
 “Give me your arm, my [[Love|love]]. Pass from here with an air of cheerfulness
@@ -28564,7 +28564,7 @@ in the eyes of the Republic?
 
 The populace cried enthusiastically, “No!” and the President rang his
 bell to quiet them. Which it did not, for they continued to cry “No!”
- until they left off, of their own will.
+until they left off, of their own will.
 
 The President required the name of that citizen. The accused explained
 that the citizen was his first witness. He also referred with confidence
@@ -29257,7 +29257,7 @@ me?”
 “Not very much. You are a turnkey at the Conciergerie?”
 
 “I tell you once for all, there is no such thing as an escape possible,”
- said the spy, firmly.
+said the spy, firmly.
 
 “Why need you tell me what I have not asked? You are a turnkey at the
 Conciergerie?”
@@ -29825,7 +29825,7 @@ it fell. Patriots, I speak the [[Truth|truth]]!”
 It was The Vengeance who, amidst the warm commendations of the audience,
 thus assisted the proceedings. The President rang his bell; but, The
 Vengeance, warming with encouragement, shrieked, “I defy that bell!”
- wherein she was likewise much commended.
+wherein she was likewise much commended.
 
 “Inform the Tribunal of what you did that day within the Bastille,
 citizen.”
@@ -29943,7 +29943,7 @@ place, constraining my mind not to wander from the task. Where I make
 the broken marks that follow here, I leave off for the [[Time|time]], and put my
 paper in its hiding-place.
 
-        *****
+*****
 
 “The carriage left the streets behind, passed the North Barrier, and
 emerged upon the country [[Road|road]]. At two-thirds of a league from the
@@ -30026,7 +30026,7 @@ are no medicines to be obtained in this lonely place.’
 a case of medicines here;’ and brought it from a closet, and put it on
 the table.
 
-        *****
+*****
 
 “I opened some of the bottles, smelt them, and put the stoppers to my
 lips. If I had wanted to use anything save narcotic medicines that were
@@ -30065,7 +30065,7 @@ before the elder said:
 
 “‘You had better see,’ he carelessly answered; and took up a light.
 
-        *****
+*****
 
 “The other patient lay in a back room across a second staircase, which
 was a species of loft over a stable. There was a low plastered ceiling
@@ -30244,7 +30244,7 @@ forefinger drew a [[Cross|cross]] in the air. He stood for an instant with the
 finger yet raised, and as it dropped, he dropped with it, and I laid him
 down dead.
 
-        *****
+*****
 
 “When I returned to the bedside of the young woman, I found her raving
 in precisely the same order of continuity. I knew that this might last
@@ -30303,7 +30303,7 @@ was troubled in my mind with what I had heard and seen.
 pulse and the heart. There was life, and no more. Looking round as I
 resumed my seat, I found both the brothers intent upon me.
 
-        *****
+*****
 
 “I write with so much difficulty, the cold is so severe, I am so
 fearful of being detected and consigned to an underground cell and total
@@ -30360,7 +30360,7 @@ nothing.
 “They exchanged looks, but bent their heads to me as I bent mine to
 them, and we parted without another word on either side.
 
-        *****
+*****
 
 “I am weary, weary, weary--worn down by misery. I cannot read what I
 have written with this gaunt hand.
@@ -30389,7 +30389,7 @@ compromised by possessing the knowledge that I possessed.
 It was the last day of the year. The letter was lying before me just
 completed, when I was told that a lady waited, who wished to see me.
 
-        *****
+*****
 
 “I am growing more and more unequal to the task I have set myself. It is
 so cold, so dark, my senses are so benumbed, and the gloom upon me is so
@@ -30418,7 +30418,7 @@ inducement to come to me, relying on my confidence, had been the [[Hope|hope]]
 that I could tell her the name and place of abode. Whereas, to this
 wretched hour I am ignorant of both.
 
-        *****
+*****
 
 “These scraps of paper fail me. One was taken from me, with a warning,
 yesterday. I must finish my record to-day.
@@ -30586,9 +30586,9 @@ Defarge brought him the wine, and gave him Good Evening.
 drink to the Republic.”
 
 Defarge went back to the counter, and said, “Certainly, a little like.”
- Madame sternly retorted, “I tell you a good deal like.” Jacques Three
+Madame sternly retorted, “I tell you a good deal like.” Jacques Three
 pacifically remarked, “He is so much in your mind, see you, madame.”
- The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
+The amiable Vengeance added, with a laugh, “Yes, my [[Faith|faith]]! And you
 are looking forward with so much pleasure to seeing him once more
 to-morrow!”
 
@@ -31351,7 +31351,7 @@ fingers, and touched his lips.
 
 “Hush! Yes, my poor sister; to the last.”
 
-        *****
+*****
 
 The same shadows that are falling on the [[Prison|prison]], are falling, in that
 same hour of the early afternoon, on the Barrier with the crowd about
@@ -31424,7 +31424,7 @@ looks upward. There is terror in the carriage, there is weeping, there
 is the heavy breathing of the insensible traveller.
 
 “Are we not going too slowly? Can they not be induced to go faster?”
- asks Lucie, clinging to the old man.
+asks Lucie, clinging to the old man.
 
 “It would seem like flight, my darling. I must not urge them too much;
 it would rouse suspicion.”
@@ -31898,7 +31898,7 @@ at naught.
 “Woman imbecile and pig-like!” said [[Madame Defarge]], frowning. “I take no
 answer from you. I demand to see her. Either tell her that I demand
 to see her, or stand out of the way of the door and let me go to her!”
- This, with an angry explanatory wave of her right arm.
+This, with an angry explanatory wave of her right arm.
 
 “I little thought,” said [[Miss Pross]], “that I should ever want to
 understand your nonsensical language; but I would give all I have,
@@ -32080,7 +32080,7 @@ of the Creator, never reverses his transformations. “If thou be changed
 into this shape by the will of God,” say the seers to the enchanted, in
 the wise Arabian stories, “then remain so! But, if thou wear this
 form through mere passing conjuration, then resume thy former aspect!”
- Changeless and hopeless, the tumbrils roll along.
+Changeless and hopeless, the tumbrils roll along.
 
 As the sombre wheels of the six carts go round, they seem to plough up
 a long crooked furrow among the populace in the streets. Ridges of faces
@@ -32262,7 +32262,7 @@ on of many footsteps in the outskirts of the crowd, so that it swells
 forward in a mass, like one great heave of [[Water|water]], all flashes away.
 Twenty-Three.
 
-        *****
+*****
 
 They said of him, about the [[City|city]] that [[Night|night]], that it was the
 peacefullest man’s face ever beheld there. Many added that he looked

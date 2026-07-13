@@ -112,24 +112,24 @@ I wish to quote the following exquisite paragraphs as a piece
 of typical advice as to how to succeed.  It is so practical;
 it [[Leaves|leaves]] so little [[Doubt|doubt]] about what should be our next step--
 
-  The name of Vanderbilt is synonymous with wealth gained by modern
-  enterprise. 'Cornelius,' the founder of the family, was the first of
-  the great American magnates of commerce. He started as the son of a
-  poor farmer; he ended as a millionaire twenty times over.
+The name of Vanderbilt is synonymous with wealth gained by modern
+enterprise. 'Cornelius,' the founder of the family, was the first of
+the great American magnates of commerce. He started as the son of a
+poor farmer; he ended as a millionaire twenty times over.
 
-  He had the money-making instinct. He seized his opportunities, the
-  opportunities that were given by the application of the steam-engine
-  to ocean traffic, and by the birth of railway locomotion in the
-  wealthy but underdeveloped United States of [[america|America]], and consequently
-  he amassed an immense fortune.
+He had the money-making instinct. He seized his opportunities, the
+opportunities that were given by the application of the steam-engine
+to ocean traffic, and by the birth of railway locomotion in the
+wealthy but underdeveloped United States of [[america|America]], and consequently
+he amassed an immense fortune.
 
-  Now it is, of course, obvious that we cannot all follow exactly in the
-  footsteps of this great railway monarch. The precise opportunities
-  that fell to him do not occur to us. Circumstances have changed. But,
-  although this is so, still, in our own sphere and in our own
-  circumstances, we CAN follow his general methods; we can seize those
-  opportunities that are given us, and give ourselves a very fair chance
-  of attaining riches.
+Now it is, of course, obvious that we cannot all follow exactly in the
+footsteps of this great railway monarch. The precise opportunities
+that fell to him do not occur to us. Circumstances have changed. But,
+although this is so, still, in our own sphere and in our own
+circumstances, we CAN follow his general methods; we can seize those
+opportunities that are given us, and give ourselves a very fair chance
+of attaining riches.
 
 In such strange utterances we see quite clearly what is
 really at the [[Bottom|bottom]] of all these articles and books.
@@ -159,15 +159,15 @@ to the multitude that terrible secret which he does not know.
 Speaking about the instinct that makes people rich,
 the same writer remarks--
 
-  In the olden days its existence was fully understood. The Greeks
-  enshrined it in the story of Midas, of the 'Golden Touch.' Here was a
-  man who turned everything he laid his hands upon into gold. His life
-  was a progress amidst riches. Out of everything that came in his way
-  he created the precious metal. 'A foolish legend,' said the wiseacres
-  if the Victorian age. 'A [[Truth|truth]],' say we of to-day. We all know of such
-  men. We are ever meeting or reading about such persons who turn
-  everything they touch into gold. [[success|Success]] [[dogs]] their very footsteps.
-  Their life's pathway leads unerringly upwards. They cannot fail.
+In the olden days its existence was fully understood. The Greeks
+enshrined it in the story of Midas, of the 'Golden Touch.' Here was a
+man who turned everything he laid his hands upon into gold. His life
+was a progress amidst riches. Out of everything that came in his way
+he created the precious metal. 'A foolish legend,' said the wiseacres
+if the Victorian age. 'A [[Truth|truth]],' say we of to-day. We all know of such
+men. We are ever meeting or reading about such persons who turn
+everything they touch into gold. [[success|Success]] [[dogs]] their very footsteps.
+Their life's pathway leads unerringly upwards. They cannot fail.
 
 Unfortunately, however, Midas could fail; he did.  His path
 did not lead unerringly upward.  He starved because whenever
@@ -334,24 +334,24 @@ it [[Leaves|leaves]] so little [[Doubt|doubt]] about what should be our next ste
 <span class="atom-split" data-atom="part--part_02" data-title="success (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-  The name of Vanderbilt is synonymous with wealth gained by modern
-  enterprise. 'Cornelius,' the founder of the family, was the first of
-  the great American magnates of commerce. He started as the son of a
-  poor farmer; he ended as a millionaire twenty times over.
+The name of Vanderbilt is synonymous with wealth gained by modern
+enterprise. 'Cornelius,' the founder of the family, was the first of
+the great American magnates of commerce. He started as the son of a
+poor farmer; he ended as a millionaire twenty times over.
 
-  He had the money-making instinct. He seized his opportunities, the
-  opportunities that were given by the application of the steam-engine
-  to ocean traffic, and by the birth of railway locomotion in the
-  wealthy but underdeveloped United States of [[america|America]], and consequently
-  he amassed an immense fortune.
+He had the money-making instinct. He seized his opportunities, the
+opportunities that were given by the application of the steam-engine
+to ocean traffic, and by the birth of railway locomotion in the
+wealthy but underdeveloped United States of [[america|America]], and consequently
+he amassed an immense fortune.
 
-  Now it is, of course, obvious that we cannot all follow exactly in the
-  footsteps of this great railway monarch. The precise opportunities
-  that fell to him do not occur to us. Circumstances have changed. But,
-  although this is so, still, in our own sphere and in our own
-  circumstances, we CAN follow his general methods; we can seize those
-  opportunities that are given us, and give ourselves a very fair chance
-  of attaining riches.
+Now it is, of course, obvious that we cannot all follow exactly in the
+footsteps of this great railway monarch. The precise opportunities
+that fell to him do not occur to us. Circumstances have changed. But,
+although this is so, still, in our own sphere and in our own
+circumstances, we CAN follow his general methods; we can seize those
+opportunities that are given us, and give ourselves a very fair chance
+of attaining riches.
 
 In such strange utterances we see quite clearly what is
 really at the [[Bottom|bottom]] of all these articles and books.
@@ -381,15 +381,15 @@ to the multitude that terrible secret which he does not know.
 Speaking about the instinct that makes people rich,
 the same writer remarks--
 
-  In the olden days its existence was fully understood. The Greeks
-  enshrined it in the story of Midas, of the 'Golden Touch.' Here was a
-  man who turned everything he laid his hands upon into gold. His life
-  was a progress amidst riches. Out of everything that came in his way
-  he created the precious metal. 'A foolish legend,' said the wiseacres
-  if the Victorian age. 'A [[Truth|truth]],' say we of to-day. We all know of such
-  men. We are ever meeting or reading about such persons who turn
-  everything they touch into gold. [[success|Success]] [[dogs]] their very footsteps.
-  Their life's pathway leads unerringly upwards. They cannot fail.
+In the olden days its existence was fully understood. The Greeks
+enshrined it in the story of Midas, of the 'Golden Touch.' Here was a
+man who turned everything he laid his hands upon into gold. His life
+was a progress amidst riches. Out of everything that came in his way
+he created the precious metal. 'A foolish legend,' said the wiseacres
+if the Victorian age. 'A [[Truth|truth]],' say we of to-day. We all know of such
+men. We are ever meeting or reading about such persons who turn
+everything they touch into gold. [[success|Success]] [[dogs]] their very footsteps.
+Their life's pathway leads unerringly upwards. They cannot fail.
 
 Unfortunately, however, Midas could fail; he did.  His path
 did not lead unerringly upward.  He starved because whenever

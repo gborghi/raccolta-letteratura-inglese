@@ -16,7 +16,7 @@ tags:
 
 The [[diabolist|Diabolist]]
 
-			by G.K. Chesterton
+by G.K. Chesterton
 
 Every now and then I have introduced into my essays an element
 of [[Truth|truth]].  Things that really happened have been mentioned,
@@ -193,7 +193,7 @@ at which he stopped and refrained.
 
 The [[diabolist|Diabolist]]
 
-			by G.K. Chesterton
+by G.K. Chesterton
 
 Every now and then I have introduced into my essays an element
 of [[Truth|truth]].  Things that really happened have been mentioned,

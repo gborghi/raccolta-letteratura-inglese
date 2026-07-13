@@ -32,89 +32,89 @@ CONTENTS
 
 
 
- I
+I
 
- II
+II
 
- III
+III
 
- IV
+IV
 
- V
+V
 
- VI
+VI
 
- VII
+VII
 
- VIII
+VIII
 
- IX
+IX
 
- X
+X
 
- XI
+XI
 
- XII
+XII
 
- XIII
+XIII
 
- XIV
+XIV
 
- XV
+XV
 
- XVI
+XVI
 
- XVII
+XVII
 
- XVIII
+XVIII
 
- XIX
+XIX
 
- XX
+XX
 
- XXI
+XXI
 
- XXII
+XXII
 
- XXIII
+XXIII
 
- XXIV
+XXIV
 
- XXV
+XXV
 
- XXVI
+XXVI
 
- XXVII
+XXVII
 
- XXVIII
+XXVIII
 
- XXIX
+XXIX
 
- XXX
+XXX
 
- XXXI
+XXXI
 
- XXXII
+XXXII
 
- XXXIII
+XXXIII
 
- XXXIV
+XXXIV
 
- XXXV
+XXXV
 
- XXXVI
+XXXVI
 
- XXXVII
+XXXVII
 
- XXXVIII
+XXXVIII
 
- XXXIX
+XXXIX
 
- XL
+XL
 
- XLI
+XLI
 
- CONCLUSION
+CONCLUSION
 
 
 
@@ -5097,10 +5097,10 @@ woman ten years older than herself.
 
 
 
-<span class="atom-split" data-atom="story_01_conclusion" data-title="Lady Susan — Conclusion" data-chapter="Story 01 Conclusion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_conclusion" data-title="Lady Susan — Conclusion" data-chapter="Conclusion" data-kind="story"></span>
 
 
- CONCLUSION
+CONCLUSION
 
 
 
@@ -5181,7 +5181,7 @@ Your most obliged and affectionate sister,
 
 
 
-<span class="atom-split" data-atom="story_02_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 02 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -5333,7 +5333,7 @@ Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_03_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 03 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -5547,7 +5547,7 @@ Your affectionate brother,
 
 
 
-<span class="atom-split" data-atom="story_04_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="Story 04 R De Courcy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="R De Courcy" data-kind="story"></span>
 
 
 R. DE COURCY.
@@ -5683,7 +5683,7 @@ Ever yours,
 
 
 
-<span class="atom-split" data-atom="story_05_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 05 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -5961,7 +5961,7 @@ Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_06_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 06 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -6165,7 +6165,7 @@ Yours faithfully,
 
 
 
-<span class="atom-split" data-atom="story_07_alicia" data-title="Lady Susan — Alicia." data-chapter="Story 07 Alicia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story"></span>
 
 
 ALICIA.
@@ -6295,7 +6295,7 @@ Yours, &c.,
 
 
 
-<span class="atom-split" data-atom="story_08_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 08 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -6627,7 +6627,7 @@ Your affectionate mother,
 
 
 
-<span class="atom-split" data-atom="story_09_c_de_courcy" data-title="Lady Susan — C. De Courcy." data-chapter="Story 09 C De Courcy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_c_de_courcy" data-title="Lady Susan — C. De Courcy." data-chapter="C De Courcy" data-kind="story"></span>
 
 
 C. DE COURCY.
@@ -6811,7 +6811,7 @@ I am, &c., &c.,
 
 
 
-<span class="atom-split" data-atom="story_10_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="Story 10 R De Courcy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="R De Courcy" data-kind="story"></span>
 
 
 R. DE COURCY.
@@ -7069,7 +7069,7 @@ Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_11_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 11 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -7345,7 +7345,7 @@ Your affectionate daughter,
 
 
 
-<span class="atom-split" data-atom="story_12_c_vernon" data-title="Lady Susan — C. Vernon" data-chapter="Story 12 C Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_c_vernon" data-title="Lady Susan — C. Vernon" data-chapter="C Vernon" data-kind="story"></span>
 
 
 C. VERNON
@@ -7477,7 +7477,7 @@ Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_13_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 13 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -7725,7 +7725,7 @@ Yours, &c.,
 
 
 
-<span class="atom-split" data-atom="story_14_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="Story 14 C Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="C Vernon" data-kind="story"></span>
 
 
 C. VERNON.
@@ -7795,7 +7795,7 @@ I am, Sir, your most humble servant,
 
 
 
-<span class="atom-split" data-atom="story_15_f_s_v" data-title="Lady Susan — F. S. V." data-chapter="Story 15 F S V" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_f_s_v" data-title="Lady Susan — F. S. V." data-chapter="F S V" data-kind="story"></span>
 
 
 F. S. V.
@@ -8001,7 +8001,7 @@ Your affectionate
 
 
 
-<span class="atom-split" data-atom="story_16_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 16 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -8155,7 +8155,7 @@ Yours ever, &c.,
 
 
 
-<span class="atom-split" data-atom="story_18_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 18 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -8273,7 +8273,7 @@ Adieu. Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_19_alicia" data-title="Lady Susan — Alicia." data-chapter="Story 19 Alicia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story"></span>
 
 
 ALICIA.
@@ -8369,7 +8369,7 @@ Your affectionate, &c.,
 
 
 
-<span class="atom-split" data-atom="story_20_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="Story 20 C Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="C Vernon" data-kind="story"></span>
 
 
 C. VERNON.
@@ -8445,7 +8445,7 @@ Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_21_alicia" data-title="Lady Susan — Alicia." data-chapter="Story 21 Alicia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story"></span>
 
 
 ALICIA.
@@ -8531,7 +8531,7 @@ Yours ever,
 
 
 
-<span class="atom-split" data-atom="story_22_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 22 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -8677,7 +8677,7 @@ I am, very faithfully yours,
 
 
 
-<span class="atom-split" data-atom="story_23_s_vernon" data-title="Lady Susan — S. Vernon" data-chapter="Story 23 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_s_vernon" data-title="Lady Susan — S. Vernon" data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON
@@ -8743,7 +8743,7 @@ Mainwaring comes within half an hour. Adieu!
 
 
 
-<span class="atom-split" data-atom="story_24_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="Story 24 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON.
@@ -8825,7 +8825,7 @@ Yours faithfully,
 
 
 
-<span class="atom-split" data-atom="story_25_alicia" data-title="Lady Susan — Alicia." data-chapter="Story 25 Alicia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story"></span>
 
 
 ALICIA.
@@ -8879,7 +8879,7 @@ Adieu!
 
 
 
-<span class="atom-split" data-atom="story_26_s_v" data-title="Lady Susan — S. V." data-chapter="Story 26 S V" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_s_v" data-title="Lady Susan — S. V." data-chapter="S V" data-kind="story"></span>
 
 
 S. V.
@@ -8937,7 +8937,7 @@ gain.
 
 
 
-<span class="atom-split" data-atom="story_27_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="Story 27 R De Courcy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="R De Courcy" data-kind="story"></span>
 
 
 R. DE COURCY.
@@ -9007,7 +9007,7 @@ minute till your arrival.
 
 
 
-<span class="atom-split" data-atom="story_28_s_v" data-title="Lady Susan — S. V." data-chapter="Story 28 S V" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_s_v" data-title="Lady Susan — S. V." data-chapter="S V" data-kind="story"></span>
 
 
 S. V.
@@ -9087,7 +9087,7 @@ the weakness on which their strength was founded.
 
 
 
-<span class="atom-split" data-atom="story_29_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="Story 29 R De Courcy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="R De Courcy" data-kind="story"></span>
 
 
 R. DE COURCY.
@@ -9135,7 +9135,7 @@ share in this disappointment.
 
 
 
-<span class="atom-split" data-atom="story_30_s_v" data-title="Lady Susan — S. V." data-chapter="Story 30 S V" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_s_v" data-title="Lady Susan — S. V." data-chapter="S V" data-kind="story"></span>
 
 
 S. V.
@@ -9215,7 +9215,7 @@ Your sincerely attached,
 
 
 
-<span class="atom-split" data-atom="story_31_alicia" data-title="Lady Susan — Alicia." data-chapter="Story 31 Alicia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story"></span>
 
 
 ALICIA.
@@ -9299,7 +9299,7 @@ yours,
 
 
 
-<span class="atom-split" data-atom="story_32_s_vernon" data-title="Lady Susan — S. Vernon" data-chapter="Story 32 S Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_s_vernon" data-title="Lady Susan — S. Vernon" data-chapter="S Vernon" data-kind="story"></span>
 
 
 S. VERNON
@@ -9371,7 +9371,7 @@ Your affectionate mother,
 
 
 
-<span class="atom-split" data-atom="story_33_c_de_courcy" data-title="Lady Susan — C. De Courcy." data-chapter="Story 33 C De Courcy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_c_de_courcy" data-title="Lady Susan — C. De Courcy." data-chapter="C De Courcy" data-kind="story"></span>
 
 
 C. DE COURCY.
@@ -9479,7 +9479,7 @@ Yours ever, &c.,
 
 
 
-<span class="atom-split" data-atom="story_34_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="Story 34 C Vernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="C Vernon" data-kind="story"></span>
 
 
 C. VERNON.
@@ -9656,7 +9656,7 @@ woman ten years older than herself.
 
 
 
-<span class="atom-split" data-atom="story_17_cath_vernon--part_01" data-title="Lady Susan — Cath. Vernon. (part 1)" data-chapter="Story 17 Cath Vernon" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_cath_vernon--part_01" data-title="Lady Susan — Cath. Vernon. (part 1)" data-chapter="Cath Vernon" data-kind="excerpt"></span>
 
 
 CATH. VERNON.
@@ -9858,7 +9858,7 @@ herself violently against marrying Sir James.” “And can your ladyship
 
 
 
-<span class="atom-split" data-atom="story_17_cath_vernon--part_02" data-title="Lady Susan — Cath. Vernon. (part 2)" data-chapter="Story 17 Cath Vernon" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_cath_vernon--part_02" data-title="Lady Susan — Cath. Vernon. (part 2)" data-chapter="Cath Vernon" data-kind="excerpt"></span>
 
 
 excellent understanding, and Sir James has none.” “I am at least very
@@ -10034,7 +10034,7 @@ How easily does her ladyship encourage or dismiss a [[Lover|lover]]! In spite of
 
 
 
-<span class="atom-split" data-atom="story_17_cath_vernon--part_03" data-title="Lady Susan — Cath. Vernon. (part 3)" data-chapter="Story 17 Cath Vernon" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_cath_vernon--part_03" data-title="Lady Susan — Cath. Vernon. (part 3)" data-chapter="Cath Vernon" data-kind="excerpt"></span>
 
 
 this release, Frederica still looks unhappy: still fearful, perhaps, of

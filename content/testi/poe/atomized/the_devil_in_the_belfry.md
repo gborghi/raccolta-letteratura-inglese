@@ -18,705 +18,705 @@ What o’[[Clock|clock]] is it?—_Old Saying_.
 
 
 
-      Everybody knows, in a general way, that the finest place in the
+Everybody knows, in a general way, that the finest place in the
 
-      world is—or, alas, _was_—the Dutch borough of
+world is—or, alas, _was_—the Dutch borough of
 
-      Vondervotteimittiss. Yet as it lies some distance from any of the
+Vondervotteimittiss. Yet as it lies some distance from any of the
 
-      main roads, being in a somewhat out-of-the-way situation, there
+main roads, being in a somewhat out-of-the-way situation, there
 
-      are perhaps very few of my readers who have ever paid it a visit.
+are perhaps very few of my readers who have ever paid it a visit.
 
-      For the benefit of those who have not, therefore, it will be only
+For the benefit of those who have not, therefore, it will be only
 
-      proper that I should enter into some account of it. And this is
+proper that I should enter into some account of it. And this is
 
-      indeed the more necessary, as with the [[Hope|hope]] of enlisting public
+indeed the more necessary, as with the [[Hope|hope]] of enlisting public
 
-      sympathy in behalf of the inhabitants, I design here to give a
+sympathy in behalf of the inhabitants, I design here to give a
 
-      [[history]] of the calamitous events which have so lately occurred
+[[history]] of the calamitous events which have so lately occurred
 
-      within its limits. No one who knows me will [[Doubt|doubt]] that the duty
+within its limits. No one who knows me will [[Doubt|doubt]] that the duty
 
-      thus [[Self|self]]-imposed will be executed to the best of my ability,
+thus [[Self|self]]-imposed will be executed to the best of my ability,
 
-      with all that rigid impartiality, all that cautious examination
+with all that rigid impartiality, all that cautious examination
 
-      into facts, and diligent collation of authorities, which should
+into facts, and diligent collation of authorities, which should
 
-      ever distinguish him who aspires to the title of historian.
+ever distinguish him who aspires to the title of historian.
 
 
 
-      By the united aid of medals, manuscripts, and inscriptions, I am
+By the united aid of medals, manuscripts, and inscriptions, I am
 
-      enabled to say, positively, that the borough of
+enabled to say, positively, that the borough of
 
-      Vondervotteimittiss has existed, from its origin, in precisely
+Vondervotteimittiss has existed, from its origin, in precisely
 
-      the same condition which it at present preserves. Of the date of
+the same condition which it at present preserves. Of the date of
 
-      this origin, however, I grieve that I can only speak with that
+this origin, however, I grieve that I can only speak with that
 
-      species of indefinite definiteness which mathematicians are, at
+species of indefinite definiteness which mathematicians are, at
 
-      times, forced to put up with in certain algebraic formulae. The
+times, forced to put up with in certain algebraic formulae. The
 
-      date, I may thus say, in regard to the remoteness of its
+date, I may thus say, in regard to the remoteness of its
 
-      antiquity, cannot be less than any assignable quantity
+antiquity, cannot be less than any assignable quantity
 
-      whatsoever.
+whatsoever.
 
 
 
-      Touching the derivation of the name Vondervotteimittiss, I
+Touching the derivation of the name Vondervotteimittiss, I
 
-      confess myself, with sorrow, equally at fault. Among a multitude
+confess myself, with sorrow, equally at fault. Among a multitude
 
-      of opinions upon this delicate point—some acute, some learned,
+of opinions upon this delicate point—some acute, some learned,
 
-      some sufficiently the reverse—I am able to select nothing which
+some sufficiently the reverse—I am able to select nothing which
 
-      ought to be considered satisfactory. Perhaps the idea of
+ought to be considered satisfactory. Perhaps the idea of
 
-      Grogswigg—nearly coincident with that of Kroutaplenttey—is to be
+Grogswigg—nearly coincident with that of Kroutaplenttey—is to be
 
-      cautiously preferred.—It runs:—“Vondervotteimittis—Vonder, lege
+cautiously preferred.—It runs:—“Vondervotteimittis—Vonder, lege
 
-      Donder—Votteimittis, quasi und Bleitziz—Bleitziz obsol:—pro
+Donder—Votteimittis, quasi und Bleitziz—Bleitziz obsol:—pro
 
-      Blitzen.” This derivative, to say the [[Truth|truth]], is still
+Blitzen.” This derivative, to say the [[Truth|truth]], is still
 
-      countenanced by some traces of the electric fluid evident on the
+countenanced by some traces of the electric fluid evident on the
 
-      summit of the steeple of the [[house|House]] of the Town-Council. I do not
+summit of the steeple of the [[house|House]] of the Town-Council. I do not
 
-      choose, however, to commit myself on a theme of such importance,
+choose, however, to commit myself on a theme of such importance,
 
-      and must refer the reader desirous of information to the
+and must refer the reader desirous of information to the
 
-      “Oratiunculae de Rebus Praeter-Veteris,” of Dundergutz. See,
+“Oratiunculae de Rebus Praeter-Veteris,” of Dundergutz. See,
 
-      also, Blunderbuzzard “De Derivationibus,” pp. 27 to 5010, Folio,
+also, Blunderbuzzard “De Derivationibus,” pp. 27 to 5010, Folio,
 
-      Gothic edit., Red and Black character, Catch-word and No Cypher;
+Gothic edit., Red and Black character, Catch-word and No Cypher;
 
-      wherein consult, also, marginal notes in the autograph of
+wherein consult, also, marginal notes in the autograph of
 
-      Stuffundpuff, with the Sub-Commentaries of Gruntundguzzell.
+Stuffundpuff, with the Sub-Commentaries of Gruntundguzzell.
 
 
 
-      Notwithstanding the obscurity which thus envelops the date of the
+Notwithstanding the obscurity which thus envelops the date of the
 
-      foundation of Vondervotteimittis, and the derivation of its name,
+foundation of Vondervotteimittis, and the derivation of its name,
 
-      there can be no [[Doubt|doubt]], as I said before, that it has always
+there can be no [[Doubt|doubt]], as I said before, that it has always
 
-      existed as we find it at this epoch. The oldest man in the
+existed as we find it at this epoch. The oldest man in the
 
-      borough can remember not the slightest difference in the
+borough can remember not the slightest difference in the
 
-      appearance of any portion of it; and, indeed, the very suggestion
+appearance of any portion of it; and, indeed, the very suggestion
 
-      of such a possibility is considered an insult. The site of the
+of such a possibility is considered an insult. The site of the
 
-      village is in a perfectly circular valley, about a quarter of a
+village is in a perfectly circular valley, about a quarter of a
 
-      mile in circumference, and entirely surrounded by gentle hills,
+mile in circumference, and entirely surrounded by gentle hills,
 
-      over whose summit the people have never yet ventured to pass. For
+over whose summit the people have never yet ventured to pass. For
 
-      this they assign the very good reason that they do not believe
+this they assign the very good reason that they do not believe
 
-      there is anything at all on the other side.
+there is anything at all on the other side.
 
 
 
-      Round the skirts of the valley (which is quite level, and paved
+Round the skirts of the valley (which is quite level, and paved
 
-      throughout with flat tiles), extends a continuous row of sixty
+throughout with flat tiles), extends a continuous row of sixty
 
-      little houses. These, having their backs on the hills, must look,
+little houses. These, having their backs on the hills, must look,
 
-      of course, to the centre of the plain, which is just sixty yards
+of course, to the centre of the plain, which is just sixty yards
 
-      from the front door of each dwelling. Every [[house]] has a small
+from the front door of each dwelling. Every [[house]] has a small
 
-      [[Garden|garden]] before it, with a circular path, a sun-dial, and
+[[Garden|garden]] before it, with a circular path, a sun-dial, and
 
-      twenty-four cabbages. The buildings themselves are so precisely
+twenty-four cabbages. The buildings themselves are so precisely
 
-      alike, that one can in no manner be distinguished from the other.
+alike, that one can in no manner be distinguished from the other.
 
-      Owing to the vast antiquity, the style of architecture is
+Owing to the vast antiquity, the style of architecture is
 
-      somewhat odd, but it is not for that reason the less strikingly
+somewhat odd, but it is not for that reason the less strikingly
 
-      picturesque. They are fashioned of hard-burned little bricks,
+picturesque. They are fashioned of hard-burned little bricks,
 
-      red, with black ends, so that the walls look like a chess-board
+red, with black ends, so that the walls look like a chess-board
 
-      upon a great scale. The gables are turned to the front, and there
+upon a great scale. The gables are turned to the front, and there
 
-      are cornices, as big as all the rest of the [[house]], over the eaves
+are cornices, as big as all the rest of the [[house]], over the eaves
 
-      and over the main doors. The windows are narrow and deep, with
+and over the main doors. The windows are narrow and deep, with
 
-      very tiny panes and a great deal of sash. On the roof is a vast
+very tiny panes and a great deal of sash. On the roof is a vast
 
-      quantity of tiles with long curly ears. The woodwork, throughout,
+quantity of tiles with long curly ears. The woodwork, throughout,
 
-      is of a dark hue and there is much carving about it, with but a
+is of a dark hue and there is much carving about it, with but a
 
-      trifling variety of pattern for, [[Time|time]] out of mind, the carvers of
+trifling variety of pattern for, [[Time|time]] out of mind, the carvers of
 
-      Vondervotteimittiss have never been able to carve more than two
+Vondervotteimittiss have never been able to carve more than two
 
-      objects—a [[Time|time]]-piece and a cabbage. But these they do exceedingly
+objects—a [[Time|time]]-piece and a cabbage. But these they do exceedingly
 
-      [[Well|well]], and intersperse them, with singular ingenuity, wherever
+[[Well|well]], and intersperse them, with singular ingenuity, wherever
 
-      they find room for the chisel.
+they find room for the chisel.
 
 
 
-      The dwellings are as much alike inside as out, and the furniture
+The dwellings are as much alike inside as out, and the furniture
 
-      is all upon one plan. The floors are of square tiles, the chairs
+is all upon one plan. The floors are of square tiles, the chairs
 
-      and tables of black-looking wood with thin crooked legs and puppy
+and tables of black-looking wood with thin crooked legs and puppy
 
-      feet. The mantelpieces are wide and high, and have not only
+feet. The mantelpieces are wide and high, and have not only
 
-      [[Time|time]]-pieces and cabbages sculptured over the front, but a real
+[[Time|time]]-pieces and cabbages sculptured over the front, but a real
 
-      [[Time|time]]-piece, which makes a prodigious ticking, on the top in the
+[[Time|time]]-piece, which makes a prodigious ticking, on the top in the
 
-      middle, with a flower-pot containing a cabbage standing on each
+middle, with a flower-pot containing a cabbage standing on each
 
-      extremity by way of outrider. Between each cabbage and the
+extremity by way of outrider. Between each cabbage and the
 
-      [[Time|time]]-piece, again, is a little China man having a large stomach
+[[Time|time]]-piece, again, is a little China man having a large stomach
 
-      with a great round hole in it, through which is seen the
+with a great round hole in it, through which is seen the
 
-      dial-plate of a watch.
+dial-plate of a watch.
 
 
 
-      The fireplaces are large and deep, with fierce crooked-looking
+The fireplaces are large and deep, with fierce crooked-looking
 
-      [[Fire|fire]]-[[dogs]]. There is constantly a rousing [[Fire|fire]], and a huge pot
+[[Fire|fire]]-[[dogs]]. There is constantly a rousing [[Fire|fire]], and a huge pot
 
-      over it, full of sauer-kraut and pork, to which the good woman of
+over it, full of sauer-kraut and pork, to which the good woman of
 
-      the [[house]] is always busy in attending. She is a little fat old
+the [[house]] is always busy in attending. She is a little fat old
 
-      lady, with blue eyes and a red face, and wears a huge cap like a
+lady, with blue eyes and a red face, and wears a huge cap like a
 
-      sugar-loaf, ornamented with purple and yellow ribbons. Her dress
+sugar-loaf, ornamented with purple and yellow ribbons. Her dress
 
-      is of orange-colored linsey-woolsey, made very full behind and
+is of orange-colored linsey-woolsey, made very full behind and
 
-      very short in the waist—and indeed very short in other respects,
+very short in the waist—and indeed very short in other respects,
 
-      not reaching below the middle of her leg. This is somewhat thick,
+not reaching below the middle of her leg. This is somewhat thick,
 
-      and so are her ankles, but she has a fine pair of green stockings
+and so are her ankles, but she has a fine pair of green stockings
 
-      to cover them. Her shoes—of pink leather—are fastened each with a
+to cover them. Her shoes—of pink leather—are fastened each with a
 
-      bunch of yellow ribbons puckered up in the shape of a cabbage. In
+bunch of yellow ribbons puckered up in the shape of a cabbage. In
 
-      her left hand she has a little heavy Dutch watch; in her right
+her left hand she has a little heavy Dutch watch; in her right
 
-      she wields a ladle for the sauerkraut and pork. By her side there
+she wields a ladle for the sauerkraut and pork. By her side there
 
-      stands a fat tabby cat, with a gilt toy-repeater tied to its
+stands a fat tabby cat, with a gilt toy-repeater tied to its
 
-      tail, which “the boys” have there fastened by way of a quiz.
+tail, which “the boys” have there fastened by way of a quiz.
 
 
 
-      The boys themselves are, all three of them, in the [[Garden|garden]]
+The boys themselves are, all three of them, in the [[Garden|garden]]
 
-      attending the pig. They are each two feet in height. They have
+attending the pig. They are each two feet in height. They have
 
-      three-cornered cocked hats, purple waistcoats reaching down to
+three-cornered cocked hats, purple waistcoats reaching down to
 
-      their thighs, buckskin knee-breeches, red stockings, heavy shoes
+their thighs, buckskin knee-breeches, red stockings, heavy shoes
 
-      with big silver buckles, long surtout coats with large buttons of
+with big silver buckles, long surtout coats with large buttons of
 
-      mother-of-pearl. Each, too, has a pipe in his mouth, and a little
+mother-of-pearl. Each, too, has a pipe in his mouth, and a little
 
-      dumpy watch in his right hand. He takes a puff and a look, and
+dumpy watch in his right hand. He takes a puff and a look, and
 
-      then a look and a puff. The pig—which is corpulent and lazy—is
+then a look and a puff. The pig—which is corpulent and lazy—is
 
-      occupied now in picking up the stray [[Leaves|leaves]] that fall from the
+occupied now in picking up the stray [[Leaves|leaves]] that fall from the
 
-      cabbages, and now in giving a kick behind at the gilt repeater,
+cabbages, and now in giving a kick behind at the gilt repeater,
 
-      which the urchins have also tied to his tail in order to make him
+which the urchins have also tied to his tail in order to make him
 
-      look as handsome as the cat.
+look as handsome as the cat.
 
 
 
-      Right at the front door, in a high-backed leather-bottomed armed
+Right at the front door, in a high-backed leather-bottomed armed
 
-      chair, with crooked legs and puppy feet like the tables, is
+chair, with crooked legs and puppy feet like the tables, is
 
-      seated the old man of the [[house]] himself. He is an exceedingly
+seated the old man of the [[house]] himself. He is an exceedingly
 
-      puffy little old gentleman, with big circular eyes and a huge
+puffy little old gentleman, with big circular eyes and a huge
 
-      [[Double|double]] chin. His dress resembles that of the boys—and I need say
+[[Double|double]] chin. His dress resembles that of the boys—and I need say
 
-      nothing farther about it. All the difference is, that his pipe is
+nothing farther about it. All the difference is, that his pipe is
 
-      somewhat bigger than theirs and he can make a greater smoke. Like
+somewhat bigger than theirs and he can make a greater smoke. Like
 
-      them, he has a watch, but he carries his watch in his pocket. To
+them, he has a watch, but he carries his watch in his pocket. To
 
-      say the [[Truth|truth]], he has something of more importance than a watch
+say the [[Truth|truth]], he has something of more importance than a watch
 
-      to attend to—and what that is, I shall presently explain. He sits
+to attend to—and what that is, I shall presently explain. He sits
 
-      with his right leg upon his left knee, wears a [[Grave|grave]] countenance,
+with his right leg upon his left knee, wears a [[Grave|grave]] countenance,
 
-      and always keeps one of his eyes, at least, resolutely bent upon
+and always keeps one of his eyes, at least, resolutely bent upon
 
-      a certain remarkable object in the centre of the plain.
+a certain remarkable object in the centre of the plain.
 
 
 
-      This object is situated in the steeple of the [[house|House]] of the Town
+This object is situated in the steeple of the [[house|House]] of the Town
 
-      Council. The Town Council are all very little, round, oily,
+Council. The Town Council are all very little, round, oily,
 
-      intelligent men, with big saucer eyes and fat [[Double|double]] chins, and
+intelligent men, with big saucer eyes and fat [[Double|double]] chins, and
 
-      have their coats much longer and their shoe-buckles much bigger
+have their coats much longer and their shoe-buckles much bigger
 
-      than the ordinary inhabitants of Vondervotteimittiss. Since my
+than the ordinary inhabitants of Vondervotteimittiss. Since my
 
-      sojourn in the borough, they have had several special meetings,
+sojourn in the borough, they have had several special meetings,
 
-      and have adopted these three important resolutions:
+and have adopted these three important resolutions:
 
 
 
-      “That it is wrong to alter the good old course of things:”
+“That it is wrong to alter the good old course of things:”
 
 
 
-      “That there is nothing tolerable out of Vondervotteimittiss:”
+“That there is nothing tolerable out of Vondervotteimittiss:”
 
-      and—
+and—
 
 
 
-      “That we will stick by our clocks and our cabbages.”
+“That we will stick by our clocks and our cabbages.”
 
 
 
-      Above the session-room of the Council is the steeple, and in the
+Above the session-room of the Council is the steeple, and in the
 
-      steeple is the belfry, where exists, and has existed [[Time|time]] out of
+steeple is the belfry, where exists, and has existed [[Time|time]] out of
 
-      mind, the [[Pride|pride]] and [[Wonder|wonder]] of the village—the great [[Clock|clock]] of the
+mind, the [[Pride|pride]] and [[Wonder|wonder]] of the village—the great [[Clock|clock]] of the
 
-      borough of Vondervotteimittiss. And this is the object to which
+borough of Vondervotteimittiss. And this is the object to which
 
-      the eyes of the old gentlemen are turned who sit in the
+the eyes of the old gentlemen are turned who sit in the
 
-      leather-bottomed arm-chairs.
+leather-bottomed arm-chairs.
 
 
 
-      The great [[Clock|clock]] has seven faces—one in each of the seven sides of
+The great [[Clock|clock]] has seven faces—one in each of the seven sides of
 
-      the steeple—so that it can be readily seen from all quarters. Its
+the steeple—so that it can be readily seen from all quarters. Its
 
-      faces are large and white, and its hands heavy and black. There
+faces are large and white, and its hands heavy and black. There
 
-      is a belfry-man whose sole duty is to attend to it; but this duty
+is a belfry-man whose sole duty is to attend to it; but this duty
 
-      is the most perfect of sinecures—for the [[Clock|clock]] of
+is the most perfect of sinecures—for the [[Clock|clock]] of
 
-      Vondervotteimittis was never yet known to have anything the
+Vondervotteimittis was never yet known to have anything the
 
-      matter with it. Until lately, the bare supposition of such a
+matter with it. Until lately, the bare supposition of such a
 
-      thing was considered heretical. From the remotest period of
+thing was considered heretical. From the remotest period of
 
-      antiquity to which the archives have reference, the hours have
+antiquity to which the archives have reference, the hours have
 
-      been regularly struck by the big bell. And, indeed the case was
+been regularly struck by the big bell. And, indeed the case was
 
-      just the same with all the other clocks and watches in the
+just the same with all the other clocks and watches in the
 
-      borough. Never was such a place for keeping the true [[Time|time]]. When
+borough. Never was such a place for keeping the true [[Time|time]]. When
 
-      the large clapper thought proper to say “Twelve o’[[Clock|clock]]!” all its
+the large clapper thought proper to say “Twelve o’[[Clock|clock]]!” all its
 
-      obedient followers opened their throats simultaneously, and
+obedient followers opened their throats simultaneously, and
 
-      responded like a very echo. In short, the good burghers were fond
+responded like a very echo. In short, the good burghers were fond
 
-      of their sauer-kraut, but then they were proud of their clocks.
+of their sauer-kraut, but then they were proud of their clocks.
 
 
 
-      All people who hold sinecure offices are held in more or less
+All people who hold sinecure offices are held in more or less
 
-      respect, and as the belfry—man of Vondervotteimittiss has the
+respect, and as the belfry—man of Vondervotteimittiss has the
 
-      most perfect of sinecures, he is the most perfectly respected of
+most perfect of sinecures, he is the most perfectly respected of
 
-      any man in the world. He is the chief dignitary of the borough,
+any man in the world. He is the chief dignitary of the borough,
 
-      and the very pigs look up to him with a sentiment of reverence.
+and the very pigs look up to him with a sentiment of reverence.
 
-      His coat-tail is very far longer—his pipe, his shoe-buckles, his
+His coat-tail is very far longer—his pipe, his shoe-buckles, his
 
-      eyes, and his stomach, very far bigger—than those of any other
+eyes, and his stomach, very far bigger—than those of any other
 
-      old gentleman in the village; and as to his chin, it is not only
+old gentleman in the village; and as to his chin, it is not only
 
-      [[Double|double]], but triple.
+[[Double|double]], but triple.
 
 
 
-      I have thus painted the happy estate of Vondervotteimittiss:
+I have thus painted the happy estate of Vondervotteimittiss:
 
-      alas, that so fair a picture should ever experience a reverse!
+alas, that so fair a picture should ever experience a reverse!
 
 
 
-      There has been long a saying among the wisest inhabitants, that
+There has been long a saying among the wisest inhabitants, that
 
-      “no good can come from over the hills”; and it really seemed that
+“no good can come from over the hills”; and it really seemed that
 
-      the words had in them something of the spirit of prophecy. It
+the words had in them something of the spirit of prophecy. It
 
-      wanted five minutes of [[Noon|noon]], on the day before yesterday, when
+wanted five minutes of [[Noon|noon]], on the day before yesterday, when
 
-      there appeared a very odd-looking object on the summit of the
+there appeared a very odd-looking object on the summit of the
 
-      ridge of the eastward. Such an occurrence, of course, attracted
+ridge of the eastward. Such an occurrence, of course, attracted
 
-      universal attention, and every little old gentleman who sat in a
+universal attention, and every little old gentleman who sat in a
 
-      leather-bottomed arm-chair turned one of his eyes with a stare of
+leather-bottomed arm-chair turned one of his eyes with a stare of
 
-      dismay upon the phenomenon, still keeping the other upon the
+dismay upon the phenomenon, still keeping the other upon the
 
-      [[Clock|clock]] in the steeple.
+[[Clock|clock]] in the steeple.
 
 
 
-      By the [[Time|time]] that it wanted only three minutes to [[Noon|noon]], the droll
+By the [[Time|time]] that it wanted only three minutes to [[Noon|noon]], the droll
 
-      object in question was perceived to be a very diminutive
+object in question was perceived to be a very diminutive
 
-      foreign-looking young man. He descended the hills at a great
+foreign-looking young man. He descended the hills at a great
 
-      rate, so that every [[Body|body]] had soon a good look at him. He was
+rate, so that every [[Body|body]] had soon a good look at him. He was
 
-      really the most finicky little personage that had ever been seen
+really the most finicky little personage that had ever been seen
 
-      in Vondervotteimittiss. His countenance was of a dark
+in Vondervotteimittiss. His countenance was of a dark
 
-      snuff-color, and he had a long hooked nose, pea eyes, a wide
+snuff-color, and he had a long hooked nose, pea eyes, a wide
 
-      mouth, and an excellent set of teeth, which latter he seemed
+mouth, and an excellent set of teeth, which latter he seemed
 
-      anxious of displaying, as he was grinning from ear to ear. What
+anxious of displaying, as he was grinning from ear to ear. What
 
-      with mustachios and whiskers, there was none of the rest of his
+with mustachios and whiskers, there was none of the rest of his
 
-      face to be seen. His head was uncovered, and his hair neatly done
+face to be seen. His head was uncovered, and his hair neatly done
 
-      up in papillotes. His dress was a tight-fitting [[Swallow|swallow]]-tailed
+up in papillotes. His dress was a tight-fitting [[Swallow|swallow]]-tailed
 
-      black coat (from one of whose pockets dangled a vast length of
+black coat (from one of whose pockets dangled a vast length of
 
-      white handkerchief), black kerseymere knee-breeches, black
+white handkerchief), black kerseymere knee-breeches, black
 
-      stockings, and stumpy-looking pumps, with huge bunches of black
+stockings, and stumpy-looking pumps, with huge bunches of black
 
-      satin ribbon for bows. Under one arm he carried a huge
+satin ribbon for bows. Under one arm he carried a huge
 
-      _chapeau-de-bras_, and under the other a fiddle nearly five times
+_chapeau-de-bras_, and under the other a fiddle nearly five times
 
-      as big as himself. In his left hand was a gold snuff-box, from
+as big as himself. In his left hand was a gold snuff-box, from
 
-      which, as he capered down the [[Hill|hill]], cutting all manner of
+which, as he capered down the [[Hill|hill]], cutting all manner of
 
-      fantastic steps, he took snuff incessantly with an air of the
+fantastic steps, he took snuff incessantly with an air of the
 
-      greatest possible [[Self|self]]-satisfaction. God bless me!—here was a
+greatest possible [[Self|self]]-satisfaction. God bless me!—here was a
 
-      sight for the honest burghers of Vondervotteimittiss!
+sight for the honest burghers of Vondervotteimittiss!
 
 
 
-      To speak plainly, the fellow had, in spite of his grinning, an
+To speak plainly, the fellow had, in spite of his grinning, an
 
-      audacious and sinister kind of face; and as he curvetted right
+audacious and sinister kind of face; and as he curvetted right
 
-      into the village, the old stumpy appearance of his pumps excited
+into the village, the old stumpy appearance of his pumps excited
 
-      no little suspicion; and many a burgher who beheld him that day
+no little suspicion; and many a burgher who beheld him that day
 
-      would have given a trifle for a peep beneath the white cambric
+would have given a trifle for a peep beneath the white cambric
 
-      handkerchief which hung so obtrusively from the pocket of his
+handkerchief which hung so obtrusively from the pocket of his
 
-      [[Swallow|swallow]]-tailed coat. But what mainly occasioned a righteous
+[[Swallow|swallow]]-tailed coat. But what mainly occasioned a righteous
 
-      indignation was, that the scoundrelly popinjay, while he cut a
+indignation was, that the scoundrelly popinjay, while he cut a
 
-      fandango here, and a whirligig there, did not seem to have the
+fandango here, and a whirligig there, did not seem to have the
 
-      remotest idea in the world of such a thing as keeping [[Time|time]] in his
+remotest idea in the world of such a thing as keeping [[Time|time]] in his
 
-      steps.
+steps.
 
 
 
-      The good people of the borough had scarcely a chance, however, to
+The good people of the borough had scarcely a chance, however, to
 
-      get their eyes thoroughly open, when, just as it wanted half a
+get their eyes thoroughly open, when, just as it wanted half a
 
-      minute of [[Noon|noon]], the rascal bounced, as I say, right into the
+minute of [[Noon|noon]], the rascal bounced, as I say, right into the
 
-      midst of them; gave a _chassez_ here, and a _balancez_ there; and
+midst of them; gave a _chassez_ here, and a _balancez_ there; and
 
-      then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
+then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
 
-      himself right up into the belfry of the [[house|House]] of the Town
+himself right up into the belfry of the [[house|House]] of the Town
 
-      Council, where the [[Wonder|wonder]]-stricken belfry-man sat smoking in a
+Council, where the [[Wonder|wonder]]-stricken belfry-man sat smoking in a
 
-      state of dignity and dismay. But the little chap seized him at
+state of dignity and dismay. But the little chap seized him at
 
-      once by the nose; gave it a swing and a pull; clapped the big
+once by the nose; gave it a swing and a pull; clapped the big
 
-      _chapeau-de-bras_ upon his head; knocked it down over his eyes
+_chapeau-de-bras_ upon his head; knocked it down over his eyes
 
-      and mouth; and then, lifting up the big fiddle, beat him with it
+and mouth; and then, lifting up the big fiddle, beat him with it
 
-      so long and so soundly, that what with the belfry-man being so
+so long and so soundly, that what with the belfry-man being so
 
-      fat, and the fiddle being so hollow, you would have sworn that
+fat, and the fiddle being so hollow, you would have sworn that
 
-      there was a regiment of [[Double|double]]-bass drummers all beating the
+there was a regiment of [[Double|double]]-bass drummers all beating the
 
-      devil’s tattoo up in the belfry of the steeple of
+devil’s tattoo up in the belfry of the steeple of
 
-      Vondervotteimittiss.
+Vondervotteimittiss.
 
 
 
-      There is no knowing to what desperate act of vengeance this
+There is no knowing to what desperate act of vengeance this
 
-      unprincipled attack might have aroused the inhabitants, but for
+unprincipled attack might have aroused the inhabitants, but for
 
-      the important fact that it now wanted only half a second of [[Noon|noon]].
+the important fact that it now wanted only half a second of [[Noon|noon]].
 
-      The bell was about to strike, and it was a matter of absolute and
+The bell was about to strike, and it was a matter of absolute and
 
-      pre-eminent necessity that every [[Body|body]] should look [[Well|well]] at his
+pre-eminent necessity that every [[Body|body]] should look [[Well|well]] at his
 
-      watch. It was evident, however, that just at this moment the
+watch. It was evident, however, that just at this moment the
 
-      fellow in the steeple was doing something that he had no business
+fellow in the steeple was doing something that he had no business
 
-      to do with the [[Clock|clock]]. But as it now began to strike, nobody had
+to do with the [[Clock|clock]]. But as it now began to strike, nobody had
 
-      any [[Time|time]] to attend to his manœuvres, for they had all to count
+any [[Time|time]] to attend to his manœuvres, for they had all to count
 
-      the strokes of the bell as it sounded.
+the strokes of the bell as it sounded.
 
 
 
-      “One!” said the [[Clock|clock]].
+“One!” said the [[Clock|clock]].
 
 
 
-      “Von!” echoed every little old gentleman in every
+“Von!” echoed every little old gentleman in every
 
-      leather-bottomed arm-chair in Vondervotteimittiss. “Von!” said
+leather-bottomed arm-chair in Vondervotteimittiss. “Von!” said
 
-      his watch also; “von!” said the watch of his vrow; and “von!”
+his watch also; “von!” said the watch of his vrow; and “von!”
 
-      said the watches of the boys, and the little gilt repeaters on
+said the watches of the boys, and the little gilt repeaters on
 
-      the tails of the cat and pig.
+the tails of the cat and pig.
 
 
 
-      “Two!” continued the big bell; and
+“Two!” continued the big bell; and
 
 
 
-      “Doo!” repeated all the repeaters.
+“Doo!” repeated all the repeaters.
 
 
 
-      “Three! Four! Five! Six! Seven! Eight! Nine! Ten!” said the bell.
+“Three! Four! Five! Six! Seven! Eight! Nine! Ten!” said the bell.
 
 
 
-      “Dree! Vour! Fibe! Sax! Seben! Aight! Noin! Den!” answered the
+“Dree! Vour! Fibe! Sax! Seben! Aight! Noin! Den!” answered the
 
-      others.
+others.
 
 
 
-      “Eleven!” said the big one.
+“Eleven!” said the big one.
 
 
 
-      “Eleben!” assented the little ones.
+“Eleben!” assented the little ones.
 
 
 
-      “Twelve!” said the bell.
+“Twelve!” said the bell.
 
 
 
-      “Dvelf!” they replied perfectly satisfied, and dropping their
+“Dvelf!” they replied perfectly satisfied, and dropping their
 
-      voices.
+voices.
 
 
 
-      “Und dvelf it is!” said all the little old gentlemen, putting up
+“Und dvelf it is!” said all the little old gentlemen, putting up
 
-      their watches. But the big bell had not done with them yet.
+their watches. But the big bell had not done with them yet.
 
 
 
-      “Thirteen!” said he.
+“Thirteen!” said he.
 
 
 
-      “Der Teufel!” gasped the little old gentlemen, turning pale,
+“Der Teufel!” gasped the little old gentlemen, turning pale,
 
-      dropping their pipes, and putting down all their right legs from
+dropping their pipes, and putting down all their right legs from
 
-      over their left knees.
+over their left knees.
 
 
 
-      “Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
+“Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
 
-      Dirteen o’[[Clock|clock]]!!”
+Dirteen o’[[Clock|clock]]!!”
 
 
 
-      Why attempt to describe the terrible scene which ensued? All
+Why attempt to describe the terrible scene which ensued? All
 
-      Vondervotteimittiss flew at once into a lamentable state of
+Vondervotteimittiss flew at once into a lamentable state of
 
-      uproar.
+uproar.
 
 
 
-      “Vot is cum’d to mein pelly?” roared all the boys—“I’ve been
+“Vot is cum’d to mein pelly?” roared all the boys—“I’ve been
 
-      ongry for dis hour!”
+ongry for dis hour!”
 
 
 
-      “Vot is com’d to mein kraut?” screamed all the vrows, “It has
+“Vot is com’d to mein kraut?” screamed all the vrows, “It has
 
-      been done to rags for this hour!”
+been done to rags for this hour!”
 
 
 
-      “Vot is cum’d to mein pipe?” swore all the little old gentlemen,
+“Vot is cum’d to mein pipe?” swore all the little old gentlemen,
 
-      “Donder and Blitzen; it has been smoked out for dis hour!”—and
+“Donder and Blitzen; it has been smoked out for dis hour!”—and
 
-      they filled them up again in a great rage, and sinking back in
+they filled them up again in a great rage, and sinking back in
 
-      their arm-chairs, puffed away so fast and so fiercely that the
+their arm-chairs, puffed away so fast and so fiercely that the
 
-      whole valley was immediately filled with impenetrable smoke.
+whole valley was immediately filled with impenetrable smoke.
 
 
 
-      Meantime the cabbages all turned very red in the face, and it
+Meantime the cabbages all turned very red in the face, and it
 
-      seemed as if old Nick himself had taken possession of every thing
+seemed as if old Nick himself had taken possession of every thing
 
-      in the shape of a timepiece. The clocks carved upon the furniture
+in the shape of a timepiece. The clocks carved upon the furniture
 
-      took to dancing as if bewitched, while those upon the
+took to dancing as if bewitched, while those upon the
 
-      mantel-pieces could scarcely contain themselves for fury, and
+mantel-pieces could scarcely contain themselves for fury, and
 
-      kept such a continual striking of thirteen, and such a frisking
+kept such a continual striking of thirteen, and such a frisking
 
-      and wriggling of their pendulums as was really horrible to see.
+and wriggling of their pendulums as was really horrible to see.
 
-      But, worse than all, neither the cats nor the pigs could put up
+But, worse than all, neither the cats nor the pigs could put up
 
-      any longer with the behavior of the little repeaters tied to
+any longer with the behavior of the little repeaters tied to
 
-      their tails, and resented it by scampering all over the place,
+their tails, and resented it by scampering all over the place,
 
-      scratching and poking, and squeaking and screeching, and
+scratching and poking, and squeaking and screeching, and
 
-      caterwauling and squalling, and flying into the faces, and
+caterwauling and squalling, and flying into the faces, and
 
-      running under the petticoats of the people, and creating
+running under the petticoats of the people, and creating
 
-      altogether the most abominable din and confusion which it is
+altogether the most abominable din and confusion which it is
 
-      possible for a reasonable person to conceive. And to make matters
+possible for a reasonable person to conceive. And to make matters
 
-      still more distressing, the rascally little scape-grace in the
+still more distressing, the rascally little scape-grace in the
 
-      steeple was evidently exerting himself to the utmost. Every now
+steeple was evidently exerting himself to the utmost. Every now
 
-      and then one might catch a glimpse of the scoundrel through the
+and then one might catch a glimpse of the scoundrel through the
 
-      smoke. There he sat in the belfry upon the belfry-man, who was
+smoke. There he sat in the belfry upon the belfry-man, who was
 
-      lying flat upon his back. In his teeth the [[Villain|villain]] held the
+lying flat upon his back. In his teeth the [[Villain|villain]] held the
 
-      bell-rope, which he kept jerking about with his head, raising
+bell-rope, which he kept jerking about with his head, raising
 
-      such a clatter that my ears ring again even to think of it. On
+such a clatter that my ears ring again even to think of it. On
 
-      his lap lay the big fiddle, at which he was scraping, out of all
+his lap lay the big fiddle, at which he was scraping, out of all
 
-      [[Time|time]] and tune, with both hands, making a great show, the
+[[Time|time]] and tune, with both hands, making a great show, the
 
-      nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
+nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
 
 
 
-      Affairs being thus miserably situated, I left the place in
+Affairs being thus miserably situated, I left the place in
 
-      disgust, and now appeal for aid to all [[lovers]] of correct [[Time|time]] and
+disgust, and now appeal for aid to all [[lovers]] of correct [[Time|time]] and
 
-      fine kraut. Let us proceed in a [[Body|body]] to the borough, and restore
+fine kraut. Let us proceed in a [[Body|body]] to the borough, and restore
 
-      the ancient order of things in Vondervotteimittiss by ejecting
+the ancient order of things in Vondervotteimittiss by ejecting
 
-      that little fellow from the steeple.
+that little fellow from the steeple.
 
 
 
@@ -728,185 +728,185 @@ What o’[[Clock|clock]] is it?—_Old Saying_.
 
 
 
-      Everybody knows, in a general way, that the finest place in the
+Everybody knows, in a general way, that the finest place in the
 
-      world is—or, alas, _was_—the Dutch borough of
+world is—or, alas, _was_—the Dutch borough of
 
-      Vondervotteimittiss. Yet as it lies some distance from any of the
+Vondervotteimittiss. Yet as it lies some distance from any of the
 
-      main roads, being in a somewhat out-of-the-way situation, there
+main roads, being in a somewhat out-of-the-way situation, there
 
-      are perhaps very few of my readers who have ever paid it a visit.
+are perhaps very few of my readers who have ever paid it a visit.
 
-      For the benefit of those who have not, therefore, it will be only
+For the benefit of those who have not, therefore, it will be only
 
-      proper that I should enter into some account of it. And this is
+proper that I should enter into some account of it. And this is
 
-      indeed the more necessary, as with the [[Hope|hope]] of enlisting public
+indeed the more necessary, as with the [[Hope|hope]] of enlisting public
 
-      sympathy in behalf of the inhabitants, I design here to give a
+sympathy in behalf of the inhabitants, I design here to give a
 
-      [[history]] of the calamitous events which have so lately occurred
+[[history]] of the calamitous events which have so lately occurred
 
-      within its limits. No one who knows me will [[Doubt|doubt]] that the duty
+within its limits. No one who knows me will [[Doubt|doubt]] that the duty
 
-      thus [[Self|self]]-imposed will be executed to the best of my ability,
+thus [[Self|self]]-imposed will be executed to the best of my ability,
 
-      with all that rigid impartiality, all that cautious examination
+with all that rigid impartiality, all that cautious examination
 
-      into facts, and diligent collation of authorities, which should
+into facts, and diligent collation of authorities, which should
 
-      ever distinguish him who aspires to the title of historian.
+ever distinguish him who aspires to the title of historian.
 
 
 
-      By the united aid of medals, manuscripts, and inscriptions, I am
+By the united aid of medals, manuscripts, and inscriptions, I am
 
-      enabled to say, positively, that the borough of
+enabled to say, positively, that the borough of
 
-      Vondervotteimittiss has existed, from its origin, in precisely
+Vondervotteimittiss has existed, from its origin, in precisely
 
-      the same condition which it at present preserves. Of the date of
+the same condition which it at present preserves. Of the date of
 
-      this origin, however, I grieve that I can only speak with that
+this origin, however, I grieve that I can only speak with that
 
-      species of indefinite definiteness which mathematicians are, at
+species of indefinite definiteness which mathematicians are, at
 
-      times, forced to put up with in certain algebraic formulae. The
+times, forced to put up with in certain algebraic formulae. The
 
-      date, I may thus say, in regard to the remoteness of its
+date, I may thus say, in regard to the remoteness of its
 
-      antiquity, cannot be less than any assignable quantity
+antiquity, cannot be less than any assignable quantity
 
-      whatsoever.
+whatsoever.
 
 
 
-      Touching the derivation of the name Vondervotteimittiss, I
+Touching the derivation of the name Vondervotteimittiss, I
 
-      confess myself, with sorrow, equally at fault. Among a multitude
+confess myself, with sorrow, equally at fault. Among a multitude
 
-      of opinions upon this delicate point—some acute, some learned,
+of opinions upon this delicate point—some acute, some learned,
 
-      some sufficiently the reverse—I am able to select nothing which
+some sufficiently the reverse—I am able to select nothing which
 
-      ought to be considered satisfactory. Perhaps the idea of
+ought to be considered satisfactory. Perhaps the idea of
 
-      Grogswigg—nearly coincident with that of Kroutaplenttey—is to be
+Grogswigg—nearly coincident with that of Kroutaplenttey—is to be
 
-      cautiously preferred.—It runs:—“Vondervotteimittis—Vonder, lege
+cautiously preferred.—It runs:—“Vondervotteimittis—Vonder, lege
 
-      Donder—Votteimittis, quasi und Bleitziz—Bleitziz obsol:—pro
+Donder—Votteimittis, quasi und Bleitziz—Bleitziz obsol:—pro
 
-      Blitzen.” This derivative, to say the [[Truth|truth]], is still
+Blitzen.” This derivative, to say the [[Truth|truth]], is still
 
-      countenanced by some traces of the electric fluid evident on the
+countenanced by some traces of the electric fluid evident on the
 
-      summit of the steeple of the [[house|House]] of the Town-Council. I do not
+summit of the steeple of the [[house|House]] of the Town-Council. I do not
 
-      choose, however, to commit myself on a theme of such importance,
+choose, however, to commit myself on a theme of such importance,
 
-      and must refer the reader desirous of information to the
+and must refer the reader desirous of information to the
 
-      “Oratiunculae de Rebus Praeter-Veteris,” of Dundergutz. See,
+“Oratiunculae de Rebus Praeter-Veteris,” of Dundergutz. See,
 
-      also, Blunderbuzzard “De Derivationibus,” pp. 27 to 5010, Folio,
+also, Blunderbuzzard “De Derivationibus,” pp. 27 to 5010, Folio,
 
-      Gothic edit., Red and Black character, Catch-word and No Cypher;
+Gothic edit., Red and Black character, Catch-word and No Cypher;
 
-      wherein consult, also, marginal notes in the autograph of
+wherein consult, also, marginal notes in the autograph of
 
-      Stuffundpuff, with the Sub-Commentaries of Gruntundguzzell.
+Stuffundpuff, with the Sub-Commentaries of Gruntundguzzell.
 
 
 
-      Notwithstanding the obscurity which thus envelops the date of the
+Notwithstanding the obscurity which thus envelops the date of the
 
-      foundation of Vondervotteimittis, and the derivation of its name,
+foundation of Vondervotteimittis, and the derivation of its name,
 
-      there can be no [[Doubt|doubt]], as I said before, that it has always
+there can be no [[Doubt|doubt]], as I said before, that it has always
 
-      existed as we find it at this epoch. The oldest man in the
+existed as we find it at this epoch. The oldest man in the
 
-      borough can remember not the slightest difference in the
+borough can remember not the slightest difference in the
 
-      appearance of any portion of it; and, indeed, the very suggestion
+appearance of any portion of it; and, indeed, the very suggestion
 
-      of such a possibility is considered an insult. The site of the
+of such a possibility is considered an insult. The site of the
 
-      village is in a perfectly circular valley, about a quarter of a
+village is in a perfectly circular valley, about a quarter of a
 
-      mile in circumference, and entirely surrounded by gentle hills,
+mile in circumference, and entirely surrounded by gentle hills,
 
-      over whose summit the people have never yet ventured to pass. For
+over whose summit the people have never yet ventured to pass. For
 
-      this they assign the very good reason that they do not believe
+this they assign the very good reason that they do not believe
 
-      there is anything at all on the other side.
+there is anything at all on the other side.
 
 
 
-      Round the skirts of the valley (which is quite level, and paved
+Round the skirts of the valley (which is quite level, and paved
 
-      throughout with flat tiles), extends a continuous row of sixty
+throughout with flat tiles), extends a continuous row of sixty
 
-      little houses. These, having their backs on the hills, must look,
+little houses. These, having their backs on the hills, must look,
 
-      of course, to the centre of the plain, which is just sixty yards
+of course, to the centre of the plain, which is just sixty yards
 
-      from the front door of each dwelling. Every [[house]] has a small
+from the front door of each dwelling. Every [[house]] has a small
 
-      [[Garden|garden]] before it, with a circular path, a sun-dial, and
+[[Garden|garden]] before it, with a circular path, a sun-dial, and
 
-      twenty-four cabbages. The buildings themselves are so precisely
+twenty-four cabbages. The buildings themselves are so precisely
 
-      alike, that one can in no manner be distinguished from the other.
+alike, that one can in no manner be distinguished from the other.
 
-      Owing to the vast antiquity, the style of architecture is
+Owing to the vast antiquity, the style of architecture is
 
-      somewhat odd, but it is not for that reason the less strikingly
+somewhat odd, but it is not for that reason the less strikingly
 
-      picturesque. They are fashioned of hard-burned little bricks,
+picturesque. They are fashioned of hard-burned little bricks,
 
-      red, with black ends, so that the walls look like a chess-board
+red, with black ends, so that the walls look like a chess-board
 
-      upon a great scale. The gables are turned to the front, and there
+upon a great scale. The gables are turned to the front, and there
 
-      are cornices, as big as all the rest of the [[house]], over the eaves
+are cornices, as big as all the rest of the [[house]], over the eaves
 
-      and over the main doors. The windows are narrow and deep, with
+and over the main doors. The windows are narrow and deep, with
 
-      very tiny panes and a great deal of sash. On the roof is a vast
+very tiny panes and a great deal of sash. On the roof is a vast
 
-      quantity of tiles with long curly ears. The woodwork, throughout,
+quantity of tiles with long curly ears. The woodwork, throughout,
 
-      is of a dark hue and there is much carving about it, with but a
+is of a dark hue and there is much carving about it, with but a
 
-      trifling variety of pattern for, [[Time|time]] out of mind, the carvers of
+trifling variety of pattern for, [[Time|time]] out of mind, the carvers of
 
-      Vondervotteimittiss have never been able to carve more than two
+Vondervotteimittiss have never been able to carve more than two
 
-      objects—a [[Time|time]]-piece and a cabbage. But these they do exceedingly
+objects—a [[Time|time]]-piece and a cabbage. But these they do exceedingly
 
-      [[Well|well]], and intersperse them, with singular ingenuity, wherever
+[[Well|well]], and intersperse them, with singular ingenuity, wherever
 
-      they find room for the chisel.
+they find room for the chisel.
 
 
 
-      The dwellings are as much alike inside as out, and the furniture
+The dwellings are as much alike inside as out, and the furniture
 
-      is all upon one plan. The floors are of square tiles, the chairs
+is all upon one plan. The floors are of square tiles, the chairs
 
-      and tables of black-looking wood with thin crooked legs and puppy
+and tables of black-looking wood with thin crooked legs and puppy
 
-      feet. The mantelpieces are wide and high, and have not only
+feet. The mantelpieces are wide and high, and have not only
 
-      [[Time|time]]-pieces and cabbages sculptured over the front, but a real
+[[Time|time]]-pieces and cabbages sculptured over the front, but a real
 
-      [[Time|time]]-piece, which makes a prodigious ticking, on the top in the
+[[Time|time]]-piece, which makes a prodigious ticking, on the top in the
 
-      middle, with a flower-pot containing a cabbage standing on each
+middle, with a flower-pot containing a cabbage standing on each
 
 
 
@@ -914,197 +914,197 @@ What o’[[Clock|clock]] is it?—_Old Saying_.
 <span class="atom-split" data-atom="part--part_02" data-title="The Devil in the Belfry (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
 
-      extremity by way of outrider. Between each cabbage and the
+extremity by way of outrider. Between each cabbage and the
 
-      [[Time|time]]-piece, again, is a little China man having a large stomach
+[[Time|time]]-piece, again, is a little China man having a large stomach
 
-      with a great round hole in it, through which is seen the
+with a great round hole in it, through which is seen the
 
-      dial-plate of a watch.
+dial-plate of a watch.
 
 
 
-      The fireplaces are large and deep, with fierce crooked-looking
+The fireplaces are large and deep, with fierce crooked-looking
 
-      [[Fire|fire]]-[[dogs]]. There is constantly a rousing [[Fire|fire]], and a huge pot
+[[Fire|fire]]-[[dogs]]. There is constantly a rousing [[Fire|fire]], and a huge pot
 
-      over it, full of sauer-kraut and pork, to which the good woman of
+over it, full of sauer-kraut and pork, to which the good woman of
 
-      the [[house]] is always busy in attending. She is a little fat old
+the [[house]] is always busy in attending. She is a little fat old
 
-      lady, with blue eyes and a red face, and wears a huge cap like a
+lady, with blue eyes and a red face, and wears a huge cap like a
 
-      sugar-loaf, ornamented with purple and yellow ribbons. Her dress
+sugar-loaf, ornamented with purple and yellow ribbons. Her dress
 
-      is of orange-colored linsey-woolsey, made very full behind and
+is of orange-colored linsey-woolsey, made very full behind and
 
-      very short in the waist—and indeed very short in other respects,
+very short in the waist—and indeed very short in other respects,
 
-      not reaching below the middle of her leg. This is somewhat thick,
+not reaching below the middle of her leg. This is somewhat thick,
 
-      and so are her ankles, but she has a fine pair of green stockings
+and so are her ankles, but she has a fine pair of green stockings
 
-      to cover them. Her shoes—of pink leather—are fastened each with a
+to cover them. Her shoes—of pink leather—are fastened each with a
 
-      bunch of yellow ribbons puckered up in the shape of a cabbage. In
+bunch of yellow ribbons puckered up in the shape of a cabbage. In
 
-      her left hand she has a little heavy Dutch watch; in her right
+her left hand she has a little heavy Dutch watch; in her right
 
-      she wields a ladle for the sauerkraut and pork. By her side there
+she wields a ladle for the sauerkraut and pork. By her side there
 
-      stands a fat tabby cat, with a gilt toy-repeater tied to its
+stands a fat tabby cat, with a gilt toy-repeater tied to its
 
-      tail, which “the boys” have there fastened by way of a quiz.
+tail, which “the boys” have there fastened by way of a quiz.
 
 
 
-      The boys themselves are, all three of them, in the [[Garden|garden]]
+The boys themselves are, all three of them, in the [[Garden|garden]]
 
-      attending the pig. They are each two feet in height. They have
+attending the pig. They are each two feet in height. They have
 
-      three-cornered cocked hats, purple waistcoats reaching down to
+three-cornered cocked hats, purple waistcoats reaching down to
 
-      their thighs, buckskin knee-breeches, red stockings, heavy shoes
+their thighs, buckskin knee-breeches, red stockings, heavy shoes
 
-      with big silver buckles, long surtout coats with large buttons of
+with big silver buckles, long surtout coats with large buttons of
 
-      mother-of-pearl. Each, too, has a pipe in his mouth, and a little
+mother-of-pearl. Each, too, has a pipe in his mouth, and a little
 
-      dumpy watch in his right hand. He takes a puff and a look, and
+dumpy watch in his right hand. He takes a puff and a look, and
 
-      then a look and a puff. The pig—which is corpulent and lazy—is
+then a look and a puff. The pig—which is corpulent and lazy—is
 
-      occupied now in picking up the stray [[Leaves|leaves]] that fall from the
+occupied now in picking up the stray [[Leaves|leaves]] that fall from the
 
-      cabbages, and now in giving a kick behind at the gilt repeater,
+cabbages, and now in giving a kick behind at the gilt repeater,
 
-      which the urchins have also tied to his tail in order to make him
+which the urchins have also tied to his tail in order to make him
 
-      look as handsome as the cat.
+look as handsome as the cat.
 
 
 
-      Right at the front door, in a high-backed leather-bottomed armed
+Right at the front door, in a high-backed leather-bottomed armed
 
-      chair, with crooked legs and puppy feet like the tables, is
+chair, with crooked legs and puppy feet like the tables, is
 
-      seated the old man of the [[house]] himself. He is an exceedingly
+seated the old man of the [[house]] himself. He is an exceedingly
 
-      puffy little old gentleman, with big circular eyes and a huge
+puffy little old gentleman, with big circular eyes and a huge
 
-      [[Double|double]] chin. His dress resembles that of the boys—and I need say
+[[Double|double]] chin. His dress resembles that of the boys—and I need say
 
-      nothing farther about it. All the difference is, that his pipe is
+nothing farther about it. All the difference is, that his pipe is
 
-      somewhat bigger than theirs and he can make a greater smoke. Like
+somewhat bigger than theirs and he can make a greater smoke. Like
 
-      them, he has a watch, but he carries his watch in his pocket. To
+them, he has a watch, but he carries his watch in his pocket. To
 
-      say the [[Truth|truth]], he has something of more importance than a watch
+say the [[Truth|truth]], he has something of more importance than a watch
 
-      to attend to—and what that is, I shall presently explain. He sits
+to attend to—and what that is, I shall presently explain. He sits
 
-      with his right leg upon his left knee, wears a [[Grave|grave]] countenance,
+with his right leg upon his left knee, wears a [[Grave|grave]] countenance,
 
-      and always keeps one of his eyes, at least, resolutely bent upon
+and always keeps one of his eyes, at least, resolutely bent upon
 
-      a certain remarkable object in the centre of the plain.
+a certain remarkable object in the centre of the plain.
 
 
 
-      This object is situated in the steeple of the [[house|House]] of the Town
+This object is situated in the steeple of the [[house|House]] of the Town
 
-      Council. The Town Council are all very little, round, oily,
+Council. The Town Council are all very little, round, oily,
 
-      intelligent men, with big saucer eyes and fat [[Double|double]] chins, and
+intelligent men, with big saucer eyes and fat [[Double|double]] chins, and
 
-      have their coats much longer and their shoe-buckles much bigger
+have their coats much longer and their shoe-buckles much bigger
 
-      than the ordinary inhabitants of Vondervotteimittiss. Since my
+than the ordinary inhabitants of Vondervotteimittiss. Since my
 
-      sojourn in the borough, they have had several special meetings,
+sojourn in the borough, they have had several special meetings,
 
-      and have adopted these three important resolutions:
+and have adopted these three important resolutions:
 
 
 
-      “That it is wrong to alter the good old course of things:”
+“That it is wrong to alter the good old course of things:”
 
 
 
-      “That there is nothing tolerable out of Vondervotteimittiss:”
+“That there is nothing tolerable out of Vondervotteimittiss:”
 
-      and—
+and—
 
 
 
-      “That we will stick by our clocks and our cabbages.”
+“That we will stick by our clocks and our cabbages.”
 
 
 
-      Above the session-room of the Council is the steeple, and in the
+Above the session-room of the Council is the steeple, and in the
 
-      steeple is the belfry, where exists, and has existed [[Time|time]] out of
+steeple is the belfry, where exists, and has existed [[Time|time]] out of
 
-      mind, the [[Pride|pride]] and [[Wonder|wonder]] of the village—the great [[Clock|clock]] of the
+mind, the [[Pride|pride]] and [[Wonder|wonder]] of the village—the great [[Clock|clock]] of the
 
-      borough of Vondervotteimittiss. And this is the object to which
+borough of Vondervotteimittiss. And this is the object to which
 
-      the eyes of the old gentlemen are turned who sit in the
+the eyes of the old gentlemen are turned who sit in the
 
-      leather-bottomed arm-chairs.
+leather-bottomed arm-chairs.
 
 
 
-      The great [[Clock|clock]] has seven faces—one in each of the seven sides of
+The great [[Clock|clock]] has seven faces—one in each of the seven sides of
 
-      the steeple—so that it can be readily seen from all quarters. Its
+the steeple—so that it can be readily seen from all quarters. Its
 
-      faces are large and white, and its hands heavy and black. There
+faces are large and white, and its hands heavy and black. There
 
-      is a belfry-man whose sole duty is to attend to it; but this duty
+is a belfry-man whose sole duty is to attend to it; but this duty
 
-      is the most perfect of sinecures—for the [[Clock|clock]] of
+is the most perfect of sinecures—for the [[Clock|clock]] of
 
-      Vondervotteimittis was never yet known to have anything the
+Vondervotteimittis was never yet known to have anything the
 
-      matter with it. Until lately, the bare supposition of such a
+matter with it. Until lately, the bare supposition of such a
 
-      thing was considered heretical. From the remotest period of
+thing was considered heretical. From the remotest period of
 
-      antiquity to which the archives have reference, the hours have
+antiquity to which the archives have reference, the hours have
 
-      been regularly struck by the big bell. And, indeed the case was
+been regularly struck by the big bell. And, indeed the case was
 
-      just the same with all the other clocks and watches in the
+just the same with all the other clocks and watches in the
 
-      borough. Never was such a place for keeping the true [[Time|time]]. When
+borough. Never was such a place for keeping the true [[Time|time]]. When
 
-      the large clapper thought proper to say “Twelve o’[[Clock|clock]]!” all its
+the large clapper thought proper to say “Twelve o’[[Clock|clock]]!” all its
 
-      obedient followers opened their throats simultaneously, and
+obedient followers opened their throats simultaneously, and
 
-      responded like a very echo. In short, the good burghers were fond
+responded like a very echo. In short, the good burghers were fond
 
-      of their sauer-kraut, but then they were proud of their clocks.
+of their sauer-kraut, but then they were proud of their clocks.
 
 
 
-      All people who hold sinecure offices are held in more or less
+All people who hold sinecure offices are held in more or less
 
-      respect, and as the belfry—man of Vondervotteimittiss has the
+respect, and as the belfry—man of Vondervotteimittiss has the
 
-      most perfect of sinecures, he is the most perfectly respected of
+most perfect of sinecures, he is the most perfectly respected of
 
-      any man in the world. He is the chief dignitary of the borough,
+any man in the world. He is the chief dignitary of the borough,
 
-      and the very pigs look up to him with a sentiment of reverence.
+and the very pigs look up to him with a sentiment of reverence.
 
-      His coat-tail is very far longer—his pipe, his shoe-buckles, his
+His coat-tail is very far longer—his pipe, his shoe-buckles, his
 
-      eyes, and his stomach, very far bigger—than those of any other
+eyes, and his stomach, very far bigger—than those of any other
 
-      old gentleman in the village; and as to his chin, it is not only
+old gentleman in the village; and as to his chin, it is not only
 
 
 
@@ -1112,227 +1112,227 @@ What o’[[Clock|clock]] is it?—_Old Saying_.
 <span class="atom-split" data-atom="part--part_03" data-title="The Devil in the Belfry (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-      [[Double|double]], but triple.
+[[Double|double]], but triple.
 
 
 
-      I have thus painted the happy estate of Vondervotteimittiss:
+I have thus painted the happy estate of Vondervotteimittiss:
 
-      alas, that so fair a picture should ever experience a reverse!
+alas, that so fair a picture should ever experience a reverse!
 
 
 
-      There has been long a saying among the wisest inhabitants, that
+There has been long a saying among the wisest inhabitants, that
 
-      “no good can come from over the hills”; and it really seemed that
+“no good can come from over the hills”; and it really seemed that
 
-      the words had in them something of the spirit of prophecy. It
+the words had in them something of the spirit of prophecy. It
 
-      wanted five minutes of [[Noon|noon]], on the day before yesterday, when
+wanted five minutes of [[Noon|noon]], on the day before yesterday, when
 
-      there appeared a very odd-looking object on the summit of the
+there appeared a very odd-looking object on the summit of the
 
-      ridge of the eastward. Such an occurrence, of course, attracted
+ridge of the eastward. Such an occurrence, of course, attracted
 
-      universal attention, and every little old gentleman who sat in a
+universal attention, and every little old gentleman who sat in a
 
-      leather-bottomed arm-chair turned one of his eyes with a stare of
+leather-bottomed arm-chair turned one of his eyes with a stare of
 
-      dismay upon the phenomenon, still keeping the other upon the
+dismay upon the phenomenon, still keeping the other upon the
 
-      [[Clock|clock]] in the steeple.
+[[Clock|clock]] in the steeple.
 
 
 
-      By the [[Time|time]] that it wanted only three minutes to [[Noon|noon]], the droll
+By the [[Time|time]] that it wanted only three minutes to [[Noon|noon]], the droll
 
-      object in question was perceived to be a very diminutive
+object in question was perceived to be a very diminutive
 
-      foreign-looking young man. He descended the hills at a great
+foreign-looking young man. He descended the hills at a great
 
-      rate, so that every [[Body|body]] had soon a good look at him. He was
+rate, so that every [[Body|body]] had soon a good look at him. He was
 
-      really the most finicky little personage that had ever been seen
+really the most finicky little personage that had ever been seen
 
-      in Vondervotteimittiss. His countenance was of a dark
+in Vondervotteimittiss. His countenance was of a dark
 
-      snuff-color, and he had a long hooked nose, pea eyes, a wide
+snuff-color, and he had a long hooked nose, pea eyes, a wide
 
-      mouth, and an excellent set of teeth, which latter he seemed
+mouth, and an excellent set of teeth, which latter he seemed
 
-      anxious of displaying, as he was grinning from ear to ear. What
+anxious of displaying, as he was grinning from ear to ear. What
 
-      with mustachios and whiskers, there was none of the rest of his
+with mustachios and whiskers, there was none of the rest of his
 
-      face to be seen. His head was uncovered, and his hair neatly done
+face to be seen. His head was uncovered, and his hair neatly done
 
-      up in papillotes. His dress was a tight-fitting [[Swallow|swallow]]-tailed
+up in papillotes. His dress was a tight-fitting [[Swallow|swallow]]-tailed
 
-      black coat (from one of whose pockets dangled a vast length of
+black coat (from one of whose pockets dangled a vast length of
 
-      white handkerchief), black kerseymere knee-breeches, black
+white handkerchief), black kerseymere knee-breeches, black
 
-      stockings, and stumpy-looking pumps, with huge bunches of black
+stockings, and stumpy-looking pumps, with huge bunches of black
 
-      satin ribbon for bows. Under one arm he carried a huge
+satin ribbon for bows. Under one arm he carried a huge
 
-      _chapeau-de-bras_, and under the other a fiddle nearly five times
+_chapeau-de-bras_, and under the other a fiddle nearly five times
 
-      as big as himself. In his left hand was a gold snuff-box, from
+as big as himself. In his left hand was a gold snuff-box, from
 
-      which, as he capered down the [[Hill|hill]], cutting all manner of
+which, as he capered down the [[Hill|hill]], cutting all manner of
 
-      fantastic steps, he took snuff incessantly with an air of the
+fantastic steps, he took snuff incessantly with an air of the
 
-      greatest possible [[Self|self]]-satisfaction. God bless me!—here was a
+greatest possible [[Self|self]]-satisfaction. God bless me!—here was a
 
-      sight for the honest burghers of Vondervotteimittiss!
+sight for the honest burghers of Vondervotteimittiss!
 
 
 
-      To speak plainly, the fellow had, in spite of his grinning, an
+To speak plainly, the fellow had, in spite of his grinning, an
 
-      audacious and sinister kind of face; and as he curvetted right
+audacious and sinister kind of face; and as he curvetted right
 
-      into the village, the old stumpy appearance of his pumps excited
+into the village, the old stumpy appearance of his pumps excited
 
-      no little suspicion; and many a burgher who beheld him that day
+no little suspicion; and many a burgher who beheld him that day
 
-      would have given a trifle for a peep beneath the white cambric
+would have given a trifle for a peep beneath the white cambric
 
-      handkerchief which hung so obtrusively from the pocket of his
+handkerchief which hung so obtrusively from the pocket of his
 
-      [[Swallow|swallow]]-tailed coat. But what mainly occasioned a righteous
+[[Swallow|swallow]]-tailed coat. But what mainly occasioned a righteous
 
-      indignation was, that the scoundrelly popinjay, while he cut a
+indignation was, that the scoundrelly popinjay, while he cut a
 
-      fandango here, and a whirligig there, did not seem to have the
+fandango here, and a whirligig there, did not seem to have the
 
-      remotest idea in the world of such a thing as keeping [[Time|time]] in his
+remotest idea in the world of such a thing as keeping [[Time|time]] in his
 
-      steps.
+steps.
 
 
 
-      The good people of the borough had scarcely a chance, however, to
+The good people of the borough had scarcely a chance, however, to
 
-      get their eyes thoroughly open, when, just as it wanted half a
+get their eyes thoroughly open, when, just as it wanted half a
 
-      minute of [[Noon|noon]], the rascal bounced, as I say, right into the
+minute of [[Noon|noon]], the rascal bounced, as I say, right into the
 
-      midst of them; gave a _chassez_ here, and a _balancez_ there; and
+midst of them; gave a _chassez_ here, and a _balancez_ there; and
 
-      then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
+then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
 
-      himself right up into the belfry of the [[house|House]] of the Town
+himself right up into the belfry of the [[house|House]] of the Town
 
-      Council, where the [[Wonder|wonder]]-stricken belfry-man sat smoking in a
+Council, where the [[Wonder|wonder]]-stricken belfry-man sat smoking in a
 
-      state of dignity and dismay. But the little chap seized him at
+state of dignity and dismay. But the little chap seized him at
 
-      once by the nose; gave it a swing and a pull; clapped the big
+once by the nose; gave it a swing and a pull; clapped the big
 
-      _chapeau-de-bras_ upon his head; knocked it down over his eyes
+_chapeau-de-bras_ upon his head; knocked it down over his eyes
 
-      and mouth; and then, lifting up the big fiddle, beat him with it
+and mouth; and then, lifting up the big fiddle, beat him with it
 
-      so long and so soundly, that what with the belfry-man being so
+so long and so soundly, that what with the belfry-man being so
 
-      fat, and the fiddle being so hollow, you would have sworn that
+fat, and the fiddle being so hollow, you would have sworn that
 
-      there was a regiment of [[Double|double]]-bass drummers all beating the
+there was a regiment of [[Double|double]]-bass drummers all beating the
 
-      devil’s tattoo up in the belfry of the steeple of
+devil’s tattoo up in the belfry of the steeple of
 
-      Vondervotteimittiss.
+Vondervotteimittiss.
 
 
 
-      There is no knowing to what desperate act of vengeance this
+There is no knowing to what desperate act of vengeance this
 
-      unprincipled attack might have aroused the inhabitants, but for
+unprincipled attack might have aroused the inhabitants, but for
 
-      the important fact that it now wanted only half a second of [[Noon|noon]].
+the important fact that it now wanted only half a second of [[Noon|noon]].
 
-      The bell was about to strike, and it was a matter of absolute and
+The bell was about to strike, and it was a matter of absolute and
 
-      pre-eminent necessity that every [[Body|body]] should look [[Well|well]] at his
+pre-eminent necessity that every [[Body|body]] should look [[Well|well]] at his
 
-      watch. It was evident, however, that just at this moment the
+watch. It was evident, however, that just at this moment the
 
-      fellow in the steeple was doing something that he had no business
+fellow in the steeple was doing something that he had no business
 
-      to do with the [[Clock|clock]]. But as it now began to strike, nobody had
+to do with the [[Clock|clock]]. But as it now began to strike, nobody had
 
-      any [[Time|time]] to attend to his manœuvres, for they had all to count
+any [[Time|time]] to attend to his manœuvres, for they had all to count
 
-      the strokes of the bell as it sounded.
+the strokes of the bell as it sounded.
 
 
 
-      “One!” said the [[Clock|clock]].
+“One!” said the [[Clock|clock]].
 
 
 
-      “Von!” echoed every little old gentleman in every
+“Von!” echoed every little old gentleman in every
 
-      leather-bottomed arm-chair in Vondervotteimittiss. “Von!” said
+leather-bottomed arm-chair in Vondervotteimittiss. “Von!” said
 
-      his watch also; “von!” said the watch of his vrow; and “von!”
+his watch also; “von!” said the watch of his vrow; and “von!”
 
-      said the watches of the boys, and the little gilt repeaters on
+said the watches of the boys, and the little gilt repeaters on
 
-      the tails of the cat and pig.
+the tails of the cat and pig.
 
 
 
-      “Two!” continued the big bell; and
+“Two!” continued the big bell; and
 
 
 
-      “Doo!” repeated all the repeaters.
+“Doo!” repeated all the repeaters.
 
 
 
-      “Three! Four! Five! Six! Seven! Eight! Nine! Ten!” said the bell.
+“Three! Four! Five! Six! Seven! Eight! Nine! Ten!” said the bell.
 
 
 
-      “Dree! Vour! Fibe! Sax! Seben! Aight! Noin! Den!” answered the
+“Dree! Vour! Fibe! Sax! Seben! Aight! Noin! Den!” answered the
 
-      others.
+others.
 
 
 
-      “Eleven!” said the big one.
+“Eleven!” said the big one.
 
 
 
-      “Eleben!” assented the little ones.
+“Eleben!” assented the little ones.
 
 
 
-      “Twelve!” said the bell.
+“Twelve!” said the bell.
 
 
 
-      “Dvelf!” they replied perfectly satisfied, and dropping their
+“Dvelf!” they replied perfectly satisfied, and dropping their
 
-      voices.
+voices.
 
 
 
-      “Und dvelf it is!” said all the little old gentlemen, putting up
+“Und dvelf it is!” said all the little old gentlemen, putting up
 
-      their watches. But the big bell had not done with them yet.
+their watches. But the big bell had not done with them yet.
 
 
 
-      “Thirteen!” said he.
+“Thirteen!” said he.
 
 
 
-      “Der Teufel!” gasped the little old gentlemen, turning pale,
+“Der Teufel!” gasped the little old gentlemen, turning pale,
 
 
 
@@ -1340,108 +1340,108 @@ What o’[[Clock|clock]] is it?—_Old Saying_.
 <span class="atom-split" data-atom="part--part_04" data-title="The Devil in the Belfry (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-      dropping their pipes, and putting down all their right legs from
+dropping their pipes, and putting down all their right legs from
 
-      over their left knees.
-
-
-
-      “Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
-
-      Dirteen o’[[Clock|clock]]!!”
+over their left knees.
 
 
 
-      Why attempt to describe the terrible scene which ensued? All
+“Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
 
-      Vondervotteimittiss flew at once into a lamentable state of
-
-      uproar.
+Dirteen o’[[Clock|clock]]!!”
 
 
 
-      “Vot is cum’d to mein pelly?” roared all the boys—“I’ve been
+Why attempt to describe the terrible scene which ensued? All
 
-      ongry for dis hour!”
+Vondervotteimittiss flew at once into a lamentable state of
 
-
-
-      “Vot is com’d to mein kraut?” screamed all the vrows, “It has
-
-      been done to rags for this hour!”
+uproar.
 
 
 
-      “Vot is cum’d to mein pipe?” swore all the little old gentlemen,
+“Vot is cum’d to mein pelly?” roared all the boys—“I’ve been
 
-      “Donder and Blitzen; it has been smoked out for dis hour!”—and
-
-      they filled them up again in a great rage, and sinking back in
-
-      their arm-chairs, puffed away so fast and so fiercely that the
-
-      whole valley was immediately filled with impenetrable smoke.
+ongry for dis hour!”
 
 
 
-      Meantime the cabbages all turned very red in the face, and it
+“Vot is com’d to mein kraut?” screamed all the vrows, “It has
 
-      seemed as if old Nick himself had taken possession of every thing
-
-      in the shape of a timepiece. The clocks carved upon the furniture
-
-      took to dancing as if bewitched, while those upon the
-
-      mantel-pieces could scarcely contain themselves for fury, and
-
-      kept such a continual striking of thirteen, and such a frisking
-
-      and wriggling of their pendulums as was really horrible to see.
-
-      But, worse than all, neither the cats nor the pigs could put up
-
-      any longer with the behavior of the little repeaters tied to
-
-      their tails, and resented it by scampering all over the place,
-
-      scratching and poking, and squeaking and screeching, and
-
-      caterwauling and squalling, and flying into the faces, and
-
-      running under the petticoats of the people, and creating
-
-      altogether the most abominable din and confusion which it is
-
-      possible for a reasonable person to conceive. And to make matters
-
-      still more distressing, the rascally little scape-grace in the
-
-      steeple was evidently exerting himself to the utmost. Every now
-
-      and then one might catch a glimpse of the scoundrel through the
-
-      smoke. There he sat in the belfry upon the belfry-man, who was
-
-      lying flat upon his back. In his teeth the [[Villain|villain]] held the
-
-      bell-rope, which he kept jerking about with his head, raising
-
-      such a clatter that my ears ring again even to think of it. On
-
-      his lap lay the big fiddle, at which he was scraping, out of all
-
-      [[Time|time]] and tune, with both hands, making a great show, the
-
-      nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
+been done to rags for this hour!”
 
 
 
-      Affairs being thus miserably situated, I left the place in
+“Vot is cum’d to mein pipe?” swore all the little old gentlemen,
 
-      disgust, and now appeal for aid to all [[lovers]] of correct [[Time|time]] and
+“Donder and Blitzen; it has been smoked out for dis hour!”—and
 
-      fine kraut. Let us proceed in a [[Body|body]] to the borough, and restore
+they filled them up again in a great rage, and sinking back in
 
-      the ancient order of things in Vondervotteimittiss by ejecting
+their arm-chairs, puffed away so fast and so fiercely that the
 
-      that little fellow from the steeple.
+whole valley was immediately filled with impenetrable smoke.
+
+
+
+Meantime the cabbages all turned very red in the face, and it
+
+seemed as if old Nick himself had taken possession of every thing
+
+in the shape of a timepiece. The clocks carved upon the furniture
+
+took to dancing as if bewitched, while those upon the
+
+mantel-pieces could scarcely contain themselves for fury, and
+
+kept such a continual striking of thirteen, and such a frisking
+
+and wriggling of their pendulums as was really horrible to see.
+
+But, worse than all, neither the cats nor the pigs could put up
+
+any longer with the behavior of the little repeaters tied to
+
+their tails, and resented it by scampering all over the place,
+
+scratching and poking, and squeaking and screeching, and
+
+caterwauling and squalling, and flying into the faces, and
+
+running under the petticoats of the people, and creating
+
+altogether the most abominable din and confusion which it is
+
+possible for a reasonable person to conceive. And to make matters
+
+still more distressing, the rascally little scape-grace in the
+
+steeple was evidently exerting himself to the utmost. Every now
+
+and then one might catch a glimpse of the scoundrel through the
+
+smoke. There he sat in the belfry upon the belfry-man, who was
+
+lying flat upon his back. In his teeth the [[Villain|villain]] held the
+
+bell-rope, which he kept jerking about with his head, raising
+
+such a clatter that my ears ring again even to think of it. On
+
+his lap lay the big fiddle, at which he was scraping, out of all
+
+[[Time|time]] and tune, with both hands, making a great show, the
+
+nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
+
+
+
+Affairs being thus miserably situated, I left the place in
+
+disgust, and now appeal for aid to all [[lovers]] of correct [[Time|time]] and
+
+fine kraut. Let us proceed in a [[Body|body]] to the borough, and restore
+
+the ancient order of things in Vondervotteimittiss by ejecting
+
+that little fellow from the steeple.

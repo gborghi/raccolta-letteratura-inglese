@@ -1915,7 +1915,7 @@ Under that falling light, all alone in such a place, I shall let go the anchor c
 
 
 
-<span class="atom-split" data-atom="story_01_preface_to_the_reader" data-title="This and That and the Other — PREFACE TO THE READER" data-chapter="Story 01 PREFACE TO THE READER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_preface_to_the_reader" data-title="This and That and the Other — PREFACE TO THE READER" data-chapter="PREFACE TO THE READER" data-kind="story"></span>
 
 
 PREFACE TO THE READER
@@ -1935,7 +1935,7 @@ P.S. I have never read a Preface in my life, and I suppose you will not read thi
 
 
 
-<span class="atom-split" data-atom="story_02_an_open_letter_to_a_young_diplomatist" data-title="This and That and the Other — AN OPEN LETTER TO A YOUNG DIPLOMATIST" data-chapter="Story 02 AN OPEN LETTER TO A YOUNG DIPLOMATIST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_an_open_letter_to_a_young_diplomatist" data-title="This and That and the Other — AN OPEN LETTER TO A YOUNG DIPLOMATIST" data-chapter="AN OPEN LETTER TO A YOUNG DIPLOMATIST" data-kind="story"></span>
 
 
 I AN OPEN LETTER TO A YOUNG DIPLOMATIST
@@ -1987,7 +1987,7 @@ H. Belloc.
 
 
 
-<span class="atom-split" data-atom="story_03_on_pedants" data-title="This and That and the Other — ON PEDANTS" data-chapter="Story 03 ON PEDANTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_on_pedants" data-title="This and That and the Other — ON PEDANTS" data-chapter="ON PEDANTS" data-kind="story"></span>
 
 
 II ON PEDANTS
@@ -2027,7 +2027,7 @@ Humph!
 
 
 
-<span class="atom-split" data-atom="story_04_on_atheism" data-title="This and That and the Other — ON ATHEISM" data-chapter="Story 04 ON ATHEISM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_atheism" data-title="This and That and the Other — ON ATHEISM" data-chapter="ON ATHEISM" data-kind="story"></span>
 
 
 III ON ATHEISM
@@ -2055,7 +2055,7 @@ This instance is a mark and Atheism is judged by it. For if God is not, then all
 
 
 
-<span class="atom-split" data-atom="story_05_on_fame" data-title="This and That and the Other — ON FAME" data-chapter="Story 05 ON FAME" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_on_fame" data-title="This and That and the Other — ON FAME" data-chapter="ON FAME" data-kind="story"></span>
 
 
 IV ON FAME
@@ -2081,7 +2081,7 @@ They that believe they deserve Fame though they lack it may be consoled in this:
 
 
 
-<span class="atom-split" data-atom="story_06_on_rest" data-title="This and That and the Other — ON REST" data-chapter="Story 06 ON REST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_on_rest" data-title="This and That and the Other — ON REST" data-chapter="ON REST" data-kind="story"></span>
 
 
 V ON REST
@@ -2109,7 +2109,7 @@ There are many good accompaniments for Rest, slow and distant music which at las
 
 
 
-<span class="atom-split" data-atom="story_07_on_discovery" data-title="This and That and the Other — ON DISCOVERY" data-chapter="Story 07 ON DISCOVERY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_on_discovery" data-title="This and That and the Other — ON DISCOVERY" data-chapter="ON DISCOVERY" data-kind="story"></span>
 
 
 VI ON DISCOVERY
@@ -2155,7 +2155,7 @@ Every one, therefore, should go out to discover, five miles from home, or five h
 
 
 
-<span class="atom-split" data-atom="story_08_on_inns" data-title="This and That and the Other — ON INNS" data-chapter="Story 08 ON INNS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_on_inns" data-title="This and That and the Other — ON INNS" data-chapter="ON INNS" data-kind="story"></span>
 
 
 VII ON INNS
@@ -2217,7 +2217,7 @@ From the towns all Inns have been driven: from the villages most. No conscious e
 
 
 
-<span class="atom-split" data-atom="story_09_on_rows" data-title="This and That and the Other — ON ROWS" data-chapter="Story 09 ON ROWS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_rows" data-title="This and That and the Other — ON ROWS" data-chapter="ON ROWS" data-kind="story"></span>
 
 
 VIII ON ROWS
@@ -2253,7 +2253,7 @@ Why on earth this last little band — there are not a couple of dozen of them t
 
 
 
-<span class="atom-split" data-atom="story_11_on_omens" data-title="This and That and the Other — ON OMENS" data-chapter="Story 11 ON OMENS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_on_omens" data-title="This and That and the Other — ON OMENS" data-chapter="ON OMENS" data-kind="story"></span>
 
 
 X ON OMENS
@@ -2289,7 +2289,7 @@ Remember this parable. It is enormously illuminating.
 
 
 
-<span class="atom-split" data-atom="story_13_the_servants_of_the_rich" data-title="This and That and the Other — THE SERVANTS OF THE RICH" data-chapter="Story 13 THE SERVANTS OF THE RICH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_servants_of_the_rich" data-title="This and That and the Other — THE SERVANTS OF THE RICH" data-chapter="THE SERVANTS OF THE RICH" data-kind="story"></span>
 
 
 XII THE SERVANTS OF THE RICH
@@ -2329,7 +2329,7 @@ For there is no repentance known among the Servants of the Rich, nor any excepti
 
 
 
-<span class="atom-split" data-atom="story_14_the_joke" data-title="This and That and the Other — THE JOKE" data-chapter="Story 14 THE JOKE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_joke" data-title="This and That and the Other — THE JOKE" data-chapter="THE JOKE" data-kind="story"></span>
 
 
 XIII THE JOKE
@@ -2391,7 +2391,7 @@ But he was rich! Doubtless by the custom of his country he is now in some great 
 
 
 
-<span class="atom-split" data-atom="story_15_the_spy" data-title="This and That and the Other — THE SPY" data-chapter="Story 15 THE SPY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_spy" data-title="This and That and the Other — THE SPY" data-chapter="THE SPY" data-kind="story"></span>
 
 
 XIV THE SPY
@@ -2455,7 +2455,7 @@ It is certainly an extraordinary way of doing business, but that is their look-o
 
 
 
-<span class="atom-split" data-atom="story_16_the_young_people" data-title="This and That and the Other — THE YOUNG PEOPLE" data-chapter="Story 16 THE YOUNG PEOPLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_young_people" data-title="This and That and the Other — THE YOUNG PEOPLE" data-chapter="THE YOUNG PEOPLE" data-kind="story"></span>
 
 
 XV THE YOUNG PEOPLE
@@ -2491,7 +2491,7 @@ Or am I all wrong? Is the world so rapidly changing that the Young also are caug
 
 
 
-<span class="atom-split" data-atom="story_17_ethandune" data-title="This and That and the Other — ETHANDUNE" data-chapter="Story 17 ETHANDUNE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_ethandune" data-title="This and That and the Other — ETHANDUNE" data-chapter="ETHANDUNE" data-kind="story"></span>
 
 
 XVI ETHANDUNE
@@ -2537,7 +2537,7 @@ All this great affair we have doubtfully followed to-day in no more than some th
 
 
 
-<span class="atom-split" data-atom="story_18_the_death_of_robert_the_strong" data-title="This and That and the Other — THE DEATH OF ROBERT THE STRONG" data-chapter="Story 18 THE DEATH OF ROBERT THE STRONG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_death_of_robert_the_strong" data-title="This and That and the Other — THE DEATH OF ROBERT THE STRONG" data-chapter="THE DEATH OF ROBERT THE STRONG" data-kind="story"></span>
 
 
 XVII THE DEATH OF ROBERT THE STRONG
@@ -2579,7 +2579,7 @@ From this man sprang Eudes, who defended Paris from the Sea-Rovers: Hugh Capet a
 
 
 
-<span class="atom-split" data-atom="story_19_the_crooked_streets" data-title="This and That and the Other — THE CROOKED STREETS" data-chapter="Story 19 THE CROOKED STREETS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_crooked_streets" data-title="This and That and the Other — THE CROOKED STREETS" data-chapter="THE CROOKED STREETS" data-kind="story"></span>
 
 
 XVIII THE CROOKED STREETS
@@ -2621,7 +2621,7 @@ Let me boldly borrow a quotation which I never saw until the other day, and that
 
 
 
-<span class="atom-split" data-atom="story_20_the_place_apart" data-title="This and That and the Other — THE PLACE APART" data-chapter="Story 20 THE PLACE APART" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_place_apart" data-title="This and That and the Other — THE PLACE APART" data-chapter="THE PLACE APART" data-kind="story"></span>
 
 
 XIX THE PLACE APART
@@ -2667,7 +2667,7 @@ The moor (for so I would call it) upon the further side fell away and away dista
 
 
 
-<span class="atom-split" data-atom="story_21_the_ebro_plain" data-title="This and That and the Other — THE EBRO PLAIN" data-chapter="Story 21 THE EBRO PLAIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_ebro_plain" data-title="This and That and the Other — THE EBRO PLAIN" data-chapter="THE EBRO PLAIN" data-kind="story"></span>
 
 
 XX THE EBRO PLAIN
@@ -2697,7 +2697,7 @@ With a more familiar acquaintance this impression does not diminish, but increas
 
 
 
-<span class="atom-split" data-atom="story_22_the_little_river" data-title="This and That and the Other — THE LITTLE RIVER" data-chapter="Story 22 THE LITTLE RIVER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_little_river" data-title="This and That and the Other — THE LITTLE RIVER" data-chapter="THE LITTLE RIVER" data-kind="story"></span>
 
 
 XXI THE LITTLE [[River|RIVER]]
@@ -2729,7 +2729,7 @@ This little river — the river Adur before I have done with it — will be as c
 
 
 
-<span class="atom-split" data-atom="story_23_some_letters_of_shakespeares_time" data-title="This and That and the Other — SOME LETTERS OF SHAKESPEARE’S TIME" data-chapter="Story 23 SOME LETTERS OF SHAKESPEARES TIME" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_some_letters_of_shakespeares_time" data-title="This and That and the Other — SOME LETTERS OF SHAKESPEARE’S TIME" data-chapter="SOME LETTERS OF SHAKESPEARES TIME" data-kind="story"></span>
 
 
 XXII SOME LETTERS OF SHAKESPEARE’S TIME
@@ -2863,7 +2863,7 @@ Henry Holt, a Commissioner of the Queen’s &c. &c.
 
 
 
-<span class="atom-split" data-atom="story_24_on_acquaintance_with_the_great" data-title="This and That and the Other — ON ACQUAINTANCE WITH THE GREAT" data-chapter="Story 24 ON ACQUAINTANCE WITH THE GREAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_on_acquaintance_with_the_great" data-title="This and That and the Other — ON ACQUAINTANCE WITH THE GREAT" data-chapter="ON ACQUAINTANCE WITH THE GREAT" data-kind="story"></span>
 
 
 XXIII ON ACQUAINTANCE WITH THE GREAT
@@ -2913,7 +2913,7 @@ God bless you!
 
 
 
-<span class="atom-split" data-atom="story_25_on_lying" data-title="This and That and the Other — ON LYING" data-chapter="Story 25 ON LYING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_on_lying" data-title="This and That and the Other — ON LYING" data-chapter="ON LYING" data-kind="story"></span>
 
 
 XXIV ON LYING
@@ -2943,7 +2943,7 @@ Amen.
 
 
 
-<span class="atom-split" data-atom="story_26_the_dupe" data-title="This and That and the Other — THE DUPE" data-chapter="Story 26 THE DUPE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_dupe" data-title="This and That and the Other — THE DUPE" data-chapter="THE DUPE" data-kind="story"></span>
 
 
 XXV THE DUPE
@@ -2973,7 +2973,7 @@ It is the reward of the Dupe that he is all his life very consistently happy, an
 
 
 
-<span class="atom-split" data-atom="story_27_the_love_of_england" data-title="This and That and the Other — THE LOVE OF ENGLAND" data-chapter="Story 27 THE LOVE OF ENGLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_love_of_england" data-title="This and That and the Other — THE LOVE OF ENGLAND" data-chapter="THE LOVE OF ENGLAND" data-kind="story"></span>
 
 
 XXVI THE LOVE OF ENGLAND
@@ -2997,7 +2997,7 @@ If a man would understand the love of England he must do what hardly any one wou
 
 
 
-<span class="atom-split" data-atom="story_28_the_storm" data-title="This and That and the Other — THE STORM" data-chapter="Story 28 THE STORM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_storm" data-title="This and That and the Other — THE STORM" data-chapter="THE STORM" data-kind="story"></span>
 
 
 XXVII THE [[Storm|STORM]]
@@ -3029,7 +3029,7 @@ When the storm had passed over northward to other places beyond, and when at eve
 
 
 
-<span class="atom-split" data-atom="story_29_the_valley" data-title="This and That and the Other — THE VALLEY" data-chapter="Story 29 THE VALLEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_valley" data-title="This and That and the Other — THE VALLEY" data-chapter="THE VALLEY" data-kind="story"></span>
 
 
 XXVIII THE VALLEY
@@ -3081,7 +3081,7 @@ But the wood was empty. The offer did not come. The moment was lost. The five vo
 
 
 
-<span class="atom-split" data-atom="story_30_a_conversation_in_andorra" data-title="This and That and the Other — A CONVERSATION IN ANDORRA" data-chapter="Story 30 A CONVERSATION IN ANDORRA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_a_conversation_in_andorra" data-title="This and That and the Other — A CONVERSATION IN ANDORRA" data-chapter="A CONVERSATION IN ANDORRA" data-kind="story"></span>
 
 
 XXIX A CONVERSATION IN ANDORRA
@@ -3223,7 +3223,7 @@ This was the end of the conversation in Andorra: it was my business to return to
 
 
 
-<span class="atom-split" data-atom="story_31_paris_and_the_east" data-title="This and That and the Other — PARIS AND THE EAST" data-chapter="Story 31 PARIS AND THE EAST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_paris_and_the_east" data-title="This and That and the Other — PARIS AND THE EAST" data-chapter="PARIS AND THE EAST" data-kind="story"></span>
 
 
 XXX PARIS AND THE EAST
@@ -3269,7 +3269,7 @@ Never was Europe less conscious of herself, never did she more freely admit the 
 
 
 
-<span class="atom-split" data-atom="story_32_the_human_charlatan" data-title="This and That and the Other — THE HUMAN CHARLATAN" data-chapter="Story 32 THE HUMAN CHARLATAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_human_charlatan" data-title="This and That and the Other — THE HUMAN CHARLATAN" data-chapter="THE HUMAN CHARLATAN" data-kind="story"></span>
 
 
 XXXI THE HUMAN CHARLATAN
@@ -3317,7 +3317,7 @@ The Ass!
 
 
 
-<span class="atom-split" data-atom="story_33_the_barbarians" data-title="This and That and the Other — THE BARBARIANS" data-chapter="Story 33 THE BARBARIANS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_barbarians" data-title="This and That and the Other — THE BARBARIANS" data-chapter="THE BARBARIANS" data-kind="story"></span>
 
 
 XXXII THE BARBARIANS
@@ -3385,7 +3385,7 @@ The real interest of watching the Barbarian is not the amusement derivable from 
 
 
 
-<span class="atom-split" data-atom="story_34_on_knowing_the_past" data-title="This and That and the Other — ON KNOWING THE PAST" data-chapter="Story 34 ON KNOWING THE PAST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_on_knowing_the_past" data-title="This and That and the Other — ON KNOWING THE PAST" data-chapter="ON KNOWING THE PAST" data-kind="story"></span>
 
 
 XXXIII ON KNOWING THE PAST
@@ -3433,7 +3433,7 @@ I say it sounds too good to be true. But three or four examples of such action a
 
 
 
-<span class="atom-split" data-atom="story_35_the_higher_criticism" data-title="This and That and the Other — THE HIGHER CRITICISM" data-chapter="Story 35 THE HIGHER CRITICISM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_higher_criticism" data-title="This and That and the Other — THE HIGHER CRITICISM" data-chapter="THE HIGHER CRITICISM" data-kind="story"></span>
 
 
 XXXIV THE HIGHER CRITICISM
@@ -3513,7 +3513,7 @@ That is how the damned fools write: and with brains of that standard Germans ask
 
 
 
-<span class="atom-split" data-atom="story_36_the_fanatic" data-title="This and That and the Other — THE FANATIC" data-chapter="Story 36 THE FANATIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_the_fanatic" data-title="This and That and the Other — THE FANATIC" data-chapter="THE FANATIC" data-kind="story"></span>
 
 
 XXXV THE [[Fanatic|FANATIC]]
@@ -3539,7 +3539,7 @@ The Irish are very fanatical, and have driven from their country many landlords 
 
 
 
-<span class="atom-split" data-atom="story_37_a_leading_article" data-title="This and That and the Other — A LEADING ARTICLE" data-chapter="Story 37 A LEADING ARTICLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_a_leading_article" data-title="This and That and the Other — A LEADING ARTICLE" data-chapter="A LEADING ARTICLE" data-kind="story"></span>
 
 
 XXXVI A LEADING ARTICLE
@@ -3561,7 +3561,7 @@ Finally, we hope that all those who have been permitted by the Home Secretary to
 
 
 
-<span class="atom-split" data-atom="story_38_the_obituary_notice" data-title="This and That and the Other — THE OBITUARY NOTICE" data-chapter="Story 38 THE OBITUARY NOTICE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_obituary_notice" data-title="This and That and the Other — THE OBITUARY NOTICE" data-chapter="THE OBITUARY NOTICE" data-kind="story"></span>
 
 
 XXXVII THE OBITUARY NOTICE
@@ -3599,7 +3599,7 @@ By the provisions of Mr. Herod’s will he is to be cremated, and the ceremony w
 
 
 
-<span class="atom-split" data-atom="story_39_the_merry_rome_column" data-title="This and That and the Other — THE “MERRY ROME” COLUMN" data-chapter="Story 39 THE MERRY ROME COLUMN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_the_merry_rome_column" data-title="This and That and the Other — THE “MERRY ROME” COLUMN" data-chapter="THE MERRY ROME COLUMN" data-kind="story"></span>
 
 
 XXXVIII THE “MERRY ROME” COLUMN
@@ -3629,7 +3629,7 @@ I must not ramble on further, for the post is going, and you know what the Roman
 
 
 
-<span class="atom-split" data-atom="story_40_open_letter_to_a_young_parasite" data-title="This and That and the Other — OPEN LETTER TO A YOUNG PARASITE" data-chapter="Story 40 OPEN LETTER TO A YOUNG PARASITE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_open_letter_to_a_young_parasite" data-title="This and That and the Other — OPEN LETTER TO A YOUNG PARASITE" data-chapter="OPEN LETTER TO A YOUNG PARASITE" data-kind="story"></span>
 
 
 XXXIX OPEN LETTER TO A YOUNG PARASITE
@@ -3671,7 +3671,7 @@ I wish you the best of luck, and I am your poor father’s devoted friend and yo
 
 
 
-<span class="atom-split" data-atom="story_41_on_dropping_anchor" data-title="This and That and the Other — ON DROPPING ANCHOR" data-chapter="Story 41 ON DROPPING ANCHOR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_on_dropping_anchor" data-title="This and That and the Other — ON DROPPING ANCHOR" data-chapter="ON DROPPING ANCHOR" data-kind="story"></span>
 
 
 XL ON DROPPING ANCHOR
@@ -3725,7 +3725,7 @@ Under that falling light, all alone in such a place, I shall let go the anchor c
 
 
 
-<span class="atom-split" data-atom="story_10_the_pleasant_place--part_01" data-title="This and That and the Other — THE PLEASANT PLACE (part 1)" data-chapter="Story 10 THE PLEASANT PLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_pleasant_place--part_01" data-title="This and That and the Other — THE PLEASANT PLACE (part 1)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
 
 
 IX THE PLEASANT PLACE
@@ -3769,7 +3769,7 @@ My friend began his reply with those conventional phrases to which we are all ac
 
 
 
-<span class="atom-split" data-atom="story_10_the_pleasant_place--part_02" data-title="This and That and the Other — THE PLEASANT PLACE (part 2)" data-chapter="Story 10 THE PLEASANT PLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_pleasant_place--part_02" data-title="This and That and the Other — THE PLEASANT PLACE (part 2)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
 
 
 Moved by I know not what freedom of expression, and expansive in a degree which he had never yet known, my friend smiled back and said: “Well, to tell you the [[Truth|truth]], some such meal as this would appeal to me: First two dozen green-bearded oysters of the Arcachon kind, opened upon the deep shell with all their juices preserved, and each exquisitely cleaned. These set upon pounded ice and served in that sort of dish which is contrived for each oyster to repose in its own little recess with a sort of side arrangement for the reception of the empty shells.”
@@ -3833,7 +3833,7 @@ The mere passage into this Home out of the warm morning daylight into the inner 
 
 
 
-<span class="atom-split" data-atom="story_10_the_pleasant_place--part_03" data-title="This and That and the Other — THE PLEASANT PLACE (part 3)" data-chapter="Story 10 THE PLEASANT PLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_pleasant_place--part_03" data-title="This and That and the Other — THE PLEASANT PLACE (part 3)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
 
 
 “By all means,” said his host in a satisfied tone. “And I think you have chosen wisely, for the meal you have ordered will very shortly be prepared. But, for your refreshment at least, one of my friends shall put you in order, cool your hands and forehead, see to your face and hair, put comfortable sandals upon your feet and give you a change of raiment.”
@@ -3887,7 +3887,7 @@ We both looked into the fire together for perhaps three minutes before I spoke a
 
 
 
-<span class="atom-split" data-atom="story_12_the_book--part_01" data-title="This and That and the Other — THE BOOK (part 1)" data-chapter="Story 12 THE BOOK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_book--part_01" data-title="This and That and the Other — THE BOOK (part 1)" data-chapter="THE BOOK" data-kind="excerpt"></span>
 
 
 XI THE BOOK
@@ -3921,7 +3921,7 @@ He got home to luncheon, to which he now remembered he had asked a friend — a 
 
 
 
-<span class="atom-split" data-atom="story_12_the_book--part_02" data-title="This and That and the Other — THE BOOK (part 2)" data-chapter="Story 12 THE BOOK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_book--part_02" data-title="This and That and the Other — THE BOOK (part 2)" data-chapter="THE BOOK" data-kind="excerpt"></span>
 
 
 “Well, I can’t wait,” shouted Mr. Foley into the receiver.

@@ -1675,7 +1675,7 @@ The Faith is Europe. And Europe is the Faith.
 
 
 
-<span class="atom-split" data-atom="story_06_what_happened_in_britain" data-title="Europe and the Faith — WHAT HAPPENED IN BRITAIN?" data-chapter="Story 06 WHAT HAPPENED IN BRITAIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_what_happened_in_britain" data-title="Europe and the Faith — WHAT HAPPENED IN BRITAIN?" data-chapter="WHAT HAPPENED IN BRITAIN" data-kind="story"></span>
 
 
 V. WHAT HAPPENED IN BRITAIN?
@@ -1727,7 +1727,7 @@ I will first deal with the evidence — such as it is — which has come down to
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_01" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 1)" data-chapter="Story 01 INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_01" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 1)" data-chapter="INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
 
 
 INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY
@@ -1763,7 +1763,7 @@ The second I deliberately choose as an example particular and narrow: an especia
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_02" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 2)" data-chapter="Story 01 INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_02" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 2)" data-chapter="INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
 
 
 As to the first of these two examples: Here is at last the Great War in Europe: clearly an issue — things come to a head. How came it? Why these two camps? What was this curious grouping of the West holding out in desperate Alliance against the hordes that Prussia drove to a victory apparently inevitable after the breakdown of the Orthodox Russian shell? Where lay the roots of so singular a contempt for our old order, chivalry and morals, as Berlin then displayed? Who shall explain the position of the Papacy, the question of Ireland, the aloofness of old Spain?
@@ -1805,7 +1805,7 @@ When we say that Vienna was the tool of Berlin, that Madrid should be ashamed, w
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_03" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 3)" data-chapter="Story 01 INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_03" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 3)" data-chapter="INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
 
 
 When we said that “the Slav” failed us, what did we mean? It was not a statement of race. Poland is Slav, so is Serbia: they were two vastly differing states and yet both with us. It meant that the Byzantine influence was never sufficient to inform a true European state or to teach Russia a national discipline; because the Byzantine Empire, the tutor of Russia, was cut off from us, the Europeans, the Catholics, the heirs, who are the conservators of the world.
@@ -1839,7 +1839,7 @@ Now the Catholic approaching this wonderful story, when he has read all the orig
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_04" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 4)" data-chapter="Story 01 INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_04" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 4)" data-chapter="INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
 
 
 He sees that the stand made by St. Thomas was not very important in its special claims, and was probably (taken as an isolated action) unreasonable. But he soon gets to see, as he reads and as he notes the rapid and profound transformation of all civilization which was taking place in that generation, that St. Thomas was standing out for a principle, ill clothed in his particular plea, but absolute in its general appreciation: the freedom of the Church. He stood out in particular for what had been the concrete symbols of the Church’s liberty in the past. The direction of his actions was everything, whether his symbol was well or ill chosen. The particular customs might go. But to challenge the new claims of civil power at that moment was to save the Church. A movement was afoot which might have then everywhere accomplished what was only accomplished in parts of Europe four hundred years later, to wit, a dissolution of the unity and the discipline of Christendom.
@@ -1865,7 +1865,7 @@ Now let us turn from this second example, highly definite and limited, to a thir
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_05" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 5)" data-chapter="Story 01 INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction_the_catholic_conscience_of--part_05" data-title="Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 5)" data-chapter="INTRODUCTION THE CATHOLIC CONSCIENCE OF" data-kind="excerpt"></span>
 
 
 The Catholic [[Faith]] spreads over the Roman world, not because the Jews were widely dispersed, but because the intellect of antiquity, and especially the Roman intellect, accepted it in its maturity.
@@ -1899,7 +1899,7 @@ The Europeans are of his flesh. He can converse with the first century or the fi
 
 
 
-<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_01" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 1)" data-chapter="Story 02 WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_01" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 1)" data-chapter="WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 I. WHAT WAS THE ROMAN EMPIRE?
@@ -1931,7 +1931,7 @@ The accusation would be historically valueless in any case, for in history we ar
 
 
 
-<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_02" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 2)" data-chapter="Story 02 WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_02" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 2)" data-chapter="WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 Now those who would falsify history from a conscious or unconscious bias against the [[Catholic Church]], will do so in many ways, some of which will always prove contradictory of some others. For truth is one, error disparate and many.
@@ -1963,7 +1963,7 @@ Now the men living in the Roman Empire regarded civic life in a totally differen
 
 
 
-<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_03" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 3)" data-chapter="Story 02 WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_03" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 3)" data-chapter="WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 From the Euphrates to the Scottish Highlands, from the North Sea to the
@@ -1993,7 +1993,7 @@ The old Mediterranean world out of which the Empire grew had consisted (before t
 
 
 
-<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_04" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 4)" data-chapter="Story 02 WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_04" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 4)" data-chapter="WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 These cities and the small surrounding territories which they controlled (which, I repeat, were often no more than local agricultural areas necessary for the sustenance of the town) were essentially the sovereign Powers of the time. Community of language, culture, and religion might, indeed, bind them in associations more or less strict. One could talk of the Phoenician cities, of the Greek cities, and so forth. But the individual City was always the unit. City made war on City. The City decided its own customs, and was the nucleus of religion. The God was the God of the city. A rim of such points encircled the eastern and central Mediterranean wherever it was habitable by man. Even the little oasis of the Cyrenæan land with sand on every side, but habitable, developed its city formations. Even on the western coasts of the inland ocean, which received their culture by sea from the East, such City States, though more rare, dotted the littoral of Algeria, Provence and Spain.
@@ -2017,7 +2017,7 @@ But before speaking of the Roman incorporation of Gaul we must notice that in th
 
 
 
-<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_05" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 5)" data-chapter="Story 02 WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_what_was_the_roman_empire--part_05" data-title="Europe and the Faith — WHAT WAS THE ROMAN EMPIRE? (part 5)" data-chapter="WHAT WAS THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 So the Empire might have remained, and so one would think it naturally would have remained, a Mediterranean thing, but for that capital experiment which has determined all future history — Julius Cæsar’s conquest of Gaul — Gaul, the mass of which lay North, Continental, exterior to the Mediterranean: Gaul which linked up with the Atlantic and the North Sea: Gaul which lived by the tides: Gaul which was to be the foundation of things to come.
@@ -2033,7 +2033,7 @@ This State was to be the soil in which the seed of the Church was to be sown. As
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_01" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 1)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_01" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 1)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 II. WHAT WAS THE CHURCH IN THE ROMAN EMPIRE?
@@ -2063,7 +2063,7 @@ Let us imagine such a man going through the streets of Lyons of a morning to att
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_02" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 2)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_02" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 2)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 As he passes through the streets he notes the temples dedicated to a variety of services. No creed dominated the city; even the local gods were now but a confused memory; a religious ritual of the official type was to greet him upon his entry to the Assembly, but in the public life of the city no fixed philosophy, no general [[Faith|faith]], appeared.
@@ -2087,7 +2087,7 @@ The pagan masses were attached, without definite religion, to a number of custom
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_03" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 3)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_03" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 3)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 Without any doubt the presence of that Church and of what it stood for would have concerned our Senator. It was no longer negligible nor a thing to be only occasionally observed. It was a permanent force and, what is more, a State within the State.
@@ -2119,7 +2119,7 @@ It differed from — or was more solid than — all around it in this: that it p
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_04" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 4)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_04" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 4)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 A word as to the constitution of the Church. All men with an historical training know that the Church of the years 200-250 was what I have described it, an organized society under bishops, and, what is more, it is evident that there was a central primacy at Rome as well as local primacies in various other great cities. But what is not so generally emphasized is the way in which Christian society appears to have looked at itself at that time.
@@ -2151,7 +2151,7 @@ These sects arose precisely because within the [[Catholic Church]] (1) exact doc
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_05" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 5)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_05" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 5)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 What you find in these foundational times is not the [[Catholic Church]] asserting and defining a thing and then, some time after, the heresiarch denying this definition; no heresy comes within a hundred miles of such a procedure. What happens in the early Church is that some doctrine not yet fully defined is laid down by such and such a man, that his final settlement clashes with the opinion of others, that after debate and counsel, and also authoritative statement on the part of the bishops, this man’s solution is rejected and an orthodox solution is defined. From that moment the heresiarch, if he will not fall into line with defined opinion, ceases to be in communion; and his rejection, no less than his own original insistence upon his doctrine, are in themselves proofs that both he and his judges postulate unity and definition as the two necessary marks of Catholic truth.
@@ -2201,7 +2201,7 @@ Reform Bill — and he gave us a full description of the Mass.
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_06" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 6)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_06" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 6)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 We have the letters of St. Ignatius. He was a much older man than St. Justin — perhaps forty or fifty years older. He stood to the generations contemporary with Our Lord as I stand to the generation of Gladstone, Bismarck, and, early as he is, he testifies fully to the organization of the Church with its Bishops, the Eucharistic Doctrine, and the Primacy in it of the Roman See.
@@ -2229,7 +2229,7 @@ This gap is with difficulty bridged. The vast mass of its documentary evidence h
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_07" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 7)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_07" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 7)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 That is why I have taken the early third century as the moment in which we can first take a full historical view of the [[Catholic Church]] in being, and this picture is full of evidence to the state of the Church in its origins three generations before.
@@ -2255,7 +2255,7 @@ It is quite impossible to imagine that the Eucharistic Sacrifice, the Rite of In
 
 
 
-<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_08" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 8)" data-chapter="Story 03 WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_what_was_the_church_in_the_roman_empire--part_08" data-title="Europe and the Faith — WHAT WAS THE CHURCH IN THE ROMAN EMPIRE? (part 8)" data-chapter="WHAT WAS THE CHURCH IN THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 That there should have been discussion as to the definition and meaning of undecided doctrines is natural, and fits in both with the dates and with the atmosphere of the period and with the character of the subject. But that a whole scheme of Christian government and doctrine should have developed in contradiction of Christian origins and yet without protest in a period so brilliantly living, full of such rapid intercommunication, and, above all, so brief, is quite impossible.
@@ -2275,7 +2275,7 @@ All these three phenomena developed together; they occupied about two hundred ye
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_01" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 1)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_01" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 1)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 III. WHAT WAS THE “FALL” OF THE ROMAN EMPIRE?
@@ -2305,7 +2305,7 @@ A generic term has been invented by these modern and false historians whose vers
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_02" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 2)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_02" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 2)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 “Is it to be wondered at that when great new areas of knowledge were opened up in the later fifteenth century by suddenly expanded travel, by the printing press, and by an unexpected advance in physical science, the emancipation of the European mind should have brought this pure and barbaric stock to its own again?
@@ -2339,7 +2339,7 @@ There was no conquest of effete Mediterranean peoples by vigorous barbarians. Th
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_03" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 3)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_03" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 3)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 The barbarians were not “Germans” (a term difficult to define), they were of very mixed stocks which, if we go by speech (a bad guide to race) were some of them Germanic, some Slav, some even Mongol, some Berber, some of the old unnamed races: the Picts, for instance, and the dark men of the extreme North and West.
@@ -2373,7 +2373,7 @@ In order to understand what happened we must first of all clearly represent to o
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_04" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 4)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_04" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 4)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 The original city-state of the Mediterranean broke down a little before the beginning of our era.
@@ -2403,7 +2403,7 @@ The conception of territories within the Empire which were affiliated and allied
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_05" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 5)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_05" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 5)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 Here we have not only a constant and increasing use of barbaric troops drafted into the regular corps, but also whole bodies which were more and more frequently accepted “en bloc” and, under their local leaders, as auxiliaries to the Roman forces.
@@ -2429,7 +2429,7 @@ But those 200,000 were wiped out. The barbarians were always wiped out when they
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_06" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 6)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_06" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 6)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 Immediately afterwards you have a violent quarrel between various soldiers who desire to capture the Imperial power. The story is fragmentary and somewhat confused: now one usurper is blamed, and now another, but the fact common to all is that with the direct object of usurping power a Roman General calls in barbarian bands of pillagers (all sorts of small groups, Franks, Suevians, Vandals) to [[Cross|cross]] the Rhine into Gaul, not as barbarian “conquerors,” but as allies, to help in a civil war.
@@ -2467,7 +2467,7 @@ When the brief invasion was over, Alaric had the opportunity to renew the civil 
 
 
 
-<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_07" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 7)" data-chapter="Story 04 WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_what_was_the_fall_of_the_roman_empire--part_07" data-title="Europe and the Faith — WHAT WAS THE “FALL” OF THE ROMAN EMPIRE? (part 7)" data-chapter="WHAT WAS THE FALL OF THE ROMAN EMPIRE" data-kind="excerpt"></span>
 
 
 The total number of Alaric’s men was at this moment very small; they were perhaps 30,000. There was no trace of nationality about them. They were simply a body of discontented soldiers; they had not come from across the frontier; they were not invaders; they were part of the long established and regular garrisons of the Empire; and, for that matter, many garrisons and troops of equally barbaric origin, sided with the regular authorities in the quarrel. Alaric marches on Rome with this disaffected Roman Army, claiming that he has been defrauded of his due in salary, and leaning upon the popularity of the dead Stilicho, whose murder he says he will avenge. His thirty thousand claim the barbarian slaves within the city, and certain sums of money which had been, the pretext and motive of his rebellion.
@@ -2499,7 +2499,7 @@ Why local government gradually succeeded the old centralized Imperial Government
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_01" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 1)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_01" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 1)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 IV. THE BEGINNING OF THE NATIONS
@@ -2531,7 +2531,7 @@ Armed with this knowledge (which puts an end to any fantastic theory of barbaria
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_02" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 2)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_02" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 2)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 Sidonius Apollinaris, the famous Bishop of Clermont-Ferrand, lived and wrote his classical work at such a date after Alaric’s Roman adventure and Radagasius’ defeat that the life of a man would span the distance between them; it was a matter of nearly seventy years between those events and his maturity. A grandson of his would correspond to such a spectator as we are imagining; a grandson of that generation might be born before the year 500. Such a man would have stood towards Radagasius’ raid, the last futile irruption of the barbarian, much as men, old today, in England, stand to the Indian Mutiny and the Crimean War, to the second Napoleon in France, to the Civil War in the United States. Had a grandson of Sidonius traveled in Italy, Spain and Gaul in his later years, this is what he would have seen:
@@ -2567,7 +2567,7 @@ When we say “palace” today we mean the house in which lives the real or nomi
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_03" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 3)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_03" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 3)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 But the original word Palatium had a very different meaning in late Roman society. It signified the official seat of Government, and in particular the centre from which the writs for Imperial taxation were issued, and to which the proceeds of that taxation were paid. The name was originally taken from the Palatine Hill in Rome, on which the Cæsars had their private house. As the mask of private citizenship was gradually thrown off by the Emperors, six hundred to five hundred years before, and as the commanders-in-chief of the Roman Army became more and more true and absolute sovereigns, their house became more and more the official centre of the Empire.
@@ -2607,7 +2607,7 @@ Centuries and centuries before, indeed a thousand years before, the word Rex had
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_04" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 4)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_04" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 4)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 There was no similarity possible between the word Rex and the word Imperator, any more than there is between the words “Miners’ Union” or “Trade Conference” and the word “England.” There was, of course, no sort of equality. A Roman General in the early part of the process planning a battle would think of a Rex as we think of a Divisionary General. He might say: “I shall put my regulars here in the centre. My auxiliaries (Huns or Goths or Franks or what not) I shall put here. Send for their ‘Rex’ and I will give him his orders.”
@@ -2635,7 +2635,7 @@ There, then, you have the picture of what held the levers of the machine of gove
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_05" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 5)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_05" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 5)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 Their families were originally of barbaric stock: they had for their small armed forces a military institution descended and derived from the Roman auxiliary forces; often, especially in the early years of their power, they spoke a mixed and partly barbaric tongue [Footnote: The barbaric dialects outside the Empire were already largely latinized through commerce with the Empire and by its influence, and, of course, what we call “Teutonic Languages” are in reality half Roman, long before we get our first full documents in the eighth and ninth centuries.] more easily than pure Latin; but every one of them was a soldier of the declining Empire and regarded himself as a part of it, not as even conceivably an enemy of it.
@@ -2667,7 +2667,7 @@ That a handful of men, for they were no more than a handful, should thus be in c
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_06" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 6)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_06" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 6)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 The decline of the Imperial power was mainly due to this extraordinary concentration of economic power in the hands of a few. It was these few great Roman landowners who in every local government endowed each of the new administrators, each new Rex, with a [[Tradition|tradition]] of imperial power, not a little of the dread that went with the old imperial name, and the armed force which it connoted: everywhere the Rex had to reckon with the strength of highly concentrated wealth. This was the first element in that standing “Council of Great Men” which was the mark of the time in every locality and wore down the old official, imperial, absolute, local power.
@@ -2703,7 +2703,7 @@ A lad whose Roman name was Clodovicus, and whom his parents probably called by s
 
 
 
-<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_07" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 7)" data-chapter="Story 05 THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_beginning_of_the_nations--part_07" data-title="Europe and the Faith — THE BEGINNING OF THE NATIONS (part 7)" data-chapter="THE BEGINNING OF THE NATIONS" data-kind="excerpt"></span>
 
 
 The important historical point is not that he was baptized; for an auxiliary general to be baptized was, by the end of the fifth century, as much a matter of course as for an Oriental trader from Bombay, who has become an English Lord or Baronet in London in our time, to wear trousers and a coat. The important thing is that he was received and baptized by Catholics and not by Arians — in the midst of that enormous struggle.
@@ -2735,7 +2735,7 @@ I turn, therefore, next to answer the question: “What happened in Britain?”
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_01" data-title="Europe and the Faith — THE EVIDENCE (part 1)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_01" data-title="Europe and the Faith — THE EVIDENCE (part 1)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 THE EVIDENCE
@@ -2769,7 +2769,7 @@ He speaks only of a handful of these auxiliaries, three boatloads; but he is so 
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_02" data-title="Europe and the Faith — THE EVIDENCE (part 2)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_02" data-title="Europe and the Faith — THE EVIDENCE (part 2)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 He goes on to say that these auxiliaries mutinying for pay (another parallel to what we should expect from the history of all the previous hundred years all over Europe), threatened to plunder the civil population. Then comes one sentence of rhetoric saying how they ravaged the countrysides “in punishment for our previous sins,” until the “flames” of the tumult actually “licked the Western Ocean.” It is all (and there is much more) just like what we read in the rhetoric of the lettered men on the Continent who watched the comparatively small but destructive bands of barbarian auxiliaries in revolt, with their accompaniment of escaped slaves and local ne’er-do-wells, crossing Gaul and pillaging. If we had no record of the continental troubles but that of some one religious man using a local disaster as the opportunity for a moral discourse, historians could have talked of Gaul exactly as they talk of Britain on the sole [[Authority|authority]] of St. Gildas. All the exaggeration to which we are used in continental records is here: the “gleaming sword” and the “flame crackling,” the “destruction” of cities (which afterward quietly continue an unbroken life!) and all the rest of it. We know perfectly well that on the Continent similar language was used to describe the predatory actions of little bodies of barbarian auxiliaries; actions calamitous and tragic no doubt, but not universal and in no way finally destructive of civilization.
@@ -2789,7 +2789,7 @@ Here let us turn the light of common sense on to these most imperfect, confused 
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_03" data-title="Europe and the Faith — THE EVIDENCE (part 3)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_03" data-title="Europe and the Faith — THE EVIDENCE (part 3)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 I have devoted so much space to this one writer, whose record would hardly count in a time where any sufficient historical document existed, because his book is absolutely the only one contemporary piece of evidence we have upon the pirate, or Saxon, raiding of Britain. [Footnote: The single sentence in Prosper is insignificant — and what is more, demonstrably false as it stands.] There are interesting fragments about it in the various documents known (to us) collectively today as “The Anglo-Saxon Chronicle” — but these documents were compiled many hundreds of years afterwards and had nothing better to go on than St. Gildas himself and possibly a few vague legends.
@@ -2811,7 +2811,7 @@ There are no other authorities. There is no other evidence save St. Gildas, a co
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_04" data-title="Europe and the Faith — THE EVIDENCE (part 4)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_04" data-title="Europe and the Faith — THE EVIDENCE (part 4)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 The life of St. Germanus, who came and preached in Britain after the Roman legions had left, is contemporary, and deals with events sixty years before St. Gildas’ birth. It would be valuable if it told us anything about the Pirate settlements on the coast — whether these were but the confirmation of older Roman Saxon garrisons or Roman agricultural colonies or what — but it tells us nothing about them. We know that St. Germanus dealt in a military capacity with “Picts and Scots” — an ordinary barbarian trouble — but we have no hint at Saxon settlements. St. Germanus was last in Britain in 447, and it is good negative evidence that we hear nothing during that visit of any real trouble from the Saxon pirates who at that very time might be imagined, if legend were to be trusted, to be establishing their power in Kent.
@@ -2845,7 +2845,7 @@ I say that, apart from the direct evidence of St. Gildas and the late but respec
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_05" data-title="Europe and the Faith — THE EVIDENCE (part 5)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_05" data-title="Europe and the Faith — THE EVIDENCE (part 5)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 The historical method to which I allude and to which I will now introduce the reader may properly be called that of limitations.
@@ -2873,7 +2873,7 @@ The first definite historical truth which we derive from this use of the method 
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_06" data-title="Europe and the Faith — THE EVIDENCE (part 6)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_06" data-title="Europe and the Faith — THE EVIDENCE (part 6)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 Now let us use this method of limitations for matters a little less obvious, and ask, first, what were the limits between these two main groups of little confused and warring districts; secondly, how far was either group coherent; thirdly, what had survived in either group of the old order; and, fourthly, what novel thing had appeared during the darkness of this century-and-a-half or two centuries? [Footnote: A century-and-a-half from the very last Roman evidence, the visit of St. Germanus in 447 to the landing of St. Augustine exactly 150 years later (597); nearly two centuries from the withdrawal of the expeditionary Roman Army to the landing of St. Augustine (410-597).]
@@ -2899,7 +2899,7 @@ The kinglet who could gather his men from a day’s march round his court in the
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_07" data-title="Europe and the Faith — THE EVIDENCE (part 7)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_07" data-title="Europe and the Faith — THE EVIDENCE (part 7)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 There was indeed later a westward movement in language and habit which I shall mention; that was the work of the Church. So far as warfare goes there was no movement westward or eastward. Fighting went on continually in all directions, from a hundred separate centres, and if there are reliable traditions of an Eastern Pagan kinglet commanding some mixed host once reaching so far west as to raid the valley of the Wiltshire Avon and another raiding to the Dee, so there are historical records of a Western Christian kinglet reaching and raiding the Eastern settlements right down to the North Sea at Bamborough.
@@ -2929,7 +2929,7 @@ The student of this main problem in European history, the fate of Britain, must 
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_08" data-title="Europe and the Faith — THE EVIDENCE (part 8)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_08" data-title="Europe and the Faith — THE EVIDENCE (part 8)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 Those who prefer to think of England as a colony of barbarians in which the European life was destroyed, have to suppress many a truth and to conceive many an absurdity in order to support their story; but no absurdity of theirs is worse than the fiction they put forward with regard to the story of the English towns.
@@ -2955,7 +2955,7 @@ But the point need not be labored. The supposition that the Roman towns disappea
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_09" data-title="Europe and the Faith — THE EVIDENCE (part 9)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_09" data-title="Europe and the Faith — THE EVIDENCE (part 9)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 (4) Now for the last question: what novel things had come in to Britain with this break down of the central Imperial [[Authority|authority]] in the fifth and sixth centuries? To answer that is, of course, to answer the chief question of all, and it is the most difficult of all to answer.
@@ -2981,7 +2981,7 @@ The most implacable of Mohammedans now under French rule in Algiers speak, and h
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_10" data-title="Europe and the Faith — THE EVIDENCE (part 10)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_10" data-title="Europe and the Faith — THE EVIDENCE (part 10)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 The Irish, a people in permanent contrast to the English, yet talk in the main the English tongue.
@@ -3007,7 +3007,7 @@ The mythical founder of Wessex bears a Celtic name, Cerdic: but we read of him i
 
 
 
-<span class="atom-split" data-atom="story_07_the_evidence--part_11" data-title="Europe and the Faith — THE EVIDENCE (part 11)" data-chapter="Story 07 THE EVIDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_evidence--part_11" data-title="Europe and the Faith — THE EVIDENCE (part 11)" data-chapter="THE EVIDENCE" data-kind="excerpt"></span>
 
 
 This clear historical conclusion sounds so novel today that I must emphasize and confirm it.
@@ -3039,7 +3039,7 @@ Britain is reconquered for civilization and that easily; it is again an establis
 
 
 
-<span class="atom-split" data-atom="story_08_the_dark_ages--part_01" data-title="Europe and the Faith — THE DARK AGES (part 1)" data-chapter="Story 08 THE DARK AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_dark_ages--part_01" data-title="Europe and the Faith — THE DARK AGES (part 1)" data-chapter="THE DARK AGES" data-kind="excerpt"></span>
 
 
 VI. THE DARK AGES
@@ -3077,7 +3077,7 @@ A new intense and vividly anti-Christian thing arose in a moment, as it were, ou
 
 
 
-<span class="atom-split" data-atom="story_08_the_dark_ages--part_02" data-title="Europe and the Faith — THE DARK AGES (part 2)" data-chapter="Story 08 THE DARK AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_dark_ages--part_02" data-title="Europe and the Faith — THE DARK AGES (part 2)" data-chapter="THE DARK AGES" data-kind="excerpt"></span>
 
 
 Just at the moment when Britain was finally won back to Europe, and when the unity of the West seemed to be recovered (though its life had fallen to so much lower a plane), we lost North Africa; it was swept from end to end in one tidal rush by that new force which aimed fiercely at our destruction. Immediately afterwards the first Mohammedan force crossed the Straits of Gibraltar; and in a few months after its landing the whole of the Spanish Peninsula, that strong Rock as it had seemed of ancient Roman culture, the hard Iberian land, crumbled. Politically, at least, and right up to the Pyrenees, Asia had it in its grip. In the mountain valleys alone, and especially in the tangle of highlands which occupies the northwestern corner of the Spanish square, individual communities of soldiers held out. From these the gradual reconquest of Spain by Christendom was to proceed, but for the moment they were crowded and penned upon the Asturian hills like men fighting against a wall.
@@ -3123,7 +3123,7 @@ In the violence of the struggle through which Christendom passed, town and villa
 
 
 
-<span class="atom-split" data-atom="story_08_the_dark_ages--part_03" data-title="Europe and the Faith — THE DARK AGES (part 3)" data-chapter="Story 08 THE DARK AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_dark_ages--part_03" data-title="Europe and the Faith — THE DARK AGES (part 3)" data-chapter="THE DARK AGES" data-kind="excerpt"></span>
 
 
 The great Roman landed estates, with their masses of dependents and slaves, under a lord or owner, had never disappeared. The descendants of these Roman, Gallic, British, owners formed the fighting class of the Dark Ages, and in this new function of theirs, perpetually lifted up to be the sole depositories of [[Authority|authority]] in some small imperiled countryside, they grew to be nearly independent units. For the purposes of cohesion that family which possessed most estates in a district tended to become the leader of it. Whole provinces were thus formed and grouped, and the vaguer sentiments of a larger unity expressed themselves by the choice of some one family, one of the most powerful in every county, who would be the overlord of all the other lords, great and small.
@@ -3155,7 +3155,7 @@ It is to be noted in this connection that geographically the centre of things ha
 
 
 
-<span class="atom-split" data-atom="story_08_the_dark_ages--part_04" data-title="Europe and the Faith — THE DARK AGES (part 4)" data-chapter="Story 08 THE DARK AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_dark_ages--part_04" data-title="Europe and the Faith — THE DARK AGES (part 4)" data-chapter="THE DARK AGES" data-kind="excerpt"></span>
 
 
 The fourth characteristic of the Dark Ages was a material one, and was that which would strike our eyes most immediately if we could transfer ourselves in time, and enjoy a physical impression of that world. This characteristic was derived from what I have just been saying. It was the material counterpart of the moral immobility or steadfastness of the time. It was this: that the external forms of things stood quite unchanged. The semi-circular arch, the short, stout pillar, occasionally (but rarely) the dome: these were everywhere the mark of architecture. There was no change nor any attempt at change. The arts were saved but not increased, and the whole of the work that men did with their hands stood fast in mere [[Tradition|tradition]]. No new town arises. If one is mentioned (Oxford, for instance) for the first time in the Dark Ages, whether in Britain or in Gaul, one may fairly presume a Roman origin for it, even though there be no actual mention of it handed down from Roman times.
@@ -3181,7 +3181,7 @@ The last characteristic of the Dark Ages is that which has most engrossed, puzzl
 
 
 
-<span class="atom-split" data-atom="story_08_the_dark_ages--part_05" data-title="Europe and the Faith — THE DARK AGES (part 5)" data-chapter="Story 08 THE DARK AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_dark_ages--part_05" data-title="Europe and the Faith — THE DARK AGES (part 5)" data-chapter="THE DARK AGES" data-kind="excerpt"></span>
 
 
 Meanwhile the Catholic hierarchy as an institution — I have already called it by a violent metaphor, a civil institution — at any rate as a political institution — remained absolute above the social disintegration of the time.
@@ -3205,7 +3205,7 @@ In my next chapter I shall describe the inception of the Middle Ages, and show w
 
 
 
-<span class="atom-split" data-atom="story_09_the_middle_ages--part_01" data-title="Europe and the Faith — THE MIDDLE AGES (part 1)" data-chapter="Story 09 THE MIDDLE AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_middle_ages--part_01" data-title="Europe and the Faith — THE MIDDLE AGES (part 1)" data-chapter="THE MIDDLE AGES" data-kind="excerpt"></span>
 
 
 VII. THE MIDDLE AGES
@@ -3239,7 +3239,7 @@ In the year 911 this antique method, consecrated by centuries of [[Tradition|tra
 
 
 
-<span class="atom-split" data-atom="story_09_the_middle_ages--part_02" data-title="Europe and the Faith — THE MIDDLE AGES (part 2)" data-chapter="Story 09 THE MIDDLE AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_middle_ages--part_02" data-title="Europe and the Faith — THE MIDDLE AGES (part 2)" data-chapter="THE MIDDLE AGES" data-kind="excerpt"></span>
 
 
 On the analogy of all similar experiments we can be fairly certain of what happened, though there is no contemporary record of such domestic details in the case of Normandy.
@@ -3273,7 +3273,7 @@ Of the awful obstacles such workers must encounter all history speaks. They are 
 
 
 
-<span class="atom-split" data-atom="story_09_the_middle_ages--part_03" data-title="Europe and the Faith — THE MIDDLE AGES (part 3)" data-chapter="Story 09 THE MIDDLE AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_middle_ages--part_03" data-title="Europe and the Faith — THE MIDDLE AGES (part 3)" data-chapter="THE MIDDLE AGES" data-kind="excerpt"></span>
 
 
 When St. Gregory was dead the Europe which he left was the monument of that triumph whose completion he had doubted and the fear of whose failure had put upon his dying lips the phrase: “I have loved justice and hated iniquity, therefore I die in exile.”
@@ -3311,7 +3311,7 @@ Men clung to their ideal for yet another hundred and fifty years. The vital forc
 
 
 
-<span class="atom-split" data-atom="story_09_the_middle_ages--part_04" data-title="Europe and the Faith — THE MIDDLE AGES (part 4)" data-chapter="Story 09 THE MIDDLE AGES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_middle_ages--part_04" data-title="Europe and the Faith — THE MIDDLE AGES (part 4)" data-chapter="THE MIDDLE AGES" data-kind="excerpt"></span>
 
 
 The full causes of that failure cannot be analyzed. One may say that science and history were too slight; that the material side of life was insufficient; that the full knowledge of the past which is necessary to permanence was lacking — or one may say that the ideal was too high for men. I, for my part, incline to believe that wills other than those of mortals were in combat for the soul of Europe, as they are in combat daily for the souls of individual men, and that in this spiritual battle, fought over our heads perpetually, some accident of the struggle turned it against us for a time. If that suggestion be fantastic (which no doubt it is), at any rate none other is complete.
@@ -3329,7 +3329,7 @@ Conversely with this loss of an ancient province of the Empire, one nation, and 
 
 
 
-<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_01" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 1)" data-chapter="Story 10 WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_01" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 1)" data-chapter="WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
 
 
 VIII. WHAT WAS THE [[Reformation|REFORMATION]]?
@@ -3361,7 +3361,7 @@ The temporal and visible organization of the Church did not escape in such a wel
 
 
 
-<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_02" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 2)" data-chapter="Story 10 WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_02" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 2)" data-chapter="WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
 
 
 All institutions (says Machiavelli) must return to their origins, or they fail. There appeared throughout Europe in the last century of united Europe, breaking out here and there, sporadic attempts to revivify the common life, especially upon its spiritual side, by a return to the primitive communal enthusiasms in which religion necessarily has its historical origins.
@@ -3389,7 +3389,7 @@ Here is another example. Prominent among the later expressions of discontent you
 
 
 
-<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_03" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 3)" data-chapter="Story 10 WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_03" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 3)" data-chapter="WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
 
 
 This very general picture omits Huss and the national movement for which he stood. It omits the Papal Schism; the Council of Constance; all the great facts of the fifteenth century on its religious side. I am concerned only with the presentation of the general character of the time, and that character was what I have described: an irrepressible, largely justified, discontent breaking out: a sort of chronic rash upon the skin of Christian Europe, which rash the body of Christendom could neither absorb nor cure.
@@ -3427,7 +3427,7 @@ I will not waste the reader’s time in any discussion upon the causes of that a
 
 
 
-<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_04" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 4)" data-chapter="Story 10 WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_what_was_the_reformation--part_04" data-title="Europe and the Faith — WHAT WAS THE REFORMATION? (part 4)" data-chapter="WHAT WAS THE REFORMATION" data-kind="excerpt"></span>
 
 
 Well, then, the increasing discontent of the masses against the decaying forms of the Middle Ages, and the increasing irritation against the temporal government and the organization of the Church, came to a head just at that moment when civil government was worshipped as an awful and almost divine thing.
@@ -3465,7 +3465,7 @@ It must be my next business to describe the way in which Britain failed in the s
 
 
 
-<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_01" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 1)" data-chapter="Story 11 THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_01" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 1)" data-chapter="THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
 
 
 IX. THE DEFECTION OF BRITAIN
@@ -3499,7 +3499,7 @@ Now let this peculiar fate of the two islands to the north and west of the Conti
 
 
 
-<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_02" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 2)" data-chapter="Story 11 THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_02" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 2)" data-chapter="THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
 
 
 Those phenomena are the thesis which I have to present in the pages that follow.
@@ -3525,7 +3525,7 @@ One group, and one alone, of the European nations was too recently filled with c
 
 
 
-<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_03" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 3)" data-chapter="Story 11 THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_03" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 3)" data-chapter="THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
 
 
 I say, then, that there was present in the field against the Church a powerful ally for the Reformers: and that ally was the body of immoral rich who hoped to profit by a general break in the popular organization of society. The atheism and the wealth, the luxury and the sensuality, the scholarship and aloofness of the Renaissance answered, over the heads of the Catholic populace, the call of barbarism. The Iconoclasts of greed joined hands with the Iconoclasts of blindness and rage and with the Iconoclasts of academic pride.
@@ -3561,7 +3561,7 @@ The slow acquisition of considerable power over the Courts of Law and over the s
 
 
 
-<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_04" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 4)" data-chapter="Story 11 THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_04" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 4)" data-chapter="THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
 
 
 Now add to this the strange, but at that time very real, worship of government as a fetish. This spirit did not really strengthen government: far from it. A superstition never strengthens its object, nor even makes of the supposed power of that object a reality. But though it did not give real power to the long intention of the prince, it gave to the momentary word of the prince a fantastic power. In such a combination of circumstances — nascent oligarchy, but the prince worshipped — you get, holding the position of prince, Henry VIII., a thorough Tudor, that is, a man weak almost to the point of irresponsibility where his passions were concerned; violent from that fundamental weakness which, in the absence of opposition, ruins things as effectively as any strength.
@@ -3579,7 +3579,7 @@ From a fourth to a third of the economic power over the means of production in E
 
 
 
-<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_05" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 5)" data-chapter="Story 11 THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_defection_of_britain--part_05" data-title="Europe and the Faith — THE DEFECTION OF BRITAIN (part 5)" data-chapter="THE DEFECTION OF BRITAIN" data-kind="excerpt"></span>
 
 
 Here the reader may say: “What! this large national movement to be interpreted as the work of such minorities? A few thousand squires and merchants backing a few more thousand enthusiasts, changed utterly the mass of England?” Yes; to interpret it otherwise is to read history backwards. It is to think that England then was what England later became. There is no more fatal fault in the reading of history, nor any illusion to which the human mind is more prone. To read the remote past in the light of the recent past; to think the process of the one towards the other “inevitable;” to regard the whole matter as a slow inexorable process, independent of the human will, still suits the materialist pantheism of our time. There is an inherent tendency in all men to this fallacy of reading themselves into the past, and of thinking their own mood a consummation at once excellent and necessary: and most men who write of these things imagine a vaguely Protestant Tudor England growing consciously Protestant in the England of the Stuarts.
@@ -3603,7 +3603,7 @@ I have now nothing left to set down but the conclusion of this disaster: its spi
 
 
 
-<span class="atom-split" data-atom="story_12_conclusion--part_01" data-title="Europe and the Faith — CONCLUSION (part 1)" data-chapter="Story 12 CONCLUSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_conclusion--part_01" data-title="Europe and the Faith — CONCLUSION (part 1)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
 
 
 X. CONCLUSION
@@ -3637,7 +3637,7 @@ The isolation of the soul means a loss of corporate sustenance; of the sane bala
 
 
 
-<span class="atom-split" data-atom="story_12_conclusion--part_02" data-title="Europe and the Faith — CONCLUSION (part 2)" data-chapter="Story 12 CONCLUSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_conclusion--part_02" data-title="Europe and the Faith — CONCLUSION (part 2)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
 
 
 In the first place and underlying all, the isolation of the soul releases in a society a furious new accession of force. The break-up of any stable system in physics, as in society, makes actual a prodigious reserve of potential energy. It transforms the power that was keeping things together with a power driving separably each component part: the effect of an explosion. That is why the [[Reformation]] launched the whole series of material advance, but launched it chaotically and on divergent lines which would only end in disaster. But the thing had many other results.
@@ -3665,7 +3665,7 @@ Well, this function of the isolated soul, inquiry and the necessity for demonstr
 
 
 
-<span class="atom-split" data-atom="story_12_conclusion--part_03" data-title="Europe and the Faith — CONCLUSION (part 3)" data-chapter="Story 12 CONCLUSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_conclusion--part_03" data-title="Europe and the Faith — CONCLUSION (part 3)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
 
 
 A progression in physical science and in the use of instruments is so natural to man (so long as civic order is preserved) that it would, indeed, have taken place, not so rapidly, but as surely, had the unity of Europe been preserved. But the destruction of that unity totally accelerated the pace and as totally threw the movement off its rails.

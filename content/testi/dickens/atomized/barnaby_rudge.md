@@ -5374,7 +5374,7 @@ to another which is quite conclusive. The very idea of marrying a girl
 whose father was killed, like meat! Good God, Ned, how disagreeable!
 Consider the impossibility of having any respect for your father-in-law
 under such unpleasant circumstances--think of his having been “viewed”
- by jurors, and “sat upon” by coroners, and of his very doubtful position
+by jurors, and “sat upon” by coroners, and of his very doubtful position
 in the family ever afterwards. It seems to me such an indelicate sort
 of thing that I really think the girl ought to have been put to [[Death|death]] by
 the state to prevent its happening. But I tease you perhaps. You would
@@ -8655,7 +8655,7 @@ in her way more than once or twice, she has never touched upon the
 subject--except by a look. And indeed,’ said the good-natured locksmith,
 ‘there was a good deal in the look, more than could have been put into a
 great many words. It said among other matters “Don’t ask me anything”
- so imploringly, that I didn’t ask her anything. You’ll think me an old
+so imploringly, that I didn’t ask her anything. You’ll think me an old
 [[Fool|fool]], I know, sir. If it’s any relief to call me one, pray do.’
 
 ‘I am greatly disturbed by what you tell me,’ said Mr Haredale, after a
@@ -28403,7 +28403,7 @@ in her way more than once or twice, she has never touched upon the
 subject--except by a look. And indeed,’ said the good-natured locksmith,
 ‘there was a good deal in the look, more than could have been put into a
 great many words. It said among other matters “Don’t ask me anything”
- so imploringly, that I didn’t ask her anything. You’ll think me an old
+so imploringly, that I didn’t ask her anything. You’ll think me an old
 [[Fool|fool]], I know, sir. If it’s any relief to call me one, pray do.’
 
 ‘I am greatly disturbed by what you tell me,’ said Mr Haredale, after a
@@ -35514,7 +35514,7 @@ to another which is quite conclusive. The very idea of marrying a girl
 whose father was killed, like meat! Good God, Ned, how disagreeable!
 Consider the impossibility of having any respect for your father-in-law
 under such unpleasant circumstances--think of his having been “viewed”
- by jurors, and “sat upon” by coroners, and of his very doubtful position
+by jurors, and “sat upon” by coroners, and of his very doubtful position
 in the family ever afterwards. It seems to me such an indelicate sort
 of thing that I really think the girl ought to have been put to [[Death|death]] by
 the state to prevent its happening. But I tease you perhaps. You would

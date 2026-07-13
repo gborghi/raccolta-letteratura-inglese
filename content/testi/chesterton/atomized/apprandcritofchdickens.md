@@ -46,9 +46,9 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-  [Illustration: Charles Dickens, Circa 1840
+[Illustration: Charles Dickens, Circa 1840
 
-  From an oil painting by R. J. Lane.]
+From an oil painting by R. J. Lane.]
 
 APPRECIATIONS AND CRITICISMS OF THE WORKS OF CHARLES DICKENS
 
@@ -68,93 +68,93 @@ _All rights reserved_
 
 CONTENTS
 
-  CHAPTER                             PAGE
+CHAPTER                             PAGE
 
-     I. INTRODUCTION                   vii
+I. INTRODUCTION                   vii
 
-    II. SKETCHES BY BOZ                  1
+II. SKETCHES BY BOZ                  1
 
-   III. [[Pickwick|PICKWICK]] PAPERS                 13
+III. [[Pickwick|PICKWICK]] PAPERS                 13
 
-    IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
+IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
 
-     V. [[Oliver Twist|OLIVER TWIST]]                    38
+V. [[Oliver Twist|OLIVER TWIST]]                    38
 
-    VI. OLD CURIOSITY SHOP              50
+VI. OLD CURIOSITY SHOP              50
 
-   VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
+VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
 
-  VIII. AMERICAN NOTES                  76
+VIII. AMERICAN NOTES                  76
 
-    IX. PICTURES FROM [[Italy|ITALY]]             87
+IX. PICTURES FROM [[Italy|ITALY]]             87
 
-     X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
+X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
 
-    XI. CHRISTMAS BOOKS                103
+XI. CHRISTMAS BOOKS                103
 
-   XII. DOMBEY AND SON                 114
+XII. DOMBEY AND SON                 114
 
-  XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
+XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
 
-   XIV. CHRISTMAS STORIES              140
+XIV. CHRISTMAS STORIES              140
 
-    XV. BLEAK [[house|HOUSE]]                    148
+XV. BLEAK [[house|HOUSE]]                    148
 
-   XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
+XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
 
-   XVII. HARD TIMES                    169
+XVII. HARD TIMES                    169
 
-  XVIII. LITTLE DORRIT                 178
+XVIII. LITTLE DORRIT                 178
 
-    XIX. A TALE OF TWO CITIES          188
+XIX. A TALE OF TWO CITIES          188
 
-     XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
+XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
 
-    XXI. OUR MUTUAL FRIEND             207
+XXI. OUR MUTUAL FRIEND             207
 
-   XXII. [[Edwin Drood|EDWIN DROOD]]                   218
+XXII. [[Edwin Drood|EDWIN DROOD]]                   218
 
-  XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
+XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
 
-   XXIV. REPRINTED PIECES              239
+XXIV. REPRINTED PIECES              239
 
 ILLUSTRATIONS
 
-                                                                    PAGE
+PAGE
 
-  CHARLES DICKENS, CIRCA 1840                             _Frontispiece_
+CHARLES DICKENS, CIRCA 1840                             _Frontispiece_
 
-    From an oil painting by R. J. Lane.
+From an oil painting by R. J. Lane.
 
-  CHARLES DICKENS, 1842                                               76
+CHARLES DICKENS, 1842                                               76
 
-    From a bust by H. Dexter, executed during Dickens's
+From a bust by H. Dexter, executed during Dickens's
 
-    first visit to [[america|America]].
+first visit to [[america|America]].
 
-  CHARLES DICKENS, 1844                                               90
+CHARLES DICKENS, 1844                                               90
 
-    From a miniature by Margaret Gillies.
+From a miniature by Margaret Gillies.
 
-  CHARLES DICKENS, 1849                                              130
+CHARLES DICKENS, 1849                                              130
 
-    From a daguerreotype by Mayall.
+From a daguerreotype by Mayall.
 
-  CHARLES DICKENS, 1858                                              184
+CHARLES DICKENS, 1858                                              184
 
-    From a black and white drawing by Baughiet.
+From a black and white drawing by Baughiet.
 
-  CHARLES DICKENS, 1859                                              188
+CHARLES DICKENS, 1859                                              188
 
-    From an oil painting by W. P. Frith, R.A.
+From an oil painting by W. P. Frith, R.A.
 
-  CHARLES DICKENS, CIRCA 1860                                        198
+CHARLES DICKENS, CIRCA 1860                                        198
 
-    Photograph by J. & C. Watkins.
+Photograph by J. & C. Watkins.
 
-  CHARLES DICKENS, 1868                                              218
+CHARLES DICKENS, 1868                                              218
 
-    From a photograph by Gurney.
+From a photograph by Gurney.
 
 INTRODUCTION
 
@@ -202,9 +202,9 @@ of the poetic. Again and again when the man of visions was pinned by the
 
 sly dog who knows the world,
 
-    "The man recovered of the bite,
+"The man recovered of the bite,
 
-    The dog it was that died."
+The dog it was that died."
 
 To call Thackeray a cynic, which means a sly dog, was indeed absurd; but
 
@@ -2336,13 +2336,13 @@ white-winged angel; he speaks to her with an admirable good [[Nature|nature]] an
 
 good sense:
 
-     "'Susan,' I says, 'you've been a wery good vife to me altogether:
+"'Susan,' I says, 'you've been a wery good vife to me altogether:
 
-     keep a good heart, my dear, and you'll live to see me punch that
+keep a good heart, my dear, and you'll live to see me punch that
 
-     'ere Stiggins's 'ead yet.' She smiled at this, Samivel ... but she
+'ere Stiggins's 'ead yet.' She smiled at this, Samivel ... but she
 
-     died arter all."
+died arter all."
 
 That is perhaps the first and the last [[Time|time]] that Dickens ever touched
 
@@ -4692,11 +4692,11 @@ sick even of itself. Sim Tappertit [[Rose|rose]] against Mr. Chester; and, thank
 
 God! he put his foot upon his neck.
 
-  [Illustration: Charles Dickens, 1842
+[Illustration: Charles Dickens, 1842
 
-  From a bust by H. Dexter, executed during Dickens's first visit to
+From a bust by H. Dexter, executed during Dickens's first visit to
 
-  [[america|America]].]
+[[america|America]].]
 
 AMERICAN NOTES
 
@@ -5342,9 +5342,9 @@ frivolities and the most momentary jokes remaining like colossal rocks
 
 for ever.
 
-  [Illustration: Charles Dickens, 1844
+[Illustration: Charles Dickens, 1844
 
-  From a miniature by Margaret Gillies.]
+From a miniature by Margaret Gillies.]
 
 [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]
 
@@ -7132,9 +7132,9 @@ might grant him, like Toots, a little of the dog's loyalty and the dog's
 
 reward.
 
-  [Illustration: Charles Dickens, 1849
+[Illustration: Charles Dickens, 1849
 
-  From a daguerreotype by Mayall.]
+From a daguerreotype by Mayall.]
 
 [[David Copperfield|DAVID COPPERFIELD]]
 
@@ -9382,9 +9382,9 @@ in feeling that the [[Chains|chains]] were falling from mankind. At any rate, th
 
 from him he picked them up and put them upon the poor.
 
-  [Illustration: Charles Dickens, 1858
+[Illustration: Charles Dickens, 1858
 
-  From a black and white drawing by Baughiet.]
+From a black and white drawing by Baughiet.]
 
 LITTLE DORRIT
 
@@ -9858,9 +9858,9 @@ the old heroic clearness that to be a failure may be one step to being a
 
 saint. On the third day he [[Rose|rose]] again from the dead.
 
-  [Illustration: Charles Dickens, 1859
+[Illustration: Charles Dickens, 1859
 
-  From an oil painting by W. P. Frith, R.A.]
+From an oil painting by W. P. Frith, R.A.]
 
 A TALE OF TWO CITIES
 
@@ -9912,15 +9912,15 @@ walking, then Shakespeare lets through his own voice with a shattering
 
 sincerity and cries the praise of practical human civilisation:
 
-    If ever you have looked on better days,
+If ever you have looked on better days,
 
-    If ever you have sat at good men's feasts,
+If ever you have sat at good men's feasts,
 
-    If ever been where [[Bells|bells]] have knolled to church,
+If ever been where [[Bells|bells]] have knolled to church,
 
-    If ever from your eyelids wiped a tear
+If ever from your eyelids wiped a tear
 
-    Or know what 'tis to pity and be pitied.
+Or know what 'tis to pity and be pitied.
 
 There is nothing finer even in Shakespeare than that conception of the
 
@@ -10022,17 +10022,17 @@ scoundrels. Dickens's real speech to the lazy and laughing civilisation
 
 of Southern Europe would really have run in the Shakespearian words:
 
-                    but whoe'er you be
+but whoe'er you be
 
-    Who in this [[Desert|desert]] inaccessible,
+Who in this [[Desert|desert]] inaccessible,
 
-    Under the shade of [[Melancholy|melancholy]] boughs
+Under the shade of [[Melancholy|melancholy]] boughs
 
-    Lose and neglect the creeping hours of [[Time|time]].
+Lose and neglect the creeping hours of [[Time|time]].
 
-    If ever you have looked on better things,
+If ever you have looked on better things,
 
-    If ever been where [[Bells|bells]] have knolled to church.
+If ever been where [[Bells|bells]] have knolled to church.
 
 If, in short, you have ever had the advantage of being born within the
 
@@ -10282,9 +10282,9 @@ habit, not of revolution. His gloom is the gloom of [[London]], not the
 
 gloom of [[Paris]].
 
-  [Illustration: Charles Dickens, Circa 1860
+[Illustration: Charles Dickens, Circa 1860
 
-  Photograph by J. & C. Watkins.]
+Photograph by J. & C. Watkins.]
 
 [[Great Expectations|GREAT EXPECTATIONS]]
 
@@ -11284,9 +11284,9 @@ dangers which Dickens saw before it existed. Dickens was really a
 
 [[Prophet|prophet]]; far more of a [[Prophet|prophet]] than Carlyle.
 
-  [Illustration: Charles Dickens, 1868
+[Illustration: Charles Dickens, 1868
 
-  From a photograph by Gurney.]
+From a photograph by Gurney.]
 
 [[Edwin Drood|EDWIN DROOD]]
 
@@ -12446,51 +12446,51 @@ Tory. The Tories despise the people. The Radicals despise the pleasures.
 
 THE END
 
-  +--------------------------------------------------------------+
++--------------------------------------------------------------+
 
-  | Transcriber's Notes and Errata                               |
+| Transcriber's Notes and Errata                               |
 
-  |                                                              |
+|                                                              |
 
-  | The Illustrations have been moved to between chapters.       |
+| The Illustrations have been moved to between chapters.       |
 
-  |                                                              |
+|                                                              |
 
-  | The following typographical errors have been corrected:      |
+| The following typographical errors have been corrected:      |
 
-  |                                                              |
+|                                                              |
 
-  |   |Error              |Correction     |                      |
+|   |Error              |Correction     |                      |
 
-  |   |a dupe and who was |a dupe who was |                      |
+|   |a dupe and who was |a dupe who was |                      |
 
-  |   |pyschology         |psychology     |                      |
+|   |pyschology         |psychology     |                      |
 
-  |   |Similiarly         |Smilarly       |                      |
+|   |Similiarly         |Smilarly       |                      |
 
-  |                                                              |
+|                                                              |
 
-  | The following words were found in both hyphenated and        |
+| The following words were found in both hyphenated and        |
 
-  | un-hyphenated forms in the text. The numbers in parentheses  |
+| un-hyphenated forms in the text. The numbers in parentheses  |
 
-  | show the number of times each form occurred.                 |
+| show the number of times each form occurred.                 |
 
-  |                                                              |
+|                                                              |
 
-  |   |framework (3)  |frame-work (1)  |                         |
+|   |framework (3)  |frame-work (1)  |                         |
 
-  |   |cocksure (2)   |cock-sure (2)   |                         |
+|   |cocksure (2)   |cock-sure (2)   |                         |
 
-  |   |Ironmaster (1) |Iron-master (2) |                         |
+|   |Ironmaster (1) |Iron-master (2) |                         |
 
-  |   |footprints (1) |foot-prints (1) |                         |
+|   |footprints (1) |foot-prints (1) |                         |
 
-  |   |goodwill (1)   |good-will (1)   |                         |
+|   |goodwill (1)   |good-will (1)   |                         |
 
-  |                                                              |
+|                                                              |
 
-  +--------------------------------------------------------------+
++--------------------------------------------------------------+
 
 End of the Project Gutenberg EBook of Appreciations and Criticisms of the
 
@@ -12502,7 +12502,7 @@ Works of Charles Dickens, by G. K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/2/2/3/6/22362/
+http://www.gutenberg.org/2/2/3/6/22362/
 
 Produced by Sigal Alon, LN Yaddanapudi and the Online
 
@@ -12762,53 +12762,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -13002,11 +13002,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -13086,7 +13086,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -13099,96 +13099,96 @@ subscribe to our email newsletter to hear about new eBooks.
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_01" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_01" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
-  CHAPTER                             PAGE
+CHAPTER                             PAGE
 
-     I. INTRODUCTION                   vii
+I. INTRODUCTION                   vii
 
-    II. SKETCHES BY BOZ                  1
+II. SKETCHES BY BOZ                  1
 
-   III. [[Pickwick|PICKWICK]] PAPERS                 13
+III. [[Pickwick|PICKWICK]] PAPERS                 13
 
-    IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
+IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
 
-     V. [[Oliver Twist|OLIVER TWIST]]                    38
+V. [[Oliver Twist|OLIVER TWIST]]                    38
 
-    VI. OLD CURIOSITY SHOP              50
+VI. OLD CURIOSITY SHOP              50
 
-   VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
+VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
 
-  VIII. AMERICAN NOTES                  76
+VIII. AMERICAN NOTES                  76
 
-    IX. PICTURES FROM [[Italy|ITALY]]             87
+IX. PICTURES FROM [[Italy|ITALY]]             87
 
-     X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
+X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
 
-    XI. CHRISTMAS BOOKS                103
+XI. CHRISTMAS BOOKS                103
 
-   XII. DOMBEY AND SON                 114
+XII. DOMBEY AND SON                 114
 
-  XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
+XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
 
-   XIV. CHRISTMAS STORIES              140
+XIV. CHRISTMAS STORIES              140
 
-    XV. BLEAK [[house|HOUSE]]                    148
+XV. BLEAK [[house|HOUSE]]                    148
 
-   XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
+XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
 
-   XVII. HARD TIMES                    169
+XVII. HARD TIMES                    169
 
-  XVIII. LITTLE DORRIT                 178
+XVIII. LITTLE DORRIT                 178
 
-    XIX. A TALE OF TWO CITIES          188
+XIX. A TALE OF TWO CITIES          188
 
-     XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
+XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
 
-    XXI. OUR MUTUAL FRIEND             207
+XXI. OUR MUTUAL FRIEND             207
 
-   XXII. [[Edwin Drood|EDWIN DROOD]]                   218
+XXII. [[Edwin Drood|EDWIN DROOD]]                   218
 
-  XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
+XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
 
-   XXIV. REPRINTED PIECES              239
+XXIV. REPRINTED PIECES              239
 
 ILLUSTRATIONS
 
-                                                                    PAGE
+PAGE
 
-  CHARLES DICKENS, CIRCA 1840                             _Frontispiece_
+CHARLES DICKENS, CIRCA 1840                             _Frontispiece_
 
-    From an oil painting by R. J. Lane.
+From an oil painting by R. J. Lane.
 
-  CHARLES DICKENS, 1842                                               76
+CHARLES DICKENS, 1842                                               76
 
-    From a bust by H. Dexter, executed during Dickens's
+From a bust by H. Dexter, executed during Dickens's
 
-    first visit to [[america|America]].
+first visit to [[america|America]].
 
-  CHARLES DICKENS, 1844                                               90
+CHARLES DICKENS, 1844                                               90
 
-    From a miniature by Margaret Gillies.
+From a miniature by Margaret Gillies.
 
-  CHARLES DICKENS, 1849                                              130
+CHARLES DICKENS, 1849                                              130
 
-    From a daguerreotype by Mayall.
+From a daguerreotype by Mayall.
 
-  CHARLES DICKENS, 1858                                              184
+CHARLES DICKENS, 1858                                              184
 
-    From a black and white drawing by Baughiet.
+From a black and white drawing by Baughiet.
 
-  CHARLES DICKENS, 1859                                              188
+CHARLES DICKENS, 1859                                              188
 
-    From an oil painting by W. P. Frith, R.A.
+From an oil painting by W. P. Frith, R.A.
 
-  CHARLES DICKENS, CIRCA 1860                                        198
+CHARLES DICKENS, CIRCA 1860                                        198
 
-    Photograph by J. & C. Watkins.
+Photograph by J. & C. Watkins.
 
-  CHARLES DICKENS, 1868                                              218
+CHARLES DICKENS, 1868                                              218
 
-    From a photograph by Gurney.
+From a photograph by Gurney.
 
 INTRODUCTION
 
@@ -13236,9 +13236,9 @@ of the poetic. Again and again when the man of visions was pinned by the
 
 sly dog who knows the world,
 
-    "The man recovered of the bite,
+"The man recovered of the bite,
 
-    The dog it was that died."
+The dog it was that died."
 
 To call Thackeray a cynic, which means a sly dog, was indeed absurd; but
 
@@ -13303,7 +13303,7 @@ of many. Thackeray was a good Victorian radical, who seems to have gone
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_02" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 2)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_02" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 2)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 to his [[Grave|grave]] quite contented with the early Victorian radical
@@ -13479,7 +13479,7 @@ cosmopolitan. He had, in fact, fallen a victim to a very simple fallacy
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_03" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 3)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_03" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 3)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 affecting this problem. Somebody said, with great wit and [[Truth|truth]], that
@@ -13651,7 +13651,7 @@ of all nations, have the most uniform upper class and the most varied
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_04" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 4)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_04" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 4)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 [[democracy]]. In France it is the peasants who are solid to uniformity; it
@@ -14007,7 +14007,7 @@ trasformato. Il mio [[Doubt|dubbio]] deriva principalmente da tre
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_05" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 5)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_05" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 5)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 facts. First, that England was never so richly and recognisably English
@@ -14187,7 +14187,7 @@ colossal. Their queer features and weaknesses stand out large in a sort
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_06" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 6)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_06" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 6)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 of gigantic domesticity, like the hairs and freckles of a
@@ -14539,7 +14539,7 @@ all'Albero della Vita che all'Albero della Conoscenza—perfino della conoscenza
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_07" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 7)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_07" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 7)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 good and of evil. He was in this profoundest sense a realist. Critics
@@ -14717,7 +14717,7 @@ refuse at the same moment the wrong manuscript and the right man. It is
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_08" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 8)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_08" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 8)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 easy to see of Dickens now that he was the right man; but a man might
@@ -15061,7 +15061,7 @@ quell'elemento di amabile compromesso e di benigna [[Decay|decadenza]] che appar
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_09" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 9)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_09" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 9)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 belongs still) to all the official institutions of England. But Dickens
@@ -15235,7 +15235,7 @@ Cause and Cause be the Precursor of Effect," said Mr. [[Horatio]] Sparkins,
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_10" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 10)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_10" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 10)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 "I apprehend that you are wrong." Nobody can get at the real secret of
@@ -15583,7 +15583,7 @@ di un vecchio signore corpulento orgoglioso delle proprie gambe potrebbe facilme
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_11" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 11)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_11" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 11)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 But Mr. [[Pickwick]] proud of his legs is not vulgar; somehow we feel that
@@ -15923,7 +15923,7 @@ crude esperienze della sua fanciullezza; vi ficca dentro racconti brevi irrileva
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_12" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 12)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_12" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 12)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 shamelessly, as into a scrap-book; he adopts designs and abandons them,
@@ -16267,7 +16267,7 @@ minori della grande compagnia. Il signor Winkle, che è stato un idiota
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_13" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 13)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_13" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 13)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 a bold elopement. Mr. Snodgrass, who has behaved in a ridiculous manner
@@ -16607,7 +16607,7 @@ il pathos. Questo è l'unico libro in cui Dickens fu, per così dire,
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_14" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 14)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_14" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 14)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 forced to trample down his tender feelings; and for that very reason it
@@ -16646,13 +16646,13 @@ white-winged angel; he speaks to her with an admirable good [[Nature|nature]] an
 
 good sense:
 
-     "'Susan,' I says, 'you've been a wery good vife to me altogether:
+"'Susan,' I says, 'you've been a wery good vife to me altogether:
 
-     keep a good heart, my dear, and you'll live to see me punch that
+keep a good heart, my dear, and you'll live to see me punch that
 
-     'ere Stiggins's 'ead yet.' She smiled at this, Samivel ... but she
+'ere Stiggins's 'ead yet.' She smiled at this, Samivel ... but she
 
-     died arter all."
+died arter all."
 
 That is perhaps the first and the last [[Time|time]] that Dickens ever touched
 
@@ -16819,13 +16819,13 @@ angelo dalle ali candide; le parla con un'ammirevole buona [[Nature|natura]] e
 
 buon senso:
 
-     «"Susan", dico, "sei stata in tutto e per tutto una mogliettina davvero buona per me:
+«"Susan", dico, "sei stata in tutto e per tutto una mogliettina davvero buona per me:
 
-     fatti coraggio, mia cara, e vivrai abbastanza da vedermi spaccare la
+fatti coraggio, mia cara, e vivrai abbastanza da vedermi spaccare la
 
-     testa a quello Stiggins, un giorno o l'altro." A questo sorrise, Samivel... ma
+testa a quello Stiggins, un giorno o l'altro." A questo sorrise, Samivel... ma
 
-     morì dopo tutto.»
+morì dopo tutto.»
 
 Questa è forse la prima e l'ultima [[Time|volta]] che Dickens abbia mai sfiorato
 
@@ -16955,7 +16955,7 @@ processo della giustizia storica. Tutte le storie romanzesche constano di tre pe
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_15" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 15)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_15" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 15)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 Other characters may be introduced; but those other characters are
@@ -17295,7 +17295,7 @@ in frammenti ed episodi, come quelli che compongono gli _Sketches by
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_16" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 16)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_16" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 16)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 Boz_. It would be easy enough for Dickens, instead of publishing
@@ -17469,7 +17469,7 @@ kept the Infant Phenomenon short by means of gin.
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_17" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 17)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_17" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 17)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 If we wish to understand the spirit and the period of _Nicholas
@@ -17643,7 +17643,7 @@ especially difficult to determine. This is partly due to the fact that
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_18" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 18)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_18" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 18)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 for the present reading public he is practically the only one of his
@@ -17817,7 +17817,7 @@ this strange, [[Sublime|sublime]], vulgar [[Melodrama|melodrama]], which is [[Me
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_19" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 19)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_19" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 19)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 painfully real, reaches its hideous height in that fine scene of the
@@ -18157,7 +18157,7 @@ fiduciosi di rinvigorire la nuova età, cercarono di distruggere il
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_20" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 20)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_20" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 20)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 old sentimental clericalism, the old sentimental feudalism, the
@@ -18497,7 +18497,7 @@ paesi europei prima della Rivoluzione. La [[Truth|verità]] è che i Francesi
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_21" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 21)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_21" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 21)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 were tragic because they were better off. The others had known the
@@ -18675,7 +18675,7 @@ is bad. It is not true, as is still more commonly said, that the whole
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_22" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 22)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_22" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 22)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 business about [[Little Nell]] is bad. The case is more complex than that.
@@ -19007,7 +19007,7 @@ questo solido, roccioso romanticismo è davvero implicito nel discorso e nell'ag
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_23" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 23)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_23" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 23)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 of these two characters and can be felt behind them all the [[Time|time]].
@@ -19339,7 +19339,7 @@ bel mezzo della conversazione la signora si sporse verso di me e disse con
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_24" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 24)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_24" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 24)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 a low, hoarse, but emphatic voice, "She drank. Thackeray didn't know it;
@@ -19511,7 +19511,7 @@ characters in the book are all like images bought in an old curiosity
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_25" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 25)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_25" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 25)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 shop. Quilp might be a gargoyle. He might be some sort of devilish
@@ -19855,7 +19855,7 @@ del principe vestito di nero, e del teschio è un'immagine nel senso più forte
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_26" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 26)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_26" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 26)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 picturesque. [[Caliban]] and the two shipwrecked drunkards are an admirable
@@ -20191,7 +20191,7 @@ l'amabile fine di [[Pickwick]]. Né, peggio di tutto, gl'impedì di
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_27" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 27)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_27" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 27)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 dogmatising anywhere and everywhere about the past, of which he knew
@@ -20531,7 +20531,7 @@ dolorosi, notti insonni, o infernali isolamenti. L'eccitazione in uno
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_28" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 28)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_28" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 28)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 of the stories of Mr. Henry James becomes tense, thrilling, and almost
@@ -20594,11 +20594,11 @@ sick even of itself. Sim Tappertit [[Rose|rose]] against Mr. Chester; and, thank
 
 God! he put his foot upon his neck.
 
-  [Illustration: Charles Dickens, 1842
+[Illustration: Charles Dickens, 1842
 
-  From a bust by H. Dexter, executed during Dickens's first visit to
+From a bust by H. Dexter, executed during Dickens's first visit to
 
-  [[america|America]].]
+[[america|America]].]
 
 AMERICAN NOTES
 
@@ -20765,11 +20765,11 @@ nauseata perfino di se stessa. Sim Tappertit [[Rose|insorse]] contro Mr. Chester
 
 Dio!, gli pose il piede sul collo.
 
-  [Illustrazione: Charles Dickens, 1842
+[Illustrazione: Charles Dickens, 1842
 
-  Da un busto di H. Dexter, eseguito durante la prima visita di Dickens in
+Da un busto di H. Dexter, eseguito durante la prima visita di Dickens in
 
-  [[america|America]].]
+[[america|America]].]
 
 AMERICAN NOTES
 
@@ -20875,7 +20875,7 @@ offensiva, e talvolta persino inintelligibile, ma pur sempre una colonia;
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_29" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 29)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_29" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 29)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 a part of our civilisation, a limb of our life. And [[america|America]] itself, as I
@@ -21207,7 +21207,7 @@ si supponga che l'eguaglianza sociale significhi in qualche modo familiarità so
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_30" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 30)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_30" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 30)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 should equality mean that all men are equally rude? Should it not rather
@@ -21539,7 +21539,7 @@ luogo comune che la folla può essere il più grande di tutti i tiranni. Ma poch
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_31" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 31)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_31" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 31)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 realise or remember the corresponding [[Truth|truth]] which goes along with
@@ -21887,7 +21887,7 @@ di quella del Museo delle Cere della signora Jarley. Anzi, l'[[Humour|umorismo]]
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_32" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 32)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_32" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 32)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 is supposed to be funny, but Napoleon (as Mrs. Jarley said when asked if
@@ -21938,9 +21938,9 @@ frivolities and the most momentary jokes remaining like colossal rocks
 
 for ever.
 
-  [Illustration: Charles Dickens, 1844
+[Illustration: Charles Dickens, 1844
 
-  From a miniature by Margaret Gillies.]
+From a miniature by Margaret Gillies.]
 
 [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]
 
@@ -22109,9 +22109,9 @@ frivolezze e i più fugaci scherzi rimarrebbero come colossali rocce
 
 per sempre.
 
-  [Illustrazione: Charles Dickens, 1844
+[Illustrazione: Charles Dickens, 1844
 
-  Da una miniatura di Margaret Gillies.]
+Da una miniatura di Margaret Gillies.]
 
 [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]
 
@@ -22231,7 +22231,7 @@ improvvisamente piomba e strappa via l'unica assurdità insita nel
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_33" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 33)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_33" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 33)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 English party system which is hidden behind all its paraphernalia of
@@ -22567,7 +22567,7 @@ possiede arguzia. Il gentiluomo repubblicano che accoglie Martin allo sbarco
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_34" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 34)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_34" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 34)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 is horrified on hearing an English servant speak of the employer as "the
@@ -22735,7 +22735,7 @@ inhuman being. Now of these two strands almost the whole of Dickens is
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_35" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 35)" data-chapter="Chapter 01 PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_35" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 35)" data-chapter="PAGE" data-kind="excerpt"></span>
 
 
 made up; they are not only different strands, they are even antagonistic
@@ -22907,7 +22907,7 @@ nessuno dei suoi assurdi personaggi risulti in tal modo simpatico. Vi sono, nel
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_01" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 1)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_01" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 1)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 book two celebrated characters who are both especially exuberant and
@@ -23251,7 +23251,7 @@ Vescovo Fanciullo e al Signore del Malgoverno, non sono sicuro che Dickens (per 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_02" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 2)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_02" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 2)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 he was one of the readiest and most rapid masters of reply in [[history]])
@@ -23425,7 +23425,7 @@ The first quality is what may be called the dramatic quality. The
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_03" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 3)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_03" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 3)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 happiness is not a state; it is a crisis. All the old customs
@@ -23599,7 +23599,7 @@ for us to take it as an example of the generalisations already made. If
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_04" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 4)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_04" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 4)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 we study the very real atmosphere of rejoicing and of riotous [[Charity|charity]] in
@@ -23771,7 +23771,7 @@ of thought from which the whole matter started, and he will generally
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_05" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 5)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_05" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 5)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 find that this is different in every case. In one [[Novel|novel]] he will find
@@ -23943,7 +23943,7 @@ anything except Dotheboys Hall. But although Dickens doubtless enjoyed
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_06" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 6)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_06" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 6)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 Dr. Blimber quite as much as Mr. Squeers, it remains true that Dr.
@@ -24111,7 +24111,7 @@ simpler than the whole of it. He is the kind of man who goes about with
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_07" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 7)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_07" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 7)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 posers for Bishops or for Socialists, with plain questions to which he
@@ -24283,7 +24283,7 @@ where a joke is always enjoyed solemnly. Take his insistence upon the
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_08" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 8)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_08" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 8)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 technique of Parliament, his regrets for the [[Time|time]] when the rules of
@@ -24384,9 +24384,9 @@ might grant him, like Toots, a little of the dog's loyalty and the dog's
 
 reward.
 
-  [Illustration: Charles Dickens, 1849
+[Illustration: Charles Dickens, 1849
 
-  From a daguerreotype by Mayall.]
+From a daguerreotype by Mayall.]
 
 [[David Copperfield|DAVID COPPERFIELD]]
 
@@ -24461,7 +24461,7 @@ we justly admired in its own place and on its own terms, but which we
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_09" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 9)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_09" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 9)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 resent when we feel it gradually returning through a tale pitched
@@ -24633,7 +24633,7 @@ cannot have your cake and eat it; that you cannot lose your heart and
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_10" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 10)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_10" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 10)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 have it. But, as I have said, there is perhaps no place in literature
@@ -24977,7 +24977,7 @@ _David Copperfield_ comincia come se stesse per essere un nuovo tipo di
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_11" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 11)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_11" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 11)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 Dickens [[Novel|novel]]; then it gradually turns into an old kind of Dickens
@@ -25153,7 +25153,7 @@ pages of _Household Words_ and _All the Year Round_, and those parts
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_12" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 12)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_12" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 12)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 which have been already beyond question picked out and proved are often
@@ -25497,7 +25497,7 @@ quello di Dickens è un uomo di principii. Il cameriere del signor [[Shaw]] è u
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_13" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 13)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_13" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 13)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 just as Mr. [[Shaw]] is an opportunist in politics. Dickens's waiter is
@@ -25845,7 +25845,7 @@ Napoleone, mise in rotta le forze nemiche prima di aver messo le proprie
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_14" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 14)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_14" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 14)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 force into order. Like Napoleon, he had a victorious army almost before
@@ -26017,7 +26017,7 @@ because he means to end in the Chancery fog. He did not begin in the
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_15" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 15)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_15" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 15)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 Chuzzlewit [[Wind|wind]] because he meant to end in it; he began in it because it
@@ -26185,7 +26185,7 @@ one who was dead all the [[Time|time]]. But Rick is a real [[Tragedy|tragedy]], 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_16" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 16)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_16" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 16)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 still alive when the quicksand sucks him down.
@@ -26525,7 +26525,7 @@ esce mai dalla Cancelleria se non con la [[Death|morte]]. Questa tirannia, disse
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_17" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 17)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_17" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 17)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 be lifted by the light subterfuge of a fiction. This tyranny shall never
@@ -26869,7 +26869,7 @@ un errore mentale assai naturale che colorò tutte le loro visioni della [[histo
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_18" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 18)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_18" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 18)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 They supposed that this particular problem on which they were engaged
@@ -27205,7 +27205,7 @@ eterna [[Conscience|coscienza]]. [[Henry VIII|Enrico VIII]] _era_ «una macchia 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_19" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 19)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_19" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 19)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 the [[history]] of England." For he was the embodiment of the Devil in the
@@ -27545,7 +27545,7 @@ precipizio o una vetta delle [[Mountains|montagne]]. La più alta e la più dura
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_20" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 20)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_20" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 20)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 peaks is _Hard Times_.
@@ -27897,7 +27897,7 @@ vera politica; confusero le persone e divisero la
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_21" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 21)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_21" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 21)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 substance.
@@ -28073,12 +28073,12 @@ from him he picked them up and put them upon the poor.
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_22" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 22)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_22" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 22)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
-  [Illustration: Charles Dickens, 1858
+[Illustration: Charles Dickens, 1858
 
-  From a black and white drawing by Baughiet.]
+From a black and white drawing by Baughiet.]
 
 LITTLE DORRIT
 
@@ -28247,7 +28247,7 @@ Doubtless old John Dickens included both the gay and the sad moral; most
 
 [Illustrazione: Charles Dickens, 1858
 
-  Da un disegno in bianco e nero di Baughiet.]
+Da un disegno in bianco e nero di Baughiet.]
 
 LITTLE DORRIT
 
@@ -28413,7 +28413,7 @@ Senza dubbio il vecchio John Dickens racchiudeva in sé sia la morale gaia sia q
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_23" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 23)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_23" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 23)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 men do. My only purpose here is to point out that Dickens drew the gay
@@ -28749,7 +28749,7 @@ concesso di lavorare sono le persone capaci di sottrarsi. Le uniche persone
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_24" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 24)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_24" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 24)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 who ought to be allowed to worry are the people who have nothing to
@@ -28898,9 +28898,9 @@ the old heroic clearness that to be a failure may be one step to being a
 
 saint. On the third day he [[Rose|rose]] again from the dead.
 
-  [Illustration: Charles Dickens, 1859
+[Illustration: Charles Dickens, 1859
 
-  From an oil painting by W. P. Frith, R.A.]
+From an oil painting by W. P. Frith, R.A.]
 
 A TALE OF TWO CITIES
 
@@ -28925,7 +28925,7 @@ suddenness to the Cockney ideal as being the true one after all. For a
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_25" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 25)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_25" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 25)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 jest, for a reaction, for an idle [[Summer|summer]] [[Love|love]] or still idler [[Summer|summer]]
@@ -28958,15 +28958,15 @@ walking, then Shakespeare lets through his own voice with a shattering
 
 sincerity and cries the praise of practical human civilisation:
 
-    If ever you have looked on better days,
+If ever you have looked on better days,
 
-    If ever you have sat at good men's feasts,
+If ever you have sat at good men's feasts,
 
-    If ever been where [[Bells|bells]] have knolled to church,
+If ever been where [[Bells|bells]] have knolled to church,
 
-    If ever from your eyelids wiped a tear
+If ever from your eyelids wiped a tear
 
-    Or know what 'tis to pity and be pitied.
+Or know what 'tis to pity and be pitied.
 
 There is nothing finer even in Shakespeare than that conception of the
 
@@ -29068,17 +29068,17 @@ scoundrels. Dickens's real speech to the lazy and laughing civilisation
 
 of Southern Europe would really have run in the Shakespearian words:
 
-                    but whoe'er you be
+but whoe'er you be
 
-    Who in this [[Desert|desert]] inaccessible,
+Who in this [[Desert|desert]] inaccessible,
 
-    Under the shade of [[Melancholy|melancholy]] boughs
+Under the shade of [[Melancholy|melancholy]] boughs
 
-    Lose and neglect the creeping hours of [[Time|time]].
+Lose and neglect the creeping hours of [[Time|time]].
 
-    If ever you have looked on better things,
+If ever you have looked on better things,
 
-    If ever been where [[Bells|bells]] have knolled to church.
+If ever been where [[Bells|bells]] have knolled to church.
 
 If, in short, you have ever had the advantage of being born within the
 
@@ -29131,15 +29131,15 @@ camminare, allora Shakespeare lascia trapelare la propria voce con una sconvolge
 
 sincerità e grida la lode della pratica civiltà umana:
 
-    Se mai vedeste giorni migliori,
+Se mai vedeste giorni migliori,
 
-    se mai sedeste a mensa d'uomini dabbene,
+se mai sedeste a mensa d'uomini dabbene,
 
-    se mai foste dove le [[Bells|campane]] rintoccarono a raccolta,
+se mai foste dove le [[Bells|campane]] rintoccarono a raccolta,
 
-    se mai dalle vostre palpebre asciugaste una lacrima
+se mai dalle vostre palpebre asciugaste una lacrima
 
-    o sapeste che cos'è compatire ed esser compatiti.
+o sapeste che cos'è compatire ed esser compatiti.
 
 Non c'è nulla di più bello, nemmeno in Shakespeare, di quella immagine del
 
@@ -29241,17 +29241,17 @@ furfante forestiero. Il vero discorso di Dickens alla pigra e ridente civiltà
 
 dell'Europa meridionale sarebbe suonato davvero nelle parole shakespeariane:
 
-                    ma chiunque voi siate
+ma chiunque voi siate
 
-    voi che in questo [[Desert|deserto]] inaccessibile,
+voi che in questo [[Desert|deserto]] inaccessibile,
 
-    sotto l'ombra di rami [[Melancholy|malinconici]],
+sotto l'ombra di rami [[Melancholy|malinconici]],
 
-    perdete e trascurate le ore striscianti del [[Time|tempo]].
+perdete e trascurate le ore striscianti del [[Time|tempo]].
 
-    Se mai vedeste cose migliori,
+Se mai vedeste cose migliori,
 
-    se mai foste dove le [[Bells|campane]] rintoccarono a raccolta.
+se mai foste dove le [[Bells|campane]] rintoccarono a raccolta.
 
 Se, insomma, aveste mai avuto il vantaggio di nascere a portata del
 
@@ -29273,7 +29273,7 @@ d'Europa. Non aveva mai compreso che tutte le strade portano a Roma. Egli
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_26" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 26)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_26" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 26)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 never felt (as an Englishman can feel) that he was an Athenian before he
@@ -29613,7 +29613,7 @@ scene della [[French Revolution|Rivoluzione Francese]] di Carlyle, leggendole ab
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_27" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_27" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 that everything is happening at [[Night|night]]. In Dickens even massacre happens
@@ -29680,9 +29680,9 @@ habit, not of revolution. His gloom is the gloom of [[London]], not the
 
 gloom of [[Paris]].
 
-  [Illustration: Charles Dickens, Circa 1860
+[Illustration: Charles Dickens, Circa 1860
 
-  Photograph by J. & C. Watkins.]
+Photograph by J. & C. Watkins.]
 
 [[Great Expectations|GREAT EXPECTATIONS]]
 
@@ -29785,7 +29785,7 @@ a [[Hero|hero]]. Almost all Thackeray's novels except Esmond are novels without 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_28" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 28)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_28" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 28)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 [[Hero|hero]], but only one of Dickens's novels can be so described. I do not
@@ -29957,7 +29957,7 @@ of Trabb's boy, absolutely true to the quality and colour of the [[Humour|humour
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_29" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 29)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_29" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 29)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 just as in his novels of the eighteenth century, the glimpses of Steele
@@ -30131,7 +30131,7 @@ goodness. To see sincerity and [[Charity|charity]] satisfied him like a meal. Wh
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_30" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 30)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_30" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 30)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 some critics call his [[Love|love]] of sweet stuff is really his [[Love|love]] of plain
@@ -30307,7 +30307,7 @@ never bother about the cause of their coming. Such guests in a story
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_31" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 31)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_31" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 31)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 may be uninvited, but they are never _de trop_. They earn their [[Night|night]]'s
@@ -30477,7 +30477,7 @@ these: the impenetrable male servant. Nowhere in literature is the [[Truth|truth
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_32" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 32)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_32" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 32)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 about servants better told. For that [[Truth|truth]] is simply this: that the
@@ -30817,7 +30817,7 @@ non è poi così facile dire che cosa fosse concepito per essere. Bella è uno
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_33" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 33)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_33" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 33)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 impossible and entirely delightful one. Miss Podsnap is not only
@@ -30886,9 +30886,9 @@ dangers which Dickens saw before it existed. Dickens was really a
 
 [[Prophet|prophet]]; far more of a [[Prophet|prophet]] than Carlyle.
 
-  [Illustration: Charles Dickens, 1868
+[Illustration: Charles Dickens, 1868
 
-  From a photograph by Gurney.]
+From a photograph by Gurney.]
 
 [[Edwin Drood|EDWIN DROOD]]
 
@@ -31057,9 +31057,9 @@ pericoli che Dickens vide prima che esistessero. Dickens era davvero un
 
 [[Prophet|profeta]]; assai più un [[Prophet|profeta]] di Carlyle.
 
-  [Illustrazione: Charles Dickens, 1868
+[Illustrazione: Charles Dickens, 1868
 
-  Da una fotografia di Gurney.]
+Da una fotografia di Gurney.]
 
 [[Edwin Drood|EDWIN DROOD]]
 
@@ -31161,7 +31161,7 @@ volante» portava le vivande e il «cameriere stanziale» litigava con
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_34" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 34)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_34" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 34)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 him; the "flying waiter" brought glasses and the "stationary waiter"
@@ -31501,7 +31501,7 @@ su Datchery (alla quale ho già oscuramente alluso), una teoria che è stravagan
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_35" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 35)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_35" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 35)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 enough to be the centre not only of any [[Novel|novel]] but of any harlequinade.
@@ -31845,7 +31845,7 @@ Naturalmente una simile questione non può mai essere risolta con precisione, pe
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_36" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 36)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_36" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 36)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 novelist desires to keep his readers to the point; the [[Detective|detective]]
@@ -32185,7 +32185,7 @@ un [[Short Story|racconto breve]]. Poteva cominciare un [[Short Story|racconto b
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_37" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 37)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_37" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 37)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 it into a [[Novel|novel]]. Thus in the days of _Household Words_ he could begin a
@@ -32525,7 +32525,7 @@ non tentò mai di ritoccarli. O piuttosto (possiamo dirlo di nuovo)
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_38" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 38)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_38" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 38)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 he attempted it once, and then he failed.
@@ -32869,7 +32869,7 @@ Ma così com'è, i due giganti si ergono [[Alone|soli]] in un deserto, a guardia
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_39" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 39)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_39" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 39)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 either side of a gate that leads nowhere.
@@ -33213,7 +33213,7 @@ debolezza archeologica deve pur aderire a tutte le semplici ristampe delle sue o
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_40" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 40)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_40" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 40)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 work. He was a great novelist; but he was also, among other things, a
@@ -33274,51 +33274,51 @@ Tory. The Tories despise the people. The Radicals despise the pleasures.
 
 THE END
 
-  +--------------------------------------------------------------+
++--------------------------------------------------------------+
 
-  | Transcriber's Notes and Errata                               |
+| Transcriber's Notes and Errata                               |
 
-  |                                                              |
+|                                                              |
 
-  | The Illustrations have been moved to between chapters.       |
+| The Illustrations have been moved to between chapters.       |
 
-  |                                                              |
+|                                                              |
 
-  | The following typographical errors have been corrected:      |
+| The following typographical errors have been corrected:      |
 
-  |                                                              |
+|                                                              |
 
-  |   |Error              |Correction     |                      |
+|   |Error              |Correction     |                      |
 
-  |   |a dupe and who was |a dupe who was |                      |
+|   |a dupe and who was |a dupe who was |                      |
 
-  |   |pyschology         |psychology     |                      |
+|   |pyschology         |psychology     |                      |
 
-  |   |Similiarly         |Smilarly       |                      |
+|   |Similiarly         |Smilarly       |                      |
 
-  |                                                              |
+|                                                              |
 
-  | The following words were found in both hyphenated and        |
+| The following words were found in both hyphenated and        |
 
-  | un-hyphenated forms in the text. The numbers in parentheses  |
+| un-hyphenated forms in the text. The numbers in parentheses  |
 
-  | show the number of times each form occurred.                 |
+| show the number of times each form occurred.                 |
 
-  |                                                              |
+|                                                              |
 
-  |   |framework (3)  |frame-work (1)  |                         |
+|   |framework (3)  |frame-work (1)  |                         |
 
-  |   |cocksure (2)   |cock-sure (2)   |                         |
+|   |cocksure (2)   |cock-sure (2)   |                         |
 
-  |   |Ironmaster (1) |Iron-master (2) |                         |
+|   |Ironmaster (1) |Iron-master (2) |                         |
 
-  |   |footprints (1) |foot-prints (1) |                         |
+|   |footprints (1) |foot-prints (1) |                         |
 
-  |   |goodwill (1)   |good-will (1)   |                         |
+|   |goodwill (1)   |good-will (1)   |                         |
 
-  |                                                              |
+|                                                              |
 
-  +--------------------------------------------------------------+
++--------------------------------------------------------------+
 
 End of the Project Gutenberg EBook of Appreciations and Criticisms of the
 
@@ -33330,7 +33330,7 @@ Works of Charles Dickens, by G. K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/2/2/3/6/22362/
+http://www.gutenberg.org/2/2/3/6/22362/
 
 Produced by Sigal Alon, LN Yaddanapudi and the Online
 
@@ -33465,51 +33465,51 @@ Tory. I Tories disprezzano il popolo. I Radicali disprezzano i piaceri.
 
 FINE
 
-  +--------------------------------------------------------------+
++--------------------------------------------------------------+
 
-  | Transcriber's Notes and Errata                               |
+| Transcriber's Notes and Errata                               |
 
-  |                                                              |
+|                                                              |
 
-  | The Illustrations have been moved to between chapters.       |
+| The Illustrations have been moved to between chapters.       |
 
-  |                                                              |
+|                                                              |
 
-  | The following typographical errors have been corrected:      |
+| The following typographical errors have been corrected:      |
 
-  |                                                              |
+|                                                              |
 
-  |   |Error              |Correction     |                      |
+|   |Error              |Correction     |                      |
 
-  |   |a dupe and who was |a dupe who was |                      |
+|   |a dupe and who was |a dupe who was |                      |
 
-  |   |pyschology         |psychology     |                      |
+|   |pyschology         |psychology     |                      |
 
-  |   |Similiarly         |Smilarly       |                      |
+|   |Similiarly         |Smilarly       |                      |
 
-  |                                                              |
+|                                                              |
 
-  | The following words were found in both hyphenated and        |
+| The following words were found in both hyphenated and        |
 
-  | un-hyphenated forms in the text. The numbers in parentheses  |
+| un-hyphenated forms in the text. The numbers in parentheses  |
 
-  | show the number of times each form occurred.                 |
+| show the number of times each form occurred.                 |
 
-  |                                                              |
+|                                                              |
 
-  |   |framework (3)  |frame-work (1)  |                         |
+|   |framework (3)  |frame-work (1)  |                         |
 
-  |   |cocksure (2)   |cock-sure (2)   |                         |
+|   |cocksure (2)   |cock-sure (2)   |                         |
 
-  |   |Ironmaster (1) |Iron-master (2) |                         |
+|   |Ironmaster (1) |Iron-master (2) |                         |
 
-  |   |footprints (1) |foot-prints (1) |                         |
+|   |footprints (1) |foot-prints (1) |                         |
 
-  |   |goodwill (1)   |good-will (1)   |                         |
+|   |goodwill (1)   |good-will (1)   |                         |
 
-  |                                                              |
+|                                                              |
 
-  +--------------------------------------------------------------+
++--------------------------------------------------------------+
 
 End of the Project Gutenberg EBook of Appreciations and Criticisms of the
 
@@ -33521,7 +33521,7 @@ Works of Charles Dickens, by G. K. Chesterton
 
 This and all associated files of various formats will be found in:
 
-        http://www.gutenberg.org/2/2/3/6/22362/
+http://www.gutenberg.org/2/2/3/6/22362/
 
 Produced by Sigal Alon, LN Yaddanapudi and the Online
 
@@ -33597,7 +33597,7 @@ and accept all the terms of this license and intellectual property
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_41" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 41)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_41" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 41)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 (trademark/copyright) agreement.  If you do not agree to abide by all
@@ -33965,7 +33965,7 @@ a meno che non vi atteniate al paragrafo 1.E.8 o 1.E.9.
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_42" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 42)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_42" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 42)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 access to or distributing Project Gutenberg-tm electronic works provided
@@ -33974,53 +33974,53 @@ that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+the use of Project Gutenberg-tm works calculated using the method
 
-     you already use to calculate your applicable taxes.  The fee is
+you already use to calculate your applicable taxes.  The fee is
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+owed to the owner of the Project Gutenberg-tm trademark, but he
 
-     has agreed to donate royalties under this paragraph to the
+has agreed to donate royalties under this paragraph to the
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+Project Gutenberg Literary Archive Foundation.  Royalty payments
 
-     must be paid within 60 days following each date on which you
+must be paid within 60 days following each date on which you
 
-     prepare (or are legally required to prepare) your periodic tax
+prepare (or are legally required to prepare) your periodic tax
 
-     returns.  Royalty payments should be clearly marked as such and
+returns.  Royalty payments should be clearly marked as such and
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+sent to the Project Gutenberg Literary Archive Foundation at the
 
-     address specified in Section 4, "Information about donations to
+address specified in Section 4, "Information about donations to
 
-     the Project Gutenberg Literary Archive Foundation."
+the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within 30 days of receipt that s/he
 
-     does not agree to the terms of the full Project Gutenberg-tm
+does not agree to the terms of the full Project Gutenberg-tm
 
-     License.  You must require such a user to return or
+License.  You must require such a user to return or
 
-     destroy all copies of the works possessed in a physical medium
+destroy all copies of the works possessed in a physical medium
 
-     and discontinue all use of and all access to other copies of
+and discontinue all use of and all access to other copies of
 
-     Project Gutenberg-tm works.
+Project Gutenberg-tm works.
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+money paid for a work or a replacement copy, if a defect in the
 
-     electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within 90 days
 
-     of receipt of the work.
+of receipt of the work.
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -34163,53 +34163,53 @@ che
 
 - Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
 
-     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
 
-     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+che già usate per calcolare le vostre imposte applicabili.  La tassa è  
 
-     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
 
-     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+ha acconsentito a donare i diritti previsti da questo paragrafo alla  
 
-     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
 
-     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+devono essere versati entro 60 giorni successivi a ciascuna data in cui  
 
-     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
 
-     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
 
-     inviati alla Project Gutenberg Literary Archive Foundation all'  
+inviati alla Project Gutenberg Literary Archive Foundation all'  
 
-     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
 
-     Project Gutenberg Literary Archive Foundation.»  
+Project Gutenberg Literary Archive Foundation.»  
 
 - Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
 
-     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
 
-     non accetta i termini della completa  
+non accetta i termini della completa  
 
-     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
 
-     distrugga tutte le copie delle opere possedute su supporto fisico  
+distrugga tutte le copie delle opere possedute su supporto fisico  
 
-     e cessi ogni uso di e ogni accesso ad altre copie delle  
+e cessi ogni uso di e ogni accesso ad altre copie delle  
 
-     opere Project Gutenberg-tm.  
+opere Project Gutenberg-tm.  
 
 - Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
 
-     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
 
-     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
 
-     dal ricevimento dell'opera.  
+dal ricevimento dell'opera.  
 
 - Rispettiate tutti gli altri termini di questo accordo per la libera
 
-     distribuzione delle opere Project Gutenberg-tm.  
+distribuzione delle opere Project Gutenberg-tm.  
 
 1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
 
@@ -34345,7 +34345,7 @@ opere elettroniche in formati leggibili dalla più ampia varietà di computer
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_43" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 43)" data-chapter="Chapter 02 celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_43" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 43)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
 
 
 including obsolete, old, middle-aged and new computers.  It exists
@@ -34408,11 +34408,11 @@ page at http://pglaf.org
 
 For additional contact information:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Section 4.  Information about Donations to the Project Gutenberg
 
@@ -34492,7 +34492,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -34565,11 +34565,11 @@ ufficiale all'indirizzo http://pglaf.org
 
 Per ulteriori informazioni di contatto:
 
-     Dr. Gregory B. Newby
+Dr. Gregory B. Newby
 
-     Chief Executive and Director
+Chief Executive and Director
 
-     gbnewby@pglaf.org
+gbnewby@pglaf.org
 
 Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
 
@@ -34649,7 +34649,7 @@ manteniamo gli eBook conformi a una particolare edizione cartacea.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
-     http://www.gutenberg.org
+http://www.gutenberg.org
 
 Questo sito web contiene informazioni su Project Gutenberg-tm,
 

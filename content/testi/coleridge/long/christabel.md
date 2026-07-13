@@ -746,7 +746,7 @@ So talks as it’s most used to do.
 
 
 
-<span class="atom-split" data-atom="section_00_preface" data-title="Christabel — Preface" data-chapter="Section 00 preface" data-kind="section"></span>
+<span class="atom-split" data-atom="section_00_preface" data-title="Christabel — Preface" data-chapter="preface" data-kind="section"></span>
 
 
 [[Christabel|CHRISTABEL]] PREFACE
@@ -791,7 +791,7 @@ with some transition in the [[Nature|nature]] of the imagery or passion.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Christabel — Part I" data-chapter="Section 01 part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Christabel — Part I" data-chapter="part i" data-kind="section"></span>
 
 
 CHRISTABELPART I  
@@ -1077,7 +1077,7 @@ To shield her and shelter her from the damp air.’
 
 
 
-<span class="atom-split" data-atom="section_02_conclusion_to_part_i" data-title="Christabel — Conclusion to Part I" data-chapter="Section 02 conclusion to part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_conclusion_to_part_i" data-title="Christabel — Conclusion to Part I" data-chapter="conclusion to part i" data-kind="section"></span>
 
 
 [[Christabel|CHRISTABEL]] THE CONCLUSION TO PART I  
@@ -1139,7 +1139,7 @@ For the blue sky bends over all!
 
 
 
-<span class="atom-split" data-atom="section_03_part_ii" data-title="Christabel — Part II" data-chapter="Section 03 part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_ii" data-title="Christabel — Part II" data-chapter="part II" data-kind="section"></span>
 
 
 [[Christabel|CHRISTABEL]] PART II  
@@ -1474,7 +1474,7 @@ Led forth the lady [[Geraldine]]!   655
 
 
 
-<span class="atom-split" data-atom="section_04_conclusion_to_part_ii" data-title="Christabel — Conclusion to Part II" data-chapter="Section 04 conclusion to part ii" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_conclusion_to_part_ii" data-title="Christabel — Conclusion to Part II" data-chapter="conclusion to part II" data-kind="section"></span>
 
 
 [[Christabel|CHRISTABEL]] THE CONCLUSION TO PART II  
