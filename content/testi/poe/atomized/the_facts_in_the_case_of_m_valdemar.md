@@ -1,5 +1,5 @@
 ---
-title: "The Facts in the Case of M Valdemar"
+title: "The Facts in the Case of M. Valdemar"
 author: "Poe"
 unitType: work
 parentWork: "works/the-facts-in-the-case-of-m.-valdemar-(poe)"

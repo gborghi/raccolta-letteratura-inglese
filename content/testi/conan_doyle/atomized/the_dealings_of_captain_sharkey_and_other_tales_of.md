@@ -1,5 +1,5 @@
 ---
-title: "THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF"
+title: "THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES"
 author: "Conan Doyle"
 unitType: work
 tags:

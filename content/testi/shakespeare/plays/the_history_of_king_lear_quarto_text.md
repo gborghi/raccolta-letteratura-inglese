@@ -1,5 +1,5 @@
 ---
-title: "The History of King Lear Quarto Text"
+title: "The History of King Lear (Quarto Text) — Scene 7 — exchange (CORNWALL) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"

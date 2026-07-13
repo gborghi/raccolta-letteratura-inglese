@@ -1,5 +1,5 @@
 ---
-title: "Social Reform BC"
+title: "Social_Reform_BC"
 author: "Chesterton"
 unitType: work
 parentWork: "works/social-reform-b.c-(chesterton)"

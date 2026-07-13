@@ -1,5 +1,5 @@
 ---
-title: "027 The Truth of Masks"
+title: "The Truth of Masks"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-truth-of-masks-(wilde)"

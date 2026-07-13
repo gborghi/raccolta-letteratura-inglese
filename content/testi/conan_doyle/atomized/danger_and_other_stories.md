@@ -1,5 +1,5 @@
 ---
-title: "DANGER AND OTHER STORIES"
+title: "DANGER! AND OTHER STORIES"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/danger!-and-other-stories-(conan-doyle)"

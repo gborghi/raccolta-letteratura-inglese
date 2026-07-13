@@ -1,5 +1,5 @@
 ---
-title: "anti religious thought"
+title: "anti_religious_thought"
 author: "Chesterton"
 unitType: work
 parentWork: "works/anti-religious-thought-(chesterton)"

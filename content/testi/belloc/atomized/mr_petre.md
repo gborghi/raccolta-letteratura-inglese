@@ -1,5 +1,5 @@
 ---
-title: "Mr Petre"
+title: "Mr. Petre"
 author: "Belloc"
 unitType: work
 parentWork: "works/mr.-petre-(belloc)"

@@ -1,5 +1,5 @@
 ---
-title: "the mystery"
+title: "the_mystery"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-mystery-(chesterton)"

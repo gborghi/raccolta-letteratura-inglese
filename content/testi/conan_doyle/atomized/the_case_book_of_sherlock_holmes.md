@@ -1,5 +1,5 @@
 ---
-title: "THE CASE BOOK OF SHERLOCK HOLMES"
+title: "THE CASE-BOOK OF SHERLOCK HOLMES"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-case-book-of-sherlock-holmes-(conan-doyle)"

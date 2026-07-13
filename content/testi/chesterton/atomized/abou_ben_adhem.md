@@ -1,5 +1,5 @@
 ---
-title: "Abou ben Adhem"
+title: "Abou_ben_Adhem"
 author: "Chesterton"
 unitType: work
 parentWork: "works/abou-ben-adhem-(chesterton)"

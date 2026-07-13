@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of A Gordon Pym Raven Edition"
+title: "The Narrative of A. Gordon Pym (Raven Edition)"
 author: "Poe"
 unitType: work
 parentWork: "works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)"

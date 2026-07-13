@@ -1,5 +1,5 @@
 ---
-title: "021 The Canterville Ghost"
+title: "The Canterville Ghost"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-canterville-ghost-(wilde)"

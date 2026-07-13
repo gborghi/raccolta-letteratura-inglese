@@ -1,5 +1,5 @@
 ---
-title: "THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTUR"
+title: "THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE"
 author: "Conan Doyle"
 unitType: work
 tags:

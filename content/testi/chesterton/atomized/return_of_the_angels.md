@@ -1,5 +1,5 @@
 ---
-title: "Return of the Angels"
+title: "Return_of_the_Angels"
 author: "Chesterton"
 unitType: work
 parentWork: "works/return-of-the-angels-(chesterton)"

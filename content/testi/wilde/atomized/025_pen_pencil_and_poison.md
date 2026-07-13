@@ -1,5 +1,5 @@
 ---
-title: "025 Pen Pencil and Poison"
+title: "Pen, Pencil and Poison"
 author: "Wilde"
 unitType: work
 parentWork: "works/pen,-pencil-and-poison-(wilde)"

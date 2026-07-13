@@ -1,5 +1,5 @@
 ---
-title: "praise of dust"
+title: "praise_of_dust"
 author: "Chesterton"
 unitType: work
 parentWork: "works/praise-of-dust-(chesterton)"

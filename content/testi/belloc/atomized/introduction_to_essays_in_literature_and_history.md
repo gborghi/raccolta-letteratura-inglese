@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Essays in Literature and History"
+title: "Introduction to ‘Essays in Literature and History’"
 author: "Belloc"
 unitType: work
 parentWork: "works/introduction-to-'essays-in-literature-and-history'-(belloc)"

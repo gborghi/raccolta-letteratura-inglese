@@ -1,5 +1,5 @@
 ---
-title: "Hop Frog"
+title: "Hop-Frog"
 author: "Poe"
 unitType: work
 parentWork: "works/hop-frog-(poe)"

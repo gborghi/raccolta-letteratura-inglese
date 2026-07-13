@@ -1,5 +1,5 @@
 ---
-title: "Hamlet"
+title: "Hamlet — Act V, Scene 2 — exchange (THE PERSONS OF THE PLAY) [14]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/hamlet-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "Compulsory Education"
+title: "Compulsory_Education"
 author: "Chesterton"
 unitType: work
 parentWork: "works/compulsory-education-(chesterton)"

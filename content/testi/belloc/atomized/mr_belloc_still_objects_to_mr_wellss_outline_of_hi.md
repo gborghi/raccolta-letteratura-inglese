@@ -1,5 +1,5 @@
 ---
-title: "Mr Belloc Still Objects to Mr Wellss Outline of Hi"
+title: "Mr. Belloc Still Objects to Mr. Wells’s “Outline of History”"
 author: "Belloc"
 unitType: work
 tags:

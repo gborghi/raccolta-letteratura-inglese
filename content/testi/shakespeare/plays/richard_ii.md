@@ -1,5 +1,5 @@
 ---
-title: "Richard II"
+title: "Richard II — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-ii-(shakespeare)"

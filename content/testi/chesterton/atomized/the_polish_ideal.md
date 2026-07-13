@@ -1,5 +1,5 @@
 ---
-title: "The Polish Ideal"
+title: "The_Polish_Ideal"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-polish-ideal-(chesterton)"

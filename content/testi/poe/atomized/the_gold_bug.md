@@ -1,5 +1,5 @@
 ---
-title: "The Gold Bug"
+title: "The Gold-Bug"
 author: "Poe"
 unitType: work
 parentWork: "works/the-gold-bug-(poe)"

@@ -1,5 +1,5 @@
 ---
-title: "Zapolya A Christmas Tale in Two Parts"
+title: "ZAPOLYA A CHRISTMAS TALE IN TWO PARTS"
 author: "Coleridge"
 unitType: work
 parentWork: "works/zapolya-a-christmas-tale-in-two-parts-(coleridge)"

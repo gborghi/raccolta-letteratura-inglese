@@ -1,5 +1,5 @@
 ---
-title: "Tribute To Gladstone"
+title: "Tribute_To_Gladstone"
 author: "Chesterton"
 unitType: work
 parentWork: "works/tribute-to-gladstone-(chesterton)"

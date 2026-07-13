@@ -1,5 +1,5 @@
 ---
-title: "Richard III"
+title: "Richard III — Act V, Scene 8 — exchange (TO THE RIGHT HONOURABLE HENRY) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"

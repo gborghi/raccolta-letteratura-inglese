@@ -1,5 +1,5 @@
 ---
-title: "last hero"
+title: "last_hero"
 author: "Chesterton"
 unitType: work
 parentWork: "works/last-hero-(chesterton)"

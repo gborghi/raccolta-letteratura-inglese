@@ -1,5 +1,5 @@
 ---
-title: "Preface to Kai Lungs Golden Hours"
+title: "Preface to ‘Kai Lung’s Golden Hours’"
 author: "Belloc"
 unitType: work
 parentWork: "works/preface-to-'kai-lung's-golden-hours'-(belloc)"

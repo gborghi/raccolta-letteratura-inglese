@@ -1,5 +1,5 @@
 ---
-title: "A Childs History of England"
+title: "A Child's History of England"
 author: "Dickens"
 unitType: work
 parentWork: "works/a-child's-history-of-england-(dickens)"

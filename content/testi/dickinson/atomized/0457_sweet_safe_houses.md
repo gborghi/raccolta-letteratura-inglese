@@ -1,0 +1,36 @@
+---
+title: "457. Sweet — safe — Houses —"
+author: "Dickinson"
+unitType: work
+parentWork: "works/457.-sweet-—-safe-—-houses-—-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0457_sweet_safe_houses" data-author="Dickinson" data-workhref="works/457.-sweet-—-safe-—-houses-—-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0457_sweet_safe_houses" data-title="457. Sweet — safe — Houses —" data-chapter="" data-kind="intro"></span>
+
+
+Sweet — safe — Houses —  
+Glad — gay — Houses —  
+Sealed so stately tight —  
+Lids of Steel — on Lids of Marble —  
+Locking Bare feet out —  
+
+Brooks of Plush — in Banks of Satin  
+Not so softly fall  
+As the laughter — and the whisper —  
+From their People Pearl —  
+
+No Bald [[Death]] — affront their Parlors —  
+No Bold Sickness come  
+To deface their Stately Treasures —  
+Anguish — and the Tomb —  
+
+Hum by — in Muffled Coaches —  
+Lest they — [[Wonder|wonder]] Why —  
+Any — for the Press of Smiling —  
+Interrupt — to die —

@@ -1,5 +1,5 @@
 ---
-title: "Bon Bon"
+title: "Bon-Bon"
 author: "Poe"
 unitType: work
 parentWork: "works/bon-bon-(poe)"

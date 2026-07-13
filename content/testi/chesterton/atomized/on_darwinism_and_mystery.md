@@ -1,5 +1,5 @@
 ---
-title: "On Darwinism and Mystery"
+title: "On_Darwinism_and_Mystery"
 author: "Chesterton"
 unitType: work
 parentWork: "works/on-darwinism-and-mystery-(chesterton)"

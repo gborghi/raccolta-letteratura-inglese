@@ -1,5 +1,5 @@
 ---
-title: "For a War Memorial"
+title: "For_a_War_Memorial"
 author: "Chesterton"
 unitType: work
 parentWork: "works/for-a-war-memorial-(chesterton)"

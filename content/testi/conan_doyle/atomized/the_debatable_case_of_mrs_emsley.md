@@ -1,5 +1,5 @@
 ---
-title: "THE DEBATABLE CASE OF MRS EMSLEY"
+title: "THE DEBATABLE CASE OF MRS. EMSLEY"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-debatable-case-of-mrs.-emsley-(conan-doyle)"

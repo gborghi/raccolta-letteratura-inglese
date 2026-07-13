@@ -1,0 +1,35 @@
+---
+title: "522. Had I presumed to hope —"
+author: "Dickinson"
+unitType: work
+parentWork: "works/522.-had-i-presumed-to-hope-—-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0522_had_i_presumed_to_hope" data-author="Dickinson" data-workhref="works/522.-had-i-presumed-to-hope-—-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0522_had_i_presumed_to_hope" data-title="522. Had I presumed to hope —" data-chapter="" data-kind="intro"></span>
+
+
+Had I presumed to [[Hope|hope]] —  
+The loss had been to Me  
+A Value — for the [[Greatness]]' Sake —  
+As Giants — gone away —  
+
+Had I presumed to gain  
+A Favor so remote —  
+The failure but confirm the Grace  
+In further Infinite —  
+
+'Tis failure — not of [[Hope]] —  
+But Confident [[Despair]] —  
+Advancing on Celestial Lists —  
+With faint — Terrestial power —  
+
+'Tis Honor — though I die —  
+For That no Man obtain  
+Till He be justified by [[Death]] —  
+This — is the Second Gain —

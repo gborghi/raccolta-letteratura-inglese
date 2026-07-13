@@ -1,5 +1,5 @@
 ---
-title: "The Angry Street"
+title: "The_Angry_Street"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-angry-street-(chesterton)"

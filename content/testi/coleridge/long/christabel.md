@@ -1,5 +1,5 @@
 ---
-title: "Christabel"
+title: "CHRISTABEL"
 author: "Coleridge"
 unitType: work
 parentWork: "works/christabel-(coleridge)"

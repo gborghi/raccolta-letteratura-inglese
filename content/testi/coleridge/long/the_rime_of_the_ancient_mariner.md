@@ -1,5 +1,5 @@
 ---
-title: "The Rime of the Ancient Mariner"
+title: "THE RIME OF THE ANCIENT MARINER"
 author: "Coleridge"
 unitType: work
 parentWork: "works/the-rime-of-the-ancient-mariner-(coleridge)"

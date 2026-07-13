@@ -1,5 +1,5 @@
 ---
-title: "a word"
+title: "a_word"
 author: "Chesterton"
 unitType: work
 parentWork: "works/a-word-(chesterton)"

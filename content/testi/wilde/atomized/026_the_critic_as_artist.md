@@ -1,5 +1,5 @@
 ---
-title: "026 The Critic as Artist"
+title: "The Critic as Artist"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-critic-as-artist-(wilde)"

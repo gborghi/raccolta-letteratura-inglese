@@ -1,5 +1,5 @@
 ---
-title: "Myths and Metaphors"
+title: "Myths_and_Metaphors"
 author: "Chesterton"
 unitType: work
 parentWork: "works/myths-and-metaphors-(chesterton)"

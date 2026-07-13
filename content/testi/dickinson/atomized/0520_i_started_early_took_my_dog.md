@@ -1,0 +1,45 @@
+---
+title: "520. I started Early — Took my Dog —"
+author: "Dickinson"
+unitType: work
+parentWork: "works/520.-i-started-early-—-took-my-dog-—-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0520_i_started_early_took_my_dog" data-author="Dickinson" data-workhref="works/520.-i-started-early-—-took-my-dog-—-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0520_i_started_early_took_my_dog" data-title="520. I started Early — Took my Dog —" data-chapter="" data-kind="intro"></span>
+
+
+I started Early — Took my Dog —  
+And visited the [[Sea]] —  
+The Mermaids in the Basement  
+Came out to look at me —  
+
+And Frigates — in the Upper Floor  
+Extended Hempen Hands —  
+Presuming Me to be a Mouse —  
+Aground — upon the Sands —  
+
+But no Man moved Me — till the Tide  
+Went past my simple Shoe —  
+And past my Apron — and my Belt —  
+And past my Bodice — too —  
+
+And made as He would eat me up —  
+As wholly as a [[Dew]]  
+Upon a Dandelion's Sleeve —  
+And then — I started — too —  
+
+And He — He followed — close behind —  
+I felt his Silver Heel  
+Upon my Ankle — Then my Shoes  
+Would overflow with Pearl —  
+
+Until We met the Solid Town —  
+No One He seemed to know —  
+And bowing — with a Mighty look —  
+At me — The [[Sea]] withdrew —

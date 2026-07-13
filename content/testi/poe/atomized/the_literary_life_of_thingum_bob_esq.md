@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob Esq"
+title: "The Literary Life of Thingum Bob, Esq"
 author: "Poe"
 unitType: work
 parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"

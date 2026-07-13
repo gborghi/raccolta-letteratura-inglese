@@ -1,5 +1,5 @@
 ---
-title: "The Death of Wallenstein"
+title: "THE DEATH OF WALLENSTEIN"
 author: "Coleridge"
 unitType: work
 parentWork: "works/the-death-of-wallenstein-(coleridge)"

@@ -1,5 +1,5 @@
 ---
-title: "Complete Prose Works"
+title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy"
 author: "Whitman"
 unitType: work
 parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"

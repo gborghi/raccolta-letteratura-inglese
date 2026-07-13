@@ -1,5 +1,5 @@
 ---
-title: "The Thousand And Second Tale of Scheherazade"
+title: "The Thousand-And-Second Tale of Scheherazade"
 author: "Poe"
 unitType: work
 parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"

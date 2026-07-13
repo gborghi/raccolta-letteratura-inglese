@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure"
+title: "Measure for Measure — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [13]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/measure-for-measure-(shakespeare)"

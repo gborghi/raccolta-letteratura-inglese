@@ -1,5 +1,5 @@
 ---
-title: "Two Kinds of Paradox"
+title: "Two_Kinds_of_Paradox"
 author: "Chesterton"
 unitType: work
 parentWork: "works/two-kinds-of-paradox-(chesterton)"

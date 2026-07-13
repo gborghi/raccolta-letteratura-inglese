@@ -1,5 +1,5 @@
 ---
-title: "010 The Portrait of Mr W H"
+title: "The Portrait of Mr. W. H."
 author: "Wilde"
 unitType: work
 parentWork: "works/the-portrait-of-mr.-w.-h.-(wilde)"

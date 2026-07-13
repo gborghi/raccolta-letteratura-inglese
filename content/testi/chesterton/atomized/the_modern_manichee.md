@@ -1,5 +1,5 @@
 ---
-title: "The Modern Manichee"
+title: "The_Modern_Manichee"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-modern-manichee-(chesterton)"

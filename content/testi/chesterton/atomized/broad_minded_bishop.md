@@ -1,5 +1,5 @@
 ---
-title: "Broad Minded Bishop"
+title: "Broad_Minded_Bishop"
 author: "Chesterton"
 unitType: work
 parentWork: "works/broad-minded-bishop-(chesterton)"

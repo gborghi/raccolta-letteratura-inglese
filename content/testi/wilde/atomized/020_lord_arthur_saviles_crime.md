@@ -1,5 +1,5 @@
 ---
-title: "020 Lord Arthur Saviles Crime"
+title: "Lord Arthur Savile's Crime"
 author: "Wilde"
 unitType: work
 parentWork: "works/lord-arthur-savile's-crime-(wilde)"

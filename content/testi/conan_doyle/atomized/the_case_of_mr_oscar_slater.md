@@ -1,5 +1,5 @@
 ---
-title: "THE CASE OF MR OSCAR SLATER"
+title: "THE CASE OF MR. OSCAR SLATER"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-case-of-mr.-oscar-slater-(conan-doyle)"

@@ -1,5 +1,5 @@
 ---
-title: "THE CAPTAIN OF THE POLESTAR AND OTHER TALES"
+title: "THE CAPTAIN OF THE POLESTAR AND OTHER TALES."
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-captain-of-the-pole-star,-and-other-tales-(conan-doyle)"

@@ -1,5 +1,5 @@
 ---
-title: "on evil euphemisms"
+title: "on_evil_euphemisms"
 author: "Chesterton"
 unitType: work
 parentWork: "works/on-evil-euphemisms-(chesterton)"

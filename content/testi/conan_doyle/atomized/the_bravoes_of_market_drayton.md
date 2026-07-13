@@ -1,5 +1,5 @@
 ---
-title: "THE BRAVOES OF MARKET DRAYTON"
+title: "THE BRAVOES OF MARKET-DRAYTON"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-bravoes-of-market-drayton-(conan-doyle)"

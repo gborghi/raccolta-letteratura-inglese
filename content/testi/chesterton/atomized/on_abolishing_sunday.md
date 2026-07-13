@@ -1,5 +1,5 @@
 ---
-title: "On Abolishing Sunday"
+title: "On_Abolishing_Sunday"
 author: "Chesterton"
 unitType: work
 parentWork: "works/on-abolishing-sunday-(chesterton)"

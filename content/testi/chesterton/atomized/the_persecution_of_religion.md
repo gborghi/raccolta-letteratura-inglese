@@ -1,5 +1,5 @@
 ---
-title: "The Persecution of Religion"
+title: "The_Persecution_of_Religion"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-persecution-of-religion-(chesterton)"

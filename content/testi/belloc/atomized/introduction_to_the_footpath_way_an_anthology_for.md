@@ -1,5 +1,5 @@
 ---
-title: "Introduction to The Footpath Way An Anthology for"
+title: "Introduction to ‘The Footpath Way: An Anthology for Walkers’"
 author: "Belloc"
 unitType: work
 tags:

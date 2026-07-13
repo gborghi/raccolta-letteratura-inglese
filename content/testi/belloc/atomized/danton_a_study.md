@@ -1,5 +1,5 @@
 ---
-title: "Danton A Study"
+title: "Danton: A Study"
 author: "Belloc"
 unitType: work
 parentWork: "works/danton--a-study-(belloc)"

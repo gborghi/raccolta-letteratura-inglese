@@ -1,5 +1,5 @@
 ---
-title: "Mr Clutterbucks Election"
+title: "Mr. Clutterbuck’s Election"
 author: "Belloc"
 unitType: work
 parentWork: "works/mr.-clutterbuck's-election-(belloc)"

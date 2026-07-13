@@ -1,5 +1,5 @@
 ---
-title: "Gloria in Profundis"
+title: "Gloria_in_Profundis"
 author: "Chesterton"
 unitType: work
 parentWork: "works/gloria-in-profundis-(chesterton)"

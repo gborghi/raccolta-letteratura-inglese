@@ -1,5 +1,5 @@
 ---
-title: "016 The Young King"
+title: "The Young King"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-young-king-(wilde)"

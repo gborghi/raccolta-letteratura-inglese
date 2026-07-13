@@ -1,5 +1,5 @@
 ---
-title: "The Balloon Hoax"
+title: "The Balloon-Hoax"
 author: "Poe"
 unitType: work
 parentWork: "works/the-balloon-hoax-(poe)"

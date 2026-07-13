@@ -1,5 +1,5 @@
 ---
-title: "The Two Noble Kinsmen"
+title: "The Two Noble Kinsmen — Act V, Scene 6 — monologue (THE) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-two-noble-kinsmen-(shakespeare)"

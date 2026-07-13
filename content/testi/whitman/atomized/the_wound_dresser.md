@@ -1,5 +1,5 @@
 ---
-title: "The Wound Dresser"
+title: "The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion"
 author: "Whitman"
 unitType: work
 parentWork: "works/the-wound-dresser-(whitman)"

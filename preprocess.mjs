@@ -575,6 +575,10 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           if (parentWorkHref) readHrefByWork.set(parentWorkHref, workSlug)
           const wt = workTitle(author, workDir)
           const workLabel = wt || workDir.replace(/_/g, " ")
+          // Page title: prefer the work-root H1 (real, punctuated poem/essay title)
+          // over the raw folder name ("0001 Awake ye muses…") when no WORK_TITLES
+          // override exists. Set from the intro unit below; falls back to workLabel.
+          let pageTitle = workLabel
           const atomIdOf = (it) =>
             it.slug.slice(workSlug.length + 1).replace(/\//g, "--") || "intro"
           const blocks = []
@@ -600,6 +604,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
                 prettyFromFilename(it.fileName),
             )
             atomMeta.set(frag, { title, work: workLabel, workHref: parentWorkHref || "" })
+            if (isIntro && !wt) pageTitle = title
             const chapLabel = it.parentItem
               ? chapterLabel(it.parentItem.fileName)
               : isIntro
@@ -645,7 +650,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
 
           const fm =
             `---\n` +
-            `title: ${JSON.stringify(workLabel)}\n` +
+            `title: ${JSON.stringify(pageTitle)}\n` +
             `author: ${JSON.stringify(authorName)}\n` +
             `unitType: work\n` +
             (parentWorkHref ? `parentWork: ${JSON.stringify(parentWorkHref)}\n` : "") +

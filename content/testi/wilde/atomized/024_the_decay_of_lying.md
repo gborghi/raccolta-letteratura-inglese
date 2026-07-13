@@ -1,5 +1,5 @@
 ---
-title: "024 The Decay of Lying"
+title: "The Decay of Lying"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-decay-of-lying-(wilde)"

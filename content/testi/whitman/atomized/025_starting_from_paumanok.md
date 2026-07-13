@@ -1,5 +1,5 @@
 ---
-title: "025 Starting from Paumanok"
+title: "Starting from Paumanok"
 author: "Whitman"
 unitType: work
 parentWork: "works/starting-from-paumanok-(whitman)"

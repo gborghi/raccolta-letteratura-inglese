@@ -1,5 +1,5 @@
 ---
-title: "017 The Birthday of the Infanta"
+title: "The Birthday of the Infanta"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-birthday-of-the-infanta-(wilde)"

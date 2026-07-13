@@ -1,5 +1,5 @@
 ---
-title: "THE CASE OF MR GEORGE EDALJI"
+title: "THE CASE OF MR. GEORGE EDALJI"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/the-case-of-mr.-george-edalji-(conan-doyle)"

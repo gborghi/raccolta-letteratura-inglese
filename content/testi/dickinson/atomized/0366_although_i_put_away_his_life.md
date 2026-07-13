@@ -1,0 +1,58 @@
+---
+title: "366. Although I put away his life —"
+author: "Dickinson"
+unitType: work
+parentWork: "works/366.-although-i-put-away-his-life-—-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0366_although_i_put_away_his_life" data-author="Dickinson" data-workhref="works/366.-although-i-put-away-his-life-—-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0366_although_i_put_away_his_life" data-title="366. Although I put away his life —" data-chapter="" data-kind="intro"></span>
+
+
+Although I put away his life —  
+An Ornament too grand  
+For Forehead low as mine, to wear,  
+This might have been the Hand  
+
+That sowed the flower, he preferred —  
+Or smoothed a homely [[Pain|pain]],  
+Or pushed the pebble from his path —  
+Or played his chosen tune —  
+
+On Lute the least — the latest —  
+But just his Ear could know  
+That whatsoe'er delighted it,  
+I never would let go —  
+
+The foot to bear his errand —  
+A little Boot I know —  
+Would leap abroad like Antelope —  
+With just the grant to do —  
+
+His weariest Commandment —  
+A sweeter to obey,  
+Than "Hide and Seek" —  
+Or skip to Flutes —  
+Or all Day, chase the Bee —  
+
+Your Servant, Sir, will weary —  
+The Surgeon, will not come —  
+The World, will have its own — to do —  
+The [[Dust]], will vex your Fame —  
+
+383  
+
+The Cold will force your tightest [[Door|door]]  
+Some February Day,  
+But say my apron bring the sticks  
+To make your Cottage gay —  
+
+That I may take that promise  
+To Paradise, with me —  
+To teach the Angels, avarice,  
+You, Sir, taught first — to me.

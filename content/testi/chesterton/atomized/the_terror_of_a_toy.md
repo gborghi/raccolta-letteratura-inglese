@@ -1,5 +1,5 @@
 ---
-title: "The Terror of a Toy"
+title: "The_Terror_of_a_Toy"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-terror-of-a-toy-(chesterton)"

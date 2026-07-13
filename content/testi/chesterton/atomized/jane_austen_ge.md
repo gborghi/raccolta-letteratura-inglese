@@ -1,5 +1,5 @@
 ---
-title: "Jane Austen GE"
+title: "Jane_Austen_GE"
 author: "Chesterton"
 unitType: work
 parentWork: "works/jane-austen-ge-(chesterton)"

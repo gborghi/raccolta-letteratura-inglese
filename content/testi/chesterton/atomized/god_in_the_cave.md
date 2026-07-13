@@ -1,5 +1,5 @@
 ---
-title: "God in the Cave"
+title: "God_in_the_Cave"
 author: "Chesterton"
 unitType: work
 parentWork: "works/god-in-the-cave-(chesterton)"

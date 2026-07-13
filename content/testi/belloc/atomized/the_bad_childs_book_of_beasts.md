@@ -1,5 +1,5 @@
 ---
-title: "The Bad Childs Book of Beasts"
+title: "The Bad Child’s Book of Beasts"
 author: "Belloc"
 unitType: work
 parentWork: "works/the-bad-child's-book-of-beasts-(belloc)"

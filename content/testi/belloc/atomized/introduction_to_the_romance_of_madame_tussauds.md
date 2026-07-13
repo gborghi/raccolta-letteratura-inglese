@@ -1,5 +1,5 @@
 ---
-title: "Introduction to The Romance of Madame Tussauds"
+title: "Introduction to ‘The Romance of Madame Tussaud’s’"
 author: "Belloc"
 unitType: work
 parentWork: "works/introduction-to-'the-romance-of-madame-tussaud's'-(belloc)"

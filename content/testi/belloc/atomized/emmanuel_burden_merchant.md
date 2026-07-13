@@ -1,5 +1,5 @@
 ---
-title: "Emmanuel Burden Merchant"
+title: "Emmanuel Burden, Merchant"
 author: "Belloc"
 unitType: work
 parentWork: "works/emmanuel-burden,-merchant-(belloc)"

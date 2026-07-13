@@ -1,5 +1,5 @@
 ---
-title: "Ms Found in a Bottle"
+title: "Ms. Found in a Bottle"
 author: "Poe"
 unitType: work
 parentWork: "works/ms.-found-in-a-bottle-(poe)"

@@ -1,0 +1,37 @@
+---
+title: "287. A Clock stopped —"
+author: "Dickinson"
+unitType: work
+parentWork: "works/287.-a-clock-stopped-—-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0287_a_clock_stopped" data-author="Dickinson" data-workhref="works/287.-a-clock-stopped-—-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0287_a_clock_stopped" data-title="287. A Clock stopped —" data-chapter="" data-kind="intro"></span>
+
+
+A [[Clock]] stopped —  
+Not the Mantel's —  
+Geneva's farthest skill  
+Can't put the puppet bowing —  
+That just now dangled still —  
+
+An awe came on the Trinket!  
+The Figures hunched, with [[Pain|pain]] —  
+Then quivered out of Decimals —  
+Into Degreeless [[Noon]] —  
+
+It will not stir for Doctors —  
+This Pendulum of [[Snow|snow]] —  
+The Shopman importunes it —  
+While cool — concernless No —  
+
+Nods from the Gilded pointers —  
+Nods from the Seconds slim —  
+Decades of Arrogance between  
+The Dial life —  
+And Him —

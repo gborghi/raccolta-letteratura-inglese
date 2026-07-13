@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered 8"
+title: "AllThingsConsidered-8"
 author: "Chesterton"
 unitType: work
 parentWork: "works/allthingsconsidered-8-(chesterton)"

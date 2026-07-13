@@ -1,0 +1,26 @@
+---
+title: "36. Snow flakes."
+author: "Dickinson"
+unitType: work
+parentWork: "works/36.-snow-flakes.-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0036_snow_flakes" data-author="Dickinson" data-workhref="works/36.-snow-flakes.-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0036_snow_flakes" data-title="36. Snow flakes." data-chapter="" data-kind="intro"></span>
+
+
+[[Snow]] flakes.  
+
+I counted till they danced so  
+Their slippers leaped the town,  
+And then I took a pencil  
+To note the rebels down.  
+And then they grew so jolly  
+I did resign the prig,  
+And ten of my once stately toes  
+Are marshalled for a jig!

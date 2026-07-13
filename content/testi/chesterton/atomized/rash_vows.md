@@ -1,5 +1,5 @@
 ---
-title: "rash vows"
+title: "rash_vows"
 author: "Chesterton"
 unitType: work
 parentWork: "works/rash-vows-(chesterton)"

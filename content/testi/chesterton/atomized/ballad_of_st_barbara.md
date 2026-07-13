@@ -1,5 +1,5 @@
 ---
-title: "Ballad of St Barbara"
+title: "Ballad_of_St_Barbara"
 author: "Chesterton"
 unitType: work
 parentWork: "works/ballad-of-st-barbara-(chesterton)"

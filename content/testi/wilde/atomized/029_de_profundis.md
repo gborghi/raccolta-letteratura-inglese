@@ -1,5 +1,5 @@
 ---
-title: "029 De Profundis"
+title: "De Profundis"
 author: "Wilde"
 unitType: work
 parentWork: "works/de-profundis-(wilde)"

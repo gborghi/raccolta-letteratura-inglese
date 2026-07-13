@@ -1,5 +1,5 @@
 ---
-title: "The Judgment of England"
+title: "The_Judgment_of_England"
 author: "Chesterton"
 unitType: work
 parentWork: "works/the-judgment-of-england-(chesterton)"

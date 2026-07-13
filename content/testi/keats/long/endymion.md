@@ -1,5 +1,5 @@
 ---
-title: "Endymion"
+title: "Endymion - A Poetic Romance"
 author: "Keats"
 unitType: work
 tags:

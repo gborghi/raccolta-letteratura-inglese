@@ -1,0 +1,45 @@
+---
+title: "609. I Years had been from Home"
+author: "Dickinson"
+unitType: work
+parentWork: "works/609.-i-years-had-been-from-home-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/0609_i_years_had_been_from_home" data-author="Dickinson" data-workhref="works/609.-i-years-had-been-from-home-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0609_i_years_had_been_from_home" data-title="609. I Years had been from Home" data-chapter="" data-kind="intro"></span>
+
+
+I Years had been from [[Home]]  
+And now before the [[Door]]  
+I dared not enter, lest a Face  
+I never saw before  
+
+Stare solid into mine  
+And ask my Business there —  
+"My Business but a Life I left  
+Was such remaining there?"  
+
+I leaned upon the Awe —  
+I lingered with Before —  
+The Second like an Ocean rolled  
+And broke against my ear —  
+
+I laughed a crumbling Laugh  
+That I could [[Fear|fear]] a [[Door]]  
+Who Consternation compassed  
+And never winced before.  
+
+I fitted to the Latch  
+My Hand, with trembling care  
+Lest back the awful [[Door]] should [[spring]]  
+And leave me in the Floor —  
+
+Then moved my Fingers off  
+As cautiously as Glass  
+And held my ears, and like a Thief  
+Fled gasping from the [[house|House]] —

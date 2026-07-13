@@ -1,5 +1,5 @@
 ---
-title: "Lambkins Remains"
+title: "Lambkin’s Remains"
 author: "Belloc"
 unitType: work
 parentWork: "works/lambkin's-remains-(belloc)"

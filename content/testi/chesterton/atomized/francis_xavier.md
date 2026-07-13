@@ -1,5 +1,5 @@
 ---
-title: "Francis Xavier"
+title: "Francis_Xavier"
 author: "Chesterton"
 unitType: work
 parentWork: "works/francis-xavier-(chesterton)"

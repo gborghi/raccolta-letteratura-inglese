@@ -1,5 +1,5 @@
 ---
-title: "Calibans Guide to Letters"
+title: "Caliban’s Guide to Letters"
 author: "Belloc"
 unitType: work
 parentWork: "works/caliban's-guide-to-letters-(belloc)"

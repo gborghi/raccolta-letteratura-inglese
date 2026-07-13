@@ -1,5 +1,5 @@
 ---
-title: "MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADV"
+title: "MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES"
 author: "Conan Doyle"
 unitType: work
 tags:

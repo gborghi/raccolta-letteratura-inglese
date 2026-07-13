@@ -1,5 +1,5 @@
 ---
-title: "But Soft We Are Observed"
+title: "But Soft: We Are Observed!"
 author: "Belloc"
 unitType: work
 parentWork: "works/but-soft--we-are-observed!-(belloc)"

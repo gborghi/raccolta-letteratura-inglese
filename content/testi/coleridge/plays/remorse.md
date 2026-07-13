@@ -1,5 +1,5 @@
 ---
-title: "Remorse"
+title: "REMORSE"
 author: "Coleridge"
 unitType: work
 parentWork: "works/remorse-(coleridge)"

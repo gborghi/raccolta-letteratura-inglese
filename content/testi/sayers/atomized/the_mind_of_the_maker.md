@@ -1,5 +1,5 @@
 ---
-title: "The Mind of the Maker"
+title: "The Mind of the Maker — Chapter 12: Problem Picture (part 9)"
 author: "Sayers"
 unitType: work
 parentWork: "works/the-mind-of-the-maker-(sayers)"

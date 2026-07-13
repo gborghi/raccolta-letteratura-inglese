@@ -1,5 +1,5 @@
 ---
-title: "009 The Picture of Dorian Gray"
+title: "The Picture of Dorian Gray"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-picture-of-dorian-gray-(wilde)"

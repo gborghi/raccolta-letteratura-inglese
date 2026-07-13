@@ -1,5 +1,5 @@
 ---
-title: "028 The Soul of Man under Socialism"
+title: "The Soul of Man under Socialism"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-soul-of-man-under-socialism-(wilde)"

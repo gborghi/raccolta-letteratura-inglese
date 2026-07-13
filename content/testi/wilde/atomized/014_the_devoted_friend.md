@@ -1,5 +1,5 @@
 ---
-title: "014 The Devoted Friend"
+title: "The Devoted Friend"
 author: "Wilde"
 unitType: work
 parentWork: "works/the-devoted-friend-(wilde)"

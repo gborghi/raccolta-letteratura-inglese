@@ -1,5 +1,5 @@
 ---
-title: "Avril Essays on the French Renaissance"
+title: "Avril: Essays on the French Renaissance"
 author: "Belloc"
 unitType: work
 parentWork: "works/avril--essays-on-the-french-renaissance-(belloc)"

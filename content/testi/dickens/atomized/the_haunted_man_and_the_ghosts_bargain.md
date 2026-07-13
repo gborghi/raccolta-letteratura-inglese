@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghosts Bargain"
+title: "The Haunted Man and the Ghost's Bargain"
 author: "Dickens"
 unitType: work
 parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"

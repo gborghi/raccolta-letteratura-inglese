@@ -1,5 +1,5 @@
 ---
-title: "On Abraham Lincoln"
+title: "On_Abraham_Lincoln"
 author: "Chesterton"
 unitType: work
 parentWork: "works/on-abraham-lincoln-(chesterton)"

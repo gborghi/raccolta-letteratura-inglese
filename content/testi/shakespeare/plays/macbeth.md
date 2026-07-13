@@ -1,5 +1,5 @@
 ---
-title: "Macbeth"
+title: "Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/macbeth-(shakespeare)"

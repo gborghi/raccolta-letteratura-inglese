@@ -1,5 +1,5 @@
 ---
-title: "A VISIT TO THREE FRONTS JUNE 1916"
+title: "A VISIT TO THREE FRONTS. JUNE 1916"
 author: "Conan Doyle"
 unitType: work
 parentWork: "works/a-visit-to-three-fronts,-june-1916-(conan-doyle)"

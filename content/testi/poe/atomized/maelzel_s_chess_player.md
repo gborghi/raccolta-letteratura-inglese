@@ -1,5 +1,5 @@
 ---
-title: "Maelzel s Chess Player"
+title: "Maelzel's Chess-Player"
 author: "Poe"
 unitType: work
 parentWork: "works/maelzel's-chess-player-(poe)"

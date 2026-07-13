@@ -1,5 +1,5 @@
 ---
-title: "one leg"
+title: "one_leg"
 author: "Chesterton"
 unitType: work
 parentWork: "works/one-leg-(chesterton)"

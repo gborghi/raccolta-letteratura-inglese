@@ -1,5 +1,5 @@
 ---
-title: "The Merchant of Venice"
+title: "The Merchant of Venice — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-merchant-of-venice-(shakespeare)"

@@ -1,5 +1,5 @@
 ---
-title: "A General Sketch of the European War the First Pha"
+title: "A General Sketch of the European War, the First Phase"
 author: "Belloc"
 unitType: work
 tags:

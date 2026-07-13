@@ -1,5 +1,5 @@
 ---
-title: "THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUME"
+title: "THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI"
 author: "Conan Doyle"
 unitType: work
 tags:

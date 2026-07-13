@@ -1,5 +1,5 @@
 ---
-title: "The Old Road from Canterbury to Winchester"
+title: "The Old Road: from Canterbury to Winchester"
 author: "Belloc"
 unitType: work
 parentWork: "works/the-old-road--from-canterbury-to-winchester-(belloc)"

@@ -1,5 +1,5 @@
 ---
-title: "On Lying In Bed"
+title: "On_Lying_In_Bed"
 author: "Chesterton"
 unitType: work
 parentWork: "works/on-lying-in-bed-(chesterton)"
