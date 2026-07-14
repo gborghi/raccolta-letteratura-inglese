@@ -1105,30 +1105,29 @@ ul.tags {
   color: var(--darkgray); padding: .25rem .7rem; cursor: pointer; }
 .ar-lang button.active { background: var(--secondary); color: var(--light); }
 .ar-pager { display: inline-flex; gap: .3rem; }
-.ar-pager button, .ar-tocbtn, .ar-navbtn {
+.ar-pager button, .ar-tocbtn {
   font: inherit; border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
   width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer; line-height: 1; font-size: 1rem;
 }
 .ar-pager button:disabled { opacity: .35; cursor: default; }
-.ar-pager button:hover:not(:disabled), .ar-tocbtn:hover, .ar-navbtn:hover { border-color: var(--secondary); color: var(--secondary); }
+.ar-pager button:hover:not(:disabled), .ar-tocbtn:hover { border-color: var(--secondary); color: var(--secondary); }
 .ar-tocbtn { display: none; }
-// The global-sidebar toggle shows only on desktop/tablet (on mobile the site
-// sidebar is already a compact top row, not a left column).
-.ar-navbtn { display: inline-flex; align-items: center; justify-content: center; }
-@media (max-width: 800px) { .ar-navbtn { display: none; } }
-// Close (✕) button for the reading-page left-sidebar drawer — sits above the drawer
-// (which covers the ☰ toggle). Hidden until the drawer opens (see body.reading-page).
-.ar-drawer-close {
-  display: none;
-  position: fixed;
-  top: 0.8rem;
-  left: calc(320px - 2.7rem);
-  z-index: 31;
-  width: 1.9rem; height: 1.9rem; border-radius: 7px;
+// ---- global left-sidebar toggle (sidebarToggle.inline.ts) ----
+// Fixed ☰/✕ that collapses/expands the left sidebar site-wide. Desktop/tablet only:
+// below the mobile breakpoint the sidebar is a top bar and the Explorer nav is toggled
+// by the existing core hamburger instead (see the <800px block near the file end).
+.site-nav-toggle {
+  position: fixed; top: .7rem; left: .7rem; z-index: 40;
+  width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer;
   border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
-  font-size: 0.95rem; line-height: 1; cursor: pointer;
+  font-size: 1rem; line-height: 1; transition: left .18s ease;
+  display: inline-flex; align-items: center; justify-content: center;
 }
-.ar-drawer-close:hover { border-color: var(--secondary); color: var(--secondary); }
+.site-nav-toggle:hover { border-color: var(--secondary); color: var(--secondary); }
+// While open the sidebar occupies a 320px column, so park the ✕ at its top-right
+// corner (clear of the site title) instead of the screen corner.
+@media (min-width: 800px) { body.nav-open .site-nav-toggle { left: calc(320px - 2.7rem); } }
+@media (max-width: 799.98px) { .site-nav-toggle { display: none; } }
 .ar-shell { display: grid; grid-template-columns: 230px minmax(0,1fr); gap: 1.4rem; }
 .ar-toc { align-self: start; position: sticky; top: 3.2rem; max-height: calc(100vh - 4rem);
   overflow: auto; padding-right: .6rem; border-right: 1px solid var(--lightgray); font-size: .84rem; }
@@ -1174,26 +1173,52 @@ body.reading-page {
     // to the center track explicitly.
     & #quartz-body > .center { grid-area: grid-center; min-width: 0; }
   }
-  &.left-open #quartz-body > .sidebar.left {
-    display: flex;
-    position: fixed;
-    inset: 0 auto 0 0;
-    width: 320px; max-width: 85vw; height: 100vh;
-    overflow: auto;
-    background: var(--light);
-    z-index: 30;
-    padding: 5rem 1.5rem 2rem;
-    box-shadow: 0 0 28px rgba(0, 0, 0, 0.22);
+  // Open on desktop/tablet: SQUEEZE the page right (no overlay, no scrim) so the
+  // reader's own chapter TOC (ar-toc) stays fully visible beside the restored sidebar.
+  // The left grid column gets its width back and the sidebar returns to normal flow.
+  @media all and (min-width: 1200px) {
+    &.left-open #quartz-body { grid-template-columns: 320px auto 320px; }
   }
-  // Dimming scrim behind the drawer: makes "click outside to close" obvious and
-  // blocks stray clicks on the page beneath. Clicking it targets <body>, which the
-  // document click-handler in atomRouter treats as an outside-click → closes.
-  &.left-open::after {
-    content: "";
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.28);
-    z-index: 29;
+  @media all and (min-width: 800px) and (max-width: 1199.98px) {
+    &.left-open #quartz-body { grid-template-columns: 320px auto; }
   }
-  &.left-open .ar-drawer-close { display: inline-flex; align-items: center; justify-content: center; }
+  @media (min-width: 800px) {
+    &.left-open #quartz-body > .sidebar.left {
+      display: flex; position: static; inset: auto; width: auto; max-width: none;
+      height: auto; overflow: visible; background: transparent; box-shadow: none;
+      z-index: auto; padding: 0;
+    }
+  }
+  // Open on mobile: overlay drawer + dimming scrim (no horizontal room to squeeze).
+  @media (max-width: 799.98px) {
+    &.left-open #quartz-body > .sidebar.left {
+      display: flex; position: fixed; inset: 0 auto 0 0; width: 320px; max-width: 85vw;
+      height: 100vh; overflow: auto; background: var(--light); z-index: 30;
+      padding: 5rem 1.5rem 2rem; box-shadow: 0 0 28px rgba(0, 0, 0, 0.22);
+    }
+    &.left-open::after { content: ""; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.28); z-index: 29; }
+  }
+}
+
+// ---- normal (non-reading) page: collapse the whole left sidebar to widen the text ----
+// Shown by default; the fixed ☰/✕ (sidebarToggle.inline.ts) adds body.left-collapsed.
+@media (min-width: 800px) {
+  body.left-collapsed:not(.reading-page) #quartz-body { grid-template-columns: 0 auto 320px; }
+  body.left-collapsed:not(.reading-page) #quartz-body > .sidebar.left { display: none; }
+  body.left-collapsed:not(.reading-page) #quartz-body > .center { grid-area: grid-center; min-width: 0; }
+}
+
+// ---- mobile (<800): the sidebar is a top bar; only the Explorer nav collapses ----
+// Quartz's core Explorer drawer exists (position:absolute, opaque, full-height,
+// z-index:100) but its slide-in JS is inert in this build, so it sits off-screen by
+// default (translate(-100vw) + visibility:hidden). sidebarToggle.inline.ts toggles
+// body.explorer-open; reveal the core drawer — overriding BOTH the transform and the
+// visibility it animates — and constrain it to a left panel so the scrim shows on the
+// right for tap-to-close (Escape also closes).
+@media (max-width: 799.98px) {
+  body.explorer-open .explorer-content {
+    transform: none !important; visibility: visible !important;
+    width: 82% !important; max-width: 320px !important;
+  }
+  body.explorer-open::after { content: ""; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.28); z-index: 29; }
 }

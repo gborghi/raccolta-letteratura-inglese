@@ -24,6 +24,8 @@ import copyrightGuardScript from "../../components/scripts/copyrightGuard.inline
 import searchLoadingScript from "../../components/scripts/searchLoading.inline"
 // @ts-ignore
 import atomRouterScript from "../../components/scripts/atomRouter.inline"
+// @ts-ignore
+import sidebarToggleScript from "../../components/scripts/sidebarToggle.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -132,6 +134,10 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     // Reading-page SPA: partitions a work page's atom-split sections and shows one
     // atom at a time with a TOC, prev/next and EN/IT toggle (see atomRouter.inline.ts).
     atomRouterScript,
+    // Global left-sidebar open/close (desktop column collapse, reading-page squeeze,
+    // mobile Explorer drawer). Pushed AFTER atomRouter so its "nav" listener runs after
+    // atomRouter has set/cleared body.reading-page (see sidebarToggle.inline.ts).
+    sidebarToggleScript,
   )
 
   if (cfg.analytics?.provider === "google") {

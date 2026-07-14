@@ -141,18 +141,10 @@ function build(reader: HTMLElement) {
     .catch(() => {})
 
   // ---- reader chrome ----
-  const worktitle = reader.dataset.worktitle || document.title
   const bar = el("div", "ar-bar")
-  // Desktop-only toggle for the global Explorer/search left sidebar. On a reading
-  // page the reader supplies its own work-nav (ar-toc), so the site sidebar is
-  // collapsed by default and opened on demand as a drawer.
-  const navBtn = el("button", "ar-navbtn", "&#9776;")
-  navBtn.setAttribute("aria-label", "Esplora e cerca")
-  navBtn.title = "Esplora e cerca"
-  navBtn.onclick = (e) => {
-    e.stopPropagation()
-    document.body.classList.toggle("left-open")
-  }
+  // The global Explorer/search left-sidebar toggle is owned site-wide by
+  // sidebarToggle.inline.ts (fixed ☰/✕). The reader only supplies its own chapter-TOC
+  // toggle below.
   const tocBtn = el("button", "ar-tocbtn", "&#9776;")
   tocBtn.setAttribute("aria-label", "Indice")
   const crumb = el("div", "ar-crumb")
@@ -169,7 +161,7 @@ function build(reader: HTMLElement) {
   prevBtn.setAttribute("aria-label", "Precedente")
   nextBtn.setAttribute("aria-label", "Successivo")
   pager.append(prevBtn, nextBtn)
-  bar.append(navBtn, tocBtn, crumb, spacer)
+  bar.append(tocBtn, crumb, spacer)
   if (anyIt) bar.append(langWrap)
   bar.append(pager)
 
@@ -336,13 +328,6 @@ function build(reader: HTMLElement) {
       go(id, true)
     }
   })
-  // click outside the open left-sidebar drawer closes it
-  document.addEventListener("click", (e) => {
-    if (!document.body.classList.contains("left-open")) return
-    const t = e.target as HTMLElement
-    if (t.closest?.(".sidebar.left") || t.closest?.(".ar-navbtn")) return
-    document.body.classList.remove("left-open")
-  })
   window.addEventListener("popstate", () => go(current(), false))
   document.addEventListener("keydown", (e) => {
     if ((e.target as HTMLElement).matches?.("input,textarea")) return
@@ -359,33 +344,13 @@ function build(reader: HTMLElement) {
   go(current(), false)
 }
 
-// The left-sidebar drawer (opened by the ☰ ar-navbtn) overlays and covers that
-// button, so give it its own always-visible ✕ close button (above the drawer) plus
-// Escape-to-close. Clicking the dimmed scrim outside the drawer also closes it (the
-// document click handler in build(), which the CSS scrim makes discoverable).
-let drawerChromeReady = false
-function ensureDrawerChrome() {
-  if (drawerChromeReady) return
-  drawerChromeReady = true
-  const close = document.createElement("button")
-  close.className = "ar-drawer-close"
-  close.type = "button"
-  close.setAttribute("aria-label", "Chiudi")
-  close.textContent = "✕"
-  close.addEventListener("click", () => document.body.classList.remove("left-open"))
-  document.body.appendChild(close)
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") document.body.classList.remove("left-open")
-  })
-}
-
 function init() {
   const readers = document.querySelectorAll<HTMLElement>("div.atom-reader")
   // reading pages collapse the global left sidebar (see build()); leaving one must
-  // restore normal layout for the next SPA-navigated page.
+  // restore normal layout for the next SPA-navigated page. The ☰/✕ chrome that opens
+  // and closes that sidebar is owned globally by sidebarToggle.inline.ts.
   document.body.classList.toggle("reading-page", readers.length > 0)
   if (!readers.length) document.body.classList.remove("left-open")
-  if (readers.length) ensureDrawerChrome()
   readers.forEach((r) => build(r))
 }
 
