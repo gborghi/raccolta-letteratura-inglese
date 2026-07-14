@@ -359,12 +359,33 @@ function build(reader: HTMLElement) {
   go(current(), false)
 }
 
+// The left-sidebar drawer (opened by the ☰ ar-navbtn) overlays and covers that
+// button, so give it its own always-visible ✕ close button (above the drawer) plus
+// Escape-to-close. Clicking the dimmed scrim outside the drawer also closes it (the
+// document click handler in build(), which the CSS scrim makes discoverable).
+let drawerChromeReady = false
+function ensureDrawerChrome() {
+  if (drawerChromeReady) return
+  drawerChromeReady = true
+  const close = document.createElement("button")
+  close.className = "ar-drawer-close"
+  close.type = "button"
+  close.setAttribute("aria-label", "Chiudi")
+  close.textContent = "✕"
+  close.addEventListener("click", () => document.body.classList.remove("left-open"))
+  document.body.appendChild(close)
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") document.body.classList.remove("left-open")
+  })
+}
+
 function init() {
   const readers = document.querySelectorAll<HTMLElement>("div.atom-reader")
   // reading pages collapse the global left sidebar (see build()); leaving one must
   // restore normal layout for the next SPA-navigated page.
   document.body.classList.toggle("reading-page", readers.length > 0)
   if (!readers.length) document.body.classList.remove("left-open")
+  if (readers.length) ensureDrawerChrome()
   readers.forEach((r) => build(r))
 }
 
