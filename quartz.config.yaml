@@ -107,7 +107,10 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      # The tag chips are already rendered below the title (Quartz TagList), so the
+      # note-properties table only duplicated them — hide it to avoid the redundant,
+      # char-stacked Properties box on every work page.
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

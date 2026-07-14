@@ -70,7 +70,7 @@ async function init() {
   if ((document.body.dataset.slug || "") !== slug) return
   if (article.querySelector(".related-works")) return
 
-  const { section, ul } = makeSection("Opere correlate")
+  const { section, ul } = makeSection("Related works")
   for (const r of rels as WorkRel[]) {
     const li = document.createElement("li")
     li.appendChild(link(prefix, r.href, r.title))

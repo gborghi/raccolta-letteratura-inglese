@@ -27,6 +27,20 @@ interface Atom {
 
 const LANG_KEY = "eng-reader-lang"
 
+// The set of work-shard keys that actually have chapter-related data, loaded once from
+// static/chapter_related/_index.json (emitted by preprocess). Gating shard fetches on
+// this avoids a 404 on every reading page that has no shard (the large majority).
+let relatedIndexPromise: Promise<Set<string>> | null = null
+function relatedIndex(bp: string): Promise<Set<string>> {
+  if (!relatedIndexPromise) {
+    relatedIndexPromise = fetch(`${bp}/static/chapter_related/_index.json`)
+      .then((r) => (r.ok ? (r.json() as Promise<string[]>) : []))
+      .then((a) => new Set(a))
+      .catch(() => new Set<string>())
+  }
+  return relatedIndexPromise
+}
+
 // A marker (`.atom-split` / `.qlang-split`) is emitted as an inline <span>; the
 // markdown renderer wraps a lone inline element in a <p>, so the marker is usually
 // NOT a direct child of the article — it sits inside a <p> that contains nothing
@@ -131,14 +145,20 @@ function build(reader: HTMLElement) {
   const workSlug = reader.dataset.work || ""
   const BP = (document.body && (document.body as HTMLElement).dataset.basepath) || ""
   let relatedData: Record<string, Array<Record<string, unknown>>> | null = null
-  // Per-work shard (few KB) instead of the whole ~7MB index; 404 = no related cards.
-  fetch(`${BP}/static/chapter_related/${workSlug.replace(/\//g, "__")}.json`)
-    .then((r) => (r.ok ? r.json() : {}))
-    .then((d) => {
-      relatedData = d
-      render(shownId)
-    })
-    .catch(() => {})
+  // Per-work shard (few KB) instead of the whole ~7MB index. Only ~231 of the 2000+
+  // reading pages have chapter-related data, so gate the shard fetch on a tiny manifest
+  // (relatedIndex) — otherwise every other reading page logs a 404 for a missing shard.
+  const shardKey = workSlug.replace(/\//g, "__")
+  relatedIndex(BP).then((idx) => {
+    if (!idx.has(shardKey)) return // no shard for this work → skip the fetch (no 404)
+    fetch(`${BP}/static/chapter_related/${shardKey}.json`)
+      .then((r) => (r.ok ? r.json() : {}))
+      .then((d) => {
+        relatedData = d
+        render(shownId)
+      })
+      .catch(() => {})
+  })
 
   // ---- reader chrome ----
   const bar = el("div", "ar-bar")
@@ -251,7 +271,7 @@ function build(reader: HTMLElement) {
         relatedData[`${workSlug}#${a.id.split("--")[0]}`])
     if (rel && rel.length) {
       relatedEl.className = "ar-related related-works"
-      relatedEl.append(el("h2", undefined, "Capitoli correlati"))
+      relatedEl.append(el("h2", undefined, "Related chapters"))
       const ul = document.createElement("ul")
       for (const it of rel) {
         const li = document.createElement("li")

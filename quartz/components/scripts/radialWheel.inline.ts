@@ -140,8 +140,11 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   // For crowded wheels (≥10 spokes) alternate between two inner radii so adjacent
   // labels sit at different distances and don't overlap each other.
   const crowded = n >= 10
-  const labelR_inner = crowded ? 19 : 22 // closer ring (even spokes)
-  const labelR_outer = crowded ? 25 : 22 // farther ring (odd spokes, still inner side)
+  const labelR_inner = crowded ? 20 : 22 // closer ring (even spokes)
+  // Wide inner/outer spread on crowded wheels so adjacent labels sit at very different
+  // radii — long multi-word cluster names ("Unrequited Frustrated Love") otherwise
+  // collide with their neighbours. 33 is still inside the emblem ring (tileR 37).
+  const labelR_outer = crowded ? 33 : 22 // farther ring (odd spokes, still inner side)
   // A circular shingle can only ever be monotone up to ONE seam — z-index is a
   // total order, so somewhere around the ring the "each tile above its counter-
   // clockwise neighbour" rule must reverse. Only immediate neighbours overlap
