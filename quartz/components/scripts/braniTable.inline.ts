@@ -2,6 +2,8 @@
 // table of atomized units (chapters / stories / scenes / sections / excerpts).
 // Powers the #brani-table div on the Brani / Excerpts page.
 
+import { esc } from "./qtable"
+
 interface Excerpt {
   href: string
   title: string
@@ -29,12 +31,6 @@ function loadKw(prefix: string): Promise<Record<string, string>> {
       .then((j) => (kwCache = j as Record<string, string>))
   }
   return kwPromise
-}
-
-function esc(s: unknown): string {
-  return String(s).replace(/[&<>"]/g, (c) =>
-    c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
-  )
 }
 
 const PAGE_SIZES = [25, 50, 100, 250]
