@@ -3,6 +3,18 @@
 // paginated table with a quick filter that searches over the work's title,
 // author AND its abstract/summary text (the internal .md text).
 
+import {
+  esc,
+  slugPrefix,
+  noArticle,
+  loadKw,
+  kwCached,
+  makeModeToggle,
+  makePageSizeSelect,
+} from "./qtable"
+
+const KW_FILE = "works_kw.json"
+
 interface Work {
   href: string
   readHref?: string
@@ -34,23 +46,6 @@ async function load(prefix: string) {
   }
 }
 
-let kwCache: Record<string, string> | null = null
-let kwPromise: Promise<Record<string, string>> | null = null
-function loadKw(prefix: string): Promise<Record<string, string>> {
-  if (kwCache) return Promise.resolve(kwCache)
-  if (!kwPromise) {
-    kwPromise = fetch(prefix + "static/works_kw.json")
-      .then((r) => r.json())
-      .then((j) => (kwCache = j as Record<string, string>))
-  }
-  return kwPromise
-}
-
-function esc(s: unknown): string {
-  return String(s).replace(/[&<>"]/g, (c) =>
-    c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
-  )
-}
 function highlight(text: string, q: string): string {
   const e = esc(text)
   if (!q) return e
@@ -80,29 +75,17 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   }
   setPlaceholder()
 
-  const modeBtn = document.createElement("button")
-  modeBtn.className = "qtable-modebtn"
-  modeBtn.type = "button"
-  const syncModeBtn = () => {
-    modeBtn.textContent = mode === "content" ? "Search: full content" : "Search: title/author/abstract"
-    modeBtn.setAttribute("aria-pressed", String(mode === "content"))
-  }
-  syncModeBtn()
-  modeBtn.addEventListener("click", async () => {
-    mode = mode === "table" ? "content" : "table"
-    syncModeBtn()
-    setPlaceholder()
-    page = 0
-    if (mode === "content" && !kwCache) {
-      modeBtn.textContent = "Loading index..."
-      modeBtn.disabled = true
-      try {
-        await loadKw(prefix)
-      } catch {}
-      modeBtn.disabled = false
-      syncModeBtn()
-    }
-    render()
+  const modeBtn = makeModeToggle({
+    label: () => (mode === "content" ? "Search: full content" : "Search: title/author/abstract"),
+    isContent: () => mode === "content",
+    onToggle: () => {
+      mode = mode === "table" ? "content" : "table"
+      setPlaceholder()
+      page = 0
+    },
+    needKw: () => mode === "content" && !kwCached(KW_FILE),
+    loadKw: () => loadKw(prefix, KW_FILE),
+    rerender: () => render(),
   })
 
   const searchRow = document.createElement("div")
@@ -122,13 +105,12 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     ["summary", "Abstract"],
   ]
 
-  const noArt = (v: unknown) => String(v).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
   function cmp(a: Work, b: Work): number {
-    const av = noArt(a[sortKey])
-    const bv = noArt(b[sortKey])
+    const av = noArticle(a[sortKey])
+    const bv = noArticle(b[sortKey])
     if (av < bv) return -sortDir
     if (av > bv) return sortDir
-    return noArt(a.title) < noArt(b.title) ? -1 : 1
+    return noArticle(a.title) < noArticle(b.title) ? -1 : 1
   }
   function filtered(): Work[] {
     const q = filter.toLowerCase()
@@ -136,7 +118,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       .filter((r) => {
         if (!q) return true
         if (mode === "content") {
-          const kw = kwCache?.[r.href]
+          const kw = kwCached(KW_FILE)?.[r.href]
           return kw ? kw.includes(q) : false
         }
         return (
@@ -190,21 +172,15 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     )
 
     meta.innerHTML = `<span><strong>${all.length}</strong> works</span>`
-    const sel = document.createElement("select")
-    PAGE_SIZES.forEach((s) => {
-      const o = document.createElement("option")
-      o.value = String(s)
-      o.textContent = `${s} / page`
-      if (s === pageSize) o.selected = true
-      sel.appendChild(o)
-    })
-    sel.addEventListener("change", () => {
-      pageSize = Number(sel.value)
-      page = 0
-      render()
-    })
-    meta.appendChild(sel)
+    meta.appendChild(
+      makePageSizeSelect(PAGE_SIZES, pageSize, (n) => {
+        pageSize = n
+        page = 0
+        render()
+      }),
+    )
 
+    // Own pager (cw-page-info styling); the shared renderPager emits lt-page-info.
     pager.innerHTML = ""
     const mk = (label: string, disabled: boolean, fn: () => void) => {
       const b = document.createElement("button")
@@ -213,29 +189,15 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       b.addEventListener("click", fn)
       return b
     }
-    pager.append(
-      mk("« First", page === 0, () => {
-        page = 0
-        render()
-      }),
-      mk("‹ Prev", page === 0, () => {
-        page--
-        render()
-      }),
-    )
     const info = document.createElement("span")
     info.className = "cw-page-info"
     info.textContent = `Page ${page + 1} of ${pages}`
-    pager.appendChild(info)
     pager.append(
-      mk("Next ›", page >= pages - 1, () => {
-        page++
-        render()
-      }),
-      mk("Last »", page >= pages - 1, () => {
-        page = pages - 1
-        render()
-      }),
+      mk("« First", page === 0, () => ((page = 0), render())),
+      mk("‹ Prev", page === 0, () => (page--, render())),
+      info,
+      mk("Next ›", page >= pages - 1, () => (page++, render())),
+      mk("Last »", page >= pages - 1, () => ((page = pages - 1), render())),
     )
   }
 
@@ -254,8 +216,7 @@ async function init() {
   ).filter((el) => !el.dataset.rendered)
   if (!placeholders.length) return
 
-  const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  const prefix = slugPrefix()
   try {
     await load(prefix)
   } catch {

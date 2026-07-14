@@ -2,7 +2,18 @@
 // table of atomized units (chapters / stories / scenes / sections / excerpts).
 // Powers the #brani-table div on the Brani / Excerpts page.
 
-import { esc } from "./qtable"
+import {
+  esc,
+  slugPrefix,
+  noArticle,
+  loadKw,
+  kwCached,
+  makeModeToggle,
+  makePageSizeSelect,
+  renderPager,
+} from "./qtable"
+
+const KW_FILE = "excerpts_kw.json"
 
 interface Excerpt {
   href: string
@@ -19,18 +30,6 @@ async function loadData(prefix: string): Promise<Excerpt[]> {
   if (cache) return cache
   cache = (await (await fetch(prefix + "static/excerpts.json")).json()) as Excerpt[]
   return cache
-}
-
-let kwCache: Record<string, string> | null = null
-let kwPromise: Promise<Record<string, string>> | null = null
-function loadKw(prefix: string): Promise<Record<string, string>> {
-  if (kwCache) return Promise.resolve(kwCache)
-  if (!kwPromise) {
-    kwPromise = fetch(prefix + "static/excerpts_kw.json")
-      .then((r) => r.json())
-      .then((j) => (kwCache = j as Record<string, string>))
-  }
-  return kwPromise
 }
 
 const PAGE_SIZES = [25, 50, 100, 250]
@@ -54,29 +53,17 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
   }
   setPlaceholder()
 
-  const modeBtn = document.createElement("button")
-  modeBtn.className = "qtable-modebtn"
-  modeBtn.type = "button"
-  const syncModeBtn = () => {
-    modeBtn.textContent = mode === "content" ? "Search: full content" : "Search: title/work"
-    modeBtn.setAttribute("aria-pressed", String(mode === "content"))
-  }
-  syncModeBtn()
-  modeBtn.addEventListener("click", async () => {
-    mode = mode === "table" ? "content" : "table"
-    syncModeBtn()
-    setPlaceholder()
-    page = 0
-    if (mode === "content" && !kwCache) {
-      modeBtn.textContent = "Loading index..."
-      modeBtn.disabled = true
-      try {
-        await loadKw(prefix)
-      } catch {}
-      modeBtn.disabled = false
-      syncModeBtn()
-    }
-    render()
+  const modeBtn = makeModeToggle({
+    label: () => (mode === "content" ? "Search: full content" : "Search: title/work"),
+    isContent: () => mode === "content",
+    onToggle: () => {
+      mode = mode === "table" ? "content" : "table"
+      setPlaceholder()
+      page = 0
+    },
+    needKw: () => mode === "content" && !kwCached(KW_FILE),
+    loadKw: () => loadKw(prefix, KW_FILE),
+    rerender: () => render(),
   })
 
   const searchRow = document.createElement("div")
@@ -90,22 +77,16 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
   const pager = document.createElement("div")
   pager.className = "lt-pager"
 
-  const cols: [keyof Excerpt, string, boolean][] = [
-    ["title", "Excerpt", false],
-    ["work", "Work", false],
-    ["author", "Author", false],
-    ["unitType", "Type", false],
+  const cols: [keyof Excerpt, string][] = [
+    ["title", "Excerpt"],
+    ["work", "Work"],
+    ["author", "Author"],
+    ["unitType", "Type"],
   ]
 
-  const noArticle = (s: unknown) =>
-    String(s)
-      .toLowerCase()
-      .replace(/^\s*(the|a|an)\s+/, "")
-      .trim()
-
   function cmp(a: Excerpt, b: Excerpt): number {
-    let av: any = noArticle(a[sortKey])
-    let bv: any = noArticle(b[sortKey])
+    const av = noArticle(a[sortKey])
+    const bv = noArticle(b[sortKey])
     if (av < bv) return -sortDir
     if (av > bv) return sortDir
     // secondary: keep reading order within a work
@@ -119,7 +100,7 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
       .filter((r) => {
         if (!q) return true
         if (mode === "content") {
-          const kw = kwCache?.[r.href]
+          const kw = kwCached(KW_FILE)?.[r.href]
           return kw ? kw.includes(q) : false
         }
         return (
@@ -178,39 +159,18 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
     })
 
     meta.innerHTML = `<span><strong>${all.length.toLocaleString("en")}</strong> excerpts</span>`
-    const sel = document.createElement("select")
-    PAGE_SIZES.forEach((s) => {
-      const o = document.createElement("option")
-      o.value = String(s)
-      o.textContent = `${s} / page`
-      if (s === pageSize) o.selected = true
-      sel.appendChild(o)
-    })
-    sel.addEventListener("change", () => {
-      pageSize = Number(sel.value)
-      page = 0
+    meta.appendChild(
+      makePageSizeSelect(PAGE_SIZES, pageSize, (n) => {
+        pageSize = n
+        page = 0
+        render()
+      }),
+    )
+
+    renderPager(pager, page, pages, (p) => {
+      page = p
       render()
     })
-    meta.appendChild(sel)
-
-    pager.innerHTML = ""
-    const mk = (label: string, disabled: boolean, fn: () => void) => {
-      const b = document.createElement("button")
-      b.textContent = label
-      b.disabled = disabled
-      b.addEventListener("click", fn)
-      return b
-    }
-    const info = document.createElement("span")
-    info.className = "lt-page-info"
-    info.textContent = `Page ${page + 1} of ${pages}`
-    pager.append(
-      mk("« First", page === 0, () => ((page = 0), render())),
-      mk("‹ Prev", page === 0, () => (page--, render())),
-      info,
-      mk("Next ›", page >= pages - 1, () => (page++, render())),
-      mk("Last »", page >= pages - 1, () => ((page = pages - 1), render())),
-    )
   }
 
   search.addEventListener("input", () => {
@@ -227,8 +187,7 @@ async function init() {
   const root = document.getElementById("brani-table")
   if (!root || root.dataset.rendered) return
   root.dataset.rendered = "1"
-  const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  const prefix = slugPrefix()
   let data: Excerpt[]
   try {
     data = await loadData(prefix)

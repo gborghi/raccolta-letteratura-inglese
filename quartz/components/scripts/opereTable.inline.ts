@@ -2,6 +2,19 @@
 // of literary works. Powers the #opere-table div on the Works page, and also any
 // #opere-table[data-author] / [data-cluster] scoped variants.
 
+import {
+  esc,
+  slugPrefix,
+  noArticle,
+  loadKw,
+  kwCached,
+  makeModeToggle,
+  makePageSizeSelect,
+  renderPager,
+} from "./qtable"
+
+const KW_FILE = "works_kw.json"
+
 interface Work {
   href: string
   readHref?: string
@@ -30,24 +43,6 @@ async function loadData(prefix: string): Promise<Work[]> {
   return cache
 }
 
-let kwCache: Record<string, string> | null = null
-let kwPromise: Promise<Record<string, string>> | null = null
-function loadKw(prefix: string): Promise<Record<string, string>> {
-  if (kwCache) return Promise.resolve(kwCache)
-  if (!kwPromise) {
-    kwPromise = fetch(prefix + "static/works_kw.json")
-      .then((r) => r.json())
-      .then((j) => (kwCache = j as Record<string, string>))
-  }
-  return kwPromise
-}
-
-function esc(s: unknown): string {
-  return String(s).replace(/[&<>"]/g, (c) =>
-    c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
-  )
-}
-
 const PAGE_SIZES = [25, 50, 100, 250]
 
 function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
@@ -69,29 +64,17 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   }
   setPlaceholder()
 
-  const modeBtn = document.createElement("button")
-  modeBtn.className = "qtable-modebtn"
-  modeBtn.type = "button"
-  const syncModeBtn = () => {
-    modeBtn.textContent = mode === "content" ? "Search: full content" : "Search: title/author"
-    modeBtn.setAttribute("aria-pressed", String(mode === "content"))
-  }
-  syncModeBtn()
-  modeBtn.addEventListener("click", async () => {
-    mode = mode === "table" ? "content" : "table"
-    syncModeBtn()
-    setPlaceholder()
-    page = 0
-    if (mode === "content" && !kwCache) {
-      modeBtn.textContent = "Loading index..."
-      modeBtn.disabled = true
-      try {
-        await loadKw(prefix)
-      } catch {}
-      modeBtn.disabled = false
-      syncModeBtn()
-    }
-    render()
+  const modeBtn = makeModeToggle({
+    label: () => (mode === "content" ? "Search: full content" : "Search: title/author"),
+    isContent: () => mode === "content",
+    onToggle: () => {
+      mode = mode === "table" ? "content" : "table"
+      setPlaceholder()
+      page = 0
+    },
+    needKw: () => mode === "content" && !kwCached(KW_FILE),
+    loadKw: () => loadKw(prefix, KW_FILE),
+    rerender: () => render(),
   })
 
   const searchRow = document.createElement("div")
@@ -118,12 +101,6 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   ]
   const NUMERIC = new Set(["nconnections", "flesch", "fkgrade", "fog"])
 
-  const noArticle = (s: unknown) =>
-    String(s)
-      .toLowerCase()
-      .replace(/^\s*(the|a|an)\s+/, "")
-      .trim()
-
   function cmp(a: Work, b: Work): number {
     let av: any = a[sortKey]
     let bv: any = b[sortKey]
@@ -149,7 +126,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       .filter((r) => {
         if (!q) return true
         if (mode === "content") {
-          const kw = kwCache?.[r.href]
+          const kw = kwCached(KW_FILE)?.[r.href]
           return kw ? kw.includes(q) : false
         }
         return (
@@ -208,54 +185,18 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     })
 
     meta.innerHTML = `<span><strong>${all.length.toLocaleString("en")}</strong> works</span>`
-    const sel = document.createElement("select")
-    PAGE_SIZES.forEach((s) => {
-      const o = document.createElement("option")
-      o.value = String(s)
-      o.textContent = `${s} / page`
-      if (s === pageSize) o.selected = true
-      sel.appendChild(o)
-    })
-    sel.addEventListener("change", () => {
-      pageSize = Number(sel.value)
-      page = 0
-      render()
-    })
-    meta.appendChild(sel)
+    meta.appendChild(
+      makePageSizeSelect(PAGE_SIZES, pageSize, (n) => {
+        pageSize = n
+        page = 0
+        render()
+      }),
+    )
 
-    pager.innerHTML = ""
-    const first = document.createElement("button")
-    first.textContent = "« First"
-    first.disabled = page === 0
-    first.addEventListener("click", () => {
-      page = 0
+    renderPager(pager, page, pages, (p) => {
+      page = p
       render()
     })
-    const prev = document.createElement("button")
-    prev.textContent = "‹ Prev"
-    prev.disabled = page === 0
-    prev.addEventListener("click", () => {
-      page--
-      render()
-    })
-    const info = document.createElement("span")
-    info.className = "lt-page-info"
-    info.textContent = `Page ${page + 1} of ${pages}`
-    const next = document.createElement("button")
-    next.textContent = "Next ›"
-    next.disabled = page >= pages - 1
-    next.addEventListener("click", () => {
-      page++
-      render()
-    })
-    const last = document.createElement("button")
-    last.textContent = "Last »"
-    last.disabled = page >= pages - 1
-    last.addEventListener("click", () => {
-      page = pages - 1
-      render()
-    })
-    pager.append(first, prev, info, next, last)
   }
 
   search.addEventListener("input", () => {
@@ -273,8 +214,7 @@ async function init() {
   if (!root || root.dataset.rendered) return
   root.dataset.rendered = "1"
 
-  const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  const prefix = slugPrefix()
 
   let data: Work[]
   try {

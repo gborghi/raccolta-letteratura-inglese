@@ -5,6 +5,10 @@
 //   ANY (default): OR within a facet group, AND across groups (faceted search)
 //   ANYTAG: pure OR — a work matches if it carries any selected tag (OR within, OR across).
 
+import { esc, slugPrefix, loadKw, kwCached, makeModeToggle } from "./qtable"
+
+const KW_FILE = "works_kw.json"
+
 interface Work {
   href: string
   readHref?: string
@@ -50,26 +54,9 @@ function getPerPage(): number {
   return PER_PAGE_OPTS.includes(v) ? v : 50
 }
 
-function esc(s: unknown): string {
-  return String(s).replace(/[&<>"]/g, (c) =>
-    c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
-  )
-}
 function pretty(v: string): string {
   const s = v.replace(/_/g, " ")
   return s.charAt(0).toUpperCase() + s.slice(1)
-}
-
-let kwCache: Record<string, string> | null = null
-let kwPromise: Promise<Record<string, string>> | null = null
-function loadKw(prefix: string): Promise<Record<string, string>> {
-  if (kwCache) return Promise.resolve(kwCache)
-  if (!kwPromise) {
-    kwPromise = fetch(prefix + "static/works_kw.json")
-      .then((r) => r.json())
-      .then((j) => (kwCache = j as Record<string, string>))
-  }
-  return kwPromise
 }
 
 async function init() {
@@ -77,8 +64,7 @@ async function init() {
   if (!root || root.dataset.rendered) return
   root.dataset.rendered = "1"
 
-  const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  const prefix = slugPrefix()
   let data: Work[]
   try {
     data = await (await fetch(prefix + "static/index.json")).json()
@@ -194,27 +180,17 @@ async function init() {
     renderResults()
   })
 
-  const modeBtn = document.createElement("button")
-  modeBtn.type = "button"
-  modeBtn.className = "qtable-modebtn"
-  const syncModeBtn = () => {
-    modeBtn.textContent = searchMode === "content" ? "Search: full content" : "Search: title/author"
-    modeBtn.setAttribute("aria-pressed", String(searchMode === "content"))
-  }
-  syncModeBtn()
-  modeBtn.addEventListener("click", async () => {
-    searchMode = searchMode === "table" ? "content" : "table"
-    syncModeBtn()
-    setPlaceholder()
-    page = 1
-    if (searchMode === "content" && !kwCache) {
-      modeBtn.textContent = "Loading index..."
-      modeBtn.disabled = true
-      try { await loadKw(prefix) } catch {}
-      modeBtn.disabled = false
-      syncModeBtn()
-    }
-    renderResults()
+  const modeBtn = makeModeToggle({
+    label: () => (searchMode === "content" ? "Search: full content" : "Search: title/author"),
+    isContent: () => searchMode === "content",
+    onToggle: () => {
+      searchMode = searchMode === "table" ? "content" : "table"
+      setPlaceholder()
+      page = 1
+    },
+    needKw: () => searchMode === "content" && !kwCached(KW_FILE),
+    loadKw: () => loadKw(prefix, KW_FILE),
+    rerender: () => renderResults(),
   })
 
   const searchRow = document.createElement("div")
@@ -329,7 +305,7 @@ async function init() {
       const terms = q.split(/\s+/).filter(Boolean)
       rows = rows.filter((r) => {
         if (searchMode === "content") {
-          const kw = kwCache?.[r.href]
+          const kw = kwCached(KW_FILE)?.[r.href]
           if (!kw) return false
           // token-AND: every query word must appear in the work's keyword text
           // (works_kw.json is a deduped word bag, so a whole-string match fails).
