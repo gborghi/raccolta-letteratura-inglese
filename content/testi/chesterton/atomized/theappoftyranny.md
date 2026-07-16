@@ -3957,6 +3957,342 @@ explanations, of the modern European evil: the finding of the fountain from
 which [[Poison|poison]] has flowed upon all the nations of the earth.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO
+
+I FATTI DEL CASO
+
+I   LA GUERRA ALLA PAROLA
+
+II  IL RIFIUTO DELLA RECIPROCITÀ
+
+III L'APPETITO DELLA TIRANNIA
+
+IV  LA FUGA DELLA FOLLIA
+
+LETTERE A UN VECCHIO GARIBALDINO
+
+I FATTI DEL CASO
+
+A meno che non siamo tutti pazzi, dietro l'affare più sconcertante
+
+vi è sempre una storia: e se siamo tutti pazzi, allora non esiste affatto cosa alcuna come la [[Madness|pazzia]].
+
+Se a una [[house|casa]] appicco il [[Fire|fuoco]], è ben vero che posso illuminare molte altrui
+
+debolezze [[Well|così]] come le mie proprie. Può darsi che il padrone della
+
+[[house|casa]] sia bruciato perché era ubriaco; può darsi che la padrona della
+
+[[house|casa]] sia bruciata perché era spilorcia, e sia perita disputando circa la
+
+spesa della scala anti[[Fire|incendio]]. È, nondimeno, in gran parte vero che
+
+entrambi bruciarono perché io diedi [[Fire|fuoco]] alla loro [[house|casa]]. Questa è la storia
+
+della cosa. I meri fatti della storia intorno all'attuale
+
+conflagrazione europea sono altrettanto facili da raccontare.
+
+Prima di procedere alle cose più profonde che fanno di questa guerra la più sincera
+
+guerra della [[history|storia]] umana, è facile rispondere alla domanda del perché l'Inghilterra vi si sia
+
+trovata coinvolta, come ci si chiede come un uomo sia caduto in una carbonaia, o abbia mancato
+
+un appuntamento. I fatti non sono l'intera [[Truth|verità]]. Ma i fatti sono fatti,
+
+e in questo caso i fatti sono pochi e semplici. La Prussia, la Francia e
+
+l'Inghilterra avevano tutte promesso di non invadere il Belgio. La Prussia si propose d'invadere
+
+il Belgio, perché era il modo più sicuro d'invadere la Francia. Ma la Prussia
+
+promise che, se le fosse concesso d'irrompere, attraverso la propria promessa infranta e la
+
+nostra, sarebbe irrotta senza rubare. In altre parole, ci fu offerta nel
+
+medesimo istante una promessa di [[Faith|fede]] per il futuro e una proposta di spergiuro
+
+nel presente. Chi s'interessa all'origine umana può riferirsi a un vecchio
+
+scrittore vittoriano di lingua inglese, il quale, nell'ultimo e più contenuto dei suoi
+
+saggi storici, scrisse di Federico il Grande, il fondatore di questa
+
+immutabile politica prussiana. Dopo aver descritto come Federico ruppe la
+
+garanzia che aveva firmato in favore di [[Maria]] Teresa, egli descrive poi come
+
+Federico cercò di rimettere le cose a posto con una promessa che era un insulto.
+
+«Se ella solo gli avesse ceduto la Slesia, egli, disse, l'avrebbe sostenuta
+
+contro qualsiasi potenza che tentasse di privarla degli altri suoi domini,
+
+come se non fosse già tenuto a sostenerla, o come se la sua nuova promessa
+
+potesse valere più della vecchia». Quel passo fu scritto da
+
+Macaulay, ma per quanto concerne i meri fatti contemporanei, avrebbe
+
+potuto scriverlo io.
+
+Sull'immediata origine logica e legale dell'interesse inglese non vi
+
+può essere alcun [[debate|dibattito]] razionale. Vi sono cose tanto semplici che si
+
+possono quasi dimostrare con piante e diagrammi, come in Euclide. Si potrebbe fare una
+
+sorta di calendario comico di ciò che sarebbe accaduto al
+
+diplomatico inglese se fosse stato messo a tacere ogni [[Time|volta]] dalla diplomazia prussiana.
+
+Supponiamo di disporlo nella forma di una sorta di diario.
+
+24 luglio. La [[Germany|Germania]] invade il Belgio.
+
+25 luglio. L'Inghilterra dichiara guerra.
+
+26 luglio. La [[Germany|Germania]] promette di non annettere il Belgio.
+
+27 luglio. L'Inghilterra si ritira dalla guerra.
+
+28 luglio. La [[Germany|Germania]] annette il Belgio. L'Inghilterra dichiara guerra.
+
+29 luglio. La [[Germany|Germania]] promette di non annettere la Francia. L'Inghilterra si ritira dalla
+
+guerra.
+
+30 luglio. La [[Germany|Germania]] annette la Francia. L'Inghilterra dichiara guerra.
+
+31 luglio. La [[Germany|Germania]] promette di non annettere l'Inghilterra.
+
+1 agosto. L'Inghilterra si ritira dalla guerra. La [[Germany|Germania]] invade l'Inghilterra...
+
+Fino a quando ci si aspetta che qualcuno stia a quella sorta di gioco, o mantenga la pace a
+
+quel prezzo illimitato? Fino a quando dovremo battere una [[Road|strada]] in cui le promesse
+
+sono tutte feticci dinanzi a noi e tutte frammenti dietro di noi? No: sui
+
+freddi fatti delle trattative finali, come riferiti da uno qualunque dei diplomatici in
+
+uno qualunque dei documenti, non v'è alcun [[Doubt|dubbio]] sulla storia. E nessun [[Doubt|dubbio]] sul
+
+[[Villain|malvagio]] della storia.
+
+Questi sono gli ultimi fatti — i fatti che coinvolsero l'Inghilterra. È altrettanto
+
+facile enunciare i primi fatti — i fatti che coinvolsero l'Europa. Il Principe
+
+che praticamente governava l'Austria fu ucciso a colpi d'arma da fuoco da certe persone che il
+
+[[government|Governo]] austriaco riteneva cospiratori venuti dalla Servia. Il [[government|Governo]] austriaco
+
+ammassò armi ed eserciti, ma non disse parola né alla Servia sua
+
+sospetta né all'[[Italy|Italia]] sua alleata. Dai documenti parrebbe che l'Austria
+
+tenesse tutti all'oscuro, tranne la Prussia. È probabilmente più vicino al [[Truth|vero]]
+
+dire che la Prussia tenne tutti all'oscuro, compresa l'Austria. Ma tutto
+
+ciò è quel che si chiama opinione, credenza, convinzione o buon senso, e
+
+non ce ne occupiamo qui. Il fatto obiettivo è che l'Austria intimò
+
+alla Servia di permettere che ufficiali servi fossero sospesi dall'autorità di
+
+ufficiali austriaci, e intimò alla Servia di sottomettersi a ciò entro quarantotto
+
+ore. In altre parole, al sovrano di Servia fu praticamente ingiunto di deporre
+
+non solo gli allori di due grandi campagne, ma la propria legittima e
+
+nazionale [[Crown|corona]], e di farlo in un [[Time|tempo]] in cui nessun cittadino rispettabile è
+
+tenuto a saldare un conto d'albergo. La Servia chiese [[Time|tempo]], chiese
+
+arbitrato — in breve, pace. Ma la Prussia aveva già cominciato a
+
+mobilitarsi; e la Prussia, presumendo che la Servia potesse così essere salvata,
+
+dichiarò guerra.
+
+Tra questi due estremi di fatto, l'ultimatum alla Servia, l'ultimatum al
+
+Belgio, chiunque sia così incline può naturalmente parlare come se tutto fosse
+
+relativo. Se qualcuno chiede perché lo Zar dovesse precipitarsi in soccorso della Servia,
+
+è altrettanto facile chiedere perché il Kaiser dovesse precipitarsi in soccorso dell'Austria.
+
+Se qualcuno dice che i Francesi avrebbero attaccato i Tedeschi, è sufficiente
+
+rispondere che i Tedeschi attaccarono davvero i Francesi. Restano, tuttavia,
+
+due atteggiamenti da considerare, forse anche due argomenti da confutare, che si possono
+
+meglio considerare e confutare sotto questa generale rubrica dei fatti. Prima di
+
+tutto, v'è una curiosa, nebulosa specie di argomento, assai prediletta dai
+
+retori professionali di Prussia, che vengono inviati a istruire e
+
+correggere le menti degli Americani o degli Scandinavi. Consiste nell'andare in
+
+convulsioni d'[[Incredulity|incredulità]] e di scherno al solo accennare alla
+
+responsabilità della [[Russia]] verso la Servia o dell'Inghilterra verso il Belgio; e
+
+insinuando che, trattato o non trattato, frontiera o non frontiera, la [[Russia]]
+
+sarebbe uscita a trucidare Teutoni o l'Inghilterra a rubare colonie. Qui, come altrove,
+
+penso che i professori disseminati per tutta la pianura baltica difettino di lucidità, e
+
+della facoltà di distinguere le idee. Certo è ben vero che
+
+l'Inghilterra ha interessi materiali da difendere, e probabilmente coglierà l'
+
+occasione per difenderli: ovvero, in altre parole, certo l'Inghilterra, come
+
+chiunque altro, starebbe più comoda se la Prussia fosse meno predominante.
+
+Il fatto rimane che noi non facemmo ciò che fecero i Tedeschi. Non
+
+invademmo l'Olanda per afferrare un vantaggio navale e commerciale: e sia che
+
+dicano che volevamo farlo per la nostra [[Greed|avidità]], sia che temessimo di farlo per la nostra
+
+codardia, il fatto rimane che non lo facemmo. A meno che questo principio di buon senso
+
+non sia tenuto presente, non concepisco come una qualsiasi contesa possa mai
+
+essere giudicata. Un contratto può essere stipulato tra due persone unicamente per vantaggio
+
+materiale d'ambo le parti: ma il vantaggio morale si suppone tuttora generalmente
+
+stare dalla parte di chi tiene fede al contratto. Certo non può essere
+
+disonesto essere onesti — anche se l'onestà è la miglior politica. Immaginate il
+
+più complesso labirinto di moventi indiretti; e pur sempre l'uomo che tiene [[Faith|fede]]
+
+per denaro non può in alcun modo essere peggiore dell'uomo che rompe la [[Faith|fede]] per denaro.
+
+Si noterà che questa prova ultima si applica nello stesso modo alla Servia
+
+come al Belgio e alla Britannia. I Servi possono non essere un popolo assai pacifico;
+
+ma, nell'occasione in discussione, furono certamente essi a volere la
+
+pace. Potete scegliere di ritenere il Serbo una sorta di ladro nato: ma in questa
+
+occasione fu certamente l'Austriaco a tentare di rubare. Similmente,
+
+potete chiamare l'Inghilterra perfida come una sorta di sommario storico; e
+
+dichiarare la vostra privata credenza che il signor Asquith fosse votato fin dall'infanzia alla
+
+rovina dell'Impero Germanico, un Annibale e odiatore delle aquile. Ma, quando
+
+tutto è detto, è un'assurdità chiamare perfido un uomo perché tiene la sua
+
+promessa. È assurdo lagnarsi dell'improvviso tradimento di un uomo d'affari
+
+che si presenta puntuale al suo appuntamento: o dell'ingiusto sgomento inflitto a un
+
+creditore dal debitore che paga i suoi debiti.
+
+Infine, v'è un atteggiamento non ignoto nella crisi contro il quale
+
+vorrei particolarmente protestare. Rivolgerei la mia protesta specialmente
+
+a quegli [[lovers|amanti]] e inseguitori della Pace che, assai miopemente, l'hanno
+
+talvolta adottato. Intendo l'atteggiamento che è insofferente di questi
+
+particolari preliminari su chi fece questo o quello, e se fosse giusto o
+
+sbagliato. Si accontentano di dire che un'enorme calamità, chiamata
+
+Guerra, è stata iniziata da alcuni o da tutti noi; e dovrebbe essere conclusa da alcuni o da
+
+tutti noi. A costoro questo capitolo preliminare sui precisi
+
+accadimenti deve apparire non solo arido (e deve necessariamente essere la parte più arida
+
+del compito) ma essenzialmente inutile e sterile. Desidero dire a costoro
+
+che hanno torto; che hanno torto secondo tutti i princìpi della
+
+giustizia umana e della continuità storica: ma che hanno specialmente e
+
+supremamente torto secondo i loro stessi princìpi d'arbitrato e di pace
+
+internazionale.
+
+Questi sinceri e nobili [[lovers|amanti]] della pace ci vanno sempre dicendo che
+
+i cittadini non compongono più le loro contese con la violenza privata; e che le
+
+nazioni non dovrebbero più comporre le proprie con la violenza pubblica. Ci vanno sempre
+
+dicendo che non ci battiamo più a duello; e non abbiamo più bisogno di far guerre. In
+
+breve, fondano perpetuamente le loro proposte di pace sul fatto che un
+
+comune cittadino non si vendica più con la scure. Ma come gli è
+
+impedito di vendicarsi con la scure? Se colpisce il suo vicino alla
+
+testa con la mannaia da cucina, che facciamo? Ci prendiamo tutti per mano,
+
+come bambini che giocano al Cespuglio di More, e diciamo «Siamo tutti responsabili di
+
+questo; ma [[Hope|speriamo]] che non si diffonda. [[Hope|Speriamo]] nel giorno felice
+
+in cui egli smetterà di menar colpi sulla testa dell'uomo; e in cui nessuno
+
+mai più menerà colpi su alcunché nei secoli dei secoli». Diciamo forse «Il passato sia passato;
+
+perché tornare a tutti i tediosi particolari con cui la faccenda cominciò; chi può
+
+dire con quali sinistri moventi l'uomo se ne stesse là a portata
+
+dell'accetta?». No, non lo diciamo. Manteniamo la pace nella vita privata chiedendo
+
+i fatti della provocazione, e il giusto oggetto della punizione. Entriamo davvero
+
+nei tediosi particolari; indaghiamo davvero sulle origini; ci informiamo con enfasi
+
+su chi fu a colpire per primo. In breve facciamo ciò che io ho fatto assai
+
+brevemente in questo luogo.
+
+Ammesso questo, è invero vero che dietro questi fatti vi sono verità;
+
+verità d'una specie terribile, spirituale. In puro fatto, la potenza germanica
+
+ha avuto torto sulla Servia, torto sulla [[Russia]], torto sul Belgio, torto
+
+sull'Inghilterra, torto sull'[[Italy|Italia]]. Ma vi era una ragione del suo aver
+
+torto ovunque; e di quella ragione radicale, che ha mosso metà del mondo
+
+contro di essa, parlerò più avanti. Poiché è cosa troppo onnipresente per
+
+essere provata, troppo indiscutibile per essere avvalorata dal dettaglio. Non è nulla di meno che
+
+l'individuazione, dopo più di cent'anni di recriminazioni e di errate
+
+spiegazioni, del male europeo moderno: il ritrovamento della fonte da cui
+
+il [[Poison|veleno]] è dilagato su tutte le nazioni della terra.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="TheAppOfTyranny — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
@@ -4128,6 +4464,174 @@ You could not have even Huns without horses; or horses without
 
 horsemanship. You could not have even Danish pirates without ships, or
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+LA GUERRA ALLA PAROLA
+
+Difficilmente si negherà che v'è un persistente [[Doubt|dubbio]] in molti, i quali
+
+riconoscono un'inevitabile [[Self|auto]]difesa nell'istantanea parata della
+
+[[Sword|spada]] inglese, e che non nutrono grande [[Love|amore]] per la sciabola travolgente di Sadowa e
+
+di Sedan. Quel [[Doubt|dubbio]] è il [[Doubt|dubbio]] se la [[Russia]], paragonata alla Prussia, sia
+
+sufficientemente dignitosa e democratica da essere l'alleata di potenze liberali e
+
+civili. Prendo dunque per primo questo tema della civiltà.
+
+È vitale, in una discussione come questa, assicurarci di
+
+procedere per significati e non per mere parole. Non è necessario in alcun
+
+argomento stabilire ciò che una parola significa o dovrebbe significare. Ma è necessario
+
+in ogni argomento stabilire ciò che ci proponiamo d'intendere con la parola. Finché
+
+il nostro avversario comprende qual è la _cosa_ di cui parliamo,
+
+non importa all'argomento se la parola sia o non sia quella che egli
+
+avrebbe scelto. Un soldato non dice «Ci fu ordinato di andare a
+
+Mechlin; ma preferirei andare a Malines». Egli può discutere l'etimologia
+
+e l'archeologia della differenza durante la marcia; ma il punto è che egli
+
+sa dove andare. Finché sappiamo ciò che una data parola deve significare in una
+
+data discussione, non importa nemmeno se significhi qualcos'altro in
+
+qualche altra e affatto distinta discussione. Abbiamo pieno diritto di dire
+
+che la larghezza d'una [[Window|finestra]] ammonta a quattro piedi; anche se all'istante e
+
+allegramente mutiamo argomento passando ai mammiferi più grossi; e diciamo che un
+
+elefante ha quattro piedi. L'[[Identity|identità]] delle parole non importa, perché
+
+non v'è alcun [[Doubt|dubbio]] sui significati; perché nessuno è portato a
+
+pensare a un elefante lungo quattro piedi, o a una [[Window|finestra]] provvista di zanne e di
+
+una proboscide ricurva.
+
+È essenziale sottolineare questa consapevolezza della _cosa_ in
+
+discussione in relazione a due o tre parole che sono, per così dire, le
+
+parole chiave di questa guerra. Una di esse è la parola «barbaro». I Prussiani
+
+l'applicano ai Russi: i Russi l'applicano ai Prussiani. Entrambi,
+
+credo, intendono davvero qualcosa che davvero esiste, nome o non nome. Entrambi intendono
+
+cose diverse. E se chiediamo quali siano queste cose diverse,
+
+comprenderemo perché l'Inghilterra e la Francia preferiscono la [[Russia]]; e considerano la Prussia il
+
+barbaro veramente pericoloso dei due. Anzitutto, esso va assai
+
+più a fondo perfino delle atrocità; delle quali, nel passato almeno, tutti e tre gli
+
+Imperi dell'Europa Centrale hanno partecipato in misura pressoché eguale, come parteciparono alla
+
+Polonia. Uno scrittore inglese, cercando di scongiurare la guerra con moniti contro
+
+l'influenza russa, disse che le schiene flagellate delle donne polacche si ergevano
+
+tra noi e l'Alleanza. Ma non molto prima, la flagellazione di donne da parte di
+
+un generale austriaco portò a che quell'ufficiale fosse bastonato per le strade di
+
+[[London|Londra]] dai carrettieri di Barclay e Perkins. E quanto alla terza potenza, i
+
+Prussiani, pare chiaro che abbiano trattato le donne belghe in uno stile
+
+al cui confronto la flagellazione potrebbe dirsi una formalità ufficiale. Ma,
+
+come dico, qualcosa di assai più profondo di ogni simile recriminazione sta dietro l'
+
+uso della parola dall'una e dall'altra parte. Quando l'Imperatore tedesco si lagna del nostro
+
+allearci con una potenza barbarica e semi-orientale, egli non sta (vi
+
+assicuro) versando [[Tears|lacrime]] sulla [[Grave|tomba]] di Kosciusko. E quando dico (come
+
+faccio con tutto il cuore) che l'Imperatore tedesco è un barbaro, non sto meramente
+
+esprimendo eventuali pregiudizi che io possa avere contro la profanazione di chiese o
+
+di bambini. I miei connazionali ed io intendiamo una cosa precisa e intelligibile quando
+
+chiamiamo barbari i Prussiani. È del tutto diversa dalla cosa
+
+attribuita ai Russi; e non potrebbe in alcun modo essere attribuita ai
+
+Russi. È assai importante che il mondo neutrale comprenda
+
+che cosa sia questa cosa.
+
+Se il Tedesco chiama barbaro il Russo, presumibilmente intende imperfettamente
+
+civilizzato. V'è un certo cammino lungo il quale le nazioni occidentali hanno
+
+proceduto nei tempi recenti; ed è sostenibile che la [[Russia]] non sia proceduta
+
+tanto oltre quanto le altre: che ha meno dello speciale sistema moderno in
+
+scienza, commercio, macchinari, viaggi o costituzione politica. Il Russo
+
+ara con un vecchio aratro; porta una barba selvaggia; adora le reliquie; la sua
+
+vita è rozza e dura quanto quella di un suddito di Alfredo il Grande.
+
+Perciò egli è, nel senso tedesco, un barbaro. Poveri diavoli come Gorky
+
+e Dostoevskij devono formarsi da sé le proprie riflessioni sul paesaggio, senza
+
+l'ausilio di ampie citazioni di Schiller sulle panchine da [[Garden|giardino]]; o di
+
+iscrizioni che li invitino a sostare e a ringraziare il Padre di Tutti per la
+
+più bella veduta dell'Assia-Pumpernickel. I Russi, non avendo nulla se non la loro
+
+[[Faith|fede]], i loro campi, il loro grande [[Courage|coraggio]], e le loro comuni [[Self|auto]]governate,
+
+sono del tutto tagliati fuori da ciò che si chiama (nella via alla moda
+
+di Francoforte) Il Vero, Il Bello e Il Buono. V'è un senso reale
+
+in cui si può chiamare barbarica tale arretratezza; in confronto alla
+
+Kaiserstrasse; e in tal senso è vero della [[Russia]].
+
+Ora noi, i Francesi e gli Inglesi, non intendiamo questo quando chiamiamo barbari i
+
+Prussiani. Se le loro città s'ergessero più alte delle loro navi volanti, se
+
+i loro treni viaggiassero più veloci delle loro pallottole, li chiameremmo pur sempre
+
+barbari. Sapremmo esattamente ciò che con questo intendiamo; e sapremmo
+
+che è vero. Poiché non intendiamo qualcosa che sia una civiltà imperfetta
+
+per accidente. Intendiamo qualcosa che è il nemico della
+
+civiltà per disegno. Intendiamo qualcosa che è deliberatamente in guerra coi
+
+princìpi per cui la società umana è stata resa possibile finora.
+
+Certo esso dev'essere in parte civile perfino per distruggere la civiltà. Tale rovina
+
+non potrebbe essere operata dai selvaggi che sono meramente non sviluppati o inerti.
+
+Non si potrebbero avere nemmeno gli Unni senza cavalli; o cavalli senza
+
+arte equestre. Non si potrebbero avere nemmeno i pirati danesi senza navi, o
 
 
 
@@ -4522,6 +5026,170 @@ among the German students. I do not see why a young Prussian should not
 
 have scars all over his face if he likes them; nay, they are often the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+IL RIFIUTO DELLA RECIPROCITÀ
+
+Nel sommario precedente ho suggerito che la Barbarie, come noi la intendiamo, non è mera
+
+ignoranza né mera crudeltà. Ha un senso più preciso, e significa
+
+ostilità militante verso certe idee umane necessarie. Ho preso il caso del
+
+voto o del contratto, che l'intellettualismo prussiano distruggerebbe. Ho sostenuto
+
+che il Prussiano è un Barbaro spirituale, perché non è vincolato dal proprio
+
+passato, non più di un uomo in [[A Dream|un sogno]]. Egli confessa che quando promise di
+
+rispettare una frontiera il lunedì, non prevedeva quella che chiama «la
+
+necessità» di non rispettarla il martedì. In breve, egli è come un [[Child|bambino]],
+
+che al termine di tutte le ragionevoli spiegazioni e dei richiami ad accordi ammessi
+
+non ha altra risposta che «Ma io lo _voglio_».
+
+V'è un'altra idea negli accordi umani tanto fondamentale da essere
+
+dimenticata; ma ora per la prima [[Time|volta]] negata. La si può chiamare l'idea della
+
+reciprocità; o, in miglior inglese, del dare e avere. Il Prussiano pare
+
+essere del tutto intellettualmente incapace di questo pensiero. Non può, credo,
+
+concepire l'idea che è il fondamento d'ogni [[Comedy|commedia]]; che, agli occhi
+
+dell'altro uomo, egli è soltanto l'altro uomo. E se seguiamo questo filo
+
+attraverso le istituzioni della [[Germany|Germania]] prussianizzata, scopriremo quanto
+
+curiosamente la sua mente sia stata limitata nella cosa. Il Tedesco differisce dagli
+
+altri patrioti nell'incapacità di comprendere il patriottismo. Altri popoli
+
+europei compiangono i Polacchi o i Gallesi per i loro confini violati; ma i Tedeschi
+
+compiangono solo se stessi. Potrebbero impadronirsi con la forza del Severn o
+
+del Danubio, del Tamigi o del Tevere, del Garry o della Garonna — e
+
+canterebbero pur sempre mestamente di quanto salda e fedele stia la guardia
+
+sul Reno; e che vergogna sarebbe se qualcuno togliesse loro il proprio piccolo
+
+[[River|fiume]]. Questo è ciò che intendo per mancanza di reciprocità: e lo
+
+troverete in tutto ciò che fanno: come in tutto ciò che è fatto dai selvaggi.
+
+Qui, di nuovo, è assai necessario evitare di confondere quest'[[Soul|anima]] del
+
+selvaggio con la mera ferocia nel senso di brutalità o di carneficina; in cui
+
+i Greci, i Francesi e tutte le nazioni più civili hanno indulto in
+
+ore d'anomalo panico o di [[Revenge|vendetta]]. Le accuse di crudeltà sono generalmente
+
+reciproche. Ma il punto riguardo al Prussiano è che con lui nulla è
+
+reciproco. La definizione del vero selvaggio non si cura nemmeno di
+
+quanto più egli ferisca gli stranieri o i prigionieri rispetto alle altre tribù di
+
+uomini. La definizione del vero selvaggio è che ride quando ti ferisce;
+
+e urla quando tu ferisci lui. Questa straordinaria disuguaglianza nella mente è
+
+in ogni atto e parola che viene da Berlino. Per esempio, nessun uomo di
+
+mondo crede a tutto ciò che vede nei giornali; e nessun giornalista ne crede un
+
+quarto. Dovremmo, perciò, essere ben disposti nel modo consueto a
+
+togliere assai ai racconti delle atrocità tedesche; a [[Doubt|dubitare]] di questa storia
+
+o a negare quella. Ma v'è una cosa che non possiamo [[Doubt|mettere in dubbio]] o negare: il sigillo
+
+e l'autorità dell'Imperatore. Nel proclama imperiale il fatto che
+
+certe cose «spaventose» siano state compiute è ammesso; e giustificato in
+
+base alla loro spaventosità stessa. Era una necessità militare terrorizzare le
+
+popolazioni pacifiche con qualcosa che non era civile, qualcosa che
+
+era a stento umano. [[Well|Benissimo]]. È una politica intelligibile: e in tal
+
+senso un argomento intelligibile. Un esercito posto in pericolo da stranieri può fare le
+
+cose più spaventose. Ma poi voltiamo la pagina seguente del pubblico diario
+
+del Kaiser, e lo troviamo scrivere al Presidente degli Stati
+
+Uniti, per lagnarsi che gli Inglesi usano pallottole dum-dum e
+
+violano vari regolamenti della Conferenza dell'Aia. Tralascio per il
+
+momento la questione se vi sia una parola di [[Truth|verità]] in queste accuse.
+
+Mi contento di contemplare estatico gli occhi ammiccanti del Vero, o
+
+Positivo, Barbaro. Suppongo che sarebbe assai perplesso se dicessimo che
+
+violare la Conferenza dell'Aia era per noi «una necessità militare»; o che
+
+le regole della Conferenza erano solo un pezzo di carta. Sarebbe assai
+
+addolorato se dicessimo che le pallottole dum-dum, «per la loro stessa spaventosità»,
+
+sarebbero assai utili a tenere in ordine i Tedeschi conquistati. Faccia quel che vuole,
+
+egli non può uscire dall'idea che lui, perché è lui e non te, sia
+
+libero d'infrangere la legge; e anche d'appellarsi alla legge. Si dice che gli
+
+ufficiali prussiani giochino a un gioco chiamato Kriegsspiel, ovvero il Gioco della Guerra. Ma
+
+in [[Truth|verità]] non potrebbero giocare ad alcun gioco; poiché l'essenza d'ogni gioco è
+
+che le regole sono le stesse da entrambe le parti.
+
+Ma prendendo a una a una ogni istituzione tedesca, il caso è il medesimo; e non
+
+è un caso di mero spargimento di sangue o di spavalderia militare. Il duello, per
+
+esempio, può legittimamente essere chiamato cosa barbarica; ma la parola è qui
+
+usata in altro senso. Vi sono duelli in [[Germany|Germania]]; ma così ve ne sono in
+
+Francia, [[Italy|Italia]], Belgio e Spagna; anzi, vi sono duelli ovunque vi siano
+
+dentisti, giornali, bagni turchi, orari [[Time|ferroviari]], e tutte le maledizioni della
+
+civiltà; tranne in Inghilterra e in un angolo d'[[america|America]]. Può darsi che vi accada di
+
+considerare il duello come una reliquia storica degli Stati più barbarici sui quali
+
+questi Stati moderni furono edificati. Si potrebbe [[Well|altrettanto]] bene sostenere che
+
+il duello è ovunque il segno d'alta civiltà; essendo il segno del suo
+
+più delicato senso dell'[[Honour|onore]], della sua più vulnerabile [[Vanity|vanità]], o del suo maggior
+
+timore del discredito sociale. Ma qualunque delle due vedute adottiate,
+
+dovete concedere che l'essenza del duello è un'uguaglianza armata. Non
+
+applicherei, perciò, la parola barbarico, nel senso in cui la uso, ai duelli degli
+
+ufficiali tedeschi, né perfino ai combattimenti allo spadone che sono convenzionali
+
+tra gli studenti tedeschi. Non vedo perché un giovane Prussiano non debba
+
+avere cicatrici per tutto il volto se gli piacciono; anzi, spesso esse sono la
 
 
 
@@ -5895,6 +6563,166 @@ as shortly as it can be put, what we are fighting about. We are fighting to
 prevent a German future for Europe. We think it would be narrower, nastier,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+È [[Time|tempo]] assai lungo dacché ci incontrammo; e [[Fear|temo]] che queste lettere possano non giungerti
+
+mai. Ma in questi tempi violenti ricordo con curiosa vividezza come tu
+
+brandissi un pennello attorno al tuo cavalletto quand'ero ragazzo; e come mi
+
+esaltasse pensare che avevi così brandito una baionetta contro i
+
+Teutoni — [[Hope|spero]] con la stessa precisione e coi medesimi felici risultati. Intorno a
+
+quel tempo, i pigmenti stessi parevano avere una sorta di pittoresco
+
+legame con la tua storia nazionale. Pareva esservi qualcosa di splendido
+
+e terribile nel Rosso Veneziano; e qualcosa di addirittura catastrofico nella
+
+Terra di Siena bruciata. Ma in un modo o nell'altro, quando ieri vidi per strada i
+
+colori della tua [[Flag|bandiera]], mi rammentarono i colori della tua tavolozza.
+
+Non devi [[Fear|temere]] ch'io tenti d'irretire te o i tuoi connazionali nelle
+
+questioni che spetta ai soli [[Alone|Italiani]] decidere. Tu conosci i pericoli
+
+dell'una e dell'altra via assai meglio di me. L'[[Italy|Italia]], assai certamente, non ha bisogno
+
+di provare il suo [[Courage|coraggio]]. Ha rischiato, restando in disparte, tutto ciò che
+
+avrebbe potuto rischiare entrando in guerra. I proclami e la stampa della [[Germany|Germania]] rendono
+
+palese che i Tedeschi sono saliti a un'altezza di sensibilità a stento
+
+distinguibile dalla [[Madness|follia]]. Ammesso l'[[nightmare|incubo]] d'una vittoria prussiana,
+
+essi si [[Revenge|vendicheranno]] su cose più remote della Triplice
+
+Alleanza. V'era una promessa di pace tra loro e il Belgio; non ve n'era
+
+alcuna tra loro e l'Inghilterra. La promessa al Belgio la ruppero. La
+
+promessa dell'Inghilterra la inventarono. È chiamata il Trattato del Teutonismo. Nessuno
+
+ne udì mai parlare in questo paese; ma pare [[Well|assai]] noto negli ambienti accademici
+
+della [[Germany|Germania]]. Pare essere qualcosa di connesso col colore dei
+
+capelli. Ma ripeto che non mi preme interferire con la tua
+
+decisione, se non nella misura in cui possa fornirle qualche materiale
+
+descrivendo la nostra.
+
+Poiché penso che il primo, forse il solo, lavoro fruttuoso che un Inglese possa fare
+
+ora per la formazione dell'opinione straniera sia parlare di ciò che egli realmente
+
+comprende, la condizione dell'opinione britannica. È tanto semplice quanto
+
+solida. Per la prima [[Time|volta]], forse, ciò che chiamiamo il Regno Unito
+
+merita interamente il suo nome. Non vi è stata unanimità simile
+
+entro il ricordo di un Inglese. Gli Irlandesi e perfino i Gallesi erano
+
+in gran parte filo-boeri, e così erano alcuni dei più inglesi tra gli Inglesi. Nessuno
+
+avrebbe potuto essere più inglese di Fox, eppure egli denunciò la guerra contro
+
+Napoleone. Nessuno poteva essere più inglese di Cobden, ma egli denunciò la
+
+guerra di Crimea. È davvero straordinario trovare un'Inghilterra unita.
+
+Anzi, fino a poco fa, era straordinario trovare un Inglese unito in se stesso.
+
+Quelli di noi che, come chi scrive, ripudiarono la guerra sudafricana
+
+fin dai suoi inizi, avevano tuttavia il cuore diviso nella cosa, e sentivano
+
+certi suoi aspetti tanto gloriosi [[Well|quanto]] infami. Il primo fatto che posso
+
+offrirti è l'incontestabile fatto che tutti questi dubbi e queste divisioni
+
+sono cessati. Né sono cessati per alcun compromesso; ma per un universale
+
+lampo di [[Faith|fede]] — o, se vuoi, di sospetto. Né i nostri conflitti interni
+
+furono abbandonati alla leggera; né le nostre riconciliazioni furono cosa facile. Io sono,
+
+come te, un democratico e un cittadino d'Europa; e i miei amici ed io eravamo
+
+giunti a detestare la plutocrazia e il privilegio che sedevano negli alti seggi
+
+del nostro paese con un ribrezzo che credevamo nessun [[Love|amore]] potesse scacciare. Di
+
+questi uomini ricchi non parlerò qui; col tuo permesso, non
+
+penserò a loro. La guerra è cosa terribile in ogni caso; e per certi
+
+temperamenti intellettuali questa ne è la parte più terribile. Che la guerra
+
+prenda i giovani; che la guerra separi gli [[lovers|amanti]]; che per tutta Europa spose
+
+e sposi si separino alla porta della chiesa: tutto ciò è soltanto un
+
+luogo comune per gente comune. Rinunciare al proprio [[Love|amore]] per il proprio paese
+
+è cosa assai grande. Ma rinunciare al proprio odio per il proprio paese, questo può anche
+
+avere in sé qualcosa di [[Pride|orgoglio]] e qualcosa di [[Purification|purificazione]].
+
+Che cos'è che ha indotto i popoli britannici a differire così non solo la loro
+
+artificiale parata di politica di partito, ma le loro reali rimostranze sociali e
+
+morali e le loro rivendicazioni? Che cos'è che ci ha uniti tutti contro il
+
+Prussiano, come contro un cane rabbioso? È la presenza di un certo spirito, tanto
+
+inconfondibile quanto un odore pungente, che sentiamo capace d'inaridire tutte
+
+le cose buone di questo mondo. Lo scasso del Belgio, la corruzione per
+
+tradire la Francia, questi non sono pretesti; sono fatti. Ma sono soltanto
+
+i fatti per cui giungemmo a conoscere la presenza dello spirito. Essi non
+
+bastano a definire l'intero spirito medesimo. Un buon sommario approssimativo è
+
+dire che è lo spirito della barbarie; ma invero è qualcosa di peggiore.
+
+È lo spirito d'una civiltà di second'ordine; e la distinzione implica
+
+le differenze più importanti. Ammesso che potesse esistere, la pura barbarie
+
+non potrebbe durare a lungo; come non può durare a lungo la pura infanzia. Per sua [[Nature|natura]]
+
+il neonato s'interessa al ticchettio d'un orologio; e verrà il [[Time|tempo]]
+
+in cui dovrai dirgli che ora sia, se pur gli dirai l'ora [[Time|sbagliata]]. E
+
+questo è esattamente ciò che fa la civiltà di second'ordine.
+
+Ma il punto vitale è qui. Il barbaro astratto copierebbe. La civiltà cockney
+
+e incompleta si erge sempre a modello da copiare. E nel
+
+caso qui considerato, il Tedesco pensa che sia affar suo non solo
+
+diffondere l'[[Education|istruzione]], ma diffondere l'[[Education|istruzione]] obbligatoria. «La scienza congiunta
+
+all'organizzazione», dice il Professor Ostwald dell'Università di Berlino, «ci rende
+
+terribili ai nostri avversari e assicura un futuro tedesco all'Europa». Questo è,
+
+detto nel modo più breve, ciò per cui combattiamo. Combattiamo per
+
+impedire un futuro tedesco all'Europa. Pensiamo che sarebbe più angusto, più meschino,
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="TheAppOfTyranny — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -6239,6 +7067,176 @@ badly treated. With these the Prussians have done comparatively little; and
 with Europeans of your sort nothing. They have never once really
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+di un Italiano, per mostrare ciò che intendo quando mi oppongo a un «futuro tedesco per
+
+l'Europa». Mi oppongo a qualcosa che crede moltissimo in se stesso, e in
+
+cui io non credo minimamente. Mi oppongo a qualcosa che è
+
+presuntuoso e gretto; ma che possiede anche quella specie di pertinacia
+
+che appartiene sempre ai lunatici. Vuole potersi congratulare
+
+con se stesso per [[Michael|Michel]][[Angelo|angelo]]; mai congratularsi col mondo. È lo spirito
+
+che si scorge in coloro che diventano calvi cercando di tracciare una genealogia; o
+
+vanno in bancarotta cercando di accampare un diritto su qualche remota tenuta. Il Prussiano ha
+
+l'incoerenza del _parvenu_; si affaticherà a provare d'essere
+
+imparentato con qualche gentiluomo del [[Renaissance|Rinascimento]], perfino mentre si vanta di poterlo
+
+«rilevare». Se gl'Italiani erano davvero grandi, ebbene — erano
+
+davvero Tedeschi; e se non erano davvero Tedeschi, [[Well|allora]], ebbene, non erano
+
+davvero grandi. È un'occupazione da vecchia zitella.
+
+Tre o quattro secoli fa, nel triste [[Silence|silenzio]] che aveva seguìto il
+
+relativo fallimento del nobile sforzo del Medioevo, si abbatté su
+
+tutta Europa una [[Storm|tempesta]] venuta dal sud. Il suo tumulto è di molte lingue; vi si può
+
+udire la risata di Rabelais, o, se è per questo, le liriche di
+
+Shakespeare; ma il cuore oscuro della [[Storm|tempesta]] era invero più australe e
+
+vulcanico; un fragore di ali tonanti e il nome di [[Michael|Michele]]
+
+l'Arcangelo. E quando ebbe scosso e purificato il mondo ed era passata, un
+
+professore prussiano trovò una piuma caduta a terra; e provò (in parecchi
+
+volumi) che poteva provenire soltanto da un'Aquila Prussiana. Ne aveva vista
+
+una — in gabbia.
+
+Tuo ------,
+
+G.K. CHESTERTON.
+
+*       *       *       *       *
+
+Mio caro ------
+
+I fatti dinanzi a tutti gli Europei oggi sono tanto fondamentali che trovo ancora
+
+più facile parlartene come a un vecchio amico, piuttosto che darvi
+
+la forma d'un opuscolo. Nell'ultima mia lettera indicai due fatti
+
+che sono i cardini. Il primo è che, per qualsiasi persona davvero colta, la Prussia
+
+è di second'ordine. Il secondo è che per quasi ogni Prussiano la Prussia è
+
+davvero di prim'ordine; ed è pronta, assai letteralmente, a fare da gendarme al resto
+
+del mondo.
+
+Quanto alla prima questione, la relativa inferiorità della cultura tedesca non può
+
+essere posta in dubbio da gente come te. Uno dei giornali tedeschi disse pateticamente
+
+che, per quanto lo scempio di Malines e di Reims fosse assai triste, era di
+
+conforto pensare che opere d'arte ancor più nobili sarebbero [[spring|sorte]] ovunque la
+
+cultura tedesca fosse passata in trionfo. Dal punto di vista dell'[[Humour|umorismo]],
+
+è davvero piuttosto triste che ciò non avverrà mai. L'idea che l'Imperatore tedesco ha d'una
+
+[[Cathedral|cattedrale]] gotica è provocatoria per la fantasia quanto l'idea che la signora Todgers ha d'una
+
+gamba di legno. Ma credo perfettamente probabile che essi intendessero davvero
+
+erigere edifici belli quanto potevano. Essendo stati abbastanza blasfemi
+
+da rovinare tali cose, potrebbero [[Well|ben]] essere abbastanza blasfemi da
+
+sostituirle. Anche se il tentativo prussiano su [[Paris|Parigi]] non fosse del tutto
+
+crollato come è avvenuto, [[Doubt|dubito]] che i Prussiani avrebbero distrutto
+
+ogni cosa. [[Doubt|Dubito]] che avrebbero perfino distrutto la [[Venus|Venere]] di
+
+Milo. Più probabilmente vi avrebbero applicato un paio di braccia, disegnate da
+
+qualche [[artist|artista]] tedesco emergente — l'Imperatore o chi altri. E le due braccia così
+
+aggiunte parrebbero all'istante le braccia d'una donna al mastello del bucato. I
+
+distruttori della torre di Reims sono ben capaci di distruggere la Torre
+
+di Giotto. Ma sono ugualmente capaci del delitto maggiore di completarla.
+
+E se vi mettessero una guglia, che guglia sarebbe! Che
+
+spegnitoio per quella limpida e quasi trasparente candela cristiana! Hai
+
+letto qualcuna delle spiegazioni tedesche dell'[[Hamlet|Amleto]]? Ti dissi che
+
+i capelli di Leonardo dovevano essere capelli tedeschi, perché tanti suoi
+
+contemporanei dissero ch'erano belli? Questo è ciò che io chiamo essere
+
+di second'ordine. Tutta l'eccitazione tedesca per le colonie d'Inghilterra è
+
+solo una comprensione a metà di ciò che un tempo fu eroico e ora è in gran parte
+
+volgare. La visione navale dell'Imperatore tedesco è una cattiva copia di Nelson, tanto
+
+certamente quanto i versi di Federico il Grande erano una cattiva copia di Voltaire.
+
+Ma il secondo punto era ancor più importante; che, per quanto la cosa sia debole
+
+mentalmente, essa è forte materialmente; e s'imporrà materialmente se lo
+
+permettiamo. I Prussiani hanno fallito in tutto il resto; ma non hanno
+
+fallito nell'indurre le loro migliaia di sudditi a fare ciò che è loro comandato. Non
+
+possono erigere torri bianche e nere a Firenze; ma possono davvero piantare
+
+pali bianchi e neri in Alsazia. Hanno fallito nella diplomazia.
+
+Suppongo si possa chiamare fallimento diplomatico entrare nella lotta
+
+con due nemici in più e un alleato in meno. Se i Tedeschi, invece di
+
+mandare spie a studiare il suolo belga, avessero mandato spie a considerare l'
+
+[[Soul|anima]] belga, si sarebbero risparmiati un duro lavoro per una settimana o due. Hanno
+
+fallito nella controversia. Suppongo si possa chiamare fallimento nella
+
+controversia dire che l'Inghilterra può mantenere la parola per qualche malvagio
+
+scopo; mentre la [[Germany|Germania]] può rompere la parola per qualche nobile scopo. E
+
+questo è praticamente tutto ciò che i Tedeschi riescono a dire. Dicono che
+
+noi siamo una potenza insaziabile, senza scrupoli, piratesca; e questo spirito selvaggio
+
+ci trascinò nel folle corso di rispettare un trattato che avevamo firmato.
+
+Non possono trovare in noi altro tradimento se non che manteniamo i nostri trattati: e non farlo
+
+io lo chiamo fallire nella controversia. Hanno fallito nella pubblica [[Persuasion|persuasione]].
+
+Hanno avuto un'ottima occasione. L'Impero Britannico contiene davvero molti
+
+individui che sono stati maltrattati in vari modi: gli Irlandesi, i Boeri;
+
+anzi, gli Americani stessi, la cui esistenza nazionale cominciò con l'essere
+
+maltrattati. Con costoro i Prussiani hanno fatto relativamente poco; e
+
+con Europei della tua specie nulla. Non hanno mai una sola volta davvero
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_06" data-title="TheAppOfTyranny — Chapter 4 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -6404,6 +7402,168 @@ Poland; where a magnificent officer, making a vast parade of "ruling,"
 
 tries to cheat poor peasants out of their fields (and gets cheated) and
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+simpatizzato col sentimento d'uno Svizzero per la Svizzera; col sentimento d'un
+
+Norvegese per la Norvegia; col sentimento d'un Toscano per la Toscana. Perfino quando
+
+le nazioni sono neutrali, la Prussia a stento sopporta che siano patriottiche. Perfino
+
+quando corteggiano chiunque altro non sanno lodare nessuno se non
+
+se stessi. Falliscono nella diplomazia, falliscono nel [[debate|dibattito]], falliscono perfino nella
+
+demagogia. Hanno intrighi stupidi, spiegazioni stupide, e perfino stupide
+
+scuse. Ma v'è una cosa in cui davvero non falliscono. Non
+
+falliscono nel trovare gente abbastanza stupida da eseguirle.
+
+Ora, è questa la questione che ti chiederei di considerare; tu, come buon tipo medio
+
+dei Latini, un Liberale ma un Cattolico, un [[artist|artista]] ma un soldato. Il
+
+pericolo per l'intera civiltà di cui Roma fu la fonte sta in
+
+questo. Che quanto più questo strano popolo prussiano fallisce in tutte le altre cose,
+
+tanto più ripiegherà su questo mero fatto d'una brutale obbedienza. Daranno
+
+ordini; non hanno altro da dare. Dico che questa è la
+
+questione per te; non dico, non mi sogno di dire, che la risposta
+
+spetti a me. Spetta a te soppesare la probabilità che i loro stessi fallimenti nelle
+
+arti della pace li respingano verso le arti della guerra. Non
+
+poterono, e non riuscirono, a ingannare il tuo popolo nella diplomazia. Fecero la cosa più
+
+antidiplomatica che si possa fare; celarono una rottura del patto sociale
+
+senza nemmeno celare l'occultamento. Istigarono l'intrigo in
+
+Austria in modo tale che l'[[Italy|Italia]] poté onestamente rivendicare tutta la [[Freedom|libertà]] dell'
+
+ignoranza passata, unita a tutta la [[Disillusionment|disillusione]] della presente consapevolezza.
+
+Gestirono la Triplice Alleanza in modo tale da dover ammettere il tuo torto subìto, nel
+
+momento stesso in cui reclamavano il tuo aiuto. Gli Inglesi sono più stupidi e
+
+meno sensibili di te; ma perfino gli Inglesi trovarono la diplomazia del
+
+Cancelliere tedesco non insinuante ma semplicemente offensiva; giuro che
+
+sarei io stesso un miglior diplomatico. Allo stesso modo, non v'è pericolo
+
+che gente come te sia corrotta nella controversia. Non v'è [[Fear|timore]] che
+
+i professori che pullulano per tutta la Pianura Baltica sopraffacciano i
+
+Latini nella [[logic|logica]]. Alcuni di essi pretendono perfino d'essere super-logici; e dicono d'essere
+
+troppo grandi per i sillogismi; avendo generalmente trovato perfino un solo sillogismo troppo
+
+grande per loro. Se si lagnano o della tua astensione dalla loro causa
+
+o della tua adesione a qualsiasi altra, tu hai una risposta a cui non si può replicare. Dirai,
+
+come hai già detto, che non fosti tu a rompere la Triplice Alleanza, nemmeno per
+
+amor di pace. Furono essi a romperla per amor di guerra. Tu,
+
+ovviamente, avevi tanto diritto d'essere consultato sulla Servia quanto ne aveva l'Austria;
+
+e sulla mera scacchiera dell'argomento è matto in una mossa. Né sono
+
+essi minimamente atti a fare appello al sentimento popolare del tuo
+
+popolo. Gli Inglesi, oso dire, e i Francesi, hanno detto una stupefacente
+
+quantità di sciocchezze su di te; ma comprendono un poco meglio. Non
+
+scrivono esattamente così, come segue, che è tratto dal più pubblico e accreditato
+
+filosofo politico prussiano (Chamberlain). «Chi può vivere in [[Italy|Italia]]
+
+oggi e mescolarsi coi suoi amabili e assai dotati abitanti senza
+
+sentire con [[Pain|dolore]] che qui una grande nazione è perduta, irrimediabilmente perduta,
+
+perché le manca l'interiore forza propulsiva», eccetera, che ha condotto Von
+
+Kluck così trionfalmente attraverso [[Paris|Parigi]]. Perfino un Inglese semicolto, che
+
+non ha udito parlare d'altro poeta italiano se non [[Dante]], sa ch'egli era qualcosa di più
+
+che amabile. Perfino un Francese addirittura illetterato, che non ha udito parlare d'alcun
+
+guerriero italiano se non Napoleone, sa che non era di «interiore forza
+
+propulsiva» che l'artigliere in questione difettava. «Chi può vivere in
+
+[[Italy|Italia]] oggi?». Evidentemente il filosofo prussiano non può. Le sue impressioni
+
+sono tratte dalle opere liriche italiane; non dalle strade italiane; certamente non dai
+
+campi italiani. Di fatto, le immagini d'[[Italy|Italia]] che ardono nella
+
+memoria della maggior parte dei Settentrionali di mente aperta che vi sono stati, sono di
+
+esattamente l'altra specie. Io per primo sarei incline a dire: «Chi può vivere
+
+in [[Italy|Italia]] oggi senza sentire che una donna che nutre i bambini, o un uomo
+
+che spacca la legna, possa quasi toccarlo con [[Fear|timore]] per la pienezza della loro
+
+umanità: sì ch'egli quasi fiuta il [[Blood|sangue]], come si fiuta qualcosa che brucia?»
+
+Gl'Italiani spesso paiono pigri; cioè, paiono come se non volessero muoversi; ma
+
+non come se non potessero muoversi, come fanno molti Tedeschi. Ma anche se questa
+
+formula s'attagliasse agl'Italiani, pare a stento calcolata per piacer loro.
+
+Per i Prussiani, dunque, col fallimento della loro diplomazia, il fallimento
+
+della loro [[philosophy|filosofia]], possiamo porre anche il fallimento dei loro appelli a un
+
+popolo straniero. Lo scrittore prussiano può continuare i suoi tentativi di blandire
+
+e incantare te dicendoti che sei irrimediabilmente perduto, e che tutti
+
+i grandi Italiani devono essere stati qualcos'altro. Ma il metodo mi pare
+
+mal adatto alla propaganda popolare; e non posso non dire che su questo terzo
+
+punto della [[Persuasion|persuasione]], il tentativo tedesco non è notevole.
+
+Ora tutto ciò è importante per questa ragione. Se lo consideri attentamente
+
+vedrai perché l'Europa deve, a qualunque costo, spezzare la [[Germany|Germania]] in battaglia:
+
+e porre fine al suo potere militare e materiale di _fare_ cose. Se tutti
+
+dobbiamo combattere per questo, se tutti dobbiamo morire per questo, dev'essere fatto. Se
+
+troviamo alleati nei nani della Groenlandia o nei giganti della Patagonia, dev'essere
+
+fatto. E la ragione è che, se non è fatto letteralmente e materialmente,
+
+altre cose saranno fatte letteralmente e materialmente; e inorridiranno i
+
+cieli. Saranno cose sciocche; saranno cose ottenebrate e limitate e
+
+risibili; ma saranno cose compiute. Nulla potrebbe essere
+
+più ridicolo, se è tutto qui, della posizione morale del Prussiano in
+
+Polonia; dove un magnifico ufficiale, facendo vasta parata del «governare»,
+
+cerca di frodare i poveri contadini dei loro campi (e viene frodato) e
 
 
 

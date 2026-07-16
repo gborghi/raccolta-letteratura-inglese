@@ -416,6 +416,32 @@ like a sub-human jungle, with tropical [[Flowers|flowers]] and very poisonous we
 it is the rich crowd that assembles in a modern Americanized hotel.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La [[Reform|Riforma]] sociale a.C.
+
+La [[Reform|Riforma]] sociale contro il controllo delle nascite
+
+1927
+
+La vera [[history|storia]] del mondo è piena dei casi più bizzarri di idee che si sono rovesciate di netto, testa in giù, contraddicendo completamente se stesse. L'ultimo esempio è la straordinaria idea che ciò che si chiama controllo delle nascite sia una [[Reform|riforma]] sociale che procede di pari passo con le altre riforme sociali predilette dalle persone progressiste.
+
+È un po' come dire che tagliare la testa a [[King|re]] Carlo fu una delle più eleganti mode Cavalier in fatto di acconciatura. È come dire che la decapitazione è un progresso rispetto all'odontoiatria. Può essere giusto o meno tagliare la testa al [[King|re]]; può essere giusto o meno tagliarsi la testa da soli quando si ha il mal di denti. Ma chiunque dovrebbe essere in grado di vedere che se una volta semplifichiamo le cose con il taglio della testa possiamo fare a meno del taglio dei capelli; che sarà inutile praticare l'odontoiatria sui morti o la filantropia sui [[unborn|non nati]]—o sui non concepiti. Non è dunque un provvedere ai nostri discendenti dire che la distruzione dei nostri discendenti renderà superfluo provvederli di alcunché. Può darsi che sia distruzione solo nel senso di negazione; e può darsi che a pochi dei nostri discendenti sia concesso di sopravvivere. Ma è ovvio che la negazione è un puro pezzo di pessimismo, che si oppone alla nozione più ottimistica secondo cui si può fare qualcosa per l'intera famiglia dell'uomo. Né sorprenderà chiunque sappia pensare scoprire che questo è esattamente ciò che è realmente accaduto.
+
+La storia cominciò con Godwin, l'amico di Shelley, e il fondatore di tante delle speranze sociali che si dicono rivoluzionarie. Qualunque cosa pensiamo della sua teoria nei dettagli, egli certamente riempì la gioventù più generosa del suo [[Time|tempo]] di quella sete di giustizia sociale e di uguaglianza che è l'ispirazione del Socialismo e di altri ideali. Cosa ancora più gratificante, riempì i ricchi vecchi del suo [[Time|tempo]] di un terrore incalzante e duraturo, e circa tre quarti dei discorsi dei Tory e dei Whig di quel [[Time|tempo]] consistono in sofismi e scuse inventate per rappezzare un corrotto compromesso di oligarchia contro l'appello alla fraternità e all'umanità fondamentale lanciato da uomini come Godwin e Shelley.
+
+Malthus: una risposta a Godwin
+
+I vecchi oligarchi avrebbero usato qualsiasi arnese contro i nuovi democratici; e un giorno ebbero la squallida fortuna di mettere le mani su un arnese chiamato Malthus. Malthus scrisse dichiaratamente e apertamente una risposta a Godwin. Tutto il suo lugubre libro era inteso solo come una risposta a Godwin. Mentre Godwin cercava di mostrare che l'umanità poteva essere resa più felice e più umana, Malthus cercava di mostrare che l'umanità non poteva in alcun modo essere resa più felice o più umana. L'argomento che egli usò era questo: che se all'uomo affamato fosse data una tollerabile libertà o una discreta prosperità, egli si sarebbe sposato e avrebbe avuto un certo numero di figli, e non vi sarebbe stato cibo per tutti. L'inferenza era, evidentemente, che bisognava lasciarlo morire di fame. Il punto sull'aumento dei figli lo fortificò con una formula fantasticamente matematica sulla progressione geometrica, che qualsiasi essere umano vivente può chiaramente vedere essere inapplicabile a qualsiasi cosa vivente. Nulla che dipenda dalla volontà umana può procedere per progressione geometrica, e la popolazione certamente non procede in nulla del genere.
+
+Ma il punto è qui: che Malthus intese il suo argomento come un argomento contro ogni [[Reform|riforma]] sociale. Non pensò mai di usarlo come altro, se non come un argomento contro ogni [[Reform|riforma]] sociale. Nessun altro pensò mai, in quei giorni più logici, di usarlo se non come un argomento contro la [[Reform|riforma]] sociale. Malthus lo usò persino come argomento contro l'antica abitudine della [[Charity|carità]] umana. Mise in guardia la gente contro ogni generosità nel fare l'elemosina. La sua teoria fu sempre gettata come [[Water|acqua]] fredda su qualsiasi proposta di dare al povero proprietà o uno status migliore. Tale è la nobile storia della nascita del Controllo delle Nascite.
+
+L'unica differenza è questa: che i vecchi capitalisti erano più sinceri e più scientifici, mentre i capitalisti moderni sono più ipocriti e più nebulosi. Il ricco del 1850 lo usava in teoria per l'oppressione dei poveri. Il ricco del 1927 lo userà solo in pratica per l'oppressione dei poveri. Essendo incapace di teoria, essendo anzi incapace di pensiero, egli può trattare solo due cose: ciò che lui chiama praticità e ciò che io chiamo sentimentalismo. Non essendo tanto uomo quanto Malthus, non sopporta di essere un pessimista, e così diventa un sentimentalista. Confonde questa vecchia idea schietta e brutale (che ai poveri si debba proibire di riprodursi) con un mucchio di ideali e promesse sociali sciatti e melensi che vi sono nettamente incompatibili. Ma è dopotutto un uomo pratico, e sarà brutale quanto i suoi antenati quando si arriva alla pratica. E l'esito pratico di tutta la faccenda è abbastanza chiaro. Se può impedire ai suoi servitori di avere famiglie, non ha bisogno di mantenere quelle famiglie. Perché diavolo dovrebbe?
+
+Una semplice prova
+
+Se qualcuno dubita che questo sia il motivo assai semplice, lo metta alla prova con le affermazioni assai semplici fatte dai vari Controllori delle Nascite come il Decano di San Paolo. Non dicono mai che soffriamo di una fornitura troppo generosa di banchieri o che i finanzieri cosmopoliti non debbano avere famiglie così numerose. Non dicono che la folla alla moda di Ascot vada sfoltita, o che sia desiderabile decimare la gente che pranza al Ritz o al Savoy. Eppure, Dio sa, se mai una cosa umana potesse somigliare a una giungla sub-umana, con [[Flowers|fiori]] tropicali ed erbacce velenosissime, è la ricca folla che si raduna in un moderno albergo americanizzato.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="Social_Reform_BC (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

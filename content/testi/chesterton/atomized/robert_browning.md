@@ -6776,6 +6776,22 @@ One of the very few critics who seem to have got near to the actual
 secret of Browning's optimism is Mr. Santayana in his most interesting
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII
+
+LA [[philosophy|FILOSOFIA]] DI BROWNING
+
+Il grande difetto della maggior parte degli apprezzamenti di Browning sta nel fatto che si concepisce il valore morale e artistico della sua opera come risiedente in ciò che si chiama «il messaggio di Browning», o «l'insegnamento di Browning», ossia, in altre parole, nelle mere opinioni di Browning. Ora, Browning aveva delle opinioni, così come aveva un abito da sera o un voto per il Parlamento. Non esitava a esprimere queste opinioni più di quanto avrebbe esitato a [[Fire|sparare]] con un fucile, o ad aprire un ombrello, se avesse posseduto tali oggetti e ne avesse còlto il valore. Per esempio, egli aveva, come i suoi studiosi ed encomiatori hanno costantemente affermato, certe opinioni ben definite sulla funzione spirituale dell'[[Love|amore]], o sul fondamento intellettuale del [[Christianity|Cristianesimo]]. Quelle opinioni erano assai notevoli e assai solide, come tutto ciò che usciva dalla mente di Browning. Le sue due grandi teorie dell'universo possono essere espresse in due frasi relativamente parallele. La prima era ciò che si può chiamare la [[Hope|speranza]] che risiede nell'imperfezione dell'uomo. La caratteristica poesia «Old Pictures in Florence» esprime in modo assai singolare e bello l'idea che una qualche [[Hope|speranza]] possa sempre fondarsi sulla deficienza stessa; in altre parole, che, nella misura in cui l'uomo è una creatura con una gamba sola o con un occhio solo, vi è qualcosa nel suo aspetto che indica che egli dovrebbe avere un'altra gamba e un altro occhio. La poesia suggerisce mirabilmente che un tale senso d'incompletezza possa facilmente essere un grande progresso rispetto a un senso di completezza, che la parte possa facilmente e ovviamente essere maggiore del tutto. E da ciò Browning trae, come è pienamente giustificato a trarre, una precisa [[Hope|speranza]] d'[[Immortality|immortalità]] e di una più ampia scala della vita. Poiché nulla è più certo del fatto che, sebbene questo mondo sia l'unico mondo che abbiamo conosciuto, o di cui potremmo pur solo sognare, rimane pur vero che lo abbiamo chiamato «un mondo strano». In altre parole, abbiamo certo sentito che questo mondo non spiegava se stesso, che qualcosa nel suo quadro completo e manifesto è stato omesso. E Browning aveva ragione nel dire che in un cosmo dove l'incompletezza implica la completezza, la vita implica l'[[Immortality|immortalità]]. Questa dunque fu la prima delle dottrine o opinioni di Browning: la [[Hope|speranza]] che risiede nell'imperfezione dell'uomo. La seconda delle grandi dottrine browninghiane richiede una certa audacia per essere espressa. Può essere propriamente enunciata soltanto come la [[Hope|speranza]] che risiede nell'imperfezione di Dio. Vale a dire che Browning riteneva che il dolore e la [[Self|rinuncia]] a sé, se erano i fardelli dell'uomo, erano anche i suoi privilegi. Egli riteneva che questi ostinati dolori e questi oscuri valori potessero, per usare un'espressione ancor più strana, aver provocato l'invidia dell'Onnipotente. Se l'uomo ha il [[Self-Sacrifice|sacrificio di sé]] e Dio non ne ha, allora l'uomo possiede nell'Universo una segreta e blasfema superiorità. E questa tremenda storia di una [[Jealousy|Gelosia]] divina Browning la legge nella storia della Crocifissione. Se il Creatore non fosse stato crocifisso, non sarebbe stato grande quanto migliaia di miserabili fanatici fra le Sue stesse creature. È inutile insistere su questo punto; chiunque desideri vederlo splendidamente espresso non ha che da rivolgersi a «Saul». Ma queste sono enfaticamente le due principali dottrine od opinioni di Browning, che ho osato caratterizzare, alla grossa, come la [[Hope|speranza]] nell'imperfezione dell'uomo e, più arditamente, come la [[Hope|speranza]] nell'imperfezione di Dio. Sono grandi pensieri, pensieri scritti da un grande uomo, e sollevano dubbi nobili e belli in favore della [[Faith|fede]] che lo spirito umano non risolverà né esaurirà mai. Ma su di essi, in rapporto a Browning, rimane nondimeno qualcosa da aggiungere.
+
+Browning era, come dicono la maggior parte dei suoi sostenitori e tutti i suoi avversari, un ottimista. La sua teoria, secondo cui il senso della propria imperfezione nell'uomo implica un disegno di perfezione, è un ottimo argomento a favore dell'ottimismo. La sua teoria secondo cui la conoscenza e il [[Desire|desiderio]] dell'uomo per il [[Self-Sacrifice|sacrificio di sé]] implicano la conoscenza e il [[Desire|desiderio]] di Dio per il [[Self-Sacrifice|sacrificio di sé]] è un altro ottimo argomento a favore dell'ottimismo. Ma commetterà l'errore più profondo, più nero e più incurabile riguardo a Browning chiunque immagini che il suo ottimismo si fondasse su qualche argomento a favore dell'ottimismo. Poiché aveva un intelletto forte, poiché aveva una forte capacità di convinzione, egli concepì, sviluppò e affermò queste dottrine dell'incompletezza dell'Uomo e del sacrificio dell'Onnipotenza. Ma queste dottrine erano i sintomi del suo ottimismo, non la sua origine. È certo ovvio che nessuno può essere condotto all'ottimismo per via di argomenti, poiché nessuno può essere condotto alla felicità per via di argomenti. L'ottimismo di Browning non si fondava su opinioni, che erano opera di Browning, ma sulla vita, che era opera di Dio. Uno dei più celebri biografi di Browning ha detto che qualcosa della teologia di Browning va attribuito al suo possesso di una buona digestione. L'osservazione era, naturalmente, come tutte le osservazioni che toccano il tragico soggetto della digestione, intesa a essere spiritosa e a insinuare una specie di [[Doubt|dubbio]] o di diminuzione riguardo al valore della [[Faith|fede]] di Browning. Ma se esaminiamo la cosa con un po' più di cura, vedremo che essa è invero un pieno complimento a quella [[Faith|fede]]. Nessuno, propriamente parlando, è più felice a causa della sua digestione. È felice perché è così costituito da dimenticarsene del tutto. Nessuno è realmente scosso di gioia al pensiero dell'ingegnoso macchinario che possiede dentro di sé; la cosa che lo delizia è semplicemente il pieno possesso del proprio [[Body|corpo]] umano. Non riesco affatto a capire perché una buona digestione — cioè un buon [[Body|corpo]] — non debba essere ritenuta un beneficio altrettanto mistico di un tramonto o del primo fiore della [[spring|primavera]]. Ma vi è a proposito della digestione questa peculiarità, che getta gran luce sul pessimismo umano: che essa è una delle molte cose di cui non parliamo mai come esistenti finché non vanno storte. Riterremmo ridicolo parlare di un uomo che [[Suffering|soffre]] per i suoi stivali se intendessimo dire che egli in realtà non ha stivali. Ma sì parliamo di un uomo che [[Suffering|soffre]] di digestione quando intendiamo dire che soffre di una mancanza di digestione. Allo stesso modo parliamo di un uomo che [[Suffering|soffre]] di nervi quando intendiamo dire che i suoi nervi sono più inefficienti dei nervi di chiunque altro. Se qualcuno desidera vedere quanto grossolanamente il linguaggio possa degenerare, non ha che da confrontare l'antico uso ottimistico della parola nervoso, che impieghiamo parlando di una presa nervosa, con il nuovo uso pessimistico della parola, che impieghiamo parlando di un modo di fare nervoso. E come la digestione è una cosa buona che talvolta va storta, come i nervi sono cose buone che talvolta vanno storte, così l'esistenza stessa, agli occhi di Browning e di tutti i grandi ottimisti, è una cosa buona che talvolta va storta. Egli si riteneva libero di attingere la propria ispirazione dal dono della buona salute non meno che dal dono del sapere o dal dono dell'amicizia. Ma riteneva che tali doni fossero, nella vita, innumerevoli e vari, e che ogni uomo, o almeno quasi ogni uomo, possedesse qualche [[Window|finestra]] affacciata su questa essenziale eccellenza delle cose.
+
+L'ottimismo di Browning, dunque, poiché dobbiamo continuare a usare questa parola alquanto inadeguata, era un frutto dell'esperienza — esperienza che per qualche misteriosa ragione è generalmente intesa nel senso di esperienza triste o disilludente. Un vecchio signore che rimprovera un ragazzino perché mangia mele su un albero è, nella concezione comune, il tipo dell'esperienza. Se davvero volesse essere un tipo dell'esperienza, si arrampicherebbe egli stesso sull'albero e procederebbe a fare esperienza delle mele. La [[Faith|fede]] di Browning si fondava sull'esperienza gioiosa, non nel senso che egli selezionasse le proprie esperienze gioiose e ignorasse quelle dolorose, ma nel senso che le sue esperienze gioiose selezionavano se stesse e si stagliavano nella sua [[Memory|memoria]] in virtù della loro straordinaria intensità di colore. Egli non usava l'esperienza in quel senso meschino e pomposo in cui la usa l'uomo di mondo avanti negli anni. La usava piuttosto in quel senso più sano e più gioioso in cui la si usa nelle riunioni dei revivalisti. Nell'Esercito della Salvezza le esperienze di un uomo significano le sue esperienze della [[Mercy|misericordia]] di Dio, e per Browning il significato era pressoché lo stesso. Ma le confessioni dei revivalisti riguardano per lo più esperienze di [[prayer|preghiera]] e di lode; quelle di Browning riguardavano precipuamente ciò che si può chiamare il suo proprio soggetto, le esperienze dell'[[Love|amore]].
+
+E questa qualità dell'ottimismo di Browning, la qualità del dettaglio, è anch'essa una qualità assai tipica. L'ottimismo di Browning è di quell'ordine ultimo e incrollabile che si fonda sull'assoluta vista, sul suono, sull'odore e sul contatto delle cose. Se un uomo fosse andato da Browning e gli avesse chiesto con tutta la solennità dell'eccentrico: «Ritenete che la vita valga la pena d'essere vissuta?», è interessante congetturare quale sarebbe potuta essere la sua risposta. Se in quel momento fosse stato sotto l'influsso dell'ortodosso deismo razionalistico del teologo, avrebbe detto: «L'esistenza è giustificata dal suo manifesto disegno, dal suo manifesto adattamento dei mezzi ai fini», ossia, in altre parole, «L'esistenza è giustificata dalla sua completezza». Se, d'altra parte, fosse stato influenzato dalle sue serie teorie intellettuali, avrebbe detto: «L'esistenza è giustificata dalla sua aria di crescita e di dubbiosità», ossia, in altre parole, «L'esistenza è giustificata dalla sua incompletezza». Ma se non fosse stato influenzato nella sua risposta né dalle opinioni accettate, né dalle proprie opinioni, e avesse semplicemente risposto alla domanda «La vita vale la pena d'essere vissuta?» con la risposta reale e vitale che l'attendeva nella sua stessa [[Soul|anima]], avrebbe detto, con ogni probabilità: «Funghi cremisi nell'Hampshire». Una qualche immagine schietta e sfolgorante di questa sorta, lasciata nella sua mente, sarebbe stata il suo vero verdetto su ciò che l'universo aveva significato per lui. Nelle sue tradizioni la [[Hope|speranza]] veniva ricondotta all'ordine, nelle sue speculazioni la [[Hope|speranza]] veniva ricondotta al disordine. Ma per Browning stesso la [[Hope|speranza]] veniva ricondotta a qualcosa come i funghi rossi. Il suo misticismo non era di quel tipo ozioso e verboso che crede che un fiore sia simbolico della vita; era piuttosto di quel tipo profondo ed eterno che crede che la vita, mera astrazione, sia simbolica di un fiore. Con lui le grandi esperienze concrete che Dio ha creato vengono sempre prime; le sue proprie deduzioni e speculazioni su di esse sempre seconde. E in questo punto troviamo la vera peculiare ispirazione dei suoi assai originali [[Poems|poemi]].
+
+Uno dei pochissimi critici che paiono essersi avvicinati al vero segreto dell'ottimismo di Browning è il signor Santayana nel suo assai interessante
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Robert Browning — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
@@ -7099,6 +7115,106 @@ this lady except the fact that after her [[Death|death]] Browning could not bear
 to look at places where she had walked.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Può dunque essere [[Well|bene]] abbandonare il compito di ottenere un chiaro
+resoconto della famiglia di Browning, e cercare di ottenere, ciò che è molto
+più importante, un chiaro resoconto della sua [[Home|casa]]. Poiché il grande fatto centrale
+e solido, che queste speculazioni araldiche tendono inevitabilmente a
+velare e confondere, è che Browning era un inglese del ceto medio del tutto
+tipico. Può aver avuto [[Blood|sangue]] straniero, e quel [[Blood|sangue]]
+straniero, per il [[Paradox|paradosso]] che abbiamo osservato, può averlo reso più
+caratteristicamente un nativo. Una fase, un capriccio, una metafora possono o non possono
+essere nati da elementi orientali o meridionali, ma egli era,
+senza alcun dubbio, un inglese del ceto medio.
+Né tutta la sua liberalità né tutta la sua erudizione lo resero mai altro
+che un inglese del ceto medio. Egli estese la sua tolleranza intellettuale
+finché essa non incluse l'anarchismo di _Fifine at the Fair_ e
+la teologia blasfema di [[Caliban]]; ma rimase egli stesso un
+inglese del ceto medio. Dipinse tutte le passioni della
+terra dalla Caduta in poi, dall'amorosità divorante di _Time's
+Revenges_ alla fantasia dispotica di _Instans Tyrannus_; ma
+rimase egli stesso un inglese del ceto medio. Nel momento in cui
+veniva a contatto con qualcosa di trasandato, qualcosa di
+illegale, nella vita reale, qualcosa si [[Rose|levava]] in lui, più antico di ogni
+opinione, il [[Blood|sangue]] di generazioni di uomini dabbene. Incontrò George Sand e
+il suo circolo poetico e lo odiò, con tutto l'odio di un vecchio mercante
+di [[City|città]] per la vita irresponsabile. Incontrò gli spiritisti e
+li odiò, con tutto l'odio del ceto medio per le terre di confine
+e le posizioni equivoche e il giocare col [[Fire|fuoco]]. Il suo intelletto compì
+viaggi sbalorditivi, ma la sua [[Soul|anima]] camminava su una [[Road|strada]] diritta. Innalzò
+le fantastiche torri della sua [[Imagination|immaginazione]] finché non eclissarono i
+pianeti; ma il disegno delle fondamenta su cui costruiva era sempre
+il disegno di un'onesta [[house|casa]] inglese a Camberwell. Abbandonò, con
+una incessante [[Ambition|ambizione]] intellettuale, ognuna delle convinzioni della sua
+classe; ma ne portò i pregiudizi nell'[[Eternity|eternità]].
+
+È dunque di Browning come membro del ceto medio che possiamo
+parlare con la maggiore certezza storica; e sono i suoi immediati
+antenati a presentare per noi il vero interesse. Suo padre, Robert
+Browning, era un uomo di grande delicatezza di gusto, e a quanto pare
+di una delicatezza di [[Conscience|coscienza]] quasi esagerata. Ogni scorcio che ne abbiamo
+suggerisce quella cordialità seria e quasi apprensiva che è
+il marchio di coloro per cui l'egoismo, anche l'egoismo giustificabile,
+è davvero una cosa difficile o impossibile. In gioventù Robert
+Browning senior fu collocato da suo padre (che era a quanto pare un padre
+di tipo alquanto primitivo, per non dire barbarico) in un'importante
+posizione commerciale nelle Indie Occidentali. Egli però rinunciò all'incarico,
+perché lo coinvolgeva in un qualche riconoscimento della [[Slavery|schiavitù]].
+Al che il suo singolare genitore, in un trasporto di rabbia, non solo
+lo diseredò e lo cacciò di casa, ma con un superbo colpo di
+[[Humour|umorismo]], che rimane [[Alone|solo]] negli annali dell'ingegnosità paterna, gli
+inviò un conto per il costo della sua [[Education|educazione]]. Più o meno nello stesso [[Time|tempo]] in cui
+[[Suffering|soffriva]] per la sua sensibilità morale egli era anche turbato da
+questioni religiose, e completò la separazione dal padre
+unendosi a una setta dissidente. Era, in breve, un esempio molto tipico
+dell'uomo serio del ceto medio del periodo di Wilberforce, un uomo per cui
+il dovere era tutto, e che avrebbe rivoluzionato un impero o un
+continente per la soddisfazione di un singolo scrupolo morale. Così, mentre
+era puritano nell'intimo, non il puritano spietato del
+diciassettesimo, ma il puritano umanitario del diciottesimo secolo,
+aveva in superficie tutti i gusti e le grazie di un uomo di cultura.
+Numerose doti del genere più lieve, come il disegno e la
+pittura ad [[Water|acquerello]], le possedeva; e il suo sentimento per molti
+generi di letteratura era fastidioso ed esatto. Ma il tutto era
+assolutamente pervaso della cortese severità del diciottesimo secolo.
+Deplorava la precoce ammirazione del figlio per Byron, e non cessava mai
+di esortarlo a modellarsi su Pope.
+
+Era, in breve, uno dei vecchi umanitari all'antica del
+diciottesimo secolo, una classe che possiamo o meno aver conquistato nella
+teoria morale, ma che di certo non abbiamo conquistato nella pratica
+morale. Robert Browning senior distrusse tutte le sue fortune per
+protestare contro la [[Slavery|schiavitù]] nera; la [[Slavery|schiavitù]] bianca può essere, come ci dicono economisti
+posteriori, una cosa infinitamente peggiore, ma non molti uomini distruggono
+le loro fortune per protestare contro di essa. Gli ideali degli uomini
+di quel periodo ci appaiono assai poco attraenti; per loro il dovere era una specie
+di gelido sentimento. Ma quando pensiamo a ciò che fecero con quei freddi
+ideali, a stento possiamo sentirci tanto superiori. Sradicarono l'enorme
+Upas della [[Slavery|schiavitù]], l'albero che era letteralmente vecchio quanto la razza
+umana. Mutarono l'intera faccia dell'Europa con le loro fantasie
+deduttive. Noi abbiamo ideali che sono davvero migliori, ideali di passione, di
+misticismo, di un senso della giovinezza e dell'avventurosità della terra;
+ma sarà [[Well|bene]] per noi se otterremo altrettanto con la nostra frenesia quanto essi
+ottennero con le loro delicatezze. Sembra quasi che noi non siamo così robusti
+nella nostra stessa robustezza quanto essi erano robusti nella loro sensibilità.
+
+La madre di Robert Browning era la figlia di William Wiedermann, un
+mercante tedesco stabilitosi a Dundee, e sposato a una moglie scozzese. Uno
+dei principali biografi del poeta ha suggerito che da questa [[Union|unione]]
+del tedesco e dello scozzese Browning derivasse la sua tendenza metafisica; è
+possibile; ma anche qui dobbiamo guardarci dal grande pericolo biografico
+di fare [[Mountains|montagne]] dai granelli di sabbia. Ciò che la madre di Browning
+indubbiamente gli diede fu, per via dell'educazione, una fortissima
+abitudine religiosa e una grande fede nelle buone maniere. Thomas Carlyle
+la chiamò «il tipo della gentildonna scozzese», e la frase ha un
+significato molto reale per coloro che comprendono la peculiare condizione della
+Scozia, uno dei pochissimi paesi europei in cui vaste porzioni
+dell'aristocrazia sono puritane; così una gentildonna scozzese combina
+due descrizioni di dignità nello stesso [[Time|tempo]]. Poco altro si sa di
+questa signora, eccetto il fatto che dopo la sua [[Death|morte]] Browning non poteva sopportare
+di guardare i luoghi dove ella aveva camminato.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="Robert Browning — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
@@ -7310,6 +7426,100 @@ couplets of Pope with the full sense of the greatest pathos that the
 world contains, the pathos of the man who has produced something that
 he cannot understand.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Browning crebbe, dunque, con la crescente fama di Shelley e Keats,
+nell'atmosfera della giovinezza letteraria, fiera e bella, tra nuovi
+poeti che credevano in un mondo nuovo. È importante ricordarlo,
+perché il vero Browning era una persona del tutto diversa dal cupo
+moralista e metafisico che si vede attraverso le lenti delle
+Società browninghiane e dei conferenzieri della University Extension. Browning era
+prima di tutto un poeta, un uomo fatto per godere di ogni cosa visibile e
+invisibile, un sacerdote delle passioni più alte. L'equivoco che
+lo ha supposto altro che poetico, perché la sua forma era spesso
+capricciosa e brusca, è davvero diverso dall'equivoco
+che si attribuisce alla maggior parte degli altri poeti. Gli avversari di Victor Hugo
+lo chiamavano un semplice fanfarone; gli avversari di Shakespeare lo chiamavano un
+buffone. Ma gli ammiratori di Hugo e Shakespeare almeno la sapevano
+più lunga. Ora gli ammiratori e gli avversari di Browning parimenti lo fanno
+apparire un pedante piuttosto che un poeta. L'unica differenza tra il
+browninghiano e l'anti-browninghiano è che il secondo dice che non fu
+un poeta ma un mero filosofo, e il primo dice che fu un
+filosofo e non un mero poeta. L'ammiratore sminuisce la poesia
+per esaltare Browning; l'avversario esalta la poesia per
+sminuire Browning; e per tutto il [[Time|tempo]] Browning stesso esaltava la poesia
+al di sopra di tutte le cose terrene, la serviva con intensità di cuore indiviso, e
+sta tra i pochi poeti che quasi non scrissero un rigo d'altro.
+
+L'intera fanciullezza e giovinezza di Robert Browning ha tanto la
+qualità della pura poesia quanto la fanciullezza e la giovinezza di Shelley. Non
+troviamo in essa alcuna traccia del Browning analitico creduto da
+dotte signore e gentiluomini. Come infatti si sentirebbero tali simpatizzanti
+se venissero informati che dei primi [[Poems|versi]] che Browning scrisse in un volume
+intitolato _Incondita_ si notò che contenevano il difetto di «troppo
+splendore di linguaggio e troppo poca ricchezza di pensiero»? Erano
+davvero byroniani all'estremo, e Browning nelle sue prime apparizioni
+in società si presenta in modo del tutto romantico. Macready, l'attore,
+scrisse di lui: «Ha l'aspetto e il parlare più di un giovane poeta che
+chiunque io abbia mai visto.» Rimane una pittoresca tradizione secondo cui Thomas
+Carlyle, uscito a cavallo per uno dei suoi solitari galoppi resi necessari
+dalle sue sofferenze fisiche, fu fermato da uno che egli descrisse come un
+giovane stranamente bello, il quale gli riversò addosso senza preambolo né
+scuse la propria ammirazione per le opere del grande filosofo. Browning a
+quel [[Time|tempo]] sembra aver lasciato in molte persone questa impressione di
+fascino fisico. Un amico che frequentava con lui lo University College
+dice: «Era allora un giovane luminoso e avvenente, con lunghi capelli neri
+che gli cadevano sulle spalle.» Ogni racconto che rimane di lui in
+relazione a questo periodo afferma e riafferma il tutto romantico spirito da cui
+era allora posseduto. Era solito, per
+esempio, seguire le carovane degli zingari, lontano attraverso
+la campagna, e una [[Song|canzone]] che udì con il ritornello «Seguendo la
+[[Queen|Regina]] degli Zingari oh!» gli risuonò a lungo nelle orecchie abbastanza da esprimersi
+nei suoi giorni più posati e tardi in quello splendido poema dello
+spirito di fuga e di boemismo, _The Flight of the Duchess_. Gli
+altri di questi primi scorci che ne rimangono lo raffigurano mentre incede
+attraverso il Wimbledon Common con i capelli al [[Wind|vento]], recitando
+ad alta voce passi di Isaia, o mentre si arrampica sugli olmi sopra Norwood
+per guardare [[London|Londra]] di [[Night|notte]]. Fu guardando in basso da quel
+nido d'aquila suburbano sull'intero sconcertante labirinto di [[London|Londra]] che egli
+fu colmato da quella grande benevolenza irresponsabile che è il meglio
+delle gioie della giovinezza, e concepì l'idea di una benevolenza
+perfettamente irresponsabile nel primo disegno di _Pippa Passes_. In fondo
+al [[Garden|giardino]] di suo padre c'era un maggiociondolo «greve del suo peso d'oro»,
+e sull'albero due usignoli avevano l'abitudine di cantare
+l'uno contro l'altro, una forma di competizione che, immagino, da allora
+è diventata meno comune a Camberwell. Quando Browning da ragazzo era
+inebriato dalla poesia di Shelley e Keats, ipnotizzava
+sé stesso fino a qualcosa che si avvicinava a una positiva convinzione che questi
+due [[Birds|uccelli]] fossero gli spiriti dei due grandi poeti che si erano stabiliti in un
+[[Garden|giardino]] di Camberwell, per cantare all'unico giovane gentiluomo che
+davvero li adorava e li comprendeva. Quest'ultima storia è forse la più
+tipica del tono comune a tutte le altre; sarebbe difficile
+trovare una storia che, attraverso l'abisso di quasi ottant'anni, risvegli così
+vividamente un senso della sontuosa follia di una fanciullezza intellettuale.
+Con Browning, come con tutti i veri poeti, la passione venne per prima e fece
+l'espressione intellettuale, la fame di [[Beauty|bellezza]] a fare la letteratura come
+la fame di pane fece l'aratro. La vita che egli visse in quei primi
+giorni non fu una vita di monotona applicazione; non vi fu poeta la cui gioventù
+fosse così giovane. Quando era colmo di anni e di fama, e delineava in
+grandi epopee la [[Beauty|bellezza]] e l'orrore del [[Romance|romanzesco]] dell'Europa meridionale, un
+giovane, pensando di compiacerlo, disse: «Non c'è più [[Romance|romanticismo]] ora
+tranne che in [[Italy|Italia]].» «[[Well|Ebbene]]», disse Browning, «io farei un'eccezione
+per Camberwell.»
+
+Tali scorci serviranno a indicare il genere di questione essenziale che
+c'era, nella [[Nature|natura]] delle cose, tra la generazione di Browning
+e la generazione di suo padre. Browning era destinato, nella [[Nature|natura]] delle
+cose, a diventare all'inizio byroniano, e il byronismo non era,
+naturalmente, in realtà tanto un pessimismo sulle cose civili quanto un
+ottimismo sulle cose selvagge. Questa grande rivolta a favore
+dell'elementare che Keats e Shelley rappresentavano era destinata, prima di ogni cosa,
+ad avvenire. Robert Browning junior doveva farne parte, e Robert
+Browning senior doveva tornare ai suoi [[Water|acquerelli]] e agli impeccabili
+distici di Pope con il pieno senso del più grande pathos che il
+mondo contenga, il pathos dell'uomo che ha prodotto qualcosa che
+non riesce a comprendere.
 
 
 
@@ -7646,6 +7856,193 @@ the world that is as intellectual as the _Encyclopædia Britannica_ and
 as rapid as the Derby.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sarebbe stato dunque difficile, per Browning, scegliere un
+esempio migliore, per il suo studio dell'egotismo intellettuale, di Paracelso.
+La vita moderna accusa la tradizione medievale di schiacciare l'intelletto;
+Browning, con istinto più veritiero, accusa quella tradizione di
+sopravvalutarlo. Vi è, tuttavia, un'altra e ancor più importante
+deduzione da trarre dalla morale del _Paracelsus_. La solita
+accusa contro Browning è che egli fosse consumato dalla [[logic|logica]]; che
+ritenesse ogni argomento pabulo proprio della disquisizione intellettuale;
+che si gloriasse soprattutto della propria capacità di sciogliere
+i nodi e di squarciare in due le fallacie; e che a questo metodo
+egli sacrificasse deliberatamente, e con completo compiacimento di [[Self|sé]],
+l'elemento della poesia e del sentimento. Per chi immagina che Browning
+sia stato questo freddo credente nell'intelletto c'è una sola
+risposta necessaria o sufficiente. È il fatto che egli scrisse un dramma
+concepito per distruggere l'intera di questa fallacia intellettualistica
+all'età di ventitré anni.
+
+_Paracelsus_ fu con ogni probabilità l'introduzione di Browning al
+mondo letterario. Passarono molti anni, e persino molti decenni, prima che egli
+avesse qualcosa come un apprezzamento pubblico, ma una gran parte della
+minoranza di coloro che erano destinati ad apprezzarlo passò dalla sua
+parte alla pubblicazione del _Paracelsus_. Il celebre John
+Forster aveva preso il _Paracelsus_ «come una cosa da stroncare», e ne aveva concluso
+la lettura con la più sfrenata curiosità sull'autore e sulle sue opere.
+John Stuart Mill, mai restio alla generosità, si era già interessato
+a Browning, e fu infine convertito dallo stesso poema. Tra
+gli altri primi ammiratori vi furono Landor, Leigh Hunt, Horne, il serjeant
+Talfourd e Monckton-Milnes. Un uomo di statura letteraria persino
+maggiore sembra essere entrato nella vita di Browning intorno a questo [[Time|periodo]], un uomo
+per cui egli non cessò mai di nutrire il più caldo affetto e la più calda fiducia.
+Browning fu, in effetti, uno dei pochissimi uomini di quel periodo che andò
+perfettamente d'accordo con Thomas Carlyle. È proprio una di quelle piccole
+cose che parlano chiaro dell'onestà e dell'insondabile buon
+[[Humour|umore]] di Browning, che Carlyle, il quale aveva uno sprezzo temerario per la maggior parte
+degli altri poeti del suo tempo, provasse per lui qualcosa che equivaleva a un vero
+attaccamento. Egli faceva una scappata a [[Paris|Parigi]] per il solo privilegio di pranzare
+con lui. Browning, d'altra parte, con caratteristica
+impetuosità, difese e giustificò appassionatamente Carlyle in ogni
+compagnia. «Ho appena visto il caro Carlyle», scrive in un'occasione;
+«sorprendetemi a chiamare la gente cara con leggerezza, tranne in una lettera
+d'apertura.» Si schierò con Carlyle nella controversa questione delle relazioni
+domestiche dei Carlyle, e la sua impressione della signora Carlyle era che fosse
+«una donna dura e inamabile.» Poiché tuttavia è agli atti che egli
+una volta, mentre spiegava eccitato un punto di mistica [[philosophy|filosofia]],
+posò il bollitore caldo della signora Carlyle sul tappetino del focolare, qualunque freddezza
+egli possa aver osservato nei modi di lei può forse trovare una naturale
+spiegazione. La sua partigianeria nella vicenda Carlyle, che fu
+caratteristicamente avventata e umana, può non gettare molta luce su
+quel penoso problema in sé, ma ne getta molta
+sul carattere di Browning, che era battaglieramente orgoglioso dei propri
+amici, e aveva ciò che si può quasi definire una brama di lealtà. Browning
+non era capace di quel distacco più sagace che permise a
+Tennyson di dire che non poteva concordare sul fatto che i Carlyle non avrebbero mai dovuto
+sposarsi, poiché se ciascuno avesse sposato altrove ci sarebbero
+state quattro persone infelici invece di due.
+
+Tra la variopinta e brillante folla con cui Browning aveva ormai cominciato
+a mescolarsi, non vi era figura più eccentrica e spontanea di
+quella di Macready l'attore. Questa persona straordinaria, un uomo che viveva
+alla giornata in tutte le cose spirituali e pecuniarie, un uomo
+che si nutriva di emozioni fugaci, concepì qualcosa come un'attrazione
+verso Browning, parlò di lui come del vero ideale di un giovane poeta, e
+in un momento di particolare eccitazione gli suggerì di scrivere un
+grande dramma. Browning era un uomo in fondo davvero più costante e
+prosaico, ma in superficie altrettanto rapido e facilmente contagiabile quanto
+Macready. Egli cominciò immediatamente a progettare un grande dramma storico, e
+scelse per suo soggetto lo «Strafford».
+
+Nel trattamento del soggetto da parte di Browning c'è qualcosa di più di una
+traccia della sua educazione puritana e liberale. È una delle primissime
+tra le opere realmente importanti della letteratura inglese
+che si fondano sulla lettura parlamentaristica degli eventi del [[Time|tempo]]
+di Carlo I. È vero che l'elemento più bello del dramma è
+l'opposizione tra Strafford e Pym, un'opposizione così completa, così
+lucida, così coerente, che ha, per così dire, qualcosa della
+franca apertura e dell'accordo che appartengono a un'alleanza. I due
+uomini si [[Love|amano]] e si combattono, e fanno le due cose nello
+stesso [[Time|tempo]] completamente. Questa è una gran cosa di cui persino tentare
+la descrizione. È facile avere l'imparzialità che sa parlare
+giudiziosamente di entrambe le parti, ma non è così facile avere quella più larga
+e più alta imparzialità che sa parlare appassionatamente a favore di entrambe le
+parti. Ciò nondimeno, può essere lecito ripetere che vi è
+nel dramma una netta traccia della [[Education|educazione]] puritana di Browning e
+della sua visione storica puritana.
+
+Poiché lo _Strafford_ è, naturalmente, un esempio di quella più difficile di
+tutte le opere letterarie: un dramma politico. La cosa è stata realizzata almeno
+una volta mirabilmente nel _Giulio Cesare_ di Shakespeare, e qualcosa di
+simile, sebbene da un punto di vista più unilaterale e romantico, è stato
+fatto in modo eccellente nell'_Aiglon_. Ma le difficoltà di un simile dramma
+sono ovvie a prima vista. In un dramma politico i
+personaggi principali non sono meri uomini. Sono simboli,
+cifre aritmetiche che rappresentano milioni di altri uomini all'esterno. È,
+a forza di elaborata regia, possibile portare una folla
+sulle assi del palco, ma la più grande folla mai conosciuta non è che un
+atomo fluttuante del popolo; e il popolo a cui il politico
+deve pensare non consiste di gruppi di rivoltosi per la strada, ma
+di alcuni milioni di individui assolutamente distinti, ciascuno seduto nella
+propria stanza della colazione a leggere il proprio giornale del mattino. Dare anche
+il più flebile accenno della forza e della grandezza del popolo in questo
+senso nel corso di una rappresentazione drammatica è ovviamente impossibile.
+Ecco perché è così facile sulla scena concentrare tutto il pathos
+e la dignità su persone come Carlo I e Maria [[Queen|regina]] di Scozia,
+i vampiri del loro popolo, perché entro i minuti limiti di un
+palcoscenico c'è spazio per le loro piccole virtù e nessuno spazio per i loro
+enormi crimini. Sarebbe impossibile trovare un esempio più forte
+del caso dello _Strafford_. È chiaro che nessuno potrebbe in alcun modo
+raccontare tutta la [[Truth|verità]] sulla vita e la [[Death|morte]] di Strafford,
+politicamente considerata, in un dramma. Strafford fu uno dei più grandi
+uomini mai nati in Inghilterra, e tentò di fondare un grande dispotismo
+ufficiale inglese. Vale a dire, tentò di fondare qualcosa
+che è così diverso da ciò che effettivamente si è realizzato che in
+realtà possiamo a stento giudicarlo, non più di quanto possiamo giudicare se
+sarebbe meglio vivere su un altro pianeta, o più piacevole essere
+nati cane o elefante. Occorrerebbe un'enorme [[Imagination|immaginazione]] per
+ricostruire gli ideali politici di Strafford. Ora Browning, come tutti
+sappiamo, aggirò la questione nel suo dramma negando praticamente che
+Strafford avesse alcun ideale politico. Vale a dire, pur
+accreditando a Strafford tutta la sua reale maestà d'intelletto e di
+carattere, egli fa dipendere tutta la sua azione politica dal
+suo appassionato attaccamento personale al [[King|Re]]. Ciò è
+insoddisfacente; è in realtà uno schivare la grande difficoltà del
+dramma politico. Quella difficoltà, nel caso di qualsiasi problema
+politico, è, come si è detto, grande. Sarebbe molto difficile, per
+esempio, costruire un dramma sul progetto di legge dell'[[Home]] Rule del signor Gladstone.
+Sarebbe quasi impossibile far esprimere in un dramma di cinque
+atti e una ventina di personaggi qualcosa di tanto antico e complicato quanto
+quel problema irlandese, le cui radici affondano nelle tenebre dell'età
+di Strongbow, e i cui rami si estendono ai più remoti
+commonwealth dell'Oriente e dell'Occidente. Ma a stento saremmo
+soddisfatti se un drammaturgo superasse la difficoltà attribuendo l'azione
+del signor Gladstone nella questione dell'[[Home]] Rule a un travolgente
+affetto personale per il signor Healy. E fondando così l'azione di Strafford
+su ragioni personali e private, Browning certamente commette una qualche
+ingiustizia verso la [[Greatness|grandezza]] politica di Strafford. Attribuire la
+[[conversion|conversione]] del signor Gladstone all'[[Home]] Rule a un'infatuazione come quella
+suggerita sopra avrebbe di certo l'aria di implicare che lo
+scrittore ritenesse la dottrina dell'[[Home]] Rule una dottrina peculiare o insostenibile.
+Similmente, la scelta di Browning di un movente per Strafford ha molto
+l'aria di un presupposto che non ci fosse nulla da dire su basi pubbliche
+a favore dell'ideale politico di Strafford. Ora questo di certo non è
+il caso. I puritani nelle grandi lotte del regno di Carlo I
+possono aver posseduto ideali più preziosi dei realisti, ma è
+un errore assai volgare supporre che fossero un po' più idealisti. Nel
+dramma di Browning Pym è reso quasi l'incarnazione dello spirito pubblico,
+e Strafford dei legami privati. Ma non solo un sostenitore del
+dispotismo può essere animato da spirito pubblico, ma nel caso di eminenti sostenitori
+di esso come Strafford generalmente lo è. Il dispotismo infatti, e i tentativi
+di dispotismo, come quello di Strafford, sono una specie di malattia dello spirito
+pubblico. Rappresentano, per così dire, l'ubriachezza della responsabilità.
+È quando gli uomini cominciano a diventare disperati nel loro [[Love|amore]] per il popolo,
+quando sono sopraffatti dalle difficoltà e dagli errori
+dell'umanità, che ripiegano su un selvaggio [[Desire|desiderio]] di gestire tutto
+da sé. La loro [[Faith|fede]] in sé stessi è solo una [[Disillusionment|disillusione]] verso
+l'umanità. Si trovano in quella posizione più terribile, terribile tanto
+negli affari personali quanto in quelli pubblici: la posizione dell'uomo che ha perduto
+la [[Faith|fede]] e non ha perduto l'[[Love|amore]]. Questa credenza che tutto andrebbe bene se
+potessimo solo tenere le redini nelle nostre stesse mani è una fallacia quasi
+senza eccezione, ma nessuno può giustamente dire che non sia
+animata da spirito pubblico. Il peccato e il dolore del dispotismo non è che esso non
+[[Love|ami]] gli uomini, ma che li ama troppo e si fida di loro troppo
+poco. Perciò di età in età nella [[history|storia]] sorgono questi grandi
+sognatori dispotici, che siano realisti o imperialisti o persino
+socialisti, i quali hanno alla radice questa idea, che il mondo entrerebbe
+nella quiete se andasse a modo loro e abiurasse del tutto il diritto di
+andare a modo proprio. Quando un uomo comincia a pensare che l'erba non
+crescerà di [[Night|notte]] a meno che egli non resti sveglio a vigilarla, generalmente finisce
+o in un manicomio o sul trono di un imperatore. Di questi uomini
+Strafford fu uno, e non possiamo non sentire che Browning in qualche modo
+restringe il significato e la [[Tragedy|tragedia]] del suo posto nella [[history|storia]] facendone
+meramente il campione di un'idiosincrasia personale contro una grande
+domanda pubblica. Strafford fu qualcosa di più grande di questo; se davvero,
+a pensarci bene, un uomo può essere qualcosa di più grande dell'
+amico di un altro uomo. Ma l'intera questione è interessante, perché
+Browning, sebbene non abbia mai più affrontato un dramma politico di così
+palpabile importanza come lo _Strafford_, non riuscì mai a tenere la politica
+del tutto fuori dalla propria opera drammatica. _King Victor and [[King]] Charles_,
+che lo seguì, è un dramma politico, lo studio di un istinto dispotico
+assai più meschino di quello di Strafford. _Colombe's Birthday_,
+di nuovo, è politico oltre che [[Well|romantico]]. La politica nel suo aspetto
+storico sembra aver esercitato per lui un grande fascino, come del resto
+deve averlo per tutti gli intelletti ardenti, poiché è l'unica cosa al
+mondo che è tanto intellettuale quanto l'_Encyclopædia Britannica_ e
+tanto rapida quanto il Derby.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_08" data-title="Robert Browning — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
@@ -7857,6 +8254,113 @@ humble. He was not unintelligible because his thoughts were vague, but
 because to him they were obvious.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+
+OPERE GIOVANILI
+
+Nel 1840 fu pubblicato il _Sordello_. La sua accoglienza da parte della grande maggioranza
+dei lettori, compresi alcuni degli uomini più abili del [[Time|tempo]], fu
+un'accoglienza di genere probabilmente sconosciuto nel resto della [[history|storia]] letteraria,
+un'accoglienza che non era né lode né biasimo. Fu forse espressa nel modo migliore
+da Carlyle, il quale scrisse per dire che sua moglie aveva letto
+il _Sordello_ con grande interesse, e desiderava sapere se Sordello
+fosse un uomo, o una [[City|città]], o un libro. Più nota, naturalmente, è la storia
+di Tennyson, il quale disse che il primo verso del poema—
+
+«Chi vuole, può udire narrata la storia di Sordello,»
+
+e l'ultimo verso—
+
+«Chi voleva, ha udito narrata la storia di Sordello,»
+
+erano i due soli versi del poema che egli comprese, ed erano
+menzogne.
+
+Forse la migliore storia, tuttavia, di tutto il ciclo delle leggende su Sordello
+è quella che si racconta di Douglas Jerrold. Si stava riprendendo da una
+malattia; e avendo ottenuto per la prima [[Time|volta]] il permesso di leggere un
+poco durante il giorno, prese un libro da una pila accanto al letto
+e cominciò il _Sordello_. Non appena l'ebbe fatto impallidì
+come un morto, posò il libro e disse: «Dio mio! Sono un idiota. La mia salute
+è ristabilita, ma la mia mente se n'è andata. Non riesco a capire due versi consecutivi
+di un poema inglese.» Poi convocò la famiglia e in silenzio
+consegnò il libro nelle loro mani, chiedendo il loro parere sul poema;
+e mentre l'[[Shadow|ombra]] della perplessità passava a poco a poco sui loro volti, egli
+tirò un sospiro di sollievo e si addormentò nel [[Sleep|sonno]]. Queste storie, che siano
+accurate o no, rappresentano indubbiamente la ben peculiare accoglienza
+riservata al _Sordello_, un'accoglienza che, come ho detto, non ha
+alcuna somiglianza con nulla che sia mai stato accordato, in fatto di elogio o condanna,
+a un'opera d'arte prima d'allora. C'erano stati autori di cui
+era di moda vantarsi di ammirare e autori di cui
+era di moda vantarsi di disprezzare; ma con il _Sordello_ entra
+nella [[history|storia]] letteraria il Browning delle facezie popolari, l'autore
+di cui è di moda vantarsi di non capire.
+
+Mettendo da parte per un momento le qualità letterarie che si possono
+trovare nel poema, quando esso diventa intelligibile, c'è una domanda
+molto pertinente alla fama e al carattere di Browning che è sollevata dal
+_Sordello_ quando lo si considera, come la maggior parte della gente lo considera,
+irrimediabilmente inintelligibile. Esso getta davvero un po' di luce sul motivo
+dell'oscurità di Browning. La teoria ordinaria dell'oscurità di Browning
+è nel senso che essa fosse un atto di [[Vanity|vanità]] intellettuale indulta
+sempre più insolentemente man mano che i suoi anni e la sua fama crescevano. Ci sono
+almeno due obiezioni molto decisive a questa spiegazione popolare. In
+primo luogo, bisogna dire con enfasi in favore di Browning che in tutti
+i numerosi resoconti e impressioni di lui lungo la sua lunga e
+assai pubblica vita, non c'è uno iota di prova che egli fosse un uomo
+intellettualmente vanitoso. La prova va interamente nell'altra direzione.
+Era vanitoso di molte cose, della sua salute fisica, per esempio, e
+ancor più della salute fisica che egli riuscì a conferire per un
+certo periodo a sua moglie. Dai resoconti del suo giovanile dandismo,
+dei suoi capelli fluenti e dei suoi guanti color limone, è abbastanza probabile
+che fosse vanitoso della propria bella presenza. Era vanitoso della propria mascolinità,
+della propria conoscenza del mondo, ed era, immagino, decisamente vanitoso dei propri
+pregiudizi, si potrebbe persino dire, vanitoso di essere vanitoso di essi. Ma
+tutto milita contro l'idea che avesse molto l'abitudine di
+pensare a sé stesso nel proprio aspetto intellettuale. In materia di
+conversazione, per esempio, alcune persone a cui piaceva lo trovavano geniale,
+loquace, aneddotico, con una certa qualità corroborante e salutare
+nella sua mera presenza corporea. Alcune persone a cui non piaceva
+lo trovavano un mero frivolo chiacchierone, afflitto da cattive maniere. Una
+signora, che lo conosceva [[Well|bene]], disse che, sebbene egli ti incontrasse solo in una folla
+e facesse qualche osservazione banale, tu andavi avanti per il resto della giornata
+a testa alta. Un'altra signora che non lo conosceva, e perciò
+lo detestava, chiese dopo una cena: «Chi era quel finanziere troppo
+esuberante?» Queste sono le diversità di sentimento su di lui. Ma tutte
+concordano su un punto: che egli non parlava in modo brillante, né cercava di parlare
+in modo brillante, come tale procedere è inteso nei circoli letterari. Egli
+parlava in modo positivo, parlava moltissimo, ma non tentava mai di
+dare quel carattere ordinato ed estetico al proprio eloquio che è quasi
+invariabile nel caso dell'uomo vanitoso della propria superiorità
+mentale. Quando impressionava la gente con acrobazie mentali, era
+per lo più nella forma del riversare, con appassionato entusiasmo, intere
+epopee scritte da altri, che è l'ultima cosa su cui il
+letterato egotista sprecherebbe probabilmente il proprio [[Time|tempo]]. Abbiamo
+perciò da partire da un'enorme improbabilità psicologica: che
+Browning rendesse complicati i propri [[Poems|poemi]] per mero [[Pride|orgoglio]] delle proprie facoltà e
+disprezzo dei propri lettori.
+
+Vi è, tuttavia, un'altra obiezione molto pratica alla teoria ordinaria
+secondo cui l'oscurità di Browning fosse una parte dell'intossicazione della
+fama e della considerazione intellettuale. Sentiamo costantemente affermare
+che la complessità intellettuale di Browning crebbe con i suoi [[Poems|poemi]]
+più tardi, ma l'affermazione semplicemente non è vera. Il _Sordello_, alla
+indescrivibile densità del quale egli non si avvicinò mai più nemmeno in seguito,
+fu iniziato prima dello _Strafford_, e fu perciò la terza delle sue
+opere, e persino se adottiamo la sua stessa abitudine di ignorare _Pauline_, la
+seconda. Ne scrisse la maggior parte quando aveva ventiquattro anni. Fu
+nella sua giovinezza, nel [[Time|tempo]] in cui un uomo pensa all'[[Love|amore]] e
+alla notorietà, al sole e agli [[Birds|uccelli]] canori, che egli diede alla luce questo
+orrore di grande tenebra; e più studiamo la questione con una qualche
+conoscenza della [[Nature|natura]] della giovinezza, più giungeremo alla
+conclusione che l'oscurità di Browning ebbe un'origine del tutto opposta
+a quella che di solito le viene assegnata. Egli non era
+inintelligibile perché fosse superbo, ma inintelligibile perché era
+umile. Non era inintelligibile perché i suoi pensieri fossero vaghi, ma
+perché per lui erano ovvi.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Robert Browning — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
@@ -7984,6 +8488,129 @@ write with the hilarity of a schoolboy, but who wrote in his boyhood
 [[Poems|poems]] devoted to analysing the final break-up of intellect and [[Soul|soul]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un uomo intellettualmente vanitoso non si rende
+incomprensibile, perché è così enormemente impressionato dalla
+differenza tra l'intelligenza dei suoi lettori e la propria che
+parla loro dall'alto con elaborata ripetizione e lucidità. Quale poeta
+fu mai più vanitoso di Byron? Quale poeta fu mai così magnificamente lucido?
+Ma un giovane di genio che ha una genuina [[Humility|umiltà]] nel cuore non
+spiega elaboratamente le proprie scoperte, perché non ritiene
+che siano scoperte. Pensa che tutta la strada ronzi
+delle sue idee, e che il postino e il sarto siano poeti come
+lui. La poesia impenetrabile di Browning era la naturale espressione di
+questo bellissimo ottimismo. Il _Sordello_ fu il più glorioso complimento
+che sia mai stato reso all'uomo medio.
+
+Allo stesso modo, naturalmente, l'oscurità esteriore è, in un giovane autore,
+un segno di chiarezza interiore. Un uomo che è vago nelle proprie idee non
+parla oscuramente, perché la sua stessa condizione frastornata e alla deriva lo porta
+ad afferrare le frasi come corde e a usare le formule che tutti
+comprendono. Nessuno trovò mai oscura la signorina Marie Corelli, perché
+essa crede solo nelle parole. Ma se un giovane ha davvero idee
+proprie, dev'essere oscuro all'inizio, perché vive in un mondo suo
+proprio in cui vi sono simboli e corrispondenze e categorie
+ignote al resto del mondo. Prendiamo un esempio immaginario.
+Supponiamo che un giovane poeta abbia sviluppato da sé una peculiare idea
+che tutte le forme di eccitazione, compresa quella religiosa, fossero una
+specie di malvagia ubriachezza; egli potrebbe dire a sé stesso di continuo che
+le chiese erano in realtà taverne, e questa idea gli si fisserebbe così
+nella mente che egli dimenticherebbe che nessuna simile associazione esiste nelle
+menti degli altri. E supponiamo che, in conformità a questa idea
+generale, che è un'idea perfettamente chiara e intellettuale, per quanto molto
+sciocca, egli dicesse di credere nel [[Puritanism|puritanesimo]] senza la sua
+teologia, e ripetesse anche questa idea a sé stesso finché non diventasse
+istintiva e familiare, un tale uomo potrebbe prendere una penna, e sotto
+l'impressione di dire qualcosa di figurato bensì, ma
+del tutto chiaro e suggestivo, scrivere una frase come questa: «Non
+farete entrare il puritano senza Dio nelle vostre bianche taverne», e nessuno
+nella lunghezza e larghezza del paese potrebbe farsi la più remota
+nozione di ciò che egli potesse intendere. Così sarebbe stato in qualsiasi esempio,
+per esempio, di un uomo che facesse una scoperta filosofica e non
+si rendesse conto di quanto il mondo ne fosse lontano. Se fosse stato possibile per
+un poeta del sedicesimo secolo imbattersi nella teoria evoluzionistica di Darwin e
+imparare a considerarla ovvia, egli avrebbe potuto scrivere
+qualche verso come «la raggiante progenie della scimmia», e i più folli
+volumi della [[history|storia]] naturale medievale sarebbero stati passati al setaccio in cerca del
+significato dell'allusione. Più fissa e solida e sensata l'
+idea gli appariva, più oscura e fantastica sarebbe
+apparsa al mondo. La maggior parte di noi, in effetti, se mai diciamo qualcosa di
+prezioso, la diciamo quando diamo espressione a quella parte di noi
+che è diventata familiare e invisibile quanto il disegno sulla nostra carta
+da parati. È solo quando un'idea è diventata una cosa scontata per il
+pensatore che essa diventa sorprendente per il mondo.
+
+Vale la pena soffermarsi su questo punto preliminare del fondamento
+dell'oscurità di Browning, perché implica una questione importante su di
+lui. La nostra intera visione di Browning è destinata a essere assolutamente diversa,
+e credo assolutamente falsa, se partiamo dalla concezione che egli
+fosse ciò che i francesi chiamano un intellettuale. Se vediamo Browning con gli
+occhi dei suoi particolari seguaci, penseremo inevitabilmente questo. Poiché
+i suoi seguaci sono per eccellenza intellettuali, e non visse mai
+sulla terra un grand'uomo che fosse così fondamentalmente diverso dai propri
+seguaci. In effetti, egli lo sentì cordialmente e persino umoristicamente lui stesso.
+«Wilkes non era un Wilkiano», disse, «e io sono ben lungi dall'essere un
+browninghiano.» Fraintenderemo, come dico, del tutto Browning a
+ogni passo della sua carriera se supponiamo che egli fosse il tipo d'uomo che
+sarebbe stato incline a compiacersi nell'affermare la sottigliezza e
+l'astrusità del proprio messaggio. Si compiaceva, al di là di ogni dubbio, di
+sé stesso; nel senso più stretto del termine, godeva di sé. Ma
+la sua concezione di sé non fu mai quella dell'intellettuale. Egli
+concepiva sé stesso piuttosto come un uomo sanguigno e strenuo, un grande
+combattente. «Fui sempre», come dice, «un combattente.» I suoi difetti, una certa
+occasionale ferocia e grossolanità, erano i difetti che si contano
+come virtù tra sterratori e marinai e la maggior parte degli uomini primitivi. Le sue
+virtù, la fanciullaggine e l'assoluta fedeltà, e un [[Love|amore]] per le parole e le
+cose semplici sono le virtù che si contano come vizi tra i
+saccenti estetizzanti che gli rendono il più grande [[Honour|onore]]. Aveva il suo lato più
+discutibile, come gli altri uomini, ma non aveva nulla a che fare con
+l'egotismo letterario. Non era vanitoso di essere un uomo straordinario. Era
+solo alquanto eccessivamente vanitoso di essere un uomo ordinario.
+
+Il Browning dunque che pubblicò il _Sordello_ dobbiamo concepirlo non come un
+giovane pedante ansioso di esagerare la propria superiorità rispetto al pubblico,
+ma come un uomo dalla testa calda, dalla mente forte, inesperto ed essenzialmente
+umile, che aveva più idee di quante ne sapesse districare le une
+dalle altre. Se paragoniamo, per esempio, la complessità di Browning
+con la chiarezza di Matthew Arnold, ci renderemo conto che la causa
+sta nel fatto che Matthew Arnold era un [[aristocrat|aristocratico]] intellettuale,
+e Browning un democratico intellettuale. Le particolari peculiarità del
+_Sordello_ illustrano la cosa in modo molto significativo. Una gran parte
+della difficoltà del _Sordello_, per esempio, sta nel fatto che
+prima ancora che il lettore si accosti ad affrontare le difficoltà della
+narrazione vera e propria di Browning, ci si aspetta apparentemente che egli parta con
+una conoscenza esauriente di quella più ombrosa e sconcertante di tutte le
+epoche umane: il periodo delle lotte tra guelfi e ghibellini nell'
+[[Italy|Italia]] medievale. Qui, naturalmente, Browning tradisce semplicemente quell'
+impetuosa [[Humility|umiltà]] che abbiamo osservato in precedenza. Suo padre era uno
+studioso di cronache medievali, ed egli stesso aveva assorbito quella dottrina
+nello stesso modo casuale in cui un ragazzo impara a camminare o a giocare a
+cricket. Di conseguenza, in senso letterario, egli si precipitava dalla prima
+persona che incontrava e cominciava a parlare di Ecelo e Taurello Salinguerra
+con circa tanto egotismo letterario quanto ne mostra un bimbo inglese quando
+parla inglese a un organetto italiano. Al di là di questo, il poema del
+_Sordello_, per quanto potente, non presenta alcun avanzamento
+molto significativo nello sviluppo mentale di Browning rispetto a quello già rappresentato
+da _Pauline_ e _Paracelsus_. _Pauline, Paracelsus_ e _Sordello_
+stanno insieme nel fatto generale di essere tutti, nell'eccellente
+frase usata a proposito del primo dal signor Johnson Fox, «confessionali».
+Tutti e tre sono analisi della debolezza che ogni temperamento
+artistico trova in sé stesso. Browning scrive ancora di sé stesso, un soggetto
+del quale egli, come tutti gli uomini buoni e coraggiosi, era profondamente ignorante.
+Questa specie di [[Self|auto]]-analisi è sempre fuorviante. Poiché noi non vediamo in
+noi stessi quei tratti dominanti abbastanza forti da imporsi
+nell'azione che i nostri vicini vedono. Vediamo solo un guazzabuglio di minute
+esperienze mentali che comprendono tutti i peccati mai commessi
+da Nerone o da Sir Willoughby Patterne. Studiando noi stessi, stiamo
+guardando un affresco con una lente d'ingrandimento. Di conseguenza, queste prime
+impressioni che i grandi uomini hanno dato di sé sono quasi sempre
+calunnie contro sé stessi, poiché l'uomo più forte è debole di fronte alla propria
+[[Conscience|coscienza]], e l'[[Hamlet|Amleto]] fioriva con certezza persino dentro Napoleone.
+Così fu con Browning, il quale, quando aveva quasi ottant'anni, era destinato a
+scrivere con l'ilarità di uno scolaretto, ma che scrisse nella sua fanciullezza
+[[Poems|poemi]] dedicati ad analizzare la disgregazione finale dell'intelletto e dell'[[Soul|anima]].
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="Robert Browning — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
@@ -8091,6 +8718,14 @@ But when we come to look at the actual facts, they are strangely and
 almost unexpectedly otherwise.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+_Sordello_, con tutto il suo carico di erudizione, e con il carico quasi più opprimente di [[Beauty|bellezza]], non ha mai avuto alcuna influenza davvero importante nemmeno sui browninghiani, e per il resto del mondo il nome è divenuto uno scherzo. La cosa più veramente memorabile a suo riguardo fu ciò che Browning disse in risposta a tutte le beffe e le incomprensioni, una frase che esprime meglio di ogni altra quale genuino metallo fosse in lui: «Non biasimo nessuno, e me stesso meno di tutti, che feci allora e ho fatto da allora del mio meglio». Questo è davvero un modello per tutti gli uomini di lettere che non desiderano conservare soltanto le lettere e perdere l'uomo.
+
+Quando Browning parlò di nuovo, fu da un'altezza maggiore e con una voce nuova. La sua visita ad Asolo, «il suo primo [[Love|amore]]», come disse, «tra le città italiane», coincise con il fermento e la trasformazione del suo spirito e con la frantumazione di quello splendido palazzo di specchi in cui un uomo come Byron era vissuto ed era morto. Nel 1841 apparve _Pippa Passes_, e con esso il vero Browning del mondo moderno. Aveva fatto la scoperta che Byron non fece mai, ma che quasi ogni giovane infine fa: l'emozionante scoperta di non essere Robinson Crusoe. _Pippa Passes_ è il più grande poema mai scritto, con l'eccezione di uno o due di Walt Whitman, per esprimere il sentimento del puro [[Love|amore]] dell'umanità. La frase ha purtroppo un suono falso e pedantesco. L'[[Love|amore]] dell'umanità è una cosa che si suppone professata soltanto da volgari e invadenti filantropi, o da santi di un distacco e di un'universalità sovrumani. In realtà, l'[[Love|amore]] dell'umanità è il più comune e naturale dei sentimenti di una [[Nature|natura]] fresca, e quasi ognuno lo ha sentito posarsi capricciosamente su di sé guardando un parco affollato o una sala piena di danzatori. L'[[Love|amore]] di coloro che non conosciamo è un sentimento tanto eterno quanto l'[[Love|amore]] di coloro che conosciamo. Nei nostri amici la ricchezza della vita ci è provata da ciò che abbiamo guadagnato; nei volti per la strada la ricchezza della vita ci è provata dall'accenno di ciò che abbiamo perduto. E questo sentimento per volti estranei e vite estranee, quando è sentito intensamente da un giovane, si esprime quasi sempre in un [[Desire|desiderio]] di una specie di beneficenza vagabonda, un [[Desire|desiderio]] di attraversare il mondo spargendo bontà come un dio capriccioso. Si desidera che l'umanità dia la caccia invano al suo migliore amico come darebbe la caccia a un criminale; che egli sia un Salvatore anonimo, un [[Christ|Cristo]] non registrato. Browning, come tutti gli altri, quando fu risvegliato alla [[Beauty|bellezza]] e alla varietà degli uomini, sognò questo arrogante annientamento di [[Self|sé]]. Ha scritto di se stesso di aver a lungo vagamente pensato a un essere che passasse per il mondo, oscuro e innominabile, ma che plasmasse i destini altrui verso esiti più grandi e migliori. Poi entrò in gioco il suo istinto artistico quasi impeccabile e gli suggerì che questo essere, che egli drammatizzò nella lavorante Pippa, dovesse essere addirittura inconsapevole di tutto tranne che della propria felicità, e dovesse muovere le vite degli uomini con una gioia solitaria. Fu una concezione audace e commovente mostrarci questi gruppi umani maturi e tragici tutti, nel momento supremo, in ascolto furtivo della [[Solitude|solitudine]] di un [[Child|fanciullo]]. E fu un istinto ancor più preciso quello che indusse Browning a fare del benefattore errante una donna. L'opera buona di un uomo si compie facendo ciò che egli fa, quella di una donna con l'essere ciò che ella è.
+
+C'è un altro punto riguardo a _Pippa Passes_ che merita un momento d'attenzione. La grande difficoltà per quanto riguarda la comprensione di Browning è il fatto che, a quanto pare, quasi nessuno può essere indotto a prenderlo sul serio come [[artist|artista]] letterario. I suoi avversari considerano le sue stravaganze letterarie una squalifica per ogni posizione tra i poeti; e i suoi ammiratori considerano quelle stravaganze con l'affettuosa indulgenza di un circolo di zie zitelle verso un ragazzo tornato [[Home|a casa]] per le vacanze. Si suppone che Browning faccia della forma ciò che vuole, perché aveva uno schema di pensiero così profondo. Ma, in realtà, sebbene pochi dei suoi seguaci prendano sul serio la forma letteraria di Browning, egli prendeva molto sul serio la propria forma letteraria. Ora _Pippa Passes_ è, tra le altre cose, eminentemente notevole come forma artistica assai originale, una serie di scene sconnesse ma drammatiche che hanno in comune soltanto l'apparizione di una figura. Per questa ammirevole innovazione letteraria Browning, tra tutte le lodi della sua «mente» e del suo «messaggio», non ha quasi mai avuto credito. E proprio come dovremmo, se prendessimo Browning sul serio come poeta, vedere che egli aveva creato molte nobili forme letterarie, così dovremmo anche vedere che di [[Time|tempo]] in [[Time|tempo]] commise certi ben definiti errori letterari. Ce n'è uno, palese, in _Pippa Passes_; e, per quanto ne so, nessun critico ha mai pensato abbastanza a Browning come [[artist|artista]] da segnalarlo. È una grossolana falsificazione dell'intera [[Beauty|bellezza]] di _Pippa Passes_ far sì che il Monsignore e il suo complice nell'ultimo atto discutano un piano riguardante la sorte di Pippa stessa. L'intera idea centrale e splendida del dramma è il fatto che Pippa è del tutto remota dalle grandi persone le cui vite ella turba e trasforma. Farla infine risultare nipote di una di esse è come una zaffata di [[Melodrama|melodramma]] dell'Adelphi, cosa eccellente al suo posto, ma distruttiva dell'intera concezione di Pippa. Fatto ciò, Browning avrebbe potuto altrettanto [[Well|bene]] far risultare Sebald il suo fratello perduto da tempo, e Luigi un marito al quale ella era segretamente sposata. Browning commise questo errore quando la sua stessa splendida potenza artistica stava soltanto crescendo, e i suoi meriti e i suoi difetti erano ingarbugliati. Ma i suoi veri meriti letterari e i suoi veri difetti letterari sono rimasti ugualmente misconosciuti sotto l'influenza di quello sfortunato intellettualismo che idolatra Browning come metafisico e lo trascura come poeta. Ma una prova migliore stava arrivando. La poesia di Browning, nel senso più strettamente poetico, giunse alla sua fioritura nei _Dramatic Lyrics_, pubblicati nel 1842. Qui egli si mostrò [[artist|artista]] pittoresco e pungente in una maniera del tutto originale. E le due caratteristiche principali dell'opera erano le due caratteristiche più comunemente negate a Browning, sia dai suoi oppositori sia dai suoi seguaci: la passione e la [[Beauty|bellezza]]; ma la [[Beauty|bellezza]] aveva ampliato i suoi confini in nuovi modi di disposizione drammatica, e la passione aveva trovato voci nuove in versi fantastici e realistici. Coloro che suppongono Browning un poeta interamente filosofico costituiscono una grande maggioranza dei suoi commentatori. Ma quando arriviamo a guardare i fatti reali, essi sono stranamente e quasi inaspettatamente altrimenti.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="Robert Browning — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
@@ -8188,6 +8823,14 @@ does not think about heaven, but about a parasol. And therefore he is,
 first, the greatest of [[Love|love]] poets, and, secondly, the only optimistic
 philosopher except Whitman.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chiunque creda al carattere arrogantemente intellettuale della poesia di Browning scorra l'effettivo repertorio dei _Dramatic Lyrics_. Il primo elemento consiste in quegli splendidi canti di guerra chiamati «Cavalier Tunes». Non immagino che alcuno vorrà sostenere che vi sia in essi un qualche assai misterioso scopo metafisico. Il secondo elemento è la bella poesia «The Lost Leader», una poesia che esprime in versi perfettamente limpidi e lirici un'indignazione perfettamente normale e all'antica. È lo stesso, per quanto lontano spingiamo l'indagine. Quale teoria esprime la poesia successiva, «How they brought the Good News from Ghent to Aix», se non l'ardita speculazione che è spesso emozionante cavalcare un buon [[Horse|cavallo]] in Belgio? Quale teoria esprime la poesia dopo quella, «Through the Metidja to Abd-el-Kadr», se non che è anche di frequente emozionante cavalcare un buon [[Horse|cavallo]] in Africa? Poi viene «Nationality in Drinks», una mera stranezza tecnica senza un barlume di [[philosophy|filosofia]]; e dopo di essa quelle due del tutto squisite «[[Garden]] Fancies», la prima delle quali è dedicata all'astrusa tesi che una donna possa essere affascinante, e la seconda all'egualmente astrusa tesi che un libro possa essere una noia. Poi viene «The Soliloquy of the Spanish Cloister», dal quale il più ingegnoso «studioso di Browning» non può estrarre nulla se non che le persone a volte si odiano a vicenda in Spagna; e poi «The Laboratory», dal quale non potrebbe estrarre nulla se non che le persone a volte si odiano a vicenda in Francia. Questo è un resoconto perfettamente onesto delle [[Poems|poesie]] così come stanno. E le prime undici [[Poems|poesie]] lette di seguito sono notevoli per queste due caratteristiche evidenti: primo, che non contengono neppure un accenno di qualcosa che si possa chiamare [[philosophy|filosofia]]; e secondo, che contengono una considerevole proporzione delle migliori e più tipiche [[Poems|poesie]] che Browning abbia mai scritto. Si può ripetere che o egli scrisse queste liriche perché aveva un senso artistico, oppure è impossibile azzardare anche la più sfrenata congettura sul perché le scrisse.
+
+È lecito dire che i _Dramatic Lyrics_ rappresentano l'arrivo del vero Browning della [[history|storia]] letteraria. È vero che aveva già scritto molte [[Poems|poesie]] ammirevoli di un piano assai più ambizioso: _Paracelsus_ con la sua splendida versione dei difetti dell'intellettuale, _Pippa Passes_ con la sua bella deificazione dell'influenza inconsapevole. Ma la giovinezza è sempre ambiziosa e universale; l'opera matura mostra più individualità, più del tipo e del colore particolari dell'opera che un uomo è destinato a compiere. La giovinezza è universale, ma non individuale. Il genio che comincia la vita con un [[Doubt|dubbio]] assai genuino e sincero se sia destinato a essere un violinista squisito e idolatrato, oppure il più potente ed eloquente Primo Ministro dei tempi moderni, finisce infine col fare la scoperta che c'è, dopo tutto, una cosa, forse un certo stile di illustrare le filastrocche, che egli sa davvero fare meglio di chiunque altro. Questo è ciò che accadde a Browning; come tutti gli altri, egli dovette scoprire prima l'universo, poi l'umanità, e infine se stesso. Con lui, come con tutti gli altri, il grande [[Paradox|paradosso]] e la grande definizione della vita era questa, che l'[[Ambition|ambizione]] si restringe man mano che la mente si dilata. Nei _Dramatic Lyrics_ egli scoprì l'unica cosa che sapeva davvero fare meglio di chiunque altro: la [[Lyric|lirica]] drammatica. La forma è assolutamente originale: aveva scoperto un nuovo campo di poesia, e al centro di quel campo aveva trovato se stesso.
+
+La qualità effettiva, l'originalità effettiva della forma è un po' difficile da descrivere. Ma la sua caratteristica generale è l'uso intrepido e assai destro di cose [[Grotesque|grottesche]] al fine di esprimere emozioni [[Sublime|sublimi]]. Le migliori e più caratteristiche tra le [[Poems|poesie]] sono [[Love|amorose]] [[Poems|poesie]]; esprimono quasi alla perfezione il vero paese delle meraviglie della giovinezza, ma non lo esprimono con l'immaginario ideale della maggior parte dei poeti d'[[Love|amore]]. L'immaginario di queste [[Poems|poesie]] consiste, se possiamo fare una rapida rassegna della poesia d'[[Love|amore]] di Browning, in strade suburbane, fili di paglia, rastrelli da [[Garden|giardino]], flaconi di medicine, pianoforti, tende da [[Window|finestra]], sughero bruciato, eleganti cappotti di pelliccia. Ma con questo nuovo metodo egli espresse pienamente il vero essenziale, l'insaziabile realismo della passione. Se qualcuno volesse dimostrare che Browning non era, come si dice, il poeta del pensiero, ma per eccellenza uno dei poeti della passione, difficilmente potremmo trovare una prova migliore di questo elemento profondamente appassionato del sorprendente realismo di Browning nella poesia d'[[Love|amore]]. Non c'è nulla di così fieramente realistico come il sentimento e l'emozione. Il pensiero e l'intelletto si accontentano di accettare astrazioni, riassunti e generalizzazioni; si accontentano che dieci acri di terreno siano chiamati, per amor di argomento, X, e dieci rendite di vedove chiamate, per amor di argomento, Y; si accontentano che mille terribili e misteriose sparizioni dall'universo visibile siano riassunte come la [[Mortality|mortalità]] di un distretto, o che diecimila ebbrezze dell'[[Soul|anima]] portino il nome generico dell'istinto del sesso. Il razionalismo può vivere di aria e segni e numeri. Ma il sentimento deve avere realtà; l'emozione esige i campi reali, le reali case delle vedove, il vero cadavere, e la donna reale. E perciò la poesia d'[[Love|amore]] di Browning è la più bella poesia d'[[Love|amore]] del mondo, perché non parla di rapimenti e ideali e porte del cielo, ma di vetri delle [[Window|finestre]] e guanti e muri di [[Garden|giardino]]. Non tratta molto di astrazioni; è la più veritiera di tutta la poesia d'[[Love|amore]], perché non parla molto d'[[Love|amore]]. Ridesta in ogni uomo i ricordi di quell'istante immortale in cui cose comuni e morte avevano un significato al di là del potere di qualsiasi dizionario di esprimere, e un valore al di là del potere di qualsiasi milionario di calcolare. Egli esprime il [[Time|tempo]] celeste in cui un uomo non pensa al cielo, ma a un parasole. E perciò egli è, primo, il più grande dei poeti d'[[Love|amore]], e, secondo, l'unico filosofo ottimista eccetto Whitman.
 
 
 
@@ -8337,6 +8980,35 @@ Pharisee: something frightfully close and similar and yet an
 everlasting opposite.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La generale accusa mossa contro Browning riguardo al suo uso del [[Grotesque|grottesco]] entra qui in modo assai netto; poiché usando queste immagini domestiche e pratiche, queste allusioni che rasentano ciò che molti chiamerebbero il banale, egli era in verità fedele allo spirito reale e duraturo dell'[[Love|amore]]. In quella deliziosa poesia «Youth and Art» abbiamo la fanciulla che canta e dice al suo vecchio [[Lover|innamorato]]—
+
+«Nessun male! Non fu colpa mia
+se non voltasti mai la coda dell'occhio in su
+mentre tremavo sul Mi _in alt_,
+o salivo la scala cromatica.»
+
+Questo assomiglia molto di più alle vere schermaglie scherzose che passano tra coloro il cui cuore è colmo di nuova [[Hope|speranza]] o di vecchia [[Memory|memoria]] di quanto non facciano la metà dei grandi [[Poems|poemi]] del mondo. Browning non dimentica mai i piccoli particolari che a un uomo che abbia mai davvero vissuto possono d'improvviso scoccare una freccia nel cuore. Si prenda, per esempio, una questione come l'abbigliamento, così com'è trattata in «A [[Lover]]'s Quarrel».
+
+«Guarda, come appare ora, vestita
+con berretto e giubba da slitta!
+È un enorme mantello di pelliccia—
+come il giogo d'una renna
+ricade la falda lungo il petto:
+maniche per far riposare le sue braccia,
+o per pendere, come più piace al mio [[Love|Amore]].»
+
+Ciò servirebbe quasi come un ordine a una sarta, ed è perciò poesia, o almeno eccellente poesia di questo genere. Un potere così grande hanno queste cose morte di far presa sullo spirito vivente, che dubito se qualcuno potrebbe leggere per intero il catalogo di un'asta di oggetti disparati senza imbattersi in cose che, se realizzate per un istante, sarebbero vicine alle [[Tears|lacrime]] elementari. E se qualcuno di noi o tutti noi siamo veramente ottimisti, e crediamo, come credeva Browning, che l'esistenza abbia un valore del tutto inesprimibile, siamo spinti a quel sentimento nel modo più vero non da qualche argomentazione o trionfante giustificazione del cosmo, ma da alcune di queste momentanee e immortali visioni e suoni, un gesto, una vecchia [[Song|canzone]], un ritratto, un pianoforte, una vecchia porta.
+
+Nel 1843 apparve quel meraviglioso dramma _The Return of the Druses_, opera che contiene, esibite in una squisita forma letteraria, più delle qualità tipiche di Browning di quante se ne possano facilmente contare. Abbiamo in _The Return of the Druses_ il suo [[Love|amore]] per gli angoli della [[history|storia]], il suo interesse per la mente religiosa dell'Oriente, con il suo senso quasi terrificante di trovarsi nella mano del cielo, il suo [[Love|amore]] per il colore e la lussuria verbale, per l'oro e il verde e il porpora, che indusse alcuni a pensare che egli dovesse essere lui stesso un orientale. Ma, soprattutto, esso presenta il primo sorgere di quella grande [[Ambition|ambizione]] psicologica che Browning avrebbe d'allora in poi perseguito. In _Pauline_ e nei [[Poems|poemi]] che lo seguono, Browning ha soltanto il compito relativamente facile di dare conto di se stesso. In _Pippa Passes_ ha il compito solo un po' meno facile di dare conto dell'umanità. In _The Return of the Druses_ ha per la prima [[Time|volta]] il compito che è molto più arduo che dare conto dell'umanità: il compito di dare conto di un essere umano. Djabal, il grande impostore orientale, che è il personaggio centrale del dramma, è un personaggio particolarmente sottile, un composto di blasfeme e menzognere pretese di divinità con genuini e commoventi sentimenti patriottici e personali: è una fusione, per così dire, di una bassa divinità e di una nobile umanità. Egli è supremamente importante nella [[history|storia]] della mente di Browning, poiché è il primo di quella grande serie delle apologiæ di uomini apparentemente malvagi, sulla quale il poeta avrebbe riversato tanta parte della sua ricchezza immaginativa: Djabal, Fra Lippo, il vescovo Blougram, Sludge, il principe Hohenstiel-Schwangau, e l'[[Hero|eroe]] di _Fifine at the Fair_.
+
+Con questo dramma, per quanto un qualsiasi punto possa essere fissato in materia, egli entra per la prima [[Time|volta]] nella più preziosa di tutte le sue fatiche: la difesa dell'indifendibile. Si può notare che Browning non era affatto contento del fatto che certe fragilità umane fossero sempre state più o meno oggetto di un'indulgenza implicita; che tutto il sentimento umano avesse concordato che un dissoluto potesse essere generoso, o che un ubriacone potesse essere di animo elevato. Egli era insaziabile: desiderava andare oltre e mostrare, in un personaggio come Djabal, che un impostore potesse essere generoso e che un bugiardo potesse essere di animo elevato. In tutta la sua vita, va costantemente ricordato, egli tentò sempre le cose più difficili. Proprio come tentò i metri più bizzarri e cercò di padroneggiarli, così tentò le anime umane più bizzarre e cercò di mettersi al loro posto. La [[Charity|Carità]] era la sua [[philosophy|filosofia]] di fondo; ma era, per così dire, una fiera [[Charity|carità]], una [[Charity|carità]] che andava a caccia di uomini. Egli era una specie di [[Detective|detective]] cosmico che entrava nelle più immonde cucine dei ladri e accusava pubblicamente gli uomini di virtù. Il personaggio di Djabal in _The Return of the Druses_ è il primo di questa lunga serie di speranze disperate per il soccorso di castelli di cattiva condotta da tempo arresi. Come vedremo, persino il realizzare l'umanità di un nobile impostore come Djabal non appagò la sua erratica fame di bontà. Andò ancora oltre, e realizzò l'umanità di un vile impostore come Sludge. Ma in tutte le cose mantenne questa caratteristica essenziale, che non si accontentava di cercare i peccatori: cercava i peccatori che persino i peccatori scacciano.
+
+Il senso di [[Ambition|ambizione]] di Browning in materia di dramma continuò a crescere in questo [[Time|periodo]]. Va ricordato che egli aveva ogni naturale tendenza a essere teatrale, benché gli mancasse la lucidità essenziale. Non era, in realtà, un drammaturgo particolarmente privo di successo; ma nel mondo dei temperamenti astratti egli era per [[Nature|natura]] un drammaturgo privo di successo. Era, cioè, un uomo che amava sopra ogni cosa le parole schiette e sensazionali, le catastrofi aperte, una conclusione chiara e squillante a ogni cosa. Ma accadde, sfortunatamente, che le sue stesse parole non fossero schiette; che le sue catastrofi giungessero con una fragorosa e improvvisa incomprensibilità che lasciava gli uomini nel [[Doubt|dubbio]] se la cosa fosse una catastrofe o un gran colpo di fortuna; che la sua conclusione, benché risuonasse come una tromba ai quattro angoli del cielo, fosse nel suo effettivo messaggio del tutto inudibile. Siamo tenuti ad ammettere, sull'autorità di tutti i suoi migliori critici e ammiratori, che i suoi drammi non furono fallimenti, ma tutti possiamo sentire che avrebbero dovuto esserlo. Egli era, per così dire, per [[Nature|natura]] un drammaturgo trascurato. Era uno di quelli che conquistano la reputazione, in senso letterale, dell'eccentricità con i loro frenetici sforzi di raggiungere il centro.
+
+_A Blot on the 'Scutcheon_ seguì _The Return of the Druses_. In connessione con la rappresentazione di questo bellissimo dramma sorse un litigio che non varrebbe la pena di menzionare se non accadesse di illustrare la curiosa energica semplicità del carattere di Browning. Macready, che si trovava in condizioni finanziarie disperatamente misere in questo [[Time|periodo]], tentò con ogni mezzo concepibile di evitare di recitare la parte; schivò, tergiversò, tentò ogni evasione che gli venisse in mente, ma a Browning non venne mai in mente di capire che cosa intendesse. Egli scaricò la parte su Phelps, e Browning fu contento; la riprese, e Browning fu scontento soltanto per riguardo a Phelps. I due ebbero un litigio; erano entrambi uomini testardi e appassionati, ma il litigio riguardò interamente la sfortunata condizione di Phelps. Browning si calcò il proprio cappello sugli occhi; Macready scagliò il manoscritto di Browning con uno schiaffo sul pavimento. Ma per tutto il [[Time|tempo]] non venne mai in mente al poeta che la condotta di Macready fosse dettata da qualcosa di così crudo e semplice come un [[Desire|desiderio]] di denaro. Browning era in effetti, per i suoi principi e i suoi ideali, un uomo di mondo, ma nella sua vita ben altrimenti. Quell'agio mondano che per la maggior parte di noi è una [[Temptation|tentazione]] era per lui un ideale. Era, per così dire, un cittadino della Nuova Gerusalemme che desiderava, con perfetta [[Sanity|sanità]] e semplicità, essere un cittadino di Mayfair. C'era in lui una qualità che può essere descritta solo con la massima delicatezza; poiché era una virtù che porta una strana somiglianza con uno dei più meschini dei vizi. Quelle curiose persone che pensano che la [[Truth|verità]] sia una cosa che si può dire con violenza e con facilità potrebbero naturalmente chiamare Browning uno snob. Amava la società, la moda e persino la ricchezza: ma non c'è alcuna piaggeria nell'ammirare queste cose o qualsiasi cosa, se le ammiriamo per le giuste ragioni. Le ammirava come i mondani non sanno ammirarle: era, per così dire, il [[Child|fanciullo]] che entra col dessert. Aveva con lo snob la stessa relazione che l'uomo giusto ha col fariseo: qualcosa di spaventosamente vicino e simile e tuttavia un eterno opposto.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Robert Browning — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -8448,6 +9120,35 @@ before had it not been for certain peculiarities in the position of
 Miss Barrett. She was an invalid, and an invalid of a somewhat unique
 kind, and living beyond all question under very unique circumstances.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+
+BROWNING E IL SUO [[Marriage|MATRIMONIO]]
+
+Robert Browning aveva i suoi difetti, e la direzione generale di quei difetti è stata precedentemente suggerita. Il principale dei suoi difetti, una certa incontrollabile brutalità di parola e di gesto quando era fortemente eccitato, era destinato ad aggrapparsi a lui per tutta la vita, e a spaventare col bagliore di un vulcano perfino negli ultimi tranquilli anni prima della sua [[Death|morte]]. Ma chiunque desideri comprendere quanto fosse profonda l'elementare onestà e realtà del suo carattere, quanto profondamente egli fosse degno di ogni [[Love|amore]] che gli venisse concesso, non ha che da studiare un elemento assai sorprendente e determinante nella questione: la semplice, sentita e illimitata ammirazione di Browning per gli altri. Egli era di una generazione di grandi uomini, di grandi uomini che avevano un certo tipo peculiare, certi meriti e difetti peculiari. Carlyle, Tennyson, Ruskin, Matthew Arnold erano simili nell'essere figli di un'età assai strenua e coscienziosa, simili nel possederne la serietà e l'aria di decidere grandi questioni, simili anche nel mostrare una certa quasi nobile [[Jealousy|gelosia]], una certa irrequietezza, una certa [[Fear|paura]] di altre influenze. Browning [[Alone|solo]] non aveva [[Fear|paura]]; accoglieva, evidentemente senza la minima affettazione, tutte le influenze del suo tempo. Rimane una sua assai interessante lettera in cui descrive il suo piacere a un pranzo universitario. «La lode», dice in sostanza, «fu data assai meritatamente a Matthew Arnold e Swinburne, e a quell'[[Pride|orgoglio]] degli uomini di [[Oxford]], Clough». La cosa davvero notevole di questi tre nomi è il fatto che essi sono uniti nella lode di Browning in un modo in cui non sono affatto uniti l'uno nella lode dell'altro. Matthew Arnold, in una delle sue lettere superstiti, chiama Swinburne «un giovane pseudo-Shelley», il quale, secondo Arnold, crede di poter rendere buone le tragedie greche rendendole moderne. Il signor Swinburne, d'altra parte, ha riassunto Clough in una rima sprezzante:—
+
+«C'era un cattivo poeta di nome Clough,
+che gli amici si unirono tutti a esaltare.
+Ma il pubblico, per quanto ottuso,
+non ha proprio un cranio simile
+a quello che appartiene ai credenti in Clough.»
+
+Lo stesso fatto generale si troverà attraverso tutta la vita e l'atteggiamento critico di Browning. Adorava Shelley, e anche Carlyle che lo dileggiava. Si dilettava di Mill, e anche di Ruskin che si ribellava a Mill. Scusava Napoleone III e Landor che scagliava interminabili maledizioni contro Napoleone. Ammirava tutto il ciclo di grandi uomini che si disprezzavano l'un l'altro. Dire che non aveva una vena di invidia nella sua [[Nature|natura]] sarebbe vero, ma ingiusto; poiché non c'è giustificazione per attribuire all'invidia alcuna delle opinioni di questi grandi uomini. Ma Browning era davvero unico, in ciò che aveva una certa spontanea e irriflessa tendenza all'ammirazione degli altri. Ammirava un altro poeta come ammirava un tramonto che sbiadiva o una casuale foglia di [[spring|primavera]]. Non pensava se potesse essere buono quanto quell'uomo in quel campo, più di quanto pensasse se potesse essere più rosso del tramonto o più verde della foglia di [[spring|primavera]]. Era naturalmente magnanimo nel senso letterale di quella parola [[Sublime|sublime]]; la sua mente era così grande che gioiva dei trionfi degli estranei. In questo spirito Browning aveva già gettato lo sguardo intorno nel mondo letterario del suo [[Time|tempo]], ed era stato grandemente e giustificatamente colpito dall'opera di una giovane poetessa, la signorina Barrett.
+
+Quell'impressione era in verità ampiamente giustificata. In un [[Time|tempo]] in cui si riteneva necessario che una signora diluisse il vino della poesia fino alla sua tinta più tenue, la signorina Barrett era riuscita a produrre una poesia esposta all'obiezione letteraria di essere troppo inebriante e troppo accesa di colore. Quando errava, era per un'audacia e una lussureggianza elisabettiane, uno sforzo verso metafore violente. Con lei ricomparve nella poesia un certo elemento che non vi era stato presente dagli ultimi giorni della letteratura elisabettiana, la fusione della più elementare passione umana con qualcosa che può essere descritto soltanto come arguzia, un certo [[Love|amore]] per similitudini bizzarre e sostenute, per paralleli follemente logici, e per il [[Paradox|paradosso]] sfrontato e l'antitesi. Troviamo questa calda arguzia, distinta dalla fredda arguzia della scuola di Pope, nei giochi di parole e nelle buffonerie di Shakespeare. La troviamo indugiare in _Hudibras_, e non la troviamo di nuovo finché non giungiamo a versi tanto strani e forti quanto questi di Elizabeth Barrett nella sua poesia su Napoleone:—
+
+«Il [[Blood|Sangue]] cadde come rugiada sotto la sua aurora—invero,
+ma brillò simile a rugiada nella pattuita
+e alta luce raggiante. Era un despota—concesso,
+ma l'[Greek: autos] della sua bocca autocratica
+disse 'Sì' nel francese del popolo! Egli magnificò
+l'immagine della [[Freedom|libertà]] che negava.»
+
+Le sue [[Poems|poesie]] sono piene di cose bizzarre, di cose come gli occhi nei ventagli di piume di pavone del Vaticano, che ella descrive nell'atto di ammiccare al tricolore italiano. Spesso compiva il passo dal [[Sublime|sublime]] al ridicolo: ma per compiere questo passo bisogna raggiungere il [[Sublime|sublime]]. Elizabeth Barrett riuscì ad affermare, ciò che ancora ha bisogno ma allora aveva urgente bisogno di affermazione, il fatto che la femminilità, sia nella vita sia nella poesia, era una cosa positiva, e non il negativo della virilità. Il suo verso, al suo meglio, era del tutto forte quanto quello di Browning stesso, e quasi altrettanto abile. La differenza tra le loro nature era una differenza tra due colori primari, non tra tonalità scure e chiare dello stesso colore.
+
+Browning aveva spesso sentito parlare non solo della vita pubblica, ma anche di quella privata di questa signora dall'amico di suo padre, Kenyon. Il vecchio, che era una di quelle rare e preziose persone che hanno il talento di stabilire relazioni definite con la gente dopo un rapporto relativamente breve, era stato nominato dalla signorina Barrett suo «padrino delle fate». Egli parlava molto di lei a Browning, e di Browning a lei, con una certa cortese loquacità che era uno dei suoi talenti. E poteva esservi ben poco [[Doubt|dubbio]] che i due poeti si sarebbero incontrati assai prima, se non fosse stato per certe peculiarità nella posizione della signorina Barrett. Era un'inferma, e un'inferma di tipo alquanto singolare, e viveva, fuor di ogni dubbio, in circostanze assai singolari.
 
 
 
@@ -8576,6 +9277,16 @@ heart's wishes avail," replied Browning obstinately, "you shall laugh
 at east winds yet as I do."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Suo padre, Edward Moulton Barrett, era stato un proprietario terriero nelle Indie Occidentali, e così, per una coincidenza alquanto curiosa, aveva avuto parte nello stesso sistema sociale che spinse il padre di Browning alla rivolta e alla [[Renunciation|rinuncia]]. La parte recitata da Edward Barrett, tuttavia, benché poco o nulla se ne sappia, fu probabilmente assai diversa. Era un uomo conservatore per [[Nature|natura]], un credente nell'autorità nella nazione e nella famiglia, e dotato di alcune facoltà per far prevalere le sue concezioni. Era un uomo capace, atto nel suo linguaggio a una certa amara felicità di frase. Era rigidamente retto e responsabile, e aveva una capacità di profondo affetto. Ma l'egoismo del tipo più pericoloso, un egoismo inconsapevole, gli corrodeva le fondamenta morali, come tende a corrodere quelle di tutti i despoti. I suoi umori più fuggevoli mutavano e controllavano l'intera atmosfera della [[house|casa]], e lo stato delle cose era del tutto opprimente nel caso dei suoi buoni umori come nel caso di quelli cattivi. Egli aveva quello che è forse il più sottile e peggiore spirito di egotismo, non semplicemente quello spirito che pensa che nulla debba ostacolare il suo malumore, ma quello spirito che pensa che nulla debba ostacolare la sua amabilità. Le sue figlie dovevano essere assolutamente ai suoi ordini, che fosse per essere strapazzate o accarezzate. Durante i primi anni della vita di Elizabeth Barrett, la famiglia aveva vissuto in campagna, e per quel breve periodo ella aveva conosciuto una vita più sana di quella che era destinata a conoscere mai più fino al suo [[Marriage|matrimonio]] molto tempo dopo. Non era, come vuole l'idea popolare generale, un'inferma assolutamente congenita, debole e quasi moribonda dalla culla. Nella prima fanciullezza era invero esile e sensibile, ma perfettamente attiva e coraggiosa. Era una buona cavallerizza, e l'incidente che la menomò per tanti anni dopo le accadde mentre cavalcava. La lesione alla spina dorsale, tuttavia, si troverà, quanto più studiamo la sua [[history|storia]], essere soltanto una delle influenze che dovevano oscurare quegli anni costretta a letto, e ad avere tra esse un posto assai meno importante di quanto finora le sia stato attribuito. Suo padre si trasferì in una [[Melancholy|malinconica]] [[house|casa]] a Wimpole Street; e il suo stesso carattere, facendosi più cupo e strano col passare del [[Time|tempo]], montò la guardia sul letto di malata della figlia in un modo composto del pessimista e del disciplinare. Non le era permesso muoversi dal divano, spesso nemmeno di [[Cross|attraversare]] due stanze per raggiungere il letto. Suo padre veniva e pregava su di lei con una specie di [[Melancholy|malinconica]] esultanza, e con la dichiarata solennità di un vegliante presso un letto di morte. Era circondata da quella più velenosa e degradante di tutte le atmosfere: un'atmosfera medica. L'esistenza di questa atmosfera non ha nulla a che fare con l'effettiva [[Nature|natura]] o il prolungamento della malattia. Un uomo può trascorrere tre ore su cinque in uno stato di cattiva salute, e tuttavia considerare, come considerava Stevenson, le tre ore come eccezionali e le due come normali. Ma la maledizione che gravava sulla famiglia Barrett era la maledizione di considerare la cattiva salute la condizione naturale di un essere umano. La [[Truth|verità]] era che Edward Barrett viveva emotivamente ed esteticamente, come qualche detestabile poeta decadente, sul declino della figlia. Non lo sapeva, ma era così. Scene, spiegazioni, preghiere, furia e [[Forgiveness|perdono]] erano divenuti pane e carne di cui aveva fame; e quando la nube era sul suo spirito, egli sferzava tutte le cose e ognuno con l'insaziabile crudeltà del sentimentale.
+
+È meraviglioso che Elizabeth Barrett non sia stata resa del tutto morbosa e impotente da questa intollerabile violenza e da questa più intollerabile tenerezza. Nella stima della propria salute ella soffrì, certamente. È evidente che praticamente si credeva morente. Ma era una donna d'animo fiero, colma di quel silenzioso e del tutto insondabile genere di [[Courage|coraggio]] che si trova soltanto nelle donne, e prendeva una veduta assai più allegra della [[Death|morte]] di quanto suo padre facesse della vita. Stanze silenziose, voci sommesse, tende abbassate, lunghe giornate di [[Loneliness|solitudine]], e della specie più malaticcia di compassione, non avevano domato uno spirito che era rapido e impetuoso fino all'eccesso. Poteva ancora riconoscere con [[Truth|verità]] il magnifico fatto che il suo vizio principale era l'impazienza, «lo strappare i pacchi invece di scioglierli»; il guardare la fine dei libri prima di averli letti era, diceva, in lei incurabile. È difficile immaginare qualcosa di più genuinamente commovente del risultato di questa donna, che riuscì così, pur possedendo tutte le scuse di un'inferma, a conservare alcuni dei difetti di una monella.
+
+Impetuosità, vivacità, una certa assolutezza e urgenza nelle sue richieste, la contraddistinguevano agli occhi di tutti coloro che venivano a contatto con lei. Negli anni successivi, quando Browning si era sperimentalmente rasato la barba, ella gli disse con gesti enfatici che doveva essere fatta ricrescere «in quel minuto». Là abbiamo assai graficamente lo spirito che [[Tears|strappa]] i pacchi. Non invano, né come mera frase, il marito, dopo la [[Death|morte]] di lei, la descrisse come «tutta [[Wonder|Meraviglia]] e selvaggio [[Desire|Desiderio]]».
+
+Ella aveva, naturalmente, vissuto la sua seconda e reale vita nella letteratura e nelle cose della mente, e questo in senso assai genuino e strenuo. Le sue occupazioni mentali non erano meri talenti meccanici quasi altrettanto incolori della monotonia che alleviavano, né erano colorate in alcun modo visibile dall'atmosfera malsana in cui respirava. Usava il cervello seriamente; era una buona grecista, e leggeva Eschilo ed Euripide incessantemente col suo amico cieco, il signor Boyd; e aveva, e conservò fino all'ora della sua [[Death|morte]], un interesse appassionato e del tutto pratico per le grandi questioni pubbliche. Naturalmente non era disinteressata a Robert Browning, ma non pare che ella sentisse in questo [[Time|tempo]] la stessa specie di ardente curiosità artistica che egli sentiva per lei. Egli pare invero aver provato un'attrazione, che può quasi essere chiamata mistica, per la personalità che era velata al mondo da così fosche cortine. Nel 1845 le indirizzò una lettera in cui parlava di una precedente occasione in cui si erano quasi incontrati, e la paragonava alla sensazione di essere stato una volta fuori dalla cappella di qualche meravigliosa illuminazione e di aver trovato la porta sbarrata contro di lui. In quella frase è facile vedere quanto della romantica fanciullezza di Browning rimanesse dentro il risoluto uomo di mondo in cui, a ogni apparenza esterna, si stava solidificando. La signorina Barrett rispose alle sue lettere con incantevole sincerità e [[Humour|umorismo]], e con molta di quella agiata rivelazione di [[Self|sé]] che è possibile per un'inferma che non ha altro da fare. Ella stessa, col suo [[Love|amore]] per la quiete e la compagnia intellettuale, sarebbe stata probabilmente del tutto felice per il resto della vita se le loro relazioni fossero sempre rimaste una dotta e deliziosa corrispondenza. Ma doveva conoscere assai poco Robert Browning se immaginava che egli si sarebbe accontentato di questo etereo e incruento legame. In ogni momento della sua vita egli fu abbastanza affezionato al suo modo di fare; in questo [[Time|tempo]] era specialmente pronto e impulsivo, e aveva sempre avuto un grande [[Love|amore]] per vedere e udire e sentire le persone, un [[Love|amore]] per la presenza fisica degli amici, che lo faceva battere gli uomini sulla schiena e colpirli nel petto quando era assai affezionato a loro. La corrispondenza tra i due poeti non era cominciata da molto quando Browning suggerì qualcosa che era quasi una bestemmia nella famiglia Barrett: che egli venisse a farle visita come avrebbe fatto con chiunque altro. Ciò pare averla gettata in un turbamento di [[Fear|paura]] e [[Doubt|dubbio]]. Ella adduce ogni sorta di ostacoli, il principale dei quali erano la sua salute e la stagione dell'anno e i venti dell'est. «Se i più veri desideri del mio cuore valgono qualcosa», replicò Browning ostinatamente, «un giorno riderai dei venti dell'est come faccio io».
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="Robert Browning — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -8691,6 +9402,18 @@ impudently of them now? Is that plain?" Most probably she thought it
 was.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Allora ebbe inizio la parte principale di quella celebre corrispondenza che negli anni relativamente recenti è stata posta dinanzi al mondo. È una corrispondenza che ha qualità assai peculiari e solleva molte profonde questioni.
+
+È impossibile trattare a qualche lunghezza il quadro dato in queste notevoli lettere del graduale progresso e amalgama di due spiriti di grande potenza e indipendenza naturale, senza dire almeno una parola sulla questione morale sollevata dalla loro pubblicazione e sulle molte espressioni di disapprovazione che essa comporta. Alla mente di chi scrive, l'intera questione dovrebbe essere valutata mediante una distinzione e un confronto intellettuali perfettamente chiari. Non sono disposto ad ammettere che vi sia o possa esservi, propriamente parlando, al mondo alcunché di troppo sacro per essere conosciuto. Che la [[Beauty|bellezza]] spirituale e la [[Truth|verità]] spirituale siano nella loro [[Nature|natura]] comunicabili, e che debbano essere comunicate, è un principio che sta alla radice di ogni concepibile religione. [[Christ|Cristo]] fu crocifisso su un [[Hill|colle]], e non in una caverna, e la parola stessa Vangelo implica la medesima idea del nome comune di un quotidiano. Ogniqualvolta, perciò, un poeta o un simile tipo d'uomo può, o crede di poter, rendere tutti gli uomini partecipi di qualche splendido segreto del proprio cuore, non riesco a immaginare nulla di più sano e nulla di più virile del suo agire così. Fu così che [[Dante]] fece un nuovo cielo e un nuovo inferno dal cenno di una fanciulla nelle strade di Firenze. Fu così che Paolo fondò una civiltà tenendo un diario etico. Ma l'unica cosa essenziale che esiste in tutti questi casi è che l'uomo in questione crede di poter rendere la storia altrettanto solenne al mondo intero quanto lo è per lui, e sceglie le sue parole a tal fine. Eppure, quando un'opera contiene espressioni che hanno un valore e un significato quando lette dalle persone a cui erano indirizzate, e un valore e un significato del tutto diversi quando lette da chiunque altro, allora sorge l'elemento della violazione della santità. Non è perché vi sia qualcosa in questo mondo di troppo sacro per essere detto. È piuttosto perché vi sono moltissime cose in questo mondo troppo sacre per essere [[Parody|parodiate]]. Se Browning potesse davvero trasmettere al mondo il nucleo più intimo del suo affetto per la moglie, non vedo ragione perché non dovrebbe. Ma l'obiezione alle lettere che cominciano con «Mia cara Ba» è che esse non trasmettono nulla del genere. Per quanto riguarda una qualsiasi terza persona, Browning avrebbe potuto altrettanto [[Well|bene]] esprimere il più nobile e universale dei sentimenti nel dialetto dei Cherokee. L'obiezione alla pubblicazione di passi come quello, in breve, non è il fatto che ci dicano dell'[[Love|amore]] dei Browning, ma che non ce ne dicano nulla.
+
+Su questo principio è ovvio che avrebbe dovuto esservi una selezione tra le Lettere, ma non una selezione che escludesse qualcosa semplicemente perché ardente e nobile. Se Browning o la signora Browning non avessero desiderato che alcuno sapesse che si volevano bene, non avrebbero scritto e pubblicato «One Word More» o i «Sonnets from the Portuguese». Anzi, non si sarebbero sposati in una chiesa pubblica, poiché chiunque si sposi in una chiesa fa una confessione d'[[Love|amore]] di assoluta pubblicità nazionale, e tacitamente, perciò, ripudia ogni idea che tali confessioni siano troppo sacre perché il mondo le conosca. La ridicola teoria secondo cui gli uomini non dovrebbero avere nobili passioni o sentimenti in pubblico può essere stata concepita per rendere la vita privata santa e immacolata, ma non ha avuto quasi alcun effetto reale se non rendere la vita pubblica cinica e assurdamente priva di senso. Ma le parole di un poema o le parole del rito inglese del [[Marriage|Matrimonio]], che sono belle quanto molte [[Poems|poesie]], sono un linguaggio dignitoso e deliberatamente inteso a essere compreso da tutti. Se lo sposo e la sposa in chiesa, invece di pronunciare quelle parole, pronunciassero un poema composto di allusioni private alle debolezze della zia Matilde, o di infantili [[Secrets|segreti]] che si racconterebbero l'un l'altro in un vicolo, sarebbe un caso parallelo alla pubblicazione di alcune delle Lettere di Browning. Perché le porzioni serie e universali di quelle Lettere non potessero essere pubblicate senza quelle che per noi sono oziose e prive di senso è difficile da comprendere. La nostra saggezza, sia espressa in privato sia in pubblico, appartiene al mondo, ma la nostra follia appartiene a coloro che [[Love|amiamo]].
+
+C'è almeno una peculiarità nelle Lettere di Browning che tende a rendere la loro pubblicazione assai meno esposta all'obiezione di quasi ogni altra raccolta di lettere d'[[Love|amore]] che si possa immaginare. L'ordinario sentimentale che si diletta delle più emotive interviste da rivista non sarà in grado di trarne molta soddisfazione, perché egli e molte persone più acute saranno del tutto incapaci di raccapezzarsi in tre frasi consecutive. Sotto questo aspetto è la più straordinaria corrispondenza del mondo. Paiono esservi soltanto due regole principali per questa forma di scrittura epistolare: la prima è che, se una frase può cominciare con una parentesi, sempre dovrebbe; e la seconda è che, se si è scritto da un terzo a metà di una frase, non occorre in nessun caso scriverne più. Sarebbe divertente osservare chiunque provasse un'oziosa curiosità circa il linguaggio e i [[Secrets|segreti]] degli [[lovers|innamorati]] aprire le Lettere di Browning. Egli probabilmente si imbatterebbe in qualche passo semplice e limpido come il seguente: «Dovrei aspettare, diciamo almeno una settimana, avendoti ucciso tutti i muli, prima di abbattere i tuoi [[dogs|cani]].... Ma non essendo Phoibos Apollon, devi sapere inoltre che quando _pensai_ di poter procedere modestamente... [Greek: ômoi], lasciami uscire da questo pantano di similitudine, non importa con quali caviglie slogate».
+
+Che cosa il nostro immaginario sentimentale farebbe di questo tenero passo è davvero difficile immaginare. L'unica chiara conclusione che pare emergere dalle parole è quella alquanto curiosa: che Browning aveva l'abitudine di portare un fucile giù a Wimpole Street e di demolire il bestiame di quei locali alquanto poco promettenti. Né sarà meglio illuminato se si volge alla risposta della signorina Barrett, che pare egualmente dominata dalla grande idea centrale della corrispondenza di Browning, che i passi più illuminanti di una lettera consistono di puntini. Ella replica in una lettera successiva alla precedente: «Ma se fosse possibile che tu intenda dire che mi mostreresti.... Può essere? o sto leggendo questa 'contrazione attica' proprio nel modo sbagliato. Vedi, ho paura della differenza tra il lusingare me stessa e l'essere lusingata... la fatale differenza. E ora vorrai capire che sarei troppo felice di avere rivelazioni dalla Cartella... per quanto incarnate di macchie e sgorbi di penna... da poter chiederle sfrontatamente ora? È chiaro?». Assai probabilmente ella pensava che lo fosse.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="Robert Browning — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -8789,6 +9512,14 @@ of good behaviour from the nearest Independent chapel in the
 other!--'Why, even _then_,' said my sister Arabel, 'it would not
 _do_.' And she was right; we all agreed that she was right."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Riguardo a Browning stesso questa caratteristica è comparativamente naturale e appropriata. La prosa di Browning era in ogni caso la cosa più tortuosa del mondo. Coloro che lo conobbero dicono che egli spesso mandava un telegramma urgente dal quale era assolutamente impossibile ricavare dove fosse l'appuntamento, o quando fosse, o quale ne fosse lo scopo. Questo fatto è uno dei migliori di tutti gli argomenti contro la teoria della presunzione intellettuale di Browning. Un uomo dovrebbe essere alquanto anormalmente presuntuoso per spendere sei pence per il piacere di mandare una comunicazione incomprensibile a scapito dei propri piani. Il fatto era che faceva parte del meccanismo del suo cervello che le cose ne uscissero, per così dire, all'indietro. Le parole «con la coda per prima» esprimono lo stile di Browning con qualcosa di più di una convenzionale accuratezza. La coda, la parte più insignificante di un animale, è anche spesso la più animata e fantastica. Un'espressione di Browning è spesso come uno strano animale che cammina all'indietro, il quale agita la coda con tale energia che ognuno la scambia per la testa. Egli era, in altre parole, almeno nella sua prosa e nelle sue espressioni pratiche, più o meno incapace di raccontare una storia senza raccontare per prima la cosa meno importante. Se un uomo appartenente a una società segreta italiana, un ramo locale della quale portava come distintivo un nastro verde oliva, fosse entrato nella sua [[house|casa]], e in qualche sensazionale colloquio avesse tentato di corromperlo o ricattarlo, egli avrebbe raccontato la storia con grande energia e indignazione, ma sarebbe stato incapace di cominciare con qualcosa che non fosse la questione del colore delle olive. Il suo intero metodo era fondato, tanto nella letteratura quanto nella vita, sul principio dell'«ex pede Herculem», e all'inizio della sua descrizione di Ercole il piede appare di alcune misure più grande dell'[[Hero|eroe]]. È, in breve, abbastanza naturale che Browning abbia scritto oscuramente le sue lettere d'[[Love|amore]], poiché scriveva oscuramente le lettere al suo editore e al suo procuratore. Nel caso della signora Browning è alquanto più difficile da comprendere. Poiché ella almeno aveva, fuor di ogni dubbio, una vena di [[Humour|umorismo]] del tutto semplice e limpida, che non si concilia facilmente con questa sottigliezza. Ma ella era in parte sotto l'influenza della propria qualità di appassionata ingegnosità o arguzia emotiva di cui abbiamo già preso nota trattando delle sue [[Poems|poesie]], ed era in parte anche, senza [[Doubt|dubbio]], sotto l'influenza di Browning. Quale che fosse la ragione, la loro corrispondenza non era del genere che possa essere seguito molto dal pubblico esterno. Le loro lettere possono essere pubblicate cento volte, restano tuttavia private. Si scrivono l'un l'altro in una lingua tutta loro, una lingua quasi esasperantemente impressionista, una lingua consistente principalmente di puntini e trattini e asterischi e corsivi, e parentesi e punti interrogativi. Wordsworth, quando udì in seguito della loro eventuale fuga d'amore, disse con quel lieve tocco di amarezza che usava sempre nel parlare di Browning: «Così Robert Browning e la signorina Barrett se ne sono andati insieme. [[Hope|Spero]] che si capiscano l'un l'altro: nessun altro lo farebbe». Sarebbe difficile rendere un più alto complimento a un [[Marriage|matrimonio]]. Il loro comune affetto per Kenyon era un grande elemento nelle loro vite e nella loro corrispondenza. «Ho una comoda teoria per spiegare il signor Kenyon», scrive Browning misteriosamente, «e la sua altrimenti inspiegabile gentilezza verso di me». «Per la gentilezza del signor Kenyon», ribatte Elizabeth Barrett, «nessuna teoria darà conto. La classifico col [[Mesmerism|mesmerismo]] per questa ragione». C'è qualcosa di assai dignitoso e bello nella semplicità di questi due poeti che gareggiano l'un l'altro nel dare adeguata lode al vecchio dilettante, di cui il mondo non avrebbe mai sentito parlare se non fosse per loro. Il sentimento di Browning per lui era invero particolarmente forte e tipico. «Là», disse, indicando il vecchio mentre lasciava la stanza, «là va uno degli uomini più splendidi viventi: un uomo così nobile nella sua [[Friendship|amicizia]], così prodigo nella sua ospitalità, così grande di cuore e benevolo, che merita di essere conosciuto in tutto il mondo come 'Kenyon il Magnifico'». C'è qualcosa di pienamente degno di Browning al suo meglio in questo sentimento, non semplicemente dell'utilità della socievolezza, o del fascino della socievolezza, ma della magnificenza, dell'eroica grandezza della vera socievolezza. Essendo egli stesso un caldo campione dei piaceri della società, vedeva in Kenyon una specie di genio poetico per la cosa, una missione di superficiale filantropia. È pienamente da congratularsi per il fatto che egli aveva afferrato la grande ma ora trascurata [[Truth|verità]], che un uomo può realmente essere grande, e tuttavia non essere affatto capace.
+
+Il [[Desire|desiderio]] di Browning di incontrare la signorina Barrett fu accolto, da parte di lei, come si è detto, con una varietà di obiezioni. La principale di esse era la stranamente femminile e irrazionale ragione che non valeva la pena di vederla, punto sul quale a chi cercava un colloquio poteva essere permesso di formarsi una propria opinione. «Non c'è nulla da vedere in me; né da udire in me. Non ho mai imparato a conversare come fate voi a [[London|Londra]]; benché io possa ammirare quella brillantezza di eloquio cesellato nel signor Kenyon e in altri. Se la mia poesia vale qualcosa a qualche occhio, essa è il fiore di me. In essa ho vissuto di più e sono stata più felice, e così ha tutti i miei colori; il resto di me non è che una radice, adatta al suolo e all'oscurità». La sostanza della risposta di Browning fu in effetti: «Verrò alle due, martedì».
+
+Si incontrarono il 20 maggio 1845. Poco [[Time|tempo]] dopo egli si era preso d'[[Love|amore]] per lei e le aveva fatto un'offerta di [[Marriage|matrimonio]]. A una persona nell'atmosfera domestica dei Barrett, l'episodio sarebbe apparso paralizzante. «Ti dirò ciò che una volta dissi per scherzo...», scrive ella, «se un principe di El Dorado venisse con un albero genealogico di discendenza lineare da qualche signoria nella [[Moon|Luna]] in una mano e un attestato di buona condotta della più vicina cappella indipendente nell'altra! — 'Ebbene, anche _allora_', disse mia sorella Arabel, 'non _andrebbe_ bene'. E aveva ragione; convenimmo tutti che aveva ragione».
 
 
 
@@ -8894,6 +9625,16 @@ on it as on a harp. Barrett was one of the oppressors who have
 discovered the last secret of oppression, that which is told in the
 fine verse of Swinburne:--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo può essere preso come una descrizione abbastanza accurata del reale stato d'animo di Mr. Barrett su un dato argomento. È illustrativo del lato migliore e più arioso del carattere di Elizabeth Barrett che ella potesse essere così genuinamente spiritosa a proposito di una condizione tanto tragica della mente umana.
+
+Le proposte di Browning erano, naturalmente, per come stavano le cose, di natura tale da sgomentare e respingere tutti coloro che circondavano Elizabeth Barrett. Non era del tutto una questione dei capricci di suo padre. L'intera sua famiglia, e con ogni probabilità la maggioranza dei suoi consulenti medici, credevano seriamente in quel [[Time|tempo]] che ella non fosse in condizione di essere spostata, per non parlare di sposarsi, e che una vita trascorsa tra un letto e un sofà, evitando transizioni troppo frequenti e brusche persino dall'uno all'altro, fosse l'unica vita che potesse aspettarsi su questa terra. Quasi [[Alone|solo]] nel sostenere un'altra opinione e nell'esortarla a una visione più vigorosa della propria condizione, stava Browning stesso. «Ma tu stai meglio», diceva; «lo mostri e lo dici.» Quale delle due opinioni fosse giusta è naturalmente una complessa questione medica in cui un libro come questo non ha né il diritto né la necessità di entrare. Ma questo si può affermare come mera questione di fatto. Nell'[[Summer|estate]] del 1846 Elizabeth Barrett viveva ancora sotto la grande convenzione familiare che non le forniva altro che un elegante letto di morte, cui era vietato muoversi, vietato vedere la vera luce del giorno, vietato ricevere un amico per timore che lo shock potesse distruggerla all'improvviso. Un anno o due dopo, in [[Italy|Italia]], come Mrs. Browning, veniva trascinata su per la [[Hill|collina]] dentro una cesta da vino, arrancando fino alle creste dei [[Mountains|monti]] alle quattro dell'[[Clock|orologio]] del mattino, cavalcando per cinque miglia su un [[donkey|asino]] verso quello che ella chiama «un inaccessibile terreno vulcanico non lontano dalle [[Stars|stelle]]». È perfettamente incredibile che chiunque fosse malato quanto la sua famiglia la credeva potesse aver vissuto questa vita anche solo per ventiquattr'ore. Qualcosa va concesso all'ebbrezza di un nuovo legame e di un nuovo interesse per la vita. Ma tali esaltazioni possono, per loro [[Nature|natura]], durare a stento un mese, e Mrs. Browning visse per quindici anni in seguito in una salute infinitamente migliore di quanta ne avesse mai conosciuta prima. Alla luce del sapere moderno non è molto difficile né molto presuntuoso, da parte nostra, supporre che ella fosse stata nella [[house|casa]] di suo padre in qualche misura inoculata con l'isteria, quella strana afflizione di cui alcuni parlano come se significasse l'assenza di malattia, ma che è in [[Truth|verità]] la più terribile di tutte le malattie. Occorre ricordare che nel 1846 poco o nulla si sapeva delle affezioni della colonna vertebrale come quella di cui soffriva Elizabeth Barrett, ancor meno delle condizioni nervose che esse creano, e meno che mai dei fenomeni isterici. Ai giorni nostri le sarebbero stati prescritti aria e luce solare e attività, e tutte quelle cose la cui sola idea agghiacciava i Barrett di terrore. Ai giorni nostri, in breve, si sarebbe riconosciuto che ella era nella morsa di una forma di nevrosi che esibisce ogni fatto di una malattia tranne la sua origine, quella strana possessione che rende il [[Body|corpo]] stesso un ipocrita. Coloro che circondavano Miss Barrett non sapevano nulla di questo, e Browning non ne sapeva nulla; e probabilmente, se sapeva qualcosa, ne sapeva meno di loro. Mrs. Orr dice, probabilmente con molta [[Truth|verità]], che della cattiva salute e delle sue sensazioni egli rimase «pateticamente ignorante» fino al giorno della sua morte. Ma per quanto fosse privo tanto di sapere specialistico quanto di esperienza personale, senza un'[[Shadow|ombra]] di autorità medica, quasi senza nulla che si possa formalmente chiamare un diritto alla propria opinione, egli aveva, e continuò ad avere, ragione. Egli almeno vide, egli anzi [[Alone|solo]] vide, il centro pratico della situazione. Non sapeva nulla di isteria o di nevrosi, o dell'influenza dell'ambiente, ma sapeva che l'atmosfera della [[house|casa]] di Mr. Barrett non era cosa adatta ad alcun essere umano, vivo, morente o morto. La sua posizione su questa faccenda ha davvero un certo interesse umano, poiché è un esempio di una cosa che di [[Time|tempo]] in [[Time|tempo]] accade, l'interposizione dell'uomo comune a smentita degli esperti. Gli esperti hanno indubbiamente ragione nove volte su dieci, ma giunge la decima [[Time|volta]], e troviamo in campo militare un [[Oliver]] Cromwell che commetterà ogni errore noto alla strategia e tuttavia vincerà tutte le sue battaglie, e in campo medico un Robert Browning le cui opinioni non hanno una gamba tecnica su cui reggersi e sono interamente corrette.
+
+Ma mentre Browning stava così [[Alone|solo]] nella sua visione della faccenda, mentre Edward Barrett aveva a tutta apparenza dalla sua parte una falange di tutte le sanità e rispettabilità, sopraggiunse improvvisamente un nuovo sviluppo, destinato a portare davvero le cose a una crisi, e a pesare almeno tre anime sulla bilancia. Dopo un ulteriore esame della condizione di Miss Barrett, i medici avevano dichiarato che era assolutamente necessario che ella fosse condotta in [[Italy|Italia]]. Questo può, senza alcuna esagerazione, essere chiamato il punto di svolta e l'ultima grande occasione terrena del carattere di Barrett. Non era stato in origine un uomo malvagio, solo un uomo che, essendo stoico nelle cose pratiche, si permetteva, con suo grande detrimento, un'[[Self|auto]]-indulgenza nelle cose morali. Era giunto a considerare la sua pia e morente figlia come parte del mobilio della [[house|casa]] e dell'universo. E finché la grande massa delle autorità era dalla sua parte, la sua illusione era del tutto perdonabile. La sua crisi venne quando le autorità mutarono fronte, e con un solo accordo chiesero il suo permesso di mandare la figlia all'estero. Fu la sua crisi, ed egli rifiutò.
+
+Aveva, se possiamo giudicare da ciò che sappiamo di lui, il suo peculiare e alquanto detestabile modo di rifiutare. Una volta, quando la figlia aveva chiesto un favore perfettamente semplice in una questione di convenienza, ossia il permesso di tenere con sé il fratello prediletto durante una malattia, il suo singolare genitore osservò che «poteva pure tenerlo, se voleva, ma che egli si era aspettato maggiore [[Self-Sacrifice|abnegazione]]». Queste erano le armi con cui governava i suoi. Poiché il peggior [[Tyrant|tiranno]] non è l'uomo che governa con la [[Fear|paura]]; il peggior [[Tyrant|tiranno]] è colui che governa con l'[[Love|amore]] e vi suona sopra come su un'arpa. Barrett era uno di quegli oppressori che hanno scoperto l'ultimo segreto dell'oppressione, quello che è detto nel bel verso di Swinburne:--
 
 
 
@@ -9012,6 +9753,25 @@ the [[Leaves|leaves]] and the sky. She then entered the cab again, drove [[Home|
 and agreed to the elopement. This was possibly the best poem that she
 ever produced.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«I cavalletti della terra e le verghe
+Sono deboli come la schiuma sulle sabbie;
+Il cuore è la preda per gli dèi,
+Che crocifiggono cuori, non mani.»
+
+Egli, col suo terribile appello alle vibranti coscienze delle donne, era, riguardo a una di esse, assai prossimo alla fine del suo regno. Quando Browning apprese che il [[Journey|viaggio]] italiano era proibito, propose in modo definitivo che si sposassero e partissero insieme per il [[Journey|viaggio]].
+
+Molte altre persone avevano preso conoscenza del fatto, ed erano attive nella faccenda. Kenyon, il più mite e il più universalmente complimentoso dei mortali, aveva marciato dentro la [[house|casa]] e dato ad Arabella Barrett, la sorella della malata, la sua opinione sulla condotta del padre di lei con un grado di [[Fire|fuoco]] e franchezza che deve essere stato perfettamente sbalorditivo in un uomo della sua delicatezza sociale quasi antiquata. Mrs. Jameson, una vecchia e generosa amica della famiglia, era immediatamente intervenuta e si era offerta di portare ella stessa Elizabeth in [[Italy|Italia]], rimuovendo così ogni questione di spesa o di organizzazione. Sembrerebbe aver tenuto duro nella faccenda con splendida persistenza e magnanimità. Fece visita giorno dopo giorno cercando un mutamento di intenzione, e rinviò più di una volta il proprio [[Journey|viaggio]] verso il continente. Alla fine, quando divenne evidente che l'estrazione del consenso di Mr. Barrett era senza speranza, ella cominciò con riluttanza il proprio giro in Europa [[Alone|sola]]. Andò a [[Paris|Parigi]], e non vi era da molti giorni, quando ricevette una visita formale da Robert Browning ed Elizabeth Barrett Browning, che erano sposati da alcuni giorni. Il suo stupore è cosa alquanto pittoresca su cui riflettere.
+
+Il modo in cui questa clamorosa fuga d'amore, che fu, naturalmente, sulla bocca di tutto il mondo letterario, era stata attuata, è narrato, come tutti sanno, nelle Lettere di Browning. Browning aveva deciso che un [[Marriage|matrimonio]] immediato fosse l'unica soluzione; e avendo messo mano all'aratro, non si tirò indietro nemmeno quando divenne ovviamente necessario che fosse un [[Marriage|matrimonio]] segreto. Per un uomo della sua disposizione alquanto tempestosamente candida e disinvolta questa necessità di segretezza era davvero esasperante; ma chiunque abbia un po' d'[[Imagination|immaginazione]] o cavalleria si rallegrerà che egli abbia accettato le malvagie condizioni. Aveva sempre avuto il [[Courage|coraggio]] di dire la [[Truth|verità]]; e ora gli si richiedeva di avere il maggior [[Courage|coraggio]] di dire una menzogna, ed egli la disse con perfetta allegria e lucidità. Nel così scomparire di soppiatto con una donna inferma, faceva qualcosa contro cui c'erano indubbiamente cento cose da dire, solo che accadeva che la cosa più cogente e importante di tutte fosse da dire a suo favore.
+
+È molto divertente, e molto significativo in materia del carattere di Browning, leggere i resoconti che egli scrive a Elizabeth Barrett del suo atteggiamento verso l'imminente _coup de théâtre_. In un punto dice, in modo abbastanza suggestivo, che non si preoccupa minimamente della disapprovazione del padre di lei; l'uomo che egli teme come influenza ostacolante è Kenyon. Mr. Barrett poteva solo entrare nella stanza e andare in collera; e questo Browning avrebbe potuto riceverlo con perfetta equanimità. «Ma», dice, «se Kenyon viene a sapere della faccenda, avrò la più gentile e amichevole delle spiegazioni (col suo braccio sulla mia spalla) su come io stia rovinando la tua posizione sociale, distruggendo la tua salute, ecc., ecc.» Questo tocco è molto suggestivo del potere del vecchio uomo di mondo, che sapeva manovrare con i giovani [[Well|bene]] quanto il maggiore Pendennis. Kenyon era invero da lungo tempo perfettamente consapevole del modo in cui le cose stavano andando; e il metodo che adottò per commentarlo è alquanto divertente. In una conversazione con Elizabeth Barrett, chiese con noncuranza se ci fosse qualcosa tra sua sorella e un certo capitano Cooke. Ricevendo una sorpresa risposta negativa, osservò in tono di scusa di essere stato tratto in quell'idea dal fatto che il gentiluomo si presentava così spesso alla [[house|casa]]. Elizabeth Barrett sapeva perfettamente [[Well|bene]] cosa intendesse; ma l'allusività logica dell'attacco fa pensare a un [[Fragment|frammento]] di qualche [[Comedy|commedia]] meredithiana.
+
+Il modo in cui Browning si comportò in questa posizione acuta e necessariamente ambigua depone, forse, più compiutamente a suo credito di qualsiasi altra cosa nella sua carriera. Non ne uscì mai così [[Well|bene]] in tutti i suoi lunghi anni di sincerità e pubblicità come fa in questo unico atto di [[Deception|inganno]]. Avendo deciso per quell'atto, non si vergogna di nominarlo; né, d'altra parte, ne straparla, discorrendo di pregiudizi filistei e leggi superiori e spose al cospetto di Dio, alla maniera del decadente cockney. Stava infrangendo una legge sociale, ma non stava dichiarando una crociata contro le leggi sociali. Tutti sentiamo, quali che siano le nostre opinioni in materia, che il grande pericolo di questa specie di opportunismo sociale, questo contrapporre una necessità privata a un costume pubblico, è che gli uomini sono un po' troppo deboli e [[Self|auto]]-illusori per potersi affidare loro un simile potere di concedere dispense a se stessi. Sentiamo che gli uomini, senza volerlo, potrebbero facilmente cominciare infrangendo un regolamento sociale e finire con l'essere completamente antisociali. Una delle cose migliori e più notevoli da rilevare in Robert Browning è il fatto che egli fece questa cosa considerandola un'eccezione, e che riuscì a lasciarla davvero eccezionale. Non ruppe in alcun grado la tornita limpidezza della sua lealtà al costume sociale. Non indebolì in alcun grado la santità della regola generale. In una crisi suprema della sua vita fece una cosa anticonvenzionale, e visse e morì convenzionale. Sarebbe difficile dire se appaia più compiutamente sano nell'aver compiuto l'atto, o nel non avergli permesso di condizionarlo.
+
+Elizabeth Barrett cedette gradualmente sotto l'ostinata e quasi monotona asserzione di Browning che questa fuga fosse l'unica linea d'azione possibile. Prima di acconsentire definitivamente, tuttavia, fece qualcosa che, nel suo curioso e impulsivo simbolismo, appartiene quasi a un'età più primitiva. Il cupo sistema di reclusione medica a cui era stata a lungo sottoposta è già stato descritto. I cambiamenti più urgenti e igienici erano osteggiati da molti con la motivazione che non fosse sicuro per lei lasciare il suo sofà e la sua tetra stanza. Nel giorno in cui le era necessario accettare o respingere definitivamente la proposta di Browning, chiamò a sé la sorella, e con stupore e [[Mystification|sconcerto]] di quella signora chiese una carrozza. Su questa si recò a Regent's Park, scese, camminò sull'erba, e restò appoggiata a un albero per alcuni istanti, guardandosi intorno alle [[Leaves|foglie]] e al cielo. Poi risalì sulla vettura, tornò a [[Home|casa]], e acconsentì alla fuga. Questa fu forse la miglior poesia che ella abbia mai prodotto.
 
 
 
@@ -9197,6 +9957,20 @@ fiddle nearly [[Well|well]] enough to earn a living in the orchestra of a penny
 gaff, but not quite."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+
+BROWNING IN [[Italy|ITALIA]]
+
+La coppia sposata andò a Pisa nel 1846, e si trasferì poco dopo a Firenze. Della vita dei Browning in [[Italy|Italia]] c'è forse molto da dire in fatto di descrizione e analisi, poco da dire in fatto di vera e propria narrazione. Ciascuno di loro era passato attraverso l'unico evento dell'esistenza. Proprio come la vita di Elizabeth Barrett era stata prima del suo [[Marriage|matrimonio]] tetra senza eventi, ora era felice senza eventi. Una successione di splendidi paesaggi, una successione di brillanti amici, una successione di alti e ardenti interessi intellettuali, essi vissero; ma la loro vita era del genere che, se raccontata, avrebbe bisogno di essere raccontata in un centinaio di volumi di sfarzoso pettegolezzo intellettuale. Come Browning e sua moglie cavalcassero lontano nella campagna, mangiando fragole e bevendo latte dalle scodelle dei contadini; come s'imbattessero nelle più strane e pittoresche figure della società italiana; come scalassero [[Mountains|monti]] e leggessero libri e modellassero nell'argilla e suonassero strumenti musicali; come Browning fosse fatto una sorta di arbitro tra due bardi italiani improvvisatori; come dovesse fuggire da una festa quando il suono dell'[[Hymn|inno]] di Garibaldi portò il bussare della polizia austriaca; queste sono le cose di cui la sua vita è piena, cose insignificanti e pittoresche, una serie di interludi, una storia bella e felice, che non comincia né finisce da nessuna parte. Gli unici eventi, forse, furono la nascita del loro figlio e la [[Death|morte]] della madre di Browning nel 1849.
+
+È [[Well|ben]] noto che Browning amava l'[[Italy|Italia]]; che era il suo paese d'adozione; che disse in una delle sue più belle liriche che il nome di essa si sarebbe trovato scritto sul suo cuore. Ma il particolare carattere di questo [[Love|amore]] di Browning per l'[[Italy|Italia]] va compreso. Vi sono migliaia di europei colti che [[Love|amano]] l'[[Italy|Italia]], che vi vivono, che la visitano ogni anno, che attraversano un continente per vederla, che stanano il suo dipinto più oscuro e il suo intaglio più fatiscente; ma sono tutti uniti in questo, che considerano l'[[Italy|Italia]] un luogo morto. È un ramo del loro museo universale, un reparto di ossa aride. Vi sono persone ricche e colte, particolarmente americani, che sembrano pensare di tenere l'[[Italy|Italia]], come potrebbero tenere una voliera o una serra, in cui entrare ogni volta che desiderassero una zaffata di [[Beauty|bellezza]]. Browning non sentiva affatto in questo modo; era intrinsecamente incapace di offrire un simile insulto all'[[Soul|anima]] di una nazione. Se non avesse potuto amare l'[[Italy|Italia]] come nazione, non avrebbe acconsentito ad [[Love|amarla]] come una vecchia bottega di curiosità. In ogni cosa sulla terra, dal Medioevo all'ameba, di cui si discute così a lungo in «Mr. Sludge the Medium», egli è interessato alla vita nelle cose. Era interessato alla vita nell'arte italiana e alla vita nella politica italiana.
+
+Forse il primo e più semplice esempio che si possa dare di questa faccenda è nell'interesse di Browning per l'arte. Fu incommensurabilmente affascinato in ogni tempo dalla pittura e dalla scultura, e il suo soggiorno in [[Italy|Italia]] gli diede, naturalmente, innumerevoli e perfette occasioni per lo studio della pittura e della scultura. Ma il suo interesse in questi studi non era come quello dell'ordinario visitatore colto delle città italiane. Migliaia di simili visitatori, per esempio, studiano quelle interminabili file di magnifici busti pagani che si trovano in quasi tutte le gallerie e i musei italiani, e li ammirano, e ne parlano, e li annotano nei loro cataloghi, e li descrivono nei loro diari. Ma il modo in cui essi colpivano Browning è descritto molto suggestivamente in un passo nelle lettere di sua moglie. Ella descrive se stessa come [[Longing|bramosa]] che il marito scrivesse [[Poems|poesie]], supplicandolo di scrivere [[Poems|poesie]], ma trovando tutte le sue preghiere inutili perché il marito era occupato tutto il giorno a modellare busti d'argilla e a romperli con la stessa rapidità con cui li faceva. Questo è l'interesse di Browning per l'arte, l'interesse per una cosa viva, l'interesse per una cosa che cresce, l'insaziabile interesse per come le cose sono fatte. Chiunque conosca le sue mirabili [[Poems|poesie]] sulla pittura -- «Fra Lippo Lippi» e «Andrea del Sarto» e «Pictor Ignotus» -- ricorderà quanto pienamente esse trattino di tecnicismi, quanto si occupino della tela, dell'olio, di un guazzabuglio di colori. Talvolta sono tanto tecniche da risultare misteriose al lettore occasionale. Un caso estremo può trovarsi in quello di una signora che un tempo conoscevo, la quale aveva letto soltanto il titolo di «Pacchiarotto and how he worked in distemper», e pensava che Pacchiarotto fosse il nome di un cane, che nessun attacco di malattia canina poteva trattenere dall'adempimento del suo dovere. Queste [[Poems|poesie]] di Browning non trattano soltanto di pittura; sanno di vernice. Sono le opere di un uomo per il quale l'arte non è ciò che è per tanti degli [[lovers|amatori]] non professionisti dell'arte, una cosa compiuta, una valle di ossa: per lui è un campo di messi che cresce di continuo in un [[Silence|silenzio]] operoso ed eccitante. Browning era interessato, come qualche uomo di scienza, all'ostetricia dell'arte. Vi è un grande esercito di uomini colti capaci di parlare d'arte con gli artisti; ma Browning non sapeva soltanto parlare d'arte con gli artisti -- sapeva parlare di mestiere con loro. Personalmente può non aver saputo abbastanza di pittura da essere più di un pittore di quint'ordine, o abbastanza dell'organo da essere più di un organista di sest'ordine. Ma vi sono, a conti fatti, alcune cose che un pittore di quint'ordine sa e che un critico d'arte di prim'ordine non sa; vi sono alcune cose che un organista di sest'ordine sa e che un giudice di musica di prim'ordine non sa. Ed erano queste le cose che Browning sapeva.
+
+Egli era, in altre parole, ciò che si chiama un dilettante. La parola «amateur» è giunta, per le mille stranezze del linguaggio, a trasmettere un'idea di tiepidezza; laddove la parola stessa ha il significato di passione. Né questa peculiarità è confinata alla mera forma della parola; la reale caratteristica di questi anonimi dilettanti è un genuino [[Fire|fuoco]] e una genuina realtà. Un uomo deve [[Love|amare]] moltissimo una cosa se non solo la pratica senza alcuna [[Hope|speranza]] di fama o denaro, ma la pratica persino senza alcuna [[Hope|speranza]] di farla [[Well|bene]]. Un tale uomo deve [[Love|amare]] le fatiche del lavoro più di quanto qualsiasi altro uomo possa [[Love|amarne]] le ricompense. Browning era in questo senso stretto un dilettante strenuo. Provò e praticò nel corso della sua vita una cinquantina di cose in cui non può mai, nemmeno per un istante, essersi aspettato di riuscire. La storia della sua vita è piena di assurde piccole ingegnosità, come la scoperta di un modo di fare immagini arrostendo carta marrone sopra una candela. Precisamente nello stesso spirito di infruttuosa vivacità, si rese in misura assai considerevole un esperto tecnico di pittura, un esperto tecnico di scultura, un esperto tecnico di musica. Nella sua vecchiaia, mostra tracce di essere una cosa tanto bizzarra quanto un astratto [[Detective|investigatore]] di polizia, scrivendo a lungo in lettere e diari le sue opinioni su certi casi criminali in una città italiana. In effetti, il suo stesso _Ring and the Book_ non è che una [[Sublime|sublime]] storia [[Detective|poliziesca]]. Era in cento cose questo tipo d'uomo; era precisamente nella posizione, con un tocco di maggior [[success|successo]] tecnico, dell'ammirevole figura del racconto di Stevenson che disse: «So suonare il violino quasi abbastanza [[Well|bene]] da guadagnarmi da vivere nell'orchestra di un teatrino da un soldo, ma non del tutto».
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="Robert Browning — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
@@ -9305,6 +10079,18 @@ the First Empire, shouting their [[songs]] and jesting with their
 colonels, smote and broke into pieces the armies of Prussia and
 Austria driven into battle with a cane.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Love|amore]] di Browning per l'arte italiana, dunque, era tutt'altro che un capriccio antiquario; era l'[[Love|amore]] di una cosa viva. Vediamo lo stesso fenomeno in una faccenda ancor più importante: l'essenza e l'individualità del paese stesso.
+
+L'[[Italy|Italia]] per Browning e sua moglie non era affatto meramente quel sepolcro scolpito e ornato che è per tanti di quegli uomini e donne inglesi colti che vivono in [[Italy|Italia]] e la godono e l'ammirano e la disprezzano. Per loro era una nazione viva, il tipo e il centro della religione e della politica di un continente; l'antico e fiammeggiante cuore della [[history|storia]] occidentale, l'Europa stessa dell'Europa. Ed essi vivevano al [[Time|tempo]] del più commovente e gigantesco di tutti i drammi: il farsi di una nuova nazione, una di quelle cose che fanno sentire agli uomini di essere ancora nel mattino della terra. Davanti ai loro occhi, con ogni circostanza di energia e mistero, passava il panorama dell'unificazione dell'[[Italy|Italia]], con il militarismo audace e romantico di Garibaldi, la più audace e più romantica diplomazia di Cavour. Vivevano in un [[Time|tempo]] in cui gli affari di Stato avevano quasi l'aria di opere d'arte; e non è strano che questi due poeti dovessero diventare politici in una di quelle grandi epoche creative in cui perfino i politici devono essere poeti.
+
+Browning era su questa questione e su tutte le questioni della politica continentale e inglese un Liberale assai convinto. Questo fatto non è un mero dettaglio di puro interesse biografico, come una qualsiasi opinione che potesse avere sull'autore dell'«Eikon Basilike» o sull'autenticità del pretendente Tichborne. Il Liberalismo era così inevitabilmente coinvolto nell'intera visione dell'esistenza del poeta, che perfino un Conservatore riflessivo e fantasioso sentirebbe che Browning non poteva non essere un Liberale. La sua mente era posseduta, forse anche all'eccesso, da una fede nella crescita e nell'energia e nell'utilità ultima dell'errore. Sosteneva la grande dottrina centrale del Liberalismo, una fede in un certo destino dello spirito umano al di là, e forse anche indipendente, delle nostre più sincere convinzioni. Il mondo andava per il verso giusto, egli sentiva, con ogni probabilità a suo modo, ma certamente a modo proprio. Il [[Sonnet|sonetto]] che scrisse negli anni tardi, intitolato «Why I am a Liberal», esprime mirabilmente questa radice filosofica della sua politica. Chiede in sostanza come da lui, che aveva trovato la [[Truth|verità]] in tante strane forme dopo tante strane peregrinazioni, ci si possa aspettare che soffochi con orrore le eccentricità altrui. Un Liberale può definirsi approssimativamente come un uomo che, se potesse con un gesto della mano in una stanza buia chiudere per sempre la bocca a tutti gli ingannatori dell'umanità, non muoverebbe la mano. Browning era un Liberale in questo senso.
+
+E proprio come il grande movimento Liberale che seguì la Rivoluzione francese avanzò questa rivendicazione per la libertà e la personalità degli esseri umani, così l'avanzò per la libertà e la personalità delle nazioni. Attribuiva invero all'indipendenza di una nazione qualcosa della medesima santità del tutto trascendentale che l'umanità ha in tutti i sistemi giuridici attribuito alla vita di un uomo. I fondamenti erano invero pressoché gli stessi; nessuno poteva dire in modo assoluto che un uomo vivo fosse inutile, e nessuno poteva dire in modo assoluto che una varietà di vita nazionale fosse inutile o dovesse rimanere inutile al mondo. Gli uomini ricordavano quanto spesso tribù barbare o strane ed estranee Scritture fossero state chiamate a ravvivare il [[Blood|sangue]] di imperi e civiltà in decadenza. E questo senso della personalità di una nazione, come distinta dalle personalità di tutte le altre nazioni, non comportava nel caso di questi vecchi Liberali un'amarezza internazionale; poiché troppo spesso si dimentica che l'[[Friendship|amicizia]] esige indipendenza e uguaglianza tanto quanto la guerra. Ma in essi conduceva a grandi parzialità internazionali, a un grande sistema, per così dire, di paesi d'adozione che rendeva uno scozzese fino al midollo come Carlyle [[Love|innamorato]] della [[Germany|Germania]], e un inglese fino al midollo come Browning [[Love|innamorato]] dell'[[Italy|Italia]].
+
+E mentre da un lato della lotta stava questo grande ideale di energia e varietà, dall'altro lato stava qualcosa che ora troviamo difficile immaginare o descrivere. Abbiamo visto nel nostro stesso [[Time|tempo]] una grande reazione in favore della monarchia, dell'aristocrazia e dell'ecclesiasticismo, una reazione quasi interamente nobile nel suo istinto, e che si sofferma quasi interamente sui periodi migliori e sulle qualità migliori del vecchio _régime_. Ma l'uomo moderno, pieno d'ammirazione per la grande virtù della cavalleria che è al cuore delle aristocrazie, e per la grande virtù della reverenza che è al cuore della religione cerimoniale, non è in condizione di formarsi un'idea di quanto profondamente incavallereschi, quanto sbalorditivamente irriverenti, quanto assolutamente meschini, e materiali, e privi di mistero o sentimento fossero i sistemi dispotici d'Europa che sopravvissero, e per un [[Time|tempo]] soggiogarono, la Rivoluzione. Il caso contro la Chiesa in [[Italy|Italia]] al [[Time|tempo]] di Pio Nono non era il caso che un razionalista avanzerebbe contro la Chiesa del [[Time|tempo]] di San Luigi, ma il caso diametralmente opposto. Contro la Chiesa medievale si potrebbe dire che fosse troppo fantastica, troppo visionaria, troppo dogmatica riguardo al destino dell'uomo, troppo indifferente a ogni cosa tranne il lato devozionale dell'[[Soul|anima]]. Contro la Chiesa di Pio Nono la cosa principale da dire era che fosse semplicemente e supremamente cinica; che non era fondata sull'istinto ultraterreno di distorcere la vita, ma sul consiglio mondano di lasciare la vita com'è; che non era l'ispiratrice di folli speranze, di ricompensa e miracolo, ma la nemica, la fredda e scettica nemica, dell'[[Hope|speranza]] di ogni genere o specie. Lo stesso valeva per i sistemi monarchici della Prussia e dell'Austria e della [[Russia]] in questo [[Time|tempo]]. La loro [[philosophy|filosofia]] non era la [[philosophy|filosofia]] dei cavalieri che cavalcavano al seguito di Carlo I o di Luigi XIII. Era la [[philosophy|filosofia]] del tipico zio della [[City|City]], che consiglia a tutti, e specialmente ai giovani, di evitare l'entusiasmo, di evitare la [[Beauty|bellezza]], di considerare la vita come una [[Machine|macchina]], dipendente solo dalle due forze del comfort e della [[Fear|paura]]. Quella era, c'è poco [[Doubt|dubbio]], la vera ragione del fascino della leggenda napoleonica: che mentre Napoleone era un despota come gli altri, era un despota che andava da qualche parte e faceva qualcosa, e sfidava il pessimismo d'Europa, e cancellava la parola «impossibile». Non c'è bisogno di essere bonapartisti per rallegrarsi del modo in cui gli eserciti del Primo Impero, gridando le loro [[songs|canzoni]] e scherzando con i loro colonnelli, colpirono e fecero a pezzi gli eserciti della Prussia e dell'Austria spinti in battaglia con un bastone.
 
 
 
@@ -9461,6 +10247,14 @@ scarcely be found apart from it. But, like all good feelings, it has
 its possible exaggerations, and one of them is this almost morbid
 healthiness in the choice of friends for his wife.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Browning, come abbiamo detto, era in [[Italy|Italia]] al [[Time|tempo]] della disgregazione di una parte di questo continente gelato del non-possumus, la presa dell'Austria nel nord dell'[[Italy|Italia]] era parte di quell'elaborato e comodo e del tutto codardo e insensato compromesso, che la Santa Alleanza aveva stabilito, e che essa credeva senza [[Doubt|dubbio]], nella sua salda incredulità, sarebbe durato fino al Giorno del Giudizio, benché sia difficile immaginare cosa la Santa Alleanza pensasse sarebbe accaduto allora. Ma quasi d'un tratto le cose avevano cominciato a muoversi stranamente, e i principi dispotici e i loro cancellieri scoprirono con grande stupore che non vivevano nella vecchiaia del mondo, ma a tutta apparenza in un periodo assai ingovernabile della sua fanciullezza. In un'epoca di bruttezza e di routine, in un [[Time|tempo]] in cui diplomatici e filosofi propendevano ugualmente a credere di possedere un elenco di tutti i tipi umani, cominciarono a comparire uomini che appartenevano al mattino del mondo, uomini i cui movimenti hanno un respiro e una [[Beauty|bellezza]] nazionali, che recitano simboli e diventano leggende mentre sono vivi. Garibaldi nella sua camicia rossa cavalcava in una carrozza aperta lungo la fronte di un forte ostile chiamando il cocchiere a guidare più piano, e nessun uomo osò [[Fire|sparare]] un colpo contro di lui. Mazzini riversò sull'Europa un nuovo misticismo di umanità e libertà, ed era disposto, come qualche appassionato gesuita del Cinquecento, a diventare per la sua causa o un filosofo o un criminale. Cavour sorse con una diplomazia più emozionante e pittoresca della guerra stessa. Questi uomini non avevano nulla a che fare con un'epoca dell'impossibile. Sono passati, le loro teorie insieme a loro, come tutte le cose passano; ma da allora non abbiamo avuto uomini precisamente del loro tipo, insieme grandi e reali e romantici e vittoriosi. Gordon fu una possibile eccezione. Furono gli ultimi degli eroi.
+
+Quando Browning viveva da poco in [[Italy|Italia]], un telegramma che gli era stato inviato fu fermato alla frontiera e soppresso a causa della sua nota simpatia per i Liberali italiani. È quasi impossibile per la gente che vive in uno Stato come il nostro comprendere come una piccola cosa simile possa colpire un uomo. Non era tanto l'ovvio fatto che un grande danno pratico gli fosse davvero arrecato; che il telegramma avrebbe potuto alterare tutti i suoi piani in questioni d'importanza vitale. Era, al di sopra e al di là di questo, il senso di una mano posata su qualcosa di personale ed essenzialmente libero. Una tirannia come questa non è la peggior tirannia, ma è la più intollerabile. Interferisce con gli uomini non nelle questioni più gravi, ma precisamente in quelle questioni in cui più mal sopportano l'interferenza. Può essere illogico che gli uomini accettino allegramente imperdonabili scandali pubblici, sistemi educativi ottenebrati, cattive condizioni igieniche, cattiva illuminazione, un sistema di vita maldestro e inefficiente, e tuttavia si risentano per lo strappare di un telegramma o di una cartolina; ma resta il fatto che la sensibilità degli uomini è cosa strana e localizzata, e non c'è quasi un uomo al mondo che non preferirebbe essere governato da despoti scelti a sorte e vivere in una [[City|città]] come un Ghetto medievale, piuttosto che vedersi proibire da un poliziotto di fumare un'altra sigaretta, o di restare alzato un quarto d'ora più tardi; a stento un uomo che non si sentirebbe incline in tal caso a sollevare una ribellione per un capriccio di cui in realtà non gli importava un fico. La tirannia insensata e confusionaria nelle piccole cose, ecco la cosa che, se estesa su molti anni, è più dura da sopportare e in cui [[Hope|sperare]] che non i massacri di Settembre. E quello era l'[[nightmare|incubo]] di vessatoria trivialità che gravava su tutte le città d'[[Italy|Italia]] governate dai dispotismi burocratici d'Europa. La [[history|storia]] del [[Time|tempo]] è piena di lotte astiose e quasi puerili -- lotte sul canticchiare un motivo o l'indossare un colore, l'arresto di un [[Journey|viaggio]], o l'apertura di una lettera. E c'è poco [[Doubt|dubbio]] che il temperamento di Browning in queste condizioni non fosse del tipo da farsi più indulgente, e crebbe in lui un odio dei sistemi imperiali e ducali e papali d'[[Italy|Italia]], che talvolta oltrepassava le necessità del Liberalismo, e talvolta ne trasgrediva persino lo spirito. La vita che egli e sua moglie vissero in [[Italy|Italia]] fu straordinariamente piena e varia, se consideriamo le restrizioni sotto le quali almeno uno di loro era sempre giaciuto. Incontrarono e si dilettarono, nonostante il loro [[Exile|esilio]], di alcune delle persone più interessanti del loro [[Time|tempo]] -- Ruskin, il cardinale Manning, e Lord Lytton. Browning, in modo assai caratteristico, godeva della compagnia di tutti loro, discutendo con l'uno, concordando con l'altro, vegliando tutta la [[Night|notte]] al capezzale di un terzo.
+
+È stato frequentemente affermato che l'unico dissidio che mai separò Mr. e Mrs. Browning fosse sulla questione dello spiritismo. Quell'affermazione deve, naturalmente, essere modificata e persino contraddetta se significa che non dissentirono mai; che Mr. Browning non ritenne mai buono un _Act of Parliament_ quando Mrs. Browning lo riteneva cattivo; che Mr. Browning non ritenne mai raffermo il pane quando Mrs. Browning lo riteneva fresco. Una simile unanimità non è solo inconcepibile, è immorale; e in effetti, vi è abbondante prova che il loro [[Marriage|matrimonio]] costituisse qualcosa come quel [[Marriage|matrimonio]] ideale, un'alleanza tra due forze forti e indipendenti. Dissentivano, in [[Truth|verità]], su moltissime cose, per esempio, su Napoleone III, che Mrs. Browning guardava con un'ammirazione che sarebbe stata alquanto al di là dei meriti di Sir Galahad, e che Browning con i suoi enfatici principi Liberali non poté mai perdonare per il _Coup d'État_. Se dissentivano sullo spiritismo in modo alquanto più serio di questo, la ragione va cercata in qualità che erano più profonde e più elementari in entrambi i loro caratteri di qualsiasi mera questione d'opinione. Mrs. Orr, nella sua eccellente _Life of Browning_, afferma che la difficoltà sorgeva dalla ferma credenza di Mrs. Browning nei fenomeni psichici e dall'assoluto rifiuto di Browning di credere anche solo nella loro possibilità. Un altro scrittore che li incontrò in questo [[Time|tempo]] dice: «Browning non può credere, e Mrs. Browning non può fare a meno di credere». Questa teoria, che l'avversione di Browning per il circolo spiritista sorgesse da un'assoluta negazione della sostenibilità di una simile teoria della vita e della [[Death|morte]], è stata in effetti spesso ripetuta. Ma è estremamente difficile conciliarla col carattere di Browning. Era l'ultimo uomo al mondo a essere intellettualmente sordo a un'ipotesi solo perché era bizzarra. Aveva amici le cui opinioni coprivano ogni sorta di [[Madness|follia]] dal legittimismo francese di De Ripert-Monclar al repubblicanesimo di Landor. Intellettualmente si può dire che avesse un gusto per le eresie. È difficile imputare un atteggiamento di mera impenetrabile negazione a un uomo che aveva espresso con simpatia la religione di «[[Caliban]]» e la [[morality|moralità]] di «[[Time]]'s Revenges». È vero che in questo [[Time|tempo]] del primo interesse popolare per lo spiritismo esisteva tra molte persone di mentalità pratica un sentimento che può solo chiamarsi una superstizione contro il credere nei [[Ghosts|fantasmi]]. Ma, intellettualmente parlando, Browning sarebbe probabilmente stato uno dei più tolleranti e curiosi riguardo alle nuove teorie, laddove la versione popolare della faccenda lo rende insolitamente intollerante e noncurante persino per quel [[Time|tempo]]. Il fatto era con ogni probabilità che l'avversione di Browning per gli spiritisti aveva poco o nulla a che fare con lo spiritismo. Sorgeva da un lato affatto diverso del suo carattere: la sua intransigente avversione per ciò che si chiama bohémien, per le cricche eccentriche o sciatte, per quei dispersi seguaci al seguito delle arti che ostentano maniere dubbie e morali dubbie, per ogni anormalità e per ogni irresponsabilità. Chiunque, in effetti, desideri vedere cosa fosse ciò che Browning avversava non deve fare che due cose. Primo, dovrebbe leggere le _Memoirs_ di David [[Home]], il famoso medium spiritista con cui Browning venne in contatto. Queste _Memoirs_ costituiscono un'[[Self|auto]]-rivelazione più compiuta e artistica di qualsiasi monologo che Browning abbia mai scritto. I [[Ghosts|fantasmi]], i colpi, le mani volanti, le voci [[Phantom|spettrali]] sono infinitamente la parte più rispettabile e infinitamente la più credibile della narrazione. Ma la spacconeria, il sentimentalismo, la fatuità morale e intellettuale della composizione sono ovunque, culminando forse nel disgustoso passo in cui [[Home]] descrive Mrs. Browning che piange su di lui e gli assicura che tutte le azioni di suo marito nella faccenda sono state adottate contro la sua volontà. È in questo genere di cose che troviamo le radici della vera ira di Browning. Non avversava lo spiritismo, ma gli spiritisti. Il secondo punto su cui chiunque desideri essere giusto nella faccenda dovrebbe gettare uno sguardo, è il resoconto della visita che Mrs. Browning insistette per fare, durante la loro luna di miele a [[Paris|Parigi]], alla [[house|casa]] di George Sand. Browning provò, e in una certa misura espresse, esattamente la stessa avversione al fatto che sua moglie si mescolasse col circolo di George Sand che provò in seguito al suo mescolarsi col circolo di [[Home]]. La compagnia era «del rosso stracciato, diluito col basso teatrale, uomini che adorano George Sand, _à genou bas_ tra una bestemmia e uno sputo di saliva». Quando scopriamo che un uomo non aveva nulla da obiettare a un qualsiasi numero di Giacobiti o di Atei, ma obiettava ai poeti bohémien francesi e ai primi medium occultisti come amici per sua moglie, avremo certamente ragione a concludere che egli obiettava non a un'opinione, ma a un tono sociale. La [[Truth|verità]] era che Browning aveva moltissimi sentimenti mirabilmente filistei, e uno di essi era un grande gusto per le sue responsabilità verso la moglie. Godeva a essere marito. Questa è cosa affatto distinta dal godere a essere [[Lover|amante]], benché la si troverà a stento separata da essa. Ma, come tutti i buoni sentimenti, ha le sue possibili esagerazioni, e una di esse è questa quasi morbosa sanità nella scelta degli amici per sua moglie.
 
 
 
@@ -9723,6 +10517,22 @@ closed a door in himself, and none ever saw Browning upon earth again
 but only a splendid surface.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La poesia tratta di cose primordiali e convenzionali: la fame di pane, l'[[Love|amore]] della donna, l'[[Love|amore]] dei figli, il [[Desire|desiderio]] di vita immortale. Se gli uomini avessero davvero nuovi sentimenti, la poesia non potrebbe trattarne. Se, poniamo, un uomo non provasse un'aspra brama di mangiare pane; ma provasse, in sua vece, una fresca, originale brama di mangiare parafuochi d'ottone o tavoli di mogano, la poesia non potrebbe esprimerlo. Se un uomo, invece d'[[Love|innamorarsi]] di una donna, s'[[Love|innamorasse]] di un fossile o di un'anemone di mare, la poesia non potrebbe esprimerlo. La poesia può esprimere solo ciò che è originale in un senso: il senso in cui parliamo del [[Original Sin|peccato originale]]. È originale, non nel meschino senso di essere nuovo, ma nel senso più profondo di essere antico; è originale nel senso che tratta delle origini.
+
+Tutti gli artisti, che abbiano una qualche esperienza delle arti, converranno fin qui, che un poeta è tenuto a essere convenzionale riguardo alle materie dell'arte. Sfortunatamente, tuttavia, sono proprio le persone che non possono, come regola generale, vedere che un poeta è tenuto a essere convenzionale anche nelle materie della condotta. È solo il poeta minore che vede la poesia della rivolta, dell'isolamento, del dissenso; il poeta maggiore vede la poesia di quei grandi accordi che costituiscono la romantica conquista della civiltà. Proprio come un accordo tra il drammaturgo e il pubblico è necessario a ogni dramma; proprio come un accordo tra il pittore e gli spettatori è necessario a ogni quadro, così un accordo è necessario a produrre il culto di una qualsiasi delle grandi figure della [[morality|moralità]]: l'[[Hero|eroe]], il santo, l'uomo medio, il gentiluomo. Browning aveva, occorre comprenderlo appieno, un reale piacere in questi grandi accordi, queste grandi convenzioni. Si dilettava, con un vero diletto poetico, dell'essere convenzionale. Essendo di nascita un inglese, si compiaceva di essere inglese; essendo per rango un membro della classe media, ne traeva [[Pride|orgoglio]] per i suoi antichi scrupoli e i suoi eterni confini. Era tutto ciò che era con un piacere definito e consapevole: un uomo, un Liberale, un inglese, un autore, un gentiluomo, un [[Lover|amante]], un uomo sposato.
+
+Questo va sempre ricordato come una caratteristica generale di Browning, questa ardente e impetuosa convenzionalità. La esibì in modo preminente nella vicenda della sua fuga e del suo [[Marriage|matrimonio]], durante e dopo la fuga di sé e della moglie in [[Italy|Italia]]. Sembra aver dimenticato tutto, eccetto lo splendido affanno di essere sposato. Mostrò una consapevolezza pienamente sana di assumersi una responsabilità che aveva il suo lato pratico. Uscì finalmente e interamente dai suoi [[Dreams|sogni]]. Poiché aveva lui stesso denaro sufficiente per vivere, non aveva mai pensato a sé come a chi facesse qualcosa d'altro che scrivere poesia; la poesia invero gli sobbolliva e gorgogliava probabilmente in testa giorno e [[Night|notte]]. Ma quando sorse il problema della fuga si gettò con un'energia, di cui è piacevole leggere, in ogni sorta di progetto per consolidare la propria posizione. Scrisse a Monckton Milnes, e sembrerebbe averlo tempestato di domande per un posto al British Museum. «Lavorerò come un [[Horse|cavallo]]», disse, con quella nota fanciullesca che, ogni volta che nella sua inconsapevolezza la percuote, è più poetica di tutte le sue [[Poems|poesie]]. Tutto il suo linguaggio in questa faccenda è enfatico; sarebbe «lieto e fiero», dice, «di avere un qualsiasi posto minore» che l'amico potesse procurargli. Si offrì di studiare per l'avvocatura, e probabilmente cominciò a farlo. Ma tutto questo vigoroso e assai lodevole materialismo fu spietatamente estinto da Elizabeth Barrett. Ella rifiutò del tutto persino di prendere in considerazione l'idea che il marito si dedicasse a qualcos'altro a scapito della poesia. Probabilmente aveva ragione lei e torto Browning, ma era un errore che ogni uomo [[Desire|desidererebbe]] aver commesso.
+
+Una delle qualità, ancora, che rendono Browning oltremodo affascinante, è il fatto che egli provasse ed esprimesse una soddisfazione così semplice e genuina per le proprie conquiste come [[Lover|amante]] e marito, particolarmente in relazione al suo trionfo nella cura igienica della moglie. «Se è vanitoso di qualcosa», scrive Mrs. Browning, «è della mia salute ristabilita.» Più tardi, aggiunge con mirabile [[Humour|umorismo]] e capacità evocativa: «e devo dirgli che davvero non deve andare a raccontare a tutti come sua moglie abbia camminato qui con lui, o abbia camminato là con lui, come se una moglie con due piedi fosse un miracolo in [[Nature|Natura]]». Quando una signora in [[Italy|Italia]] disse, in un'occasione in cui Browning era rimasto indietro con la moglie il giorno di un picnic, che egli era «l'unico uomo che si comportasse da cristiano con la propria moglie», Browning ne fu esaltato a un grado quasi infantile. Ma difficilmente ci potrebbe essere una prova migliore dell'essenziale virilità e decenza di un uomo di questa prova delle sue vanità. Browning si vantava di essere addomesticato; vi sono ovunque una cinquantina di uomini che sarebbero inclini a vantarsi di non essere addomesticati. Gli uomini cattivi sono quasi senza eccezione presuntuosi, ma sono comunemente presuntuosi dei loro difetti.
+
+Una pittoresca figura che ha una parte in questa porzione della vita dei Browning in [[Italy|Italia]] è Walter Savage Landor. Browning lo trovò a vivere con alcuni parenti della moglie, e impegnato in una continua e furiosa lite con loro, che era, invero, non di rado la condizione di quell'uomo notevole quando viveva con altri esseri umani. Aveva la [[Double|doppia]] arroganza che è possibile solo a quella vecchia e maestosa ma quasi estinta mescolanza: il repubblicano aristocratico. Come un vecchio senatore romano, o come un gentiluomo degli Stati del Sud d'[[america|America]], aveva la condiscendenza di un gentiluomo verso quelli al di sotto di lui, combinata con la gelosa [[Self|auto]]-affermazione di un giacobino verso quelli al di sopra. L'unica persona che sembra essere stata capace di gestirlo e di far emergere il suo lato più gradevole era Browning. È, per inciso, uno dei molti indizi di un certo elemento in Browning che può essere descritto solo con l'elementare e antiquata parola bontà, il fatto che egli riuscisse sempre a rendersi accettabile e persino amabile a uomini di temperamento selvaggio e capriccioso, di genio distaccato ed erratico, che non andavano d'accordo con nessun altro. Carlyle, che non riusciva a togliersi un gusto amaro dalla lingua nel parlare della maggior parte dei suoi contemporanei, aveva affetto per Browning. Landor, che a stento poteva condurre un ordinario colloquio d'affari senza cominciare a rompere il mobilio, aveva affetto per Browning. Queste sono cose che dicono più a favore di un uomo di quanto molti comprenderanno. È abbastanza facile essere gradevoli a un circolo di ammiratori, specialmente ammiratrici, che hanno un peculiare talento per il discepolato e l'assorbimento di idee. Ma quando un uomo è amato da altri uomini della sua stessa statura intellettuale e di un tipo e ordine di eminenza del tutto diversi, possiamo essere certi che vi fosse in lui qualcosa di genuino, e qualcosa di gran lunga più importante di qualsiasi cosa intellettuale. Gli uomini non amano un altro uomo perché è un genio, meno che mai quando si dà il caso che siano essi stessi dei geni. Questa generale [[Truth|verità]] su Browning è come sentir parlare di una donna che è la più celebre [[Beauty|bellezza]] di una [[City|città]], e che è al [[Time|tempo]] stesso adorata e resa confidente da tutte le donne che vi abitano.
+
+Browning venne in soccorso dell'infuocato vecchio gentiluomo, e aiutato da Seymour Kirkup lo pose sotto obblighi assai precisi con una serie di condotte assai generose. Fu pienamente ripagato nel suo animo del disturbo dalla mera presenza e [[Friendship|amicizia]] di Landor, per la cui bizzarra e vulcanica personalità aveva una vasta ammirazione, composta del piacere dell'[[artist|artista]] in una stranezza e dell'uomo in un [[Hero|eroe]]. È alquanto divertente e caratteristico che Mrs. Browning non condividesse questo illimitato godimento della compagnia di Mr. Landor, ed esprimesse i propri sentimenti nella sua maniera umoristica. Ella scrive: «Il caro, adorato Robert mi diverte parlando della sua gentilezza e dolcezza. Un gentiluomo cortesissimo e raffinato egli è, naturalmente, e molto affettuoso con Robert (come dovrebbe essere), ma di [[Self|auto]]-controllo non ne ha un grano, e di sospetto molti grani. Cosa dici davvero dello scagliare a terra un piatto quando non ti piace ciò che vi sta sopra? Robert riuscì a placarlo, e il povero vecchio [[Lion|leone]] è nel complesso molto tranquillo, ruggendo sommessamente per ingannare il [[Time|tempo]] in alcaiche latine contro sua moglie e Luigi Napoleone.»
+
+Un evento [[Alone|solo]] poteva davvero porre fine a questa infinita vita dell'Arcadia italiana. Quell'evento accadde il 29 giugno 1861. La moglie di Robert Browning morì, colpita dalla [[Death|morte]] della sorella, e quasi altrettanto duramente (è un tocco caratteristico) dalla [[Death|morte]] di Cavour. Morì [[Alone|sola]] nella stanza con Browning, e di ciò che passò allora, benché molto sia stato detto, poco dovrebbe esserlo. Egli, chiudendosi dietro la porta di quella stanza, chiuse una porta in se stesso, e nessuno vide mai più Browning sulla terra ma soltanto una splendida superficie.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Robert Browning — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -9865,6 +10675,41 @@ where a successful cantatrice reproaches a successful sculptor with
 their failure to understand each other in their youth and [[Poverty|poverty]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+
+BROWNING NEGLI ANNI TARDI
+
+Le confidenze di Browning, per quel poco che ve n'erano, immediatamente dopo la [[Death|morte]] della moglie furono affidate a diverse amiche; per tutta la vita, invero, egli fu intimo soprattutto con donne. Le due più intime tra queste furono la sua stessa sorella, che rimase con lui in tutti i suoi anni più tardi, e la sorella della moglie, che sette anni dopo spirò in sua presenza come aveva fatto Elizabeth. Le altre lettere, che ammontano solo a una o due, riferentisi in qualche modo personale al suo lutto sono indirizzate a Miss Haworth e Isa Blagden. Lasciò Firenze e rimase per un [[Time|tempo]] con il padre e la sorella presso Dinard. Poi tornò a [[London|Londra]] e prese dimora a Warwick Crescent. Abbastanza naturalmente, la cosa per cui ora viveva principalmente era l'[[Education|educazione]] del figlio, ed è caratteristico di Browning che egli fosse non solo un padre assai indulgente, ma un padre indulgente di tipo assai convenzionale: aveva piuttosto il compiaciuto [[Pride|orgoglio]] del gentiluomo della [[City|City]] che la gravità educativa dell'intellettuale.
+
+Browning era ormai famoso, _Bells and Pomegranates, Men and Women, Christmas Eve_, e _Dramatis Personæ_ avevano successivamente glorificato il suo periodo italiano. Ma già rimuginava, mezzo inconsciamente, su cose più famose. Egli stesso ha lasciato agli atti una descrizione dell'episodio da cui crebbe l'intero impulso e disegno del suo più grande conseguimento. In un passo segnato da tutto il suo peculiare senso delle cose materiali, tutto quel potere di scrivere di pietra o metallo o del tessuto del drappeggio, sì che ci pare di maneggiarli e odorarli, egli ha descritto una bancarella per la vendita di cianfrusaglie di ogni varietà di utilità e inutilità:--
+
+«cornici da quadri
+Bianche attraverso l'oro logoro, candelabri a [[Mirror|specchio]] scheggiati,
+Teste d'angelo di bronzo un tempo pomelli fissati a cassoni,
+(Maneggiati quando antiche dame sceglievano il broccato)
+Moderni disegni a [[chalk|gesso]], studi dal nudo,
+Campioni di pietra, giaietto, breccia, porfido
+Levigati e grezzi, svariati busti stupefacenti
+In terra cotta, (rotti, [[Providence|Provvidenza]] sia lodata!)
+Un relitto d'arazzo di trama orgogliosamente intesa
+Quando rossi e azzurri erano davvero rosso e azzurro,
+Ora offerto come stuoia per salvare piedi nudi
+(Poiché i tappeti costituiscono un costo crudele).
+*       *       *       *       *
+Orazio volgarizzato per l'uso delle scuole,
+'La Vita, [[Death|Morte]], Miracoli di San Tal dei Tali,
+San Tal Altro, i suoi Miracoli, [[Death|Morte]], e Vita'--
+Con questo, una sola occhiata al suo dorso recante lettere,
+E 'Bancarella!', gridai; una _lira_ me lo rese mio.»
+
+Questo [[Sketch|schizzo]] incarna invero la poesia stessa dei _débris_, e si avvicina più di quanto abbia fatto qualsiasi altra poesia all'esprimere il pathos e la pittoresca suggestione di un monte di pietà di infima classe. «Questo», che Browning comprò per una lira da questo mucchio di rifiuti, era, naturalmente, il vecchio verbale latino del caso criminale di Guido Franceschini, processato per l'assassinio della moglie Pompilia nell'anno 1698. E questo, di nuovo, è appena necessario dirlo, era la pianta e il motivo di _The Ring and the Book_.
+
+Browning aveva raccolto il volume e in parte progettato il poema durante la vita della moglie in [[Italy|Italia]]. Ma più lo studiava, più le dimensioni del tema parevano allargarsi e approfondirsi; e giunse infine, c'è poco [[Doubt|dubbio]], a considerarlo definitivamente il suo _magnum opus_ a cui avrebbe dedicato molti anni a venire. Poi venne il grande dolore della sua vita, ed egli andò cercando intorno a sé qualcosa di sufficientemente immenso e arduo e complicato da tenere il suo cervello in moto come un'enorme e automatica macchina. «Intendo continuare a scrivere», disse, «che mi piaccia o no.» E così finalmente riprese il disegno della storia Franceschini, e la sviluppò su una scala con un grado di elaborazione, ripetizione, e conduzione, ed erudizione inesauribile quale forse mai prima fu dato nella [[history|storia]] del mondo a una vicenda di due o tre personaggi. Del più ampio significato letterario e spirituale dell'opera, particolarmente in riferimento alla sua curiosa e originale forma di narrazione, parlerò in seguito. Ma c'è una peculiarità in questa storia che ha un più diretto rapporto con la vita di Browning, e appare singolare che pochi, se non nessuno, dei suoi critici l'abbiano notata. Questa peculiarità è la straordinaria somiglianza tra il problema morale implicato nel poema, se compreso nella sua essenza, e il problema morale che costituì la crisi e il centro della vita stessa di Browning. Nulla, propriamente parlando, accadde mai a Browning dopo la [[Death|morte]] della moglie; e la sua più grande opera durante quel [[Time|tempo]] fu il raccontare, sotto simboli estranei e il velo di una storia del tutto diversa, l'intima [[Truth|verità]] sulla propria più grande prova ed esitazione. Egli stesso ebbe in questo senso la stessa difficoltà di Caponsacchi, la suprema difficoltà di doversi affidare alla realtà della virtù non solo senza la ricompensa, ma persino senza il nome della virtù. Aveva, come Caponsacchi, preferito ciò che era disinteressato e ambiguo a ciò che era egoistico e onorevole. Sapeva meglio di ogni uomo che c'è poco pericolo che gli uomini i quali davvero sanno qualcosa di quella nuda e senza dimora responsabilità la cerchino troppo spesso o vi indulgano troppo. La coscienziosità di chi rispetta la legge non è nulla, nei suoi terrori, a paragone della coscienziosità del coscienzioso trasgressore della legge. Browning aveva una volta, per ciò che credeva seriamente essere un bene maggiore, fatto ciò che egli stesso non avrebbe mai avuto l'ipocrisia di negare dovesse chiamarsi inganno ed elusione. Una cosa simile non dovrebbe mai capitare a un uomo due volte. Se trova quella necessità due volte, può, io penso, essere guardato con l'inizio di un sospetto. A Browning venne una volta, ed egli dedicò il suo più grande poema a un'indicazione di come una simile necessità possa venire a qualsiasi uomo degno di vivere.
+
+Come è già stato suggerito, qualsiasi apparente pericolo che possa esservi in questo scusare un atto eccezionale è controbilanciato dai pericoli dell'atto stesso, poiché occorre sempre ricordare che questa specie di atto ha l'immensa differenza da tutti gli atti legali: che può essere giustificato solo dal [[success|successo]]. Se Browning avesse portato la moglie a [[Paris|Parigi]], ed ella vi fosse morta in un albergo, non possiamo che concepirlo dire, con l'amara enfasi di uno dei suoi stessi versi: «Come mi sarei dovuto comportare, di grazia?». Prima e dopo questo evento la sua vita fu tanto tranquilla e casuale quanto sarebbe facile immaginare; ma rimase sempre su di lui qualcosa che fu percepito da tutti coloro che lo conobbero negli anni successivi: lo spirito di un uomo che era stato pronto quando il suo [[Time|tempo]] era venuto, e aveva camminato nella propria devozione e certezza in una posizione ritenuta indifendibile e quasi lungo l'orlo dell'assassinio. Questa grande morale di Browning, che si può chiamare grossolanamente la dottrina della grande ora, entra, naturalmente, in molte [[Poems|poesie]] oltre a _The Ring and the Book_, ed è invero la molla di gran parte della sua poesia presa nel suo insieme. È, naturalmente, l'idea centrale di quel bel poema, «The Statue and the Bust», che ha dato molta angoscia a moltissime persone a causa della sua presunta invasione della [[morality|moralità]] riconosciuta. Tratta, come tutti sanno, di un duca [[Ferdinand|Ferdinando]] e di una fuga d'amore che egli progettò con la sposa di uno dei Riccardi. Gli [[lovers|amanti]] cominciano col rinviare la loro fuga per varie ragioni di convenienza più o meno comprensibili; ma l'abitudine di ritrarsi dal passo finale cresce costantemente in loro, ed essi non lo compiono mai, ma muoiono, per così dire, aspettandosi l'un l'altro. All'obiezione che l'atto così evitato fosse criminale risponde in modo semplicissimo e assai chiaro lo stesso Browning. La sua accusa contro la coppia dilatoria non è minimamente toccata dalla malvagità del loro fine. La sua accusa è che essi non mostrarono alcuna virtù. Il crimine fu in loro frustrato dalla codardia, che è probabilmente la peggiore delle due immoralità. La stessa idea, ancora, può trovarsi in quella deliziosa [[Lyric|lirica]] «Youth and Art», dove una cantatrice di successo rimprovera a uno scultore di successo la loro incapacità di comprendersi a vicenda nella gioventù e nella [[Poverty|povertà]].
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="Robert Browning — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -9970,6 +10815,108 @@ never in the full sense was one. He remained a little too much of a
 boy, a little too much even of a Puritan, and a little too much of
 what may be called a man of the universe, to be a man of the world.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Ogni vita incompiuta, vedi;
+pende ancora, sconnessa e a brandelli:
+non abbiamo sospirato a fondo, riso liberi,
+patito la fame, banchettato, disperato, — né siamo stati felici.»
+
+E questa concezione della grande ora, che erompe dovunque in
+Browning, è quasi impossibile non collegarla al suo stesso dramma
+interiore. È davvero curioso che su questa corrispondenza non si sia
+mai insistito. Probabilmente i critici sono stati tratti in inganno dal fatto che
+Browning in molti luoghi sembra vantarsi di essere puramente drammatico,
+di non aver mai messo se stesso nella propria opera, cosa che nessun poeta,
+buono o cattivo, mai vissuto, avrebbe potuto in alcun modo evitare di fare.
+
+L'enorme ampiezza e serietà di _The Ring and the Book_ occuparono
+Browning per cinque o sei anni, e il grande [[Epic|poema epico]] apparve
+nell'[[Winter|inverno]] del 1868. Poco prima che venisse pubblicato, [[smith|Smith]] ed Elder
+mandarono in stampa un'edizione uniforme di tutte le opere di Browning fino a quel [[Time|tempo]],
+e i due eventi considerati insieme possono essere ritenuti il segno della
+finale e alquanto tardiva culminazione della fama letteraria di Browning.
+Gli anni trascorsi dalla [[Death|morte]] della moglie, che erano stati coperti dalla stesura
+di _The Ring and the Book_, erano stati anni di un'attività quasi
+febbrile in quello e in molti altri modi. I suoi viaggi erano stati inquieti
+e continui, la sua operosità immensa, e per la prima [[Time|volta]] egli cominciò
+quel modo di vita che in seguito divenne tanto caratteristico di
+lui — la vita di ciò che si chiama società. Un uomo di tempra più superficiale e più
+sentimentale avrebbe dichiarato di trovare la vita delle
+tavole imbandite e dei ricevimenti vana e insoddisfacente per un poeta, e
+specialmente per un poeta in lutto. Ma se c'è una cosa più di
+un'altra che è commovente e onorevole in Browning, è la
+totale assenza in lui di questa cantilena dell'insoddisfazione. Egli aveva l'unico
+grande requisito di un poeta — non era difficile da contentare. La vita
+della società era superficiale, ma sono soltanto le persone assai superficiali che
+si oppongono al superficiale. Per l'uomo che vede la meravigliosità
+di tutte le cose, la superficie della vita è pienamente tanto strana e magica quanto il suo
+interno; la chiarezza e la semplicità della vita è pienamente tanto misteriosa quanto
+i suoi misteri. Il giovane in abito da sera, che si infila i guanti,
+è una figura tanto elementare quanto qualsiasi anacoreta, tanto
+incomprensibile, e in verità tanto allarmante.
+
+Un gran numero di persone di lettere hanno espresso stupore, o persino
+disapprovazione, per questa frivolezza mondana di Browning. Nessuna di queste
+persone di lettere si sarebbe scandalizzata se l'interesse di Browning per
+l'umanità l'avesse condotto in una bisca del Far West o in una bassa
+taverna di [[Paris|Parigi]]; ma pare tacitamente assunto che le persone alla moda
+non siano affatto umane. Gli umanitari di tipo materiale e dogmatico,
+i filantropi e i riformatori di professione vanno a cercare
+l'umanità in luoghi remoti e in enormi statistiche. Gli umanitari di
+tipo più vivace, gli artisti bohémien, vanno a cercare l'umanità nelle
+cucine dei ladri e negli atelier del Quartier Latino. Ma
+gli umanitari del tipo più alto, i grandi poeti e filosofi,
+non vanno affatto a cercare l'umanità. Per loro [[Alone|soli]] fra tutti gli uomini
+il salotto più vicino è colmo di umanità, e persino le loro stesse
+famiglie sono umane. Shakespeare concluse la propria vita comprando una [[house|casa]] nella
+sua città natale e conversando con i concittadini. Browning fu invitato
+a moltissime conversazioni e mostre private, e non finse
+che lo annoiassero. In una lettera appartenente a questo periodo della sua vita
+egli descrive la sua prima cena in uno dei collegi di [[Oxford]] con un
+diletto e una [[Vanity|vanità]] non affettati, che non ricordano al lettore null'altro
+tanto quanto l'[[Pride|orgoglio]] del ragazzo-capitano di una public school se fosse
+invitato a una simile funzione e ricevesse qualche complimento. Può
+in verità darsi che Browning avesse una sorta di seconda giovinezza in questo
+riconoscimento sociale così lungamente differito, ma almeno godette della sua seconda
+giovinezza quasi altrettanto quanto della prima, e non tutti sanno
+farlo.
+
+Della reale personalità e presenza di Browning in questa sua tarda mezza età,
+i ricordi sono ancora sufficientemente nitidi. Era un uomo di media statura,
+[[Well|ben]] piantato, dritto, con gesti alquanto enfatici, e, come
+menzionano quasi tutte le testimonianze, una voce curiosamente stridula. La barba,
+la cui rimozione la moglie aveva risentito con così bizzarra
+indignazione, era ricresciuta, ma cresciuta tutta bianca, il che, come lei
+disse quando accadde, era un segno palese della giustizia degli dèi.
+I suoi capelli erano ancora abbastanza scuri, e il suo intero aspetto in questo [[Time|tempo]]
+dev'essere stato assai [[Well|ben]] rappresentato dal bel ritratto del signor G.F. Watts
+nella National Portrait Gallery. Il ritratto reca una delle molte
+testimonianze esistenti della capacità del signor Watts di cogliere l'essenziale del
+carattere, poiché è l'unico dei ritratti di Browning in
+cui otteniamo anzitutto l'aria di virilità, persino di virilità animale,
+temperata ma non dissimulata, con un certo tocco del pallore del
+lavoratore della mente. Egli appare qui ciò che era — un uomo assai sano, troppo
+erudito per vivere una vita completamente sana.
+
+Il suo modo di fare in società, come è stato più di una volta indicato, era quello di
+un uomo ansioso, semmai, di evitare l'aria di eminenza
+intellettuale. Lockhart disse brevemente: «Mi piace Browning; non è affatto
+come un dannato uomo di lettere.» Egli era, secondo alcuni, all'occasione,
+loquace e rumoroso fino all'eccesso; ma vi sono due tipi di uomini che
+monopolizzano la conversazione. Il primo tipo è quello di coloro che amano il suono
+della propria voce; il secondo è quello di coloro che non sanno come
+suoni la propria voce. Browning apparteneva a quest'ultima
+classe. La sua loquacità nel parlare aveva la stessa origine della sua
+voluminosità e oscurità nella letteratura — una sorta di impetuosa
+[[Humility|umiltà]]. Non può di certo essere stato consapevole di parlare più forte della gente
+o aver desiderato di farlo. Poiché ciò sarebbe stato precisamente una
+violazione dell'ideale dell'uomo di mondo, l'unica [[Ambition|ambizione]] e
+persino debolezza che egli aveva. Desiderava essere un uomo di mondo, e non
+lo fu mai nel pieno senso. Rimase sempre un poco troppo un
+ragazzo, un poco troppo persino un puritano, e un poco troppo di
+ciò che si può chiamare un uomo dell'universo, per essere un uomo di mondo.
 
 
 
@@ -10082,6 +11029,113 @@ hatred of Byronism in the brutality of his conversation than many
 people suppose.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Uno dei suoi difetti era probabilmente quella cosa chiamata grossolanamente pregiudizio. Sulla
+questione, per esempio, dei tavolini giranti e dei fenomeni psichici egli
+era in una certa misura feroce e irrazionale. Non era invero, come
+vedremo quando verremo a studiare «Sludge il Medium», esattamente
+prevenuto contro lo spiritismo. Ma era al di là di ogni dubbio
+ostinatamente prevenuto contro gli spiritisti. Se il medium [[Home]]
+fosse o non fosse un mascalzone è alquanto difficile ai nostri giorni
+congetturare. Ma nella misura in cui rivendicava poteri [[Supernatural|soprannaturali]], egli può
+essere stato un gentiluomo onesto quanto ogni altro mai vissuto. E anche se pensiamo
+che l'atmosfera morale di [[Home]] sia quella di un uomo di dubbio
+carattere, possiamo pur sentire che Browning avrebbe potuto raggiungere il suo
+scopo senza rendere così ovvio che lo pensava. Alcune tracce
+ancora, benché assai più tenui, si possono trovare di qualcosa come una
+subconscia ostilità verso la Chiesa Romana, o almeno una meno piena
+comprensione della grandezza della civiltà religiosa latina di quanto
+ci si sarebbe potuti aspettare da un uomo della grande tolleranza immaginativa
+di Browning. L'estetismo, il bohémismo, le irresponsabilità dell'[[artist|artista]],
+i costumi disordinati di Grub Street e del Quartiere Latino, egli
+li odiava con un odio divorante. Egli stesso era preciso in ogni cosa,
+dalla sua erudizione ai suoi abiti; e persino quando indossava le larghe
+vesti bianche del fannullone nell'Europa meridionale, esse erano a loro
+modo precise quanto un abito da cerimonia. Questa cura estrema in ogni
+cosa egli la difendeva contro la cantilena del bohémismo come l'atteggiamento
+giusto per il poeta. Quando qualcuno scusava la volgarità o la trascuratezza
+in nome del genio, egli disse: «Questo è un errore: Noblesse oblige.»
+
+I pregiudizi di Browning, tuttavia, appartenevano tutti a quell'ordine
+sano che è caratterizzato da un'ignoranza allegra e soddisfatta. Non
+fa mai a un uomo alcun grave danno odiare una cosa di cui non sa
+nulla. È l'odiare una cosa quando ne sappiamo qualcosa
+che corrode il carattere. Tutti abbiamo un oscuro sentimento di
+resistenza verso persone che non abbiamo mai incontrato, e una profonda e virile
+avversione per gli autori che non abbiamo mai letto. Non nuoce a un uomo
+essere certo, prima di aprire i libri, che Whitman è un osceno ciarlatano
+o che Stevenson è un mero gingillo dello stile. È l'uomo che sa
+pensare queste cose dopo aver letto i libri a essere in buona
+via verso la perdizione mentale. Il pregiudizio, in realtà, non è tanto il grande
+peccato intellettuale quanto una cosa che possiamo chiamare, per coniare una parola,
+«postgiudizio», non il pregiudizio prima del giusto processo, ma il pregiudizio che
+resta dopo. Con la [[Nature|natura]] rapida ed enfatica di Browning il pregiudizio
+era quasi sempre formato prima che egli fosse entrato nella questione. Ma
+quasi tutti gli uomini che davvero conobbe li ammirò, quasi tutti i libri che
+aveva davvero letto li gustò. Egli sta preminente fra quei grandi
+universalisti che lodavano il suolo che calpestavano e commendavano
+l'esistenza come ogni altro materiale, nei suoi campioni. Non aveva alcuna affinità
+con quei nuovi e strani universalisti del tipo di Tolstoj che
+lodano l'esistenza a esclusione di tutte le istituzioni sotto cui hanno
+vissuto, e di tutti i legami che hanno conosciuto. Egli pensava il mondo
+buono perché vi aveva trovato tante cose che erano buone
+in esso — la religione, la nazione, la famiglia, la classe sociale. Non
+pensava, come il nuovo umanitario, il mondo buono perché vi aveva trovato
+tante cose che erano cattive.
+
+Come è stato precedentemente suggerito, vi era qualcosa di assai bizzarro e
+pericoloso che stava sotto tutto il buon [[Humour|umore]] di Browning. Se uno di
+questi oziosi pregiudizi veniva infranto da una migliore conoscenza, egli ne era tanto
+più compiaciuto. Ma se alcuni dei pregiudizi che erano davvero radicati
+in lui venivano calpestati, anche per caso, come la sua avversione per le
+sfrenate cricche artistiche, o la sua avversione per la pubblicità indegna, la sua
+ira era qualcosa di interamente trasfigurante e allarmante, qualcosa di assai
+lontano dalla stridula disapprovazione di Carlyle e Ruskin. Si può solo
+dire che egli diventava un selvaggio, e non sempre un selvaggio molto amabile o
+presentabile. La furia indecente che danzò sulle ossa di
+Edward Fitzgerald fu una cosa che non avrebbe dovuto stupire alcuno
+che avesse conosciuto molto del carattere di Browning o persino della sua opera.
+Alcune sventurate persone in un'altra occasione avevano ottenuto alcune delle lettere
+della signora Browning poco dopo la sua [[Death|morte]], e proponevano di scrivere una
+_Vita_ fondata su di esse. Avrebbero dovuto capire che Browning
+probabilmente avrebbe disapprovato; ma se egli ne parlò loro, come
+fece con altri, ed è oltremodo probabile che l'abbia fatto, essi devono
+aver pensato che fosse pazzo. «Ciò che soffro con le zampe di questi
+mascalzoni nelle mie viscere lo potete immaginare,» dice. E ancora scrive:
+«Pensate a questa bestia che lavora, non stimando i miei sentimenti, o quelli
+della famiglia di lei, degni di attenzione. Non sarà fatto se io posso fermare
+la furfanteria del briccone insieme al suo respiro.» Se Browning davvero
+ricorse a questa estrema via è ignoto; nulla si sa se non
+che scrisse all'ambizioso biografo una lettera che lo ridusse
+al [[Silence|silenzio]], probabilmente per lo stupore.
+
+La stessa peculiarità avrebbe dovuto, come ho detto, essere apparsa a
+chiunque conoscesse qualcosa dell'opera letteraria di Browning. Un gran numero
+delle sue [[Poems|poesie]] sono segnate da un tratto di cui, per sua [[Nature|natura]], è più
+o meno impossibile dare esempi. Basti dire che è
+davvero straordinario che poeti come Swinburne (che di rado usa una parola
+grossolana) siano stati additati come se avessero introdotto la
+licenza morale nella poesia vittoriana. Ciò che la [[Conscience|coscienza]] non-conformista abbia
+mai fatto per aver lasciato passare Browning è cosa difficile da immaginare.
+Ma la peculiarità di questa occasionale grossolanità nella sua opera è
+questa — che essa è sempre usata per esprimere una certa salutare furia e
+disprezzo per le cose malaticce, o meschine, o non virili. Il poeta sembra
+sentire che vi sono certe cose così spregevoli che se ne può soltanto
+parlare con parole da taverna. Sarebbe ozioso, e forse
+indesiderabile, dare esempi; ma si può notare che la stessa
+brutale metafora fisica è usata dal suo Caponsacchi a proposito della gente
+che poteva immaginare Pompilia impura e dal suo Shakespeare in «At the
+[[Mermaid]]», a proposito della pretesa del poeta byroniano di entrare nel cuore
+dell'umanità. In entrambi i casi Browning sente, e forse in un certo modo
+a ragione, che la miglior cosa che possiamo fare con un sentimento essenzialmente
+vile è spogliarlo delle sue affettazioni ed enunciarlo vilmente, e che
+il fango di Chaucer è di gran lunga migliore del [[Poison|veleno]] di Sterne.
+Anche qui Browning è vicino all'uomo comune; e per rendere all'uomo
+comune giustizia, vi è ben più di questo browninghiano
+odio del byronismo nella brutalità della sua conversazione di quanto molti
+suppongano.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="Robert Browning — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -10182,6 +11236,102 @@ Aristophanes, dark with levity and as obscure as a schoolman's
 treatise, with its load of jokes.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tale, grosso modo e per quanto possiamo scoprire, era l'uomo che, nella
+piena [[Summer|estate]] e persino nel pieno [[Autumn|autunno]] delle sue facoltà intellettuali, cominciò
+a crescere nella coscienza del mondo letterario inglese intorno a
+questo [[Time|tempo]]. Per la prima [[Time|volta]] l'[[Friendship|amicizia]] crebbe fra lui e gli
+altri grandi uomini del suo [[Time|tempo]]. Tennyson, per il quale allora e sempre
+nutrì la migliore e più personale specie di ammirazione, entrò nella
+sua vita, e insieme a lui Gladstone e Francis Palgrave. Cominciarono
+ad accalcarsi su di lui quegli onori con cui un uomo è in qualche misura
+reso un classico in vita, così che è onorato anche se
+non è letto. Fu fatto Fellow di Balliol nel 1867, e l'omaggio delle
+grandi università continuò da allora incessante fino alla sua [[Death|morte]],
+nonostante molti rifiuti da parte sua. Fu eletto all'unanimità Lord
+Rettore dell'Università di Glasgow nel 1875. Rifiutò, a causa della sua profonda
+e alquanto caratteristica avversione per il parlare pubblico formale, e nel
+1877 dovette rifiutare per simili motivi la simile offerta dell'
+Università di St. Andrews. Fu molto presente nelle università inglesi,
+era amico del Dr. Jowett, e godette della vita universitaria all'età
+di sessantatré anni in un modo in cui probabilmente non ne avrebbe goduto se
+fosse mai stato all'università. Le grandi università non lo lasciavano
+[[Alone|solo]], a loro grande merito, ed egli divenne D.C.L. di Cambridge
+nel 1879, e D.C.L. di [[Oxford]] nel 1882. Quando ricevette questi
+onori vi furono, naturalmente, le tradizionali buffonate degli
+studenti, e uno di loro gli lasciò cadere con precisione un berretto rosso da [[Night|notte]]
+di cotone sul capo mentre passava sotto la galleria. Alcuni sdegnati
+intellettuali gli scrissero per protestare contro quest'affronto, ma
+Browning prese la faccenda nel modo migliore e più caratteristico. «Siete assai
+troppo severo,» scrisse in risposta, «verso le innocentissime
+buffonerie dei giovani. Anzi, vi era un tempo un buffone regolarmente
+nominato, 'Filius Terrae' lo chiamavano, il cui compito era
+di canzonare e beffare gli onorati a mo' di richiamo che tutte le
+glorie umane sono soltanto ninnoli dorati e non devono essere immaginate
+metallo.» In questo vi sono altre e più profonde cose caratteristiche di
+Browning oltre alla sua dottrina e al suo [[Humour|umore]]. Nel discutere qualsiasi cosa, egli
+deve sempre ricadere su grandi idee speculative ed eterne. Persino
+nella pagliacciata di un'orda di studenti egli può solo vedere un
+simbolo dell'antico ufficio del ridicolo nello schema della morale. I
+giovani stessi erano probabilmente inconsapevoli di essere i
+rappresentanti del «Filius Terrae».
+
+Ma gli anni durante i quali Browning mieteva così alcuni dei suoi tardivi
+allori cominciarono a riempirsi di eventi che gli ricordavano come gli
+anni gli passassero sopra. Il 20 giugno 1866 suo padre era morto, un
+uomo di cui è impossibile pensare senza una certa emozione, un uomo
+che aveva vissuto quietamente e tenacemente per gli altri, a cui Browning
+doveva più di quanto sia facile indovinare, a cui noi con ogni probabilità
+dobbiamo principalmente Browning. Nel 1868 una delle sue più intime amiche, Arabella
+Barrett, la sorella di sua moglie, morì, come aveva fatto la sorella, [[Alone|sola]]
+con Browning. Browning non era un uomo superstizioso; se ne vantava anzi
+alquanto tempestosamente del contrario; ma egli annota in questo [[Time|tempo]] «un
+sogno che Arabella ebbe di Lei, in cui profetizzava il loro incontro
+fra cinque anni», cioè, naturalmente, l'incontro di Elizabeth e
+Arabella. Il suo amico Milsand, a cui era stato dedicato _Sordello_, morì
+nel 1886. «Non conobbi mai,» disse Browning, «né mai conoscerò, il suo pari
+fra gli uomini.» Ma sebbene sia la fama sia un crescente isolamento indicassero
+che egli passava verso la sera dei suoi giorni, sebbene recasse
+tracce del progredire, in un atteggiamento più mite verso le cose, e in una
+maggiore preferenza per lunghi esili con coloro che amava, una cosa
+continuò in lui con indomabile energia — non vi fu diminuzione nella
+quantità, nessun affievolirsi negli immensi disegni della sua produzione
+intellettuale.
+
+Nel 1871 produsse _Balaustion's Adventure_, un'opera che esibisce non
+soltanto il suo genio nella sua più alta condizione di potenza, ma qualcosa di più
+esigente persino del genio per un uomo della sua vita matura e mutata,
+un'immensa investigazione, una prodigiosa [[Memory|memoria]], la piena assimilazione
+della vasta letteratura di una civiltà remota. _Balaustion's
+Adventure_, che è, naturalmente, la mera cornice per una versione inglese
+dell'Alcesti di Euripide, è un'illustrazione di uno dei
+più bei tratti di Browning, la sua incommensurabile capacità di un'ammirazione
+classica. Coloro che lo conobbero ci dicono che nella conversazione egli non
+si rivelava mai così impetuosamente o così brillantemente come quando declamava
+la poesia altrui; e _Balaustion's Adventure_ è un monumento di questa ardente
+dimenticanza di [[Self|sé]]. È penetrato dall'appassionato
+[[Desire|desiderio]] di rendere degnamente Euripide, e a quell'[[Imitation|imitazione]] sono per il
+[[Time|momento]] dedicate tutte le gigantesche potenze che andarono a fare i
+[[songs|canti]] di Pippa e l'ultima agonia di Guido. Browning non mise mai se stesso
+in nulla più potentemente o più felicemente; eppure è soltanto un'
+eccellente [[Translation|traduzione]]. Nella rozza [[philosophy|filosofia]] di [[Caliban|Calibano]], nell'
+aggrovigliata etica di Sludge, nella sua più selvaggia [[Satire|satira]], nella sua più
+sventata [[Lyric|lirica]], Browning non fu mai più compiutamente Browning che
+in questo splendido e disinteressato plagio. Questa rinnovata eccitazione per le
+cose greche; «il suo appassionato [[Love|amore]] della lingua greca» continuò
+in lui da allora fino alla sua [[Death|morte]]. Pubblicò più di un poema
+sul dramma dell'Ellade. _Aristophanes' Apology_ uscì nel 1875, e
+_The [[Agamemnon]] of Æschylus_, un'altra parafrasi, nel 1877. Tutti e tre i
+[[Poems|poemi]] sono segnati dalla stessa caratteristica primaria, il fatto che lo
+scrittore ha la letteratura di Atene letteralmente sulla punta delle dita. Egli
+è intimo non soltanto con la loro poesia e politica, ma con la loro
+frivolezza e il loro gergo; conosce non soltanto la sapienza ateniese, ma
+la follia ateniese; non soltanto la [[Beauty|bellezza]] della Grecia, ma persino la sua volgarità.
+In effetti, una pagina di _Aristophanes' Apology_ è come una pagina di
+Aristofane, oscura di leggerezza e imperscrutabile come il trattato di uno
+scolastico, con il suo carico di facezie.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_05" data-title="Robert Browning — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -10281,6 +11431,102 @@ says in effect, "You call this a country of [[Sleep|sleep]], I call it a country
 of [[Death|death]]. You call it 'White Cotton [[Night]]-Cap Country'; I call it 'Red
 Cotton [[Night]]-Cap Country.'"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel 1871 apparve inoltre _Prince Hohenstiel-Schwangau: Saviour of
+Society_, uno dei più belli e pittoreschi di tutti i monologhi
+apologetici di Browning. La figura è, naturalmente, intesa per Napoleone
+III, il cui Impero era appena caduto, trascinando giù con sé il suo paese.
+È stato spesso citato il detto che Luigi Napoleone ingannò l'Europa
+due volte — una quando le fece credere che fosse uno sciocco, e una quando le
+fece credere che fosse uno statista. Si potrebbe aggiungere che l'Europa non fu
+mai del tutto giusta con lui, e fu ingannata una terza [[Time|volta]], quando lo prese
+dopo la sua caduta per un ciarlatano e una nullità esplosa. In mezzo al
+generale [[Chorus|coro]] di disprezzo che si levò sulla sua debole e
+senza scrupoli politica degli ultimi anni, culminante nel suo grande disastro,
+vi sono poche cose più belle di questo tentativo di Browning di dare all'
+uomo una tribuna e lasciarlo parlare per sé. È l'apologia di un
+avventuriero politico, e un avventuriero politico di un genere peculiarmente
+esposto alla condanna popolare. L'umanità è sempre stata alquanto
+incline a perdonare l'avventuriero che distrugge o ri-crea, ma
+non vi è nulla di ispiratore nell'avventuriero che meramente conserva.
+Abbiamo simpatia per il [[Rebel|ribelle]] che mira alla ricostruzione, ma vi è
+qualcosa di ripugnante all'[[Imagination|immaginazione]] nel [[Rebel|ribelle]] che si ribella in
+nome del compromesso. Browning dovette difendere, o piuttosto
+interpretare, un uomo che rapiva i politici nella [[Night|notte]] e inondava
+Montmartre di [[Blood|sangue]], non per un ideale, non per una [[Reform|riforma]], non
+precisamente nemmeno per una causa, ma semplicemente per lo stabilirsi di un
+_régime_. Egli fece queste cose orrende non tanto perché potesse
+essere in grado di farne di migliori, ma perché lui e chiunque altro potesse
+essere in grado di non fare nulla per vent'anni; e la tesi di Browning, e una tesi
+assai plausibile, è che il criminale credeva che il suo delitto
+avrebbe stabilito l'ordine e il compromesso, o, in altre parole, che
+pensava che il nulla fosse proprio la miglior cosa che lui e il suo popolo potessero
+fare. Vi è qualcosa di peculiarmente caratteristico di Browning nel
+scegliere così non soltanto un [[Villain|malvagio]] politico, ma quello che parrebbe il più
+prosaico genere di [[Villain|malvagio]]. Non troviamo quasi mai in Browning una difesa
+di quegli ovvi e facilmente difendibili pubblicani e peccatori i cui
+misti pregi e vizi sono la materia del [[Romance|romanzesco]] e del [[Melodrama|melodramma]] — il
+generoso libertino, il bonario ubriacone, l'uomo forte troppo grande per
+le morali parrocchiali. Egli fu in un senso ancor più solitario l'amico
+del reietto. Accolse i peccatori che persino i peccatori scacciavano. Andò
+con l'ipocrita ed ebbe [[Mercy|misericordia]] del fariseo.
+
+Quanto poco questo [[Desire|desiderio]] di Browning, di guardare per un momento la vita
+dell'uomo con gli occhi dell'uomo, fosse compreso, si può desumere dalle
+critiche a _Hohenstiel-Schwangau_, il quale, dice Browning, «il
+Direttore dell'_Edinburgh Review_ chiama il mio elogio del Secondo
+Impero, cosa che non è, non più di quanto un altro saccente afferma
+esso sia, un scandaloso attacco al vecchio costante amico dell'Inghilterra.
+È giusto ciò che immagino l'uomo potrebbe, se gli piacesse, dire per
+se stesso.»
+
+Nel 1873 apparve _Red-Cotton [[Night]]-Cap Country_, il quale, se non è
+assolutamente uno dei più belli dei [[Poems|poemi]] di Browning, è certamente uno dei
+più magnificamente browninghiani. L'origine del nome del
+poema è probabilmente [[Well|ben]] nota. Egli viaggiava lungo la costa della Normandia,
+e scoprì ciò che egli chiamò
+
+«Miti, finora non-Murrayati luoghi di bagni,
+prediletti della Normandia piena d'anfratti marini!»
+
+Miss Thackeray, che era della compagnia, deliziò Browning oltre
+misura chiamando il sonnolento vecchio distretto di pescatori «White Cotton
+[[Night]]-Cap Country.» Era esattamente il genere di frase elfica verso cui
+Browning aveva, va sempre ricordato, un'attrazione affatto
+indomabile. La nozione di una città del [[Sleep|sonno]], dove uomini e donne andavano
+in giro in berretti da notte, una nazione di sonnambuli, era il genere di cosa
+che Browning nel suo cuore amava più di _Paradise Lost_. Qualche
+[[Time|tempo]] dopo lesse in un giornale una storia assai penosa di
+dissolutezza e [[suicide|suicidio]] che occupò grandemente i giornali francesi
+nell'anno 1871, e che aveva avuto luogo nello stesso distretto. Vale
+la pena notare che Browning era uno di quei saggi che sanno percepire
+la terribile e imponente poesia della cronaca nera, che è
+comunemente trattata come volgarità, che è tremenda e può essere
+indesiderabile, ma non è di certo volgare. Da _The Ring and the Book_
+a _Red-Cotton [[Night]]-Cap Country_ un gran numero delle sue opere si potrebbe
+chiamare magnifiche storie [[Detective|poliziesche]]. La storia è alquanto brutta, e
+la sua potenza non ne altera la bruttezza, poiché la potenza può soltanto rendere
+la bruttezza più brutta. E in questo poema vi è poco o nulla della
+rivelazione di quella segreta ricchezza di valore e pazienza nell'umanità
+che rende reale e riscatta la rivelazione della sua segreta vilezza in
+_The Ring and the Book_. Sembra quasi a prima vista come se Browning
+avesse per un momento ceduto tutta la sua inespugnabile
+posizione filosofica e ammesso la strana eresia che una storia umana
+possa essere sordida. Ma questa veduta del poema è, naturalmente, un
+errore. Fu scritto in qualcosa che, in mancanza di una parola più esatta,
+dobbiamo chiamare uno degli amari umori di Browning; ma l'
+amarezza è interamente il prodotto di una certa generosa ostilità
+contro la classe delle morbosità che egli davvero detestava, talvolta
+più di quanto meritassero. In questo poema questi principii di debolezza e
+di male sono per lui incarnati come il più malaticcio genere di romanismo, e il
+lato più sensuale del temperamento francese. Non dobbiamo mai dimenticare quanto
+gran parte del puritano rimanesse in Browning fino alla fine.
+Questo suo scoppio è feroce e ironico, non nel suo spirito migliore. Esso
+dice in effetti: «Voi chiamate questo un paese del [[Sleep|sonno]], io lo chiamo un paese
+della [[Death|morte]]. Voi lo chiamate 'White Cotton [[Night]]-Cap Country'; io lo chiamo 'Red
+Cotton [[Night]]-Cap Country.'»
 
 
 
@@ -10393,6 +11639,114 @@ But it may be safely asserted that no other poet, having thought of a
 deep, delicate, and spiritual idea, would call it "A Bean Stripe; also
 Apple Eating."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poco prima di questo, nel 1872, aveva pubblicato _Fifine at the Fair_,
+che il suo principale biografo, e uno dei suoi più intransigenti
+ammiratori, chiama un pezzo di perplesso cinismo. Perplesso può esserlo
+in una certa misura, poiché era quasi impossibile dire se Browning
+sarebbe stato o non sarebbe stato perplesso persino in una [[Song|canzone]] d'[[Love|amore]] o in una cartolina.
+Ma cinismo è una parola che non può in alcun modo essere applicata con alcuna
+proprietà a nulla che Browning abbia mai scritto. Il cinismo denota quella
+condizione della mente in cui riteniamo che la vita sia nella sua [[Nature|natura]] meschina e
+arida; che nessuna [[Soul|anima]] contenga genuina bontà, e nessuno stato di cose
+genuina affidabilità. _Fifine at the Fair_, come _Prince
+Hohenstiel-Schwangau_, è uno dei soliloqui apologetici di
+Browning — il soliloquio di un epicureo che cerca semi-scherzosamente
+di giustificare su basi morali un'infedeltà nella quale in seguito
+effettivamente cade. Questo casista, come tutti i casisti di Browning, è dotato di
+molti nobili slanci e sinceri momenti, e perciò a quanto pare il
+poema è chiamato cinico. È difficile capire quale particolare
+connessione vi sia fra il non veder bene in nessuno e il vedere bene persino
+in un [[Fool|folle]] sensuale.
+
+Dopo _Fifine at the Fair_ apparve l'_Inn Album_, nel 1875, un'opera
+puramente narrativa, interessante soprattutto perché esibisce in un
+luogo ancora diverso una delle caratteristiche vitali di Browning, un piacere nel raccontare
+di nuovo e interpretare eventi reali di tipo sinistro e criminale; e dopo
+l'_Inn Album_ venne quello che è forse il più assurdamente
+individuale scritto che egli abbia mai composto, _Of Pacchiarotto, and How He Worked in
+Distemper_, nel 1876. È impossibile chiamare l'opera poesia, ed è
+davvero assai difficile sapere come chiamarla. La sua principale
+caratteristica è una sorta di energia galoppante, un'energia che non ha
+nulla di intellettuale o persino di intelligibile, una energia puramente animale
+delle parole. Non soltanto non è bella, non è nemmeno arguta,
+eppure trascina via il lettore come potrebbe essere trascinato via da
+fanciulli in baldoria. Termina con una voluble e in gran parte insensata
+maledizione contro i critici del poeta, una maledizione così oltraggiosamente
+bonaria che non si prende nemmeno la briga di rendersi
+chiara agli oggetti della sua ira. Si può paragonare il poema a nulla
+in cielo o in terra, se non agli alquanto umoristici, più o meno
+benevoli, e affatto incomprensibili cataloghi di imprecazioni e bestemmie
+che si possono udire da uno sterratore ubriaco. Questo è il genere di
+cosa, e va avanti per pagine: —
+
+«Molto dopo che l'ultimo del vostro numero
+avrà cessato d'ingombrare il mio [[Court|cortile]] d'ingresso,
+mentre, calpestando [[Rose|rosa]] e ranuncolo,
+voi _Tommy-fa'-posto-a-tuo-zio_-atevi!
+In marcia, tutti voi, uomo od omuncolo,
+avanti presto! ché Santippe, la mia serva,
+se una volta sulle vostre zucche una doccia versa
+con ciò, padella o pentola, ciotola o _skoramis_,
+che prima le viene a mano — le cose andavan peggio!
+Non vorrei per nulla al mondo essere al posto vostro —
+ricettacolo delle risciacquature dal catino!
+Voi, Jack-in-the-Green, fronde-e-ramoscelli,
+non salverete un filo asciutto della vostra spocchia!»
+
+Si può soltanto chiamare questo, nel senso più letterale della parola, la
+forza-bruta del linguaggio.
+
+Nonostante tuttavia questa mostruosità fra i [[Poems|poemi]], che dà il suo
+titolo al volume, esso contiene alcuni dei più bei versi
+che Browning abbia mai scritto in quello stile di lieve [[philosophy|filosofia]] in cui egli
+era ineguagliato. Nulla rese mai così perfettamente e artisticamente ciò
+di cui si parla troppo alla leggera come di un brivido, quanto il poema chiamato «Fears and
+Scruples», in cui un uomo descrive la mistificante condotta di un
+amico assente, e riserva all'ultimo verso il culmine —
+
+«Zitto, vi prego!
+E se quest'amico si desse il caso fosse — Dio.»
+
+È il capolavoro di quell'eccellente ma tanto abusata qualità
+letteraria, il Sensazionalismo.
+
+Il volume intitolato _Pacchiarotto_, inoltre, comprende uno o due dei
+più vivaci [[Poems|poemi]] sul tema del poeta in relazione alla
+pubblicità — «At the [[Mermaid]]», «[[house|House]]», e «Shop».
+
+Nonostante i suoi anni crescenti, i suoi libri sembravano semmai
+venir più fitti e più rapidi. Due ne furono pubblicati nel 1878 — _La Saisiaz_, il suo
+grande poema metafisico sulla concezione dell'[[Immortality|immortalità]], e quel
+deliziosamente vanesio [[Fragment|frammento]] dell'_ancien régime_, _The Two Poets
+of Croisic_. Quei due [[Poems|poemi]] basterebbero da [[Alone|soli]] a mostrare che egli non
+aveva dimenticato la dura scienza della teologia né la più dura scienza dell'
+[[Humour|umore]]. Un'altra raccolta seguì nel 1879, la prima serie di
+_Dramatic Idylls_, che contengono capolavori come «Pheidippides»
+e «Ivàn Ivànovitch». Sulle sue orme, nel 1880, venne la seconda serie
+di _Dramatic Idylls_, comprendente «Muléykeh» e «Clive», forse le
+due migliori storie in poesia, narrate nella miglior maniera del narrare.
+Solo allora la meravigliosa fontana cominciò a rallentare in quantità,
+ma mai in qualità. _Jocoseria_ non apparve fino al 1883. Esso
+contiene fra le altre cose un ritorno alla sua primissima maniera nella
+[[Lyric|lirica]] di «Never the [[Time]] and the Place», che possiamo chiamare la
+più spensierata [[Song|canzone]] d'[[Love|amore]] mai scritta da un uomo di oltre
+settant'anni. L'anno seguente apparve _Ferishtah's Fancies_, che
+esibisce alcune delle sue più acute sagacità cosmiche, espresse in alcune delle
+sue più bizzarre e caratteristiche immagini. Qui forse più che
+altrove vediamo quella suprema peculiarità di Browning — il suo senso
+del simbolismo delle inezie materiali. Enormi problemi, e risposte ancora più
+enormi, sul [[Pain|dolore]], la [[prayer|preghiera]], il destino, la libertà, e la [[Conscience|coscienza]]
+sono suggeriti da ciliegie, dal sole, da un venditore di meloni, da un'aquila
+che vola nel cielo, da un uomo che dissoda un lembo di terra. È questo
+spirito di [[Grotesque|grottesca]] [[Allegory|allegoria]] che davvero caratterizza Browning fra
+tutti gli altri poeti. Altri poeti avrebbero forse potuto imbattersi nella stessa
+idea filosofica — un'idea altrettanto profonda, altrettanto delicata, altrettanto spirituale.
+Ma si può tranquillamente asserire che nessun altro poeta, avendo pensato a un'
+idea profonda, delicata e spirituale, la chiamerebbe «A Bean Stripe; also
+Apple Eating».
 
 
 
@@ -10516,6 +11870,124 @@ choir singing his wife's poem, "He giveth His beloved [[Sleep|sleep]]." On the
 day that he died _Asolando_ was published.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trascorsero altri tre anni, e l'ultimo libro che Browning pubblicò
+in vita fu _Parleyings with Certain People of Importance in
+their Day_, un libro che consiste di apostrofi, amichevoli, furiose,
+reverenziali, satiriche, commosse a una serie di persone di cui la
+vasta maggioranza persino delle persone colte non ha mai sentito parlare in vita
+loro — Daniel Bartoli, Francis Furini, Gerard de Lairesse, e Charles
+Avison. Questa straordinaria conoscenza della pienezza della [[history|storia]] era una
+cosa che non cessò mai di caratterizzare Browning anche quando egli era
+sfortunato in ogni altra qualità letteraria. Del tutto a prescindere da
+ogni verso che egli mai scrisse, si può giustamente dire che nessuna mente ricca
+quanto la sua portò mai i suoi tesori nella [[Grave|tomba]]. Tutti questi tardi [[Poems|poemi]]
+sono vigorosi, dotti e sanguigni. Sono pienamente
+caratteristici del loro autore. Ma nulla in essi è così
+caratteristico del loro autore quanto questo fatto, che quando egli li ebbe
+pubblicati tutti, ed era già prossimo al suo ultimo giorno, si volse
+con l'energia di un ragazzo uscito da scuola, e cominciò, fra tutte le cose
+al mondo, a riscrivere e migliorare «Pauline», il giovanile poema che
+aveva scritto cinquantacinque anni prima. Ecco un uomo coperto di
+gloria e prossimo alle porte della [[Death|morte]], che era pronto a darsi
+l'elaborata pena di ricostruire l'umore, e riedificare i
+versi di un lungo poema giovanile che era stato dimenticato per cinquant'
+anni nel fulgore di successive vittorie. Sono cose come queste
+che danno a Browning un interesse di personalità che va assai oltre il
+mero interesse del genio. Fu di tali cose che Elizabeth
+Barrett scrisse in uno dei suoi migliori momenti di intuizione — che il suo genio
+era la cosa meno importante di lui.
+
+Durante tutti questi ultimi anni, la vita di Browning era stata quieta e
+regolare. Egli passava sempre l'[[Winter|inverno]] in [[Italy|Italia]] e l'[[Summer|estate]] a
+[[London|Londra]], e portava il suo vecchio [[Love|amore]] della precisione al punto di non
+mancare mai, giorno dopo giorno per tutto l'anno, di lasciare la [[house|casa]] alla
+stessa [[Time|ora]]. Egli era per questo [[Time|tempo]] divenuto assai più una figura pubblica di
+quanto fosse mai stato prima, sia in Inghilterra sia in [[Italy|Italia]]. Nel 1881, il Dr.
+Furnivall e Miss E.H. Hickey fondarono la famosa «Browning Society».
+Egli divenne Presidente della nuova «Shakespeare Society» e della
+«Wordsworth Society». Nel 1886, alla [[Death|morte]] di Lord Houghton, egli
+accettò il posto di Corrispondente Estero della Royal Academy. Quando
+si trasferì a De Vere Gardens nel 1887, cominciò a farsi evidente che egli
+si stava lentamente disfacendo. Cenava ancora fuori di continuo; ancora
+frequentava ogni ricevimento e mostra privata; corrispondeva ancora
+prodigiosamente, e persino accresceva la sua corrispondenza; e non vi è
+nulla di più tipico di lui del fatto che ora, quando era quasi già
+un classico, rispondeva a ogni complimento con la più deliziosa [[Vanity|vanità]]
+e imbarazzo. In una lettera al signor George Bainton, a proposito dello stile,
+egli fa un'osservazione che è un'eccellente critica sull'intera sua
+carriera letteraria: «Io stesso ho trovato molti campi dimenticati che si sono
+rivelati i più ricchi dei pascoli.» Ma nonostante la sua continua energia, la sua
+salute andava gradualmente peggiorando. Era un uomo forte in senso muscolare, e
+ordinariamente in senso fisico, ma era anche in un certo senso
+un uomo nervoso, e si può dire che sia morto di eccitazione cerebrale
+protratta per tutta una vita. In questi anni conclusivi egli cominciò a sentire
+più costantemente la necessità del riposo. Egli e sua sorella andarono a vivere
+in un piccolo albergo a Llangollen, e passavano ore insieme conversando e
+bevendo tè sul prato. Egli stesso scrive in una delle sue bizzarre e
+poetiche frasi che era giunto ad [[Love|amare]] questi lunghi ritiri campestri,
+«un altro periodo di deliziose settimane, ciascuna coronata da una dolce e stellata
+[[Sunday|domenica]] nella chiesetta.» Per la prima [[Time|volta]], e negli ultimi due
+o tre anni, egli stava davvero invecchiando. Su un punto egli mantenne
+sempre una decisione tranquilla e immutata. La scuola pessimistica della
+poesia gli cresceva tutt'intorno; i decadenti, con la loro credenza
+che l'arte fosse soltanto un contare le [[Leaves|foglie]] d'[[Autumn|autunno]], si avvicinavano
+sempre più al loro stanco trionfo e alla loro insipida
+popolarità. Ma Browning non voleva per un solo istante togliere il disprezzo
+di essi dalla sua voce. «[[Death|Morte]], [[Death|morte]], è questo insistere sulla [[Death|morte]] che
+tanto disprezzo. Nella narrativa, nella poesia, francese come [[Well|pure]] inglese,
+e mi si dice anche americana, nell'arte e nella letteratura, l'[[Shadow|ombra]] della
+[[Death|morte]], chiamatela come volete, [[Despair|disperazione]], negazione, indifferenza, è su di
+noi. Ma che sciocchi coloro che così parlano! Ebbene, _amico mio_, voi sapete tanto [[Well|bene]]
+quanto me che la [[Death|morte]] è vita, proprio come il nostro [[Body|corpo]] che quotidianamente e momentaneamente muore
+non è per questo meno vivo, e sempre recluta nuove forze d'esistenza.
+Senza la [[Death|morte]], che è la nostra parola cimiteriale e crespo-simile per il cambiamento,
+per la crescita, non vi potrebbe essere alcun prolungamento di ciò che chiamiamo vita.
+Non dite mai di me che sono morto.»
+
+Il 13 agosto 1888 egli partì ancora una volta per l'[[Italy|Italia]], l'ultimo dei suoi
+innumerevoli viaggi. Durante il suo ultimo periodo italiano egli sembra essere
+ricaduto in semplicità del tutto ultime, principalmente un mero contemplare
+la [[Nature|natura]]. La famiglia con cui viveva teneva un cucciolo di volpe, e Browning
+passava ore con esso osservandone i [[Grotesque|grotteschi]] modi; quando esso
+scappò, egli fu, abbastanza caratteristicamente, deliziato. Il vecchio poteva
+essere visto di continuo nei viottoli intorno ad Asolo, scrutando dentro le siepi e
+fischiando alle lucertole.
+
+Questo sereno e [[Pastoral|pastorale]] declino, sicuramente il più mite dei pendii verso la
+[[Death|morte]], fu improvvisamente ravvivato da un lampo di qualcosa che giaceva assai
+al di sotto. L'occhio di Browning cadde su un passo scritto dal distinto
+Edward Fitzgerald, che era morto da molti anni, in cui
+Fitzgerald parlava in maniera poco lusinghiera di Elizabeth Barrett
+Browning. Browning scrisse immediatamente le «Lines to Edward Fitzgerald»,
+e mise l'intero mondo letterario in subbuglio. I versi erano amari
+ed eccessivi per essere stati scritti contro qualsiasi uomo, specialmente amari
+ed eccessivi per essere stati scritti contro un uomo che non era vivo per
+rispondere. Eppure, quando tutto è detto, è impossibile non provare un
+certo oscuro e indescrivibile piacere in questo ultimo scoppio della vecchia
+energia barbarica. La montagna era stata dissodata e imboschita, e disposta
+in giardini fino alla vetta; ma per un'ultima [[Night|notte]] essa si era provata
+ancora una volta un vulcano, e aveva illuminato tutte le pianure con il suo
+[[Fire|fuoco]] dimenticato. E il colpo, per selvaggio che fosse, fu vibrato per quella
+grande centrale santità — la storia della giovinezza di un uomo. Tutto ciò che il vecchio
+avrebbe detto in risposta a ogni veduta della questione era: «Sentivo come
+se ella fosse morta ieri.»
+
+Verso il dicembre del 1889 egli si trasferì a [[Venice|Venezia]], dove cadde malato. Egli
+prendeva pochissimo cibo; era anzi una delle sue peculiari piccole fisime
+che gli uomini non dovessero prendere cibo quando sono malati, cosa in cui egli
+sosteneva che gli [[Animals|animali]] fossero più assennati. Asseriva
+vigorosamente che questo alquanto singolare regime lo avrebbe tirato fuori,
+parlava dei suoi piani, e appariva allegro. Gradualmente, tuttavia, il
+parlare divenne più infrequente, l'allegria trapassò in una specie di
+placidità; e senza alcuna particolare crisi o segno della fine,
+Robert Browning morì il 12 dicembre 1889. Il [[Body|corpo]] fu portato a bordo di una
+[[Ship|nave]] dalla Guardia Municipale di [[Venice|Venezia]], e ricevuto dai marinai reali
+italiani. Fu sepolto nell'Angolo dei Poeti dell'Abbazia di Westminster, mentre il
+coro cantava il poema di sua moglie, «He giveth His beloved [[Sleep|Sleep]].» Il
+giorno in cui morì fu pubblicato _Asolando_.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="Robert Browning — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
@@ -10620,6 +12092,107 @@ inventing new forms. Among all his two hundred to three hundred [[Poems|poems]]
 it would scarcely be an exaggeration to say that there are half as
 many different metres as there are different [[Poems|poems]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+
+BROWNING COME [[artist|ARTISTA]] LETTERARIO
+
+Il signor William Sharp, nella sua _Vita_ di Browning, cita le osservazioni di
+un altro critico nel modo seguente: «I processi di pensiero del poeta
+sono scientifici nella loro precisione e analisi; la conclusione improvvisa
+che egli impone loro è trascendentale e inetta.»
+
+Questo è un esempio assai giusto ma assai curioso del modo in cui
+Browning è trattato. Poiché qual è lo stato delle cose? Un uomo pubblica
+una serie di [[Poems|poemi]], vigorosi, perplessi e unici. I critici li leggono,
+e decidono che egli ha fallito come poeta, ma che è un
+notevole filosofo e logico. Procedono quindi a esaminare la sua
+[[philosophy|filosofia]], e mostrano con gran trionfo che essa è non filosofica,
+e a esaminare la sua [[logic|logica]] e a mostrare con gran trionfo che essa non è
+logica, ma «trascendentale e inetta». In altre parole, Browning è
+dapprima denunciato per essere un logico e non un poeta, e poi
+denunciato per insistere a essere un poeta quando essi hanno deciso che egli
+dev'essere un logico. È proprio come se un uomo dicesse dapprima che un
+[[Garden|giardino]] era tanto trascurato da essere adatto soltanto a un campo di giochi per ragazzi,
+e poi si lamentasse dell'inadeguatezza, in un campo di giochi per ragazzi, di
+giardini rocciosi e aiuole.
+
+Poiché troviamo, in questa maniera, che Browning non agisce
+soddisfacentemente come ciò che abbiamo deciso che egli debba essere — un
+logico — potrebbe forse valer la pena di fare un altro tentativo per
+vedere se egli non possa, dopo tutto, essere più valido di quanto pensassimo quanto a
+ciò che egli stesso professava di essere — un poeta. E se studiamo questo
+seriamente e con simpatia, giungeremo presto a una conclusione. È
+una grossolana e completa calunnia verso Browning dire che i suoi
+processi di pensiero sono scientifici nella loro precisione e analisi.
+Non sono nulla del genere; se lo fossero, Browning non potrebbe essere un
+buon poeta. Il critico parla delle conclusioni di un poema come
+«trascendentali e inette»; ma le conclusioni di un poema, se non sono
+trascendentali, devono essere inette. Coloro che chiamano uno dei
+[[Poems|poemi]] di Browning scientifico nella sua analisi si rendono conto del significato
+di ciò che dicono? Si è tentati di pensare che riconoscano un'analisi
+scientifica quando la vedono tanto poco quanto riconoscono un buon poema. L'unica
+suprema differenza fra il metodo scientifico e il metodo
+artistico è, grosso modo, semplicemente questa — che un'affermazione scientifica
+significa la stessa cosa dovunque e in qualunque momento sia pronunciata, e che un'
+affermazione artistica significa qualcosa di interamente diverso, secondo
+la relazione in cui essa sta con ciò che la circonda. L'osservazione, poniamo,
+che la balena è un mammifero, o l'osservazione che sedici once
+fanno una libbra, è ugualmente vera, e significa esattamente la stessa cosa,
+sia che la enunciamo all'inizio di una conversazione o alla fine,
+sia che la stampiamo in un dizionario o la scriviamo col [[chalk|gesso]] su un muro. Ma se
+prendiamo una qualche frase comunemente usata nell'arte della letteratura — una
+frase, per esempio, come «l'[[Dawn|alba]] spuntava» —
+la faccenda è del tutto diversa. Se la frase venisse all'inizio di un
+[[Short Story|racconto]], potrebbe essere un mero preludio descrittivo. Se fosse l'
+ultima frase di un [[Short Story|racconto]], potrebbe essere pungente di qualche
+peculiare ironia o trionfo. Può qualcuno leggere i grandi
+monologhi di Browning e non sentire che essi sono costruiti come un buon racconto
+breve, interamente su questo principio del valore del linguaggio che sorge
+dalla sua disposizione. Si prenda un esempio come «[[Caliban|Calibano]] upon Setebos»,
+un mirabile poema concepito per descrivere il modo in cui una primitiva
+[[Nature|natura]] possa a un tempo temere i propri dèi ed esser tuttavia familiare con essi.
+[[Caliban|Calibano]], nel descrivere la propria divinità, comincia con un più o meno naturale e
+ovvio parallelo fra la divinità e se stesso, conduce
+il paragone con coerenza e una semplicità quasi ripugnante, e
+termina in una sorta di blasfema stravaganza di antropomorfismo, basando
+la propria condotta non soltanto sulla [[Greatness|grandezza]] e la saggezza, ma anche sulle
+manifeste debolezze e stupidità, del Creatore di tutte le cose.
+Poi improvvisamente un temporale scoppia sull'isola di [[Caliban|Calibano]], e il
+profano speculatore cade lungo disteso sulla faccia —
+
+«Ecco! 'Giace disteso e ama Setebos!
+'Serra i denti attraverso il labbro di sopra,
+lascerà volar quelle quaglie, non mangerà questo mese
+una piccola porzione di buccini, così può scampare!»
+
+Di certo sarebbe assai difficile persuadersi che questo
+temporale avrebbe significato esattamente la stessa cosa se fosse
+occorso all'inizio di «[[Caliban|Calibano]] upon Setebos». Esso non significa
+la stessa cosa, ma qualcosa di assai diverso; e la deduzione da
+ciò è il curioso fatto che Browning è un [[artist|artista]], e che
+di conseguenza i suoi processi di pensiero non sono «scientifici nella loro
+precisione e analisi».
+
+Nessuna critica dei [[Poems|poemi]] di Browning può essere vitale, nessuna di fronte ai
+[[Poems|poemi]] stessi può essere persino intelligibile, che non sia fondata sul
+fatto che egli fu, con successo o meno, un consapevole e deliberato
+[[artist|artista]]. Egli può aver fallito come [[artist|artista]], benché io non lo pensi;
+questa è tutt'altra faccenda. Ma una cosa è dire che un
+uomo per [[Vanity|vanità]] o ignoranza ha costruito una brutta [[Cathedral|cattedrale]], e tutt'
+altra dire che l'ha costruita in un momento di distrazione mentale, e non
+sapeva se stesse costruendo un faro o un albergo di prima classe.
+Browning sapeva perfettamente [[Well|bene]] ciò che faceva; e se al lettore non
+piace la sua arte, almeno all'autore piaceva. Il sentimento generale
+espresso nell'affermazione che egli non si curava della forma è semplicemente
+la più ridicola critica che si potesse concepire. Sarebbe assai
+più vicino alla [[Truth|verità]] dire che egli si curava della forma più di ogni altro
+poeta inglese mai vissuto. Era sempre a tessere e modellare e
+inventare nuove forme. Fra tutti i suoi duecento o trecento [[Poems|poemi]]
+non sarebbe quasi un'esagerazione dire che vi sono metà tante
+diverse metriche quanti sono i diversi [[Poems|poemi]].
 
 
 
@@ -10733,6 +12306,26 @@ distinct poem merely descriptive of one of those elfish German jugs in
 which it is to be presumed Tokay had been served to him. This is the
 whole poem, and a very good poem too--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I grandi poeti inglesi che si suppone tenessero alla forma più di quanto facesse Browning, vi tenevano meno almeno in questo senso: che si accontentavano di usare forme antiche purché fossero certi di possedere idee nuove. Browning, al contrario, non appena aveva un'idea nuova tentava di foggiare una forma nuova per esprimerla. Wordsworth e Shelley furono poeti realmente originali; il loro atteggiamento di pensiero e di sentimento segnò senza [[Doubt|dubbio]] certi grandi mutamenti nella letteratura e nella [[philosophy|filosofia]]. Nondimeno, l'«Ode on the Intimations of [[Immortality]]» è un'ode perfettamente normale e tradizionale, e il «[[Prometheus]] Unbound» è un dramma lirico greco perfettamente genuino e tradizionale. Ma se studiamo Browning con onestà, nulla ci colpirà più del fatto che egli creò realmente un gran numero di forme artistiche affatto [[Novel|nuove]] e affatto ammirevoli. Troppo spesso si dimentica quali e quanto eccellenti esse fossero. _The Ring and the Book_, per esempio, è una illuminante innovazione nel metodo letterario: il metodo di narrare più volte la medesima storia, affidandosi alla varietà del carattere umano per volgerla in parecchie storie diverse e ugualmente interessanti. _Pippa Passes_, per prendere un altro esempio, è una forma nuova e fecondissima, una serie di drammi staccati, connessi soltanto dalla presenza di un'unica figura fuggitiva e isolata. L'invenzione di queste cose non è semplicemente come lo scrivere una buona poesia: è qualcosa di simile all'invenzione del [[Sonnet|sonetto]] o dell'arco gotico. Il poeta che le crea non crea soltanto se stesso: crea altri poeti. E ciò avviene in misura ben oltre ogni possibile enumerazione riguardo alle [[Poems|poesie]] minori di Browning. Una [[Lyric|lirica]] tanto pia e orribile come «The Heretic's [[Tragedy]]», per esempio, è assolutamente originale, con i suoi versi d'eco strani e quasi da agghiacciare il [[Blood|sangue]], echi beffardi in verità—
+
+«E mozzate le sue ali nella piazza di [[Paris|Parigi]],
+lo conducono ora a giacere arso vivo.
+
+_[E se lì manca grazia di liuto o di clavicémbalo,
+direte a conferma di colui che canta_—
+
+Conduciamo ora Giovanni ad essere arso vivo.»
+
+Cento esempi potrebbero, naturalmente, essere addotti. Il «[[Sonnet]] on his Blindness» di [[Milton]], o l'«Ode on a Grecian Urn» di Keats, sono entrambi profondamente originali, ma pure possiamo indicare altri sonetti simili e altre odi simili. Ma può qualcuno citare una poesia esattamente dello stesso tipo strutturale e letterario di «Fears and Scruples», di «The Householder», di «[[house|House]]» o «Shop», di «Nationality in Drinks», di «Sibrandus Schafnaburgensis», di «My Star», di «A Portrait», di una qualsiasi delle «Ferishtah's Fancies», di una qualsiasi dei «Bad [[Dreams]]»?
+
+Ciò che dovrebbe dirsi di Browning da parte di coloro che non lo apprezzano è semplicemente che non amano la sua forma; che hanno studiato la forma e la ritengono cattiva. Se più persone dicessero cose di questo genere, il mondo della critica guadagnerebbe quasi indicibilmente in chiarezza e in comune onestà. Browning si presentò al mondo come un buon poeta. Chi ritiene che egli abbia fallito lo chiami pure un cattivo poeta, e la faccenda sarà chiusa. Vi sono molti stili nell'arte che giudici estetici perfettamente competenti non possono sopportare. Per esempio, sarebbe perfettamente legittimo che un rigoroso [[Lover|amante]] del gotico dicesse che una di quelle mostruose pale d'altare rococò nelle chiese belghe, con nuvole bulbose e raggi di sole in quercia lunghi due metri, era, a suo parere, brutta. Ma sarebbe di certo perfettamente ridicolo che qualcuno dicesse che essa non aveva forma. I sentimenti reali di un uomo a suo riguardo potrebbero esprimersi meglio dicendo che ne aveva troppa. Dire che Browning fu un mero pensatore perché ritieni brutto «[[Caliban]] upon Setebos» è precisamente altrettanto assurdo quanto lo sarebbe chiamare l'autore della vecchia pala d'altare belga un uomo devoto solo alle astrazioni della religione. La [[Truth|verità]] intorno a Browning non è che egli fosse indifferente alla [[Beauty|bellezza]] tecnica, ma che inventò un genere particolare di [[Beauty|bellezza]] tecnica verso la quale chiunque altro è libero di essere tanto indifferente quanto gli aggrada.
+
+Vi è in questa materia una straordinaria tendenza alla critica vaga e priva di senso. Il modo consueto di criticare un autore, e particolarmente un autore che abbia aggiunto qualcosa alle forme letterarie del mondo, è di lamentare che la sua opera non contenga qualcosa che è manifestamente la specialità di qualcun altro. La cosa giusta da dire di Maeterlinck è che qualche suo dramma nel quale, poniamo, una principessa muore in una torre deserta presso il mare, possiede una certa [[Beauty|bellezza]], ma che invano vi cerchiamo quella robusta cordialità, quella volontà di vivere davvero fragorosa che si può trovare in _Martin Chuzzlewit_. La cosa giusta da dire di _Cyrano de Bergerac_ è che potrà avere un certo genere di arguzia e di brio, ma che in realtà non getta alcuna luce sul dovere delle coppie sposate di mezza età in Norvegia. Non si insisterà mai abbastanza sul fatto che almeno tre quarti del biasimo e della critica comunemente rivolti contro artisti e autori ricadono sotto questa obiezione generale, e sono essenzialmente privi di valore. Gli autori, grandi e piccoli, sono, come ogni altra cosa esistente, nel complesso grandemente sottovalutati. Vengono biasimati per non aver fatto non solo ciò che non sono riusciti a fare per raggiungere il proprio ideale, ma ciò che non hanno mai tentato di fare per raggiungere l'ideale di ogni altro scrittore. Se possiamo mostrare che Browning aveva un ideale definito di [[Beauty|bellezza]] e lo perseguì lealmente, non è necessario provare che avrebbe potuto scrivere _In Memoriam_ se ci avesse provato.
+
+Browning ha patito assai più ingiustizia dai suoi ammiratori che dai suoi avversari, giacché i suoi ammiratori hanno per la maggior parte afferrato la faccenda, per così dire, dal capo sbagliato. Essi credono che quello che ordinariamente si chiama lo stile [[Grotesque|grottesco]] di Browning fosse una specie di necessità arditamente adottata da un grande genio per esprimere idee [[Novel|nuove]] e profonde. Ma questo è un errore completo. Ciò che si chiamava bruttezza non era affatto per Browning un male necessario, bensì un lusso del tutto superfluo, di cui egli godeva per amor suo. Per ragioni che vedremo tra poco discutendo l'uso filosofico del [[Grotesque|grottesco]], accadde che lo stile [[Grotesque|grottesco]] di Browning fosse assai adatto all'espressione della sua peculiare visione morale e metafisica. Ma l'intera massa delle sue [[Poems|poesie]] sarà fraintesa se non ci rendiamo conto anzitutto che egli aveva un [[Love|amore]] per il [[Grotesque|grottesco]] della [[Nature|natura]] dell'arte per l'arte. Ecco, per esempio, una breve poesia distinta, meramente descrittiva di uno di quei fatati boccali tedeschi nei quali è da presumere gli fosse stato servito del Tokay. Questa è l'intera poesia, e una poesia assai buona per giunta—
 
 
 
@@ -10891,6 +12484,56 @@ ballads, for instance, every person of literary taste will be struck
 by a certain attractiveness in the bold, varying, irregular verse--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Balzò su il Tokay sulla nostra tavola,
+come un nano guardiano di [[Castle|castello]],
+gnomesco a vedersi, ma tarchiato e valente,
+armi e bardature tutte in ordine;
+e fiero guardò a Settentrione, poi, volgendosi a Mezzogiorno,
+soffiò nel suo corno una sfida alla Siccità,
+inclinò il cappello a falda con la penna da beone,
+attorcigliò il pollice nei baffi rossi,
+fece tintinnare insieme gli enormi speroni d'ottone,
+si strinse la vita con la sua fascia di Buda,
+e poi, con un'impudenza che nulla poteva sconcertare,
+scrollò la spalla gobba, per dire a chi guardava
+che di venti tali furfanti avrebbe riso solo più baldo:
+e così, con l'elsa della [[Sword|spada]] galantemente sporgente,
+e la destra puntata sull'anca,
+se ne andò l'omino, Sir Ausbruch, impettito!»
+
+Suppongo esistano studiosi di Browning i quali penserebbero che questa poesia contenesse qualcosa di pregnante sulla questione della Temperanza, o fosse un'analisi meravigliosamente sottile del movimento romantico in [[Germany|Germania]]. Ma di certo ai più di noi appare sufficientemente evidente che Browning stava semplicemente foggiando un ridicolo ninnolo, esattamente come se stesse davvero modellando uno di questi preposteri boccali tedeschi. Ora, prima di studiare il vero carattere di questo stile browninghiano, vi è una [[Truth|verità]] generale da riconoscere intorno all'opera di Browning. È questa: che è assolutamente necessario ricordare che Browning ebbe, come ogni altro poeta, i suoi fallimenti semplici e indiscutibili, e che una cosa è parlare della cattiveria dei suoi fallimenti artistici, e tutt'altra parlare della cattiveria del suo intento artistico. Lo stile di Browning può essere un buono stile, e tuttavia esibire molti esempi di un suo uso del tutto cattivo. Su questo punto vi è invero un sistema di giudizio singolarmente iniquo usato dal pubblico verso i poeti. Ci si rende assai poco conto che la grande maggioranza dei grandi poeti ha scritto un'enorme quantità di pessima poesia. Lo sventurato Wordsworth è generalmente supposto essere quasi [[Alone|solo]] in ciò; ma chiunque lo pensi difficilmente può aver letto un certo numero delle [[Poems|poesie]] minori di Byron, di Shelley e di Tennyson.
+
+Ora, è solo giusto verso Browning che le sue effusioni più rozze non siano trattate come capolavori sui quali egli debba reggere o cadere, ma trattate semplicemente come i suoi fallimenti. È davvero vero che un verso come
+
+«Tormenta la [[Fear|paura]] l'uccello col gozzo pieno, rode il [[Doubt|dubbio]] la bestia col ventre satollo?»
+
+è un verso assai brutto e assai cattivo. Ma è del tutto ugualmente vero che il verso di Tennyson
+
+«E quel buon uomo, il pastore, mi ha detto parole di pace,»
+
+è un verso assai brutto e assai cattivo. Ma la gente non dice che ciò provi che Tennyson fosse un mero astruso polemista e metafisico. Dicono che è un cattivo esempio della forma di Tennyson; non dicono che è un buon esempio dell'indifferenza di Tennyson alla forma. Nel complesso, Browning esibisce assai meno esempi di questo fallimento nel proprio stile di qualsiasi altro dei grandi poeti, con l'eccezione di uno o due come Spenser e Keats, che sembrano avere una misteriosa incapacità di scrivere cattiva poesia. Ma quasi tutti i poeti originali, e particolarmente i poeti che hanno inventato uno stile artistico, sono soggetti a una abitudine assai disastrosa: l'abitudine di scrivere imitazioni di se stessi. Di tanto in tanto nelle opere dei più nobili poeti classici ci si imbatte in passi che si leggono come estratti da un libro americano di parodie. Swinburne, per esempio, quando scrisse il distico—
+
+«Dai gigli e languori della virtù
+ai rapimenti e alle rose del vizio,»
+
+scrisse null'altro che una cattiva [[Imitation|imitazione]] di sé, un'[[Imitation|imitazione]] che sembra invero avere lo scopo del tutto ingiusto e acritico di provare che la melodia swinburniana è un meccanico schema di lettere iniziali. O ancora, il signor Rudyard Kipling, quando scrisse il verso—
+
+«O cavalca coi temerari serafini sull'orlo di una stella dalla rossa criniera,»
+
+stava caricaturando se stesso nello spirito più aspro e meno benevolo dell'[[Humour|umorismo]] americano. Questa tendenza è, naturalmente, il risultato della [[Self|coscienza di sé]] e della teatralità della vita moderna, in cui ciascuno di noi è costretto a concepirsi come parte di un _dramatis personæ_ e a recitare perpetuamente una parte. Browning talvolta cedette a questa [[Temptation|tentazione]] di somigliare di gran lunga troppo a se stesso.
+
+«Ti allargherò io finché tu ti muti
+da Margaret Minnikin mou', per grazia di Dio,
+in Muckle-mouth Meg per davvero.»
+
+Questo genere di cosa non va difeso in Browning più che in Swinburne. Ma, d'altra parte, non va attribuito in Swinburne a un'esagerazione momentanea, e in Browning a una vitale deficienza estetica. Nel caso di Swinburne, tutti sentiamo che la questione non è se quel particolare distico prepostero sui gigli e le rose torni a credito dello stile swinburniano, ma se sarebbe stato possibile in qualsiasi altro stile che non fosse lo swinburniano scrivere l'[[Hymn|Inno]] a Proserpina. Allo stesso modo, la questione essenziale intorno a Browning come [[artist|artista]] non è se egli, in comune con Byron, Wordsworth, Shelley, Tennyson e Swinburne, talvolta scrivesse cattiva poesia, ma se in qualsiasi altro stile eccetto quello di Browning si sarebbe potuto conseguire il preciso effetto artistico conseguito da liriche incomparabili come «The Patriot» o «The Laboratory». La risposta deve essere negativa, e in quella risposta risiede l'intera giustificazione di Browning come [[artist|artista]].
+
+Sorge dunque ora la domanda: quale era la sua concezione delle proprie funzioni come [[artist|artista]]? Abbiamo già convenuto che la sua originalità artistica si occupava principalmente dell'uso serio del [[Grotesque|grottesco]]. Diviene dunque necessario chiedersi quale sia l'uso serio del [[Grotesque|grottesco]], e quale relazione il [[Grotesque|grottesco]] intrattenga con gli elementi eterni e fondamentali della vita.
+
+Una delle cose più curiose da notare intorno alla critica estetica popolare è il numero di frasi che si troverà usare, intese a esprimere un fallimento estetico, e che esprimono meramente una varietà estetica. Così, per esempio, il viaggiatore udirà spesso il consiglio dai [[lovers|amatori]] locali del pittoresco: «Il paesaggio intorno a un tal luogo non ha alcun interesse; è del tutto piatto.» Disprezzare un paesaggio come del tutto piatto è, naturalmente, come disprezzare un cigno come del tutto bianco, o un cielo italiano come del tutto azzurro. La piattezza è una qualità [[Sublime|sublime]] in certi paesaggi, proprio come la rocciosità è una qualità [[Sublime|sublime]] in altri. Allo stesso modo vi è un gran numero di frasi comunemente usate per disprezzare scrittori come Browning che in realtà non li disprezzano, ma li descrivono soltanto. Uno dei più illustri biografi e critici di Browning dice di lui, per esempio: «Non ha mai inteso essere scabro, ma lo è divenuto nello sforzarsi verso la forza.» Dire che Browning non tentò mai di essere scabro è come dire che [[Edgar]] Allan Poe non tentò mai di essere tetro, o che il signor W. S. Gilbert non tentò mai di essere stravagante. L'intera questione dipende dal renderci conto del fatto semplice ed essenziale che la scabrosità è un modo dell'arte come la tetraggine o la stravaganza. Alcune [[Poems|poesie]] dovrebbero essere scabre, proprio come alcune [[Poems|poesie]] dovrebbero essere levigate. Quando vediamo un cumulo di nubi tempestose e fantastiche al tramonto, non diciamo che la nube è bella benché sia frastagliata ai bordi. Quando vediamo una quercia nodosa e sbilenca, non diciamo che è bella benché sia contorta. Quando vediamo una montagna, non diciamo che è imponente benché sia scabra, né diciamo, come per scusa, che non intese mai essere scabra, ma lo divenne nel suo sforzarsi verso la forza. Ora, dire che le [[Poems|poesie]] di Browning, considerate artisticamente, sono belle benché siano scabre, è del tutto assurdo quanto dire che una roccia, considerata artisticamente, è bella benché sia scabra. Essendo la scabrosità una qualità essenziale nell'universo, vi è nell'uomo qualcosa che vi risponde come al percuotere di ogni altra corda delle eterne armonie. Come figli della [[Nature|natura]], siamo affini non soltanto alle [[Stars|stelle]] e ai [[Flowers|fiori]], ma anche ai funghi velenosi e ai mostruosi [[Birds|uccelli]] tropicali. E va ripetuto, come l'essenziale della questione, che da questo lato della nostra [[Nature|natura]] noi enfaticamente [[Love|amiamo]] la forma dei funghi velenosi, e non meramente qualche complicata lezione botanica e morale che il filosofo può trarne. Per esempio, proprio come vi è tale cosa come un metro poetico bellamente leggero o bellamente [[Grave|grave]] e ossessivo, così vi è tale cosa come un metro poetico bellamente scabro. Nelle vecchie ballate, per esempio, ogni persona di gusto letterario sarà colpita da una certa attrattiva nel verso audace, mutevole, irregolare—
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="Robert Browning — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
@@ -11042,6 +12685,79 @@ philosophical idea. Here, for example, we have a random instance from
 "The Englishman in [[Italy]]" of the way in which Browning, when he was
 most Browning, regarded physical [[Nature|nature]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«O egli stesso è un diavolo venuto dall'inferno,
+oppure sua madre dev'essere una [[Witch|strega]];
+non avrei cavalcato quel pallido [[Water|corso d'acqua]]
+per tutto l'oro della cristianità,»
+
+è del tutto altrettanto gradevole all'orecchio, a suo modo, quanto
+
+«V'è un pergolato di rose presso il ruscello di Bendemeer,
+e l'[[Nightingale|usignolo]] vi canta per tutta la [[Night|notte]],»
+
+lo è in un altro modo. Browning ebbe un orecchio senza pari per questo particolare genere di musica staccata. L'assurda idea che egli non avesse alcun senso della melodia nel verso è possibile soltanto a chi pensa che non vi sia melodia nel verso che non sia un'[[Imitation|imitazione]] di Swinburne. Dare un'idea soddisfacente dell'originalità ritmica di Browning sarebbe impossibile senza citazioni più copiose che dilettevoli. Ma il punto essenziale è stato suggerito.
+
+«Erano di porpora vestiti e d'oro,
+colmi di te, ardenti di vino,
+i tuoi [[lovers|amanti]] in ritrovi non veduti,
+nelle tue meravigliose stanze,»
+
+è un bel linguaggio, ma non l'unica specie di bel linguaggio. Anche questo, per esempio, ha in sé una melodia—
+
+«Io—'prossimo poeta.' No, amici miei,
+non lo sono, né bramerei esserlo!
+Scegliete i vostri capi e formate le vostre fazioni,
+non una sola [[Soul|anima]] passi dalla mia parte!
+*       *       *       *       *
+Chi di voi ho io mai reso capace
+di scivolare una volta dentro il mio petto,
+là a catalogare ed etichettare
+ciò che meno mi piace, ciò che più [[Love|amo]],
+[[Hope|Speranza]] e [[Fear|paura]], ciò che credo e di cui [[Doubt|dubito]],
+ciò che cerco e sfuggo, rispetto, derido,
+chi ha diritto di far chiasso
+delle rarità che ha trovato dentro?»
+
+Anche questa misura svelta e galantemente incedente ha il proprio genere di musica, e l'uomo che non sa sentirla non può mai aver goduto del suono dei soldati che marciano. Questo, dunque, è a grandi linee il fatto principale da ricordare intorno al metodo poetico di Browning, o al metodo poetico di chiunque: che la questione non è se quel metodo sia il migliore del mondo, ma la questione se non vi siano certe cose che possono essere trasmesse soltanto con quel metodo. È perfettamente vero, per esempio, che un verso realmente elevato e limpido di Tennyson, come—
+
+«Tu sei il più alto, e insieme il più umano»
+e
+«Dobbiamo per forza [[Love|amare]] il più alto quando lo vediamo»
+
+verrebbe davvero reso peggiore se tradotto in Browning. Diverrebbe probabilmente
+
+«L'alto è umano; l'uomo ama meglio, il meglio visibile,»
+
+e perderebbe la sua peculiare chiarezza e dignità e cortese semplicità. Ma è del tutto ugualmente vero che qualsiasi [[Fragment|frammento]] realmente caratteristico di Browning, non fosse che la tempestosa sfuriata dell'organista in «Master Hugues of Saxe-Gotha»—
+
+«Ehilà, sagrestano, mostraci un lume qui!
+Giù s'inabissa, sparito come un razzo.
+Che cosa, vuoi tu forse, giungere all'improvviso,
+spazzando la chiesa per le prime preci del mattino,
+e trovare che un povero diavolo ha posto fine ai suoi affanni
+ai piedi della tua scala dai pioli marci e rosa dai topi?
+Porto forse la [[Moon|Luna]] in tasca?»
+
+—è del tutto ugualmente vero che questo oltraggioso galoppo di rime che termina con una frenetica immagine astronomica perderebbe in energia e brio se fosse scritto in uno stile convenzionale e classico, e suonasse—
+
+«Che devo io dunque supporre che tu sogni di trovare
+ossa disgiunte alla deriva sulla scala
+che tu spazzi netta, o che tu ritenga ch'io
+intaschi nella mia bisaccia il sole vicereale?»
+
+Non è forse evidente che questa versione più solenne potrebbe essere eccellente poesia nel suo genere, e tuttavia sarebbe cattiva esattamente nella misura in cui è buona; che perderebbe tutto lo slancio, l'impeto, l'energia dell'originale prepostero e [[Grotesque|grottesco]]? Di fatto, possiamo vedere quanto sia ingovernabile questo trattamento classico dell'essenzialmente assurdo in Tennyson stesso. I passi umoristici di _The Princess_, benché spesso davvero umoristici in sé, appaiono sempre forzati e fiacchi perché devono essere trattenuti da una certa dignità metrica, e la mera idea di tale ritegno è incompatibile con l'[[Humour|umorismo]]. Se Browning avesse scritto il passo che apre _The Princess_, descrittivo dei «baccanali» dei villici nel parco del magnate, non ci avrebbe risparmiato nulla; non ci avrebbe risparmiato le voci stridule e ineducate né le bottiglie non sepolte di birra allo zenzero. Avrebbe rimpinzato la poesia di rozze similitudini; avrebbe mutato il metro cento volte; avrebbe rotto in versi burleschi e in rapsodia; ma avrebbe lasciato, a conti fatti, come [[Leaves|lascia]] in quel meschino [[Fragment|frammento]] dell'organista brontolone, l'impressione di una certa eterna energia umana. Energia e gioia, il padre e la madre del [[Grotesque|grottesco]], avrebbero governato la poesia. Di quella chiassosa adunata avremmo sentito poco più che la sensazione di cui scrive il signor Henley—
+
+«Lodate i generosi dèi per aver dato,
+in questo mondo di peccato e contesa,
+insieme a un poco di [[Time|tempo]] per vivere,
+a ciascuno la gioia della vita,»
+
+il pensiero che ogni uomo saggio ha guardando una folla di Bank Holiday a Margate.
+
+Chiedersi perché Browning godesse più di ogni altro di questo stile perverso e fantastico significherebbe scendere davvero assai a fondo nel suo spirito, probabilmente assai più a fondo di quanto sia possibile scendere. Ma vale la pena di suggerire in via tentativa la funzione generale del [[Grotesque|grottesco]] nell'arte in generale e nella sua arte in particolare. Vi è una idea assai curiosa nella quale siamo stati ipnotizzati dai poeti più eloquenti, ed è che la [[Nature|natura]], nel senso di ciò che ordinariamente si chiama la campagna, sia una cosa interamente maestosa e bella, così come questi termini sono comunemente intesi. L'intero mondo del fantastico, tutte le cose sbilanciate, storte e insensate sono concepite come opera dell'uomo: i [[gargoyles]], i boccali tedeschi, i vasi cinesi, le caricature politiche, i poemi burleschi, i quadri del signor Aubrey Beardsley e i giochi di parole di Robert Browning. Ma in [[Truth|verità]] una parte, e una parte assai grande, della [[Sanity|sanità]] e della potenza della [[Nature|natura]] sta nel fatto che da essa proviene tutto questo istinto della caricatura. La [[Nature|natura]] può presentarsi al poeta troppo spesso come consistente di [[Stars|stelle]] e gigli; ma questi non sono poeti che vivono in campagna; sono uomini che vanno in campagna in cerca d'ispirazione e non potrebbero vivere in campagna più di quanto potrebbero andare a dormire nell'Abbazia di Westminster. Gli uomini che vivono nel cuore della [[Nature|natura]], contadini e villani, sanno che la [[Nature|natura]] significa mucche e maiali, e creature più umoristiche di quante se ne possano trovare in un intero album di [[Sketch|schizzi]] di Callot. E l'elemento del [[Grotesque|grottesco]] nell'arte, come l'elemento del [[Grotesque|grottesco]] nella [[Nature|natura]], significa, in sostanza, energia, l'energia che assume forme proprie e va per la propria via. Il verso di Browning, in quanto è [[Grotesque|grottesco]], non è complesso né artificiale; è naturale e nella legittima tradizione della [[Nature|natura]]. Il verso si sparge come gli alberi, danza come la [[Dust|polvere]]; è frastagliato come la nube tempestosa, è sbilanciato come il fungo. L'energia che disprezza il canone dell'arte classica è nella [[Nature|natura]] come è in Browning. Lo stesso senso della forza fragorosa nelle cose che fa indugiare Browning sulla stranezza di un fungo o di una medusa lo fa indugiare sulla stranezza di un'idea filosofica. Ecco, per esempio, un esempio casuale tratto da «The Englishman in [[Italy]]» del modo in cui Browning, quando era più Browning che mai, considerava la [[Nature|natura]] fisica.
 
 
 
@@ -11275,6 +12991,32 @@ the combatants, nor does he become obscure through this anxiety. He is
 only so anxious to get his man to the [[Bottom|bottom]] of the stairs quickly
 that he [[Leaves|leaves]] out about half the story.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La qualità di ciò che non si può chiamare altrimenti che buffoneria, e che è qui in discussione, è invero una delle molte cose in cui Browning fu più un elisabettiano che un vittoriano. Egli somigliava agli elisabettiani nella loro fede nell'uomo normale, nel loro linguaggio sontuoso e sovraccarico, e soprattutto nel loro sentire l'erudizione come un godimento e quasi una frivolezza. Ma non vi fu nulla in cui egli fosse tanto compiutamente elisabettiano, e perfino shakespeariano, quanto in questo fatto: che quando si sentiva incline a scrivere una pagina di sciocchezze del tutto prive d'interesse, lo faceva immediatamente. Molti grandi scrittori sono riusciti a essere tediosi, e in apparenza senza scopo, mentre esponevano qualche pensiero che credevano [[Grave|grave]] e proficuo; ma questa frivola stupidità non si era più trovata in alcun grande scrittore dal [[Time|tempo]] di Rabelais e dal [[Time|tempo]] degli elisabettiani. In molte delle scene comiche di Shakespeare abbiamo precisamente questa elefantesca ingegnosità, questa caccia a un gioco di parole fino alla [[Death|morte]] attraverso tre pagine. Nei drammaturghi elisabettiani e in Browning ciò è senza [[Doubt|dubbio]], in una certa misura, il segno di una reale ilarità. Bisogna essere assai felici per lasciarsi divertire così facilmente.
+
+Nel caso di ciò che si chiama l'oscurità di Browning, la questione è alquanto più difficile da trattare. Molti hanno supposto che Browning fosse profondo perché era oscuro, e molti altri, poco meno in errore, hanno supposto che egli fosse oscuro perché era profondo. Egli fu di frequente profondo, fu occasionalmente oscuro, ma di fatto le due cose hanno poco o nulla a che vedere l'una con l'altra. Il modo di parlare oscuro ed ellittico di Browning, come il suo [[Love|amore]] del [[Grotesque|grottesco]], era semplicemente una sua caratteristica, un vezzo del suo temperamento, e aveva poco o nulla a che fare con il fatto che ciò che egli esprimeva fosse profondo o superficiale. Supponiamo, per esempio, che a una persona [[Well|ben]] versata nella poesia inglese ma non familiare con lo stile di Browning fosse chiesto con ogni serietà di considerare i seguenti versi:—
+
+«Hobbs accenna al blu—subito mangia tartaruga.
+Nobbs stampa in blu—il chiaretto corona la sua coppa.
+Nokes supera in audacia Stokes in azzurre imprese—
+Entrambi si rimpinzano. Chi pescò su il murice?
+Che minestra ebbe John Keats?»
+
+La persona così posta di fronte a essi direbbe senza esitazione che deve trattarsi invero di un pensiero astruso e indescrivibile, che poteva essere trasmesso soltanto con osservazioni tanto completamente sconnesse. Ma il punto della faccenda è che il pensiero contenuto in questi versi sorprendenti non è affatto astruso o filosofico, bensì un commento perfettamente ordinario e diretto, che chiunque avrebbe potuto fare su un ovvio fatto della vita. L'intera strofa comincia naturalmente a spiegarsi da sé, se conosciamo il significato della parola «murice», che è il nome di una conchiglia marina, dalla quale si ricavava la celebre tintura azzurra di Tiro. Il poeta prende questa tintura azzurra come similitudine per una nuova moda letteraria, e osserva che Hobbs, Nobbs, ecc., ottengono fama e agio semplicemente usando la tintura ricavata dalla conchiglia; e aggiunge il commento perfettamente naturale:—
+
+«... Chi pescò su il murice?
+Che minestra ebbe John Keats?»
+
+Sicché i versi non sono sottili, e non erano intesi come sottili, ma sono un frammento di sentimento perfettamente casuale alla fine di una poesia leggera. Browning non è oscuro perché ha cose tanto profonde da dire, non più di quanto sia [[Grotesque|grottesco]] perché ha cose tanto nuove da dire. Egli è entrambe queste cose principalmente perché ama esprimersi in una maniera particolare. La maniera gli è naturale come la voce fisica di un uomo, ed è brusca, abbozzata, allusiva e piena di lacune. Qui entra in gioco la differenza fondamentale tra Browning e uno scrittore come George Meredith, con il quale il satirico filisteo così spesso lo classificherebbe in fatto di complessità. Le opere di George Meredith sono, per così dire, oscure anche quando sappiamo che cosa significano. Trattano di emozioni senza nome, di sensazioni fuggitive, di certezze e incertezze subconscie, e richiede davvero un modo di parlare alquanto curioso e inconsueto indicare la presenza di queste cose. Ma la gran parte dei sentimenti effettivi di Browning, e quasi tutti i più fini e più letterari di essi, sono sentimenti perfettamente piani e popolari ed eterni. Meredith è davvero un cantore che produce note e cadenze strane, difficili da seguire a causa del delicato ritmo del [[Song|canto]] che canta. Browning è semplicemente un grande demagogo, con un impedimento nella parola. O piuttosto, a parlare più propriamente, Browning è un uomo la cui eccitazione per la gloria dell'ovvio è così grande che il suo discorso si fa sconnesso e precipitoso: egli diviene eccentrico attraverso la sua difesa dell'ordinario, e impazzisce per l'[[Love|amore]] della [[Sanity|sanità]].
+
+Se Browning e George Meredith descrivessero ciascuno il medesimo atto, potrebbero entrambi essere oscuri, ma le loro oscurità sarebbero interamente diverse. Supponiamo, per esempio, che descrivessero anche un atto tanto prosaico e materiale come un uomo scaraventato giù per le scale da un altro uomo al quale aveva dato del bugiardo: la descrizione di Meredith si riferirebbe a qualcosa che un osservatore ordinario non vedrebbe, o almeno non saprebbe descrivere. Potrebbe essere un improvviso senso di anarchia nel cervello dell'aggressore, o uno stupore e una serenità istupidita in quello dell'oggetto dell'assalto. Egli potrebbe scrivere: «Il "Gli uomini variano in veracità" di Wainwood fece levare il braccio del baronetto. Sentì le porte del suo cervello spalancarsi, e Wainwood un rapido precipitare di se stesso nell'aria, accompagnato da una limpidezza come dell'annientato.» Meredith, in altre parole, parlerebbe stranamente perché descriverebbe strane esperienze mentali. Ma Browning potrebbe semplicemente descrivere l'incidente materiale dell'uomo scaraventato giù per le scale, e la sua descrizione suonerebbe:—
+
+«E poi? 'Tu menti' e lo zerbino in fondo alle scale
+prende il tonfo dalla schiena.»
+
+Questa non è sottigliezza, ma soltanto una specie di folle rapidità. Browning non è come Meredith, ansioso di soffermarsi ed esaminare le sensazioni dei combattenti, né diviene oscuro per questa ansia. È soltanto tanto ansioso di far giungere il suo uomo al [[Bottom|fondo]] delle scale in fretta che [[Leaves|tralascia]] circa metà della storia.
 
 
 
@@ -11532,6 +13274,18 @@ completely forgotten." Until we have realised this fundamental idea in
 _The Ring and the Book_ all criticism is misleading.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+
+_THE RING AND THE BOOK_
+
+Una volta che abbiamo colto la grande concezione del disegno di _The Ring and the Book_, lo studio di una singola vicenda da nove diversi punti di vista, diviene oltremodo interessante notare quali siano questi punti di vista; quali figure Browning abbia scelto come voci delle versioni essenziali e distinte del caso. Uno dei più abili e comprensivi fra tutti i critici di Browning, il signor Augustine Birrell, ha detto in un luogo che i discorsi dei due avvocati in _The Ring and the Book_ difficilmente riusciranno molto interessanti al lettore comune. Comunque stiano le cose, vi può essere ben poco [[Doubt|dubbio]] che gran numero dei lettori di Browning li ritengano fuori bersaglio e posticci. Ma è oltremodo pericoloso dire che qualcosa in Browning sia irrilevante o superfluo. Siamo inclini a continuare a pensarlo finché qualche mera inezia non pone la faccenda in una nuova luce, e il dettaglio che sembrava privo di senso balza su quasi come il pilastro centrale della struttura. Nei successivi monologhi del suo poema, Browning si sforza di ritrarre i vari strani modi in cui un fatto si presenta al mondo. In ogni questione vi sono partigiani che portano argomenti cogenti e convincenti a favore della parte giusta; vi sono anche partigiani che portano argomenti cogenti e convincenti a favore della parte sbagliata. Ma al di sopra e al di là di questi, esiste in ogni grande controversia una classe di partigiani più o meno ufficiali che sono continuamente impegnati a difendere ciascuna causa con argomenti del tutto inappropriati. Essi non conoscono il vero bene che si può dire in favore della buona causa, né il vero bene che si può dire in favore della cattiva. Sono rappresentati dagli argomenti animati, dotti, eloquenti, ingegnosi e del tutto futili e impertinenti di Juris Doctor Bottinius e Dominus Hyacinthus de Archangelis. Questi due uomini travisano brillantemente non solo la causa l'uno dell'altro, ma la propria causa. La loro introduzione è uno dei tocchi più fini e più artistici di _The Ring and the Book_.
+
+Possiamo vedere la cosa meglio prendendo un parallelo immaginario. Supponiamo che un poeta del tipo di Browning vivesse fra qualche secolo e trovasse in qualche _cause célèbre_ dei nostri giorni, come la Commissione Parnell, l'occasione per un'opera simile nel disegno a _The Ring and the Book_. Il primo monologo, che si chiamerebbe «Metà-[[London|Londra]]», sarebbero gli argomenti di un ordinario Unionista colto e assennato, il quale credesse che vi fosse davvero prova che il movimento nazionalista in Irlanda affondasse le radici nel crimine e nel panico pubblico. L'«Altra-metà-[[London|Londra]]» sarebbe l'espressione di un ordinario fautore dell'autonomia irlandese, colto e assennato, un [[Home]] Ruler, il quale ritenesse che in sostanza il Nazionalismo fosse un sintomo distinto, e il crimine un altro, del medesimo problema velenoso e stagnante. Il «Tertium Quid» sarebbe qualche intellettuale distaccato, non impegnato né col Nazionalismo né con l'Unionismo, forse il signor Bernard [[Shaw]], che comporrebbe un assai divertente monologo browninghiano. Poi verrebbero naturalmente i discorsi dei grandi attori del dramma, la gelida ira di Parnell, le scivolose scuse di Pigott. Ma sentiremmo che il resoconto sarebbe incompleto senza un altro tocco che in pratica ha tanto a che fare con la confusione di una simile questione. Bottinius e Hyacinthus de Archangelis, i due cinici avvocati di professione, con le loro trasparenti supposizioni e le loro incredibili teorie del caso, sarebbero rappresentati da due giornalisti di partito; l'uno pronto a fondare la sua tesi o sul fatto che Parnell fosse un Socialista o un Anarchico, o un Ateo o un Cattolico romano; e l'altro pronto a fondare la sua tesi sulla teoria che Lord Salisbury odiasse Parnell o fosse in lega con lui, o non ne avesse mai sentito parlare, o qualsiasi altra cosa remota dal mondo della realtà. Questi sono il genere di piccoli tocchi che dobbiamo sempre stare a cercare in Browning. Anche se una digressione, o una similitudine, o un'intera scena in un dramma sembra non avere alcun senso o valore, aspettiamo un poco e diamole una possibilità. Assai di rado egli scrisse qualcosa che non significasse molto.
+
+È talvolta curioso notare come un critico, dotato di non poca cultura e fertilità, nel parlare di un'opera d'arte lasci cadere quasi per caso qualche osservazione apparentemente banale, la quale ci rivela con istantanea e completa illuminazione mentale il fatto che egli non comprende affatto, per quel che concerne quell'opera d'arte, ciò di cui sta parlando. Egli può aver inteso correggere semplicemente qualche minuto dettaglio dell'opera che sta studiando, ma quel singolo movimento basta a far saltare in aria lui e tutti i suoi diplomi. Queste sono le sensazioni con cui il vero browninghiano guarderà alla critica mossa da tanti dei critici e biografi di Browning intorno a _The Ring and the Book_. Quella critica fu incarnata da uno di essi nelle parole «il tema, considerato spassionatamente, è indegno del monumento in cui è tumulato per l'[[Eternity|eternità]].» Ora, questa osservazione mostra subito che il critico non sa che cosa significhi _The Ring and the Book_. Proviamo al riguardo ciò che dovremmo provare verso un uomo che dicesse che l'intreccio di _Tristram Shandy_ non è [[Well|ben]] costruito, o che le donne nei quadri di Rossetti non hanno l'aria utile e operosa. Un uomo che ha mancato il fatto che _Tristram Shandy è_ un gioco di digressioni, che l'intero libro è una specie di scherzo per truffare il lettore d'una storia, semplicemente non ha letto affatto _Tristram Shandy_. L'uomo che obietta ai quadri di Rossetti perché raffigurano una fantasticheria triste e sensuale, obietta al loro esistere affatto. E chiunque obietti che Browning scriva la sua immensa [[Epic|epopea]] intorno a un sordido e da nulla caso di cronaca giudiziaria, ha in realtà mancato l'intera lunghezza e larghezza del significato del poeta. L'essenza di _The Ring and the Book_ è che essa è la grande [[Epic|epopea]] del diciannovesimo secolo, perché è la grande [[Epic|epopea]] dell'enorme importanza delle piccole cose. La suprema differenza che divide _The Ring and the Book_ da tutti i grandi [[Poems|poemi]] di simile lunghezza e ampiezza di disegno è precisamente il fatto che tutti questi trattano di faccende comunemente dette importanti, mentre _The Ring and the Book_ tratta di una faccenda comunemente detta spregevole. Omero dice: «Vi mostrerò le relazioni tra l'uomo e il cielo quali si manifestano in una grande leggenda d'[[Love|amore]] e di guerra, che conterrà il più possente di tutti i guerrieri mortali e la più bella di tutte le donne mortali.» L'autore del Libro di Giobbe dice: «Vi mostrerò le relazioni tra l'uomo e il cielo con un racconto di primordiali dolori e la voce di Dio da un turbine.» Virgilio dice: «Vi mostrerò le relazioni dell'uomo col cielo col racconto dell'origine del più grande popolo e della fondazione della più meravigliosa [[City|città]] del mondo.» [[Dante]] dice: «Vi mostrerò le relazioni dell'uomo col cielo scoprendo il congegno stesso dell'universo spirituale, e lasciandovi udire, come io ho udito, il rombo dei mulini di Dio.» [[Milton]] dice: «Vi mostrerò le relazioni dell'uomo col cielo narrandovi del principio stesso di tutte le cose, e del primo foggiarsi della cosa che è malvagia nel primo crepuscolo del [[Time|tempo]].» Browning dice: «Vi mostrerò le relazioni dell'uomo col cielo narrandovi una storia tratta da un sudicio libro italiano di processi criminali, dal quale ne scelgo una fra le più meschine e le più completamente dimenticate.» Finché non avremo colto questa idea fondamentale in _The Ring and the Book_, ogni critica è fuorviante.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="Robert Browning — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
@@ -11629,6 +13383,14 @@ highest of all possible compliments--the great compliment which
 monarchy paid to mankind--the compliment of selecting from it almost
 at random.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In questo Browning è, naturalmente, la suprema incarnazione del suo [[Time|tempo]]. La caratteristica dei movimenti moderni _par excellence_ è l'apoteosi dell'insignificante. Che si tratti della scuola di poesia che vede più in una primula o in una cima di trifoglio che in foreste e cascate, o della scuola di narrativa che trova qualcosa di indescrivibilmente significativo nel disegno di un tappeto del focolare, o nella tinta della giacca di tweed di un uomo, la tendenza è la medesima. Maeterlinck immobilizzato e stupito da una porta di abete socchiusa, o dalla luce che splende da una [[Window|finestra]] nella [[Night|notte]]; Zola che riempie taccuini con il significato medico del contrarsi delle dita del piede di un uomo, o della perdita del suo appetito; Whitman che conta l'erba e le [[Leaves|foglie]] a forma di cuore del lillà; il signor George Gissing che indugia con affetto sul biglietto di terza classe e sull'ombrello sgangherato; George Meredith che vede la [[Tragedy|tragedia]] di un'[[Soul|anima]] in una frase pronunciata a tavola; il signor Bernard [[Shaw]] che riempie tre pagine di didascalie per descrivere un salotto: tutti questi uomini, diversi in ogni altro particolare, sono simili in questo, che hanno cessato di credere che certe cose siano importanti e il resto no. Il significato è per loro una cosa selvaggia che può balzare su di essi da qualsiasi nascondiglio. Sono tutti divenuti terribilmente impressionati, e un poco allarmati, dai misteriosi poteri delle piccole cose. La loro differenza dai vecchi poeti [[Epic|epici]] è l'intera differenza tra un'età che combatteva con i draghi e un'età che combatte con i microbi.
+
+Questa marea dell'importanza delle piccole cose fluisce oggi così costantemente intorno a noi da ogni lato, che non ci rendiamo sufficientemente conto che, se vi fu un uomo nella [[history|storia]] letteraria inglese che potesse a buon diritto esserne chiamato la fonte e l'origine, quell'uomo fu Robert Browning. Quando sorse Browning, la letteratura era interamente nelle mani del poeta tennysoniano. Il poeta tennysoniano menziona invero le banalità, ma le menziona quando desidera parlare in modo banale; Browning menziona le banalità quando desidera parlare in modo sensazionale. Ora, questo senso della terribile importanza del dettaglio era un senso che si può dire possedesse Browning alla maniera enfatica di una possessione demoniaca. Sano com'era, questo solo sentimento avrebbe potuto spingerlo a una condizione non lontana dalla [[Madness|follia]]. Qualsiasi stanza in cui egli sedeva lo fissava con innumerevoli occhi e bocche spalancate in una storia. Talvolta non vi era nella sua mente né sfondo né piano intermedio. Un volto umano e il disegno sulla parete dietro di esso si facevano avanti con ugualmente aggressiva chiarezza. Si può ripetere che, se mai colui che aveva la testa più salda del mondo fosse impazzito, sarebbe stato per questa turbolenta [[democracy|democrazia]] delle cose. Se guardava un vaso di porcellana o un vecchio cappello, un cavolo, o un cucciolo al gioco, ciascuno cominciava a essere stregato dall'incantesimo di una specie di fiaba di filosofi: il vaso, come la giara nelle _Mille e una notte_, a mandar su un fumo di pensieri e di forme; il cappello a produrre anime, come il cappello di un prestigiatore produce conigli; il cavolo a gonfiarsi e adombrare la terra, come l'Albero della Conoscenza; e il cucciolo a partire di scatto in una corsa lungo la [[Road|strada]] fino alla fine del mondo. Chiunque abbia letto le [[Poems|poesie]] più lunghe di Browning sa quanto costantemente una similitudine o figura retorica sia scelta non fra le grandi figure [[Well|ben]] riconosciute e comuni in poesia, bensì da qualche polveroso angolo dell'esperienza, e quanto spesso essa sia caratterizzata da piccolezza e da una certa bizzarra esattezza che non si sarebbe potuta trovare in alcun esempio più consueto. Così, per esempio, _Prince Hohenstiel--Schwangau_ spiega il significato psicologico di tutte le sue attività irrequiete e senza scrupoli paragonandole all'impulso che lo ha appena condotto, perfino nell'atto di parlare, a tracciare una linea nera sulla carta assorbente esattamente in modo da collegare due macchie separate che vi erano già. Questo strano esempio è scelto come il miglior esempio possibile di una certa fondamentale irrequietezza e [[Desire|desiderio]] di aggiungere un tocco alle cose nello spirito dell'uomo. Non ho alcun [[Doubt|dubbio]] che Browning abbia pensato all'idea dopo aver fatto egli stesso la cosa, e sia rimasto seduto in una trance filosofica fissando un pezzo di carta assorbente inchiostrata, conscio che in quel momento, e in quell'atto insignificante, qualche immemorabile [[Monster|mostro]] della mente, senza nome dal principio del mondo, era salito alla superficie del mare spirituale.
+
+È dunque l'essenza stessa del genio di Browning, e l'essenza stessa di _The Ring and the Book_, che essa debba essere l'enorme moltiplicazione di un piccolo tema. È l'estremo della critica oziosa lamentare che la storia sia una storia corrente e sordida, giacché l'intero scopo del poema è mostrare quali infinità di bene e di male spirituale una storia corrente e sordida possa contenere. Una volta che ciò è compreso, esso spiega d'un sol colpo gli innumerevoli fatti intorno all'opera. Spiega, per esempio, il dettagliato e pittoresco resoconto di Browning della gloriosa [[Dust|pattumiera]] di rifiuti d'ogni sorta in vendita, dal quale egli trasse il resoconto stampato del processo, e la sua insistenza sulla sua modicità, sulla sua polverosità, sulle sue gialle [[Leaves|pagine]], e sul suo latino contorto. Quanto più sudicio e scuro e insignificante egli può far apparire il testo, tanto meglio per il suo ampio e gigantesco sermone. Spiega ancora il rigore con cui Browning si attenne ai fatti del dimenticato intrigo. Egli giocava il gioco di vedere quanto fosse realmente implicato in un misero [[Fragment|frammento]] di fatto. Aver introdotto grandi quantità di finzione non sarebbe stato leale al gioco. _The Ring and the Book_, dunque, per ricapitolare la veduta finora raggiunta, è l'[[Epic|epopea]] tipica della nostra età, perché esprime la ricchezza della vita prendendo come testo una povera storia. Essa rende all'esistenza il più alto di tutti i possibili complimenti: il grande complimento che la monarchia rese all'umanità, il complimento di sceglierla quasi a caso.
 
 
 
@@ -11739,6 +13501,37 @@ gives them voices. This is indeed the most bountiful of all the
 functions of the poet, that he gives men words, for which men from the
 beginning of the world have starved more than for bread.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma questa è solo la prima metà della pretesa di _The Ring and the Book_ di essere l'[[Epic|epopea]] tipica dei tempi moderni. La seconda metà di quella pretesa, il secondo rispetto in cui l'opera è rappresentativa di tutto lo sviluppo moderno, richiede un'esposizione alquanto più accurata. _The Ring and the Book_ è naturalmente, essenzialmente parlando, una storia [[Detective|poliziesca]]. La sua differenza dall'ordinaria storia [[Detective|poliziesca]] è che essa cerca di stabilire non il centro della [[Guilt|colpa]] criminale, bensì il centro della [[Guilt|colpa]] spirituale. Ma ha esattamente lo stesso genere di qualità eccitante che ha una storia [[Detective|poliziesca]], e una qualità assai eccellente per giunta. Ma l'elemento che è importante, e che ora richiede di essere indicato, è il metodo con cui quel centro della [[Guilt|colpa]] spirituale, e il corrispondente centro della rettitudine spirituale, viene scoperto. Per rendere chiaro il carattere peculiare di questo metodo, è necessario cominciare un po' più vicino al principio, e risalire un poco nella [[history|storia]] letteraria.
+
+Non so se qualcuno, compreso il curatore stesso, abbia mai notato una peculiare coincidenza che si può trovare nella disposizione delle liriche nel _Golden Treasury_ di Sir Francis Palgrave. Comunque stiano le cose, due [[Poems|poesie]], ciascuna delle quali estremamente [[Well|ben]] nota, sono poste l'una accanto all'altra, e la loro giustapposizione rappresenta una vasta rivoluzione nel modo poetico di guardare le cose. La prima è la fin troppo [[Well|ben]] nota poesia di Goldsmith
+
+«Quando leggiadra donna scende alla follia,
+e s'avvede troppo tardi che gli uomini tradiscono,
+quale incanto può lenire la sua [[Melancholy|malinconia]]?
+Quale arte può lavar via la sua [[Guilt|colpa]]?»
+
+Immediatamente dopo viene, con un improvviso ed emozionante mutamento di nota, la voce di Burns:—
+
+«O rive e pendii del bel Doon,
+come potete fiorire sì leggiadri?
+Come potete cantare, voi piccoli [[Birds|uccelli]],
+mentre io son sì colmo d'affanno?
+
+Tu mi spezzerai il cuore, o bell'uccello,
+che canti sul ramo,
+tu mi rammenti i giorni felici
+quando il mio falso [[Love|Amore]] era fedele.»
+
+Un uomo potrebbe leggere quelle due [[Poems|poesie]] un gran numero di volte senza avvedersi che sono due [[Poems|poesie]] esattamente sul medesimo soggetto: il soggetto di una donna fiduciosa abbandonata da un uomo. E l'intera differenza—la differenza colta dalla primissima nota della voce di chiunque le legga—è questa differenza fondamentale, che le parole di Goldsmith sono dette intorno a una certa situazione, e le parole di Burns sono dette in quella situazione.
+
+Nel passaggio dall'una di queste liriche all'altra abbiamo un mutamento vitale nella concezione delle funzioni del poeta; un mutamento del quale Burns fu per molti versi il principio, e Browning, in un modo che vedremo tra poco, fu il culmine.
+
+Goldsmith scrive pienamente e accuratamente nella tradizione dell'antica idea storica di ciò che era un poeta. Il poeta, il _vates_, era il supremo e assoluto critico dell'esistenza umana, il [[Chorus|coro]] nel dramma umano; egli era, per usare due parole che, analizzate, sono la medesima parola, o uno spettatore o un veggente. Egli prendeva una situazione, come la situazione di una donna abbandonata da un uomo prima menzionata, e dava, come dà Goldsmith, la propria personale e definita decisione su di essa, interamente fondata su princìpi generali, e interamente dall'esterno. Poi, come nel caso del _Golden Treasury_, non appena ha pronunciato il giudizio ecco che sale un grido amaro e sconvolgente dal cuore stesso della situazione medesima, il quale ci dice cose che sarebbero state del tutto tralasciate dal poeta della regola generale. Nessuno, per esempio, se non una persona che conoscesse qualcosa dell'interno dell'agonia, avrebbe introdotto quel tocco della rabbia del dolente contro la chiacchierina frivolezza della [[Nature|natura]], «Tu mi spezzerai il cuore, o bell'uccello». Non troviamo né potremmo trovare tale tocco in Goldsmith. Dobbiamo dunque giungere alla conclusione che il _vates_ o poeta nella sua capacità assoluta è sfidato e rovesciato da questo nuovo metodo di ciò che si può chiamare i [[songs|canti]] dell'esperienza.
+
+Ora Browning, quale appare in _The Ring and the Book_, rappresenta il tentativo di scoprire non la [[Truth|verità]] nel senso in cui la enuncia Goldsmith, ma la più ampia [[Truth|verità]] che è fatta di tutte le esperienze emotive, come quella resa da Burns. Browning, al pari di Goldsmith, cerca in ultima analisi di essere giusto e imparziale, ma lo fa sforzandosi di sentire acutamente ogni sorta di parzialità. Goldsmith si tiene in disparte da tutte le passioni del caso, e Browning le include tutte. Se Browning si sforzasse di rendere stretta giustizia in un caso come quello della dama abbandonata sulle rive del Doon, non toccherebbe né modificherebbe nel minimo particolare il [[Song|canto]] come Burns lo cantò, ma scriverebbe altri [[songs|canti]], forse ugualmente patetici. Una [[Lyric|lirica]] o un soliloquio ci convincerebbe d'un tratto, per il mero pulsare del suo linguaggio, che vi era qualche pathos negli altri attori del dramma; qualche pathos, per esempio, in un uomo debole, conscio che in una appassionata ignoranza della vita aveva gettato via il suo potere d'[[Love|amore]], mancando del [[Courage|coraggio]] morale di gettarvi dietro le sue prospettive. Ci verrebbe ricordato di nuovo che vi era qualche pathos nella posizione, poniamo, della madre del seduttore, che aveva costruito tutte le sue speranze su sviluppi che una mésalliance avrebbe rovesciato, o nella posizione di qualche [[Lover|amante]] rivale, atterrato dalla [[Tragedy|tragedia]] in cui non aveva nemmeno il misero conforto di un _locus standi_. Tutti questi personaggi della storia, Browning li coglierebbe dal loro proprio punto di vista emotivo prima di pronunciare il giudizio. Il poeta, nel suo antico ufficio, teneva una specie di terrestre giorno del giudizio, e dava agli uomini capestri e aureole; Browning non dà agli uomini né capestro né aureola, dà loro voci. Questa è invero la più munifica di tutte le funzioni del poeta, che egli dà agli uomini parole, delle quali gli uomini dal principio del mondo hanno avuto fame più che di pane.
 
 
 
@@ -11884,6 +13677,20 @@ We are maniacs, isolated in separate cells, and dreaming of trees and
 serpents without reason and without result.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco dunque il secondo grande aspetto per cui _The Ring and the Book_ è la grande [[Epic|epica]] dell'epoca. È la grande [[Epic|epica]] dell'epoca perché è l'espressione della convinzione, si potrebbe quasi dire della scoperta, che nessun uomo visse mai su questa terra senza possedere un proprio punto di vista. Non visse mai nessuno che non avesse un po' più da dire a proprio favore di quanto qualunque sistema formale di giustizia fosse verosimilmente disposto a dire per lui. È appena necessario mostrare quanto interamente l'applicazione di questo principio rivoluzionerebbe l'antica [[Epic|epica]] eroica, nella quale il poeta decideva in modo assoluto i rapporti morali e il valore morale dei personaggi. Supponiamo, per esempio, che Omero avesse scritto l'_Odissea_ secondo il principio di _The Ring and the Book_: quanto perturbante, quanto strana esperienza sarebbe leggere la storia dal punto di vista di Antinoo! Senza contraddire un solo fatto materiale, senza raccontare una sola menzogna deliberata, la narrazione muterebbe a tal punto tutto il mondo intorno a noi, che a stento riconosceremmo di avere a che fare con lo stesso luogo e le stesse persone. Il volto sereno di Penelope, forse, comincerebbe a farsi più meschino sotto i nostri occhi, come un volto che muta in [[A Dream|un sogno]]. Comincerebbe ad apparire come una donna volubile ed egoista, che si spaccia falsamente per vedova e gioca un [[Double|doppio]] gioco fra le attenzioni di giovani sciocchi ma onorevoli e le comparse saltuarie di un marito marinaio vagabondo e buono a nulla; un uomo pronto a recitare il più [[Well|logoro]] dei ruoli melodrammatici, quello del prepotente e del ricattatore coniugale, l'uomo che usa i diritti maritali come strumento per il peggior genere di torti. Oppure, ancora, se avessimo la storia della caduta di [[King Arthur|Re Artù]] narrata dal punto di vista di Mordred, basterebbe una parola o due; in un attimo, in un batter d'occhio, ci troveremmo a simpatizzare con gli sforzi di un serio giovane per contrastare le dissolutezze di paladini altolocati come Lancillotto e Tristano, e a scoprire infine, con profondo rammarico ma con inflessibile [[Courage|coraggio]] morale, che non v'era modo di contrastarli se non rovesciando il freddo, pedante e incapace egotista che governava il paese, e tutti gli artificiosi e ampollosi disegni che generavano quei mali morali. Potrebbe darsi che, nonostante questa nuova visione del caso, alla fine risultasse che [[Ulysses|Ulisse]] aveva davvero ragione e [[Arthur|Artù]] aveva davvero ragione, proprio come Browning fa risultare alla fine che Pompilia aveva davvero ragione. Ma chiunque può vedere l'enorme differenza di portata e di difficoltà fra l'antica [[Epic|epica]], che raccontava tutta la vicenda dal punto di vista di un solo uomo, e la nuova [[Epic|epica]], che non può giungere alla propria conclusione finché non abbia digerito e assimilato visioni tanto paradossali e perturbanti quanto la nostra immaginaria difesa di Antinoo e l'apologia di Mordred.
+
+Uno dei passi più importanti mai compiuti nella [[history|storia]] del mondo è questo passo, con tutti i suoi vari aspetti, letterari, politici e sociali, che è rappresentato da _The Ring and the Book_. È il passo di chi decide, a fronte di molti seri pericoli e svantaggi, di lasciar parlare tutti. Il poeta dell'antica [[Epic|epica]] è il poeta che aveva imparato a parlare; Browning, nella nuova [[Epic|epica]], è il poeta che ha imparato ad ascoltare. Questo ascoltare la [[Truth|verità]] e l'errore, gli eretici, gli sciocchi, i prepotenti intellettuali, i partigiani disperati, i meri chiacchieroni, gli avvelenatori sistematici della mente, è la lezione più ardua che l'umanità sia mai stata chiamata ad apprendere. _The Ring and the Book_ è l'incarnazione di questa terribile magnanimità e pazienza. È l'[[Epic|epica]] della libertà di parola.
+
+La libertà di parola è un'idea che oggi possiede tutta l'impopolarità di un truismo; sicché tendiamo a dimenticare che non molto tempo fa essa possedeva quell'impopolarità più concreta che si accompagna a una nuova [[Truth|verità]]. L'ingratitudine è certo il principale dei peccati intellettuali dell'uomo. Egli dà per scontati i propri benefici politici, così come dà per scontati i cieli e le [[Seasons|stagioni]]. Considera la calma di una strada [[City|cittadina]] cosa altrettanto inevitabile della calma di una radura nel bosco, laddove essa è tenuta in pace soltanto da uno sforzo e da una tensione sostenuti, simili a quelli che alimentano una battaglia o un assalto di scherma. Proprio come dimentichiamo dove ci troviamo rispetto ai fenomeni naturali, così lo dimentichiamo rispetto ai fenomeni sociali. Dimentichiamo che la terra è una stella, e dimentichiamo che la libertà di parola è un [[Paradox|paradosso]].
+
+Non è affatto [[Self|di per sé]] evidente, a prima vista, che un'istituzione come la libertà di parola sia giusta o retta. Non è naturale né ovvio lasciare che un uomo profferisca follie e abominî che si crede facciano male all'umanità, non più di quanto sia naturale od ovvio lasciare che un uomo scavi una parte della [[Road|strada]] pubblica, o infetti di tifo mezza città. La teoria della libertà di parola, cioè che la [[Truth|verità]] è tanto più vasta, più strana e più multiforme di quanto sappiamo, che è di gran lunga meglio, a ogni costo, udire il resoconto che ciascuno ne dà, è una teoria che nell'insieme è stata giustificata dall'esperimento, ma che resta una teoria assai ardita e persino assai sorprendente. È davvero una delle grandi scoperte del [[Time|tempo]] moderno; ma, una volta ammessa, è un principio che non tocca soltanto la politica, bensì la [[philosophy|filosofia]], l'etica e infine la poesia.
+
+Browning fu, nell'insieme, il primo poeta ad applicare il principio alla poesia. Percepì che, se vogliamo dire la [[Truth|verità]] su un dramma umano, non dobbiamo raccontarlo semplicemente come un [[Melodrama|melodramma]], in cui il [[Villain|malvagio]] è malvagio e il buffone è comico. Vide che la [[Truth|verità]] non era stata detta finché non avesse scorto nel [[Villain|malvagio]] il gentiluomo puro e disinteressato che la maggior parte dei malvagi crede fermamente di essere, o finché non avesse preso il buffone tanto sul serio quanto è costume dei buffoni prendere se stessi. E in ciò Browning è fuori di ogni dubbio il fondatore della più moderna scuola di poesia. Tutto ciò che vi era di profondo, tutto ciò, anzi, che vi era di tollerabile negli esteti del 1880 e nei decadenti del 1890, ha la sua ultima fonte nella grande concezione di Browning, secondo cui il punto di vista di ciascuno è interessante, anche se sia un punto di vista itterico o [[Blood|iniettato di sangue]]. Egli concorda con i decadenti nel ritenere che sia enfaticamente utile, enfaticamente meritorio, conoscere qualcosa dei fondamenti della felicità di un uomo del tutto malvagio. Dai suoi [[Time|tempi]] in poi ci siamo in verità un po' troppo compiaciuti degli umori dello scassinatore e delle liriche pensose del ricettatore di refurtiva. Ma Browning, unito ai decadenti su questo punto, cioè il valore di ogni testimonianza umana, se ne divide nettamente e per un abisso su un altro punto altrettanto importante. Egli riteneva necessario ascoltare tutti i lati di una questione per scoprirne la [[Truth|verità]]. Ma riteneva che vi fosse una [[Truth|verità]] da scoprire. Riteneva che la giustizia fosse un mistero, ma non, come i decadenti, che la giustizia fosse un'illusione. Riteneva, in altre parole, la vera dottrina browninghiana, che in una disputa ciascuno ha in certa misura ragione; non la dottrina decadente, secondo cui in un luogo folle come il mondo ciascuno deve per la [[Nature|natura]] stessa delle cose avere torto.
+
+La concezione dell'Universo di Browning non può essere espressa meglio che nell'antica e pregnante [[Fable|favola]] dei cinque ciechi che andarono a visitare un elefante. Uno di loro ne afferrò la proboscide e sostenne che l'elefante fosse una specie di serpente; un altro ne abbracciò la zampa ed era pronto a morire per la convinzione che l'elefante fosse una specie di albero. Allo stesso modo, per l'uomo che si appoggiò al suo fianco esso era un muro; per l'uomo che ne teneva la coda era una fune, e per l'uomo che incappò nella sua zanna una specie particolarmente sgradevole di lancia. Questa, come ho detto, è tutta la teologia e la [[philosophy|filosofia]] di Browning. Ma egli si distingue dai decadenti e dagli impressionisti psicologici su questo punto importante: che egli pensa che, sebbene i ciechi scoprissero ben poco dell'elefante, l'elefante era un elefante, ed era là per tutto il [[Time|tempo]]. I ciechi si formarono teorie sbagliate perché un elefante è una cosa dalla forma assai curiosa. E Browning credeva fermamente che l'Universo fosse davvero una cosa dalla forma assai curiosa. Nessun poeta cieco potrebbe pur solo immaginare un elefante senza esperienza, e nessun uomo, per quanto grande e saggio, potrebbe sognare Dio e non morirne. Ma vi è una distinzione vitale fra la visione mistica di Browning, secondo cui i ciechi sono tratti in inganno perché hanno tanto da imparare, e la visione puramente impressionistica e agnostica del poeta moderno, secondo cui i ciechi erano tratti in inganno perché non v'era nulla da imparare. Per l'[[artist|artista]] impressionista dei nostri [[Time|tempi]] noi non siamo ciechi che vanno a tentoni intorno a un elefante chiamandolo albero o serpente. Siamo folli, isolati in celle separate, che sognano alberi e serpenti senza ragione e senza esito.
+
 
 
 <span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_01" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 1)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
@@ -12002,6 +13809,18 @@ that religion our thoughts, our faces, our bodies, our hats, our
 boots, our tastes, our virtues, and even our vices, were more or less
 fragmentary and inadequate expressions.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+libro _Interpretations of Poetry and Religion_. Egli, in contrapposizione alla vasta massa degli ammiratori di Browning, aveva scoperto quale fosse la reale virtù radicale della poesia di Browning; e la cosa curiosa è che, avendo scoperto quella virtù radicale, la considera un vizio. Egli descrive la poesia di Browning, con grande verità, come la poesia della barbarie, con la quale intende la poesia che dà voce alle emozioni primordiali e indivisibili. «Poiché il barbaro è l'uomo che considera le proprie passioni come scusa a se stesse, che non le addomestica né comprendendone la causa, né concependone la meta ideale». Che questa sia o non sia una buona definizione del barbaro, essa è un'eccellente e perfetta definizione del poeta. Si potrebbe forse osservare che i barbari, di fatto, sono in genere persone assai tradizionali e rispettabili, che non porterebbero una piuma fuori posto sul copricapo, e che in genere hanno pochissimi sentimenti e pensano assai poco a quelli che hanno. È quando siamo cresciuti fino a una statura più grande e più civile che cominciamo a renderci conto e a porci intellettualmente i grandi sentimenti che [[Sleep|dormono]] nelle nostre profondità. È così che la letteratura dei nostri giorni ha costantemente avanzato verso una semplicità appassionata, e diventiamo più primordiali man mano che il mondo invecchia, finché Whitman scrive salmi immensi e caotici per esprimere le sensazioni di uno scolaretto che va a pesca, e Maeterlinck incarna in drammi simbolici i sentimenti di un [[Child|bambino]] al buio.
+
+Così, il signor Santayana è forse il più prezioso di tutti i critici di Browning. Si è dato pena di sforzarsi di comprendere che cosa sia ciò che in Browning lo respinge, e ha scoperto il difetto che nessuno degli avversari di Browning ha scoperto. E in ciò ha scoperto il merito che nessuno degli ammiratori di Browning ha scoperto. Che la qualità sia buona o cattiva, il signor Santayana ha perfettamente ragione. L'intera poesia di Browning riposa effettivamente sul sentimento primitivo; e l'unico commento da aggiungere è che altrettanto fa l'intera poesia di chiunque altro. La poesia tratta interamente di quei grandi desideri eterni e per lo più dimenticati che sono i sovrani ultimi dell'esistenza. La poesia presenta le cose come sono per le nostre emozioni, non come sono per una qualunque teoria, per quanto plausibile, o per un qualunque argomento, per quanto conclusivo. Se l'[[Love|amore]] è in [[Truth|verità]] una visione gloriosa, la poesia dirà che è una visione gloriosa, e nessun filosofo persuaderà la poesia a dire che è l'esagerazione dell'istinto sessuale. Se il lutto è cosa amara e continuamente dolente, la poesia dirà che è così, e nessun filosofo persuaderà la poesia a dire che è uno stadio evolutivo di grande valore biologico. Ed è qui che entra tutto il valore e lo scopo della poesia: che essa sfida perpetuamente tutti i sistemi con la prova di una terribile sincerità. Il valore pratico della poesia è che essa è realistica su un punto sul quale nient'altro può essere realistico, il punto dei desideri effettivi dell'uomo. L'etica è la scienza delle azioni, ma la poesia è la scienza dei moventi. Alcune azioni sono brutte, e perciò alcune parti dell'etica sono brutte. Ma tutti i moventi sono belli, o si presentano per il momento come belli, e perciò tutta la poesia è bella. Se la poesia tratta la materia più vile, lo spargimento di [[Blood|sangue]] per l'oro, dovrebbe suggerire l'oro [[Well|come]] pure il [[Blood|sangue]]. Solo la poesia può realizzare i moventi, perché i moventi sono tutti immagini di felicità. E il valore supremo e più pratico della poesia è questo: che nella poesia, come nella musica, viene percossa una nota che esprime al di là del potere dell'enunciazione razionale una condizione della mente, e tutte le azioni sorgono da una condizione della mente. La prosa può usare soltanto una notazione ampia e goffa; può soltanto dire che un uomo è infelice, o che un uomo è felice; è costretta a ignorare che vi sono un milione di specie diverse di infelicità e un milione di specie diverse di felicità. La poesia [[Alone|sola]], al primo palpito del suo metro, può dirci se la depressione sia il tipo di depressione che spinge un uomo al [[suicide|suicidio]], o il tipo di depressione che lo spinge al Tivoli. La poesia può dirci se la felicità sia la felicità che manda un uomo a un ristorante, o la felicità assai più ricca e piena che lo manda in chiesa.
+
+Ora, il valore supremo di Browning come ottimista sta in questo, che siamo andati esaminando: che al di là di tutte le sue conclusioni, e più in profondità di tutti i suoi argomenti, egli era appassionatamente interessato all'esistenza e ne era in [[Love|amore]]. Se i cieli fossero caduti, e tutte le acque della terra corressero di [[Blood|sangue]], egli sarebbe stato ancora interessato all'esistenza, semmai un poco di più. Egli è un grande poeta della gioia umana proprio per la ragione di cui il signor Santayana si lagna: che la sua felicità è primordiale, e al di là della portata della [[philosophy|filosofia]]. Egli è qualcosa di assai più convincente, di assai più consolante, di assai più religiosamente significativo di un ottimista: è un uomo felice.
+
+Questa felicità egli la trova, come ogni uomo deve trovare la felicità, a modo suo. Non trova la gran parte della sua gioia in quelle cose in cui la maggior parte dei poeti trova la felicità. Ne trova molta in quelle cose in cui la maggior parte dei poeti trova bruttezza e volgarità. Egli è in misura considerevole il poeta delle città. «Vi importa molto della [[Nature|natura]]?», gli chiese un suo amico. «Sì, moltissimo», disse egli, «ma degli esseri umani molto di più». [[Nature|La natura]], con la sua splendida e rasserenante [[Sanity|sanità]], ha il potere di convincere la maggior parte dei poeti dell'essenziale valore delle cose. Vi sono pochi poeti che, sfuggiti al più chiassoso carrozzino di gitanti, non potrebbero essere di nuovo acquietati ed elevati lasciandosi cadere in un piccolo campo lungo la strada. La specialità di Browning è piuttosto che egli sarebbe stato acquietato ed elevato dal carrozzino.
+
+Per Browning, probabilmente il principio e la fine di ogni ottimismo si trovavano nei volti della strada. Per lui erano tutti maschere di una divinità, le teste di un dio indiano della [[Nature|natura]] dalle cento teste. Ciascuna di esse guardava verso qualche quarto dei cieli non guardato da nessun altro occhio. Ciascuna di esse portava qualche espressione, qualche mescolanza di gioia eterna e di dolore eterno, che non si sarebbe trovata in nessun altro volto. Il senso dell'assoluta sacralità della differenza umana era il più profondo di tutti i suoi sensi. Egli era avidamente interessato a tutte le cose umane, ma sarebbe stato del tutto impossibile dire di lui che amava l'umanità. Egli non [[Love|amava]] l'umanità ma gli uomini. Il suo senso della differenza tra un uomo e l'altro avrebbe reso il pensiero di fonderli in un blocco chiamato umanità semplicemente ripugnante e prosaico. Sarebbe stato per lui come suonare quattrocento bellissime arie tutte in una volta. La mescolanza non le avrebbe combinate tutte, le avrebbe perdute tutte. Browning credeva che a ogni uomo che fosse mai vissuto su questa terra fosse stata data una precisa e peculiare confidenza di Dio. Ciascuno di noi era impegnato in un servizio segreto; ciascuno di noi aveva un messaggio peculiare; ciascuno di noi era il fondatore di una religione. Di quella religione i nostri pensieri, i nostri volti, i nostri corpi, i nostri cappelli, i nostri stivali, i nostri gusti, le nostre virtù e persino i nostri vizi erano espressioni più o meno frammentarie e inadeguate.
 
 
 
@@ -12123,6 +13942,16 @@ But so, when we have comprehended Browning's spirit, the fact will be
 found to be.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nelle deliziose memorie di quell'uomo assai notevole che fu Sir Charles Gavan Duffy, vi è un aneddoto su Browning estremamente significativo e interessante, il cui punto pare aver attirato assai poca attenzione. Duffy stava cenando con Browning e John Forster, e gli capitò di fare qualche allusione casuale alla propria adesione alla [[Faith|fede]] cattolica romana, quando Forster osservò, per metà scherzando, che non supponeva che Browning lo avrebbe apprezzato di più per questo. Browning parve spalancare gli occhi con un certo stupore. Chiese immediatamente perché Forster dovesse supporlo ostile alla Chiesa romana. Forster e Duffy risposero quasi simultaneamente, riferendosi a «Bishop Blougram's Apology», che era appena apparsa, e chiedendo se il ritratto del sacerdote sofistico e [[Self|indulgente verso se stesso]] non fosse stato inteso come una [[Satire|satira]] del cardinale Wiseman. «Certamente», rispose Browning allegramente, «l'ho inteso per il cardinale Wiseman, ma non lo considero una [[Satire|satira]], non v'è nulla di ostile in esso». Questa è la vera [[Truth|verità]] che giace nel cuore di ciò che si può chiamare i grandi monologhi sofistici che Browning scrisse negli anni più tardi. Non sono satire o attacchi ai loro soggetti, non sono neppure crude e insensibili esposizioni di essi. Sono difese; dicono, o sono intese a dire, il meglio che si possa dire delle persone di cui trattano. Ma pochissime persone a questo mondo vorrebbero ascoltare la vera difesa del proprio carattere. La vera difesa, la difesa che appartiene al Giorno del Giudizio, farebbe ammissioni tanto dannose, spazzerebbe via tante virtù artificiali, racconterebbe tragedie di debolezza e di fallimento tali, che un uomo preferirebbe essere frainteso e censurato dal mondo piuttosto che esposto a quel tremendo e spietato elogio. Una delle questioni praticamente più difficili che sorgono dal codice delle buone maniere e dalle convenzioni della vita è che non possiamo propriamente giustificare un essere umano, perché quella giustificazione comporterebbe l'ammissione di cose che convenzionalmente non possono essere ammesse. Potremmo spiegare e rendere umana e rispettabile, per esempio, la condotta di qualche vecchio politico battagliero che, per il bene del suo partito e del suo paese, acconsentì a misure che disapprovava; ma non possiamo, perché non ci è concesso di ammettere che egli abbia mai acconsentito a misure che disapprovava. Potremmo toccare con pathos, e con una sorta di [[Courage|coraggio]] sconfitto, la vita di molti uomini pubblici dissoluti, raccontando la [[Truth|verità]] sulla [[history|storia]] dei loro peccati. Ma getteremmo il mondo nel tumulto se solo accennassimo che ne abbiano avuti. Così le decenze della civiltà non rendono soltanto impossibile ingiuriare un uomo, rendono impossibile lodarlo.
+
+Browning, in [[Poems|poemi]] come «Bishop Blougram's Apology», infrange questa prima maschera di bontà al fine di infrangere la seconda maschera di malvagità, e giunge infine alla vera bontà; detronizza un santo per umanizzare un mascalzone. Questo è un tipico lato del reale ottimismo di Browning. E vi è invero poco pericolo che un tale ottimismo divenga debole, sentimentale e popolare, il rifugio di ogni ozioso, la scusa di ogni [[Well|scioperato]]. Vi è poco pericolo che gli uomini [[Desire|desiderino]] scusare le proprie anime dinanzi a Dio presentandosi agli uomini come snob quali il vescovo Blougram, o come vili quali Sludge il Medium. Non vi è pessimismo, per quanto severo, che sia severo quanto questo ottimismo: esso è spietato quanto la [[Mercy|misericordia]] di Dio.
+
+È vero che in questo, come in quasi tutto ciò che è connesso al carattere di Browning, la questione non può essere del tutto esaurita da una generalizzazione come quella di sopra. Quello di Browning era un carattere semplice, e perciò assai difficile da comprendere, poiché era impulsivo, inconscio, e non teneva conto dei propri umori. Probabilmente in moltissimi casi l'impulso originario che portò Browning a progettare un soliloquio fu una specie di collera mista a curiosità; possibilmente il primo [[Sketch|schizzo]] a carboncino di Blougram fu una caricatura di un sacerdote. Browning, come abbiamo detto, aveva pregiudizi, e aveva una capacità di collera, e due dei suoi più adirati pregiudizi erano contro un certo genere di clericalismo mondano, e contro quasi ogni genere di spiritismo. Ma man mano che lavorava ai ritratti, almeno, un nuovo spirito cominciò a possederlo, ed egli godeva di ogni animosa e giusta difesa che quegli uomini sapevano fare di se stessi, come colpi trionfanti in una battaglia, e verso la fine sarebbe giunta la piena rivelazione, e Browning si sarebbe levato nella pelle dell'uomo e avrebbe testimoniato gli ideali dell'uomo. Comunque stia la cosa, val la pena di notare un errore assai curioso che è sorto in connessione con uno dei più famosi di questi monologhi.
+
+Quando Robert Browning fu coinvolto in quella disputa alquanto oscura con lo spiritista [[Home]], è generalmente e correttamente affermato che egli raccolse gran parte delle impressioni che in seguito incorporò in «Mr. Sludge the Medium». L'affermazione così spesso fatta, particolarmente nei resoconti spiritisti della faccenda, secondo cui Browning stesso sarebbe l'originale dell'interlocutore e smascheratore di Sludge, è naturalmente soltanto un esempio di quella lettura sconsiderata di cui nessuno ha sofferto più di Browning, a dispetto dei suoi studiosi e delle sue società. L'uomo al quale Sludge rivolge la propria confessione è un certo signor Hiram H. Horsfall, un americano, un mecenate di spiritisti e, come più d'una volta si lascia intendere, alquanto [[Fool|sciocco]]. Né vi è la minima ragione di supporre che Sludge, considerato come individuo, abbia una qualche particolare somiglianza con [[Home]] considerato come individuo. Ma senza [[Doubt|dubbio]] «Mr. Sludge the Medium» è una dichiarazione generale della veduta dello spiritismo alla quale Browning era pervenuto dalla propria conoscenza di [[Home]] e della cerchia di [[Home]]. E riguardo a quella veduta dello spiritismo v'è qualcosa di piuttosto peculiare da notare. Il poema, apparendo com'esso apparve nel [[Time|tempo]] in cui il pubblico intellettuale era appena divenuto consapevole dell'esistenza dello spiritismo, attirò gran quantità di attenzione e suscitò gran quantità di controversie. Gli spiritisti invocarono il fulmine sul capo del poeta, che dipingevano come un volgare e osceno diffamatore, il quale non solo aveva commesso la profanazione di sogghignare sui misteri di uno stato di vita superiore, ma la più imperdonabile profanazione di sogghignare sulle convinzioni della propria moglie. Gli scettici, d'altra parte, salutarono il poema con gioia come un fulminante smascheramento dello spiritismo, e si congratularono col poeta per essersi fatto campione della veduta sana e scientifica della [[Magic|magia]]. Quale di questi due partiti avesse ragione riguardo alla questione dell'attaccare la realtà dello spiritismo non è né facile né necessario discutere. Poiché la semplice [[Truth|verità]], che né l'uno né l'altro dei due partiti, e nessuno degli studiosi di Browning, pare aver notato, è che «Mr. Sludge the Medium» non è un attacco allo spiritismo. Sarebbe assai più vicino alla [[Truth|verità]], sebbene non del tutto la [[Truth|verità]], chiamarlo una giustificazione dello spiritismo. L'intera essenza del metodo di Browning è implicata in questa faccenda, e l'intera essenza del metodo di Browning è così vitalmente fraintesa che dire che «Mr. Sludge the Medium» è qualcosa come una difesa dello spiritismo assumerà, in apparenza, l'aspetto del più vuoto e perverso dei paradossi. Eppure così, quando avremo compreso lo spirito di Browning, si troverà essere il fatto.
+
 
 
 <span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_03" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 3)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
@@ -12219,6 +14048,14 @@ He professes to know how to lay the foundations for every species of
 personal acquaintanceship, and how to remedy the slight and trivial
 slips of making Plato write Greek in naughts and crosses.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'idea generale è che Browning debba aver inteso «Sludge» come un attacco ai fenomeni spirituali, poiché il medium in quel poema è reso un volgare e spregevole ciarlatano, poiché i suoi imbrogli sono confessati del tutto apertamente, ed egli stesso posto in ogni ignominiosa situazione, scoperto, smascherato, strangolato, frustato e perdonato. Ritenere valida questa deduzione significa fraintendere Browning fin dal principio stesso di ogni poema che egli abbia mai scritto. Non v'era nulla che quest'uomo amasse di più, nulla che meriti più enfaticamente di essere chiamato una specialità di Browning, dell'enunciazione di grandi e nobili verità dalle labbra di esseri umani meschini e [[Grotesque|grotteschi]]. Nella sua poesia la lode e la sapienza erano perfezionate non solo dalla bocca dei lattanti e dei bambini, ma dalla bocca dei truffatori e degli snob. Ora, di fatto, qual è il contorno e lo svolgimento del poema di «Sludge»? Il culmine del poema, considerato come opera d'arte, è tanto bello che è del tutto straordinario che qualcuno abbia potuto mancarne il punto, dal momento che è l'intero punto del monologo. Sludge il Medium è stato colto in un atto di indubitabile inganno, un atto di inganno per il quale non v'è alcuna concepibile spiegazione o attenuazione che lasci intatto il suo carattere morale. È perciò còlto da un'improvvisa risoluzione, in parte adirata, in parte spaventata e in parte umoristica, di divenire assolutamente franco, e di raccontare l'intera [[Truth|verità]] su se stesso per la prima [[Time|volta]] non solo al proprio credulone, ma a se stesso. Egli scusa se stesso per gli stadi precedenti della vita del [[Trickster|truffatore]] mediante una ricognizione della terra di confine tra [[Truth|verità]] e finzione, non affatto un pezzo di sofisticheria o di cinismo, ma una perfettamente onesta esposizione di una difficoltà etica che davvero esiste. Vi sono alcune persone che pensano debba essere immorale ammettere che vi siano casi dubbi di [[morality|moralità]], come se un uomo dovesse astenersi dal discutere l'esatto confine all'estremità superiore dell'Istmo di Panama, per [[Fear|timore]] che l'indagine possa scuotere la sua credenza nell'esistenza del Nord [[america|America]]. Persone di questa specie pensano, con perfetta coerenza, che Sludge sia soltanto un mascalzone che dice sciocchezze. Si ricorderà che pensavano la stessa cosa di Newman. Si suppone effettivamente, a quanto pare nell'uso corrente delle parole, che la casuistica sia il nome di un crimine; non pare venire in mente alla gente che la casuistica è una scienza, e crimine all'incirca quanto lo è la botanica. Questa tendenza alla casuistica nei monologhi di Browning ha fatto molto per costruirgli quella reputazione di puro intellettualismo che tanto danno gli ha arrecato. Ma la casuistica in questo senso non è una cosa fredda e analitica, bensì una cosa assai calda e comprensiva. Sapere quale combinazione di scuse possa giustificare un uomo in un omicidio colposo o in una bigamia non significa avere una callosa indifferenza verso la virtù; significa piuttosto avere un'ammirazione così ardente per la virtù da cercarla nel più remoto [[Desert|deserto]] e nel più oscuro incognito.
+
+Questo è enfaticamente il caso della questione della [[Truth|verità]] e della falsità sollevata in «Sludge the Medium». Dire che talvolta è difficile stabilire in quale punto il romanziere si tramuti nel bugiardo non significa enunciare un cinismo, ma un pezzo perfettamente onesto di osservazione umana. Pensare che una tale veduta comporti la negazione dell'onestà è come pensare che il rosso sia verde, perché i due sfumano l'uno nell'altro nei colori dell'arcobaleno. È davvero difficile decidere quando giungiamo all'estremo limite della veracità, quando sia e quando non sia lecito creare un'illusione. Un esempio costante, per esempio, è il caso delle fiabe. Riteniamo un padre del tutto puro e benevolo quando dice ai propri figli che un fagiolo crebbe fino al cielo, e che una zucca si tramutò in una carrozza. Riterremmo che egli sia decaduto dalla purezza e dalla benevolenza se dicesse ai propri figli che, tornando a [[Home|casa]] quella sera, aveva visto un fagiolo crescere a mezz'altezza della chiesa, o una zucca crescere grande come una carriola. Di nuovo, poche persone obietterebbero a quel generale privilegio per cui è concesso a una persona, nel narrare persino un aneddoto vero, di preparare il culmine con qualsiasi tocco di esagerazione che davvero tenda a metterlo in risalto. La ragione di ciò è che il raccontare l'aneddoto è divenuto, come il raccontare la fiaba, quasi una distinta creazione artistica; offrirsi di raccontare una storia è, nella società ordinaria, come offrirsi di recitare o di suonare il violino. Nessuno nega che si potrebbe redigere una regola morale fissa e genuina per questi casi, ma nessuno certo ha bisogno di vergognarsi di ammettere che una tale regola non è del tutto facile da redigere. E quando un uomo come Sludge fa risalire gran parte della propria rovina morale all'indistinzione del confine e alla possibilità di cominciare con una naturale stravaganza e finire con un grossolano abuso, non è certo possibile negargli il diritto di essere ascoltato.
+
+Dobbiamo tuttavia tornare alla questione dello svolgimento principale dell'[[Self|autoanalisi]] di Sludge. Egli comincia, come abbiamo detto, adducendo una scusa generale, cioè che nella foga della vita sociale, nel corso del raccontare storie nella inebriante presenza di simpatizzanti e credenti, è scivolato nella falsità quasi prima di rendersene conto. Fin qui, v'è [[Truth|verità]] nella sua difesa. Sludge potrebbe invero trovarsi inaspettatamente giustificato se avessimo soltanto un esatto resoconto di quanto fossero vere le storie raccontate sui Conservatori in una cerchia esclusiva di Radicali, o le storie raccontate sui Radicali in una cerchia di Conservatori indignati. Ma dopo questa scusa generale, Sludge procede a un'ammissione di frode perfettamente allegra e insensibile; questo suo sentimento principale verso le proprie vittime è, per sua stessa confessione, un certo insondabile disprezzo per le persone che si lasciano ingannare tanto facilmente. Egli professa di sapere come porre le fondamenta per ogni specie di conoscenza personale, e come rimediare alle lievi e banali sviste del far scrivere a Platone il greco nel gioco del tris.
 
 
 
@@ -12334,6 +14171,41 @@ The [[Truth|truth]] about oneself is a very difficult thing to express, and
 coarse speaking will seldom do it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Come [[Fear|temo]], signore, egli talvolta soleva fare
+Prima che trovassi l'utile libro che sa».
+
+Sarebbe difficile immaginare una figura più indecentemente confessionale, più interamente priva non solo di alcuno dei freni della [[Conscience|coscienza]], ma persino di alcuno dei freni di un salutare orgoglio personale, di Sludge il Medium. Egli confessa non solo la frode, ma cose che sono per l'uomo naturale più difficili da confessare persino della frode: effeminatezza, futilità, vigliaccheria fisica. E poi, quando l'ultimo dei suoi ripugnanti [[Secrets|segreti]] è stato raccontato, quando non gli resta più nulla né da guadagnare né da nascondere, allora si leva in una perfetta e fallimentare sublimità e fa la grande dichiarazione che è tutto il perno e il significato del poema. Egli dice, in sostanza: «Ora che il mio interesse nell'inganno è del tutto svanito, ora che ho ammesso, alla mia definitiva infamia, le frodi che ho praticato, ora che sto dinanzi a voi in una palese e aperta scelleratezza che ha qualcosa del disinteresse e dell'indipendenza dell'[[Innocent|innocente]], ora vi dico con la piena e imparziale autorità di un'[[Soul|anima]] perduta che credo vi sia qualcosa nello spiritismo. Nel corso di mille cospirazioni, con la fatica di mille menzogne, ho scoperto che in questa faccenda v'è davvero qualcosa che né io né alcun altro uomo comprende. Sono un ladro, un avventuriero, un ingannatore dell'umanità, ma non sono un miscredente nello spiritismo. Ho visto troppo per questo». Questa è la confessione di [[Faith|fede]] del signor Sludge il Medium. Sarebbe difficile immaginare una confessione di [[Faith|fede]] formulata e presentata in maniera più impressionante. Sludge è testimone della propria [[Faith|fede]] come gli antichi martiri erano testimoni della loro [[Faith|fede]], ma in modo ancor più impressionante. Essi resero testimonianza alla loro religione persino dopo aver perduto la libertà, la vista e la mano destra. Sludge rende testimonianza alla propria religione persino dopo aver perduto la dignità e l'[[Honour|onore]].
+
+Si può ripetere che è davvero straordinario che qualcuno abbia potuto mancare di notare che questa dichiarazione in favore dello spiritismo è il perno del poema. La dichiarazione stessa non è solo espressa chiaramente, ma preparata e resa con mirabile forza retorica:--
+
+«Ecco allora! Mi crederete, però?
+Avete udito ciò che confesso: non ritratto
+Una sola parola: ho barato quando potevo,
+Bussato con le giunture delle dita dei piedi, messo all'opera mani finte,
+Scritto nomi deboli con inchiostro simpatico,
+Sfregato luci odiche con capocchie di fiammiferi al fosforo,
+E tutto il resto; credete a questo: credete a quest'altro,
+Per lo stesso segno, benché paia raddrizzare
+Di nuovo lo storto, ritrattare il detto,
+Rimettere in piedi ciò che ho abbattuto; non posso farci nulla,
+È [[Truth|verità]]! Oggi in qualche modo vomito [[Truth|verità]].
+Questo mio mestiere—non so, non posso esser certo,
+Ma c'era qualcosa in esso, inganni e tutto quanto!».
+
+È strano chiamare un poema con un culmine così chiaro e bello un attacco allo spiritismo. Mancare quel culmine è come mancare l'ultima frase di un buon aneddoto, o mettere l'ultimo atto dell'_Otello_ in mezzo alla commedia. O l'intero poema di «Sludge the Medium» non significa proprio nulla, ed è soltanto una satira contro un mascalzone, di cui la materia è quasi altrettanto spregevole del soggetto, oppure significa questo: che alcune reali esperienze dell'invisibile giacciono persino nel cuore dell'ipocrisia, e che persino lo spiritista è alla radice spirituale.
+
+Una curiosa teoria che è comune alla maggior parte dei critici di Browning è che Sludge debba essere inteso come un impostore puro e consapevole, poiché dopo la sua confessione, e al ritiro personale del signor Horsfall, egli erompe in orribili imprecazioni contro quel gentiluomo e in cinici vanti dei propri futuri trionfi in un simile ramo d'affari. Certo questo significa avere una nozione assai fiacca tanto della [[Nature|natura]] quanto dell'arte. Un uomo cacciato assolutamente in un angolo potrebbe umiliare se stesso, e ricavare una certa sensazione quasi di voluttà in quell'umiliazione, riversando tutti i propri pensieri imprigionati e le proprie oscure vittorie. Poiché non si dimentichi mai che un ipocrita è un uomo assai infelice; è un uomo che si è votato a un'arte intellettuale delicatissima e ardua nella quale può realizzare capolavori che deve tenere segreti, combattere battaglie emozionanti e vincere vittorie per un pelo delle quali non può avere un bisbiglio di lode. Un impostore davvero compiuto è il più miserabile dei geni; è un Napoleone su un'isola [[Desert|deserta]]. Un uomo potrebbe dunque certo, quando fosse certo che il suo credito era perduto, provare un certo piacere nel rivelare i trucchi del proprio mestiere unico, e nel guadagnare non certo credito, ma almeno una specie di gloria. E nel corso di questa [[Self|autorivelazione]] egli giungerebbe infine a quella parte di se stesso che esiste in ogni uomo—quella parte che davvero crede in, e apprezza, e adora qualcosa. Questo egli lo getterebbe in faccia al proprio ascoltatore con [[Pride|orgoglio]] ancor maggiore, e proverebbe un diletto nel dare una specie di testimonianza alla propria religione quale nessun uomo aveva mai dato prima—la testimonianza di un martire che non poteva [[Hope|sperare]] di essere un santo. Ma certo tutta questa improvvisa tempesta di candore nell'uomo non significherebbe che egli erompesse in [[Tears|lacrime]] e divenisse un esemplare contribuente, come un [[Villain|malvagio]] nelle peggiori parti di Dickens. Nel momento in cui il pericolo fosse ritirato, il senso di essersi tradito, di aver rivelato il segreto della propria infame massoneria, aggiungerebbe una violenza e una turpitudine indescrivibili alla sua reazione di rabbia. Un uomo in un tal caso farebbe esattamente ciò che fa Sludge. Dichiarerebbe la propria vergogna, dichiarerebbe la [[Truth|verità]] del proprio credo, e poi, quando si rendesse conto di ciò che aveva fatto, direbbe qualcosa di simile:--
+
+«R-r-r, bruta bestia e furfante! Vile mascalzone!
+Vorrei solo osare dar fuoco alla [[house|casa]]
+E guastare il tuo sogghigno!».
+
+e così via, e così via.
+
+Egli reagirebbe così; è uno dei tratti più artistici di Browning. Ma ciò non prova che egli fosse un ipocrita riguardo allo spiritismo, o che stesse parlando più veridicamente nel secondo scoppio che nel primo. Donde venne questa straordinaria teoria secondo cui un uomo dice sempre il vero più veracemente quando parla nel modo più rozzo? La [[Truth|verità]] su se stessi è cosa assai difficile da esprimere, e il parlare rozzo di rado la esprime.
+
 
 
 <span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_05" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 5)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
@@ -12443,6 +14315,30 @@ change and harden, the eyes glare like the eyes of a mask, the whole
 face of clay becomes a common mouthpiece, and the voice that comes
 forth is the voice of God, uttering His everlasting soliloquy.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando avremo afferrato questo punto riguardo a «Sludge the Medium», avremo afferrato la chiave dell'intera serie dei monologhi casuistici di Browning—_Bishop Blaugram's Apology, Prince Hohenstiel-Schwangau, Fra Lippo Lippi, Fifine at the Fair, Aristophanes' Apology_, e parecchi dei monologhi in _The Ring and the Book_. Sono tutti, senza eccezione, dominati da questa sola concezione di una certa realtà intrecciata quasi inestricabilmente con irrealtà nella mente di un uomo, e dal peculiare fascino che risiede nel pensiero che le più grandi menzogne su un uomo, e le più grandi verità su di lui, possano trovarsi fianco a fianco nella medesima eloquente e sostenuta enunciazione.
+
+«Quanto a Blougram, egli credeva, diciamo, a metà di ciò che diceva».
+
+Ovvero, per porre la questione in un altro modo, l'idea generale di questi [[Poems|poemi]] è che un uomo non può fare a meno di dire una qualche [[Truth|verità]] anche quando si mette a dire menzogne. Se un uomo viene a dirci che ha scoperto il moto perpetuo, o che è stato inghiottito dal serpente di mare, vi sarà pur sempre qualche punto nella storia in cui egli ci dirà di se stesso quasi tutto ciò che abbiamo bisogno di sapere.
+
+Se qualcuno desidera mettere alla prova la [[Truth|verità]], o vedere i migliori esempi di questa idea generale nei monologhi di Browning, gli si può raccomandare di notare una peculiarità di questi [[Poems|poemi]] che è piuttosto sorprendente. Nel complesso, queste apologie sono scritte in un inglese particolarmente corpulento e persino brutale. L'[[Love|amore]] di Browning per ciò che si chiama il brutto in nessun altro luogo è così pienamente e stravagantemente assecondato. Ciò, come moltissime altre cose di cui Browning come [[artist|artista]] è biasimato, è perfettamente appropriato al tema. Un vano, sgarbato e infido egotista, che difende le proprie sordide azioni con la propria dozzinale e logora [[philosophy|filosofia]], è assai verosimilmente destinato a esprimersi al meglio in un linguaggio flessibile e pungente, ma indelicato e privo di dignità. Ma la peculiarità di questi sciolti e quasi gergali soliloqui è che di tanto in tanto vi si presentano scoppi di pura poesia che sono come uno scoppio di [[Birds|uccelli]] che cantano. Browning non esita a porre alcuni dei versi più perfetti che egli o chiunque altro abbia mai scritto nella lingua inglese in bocca a schiavi quali Sludge e Guido Franceschini. Si prenda, a titolo d'esempio, «Bishop Blougram's Apology». Il poema è uno dei più [[Grotesque|grotteschi]] nell'opera del poeta. È intenzionalmente ridondante del solenne materialismo e della patrizia grossolanità di un grande pranzo _à deux_. Ha molti tocchi di un bathos quasi selvaggio, come il giovane che porta l'impossibile nome di Gigadibs. Il Vescovo, nel perseguire il proprio argomento mondano a favore del conformismo, mette in luce con [[Truth|verità]] che una condizione di [[Doubt|dubbio]] è una condizione che taglia in due sensi, e che se non possiamo essere certi della teoria religiosa della vita, neppure possiamo essere certi della teoria materiale della vita, e che questa a sua volta è capace di divenire un'incertezza continuamente scossa da un tormentoso sospetto. Non possiamo stabilirci sul razionalismo, e farlo fruttificare a nostro vantaggio. La [[Faith|fede]] stessa è capace di divenire il più oscuro e rivoluzionario dei dubbi. Poi viene il passo:--
+
+«Proprio quando siamo più al sicuro, ecco un tocco di tramonto,
+Una fantasia da un calice di fiore, la [[Death|morte]] di qualcuno,
+Un [[Chorus|coro]] che si chiude da Euripide,--
+E ciò basta a cinquanta speranze e paure
+Tanto vecchie e nuove a un tempo quanto la [[Nature|Natura]] in [[Self|sé]],
+A picchiare e bussare ed entrare nella nostra [[Soul|anima]],
+A prendersi per mano e [[Dance|danzare]] là, un cerchio fantastico,
+Attorno all'antico idolo, di nuovo sul suo piedistallo,--
+Il grande Forse!».
+
+Una dizione più nobile e un più nobile significato non avrebbero potuto essere posti in bocca a Pompilia, o a Rabbi Ben Ezra. È in realtà posto in bocca a un volgare e mondano sacerdote, che giustifica la propria viltà davanti al vino confortevole e ai sigari.
+
+Insieme a questa tendenza alla poesia fra i furfanti di Browning, si deve annoverare un'altra caratteristica, la loro uniforme tendenza al teismo. Questi sciolti e meschini personaggi parlano di molte cose febbrilmente e vagamente; di una cosa parlano sempre con fiducia e compostezza, del loro rapporto con Dio. Può sembrare strano a prima vista che coloro i quali sono sopravvissuti all'indulgenza non solo di ogni legge, ma di ogni ragionevole anarchia, debbano ancora fare così semplicemente affidamento sull'indulgenza della perfezione divina. Così Sludge è certo che la sua vita di menzogne e di trucchi da prestigiatore sia stata condotta in una profonda e sottile obbedienza al messaggio realmente trasmesso dalle condizioni create da Dio. Così il vescovo Blougram è certo che la sua vita di compromesso spaventato e vacillante sia stata realmente giustificata come l'unico metodo che potesse unirlo a Dio. Così il principe Hohenstiel-Schwangau è certo che ogni espediente della sua esile catena di espedienti politici sia stato il vero mezzo per realizzare ciò che egli crede essere la volontà di Dio. Ognuno di questi meschini imbroglioni, pur ammettendo un fallimento in tutte le cose relative, rivendica una terribile alleanza con l'Assoluto. A molti apparirà a prima vista una dottrina invero pericolosa. Ma, in [[Truth|verità]], è una dottrina solidissima, nobilissima e salutare, assai meno pericolosa del suo opposto. Ognuno su questa terra dovrebbe credere, in mezzo a qualunque [[Madness|follia]] o fallimento morale, che la propria vita e il proprio temperamento abbiano qualche scopo sulla terra. Ognuno sulla terra dovrebbe credere di avere qualcosa da dare al mondo che non può essere dato altrimenti. Ognuno dovrebbe, per il bene degli uomini e per la salvezza della propria [[Soul|anima]], credere che è possibile, anche se siamo i nemici del genere umano, essere gli amici di Dio. Il male operato da questo mistico [[Pride|orgoglio]], grande come spesso è, è come una pagliuzza rispetto al male operato da un materialistico [[Self|abbandono di sé]]. I delitti del demonio che ritiene se stesso d'incommensurabile valore sono nulla rispetto ai delitti del demonio che ritiene se stesso di nessun valore. Coi furfanti di Browning abbiamo sempre questo eterno interesse, che essi sono reali in qualche punto, e possono in qualunque momento cominciare a parlare in poesia. Stiamo parlando a un vile stizzoso e ciarliero; stiamo osservando il gioco dei suoi meschini lineamenti, dei suoi occhi sfuggenti e delle sue labbra balbettanti. E d'un tratto il volto comincia a mutare e a indurirsi, gli occhi sfavillano come gli occhi di una maschera, l'intero volto d'argilla diviene un comune portavoce, e la voce che ne esce è la voce di Dio, che pronuncia il Suo eterno soliloquio.
 
 
 
@@ -12778,6 +14674,337 @@ _King Victor and [[King]] Charles_, 32.
 
 Kipling, Rudyard, 142.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+INDICE
+
+A
+
+_Agamemnon of Aeschylus, The_, 120.
+
+Alleanza, La Santa, 89.
+
+"Andrea del Sarto," 83.
+
+_Aristophanes' Apology_, 120, 199.
+
+Arnold, Matthew, 41, 55, 56.
+
+_Asolando_, 132.
+
+Asolo ([[Italy|Italia]]), 42, 131.
+
+"At the [[Mermaid]]," 117.
+
+Austria, 88, 89.
+
+B
+
+"Bad [[Dreams]]," 138.
+
+_Balaustion's Adventure_, 119-120.
+
+Barrett, Arabella, 74, 119.
+
+Barrett, Edward Moulton, 58 _seq._, 70, 73, 74, 76, 79.
+
+Beardsley, sig. Aubrey, 149.
+
+_Bells and Pomegranates_, 105.
+
+"Ben Ezra," 23, 201.
+
+Birrell, sig. Augustine, 160.
+
+"Bishop Blougram," 51, 189.
+
+_Bishop Blougram's Apology_, 188, 189, 199, 200.
+
+_Blot on the 'Scutcheon, A_, 53.
+
+Boyd, sig., 62.
+
+Browning, Robert: nascita e [[history|storia]] familiare, 3;
+teorie sulla sua discendenza, 4-8;
+un tipico inglese della classe media, 9;
+i suoi antenati immediati, 10 _seq._;
+[[Education|istruzione]], 12;
+fanciullezza e giovinezza, 17;
+prime [[Poems|poesie]], _Incondita_, 17;
+spirito romantico, 18;
+pubblicazione di _Pauline_, 20;
+[[Friendship|amicizia]] con uomini di lettere, 21;
+_Paracelsus_, 22;
+introduzione al mondo letterario, 25;
+i suoi primi ammiratori, 26;
+[[Friendship|amicizia]] con Carlyle, 26;
+_Strafford_, 27;
+_Sordello_, 34;
+_Pippa Passes_, 43;
+_Dramatic Lyrics_, 45;
+_The Return of the Druses_, 51;
+_A Blot on the 'Scutcheon_, 53;
+corrispondenza con Elizabeth Barrett, 62 _seq._;
+il loro primo incontro, 70;
+[[Marriage|matrimonio]] e fuga d'amore, 78, 79;
+vita in [[Italy|Italia]], 81 _seq._;
+[[Love|amore]] per l'[[Italy|Italia]], 82, 85 _seq._;
+simpatia per la Rivoluzione italiana, 90;
+atteggiamento verso lo spiritismo, 91 _seq._, 113, 190-199;
+[[Death|morte]] della moglie, 103;
+ritorno in Inghilterra, 105;
+_The Ring and the Book_, 110;
+culmine della sua fama letteraria, 110, 117;
+vita in società, 110;
+eletto Fellow di Balliol, 117;
+onorato dalle grandi Università, 118;
+_Balaustion's Adventure_, 119-120;
+_Aristophanes' Apology_, 120;
+_The [[Agamemnon]] of Aeschylus_, 120;
+_Prince Hohenstiel-Schwangau_, 121;
+_Red-Cotton [[Night]]-Cap Country_, 122;
+_Fifine at the Fair_, 124;
+_The Inn Album_, 125;
+_Pacchiarotto, and How He Worked in Distemper_, 125;
+_La Saisiaz_, 127;
+_The Two Poets of Croisic_, 127;
+_Dramatic Idylls_, 127;
+_Jocoseria_, 127;
+_Ferishtah's Fancies_, 127;
+_Parleyings with Certain People of Importance in their Day_, 128;
+accetta l'incarico di Corrispondente estero della Royal Academy, 129;
+si reca a Llangollen con la sorella, 130;
+ultimo [[Journey|viaggio]] in [[Italy|Italia]], 130;
+[[Death|morte]] a [[Venice|Venezia]], 132;
+pubblicazione di _Asolando_, 132;
+la sua conversazione, 36;
+[[Vanity|vanità]], 33, 36;
+difetti e virtù, 40, 55;
+il suo interesse per l'Arte, 82 _seq._;
+i suoi svariati talenti, 84-85;
+personalità e presenza, 18, 33, 112 _seq._;
+i suoi pregiudizi, 113-116;
+la sua occasionale rozzezza, 116;
+politica, 86 _seq._;
+Browning come padre, 105;
+come drammaturgo, 52;
+come [[artist|artista]] letterario, 133 _seq._;
+il suo uso del [[Grotesque|grottesco]], 48, 140, 143, 148 _seq._;
+i suoi insuccessi, 141;
+originalità artistica, 136, 143, 158;
+acuto senso della melodia e del ritmo, 145 _seq._;
+ingegnosità nelle rime, 152;
+la sua buffoneria, 154;
+oscurità, 154 _seq._;
+la sua concezione dell'Universo, 175;
+[[philosophy|filosofia]], 177 _seq._;
+ottimismo, 179 _seq._;
+la sua poesia d'[[Love|amore]], 49;
+i suoi furfanti, 51, 201-202;
+la chiave dei suoi monologhi casuistici, 199.
+
+_Browning, Life of_ (sig.ra Orr), 92.
+
+Browning, Robert (padre del poeta), 10, 119.
+
+Browning, sig.ra, _née_ Wiedermann (madre), 11, 82.
+
+Browning, Anna (sorella), 14, 105.
+
+Browning, Elizabeth Barrett (moglie),
+57 _seq._, 91-99, 101, 103, 116, 119,
+129, 131.
+
+Browning Society, 129.
+
+Burns, Robert, 169-170.
+
+Byron, 11, 38, 141, 143.
+
+Byronismo, 19, 117.
+
+C
+
+"[[Caliban]]," 9, 120.
+
+"[[Caliban]] upon Setebos," 93, 135, 138.
+
+Camberwell, 3, 8, 19.
+
+"Caponsacchi," 108.
+
+Carlyle, Thomas, 12, 16, 17, 26, 55, 56, 87, 115.
+
+Carlyle, sig.ra, 26.
+
+"Cavalier Tunes," 46.
+
+Cavour, 86, 90, 103.
+
+Carlo I, 28, 29.
+
+Chaucer, 117.
+
+"Childe Roland to the Dark Tower came," 159.
+
+_Christmas Eve_, 105.
+
+Chiesa in [[Italy|Italia]], La, 88.
+
+"Clive," 127.
+
+Clough, [[Arthur]] Hugh, 56.
+
+_Colombe's Birthday_, 32.
+
+Corelli, sig.na Marie, 38.
+
+Cromwell, [[Oliver]], 73.
+
+D
+
+Darwin, 23, 39.
+
+Dickens, 16.
+
+"Djabal," 51, 52.
+
+Domett, Alfred, 21.
+
+"Dominus Hyacinthus de Archangelis," 161.
+
+_Dramatic Idylls_, 127.
+
+_Dramatic Lyrics_, 45-50.
+
+_Dramatis Personæ_, 105.
+
+Duffy, Sir Charles Gavan, 187, 188.
+
+E
+
+_Edinburgh Review_, 122.
+
+"Englishman in [[Italy]], The," 150.
+
+F
+
+"Fears and Scruples," 126, 138.
+
+"Ferishtah's Fancies," 138.
+
+_Fifine at the Fair_, 9, 13, 51, 124, 199.
+
+Fitzgerald, Edward, 116, 131.
+
+_Flight of the Duchess, The_, 18.
+
+Firenze, 81, 94.
+
+Forster, John, 26.
+
+Foster, John, 187, 188.
+
+Fox, sig. Johnson, 20.
+
+Fox, sig.ra Bridell, 33.
+
+"Fra Lippo,", 51.
+
+_Fra Lippo Lippi_, 83, 199.
+
+[[French Revolution|Rivoluzione francese]], 87.
+
+Furnivall, dott., 7, 129.
+
+G
+
+"[[Garden]] Fancies," 46.
+
+Garibaldi, 86, 89.
+
+Gilbert, W.S., 144.
+
+Gissing, sig. George, 165.
+
+Gladstone, 117.
+
+_Golden Treasury_ (Palgrave), 168.
+
+Goldsmith, 169, 170.
+
+Gordon, Generale, 90.
+
+"Guido Franceschini," 106, 120, 200.
+
+H
+
+Henley, sig., 148.
+
+"Heretic's [[Tragedy]], The," 137.
+
+Hickey, sig.na E.H., 129.
+
+"Holy [[Cross]] Day," 153.
+
+[[Home]], David (spiritista), 93-97, 113, 190, 191.
+
+[[Home]], David, _Memoirs_ di, 93 _seq._
+
+Horne, 26.
+
+Houghton, Lord, 129.
+
+"[[house|House]]," 138.
+
+"Householder, The," 138.
+
+"How they brought the good News from Ghent to Aix," 46.
+
+_Hudibras_ (Butler), 57.
+
+Hugo, Victor, 17.
+
+Hunt, Leigh, 26.
+
+I
+
+_Incondita_, 17.
+
+_Inn Album, The_, 125.
+
+_Instans Tyrannus_, 9.
+
+[[Italy|Italia]], 85 _seq._
+
+Rivoluzione italiana, 88 _seq._
+
+"Ivàn Ivànovitch," 127.
+
+J
+
+Jameson, sig.ra, 75.
+
+Jerrold, Douglas, 34.
+
+_Jocoseria_, 127.
+
+Jowett, dott., 118.
+
+_Julius Cæsar_ (Shakespeare), 28.
+
+"Juris Doctor Bottinius," 161.
+
+K
+
+Keats, 15, 16, 19, 137, 142.
+
+Kenyon, sig., 22, 58, 69-70, 74, 76.
+
+_King Victor and [[King]] Charles_, 32.
+
+Kipling, Rudyard, 142.
 
 
 
@@ -13144,6 +15371,367 @@ THACKERAY. By ANTHONY TROLLOPE.
 WORDSWORTH. By F.W.H. MYERS.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Kirkup, Seymour, 103.
+
+L
+
+_L'Aiglon_, 28.
+
+"Laboratory, The," 47, 143.
+
+Landor, 26, 56, 93, 101-103.
+
+_La Saisiaz_, 127.
+
+_Letters, The Browning_, 63.
+
+Liberalismo, 86.
+
+"Lines to Edward Fitzgerald," 131.
+
+Llangollen, 130.
+
+Lockhart, 112.
+
+"Lost Leader, The," 46.
+
+"[[Lover]]'s Quarrel, A," 50.
+
+"Luigi," 45.
+
+Lytton, Lord (romanziere), 91.
+
+M
+
+Macready, 17, 27, 53.
+
+Maeterlinck, 164, 184.
+
+Manning, Cardinale, 91.
+
+Maria [[Queen|Regina]] di Scozia, 29.
+
+"Master Hugues of Saxe-Gotha," 147.
+
+"May and [[Death]]." 21.
+
+Mazzini, 89.
+
+_Men and Women_, 105.
+
+Meredith, George, 156, 165.
+Mill, John Stuart, 26, 56.
+
+Milsand, 119.
+
+[[Milton]], 137.
+
+Monckton-Milnes, 26, 100.
+
+_Mr. Sludge the Medium_, 82, 96, 120, 190-199.
+
+"Muléykeh," 127.
+
+"My Star," 138.
+
+N
+
+"Nationality in Drinks," 46, 138.
+
+Napoleone, 42, 89.
+
+Napoleone III, 56, 92, 121.
+
+"Never the [[Time]] and the Place," 127.
+
+Newman, Cardinale, 193.
+
+Norwood, 18.
+
+O
+
+"Ode on the Intimations of [[Immortality]]" (Wordsworth), 136.
+
+"Ode on a Grecian Urn" (Keats), 137.
+
+"Old Masters in Florence," 177.
+
+"One Word More," 65.
+
+Orr, sig.ra, 72.
+
+P
+
+_Pacchiarotto, and How He Worked in Distemper_, 125, 126, 152.
+
+_Paracelsus_, 22, 25, 26, 41, 47, 158.
+
+"Paracelsus," 24, 25.
+
+Pittura, [[Poems|poesie]] sulla, 83.
+
+Palgrave, Francis, 117.
+
+[[Paris|Parigi]], 94.
+
+_Parleyings with certain Persons of Importance in their Day_, 22, 128, 158.
+
+_Pauline_, 20, 21, 37, 41, 51.
+
+"Pheidippides," 127.
+
+Phelps (attore), 53.
+
+"Pictor Ignotus," 83.
+
+"Pied Piper of Hamelin, The," 153.
+
+"Pippa," 45, 120.
+
+_Pippa Passes_, 18, 45, 47, 51, 137.
+
+Pisa, 81.
+
+Pio IX, Chiesa sotto, 88.
+
+Platone, 21, 23.
+
+Poe, [[Edgar]] Allan, 144.
+
+Poesia, scuola pessimistica della, 130.
+
+"Pompilia," 201.
+
+Pope, 11, 20, 57.
+
+"Portrait, A," 138.
+
+_Prince Hohenstiel-Schwangau_, 121-122.
+
+_Princess, The_ (Tennyson), 148.
+
+"[[Prometheus]] Unbound" (Shelley), 137.
+
+Prussia, 88, 89.
+
+Puritani, 30.
+
+Pym, 28, 30.
+
+R
+
+"Rabbi Ben Ezra," 201.
+
+_Red-Cotton [[Night]]-Cap Country_, 122-124.
+
+_Return of the Druses, The_, 51-53.
+
+Rivoluzione,
+Francese, 15;
+Italiana, 90.
+
+_Ring and the Book, The_, 85, 106, 109, 123, 137, 160-176.
+
+Ripert-Monclar, Conte di, 22, 93.
+
+Chiesa romana, 114, 187, 188.
+
+Rossetti, 163.
+
+Realisti, 30.
+
+Ruskin, 16, 55, 56, 91, 115.
+
+[[Russia]], 88.
+
+S
+
+Sand, George, 9, 94.
+
+Santayana, sig., _Interpretations of Poetry and Religion_, 183-186.
+
+"Sebald," 45.
+
+Shakespeare, 17, 57.
+
+Shakespeare Society, 129.
+
+Sharp, sig. William, 133.
+
+[[Shaw]], sig. Bernard, 165.
+
+Shelley, 15, 16, 17,19, 56, 136, 141, 143.
+
+"Shop," 138.
+
+"Sibrandus Schafnaburgensis," 138.
+
+Silverthorne (cugino di Browning), 21.
+
+"Sludge," 51, 52, 150, 189, 200.
+
+[[smith|Smith]], Elder (editori), 110.
+
+"Soliloquy of the Spanish Cloister, The," 47.
+
+"Sonnets from the Portuguese," 65.
+
+_Sordello_, 23, 34, 42.
+
+Parola, libera, 173.
+
+Spenser, 142.
+
+Spiritismo, 9, 91, 113, 190.
+
+"Statue and the Bust, The," 109.
+
+Sterne, 117.
+
+Stevenson, Robert Louis, 60, 114.
+
+_Straford_, 27 _seq._, 37.
+
+"Stafford," 28, 29, 30.
+
+Swinburne, 56, 116, 142,143.
+
+T
+
+_Tait's Magazine_, 20.
+
+Talfourd, Sergeant, 26.
+
+Tennyson, 27, 34, 55, 117, 141, 142, 143, 148.
+
+Thackeray, sig.na, 123.
+
+"Through the Metidja to Abd-el-Kadr," 46.
+
+_Time's Revenges_, 9, 93.
+
+Tolstoi, 115.
+
+_Tristram Shandy_ (Sterne), 163.
+
+_Two Poets of Croisic, The_, 127.
+
+U
+
+University College, 14.
+
+"Up jumped Tokay" (poesia citata), 140.
+
+V
+
+[[Venice|Venezia]], 131.
+
+Vittorio di Sardegna, [[King|Re]], 23.
+
+Vogler, Abt, 23.
+
+W
+
+_Water Babies_ (Kingsley), 8.
+
+Watts, sig. G.F., 112.
+
+Whitman, Walt, 21, 43, 49, 114, 165, 184.
+
+"Why I am a Liberal" ([[Sonnet|sonetto]]), 86.
+
+Wiedermann, William, 12.
+
+Wiseman, Cardinale, 188.
+
+Wimbledon Common, 18.
+
+Wordsworth, 69, 136, 141, 143.
+
+Wordsworth Society, 129.
+
+Y
+
+"Youth and Art," 50, 109.
+
+Z
+
+Zola, 164.
+
+*       *       *       *       *
+
+ENGLISH MEN OF LETTERS.
+
+NUOVA SERIE.
+
+_In-8° corona. Tagli superiori dorati. Dorsi piatti. 2s. netti ciascuno._
+
+GEORGE ELIOT. Di Sir LESLIE STEPHEN, K.C.B.
+HAZLITT. Di AUGUSTINE BIRRELL, K.C.
+MATTHEW ARNOLD. Di HERBERT W. PAUL.
+RUSKIN. Di FREDERIC HARRISON.
+TENNYSON. Di Sir ALFRED LYALL.
+RICHARDSON. Di AUSTIN DOBSON.
+BROWNING. Di G.K. CHESTERTON.
+CRABBE. Di Rev. Canonico AINGER.
+JANE AUSTEN. Di Rev. Canonico BEECHING.
+HOBBES. Di Sir LESLIE STEPHEN, K.C.B.
+ADAM [[smith|SMITH]]. Di FRANCIS W. HIRST.
+SYDNEY [[smith|SMITH]]. Di GEORGE W.E. RUSSELL.
+FANNY BURNEY. Di AUSTIN DOBSON.
+JEREMY TAYLOR. Di [[Edmund|EDMUND]] GOSSE.
+ANDREW MARVELL. Di AUGUSTINE BIRRELL, K.C.
+[[Dante|DANTE]] GABRIEL ROSSETTI. Di A.C. BENSON.
+[[Maria|MARIA]] EDGEWORTH. Di l'On. EMILY LAWLESS.
+SIG.RA GASKELL. Di CLEMENT SHORTER.
+THOMAS MOORE. Di STEPHEN GWYNN.
+
+RISTAMPA DELLA SERIE ORIGINALE
+
+_Edizione da biblioteca. Uniforme con la precedente. 2s. netti ciascuno._
+
+ADDISON. Di W.J. COURTHOPE.
+BACON. Di Decano CHURCH.
+BENTLEY. Di Sir [[Richard|RICHARD]] JEBB.
+BUNYAN. Di J.A. FROUDE.
+BURKE. Di JOHN MORLEY.
+BURNS. Di Preside SHAIRP.
+BYRON. Di Professor NICHOL.
+CARLYLE. Di Professor NICHOL.
+CHAUCER. Di Dott. A.W. WARD.
+COLERIDGE. Di H.D. TRAILL.
+COWPER. Di GOLDWIN [[smith|SMITH]].
+DEFOE. Di W. MINTO.
+DEQUINCEY. Di Prof. MASSON.
+DICKENS. Di Dott. A.W. WARD.
+DRYDEN. Di Prof. SAINTSBURY.
+FIELDING. Di AUSTIN DOBSON.
+GIBBON. Di J.C. MORISON.
+GOLDSMITH. Di W. BLACK.
+GRAY. Di [[Edmund|EDMUND]] GOSSE.
+HAWTHORNE. Di HENRY JAMES.
+HUME. Di Prof. HUXLEY, F.R.S.
+JOHNSON. Di Sir LESLIE STEPHEN, K.C.B.
+KEATS. Di SIDNEY COLVIN.
+[[Lamb|LAMB]], CHARLES. Di Canonico AINGER.
+LANDOR. Di SIDNEY COLVIN.
+LOCKE. Di THOMAS FOWLER.
+MACAULAY. Di J.C. MORISON.
+[[Milton|MILTON]]. Di MARK PATTISON.
+POPE. Di Sir LESLIE STEPHEN, K.C.B.
+SCOTT. Di R.H. HUTTON.
+SHELLEY. Di J.A. SYMONDS.
+SHERIDAN. Di Sig.ra OLIPHANT.
+SIDNEY. Di J.A. SYMONDS.
+SOUTHEY. Di Prof. DOWDEN.
+SPENSER. Di Decano CHURCH.
+STERNE. Di H.D. TRAILL.
+SWIFT. Di Sir LESLIE STEPHEN, K.C.B.
+THACKERAY. Di ANTHONY TROLLOPE.
+WORDSWORTH. Di F.W.H. MYERS.
+
 
 
 <span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_08" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 8)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
@@ -13304,6 +15892,163 @@ the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+MACMILLAN AND CO., LTD., [[London|LONDRA]].
+
+*       *       *       *       *
+
+ENGLISH MEN OF ACTION SERIES.
+
+[[Crown]] 8vo. Tela. Con ritratti. 2s. 6d. ciascuno.
+
+CAMPBELL (COLIN). Di ARCHIBALD FORBES.
+CLIVE. Di Sir CHARLES WILSON.
+COOK (Capitano). Di Sir WALTER BESANT.
+DAMPIER. Di W. CLARK RUSSELL.
+DRAKE. Di JULIAN CORBETT.
+DUNDONALD. Di l'On. J.W. FORTESCUE.
+GORDON (Generale). Di Sir W. BUTLER.
+[[Hastings|HASTINGS]] (Warren). Di Sir A. LYALL.
+HAVELOCK (Sir Henry). Di A. FORBES.
+[[Henry V|ENRICO V]]. Di Rev. A.J. CHURCH.
+LAWRENCE (Lord). Di Sir [[Richard|RICHARD]] TEMPLE.
+LIVINGSTONE. Di THOMAS HUGHES.
+MONK. Di JULIAN CORBETT.
+MONTROSE. Di [[Mowbray|MOWBRAY]] MORRIS.
+NAPIER (Sir Charles). Di Colonnello Sir W. BUTLER.
+NELSON. Di Prof. J.K. LAUGHTON.
+PETERBOROUGH. Di W. STEBBING.
+RODNEY. Di DAVID HANNAY.
+STRAFFORD. Di H.D. TRAILL.
+WARWICK, il fabbricatore di [[King|Re]] Di C.W. OMAN.
+WELLINGTON. Di GEORGE HOOPER.
+WOLFE. Di A.G. BRADLEY.
+
+*       *       *       *       *
+
+DODICI STATISTI INGLESI.
+
+[[Crown]] 8vo. 2s. 6d. ciascuno.
+
+* *
+* _Una serie di brevi biografie, non concepita come un elenco completo
+di statisti famosi, ma per presentare in ordine storico le vite e
+l'opera di quei protagonisti delle nostre vicende che con la loro diretta
+influenza hanno lasciato un'impronta duratura sulla politica, le istituzioni
+e la posizione della Gran Bretagna fra gli Stati_.
+
+GUGLIELMO IL CONQUISTATORE. Di EDWARD A. FREEMAN, D.C.L., LL.D., già
+Regius Professor di [[history|Storia]] moderna nell'Università di [[Oxford]].
+
+ENRICO II. Di Sig.ra J.R. GREEN.
+
+EDOARDO I. Di T.F. TOUT, M.A., Professor di [[history|Storia]], The Owens
+College, Manchester.
+
+ENRICO VII. Di JAMES GAIRDNER. [[Cardinal Wolsey|CARDINALE WOLSEY]]. Di Vescovo
+CREIGHTON, D.D., già Dixie Professor di [[history|Storia]] ecclesiastica nell'
+Università di Cambridge.
+
+ELISABETTA. Di E.S. BEESLY, M.A., Professor di [[history|Storia]] moderna,
+University College, [[London|Londra]].
+
+[[Oliver|OLIVER]] CROMWELL. Di FREDERIC HARRISON.
+
+GUGLIELMO III. Di H.D. TRAILL.
+
+WALPOLE. Di JOHN MORLEY.
+
+CHATHAM. Di JOHN MORLEY. [_In preparazione_
+
+PITT. Di Lord ROSEBERY.
+
+PEEL. Di J.R. THURSFIELD, M.A., già Fellow del Jesus College,
+[[Oxford]].
+
+Fine dell'eBook Project Gutenberg di Robert Browning, di G. K. Chesterton
+
+*** FINE DI QUESTO EBOOK PROJECT GUTENBERG ROBERT BROWNING ***
+
+***** Questo file dovrebbe chiamarsi 13342-8.txt o 13342-8.zip *****
+Questo e tutti i file associati di vari formati si troveranno in:
+http://www.gutenberg.net/1/3/3/4/13342/
+
+Prodotto da Jonathan Ingram, Victoria Woosley e PG Distributed
+Proofreaders
+
+Le edizioni aggiornate sostituiranno la precedente — le vecchie edizioni
+verranno rinominate.
+
+Creare le opere a partire da edizioni a stampa di pubblico dominio significa che
+nessuno detiene un copyright statunitense su queste opere, sicché la Fondazione
+(e voi!) potete copiarle e distribuirle negli Stati Uniti senza
+permesso e senza pagare diritti d'autore. Regole speciali,
+esposte nella parte relativa ai Termini Generali d'Uso di questa licenza, si applicano al
+copiare e distribuire opere elettroniche Project Gutenberg-tm per
+proteggere il concetto e il marchio PROJECT GUTENBERG-tm. Project
+Gutenberg è un marchio registrato, e non può essere usato se
+fate pagare gli eBook, a meno che non riceviate uno specifico permesso. Se
+non fate pagare nulla per le copie di questo eBook, conformarsi alle
+regole è molto facile. Potete usare questo eBook per quasi qualunque scopo,
+come la creazione di opere derivate, rapporti, esecuzioni e
+ricerche. Esse possono essere modificate, stampate e regalate — potete fare
+praticamente QUALSIASI COSA con gli eBook di pubblico dominio. La ridistribuzione è
+soggetta alla licenza del marchio, specialmente la ridistribuzione
+commerciale.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+LA LICENZA COMPLETA PROJECT GUTENBERG
+SI PREGA DI LEGGERE QUESTO PRIMA DI DISTRIBUIRE O USARE QUEST'OPERA
+
+Per proteggere la missione del Project Gutenberg-tm di promuovere la libera
+distribuzione di opere elettroniche, usando o distribuendo quest'opera
+(o qualunque altra opera associata in qualsiasi modo alla frase «Project
+Gutenberg»), voi accettate di conformarvi a tutti i termini della Licenza completa Project
+Gutenberg-tm (disponibile con questo file oppure in rete all'indirizzo
+http://gutenberg.net/license).
+
+Sezione 1. Termini Generali d'Uso e Ridistribuzione delle opere elettroniche
+Project Gutenberg-tm
+
+1.A. Leggendo o usando una qualsiasi parte di quest'opera elettronica Project Gutenberg-tm,
+voi indicate di aver letto, compreso, accettato e
+approvato tutti i termini di questa licenza e dell'accordo sulla proprietà intellettuale
+(marchio/copyright). Se non accettate di attenervi a tutti
+i termini di questo accordo, dovete cessare di usare e restituire o distruggere
+tutte le copie di opere elettroniche Project Gutenberg-tm in vostro possesso.
+Se avete pagato una tariffa per ottenere una copia o l'accesso a un'opera
+elettronica Project Gutenberg-tm e non accettate di essere vincolati dai
+termini di questo accordo, potete ottenere un rimborso dalla persona o
+dall'ente al quale avete pagato la tariffa, come esposto nel paragrafo 1.E.8.
+
+1.B. «Project Gutenberg» è un marchio registrato. Può essere
+usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
+accettino di essere vincolate dai termini di questo accordo. Vi sono alcune
+cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
+anche senza conformarvi ai termini completi di questo accordo. Vedi
+il paragrafo 1.C qui sotto. Vi sono molte cose che potete fare con le opere
+elettroniche Project Gutenberg-tm se seguite i termini di questo accordo
+e aiutate a preservare il libero accesso futuro alle opere elettroniche Project
+Gutenberg-tm. Vedi il paragrafo 1.E qui sotto.
+
+1.C. La Project Gutenberg Literary Archive Foundation («la Fondazione»
+o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
+Project Gutenberg-tm. Quasi tutte le singole opere della
+collezione sono di pubblico dominio negli Stati Uniti. Se una
+singola opera è di pubblico dominio negli Stati Uniti e voi vi
+trovate negli Stati Uniti, noi non rivendichiamo il diritto di impedirvi di
+copiare, distribuire, eseguire, esibire o creare opere derivate
+basate sull'opera, purché tutti i riferimenti a Project Gutenberg
+siano rimossi. Naturalmente, [[Hope|speriamo]] che voi sosteniate la missione del Project
+Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
+condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini di
+questo accordo, così da mantenere il nome Project Gutenberg-tm associato
+all'opera. Potete facilmente conformarvi ai termini di questo accordo
+mantenendo quest'opera nel medesimo formato con l'annessa Licenza completa Project
+Gutenberg-tm quando la condividete senza pagamento con altri.
 
 
 

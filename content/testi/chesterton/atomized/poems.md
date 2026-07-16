@@ -5771,6 +5771,596 @@ But [[Don John of Austria]] is riding to the sea.
 [[Don John]] calling through the blast and the eclipse  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'eBook Project Gutenberg di [[Poems|Poesie]], di G.K. Chesterton  
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o disponibile online all'indirizzo www.gutenberg.org
+
+Titolo: [[Poems|Poesie]]  
+
+Autore: G.K. Chesterton  
+
+Data di pubblicazione: 5 febbraio 2010 [EBook #31184]  
+
+Lingua: inglese  
+
+Codifica del set di caratteri: ISO-8859-1  
+
+*** INIZIO DI QUESTO EBOOK PROJECT GUTENBERG [[Poems|POESIE]] ***  
+
+Prodotto da Marc D'Hooghe  
+
+[[Poems|POESIE]]  
+
+by  
+
+G.K. CHESTERTON
+
+[[New York|NEW YORK]]  
+
+1916  
+
+DELLO STESSO AUTORE  
+
+Il Napoleone di Notting [[Hill]]: Un [[Romance|romanzo]]. Con illustrazioni di Graham  
+
+Robertson.  
+
+Eretici.  
+
+Ortodossia.  
+
+Tutto considerato.  
+
+George Bernard [[Shaw]]. Una [[Biography|biografia]] illustrata.  
+
+La palla e la [[Cross|croce]].  
+
+La ballata del [[Horse|cavallo]] bianco.  
+
+L'[[innocence|innocenza]] di [[Father Brown|padre Brown]]. Illustrato.  
+
+La saggezza di [[Father Brown|padre Brown]].  
+
+[[manalive|Manalive]].  
+
+La locanda volante.  
+
+JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
+
+INDICE  
+
+TRE DEDICHE  
+
+A [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+
+A HILAIRE BELLOC  
+
+TO M. E. W.  
+
+[[Poems|POESIE]] DI GUERRA  
+
+[[lepanto|LEPANTO]]  
+
+LA MARCIA DELLA MONTAGNA NERA 1913  
+
+BEATI GLI OPERATORI DI PACE  
+
+LA MOGLIE DELLE FIANDRE  
+
+IL CROCIATO RITORNA DALLA PRIGIONIA  
+
+[[Poems|POESIE]] D'[[Love|AMORE]]  
+
+GLENCOE  
+
+IL TRAPPISTA DELL'[[Love|AMORE]]  
+
+CONFESSIONALE  
+
+MUSICA  
+
+IL [[deluge|DILUVIO]]  
+
+LA STRANA MUSICA  
+
+IL GRANDE MINIMO  
+
+IL MORTALE RISPONDE  
+
+UN [[Song|CANTO]] DI [[Marriage|NOZZE]]  
+
+BAY COMBE  
+
+[[Poems|POESIE]] RELIGIOSE  
+
+I RE MAGI  
+
+LA [[house|CASA]] DEL NATALE  
+
+UN [[Song|CANTO]] DI DONI A DIO  
+
+IL REGNO DEI CIELI  
+
+UN [[Hymn|INNO]] PER LA CHIESA MILITANTE  
+
+LA VISIONE BEATIFICA  
+
+LA TREGUA DEL NATALE  
+
+UN [[Hymn|INNO]]  
+
+UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI  
+
+LA NATIVITÀ  
+
+UN [[Child|FANCIULLO]] DELLE NEVI  
+
+UNA PAROLA  
+
+RIME PER I TEMPI  
+
+ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+
+IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
+
+IL MONUMENTO A SHAKESPEARE  
+
+L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+
+IL NUOVO LIBERO PENSATORE  
+
+IN MEMORIAM P.D.  
+
+[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
+
+UN [[Song|CANTO]] DI SPADE  
+
+UN [[Song|CANTO]] DI SCONFITTA  
+
+[[Sonnet|SONETTO]]  
+
+AFRICA  
+
+L'[[Hero|EROE]] MORTO  
+
+UN'ECO ELETTORALE  
+
+IL [[Song|CANTO]] DELLE RUOTE  
+
+IL POPOLO SEGRETO  
+
+[[Poems|POESIE]] VARIE  
+
+PERDUTO  
+
+BALLATA DEL SOLE  
+
+[[Translation|TRADUZIONE]] DA DU BELLAY  
+
+L'[[unity|UNITÀ]] SUPERIORE  
+
+LA VEGLIA DELLA TERRA  
+
+SULLA GIUSTA INDIGNAZIONE  
+
+QUANDO TORNAI A FLEET STREET  
+
+UN [[Song|CANTO]] DEL SIDRO  
+
+L'ULTIMO [[Hero|EROE]]  
+
+BALLATE  
+
+BALLADE D'UNE GRANDE DAME  
+
+UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
+
+UNA BALLATA DI UN RECENSORE DI LIBRI  
+
+UNA BALLATA DEL [[suicide|SUICIDIO]]  
+
+UNA BALLATA DELLA PRIMA PIOGGIA  
+
+I  
+
+TRE DEDICHE  
+
+A [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+
+LA DEDICA DI _L'UOMO CHE FU GIOVEDÌ_  
+
+Una nube gravava sulla mente degli uomini, e il tempo passava gemendo,  
+
+Sì, una nube malata sull'[[Soul|anima]] quando eravamo ragazzi insieme.  
+
+La scienza proclamava il nulla e l'arte ammirava la [[Decay|corruzione]];  
+
+Il mondo era vecchio e finito: ma tu ed io eravamo lieti.  
+
+Intorno a noi in grottesco corteo venivano i loro vizi storpi--  
+
+La lussuria che aveva perso il riso, la [[Fear|paura]] che aveva perso la vergogna.  
+
+Come la bianca ciocca di Whistler, che illuminava la nostra tetraggine senza meta,  
+
+Gli uomini mostravano la propria penna bianca fieri come d'un pennacchio.  
+
+La vita era una mosca che svaniva, e la [[Death|morte]] un fuco che pungeva;  
+
+Il mondo era davvero molto vecchio quando tu ed io eravamo giovani.  
+
+Torcevano perfino il peccato decente in forme che non si possono nominare:  
+
+Gli uomini si vergognavano dell'[[Honour|onore]]; ma noi non ci vergognavamo.  
+
+Deboli forse eravamo e stolti, ma non così fallimmo, non così;  
+
+Quando quel nero Baal ostruì i cieli, non ebbe inni da noi.  
+
+Fanciulli eravamo--i nostri forti di sabbia erano deboli quanto noi,  
+
+Per quanto salissero, li ammucchiavamo per infrangere quel mare amaro.  
+
+Folli come eravamo in abito d'Arlecchino, tutti stridenti e assurdi,  
+
+Quando tutte le [[Bells|campane]] delle chiese tacevano, si udivano il nostro berretto e i [[Bells|sonagli]].  
+
+Non del tutto senza aiuto tenemmo il forte, spiegate le nostre minuscole bandiere;  
+
+Alcuni giganti si adoperarono in quella nube per sollevarla dal mondo.  
+
+Ritrovo il libro che trovammo, sento l'ora che scaglia  
+
+Lontano, dalla Paumanok a forma di pesce, un grido di cose più pure;  
+
+E il Garofano Verde appassì, come nei roghi di foresta che passano,  
+
+Ruggirono nel [[Wind|vento]] di tutto il mondo dieci milioni di [[Leaves|foglie]] d'erba;  
+
+O sana e dolce e improvvisa come un uccello canta nella pioggia  
+
+La [[Truth|verità]] parlò da Tusitala e il piacere dal [[Pain|dolore]].  
+
+Sì, fresca e chiara e improvvisa come un uccello canta nel grigiore,  
+
+Dunedin parlò a Samoa, e la tenebra al giorno,  
+
+Ma noi eravamo giovani; vivemmo per vedere Dio spezzare i loro amari incantesimi,  
+
+Dio e la buona Repubblica tornare a cavallo, in armi:  
+
+Abbiamo veduto la [[City|città]] di Mansoul, mentre ancora vacillava, liberata--Beati  
+
+coloro che non videro, ma pur essendo ciechi, credettero.  
+
+Questa è una storia di quelle antiche paure, di quegli inferni ormai svuotati,  
+
+E nessuno tranne te comprenderà la vera cosa che essa racconta--  
+
+Di quali colossali dèi della vergogna poterono atterrire gli uomini e pure crollare,  
+
+Di quali enormi diavoli nascosero le [[Stars|stelle]], eppure caddero al lampo d'una [[Pistol|pistola]].  
+
+I dubbi che erano così facili da inseguire, così terribili da sostenere--  
+
+Oh, chi comprenderà se non tu; sì, chi comprenderà?  
+
+I dubbi che ci sospinsero per la [[Night|notte]] mentre noi due parlavamo senza sosta,  
+
+E il giorno era spuntato sulle strade prima che spuntasse sulla mente.  
+
+Fra noi, per la pace di Dio, una tale [[Truth|verità]] può ora esser detta;  
+
+Sì, c'è forza nel mettere radice, e bene nell'invecchiare.  
+
+Abbiamo trovato infine le cose comuni, e il [[Marriage|matrimonio]] e un credo.  
+
+E io posso ora scriverlo senza timore, e tu puoi leggerlo senza timore.  
+
+A HILAIRE BELLOC  
+
+LA DEDICA DI _IL NAPOLEONE DI NOTTING HILL_  
+
+Per ogni minuscola città o luogo  
+
+Dio fece le [[Stars|stelle]] apposta;  
+
+I bimbi guardano in su con volto di civetta  
+
+E le vedono impigliate in un albero:  
+
+Tu vedesti una [[Moon|luna]] dalle Downs del Sussex,  
+
+Una [[Moon|luna]] del Sussex, ancora mai viaggiata,  
+
+Io vidi una [[Moon|luna]] che era della città,  
+
+La più grande lampada su Campden [[Hill]].  
+
+Sì, il Cielo è ovunque di [[Home|casa]].  
+
+Il grande berretto azzurro che va sempre bene,  
+
+E così è (sta' calmo; giungono  
+
+infine alla meta, i miei sensi vaganti),  
+
+Così è con la cosa eroica;  
+
+Questa non finirà con la fine del mondo,  
+
+E benché le cupe macchine oscillino,  
+
+Non aver troppa paura, amico mio.  
+
+Questa non finì presso l'urna di Nelson  
+
+Ove siede un'Inghilterra immortale--  
+
+Né dove i tuoi alti giovani a loro volta  
+
+Bevvero la [[Death|morte]] come vino ad Austerlitz.  
+
+E quando i pedanti ci ordinarono di notare  
+
+Quali freddi meccanici eventi  
+
+Dovessero venire; le nostre anime dissero nel buio,  
+
+«Può darsi; ma vi son cose più probabili.»  
+
+Più probabile, per queste pianure lontane,  
+
+Questi tetri livelli lisci e liberi,  
+
+I tamburi fragoreranno un valzer di guerra  
+
+E la [[Death|Morte]] [[Dance|danzerà]] con la Libertà;  
+
+Più probabile, le barricate strepiteranno  
+
+Strage in basso e fumo in alto,  
+
+E la [[Death|morte]] e l'odio e l'inferno dichiarino  
+
+Che gli uomini hanno trovato una cosa da [[Love|amare]].  
+
+Lontano dai tuoi assolati altipiani  
+
+Io vidi il sogno; le strade che calcai,  
+
+Le diritte strade illuminate si slanciarono e incontrarono  
+
+Le strade stellate che additano Dio;  
+
+La leggenda di un'ora [[Epic|epica]]  
+
+Da [[Child|fanciullo]] sognai, e ancora la sogno,  
+
+Sotto la grande grigia torre dell'[[Water|acqua]]  
+
+Che colpisce le [[Stars|stelle]] su Campden [[Hill]]  
+
+TO _M. E. W_.  
+
+Parole, ché ahimè il mio mestiere è parole, un arido sprazzo di rima,  
+
+Consunte da cento rimatori, malconce mille volte,  
+
+Prendile, tu, che sorridi sulle corde, quei suoni più nobili dei miei,  
+
+Le parole che mai mentono, né si vantano, né lusingano, né calunniano.  
+
+Do una mano alla mia signora, un'altra al mio amico,  
+
+A cui anche tu hai dato una mano; e così prima della fine  
+
+Noi quattro possiamo pregare, per tutti gli anni, quali che siano i soli che ci assediano,  
+
+Le uniche due preghiere che val la pena pregare--vivere e non dimenticare.  
+
+La foglia pallida cade nel pallore, ma la foglia verde si fa oro;  
+
+Noi che abbiamo trovato bello esser giovani troveremo bello esser vecchi;  
+
+Vita che reca la campana delle [[Marriage|nozze]], la culla e la [[Grave|tomba]],  
+
+Vita che è meschina col meschino di cuore, e prode solo col prode.  
+
+Nella calma dell'ultimo bianco [[Winter|inverno]], quando tutto il passato è nostro,  
+
+Le vecchie [[Tears|lacrime]] son gelate come gioielli, le vecchie tempeste brinate come [[Flowers|fiori]].  
+
+Cara Signora, possiamo incontrarci di nuovo, rialzarci di nuovo, noi quattro,  
+
+Sotto il peso degli anni, e lodare la terra ancora una volta.  
+
+II  
+
+[[Poems|POESIE]] DI GUERRA  
+
+[[lepanto|LEPANTO]]  
+
+Bianche fontane cadenti nelle Corti del sole,  
+
+E il Soldano di Bisanzio sorride mentre scorrono;  
+
+C'è un riso come le fontane in quel volto che tutti temettero,  
+
+Agita la tenebra di foresta, la tenebra della sua barba,  
+
+Increspa la mezzaluna rossa di [[Blood|sangue]], la mezzaluna delle sue labbra,  
+
+Ché il mare più interno di tutta la terra è scosso dalle sue navi.  
+
+Hanno sfidato le bianche repubbliche su per il capo d'[[Italy|Italia]],  
+
+Hanno flagellato l'Adriatico intorno al [[Lion|Leone]] del Mare,  
+
+E il Papa ha aperto le braccia nell'agonia e nella perdita,  
+
+E ha chiamato i re della cristianità alle spade intorno alla [[Cross|Croce]].  
+
+La fredda [[Queen|regina]] d'Inghilterra si guarda allo specchio;  
+
+L'[[Shadow|ombra]] dei Valois sbadiglia alla Messa;  
+
+Da isole serali fantastiche risuona fioco il cannone spagnolo,  
+
+E il Signore sul Corno d'Oro ride nel sole.  
+
+Fiochi tamburi pulsanti, tra le colline appena uditi,  
+
+Dove solo su un trono senza nome un principe senza corona si è mosso,  
+
+Dove, levatosi da un dubbioso seggio e da uno stallo semiscreditato,  
+
+L'ultimo cavaliere d'Europa prende le armi dalla parete,  
+
+L'ultimo e indugiante trovatore a cui l'uccello ha cantato,  
+
+Che un tempo andava cantando verso sud quando tutto il mondo era giovane.  
+
+In quell'enorme [[Silence|silenzio]], minuscolo e senza paura,  
+
+Sale lungo una tortuosa [[Road|strada]] il rumore della Crociata.  
+
+Forti gong gemono mentre i cannoni rombano lontano,  
+
+[[Don John of Austria|Don Giovanni d'Austria]] va alla guerra,  
+
+Rigide bandiere tese nelle fredde raffiche della [[Night|notte]]  
+
+Nella tenebra nero-porpora, nel bagliore oro antico,  
+
+Luce di torce cremisi sui timpani di rame,  
+
+Poi gli squilli, poi le trombe, poi il cannone, ed egli viene.  
+
+[[Don John|Don Giovanni]] che ride nella prode barba ricciuta.  
+
+Spumeggiando dalle staffe come i troni di tutto il mondo,  
+
+Tenendo alta la testa come una [[Flag|bandiera]] di tutti i liberi.  
+
+Luce d'[[Love|amore]] di Spagna--evviva!  
+
+Luce di [[Death|morte]] d'Africa!  
+
+[[Don John of Austria|Don Giovanni d'Austria]]  
+
+Cavalca verso il mare.  
+
+Mahound è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
+
+_([[Don John of Austria|Don Giovanni d'Austria]] va alla guerra.)_  
+
+Muove un possente turbante sulle ginocchia dell'urì senza tempo,  
+
+Il suo turbante che è intessuto dei tramonti e dei mari.  
+
+Scuote i giardini di pavoni mentre si leva dal suo ozio,  
+
+E incede tra le cime degli alberi ed è più alto degli alberi,  
+
+E la sua voce per tutto il [[Garden|giardino]] è un tuono mandato a chiamare  
+
+Il nero Azrael e [[Ariel]] e Ammon in volo.  
+
+Giganti e i Geni,  
+
+Molteplici d'ala e d'occhio,  
+
+La cui forte obbedienza spezzò il cielo  
+
+Quando Salomone era [[King|re]].  
+
+Irrompono in rosso e porpora dalle rosse nubi del mattino,  
+
+Da templi dove i gialli dèi serrano gli occhi con disprezzo;  
+
+Si levano in verdi vesti ruggendo dai verdi inferni del mare  
+
+Dove sono cieli caduti e tinte maligne e creature senz'occhi;  
+
+Su di loro s'aggrappano le valve marine e s'arricciano le grigie foreste del mare,  
+
+Chiazzate di uno splendido morbo, il morbo della perla;  
+
+Si gonfiano in fumo di zaffiro dalle azzurre fenditure del suolo,--  
+
+Si radunano e si [[Wonder|meravigliano]] e rendono culto a Mahound.  
+
+Ed egli dice: «Spaccate i [[Mountains|monti]] dove la gente eremita può nascondersi,  
+
+E setacciate le sabbie rosse e d'argento affinché non resti osso di santo,  
+
+E incalzate i Giaurri in fuga [[Night|notte]] e giorno, senza dar tregua,  
+
+Ché ciò che fu il nostro tormento torna ancora dall'occidente.  
+
+Abbiamo posto il sigillo di Salomone su tutte le cose sotto il sole,  
+
+Di sapere e di dolore e di [[Endurance|sopportazione]] delle cose compiute,  
+
+Ma un rumore è tra i [[Mountains|monti]], tra i [[Mountains|monti]], e io conosco  
+
+La voce che scosse i nostri palazzi--quattrocento anni fa:  
+
+È colui che non dice 'Kismet'; è colui che non conosce il Fato;  
+
+È [[Richard|Riccardo]], è Raimondo, è Goffredo alla porta!  
+
+È colui la cui perdita è riso quando stima degna la posta,  
+
+Ponete i vostri piedi su di lui, affinché la nostra pace sia sulla terra.»  
+
+Ché egli udì i tamburi gemere e udì i cannoni stridere,  
+
+_([[Don John of Austria|Don Giovanni d'Austria]] va alla guerra.)_  
+
+Improvviso e immoto--evviva!  
+
+Folgore d'Iberia!  
+
+[[Don John of Austria|Don Giovanni d'Austria]]  
+
+È passato oltre Alcalar.  
+
+San [[Michael|Michele]] è sul suo Monte nelle vie marine del nord  
+
+_([[Don John of Austria|Don Giovanni d'Austria]] è cinto d'armi e si mette in cammino.)_  
+
+Dove i grigi mari luccicano e le aguzze maree si spostano  
+
+E la gente di mare fatica e le rosse vele si levano.  
+
+Egli scuote la sua lancia di ferro e batte le sue ali di pietra;  
+
+Il rumore è passato per la Normandia; il rumore se n'è andato [[Alone|solo]];  
+
+Il Nord è pieno di cose intricate e di testi e di occhi doloranti  
+
+E morta è tutta l'[[innocence|innocenza]] dell'ira e della sorpresa,  
+
+E il cristiano uccide il cristiano in una angusta polverosa  
+
+E il cristiano paventa [[Christ|Cristo]] che ha un più nuovo volto di condanna,  
+
+E il cristiano odia Maria che Dio baciò in Galilea,  
+
+Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.  
+
+[[Don John|Don Giovanni]] che chiama attraverso la raffica e l'eclissi
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="Poems (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
@@ -6348,6 +6938,580 @@ Tell to the trembling priests that here
 
 Under the [[deluge]] rod,  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gridando con la tromba, con la tromba delle sue labbra,  
+
+Tromba che dice ah!  
+
+_Domino gloria_!  
+
+[[Don John of Austria|Don Giovanni d'Austria]]  
+
+Grida alle navi.  
+
+[[King|Re]] Filippo è nel suo studiolo col Vello al collo  
+
+_([[Don John of Austria|Don Giovanni d'Austria]] è armato sul ponte.)_  
+
+Le pareti sono drappeggiate di velluto nero e soffice come il peccato,  
+
+e piccoli nani ne strisciano fuori e piccoli nani vi strisciano dentro.  
+
+Regge una fiala di cristallo che ha colori come la [[Moon|luna]],  
+
+la tocca, ed essa formicola, ed egli trema assai  
+
+e il suo volto è come un fungo di un bianco e grigio lebbroso  
+
+come piante nelle alte case sprangate contro il giorno.  
+
+E la [[Death|morte]] è nella fiala e la fine della nobile opera,  
+
+ma [[Don John of Austria|Don Giovanni d'Austria]] ha fatto fuoco sul Turco.  
+
+[[Don John|Don Giovanni]] è a caccia, e i suoi segugi hanno abbaiato--Rimbomba  
+
+lontano oltre l'[[Italy|Italia]] la voce della sua scorreria.  
+
+Cannone su cannone, ah! ah!  
+
+Cannone su cannone, urrà!  
+
+[[Don John of Austria|Don Giovanni d'Austria]]  
+
+Ha scatenato la cannonata.  
+
+Il Papa era nella sua cappella prima che il giorno o la battaglia irrompessero,  
+
+_([[Don John of Austria|Don Giovanni d'Austria]] è nascosto nel fumo.)_  
+
+La stanza nascosta nella [[house|casa]] dell'uomo dove Dio siede tutto l'anno,  
+
+la segreta [[Window|finestra]] donde il mondo appare piccolo e assai caro.  
+
+Egli vede come in uno [[Mirror|specchio]] sul mostruoso mare crepuscolare  
+
+la mezzaluna delle sue navi crudeli il cui nome è mistero;  
+
+Esse scagliano grandi ombre verso il nemico, oscurando [[Cross|Croce]] e [[Castle|Castello]],  
+
+velano i leoni pennuti sulle galee di San Marco;  
+
+E sopra le navi stanno palazzi di capi bruni dalla barba nera,  
+
+e sotto le navi stanno prigioni, dove con innumerevoli dolori,  
+
+prigionieri cristiani malati e senza sole, tutta una stirpe che fatica si duole  
+
+come una stirpe in città sommerse, come una nazione nelle miniere.  
+
+Sono perduti come schiavi che sudano, e nei cieli del mattino pendevano  
+
+le scalinate dei più alti dèi quando la tirannia era giovane.  
+
+Sono innumerevoli, senza voce, senza speranza come quei caduti o in fuga  
+
+dinanzi ai cavalli degli alti Re nel granito di Babilonia.  
+
+E più d'uno impazzisce nella sua quieta stanza all'inferno  
+
+dove un volto giallo guarda dentro attraverso la grata della sua cella,  
+
+ed egli trova il suo Dio dimenticato, e non cerca più un segno_(Ma  
+
+[[Don John of Austria|Don Giovanni d'Austria]] ha spezzato la linea di battaglia!)_  
+
+[[Don John|Don Giovanni]] martella dalla poppa dipinta di strage,  
+
+imporporando tutto l'oceano come lo sloop d'un pirata insanguinato,  
+
+scarlatto che trabocca sugli argenti e sugli ori,  
+
+sfondando i boccaporti e facendo scoppiare le stive,  
+
+accalcarsi delle migliaia che faticano sotto il sesso  
+
+bianchi per beatitudine e ciechi per il sole e storditi per la libertà.  
+
+_Vivat Hispania!_  
+
+_Domino Gloria!_  
+
+[[Don John of Austria|Don Giovanni d'Austria]]  
+
+Ha reso libero il suo popolo!  
+
+Cervantes sulla sua galea ripone la [[Sword|spada]] nel fodero  
+
+_([[Don John of Austria|Don Giovanni d'Austria]] cavalca verso casa con una ghirlanda.)_  
+
+E vede attraverso una terra stremata una tortuosa [[Road|strada]] in Spagna,  
+
+su cui un cavaliere magro e folle per sempre cavalca invano,  
+
+ed egli sorride, ma non come sorridono i Sultani, e ripone la lama....  
+
+_(Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca [[Home|a casa]] dalla Crociata_.)  
+
+LA MARCIA DELLA MONTAGNA NERA 1913  
+
+Che cosa ci sarà da ricordare  
+
+di noi nei giorni a venire?  
+
+La cui [[Faith|fede]] fu una brace calpestata  
+
+e persino il nostro [[Doubt|dubbio]] non libero;  
+
+Parlamenti fatti di carta,  
+
+e le molli spade d'oro  
+
+che si torcono come una candela di cera  
+
+nella presa del debole aggressore;  
+
+Un silenzio attorno alla Fame, che uccide  
+
+una [[City|città]] di servi non sfamati;  
+
+Che cosa lasceremo come detto  
+
+per lodarci quando saremo morti?  
+
+Ma gli uomini ricorderanno la Montagna  
+
+che spezzò le sue [[Chains|catene]] di foresta,  
+
+e gli uomini ricorderanno la Montagna  
+
+quando si inarca contro le pianure:  
+
+E battezzeranno da essa i loro figli  
+
+e stagione e [[Ship|nave]] e strada,  
+
+quando la Montagna venne a Maometto  
+
+e apparve piccola ai suoi piedi.  
+
+Il suo capo era alto come la mezzaluna  
+
+della [[Moon|luna]] che pareva la sua [[Crown|corona]],  
+
+e sulla gloria del passato e del presente  
+
+la luce dei suoi occhi guardava in basso;  
+
+Una mano si tese verso il mattino  
+
+sopra i Bramini e i Buddisti uccisi,  
+
+e una verso l'Occidente con scherno  
+
+a indicare le cicatrici della Spagna;  
+
+Un piede sui colli a far la guardia  
+
+calcato dalla piccola Montagna;  
+
+e uno era in un [[Garden|giardino]]  
+
+e stava sulla [[Grave|tomba]] di Dio.  
+
+Ma gli uomini ricorderanno la Montagna,  
+
+benché cada come un albero,  
+
+vedranno il segno della Montagna  
+
+[[Faith|Fede]] gettata nel mare;  
+
+benché le spade ricurve la vincano  
+
+e la [[Moon|Luna]] Ricurva cavalchi libera,  
+
+quando la Montagna viene a Maometto  
+
+ha più vita di lui.  
+
+Ma che cosa ci sarà da ricordare  
+
+o che cosa ci sarà da vedere--  
+
+benché le nostre città per un lungo novembre  
+
+durino fino alla fine e siano?  
+
+Forza di schiavo e di meccanico  
+
+il cui ferro è governato dall'oro,  
+
+pace di immortale panico,  
+
+[[Love|Amore]] che è odio fatto freddo--  
+
+Sono questi una lusinga o un monito  
+
+che non ci volgiamo al sole,  
+
+né guardiamo le terre del mattino  
+
+dove alfine le imprese si compiono?  
+
+Dove gli uomini ricorderanno la Montagna  
+
+quando la [[Truth|verità]] dimentica la pianura--  
+
+e camminano nella via della Montagna  
+
+che non fallì invano;  
+
+[[Death|Morte]] ed eclisse e cometa,  
+
+tuono e sigilli che si squarciano:  
+
+quando la Montagna venne a Maometto;  
+
+perché era la fine.  
+
+BEATI GLI OPERATORI DI PACE  
+
+Un tempo con cuore diviso  
+
+vidi l'[[Pride|orgoglio]] del mio popolo espandersi,  
+
+poiché l'[[Soul|anima]] d'un uomo è lacerata  
+
+dalla madre terra e dalla patria.  
+
+Seppi, per molte intricate vicende,  
+
+gloria e [[Truth|verità]] non una ma due:  
+
+[[King|Re]], Conestabile e Ammiraglio  
+
+mi presero come trombe: ma io sapevo  
+
+una cosa più nera della tinta stessa del [[Blood|sangue]]  
+
+gravava sul grande Hawkins in mare;  
+
+e Nelson volse il suo occhio più cieco  
+
+su Napoli e sulla libertà.  
+
+Perciò a voi il mio grazie, o trono,  
+
+o gente moltiplice e gelata,  
+
+per le cui fredde frenesie tutte vostre  
+
+la Battaglia dei Fiumi scoppiò;  
+
+voi che non avete [[Faith|fede]] che un uomo possa piangere.  
+
+né [[Freedom|libertà]] che alcun uomo desideri;  
+
+ma in una nuova pura luce di scherno  
+
+componete la mia contesa coi miei avi;  
+
+voi che riportate a me il mio cuore inglese,  
+
+che mi accomodate come un giocattolo rotto;  
+
+finché possa vedervi combattere e fuggire,  
+
+e ridere come se fossi un fanciullo.  
+
+LA MOGLIE DELLE FIANDRE  
+
+Basse e brune stalle di paglia rappezzate e ritoppate e cenciose  
+
+dove ebbi sette figli fino a oggi,  
+
+una piccola [[Hill|collina]] di fieno il tuo sprone ha disperso....  
+
+Questa non è [[Paris|Parigi]]. Hai smarrito la via.  
+
+Tu, che fissi la tua [[Sword|spada]] per trovarla fragile,  
+
+sorpreso della sorpresa che era il tuo piano,  
+
+tu che scuotendo e spezzando barriere non poco  
+
+non trovi mai più la porta-[[Death|morte]] di Sedan.  
+
+Devo io per più che carneficina chiamarti creditore,  
+
+pagandoti un soldo per ogni figlio che uccidi?  
+
+Uomo, il globo intero in oro non sarebbe ripagamento  
+
+per ciò che _tu_ hai perduto. E come pagherò?  
+
+Qual è il prezzo di quella rossa scintilla che mi colse  
+
+da una gentile fattoria che mai ebbe un nome?  
+
+Qual è il prezzo di quel morto che mi portarono?  
+
+Perché altri morti non hanno lo stesso aspetto.  
+
+Come dovrei pagare per un povero campanile scolpito  
+
+su cui frantumasti ciò che non saprai,  
+
+come dovrei pagarti, gente miserabile?  
+
+Come dovrei pagarti tutto ciò che devi?34  
+
+Infelice, posso ridarti il tuo [[Honour|onore]]?  
+
+Anche se perdonassi, alcun uomo dimenticherebbe?  
+
+Mentre tutta la grande terra verde l'ha calpestata  
+
+il tradimento e il terrore della [[Night|notte]] in cui c'incontrammo.  
+
+Non più in vendetta o in perdono  
+
+una vecchia moglie contratta per un fagiolo che è suo.  
+
+Non hai parola da infrangere: né cuore da indurire.  
+
+Cavalca oltre e prospera. Hai perduto i tuoi speroni.  
+
+IL CROCIATO RITORNA DALLA PRIGIONIA  
+
+Sono uscito vivo dalla terra di porpora e [[Poison|veleno]] e incanto,  
+
+dove il fascino è forte come la tortura, essendo scelto per mutare la mente;  
+
+tortura di [[Dance|danza]] senza parole e di banchetto senza vino e senza clamore,  
+
+palazzo nascosto in palazzo, [[Garden|giardino]] con [[Garden|giardino]] dietro;  
+
+donne velate nel sole, o nude come bronzo nelle ombre,  
+
+e gli infiniti disegni senz'occhi dove ogni cosa pare un occhio....  
+
+E il mio passo è sulla sabbia di Cesare dove scivola verso i prati inglesi,  
+
+agli ultimi bassi boschi del Sussex e alla [[Road|strada]] che va a Rye.  
+
+Nei freschi e noncuranti boschi gli occhi degli eunuchi non ardevano,  
+
+ma il falco selvatico mi precedeva, libero di tornare o vagare,  
+
+i colli avevano ampie schiene inconsce; e le cime degli alberi non si volgevano,  
+
+e le capanne non si curavano di me: e seppi d'essere a [[Home|casa]].  
+
+E vidi la mia dama in lontananza e su di lei la sua santa [[Freedom|libertà]],  
+
+un capo, senza velo, distolto, e non da volgere con incanti,  
+
+e udii sopra le banderuole spiegate le intolleranti trombe dell'[[Honour|onore]],  
+
+che annunciano con ferreo riso il venire delle armi cristiane.  
+
+Il mio scudo pende ancora senza macchia; ma non andrò dove lo lodano,  
+
+una [[Sword|spada]] è ancora al mio fianco, ma non cavalcherò col [[King|Re]].  
+
+Solo camminare e camminare e stordire la mia [[Soul|anima]] e stupirla,  
+
+un giorno con la pietra e il passero e ogni cosa meravigliosa.  
+
+Ho percorso le curve della Mezzaluna, nel labirinto di chi l'adora,  
+
+curvate attorno a camere senza porte e dimore non vedute,  
+
+ma non cammino più nel labirinto; sul segno della [[Cross|croce]] lo giurai,  
+
+la selvaggia bianca [[Cross|croce]] della [[Freedom|libertà]], il segno dei bianchi crocicchi della [[Cross|croce]].  
+
+E la terra mi lascerà o prenderà, e la Donna mi prenderà o lascerà,  
+
+non ci sarà più [[Night|Notte]], né incubi visti in uno specchio;  
+
+ma la Vita mi terrà vivo, e la [[Death|Morte]] non m'ingannerà mai  
+
+finché camminerò in Inghilterra nei viottoli che mi lasciano passare.  
+
+III
+
+[[Poems|POESIE]] D'[[Love|AMORE]]  
+
+GLENCOE  
+
+Le rupi coronate di stelle paiono incernierate al cielo,  
+
+le nubi sono cenci fluttuanti arricciati su di esse,  
+
+ci si aprono come le porte di Dio  
+
+fesse nell'ultima grande muraglia di tutto il mondo.  
+
+Guardai, e vidi la valle della mia [[Soul|anima]]  
+
+dove nude creste lottano per raggiungere i cieli,  
+
+dove non cresce grano né vino, nessuna cosa feconda,  
+
+solo grandi parole e stellate bestemmie.  
+
+Ma tu hai rivestito con [[Mercy|misericordia]] come un musco  
+
+la sterile violenza delle sue guerre primordiali,  
+
+sterili benché siano e prive di regola,  
+
+tu sai che le mie informi rupi hanno sposato le [[Stars|stelle]].  
+
+Come ti ringrazierò, o cuore coraggioso.  
+
+che di questo mondo prodigo non avesti [[Fear|paura]];  
+
+ma le ordinasti di fiorire in pura [[Faith|fede]] e mandasti  
+
+i tuoi bei fiumi nutritori di fiori: proprio come qui  
+
+la torba brucia traboccando dalle loro coppe di pietra  
+
+brillano bruni e rosso-[[Blood|sangue]] giù per il vasto declivio  
+
+come se [[Christ|Cristo]] stesse su quel picco annuvolato  
+
+e mutasse le sue mille acque in vino.  
+
+IL TRAPPISTA DELL'[[Love|AMORE]]  
+
+C'è un luogo dove liuto e lira sono spezzati.  
+
+Dove le pergamene sono strappate e su un selvaggio [[Wind|vento]] vanno,  
+
+dove le tavolette stanno nude e deterse per segno,  
+
+dove gli allori appassiscono e crescono le margherite.  
+
+Ecco: anch'io mi unisco alla confraternita del [[Silence|silenzio]],  
+
+sono il Trappista dell'[[Love|Amore]] e tu chiedi invano,  
+
+poiché l'uomo per la porta dell'[[Love|Amore]], come per la porta della [[Death|Morte]],  
+
+va [[Alone|solo]] e non torna più indietro.  
+
+Eppure qui mi fermo, guardo indietro oltre la soglia.  
+
+Grido ai miei fratelli, benché il mondo sia vecchio,  
+
+profeti e savi, questionanti e dubbiosi,  
+
+o mondo, vecchio mondo, il meglio non è mai stato detto!  
+
+CONFESSIONALE  
+
+Ora che m'inginocchio al trono, o [[Queen|Regina]],  
+
+abbi pietà e perdonami.  
+
+Molto mi sono sforzato di cantare lo stesso,  
+
+fratello di bestia e d'albero;  
+
+eppure quando le [[Stars|stelle]] mi colgono [[Alone|solo]]  
+
+mai un fanello canta--  
+
+e il [[Blood|sangue]] d'un uomo è una voce amara  
+
+e grida per cose folli.  
+
+Non per me il vanto del dolore;  
+
+non fui io fin da fanciullo  
+
+votato con l'elmo e la lancia e lo sprone  
+
+al vessillo rosso-[[Blood|sangue]] della gioia?  
+
+Un uomo può cantare i suoi salmi a una pietra,  
+
+versare il suo [[Blood|sangue]] per un'erbaccia,  
+
+ma le [[Tears|lacrime]] d'un uomo sono cosa improvvisa,  
+
+e non vengono dal suo credo.  
+
+No, ma la terra è gentile con me,  
+
+benché io gridi per una Stella,  
+
+[[Leaves|Foglie]] ed erbe, piuma e fiore,  
+
+coprono la folle cicatrice,  
+
+profeti e santi e serafini  
+
+alleggeriscono il carico col [[Song|canto]],  
+
+e il cuore d'un uomo è un carico pesante  
+
+da portare con sé per un uomo.  
+
+MUSICA  
+
+Bronzo risonante e cembalo tintinnante,  
+
+colui che mi fece sigillò i miei orecchi,  
+
+e la pompa dei rumori magnifici,  
+
+onde di trionfo, onde di [[Tears|lacrime]],  
+
+tuonarono vuote intorno e oltre me,  
+
+infrante, perdute per sempre,  
+
+antico oro di [[Pride|orgoglio]] e passione,  
+
+naufragato come tesoro su una riva.  
+
+Ma vidi la sua guancia e la sua fronte  
+
+mutare, come a una parola detta,  
+
+e vidi il suo capo levato  
+
+come un giglio al Signore.  
+
+Nulla è perduto, ma tutto trasmutato,  
+
+gli orecchi sono sigillati, eppure gli occhi hanno visto;  
+
+vidi i suoi sorrisi (o [[Soul|anima]] sii degna!),  
+
+vidi le sue [[Tears|lacrime]] (o cuore sii puro!).  
+
+IL [[deluge|DILUVIO]]  
+
+Benché piogge giganti spengano il sole,  
+
+qui io sto per segno.  
+
+Benché la Terra sia colma di acque oscure,  
+
+la mia coppa è colma di vino.  
+
+Dite ai tremanti sacerdoti che qui  
+
+sotto la verga del [[deluge|diluvio]],
 
 
 
@@ -6981,6 +8145,634 @@ Whose wings are wider than the world. It is not He, but we.
 "We say not He has more to gain, but we have more to lose.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un uomo senza nome, lacero, spezzato  
+
+Si levò e bevve a Dio.  
+
+Il sole è stato dov'ora è la pioggia,  
+
+[[Bees|Api]] a ronzare nella calura,  
+
+Forse venne una fanciulla canterina,  
+
+Ora venga pure il [[deluge|Diluvio]]:  
+
+Bruna d'aureola, verde di veste,  
+
+Dritta come una verga d'oro,  
+
+Bevi ora al trono del tuono!  
+
+Bevi all'ira di Dio.  
+
+In alto tra il relitto reggevo la coppa,  
+
+Stringevo la mia [[Sword|spada]] arrugginita,  
+
+Rizzavo la mia piuma sbrindellata  
+
+Alla gloria del Signore.  
+
+Non erano disfatti il cielo e la terra,  
+
+Questo mondo cavo lanciato in su,  
+
+Prima che un uomo si levasse dritto!  
+
+E lo vuotasse come una coppa.  
+
+LA STRANA MUSICA  
+
+Altri amori possono affondare e posarsi, altri amori possono sciogliersi e allentarsi,  
+
+Ma io vago come un menestrello con un'arpa sulle spalle,  
+
+Benché l'arpa mi stia sul petto, benché la tasti e la tormenti,  
+
+Ancora, la mia [[Hope|speranza]] è tutta davanti a me: perché non so ancora suonarla.  
+
+Nelle tue corde è nascosta una musica che nessuna mano lasciò mai cadere,  
+
+Nella tua [[Soul|anima]] è sigillato un piacere che non hai mai conosciuto affatto;  
+
+Piacere sottile come il tuo spirito, strano ed esile come le tue membra,  
+
+Più fiero della [[Pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
+
+Non come il mio, o unta dell'[[Soul|anima]] mia, non come il mio, rozzo e lieve,  
+
+Facile allegria di molti volti, spavaldo [[Pride|orgoglio]] di [[Song|canto]] e di lotta;  
+
+Qualcosa di più strano, di più dolce, qualcosa che t'attende lontano,  
+
+Segreto come i tuoi sensi feriti, [[Magic|magico]] come sono i tuoi dolori.  
+
+Ma su questa, arpa superna di Dio, tesa solo per essere percossa una volta.  
+
+Il canuto [[Time|Tempo]] è un principiante, la Vita un pasticcione, la [[Death|Morte]] un somaro.  
+
+Ma non [[Fear|temerò]] di sfidarli--no, per Dio, non [[Fear|temerò]],  
+
+Ti imparerò, ti suonerò e le [[Stars|stelle]] si fermeranno ad ascoltare.  
+
+IL GRANDE MINIMO  
+
+È qualcosa aver pianto come abbiamo pianto,  
+
+È qualcosa aver fatto come abbiamo fatto,  
+
+È qualcosa aver vegliato quando tutti dormivano,  
+
+E visto le [[Stars|stelle]] che mai vedono il sole.  
+
+È qualcosa aver odorato la mistica [[Rose|rosa]],  
+
+Benché si spezzi e lasci le verghe spinose,  
+
+È qualcosa aver avuto fame una volta come coloro  
+
+Che debbon patir fame per aver mangiato il pane degli dèi.  
+
+Averti veduta, e il tuo volto indimenticato,  
+
+Ardito come uno squillo di trombe alla mischia.  
+
+Puro come bianchi gigli in uno spazio d'acqua,  
+
+Sarebbe qualcosa, anche se oggi ti allontanassi da me.  
+
+Aver conosciuto le cose che ai deboli restano celate,  
+
+Passioni antiche e pericolose, strane ed alte;  
+
+È qualcosa esser più saggi del mondo,  
+
+È qualcosa esser più antichi del cielo.  
+
+In un [[Time|tempo]] di tarme scettiche e ruggini ciniche,  
+
+E vite ingrassate che della loro dolcezza si stancano,  
+
+In un mondo di amori volanti e brame che sfioriscono,  
+
+È qualcosa esser sicuri di un [[Desire|desiderio]].  
+
+Ecco, benedette le nostre orecchie perché hanno udito;  
+
+Sì, benedetti i nostri occhi perché hanno veduto:  
+
+Che il tuono s'abbatta su uomo e bestia e uccello  
+
+E il [[Lightning|fulmine]]. È qualcosa essere stati.  
+
+IL MORTALE RISPONDE  
+
+.................VIENI VIA--  
+
+CON LE FATE, MANO NELLA MANO,  
+
+CHÉ IL MONDO È PIÙ COLMO DI PIANTO  
+
+DI QUANTO TU POSSA COMPRENDERE.  
+
+_W.B. Yeats_.  
+
+Dal Bosco delle Favole delle Vecchie Comari  
+
+Balenarono fuori dal grigiore,  
+
+E con tutte le Armate del Regno degli Elfi  
+
+Lottai come una bestia braccata;  
+
+Con solo un braccio destro sfinito,  
+
+Solo una rossa [[Sword|spada]] consunta,  
+
+E l'[[Pride|orgoglio]] della [[house|Casa]] di Adamo  
+
+Che tiene in disprezzo le [[Stars|stelle]].  
+
+Poiché vennero con [[Chains|catene]] di [[Flowers|fiori]]  
+
+E gigli come lance libere,  
+
+Là nel quieto verde bosco  
+
+Per togliermi il mio dolore.  
+
+E io dissi: «Ora tutto è scosso  
+
+Quando greve pende la fronte,  
+
+Quando la [[Hope|speranza]] degli anni è tolta  
+
+L'ultima stella affondata. Ora--  
+
+«Odi, tu grillo cicaleccio,  
+
+Odi, tu progenie della zolla,  
+
+Lo strano forte grido nelle tenebre  
+
+D'un uomo che loda Dio,  
+
+«Che dalla [[Night|notte]] e dal nulla  
+
+Con le doglie della nascita venne  
+
+Per stare un'ora nella luce del sole  
+
+Solo per dire il suo nome.  
+
+«Le cade tra i capelli il sole  
+
+A pioggia; tocca, guarda,  
+
+Le sue alte guance lucenti nel volgersi;  
+
+Ah, Compagnia Fatata,  
+
+«Il mondo è caldo e crudele,  
+
+Siamo stanchi di cuore e di mano.  
+
+Ma il mondo è più colmo di gloria  
+
+Di quanto tu possa comprendere.»  
+
+UN [[Song|CANTO]] DI [[Marriage|NOZZE]]  
+
+Perché dovremmo curarci delle ore che lacerano  
+
+Mentre noi due cavalchiamo insieme?  
+
+I cieli squarciati da un capo all'altro  
+
+Sarebbero solo tempo ventoso,  
+
+Le forti [[Stars|stelle]] scrollate giù in piena  
+
+Sarebbero uno scroscio di [[spring|primavera]],  
+
+E noi ascolteremmo la tromba del fato  
+
+E udiremmo cantare un fanello.  
+
+Spezziamo la linea con colpo e fortuna,  
+
+Le frecce corrono come pioggia,  
+
+Se tu sei colpita, o io son colpito,  
+
+C'è chi colpisce ancora.  
+
+Se tu fai amicizia, o io la faccio,  
+
+La forza è in noi due,  
+
+E le cose buone finiscono e le cattive finiscono,  
+
+E tu ed io restiamo.  
+
+Perché dovremmo curarci del male o del [[Well|bene]]  
+
+Mentre noi due cavalchiamo insieme?  
+
+I fuochi che caddero su Sodoma  
+
+Sarebbero solo tempo afoso.  
+
+Oltre ogni fine dato a tutti gli uomini  
+
+La nostra corsa è lontana e feroce,  
+
+Non faremo che lavarci i piedi in cielo,  
+
+E scaldarci le mani all'inferno.  
+
+Battaglie [[unborn|non nate]] e vaste vedranno  
+
+Sventolare i nostri vessilli vacillanti,  
+
+Nuovi amici verranno e frenesie nuove.  
+
+Nuovi affanni si affaticano e brulicano;  
+
+Nuovi amici passeranno e ancora rinnoveranno  
+
+Una [[Truth|verità]] che non è parvenza,  
+
+Che io sono io, e tu sei tu,  
+
+E la [[Death|Morte]] un sogno mattutino.  
+
+Perché dovremmo curarci di scherno o di lode  
+
+Mentre noi due cavalchiamo insieme?  
+
+L'aria gelida dei giorni senza Dio  
+
+Sarà solo tempo invernale.  
+
+Se l'inferno fosse il più alto, se il cielo  
+
+Fosse azzurro di diavoli azzurri,  
+
+Avrei indovinato che tutto era pari,  
+
+Se avessi sognato di te.  
+
+Poco mi curo di vuoti orgogli,  
+
+Di credi più freddi dell'argilla;  
+
+Verso fini più nobili e cavalcate più lunghe,  
+
+La mia dama cavalca oggi.  
+
+Per brandire le spade e prender parte  
+
+In quella mischia che tutto conclude  
+
+Quando le [[Stars|stelle]] cadranno e le tenebre celeranno,  
+
+Quando Dio si volgerà a far fronte.  
+
+Perché dovremmo curarci di ghigno e di gemito  
+
+Mentre noi due cavalchiamo insieme?  
+
+I triplici tuoni del trono  
+
+Sarebbero solo tempo tempestoso.  
+
+Per noi l'ultima gran battaglia ruggirà,  
+
+Sulle pianure estreme,  
+
+E ci volgeremo a ridire ancora una volta  
+
+Il nostro [[Love|amore]] nei sentieri d'Inghilterra.  
+
+BAY COMBE  
+
+Con [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra,  
+
+E brancolando di albero in albero,  
+
+Trovai la [[Home|casa]] del mio vero [[Love|amore]],  
+
+Che è per me una [[Home|casa]] errante.  
+
+Che, perduta in mondi in rovina e remoti,  
+
+Portò le tremende ali di colomba come un tetto;  
+
+Che, oltre le ultime perdute [[Stars|stelle]] dello spazio  
+
+Recava la luce del [[Fire|fuoco]] sul suo volto.  
+
+Che, passando come in ore d'ozio,  
+
+Addomesticò le erbacce selvatiche a [[Garden|giardino]] di [[Flowers|fiori]];  
+
+Carezzò le stridenti ali dello strano turbine,  
+
+E fece delle comete cose familiari.  
+
+Dove passava lungo il suo cammino  
+
+Il buio era più caro del giorno;  
+
+Dove sostava in cielo o all'inferno,  
+
+La storia di tutto il mondo era finita [[Well|bene]].  
+
+_Con [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+
+_E brancolando di albero in albero,_  
+
+_Trovai la [[Home|casa]] del mio vero [[Love|amore]],_  
+
+_Che è per me una [[Home|casa]] errante_.  
+
+Dove fu scagliata, sopra, sotto,  
+
+Dalla rude [[Dance|danza]] della vita e della [[Death|morte]],  
+
+Che cresca a Gotham--muoia a Roma,  
+
+Tra i pini è la sua [[Home|casa]].  
+
+In qualche strana città, in qualche mattino d'argento,  
+
+Può aver vagato fino a nascere;  
+
+Si fermò presso una folla variopinta, colpita,  
+
+E li chiamò congiunti per scherzo.  
+
+Se di nuovo nella bontà prosperiamo,  
+
+E i santi morti tornano in vita,  
+
+Allora pedanti calvi e pergamene brune  
+
+Potranno reclamare il suo [[Blood|sangue]] per la città di [[London|Londra]].  
+
+_Ma [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+
+_E brancolando di albero in albero,_  
+
+_Trovai la [[Home|casa]] del mio vero [[Love|amore]],_  
+
+_Che è per me una [[Home|casa]] errante_.  
+
+La grande lapide potrà oltrepassare,  
+
+E senza accorgersene, potrà morire;  
+
+Le vie del Cielo d'argento potrà calcare,  
+
+Coi suoi grigi occhi terribili non saziati.  
+
+La [[City|città]] della gran pace nella [[Pain|pena]]  
+
+Potrà passare, finché ritrovi  
+
+Questa piccola [[house|casa]] di leccio e abete  
+
+Che Dio costruì per lei prima delle [[Stars|stelle]].  
+
+Qui tra le [[Leaves|foglie]] cadute è avvolto  
+
+Il suo segreto centro del mondo.  
+
+Sediamo e sentiamo nel crepuscolo bruno  
+
+Le [[Stars|stelle]] volteggiare intorno a noi come un sole.  
+
+_Poiché [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+
+_E brancolando di albero in albero,_  
+
+_Trovai la [[Home|casa]] del mio vero [[Love|amore]]._  
+
+_Che è per me una [[Home|casa]] errante_.  
+
+IV  
+
+[[Poems|POESIE]] RELIGIOSE  
+
+I RE MAGI  
+
+Va' con passo lieve, sotto [[Snow|neve]] o pioggia,  
+
+Per trovare il luogo dove gli uomini possono pregare;  
+
+La via è tutta così semplice  
+
+Che possiamo smarrirla.  
+
+Oh, abbiamo imparato a scrutare e a struggerci  
+
+Su enigmi tortuosi fin dalla giovinezza,  
+
+Conosciamo ogni sapere labirintico,  
+
+Siamo i tre saggi d'un tempo,  
+
+E sappiamo ogni cosa fuorché la [[Truth|verità]].  
+
+Abbiamo girato e rigirato intorno alla [[Hill|collina]],  
+
+E perso il bosco tra gli alberi,  
+
+E imparato lunghi nomi per ogni male,  
+
+E servito i folli dèi, chiamando pur sempre  
+
+le Furie le Eumenidi.  
+
+Gli dèi della violenza presero il velo  
+
+Di visione e [[philosophy|filosofia]],  
+
+Il Serpente che a tutti gli uomini portò sventura,  
+
+Si morde la propria coda maledetta,  
+
+E si chiama [[Eternity|Eternità]].  
+
+Va' con umiltà ... è grandinato e nevicato ...  
+
+Con voci sommesse e lanterne accese;  
+
+Così semplice è la [[Road|strada]],  
+
+Che possiamo deviarne.  
+
+Il mondo si fa terribile e bianco,  
+
+E accecante bianco il giorno che spunta;  
+
+Camminiamo smarriti nella luce,  
+
+Poiché qualcosa è troppo grande per la vista,  
+
+E qualcosa troppo semplice da dire.  
+
+Il [[Child|Bambino]] che era prima che i mondi cominciassero  
+
+(... Ci basta camminare un breve tratto,  
+
+Ci basta vedere un chiavistello sciolto,...)  
+
+Il [[Child|Bambino]] che giocava con la [[Moon|luna]] e il sole  
+
+Sta giocando con un po' di fieno.  
+
+La [[house|casa]] da cui i cieli sono nutriti,  
+
+La vecchia strana [[house|casa]] che è la nostra,  
+
+Dove giochi di parole non si dicono mai.  
+
+E la [[Mercy|Misericordia]] è semplice come il pane,  
+
+E l'[[Honour|Onore]] è duro come la pietra.  
+
+Va' con umiltà; umili sono i cieli,  
+
+E bassa e grande e fiera la Stella;  
+
+Così vicina giace la Mangiatoia  
+
+Che possiamo viaggiare lontano.  
+
+Ascolta! Un riso come un [[Lion|leone]] si desta  
+
+Per ruggire alla pianura risonante,  
+
+E tutto il cielo grida e trema,  
+
+Poiché Dio stesso è nato di nuovo,  
+
+E noi siamo piccoli fanciulli che camminano  
+
+Attraverso la [[Snow|neve]] e la pioggia.  
+
+LA [[house|CASA]] DEL NATALE  
+
+Andò una madre cacciata via  
+
+Fuori da una locanda a errare;  
+
+Nel luogo dove ella era senza casa  
+
+Tutti gli uomini sono a [[Home|casa]].  
+
+La stalla sgangherata lì vicino,  
+
+Con travi tremanti e sabbia mobile,  
+
+Divenne cosa più salda a durare e a reggere  
+
+Delle pietre squadrate di Roma.  
+
+Poiché gli uomini han nostalgia nelle loro case,  
+
+E son stranieri sotto il sole,  
+
+E posano il capo in terra straniera  
+
+Ogni volta che il giorno è finito.  
+
+Qui abbiamo battaglia e occhi fiammeggianti,  
+
+E sorte e [[Honour|onore]] e alta sorpresa,  
+
+Dove il racconto di Natale fu cominciato.  
+
+Un [[Child|Bambino]] in una stalla immonda,  
+
+Dove le bestie mangiano e schiumano;  
+
+Solo dove Egli fu senza casa  
+
+Tu ed io siamo a [[Home|casa]];  
+
+Abbiamo mani che foggiano e teste che  
+
+Ma il cuore l'abbiamo perduto--quanto tempo fa!  
+
+In un luogo che nessuna carta né [[Ship|nave]] può mostrare  
+
+Sotto la cupola del cielo.  
+
+Questo mondo è selvaggio come una favola di vecchie comari,  
+
+E strane sono le cose semplici,  
+
+La terra basta e l'aria basta  
+
+Per la nostra [[Wonder|meraviglia]] e la nostra guerra;  
+
+Ma il nostro riposo è lontano quanto oscilla il drago di [[Fire|fuoco]]  
+
+E la nostra pace è riposta in cose impossibili  
+
+Dove cozzarono e tuonarono ali impensabili  
+
+Intorno a una stella incredibile.  
+
+A una [[house|casa]] aperta nella sera  
+
+[[Home|A casa]] verranno gli uomini,  
+
+A un luogo più antico dell'Eden  
+
+E a una città più alta di Roma.  
+
+Alla fine del cammino della stella errante,  
+
+Alle cose che non possono essere e che sono,  
+
+Al luogo dove Dio fu senza casa  
+
+E tutti gli uomini sono a [[Home|casa]].  
+
+UN [[Song|CANTO]] DI DONI A DIO  
+
+Quando vennero i primi doni di Natale, la paglia dove [[Christ|Cristo]] fu avvolto  
+
+Odorò più dolce del loro incenso, arse più lucente del loro oro,  
+
+E un saggio disse: «Non daremo; il ringraziamento sarebbe solo freddo».  
+
+«No», disse il secondo, «a ogni nuovo dono, a questo dono o a un altro,  
+
+Si piega l'alta gratitudine di Dio; così come Egli ora, fratello mio,  
+
+Che ebbe un Padre per tutto il [[Time|tempo]], pur Lo ringrazia per una Madre.  
+
+«Eppure a stento per Lui questa pietra gialla o gli aromi pungenti e radi.  
+
+Egli che tiene il cuore d'oro del sole che nutrì queste sbarre di legno,  
+
+Né alcun giglio inodore vive per Colui che odora le [[Stars|stelle]]».  
+
+Allora parlò il terzo dei Magi; il più saggio dei tre:  
+
+«Non possiamo con le vite più ampie accrescere la Sua libertà,  
+
+Le cui ali sono più larghe del mondo. Non è Lui, ma noi.  
+
+«Non diciamo che Egli ha più da guadagnare, ma noi più da perdere.
+
 
 
 <span class="atom-split" data-atom="part--part_04" data-title="Poems (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
@@ -7574,6 +9366,596 @@ The wedge's dart passed into it, the groan of timberwains,
 
 The ringing of the rivet nails, the shrieking of the planes;  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Meno oro andrà smarrito, diciamo, meno oro, se così scegliamo,  
+
+a fare meretrici dei Greci e bottegai degli Ebrei.  
+
+«Meno nubi ai piedi colossali arrossano nella luce di sotto,  
+
+agli dèi ciechi di Babilonia meno incenso arda questa [[Night|notte]],  
+
+alle alte bestie di Babilonia, le cui bocche si fanno beffe del diritto.»  
+
+Bimbo dai mille compleanni, noi che siamo giovani eppure grigi,  
+
+bianchi per i secoli, ancora non troviamo cosa migliore da dire,  
+
+noi che con sette e capricci e guerre abbiamo sciupato il giorno di Natale.  
+
+Accendi Tu il Tuo turibolo a Te stesso, ché tutti i nostri fuochi son fiochi,  
+
+imprimi Tu la Tua immagine sulla nostra moneta, ché il volto di Cesare si fa fioco,  
+
+e un muto demone di [[Pride|orgoglio]] e [[Greed|avidità]] si è impadronito di lui.  
+
+Ti riportiamo la grande Cristianità, chiese e città e torri.  
+
+E se le nostre mani son liete, o Dio, di gettarle giù come [[Flowers|fiori]],  
+
+non è che arricchiscano le Tue mani, ma sono salvate dalle nostre.  
+
+IL REGNO DEI CIELI  
+
+Disse il Signore Iddio: «Costruite una [[house|casa]],  
+
+costruitela nella gola della [[Death|morte]],  
+
+fondatela nelle fauci dell'inferno.  
+
+Dove il mare perduto mormora,  
+
+fuochi e turbini, costruitela [[Well|bene]].»  
+
+Faticarono aspramente fiamma e [[Wind|vento]],  
+
+ma di lì a poco gridano:  
+
+«Signore, [[Doubt|dubitiamo]] di questa Tua volontà,  
+
+siamo ciechi e mormoriamo perché,»  
+
+e i venti mormorano ancora.  
+
+Disse il Signore Iddio: «Costruite una [[house|casa]],  
+
+strappatene il tesoro dalla terra,  
+
+con le potenze cozzanti dell'inferno  
+
+lottate con forza informe e allegrezza,  
+
+tribù e uomini di guerra, costruitela [[Well|bene]].»  
+
+Allora i rossi crudi figli degli uomini  
+
+ruppero il suolo, e recisero il bosco,  
+
+ma di lì a poco stridono:  
+
+«Signore, non riusciamo a scorgere il Tuo bene,»  
+
+e gli uomini selvaggi clamano ancora.  
+
+Disse il Signore Iddio: «Costruite una [[house|casa]],  
+
+fumo e ferro, scintilla e vapore,  
+
+parlate e votate e comprate e vendete;  
+
+lasciate che un mondo nuovo pulsi e scorra,  
+
+veggenti e artefici, costruitela [[Well|bene]].»  
+
+Si adoperarono gli uomini astuti e forti,  
+
+ma di lì a poco gridano:  
+
+«Signore, forse non siamo che argilla,  
+
+e non possiamo conoscere il perché,»  
+
+e i saggi [[Doubt|dubitano]] oggi.  
+
+Eppure, benché logori e sordi e ciechi,  
+
+forza e selvaggio, [[King|re]] e veggente  
+
+faticano ancora, non sanno perché;  
+
+alla fosca fondazione qui,  
+
+impastano e arano e pensano e s'adoprano.  
+
+Finché infine, forse, su questo,  
+
+fusa di passione e concordia,  
+
+[[Love|Amore]] sua [[Crown|corona]] e la pace suo sostegno  
+
+sorga la [[City|città]] del Signore  
+
+che oscuramente edifichiamo oggi.  
+
+UN [[Hymn|INNO]] PER LA CHIESA MILITANTE  
+
+Grande Dio, che pieghi cielo e stella,  
+
+piega i nostri pensieri torreggianti verso di te,  
+
+e concedici in una guerra vacillante  
+
+i fermi piedi dell'[[Humility|umiltà]].  
+
+Signore, noi che afferriamo le spade di fiamma,  
+
+Signore, noi che gridiamo attorno al Tuo carro,  
+
+anche noi siam deboli di [[Pride|orgoglio]] e vergogna,  
+
+anche noi siamo come i nostri nemici.  
+
+Sì, siamo folli come loro son folli,  
+
+sì, siamo ciechi come loro son ciechi,  
+
+sì, siamo assai malati e tristi  
+
+noi che portiamo buone novelle a tutta l'umanità.  
+
+La tremenda gioia che il Tuo Figlio ha mandato  
+
+è più pesante di ogni affanno;  
+
+troviamo, come [[Cain|Caino]] la sua pena,  
+
+il nostro perdono più di quanto possiamo sopportare.  
+
+Signore, quando Ti invochiamo da lungi e da presso  
+
+e tuoniamo per tutte le terre ignote  
+
+il vangelo in ogni orecchio,  
+
+Signore, non lasciarci dimenticare i nostri.  
+
+Purificaci dall'ira di credo o classe,  
+
+la collera delle cose oziose;  
+
+semina nelle nostre anime, come erba viva,  
+
+il riso di tutte le umili cose.  
+
+LA VISIONE BEATIFICA  
+
+Allora Bernardo mi sorrise, perché volgessi lo sguardo  
+
+ma io avevo già guardato; colto la vista,  
+
+affrontato l'insondabile raggio dei raggi  
+
+che a sé e da sé è vero.  
+
+Allora la mia visione fu più possente della parola dell'uomo;  
+
+la parola si spezzò dinanzi ad essa come un incantesimo in fuga;  
+
+e la [[Memory|memoria]] e tutto ciò che il [[Time|tempo]] può insegnare  
+
+dinanzi a quello splendido oltraggio venne meno e cadde.  
+
+Come quando si sogna e non si ricorda  
+
+al risveglio quali furono i piaceri o le pene,  
+
+con ogni tratto del sogno dimenticato,  
+
+l'impressa passione del sogno rimane:--  
+
+Tale son io; nei cui pensieri non risiede  
+
+alcuna immagine di quella vista né parte alcuna  
+
+né [[Memory|memoria]] alcuna: in cui dimora  
+
+solo una felicità dentro il cuore,  
+
+una segreta felicità che imbeve il cuore  
+
+come i colli sono imbevuti dalla lenta [[Snow|neve]] che si dischiude,  
+
+o segreta come quel [[Wind|vento]] senza carta  
+
+sul quale andarono le selvagge [[Leaves|foglie]] della Sibilla.  
+
+O luce innalzata sopra ogni mortale sapere,  
+
+rimanda un poco di quel tuo barlume.  
+
+Affinché della sua gloria io possa accendere ardente  
+
+una minuscola scintilla per tutti gli uomini che ancora verranno.  
+
+LA TREGUA DEL NATALE  
+
+Appassionata pace è nel cielo--  
+
+e nella [[Snow|neve]] sigillata d'argento  
+
+le bestie sono perfette nel campo,  
+
+e gli uomini paiono uomini così d'un tratto--  
+
+(Ma prendete dieci spade e dieci volte dieci  
+
+e soffiate nella tromba a lode degli uomini;  
+
+ché noi siamo per tutti gli uomini sotto il sole,  
+
+ed essi sono contro di noi ad uno ad uno;  
+
+e gli avari mercanteggiano e i folli ghermiscono,  
+
+e v'è pericolo nel lodare troppo.  
+
+E abbiamo le lingue terribili sciolte  
+
+che lodano il mondo ai figli del mondo.)  
+
+L'ozioso umile [[Hill|colle]] e il bosco  
+
+sono chinati sulla sacra nascita,  
+
+e per una piccola ora la terra  
+
+è pigra dell'[[Love|amore]] del bene--  
+
+(Ma pronto sei tu, e pronto son io,  
+
+se la battaglia divampa e i cannoni passano;  
+
+ché noi siamo per tutti gli uomini sotto il sole,  
+
+ed essi sono contro di noi ad uno ad uno;  
+
+e gli uomini che odiano si radunano tutti insieme,  
+
+verso [[Pride|orgoglio]] e oro, e la grande piuma bianca  
+
+e la cosa è incisa in stella e pietra  
+
+che gli uomini che [[Love|amano]] sono tutti [[Alone|soli]].)  
+
+La fame è dura e il [[Time|tempo]] è aspro,  
+
+ma benedite i mendicanti e baciate i re,  
+
+ché la [[Hope|speranza]] ha spezzato il cuore delle cose,  
+
+e nulla fu mai lodato abbastanza.  
+
+(Ma imbraccia lo scudo per un colpo improvviso  
+
+e punta la [[Sword|spada]] quando lodi una cosa,  
+
+ché noi siamo per tutti gli uomini sotto il sole,  
+
+ed essi sono contro di noi ad uno ad uno;  
+
+e mimo e mercante, thane e servo  
+
+ci odiano perché li [[Love|amiamo]] tutti;  
+
+solo finché il tempo di Natale non passi  
+
+appassionata pace è nel cielo.)  
+
+UN [[Hymn|INNO]]  
+
+O Dio della terra e dell'altare,  
+
+china il capo e ascolta il nostro grido  
+
+i nostri sovrani terreni vacillano,  
+
+il nostro popolo va alla deriva e muore;  
+
+le mura d'oro ci seppelliscono,  
+
+le spade dello scherno ci dividono,  
+
+non togliere da noi il tuo tuono,  
+
+ma togli via il nostro [[Pride|orgoglio]].  
+
+Da tutto ciò che il terrore insegna,  
+
+dalle menzogne di lingua e penna,  
+
+da tutti i facili discorsi  
+
+che confortano gli uomini crudeli,  
+
+dalla vendita e profanazione  
+
+dell'[[Honour|onore]] e della [[Sword|spada]],  
+
+dal [[Sleep|sonno]] e dalla dannazione,  
+
+liberaci, buon Signore!  
+
+Lega in un vincolo vivente  
+
+il principe e il prete e il servo,  
+
+unisci tutte le nostre vite insieme,  
+
+colpiscici e salvaci tutti;  
+
+in ira ed esultanza  
+
+ardente di [[Faith|fede]], e libera,  
+
+solleva una nazione vivente,  
+
+un'unica [[Sword|spada]] verso di te.  
+
+UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI  
+
+DA CANTARSI MOLTO [[Time|TEMPO]] FA--O D'ORA INNANZI  
+
+_I CARPENTIERI_  
+
+San Giuseppe ai Carpentieri disse in un giorno di Natale:  
+
+«Il maestro abbia pazienza e l'apprendista obbedisca;  
+
+e la vostra parola alle vostre donne non sia punto dura o selvaggia:  
+
+per amor di me, vostro maestro, che ho venerato Moglie e [[Child|Figlio]].  
+
+Ma dolcemente intelaierete lo steccato, e dolcemente intaglierete la porta,  
+
+e dolcemente piallerete la tavola--come per apparecchiarla ai poveri,  
+
+e tutti i vostri pensieri siano soffici e bianchi come il legno del bianco albero.  
+
+Ma se strappano la Carta, che la campana a stormo parli per me!  
+
+Che l'insegna di legno sopra la vostra bottega sia più fiera d'esser sfregiata  
+
+dello scudo-[[Lion|leone]] di Lancillotto che pendeva a Joyous Garde.»  
+
+_I CALZOLAI_  
+
+San Crispino ai calzolai disse in un tempo di Natale:  
+
+«Chi foggia ai piedi altrui non trarrà alcun bene dall'[[Pride|orgoglio]].  
+
+Sanguinavano sul Monte, i piedi che portarono buone novelle,  
+
+i cui legacci dei calzari non eravamo degni di sciogliere.  
+
+Badate che i vostri piedi non offendano, né leviate con leggerezza il capo,  
+
+calpestate soavemente sulle strade assolate la lucente [[Dust|polvere]] dei morti.  
+
+Siano i vostri piedi calzati di pace; siate umili per tutta la vita.  
+
+Ma se toccano la Carta, la inchioderete coi vostri coltelli.  
+
+E le lame-roncola dei comuni penetrino tutte in schiera così fitta  
+
+come un tempo venne uno scroscio di frecce, nel giorno di San Crispino.»  
+
+_I PITTORI_  
+
+San Luca ai pittori nel giorno di Natale disse:  
+
+«Badate che siano bianche le vesti che osate immergere nell'oro e nel rosso;  
+
+ché solo oro i re possono dare, e solo [[Blood|sangue]] i santi;  
+
+e il suo alto compito si fa periglioso a chi li mischia nei colori.  
+
+Serbate l'antico ordine; seguite gli uomini che conobbero  
+
+il labirinto del nero e del bianco, il dedalo del verde e del blu;  
+
+dipingete cose possenti, dipingete cose meschine, dipingete cose sciocche o dolci.  
+
+Ma se gli uomini spezzano la Carta, potete ucciderli nella strada.  
+
+E se dipingete un solo palo per loro, allora ... ma lo sapete [[Well|bene]],  
+
+dipingete il volto d'una meretrice per trascinare tutti gli eroi giù all'inferno.»  
+
+_TUTTI INSIEME_  
+
+Dio Onnipotente a tutta l'umanità nel giorno di Natale disse:  
+
+«Vi strappai dalle antiche rosse colline e, strappandovi, vi feci liberi.  
+
+Vi fu carta, vi fu sfida; in un soffio di fiato donai;  
+
+potete essere ogni altra cosa; non potete essere schiavi.  
+
+Sarete stanchi e tolleranti delle fantasie che svaniscono,  
+
+ma se gli uomini [[Doubt|dubitano]] della Carta, chiamerete la Crociata--  
+
+tromba e torcia e catapulta, cannone e arco e lama,  
+
+perché fu la Mia sfida a tutte le cose che feci.»  
+
+LA NATIVITÀ  
+
+La paglia sul tetto era come dorata,  
+
+benché polverosa la paglia fosse e vecchia,  
+
+il [[Wind|vento]] aveva uno squillo come di trombe,  
+
+benché soffiante e sterile e freddo,  
+
+i capelli della madre erano una gloria  
+
+benché sciolti e strappati,  
+
+ché sotto la gronda nel crepuscolo  
+
+un [[Child|bambino]] era nato.  
+
+Sono forse una miriade di bambini stati destati,  
+
+sono forse una miriade di bambini cresciuti vecchi,  
+
+cresciuti grossi e non amati e amareggiati,  
+
+cresciuti astuti e selvaggi e freddi?  
+
+Dio dimora in una terribile pazienza,  
+
+non adirato, non consumato,  
+
+e di nuovo per il [[Child|bambino]] che fu dissipato  
+
+un [[Child|bambino]] è nato.  
+
+Che sappiamo noi degli eoni dietro di noi,  
+
+fosche dinastie perdute tanto tempo fa,  
+
+enormi imperi, come [[Dreams|sogni]] non ricordati,  
+
+enormi città per secoli abbattute?  
+
+Questo almeno--che con rovina e con benedizione  
+
+con fiore e con spina,  
+
+[[Love|Amore]] era là, e il suo grido era fra loro,  
+
+«Un [[Child|bambino]] è nato.»  
+
+Benché la tenebra sia rumorosa di sistemi,  
+
+fosche fantasie che rodono e confutano,  
+
+ancora le piume si agitano attorno a noi, sopra di noi  
+
+le ali dell'[[Shadow|ombra]] dell'[[Love|amore]]:  
+
+Oh! principi e preti, l'avete veduto  
+
+impallidire per il vostro scherno.  
+
+Enormi albe [[Sleep|dormono]] dinanzi a noi, profondi mutamenti,  
+
+un [[Child|bambino]] è nato.  
+
+E le travi della fatica sono ancora dorate  
+
+con l'[[Dawn|alba]] della stella del cuore,  
+
+e i magi si avvicinano nel crepuscolo,  
+
+che sono stanchi del sapere e dell'arte,  
+
+e il volto del [[Tyrant|tiranno]] si oscura.  
+
+Il suo spirito è straziato,  
+
+ché un nuovo [[King|Re]] è intronizzato; sì, il più severo,  
+
+un [[Child|bambino]] è nato.  
+
+E la madre ancora gioisce per il sussurrato  
+
+primo fremito di cose indicibili,  
+
+ancora sente quell'alto momento dispiegarsi  
+
+rossa gloria delle ali di Gabriele.  
+
+Ancora il pargolo d'un'ora è un maestro  
+
+che gli angeli adornano,  
+
+Emmanuele, [[Prophet|profeta]], unto,  
+
+un [[Child|bambino]] è nato.  
+
+E tu, che sei ancora nella tua culla,  
+
+essendo il sole [[Crown|corona]] per la tua fronte,  
+
+rispondi, nostra carne, dà una risposta,  
+
+di', donde sei venuto--chi sei tu?  
+
+Sei tornato sulla terra per il nostro insegnamento  
+
+a educare o ad ammonire--?  
+
+Taci--come possiamo saperlo?--sapendo solo  
+
+un [[Child|bambino]] è nato.  
+
+UN [[Child|FANCIULLO]] DELLE NEVI  
+
+Si ode un [[Hymn|inno]] quando i vetri s'appannano  
+
+e mai prima o di nuovo,  
+
+quando le notti son forti d'una lunga tenebra,  
+
+e il buio è vivo di pioggia.  
+
+Mai sappiamo se non nel nevischio e nella [[Snow|neve]],  
+
+il luogo dove sono i grandi fuochi,  
+
+che il mezzo della terra è una furente allegrezza  
+
+e il cuore della terra una stella.  
+
+E di [[Night|notte]] giungiamo all'antica locanda  
+
+dove il [[Child|bambino]] nel [[Frost|gelo]] è avvolto,  
+
+seguiamo i piedi dove tutte le anime s'incontrano  
+
+alla locanda alla fine del mondo.  
+
+Gli dèi giacciono morti dove le [[Leaves|foglie]] giacciono rosse,  
+
+ché la fiamma del sole è fuggita.  
+
+Gli dèi giacciono freddi dove le [[Leaves|foglie]] giacciono d'oro,  
+
+e un [[Child|Bambino]] viene avanti [[Alone|solo]].  
+
+UNA PAROLA  
+
+Una parola venne fuori in Galilea, una parola simile a una stella;  
+
+salì e risuonò e benedisse e arse ovunque vi siano cuori valorosi;  
+
+una parola di subitanea segreta [[Hope|speranza]], di prova e accrescimento  
+
+d'ira e pietà fuse nel [[Fire|fuoco]], e passione che bacia la pace.  
+
+Una stella che sul mondo delle città ammiccava, una [[Sword|spada]] di fiamma;  
+
+una stella dalle miriadi di tuoni parlante: una possente parola venne.  
+
+Il dardo del cuneo penetrò in essa, il gemito dei carri di legname,  
+
+il risuonare dei chiodi ribaditi, lo stridere dei pialli;
 
 
 
@@ -9310,6 +11692,558 @@ When old unbroken [[Pickwick]] walked
 
 Among the broken men.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prova che le punte sono delicate--capiranno.  
+
+Tutte le ruote sono fedeli; guarda come stanno immobili!»  
+
+[[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] al sole,  
+
+scosse la mano contro il cielo, e ordinò alle ruote di girare,  
+
+e i suoi occhi erano occhi odiosi, le sue labbra erano arricciate,  
+
+e invocò suo padre che è signore sotto il mondo,  
+
+seduto nella Porta del Tradimento, nella porta dei sigilli infranti,  
+
+«Piegatele e legatele, piegatele e legatele, piegatele e legatele in ruote,  
+
+così ancora una volta in tutto il mio [[Garden|giardino]] possano oscillare e risuonare e spazzare--  
+
+il fragore di tutte le cose insonni che cantano l'[[Soul|anima]] fino al [[Sleep|sonno]].»  
+
+_Invoca le ruote, padrone, invoca le ruote._  
+
+_Tediose si fanno le feste quando salti i pasti,_  
+
+_Per la Porta del Tradimento, per la porta interiore,_  
+
+_Vengono [[Fear|paura]] e [[Greed|avidità]] di fama, viene il peccato mortale;_  
+
+_Se un uomo si fa debole, padrone, prendilo prima che s'inginocchi._  
+
+_Prendilo, spezzalo, straccialo, finiscilo, rotolalo, schiaccialo con le ruote._  
+
+IL POPOLO SEGRETO  
+
+Sorrideteci, pagateci, oltrepassateci; ma non dimenticate del tutto.  
+
+Poiché siamo il popolo d'Inghilterra, che non ha ancora parlato.  
+
+C'è più d'un grasso fattore che beve meno allegramente,  
+
+c'è più d'un libero contadino francese più ricco e più triste di noi.  
+
+Non v'è popolo al mondo intero così indifeso o così saggio.  
+
+C'è fame nei nostri ventri, c'è riso nei nostri occhi;  
+
+ridete di noi e ci [[Love|amate]], sia i boccali sia gli occhi sono umidi:  
+
+solo che non ci conoscete. Poiché non abbiamo ancora parlato.  
+
+I raffinati re francesi giunsero in uno sventolio di bandiere e dame.  
+
+Ci piacquero i loro sorrisi e le loro battaglie, ma non seppimo mai dire i loro nomi.  
+
+Il [[Blood|sangue]] corse rosso fino a Bosworth e gli alti signori francesi caddero;  
+
+non v'era che un popolo nudo sotto una nuda [[Crown|corona]].  
+
+E gli occhi dei Servi del [[King|Re]] si volgevano terribilmente in ogni direzione,  
+
+e l'oro dei Servi del [[King|Re]] si [[Rose|levava]] più alto ogni giorno.  
+
+Bruciarono le case degli uomini rasati, che erano stati bizzarri e gentili,  
+
+finché non vi fu letto in una [[house|casa]] di monaco, né cibo che l'uomo potesse trovare.  
+
+Le locande di Dio dove nessuno pagava, che erano il muro dei deboli,  
+
+i Servi del [[King|Re]] le divorarono tutte. E ancora non parlammo.  
+
+E il volto dei Servi del [[King|Re]] si fece più grande del [[King|Re]]:  
+
+egli li ingannò, ed essi lo intrappolarono, e gli stettero attorno in cerchio.  
+
+I nuovi signori della [[Grave|tomba]] gli si strinsero intorno, che avevano mangiato i frutti dell'abbazia,  
+
+e gli uomini della nuova religione, con le loro bibbie negli stivali.  
+
+Vedemmo muoversi le loro spalle, a minacciare o discutere,  
+
+e alcuni erano puri e alcuni vili; ma nessuno badò a noi.  
+
+Vedemmo il [[King|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
+
+e pochi uomini parlarono di [[Freedom|libertà]], mentre l'Inghilterra parlava di birra.  
+
+Una guerra che non comprendemmo venne sul mondo e destò  
+
+Americani, Francesi, Irlandesi; ma non conoscemmo le cose che dicevano.  
+
+Parlavano di diritti e [[Nature|natura]] e pace e del regno del popolo:  
+
+e gli squire, nostri padroni, ci ordinarono di combattere; e mai più ci disprezzarono.  
+
+Deboli fossimo pure per sempre, nessuno poté allora condannarci;  
+
+gli uomini ci chiamarono servi e sgobboni; gli uomini seppero che eravamo uomini.  
+
+Fra schiuma e fiamma a Trafalgar, sulle pianure di Albuera,  
+
+agimmo e morimmo come leoni, per tenerci in [[Chains|catene]],  
+
+giacemmo fra rovine viventi; sparando e non temendo  
+
+il fiero volto straniero dei Francesi che sapevano per cosa combattevano,  
+
+e l'uomo che pareva più che uomo lo affrontammo e lo spezzammo;  
+
+e spezzammo i nostri stessi diritti con lui. E ancora non parlammo mai.  
+
+La nostra chiazza di gloria finì; non udimmo più cannoni.  
+
+Ma lo squire pareva colpito in sella; era stolto, come in [[Pain|pena]]  
+
+si appoggiava a un avvocato traballante, ghermiva un Ebreo servile,  
+
+era stroncato; forse, dopotutto, era stato stroncato a Waterloo.  
+
+O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+
+tornano infine in forme splendenti a rovinare la sua ultima gozzoviglia:  
+
+sappiamo solo che gli ultimi tristi squire cavalcano lenti verso il mare.  
+
+E un popolo nuovo prende la terra: e ancora non siamo noi.  
+
+Ci hanno consegnato nella mano dei nuovi infelici signori,  
+
+signori senza collera né [[Honour|onore]], che non osano portare le spade.  
+
+Combattono rimescolando carte; hanno occhi stranieri lucidi e morti;  
+
+guardano al nostro lavoro e al nostro riso come un uomo stanco guarda le mosche.  
+
+E il fardello della loro pietà senza amore è peggiore degli antichi torti,  
+
+le loro porte sono chiuse alla sera; e non conoscono [[songs|canti]].  
+
+Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
+
+eppure nessun uomo parla come noi parliamo nella strada.  
+
+Forse ci leveremo per ultimi come i Francesi si [[Rose|levarono]] per primi,  
+
+la nostra ira verrà dopo l'ira della [[Russia|Russia]] e la nostra ira sarà la peggiore.  
+
+Forse siamo destinati a segnare col nostro tumulto e col nostro riposo  
+
+lo scherno di Dio per tutti gli uomini che governano. Forse la birra è la cosa migliore.  
+
+Ma siamo il popolo d'Inghilterra; e non abbiamo ancora parlato.  
+
+Sorrideteci, pagateci, oltrepassateci. Ma non dimenticate del tutto.  
+
+VI  
+
+[[Poems|POESIE]] VARIE  
+
+PERDUTO  
+
+Così hai guadagnato le corone d'oro, così hai ammucchiato insieme  
+
+gli allori e i gioielli, le perle uscite dall'azzurro,  
+
+ma io batterò il tamburo rimbalzante e farò volare la piuma  
+
+per tutta la gloria che ho perduto, il bene che mai conobbi.  
+
+Vidi la luce del mattino impallidire su volti umani regali,  
+
+in racconti irrevocabilmente svaniti, avvolti nella [[Night|notte]] finale,  
+
+vidi la coda di lotte in fuga, un barlume di estasi ardenti,  
+
+e risi al pensiero di ciò che avevo perduto--la ricchezza di tutto il mondo.  
+
+Sì, rovinato in un regale gioco lo fui prima della mia culla;  
+
+fu mai giocatore che scagliando oro perse cose come le mie?  
+
+La falena purpurea che morì un'ora prima ch'io nascessi da  
+
+quel grande verde tramonto che Dio farà tre giorni dopo ch'io muoia.  
+
+Quando tutte le luci saranno perdute e spente, quando tutti i cieli saranno infranti,  
+
+sopra la rovina delle [[Stars|stelle]] la mia [[Soul|anima]] siederà in pompa,  
+
+con una mente resa ricca, coi tramonti irrevocabili,  
+
+e un cuore chiuso felice nella pienezza di un destino.  
+
+Così hai guadagnato le corone d'oro e afferrato il tempo d'oro,  
+
+i regni e gli emisferi che tutti gli uomini comprano e vendono,  
+
+ma io sferzerò il tamburo balzante e agiterò la piuma fiammeggiante,  
+
+per la luce dei sette cieli che mi sono perduti come l'inferno.  
+
+BALLATA DEL SOLE  
+
+O [[Well|bene]] per colui che ama il sole  
+
+che vede la corsa celeste cavalcata o corsa,  
+
+i mari spruzzanti del tramonto vinti,  
+
+e grida per la vittoria.  
+
+Dio fece il sole a [[Crown|coronare]] il suo capo,  
+
+e quando il dardo della [[Death|morte]] è infine scagliato,  
+
+almeno non lo troverà morto,  
+
+e passerà oltre la carogna.  
+
+O male per colui che ama il sole;  
+
+si chinerà il sole per qualcuno?  
+
+piangerà il sole per cuori disfatti  
+
+o anime pesanti che pregano?  
+
+Non meno per noi e per ognuno  
+
+fu filata quella bianca trama di splendore;  
+
+O [[Well|bene]] per colui che ama il sole  
+
+benché il sole debba ucciderlo.  
+
+[[Translation|TRADUZIONE]] DA DU BELLAY  
+
+Felice, chi come [[Ulysses|Ulisse]] o quel signore  
+
+che rapì il vello, tornando pieno e savio,  
+
+con l'esperienza e l'ampia ragione del mondo accumulate,  
+
+coi suoi cari può attendere la fine dell'età.  
+
+Quando vedrò, quando vedrò, Dio sa!  
+
+il fumo del mio piccolo villaggio; o passerò la porta,  
+
+la vecchia cara porta di quella infelice [[house|casa]]  
+
+che è per me un regno e molto di più?  
+
+Più possente per me la [[house|casa]] che i miei padri fecero  
+
+delle vostre audaci teste, o Sale di Roma!  
+
+Più che i marmi immortali intatti,  
+
+le sottili tristi ardesie che coprono la mia [[Home|dimora]];  
+
+Più che il vostro Tevere è per me la mia Loira,  
+
+che il Palatino la mia piccola Lyré laggiù;  
+
+e più di tutti i venti di tutto il mare  
+
+la quieta dolcezza dell'aria angioina.  
+
+L'[[unity|UNITÀ]] SUPERIORE  
+
+«Il Rev. Isaiah Bunter è scomparso nell'interno  
+
+delle Isole Salomone, e si teme che possa essere  
+
+stato divorato dagli indigeni, poiché vi è stato un notevole  
+
+revival di costumi religiosi fra i Polinesiani.»  
+
+_Un vero paragrafo da un vero Giornale; solo i nomi mutati._  
+
+Fu Isaiah Bunter  
+
+che salpò per la fine del mondo,  
+
+e diffuse la religione in un modo  
+
+che non intendeva.  
+
+Diede, se non il banchetto evangelico,  
+
+almeno un pasto rituale;  
+
+e in un senso altamente doloroso  
+
+fu divorato con zelo.  
+
+E chi siamo noi (come dice Henson)  
+
+per chiudere la porta?  
+
+E non dovrebbero gli Evangelici  
+
+tutti balzare a versare Gore?  
+
+E molti uomini si fonderanno nell'uomo,  
+
+divenendo uno, non due,  
+
+quando schiocca attraverso la terra stupita  
+
+il Bacio di Kikuyu.  
+
+Quando l'Uomo è il Turco, e l'Ateo,  
+
+Esseno, Whig erastiano,  
+
+e il Thug e il Druso e il Cattolico,  
+
+e l'equipaggio della lancia del Capitano.  
+
+LA VEGLIA DELLA TERRA  
+
+La vecchia terra veglia sempre uguale.  
+
+[[Alone|Sola]] in un vuoto senza voce sta,  
+
+i suoi [[Flowers|fiori]] d'arancio le fiammeggiano in seno,  
+
+il suo anello d'oro in mano.  
+
+I frangenti dei lunghi mattini dalla cresta d'oro  
+
+s'infrangono sempre più all'orlo della sua grande veste,  
+
+e sempre più vengono le fosche corna della [[Moon|luna]].  
+
+Ma ella non veglia per esse.  
+
+Ella veglia attraverso le ariste,  
+
+ma il suo cuore non invecchia,  
+
+per lo squillo dei peana dello sposo,  
+
+e il racconto che un tempo le fu narrato.  
+
+Le nazioni sussultano e le città vacillano,  
+
+gli imperi travagliano e si scindono e si lacerano,  
+
+ed ella guarda scempio e fumo e acciaio,  
+
+e sa che non è la fine.  
+
+Le fedi possono soffocare e le potenze [[Despair|disperare]],  
+
+le potenze risorgono e le fedi si rinnovano,  
+
+ella è solo una fanciulla, che attende là,  
+
+per l'[[Love|amore]] la cui parola è vera.  
+
+Ella veglia attraverso gli eoni,  
+
+ma il suo cuore non invecchia,  
+
+per lo squillo dei peana dello sposo,  
+
+e il racconto che un tempo le fu narrato.  
+
+Fra il baluginio del campo di grano e l'ombra del casolare,  
+
+attendono instancabili, i giovani e i vecchi,  
+
+madre per [[Child|figlio]] e uomo per fanciulla,  
+
+per un [[Love|amore]] che un tempo fu narrato.  
+
+I capelli si fanno grigi sotto paglia o ardesia,  
+
+gli occhi si fanno fiochi dietro i vetri a graticcio,  
+
+la stirpe della terra attende come attende la vecchia terra,  
+
+e la [[Hope|speranza]] nel cuore rimane.  
+
+Ella veglia attraverso gli eoni,  
+
+ma il suo cuore non invecchia,  
+
+per lo squillo dei peana dello sposo,  
+
+e il racconto che un tempo le fu narrato.  
+
+L'anello d'oro di Dio è legato alla sua mano,  
+
+ella infiamma di fiori i grigi [[Hill|pendii]] collinari,  
+
+i suoi campi sono ravvivati, le sue foreste coronate,  
+
+mentre l'[[Love|amore]] del suo cuore permane,  
+
+e noi, dalle paure che rodono e sfregiano,  
+
+leviamo lo sguardo a tratti e contempliamo per poco  
+
+il suo volto, colossale, fra stella su stella,  
+
+ancora guardando avanti con un sorriso.  
+
+Ella veglia attraverso i secoli,  
+
+ma il suo cuore non invecchia,  
+
+per lo squillo dei peana dello sposo,  
+
+e il racconto che un tempo le fu narrato.  
+
+SULLA GIUSTA INDIGNAZIONE  
+
+Quando Adamo uscì dal Paradiso  
+
+vide la [[Sword|Spada]] e corse;  
+
+la forma tremenda, il nuovo congegno,  
+
+l'estremità appuntita del Paradiso,  
+
+e vide cosa sono il Pericolo e il Prezzo,  
+
+e seppe di essere un uomo.  
+
+Quando Adamo uscì dal Paradiso,  
+
+si volse indietro e gridò  
+
+per un piccolo fiore dal Paradiso;  
+
+non venne alcun fiore dal Paradiso;  
+
+i boschi erano oscuri nel Paradiso,  
+
+e non un uccello rispose.  
+
+Solo per conforto o disprezzo,  
+
+per scherzo o grande ricompensa,  
+
+oltre le mura del Paradiso,  
+
+le porte senza fiamma del Paradiso,  
+
+le mute porte serrate del Paradiso,  
+
+Dio scagliò la fiammeggiante [[Sword|spada]].  
+
+Brucia la mano che la tiene  
+
+più del teschio che essa incide;  
+
+si raddoppia come un serpente e punge,  
+
+eppure colui nella cui mano essa oscilla  
+
+egli è la più dominatrice delle cose,  
+
+uno schernitore delle [[Stars|stelle]].  
+
+QUANDO TORNAI A FLEET STREET  
+
+Quando tornai in Fleet Street,  
+
+per un angolo di tramonto nella [[Night|notte]],  
+
+e vidi il vecchio Green Dragon  
+
+con le finestre tutte illuminate,  
+
+e salutai il vecchio Green Dragon  
+
+e il Cock che conoscevo,  
+
+dove tutti i bravi compagni erano miei amici  
+
+poco tempo fa;  
+
+ero stato a lungo nei prati,  
+
+e gli alberi mi avevano avvinto,  
+
+e le quiete cittadine nei boschi di faggio,  
+
+dove gli uomini erano destinati a stare.  
+
+Ma le vecchie cose tennero; il riso,  
+
+la lunga innaturale [[Night|notte]],  
+
+e tutta la [[Truth|verità]] che dicono all'inferno,  
+
+e tutte le menzogne che scrivono.  
+
+Poiché tornai in Fleet Street,  
+
+e non in pace venni;  
+
+un [[Pride|orgoglio]] spaccato era nel mio cuore,  
+
+e metà del mio [[Love|amore]] era vergogna.  
+
+Venni a combattere in una fiaba,  
+
+la cui fine nessun uomo conoscerà--  
+
+a combattere il vecchio Green Dragon  
+
+finché il Cock non canti!  
+
+Sotto le ampie luminose finestre  
+
+degli uomini che non servo più,  
+
+il gemere delle vecchie grandi ruote  
+
+s'ispessì in un ruggito strozzato;  
+
+tutte le cose sepolte irruppero verso l'alto;  
+
+e sbirciò dal suo rifugio,  
+
+brutto e silenzioso, come un elfo,  
+
+il segreto della strada.  
+
+Non ruppero i lucchetti,  
+
+né sgombrarono il muro.  
+
+Gli uomini in debito che bevevano un tempo  
+
+bevono ancora in debito oggi;  
+
+incatenati ai ricchi dalla rovina,  
+
+allegri fra le [[Chains|catene]], come allora  
+
+quando il vecchio integro [[Pickwick|Pickwick]] camminava  
+
+fra gli uomini spezzati.
 
 
 

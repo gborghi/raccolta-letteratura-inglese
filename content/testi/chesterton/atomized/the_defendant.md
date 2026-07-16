@@ -3017,6 +3017,90 @@ G. K. C_.
 THE DEFENDANT
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+_IN DIFESA DI UNA NUOVA EDIZIONE
+
+La ristampa di una serie di saggi tanto [[ephemeral|effimeri]] e persino superflui può
+sembrare a prima vista richiedere qualche scusa; probabilmente la miglior
+scusa è che saranno stati completamente dimenticati, e perciò
+potranno essere letti di nuovo con sensazioni interamente nuove. Non sono certo, tuttavia,
+che questa pretesa sia così modesta come suona, poiché immagino che Shakespeare
+e Balzac, se spinti a pregare, potrebbero chiedere non di essere ricordati, ma di
+essere dimenticati, e dimenticati così; perché se fossero dimenticati sarebbero
+eternamente riscoperti e riletti. È una monotona [[Memory|memoria]]
+che ci impedisce per lo più di vedere le cose splendide come sono.
+Gli antichi non avevano torto quando fecero del Lete il confine di una
+terra migliore; forse l'unico difetto del loro sistema è che un uomo che si fosse
+bagnato nel [[River|fiume]] dell'oblio sarebbe assai probabilmente risalito
+sulla riva della terra immaginandosi nell'Eliso.
+
+Se, dunque, sono certo che la maggior parte delle persone assennate ha dimenticato
+l'esistenza di questo libro--non parlo per modestia né per [[Pride|orgoglio]]--
+desidero soltanto affermare un fatto semplice e in qualche modo bello. Sotto un aspetto
+il trascorrere del periodo durante il quale un libro può considerarsi attuale
+mi ha afflitto con una certa [[Melancholy|malinconia]], poiché avevo inteso scrivere
+anonimamente in qualche quotidiano una minuziosa e schiacciante messa a nudo dell'
+opera, ispirata soprattutto da una certa impazienza artistica per il tono troppo
+indulgente delle critiche e il modo in cui un gran numero delle
+mie più mostruose fallacie sono passate incontestate. Non ripeterò
+qui quel poderoso articolo, poiché non può essere necessario fare nulla
+di più che mettere in guardia il lettore contro la linea perfettamente indifendibile di
+argomentazione adottata alla fine di p. 28. Sono anche consapevole che il titolo
+del libro è, a rigore, inesatto. È una metafora legale,
+e, parlando legalmente, un imputato non è un entusiasta del
+carattere di [[King John|Re Giovanni]] o delle virtù domestiche del cane della prateria. È
+colui che difende se stesso, cosa che il presente scrittore, per quanto
+avvelenata possa essere la sua mente dal [[Paradox|paradosso]], certamente non ha mai sognato di
+tentare.
+
+Le critiche al libro considerato come letteratura, se così può essere
+considerato, non sognerei, naturalmente, mai di discuterle--in primo luogo,
+perché è ridicolo farlo; e, in secondo luogo, perché vi era, a
+mio parere, molta giustizia in tali critiche.
+
+Ma vi è una questione su cui si ritiene generalmente che un autore abbia
+il diritto di spiegarsi, poiché nulla ha a che fare con
+la capacità o l'intelligenza, ed è la questione della sua morale.
+
+Sono fiero di dire che un furioso, intransigente e assai efficace
+attacco fu mosso contro quella che si asseriva essere l'assoluta immoralità di questo
+libro dal mio eccellente amico il signor C.F.G. Masterman, sullo 'Speaker.' La
+tendenza di quella critica era nel senso che io scoraggiavo
+il miglioramento e mascheravo gli scandali col mio offensivo ottimismo. Citando
+il passo in cui dicevo che 'si potevano trovare diamanti nella
+[[Dust|pattumiera]],' egli disse: 'Non c'è difficoltà a trovare il bene in ciò che
+l'umanità rifiuta. La difficoltà è trovarlo in ciò che l'umanità accetta.
+Il diamante è abbastanza facile da trovare nella [[Dust|pattumiera]]. La difficoltà è
+trovarlo nel salotto.' Devo ammettere, da parte mia, senza il
+minimo pudore, di aver trovato moltissime cose eccellenti nei
+salotti. Per esempio, ho trovato il signor Masterman in un salotto. Ma
+menziono questo attacco puramente etico soltanto per esporre, nel minor numero di
+frasi possibile, la mia differenza dalla teoria dell'ottimismo e del
+progresso ivi enunciata. A prima vista sembrerebbe che il
+pessimista incoraggi il miglioramento. Ma in realtà è una singolare [[Truth|verità]]
+che l'epoca in cui il pessimismo è stato gridato dai [[house|tetti]] è
+anche quella in cui quasi ogni [[Reform|riforma]] è ristagnata ed è caduta in
+[[Decay|rovina]]. La ragione di ciò non è difficile da scoprire. Nessun uomo mai ha,
+né mai può, creare o [[Desire|desiderare]] di rendere buona una cosa cattiva o
+bella una cosa brutta. Ci deve essere qualche germe di bene da amare, qualche
+[[Fragment|frammento]] di [[Beauty|bellezza]] da ammirare. La madre lava e adorna il
+[[Child|bambino]] sporco o trascurato, ma nessuno può chiederle di lavare e adornare un
+folletto dal cuore come l'inferno. Nessuno può uccidere il vitello grasso per
+Mefistofele. La causa che oggi blocca ogni progresso è il
+sottile scetticismo che sussurra a un milione di orecchie che le cose non sono
+abbastanza buone da valere la pena di essere migliorate. Se il mondo è buono siamo
+rivoluzionari, se il mondo è malvagio dobbiamo essere conservatori. Questi
+saggi, per quanto futili siano considerati come letteratura seria, sono tuttavia
+eticamente sinceri, poiché cercano di ricordare agli uomini che le cose devono essere
+prima amate e poi migliorate.
+
+G. K. C_.
+
+*       *       *       *       *
+
+L'IMPUTATO
+
 
 
 <span class="atom-split" data-atom="story_02_introduction" data-title="The Defendant — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
@@ -3138,6 +3222,124 @@ and Man was rejected of men.
 
 *       *       *       *       *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+INTRODUZIONE
+
+In certi altipiani sconfinati, altipiani come grandi pianure prese da vertigine, pendii
+che sembrano contraddire l'idea che esista persino una cosa quale un
+piano, e ci fanno tutti comprendere che viviamo su un pianeta dal tetto
+spiovente, vi imbatterete di [[Time|tempo]] in [[Time|tempo]] in intere valli colme di
+rocce sciolte e massi, così grandi da parere [[Mountains|montagne]] staccatesi.
+Il tutto potrebbe essere una creazione sperimentale frantumata e gettata via. È
+spesso difficile credere che simili rifiuti cosmici possano essere venuti
+insieme se non per mano umana. La più mite e più cockney [[Imagination|immaginazione]]
+concepisce il luogo come la scena di qualche guerra di giganti. Per me è
+sempre associato a un'unica idea, ricorrente e infine istintiva. La
+scena era la scena della lapidazione di qualche [[Prophet|profeta]] preistorico, un
+[[Prophet|profeta]] tanto più gigantesco dei profeti posteriori quanto i massi sono
+più giganteschi dei ciottoli. Egli pronunciò alcune parole--parole che parvero
+vergognose e tremende--e il mondo, atterrito, lo seppellì sotto un
+deserto di pietre. Il luogo è il monumento di un'antica [[Fear|paura]].
+
+Se seguissimo il medesimo stato d'animo fantastico, sarebbe più difficile
+immaginare quale terribile allusione o quale selvaggio quadro dell'universo evocasse
+quella persecuzione primordiale, quale segreto di pensiero sensazionale giaccia sepolto
+sotto le pietre brutali. Poiché ai nostri [[Time|tempi]] le bestemmie sono logore.
+Il pessimismo è ora palesemente, come è sempre stato essenzialmente, più
+banale della pietà. La profanità è ora più di un'affettazione--è
+una convenzione. La maledizione contro Dio è l'Esercizio I. nel sillabario della
+poesia minore. Non fu, di certo, per simili solennità puerili che
+il nostro immaginario [[Prophet|profeta]] fu lapidato nel mattino del mondo. Se
+soppesiamo la questione sulle impeccabili bilance dell'[[Imagination|immaginazione]], se vediamo quale
+sia la reale tendenza dell'umanità, ci parrà assai probabile che egli
+fu lapidato per aver detto che l'erba era verde e che gli [[Birds|uccelli]] cantavano
+in [[spring|primavera]]; poiché la missione di tutti i profeti fin dal principio non è stata
+tanto l'indicare cieli o inferni quanto in primo luogo
+l'indicare la terra.
+
+La religione ha dovuto fornire quel più lungo e più strano telescopio--il
+telescopio attraverso cui potessimo vedere la stella su cui dimoravamo. Poiché
+per la mente e gli occhi dell'uomo comune questo mondo è perduto come l'Eden e
+sommerso come Atlantide. Corre una strana legge lungo tutta la
+[[history|storia]] umana--che gli uomini tendono di continuo a sottovalutare il loro
+ambiente, a sottovalutare la loro felicità, a sottovalutare se stessi.
+Il grande peccato dell'umanità, il peccato tipizzato dalla caduta di Adamo, è la
+tendenza, non verso l'[[Pride|orgoglio]], ma verso questa bizzarra e orribile
+[[Humility|umiltà]].
+
+Questa è la grande caduta, la caduta per cui il pesce dimentica il mare, il
+bue dimentica il prato, l'impiegato dimentica la [[City|città]], ogni uomo dimentica il suo
+ambiente e, nel senso più pieno e più letterale, dimentica se stesso.
+Questa è la vera caduta di Adamo, ed è una caduta spirituale. È una
+cosa strana che molti uomini davvero spirituali, come il generale Gordon,
+abbiano effettivamente trascorso alcune ore a speculare sull'esatta ubicazione
+del [[Garden|Giardino]] dell'Eden. Con ogni probabilità siamo ancora nell'Eden. Sono soltanto
+i nostri occhi a essere cambiati.
+
+Del pessimista si parla comunemente come dell'uomo in rivolta. Non lo è.
+In primo luogo, perché occorre una certa allegria per perseverare nella rivolta,
+e in secondo luogo, perché il pessimismo fa presa sul lato più debole di ciascuno,
+e il pessimista, perciò, fa affari altrettanto floridi dell'oste.
+La persona che è davvero in rivolta è l'ottimista, il quale generalmente vive
+e muore in uno sforzo disperato e suicida di persuadere tutte le altre
+persone di quanto siano buone. È stato provato un centinaio di volte che
+se si desidera davvero far infuriare la gente e renderla adirata, fino alla
+[[Death|morte]], il modo giusto di farlo è dire loro che sono tutti figli
+di Dio. Gesù [[Christ|Cristo]] fu crocifisso, si ricordi, non per
+qualcosa che disse su Dio, ma con l'accusa di aver detto che un uomo poteva
+in tre giorni abbattere e riedificare il Tempio. Ognuno dei grandi
+rivoluzionari, da Isaia a Shelley, è stato un ottimista. Sono stati
+indignati, non per la malvagità dell'esistenza, ma per la
+lentezza degli uomini nel comprenderne la bontà. Il [[Prophet|profeta]] che viene lapidato non è
+un attaccabrighe o un guastafeste. È semplicemente un [[Lover|amante]] respinto. Soffre
+di un affetto non corrisposto per le cose in generale.
+
+Diviene perciò sempre più evidente che il mondo è in un
+permanente pericolo di essere giudicato male. Che questa non sia un'idea fantasiosa o
+mistica lo si può verificare con semplici esempi. Le due parole assolutamente
+fondamentali 'buono' e 'cattivo,' descrittive di due sensazioni primordiali e
+inspiegabili, non sono, e non sono mai state, usate propriamente. Le cose che sono
+cattive non vengono chiamate buone da alcuno che le esperisca; ma le cose
+che sono buone vengono chiamate cattive dal verdetto universale dell'umanità.
+
+Lasciate che spieghi un poco: Certe cose sono cattive per quel che valgono, come
+il [[Pain|dolore]], e nessuno, nemmeno un pazzo, chiama un mal di denti buono in
+sé; ma un coltello che taglia goffamente e con difficoltà è chiamato
+un cattivo coltello, cosa che certamente non è. Solo non è buono quanto altri
+coltelli a cui gli uomini si sono abituati. Un coltello non è mai cattivo se non
+in quelle rare occasioni come quella in cui è pulitamente e scientificamente
+piantato in mezzo alla schiena di qualcuno. Il più rozzo e ottuso coltello
+che abbia mai spezzato in pezzi una matita invece di temperarla è una buona
+cosa in quanto è un coltello. Sarebbe apparso un miracolo
+nell'Età della Pietra. Ciò che chiamiamo un cattivo coltello è un buon coltello non abbastanza buono
+per noi; ciò che chiamiamo un cattivo cappello è un buon cappello non abbastanza buono per noi;
+ciò che chiamiamo cattiva cucina è buona cucina non abbastanza buona per noi; ciò che
+chiamiamo una cattiva civiltà è una buona civiltà non abbastanza buona per noi.
+Scegliamo di chiamare cattiva la grande massa della [[history|storia]] dell'umanità, non
+perché sia cattiva, ma perché noi siamo migliori. Questo è palesemente un principio
+ingiusto. L'avorio può non essere bianco come la [[Snow|neve]], ma l'intero
+continente artico non rende nero l'avorio.
+
+Ora mi è parso ingiusto che l'umanità sia impegnata
+perpetuamente a chiamare cattive tutte quelle cose che sono state abbastanza buone
+da rendere migliori altre cose, a buttar giù eternamente la scala per
+cui essa è salita. Mi è parso che il progresso dovrebbe essere
+qualcos'altro oltre a un continuo parricidio; perciò ho
+indagato i cumuli di [[Dust|polvere]] dell'umanità, e ho trovato un tesoro in ognuno di
+essi. Ho scoperto che l'umanità non è impegnata accidentalmente, ma
+eternamente e sistematicamente impegnata, a gettare oro nel rigagnolo
+e diamanti nel mare. Ho scoperto che ogni uomo è disposto a
+chiamare la foglia verde dell'albero un po' meno verde di quanto sia, e la
+[[Snow|neve]] del Natale un po' meno bianca di quanto sia; perciò ho
+immaginato che l'occupazione principale di un uomo, per quanto umile, sia la difesa. Ho
+concepito che un imputato è richiesto soprattutto quando i mondani
+disprezzano il mondo--che un avvocato della difesa non sarebbe stato
+fuori luogo in quel terribile giorno in cui il sole si oscurò sul Calvario
+e l'Uomo fu respinto dagli uomini.
+
+*       *       *       *       *
 
 
 
@@ -3323,6 +3525,32 @@ the thunder of heaven and the [[Blood|blood]] of men.
 
 *       *       *       *       *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IN DIFESA DEI PENNY DREADFUL
+
+Uno degli esempi più strani del grado in cui la vita ordinaria viene sottovalutata è quello della letteratura popolare, la cui vasta massa noi ci accontentiamo di definire volgare. Il romanzetto per ragazzi può essere ignorante in senso letterario, il che non è diverso dal dire che un [[Novel|romanzo]] moderno è ignorante in senso chimico, o in senso economico, o in senso astronomico; ma non è volgare intrinsecamente: è l'effettivo centro di un milione di immaginazioni fiammeggianti.
+
+Nei secoli passati la classe colta ignorava la massa della letteratura volgare. La ignorava, e perciò, propriamente parlando, non la disprezzava. La semplice ignoranza e indifferenza non gonfia il carattere di [[Pride|orgoglio]]. Un uomo non cammina per la strada dando un'altezzosa torsione ai baffi al pensiero della propria superiorità su qualche varietà di pesci abissali. I vecchi studiosi lasciavano tutto il sottomondo delle composizioni popolari in una tenebra simile.
+
+Oggi, però, abbiamo rovesciato questo principio. Disprezziamo le composizioni volgari, e non le ignoriamo. Corriamo un certo pericolo di diventare meschini nel nostro studio della meschinità; c'è una terribile legge circea sullo sfondo, per cui se l'[[Soul|anima]] si china troppo ostentatamente a esaminare qualcosa non si rialza mai più. Non esiste classe di pubblicazioni volgari a proposito della quale vi sia, a mio avviso, esagerazione e fraintendimento più assolutamente ridicoli dell'attuale letteratura per ragazzi dello strato più basso. Questa classe di composizioni è presumibilmente sempre esistita, e deve esistere. Non ha più diritto di essere buona letteratura di quanto la conversazione quotidiana dei suoi lettori abbia diritto di essere fine oratoria, o le pensioni e i casamenti che essi abitano di essere [[Sublime|sublime]] architettura. Ma la gente deve pur avere conversazione, deve pur avere case, e deve pur avere storie. Il semplice bisogno di un qualche mondo ideale in cui persone fittizie recitino una parte senza impacci è infinitamente più profondo e più antico delle regole della buona arte, e assai più importante. Ognuno di noi nell'[[Childhood|infanzia]] ha costruito un simile invisibile _dramatis personæ_, ma alle nostre bambinaie non è mai venuto in mente di correggere la composizione mediante un attento confronto con Balzac. In Oriente il narratore di professione va di villaggio in villaggio con un piccolo tappeto; e desidero sinceramente che qualcuno avesse il [[Courage|coraggio]] morale di stendere quel tappeto e di sedervisi sopra a Ludgate Circus. Ma non è probabile che tutti i racconti del portatore di tappeto siano piccole gemme di originale fattura artistica. Letteratura e narrativa sono due cose interamente diverse. La letteratura è un lusso; la narrativa è una necessità. Un'opera d'arte difficilmente può essere troppo breve, poiché il suo culmine è il suo merito. Una storia non può mai essere troppo lunga, poiché la sua conclusione è soltanto da deplorare, come l'ultimo mezzo penny o l'ultima pipata. E così, mentre l'accrescersi della [[Conscience|coscienza]] artistica tende, nelle opere più ambiziose, alla brevità e all'impressionismo, una voluminosa industria contraddistingue ancora il produttore della vera paccottiglia romantica. Non c'era fine alle ballate di [[Robin Hood]]; non c'è fine ai volumi su Dick Deadshot e i Nove Vendicatori. Questi due eroi sono deliberatamente concepiti come immortali.
+
+Ma invece di fondare ogni discussione del problema sul riconoscimento, dettato dal buon senso, di questo fatto — che la gioventù degli ordini inferiori ha sempre avuto e sempre dovrà avere letture romantiche informi e interminabili di qualche genere — e poi di procedere a provvedere alla loro salubrità, cominciamo, generalmente parlando, con un fantastico vituperio di queste letture nel loro insieme e con un'indignata sorpresa che i fattorini in questione non leggano «The Egoist» e «The Master Builder». È costume, particolarmente tra i magistrati, attribuire metà dei delitti della metropoli ai romanzetti da quattro soldi. Se qualche monello sudicio scappa con una mela, il magistrato osserva astutamente che la consapevolezza del [[Child|bambino]] che le mele placano la fame è riconducibile a qualche curiosa ricerca letteraria. I ragazzi stessi, quando pentiti, accusano di frequente i romanzetti con grande amarezza, cosa che c'è solo da aspettarsi da giovani dotati di non poco innato [[Humour|umorismo]]. Se io avessi falsificato un testamento, e potessi ottenere comprensione facendo risalire l'episodio all'influsso dei romanzi del signor George Moore, troverei il massimo divertimento in tale diversivo. In ogni caso, è saldamente fissato nella mente della maggior parte delle persone che i ragazzi di strada, a differenza di chiunque altro nella comunità, trovino i loro principali moventi di condotta nei libri stampati.
+
+Ora è del tutto chiaro che questa obiezione, l'obiezione mossa dai magistrati, non ha nulla a che fare col merito letterario. Scrivere cattive storie non è un delitto. Il signor Hall Caine cammina apertamente per le strade, e non può essere messo in [[Prison|prigione]] per un anticlimax. L'obiezione poggia sulla teoria che il tono della massa dei romanzetti per ragazzi sia criminale e degradato, facendo appello alla bassa cupidigia e alla bassa crudeltà. Questa è la teoria dei magistrati, e questa è una sciocchezza.
+
+Per quanto io li abbia visti, in rapporto ai banchetti di libri più lerci dei quartieri più poveri, i fatti sono semplicemente questi: l'intera sconcertante massa della volgare letteratura giovanile ha per oggetto avventure, divaganti, sconnesse e interminabili. Non esprime alcuna passione di alcun genere, poiché non vi è alcun carattere umano di alcun genere. Corre eternamente in certi solchi di tipo locale e storico: il cavaliere medievale, il duellante del Settecento e il moderno cowboy ricorrono con la stessa rigida semplicità delle convenzionali figure umane in un motivo ornamentale orientale. Riesco a immaginare un essere umano che accende appetiti selvaggi contemplando il suo tappeto di Turchia altrettanto facilmente quanto mediante una narrazione disumanizzata e nuda come questa.
+
+Tra queste storie ve n'è un certo numero che tratta con simpatia le avventure di briganti, fuorilegge e pirati, che presentano in luce dignitosa e romantica ladri e assassini come Dick Turpin e Claude Duval. Vale a dire, fanno esattamente la stessa cosa dell'«Ivanhoe» di Scott, del «Rob Roy» di Scott, della «Lady of the Lake» di Scott, del «Corsair» di Byron, di «Rob Roy's [[Grave]]» di Wordsworth, del «Macaire» di Stevenson, dell'«Iron Pirate» del signor Max Pemberton, e di mille altre opere distribuite sistematicamente come premi e regali di Natale. Nessuno immagina che l'ammirazione per Locksley in «Ivanhoe» indurrà un ragazzo a tirare frecce giapponesi ai cervi di Richmond Park; nessuno pensa che l'incauta apertura di Wordsworth alla poesia su Rob Roy lo avvierà per la vita a diventare un ricattatore. Nel caso della nostra classe, riconosciamo che questa vita selvaggia è contemplata con piacere dai giovani non perché sia simile alla loro vita, ma perché ne è diversa. Potrebbe almeno [[Cross|attraversarci]] la mente che, per qualunque altra ragione il fattorino legga «The Red [[Revenge]]», di sicuro non è perché grondi del sangue dei propri amici e parenti.
+
+In questa faccenda, come in tutte le faccende di tal genere, perdiamo del tutto l'orientamento parlando delle «classi inferiori» quando intendiamo l'umanità meno noi stessi. Questa modesta letteratura romantica non è particolarmente plebea: è semplicemente umana. Il filantropo non riesce mai a dimenticare classi e mestieri. Dice, con modesta spavalderia: «Ho invitato venticinque operai di fabbrica a prendere il tè». Se dicesse: «Ho invitato venticinque ragionieri iscritti all'albo a prendere il tè», chiunque coglierebbe l'[[Humour|umorismo]] di una classificazione così semplice. Ma questo è ciò che abbiamo fatto con questo ammasso di scrittura sciocca: abbiamo sondato, come se fosse una qualche mostruosa nuova malattia, ciò che è, di fatto, nient'altro che il cuore sciocco e valoroso dell'uomo. Gli uomini comuni saranno sempre dei sentimentali: poiché un sentimentale è semplicemente un uomo che ha sentimenti e non si dà la pena di inventare un nuovo modo di esprimerli. Queste comuni e correnti pubblicazioni non hanno nulla di essenzialmente malvagio. Esprimono le sanguigne ed eroiche verità ovvie su cui è edificata la civiltà; poiché è chiaro che, a meno che la civiltà non sia edificata su verità ovvie, non è affatto edificata. Chiaramente, non potrebbe esservi alcuna sicurezza per una società in cui l'osservazione del Presidente della Corte Suprema secondo cui l'omicidio è male fosse considerata un [[Epigram|epigramma]] originale e sfolgorante.
+
+Se gli autori e gli editori di «Dick Deadshot», e di opere tanto notevoli, facessero all'improvviso un'incursione nella classe colta, annotassero i nomi di ogni uomo, per quanto insigne, colto a una conferenza di estensione universitaria, confiscassero tutti i nostri romanzi e ci ammonissero tutti a correggere le nostre vite, ce ne avremmo seriamente a male. Eppure hanno assai più diritto di farlo di noi; poiché essi, con tutta la loro idiozia, sono normali e noi siamo anormali. È la letteratura moderna dei colti, non degli incolti, a essere dichiaratamente e aggressivamente criminale. Libri che raccomandano la dissolutezza e il pessimismo, di fronte ai quali il fattorino di animo nobile rabbrividirebbe, giacciono su tutti i tavoli dei nostri salotti. Se il più lercio vecchio proprietario del più lercio vecchio banchetto di libri di Whitechapel osasse esporre opere che raccomandino davvero la poligamia o il [[suicide|suicidio]], la sua merce verrebbe sequestrata dalla polizia. Queste cose sono i nostri lussi. E con un'ipocrisia tanto ridicola da essere quasi senza pari nella [[history|storia]], rimproveriamo i ragazzi di strada per la loro immoralità nel [[Time|momento]] stesso in cui discutiamo (con equivoci professori tedeschi) se la [[morality|moralità]] sia valida del tutto. Nell'istante stesso in cui malediciamo il penny dreadful per incoraggiare i furti contro la proprietà, dibattiamo la proposizione che ogni proprietà è furto. Nell'istante stesso in cui lo accusiamo (assai ingiustamente) di lascivia e indecenza, leggiamo allegramente filosofie che si gloriano di lascivia e indecenza. Nell'istante stesso in cui lo incolpiamo di incoraggiare i giovani a distruggere la vita, discutiamo placidamente se la vita valga la pena di essere conservata.
+
+Ma siamo noi le eccezioni morbose; siamo noi la classe criminale. Questo dovrebbe essere il nostro grande conforto. La vasta massa dell'umanità, con la sua vasta massa di libri oziosi e di parole oziose, non ha mai dubitato e mai [[Doubt|dubiterà]] che il [[Courage|coraggio]] sia splendido, che la fedeltà sia nobile, che le dame in difficoltà debbano essere soccorse, e i nemici sconfitti risparmiati. Vi è un gran numero di persone colte che [[Doubt|dubitano]] di queste massime della vita quotidiana, proprio come vi è un gran numero di persone che credono di essere il Principe di Galles; e mi si dice che entrambe le classi di persone sono conversatori spassosi. Ma l'uomo o il ragazzo medio scrive ogni giorno, in questi grandi diari sgargianti della sua [[Soul|anima]] che chiamiamo penny dreadful, un vangelo più semplice e migliore di tutti quei cangianti paradossi etici che le persone alla moda cambiano tanto spesso quanto le loro cuffie. Può essere un fine assai limitato in [[morality|moralità]] sparare a un «traditore dai molti volti e volubile», ma è almeno un fine migliore che essere un traditore dai molti volti e volubile, il che è un semplice riassunto di parecchi sistemi moderni, a partire da quello del signor d'Annunzio in giù. Finché la trama grossolana e sottile del mero [[Romance|romanzesco]] popolare corrente non viene toccata da una meschina cultura, esso non sarà mai vitalmente immorale. Sta sempre dalla parte della vita. I poveri — gli schiavi che davvero si curvano sotto il peso della vita — sono stati spesso folli, sventati e crudeli, ma mai disperati. È un privilegio di classe, come i sigari. La loro sdolcinata letteratura sarà sempre una letteratura di «[[Blood|sangue]] e tuono», semplice come il tuono del cielo e il [[Blood|sangue]] degli uomini.
+
+*       *       *       *       *
 
 
 
@@ -3642,6 +3870,26 @@ ever.
 *       *       *       *       *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IN DIFESA DEGLI SCHELETRI
+
+Qualche [[Time|tempo]] fa mi trovavo tra immemori alberi inglesi che parevano avvinghiarsi alle [[Stars|stelle]] come una nidiata di Yggdrasill. Mentre camminavo tra questi pilastri viventi, mi resi conto a poco a poco che i campagnoli che vivevano e morivano alla loro [[Shadow|ombra]] adottavano un tono di conversazione assai curioso. Sembravano scusarsi di continuo per gli alberi, come se fossero un ben misero spettacolo. Dopo elaborata indagine, scoprii che il loro tono cupo e penitente era riconducibile al fatto che era [[Winter|inverno]] e tutti gli alberi erano spogli. Li assicurai che non mi risentivo del fatto che fosse [[Winter|inverno]], che sapevo che la cosa era già accaduta prima, e che nessuna previdenza da parte loro avrebbe potuto stornare questo colpo del destino. Ma non riuscii in alcun modo a riconciliarli col fatto che _fosse_ [[Winter|inverno]]. Vi era evidentemente un sentimento generale che io avessi colto gli alberi in una sorta di disdicevole déshabillé, e che essi non dovessero essere veduti finché, come i primi peccatori umani, non si fossero coperti di [[Leaves|foglie]]. Sicché è del tutto chiaro che, mentre pochissime persone paiono sapere alcunché di come appaiano gli alberi in [[Winter|inverno]], i forestali stessi ne sanno meno di chiunque altro. Ben lungi dall'apparire aspra e severa, la linea dell'albero quando è spoglio è lussureggiantemente indefinibile a un grado inconsueto; la frangia della foresta si dissolve come una vignetta. Le cime di due o tre alberi alti, quando sono privi di foglie, sono così morbide da sembrare le gigantesche scope di quella favolosa dama che spazzava via le ragnatele dal cielo. Il contorno di una foresta frondosa è, al confronto, duro, grossolano e chiazzato; le nubi della [[Night|notte]] non oscurano la [[Moon|luna]] più sicuramente di quanto quelle nubi verdi e mostruose oscurino l'albero; l'effettiva vista del boschetto, col suo mare grigio e argenteo di vita, è interamente una visione [[Winter|invernale]]. Tanto fioco e delicato è il cuore dei boschi d'[[Winter|inverno]], una sorta di scintillante crepuscolo, che una figura che avanzi verso di noi nel chiaroscuro screziato pare come se stesse aprendosi un varco attraverso insondabili profondità di ragnatele.
+
+Ma certamente l'idea che le sue [[Leaves|foglie]] siano la grazia precipua di un albero è un'idea volgare, alla pari dell'idea che i capelli siano la grazia precipua di un pianista. Quando l'[[Winter|inverno]], quel sano [[ascetic|asceta]], passa il suo gigantesco rasoio su [[Hill|colle]] e valle, e rade tutti gli alberi come [[Monks|monaci]], sentiamo di sicuro che essi sono tanto più simili ad alberi se sono tosati, proprio come tanti pittori e musicisti sarebbero tanto più simili a uomini se fossero meno simili a spazzoloni. Ma pare davvero esservi una difficoltà profonda ed essenziale, ossia che gli uomini hanno un terrore costante della propria struttura, o della struttura delle cose che [[Love|amano]]. Questo si avverte oscuramente nello [[skeleton|scheletro]] dell'albero: si avverte profondamente nello [[skeleton|scheletro]] dell'uomo.
+
+L'importanza dello [[skeleton|scheletro]] umano è grandissima, e l'orrore con cui esso viene comunemente considerato è alquanto misterioso. Senza rivendicare per lo [[skeleton|scheletro]] umano una [[Beauty|bellezza]] del tutto convenzionale, possiamo affermare che esso non è certo più brutto di un bulldog, la cui popolarità non svanisce mai, e che ha un'espressione assai più allegra e accattivante. Ma proprio come l'uomo si vergogna misteriosamente degli scheletri degli alberi in [[Winter|inverno]], così si vergogna misteriosamente del proprio [[skeleton|scheletro]] nella [[Death|morte]]. È una cosa del tutto singolare, questo orrore dell'architettura delle cose. Si penserebbe che sarebbe quanto mai imprudente per un uomo aver paura di uno [[skeleton|scheletro]], dal momento che la [[Nature|Natura]] ha posto curiosi e del tutto insormontabili ostacoli alla sua fuga da esso.
+
+Un fondamento esiste per questo terrore: una strana idea ha infettato l'umanità, ossia che lo [[skeleton|scheletro]] sia tipico della [[Death|morte]]. Un uomo potrebbe altrettanto [[Well|bene]] dire che una ciminiera di fabbrica è tipica della bancarotta. La fabbrica può essere lasciata nuda dopo la rovina, lo [[skeleton|scheletro]] può essere lasciato nudo dopo la dissoluzione del corpo; ma entrambi hanno avuto una vita vivace e operosa tutta loro, con tutte le carrucole che cigolavano, tutte le ruote che giravano, nella [[house|Casa]] del Sostentamento come nella [[house|Casa]] della Vita. Non v'è ragione per cui questa creatura (nuova, a quel che immagino, per l'arte), lo [[skeleton|scheletro]] vivente, non debba diventare il simbolo essenziale della vita.
+
+La [[Truth|verità]] è che l'orrore dell'uomo per lo [[skeleton|scheletro]] non è affatto orrore della [[Death|morte]]. È l'eccentrica gloria dell'uomo il fatto che egli non ha, generalmente parlando, alcuna obiezione a essere morto, ma ha una serissima obiezione a essere privo di dignità. E la questione fondamentale che lo turba nello [[skeleton|scheletro]] è il richiamo al fatto che la pianta di base del suo aspetto è spudoratamente [[Grotesque|grottesca]]. Non so perché egli debba obiettare a questo. Egli prende posto con soddisfazione in un mondo che non pretende di essere raffinato: un mondo che ride, lavora, schernisce. Vede milioni di [[Animals|animali]] che portano, con una leggerezza del tutto azzimata, le forme e le appendici più mostruose, le corna, le ali e le zampe più assurde, quando siano necessarie all'utilità. Vede il buon umore della rana, l'inspiegabile felicità dell'ippopotamo. Vede un intero universo che è ridicolo, dall'animalcolo, con una testa troppo grande per il suo [[Body|corpo]], fino alla cometa, con una coda troppo grande per la sua testa. Ma quando si tratta della deliziosa stranezza del proprio interno, il suo senso dell'[[Humour|umorismo]] lo abbandona piuttosto bruscamente.
+
+Nel Medioevo e nel [[Renaissance|Rinascimento]] (che fu, in certi tempi e per certi rispetti, un periodo assai più cupo) questa idea dello [[skeleton|scheletro]] ebbe un vasto influsso nel gelare via l'[[Pride|orgoglio]] da tutte le pompe terrene e la fragranza da tutti i piaceri fuggevoli. Ma non fu, di certo, il mero timore della [[Death|morte]] a fare ciò, poiché quelle furono epoche in cui gli uomini andavano incontro alla [[Death|morte]] cantando; fu l'idea della degradazione dell'uomo nella ghignante bruttezza della sua struttura ad avvizzire la giovanile insolenza della [[Beauty|bellezza]] e dell'[[Pride|orgoglio]]. E in ciò fece quasi sicuramente più bene che male. Non v'è nulla di così freddo o così spietato come la giovinezza, e la giovinezza, nelle stazioni e nelle età aristocratiche, tendeva a un'impeccabile dignità, a un'interminabile [[Summer|estate]] di [[success|successo]] che aveva bisogno di essere assai bruscamente ricordata dello scherno delle [[Stars|stelle]]. Fu [[Well|bene]] che tali sgargianti presuntuosi fossero convinti che almeno uno scherzo pratico li avrebbe fatti ruzzolare, che sarebbero caduti in una ghignante tagliola, per non rialzarsi più. Che l'intera struttura della loro esistenza fosse tanto salubremente ridicola quanto quella di un maiale o di un pappagallo, non ci si poteva aspettare che se ne rendessero conto; che nascere fosse comico, raggiungere la maggiore età comico, bere e battersi comico, essi erano troppo giovani e solenni per saperlo. Ma almeno fu loro insegnato che la [[Death|morte]] era comica.
+
+C'è in giro una peculiare idea, ossia che il valore e il fascino di ciò che chiamiamo [[Nature|Natura]] risiedano nella sua [[Beauty|bellezza]]. Ma il fatto che la [[Nature|Natura]] sia bella nel senso in cui è bello un fregio a mezza parete o una tenda Liberty è soltanto uno dei suoi incanti, e quasi accidentale. La qualità più alta e più preziosa nella [[Nature|Natura]] non è la sua [[Beauty|bellezza]], ma la sua generosa e sfidante bruttezza. Si potrebbero addurre cento esempi. Il gracchiare delle cornacchie è, in sé, orrendo quanto l'intero inferno di suoni in una galleria ferroviaria di [[London|Londra]]. Eppure ci solleva come una tromba con la sua rozza cordialità e onestà, e l'[[Lover|amante]] in «Maud» riusciva davvero a persuadersi che quell'abominevole rumore somigliasse al nome della sua donna-[[Love|amore]]. Il poeta, per il quale la [[Nature|Natura]] significa soltanto rose e gigli, ha mai udito un maiale grugnire? È un rumore che fa bene a un uomo: un rumore forte, sbuffante, imprigionato, che si apre un varco fuori da insondabili segrete attraverso ogni possibile sbocco e organo. Potrebbe essere la voce della terra stessa, che russa nel suo possente [[Sleep|sonno]]. Questo è il più profondo, il più antico, il più salubre e religioso senso del valore della [[Nature|Natura]]: il valore che proviene dalla sua immensa fanciullaggine. Essa è tanto squilibrata in alto, tanto [[Grotesque|grottesca]], tanto solenne e tanto felice quanto un [[Child|bambino]]. Il momento viene quando vediamo tutte le sue forme come forme che un bimbo scarabocchia su una lavagna: semplici, rudimentali, un milione di anni più vecchie e più forti dell'intera malattia che si chiama Arte. Gli oggetti della terra e del cielo paiono combinarsi in una fiaba per bambini, e la nostra relazione con le cose pare per un momento così semplice che occorrerebbe un lunatico danzante per rendere giustizia alla sua limpidezza e leggerezza. L'albero sopra il mio capo sbatte le ali come un qualche gigantesco uccello ritto su una zampa sola; la [[Moon|luna]] è come l'occhio di un Ciclope. E, per quanto il mio volto si annuvoli di cupa [[Vanity|vanità]], o di volgare vendetta, o di spregevole disprezzo, le ossa del mio cranio al di sotto di esso ridono in eterno.
+
+*       *       *       *       *
+
 
 
 <span class="atom-split" data-atom="story_06_a_defence_of_publicity" data-title="The Defendant — A DEFENCE OF PUBLICITY" data-chapter="A DEFENCE OF PUBLICITY" data-kind="story"></span>
@@ -3791,6 +4039,33 @@ flew, like bats, by [[Night|night]].
 
 *       *       *       *       *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IN DIFESA DELLA PUBBLICITÀ
+
+È un fatto assai significativo che la forma d'arte in cui il mondo moderno non ha certo superato l'antico sia quella che si potrebbe grossolanamente chiamare l'arte dell'aria aperta. I monumenti pubblici non sono certo migliorati, né è migliorata la critica di essi, come risulta evidente dalla moda di condannarne un così gran numero come pomposi. Si potrebbe scrivere un interessante [[Essay|saggio]] sull'enorme numero di parole che vengono usate come insulti quando sono in realtà complimenti. È di per sé un singolare studio di quella tendenza che, come ho detto, fa sempre apparire le cose peggiori di quanto siano, e rende necessario un sistematico atteggiamento di difesa. Così, per esempio, certi critici teatrali gettano il disprezzo su una rappresentazione teatrale chiamandola teatrale, il che significa semplicemente che è adatta a un teatro, ed è tanto un complimento quanto chiamare poetica una poesia. Similmente parliamo sdegnosamente di un certo genere di opera come sentimentale, il che significa semplicemente che possiede la mirabile ed essenziale qualità del sentimento. Simili espressioni fanno tutte parte di una medesima [[philosophy|filosofia]] gretta e codarda, e ci ricordano i giorni in cui «entusiasta» era un termine di biasimo. Ma di tutto questo vocabolario di elogi inconsapevoli nulla è più notevole della parola «pomposo».
+
+Propriamente parlando, s'intende, un monumento pubblico dovrebbe essere pomposo. La pompa è il suo vero scopo; sarebbe assurdo avere colonne e piramidi che arrossiscono in qualche timido cantuccio come violette nei boschi di [[spring|primavera]]. E i monumenti pubblici hanno, in questa materia, una grande e assai necessaria lezione da impartire. Il valore e la [[Mercy|misericordia]] e i grandi entusiasmi dovrebbero essere assai più pubblici di quanto siano al presente. Siamo troppo inclini, di questi tempi, a commettere il peccato della [[Fear|paura]] e a chiamarlo la virtù della reverenza. Abbiamo dimenticato l'antica e salubre [[morality|moralità]] del Libro dei Proverbi: «La sapienza grida di fuori; la sua voce si ode nelle strade». Ad Atene e a Firenze la sua voce si udiva nelle strade. Avevano una vita all'aperto di guerra e di argomentazione, e avevano ciò che la moderna civiltà commerciale non ha mai avuto: un'arte all'aperto. I servizi religiosi, la più sacra di tutte le cose, si sono sempre tenuti pubblicamente; è del tutto una nozione nuova e degradata quella secondo cui la santità è lo stesso della segretezza. Moltissimi poeti moderni, dalle sensibilità più astruse e delicate, [[Love|amano]] le tenebre, a conti fatti, in gran parte per la stessa ragione per cui le [[Love|amano]] i ladri. La missione di una grande guglia o statua dovrebbe essere quella di colpire lo spirito con un improvviso senso di [[Pride|orgoglio]] come con un fulmine. Dovrebbe sollevarci con sé nell'aria vuota e nobilitante. Lungo la base di ogni nobile monumento, qualunque altra cosa vi sia scritta, corrono in lettere invisibili i versi di Swinburne:
+
+«Questa cosa è Dio:
+essere uomo con la tua possanza,
+andare diritto nella forza del tuo spirito, e vivere
+fino in fondo la tua vita nella luce.»
+
+Se un monumento pubblico non soddisfa questo primo, supremo e ovvio bisogno, ossia di essere pubblico e monumentale, esso fallisce fin dall'inizio.
+
+È sorta di recente una scuola di scultura realistica, che si potrebbe forse meglio descrivere come una scuola di scultura abbozzata. Un simile movimento era giusto e inevitabile come reazione alla meschina e squallida pomposità della statuaria vittoriana inglese. Forse l'oggetto più orrendo e deprimente dell'universo — assai più orrendo e deprimente di uno dei mostri informi della melma del signor H. G. Wells (e per nulla dissimile da essi) — è la statua di un filantropo inglese. Quasi altrettanto brutte, però, per quanto, s'intende, non del tutto altrettanto brutte, sono le statue dei politici inglesi nei Parliament Fields. Ciascuna di esse è racchiusa in una redingote cilindrica, e ciascuna reca o una pergamena o un dubbio indumento sul braccio che potrebbe essere o un asciugamano da bagno o un leggero soprabito. Ciascuna di esse è in atteggiamento oratorio, che ha tutto lo svantaggio di essere affettato senza nemmeno alcuno dei vantaggi di essere teatrale. Nessuno supponga che tali aborti sorgano meramente da demerito tecnico. In ogni linea di quei fantocci di piombo è espresso il fatto che essi non furono eretti con alcun calore di naturale entusiasmo per la [[Beauty|bellezza]] o la dignità. Furono eretti meccanicamente, perché sarebbe parso sconveniente o gretto se non fossero stati eretti. Furono eretti perfino di malavoglia, in un'età utilitaria ossessionata dal pensiero che vi fossero moltissimi modi più sensati di spendere denaro. Finché questo è il sentimento nazionale dominante, la terra è sterile, statue e chiese non cresceranno — poiché esse devono crescere, tanto quanto gli alberi e i [[Flowers|fiori]]. Ma questo svantaggio morale, che gravava così pesantemente sulla scultura del primo periodo vittoriano, grava in grado attenuato su quella scultura rozza, pittoresca, comune che ha cominciato a sorgere, e di cui la statua di Darwin nel South Kensington Museum e la statua di Gordon in Trafalgar Square sono esempi mirabili. Non basta che un monumento popolare sia artistico, come uno [[Sketch|schizzo]] a carboncino nero; deve essere impressionante; deve essere, nel più alto senso della parola, sensazionale; deve stare per l'umanità; deve parlare per noi alle [[Stars|stelle]]; deve dichiarare al cospetto di tutti i cieli che, quando sia stato compilato il più lungo e più nero catalogo di tutti i nostri delitti e le nostre follie, vi sono alcune cose di cui noi uomini non ci vergogniamo.
+
+I due modi di commemorare un uomo pubblico sono una statua e una [[Biography|biografia]]. Si somigliano sotto certi rispetti, come, per esempio, nel fatto che né l'una né l'altra somiglia all'originale, e che entrambe comunemente attenuano non solo tutti i vizi di un uomo, ma anche tutte le più divertenti delle sue virtù. Ma vengono trattate in un rispetto in modo diverso. Non udiamo mai nulla intorno alla [[Biography|biografia]] senza udire qualcosa intorno alla santità della vita privata e alla necessità di sopprimere l'intera parte più importante dell'esistenza di un uomo. Lo scultore non lavora con questo svantaggio. Lo scultore non tralascia il naso di un eminente filantropo perché è troppo bello per essere dato al pubblico; non raffigura uno statista con un sacco sul capo perché il suo sorriso era troppo dolce per essere sopportabile alla luce del giorno. Ma nella [[Biography|biografia]] la tesi è popolarmente e solidamente sostenuta, tanto che occorre un certo [[Courage|coraggio]] anche solo per accennare un [[Doubt|dubbio]] su di essa, ossia che quanto migliore era un uomo, quanto più veramente umana era la vita che conduceva, tanto meno se ne dovrebbe dire.
+
+A favore di questa idea, questa idea moderna che la santità sia identica alla segretezza, c'è almeno una cosa da dire. A ogni fine pratico è un'idea interamente nuova; era ignota a tutte le età in cui l'idea di santità realmente fioriva. Il registro dei grandi movimenti spirituali dell'umanità è tutto contrario all'idea che la spiritualità sia una faccenda privata. Il più tremendo segreto dell'[[Soul|anima]] di ogni uomo, il suo bisogno più solitario e individuale, la sua relazione più primordiale e psicologica, la cosa chiamata adorazione, la comunicazione tra l'[[Soul|anima]] e l'ultima realtà — questa faccenda privatissima è il più pubblico spettacolo del mondo. Chiunque scelga di entrare in una grande chiesa la mattina della [[Sunday|domenica]] può vedere cento uomini ciascuno [[Alone|solo]] col proprio Creatore. Egli sta, in [[Truth|verità]], al cospetto di uno dei più strani spettacoli del mondo: una folla di eremiti. E nell'abbracciare così decisamente la pubblicità, rendendo pubblico il più interiore mistero, il [[Christianity|Cristianesimo]] agisce in accordo con le sue origini più antiche e col suo terribile inizio. Non fu di certo per caso che lo spettacolo che oscurò il sole a mezzogiorno fu posto su un [[Hill|colle]]. I martirii dei primi cristiani furono pubblici non solo per il capriccio dell'oppressore, ma per l'intero [[Desire|desiderio]] e l'intera concezione delle vittime.
+
+Il mero significato grammaticale della parola «martire» manda in frantumi d'un colpo l'intera nozione della privatezza della bontà. I martirii cristiani furono più che dimostrazioni: furono pubblicità. Ai giorni nostri la nuova teoria della delicatezza spirituale [[Desire|desidererebbe]] mutare tutto questo. Permetterebbe che [[Christ|Cristo]] fosse crocifisso se ciò fosse necessario alla sua [[Nature|natura]] Divina, ma chiederebbe, in nome del buon gusto, perché non potesse essere crocifisso in una stanza privata. Dichiarerebbe che l'atto di un martire fatto a pezzi dai leoni era volgare e sensazionale, benché, s'intende, non avrebbe alcuna obiezione a essere fatto a pezzi da un [[Lion|leone]] nel proprio salotto dinanzi a una cerchia di amici davvero intimi.
+
+È, sono incline a pensare, una purezza decadente e malata quella che ha inaugurato questa nozione che l'oggetto sacro debba essere nascosto. Le [[Stars|stelle]] non hanno mai perduto la loro santità, e sono più spudorate e nude e numerose delle réclame del sapone Pears. Sarebbe davvero un mondo strano se la [[Nature|Natura]] fosse d'un tratto colpita da questo etereo pudore, se gli alberi crescessero con le radici in aria e il loro carico di [[Leaves|foglie]] e fiori sottoterra, se i [[Flowers|fiori]] si chiudessero all'[[Dawn|alba]] e si aprissero al tramonto, se il girasole si volgesse verso le tenebre, e gli [[Birds|uccelli]] volassero, come pipistrelli, di [[Night|notte]].
+
+*       *       *       *       *
 
 
 

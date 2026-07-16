@@ -21534,7 +21534,7 @@ titoli o i moderni film o i moderni macchinari. Ciò che c'è di sbagliato
 
 nel mondo moderno è il mondo moderno; e la cura verrà da
 
-altrove.
+un altro.
 
 _Alcune città americane_
 

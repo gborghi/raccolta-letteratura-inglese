@@ -6401,7 +6401,7 @@ La Tirannia del Cattivo Giornalismo
 
 La Poesia della Rivoluzione
 
-UN [[Song|CANTO]] DI SPADE
+UN [[Song|CANTO]] DI SPADE  
 
 "Una mandria di bestiame entrò in un villaggio chiamato Swords;
 

@@ -8049,7 +8049,7 @@ dal suo consueto modo mite di parlare.
 «Mi accingo a sostenere» disse, «proprio ciò che lei diceva essere così
 ridicolo e impossibile.»
 
-«Cosa volete dire?»
+«Che intendete dire?»
 
 «Fonderò la difesa» disse [[Father Brown]], «sul fatto che
 il pubblico accusatore ha la testa calva.»
@@ -12426,7 +12426,7 @@ Il prete, che parlava così con leggerezza per calmare i nervi dell'altro
 uomo, concluse dicendo, in tono più serio: «Capisco benissimo
 quanto debba avervi sconvolto. Purtroppo, ha anche sconvolto qualcos'altro.»
 
-«Cosa volete dire?»
+«Che intendete dire?»
 
 «Ha sconvolto tutta la nostra teoria così completa,» replicò l'altro;
 e cominciò a scendere arrampicandosi giù per la riva sulla piccola striscia di sabbia presso il

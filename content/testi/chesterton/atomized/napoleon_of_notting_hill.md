@@ -16953,6 +16953,51 @@ in the islands under the world.  My mind was a blank on the thing.
 I was as mad as a hatter."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LIBRO V
+CAPITOLO I
+
+L'IMPERO DI NOTTING [[Hill|HILL]]
+
+La sera del tre ottobre, vent'anni dopo la grande vittoria di Notting [[Hill]], che le diede il dominio di [[London|Londra]], [[King|Re]] Auberon uscì, come un tempo, da Kensington Place.
+
+Era cambiato poco, salvo qualche filo di grigio tra i capelli, poiché il suo volto era sempre stato vecchio, e il suo passo lento e, per così dire, decrepito.
+
+Se appariva vecchio, non era per alcunché di fisico o mentale. Era perché portava ancora, con un bizzarro conservatorismo, la finanziera e il cilindro dei giorni precedenti la grande guerra. «Sono sopravvissuto al [[deluge|Diluvio]]», disse. «Sono una piramide, e devo comportarmi come tale.»
+
+Mentre risaliva la strada i Kensingtoniani nei loro pittoreschi camiciotti azzurri lo salutavano come un [[King|Re]], per poi seguirlo con lo sguardo come una curiosità. Pareva loro strano che gli uomini avessero un tempo indossato un abbigliamento così stravagante.
+
+Il [[King|Re]], coltivando l'andatura attribuita al più vecchio degli abitanti («Nonno Auberon» i suoi amici erano ora confidenzialmente pregati di chiamarlo), procedeva ciondolando verso nord. Si fermò, con la reminiscenza negli occhi, alla Porta Meridionale di Notting [[Hill]], una di quelle nove grandi porte di bronzo e acciaio, lavorate con rilievi delle antiche battaglie, dalla mano di Chiffy stesso.
+
+«Ah!» disse, scuotendo il capo e assumendo un'aria superflua di vecchiaia, e un provincialismo d'accento, «Ah! Mi ricordo quando non c'era niente di tutto questo.»
+
+Passò attraverso la Porta di Ossington, sormontata da un grande [[Lion|leone]], lavorato in rame rosso su ottone giallo, con il motto «Nothing Ill». La guardia in rosso e oro lo salutò con l'alabarda.
+
+Era circa il tramonto, e si accendevano i lampioni. Auberon si fermò a guardarli, poiché erano l'opera più bella di Chiffy, e il suo occhio d'artista non mancava mai di nutrirsene. In [[Memory|memoria]] della Grande Battaglia dei Lampioni, ogni grande lampione di ferro era sormontato da una figura velata, [[Sword|spada]] in pugno, che teneva sopra la fiamma un cappuccio o spegnitoio di ferro, come pronta a lasciarlo cadere se gli eserciti del Sud e dell'Ovest avessero di nuovo mostrato le loro bandiere nella [[City|città]]. Così nessun [[Child|bambino]] a Notting [[Hill]] poteva giocare per le strade senza che i lampioni stessi gli rammentassero la salvezza del suo paese nell'anno terribile.
+
+«Il vecchio Wayne aveva ragione in un certo senso», commentò il [[King|Re]]. «La [[Sword|spada]] rende davvero belle le cose. Ha reso ormai romantico il mondo intero. E pensare che un tempo la gente mi credeva un buffone per aver proposto una Notting [[Hill]] romantica. Povero me, povero me (credo sia questa l'espressione). Sembra un'esistenza precedente.»
+
+Svoltato un angolo si trovò in Pump Street, di fronte alle quattro botteghe che [[Adam Wayne]] aveva studiato vent'anni prima. Entrò oziosamente nella bottega del signor Mead, il [[grocer|droghiere]]. Il signor Mead era alquanto più vecchio, come il resto del mondo, e la sua barba rossa, che ora portava con i baffi, lunga e folta, era in parte imbiancata e scolorita. Era vestito di una lunga e riccamente ricamata veste di azzurro, bruno e cremisi, intessuta con una complessità orientale di motivi, e coperta di oscuri simboli e figure, che rappresentavano le sue merci passare di mano in mano e di nazione in nazione. Intorno al collo aveva la catena con l'Argosia Azzurra intagliata nel turchese, che portava come Gran Maestro dei Droghieri. L'intera bottega aveva l'aspetto tetro e sontuoso del suo proprietario. Le merci erano esposte in vista come ai vecchi tempi, ma erano ora fuse e disposte con un senso della tinta e del raggruppamento, troppo spesso trascurato dagli offuscati droghieri di quei giorni dimenticati. Le merci erano mostrate con chiarezza, ma mostrate non tanto come un vecchio [[grocer|droghiere]] avrebbe mostrato la sua scorta, bensì piuttosto come un colto virtuoso avrebbe mostrato i suoi tesori. Il tè era conservato in grandi vasi azzurri e verdi, iscritti con le nove indispensabili sentenze dei saggi della Cina. Altri vasi di un confuso arancio e porpora, meno rigidi e dominanti, più umili e sognanti, conservavano simbolicamente il tè dell'India. Una fila di cofanetti di un semplice metallo argenteo conteneva carni in scatola. Ciascuno era lavorato con qualche forma rozza ma ritmica, come una conchiglia, un corno, un pesce, o una mela, per indicare quale materiale vi fosse stato inscatolato. «Vostra Maestà», disse il signor Mead, con un inchino orientale. «Questo è un [[Honour|onore]] per me, ma ancor più un [[Honour|onore]] per la [[City|città]].»
+
+Auberon si tolse il cilindro.
+
+«Signor Mead», disse, «Notting [[Hill]], sia nel dare sia nel ricevere, non può trattare in nulla se non in [[Honour|onore]]. Vendete per caso liquirizia?»
+
+«La liquirizia, sire», disse il signor Mead, «non è il meno importante dei nostri benefici tratti dal cuore oscuro dell'Arabia.»
+
+E avvicinandosi reverentemente a un barattolo verde e argento, fatto a forma di moschea araba, procedette a servire il suo cliente.
+
+«Stavo giusto pensando, signor Mead», disse il [[King|Re]] pensieroso, «non so perché dovrei pensarci proprio ora, ma stavo giusto pensando a vent'anni fa. Ricordate i tempi prima della guerra?»
+
+Il [[grocer|droghiere]], avendo avvolto i bastoncini di liquirizia in un pezzo di carta (iscritto con qualche sentimento appropriato), sollevò i grandi occhi grigi sognanti, e guardò il cielo che si oscurava fuori.
+
+«Oh sì, Vostra Maestà», disse. «Ricordo queste strade prima che il Lord Provost cominciasse a governarci. Non riesco a ricordare [[Well|bene]] come ci sentivamo. Tutti i grandi [[songs|canti]] e i combattimenti cambiano tanto un uomo; e non credo che possiamo davvero valutare tutto ciò che dobbiamo al Provost; ma ricordo il suo entrare in questa stessa bottega ventidue anni fa, e ricordo le cose che disse. La cosa singolare è che, per quanto ricordo, allora giudicai strane le cose che disse a quel [[Time|tempo]]. Ora sono le cose che dissi io, per quanto riesca a rammentarle, che mi paiono strane... strane come le smorfie di un pazzo.»
+
+«Ah!» disse il [[King|Re]]; e lo guardò con un'imperscrutabile quiete.
+
+«Allora non davo alcun peso all'essere un [[grocer|droghiere]]», disse. «Non è abbastanza strano per chiunque? Non pensavo affatto a tutti i luoghi meravigliosi da cui provenivano le mie merci, e ai modi meravigliosi in cui sono fatte. Non sapevo di essere a tutti gli effetti pratici un [[King|re]] con schiavi che arpionano pesci presso la pozza segreta, e raccolgono frutti nelle isole sotto il mondo. La mia mente era vuota su tutto ciò. Ero matto come un cappellaio.»
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
@@ -17076,6 +17121,126 @@ If that is so, it is a black and white shameless breach of the terms
 of which we surrendered to Turnbull after the battle of the Tower.
 We were to keep our own customs and [[Self|self]]-[[government]]. If that is so..."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Anche il [[King|Re]] si voltò, e volse lo sguardo fuori nel buio, dove le grandi
+lampade che commemoravano la battaglia già fiammeggiavano.
+
+«E questa è dunque la fine del povero vecchio Wayne?» disse, quasi tra sé.
+«Infiammare talmente ogni uomo da perdersi egli stesso nel divampare;
+è questa la sua vittoria, che egli, il mio incomparabile Wayne, ora
+è soltanto uno in un mondo di Wayne? Ha vinto ed è divenuto, per la
+vittoria, cosa comune? Deve il signor Mead, il [[grocer|droghiere]], parlare tanto alto quanto lui?
+Signore! che strano mondo, nel quale un uomo non può restare unico
+neppure prendendosi la briga di impazzire.»
+
+E uscì sognante dalla bottega.
+
+Si fermò dinanzi a quella accanto quasi esattamente come aveva fatto il Prevosto
+due decenni prima.
+
+«Come appare straordinariamente sinistra questa bottega,» disse. «Eppure, in qualche modo,
+incoraggiantemente sinistra, invitantemente sinistra. Somiglia a qualcosa in una
+vecchia e allegra fiaba da camera dei bambini, in cui ti spaventi a morte,
+eppure sai che le cose finiscono sempre [[Well|bene]]. Il modo in cui quei bassi
+e acuti frontoni sono intagliati come grandi ali nere di pipistrello ripiegate,
+e il modo in cui quelle coppe dallo strano colore lì sotto sono fatte per brillare
+come i bulbi oculari d'un gigante. Somiglia alla capanna d'un benevolo stregone.
+A quanto pare è un farmacista.»
+
+Quasi mentre parlava, il signor Bowles, il farmacista, giunse alla porta della sua
+bottega in una lunga veste nera di velluto con cappuccio, monastica per così dire,
+eppure con un tocco del diabolico. I suoi capelli erano ancora del tutto neri,
+e il suo volto persino più pallido d'un tempo. L'unico punto di colore
+che portava era una stella rossa intagliata in qualche pietra preziosa di tinta intensa,
+appesa al petto. Egli apparteneva alla Società della Stella Rossa
+della [[Charity|Carità]], fondata sulle lampade esposte da medici e farmacisti.
+
+«Bella serata, signore,» disse il farmacista. «Ma davvero non posso ingannarmi
+nel supporre che siate Vostra Maestà. Vi prego, entrate e
+condividete una bottiglia di sale volatile, o qualsiasi cosa possa aggradarvi.
+Si dà il caso che vi sia un'antica conoscenza di Vostra Maestà nella mia
+bottega che gozzoviglia (se mi è permesso il termine) su quella bevanda
+in questo momento.»
+
+Il [[King|Re]] entrò nella bottega, che era un [[Garden|giardino]] di Aladino di ombre
+e tinte, poiché come lo schema di colore del farmacista era più brillante
+di quello del [[grocer|droghiere]], così era disposto con ancor maggior delicatezza
+e fantasia. Mai, se è lecito impiegar la frase, un tale mazzolino
+di medicine era stato presentato all'occhio artistico.
+
+Ma perfino il solenne arcobaleno di quell'interno serale era rivaleggiato
+o addirittura eclissato dalla figura ritta al centro della bottega.
+La sua forma, che era grande e maestosa, era vestita d'un brillante
+velluto azzurro, tagliato alla più ricca maniera [[Renaissance|rinascimentale]], e sfrangiato
+in modo da mostrar bagliori e squarci d'un meraviglioso limone o giallo pallido.
+Aveva parecchie [[Chains|catene]] intorno al collo, e i suoi pennacchi, che erano
+di parecchie tinte, di bronzo e d'oro, gli scendevano fino alla grande impugnatura
+d'oro della sua lunga [[Sword|spada]]. Beveva una dose di sale volatile,
+e ne ammirava la tinta opalina. Il [[King|Re]] avanzò con una lieve
+[[Mystification|perplessità]] verso l'alta figura, il cui volto era in [[Shadow|ombra]],
+poi disse:
+
+«Per il Gran Signore della Fortuna, Barker!»
+
+La figura si tolse il berretto piumato, mostrando la stessa testa scura
+e il volto lungo, quasi equino, che il [[King|Re]] aveva così spesso veduto
+emergere dall'alto colletto di Bond Street. Salvo per una chiazza grigia
+su ciascuna tempia, era del tutto immutato.
+
+«Vostra Maestà,» disse Barker, «questo è un incontro nobilmente retrospettivo,
+un incontro che ha in sé un certo oro d'ottobre. Bevo ai vecchi tempi;»
+e finì il suo sale volatile con schietto sentimento.
+
+«Sono lieto di rivederti, Barker,» disse il [[King|Re]].
+«È passato davvero molto tempo dall'ultima volta. Tra i miei viaggi in Asia Minore,
+e il mio libro da scrivere (avrai letto la mia "Vita del
+Principe Alberto per Bambini," s'intende), ci siamo a malapena incontrati due volte
+dopo la Grande Guerra. Sono vent'anni fa.»
+
+«Mi [[Wonder|domando]],» disse Barker, pensoso, «se possa parlare liberamente
+a Vostra Maestà.»
+
+«[[Well|Ebbene]],» disse Auberon, «è piuttosto tardi ormai per cominciare
+a parlare con rispetto. Vola pure, mio uccello della [[Freedom|libertà]].»
+
+«[[Well|Ebbene]], Vostra Maestà,» rispose Barker, abbassando la voce, «non
+credo che manchi molto alla prossima guerra.»
+
+«Che intendi dire?» chiese Auberon.
+
+«Non sopporteremo più a lungo questa insolenza,» proruppe Barker, con ferocia.
+«Non siamo schiavi perché [[Adam Wayne]] vent'anni fa ci ingannò
+con una condotta d'[[Water|acqua]]. Notting [[Hill]] è Notting [[Hill]]; non è il mondo.
+Noi di South Kensington, anche noi abbiamo memorie... sì, e speranze.
+Se essi hanno combattuto per queste botteghe da nulla e per pochi lampioni,
+non combatteremo noi per la grande High Street e per il sacro
+Museo di Storia [[history|Naturale]]?»
+
+«Gran Cielo!» disse lo stupefatto Auberon. «Non cesseranno
+mai i prodigi? Sono state compiute le due più grandi meraviglie?
+Sei divenuto tu altruista, e Wayne è divenuto egoista?
+Sei tu il patriota, ed egli il [[Tyrant|tiranno]]?»
+
+«Non è propriamente da Wayne stesso che viene il male,»
+rispose Barker. «Egli, invero, è ora perlopiù avvolto nei [[Dreams|sogni]], e siede
+con la sua vecchia [[Sword|spada]] accanto al [[Fire|fuoco]]. Ma Notting [[Hill]] è il [[Tyrant|tiranno]],
+Vostra Maestà. Il suo Consiglio e le sue folle sono state talmente inebriate
+dal diffondersi su tutta la [[City|città]] delle vecchie usanze e visioni di Wayne,
+che cercano d'immischiarsi con ognuno, e di governare ognuno,
+e di civilizzare ognuno, e di dire a ognuno ciò che è bene per lui.
+Non nego il grande impulso che la sua vecchia guerra, per quanto folle sembrasse,
+diede alla vita civica del nostro [[Time|tempo]]. Venne quando io ero ancora
+un giovane, e ammetto che ampliò la mia carriera. Ma non staremo
+a vedere le nostre stesse città schernite e ostacolate giorno dopo giorno a causa di
+qualcosa che Wayne fece per tutti noi quasi un quarto di secolo fa.
+Sto giusto aspettando qui notizie proprio su questa faccenda.
+Corre voce che Notting [[Hill]] abbia posto il veto sulla statua del
+Generale Wilson che stanno erigendo di fronte a Chepstow Place.
+Se è così, è una nera e sfacciata, aperta violazione dei termini
+coi quali ci arrendemmo a Turnbull dopo la battaglia della Torre.
+Dovevamo conservare i nostri costumi e il nostro [[Self|auto]]-[[government|governo]]. Se è così...»
 
 
 
@@ -17232,6 +17397,57 @@ created itself.  And because it is a nation it can destroy itself.
 Notting [[Hill]] shall always be the judge.  If it is your will because of
 this matter of General Wilson's statue to make war upon Bayswater..."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«È così», disse una voce profonda; ed entrambi gli uomini si voltarono.
+
+Una figura corpulenta in vesti purpuree, con un'aquila d'argento appesa al collo e i baffi quasi altrettanto sfarzosi dei suoi pennacchi, stava sulla soglia.
+
+«Sì», disse, prendendo atto del sussulto del [[King|Re]], «io sono il Prevosto Buck, e la notizia è vera. Questi uomini della [[Hill|Collina]] hanno dimenticato che anche noi combattemmo intorno alla Torre così [[Well|bene]] come loro, e che talvolta è sciocco, [[Well|oltre]] che vile, disprezzare i vinti.»
+
+«Usciamo fuori», disse Barker, con truce compostezza.
+
+Buck lo fece, e rimase [[rolling|roteando]] gli occhi su e giù per la strada illuminata dai lampioni.
+
+«Mi piacerebbe provare a fare a pezzi tutto questo», mormorò, «benché abbia più di sessant'anni. Mi piacerebbe...»
+
+La sua voce terminò in un grido, ed egli barcollò indietro d'un passo, con le mani agli occhi, come aveva fatto in quelle strade vent'anni prima.
+
+«Tenebre!» gridò «di nuovo le tenebre! Che cosa significa?»
+
+Poiché in [[Truth|verità]] ogni lampione della strada si era spento, sicché non riuscivano a scorgere nemmeno il contorno l'uno dell'altro, se non debolmente. La voce del farmacista giunse con sorprendente allegria dalla densità.
+
+«Oh, non lo sapete?» disse. «Non vi hanno mai detto che questa è la Festa dei Lumi, l'anniversario della grande battaglia che quasi perse e a stento salvò Notting [[Hill]]? Non sapete, Maestà, che in questa [[Night|notte]] ventun anni fa vedemmo le uniformi verdi di Wilson caricare giù per questa strada, e ricacciare Wayne e Turnbull contro le officine del gas, combattendo con la loro manciata di uomini come demoni dell'inferno? E che allora, in quella grande ora, Wayne balzò attraverso una [[Window|finestra]] delle officine del gas, con un solo colpo della mano portò le tenebre sull'intera [[City|città]], e poi con un grido come quello d'un [[Lion|leone]], che fu udito per quattro strade, si scagliò sugli uomini di Wilson, la [[Sword|spada]] in pugno, e li spazzò via, sbigottiti com'erano, e ignari della mappa, di nuovo fuori dalla sacra strada? E non sapete che in quella [[Night|notte]], ogni anno, tutte le luci vengono spente per mezz'ora mentre cantiamo nelle tenebre l'inno di Notting [[Hill]]? Udite! là comincia.»
+
+Attraverso la [[Night|notte]] giunse un fragore di tamburi, e poi un possente gonfiarsi di voci umane:
+
+«Quando il mondo era in bilico, scese la [[Night|notte]] su Notting [[Hill]],
+(Scese la [[Night|notte]] su Notting [[Hill]]): fu più nobile del giorno;
+Sulle città dove splendono i lumi e ardono i focolari,
+Dai mari e dai deserti venne la cosa che non conoscevamo,
+Vennero le tenebre, vennero le tenebre, vennero le tenebre sul nemico,
+E la vecchia guardia di Dio si volse a far fronte.
+Poiché la vecchia guardia di Dio si volge a far fronte, si volge a far fronte,
+E le [[Stars|stelle]] cadono davanti a lei prima che oggi cadano i suoi vessilli.
+Poiché quando gli eserciti ci circondavano come un urlo e un'orda,
+Quando cadeva la cittadella e spezzata era la [[Sword|spada]],
+Le tenebre calarono su di loro come il Drago del Signore,
+Quando la vecchia guardia di Dio si volse a far fronte.»
+
+Le voci stavano appena sollevandosi in una seconda strofa, quando furono interrotte da uno scompiglio e da un urlo. Barker si era slanciato nella strada con un grido di «South Kensington!» e un pugnale sguainato. In meno [[Time|tempo]] di quanto un uomo impieghi a battere ciglio, l'intera strada gremita si riempì di imprecazioni e di lotta. Barker fu scaraventato all'indietro contro la vetrina del negozio, ma sfruttò l'attimo solo per sguainare la [[Sword|spada]] oltre [[Well|che]] il pugnale, e gridando «Non è la prima [[Time|volta]] che vengo attraverso la calca di voi», si gettò di nuovo nella mischia. Era evidente che aveva finalmente versato [[Blood|sangue]], poiché sorse un clamore ancor più violento, e molti altri coltelli e spade divennero visibili nella fioca luce. Barker, dopo aver ferito più d'un uomo, sembrava sul punto d'essere respinto ancora una volta, quando Buck a un tratto uscì sulla strada. Non aveva alcuna arma, poiché egli prediligeva piuttosto la pacifica magnificenza del gran borghese che il combattivo dandismo che aveva sostituito in Barker l'antico cupo dandismo. Ma con un colpo del pugno serrato ruppe il vetro del negozio accanto, che era il vecchio negozio di curiosità, e, cacciandovi dentro la mano, afferrò una sorta di scimitarra giapponese, e gridando «Kensington! Kensington!» si precipitò in soccorso di Barker.
+
+La [[Sword|spada]] di Barker era spezzata, ma egli menava colpi all'intorno con il pugnale. Proprio mentre Buck accorreva, un uomo di Notting [[Hill]] abbatté Barker, ma Buck abbatté quell'uomo sopra di lui, e Barker balzò di nuovo in piedi, il [[Blood|sangue]] che gli colava lungo il volto.
+
+A un tratto tutte queste grida furono fesse da una gran voce, che pareva piombare dal cielo. Fu terribile per Buck e Barker e il [[King|Re]] per il suo sembrare provenire dai cieli vuoti; ma fu più terribile perché era una voce familiare, e una che al tempo stesso non udivano da così lungo [[Time|tempo]].
+
+«Riaccendete i lumi», disse la voce sopra di loro, e per un momento non vi fu risposta, ma solo un tumulto.
+
+«Nel nome di Notting [[Hill]], e del gran Consiglio della [[City|Città]], riaccendete i lumi.»
+
+Vi fu di nuovo un tumulto e un'incertezza per un momento, poi l'intera strada e ogni oggetto in essa balzarono di colpo fuori dalle tenebre, mentre ogni lampione si ridestava alla vita. E alzando lo sguardo videro, ritto su un balcone presso il tetto d'una delle case più alte, la figura e il volto di [[Adam Wayne]], i capelli rossi che gli fluttuavano dietro, un poco striati di grigio.
+
+«Che cos'è questo, popolo mio?» disse. «È dunque del tutto impossibile fare una cosa buona senza che essa insista immediatamente per farsi malvagia? La gloria di Notting [[Hill]] nell'aver conquistato la propria indipendenza è bastata a farmi sognare per molti anni, mentre sedevo accanto al [[Fire|fuoco]]. Non basta davvero a voi, che avete avuto tanti altri affari per eccitarvi e distrarvi? Notting [[Hill]] è una nazione. Perché dovrebbe abbassarsi a essere un mero Impero? Volete abbattere la statua del Generale Wilson, che gli uomini di Bayswater hanno così giustamente eretto in Westbourne Grove. Sciocchi! Chi eresse quella statua? La eresse Bayswater? No. La eresse Notting [[Hill]]. Non vedete che è la gloria della nostra impresa l'aver contagiato le altre città con l'idealismo di Notting [[Hill]]? Siamo noi che abbiamo creato non solo il nostro schieramento, ma entrambi gli schieramenti di questa contesa. Oh sciocchi troppo umili... perché dovreste desiderare di distruggere i vostri nemici? Avete fatto loro qualcosa di più. Avete creato i vostri nemici. Volete abbattere quel gigantesco martello d'argento che si erge, come un obelisco, al centro del Broadway di Hammersmith. Sciocchi! Prima che sorgesse Notting [[Hill]], si aspettava forse qualcuno, passando per Hammersmith Broadway, di vedervi un gigantesco martello d'argento? Volete abolire la grande figura bronzea d'un cavaliere ritto sul ponte artificiale di Knightsbridge. Sciocchi! Chi ci avrebbe pensato prima che sorgesse Notting [[Hill]]? Ho perfino udito, e con profondo [[Pain|dolore]] l'ho udito, che il malocchio della nostra invidia imperiale è stato gettato verso il remoto orizzonte dell'occidente, e che abbiamo mosso obiezioni ai grandi monumenti neri d'un corvo coronato, che commemora la scaramuccia di Ravenscourt Park. Chi creò tutte queste cose? Esistevano forse prima che giungessimo noi? Non potete accontentarvi di quel destino che bastò ad Atene, che bastò a Nazareth? il destino, l'umile scopo di creare un mondo nuovo. È forse Atene adirata perché Romani e Fiorentini hanno adottato la sua fraseologia per esprimere il proprio patriottismo? È forse Nazareth adirata perché, da piccolo villaggio, è divenuta il tipo di tutti i piccoli villaggi da cui, come dicono gli Snob, nulla di buono può venire? Ha forse Atene chiesto a tutti di indossare la clamide? Sono forse tutti i seguaci del Nazareno costretti a portare il turbante? No! ma l'[[Soul|anima]] di Atene uscì e indusse gli uomini a bere la cicuta, e l'[[Soul|anima]] di Nazareth uscì e indusse gli uomini a consentire d'essere crocifissi. Così l'[[Soul|anima]] di Notting [[Hill]] è uscita e ha fatto comprendere agli uomini che cosa significhi vivere in una [[City|città]]. Proprio come noi inaugurammo i nostri simboli e le nostre cerimonie, così essi hanno inaugurato i loro; e siete voi tanto folli da contendere contro di essi? Notting [[Hill]] ha ragione; ha sempre avuto ragione. Si è plasmata sulle proprie necessità, sul proprio sine qua non, ha accettato il proprio ultimatum. Perché è una nazione, ha creato se stessa. E perché è una nazione, può distruggere se stessa. Notting [[Hill]] sarà sempre il giudice. Se è vostra volontà, a causa di questa faccenda della statua del Generale Wilson, muovere guerra a Bayswater...»
 
 
 
@@ -17484,6 +17700,44 @@ and it lasted till sundown, and long after.  But it was decided;
 the story of Notting [[Hill]] was ended.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+
+L'ULTIMA BATTAGLIA
+
+IL giorno era nuvoloso quando Wayne scese a morire con tutto il suo esercito nei Kensington Gardens; era di nuovo nuvoloso quando quell'esercito fu inghiottito dai vasti eserciti di un mondo nuovo. Vi era stato un intervallo di sole quasi [[Uncanny|perturbante]], durante il quale il Prevosto di Notting [[Hill]], con tutta la placidità di uno spettatore, aveva contemplato al di là gli eserciti nemici sulle grandi distese di verzura di fronte; le lunghe strisce di verde e d'azzurro e d'oro si stendevano attraverso il parco in quadrati e rettangoli come una proposizione di Euclide ricamata in un ricco arazzo. Ma la luce del sole era una luce debole e, per così dire, umida, e fu presto inghiottita. Wayne parlò al [[King|Re]], con una strana sorta di freddezza e di languore, delle operazioni militari. Era come aveva detto la [[Night|notte]] prima, che, privato del suo senso di un'irrealizzabile rettitudine, egli era, in effetti, privato di ogni cosa. Era fuori dal suo tempo, e alla deriva in un mero mondo di compromesso e di competizione, di Impero contro Impero, del tollerabilmente giusto e del tollerabilmente ingiusto. Quando il suo occhio cadde però sul [[King|Re]], che marciava con grande gravità con un cilindro e un'alabarda, si rischiarò leggermente.
+
+«[[Well|Ebbene]], Maestà,» disse, «voi almeno dovreste essere fiero oggi. Se i vostri figli combattono l'uno contro l'altro, almeno quelli che vincono sono vostri figli. Altri re hanno distribuito giustizia, voi avete distribuito vita. Altri re hanno governato una nazione, voi avete creato nazioni. Altri hanno fatto regni, voi li avete generati. Guardate i vostri figli, padre.» E tese la mano verso il nemico.
+
+Auberon non alzò gli occhi.
+
+«Guardate con quale splendore,» gridò Wayne, «avanzano le nuove città... le nuove città al di là del [[River|fiume]]. Guardate dove avanza Battersea laggiù... sotto la [[Flag|bandiera]] del Cane Perduto; e Putney... non vedete l'Uomo sul Cinghiale Bianco che brilla sul loro stendardo mentre il sole lo coglie? È l'avvento di un'era nuova, Maestà. Notting [[Hill]] non è un impero comune; è una cosa come Atene, la madre di un modo di vita, di una maniera di vivere, che rinnoverà la giovinezza del mondo... una cosa come Nazaret. Quando ero giovane ricordo, nei vecchi tetri giorni, i saccenti scrivevano libri su come i treni sarebbero diventati più veloci, e tutto il mondo sarebbe stato un solo impero, e i tram sarebbero andati sulla [[Moon|luna]]. E persino da [[Child|bambino]] usavo dire a me stesso: 'Assai più probabile che andremo di nuovo alle [[Crusades|crociate]], o adoreremo gli dèi della [[City|città]].' E così è stato. E sono lieto, benché questa sia la mia ultima battaglia.»
+
+Proprio mentre parlava giunse un fragore d'acciaio dalla sinistra, ed egli volse il capo.
+
+«Wilson!» gridò, con una sorta di gioia. «Il Rosso Wilson ha caricato la nostra sinistra. Nessuno può trattenerlo; egli divora spade. È un soldato tanto accanito quanto Turnbull, ma meno paziente... meno veramente grande. Ah! e Barker si muove. Come è migliorato Barker; come appare avvenente. Non è tutto avere pennacchi; è anche avere un'[[Soul|anima]] nella propria vita quotidiana. Ah!»
+
+E un altro fragore d'acciaio sulla destra mostrò che Barker si era scontrato con Notting [[Hill]] dall'altro lato.
+
+«Turnbull è là!» gridò Wayne. «Guardatelo respingerli indietro! Barker è arrestato! Turnbull carica... vince! Ma la nostra sinistra è spezzata. Wilson ha travolto Bowles e Mead, e potrebbe aggirare il nostro fianco. Avanti, Guardia del Prevosto!»
+
+E tutto il centro avanzò, il volto e i capelli e la [[Sword|spada]] di Wayne fiammeggianti in testa.
+
+Il [[King|Re]] corse d'improvviso in avanti.
+
+L'istante successivo un grande urto che lo attraversò annunciò che aveva incontrato il nemico. E proprio di fronte a loro, attraverso il bosco delle loro stesse armi, Auberon vide l'Aquila Purpurea di Buck di North Kensington.
+
+Sulla sinistra il Rosso Wilson stava assaltando le file spezzate, la sua piccola figura verde cospicua persino nel groviglio di uomini e di armi, con i fiammeggianti baffi rossi e la [[Crown|corona]] d'alloro. Bowles vibrò un colpo alla sua testa e ne strappò via una parte della ghirlanda, lasciando il resto insanguinato, e, con un ruggito come quello d'un toro, Wilson gli balzò addosso e, dopo un tintinnio di scherma, affondò la sua punta nel farmacista, che cadde gridando «Notting [[Hill]]!» Allora gli abitanti di Notting Hill vacillarono, e Bayswater li ricacciò indietro nella confusione. Wilson aveva travolto ogni cosa davanti a sé.
+
+Sulla destra, tuttavia, Turnbull aveva portato il vessillo del [[Lion|Leone]] Rosso con uno slancio contro gli uomini di Barker, e lo stendardo degli [[Birds|Uccelli]] d'Oro resisteva a fatica contro di esso. Gli uomini di Barker cadevano rapidamente. Al centro Wayne e Buck erano alle prese, ostinati e confusi. Per quanto riguardava il combattimento, esso era perfettamente pari. Ma il combattimento era una farsa. Poiché dietro i tre piccoli eserciti coi quali il piccolo esercito di Wayne era alle prese giaceva il grande mare degli eserciti alleati, che per ora osservavano come spettatori sprezzanti, ma che avrebbero potuto spezzare tutti e quattro gli eserciti muovendo un dito.
+
+D'improvviso essi si mossero. Alcuni dei contingenti di prima linea, i capi [[Pastoral|pastorali]] di Shepherd's Bush, con le loro lance e i loro velli, furono visti avanzare, e i rozzi clan di Paddington Green. Avanzavano per un'ottima ragione. Buck, di North Kensington, faceva segnali freneticamente; era circondato, e totalmente tagliato fuori. I suoi reggimenti erano una massa di gente che si dibatteva, isolata come un'isola in un rosso mare di Notting [[Hill]].
+
+Gli alleati erano stati troppo incuranti e sicuri. Avevano lasciato che la forza di Barker fosse fatta a pezzi da Turnbull, e nel momento in cui ciò fu compiuto, l'astuto vecchio condottiero di Notting [[Hill]] fece volteggiare i suoi uomini e attaccò Buck alle spalle e su entrambi i lati. Nello stesso momento Wayne gridò «Carica!» e lo colpì di fronte come una folgore.
+
+Due terzi degli uomini di Buck furono fatti a pezzi prima che i loro alleati potessero raggiungerli. Poi il mare delle città giunse coi suoi vessilli come frangenti, e inghiottì Notting [[Hill]] per sempre. La battaglia non era finita, poiché neppure uno degli uomini di Wayne voleva arrendersi, e durò fino al tramonto, e a lungo dopo. Ma era decisa; la storia di Notting [[Hill]] era terminata.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
@@ -17629,6 +17883,147 @@ grey ones, swept the sky suddenly like a broom, and the whole tree
 heeled over like a [[Ship|ship]], smashing every one in its fall.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando Turnbull la vide, cessò un istante di combattere,
+e si guardò intorno.  La luce del sole calante gli colpì il volto;
+pareva quello di un [[Child|bambino]].
+
+«Ho avuto la mia giovinezza», disse.  Poi, strappando un'ascia a un uomo,
+si gettò nel folto delle lance di Shepherd's Bush,
+e morì in qualche punto lontano, nel profondo delle loro schiere vacillanti.
+Poi la battaglia tornò a ruggire; ogni uomo di Notting [[Hill]] fu
+trucidato prima di [[Night|notte]].
+
+Wayne stava presso un albero, [[Alone|solo]], dopo la battaglia.
+Parecchi uomini gli si avvicinarono con le asce.  Uno lo colpì.
+Il piede parve in parte scivolargli; ma protese la mano,
+e si tenne saldo contro l'albero.
+
+Barker gli balzò dietro, la [[Sword|spada]] in pugno, e tremante d'eccitazione.
+
+«Quanto è grande ora, mio signore», gridò, «l'Impero di Notting [[Hill]]?»
+
+Wayne sorrise nel buio che s'addensava.
+
+«Sempre grande così», disse, e roteò la [[Sword|spada]]
+in un semicerchio d'argento.
+
+Barker cadde, ferito al collo; e Wilson balzò sopra il suo
+[[Body|corpo]] come un gatto selvatico, avventandosi su Wayne.  Nello stesso istante venne
+alle spalle del Signore del [[Lion|Leone]] Rosso un grido e un bagliore giallo,
+e una massa di alabardieri di West Kensington solcò il pendio,
+con l'erba fino al ginocchio, recando innanzi a sé il vessillo giallo della [[City|città]],
+e gridando forte.
+
+Nello stesso secondo Wilson cadde sotto la [[Sword|spada]] di Wayne, apparentemente schiacciato
+come una mosca.  La grande [[Sword|spada]] si [[Rose|levò]] di nuovo come un uccello, ma Wilson
+parve levarsi con essa, e, spezzatasi la sua [[Sword|spada]], balzò
+alla gola di Wayne come un cane.  Il primo degli alabardieri gialli
+aveva raggiunto l'albero e alzò l'ascia sopra Wayne che lottava.
+Con una bestemmia il [[King|Re]] fece roteare la propria alabarda e ne calò
+la lama in faccia all'uomo.  Egli barcollò, e rotolò giù per il pendio,
+proprio mentre il furioso Wilson veniva scagliato di nuovo sul dorso.
+E di nuovo fu in piedi, e di nuovo alla gola di Wayne.
+Poi fu scagliato ancora, ma questa [[Time|volta]] ridendo trionfante.
+Stretto nella sua mano c'era il nastro rosso e giallo che Wayne portava
+come Prevosto di Notting [[Hill]].  L'aveva strappato dal luogo dove
+era stato portato per venticinque anni.
+
+Con un grido gli uomini di West Kensington si strinsero attorno a Wayne, il grande
+vessillo giallo sventolante sopra il suo capo.
+
+«Dov'è ora il tuo nastro, Prevosto?» gridò il capo di West Kensington.
+E si levò una risata.
+
+Adam colpì il portabandiera e lo fece barcollare in avanti.
+Mentre il vessillo si chinava, egli afferrò le pieghe gialle e ne strappò un brandello.
+Un alabardiere lo colpì alla spalla, ferendolo a sangue.
+
+«Ecco un colore!» gridò, cacciandosi il giallo nella cintura;
+«ed ecco!» gridò, indicando il proprio [[Blood|sangue]], «Ecco l'altro».
+
+Nel medesimo istante l'urto di un'alabarda improvvisa e pesante stese il [[King|Re]]
+tramortito o morto.  Nelle folli visioni della coscienza che svaniva,
+egli rivide qualcosa che apparteneva a un [[Time|tempo]] del tutto dimenticato,
+qualcosa che aveva veduto in qualche luogo, molto tempo prima, in un ristorante.
+Vide, con gli occhi annebbiati, il rosso e il giallo, i colori del Nicaragua.
+
+Quin non vide la fine.  Wilson, folle di gioia, balzò di nuovo
+su [[Adam Wayne]], e la grande [[Sword|spada]] di Notting [[Hill]] fu roteata
+ancora una volta in alto.  Allora gli uomini si abbassarono d'istinto al sibilante
+rumore della [[Sword|spada]] che scendeva giù dal cielo, e Wilson di
+Bayswater fu schiacciato e spazzato al suolo come una mosca.
+Di lui non rimase che un relitto; ma la lama che l'aveva
+spezzato era spezzata.  Morendo egli aveva infranto la grande [[Sword|spada]]
+e il suo incantesimo; la [[Sword|spada]] di Wayne era spezzata, all'elsa.
+Un solo assalto del nemico trascinò Wayne di forza contro l'albero.
+Erano troppo vicini per usare l'alabarda o persino la [[Sword|spada]]; erano petto
+contro petto, persino narici contro narici.  Ma Buck riuscì a liberare il pugnale.
+
+«Uccidetelo!» gridò, con voce strana e soffocata.  «Uccidetelo!
+Buono o malvagio, non è uno di noi!  Non lasciatevi accecare dal volto!...
+Dio! non siamo forse stati accecati per tutto il tempo!» e ritrasse il braccio
+per un affondo e parve chiudere gli occhi.
+
+Wayne non lasciò la mano che pendeva dal ramo dell'albero.  Ma
+un possente sussulto gli attraversò il petto, e tutta la sua enorme figura,
+come un terremoto sopra grandi colline.  E con quella convulsione di sforzo
+egli divelse il ramo dall'albero, con lingue di legno lacerato.
+E dopo averlo brandito una sola volta, lasciò cadere la clava scheggiata su Buck,
+spezzandogli il collo.  L'ideatore della Grande [[Road|Strada]] cadde a faccia
+in avanti, morto, col pugnale in una stretta d'acciaio.
+
+«Per te e per me, e per tutti gli uomini valorosi, fratello mio», disse Wayne,
+nella sua strana cantilena, «c'è del buon vino versato nella locanda in
+capo al mondo».
+
+Gli uomini ammassati fecero un altro slancio, un altro urto verso di lui; era
+troppo buio ormai per combattere con chiarezza.  Egli si afferrò di nuovo alla quercia,
+questa [[Time|volta]] ficcando la mano in un'ampia fenditura e stringendo,
+per così dire, le viscere dell'albero.  L'intera folla,
+in numero di una trentina d'uomini, si slanciò per strapparlo via da essa;
+si aggrapparono con tutto il loro peso e il loro numero, e nulla si mosse.
+Una [[Solitude|solitudine]] non avrebbe potuto essere più immobile di quel gruppo di uomini tesi nello sforzo.
+Poi si udì un debole suono.
+
+«La sua mano sta scivolando», gridarono due uomini con esultanza.
+
+«Non lo conoscete bene», disse un altro, cupo (un uomo
+della vecchia guerra).  «Più probabilmente gli si spezza l'osso».
+
+«Non è né l'uno né l'altro... per Dio, non è né l'uno né l'altro!» disse uno dei primi due.
+
+«Che cos'è, allora?» chiese il secondo.
+
+«L'albero sta cadendo», rispose.
+
+«Come l'albero cade, così giacerà», disse la voce di Wayne dalle
+tenebre, e aveva la stessa aria dolce e insieme orribile che aveva
+avuto per tutto il tempo, di provenire da una grande distanza, da prima o
+da dopo l'evento.  Anche quando si dibatteva come un'anguilla o si dimenava
+come un pazzo, parlava come uno spettatore.  «Come l'albero cade,
+così giacerà», disse.  «Gli uomini hanno chiamato quello un testo cupo.
+È l'essenza d'ogni esultanza.  Sto facendo ora ciò che ho fatto
+per tutta la mia vita, ciò che è l'unica felicità, ciò che è l'unica universalità.
+Mi sto aggrappando a qualcosa.  Che cada, e là giaccia.
+Stolti, voi andate in giro e vedete i regni della terra, e siete liberali,
+e saggi, e cosmopoliti, che è tutto ciò che il diavolo può darvi...
+tutto ciò che egli poté offrire a [[Christ|Cristo]] solo per esserne respinto.
+Io faccio ciò che fanno i veri saggi.  Quando un [[Child|bambino]] esce nel [[Garden|giardino]]
+e afferra un albero, dicendo: "Sia quest'albero tutto ciò che ho",
+in quell'istante le sue radici afferrano l'inferno e i suoi rami le [[Stars|stelle]].
+La gioia che ho è quella che l'[[Lover|amante]] conosce quando una donna è tutto.
+È quella che un selvaggio conosce quando il suo idolo è tutto.
+È quella che io conosco quando Notting [[Hill]] è tutto.  Io ho una [[City|città]].
+Che stia in piedi o cada».
+
+Mentre parlava la zolla si sollevò come una cosa viva, e da
+essa si [[Rose|levarono]] lentamente, come serpenti crestati, le radici della quercia.
+Poi la grande cima dell'albero, che pareva una nuvola verde tra
+quelle grigie, spazzò il cielo d'un tratto come una scopa, e l'intero albero
+si rovesciò come una [[Ship|nave]], schiacciando tutti nella sua caduta.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
@@ -17758,6 +18153,46 @@ with the [[Blood|blood]] of martyrs, we have turned a nursery into a temple.
 I ask you, in the name of Heaven, who wins?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+
+DUE VOCI
+
+IN un luogo in cui per ore vi fu tenebra assoluta, vi fu anche per ore un assoluto [[Silence|silenzio]].  Poi una voce parlò dalle tenebre, nessuno avrebbe potuto dire da dove, e disse ad alta voce:
+
+«Così finisce l'Impero di Notting [[Hill]].  Come cominciò nel [[Blood|sangue]], così finì nel [[Blood|sangue]], e tutte le cose sono sempre le medesime.»
+
+E vi fu di nuovo [[Silence|silenzio]], e poi di nuovo vi fu una voce, ma non aveva lo stesso tono; parve che non fosse la stessa voce.
+
+«Se tutte le cose sono sempre le medesime, è perché sono sempre eroiche.  Se tutte le cose sono sempre le medesime, è perché sono sempre nuove.  A ciascun uomo è data una sola [[Soul|anima]]; a ciascuna [[Soul|anima]] è dato soltanto un piccolo potere...il potere, in certi momenti, di superare e [[Swallow|inghiottire]] le [[Stars|stelle]].  Se età dopo età quel potere discende sugli uomini, qualunque cosa lo dia loro è grande.  Qualunque cosa faccia sentire vecchi gli uomini è meschina...un impero o una bottega da spilorci.  Qualunque cosa faccia sentire giovani gli uomini è grande...una grande guerra o una storia d'[[Love|amore]].  E nel più oscuro dei libri di Dio è scritta una [[Truth|verità]] che è anche un [[Riddle|enigma]].  Sono le cose nuove che stancano gli uomini...le mode e le proposte e i miglioramenti e il mutamento.  Sono le cose antiche che stupiscono e inebriano.  Sono le cose antiche che sono giovani.  Non v'è scettico che non senta che molti hanno dubitato prima di lui.  Non v'è uomo ricco e volubile che non senta che tutte le sue novità sono antiche.  Non v'è adoratore del mutamento che non senta sul proprio collo il peso immenso della stanchezza dell'universo.  Ma noi che facciamo le cose antiche siamo nutriti dalla [[Nature|natura]] con una perpetua infanzia.  Nessun uomo che sia in [[Love|amore]] pensa che qualcuno sia stato in [[Love|amore]] prima di lui.  Nessuna donna che abbia un [[Child|figlio]] pensa che siano mai esistite cose simili ai figli.  Nessun popolo che combatta per la propria [[City|città]] è ossessionato dal fardello degli imperi caduti.  Sì, oh voce oscura, il mondo è sempre il medesimo, perché è sempre inatteso.»
+
+Una piccola folata di [[Wind|vento]] soffiò attraverso la [[Night|notte]], e allora la prima voce rispose:
+
+«Ma in questo mondo ve ne sono alcuni, siano essi savi o folli, che nulla inebria.  Ve ne sono alcuni che vedono tutti i vostri tumulti come un nugolo di mosche.  Sanno che, mentre gli uomini rideranno della vostra Notting [[Hill]], e studieranno e reciteranno e canteranno di Atene e di Gerusalemme, Atene e Gerusalemme furono sciocchi sobborghi come la vostra Notting [[Hill]].  Sanno che la terra stessa è un sobborgo, e sanno provare soltanto un tetro e rispettabile divertimento mentre si muovono su di essa.»
+
+«Sono filosofi oppure sono sciocchi», disse l'altra voce.  «Non sono uomini.  Gli uomini vivono, come dico, esultando di età in età per qualcosa di più fresco del progresso...per il fatto che con ogni bimbo si fanno un nuovo sole e una nuova [[Moon|luna]].  Se la nostra antica umanità fosse un solo uomo, forse accadrebbe che egli crollasse sotto il [[Memory|ricordo]] di così tante fedeltà, sotto il fardello di così tanti diversi eroismi, sotto il peso e il terrore di tutta la bontà degli uomini.  Ma è piaciuto a Dio isolare a tal punto l'[[Soul|anima]] individuale che essa può apprendere di tutte le altre anime soltanto per sentito dire, e a ciascuna la bontà e la felicità giungono con la giovinezza e la violenza del [[Lightning|fulmine]], momentanee e pure.  E la condanna del fallimento che grava su tutti i sistemi umani non li tocca in realtà più di quanto i vermi dell'inevitabile [[Grave|tomba]] tocchino il gioco dei bambini in un prato.  Notting [[Hill]] è caduta; Notting [[Hill]] è morta.  Ma non è questa la questione tremenda.  Notting [[Hill]] è vissuta.»
+
+«Ma se», rispose l'altra voce, «se ciò che è conseguito da tutti questi sforzi non è che il comune contentamento dell'umanità, perché mai gli uomini penano e muoiono così smisuratamente per esso?  Nulla è stato fatto da Notting [[Hill]] che un qualsiasi casuale gruppo di contadini o clan di selvaggi non avrebbe fatto senza di essa?  Che cosa avrebbe potuto essere fatto a Notting [[Hill]] se il mondo fosse stato diverso può essere una domanda profonda; ma ve n'è una più profonda.  Che cosa sarebbe potuto accadere al mondo se Notting [[Hill]] non fosse mai esistita?»
+
+L'altra voce replicò:
+
+«Lo stesso che sarebbe accaduto al mondo e a tutti i sistemi stellati se un melo desse sei mele invece di sette; qualcosa sarebbe andato eternamente perduto.  Non vi è mai stato nulla al mondo assolutamente simile a Notting [[Hill]].  Non vi sarà mai nulla di simile fino allo schianto del giudizio.  Non posso credere ad altro se non che Dio l'amò come deve certamente [[Love|amare]] qualsiasi cosa sia se stessa e insostituibile.  Ma nemmeno di questo mi curo.  Se Dio, con tutti i suoi tuoni, l'avesse odiata, io l'ho amata.»
+
+E con la voce una figura alta e strana si levò dalle macerie nella semioscurità.
+
+L'altra voce giunse dopo una lunga pausa, e come rauca.
+
+«Ma supponi che l'intera faccenda fosse davvero un abracadabra. Supponi che, qualunque significato tu voglia nella tua fantasia darle, il vero significato del tutto fosse beffa.  Supponi che fosse tutta follia.  Supponi...»
+
+«Vi sono stato dentro», rispose la voce dalla figura alta e strana, «e so che non lo era.»
+
+Una figura più piccola parve levarsi a metà nel buio.
+
+«Supponi che io sia Dio», disse la voce, «e supponi che io abbia fatto il mondo per ozio.  Supponi che le [[Stars|stelle]], che tu credi eterne, non siano che gli idioti fuochi d'artificio di un eterno scolaretto.  Supponi che il sole e la [[Moon|luna]], cui tu canti alternatamente, non siano che i due occhi di un solo immane e sogghignante gigante, aperti alternatamente in un ammiccare senza fine.  Supponi che gli alberi, ai miei occhi, siano sciocchi come enormi funghi velenosi. Supponi che Socrate e Carlomagno siano per me soltanto bestie, rese più buffe dal camminare sulle zampe posteriori.  Supponi che io sia Dio, e, avendo fatto le cose, ne rida.»
+
+«E supponi che io sia uomo», rispose l'altro.  «E supponi che io dia la risposta che infrange perfino una risata.  Supponi che io non ti risponda con una risata, non ti bestemmi, non ti maledica.  Ma supponi che, ergendomi diritto sotto il cielo, con ogni potere del mio essere, io ti ringrazi per il paradiso degli sciocchi che hai fatto.  Supponi che io ti lodi, con un letterale [[Pain|dolore]] d'estasi, per lo scherzo che mi ha recato una gioia così terribile.  Se abbiamo preso i giochi del [[Child|fanciullo]], e dato loro la serietà di una Crociata, se abbiamo intriso il tuo [[Grotesque|grottesco]] [[Garden|giardino]] olandese col [[Blood|sangue]] dei martiri, abbiamo mutato una stanza dei bambini in un tempio.  Ti chiedo, in nome del Cielo, chi vince?»
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
@@ -17879,3 +18314,50 @@ Then he made the formal salute with his halberd, and they went away
 together into the unknown world.
 
 THE END.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il cielo stretto attorno alla cresta delle colline e degli alberi cominciava a mutare dal nero al grigio, con un vago accenno del mattino. La figura esile pareva strisciare verso quella più grande, e la voce era più umana.
+
+«Ma supponi, amico», disse, «supponi che, in un senso più amaro e più reale, fosse tutto una beffa. Supponi che vi fosse stato, fin dal principio di queste grandi guerre, uno che le osservava con un sentimento che è oltre ogni espressione, un sentimento di distacco, di responsabilità, di ironia, di angoscia. Supponi che vi fosse uno che sapeva che era tutto uno scherzo.»
+
+La figura alta rispose:
+
+«Non poteva saperlo. Poiché non era tutto uno scherzo.»
+
+E una raffica di [[Wind|vento]] spazzò via alcune nubi che sigillavano la linea dell'orizzonte, e mostrò una striscia d'argento dietro le sue grandi gambe oscure. Poi giunse l'altra voce, essendosi insinuata ancora più vicino.
+
+«[[Adam Wayne]]», disse, «vi sono uomini che confessano solo in articulo mortis; vi sono persone che si biasimano soltanto quando non possono più aiutare gli altri. Io sono uno di questi. Qui, sul campo del sanguinoso epilogo di tutto, vengo a dirti apertamente ciò che non avresti mai compreso prima. Sai chi sono io?»
+
+«Ti conosco, [[Auberon Quin]]», rispose la figura alta, «e sarò lieto di sgravare il tuo spirito di qualunque cosa lo opprima.»
+
+«[[Adam Wayne]]», disse l'altra voce, «di ciò che ho da dire non puoi, per semplice ragione, essere lieto di sgravarmi. Wayne, era tutto uno scherzo. Quando creai queste città, non me ne importava più di quanto mi importi di un centauro, o di un tritone, o di un pesce con le gambe, o di un maiale con le piume, o di qualsiasi altra assurdità. Quando ti parlai solennemente e con incoraggiamento della [[Flag|bandiera]] della tua [[Freedom|libertà]] e della pace della tua [[City|città]], stavo giocando un volgare scherzo a un onesto gentiluomo, un volgare scherzo durato vent'anni. Benché forse nessuno potrebbe crederlo di me, è la [[Truth|verità]] che sono un uomo insieme timido e di cuore tenero. Non osai mai, nei primi giorni della tua [[Hope|speranza]], né nei giorni centrali della tua supremazia, dirti questo; non osai mai rompere la calma colossale del tuo volto. Dio sa perché dovrei farlo ora, che la mia farsa è finita in [[Tragedy|tragedia]] e nella rovina di tutto il tuo popolo! Ma lo dico ora. Wayne, fu fatto per scherzo.»
+
+Vi fu [[Silence|silenzio]], e la brezza che si ravvivava spazzava il cielo sempre più limpido, lasciando grandi spazi della bianca [[Dawn|alba]].
+
+Alla fine Wayne disse, assai lentamente:
+
+«Facesti tutto questo soltanto per scherzo?»
+
+«Sì», disse Quin.
+
+«Quando concepisti l'idea», proseguì Wayne, sognante, «di un esercito per Bayswater e di una [[Flag|bandiera]] per Notting [[Hill]], non vi fu alcun barlume, alcun accenno nella tua mente che simili cose potessero essere reali e appassionate?»
+
+«No», rispose Auberon, volgendo il suo volto tondo e bianco verso il mattino con una spenta e splendida sincerità; «non ne ebbi alcuno.»
+
+Wayne balzò giù dall'altura sopra di lui e tese la mano.
+
+«Non mi fermerò a ringraziarti», disse, con una curiosa gioia nella voce, «per il grande bene che hai realmente operato per il mondo. Tutto ciò che penso di quanto ti ho detto un momento fa, persino quando credevo che la tua voce fosse la voce di un'onnipotenza beffarda, il cui riso è più antico dei venti del cielo. Ma lascia che dica ciò che è immediato e vero. Tu ed io, [[Auberon Quin]], siamo stati entrambi, lungo tutta la nostra vita, più e più volte chiamati pazzi. E siamo pazzi. Siamo pazzi, perché non siamo due uomini ma un solo uomo. Siamo pazzi, perché siamo due lobi dello stesso cervello, e quel cervello è stato spaccato in due. E se chiedi la prova di ciò, non è difficile da trovare. Non è soltanto che tu, l'umorista, sei stato in questi giorni oscuri spogliato della gioia della gravità. Non è soltanto che io, il fanatico, ho dovuto brancolare senza [[Humour|umorismo]]. È che, benché sembriamo opposti in tutto, siamo stati opposti come l'uomo e la donna, mirando nel medesimo istante alla medesima cosa pratica. Siamo il padre e la madre della Carta delle Città.»
+
+Quin abbassò lo sguardo sui detriti di [[Leaves|foglie]] e legname, le reliquie della battaglia e della fuga precipitosa, ora luccicanti nella luce ardente del giorno, e infine disse:
+
+«Eppure nulla può mutare l'antagonismo... il fatto che io ho riso di queste cose e tu le hai adorate.»
+
+Il volto selvaggio di Wayne fiammeggiò di qualcosa di divino, mentre lo volgeva a essere colpito dall'aurora.
+
+«Conosco qualcosa che muterà quell'antagonismo, qualcosa che è al di fuori di noi, qualcosa di cui tu ed io per tutta la vita forse abbiamo tenuto troppo poco conto. L'eguale ed eterno essere umano muterà quell'antagonismo, poiché l'essere umano non vede alcun reale antagonismo tra il riso e il rispetto, l'essere umano, l'[[Common Man|uomo comune]], che meri geni come te e me possono solo adorare come un dio. Quando vengono giorni oscuri e tetri, tu ed io siamo necessari, il puro fanatico, il puro satirico. Abbiamo insieme rimediato a un grande torto. Abbiamo innalzato le città moderne in quella poesia che chiunque conosca l'umanità sa essere incommensurabilmente più comune del comune. Ma nelle persone sane non c'è guerra tra noi. Non siamo che i due lobi del cervello di un aratore. Il riso e l'[[Love|amore]] sono ovunque. Le cattedrali, edificate nelle epoche che amavano Dio, sono piene di grotteschi blasfemi. La madre ride di continuo del [[Child|bambino]], l'[[Lover|amante]] ride di continuo dell'[[Lover|amante]], la moglie del marito, l'amico dell'amico. [[Auberon Quin]], siamo stati separati troppo a lungo, usciamo insieme. Tu hai un'alabarda ed io una [[Sword|spada]], cominciamo i nostri vagabondaggi per il mondo. Poiché noi siamo i suoi due elementi essenziali. Vieni, è già giorno.»
+
+Nella bianca luce vuota Auberon esitò un momento. Poi fece il saluto formale con la sua alabarda, e se ne andarono insieme nel mondo ignoto.
+
+FINE.
